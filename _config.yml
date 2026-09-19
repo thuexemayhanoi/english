@@ -1,0 +1,28 @@
+title: Hanoi Motorbike Guide
+description: English-language guides on motorbikes, rental, laws, maintenance and riding in Hanoi and Vietnam.
+baseurl: "/english"
+url: "https://thuexemayhanoi.github.io"
+permalink: /:categories/:title/
+markdown: kramdown
+highlighter: rouge
+
+collections:
+  articles:
+    output: true
+    permalink: /articles/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "articles"
+    values:
+      layout: "article"
+      author: "Nguyen Tu Motorbike Guide"
+
+exclude:
+  - _queue
+  - docs
+  - README.md
+  - Gemfile
+
+plugins: []

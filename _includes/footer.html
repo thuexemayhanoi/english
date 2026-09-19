@@ -1,0 +1,33 @@
+<footer class="site-footer">
+  <div class="container">
+    <details class="footer-accordion" open>
+      <summary>Explore the guide</summary>
+      <div class="footer-cols">
+        <div>
+          <h3>Riding in Hanoi</h3>
+          <ul>
+            <li><a href="{{ '/articles/' | relative_url }}">All guides</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3>Laws &amp; licences</h3>
+          <ul>
+            {% for a in site.articles limit: 5 %}
+              {% if a.topic_cluster == "law-licences" %}<li><a href="{{ a.url | relative_url }}">{{ a.title }}</a></li>{% endif %}
+            {% endfor %}
+          </ul>
+        </div>
+        <div>
+          <h3>Contact Nguyen Tu</h3>
+          <ul>
+            <li>112 Nguyen Van Cu Street, Bo De, Long Bien, Hanoi</li>
+            <li>09:00&ndash;21:00 daily</li>
+            <li><a href="tel:+84942467674">+84 942 467 674</a></li>
+            <li><a href="https://thuexemaynguyentu.com/" rel="noopener">Main website</a></li>
+          </ul>
+        </div>
+      </div>
+    </details>
+    <p class="footer-note">&copy; Hanoi Motorbike Rental Nguyen Tu. Information guides; verify current rules before riding.</p>
+  </div>
+</footer>

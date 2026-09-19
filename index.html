@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="hero">
+  <h1>Motorbike guides for Hanoi and Vietnam</h1>
+  <p>Clear English-language guides on renting, riding, licences, maintenance and trips &mdash; written for tourists, expats, teachers and students.</p>
+  <a class="btn btn-primary" href="{{ '/articles/' | relative_url }}">Browse all guides</a>
+</div>
+<h2>Latest guides</h2>
+<ul class="card-list">
+  {% assign latest = site.articles | sort: "last_reviewed" | reverse %}
+  {% for a in latest limit: 6 %}
+    <li class="card">
+      <a href="{{ a.url | relative_url }}">
+        <span class="card-title">{{ a.title }}</span>
+        <span class="card-desc">{{ a.description }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>

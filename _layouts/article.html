@@ -1,0 +1,41 @@
+---
+layout: default
+---
+{% include breadcrumbs.html %}
+<article class="article" itemscope itemtype="https://schema.org/BlogPosting">
+  <header class="article-header">
+    <h1 itemprop="headline">{{ page.title }}</h1>
+    <p class="meta">
+      {% if page.last_reviewed %}Last reviewed: <time itemprop="dateModified" datetime="{{ page.last_reviewed }}">{{ page.last_reviewed }}</time>{% endif %}
+      {% if page.content_type %} &middot; {{ page.content_type }}{% endif %}
+    </p>
+  </header>
+  <div class="article-body" itemprop="articleBody">
+    {{ content }}
+  </div>
+  {% include contact-cta.html %}
+  {% if page.internal_link_targets %}
+  <aside class="related">
+    <h2>Related guides</h2>
+    <ul>
+      {% assign targets = page.internal_link_targets | split: ", " %}
+      {% for t in targets %}
+        {% assign rel = site.articles | where: "slug", t | first %}
+        {% if rel %}<li><a href="{{ rel.url | relative_url }}">{{ rel.title }}</a></li>{% endif %}
+      {% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+</article>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ page.title | jsonify }},
+  "datePublished": {{ page.last_reviewed | jsonify }},
+  "dateModified": {{ page.last_reviewed | jsonify }},
+  "description": {{ page.description | jsonify }},
+  "author": {"@type": "Organization", "name": "Hanoi Motorbike Rental Nguyen Tu"},
+  "publisher": {"@type": "Organization", "name": "Hanoi Motorbike Rental Nguyen Tu"}
+}
+</script>

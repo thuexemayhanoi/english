@@ -1,0 +1,19 @@
+---
+layout: default
+---
+{% include breadcrumbs.html %}
+<h1>{{ page.title }}</h1>
+{{ content }}
+{% assign cluster = page.topic_cluster %}
+<ul class="card-list">
+  {% for a in site.articles %}
+    {% if a.topic_cluster == cluster %}
+      <li class="card">
+        <a href="{{ a.url | relative_url }}">
+          <span class="card-title">{{ a.title }}</span>
+          <span class="card-desc">{{ a.description }}</span>
+        </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

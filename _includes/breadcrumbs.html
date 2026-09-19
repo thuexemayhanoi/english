@@ -1,0 +1,14 @@
+{% if page.url != "/" %}
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a itemprop="item" href="{{ '/' | relative_url }}"><span itemprop="name">Home</span></a>
+      <meta itemprop="position" content="1">
+    </li>
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a itemprop="item" href="{{ page.url | relative_url }}"><span itemprop="name">{{ page.title }}</span></a>
+      <meta itemprop="position" content="2">
+    </li>
+  </ol>
+</nav>
+{% endif %}
