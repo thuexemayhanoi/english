@@ -1,96 +1,89 @@
-# SOURCE MAP — English Motorbike Knowledge Hub
+# SOURCE MAP v2 — English Motorbike Knowledge Hub
 
-Status: PROPOSED — awaiting owner approval. No articles written yet.
+Status: PROPOSED v2 — awaiting owner approval and first-party data (GSC export, customer questions, OWNER-FACTS).
 
-All reference sources are used for research, topic discovery and UX inspiration only. Nothing is copied. Article truth is never decided by majority vote; the reliability hierarchy below governs conflicts (official law > legal analysis > established publication > commercial site > forum).
+## Source precedence (absolute rule)
+
+FIRST-PARTY DATA (owner-provided: GSC, customer questions, OWNER-FACTS)
+> PRIMARY / OFFICIAL SOURCE (government law, official tourism, official docs)
+> MANUFACTURER (Honda VN, Yamaha VN, VinFast, SYM, Suzuki, Piaggio official specs)
+> SPECIALIST PUBLICATION (established media, legal libraries)
+> COMMERCIAL WEBSITE (competitors, shops, rental sites)
+> FORUM / COMMUNITY.
+
+Competitor websites are for discovery, not truth. Article truth is never decided by majority vote.
 
 ## Reliability classes
 
-- A — authoritative / primary (official business source, government law, manufacturer specs)
+- A — authoritative / primary (first-party owner data, government, manufacturer, official documentation)
 - B — strong specialist or established publication
 - C — useful commercial reference
 - D — forum / community / inspiration only
 
 ---
 
-## 1. Rental / competitor / UX references
+## 0. FIRST-PARTY DATA (highest priority — owner supplied)
 
-| Source | Type | Class | Topics | How to use | Do NOT copy |
+| Source | Type | Class | Topics | How to use | Notes |
 |---|---|---|---|---|---|
-| https://hanoimotorbikerental.com/ | Competitor rental site | C | Rental-site architecture, navigation, landing-page patterns, foreign-customer intents | IA and landing-page pattern inspiration only | Branding, page structure, text, claims, photos |
-| https://riderly.com/rental-locations/vietnam/hanoi/ | International rental platform | C | Rental terminology, vehicle taxonomy, traveller intents, booking UX | Terminology and category framing for foreign readers | Layout, listings, vehicle photos, prices |
-| https://rentalmotorbikehanoi.com/ | Competitor rental site | C | Rental FAQs, topic discovery, foreign-user questions | FAQ/topic discovery only | FAQs text, claims, structure |
-| https://motogo.vn/ha-noi/ | Rental platform | C | Vehicle cards, model/spec presentation, licence-requirement fields | Card UX inspiration (fields: image, model, type, engine, transmission, licence, suitability, range/fuel, CTA). Original design only | MOTOGO layout, branding, images, model claims |
+| Google Search Console export of thuexemaynguyentu.com (6–12 months: query, page, impressions, clicks, position) | First-party search data | A+ | Real search intents driving the business | Primary input for CUSTOMER-INTENTS store and MASTER MATRIX intent generation | Pending owner upload |
+| Anonymized customer questions from WhatsApp/Zalo/Facebook (100–300, no names/phone numbers) | First-party voice data | A+ | Real customer intents and phrasing | Seed intents, FAQ content, article angle selection | Pending owner upload; PII must be stripped before upload |
+| OWNER-FACTS.md | Owner-declared business facts | A+ | Fleet, pricing rules, deposits, insurance, delivery hours, contact | Absolute priority for all business claims. External websites may NEVER override this file | Template created at docs/OWNER-FACTS.md, awaiting owner data |
 
-## 2. Hanoi / Vietnam travel sources
+## 1. Manufacturer sources (class A for specs)
 
-| Source | Type | Class | Topics | How to use | Do NOT copy |
-|---|---|---|---|---|---|
-| https://www.travelguidevietnam.net/ | Travel guide | C | Destinations, regional guides, transport intents | Destination entity discovery, itinerary concepts | Text, images, itineraries verbatim |
-| https://www.insightguides.com/destinations/asia-pacific/vietnam/travel-guide | Established guide publisher | B | Destination research, itinerary concepts, travel structure | Background research on traveller questions | Any copyrighted text/images |
-| https://travelhanoi.com.vn/ | Hanoi tourism site | C | Hanoi attractions, districts, itineraries | Destination entities, district taxonomy | Text, photos, itineraries |
-| https://travelhanoi.org/ | Hanoi travel site | C | Hanoi taxonomy, attractions, food/culture/neighbourhoods | Intent discovery for riding-relevant Hanoi topics | Text, photos |
-| https://govietnamtrip.com/ | Travel operator | C | Motorcycle trip ideas, routes from Hanoi, road-trip planning | Route/trip topic discovery. Important route/safety facts must be independently verified before publication | Itineraries, text, claims, images |
+| Source | Class | Use for | Notes |
+|---|---|---|---|
+| https://hondavn.com.vn/ (Honda Vietnam) | A | Model catalog and specs: Vision, Air Blade, SH Mode, Wave, Future, Super Cub, Lead, etc. | Canonical source for Honda specs; check model year per article |
+| https://yamaha-motor.com.vn/ (Yamaha Motor Vietnam) | A | Specs: Janus, Grande, FreeGo, Sirius, Exciter, PG-1, NEO's, etc. | Canonical for Yamaha |
+| https://vinfastauto.com/ (VinFast) | A | Electric specs: power, battery, range, top speed, charge time, test conditions | VinFast publishes range with test conditions; always note that real-world range varies with speed, temperature, terrain, load |
+| SYM Vietnam, Suzuki Vietnam, Piaggio Vietnam | A (when added) | Model specs for expanded reviews | Optional expansion |
 
-## 3. Repair / maintenance sources
+Rule: manufacturer spec page beats retailer listing, beats classifieds, beats forum — always.
 
-| Source | Type | Class | Topics | How to use | Do NOT copy |
-|---|---|---|---|---|---|
-| https://www.2banh.vn/threads/tong-hop-cua-hang-sua-chua-tan-trang-do-xe-may-uy-tin-tai-ha-noi.14966/ | Forum thread | D | Hanoi repair ecosystem, workshop topics, maintenance terminology | Topic discovery and vocabulary only; never repeat user claims as facts | Any forum text, workshop claims, recommendations |
-| https://www.scribd.com/document/979654012/... (Sửa chữa xe máy textbook) | Copyrighted textbook | D | Maintenance concept coverage, terminology | Understand topic scope only | ALL text, tables, diagrams — copyrighted |
-| https://hocngheoto.edu.vn/download/tai-lieu-sua-chua-xe-may | Vocational training material | D | Repair taxonomy, mechanical terminology | Topic taxonomy only | Text, documents, diagrams |
-| https://thietbithaovoxe.com/bo-suu-tap-du-lieu-sua-chua-xe-may-2077.html | Equipment seller data collection | D | Repair topics, service-equipment concepts | Component/topic discovery | Text, spec sheets; specs must be re-verified from model-specific reliable sources |
+## 2. Government / legal sources (highest tier for law)
 
-## 4. Parts / riding gear sources
+| Source | Class | Use for | Notes |
+|---|---|---|---|
+| Law on Road Traffic Order and Safety (Luật Trật tự, an toàn giao thông đường bộ) via government portal (chinhphu.vn, vanban.chinhphu.vn) and Ministry of Public Security documents | A | Licence classes A1/A and licence conditions, traffic rules | Top tier for legal articles. Track 2026+ amendments from official documents, not summary blogs |
+| Underlying decrees on penalties, registration, helmet standards (QCVN) | A | Fines, helmet law, registration | Identify exact decree number and effective date; record last_reviewed |
+| thuvienphapluat.vn | B | Legal topic discovery, quick statute lookup | Secondary; always trace to the statute text |
+| mva.vn | C | Commentary cross-check | Never sole source |
 
-| Source | Type | Class | Topics | How to use | Do NOT copy |
-|---|---|---|---|---|---|
-| https://chobaoho.vn/ | Gear shop | C | Helmets, gloves, protection, safety-gear taxonomy, buyer-guide topics | Category and terminology discovery | Product descriptions, images, marketing claims |
-| https://gsports.vn/san-pham/quan-ao-motor/ | Gear shop | C | Motorcycle clothing categories, protective-equipment terms | Article topic discovery; never treat shop marketing as product evidence | Descriptions, images, claims |
+## 3. Official tourism sources
 
-## 5. Electric motorbike sources
+| Source | Class | Use for | Notes |
+|---|---|---|---|
+| https://vietnam.travel/ (Vietnam National Authority of Tourism) | A | Destination taxonomy, Hanoi, Northern destinations (Ha Giang, Ha Long, Mai Chau, Ninh Binh, Sa Pa), transport, weather, safety, itineraries | Preferred over commercial travel sites for destination facts |
+| insightguides.com | B | Itinerary concepts, traveller questions | Background only |
 
-| Source | Type | Class | Topics | How to use | Do NOT copy |
-|---|---|---|---|---|---|
-| https://xedienvietthanh.com/xe-may-dien/ | Electric bike dealer | C | E-bike/e-motorbike models, battery/range taxonomy, categories, comparisons | Model discovery and feature framing. Specs verified from manufacturer sources before publication. NEVER imply Nguyen Tu rents these models | Listings, images, range claims |
+Commercial travel sites (travelguidevietnam.net, travelhanoi.com.vn, travelhanoi.org, govietnamtrip.com) remain class C/D: discovery only; route/safety facts independently verified (flag R2).
 
-## 6. 50cc motorbike sources
+## 4. Technical / service data
 
-| Source | Type | Class | Topics | How to use | Do NOT copy |
-|---|---|---|---|---|---|
-| https://xebaonam.com/xe-may-50cc-pc,37322 | Classifieds portal | C | 50cc models, brands, categories, specs | Model discovery and topic ideas; specs re-verified before publication | Listings, images, prices |
+Priority order for maintenance articles: manufacturer owner's manual / official service information (A) > specialist publication (B) > everything else. Part-shop sites, forums, Scribd textbooks are topic discovery only. Torque values, oil capacities, pressures, voltages, service intervals NEVER come from forums or shop sites (flag R5).
 
-## 7. Motorbike news / model reviews
+## 5. SEO / web-development documentation
 
-| Source | Type | Class | Topics | How to use | Do NOT copy |
-|---|---|---|---|---|---|
-| https://m.autopro.com.vn/... (Honda SH Mode 2026 article) | Automotive publication | B | New-model news, model-year updates, spec changes, news article structure | Example structure for future news/model articles; always check model year and publication date | Article text, images, data presented without verification |
+| Source | Class | Use for |
+|---|---|---|
+| Google Search Central (developers.google.com/search) | A | Canonical, sitemap, structured data, pagination guidance |
+| schema.org | A | Schema types (Article, BreadcrumbList, LocalBusiness, FAQPage) |
+| jekyllrb.com docs | A | Liquid, collections, pagination |
+| docs.github.com (GitHub Pages) | A | Pages limits, build behavior, plugins |
 
-## 8. Vietnam motorbike law / licences
+Implementation decisions follow official docs, never an SEO blog's recipe.
 
-| Source | Type | Class | Topics | How to use | Do NOT copy |
-|---|---|---|---|---|---|
-| https://thuvienphapluat.vn/... (licence types 2026) | Legal library | B | Licence categories, current legal terminology, legal topic discovery | Research starting point; always trace to the underlying law/decree and check effective dates | Article text |
-| https://mva.vn/quy-dinh-ve-giay-phep-lai-xe-cac-loai-bang-lai-xe-may/ | Legal/commercial analysis | C | Licence regulation commentary | Secondary cross-check only | Text |
+## 6. Competitor / commercial references (discovery only, class C)
 
-Legal article rule: never rely on a single secondary webpage. Identify the underlying law/decree (e.g. Law on Road Traffic Order and Safety, Decree on penalties), compare dates, record `last_reviewed`, separate legal facts from practical advice.
+hanoimotorbikerental.com · riderly.com · rentalmotorbikehanoi.com · motogo.vn (card UX fields: image, model, type, engine, transmission, licence requirement, suitability, range/fuel, CTA — original design only, no cloning) · chobaoho.vn · gsports.vn · xedienvietthanh.com · xebaonam.com · autopro.com.vn (news structure example, date-checked) · hocngheoto.edu.vn · thietbithaovoxe.com · 2banh.vn forum · Scribd textbook.
 
-## 9. Official business source
+All C/D rules from SOURCE-MAP v1 apply: no text, images, diagrams, testimonials, branding, marketing claims as facts.
 
-| Source | Type | Class | Topics | How to use | Do NOT copy |
-|---|---|---|---|---|---|
-| https://thuexemaynguyentu.com/ | PRIMARY business source | A | Verified Nguyen Tu business information | Only source for business facts: name, address (112 Nguyen Van Cu Street, Bo De, Long Bien, Hanoi), phone/WhatsApp/Zalo (+84 942 467 674), hours (09:00–21:00 daily). If business pages conflict, flag the conflict — never guess | — |
+## Research-verification flags
 
-Additional authoritative sources to be used for verification during article production (not in the supplied pack): manufacturer official spec pages (Honda VN, Yamaha VN, Piaggio VN, VinFast), vietnam.gov.vn / thuvienphapluat statute texts, and government decree texts.
-
----
-
-## Research-verification rule (applies to all sources)
-
-Every fact category below requires fresh verification against a class A or B source before publication, regardless of what any class C/D source says:
-
-1. Licence categories, traffic fines, effective dates of laws
-2. Vehicle specifications (engine, power, weight, range, battery)
-3. Route conditions, distances, road quality, safety advisories
-4. Maintenance intervals, oil capacities, torque values, electrical values
-5. Pricing, availability, and any Nguyen Tu business claim (class A source only)
+- R1 legal: current law/decree text (class A government) required
+- R2 travel/route: independent verification of conditions, distances, safety
+- R3 specs: manufacturer-class source
+- R4 business: OWNER-FACTS / class A only; external sites cannot override
+- R5 technical: manufacturer service data only for torque/oil/pressure/voltage/intervals
