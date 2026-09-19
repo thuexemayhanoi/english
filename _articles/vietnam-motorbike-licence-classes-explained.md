@@ -1,49 +1,57 @@
 ---
-title: "Vietnam Motorbike Licence Classes Explained (A1, A, B1)"
+title: "Vietnam Motorbike Licence Classes Explained (A1, A, A2, B1)"
 slug: vietnam-motorbike-licence-classes-explained
-description: "What the Vietnamese A1, A and B1 licence classes let you ride, how the 2025 traffic law changed the limits, and what applies to foreign riders."
+description: ""The post-2025 Vietnamese motorcycle licence classes A1, A, A2 and B1: engine sizes, electric power limits, minimum ages, and what changed on 1 January 2025.""
 category: law-licences
-tags: [licence, a1, law, vietnam]
+tags:
+  - "licence"
+  - "a1"
+  - "a2"
+  - "b1"
+  - "law"
+  - "vietnam"
 content_type: legal
 search_intent: informational
 topic_cluster: law-licences
 subcluster: "11.1 licence-system"
+date_published: 2026-09-19
 last_reviewed: 2026-09-19
+review_status: REVIEW_REQUIRED
 sources:
-  - "Law on Road Traffic Order and Safety No. 36/2024/QH15 (effective 2025-01-01)"
-  - "Decree 151/2024/ND-CP"
-  - "Decree 168/2024/ND-CP"
-internal_link_targets: "a1-licence-vietnam-what-you-can-ride, can-tourists-ride-motorbike-vietnam, idp-vietnam-motorbike-rules"
+  - "Law on Road Traffic Order and Safety No. 36/2024/QH15 (effective 2025-01-01) — https://luatvietnam.vn/giao-thong/luat-trat-tu-an-toan-giao-thong-duong-bo-2024-quy-dinh-nhu-the-nao-ve-giay-phep-lai-xe-hang-a1-863-100479-article.html"
+  - "Decree 168/2024/ND-CP, Article 7 (Ministry of Public Security summary) — https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650"
+internal_link_targets: "a1-licence-vietnam-what-you-can-ride, 50cc-licence-vietnam, electric-bike-licence-vietnam, idp-vietnam-motorbike-rules"
 ---
 
-Vietnam groups two- and three-wheeler riding rights into licence classes, and the rules were rewritten by the Law on Road Traffic Order and Safety (No. 36/2024/QH15), which took effect on 1 January 2025. If you read anything older than that, treat it with suspicion — the class limits changed.
+> **Review notice:** This article is marked REVIEW_REQUIRED. It was corrected against primary legal sources on 2026-09-19. Figures marked "pending verification" still need confirmation against the current decree text before this article is considered verified.
 
-## The classes in brief
+Vietnam rewrote its two- and three-wheeler licence classes in the Law on Road Traffic Order and Safety (No. 36/2024/QH15), effective 1 January 2025. Older articles — including earlier versions of this one — described a different structure. This version reflects the post-2025 classes.
 
-| Class | What it covers |
-|---|---|
-| A1 | Two-wheel motorbikes up to 125cc, and electric two-wheelers up to 11 kW |
-| A | Two-wheel motorbikes above the A1 limits, including larger electric machines |
-| B1 | Automatic transmission vehicles (cars and automatic two-wheelers up to 125cc equivalent) |
+## The motorcycle classes after 1 January 2025
 
-The A1 class is the one almost everyone in Vietnam holds, and the one that matters for renting a typical scooter or underbone.
+| Class | What it covers | Minimum age |
+|---|---|---|
+| A1 | Two-wheel motorbikes from 50cc to under 125cc; electric two-wheelers from 4 kW to under 11 kW | 18 |
+| A | Two-wheel motorbikes from 125cc to under 175cc; electric from 11 kW to under 14 kW | 18 |
+| A2 | Two-wheel motorbikes 175cc and above; electric 14 kW and above | 18 |
+| B1 | Three-wheel motorbikes | 18 |
 
-## What changed on 1 January 2025
+The big-bike class is now A2, not A. Class A is a middle tier between A1 and A2 that did not exist in the same form before 2025.
 
-Under the new law, an A1 licence issued from 2025 covers motorbikes up to 125cc instead of the previous 175cc. If your Vietnamese A1 was issued before 1 January 2025, it still covers up to 175cc and you do not need to retest. Riders who want more than 125cc on a new licence need the higher A class.
+If you see B1 described as an "automatic car" licence, that reflects the pre-2025 scheme. Under the new law, B1 in the motorcycle system covers three-wheel motorbikes. Car licences sit in separate classes.
 
-For electric two-wheelers, the thresholds are power-based rather than displacement-based: machines up to 11 kW fall under A1, and genuinely low-power electric bikes (up to 4 kW and limited to 50 km/h) are treated separately from motorbikes altogether.
+## Transitional rule for existing A1 holders
 
-## 50cc and small electric bikes
+An A1 licence issued before 1 January 2025 continues to cover two-wheelers from 50cc up to (but not including) 175cc, or electric machines from 4 kW up to (but not including) 14 kW, without a retest (transitional provisions of the new law). Only licences issued from 2025 follow the narrower A1 definition.
 
-Motorbikes under 50cc have historically not required a licence, and very small electric bikes (up to 4 kW, limited to 50 km/h) are classified as electric bicycles rather than motorbikes. However, Decree 151/2024/ND-CP introduced training and testing requirements in this area, so do not assume "50cc means no paperwork" is a permanent rule — check the current position before relying on it.
+## Where 50cc and small electric bikes sit
+
+Bikes under 50cc, and electric two-wheelers under 4 kW, are classified as "xe gan may" (mopeds), not as motorbikes requiring a licence. Riders must be at least 16. Pedal-type electric bicycles are a separate category treated like bicycles. See our 50cc and electric-bike guides for details.
 
 ## What this means for foreign riders
 
-Visitors do not usually obtain a Vietnamese licence for a short stay. Instead, the practical question is whether your home licence plus an International Driving Permit is recognised here — that depends on the 1968 Vienna Convention and on your licence including a motorcycle category. See our guides on IDP rules and whether tourists can legally ride.
+Short-stay visitors rarely obtain a Vietnamese licence. The practical question is whether your home licence plus an International Driving Permit is recognised — see our IDP and tourist-riding guides.
 
-## Legal facts vs practical reality
+Riding above your licence class is an offence with fines set by decree. It can also complicate insurance claims and liability after an accident. Ride only what your licence actually permits.
 
-Legally, riding a motorbike above your licence class is an offence, with fines set by decree and updated periodically (see our fines overview). In practice, enforcement at street level is inconsistent — but an invalid licence also voids most insurance claims and creates serious problems after any accident. The rule to keep is simple: ride only what your licence actually permits.
-
-*This article is information, not legal advice. Rules and fine amounts change; verify the current text of the law before relying on it.*
+*Information, not legal advice. Verify the current legal text before relying on it.*

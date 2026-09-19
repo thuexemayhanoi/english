@@ -1,44 +1,53 @@
 ---
-title: "Licence Requirements for Electric Bikes and E-Motorbikes in Vietnam"
+title: "Electric Bike and Electric Scooter Licence Rules in Vietnam"
 slug: electric-bike-licence-vietnam
-description: "How Vietnam classifies electric two-wheelers by power and speed, which ones need an A1 licence, and which are treated as bicycles."
+description: ""How Vietnam classifies electric two-wheelers: pedal e-bikes as bicycles, sub-4 kW machines as mopeds, and licence classes A1, A and A2 by power for faster electric motorcycles.""
 category: law-licences
-tags: [electric, licence, law, e-bike]
+tags:
+  - "electric"
+  - "licence"
+  - "law"
+  - "vietnam"
+  - "e-bike"
 content_type: legal
 search_intent: informational
 topic_cluster: law-licences
 subcluster: "11.1 licence-system"
+date_published: 2026-09-19
 last_reviewed: 2026-09-19
+review_status: REVIEW_REQUIRED
 sources:
-  - "Law on Road Traffic Order and Safety No. 36/2024/QH15 (effective 2025-01-01)"
-  - "Manufacturer classifications (VinFast published specifications)"
-internal_link_targets: "vietnam-motorbike-licence-classes-explained, a1-licence-vietnam-what-you-can-ride, 50cc-licence-vietnam"
+  - "Law on Road Traffic Order and Safety No. 36/2024/QH15 (effective 2025-01-01) — https://luatvietnam.vn/giao-thong/luat-trat-tu-an-toan-giao-thong-duong-bo-2024-quy-dinh-nhu-the-nao-ve-giay-phep-lai-xe-hang-a1-863-100479-article.html"
+  - "Decree 168/2024/ND-CP, Article 7 (Ministry of Public Security summary) — https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650"
+internal_link_targets: "vietnam-motorbike-licence-classes-explained, 50cc-licence-vietnam, a1-licence-vietnam-what-you-can-ride"
 ---
 
-Electric two-wheelers are not one category in Vietnamese law — they split by power and speed, and the split decides whether you need a licence, a registration plate, or neither.
+> **Review notice:** This article is marked REVIEW_REQUIRED. It was corrected against primary legal sources on 2026-09-19. Figures marked "pending verification" still need confirmation against the current decree text before this article is considered verified.
 
-## The three tiers
+Vietnam classifies electric two-wheelers by type and power, and the boundaries decide whether you need a licence at all.
 
-Under the Law on Road Traffic Order and Safety (No. 36/2024/QH15), effective 1 January 2025:
+## The three groups
 
-1. **Electric bicycles (e-bikes):** up to 4 kW and speed-limited to 50 km/h. Treated like bicycles — no driving licence, and historically no registration plate requirement.
-2. **A1-class electric motorbikes:** above that threshold up to 11 kW. Treated as motorbikes requiring at least an A1 licence.
-3. **A-class electric motorbikes:** above 11 kW. Require the full A licence class.
+**Pedal-type electric bicycles (xe dap dien).** Machines built as bicycles with electric assistance are treated as bicycles for licensing purposes. No driving licence applies.
 
-The numbers to remember are 4 kW / 50 km/h and 11 kW. Manufacturer spec sheets state nominal and maximum power — check the figure the classification uses, because some models are marketed with a peak-power number that lands them in a different class than their nominal rating.
+**Electric mopeds (xe gan may dien), under 4 kW.** Scooter-style electric two-wheelers below 4 kW fall in the moped class: no driving licence, rider must be at least 16. This is where many popular city e-bikes and small electric scooters sit.
 
-## Why this matters when buying or renting
+**Electric motorcycles, 4 kW and above.** These need a licence, matched to power:
 
-Many bikes sold in Vietnam as "xe đạp điện" (electric bicycles) are genuinely licence-free, but the faster "xe máy điện" (electric motorbikes) from VinFast, Dat Bike and others are not. A fast electric scooter that looks like a small commuter can legally require the same licence as a 125cc petrol bike.
+| Power | Licence class |
+|---|---|
+| 4 kW to under 11 kW | A1 |
+| 11 kW to under 14 kW | A |
+| 14 kW and above | A2 |
 
-Registration follows the same tiers: e-bike-class machines historically avoided plates, while electric motorbikes require registration like any motorbike. Incentive and fee rules for electrics have also been adjusted over time — verify the current position rather than relying on older articles.
+As with petrol bikes, A1 licences issued before 1 January 2025 keep transitional coverage up to (but not including) 14 kW.
 
-## For foreign riders
+## Why the distinction matters
 
-The licence logic is identical to petrol bikes: if you need a licence class for the machine, your home motorcycle entitlement plus a recognised 1968-convention IDP satisfies it; a car-only licence does not. Riding an 11 kW+ electric bike on no valid licence carries the same fines and insurance problems as any unlicensed riding.
+Riders sometimes assume every electric two-wheeler is "just a bicycle". A scooter-style electric machine that looks small can still exceed 4 kW and require an A1 licence. Check the rated power, not the size of the bike.
 
-## Practical advice
+## Renting electric in Hanoi
 
-If you want a licence-free machine, confirm the model's power and speed-limit figures from the manufacturer's official spec page, not from a shop listing. If you already hold a motorcycle licence, the tiers matter less — rent whatever suits your route.
+Electric options suit short city trips: quiet, cheap to run, no petrol smell. Range and charging time vary a lot by model. Contact us to confirm current availability of electric motorcycles or e-bikes.
 
-*Information, not legal advice; classification thresholds are set by law and should be verified against the current text before relying on them.*
+*Information, not legal advice. Power thresholds should be confirmed against the current text of Law 36/2024/QH15; this article is pending that final verification.*

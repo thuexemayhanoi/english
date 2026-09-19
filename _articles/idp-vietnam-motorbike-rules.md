@@ -1,45 +1,49 @@
 ---
-title: "International Driving Permits for Vietnam: The Rules"
+title: ""International Driving Permits in Vietnam: IDP Rules for Motorbikes""
 slug: idp-vietnam-motorbike-rules
-description: "Which IDPs Vietnam recognises, which countries issue the wrong convention, and how to check your permit before renting a motorbike."
+description: ""Which IDPs Vietnam recognises for motorbike riding: 1968 Vienna Convention permits with a motorcycle category, carried with your national licence, and the conversion route under Circular 12/2025/TT-BCA.""
 category: law-licences
-tags: [idp, licence, law, foreigners]
+tags:
+  - "idp"
+  - "licence"
+  - "law"
+  - "vietnam"
+  - "tourists"
 content_type: legal
 search_intent: informational
 topic_cluster: law-licences
 subcluster: "11.2 foreigners"
+date_published: 2026-09-19
 last_reviewed: 2026-09-19
+review_status: REVIEW_REQUIRED
 sources:
-  - "1968 Vienna Convention on Road Traffic"
-internal_link_targets: "1968-vienna-convention-idp-vietnam, can-tourists-ride-motorbike-vietnam, vietnam-motorbike-licence-classes-explained"
+  - "Law on Road Traffic Order and Safety No. 36/2024/QH15 (effective 2025-01-01) — https://luatvietnam.vn/giao-thong/luat-trat-tu-an-toan-giao-thong-duong-bo-2024-quy-dinh-nhu-the-nao-ve-giay-phep-lai-xe-hang-a1-863-100479-article.html"
+  - "Decree 168/2024/ND-CP, Article 7 (Ministry of Public Security summary) — https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650"
+internal_link_targets: "can-tourists-ride-motorbike-vietnam, 1968-vienna-convention-idp-vietnam, a1-licence-vietnam-what-you-can-ride"
 ---
 
-An International Driving Permit (IDP) is the document that makes your home motorcycle licence usable in Vietnam. The catch is that not all IDPs are equal, and using the wrong one is legally the same as having nothing.
+> **Review notice:** This article is marked REVIEW_REQUIRED. It was corrected against primary legal sources on 2026-09-19. Figures marked "pending verification" still need confirmation against the current decree text before this article is considered verified.
 
-## The convention is everything
+An International Driving Permit (IDP) is the document that makes many foreign licences usable in Vietnam — but only the right kind.
 
-Vietnam recognises IDPs issued under the **1968 Vienna Convention on Road Traffic**. Permits issued under the **1949 Geneva Convention** are not recognised, even though they look almost identical — same booklet style, different legal basis.
+## Which IDP counts
 
-This matters because several countries whose citizens visit Vietnam in large numbers — including the United States and Canada — normally issue 1949-convention IDPs. Holders of those permits are not covered for driving or riding in Vietnam, whatever a rental shop tells them.
+Vietnam recognises IDPs issued under the **1968 Vienna Convention on Road Traffic**. The permit must include a **motorcycle category** (category A under the convention). An IDP under the 1949 Geneva Convention is not the basis for legal motorcycle riding here.
 
-## The category matters just as much
+Rules of thumb:
 
-An IDP is a translation of your national licence, not an upgrade. Page 3 lists vehicle categories; for motorbikes you need category A (or the national equivalent your country maps to it). A 1968 IDP issued against a car-only licence permits you to drive a car in Vietnam — and nothing else.
+- Carry both your national licence and the IDP — the IDP is a translation, not a standalone licence
+- Your national licence must itself include motorcycles; an IDP cannot add categories you do not hold
+- Photocopies and photos of documents are not substitutes
 
-## How to check before you travel
+## Converting to a Vietnamese licence
 
-1. Your IDP cover or inner page states the convention — look for "Vienna 1968" or the 1968 Convention symbol.
-2. The categories page shows an A-class motorcycle entitlement matching the bike you will ride.
-3. The IDP is issued by your country's authorised automobile association, and your underlying licence is valid for motorcycles.
+Foreigners living in Vietnam can convert a valid national licence into a Vietnamese one without a driving test, under Circular 12/2025/TT-BCA. The conditions include a minimum period of residence in Vietnam (3 months) and a valid national licence for the categories requested. IDPs themselves are not convertible — only national licences are.
 
-If any of the three fails, no rental agreement or shop assurance fixes it.
+For long-term residents, teachers and students, conversion is usually the cleaner option than relying on an IDP indefinitely.
 
-## Long-term visitors
+## If you are stopped
 
-An IDP is a visitor's tool. Once you are resident in Vietnam — work permit, temporary residence card — the durable route is converting your licence to a Vietnamese one at the licensing authority. Conversion avoids the annual renewal cycle and removes any argument about document validity.
+Stay calm, hand over the requested documents, and do not hand your passport to anyone who is not a police officer. If your documents are not in order, a fine is the normal outcome; the serious consequences arrive only after an accident.
 
-## What if you are stopped without one?
-
-Riding without a valid licence is a finable offence under the current penalty decree. Pay the fine, and expect the bigger consequence to show up only if there is an accident: no valid licence, no insurance payout.
-
-*Information, not legal advice; confirm current requirements with your embassy or the Vietnamese licensing authority before relying on them.*
+*Information, not legal advice. Recognition details should be re-verified against current regulations before this article is marked verified.*

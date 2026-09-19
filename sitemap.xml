@@ -7,6 +7,11 @@ layout: null
   <url><loc>{{ '/articles/' | absolute_url }}</loc></url>
   <url><loc>{{ '/search/' | absolute_url }}</loc></url>
   <url><loc>{{ '/about/' | absolute_url }}</loc></url>
+  {% for p in site.pages %}
+    {% if p.layout == 'cluster' %}
+  <url><loc>{{ p.url | absolute_url }}</loc></url>
+    {% endif %}
+  {% endfor %}
   {% for a in site.articles %}
   <url><loc>{{ a.url | absolute_url }}</loc><lastmod>{{ a.last_reviewed }}</lastmod></url>
   {% endfor %}

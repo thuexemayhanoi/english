@@ -1,8 +1,27 @@
 ---
-layout: cluster
-title: Vietnam Motorbike Laws &amp; Licences
+layout: default
+title: All Guides
 permalink: /articles/
-topic_cluster: law-licences
-description: Licence classes, IDP rules, helmet law, fines and what foreign riders legally need in Vietnam.
+description: Every guide on the Hanoi Motorbike Guide, organised by topic.
 ---
-<p>What foreign riders legally need in Vietnam: licence classes, international driving permits, helmet rules, fines and insurance. Legal articles state the rule and the practical reality separately, and record when each page was last reviewed.</p>
+{% include breadcrumbs.html %}
+<h1>All Guides</h1>
+<p>Browse every guide by topic cluster.</p>
+<ul class="card-list">
+{% assign clusters = "rental,monthly-rental,scooters,motorcycles,manual-clutch,50cc,electric,maintenance,parts-gear,safety,law-licences,hanoi,trips,vietnam-travel" | split: "," %}
+{% for c in clusters %}
+  <li class="card">
+    {% assign hub = site.pages | where: "topic_cluster", c | first %}
+    {% if hub %}<a href="{{ hub.url | relative_url }}">
+      <span class="card-title">{{ hub.title }}</span>
+      <span class="card-desc">{{ hub.description }}</span>
+    </a>{% endif %}
+  </li>
+{% endfor %}
+</ul>
+<h2>Latest articles</h2>
+<ul>
+{% for a in site.articles limit: 20 %}
+  <li><a href="{{ a.url | relative_url }}">{{ a.title }}</a></li>
+{% endfor %}
+</ul>

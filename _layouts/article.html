@@ -6,10 +6,17 @@ layout: default
   <header class="article-header">
     <h1 itemprop="headline">{{ page.title }}</h1>
     <p class="meta">
-      {% if page.last_reviewed %}Last reviewed: <time itemprop="dateModified" datetime="{{ page.last_reviewed }}">{{ page.last_reviewed }}</time>{% endif %}
+      {% if page.date_published %}Published: <time itemprop="datePublished" datetime="{{ page.date_published }}">{{ page.date_published }}</time>{% endif %}
+      {% if page.last_reviewed %} &middot; Last reviewed: <time itemprop="dateModified" datetime="{{ page.last_reviewed }}">{{ page.last_reviewed }}</time>{% endif %}
       {% if page.content_type %} &middot; {{ page.content_type }}{% endif %}
+      {% if page.review_status %} &middot; {{ page.review_status }}{% endif %}
     </p>
   </header>
+  {% if page.review_status == "REVIEW_REQUIRED" %}
+  <div class="review-banner" role="note">
+    <strong>Review notice:</strong> This article is marked REVIEW_REQUIRED. It was corrected against primary legal sources on 2026-09-19, but items marked "pending verification" must be confirmed against the current legal text before this notice is removed.
+  </div>
+  {% endif %}
   <div class="article-body" itemprop="articleBody">
     {{ content }}
   </div>
@@ -32,7 +39,7 @@ layout: default
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "headline": {{ page.title | jsonify }},
-  "datePublished": {{ page.last_reviewed | jsonify }},
+  "datePublished": {{ page.date_published | default: page.last_reviewed | jsonify }},
   "dateModified": {{ page.last_reviewed | jsonify }},
   "description": {{ page.description | jsonify }},
   "author": {"@type": "Organization", "name": "Hanoi Motorbike Rental Nguyen Tu"},

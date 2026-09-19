@@ -1,44 +1,48 @@
 ---
-title: "Why the 1968 Vienna Convention Matters for Your IDP"
+title: "The 1968 Vienna Convention and Riding in Vietnam"
 slug: 1968-vienna-convention-idp-vietnam
-description: "The difference between 1968 Vienna and 1949 Geneva IDPs, which countries issue which, and why Vietnam only recognises one of them."
+description: "Why the 1968 Vienna Convention on Road Traffic decides whether your International Driving Permit works in Vietnam, and how to check yours before you fly."
 category: law-licences
-tags: [idp, vienna convention, law]
+tags:
+  - "idp"
+  - "vienna-convention"
+  - "licence"
+  - "law"
+  - "vietnam"
 content_type: legal
 search_intent: informational
 topic_cluster: law-licences
 subcluster: "11.2 foreigners"
+date_published: 2026-09-19
 last_reviewed: 2026-09-19
+review_status: REVIEW_REQUIRED
 sources:
-  - "1968 Vienna Convention on Road Traffic"
-  - "1949 Geneva Convention on Road Traffic"
+  - "Law on Road Traffic Order and Safety No. 36/2024/QH15 (effective 2025-01-01) — https://luatvietnam.vn/giao-thong/luat-trat-tu-an-toan-giao-thong-duong-bo-2024-quy-dinh-nhu-the-nao-ve-giay-phep-lai-xe-hang-a1-863-100479-article.html"
+  - "Decree 168/2024/ND-CP, Article 7 (Ministry of Public Security summary) — https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650"
 internal_link_targets: "idp-vietnam-motorbike-rules, can-tourists-ride-motorbike-vietnam"
 ---
 
-Two international conventions govern driving permits across borders, and the one your IDP was issued under decides whether it works in Vietnam. The difference is a single year and two city names — and an enormous practical gap.
+> **Review notice:** This article is marked REVIEW_REQUIRED. It was corrected against primary legal sources on 2026-09-19. Figures marked "pending verification" still need confirmation against the current decree text before this article is considered verified.
 
-## Two conventions, two booklets
+When people say "you need the right IDP for Vietnam", the "right" part comes from a treaty signed in 1968.
 
-The **1949 Geneva Convention on Road Traffic** created the first widespread IDP system, and many countries still issue these permits today. The **1968 Vienna Convention on Road Traffic** later updated the framework with a different permit format and different signatory list.
+## What the convention is
 
-Vietnam is a party to the 1968 Vienna Convention. As a result, it recognises 1968-convention IDPs — and does not recognise the 1949-convention permits that look nearly identical to them.
+The Vienna Convention on Road Traffic (1968) is an international treaty that sets mutual recognition rules for driving documents among its parties. Vietnam is a party, which is why IDPs issued under the 1968 convention by other parties are the ones recognised here.
 
-## Which countries this catches out
+There is an older system — the 1949 Geneva Convention — and many countries still issue IDPs under it. Those permits do not provide the legal basis for riding a motorbike in Vietnam.
 
-The United States, Canada and a number of other countries primarily issue 1949-convention IDPs. Their citizens therefore cannot ride or drive legally in Vietnam on their standard IDP, despite the document being perfectly valid in dozens of other countries. Many European countries, the UK, Australia and others issue 1968-convention permits, which Vietnam recognises.
+## How to check your permit
 
-Some travellers attempt to obtain a 1968 IDP from a third country; whether that is valid depends on your underlying licence and the issuing rules — do not assume it works.
+1. Look at your IDP booklet or card for a reference to the 1968 Vienna Convention
+2. Check that a motorcycle category (A) is shown on it
+3. Check that your national licence also covers motorcycles
+4. Carry both documents when riding
 
-## The motorcycle category trap
+If your country does not issue 1968-convention IDPs, your route is either a Vietnamese licence or licence conversion after establishing residence.
 
-Even with the right convention, the permit only translates your national licence. A 1968 IDP against a car-only licence gives you no motorcycle rights in Vietnam. The category table on the permit is the decisive part of the document.
+## Why this matters more than the fine
 
-## Why shops rarely mention this
+The fine for riding without valid documents is unpleasant; the accident scenario is worse. After a crash, an invalid licence can invalidate insurance claims and complicate liability, even if the other driver was at fault. Getting the paperwork right before you ride is the cheapest insurance you will ever arrange.
 
-A rental shop's incentive is to rent you a bike. Most riders are never stopped, so invalid paperwork usually goes unpunished — until an accident, a police checkpoint after an incident, or an insurance claim. At that point, "the shop said it was fine" is not a defence.
-
-## Before you fly
-
-Check your IDP for the 1968 Convention marking and a motorcycle category. If your country only issues 1949 permits, the legal options are a Vietnamese licence or not riding at all. Public transport, ride-hailing and trains cover most visitor needs comfortably.
-
-*Information, not legal advice; confirm your document's status with the issuing authority.*
+*Information, not legal advice.*

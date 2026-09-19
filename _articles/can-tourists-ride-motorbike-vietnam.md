@@ -1,44 +1,52 @@
 ---
 title: "Can Tourists Legally Ride a Motorbike in Vietnam?"
 slug: can-tourists-ride-motorbike-vietnam
-description: "The exact legal conditions for tourists riding motorbikes in Vietnam: IDP type, licence category, and what happens if you ride without them."
+description: ""Yes, if licensed correctly: a Vietnamese licence, or a foreign licence plus a 1968 Vienna Convention IDP with a motorcycle category. What the law says, and what happens without it.""
 category: law-licences
-tags: [tourists, licence, idp, law]
+tags:
+  - "tourists"
+  - "licence"
+  - "law"
+  - "vietnam"
+  - "idp"
 content_type: legal
 search_intent: informational
 topic_cluster: law-licences
 subcluster: "11.2 foreigners"
+date_published: 2026-09-19
 last_reviewed: 2026-09-19
+review_status: REVIEW_REQUIRED
 sources:
-  - "1968 Vienna Convention on Road Traffic"
-  - "Law on Road Traffic Order and Safety No. 36/2024/QH15"
-  - "Decree 168/2024/ND-CP"
-internal_link_targets: "idp-vietnam-motorbike-rules, 1968-vienna-convention-idp-vietnam, vietnam-motorbike-licence-classes-explained"
+  - "Law on Road Traffic Order and Safety No. 36/2024/QH15 (effective 2025-01-01) — https://luatvietnam.vn/giao-thong/luat-trat-tu-an-toan-giao-thong-duong-bo-2024-quy-dinh-nhu-the-nao-ve-giay-phep-lai-xe-hang-a1-863-100479-article.html"
+  - "Decree 168/2024/ND-CP, Article 7 (Ministry of Public Security summary) — https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650"
+internal_link_targets: "idp-vietnam-motorbike-rules, 1968-vienna-convention-idp-vietnam, vietnam-motorbike-licence-classes-explained, a1-licence-vietnam-what-you-can-ride"
 ---
 
-Short answer: yes, tourists can legally ride a motorbike in Vietnam — but only if the paperwork is genuinely valid, and most of the "just rent one, everyone does" advice skips the conditions.
+> **Review notice:** This article is marked REVIEW_REQUIRED. It was corrected against primary legal sources on 2026-09-19. Figures marked "pending verification" still need confirmation against the current decree text before this article is considered verified.
 
-## The three conditions
+Yes — tourists can legally ride a motorbike in Vietnam, but only with a valid licence situation. "Everyone rides without one" is not a legal argument.
 
-1. **A valid IDP of the right convention.** Vietnam recognises International Driving Permits issued under the 1968 Vienna Convention on Road Traffic. IDPs issued under the 1949 Geneva Convention are not recognised, even though they look similar.
-2. **A motorcycle category on the underlying licence.** Your IDP translates your home licence; it does not add categories. A 1968 IDP issued against a car-only licence does not permit you to ride a motorbike here — of any engine size.
-3. **The bike itself must be legal** — registered, and rented through an agreement you can produce if stopped.
+## The three legal routes
 
-## What does not work
+1. **A Vietnamese motorcycle licence.** Obtained by test, or by converting a valid foreign licence if you meet residence conditions (see our IDP guide).
+2. **A valid foreign driving licence plus an International Driving Permit** issued under the 1968 Vienna Convention, where the permit includes a motorcycle category. Carry both documents.
+3. **A recognised foreign licence directly**, where Vietnam and the issuing country have reciprocal recognition.
 
-- A home-country motorcycle licence alone, without an IDP
-- A 1949-convention IDP (issued by, among others, the US, Canada, and several other countries)
-- A car licence with a motorbike rental
-- An IDP bought online without a real underlying licence — these are not valid documents
+An IDP issued under the 1949 Geneva Convention, or an IDP with no motorcycle category, does not make you legal on a motorbike here.
 
-Longer-term visitors pass a different threshold: once resident, the clean path is converting your licence to a Vietnamese one. See our guide on IDP rules for the details.
+## What riding without a valid licence means
 
-## Why the "everyone rides anyway" argument fails
+Riding without a valid licence is a fineable offence under the current decree. Beyond the fine, the bigger risks come after an accident: an invalid licence can invalidate insurance claims and shift liability onto you, regardless of who caused the crash. Rental agreements may also hold you responsible.
 
-Unlicensed riding is an administrative offence under the current penalty decree, with fines that increased sharply from January 2025. The fine itself is recoverable; what is not recoverable is your position after an accident. No valid licence typically means no insurance payout — yours or the rental's — and in a collision with injuries, that can escalate into a negotiation where you have no legal footing at all.
+## The practical advice
 
-## Practical advice
+- Check whether your country issues 1968-convention IDPs, and get one before travelling
+- Make sure your home licence itself covers motorcycles
+- Ride a bike that falls inside your licence class — for most visitors that means a 110–125cc scooter or underbone
+- Carry your licence, IDP and passport while riding
 
-Before renting, check two things: that your IDP says "1968 Convention" on its cover, and that page 3 shows category A (motorcycle). If either is missing, arrange them before you travel — they cannot be fixed from a Hanoi hostel.
+## Renting in Hanoi
 
-*Information, not legal advice; rules change, verify the current requirements before riding.*
+We rent to foreign visitors and are happy to explain what documents you should carry. Contact us to confirm current availability.
+
+*Information, not legal advice.*

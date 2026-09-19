@@ -1,44 +1,47 @@
 ---
 title: "Do You Need a Licence for a 50cc Motorbike in Vietnam?"
 slug: 50cc-licence-vietnam
-description: "The current legal position for 50cc bikes in Vietnam, the 2024-25 rule changes in this area, and why 'no licence needed' is no longer safe advice."
+description: ""The current legal position for under-50cc bikes in Vietnam: classified as xe gan may (mopeds), no driving licence required, rider must be 16, with training rules for 16-18 year olds under Decree 151/2024.""
 category: law-licences
-tags: [50cc, licence, law]
+tags:
+  - "50cc"
+  - "licence"
+  - "law"
+  - "vietnam"
+  - "moped"
 content_type: legal
 search_intent: informational
 topic_cluster: law-licences
-subcluster: "11.2 foreigners"
+subcluster: "11.1 licence-system"
+date_published: 2026-09-19
 last_reviewed: 2026-09-19
+review_status: REVIEW_REQUIRED
 sources:
-  - "Law on Road Traffic Order and Safety No. 36/2024/QH15 (effective 2025-01-01)"
-  - "Decree 151/2024/ND-CP"
-internal_link_targets: "vietnam-motorbike-licence-classes-explained, electric-bike-licence-vietnam, motorbike-fines-vietnam-overview"
+  - "Law on Road Traffic Order and Safety No. 36/2024/QH15 (effective 2025-01-01) — https://luatvietnam.vn/giao-thong/luat-trat-tu-an-toan-giao-thong-duong-bo-2024-quy-dinh-nhu-the-nao-ve-giay-phep-lai-xe-hang-a1-863-100479-article.html"
+  - "Decree 168/2024/ND-CP, Article 7 (Ministry of Public Security summary) — https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650"
+internal_link_targets: "vietnam-motorbike-licence-classes-explained, electric-bike-licence-vietnam, can-tourists-ride-motorbike-vietnam, helmet-law-vietnam"
 ---
 
-For years, the standard answer was: under 50cc, no licence needed in Vietnam. That answer is now out of date at the edges, and repeating it as fact can get a rider fined.
+> **Review notice:** This article is marked REVIEW_REQUIRED. It was corrected against primary legal sources on 2026-09-19. Figures marked "pending verification" still need confirmation against the current decree text before this article is considered verified.
 
-## The traditional position
+Short answer: bikes under 50cc do not require a driving licence in Vietnam, but there are conditions, and "50cc means no rules" is wrong.
 
-Motorbikes under 50cc were historically exempt from the driving-licence requirement, which is why small-capacity bikes and "e-bikes" became a student vehicle. That exemption is the origin of the "50cc needs no licence" advice you will still hear from rental shops and old blog posts.
+## The current position
 
-## What has changed
+Under-50cc petrol two-wheelers (and electric two-wheelers under 4 kW) are classified as "xe gan may" — mopeds — not as licence-required motorbikes. The requirements are:
 
-The Law on Road Traffic Order and Safety (No. 36/2024/QH15), effective 1 January 2025, requires motorbike riders to hold at least an A1 licence for two-wheelers, and Decree 151/2024/ND-CP introduced training and testing requirements aimed at younger riders of small bikes. The direction of travel is clear: the no-licence zone is shrinking, not growing.
+- No driving licence needed
+- The rider must be at least 16 years old
+- Riders aged 16 to 18 must have completed a safe-riding skills training programme under Decree 151/2024/ND-CP before riding
 
-The exact current boundary for sub-50cc petrol bikes depends on the latest implementing regulations — this is an area where the rules have moved more than once since 2024, so treat any fixed claim, including this one, as needing verification against the current decree text before you rely on it.
+Mopeds still follow all other traffic rules: helmets, lights, lane discipline, sober riding. Fines for running red lights or riding the wrong way apply to moped riders at the same levels as for motorbikes.
 
-## For foreign riders specifically
+## Do not confuse 50cc bikes with electric bicycles
 
-Even where a 50cc exemption exists in domestic law, it was written with Vietnamese teenagers in mind, not visitors. A foreign tourist riding without any valid licence risks:
+A pedal-type electric bicycle ("xe dap dien") is a separate category, treated as a bicycle. A 50cc petrol moped or a sub-4 kW electric scooter is a moped, not a bicycle. The distinction matters for licence rules, helmet rules and where you may ride. See our electric-bike licence guide.
 
-- an on-the-spot fine under the current penalty decree
-- voided insurance after any incident
-- a rental agreement that is, strictly read, invalid
+## Renting a 50cc bike in Hanoi
 
-If you hold a motorcycle entitlement at home plus a recognised IDP, the question disappears — you are covered regardless of engine size.
+Some renters specifically want a sub-50cc bike hoping to avoid licence questions. Before choosing that route, read our guide on whether tourists can legally ride in Vietnam — a moped does not solve the insurance or IDP issues that come with any accident. Contact us to confirm current availability of 50cc bikes.
 
-## Practical advice (distinct from the law)
-
-Legally: confirm the current sub-50cc rule before riding one without a licence. Practically: for visitors, a 110–125cc automatic scooter with proper paperwork is both easier to rent and safer on Hanoi's fast ring roads than a 50cc bike that struggles with bridges and traffic flow.
-
-*Information, not legal advice. Rules in this area changed in 2024–2025; verify the current decree before relying on it.*
+*Information, not legal advice. The training requirement and age rules should be re-verified against the current text of Decree 151/2024/ND-CP before this article is marked verified.*

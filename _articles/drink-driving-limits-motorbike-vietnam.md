@@ -1,42 +1,44 @@
 ---
-title: "Drink-Driving Limits for Motorbike Riders in Vietnam"
+title: "Drink Driving Limits for Motorbikes in Vietnam"
 slug: drink-driving-limits-motorbike-vietnam
-description: "Vietnam's zero-tolerance alcohol rule for riders, current fine ranges under Decree 168/2024, and how checkpoints actually work."
+description: ""Vietnam applies zero tolerance to alcohol for motorbike riders: any detectable alcohol is an offence, with fines from 2-3 million VND in the lowest band and steep increases above it.""
 category: law-licences
-tags: [drink-driving, alcohol, fines, law]
+tags:
+  - "drink-driving"
+  - "alcohol"
+  - "law"
+  - "vietnam"
+  - "fines"
 content_type: legal
 search_intent: informational
 topic_cluster: law-licences
 subcluster: "11.3 traffic-rules"
+date_published: 2026-09-19
 last_reviewed: 2026-09-19
+review_status: REVIEW_REQUIRED
 sources:
-  - "Decree 168/2024/ND-CP (effective 2025-01-01)"
-  - "Law on Road Traffic Order and Safety No. 36/2024/QH15"
-internal_link_targets: "motorbike-fines-vietnam-overview, helmet-law-vietnam, can-tourists-ride-motorbike-vietnam"
+  - "Law on Road Traffic Order and Safety No. 36/2024/QH15 (effective 2025-01-01) — https://luatvietnam.vn/giao-thong/luat-trat-tu-an-toan-giao-thong-duong-bo-2024-quy-dinh-nhu-the-nao-ve-giay-phep-lai-xe-hang-a1-863-100479-article.html"
+  - "Decree 168/2024/ND-CP, Article 7 (Ministry of Public Security summary) — https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650"
+internal_link_targets: "motorbike-fines-vietnam-overview, can-tourists-ride-motorbike-vietnam"
 ---
 
-Vietnam does not have a drink-driving limit for motorbikes in the sense most countries do. It has a zero-tolerance rule: any detectable alcohol while riding is an offence.
+> **Review notice:** This article is marked REVIEW_REQUIRED. It was corrected against primary legal sources on 2026-09-19. Figures marked "pending verification" still need confirmation against the current decree text before this article is considered verified.
 
-## The rule
+Vietnam has no "one beer is fine" allowance for motorbikes. The rule is zero tolerance: any detectable alcohol while riding a motorbike or moped is an offence.
 
-Under the Law on Road Traffic Order and Safety and its penalty decree, operating any vehicle with a detectable blood or breath alcohol concentration is prohibited. For motorbikes, the lowest band — up to 50 mg/100 ml blood (0.25 mg/L breath) — already draws fines in the region of **2,000,000–3,000,000 VND** under Decree 168/2024/ND-CP, with higher bands rising steeply and the most serious cases escalating to licence suspension and criminal prosecution.
+## The limits
 
-There is no "one beer is fine" threshold. One beer is detectable.
+There is no permitted blood-alcohol level for motorbike riders. The lowest punishment band under Decree 168/2024/ND-CP applies up to 50 mg/100 ml blood (0.25 mg/L breath), with a fine of 2,000,000–3,000,000 VND. Higher bands rise steeply, and can include licence suspension and points. Exact figures for the higher bands are pending verification against the current decree text.
 
-## Enforcement
+## What this means in practice
 
-Breathalyser checkpoints run nationwide, and reporting since the decree took effect describes aggressive enforcement — heavy evening windows (roughly 18:00–02:00), weekends and holidays, including mass operations during Tet that detected thousands of cases. Foreign riders are not exempt; checkpoints on Hanoi's main roads stop everyone passing.
+- One beer can put you in the lowest band; more puts you higher
+- The police conduct breath tests at checkpoints, especially at night and around holidays
+- Fines apply to mopeds and electric bikes too, not just motorbikes
+- Alcohol involvement after a crash can invalidate insurance claims and worsens your liability position
 
-## Why this matters more than the fine
+## If you plan to drink
 
-The fine is money. The insurance consequence is not: riding over the alcohol limit voids essentially every insurance claim you could make, converts you into the default liable party in a collision, and — if someone is injured — can turn a traffic incident into a criminal case with a travel ban attached while it is processed.
+Leave the bike. Take a taxi or ride-hailing car, walk, or arrange your evening so the motorbike is not part of the return trip. This is also the advice we give our own rental customers: a drink-driving fine, or worse, costs far more than any taxi.
 
-## Practical advice
-
-The rules visitors actually need:
-
-- If you are riding, the safe number of drinks is zero. Not "one over a long dinner" — zero.
-- Alcohol remains detectable well into the next morning after heavy drinking. A late night can legally invalidate a morning ride.
-- Ride-hailing in Hanoi is cheap and everywhere. Use it for any evening that involves drinking.
-
-*Information, not legal advice; fine bands are revised by decree — verify current figures before relying on them.*
+*Information, not legal advice.*
