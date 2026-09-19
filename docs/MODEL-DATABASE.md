@@ -1,29 +1,41 @@
-# MODEL DATABASE — Vehicle Spec Store (schema)
+# MODEL DATABASE — Vehicle Spec Store
 
-Status: SCHEMA — to be populated from manufacturer pages (class A) only. Retailer/classified/forum values are never entered as spec truth. Every row records source URL, retrieval date, and model year.
+Rules:
+1. Specs ONLY from manufacturer official pages (Honda VN, Yamaha VN, VinFast, SYM, Suzuki, Piaggio VN). Missing value → leave empty. Never fill from retailer/classified/forum.
+2. Claimed range always cites the manufacturer's test condition; articles must state real-world range varies (speed, temperature, terrain, load).
+3. Model-year change → new row; old rows retained for comparison articles with year labels.
+4. `in_fleet` and `pricing` set ONLY from docs/OWNER-FACTS.md. Default false/no-price.
+5. Reviews/comparisons generate FROM this database so numbers are consistent site-wide.
+6. `spec_status`: APPROVED (owner-supplied rental data) / PENDING-VERIFICATION (must be checked against manufacturer page before the article is written).
 
-## Petrol bikes — fields
+## Seed rows — fleet models (rental data APPROVED, specs PENDING-VERIFICATION)
 
-model · manufacturer · model_year · vehicle_type (scooter / underbone / manual / 50cc) · engine_cc · engine_type (2T/4T, cooled) · max_power · max_torque · transmission (auto/CVT, semi-auto, manual, gears) · fuel_system (carburettor/FI) · fuel_tank_capacity · fuel_economy_claimed (with test condition) · seat_height · kerb_weight · brakes (drum/disc, ABS/CBS) · tyre sizes · storage · licence_class_vn (A1/A/B1/none per current law, flag R1) · price_vn_new (optional, date-stamped) · source_url · retrieved_at · in_nguyen_tu_fleet (from OWNER-FACTS only)
+| model | type | day VND | week VND | month VND | in_fleet | spec_status |
+|---|---|---|---|---|---|---|
+| Honda Wave (Alpha/RS class) | semi-auto underbone | 150,000 | — | — | yes (pricing approved) | PENDING-VERIFICATION |
+| Honda Vision | automatic scooter | 200,000 | 800,000–1,000,000 | 1,800,000–2,000,000 | yes (pricing approved) | PENDING-VERIFICATION |
+| Honda Air Blade | automatic scooter | 200,000 | 800,000 | 1,400,000 | yes (pricing approved) | PENDING-VERIFICATION |
+| Honda Click | automatic scooter | 150,000 | 600,000–700,000 | 1,000,000–1,200,000 | yes (pricing approved) | PENDING-VERIFICATION |
+| Yamaha Mio | automatic scooter | 150,000 | 600,000–700,000 | 1,000,000–1,200,000 | yes (pricing approved) | PENDING-VERIFICATION |
 
-## Electric bikes — fields
+50cc and electric models: in_fleet=uncertain, pricing=contact-only (OWNER-FACTS).
 
-model · manufacturer · model_year · category (e-motorbike / e-moped / e-bike per Vietnamese classification, flag R1) · nominal_power · max_power · top_speed · battery_chemistry (LFP/NMC/lead-acid) · battery_capacity_kWh · claimed_range + test_conditions (e.g. VinFast published test condition) · real_world_range_notes (varies with speed, temperature, terrain, load) · charging_time (standard/fast) · removable_battery (yes/no) · battery_warranty · seat_height · kerb_weight · storage · licence_class_vn · registration_requirement_vn · price_vn (optional, date-stamped) · source_url · retrieved_at · in_nguyen_tu_fleet (OWNER-FACTS only)
+## Petrol fields (per row)
 
-## Rules
+model · manufacturer · model_year · vehicle_type · engine_cc · engine_type · max_power · max_torque · transmission · fuel_system · fuel_tank · fuel_economy_claimed (with condition) · seat_height · kerb_weight · brakes (drum/disc, ABS/CBS) · tyre sizes · storage · licence_class_vn (R1) · price_vn_new (optional, date-stamped) · source_url · retrieved_at · in_fleet · pricing
 
-1. Specs only from manufacturer official pages (Honda VN, Yamaha VN, VinFast, SYM, Suzuki, Piaggio VN). If a manufacturer page lacks a value, leave it empty — never fill from a retailer or forum.
-2. Claimed range must always cite the manufacturer's test condition; articles must state real-world range varies.
-3. Each model-year change creates a new row; old rows retained for comparison articles with year labels.
-4. `in_nguyen_tu_fleet` is set ONLY from docs/OWNER-FACTS.md. Default false.
-5. Comparisons and reviews are generated FROM this database, so numbers are consistent site-wide.
+## Electric fields (per row)
 
-## Seed catalog (to populate after approval)
+model · manufacturer · model_year · category (e-motorbike/e-moped/e-bike, R1) · nominal_power · max_power · top_speed · battery_chemistry · battery_capacity_kWh · claimed_range + test_conditions · real_world_range_notes · charging_time (standard/fast) · removable_battery · battery_warranty · seat_height · kerb_weight · storage · licence_class_vn · registration_requirement_vn · price_vn (date-stamped) · source_url · retrieved_at · in_fleet · pricing
 
-Honda: Vision, Air Blade, SH, SH Mode, Lead, Wave Alpha, Wave RS, Future, Super Cub, Winner X, MSX
-Yamaha: Janus, Grande, FreeGo, Latigo, Sirius, Exciter, PG-1, NEO's
-Suzuki: Address, Raider, GD, VS, Burgman
+## Catalog to populate (manufacturer pages, before relevant article batches)
+
+Honda: Vision, Air Blade, SH, SH Mode, Lead, Vario, Click, GR, Future, Super Cub, Wave Alpha, Wave RS, Blade, Winner X, MSX
+Yamaha: Janus, Grande, FreeGo, Latigo, Sirius, Exciter, PG-1, NEO's, NXT
+Suzuki: Address, Burgman, Raider, GD, VS
 Piaggio/Vespa: Liberty, Zip, Medley, Primavera, Sprint, GTS
 SYM: Elegant, Attila, Excel
 Electric: VinFast (Feliz, Klara, Theon, Vento...), Dat Bike (Weaver...), Selex, Yadea, Ikigai
-50cc: model list from discovery, specs verified per model
+50cc: verified per model from manufacturer sources
+
+Population happens per batch with fresh manufacturer-page research; each row records source URL and retrieval date.

@@ -1,62 +1,71 @@
-# OWNER FACTS — Nguyen Tu Business Truth Store
+# OWNER FACTS — Nguyen Tu Business Truth Store (v2, filled)
 
-Status: TEMPLATE — awaiting owner input. This file is the ABSOLUTE priority source for all business claims. No external website may override it. Until a field is filled and marked VERIFIED, articles must not assert it.
+This file is the ABSOLUTE priority source for all business claims. No external website may override it. Status tags: APPROVED / UNVERIFIED / HISTORICAL-DO-NOT-USE / NEEDS-OWNER-CONFIRMATION / UNKNOWN.
 
-Business (VERIFIED): Hanoi Motorbike Rental Nguyen Tu
-Address (VERIFIED): 112 Nguyen Van Cu Street, Bo De, Long Bien, Hanoi, Vietnam
-Phone / WhatsApp / Zalo (VERIFIED): +84 942 467 674
-Opening hours (VERIFIED): 09:00–21:00 daily. No delivery/support claims outside these hours.
-Main website (VERIFIED): https://thuexemaynguyentu.com/
+## Business identity — APPROVED
 
-## 1. Rental fleet — PENDING OWNER INPUT
+- Business: Hanoi Motorbike Rental Nguyen Tu (VN: Thuê Xe Máy Hà Nội Nguyễn Tú)
+- Address: 112 Nguyen Van Cu Street, Bo De, Long Bien, Hanoi, Vietnam
+- Phone / WhatsApp / Zalo: +84 942 467 674
+- Opening hours: 09:00–21:00 daily
+- Main website: https://thuexemaynguyentu.com/
+- English hub: https://thuexemayhanoi.github.io/english/
 
-List each vehicle Nguyen Tu actually rents. Articles about models NOT on this list are informational reviews and must carry no Nguyen Tu rental pricing or availability claims.
+## Rental periods — APPROVED
 
-| Model | Vehicle type | Engine | Transmission | Rented? | Pricing publishable? | Notes |
-|---|---|---|---|---|---|---|
-| (pending) | | | | | | |
+daily · weekly · monthly · longer-term negotiable with customer ("contact us to discuss longer-term rental").
 
-Default rule when list is empty: "Contact us to confirm current availability." Never claim a specific model is in the fleet.
+## Vehicle categories — HISTORICAL, availability not guaranteed
 
-## 2. Pricing rules — PENDING OWNER INPUT
+Scooters, semi-automatic/manual motorbikes, 50cc motorbikes, electric vehicles/e-bikes have historically been offered. Any specific model: "Contact us to confirm current availability." Never imply the whole category is always in stock.
 
-- Daily rates: (pending — never invent; if approved pricing exists in the rental calculator, preserve it)
-- Monthly rates: (pending)
-- Deposit amount / policy: (pending)
-- Late return policy: (pending)
-- Fuel policy: (pending)
-- What is included (helmets, phone mount, rack, rain gear): (pending)
+## Approved rental prices — APPROVED (publish exactly; never extrapolate)
 
-## 3. Insurance & liability — PENDING OWNER INPUT
+| Vehicle | Day | Week | Month |
+|---|---|---|---|
+| Honda Wave | 150,000 VND | — | — |
+| Honda Vision | 200,000 VND | 800,000–1,000,000 VND | 1,800,000–2,000,000 VND |
+| Honda Air Blade | 200,000 VND | 800,000 VND | 1,400,000 VND |
+| Honda Click / Yamaha Mio | 150,000 VND | 600,000–700,000 VND | 1,000,000–1,200,000 VND |
 
-- Insurance coverage provided: (pending — never state coverage that is not declared here)
-- Customer liability for damage/theft: (pending)
-- Breakdown support policy during opening hours: (pending; no "rescue" guarantees)
+- 50cc motorcycles: NO fixed price published — direct customers to contact.
+- Electric motorcycles / e-bikes: NO fixed price published — direct customers to contact.
+- Never derive one model's price from another's.
 
-## 4. Delivery & pickup — PENDING OWNER INPUT
+## Deposit / return / insurance — APPROVED
 
-- Pickup at shop: (address above)
-- Delivery available? Areas? (pending)
-- Delivery hours: within 09:00–21:00 only; no claims beyond this
+- Deposit: typically 2,000,000–5,000,000 VND depending on vehicle and conditions.
+- Never claim "no deposit" as universal policy.
+- Never claim the business keeps the customer's passport or identity documents.
+- Late return: 20,000 VND per hour. More than 6 hours late: a full additional rental day may be charged (typically 150,000–200,000 VND depending on motorcycle).
+- Insurance: Nguyen Tu does NOT provide motorbike insurance. Customers arrange their own. HISTORICAL-DO-NOT-USE: any older claim that insurance is included.
+- Early return: no automatic refund entitlement. Never promise refunds for unused time.
 
-## 5. Maintenance of rental bikes — PENDING OWNER INPUT
+## Maintenance / support — APPROVED
 
-- Who services the bikes, intervals: (pending)
+- Business maintenance may include: oil change, chain adjustment/tension, tyre-pressure checks, normal inspection.
+- Consumables (inner tubes/tyres) may be the renter's responsibility depending on situation.
+- FORBIDDEN claims: 24/7 roadside rescue, guaranteed rescue times, nationwide rescue, free repairs, unlimited support.
+- Support is primarily for Hanoi/local use.
+- High-mileage guidance: owner historically recommends periodic checks around ~1,500 km or more of use. This is practical owner guidance, NOT a manufacturer interval — present it as such.
 
-## 6. Licence / document requirements for customers — PENDING OWNER INPUT
+## Payments — APPROVED
 
-- Documents required (passport, licence, IDP): (pending)
-- Policy on riding without a valid licence: (pending — do not encourage illegal riding)
+Accepted: cash, bank transfer, QR payment. Do NOT claim card payment unless newly verified. NEEDS-OWNER-CONFIRMATION: card/MoMo details.
 
-## 7. Allowed usage — PENDING OWNER INPUT
+## Delivery / pickup — APPROVED
 
-- Long trips allowed? Provinces? (pending)
-- Two-up riding policy: (pending)
+- Delivery/pickup in Hanoi may be available depending on location and arrangement.
+- FORBIDDEN: free delivery, universal fixed delivery fee, guaranteed delivery time, delivery outside 09:00–21:00.
 
-## 8. What may NEVER be claimed (regardless of this file)
+## Fleet models — NEEDS OWNER CONFIRMATION
 
-Promotions, discounts, free services, fixed delivery fees, customer counts, years of experience, rankings, awards, guarantees, 24/7 support, guaranteed availability/delivery/rescue, fleet size, insurance coverage beyond section 3, testimonials, reviews.
+Confirmed price-published models: Honda Wave, Honda Vision, Honda Air Blade, Honda Click, Yamaha Mio. Current physical availability of any model: always "Contact us to confirm current availability." 50cc and electric availability/price: contact only.
+
+## Never claim (regardless of this file)
+
+Promotions, discounts, free services, fixed delivery fees, customer numbers, years of experience, rankings, awards, guarantees, 24/7 support, guaranteed availability/delivery/rescue, fleet size, insurance coverage, testimonials, reviews.
 
 ## Conflicts
 
-If any external page (including thuexemaynguyentu.com) conflicts with this file: flag the conflict to the owner. Do not guess. This file wins only where marked VERIFIED.
+If any external page (including thuexemaynguyentu.com) conflicts with this file: flag to owner; do not guess. APPROVED entries here win.
