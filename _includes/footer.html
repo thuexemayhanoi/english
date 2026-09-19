@@ -4,25 +4,56 @@
       <summary>Explore the guide</summary>
       <div class="footer-cols">
         <div>
-          <h3>Riding in Hanoi</h3>
+          <h3>Topics</h3>
           <ul>
+            {% assign clusters = "rental,scooters,electric,maintenance,safety,law-licences,hanoi,trips" | split: "," %}
+            {% for c in clusters %}
+              {% assign hub = site.pages | where: "topic_cluster", c | first %}
+              {% if hub %}<li><a href="{{ hub.url | relative_url }}">{{ hub.title }}</a></li>{% endif %}
+            {% endfor %}
             <li><a href="{{ '/articles/' | relative_url }}">All guides</a></li>
           </ul>
         </div>
         <div>
           <h3>Laws &amp; licences</h3>
           <ul>
-            {% for a in site.articles limit: 5 %}
+            {% for a in site.articles %}
               {% if a.topic_cluster == "law-licences" %}<li><a href="{{ a.url | relative_url }}">{{ a.title }}</a></li>{% endif %}
             {% endfor %}
           </ul>
         </div>
         <div>
-          <h3>Contact Nguyen Tu</h3>
+          <h3>Plan your ride</h3>
+          <ul>
+            <li><a href="{{ '/topics/rental/' | relative_url }}">Renting in Hanoi</a></li>
+            <li><a href="{{ '/topics/monthly-rental/' | relative_url }}">Monthly rental</a></li>
+            <li><a href="{{ '/topics/trips/' | relative_url }}">Trips from Hanoi</a></li>
+            <li><a href="{{ '/topics/safety/' | relative_url }}">Riding safety</a></li>
+            <li><a href="{{ '/search/' | relative_url }}">Search</a></li>
+          </ul>
+        </div>
+      </div>
+    </details>
+    <details class="footer-accordion" open>
+      <summary>Contact Nguyen Tu</summary>
+      <div class="footer-cols">
+        <div>
+          <h3>Visit</h3>
           <ul>
             <li>112 Nguyen Van Cu Street, Bo De, Long Bien, Hanoi</li>
             <li>09:00&ndash;21:00 daily</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Talk to us</h3>
+          <ul>
             <li><a href="tel:+84942467674">+84 942 467 674</a></li>
+            <li><a href="https://wa.me/84942467674" rel="noopener">WhatsApp</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3>Elsewhere</h3>
+          <ul>
             <li><a href="https://thuexemaynguyentu.com/" rel="noopener">Main website</a></li>
           </ul>
         </div>

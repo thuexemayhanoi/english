@@ -11,6 +11,9 @@
     }
   }
   apply(current);
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function () {
+    if (current === 'auto') apply('auto');
+  });
   if (btn) {
     btn.addEventListener('click', function () {
       current = current === 'light' ? 'dark' : current === 'dark' ? 'auto' : 'light';
@@ -29,6 +32,13 @@
     });
   }
 
+  // Sticky mobile nav active state
+  var path = location.pathname.replace(/\/$/, '');
+  document.querySelectorAll('.mobile-nav a[data-nav]').forEach(function (a) {
+    var href = a.getAttribute('href').replace(/\/$/, '');
+    if (href && path === href) a.classList.add('active');
+  });
+
   // Client-side search
   var input = document.getElementById('searchInput');
   var results = document.getElementById('searchResults');
@@ -36,8 +46,7 @@
     fetch(input.dataset.index)
       .then(function (r) { return r.json(); })
       .then(function (index) {
-        input.addEventListener('input', function () {
-          var q = input.value.trim().toLowerCase();
+        function render(q) {
           results.innerHTML = '';
           if (q.length < 2) return;
           var terms = q.split(/\s+/);
@@ -59,9 +68,14 @@
               results.appendChild(li);
             }
           });
-          if (!results.children.length) {
+          if (!results.children.length && q.length >= 2) {
             results.innerHTML = '<li>No matching guides.</li>';
           }
+        }
+        var initial = new URLSearchParams(location.search).get('q');
+        if (initial) { input.value = initial; render(initial.trim().toLowerCase()); }
+        input.addEventListener('input', function () {
+          render(input.value.trim().toLowerCase());
         });
       });
   }

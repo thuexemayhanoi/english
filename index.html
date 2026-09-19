@@ -2,11 +2,37 @@
 layout: default
 ---
 <div class="hero">
-  <h1>Motorbike guides for Hanoi and Vietnam</h1>
-  <p>Clear English-language guides on renting, riding, licences, maintenance and trips &mdash; written for tourists, expats, teachers and students.</p>
-  <a class="btn btn-primary" href="{{ '/articles/' | relative_url }}">Browse all guides</a>
+  <p class="kicker">Hanoi Motorbike Guide</p>
+  <h1>Motorbike knowledge for riding in Hanoi and Vietnam</h1>
+  <p class="lede">Clear English-language guides on renting, riding, licences, maintenance and trips &mdash; written for tourists, expats, teachers and students.</p>
+  <form class="searchbar" action="{{ '/search/' | relative_url }}" method="get">
+    <input type="search" name="q" placeholder="Search guides &mdash; licences, rental, safety&hellip;" aria-label="Search guides">
+    <button type="submit">Search</button>
+  </form>
 </div>
-<h2>Latest guides</h2>
+
+<div class="section-head">
+  <h2>Explore by topic</h2>
+  <a class="more" href="{{ '/articles/' | relative_url }}">All guides &rarr;</a>
+</div>
+<ul class="topic-tiles">
+  {% assign clusters = "rental,monthly-rental,scooters,motorcycles,manual-clutch,50cc,electric,maintenance,parts-gear,safety,law-licences,hanoi,trips,vietnam-travel" | split: "," %}
+  {% for c in clusters %}
+    {% assign hub = site.pages | where: "topic_cluster", c | first %}
+    {% if hub %}
+    <li class="topic-tile">
+      <a href="{{ hub.url | relative_url }}">
+        <span class="tile-title">{{ hub.title }}</span>
+        <span class="tile-count">{{ hub.description | truncatewords: 4, "" }}</span>
+      </a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<div class="section-head">
+  <h2>Latest guides</h2>
+</div>
 <ul class="card-list">
   {% assign latest = site.articles | sort: "last_reviewed" | reverse %}
   {% for a in latest limit: 6 %}
@@ -14,7 +40,10 @@ layout: default
       <a href="{{ a.url | relative_url }}">
         <span class="card-title">{{ a.title }}</span>
         <span class="card-desc">{{ a.description }}</span>
+        <span class="chip-row"><span class="spec-chip">{{ a.topic_cluster }}</span>{% if a.review_status %}<span class="spec-chip">{{ a.review_status }}</span>{% endif %}</span>
       </a>
     </li>
   {% endfor %}
 </ul>
+
+{% include contact-cta.html %}
