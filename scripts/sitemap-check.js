@@ -42,5 +42,5 @@ for (const c of L.CLUSTERS) {
 const report = { tool: 'sitemap-check', counts: F.counts, gaps, findings: F.items };
 fs.mkdirSync(path.join(L.ROOT, 'reports'), { recursive: true });
 fs.writeFileSync(path.join(L.ROOT, 'reports', 'sitemap-check.json'), JSON.stringify(report, null, 2));
-console.log('sitemap-check: P0=' + F.counts.P0 + ' P1=' + F.counts.P1 + ' P2=' + F.counts.P2 + ' P3=' + F.counts.P3 + ' gaps=' + gaps);
-process.exitCode = F.has(['P0']) ? 1 : 0;
+console.log('sitemap-check: P0=' + F.counts.P0 + ' P1=' + F.counts.P1 + ' P2=' + F.counts.P2 + ' P3=' + F.counts.P3 + ' gaps=' + gaps + ' blocking=' + F.blocking.length);
+process.exitCode = F.hasBlocking ? 1 : 0;

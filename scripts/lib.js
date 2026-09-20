@@ -8,6 +8,54 @@ const CLUSTERS = ['rental','monthly-rental','scooters','motorcycles','manual-clu
 const SITE_URL = 'https://thuexemayhanoi.github.io';
 const BASEURL = '/english';
 
+// Primary legal source domains (class A per docs/SOURCE-MAP.md GOVERNMENT/LEGAL).
+// Everything else (thuvienphapluat.vn = B, mva.vn = C, news, blogs) is secondary.
+const PRIMARY_LEGAL_DOMAINS = ['chinhphu.vn', 'vanban.chinhphu.vn', 'bocongan.gov.vn', 'gov.vn', 'moit.gov.vn', 'mot.gov.vn', 'mof.gov.vn'];
+
+function isPrimaryLegalSource(url) {
+  if (!url) return false;
+  const m = String(url).match(/^https?:\/\/([^\/\s]+)/i);
+  const host = m ? m[1].toLowerCase() : String(url).toLowerCase();
+  return PRIMARY_LEGAL_DOMAINS.some(d => host === d || host.endsWith('.' + d));
+}
+
+// ============================================================
+// CENTRAL BLOCKING RULE — used by every validator and build-report.
+// P0 always blocks. P1 blocks only when clearly structural/correctness.
+// Ordinary P2/P3 never block.
+// ============================================================
+const BLOCKING_P1_PATTERNS = [
+  /^duplicate slug/,
+  /^YAML parse issue/,
+  /^missing required field /,
+  /^unknown topic_cluster/,
+  /^legal article VERIFIED without primary/,
+  /^invalid date/,
+  /^broken internal link/,
+  /^internal_link_targets references missing slug/,
+  /^missing topic hub/,
+  /doubled \/english\/english/,
+  /^duplicate canonical/,
+  /^accidental noindex/,
+  /^noindex page included in sitemap/,
+  /^indexable URL missing from sitemap/,
+  /^duplicate sitemap URL/,
+  /^sitemap URL with no corresponding/,
+  /^excluded content in sitemap/,
+  /^topic hub omitted from sitemap/,
+  /^invalid JSON-LD/,
+  /^BreadcrumbList without itemListElement/,
+  /^broken breadcrumb/,
+  /^noindex URL included in sitemap/
+];
+
+function isBlocking(finding) {
+  if (!finding) return false;
+  if (finding.severity === 'P0') return true;
+  if (finding.severity !== 'P1') return false;
+  return BLOCKING_P1_PATTERNS.some(re => re.test(finding.issue));
+}
+
 function walk(dir, out) {
   out = out || [];
   for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
@@ -60,7 +108,7 @@ function loadArticles() {
   return fs.readdirSync(dir).filter(f => f.endsWith('.md')).map(f => {
     const raw = fs.readFileSync(path.join(dir, f), 'utf8');
     const { fm, body, errors } = parseFrontMatter(raw);
-    return { file: '_articles/' + f, name: f, fm: fm || {}, body: body || '', parseErrors: errors || [] };
+    return { file: '_articles/' + f, name: f, fm: fm || {}, body: body || '', raw, parseErrors: errors || [] };
   });
 }
 
@@ -116,7 +164,20 @@ class Findings {
     for (const i of this.items) c[i.severity]++;
     return c;
   }
+  get blocking() { return this.items.filter(isBlocking); }
+  get hasBlocking() { return this.items.some(isBlocking); }
   has(sevs) { return this.items.some(i => sevs.includes(i.severity)); }
+}
+
+// Is this article dynamically listed by a valid hub and the all-guides index?
+// cluster.html lists articles by topic_cluster; articles/index.md lists by cluster;
+// index.html lists the latest six. An article with a valid cluster whose hub exists
+// and whose all-guides index exists is therefore linked at render time.
+function isDynamicallyListed(a) {
+  if (!a.fm || !a.fm.topic_cluster || !CLUSTERS.includes(a.fm.topic_cluster)) return false;
+  const hub = path.join(ROOT, 'topics', a.fm.topic_cluster, 'index.md');
+  const allGuides = path.join(ROOT, 'articles', 'index.md');
+  return fs.existsSync(hub) && fs.existsSync(allGuides);
 }
 
 // Render the Liquid sitemap template approximately: static paths, hub loop, article loop.
@@ -139,4 +200,13 @@ function sitemapLocs(raw, articles) {
   return [...s.matchAll(/<loc>([^<]+)<\/loc>/g)].map(x => x[1].trim());
 }
 
-module.exports = { ROOT, CLUSTERS, SITE_URL, BASEURL, walk, parseFrontMatter, loadArticles, loadPages, articleUrl, pageUrl, stripLiquid, findH1s, extractLinks, Findings, sitemapLocs };
+// Expected indexable URL set (absolute) for the whole site.
+function expectedIndexableUrls(articles) {
+  const abs = (u) => SITE_URL + BASEURL + u;
+  const set = new Set([abs('/'), abs('/articles/'), abs('/about/'), abs('/search/')]);
+  for (const c of CLUSTERS) set.add(abs('/topics/' + c + '/'));
+  for (const a of articles) set.add(abs(articleUrl(a)));
+  return set;
+}
+
+module.exports = { ROOT, CLUSTERS, SITE_URL, BASEURL, PRIMARY_LEGAL_DOMAINS, isPrimaryLegalSource, isBlocking, walk, parseFrontMatter, loadArticles, loadPages, articleUrl, pageUrl, stripLiquid, findH1s, extractLinks, Findings, sitemapLocs, isDynamicallyListed, expectedIndexableUrls };

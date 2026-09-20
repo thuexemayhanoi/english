@@ -26,6 +26,13 @@ jobs:
         run: node scripts/sitemap-check.js
       - name: Schema check
         run: node scripts/schema-check.js
+      - name: Build site with Jekyll (GitHub Pages toolchain)
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - name: Rendered site audit
+        run: node scripts/rendered-site-audit.js
       - name: Build quality report
         run: node scripts/build-report.js
       - name: Upload report artifact

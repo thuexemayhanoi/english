@@ -103,10 +103,17 @@ QA tooling in scripts/ (plain Node.js, zero dependencies). Build-time only; GitH
 - scripts/seo-audit.js — titles, meta, canonicals, sitemap inclusion, H1, noindex
 - scripts/sitemap-check.js — sitemap coverage vs indexable pages
 - scripts/schema-check.js — JSON-LD syntax and field rules
+- scripts/rendered-site-audit.js — inspects actual Jekyll output in _site/ (titles, canonicals, H1, noindex, rendered links, JSON-LD, Article schema, sitemap-to-file correspondence)
 - scripts/build-report.js — runs all, writes reports/quality-latest.md
 
+Blocking rule is centralized in scripts/lib.js (isBlocking): all P0 blocks, and P1 blocks only for clearly structural/correctness findings (duplicate slug, YAML failure, missing required fields, unknown topic_cluster, legal VERIFIED without primary legal sources, invalid dates, broken internal links, missing link targets, missing hubs, doubled /english/english paths, duplicate canonicals, noindex/sitemap integrity, invalid JSON-LD, broken breadcrumbs). Ordinary P2/P3 never block.
+
+Legal source validation: a legal article may stay published while REVIEW_REQUIRED. A legal article can only be considered VERIFIED when sources[] cites at least one class A primary legal domain (chinhphu.vn, vanban.chinhphu.vn, bocongan.gov.vn, *.gov.vn per docs/SOURCE-MAP.md). Secondary sources (thuvienphapluat.vn etc.) never satisfy VERIFIED on their own. Metadata/status consistency only — article facts are never rewritten by tooling.
+
+Orphan detection is Liquid-aware: articles listed dynamically by their topic hub (cluster.html), the all-guides index (articles/index.md) or the homepage are not orphans; only genuinely disconnected content is flagged.
+
 Severity scale: P0 = broken deployment/indexing, P1 = serious SEO/data issue, P2 = quality warning, P3 = recommendation.
-Quality gate (.github/workflows/quality-gate.yml) runs on push to main, pull requests, workflow_dispatch. Fails only on P0 and clearly structural P1; P2/P3 never block. Reports upload as workflow artifacts, never committed — no commit loop.
+Quality gate (.github/workflows/quality-gate.yml) runs on push to main, pull requests, workflow_dispatch. It builds the site with the official GitHub Pages Jekyll toolchain (actions/jekyll-build-pages) and then runs the rendered-site audit against _site/. Fails only on P0 and clearly structural P1; P2/P3 never block. Reports upload as workflow artifacts, never committed — no commit loop.
 
 Batch production sequence:
 
@@ -129,9 +136,10 @@ Run locally before each batch commit:
 # DEPLOYMENT STATE
 
 - Hosting: GitHub Pages, Jekyll, baseurl /english.
-- Latest verified commit: ecb6d3d354a9896e05129e1d679616679f47af46 (quality toolkit with Liquid-aware sitemap rendering).
-- Quality Gate run 35483885564 on ecb6d3d3: success.
-- Pages deploy for ecb6d3d3 was queued at last check (run 35483885048); site content unchanged by that commit (tooling/docs only), live site verified serving correctly from commit 410750f0.
+- Latest verified implementation commit: ecb6d3d354a9896e05129e1d679616679f47af46 (quality toolkit with Liquid-aware sitemap rendering).
+- Latest verified Quality Gate run: 35484080284 = SUCCESS.
+- Latest verified Pages run: 35484079926 = BUILD SUCCESS + DEPLOY SUCCESS.
+- README-only state updates may create a newer HEAD than the SHAs recorded here; the values above always refer to the last implementation commit whose CI/deploy was actually verified. The QA-hardening commit that follows this README update records its own verification in the CHANGE LOG entry below once observed.
 
 # NEXT RECOMMENDED STEP
 
@@ -139,5 +147,6 @@ Verify the 10 REVIEW_REQUIRED legal articles against primary legal sources (Decr
 
 # CHANGE LOG
 
+- 2026-09-20 (2): QA hardening — centralized blocking rule (lib.isBlocking) across all validators; rendered-site-audit.js added and wired into quality-gate.yml with a real Jekyll build (actions/jekyll-build-pages); Liquid-aware orphan detection; corrected report metrics (TOTAL PAGES = indexable set, MISSING SCHEMA/MISSING META mapped precisely, no double counting); conservative legal source validation (VERIFIED requires class A primary legal domains); README deployment-state wording fixed to avoid self-referential SHA drift.
 - 2026-09-20: Added SEO + content quality toolkit (scripts/, quality-gate workflow); fixed hub architecture (/articles/ = all guides, deterministic hub links, empty hub states, footer/sitemap fixes); fixed malformed YAML in 9 article front matters. Restructured README as project brain (this file).
 - 2026-09-19: Visual redesign deployed; 10 legal articles published; data foundation (docs/) established; 14 topic hubs + all-guides index created.
