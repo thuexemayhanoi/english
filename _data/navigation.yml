@@ -1,0 +1,52 @@
+# Canonical navigation taxonomy — single source of truth for header, footer
+# and future navigation surfaces. `cluster` values must match topics/<cluster>/ hubs.
+# Do not rename cluster slugs casually; user-facing labels may differ from slugs.
+
+parents:
+  - id: rent
+    label: Rent a bike
+    children:
+      - label: Motorbike Rental
+        cluster: rental
+      - label: Monthly Rental
+        cluster: monthly-rental
+
+  - id: bikes
+    label: Choose a bike
+    children:
+      - label: Scooters
+        cluster: scooters
+      - label: Motorcycles
+        cluster: motorcycles
+      - label: Manual / Clutch Bikes
+        cluster: manual-clutch
+      - label: 50cc Bikes
+        cluster: 50cc
+      - label: Electric Bikes & E-Bikes
+        cluster: electric
+
+  - id: ride
+    label: Ride & maintain
+    children:
+      - label: Maintenance & Repair
+        cluster: maintenance
+      - label: Parts & Gear
+        cluster: parts-gear
+      - label: Riding Safety
+        cluster: safety
+
+  - id: rules
+    label: Rules
+    children:
+      - label: Laws & Licences
+        cluster: law-licences
+
+  - id: explore
+    label: Explore
+    children:
+      - label: Hanoi
+        cluster: hanoi
+      - label: Trips from Hanoi
+        cluster: trips
+      - label: Vietnam Travel
+        cluster: vietnam-travel

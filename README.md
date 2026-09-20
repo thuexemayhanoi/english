@@ -39,7 +39,8 @@ If this README conflicts with actual remote MAIN, inspect MAIN and update the RE
 | _articles/ | Published articles (front matter: title, slug, description, category, tags, content_type, search_intent, topic_cluster, subcluster, date_published, last_reviewed, review_status, sources, internal_link_targets) |
 | _queue/ | Unpublished drafts, excluded from output |
 | _layouts/ | default.html, article.html (BlogPosting schema, review banner, related links), cluster.html (topic hub with count + empty state) |
-| _includes/ | header.html, footer.html (collapsed accordions), breadcrumbs.html, contact-cta.html |
+| _includes/ | header.html (parent-child dropdown nav), footer.html (site-map accordions), breadcrumbs.html, contact-cta.html |
+| _data/navigation.yml | Single source of truth for navigation taxonomy: 5 parent groups over the 14 clusters; used by header and footer |
 | topics/<cluster>/index.md | 14 topic hubs: rental, monthly-rental, scooters, motorcycles, manual-clutch, 50cc, electric, maintenance, parts-gear, safety, law-licences, hanoi, trips, vietnam-travel |
 | articles/index.md | All Motorbike Guides — true all-article index, grouped by cluster |
 | index.html | Homepage: hero + search, topic tiles with counts / "Coming soon", latest guides, contact CTA |
@@ -56,7 +57,7 @@ If this README conflicts with actual remote MAIN, inspect MAIN and update the RE
 
 Date: 2026-09-20
 - Jekyll site live on GitHub Pages, baseurl /english, English-only UI.
-- Theme toggle (Light/Dark/Auto), responsive + sticky mobile nav, client-side search, breadcrumbs, collapsed accordion footer, contact CTAs.
+- Theme toggle (Light/Dark/Auto), parent-child header navigation (desktop dropdowns + mobile accordion panel, keyboard accessible), 4-item mobile bottom nav, client-side search, breadcrumbs, footer as secondary site map, contact CTAs.
 - 10 published articles, all in cluster law-licences, all marked REVIEW_REQUIRED.
 - 14 topic hubs live; 13 currently show the empty state ("Guides for this topic are being prepared."); law-licences hub lists all 10 articles.
 - Homepage shows active hubs with counts first, empty hubs marked "Coming soon".
@@ -71,6 +72,7 @@ Date: 2026-09-20
 - Footer accordions collapsed by default; law link wall reduced to hub + 4 featured + All law guides.
 - Quality toolkit: 7 scripts, zero dependencies, all run clean (P0=0, P1=0, P2=16, P3=9 on current content).
 - Quality Gate workflow runs on push/PR/dispatch and passes (run 35483885564, commit ecb6d3d3).
+- Navigation IA: full 14-cluster taxonomy exposed as parent -> child in header (Rent a bike / Choose a bike / Ride & maintain / Rules / Explore), mobile accordion panel, and footer site map; all driven from _data/navigation.yml; accessible dropdowns (aria-expanded/aria-controls, Escape, outside-click, focus-visible, ArrowDown); bottom nav simplified to Home / Guides / Search / Contact.
 
 # OPEN ISSUES
 
@@ -147,6 +149,7 @@ Verify the 10 REVIEW_REQUIRED legal articles against primary legal sources (Decr
 
 # CHANGE LOG
 
+- 2026-09-20 (3): Navigation/IA pass — _data/navigation.yml centralizes the parent->child taxonomy (5 groups over 14 clusters); header rebuilt with accessible disclosure dropdowns + mobile accordion panel sharing one markup; footer rebuilt as a secondary site map (5 guide groups + Discover + verified contact facts incl. Zalo); mobile bottom nav simplified to Home/Guides/Search/Contact; docs/TAXONOMY.md synchronized with the implemented 14-cluster set (parts-gear supersedes parts-accessories).
 - 2026-09-20 (2): QA hardening — centralized blocking rule (lib.isBlocking) across all validators; rendered-site-audit.js added and wired into quality-gate.yml with a real Jekyll build (actions/jekyll-build-pages); Liquid-aware orphan detection; corrected report metrics (TOTAL PAGES = indexable set, MISSING SCHEMA/MISSING META mapped precisely, no double counting); conservative legal source validation (VERIFIED requires class A primary legal domains); README deployment-state wording fixed to avoid self-referential SHA drift.
 - 2026-09-20: Added SEO + content quality toolkit (scripts/, quality-gate workflow); fixed hub architecture (/articles/ = all guides, deterministic hub links, empty hub states, footer/sitemap fixes); fixed malformed YAML in 9 article front matters. Restructured README as project brain (this file).
 - 2026-09-19: Visual redesign deployed; 10 legal articles published; data foundation (docs/) established; 14 topic hubs + all-guides index created.

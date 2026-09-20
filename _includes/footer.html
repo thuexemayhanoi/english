@@ -1,38 +1,26 @@
 <footer class="site-footer">
   <div class="container">
-    <details class="footer-accordion">
-      <summary>Explore the guide</summary>
+    <details class="footer-accordion" open>
+      <summary>Explore guides</summary>
       <div class="footer-cols">
+        {% for p in site.data.navigation.parents %}
         <div>
-          <h3>Topics</h3>
+          <h3>{{ p.label }}</h3>
           <ul>
-            {% assign clusters = "rental,scooters,electric,maintenance,safety,law-licences,hanoi,trips" | split: "," %}
-            {% for c in clusters %}
-              {% assign hub_permalink = "/topics/" | append: c | append: "/" %}
+            {% for child in p.children %}
+              {% assign hub_permalink = "/topics/" | append: child.cluster | append: "/" %}
               {% assign hub = site.pages | where: "permalink", hub_permalink | first %}
-              {% if hub %}<li><a href="{{ hub.url | relative_url }}">{{ hub.title }}</a></li>{% endif %}
+              {% if hub %}<li><a href="{{ hub.url | relative_url }}">{{ child.label }}</a></li>{% endif %}
             {% endfor %}
+          </ul>
+        </div>
+        {% endfor %}
+        <div>
+          <h3>Discover</h3>
+          <ul>
             <li><a href="{{ '/articles/' | relative_url }}">All guides</a></li>
-          </ul>
-        </div>
-        <div>
-          <h3>Laws &amp; licences</h3>
-          <ul>
-            <li><a href="{{ '/topics/law-licences/' | relative_url }}">All law guides</a></li>
-            {% assign law_articles = site.articles | where: "topic_cluster", "law-licences" %}
-            {% for a in law_articles limit: 4 %}
-            <li><a href="{{ a.url | relative_url }}">{{ a.title }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-        <div>
-          <h3>Plan your ride</h3>
-          <ul>
-            <li><a href="{{ '/topics/rental/' | relative_url }}">Renting in Hanoi</a></li>
-            <li><a href="{{ '/topics/monthly-rental/' | relative_url }}">Monthly rental</a></li>
-            <li><a href="{{ '/topics/trips/' | relative_url }}">Trips from Hanoi</a></li>
-            <li><a href="{{ '/topics/safety/' | relative_url }}">Riding safety</a></li>
             <li><a href="{{ '/search/' | relative_url }}">Search</a></li>
+            <li><a href="{{ '/about/' | relative_url }}">About &amp; contact</a></li>
           </ul>
         </div>
       </div>
@@ -43,7 +31,7 @@
         <div>
           <h3>Visit</h3>
           <ul>
-            <li>112 Nguyen Van Cu Street, Bo De, Long Bien, Hanoi</li>
+            <li>112 Nguyen Van Cu Street, Bo De, Long Bien, Hanoi, Vietnam</li>
             <li>09:00&ndash;21:00 daily</li>
           </ul>
         </div>
@@ -52,6 +40,7 @@
           <ul>
             <li><a href="tel:+84942467674">+84 942 467 674</a></li>
             <li><a href="https://wa.me/84942467674" rel="noopener">WhatsApp</a></li>
+            <li><a href="https://zalo.me/84942467674" rel="noopener">Zalo</a></li>
           </ul>
         </div>
         <div>

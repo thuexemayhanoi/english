@@ -6,11 +6,33 @@
     </a>
     <nav id="nav" class="site-nav" aria-label="Main navigation">
       <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{{ '/articles/' | relative_url }}">All guides</a>
+      <a href="{{ '/articles/' | relative_url }}">Guides</a>
+      {% for p in site.data.navigation.parents %}
+        {% if p.children.size == 1 %}
+          {% assign c = p.children[0].cluster %}
+          <a href="{{ '/topics/' | append: c | append: '/' | relative_url }}" data-section="{{ c }}">{{ p.children[0].label }}</a>
+        {% else %}
+          <div class="nav-group" data-section-group="{{ p.id }}">
+            <button type="button" class="nav-drop-btn" id="navbtn-{{ p.id }}" aria-expanded="false" aria-controls="navmenu-{{ p.id }}">
+              {{ p.label }}
+              <svg class="icon chev" viewBox="0 0 24 24" width="12" height="12" aria-hidden="true"><path fill="currentColor" d="M12 15.5 5.5 9l1.4-1.4L12 12.7l5.1-5.1L18.5 9 12 15.5z"/></svg>
+            </button>
+            <ul class="nav-dropdown" id="navmenu-{{ p.id }}">
+              {% for child in p.children %}
+                {% assign hub_permalink = "/topics/" | append: child.cluster | append: "/" %}
+                {% assign hub = site.pages | where: "permalink", hub_permalink | first %}
+                {% if hub %}
+                  <li><a href="{{ hub.url | relative_url }}" data-section="{{ child.cluster }}">{{ child.label }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+      {% endfor %}
       <a href="{{ '/search/' | relative_url }}">Search</a>
-      <a href="{{ '/about/' | relative_url }}">About &amp; contact</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
     </nav>
-    <button id="navToggle" class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+    <button id="navToggle" class="nav-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="nav">
       <svg class="icon" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path fill="currentColor" d="M4 6h16v2H4zm0 5h16v2H4zm0 5h16v2H4z"/></svg>
     </button>
     <button id="themeToggle" class="theme-toggle" aria-label="Toggle theme">

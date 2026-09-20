@@ -1,21 +1,35 @@
 # WEBSITE TAXONOMY — English Motorbike Knowledge Hub
 
-Status: PROPOSED — awaiting owner approval.
+Status: ACTIVE — synchronized with the implemented architecture (14 canonical topic clusters). The implemented cluster set is authoritative; user-facing labels may differ from slugs.
 
-## 1. Content categories (top level)
+## 0. Navigation grouping (user-facing parents)
 
-1. `rental` — Hanoi motorbike rental (incl. monthly/long-term)
-2. `scooters` — Scooter reviews, comparisons, buying guidance
-3. `motorcycles` — Motorcycle reviews, comparisons (incl. manual/clutch)
-4. `50cc` — 50cc bikes and licence-free riding
-5. `electric` — Electric motorbikes and e-bikes
-6. `maintenance` — Maintenance and repair
-7. `parts-accessories` — Parts, accessories, riding gear
-8. `safety` — Riding skills and safety
-9. `law-licences` — Vietnam motorbike laws and licences
-10. `hanoi` — Hanoi travel and riding in Hanoi
-11. `trips` — Motorbike trips from Hanoi
-12. `vietnam-travel` — Vietnam travel related to riding/transport
+Navigation parents are presentation concepts defined in `_data/navigation.yml`; they do not create URLs. Canonical hub URLs remain `/topics/<cluster>/`.
+
+- Rent a bike → `rental`, `monthly-rental`
+- Choose a bike → `scooters`, `motorcycles`, `manual-clutch`, `50cc`, `electric`
+- Ride & maintain → `maintenance`, `parts-gear`, `safety`
+- Rules → `law-licences`
+- Explore → `hanoi`, `trips`, `vietnam-travel`
+
+## 1. Content categories (top level — 14 canonical clusters)
+
+1. `rental` — Hanoi motorbike rental
+2. `monthly-rental` — Monthly / long-term motorbike rental
+3. `scooters` — Scooter reviews, comparisons, buying guidance
+4. `motorcycles` — Motorcycle reviews, comparisons
+5. `manual-clutch` — Manual and clutch motorcycles
+6. `50cc` — 50cc bikes and licence-free riding
+7. `electric` — Electric motorbikes and e-bikes
+8. `maintenance` — Maintenance and repair
+9. `parts-gear` — Parts, accessories, riding gear
+10. `safety` — Riding skills and safety
+11. `law-licences` — Vietnam motorbike laws and licences
+12. `hanoi` — Hanoi travel and riding in Hanoi
+13. `trips` — Motorbike trips from Hanoi
+14. `vietnam-travel` — Vietnam travel related to riding/transport
+
+Note: `parts-gear` (implemented) supersedes the earlier proposed `parts-accessories` slug. Do not rename existing cluster slugs casually.
 
 ## 2. Entity taxonomies
 
