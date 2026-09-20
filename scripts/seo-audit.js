@@ -9,8 +9,8 @@ const F = new L.Findings();
 const articles = L.loadArticles();
 const pages = L.loadPages();
 const sitemapRaw = fs.readFileSync(path.join(L.ROOT, 'sitemap.xml'), 'utf8');
-const sitemapHas = (u) => sitemapRaw.includes(u);
-const hubPermalinks = new Set(L.CLUSTERS.map(c => '/topics/' + c + '/'));
+const sitemapLocsList = L.sitemapLocs(sitemapRaw, articles);
+const sitemapHas = (u) => sitemapLocsList.includes(u);
 
 const titleCount = {}, descCount = {}, canonCount = {};
 const all = [];
@@ -22,20 +22,20 @@ const known = new Set(all.map(x => x.url).concat(L.CLUSTERS.map(c => '/topics/' 
 
 for (const x of all) {
   const { fm, url, file } = x;
-  const skipIndex = file === '404.html';
+  const skipIndex = file === '404.html' || file === 'README.md'; // excluded from Jekyll output
   if (skipIndex) continue;
 
   // Title
-  if (!fm.title || String(fm.title).trim() === '') F.add(x.isArticle ? 'P1' : 'P1', file, url, 'missing title', 'Add a title front-matter value');
+  const usesSiteDefaults = file === 'index.html'; // default layout falls back to site.title/site.description
+  if (!fm.title || String(fm.title).trim() === '') F.add(usesSiteDefaults ? 'P2' : 'P1', file, url, 'missing title' + (usesSiteDefaults ? ' (site default used)' : ''), 'Add a title front-matter value');
   else titleCount[String(fm.title).trim()] = (titleCount[String(fm.title).trim()] || 0) + 1;
   // Description
-  if (!fm.description || String(fm.description).trim() === '') F.add('P1', file, url, 'missing meta description', 'Add a description front-matter value');
+  if (!fm.description || String(fm.description).trim() === '') F.add(x.isArticle ? 'P1' : 'P2', file, url, 'missing meta description' + (usesSiteDefaults ? ' (site default used)' : ''), 'Add a description front-matter value');
   else descCount[String(fm.description).trim()] = (descCount[String(fm.description).trim()] || 0) + 1;
 
   // Canonical / URL sanity (all pages use layout default; canonical = page.url | absolute_url)
   const abs = L.SITE_URL + L.BASEURL + url;
   if (url.includes('/english/english')) F.add('P0', file, url, 'doubled /english/english/ path', 'Fix permalink/baseurl');
-  if (!/^[a-z0-9\-\/]+$/.test(url.replace(/[^a-z0-9\-\/]/g, ''))) { /* non-ascii slugs are a warning only */ }
   if (canonCount[abs]) F.add('P0', file, url, 'duplicate canonical ' + abs, 'Fix permalinks; two pages share a URL');
   canonCount[abs] = true;
 

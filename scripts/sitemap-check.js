@@ -9,7 +9,7 @@ const F = new L.Findings();
 const articles = L.loadArticles();
 const pages = L.loadPages();
 const raw = fs.readFileSync(path.join(L.ROOT, 'sitemap.xml'), 'utf8');
-const locs = [...raw.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1].trim());
+const locs = L.sitemapLocs(raw, articles);
 const abs = (u) => L.SITE_URL + L.BASEURL + u;
 
 // Expected indexable set
@@ -36,7 +36,7 @@ for (const p of pages) {
 }
 // Topic hubs omitted
 for (const c of L.CLUSTERS) {
-  if (!raw.includes('/topics/' + c + '/')) { F.add('P1', 'sitemap.xml', '/topics/' + c + '/', 'topic hub omitted from sitemap', 'Add hub to sitemap'); gaps++; }
+  if (!locs.includes(abs('/topics/' + c + '/'))) { F.add('P1', 'sitemap.xml', '/topics/' + c + '/', 'topic hub omitted from sitemap', 'Add hub to sitemap'); gaps++; }
 }
 
 const report = { tool: 'sitemap-check', counts: F.counts, gaps, findings: F.items };

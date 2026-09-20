@@ -119,4 +119,24 @@ class Findings {
   has(sevs) { return this.items.some(i => sevs.includes(i.severity)); }
 }
 
-module.exports = { ROOT, CLUSTERS, SITE_URL, BASEURL, walk, parseFrontMatter, loadArticles, loadPages, articleUrl, pageUrl, stripLiquid, findH1s, extractLinks, Findings };
+// Render the Liquid sitemap template approximately: static paths, hub loop, article loop.
+function sitemapLocs(raw, articles) {
+  const abs = (u) => SITE_URL + BASEURL + u;
+  let s = raw.replace(/\{\{\s*'([^']*)'\s*\|\s*absolute_url\s*\}\}/g, (m, p) => abs(p));
+  const hubLoop = /\{%\s*assign hub_paths = "([^"]+)"[^%]*%\}[\s\S]*?\{%\s*endfor\s*%\}/;
+  const m = s.match(hubLoop);
+  if (m) {
+    const hubs = m[1].split(',').filter(Boolean);
+    s = s.replace(hubLoop, hubs.map(h => '  <url><loc>' + abs(h) + '</loc></url>').join('\n'));
+  }
+  // articles loop: {% for a in site.articles %}...{% endfor %}
+  const artLoop = /\{%\s*for a in site\.articles\s*%\}([\s\S]*?)\{%\s*endfor\s*%\}/;
+  const am = s.match(artLoop);
+  if (am && articles) {
+    const rendered = articles.map(a => '  <url><loc>' + abs(articleUrl(a)) + '</loc></url>').join('\n');
+    s = s.replace(artLoop, rendered);
+  }
+  return [...s.matchAll(/<loc>([^<]+)<\/loc>/g)].map(x => x[1].trim());
+}
+
+module.exports = { ROOT, CLUSTERS, SITE_URL, BASEURL, walk, parseFrontMatter, loadArticles, loadPages, articleUrl, pageUrl, stripLiquid, findH1s, extractLinks, Findings, sitemapLocs };
