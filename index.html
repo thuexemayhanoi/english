@@ -15,17 +15,36 @@ layout: default
   <h2>Explore by topic</h2>
   <a class="more" href="{{ '/articles/' | relative_url }}">All guides &rarr;</a>
 </div>
+{% assign clusters = "rental,monthly-rental,scooters,motorcycles,manual-clutch,50cc,electric,maintenance,parts-gear,safety,law-licences,hanoi,trips,vietnam-travel" | split: "," %}
 <ul class="topic-tiles">
-  {% assign clusters = "rental,monthly-rental,scooters,motorcycles,manual-clutch,50cc,electric,maintenance,parts-gear,safety,law-licences,hanoi,trips,vietnam-travel" | split: "," %}
   {% for c in clusters %}
-    {% assign hub = site.pages | where: "topic_cluster", c | first %}
-    {% if hub %}
-    <li class="topic-tile">
-      <a href="{{ hub.url | relative_url }}">
-        <span class="tile-title">{{ hub.title }}</span>
-        <span class="tile-count">{{ hub.description | truncatewords: 4, "" }}</span>
-      </a>
-    </li>
+    {% assign count = site.articles | where: "topic_cluster", c | size %}
+    {% if count > 0 %}
+      {% assign hub_permalink = "/topics/" | append: c | append: "/" %}
+      {% assign hub = site.pages | where: "permalink", hub_permalink | first %}
+      {% if hub %}
+  <li class="topic-tile">
+    <a href="{{ hub.url | relative_url }}">
+      <span class="tile-title">{{ hub.title }}</span>
+      <span class="tile-count">{% if count == 1 %}1 guide{% else %}{{ count }} guides{% endif %}</span>
+    </a>
+  </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  {% for c in clusters %}
+    {% assign count = site.articles | where: "topic_cluster", c | size %}
+    {% if count == 0 %}
+      {% assign hub_permalink = "/topics/" | append: c | append: "/" %}
+      {% assign hub = site.pages | where: "permalink", hub_permalink | first %}
+      {% if hub %}
+  <li class="topic-tile">
+    <a href="{{ hub.url | relative_url }}">
+      <span class="tile-title">{{ hub.title }}</span>
+      <span class="tile-count">Coming soon</span>
+    </a>
+  </li>
+      {% endif %}
     {% endif %}
   {% endfor %}
 </ul>

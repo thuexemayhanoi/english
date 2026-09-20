@@ -5,15 +5,19 @@ layout: default
 <h1>{{ page.title }}</h1>
 {{ content }}
 {% assign cluster = page.topic_cluster %}
+{% assign cluster_articles = site.articles | where: "topic_cluster", cluster %}
+<p class="meta">{{ cluster_articles.size }} {% if cluster_articles.size == 1 %}guide{% else %}guides{% endif %} in this topic.</p>
+{% if cluster_articles.size == 0 %}
+<p class="card-desc">Guides for this topic are being prepared. Meanwhile, you can <a href="{{ '/articles/' | relative_url }}">browse all guides</a>.</p>
+{% else %}
 <ul class="card-list">
-  {% for a in site.articles %}
-    {% if a.topic_cluster == cluster %}
-      <li class="card">
-        <a href="{{ a.url | relative_url }}">
-          <span class="card-title">{{ a.title }}</span>
-          <span class="card-desc">{{ a.description }}</span>
-        </a>
-      </li>
-    {% endif %}
+  {% for a in cluster_articles %}
+    <li class="card">
+      <a href="{{ a.url | relative_url }}">
+        <span class="card-title">{{ a.title }}</span>
+        <span class="card-desc">{{ a.description }}</span>
+      </a>
+    </li>
   {% endfor %}
 </ul>
+{% endif %}

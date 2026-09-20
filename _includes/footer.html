@@ -1,6 +1,6 @@
 <footer class="site-footer">
   <div class="container">
-    <details class="footer-accordion" open>
+    <details class="footer-accordion">
       <summary>Explore the guide</summary>
       <div class="footer-cols">
         <div>
@@ -8,7 +8,8 @@
           <ul>
             {% assign clusters = "rental,scooters,electric,maintenance,safety,law-licences,hanoi,trips" | split: "," %}
             {% for c in clusters %}
-              {% assign hub = site.pages | where: "topic_cluster", c | first %}
+              {% assign hub_permalink = "/topics/" | append: c | append: "/" %}
+              {% assign hub = site.pages | where: "permalink", hub_permalink | first %}
               {% if hub %}<li><a href="{{ hub.url | relative_url }}">{{ hub.title }}</a></li>{% endif %}
             {% endfor %}
             <li><a href="{{ '/articles/' | relative_url }}">All guides</a></li>
@@ -17,8 +18,10 @@
         <div>
           <h3>Laws &amp; licences</h3>
           <ul>
-            {% for a in site.articles %}
-              {% if a.topic_cluster == "law-licences" %}<li><a href="{{ a.url | relative_url }}">{{ a.title }}</a></li>{% endif %}
+            <li><a href="{{ '/topics/law-licences/' | relative_url }}">All law guides</a></li>
+            {% assign law_articles = site.articles | where: "topic_cluster", "law-licences" %}
+            {% for a in law_articles limit: 4 %}
+            <li><a href="{{ a.url | relative_url }}">{{ a.title }}</a></li>
             {% endfor %}
           </ul>
         </div>
@@ -34,7 +37,7 @@
         </div>
       </div>
     </details>
-    <details class="footer-accordion" open>
+    <details class="footer-accordion">
       <summary>Contact Nguyen Tu</summary>
       <div class="footer-cols">
         <div>

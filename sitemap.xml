@@ -5,12 +5,11 @@ layout: null
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>{{ '/' | absolute_url }}</loc></url>
   <url><loc>{{ '/articles/' | absolute_url }}</loc></url>
-  <url><loc>{{ '/search/' | absolute_url }}</loc></url>
   <url><loc>{{ '/about/' | absolute_url }}</loc></url>
-  {% for p in site.pages %}
-    {% if p.layout == 'cluster' %}
-  <url><loc>{{ p.url | absolute_url }}</loc></url>
-    {% endif %}
+  <url><loc>{{ '/search/' | absolute_url }}</loc></url>
+  {% assign hub_paths = "/topics/rental/,/topics/monthly-rental/,/topics/scooters/,/topics/motorcycles/,/topics/manual-clutch/,/topics/50cc/,/topics/electric/,/topics/maintenance/,/topics/parts-gear/,/topics/safety/,/topics/law-licences/,/topics/hanoi/,/topics/trips/,/topics/vietnam-travel/" | split: "," %}
+  {% for h in hub_paths %}
+  <url><loc>{{ h | absolute_url }}</loc></url>
   {% endfor %}
   {% for a in site.articles %}
   <url><loc>{{ a.url | absolute_url }}</loc><lastmod>{{ a.last_reviewed }}</lastmod></url>
