@@ -6,6 +6,7 @@
     </a>
     <nav id="nav" class="site-nav" aria-label="Main navigation">
       <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
       <a href="{{ '/articles/' | relative_url }}">Guides</a>
       {% for p in site.data.navigation.parents %}
         {% if p.children.size == 1 %}
@@ -29,8 +30,12 @@
           </div>
         {% endif %}
       {% endfor %}
-      <a href="{{ '/search/' | relative_url }}">Search</a>
-      <a href="{{ '/about/' | relative_url }}">About</a>
+      {% for u in site.data.navigation.utility %}
+        <a href="{{ u.path | relative_url }}">{{ u.label }}</a>
+      {% endfor %}
+      {% for l in site.data.navigation.legal %}
+        <a class="nav-legal" href="{{ l.path | relative_url }}">{{ l.label }}</a>
+      {% endfor %}
     </nav>
     <button id="navToggle" class="nav-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="nav">
       <svg class="icon" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path fill="currentColor" d="M4 6h16v2H4zm0 5h16v2H4zm0 5h16v2H4z"/></svg>

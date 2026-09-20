@@ -40,12 +40,12 @@ If this README conflicts with actual remote MAIN, inspect MAIN and update the RE
 | _queue/ | Unpublished drafts, excluded from output |
 | _layouts/ | default.html, article.html (BlogPosting schema, review banner, related links), cluster.html (topic hub with count + empty state) |
 | _includes/ | header.html (parent-child dropdown nav), footer.html (site-map accordions), breadcrumbs.html, contact-cta.html |
-| _data/navigation.yml | Single source of truth for navigation taxonomy: 5 parent groups over the 14 clusters; used by header and footer |
+| _data/navigation.yml | Single source of truth for navigation taxonomy: 5 parent groups over the 14 clusters + utility (Search/FAQ/Contact) and legal (Privacy/Terms) links; used by header and footer |
 | topics/<cluster>/index.md | 14 topic hubs: rental, monthly-rental, scooters, motorcycles, manual-clutch, 50cc, electric, maintenance, parts-gear, safety, law-licences, hanoi, trips, vietnam-travel |
 | articles/index.md | All Motorbike Guides — true all-article index, grouped by cluster |
 | index.html | Homepage: hero + search, topic tiles with counts / "Coming soon", latest guides, contact CTA |
 | search.md, search.json | Client-side search page and index |
-| about.md, 404.html | Static pages |
+| about.md, faq.md, contact.md, privacy.md, terms.md, 404.html | Static pages (About kept as informational page; FAQ links to guides; Contact holds verified business contact facts; Privacy/Terms are informational-site policies) |
 | sitemap.xml | Liquid-generated: home, /articles/, /about/, /search/, 14 hubs, all articles |
 | robots.txt | Allows all, points to sitemap |
 | assets/css/main.css, assets/js/main.js | Design tokens, Light/Dark/Auto theme, nav, search |
@@ -57,7 +57,8 @@ If this README conflicts with actual remote MAIN, inspect MAIN and update the RE
 
 Date: 2026-09-20
 - Jekyll site live on GitHub Pages, baseurl /english, English-only UI.
-- Theme toggle (Light/Dark/Auto), parent-child header navigation (desktop dropdowns + mobile accordion panel, keyboard accessible), 4-item mobile bottom nav, client-side search, breadcrumbs, footer as secondary site map, contact CTAs.
+- Theme toggle (Light/Dark/Auto), parent-child header navigation (desktop dropdowns + mobile accordion panel, keyboard accessible), 4-item mobile bottom nav (Home/Guides/Search/Contact -> /contact/), client-side search, breadcrumbs, footer as secondary site map, contact CTAs.
+- Utility pages live: /about/, /faq/, /contact/, /privacy/, /terms/ — all indexed, in sitemap, linked from nav/footer.
 - 10 published articles, all in cluster law-licences, all marked REVIEW_REQUIRED.
 - 14 topic hubs live; 13 currently show the empty state ("Guides for this topic are being prepared."); law-licences hub lists all 10 articles.
 - Homepage shows active hubs with counts first, empty hubs marked "Coming soon".
@@ -149,6 +150,7 @@ Verify the 10 REVIEW_REQUIRED legal articles against primary legal sources (Decr
 
 # CHANGE LOG
 
+- 2026-09-20 (4): Navigation correction — About kept and moved before Guides; added FAQ (/faq/), Contact (/contact/), Privacy Policy (/privacy/), Terms & Conditions (/terms/) pages; header order Home/About/Guides + topic groups + Search/FAQ/Contact, with Privacy/Terms in the mobile panel and footer Discover column; bottom nav Contact now targets /contact/; sitemap and QA expectations extended to 32 indexable URLs.
 - 2026-09-20 (3): Navigation/IA pass — _data/navigation.yml centralizes the parent->child taxonomy (5 groups over 14 clusters); header rebuilt with accessible disclosure dropdowns + mobile accordion panel sharing one markup; footer rebuilt as a secondary site map (5 guide groups + Discover + verified contact facts incl. Zalo); mobile bottom nav simplified to Home/Guides/Search/Contact; docs/TAXONOMY.md synchronized with the implemented 14-cluster set (parts-gear supersedes parts-accessories).
 - 2026-09-20 (2): QA hardening — centralized blocking rule (lib.isBlocking) across all validators; rendered-site-audit.js added and wired into quality-gate.yml with a real Jekyll build (actions/jekyll-build-pages); Liquid-aware orphan detection; corrected report metrics (TOTAL PAGES = indexable set, MISSING SCHEMA/MISSING META mapped precisely, no double counting); conservative legal source validation (VERIFIED requires class A primary legal domains); README deployment-state wording fixed to avoid self-referential SHA drift.
 - 2026-09-20: Added SEO + content quality toolkit (scripts/, quality-gate workflow); fixed hub architecture (/articles/ = all guides, deterministic hub links, empty hub states, footer/sitemap fixes); fixed malformed YAML in 9 article front matters. Restructured README as project brain (this file).

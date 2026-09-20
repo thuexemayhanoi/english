@@ -203,7 +203,7 @@ function sitemapLocs(raw, articles) {
 // Expected indexable URL set (absolute) for the whole site.
 function expectedIndexableUrls(articles) {
   const abs = (u) => SITE_URL + BASEURL + u;
-  const set = new Set([abs('/'), abs('/articles/'), abs('/about/'), abs('/search/')]);
+  const set = new Set([abs('/'), abs('/articles/'), abs('/about/'), abs('/search/'), abs('/faq/'), abs('/contact/'), abs('/privacy/'), abs('/terms/')]);
   for (const c of CLUSTERS) set.add(abs('/topics/' + c + '/'));
   for (const a of articles) set.add(abs(articleUrl(a)));
   return set;

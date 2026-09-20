@@ -13,7 +13,7 @@ const locs = L.sitemapLocs(raw, articles);
 const abs = (u) => L.SITE_URL + L.BASEURL + u;
 
 // Expected indexable set
-const expected = new Set([abs('/'), abs('/articles/'), abs('/about/'), abs('/search/')]);
+const expected = new Set([abs('/'), abs('/articles/'), abs('/about/'), abs('/search/'), abs('/faq/'), abs('/contact/'), abs('/privacy/'), abs('/terms/')]);
 for (const c of L.CLUSTERS) expected.add(abs('/topics/' + c + '/'));
 for (const a of articles) expected.add(abs(L.articleUrl(a)));
 

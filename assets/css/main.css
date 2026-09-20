@@ -124,6 +124,7 @@ h2 { font-size: var(--text-xl); }
 .nav-dropdown a:hover { background: var(--accent-soft); color: var(--accent); text-decoration: none; }
 .nav-dropdown a.active { color: var(--accent); }
 .nav-dropdown a:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+.site-nav a.nav-legal { display: none; }
 .theme-toggle, .nav-toggle {
   background: none; border: 1px solid var(--border); color: var(--fg);
   border-radius: var(--r-sm); padding: 7px 9px; cursor: pointer;
@@ -366,6 +367,7 @@ blockquote strong, .callout strong { color: var(--fg-strong); }
   }
   .nav-dropdown a { padding: 10px 12px; font-size: var(--text-sm); color: var(--muted); }
   .nav-dropdown a.active { color: var(--accent); }
+  .site-nav a.nav-legal { display: block; padding: 12px 8px; font-size: var(--text-base); color: var(--muted); }
   .mobile-nav { display: block; }
   .hero { padding: var(--sp-6) 0 var(--sp-5); }
   .hero .lede { font-size: var(--text-base); }

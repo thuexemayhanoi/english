@@ -50,3 +50,19 @@ parents:
         cluster: trips
       - label: Vietnam Travel
         cluster: vietnam-travel
+
+# Utility links (top-level, rendered after the topic groups)
+utility:
+  - label: Search
+    path: /search/
+  - label: FAQ
+    path: /faq/
+  - label: Contact
+    path: /contact/
+
+# Legal/utility links shown in the mobile panel and footer
+legal:
+  - label: Privacy Policy
+    path: /privacy/
+  - label: Terms & Conditions
+    path: /terms/

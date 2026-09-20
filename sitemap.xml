@@ -7,6 +7,10 @@ layout: null
   <url><loc>{{ '/articles/' | absolute_url }}</loc></url>
   <url><loc>{{ '/about/' | absolute_url }}</loc></url>
   <url><loc>{{ '/search/' | absolute_url }}</loc></url>
+  <url><loc>{{ '/faq/' | absolute_url }}</loc></url>
+  <url><loc>{{ '/contact/' | absolute_url }}</loc></url>
+  <url><loc>{{ '/privacy/' | absolute_url }}</loc></url>
+  <url><loc>{{ '/terms/' | absolute_url }}</loc></url>
   {% assign hub_paths = "/topics/rental/,/topics/monthly-rental/,/topics/scooters/,/topics/motorcycles/,/topics/manual-clutch/,/topics/50cc/,/topics/electric/,/topics/maintenance/,/topics/parts-gear/,/topics/safety/,/topics/law-licences/,/topics/hanoi/,/topics/trips/,/topics/vietnam-travel/" | split: "," %}
   {% for h in hub_paths %}
   <url><loc>{{ h | absolute_url }}</loc></url>
