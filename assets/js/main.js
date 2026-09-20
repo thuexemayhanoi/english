@@ -233,4 +233,60 @@
     sInput.addEventListener('input', syncClear);
     syncClear();
   }
+
+  // ---- Floating utility dock: quick actions + local assistant placeholder ----
+  var dockChatBtn = document.getElementById('dockChat');
+  var dockActionsBtn = document.getElementById('dockActions');
+  var quickSheet = document.getElementById('quickSheet');
+  var chatSheet = document.getElementById('chatSheet');
+  var qaBackdrop = document.getElementById('qaBackdrop');
+  var chatBackdrop = document.getElementById('chatBackdrop');
+  var activePanel = null; // { panel, backdrop, trigger }
+
+  function openDockPanel(panel, backdrop, trigger) {
+    if (!panel) return;
+    closeDockPanel();
+    if (typeof closeSheet === 'function') closeSheet();
+    activePanel = { panel: panel, backdrop: backdrop, trigger: trigger || document.activeElement };
+    if (backdrop) { backdrop.hidden = false; backdrop.classList.add('is-open'); }
+    panel.classList.add('is-open');
+    panel.setAttribute('aria-hidden', 'false');
+    document.body.style.overflow = 'hidden';
+    var first = panel.querySelector('.sheet-action, .sheet-close, .btn');
+    if (first) first.focus();
+  }
+  function closeDockPanel() {
+    if (!activePanel) return;
+    var p = activePanel.panel;
+    var b = activePanel.backdrop;
+    var t = activePanel.trigger;
+    p.classList.remove('is-open');
+    p.setAttribute('aria-hidden', 'true');
+    if (b) { b.classList.remove('is-open'); window.setTimeout(function () { if (b) b.hidden = true; }, 220); }
+    document.body.style.overflow = '';
+    if (t && t.focus) t.focus();
+    activePanel = null;
+  }
+  if (dockChatBtn) dockChatBtn.addEventListener('click', function () { openDockPanel(chatSheet, chatBackdrop, dockChatBtn); });
+  if (dockActionsBtn) dockActionsBtn.addEventListener('click', function () { openDockPanel(quickSheet, qaBackdrop, dockActionsBtn); });
+
+  // Close buttons and follow-then-close on panel links
+  document.querySelectorAll('[data-panel-close]').forEach(function (el) {
+    el.addEventListener('click', function () {
+      var id = el.getAttribute('data-panel-close');
+      var panel = document.getElementById(id);
+      if (activePanel && activePanel.panel === panel) setTimeout(closeDockPanel, 0);
+      else if (panel) { panel.classList.remove('is-open'); panel.setAttribute('aria-hidden', 'true'); }
+    });
+  });
+  if (qaBackdrop) qaBackdrop.addEventListener('click', closeDockPanel);
+  if (chatBackdrop) chatBackdrop.addEventListener('click', closeDockPanel);
+
+  // Escape closes any open sheet: dock panels first, then the contact sheet
+  document.addEventListener('keydown', function (e) {
+    if (e.key !== 'Escape') return;
+    if (activePanel) { closeDockPanel(); return; }
+    var cs = document.getElementById('contactSheet');
+    if (cs && cs.classList.contains('is-open') && typeof closeSheet === 'function') closeSheet();
+  });
 })();
