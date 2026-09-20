@@ -1,0 +1,37 @@
+name: Quality Gate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Front-matter check
+        run: node scripts/frontmatter-check.js
+      - name: Duplicate check
+        run: node scripts/content-duplicate-check.js
+      - name: Internal link audit
+        run: node scripts/internal-link-audit.js
+      - name: SEO audit
+        run: node scripts/seo-audit.js
+      - name: Sitemap check
+        run: node scripts/sitemap-check.js
+      - name: Schema check
+        run: node scripts/schema-check.js
+      - name: Build quality report
+        run: node scripts/build-report.js
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: quality-report
+          path: reports/
+          retention-days: 14

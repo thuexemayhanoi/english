@@ -28,7 +28,8 @@ Business: Hanoi Motorbike Rental Nguyen Tu (https://thuexemaynguyentu.com/)
 |---|---|
 | OWNER-FACTS.md | Approved / unverified / do-not-use business facts. Highest authority for business claims |
 | SOURCE-MAP.md | Reference sources, reliability classes A-D, usage rules |
-| CUSTOMER-INTENTS.md | Real owner-history intents, GSC-derived intents, research-derived, generated expansions (clearly separated) |
+| CUSTOMER-INTENTS.md | Real owner-histo
+ry intents, GSC-derived intents, research-derived, generated expansions (clearly separated) |
 | MODEL-DATABASE.md | Structured vehicle data from manufacturer sources |
 | MASTER-MATRIX.md + matrix/master-matrix.csv | ~988 article intents with cluster, intent type, status, differentiation |
 | matrix/batch-1-status.md | Authoritative publish/review status for batch 1 (CSV bulk rewrite deferred) |
@@ -49,3 +50,27 @@ Precedence rule: FIRST-PARTY DATA > PRIMARY/OFFICIAL SOURCE > MANUFACTURER > SPE
 - Legal articles: primary sources only, last_reviewed recorded, legal facts separated from practical advice, review_status used for unverified content
 - Business claims: OWNER-FACTS.md only; unknowns say "Contact us to confirm current availability"
 - After each batch: verify live site (home, hubs, articles, search, sitemap, mobile)
+
+## Content quality toolkit
+
+QA tooling lives in scripts/ (plain Node.js, zero dependencies). It is build-time tooling only; GitHub Pages stays a static Jekyll site.
+
+- scripts/frontmatter-check.js — required fields, duplicate slugs, legal/technical source rules
+- scripts/content-duplicate-check.js — exact and near-duplicate title/slug/description detection
+- scripts/internal-link-audit.js — broken links, orphans, hub/article connectivity
+- scripts/seo-audit.js — titles, meta, canonicals, sitemap inclusion, H1, noindex
+- scripts/sitemap-check.js — sitemap coverage vs indexable pages
+- scripts/schema-check.js — JSON-LD syntax and field rules
+- scripts/build-report.js — runs everything, writes reports/quality-latest.md
+
+The quality gate (.github/workflows/quality-gate.yml) runs on push to main, pull requests, and manual dispatch. It fails only on P0 errors and clearly structural P1 errors; P2/P3 warnings do not block deployment. Reports are uploaded as workflow artifacts, never committed, so no commit loop occurs.
+
+Severity scale: P0 = broken deployment/indexing, P1 = serious SEO/data issue, P2 = quality warning, P3 = recommendation.
+
+### Batch production sequence
+
+MATRIX SLICE -> WRITE ARTICLES -> FRONTMATTER CHECK -> DUPLICATE CHECK -> INTERNAL LINK CHECK -> SEO AUDIT -> SITEMAP CHECK -> SCHEMA CHECK -> QUALITY REPORT -> COMMIT -> PAGES DEPLOY -> RUNTIME VERIFY
+
+Run the whole toolkit locally before each batch commit:
+
+    node scripts/build-report.js
