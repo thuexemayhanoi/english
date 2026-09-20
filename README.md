@@ -136,10 +136,10 @@ Run locally before each batch commit:
 # DEPLOYMENT STATE
 
 - Hosting: GitHub Pages, Jekyll, baseurl /english.
-- Latest verified implementation commit: ecb6d3d354a9896e05129e1d679616679f47af46 (quality toolkit with Liquid-aware sitemap rendering).
-- Latest verified Quality Gate run: 35484080284 = SUCCESS.
-- Latest verified Pages run: 35484079926 = BUILD SUCCESS + DEPLOY SUCCESS.
-- README-only state updates may create a newer HEAD than the SHAs recorded here; the values above always refer to the last implementation commit whose CI/deploy was actually verified. The QA-hardening commit that follows this README update records its own verification in the CHANGE LOG entry below once observed.
+- Latest verified implementation commit: 87941c3155cafbe0bbbb75092d196cc33fe2ff75 (QA hardening).
+- Latest verified Quality Gate run: 35484665769 = SUCCESS (head 87941c3).
+- Latest verified Pages run: 35484664965 = BUILD SUCCESS + DEPLOY SUCCESS (head 87941c3).
+- README-only state updates may create a newer HEAD than the SHAs recorded here; the values above always refer to the last implementation commit whose CI/deploy was actually verified.
 
 # NEXT RECOMMENDED STEP
 
