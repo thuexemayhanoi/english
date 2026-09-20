@@ -1,7 +1,7 @@
 ---
 title: "Vietnam Motorbike Licence Classes Explained (A1, A, A2, B1)"
 slug: vietnam-motorbike-licence-classes-explained
-description: ""The post-2025 Vietnamese motorcycle licence classes A1, A, A2 and B1: engine sizes, electric power limits, minimum ages, and what changed on 1 January 2025.""
+description: "The post-2025 Vietnamese motorcycle licence classes A1, A, A2 and B1: engine sizes, electric power limits, minimum ages, and what changed on 1 January 2025."
 category: law-licences
 tags:
   - "licence"
@@ -32,7 +32,8 @@ Vietnam rewrote its two- and three-wheeler licence classes in the Law on Road Tr
 | Class | What it covers | Minimum age |
 |---|---|---|
 | A1 | Two-wheel motorbikes from 50cc to under 125cc; electric two-wheelers from 4 kW to under 11 kW | 18 |
-| A | Two-wheel motorbikes from 125cc to under 175cc; electric from 11 kW to under 14 kW | 18 |
+| A | Two-wheel motorbikes f
+rom 125cc to under 175cc; electric from 11 kW to under 14 kW | 18 |
 | A2 | Two-wheel motorbikes 175cc and above; electric 14 kW and above | 18 |
 | B1 | Three-wheel motorbikes | 18 |
 

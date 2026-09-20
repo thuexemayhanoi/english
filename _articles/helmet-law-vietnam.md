@@ -1,7 +1,7 @@
 ---
-title: ""Vietnam Helmet Law: Rules for Riders and Passengers""
+title: "Vietnam Helmet Law: Rules for Riders and Passengers"
 slug: helmet-law-vietnam
-description: ""Helmet rules in Vietnam: compulsory for motorbike and moped riders and passengers, quality standards, child passengers, and the fine for riding without a properly fastened helmet.""
+description: "Helmet rules in Vietnam: compulsory for motorbike and moped riders and passengers, quality standards, child passengers, and the fine for riding without a properly fastened helmet."
 category: law-licences
 tags:
   - "helmet"
@@ -36,7 +36,8 @@ A helmet must be properly fastened — an unstrapped helmet is treated as not we
 
 ## Helmet quality
 
-Helmets sold legally in Vietnam must meet the national quality standard. Cheap novelty helmets without certification offer little protection. If you rent, check that the helmet provided is a real, undamaged helmet with a working strap; if it is not, ask for another.
+Helmets sold legally in Vietnam must meet the national quality standard. Cheap novelty helmets without certification offer little protection. If you rent, check 
+that the helmet provided is a real, undamaged helmet with a working strap; if it is not, ask for another.
 
 ## The fine
 

@@ -1,7 +1,7 @@
 ---
-title: ""International Driving Permits in Vietnam: IDP Rules for Motorbikes""
+title: "International Driving Permits in Vietnam: IDP Rules for Motorbikes"
 slug: idp-vietnam-motorbike-rules
-description: ""Which IDPs Vietnam recognises for motorbike riding: 1968 Vienna Convention permits with a motorcycle category, carried with your national licence, and the conversion route under Circular 12/2025/TT-BCA.""
+description: "Which IDPs Vietnam recognises for motorbike riding: 1968 Vienna Convention permits with a motorcycle category, carried with your national licence, and the conversion route under Circular 12/2025/TT-BCA."
 category: law-licences
 tags:
   - "idp"
@@ -32,7 +32,8 @@ Vietnam recognises IDPs issued under the **1968 Vienna Convention on Road Traffi
 
 Rules of thumb:
 
-- Carry both your national licence and the IDP — the IDP is a translation, not a standalone licence
+- Carry both your national licence and the IDP — the IDP is a transl
+ation, not a standalone licence
 - Your national licence must itself include motorcycles; an IDP cannot add categories you do not hold
 - Photocopies and photos of documents are not substitutes
 

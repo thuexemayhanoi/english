@@ -1,7 +1,7 @@
 ---
-title: ""A1 Licence Vietnam: What You Can Legally Ride""
+title: "A1 Licence Vietnam: What You Can Legally Ride"
 slug: a1-licence-vietnam-what-you-can-ride
-description: ""What a Vietnamese A1 licence lets you ride under the post-2025 law: 50cc to under 125cc petrol bikes, 4 to under 11 kW electric, age 18+, and the pre-2025 transitional rule.""
+description: "What a Vietnamese A1 licence lets you ride under the post-2025 law: 50cc to under 125cc petrol bikes, 4 to under 11 kW electric, age 18+, and the pre-2025 transitional rule."
 category: law-licences
 tags:
   - "licence"
@@ -32,7 +32,8 @@ The A1 licence is the workhorse motorcycle licence in Vietnam, and the class alm
 - Electric two-wheelers from 4 kW up to (but not including) 11 kW
 - Minimum age: 18
 
-That covers nearly every bike a typical rental shop in Hanoi offers: 110–125cc scooters and underbones such as the Honda Vision, Honda Air Blade, Honda Wave, Honda Click and Yamaha Mio all fall inside A1.
+That covers nearly every bike a typical rental shop in Hanoi offers: 110–125cc scooters and underbones such as the Honda Vision, Honda Air Blade, Honda Wave, Honda Click and Yamaha Mio all fall inside 
+A1.
 
 ## The pre-2025 transitional rule
 

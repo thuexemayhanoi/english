@@ -1,7 +1,7 @@
 ---
 title: "Do You Need a Licence for a 50cc Motorbike in Vietnam?"
 slug: 50cc-licence-vietnam
-description: ""The current legal position for under-50cc bikes in Vietnam: classified as xe gan may (mopeds), no driving licence required, rider must be 16, with training rules for 16-18 year olds under Decree 151/2024.""
+description: "The current legal position for under-50cc bikes in Vietnam: classified as xe gan may (mopeds), no driving licence required, rider must be 16, with training rules for 16-18 year olds under Decree 151/2024."
 category: law-licences
 tags:
   - "50cc"
@@ -32,7 +32,8 @@ Under-50cc petrol two-wheelers (and electric two-wheelers under 4 kW) are classi
 
 - No driving licence needed
 - The rider must be at least 16 years old
-- Riders aged 16 to 18 must have completed a safe-riding skills training programme under Decree 151/2024/ND-CP before riding
+- Riders aged 16 to 18 must have completed a safe-riding skills training programme under De
+cree 151/2024/ND-CP before riding
 
 Mopeds still follow all other traffic rules: helmets, lights, lane discipline, sober riding. Fines for running red lights or riding the wrong way apply to moped riders at the same levels as for motorbikes.
 

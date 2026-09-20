@@ -1,7 +1,7 @@
 ---
 title: "Drink Driving Limits for Motorbikes in Vietnam"
 slug: drink-driving-limits-motorbike-vietnam
-description: ""Vietnam applies zero tolerance to alcohol for motorbike riders: any detectable alcohol is an offence, with fines from 2-3 million VND in the lowest band and steep increases above it.""
+description: "Vietnam applies zero tolerance to alcohol for motorbike riders: any detectable alcohol is an offence, with fines from 2-3 million VND in the lowest band and steep increases above it."
 category: law-licences
 tags:
   - "drink-driving"
@@ -30,7 +30,8 @@ Vietnam has no "one beer is fine" allowance for motorbikes. The rule is zero tol
 
 There is no permitted blood-alcohol level for motorbike riders. The lowest punishment band under Decree 168/2024/ND-CP applies up to 50 mg/100 ml blood (0.25 mg/L breath), with a fine of 2,000,000–3,000,000 VND. Higher bands rise steeply, and can include licence suspension and points. Exact figures for the higher bands are pending verification against the current decree text.
 
-## What this means in practice
+## Wha
+t this means in practice
 
 - One beer can put you in the lowest band; more puts you higher
 - The police conduct breath tests at checkpoints, especially at night and around holidays

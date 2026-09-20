@@ -1,7 +1,7 @@
 ---
 title: "Electric Bike and Electric Scooter Licence Rules in Vietnam"
 slug: electric-bike-licence-vietnam
-description: ""How Vietnam classifies electric two-wheelers: pedal e-bikes as bicycles, sub-4 kW machines as mopeds, and licence classes A1, A and A2 by power for faster electric motorcycles.""
+description: "How Vietnam classifies electric two-wheelers: pedal e-bikes as bicycles, sub-4 kW machines as mopeds, and licence classes A1, A and A2 by power for faster electric motorcycles."
 category: law-licences
 tags:
   - "electric"
@@ -30,7 +30,8 @@ Vietnam classifies electric two-wheelers by type and power, and the boundaries d
 
 **Pedal-type electric bicycles (xe dap dien).** Machines built as bicycles with electric assistance are treated as bicycles for licensing purposes. No driving licence applies.
 
-**Electric mopeds (xe gan may dien), under 4 kW.** Scooter-style electric two-wheelers below 4 kW fall in the moped class: no driving licence, rider must be at least 16. This is where many popular city e-bikes and small electric scooters sit.
+**Electric mopeds (xe gan may dien), under 4 kW.** Scooter-style electric two-wheelers below 4 kW fall in the moped class: no driving licence, rider must be at least 16. This is where many popular city e-bikes and
+ small electric scooters sit.
 
 **Electric motorcycles, 4 kW and above.** These need a licence, matched to power:
 

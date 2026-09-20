@@ -1,7 +1,7 @@
 ---
 title: "Can Tourists Legally Ride a Motorbike in Vietnam?"
 slug: can-tourists-ride-motorbike-vietnam
-description: ""Yes, if licensed correctly: a Vietnamese licence, or a foreign licence plus a 1968 Vienna Convention IDP with a motorcycle category. What the law says, and what happens without it.""
+description: "Yes, if licensed correctly: a Vietnamese licence, or a foreign licence plus a 1968 Vienna Convention IDP with a motorcycle category. What the law says, and what happens without it."
 category: law-licences
 tags:
   - "tourists"
@@ -29,7 +29,8 @@ Yes — tourists can legally ride a motorbike in Vietnam, but only with a valid 
 ## The three legal routes
 
 1. **A Vietnamese motorcycle licence.** Obtained by test, or by converting a valid foreign licence if you meet residence conditions (see our IDP guide).
-2. **A valid foreign driving licence plus an International Driving Permit** issued under the 1968 Vienna Convention, where the permit includes a motorcycle category. Carry both documents.
+2. **A valid foreign driving licence plus an International Driving Permit** issued under the 1968 Vienna Convention, where the permit includes a motorcycle category.
+ Carry both documents.
 3. **A recognised foreign licence directly**, where Vietnam and the issuing country have reciprocal recognition.
 
 An IDP issued under the 1949 Geneva Convention, or an IDP with no motorcycle category, does not make you legal on a motorbike here.

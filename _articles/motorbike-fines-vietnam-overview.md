@@ -1,7 +1,7 @@
 ---
-title: ""Motorbike Fines in Vietnam: Current Overview (Decree 168/2024)""
+title: "Motorbike Fines in Vietnam: Current Overview (Decree 168/2024)"
 slug: motorbike-fines-vietnam-overview
-description: ""Current motorbike fine levels in Vietnam under Decree 168/2024/ND-CP: red-light and wrong-way violations, accident-causing behaviour, helmets, alcohol and licence offences.""
+description: "Current motorbike fine levels in Vietnam under Decree 168/2024/ND-CP: red-light and wrong-way violations, accident-causing behaviour, helmets, alcohol and licence offences."
 category: law-licences
 tags:
   - "fines"
@@ -33,7 +33,8 @@ Vietnam's motorbike fines were raised sharply by Decree 168/2024/ND-CP. This ove
 | Running a red light | 4,000,000 – 6,000,000 |
 | Riding the wrong way down a one-way street | 4,000,000 – 6,000,000 |
 | Riding on the sidewalk (non-exempt cases) | 4,000,000 – 6,000,000 |
-| Behaviours causing traffic accidents (failing to observe, wrong manoeuvre causing a crash) | 10,000,000 – 14,000,000 |
+| Behaviours causing traffic a
+ccidents (failing to observe, wrong manoeuvre causing a crash) | 10,000,000 – 14,000,000 |
 | Riding without a helmet or unfastened strap | 400,000 – 600,000 |
 | Riding with alcohol below 50 mg/100 ml blood (0.25 mg/L breath) | 2,000,000 – 3,000,000 |
 
