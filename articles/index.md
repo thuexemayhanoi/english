@@ -2,7 +2,7 @@
 layout: default
 title: All Motorbike Guides
 permalink: /articles/
-description: Every published guide on the Hanoi Motorbike Guide, grouped by topic: rental, licences, maintenance, safety, trips and more.
+description: "Every published guide on the Hanoi Motorbike Guide, grouped by topic: rental, licences, maintenance, safety, trips and more."
 ---
 {% include breadcrumbs.html %}
 <h1>All Motorbike Guides</h1>
@@ -26,17 +26,3 @@ description: Every published guide on the Hanoi Motorbike Guide, grouped by topi
 </ul>
   {% endif %}
 {% endfor %}
-{% assign ungrouped = site.articles | where_exp: "a", "a.topic_cluster == nil or a.topic_cluster == empty" %}
-{% if ungrouped.size > 0 %}
-<h2>Other guides</h2>
-<ul class="card-list">
-  {% for a in ungrouped %}
-  <li class="card">
-    <a href="{{ a.url | relative_url }}">
-      <span class="card-title">{{ a.title }}</span>
-      <span class="card-desc">{{ a.description }}</span>
-    </a>
-  </li>
-  {% endfor %}
-</ul>
-{% endif %}
