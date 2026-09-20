@@ -6,9 +6,17 @@ layout: default
 {{ content }}
 {% assign cluster = page.topic_cluster %}
 {% assign cluster_articles = site.articles | where: "topic_cluster", cluster %}
-<p class="meta">{{ cluster_articles.size }} {% if cluster_articles.size == 1 %}guide{% else %}guides{% endif %} in this topic.</p>
+<p class="meta">{% if cluster_articles.size == 0 %}Guides for this topic are being prepared.{% else %}{{ cluster_articles.size }} {% if cluster_articles.size == 1 %}guide{% else %}guides{% endif %} in this topic.{% endif %}</p>
 {% if cluster_articles.size == 0 %}
-<p class="card-desc">Guides for this topic are being prepared. Meanwhile, you can <a href="{{ '/articles/' | relative_url }}">browse all guides</a>.</p>
+<div class="empty-state" role="note">
+  <span class="empty-ic" aria-hidden="true"><svg viewBox="0 0 24 24" width="40" height="40"><path fill="currentColor" d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm1 11h-2V7h2zm0 4h-2v-2h2z"/></svg></span>
+  <p class="empty-title">Guides coming soon</p>
+  <p class="empty-desc">We&rsquo;re writing {{ page.title | downcase }} guides. Meanwhile, explore other topics or contact us with a question.</p>
+  <div class="empty-actions">
+    <a class="btn btn-ghost" href="{{ '/articles/' | relative_url }}">Browse all guides</a>
+    <a class="btn btn-primary" href="{{ '/contact/' | relative_url }}">Ask a question</a>
+  </div>
+</div>
 {% else %}
 <ul class="card-list">
   {% for a in cluster_articles %}
@@ -16,6 +24,7 @@ layout: default
       <a href="{{ a.url | relative_url }}">
         <span class="card-title">{{ a.title }}</span>
         <span class="card-desc">{{ a.description }}</span>
+        <span class="chip-row"><span class="spec-chip">{{ a.topic_cluster }}</span>{% if a.review_status %}<span class="spec-chip">{{ a.review_status }}</span>{% endif %}</span>
       </a>
     </li>
   {% endfor %}

@@ -39,12 +39,14 @@ If this README conflicts with actual remote MAIN, inspect MAIN and update the RE
 | _articles/ | Published articles (front matter: title, slug, description, category, tags, content_type, search_intent, topic_cluster, subcluster, date_published, last_reviewed, review_status, sources, internal_link_targets) |
 | _queue/ | Unpublished drafts, excluded from output |
 | _layouts/ | default.html, article.html (BlogPosting schema, review banner, related links), cluster.html (topic hub with count + empty state) |
-| _includes/ | header.html (parent-child dropdown nav), footer.html (site-map accordions), breadcrumbs.html, contact-cta.html |
+| _includes/ | header.html (parent-child dropdown nav + live status pill), footer.html (site-map accordions), breadcrumbs.html, contact-cta.html, contact-sheet.html (mobile contact action sheet) |
 | _data/navigation.yml | Single source of truth for navigation taxonomy: 5 parent groups over the 14 clusters + utility (Search/FAQ/Contact) and legal (Privacy/Terms) links; used by header and footer |
 | topics/<cluster>/index.md | 14 topic hubs: rental, monthly-rental, scooters, motorcycles, manual-clutch, 50cc, electric, maintenance, parts-gear, safety, law-licences, hanoi, trips, vietnam-travel |
 | articles/index.md | All Motorbike Guides — true all-article index, grouped by cluster |
-| index.html | Homepage: hero + search, topic tiles with counts / "Coming soon", latest guides, contact CTA |
-| search.md, search.json | Client-side search page and index |
+| index.html | Homepage: hero + search, quick-action grid, parent section cards with child links + counts, latest guides, contact CTA |
+| search.md, search.json | Client-side search page (icon + clear button + suggested topics) and index |
+| manifest.webmanifest | PWA preparation (standalone, theme_color, /english/ scope); no service worker yet |
+| assets/img/icon.svg | Original SVG app icon (manifest + apple-touch) |
 | about.md, faq.md, contact.md, privacy.md, terms.md, 404.html | Static pages (About kept as informational page; FAQ links to guides; Contact holds verified business contact facts; Privacy/Terms are informational-site policies) |
 | sitemap.xml | Liquid-generated: home, /articles/, /about/, /search/, 14 hubs, all articles |
 | robots.txt | Allows all, points to sitemap |
@@ -62,6 +64,7 @@ Date: 2026-09-20
 - 10 published articles, all in cluster law-licences, all marked REVIEW_REQUIRED.
 - 14 topic hubs live; 13 currently show the empty state ("Guides for this topic are being prepared."); law-licences hub lists all 10 articles.
 - Homepage shows active hubs with counts first, empty hubs marked "Coming soon".
+- App-shell UI pass: compact sticky app bar with safe-area support and a live shop-status pill (open/closed dot by Hanoi time, 09:00–21:00); mobile homepage redesigned as an app dashboard (hero + search, quick-action grid, parent section cards with child links + counts); native-style bottom tab bar with active indicator and aria-current; mobile contact action sheet (Call/WhatsApp/Zalo/Address/Main website) triggered from the bottom-nav and quick-action Contact; improved search page (icon, clear button, suggested topics); designed empty states; PWA preparation (manifest.webmanifest + SVG icon, no service worker yet).
 - SEO/QA toolkit live in scripts/ with a passing quality gate workflow.
 
 # COMPLETED / VERIFIED
@@ -74,6 +77,7 @@ Date: 2026-09-20
 - Quality toolkit: 7 scripts, zero dependencies, all run clean (P0=0, P1=0, P2=16, P3=9 on current content).
 - Quality Gate workflow runs on push/PR/dispatch and passes (run 35483885564, commit ecb6d3d3).
 - Navigation IA: full 14-cluster taxonomy exposed as parent -> child in header (Rent a bike / Choose a bike / Ride & maintain / Rules / Explore), mobile accordion panel, and footer site map; all driven from _data/navigation.yml; accessible dropdowns (aria-expanded/aria-controls, Escape, outside-click, focus-visible, ArrowDown); bottom nav simplified to Home / Guides / Search / Contact.
+- App-shell UI pass: three-tier responsive app feel (phone app-like / tablet hybrid / desktop editorial). Live status pill (open/closed by Asia/Ho_Chi_Minh time, updates every minute, aria-label announces Open/Closed + hours, no OPEN/CLOSED word). Homepage dashboard: hero+search, 6-icon quick-action grid (Rent/Choose/Laws/Safety/Trips/Contact), parent section cards (icon, title, child links, guide count, "Coming soon" styling when empty). Native bottom tab bar with safe-area padding, active top indicator, aria-current, >=52px touch targets. Contact action sheet (bottom sheet, focus management, Escape/backdrop close, links in HTML not JS-only) triggered from bottom-nav Contact and quick-action Contact on <=640px (desktop falls through to /contact/). Search page: search-field with icon + clear button + suggested-topics chips (shown when no query). Designed empty states on hub pages. PWA preparation only: manifest.webmanifest (standalone, theme_color, /english/ scope) + original SVG icon; no service worker. No new crawlable routes; canonical hub links remain in HTML.
 
 # OPEN ISSUES
 
@@ -150,6 +154,7 @@ Verify the 10 REVIEW_REQUIRED legal articles against primary legal sources (Decr
 
 # CHANGE LOG
 
+- 2026-09-20 (6): App-shell UI pass — compact sticky app bar with env(safe-area-inset-*) support; live shop-status pill (open/closed dot computed from Asia/Ho_Chi_Minh time, 09:00–21:00, updates every minute, aria-label announces Open/Closed + hours, no visible word); mobile homepage redesigned as an app dashboard (hero+search, 6-item quick-action grid, parent section cards with child links + guide counts + "Coming soon" styling); native-style bottom tab bar (safe-area padding, active top indicator, aria-current, >=52px touch targets); mobile contact action sheet (Call/WhatsApp/Zalo/Address/Main website, focus management, Escape/backdrop close, links in HTML); search page improved (icon + clear button + suggested-topic chips); designed empty states on hub pages; PWA preparation (manifest.webmanifest + original SVG icon, no service worker). Desktop stays editorial; sheet only intercepts <=640px, otherwise falls through to /contact/. No new crawlable routes; all canonical hub links stay in HTML.
 - 2026-09-20 (5): Responsive header fix — three-tier breakpoints (>=1280px wide desktop with expanded 1480px header container + More dropdown, 641-1279px hamburger panel, <=640px phone + bottom nav); brand responsive labels (full on >=769px, compact on smaller); right-edge dropdown alignment for Explore/More; white-space:nowrap on all nav items; body container stays 1160px.
 - 2026-09-20 (4): Navigation correction — About kept and moved before Guides; added FAQ (/faq/), Contact (/contact/), Privacy Policy (/privacy/), Terms & Conditions (/terms/) pages; header order Home/About/Guides + topic groups + Search/FAQ/Contact, with Privacy/Terms in the mobile panel and footer Discover column; bottom nav Contact now targets /contact/; sitemap and QA expectations extended to 32 indexable URLs.
 - 2026-09-20 (3): Navigation/IA pass — _data/navigation.yml centralizes the parent->child taxonomy (5 groups over 14 clusters); header rebuilt with accessible disclosure dropdowns + mobile accordion panel sharing one markup; footer rebuilt as a secondary site map (5 guide groups + Discover + verified contact facts incl. Zalo); mobile bottom nav simplified to Home/Guides/Search/Contact; docs/TAXONOMY.md synchronized with the implemented 14-cluster set (parts-gear supersedes parts-accessories).

@@ -1,0 +1,31 @@
+{%- comment -%} Mobile contact action sheet: convenience layer. The full /contact/ page
+remains the canonical, crawlable contact page. All links are real anchor tags
+in HTML (not JS-only) for accessibility and SEO. {%- endcomment -%}
+<div class="sheet-backdrop" id="sheetBackdrop" hidden></div>
+<aside class="contact-sheet" id="contactSheet" role="dialog" aria-modal="true" aria-labelledby="sheetTitle" aria-hidden="true" data-sheet="contact">
+  <div class="sheet-grip" aria-hidden="true"></div>
+  <header class="sheet-head">
+    <h2 id="sheetTitle">Contact Nguyen Tu</h2>
+    <button type="button" class="sheet-close" id="sheetClose" aria-label="Close contact panel">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M18.3 5.7 12 12l6.3 6.3-1.4 1.4L10.6 13.4 4.3 19.7 2.9 18.3 9.2 12 2.9 5.7 4.3 4.3l6.3 6.3 6.3-6.3 1.4 1.4z"/></svg>
+    </button>
+  </header>
+  <p class="sheet-sub">112 Nguyen Van Cu Street, Bo De, Long Bien, Hanoi. Open 09:00&ndash;21:00 daily.</p>
+  <ul class="sheet-actions">
+    <li><a class="sheet-action" href="tel:+84942467674" data-sheet-close>
+      <span class="sheet-ic" aria-hidden="true"><svg viewBox="0 0 24 24" width="22" height="22"><path fill="currentColor" d="M6.6 2 4 4.6c0 8.5 6.9 15.4 15.4 15.4L22 17.4l-4.2-2.1-2.4 2.4c-2.9-1.2-5.9-4.2-7.1-7.1L10.7 8 6.6 2z"/></svg></span>
+      <span class="sheet-label"><span class="sheet-name">Call</span><span class="sheet-val">+84 942 467 674</span></span></a></li>
+    <li><a class="sheet-action" href="https://wa.me/84942467674" rel="noopener" data-sheet-close>
+      <span class="sheet-ic" aria-hidden="true"><svg viewBox="0 0 24 24" width="22" height="22"><path fill="currentColor" d="M12 2a10 10 0 0 0-8.6 15l-1.3 4.7 4.8-1.3A10 10 0 1 0 12 2zm0 18a8 8 0 0 1-4.1-1.1l-.3-.2-2.8.8.8-2.8-.2-.3A8 8 0 1 1 12 20zm4.6-5.9c-.3-.1-1.5-.7-1.7-.8s-.4-.1-.6.1-.7.8-.8 1-.3.2-.5.1a6.5 6.5 0 0 1-1.9-1.2 7.2 7.2 0 0 1-1.3-1.7c-.1-.3 0-.4.1-.5l.4-.5.3-.4v-.4c0-.1-.6-1.4-.8-1.9s-.4-.4-.6-.4h-.5a.9.9 0 0 0-.6.3 2.6 2.6 0 0 0-.8 1.9 4.5 4.5 0 0 0 .9 2.4 10.3 10.3 0 0 0 3.9 3.4c.5.2 1 .4 1.3.5a3 3 0 0 0 1.4.1 2.3 2.3 0 0 0 1.5-1.1 1.9 1.9 0 0 0 .1-1.1c-.1-.1-.2-.1-.4-.2z"/></svg></span>
+      <span class="sheet-label"><span class="sheet-name">WhatsApp</span><span class="sheet-val">Message us</span></span></a></li>
+    <li><a class="sheet-action" href="https://zalo.me/84942467674" rel="noopener" data-sheet-close>
+      <span class="sheet-ic" aria-hidden="true"><svg viewBox="0 0 24 24" width="22" height="22"><path fill="currentColor" d="M12 2a10 10 0 0 0-8.6 15l-1.3 4.7 4.8-1.3A10 10 0 1 0 12 2zm-1 5h1.5l-.4 3.3 3-1.6.6 1.2-2.8 1.5 2.8 1.5-.6 1.2-3-1.6.4 3.3H11l.4-3.3-3 1.6-.6-1.2 2.8-1.5L7.8 9.9l.6-1.2 3 1.6L11 7z"/></svg></span>
+      <span class="sheet-label"><span class="sheet-name">Zalo</span><span class="sheet-val">Message us</span></span></a></li>
+    <li><a class="sheet-action" href="https://www.google.com/maps/search/?api=1&amp;query=112+Nguyen+Van+Cu+Street+Bo+De+Long+Bien+Hanoi+Vietnam" rel="noopener" data-sheet-close>
+      <span class="sheet-ic" aria-hidden="true"><svg viewBox="0 0 24 24" width="22" height="22"><path fill="currentColor" d="M12 2a7 7 0 0 0-7 7c0 5 7 13 7 13s7-8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg></span>
+      <span class="sheet-label"><span class="sheet-name">Address</span><span class="sheet-val">112 Nguyen Van Cu, Long Bien</span></span></a></li>
+    <li><a class="sheet-action" href="https://thuexemaynguyentu.com/" rel="noopener" data-sheet-close>
+      <span class="sheet-ic" aria-hidden="true"><svg viewBox="0 0 24 24" width="22" height="22"><path fill="currentColor" d="M12 3a9 9 0 1 0 9 9h-2a7 7 0 1 1-7-7V3zm0 4v5l3.2 1.9.8-1.3-2.6-1.5V7H12z"/></svg></span>
+      <span class="sheet-label"><span class="sheet-name">Main website</span><span class="sheet-val">thuexemaynguyentu.com</span></span></a></li>
+  </ul>
+</aside>
