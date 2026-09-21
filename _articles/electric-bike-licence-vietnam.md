@@ -1,7 +1,7 @@
 ---
 title: "Electric Bike and Electric Scooter Licence Rules in Vietnam"
 slug: electric-bike-licence-vietnam
-description: "How Vietnam classifies electric two-wheelers: pedal e-bikes as bicycles, sub-4 kW machines as mopeds, and licence classes A1, A and A2 by power for faster electric motorcycles."
+description: "How Vietnam classifies electric two-wheelers under Law 36/2024/QH15: pedal e-bikes as non-motorised bicycles, 4 kW-and-under machines as mopeds, A1 up to 11 kW and A above that."
 category: law-licences
 tags:
   - "electric"
@@ -14,34 +14,30 @@ search_intent: informational
 topic_cluster: law-licences
 subcluster: "11.1 licence-system"
 date_published: 2026-09-19
-last_reviewed: 2026-09-19
-review_status: REVIEW_REQUIRED
+last_reviewed: 2026-09-21
+review_status: VERIFIED
 sources:
-  - "Law on Road Traffic Order and Safety No. 36/2024/QH15 (effective 2025-01-01) — https://luatvietnam.vn/giao-thong/luat-trat-tu-an-toan-giao-thong-duong-bo-2024-quy-dinh-nhu-the-nao-ve-giay-phep-lai-xe-hang-a1-863-100479-article.html"
-  - "Decree 168/2024/ND-CP, Article 7 (Ministry of Public Security summary) — https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Articles 3, 31, 57, 59, 89"
+  - "https://vanban.chinhphu.vn/?pageid=27160&docid=211194&classid=1&typegroupid=3 — Law No. 36/2024/QH15, original record (vanban.chinhphu.vn)"
 internal_link_targets: "vietnam-motorbike-licence-classes-explained, 50cc-licence-vietnam, a1-licence-vietnam-what-you-can-ride"
 ---
 
-> **Review notice:** This article is marked REVIEW_REQUIRED. It was corrected against primary legal sources on 2026-09-19. Figures marked "pending verification" still need confirmation against the current decree text before this article is considered verified.
-
-Vietnam classifies electric two-wheelers by type and power, and the boundaries decide whether you need a licence at all.
+Vietnam classifies electric two-wheelers by construction and power, and the boundaries decide whether you need a licence at all. The definitions come from Article 3 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15).
 
 ## The three groups
 
-**Pedal-type electric bicycles (xe dap dien).** Machines built as bicycles with electric assistance are treated as bicycles for licensing purposes. No driving licence applies.
+**Pedal-type electric bicycles (xe đạp điện).** The law defines these as bicycles with motor assistance whose power cuts out when the rider stops pedalling or when the bike reaches 25 km/h. They are legally non-motorised vehicles: no driving licence applies, and riders must be old enough to ride a bicycle on the road. Riders and passengers must still wear standard-compliant helmets (Article 31).
 
-**Electric mopeds (xe gan may dien), under 4 kW.** Scooter-style electric two-wheelers below 4 kW fall in the moped class: no driving licence, rider must be at least 16. This is where many popular city e-bikes and
- small electric scooters sit.
+**Electric mopeds (xe gắn máy chạy điện), 4 kW and under.** Scooter-style electric two-wheelers of 4 kW or less, designed for no more than 50 km/h, fall in the moped class: no driving licence, rider must be at least 16. This is where many popular city e-bikes and small electric scooters sit.
 
-**Electric motorcycles, 4 kW and above.** These need a licence, matched to power:
+**Electric motorcycles, above 4 kW.** These need a licence, matched to power under Article 57:
 
 | Power | Licence class |
 |---|---|
-| 4 kW to under 11 kW | A1 |
-| 11 kW to under 14 kW | A |
-| 14 kW and above | A2 |
+| Above 4 kW, up to and including 11 kW | A1 |
+| Above 11 kW | A |
 
-As with petrol bikes, A1 licences issued before 1 January 2025 keep transitional coverage up to (but not including) 14 kW.
+Class A covers every electric two-wheeler above 11 kW — there is no higher separate class in the new law. Electric A1 licences issued before 1 January 2025 keep transitional coverage from 4 kW up to (but not including) 14 kW under Article 89.
 
 ## Why the distinction matters
 
@@ -51,4 +47,4 @@ Riders sometimes assume every electric two-wheeler is "just a bicycle". A scoote
 
 Electric options suit short city trips: quiet, cheap to run, no petrol smell. Range and charging time vary a lot by model. Contact us to confirm current availability of electric motorcycles or e-bikes.
 
-*Information, not legal advice. Power thresholds should be confirmed against the current text of Law 36/2024/QH15; this article is pending that final verification.*
+*Information, not legal advice. Verified against the full text of Law 36/2024/QH15 on 2026-09-21.*

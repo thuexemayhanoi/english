@@ -1,12 +1,11 @@
 ---
-title: "Vietnam Motorbike Licence Classes Explained (A1, A, A2, B1)"
+title: "Vietnam Motorbike Licence Classes Explained (A1, A, B1)"
 slug: vietnam-motorbike-licence-classes-explained
-description: "The post-2025 Vietnamese motorcycle licence classes A1, A, A2 and B1: engine sizes, electric power limits, minimum ages, and what changed on 1 January 2025."
+description: "Vietnam's motorcycle licence classes under Law 36/2024/QH15 from 1 January 2025: A1 up to 125cc/11 kW, A above that, B1 for three-wheelers — plus the transitional rules for licences issued before 2025."
 category: law-licences
 tags:
   - "licence"
   - "a1"
-  - "a2"
   - "b1"
   - "law"
   - "vietnam"
@@ -15,44 +14,49 @@ search_intent: informational
 topic_cluster: law-licences
 subcluster: "11.1 licence-system"
 date_published: 2026-09-19
-last_reviewed: 2026-09-19
-review_status: REVIEW_REQUIRED
+last_reviewed: 2026-09-21
+review_status: VERIFIED
 sources:
-  - "Law on Road Traffic Order and Safety No. 36/2024/QH15 (effective 2025-01-01) — https://luatvietnam.vn/giao-thong/luat-trat-tu-an-toan-giao-thong-duong-bo-2024-quy-dinh-nhu-the-nao-ve-giay-phep-lai-xe-hang-a1-863-100479-article.html"
-  - "Decree 168/2024/ND-CP, Article 7 (Ministry of Public Security summary) — https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Articles 3, 57, 59, 89"
+  - "https://vanban.chinhphu.vn/?pageid=27160&docid=211194&classid=1&typegroupid=3 — Law No. 36/2024/QH15, original record (vanban.chinhphu.vn)"
+  - "https://xaydungchinhsach.chinhphu.vn/tu-1-1-2025-co-nhung-hang-giay-phep-lai-xe-nao-119240812165630751.htm — Government portal summary of licence classes under Law 36/2024/QH15"
 internal_link_targets: "a1-licence-vietnam-what-you-can-ride, 50cc-licence-vietnam, electric-bike-licence-vietnam, idp-vietnam-motorbike-rules"
 ---
 
-> **Review notice:** This article is marked REVIEW_REQUIRED. It was corrected against primary legal sources on 2026-09-19. Figures marked "pending verification" still need confirmation against the current decree text before this article is considered verified.
-
-Vietnam rewrote its two- and three-wheeler licence classes in the Law on Road Traffic Order and Safety (No. 36/2024/QH15), effective 1 January 2025. Older articles — including earlier versions of this one — described a different structure. This version reflects the post-2025 classes.
+Vietnam rewrote its driving licence classes in the Law on Road Traffic Order and Safety (No. 36/2024/QH15), effective 1 January 2025. Older articles — including earlier versions of this one — described a different structure. This version reflects the classes as actually written in Article 57 of the law.
 
 ## The motorcycle classes after 1 January 2025
 
-| Class | What it covers | Minimum age |
+| Class | What it covers (Article 57) | Minimum age (Article 59) |
 |---|---|---|
-| A1 | Two-wheel motorbikes from 50cc to under 125cc; electric two-wheelers from 4 kW to under 11 kW | 18 |
-| A | Two-wheel motorbikes f
-rom 125cc to under 175cc; electric from 11 kW to under 14 kW | 18 |
-| A2 | Two-wheel motorbikes 175cc and above; electric 14 kW and above | 18 |
-| B1 | Three-wheel motorbikes | 18 |
+| A1 | Two-wheel motorbikes up to and including 125cc, or electric two-wheelers up to and including 11 kW | 18 |
+| A | Two-wheel motorbikes above 125cc or above 11 kW, plus everything class A1 covers | 18 |
+| B1 | Three-wheel motorbikes, plus everything class A1 covers | 18 |
 
-The big-bike class is now A2, not A. Class A is a middle tier between A1 and A2 that did not exist in the same form before 2025.
+There are only three motorcycle classes in the new law. Class A is now the single "big bike" class — every two-wheeler above 125cc or 11 kW falls under it, with no separate 175cc tier. If you see an "A2" mentioned as a current class, that comes from the pre-2025 scheme.
 
-If you see B1 described as an "automatic car" licence, that reflects the pre-2025 scheme. Under the new law, B1 in the motorcycle system covers three-wheel motorbikes. Car licences sit in separate classes.
+Licences A1, A and B1 have no expiry date (Article 57, on licence validity periods).
 
-## Transitional rule for existing A1 holders
+If you see B1 described as an "automatic car" licence, that reflects the pre-2025 scheme. Under the new law, B1 in the motorcycle system covers three-wheel motorbikes. Car licences sit in separate classes (B, C1, C and so on).
 
-An A1 licence issued before 1 January 2025 continues to cover two-wheelers from 50cc up to (but not including) 175cc, or electric machines from 4 kW up to (but not including) 14 kW, without a retest (transitional provisions of the new law). Only licences issued from 2025 follow the narrower A1 definition.
+## Transitional rules for licences issued before 2025
+
+Article 89 of the law keeps pre-2025 licences valid as follows:
+
+- An old A1 licence continues to cover two-wheelers from 50cc up to (but not including) 175cc, or electric machines from 4 kW up to (but not including) 14 kW
+- An old A2 licence continues to cover two-wheelers of 175cc and above, or 14 kW and above, plus everything the old A1 covered
+- An old A3 licence continues to cover three-wheel motorbikes and old-A1 vehicles
+
+No retest is required. This is why some Vietnamese riders with pre-2025 A1 licences legally ride 150cc bikes: their licence's stated scope is preserved by the transitional provision.
 
 ## Where 50cc and small electric bikes sit
 
-Bikes under 50cc, and electric two-wheelers under 4 kW, are classified as "xe gan may" (mopeds), not as motorbikes requiring a licence. Riders must be at least 16. Pedal-type electric bicycles are a separate category treated like bicycles. See our 50cc and electric-bike guides for details.
+Bikes of 50cc or less (and electric two-wheelers of 4 kW or less, designed for no more than 50 km/h) are classified as "xe gắn máy" — mopeds — not as motorbikes requiring a licence. Riders must be at least 16 (Article 59). Pedal-type electric bicycles are a separate non-motorised category. See our 50cc and electric-bike guides for details.
 
 ## What this means for foreign riders
 
 Short-stay visitors rarely obtain a Vietnamese licence. The practical question is whether your home licence plus an International Driving Permit is recognised — see our IDP and tourist-riding guides.
 
-Riding above your licence class is an offence with fines set by decree. It can also complicate insurance claims and liability after an accident. Ride only what your licence actually permits.
+Riding above your licence class is an offence: under Decree 168/2024/NĐ-CP, riding a 125cc-or-under bike without a licence appropriate for it carries a fine of 2–4 million VND, and for bigger bikes 6–8 million VND (Article 18). It can also complicate insurance claims and liability after an accident. Ride only what your licence actually permits.
 
-*Information, not legal advice. Verify the current legal text before relying on it.*
+*Information, not legal advice. Verified against the full text of Law 36/2024/QH15 on 2026-09-21.*
