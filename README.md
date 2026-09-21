@@ -39,7 +39,7 @@ If this README conflicts with actual remote MAIN, inspect MAIN and update the RE
 | _articles/ | Published articles (front matter: title, slug, description, category, tags, content_type, search_intent, topic_cluster, subcluster, date_published, last_reviewed, review_status, sources, internal_link_targets) |
 | _queue/ | Unpublished drafts, excluded from output |
 | _layouts/ | default.html, article.html (BlogPosting schema, review banner, related links), cluster.html (topic hub with count + empty state) |
-| _includes/ | header.html (parent-child dropdown nav + live status pill), footer.html (site-map accordions + social/external links), breadcrumbs.html, contact-cta.html, contact-sheet.html (mobile contact action sheet), utility-dock.html (floating dock: Chat placeholder + quick-actions sheet) |
+| _includes/ | header.html (parent-child dropdown nav + live status pill), footer.html (site-map accordions + social/external links), breadcrumbs.html, contact-cta.html, contact-sheet.html (mobile contact action sheet) |
 | _data/navigation.yml | Single source of truth for navigation taxonomy: 5 parent groups over the 14 clusters + utility (Search/FAQ/Contact) and legal (Privacy/Terms) links; used by header and footer |
 | topics/<cluster>/index.md | 14 topic hubs: rental, monthly-rental, scooters, motorcycles, manual-clutch, 50cc, electric, maintenance, parts-gear, safety, law-licences, hanoi, trips, vietnam-travel |
 | articles/index.md | All Motorbike Guides — true all-article index, grouped by cluster |
@@ -153,6 +153,8 @@ Run locally before each batch commit:
 Verify the 10 REVIEW_REQUIRED legal articles against primary legal sources (Decree 168/2024/ND-CP fine clauses, helmet clause, Circular 12/2025/TT-BCA IDP conversion), clear their review_status, then resume Batch 1 (remaining ~58 law-licence articles).
 
 # CHANGE LOG
+
+- 2026-09-20 (10): Removed the experimental floating utility dock entirely (owner tested on iPhone Safari; redundant with the Contact sheet) — deleted _includes/utility-dock.html, its include in default.html, all dock CSS (buttons, tokens, sheet-panel generalization, chat placeholder) and all dock JS (openDockPanel/closeDockPanel/activePanel, dock backdrops, data-panel-close listeners). Contact sheet restored to a single clean openSheet/closeSheet state flow with its own Escape handler. Footer social pills, bottom nav, header, theme system and all routes/SEO untouched. A floating "AI Assistant" button may return only when a real local assistant exists.
 
 - 2026-09-20 (9): Quick-actions refinement — removed the Explore section (Facebook/TripAdvisor/Pinterest/SoundCloud/blog) from the Quick Actions sheet; it now contains only practical contact actions (Call/Zalo/WhatsApp/Map/Main website). Social/external destinations live in the footer only, redesigned as rounded icon pills (.social-pill) in the Elsewhere column; the /blog/ link relabeled "Vietnamese blog". Unused .sheet-section-label CSS removed; openSheet now closes any open dock panel so sheets never stack.
 
