@@ -95,6 +95,7 @@ h2 { font-size: var(--text-xl); }
 .header-inner { max-width: var(--header-container); margin: 0 auto; padding: 0 var(--sp-5); display: flex; align-items: center; gap: var(--sp-3); min-height: 60px; }
 .brand { display: flex; align-items: center; gap: var(--sp-2); font-size: var(--text-base); color: var(--fg); font-weight: 500; }
 .brand b { font-weight: 700; }
+.brand-logo { display: block; width: 24px; height: 24px; border-radius: var(--r-sm); flex: none; }
 .brand-short { display: none; }
 .brand svg { color: var(--accent); }
 .site-nav { display: flex; align-items: center; gap: var(--sp-4); margin-left: auto; }
@@ -523,8 +524,7 @@ c-links a {
 
 /* Empty state */
 .empty-state {
-  display: flex; flex-direction: column; align-items: cent
-er; text-align: center; gap: var(--sp-2);
+  display: flex; flex-direction: column; align-items: center; text-align: center; gap: var(--sp-2);
   padding: var(--sp-7) var(--sp-5); margin: var(--sp-5) 0;
   background: var(--card); border: 1px dashed var(--border-strong); border-radius: var(--r-lg);
 }

@@ -181,9 +181,11 @@
   var backdrop = document.getElementById('sheetBackdrop');
   var sheetClose = document.getElementById('sheetClose');
   var lastFocused = null;
+  var backdropHideTimer = null;
 
   function openSheet(trigger) {
     if (!sheet) return;
+    if (backdropHideTimer) { window.clearTimeout(backdropHideTimer); backdropHideTimer = null; }
     lastFocused = trigger || document.activeElement;
     if (backdrop) { backdrop.hidden = false; backdrop.classList.add('is-open'); }
     sheet.classList.add('is-open');
@@ -196,7 +198,15 @@
     if (!sheet) return;
     sheet.classList.remove('is-open');
     sheet.setAttribute('aria-hidden', 'true');
-    if (backdrop) { backdrop.classList.remove('is-open'); window.setTimeout(function () { if (backdrop) backdrop.hidden = true; }, 220); }
+    if (backdrop) {
+      backdrop.classList.remove('is-open');
+      if (backdropHideTimer) window.clearTimeout(backdropHideTimer);
+      backdropHideTimer = window.setTimeout(function () {
+        backdropHideTimer = null;
+        // Only hide if the sheet is still closed (reopened before the fade finished)
+        if (backdrop && sheet && !sheet.classList.contains('is-open')) backdrop.hidden = true;
+      }, 220);
+    }
     document.body.style.overflow = '';
     if (lastFocused && lastFocused.focus) lastFocused.focus();
   }

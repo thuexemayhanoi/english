@@ -46,7 +46,8 @@ If this README conflicts with actual remote MAIN, inspect MAIN and update the RE
 | index.html | Homepage: hero + search, quick-action grid, parent section cards with child links + counts, latest guides, contact CTA |
 | search.md, search.json | Client-side search page (icon + clear button + suggested topics) and index |
 | manifest.webmanifest | PWA preparation (standalone, theme_color, /english/ scope); no service worker yet |
-| assets/img/icon.svg | Original SVG app icon (manifest + apple-touch) |
+| assets/img/logo.svg | Original 512x512 motorbike logo (blog repo's Logo moto.png, byte-exact PNG embedded in an SVG wrapper — the GitHub write tooling cannot transfer raw binary, so PNG bytes are carried inside text SVG files) — apple-touch-icon + manifest 512 |
+| assets/img/icon-192.svg | 192x192 icon derived from the same logo (area-averaged downscale, same palette, 4.3KB PNG payload) — favicon, manifest 192, header brand logo |
 | about.md, faq.md, contact.md, privacy.md, terms.md, 404.html | Static pages (About kept as informational page; FAQ links to guides; Contact holds verified business contact facts; Privacy/Terms are informational-site policies) |
 | sitemap.xml | Liquid-generated: home, /articles/, /about/, /search/, 14 hubs, all articles |
 | robots.txt | Allows all, points to sitemap |
@@ -71,7 +72,7 @@ Date: 2026-09-20
 
 - Hub architecture: /articles/ is the all-guides index; the law hub is /topics/law-licences/ only; hub links resolved deterministically by permalink (commit 410750f0).
 - Malformed double-quoted YAML in 9 article front matters fixed (title/description only, no content changes).
-- Sitemap covers all 28 indexable URLs (4 core pages + 14 hubs + 10 articles) — verified against live sitemap.
+- Sitemap covers all 32 indexable URLs (verified against live sitemap and build report).
 - Empty hub states render intentionally; homepage no longer looks broken.
 - Footer accordions collapsed by default; law link wall reduced to hub + 4 featured + All law guides.
 - Quality toolkit: 7 scripts, zero dependencies, all run clean (P0=0, P1=0, P2=16, P3=9 on current content).
@@ -143,9 +144,9 @@ Run locally before each batch commit:
 # DEPLOYMENT STATE
 
 - Hosting: GitHub Pages, Jekyll, baseurl /english.
-- Latest verified implementation commit: faff8cd6aca2ec851fb5e86772c4620dd23289a1 (app-shell UI pass).
-- Latest verified Quality Gate run: 35506846547 = SUCCESS (head faff8cd6).
-- Latest verified Pages run: 35506846164 = BUILD SUCCESS + DEPLOY SUCCESS (head faff8cd6).
+- Latest verified implementation commit: 4ae3215a0058d8a3c8664bc2a54a88f7a23054e8 (utility dock removal).
+- Latest verified Quality Gate run: 35573728308 = SUCCESS (head 4ae3215).
+- Latest verified Pages run: 35573727593 = BUILD SUCCESS + DEPLOY SUCCESS (head 4ae3215).
 - README-only state updates may create a newer HEAD than the SHAs recorded here; the values above always refer to the last implementation commit whose CI/deploy was actually verified.
 
 # NEXT RECOMMENDED STEP
@@ -153,6 +154,8 @@ Run locally before each batch commit:
 Verify the 10 REVIEW_REQUIRED legal articles against primary legal sources (Decree 168/2024/ND-CP fine clauses, helmet clause, Circular 12/2025/TT-BCA IDP conversion), clear their review_status, then resume Batch 1 (remaining ~58 law-licence articles).
 
 # CHANGE LOG
+
+- 2026-09-21 (11): Small hardening/cleanup pass — (1) fixed the contact-sheet backdrop race: closeSheet now uses a single stored backdrop-hide timer that openSheet clears and closeSheet restarts, and the timer only hides the backdrop if the sheet is still closed (close-then-quick-reopen can no longer hide a live backdrop); (2) fixed a broken `align-items` declaration (stray line break) in .empty-state; (3) synced README deployment state and sitemap count to current verified values; (4) adopted the existing motorbike logo (Logo moto.png from the blog repo) as the site branding: favicon, apple-touch-icon, manifest icons (512 + 192) and header brand logo (24px, no header height change); the original 512x512 PNG bytes are embedded byte-exact in SVG wrappers (assets/img/logo.svg) because the GitHub write tooling corrupts raw binary uploads, and a 192x192 variant (assets/img/icon-192.svg, area-averaged downscale from the same palette) serves the favicon, manifest and header; generic icon.svg removed. Note: iOS does not render SVG apple-touch-icons (same limitation as the previous generic SVG icon); replacing the wrappers with plain PNGs via a binary-capable upload path would remove that limitation.
 
 - 2026-09-20 (10): Removed the experimental floating utility dock entirely (owner tested on iPhone Safari; redundant with the Contact sheet) — deleted _includes/utility-dock.html, its include in default.html, all dock CSS (buttons, tokens, sheet-panel generalization, chat placeholder) and all dock JS (openDockPanel/closeDockPanel/activePanel, dock backdrops, data-panel-close listeners). Contact sheet restored to a single clean openSheet/closeSheet state flow with its own Escape handler. Footer social pills, bottom nav, header, theme system and all routes/SEO untouched. A floating "AI Assistant" button may return only when a real local assistant exists.
 
