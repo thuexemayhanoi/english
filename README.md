@@ -144,9 +144,9 @@ Run locally before each batch commit:
 # DEPLOYMENT STATE
 
 - Hosting: GitHub Pages, Jekyll, baseurl /english.
-- Latest verified implementation commit: 4ae3215a0058d8a3c8664bc2a54a88f7a23054e8 (utility dock removal).
-- Latest verified Quality Gate run: 35573728308 = SUCCESS (head 4ae3215).
-- Latest verified Pages run: 35573727593 = BUILD SUCCESS + DEPLOY SUCCESS (head 4ae3215).
+- Latest verified implementation commit: 57af814739438c21618075fc64990324bf50f172 (hardening/cleanup + logo adoption pass).
+- Latest verified Quality Gate run: 35622023758 = SUCCESS (head 57af814).
+- Latest verified Pages run: 35622023151 = BUILD SUCCESS + DEPLOY SUCCESS (head 57af814).
 - README-only state updates may create a newer HEAD than the SHAs recorded here; the values above always refer to the last implementation commit whose CI/deploy was actually verified.
 
 # NEXT RECOMMENDED STEP
