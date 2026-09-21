@@ -154,6 +154,8 @@ Verify the 10 REVIEW_REQUIRED legal articles against primary legal sources (Decr
 
 # CHANGE LOG
 
+- 2026-09-20 (9): Quick-actions refinement — removed the Explore section (Facebook/TripAdvisor/Pinterest/SoundCloud/blog) from the Quick Actions sheet; it now contains only practical contact actions (Call/Zalo/WhatsApp/Map/Main website). Social/external destinations live in the footer only, redesigned as rounded icon pills (.social-pill) in the Elsewhere column; the /blog/ link relabeled "Vietnamese blog". Unused .sheet-section-label CSS removed; openSheet now closes any open dock panel so sheets never stack.
+
 - 2026-09-20 (8): Floating utility dock (<=1024px only) — two rounded premium buttons above the bottom tab bar on phones: Chat (opens an honest placeholder panel for a future local assistant; no fake backend) and Quick actions (bottom sheet with Call/Zalo/WhatsApp/Map/Main website plus Facebook/TripAdvisor/Pinterest/SoundCloud/English blog). Sheets share the contact-sheet pattern (backdrop, Escape, focus management, follow-then-close); Escape now also closes the contact sheet. Social/external links also added to the footer Elsewhere column. Dock hidden on desktop; charcoal token set for light/dark themes.
 - 2026-09-20 (7): Hamburger fix — restored .nav-toggle display rule inside the 1279px breakpoint (regression in faff8cd6).
 

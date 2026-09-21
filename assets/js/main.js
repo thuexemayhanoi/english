@@ -184,6 +184,7 @@
 
   function openSheet(trigger) {
     if (!sheet) return;
+    if (typeof closeDockPanel === 'function') closeDockPanel(); // never stack sheets
     lastFocused = trigger || document.activeElement;
     if (backdrop) { backdrop.hidden = false; backdrop.classList.add('is-open'); }
     sheet.classList.add('is-open');
