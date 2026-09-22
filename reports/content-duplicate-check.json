@@ -3,8 +3,23 @@
   "counts": {
     "P0": 0,
     "P1": 0,
-    "P2": 0,
+    "P2": 2,
     "P3": 0
   },
-  "findings": []
+  "findings": [
+    {
+      "severity": "P2",
+      "file": "_articles/how-to-rent-a-motorbike-hanoi.md",
+      "url": "/articles/how-to-rent-a-motorbike-hanoi/",
+      "issue": "near-duplicate title (similarity 0.67) vs _articles/can-foreigners-rent-a-motorbike-hanoi.md",
+      "fix": "Manual review: split or differentiate"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/can-tourists-ride-motorbike-vietnam.md",
+      "url": "/articles/can-tourists-ride-motorbike-vietnam/",
+      "issue": "near-duplicate title (similarity 0.75) vs _articles/can-tourists-rent-a-motorbike-hanoi.md",
+      "fix": "Manual review: split or differentiate"
+    }
+  ]
 }

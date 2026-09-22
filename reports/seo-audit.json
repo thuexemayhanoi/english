@@ -4,7 +4,7 @@
     "P0": 0,
     "P1": 0,
     "P2": 11,
-    "P3": 67
+    "P3": 116
   },
   "findings": [
     {
@@ -37,8 +37,99 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/automatic-vs-manual-motorbike-hanoi.md",
+      "url": "/articles/automatic-vs-manual-motorbike-hanoi/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/automatic-vs-manual-motorbike-hanoi.md",
+      "url": "/articles/automatic-vs-manual-motorbike-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/b1-three-wheel-licence-vietnam.md",
       "url": "/articles/b1-three-wheel-licence-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-bike-for-english-teachers-hanoi.md",
+      "url": "/articles/best-bike-for-english-teachers-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-motorbike-for-commuting-hanoi.md",
+      "url": "/articles/best-motorbike-for-commuting-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-motorbike-for-day-trips-from-hanoi.md",
+      "url": "/articles/best-motorbike-for-day-trips-from-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-motorbike-for-expats-hanoi.md",
+      "url": "/articles/best-motorbike-for-expats-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-motorbike-for-hanoi-traffic.md",
+      "url": "/articles/best-motorbike-for-hanoi-traffic/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-motorbike-for-long-distance-vietnam.md",
+      "url": "/articles/best-motorbike-for-long-distance-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-motorbike-for-students-hanoi.md",
+      "url": "/articles/best-motorbike-for-students-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-motorbike-for-two-people-hanoi.md",
+      "url": "/articles/best-motorbike-for-two-people-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-motorbikes-for-tall-riders-vietnam.md",
+      "url": "/articles/best-motorbikes-for-tall-riders-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/can-foreigners-rent-a-motorbike-hanoi.md",
+      "url": "/articles/can-foreigners-rent-a-motorbike-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/can-tourists-rent-a-motorbike-hanoi.md",
+      "url": "/articles/can-tourists-rent-a-motorbike-hanoi/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -58,8 +149,57 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/common-motorbike-rental-problems-hanoi.md",
+      "url": "/articles/common-motorbike-rental-problems-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/compulsory-motorbike-insurance-vietnam.md",
       "url": "/articles/compulsory-motorbike-insurance-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/daily-weekly-monthly-motorbike-rental-hanoi.md",
+      "url": "/articles/daily-weekly-monthly-motorbike-rental-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/do-hanoi-rentals-include-helmets.md",
+      "url": "/articles/do-hanoi-rentals-include-helmets/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/do-rentals-keep-your-passport-hanoi.md",
+      "url": "/articles/do-rentals-keep-your-passport-hanoi/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/do-rentals-keep-your-passport-hanoi.md",
+      "url": "/articles/do-rentals-keep-your-passport-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/do-you-need-insurance-to-ride-vietnam.md",
+      "url": "/articles/do-you-need-insurance-to-ride-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/documents-needed-rent-motorbike-hanoi.md",
+      "url": "/articles/documents-needed-rent-motorbike-hanoi/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -74,6 +214,13 @@
       "severity": "P3",
       "file": "_articles/drink-driving-limits-motorbike-vietnam.md",
       "url": "/articles/drink-driving-limits-motorbike-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/easiest-motorbikes-for-beginners-hanoi.md",
+      "url": "/articles/easiest-motorbikes-for-beginners-hanoi/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -114,6 +261,13 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/first-time-renting-a-motorbike-hanoi.md",
+      "url": "/articles/first-time-renting-a-motorbike-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/foreign-licence-exchange-documents-vietnam.md",
       "url": "/articles/foreign-licence-exchange-documents-vietnam/",
       "issue": "meta description longer than 165 chars",
@@ -142,6 +296,34 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/high-mileage-rental-motorbike-inspection.md",
+      "url": "/articles/high-mileage-rental-motorbike-inspection/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/high-mileage-rental-motorbike-inspection.md",
+      "url": "/articles/high-mileage-rental-motorbike-inspection/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/how-deposit-returns-work-hanoi.md",
+      "url": "/articles/how-deposit-returns-work-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/how-to-book-a-motorbike-rental-hanoi.md",
+      "url": "/articles/how-to-book-a-motorbike-rental-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/how-to-get-a1-licence-vietnam.md",
       "url": "/articles/how-to-get-a1-licence-vietnam/",
       "issue": "meta description longer than 165 chars",
@@ -151,6 +333,20 @@
       "severity": "P3",
       "file": "_articles/how-to-pay-traffic-fine-vietnam.md",
       "url": "/articles/how-to-pay-traffic-fine-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/how-to-rent-a-motorbike-hanoi.md",
+      "url": "/articles/how-to-rent-a-motorbike-hanoi/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/how-to-rent-a-motorbike-hanoi.md",
+      "url": "/articles/how-to-rent-a-motorbike-hanoi/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -177,8 +373,22 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/is-insurance-included-motorbike-rental-hanoi.md",
+      "url": "/articles/is-insurance-included-motorbike-rental-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/lane-splitting-legal-vietnam.md",
       "url": "/articles/lane-splitting-legal-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/late-return-rental-motorbike-hanoi.md",
+      "url": "/articles/late-return-rental-motorbike-hanoi/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -198,8 +408,22 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/loose-chain-on-rental-motorbike.md",
+      "url": "/articles/loose-chain-on-rental-motorbike/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/lose-all-licence-points-vietnam.md",
       "url": "/articles/lose-all-licence-points-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/lost-key-rental-motorbike-hanoi.md",
+      "url": "/articles/lost-key-rental-motorbike-hanoi/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -282,6 +506,48 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/motorbike-rental-deposit-hanoi.md",
+      "url": "/articles/motorbike-rental-deposit-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-rental-fuel-policy-hanoi.md",
+      "url": "/articles/motorbike-rental-fuel-policy-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-rental-pickup-or-delivery-hanoi.md",
+      "url": "/articles/motorbike-rental-pickup-or-delivery-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-rental-price-hanoi.md",
+      "url": "/articles/motorbike-rental-price-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-rental-requirements-hanoi.md",
+      "url": "/articles/motorbike-rental-requirements-hanoi/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-rental-requirements-hanoi.md",
+      "url": "/articles/motorbike-rental-requirements-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/motorbike-required-equipment-vietnam.md",
       "url": "/articles/motorbike-required-equipment-vietnam/",
       "issue": "meta description longer than 165 chars",
@@ -324,6 +590,13 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/outside-repair-shops-rental-motorbike.md",
+      "url": "/articles/outside-repair-shops-rental-motorbike/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/overtaking-rules-motorbike-vietnam.md",
       "url": "/articles/overtaking-rules-motorbike-vietnam/",
       "issue": "meta description longer than 165 chars",
@@ -345,8 +618,57 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/punctured-tyre-on-rental-motorbike.md",
+      "url": "/articles/punctured-tyre-on-rental-motorbike/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/red-light-fine-vietnam.md",
       "url": "/articles/red-light-fine-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/rental-motorbike-feels-wrong.md",
+      "url": "/articles/rental-motorbike-feels-wrong/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/rental-motorbike-inspection-checklist.md",
+      "url": "/articles/rental-motorbike-inspection-checklist/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/rental-motorbike-inspection-checklist.md",
+      "url": "/articles/rental-motorbike-inspection-checklist/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/renting-a-motorbike-hanoi-without-licence.md",
+      "url": "/articles/renting-a-motorbike-hanoi-without-licence/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/renting-vs-buying-a-motorbike-hanoi.md",
+      "url": "/articles/renting-vs-buying-a-motorbike-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/returning-a-rental-motorbike-hanoi.md",
+      "url": "/articles/returning-a-rental-motorbike-hanoi/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -387,6 +709,13 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/scooter-vs-semi-automatic-hanoi.md",
+      "url": "/articles/scooter-vs-semi-automatic-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/speeding-fines-motorbike-vietnam.md",
       "url": "/articles/speeding-fines-motorbike-vietnam/",
       "issue": "meta description longer than 165 chars",
@@ -396,6 +725,13 @@
       "severity": "P3",
       "file": "_articles/stopped-by-traffic-police-vietnam.md",
       "url": "/articles/stopped-by-traffic-police-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/theft-loss-responsibility-rental-motorbike-hanoi.md",
+      "url": "/articles/theft-loss-responsibility-rental-motorbike-hanoi/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -457,6 +793,13 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/what-is-included-motorbike-rental-hanoi.md",
+      "url": "/articles/what-is-included-motorbike-rental-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/which-countries-idp-valid-vietnam.md",
       "url": "/articles/which-countries-idp-valid-vietnam/",
       "issue": "meta description longer than 165 chars",
@@ -506,8 +849,15 @@
     },
     {
       "severity": "P2",
-      "file": "_articles/child-passengers-motorbike-vietnam.md",
-      "url": "/articles/child-passengers-motorbike-vietnam/",
+      "file": "_articles/best-bike-for-hanoi-old-quarter.md",
+      "url": "/articles/best-bike-for-hanoi-old-quarter/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/best-motorbikes-for-tall-riders-vietnam.md",
+      "url": "/articles/best-motorbikes-for-tall-riders-vietnam/",
       "issue": "orphan article (nothing links to it)",
       "fix": "Add it to a hub or related-guides list"
     },
@@ -529,13 +879,6 @@
       "severity": "P2",
       "file": "_articles/phone-use-while-riding-vietnam.md",
       "url": "/articles/phone-use-while-riding-vietnam/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/police-impound-motorbike-vietnam.md",
-      "url": "/articles/police-impound-motorbike-vietnam/",
       "issue": "orphan article (nothing links to it)",
       "fix": "Add it to a hub or related-guides list"
     },

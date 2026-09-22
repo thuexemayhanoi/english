@@ -52,6 +52,8 @@ None blocking. Minor watch items:
 
 ## Batch 1 status
 
+[UPDATE 2026-09-22, final slice: BATCH 1 IS COMPLETE — all 66 cluster-11 law/licence articles are published and VERIFIED; 0 proposed cluster-11 rows remain. The sentence below is retained as the historical record of the Slice-1/2 state only; do NOT resume Batch 1 — see the Slice 3 and Slice 4 / Final Batch 1 sections below.]
+
 The foundational legal verification for the licence-system, foreigners, traffic-rules and fines subclusters is complete. Batch 1 (remaining ~58 law-licence articles) is SAFE TO RESUME, using the verified facts in this file as the baseline.
 
 ## Slice 2 (2026-09-22): 10 further VERIFIED legal articles
