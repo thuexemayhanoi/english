@@ -187,6 +187,8 @@
     if (!sheet) return;
     if (backdropHideTimer) { window.clearTimeout(backdropHideTimer); backdropHideTimer = null; }
     lastFocused = trigger || document.activeElement;
+    // Single-overlay rule: tell other overlays (Guide Assistant) to close
+    document.dispatchEvent(new CustomEvent('overlay:opening', { detail: { id: 'contact' } }));
     if (backdrop) { backdrop.hidden = false; backdrop.classList.add('is-open'); }
     sheet.classList.add('is-open');
     sheet.setAttribute('aria-hidden', 'false');
@@ -212,6 +214,10 @@
   }
   if (sheetClose) sheetClose.addEventListener('click', closeSheet);
   if (backdrop) backdrop.addEventListener('click', closeSheet);
+  // Single-overlay rule: Guide Assistant opening closes the contact sheet
+  document.addEventListener('overlay:opening', function (e) {
+    if (e.detail && e.detail.id !== 'contact' && sheet && sheet.classList.contains('is-open')) closeSheet();
+  });
   // Close after following a sheet action (so back-to-page feels clean)
   if (sheet) {
     sheet.querySelectorAll('[data-sheet-close]').forEach(function (el) {

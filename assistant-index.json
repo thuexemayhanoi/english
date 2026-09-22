@@ -1,0 +1,15 @@
+---
+---
+[
+{% for a in site.articles %}
+  {
+    "title": {{ a.title | jsonify }},
+    "description": {{ a.description | jsonify }},
+    "url": {{ a.url | relative_url | jsonify }},
+    "topic_cluster": {{ a.topic_cluster | jsonify }},
+    "tags": {{ a.tags | jsonify }},
+    "review_status": {{ a.review_status | jsonify }},
+    "text": {{ a.content | strip_html | replace: "\n", " " | strip | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
