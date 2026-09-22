@@ -3,7 +3,7 @@
   "counts": {
     "P0": 0,
     "P1": 0,
-    "P2": 43,
+    "P2": 49,
     "P3": 122
   },
   "findings": [
@@ -905,6 +905,20 @@
     },
     {
       "severity": "P2",
+      "file": "_articles/carburettor-vs-fuel-injection-vietnam.md",
+      "url": "/articles/carburettor-vs-fuel-injection-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/carrying-luggage-motorbike-safely-vietnam.md",
+      "url": "/articles/carrying-luggage-motorbike-safely-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
       "file": "_articles/e-bike-monthly-rental-hanoi.md",
       "url": "/articles/e-bike-monthly-rental-hanoi/",
       "issue": "orphan article (nothing links to it)",
@@ -919,6 +933,13 @@
     },
     {
       "severity": "P2",
+      "file": "_articles/eye-protection-riding-motorbike-vietnam.md",
+      "url": "/articles/eye-protection-riding-motorbike-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
       "file": "_articles/families-monthly-motorbike-hanoi.md",
       "url": "/articles/families-monthly-motorbike-hanoi/",
       "issue": "orphan article (nothing links to it)",
@@ -926,8 +947,15 @@
     },
     {
       "severity": "P2",
-      "file": "_articles/learning-to-ride-monthly-rental-hanoi.md",
-      "url": "/articles/learning-to-ride-monthly-rental-hanoi/",
+      "file": "_articles/flat-tyre-repair-motorbike-vietnam.md",
+      "url": "/articles/flat-tyre-repair-motorbike-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/hand-signals-motorbike-vietnam.md",
+      "url": "/articles/hand-signals-motorbike-vietnam/",
       "issue": "orphan article (nothing links to it)",
       "fix": "Add it to a hub or related-guides list"
     },
@@ -1010,8 +1038,22 @@
     },
     {
       "severity": "P2",
+      "file": "_articles/new-rider-safety-mistakes-vietnam.md",
+      "url": "/articles/new-rider-safety-mistakes-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
       "file": "_articles/nomads-monthly-motorbike-hanoi.md",
       "url": "/articles/nomads-monthly-motorbike-hanoi/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/overheating-motorbike-vietnam.md",
+      "url": "/articles/overheating-motorbike-vietnam/",
       "issue": "orphan article (nothing links to it)",
       "fix": "Add it to a hub or related-guides list"
     },
@@ -1073,29 +1115,8 @@
     },
     {
       "severity": "P2",
-      "file": "_articles/renting-motorbike-hanoi-complete-beginner.md",
-      "url": "/articles/renting-motorbike-hanoi-complete-beginner/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/renting-motorbike-hanoi-rainy-season.md",
-      "url": "/articles/renting-motorbike-hanoi-rainy-season/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
       "file": "_articles/renting-motorbike-hanoi-tet-holidays.md",
       "url": "/articles/renting-motorbike-hanoi-tet-holidays/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/renting-motorbike-hanoi-winter.md",
-      "url": "/articles/renting-motorbike-hanoi-winter/",
       "issue": "orphan article (nothing links to it)",
       "fix": "Add it to a hub or related-guides list"
     },
@@ -1143,6 +1164,20 @@
     },
     {
       "severity": "P2",
+      "file": "_articles/roundabouts-motorbike-vietnam.md",
+      "url": "/articles/roundabouts-motorbike-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/strong-wind-riding-motorbike-vietnam.md",
+      "url": "/articles/strong-wind-riding-motorbike-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
       "file": "_articles/students-semester-motorbike-rental-hanoi.md",
       "url": "/articles/students-semester-motorbike-rental-hanoi/",
       "issue": "orphan article (nothing links to it)",
@@ -1152,6 +1187,13 @@
       "severity": "P2",
       "file": "_articles/switching-bikes-mid-rental-hanoi.md",
       "url": "/articles/switching-bikes-mid-rental-hanoi/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/traffic-at-rush-hour-riding-hanoi.md",
+      "url": "/articles/traffic-at-rush-hour-riding-hanoi/",
       "issue": "orphan article (nothing links to it)",
       "fix": "Add it to a hub or related-guides list"
     },
