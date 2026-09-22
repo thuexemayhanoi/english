@@ -32,7 +32,7 @@ The IDP's validity in Vietnam does not depend on the issuing country being Vietn
 
 ## What fails
 
-Two categories fail predictably. First, 1949 Geneva Convention IDPs — the format several major tourist-source countries still issue — are not recognised by the Vietnamese rule. Second, national licences alone from non-convention countries: no translation, no notarised copy, no rental-shop letter changes a non-recognised licence into a rideable one. Riders carrying these ride in the unlicensed bands if stopped.
+Two categories fail predictably. First, 1949 Geneva Convention IDPs — the format several major tourist-source countries still issue — are not recognised: Article 58(6) of the road traffic law accepts only the 1968 Vienna Convention format, carried together with the national licence. Second, national licences alone from non-convention countries: no translation, no notarised copy, no rental-shop letter changes a non-recognised licence into a rideable one. Riders carrying these ride in the unlicensed bands if stopped.
 
 ## The second half of the rule
 
