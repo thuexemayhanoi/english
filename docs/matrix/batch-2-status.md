@@ -6,7 +6,7 @@ Authoritative record for the rental batch publish/review status. Batch 1 (law/li
 
 Published 2026-09-22 as one batch commit. All business facts (prices, deposit, late-return, payment, delivery, maintenance policy, opening hours, contact details) come exclusively from docs/OWNER-FACTS.md — the sole approved business-fact authority. No prices, availability, fleet size, promotions, discounts, guarantees, insurance claims or delivery promises were invented; bike stock wording uses "Contact us to confirm current availability." Legal statements reuse only the verified cluster-11 legal baseline and link to the published VERIFIED legal articles; no new legal facts were introduced.
 
-Rental cluster counts after this slice: 48 published / 33 proposed (81 authored cluster-1 rows total). Site-wide: 114 published articles (66 law/licences + 48 rental).
+Rental cluster counts after Slice 1: 48 published / 33 proposed (81 authored cluster-1 rows total).
 
 | Matrix row | Article slug | Subcluster | Status |
 |---|---|---|---|
@@ -59,4 +59,50 @@ Rental cluster counts after this slice: 48 published / 33 proposed (81 authored 
 | MM-0047 | lost-key-rental-motorbike-hanoi | 1.3 rental-practicalities | PUBLISHED 2026-09-22 |
 | MM-0048 | theft-loss-responsibility-rental-motorbike-hanoi | 1.3 rental-practicalities | PUBLISHED 2026-09-22 |
 
-Coverage note: subclusters 1.1 how-to-rent and 1.2 choosing-bike are fully published in this slice; 1.3 rental-practicalities is published through MM-0048. Remaining proposed rows: rest of 1.3, 1.4 renter-situations and 1.5 area-guides — production candidates for later rental slices, not yet written.
+Coverage note after Slice 1: subclusters 1.1 how-to-rent and 1.2 choosing-bike fully published; 1.3 rental-practicalities published through MM-0048.
+
+## Batch 2 Slice 2 (2026-09-22): final 33 cluster-1 rental articles — cluster 1 COMPLETE
+
+Published 2026-09-22 as one batch commit. Same sourcing rules as Slice 1: all business facts exclusively from docs/OWNER-FACTS.md; no prices, availability, fleet size, promotions, discounts, guarantees, insurance claims or delivery promises invented; bike stock wording uses "Contact us to confirm current availability." Legal statements reuse only the verified cluster-11 legal baseline. Area guides (1.5) were written as substantive district riding guides (traffic character, parking, routes, rental logistics) — not doorway-style location variants; the two delivery FAQs cover the Old Quarter and Long Bien only, mirroring the actual delivery-use pattern.
+
+Data hygiene in the same commit: repaired the embedded newline in the MM-0075 subcluster cell of master-matrix.csv (restoring "1.5 area-guides").
+
+Rental cluster result: 81 published / 0 proposed — cluster 1 is COMPLETE. Site-wide: 147 published articles (66 law/licences + 81 rental).
+
+| Matrix row | Article slug | Subcluster | Status |
+|---|---|---|---|
+| MM-0049 | where-to-park-motorbike-hanoi | 1.3 rental-practicalities | PUBLISHED 2026-09-22 |
+| MM-0050 | riding-rental-motorbike-hanoi-rain | 1.3 rental-practicalities | PUBLISHED 2026-09-22 |
+| MM-0051 | rental-motorbike-fuel-what-petrol | 1.3 rental-practicalities | PUBLISHED 2026-09-22 |
+| MM-0052 | what-to-carry-riding-motorbike-vietnam | 1.3 rental-practicalities | PUBLISHED 2026-09-22 |
+| MM-0053 | motorbike-rental-agreement-hanoi | 1.3 rental-practicalities | PUBLISHED 2026-09-22 |
+| MM-0054 | rental-motorbike-outside-hanoi | 1.3 rental-practicalities | PUBLISHED 2026-09-22 |
+| MM-0055 | renting-motorbike-hanoi-tet-holidays | 1.3 rental-practicalities | PUBLISHED 2026-09-22 |
+| MM-0056 | motorbike-rental-tourists-hanoi-essentials | 1.4 renter-situations | PUBLISHED 2026-09-22 |
+| MM-0057 | motorbike-rental-expats-moving-hanoi | 1.4 renter-situations | PUBLISHED 2026-09-22 |
+| MM-0058 | motorbike-rental-english-teachers-hanoi | 1.4 renter-situations | PUBLISHED 2026-09-22 |
+| MM-0059 | motorbike-rental-international-students-hanoi | 1.4 renter-situations | PUBLISHED 2026-09-22 |
+| MM-0060 | motorbike-rental-digital-nomads-hanoi | 1.4 renter-situations | PUBLISHED 2026-09-22 |
+| MM-0061 | motorbike-rental-female-riders-hanoi | 1.4 renter-situations | PUBLISHED 2026-09-22 |
+| MM-0062 | renting-motorbike-couple-hanoi | 1.4 renter-situations | PUBLISHED 2026-09-22 |
+| MM-0063 | renting-motorbike-six-months-hanoi | 1.4 renter-situations | PUBLISHED 2026-09-22 |
+| MM-0064 | renting-motorbike-hanoi-one-day | 1.4 renter-situations | PUBLISHED 2026-09-22 |
+| MM-0065 | renting-motorbikes-group-hanoi | 1.4 renter-situations | PUBLISHED 2026-09-22 |
+| MM-0066 | renting-motorbike-hanoi-rainy-season | 1.4 renter-situations | PUBLISHED 2026-09-22 |
+| MM-0067 | renting-motorbike-hanoi-winter | 1.4 renter-situations | PUBLISHED 2026-09-22 |
+| MM-0068 | switching-bikes-mid-rental-hanoi | 1.4 renter-situations | PUBLISHED 2026-09-22 |
+| MM-0069 | renting-motorbike-noi-bai-arrival | 1.4 renter-situations | PUBLISHED 2026-09-22 |
+| MM-0070 | renting-motorbike-hanoi-complete-beginner | 1.4 renter-situations | PUBLISHED 2026-09-22 |
+| MM-0071 | renting-motorbike-long-bien | 1.5 area-guides | PUBLISHED 2026-09-22 |
+| MM-0072 | renting-motorbike-old-quarter | 1.5 area-guides | PUBLISHED 2026-09-22 |
+| MM-0073 | renting-motorbike-tay-ho | 1.5 area-guides | PUBLISHED 2026-09-22 |
+| MM-0074 | renting-motorbike-ba-dinh | 1.5 area-guides | PUBLISHED 2026-09-22 |
+| MM-0075 | renting-motorbike-hanoi-winter | 1.5 area-guides | PUBLISHED 2026-09-22 |
+| MM-0076 | renting-motorbike-hai-ba-trung | 1.5 area-guides | PUBLISHED 2026-09-22 |
+| MM-0077 | renting-motorbike-dong-da | 1.5 area-guides | PUBLISHED 2026-09-22 |
+| MM-0078 | renting-motorbike-hoan-kiem | 1.5 area-guides | PUBLISHED 2026-09-22 |
+| MM-0079 | renting-motorbike-thanh-xuan | 1.5 area-guides | PUBLISHED 2026-09-22 |
+| MM-0080 | motorbike-delivery-long-bien | 1.5 area-guides | PUBLISHED 2026-09-22 |
+| MM-0081 | motorbike-delivery-old-quarter | 1.5 area-guides | PUBLISHED 2026-09-22 |
+
+Batch 2 result: all 81 cluster-1 Hanoi motorbike rental intents published. The rental cluster is COMPLETE. Monthly & long-term rental (cluster 2) has NOT been started — deliberately left for the next batch.

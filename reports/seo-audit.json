@@ -3,8 +3,8 @@
   "counts": {
     "P0": 0,
     "P1": 0,
-    "P2": 11,
-    "P3": 116
+    "P2": 37,
+    "P3": 119
   },
   "findings": [
     {
@@ -457,6 +457,13 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/motorbike-delivery-old-quarter.md",
+      "url": "/articles/motorbike-delivery-old-quarter/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/motorbike-fines-vietnam-overview.md",
       "url": "/articles/motorbike-fines-vietnam-overview/",
       "issue": "meta description longer than 165 chars",
@@ -660,6 +667,20 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/renting-motorbike-long-bien.md",
+      "url": "/articles/renting-motorbike-long-bien/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/renting-motorbike-six-months-hanoi.md",
+      "url": "/articles/renting-motorbike-six-months-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/renting-vs-buying-a-motorbike-hanoi.md",
       "url": "/articles/renting-vs-buying-a-motorbike-hanoi/",
       "issue": "meta description longer than 165 chars",
@@ -849,13 +870,6 @@
     },
     {
       "severity": "P2",
-      "file": "_articles/best-bike-for-hanoi-old-quarter.md",
-      "url": "/articles/best-bike-for-hanoi-old-quarter/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
       "file": "_articles/best-motorbikes-for-tall-riders-vietnam.md",
       "url": "/articles/best-motorbikes-for-tall-riders-vietnam/",
       "issue": "orphan article (nothing links to it)",
@@ -870,8 +884,64 @@
     },
     {
       "severity": "P2",
+      "file": "_articles/motorbike-delivery-long-bien.md",
+      "url": "/articles/motorbike-delivery-long-bien/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/motorbike-delivery-old-quarter.md",
+      "url": "/articles/motorbike-delivery-old-quarter/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
       "file": "_articles/motorbike-learner-permit-vietnam.md",
       "url": "/articles/motorbike-learner-permit-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/motorbike-rental-digital-nomads-hanoi.md",
+      "url": "/articles/motorbike-rental-digital-nomads-hanoi/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/motorbike-rental-english-teachers-hanoi.md",
+      "url": "/articles/motorbike-rental-english-teachers-hanoi/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/motorbike-rental-expats-moving-hanoi.md",
+      "url": "/articles/motorbike-rental-expats-moving-hanoi/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/motorbike-rental-female-riders-hanoi.md",
+      "url": "/articles/motorbike-rental-female-riders-hanoi/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/motorbike-rental-international-students-hanoi.md",
+      "url": "/articles/motorbike-rental-international-students-hanoi/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/motorbike-rental-tourists-hanoi-essentials.md",
+      "url": "/articles/motorbike-rental-tourists-hanoi-essentials/",
       "issue": "orphan article (nothing links to it)",
       "fix": "Add it to a hub or related-guides list"
     },
@@ -884,8 +954,141 @@
     },
     {
       "severity": "P2",
+      "file": "_articles/rental-motorbike-fuel-what-petrol.md",
+      "url": "/articles/rental-motorbike-fuel-what-petrol/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/rental-motorbike-outside-hanoi.md",
+      "url": "/articles/rental-motorbike-outside-hanoi/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/renting-motorbike-ba-dinh.md",
+      "url": "/articles/renting-motorbike-ba-dinh/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/renting-motorbike-cau-giay.md",
+      "url": "/articles/renting-motorbike-cau-giay/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/renting-motorbike-couple-hanoi.md",
+      "url": "/articles/renting-motorbike-couple-hanoi/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/renting-motorbike-dong-da.md",
+      "url": "/articles/renting-motorbike-dong-da/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/renting-motorbike-hai-ba-trung.md",
+      "url": "/articles/renting-motorbike-hai-ba-trung/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/renting-motorbike-hanoi-complete-beginner.md",
+      "url": "/articles/renting-motorbike-hanoi-complete-beginner/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/renting-motorbike-hanoi-one-day.md",
+      "url": "/articles/renting-motorbike-hanoi-one-day/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/renting-motorbike-hanoi-rainy-season.md",
+      "url": "/articles/renting-motorbike-hanoi-rainy-season/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/renting-motorbike-hanoi-tet-holidays.md",
+      "url": "/articles/renting-motorbike-hanoi-tet-holidays/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/renting-motorbike-hanoi-winter.md",
+      "url": "/articles/renting-motorbike-hanoi-winter/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/renting-motorbike-hoan-kiem.md",
+      "url": "/articles/renting-motorbike-hoan-kiem/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/renting-motorbike-noi-bai-arrival.md",
+      "url": "/articles/renting-motorbike-noi-bai-arrival/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/renting-motorbike-six-months-hanoi.md",
+      "url": "/articles/renting-motorbike-six-months-hanoi/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/renting-motorbike-tay-ho.md",
+      "url": "/articles/renting-motorbike-tay-ho/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/renting-motorbike-thanh-xuan.md",
+      "url": "/articles/renting-motorbike-thanh-xuan/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/renting-motorbikes-group-hanoi.md",
+      "url": "/articles/renting-motorbikes-group-hanoi/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
       "file": "_articles/ride-125cc-with-car-licence-vietnam.md",
       "url": "/articles/ride-125cc-with-car-licence-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/switching-bikes-mid-rental-hanoi.md",
+      "url": "/articles/switching-bikes-mid-rental-hanoi/",
       "issue": "orphan article (nothing links to it)",
       "fix": "Add it to a hub or related-guides list"
     },
