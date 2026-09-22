@@ -97,7 +97,7 @@ Rental cluster result: 81 published / 0 proposed — cluster 1 is COMPLETE. Site
 | MM-0072 | renting-motorbike-old-quarter | 1.5 area-guides | PUBLISHED 2026-09-22 |
 | MM-0073 | renting-motorbike-tay-ho | 1.5 area-guides | PUBLISHED 2026-09-22 |
 | MM-0074 | renting-motorbike-ba-dinh | 1.5 area-guides | PUBLISHED 2026-09-22 |
-| MM-0075 | renting-motorbike-hanoi-winter | 1.5 area-guides | PUBLISHED 2026-09-22 |
+| MM-0075 | renting-motorbike-cau-giay | 1.5 area-guides | PUBLISHED 2026-09-22 |
 | MM-0076 | renting-motorbike-hai-ba-trung | 1.5 area-guides | PUBLISHED 2026-09-22 |
 | MM-0077 | renting-motorbike-dong-da | 1.5 area-guides | PUBLISHED 2026-09-22 |
 | MM-0078 | renting-motorbike-hoan-kiem | 1.5 area-guides | PUBLISHED 2026-09-22 |

@@ -32,11 +32,11 @@ Office traffic floods Pham Hung and Tran Duy Hung at rush hour; university traff
 
 ## Parking, the easy version
 
-Cau Giay is the easiest parking district in Hanoi: mega-malls (with large attended motorbike lots), office-tower basements, and organised campus lots. The general rules are in where-to-park-motorbike-hanoi, but here the mall lot is the default answer for almost any stop.
+Cau Giay has many organised parking options around its malls, office towers and campuses, though availability and conditions vary by location: mega-malls with large attended motorbike lots, office-tower basements, and organised campus lots. The general rules are in where-to-park-motorbike-hanoi; in this district, the mall lot is often a convenient default.
 
 ## Renting for Cau Giay
 
-Nguyen Tu's shop in Long Bien is across the river and roughly thirty minutes east in traffic; for daily commuting from Cau Giay, a monthly rental with a delivery arrangement to your address is the practical pattern — delivery is arranged case by case depending on location, within opening hours 09:00–21:00 (motorbike-rental-pickup-or-delivery-hanoi). Monthly rates and the commuting bike logic are in daily-weekly-monthly-motorbike-rental-hanoi and best-motorbike-for-commuting-hanoi.
+Nguyen Tu is based in Long Bien, across the city from Cau Giay; delivery may be arranged depending on location and prior arrangement during opening hours (09:00–21:00) — see motorbike-rental-pickup-or-delivery-hanoi. For daily commuting from Cau Giay, a monthly rental with an agreed delivery or pickup arrangement is the practical pattern. Monthly rates and the commuting bike logic are in daily-weekly-monthly-motorbike-rental-hanoi and best-motorbike-for-commuting-hanoi.
 
 ## Weekend use
 
@@ -44,4 +44,4 @@ From Cau Giay, the quick escapes run west: Hoa Lac direction, the Thang Long bou
 
 ## The one-line version
 
-Fast arterials, mall parking, university energy, and the easiest access to the western countryside. Cau Giay suits riders who commute seriously and escape westward.
+Fast arterials, mall parking, university energy, and good access to the western countryside. Cau Giay suits riders who commute seriously and escape westward.
