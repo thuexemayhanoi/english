@@ -140,7 +140,7 @@ function run(chunks, label) {
   check('sirius price', 'How much is a Sirius?', ['150,000 VND']);
   check('electric price', 'How much is an electric bike?', ['200,000 VND']);
   check('50cc price', 'How much is a 50cc?', ['No fixed price is published']);
-  check('airblade availability', 'Do you have an Air Blade today?', ['contact us to confirm current availability']);
+  check('airblade availability', 'Do you have an Air Blade today?', ['listed in Nguyen Tu', 'contact us to confirm current availability']);
   check('delivery', 'Can you deliver to Tay Ho?', ['may be available depending on location']);
   check('cards', 'Do you accept cards?', ['Card payment is not confirmed']);
   check('deposit', 'What is the deposit?', ['2,000,000–5,000,000 VND']);
@@ -172,6 +172,10 @@ function run(chunks, label) {
   const stock = ask('Do you have a Honda Wave today?');
   if (/contact us to confirm current availability/i.test(stock.html)) { pass++; results.push({ q: 'stock safety', ok: true }); }
   else { fail++; results.push({ q: 'stock safety', ok: false, ans: stock.html.slice(0, 110) }); }
+  // Availability answers must never imply confirmed current stock
+  const stock2 = ask('Is the Vision currently available?');
+  if (!/\bin stock\b|currently available|yes, .*(available|in stock)/i.test(stock2.html)) { pass++; results.push({ q: 'no-stock-overclaim', ok: true }); }
+  else { fail++; results.push({ q: 'no-stock-overclaim', ok: false, ans: stock2.html.slice(0, 110) }); }
 
   // Report
   console.log('=== Guide Assistant test: ' + label + ' ===');

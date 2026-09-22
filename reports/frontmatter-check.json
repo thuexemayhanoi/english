@@ -1,0 +1,11 @@
+{
+  "tool": "frontmatter-check",
+  "counts": {
+    "P0": 0,
+    "P1": 0,
+    "P2": 0,
+    "P3": 0
+  },
+  "blocking": 0,
+  "findings": []
+}

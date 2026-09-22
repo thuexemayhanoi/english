@@ -213,7 +213,7 @@
 
     // model availability question
     if (p.intents.availability && p.model) {
-      return { text: 'The ' + p.model + ' is one of the bikes Nguyen Tu rents, but current stock is not listed online. ' + av, model: p.model, intent: 'availability' };
+      return { text: p.model + ' is listed in Nguyen Tu\u2019s published rental information. ' + av, model: p.model, intent: 'availability' };
     }
     if (p.intents.availability && p.c50) {
       return { text: '50cc motorbikes have historically been offered. ' + av, intent: 'availability' };

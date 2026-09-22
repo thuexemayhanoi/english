@@ -1,6 +1,11 @@
-# MASTER CONTENT MATRIX — v3 (populated, provisional)
+# MASTER CONTENT MATRIX — v3 (populated)
 
-Status: PROPOSED — awaiting owner approval. NO articles written.
+Status: ACTIVE CONTENT MATRIX
+
+- 988 strong planned intents remain the planning framework for future articles.
+- 10 law/licence articles are already published and VERIFIED (legal verification completed 2026-09-21 — see docs/matrix/batch-1-status.md).
+- The remaining rows are production candidates according to batch order. They are NOT approved for immediate wholesale publication: each batch is written, QA'd and committed through the publishing workflow (README → PUBLISHING WORKFLOW).
+- docs/matrix/batch-1-status.md is the authoritative record for legal Batch 1 progress.
 
 Full row-level matrix: docs/matrix/master-matrix.csv (988 rows).
 Intent store with provenance: docs/data/intents.csv.
@@ -57,7 +62,7 @@ R1 legal (222 rows: government sources, last_reviewed mandatory) · R2 travel/ro
 
 ## Hard rules carried into production
 
-- Rental pricing published ONLY for: Honda Wave (150k/day), Honda Vision (200k/800k–1m/1.8m–2m), Honda Air Blade (200k/800k/1.4m), Honda Click & Yamaha Mio (150k/600k–700k/1m–1.2m). 50cc/electric: contact-only.
+- Rental pricing published ONLY for: Honda Wave (150k/day), Yamaha Sirius (150k/day), Honda Click (150k/600k–700k/1m–1.2m), Yamaha Mio (150k/600k–700k/1m–1.2m), Honda Vision (200k/800k–1m/1.8m–2m), Honda Air Blade (200k/800k/1.4m), E-Bike (200k/day; no week/month rate published). 50cc: no fixed published price — contact only. Never infer missing week/month rates; OWNER-FACTS pricing is authoritative.
 - Deposit 2–5m VND, late return 20k/hour, +full day after 6h, no insurance provided, no refund for early return — exact OWNER-FACTS wording.
 - No availability claims beyond "Contact us to confirm current availability."
 

@@ -250,6 +250,35 @@
     syncClear();
   }
 
+  // ---- Articles library: client-side filter (enhancement only; no JS = all guides visible) ----
+  var gInput = document.getElementById('guidesInput');
+  var gClear = document.getElementById('guidesClear');
+  var gNone = document.getElementById('guidesNoResults');
+  if (gInput) {
+    var gGroups = Array.prototype.slice.call(document.querySelectorAll('.topic-group'));
+    function applyGuideFilter() {
+      var q = gInput.value.trim().toLowerCase();
+      if (gClear) gClear.hidden = q.length === 0;
+      var anyVisible = false;
+      gGroups.forEach(function (g) {
+        var cards = g.querySelectorAll('.card');
+        var visible = 0;
+        Array.prototype.forEach.call(cards, function (card) {
+          var hay = card.getAttribute('data-search') || '';
+          var hit = !q || hay.indexOf(q) !== -1;
+          card.hidden = !hit;
+          if (hit) visible++;
+        });
+        g.hidden = q.length > 0 && visible === 0;
+        if (visible > 0) anyVisible = true;
+      });
+      if (gNone) gNone.hidden = !(q.length > 0 && !anyVisible);
+    }
+    if (gClear) gClear.addEventListener('click', function () { gInput.value = ''; gInput.focus(); applyGuideFilter(); });
+    gInput.addEventListener('input', applyGuideFilter);
+    applyGuideFilter();
+  }
+
   // Escape closes the contact sheet (single state flow: openSheet/closeSheet)
   document.addEventListener('keydown', function (e) {
     if (e.key !== 'Escape') return;

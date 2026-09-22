@@ -1,0 +1,116 @@
+{
+  "tool": "seo-audit",
+  "counts": {
+    "P0": 0,
+    "P1": 0,
+    "P2": 4,
+    "P3": 11
+  },
+  "findings": [
+    {
+      "severity": "P3",
+      "file": "_articles/1968-vienna-convention-idp-vietnam.md",
+      "url": "/articles/1968-vienna-convention-idp-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-licence-vietnam.md",
+      "url": "/articles/50cc-licence-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/a1-licence-vietnam-what-you-can-ride.md",
+      "url": "/articles/a1-licence-vietnam-what-you-can-ride/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/can-tourists-ride-motorbike-vietnam.md",
+      "url": "/articles/can-tourists-ride-motorbike-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/drink-driving-limits-motorbike-vietnam.md",
+      "url": "/articles/drink-driving-limits-motorbike-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/electric-bike-licence-vietnam.md",
+      "url": "/articles/electric-bike-licence-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/helmet-law-vietnam.md",
+      "url": "/articles/helmet-law-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/idp-vietnam-motorbike-rules.md",
+      "url": "/articles/idp-vietnam-motorbike-rules/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/idp-vietnam-motorbike-rules.md",
+      "url": "/articles/idp-vietnam-motorbike-rules/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-fines-vietnam-overview.md",
+      "url": "/articles/motorbike-fines-vietnam-overview/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/vietnam-motorbike-licence-classes-explained.md",
+      "url": "/articles/vietnam-motorbike-licence-classes-explained/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P2",
+      "file": "index.html",
+      "url": "/",
+      "issue": "missing title (site default used)",
+      "fix": "Add a title front-matter value"
+    },
+    {
+      "severity": "P2",
+      "file": "index.html",
+      "url": "/",
+      "issue": "missing meta description (site default used)",
+      "fix": "Add a description front-matter value"
+    },
+    {
+      "severity": "P2",
+      "file": "search.md",
+      "url": "/search/",
+      "issue": "missing meta description",
+      "fix": "Add a description front-matter value"
+    },
+    {
+      "severity": "P2",
+      "file": "search.md",
+      "url": "/search/",
+      "issue": "multiple H1 (layout title H1 + body H1)",
+      "fix": "Demote body H1 to H2"
+    }
+  ]
+}
