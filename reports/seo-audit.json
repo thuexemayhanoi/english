@@ -3,8 +3,8 @@
   "counts": {
     "P0": 0,
     "P1": 0,
-    "P2": 5,
-    "P3": 21
+    "P2": 9,
+    "P3": 51
   },
   "findings": [
     {
@@ -23,6 +23,13 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/a1-licence-cost-vietnam.md",
+      "url": "/articles/a1-licence-cost-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/a1-licence-vietnam-what-you-can-ride.md",
       "url": "/articles/a1-licence-vietnam-what-you-can-ride/",
       "issue": "meta description longer than 165 chars",
@@ -30,8 +37,22 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/b1-three-wheel-licence-vietnam.md",
+      "url": "/articles/b1-three-wheel-licence-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/can-tourists-ride-motorbike-vietnam.md",
       "url": "/articles/can-tourists-ride-motorbike-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/child-passengers-motorbike-vietnam.md",
+      "url": "/articles/child-passengers-motorbike-vietnam/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -65,6 +86,27 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/expat-motorbike-licence-vietnam.md",
+      "url": "/articles/expat-motorbike-licence-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/fast-electric-motorbike-licence-vietnam.md",
+      "url": "/articles/fast-electric-motorbike-licence-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/foreign-licence-exchange-documents-vietnam.md",
+      "url": "/articles/foreign-licence-exchange-documents-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/foreign-licence-exchange-vietnam.md",
       "url": "/articles/foreign-licence-exchange-vietnam/",
       "issue": "meta description longer than 165 chars",
@@ -72,8 +114,29 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/foreign-student-motorbike-licence-vietnam.md",
+      "url": "/articles/foreign-student-motorbike-licence-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/helmet-law-vietnam.md",
       "url": "/articles/helmet-law-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/how-to-get-a1-licence-vietnam.md",
+      "url": "/articles/how-to-get-a1-licence-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/idp-validity-period-vietnam.md",
+      "url": "/articles/idp-validity-period-vietnam/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -100,6 +163,20 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/lose-all-licence-points-vietnam.md",
+      "url": "/articles/lose-all-licence-points-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/lost-motorbike-licence-replacement-vietnam.md",
+      "url": "/articles/lost-motorbike-licence-replacement-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/minimum-age-ride-motorbike-vietnam.md",
       "url": "/articles/minimum-age-ride-motorbike-vietnam/",
       "issue": "meta description longer than 165 chars",
@@ -121,8 +198,50 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/motorbike-lane-rules-vietnam.md",
+      "url": "/articles/motorbike-lane-rules-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-learner-permit-vietnam.md",
+      "url": "/articles/motorbike-learner-permit-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-licence-points-system-vietnam.md",
+      "url": "/articles/motorbike-licence-points-system-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-licence-validity-renewal-vietnam.md",
+      "url": "/articles/motorbike-licence-validity-renewal-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/motorbike-passenger-rules-vietnam.md",
       "url": "/articles/motorbike-passenger-rules-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-speed-limits-vietnam.md",
+      "url": "/articles/motorbike-speed-limits-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbikes-on-expressway-vietnam.md",
+      "url": "/articles/motorbikes-on-expressway-vietnam/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -135,8 +254,78 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/non-1968-licence-vietnam.md",
+      "url": "/articles/non-1968-licence-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/old-licence-classes-after-2025-vietnam.md",
+      "url": "/articles/old-licence-classes-after-2025-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/overtaking-rules-motorbike-vietnam.md",
+      "url": "/articles/overtaking-rules-motorbike-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/phone-use-while-riding-vietnam.md",
+      "url": "/articles/phone-use-while-riding-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/ride-125cc-with-car-licence-vietnam.md",
+      "url": "/articles/ride-125cc-with-car-licence-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/riding-on-sidewalk-vietnam.md",
+      "url": "/articles/riding-on-sidewalk-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/right-turn-on-red-vietnam.md",
       "url": "/articles/right-turn-on-red-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/stopped-by-traffic-police-vietnam.md",
+      "url": "/articles/stopped-by-traffic-police-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/vietnam-a-licence-what-you-can-ride.md",
+      "url": "/articles/vietnam-a-licence-what-you-can-ride/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/vietnam-a1-licence-test.md",
+      "url": "/articles/vietnam-a1-licence-test/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/vietnam-licence-test-in-english.md",
+      "url": "/articles/vietnam-licence-test-in-english/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -149,8 +338,29 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/what-is-a-moped-vietnam-law.md",
+      "url": "/articles/what-is-a-moped-vietnam-law/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/which-countries-idp-valid-vietnam.md",
+      "url": "/articles/which-countries-idp-valid-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/wrong-way-riding-fine-vietnam.md",
       "url": "/articles/wrong-way-riding-fine-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/xe-dap-mai-rules-vietnam.md",
+      "url": "/articles/xe-dap-mai-rules-vietnam/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -184,8 +394,36 @@
     },
     {
       "severity": "P2",
-      "file": "_articles/foreign-licence-exchange-vietnam.md",
-      "url": "/articles/foreign-licence-exchange-vietnam/",
+      "file": "_articles/child-passengers-motorbike-vietnam.md",
+      "url": "/articles/child-passengers-motorbike-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/motorbike-learner-permit-vietnam.md",
+      "url": "/articles/motorbike-learner-permit-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/phone-use-while-riding-vietnam.md",
+      "url": "/articles/phone-use-while-riding-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/ride-125cc-with-car-licence-vietnam.md",
+      "url": "/articles/ride-125cc-with-car-licence-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/stopped-by-traffic-police-vietnam.md",
+      "url": "/articles/stopped-by-traffic-police-vietnam/",
       "issue": "orphan article (nothing links to it)",
       "fix": "Add it to a hub or related-guides list"
     }

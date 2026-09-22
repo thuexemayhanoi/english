@@ -72,3 +72,42 @@ Published 2026-09-22. All verified against the full texts of Law 36/2024/QH15, D
 | no-licence-fine-vietnam | 11.4 fines-penalties | VERIFIED 2026-09-22 |
 
 Key facts clause-verified in this slice: rider ages (Law 36/2024 Art. 59: 16 mopeds, 18 A1); 16-to-under-18 on licence-required machines 400–600k (Decree 168 Art. 18(4)(a), wording clarified by Decree 238/2026 from 2026-08-15); owner lending to an unqualified rider 8–10m individual / 16–20m organisation (Art. 32(10)); unlicensed riding 2–4m up to 125 cc / 6–8m above (Art. 18(5)(b),(7)(b)); document carriage 200–300k per missing paper (Art. 18(2)); compulsory third-party insurance required (Law Art. 56 + Decree 67/2023) with 200–300k fine (Art. 18(2)); one-passenger rule with narrow two-person exceptions (Law Art. 33; Decree 168 Art. 7(2) 400–600k); right-turn-on-red only by police signal, auxiliary sign or dedicated lane (Law Art. 11 precedence + QCVN 41/2024); wrong-way riding 4–6m (Art. 7(7)); post-accident duties stop/warn/preserve/help/report (Law Art. 80) with accident-causing violations 10–14m (Art. 7(10)).
+
+## Slice 3 (2026-09-22): 30 further VERIFIED legal articles
+
+Published 2026-09-22 as one batch commit (per owner instruction to move from 10-article slices to 30-50 article batches). All facts reused the verified legal baseline above or were clause-verified against the full texts of Law 36/2024/QH15, Decree 168/2024/NĐ-CP, Circular 12/2025/TT-BCA, Circular 14/2025/TT-BXD, Circular 154/2025/TT-BTC, Circular 65/2024/TT-BTC, Circular 31/2019/TT-BGTVT and Decree 238/2026/NĐ-CP (chinhphu.vn / gov.vn portals). The matrix status column is now 50 published / 16 proposed for cluster 11.
+
+| Article slug | Matrix cluster/subcluster | Status |
+|---|---|---|
+| how-to-get-a1-licence-vietnam | 11.1 licence-system | VERIFIED 2026-09-22 |
+| vietnam-a1-licence-test | 11.1 licence-system | VERIFIED 2026-09-22 |
+| motorbike-licence-validity-renewal-vietnam | 11.1 licence-system | VERIFIED 2026-09-22 |
+| lost-motorbike-licence-replacement-vietnam | 11.1 licence-system | VERIFIED 2026-09-22 |
+| old-licence-classes-after-2025-vietnam | 11.1 licence-system | VERIFIED 2026-09-22 |
+| b1-three-wheel-licence-vietnam | 11.1 licence-system | VERIFIED 2026-09-22 |
+| ride-125cc-with-car-licence-vietnam | 11.1 licence-system | VERIFIED 2026-09-22 |
+| vietnam-a-licence-what-you-can-ride | 11.1 licence-system | VERIFIED 2026-09-22 |
+| motorbike-licence-points-system-vietnam | 11.1 licence-system | VERIFIED 2026-09-22 |
+| lose-all-licence-points-vietnam | 11.1 licence-system | VERIFIED 2026-09-22 |
+| fast-electric-motorbike-licence-vietnam | 11.1 licence-system | VERIFIED 2026-09-22 |
+| what-is-a-moped-vietnam-law | 11.1 licence-system | VERIFIED 2026-09-22 |
+| xe-dap-mai-rules-vietnam | 11.1 licence-system | VERIFIED 2026-09-22 |
+| motorbike-learner-permit-vietnam | 11.1 licence-system | VERIFIED 2026-09-22 |
+| a1-licence-cost-vietnam | 11.1 licence-system | VERIFIED 2026-09-22 |
+| expat-motorbike-licence-vietnam | 11.2 foreigners | VERIFIED 2026-09-22 |
+| foreign-licence-exchange-documents-vietnam | 11.2 foreigners | VERIFIED 2026-09-22 |
+| foreign-student-motorbike-licence-vietnam | 11.2 foreigners | VERIFIED 2026-09-22 |
+| which-countries-idp-valid-vietnam | 11.2 foreigners | VERIFIED 2026-09-22 |
+| idp-validity-period-vietnam | 11.2 foreigners | VERIFIED 2026-09-22 |
+| non-1968-licence-vietnam | 11.2 foreigners | VERIFIED 2026-09-22 |
+| vietnam-licence-test-in-english | 11.2 foreigners | VERIFIED 2026-09-22 |
+| child-passengers-motorbike-vietnam | 11.3 traffic-rules | VERIFIED 2026-09-22 |
+| stopped-by-traffic-police-vietnam | 11.3 traffic-rules | VERIFIED 2026-09-22 |
+| motorbikes-on-expressway-vietnam | 11.3 traffic-rules | VERIFIED 2026-09-22 |
+| motorbike-lane-rules-vietnam | 11.3 traffic-rules | VERIFIED 2026-09-22 |
+| riding-on-sidewalk-vietnam | 11.3 traffic-rules | VERIFIED 2026-09-22 |
+| phone-use-while-riding-vietnam | 11.3 traffic-rules | VERIFIED 2026-09-22 |
+| motorbike-speed-limits-vietnam | 11.3 traffic-rules | VERIFIED 2026-09-22 |
+| overtaking-rules-motorbike-vietnam | 11.3 traffic-rules | VERIFIED 2026-09-22 |
+
+Key facts clause-verified in this slice: A1/A licences have no expiry date (Law 36/2024 Art. 57; renewed only on card damage/loss); A1 test 25 questions, pass 21/25, class A pass 23/25, điểm liệt safety questions fail the paper (TT 12/2025/TT-BCA Phụ lục II); minimum training hours fixed by TT 14/2025/TT-BXD from 1 September 2025 (class A: 32 hours including 20 theory; A1 a shorter programme); exam fees 60,000 VND theory / 70,000 VND practical per attempt, licence issuance fee reduced by 20,000 VND against the previous schedule (TT 154/2025/TT-BTC, effective 2026-01-01); 12-point licence system with restoration after ≥6 months via knowledge test (Law Art. 61 + TT 65/2024); expressway ban on motorbikes with 4-6m fine and 3-5 month suspension (Law Art. 25 + Decree 168 Art. 7(9)); speed limits urban 60 / rural 70 motorbikes, mopeds 40 (TT 31/2019/TT-BGTVT as amended); lane discipline and right-overtake fine 600-800k (Decree 168 Art. 7(5)); lane splitting not separately regulated; no learner permit class for motorbikes (training centres issue practice documentation only); licence exchange requires ≥3 months residence and a certified translation, no English-language test available (TT 12/2025/TT-BCA).

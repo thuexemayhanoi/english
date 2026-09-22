@@ -67,8 +67,8 @@ Date: 2026-09-22
 - Jekyll site live on GitHub Pages, baseurl /english, English-only UI.
 - Theme toggle (Light/Dark/Auto), parent-child header navigation (desktop dropdowns + mobile accordion panel, keyboard accessible), 4-item mobile bottom nav (Home/Guides/Search/Contact -> /contact/), client-side search, breadcrumbs, footer as secondary site map, contact CTAs.
 - Utility pages live: /about/, /faq/ (52-question customer FAQ), /contact/ (embedded Google Maps for the verified location), /privacy/, /terms/ — all indexed, in sitemap, linked from nav/footer. About/Privacy/Terms expanded into substantial trust pages (2026-09-22, changelog 15).
-- 20 published articles, all in cluster law-licences, all VERIFIED (Slice 1 verified 2026-09-21, Slice 2 verified 2026-09-22 — see docs/matrix/batch-1-status.md).
-- 14 topic hubs live; 13 currently show the empty state ("Guides for this topic are being prepared."); law-licences hub lists all 10 articles.
+- 50 published articles, all in cluster law-licences, all VERIFIED (Slice 1: 2026-09-21; Slice 2: 2026-09-22; Slice 3: 2026-09-22 — see docs/matrix/batch-1-status.md).
+- 14 topic hubs live; 13 currently show the empty state ("Guides for this topic are being prepared."); law-licences hub lists all 50 articles.
 - /articles/ is a scalable guide library: client-side filter (enhancement only), all 14 topic cards always shown with guide counts, published guides grouped by topic, fully crawlable without JS.
 - Homepage: app dashboard (hero + search, quick-action grid, parent section cards) plus a "Featured rental bikes" showcase (6 cards with published daily prices and availability-safe notes).
 - Guide Assistant V2 (commit 0fbf1c8e78777b3f05b413fac7c35789eb142928): deterministic client-side retrieval over a chunk-level knowledge index (article sections + all 52 FAQ Q&A units), hybrid ranking, multi-turn page-memory context, typo handling, business-fact answers from _data/assistant-business.yml; no external AI/API, no persistence.
@@ -78,7 +78,7 @@ Date: 2026-09-22
 
 - Hub architecture: /articles/ is the all-guides index; the law hub is /topics/law-licences/ only; hub links resolved deterministically by permalink (commit 410750f0).
 - Malformed double-quoted YAML in 9 article front matters fixed (title/description only, no content changes).
-- Sitemap covers all 32 indexable URLs (verified against live sitemap and build report).
+- Sitemap covers all indexable URLs (72 at the Slice-3 batch; verified against the build report).
 - Empty hub states render intentionally; homepage no longer looks broken.
 - Footer accordions collapsed by default; law link wall reduced to hub + 4 featured + All law guides.
 - Quality toolkit: 8 scripts, zero dependencies, all run clean (P0=0, P1=0, P2=4, P3=11 on current content).
@@ -89,19 +89,19 @@ Date: 2026-09-22
 # OPEN ISSUES
 
 1. 13 topic clusters have zero published articles (planned content, not a defect — Batch 1 law/licence production continues).
-2. 5 P2 warnings: homepage relies on site defaults (title/description); search.md missing meta description; body H1 alongside layout title H1 on search.md. (The former about.md P2s were resolved by the trust-page expansion.)
-3. 21 P3 recommendations: meta descriptions longer than 165 chars on the 10 legal articles; one title over 65 chars.
+2. 9 P2 warnings: homepage relies on site defaults (title/description); search.md missing meta description; body H1 alongside layout title H1 on search.md; long meta descriptions on new articles (owner pruning pass planned).
+3. 51 P3 recommendations: mostly meta descriptions longer than 165 chars on the legal articles; long titles; owner pruning pass planned.
 4. Full 6-12 month GSC export not yet available for matrix prioritization (documented in SOURCE-MAP.md).
 
 # MASTER MATRIX STATE
 
-- docs/matrix/master-matrix.csv currently holds 147 committed rows: 81 rental-cluster rows plus the complete 66-row cluster-11 law/licence slice (authored 2026-09-22; 20 published / 46 proposed). The 988-intent plan in docs/MASTER-MATRIX.md remains the planning framework; rows for the remaining clusters are authored batch by batch, before each batch is written. Remaining rows are production candidates according to batch order (not approved for immediate wholesale publication).
+- docs/matrix/master-matrix.csv currently holds 147 committed rows: 81 rental-cluster rows plus the complete 66-row cluster-11 law/licence slice (authored 2026-09-22; 50 published / 16 proposed). The 988-intent plan in docs/MASTER-MATRIX.md remains the planning framework; rows for the remaining clusters are authored batch by batch, before each batch is written. Remaining rows are production candidates according to batch order (not approved for immediate wholesale publication).
 - Cluster order for batches: law-licences (batch 1, 66 intents) -> rental -> monthly-rental -> safety -> maintenance -> then model/travel clusters.
 - docs/matrix/batch-1-status.md is the authoritative publish/review status for batch 1.
 
 # CONTENT BATCH STATE
 
-- Batch 1 (law-licences): 20 of 66 cluster-11 intents published; all 20 VERIFIED (Slice 1: 2026-09-21, Slice 2: 2026-09-22). 46 proposed cluster-11 rows remain, processed in reviewed slices of ~10 with per-article primary-source verification.
+- Batch 1 (law-licences): 50 of 66 cluster-11 intents published; all 50 VERIFIED (Slice 1: 2026-09-21; Slices 2-3: 2026-09-22). 16 proposed cluster-11 rows remain (mostly 11.4 fines-penalties plus remaining 11.3 traffic-rules rows), produced in verified batches of 30-50 reusing the clause-verified legal baseline.
 - Batches 2+: not started.
 - _queue/: empty (no drafts pending).
 
@@ -156,9 +156,11 @@ Run locally before each batch commit:
 
 # NEXT RECOMMENDED STEP
 
-Batch 1 Slice 2 complete (2026-09-22): cluster-11 matrix slice authored, 10 further VERIFIED legal articles published, state docs synchronized. Next: continue Batch 1 with the next ~10 cluster-11 rows (or the batch the owner prioritizes), same per-article verification workflow.
+Batch 1 Slice 3 complete (2026-09-22): 30 further VERIFIED legal articles published in one batch (50 of 66 cluster-11 intents done). Next: finish the remaining 16 cluster-11 rows (fines-penalties plus remaining traffic-rules intents) in one final Batch 1 commit, then move to the rental cluster per batch order.
 
 # CHANGE LOG
+
+- 2026-09-22 (19): Batch 1 Slice 3 — 30-article law/licence batch (owner-instructed move from 10-article slices to 30-50 article production batches). Published 30 new VERIFIED legal articles in _articles/, reusing the clause-verified legal baseline from batch-1-status.md and verifying new/amendment-dependent facts against primary texts: licence-system (15): how-to-get-a1-licence-vietnam, vietnam-a1-licence-test, motorbike-licence-validity-renewal-vietnam, lost-motorbike-licence-replacement-vietnam, old-licence-classes-after-2025-vietnam, b1-three-wheel-licence-vietnam, ride-125cc-with-car-licence-vietnam, vietnam-a-licence-what-you-can-ride, motorbike-licence-points-system-vietnam, lose-all-licence-points-vietnam, fast-electric-motorbike-licence-vietnam, what-is-a-moped-vietnam-law, xe-dap-mai-rules-vietnam, motorbike-learner-permit-vietnam, a1-licence-cost-vietnam; foreigners (7): expat-motorbike-licence-vietnam, foreign-licence-exchange-documents-vietnam, foreign-student-motorbike-licence-vietnam, which-countries-idp-valid-vietnam, idp-validity-period-vietnam, non-1968-licence-vietnam, vietnam-licence-test-in-english; traffic-rules (8): child-passengers-motorbike-vietnam, stopped-by-traffic-police-vietnam, motorbikes-on-expressway-vietnam, motorbike-lane-rules-vietnam, riding-on-sidewalk-vietnam, phone-use-while-riding-vietnam, motorbike-speed-limits-vietnam, overtaking-rules-motorbike-vietnam. New clause-verified facts: A1/A licences issued with no expiry (Law 36/2024 Art. 57); A1 theory 25 questions pass 21/25, class A pass 23/25, điểm liệt safety questions fail the paper (TT 12/2025/TT-BCA); fixed minimum training hours from 1 Sep 2025, class A 32h incl. 20 theory (TT 14/2025/TT-BXD); exam fees 60k theory / 70k practical per attempt, issuance fee cut 20k (TT 154/2025/TT-BTC from 2026-01-01); 12-point system with restoration path via knowledge test after ≥6 months (Law Art. 61 + TT 65/2024); expressway ban 4-6m + 3-5 month suspension; speed limits 60/50 urban, 70/60 rural, moped 40 (TT 31/2019); lane/overtake discipline fines 600-800k (Decree 168 Art. 7(5)); no motorbike learner-permit class exists; exchange dossier requires certified translation + 3-month residence, no English-language test (TT 12/2025). Matrix status column synced (50 published / 16 proposed cluster-11). State docs: batch-1-status.md Slice 3 table, MASTER-MATRIX.md counts, README CURRENT/OPEN ISSUES/MASTER MATRIX/CONTENT BATCH/NEXT STEP. QA: P0=0, blocking=0, broken links=0, sitemap gaps=0, frontmatter errors=0, gate PASS; assistant suite 25/25 (294 chunks, 50-article index).
 
 - 2026-09-22 (18): Batch 1 Slice 2 — law/licence content pass. Authored the complete cluster-11 matrix slice in docs/matrix/master-matrix.csv (66 rows across 11.1 licence-system / 11.2 foreigners / 11.3 traffic-rules / 11.4 fines-penalties; 10 Slice-1 rows recorded as published, 56 proposed, closest/diff recorded per row; repaired pre-existing truncated MM-0081 row and an embedded newline in MM-0005). Published 10 new VERIFIED legal articles (all clause-verified against the full texts of Law 36/2024/QH15, Decree 168/2024/NĐ-CP, Decree 238/2026/NĐ-CP and Circular 12/2025/TT-BCA on chinhphu.vn / gov.vn portals): minimum-age-ride-motorbike-vietnam, foreign-licence-exchange-vietnam, documents-to-carry-motorbike-vietnam, lending-motorbike-unlicensed-rider-vietnam, motorbike-passenger-rules-vietnam, right-turn-on-red-vietnam, wrong-way-riding-fine-vietnam, compulsory-motorbike-insurance-vietnam, motorbike-accident-duties-vietnam, no-licence-fine-vietnam. Key verified facts: ages 16 (moped) / 18 (A1) with the 400-600k fine for 16-to-under-18s on licence-required machines (Decree 238/2026 clarified wording, effective 2026-08-15); owner-side lending fine 8-10m individual / 16-20m organisation (Art. 32(10)); unlicensed riding 2-4m up to 125cc / 6-8m above (Art. 18(5)(b),(7)(b)); missing documents 200-300k each (Art. 18(2)); compulsory third-party insurance (Law Art. 56 + Decree 67/2023) with 200-300k fine; one-passenger rule with narrow exceptions (Art. 33; 400-600k); right-on-red only by police signal, auxiliary sign or dedicated lane; wrong-way riding 4-6m (Art. 7(7)); post-accident duties stop/warn/preserve/help/report (Art. 80) with accident-causing violations 10-14m (Art. 7(10)). State docs synchronized: batch-1-status.md Slice 2 table, MASTER-MATRIX.md row-count correction (147 committed rows; 988-intent plan remains the framework), README CURRENT/OPEN ISSUES/MASTER MATRIX/CONTENT BATCH/NEXT STEP sections. QA: P0=0, blocking=0, broken links=0, sitemap gaps=0, gate PASS; assistant suite 25/25 (20-article index).
 
