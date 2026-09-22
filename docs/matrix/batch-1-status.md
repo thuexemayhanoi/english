@@ -111,3 +111,32 @@ Published 2026-09-22 as one batch commit (per owner instruction to move from 10-
 | overtaking-rules-motorbike-vietnam | 11.3 traffic-rules | VERIFIED 2026-09-22 |
 
 Key facts clause-verified in this slice: A1/A licences have no expiry date (Law 36/2024 Art. 57; renewed only on card damage/loss); A1 test 25 questions, pass 21/25, class A pass 23/25, điểm liệt safety questions fail the paper (TT 12/2025/TT-BCA Phụ lục II); minimum training hours fixed by TT 14/2025/TT-BXD from 1 September 2025 (class A: 32 hours including 20 theory; A1 a shorter programme); exam fees 60,000 VND theory / 70,000 VND practical per attempt, licence issuance fee reduced by 20,000 VND against the previous schedule (TT 154/2025/TT-BTC, effective 2026-01-01); 12-point licence system with restoration after ≥6 months via knowledge test (Law Art. 61 + TT 65/2024); expressway ban on motorbikes with 4-6m fine and 3-5 month suspension (Law Art. 25 + Decree 168 Art. 7(9)); speed limits urban 60 / rural 70 motorbikes, mopeds 40 (TT 31/2019/TT-BGTVT as amended); lane discipline and right-overtake fine 600-800k (Decree 168 Art. 7(5)); lane splitting not separately regulated; no learner permit class for motorbikes (training centres issue practice documentation only); licence exchange requires ≥3 months residence and a certified translation, no English-language test available (TT 12/2025/TT-BCA).
+
+## Slice 4 / Final Batch 1 (2026-09-22): last 16 VERIFIED law/licence articles — cluster 11 complete
+
+Published 2026-09-22 as one batch commit (66 of 66 cluster-11 intents published; 0 proposed). All facts clause-verified against the full texts of Law 36/2024/QH15, Decree 168/2024/NĐ-CP, Decree 118/2021/NĐ-CP, the Law on Handling Administrative Violations 68/2012/QH13 (as amended) and Circular 31/2019/TT-BGTVT (chinhphu.vn / thuvienphapluat.vn full texts).
+
+| Article slug | Matrix cluster/subcluster | Status |
+|---|---|---|
+| traffic-light-rules-vietnam | 11.3 traffic-rules | VERIFIED 2026-09-22 |
+| lane-splitting-legal-vietnam | 11.3 traffic-rules | VERIFIED 2026-09-22 |
+| motorbike-required-equipment-vietnam | 11.3 traffic-rules | VERIFIED 2026-09-22 |
+| motorbike-night-lights-vietnam | 11.3 traffic-rules | VERIFIED 2026-09-22 |
+| motorbike-bus-lanes-vietnam | 11.3 traffic-rules | VERIFIED 2026-09-22 |
+| fake-licence-penalties-vietnam | 11.4 fines-penalties | VERIFIED 2026-09-22 |
+| underage-riding-penalties-vietnam | 11.4 fines-penalties | VERIFIED 2026-09-22 |
+| riding-without-number-plates-vietnam | 11.4 fines-penalties | VERIFIED 2026-09-22 |
+| leaving-accident-scene-vietnam | 11.4 fines-penalties | VERIFIED 2026-09-22 |
+| speeding-fines-motorbike-vietnam | 11.4 fines-penalties | VERIFIED 2026-09-22 |
+| red-light-fine-vietnam | 11.4 fines-penalties | VERIFIED 2026-09-22 |
+| unregistered-motorbike-fine-vietnam | 11.4 fines-penalties | VERIFIED 2026-09-22 |
+| expired-licence-fine-vietnam | 11.4 fines-penalties | VERIFIED 2026-09-22 |
+| riding-while-suspended-vietnam | 11.4 fines-penalties | VERIFIED 2026-09-22 |
+| how-to-pay-traffic-fine-vietnam | 11.4 fines-penalties | VERIFIED 2026-09-22 |
+| police-impound-motorbike-vietnam | 11.4 fines-penalties | VERIFIED 2026-09-22 |
+
+Key facts clause-verified in this slice: signal priority order and green/yellow/red meanings (Law 36/2024 Art. 11); lane splitting not separately regulated (no dedicated clause; falls under Art. 13 lane rules); mandatory equipment bands (Decree 168 Art. 14(1) 400-600k: horn, mirrors, lights, brakes, plates); riding unlit 18:00-06:00 200-400k (Art. 7(2)(g)); dedicated lanes closed to other vehicles (Law Art. 13(4)); overtaking on the left with narrow-road exceptions (Law Art. 14); speeding bands 5-10 km/h 400-600k, 10-20 km/h 800k-1M, over 20 km/h 6-8M + 4 points, organised group speeding 8-10M + 10-12 month suspension (Art. 7(2)(b), (4)(a), (8)(a), (9)(b), (12)(b), (13)); red light 4-6M + 4 points (Art. 7(7)(c), (13)(c)); wrong lane 600-800k + 4 points (Art. 7(5)(d)); right-side overtake 600-800k (Art. 7(5)(đ)); wrong-way/sidewalk 4-6M + 2 points (Art. 7(7)(a), (13)(a)); hit-and-run 8-10M + 6 points (Art. 7(9)(c), (13)); accident-causing 10-14M + 10 points (Art. 7(10), (13)); no plates 4-6M with fake-plate confiscation (Art. 14(3), (5)(a)); registration defects 2-3M (Art. 14(2)); origin-unprovable vehicle confiscation possible (Art. 14(5)(b)); underage bands: reprimand under 16, 400-600k for 16-under-18 on licence-required machines (Art. 18(1), (4)(a)); invalid/no licence 2-4M ≤125cc / 6-8M above (Art. 18(5)(a), (7)(b)); expressway ban on motorbikes 4-6M + 6 points, no suspension (Art. 7(7)(b), (13)(c) as worded); vehicle holding grounds list (Art. 48 incl. 48(3) papers-not-produced holding); fine payment deadline 10 days from decision receipt (Law XLVPHC Art. 78), payment forms Treasury/bank cash, transfer, postal (Decree 118/2021 Art. 20), instalments ≤6 months, ≤3 instalments, first ≥40% (Art. 79); A1/A/B1 licences have no expiry (Law Art. 57(5)).
+
+Corrections made to previously published articles during final verification (citation accuracy, same commit): motorbike-lane-rules-vietnam, overtaking-rules-motorbike-vietnam and wrong-way-riding-fine-vietnam cited repealed-Law article numbers (Art. 30) where Law 36/2024's renumbered articles apply (Art. 13, 14, 10); motorbike-speed-limits-vietnam misstated the Decree 168 speeding bands; motorbikes-on-expressway-vietnam claimed a 3-5 month suspension that Art. 7 does not attach to the motorbike expressway ban (points deduction only); motorbike-fines-vietnam-overview had incorrect point values; no-licence-fine-vietnam mislabeled a source clause; documents-to-carry-motorbike-vietnam overstated Art. 18(2) (insurance fine applies to all riders; the not-carrying fine applies to transport-business riders, private riders fall to Art. 48(3) holding).
+
+Batch 1 result: 66 published law/licence articles, all 66 cluster-11 matrix rows published, 0 proposed. Cluster 11 is COMPLETE.

@@ -1,7 +1,7 @@
 ---
 title: "What Documents Must You Carry While Riding in Vietnam"
 slug: documents-to-carry-motorbike-vietnam
-description: "Documents a motorbike rider must carry in Vietnam under Law 36/2024/QH15: an appropriate licence, the vehicle registration certificate and compulsory insurance, with 200,000–300,000 VND fines for each missing document under Decree 168/2024/NĐ-CP."
+description: "Documents a motorbike rider must carry in Vietnam under Law 36/2024/QH15: an appropriate licence, the vehicle registration certificate and compulsory insurance. Riding without valid insurance costs 200,000-300,000 VND; riders who cannot produce papers at a stop risk the bike being held until they do."
 category: law-licences
 tags:
   - "documents"
@@ -20,7 +20,7 @@ last_reviewed: 2026-09-22
 review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 58 (documents drivers must carry)"
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 18(2) (fines for not carrying documents)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 18(2) (insurance/paperwork fines), Article 48(3) (unable to produce papers at a stop)"
   - "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650 — Ministry of Public Security summary of common motorbike violations and fines"
 internal_link_targets: "compulsory-motorbike-insurance-vietnam, idp-vietnam-motorbike-rules, motorbike-fines-vietnam-overview, lending-motorbike-unlicensed-rider-vietnam"
 ---
@@ -37,13 +37,13 @@ The compulsory insurance certificate proves the bike carries the mandatory civil
 
 ## The fines
 
-Under Article 18(2) of Decree 168/2024/NĐ-CP, a motorbike rider who cannot produce a required document faces a fine of 200,000–300,000 VND per missing paper, and the fines stack when several are missing. The mechanism is deliberately simple: forgetting your licence costs the same as forgetting insurance or the registration copy.
+Decree 168/2024/NĐ-CP prices the paperwork mistakes unevenly, and the distinction matters. Riding without a valid compulsory-insurance certificate is fined 200,000–300,000 VND for any motorbike rider (Article 18(2)(b)). The same 200,000–300,000 band applies to transport-business riders who fail to carry their licence or registration (Article 18(2)(c),(d)). A private rider who cannot produce a licence or registration at a stop is treated under Article 48(3) of the decree: the officer records a violation for the missing paper and the bike can be held until the rider produces the document within the appointment stated on the record — the document exists somewhere, but you have to go and get it.
 
 Distinct and much heavier penalties apply for different situations: having no licence at all (millions of VND), or letting someone unlicensed ride your bike (a fine on the owner). Not carrying is the cheap version of the mistake; not having is the expensive one.
 
 ## Practical notes for renters and visitors
 
-Check before leaving the shop that the registration copy and insurance certificate ride with the bike. Tourists on an IDP should carry the permit and their national licence together — the permit alone is not enough, and IDP riders without the national licence face the same 200,000–300,000 VND band when the home licence is missing.
+Check before leaving the shop that the registration copy and insurance certificate ride with the bike. Tourists on an IDP should carry the permit and their national licence together — the permit alone is not enough, and riding without the national licence that the permit must be paired with is treated in the same band as riding with no licence at all (Article 18(5)(b)).
 
 Papers integrated into the VNeID e-identification account are developing as an alternative to physical carriage, but until a checkpoint confirms it works for your situation, the paper in the pocket is still the safe answer.
 

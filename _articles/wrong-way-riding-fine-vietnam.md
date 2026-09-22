@@ -19,7 +19,7 @@ last_reviewed: 2026-09-22
 review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 7(7) (fine for riding against the permitted direction)"
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 30 (rules on direction of travel)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 10 (general rules: keep to the right, correct lane and direction)"
   - "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650 — Ministry of Public Security summary of Article 7 fines for motorbike riders"
 internal_link_targets: "right-turn-on-red-vietnam, motorbike-fines-vietnam-overview, motorbike-passenger-rules-vietnam, documents-to-carry-motorbike-vietnam"
 ---
@@ -28,7 +28,7 @@ Riding into oncoming traffic — the wrong way up a one-way street, or against t
 
 ## The rule and the fine
 
-Article 30 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires vehicles to travel in the permitted direction of the road. Article 7(7) of the decree puts the penalty at 4–6 million VND for a motorbike rider who rides against it, deducts licence points, and raises the consequences sharply when the manoeuvre causes an accident — the 10,000,000–14,000,000 VND band applies to violations that cause a crash, and criminal liability can follow where someone is injured.
+Article 10 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires every road user to travel on the right in the direction of travel. Article 7(7) of the decree puts the penalty at 4–6 million VND for a motorbike rider who rides against it, deducts licence points, and raises the consequences sharply when the manoeuvre causes an accident — the 10,000,000–14,000,000 VND band applies to violations that cause a crash, and criminal liability can follow where someone is injured.
 
 ## Why the fine is that high
 

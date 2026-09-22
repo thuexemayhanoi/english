@@ -41,7 +41,7 @@ Vietnam's motorbike fines were raised sharply by Decree 168/2024/NĐ-CP, which t
 | Same licence offences on bigger bikes or three-wheelers | Art. 18(7) | 6,000,000 – 8,000,000 |
 | Accident-causing conduct (failing to observe, wrong manoeuvre, speeding or lane violations causing a crash) | Art. 7(10) | 10,000,000 – 14,000,000 |
 
-Beyond the money, licence points are deducted (4 points for red lights, wrong-way or sidewalk riding; 4 points for the lowest alcohol band; 10 points for the 50–80 mg band), and the highest alcohol band also carries a 22–24 month licence suspension (Art. 7(12)(c), (13)). Riders under 16 get a warning; 16-to-under-18-year-olds on a 50cc-or-over motorbike are fined 400,000–600,000 VND (Art. 18(1), (4)(a)).
+Beyond the money, licence points are deducted (4 points for red lights; 2 points for wrong-way or sidewalk riding; 4 points for the lowest alcohol band; 10 points for the 50–80 mg band), and the highest alcohol band also carries a 22–24 month licence suspension (Art. 7(12)(c), (13)). Riders under 16 get a warning; 16-to-under-18-year-olds on a 50cc-or-over motorbike are fined 400,000–600,000 VND (Art. 18(4)(a)).
 
 ## Points to understand
 

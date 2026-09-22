@@ -1,7 +1,7 @@
 ---
 title: "Motorbike Lane Rules in Vietnam"
 slug: motorbike-lane-rules-vietnam
-description: "Which lanes motorbikes may use in Vietnam under Article 30 of Law 36/2024/QH15: stay in the correct lane, never cross the median, and expect a 600,000-800,000 VND fine for wrong-lane riding."
+description: "Which lanes motorbikes may use in Vietnam under Article 13 of Law 36/2024/QH15: stay in the correct lane, never cross the median, and expect a 600,000-800,000 VND fine for wrong-lane riding."
 category: law-licences
 tags:
   - "lanes"
@@ -17,13 +17,13 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 review_status: VERIFIED
 sources:
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 30 (lane and direction rules)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 13 (lane use rules)"
   - "https://thuvienphapluat.vn/ma-so-thue/phap-luat-thue/lan-lan-xe-may-phat-bao-nhieu-2025-theo-nghi-dinh-168-nhung-loai-xe-gi-khong-phai-dong-phi-duong-bo-826901-195238.html — Thư viện pháp luật: wrong-lane fines for motorbikes under Decree 168 (điểm d khoản 3 Điều 7, 600,000-800,000 VND)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 7(3)(d) (wrong-lane fine)"
 internal_link_targets: "wrong-way-riding-fine-vietnam, overtaking-rules-motorbike-vietnam, motorbike-speed-limits-vietnam, motorbike-fines-vietnam-overview, right-turn-on-red-vietnam"
 ---
 
-Motorbikes choose lanes by rule, not by gap. Article 30 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires every vehicle to travel in the correct part of the carriageway and the correct lane for its class — and the fine schedule prices the mistake at 600,000–800,000 VND for wrong-lane riding under Article 7(3)(d) of Decree 168/2024/NĐ-CP, with point deduction attached.
+Motorbikes choose lanes by rule, not by gap. Article 13 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires every vehicle to travel in the correct part of the carriageway and the correct lane for its class — and the fine schedule prices the mistake at 600,000–800,000 VND for wrong-lane riding under Article 7(3)(d) of Decree 168/2024/NĐ-CP, with point deduction attached.
 
 ## The basics
 

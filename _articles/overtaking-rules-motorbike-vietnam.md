@@ -18,7 +18,7 @@ last_reviewed: 2026-09-22
 review_status: VERIFIED
 sources:
   - "https://vtcnews.vn/xe-may-vuot-ben-phai-khi-khong-duoc-phep-bi-phat-bao-nhieu-tien-ar924082.html — VTC News: fine for overtaking on the right when not permitted (Decree 168/2024, 600,000-800,000 VND)"
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 30 (overtaking and lane rules)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 14 (overtaking rules)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 7 (overtaking violations)"
 internal_link_targets: "motorbike-lane-rules-vietnam, wrong-way-riding-fine-vietnam, motorbike-speed-limits-vietnam, right-turn-on-red-vietnam, motorbike-fines-vietnam-overview"
 ---

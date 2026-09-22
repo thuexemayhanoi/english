@@ -31,7 +31,7 @@ In urban areas (khu vực đông dân cư): 60 km/h on dual carriageways and one
 
 ## What speeding costs
 
-Under Decree 168/2024/NĐ-CP, motorbike speeding is banded by how far over the limit: up to 10 km/h over costs 400,000–600,000 VND; 10 to 20 km/h over costs 600,000–800,000 VND with points; more than 20 km/h over escalates into the millions with licence suspension measured in months, and group speeding — riding in a pack above the limit — carries its own heavier band. Speeding that causes an accident lands in the 10,000,000–14,000,000 VND accident band.
+Under Decree 168/2024/NĐ-CP, motorbike speeding is banded by how far over the limit: 5 to under 10 km/h over costs 400,000–600,000 VND (Article 7(2)(b)); 10 to 20 km/h over costs 800,000–1,000,000 VND (Article 7(4)(a)); more than 20 km/h over lands in the 6,000,000–8,000,000 VND band with a four-point licence deduction (Article 7(8)(a), (13)(b)), and group speeding — riding in a pack of two or more above the limit — carries its own 8,000,000–10,000,000 VND band with a 10–12 month licence suspension (Article 7(9)(b), (12)(b)). Speeding that causes an accident lands in the 10,000,000–14,000,000 VND accident band.
 
 ## The Hanoi reality
 
