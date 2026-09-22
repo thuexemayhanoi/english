@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "gravel-roads-motorbike-vietnam, flooded-streets-riding-motorbike-vietnam, rental-motorbike-feels-wrong, tyre-care-motorbike-vietnam"
+internal_link_targets: "road-works-riding-motorbike-vietnam, gravel-roads-motorbike-vietnam, flooded-streets-riding-motorbike-vietnam, rental-motorbike-feels-wrong, tyre-care-motorbike-vietnam"
 ---
 Potholes are a constant of Vietnamese roads — less in central Hanoi, more at the edges, on older bridges' ramps and on rural routes. A pothole at speed can bend a rim, pinch a tube flat, or throw you off line into traffic. Riding them is a reading skill more than a bike skill.
 

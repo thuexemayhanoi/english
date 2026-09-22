@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "filtering-through-traffic-motorbike-vietnam, riding-motorbike-blind-spots-vietnam, emergency-braking-motorbike-vietnam, motorbike-accident-first-aid-vietnam"
+internal_link_targets: "horn-etiquette-motorbike-vietnam, filtering-through-traffic-motorbike-vietnam, riding-motorbike-blind-spots-vietnam, emergency-braking-motorbike-vietnam, motorbike-accident-first-aid-vietnam"
 ---
 Defensive riding means accepting a simple truth: in Vietnamese traffic, you will be the one who pays for everyone else's mistakes, so ride accordingly. It is a mindset, not a technique — and it is the single biggest factor separating riders who commute for years without incidents from those who do not.
 

@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "riding-motorbike-heavy-rain-vietnam, renting-motorbike-hanoi-rainy-season, potholes-bad-roads-motorbike-vietnam, outside-repair-shops-rental-motorbike"
+internal_link_targets: "storms-when-to-stop-riding-motorbike, riding-motorbike-heavy-rain-vietnam, renting-motorbike-hanoi-rainy-season, potholes-bad-roads-motorbike-vietnam, outside-repair-shops-rental-motorbike"
 ---
 Hanoi floods fast in the rainy season: drains back up, and streets can hold twenty centimetres of water within minutes. Water is one of the few road conditions where the correct decision is often not to ride at all — and where the wrong decision can destroy an engine.
 

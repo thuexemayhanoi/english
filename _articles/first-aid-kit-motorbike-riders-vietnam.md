@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "motorbike-accident-first-aid-vietnam, what-to-carry-riding-motorbike-vietnam, motorbike-accident-duties-vietnam, riding-rental-motorbike-hanoi-rain"
+internal_link_targets: "riding-gloves-vietnam-climate, motorbike-accident-first-aid-vietnam, what-to-carry-riding-motorbike-vietnam, motorbike-accident-duties-vietnam, riding-rental-motorbike-hanoi-rain"
 ---
 Vietnamese pharmacies are everywhere, and that is genuinely reassuring — but the first minutes after a fall happen before you reach a pharmacy. A small kit under the seat turns a bad moment into a manageable one.
 

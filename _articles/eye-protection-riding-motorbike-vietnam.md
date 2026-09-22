@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "helmet-fit-guide-vietnam, night-riding-motorbike-safety-vietnam, riding-motorbike-heavy-rain-vietnam, what-to-wear-riding-motorbike-vietnam"
+internal_link_targets: "sun-glare-riding-motorbike-vietnam, helmet-fit-guide-vietnam, night-riding-motorbike-safety-vietnam, riding-motorbike-heavy-rain-vietnam, what-to-wear-riding-motorbike-vietnam"
 ---
 At 40 km/h, a fly hits your eye with real force, and Hanoi's dry-season dust gets under eyelids within minutes. A rider blinking through dust or rain is a rider riding blind in half-second instalments. Eye protection is not optional equipment here — it is basic vision maintenance.
 

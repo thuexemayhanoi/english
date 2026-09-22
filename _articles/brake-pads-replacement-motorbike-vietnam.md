@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
-internal_link_targets: "brake-checks-motorbike-vietnam, emergency-braking-motorbike-vietnam, outside-repair-shops-rental-motorbike, motorbike-service-where-vietnam"
+internal_link_targets: "spongy-brakes-brake-fluid-motorbike, brake-checks-motorbike-vietnam, emergency-braking-motorbike-vietnam, outside-repair-shops-rental-motorbike, motorbike-service-where-vietnam"
 ---
 Brake pads are consumables with a courtesy warning period: they squeal, they feel thinner, they take longer to stop you — and then they stop warning. The inspection routine is in brake-checks-motorbike-vietnam; this article covers the replacement side. Pad wear limits and exact parts are model-specific — the manual or a qualified mechanic is the authority.
 

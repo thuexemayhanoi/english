@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
-internal_link_targets: "loose-chain-on-rental-motorbike, motorbike-maintenance-basics-vietnam, cleaning-motorbike-properly-vietnam, motorcycle-rust-prevention-vietnam"
+internal_link_targets: "chain-sprocket-replacement-motorbike, loose-chain-on-rental-motorbike, motorbike-maintenance-basics-vietnam, cleaning-motorbike-properly-vietnam, motorcycle-rust-prevention-vietnam"
 ---
 Chains are the most maintenance-hungry part of a chain-driven bike, and Vietnam's humidity is their natural enemy. This article covers the care routine. It does not state slack measurements or adjustment intervals — those are model-specific, and the owner's manual or a qualified mechanic is the authority.
 

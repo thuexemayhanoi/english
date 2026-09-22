@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "traffic-light-rules-vietnam, motorbike-lane-rules-vietnam, defensive-riding-motorbike-vietnam, right-turn-on-red-vietnam"
+internal_link_targets: "left-turns-across-traffic-motorbike-vietnam, traffic-light-rules-vietnam, motorbike-lane-rules-vietnam, defensive-riding-motorbike-vietnam, right-turn-on-red-vietnam"
 ---
 Roundabouts and big junctions are where Vietnamese traffic rules meet Vietnamese traffic behaviour — and they are where most new foreign riders have their first close call. The law sets out signals and priority — traffic-light-rules-vietnam covers it — but junction craft is practical knowledge.
 

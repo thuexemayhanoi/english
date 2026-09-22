@@ -20,7 +20,7 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 7(4)(đ) (phone-use fine)"
   - "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650 — Ministry of Public Security: Article 7 fine levels for motorbike riders"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — rider attention rules"
-internal_link_targets: "motorbike-fines-vietnam-overview, motorbike-lane-rules-vietnam, riding-on-sidewalk-vietnam, drink-driving-limits-motorbike-vietnam, motorbike-speed-limits-vietnam"
+internal_link_targets: "road-rage-aggressive-drivers-vietnam, motorbike-fines-vietnam-overview, motorbike-lane-rules-vietnam, riding-on-sidewalk-vietnam, drink-driving-limits-motorbike-vietnam, motorbike-speed-limits-vietnam"
 ---
 
 Holding a phone while riding is one of the defined distraction violations of Decree 168/2024/NĐ-CP: 800,000–1,000,000 VND for motorbike riders under Article 7(4)(đ), with licence points deducted besides. The band sits between the small document offences and the signal violations — the law treats the phone as mid-grade dangerous, and the crash statistics agree.

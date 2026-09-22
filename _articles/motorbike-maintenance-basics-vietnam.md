@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
-internal_link_targets: "what-is-included-motorbike-rental-hanoi, maintenance-during-monthly-rental-hanoi, chain-maintenance-motorbike-vietnam, tyre-care-motorbike-vietnam"
+internal_link_targets: "cvt-belt-variator-scooter-vietnam, what-is-included-motorbike-rental-hanoi, maintenance-during-monthly-rental-hanoi, chain-maintenance-motorbike-vietnam, tyre-care-motorbike-vietnam"
 ---
 Vietnamese riding conditions are hard on motorbikes: heat, monsoon humidity, dust, and constant stop-start traffic. Maintenance here is less about factory schedules and more about the small number of things that keep a bike reliable in this climate. This article is general guidance — for exact intervals, fluid types and specifications, the owner's manual and a qualified mechanic are the authority.
 

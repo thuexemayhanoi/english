@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "first-time-renting-a-motorbike-hanoi, automatic-vs-manual-motorbike-hanoi, lightest-motorbikes-for-new-riders, best-motorbike-for-hanoi-traffic, how-to-rent-a-motorbike-hanoi"
+internal_link_targets: "hill-starts-motorbike-slopes-vietnam, first-time-renting-a-motorbike-hanoi, automatic-vs-manual-motorbike-hanoi, lightest-motorbikes-for-new-riders, best-motorbike-for-hanoi-traffic, how-to-rent-a-motorbike-hanoi"
 ---
 
 Ease on a motorbike is measurable: weight, seat height, throttle manners, and how little there is to operate. Ranked by what actually makes a first-week rider safe.

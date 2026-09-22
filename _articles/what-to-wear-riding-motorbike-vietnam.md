@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "what-to-carry-riding-motorbike-vietnam, helmet-fit-guide-vietnam, hot-weather-riding-motorbike-vietnam, winter-riding-motorbike-hanoi"
+internal_link_targets: "rider-footwear-motorbike-vietnam, what-to-carry-riding-motorbike-vietnam, helmet-fit-guide-vietnam, hot-weather-riding-motorbike-vietnam, winter-riding-motorbike-hanoi"
 ---
 Vietnam's heat pushes everyone toward shorts and sandals; its roads argue for coverage. The working compromise is light coverage — because at road speed, the sun is less of a problem than bare skin is in a slide, and light layers breathe better than most visitors expect.
 

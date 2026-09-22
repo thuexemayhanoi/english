@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
-internal_link_targets: "motorbike-service-where-vietnam, motorbike-maintenance-basics-vietnam, motorbike-service-when-vietnam, diagnosing-motorbike-noises-vietnam"
+internal_link_targets: "two-stroke-vs-four-stroke-vietnam, fuel-leak-petrol-smell-motorbike, motorbike-service-where-vietnam, motorbike-maintenance-basics-vietnam, motorbike-service-when-vietnam, diagnosing-motorbike-noises-vietnam"
 ---
 Most motorbikes on Vietnamese streets run one of two fuel systems: the carburettor, a mechanical classic still standard on many underbones, or fuel injection (FI), now standard on most newer scooters. For riders, the difference shows up in behaviour, maintenance and how each system copes with Hanoi's climate.
 

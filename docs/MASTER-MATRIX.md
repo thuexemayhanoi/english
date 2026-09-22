@@ -6,11 +6,11 @@ Status: ACTIVE CONTENT MATRIX
 - 66 law/licence articles are published and VERIFIED (Slice 1: 2026-09-21; Slices 2-4: 2026-09-22 — see docs/matrix/batch-1-status.md). Cluster 11 is complete: 66 of 66 intents published, 0 proposed.
 - 81 rental articles are published (cluster 1, Batch 2, 2026-09-22 — see docs/matrix/batch-2-status.md). Cluster 1 is COMPLETE: 81 of 81 intents published, 0 proposed. All business facts come exclusively from docs/OWNER-FACTS.md.
 - 45 monthly & long-term rental articles are published (cluster 2, Batch 3, 2026-09-22 — see docs/matrix/batch-3-status.md). Cluster 2 is COMPLETE: 45 of 45 intents published, 0 proposed. Monthly prices are published only for the models named in docs/OWNER-FACTS.md; all other models point to contact for current monthly pricing.
-- 30 riding skills & safety articles (cluster 10, Batch 4, 2026-09-22 — see docs/matrix/batch-4-status.md) and 20 maintenance & repair Part 1 articles (cluster 8, Batch 4) are published. Cluster 10: 30 of 55 published, 25 remaining. Cluster 8: 20 of 120 published, 100 remaining (Part 2 next). Safety articles separate practical riding advice from legal requirements and link to the VERIFIED cluster-11 legal articles; maintenance articles contain no invented torque values, capacities, pressures, electrical values or service intervals.
+- Cluster 10 (riding skills & safety) is COMPLETE: 55 of 55 intents published (30 in Batch 4 + 25 in Batch 5, 2026-09-22 — see docs/matrix/batch-4-status.md and docs/matrix/batch-5-status.md). Cluster 8 (maintenance & repair): 45 of 120 published (20 in Batch 4 + 25 in Batch 5); 75 remaining (Part 3 next). Safety articles separate practical riding advice from legal requirements and link to the VERIFIED cluster-11 legal articles; maintenance articles contain no invented torque values, capacities, pressures, electrical values or service intervals.
 - The remaining rows are production candidates according to batch order. They are NOT approved for immediate wholesale publication: each batch is written, QA'd and committed through the publishing workflow (README → PUBLISHING WORKFLOW).
-- docs/matrix/batch-1-status.md is the authoritative record for legal Batch 1 progress; docs/matrix/batch-2-status.md is the authoritative record for the rental batch; docs/matrix/batch-3-status.md is the authoritative record for the monthly & long-term rental batch. docs/matrix/batch-4-status.md is the authoritative record for the safety + maintenance batch.
+- docs/matrix/batch-1-status.md is the authoritative record for legal Batch 1 progress; docs/matrix/batch-2-status.md is the authoritative record for the rental batch; docs/matrix/batch-3-status.md is the authoritative record for the monthly & long-term rental batch. docs/matrix/batch-4-status.md is the authoritative record for the safety + maintenance Part 1 batch; docs/matrix/batch-5-status.md is the authoritative record for the safety remainder + maintenance Part 2 batch.
 
-Full row-level matrix: docs/matrix/master-matrix.csv. The CSV currently holds 242 committed rows: 81 rental-cluster rows (81 published), 45 monthly & long-term rental rows (45 published), the complete 66-row cluster-11 law/licence slice (66 published; renumbered 2026-09-22 from colliding MM-0082–MM-0147 IDs to the unique LAW-0001–LAW-0066 range — see docs/matrix/batch-4-status.md), 30 cluster-10 safety rows (30 published, 25 planned remaining) and 20 cluster-8 maintenance rows (20 published, 100 planned remaining). Rows for the remaining clusters are authored from this planning framework batch by batch, before each batch is written.
+Full row-level matrix: docs/matrix/master-matrix.csv. The CSV currently holds 292 committed rows: 81 rental-cluster rows (81 published), 45 monthly & long-term rental rows (45 published), the complete 66-row cluster-11 law/licence slice (66 published; renumbered 2026-09-22 from colliding MM-0082–MM-0147 IDs to the unique LAW-0001–LAW-0066 range — see docs/matrix/batch-4-status.md), the complete 55-row cluster-10 safety slice (55 published) and 45 cluster-8 maintenance rows (45 published, 75 planned remaining). Rows for the remaining clusters are authored from this planning framework batch by batch, before each batch is written.
 Intent store with provenance: docs/data/intents.csv.
 
 ## Summary
@@ -74,7 +74,8 @@ R1 legal (222 rows: government sources, last_reviewed mandatory) · R2 travel/ro
 1. Cluster 11 laws (R1, government sources, last_reviewed)
 2. Clusters 1–2 rental core (OWNER-FACTS-driven, conversion-relevant)
 3. Cluster 10 + cluster 8 part 1
-4. Cluster 8 part 2 + cluster 9
+4. Cluster 10 remainder + cluster 8 part 2
+5. Cluster 8 part 3 + cluster 9
 5. Clusters 3–4 (spec population from manufacturer pages into MODEL-DATABASE first)
 6. Clusters 5–6
 7. Cluster 7 electric (MODEL-DATABASE electric fields)

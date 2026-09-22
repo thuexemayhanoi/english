@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
-internal_link_targets: "diagnosing-motorbike-noises-vietnam, motorbike-service-when-vietnam, outside-repair-shops-rental-motorbike, motorbike-maintenance-basics-vietnam"
+internal_link_targets: "rough-idle-motorbike-troubleshooting, diagnosing-motorbike-noises-vietnam, motorbike-service-when-vietnam, outside-repair-shops-rental-motorbike, motorbike-maintenance-basics-vietnam"
 ---
 The spark plug is a small, cheap part with an outsized say in how an engine runs — and in Vietnam's heat and traffic, plugs work hard and foul quietly. This article covers what plugs do and the symptoms they cause; plug types, gaps and replacement intervals are model-specific, and the manual or a qualified mechanic is the authority.
 

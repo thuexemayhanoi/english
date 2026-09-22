@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
-internal_link_targets: "cleaning-motorbike-properly-vietnam, storing-motorbike-long-term-vietnam, chain-maintenance-motorbike-vietnam, rental-motorbike-care-long-term-hanoi"
+internal_link_targets: "motorbike-maintenance-rainy-season, cleaning-motorbike-properly-vietnam, storing-motorbike-long-term-vietnam, chain-maintenance-motorbike-vietnam, rental-motorbike-care-long-term-hanoi"
 ---
 Rust is the tax Vietnam's climate charges on every bike: months of high humidity, monsoon flooding and road grime work on fasteners, chains, exhausts and frames continuously. It cannot be stopped entirely — but the difference between a rusted wreck and a clean five-year-old bike in this country is entirely habits.
 

@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "motorbike-night-lights-vietnam, defensive-riding-motorbike-vietnam, riding-motorbike-blind-spots-vietnam, motorbike-required-equipment-vietnam"
+internal_link_targets: "unlit-rural-roads-night-motorbike-vietnam, motorbike-night-lights-vietnam, defensive-riding-motorbike-vietnam, riding-motorbike-blind-spots-vietnam, motorbike-required-equipment-vietnam"
 ---
 Vietnamese nights add three problems to riding: you see less, you are seen less, and the roads fill with vehicles running without lights. The law requires working lights after dark — motorbike-night-lights-vietnam covers the requirements and fines — but expecting everyone to follow them is a survival mistake.
 

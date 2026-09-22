@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "daily-weekly-monthly-motorbike-rental-hanoi, best-motorbike-for-expats-hanoi, motorbike-rental-price-hanoi, unregistered-motorbike-fine-vietnam, best-motorbike-for-commuting-hanoi"
+internal_link_targets: "used-motorbike-inspection-vietnam, daily-weekly-monthly-motorbike-rental-hanoi, best-motorbike-for-expats-hanoi, motorbike-rental-price-hanoi, unregistered-motorbike-fine-vietnam, best-motorbike-for-commuting-hanoi"
 ---
 
 Every long-stayer asks this. The arithmetic has a clear break-even, and the paperwork has a clear winner.

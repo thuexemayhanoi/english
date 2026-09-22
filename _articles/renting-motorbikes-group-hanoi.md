@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "how-to-book-a-motorbike-rental-hanoi, best-motorbike-for-day-trips-from-hanoi, motorbike-rental-agreement-hanoi, rental-motorbike-inspection-checklist, where-to-park-motorbike-hanoi"
+internal_link_targets: "group-riding-motorbike-vietnam, how-to-book-a-motorbike-rental-hanoi, best-motorbike-for-day-trips-from-hanoi, motorbike-rental-agreement-hanoi, rental-motorbike-inspection-checklist, where-to-park-motorbike-hanoi"
 ---
 
 Riding out with friends is the best version of motorbike Hanoi — but a group multiplies everything: booking complexity, breakdown odds, and the cost of one bad decision. Here is how group rental works.

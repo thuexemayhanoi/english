@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
-internal_link_targets: "motorbike-required-equipment-vietnam, motorbike-night-lights-vietnam, night-riding-motorbike-safety-vietnam, motorbike-safety-checklist-before-riding"
+internal_link_targets: "headlight-bulb-replacement-motorbike, motorbike-required-equipment-vietnam, motorbike-night-lights-vietnam, night-riding-motorbike-safety-vietnam, motorbike-safety-checklist-before-riding"
 ---
 Electrical failures are invisible until they are not: you cannot see your own brake light, and nobody tells you. A two-minute weekly check catches nearly all of it. The legal side — what equipment the law requires on a bike — is covered in motorbike-required-equipment-vietnam; this is the practical walkaround.
 

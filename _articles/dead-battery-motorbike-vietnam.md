@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
-internal_link_targets: "battery-care-motorbike-vietnam, motorbike-maintenance-basics-vietnam, rental-motorbike-breakdown-hanoi, night-riding-motorbike-safety-vietnam"
+internal_link_targets: "motorbike-warning-lights-meaning, battery-care-motorbike-vietnam, motorbike-maintenance-basics-vietnam, rental-motorbike-breakdown-hanoi, night-riding-motorbike-safety-vietnam"
 ---
 The click-nothing moment happens to everyone in Vietnam eventually: heat ages batteries fast, and the failure is usually sudden. What you do next depends on the bike and the situation.
 

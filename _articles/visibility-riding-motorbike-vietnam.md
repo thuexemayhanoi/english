@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "night-riding-motorbike-safety-vietnam, what-to-wear-riding-motorbike-vietnam, defensive-riding-motorbike-vietnam, filtering-through-traffic-motorbike-vietnam"
+internal_link_targets: "dashcams-motorbike-riding-vietnam, night-riding-motorbike-safety-vietnam, what-to-wear-riding-motorbike-vietnam, defensive-riding-motorbike-vietnam, filtering-through-traffic-motorbike-vietnam"
 ---
 "Sorry, I didn't see you" explains a large share of motorbike collisions worldwide, and in Vietnam the traffic density makes it worse: drivers are not looking for one bike, they are filtering a stream of fifty. Being seen is a set of tactics, not luck.
 

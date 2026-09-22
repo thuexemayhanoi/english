@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "rental-motorbike-inspection-checklist, tyre-care-motorbike-vietnam, chain-maintenance-motorbike-vietnam, brake-checks-motorbike-vietnam"
+internal_link_targets: "mirror-setup-motorbike-vietnam, rental-motorbike-inspection-checklist, tyre-care-motorbike-vietnam, chain-maintenance-motorbike-vietnam, brake-checks-motorbike-vietnam"
 ---
 Most failures announce themselves days before they happen — a chain getting looser, a brake getting spongier, a tyre getting softer. A two-minute check catches them while they are still cheap. The full inspection at rental pickup is covered in rental-motorbike-inspection-checklist; this is the recurring habit for every bike, every week.
 

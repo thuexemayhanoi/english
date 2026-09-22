@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
-internal_link_targets: "dead-battery-motorbike-vietnam, motorbike-maintenance-basics-vietnam, storing-motorbike-long-term-vietnam, lights-and-electrical-checks-motorbike"
+internal_link_targets: "cold-start-motorbike-winter-vietnam, dead-battery-motorbike-vietnam, motorbike-maintenance-basics-vietnam, storing-motorbike-long-term-vietnam, lights-and-electrical-checks-motorbike"
 ---
 Heat is what kills motorbike batteries in Vietnam, more than riding does. Battery chemistry ages faster in hot climates, and a battery that lives through two Vietnamese summers has done well. Understanding that changes what care is realistic.
 

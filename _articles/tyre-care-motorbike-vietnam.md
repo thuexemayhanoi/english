@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
-internal_link_targets: "punctured-tyre-on-rental-motorbike, consumables-monthly-rental-hanoi, motorbike-safety-checklist-before-riding, high-mileage-rental-motorbike-inspection"
+internal_link_targets: "inner-tubes-vs-tubeless-motorbike, punctured-tyre-on-rental-motorbike, consumables-monthly-rental-hanoi, motorbike-safety-checklist-before-riding, high-mileage-rental-motorbike-inspection"
 ---
 Tyres are the only thing between you and the road, and in Vietnam they work hard: heat, flooding, gravel and the eternal hunt for potholes. This article covers checking and reading them. Exact pressure values are deliberately not given — they are model- and tyre-specific; the sticker on the bike or the owner's manual is the authority.
 
