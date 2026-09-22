@@ -149,9 +149,9 @@ Run locally before each batch commit:
 # DEPLOYMENT STATE
 
 - Hosting: GitHub Pages, Jekyll, baseurl /english.
-- Latest verified implementation commit: 0fbf1c8e78777b3f05b413fac7c35789eb142928 (Guide Assistant V2: chunked knowledge index, hybrid ranking, multi-turn context, business-data sync).
-- Latest verified Quality Gate run: 35683518892 = SUCCESS (head 0fbf1c8).
-- Latest verified Pages run: 35683518250 = BUILD SUCCESS + DEPLOY SUCCESS (head 0fbf1c8).
+- Latest verified implementation commit: 62bda0745c3f9a68fbea6151acd1118cdbc4f879 (pre-content cleanup: scalable /articles/ guide library, assistant availability wording hardening, state docs sync).
+- Latest verified Quality Gate run: 35684546775 = SUCCESS (head 62bda07).
+- Latest verified Pages run: 35684546035 = BUILD SUCCESS + DEPLOY SUCCESS (head 62bda07).
 - README-only state updates may create a newer HEAD than the SHAs recorded here; the values above always refer to the last implementation commit whose CI/deploy was actually verified.
 
 # NEXT RECOMMENDED STEP
