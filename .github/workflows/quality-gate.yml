@@ -33,6 +33,8 @@ jobs:
           destination: ./_site
       - name: Rendered site audit
         run: node scripts/rendered-site-audit.js
+      - name: Guide Assistant test (built index)
+        run: node scripts/assistant-test.js ./_site/assistant-index.json
       - name: Build quality report
         run: node scripts/build-report.js
       - name: Upload report artifact

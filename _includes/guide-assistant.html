@@ -1,8 +1,11 @@
 {%- comment -%}
   Guide Assistant: static client-side retrieval helper.
-  NOT an AI chatbot: answers come from this site's published articles and
+  NOT an AI chatbot and no external AI/API: answers come from this site's
+  published guides and FAQ (chunked v2 index, assistant-index.json) plus
   curated approved business facts (_data/assistant-business.yml).
-  The assistant index is lazy-loaded on first open by assets/js/assistant.js.
+  Retrieval and answer composition live in assets/js/assistant-core.js;
+  this overlay + assets/js/assistant.js handle UI only. The knowledge index
+  is lazy-loaded on first open. Session context is page-memory only.
 {%- endcomment -%}
 <div class="assistant-backdrop sheet-backdrop" id="assistantBackdrop" hidden></div>
 

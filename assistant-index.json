@@ -1,15 +1,91 @@
 ---
 ---
-[
+{% comment %}
+  Guide Assistant knowledge index v2 — chunked public knowledge.
+  Indexed content: published articles (site.articles) and the customer FAQ.
+  Never indexed: README, docs/, matrices, _queue/, source comments, editorial internals.
+  Chunk fields (short keys keep the payload small):
+    t = source title, h = section heading or FAQ question, x = chunk text,
+    u = source URL, topic = topic cluster, tags = tags,
+    st = source_type (article|faq), rs = review_status (articles only),
+    qa = true for FAQ question/answer units.
+  Article sections become one chunk each (roughly 80–250 words where sections
+  allow); sections longer than ~280 words are split into paragraph pairs.
+  The format is a flat chunk list so it can later be split by topic into
+  several JSON files and merged client-side without changing the assistant.
+{% endcomment %}
+{% assign out = "" %}
+{% assign sep = "" %}
+
+{% comment %}---------- Article chunks ----------{% endcomment %}
 {% for a in site.articles %}
-  {
-    "title": {{ a.title | jsonify }},
-    "description": {{ a.description | jsonify }},
-    "url": {{ a.url | relative_url | jsonify }},
-    "topic_cluster": {{ a.topic_cluster | jsonify }},
-    "tags": {{ a.tags | jsonify }},
-    "review_status": {{ a.review_status | jsonify }},
-    "text": {{ a.content | strip_html | replace: "\n", " " | strip | jsonify }}
-  }{% unless forloop.last %},{% endunless %}
+  {% assign secs = a.content | split: "
+## " %}
+  {% for sec in secs %}
+    {% assign ps = sec | split: "
+
+" %}
+    {% if forloop.first %}
+      {% assign heading = a.title %}
+      {% assign bodyps = ps %}
+      {% assign pairmod = 0 %}
+    {% else %}
+      {% assign heading = ps | first | strip %}
+      {% assign bodyps = ps | slice: 1, 99 %}
+      {% assign pairmod = 1 %}
+    {% endif %}
+    {% assign bodytxt = bodyps | join: "
+
+" | strip %}
+    {% assign wc = bodytxt | split: " " | size %}
+    {% if bodytxt != "" and heading != "" %}
+      {% if wc <= 280 %}
+        {% capture c %}{"t":{{ a.title | jsonify }},"h":{{ heading | jsonify }},"x":{{ bodytxt | jsonify }},"u":{{ a.url | relative_url | jsonify }},"topic":{{ a.topic_cluster | jsonify }},"tags":{{ a.tags | jsonify }},"st":"article","rs":{{ a.review_status | jsonify }}}{% endcapture %}
+        {% capture out %}{{ out }}{{ sep }}{{ c }}{% endcapture %}
+        {% assign sep = "§§" %}
+      {% else %}
+        {% for p in bodyps %}
+          {% assign mod = forloop.index0 | modulo: 2 %}
+          {% if mod == pairmod %}
+            {% assign b2 = bodyps | slice: forloop.index0, 2 | join: "
+
+" | strip %}
+            {% if b2 != "" %}
+              {% capture c %}{"t":{{ a.title | jsonify }},"h":{{ heading | jsonify }},"x":{{ b2 | jsonify }},"u":{{ a.url | relative_url | jsonify }},"topic":{{ a.topic_cluster | jsonify }},"tags":{{ a.tags | jsonify }},"st":"article","rs":{{ a.review_status | jsonify }}}{% endcapture %}
+              {% capture out %}{{ out }}{{ sep }}{{ c }}{% endcapture %}
+              {% assign sep = "§§" %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
-]
+
+{% comment %}---------- FAQ chunks (question + answer units) ----------{% endcomment %}
+{% capture faqhtml %}{% include faq-body.html %}{% endcapture %}
+{% assign faqsecs = faqhtml | split: "<h2" %}
+{% for fsec in faqsecs %}
+  {% if forloop.first %}{% continue %}{% endif %}
+  {% assign secid = fsec | split: 'id="' %}
+  {% if secid.size < 2 %}{% continue %}{% endif %}
+  {% assign sid = secid[1] | split: '"' | first %}
+  {% capture faqurl %}{{ '/faq/' | relative_url }}#{{ sid }}{% endcapture %}
+  {% assign h3s = fsec | split: "<h3>" %}
+  {% for item in h3s %}
+    {% if forloop.first %}{% continue %}{% endif %}
+    {% assign qaparts = item | split: "</h3>" %}
+    {% assign q = qaparts | first | strip %}
+    {% if q == "" %}{% continue %}{% endif %}
+    {% assign arest = qaparts | slice: 1, 9 | join: "" %}
+    {% assign ans = arest | split: "</p>" | first | strip_html | strip %}
+    {% if ans != "" %}
+      {% capture c %}{"t":"Hanoi Motorbike Rental FAQ","h":{{ q | jsonify }},"x":{{ ans | jsonify }},"u":{{ faqurl | jsonify }},"topic":"faq","tags":[],"st":"faq","rs":null,"qa":true}{% endcapture %}
+      {% capture out %}{{ out }}{{ sep }}{{ c }}{% endcapture %}
+      {% assign sep = "§§" %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% assign chunks = out | split: "§§" %}
+{"v":2,"chunks":[{{ chunks | join: "," }}]}

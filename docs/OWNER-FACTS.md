@@ -64,7 +64,7 @@ Accepted: cash, bank transfer, QR payment. Do NOT claim card payment unless newl
 
 ## Fleet models — NEEDS OWNER CONFIRMATION
 
-Confirmed price-published models: Honda Wave, Honda Vision, Honda Air Blade, Honda Click, Yamaha Mio. Current physical availability of any model: always "Contact us to confirm current availability." 50cc and electric availability/price: contact only.
+Confirmed price-published models: Honda Wave, Yamaha Sirius, Honda Vision, Honda Air Blade, Honda Click, Yamaha Mio and the E-Bike (day rate only). Current physical availability of any model: always "Contact us to confirm current availability." 50cc availability and price: contact only. E-Bike weekly/monthly rates: not published — contact only.
 
 ## Never claim (regardless of this file)
 
