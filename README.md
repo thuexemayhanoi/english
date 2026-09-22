@@ -67,7 +67,7 @@ Date: 2026-09-22
 - Jekyll site live on GitHub Pages, baseurl /english, English-only UI.
 - Theme toggle (Light/Dark/Auto), parent-child header navigation (desktop dropdowns + mobile accordion panel, keyboard accessible), 4-item mobile bottom nav (Home/Guides/Search/Contact -> /contact/), client-side search, breadcrumbs, footer as secondary site map, contact CTAs.
 - Utility pages live: /about/, /faq/ (52-question customer FAQ), /contact/ (embedded Google Maps for the verified location), /privacy/, /terms/ — all indexed, in sitemap, linked from nav/footer. About/Privacy/Terms expanded into substantial trust pages (2026-09-22, changelog 15).
-- 10 published articles, all in cluster law-licences, all VERIFIED (legal verification completed 2026-09-21).
+- 20 published articles, all in cluster law-licences, all VERIFIED (Slice 1 verified 2026-09-21, Slice 2 verified 2026-09-22 — see docs/matrix/batch-1-status.md).
 - 14 topic hubs live; 13 currently show the empty state ("Guides for this topic are being prepared."); law-licences hub lists all 10 articles.
 - /articles/ is a scalable guide library: client-side filter (enhancement only), all 14 topic cards always shown with guide counts, published guides grouped by topic, fully crawlable without JS.
 - Homepage: app dashboard (hero + search, quick-action grid, parent section cards) plus a "Featured rental bikes" showcase (6 cards with published daily prices and availability-safe notes).
@@ -88,20 +88,20 @@ Date: 2026-09-22
 
 # OPEN ISSUES
 
-1. 13 topic clusters have zero published articles (planned content, not a defect — production resumes with Batch 1 remainder after owner approval).
-2. 4 P2 warnings: homepage relies on site defaults (title/description); search.md missing meta description; body H1 alongside layout title H1 on search.md. (The former about.md P2s were resolved by the trust-page expansion.)
-3. 11 P3 recommendations: meta descriptions longer than 165 chars on the 10 legal articles; one title over 65 chars.
+1. 13 topic clusters have zero published articles (planned content, not a defect — Batch 1 law/licence production continues).
+2. 5 P2 warnings: homepage relies on site defaults (title/description); search.md missing meta description; body H1 alongside layout title H1 on search.md. (The former about.md P2s were resolved by the trust-page expansion.)
+3. 21 P3 recommendations: meta descriptions longer than 165 chars on the 10 legal articles; one title over 65 chars.
 4. Full 6-12 month GSC export not yet available for matrix prioritization (documented in SOURCE-MAP.md).
 
 # MASTER MATRIX STATE
 
-- docs/matrix/master-matrix.csv holds 988 intents across the 14 clusters. Status: ACTIVE CONTENT MATRIX — 988 planned intents remain the planning framework; 10 law/licence articles are already published and VERIFIED; remaining rows are production candidates according to batch order (not approved for immediate wholesale publication).
-- Cluster order for batches: law-licences (batch 1, ~68 intents) -> rental -> monthly-rental -> safety -> maintenance -> then model/travel clusters.
+- docs/matrix/master-matrix.csv currently holds 147 committed rows: 81 rental-cluster rows plus the complete 66-row cluster-11 law/licence slice (authored 2026-09-22; 20 published / 46 proposed). The 988-intent plan in docs/MASTER-MATRIX.md remains the planning framework; rows for the remaining clusters are authored batch by batch, before each batch is written. Remaining rows are production candidates according to batch order (not approved for immediate wholesale publication).
+- Cluster order for batches: law-licences (batch 1, 66 intents) -> rental -> monthly-rental -> safety -> maintenance -> then model/travel clusters.
 - docs/matrix/batch-1-status.md is the authoritative publish/review status for batch 1.
 
 # CONTENT BATCH STATE
 
-- Batch 1 (law-licences): 10 of ~68 published; all 10 VERIFIED 2026-09-21. The remaining ~58 law-licence articles are safe to resume (verification blocker cleared) — generation starts only after owner approval.
+- Batch 1 (law-licences): 20 of 66 cluster-11 intents published; all 20 VERIFIED (Slice 1: 2026-09-21, Slice 2: 2026-09-22). 46 proposed cluster-11 rows remain, processed in reviewed slices of ~10 with per-article primary-source verification.
 - Batches 2+: not started.
 - _queue/: empty (no drafts pending).
 
@@ -156,9 +156,11 @@ Run locally before each batch commit:
 
 # NEXT RECOMMENDED STEP
 
-Pre-content cleanup complete (2026-09-22): state documentation synchronized with MAIN, /articles/ upgraded to a scalable guide library, Guide Assistant availability wording hardened. Next: resume Batch 1 (remaining ~58 law/licence articles) — do not start generation until the owner approves.
+Batch 1 Slice 2 complete (2026-09-22): cluster-11 matrix slice authored, 10 further VERIFIED legal articles published, state docs synchronized. Next: continue Batch 1 with the next ~10 cluster-11 rows (or the batch the owner prioritizes), same per-article verification workflow.
 
 # CHANGE LOG
+
+- 2026-09-22 (18): Batch 1 Slice 2 — law/licence content pass. Authored the complete cluster-11 matrix slice in docs/matrix/master-matrix.csv (66 rows across 11.1 licence-system / 11.2 foreigners / 11.3 traffic-rules / 11.4 fines-penalties; 10 Slice-1 rows recorded as published, 56 proposed, closest/diff recorded per row; repaired pre-existing truncated MM-0081 row and an embedded newline in MM-0005). Published 10 new VERIFIED legal articles (all clause-verified against the full texts of Law 36/2024/QH15, Decree 168/2024/NĐ-CP, Decree 238/2026/NĐ-CP and Circular 12/2025/TT-BCA on chinhphu.vn / gov.vn portals): minimum-age-ride-motorbike-vietnam, foreign-licence-exchange-vietnam, documents-to-carry-motorbike-vietnam, lending-motorbike-unlicensed-rider-vietnam, motorbike-passenger-rules-vietnam, right-turn-on-red-vietnam, wrong-way-riding-fine-vietnam, compulsory-motorbike-insurance-vietnam, motorbike-accident-duties-vietnam, no-licence-fine-vietnam. Key verified facts: ages 16 (moped) / 18 (A1) with the 400-600k fine for 16-to-under-18s on licence-required machines (Decree 238/2026 clarified wording, effective 2026-08-15); owner-side lending fine 8-10m individual / 16-20m organisation (Art. 32(10)); unlicensed riding 2-4m up to 125cc / 6-8m above (Art. 18(5)(b),(7)(b)); missing documents 200-300k each (Art. 18(2)); compulsory third-party insurance (Law Art. 56 + Decree 67/2023) with 200-300k fine; one-passenger rule with narrow exceptions (Art. 33; 400-600k); right-on-red only by police signal, auxiliary sign or dedicated lane; wrong-way riding 4-6m (Art. 7(7)); post-accident duties stop/warn/preserve/help/report (Art. 80) with accident-causing violations 10-14m (Art. 7(10)). State docs synchronized: batch-1-status.md Slice 2 table, MASTER-MATRIX.md row-count correction (147 committed rows; 988-intent plan remains the framework), README CURRENT/OPEN ISSUES/MASTER MATRIX/CONTENT BATCH/NEXT STEP sections. QA: P0=0, blocking=0, broken links=0, sitemap gaps=0, gate PASS; assistant suite 25/25 (20-article index).
 
 - 2026-09-22 (17): Pre-content cleanup + articles library pass. /articles/ upgraded from a simple cluster list to a scalable guide library: search/filter field (client-side, enhancement only — all guides remain visible and crawlable without JS, no URL rewriting, no JS-generated content), "Browse by topic" grid showing all 14 topic clusters with guide counts and hub links (empty topics visible with "Guides are being prepared for this topic." — never hidden), published guides grouped under linked topic headings with title+description cards, accessible label + clear button + no-results state; filter JS added to assets/js/main.js, topic-card/filter styles to main.css, one-column cards on mobile. Guide Assistant availability wording hardened: model availability answers now say "<model> is listed in Nguyen Tu's published rental information. Contact us to confirm current availability." (never implies confirmed stock); assistant-test.js extended to 25 cases with a no-stock-overclaim guard. Project state documentation synchronized with MAIN: README CURRENT STATE / OPEN ISSUES / MASTER MATRIX STATE / CONTENT BATCH STATE / DEPLOYMENT STATE / NEXT RECOMMENDED STEP updated (10 VERIFIED law-licence articles, Batch 1 remainder safe to resume pending owner approval, Guide Assistant V2, 52-question FAQ, contact map, expanded trust pages, current P2=4/P3=11); repository map describes the V2 assistant architecture (assistant-core.js, chunked index, faq-body.html include, assistant-test.js). docs/MASTER-MATRIX.md status changed from "PROPOSED — awaiting owner approval. NO articles written." to ACTIVE CONTENT MATRIX (988 planned intents = framework; 10 published VERIFIED; remaining rows = production candidates per batch order; batch-1-status.md authoritative); matrix business hard rules synchronized with OWNER-FACTS pricing (Sirius 150k/day, E-Bike 200k/day day-only, 50cc contact-only, no inferred week/month rates). No article content, URLs, taxonomy or schema changed.
 

@@ -3,8 +3,8 @@
   "counts": {
     "P0": 0,
     "P1": 0,
-    "P2": 4,
-    "P3": 11
+    "P2": 5,
+    "P3": 21
   },
   "findings": [
     {
@@ -37,6 +37,20 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/compulsory-motorbike-insurance-vietnam.md",
+      "url": "/articles/compulsory-motorbike-insurance-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/documents-to-carry-motorbike-vietnam.md",
+      "url": "/articles/documents-to-carry-motorbike-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/drink-driving-limits-motorbike-vietnam.md",
       "url": "/articles/drink-driving-limits-motorbike-vietnam/",
       "issue": "meta description longer than 165 chars",
@@ -46,6 +60,13 @@
       "severity": "P3",
       "file": "_articles/electric-bike-licence-vietnam.md",
       "url": "/articles/electric-bike-licence-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/foreign-licence-exchange-vietnam.md",
+      "url": "/articles/foreign-licence-exchange-vietnam/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -72,6 +93,27 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/lending-motorbike-unlicensed-rider-vietnam.md",
+      "url": "/articles/lending-motorbike-unlicensed-rider-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/minimum-age-ride-motorbike-vietnam.md",
+      "url": "/articles/minimum-age-ride-motorbike-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-accident-duties-vietnam.md",
+      "url": "/articles/motorbike-accident-duties-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/motorbike-fines-vietnam-overview.md",
       "url": "/articles/motorbike-fines-vietnam-overview/",
       "issue": "meta description longer than 165 chars",
@@ -79,8 +121,36 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/motorbike-passenger-rules-vietnam.md",
+      "url": "/articles/motorbike-passenger-rules-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/no-licence-fine-vietnam.md",
+      "url": "/articles/no-licence-fine-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/right-turn-on-red-vietnam.md",
+      "url": "/articles/right-turn-on-red-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/vietnam-motorbike-licence-classes-explained.md",
       "url": "/articles/vietnam-motorbike-licence-classes-explained/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/wrong-way-riding-fine-vietnam.md",
+      "url": "/articles/wrong-way-riding-fine-vietnam/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -111,6 +181,13 @@
       "url": "/search/",
       "issue": "multiple H1 (layout title H1 + body H1)",
       "fix": "Demote body H1 to H2"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/foreign-licence-exchange-vietnam.md",
+      "url": "/articles/foreign-licence-exchange-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
     }
   ]
 }

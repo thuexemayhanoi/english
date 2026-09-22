@@ -3,11 +3,11 @@
 Status: ACTIVE CONTENT MATRIX
 
 - 988 strong planned intents remain the planning framework for future articles.
-- 10 law/licence articles are already published and VERIFIED (legal verification completed 2026-09-21 — see docs/matrix/batch-1-status.md).
+- 20 law/licence articles are already published and VERIFIED (Slice 1 verified 2026-09-21; Slice 2 verified 2026-09-22 — see docs/matrix/batch-1-status.md).
 - The remaining rows are production candidates according to batch order. They are NOT approved for immediate wholesale publication: each batch is written, QA'd and committed through the publishing workflow (README → PUBLISHING WORKFLOW).
 - docs/matrix/batch-1-status.md is the authoritative record for legal Batch 1 progress.
 
-Full row-level matrix: docs/matrix/master-matrix.csv (988 rows).
+Full row-level matrix: docs/matrix/master-matrix.csv. The CSV currently holds 147 committed rows: 81 rental-cluster rows plus the complete 66-row cluster-11 law/licence slice (authored 2026-09-22, 20 published / 46 proposed). Rows for the remaining clusters are authored from this planning framework batch by batch, before each batch is written.
 Intent store with provenance: docs/data/intents.csv.
 
 ## Summary

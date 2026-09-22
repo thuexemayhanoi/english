@@ -53,3 +53,22 @@ None blocking. Minor watch items:
 ## Batch 1 status
 
 The foundational legal verification for the licence-system, foreigners, traffic-rules and fines subclusters is complete. Batch 1 (remaining ~58 law-licence articles) is SAFE TO RESUME, using the verified facts in this file as the baseline.
+
+## Slice 2 (2026-09-22): 10 further VERIFIED legal articles
+
+Published 2026-09-22. All verified against the full texts of Law 36/2024/QH15, Decree 168/2024/NĐ-CP, Decree 238/2026/NĐ-CP and Circular 12/2025/TT-BCA (chinhphu.vn / gov.vn portals). The cluster-11 matrix slice (66 rows) was added to docs/matrix/master-matrix.csv in the same batch; the status column is now kept in sync (20 published / 46 proposed).
+
+| Article slug | Matrix cluster/subcluster | Status |
+|---|---|---|
+| minimum-age-ride-motorbike-vietnam | 11.1 licence-system | VERIFIED 2026-09-22 |
+| foreign-licence-exchange-vietnam | 11.2 foreigners | VERIFIED 2026-09-22 |
+| documents-to-carry-motorbike-vietnam | 11.3 traffic-rules | VERIFIED 2026-09-22 |
+| lending-motorbike-unlicensed-rider-vietnam | 11.4 fines-penalties | VERIFIED 2026-09-22 |
+| motorbike-passenger-rules-vietnam | 11.3 traffic-rules | VERIFIED 2026-09-22 |
+| right-turn-on-red-vietnam | 11.3 traffic-rules | VERIFIED 2026-09-22 |
+| wrong-way-riding-fine-vietnam | 11.4 fines-penalties | VERIFIED 2026-09-22 |
+| compulsory-motorbike-insurance-vietnam | 11.4 fines-penalties | VERIFIED 2026-09-22 |
+| motorbike-accident-duties-vietnam | 11.4 fines-penalties | VERIFIED 2026-09-22 |
+| no-licence-fine-vietnam | 11.4 fines-penalties | VERIFIED 2026-09-22 |
+
+Key facts clause-verified in this slice: rider ages (Law 36/2024 Art. 59: 16 mopeds, 18 A1); 16-to-under-18 on licence-required machines 400–600k (Decree 168 Art. 18(4)(a), wording clarified by Decree 238/2026 from 2026-08-15); owner lending to an unqualified rider 8–10m individual / 16–20m organisation (Art. 32(10)); unlicensed riding 2–4m up to 125 cc / 6–8m above (Art. 18(5)(b),(7)(b)); document carriage 200–300k per missing paper (Art. 18(2)); compulsory third-party insurance required (Law Art. 56 + Decree 67/2023) with 200–300k fine (Art. 18(2)); one-passenger rule with narrow two-person exceptions (Law Art. 33; Decree 168 Art. 7(2) 400–600k); right-turn-on-red only by police signal, auxiliary sign or dedicated lane (Law Art. 11 precedence + QCVN 41/2024); wrong-way riding 4–6m (Art. 7(7)); post-accident duties stop/warn/preserve/help/report (Law Art. 80) with accident-causing violations 10–14m (Art. 7(10)).
