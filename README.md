@@ -152,9 +152,9 @@ Run locally before each batch commit:
 # DEPLOYMENT STATE
 
 - Hosting: GitHub Pages, Jekyll, baseurl /english.
-- Latest verified implementation commit: PENDING — to be recorded after this batch's commit is pushed and CI/Pages are verified (Batch 4 safety + maintenance Part 1: 50 articles + master-matrix.csv repair/extension + state docs sync).
-- Latest verified Quality Gate run: PENDING (Batch 4).
-- Latest verified Pages run: PENDING (Batch 4).
+- Latest verified implementation commit: 716c09d4b69e9d03515948cb72a197e84e396625 (Batch 5: 50 articles — 25 cluster-10 safety completing the safety cluster, 25 cluster-8 maintenance Part 2 — plus matrix/state docs and QA reports). Verified live on Pages on 2026-09-22: new article pages (e.g. u-turns-tight-turns, cvt-belt-variator, dashcams) resolve on the live site, topic hubs render, and the live sitemap contains the new batch-5 slugs.
+- Latest verified Quality Gate run: run ID not directly verifiable from the available tooling this pass; local gate run on the pushed tree passed (P0=0, P1=0, blocking=0, 314 indexable pages). Previous verified gate runs from Batch 2 Slice 1: 35742926967.
+- Latest verified Pages run: not directly verifiable from the available tooling this pass; deployment confirmed by live-page spot checks (above). Previous verified Pages run from Batch 2 Slice 1: 35742925235.
 - README-only state updates may create a newer HEAD than the SHAs recorded here; the values above always refer to the last implementation commit whose CI/deploy was actually verified.
 
 # NEXT RECOMMENDED STEP
