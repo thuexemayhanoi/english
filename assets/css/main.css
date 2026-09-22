@@ -844,3 +844,39 @@ font-size: var(--text-sm); color: var(--muted); margin: 0 0 var(--sp-3); }
 @media (prefers-reduced-motion: reduce) {
   .bike-card { transition: none; }
 }
+
+/* ============================================================
+   CONTACT PAGE — map card + two-column layout
+   ============================================================ */
+.contact-layout { display: grid; grid-template-columns: 1fr 1fr; gap: var(--sp-6); align-items: start; margin: var(--sp-4) 0; }
+.map-card {
+  background: var(--card); border: 1px solid var(--border); border-radius: var(--r-xl);
+  padding: var(--sp-4); box-shadow: 0 1px 3px rgba(20, 18, 12, 0.05);
+}
+.map-card h2 { font-size: var(--text-lg); margin: 0 0 var(--sp-3); }
+.map-frame { position: relative; width: 100%; aspect-ratio: 16 / 10; border-radius: var(--r-lg); overflow: hidden; border: 1px solid var(--border); }
+.map-frame iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.map-address { font-weight: 600; margin: var(--sp-3) 0 0; }
+.map-hours { color: var(--muted); font-size: var(--text-sm); margin: 2px 0 var(--sp-3); }
+.map-link { font-weight: 600; color: var(--accent); }
+
+/* ============================================================
+   FAQ — jump nav
+   ============================================================ */
+.faq-jump {
+  display: flex; flex-wrap: wrap; gap: var(--sp-2);
+  margin: var(--sp-4) 0 var(--sp-6);
+}
+.faq-jump a {
+  font-size: var(--text-sm); font-weight: 600; color: var(--fg);
+  padding: 8px 14px; min-height: 40px; display: inline-flex; align-items: center;
+  border: 1px solid var(--border-strong); border-radius: var(--r-full);
+  text-decoration: none; transition: color var(--t-fast), border-color var(--t-fast);
+  -webkit-tap-highlight-color: transparent;
+}
+.faq-jump a:hover { color: var(--accent); border-color: var(--accent); text-decoration: none; }
+.faq-jump a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.faq-footnote { color: var(--muted); font-size: var(--text-sm); margin-top: var(--sp-6); }
+@media (max-width: 900px) {
+  .contact-layout { grid-template-columns: 1fr; gap: var(--sp-4); }
+}

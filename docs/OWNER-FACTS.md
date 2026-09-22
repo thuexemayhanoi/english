@@ -24,12 +24,16 @@ Scooters, semi-automatic/manual motorbikes, 50cc motorbikes, electric vehicles/e
 | Vehicle | Day | Week | Month |
 |---|---|---|---|
 | Honda Wave | 150,000 VND | — | — |
+| Yamaha Sirius | 150,000 VND | — | — |
 | Honda Vision | 200,000 VND | 800,000–1,000,000 VND | 1,800,000–2,000,000 VND |
 | Honda Air Blade | 200,000 VND | 800,000 VND | 1,400,000 VND |
-| Honda Click / Yamaha Mio | 150,000 VND | 600,000–700,000 VND | 1,000,000–1,200,000 VND |
+| Honda Click | 150,000 VND | 600,000–700,000 VND | 1,000,000–1,200,000 VND |
+| Yamaha Mio | 150,000 VND | 600,000–700,000 VND | 1,000,000–1,200,000 VND |
+| E-Bike (electric) | 200,000 VND | — | — |
 
 - 50cc motorcycles: NO fixed price published — direct customers to contact.
-- Electric motorcycles / e-bikes: NO fixed price published — direct customers to contact.
+- E-Bike day rate 200,000 VND APPROVED by owner 2026-09-22 (homepage showcase + FAQ). No week/month rate published for E-Bike — contact only.
+- Yamaha Sirius day rate 150,000 VND APPROVED by owner 2026-09-22. No week/month rate published — contact only.
 - Never derive one model's price from another's.
 
 ## Deposit / return / insurance — APPROVED

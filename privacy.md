@@ -16,6 +16,9 @@ description: "Privacy policy for the Hanoi Motorbike Guide: a static information
 <h2>External services</h2>
 <p>Some links lead to external services (phone, WhatsApp, Zalo, our main website). Once you follow those links, the policies of those services apply. We do not control them.</p>
 
+<h2>Embedded Google Maps</h2>
+<p>The contact page contains an embedded Google Maps map showing our location. Loading and interacting with that map may send information about your browser, device and network connection to Google, and Google's own privacy terms apply to that embedded service. The site itself does not receive your Google account information from the map. If you prefer not to load Google Maps, use the plain-text address on the contact page instead.</p>
+
 <h2>Hosting</h2>
 <p>The site is hosted on GitHub Pages. Any data GitHub processes as part of serving the site is governed by GitHub's privacy policy.</p>
 
