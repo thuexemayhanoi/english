@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn — official Honda Vietnam model pages (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — official Yamaha Vietnam product pages (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved)"
-internal_link_targets: "honda-vs-yamaha-scooters-vietnam, honda-air-blade-160-review, which-scooters-have-abs-vietnam, buying-first-scooter-vietnam-guide, long-term-renting-vs-buying-residents-hanoi, best-motorbike-for-commuting-hanoi"
+internal_link_targets: "honda-vs-yamaha-scooters-vietnam, honda-air-blade-160-review, which-scooters-have-abs-vietnam, buying-first-scooter-vietnam-guide, long-term-renting-vs-buying-residents-hanoi, best-motorbike-for-commuting-hanoi, honda-sh-160-review, honda-sh-mode-125-review, honda-sh-mode-125-vs-honda-sh-160"
 ---
 
 Above the mainstream 110-160 class sits a premium tier that Vietnamese buyers pay real money for. Using only the manufacturers' published price lists (retrieved 23 September 2026), here is what the tier contains and what the premium actually buys.
@@ -40,7 +40,8 @@ Above the mainstream 110-160 class sits a premium tier that Vietnamese buyers pa
 ## What the money buys
 
 - **Bigger, torquier engines:** the 155-350 cc class holds speed on main roads and carries a passenger without strain - a real difference from a 110 for riders who leave the city.
-- **Equipment:** ABS is standard or common in this tier (see our ABS guide), along with smart keys, LCD meters and USB charging.
+- **Equipment:** ABS is stan
+dard or common in this tier (see our ABS guide), along with smart keys, LCD meters and USB charging.
 - **Comfort and presence:** bigger wheels, plusher suspension - and in Vietnam, the SH's status effect is a genuine, if unquantifiable, part of its price.
 
 ## What it does not buy
@@ -49,4 +50,4 @@ Economy (bigger engines drink more - see the fuel comparison), lightness (an SH 
 
 ## Renting vs buying
 
-Premium scooters depreciate hard, which is why our long-term renting vs buying comparison matters at this price level. For renters: Nguyen Tu's published rates cover mainstream models; premium models are not price-published - contact us to confirm current availability before planning around one.
+Premium scooters depreciate hard, which is why our long-term renting vs buying comparison matters at this price level. For renters: Nguyen Tu's published rates cover mainstream models; premium models are not price-published - contact us to confirm current availability before planning around one. For the current flagships, see our full SH160i/125i review, the Sh mode 125 review, and the direct SH Mode vs SH160i comparison.

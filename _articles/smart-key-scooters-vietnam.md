@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — official Honda Vietnam model pages (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — official Yamaha Vietnam product pages (retrieved 2026-09-23)"
-internal_link_targets: "lost-key-rental-motorbike-hanoi, battery-care-motorbike-vietnam, keeping-rental-motorbike-secure-hanoi, yamaha-grande-review, honda-air-blade-160-review, steering-locks-effective-use"
+internal_link_targets: "lost-key-rental-motorbike-hanoi, battery-care-motorbike-vietnam, keeping-rental-motorbike-secure-hanoi, yamaha-grande-review, honda-air-blade-160-review, steering-locks-effective-use, scooters-with-smart-keys-vietnam-verified, honda-sh-mode-125-review"
 ---
 
 Keyless "smart key" systems have spread from premium bikes to mainstream scooters in Vietnam. The manufacturers' own pages (retrieved 23 September 2026) list smart-key fitment on the Honda Vision (select versions), Honda Air Blade 160 and Yamaha FreeGo and Grande, among others. Here is what the system does, and the practical realities the brochures skip.
@@ -29,10 +29,11 @@ A fob in your pocket broadcasts a low-power signal. When it is within range, the
 ## Practical realities in Vietnam
 
 - **Fob battery:** the single most common smart-key failure. Symptoms of a weak fob battery appear before total failure - carry a spare coin cell. See our battery care guide for the general electrical habits that help.
-- **Rain and humidity:** fobs are small electronics; keep them out of soaked pockets where possible.
+- **Rain and humidity:** fobs ar
+e small electronics; keep them out of soaked pockets where possible.
 - **Theft:** smart keys add a layer against hotwiring, but no scooter security replaces physical locks - our rental security and steering lock guides cover the basics.
 - **Lost fob:** losing a rental bike's fob is a real problem - our lost-key guide covers what to do, and why you should tell the rental shop immediately.
 
 ## If you are choosing
 
-Smart key is a convenience, not a safety system - weight it below brakes, storage and seat fit. Renters: check whether your rental bike uses a fob before riding off, ask for the backup key, and test the seat open/close at the shop. Contact us to confirm current availability of any specific model.
+Smart key is a convenience, not a safety system - weight it below brakes, storage and seat fit. Renters: check whether your rental bike uses a fob before riding off, ask for the backup key, and test the seat open/close at the shop. Contact us to confirm current availability of any specific model. For the current model-by-model list, see our verified smart-key scooter list.

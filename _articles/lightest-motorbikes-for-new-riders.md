@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "easiest-motorbikes-for-beginners-hanoi, best-motorbike-for-hanoi-traffic, automatic-vs-manual-motorbike-hanoi, electric-bike-licence-vietnam, first-time-renting-a-motorbike-hanoi"
+internal_link_targets: "easiest-motorbikes-for-beginners-hanoi, best-motorbike-for-hanoi-traffic, automatic-vs-manual-motorbike-hanoi, electric-bike-licence-vietnam, first-time-renting-a-motorbike-hanoi, scooter-kerb-weights-vietnam-verified, yamaha-latte-125-review"
 ---
 
 Ask a new rider what went wrong at their first stop and the answer is nearly always the same: the bike fell over. Weight is the variable that decides that moment.
@@ -30,11 +30,12 @@ At a red light on a slope, with a bus behind you, the bike's mass goes through y
 
 - Licence-free e-bikes: the lightest class on the list, bicycle-like controls, published at 200,000 VND per day. No licence needed (the rider must be 16+). For a rider with no motorcycle licence, this is both the light option and the legal one.
 - Small automatic scooters: the Honda Click and Yamaha Mio class (150,000 VND/day) and Honda Vision (200,000 VND/day) are the light mainstream motorbikes - roughly the low-100-kg class for these models, with low centres of gravity.
-- Semi-automatic underbones: the Wave and Sirius class (150,000 VND/day) are light too, and narrow, at the cost of the foot-shift.
+- Semi-automatic underbones: the Wave and Sirius class (150,000 VND/day) a
+re light too, and narrow, at the cost of the foot-shift.
 
 ## The difference light makes, concretely
 
-Reaching the ground matters as much as the scale reading: a lighter bike you can flat-foot beats a heavier one you tiptoe. Sit on candidates before choosing - feet flat, knees clear of the bars, and the machine should feel holdable at a standstill, not balanced.
+Reaching the ground matters as much as the scale reading: a lighter bike you can flat-foot beats a heavier one you tiptoe. Our verified scooter kerb-weight table lists the current manufacturer figures, and the Yamaha Latte 125 review covers the lightest new 125 in showrooms. Sit on candidates before choosing - feet flat, knees clear of the bars, and the machine should feel holdable at a standstill, not balanced.
 
 ## The one warning
 

@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — official Honda Vietnam model pages (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — official Yamaha Vietnam product pages (retrieved 2026-09-23)"
-internal_link_targets: "disc-vs-drum-brakes-motorbike, emergency-braking-motorbike-vietnam, after-rain-slippery-roads-motorbike, honda-lead-125-review, yamaha-freego-125-review, brake-checks-motorbike-vietnam"
+internal_link_targets: "disc-vs-drum-brakes-motorbike, emergency-braking-motorbike-vietnam, after-rain-slippery-roads-motorbike, honda-lead-125-review, yamaha-freego-125-review, brake-checks-motorbike-vietnam, honda-sh-160-review, honda-hstc-traction-control-scooters"
 ---
 
 ABS prevents a wheel locking under hard braking - the difference between stopping and sliding on Hanoi's wet paint lines. The manufacturers' Vietnam pages (retrieved 23 September 2026) show ABS spreading into the mainstream scooter class, so here is what is verified and what to weigh.
@@ -33,8 +33,9 @@ Availability changes with model years - always confirm the exact version at the 
 
 ## Does ABS matter on a scooter?
 
-Yes, in the specific scenario it exists for: a panic stop on a low-grip surface. Our emergency braking guide covers the technique; ABS removes the hardest part - modulating the front brake perfectly while a bus pulls out. On rain-slicked streets (our post-rain surface guide) this is not theoretical. What ABS does not do: shorten dry-pavement stops on a light scooter with modest brakes, or compensate for worn pads - brake checks still matter.
+Yes, in the specific scenario it exists for: a panic stop on a low-grip surface. Our emergency braking guide covers the technique; 
+ABS removes the hardest part - modulating the front brake perfectly while a bus pulls out. On rain-slicked streets (our post-rain surface guide) this is not theoretical. What ABS does not do: shorten dry-pavement stops on a light scooter with modest brakes, or compensate for worn pads - brake checks still matter.
 
 ## If you are choosing
 
-Pay for ABS if your riding includes wet-season commuting, pillion riding or fast main roads. Skip it without guilt at pure Old Quarter speeds - and note that the cheapest safety upgrades remain tyres in good condition and a certified helmet. Renters: ask whether the specific bike has ABS; contact us to confirm current availability of any model.
+Pay for ABS if your riding includes wet-season commuting, pillion riding or fast main roads. Skip it without guilt at pure Old Quarter speeds - and note that the cheapest safety upgrades remain tyres in good condition and a certified helmet. The most complete current package is the SH160i ABS versions, which add two-wheel ABS plus Honda HSTC traction control - see the SH160i review and our HSTC explainer. Renters: ask whether the specific bike has ABS; contact us to confirm current availability of any model.
