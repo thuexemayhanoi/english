@@ -1,0 +1,63 @@
+{
+  "csvMerge": {
+    "target": "docs/matrix/master-matrix.csv",
+    "expectBefore": 703,
+    "rowsFiles": [
+      {
+        "file": "docs/matrix/batch-18-rows.csv",
+        "expectRows": 27
+      }
+    ],
+    "expectAfter": 730
+  },
+  "readmeReplaces": [
+    {
+      "find": "- 703 published articles: 28 cluster-5 manual & clutch articles",
+      "replace": "- 730 published articles: 27 cluster-5 manual & clutch articles (Batch 18, 2026-09-24 — see docs/matrix/batch-18-status.md) on top of the earlier 703: 28 cluster-5 manual & clutch articles"
+    },
+    {
+      "find": "14 topic hubs live; 5 currently show the empty state (Batch 17 added 28 guides to /topics/manual-clutch/)",
+      "replace": "14 topic hubs live; 4 currently show the empty state (Batch 18 completed the manual-clutch hub: 55 guides)"
+    },
+    {
+      "find": "plus 28 cluster-5 batch-17 rows preserved in docs/matrix/batch-17-rows.csv pending the next sync merge; 703 published articles)",
+      "replace": "plus 28 cluster-5 batch-17 rows preserved in docs/matrix/batch-17-rows.csv and 27 cluster-5 batch-18 rows preserved in docs/matrix/batch-18-rows.csv pending the next sync merge; 730 published articles)"
+    },
+    {
+      "find": "1. 5 topic clusters have zero published articles (cluster 5 opened by Batch 17; remaining: 50cc, electric, hanoi, trips, vietnam-travel — planned content, not a defect",
+      "replace": "1. 4 topic clusters have zero published articles (cluster 5 completed by Batches 17-18; remaining: 50cc, electric, hanoi, trips, vietnam-travel — planned content, not a defect"
+    },
+    {
+      "find": "- _queue/: empty (no drafts pending).",
+      "replace": "- _queue/: empty (no drafts pending).\n- Batch 18 (cluster-5 manual & clutch Part 2, final): 27 articles published 2026-09-24 (MM-0638-MM-0664: 6 manual-clutch technique guides, 8 semi-auto technique guides, 8 manual-model guides on verified Honda/Yamaha data, 5 renting-owning guides; part-commits 4eb36eb, ad3b04b, slug repairs 3c58a41 and a3b0b3b, part 3 17b372d, closing inbound-link commit f03394a). 730 articles site-wide; cluster 5: 55 of 55 intents published, COMPLETE. See docs/matrix/batch-18-status.md."
+    },
+    {
+      "find": "# CHANGE LOG\n\n- 2026-09-24 (39):",
+      "replace": "# CHANGE LOG\n\n- 2026-09-24 (40): Batch 18 (cluster-5 manual & clutch Part 2, final): 27 articles published (MM-0638-MM-0664; part-commits 4eb36eb, ad3b04b, slug repairs 3c58a41/a3b0b3b, part 3 17b372d, closing inbound-link commit f03394a): 6 manual-clutch technique guides, 8 semi-auto technique guides, 8 manual-model guides built from verified Honda VN / Yamaha VN MODEL-DATABASE rows (no Suzuki/SYM facts), 5 renting-owning guides; business facts exclusively from OWNER-FACTS. 730 articles site-wide; cluster 5: 55 of 55 intents, COMPLETE. Next: cluster 6 (50cc).\n- 2026-09-24 (39):"
+    }
+  ],
+  "sectionReplaces": [
+    {
+      "heading": "# NEXT RECOMMENDED STEP",
+      "content": "Batch 18 (cluster-5 manual & clutch Part 2, final) is published (2026-09-24): 27 articles (MM-0638-MM-0664; part-commits 4eb36eb, ad3b04b, slug repairs 3c58a41/a3b0b3b, part 3 17b372d, closing inbound-link commit f03394a), 730 published articles site-wide, cluster 5 COMPLETE: 55 of 55 intents via Batches 17-18. All model facts came from verified Honda VN / Yamaha VN MODEL-DATABASE rows (retrieved 2026-09-23); Suzuki/SYM pages remain blocked, so no Suzuki/SYM facts were written; business facts exclusively from OWNER-FACTS. Next per the MASTER-MATRIX production plan: cluster 6 (50cc, 40 intents — verify 50cc manufacturer facts in MODEL-DATABASE first), then cluster 7 (electric, which requires MODEL-DATABASE electric fields first); clusters 12-13 need route verification. Re-verify from CURRENT remote MAIN at the start of every run, and never run two production tasks against MAIN concurrently (see docs/matrix/batch-16-overlap-reconciliation.md)."
+    }
+  ],
+  "mmReplaces": [
+    {
+      "find": "- Cluster 5 (manual & clutch motorcycles) Part 1 is published: 28 of 55 intents (Batch 17, 2026-09-24, MM-0610-MM-0637 — see docs/matrix/batch-17-status.md). The 28 rows are preserved verbatim in docs/matrix/batch-17-rows.csv pending the master-matrix.csv sync merge.",
+      "replace": "- Cluster 5 (manual & clutch motorcycles) is COMPLETE: 55 of 55 intents (Batches 17-18, 2026-09-24, MM-0610-MM-0664 — see docs/matrix/batch-17-status.md and docs/matrix/batch-18-status.md). The 28 batch-17 rows are preserved verbatim in docs/matrix/batch-17-rows.csv and the 27 batch-18 rows in docs/matrix/batch-18-rows.csv pending the master-matrix.csv sync merge."
+    },
+    {
+      "find": "8. Clusters 5–6 (cluster 5 Part 1 published 2026-09-24: 28 of 55 intents, see docs/matrix/batch-17-status.md)\n7. Cluster 7 electric",
+      "replace": "8. Clusters 5–6 (cluster 5 COMPLETE 2026-09-24: 55 of 55 intents via Batches 17-18, see docs/matrix/batch-17-status.md and docs/matrix/batch-18-status.md; cluster 6 50cc next)\n7. Cluster 7 electric"
+    },
+    {
+      "find": "The CSV currently holds 675 committed rows (after the batch-14 merge 567 -> 592, bot commit 93d7d5c, the batch-15 docs-sync merge 592 -> 642, and the batch-16 docs-sync merge 642 -> 675",
+      "replace": "The CSV currently holds 730 committed rows (after the batch-14 merge 567 -> 592, bot commit 93d7d5c, the batch-15 docs-sync merge 592 -> 642, the batch-16 docs-sync merge 642 -> 675, the batch-17 docs-sync merge 675 -> 703 and the batch-18 docs-sync merge 703 -> 730"
+    },
+    {
+      "find": "and 108 cluster-4 motorcycle rows (108 published; cluster 4 COMPLETE - 106 planned intents plus 2 supplementary overlap articles).",
+      "replace": "and 108 cluster-4 motorcycle rows (108 published; cluster 4 COMPLETE - 106 planned intents plus 2 supplementary overlap articles) and 55 cluster-5 manual & clutch rows (55 published; cluster 5 COMPLETE - 28 in Batch 17 plus 27 in Batch 18)."
+    }
+  ]
+}
