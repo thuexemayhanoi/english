@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: automatic-vs-manual-motorbike-hanoi, riding-semi-automatic-first-time, monthly-motorbike-rental-hanoi-guide, how-to-rent-a-motorbike-hanoi, best-underbones-hanoi-commuting-verified
+internal_link_targets: automatic-vs-manual-motorbike-hanoi, riding-semi-automatic-first-time, monthly-motorbike-rental-hanoi, how-to-rent-a-motorbike-hanoi, best-underbones-hanoi-commuting-verified
 ---
 
 If Hanoi has a default rental bike, it is the semi-automatic underbone — the Honda Wave and Yamaha Sirius class. Simple, unkillable, and perfect for the city's rhythm of stop-and-go.
@@ -30,7 +30,8 @@ No clutch to manage, four gears to cover every speed the city allows, light stee
 - **Published prices:** Nguyen Tu rents the Honda Wave class and Yamaha Sirius at 150,000 VND per day. No weekly or monthly rate is published for these models — contact us for longer-term pricing.
 - **Deposit:** typically 2,000,000–5,000,000 VND depending on the vehicle and conditions.
 - **Insurance:** not provided; riders arrange their own.
-- **Availability:** the category is the historical core of the fleet, but for any specific model contact us to confirm current availability.
+- **Availability:** the category is the historical core of the fleet, but for any specific model contact us to confirm current
+ availability.
 
 ## Renting day to day
 
@@ -39,3 +40,4 @@ Fuel is at your own arrangement — underbones sip so little that fuel is a mino
 ## Who should choose something else
 
 Riders who want zero gearbox involvement at all belong on an automatic scooter; riders who want the sport end of the underbone world are looking at manual-clutch bikes. The automatic-versus-manual comparison lays out the three categories side by side, and the commuting underbones guide covers the models that fit Hanoi specifically.
+
