@@ -1,0 +1,61 @@
+name: Repair Batch 10 docs
+
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/repair-batch-10-docs.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Repair README state and merge missing matrix rows
+        run: |
+          set -e
+          node -e '
+          const fs = require("fs");
+          const rowLines = fs.readFileSync("docs/matrix/batch-10-rows.csv", "utf8").split(/\r?\n/).filter(l => /^MM-0(392|393|394|395|396|397|398|399|400|401|402|403|404|405|406|407|408|409|410|411|412|413|414|415|416),/.test(l));
+          console.log("batch rows found in rows file:", rowLines.length);
+          let csv = fs.readFileSync("docs/matrix/master-matrix.csv", "utf8");
+          const added = [];
+          for (const l of rowLines) {
+            const id = l.slice(0, l.indexOf(","));
+            if (!csv.includes(id + ",")) added.push(l);
+          }
+          if (added.length) {
+            csv = csv.replace(/\r?\n?$/, "\n") + added.join("\n") + "\n";
+            fs.writeFileSync("docs/matrix/master-matrix.csv", csv);
+          }
+          console.log("csv rows added:", added.length, "->", added.map(l => l.slice(0, l.indexOf(","))).join(" "));
+          let rm = fs.readFileSync("README.md", "utf8");
+          const hits = rm.split("- 457 published articles:").length - 1;
+          console.log("count anchor hits:", hits);
+          if (hits !== 1) { console.error("ABORT: expected exactly 1 count anchor"); process.exit(1); }
+          rm = rm.replace("- 457 published articles:", "- 482 published articles:");
+          const marker = "Batch 10 — cluster 3 scooter reviews Part 1";
+          if (!rm.includes(marker)) {
+            const entry = "- 2026-09-23: Batch 10 — cluster 3 scooter reviews Part 1 (state record, re-synced after overlap). Published 25 articles (MM-0392–MM-0416): 7 manufacturer-verified model reviews (Honda Vision, Honda Air Blade 125/160, Honda Lead, Yamaha Janus, FreeGo, Grande), 6 model comparisons, 4 choosing guides and 8 verified-data spec explainers. All technical facts from official Honda VN / Yamaha VN model pages (recorded in docs/MODEL-DATABASE.md, retrieved 2026-09-23); business facts exclusively from OWNER-FACTS; no invented specs, prices or availability. Quality Gate PASS on final batch commit 821eeb9 and on inbound-links commit 06ea5e5 (run 35854593703); intermediate part-commit gates failed transiently on forward internal-link references, resolved within the batch; 2 broken slugs repaired. Pages deployment verified live; scooters hub shows the 25-guide count. master-matrix.csv now holds all 25 batch rows (first sync 14ba6e2 merged 17 rows due to a MM-03/MM-04 filter bug; the 8 missing rows MM-0392–MM-0399 merged by this repair; concurrent-run commit fb75e4a had reverted the README count and removed this entry — both restored). See docs/matrix/batch-10-status.md. 482 published articles site-wide; cluster 3: 25 of 110 intents (Part 2 next).\n";
+            rm = rm.replace(/\n?$/, "\n") + entry;
+            console.log("changelog entry appended");
+          } else {
+            console.log("changelog entry already present");
+          }
+          fs.writeFileSync("README.md", rm);
+          '
+      - name: Commit and clean up
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/matrix/master-matrix.csv README.md
+          git rm .github/workflows/repair-batch-10-docs.yml
+          git commit -m "Batch 10 repair: restore README 482 count + changelog entry (reverted by fb75e4a), merge 8 missing matrix rows MM-0392–MM-0399" || echo "nothing to commit"
+          git push
