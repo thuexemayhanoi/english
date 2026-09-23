@@ -1,35 +1,57 @@
 ---
-title: "Honda Wave RSX vs Honda Winner R: Four-Speed Rotary or Manual Clutch"
+title: "Honda Wave RSX vs Honda Winner R: Injected 110 or 150 Sport?"
 slug: honda-wave-rsx-vs-honda-winner-r
-description: "Honda Wave RSX vs Honda Winner R compared on verified Honda Vietnam specs — injected commuter versus Honda’s manual-clutch sport underbone."
+description: "Wave RSX vs Winner R on verified Honda Vietnam data - the PGM-FI economy 110 against the liquid-cooled manual-clutch 150."
 category: motorcycles
 tags:
   - "honda wave rsx"
   - "honda winner r"
   - "motorcycle comparison"
-  - "manual clutch motorbike"
+  - "semi-automatic motorbike"
 content_type: model-comparison
 search_intent: commercial
 topic_cluster: motorcycles
 subcluster: "4.2 model-comparisons"
-date_published: 2026-09-23
-last_reviewed: 2026-09-23
+date_published: 2026-09-24
+last_reviewed: 2026-09-24
 sources:
-  - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23)"
+  - "honda.com.vn and yamaha-motor.com.vn - official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-winner-r-review, honda-wave-rsx-review, rotary-gearbox-vs-manual-clutch-explained, best-150cc-manual-motorbikes-vietnam-verified, underbone-fuel-economy-figures-explained
+internal_link_targets: honda-wave-rsx-review, honda-winner-r-review, honda-wave-alpha-vs-honda-winner-r, honda-future-125-vs-honda-winner-r, honda-pgm-fi-explained, best-110cc-underbones-vietnam-verified
 ---
 
-The most common real-world upgrade question in this class: stay with a comfortable, economical rotary-gearbox commuter or move to Honda's manual-clutch sport underbone. Verified Honda VN specifications below (retrieved 23 September 2026).
+Honda's own line-up contains both the cheapest way to inject fuel and the cheapest way to reach 9,000 rpm. The Wave RSX and the Winner R share almost nothing except a badge and four-stroke singles - the numbers below come from Honda Vietnam's official pages (retrieved 23 September 2026).
 
-## Power and transmission
+## The core difference
 
-Wave RSX: 109.2 cc air-cooled PGM-FI single, 6.46 kW at 7,500 rpm, 8.70 Nm at 6,000 rpm, four-speed rotary. Winner R: 149.2 cc liquid-cooled single, 11.5 kW at 9,000 rpm, 13.5 Nm at 7,000 rpm, manual clutch. The Winner R delivers a large performance step — at the cost of learning clutch control and feeding it far more fuel.
+The Wave RSX is a 109.2 cc air-cooled underbone with PGM-FI injection, a four-speed rotary gearbox and a claimed 1.56 L/100 km. The Winner R is a 149.2 cc liquid-cooled sport underbone with a manual clutch, 11.5 kW at 9,000 rpm and a claimed 2.59 L/100 km under the UDC method.
 
-## Economy and practicality
+## The verified numbers
 
-Wave RSX: 1.56 L/100 km claimed, 4.0-litre tank, 98 kg, U-box storage, 25,664,727 VND. Winner R: 2.59 L/100 km claimed (UDC method — note Honda's method change from the older 1.98 figure), 4.5 litres, 124 kg, 46,360,000 VND. The RSX is the cheaper bike to buy and run; the Winner R is the faster, more involving one. Our fuel-economy figures explainer shows how to read these claims.
+| Spec | Wave RSX | Winner R |
+|---|---|---|
+| Engine | 109.2 cc, PGM-FI, air-cooled | 149.2 cc, liquid-cooled KC46E |
+| Max power | 6.46 kW @ 7,500 rpm | 11.5 kW @ 9,000 rpm |
+| Max torque | 8.70 Nm @ 6,000 rpm | 13.5 Nm @ 7,000 rpm |
+| Gearbox | 4-speed rotary | manual clutch |
+| Fuel tank | 4.0 L | 4.5 L |
+| Claimed economy | 1.56 L/100 km | 2.59 L/100 km (UDC) |
+| Seat height | 760 mm | 795 mm |
+| Kerb weight | 98 kg | 124 kg |
+| List price | 25,664,727 VND | 46,360,000 VND |
 
-## How to decide
+Real-world fuel economy varies with speed, load and conditions.
 
-If your riding is city commuting with the occasional long run, the RSX is the rational pick and the smoother daily tool. If you ride for enjoyment, want quick overtaking on open stretches and accept the fuel bill, the Winner R — see our 150cc manual guide. Neither is a price-published rental class at Nguyen Tu; contact us to confirm current availability.
+## What it means on the road
+
+The RSX is the thinking rider's economy bike: injection for clean running, a 4.0-litre tank that Honda's own claim says should take you roughly 250 km between fills, and a U-box for a half-helmet. The Winner R is about the engine: liquid cooling for sustained high revs, 55 percent more torque, and gearing meant for acceleration rather than economy.
+
+Between them stands a 20.7-million-VND price gap and a 26 kg weight difference - the Winner R is noticeably more motorcycle to manoeuvre at parking speed.
+
+## Which one for you?
+
+The Wave RSX is the correct choice for daily cost-per-kilometre riders who still want injected fueling and the Wave badge. The Winner R only makes sense if you want the manual-clutch sport experience - it is a hobby purchase that happens to be practical.
+
+## Renting either one
+
+Neither model is price-published - contact us to confirm current availability. The Honda Wave class is our published daily rental at 150,000 VND per day; the exact version in the fleet varies. Insurance is not included in rentals.
