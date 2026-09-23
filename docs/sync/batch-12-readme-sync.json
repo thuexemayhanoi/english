@@ -1,0 +1,46 @@
+{
+  "rowFiles": ["docs/matrix/batch-11-rows.csv", "docs/matrix/batch-12-rows.csv"],
+  "replacements": [
+    {
+      "find": "- 482 published articles:",
+      "replace": "- 532 published articles:"
+    },
+    {
+      "find": "All business facts in rental, monthly-rental and maintenance articles come exclusively from docs/OWNER-FACTS.md.",
+      "replace": "Since then, cluster-3 scooter production published 25 articles in Batch 10 (MM-0392–MM-0416), 25 in Batch 11 (MM-0417–MM-0441) and 25 in Batch 12 (MM-0442–MM-0466) — 75 of 110 cluster-3 intents published (see docs/matrix/batch-10-status.md, batch-11-status.md and batch-12-status.md). All business facts in rental, monthly-rental, maintenance and scooter articles come exclusively from docs/OWNER-FACTS.md."
+    },
+    {
+      "find": "parts-gear hub lists all 90 parts/gear guides",
+      "replace": "parts-gear hub lists all 90 parts/gear guides, scooters hub lists all 75 scooter guides"
+    },
+    {
+      "find": "- _queue/: empty (no drafts pending).",
+      "replace": "- Batch 10 (cluster-3 scooters Part 1): 25 articles published 2026-09-23 (MM-0392–MM-0416) — see docs/matrix/batch-10-status.md.\n- Batch 11 (cluster-3 scooters Part 2): 25 articles published 2026-09-23 (MM-0417–MM-0441, part-commits 57ee6be/f93489c/978d63f/90b2e23) — see docs/matrix/batch-11-status.md. 507 articles site-wide at that state.\n- Batch 12 (cluster-3 scooters Part 3): 25 articles published 2026-09-23 (MM-0442–MM-0466: 3 Yamaha model reviews, 12 model comparisons, 6 verified-data choosing guides, 4 spec explainers; part-commits d80b634/8db94c4/f81cf7c/d06dae8) — see docs/matrix/batch-12-status.md. 532 articles site-wide; cluster 3: 75 of 110 intents published.\n- _queue/: empty (no drafts pending)."
+    }
+  ],
+  "sectionReplaces": [
+    {
+      "heading": "# MASTER MATRIX STATE",
+      "content": "- docs/matrix/master-matrix.csv holds 532 committed rows after the docs-sync merge of the pending batch-11 and batch-12 row files (482 previously committed rows + 25 rows from docs/matrix/batch-11-rows.csv + 25 rows from docs/matrix/batch-12-rows.csv; 532 published articles): 81 rental-cluster rows (81 published, cluster 1 complete), 45 monthly & long-term rental rows (45 published, cluster 2 complete), the complete 66-row cluster-11 law/licence slice (66 published; IDs renumbered to the unique LAW-0001–LAW-0066 range — see docs/matrix/batch-4-status.md), the complete 55-row cluster-10 safety slice (55 published, cluster 10 complete), 120 cluster-8 maintenance rows (120 published, cluster 8 complete), 90 cluster-9 parts/gear rows (90 published, cluster 9 complete) and 75 cluster-3 scooter rows (75 published, cluster 3 in progress — 35 of 110 intents remain). The 988-intent plan in docs/MASTER-MATRIX.md remains the planning framework; rows for the remaining clusters are authored batch by batch, before each batch is written. Remaining rows are production candidates according to batch order (not approved for immediate wholesale publication).\n- Cluster order for batches: law-licences (batch 1, 66 intents, COMPLETE) -> rental (batch 2, 81 intents, COMPLETE) -> monthly-rental (batch 3, 45 intents, COMPLETE) -> safety + maintenance Parts 1-2 (batches 4-5, COMPLETE) -> maintenance Part 3 + parts-gear Part 1 (batch 6, COMPLETE) -> maintenance Part 4 (batch 7, COMPLETE) -> parts-gear Parts 2-3 (batches 8-9, COMPLETE, cluster 9 done) -> cluster-3 scooters (batches 10-12, 75 of 110 intents published) -> then the remaining model/travel clusters per docs/MASTER-MATRIX.md.\n- docs/matrix/batch-1-status.md through docs/matrix/batch-9-status.md are the authoritative records for batches 1-9 (see each file). docs/matrix/batch-10-status.md is the authoritative record for the cluster-3 Part 1 batch (MM-0392–MM-0416), docs/matrix/batch-11-status.md for the Part 2 batch (MM-0417–MM-0441) and docs/matrix/batch-12-status.md for the Part 3 batch (MM-0442–MM-0466)."
+    },
+    {
+      "heading": "# DEPLOYMENT STATE",
+      "content": "- Hosting: GitHub Pages, Jekyll, baseurl /english.\n- Latest verified implementation commit: d06dae8 (Batch 12: 25 cluster-3 scooter articles in four part-commits d80b634/8db94c4/f81cf7c/d06dae8 — 3 Yamaha model reviews, 12 model comparisons, 6 choosing guides, 4 spec explainers + inbound links). Verified 2026-09-23: the live /articles/ index renders the 532-guide total, the /topics/scooters/ hub renders the 75-guide count, and new article pages spot-checked live resolve with correct content.\n- Latest verified Quality Gate run: 35863983644 (commit d06dae8, success, 2026-09-23; the part-commit f81cf7c gate run 35863940794 also passed; the gates on part-commits d80b634 and 8db94c4 failed transiently on forward internal-link references — see docs/matrix/batch-12-status.md).\n- Latest verified Pages run: 35863983933 (commit d06dae8; build, report-build-status and deploy jobs all success, 2026-09-23).\n- Batch-11 state for reference: 507 articles, final commit f7f2e719f (see docs/matrix/batch-11-status.md).\n- README-only state updates may create a newer HEAD than the SHAs recorded here; the values above always refer to the last implementation commit whose CI/deploy was actually verified. Matrix-row and README merges run server-side via the Docs Sync workflow (scripts/apply-batch-docs.js, payloads docs/sync/*.json)."
+    },
+    {
+      "heading": "# NEXT RECOMMENDED STEP",
+      "content": "Batch 12 (cluster-3 scooters Part 3) is COMPLETE and state-synced (2026-09-23): 25 articles published (MM-0442–MM-0466), 532 published articles site-wide, scooters hub listing 75 guides live, and the pending batch-11/batch-12 matrix rows merged into master-matrix.csv (532 rows) by the docs-sync workflow. MODEL-DATABASE now holds 15 verified manufacturer rows (Honda VN: Vision, SH Mode 125, Lead 125 ABS, Vario 125, Vario 160, Air Blade 160, Air Blade 125 partial; Yamaha VN: Grande, Janus, FreeGo, Latte 125, Sirius RC 110, NVX 155, NMAX 155, Gear 125 Hybrid, Lexi 155; SYM VN: Attila 50; Suzuki and Piaggio pages still blocked 403 — rows PENDING). Next: Batch 13 — cluster 3 Part 4 (35 remaining intents: retry the Suzuki/Piaggio/SYM manufacturer pages for the pending model rows, or design non-model-specific intents from the verified Honda/Yamaha data only), then cluster 4 motorcycle reviews with continued MODEL-DATABASE research first. Never run two production tasks against MAIN concurrently (see changelog 30 overlap repair)."
+    }
+  ],
+  "changelogPrepend": [
+    "- 2026-09-23 (32): State sync + docs-sync mechanism — batch-11 (MM-0417–MM-0441) and batch-12 (MM-0442–MM-0466) matrix rows merged into docs/matrix/master-matrix.csv (482 -> 532 rows) and README state sections updated server-side by the new Docs Sync workflow (scripts/apply-batch-docs.js + .github/workflows/docs-sync.yml, payload docs/sync/batch-12-readme-sync.json). The mechanism was added because README.md and master-matrix.csv exceed the 32,793-character fetch window of the production run's GitHub read tooling, which made client-side rewrites unsafe. The script strictly validates every replacement (exact-once match) and writes nothing on mismatch. This sync also merges the pending Batch 10/11/12 records into the README batch state.",
+    "- 2026-09-23 (31): Batch 12 — cluster 3 scooter reviews Part 3: 25 articles published in four part-commits (d80b634, 8db94c4, f81cf7c, d06dae8; MM-0442–MM-0466): 3 manufacturer-verified Yamaha model reviews (NMAX 155, Gear 125 Hybrid, Lexi 155), 12 model comparisons (NMAX vs NVX, NMAX vs SH160i, Lexi vs NMAX, Lexi vs SH Mode, Air Blade 125 vs Vario 125, Vario 160 vs Air Blade 160, Vision vs Lead 125, Vision vs FreeGo 125, Gear 125 vs Vision, Gear 125 vs FreeGo, Gear 125 vs Janus, Latte vs Lead 125), 6 verified-data choosing guides (short riders, fuel economy, under-40m prices, lightest scooters, storage, Hanoi commuting) and 4 spec explainers (idling stop, hybrid systems, payload limits, TCS vs ABS). All technical facts from official Yamaha VN pages (recorded in docs/MODEL-DATABASE.md, retrieved 2026-09-23); business facts exclusively from OWNER-FACTS; no invented specs, prices or availability. Quality Gate PASS on final batch commit d06dae8 (run 35863983644; the part-commit gates on d80b634 and 8db94c4 failed transiently on forward internal links — known pattern from Batches 10-11); Pages run 35863983933 deployed successfully; live verification: 532-guide /articles/ total, 75-guide scooters hub, new slugs resolve. See docs/matrix/batch-12-status.md. 532 published articles site-wide; cluster 3: 75 of 110 intents (Part 4 next)."
+  ],
+  "expectContains": [
+    "532 published articles",
+    "scooters hub lists all 75",
+    "Docs Sync workflow",
+    "Batch 12 — cluster 3 scooter reviews Part 3",
+    "MM-0442–MM-0466"
+  ]
+}
