@@ -16,5 +16,10 @@ Authoritative publish/review record for Batch 16. Date: 2026-09-24 (Asia/Ho_Chi_
 
 ## Research provenance
 
-- All technical facts from the MODEL-DATABASE Batch 14 verified rows (Honda VN pages for Wave Alpha 110, Blade, Wave RSX, Future 125 FI, Super Cub C125, CT125, Winner R, CBR150R; Yamaha VN pages for Sirius RC 110, Exciter 155 VVA; retrieved 2026-09-23). No secondary sources, no estimated specs, no fields filled where the manufacturer publishes none (Sirius/Exciter seat heights, Wave Alpha/Sirius fuel systems remain unclaimed).
+- All technical facts from th
+e MODEL-DATABASE Batch 14 verified rows (Honda VN pages for Wave Alpha 110, Blade, Wave RSX, Future 125 FI, Super Cub C125, CT125, Winner R, CBR150R; Yamaha VN pages for Sirius RC 110, Exciter 155 VVA; retrieved 2026-09-23). No secondary sources, no estimated specs, no fields filled where the manufacturer publishes none (Sirius/Exciter seat heights, Wave Alpha/Sirius fuel systems remain unclaimed).
 - List prices are date-stamped manufacturer list prices and marked as changing over time in every article that cites them.
+
+## Overlap reconciliation
+
+This batch was produced concurrently by two scheduled runs; see docs/matrix/batch-16-overlap-reconciliation.md for the authoritative reconciliation. Net effect: 31 planned articles above, plus 2 supplementary articles (honda-wave-alpha-vs-honda-cbr150r, honda-blade-vs-winner-r) retained from the second run after 7 same-slug supersessions - 675 published articles site-wide, not 673. MM-0608/MM-0609 rows pending in docs/matrix/batch-16b-rows.csv.
