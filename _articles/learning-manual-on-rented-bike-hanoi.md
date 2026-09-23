@@ -39,7 +39,7 @@ A light, small, slow bike — a Wave-class semi-auto is the classic learning too
 
 ## Practise in the right places
 
-The where-to-practactise guide maps the graduated route from empty parking lot to light street. Do the first two sessions off-street, however confident you feel — Hanoi traffic forgives slow riders but punishes learners mid-junction.
+The where-to-practise guide maps the graduated route from empty parking lot to light street. Do the first two sessions off-street, however confident you feel — Hanoi traffic forgives slow riders but punishes learners mid-junction.
 
 ## The honest timeline
 

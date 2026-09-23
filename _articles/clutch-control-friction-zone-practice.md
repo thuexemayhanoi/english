@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: how-to-ride-manual-clutch-motorbike-vietnam, slow-speed-control-motorbike-vietnam, hill-starts-motorbike-slopes-vietnam, first-hour-manual-clutch-practice-checklist, common-beginner-clutch-mistakes
+internal_link_targets: how-to-ride-manual-clutch-motorbike-vietnam, slow-speed-control-motorbike-vietnam, hill-starts-motorbike-slopes-vietnam, first-hour-manual-clutch-practice-checklist, common-beginner-clutch-mistakes, slow-speed-clutch-balance-manual-motorbike, week-one-manual-clutch-practice-plan
 ---
 
 Clutch control is the single skill that separates riders who stall twice and riders who stall for a month. The good news: it is pure practice, and you can drill it anywhere flat and quiet.

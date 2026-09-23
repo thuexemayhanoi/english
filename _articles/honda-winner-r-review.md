@@ -19,7 +19,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — Honda VN model pages (Super Cub C125, CT125, Winner R, CBR150R), official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: yamaha-exciter-155-vva-review, air-cooled-vs-liquid-cooled-motorbike, a1-licence-vietnam-what-you-can-ride, best-motorbike-for-day-trips-from-hanoi, clutch-slipping-manual-motorbike
+internal_link_targets: yamaha-exciter-155-vva-review, air-cooled-vs-liquid-cooled-motorbike, a1-licence-vietnam-what-you-can-ride, best-motorbike-for-day-trips-from-hanoi, clutch-slipping-manual-motorbike, winner-r-exciter-155-ownership-costs, buying-used-sport-underbone-verified
 ---
 
 The Winner R is Honda Vietnam's sport underbone - what locals call a xe côn tay, a manual-clutch bike with the race-replica styling of a bigger machine. It is the direct rival to Yamaha's Exciter, and one of the cheapest ways into clutch-and-gearbox riding in Vietnam. All figures below come from the official Honda Vietnam Winner R product page (retrieved 23 September 2026).

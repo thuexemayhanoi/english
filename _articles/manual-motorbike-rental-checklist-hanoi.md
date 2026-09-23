@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: how-to-rent-a-motorbike-hanoi, first-time-renting-a-motorbike-hanoi, motorbike-rental-requirements-hanoi, clutch-lever-adjustment-underbones, learning-basic-motorbike-maintenance
+internal_link_targets: how-to-rent-a-motorbike-hanoi, first-time-renting-a-motorbike-hanoi, motorbike-rental-requirements-hanoi, clutch-lever-adjustment-underbones, learning-basic-motorbike-maintenance, learning-manual-on-rented-bike-hanoi, monthly-renting-manual-clutch-hanoi
 ---
 
 Ten minutes of checks at pickup saves a day of trouble later. Work down this list before the bike leaves the street.

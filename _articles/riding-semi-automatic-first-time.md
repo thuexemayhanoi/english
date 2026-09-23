@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: semi-automatic-gearbox-explained, how-to-shift-gears-semi-automatic-underbone, riding-semi-automatic-first-time, easiest-motorbikes-for-beginners-hanoi, renting-semi-automatic-underbone-hanoi, automatic-vs-manual-motorbike-hanoi
+internal_link_targets: semi-automatic-gearbox-explained, how-to-shift-gears-semi-automatic-underbone, riding-semi-automatic-first-time, easiest-motorbikes-for-beginners-hanoi, renting-semi-automatic-underbone-hanoi, automatic-vs-manual-motorbike-hanoi, semi-auto-two-up-riding-technique, smoothing-semi-auto-launch-jerk
 ---
 
 The semi-automatic underbone is Vietnam's everyday machine — the Honda Waves, Blades and Yamaha Sirius models that carry the country. For a first-time rider it is the friendliest motorbike with a gearbox in the world: you shift gears with your foot, but there is no clutch and no way to stall.

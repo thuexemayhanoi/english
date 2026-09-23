@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: rotary-gearbox-vs-manual-clutch-explained, best-manual-clutch-motorbikes-beginners-verified, clutch-control-friction-zone-practice, first-hour-manual-clutch-practice-checklist, a1-licence-vietnam-what-you-can-ride, first-time-renting-a-motorbike-hanoi
+internal_link_targets: rotary-gearbox-vs-manual-clutch-explained, best-manual-clutch-motorbikes-beginners-verified, clutch-control-friction-zone-practice, first-hour-manual-clutch-practice-checklist, a1-licence-vietnam-what-you-can-ride, first-time-renting-a-motorbike-hanoi, week-one-manual-clutch-practice-plan, coasting-neutral-dangers-manual-motorbike
 ---
 
 A manual-clutch motorbike — what Vietnamese riders call a xe con tay — has three controls a scooter does not: a clutch lever on the left bar, a gear lever by your left foot, and a gearbox you manage yourself. Sport underbones like the Honda Winner R and Yamaha Exciter 155 are the models you will meet most often. Here is how the pieces fit together on a first ride.
