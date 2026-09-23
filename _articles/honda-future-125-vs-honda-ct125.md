@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-future-125-review, honda-ct125-review, honda-ct125-vs-honda-super-cub, honda-ct125-vs-honda-winner-r, best-125cc-underbones-vietnam-verified, gravel-roads-motorbike-vietnam
+internal_link_targets: honda-future-125-review, honda-ct125-review, honda-ct125-vs-honda-super-cub-c125, honda-ct125-vs-honda-winner-r, best-125cc-underbones-vietnam-verified, gravel-roads-motorbike-vietnam
 ---
 
 Both of these Hondas have 123.9-124.9 cc engines and four-speed gearboxes - yet they are built for different worlds. The Future 125 FI is the long-distance road underbone; the CT125 is the adventure-styled Cub. Honda VN's published specifications (retrieved 23 September 2026) show the split clearly.
@@ -28,7 +28,8 @@ Future 125 FI: 124.9 cc, air-cooled, 6.83 kW at 7,500 rpm, 10.2 Nm at 5,500 rpm.
 
 ## Capability
 
-Future: 133 mm ground clearance, 1,931 mm long, 756 mm seat, 104 kg, 70/90-17 front and 80/90-17 rear. CT: 165 mm clearance - the highest in Honda's listed underbone range - 800 mm seat, 117 kg, 80/90-17 tyres both ends, rack styling for luggage. On gravel and flooded rural tracks the CT is unambiguously the better tool; our gravel-road riding guide explains the techniques it rewards.
+Future: 133 mm ground clearance, 1,931 mm long, 756 mm seat, 104 kg, 70/90-17 front and 80/90-17 rear. CT: 165 mm clearance - the highest in Honda's listed underbone range - 800 mm seat, 117 kg, 80/90-17 tyres both ends, rack styling for luggage. On gravel and flooded rural tracks the CT is unambiguously the better tool; our gravel-road riding guide explains the tech
+niques it rewards.
 
 ## Fuel and economy
 
