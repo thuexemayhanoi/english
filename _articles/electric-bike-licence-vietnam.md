@@ -19,7 +19,7 @@ review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Articles 3, 31, 57, 59, 89"
   - "https://vanban.chinhphu.vn/?pageid=27160&docid=211194&classid=1&typegroupid=3 — Law No. 36/2024/QH15, original record (vanban.chinhphu.vn)"
-internal_link_targets: vietnam-motorbike-licence-classes-explained, 50cc-licence-vietnam, a1-licence-vietnam-what-you-can-ride, 50cc-vs-e-bike-vietnam, 50cc-vs-electric-moped-4kw
+internal_link_targets: "vietnam-motorbike-licence-classes-explained, 50cc-licence-vietnam, a1-licence-vietnam-what-you-can-ride, what-is-electric-motorbike-vietnam, electric-moped-vs-electric-motorcycle-vietnam"
 ---
 
 Vietnam classifies electric two-wheelers by construction and power, and the boundaries decide whether you need a licence at all. The definitions come from Article 3 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15).
@@ -28,8 +28,7 @@ Vietnam classifies electric two-wheelers by construction and power, and the boun
 
 **Pedal-type electric bicycles (xe đạp điện).** The law defines these as bicycles with motor assistance whose power cuts out when the rider stops pedalling or when the bike reaches 25 km/h. They are legally non-motorised vehicles: no driving licence applies, and riders must be old enough to ride a bicycle on the road. Riders and passengers must still wear standard-compliant helmets (Article 31).
 
-**Electric mopeds (xe gắn máy chạy điện), 4 kW and under.** Scooter-style electric two-wheelers of 4 kW or less, designed for no more than 50 km/h, fall in the moped class: no driving lice
-nce, rider must be at least 16. This is where many p
+**Electric mopeds (xe gắn máy chạy điện), 4 kW and under.** Scooter-style electric two-wheelers of 4 kW or less, designed for no more than 50 km/h, fall in the moped class: no driving licence, rider must be at least 16. This is where many p
 opular city e-bikes and small electric scooters sit.
 
 **Electric motorcycles, above 4 kW.** These need a licence, matched to power under Article 57:
@@ -50,3 +49,5 @@ Riders sometimes assume every electric two-wheeler is "just a bicycle". A scoote
 Electric options suit short city trips: quiet, cheap to run, no petrol smell. Range and charging time vary a lot by model. Contact us to confirm current availability of electric motorcycles or e-bikes.
 
 *Information, not legal advice. Verified against the full text of Law 36/2024/QH15 on 2026-09-21.*
+
+For what an electric motorbike is as a machine and category, see our what-is-electric-motorbike-vietnam and electric-moped-vs-electric-motorcycle-vietnam guides.

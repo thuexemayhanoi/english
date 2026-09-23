@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: best-scooters-to-rent-hanoi, automatic-vs-manual-motorbike-hanoi, best-motorbike-for-commuting-hanoi, easiest-motorbikes-for-beginners-hanoi, motorbike-lane-rules-vietnam, best-110cc-underbones-vietnam-verified, is-a-50cc-enough-for-hanoi, riding-50cc-hanoi-traffic
+internal_link_targets: "best-scooters-to-rent-hanoi, automatic-vs-manual-motorbike-hanoi, best-motorbike-for-commuting-hanoi, easiest-motorbikes-for-beginners-hanoi, motorbike-lane-rules-vietnam, best-110cc-underbones-vietnam-verified, electric-vs-petrol-motorbike-hanoi, electric-motorbike-commuting-hanoi"
 ---
 
 Hanoi traffic is dense, slow and negotiated centimetre by centimetre. The bike that wins it is not the powerful one - it is the narrow, light, calm one.
@@ -32,8 +32,7 @@ Hanoi traffic is dense, slow and negotiated centimetre by centimetre. The bike t
 
 ## The classes that work
 
-Automatic scooters - the Honda Vision, Honda Click, Yamaha Mio class - are the default answer: light, twist-and-go, under-seat storage, m
-ade for exactly this. Semi-automatic underbones - the H
+Automatic scooters - the Honda Vision, Honda Click, Yamaha Mio class - are the default answer: light, twist-and-go, under-seat storage, made for exactly this. Semi-automatic underbones - the H
 onda Wave, Yamaha Sirius class - are the
  Vietnamese workhorse: narrower, cheaper, simpler to fix anywhere, with the foot-shift as the single trade-off. Both classes appear on rental lists at 150,000-200,000 VND per day; contact us to confirm current availability.
 
@@ -52,3 +51,5 @@ The scooter article compares the specific models; the beginner article covers th
 
 
 For the verified data behind the underbone recommendation, see our 110 cc underbones data guide ranking the Wave Alpha, Blade, Wave RSX and Sirius.
+
+Electric riders should also read electric-vs-petrol-motorbike-hanoi and electric-motorbike-commuting-hanoi for the format-specific view of the same traffic.

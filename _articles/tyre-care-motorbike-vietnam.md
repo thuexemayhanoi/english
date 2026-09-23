@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
-internal_link_targets: "inner-tubes-vs-tubeless-motorbike, punctured-tyre-on-rental-motorbike, consumables-monthly-rental-hanoi, motorbike-safety-checklist-before-riding, high-mileage-rental-motorbike-inspection"
+internal_link_targets: "inner-tubes-vs-tubeless-motorbike, punctured-tyre-on-rental-motorbike, consumables-monthly-rental-hanoi, motorbike-safety-checklist-before-riding, high-mileage-rental-motorbike-inspection, electric-motorbike-tyre-checks"
 ---
 Tyres are the only thing between you and the road, and in Vietnam they work hard: heat, flooding, gravel and the eternal hunt for potholes. This article covers checking and reading them. Exact pressure values are deliberately not given — they are model- and tyre-specific; the sticker on the bike or the owner's manual is the authority.
 
@@ -27,7 +27,8 @@ Pressures drop slowly and invisibly, and an under-inflated tyre is the quiet cau
 
 ## Reading the wear
 
-Tread depth: when the wear bars (the little raised ridges inside the grooves) sit level with the tread, the tyre is finished — and in the wet, worn tread stretches braking badly. Look for uneven wear: a flat centre band means mostly-highway use; scrubbed edges mean enthusiastic cornering; wear on one side alone suggests alignment or pressure problems worth a mechanic's look.
+Tread depth: when the wear bars (the little raised ridges inside the grooves) sit level with the tread, the tyre is finished — and in the wet, worn tread stretches braking badly. Look for uneven wear: a flat centre band means mostly-highway use; scrubbed edges mean enthusiastic cornering; wear on on
+e side alone suggests alignment or pressure problems worth a mechanic's look.
 
 ## Damage that means stop riding it
 
@@ -40,3 +41,5 @@ Tyres and inner tubes are consumables that may be the renter's responsibility de
 ## The one-line version
 
 Gauge-check the pressure cold every week or so, read the wear bars, and treat cuts or bubbles as parking the bike — the two contact patches you ride on deserve the two minutes.
+
+Electric motorbike riders carry extra weight and instant torque — the electric-specific wear patterns are covered in electric-motorbike-tyre-checks.

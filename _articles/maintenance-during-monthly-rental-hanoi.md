@@ -18,7 +18,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "monthly-motorbike-rental-hanoi, rental-motorbike-care-long-term-hanoi, monthly-rental-inspection-schedule-hanoi, punctured-tyre-on-rental-motorbike"
+internal_link_targets: "monthly-motorbike-rental-hanoi, rental-motorbike-care-long-term-hanoi, monthly-rental-inspection-schedule-hanoi, punctured-tyre-on-rental-motorbike, electric-motorbike-battery-lifespan-vietnam"
 ---
 
 Maintenance is one of the biggest differences between a daily and a monthly rental. A daily bike gets checked by the shop between riders; a monthly bike spends weeks in your hands, so both sides have ongoing responsibilities. Here is how it works.
@@ -31,7 +31,8 @@ Maintenance included in the rental may cover oil changes, chain adjustment and t
 
 Consumables such as inner tubes and tyres may be the renter's responsibility depending on the situation. Day-to-day care is yours too: keeping tyre pressure sensible, watching for chain slack, keeping the bike dry where possible, and not ignoring new noises. If the bike needs work, see outside-repair-shops-rental-motorbike for how a shop visit during a rental is usually handled.
 
-## The high-mileage question
+## The high-mileage questio
+n
 
 If you ride a lot, the owner historically recommends periodic checks around 1,500 km or more of use. That is practical owner guidance, not a manufacturer interval — but it is a reasonable rhythm for a monthly renter who commutes daily. Tell the shop your expected mileage when you set the rental up; high-mileage use is covered in high-mileage-monthly-rental-hanoi.
 
@@ -42,3 +43,5 @@ Do not attempt engine work, electrical changes or modifications on a rental bike
 ## The one-line version
 
 The shop covers routine maintenance such as oil, chain and inspection; you cover daily care and possibly tubes and tyres — and when in doubt, call the shop before the problem grows.
+
+Riders using an electric bike monthly should also read electric-motorbike-battery-lifespan-vietnam for the pack-specific care rules.

@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "storms-when-to-stop-riding-motorbike, riding-motorbike-heavy-rain-vietnam, renting-motorbike-hanoi-rainy-season, potholes-bad-roads-motorbike-vietnam, outside-repair-shops-rental-motorbike"
+internal_link_targets: "storms-when-to-stop-riding-motorbike, riding-motorbike-heavy-rain-vietnam, renting-motorbike-hanoi-rainy-season, potholes-bad-roads-motorbike-vietnam, outside-repair-shops-rental-motorbike, riding-electric-motorbike-hanoi-rain"
 ---
 Hanoi floods fast in the rainy season: drains back up, and streets can hold twenty centimetres of water within minutes. Water is one of the few road conditions where the correct decision is often not to ride at all — and where the wrong decision can destroy an engine.
 
@@ -31,7 +31,8 @@ Enter slowly, keep a steady low speed, and do not rev hard — a scooter's air i
 
 ## What water hides
 
-Potholes (potholes-bad-roads-motorbike-vietnam), missing manhole covers, and live electrical faults near fallen cables. After crossing, dry your brakes by dragging them gently for a few seconds — wet brakes do nothing until they dry.
+Potholes (potholes-bad-roads-motorbike-vietnam), missing manhole covers, and live electrical faults near fallen cables. After crossing, dry your brakes by dragging them gently 
+for a few seconds — wet brakes do nothing until they dry.
 
 ## When to stop and wait
 
@@ -40,3 +41,5 @@ Strong current, hidden surface, or water over the exhaust outlet: park on the hi
 ## The one-line version
 
 If you cannot see the bottom, do not go in; if you can, crawl through on the shallow crown — and never gamble an engine against a schedule.
+
+Electric two-wheeler riders have extra water considerations (IP ratings, wet connectors) — see riding-electric-motorbike-hanoi-rain.
