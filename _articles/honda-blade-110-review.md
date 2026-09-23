@@ -19,7 +19,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — Honda VN model pages (Wave Alpha 110, Blade, Wave RSX, Future 125 FI), official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-wave-alpha-110-review, honda-wave-rsx-review, disc-vs-drum-brakes-motorbike, automatic-vs-manual-motorbike-hanoi, best-motorbike-for-students-hanoi
+internal_link_targets: honda-wave-alpha-110-review, honda-wave-rsx-review, disc-vs-drum-brakes-motorbike, automatic-vs-manual-motorbike-hanoi, best-motorbike-for-students-hanoi, honda-blade-drum-vs-disc
 ---
 
 The Blade sits one rung above the Wave Alpha in Honda Vietnam's underbone line-up: same engine family, slightly sportier bodywork, and - in the Sport version - the braking and wheels that matter most to city riders. As with every review in this series, all specifications come from the official Honda Vietnam Blade product page (retrieved 23 September 2026), and nothing is estimated.
@@ -30,7 +30,8 @@ The 109.1 cc single-cylinder air-cooled four-stroke produces 6.18 kW at 7,500 rp
 
 ## Economy and weight
 
-Published fuel consumption is 1.85 litres per 100 km from a 3.7-litre tank. Kerb weight depends on the version: 98 kg for the spoked-wheel drum-brake build and 99 kg for the spoked-wheel disc and alloy-wheel versions. The seat is 769 mm high and ground clearance is 141 mm - the highest of Honda's 110 cc underbones, which matters on Hanoi's kerbs, broken alley edges and rural tracks.
+Published fuel consumption is 1.85 litres per 100 km from a 3.7-litre tank. Kerb weight depends on the version: 98 kg for the spoked-wheel drum-brake build and 99 kg for the spoked-w
+heel disc and alloy-wheel versions. The seat is 769 mm high and ground clearance is 141 mm - the highest of Honda's 110 cc underbones, which matters on Hanoi's kerbs, broken alley edges and rural tracks.
 
 ## Versions and brakes
 
