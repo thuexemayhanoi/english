@@ -19,7 +19,7 @@ last_reviewed: 2026-09-23
 sources:
   - "yamaha-motor.com.vn — Yamaha Janus 125 product page, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: "honda-vision-vs-yamaha-janus, yamaha-janus-vs-yamaha-freego, honda-vs-yamaha-scooters-vietnam, lightest-motorbikes-for-new-riders, scooter-fuel-economy-comparison-vietnam, 110cc-vs-125cc-scooters, yamaha-gear-125-vs-yamaha-janus-125"
+internal_link_targets: "honda-vision-vs-yamaha-janus, yamaha-janus-vs-yamaha-freego, honda-vs-yamaha-scooters-vietnam, lightest-motorbikes-for-new-riders, scooter-fuel-economy-comparison-vietnam, 110cc-vs-125cc-scooters, yamaha-gear-125-vs-yamaha-janus-125, yamaha-janus-125-vs-honda-lead-125, best-125cc-scooters-vietnam-verified"
 ---
 
 The Janus is Yamaha Vietnam's entry scooter and the closest thing the Vision has to a direct rival: same 97 kg weight class, same city-first mission, undercutting most competitors on price - Yamaha lists the Janus from 29,151,000 VND (manufacturer's suggested retail, retrieved 23 September 2026). All figures below come from Yamaha Vietnam's official Janus product page.

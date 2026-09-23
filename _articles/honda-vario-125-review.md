@@ -19,7 +19,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn - Honda Vario 125 model page, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-vario-125-vs-yamaha-latte-125, honda-vario-125-vs-honda-lead-125, honda-scooter-lineup-vietnam-explained, smart-key-scooters-vietnam, scooter-underseat-storage-comparison
+internal_link_targets: honda-vario-125-vs-yamaha-latte-125, honda-vario-125-vs-honda-lead-125, honda-scooter-lineup-vietnam-explained, smart-key-scooters-vietnam, scooter-underseat-storage-comparison, honda-vision-vs-honda-vario-125, yamaha-freego-125-vs-honda-vario-125, scooters-with-usb-c-charging-verified
 ---
 
 The Vario 125 is the newest member of Honda's mainstream 125 cc scooter range in Vietnam, and it arrives with a specification list that used to belong to more expensive models: liquid cooling, smart key, USB-C and idling stop. Every figure below is from the official Honda Vietnam Vario 125 product page (retrieved 23 September 2026); anything not published there is omitted rather than estimated.

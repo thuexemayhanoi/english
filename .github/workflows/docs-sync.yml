@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: '20'
       - name: Apply batch docs sync
-        run: node scripts/apply-batch-docs.js
+        run: node scripts/apply-batch-docs.js docs/sync/batch-13-readme-sync.json
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
@@ -27,6 +27,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to sync."
           else
-            git commit -m "Docs sync: merge pending matrix rows (batch 11 + batch 12) and apply README state updates"
+            git commit -m "Docs sync: merge pending matrix rows (batch 13) and apply README state updates"
             git push
           fi

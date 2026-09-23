@@ -19,7 +19,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn - Honda Sh mode 125 model page, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: premium-scooters-vietnam, honda-sh-mode-125-vs-honda-sh-160, smart-key-scooters-vietnam, which-scooters-have-abs-vietnam, scooter-underseat-storage-comparison
+internal_link_targets: premium-scooters-vietnam, honda-sh-mode-125-vs-honda-sh-160, smart-key-scooters-vietnam, which-scooters-have-abs-vietnam, scooter-underseat-storage-comparison, honda-sh-mode-125-vs-honda-lead-125, scooters-with-usb-c-charging-verified
 ---
 
 The Honda SH Mode 125 exists for riders who want the look and feel of the SH - Vietnam's status scooter - without the full SH price tag. It is a genuine premium city scooter in its own right, and this review uses only specifications published by Honda Vietnam on the official Sh mode 125 product page (retrieved 23 September 2026). Anything Honda does not publish is left out rather than estimated.

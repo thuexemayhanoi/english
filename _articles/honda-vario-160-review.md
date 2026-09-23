@@ -19,7 +19,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn - Honda Vario 160 model page, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-vario-160-vs-yamaha-nvx-155, yamaha-nvx-155-vs-honda-air-blade-160, which-scooters-have-abs-vietnam, honda-esaf-frame-explained, scooter-tyre-sizes-explained
+internal_link_targets: honda-vario-160-vs-yamaha-nvx-155, yamaha-nvx-155-vs-honda-air-blade-160, which-scooters-have-abs-vietnam, honda-esaf-frame-explained, scooter-tyre-sizes-explained, honda-lead-125-vs-honda-vario-160, yamaha-nmax-155-vs-honda-vario-160, yamaha-lexi-155-vs-honda-vario-160, honda-sh-160-vs-honda-vario-160
 ---
 
 The Vario 160 is Honda's newest answer to the sporty-commuter class in Vietnam: sharp styling, a 160-class engine and a flat floor for daily usability. All figures below come from the official Honda Vietnam Vario 160 product page (retrieved 23 September 2026); anything Honda does not publish is omitted rather than estimated.

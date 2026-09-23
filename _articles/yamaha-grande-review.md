@@ -18,7 +18,7 @@ last_reviewed: 2026-09-23
 sources:
   - "yamaha-motor.com.vn — Yamaha Grande product page, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: "honda-lead-vs-yamaha-grande, yamaha-janus-vs-yamaha-freego, smart-key-scooters-vietnam, scooter-underseat-storage-comparison, honda-vs-yamaha-scooters-vietnam, scooter-fuel-economy-comparison-vietnam"
+internal_link_targets: "honda-lead-vs-yamaha-grande, yamaha-janus-vs-yamaha-freego, smart-key-scooters-vietnam, scooter-underseat-storage-comparison, honda-vs-yamaha-scooters-vietnam, scooter-fuel-economy-comparison-vietnam, yamaha-grande-vs-honda-vision, scooters-with-usb-c-charging-verified"
 ---
 
 The Grande is Yamaha Vietnam's style flagship for the mainstream market: retro-round front, premium paint, and a feature list borrowed from bigger bikes. This review uses only what Yamaha's official product pages state (retrieved 23 September 2026). Yamaha's page does not publish engine power, torque or capacity figures for the current Grande, so those are left out rather than estimated - what is verified is the Blue Core Hybrid engine family, smart key, a phone charging port, Y-Connect app connectivity and a large 27-litre underseat compartment with a light.

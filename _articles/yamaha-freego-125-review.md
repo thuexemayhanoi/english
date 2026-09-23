@@ -18,7 +18,7 @@ last_reviewed: 2026-09-23
 sources:
   - "yamaha-motor.com.vn — Yamaha FreeGo product page, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: "yamaha-janus-vs-yamaha-freego, honda-lead-vs-yamaha-grande, which-scooters-have-abs-vietnam, smart-key-scooters-vietnam, scooter-underseat-storage-comparison, honda-vs-yamaha-scooters-vietnam, yamaha-gear-125-vs-yamaha-freego-125"
+internal_link_targets: "yamaha-janus-vs-yamaha-freego, honda-lead-vs-yamaha-grande, which-scooters-have-abs-vietnam, smart-key-scooters-vietnam, scooter-underseat-storage-comparison, honda-vs-yamaha-scooters-vietnam, yamaha-gear-125-vs-yamaha-freego-125, yamaha-freego-125-vs-honda-vario-125, yamaha-freego-125-vs-honda-air-blade-125, flat-floor-scooters-explained"
 ---
 
 The FreeGo is Yamaha's answer to buyers who find the Janus too small and the Grande too style-first: a mid-priced automatic scooter with sporty lines and genuinely useful storage. All figures below are from Yamaha Vietnam's official FreeGo product page (retrieved 23 September 2026).
