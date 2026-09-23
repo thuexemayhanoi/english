@@ -2,7 +2,7 @@
 /**
  * apply-batch-15-docs.js - server-side finalize for Batch 15 (zero dependencies).
  * Applies docs/sync/batch-15-docs-sync.json:
- *   1. master-matrix.csv row merge (592 -> 642, batch-15 rows verbatim)
+ *   1. master-matrix.csv row merge (ID-row validated, batch-15 rows verbatim)
  *   2. README targeted state patches + DEPLOYMENT STATE / NEXT RECOMMENDED STEP
  *      section replaces + changelog entry 37 (idempotent)
  *   3. MASTER-MATRIX.md targeted patches (cluster-4 progress, CSV row counts)
@@ -41,23 +41,44 @@ let master = fs.readFileSync(merge.target, 'utf8');
 const rows = fs.readFileSync(merge.rowsFile, 'utf8');
 if (!master.endsWith('\n')) master += '\n';
 const masterLines = master.split('\n').filter(Boolean);
-const hasHeader = !/^(MM-|LAW-)/.test(masterLines[0]);
-const bodyStart = hasHeader ? 1 : 0;
-const before = masterLines.length - bodyStart;
-if (before !== merge.expectBefore) die('master-matrix.csv holds ' + before + ' rows (expected ' + merge.expectBefore + ')');
-const ids = new Set(masterLines.slice(bodyStart).map(l => l.split(',')[0]));
+const IDRE = /^(MM-\d{4}|LAW-\d{4}),/;
+const hasHeader = !IDRE.test(masterLines[0]);
+const idRowLines = masterLines.filter(l => IDRE.test(l));
+const fragLines = masterLines.filter(l => !IDRE.test(l) && !(hasHeader && l === masterLines[0]));
+const idSample = idRowLines.slice(0, 3).map(l => l.split(',')[0]).join(', ');
+const idTail = idRowLines.slice(-3).map(l => l.split(',')[0]).join(', ');
+diag.push('CSV structure: totalLines=' + masterLines.length + ' hasHeader=' + hasHeader +
+  ' idRows=' + idRowLines.length + ' fragmentLines=' + fragLines.length +
+  ' firstIds=[' + idSample + '] lastIds=[' + idTail + ']');
+if (fragLines.length > 0) {
+  diag.push('fragment line samples: ' + fragLines.slice(0, 5).map(l => l.slice(0, 70)).join(' | '));
+  const fragParents = [];
+  for (let i = 1; i < masterLines.length; i++) {
+    if (!IDRE.test(masterLines[i])) fragParents.push(masterLines[i - 1].split(',')[0]);
+  }
+  diag.push('fragment parent IDs: ' + Array.from(new Set(fragParents)).join(', '));
+}
+const before = idRowLines.length;
+if (merge.expectBefore !== null && before !== merge.expectBefore) {
+  die('master-matrix.csv holds ' + before + ' ID rows (expected ' + merge.expectBefore + '); see structure diagnostic');
+}
+const ids = new Set(idRowLines.map(l => l.split(',')[0]));
 const rowLines = rows.split('\n').filter(Boolean);
+const rowIdLines = rowLines.filter(l => IDRE.test(l));
+diag.push('rowsFile: totalLines=' + rowLines.length + ' idRows=' + rowIdLines.length);
+if (rowIdLines.length !== 50) die('batch-15 rows file holds ' + rowIdLines.length + ' ID rows (expected 50)');
 let added = 0, skipped = 0;
-for (const l of rowLines) {
+for (const l of rowIdLines) {
   const id = l.split(',')[0];
-  if (!id) continue;
   if (ids.has(id)) { skipped++; continue; }
   masterLines.push(l); ids.add(id); added++;
 }
-const after = masterLines.length - bodyStart;
-if (after !== merge.expectAfter) die('master-matrix.csv holds ' + after + ' rows after merge (expected ' + merge.expectAfter + ')');
+const after = before + added;
+if (merge.expectAfter !== null && after !== merge.expectAfter) {
+  die('master-matrix.csv holds ' + after + ' ID rows after merge (expected ' + merge.expectAfter + ')');
+}
 fs.writeFileSync(merge.target, masterLines.join('\n') + '\n');
-diag.push('CSV merge OK: added ' + added + ', skipped ' + skipped + ' duplicates; rows ' + before + ' -> ' + after);
+diag.push('CSV merge OK: added ' + added + ', skipped ' + skipped + ' duplicates; ID rows ' + before + ' -> ' + after);
 
 // ---------- 2. README ----------
 let readme = patchFile('README.md', payload.readmeReplaces, 'README');
