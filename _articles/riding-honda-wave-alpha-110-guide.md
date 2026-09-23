@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn — Honda Vietnam model detail pages, official specifications (recorded in docs/MODEL-DATABASE.md, retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-wave-alpha-110-review, honda-wave-alpha-vs-honda-wave-rsx, cheapest-new-underbones-vietnam-verified, riding-honda-wave-rsx-commuting-guide, renting-semi-automatic-underbone-hanoi
+internal_link_targets: honda-wave-alpha-110-review, honda-wave-alpha-vs-honda-wave-rsx, cheapest-new-underbones-vietnam-verified, honda-wave-rsx-commuting-guide, renting-semi-automatic-underbone-hanoi
 ---
 
 The Wave Alpha is the least expensive machine on Honda Vietnam's list — 18,841,091 VND on the current page — and it is the bike most Vietnamese families actually own. For visitors, it is also the classic semi-auto rental: simple, light and everywhere. Figures below are from Honda Vietnam's official page (recorded in our model database, retrieved 2026-09-23).
@@ -29,7 +29,8 @@ A 109.2 cc air-cooled single, 6.12 kW at 7,500 rpm and 8.44 Nm at 5,500 rpm, fou
 ## How it rides
 
 - **Light and low**: at 96 kg with a 770 mm seat, it flatters beginners and small riders alike; flat feet at stops, easy paddling through markets, and a genuinely small turning circle.
-- **Gearing**: the four speeds are widely spaced for economy. Second covers an enormous city speed range; you will upshift early and downshift late, which is the efficient pattern anyway.
+- 
+**Gearing**: the four speeds are widely spaced for economy. Second covers an enormous city speed range; you will upshift early and downshift late, which is the efficient pattern anyway.
 - **Pace**: 6.12 kW moves two people in traffic fine and cruises one rider at city speeds all day. It is not a bike for ring-road pace with a passenger.
 - **Economy and range**: the claimed 1.72 L/100 km and 3.7-litre tank give a useful theoretical range well past 200 km; real-world figures vary with load and speed. Fuel costs are close to nothing.
 
