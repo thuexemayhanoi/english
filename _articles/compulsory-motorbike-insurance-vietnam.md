@@ -20,12 +20,13 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 56 (compulsory civil-liability insurance of vehicle owners)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 18(2) (fine for not carrying or not having valid compulsory insurance)"
   - "https://phapluatphattrien.vn/nghi-dinh-168-tang-muc-phat-lai-xe-khong-co-bao-hiem-xe-may-bat-buoc-d3450.html — Phap Luat & Phat Trien: Decree 168 raises the fine for riding without compulsory motorbike insurance"
-internal_link_targets: "documents-to-carry-motorbike-vietnam, motorbike-accident-duties-vietnam, motorbike-fines-vietnam-overview, helmet-law-vietnam", do-you-need-insurance-for-50cc-vietnam
+internal_link_targets: documents-to-carry-motorbike-vietnam, motorbike-accident-duties-vietnam, motorbike-fines-vietnam-overview, helmet-law-vietnam, do-you-need-insurance-for-50cc-vietnam
 ---
 
 Yes — motorbike insurance is compulsory in Vietnam, and it is not the optional comprehensive kind. Article 56 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires every vehicle owner participating in traffic to hold compulsory civil-liability insurance, detailed in Decree 67/2023/NĐ-CP. The certificate must be carried when riding.
 
-## What it covers
+## What 
+it covers
 
 Compulsory insurance is third
 -party cover. It pays compensation to people the insured rider injures or to property damaged in an accident the rider causes, within the limits the decree sets. It does not pay for damage to the rider's own bike, and it does not pay the rider's medical costs. What it buys is legal compliance and a backstop for the harm you might cause to someone else.

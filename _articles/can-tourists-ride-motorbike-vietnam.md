@@ -20,7 +20,7 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 58 (licence validity in Vietnam)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-12-2025-tt-bca-cua-bo-cong-an-quy-dinh-ve-sat-hach-cap-giay-phep-lai-xe-119250303174347028.htm — Circular 12/2025/TT-BCA, full text (Báo điện tử Chính phủ) — exchange of foreign licences"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 18 (licence offences)"
-internal_link_targets: "idp-vietnam-motorbike-rules, 1968-vienna-convention-idp-vietnam, vietnam-motorbike-licence-classes-explained, a1-licence-vietnam-what-you-can-ride", can-foreigners-ride-50cc-vietnam
+internal_link_targets: idp-vietnam-motorbike-rules, 1968-vienna-convention-idp-vietnam, vietnam-motorbike-licence-classes-explained, a1-licence-vietnam-what-you-can-ride, can-foreigners-ride-50cc-vietnam
 ---
 
 Yes — tourists can legally ride a motorbike in Vietnam, but only with a valid licence situation. "Everyone rides without one" is not a legal argument.
@@ -29,7 +29,8 @@ Yes — tourists can legally ride a motorbike in Vietnam, but only with a valid 
 
 Article 58 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) lists the licences valid on Vietnamese territory:
 
-1. **A Vietnamese driving licence** — obtained by test, or by exchanging a valid foreign national licence if you meet residence conditions (see our IDP gui
+1. **A Vietnamese driving licence** — obtained by test, or by exchanging a valid foreign national licence if you meet res
+idence conditions (see our IDP gui
 de).
 2. **An International Driving Permit, or a national licence, issued by a country that is a member of the 1968 Vienna Convention on Road Traffic**, appropriate to the vehicle you are riding. Carry both the IDP and the national licence it translates.
 3. **A licence from a country or territory with which Vietnam has a mutual-recognition treaty or agreement.**

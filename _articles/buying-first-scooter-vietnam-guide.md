@@ -17,7 +17,7 @@ sources:
   - "honda.com.vn — official Honda Vietnam model pages (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — official Yamaha Vietnam product pages (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved)"
-internal_link_targets: "renting-vs-buying-a-motorbike-hanoi, used-motorbike-inspection-vietnam, honda-vision-vs-yamaha-janus, 110cc-vs-125cc-scooters, compulsory-motorbike-insurance-vietnam, long-term-renting-vs-buying-residents-hanoi", buying-50cc-motorbike-vietnam, used-50cc-inspection-checklist
+internal_link_targets: renting-vs-buying-a-motorbike-hanoi, used-motorbike-inspection-vietnam, honda-vision-vs-yamaha-janus, 110cc-vs-125cc-scooters, compulsory-motorbike-insurance-vietnam, long-term-renting-vs-buying-residents-hanoi, buying-50cc-motorbike-vietnam, used-50cc-inspection-checklist
 ---
 
 Buying a scooter in Vietnam is straightforward, but the paperwork, the market and the choices all have local specifics. This guide uses manufacturer-verified model data (retrieved 23 September 2026) and links to our detailed guides for each step.
@@ -28,7 +28,8 @@ Most first-time buyers land in the 110-125 cc automatic class: light, economical
 
 ## Step 2: decide new or used
 
-A new bike from an official dealer carries the manufacturer warranty (Yamaha lists 3 years/30,000 km on its scooters) at the cost of first-year depreciation. Used bikes save money but need a proper inspection - our used motorbike inspection gui
+A new bike from an official dealer carries the manufacturer warranty (Yamaha lists 3 years/30,000 km on its scooters) at the cost of first-year depreciation. Used bikes save money b
+ut need a proper inspection - our used motorbike inspection gui
 de is the checklist. For shorter stays, renting usually beats buying: see the renting vs buying comparison.
 
 ## Step 3: paperwork and legality
