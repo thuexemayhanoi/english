@@ -1,28 +1,9 @@
-payload loaded; replacements=5; mmReplacements=4
-master-matrix.csv existing unique IDs=580
-README.md length=41795
-README OK: occurs 1 times (expected 1): "- 567 published articles:"
-README OK: occurs 1 times (expected 1): "(see docs/matrix/batch-10-status.md through docs/matrix/batch-13-status.md). All business "
-README OK: occurs 1 times (expected 1): "scooters hub lists all 110 scooter guides."
-README OK: occurs 1 times (expected 1): "14 topic hubs live; 7 currently show the empty state"
-README OK: occurs 1 times (expected 1): "- _queue/: empty (no drafts pending)."
-README section OK: # MASTER MATRIX STATE (heading line 102, ends line 105)
-README section OK: # DEPLOYMENT STATE (heading line 168, ends line 174)
-README section OK: # NEXT RECOMMENDED STEP (heading line 173, ends line 174)
+payload loaded; sectionReplaces=1
+README.md length=43396
+README section OK: # DEPLOYMENT STATE (heading line 168, ends line 172)
 README changelog prepended: 1 entries
+README expectContains OK: "35874723441"
+README expectContains OK: "35874723270"
 README expectContains OK: "592 published articles"
-README expectContains OK: "motorcycles hub lists all 25"
-README expectContains OK: "Batch 14"
-README expectContains OK: "MM-0502-MM-0526"
-MASTER-MATRIX mojibake repaired: 73 sequences
-MASTER-MATRIX.md length=10355
-MASTER-MATRIX OK: occurs 1 times (expected 1): "merged into master-matrix.csv by the docs-sync workflow 532 -> 567, bot commit 9ac0d0f)."
-MASTER-MATRIX OK: occurs 1 times (expected 1): "and 110 cluster-3 scooter rows (110 published; cluster 3 complete). Rows for the remaining"
-MASTER-MATRIX OK: occurs 1 times (expected 1): "cluster 4 motorcycle reviews (spec population from manufacturer pages into MODEL-DATABASE "
-MASTER-MATRIX OK: occurs 1 times (expected 1): "\u2014 NEXT"
-MASTER-MATRIX expectContains OK: "25 of 106"
-MASTER-MATRIX expectContains OK: "MM-0502-MM-0526"
-MASTER-MATRIX expectContains OK: "cluster 4 IN PROGRESS"
-MODEL-DATABASE mojibake repaired: 75 sequences
-MODEL-DATABASE appendix appended
-SUCCESS: master-matrix.csv rows=605; README, MASTER-MATRIX and MODEL-DATABASE updated.
+README expectContains OK: "Batch 14 verification finalized"
+SUCCESS: README finalized for batch 14.
