@@ -19,7 +19,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — Honda VN model pages (Super Cub C125, CT125, Winner R, CBR150R), official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-super-cub-c125-review, honda-future-125-review, carrying-luggage-motorbike-safely-vietnam, best-motorbike-for-day-trips-from-hanoi, hill-starts-motorbike-slopes-vietnam
+internal_link_targets: honda-super-cub-c125-review, honda-future-125-review, carrying-luggage-motorbike-safely-vietnam, best-motorbike-for-day-trips-from-hanoi, hill-starts-motorbike-slopes-vietnam, yamaha-pg-1-vs-honda-ct125
 ---
 
 The CT125 takes the Cub formula and points it at dirt tracks: taller suspension, a big fuel tank, luggage racks and the highest ground clearance of anything in Honda's Vietnamese underbone range. All figures below come from the official Honda Vietnam CT125 product page (retrieved 23 September 2026).
@@ -31,6 +31,7 @@ The 123.9 cc single-cylinder four-stroke air-cooled engine produces 6.76 kW at 6
 ## Range and consumption
 
 The tank is 5.4 litres - the largest of any Honda underbone sold in Vietnam - and Honda publishes 1.61 litres per 100 km. That is well over 300 km of theoretical range, the reason overlanders like this bike. Real-world consumption varies with ter
+
 rain and load.
 
 ## Chassis: the adventure numbers
