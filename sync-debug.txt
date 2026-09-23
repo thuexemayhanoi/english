@@ -14,9 +14,15 @@ README expectContains OK: "592 published articles"
 README expectContains OK: "motorcycles hub lists all 25"
 README expectContains OK: "Batch 14"
 README expectContains OK: "MM-0502-MM-0526"
-MASTER-MATRIX.md length=10481
+MASTER-MATRIX mojibake repaired: 73 sequences
+MASTER-MATRIX.md length=10355
 MASTER-MATRIX OK: occurs 1 times (expected 1): "merged into master-matrix.csv by the docs-sync workflow 532 -> 567, bot commit 9ac0d0f)."
 MASTER-MATRIX OK: occurs 1 times (expected 1): "and 110 cluster-3 scooter rows (110 published; cluster 3 complete). Rows for the remaining"
 MASTER-MATRIX OK: occurs 1 times (expected 1): "cluster 4 motorcycle reviews (spec population from manufacturer pages into MODEL-DATABASE "
-MASTER-MATRIX MISMATCH: find occurs 0 times, expected 1: "\u2014 NEXT"
-FATAL: MASTER-MATRIX replacement occurs 0 times (expected 1): "\u2014 NEXT..."
+MASTER-MATRIX OK: occurs 1 times (expected 1): "\u2014 NEXT"
+MASTER-MATRIX expectContains OK: "25 of 106"
+MASTER-MATRIX expectContains OK: "MM-0502-MM-0526"
+MASTER-MATRIX expectContains OK: "cluster 4 IN PROGRESS"
+MODEL-DATABASE mojibake repaired: 75 sequences
+MODEL-DATABASE appendix appended
+SUCCESS: master-matrix.csv rows=605; README, MASTER-MATRIX and MODEL-DATABASE updated.
