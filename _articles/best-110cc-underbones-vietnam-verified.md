@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — Yamaha VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: "honda-wave-alpha-110-review, honda-blade-110-review, honda-wave-rsx-review, yamaha-sirius-rc-110-review, how-to-rent-a-motorbike-hanoi, honda-wave-alpha-vs-honda-blade, honda-wave-rsx-vs-yamaha-sirius, honda-blade-vs-yamaha-sirius, honda-wave-alpha-vs-yamaha-sirius, honda-blade-vs-honda-wave-rsx, honda-blade-vs-honda-future-125, honda-wave-alpha-vs-honda-future-125, most-fuel-efficient-underbones-vietnam-verified, cheapest-new-underbones-vietnam-verified"
+internal_link_targets: "honda-wave-alpha-110-review, honda-blade-110-review, honda-wave-rsx-review, yamaha-sirius-rc-110-review, how-to-rent-a-motorbike-hanoi, honda-wave-alpha-vs-honda-blade, honda-wave-rsx-vs-yamaha-sirius, honda-blade-vs-yamaha-sirius, honda-wave-alpha-vs-yamaha-sirius, honda-blade-vs-honda-wave-rsx, honda-blade-vs-honda-future-125, honda-wave-alpha-vs-honda-future-125, most-fuel-efficient-underbones-vietnam-verified, cheapest-new-underbones-vietnam-verified", why-110cc-is-vietnams-default-engine, honda-vs-yamaha-underbones-verified
 ---
 
 The 110 cc underbone is Vietnam's default motorbike: cheap, light, economical and fixable in every village. This guide ranks the current models on manufacturer-published data only (Honda Vietnam and Yamaha Vietnam pages, retrieved 23 September 2026) - no invented figures, no estimated specs. The full comparison pairings for this class are being published alongside this guide.
@@ -29,7 +29,8 @@ Four current models compete here: Honda Wave Alpha 110, Honda Blade, Honda Wave 
 
 ## Economy ranking (published figures)
 
-1. Wave RSX - 1.56 L/100 km (PGM-FI)
+1. Wave RSX
+ - 1.56 L/100 km (PGM-FI)
 2. Wave Alpha - 1.72 L/100 km
 3. Blade - 1.85 L/100 km
 4. Sirius - 2.08 L/100 km

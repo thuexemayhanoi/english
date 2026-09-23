@@ -19,7 +19,7 @@ last_reviewed: 2026-09-23
 sources:
   - "yamaha-motor.com.vn — Yamaha VN Exciter 155 VVA model page, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-winner-r-review, air-cooled-vs-liquid-cooled-motorbike, a1-licence-vietnam-what-you-can-ride, honda-cbr150r-review, best-motorbike-for-day-trips-from-hanoi
+internal_link_targets: honda-winner-r-review, air-cooled-vs-liquid-cooled-motorbike, a1-licence-vietnam-what-you-can-ride, honda-cbr150r-review, best-motorbike-for-day-trips-from-hanoi, yamaha-vva-variable-valve-timing-explained, fastest-motorbikes-under-155cc-vietnam-verified
 ---
 
 Yamaha's own page calls the Exciter "the most popular manual-clutch model in Vietnam" - the bike that defined the Vietnamese sport underbone. The 155 VVA is the current flagship of the line. All figures below come from the official Yamaha Motor Vietnam Exciter 155 VVA product page (retrieved 23 September 2026).
@@ -30,7 +30,8 @@ The heart of the bike is a 155 cc single-cylinder four-stroke with VVA variable 
 
 ## Gearbox and clutch
 
-A six-speed gearbox keeps revs calm on long rides, and the clutch is an Assist and Slipper unit: assist reduces lever effort in traffic, while the slipper function stops the rear wheel from locking up on aggressive downshifts. Yamaha highlights a shorter clutch lever travel than the previous 150 cc version. A pass-light switch - flashing the headlight to request an overtake - is a manual-clutch Exciter feature.
+A six-speed gearbox keeps revs calm on long rides, and the clutch is an Assist and Slipper unit: assist reduces lever 
+effort in traffic, while the slipper function stops the rear wheel from locking up on aggressive downshifts. Yamaha highlights a shorter clutch lever travel than the previous 150 cc version. A pass-light switch - flashing the headlight to request an overtake - is a manual-clutch Exciter feature.
 
 ## Chassis
 

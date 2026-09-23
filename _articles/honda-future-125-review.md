@@ -19,7 +19,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — Honda VN model pages (Wave Alpha 110, Blade, Wave RSX, Future 125 FI), official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-wave-rsx-review, esp-vs-blue-core-engines-explained, best-motorbike-for-commuting-hanoi, best-motorbike-for-two-people-hanoi, carburettor-vs-fuel-injection-vietnam
+internal_link_targets: honda-wave-rsx-review, esp-vs-blue-core-engines-explained, best-motorbike-for-commuting-hanoi, best-motorbike-for-two-people-hanoi, carburettor-vs-fuel-injection-vietnam, 125cc-vs-110cc-underbones, most-comfortable-underbones-vietnam-verified
 ---
 
 The Future 125 FI is Honda Vietnam's step-up underbone: more engine, more torque, a bigger tank and a plusher ride than the 110 class, while staying in the easy-riding semi-automatic format. Every figure below comes from the official Honda Vietnam Future 125 FI product page (retrieved 23 September 2026).
@@ -31,6 +31,7 @@ A 124.9 cc single-cylinder air-cooled four-stroke produces 6.83 kW at 7,500 rpm 
 ## Economy and range
 
 Honda publishes 1.47 litres per 100 km - the best figure of any Honda underbone on sale in Vietnam - and pairs it with a 4.6-litre tank, the largest in the class. That is comfortably over 300 km o
+
 f theoretical range between fuel stops, useful for provincial riding; real-world consumption varies.
 
 ## Chassis and comfort
