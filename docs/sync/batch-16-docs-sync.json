@@ -1,0 +1,89 @@
+{
+  "rev": 1,
+  "csvMerge": {
+    "target": "docs/matrix/master-matrix.csv",
+    "rowsFiles": [
+      {
+        "file": "docs/matrix/batch-16-rows.csv",
+        "expectRows": 31
+      },
+      {
+        "file": "docs/matrix/batch-16b-rows.csv",
+        "expectRows": 2
+      }
+    ],
+    "expectBefore": 642,
+    "expectAfter": 675
+  },
+  "readmeReplaces": [
+    {
+      "find": "- 642 published articles: 66 law/licence articles",
+      "replace": "- 675 published articles: 66 law/licence articles"
+    },
+    {
+      "find": "25 spec explainers - see docs/matrix/batch-15-status.md). All business facts in rental",
+      "replace": "25 spec explainers - see docs/matrix/batch-15-status.md), and 31 cluster-4 motorcycle articles in Batch 16 (MM-0577-MM-0607: 14 model comparisons, 8 verified-data choosing guides, 9 spec explainers - see docs/matrix/batch-16-status.md). All business facts in rental"
+    },
+    {
+      "find": "motorcycles hub lists all 75 motorcycle guides.",
+      "replace": "motorcycles hub lists all 108 motorcycle guides (106 planned cluster-4 intents plus 2 supplementary articles from the reconciled Batch 16 overlap)."
+    },
+    {
+      "find": "docs/matrix/master-matrix.csv holds 642 committed rows after the batch-15 docs-sync merge (592 previously committed rows + 50 rows from docs/matrix/batch-15-rows.csv; 642 published articles):",
+      "replace": "docs/matrix/master-matrix.csv holds 675 committed rows after the batch-16 docs-sync merge (642 previously committed rows + 31 rows from docs/matrix/batch-16-rows.csv and 2 rows from docs/matrix/batch-16b-rows.csv; 675 published articles):"
+    },
+    {
+      "find": "and 75 cluster-4 motorcycle rows (75 published; cluster 4 in progress, 31 intents remain)",
+      "replace": "and 108 cluster-4 motorcycle rows (108 published; cluster 4 COMPLETE: 106 planned intents plus 2 supplementary articles retained from the reconciled Batch 16 concurrent-run overlap)"
+    },
+    {
+      "find": "docs/matrix/batch-15-status.md is the authoritative record for the cluster-4 motorcycle Part 2 batch (MM-0527-MM-0576).",
+      "replace": "docs/matrix/batch-15-status.md is the authoritative record for the cluster-4 motorcycle Part 2 batch (MM-0527-MM-0576). docs/matrix/batch-16-status.md is the authoritative record for the cluster-4 motorcycle Part 3 batch (MM-0577-MM-0607); docs/matrix/batch-16-overlap-reconciliation.md records the concurrent-run overlap resolution (2 supplementary articles, MM-0608/MM-0609 in docs/matrix/batch-16b-rows.csv)."
+    },
+    {
+      "find": "- _queue/: empty (no drafts pending).",
+      "replace": "- Batch 16 (cluster-4 motorcycle reviews Part 3): 31 articles published 2026-09-24 (MM-0577-MM-0607: 14 model comparisons, 8 verified-data choosing guides, 9 spec explainers; part-commits 6dfc122/c05daab/c1d28db/aae7882/a29bf8a/1873c0e/9cb2dd6/d801f66, link repairs 16d3604/d89480d, closing commit 88e63ab, internal-link and wrap repair 769a218) - see docs/matrix/batch-16-status.md. Cluster 4 COMPLETE: 106 of 106 planned intents published. A second scheduled run produced the same batch concurrently; reconciled per docs/matrix/batch-16-overlap-reconciliation.md - 2 supplementary articles retained (honda-wave-alpha-vs-honda-cbr150r, honda-blade-vs-honda-winner-r; MM-0608/MM-0609). 675 articles site-wide; /topics/motorcycles/ lists 108 guides. All technical facts from the verified Honda VN/Yamaha VN MODEL-DATABASE rows; business facts exclusively from OWNER-FACTS; no Suzuki/SYM facts written.\n- _queue/: empty (no drafts pending)."
+    }
+  ],
+  "mmReplaces": [
+    {
+      "find": "see docs/matrix/batch-15-status.md).",
+      "replace": "see docs/matrix/batch-15-status.md). Batch 16 completed cluster 4 on 2026-09-24 (MM-0577-MM-0607: 14 model comparisons, 8 verified-data choosing guides, 9 spec explainers, built from the same verified Honda VN/Yamaha VN MODEL-DATABASE rows; pre-batch retries: Suzuki GD110 still HTTP 403, SYM still blocks automated access and the Excel is no longer in the lineup - no Suzuki/SYM facts written; plus 2 supplementary articles retained from the reconciled concurrent-run overlap - see docs/matrix/batch-16-overlap-reconciliation.md and docs/matrix/batch-16b-rows.csv; 106 of 106 planned cluster-4 intents published, cluster 4 COMPLETE; 675 articles site-wide; rows preserved verbatim in docs/matrix/batch-16-rows.csv and docs/matrix/batch-16b-rows.csv and merged into master-matrix.csv by the batch-16 docs-sync run; see docs/matrix/batch-16-status.md)."
+    },
+    {
+      "find": "The CSV currently holds 642 committed rows (after the batch-13 merge 532 -> 567, bot commit 9ac0d0f, the batch-14 merge 567 -> 592, bot commit 93d7d5c, and the batch-15 docs-sync merge 592 -> 642; batch rows preserved verbatim in the docs/matrix/batch-N-rows.csv files; merges run via the repo docs-sync workflow):",
+      "replace": "The CSV currently holds 675 committed rows (after the batch-14 merge 567 -> 592, bot commit 93d7d5c, the batch-15 docs-sync merge 592 -> 642, and the batch-16 docs-sync merge 642 -> 675; batch rows preserved verbatim in the docs/matrix/batch-N-rows.csv files; merges run via the repo docs-sync workflow):"
+    },
+    {
+      "find": "and 75 cluster-4 motorcycle rows (75 published; cluster 4 in progress, 31 intents remain).",
+      "replace": "and 108 cluster-4 motorcycle rows (108 published; cluster 4 COMPLETE - 106 planned intents plus 2 supplementary overlap articles)."
+    },
+    {
+      "find": "Batch 14 published 25 of 106 and Batch 15 published 50 more on 2026-09-23 - 75 of 106, IN PROGRESS, see docs/matrix/batch-14-status.md and docs/matrix/batch-15-status.md)",
+      "replace": "Batch 14 published 25 of 106, Batch 15 published 50 more on 2026-09-23 and Batch 16 published the final 31 on 2026-09-24 - 106 of 106 planned intents COMPLETE (plus 2 supplementary overlap articles, 108 published), see docs/matrix/batch-14-status.md, docs/matrix/batch-15-status.md and docs/matrix/batch-16-status.md)"
+    }
+  ],
+  "sectionReplaces": [
+    {
+      "heading": "# DEPLOYMENT STATE",
+      "content": "- Hosting: GitHub Pages, Jekyll, baseurl /english.\n- Batch 16 (cluster-4 motorcycle Part 3, MM-0577-MM-0607) was published 2026-09-23/24 in part-commits 6dfc122 (concurrent-run overlap, 9 articles), c05daab, c1d28db, aae7882, a29bf8a, 1873c0e, 9cb2dd6, d801f66, link repairs 16d3604 and d89480d, closing commit 88e63ab (inbound links + matrix rows), with the overlap reconciled in 9406764 (docs/matrix/batch-16-overlap-reconciliation.md; 2 supplementary articles retained: honda-wave-alpha-vs-honda-cbr150r, honda-blade-vs-honda-winner-r). The Quality Gates on commits c05daab through 88e63ab FAILED at the internal-link audit (missing slug honda-wave-alpha-vs-super-cub referenced in two articles and a quote-mangled internal_link_targets line in best-110cc-underbones-vietnam-verified.md, plus mid-word line-wrap corruption in several articles). All repaired in commit 769a218: 2 target slugs corrected to honda-wave-alpha-vs-honda-super-cub, the quote-mangled line rebuilt with 16 verified targets, wrap corruption joined; gate on 769a218 verified success (commit checks page). Commits a45eeef and 80b0bff are empty reconciliation commits that changed nothing. Live verification: /articles/ renders the 675-guide total, /topics/motorcycles/ renders the 108-guide count, and repaired article pages (honda-wave-alpha-110-review, honda-future-125-review) verified live with the corruption removed.\n- Docs-sync state commits: the batch-15 finalization (bot commit e569f65) merged the 50 batch-15 rows (592 -> 642) and applied the batch-15 README/MASTER-MATRIX state; the batch-16 finalization run (scripts/apply-batch-16-docs.js, payload docs/sync/batch-16-docs-sync.json) merges the 31 batch-16 rows plus the 2 batch-16b rows (642 -> 675) and applies the batch-16 README/MASTER-MATRIX state updates.\n- Batch-15 state for reference: gate run 35901347073 on b495db8, Pages run 35901345994, 642 articles. Batch-14 state: implementation commit b09f75c, gate run 35874723441, Pages run 35874723270.\n- README-only state updates may create a newer HEAD than the SHAs recorded here; the values above always refer to the last implementation commit whose CI/deploy was actually verified."
+    },
+    {
+      "heading": "# NEXT RECOMMENDED STEP",
+      "content": "Batch 16 (cluster-4 motorcycle reviews Part 3) is published, repaired and verified (2026-09-24): 31 planned articles (MM-0577-MM-0607) plus 2 supplementary overlap articles (MM-0608/MM-0609), 675 published articles site-wide, cluster 4 COMPLETE (106 of 106 planned intents; 108 cluster-4 articles live). The Quality Gate is green again on repair commit 769a218 after the batch-16 internal-link audit failures. Next per the MASTER-MATRIX production plan: cluster 5 (manual/clutch motorcycles, 55 intents), then cluster 6 (50cc, 40 intents); cluster 7 (electric) requires MODEL-DATABASE electric fields first, and clusters 12-13 need R2 route verification. Re-verify from CURRENT remote MAIN at the start of every run, and never run two production tasks against MAIN concurrently (see docs/matrix/batch-16-overlap-reconciliation.md)."
+    }
+  ],
+  "changelogPrepend": [
+    "- 2026-09-24 (38): Batch 16 verification + overlap reconciliation: 31 cluster-4 articles published (MM-0577-MM-0607; part-commits 6dfc122, c05daab, c1d28db, aae7882, a29bf8a, 1873c0e, 9cb2dd6, d801f66, link repairs 16d3604/d89480d, closing 88e63ab): 14 model comparisons, 8 verified-data choosing guides, 9 spec explainers, all from verified Honda VN/Yamaha VN MODEL-DATABASE rows; no Suzuki/SYM facts; business facts exclusively from OWNER-FACTS. A concurrent scheduled run produced the same batch; reconciled in 9406764 - 2 supplementary articles retained (honda-wave-alpha-vs-honda-cbr150r, honda-blade-vs-honda-winner-r; MM-0608/MM-0609 in docs/matrix/batch-16b-rows.csv). Gates on c05daab through 88e63ab failed at the internal-link audit (missing slug honda-wave-alpha-vs-super-cub; quote-mangled targets) and several articles carried mid-word line-wrap corruption; all repaired in 769a218 (gate success verified via the commit checks page). Live: /articles/ 675 guides, /topics/motorcycles/ 108 guides; docs-sync merges 31+2 rows into master-matrix.csv (642 -> 675). Cluster 4 COMPLETE. Next: cluster 5 (manual/clutch motorcycles)."
+  ],
+  "changelogIdempotencyMarker": "2026-09-24 (38):",
+  "expectContains": [
+    "675 published articles",
+    "cluster 4 COMPLETE",
+    "docs/matrix/batch-16-status.md",
+    "docs/matrix/batch-16-overlap-reconciliation.md",
+    "honda-wave-alpha-vs-honda-cbr150r",
+    "769a218"
+  ],
+  "verificationRecord": "## Verification record\n\n- Verified 2026-09-24 (Asia/Ho_Chi_Minh): remote MAIN holds 675 article files in _articles/ (642 pre-batch + 31 planned batch-16 files + 2 supplementary overlap articles), counted on the remote listing. Live spot-checks: /articles/ renders the 675-guide total, /topics/motorcycles/ renders the 108-guide count; batch-16 pages checked live (why-110cc-is-vietnams-default-engine, honda-wave-alpha-vs-honda-cbr150r, honda-wave-alpha-vs-honda-super-cub) resolve; repaired articles (honda-wave-alpha-110-review, honda-future-125-review) verified live with the line-wrap corruption removed.\n- Quality Gate: the gates on the batch-16 part-commits c05daab through 88e63ab failed at the internal-link audit step (internal_link_targets referencing the missing slug honda-wave-alpha-vs-super-cub in honda-blade-vs-honda-super-cub-c125.md and honda-super-cub-vs-yamaha-sirius.md, and a quote-mangled internal_link_targets line in best-110cc-underbones-vietnam-verified.md); several articles additionally carried mid-word line-wrap corruption. All repaired in commit 769a218 (2 target slugs corrected to honda-wave-alpha-vs-honda-super-cub, the quote-mangled line rebuilt with 16 verified targets, wrap corruption joined in 8 articles); gate on 769a218 verified success (all steps) via the commit checks page. Commits a45eeef and 80b0bff are empty reconciliation commits and changed nothing.\n- Overlap: a second scheduled run produced Batch 16 concurrently; reconciled per docs/matrix/batch-16-overlap-reconciliation.md (commit 9406764). 7 same-slug articles were superseded in place; 2 supplementary articles retained (honda-wave-alpha-vs-honda-cbr150r, honda-blade-vs-honda-winner-r; matrix rows MM-0608/MM-0609 in docs/matrix/batch-16b-rows.csv). Note: the reconciliation doc lists the MM-0609 slug as honda-blade-vs-winner-r - the published article slug is honda-blade-vs-honda-winner-r.\n- Pages: live verification after the repair deployment shows the 675-article index and the 108-guide motorcycles hub with correct content.\n- Docs sync: the 31 batch-16 rows plus the 2 batch-16b rows are merged into docs/matrix/master-matrix.csv by this batch-16 docs-sync run (642 -> 675).\n"
+}
