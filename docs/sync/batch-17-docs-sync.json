@@ -1,0 +1,55 @@
+{
+  "csvMerge": {
+    "target": "docs/matrix/master-matrix.csv",
+    "expectBefore": 675,
+    "rowsFiles": [
+      {
+        "file": "docs/matrix/batch-17-rows.csv",
+        "expectRows": 28
+      }
+    ],
+    "expectAfter": 703
+  },
+  "readmeReplaces": [
+    {
+      "find": "- 675 published articles: 66 law/licence articles",
+      "replace": "- 703 published articles: 28 cluster-5 manual & clutch articles (Batch 17, 2026-09-24 — see docs/matrix/batch-17-status.md) on top of the earlier 675: 66 law/licence articles"
+    },
+    {
+      "find": "14 topic hubs live; 6 currently show the empty state",
+      "replace": "14 topic hubs live; 5 currently show the empty state (Batch 17 added 28 guides to /topics/manual-clutch/)"
+    },
+    {
+      "find": "and 2 rows from docs/matrix/batch-16b-rows.csv; 675 published articles)",
+      "replace": "and 2 rows from docs/matrix/batch-16b-rows.csv; plus 28 cluster-5 batch-17 rows preserved in docs/matrix/batch-17-rows.csv pending the next sync merge; 703 published articles)"
+    },
+    {
+      "find": "1. 6 topic clusters have zero published articles",
+      "replace": "1. 5 topic clusters have zero published articles (cluster 5 opened by Batch 17; remaining: 50cc, electric, hanoi, trips, vietnam-travel — planned content, not a defect"
+    },
+    {
+      "find": "- _queue/: empty (no drafts pending).",
+      "replace": "- _queue/: empty (no drafts pending).\n- Batch 17 (cluster-5 manual & clutch Part 1): 28 articles published 2026-09-24 (MM-0610-MM-0637: 10 manual-clutch learning-technique guides, 10 semi-auto technique/renting guides, 8 manual/semi-auto model articles including the manufacturer-verified Yamaha PG-1 review and three PG-1 comparisons; part-commits f91228f, d0e2e40, 2ecad39, slug repair 4c61880, 8 inbound-link commits). 703 articles site-wide; cluster 5: 28 of 55 intents published, IN PROGRESS. All model facts from verified Honda VN / Yamaha VN MODEL-DATABASE rows (PG-1 retrieved 2026-09-24); business facts exclusively from OWNER-FACTS. See docs/matrix/batch-17-status.md."
+    },
+    {
+      "find": "# CHANGE LOG\n\n- 2026-09-24 (38):",
+      "replace": "# CHANGE LOG\n\n- 2026-09-24 (39): Batch 17 (cluster-5 manual & clutch Part 1): 28 articles published (MM-0610-MM-0637; part-commits f91228f, d0e2e40, 2ecad39, slug repair 4c61880, closing inbound links from 8 existing articles): 10 manual-clutch learning-technique guides, 10 semi-auto technique and renting guides, 8 model articles built from verified manufacturer rows — including the newly verified Yamaha PG-1 (Yamaha VN page retrieved 2026-09-24, recorded in MODEL-DATABASE) and three PG-1 comparisons; no Suzuki/SYM facts; business facts exclusively from OWNER-FACTS. 703 articles site-wide; cluster 5: 28 of 55 intents, IN PROGRESS. Next: cluster 5 remainder (27 intents).\n- 2026-09-24 (38):"
+    }
+  ],
+  "sectionReplaces": [
+    {
+      "heading": "# NEXT RECOMMENDED STEP",
+      "content": "Batch 17 (cluster-5 manual & clutch Part 1) is published (2026-09-24): 28 articles (MM-0610-MM-0637; part-commits f91228f, d0e2e40, 2ecad39, slug repair 4c61880, 8 inbound-link commits), 703 published articles site-wide, cluster 5: 28 of 55 intents published, IN PROGRESS. Pre-batch research verified the Yamaha PG-1 from the official Yamaha VN page (retrieved 2026-09-24, recorded in MODEL-DATABASE); Suzuki/SYM pages remain blocked, so no Suzuki/SYM facts were written. Next per the MASTER-MATRIX production plan: finish cluster 5 (27 remaining intents - author the rows from the 988-intent framework first), then cluster 6 (50cc, 40 intents); cluster 7 (electric) requires MODEL-DATABASE electric fields first, and clusters 12-13 need R2 route verification. Re-verify from CURRENT remote MAIN at the start of every run, and never run two production tasks against MAIN concurrently (see docs/matrix/batch-16-overlap-reconciliation.md)."
+    }
+  ],
+  "mmReplaces": [
+    {
+      "find": "- The remaining rows are production candidates according to batch order.",
+      "replace": "- Cluster 5 (manual & clutch motorcycles) Part 1 is published: 28 of 55 intents (Batch 17, 2026-09-24, MM-0610-MM-0637 — see docs/matrix/batch-17-status.md). The 28 rows are preserved verbatim in docs/matrix/batch-17-rows.csv pending the master-matrix.csv sync merge.\n- The remaining rows are production candidates according to batch order."
+    },
+    {
+      "find": "8. Clusters 5–6\n7. Cluster 7 electric",
+      "replace": "8. Clusters 5–6 (cluster 5 Part 1 published 2026-09-24: 28 of 55 intents, see docs/matrix/batch-17-status.md)\n7. Cluster 7 electric"
+    }
+  ]
+}
