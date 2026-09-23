@@ -10,5 +10,5 @@
     ],
     "expectAfter": 770
   },
-  "note": "README/MASTER-MATRIX/status-doc patches are implemented in scripts/apply-batch-19-docs.js (bullet-prefix and short-anchor based, wrap-tolerant, idempotent). The batch-19 closing commit 4b5aa3b already applied the content-state updates; this sync adds the verified final state (Quality Gate run 35927676814 success on 2163d30, Pages deployment 6625676759 success) and the master-matrix.csv merge 730 -> 770."
+  "note": "README/MASTER-MATRIX/status-doc patches are implemented in scripts/apply-batch-19-docs.js (bullet-prefix and short-anchor based, wrap-tolerant, idempotent; changelog located by dated entry pattern because the README CHANGE LOG heading line is affected by stray mid-line newline corruption). The batch-19 closing commit 4b5aa3b already applied the content-state updates; this sync adds the verified final state (Quality Gate run 35927676814 success on 2163d30, Pages deployment 6625676759 success) and the master-matrix.csv merge 730 -> 770."
 }
