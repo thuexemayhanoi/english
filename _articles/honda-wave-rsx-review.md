@@ -19,7 +19,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — Honda VN model pages (Wave Alpha 110, Blade, Wave RSX, Future 125 FI), official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-wave-alpha-110-review, honda-blade-110-review, carburettor-vs-fuel-injection-vietnam, hard-shifting-gearbox-motorbike, best-motorbike-for-commuting-hanoi
+internal_link_targets: honda-wave-alpha-110-review, honda-blade-110-review, carburettor-vs-fuel-injection-vietnam, hard-shifting-gearbox-motorbike, best-motorbike-for-commuting-hanoi, yamaha-pg-1-vs-honda-wave-rsx
 ---
 
 The Wave RSX is the top of Honda's 110 cc underbone range: the same proven engine size as the Wave Alpha and Blade, but with electronic fuel injection across every version and the sharpest sport styling of the three. All figures below are from the official Honda Vietnam Wave RSX product page (retrieved 23 September 2026).
