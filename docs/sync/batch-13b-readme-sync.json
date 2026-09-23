@@ -1,0 +1,18 @@
+{
+  "replacements": [],
+  "sectionReplaces": [
+    {
+      "heading": "# DEPLOYMENT STATE",
+      "content": "- Hosting: GitHub Pages, Jekyll, baseurl /english.\n- Latest verified implementation commit: 6e37433 (Batch 13 closing commit: inbound internal links from 6 published scooter reviews; articles published in part-commits a58bb52/37abf1c with a front-matter repair of 10 guides in b4c9808 — 13 model comparisons, 10 choosing guides, 12 spec explainers; batch-13 matrix rows and README state merged server-side by the docs-sync bot commit 9ac0d0f). Verified 2026-09-23: the live /articles/ index renders the 567-guide total, the /topics/scooters/ hub renders the 110-guide count, and 10 of the 35 new article pages spot-checked live resolve with correct content.\n- Latest verified Quality Gate runs: 35871367548 (commit b4c9808, success, all steps) and 35871816160 (commit 6e37433, success, all steps) on 2026-09-23. The part-commit gates failed transiently (a58bb52 run 35870231744 on forward internal links; 37abf1c run 35870434290 on the front-matter corruption repaired in b4c9808 — see docs/matrix/batch-13-status.md).\n- Latest verified Pages run: 35871855319 (docs-sync bot commit 9ac0d0f, the deployed batch-13 state; success, 2026-09-23). The Pages run for the repair commit b4c9808 (35871365413) also succeeded.\n- Batch-12 state for reference: 532 articles, final commit d06dae8, gate run 35863983644, Pages run 35863983933 (see docs/matrix/batch-12-status.md).\n- README-only state updates may create a newer HEAD than the SHAs recorded here; the values above always refer to the last implementation commit whose CI/deploy was actually verified. Matrix-row and README merges run server-side via the Docs Sync workflow (scripts/apply-batch-docs.js, payloads docs/sync/*.json)."
+    }
+  ],
+  "changelogPrepend": [
+    "- 2026-09-23 (34): Batch 13 verification + state sync — cluster 3 COMPLETE (110 of 110 intents; 567 articles site-wide). Quality Gate PASS with all steps on repair commit b4c9808 (run 35871367548) and on closing commit 6e37433 (run 35871816160); the part-commit gates failed transiently (forward internal links on a58bb52, run 35870231744; the corrupted front matter of 10 guides on 37abf1c, run 35870434290, repaired in b4c9808). Pages verified: run 35871855319 deployed the batch-13 state (docs-sync bot commit 9ac0d0f; the repair-commit Pages run 35871365413 also succeeded). Live verification: /articles/ renders 567 guides, /topics/scooters/ renders 110, 10 new pages spot-checked live. docs/matrix/batch-13-status.md is the authoritative record; docs/MASTER-MATRIX.md updated (cluster 3 COMPLETE, cluster 4 motorcycle reviews NEXT, master-matrix.csv at 567 rows). Next production target: cluster 4 motorcycle reviews with MODEL-DATABASE manufacturer research first."
+  ],
+  "expectContains": [
+    "567 published articles",
+    "Batch 13 verification",
+    "35871367548",
+    "35871855319"
+  ]
+}
