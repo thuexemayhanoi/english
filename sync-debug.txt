@@ -1,9 +1,2 @@
-payload loaded; sectionReplaces=1
-README.md length=43396
-README section OK: # DEPLOYMENT STATE (heading line 168, ends line 172)
-README changelog prepended: 1 entries
-README expectContains OK: "35874723441"
-README expectContains OK: "35874723270"
-README expectContains OK: "592 published articles"
-README expectContains OK: "Batch 14 verification finalized"
-SUCCESS: README finalized for batch 14.
+payload loaded; readmeReplaces=8; mmReplaces=4; sectionReplaces=2
+FATAL: master-matrix.csv holds 605 rows (expected 592)
