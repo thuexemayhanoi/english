@@ -12,7 +12,12 @@ Authoritative publish/review record for Batch 16. Date: 2026-09-24 (Asia/Ho_Chi_
 
 ## Verification record
 
-- To be completed: remote MAIN file count, Quality Gate run, Pages deployment, live spot-checks (this section is updated by the batch-16 docs-sync run after verification).
+- Verified 2026-09-24 (Asia/Ho_Chi_Minh): remote MAIN holds 675 article files in _articles/ (642 pre-batch + 31 planned batch-16 files + 2 supplementary overlap articles), counted on the remote listing. Live spot-checks: /articles/ renders the 675-guide total, /topics/motorcycles/ renders the 108-guide count; batch-16 pages checked live (why-110cc-is-vietnams-default-engine, honda-wave-alpha-vs-honda-cbr150r, honda-wave-alpha-vs-honda-super-cub) resolve; repaired articles (honda-wave-alpha-110-review, honda-future-125-review) verified live with the line-wrap corruption removed.
+- Quality Gate: the gates on the batch-16 part-commits c05daab through 88e63ab failed at the internal-link audit step (internal_link_targets referencing the missing slug honda-wave-alpha-vs-super-cub in honda-blade-vs-honda-super-cub-c125.md and honda-super-cub-vs-yamaha-sirius.md, and a quote-mangled internal_link_targets line in best-110cc-underbones-vietnam-verified.md); several articles additionally carried mid-word line-wrap corruption. All repaired in commit 769a218 (2 target slugs corrected to honda-wave-alpha-vs-honda-super-cub, the quote-mangled line rebuilt with 16 verified targets, wrap corruption joined in 8 articles); gate on 769a218 verified success (all steps) via the commit checks page. Commits a45eeef and 80b0bff are empty reconciliation commits and changed nothing.
+- Overlap: a second scheduled run produced Batch 16 concurrently; reconciled per docs/matrix/batch-16-overlap-reconciliation.md (commit 9406764). 7 same-slug articles were superseded in place; 2 supplementary articles retained (honda-wave-alpha-vs-honda-cbr150r, honda-blade-vs-honda-winner-r; matrix rows MM-0608/MM-0609 in docs/matrix/batch-16b-rows.csv). Note: the reconciliation doc lists the MM-0609 slug as honda-blade-vs-winner-r - the published article slug is honda-blade-vs-honda-winner-r.
+- Pages: live verification after the repair deployment shows the 675-article index and the 108-guide motorcycles hub with correct content.
+- Docs sync: the 31 batch-16 rows plus the 2 batch-16b rows are merged into docs/matrix/master-matrix.csv by this batch-16 docs-sync run (642 -> 675).
+
 
 ## Research provenance
 
