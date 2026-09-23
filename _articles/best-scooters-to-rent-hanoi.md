@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "best-motorbike-for-hanoi-traffic, automatic-vs-manual-motorbike-hanoi, motorbike-rental-price-hanoi, best-motorbike-for-two-people-hanoi, easiest-motorbikes-for-beginners-hanoi"
+internal_link_targets: "best-motorbike-for-hanoi-traffic, automatic-vs-manual-motorbike-hanoi, motorbike-rental-price-hanoi, best-motorbike-for-two-people-hanoi, easiest-motorbikes-for-beginners-hanoi, honda-vision-110-review, honda-vs-yamaha-scooters-vietnam"
 ---
 
 The automatic scooter is the default rental in Hanoi, and three models dominate. Here is the honest comparison.
@@ -36,7 +36,8 @@ Yamaha's answer to the Click class: light, easy to park, easy to flick through t
 
 ## How to choose between them
 
-- Seat height and fit matter more than spec sheets - sit on all three; the one that lets both feet nearly flat is the one.
+- Seat height and 
+fit matter more than spec sheets - sit on all three; the one that lets both feet nearly flat is the one.
 - All three are around the 110-125 cc class: enough for Hanoi, enough for day trips, not tourers.
 - All three take regular unleaded and get serviced by the rental shop as part of the deal.
 - Rate differences are small but real on long rentals: a month on a Click/Mio versus a Vision differs by several hundred thousand dong.

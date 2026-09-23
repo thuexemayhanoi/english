@@ -16,7 +16,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
-internal_link_targets: "tyre-care-motorbike-vietnam, air-filter-care-motorbike-vietnam, checking-engine-oil-motorbike, motorbike-service-when-vietnam"
+internal_link_targets: "tyre-care-motorbike-vietnam, air-filter-care-motorbike-vietnam, checking-engine-oil-motorbike, motorbike-service-when-vietnam, scooter-fuel-economy-comparison-vietnam"
 ---
 
 Motorbikes are already cheap to run, but in Hanoi traffic a badly ridden bike can use half again as much fuel as a well-ridden identical one. The difference is not the bike — it is the right wrist, plus a few maintenance basics.

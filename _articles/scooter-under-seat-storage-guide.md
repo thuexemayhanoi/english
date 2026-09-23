@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented capacities"
-internal_link_targets: "top-boxes-racks-motorbike-vietnam, what-to-carry-riding-motorbike-vietnam, spare-parts-kit-underseat-motorbike, where-to-park-motorbike-hanoi"
+internal_link_targets: "top-boxes-racks-motorbike-vietnam, what-to-carry-riding-motorbike-vietnam, spare-parts-kit-underseat-motorbike, where-to-park-motorbike-hanoi, scooter-underseat-storage-comparison, honda-lead-125-review"
 ---
 
 The under-seat tub is the scooter's superpower: a lockable, weatherproof, vibration-damped boot that arrives with the bike. Most riders use a quarter of it well and the rest badly. This is the guide to the rest.
@@ -27,7 +27,8 @@ On classic automatic scooters it is a moulded tub that fits a full-face helmet (
 
 ## What belongs under the seat
 
-The honest priority list: documents (vehicle papers if you own; a copy of rental contact details if you rent), rain poncho (the single most-used item in Vietnamese scooter life), a microfiber cloth for the visor and mirror, the spare-parts kit (the under-seat spares list is in spare-parts-kit-underseat-motorbike), and the helmet when parked — the most security-conscious habit in daily city use, and better than any helmet lock (top-boxes-racks-motorbike-vietnam covers the same logic for box riders). Valuables go under the seat only while you ride: under-seat storage on a parked scooter is a locked drawer, not a safe — the parking realities are in where-to-park-motorbike-hanoi.
+The honest priority list: documents (vehicle papers if you own; a copy of rental contact details if you rent), rain poncho (the single most-used item in Vietnamese scooter life), a microfiber cloth for the visor and mirror, the spare-parts kit (the under-seat spares list is in spare-parts-kit-underseat-motorbike), and the helmet when parked — the most security-conscious habit in daily city use,
+ and better than any helmet lock (top-boxes-racks-motorbike-vietnam covers the same logic for box riders). Valuables go under the seat only while you ride: under-seat storage on a parked scooter is a locked drawer, not a safe — the parking realities are in where-to-park-motorbike-hanoi.
 
 ## What does not belong there
 

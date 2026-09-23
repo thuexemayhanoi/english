@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented specifications"
-internal_link_targets: "brake-checks-motorbike-vietnam, brake-pads-replacement-motorbike-vietnam, spongy-brakes-brake-fluid-motorbike, emergency-braking-motorbike-vietnam"
+internal_link_targets: "brake-checks-motorbike-vietnam, brake-pads-replacement-motorbike-vietnam, spongy-brakes-brake-fluid-motorbike, emergency-braking-motorbike-vietnam, which-scooters-have-abs-vietnam"
 ---
 
 The Vietnamese fleet mixes brake technologies by price: drum brakes on the back (and often both ends) of small bikes, hydraulic discs increasingly up front. Both stop bikes well when maintained — but they fail in completely different ways, and the maintenance differs accordingly.
@@ -31,7 +31,8 @@ Drums fade when wet (though the first few slow applications dry them), fill with
 
 ## Maintenance realities here
 
-Drums: adjustment, cleaning and shoe inspection — very cheap, and every street-side mechanic does them. Discs: pad replacement is easy (pad-wear logic in brake-pads-replacement-motorbike-vietnam), fluid changes are the neglected half. Disc rotors also tell the truth to your fingers: a glazed, scored or lipped rotor announces its condition — something drum brakes hide until the shoes are metal-on-drum. Buying pads and rotors from reputable sources matters more than the drum/disc debate; counterfeit brake parts are the one counterfeit category that can hurt you within a single ride.
+Drums: adjustme
+nt, cleaning and shoe inspection — very cheap, and every street-side mechanic does them. Discs: pad replacement is easy (pad-wear logic in brake-pads-replacement-motorbike-vietnam), fluid changes are the neglected half. Disc rotors also tell the truth to your fingers: a glazed, scored or lipped rotor announces its condition — something drum brakes hide until the shoes are metal-on-drum. Buying pads and rotors from reputable sources matters more than the drum/disc debate; counterfeit brake parts are the one counterfeit category that can hurt you within a single ride.
 
 ## Feel and skill beat specification
 
