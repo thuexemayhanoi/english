@@ -19,7 +19,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn - Honda SH160i/125i model page, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: premium-scooters-vietnam, honda-sh-mode-125-review, honda-sh-mode-125-vs-honda-sh-160, which-scooters-have-abs-vietnam, smart-key-scooters-vietnam
+internal_link_targets: premium-scooters-vietnam, honda-sh-mode-125-review, honda-sh-mode-125-vs-honda-sh-160, which-scooters-have-abs-vietnam, smart-key-scooters-vietnam, yamaha-nmax-155-vs-honda-sh-160
 ---
 
 No scooter in Vietnam carries more social weight than the Honda SH. This review of the current SH160i (with notes on the 125i sibling) uses only specifications published by Honda Vietnam on the official SH160i/125i product page (retrieved 23 September 2026) - fields Honda does not publish are omitted rather than estimated.
@@ -30,7 +30,8 @@ The SH160i uses a 156.9 cc single-cylinder, four-stroke, liquid-cooled eSP+ engi
 
 ## Size, weight and comfort
 
-Honda publishes a kerb weight of 134 kg, seat height 799 mm, dimensions 2,090 x 739 x 1,156 mm, a 1,353 mm wheelbase, 146 mm ground clearance, and 16-inch wheels front and rear (100/80-16 front, 120/80-16 rear). The long wheelbase and big wheels give the SH its signature highway stability - see our scooter wheelbase explainer for why geometry matters. Note the seat height: at 799 mm it is taller than most city scooters, so shorter riders should sit on one first (our seat height comparison has the numbers).
+Honda publishes a kerb weight of 134 
+kg, seat height 799 mm, dimensions 2,090 x 739 x 1,156 mm, a 1,353 mm wheelbase, 146 mm ground clearance, and 16-inch wheels front and rear (100/80-16 front, 120/80-16 rear). The long wheelbase and big wheels give the SH its signature highway stability - see our scooter wheelbase explainer for why geometry matters. Note the seat height: at 799 mm it is taller than most city scooters, so shorter riders should sit on one first (our seat height comparison has the numbers).
 
 ## Fuel economy and practicality
 

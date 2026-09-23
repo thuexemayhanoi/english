@@ -19,7 +19,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — Honda Lead ABS model page, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: "honda-air-blade-160-vs-honda-lead-125, scooter-underseat-storage-comparison, which-scooters-have-abs-vietnam, honda-lead-vs-yamaha-grande, 110cc-vs-125cc-scooters, air-cooled-vs-liquid-cooled-motorbike"
+internal_link_targets: "honda-air-blade-160-vs-honda-lead-125, scooter-underseat-storage-comparison, which-scooters-have-abs-vietnam, honda-lead-vs-yamaha-grande, 110cc-vs-125cc-scooters, air-cooled-vs-liquid-cooled-motorbike, yamaha-latte-125-vs-honda-lead-125"
 ---
 
 If you judge scooters by what they carry rather than how they look, the Honda Lead is the benchmark. Honda Vietnam's official Lead ABS model page (retrieved 23 September 2026) confirms the headline: a 37-litre underseat compartment that swallows two full-face helmets - the largest in its class among the models we compare in our scooter storage comparison.
@@ -30,7 +30,8 @@ The Lead runs a 124.8 cc single-cylinder four-stroke engine, liquid-cooled, with
 
 ## Size and riding position
 
-Kerb weight 114 kg, seat height 760 mm - the lowest in our scooter seat height comparison - and dimensions 1,844 x 714 x 1,132 mm with 140 mm ground clearance. Tyres: 90/90-12 front, 100/90-10 rear; the smaller wheels trade a little stability for agility at city speeds.
+Kerb weight 114 kg, seat height 760 mm - the lowest in our scooter seat height comparison - and dimensions 1,844 x 714 x 1,132 mm with 140 mm ground clearance. Tyres: 90/90-12 front, 100/90-10 rear; the sma
+ller wheels trade a little stability for agility at city speeds.
 
 ## Safety equipment
 

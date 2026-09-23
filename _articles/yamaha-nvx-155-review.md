@@ -19,7 +19,7 @@ last_reviewed: 2026-09-23
 sources:
   - "yamaha-motor.com.vn - Yamaha NVX 155 VVA ABS model page, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-vario-160-vs-yamaha-nvx-155, yamaha-nvx-155-vs-honda-air-blade-160, yamaha-vva-explained, which-scooters-have-abs-vietnam, smart-key-scooters-vietnam
+internal_link_targets: honda-vario-160-vs-yamaha-nvx-155, yamaha-nvx-155-vs-honda-air-blade-160, yamaha-vva-explained, which-scooters-have-abs-vietnam, smart-key-scooters-vietnam, yamaha-nmax-155-vs-yamaha-nvx-155
 ---
 
 The Yamaha NVX 155 is the sportiest mainstream automatic scooter sold in Vietnam, and unlike some style-led machines it backs the look up with hardware: a 155 cc Blue Core engine with variable valve timing, front ABS and phone connectivity. All figures below come from the official Yamaha Motor Vietnam NVX 155 VVA ABS product page (retrieved 23 September 2026); anything Yamaha does not publish is omitted rather than estimated.
@@ -30,7 +30,8 @@ The NVX runs a 155.1 cc single-cylinder, four-stroke, liquid-cooled Blue Core en
 
 ## Size, weight and comfort
 
-Yamaha publishes a wet weight of 125 kg, seat height 790 mm, dimensions 1,980 x 700 x 1,150 mm, wheelbase 1,350 mm and ground clearance 145 mm. The seat is split into two levels for rider and pillion. The 5.5-litre tank is quoted by Yamaha as good for up to 200 km per fill; real-world range varies with speed, load and conditions.
+Yamaha publishes a wet weight of 12
+5 kg, seat height 790 mm, dimensions 1,980 x 700 x 1,150 mm, wheelbase 1,350 mm and ground clearance 145 mm. The seat is split into two levels for rider and pillion. The 5.5-litre tank is quoted by Yamaha as good for up to 200 km per fill; real-world range varies with speed, load and conditions.
 
 ## Brakes and chassis
 
