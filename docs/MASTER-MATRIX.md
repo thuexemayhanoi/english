@@ -7,11 +7,13 @@ Status: ACTIVE CONTENT MATRIX
 - 81 rental articles are published (cluster 1, Batch 2, 2026-09-22 — see docs/matrix/batch-2-status.md). Cluster 1 is COMPLETE: 81 of 81 intents published, 0 proposed. All business facts come exclusively from docs/OWNER-FACTS.md.
 - 45 monthly & long-term rental articles are published (cluster 2, Batch 3, 2026-09-22 — see docs/matrix/batch-3-status.md). Cluster 2 is COMPLETE: 45 of 45 intents published, 0 proposed. Monthly prices are published only for the models named in docs/OWNER-FACTS.md; all other models point to contact for current monthly pricing.
 - Cluster 10 (riding skills & safety) is COMPLETE: 55 of 55 intents published (30 in Batch 4 + 25 in Batch 5, 2026-09-22 — see docs/matrix/batch-4-status.md and docs/matrix/batch-5-status.md). Cluster 8 (maintenance & repair) is COMPLETE: 120 of 120 intents published (20 in Batch 4 + 25 in Batch 5 + 25 in Batch 6 + 50 in Batch 7, 2026-09-23 — see docs/matrix/batch-7-status.md). Cluster 9 (parts, accessories & riding gear) is COMPLETE: 90 of 90 intents published (25 in Batch 6, 50 in Batch 8, 15 in Batch 9 — see docs/matrix/batch-9-status.md). Safety articles separate practical riding advice from legal requirements and link to the VERIFIED cluster-11 legal articles; maintenance articles contain no invented torque values, capacities, pressures, electrical values or service intervals.
+- Cluster 3 (scooter reviews & comparisons) Part 1: 25 of 110 intents published (Batch 10, 2026-09-23 — see docs/matrix/batch-10-status.md): 7 manufacturer-verified model reviews (Honda Vision, Air Blade 125/160, Lead, Yamaha Janus, FreeGo, Grande), 6 model comparisons and 12 choosing/spec guides (MM-0392–MM-0416). All engine, weight, seat, fuel, tyre and price figures come from Honda VN and Yamaha VN official pages recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23); business facts come exclusively from docs/OWNER-FACTS.md.
 - The remaining rows are production candidates according to batch order. They are NOT approved for immediate wholesale publication: each batch is written, QA'd and committed through the publishing workflow (README → PUBLISHING WORKFLOW).
-- docs/matrix/batch-1-status.md is the authoritative record for legal Batch 1 progress; docs/matrix/batch-2-status.md is the authoritative record for the rental batch; docs/matr
+- docs/matrix/batch-1-status.md is the authoritative rec
+ord for legal Batch 1 progress; docs/matrix/batch-2-status.md is the authoritative record for the rental batch; docs/matr
 ix/batch-3-status.md is the authoritative record for the monthly & long-term rental batch. docs/matrix/batch-4-status.md is the authoritative record for the safety + maintenance Part 1 batch; docs/matrix/batch-5-status.md is the authoritative record for the safety remainder + maintenance Part 2 batch. docs/matrix/batch-6-status.md is the authoritative record for the maintenance Part 3 + parts/gear Part 1 batch (2026-09-23). docs/matrix/batch-7-status.md is the authoritative record for the maintenance Part 4 batch (2026-09-23, cluster 8 complete). docs/matrix/batch-8-status.md is the authoritative record for the parts/gear Part 2 batch (2026-09-23, MM-0327–MM-0376). docs/matrix/batch-9-status.md is the authoritative record for the parts/gear Part 3 batch (2026-09-23, MM-0377–MM-0391; cluster 9 complete).
 
-Full row-level matrix: docs/matrix/master-matrix.csv. The CSV currently holds 457 committed rows: 81 rental-cluster rows (81 published), 45 monthly & long-term rental rows (45 published), the complete 66-row cluster-11 law/licence slice (66 published; renumbered 2026-09-22 from colliding MM-0082–MM-0147 IDs to the unique LAW-0001–LAW-0066 range — see docs/matrix/batch-4-status.md), the complete 55-row cluster-10 safety slice (55 published), 120 cluster-8 maintenance rows (120 published, cluster 8 complete) and 90 cluster-9 parts/gear rows (90 published; cluster 9 complete). Rows for the remaining clusters are authored from this planning framework batch by batch, before each batch is written.
+Full row-level matrix: docs/matrix/master-matrix.csv. The CSV currently holds 482 committed rows (457 through Batch 9 plus the 25 Batch 10 cluster-3 rows, MM-0392–MM-0416; the Batch 10 rows are also preserved verbatim in docs/matrix/batch-10-rows.csv): 81 rental-cluster rows (81 published), 45 monthly & long-term rental rows (45 published), the complete 66-row cluster-11 law/licence slice (66 published; renumbered 2026-09-22 from colliding MM-0082–MM-0147 IDs to the unique LAW-0001–LAW-0066 range — see docs/matrix/batch-4-status.md), the complete 55-row cluster-10 safety slice (55 published), 120 cluster-8 maintenance rows (120 published, cluster 8 complete) and 90 cluster-9 parts/gear rows (90 published; cluster 9 complete). Rows for the remaining clusters are authored from this planning framework batch by batch, before each batch is written.
 Intent store with provenance: docs/data/intents.csv.
 
 ## Summary
@@ -19,7 +21,8 @@ Intent store with provenance: docs/data/intents.csv.
 - STRONG ARTICLES: 988 (reporting the strong count; no filler added to force exactly 1,000)
 - Rows dropped by QA: 12 (exact and near-duplicate detection — see QA section)
 - Rows requiring fresh research before publication: 715 (legal R1: 222)
-- Data foundation: OWNER-FACTS (approved data), owner-history intents (54 themes), GSC snapshot (2026-08-18→2026-09-16), research skeleton
+- Data foundation: OWNER-FACTS (approved data), owne
+r-history intents (54 themes), GSC snapshot (2026-08-18→2026-09-16), research skeleton
 
 ## Provisional status
 
@@ -58,7 +61,8 @@ Source basis values: owner-history / gsc / owner-history+gsc / skeleton / resear
 - Near-duplicate query token sets: dropped (12 total).
 - Doorway-page check: area guides limited to 10 districts × 2 genuine angles (renting context + delivery logistics); no neighbourhood-spin pages.
 - Thin-topic check: no single-question rows; every row has a stated distinct intent and subcluster rule.
-- Cannibalization controls: canonical legal articles live in cluster 11 (50cc/electric/rental articles summarize and link); model review vs comparison vs choosing-guide are separated by intent; route guide vs destination guide separated.
+- Cannibalization controls: canonical 
+legal articles live in cluster 11 (50cc/electric/rental articles summarize and link); model review vs comparison vs choosing-guide are separated by intent; route guide vs destination guide separated.
 - Known QA limitation: token-based near-dup detection dropped two model reviews whose normalized queries collided (Suzuki VS, Suzuki GN). If these models matter for the catalog, they can be re-added with distinct queries during batch 4 spec population.
 
 ## Verification flags carried per row
@@ -79,7 +83,8 @@ ows: government sources, last_reviewed mandatory) · R2 travel/route · R3 manuf
 3. Cluster 10 + cluster 8 part 1 — COMPLETE (Batch 4)
 4. Cluster 10 remainder + cluster 8 part 2 — COMPLETE (Batch 5)
 5. Cluster 8 part 3 (25) + cluster 9 part 1 (25) — COMPLETE (Batch 6, 2026-09-23)
-6. Cluster 8 part 4 (50 remaining) — COMPLETE (Batch 7, 2026-09-23); cluster 9 part 2 (50 of 65) — COMPLETE (Batch 8, 2026-09-23); cluster 9 part 3 (15 remaining) — COMPLETE (Batch 9, 2026-09-23); clusters 3–4 (spec population from manufacturer pages into MODEL-DATABASE first) — NEXT
+6. Cluster 8 part 4 (50 remaining) — COMPLETE (Batch 7, 2026-09-23); cluster 9 part 2 (50 of 65) — COMPLETE (Batch 8, 2026-09-23); cluster 9 part 3 (15 remaining) — COMPLETE (Batch 9, 2026-09-23); clusters 3–4 (spec population from manufacturer pages i
+nto MODEL-DATABASE first) — cluster 3 Part 1 COMPLETE (Batch 10, 2026-09-23, 25 of 110 intents, MM-0392–MM-0416); clusters 3–4 remainder — NEXT
 7. Clusters 3–4 (spec population from manufacturer pages into MODEL-DATABASE first)
 8. Clusters 5–6
 7. Cluster 7 electric (MODEL-DATABASE electric fields)
