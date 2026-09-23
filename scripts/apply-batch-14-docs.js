@@ -42,7 +42,8 @@ const totalRows = existingIds.size;
 
 // ---------- 2. Exact-once replacements (string or regex, count-validated) ----------
 function replaceValidated(text, r, label) {
-  const count = observedCount(text, r);
+  const count = 
+observedCount(text, r);
   const expect = r.expectedCount == null ? 1 : r.expectedCount;
   if (count !== expect) {
     diag.push(label + ' MISMATCH: find occurs ' + count + ' times, expected ' + expect + ': "' + String(r.find == null ? r.regex : r.find).slice(0, 120) + '"');
@@ -74,7 +75,8 @@ function replaceSection(text, heading, content) {
   return lines.slice(0, h + 1).concat([content]).concat(lines.slice(end)).join('\n');
 }
 for (const s of payload.sectionReplaces || []) readme = replaceSection(readme, s.heading, s.content);
-if (payload.changelogPrepend && payload.changelogPrepend.length) {
+if (payload.changelogPrepend && payload.changelogP
+repend.length) {
   const marker = '# CHANGE LOG\n\n';
   const idx = readme.indexOf(marker);
   if (idx === -1) die('changelog heading not found');
@@ -88,8 +90,26 @@ for (const must of payload.expectContains || []) {
   diag.push('README expectContains OK: "' + must.slice(0, 60) + '"');
 }
 
+function normalizeMojibake(text, label) {
+  const pairs = [
+    ['\u00e2\u0080\u0094', '\u2014'],
+    ['\u00e2\u0080\u0093', '\u2013'],
+    ['\u00e2\u0086\u0092', '\u2192'],
+    ['\u00c2\u00b7', '\u00b7'],
+    ['\u00c3\u0097', '\u00d7'],
+    ['\u00c3\u00a1', '\u00e1']
+  ];
+  let count = 0;
+  for (const p of pairs) {
+    const parts = text.split(p[0]);
+    if (parts.length > 1) { count += parts.length - 1; text = parts.join(p[1]); }
+  }
+  diag.push(label + ' mojibake repaired: ' + count + ' sequences');
+  return text;
+}
+
 // ---------- 4. MASTER-MATRIX updates ----------
-let mm = fs.readFileSync('docs/MASTER-MATRIX.md', 'utf8');
+let mm = normalizeMojibake(fs.readFileSync('docs/MASTER-MATRIX.md', 'utf8'), 'MASTER-MATRIX');
 diag.push('MASTER-MATRIX.md length=' + mm.length);
 for (const r of payload.mmReplacements || []) mm = replaceValidated(mm, r, 'MASTER-MATRIX');
 for (const must of payload.mmExpectContains || []) {
@@ -98,7 +118,7 @@ for (const must of payload.mmExpectContains || []) {
 }
 
 // ---------- 5. MODEL-DATABASE append (idempotent) ----------
-let mdb = fs.readFileSync('docs/MODEL-DATABASE.md', 'utf8');
+let mdb = normalizeMojibake(fs.readFileSync('docs/MODEL-DATABASE.md', 'utf8'), 'MODEL-DATABASE');
 if (!mdb.includes('Batch 14 additions')) {
   mdb += '\n' + fs.readFileSync('docs/sync/batch-14-model-database-appendix.md', 'utf8');
   if (!mdb.endsWith('\n')) mdb += '\n';
@@ -113,5 +133,6 @@ fs.writeFileSync('README.md', readme);
 fs.writeFileSync('docs/MASTER-MATRIX.md', mm);
 fs.writeFileSync('docs/MODEL-DATABASE.md', mdb);
 diag.push('SUCCESS: master-matrix.csv rows=' + totalRows + '; README, MASTER-MATRIX and MODEL-DATABASE updated.');
-fs.writeFileSync('sync-debug.txt', diag.join('\n') + '\n');
+fs.writeFileSync('sync-debug.txt', di
+ag.join('\n') + '\n');
 console.log('apply-batch-14-docs: master-matrix.csv rows=' + totalRows + '; README, MASTER-MATRIX and MODEL-DATABASE updated.');
