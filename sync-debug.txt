@@ -3,8 +3,10 @@ rowsFile docs/matrix/batch-19-rows.csv: idRows=40
 CSV merge OK: added 40, skipped 0 duplicates; ID rows 730 -> 770
 README CSV bullet bullet replace OK (1 physical line(s)): - docs/matrix/master-matrix.csv holds
 README OPEN ISSUES 1 bullet replace OK (2 physical line(s)): 1. 3 topic clusters have zero published articles
-README DEPLOYMENT batch-19 bullet replace OK (1 physical line(s)): - Batch 19 (cluster-6 50cc, MM-0665-MM-0704) was published 2
-README CHANGE LOG: no existing dated entries found; skipping changelog insertion
-MM row count patch OK: The CSV currently holds 730 committed rows (after the batch-
-MM merge chain patch OK: the batch-17 docs-sync merge 675 -> 703 and the batch-18 doc
-FATAL: MM cluster-6 rows anchor not found: and 55 cluster-5 manual & clutch rows (55 published; cluster 5 COMPLET
+README DEPLOYMENT batch-19 bullet replace OK (1 physical line(s)): - Batch 19 (cluster-6 50cc, MM-0665-MM-0704) was p
+README CHANGE LOG: no changelog section found; skipping entry insertion (batch-19 state is recorded in CONTENT BATCH STATE and DEPLOYMENT STATE)
+MM row count patch OK (exact): The CSV currently holds 730 committed rows (after 
+MM merge chain patch OK (exact): the batch-17 docs-sync merge 675 -> 703 and the ba
+MM cluster-6 rows patch OK (newline-insensitive, healing 1 stray newline(s)): and 55 cluster-5 manual & clutch rows (55 publishe
+MM cluster-6 bullet patch OK (exact): The 40 batch-19 rows are preserved verbatim in doc
+batch-19-status.md final verification appended

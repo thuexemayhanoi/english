@@ -28,3 +28,10 @@ Authoritative publish/review record for Batch 19. Date: 2026-09-24 (Asia/Ho_Chi_
 ## Cluster 6 closeout
 
 Cluster 6 (50cc motorbikes) is COMPLETE: 40 of 40 intents published in Batch 19. Next per the MASTER-MATRIX production plan: cluster 7 (electric motorbikes and e-bikes, 89 intents — populate MODEL-DATABASE electric fields from manufacturer pages first).
+## Final verification (post-publication repairs)
+
+Verified 2026-09-24 (Asia/Ho_Chi_Minh):
+
+- Post-closing repair commits: 0e4cf54 (empty reconciliation commit, changed nothing), fccfa8c (removed stray quotes from the internal_link_targets lines of 12 existing articles - targets appended after the closing YAML quote in 9ce5a03 had created invalid slugs in the Quality Gate internal-link audit; the gate on fccfa8c passed every step except the Guide Assistant test), dbf4e7e (reconstructed this rows CSV: joined 9 rows that had been split mid-line during generation and normalized internal_link_targets quoting to the batch-18 convention), 2163d30 (named the 50cc category in the 50cc-fines-vietnam intro so the Guide Assistant licence follow-up test retrieves a 50cc answer).
+- FINAL VERIFIED STATE: Quality Gate run 35927676814 (#169) on commit 2163d30 - success, every step including the Guide Assistant test (built index). GitHub Pages deployment 6625676759 of commit 2163d30 - success (2026-09-23T22:20:33Z). The live site serves the fixed intro on /articles/50cc-fines-vietnam/ (verified with a cache-bypassing fetch; a plain fetch may serve the CDN-cached pre-fix HTML for up to ~10 minutes). Remote MAIN holds 770 article files in _articles/ and all 40 batch-19 slugs are live.
+- master-matrix.csv merged 730 -> 770 by the batch-19 docs-sync run; README.md and docs/MASTER-MATRIX.md updated with the verified final state.
