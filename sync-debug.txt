@@ -1,16 +1,17 @@
-payload loaded; readmeReplaces=6; mmReplaces=2; sectionReplaces=1
-CSV structure: totalLines=688 idRows=675 firstId=MM-0001 lastId=MM-0609
-rowsFile docs/matrix/batch-17-rows.csv: idRows=28
-CSV merge OK: added 28, skipped 0 duplicates; ID rows 675 -> 703
-README patch OK: - 675 published articles: 66 law/licence articles
-README patch OK: 14 topic hubs live; 6 currently show the empty state
-README patch OK: and 2 rows from docs/matrix/batch-16b-rows.csv; 675 publishe
-README patch OK: 1. 6 topic clusters have zero published articles
+payload loaded; readmeReplaces=6; mmReplaces=4; sectionReplaces=1
+CSV structure: totalLines=716 idRows=703 firstId=MM-0001 lastId=MM-0637
+rowsFile docs/matrix/batch-18-rows.csv: idRows=27
+CSV merge OK: added 27, skipped 0 duplicates; ID rows 703 -> 730
+README patch OK: - 703 published articles: 28 cluster-5 manual & clutch artic
+README patch OK: 14 topic hubs live; 5 currently show the empty state (Batch 
+README patch OK: plus 28 cluster-5 batch-17 rows preserved in docs/matrix/bat
+README patch OK: 1. 5 topic clusters have zero published articles (cluster 5 
 README patch OK: - _queue/: empty (no drafts pending).
 README patch OK: # CHANGE LOG
 
-- 2026-09-24 (38):
+- 2026-09-24 (39):
 README section replace OK: # NEXT RECOMMENDED STEP
-MM patch OK: - The remaining rows are production candidates according to 
-MM patch OK: 8. Clusters 5–6
-7. Cluster 7 electric
+MM patch OK: - Cluster 5 (manual & clutch motorcycles) Part 1 is publishe
+MM patch OK: 8. Clusters 5–6 (cluster 5 Part 1 published 2026-09-24: 28 o
+MM patch OK: The CSV currently holds 675 committed rows (after the batch-
+MM patch OK: and 108 cluster-4 motorcycle rows (108 published; cluster 4 
