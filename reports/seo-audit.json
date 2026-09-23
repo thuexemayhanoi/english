@@ -3,8 +3,8 @@
   "counts": {
     "P0": 0,
     "P1": 0,
-    "P2": 37,
-    "P3": 122
+    "P2": 60,
+    "P3": 123
   },
   "findings": [
     {
@@ -237,6 +237,13 @@
       "url": "/articles/electric-bike-licence-vietnam/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/electric-start-starter-motor-problems.md",
+      "url": "/articles/electric-start-starter-motor-problems/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
     },
     {
       "severity": "P3",
@@ -891,8 +898,29 @@
     },
     {
       "severity": "P2",
+      "file": "_articles/aftermarket-mirrors-motorbike-upgrade.md",
+      "url": "/articles/aftermarket-mirrors-motorbike-upgrade/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/air-cooled-vs-liquid-cooled-motorbike.md",
+      "url": "/articles/air-cooled-vs-liquid-cooled-motorbike/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
       "file": "_articles/best-motorbikes-for-tall-riders-vietnam.md",
       "url": "/articles/best-motorbikes-for-tall-riders-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/brake-light-indicator-repair-motorbike.md",
+      "url": "/articles/brake-light-indicator-repair-motorbike/",
       "issue": "orphan article (nothing links to it)",
       "fix": "Add it to a hub or related-guides list"
     },
@@ -905,8 +933,22 @@
     },
     {
       "severity": "P2",
-      "file": "_articles/carrying-luggage-motorbike-safely-vietnam.md",
-      "url": "/articles/carrying-luggage-motorbike-safely-vietnam/",
+      "file": "_articles/choosing-engine-oil-motorbike-vietnam.md",
+      "url": "/articles/choosing-engine-oil-motorbike-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/crash-bars-engine-guards-motorbike.md",
+      "url": "/articles/crash-bars-engine-guards-motorbike/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/disc-vs-drum-brakes-motorbike.md",
+      "url": "/articles/disc-vs-drum-brakes-motorbike/",
       "issue": "orphan article (nothing links to it)",
       "fix": "Add it to a hub or related-guides list"
     },
@@ -926,8 +968,50 @@
     },
     {
       "severity": "P2",
+      "file": "_articles/exhaust-care-humid-climate-motorbike.md",
+      "url": "/articles/exhaust-care-humid-climate-motorbike/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
       "file": "_articles/families-monthly-motorbike-hanoi.md",
       "url": "/articles/families-monthly-motorbike-hanoi/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/final-drive-chain-belt-shaft-compared.md",
+      "url": "/articles/final-drive-chain-belt-shaft-compared/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/grab-rails-backrests-pillion-vietnam.md",
+      "url": "/articles/grab-rails-backrests-pillion-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/handlebar-grips-choosing-motorbike.md",
+      "url": "/articles/handlebar-grips-choosing-motorbike/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/helmet-intercoms-bluetooth-vietnam.md",
+      "url": "/articles/helmet-intercoms-bluetooth-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/maintenance-log-monthly-rental-motorbike.md",
+      "url": "/articles/maintenance-log-monthly-rental-motorbike/",
       "issue": "orphan article (nothing links to it)",
       "fix": "Add it to a hub or related-guides list"
     },
@@ -1017,6 +1101,20 @@
     },
     {
       "severity": "P2",
+      "file": "_articles/oil-leaks-motorbike-finding-fixing.md",
+      "url": "/articles/oil-leaks-motorbike-finding-fixing/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/rear-suspension-preload-riders-luggage.md",
+      "url": "/articles/rear-suspension-preload-riders-luggage/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
       "file": "_articles/rental-motorbike-fuel-what-petrol.md",
       "url": "/articles/rental-motorbike-fuel-what-petrol/",
       "issue": "orphan article (nothing links to it)",
@@ -1094,8 +1192,64 @@
     },
     {
       "severity": "P2",
+      "file": "_articles/repair-quotes-parts-pricing-vietnam.md",
+      "url": "/articles/repair-quotes-parts-pricing-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
       "file": "_articles/ride-125cc-with-car-licence-vietnam.md",
       "url": "/articles/ride-125cc-with-car-licence-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/riding-gear-budget-priority-vietnam.md",
+      "url": "/articles/riding-gear-budget-priority-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/scooter-gearbox-oil-atf-basics.md",
+      "url": "/articles/scooter-gearbox-oil-atf-basics/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/scooter-under-seat-storage-guide.md",
+      "url": "/articles/scooter-under-seat-storage-guide/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/scooter-windscreens-vietnam.md",
+      "url": "/articles/scooter-windscreens-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/speedometer-not-working-motorbike.md",
+      "url": "/articles/speedometer-not-working-motorbike/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/spoke-wheels-care-truing-vietnam.md",
+      "url": "/articles/spoke-wheels-care-truing-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/stands-side-vs-centre-paddock.md",
+      "url": "/articles/stands-side-vs-centre-paddock/",
       "issue": "orphan article (nothing links to it)",
       "fix": "Add it to a hub or related-guides list"
     },
@@ -1117,6 +1271,20 @@
       "severity": "P2",
       "file": "_articles/underage-riding-penalties-vietnam.md",
       "url": "/articles/underage-riding-penalties-vietnam/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/valve-clearances-motorbike-basics.md",
+      "url": "/articles/valve-clearances-motorbike-basics/",
+      "issue": "orphan article (nothing links to it)",
+      "fix": "Add it to a hub or related-guides list"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/visor-care-anti-fog-motorbike.md",
+      "url": "/articles/visor-care-anti-fog-motorbike/",
       "issue": "orphan article (nothing links to it)",
       "fix": "Add it to a hub or related-guides list"
     }
