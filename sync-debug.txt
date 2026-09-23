@@ -1,2 +1,30 @@
 payload loaded; readmeReplaces=8; mmReplaces=4; sectionReplaces=2
-FATAL: master-matrix.csv holds 605 rows (expected 592)
+CSV structure: totalLines=605 hasHeader=false idRows=592 fragmentLines=13 firstIds=[MM-0001, MM-0002, MM-0003] lastIds=[MM-0524, MM-0525, MM-0526]
+fragment line samples: l in Hanoi","Daily, Weekly or Monthly Motorbike Rental in Hanoi: How t | ferent step of the rental process; no two cover the same step",,publis | and Convenience",Each answers a different step of the rental process;  | noi old quarter",commercial,1-rental,1.2 choosing-bike,guide,foreign r | kes",Lightest Motorbikes for New Foreign Riders,lightest motorbikes fo
+fragment parent IDs: MM-0010, MM-0014, MM-0019, MM-0025, MM-0031, MM-0036, MM-0041, MM-0050, MM-0055, MM-0060, MM-0065, MM-0070, MM-0079
+rowsFile: totalLines=50 idRows=50
+CSV merge OK: added 50, skipped 0 duplicates; ID rows 592 -> 642
+README patch OK: - 592 published articles: 66 law/licence articles
+README patch OK: 2 spec explainers - see docs/matrix/batch-14-status.md). All
+README patch OK: motorcycles hub lists all 25 motorcycle guides.
+README patch OK: docs/matrix/master-matrix.csv holds 592 committed rows after
+README patch OK: and 25 cluster-4 motorcycle rows (25 published; cluster 4 in
+README patch OK: cluster-4 motorcycle reviews (batch 14 published 25 of 106 o
+README patch OK: docs/matrix/batch-14-status.md is the authoritative record f
+README patch OK: - _queue/: empty (no drafts pending).
+README section OK: # DEPLOYMENT STATE (heading line 169, ends line 174)
+README section OK: # NEXT RECOMMENDED STEP (heading line 175, ends line 176)
+README changelog prepended: 1 entries
+README expectContains OK: "642 published articles"
+README expectContains OK: "75 of 106"
+README expectContains OK: "docs/matrix/batch-15-status.md"
+README expectContains OK: "35901347073"
+README expectContains OK: "Batch 16 - cluster 4 Part 3"
+README finalized.
+MASTER-MATRIX patch OK: see docs/matrix/batch-14-status.md).
+MASTER-MATRIX patch OK: The CSV currently holds 567 committed rows (after the batch-
+MASTER-MATRIX patch OK: and 25 cluster-4 motorcycle rows (25 published; cluster 4 in
+MASTER-MATRIX patch OK: Batch 14 published 25 of 106 on 2026-09-23 - IN PROGRESS, se
+MASTER-MATRIX.md finalized.
+batch-15-status.md verification record written.
+SUCCESS: batch-15 finalize complete.

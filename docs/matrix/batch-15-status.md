@@ -87,4 +87,7 @@ Subcluster counts: 4.2 model-comparisons 17, 4.3 choosing-guides 8, 4.4 specs-ex
 
 ## Verification record
 
-- See README DEPLOYMENT STATE (finalized after gate/Pages/live verification).
+- Verified 2026-09-23 (Asia/Ho_Chi_Minh): remote MAIN holds 642 article files in _articles/ (592 pre-batch + 50 batch-15 files, counted on the remote listing). Live spot-checks: /articles/ renders the 642-guide total, /topics/motorcycles/ renders the 75-guide count, and batch-15 article pages checked live (underbone-kerb-weights-explained, honda-wave-alpha-vs-honda-wave-rsx, best-underbones-hanoi-commuting-verified) resolve with correct titles and content.
+- Quality Gate: the gates on the batch-15 part-commits (6135732 through 791603a) failed at the Guide Assistant test step, and commit 0a3efe6 (the intended assistant ranking fix) additionally corrupted assets/js/assistant-core.js with 8 mid-line newline breaks, so its gate crashed with a SyntaxError. Repaired in commit b495db8 (whole-word short-token matching preserved, corruption removed, 'pick up' delivery synonym restored). Verified: Quality Gate run 35901347073 on b495db8 - success, all steps including the Guide Assistant test against the full built index.
+- Pages: build and deploy check-runs on b495db8 completed with success (pages workflow run 35901345994); the batch-15 article set itself was already deployed and verified live under the earlier 791603a deployment.
+- Docs sync: the 50 batch-15 rows are merged into docs/matrix/master-matrix.csv by this batch-15 docs-sync run.
