@@ -7,6 +7,7 @@ Status: ACTIVE CONTENT MATRIX
 - 81 rental articles are published (cluster 1, Batch 2, 2026-09-22 — see docs/matrix/batch-2-status.md). Cluster 1 is COMPLETE: 81 of 81 intents published, 0 proposed. All business facts come exclusively from docs/OWNER-FACTS.md.
 - 45 monthly & long-term rental articles are published (cluster 2, Batch 3, 2026-09-22 — see docs/matrix/batch-3-status.md). Cluster 2 is COMPLETE: 45 of 45 intents published, 0 proposed. Monthly prices are published only for the models named in docs/OWNER-FACTS.md; all other models point to contact for current monthly pricing.
 - Cluster 10 (riding skills & safety) is COMPLETE: 55 of 55 intents published (30 in Batch 4 + 25 in Batch 5, 2026-09-22 — see docs/matrix/batch-4-status.md and docs/matrix/batch-5-status.md). Cluster 8 (maintenance & repair) is COMPLETE: 120 of 120 intents published (20 in Batch 4 + 25 in Batch 5 + 25 in Batch 6 + 50 in Batch 7, 2026-09-23 — see docs/matrix/batch-7-status.md). Cluster 9 (parts, accessories & riding gear) is COMPLETE: 90 of 90 intents published (25 in Batch 6, 50 in Batch 8, 15 in Batch 9 — see docs/matrix/batch-9-status.md). Safety articles separate practical riding advice from legal requirements and link to the VERIFIED cluster-11 legal articles; maintenance articles contain no invented torque values, capacities, pressures, electrical values or service intervals.
+- Cluster 5 (manual & clutch motorcycles) Part 1 is published: 28 of 55 intents (Batch 17, 2026-09-24, MM-0610-MM-0637 — see docs/matrix/batch-17-status.md). The 28 rows are preserved verbatim in docs/matrix/batch-17-rows.csv pending the master-matrix.csv sync merge.
 - The remaining rows are production candidates according to batch order. They are NOT approved for immediate wholesale publication: each batch is written, QA'd and committed through the publishing workflow (README → PUBLISHING WORKFLOW).
 - docs/matrix/batch-1-status.md is the authoritative rec
 
@@ -88,7 +89,7 @@ ows: government sources, last_reviewed mandatory) · R2 travel/route · R3 manuf
 5. Cluster 8 part 3 (25) + cluster 9 part 1 (25) — COMPLETE (Batch 6, 2026-09-23)
 6. Cluster 8 part 4 (50 remaining) — COMPLETE (Batch 7, 2026-09-23); cluster 9 part 2 (50 of 65) — COMPLETE (Batch 8, 2026-09-23); cluster 9 part 3 (15 remaining) — COMPLETE (Batch 9, 2026-09-23); cluster 3 scooters — COMPLETE (Batches 10-13, 2026-09-23: 110 of 110 intents published); cluster 4 motorcycle reviews (spec population done for Honda/Yamaha; Batch 14 published 25 of 106, Batch 15 published 50 more on 2026-09-23 and Batch 16 published the final 31 on 2026-09-24 - 106 of 106 planned intents COMPLETE (plus 2 supplementary overlap articles, 108 published), see docs/matrix/batch-14-status.md, docs/matrix/batch-15-status.md and docs/matrix/batch-16-status.md) 
 7. Clusters 3–4 (spec population from manufacturer pages into MODEL-DATABASE first)
-8. Clusters 5–6
+8. Clusters 5–6 (cluster 5 Part 1 published 2026-09-24: 28 of 55 intents, see docs/matrix/batch-17-status.md)
 7. Cluster 7 electric (MODEL-DATABASE electric fields)
 8. Clusters 12–13 (R2 route verification)
 9. Cluster 14 + internal-link audit

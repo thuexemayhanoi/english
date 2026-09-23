@@ -1,29 +1,16 @@
-payload loaded; readmeReplaces=7; mmReplaces=4; sectionReplaces=2
-CSV structure: totalLines=655 idRows=642 firstId=MM-0001 lastId=MM-0576
-rowsFile docs/matrix/batch-16-rows.csv: idRows=31
-rowsFile docs/matrix/batch-16b-rows.csv: idRows=2
-CSV merge OK: added 33, skipped 0 duplicates; ID rows 642 -> 675
-README patch OK: - 642 published articles: 66 law/licence articles
-README patch OK: 25 spec explainers - see docs/matrix/batch-15-status.md). Al
-README patch OK: motorcycles hub lists all 75 motorcycle guides.
-README patch OK: docs/matrix/master-matrix.csv holds 642 committed rows after
-README patch OK: and 75 cluster-4 motorcycle rows (75 published; cluster 4 in
-README patch OK: docs/matrix/batch-15-status.md is the authoritative record f
+payload loaded; readmeReplaces=6; mmReplaces=2; sectionReplaces=1
+CSV structure: totalLines=688 idRows=675 firstId=MM-0001 lastId=MM-0609
+rowsFile docs/matrix/batch-17-rows.csv: idRows=28
+CSV merge OK: added 28, skipped 0 duplicates; ID rows 675 -> 703
+README patch OK: - 675 published articles: 66 law/licence articles
+README patch OK: 14 topic hubs live; 6 currently show the empty state
+README patch OK: and 2 rows from docs/matrix/batch-16b-rows.csv; 675 publishe
+README patch OK: 1. 6 topic clusters have zero published articles
 README patch OK: - _queue/: empty (no drafts pending).
-README section OK: # DEPLOYMENT STATE (heading line 170, ends line 175)
-README section OK: # NEXT RECOMMENDED STEP (heading line 176, ends line 177)
-README changelog prepended: 1 entries
-README expectContains OK: "675 published articles"
-README expectContains OK: "cluster 4 COMPLETE"
-README expectContains OK: "docs/matrix/batch-16-status.md"
-README expectContains OK: "docs/matrix/batch-16-overlap-reconciliation.md"
-README expectContains OK: "honda-wave-alpha-vs-honda-cbr150r"
-README expectContains OK: "769a218"
-README finalized.
-MASTER-MATRIX patch OK: see docs/matrix/batch-15-status.md).
-MASTER-MATRIX patch OK: The CSV currently holds 642 committed rows (after the batch-
-MASTER-MATRIX patch OK: and 75 cluster-4 motorcycle rows (75 published; cluster 4 in
-MASTER-MATRIX patch OK: Batch 14 published 25 of 106 and Batch 15 published 50 more 
-MASTER-MATRIX.md finalized.
-batch-16-status.md verification record written (following sections preserved).
-SUCCESS: batch-16 finalize complete.
+README patch OK: # CHANGE LOG
+
+- 2026-09-24 (38):
+README section replace OK: # NEXT RECOMMENDED STEP
+MM patch OK: - The remaining rows are production candidates according to 
+MM patch OK: 8. Clusters 5–6
+7. Cluster 7 electric
