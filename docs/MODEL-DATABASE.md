@@ -137,12 +137,49 @@ Values below were read from the Yamaha Motor Vietnam PG-1 2026 standard-version 
 PG-1 page notes (retrieved 2026-09-24): dimensions 1,980 x 805 x 1,050 mm, wheelbase 1,280 mm, ground clearance 190 mm, front fork travel 130 mm, rear swingarm linkage suspension, engine oil capacity 0.8 L, battery 12V 3Ah, analogue speedometer with gear-position display, published warranty 3 years or 30,000 km. Retail price not displayed on the retrieved page — check Yamaha VN or a dealer for the current figure. Sirius line data from the same page family: Sirius FI from 21,306,000 VND with EF
 I and 1.65 L/100km; Sirius 2025 versions from 19,048,000 VND (drum, disc and alloy versions).
 
+## Verified electric rows (retrieved 2026-09-24, Batch 20 groundwork for the cluster-7 electric batch)
 
-## 50cc research note (retrieved 2026-09-24, Batch 19 groundwork)
+Rules applied: manufacturer official sources only; missing fields left EMPTY; claimed range/charging figures recorded with the manufacturer's own condition wording; no Honda VN or Yamaha VN electric two-wheeler models exist in their current line-ups, so no Honda/Yamaha electric rows were created.
 
-No 50cc model rows exist in this database because no official manufacturer pages for current 50cc models could be verified for the Vietnamese market:
+### VinFast (source: official VinFast corporate news release, vinfastauto.us investor-relations news, 15 January 2026 — the Vietnamese site vinfastauto.com.vn blocked automated access on 2026-09-24)
 
-- Honda Vietnam (honda.com.vn/xe-may, retrieved 2026-09-24): the current official line-up contains NO 50cc model. The 50cc bikes seen in Vietnam are grey imports (Japanese-market Honda Today, Dunk, Scoopy and similar) arriving through private import channels, not official distribution (sources: XEtv forum thread on Honda Today 50 imports; CarTimes/Tap chi Cong Thuong coverage of Today 50 imports via private dealers such as Cub House).
-- Yamaha Vietnam: no current official 50cc model found in the line-up.
+| model | manufacturer | vehicle_type | motor | max_power | top_speed | battery | capacity | range (manufacturer condition) | licence_class_vn | source_url | retrieved_at | in_fleet | pricing |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| VinFast Evo | VinFast | electric scooter | in-hub BLDC | 2,450 W | up to 70 km/h | 2 x removable LFP | 1.5 kWh each | up to 165 km with two batteries (standard conditions) | none (moped class, 16+) | vinfastauto.us news release 2026-01-15 | 2026-09-24 | no | contact only |
+| VinFast Evo Lite | VinFast | electric scooter (speed-limited version of Evo) | in-hub BLDC | | below 50 km/h (limited) | 2 x removable LFP | 1.5 kWh each | (inherits Evo platform) | none (deliberately below 50 km/h) | vinfastauto.us news release 2026-01-15 | 2026-09-24 | no | contact only |
+| VinFast Feliz II | VinFast | electric scooter | in-hub BLDC | 3,000 W | up to 70 km/h | 2 x removable LFP | 1.5 kWh each | up to 156 km with two batteries (standard conditions) | none (moped class, 16+) | vinfastauto.us news release 2026-01-15 | 2026-09-24 | no | contact only |
+| VinFast Viper | VinFast | electric scooter | in-hub BLDC | 3,000 W | up to 70 km/h | 2 x removable LFP | 1.5 kWh each | up to 156 km with two batteries (standard conditions) | none (moped class, 16+) | vinfastauto.us news release 2026-01-15 | 2026-09-24 | no | contact only |
+| VinFast Amio | VinFast | pedal-assisted electric scooter | in-hub | 800 W | 30 km/h | LFP | 1.024 kWh | up to 65 km per charge (standard conditions) | none | vinfastauto.us news release 2026-01-15 | 2026-09-24 | no | contact only |
 
-Per rule 1, no 50cc specifications have been recorded and none may be written in articles. Batch-19 cluster-6 articles therefore contain no model-specific 50cc specs; the grey-import article (grey-import-50cc-vietnam) cites the market sources above without reproducing specifications or prices.
+VinFast battery economics (verified from the same release): battery rental 175,000 VND/month (one battery), 300,000 VND/month (two); swap fee 9,000 VND per battery per swap; Evo early-order price 19,990,000 VND excluding battery (January 2026). V-Green battery-swap network: first 4,500 stations installed by 2026-01-15; 45,000 cabinets planned across 34 provinces and cities by Q1 2026. Viper features: Smart Key with vehicle tracking, remote vehicle-finding, remote on/off anti-theft, LED projector headlights, dual rear shocks with auxiliary oil reservoirs.
+
+### Dat Bike (source: official dat.bike product pages, retrieved 2026-09-24)
+
+| model | manufacturer | vehicle_type | motor | max_power | top_speed | battery | range (manufacturer condition) | charging | licence_class_vn | source_url | retrieved_at | in_fleet | pricing |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Dat Bike Weaver 200 | Dat Bike | electric motorcycle (underbone style) | hub motor | 6,000 W | 90 km/h | lithium-ion 72 V 68 Ah | 200 km at 35 km/h; 130 km at 70 km/h | 1 h for first 100 km; 3 h for 200 km | A1 (above 4 kW) | dat.bike/en/xe-may-dien-weaver-200-en/ | 2026-09-24 | no | contact only |
+| Dat Bike Weaver++ | Dat Bike | electric motorcycle (mid-motor) | mid-motor | (33% higher acceleration than Weaver 200) | 90 km/h | | 200 km per charge | 100 km in 20 minutes at Dat Charge stations | A1 | dat.bike/en/xe-may-dien-weaver-plus-plus-en/ | 2026-09-24 | no | contact only |
+| Dat Bike Weaver | Dat Bike | electric motorcycle (underbone style) | hub motor | 5,000 W | 80 km/h | | 100 km | 3 h (1000 km charge comparison) | A1 | dat.bike/en/xe-may-dien-weaver-en/ | 2026-09-24 | no | contact only |
+
+Dat Bike Weaver 200 verified details: 120 kg weight, 165 kg max load, 17-inch wheels (2.75 front / 3.0 rear), IP65, hydraulic disc brakes front and rear, throttle-controlled regen braking, battery life claim 150,000 km (15 years), battery warranty 3 years, 48-hour nationwide on-site warranty, 2-day 100% refund return policy. Weaver++ verified details: IP67, monoshock suspension, tubeless tyres on alloy wheels, adjustable chainring, fast-charging port, app connectivity. Dat Bike line-up also includes Quantum, Quantum S1/S2/S3 and Era (pages not retrieved in detail — EMPTY fields until read).
+
+### Yadea VN (source: official yadea.com.vn, retrieved 2026-09-24 — line-up and listed prices only; technical spec tables not readable from the automated page view, all spec fields EMPTY)
+
+| model | manufacturer | listed_price_vnd (official site) | retrieved_at | in_fleet | pricing |
+|---|---|---|---|---|---|
+| Yadea XBULL H | Yadea VN | 13,990,000 | 2026-09-24 | no | contact only |
+| Yadea iCandy | Yadea VN | 14,790,000 | 2026-09-24 | no | contact only |
+| Yadea iCute H | Yadea VN | 15,490,000 | 2026-09-24 | no | contact only |
+| Yadea Omee | Yadea VN | from 15,990,000 | 2026-09-24 | no | contact only |
+| Yadea Vekoo | Yadea VN | 15,990,000 | 2026-09-24 | no | contact only |
+| Yadea X-Zone | Yadea VN | 15,990,000 | 2026-09-24 | no | contact only |
+| Yadea Ova | Yadea VN | 18,190,000 | 2026-09-24 | no | contact only |
+| Yadea Osta | Yadea VN | from 28,990,000 | 2026-09-24 | no | contact only |
+| Yadea Voltguard P-L | Yadea VN | 29,490,000 | 2026-09-24 | no | contact only |
+| Yadea Velax P | Yadea VN | 33,990,000 | 2026-09-24 | no | contact only |
+| Yadea Voltguard U50 | Yadea VN | 38,990,000 | 2026-09-24 | no | contact only |
+| Yadea Voltguard U80 | Yadea VN | 38,990,000 | 2026-09-24 | no | contact only |
+| Yadea Vora | Yadea VN | 42,990,000 | 2026-09-24 | no | contact only |
+| Yadea Velax U | Yadea VN | 52,990,000 | 2026-09-24 | no | contact only |
+
+Note (2026-09-24): Yadea listed prices are manufacturer list prices from the official Vietnamese site — do not present them as street or rental prices. Motor power, battery capacity and range for each Yadea model remain EMPTY until read from official Yadea spec tables; do not fill from retailer or press pages.

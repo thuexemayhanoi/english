@@ -1,0 +1,28 @@
+# Batch 20 status — cluster 7 electric motorbikes and e-bikes, Part 1 (MM-0705-MM-0754)
+
+Authoritative publish/review record for Batch 20. Date: 2026-09-24 (Asia/Ho_Chi_Minh).
+
+## Batch summary
+
+- 50 cluster-7 articles published 2026-09-24 in part-commits: 7577a01 (10 articles MM-0705-MM-0714: 6 understanding guides, 4 legal guides), f46d74c (10 articles MM-0715-MM-0724: 1 legal myths guide, 8 riding/charging guides, 1 buying guide), 0bd9c45 (10 articles MM-0725-MM-0734: 7 buying/owning guides, 3 battery/maintenance guides), f85f4be (9 articles MM-0735-MM-0744: 3 maintenance/tech guides, 6 model reviews and lineup guides), bc2dd6a (11 articles MM-0745-MM-0754 closing part: VinFast Amio review, 6 comparison/ecosystem guides, 4 safety guides).
+- Composition: 6 understanding-electric guides (7.1), 5 legal guides (7.2, review_status VERIFIED), 8 riding/charging guides (7.3), 8 buying/owning guides (7.4), 6 battery/maintenance/tech guides (7.5), 8 model reviews and lineup guides (7.6), 6 comparison/ecosystem guides (7.7), 4 gear/safety guides (7.8).
+- Pre-batch research recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-24): VinFast electric model data (Evo, Evo Lite, Feliz II, Viper, Amio) from the official VinFast corporate news release on vinfastauto.us (the Vietnamese site vinfastauto.com.vn blocked automated access); Dat Bike Weaver, Weaver 200 and Weaver++ specifications from the official dat.bike product pages; Yadea VN line-up with official listed prices from yadea.com.vn (technical spec tables not readable from the automated page view, so all Yadea spec fields are EMPTY and no Yadea specs were written). Honda VN and Yamaha VN list no electric two-wheelers in their current line-ups, so no Honda/Yamaha electric rows were created and no such facts were written. No VinFast/Dat Bike/Yadea technical field was filled from press, retailer or classified pages.
+- All legal articles (riding-electric-moped-16-vietnam, why-electric-mopeds-capped-50kmh-vietnam, e-bike-helmet-rules-vietnam, can-foreigners-rent-electric-bike-vietnam, electric-bike-law-myths-vietnam) are review_status VERIFIED citing the class A primary legal source already verified for the cluster-11 canonicals (Law 36/2024/QH15 full text on xaydungchinhsach.chinhphu.vn). No new legal claims beyond the repo's verified facts were introduced.
+- Business facts exclusively from docs/OWNER-ACTS.md (E-Bike day rate 200,000 VND; contact-only availability; deposit 2-5m VND; no insurance; no invented promotions, delivery, fleet or availability claims). Rental pricing published only for the OWNER-FACTS E-Bike line; all VinFast/Dat Bike/Yadea prices cited are manufacturer list prices from official pages, never presented as rental prices.
+- 820 articles site-wide after this batch; cluster 7: 50 of 89 intents published, IN PROGRESS (39 remain for a future batch).
+
+## Distinctness / cannibalization pre-check
+
+- All 50 slugs verified unique against the 770 pre-existing article files (remote listing checked before writing).
+- Existing electric-adjacent articles checked before writing: electric-bike-licence-vietnam and fast-electric-motorbike-licence-vietnam keep the canonical licence questions (batch-20 legal articles are electric-specific spin-offs that summarize and link, per the batch-19 pattern); 50cc-vs-e-bike-vietnam and 50cc-vs-electric-moped-4kw keep the 50cc-vs-electric comparisons (batch-20 covers electric-vs-electric and electric-vs-petrol formats); electric-motorbike-maintenance-basics keeps the general maintenance routine (batch-20 battery/maintenance articles cover pack longevity, storage, washing, tyres, replacement and smart features specifically); e-bike-monthly-rental-hanoi keeps the rental-pricing question (can-foreigners-rent-electric-bike-vietnam covers documents/licence-class practice instead); battery-care-motorbike-vietnam and choosing-replacement-battery-motorbike-vietnam cover petrol 12V batteries (electric-motorbike-battery-lifespan-vietnam and electric-motorbike-battery-replacement-vietnam cover traction packs).
+- Model reviews vs comparisons vs choosing guides are separated by intent per the matrix cannibalization rule.
+
+## Verification record
+
+- Remote MAIN verified to hold 820 article files in _articles/ (770 pre-batch + 50 batch-20 files) after the closing part-commit bc2dd6a; all 50 expected batch-20 slugs verified present on remote.
+- Quality Gate history for this batch: the gates on part-commits 7577a01, f46d74c, 0bd9c45 and f85f4be FAILED at the internal-link audit because articles in those commits referenced slugs published in later part-commits (forward references; expected mid-batch state for a multi-part batch). Front-matter and duplicate checks passed on every part-commit. Gate result on the final state commit bc2dd6a is recorded in the DEPLOYMENT STATE section of README.md once verified.
+- Rows preserved verbatim in docs/matrix/batch-20-rows.csv; pending the master-matrix.csv docs-sync merge 770 -> 820.
+
+## Cluster 7 progress
+
+Cluster 7 (electric motorbikes and e-bikes) is IN PROGRESS: 50 of 89 intents published in Batch 20. Remaining 39 intents (advanced charging/battery topics, further model comparisons from verified data, e-bike market context) are production candidates for the next batch per the MASTER-MATRIX production plan.
