@@ -16,7 +16,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — official Honda Vietnam model pages (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — official Yamaha Vietnam product pages (retrieved 2026-09-23)"
-internal_link_targets: "choosing-replacement-tyres-vietnam, inner-tubes-vs-tubeless-motorbike, tyre-care-motorbike-vietnam, 16-inch-wheel-scooters-vietnam, punctured-tyre-on-rental-motorbike, tyre-age-replace-by-date"
+internal_link_targets: "choosing-replacement-tyres-motorbike-vietnam, inner-tubes-vs-tubeless-motorbike, tyre-care-motorbike-vietnam, 16-inch-wheel-scooters-vietnam, punctured-tyre-on-rental-motorbike, tyre-age-replace-by-date"
 ---
 
 Every scooter's sidewall carries a code like 80/90-16 that quietly shapes how it rides. Using tyre sizes the manufacturers publish for Vietnamese-market scooters (retrieved 23 September 2026), here is how to read them.
@@ -42,7 +42,8 @@ Take the Honda Vision's front tyre: **80/90-16**.
 
 ## What size changes
 
-- **Diameter (the last number):** bigger wheels = more stability and defect-spanning ability, less agility at walking pace - the Vision's 16-inch front vs the Grande's 12-inch set shows the two philosophies (see our 16-inch wheel guide).
+- **Diameter (the last number):** bigger wheels = more stability and defect-spanning ability, less agility at walking pace - the Vision's 16-inch fro
+nt vs the Grande's 12-inch set shows the two philosophies (see our 16-inch wheel guide).
 - **Width:** wider tyres grip more on clean pavement but tramline over grooves and add a little drag; the Grande's 110-section front is the widest of this group.
 - **Aspect ratio:** taller sidewalls (90) cushion bad surfaces; low profiles (70) sharpen steering response.
 

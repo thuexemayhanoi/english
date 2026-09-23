@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — official Honda Vietnam model pages (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — official Yamaha Vietnam product pages (retrieved 2026-09-23)"
-internal_link_targets: "honda-vision-110-review, scooter-tyre-sizes-explained, potholes-bad-roads-motorbike-vietnam, choosing-replacement-tyres-vietnam, inner-tubes-vs-tubeless-motorbike, tyre-care-motorbike-vietnam"
+internal_link_targets: "honda-vision-110-review, scooter-tyre-sizes-explained, potholes-bad-roads-motorbike-vietnam, choosing-replacement-tyres-motorbike-vietnam, inner-tubes-vs-tubeless-motorbike, tyre-care-motorbike-vietnam"
 ---
 
 Most Vietnamese scooters ride on 12- or 14-inch wheels, but Honda's best-seller deliberately breaks the pattern: the Vision carries a 16-inch front wheel - Honda Vietnam's own model page calls out the "high, upright riding position and wide field of view" it creates. Here is what the manufacturers publish (retrieved 23 September 2026) and what wheel size actually does.
@@ -36,7 +36,8 @@ Most Vietnamese scooters ride on 12- or 14-inch wheels, but Honda's best-seller 
 ## What bigger wheels do
 
 - **Stability over defects:** a 16-inch wheel spans potholes and broken pavement that upset a 12-inch wheel - the difference our potholes guide makes obvious. The contact patch also drops into a rut at a shallower angle.
-- **Steadiness at speed:** bigger wheels add gyroscopic stability; smaller wheels turn in faster at walking pace. Which matters more depends on whether your riding is Old Quarter crawling or main-road commuting.
+- **Steadiness at speed:** bigger wheels add gyro
+scopic stability; smaller wheels turn in faster at walking pace. Which matters more depends on whether your riding is Old Quarter crawling or main-road commuting.
 - **Comfort:** bigger wheels ride over expansion joints and gravel with less sharpness reaching the bars.
 
 ## The trade-offs
