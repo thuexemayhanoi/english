@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn and yamaha-motor.com.vn - official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: cheapest-new-underbones-vietnam-verified, premium-underbones-vietnam-verified, best-honda-underbones-vietnam-verified, list-price-vs-on-road-cost, honda-super-cub-c125-review, honda-wave-alpha-110-review
+internal_link_targets: cheapest-new-underbones-vietnam-verified, premium-underbones-vietnam-verified, best-honda-underbones-vietnam-verified, list-price-vs-on-road-cost-vietnam, honda-super-cub-c125-review, honda-wave-alpha-110-review
 ---
 
 Vietnamese underbone prices span a surprising 4.7-to-1 range. Every figure below is a manufacturer list price published on official Honda Vietnam and Yamaha Vietnam pages (retrieved 23 September 2026) - list prices change over time and on-the-road costs differ from them.
@@ -33,6 +33,7 @@ Vietnamese underbone prices span a surprising 4.7-to-1 range. Every figure below
 | 5 | Honda Future 125 FI | from 30,622,909 VND (3 versions) | 125 cc, best economy claim, 4.6 L tank |
 | 6 | Honda Winner R | 46,360,000 VND | liquid-cooled manual clutch sport underbone |
 | 7 | Yamaha Exciter 155 VVA | 55,200,000 VND (limited ABS) | 13.2 kW, six-speed, discs |
+
 | 8 | Honda CBR150R | 72,290,000 VND | full fairing, 12 L tank, DOHC |
 | 9 | Honda CT125 | 85,997,455 VND | 165 mm clearance, trail styling |
 | 10 | Honda Super Cub C125 | 88,353,813 VND | the heritage icon |

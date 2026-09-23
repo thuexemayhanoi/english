@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn and yamaha-motor.com.vn - official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: yamaha-exciter-155-vva-review, assist-slipper-clutch-explained, sohc-vs-dohc-explained, honda-winner-r-vs-yamaha-exciter-155, air-cooled-vs-liquid-cooled-motorbike, fastest-motorbikes-under-155cc-vietnam-verified
+internal_link_targets: yamaha-exciter-155-vva-review, assist-slipper-clutch-explained, underbone-power-torque-explained, honda-winner-r-vs-yamaha-exciter-155, air-cooled-vs-liquid-cooled-motorbike, fastest-motorbikes-under-155cc-vietnam-verified
 ---
 
 Walk past an Exciter in Hanoi and the badge says VVA. It stands for Variable Valve Actuation - Yamaha's system that changes how the engine breathes depending on revs. Here is what it does, based on what Yamaha Vietnam actually publishes (retrieved 23 September 2026).
@@ -30,7 +30,8 @@ An engine's valves open and close to let fuel-air in and exhaust out. When to op
 
 Yamaha Vietnam lists the Exciter 155 VVA engine as: 155 cc, four-stroke, single cylinder, four-valve, SOHC, liquid-cooled, VVA and EFI - producing 13.2 kW (17.9 PS) at 9,500 rpm and 14.4 Nm at 8,000 rpm, with a claimed 2.07 L/100 km.
 
-Read those numbers together: a high-strung 9,500 rpm power peak usually means a weak bottom end, and a claimed 2.07 L/100 km is remarkably frugal for 13.2 kW. That combination is the practical evidence of VVA - the engine can be tuned for top-end power without sacrificing low-rev flexibility and economy the way a fixed-valve engine would.
+Read those numbers together: a high-strung
+ 9,500 rpm power peak usually means a weak bottom end, and a claimed 2.07 L/100 km is remarkably frugal for 13.2 kW. That combination is the practical evidence of VVA - the engine can be tuned for top-end power without sacrificing low-rev flexibility and economy the way a fixed-valve engine would.
 
 ## Why it matters to a Vietnamese rider
 

@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn and yamaha-motor.com.vn - official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: sohc-vs-dohc-explained, honda-pgm-fi-explained, yamaha-vva-variable-valve-timing-explained, esp-vs-blue-core-engines-explained, air-cooled-vs-liquid-cooled-motorbike, honda-winner-r-review
+internal_link_targets: underbone-power-torque-explained, honda-pgm-fi-explained, yamaha-vva-variable-valve-timing-explained, esp-vs-blue-core-engines-explained, air-cooled-vs-liquid-cooled-motorbike, honda-winner-r-review
 ---
 
 Spec sheets speak in abbreviations. Most are simple once decoded - and each one marks a real engineering choice. Here are the codes that appear on Honda Vietnam and Yamaha Vietnam pages (retrieved 23 September 2026), with what they mean for the rider.
@@ -32,7 +32,8 @@ SOHC (single overhead camshaft) drives the valves with one cam; DOHC (double ove
 
 ## Fuel delivery: PGM-FI and EFI
 
-Both mean electronic fuel injection - PGM-FI is Honda's brand name (Wave RSX), EFI is Yamaha's generic term (Exciter 155). Injection meters fuel electronically for cleaner, more efficient running; our PGM-FI guide has the details. Important honesty rule: Honda publishes no fuel system for the Wave Alpha, and Yamaha none for the Sirius - so no claim is made for either.
+Both mean electronic fuel injection - PGM-FI
+ is Honda's brand name (Wave RSX), EFI is Yamaha's generic term (Exciter 155). Injection meters fuel electronically for cleaner, more efficient running; our PGM-FI guide has the details. Important honesty rule: Honda publishes no fuel system for the Wave Alpha, and Yamaha none for the Sirius - so no claim is made for either.
 
 ## Valve timing: VVA
 

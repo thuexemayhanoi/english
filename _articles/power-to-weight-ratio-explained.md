@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn and yamaha-motor.com.vn - official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: underbone-kerb-weights-explained, fastest-motorbikes-under-155cc-vietnam-verified, honda-cbr150r-review, honda-wave-alpha-110-review, underbone-power-and-torque-explained, wet-weight-vs-dry-weight-explained
+internal_link_targets: underbone-kerb-weights-explained, fastest-motorbikes-under-155cc-vietnam-verified, honda-cbr150r-review, honda-wave-alpha-110-review, underbone-power-torque-explained, wet-vs-dry-weight-explained
 ---
 
 Two numbers decide how a bike accelerates: the power of the engine and the mass it has to move. Manufacturers publish both (retrieved 23 September 2026), and dividing one by the other cuts through all marketing. This is the honest way to compare Vietnamese underbones.
@@ -37,7 +37,8 @@ Two numbers decide how a bike accelerates: the power of the engine and the mass 
 | Honda CT125 | 6.76 kW | 117 kg | ~5.8 |
 | Yamaha Sirius RC 110 | 5.9 kW | 100 kg wet | ~5.9 |
 
-(Power per 100 kg, rounded; wet and kerb weights are as the manufacturers publish them - see our wet vs dry weight explainer for the difference.)
+(Power per 100 kg, rounded; wet and kerb weights are as the manufacturers publish them - see our wet vs dry weight explainer for the d
+ifference.)
 
 ## What the ratios reveal
 
