@@ -19,7 +19,7 @@ last_reviewed: 2026-09-23
 sources:
   - "yamaha-motor.com.vn — Yamaha VN Sirius RC model page, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-wave-alpha-110-review, honda-blade-110-review, automatic-vs-manual-motorbike-hanoi, how-to-rent-a-motorbike-hanoi, best-motorbike-for-students-hanoi
+internal_link_targets: honda-wave-alpha-110-review, honda-blade-110-review, automatic-vs-manual-motorbike-hanoi, how-to-rent-a-motorbike-hanoi, best-motorbike-for-students-hanoi, yamaha-sirius-fi-vs-sirius-rc, yamaha-pg-1-vs-yamaha-sirius-rc
 ---
 
 The Sirius has been Yamaha's Vietnamese workhorse for more than two decades - the page Yamaha publishes today notes the model has been on sale in Vietnam for over 20 years. It is the natural rival to Honda's Wave and Blade, and one of the two semi-automatic classes we publish rental pricing for. All figures below come from the official Yamaha Motor Vietnam Sirius RC product page (retrieved 23 September 2026).
@@ -30,7 +30,8 @@ The Sirius runs a 110.3 cc single-cylinder four-stroke SOHC engine, air-cooled, 
 
 ## Economy and weight
 
-Yamaha publishes 2.08 litres per 100 km from a 4.2-litre tank, and the bike weighs 100 kg wet. Dimensions are 1,890 x 665 x 1,035 mm - compact and narrow, which is the Sirius's real strength in lane-splitting traffic. Wheels are 17-inch, 70/90-17 front and 80/90-17 rear, both with inner tubes.
+Yamaha publishes 2.08 litres per 100 km from a 4.2-litre tank, and the bike weighs 100 kg wet. Dimensions are 1,8
+90 x 665 x 1,035 mm - compact and narrow, which is the Sirius's real strength in lane-splitting traffic. Wheels are 17-inch, 70/90-17 front and 80/90-17 rear, both with inner tubes.
 
 ## Three versions, one platform
 
