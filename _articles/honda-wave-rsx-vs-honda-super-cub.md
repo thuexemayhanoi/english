@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-wave-rsx-review, honda-super-cub-c125-review, honda-super-cub-c125-vs-honda-future-125, honda-ct125-vs-honda-super-cub, best-110cc-underbones-vietnam-verified, best-125cc-underbones-vietnam-verified
+internal_link_targets: honda-wave-rsx-review, honda-super-cub-c125-review, honda-super-cub-c125-vs-honda-future-125, honda-ct125-vs-honda-super-cub-c125, best-110cc-underbones-vietnam-verified, best-125cc-underbones-vietnam-verified
 ---
 
 Both of these are Hondas with the same underbone silhouette, and both shift through four gears without a clutch lever. But the Wave RSX costs 25,664,727 VND and the Super Cub C125 costs 88,353,813 VND (Honda VN list prices, retrieved 23 September 2026). What does three and a half times the money actually buy?

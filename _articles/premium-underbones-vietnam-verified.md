@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-super-cub-c125-review, honda-ct125-review, honda-ct125-vs-honda-super-cub, honda-super-cub-vs-honda-winner-r, premium-scooters-vietnam, best-125cc-underbones-vietnam-verified
+internal_link_targets: honda-super-cub-c125-review, honda-ct125-review, honda-ct125-vs-honda-super-cub-c125, honda-super-cub-vs-honda-winner-r, premium-scooters-vietnam, best-125cc-underbones-vietnam-verified
 ---
 
 Most underbones in Vietnam cost under 30 million VND. Then there are the two Hondas that do not: the Super Cub C125 (88,353,813 VND) and the CT125 (85,997,455 VND) - both list prices from Honda VN pages retrieved 23 September 2026. Both are more expensive than the sportier CBR150R. So who are they for?
@@ -28,7 +28,8 @@ Most underbones in Vietnam cost under 30 million VND. Then there are the two Hon
 
 ## The CT125: the capability purchase
 
-123.9 cc, 10.9 Nm at just 4,750 rpm, 165 mm ground clearance - the highest of Honda's listed underbones - 800 mm seat, 5.4-litre tank, rear rack, 80/90-17 tyres both ends. It makes sense for riders whose routes regularly include gravel, broken rural tarmac or track days of a different kind. Our CT125 review and its comparison with the Super Cub cover the details.
+123.9 cc, 10.9 Nm at just 4,750 rpm, 165 mm ground clearance - the highest of Honda's listed underbones - 800 mm seat, 5.4-litre tank, rear rack, 80/90-17 tyres both ends. It makes sense for riders whos
+e routes regularly include gravel, broken rural tarmac or track days of a different kind. Our CT125 review and its comparison with the Super Cub cover the details.
 
 ## What premium does not buy
 

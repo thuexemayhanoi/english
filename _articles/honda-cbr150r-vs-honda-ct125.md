@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-cbr150r-review, honda-ct125-review, honda-cbr150r-vs-honda-winner-r, honda-ct125-vs-honda-winner-r, honda-ct125-vs-honda-super-cub, best-150cc-manual-motorbikes-vietnam-verified
+internal_link_targets: honda-cbr150r-review, honda-ct125-review, honda-cbr150r-vs-honda-winner-r, honda-ct125-vs-honda-winner-r, honda-ct125-vs-honda-super-cub-c125, best-150cc-manual-motorbikes-vietnam-verified
 ---
 
 Honda's two most specialised manual-gearbox machines in Vietnam aim at opposite horizons: the CBR150R is built for smooth tarmac and revs; the CT125 is built for trails, tracks and luggage. Both spec sets are Honda VN official (retrieved 23 September 2026).
@@ -34,6 +34,7 @@ CBR150R: 139 kg, full fairing, 151 mm clearance, 12-litre tank, 100/80-17 front 
 
 CBR150R: 2.91 L/100 km. CT125: 1.61 L/100 km. A big gap - the fairing and the revs both cost fuel. Manufacturer test figures in both cases.
 
-## Price
+## P
+rice
 
 CBR150R: 72,290,000 VND. CT125: 85,997,455 VND. Neither is price-published at our counter - contact us to confirm current availability. If your Vietnam riding is 80 percent city with occasional fast trips, the CBR; if it is 50 percent bad surfaces, the CT wins outright.
