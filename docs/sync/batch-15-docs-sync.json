@@ -1,0 +1,82 @@
+{
+  "csvMerge": {
+    "target": "docs/matrix/master-matrix.csv",
+    "rowsFile": "docs/matrix/batch-15-rows.csv",
+    "expectBefore": 592,
+    "expectAfter": 642
+  },
+  "readmeReplaces": [
+    {
+      "find": "- 592 published articles: 66 law/licence articles",
+      "replace": "- 642 published articles: 66 law/licence articles"
+    },
+    {
+      "find": "2 spec explainers - see docs/matrix/batch-14-status.md). All business facts in rental",
+      "replace": "2 spec explainers - see docs/matrix/batch-14-status.md), and 50 cluster-4 motorcycle articles in Batch 15 (MM-0527-MM-0576: 17 model comparisons, 8 verified-data choosing guides, 25 spec explainers - see docs/matrix/batch-15-status.md). All business facts in rental"
+    },
+    {
+      "find": "motorcycles hub lists all 25 motorcycle guides.",
+      "replace": "motorcycles hub lists all 75 motorcycle guides."
+    },
+    {
+      "find": "docs/matrix/master-matrix.csv holds 592 committed rows after the docs-sync merge of the pending batch-14 row file (567 previously committed rows + 25 rows from docs/matrix/batch-14-rows.csv; 592 published articles):",
+      "replace": "docs/matrix/master-matrix.csv holds 642 committed rows after the batch-15 docs-sync merge (592 previously committed rows + 50 rows from docs/matrix/batch-15-rows.csv; 642 published articles):"
+    },
+    {
+      "find": "and 25 cluster-4 motorcycle rows (25 published; cluster 4 in progress, 81 intents remain)",
+      "replace": "and 75 cluster-4 motorcycle rows (75 published; cluster 4 in progress, 31 intents remain)"
+    },
+    {
+      "find": "cluster-4 motorcycle reviews (batch 14 published 25 of 106 on 2026-09-23, IN PROGRESS; Honda/Yamaha manufacturer research recorded in MODEL-DATABASE, Suzuki/SYM pages still blocked) -> then the remaining model/travel clusters",
+      "replace": "cluster-4 motorcycle reviews (batch 14 published 25 of 106 and batch 15 published 50 more on 2026-09-23, 75 of 106 published, IN PROGRESS; Honda/Yamaha manufacturer research recorded in MODEL-DATABASE, Suzuki/SYM pages still blocked) -> then the remaining model/travel clusters"
+    },
+    {
+      "find": "docs/matrix/batch-14-status.md is the authoritative record for the cluster-4 motorcycle Part 1 batch (MM-0502-MM-0526).",
+      "replace": "docs/matrix/batch-14-status.md is the authoritative record for the cluster-4 motorcycle Part 1 batch (MM-0502-MM-0526). docs/matrix/batch-15-status.md is the authoritative record for the cluster-4 motorcycle Part 2 batch (MM-0527-MM-0576)."
+    },
+    {
+      "find": "- _queue/: empty (no drafts pending).",
+      "replace": "- Batch 15 (cluster-4 motorcycle reviews Part 2): 50 articles published 2026-09-23 (MM-0527-MM-0576: 17 model comparisons, 8 verified-data choosing guides, 25 spec explainers; part-commits 6135732/57676f8/df488df/6f956eb/3b35570, closing commit 791603a, link repair 66809b8, assistant-core repair b495db8) - see docs/matrix/batch-15-status.md. 642 articles site-wide; cluster 4: 75 of 106 intents published, IN PROGRESS. All technical facts from the verified Honda VN/Yamaha VN MODEL-DATABASE rows; business facts exclusively from OWNER-FACTS; no Suzuki/SYM/PG-1/MSX facts written.\n- _queue/: empty (no drafts pending)."
+    }
+  ],
+  "mmReplaces": [
+    {
+      "find": "see docs/matrix/batch-14-status.md).",
+      "replace": "see docs/matrix/batch-14-status.md). Batch 15 continued cluster 4 the same day (MM-0527-MM-0576: 17 model comparisons, 8 verified-data choosing guides and 25 spec explainers, built from the same verified Honda VN/Yamaha VN MODEL-DATABASE rows; pre-batch retries: Suzuki GD110 returned HTTP 403 again, SYM no longer lists the Excel in the current lineup, Yamaha PG-1 page not readable, Honda MSX fetch unavailable - no Suzuki/SYM/PG-1/MSX facts written; 75 of 106 cluster-4 intents published, cluster 4 IN PROGRESS; 642 articles site-wide; rows preserved verbatim in docs/matrix/batch-15-rows.csv and merged into master-matrix.csv by the batch-15 docs-sync run; see docs/matrix/batch-15-status.md)."
+    },
+    {
+      "find": "The CSV currently holds 567 committed rows (after the batch-11/batch-12 merge 482 -> 532 and the batch-13 merge 532 -> 567, bot commit 9ac0d0f; batch rows preserved verbatim in docs/matrix/batch-11-rows.csv, batch-12-rows.csv and batch-13-rows.csv; merges run via the repo docs-sync workflow - scripts/apply-batch-docs.js):",
+      "replace": "The CSV currently holds 642 committed rows (after the batch-13 merge 532 -> 567, bot commit 9ac0d0f, the batch-14 merge 567 -> 592, bot commit 93d7d5c, and the batch-15 docs-sync merge 592 -> 642; batch rows preserved verbatim in the docs/matrix/batch-N-rows.csv files; merges run via the repo docs-sync workflow):"
+    },
+    {
+      "find": "and 25 cluster-4 motorcycle rows (25 published; cluster 4 in progress).",
+      "replace": "and 75 cluster-4 motorcycle rows (75 published; cluster 4 in progress, 31 intents remain)."
+    },
+    {
+      "find": "Batch 14 published 25 of 106 on 2026-09-23 - IN PROGRESS, see docs/matrix/batch-14-status.md)",
+      "replace": "Batch 14 published 25 of 106 and Batch 15 published 50 more on 2026-09-23 - 75 of 106, IN PROGRESS, see docs/matrix/batch-14-status.md and docs/matrix/batch-15-status.md)"
+    }
+  ],
+  "sectionReplaces": [
+    {
+      "heading": "# DEPLOYMENT STATE",
+      "content": "- Hosting: GitHub Pages, Jekyll, baseurl /english.\n- Latest verified implementation commit: b495db8 (repair of the line-wrap corruption in assets/js/assistant-core.js introduced by 0a3efe6; the intended whole-word short-token matching fix is preserved and the 'pick up' delivery synonym restored). The batch-15 article set was published in part-commits 6135732/57676f8/df488df/6f956eb/3b35570 (MM-0527-MM-0576: 17 model comparisons, 8 verified-data choosing guides, 25 spec explainers), with closing internal-link/matrix work in 791603a and a link repair in 66809b8. Verified 2026-09-23: Quality Gate run 35901347073 (commit b495db8, success, all steps including the Guide Assistant test against the full built index) and the Pages build and deploy check-runs on b495db8 (pages workflow run 35901345994, success). The gate failures on the batch-15 commits 6135732 through 0a3efe6 were caused by Guide Assistant retrieval regressions against the full index and, from 0a3efe6, by the assistant-core.js corruption (SyntaxError); all resolved by b495db8. Live verification: the /articles/ index renders the 642-guide total, the /topics/motorcycles/ hub renders the 75-guide count, and batch-15 article pages spot-checked live resolve with correct content.\n- Docs-sync state commits: 93d7d5c (github-actions bot, 2026-09-23) merged the 25 batch-14 rows into docs/matrix/master-matrix.csv (567 -> 592) and applied the README/MASTER-MATRIX/MODEL-DATABASE batch-14 state updates server-side, including mojibake repair; the batch-15 finalization run merges the 50 batch-15 rows (592 -> 642) and applies the batch-15 README/MASTER-MATRIX state updates (scripts/apply-batch-15-docs.js, payload docs/sync/batch-15-docs-sync.json).\n- Batch-14 state for reference: implementation commit b09f75c, gate run 35874723441, Pages run 35874723270. Batch-13 state: 567 articles, final implementation commit 6e37433, gate run 35871816160, Pages run 35871855319.\n- README-only state updates may create a newer HEAD than the SHAs recorded here; the values above always refer to the last implementation commit whose CI/deploy was actually verified."
+    },
+    {
+      "heading": "# NEXT RECOMMENDED STEP",
+      "content": "Batch 15 (cluster-4 motorcycle reviews Part 2) is published and verified (2026-09-23): 50 articles (MM-0527-MM-0576), 642 published articles site-wide, cluster 4 IN PROGRESS (75 of 106 intents; 31 remain). The assistant-core.js line-wrap corruption from 0a3efe6 is repaired (b495db8) and the Quality Gate is green again (run 35901347073). Next: Batch 16 - cluster 4 Part 3 (final 31 intents: remaining comparisons, choosing guides and spec explainers on verified Honda/Yamaha data; retry the Suzuki GD110 and SYM pages first and write Suzuki/SYM model reviews only if their official pages become reachable). Never run two production tasks against MAIN concurrently (see changelog 30 overlap repair)."
+    }
+  ],
+  "changelogPrepend": [
+    "- 2026-09-23 (37): Batch 15 verification + assistant-core repair: 50 cluster-4 articles published (MM-0527-MM-0576; part-commits 6135732, 57676f8, df488df, 6f956eb, 3b35570, closing 791603a, link repair 66809b8): 17 model comparisons, 8 verified-data choosing guides, 25 spec explainers, all built from the verified Honda VN/Yamaha VN MODEL-DATABASE rows; no Suzuki/SYM/PG-1/MSX facts; business facts exclusively from OWNER-FACTS. 642 articles site-wide; cluster 4: 75 of 106, IN PROGRESS. Repair: commit 0a3efe6 had corrupted assets/js/assistant-core.js with 8 mid-line newline breaks (SyntaxError), failing every Quality Gate since; b495db8 restores the intended whole-word short-token matching fix with the corruption removed. Verified: Quality Gate run 35901347073 and Pages build/deploy on b495db8 both success; live /articles/ renders 642 guides and /topics/motorcycles/ renders 75; docs-sync merges the 50 batch-15 rows into master-matrix.csv (592 -> 642). Next: Batch 16 - cluster 4 Part 3 (31 remaining intents)."
+  ],
+  "changelogIdempotencyMarker": "2026-09-23 (37):",
+  "expectContains": [
+    "642 published articles",
+    "75 of 106",
+    "docs/matrix/batch-15-status.md",
+    "35901347073",
+    "Batch 16 - cluster 4 Part 3"
+  ],
+  "verificationRecord": "## Verification record\n\n- Verified 2026-09-23 (Asia/Ho_Chi_Minh): remote MAIN holds 642 article files in _articles/ (592 pre-batch + 50 batch-15 files, counted on the remote listing). Live spot-checks: /articles/ renders the 642-guide total, /topics/motorcycles/ renders the 75-guide count, and batch-15 article pages checked live (underbone-kerb-weights-explained, honda-wave-alpha-vs-honda-wave-rsx, best-underbones-hanoi-commuting-verified) resolve with correct titles and content.\n- Quality Gate: the gates on the batch-15 part-commits (6135732 through 791603a) failed at the Guide Assistant test step, and commit 0a3efe6 (the intended assistant ranking fix) additionally corrupted assets/js/assistant-core.js with 8 mid-line newline breaks, so its gate crashed with a SyntaxError. Repaired in commit b495db8 (whole-word short-token matching preserved, corruption removed, 'pick up' delivery synonym restored). Verified: Quality Gate run 35901347073 on b495db8 - success, all steps including the Guide Assistant test against the full built index.\n- Pages: build and deploy check-runs on b495db8 completed with success (pages workflow run 35901345994); the batch-15 article set itself was already deployed and verified live under the earlier 791603a deployment.\n- Docs sync: the 50 batch-15 rows are merged into docs/matrix/master-matrix.csv (592 -> 642) by this batch-15 docs-sync run.\n"
+}
