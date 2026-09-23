@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn and yamaha-motor.com.vn - official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-wave-rsx-review, yamaha-exciter-155-vva-review, xe-so-vs-xe-con-tay-explained, rotary-four-speed-vs-manual-six-speed, honda-winner-r-vs-yamaha-exciter-155, how-to-rent-a-motorbike-hanoi
+internal_link_targets: honda-wave-rsx-review, yamaha-exciter-155-vva-review, xe-so-vs-xe-con-tay-explained, best-150cc-manual-motorbikes-vietnam-verified, honda-winner-r-vs-yamaha-exciter-155, how-to-rent-a-motorbike-hanoi
 ---
 
 The Honda Wave RSX and the Yamaha Exciter 155 VVA sit at opposite ends of what Vietnam calls a motorbike. One is a semi-automatic underbone you shift with your foot and never think about; the other is a manual-clutch sport machine built for revs. Honda and Yamaha publish full specifications for both (retrieved 23 September 2026), and the numbers show exactly how far apart they are.
@@ -31,7 +31,8 @@ The Wave RSX is a 109.2 cc air-cooled underbone with PGM-FI injection, 6.46 kW a
 | Spec | Wave RSX | Exciter 155 VVA |
 |---|---|---|
 | Engine | 109.2 cc, air-cooled | 155 cc, liquid-cooled, VVA |
-| Max power | 6.46 kW @ 7,500 rpm | 13.2 kW @ 9,500 rpm |
+| Max power | 
+6.46 kW @ 7,500 rpm | 13.2 kW @ 9,500 rpm |
 | Max torque | 8.70 Nm @ 6,000 rpm | 14.4 Nm @ 8,000 rpm |
 | Gearbox | 4-speed rotary | 6-speed, manual clutch |
 | Fuel tank | 4.0 L | 5.4 L |

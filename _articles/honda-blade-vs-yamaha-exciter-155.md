@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn and yamaha-motor.com.vn - official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-blade-110-review, yamaha-exciter-155-vva-review, yamaha-sirius-vs-yamaha-exciter-155, xe-so-vs-xe-con-tay-explained, automatic-vs-manual-motorbike-hanoi, honda-blade-vs-honda-winner-r
+internal_link_targets: honda-blade-110-review, yamaha-exciter-155-vva-review, yamaha-sirius-vs-yamaha-exciter-155, xe-so-vs-xe-con-tay-explained, automatic-vs-manual-motorbike-hanoi, honda-wave-alpha-vs-honda-winner-r
 ---
 
 The Honda Blade and the Yamaha Exciter 155 VVA answer different questions. The Blade asks: what is the cheapest dependable way to cross Hanoi? The Exciter asks: how much fun can a 155 cc underbone be? Both manufacturers publish complete specifications (retrieved 23 September 2026).
@@ -35,7 +35,8 @@ The Blade is a 109.1 cc air-cooled semi-automatic with a four-speed rotary gearb
 | Max torque | 8.65 Nm @ 5,500 rpm | 14.4 Nm @ 8,000 rpm |
 | Gearbox | 4-speed rotary | 6-speed, manual clutch |
 | Fuel tank | 3.7 L | 5.4 L |
-| Claimed economy | 1.85 L/100 km | 2.07 L/100 km |
+| Claimed economy | 1.85 L/100 km | 2.07 
+L/100 km |
 | Kerb weight | 98-99 kg | 123 kg wet |
 | List price | 21,943,637 VND | 55,200,000 VND (limited ABS Monster version shown) |
 
