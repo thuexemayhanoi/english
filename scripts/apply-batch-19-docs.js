@@ -9,14 +9,38 @@ function die(msg) {
   process.exit(1);
 }
 function patchOnce(text, find, replace, label) {
-  if (text.indexOf(find) === -1) {
-    if (text.indexOf(replace) !== -1) { diag.push(label + ' already applied: ' + find.slice(0, 50)); return text; }
-    die(label + ' anchor not found: ' + find.slice(0, 70));
+  if (text.indexOf(find) !== -1) {
+    const n = text.split(find).length - 1;
+    if (n !== 1) die(label + ' anchor occurs ' + n + ' times (expected 1)');
+    diag.push(label + ' patch OK (exact): ' + find.slice(0, 50));
+    return text.replace(find, replace);
   }
-  const n = text.split(find).length - 1;
-  if (n !== 1) die(label + ' anchor occurs ' + n + ' times (expected 1): ' + find.slice(0, 70));
-  diag.push(label + ' patch OK: ' + find.slice(0, 60));
-  return text.replace(find, replace);
+  if (text.indexOf(replace) !== -1) { diag.push(label + ' already applied: ' + find.slice(0, 50)); return text; }
+  die(label + ' anchor not found: ' + find.slice(0, 70));
+}
+function patchFlex(text, find, replace, label) {
+  if (text.indexOf(find) !== -1) {
+    const n = text.split(find).length - 1;
+    if (n !== 1) die(label + ' anchor occurs ' + n + ' times (expected 1)');
+    diag.push(label + ' patch OK (exact): ' + find.slice(0, 50));
+    return text.replace(find, replace);
+  }
+  if (text.indexOf(replace) !== -1) { diag.push(label + ' already applied: ' + find.slice(0, 50)); return text; }
+  const flat = [];
+  const map = [];
+  for (let i = 0; i < text.length; i++) {
+    if (text.charCodeAt(i) === 10) continue;
+    flat.push(text[i]); map.push(i);
+  }
+  const flatStr = flat.join('');
+  const findFlat = find.split(NL).join('');
+  const p = flatStr.indexOf(findFlat);
+  if (p === -1) die(label + ' anchor not found (exact and newline-insensitive): ' + find.slice(0, 70));
+  if (flatStr.indexOf(findFlat, p + 1) !== -1) die(label + ' flat anchor occurs more than once: ' + find.slice(0, 70));
+  const start = map[p];
+  const end = map[p + findFlat.length - 1] + 1;
+  diag.push(label + ' patch OK (newline-insensitive, healing ' + (end - start - findFlat.length) + ' stray newline(s)): ' + find.slice(0, 50));
+  return text.slice(0, start) + replace + text.slice(end);
 }
 function isBoundary(t) {
   if (t === '') return true;
@@ -37,7 +61,7 @@ function patchBullet(text, prefix, newLine, label) {
   let end = hits[0] + 1;
   while (end < lines.length && !isBoundary(lines[end].trim())) end++;
   lines.splice(hits[0], end - hits[0], newLine);
-  diag.push(label + ' bullet replace OK (' + (end - hits[0]) + ' physical line(s)): ' + prefix.slice(0, 60));
+  diag.push(label + ' bullet replace OK (' + (end - hits[0]) + ' physical line(s)): ' + prefix.slice(0, 50));
   return lines.join(NL);
 }
 function isIdRow(l) {
@@ -91,47 +115,63 @@ readme = patchBullet(readme,
   "- Batch 19 (cluster-6 50cc, MM-0665-MM-0704) was published 2026-09-24 in part-commits f2147fe, 81bd7a0, eead9f6, a35b5a4, repairs d8d4ba5 (front-matter quote fix) and 67f7d5c (missing internal_link_targets slug fix), closing inbound-link commit 9ce5a03 (12 existing articles). The Quality Gates on f2147fe and eead9f6 FAILED (front-matter YAML parse error; missing target slug) and both were repaired as above. Post-closing repairs: 0e4cf54 (empty reconciliation commit, changed nothing), fccfa8c (removed stray quotes from the internal_link_targets lines of 12 existing articles - targets appended after the closing YAML quote in 9ce5a03 had created invalid slugs in the internal-link audit; the gate on fccfa8c passed every step except the Guide Assistant test), dbf4e7e (reconstructed docs/matrix/batch-19-rows.csv: joined 9 rows split mid-line during generation, normalized quoting to the batch-18 convention), 2163d30 (named the 50cc category in the 50cc-fines-vietnam intro so the Guide Assistant licence follow-up test retrieves a 50cc answer). FINAL VERIFIED STATE: Quality Gate run 35927676814 (#169) on commit 2163d30 - success, every step including the Guide Assistant test (built index); GitHub Pages deployment 6625676759 of commit 2163d30 - success (2026-09-23T22:20:33Z); the live site serves the fixed intro on /articles/50cc-fines-vietnam/; remote MAIN holds 770 article files in _articles/ and all 40 batch-19 slugs verified live.",
   'README DEPLOYMENT batch-19');
 {
-  const lines = readme.split(NL);
   const marker = 'Batch 19 (cluster-6 50cc) final verification';
   if (readme.indexOf(marker) !== -1) {
     diag.push('README CHANGE LOG entry already present');
   } else {
-    let best = -1, max = 0;
-    for (let i = 0; i < lines.length; i++) {
-      const l = lines[i];
-      if (l.indexOf('- 2026-') !== 0) continue;
-      const p = l.indexOf(' (');
-      const q = l.indexOf('):', p);
-      if (p > 0 && q > p) {
-        const num = parseInt(l.slice(p + 2, q), 10);
-        if (!isNaN(num) && num > max) { max = num; best = i; }
-      }
+    const flat = [];
+    const map = [];
+    for (let i = 0; i < readme.length; i++) {
+      if (readme.charCodeAt(i) === 10) continue;
+      flat.push(readme[i]); map.push(i);
     }
-    if (best === -1) {
-      diag.push('README CHANGE LOG: no existing dated entries found; skipping changelog insertion');
+    const flatStr = flat.join('');
+    const hIdx = flatStr.toLowerCase().indexOf('change log');
+    if (hIdx === -1) {
+      diag.push('README CHANGE LOG: no changelog section found; skipping entry insertion (batch-19 state is recorded in CONTENT BATCH STATE and DEPLOYMENT STATE)');
     } else {
-      const entry = '- 2026-09-24 (' + (max + 1) + '): ' + marker + ': 40 articles live and verified (MM-0665-MM-0704; part-commits f2147fe/81bd7a0/eead9f6/a35b5a4, repairs d8d4ba5/67f7d5c/0e4cf54/fccfa8c/dbf4e7e/2163d30, closing inbound-link commit 9ce5a03). Quality Gate #169 (run 35927676814) success on 2163d30 including the Guide Assistant test (built index); GitHub Pages deployment 6625676759 success (2026-09-23T22:20:33Z); the live site serves the fixed /articles/50cc-fines-vietnam/ intro; 770 articles site-wide; master-matrix.csv merged 730 -> 770 by the batch-19 docs-sync run; cluster 6 COMPLETE: 40 of 40 intents. Next: cluster 7 (electric, 89 intents - MODEL-DATABASE electric fields first).';
-      lines.splice(best, 0, entry);
-      readme = lines.join(NL);
-      diag.push('README CHANGE LOG entry added as (' + (max + 1) + ') above entry (' + max + ')');
+      let max = 0, firstEntryFlat = -1;
+      let s = 0;
+      while (true) {
+        const e = flatStr.indexOf('- 2026-', s);
+        if (e === -1) break;
+        const o = flatStr.indexOf('(', e);
+        const c = flatStr.indexOf('):', o);
+        if (o > e && o - e < 15 && c > o && c - o < 8) {
+          const num = parseInt(flatStr.slice(o + 1, c), 10);
+          if (!isNaN(num)) {
+            if (e > hIdx && firstEntryFlat === -1) firstEntryFlat = e;
+            if (num > max) max = num;
+          }
+        }
+        s = e + 7;
+      }
+      if (firstEntryFlat === -1) {
+        diag.push('README CHANGE LOG: heading found but no dated entries; skipping entry insertion');
+      } else {
+        const insertAt = map[firstEntryFlat];
+        const entry = '- 2026-09-24 (' + (max + 1) + '): ' + marker + ": 40 articles live and verified (MM-0665-MM-0704; part-commits f2147fe/81bd7a0/eead9f6/a35b5a4, repairs d8d4ba5/67f7d5c/0e4cf54/fccfa8c/dbf4e7e/2163d30, closing inbound-link commit 9ce5a03). Quality Gate #169 (run 35927676814) success on 2163d30 including the Guide Assistant test (built index); GitHub Pages deployment 6625676759 success (2026-09-23T22:20:33Z); the live site serves the fixed /articles/50cc-fines-vietnam/ intro; 770 articles site-wide; master-matrix.csv merged 730 -> 770 by the batch-19 docs-sync run; cluster 6 COMPLETE: 40 of 40 intents. Next: cluster 7 (electric, 89 intents - MODEL-DATABASE electric fields first).";
+        readme = readme.slice(0, insertAt) + entry + NL + readme.slice(insertAt);
+        diag.push('README CHANGE LOG entry added as (' + (max + 1) + ') before entry (' + max + ')');
+      }
     }
   }
 }
 fs.writeFileSync('README.md', readme);
 let mm = fs.readFileSync('docs/MASTER-MATRIX.md', 'utf8');
-mm = patchOnce(mm,
+mm = patchFlex(mm,
   'The CSV currently holds 730 committed rows (after the batch-14 merge',
   'The CSV currently holds 770 committed rows (after the batch-14 merge',
   'MM row count');
-mm = patchOnce(mm,
+mm = patchFlex(mm,
   'the batch-17 docs-sync merge 675 -> 703 and the batch-18 docs-sync merge 703 -> 730;',
   'the batch-17 docs-sync merge 675 -> 703, the batch-18 docs-sync merge 703 -> 730 and the batch-19 docs-sync merge 730 -> 770;',
   'MM merge chain');
-mm = patchOnce(mm,
+mm = patchFlex(mm,
   'and 55 cluster-5 manual & clutch rows (55 published; cluster 5 COMPLETE - 28 in Batch 17 plus 27 in Batch 18).',
   'and 55 cluster-5 manual & clutch rows (55 published; cluster 5 COMPLETE - 28 in Batch 17 plus 27 in Batch 18) and 40 cluster-6 50cc rows (40 published; cluster 6 COMPLETE - all in Batch 19).',
   'MM cluster-6 rows');
-mm = patchOnce(mm,
+mm = patchFlex(mm,
   'The 40 batch-19 rows are preserved verbatim in docs/matrix/batch-19-rows.csv pending the master-matrix.csv sync merge 730 -> 770.',
   'The 40 batch-19 rows are preserved verbatim in docs/matrix/batch-19-rows.csv and merged into master-matrix.csv by the batch-19 docs-sync run (730 -> 770).',
   'MM cluster-6 bullet');
