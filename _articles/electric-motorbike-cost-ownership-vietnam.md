@@ -20,7 +20,7 @@ sources:
   - "https://yadea.com.vn/ — Yadea Vietnam official site — listed model prices from 13,990,000 VND"
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — warranty terms"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: electric-vs-petrol-motorbike-hanoi, vinfast-battery-rental-vs-buying, electric-motorbike-battery-replacement-vietnam, buying-first-electric-motorbike-vietnam
+internal_link_targets: "electric-vs-petrol-motorbike-hanoi, vinfast-battery-rental-vs-buying, electric-motorbike-battery-replacement-vietnam, buying-first-electric-motorbike-vietnam, electric-motorbike-resale-value-vietnam"
 ---
 
 Electric two-wheelers shift the cost of riding from fuel to batteries. Here is the honest ledger, using published figures only.
@@ -31,7 +31,8 @@ List prices start at roughly 13,990,000 VND for Yadea's cheapest Vietnamese mode
 
 ## Running costs
 
-- **Electricity.** Charging a moped-class pack at home costs a modest household sum per full charge — dramatically less than the equivalent petrol. Your bill rises, but per-kilometre energy cost stays the electric bike's core advantage. We do not publish a fixed number because household tariffs and pack sizes vary.
+- **Electricity.** Charging a moped-class pack at home costs a modest household sum per full charge — dramatically less than the equivalen
+t petrol. Your bill rises, but per-kilometre energy cost stays the electric bike's core advantage. We do not publish a fixed number because household tariffs and pack sizes vary.
 - **Swapping.** 9,000 VND per battery per swap at V-Green cabinets — the convenience premium over home charging.
 - **Servicing.** No oil, no plugs, no filters. The routine is brakes, tyres, suspension checks and battery health — cheaper and less frequent than petrol equivalents.
 - **Insurance and registration.** Whatever applies to your vehicle class applies here too; budget as you would for a petrol bike of the same class.

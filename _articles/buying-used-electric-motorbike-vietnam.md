@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — battery life claim (150,000 km), 3-year battery warranty, app diagnostics"
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — swappable LFP batteries rented or owned"
-internal_link_targets: electric-motorbike-battery-lifespan-vietnam, buying-first-electric-motorbike-vietnam, electric-motorbike-battery-replacement-vietnam, disc-locks-chains-motorbike-security
+internal_link_targets: "electric-motorbike-battery-lifespan-vietnam, buying-first-electric-motorbike-vietnam, electric-motorbike-battery-replacement-vietnam, disc-locks-chains-motorbike-security, electric-motorbike-battery-health-check"
 ---
 
 On a used electric motorbike, the battery is most of the value and almost all of the risk. Petrol bikes age slowly; lithium packs age with every cycle, and a bike that looks fine can carry a tired battery.
@@ -27,7 +27,8 @@ On a used electric motorbike, the battery is most of the value and almost all of
 
 1. **Ask for the pack's health data.** Modern electrics expose diagnostics through their apps — Dat Bike's app, for instance, connects to the bike for status and service. If the seller cannot show charge cycles or measured capacity, treat the price accordingly.
 2. **Do a full charge and a measured ride.** Charge to 100 percent, ride a known loop at normal pace, and compare the percentage consumed with the claimed range. Weak packs reveal themselves immediately.
-3. **Check the warranty transfer.** Dat Bike, for example, ships its bikes with a 3-year battery warranty — confirm in writing whether it transfers to you and on what terms.
+3. **Check the warranty transfer.** Dat Bike, for example, ships its bikes with a 3-year battery warranty — confirm in writing whether it t
+ransfers to you and on what terms.
 4. **Ask whether the battery is owned or rented.** For VinFast swap models, a rented-battery bike transfers without the pack but with the rental relationship — confirm the account status with the seller.
 
 ## Then the bike

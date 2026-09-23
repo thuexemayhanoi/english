@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — all specifications in this review"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: what-is-electric-motorbike-vietnam, vinfast-battery-rental-vs-buying, vinfast-feliz-2-review, vinfast-amio-vs-evo-lite
+internal_link_targets: "what-is-electric-motorbike-vietnam, vinfast-battery-rental-vs-buying, vinfast-feliz-2-review, vinfast-amio-vs-evo-lite, vinfast-viper-vs-evo, vinfast-electric-scooter-lineup-vietnam"
 ---
 
 The VinFast Evo is the entry point to Vietnam's battery-swap ecosystem — a licence-free city scooter built around removable power. This review uses only VinFast's official published data.
@@ -40,7 +40,8 @@ The VinFast Evo is the entry point to Vietnam's battery-swap ecosystem — a lic
 
 The swap architecture is the point. Two removable 1.5 kWh LFP packs mean fuelling takes under a minute at a V-Green cabinet — 4,500 stations were installed by January 2026, with 45,000 planned across 34 provinces and cities by Q1 2026. Home charging and public chargers remain options.
 
-The range figure is strong for the class: 165 km under standard conditions beats most licence-free rivals, though real city pace trims it — see our real-world range guide for how much.
+The range figure is strong for the class: 165 km under st
+andard conditions beats most licence-free rivals, though real city pace trims it — see our real-world range guide for how much.
 
 ## Trade-offs
 

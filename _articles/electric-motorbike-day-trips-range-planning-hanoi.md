@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — range at two speeds, charging times, route examples (Hanoi-Ha Long)"
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — swap network and per-model ranges"
-internal_link_targets: electric-motorbike-range-real-world-vietnam, electric-two-wheeler-speed-classes-vietnam, vinfast-vs-dat-bike-ecosystems, where-to-charge-electric-motorbike-hanoi
+internal_link_targets: "electric-motorbike-range-real-world-vietnam, electric-two-wheeler-speed-classes-vietnam, vinfast-vs-dat-bike-ecosystems, where-to-charge-electric-motorbike-hanoi, long-distance-electric-motorbike-touring-vietnam"
 ---
 
 Electric two-wheelers have quietly become day-trip machines — Dat Bike itself markets the Weaver 200 with Hanoi–Ha Long as an example trip. The skill that makes it work is honest range math.
@@ -30,7 +30,8 @@ Take the claimed range and cut it for your actual pace. The Weaver 200's own off
 ## Step 2: Route out the charge stops
 
 - **Swap-model riders (VinFast Evo/Feliz II/Viper):** 9,000 VND per battery per swap, cabinets across 34 provinces and cities — swap at the outward coffee stop and the range question disappears.
-- **Dat Bike riders:** Dat Charge stations give the Weaver++ 100 km in 20 minutes; plan lunch within reach of one. Home-charged Weaver 200s can also charge over a long stop (1 hour buys 100 km).
+- **Dat Bike riders:** Dat Charge stations give the Weaver++ 100 km in 20 minutes; plan lunch within reach of one. Home-charged Weaver 20
+0s can also charge over a long stop (1 hour buys 100 km).
 - **Moped-class bikes:** their 60-165 km claims suit short loops (Bat Trang, Dong Mo, Chuong My) rather than coast-bound routes.
 
 ## Step 3: The margin rule

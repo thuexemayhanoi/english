@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — BLDC in-hub motors (2,450 W / 3,000 W), LFP 1.5 kWh batteries"
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — 72 V 68 Ah lithium-ion battery, regen braking, 6,000 W motor"
-internal_link_targets: what-is-electric-motorbike-vietnam, regen-braking-explained-electric, electric-motorbike-battery-lifespan-vietnam, electric-motorbike-maintenance-basics
+internal_link_targets: "what-is-electric-motorbike-vietnam, regen-braking-explained-electric, electric-motorbike-battery-lifespan-vietnam, electric-motorbike-maintenance-basics, hub-vs-mid-motor-electric-motorbikes, electric-motorbike-battery-capacity-explained"
 ---
 
 An electric motorbike has no carburettor, no clutch and no gearbox, yet it still comes down to three parts doing the work: the battery, the controller and the motor.
@@ -33,7 +33,8 @@ The controller is the throttle's translator. It reads your twist grip and meters
 
 ## The motor
 
-Most city electrics use a brushless DC (BLDC) hub motor built into the rear wheel — no chain, no belts. VinFast's Evo uses 2,450 W, the Feliz II and Viper use 3,000 W versions; the Weaver 200 uses 6,000 W. Power roughly maps to acceleration and licence class: 4 kW is the legal boundary between mopeds and motorcycles.
+Most city electrics use a brushless DC (BLDC) hub motor bu
+ilt into the rear wheel — no chain, no belts. VinFast's Evo uses 2,450 W, the Feliz II and Viper use 3,000 W versions; the Weaver 200 uses 6,000 W. Power roughly maps to acceleration and licence class: 4 kW is the legal boundary between mopeds and motorcycles.
 
 ## Regenerative braking
 

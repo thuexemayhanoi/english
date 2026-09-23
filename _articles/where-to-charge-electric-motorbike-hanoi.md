@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — V-Green 4,500 swap stations installed (45,000 cabinets planned across 34 provinces by Q1 2026), 9,000 VND per swap"
   - "https://dat.bike/en/xe-may-dien-weaver-plus-plus-en/ — Dat Bike official Weaver++ page — Dat Charge fast-charging stations (100 km in 20 minutes)"
-internal_link_targets: charging-electric-motorbike-at-home-vietnam, battery-swap-vs-home-charging-vietnam, electric-motorbike-commuting-hanoi, vinfast-vs-dat-bike-ecosystems
+internal_link_targets: "charging-electric-motorbike-at-home-vietnam, battery-swap-vs-home-charging-vietnam, electric-motorbike-commuting-hanoi, vinfast-vs-dat-bike-ecosystems, v-green-battery-swap-network-guide, charging-electric-motorbike-work-university"
 ---
 
 Charging in Hanoi is now a solved problem for most riders — provided you match your bike's fuel model to the right place.
@@ -33,7 +33,8 @@ For VinFast's swap-ready models (Evo, Feliz II, Viper), V-Green cabinets exchang
 
 ## 3. Fast-charging stations
 
-Dat Bike riders use the Dat Charge network: the Weaver++ claims 100 km of range from a 20-minute session, aimed at long trips and rescue charges rather than daily needs. Locate stations in the Dat Bike app before you need one.
+Dat Bike riders
+ use the Dat Charge network: the Weaver++ claims 100 km of range from a 20-minute session, aimed at long trips and rescue charges rather than daily needs. Locate stations in the Dat Bike app before you need one.
 
 ## 4. Everything else
 

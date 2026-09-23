@@ -19,7 +19,7 @@ sources:
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — battery rental model (175,000/300,000 VND per month), purchase with batteries included as an option"
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — 3-year battery warranty, 150,000 km battery life claim"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: electric-motorbike-battery-lifespan-vietnam, buying-used-electric-motorbike-vietnam, electric-motorbike-cost-ownership-vietnam, vinfast-battery-rental-vs-buying
+internal_link_targets: "electric-motorbike-battery-lifespan-vietnam, buying-used-electric-motorbike-vietnam, electric-motorbike-cost-ownership-vietnam, vinfast-battery-rental-vs-buying, electric-motorbike-battery-health-check"
 ---
 
 Every electric motorbike eventually needs its battery renewed — by cycle fatigue, fault or age. Vietnam gives you more routes to that than most markets.
@@ -30,7 +30,8 @@ A failing pack inside its warranty window is the manufacturer's problem. Dat Bik
 
 ## Route 2: Buy a new pack
 
-On owned-battery bikes, a new pack from the manufacturer is the clean option — matched to the charger and controller, warranty attached. Fixed-battery machines like the Weaver 200 (72 V 68 Ah lithium-ion) are serviced through the brand network; the pack is replaced as a unit rather than opened. We do not publish replacement prices because they vary by model and year: ask the brand's dealer for a written quote, and treat any third-party quote with suspicion — cells, firmware and chargers are engineered as a set.
+On owned-battery bikes, a new pack from the manufacturer is the clean option — matched to the charger and controller, warranty attached. Fixed-battery machines like the Weaver 200 (72 V 68 Ah lithium-ion) are servic
+ed through the brand network; the pack is replaced as a unit rather than opened. We do not publish replacement prices because they vary by model and year: ask the brand's dealer for a written quote, and treat any third-party quote with suspicion — cells, firmware and chargers are engineered as a set.
 
 ## Route 3: Escape to rental
 

@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — IP65 waterproof standard"
   - "https://dat.bike/en/xe-may-dien-weaver-plus-plus-en/ — Dat Bike official Weaver++ page — IP67 waterproof rating"
-internal_link_targets: riding-electric-motorbike-hanoi-rain, electric-motorbike-maintenance-basics, storing-electric-motorbike-long-breaks, check-motorbike-after-heavy-rain
+internal_link_targets: "riding-electric-motorbike-hanoi-rain, electric-motorbike-maintenance-basics, storing-electric-motorbike-long-breaks, check-motorbike-after-heavy-rain, ip-ratings-electric-motorbikes-explained"
 ---
 
 Washing an electric motorbike is easy — the design tolerates rain — but the electrics change a few rules from petrol-bike washday.
@@ -33,7 +33,8 @@ The IP code on your bike defines what water it is built for. Dat Bike's Weaver 2
 - **Avoid the charging port and keyholes** directly; wipe around them.
 - **Battery out where possible.** Washing with the bay empty is the cleanest option on removable-pack models.
 - **Mild soap, soft cloth** for the display and plastics; brake discs want degreaser-free cleaning so pads keep biting.
-- **Dry the connectors** before reinserting any battery or cap.
+- **Dry the connectors** be
+fore reinserting any battery or cap.
 
 ## The one hard rule
 

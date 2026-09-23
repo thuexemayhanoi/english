@@ -17,7 +17,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "https://dat.bike/en/xe-may-dien-weaver-plus-plus-en/ — Dat Bike official Weaver++ page — all specifications in this review"
-internal_link_targets: dat-bike-weaver-200-review, dat-bike-weaver-200-vs-weaver-plus-plus, electric-motorbike-range-real-world-vietnam, fast-electric-motorbike-licence-vietnam
+internal_link_targets: "dat-bike-weaver-200-review, dat-bike-weaver-200-vs-weaver-plus-plus, electric-motorbike-range-real-world-vietnam, fast-electric-motorbike-licence-vietnam, dat-bike-lineup-vietnam-guide"
 ---
 
 The Weaver++ is Dat Bike's flagship — the brand calls it the most complete bike in its history. All figures below are Dat Bike's official published data.
@@ -39,7 +39,8 @@ The Weaver++ is Dat Bike's flagship — the brand calls it the most complete bik
 
 The charging story is the headline: 100 km of range in 20 minutes at a Dat Charge station — approaching petrol-stop times on long trips. The mid-motor layout with engineered heat dissipation supports sustained hard riding, and the 33 percent acceleration gain over the Weaver 200 makes itself felt at every arterial launch.
 
-IP67 is a serious water rating — rated for temporary immersion, comfortable in Hanoi's flood-prone streets (though flood riding still deserves caution). Tubeless tyres on alloy wheels are a practicality win over spoke-and-tube set-ups. The adjustable chainring lets riders tune speed and acceleration limits to their own risk tolerance — a genuinely unusual feature.
+IP67 is a serious water rating — rated for temporary immersion, comfortable in Hanoi's flood-prone streets (though flood riding still deserves c
+aution). Tubeless tyres on alloy wheels are a practicality win over spoke-and-tube set-ups. The adjustable chainring lets riders tune speed and acceleration limits to their own risk tolerance — a genuinely unusual feature.
 
 ## Trade-offs
 
