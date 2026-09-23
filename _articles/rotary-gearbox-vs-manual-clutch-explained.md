@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: semi-automatic-gearbox-explained, xe-so-vs-xe-con-tay-explained, honda-winner-r-review, yamaha-exciter-155-vva-review, centrifugal-clutch-care-semi-automatic, assist-slipper-clutch-explained
+internal_link_targets: semi-automatic-gearbox-explained, xe-so-vs-xe-con-tay-explained, honda-winner-r-review, yamaha-exciter-155-vva-review, centrifugal-clutch-care-semi-automatic, assist-slipper-clutch-explained, how-to-shift-gears-semi-automatic-underbone, clutch-technique-stop-and-go-traffic, riding-six-speed-manual-winner-exciter
 ---
 
 Two gearboxes dominate Vietnam's underbones: the rotary four-speed of the workhorse class and the manual six-speed of the sport class. They change more than the number of gears - they change who can ride the bike.
@@ -28,8 +28,10 @@ Honda publishes "four-speed rotary" for the Wave Alpha, Blade, Wave RSX and Futu
 
 ## The manual six-speed
 
-Yamaha's Exciter 155 VVA runs six speeds with an Assist and Slipper clutch (our dedicated explainer covers that technology). Honda's Winner R and CBR150R pages list manual clutches without publishing gear-count detail. Six closely spaced ratios let the engine stay near its power peak - the Exciter makes its 13.2 kW at 9,500 rpm - at the cost of constant clutch work in traffic.
+Yamaha's Exciter 155 VVA runs six speeds with an Assist and Slipper clutch (our dedicated explainer covers that technology). Honda's Winner R and CBR150R pages list manual clutches without publishing gear-count detail. Six closely spaced ratios let the engine 
+stay near its power peak - the Exciter makes its 13.2 kW at 9,500 rpm - at the cost of constant clutch work in traffic.
 
 ## The practical difference in Hanoi
 
 In stop-start flow the rotary four-speed wins decisively: shift when you like, never feather a clutch. On the open road the six-speed wins: real overtaking acceleration and engine-braking control. This is why the rental default here is the rotary class - our price-published Wave and Sirius classes (150,000 VND/day) both use it. Contact us to confirm current availability of either format.
+
