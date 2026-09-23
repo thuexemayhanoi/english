@@ -153,9 +153,9 @@ Run locally before each batch commit:
 # DEPLOYMENT STATE
 
 - Hosting: GitHub Pages, Jekyll, baseurl /english.
-- Latest verified implementation commit: 716c09d4b69e9d03515948cb72a197e84e396625 (Batch 5: 50 articles — 25 cluster-10 safety completing the safety cluster, 25 cluster-8 maintenance Part 2 — plus matrix/state docs and QA reports). Verified live on Pages on 2026-09-22: new article pages (e.g. u-turns-tight-turns, cvt-belt-variator, dashcams) resolve on the live site, topic hubs render, and the live sitemap contains the new batch-5 slugs.
-- Latest verified Quality Gate run: run ID not directly verifiable from the available tooling this pass; local gate run on the pushed tree passed (P0=0, P1=0, blocking=0, 314 indexable pages). Previous verified gate runs from Batch 2 Slice 1: 35742926967.
-- Latest verified Pages run: not directly verifiable from the available tooling this pass; deployment confirmed by live-page spot checks (above). Previous verified Pages run from Batch 2 Slice 1: 35742925235.
+- Latest verified implementation commit: 949f0761b55f7b1041152b886b8e7167d52be3cb (Batch 6: 50 articles — 25 cluster-8 maintenance Part 3, 25 cluster-9 parts/gear Part 1 — plus matrix/state docs and QA reports; pushed in three commits 0801936 + a7ee566 + 949f076). Verified live on Pages on 2026-09-23: new article pages (e.g. choosing-engine-oil-motorbike-vietnam, riding-gear-budget-priority-vietnam) resolve on the live site, the parts-gear hub renders, and the live sitemap contains the new batch-6 slugs (364 indexable URLs; 343 article URLs incl. the /articles/ index).
+- Latest verified Quality Gate run: 35812243455 (commit 949f076, success, 2026-09-23). Intermediate batch commits 0801936 (run 35812140141) and a7ee566 (run 35812210370) also passed.
+- Latest verified Pages run: 35812243105 (commit 949f076, success, 2026-09-23).
 - README-only state updates may create a newer HEAD than the SHAs recorded here; the values above always refer to the last implementation commit whose CI/deploy was actually verified.
 
 # NEXT RECOMMENDED STEP
