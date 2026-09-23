@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "best-motorbike-for-hanoi-traffic, scooter-vs-semi-automatic-hanoi, easiest-motorbikes-for-beginners-hanoi, best-scooters-to-rent-hanoi, first-time-renting-a-motorbike-hanoi"
+internal_link_targets: "best-motorbike-for-hanoi-traffic, scooter-vs-semi-automatic-hanoi, easiest-motorbikes-for-beginners-hanoi, best-scooters-to-rent-hanoi, first-time-renting-a-motorbike-hanoi, semi-automatic-gearbox-explained, honda-wave-alpha-110-review, yamaha-sirius-rc-110-review"
 ---
 
 Three transmissions, one city. The choice is easier than it looks because each transmission answers a different kind of rider.
@@ -32,7 +32,8 @@ The Vietnamese default. Foot-shifted four-speed gearbox, but no hand clutch - th
 
 ## Manual (clutch) motorcycles
 
-Left-hand clutch, left-foot shift, full control. For riders who already ride manuals, this is home, and a manual is the right tool for mountain trips where engine braking matters. For everyone else it is the hardest possible way to learn Vietnamese traffic - the clutch turns every junction into a workload. Rent a manual only if you ride one at home.
+Left-hand clutch, left-foot shift, fu
+ll control. For riders who already ride manuals, this is home, and a manual is the right tool for mountain trips where engine braking matters. For everyone else it is the hardest possible way to learn Vietnamese traffic - the clutch turns every junction into a workload. Rent a manual only if you ride one at home.
 
 ## The decision
 
@@ -41,3 +42,6 @@ Left-hand clutch, left-foot shift, full control. For riders who already ride man
 - Confident manual rider with proper licence coverage: manual, and only if your routes leave the city.
 
 One legal note: in Vietnam, licence class, not transmission, decides what you may ride - the A1 class covers the common rental sizes; bigger manuals need the A class. Check what your licence actually covers before renting anything with a clutch. And whichever you choose, confirm availability for your dates - contact us to check what is in stock.
+
+
+If you want the verified spec side of the semi-automatic question, see our semi-automatic gearbox explainer and the model reviews of the two classic semi-automatic classes, the Honda Wave Alpha 110 and Yamaha Sirius RC 110.

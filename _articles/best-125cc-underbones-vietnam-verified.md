@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — Yamaha VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-future-125-review, honda-super-cub-c125-review, honda-ct125-review, best-motorbike-for-commuting-hanoi, best-motorbike-for-day-trips-from-hanoi
+internal_link_targets: "honda-future-125-review, honda-super-cub-c125-review, honda-ct125-review, best-motorbike-for-commuting-hanoi, best-motorbike-for-day-trips-from-hanoi, honda-future-125-vs-honda-wave-rsx, honda-super-cub-c125-vs-honda-future-125, honda-ct125-vs-honda-super-cub-c125"
 ---
 
 Vietnam's 125 cc underbone class is small but covers three very different machines, all Hondas in the current line-up. As always, every figure below is manufacturer-published (Honda Vietnam pages, retrieved 23 September 2026) - nothing estimated.
@@ -49,7 +49,8 @@ Future 104 kg, Super Cub 109 kg, CT125 117 kg.
 
 ## Seat height and clearance
 
-Super Cub 780 mm seat / 136 mm clearance; Future 756 mm / 133 mm; CT125 800 mm / 165 mm - the CT is the only one shaped for rough tracks and the day trips they enable.
+Super Cub 780 mm seat / 136 mm clearance; Fu
+ture 756 mm / 133 mm; CT125 800 mm / 165 mm - the CT is the only one shaped for rough tracks and the day trips they enable.
 
 ## List prices (retrieved 23 September 2026; prices change)
 

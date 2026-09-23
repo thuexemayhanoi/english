@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "hill-starts-motorbike-slopes-vietnam, first-time-renting-a-motorbike-hanoi, automatic-vs-manual-motorbike-hanoi, lightest-motorbikes-for-new-riders, best-motorbike-for-hanoi-traffic, how-to-rent-a-motorbike-hanoi"
+internal_link_targets: "hill-starts-motorbike-slopes-vietnam, first-time-renting-a-motorbike-hanoi, automatic-vs-manual-motorbike-hanoi, lightest-motorbikes-for-new-riders, best-motorbike-for-hanoi-traffic, how-to-rent-a-motorbike-hanoi, semi-automatic-gearbox-explained"
 ---
 
 Ease on a motorbike is measurable: weight, seat height, throttle manners, and how little there is to operate. Ranked by what actually makes a first-week rider safe.
@@ -35,7 +35,8 @@ Day rates: 150,000-200,000 VND; contact us to confirm current availability.
 
 ## Nearly as easy: licence-free e-bikes
 
-For riders with no motorcycle licence at all, a licence-free e-bike is both the legal answer and the easiest machine: bicycle-like controls, low speeds, no gears, no petrol. It cannot keep up with full traffic, but inside neighbourhood streets that is a feature for a beginner.
+For riders with no motorcycle licence at all, a licence-free e-bike is both the legal answer and the easiest machine: bicycle-like controls, low speeds, no gears, no petrol. It cannot keep up
+ with full traffic, but inside neighbourhood streets that is a feature for a beginner.
 
 ## The middle option: semi-automatic underbones
 
@@ -48,3 +49,6 @@ Manual clutch bikes (a workload in traffic), anything tall or heavy, and anythin
 ## The honest beginner package
 
 An automatic scooter, a helmet that fits, the first ride around the block before the first ride in traffic, and slow, predictable lines. Confidence arrives on day two; the bike should not be the hard part on day one.
+
+
+Curious how the no-clutch-lever gearbox actually works? Our semi-automatic gearbox explainer covers the centrifugal clutch and rotary shift pattern behind the easiest rental formats.

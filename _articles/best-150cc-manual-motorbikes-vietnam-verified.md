@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — Yamaha VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: yamaha-exciter-155-vva-review, honda-winner-r-review, honda-cbr150r-review, a1-licence-vietnam-what-you-can-ride, air-cooled-vs-liquid-cooled-motorbike
+internal_link_targets: "yamaha-exciter-155-vva-review, honda-winner-r-review, honda-cbr150r-review, a1-licence-vietnam-what-you-can-ride, air-cooled-vs-liquid-cooled-motorbike, honda-winner-r-vs-yamaha-exciter-155, honda-cbr150r-vs-honda-winner-r"
 ---
 
 The manual-clutch 150-155 cc class is where Vietnamese riders get real performance without leaving the A1 licence bracket. This guide compares the three current models on manufacturer-published data only (Honda Vietnam and Yamaha Vietnam pages, retrieved 23 September 2026). The head-to-head comparison pairings for this class are being published alongside this guide.
@@ -37,7 +37,8 @@ Torque: Exciter and CBR150R both publish 14.4 Nm (at 8,000 and 7,000 rpm respect
 
 ## Gearboxes and clutches
 
-Exciter: six-speed with an Assist and Slipper clutch. CBR150R and Winner R: Honda does not publish a slipper clutch for either; both are conventional manual-clutch sport layouts. All three are electric start, all are liquid-cooled - our cooling comparison covers what that buys in traffic.
+Exciter: six-speed with an Assist and Slipper clutch. CBR150R and Winner R: Honda does not publish a slipper clutch for either; both are conventional manual-clutch sport l
+ayouts. All three are electric start, all are liquid-cooled - our cooling comparison covers what that buys in traffic.
 
 ## Brakes and tyres
 
