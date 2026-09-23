@@ -16,7 +16,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "strong-wind-riding-motorbike-vietnam, defensive-riding-motorbike-vietnam, riding-motorbike-blind-spots-vietnam, merging-side-streets-traffic-vietnam"
+internal_link_targets: "strong-wind-riding-motorbike-vietnam, defensive-riding-motorbike-vietnam, riding-motorbike-blind-spots-vietnam, merging-side-streets-traffic-vietnam", 50cc-hills-bridges-hanoi
 ---
 
 Every bridge crossing in Hanoi compresses the same few hazards into a few hundred metres: narrow lanes, side wind, trucks, and merges at both ends. The bridges themselves are fine; the technique for entering and leaving them is what needs care.
@@ -31,7 +31,8 @@ A bridge with open water below gives crosswind a clean run at you. Expect a push
 
 ## Speed and space on the deck
 
-Bridge decks are smooth, which invites speed, but the escape room is narrow and the railings are close. Hold a steady speed, keep distance from the vehicle ahead, and never filter beside a truck mid-span — if anything happens there is nowhere for either of you to go.
+Bridge decks are smooth, which invites speed, but the escape room is narrow and the railings are close. Hold a steady speed, keep distance from the vehicle ahead, and never filter beside a
+ truck mid-span — if anything happens there is nowhere for either of you to go.
 
 ## Ramps and expansion joints
 

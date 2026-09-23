@@ -20,7 +20,7 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Articles 3, 58, 59"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Articles 7, 18"
   - "https://xaydungchinhsach.chinhphu.vn/doi-tuoi-cua-nguoi-lai-xe-may-va-muc-phat-voi-nguoi-chua-du-tuoi-lai-xe-theo-quy-dinh-119250202112655906.htm — Decree 151/2024/NĐ-CP — safe moped-riding skills training for high-school and vocational students (Government portal reporting)"
-internal_link_targets: "vietnam-motorbike-licence-classes-explained, electric-bike-licence-vietnam, can-tourists-ride-motorbike-vietnam, helmet-law-vietnam"
+internal_link_targets: "vietnam-motorbike-licence-classes-explained, electric-bike-licence-vietnam, can-tourists-ride-motorbike-vietnam, helmet-law-vietnam", what-is-a-50cc-motorbike-vietnam, riding-50cc-at-16-vietnam, 50cc-fines-vietnam, can-foreigners-ride-50cc-vietnam
 ---
 
 Short answer: bikes of 50cc or less do not require a driving licence in Vietnam, but there are conditions, and "50cc means no rules" is wrong.
@@ -30,7 +30,8 @@ Short answer: bikes of 50cc or less do not require a driving licence in Vietnam,
 Article 3 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) defines "xe gắn máy" (mopeds) as two- or three-wheel engine-driven vehicles designed for no more than 50 km/h, with engines of 50cc or less, or electric motors of 4 kW or less. The requirements are:
 
 - No driving licence needed
-- The rider must be at least 16 years old (Article 59)
+- The rider must be at least 
+16 years old (Article 59)
 - Article 58 requires moped riders to understand traffic rules, have basic vehicle-handling skills, and meet the age and health conditions
 
 One point that is often misread online: there is no rule that every 16-to-18-year-old must hold a training certificate before riding. Decree 151/2024/NĐ-CP organises road-safety knowledge and safe-moped-riding skills training for high-school and vocational students, and traffic police have publicly clarified that 16-to-18-year-olds may ride mopeds (including electric mopeds up to 4 kW) without a licence or certificate. The training requirement operates through schools, not as a universal riding permit.

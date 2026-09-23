@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "hill-starts-motorbike-slopes-vietnam, first-time-renting-a-motorbike-hanoi, automatic-vs-manual-motorbike-hanoi, lightest-motorbikes-for-new-riders, best-motorbike-for-hanoi-traffic, how-to-rent-a-motorbike-hanoi, semi-automatic-gearbox-explained"
+internal_link_targets: "hill-starts-motorbike-slopes-vietnam, first-time-renting-a-motorbike-hanoi, automatic-vs-manual-motorbike-hanoi, lightest-motorbikes-for-new-riders, best-motorbike-for-hanoi-traffic, how-to-rent-a-motorbike-hanoi, semi-automatic-gearbox-explained", learning-to-ride-on-50cc-vietnam
 ---
 
 Ease on a motorbike is measurable: weight, seat height, throttle manners, and how little there is to operate. Ranked by what actually makes a first-week rider safe.
@@ -35,7 +35,8 @@ Day rates: 150,000-200,000 VND; contact us to confirm current availability.
 
 ## Nearly as easy: licence-free e-bikes
 
-For riders with no motorcycle licence at all, a licence-free e-bike is both the legal answer and the easiest machine: bicycle-like controls, low speeds, no gears, no petrol. It cannot keep up
+For riders with no motorcycle licence at all, a licence-free e-bike is both the legal answer and the easiest machine: bicycle-like controls, low speeds, no g
+ears, no petrol. It cannot keep up
  with full traffic, but inside neighbourhood streets that is a feature for a beginner.
 
 ## The middle option: semi-automatic underbones
