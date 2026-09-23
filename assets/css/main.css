@@ -116,7 +116,10 @@ drop-btn:focus-visible {
 }
 .nav-drop-btn:hover { color: var(--accent); }
 .nav-drop-btn .chev { transition: transform var(--t-fast); }
-.nav-group.open .nav-drop-btn, .nav-group.current > .nav-drop-btn { color: var(--accent); }
+/* OPEN state: neutral, never the accent/current color */
+.nav-group.open > .nav-drop-btn { color: var(--fg); background: var(--bg-subtle); }
+/* CURRENT state: accent only when actually viewing one of the group's hubs/articles */
+.nav-group.current > .nav-drop-btn, .nav-group.current.open > .nav-drop-btn { color: var(--accent); }
 .nav-group.open .nav-drop-btn .chev { transform: rotate(180deg); }
 .nav-dropdown {
   display: none; position: absolute; top: calc(100% + 6px); left: 0; z-index: 70;
@@ -125,6 +128,11 @@ drop-btn:focus-visible {
   box-shadow: var(--shadow-2);
 }
 .nav-group.open > .nav-dropdown { display: block; }
+/* Hover bridge (desktop only): keeps the 6px visual offset but lets the pointer
+   travel from parent button to dropdown without leaving the .nav-group hit area */
+@media (min-width: 1280px) {
+  .nav-group.open > .nav-dropdown::before { content: ""; position: absolute; top: -6px; left: 0; right: 0; height: 6px; }
+}
 .nav-group.nav-more > .nav-dropdown { left: auto; right: 0; }
 .nav-dropdown a {
   display: block; padding: 8px 12px; border-radius: var(--r-sm);
