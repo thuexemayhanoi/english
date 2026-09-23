@@ -38,7 +38,7 @@
     month: ['monthly', 'month', 'long term', 'long-term', 'longer term'],
     deposit: ['deposit', 'security'],
     insurance: ['insurance', 'insured', 'coverage', 'cover'],
-    delivery: ['deliver', 'delivery', 'pickup', 'pickup', 'drop off', 'dropoff', 'bring the bike', 'bring bike'],
+    delivery: ['deliver', 'delivery', 'pickup', 'pick up', 'drop off', 'dropoff', 'bring the bike', 'bring bike'],
     location: ['address', 'location', 'where', 'located', 'find you', 'shop', 'based'],
     hours: ['opening hours', 'hours', 'open', 'close', 'closing', 'what time'],
     contact: ['whatsapp', 'zalo', 'phone', 'call', 'contact', 'number'],
@@ -69,8 +69,7 @@
   ];
 
   // ---------- Lightweight typo correction ----------
-  // Small dictionary of high-value terms; edit distance 1 only
-, length >= 5.
+  // Small dictionary of high-value terms; edit distance 1 only, length >= 5.
   var DICT = ['licence', 'license', 'motorbike', 'motorcycles', 'motorcycle', 'scooter', 'deposit',
     'insurance', 'helmet', 'delivery', 'availability', 'vietnam', 'hanoi', 'vision', 'airblade',
     'blade', 'sirius', 'monthly', 'weekly', 'rental', 'tourist', 'traveller', 'traveler',
@@ -125,8 +124,7 @@
       }
       if (parsed.model) break;
     }
-    // 50c
-c as a subject (not a model with prices)
+    // 50cc as a subject (not a model with prices)
     parsed.c50 = hasRaw('50cc', '50 cc', 'moped');
     parsed.electric = hasRaw('electric', 'e-bike', 'e bike', 'ebike');
 
@@ -161,8 +159,7 @@ c as a subject (not a model with prices)
     var followUp = has('what about', 'and the', 'monthly', 'per month', 'per week', 'per day') ||
       tokens.filter(function (t) { return !STOP[t]; }).length <= 3;
     if (!parsed.model && ctx.model && (followUp || parsed.period)) parsed.model = ctx.model;
-    if (!parsed.intents.price && !parsed.i
-ntents.licence && ctx.intent && followUp) parsed.intents[ctx.intent] = true;
+    if (!parsed.intents.price && !parsed.intents.licence && ctx.intent && followUp) parsed.intents[ctx.intent] = true;
     if (parsed.c50 && ctx.intent === 'licence' && !parsed.intents.licence) parsed.intents.licence = true;
     if (parsed.electric && ctx.intent === 'licence' && !parsed.intents.licence) parsed.intents.licence = true;
 
@@ -225,8 +222,7 @@ ntents.licence && ctx.intent && followUp) parsed.intents[ctx.intent] = true;
 
     // model availability question
     if (p.intents.availability && p.model) {
-      return { 
-text: p.model + ' is listed in Nguyen Tu\u2019s published rental information. ' + av, model: p.model, intent: 'availability' };
+      return { text: p.model + ' is listed in Nguyen Tu\u2019s published rental information. ' + av, model: p.model, intent: 'availability' };
     }
     if (p.intents.availability && p.c50) {
       return { text: '50cc motorbikes have historically been offered. ' + av, intent: 'availability' };
@@ -264,8 +260,7 @@ text: p.model + ' is listed in Nguyen Tu\u2019s published rental information. ' 
 
     // monthly without a specific model
     if (p.period === 'month' && !p.model && !p.intents.price) {
-      return { text: 'Yes — monthly rental is available. Rental periods: 
-' + (biz.rental_periods || '') + '. ' + av, intent: 'rent' };
+      return { text: 'Yes — monthly rental is available. Rental periods: ' + (biz.rental_periods || '') + '. ' + av, intent: 'rent' };
     }
 
     if (p.intents.deposit) return { text: 'Deposit: ' + (biz.deposit || ''), intent: 'deposit' };
@@ -303,8 +298,7 @@ text: p.model + ' is listed in Nguyen Tu\u2019s published rental information. ' 
         if (body && hits(body, tok)) { score += 2; m = true; }
         if (m) matched++;
       });
-      var co
-verage = tokens.length ? matched / tokens.length : 0;
+      var coverage = tokens.length ? matched / tokens.length : 0;
       score += coverage * 10;
       // exact phrase bonuses
       if (qphrase.length > 8) {
@@ -351,8 +345,7 @@ verage = tokens.length ? matched / tokens.length : 0;
     var parsed = parseQuery(q, ctx);
 
     var newCtx = {
-      model: parsed.
-model || ctx.model || null,
+      model: parsed.model || ctx.model || null,
       intent: Object.keys(parsed.intents)[0] || ctx.intent || null,
       topic: ctx.topic || null,
       url: ctx.url || null
@@ -397,8 +390,7 @@ model || ctx.model || null,
 
     // 3. Safe fallback
     return {
-      html: "<p>I couldn't find a reliable answer in the 
-current Nguyen Tu guides.</p>",
+      html: "<p>I couldn't find a reliable answer in the current Nguyen Tu guides.</p>",
       sources: [], followUps: [], ctx: newCtx, confidence: 'low', fallback: true
     };
   }
