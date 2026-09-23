@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — Yamaha VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: automatic-vs-manual-motorbike-hanoi, scooter-vs-semi-automatic-hanoi, centrifugal-clutch-care-semi-automatic, hard-shifting-gearbox-motorbike, honda-wave-alpha-110-review
+internal_link_targets: automatic-vs-manual-motorbike-hanoi, scooter-vs-semi-automatic-hanoi, centrifugal-clutch-care-semi-automatic, hard-shifting-gearbox-motorbike, honda-wave-alpha-110-review, riding-semi-automatic-first-time, when-to-shift-gears-underbone, renting-semi-automatic-underbone-hanoi
 ---
 
 Most of the motorbikes you will see in Vietnam - and many of the ones you can rent in Hanoi - use a gearbox format that confuses first-time visitors: it shifts like a manual motorcycle but has no clutch lever. Here is how the semi-automatic underbone gearbox actually works, using manufacturer-published examples (retrieved 23 September 2026).
@@ -29,7 +29,8 @@ The key component is a centrifugal clutch. Instead of a lever-operated clutch, t
 
 ## The rotary four-speed
 
-The other half of the format is the gear pattern. Honda publishes the same layout for the Wave Alpha, Blade, Wave RSX and Future 125 FI: a mechanical four-speed rotary gearbox. The shifter clicks down through the gears and then wraps back around to the top - neutral, first, second, third, fourth and back to neutral - so you never run out of clicks at either end.
+The other half of the format is the gear pattern. Honda publishes the same layout for the Wav
+e Alpha, Blade, Wave RSX and Future 125 FI: a mechanical four-speed rotary gearbox. The shifter clicks down through the gears and then wraps back around to the top - neutral, first, second, third, fourth and back to neutral - so you never run out of clicks at either end.
 
 ## What you actually do when riding
 
