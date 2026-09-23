@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "General guidance; procedures per manual"
-internal_link_targets: "flooded-streets-riding-motorbike-vietnam, check-motorbike-after-heavy-rain, check-motorbike-after-heavy-rain, water-in-fuel-motorbike"
+internal_link_targets: "flooded-streets-riding-motorbike-vietnam, check-motorbike-after-heavy-rain, motorbike-wont-start-after-washing, water-in-fuel-motorbike"
 ---
 
 Hanoi's rainy season puts water on the street faster than drains can take it, and motorbikes wade through it because they must. Riding through standing water is one skill (and a risk decision covered in flooded-streets-riding-motorbike-vietnam); what happens to the machine afterwards is this article. Deep water leaves souvenirs in exactly four systems: brakes, electrics, air intake, and oil.

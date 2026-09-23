@@ -6,11 +6,12 @@ Status: ACTIVE CONTENT MATRIX
 - 66 law/licence articles are published and VERIFIED (Slice 1: 2026-09-21; Slices 2-4: 2026-09-22 — see docs/matrix/batch-1-status.md). Cluster 11 is complete: 66 of 66 intents published, 0 proposed.
 - 81 rental articles are published (cluster 1, Batch 2, 2026-09-22 — see docs/matrix/batch-2-status.md). Cluster 1 is COMPLETE: 81 of 81 intents published, 0 proposed. All business facts come exclusively from docs/OWNER-FACTS.md.
 - 45 monthly & long-term rental articles are published (cluster 2, Batch 3, 2026-09-22 — see docs/matrix/batch-3-status.md). Cluster 2 is COMPLETE: 45 of 45 intents published, 0 proposed. Monthly prices are published only for the models named in docs/OWNER-FACTS.md; all other models point to contact for current monthly pricing.
-- Cluster 10 (riding skills & safety) is COMPLETE: 55 of 55 intents published (30 in Batch 4 + 25 in Batch 5, 2026-09-22 — see docs/matrix/batch-4-status.md and docs/matrix/batch-5-status.md). Cluster 8 (maintenance & repair): 70 of 120 published (20 in Batch 4 + 25 in Batch 5 + 25 in Batch 6); 50 remaining (Part 4 next). Cluster 9 (parts, accessories & riding gear): 25 of 90 published (Batch 6); 65 remaining (Part 2 next). Safety articles separate practical riding advice from legal requirements and link to the VERIFIED cluster-11 legal articles; maintenance articles contain no invented torque values, capacities, pressures, electrical values or service intervals.
+- Cluster 10 (riding skills & safety) is COMPLETE: 55 of 55 intents published (30 in Batch 4 + 25 in Batch 5, 2026-09-22 — see docs/matrix/batch-4-status.md and docs/matrix/batch-5-status.md). Cluster 8 (maintenance & repair) is COMPLETE: 120 of 120 intents published (20 in Batch 4 + 25 in Batch 5 + 25 in Batch 6 + 50 in Batch 7, 2026-09-23 — see docs/matrix/batch-7-status.md). Cluster 9 (parts, accessories & riding gear): 25 of 90 published (Batch 6); 65 remaining (Part 2 next). Safety articles separate practical riding advice from legal requirements and link to the VERIFIED cluster-11 legal articles; maintenance articles contain no invented torque values, capacities, pressures, electrical values or service intervals.
 - The remaining rows are production candidates according to batch order. They are NOT approved for immediate wholesale publication: each batch is written, QA'd and committed through the publishing workflow (README → PUBLISHING WORKFLOW).
-- docs/matrix/batch-1-status.md is the authoritative record for legal Batch 1 progress; docs/matrix/batch-2-status.md is the authoritative record for the rental batch; docs/matrix/batch-3-status.md is the authoritative record for the monthly & long-term rental batch. docs/matrix/batch-4-status.md is the authoritative record for the safety + maintenance Part 1 batch; docs/matrix/batch-5-status.md is the authoritative record for the safety remainder + maintenance Part 2 batch. docs/matrix/batch-6-status.md is the authoritative record for the maintenance Part 3 + parts/gear Part 1 batch (2026-09-23).
+- docs/matrix/batch-1-status.md is the authoritative record for legal Batch 1 progress; docs/matrix/batch-2-status.md is the authoritative record for the rental batch; docs/matr
+ix/batch-3-status.md is the authoritative record for the monthly & long-term rental batch. docs/matrix/batch-4-status.md is the authoritative record for the safety + maintenance Part 1 batch; docs/matrix/batch-5-status.md is the authoritative record for the safety remainder + maintenance Part 2 batch. docs/matrix/batch-6-status.md is the authoritative record for the maintenance Part 3 + parts/gear Part 1 batch (2026-09-23). docs/matrix/batch-7-status.md is the authoritative record for the maintenance Part 4 batch (2026-09-23, cluster 8 complete).
 
-Full row-level matrix: docs/matrix/master-matrix.csv. The CSV currently holds 342 committed rows: 81 rental-cluster rows (81 published), 45 monthly & long-term rental rows (45 published), the complete 66-row cluster-11 law/licence slice (66 published; renumbered 2026-09-22 from colliding MM-0082–MM-0147 IDs to the unique LAW-0001–LAW-0066 range — see docs/matrix/batch-4-status.md), the complete 55-row cluster-10 safety slice (55 published), 70 cluster-8 maintenance rows (70 published, 50 planned remaining) and 25 cluster-9 parts/gear rows (25 published, 65 planned remaining). Rows for the remaining clusters are authored from this planning framework batch by batch, before each batch is written.
+Full row-level matrix: docs/matrix/master-matrix.csv. The CSV currently holds 392 committed rows: 81 rental-cluster rows (81 published), 45 monthly & long-term rental rows (45 published), the complete 66-row cluster-11 law/licence slice (66 published; renumbered 2026-09-22 from colliding MM-0082–MM-0147 IDs to the unique LAW-0001–LAW-0066 range — see docs/matrix/batch-4-status.md), the complete 55-row cluster-10 safety slice (55 published), 120 cluster-8 maintenance rows (120 published, cluster 8 complete) and 25 cluster-9 parts/gear rows (25 published, 65 planned remaining). Rows for the remaining clusters are authored from this planning framework batch by batch, before each batch is written.
 Intent store with provenance: docs/data/intents.csv.
 
 ## Summary
@@ -26,7 +27,8 @@ The matrix is provisional: the full 6–12 month GSC CSV was not supplied (limit
 
 ## Row schema (per row in CSV)
 
-ID · primary topic · proposed title · primary query/intention · search intent · cluster · subcluster · content type · target audience · source basis · fresh research required · legal/technical sensitivity · closest related article · differentiation reason · internal-link targets · status
+ID · primary topic · proposed title · primary query/intention · search intent · cluster · su
+bcluster · content type · target audience · source basis · fresh research required · legal/technical sensitivity · closest related article · differentiation reason · internal-link targets · status
 
 Source basis values: owner-history / gsc / owner-history+gsc / skeleton / research / skeleton+research — generated variants are never presented as customer quotes or GSC queries.
 
@@ -61,7 +63,8 @@ Source basis values: owner-history / gsc / owner-history+gsc / skeleton / resear
 
 ## Verification flags carried per row
 
-R1 legal (222 rows: government sources, last_reviewed mandatory) · R2 travel/route · R3 manufacturer specs · R4 business facts (OWNER-FACTS only) · R5 technical service data.
+R1 legal (222 r
+ows: government sources, last_reviewed mandatory) · R2 travel/route · R3 manufacturer specs · R4 business facts (OWNER-FACTS only) · R5 technical service data.
 
 ## Hard rules carried into production
 
@@ -76,7 +79,7 @@ R1 legal (222 rows: government sources, last_reviewed mandatory) · R2 travel/ro
 3. Cluster 10 + cluster 8 part 1 — COMPLETE (Batch 4)
 4. Cluster 10 remainder + cluster 8 part 2 — COMPLETE (Batch 5)
 5. Cluster 8 part 3 (25) + cluster 9 part 1 (25) — COMPLETE (Batch 6, 2026-09-23)
-6. Cluster 8 part 4 (50 remaining) + cluster 9 part 2 (65 remaining) — NEXT
+6. Cluster 8 part 4 (50 remaining) — COMPLETE (Batch 7, 2026-09-23); cluster 9 part 2 (65 remaining) — NEXT
 7. Clusters 3–4 (spec population from manufacturer pages into MODEL-DATABASE first)
 8. Clusters 5–6
 7. Cluster 7 electric (MODEL-DATABASE electric fields)

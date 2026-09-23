@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "General guidance; measurement of wear items per manual or mechanic"
-internal_link_targets: "low-compression-signs-motorbike, repair-or-replace-motorbike-parts, keeping-old-motorbike-alive-high-mileage, motorbike-service-where-vietnam"
+internal_link_targets: "low-compression-signs-motorbike, repair-or-replace-motorbike-parts, motorbike-maintenance-basics-vietnam, motorbike-service-where-vietnam"
 ---
 
 Vietnam runs on high-mileage motorbikes: bikes that have crossed 50,000, 80,000 kilometres and keep serving. Old bikes are honest — everything wrong with them is knowable, and every part is available. The skill of keeping one alive is not mechanical talent; it is a spending strategy. Fix what stops you, prevent what strands you, ignore what is merely cosmetic.
