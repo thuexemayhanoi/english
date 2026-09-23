@@ -20,17 +20,17 @@ jobs:
       - name: Apply batch docs sync
         id: apply
         continue-on-error: true
-        run: node scripts/apply-batch-14-docs.js
+        run: node scripts/apply-batch-14b-docs.js
       - name: Commit and push if changed
         if: steps.apply.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md docs/MASTER-MATRIX.md docs/MODEL-DATABASE.md docs/matrix/master-matrix.csv sync-debug.txt
+          git add README.md sync-debug.txt
           if git diff --cached --quiet; then
             echo "No changes to sync."
           else
-            git commit -m "Docs sync: apply README/MASTER-MATRIX/MODEL-DATABASE/master-matrix state update (batch 14)"
+            git commit -m "Docs sync: apply README deployment-state update (batch 14 verification)"
             git push
           fi
       - name: Publish sync diagnostics on failure
@@ -42,6 +42,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No diagnostics produced."
           else
-            git commit -m "Docs sync diagnostics (batch 14 validation failure)"
+            git commit -m "Docs sync diagnostics (batch-14b validation failure)"
             git push
           fi
