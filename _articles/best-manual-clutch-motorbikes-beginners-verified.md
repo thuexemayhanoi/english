@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn and yamaha-motor.com.vn - official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-winner-r-review, yamaha-exciter-155-vva-review, honda-cbr150r-review, automatic-vs-manual-motorbike-hanoi, assist-slipper-clutch-explained, best-150cc-manual-motorbikes-vietnam-verified
+internal_link_targets: honda-winner-r-review, yamaha-exciter-155-vva-review, honda-cbr150r-review, automatic-vs-manual-motorbike-hanoi, assist-slipper-clutch-explained, best-150cc-manual-motorbikes-vietnam-verified, how-to-ride-manual-clutch-motorbike-vietnam, first-hour-manual-clutch-practice-checklist, how-long-to-learn-manual-motorbike
 ---
 
 Moving from a semi-automatic to a manual-clutch bike (xe con tay) is the biggest step in Vietnamese riding. Only three current manual bikes have fully verified manufacturer data (retrieved 23 September 2026) - here is how they rank for a first-time clutch rider.
@@ -35,7 +35,8 @@ Moving from a semi-automatic to a manual-clutch bike (xe con tay) is the biggest
 
 ## Why the Exciter is the easiest clutch bike
 
-The Exciter's Assist and Slipper clutch is the beginner's unfair advantage: assist makes the lever lighter to pull, and the slipper function smooths clumsy downshifts - exactly the two mistakes new clutch riders make. It is also the lightest of the three (123 kg wet) and the cheapest to run at a claimed 2.07 L/100 km.
+The Exciter's Assist and Slipper clutch is the beginner's unfair advantage: assist makes the lever lighter to pull, and the slipper function smooths clumsy downshifts - exactly the two mist
+akes new clutch riders make. It is also the lightest of the three (123 kg wet) and the cheapest to run at a claimed 2.07 L/100 km.
 
 ## Why the Winner R is the value choice
 
