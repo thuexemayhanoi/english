@@ -18,15 +18,15 @@ jobs:
         with:
           node-version: '20'
       - name: Apply batch docs sync
-        run: node scripts/apply-batch-docs.js docs/sync/batch-13b-readme-sync.json
+        run: node scripts/apply-batch-14-docs.js
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md docs/matrix/master-matrix.csv
+          git add README.md docs/MASTER-MATRIX.md docs/MODEL-DATABASE.md docs/matrix/master-matrix.csv
           if git diff --cached --quiet; then
             echo "No changes to sync."
           else
-            git commit -m "Docs sync: apply README deployment-state update (batch 13 verification)"
+            git commit -m "Docs sync: apply README/MASTER-MATRIX/MODEL-DATABASE/master-matrix state update (batch 14)"
             git push
           fi
