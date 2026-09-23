@@ -23,7 +23,7 @@ sources:
 internal_link_targets: motorbike-fines-vietnam-overview, helmet-rules-50cc-mopeds, drink-driving-limits-motorbike-vietnam, 50cc-licence-vietnam, 50cc-motorbike-myths-law-vietnam
 ---
 
-A moped rider flicks through exactly the same fine schedule as a motorbike rider, with one narrow set of exceptions around licences. Here is the honest map.
+A 50cc moped rider flicks through exactly the same fine schedule as a motorbike rider, with one narrow set of exceptions around licences. Here is the honest map.
 
 ## What applies identically (Article 7, Decree 168/2024/NĐ-CP)
 
@@ -33,7 +33,8 @@ A moped rider flicks through exactly the same fine schedule as a motorbike rider
 - Red light: 4,000,000–6,000,000 VND
 - Wrong way down a one-way street: 4,000,000–6,000,000 VND
 - Pavement riding (non-exempt): 4,000,000–6,000,000 VND
-- Alcohol bands: 2–3, 6–8, up to 8–10 million VND at the highest band
+- Alcohol bands: 2–3
+, 6–8, up to 8–10 million VND at the highest band
 
 The decree's Article 7 covers mopeds and motorbikes together at the same levels. Only pedal-type electric bicycles fall under the separate, lower non-motorised schedule.
 
