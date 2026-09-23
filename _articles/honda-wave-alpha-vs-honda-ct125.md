@@ -1,39 +1,57 @@
 ---
-title: "Honda Wave Alpha vs Honda CT125: Daily Workhorse or Trail Cub?"
+title: "Honda Wave Alpha vs Honda CT125: Cheapest Cub or Tallest Cub?"
 slug: honda-wave-alpha-vs-honda-ct125
-description: "Honda Wave Alpha vs Honda CT125 compared on verified Honda Vietnam specs — price, torque, ground clearance and the riding each was built for."
+description: "Wave Alpha 110 vs CT125 on verified Honda Vietnam specs - the 19-million entry underbone against the 86-million trail Cub."
 category: motorcycles
 tags:
   - "honda wave alpha"
   - "honda ct125"
   - "motorcycle comparison"
-  - "underbone vietnam"
+  - "adventure cub"
 content_type: model-comparison
 search_intent: commercial
 topic_cluster: motorcycles
 subcluster: "4.2 model-comparisons"
-date_published: 2026-09-23
-last_reviewed: 2026-09-23
+date_published: 2026-09-24
+last_reviewed: 2026-09-24
 sources:
-  - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23)"
+  - "honda.com.vn and yamaha-motor.com.vn - official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-wave-alpha-110-review, honda-ct125-review, best-110cc-underbones-vietnam-verified, underbone-wheelbase-ground-clearance-explained, gravel-roads-motorbike-vietnam
+internal_link_targets: honda-wave-alpha-110-review, honda-ct125-review, honda-blade-vs-honda-ct125, honda-future-125-vs-honda-ct125, cheapest-new-underbones-vietnam-verified, underbone-wheelbase-ground-clearance-explained
 ---
 
-Two Honda underbones, two completely different job descriptions. The Wave Alpha 110 is the cheapest motorcycle on Honda Vietnam's current list; the CT125 is a purpose-built trail Cub with the highest ground clearance of any bike in this comparison set. All figures are official Honda VN specifications (retrieved 23 September 2026).
+The Wave Alpha and the CT125 are both Hondas with step-through frames - and that is where the similarity ends. One is the cheapest new underbone on Honda Vietnam's price list; the other is a tall, trail-styled Cub that costs more than four times as much. All figures below are from Honda Vietnam's official pages (retrieved 23 September 2026).
 
-## Price and purpose
+## The core difference
 
-Wave Alpha: 18,841,091 VND list. CT125: 85,997,455 VND. That gap is the whole story: one is transport for daily Hanoi life, the other a leisure and adventure machine. If you only need to cross the city cheaply, the Wave Alpha answers; the CT125 earns its price on rough tracks, not on commute lanes.
+The Wave Alpha 110 is 109.2 cc, air-cooled, 6.12 kW at 7,500 rpm, with a four-speed rotary gearbox and a 3.7-litre tank. The CT125 is 123.9 cc, air-cooled, 6.76 kW at 6,250 rpm, a four-speed gearbox, a 5.4-litre tank, an 800 mm seat and 165 mm of ground clearance - the highest in Honda Vietnam's current underbone line-up.
 
-## Engines and gearing
+## The verified numbers
 
-Wave Alpha: 109.2 cc, air-cooled, 6.12 kW at 7,500 rpm, 8.44 Nm at 5,500 rpm, four-speed rotary gearbox with electric start. CT125: 123.9 cc, air-cooled, 6.76 kW at 6,250 rpm but a stronger 10.9 Nm at just 4,750 rpm, four-speed. The CT125's torque arrives lower and fatter, which is exactly what you want when climbing a muddy embankment at walking pace; the Wave Alpha's tune favours flat-road frugality.
+| Spec | Wave Alpha 110 | CT125 |
+|---|---|---|
+| Engine | 109.2 cc, air-cooled | 123.9 cc, air-cooled |
+| Max power | 6.12 kW @ 7,500 rpm | 6.76 kW @ 6,250 rpm |
+| Max torque | 8.44 Nm @ 5,500 rpm | 10.9 Nm @ 4,750 rpm |
+| Fuel tank | 3.7 L | 5.4 L |
+| Claimed economy | 1.72 L/100 km | 1.61 L/100 km |
+| Seat height | 770 mm | 800 mm |
+| Kerb weight | 96 kg | 117 kg |
+| Ground clearance | 134 mm | 165 mm |
+| List price | 18,841,091 VND | 85,997,455 VND |
 
-## Clearance, seat and weight
+Real-world fuel economy varies with speed, load and conditions; both figures are manufacturer claims.
 
-CT125: 165 mm ground clearance, 800 mm seat, 117 kg, 5.4-litre tank. Wave Alpha: 134 mm clearance, 770 mm seat, 96 kg, 3.7 litres. The CT125 sits higher, carries more fuel and shrugs off ruts; the Wave Alpha is over 20 kg lighter, easier to paddle through a market alley and nearly as frugal at 1.72 L/100 km versus the CT125's 1.61 L/100 km — both manufacturer figures, and both move with real-world load and speed.
+## What it means on the road
 
-## Which one?
+The Wave Alpha is the lightest bike in the verified range at 96 kg, and its 1.72 L/100 km claim is honest, simple transport. The CT125 is 21 kg heavier, 30 mm taller at the seat, and shaped for lanes that the Wave Alpha would rather avoid - its 165 mm clearance and 80/90-17 tyres front and rear swallow kerbs, gravel and broken pavement.
 
-Choose by terrain. City-only riders are perfectly served by the Wave Alpha class — it is one of the two price-published rental classes at Nguyen Tu at 150,000 VND per day. Riders who head for gravel, river tracks and mountain trails should look at the CT125; pair it with our gravel-road riding guide. Contact us to confirm current availability of either model.
+Note the character difference in the power delivery: the Wave Alpha peaks at 7,500 rpm; the CT125 delivers its 10.9 Nm low at 4,750 rpm, which is exactly what you want when crawling over rough ground.
+
+## Which one for you?
+
+If your riding is city commuting on maintained roads, the Wave Alpha wins on every number that matters to a daily rider, and costs a quarter as much. If your routes include construction zones, rural lanes or you simply want one bike for city and weekend trails, the CT125 is the only Honda underbone built for it.
+
+## Renting either one
+
+The Honda Wave class is our price-published rental class at 150,000 VND per day - contact us to confirm which Wave version is currently in the fleet. The CT125 is not price-published: contact us to confirm current availability. Insurance is not included in rentals - customers arrange their own.
