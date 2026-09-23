@@ -27,7 +27,7 @@ Larger, wider pegs spread the load — long rides stop the "standing on a nail" 
 
 ## The trade-offs
 
-Wider pegs reduce lean clearance — on a scooter this is trivial; on a manual bike dragged pegs are a real limit, so check width against how you actually corner. Cleated metal pegs chew boot soles faster. Lowering pegs reduces ground clearance and can bring your knees near the levers — small changes, tested rides. And pegs are a wear item: replace, do not repair, bent mounting hardware, and let a mechanic judge anything involving the frame mount — the conversation guidance is talking-to-mechanic context in outside-repair-shops articles.
+Wider pegs reduce lean clearance — on a scooter this is trivial; on a manual bike dragged pegs are a real limit, so check width against how you actually corner. Cleated metal pegs chew boot soles faster. Lowering pegs reduces ground clearance and can bring your knees near the levers — small changes, tested rides. And pegs are a wear item: replace, do not repair, bent mounting hardware, and let a mechanic judge anything involving the frame mount — the conversation guidance is in talking-to-mechanic-vietnam.
 
 ## The rest of the legroom picture
 

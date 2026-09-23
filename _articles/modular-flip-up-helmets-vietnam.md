@@ -1,7 +1,7 @@
 ---
 title: "Modular Flip-Up Helmets: Convenience vs Protection"
 slug: modular-flip-up-helmets-vietnam
-description: "Flip-up modular helmets explained — when the chin bar convenience is worth it, and what the "P" and "NP" labels mean."
+description: "Flip-up modular helmets explained — chin-bar convenience, open-riding approval limits, and what they mean in Vietnam."
 category: parts-gear
 tags:
   - "modular helmet"

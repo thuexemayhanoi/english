@@ -27,7 +27,7 @@ All the bike’s weight concentrates on the stand’s tiny pad. On firm ground t
 
 ## The solutions
 
-A side stand extension — a larger footprint plate bolted or bonded to the stand’s pad — spreads the load and is the permanent fix; they cost little and fit most stands. A carry puck (a small plate on a cord) does the same job portably; keep one under your seat for gravel lots and beach trips. Parking discipline: point the rear wheel... rather, leave the bike in gear or turned into the slope, choose the firmest available spot, and on soft ground consider the centre stand if the bike has one — the full stand comparison is stands-side-vs-centre-paddock.
+A side stand extension — a larger footprint plate bolted or bonded to the stand’s pad — spreads the load and is the permanent fix; they cost little and fit most stands. A carry puck (a small plate on a cord) does the same job portably; keep one under your seat for gravel lots and beach trips. Parking discipline: leave the bike in gear or with the wheel turned into the slope, and choose the firmest available spot; on soft ground consider the centre stand if the bike has one — the full stand comparison is stands-side-vs-centre-paddock.
 
 ## The city layer
 

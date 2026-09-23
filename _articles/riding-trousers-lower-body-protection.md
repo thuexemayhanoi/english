@@ -27,7 +27,7 @@ Two different jobs: abrasion (the fabric between your skin and the asphalt) and 
 
 ## The options, from casual to dedicated
 
-Armoured riding jeans look like normal jeans but contain abrasion-resistant fibre and hip and knee pockets. For commuters who cannot change clothes, they are the practical compromise. Textile riding trousers with zip vents and removable thermal liners are the all-weather standard — in Vietnam, buy them for the venting, not the liner. Mesh riding trousers are near-transparent to the wind and the honest hot-weather choice. And dedicated off-road knee-and-shin guards are worn over or under trousers for rough riding — the broader off-road kit is in offroad-riding-gear-basics? For city use, vented textile or armoured jeans cover most riders.
+Armoured riding jeans look like normal jeans but contain abrasion-resistant fibre and hip and knee pockets. For commuters who cannot change clothes, they are the practical compromise. Textile riding trousers with zip vents and removable thermal liners are the all-weather standard — in Vietnam, buy them for the venting, not the liner. Mesh riding trousers are near-transparent to the wind and the honest hot-weather choice. And dedicated off-road knee-and-shin guards are worn over or under trousers for rough riding — the broader off-road kit is covered in offroad-riding-gear-basics. For city use, vented textile or armoured jeans cover most riders.
 
 ## Fit and the Vietnam reality
 

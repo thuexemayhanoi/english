@@ -27,11 +27,11 @@ Gravity or vacuum-driven dispensers meter oil to the chain as you ride — the g
 
 ## The case for
 
-High-mileage riders, daily commuters on manual bikes, and anyone who rides in rain regularly (chain lube washes off fast — the riding context is riding-motorbike-heavy-rain-vietnam): the oiler keeps the chain consistently lubricated, which extends chain and sprocket life meaningfully, because uneven lubrication is what kills chains — the manual baseline remains chain-maintenance-motorbike-vietnam, and the cost of a worn set is in chain-sprocket-replacement-motorbike. 
+High-mileage riders, daily commuters on manual bikes, and anyone who rides in rain regularly (chain lube washes off fast — the riding context is riding-motorbike-heavy-rain-vietnam): the oiler keeps the chain consistently lubricated, which extends chain and sprocket life meaningfully, because uneven lubrication is what kills chains — the manual baseline remains chain-maintenance-motorbike-vietnam, and the cost of a worn set is in chain-sprocket-replacement-motorbike.
 
 ## The case against
 
-If you ride a scooter with a shaft... no — oilers are for exposed chains, so scooter riders skip this entirely. Weekend riders who enjoy their maintenance routine gain little: a manual lube after rides takes two minutes, and the oiler’s reservoir still needs checking. Cheap manual drip kits exist; fully automatic kits cost more than several years of quality chain lube — the payback math is yours to run against your mileage.
+Oilers are for exposed chains — scooter riders with CVT transmissions skip this article entirely. Weekend riders who enjoy their maintenance routine gain little: a manual lube after rides takes two minutes, and the oiler’s reservoir still needs checking. Cheap manual drip kits exist; fully automatic kits cost more than several years of quality chain lube — the payback math is yours to run against your mileage.
 
 ## The habit regardless
 

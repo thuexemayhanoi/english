@@ -35,4 +35,4 @@ A steering lock is a deterrent, not armour: it is breakable with a hard pull on 
 
 ## Maintenance nobody thinks about
 
-Vietnam’s humidity seizes lock barrels: a drop of lock-safe lubricant a few times a year keeps yours from becoming a roadside emergency, and never force a resistant key — the ignition-switch failure modes in simple-electrical thinking apply here. A maintained lock is a used lock.
+Vietnam’s humidity seizes lock barrels: a drop of lock-safe lubricant a few times a year keeps yours from becoming a roadside emergency, and never force a resistant key — the ignition-switch failure modes in simple-electrical-faults-horn-switches-fuses apply here. A maintained lock is a used lock.

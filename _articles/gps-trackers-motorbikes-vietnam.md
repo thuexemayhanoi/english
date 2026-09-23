@@ -27,7 +27,7 @@ A tracker contains a GPS receiver (where the bike is), a cellular modem (how it 
 
 ## Installation realities
 
-Wiring a tracker means tapping into the bike’s 12V system — a job for someone competent, badly spliced electrics cause the faults described in wiring-connector thinking; if the bike is a rental, that is an unapproved modification, so ask first (the general rules are in rental agreements — motorbike-rental-agreement-hanoi context). Placement matters: hidden, so a thief cannot find and discard it in the first five minutes, but not so buried that the antenna loses signal. A tracker is a complement, not a substitute: a visible disc lock makes the opportununist walk away in the first place — disc-locks-chains-motorbike-security — and an alarm adds the noise layer (motorbike-alarms-vietnam).
+Wiring a tracker means tapping into the bike’s 12V system — a job for someone competent, because badly spliced electrics cause the faults described in wiring-connectors-humidity-motorbike; if the bike is a rental, that is an unapproved modification, so ask the owner first (see rental-motorbike-modifications). Placement matters: hidden, so a thief cannot find and discard it in the first five minutes, but not so buried that the antenna loses signal. A tracker is a complement, not a substitute: a visible disc lock makes the opportunist walk away in the first place — disc-locks-chains-motorbike-security — and an alarm adds the noise layer (motorbike-alarms-vietnam).
 
 ## The honest limits
 

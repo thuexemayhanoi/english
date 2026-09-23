@@ -31,7 +31,7 @@ Grips heat your palms; the backs of your hands still face the wind — which is 
 
 ## Installation realities
 
-It is an electrical job: a proper fused connection, clean handlebar surface, correct throttle-side clearance so heating does not bind the throttle tube, and routing that does not snag at full steering lock. Done badly, the failure modes are the electrical faults covered in simple-electrical-faults thinking; and on a rented bike this is a wiring modification — ask the owner first, the general rules are in the rental modification discussion. Power draw is modest but real; on a small battery the habit in battery-care-motorbike-vietnam matters, especially with the cold-start demands of winter (cold-start-motorbike-winter-vietnam).
+It is an electrical job: a proper fused connection, clean handlebar surface, correct throttle-side clearance so heating does not bind the throttle tube, and routing that does not snag at full steering lock. Done badly, the failure modes are the electrical faults covered in simple-electrical-faults-horn-switches-fuses; and on a rented bike this is a wiring modification — ask the owner first (see rental-motorbike-modifications). Power draw is modest but real; on a small battery the habit in battery-care-motorbike-vietnam matters, especially with the cold-start demands of winter (cold-start-motorbike-winter-vietnam).
 
 ## The honest alternative
 
