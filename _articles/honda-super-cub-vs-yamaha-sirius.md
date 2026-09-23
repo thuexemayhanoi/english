@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn and yamaha-motor.com.vn - official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-super-cub-c125-review, yamaha-sirius-rc-110-review, honda-wave-alpha-vs-super-cub, honda-ct125-vs-yamaha-sirius, premium-underbones-vietnam-verified, best-110cc-underbones-vietnam-verified
+internal_link_targets: honda-super-cub-c125-review, yamaha-sirius-rc-110-review, honda-wave-alpha-vs-honda-super-cub, honda-ct125-vs-yamaha-sirius, premium-underbones-vietnam-verified, best-110cc-underbones-vietnam-verified
 ---
 
 The Super Cub and the Sirius are the two most famous names in Vietnamese motorcycling - one for being the world's best-selling design, the other for being everywhere in Vietnam at the lowest possible price. Honda and Yamaha publish full specifications for the current versions (retrieved 23 September 2026).
@@ -34,6 +34,7 @@ The Sirius RC 110 is a 110.3 cc air-cooled semi-automatic with a four-speed rota
 | Max power | 5.9 kW @ 8,000 rpm | 6.87 kW @ 7,500 rpm |
 | Max torque | 9.0 Nm @ 5,000 rpm | 10.15 Nm @ 5,000 rpm |
 | Fuel tank | 4.2 L | 3.7 L |
+
 | Claimed economy | 2.08 L/100 km | 1.55 L/100 km |
 | Kerb weight | 100 kg wet | 109 kg |
 | List price | 21,993,000 VND (RC) | 88,353,813 VND |

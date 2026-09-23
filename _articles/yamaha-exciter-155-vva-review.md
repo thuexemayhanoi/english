@@ -30,8 +30,8 @@ The heart of the bike is a 155 cc single-cylinder four-stroke with VVA variable 
 
 ## Gearbox and clutch
 
-A six-speed gearbox keeps revs calm on long rides, and the clutch is an Assist and Slipper unit: assist reduces lever 
-effort in traffic, while the slipper function stops the rear wheel from locking up on aggressive downshifts. Yamaha highlights a shorter clutch lever travel than the previous 150 cc version. A pass-light switch - flashing the headlight to request an overtake - is a manual-clutch Exciter feature.
+A six-speed gearbox keeps
+ revs calm on long rides, and the clutch is an Assist and Slipper unit: assist reduces lever effort in traffic, while the slipper function stops the rear wheel from locking up on aggressive downshifts. Yamaha highlights a shorter clutch lever travel than the previous 150 cc version. A pass-light switch - flashing the headlight to request an overtake - is a manual-clutch Exciter feature.
 
 ## Chassis
 

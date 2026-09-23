@@ -26,8 +26,7 @@ If you picture "a motorbike in Vietnam", the machine in your head is probably so
 
 ## What Honda actually publishes
 
-The Wave Alpha 110 runs a 109.2 cc single-cylinder, four-stroke, air-cooled engine producing a maximum of 6.12 kW at 7,500 rpm and 8.44 Nm of torque at 5,500 rpm. Power runs through a mechanical four-speed rotary gearbox - the classic Vietnamese semi-automatic layout where your left foot shifts and there is no clutch lever. Starting is electric. The compression ratio is 9.0:1 and the bore and stro
-ke are 50.0 x 55.6 mm.
+The Wave Alpha 110 runs a 109.2 cc single-cylinder, four-stroke, air-cooled engine producing a maximum of 6.12 kW at 7,500 rpm and 8.44 Nm of torque at 5,500 rpm. Power runs through a mechanical four-speed rotary gearbox - the classic Vietnamese semi-automatic layout where your left foot shifts and there is no clutch lever. Starting is electric. The compression ratio is 9.0:1 and the bore and stroke are 50.0 x 55.6 mm.
 
 ## Running costs
 
