@@ -20,7 +20,9 @@ Authoritative publish/review record for Batch 17. Date: 2026-09-24 (Asia/Ho_Chi_
 ## Verification record
 
 - Verified 2026-09-24 (Asia/Ho_Chi_Minh): remote MAIN holds 703 article files in _articles/ (675 pre-batch + 28 batch-17 files), counted on the remote listing after the model part-commit; all 28 expected batch-17 slugs verified present on remote.
-- Quality Gate and Pages deployment: verified after the closing docs commit; state recorded in README DEPLOYMENT STATE. The gate on the first part-commit f91228f was expected to flag internal_link_targets referencing part-2 slugs (targets published in the immediately following commit d0e2e40); the gate on the final batch state is the pass/fail that counts, consistent with the batch-16 repair precedent.
+- Quality Gate: run 35912501199 on the closing commit d363a21 completed with SUCCESS (verified via the GitHub Actions API on 2026-09-24). d363a21 contains all 703 article files, so this gate result covers the full published batch state. Gates on the intermediate part-commits f91228f/d0e2e40 may flag internal_link_targets referencing slugs published in the immediately following part-commit; the gate on the final batch state is the pass/fail that counts, consistent with the batch-16 repair precedent.
+- Docs Sync workflow: run 35912501193 SUCCESS; bot commit 2a3b2a3 merged the 28 rows into docs/matrix/master-matrix.csv (675 -> 703) and applied the README/MASTER-MATRIX state patches; every anchor validated (sync-debug.txt committed).
+- Pages deployment / live runtime checks (2026-09-24, verified against the deployed site): /articles/ renders the 703-guide total; /topics/manual-clutch/ renders the 28-guide count and lists the batch-17 articles; batch-17 pages verified live: /articles/how-to-ride-manual-clutch-motorbike-vietnam/ and /articles/yamaha-pg-1-review/ (with the verified 113.7 cc / 190 mm content rendering).
 - Rows preserved verbatim in docs/matrix/batch-17-rows.csv; merged into docs/matrix/master-matrix.csv (675 -> 703) by the docs-sync workflow (scripts/apply-batch-17-docs.js, payload docs/sync/batch-17-docs-sync.json).
 
 ## Remaining cluster-5 work (next batch)
