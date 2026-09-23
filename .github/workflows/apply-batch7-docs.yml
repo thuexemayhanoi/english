@@ -2,7 +2,7 @@ name: Apply Batch 7 docs
 on:
   push:
     branches: [main]
-    paths: ['docs/matrix/batch-7-rows.csv']
+    paths: ['docs/matrix/batch-7-rows.csv', '.github/workflows/apply-batch7-docs.yml']
 permissions:
   contents: write
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 scripts/tmp-apply-batch7.py
+      - run: node scripts/tmp-apply-batch7.js
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
