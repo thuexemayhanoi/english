@@ -9,7 +9,18 @@ tags:
   - "vietnam scooters"
   - "buying a scooter"
 content_type: guide
-search_intent: The 125cc class is where most Vietnamese buyers and long-stay expats land: enough power for two and for ring-road speeds, modest fuel bills, and reasonable list prices. This guide uses only manufacturer-published figures (retrieved 23 September 2026) and flags every gap honestly.
+search_intent: commercial
+topic_cluster: scooters
+subcluster: "3.3 choosing-guides"
+date_published: 2026-09-23
+last_reviewed: 2026-09-23
+sources:
+  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
+  - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
+internal_link_targets: honda-vario-125-review, honda-lead-125-review, yamaha-janus-125-review, yamaha-freego-125-review, yamaha-gear-125-hybrid-review, yamaha-latte-125-review, honda-sh-mode-125-review, honda-vision-vs-honda-vario-125, best-155-160cc-scooters-vietnam, scooters-under-40-million-vietnam
+---
+
+The 125cc class is where most Vietnamese buyers and long-stay expats land: enough power for two and for ring-road speeds, modest fuel bills, and reasonable list prices. This guide uses only manufacturer-published figures (retrieved 23 September 2026) and flags every gap honestly.
 
 ## The verified 125 class
 
@@ -35,14 +46,3 @@ Honda does not publish output or economy figures for the current Lead 125 and Ai
 ## Renting
 
 Nguyen Tu publishes rental rates only for the models approved in its fact store - the Honda Air Blade category is listed at 200,000 VND day, 800,000 VND week, 1,400,000 VND month. For every other 125, contact us to confirm current availability. Also read the under-40-million price guide and the 155-160cc class guide before deciding the 125 is enough.
-topic_cluster: scooters
-subcluster: "3.3 choosing-guides"
-date_published: 2026-09-23
-last_reviewed: 2026-09-23
-sources:
-  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
-  - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-vario-125-review, honda-lead-125-review, yamaha-janus-125-review, yamaha-freego-125-review, yamaha-gear-125-hybrid-review, yamaha-latte-125-review, honda-sh-mode-125-review, honda-vision-vs-honda-vario-125, best-155-160cc-scooters-vietnam, scooters-under-40-million-vietnam
----
-
-undefined

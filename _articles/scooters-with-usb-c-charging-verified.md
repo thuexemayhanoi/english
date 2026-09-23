@@ -9,7 +9,18 @@ tags:
   - "charging"
   - "verified specs"
 content_type: guide
-search_intent: Phone navigation drains fast in Hanoi traffic, so a built-in charging port is a genuinely useful commuter feature. This list is built only from what manufacturer pages state (retrieved 23 September 2026) - port types are often unspecified, and we say so rather than guess.
+search_intent: commercial
+topic_cluster: scooters
+subcluster: "3.3 choosing-guides"
+date_published: 2026-09-23
+last_reviewed: 2026-09-23
+sources:
+  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
+  - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
+internal_link_targets: usb-chargers-motorbike-power, phone-mounts-motorbike-vietnam, honda-vario-125-review, honda-sh-mode-125-review, honda-air-blade-125-review, phone-use-while-riding-vietnam
+---
+
+Phone navigation drains fast in Hanoi traffic, so a built-in charging port is a genuinely useful commuter feature. This list is built only from what manufacturer pages state (retrieved 23 September 2026) - port types are often unspecified, and we say so rather than guess.
 
 ## Verified USB-C ports
 
@@ -34,14 +45,3 @@ Most scooters accept an aftermarket USB charger wired to the battery - our USB c
 ## Renting
 
 Charging ports on rental scooters vary by model and year. Contact us to confirm current availability, and ask about the specific bike you would receive.
-topic_cluster: scooters
-subcluster: "3.3 choosing-guides"
-date_published: 2026-09-23
-last_reviewed: 2026-09-23
-sources:
-  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
-  - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: usb-chargers-motorbike-power, phone-mounts-motorbike-vietnam, honda-vario-125-review, honda-sh-mode-125-review, honda-air-blade-125-review, phone-use-while-riding-vietnam
----
-
-undefined

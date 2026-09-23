@@ -9,7 +9,18 @@ tags:
   - "ergonomics"
   - "vietnam scooters"
 content_type: guide
-search_intent: Most Vietnamese-market scooters are designed around local average stature, which leaves tall foreign riders negotiating knees-and-elbows ergonomics. This guide uses only verified manufacturer figures (retrieved 23 September 2026) plus honest advice about what the spec sheet cannot tell you.
+search_intent: commercial
+topic_cluster: scooters
+subcluster: "3.3 choosing-guides"
+date_published: 2026-09-23
+last_reviewed: 2026-09-23
+sources:
+  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
+  - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
+internal_link_targets: best-motorbikes-for-tall-riders-vietnam, scooter-seat-heights-comparison-vietnam, footpeg-upgrades-tall-riders, handlebar-raisers-riding-ergonomics, yamaha-nvx-155-review, honda-sh-160-review
+---
+
+Most Vietnamese-market scooters are designed around local average stature, which leaves tall foreign riders negotiating knees-and-elbows ergonomics. This guide uses only verified manufacturer figures (retrieved 23 September 2026) plus honest advice about what the spec sheet cannot tell you.
 
 ## Seat heights, verified
 
@@ -26,14 +37,3 @@ The SH160i is the strongest tall-rider candidate in the scooter class for reason
 ## Consider the alternative
 
 Tall riders often find underbone manual bikes roomier than any scooter - our tall-rider guide across all bike types covers that. Whatever you choose, contact us to confirm current availability, and test-ride before committing to a monthly rental.
-topic_cluster: scooters
-subcluster: "3.3 choosing-guides"
-date_published: 2026-09-23
-last_reviewed: 2026-09-23
-sources:
-  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
-  - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: best-motorbikes-for-tall-riders-vietnam, scooter-seat-heights-comparison-vietnam, footpeg-upgrades-tall-riders, handlebar-raisers-riding-ergonomics, yamaha-nvx-155-review, honda-sh-160-review
----
-
-undefined

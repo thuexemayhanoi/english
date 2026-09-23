@@ -9,7 +9,18 @@ tags:
   - "abs"
   - "wet weather riding"
 content_type: guide
-search_intent: Hanoi's rainy season turns painted lines, bridge decks and junction arrows into ice rinks for about four months a year. If you are choosing a scooter with wet-weather commuting in mind, the verified equipment data (retrieved 23 September 2026) points clearly at braking hardware first.
+search_intent: commercial
+topic_cluster: scooters
+subcluster: "3.3 choosing-guides"
+date_published: 2026-09-23
+last_reviewed: 2026-09-23
+sources:
+  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
+  - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
+internal_link_targets: which-scooters-have-abs-vietnam, tcs-vs-abs-scooters-vietnam, honda-hstc-traction-control-scooters, riding-motorbike-heavy-rain-vietnam, after-rain-slippery-roads-motorbike, riding-rental-motorbike-hanoi-rain, tyre-care-motorbike-vietnam
+---
+
+Hanoi's rainy season turns painted lines, bridge decks and junction arrows into ice rinks for about four months a year. If you are choosing a scooter with wet-weather commuting in mind, the verified equipment data (retrieved 23 September 2026) points clearly at braking hardware first.
 
 ## Braking: the verified wet-weather ranking
 
@@ -26,14 +37,3 @@ Wet-weather safety is mostly technique: our heavy-rain riding guide, after-rain 
 ## Renting
 
 Rental fleets vary; the models above are not all available at any given shop. Contact us to confirm current availability, and ask specifically whether the scooter you would receive has ABS.
-topic_cluster: scooters
-subcluster: "3.3 choosing-guides"
-date_published: 2026-09-23
-last_reviewed: 2026-09-23
-sources:
-  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
-  - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: which-scooters-have-abs-vietnam, tcs-vs-abs-scooters-vietnam, honda-hstc-traction-control-scooters, riding-motorbike-heavy-rain-vietnam, after-rain-slippery-roads-motorbike, riding-rental-motorbike-hanoi-rain, tyre-care-motorbike-vietnam
----
-
-undefined

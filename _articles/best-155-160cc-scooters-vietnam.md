@@ -9,7 +9,18 @@ tags:
   - "scooter guide"
   - "vietnam scooters"
 content_type: guide
-search_intent: The 155-160cc class is Vietnam's sporty sweet spot: enough power for two-up riding and bridge climbs, small enough for daily traffic. This guide ranks every model with verified manufacturer figures (retrieved 23 September 2026) - no retailer numbers, no estimates.
+search_intent: commercial
+topic_cluster: scooters
+subcluster: "3.3 choosing-guides"
+date_published: 2026-09-23
+last_reviewed: 2026-09-23
+sources:
+  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
+  - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
+internal_link_targets: yamaha-nvx-155-review, yamaha-nmax-155-review, yamaha-lexi-155-review, honda-vario-160-review, honda-sh-160-review, honda-sh-160-vs-honda-vario-160, which-scooters-have-abs-vietnam, best-scooters-tall-riders-vietnam, yamaha-nmax-155-vs-honda-vario-160
+---
+
+The 155-160cc class is Vietnam's sporty sweet spot: enough power for two-up riding and bridge climbs, small enough for daily traffic. This guide ranks every model with verified manufacturer figures (retrieved 23 September 2026) - no retailer numbers, no estimates.
 
 ## The class at a glance (verified figures)
 
@@ -35,14 +46,3 @@ Seat heights: SH160i 799 mm, NVX 790 mm, Vario 160 778 mm, NMAX 770 mm, Lexi 768
 ## Renting
 
 None of the 155-160cc models are among Nguyen Tu's price-published rental models - contact us to confirm current availability. Pair this guide with our ABS availability guide and, if you ride two-up or commute in rain, our rainy-season scooter guide.
-topic_cluster: scooters
-subcluster: "3.3 choosing-guides"
-date_published: 2026-09-23
-last_reviewed: 2026-09-23
-sources:
-  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
-  - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: yamaha-nvx-155-review, yamaha-nmax-155-review, yamaha-lexi-155-review, honda-vario-160-review, honda-sh-160-review, honda-sh-160-vs-honda-vario-160, which-scooters-have-abs-vietnam, best-scooters-tall-riders-vietnam, yamaha-nmax-155-vs-honda-vario-160
----
-
-undefined

@@ -9,7 +9,18 @@ tags:
   - "fuel economy"
   - "vietnam scooters"
 content_type: guide
-search_intent: Range matters more in Vietnam than spec-sheet horsepower: long stretches between reliable petrol stations on rural trips, and city riding where you simply want fewer fuel stops. There is no official range figure for most scooters, so this guide does the honest arithmetic - verified tank size multiplied by the manufacturer's published economy (all figures retrieved 23 September 2026) - and clearly labels the results as implied, not claimed.
+search_intent: commercial
+topic_cluster: scooters
+subcluster: "3.3 choosing-guides"
+date_published: 2026-09-23
+last_reviewed: 2026-09-23
+sources:
+  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
+  - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
+internal_link_targets: scooter-fuel-economy-comparison-vietnam, most-fuel-efficient-scooters-vietnam-verified, improving-fuel-economy-motorbike, best-scooters-long-distance-touring-vietnam, yamaha-nmax-155-review, honda-sh-160-review
+---
+
+Range matters more in Vietnam than spec-sheet horsepower: long stretches between reliable petrol stations on rural trips, and city riding where you simply want fewer fuel stops. There is no official range figure for most scooters, so this guide does the honest arithmetic - verified tank size multiplied by the manufacturer's published economy (all figures retrieved 23 September 2026) - and clearly labels the results as implied, not claimed.
 
 ## The implied-range ranking
 
@@ -35,14 +46,3 @@ Manufacturer economy figures come from controlled conditions - real range varies
 ## Practical advice
 
 Plan rural trips around fuel stops, not the tank's ceiling, and do not run a unfamiliar scooter to fumes - fuel quality and gauge accuracy vary (our fuel gauge article explains why). Nguyen Tu's rental scooters come with the fuel policy in our rental FAQ - contact us to confirm current availability of any specific model.
-topic_cluster: scooters
-subcluster: "3.3 choosing-guides"
-date_published: 2026-09-23
-last_reviewed: 2026-09-23
-sources:
-  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
-  - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: scooter-fuel-economy-comparison-vietnam, most-fuel-efficient-scooters-vietnam-verified, improving-fuel-economy-motorbike, best-scooters-long-distance-touring-vietnam, yamaha-nmax-155-review, honda-sh-160-review
----
-
-undefined

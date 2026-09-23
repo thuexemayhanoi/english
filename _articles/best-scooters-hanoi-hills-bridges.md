@@ -9,7 +9,18 @@ tags:
   - "power to weight"
   - "hills"
 content_type: guide
-search_intent: Hanoi is flatter than most capitals, but it is not flat: the ramps onto Long Bien, Nhat Tan and Chuong Duong bridges, the approaches to West Lake, and the roads up to Ba Vi all separate underpowered scooters from adequate ones - especially two-up. Power-to-weight (verified figures, retrieved 23 September 2026) is the honest way to rank climbing ability.
+search_intent: commercial
+topic_cluster: scooters
+subcluster: "3.3 choosing-guides"
+date_published: 2026-09-23
+last_reviewed: 2026-09-23
+sources:
+  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
+  - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
+internal_link_targets: scooter-power-to-weight-explained, best-motorbike-for-hanoi-traffic, crossing-hanoi-bridges-motorbike, mountain-pass-riding-motorbike-vietnam, yamaha-nvx-155-review, honda-sh-160-review
+---
+
+Hanoi is flatter than most capitals, but it is not flat: the ramps onto Long Bien, Nhat Tan and Chuong Duong bridges, the approaches to West Lake, and the roads up to Ba Vi all separate underpowered scooters from adequate ones - especially two-up. Power-to-weight (verified figures, retrieved 23 September 2026) is the honest way to rank climbing ability.
 
 ## Verified power-to-weight ranking
 
@@ -22,14 +33,3 @@ Peak torque at low rpm is what pulls you up a bridge ramp at city speed: the SH1
 ## Practical Hanoi advice
 
 Hold your line on bridge ramps and watch for merging buses - our Hanoi bridges article covers the traffic patterns. Two-up riders should choose at least the 155-160cc class if their route crosses bridges daily. Contact us to confirm current availability of any model; rental fleets change.
-topic_cluster: scooters
-subcluster: "3.3 choosing-guides"
-date_published: 2026-09-23
-last_reviewed: 2026-09-23
-sources:
-  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
-  - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: scooter-power-to-weight-explained, best-motorbike-for-hanoi-traffic, crossing-hanoi-bridges-motorbike, mountain-pass-riding-motorbike-vietnam, yamaha-nvx-155-review, honda-sh-160-review
----
-
-undefined

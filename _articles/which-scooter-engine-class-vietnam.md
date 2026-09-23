@@ -9,7 +9,18 @@ tags:
   - "buying a scooter"
   - "vietnam scooters"
 content_type: guide
-search_intent: Nearly every scooter decision in Vietnam starts with class: 110, 125 or 155-160cc. The classes overlap less than buyers assume, and the right answer depends on load, terrain and route - not prestige. This framework uses verified manufacturer figures (retrieved 23 September 2026).
+search_intent: commercial
+topic_cluster: scooters
+subcluster: "3.3 choosing-guides"
+date_published: 2026-09-23
+last_reviewed: 2026-09-23
+sources:
+  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
+  - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
+internal_link_targets: 110cc-vs-125cc-scooters, best-125cc-scooters-vietnam-verified, best-155-160cc-scooters-vietnam, vietnam-motorbike-licence-classes-explained, scooter-power-to-weight-explained, honda-vs-yamaha-scooters-vietnam
+---
+
+Nearly every scooter decision in Vietnam starts with class: 110, 125 or 155-160cc. The classes overlap less than buyers assume, and the right answer depends on load, terrain and route - not prestige. This framework uses verified manufacturer figures (retrieved 23 September 2026).
 
 ## The 110 class: city minimalism
 
@@ -30,14 +41,3 @@ Vietnamese licence classes depend on engine capacity - our licence classes guide
 ## How to decide
 
 Ride solo, flat city, budget first: 110 or value 125. Carry a passenger or cargo: strong 125 minimum. Hills, touring, or daily bridge commuting: 155-160. Then read the specific model guides - class is the frame, the model is the decision. Contact us to confirm current availability of anything you shortlist.
-topic_cluster: scooters
-subcluster: "3.3 choosing-guides"
-date_published: 2026-09-23
-last_reviewed: 2026-09-23
-sources:
-  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
-  - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: 110cc-vs-125cc-scooters, best-125cc-scooters-vietnam-verified, best-155-160cc-scooters-vietnam, vietnam-motorbike-licence-classes-explained, scooter-power-to-weight-explained, honda-vs-yamaha-scooters-vietnam
----
-
-undefined
