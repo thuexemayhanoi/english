@@ -33,3 +33,9 @@ Authoritative publish/review record for Batch 23. Date: 2026-09-24 (Asia/Ho_Chi_
 ## Cluster 12 progress
 
 Cluster 12 (Hanoi travel) is COMPLETE: 54 of 54 intents published (25 in Batch 22, 29 in Batch 23). Next production candidates per the MASTER-MATRIX production plan: cluster 13 (motorbike trips from Hanoi, 38 intents) and cluster 14 (Vietnam travel by motorbike, 30 intents), which require R2 route/place verification from reliable sources before writing.
+
+## Docs-sync finalization record
+
+- Docs-sync run 22 (Actions run 35949732126, head 81a59f1) applied the final docs state in bot commit 9fe58ab on 2026-09-24: docs/matrix/master-matrix.csv merged 884 -> 913 ID rows; README.md updated (CSV bullet 913 committed rows; 913 published articles bullet; hub bullet; OPEN ISSUES 1; CONTENT and DEPLOYMENT STATE batch-23 bullets); docs/MASTER-MATRIX.md updated (913 committed rows; Cluster 12 COMPLETE: 54 of 54 intents). No README CHANGE LOG entry: the README has no changelog section.
+- Rows-file history: 87b74be pushed docs/matrix/batch-23-rows.csv with transport-mangled physical lines (stray mid-token newlines; the 1e425ec Status-append repair could not fix line-based corruption). The file was reconstructed from the 87b74be blob (29 clean single-line rows, Status=published) and re-pushed in 81a59f1; docs-sync run 22 validated parsedRows=29 and merged all 29 rows into master-matrix.csv (884 -> 913).
+- Re-run 5 validation: this run re-validates the 29 merged master rows (16 fields, Status=published, clean internal-link slug tokens, no double-space damage), checks docs/matrix/batch-23-rows.csv against the validated master rows, and re-checks the 913-row master count. master-matrix.csv is a headerless ID-row list (line 0 is the MM-0001 row), so the rows-file header is taken from the canonical 16-column matrix header. Result recorded in sync-debug.txt at the repo root.
