@@ -1,0 +1,4 @@
+{
+  "note": "Batch-26 verification-record refresh: the Quality Gate internal-link-audit root cause (stray quotes in 6 internal_link_targets scalars) is fixed in a08cc0e; refresh the final verification record with the latest gate and Pages runs. Apply step will intentionally no-op/fail on already-applied pairs; only the recorded runs matter.",
+  "recorded": "2026-09-24"
+}
