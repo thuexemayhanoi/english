@@ -46,7 +46,6 @@ The half-day countryside loop north-east of the city is the ride most visitors r
 
 ## Why you might not rent at all
 
-Da Lat's weather makes some visitors genuinely uncomfortable on tw
-o wheels, and the city is walkable in the centre with ride-hail apps covering the rest. If your confidence on wet slopes is low, the Easy Rider option exists precisely for this place.
+Da Lat's weather makes some visitors genuinely uncomfortable on two wheels, and the city is walkable in the centre with ride-hail apps covering the rest. If your confidence on wet slopes is low, the Easy Rider option exists precisely for this place.
 
 For the northern highland chapter of a cross-Vietnam trip — Ha Giang, Sapa, the northwest — the riding is grander and cooler still. We are in Hanoi: contact us to confirm current availability for bikes suited to mountain loops.

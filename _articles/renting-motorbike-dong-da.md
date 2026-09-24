@@ -30,9 +30,7 @@ Tay Son is the spine: a wide, fast, four-plus-lane artery carrying mid-town thro
 
 - Dong Da hill and the Dong Da mound park area, the district's calm green pocket with the Quang Trung monument
 - The temple streets — Lang and the temple alleys — slow, narrow, and best ridden at their own pace
-- The food streets off Xuan Thuy and the university quarter: cheap, 
-dense, walk-after-park terr
-itory
+- The food streets off Xuan Thuy and the university quarter: cheap, dense, walk-after-park territory
 
 ## Parking
 

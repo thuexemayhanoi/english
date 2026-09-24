@@ -28,8 +28,7 @@ Long Bien is built around the river: the historic Long Bien bridge on one side, 
 
 ## Traffic character
 
-Nguyen Van Cu is a broad dual-carriageway artery that moves faster than Old Quarter streets: expect higher speeds, more trucks from the direction of the wholesale markets, and longer gaps between turns. The area around Long Bien market and the Gia Lam side gets dense and chaotic in the
- mornings. The riding approach for faster arterials is in best-motorbike-for-hanoi-traffic.
+Nguyen Van Cu is a broad dual-carriageway artery that moves faster than Old Quarter streets: expect higher speeds, more trucks from the direction of the wholesale markets, and longer gaps between turns. The area around Long Bien market and the Gia Lam side gets dense and chaotic in the mornings. The riding approach for faster arterials is in best-motorbike-for-hanoi-traffic.
 
 ## Why rental from here works well
 

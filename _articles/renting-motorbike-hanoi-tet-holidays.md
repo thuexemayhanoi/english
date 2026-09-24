@@ -28,8 +28,7 @@ Tet is the one period when shops of every kind close, and rental shops are no ex
 
 ## Book ahead, confirm in writing
 
-If you want a bike across the Tet week, book early — see how-to-book-a-motorbike-rental-hanoi for the booking basics, and during Tet add two habits: confirm the pickup time in a message the day before, and confirm the return arrangement in the same message. A shop that closes for five days needs to know whether your re
-turn date falls inside the closure, and so do you.
+If you want a bike across the Tet week, book early — see how-to-book-a-motorbike-rental-hanoi for the booking basics, and during Tet add two habits: confirm the pickup time in a message the day before, and confirm the return arrangement in the same message. A shop that closes for five days needs to know whether your return date falls inside the closure, and so do you.
 
 ## The city changes character
 

@@ -30,8 +30,7 @@ No clutch to manage, four gears to cover every speed the city allows, light stee
 - **Published prices:** Nguyen Tu rents the Honda Wave class and Yamaha Sirius at 150,000 VND per day. No weekly or monthly rate is published for these models — contact us for longer-term pricing.
 - **Deposit:** typically 2,000,000–5,000,000 VND depending on the vehicle and conditions.
 - **Insurance:** not provided; riders arrange their own.
-- **Availability:** the category is the historical core of the fleet, but for any specific model contact us to confirm current
- availability.
+- **Availability:** the category is the historical core of the fleet, but for any specific model contact us to confirm current availability.
 
 ## Renting day to day
 

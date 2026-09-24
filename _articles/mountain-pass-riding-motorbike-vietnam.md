@@ -31,8 +31,7 @@ Mountain trucks haul slow and stop slower. Never assume one will hold its lane a
 
 ## Weather turns fast
 
-Sunshine in the valley can be fog on the ridge. Valley te
-mperature drops fast with altitude, and rain in the valley is often a wet pass above. Fog-and-low-visibility-riding-motorbike-vietnam covers the fog case; carry a warm layer even in summer. In the rainy season, passes get landslides and mud fans across corners — check conditions locally before setting out.
+Sunshine in the valley can be fog on the ridge. Valley temperature drops fast with altitude, and rain in the valley is often a wet pass above. Fog-and-low-visibility-riding-motorbike-vietnam covers the fog case; carry a warm layer even in summer. In the rainy season, passes get landslides and mud fans across corners — check conditions locally before setting out.
 
 ## The bike and you
 

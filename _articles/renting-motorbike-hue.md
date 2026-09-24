@@ -26,8 +26,7 @@ Hue rewards a motorbike more than almost any city in Vietnam. The imperial capit
 
 ## The rental scene
 
-Hue's rental shops cluster in the Pham Ngu Lao/Le Loi tourist streets south of the Perfume River, and most guesthouses arrange bikes. Expect automatic scooters in the 100,000-150,000 VND per day band, with semi-automatics slightly cheaper; Hue's prices sit a touch under Hoi An and Da Nang because it sees fewer pure-beach tourists. Shops rent by the day, week or month, an
-d the same national licence rules apply as everywhere in Vietnam: over 50cc needs a valid Vietnamese licence or a 1968-convention IDP. Our tourist-licence overview covers the detail.
+Hue's rental shops cluster in the Pham Ngu Lao/Le Loi tourist streets south of the Perfume River, and most guesthouses arrange bikes. Expect automatic scooters in the 100,000-150,000 VND per day band, with semi-automatics slightly cheaper; Hue's prices sit a touch under Hoi An and Da Nang because it sees fewer pure-beach tourists. Shops rent by the day, week or month, and the same national licence rules apply as everywhere in Vietnam: over 50cc needs a valid Vietnamese licence or a 1968-convention IDP. Our tourist-licence overview covers the detail.
 
 ## Rides worth renting for
 
@@ -47,5 +46,4 @@ d the same national licence rules apply as everywhere in Vietnam: over 50cc need
 
 ## North and centre
 
-Travellers crossing Vietnam typically ride the Hue-Hai Van-Da Nang-Hoi An block as one chapter and rent separately for it. Our Hanoi shop covers the northern chapter of the same trip — contact us 
-to confirm current availability for Hanoi, and rent local in Hue.
+Travellers crossing Vietnam typically ride the Hue-Hai Van-Da Nang-Hoi An block as one chapter and rent separately for it. Our Hanoi shop covers the northern chapter of the same trip — contact us to confirm current availability for Hanoi, and rent local in Hue.

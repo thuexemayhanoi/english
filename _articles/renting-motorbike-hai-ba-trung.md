@@ -30,8 +30,7 @@ The backbone streets — Truong Chinh, Dai Co Viet, Nguyen Thi Minh Khai, Bui Th
 
 - The area around Vinh Tuy bridge approach on Minh Khai: heavy merge traffic at rush hour
 - The old rail corridor and train-street spots: tourist-popular
-, but the tracks and the cafes a
-round them are a walk-first area, not a riding one
+, but the tracks and the cafes around them are a walk-first area, not a riding one
 - Market surroundings (Hom market, Mo market): the densest parking-and-moving chaos in the district; walk the last hundred metres
 
 ## Parking

@@ -25,11 +25,9 @@ Hanoi's relationship with the Red River is written into its roads — literally.
 
 ## What the dyke roads are
 
-The dyke system exists to keep the river out of the city, and the crest roads exist because a maintained embankment needs an inspection and transport route along its top. The main urban dyke runs along the left bank past Long Bien and down through the eastern wards; a decorated stretch of it carries the famous ceramic mosaic wall between West Lake's northeast corner and the river. Further out, dyke roads run for dozens of kilometres through the market-garden belts, villages and orchards north and east of the city — the weekend territory of every H
-anoi rider.
+The dyke system exists to keep the river out of the city, and the crest roads exist because a maintained embankment needs an inspection and transport route along its top. The main urban dyke runs along the left bank past Long Bien and down through the eastern wards; a decorated stretch of it carries the famous ceramic mosaic wall between West Lake's northeast corner and the river. Further out, dyke roads run for dozens of kilometres through the market-garden belts, villages and orchards north and east of the city — the weekend territory of every Hanoi rider.
 
-## How they ride different
-ly
+## How they ride differently
 
 - **Surface**: expect the full menu — decent asphalt on the urban stretches, patched concrete, broken edges, and sections of compacted earth and grit. Ride at a speed that lets you change your line for a pothole without drama.
 - **Width and meeting traffic**: many dyke roads are single-lane effective. The convention is mutual slow-down and shoulder-to-shoulder passes; there is no shame in stopping first.
@@ -43,11 +41,9 @@ In the dry season (roughly November to April), the dyke roads are at their best 
 
 ## The rider's use of them
 
-For commuters, the dyke road is often the fastest calm crosstown route in the east. For weekend riders, the dyke system is the gateway: it links the city to the orchards of the river islands and the village loops beyond Vinh Tuy and upriver — no traffic lights, river air, and a rhythm that city streets never allow. Many riders combine the Long Bien bridge, the dyke and the islands into 
-one classic morning loop.
+For commuters, the dyke road is often the fastest calm crosstown route in the east. For weekend riders, the dyke system is the gateway: it links the city to the orchards of the river islands and the village loops beyond Vinh Tuy and upriver — no traffic lights, river air, and a rhythm that city streets never allow. Many riders combine the Long Bien bridge, the dyke and the islands into one classic morning loop.
 
-## A word of 
-respect
+## A word of respect
 
 The dykes are flood defences first and roads second. During the flood season, sections are sometimes closed for reinforcement work or inspection, and heavy vehicles are restricted to protect the embankment. Follow closure signs without argument, and never cut fresh tracks across the grass slopes — the system that keeps a city of millions dry deserves a rider's cooperation.
 

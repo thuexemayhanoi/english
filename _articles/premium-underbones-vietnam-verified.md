@@ -28,8 +28,7 @@ Most underbones in Vietnam cost under 30 million VND. Then there are the two Hon
 
 ## The CT125: the capability purchase
 
-123.9 cc, 10.9 Nm at just 4,750 rpm, 165 mm ground clearance - the highest of Honda's listed underbones - 800 mm seat, 5.4-litre tank, rear rack, 80/90-17 tyres both ends. It makes sense for riders whos
-e routes regularly include gravel, broken rural tarmac or track days of a different kind. Our CT125 review and its comparison with the Super Cub cover the details.
+123.9 cc, 10.9 Nm at just 4,750 rpm, 165 mm ground clearance - the highest of Honda's listed underbones - 800 mm seat, 5.4-litre tank, rear rack, 80/90-17 tyres both ends. It makes sense for riders whose routes regularly include gravel, broken rural tarmac or track days of a different kind. Our CT125 review and its comparison with the Super Cub cover the details.
 
 ## What premium does not buy
 

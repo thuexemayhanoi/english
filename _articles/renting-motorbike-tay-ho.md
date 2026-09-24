@@ -32,8 +32,7 @@ Tay Ho's main roads (Xuan Dieu, To Ngoc Van, Au Co, the Vo Chi Cong artery) are 
 
 ## Renting for Tay Ho
 
-The district is a common delivery desti
-nation for rentals because many foreign residents live here; Nguyen Tu arranges delivery case by case depending on location, within opening hours 09:00–21:00 — see motorbike-rental-pickup-or-delivery-hanoi. Expats renting monthly will find the bike-choice logic in best-motorbike-for-expats-hanoi, and the monthly rate picture in daily-weekly-monthly-motorbike-rental-hanoi.
+The district is a common delivery destination for rentals because many foreign residents live here; Nguyen Tu arranges delivery case by case depending on location, within opening hours 09:00–21:00 — see motorbike-rental-pickup-or-delivery-hanoi. Expats renting monthly will find the bike-choice logic in best-motorbike-for-expats-hanoi, and the monthly rate picture in daily-weekly-monthly-motorbike-rental-hanoi.
 
 ## Parking around Tay Ho
 

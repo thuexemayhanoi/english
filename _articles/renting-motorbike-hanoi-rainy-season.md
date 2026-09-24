@@ -35,9 +35,7 @@ Rain arrives mostly in afternoon and early-evening storms: sudden, heavy, short.
 
 ## Bike choice in the season
 
-Automatics with flat floors and under-seat storage protect gear be
-st; drum brakes behave worse
- wet, so factor extra stopping distance rather than different brakes. The choice trade-offs are in scooter-vs-semi-automatic-hanoi and best-motorbike-for-commuting-hanoi.
+Automatics with flat floors and under-seat storage protect gear best; drum brakes behave worse wet, so factor extra stopping distance rather than different brakes. The choice trade-offs are in scooter-vs-semi-automatic-hanoi and best-motorbike-for-commuting-hanoi.
 
 ## Riding technique
 

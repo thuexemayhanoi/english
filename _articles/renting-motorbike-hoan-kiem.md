@@ -32,8 +32,7 @@ The dense historic streets north of the lake are covered as their own environmen
 
 ## The French Quarter grid
 
-South and east of the lake — Trang Tien, Ngo Quyen, the embassy-lined streets — the geometry changes: proper blocks, generous lanes, ca
-lm flows. This is the easiest riding in central Hanoi and the best place to spend a rental's first hour: controlled practice, real conditions, low chaos. The traffic-readiness framework is in best-motorbike-for-hanoi-traffic.
+South and east of the lake — Trang Tien, Ngo Quyen, the embassy-lined streets — the geometry changes: proper blocks, generous lanes, calm flows. This is the easiest riding in central Hanoi and the best place to spend a rental's first hour: controlled practice, real conditions, low chaos. The traffic-readiness framework is in best-motorbike-for-hanoi-traffic.
 
 ## Parking strategy for the centre
 

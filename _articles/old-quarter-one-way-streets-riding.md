@@ -27,8 +27,7 @@ The Old Quarter's "36 streets" — the ancient guild streets with their Hang-nam
 ## How the system works
 
 The Old Quarter is built on a diagonal grid: a set of streets running roughly toward the river, crossed by another set running roughly with it. Most of the narrower streets are one-way, and the directions form a rough alternation — if a street refuses you, its neighbour one block over usually flows your way. The classic spine streets (Hang Gai–Hang Bai, Hang Dao–Hang Duong and the others toward Dong Xuan
- 
-market) carry the through-traffic; the cross streets feed them.
+ market) carry the through-traffic; the cross streets feed them.
 
 The one-way logic is signed, but weakly: look for the arrow plates at junction mouths and, more reliably, at the direction the parked bikes face — parked motorbikes are Hanoi's most reliable signage. If the parked bikes on both sides face you, you are almost certainly wrong-way, which is both illegal and the most common tourist mistake in the district. The fine for wrong-way riding is its own article; here the point is avoidance.
 

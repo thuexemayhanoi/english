@@ -28,8 +28,7 @@ Noi Bai sits about 25–30 km from central Hanoi. Rental shops, including Nguyen
 
 ## Booking before you fly
 
-Message the shop with your arrival day and the rental dates before departure — how-to-book-a-motorbike-rental-hanoi covers what to confirm: model category, price, deposit (typically 2,000,000–5,000,000 VND — motorbike-rental-deposit-hanoi), pickup or delivery arrangement for your address, and the accepted payment fo
-rms (cash, bank transfer, QR). Confirm current availability of the model you want. Book the transfer and the rental as separate steps: the shop can't hand you a bike at the terminal, and there is no reason they should.
+Message the shop with your arrival day and the rental dates before departure — how-to-book-a-motorbike-rental-hanoi covers what to confirm: model category, price, deposit (typically 2,000,000–5,000,000 VND — motorbike-rental-deposit-hanoi), pickup or delivery arrangement for your address, and the accepted payment forms (cash, bank transfer, QR). Confirm current availability of the model you want. Book the transfer and the rental as separate steps: the shop can't hand you a bike at the terminal, and there is no reason they should.
 
 ## Why riding straight from the airport is a bad idea
 

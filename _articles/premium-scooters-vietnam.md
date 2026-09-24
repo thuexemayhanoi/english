@@ -40,8 +40,7 @@ Above the mainstream 110-160 class sits a premium tier that Vietnamese buyers pa
 ## What the money buys
 
 - **Bigger, torquier engines:** the 155-350 cc class holds speed on main roads and carries a passenger without strain - a real difference from a 110 for riders who leave the city.
-- **Equipment:** ABS is stan
-dard or common in this tier (see our ABS guide), along with smart keys, LCD meters and USB charging.
+- **Equipment:** ABS is standard or common in this tier (see our ABS guide), along with smart keys, LCD meters and USB charging.
 - **Comfort and presence:** bigger wheels, plusher suspension - and in Vietnam, the SH's status effect is a genuine, if unquantifiable, part of its price.
 
 ## What it does not buy

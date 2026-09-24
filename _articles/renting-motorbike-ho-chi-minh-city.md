@@ -27,8 +27,7 @@ Ho Chi Minh City is the most motorbiked metropolis on earth — a river of bikes
 
 ## The rental scene
 
-The backpacker quarter around Bui Vien and Pham Ngu Lao streets in District 1 is dense with rental options, and most hotels and
- hostels can arrange a bike even without their own fleet. Typical day rates for automatic scooters (the Honda Vision/Air Blade class that dominates Vietnamese cities) sit in the 120,000-250,000 VND range depending on the model and the shop, with semi-automatic underbones usually a little cheaper and larger touring bikes (110cc-155cc) listed by specialist shops at around 170,000 VND per day and up. Weekly and monthly deals cut those figures substantially.
+The backpacker quarter around Bui Vien and Pham Ngu Lao streets in District 1 is dense with rental options, and most hotels and hostels can arrange a bike even without their own fleet. Typical day rates for automatic scooters (the Honda Vision/Air Blade class that dominates Vietnamese cities) sit in the 120,000-250,000 VND range depending on the model and the shop, with semi-automatic underbones usually a little cheaper and larger touring bikes (110cc-155cc) listed by specialist shops at around 170,000 VND per day and up. Weekly and monthly deals cut those figures substantially.
 
 Deposits run from a few hundred thousand dong to several million, or — the option to avoid — your passport. Handing over a passport to a rental shop is common practice but poor practice: your passport is the one document you cannot afford to have leveraged in a dispute. Pay a cash deposit instead; serious shops accept this.
 
@@ -45,8 +44,7 @@ Everyone who rides in Vietnam tells you the same thing about Saigon traffic: it 
 - Make every manoeuvre predictable; no sudden swerves, ever.
 - Honk gently to announce yourself — it is communication, not aggression.
 
-Read our first-timers' g
-uide to riding in Ho Chi Minh City for the full survival kit.
+Read our first-timers' guide to riding in Ho Chi Minh City for the full survival kit.
 
 ## Where to ride from Saigon
 

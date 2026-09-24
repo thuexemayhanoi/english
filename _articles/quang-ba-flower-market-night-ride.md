@@ -27,9 +27,7 @@ Quang Ba flower market is Hanoi's wholesale flower trade in the raw: a covered m
 
 ## When to go
 
-The market runs in two phases. Wholesale runs from about 20:00 to 06:00 — the real flower trade, with motorbikes loaded like hay carts, trolleys, shouting and bargaining in full swing. Retail follows from about 06:00 to noon, 
-c
-almer, when locals buy single stems and small bunches. For the spectacle, arrive between 21:00 and midnight, or come at dawn to see wholesale fade into retail — the best single hour is roughly 05:30 to 06:30.
+The market runs in two phases. Wholesale runs from about 20:00 to 06:00 — the real flower trade, with motorbikes loaded like hay carts, trolleys, shouting and bargaining in full swing. Retail follows from about 06:00 to noon, calmer, when locals buy single stems and small bunches. For the spectacle, arrive between 21:00 and midnight, or come at dawn to see wholesale fade into retail — the best single hour is roughly 05:30 to 06:30.
 
 ## The route
 

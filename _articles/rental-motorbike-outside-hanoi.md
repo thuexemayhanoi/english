@@ -28,9 +28,7 @@ Rental agreements commonly restrict how far a bike may travel, because a breakdo
 
 ## Roads that do not allow motorbikes
 
-The practical barrier most riders hit: expressways. Motorbikes are banned from Vietnamese expressways, and the ban is enforced with fines — see motorbikes-o
-n-expressway-vietnam. Your route out of Hanoi therefore uses national roads an
-d provincial roads, which are slower but the ones everyone rides. Plan distances accordingly: a "150 km trip" on a map is a three-to-four-hour ride in real conditions.
+The practical barrier most riders hit: expressways. Motorbikes are banned from Vietnamese expressways, and the ban is enforced with fines — see motorbikes-on-expressway-vietnam. Your route out of Hanoi therefore uses national roads and provincial roads, which are slower but the ones everyone rides. Plan distances accordingly: a "150 km trip" on a map is a three-to-four-hour ride in real conditions.
 
 ## Checks before you leave the city
 

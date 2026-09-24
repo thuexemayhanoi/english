@@ -28,8 +28,7 @@ The main arteries (Pham Hung, Cau Giay, Tran Duy Hung, the extended Thang Long d
 
 ## The district's two crowds
 
-Office traffic floods Pham Hung and Tran Duy Hung at rush hour; university traffic (National University campuses, the Thai Thinh corridor) gives the district a younger, denser two-wheel flow at class-change hours. Student riders renting for the semes
-ter should start with best-motorbike-for-students-hanoi and the licence situation in foreign-student-motorbike-licence-vietnam.
+Office traffic floods Pham Hung and Tran Duy Hung at rush hour; university traffic (National University campuses, the Thai Thinh corridor) gives the district a younger, denser two-wheel flow at class-change hours. Student riders renting for the semester should start with best-motorbike-for-students-hanoi and the licence situation in foreign-student-motorbike-licence-vietnam.
 
 ## Parking, the easy version
 

@@ -28,8 +28,7 @@ Around Ba Dinh square, the rules tighten. The mausoleum area and its approach st
 
 ## Wide boulevards, honest speeds
 
-Ba Dinh's arteries (Kim Ma, Doi Can, Hoang Hoa Tham, the extended Lang–Hoa Lac direction) run faster than central streets, with longer sightlines and lane discipline that matters more. The riding style for wide fast arterials is covered in best-motorbike-for-commuting-hanoi, and the equipment basics — lights, mirrors, horn — in motor
-bike-required-equipment-vietnam; these streets are where a missing light actually gets noticed.
+Ba Dinh's arteries (Kim Ma, Doi Can, Hoang Hoa Tham, the extended Lang–Hoa Lac direction) run faster than central streets, with longer sightlines and lane discipline that matters more. The riding style for wide fast arterials is covered in best-motorbike-for-commuting-hanoi, and the equipment basics — lights, mirrors, horn — in motorbike-required-equipment-vietnam; these streets are where a missing light actually gets noticed.
 
 ## What riders come here for
 

@@ -28,9 +28,7 @@ The district's personality is its big junctions: the Nguyen Trai–Khuat Duy Tie
 
 ## Who rides here
 
-Residents, students at the district's campuses, and the mall-and-metro crowd. For renters, Thanh Xuan is mostly a monthly-rental district: commuters and residents keeping a bike, not visitors sightseeing. The bike logic for
- that use case is in best-moto
-rbike-for-commuting-hanoi, the rate picture in daily-weekly-monthly-motorbike-rental-hanoi.
+Residents, students at the district's campuses, and the mall-and-metro crowd. For renters, Thanh Xuan is mostly a monthly-rental district: commuters and residents keeping a bike, not visitors sightseeing. The bike logic for that use case is in best-motorbike-for-commuting-hanoi, the rate picture in daily-weekly-monthly-motorbike-rental-hanoi.
 
 ## Parking
 

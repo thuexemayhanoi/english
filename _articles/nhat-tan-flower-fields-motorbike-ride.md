@@ -27,9 +27,7 @@ Nhat Tan is Hanoi's peach-blossom village: the riverside gardens where much of t
 
 ## When to go
 
-The season runs with the Tet calendar, not the solar one. The blossom arrives with the winter monsoon chill — the gardens begin to colour as Hanoi gets cold, in the last lunar month before Tet — and peaks in the days immediately before the festival, when the city buys its trees. After Tet 
-t
-he show is over for the year. Outside the blossom weeks, Nhat Tan is still a working flower village of chrysanthemums and garden flowers, but the peach spectacle is seasonal: check where Tet falls in your travel year, and aim for the two weeks before it.
+The season runs with the Tet calendar, not the solar one. The blossom arrives with the winter monsoon chill — the gardens begin to colour as Hanoi gets cold, in the last lunar month before Tet — and peaks in the days immediately before the festival, when the city buys its trees. After Tet the show is over for the year. Outside the blossom weeks, Nhat Tan is still a working flower village of chrysanthemums and garden flowers, but the peach spectacle is seasonal: check where Tet falls in your travel year, and aim for the two weeks before it.
 
 ## The route
 
