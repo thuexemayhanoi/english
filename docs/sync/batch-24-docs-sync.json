@@ -14,6 +14,6 @@
     "applied": true,
     "script": "scripts/apply-batch-24-final-docs.js"
   },
-  "retry": 5,
-  "note": "Batch-24 docs-sync phase 5: master-matrix.csv merge completed (c8b42a1, 913 -> 936) and final docs applied (36c75ea). This trigger records the batch-24 verification (latest workflow runs) via scripts/record-batch-24-verification.js."
+  "retry": 6,
+  "note": "Batch-24 docs-sync phase 6: same as phase 5, re-triggered after granting actions:read to the Docs Sync workflow (e885268). Records the batch-24 verification (latest workflow runs) via scripts/record-batch-24-verification.js."
 }
