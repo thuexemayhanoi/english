@@ -18,26 +18,26 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - name: Apply batch-25 docs updates (idempotent)
+      - name: Apply batch-26 docs updates (idempotent)
         id: apply
         continue-on-error: true
-        run: node scripts/apply-batch-25-docs.js
-      - name: Record batch-25 verification (latest workflow runs)
+        run: node scripts/apply-batch-26-docs.js
+      - name: Record batch-26 verification (latest workflow runs)
         id: record
         continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/record-batch-25-verification.js
+        run: node scripts/record-batch-26-verification.js
       - name: Commit and push if changed
         if: steps.apply.outcome == 'success' && steps.record.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md docs/MASTER-MATRIX.md docs/matrix/master-matrix.csv docs/matrix/batch-25-status.md docs/sync/batch-25-final-verification.md
+          git add README.md docs/MASTER-MATRIX.md docs/matrix/master-matrix.csv docs/matrix/batch-26-status.md docs/sync/batch-26-final-verification.md
           if git diff --cached --quiet; then
             echo "No changes to sync."
           else
-            git commit -m "Batch 25 docs-sync: merge + verification record (latest workflow runs)"
+            git commit -m "Batch 26 docs-sync: merge + verification record (latest workflow runs)"
             git push
           fi
       - name: Publish sync diagnostics on failure
@@ -46,5 +46,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A || true
-          git commit -m "Batch 25 docs-sync diagnostics (validation failure)" || echo "no diagnostics to commit"
+          git commit -m "Batch 26 docs-sync diagnostics (validation failure)" || echo "no diagnostics to commit"
           git push || echo "nothing to push"

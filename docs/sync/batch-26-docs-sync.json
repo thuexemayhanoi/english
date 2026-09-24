@@ -1,0 +1,60 @@
+{
+  "note": "Batch-26 docs-sync phase 1: merge the 30 validated batch-26 rows (MM-0886-MM-0915) into master-matrix.csv (951 -> 981) and apply the README + MASTER-MATRIX final production-complete state. Deployment bullet added in a later phase once gate/pages runs are verified.",
+  "csvMerge": {
+    "target": "docs/matrix/master-matrix.csv",
+    "expectBefore": 951,
+    "expectAfter": 981,
+    "rowsFiles": [
+      {
+        "file": "docs/matrix/batch-26-rows.csv",
+        "expectRows": 30
+      }
+    ]
+  },
+  "readmePairs": [
+    {
+      "find": "- 951 published articles: cluster 13 (motorbike trips from Hanoi) is COMPLETE — 23 articles in Batch 24 (MM-0848-MM-0870, 2026-09-24 — see docs/matrix/batch-24-status.md) plus 15 multi-day route guides in Batch 25 (MM-0871-MM-0885, 2026-09-24 — see docs/matrix/batch-25-status.md), on top of the earlier 913 published across clusters 1-12 (see docs/matrix/batch-23-status.md and the earlier batch-status documents). All business facts come exclusively from docs/OWNER-FACTS.md.",
+      "replace": "- 981 published articles: the production plan is COMPLETE — cluster 14 (Vietnam travel by motorbike) published all 30 intents in Batch 26 (MM-0886-MM-0915, 2026-09-24 — see docs/matrix/batch-26-status.md; 4 transport comparisons (14.1), 6 city rental guides (14.2), 5 border/ownership guides (14.3), 15 nationwide travel guides (14.4)), on top of the 951 published across clusters 1-13 (cluster 13 completed in Batches 24-25 — see docs/matrix/batch-25-status.md and the earlier batch-status documents). All business facts come exclusively from docs/OWNER-FACTS.md."
+    },
+    {
+      "find": "- 14 topic hubs live; 1 currently shows the empty state (vietnam-travel — planned content, not a defect) (\"Guides for this topic are being prepared.\"); trips hub lists all 38 trip guides",
+      "replace": "- 14 topic hubs live, all with published guides; the vietnam-travel hub lists all 30 Batch 26 guides; trips hub lists all 38 trip guides"
+    },
+    {
+      "find": "1. 1 topic cluster has zero published articles (cluster 14 - Vietnam travel: planned content, not a defect). Cluster 13 trips is COMPLETE: 38 of 38 intents published 2026-09-24 (Batch 24, MM-0848-MM-0870 — see docs/matrix/batch-24-status.md; Batch 25, MM-0871-MM-0885 — see docs/matrix/batch-25-status.md). Next up per docs/MASTER-MATRIX.md ordering: cluster 14 vietnam-travel (30 intents) as Batch 26, which needs R2 route/place verification from reliable sources first.",
+      "replace": "1. Production plan COMPLETE: cluster 14 (Vietnam travel by motorbike) published all 30 intents 2026-09-24 in Batch 26 (MM-0886-MM-0915 — see docs/matrix/batch-26-status.md); clusters 13 and 14 completed in Batches 24-26. No approved strong intent remains unpublished (981 published articles; all 14 clusters COMPLETE). Remaining work is maintenance only: owner pruning passes for the documented P2/P3 warnings and periodic legal/travel fact re-review. Scheduled production runs must not start new article batches."
+    },
+    {
+      "find": "- docs/matrix/master-matrix.csv holds 951 committed rows after the batch-25 docs-sync merge (913 -> 936 -> 951; 951 published articles; the 23 batch-24 rows are preserved verbatim in docs/matrix/batch-24-rows.csv and the 15 batch-25 rows in docs/matrix/batch-25-rows.csv): 81 rental-cluster rows (81 published, cluster 1",
+      "replace": "- docs/matrix/master-matrix.csv holds 981 committed rows after the batch-26 docs-sync merge (936 -> 951 -> 981; 981 published articles; the 15 batch-25 rows are preserved verbatim in docs/matrix/batch-25-rows.csv and the 30 batch-26 rows in docs/matrix/batch-26-rows.csv): 81 rental-cluster rows (81 published, cluster 1"
+    },
+    {
+      "find": "- _queue/: empty (no drafts pending).",
+      "replace": "- Batch 26 (cluster-14 Vietnam travel, cluster 14 COMPLETE, production plan COMPLETE): 30 articles published 2026-09-24 (MM-0886-MM-0915: 4 transport comparisons (14.1), 6 city rental guides (14.2), 5 border/ownership guides (14.3), 15 nationwide travel guides (14.4); part-commits 79f3994, 550b668, ee799d8, 4c876ef, 3678055 and d5b0a51, wording/source repair 44c278c, closing inbound-link commit 8aeed05 (14 existing articles)) - see docs/matrix/batch-26-status.md. 981 articles site-wide. Route/place facts cited per article in front-matter sources; border/legal-adjacent articles carry review_status review-required; business facts exclusively from OWNER-FACTS.\n- _queue/: empty (no drafts pending)."
+    }
+  ],
+  "expectContains": [
+    "981 published articles",
+    "Batch 26",
+    "production plan is COMPLETE"
+  ],
+  "mmPairs": [
+    {
+      "find": "Cluster 13 is COMPLETE: 38 of 38 intents published (15 multi-day route guides (13.2) in Batch 25, MM-0871-MM-0885, 2026-09-24 — see docs/matrix/batch-25-status.md; rows preserved verbatim in docs/matrix/batch-25-rows.csv and merged into master-matrix.csv by the batch-25 docs-sync (936 -> 951)).",
+      "replace": "Cluster 13 is COMPLETE: 38 of 38 intents published (15 multi-day route guides (13.2) in Batch 25, MM-0871-MM-0885, 2026-09-24 — see docs/matrix/batch-25-status.md; rows preserved verbatim in docs/matrix/batch-25-rows.csv and merged into master-matrix.csv by the batch-25 docs-sync (936 -> 951)). Batch 26 completed cluster 14 and the production plan on 2026-09-24: all 30 cluster-14 vietnam-travel intents published (MM-0886-MM-0915: 4 transport comparisons (14.1), 6 city rental guides (14.2), 5 border/ownership guides (14.3), 15 nationwide travel guides (14.4) — see docs/matrix/batch-26-status.md; rows preserved verbatim in docs/matrix/batch-26-rows.csv and merged into master-matrix.csv by the batch-26 docs-sync (951 -> 981)). Cluster 14 is COMPLETE: 30 of 30 intents published. All 14 clusters are COMPLETE and the production plan is COMPLETE: the 988-intent planning framework settled at 981 committed matrix rows through per-cluster QA consolidation, and all 981 are published."
+    },
+    {
+      "find": "Full row-level matrix: docs/matrix/master-matrix.csv. The CSV currently holds 951 committed rows (after the batch-24 docs-sync merge 913 -> 936 and the batch-25 docs-sync merge 936 -> 951)",
+      "replace": "Full row-level matrix: docs/matrix/master-matrix.csv. The CSV currently holds 981 committed rows (after the batch-25 docs-sync merge 936 -> 951 and the batch-26 docs-sync merge 951 -> 981; production plan COMPLETE)"
+    },
+    {
+      "find": "9. Cluster 14 + internal-link audit",
+      "replace": "9. Cluster 14 + internal-link audit — COMPLETE (Batch 26, 2026-09-24: all 30 cluster-14 intents published, MM-0886-MM-0915; production plan COMPLETE)"
+    }
+  ],
+  "mmExpectContains": [
+    "Batch 26 completed cluster 14 and the production plan",
+    "981 committed rows",
+    "production plan COMPLETE"
+  ]
+}
