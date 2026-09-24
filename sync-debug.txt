@@ -1,16 +1,3 @@
-CSV structure: totalLines=783 idRows=770 firstId=MM-0001 lastId=MM-0704
-rowsFile docs/matrix/batch-20-rows.csv: idRows=50
-rowsFile docs/matrix/batch-21-rows.csv: idRows=39
-rowsFile docs/matrix/batch-22-rows.csv: idRows=25
-CSV merge OK: added 114, skipped 0 duplicates; ID rows 770 -> 884
-README CSV bullet bullet replace OK (1 physical line(s)): - docs/matrix/master-matrix.csv holds
-README OPEN ISSUES 1 replace OK (2 physical line(s))
-README CONTENT batches-17-21 bullet inserted before anchor: - _queue/
-README CONTENT batch-22 bullet inserted before anchor: - _queue/
-README DEPLOYMENT batch-22 bullet inserted after anchor: - Hosting:
-README CHANGE LOG: no changelog section found; skipping entry insertion (batch-22 state is recorded in CONTENT BATCH STATE and DEPLOYMENT STATE)
-MM row count sentence replaced
-MM pending-phrase absent (already merged or reworded): pending the master-matrix.csv sync merge 730 -> 770
-MM pending-phrase replaced: pending the master-matrix.csv sync merge 770 -> 820
-MM pending-phrase replaced: pending the master-matrix.csv sync merge 820 -> 859
-MM batch-22 sentence appended
+CSV structure: totalLines=897 idRows=884 firstId=MM-0001 lastId=MM-0818
+rowsFile docs/matrix/batch-23-rows.csv: idRows=27
+FATAL: docs/matrix/batch-23-rows.csv holds 27 ID rows (expected 29)
