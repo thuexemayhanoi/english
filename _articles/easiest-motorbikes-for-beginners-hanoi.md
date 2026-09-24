@@ -35,7 +35,7 @@ Day rates: 150,000-200,000 VND; contact us to confirm current availability.
 
 ## Nearly as easy: licence-free e-bikes
 
-For riders with no motorcycle licence at all, a licence-free e-bike is both the legal answer and the easiest machine: bicycle-like controls, low speeds, no gears, no petrol. It cannot keep up  with full traffic, but inside neighbourhood streets that is a feature for a beginner.
+For riders with no motorcycle licence at all, a licence-free e-bike is both the legal answer and the easiest machine: bicycle-like controls, low speeds, no gears, no petrol. It cannot keep up with full traffic, but inside neighbourhood streets that is a feature for a beginner.
 
 ## The middle option: semi-automatic underbones
 

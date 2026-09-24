@@ -27,7 +27,7 @@ Out on the rural roads of northern Vietnam, three small logistics questions deci
 
 ## Fuel
 
-In the delta and along the national-highway corridors, petrol stations are frequent; the Hanoi stations guide covers the city end. The pat tern changes with altitude: in the mountains, stretches can run for hours without a pump, and station hours in remote districts are shorter than you expect. The rules that never fail:
+In the delta and along the national-highway corridors, petrol stations are frequent; the Hanoi stations guide covers the city end. The pattern changes with altitude: in the mountains, stretches can run for hours without a pump, and station hours in remote districts are shorter than you expect. The rules that never fail:
 
 - **The half-tank rule**: below half a tank, the next station you pass is the one you use. Do not bank on the town after this one.
 - Fill up at the last district town before a mountain or lake area — Thung Nai, Tam Dao, Perfume Pagoda-style valleys all work this way.
