@@ -27,7 +27,7 @@ The Imperial Citadel of Thang Long is Hanoi's deepest history made visible: a th
 
 ## What you are visiting
 
-The citadel's central sector is an archaeology-first site: glass-covered excavation trenches showing foundations and roads of successive dynasties, the Flag Tower at its edge, the Hanoi Flag Tower? — no; simpler: the Flag Tower standing at the complex's corner, palace gates rebuilt and restored, and below the grass, the bunker complex from the Vietnam War era. Two hours is a comfortable first visit; the site rewards reading the display panels rather than racing between photo spots.
+The citadel's central sector is an archaeology-first site: glass-covered excavation trenches showing foundations and roads of successive dynasties, the Flag Tower standing at its corner, palace gates rebuilt and restored, and below the grass, the bunker complex from the Vietnam War era. Two hours is a comfortable first visit; the site rewards reading the display panels rather than racing between photo spots.
 
 ## The route
 
