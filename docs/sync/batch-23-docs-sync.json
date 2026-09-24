@@ -10,5 +10,5 @@
     ],
     "expectAfter": 913
   },
-  "note": "Batch-23 docs-sync re-run 4: final validation pass. The merge and README/MASTER-MATRIX state were applied by run 22 (bot commit 9fe58ab: master-matrix.csv 884 -> 913, cluster 12 COMPLETE 54 of 54). This run re-validates the 29 merged master rows strictly (16 fields, Status=published, clean slug tokens), normalizes docs/matrix/batch-23-rows.csv from the validated master rows, appends the docs-sync finalization record to docs/matrix/batch-23-status.md, and re-checks the 913-row count. See docs/matrix/batch-23-status.md for the full verification record."
+  "note": "Batch-23 docs-sync re-run 5: final validation pass. The merge and README/MASTER-MATRIX state were applied by run 22 (bot commit 9fe58ab: master-matrix.csv 884 -> 913, cluster 12 COMPLETE 54 of 54). This run re-validates the 29 merged master rows strictly (16 fields, Status=published, clean slug tokens), normalizes docs/matrix/batch-23-rows.csv from the validated master rows, appends the docs-sync finalization record to docs/matrix/batch-23-status.md, and re-checks the 913-row count. master-matrix.csv is headerless (line 0 is the MM-0001 data row). See docs/matrix/batch-23-status.md for the full verification record."
 }

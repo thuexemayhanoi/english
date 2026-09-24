@@ -46,11 +46,6 @@ diag.push('CSV structure: totalLines=' + masterLines.length +
   ' firstId=' + idRowLines[0].split(',')[0] +
   ' lastId=' + idRowLines[idRowLines.length - 1].split(',')[0]);
 
-const header = masterLines[0];
-if (header.indexOf('ID,Primary topic,') !== 0) {
-  die('master-matrix.csv header unexpected: ' + header.slice(0, 60));
-}
-
 const expectedIds = [];
 for (let i = 819; i <= 847; i++) expectedIds.push('MM-0' + i);
 const normRows = [];
@@ -81,7 +76,11 @@ for (const id of expectedIds) {
 diag.push('batch-23 master rows validated: 29 rows (MM-0819..MM-0847), ' +
   '16 fields each, Status=published, clean slug tokens');
 
-const normContent = header + NL + normRows.join(NL) + NL;
+const rowsHeader = 'ID,Primary topic,Proposed title,Primary query,Search intent,' +
+  'Cluster,Subcluster,Content type,Audience,Source basis,Research flags,' +
+  'Legal/tech sensitivity,Closest related article,Differentiation reason,' +
+  'Internal link targets,Status';
+const normContent = rowsHeader + NL + normRows.join(NL) + NL;
 for (const rf of merge.rowsFiles) {
   const cur = fs.readFileSync(rf.file, 'utf8');
   const curLines = cur.split(NL);
@@ -114,8 +113,9 @@ if (statusDoc.indexOf(marker) === -1) {
     '- Rows-file history: 87b74be pushed docs/matrix/batch-23-rows.csv with transport-mangled physical lines (stray mid-token newlines; the 1e425ec Status-append repair could not fix li' +
     'ne-based corruption). The file was reconstructed from the 87b74be blob (29 clean single-line rows, Status=published) and re-pushed in 81a59f1; docs-sync run 22 validated parsedRows' +
     '=29 and merged all 29 rows into master-matrix.csv (884 -> 913).',
-    '- Re-run 4 validation: this run re-validates the 29 merged master rows (16 fields, Status=published, clean internal-link slug tokens, no double-space damage), checks docs/matrix/ba' +
-    'tch-23-rows.csv against the validated master rows, and re-checks the 913-row master count. Result recorded in sync-debug.txt at the repo root.',
+    '- Re-run 5 validation: this run re-validates the 29 merged master rows (16 fields, Status=published, clean internal-link slug tokens, no double-space damage), checks docs/matrix/ba' +
+    'tch-23-rows.csv against the validated master rows, and re-checks the 913-row master count. master-matrix.csv is a headerless ID-row list (line 0 is the MM-0001 row), so the rows-fi' +
+    'le header is taken from the canonical 16-column matrix header. Result recorded in sync-debug.txt at the repo root.',
     ''
   ];
   statusDoc += section.join(NL);
