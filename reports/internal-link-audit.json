@@ -2,96 +2,11 @@
   "tool": "internal-link-audit",
   "counts": {
     "P0": 0,
-    "P1": 12,
+    "P1": 0,
     "P2": 0,
     "P3": 0
   },
   "brokenLinks": 0,
   "orphans": 0,
-  "findings": [
-    {
-      "severity": "P1",
-      "file": "_articles/best-motorbike-for-long-distance-vietnam.md",
-      "url": "/articles/best-motorbike-for-long-distance-vietnam/",
-      "issue": "internal_link_targets references missing slug: \"best-motorbike-for-day-trips-from-hanoi",
-      "fix": "Fix target slug"
-    },
-    {
-      "severity": "P1",
-      "file": "_articles/best-motorbike-for-long-distance-vietnam.md",
-      "url": "/articles/best-motorbike-for-long-distance-vietnam/",
-      "issue": "internal_link_targets references missing slug: rental-motorbike-inspection-checklist\"",
-      "fix": "Fix target slug"
-    },
-    {
-      "severity": "P1",
-      "file": "_articles/helmet-locks-theft-vietnam.md",
-      "url": "/articles/helmet-locks-theft-vietnam/",
-      "issue": "internal_link_targets references missing slug: \"where-to-park-motorbike-hanoi",
-      "fix": "Fix target slug"
-    },
-    {
-      "severity": "P1",
-      "file": "_articles/helmet-locks-theft-vietnam.md",
-      "url": "/articles/helmet-locks-theft-vietnam/",
-      "issue": "internal_link_targets references missing slug: helmet-care-replacing-guide-vietnam\"",
-      "fix": "Fix target slug"
-    },
-    {
-      "severity": "P1",
-      "file": "_articles/horn-etiquette-motorbike-vietnam.md",
-      "url": "/articles/horn-etiquette-motorbike-vietnam/",
-      "issue": "internal_link_targets references missing slug: \"defensive-riding-motorbike-vietnam",
-      "fix": "Fix target slug"
-    },
-    {
-      "severity": "P1",
-      "file": "_articles/horn-etiquette-motorbike-vietnam.md",
-      "url": "/articles/horn-etiquette-motorbike-vietnam/",
-      "issue": "internal_link_targets references missing slug: riding-motorbike-blind-spots-vietnam\"",
-      "fix": "Fix target slug"
-    },
-    {
-      "severity": "P1",
-      "file": "_articles/is-insurance-included-motorbike-rental-hanoi.md",
-      "url": "/articles/is-insurance-included-motorbike-rental-hanoi/",
-      "issue": "internal_link_targets references missing slug: \"do-you-need-insurance-to-ride-vietnam",
-      "fix": "Fix target slug"
-    },
-    {
-      "severity": "P1",
-      "file": "_articles/is-insurance-included-motorbike-rental-hanoi.md",
-      "url": "/articles/is-insurance-included-motorbike-rental-hanoi/",
-      "issue": "internal_link_targets references missing slug: motorbike-accident-duties-vietnam\"",
-      "fix": "Fix target slug"
-    },
-    {
-      "severity": "P1",
-      "file": "_articles/mountain-pass-riding-motorbike-vietnam.md",
-      "url": "/articles/mountain-pass-riding-motorbike-vietnam/",
-      "issue": "internal_link_targets references missing slug: \"cornering-motorbike-vietnam",
-      "fix": "Fix target slug"
-    },
-    {
-      "severity": "P1",
-      "file": "_articles/mountain-pass-riding-motorbike-vietnam.md",
-      "url": "/articles/mountain-pass-riding-motorbike-vietnam/",
-      "issue": "internal_link_targets references missing slug: best-motorbike-for-long-distance-vietnam\"",
-      "fix": "Fix target slug"
-    },
-    {
-      "severity": "P1",
-      "file": "_articles/renting-motorbike-hanoi-tet-holidays.md",
-      "url": "/articles/renting-motorbike-hanoi-tet-holidays/",
-      "issue": "internal_link_targets references missing slug: \"how-to-book-a-motorbike-rental-hanoi",
-      "fix": "Fix target slug"
-    },
-    {
-      "severity": "P1",
-      "file": "_articles/renting-motorbike-hanoi-tet-holidays.md",
-      "url": "/articles/renting-motorbike-hanoi-tet-holidays/",
-      "issue": "internal_link_targets references missing slug: motorbike-rental-agreement-hanoi\"",
-      "fix": "Fix target slug"
-    }
-  ]
+  "findings": []
 }
