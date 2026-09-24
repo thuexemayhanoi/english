@@ -33,6 +33,7 @@ function reportBody(m) {
   lines.push('- MAIN SHA audited: ' + m.sha);
   lines.push('- Result: ' + m.result);
   lines.push('- Published articles: ' + m.articleCount + ' (baseline ' + m.baselineArticleCount + '), clusters: ' + m.clusters);
+  lines.push('- QA tool findings: P0=' + (m.toolSeverityTotals ? m.toolSeverityTotals.P0 : 0) + ' P1=' + (m.toolSeverityTotals ? m.toolSeverityTotals.P1 : 0) + ' P2=' + (m.toolSeverityTotals ? m.toolSeverityTotals.P2 : 0) + ' P3=' + (m.toolSeverityTotals ? m.toolSeverityTotals.P3 : 0));
   lines.push('- Assistant tests: ' + m.assistant.summary + ', broken links: ' + m.brokenLinks + ', orphans: ' + m.orphans);
   lines.push('');
   if (m.blocking.length) {
@@ -40,9 +41,10 @@ function reportBody(m) {
     for (const b of m.blocking) lines.push('- [' + b.severity + '/' + b.area + '] ' + b.detail);
     lines.push('');
   }
-  if (m.reviewItems.length) {
+  if (m.reviewItems.length || (m.toolReviewCounts && Object.keys(m.toolReviewCounts).length)) {
     lines.push('## Findings requiring review (not auto-fixed)');
     for (const r of m.reviewItems) lines.push('- [' + r.severity + '/' + r.area + '] ' + r.detail);
+    for (const t of Object.keys(m.toolReviewCounts || {})) lines.push('- QA tool ' + t + ': ' + m.toolReviewCounts[t] + ' P2/P3 finding(s) — see reports/' + t + '.json');
     lines.push('');
   }
   if (m.safeFixesAvailable.length) {
@@ -91,14 +93,31 @@ async function cmdIssue() {
 async function cmdPr(headBranch, files) {
   const fixes = files && files.length ? files : JSON.parse(fs.readFileSync(path.join(ROOT, 'reports', 'maintenance.json'), 'utf8')).fixesApplied || [];
   if (!fixes.length) { console.log('maintenance-escalate: no fixes to publish.'); return 0; }
-  const r = await api('/repos/' + repo + '/pulls', 'POST', {
-    title: 'Automated maintenance: deterministic safe fixes',
-    head: headBranch, base: 'main',
-    body: 'Applied by the Weekly Maintenance safe-fix job. The COMPLETE Quality Gate (all validators, Jekyll build with the GitHub Pages toolchain, rendered-site audit, Guide Assistant tests, article/slug inventory) passed on this exact repaired state before this PR was created.\n\nFixes applied: ' + fixes.join(', ') + '\n\nSafe-fix policy: deterministic, low-risk only. No article content, legal facts, business facts, prices, specifications or editorial text was rewritten.\n\nIf the squash merge below fails (branch protection/permissions), this PR stays open for review.'
-  });
-  if (!r.ok) { console.error('maintenance-escalate: PR create failed', r.status, await r.text()); process.exit(1); }
-  const pr = await r.json();
-  console.log('maintenance-escalate: created PR #' + pr.number + ' (' + pr.html_url + ')');
+  // Idempotent: reuse an existing open PR from this exact maintenance branch to
+  // main instead of creating a duplicate (safe-fix job re-runs produce the same
+  // deterministic branch name). The head filter uses the OWNER:branch format.
+  const owner = repo.split('/')[0];
+  const lr = await api('/repos/' + repo + '/pulls?state=open&head=' + encodeURIComponent(owner + ':' + headBranch) + '&base=main');
+  let pr = null;
+  if (lr.ok) {
+    const list = await lr.json();
+    pr = (list || []).find(p => p.head && p.head.ref === headBranch) || null;
+  }
+  const body = 'Applied by the Weekly Maintenance safe-fix job. The COMPLETE Quality Gate (all validators, Jekyll build with the GitHub Pages toolchain, rendered-site audit, Guide Assistant tests, article/slug inventory) passed on this exact repaired state before this PR was created.\n\nFixes applied: ' + fixes.join(', ') + '\n\nSafe-fix policy: deterministic, low-risk only. No article content, legal facts, business facts, prices, specifications or editorial text was rewritten.\n\nIf the squash merge below fails (branch protection/permissions), this PR stays open for review.';
+  if (pr) {
+    // Re-run of the same maintenance branch: refresh the body, leave one PR.
+    await api('/repos/' + repo + '/pulls/' + pr.number, 'PATCH', { body });
+    console.log('maintenance-escalate: reusing existing open PR #' + pr.number + ' (' + pr.html_url + ')');
+  } else {
+    const r = await api('/repos/' + repo + '/pulls', 'POST', {
+      title: 'Automated maintenance: deterministic safe fixes',
+      head: headBranch, base: 'main',
+      body
+    });
+    if (!r.ok) { console.error('maintenance-escalate: PR create failed', r.status, await r.text()); process.exit(1); }
+    pr = await r.json();
+    console.log('maintenance-escalate: created PR #' + pr.number + ' (' + pr.html_url + ')');
+  }
   const mr = await api('/repos/' + repo + '/pulls/' + pr.number + '/merge', 'PUT', { merge_method: 'squash' });
   if (mr.ok) { console.log('maintenance-escalate: PR #' + pr.number + ' squash-merged.'); return 0; }
   console.log('maintenance-escalate: auto-merge not permitted (' + mr.status + ') — PR #' + pr.number + ' left open for review.');

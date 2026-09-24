@@ -34,8 +34,13 @@ if (!fs.existsSync(BASELINE_PATH)) {
 const baseline = JSON.parse(fs.readFileSync(BASELINE_PATH, 'utf8'));
 
 // ---------- findings ----------
-const findings = []; // {severity, area, detail, fix}
-function add(severity, area, detail, fix) { findings.push({ severity, area, detail, fix }); }
+const findings = []; // {severity, area, detail, fix, dup}
+// dup:true marks a maintenance finding that reports the SAME defect a QA tool
+// already reported (counted in toolSeverityTotals). Dup entries stay visible
+// in the detailed list but are excluded from maintenance totals and blocking
+// determination so nothing is double-counted; the tool's own blocking exit
+// code already fails the audit.
+function add(severity, area, detail, fix, dup) { findings.push({ severity, area, detail, fix, dup: !!dup }); }
 
 function mainSha() { return process.env.GITHUB_SHA || 'unknown'; }
 function readmeText() { return fs.readFileSync(path.join(ROOT, 'README.md'), 'utf8'); }
@@ -45,15 +50,31 @@ const hasSite = fs.existsSync(path.join(ROOT, '_site'));
 const tools = ['frontmatter-check', 'content-duplicate-check', 'internal-link-audit', 'seo-audit', 'sitemap-check', 'schema-check'];
 if (hasSite) tools.push('rendered-site-audit');
 const toolResults = {};
+// Aggregate severity totals from the QA-tool reports themselves. Blocking
+// findings are also re-surfaced as maintenance P1 entries (dedup key below).
+const toolSeverityTotals = { P0: 0, P1: 0, P2: 0, P3: 0 };
+// Per-file index of tool findings, used to mark maintenance findings that
+// duplicate a tool finding (same file + same offending token in the issue).
+const toolFindingsByFile = new Map();
 for (const t of tools) {
   const r = spawnSync(process.execPath, [path.join(__dirname, t + '.js')], { encoding: 'utf8' });
   const jf = path.join(ROOT, 'reports', t + '.json');
   const data = fs.existsSync(jf) ? JSON.parse(fs.readFileSync(jf, 'utf8')) : null;
   toolResults[t] = { status: r.status, data };
-  if (r.status !== 0) add('P0', t, 'validator exited non-zero (' + r.status + ')', 'inspect ' + t + '.js output');
+  if (r.status !== 0) add('P0', t, 'validator exited non-zero (' + r.status + ') — see that tool report for the blocking finding(s)', 'inspect ' + t + '.js output');
   for (const f of ((data && data.findings) || [])) {
-    if (L.isBlocking(f)) add('P1', t, 'blocking finding: ' + f.issue + ' [' + f.file + ']', f.fix);
+    toolSeverityTotals[f.severity] = (toolSeverityTotals[f.severity] || 0) + 1;
+    if (!toolFindingsByFile.has(f.file)) toolFindingsByFile.set(f.file, []);
+    toolFindingsByFile.get(f.file).push(f);
   }
+}
+// Does a QA tool already report this defect (same file, same offending token)?
+function toolReportsDefect(file, token) {
+  token = String(token);
+  for (const f of (toolFindingsByFile.get(file) || [])) {
+    if (String(f.issue || '').includes(token)) return true;
+  }
+  return false;
 }
 
 // Guide Assistant regression (Mode 1 against source, or Mode 2 against a built index).
@@ -85,7 +106,7 @@ if (unknownClusters.length) add('P1', 'inventory', 'unknown topic_cluster values
 // ---------- 3. REVIEW_REQUIRED consistency ----------
 const reviewRequired = arts.filter(a => String(a.fm.review_status || '').toUpperCase() === 'REVIEW_REQUIRED');
 const badRs = arts.filter(a => a.fm.review_status && !['VERIFIED', 'REVIEW_REQUIRED'].includes(String(a.fm.review_status).toUpperCase()));
-for (const a of badRs) add('P2', 'review_status', a.file + ': invalid review_status ' + JSON.stringify(a.fm.review_status), 'use VERIFIED or REVIEW_REQUIRED (uppercase)');
+for (const a of badRs) add('P2', 'review_status', a.file + ': invalid review_status ' + JSON.stringify(a.fm.review_status), 'use VERIFIED or REVIEW_REQUIRED (uppercase)', toolReportsDefect(a.file, 'review_status'));
 const layout = fs.readFileSync(path.join(ROOT, '_layouts', 'article.html'), 'utf8');
 if (!layout.includes('review-banner')) add('P1', 'review_status', 'article layout no longer renders the review banner', 'restore the review_required branch in _layouts/article.html');
 const baselineRR = (baseline.reviewStatus && baseline.reviewStatus.REVIEW_REQUIRED) || 0;
@@ -108,7 +129,7 @@ for (const a of arts) {
   const s = a.fm.sources;
   const empty = !s || (Array.isArray(s) && s.length === 0);
   if (empty && a.fm.topic_cluster === 'law-licences')
-    add('P2', 'sources', a.file + ': legal article with empty sources', 'cite primary sources or set REVIEW_REQUIRED');
+    add('P2', 'sources', a.file + ': legal article with empty sources', 'cite primary sources or set REVIEW_REQUIRED', toolReportsDefect(a.file, 'without sources'));
 }
 
 // ---------- 6. malformed internal_link_targets (unambiguous-target safe fix) ----------
@@ -123,11 +144,14 @@ for (const a of arts) {
   for (const b of bad) {
     const n = norm(b);
     const matches = currentSlugs.filter(s => s === n);
+    // The link audit flags the same broken target (blocking) — mark as dup so
+    // the maintenance totals do not double-count it; the safe fix still applies.
+    const dup = toolReportsDefect(a.file, b);
     if (matches.length === 1) {
       safeFixes.push({ file: a.file, kind: 'internal_link_target', from: b, to: matches[0] });
-      add('P2', 'internal_link_targets', a.file + ': target ' + JSON.stringify(b) + ' matches exactly one existing slug', 'auto-fixable with --fix (normalise to ' + matches[0] + ')');
+      add('P2', 'internal_link_targets', a.file + ': target ' + JSON.stringify(b) + ' matches exactly one existing slug', 'auto-fixable with --fix (normalise to ' + matches[0] + ')', dup);
     } else {
-      add('P1', 'internal_link_targets', a.file + ': target ' + JSON.stringify(b) + ' matches no existing slug', 'fix manually — never guess a target');
+      add('P1', 'internal_link_targets', a.file + ': target ' + JSON.stringify(b) + ' matches no existing slug', 'fix manually — never guess a target', dup);
     }
   }
 }
@@ -257,14 +281,25 @@ function applyFixes() {
 if (FIX && safeFixes.length) applyFixes();
 
 // ---------- result ----------
-const blocking = findings.filter(f => f.severity === 'P0' || f.severity === 'P1');
-const reviewItems = findings.filter(f => f.severity === 'P2' || f.severity === 'P3');
-const result = blocking.length ? 'FAIL' : (reviewItems.length ? 'PASS_WITH_REVIEW' : 'PASS');
+// Blocking = maintenance findings (P0/P1, excluding duplicates already counted
+// and blocked by the QA tools' own non-zero exit) OR any QA tool that reported
+// blocking findings (its exit code non-zero already surfaced as a P0 above).
+const blocking = findings.filter(f => (f.severity === 'P0' || f.severity === 'P1') && !f.dup);
+const reviewItems = findings.filter(f => (f.severity === 'P2' || f.severity === 'P3') && !f.dup);
+// QA-tool P2/P3 findings are report-only review items, aggregated per tool.
+const toolReview = {};
+for (const t of tools) {
+  const fs2 = ((toolResults[t].data && toolResults[t].data.findings) || []).filter(f => f.severity === 'P2' || f.severity === 'P3');
+  if (fs2.length) toolReview[t] = fs2;
+}
+const toolReviewCount = Object.values(toolReview).reduce((a, x) => a + x.length, 0);
+const result = blocking.length ? 'FAIL' : ((reviewItems.length || toolReviewCount) ? 'PASS_WITH_REVIEW' : 'PASS');
 
 // ---------- report ----------
 const now = new Date();
+// Maintenance-specific totals exclude dup entries (already counted in tool totals).
 const counts = { P0: 0, P1: 0, P2: 0, P3: 0 };
-for (const f of findings) counts[f.severity]++;
+for (const f of findings) if (!f.dup) counts[f.severity]++;
 const ilData = toolResults['internal-link-audit'] && toolResults['internal-link-audit'].data || {};
 const dupData = toolResults['content-duplicate-check'] && toolResults['content-duplicate-check'].data || {};
 
@@ -277,7 +312,8 @@ md += '## RESULT: ' + result + '\n\n';
 md += '| Metric | Value |\n|---|---|\n';
 md += '| Total published articles | ' + arts.length + ' (baseline ' + baseline.articleCount + ') |\n';
 md += '| Clusters | ' + Object.keys(perCluster).length + ' (baseline ' + baseline.clusters.length + ') |\n';
-md += '| Maintenance findings | P0=' + counts.P0 + ' P1=' + counts.P1 + ' P2=' + counts.P2 + ' P3=' + counts.P3 + ' |\n';
+md += '| QA tool findings (all severities) | P0=' + toolSeverityTotals.P0 + ' P1=' + toolSeverityTotals.P1 + ' P2=' + toolSeverityTotals.P2 + ' P3=' + toolSeverityTotals.P3 + ' |\n';
+md += '| Maintenance-specific findings | P0=' + counts.P0 + ' P1=' + counts.P1 + ' P2=' + counts.P2 + ' P3=' + counts.P3 + ' (excludes defects already reported by QA tools) |\n';
 md += '| Blocking (P0/P1) | ' + blocking.length + ' |\n';
 md += '| QA toolkit | ' + tools.map(t => t + ':' + (toolResults[t].status === 0 ? 'ok' : 'EXIT ' + toolResults[t].status)).join(', ') + ' |\n';
 md += '| Assistant tests | ' + assistantSummary + ' |\n';
@@ -286,7 +322,7 @@ md += '| Orphan pages | ' + (ilData.orphans !== undefined ? ilData.orphans : 'n/
 md += '| Duplicate findings | ' + ((dupData.findings || []).length) + ' |\n';
 md += '| REVIEW_REQUIRED articles | ' + reviewRequired.length + ' (' + reviewRequired.map(a => a.name.replace(/\.md$/, '')).join(', ') + ') |\n';
 md += '| Stale last_reviewed (>' + STALE_DAYS + 'd) | ' + stale.length + ' |\n';
-md += '| Source/citation warnings | ' + findings.filter(f => f.area === 'sources').length + ' |\n';
+md += '| Source/citation warnings | ' + findings.filter(f => f.area === 'sources' && !f.dup).length + ' |\n';
 md += '| Sitemap status | ' + (toolResults['sitemap-check'] && toolResults['sitemap-check'].status === 0 ? 'clean (gaps=0)' : 'CHECK') + ' |\n';
 md += '| Schema status | ' + (toolResults['schema-check'] && toolResults['schema-check'].status === 0 ? 'clean' : 'CHECK') + ' |\n';
 md += '| Rendered-site audit | ' + (hasSite ? (toolResults['rendered-site-audit'] && toolResults['rendered-site-audit'].status === 0 ? 'pass' : 'CHECK') : 'not run (no _site build in this run)') + ' |\n\n';
@@ -295,7 +331,23 @@ md += '## Counts per cluster\n\n| Cluster | Count |\n|---|---|\n';
 for (const c of L.CLUSTERS) md += '| ' + c + ' | ' + (perCluster[c] || 0) + ' |\n';
 
 md += '\n## Blocking findings\n\n' + (blocking.length ? blocking.map(f => '- **' + f.severity + '** [' + f.area + '] ' + f.detail + ' — fix: ' + f.fix).join('\n') : 'None.') + '\n';
-md += '\n## Review findings (not auto-fixed)\n\n' + (reviewItems.length ? reviewItems.map(f => '- ' + f.severity + ' [' + f.area + '] ' + f.detail + ' — ' + f.fix).join('\n') : 'None.') + '\n';
+md += '\n## Review findings (not auto-fixed)\n\n';
+{
+  const lines = [];
+  for (const f of reviewItems) lines.push('- ' + f.severity + ' [maintenance/' + f.area + '] ' + f.detail + ' — ' + f.fix);
+  // QA-tool P2 findings, listed per tool (report-only, never auto-fixed).
+  for (const t of Object.keys(toolReview)) {
+    const p2 = toolReview[t].filter(f => f.severity === 'P2');
+    const p3 = toolReview[t].filter(f => f.severity === 'P3');
+    if (p2.length) {
+      lines.push('- P2 [' + t + '] ' + p2.length + ' finding(s):');
+      for (const f of p2.slice(0, 20)) lines.push('  - ' + f.issue + ' [' + f.file + ']');
+      if (p2.length > 20) lines.push('  - … ' + (p2.length - 20) + ' more (see reports/' + t + '.json)');
+    }
+    if (p3.length) lines.push('- P3 [' + t + '] ' + p3.length + ' finding(s) — signals only; see reports/' + t + '.json');
+  }
+  md += (lines.length ? lines.join('\n') : 'None.') + '\n';
+}
 md += '\n## Safe fixes\n\n';
 if (FIX) {
   md += (fixedFiles.length ? 'Applied to: ' + fixedFiles.join(', ') : 'None applicable.') + '\n';
@@ -316,6 +368,8 @@ fs.writeFileSync(REPORT_JSON, JSON.stringify({
   perCluster,
   blocking: blocking.map(f => ({ severity: f.severity, area: f.area, detail: f.detail })),
   reviewItems: reviewItems.map(f => ({ severity: f.severity, area: f.area, detail: f.detail })),
+  toolSeverityTotals,
+  toolReviewCounts: Object.fromEntries(Object.entries(toolReview).map(([t, fs2]) => [t, fs2.length])),
   assistant: { ok: assistantOK, summary: assistantSummary },
   brokenLinks: ilData.brokenLinks !== undefined ? ilData.brokenLinks : null,
   orphans: ilData.orphans !== undefined ? ilData.orphans : null,

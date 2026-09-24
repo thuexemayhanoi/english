@@ -58,6 +58,12 @@ jobs:
         id: result
         if: always()
         run: |
+          # Robust when the audit step failed before writing the report: empty
+          # outputs make safe-fixes skip (nothing verified to repair).
+          if [ ! -f reports/maintenance.json ]; then
+            echo "result=" >> "$GITHUB_OUTPUT"; echo "fixes=false" >> "$GITHUB_OUTPUT"
+            echo "maintenance.json missing — audit did not complete"; exit 0
+          fi
           echo "result=$(jq -r .result reports/maintenance.json)" >> "$GITHUB_OUTPUT"
           echo "fixes=$(jq -r 'if (.safeFixesAvailable | length) > 0 then "true" else "false" end' reports/maintenance.json)" >> "$GITHUB_OUTPUT"
           cat reports/maintenance-latest.md
@@ -76,9 +82,13 @@ jobs:
 
   safe-fixes:
     needs: maintenance
-    # Only the deterministic fixes flagged by the audit; the repaired state must
-    # pass the COMPLETE gate below before anything is pushed or merged.
-    if: needs.maintenance.outputs.fixes == 'true'
+    # The maintenance audit intentionally exits non-zero when it finds blocking
+    # P0/P1 findings, so this job must NOT depend on the audit's success. It may
+    # run after a failed audit — but ONLY when the audit's own output says
+    # deterministic safe fixes are available. A failed audit with no safe fix
+    # available must skip this job (nothing to repair; escalation already ran).
+    # !cancelled(): never run if the audit was cancelled.
+    if: ${{ !cancelled() && needs.maintenance.outputs.fixes == 'true' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write # push the maintenance branch
@@ -102,13 +112,24 @@ jobs:
           # Exit 1 here reflects the PRE-fix state (the audit phase of this run);
           # the repaired state is verified by the re-audit step below.
           node scripts/maintenance.js --fix || true
-          if [ -z "$(git status --porcelain)" ]; then
+          # Commit hygiene: stage ONLY the files maintenance.js reports as
+          # actually repaired (fixesApplied). Transient artifacts regenerated
+          # by every audit run — reports/maintenance.json, the timestamped
+          # reports/maintenance-latest.md, tool report JSONs — stay
+          # uncommitted; reports reach the artifact upload only.
+          FIXFILES=$(jq -r '.fixesApplied | map(select(. != "")) | join("\n")' reports/maintenance.json)
+          if [ -z "$FIXFILES" ]; then
             echo "fixed=0" >> "$GITHUB_ENV"
-            echo "no changes produced — nothing to verify or push"
+            echo "no repaired files — nothing to verify or push"
           else
-            git add -A
-            git commit -m "Automated maintenance: deterministic safe fixes (weekly run)"
-            echo "fixed=1" >> "$GITHUB_ENV"
+            echo "$FIXFILES" | while read -r f; do [ -n "$f" ] && git add -- "$f"; done
+            if git diff --cached --quiet; then
+              echo "fixed=0" >> "$GITHUB_ENV"
+              echo "listed repairs produced no staged change — nothing to push"
+            else
+              git commit -m "Automated maintenance: deterministic safe fixes (weekly run)"
+              echo "fixed=1" >> "$GITHUB_ENV"
+            fi
           fi
       - name: Build repaired site with Jekyll (GitHub Pages toolchain)
         if: env.fixed == '1'
