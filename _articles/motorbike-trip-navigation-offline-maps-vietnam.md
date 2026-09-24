@@ -21,14 +21,15 @@ sources:
   - "https://www.vietnamcoracle.com/which-maps-to-use-for-a-motorbike-trip/ — comparison of maps for motorbike trips in Vietnam; connectivity is generally good but offline maps are recommended regardless, retrieved 2026-09-24"
   - "https://govnsim.com/offline-maps-north-vietnam-2025-ha-giang-loop-navigation-guide/ — mountain coverage gaps in the north make offline maps essential for routes like the Ha Giang loop, retrieved 2026-09-24"
   - "https://stylemotorbikes.com/using-google-maps-for-motorbike-travel-in-vietnam/ — Google Maps is the most-used navigation tool for motorbike travel in Vietnam, with Street View useful for checking roads ahead, retrieved 2026-09-24"
-internal_link_targets: hanoi-navigation-motorbike-guide, phone-mounts-motorbike-vietnam, motorbikes-on-expressway-vietnam, fuel-atm-phone-coverage-rural-rides-vietnam, motorbike-trip-prep-checklist-hanoi
+internal_link_targets: hanoi-navigation-motorbike-guide, phone-mounts-motorbike-vietnam, motorbikes-on-expressway-vietnam, fuel-atm-phone-coverage-rural-rides-vietnam, motorbike-trip-prep-checklist-hanoi, northeast-vietnam-motorbike-loop
 ---
 
 Navigation is the quiet deal-breaker of Vietnamese motorbike trips. Signal is generally good — but the mountains that are worth riding are precisely where coverage drops, and the routing defaults that work for cars can send motorbikes into trouble.
 
 ## The expressway trap
 
-The single biggest navigation mistake: car-mode routing that puts you on an expressway (CT-class roads). Motorbikes are banned from Vietnamese expressways, and map apps will happily offer them. Learn to refuse CT-road suggestions and follow the old national highways instead — QL (quốc lộ) roads are the two-wheel backbone of the country.
+The single biggest navigation mistake: car-mode routing that puts you on an expressway (CT-class roads). Motorbikes are
+ banned from Vietnamese expressways, and map apps will happily offer them. Learn to refuse CT-road suggestions and follow the old national highways instead — QL (quốc lộ) roads are the two-wheel backbone of the country.
 
 ## Google Maps
 

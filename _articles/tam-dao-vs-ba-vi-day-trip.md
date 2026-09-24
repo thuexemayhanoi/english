@@ -21,14 +21,15 @@ sources:
   - "https://goldenholidaytravel.com/how-to-get-to-tam-dao-national-park.new — Tam Dao is about 85 km from Hanoi, roughly two hours by motorbike, with the final stretch climbing to the town, retrieved 2026-09-24"
   - "https://stylemotorbikes.com/ba-vi-national-park-motorbike/ — the Ba Vi route follows Highway 32 through Son Tay, and the park road climbs to around 1,100 m where walking trails begin, retrieved 2026-09-24"
   - "https://vietnamdiscovery.com/hanoi/activities/ba-vi-national-park/ — about an hour and a half from Hanoi to Ba Vi by motorbike via the Thang Long corridor and Highway 32 side, retrieved 2026-09-24"
-internal_link_targets: tam-dao-day-trip-motorbike, ba-vi-national-park-day-trip-motorbike, best-motorbike-for-day-trips-from-hanoi, mountain-pass-riding-motorbike-vietnam, how-to-rent-a-motorbike-hanoi
+internal_link_targets: tam-dao-day-trip-motorbike, ba-vi-national-park-day-trip-motorbike, best-motorbike-for-day-trips-from-hanoi, mountain-pass-riding-motorbike-vietnam, how-to-rent-a-motorbike-hanoi, first-mountain-motorbike-trip-vietnam-comparison
 ---
 
 Two mountain massifs dominate the day-trip conversation among Hanoi riders: Tam Dao, the former hill station with the ridge-top town, and Ba Vi, the national park with the long forest climb. They are both mountains, and otherwise they are different trips. Here is how they actually compare.
 
 ## Distance and time
 
-Tam Dao is about 85 kilometres north — roughly two hours out, plus the hill climb. Ba Vi is closer on paper (60–70 km west, about an hour and a half to the park area), but its own climb inside the park adds a long, slow section before you park. Total saddle time is similar; Ba Vi puts its mountain climbing at the end, Tam Dao spreads it over the last 15 kilometres of switchbacks.
+Tam Dao is about 85 kilometres north — roughly two hours out, plus the hill climb. Ba Vi is closer on paper (60–70 km west, about an hour and 
+a half to the park area), but its own climb inside the park adds a long, slow section before you park. Total saddle time is similar; Ba Vi puts its mountain climbing at the end, Tam Dao spreads it over the last 15 kilometres of switchbacks.
 
 ## The riding
 

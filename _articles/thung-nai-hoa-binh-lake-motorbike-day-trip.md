@@ -21,14 +21,15 @@ sources:
   - "https://mytour.vn/en/blog/bai-viet/comprehensive-guide-to-traveling-thung-nai-hoa-binh.html — Thung Nai sits roughly 100–110 km from Hanoi in Hoa Binh province; reachable by car or motorbike with buses also serving Hoa Binh city, retrieved 2026-09-24"
   - "https://thuexemayhanoigiare.com/en/travel-thung-nai/ — Thung Nai is about 100 km from Hanoi, an easy motorbike destination, retrieved 2026-09-24"
   - "https://www.tripadvisor.com/Attraction_Review-g3320435-d11530241-Reviews-Thung_Nai-Hoa_Binh_Hoa_Binh_Province.html — travellers report about two hours driving from Hanoi and boat exploration of Hoa Binh lake including caves and ethnic village stops, retrieved 2026-09-24"
-internal_link_targets: best-motorbike-for-long-distance-vietnam, mountain-pass-riding-motorbike-vietnam, riding-fatigue-motorbike-vietnam, best-motorbike-for-day-trips-from-hanoi, how-to-rent-a-motorbike-hanoi
+internal_link_targets: best-motorbike-for-long-distance-vietnam, mountain-pass-riding-motorbike-vietnam, riding-fatigue-motorbike-vietnam, best-motorbike-for-day-trips-from-hanoi, how-to-rent-a-motorbike-hanoi, mai-chau-overnight-motorbike-trip-hanoi, moc-chau-motorbike-trip-hanoi
 ---
 
 Thung Nai — "the submerged valley" — is the gateway to Hoa Binh lake, the huge reservoir behind the Hoa Binh dam where flooded hilltops stand as islands. At roughly 100 kilometres from Hanoi up the Highway 6 corridor, it sits right at the edge of what is comfortable as a day trip: possible in a long day, better as an overnight.
 
 ## The route
 
-Highway 6 southwest through Hoa Binh province is one of the north’s classic riding corridors: wide, busy at the town crossings, then climbing through forested hills. The last kilometres to the lake descend to wharves where boats of the local cooperatives run tours of the islands, the Thac Bo cave and shrines, and Muong ethnic villages on the far shores. Count about two hours each way, plus stops — fuel and food are available along the way, and traffic police patrol the corridor, so keep to the limits and carry your documents.
+Highway 6 southwest through Hoa Binh province is on
+e of the north’s classic riding corridors: wide, busy at the town crossings, then climbing through forested hills. The last kilometres to the lake descend to wharves where boats of the local cooperatives run tours of the islands, the Thac Bo cave and shrines, and Muong ethnic villages on the far shores. Count about two hours each way, plus stops — fuel and food are available along the way, and traffic police patrol the corridor, so keep to the limits and carry your documents.
 
 ## On the lake
 

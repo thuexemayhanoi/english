@@ -20,14 +20,15 @@ sources:
   - "https://www.vietnamcoracle.com/how-to-send-your-motorbike-on-the-train/ — motorbike freight on trains is charged by route and handled at station freight offices, retrieved 2026-09-24"
   - "https://puluongexcursions.com/hanoi-to-ninh-binh-by-motorbike/ — motorbike travel is noted as the budget-friendly way to reach destinations like Ninh Binh compared with tours, retrieved 2026-09-24"
   - "https://flamingoresorts.vn/en/du-lich-dai-lai/ — sample intercity transport costs (taxi/ride-hailing around 400,000–500,000 VND one way) show how motorbike travel keeps costs down, retrieved 2026-09-24"
-internal_link_targets: motorbike-trip-prep-checklist-hanoi, overnight-stays-motorbike-trips-vietnam, daily-weekly-monthly-motorbike-rental-hanoi, motorbike-ferry-train-transport-vietnam, how-far-motorbike-day-trip-hanoi
+internal_link_targets: motorbike-trip-prep-checklist-hanoi, overnight-stays-motorbike-trips-vietnam, daily-weekly-monthly-motorbike-rental-hanoi, motorbike-ferry-train-transport-vietnam, how-far-motorbike-day-trip-hanoi, ha-giang-loop-motorbike-guide, cao-bang-ban-gioc-motorbike-trip
 ---
 
 Motorbikes are the budget way to see northern Vietnam — a day trip costs less than a single tourist-bus tour seat. But "cheap" still needs a budget, because the categories are many and small: they add up into the difference between a relaxed day and an awkward one.
 
 ## The categories
 
-**The bike.** Rental cost is the fixed line — agree it before the trip, including distance/overnight terms (our rental price guide covers the published daily and monthly rates). Fuel is variable: a typical 110–125 cc bike uses modest volumes per 100 km, and Vietnam prices petrol by the litre at state-set pump prices, so a 200 km day trip’s fuel is a rounding error next to city taxi fares.
+**The bike.** Rental cost is the fixed line — agree it before the trip, including distance/overnight terms (our rental price guide covers the published daily and monthly rates). Fuel is variable: a typical 
+110–125 cc bike uses modest volumes per 100 km, and Vietnam prices petrol by the litre at state-set pump prices, so a 200 km day trip’s fuel is a rounding error next to city taxi fares.
 
 **Food.** Rural pho, com and roadside meals cost a fraction of city tourist restaurants; lake and homestay fish dishes are the premium end. Two meals plus water and coffee per person is the honest line item.
 

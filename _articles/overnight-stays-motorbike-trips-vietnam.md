@@ -20,7 +20,7 @@ sources:
   - "https://www.tripadvisor.com/Attraction_Review-g3320435-d11530241-Reviews-Thung_Nai-Hoa_Binh_Hoa_Binh_Province.html — overnight boat-and-homestay trips around Hoa Binh lake are an established motorbike-trip pattern in the region, retrieved 2026-09-24"
   - "https://vinwonders.com/en/wonderpedia/news/hoa-binh-lake/ — Hoa Binh lake tourism describes homestays and community-tourism villages reached by boat and road from Hanoi, retrieved 2026-09-24"
   - "https://www.vietnam.vn/en/du-lich-1-ngay-gan-ha-noi-di-dau-lam-gi/ — day-trip and weekend-trip destination patterns around Hanoi, retrieved 2026-09-24"
-internal_link_targets: hotel-parking-motorbike-hanoi, keeping-rental-motorbike-secure-hanoi, home-parking-overnight-security, motorbike-trip-budget-from-hanoi, motorbike-trip-prep-checklist-hanoi
+internal_link_targets: hotel-parking-motorbike-hanoi, keeping-rental-motorbike-secure-hanoi, home-parking-overnight-security, motorbike-trip-budget-from-hanoi, motorbike-trip-prep-checklist-hanoi, mai-chau-overnight-motorbike-trip-hanoi, ba-be-lake-motorbike-trip-hanoi
 ---
 
 Every overnight motorbike trip in the north has the same moment: you arrive in a town at dusk and ask — before you ask about the room — "where does the bike sleep?" Get that right and the trip is easy. Here is how experienced riders choose.
@@ -30,7 +30,8 @@ Every overnight motorbike trip in the north has the same moment: you arrive in a
 Ask these, in order, when booking:
 
 - **Is there on-site parking?** City hotels have garages or contracts with nearby lots; homestays usually have a courtyard. "Park on the street" is the answer to avoid.
-- **Is it covered?** Rain is a fact of northern nights — covered parking saves a wet saddle and a drowned electrics morning.
+-
+ **Is it covered?** Rain is a fact of northern nights — covered parking saves a wet saddle and a drowned electrics morning.
 - **Is it watched overnight?** Attended lots and locked courtyards are the norm in tourist towns; confirm someone is around after the gates close.
 - **Is it included?** Some hotels charge a small nightly fee for garage parking; homestays rarely do.
 
