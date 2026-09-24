@@ -26,8 +26,7 @@ Hai Ba Trung — named after the two sisters who led a rebellion against Chinese
 
 ## What the area is
 
-This is workhorse central Hanoi: hospitals, wholesale streets, older apartment blocks and some of the city's best-known local food, stretched along wide boulevards. Landmarks anchor each end — the Hai Ba Trung Temple on Le Dai Hanh, dedicated to the two sisters, sits in the middle of the strip, while the giant Bach Mai hospital zone defines its centre, and the m
-odern Times City complex with its aquarium and park rises near the southern edge. At the far east, Vinh Tuy Bridge carries riders across the Red River toward Long Bien and Gia Lam.
+This is workhorse central Hanoi: hospitals, wholesale streets, older apartment blocks and some of the city's best-known local food, stretched along wide boulevards. Landmarks anchor each end — the Hai Ba Trung Temple on Le Dai Hanh, dedicated to the two sisters, sits in the middle of the strip, while the giant Bach Mai hospital zone defines its centre, and the modern Times City complex with its aquarium and park rises near the southern edge. At the far east, Vinh Tuy Bridge carries riders across the Red River toward Long Bien and Gia Lam.
 
 ## How it rides
 

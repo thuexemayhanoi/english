@@ -39,8 +39,7 @@ The Weaver++ is Dat Bike's flagship — the brand calls it the most complete bik
 
 The charging story is the headline: 100 km of range in 20 minutes at a Dat Charge station — approaching petrol-stop times on long trips. The mid-motor layout with engineered heat dissipation supports sustained hard riding, and the 33 percent acceleration gain over the Weaver 200 makes itself felt at every arterial launch.
 
-IP67 is a serious water rating — rated for temporary immersion, comfortable in Hanoi's flood-prone streets (though flood riding still deserves c
-aution). Tubeless tyres on alloy wheels are a practicality win over spoke-and-tube set-ups. The adjustable chainring lets riders tune speed and acceleration limits to their own risk tolerance — a genuinely unusual feature.
+IP67 is a serious water rating — rated for temporary immersion, comfortable in Hanoi's flood-prone streets (though flood riding still deserves caution). Tubeless tyres on alloy wheels are a practicality win over spoke-and-tube set-ups. The adjustable chainring lets riders tune speed and acceleration limits to their own risk tolerance — a genuinely unusual feature.
 
 ## Trade-offs
 

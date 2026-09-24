@@ -54,7 +54,6 @@ Three apps carry the whole burden: a navigation app in motorbike mode (the navig
 
 ## The cultural layer
 
-Volume is not anger; Vietnamese street conversation runs loud and fast, and a discussion th
-at sounds like an argument is usually logistics. Patience plus a smile plus "xin loi, toi khong hieu" opens more doors than fluency would — street Vietnam is generous to people who try, and Hanoi doubly so to riders who stop to ask properly rather than guess.
+Volume is not anger; Vietnamese street conversation runs loud and fast, and a discussion th at sounds like an argument is usually logistics. Patience plus a smile plus "xin loi, toi khong hieu" opens more doors than fluency would — street Vietnam is generous to people who try, and Hanoi doubly so to riders who stop to ask properly rather than guess.
 
 Ride slowly, learn the dozen words, and the language barrier becomes what it actually is in Hanoi: a thin membrane, not a wall.

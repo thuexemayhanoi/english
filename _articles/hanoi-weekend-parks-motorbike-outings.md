@@ -28,8 +28,7 @@ Hanoi is dense, but it is not parkless — and almost every good green space in 
 - **Thu Le (Dong Da/Ba Dinh edge)**: the lake-and-zoo park, the classic family destination. Attended parking at the main gates; weekends are busy by 09:00, so arrive early or come after lunch.
 - **Bach Thao botanical garden (west of the Old Quarter)**: the city's oldest green space — big trees, greenhouses and the Thuy Ta lakeside cafe culture. Small parking at the gates; go early, it is the calmest large park in the centre.
 - **Hang Dau water tower garden and the Hoan Kiem waterfront**: pocket-sized parks, useful as breathing stops on a city loop rather than destinations.
-- **Thong Nhat (Reunification) park corridor**: the long lake-and-tree strip th
-rough Dong Da, built for strolling and popular with runners; easy parking on the surrounding streets.
+- **Thong Nhat (Reunification) park corridor**: the long lake-and-tree strip th rough Dong Da, built for strolling and popular with runners; easy parking on the surrounding streets.
 
 ## The bigger escapes
 

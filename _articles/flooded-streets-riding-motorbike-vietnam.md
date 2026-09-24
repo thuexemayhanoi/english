@@ -31,8 +31,7 @@ Enter slowly, keep a steady low speed, and do not rev hard — a scooter's air i
 
 ## What water hides
 
-Potholes (potholes-bad-roads-motorbike-vietnam), missing manhole covers, and live electrical faults near fallen cables. After crossing, dry your brakes by dragging them gently 
-for a few seconds — wet brakes do nothing until they dry.
+Potholes (potholes-bad-roads-motorbike-vietnam), missing manhole covers, and live electrical faults near fallen cables. After crossing, dry your brakes by dragging them gently for a few seconds — wet brakes do nothing until they dry.
 
 ## When to stop and wait
 

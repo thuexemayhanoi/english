@@ -27,8 +27,7 @@ Ask a Hanoian about traffic and you get weather talk: it just *is*, and you plan
 
 - **The centre-west axis** (Nguyen Thai Hoc–Kim Ma–Giai Phong / the corridor from Hoan Kiem through Ba Dinh out to Cau Giay and the new administrative zone): the heaviest white-collar commute in the city. Morning flows west out of the centre; evening flows back east. Peaks: 07:00–08:30, 17:00–19:00.
 - **The bridge approaches** (Chuong Duong and Long Bien eastbound; Nhat Tan northbound): river crossings bottleneck by design — the bridge is always narrower than the roads feeding it. The queues form on the approach ramps, not the bridge decks.
-- **The university lines** (the corridors f
-rom the southern residential wedges through the campuses — Nguyen Trai toward Cau Giay's student belt, the Giai Phong stretch past the big schools): run on a different clock, with waves tied to class schedules and a huge share of two-up student riders.
+- **The university lines** (the corridors from the southern residential wedges through the campuses — Nguyen Trai toward Cau Giay's student belt, the Giai Phong stretch past the big schools): run on a different clock, with waves tied to class schedules and a huge share of two-up student riders.
 - **The southern industrial spines** (the corridors toward the industrial zones and Ring Road 3): shift-based rather than office-based; their peaks hit at factory hours, including pre-dawn movements invisible to most of the city.
 - **The airport corridor** (Vo Nguyen Giap): mostly long-distance flows, peaks with flight banks and staff shifts.
 
@@ -42,7 +41,6 @@ The daily craft is layer choice: every corridor has a parallel layer — the mai
 
 ## Choosing your own corridor
 
-When picking where to live or which job's commute to accept, ride the candidate corridor once in each direction at real hours before deciding — the same lesson as the neigh
-bourhood guide. And when the corridor is fixed and the schedule is not, the commuting bike choice matters less than patience; any reliable 110–150cc machine handles the flow, and the skills that make it pleasant are the rush-hour riding ones: filtering honestly, merging early, and treating the commute as meditation with a timer.
+When picking where to live or which job's commute to accept, ride the candidate corridor once in each direction at real hours before deciding — the same lesson as the neighbourhood guide. And when the corridor is fixed and the schedule is not, the commuting bike choice matters less than patience; any reliable 110–150cc machine handles the flow, and the skills that make it pleasant are the rush-hour riding ones: filtering honestly, merging early, and treating the commute as meditation with a timer.
 
 The traffic is the city's constant. The corridors, though — those you can learn, and once learned, Hanoi becomes a place where you are never really stuck, just riding the layer you chose.

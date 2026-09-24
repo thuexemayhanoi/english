@@ -30,9 +30,7 @@ A Vietnamese address runs from general to specific: street number, street name, 
 - **Numbers are not strictly sequential.** Street numbering exists but hopping occurs; numbers 40 and 112 may be a hundred metres apart in different blocks. Trust the number to confirm, not to navigate.
 - **The ward/district layer is how people actually think.** "It's in Tay Ho" narrows a search better than a postcode — Vietnam's postal codes exist but almost nobody uses them day to day.
 
-After the July 2025
- administrative restructuring, official ward nam
-es changed (Hanoi's former districts became 126 wards and communes), but every map, app and taxi conversation still runs on the old district names. Use them freely.
+After the July 2025  administrative restructuring, official ward nam es changed (Hanoi's former districts became 126 wards and communes), but every map, app and taxi conversation still runs on the old district names. Use them freely.
 
 ## App setup that matters
 
@@ -49,8 +47,7 @@ Hanoi's central grid is aggressively one-way, and the official direction data is
 ## Landmarks beat coordinates
 
 The professional local technique is landmark stitching: ride from known point to known point — a bridge, a lake corner, a market, a monument. The city'
-s skeleton (river, lakes, ring roads) makes this 
-easy, which is why the district layout guide comes first in this cluster. Once Hoan Kiem, West Lake, the bridges and the ring roads are fixed in your head, every address in the city is "near something you know."
+s skeleton (river, lakes, ring roads) makes this easy, which is why the district layout guide comes first in this cluster. Once Hoan Kiem, West Lake, the bridges and the ring roads are fixed in your head, every address in the city is "near something you know."
 
 ## The pre-ride minute
 

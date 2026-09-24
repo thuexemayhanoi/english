@@ -27,8 +27,7 @@ Your owner's manual states the minimum octane the engine is designed for. For th
 
 ## Fuel quality and station habits
 
-Fuel in Vietnam comes through a regulated wholesale system, but the practical risks are at the margins: very old station tanks, tampered pumps at isolated stops, and fuel left sitting in jerry cans for months. Practical habits: use busy stations (fast turnover means fresher fuel), watch the pump reset to zero, and avoid filling from unmarked roadside containers. Fuel that smells sour, l
-ooks cloudy or makes the engine run badly should not be argued with — ride gently to a different station and, if problems persist, have the system checked; a fuel smell around the bike itself is a different problem covered in fuel-leak-petrol-smell-motorbike.
+Fuel in Vietnam comes through a regulated wholesale system, but the practical risks are at the margins: very old station tanks, tampered pumps at isolated stops, and fuel left sitting in jerry cans for months. Practical habits: use busy stations (fast turnover means fresher fuel), watch the pump reset to zero, and avoid filling from unmarked roadside containers. Fuel that smells sour, looks cloudy or makes the engine run badly should not be argued with — ride gently to a different station and, if problems persist, have the system checked; a fuel smell around the bike itself is a different problem covered in fuel-leak-petrol-smell-motorbike.
 
 ## Long stops and empty tanks
 

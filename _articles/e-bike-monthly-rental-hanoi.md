@@ -32,8 +32,7 @@ E-bikes make sense for riders whose daily loop is short and predictable — a fe
 
 ## Legal note
 
-Depending on classification, some electric two-wheelers sit in a lighter legal category than petrol motorbikes, but the exact rules depend on the machine's rated power. Do not assume an e-bike needs no licence without checking; the 
-law and licences hub has the verified classifications.
+Depending on classification, some electric two-wheelers sit in a lighter legal category than petrol motorbikes, but the exact rules depend on the machine's rated power. Do not assume an e-bike needs no licence without checking; the law and licences hub has the verified classifications.
 
 ## Set-up questions to ask
 

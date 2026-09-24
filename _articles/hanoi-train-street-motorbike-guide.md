@@ -27,9 +27,7 @@ Train Street — the section of Phung Hung where houses stand a metre or two fro
 
 ## Where it is and how to ride there
 
-Train Street runs behind Phung Hung street in the Old Quarter's northwest corner, parallel to it. The classic approac
-h
- is from Hoan Kiem: west along the old streets, then north — the whole ride is a few minutes, though narrow and busy. This is dense Old Quarter riding: one-way lanes, loading bikes, pedestrians everywhere. Ride it slow, lights on, and expect to stop.
+Train Street runs behind Phung Hung street in the Old Quarter's northwest corner, parallel to it. The classic approach  is from Hoan Kiem: west along the old streets, then north — the whole ride is a few minutes, though narrow and busy. This is dense Old Quarter riding: one-way lanes, loading bikes, pedestrians everywhere. Ride it slow, lights on, and expect to stop.
 
 ## The access situation
 
@@ -47,6 +45,4 @@ This is the real rider question, because Train Street has no parking of its own.
 
 Go in the hour before a train is due — the cafes know the schedule — and go in the golden light if you want photographs. Trains pass a couple of times a day in each direction; the timing is not a secret and the cafes post it. Combine the visit with the wider Old Quarter loop, and keep the ride slow: this corner of the city rewards walking pace.
 
-For the bike itself, rent so
-me
-thing small and light for the Old Quarter's lanes. Contact us to confirm current availability.
+For the bike itself, rent so me thing small and light for the Old Quarter's lanes. Contact us to confirm current availability.

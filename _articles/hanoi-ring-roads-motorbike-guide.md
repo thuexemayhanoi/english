@@ -28,9 +28,7 @@ Hanoi's traffic is organised in circles, and understanding the ring-road system 
 
 **Ring Road 1** is the historic centre's loop — the old boundary of the built city, threading junctions like Kim Lien, where the underpass keeps the flow moving. It is dense, signal-heavy riding with the city pressed against both kerbs.
 
-**Ring Road 2 and its newer 2.5 extensions** loop the inner districts through the southwest and south — the Kim Dong–Giai Phong underpass sits on Ring Road 2.5 — and carry 
-m
-uch of the commuter flow between the centre and the southern districts. Parts are wide modern boulevard; parts narrow through old quarters.
+**Ring Road 2 and its newer 2.5 extensions** loop the inner districts through the southwest and south — the Kim Dong–Giai Phong underpass sits on Ring Road 2.5 — and carry much of the commuter flow between the centre and the southern districts. Parts are wide modern boulevard; parts narrow through old quarters.
 
 **Ring Road 3** is the working ring for riders: the big circle through the outer districts and the interchanges that touch the expressway network. It is wide, divided and fast — the closest thing to Western-style ring-road riding in Vietnam — and it is how you reach the west (My Dinh and the museums), the south (the expressway gateway at Phap Van) and the north of the city without crossing the centre at all.
 

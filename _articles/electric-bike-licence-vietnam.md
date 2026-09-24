@@ -28,9 +28,7 @@ Vietnam classifies electric two-wheelers by construction and power, and the boun
 
 **Pedal-type electric bicycles (xe đạp điện).** The law defines these as bicycles with motor assistance whose power cuts out when the rider stops pedalling or when the bike reaches 25 km/h. They are legally non-motorised vehicles: no driving licence applies, and riders must be old enough to ride a bicycle on the road. Riders and passengers must still wear standard-compliant helmets (Article 31).
 
-**Electric mopeds (xe gắn máy chạy điện), 4 kW and under.** Scooter-style electric two-wheelers of 4 kW or less, designed for no more than 50 km/h, fall in t
-he moped class: no driving licence, rider must be at least 16. This is where many p
-opular city e-bikes and small electric scooters sit.
+**Electric mopeds (xe gắn máy chạy điện), 4 kW and under.** Scooter-style electric two-wheelers of 4 kW or less, designed for no more than 50 km/h, fall in the moped class: no driving licence, rider must be at least 16. This is where many popular city e-bikes and small electric scooters sit.
 
 **Electric motorcycles, above 4 kW.** These need a licence, matched to power under Article 57:
 

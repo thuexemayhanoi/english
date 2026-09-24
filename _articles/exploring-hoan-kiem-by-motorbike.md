@@ -49,8 +49,7 @@ A practical loop for a weekday morning: start on the east side of the lake near 
 
 ## Timing for riders
 
-- Weekday 
-mornings before 08:30: the calmest riding, open parking, shops opening.
+- Weekday mornings before 08:30: the calmest riding, open parking, shops opening.
 - Weekday evenings: lively but congested; perimeter parking is the only realistic option.
 - Friday evening to Sunday midnight: walking street — park at the edge and enjoy it the way it is meant to be enjoyed.
 

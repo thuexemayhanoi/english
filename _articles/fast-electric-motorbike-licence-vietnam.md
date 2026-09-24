@@ -26,8 +26,7 @@ Speed decides whether an electric two-wheeler needs a licence in Vietnam. Under 
 
 ## The dividing line
 
-The law defines the moped category (xe gắn máy) as up to 50 cc or an electric motor up to 4 kW, with a design speed of no more than 50 km/h — no licence required from age 16. An electric machine whose design speed exceeds 50 km/h, or whose motor exceeds 4 kW, does not fit that definition; it falls into the 
-motorbike classes and needs A1 (up to 11 kW) or class A (above 11 kW) from age 18.
+The law defines the moped category (xe gắn máy) as up to 50 cc or an electric motor up to 4 kW, with a design speed of no more than 50 km/h — no licence required from age 16. An electric machine whose design speed exceeds 50 km/h, or whose motor exceeds 4 kW, does not fit that definition; it falls into the motorbike classes and needs A1 (up to 11 kW) or class A (above 11 kW) from age 18.
 
 ## The market reality
 

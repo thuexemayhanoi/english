@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented statistics"
-internal_link_targets: where-to-park-motorbike-hanoi, motorbike-covers-parking-outdoors-vietnam, full-face-vs-open-face-helmet-vietnam, helmet-care-replacing-guide-vietnam, motorbike-parking-vietnamese-cities
+internal_link_targets: "where-to-park-motorbike-hanoi, motorbike-covers-parking-outdoors-vietnam, full-face-vs-open-face-helmet-vietnam, helmet-care-replacing-guide-vietnam, motorbike-parking-vietnamese-cities"
 ---
 
 Anyone who parks a motorbike in Vietnamese cities knows the arithmetic: helmets left on mirrors, handlebars or seats tend to become other people's helmets. Half-drink of coffee, gone. It is not dramatic crime — it is opportunistic, and opportunistic crime has boring countermeasures.
@@ -27,8 +27,7 @@ The most reliable helmet security is not leaving it on the bike at all. A helmet
 
 ## The locking answer
 
-When the helmet must stay with the bike: a proper helmet lock (a steel-cable lock through the visor opening or D-rings, or a combination cable) beats the helmet's own chin strap looped around the mirror. Cable through the helmet's D-rings and around a fixed frame part is the quick version; locks designed for the job coil smaller. The failure modes to avoid: locking it by the strap such that a knife solves t
-he problem, or locking it to something (mirror, plastic rack) that unscrews.
+When the helmet must stay with the bike: a proper helmet lock (a steel-cable lock through the visor opening or D-rings, or a combination cable) beats the helmet's own chin strap looped around the mirror. Cable through the helmet's D-rings and around a fixed frame part is the quick version; locks designed for the job coil smaller. The failure modes to avoid: locking it by the strap such that a knife solves the problem, or locking it to something (mirror, plastic rack) that unscrews.
 
 ## Where you park changes everything
 

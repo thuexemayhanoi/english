@@ -26,11 +26,9 @@ Hanoi has real seasons — a claim few tropical cities can make — and for a ri
 
 ## Spring (roughly February–April)
 
-The transition months are the connoisseur's pick: the late-February-to-early-March window is regularly named among the most favourable for riding, with mild temperatures, blossom season in the peach villages, and the Tet crowds gone home. Humidity stays tolerable and the light is soft. This is the season for the lake and dyke loops and for the first craft-village rid
-es. The one caveat: light drizzle ret
+The transition months are the connoisseur's pick: the late-February-to-early-March window is regularly named among the most favourable for riding, with mild temperatures, blossom season in the peach villages, and the Tet crowds gone home. Humidity stays tolerable and the light is soft. This is the season for the lake and dyke loops and for the first craft-village rid es. The one caveat: light drizzle ret
 
-u
-rns as spring ages, and the "unexpected shower" habit — checking the forecast every morning — starts here.
+urns as spring ages, and the "unexpected shower" habit — checking the forecast every morning — starts here.
 
 ## Summer (roughly May–August)
 
@@ -46,8 +44,6 @@ Hanoi's cold is a surprise to visitors: mornings can drop to around 10°C and be
 
 ## The rider's short version
 
-Best overall windows: late February–early March and late October–early November. Best spectacle: the Tet fortnight (crowded, book ahead). Hardest: mid-summer midday and the January chill — both rideable with the right prep. Whatever month you come, contact us to confirm current ava
-ilability for the vehicle that suits th
+Best overall windows: late February–early March and late October–early November. Best spectacle: the Tet fortnight (crowded, book ahead). Hardest: mid-summer midday and the January chill — both rideable with the right prep. Whatever month you come, contact us to confirm current availability for the vehicle that suits th
 
-e 
-season.
+e season.

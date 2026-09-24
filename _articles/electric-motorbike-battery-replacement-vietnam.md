@@ -30,8 +30,7 @@ A failing pack inside its warranty window is the manufacturer's problem. Dat Bik
 
 ## Route 2: Buy a new pack
 
-On owned-battery bikes, a new pack from the manufacturer is the clean option — matched to the charger and controller, warranty attached. Fixed-battery machines like the Weaver 200 (72 V 68 Ah lithium-ion) are servic
-ed through the brand network; the pack is replaced as a unit rather than opened. We do not publish replacement prices because they vary by model and year: ask the brand's dealer for a written quote, and treat any third-party quote with suspicion — cells, firmware and chargers are engineered as a set.
+On owned-battery bikes, a new pack from the manufacturer is the clean option — matched to the charger and controller, warranty attached. Fixed-battery machines like the Weaver 200 (72 V 68 Ah lithium-ion) are serviced through the brand network; the pack is replaced as a unit rather than opened. We do not publish replacement prices because they vary by model and year: ask the brand's dealer for a written quote, and treat any third-party quote with suspicion — cells, firmware and chargers are engineered as a set.
 
 ## Route 3: Escape to rental
 

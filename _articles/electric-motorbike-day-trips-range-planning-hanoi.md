@@ -30,8 +30,7 @@ Take the claimed range and cut it for your actual pace. The Weaver 200's own off
 ## Step 2: Route out the charge stops
 
 - **Swap-model riders (VinFast Evo/Feliz II/Viper):** 9,000 VND per battery per swap, cabinets across 34 provinces and cities — swap at the outward coffee stop and the range question disappears.
-- **Dat Bike riders:** Dat Charge stations give the Weaver++ 100 km in 20 minutes; plan lunch within reach of one. Home-charged Weaver 20
-0s can also charge over a long stop (1 hour buys 100 km).
+- **Dat Bike riders:** Dat Charge stations give the Weaver++ 100 km in 20 minutes; plan lunch within reach of one. Home-charged Weaver 200s can also charge over a long stop (1 hour buys 100 km).
 - **Moped-class bikes:** their 60-165 km claims suit short loops (Bat Trang, Dong Mo, Chuong My) rather than coast-bound routes.
 
 ## Step 3: The margin rule

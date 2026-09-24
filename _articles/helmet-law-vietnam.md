@@ -30,8 +30,7 @@ Vietnam made helmets compulsory nationwide in December 2007 through Government R
 
 Article 31 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires it for:
 
-- Riders and passenger
-s of two-wheel and three-wheel motorbikes
+- Riders and passengers of two-wheel and three-wheel motorbikes
 - Riders and passengers of mopeds (xe gắn máy), including electric mopeds
 - Riders and passengers of motorised pedal bicycles (xe đạp máy, including pedal electric bikes)
 

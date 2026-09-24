@@ -31,8 +31,7 @@ Drums fade when wet (though the first few slow applications dry them), fill with
 
 ## Maintenance realities here
 
-Drums: adjustme
-nt, cleaning and shoe inspection — very cheap, and every street-side mechanic does them. Discs: pad replacement is easy (pad-wear logic in brake-pads-replacement-motorbike-vietnam), fluid changes are the neglected half. Disc rotors also tell the truth to your fingers: a glazed, scored or lipped rotor announces its condition — something drum brakes hide until the shoes are metal-on-drum. Buying pads and rotors from reputable sources matters more than the drum/disc debate; counterfeit brake parts are the one counterfeit category that can hurt you within a single ride.
+Drums: adjustment, cleaning and shoe inspection — very cheap, and every street-side mechanic does them. Discs: pad replacement is easy (pad-wear logic in brake-pads-replacement-motorbike-vietnam), fluid changes are the neglected half. Disc rotors also tell the truth to your fingers: a glazed, scored or lipped rotor announces its condition — something drum brakes hide until the shoes are metal-on-drum. Buying pads and rotors from reputable sources matters more than the drum/disc debate; counterfeit brake parts are the one counterfeit category that can hurt you within a single ride.
 
 ## Feel and skill beat specification
 
