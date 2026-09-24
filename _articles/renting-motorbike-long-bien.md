@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: how-to-rent-a-motorbike-hanoi, motorbike-rental-pickup-or-delivery-hanoi, best-motorbike-for-commuting-hanoi, where-to-park-motorbike-hanoi, best-motorbike-for-hanoi-traffic
+internal_link_targets: how-to-rent-a-motorbike-hanoi, motorbike-rental-pickup-or-delivery-hanoi, best-motorbike-for-commuting-hanoi, where-to-park-motorbike-hanoi, best-motorbike-for-hanoi-traffic, long-bien-area-guide-riders, long-bien-bridge-motorbike-guide, red-river-islands-motorbike-guide
 ---
 
 Long Bien, the district on the Red River's north bank, is where Nguyen Tu's rental shop sits — 112 Nguyen Van Cu Street, Bo De ward. It is also one of Hanoi's more distinct riding environments, and worth understanding before you ride out of it.

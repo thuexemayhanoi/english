@@ -16,7 +16,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: strong-wind-riding-motorbike-vietnam, defensive-riding-motorbike-vietnam, riding-motorbike-blind-spots-vietnam, merging-side-streets-traffic-vietnam, 50cc-hills-bridges-hanoi
+internal_link_targets: strong-wind-riding-motorbike-vietnam, defensive-riding-motorbike-vietnam, riding-motorbike-blind-spots-vietnam, merging-side-streets-traffic-vietnam, 50cc-hills-bridges-hanoi, long-bien-bridge-motorbike-guide
 ---
 
 Every bridge crossing in Hanoi compresses the same few hazards into a few hundred metres: narrow lanes, side wind, trucks, and merges at both ends. The bridges themselves are fine; the technique for entering and leaving them is what needs care.

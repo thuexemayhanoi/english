@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: best-motorbike-for-commuting-hanoi, where-to-park-motorbike-hanoi, motorbike-rental-pickup-or-delivery-hanoi, best-motorbike-for-students-hanoi, motorbike-speed-limits-vietnam
+internal_link_targets: best-motorbike-for-commuting-hanoi, where-to-park-motorbike-hanoi, motorbike-rental-pickup-or-delivery-hanoi, best-motorbike-for-students-hanoi, motorbike-speed-limits-vietnam, exploring-cau-giay-by-motorbike
 ---
 
 Cau Giay, Hanoi's modern western district, is where the city's new face lives: wide arterials, tower blocks, mega-malls and university campuses. It rides at higher speeds than the centre and rewards riders who like their lane changes decisive.

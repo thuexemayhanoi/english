@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general fuel guidance, exact fuel specification per manual/manufacturer"
-internal_link_targets: improving-fuel-economy-motorbike, fuel-leak-petrol-smell-motorbike, motorbike-maintenance-basics-vietnam, storing-motorbike-long-term-vietnam
+internal_link_targets: improving-fuel-economy-motorbike, fuel-leak-petrol-smell-motorbike, motorbike-maintenance-basics-vietnam, storing-motorbike-long-term-vietnam, hanoi-petrol-stations-guide-riders
 ---
 
 Every Vietnamese town has a petrol station within a short ride, and nearly all sell a small set of standard grades. New riders mostly want to know one thing: does the grade matter, and can the fuel be trusted?

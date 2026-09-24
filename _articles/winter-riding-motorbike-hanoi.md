@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: renting-motorbike-hanoi-winter, fog-and-low-visibility-riding-motorbike-vietnam, riding-motorbike-heavy-rain-vietnam, night-riding-motorbike-safety-vietnam
+internal_link_targets: renting-motorbike-hanoi-winter, fog-and-low-visibility-riding-motorbike-vietnam, riding-motorbike-heavy-rain-vietnam, night-riding-motorbike-safety-vietnam, riding-motorbike-noi-bai-airport-hanoi
 ---
 Hanoi's winter is not cold by northern-European standards, but it is cold in a way that surprises visitors: 12–17°C, humid, with weeks of drizzle and roads that never fully dry. The rental-side winter picture is in renting-motorbike-hanoi-winter; this is the riding-craft version.
 

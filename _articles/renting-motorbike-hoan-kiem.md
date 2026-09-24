@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: renting-motorbike-old-quarter, where-to-park-motorbike-hanoi, best-motorbike-for-hanoi-traffic, motorbike-rental-pickup-or-delivery-hanoi, traffic-light-rules-vietnam
+internal_link_targets: renting-motorbike-old-quarter, where-to-park-motorbike-hanoi, best-motorbike-for-hanoi-traffic, motorbike-rental-pickup-or-delivery-hanoi, traffic-light-rules-vietnam, exploring-hoan-kiem-by-motorbike
 ---
 
 Hoan Kiem — the lake at the centre, the Old Quarter to its north, the French Quarter's leafy grid to its south — is the district every visitor rides and every resident routes around carefully. It has three distinct riding moods.
