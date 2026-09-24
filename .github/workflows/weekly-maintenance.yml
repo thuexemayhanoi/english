@@ -91,12 +91,14 @@ jobs:
         with:
           node-version: 20
       - name: Apply deterministic safe fixes on a dedicated maintenance branch
+        id: apply
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           BR="maintenance/auto-fix-${GITHUB_SHA::7}"
-          git checkout -b "$BR"
-          echo "branch=$BR" >> "$GITHUB_ENV"
+          # -B: a re-run of the same commit recreates the branch deterministically.
+          git checkout -B "$BR"
+          echo "branch=$BR" >> "$GITHUB_OUTPUT"
           # Exit 1 here reflects the PRE-fix state (the audit phase of this run);
           # the repaired state is verified by the re-audit step below.
           node scripts/maintenance.js --fix || true
@@ -131,7 +133,13 @@ jobs:
         if: env.fixed == '1'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: ${{ steps.apply.outputs.branch }}
         run: |
-          git push origin "$BRANCH"
+          if [ -z "$BRANCH" ]; then
+            echo "branch name missing (apply step did not run?) — aborting"; exit 1
+          fi
+          # The branch is deterministically rebuilt from the audited SHA; force
+          # push makes a re-run of the same commit overwrite cleanly.
+          git push --force origin "$BRANCH"
           FILES=$(git diff --name-only "origin/main...$BRANCH" | tr '\n' ' ')
           node scripts/maintenance-escalate.js pr "$BRANCH" $FILES
