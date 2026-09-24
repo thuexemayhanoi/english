@@ -1,0 +1,66 @@
+{
+  "csvMerge": {
+    "target": "docs/matrix/master-matrix.csv",
+    "expectBefore": 936,
+    "rowsFiles": [
+      {
+        "file": "docs/matrix/batch-25-rows.csv",
+        "expectRows": 15
+      }
+    ],
+    "expectAfter": 951
+  },
+  "readmePairs": [
+    {
+      "find": "936 published articles: 23 cluster-13 trips articles (Batch 24, MM-0848-MM-0870, 2026-09-24 — see docs/matrix/batch-24-status.md) opening cluster 13 (23 of 38 intents published, IN PROGRESS: 15 day-trip route guides (13.1) and 8 trip-planning guides (13.3))",
+      "replace": "951 published articles: cluster 13 (motorbike trips from Hanoi) is COMPLETE — 23 articles in Batch 24 (MM-0848-MM-0870, 2026-09-24 — see docs/matrix/batch-24-status.md) plus 15 multi-day route guides in Batch 25 (MM-0871-MM-0885, 2026-09-24 — see docs/matrix/batch-25-status.md)"
+    },
+    {
+      "find": "trips hub lists all 23 trip guides (15 day-trip route guides and 8 trip-planning guides, Batch 24)",
+      "replace": "trips hub lists all 38 trip guides (15 day-trip route guides, 8 trip-planning guides and 15 multi-day route guides; Batches 24-25)"
+    },
+    {
+      "find": "Cluster 13 trips is IN PROGRESS: 23 of 38 intents published 2026-09-24 (Batch 24, MM-0848-MM-0870 - see docs/matrix/batch-24-status.md).",
+      "replace": "Cluster 13 trips is COMPLETE: 38 of 38 intents published 2026-09-24 (Batch 24, MM-0848-MM-0870 — see docs/matrix/batch-24-status.md; Batch 25, MM-0871-MM-0885 — see docs/matrix/batch-25-status.md)."
+    },
+    {
+      "find": "Next up per docs/MASTER-MATRIX.md ordering: the remaining 15 multi-day cluster-13 trip intents (Mai Chau, Moc Chau, Ha Long/Cat Ba, Ha Giang, Cao Bang/Ban Gioc, Ba Be, Northeast loop, Northwest loop, Lang Son, Sapa, Pu Luong, Phong Nha, Hue, central coast Da Nang-Hoi An, first-mountain-trip comparison) as Batch 25, then cluster 14 vietnam-travel (30 intents); both need R2 route/place verification from reliable sources first.",
+      "replace": "Next up per docs/MASTER-MATRIX.md ordering: cluster 14 vietnam-travel (30 intents) as Batch 26, which needs R2 route/place verification from reliable sources first. Batch 25 published the 15 remaining multi-day cluster-13 trip intents (Mai Chau, Moc Chau, Ha Long/Cat Ba, Ha Giang, Cao Bang/Ban Gioc, Ba Be, Northeast loop, Northwest loop, Lang Son, Sapa, Pu Luong, Phong Nha, Hue, central coast Da Nang-Hoi An, first-mountain-trip comparison) on 2026-09-24 (MM-0871-MM-0885)."
+    },
+    {
+      "find": "docs/matrix/master-matrix.csv holds 936 committed rows after the batch-24 docs-sync merge (913 -> 936; 936 published articles; the 23 cluster-13 rows are preserved verbatim in docs/matrix/batch-24-rows.csv)",
+      "replace": "docs/matrix/master-matrix.csv holds 951 committed rows after the batch-25 docs-sync merge (913 -> 936 -> 951; 951 published articles; the 23 batch-24 rows are preserved verbatim in docs/matrix/batch-24-rows.csv and the 15 batch-25 rows in docs/matrix/batch-25-rows.csv)"
+    },
+    {
+      "find": "54 cluster-12 Hanoi travel rows (54 published; cluster 12 COMPLETE: 25 in Batch 22 plus 29 in Batch 23).",
+      "replace": "54 cluster-12 Hanoi travel rows (54 published; cluster 12 COMPLETE: 25 in Batch 22 plus 29 in Batch 23) and 38 cluster-13 trips rows (38 published; cluster 13 COMPLETE: 23 in Batch 24 plus 15 in Batch 25)."
+    },
+    {
+      "find": "936 articles site-wide; cluster 13: 23 of 38 intents published, IN PROGRESS.",
+      "replace": "936 articles site-wide at the Batch 24 state; cluster 13 was completed by Batch 25 (38 of 38 intents)."
+    },
+    {
+      "find": "- Batch 24 (cluster-13 trips Part 1): 23 articles published 2026-09-24 (MM-0848-MM-0870",
+      "replace": "- Batch 25 (cluster-13 trips Part 2, final): 15 multi-day articles published 2026-09-24 (MM-0871-MM-0885: Mai Chau, Moc Chau, Cat Ba/Ha Long, Ha Giang loop, Cao Bang/Ban Gioc, Ba Be, Northeast loop, Northwest loop, Lang Son, Sapa, Pu Luong, Phong Nha, Hue, Da Nang-Hoi An central coast, first-mountain-trip comparison; part-commits aec94fd, 4d95e93 and 2d29b2d, closing inbound-link commit 7553756 (12 existing articles)) - see docs/matrix/batch-25-status.md. 951 articles site-wide; cluster 13: 38 of 38 intents published, COMPLETE. Route/place facts verified per article in front-matter sources (retrieved 2026-09-24); business facts exclusively from OWNER-FACTS.\n- Batch 24 (cluster-13 trips Part 1): 23 articles published 2026-09-24 (MM-0848-MM-0870"
+    }
+  ],
+  "expectContains": [
+    "951 published articles",
+    "batch-25-status.md",
+    "Batch 25 (cluster-13 trips Part 2, final)"
+  ],
+  "mmPairs": [
+    {
+      "find": "Cluster 13 is IN PROGRESS: 23 of 38 intents published.",
+      "replace": "Cluster 13 is COMPLETE: 38 of 38 intents published (15 multi-day route guides (13.2) in Batch 25, MM-0871-MM-0885, 2026-09-24 — see docs/matrix/batch-25-status.md; rows preserved verbatim in docs/matrix/batch-25-rows.csv and merged into master-matrix.csv by the batch-25 docs-sync (936 -> 951))."
+    },
+    {
+      "find": "The CSV currently holds 913 committed rows (after the batch-22 docs-sync merges 770 -> 820 -> 859 -> 884 and the batch-23 docs-sync merge 884 -> 913)",
+      "replace": "The CSV currently holds 951 committed rows (after the batch-24 docs-sync merge 913 -> 936 and the batch-25 docs-sync merge 936 -> 951)"
+    }
+  ],
+  "mmExpectContains": [
+    "Cluster 13 is COMPLETE: 38 of 38 intents published"
+  ],
+  "note": "Batch-25 docs-sync phase 1: merge the 15 validated batch-25 rows into master-matrix.csv (936 -> 951) and apply the batch-25 README/MASTER-MATRIX state updates via scripts/apply-batch-25-docs.js."
+}

@@ -1,0 +1,11 @@
+# Batch 25 status — cluster 13 motorbike trips from Hanoi, Part 2 (MM-0871-MM-0885)
+
+Authoritative publish/review record for Batch 25. Date: 2026-09-24 (Asia/Ho_Chi_Minh).
+
+## Batch summary
+
+- 15 cluster-13 multi-day trip articles published 2026-09-24 in part-commits: aec94fd (5 guides MM-0871-MM-0875: Mai Chau, Moc Chau, Cat Ba/Ha Long, Ha Giang loop, Cao Bang/Ban Gioc), 4d95e93 (5 guides MM-0876-MM-0880: Ba Be, Northeast loop, Northwest loop, Lang Son, Sapa), 2d29b2d (5 guides MM-0881-MM-0885: Pu Luong, Phong Nha, Hue, Da Nang-Hoi An central coast, first-mountain-trip comparison), closing inbound-link commit 7553756 (appended batch-25 targets to the internal_link_targets of 12 existing articles).
+- Composition: 15 subcluster-13.2 multi-day-trip articles (14 destination/route guides plus the first-mountain-trip comparison). Cluster 13 is COMPLETE with this batch: 38 of 38 intents published (23 in Batch 24 plus 15 here).
+- Route/place facts are cited per article in front-matter sources (retrieved 2026-09-24); no route/place fact was written from memory. Motorbike-expressway exclusion is stated with reference to the existing motorbikes-on-expressway-vietnam legal article. Business facts exclusively from docs/OWNER-FACTS.md (contact-only availability; no invented prices, promotions, delivery, fleet or availability claims).
+- Pre-write duplicate/cannibalization check performed against the existing 936 slugs: all 15 new slugs unique; existing related intents (motorbike-trip-prep-checklist-hanoi, overnight-stays-motorbike-trips-vietnam, motorbike-trip-budget-from-hanoi, motorbike-trip-navigation-offline-maps-vietnam, motorbike-trip-seasons-north-vietnam, motorbike-ferry-train-transport-vietnam, how-far-motorbike-day-trip-hanoi, mountain-pass-riding-motorbike-vietnam, tam-dao-vs-ba-vi-day-trip) are linked as targets, not duplicated; each batch-25 article states its differentiation in docs/matrix/batch-25-rows.csv.
+- 951 articles site-wide after this batch; cluster 13: 38 of 38 planned intents published, COMPLETE. Next up per docs/MASTER-MATRIX.md ordering: cluster 14 vietnam-travel (30 intents) as Batch 26 — R2 route/place verification from reliable sources required before writing.
