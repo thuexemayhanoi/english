@@ -32,8 +32,7 @@ Blade: 98-99 kg depending on version, 141 mm clearance, 769 mm seat, 3.7-litre t
 
 ## Economy
 
-Blade: 1.85 L/100 km. CT125: 
-1.61 L/100 km. Manufacturer figures; real-world results vary with conditions.
+Blade: 1.85 L/100 km. CT125: 1.61 L/100 km. Manufacturer figures; real-world results vary with conditions.
 
 ## The verdict
 

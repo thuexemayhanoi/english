@@ -27,8 +27,7 @@ Da Lat is Vietnam at 1,500 metres: pine forests, market gardens on every slope, 
 
 ## Rental basics
 
-Rental is everywhere: dedicated shops, most hotels and homestays, and even desks at 
-Lien Khuong airport 30 km south. Published rates for automatic scooters run about 120,000-180,000 VND per day, with the usual discounts for week-long hires. The fleet is overwhelmingly 110-125cc automatics and semi-automatics — adequate for the region's steepest public roads, though two people uphill on a 110cc needs patience.
+Rental is everywhere: dedicated shops, most hotels and homestays, and even desks at Lien Khuong airport 30 km south. Published rates for automatic scooters run about 120,000-180,000 VND per day, with the usual discounts for week-long hires. The fleet is overwhelmingly 110-125cc automatics and semi-automatics — adequate for the region's steepest public roads, though two people uphill on a 110cc needs patience.
 
 The licence rule is national: over 50cc requires a valid Vietnamese licence or 1968-convention IDP for motorbikes. See our tourist-riding overview. Enforcement around Da Lat's tourist loops is routine.
 

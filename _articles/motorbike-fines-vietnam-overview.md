@@ -57,6 +57,4 @@ Beyond the money, licence points are deducted (4 points for red lights; 2 points
 
 The most commonly fined tourist mistakes — wrong way down a one-way street, sidewalk riding to skip traffic, red lights "when it looks clear" — now each cost more than a month of scooter rental. Ride like the fines are real, because they are.
 
-*Information, not legal advice. A
-
-ll figures verified against the full text of Decree 168/2024/NĐ-CP on 2026-09-21.*
+*Information, not legal advice. All figures verified against the full text of Decree 168/2024/NĐ-CP on 2026-09-21.*

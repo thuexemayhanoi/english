@@ -30,8 +30,7 @@ The NVX runs a 155.1 cc single-cylinder, four-stroke, liquid-cooled Blue Core en
 
 ## Size, weight and comfort
 
-Yamaha publishes a wet weight of 12
-5 kg, seat height 790 mm, dimensions 1,980 x 700 x 1,150 mm, wheelbase 1,350 mm and ground clearance 145 mm. The seat is split into two levels for rider and pillion. The 5.5-litre tank is quoted by Yamaha as good for up to 200 km per fill; real-world range varies with speed, load and conditions.
+Yamaha publishes a wet weight of 125 kg, seat height 790 mm, dimensions 1,980 x 700 x 1,150 mm, wheelbase 1,350 mm and ground clearance 145 mm. The seat is split into two levels for rider and pillion. The 5.5-litre tank is quoted by Yamaha as good for up to 200 km per fill; real-world range varies with speed, load and conditions.
 
 ## Brakes and chassis
 

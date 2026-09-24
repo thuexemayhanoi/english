@@ -34,7 +34,6 @@ CT125: 165 mm ground clearance - the highest of any Honda underbone listed - 800
 
 CT125: 1.61 L/100 km. Winner R: 2.59 L/100 km (UDC method). Manufacturer figures; both vary in real use.
 
-## 
-Which one?
+## Which one?
 
 CT125: 85,997,455 VND list. Winner R: 46,360,000 VND. If your riding is Hanoi-to-mountains exploration, the CT125; if it is weekend tarmac sport, the Winner R. Neither is price-published in our rental fleet - contact us to confirm current availability. The CT versus Super Cub comparison covers the gentler alternative in the Cub family.

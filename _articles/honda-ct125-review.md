@@ -30,9 +30,7 @@ The 123.9 cc single-cylinder four-stroke air-cooled engine produces 6.76 kW at 6
 
 ## Range and consumption
 
-The tank is 5.4 litres - the largest of any Honda underbone sold in Vietnam - and Honda publishes 1.61 litres per 100 km. That is well over 300 km of theoretical range, the reason overlanders like this bike. Real-world consumption varies with ter
-
-rain and load.
+The tank is 5.4 litres - the largest of any Honda underbone sold in Vietnam - and Honda publishes 1.61 litres per 100 km. That is well over 300 km of theoretical range, the reason overlanders like this bike. Real-world consumption varies with terrain and load.
 
 ## Chassis: the adventure numbers
 

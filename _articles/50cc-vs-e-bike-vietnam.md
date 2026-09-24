@@ -29,8 +29,7 @@ A 50cc petrol bike (or an electric scooter-style moped up to 4 kW) is a xe gắn
 
 ## Speed and range
 
-A pedal e-bike assists up to 25 km/h; beyond that you are pedalling unaided. 
-A 50cc petrol bike holds 35–45 km/h on the flat all day and refuels in a minute at any of the petrol stations described in our fuel guide. The e-bike's range depends on its battery, load and terrain, and when it runs out you are pushing a heavy bicycle home. The petrol bike is the only one of the two that genuinely keeps up with city flow.
+A pedal e-bike assists up to 25 km/h; beyond that you are pedalling unaided. A 50cc petrol bike holds 35–45 km/h on the flat all day and refuels in a minute at any of the petrol stations described in our fuel guide. The e-bike's range depends on its battery, load and terrain, and when it runs out you are pushing a heavy bicycle home. The petrol bike is the only one of the two that genuinely keeps up with city flow.
 
 ## Effort and arrival
 

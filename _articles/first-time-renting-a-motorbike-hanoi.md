@@ -32,10 +32,7 @@ Automatic scooter, full stop. No gears to manage while you learn how this city m
 
 ## At the shop
 
-Passport, deposit (typically 2,000,000-5,0
-0
-0,000 VND), rental price - cash, transfer or 
-QR. Run the inspection checklist even though everything is new to you: lights, horn, brakes, mirrors, tyres, fuel. Photograph existing scratches. Ask the one beginner question that matters: how does the side stand / centre stand / steering lock work on this bike.
+Passport, deposit (typically 2,000,000-5,000,000 VND), rental price - cash, transfer or QR. Run the inspection checklist even though everything is new to you: lights, horn, brakes, mirrors, tyres, fuel. Photograph existing scratches. Ask the one beginner question that matters: how does the side stand / centre stand / steering lock work on this bike.
 
 ## The first ten minutes
 
