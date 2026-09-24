@@ -24,9 +24,7 @@ sources:
 internal_link_targets: "vietnam-a-licence-what-you-can-ride, motorbike-speed-limits-vietnam, wrong-way-riding-fine-vietnam, motorbike-fines-vietnam-overview, motorbike-accident-duties-vietnam, ninh-binh-day-trip-motorbike-hanoi, motorbike-trip-navigation-offline-maps-vietnam"
 ---
 
-No — and engine size does not buy an exception. Vietnamese expressways are c
-losed to motorbikes, mopeds and similar two-wheelers of every class, under the expre
-ssway rules that took effect with the Law on Road Traffic Order and Safety (No. 36/2024/QH15). A class A rider on a litre bike is exactly as banned as a moped.
+No — and engine size does not buy an exception. Vietnamese expressways are closed to motorbikes, mopeds and similar two-wheelers of every class, under the expressway rules that took effect with the Law on Road Traffic Order and Safety (No. 36/2024/QH15). A class A rider on a litre bike is exactly as banned as a moped.
 
 ## The rule
 
@@ -42,8 +40,6 @@ An expressway entry that causes an accident lands in the 10,000,000–14,000,000
 
 ## Route planning for riders
 
-For motorbike travel between Hanoi and other provinces, the riding routes are the national highways and provincial roads — QL1A, QL32, the Hòa Bình direction roads and their peers. Expressway-adjacent destinations are reached by exiting the mapped car route and following the parallel old highway, which every navigation app offers as a motorbike option. When renting, plan trips on motorbike-legal roads from the start: no rental 
-agreement makes an expressway ramp legal.
+For motorbike travel between Hanoi and other provinces, the riding routes are the national highways and provincial roads — QL1A, QL32, the Hòa Bình direction roads and their peers. Expressway-adjacent destinations are reached by exiting the mapped car route and following the parallel old highway, which every navigation app offers as a motorbike option. When renting, plan trips on motorbike-legal roads from the start: no rental agreement makes an expressway ramp legal.
 
-*Information, not legal advice. Verified a
-gainst the expressway rules effective from 2025 and Decree 168/2024/NĐ-CP on 2026-09-22.*
+*Information, not legal advice. Verified against the expressway rules effective from 2025 and Decree 168/2024/NĐ-CP on 2026-09-22.*

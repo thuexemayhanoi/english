@@ -32,7 +32,7 @@ A bridge with open water below gives crosswind a clean run at you. Expect a push
 ## Speed and space on the deck
 
 Bridge decks are smooth, which invites speed, but the escape room is narrow and the railings are close. Hold a steady speed, keep distance from the vehicle ahead,
- and never filter beside a  truck mid-span — if anything happens there is nowhere for either of you to go.
+ and never filter beside a truck mid-span — if anything happens there is nowhere for either of you to go.
 
 ## Ramps and expansion joints
 

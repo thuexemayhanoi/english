@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented statistics"
-internal_link_targets: "where-to-park-motorbike-hanoi, motorbike-covers-parking-outdoors-vietnam, full-face-vs-open-face-helmet-vietnam, helmet-care-replacing-guide-vietnam, motorbike-parking-vietnamese-cities"
+internal_link_targets: where-to-park-motorbike-hanoi, motorbike-covers-parking-outdoors-vietnam, full-face-vs-open-face-helmet-vietnam, helmet-care-replacing-guide-vietnam, motorbike-parking-vietnamese-cities
 ---
 
 Anyone who parks a motorbike in Vietnamese cities knows the arithmetic: helmets left on mirrors, handlebars or seats tend to become other people's helmets. Half-drink of coffee, gone. It is not dramatic crime — it is opportunistic, and opportunistic crime has boring countermeasures.
