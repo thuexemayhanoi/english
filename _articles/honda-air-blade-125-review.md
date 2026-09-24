@@ -25,7 +25,7 @@ Between the entry Vision and the stronger Air Blade 160 sits the Air Blade 125 -
 
 ## Where the 125 sits
 
-Engine capacity in Vietnam affects both licence requirements and insurance categories, which our licence guides explain. For most riders the 125 class is the sweet spot: enough torque for two-up city riding without the weight or price of a 160. Our 110cc vs 125cc comparison covers the practical differences.
+Engine capacity in Vietnam affects both licence requirements and insurance categories, which our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) explain. For most riders the 125 class is the sweet spot: enough torque for two-up city riding without the weight or price of a 160. Our 110cc vs 125cc comparison covers the practical differences.
 
 ## Everyday usability
 

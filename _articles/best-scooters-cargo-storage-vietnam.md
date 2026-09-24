@@ -39,7 +39,7 @@ In a country where the scooter is also the shopping trolley, the delivery van an
 | 11 | Yamaha Gear 125 Hybrid | 17.4 L | Half-helmet plus bag |
 | 12 | Yamaha Janus 125 | 15.3 L | Half-helmet or bag, not both |
 
-Models with no published capacity (Air Blade 160, Vision, Grande, Lexi) are omitted; our storage fit guide covers what actually fits where.
+Models with no published capacity (Air Blade 160, Vision, Grande, Lexi) are omitted; our storage [fit guide]({{ '/articles/scooter-underseat-storage-comparison/' | relative_url }}) covers what actually fits where.
 
 ## Choosing by what you carry
 

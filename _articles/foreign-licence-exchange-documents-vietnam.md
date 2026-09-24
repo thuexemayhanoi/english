@@ -20,7 +20,7 @@ review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-12-2025-tt-bca-cua-bo-cong-an-quy-dinh-ve-sat-hach-cap-giay-phep-lai-xe-119250303174347028.htm — Circular 12/2025/TT-BCA of the Ministry of Public Security, full text (Báo điện tử Chính phủ) — exchange of foreign licences"
   - "https://xaydungchinhsach.chinhphu.vn/bo-cong-an-quy-dinh-doi-giay-phep-lai-xe-119250303202039806.htm — Báo điện tử Chính phủ: Ministry of Public Security rules on licence exchange (Circular 12/2025/TT-BCA)"
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 58(6) (IDP recognition) — Article 58 (driver conditions)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 57(8) (IDP recognition) — Article 56 (driver conditions)"
 internal_link_targets: "foreign-licence-exchange-vietnam, expat-motorbike-licence-vietnam, foreign-student-motorbike-licence-vietnam, documents-to-carry-motorbike-vietnam, vietnam-licence-test-in-english"
 ---
 

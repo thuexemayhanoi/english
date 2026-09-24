@@ -32,7 +32,7 @@ Decree 151/2024/NĐ-CP arranges road-safety knowledge and safe-moped-riding skil
 
 ## What the training aims to cover
 
-The programme's purpose, as the decree frames it, is competence before traffic: understanding traffic rules and having basic vehicle-handling skills — the same conditions Article 58 imposes on every moped rider regardless of age. In practice the content centres on:
+The programme's purpose, as the decree frames it, is competence before traffic: understanding traffic rules and having basic vehicle-handling skills — the same conditions Article 56(4) imposes on every moped rider regardless of age. In practice the content centres on:
 
 - the road rules that apply to mopeds — helmets, lanes, signals, drink-riding prohibitions
 - basic machine control: starting, stopping, slow-speed balance, safe braking

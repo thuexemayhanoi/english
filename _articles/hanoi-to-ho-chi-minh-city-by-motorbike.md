@@ -39,7 +39,7 @@ Almost every real route mixes the two: mountains in the north and centre, coast 
 
 ## A realistic stage plan (north to south)
 
-1. **Hanoi to Mai Chau/Thanh Hoa** — warm-up riding through the northwest foothills (see our day-trip and overnight guides for this belt).
+1. **Hanoi to Mai Chau/Thanh Hoa** — warm-up riding through the northwest foothills (see our day-trip [and overnight guide]({{ '/articles/how-far-motorbike-day-trip-hanoi/' | relative_url }})s for this belt).
 2. **Into the central highlands via the Ho Chi Minh Road** — Pu Mat, Phong Nha's karst, remote passes.
 3. **Drop to the coast: Hue** — via the Khe Sanh/back-roads option or around by Thanh Hoa-Vinh on the QL1A.
 4. **Hai Van Pass to Da Nang and Hoi An** — the ride everyone photographs.
@@ -49,12 +49,12 @@ Almost every real route mixes the two: mountains in the north and centre, coast 
 
 ## Planning notes that decide whether you enjoy it
 
-- **The bike:** a 110-155cc automatic or underbone is the mainstream choice; our long-distance bike guide discusses trade-offs. Renting one-way is its own topic — our one-way guide explains how that market works.
+- **The bike:** a 110-155cc automatic or underbone is the mainstream choice; our long-distance bike guide discusses trade-offs. Renting one-way is its own topic — our one-way [guide]({{ '/articles/one-way-motorbike-rental-vietnam/' | relative_url }}) explains how that market works.
 - **Licence first.** Over 50cc requires valid papers; see the tourist licence overview. Riding 2,000 km illegally is a bad bet.
 - **Seasons:** the country has three weather zones; our nationwide seasons guide explains why the question "when should I ride Vietnam?" is three questions.
-- **Daily distance:** 150-250 km is the sustainable touring band; our day-distance guide covers the fatigue math.
+- **Daily distance:** 150-250 km is the sustainable touring band; our day-distance [guide]({{ '/articles/how-far-motorbike-day-trip-hanoi/' | relative_url }}) covers the fatigue math.
 - **Expressways are closed to motorbikes** — the CT routes paralleling the QL1A are not options, and trying them is a fine at best.
 
 ## Starting in Hanoi
 
-The northern chapter is the country's best riding, and it is where we are: 112 Nguyen Van Cu, Long Bien. Contact us to confirm current availability for a touring-suited bike, and if the plan is a one-way epic, tell us the drop-off idea early — see our one-way guide for what is and is not realistic.
+The northern chapter is the country's best riding, and it is where we are: 112 Nguyen Van Cu, Long Bien. Contact us to confirm current availability for a touring-suited bike, and if the plan is a one-way epic, tell us the drop-off idea early — see our one-way [guide]({{ '/articles/one-way-motorbike-rental-vietnam/' | relative_url }}) for what is and is not realistic.

@@ -45,7 +45,7 @@ Ma Pi Leng is the emotional centre of the ride and its most technical section: a
 - Three days is the minimum most riders enjoy; four or five is better. Our how-far-per-day guide explains why mountain kilometres cost double.
 - Download offline maps; large parts of the loop have no data connection. Our navigation guide covers the exact setup.
 - Sleep in homestays in Quan Ba, Yen Minh, Dong Van, Meo Vac or Du Gia — book ahead in October-November and spring, using our overnight-stays checklist (secure bike parking first).
-- Budget fuel, permits, homestays and a mechanical margin with our trip-budget guide; carry a repair basics kit and know the phone number of your rental shop.
+- Budget fuel, permits, homestays and a mechanical margin with our trip-budget [guide]({{ '/articles/motorbike-trip-budget-from-hanoi/' | relative_url }}); carry a repair basics kit and know the phone number of your rental shop.
 - Weather swings hard: fog, rain and winter cold are all real hazards — our low-visibility and trip-seasons guides cover both.
 
 ## Who should ride it

@@ -48,7 +48,7 @@ Every manual-clutch machine - Winner R, Exciter 155, CBR150R - adds a skill to l
 
 ## Licence first
 
-Check what you can legally ride before choosing - see our guide to Vietnam's A1 licence. And for riding technique, our slow-speed control guide covers the skills that matter in Hanoi traffic.
+Check what you can legally ride before choosing - see our [guide to Vietnam's A1 licence]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}). And for riding technique, our slow-speed [control guide]({{ '/articles/slow-speed-control-motorbike-vietnam/' | relative_url }}) covers the skills that matter in Hanoi traffic.
 
 ## Renting your first bike
 

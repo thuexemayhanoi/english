@@ -39,7 +39,7 @@ Work through the cheap checks in order:
 
 ## Third: call in the brand terms you already own
 
-Warranty support on modern electrics is surprisingly mobile: Dat Bike publishes a 48-hour nationwide on-site warranty, meaning the mechanic comes to the bike rather than the reverse. Swap-model riders additionally carry a battery that is not theirs — a suspect rented pack is the network's problem, exchanged on the spot. Know your own model's terms before the day you need them; our warranty guide collects the verified ones.
+Warranty support on modern electrics is surprisingly mobile: Dat Bike publishes a 48-hour nationwide on-site warranty, meaning the mechanic comes to the bike rather than the reverse. Swap-model riders additionally carry a battery that is not theirs — a suspect rented pack is the network's problem, exchanged on the spot. Know your own model's terms before the day you need them; our warranty [guide]({{ '/articles/aftermarket-parts-warranty/' | relative_url }}) collects the verified ones.
 
 ## What not to do
 

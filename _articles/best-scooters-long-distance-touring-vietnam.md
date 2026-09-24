@@ -24,7 +24,7 @@ Can you tour Vietnam on a scooter? Thousands do - but the model you pick changes
 
 ## Range first
 
-Touring in Vietnam means stretches without dependable fuel stops, especially in the northern mountains. Implied range (tank times published economy): Yamaha NMAX 155 about 314 km, Honda SH160i about 299 km, Yamaha Gear 125 about 300 km, then the 5.5-litre bikes around 250 km. The Lexi 155 and FreeGo 125 (4.2 L and 3.9 L) are city bikes pressed into touring - plan fuel carefully. Method and caveats in our longest-range guide.
+Touring in Vietnam means stretches without dependable fuel stops, especially in the northern mountains. Implied range (tank times published economy): Yamaha NMAX 155 about 314 km, Honda SH160i about 299 km, Yamaha Gear 125 about 300 km, then the 5.5-litre bikes around 250 km. The Lexi 155 and FreeGo 125 (4.2 L and 3.9 L) are city bikes pressed into touring - plan fuel carefully. Method and caveats in our longest-range [guide]({{ '/articles/longest-range-underbones-vietnam-verified/' | relative_url }}).
 
 ## Comfort for hours in the saddle
 

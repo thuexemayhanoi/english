@@ -26,7 +26,7 @@ The daily commute is where electric two-wheelers make the most sense in Hanoi: f
 
 ## Budget the range, not the claim
 
-Work out your real weekly distance. A 10 km each-way commute is about 100 km per working week — comfortably inside the real-world range of most modern electrics, even after the haircut from speed and load. The Dat Bike Weaver 200's claimed 200 km at 35 km/h (130 km at 70 km/h) means a week of commuting on one overnight charge; smaller moped-class packs with 60-100 km claims need charging every night or two. Use our real-world range guide to convert your bike's claim into your commuting number.
+Work out your real weekly distance. A 10 km each-way commute is about 100 km per working week — comfortably inside the real-world range of most modern electrics, even after the haircut from speed and load. The Dat Bike Weaver 200's claimed 200 km at 35 km/h (130 km at 70 km/h) means a week of commuting on one overnight charge; smaller moped-class packs with 60-100 km claims need charging every night or two. Use our real-world [range guide]({{ '/articles/electric-motorbike-range-real-world-vietnam/' | relative_url }}) to convert your bike's claim into your commuting number.
 
 ## Fix the charging rhythm
 

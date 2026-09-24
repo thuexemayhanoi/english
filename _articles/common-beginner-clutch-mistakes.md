@@ -41,4 +41,4 @@ Trying to move off in second (or higher) feels like a weak, stalling engine. Fix
 
 Winding all four fingers around the lever at every bump can cause accidental clutch pulls and slow reaction to the front brake. Fix: cover the lever with two fingers when creeping, four only for full squeezes and launches.
 
-One bonus habit: practise one emergency stop on day one, from a low speed, in a safe place. The technique in our emergency braking guide — both brakes, clutch in at the end — removes the fear of the front brake before traffic adds pressure. None of these mistakes is about talent; each is just a habit waiting to be replaced.
+One bonus habit: practise one emergency stop on day one, from a low speed, in a safe place. The technique in our emergency [braking guide]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}) — both brakes, clutch in at the end — removes the fear of the front brake before traffic adds pressure. None of these mistakes is about talent; each is just a habit waiting to be replaced.

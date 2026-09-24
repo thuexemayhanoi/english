@@ -42,4 +42,4 @@ Deposit norms in Hanoi are typically 2,000,000-5,000,000 VND depending on the ve
 3. Check the helmet fits — it is legally required.
 4. Photograph existing scratches; agree how battery damage or a dead pack is handled.
 
-For the full licence framework, see the electric licence guide; for tourist riding rules generally, see our tourist rider guide.
+For the full licence framework, see the electric licence guide; for tourist riding rules generally, see our tourist [rider guide]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}).

@@ -41,4 +41,4 @@ Manufacturers test at steady, low speeds on flat ground. Dat Bike is unusually t
 2. Plan to arrive home with a margin; do not treat 0 percent as a target.
 3. Match the model to your real week, not the brochure: a 100 km real-world range covers most Hanoi commutes for days.
 
-For turning that planning into day trips, see our range-planning guide.
+For turning that planning into day trips, see our range-planning [guide]({{ '/articles/electric-motorbike-day-trips-range-planning-hanoi/' | relative_url }}).

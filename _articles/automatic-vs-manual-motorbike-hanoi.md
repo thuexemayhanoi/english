@@ -43,4 +43,4 @@ Left-hand clutch, left-foot shift, full control. For riders who already ride man
 One legal note: in Vietnam, licence class, not transmission, decides what you may ride - the A1 class covers the common rental sizes; bigger manuals need the A class. Check what your licence actually covers before renting anything with a clutch. And whichever you choose, confirm availability for your dates - contact us to check what is in stock.
 
 
-If you want the verified spec side of the semi-automatic question, see our semi-automatic gearbox explainer and the model reviews of the two classic semi-automatic classes, the Honda Wave Alpha 110 and Yamaha Sirius RC 110.
+If you want the verified spec side of the semi-automatic question, see our semi-automatic [gearbox explainer]({{ '/articles/semi-automatic-gearbox-explained/' | relative_url }}) and the model reviews of the two classic semi-automatic classes, the Honda Wave Alpha 110 and Yamaha Sirius RC 110.

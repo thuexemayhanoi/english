@@ -45,6 +45,6 @@ The waterfall pairs naturally with the rest of the northeast: Pac Bo (Ho Chi Min
 
 - Day 1: Hanoi to Cao Bang city (~270-290 km, 5-6 hours). Day 2: Ban Gioc and Trung Khanh, sleep in Cao Bang city or Trung Khanh. Day 3: Pac Bo and the geopark loops. Day 4: return via Ba Be or the QL3. Day 5 if riding the full loop.
 - Budget with our trip-cost guide; homestays and small hotels exist in every overnight stop — confirm bike parking using our overnight-stays checklist.
-- Winter (December-February) is cold and often foggy in the northeast; October-November and spring give the best riding windows per our seasons guide.
+- Winter (December-February) is cold and often foggy in the northeast; October-November and spring give the best riding windows per our seasons [guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }}).
 
 Contact us to confirm current availability if you need a bike for this trip — at these distances a serviced machine, good tyres and a shop that knows your route are worth more than any daily-rate saving.

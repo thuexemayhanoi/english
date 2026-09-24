@@ -39,4 +39,4 @@ On a used electric motorbike, the battery is most of the value and almost all of
 
 ## Price sense
 
-Battery replacement on an electric can rival a used bike's whole price, so a healthy pack justifies a premium and a weak one erases one. Compare against the new-battery structure of the market (see our battery replacement guide) before negotiating — and consider that a new bike's battery warranty may be worth the difference.
+Battery replacement on an electric can rival a used bike's whole price, so a healthy pack justifies a premium and a weak one erases one. Compare against the new-battery structure of the market (see our battery [replacement guide]({{ '/articles/electric-motorbike-battery-replacement-vietnam/' | relative_url }})) before negotiating — and consider that a new bike's battery warranty may be worth the difference.

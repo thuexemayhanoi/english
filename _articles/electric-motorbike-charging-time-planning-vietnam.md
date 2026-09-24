@@ -45,6 +45,6 @@ The hard case is the unplanned long day. A rider who burns range faster than exp
 - Charge on arrival home, not before the next ride — packs topped up in the evening are ready for the morning.
 - Know your real range, not the claimed one — hills, load and cold shrink it (see the real-world range guide).
 - Keep the charger with the bike; the manufacturer's charger is the only one matched to the pack.
-- For shared or apartment situations, read our home-charging and work-charging guides.
+- For shared or apartment situations, read our [home-charging and work-charging guide]({{ '/articles/charging-electric-motorbike-at-home-vietnam/' | relative_url }})s.
 
 Charging time is a solvable planning problem. Treat it like fuel stops and it stays boring — which is the goal.

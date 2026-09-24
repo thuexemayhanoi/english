@@ -19,7 +19,7 @@ last_reviewed: 2026-09-22
 review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-12-2025-tt-bca-cua-bo-cong-an-quy-dinh-ve-sat-hach-cap-giay-phep-lai-xe-119250303174347028.htm — Circular 12/2025/TT-BCA of the Ministry of Public Security, full text (Báo điện tử Chính phủ) — exchange of foreign licences — exchange conditions and dossier"
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 58(6) (IDP recognition) — Article 58(6) (IDP recognition), Article 58 (driver conditions)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 57(8) (IDP recognition), Article 56 (driver conditions)"
   - "https://xaydungchinhsach.chinhphu.vn/bo-cong-an-quy-dinh-doi-giay-phep-lai-xe-119250303202039806.htm — Báo điện tử Chính phủ: Ministry of Public Security rules on licence exchange (Circular 12/2025/TT-BCA)"
   - "https://giadinh.suckhoedoisong.vn/nguoi-nuoc-ngoai-muon-thi-va-cap-bang-lai-xe-o-viet-nam-can-dap-ung-nhung-dieu-kien-gi-172230703155515226.htm — Sức khỏe & Đời sống: conditions for foreigners testing for and obtaining a Vietnamese licence; no English-language tests"
 internal_link_targets: "foreign-licence-exchange-vietnam, foreign-licence-exchange-documents-vietnam, vietnam-licence-test-in-english, idp-validity-period-vietnam, motorbike-licence-validity-renewal-vietnam"

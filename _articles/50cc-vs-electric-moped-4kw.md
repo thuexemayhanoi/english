@@ -16,7 +16,7 @@ subcluster: "6.1 understanding-50cc"
 date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 3 (moped definition including electric motors up to 4 kW) — Article 3 (xe gắn máy definition: 50cc or less, or electric motor 4 kW or less)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 34(1)(g) (xe gắn máy definition: design speed 50 km/h or less, 50cc or less, or electric motor 4 kW or less)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
 internal_link_targets: fast-electric-motorbike-licence-vietnam, 50cc-vs-e-bike-vietnam, electric-motorbike-maintenance-basics, 50cc-licence-vietnam, 50cc-running-costs-vietnam, electric-moped-vs-electric-motorcycle-vietnam, why-electric-mopeds-capped-50kmh-vietnam
 ---
@@ -25,7 +25,7 @@ One sentence in the traffic law puts petrol 50s and electric mopeds in the same 
 
 ## The shared rule
 
-Article 3 of Law 36/2024/QH15 defines the moped category as vehicles designed for no more than 50 km/h with engines of 50cc or less, **or electric motors of 4 kW or less**. Everything legal flows identically from there: same age floor, same helmet duty at the same fine levels, same traffic rules, same compulsory-insurance framework. The licence article carries the details; the electric licence article covers where the moped line sits in the electric spectrum (pedal e-bikes below, licence-class electrics above).
+Article 34(1)(g) of Law 36/2024/QH15 defines the moped category as vehicles designed for no more than 50 km/h with engines of 50cc or less, **or electric motors of 4 kW or less**. Everything legal flows identically from there: same age floor, same helmet duty at the same fine levels, same traffic rules, same compulsory-insurance framework. The licence article carries the details; the electric licence article covers where the moped line sits in the electric spectrum (pedal e-bikes below, licence-class electrics above).
 
 ## Refuel versus recharge
 

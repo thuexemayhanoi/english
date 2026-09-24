@@ -32,7 +32,7 @@ Real prices from dealer and market guides: a new Yamaha PG-1 lists at about 30,0
 
 ## The paperwork: the part that decides everything
 
-The key document is the bluecard (vehicle registration certificate) — see our dedicated guide. When you buy:
+The key document is the bluecard (vehicle registration certificate) — see our [dedicated guide]({{ '/articles/motorbike-bluecard-ownership-papers-vietnam/' | relative_url }}). When you buy:
 
 - Match the bluecard to the frame and engine numbers of the bike you are holding.
 - Get a sales contract (giấy xác nhận chuyển quyền sở hữu xe) signed by the seller, with both parties' details. Without it, transferring or reselling the bike is a problem.
@@ -41,13 +41,13 @@ The key document is the bluecard (vehicle registration certificate) — see our 
 
 ## The licence reality
 
-Owning does not legalise riding. Above 50cc you still need a valid Vietnamese licence or 1968-convention IDP, exactly as with a rental — see our tourist-riding overview. A surprising share of "bought a bike, rode the country" stories quietly include riding illegally the whole way.
+Owning does not legalise riding. Above 50cc you still need a valid Vietnamese licence or 1968-convention IDP, exactly as with a rental — see our tourist-riding [overview]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}). A surprising share of "bought a bike, rode the country" stories quietly include riding illegally the whole way.
 
 ## When buying beats renting
 
 - Trips of roughly six weeks or more, where rental daily rates exceed the depreciation you will eat buying and reselling.
 - Riders who want the specific mechanical character of their own bike on remote roads.
-- Travellers who accept the resale gamble (see our selling guide for how to exit well).
+- Travellers who accept the resale gamble (see our selling [guide]({{ '/articles/selling-motorbike-before-leaving-vietnam/' | relative_url }}) for how to exit well).
 
 ## When renting beats buying
 

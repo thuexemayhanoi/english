@@ -54,4 +54,4 @@ Write the date and what you found — ten words is plenty. A year of ten-word en
 
 ## What this routine is not
 
-It is not a substitute for the pre-ride two minutes (the quick version lives in our pre-ride checklist) or for proper services — the service article separates what a workshop does from what a kerbside can.
+It is not a substitute for the pre-ride two minutes (the quick version lives [pre-ride checklist]({{ '/articles/50cc-pre-ride-checklist/' | relative_url }})) or for proper services — the service article separates what a workshop does from what a kerbside can.

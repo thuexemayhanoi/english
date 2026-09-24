@@ -41,4 +41,4 @@ From walking pace, stop fully, then launch again — ten times in a row without 
 
 Releasing in one motion ("dumping") stalls the engine; holding the throttle open while stopped launches you. If the clutch itself feels wrong — dragging, slipping or a lever that bites in a strange place — that is a mechanical issue, not a technique one, and our clutch troubleshooting guide covers the symptoms.
 
-Slow-speed balance work pairs naturally with this — combine the friction zone with the exercises in our slow-speed control guide, and add hill starts once the flat ground feels easy.
+Slow-speed balance work pairs naturally with this — combine the friction zone with the exercises in our slow-speed [control guide]({{ '/articles/slow-speed-control-motorbike-vietnam/' | relative_url }}), and add hill starts once the flat ground feels easy.

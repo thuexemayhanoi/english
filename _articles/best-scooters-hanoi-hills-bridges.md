@@ -28,7 +28,7 @@ Computed from manufacturer power and weight figures: Honda Vario 160 about 96 W/
 
 ## Torque matters more than the ratio suggests
 
-Peak torque at low rpm is what pulls you up a bridge ramp at city speed: the SH160i's 14.8 Nm at 6,500 rpm, the Vario 160's 14.1 Nm and the SH Mode's 11.7 Nm at just 5,000 rpm all favour relaxed climbing. See our power and torque explainer.
+Peak torque at low rpm is what pulls you up a bridge ramp at city speed: the SH160i's 14.8 Nm at 6,500 rpm, the Vario 160's 14.1 Nm and the SH Mode's 11.7 Nm at just 5,000 rpm all favour relaxed climbing. See our power [and torque explainer]({{ '/articles/underbone-power-torque-explained/' | relative_url }}).
 
 ## Practical Hanoi advice
 

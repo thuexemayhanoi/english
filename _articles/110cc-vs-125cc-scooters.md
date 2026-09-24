@@ -34,7 +34,7 @@ Note how much overlap there is: a 125 is not automatically stronger than every 1
 
 ## Licence implications
 
-Engine capacity determines which Vietnamese licence class covers a bike - anything up to 125 cc falls in the A1 class, while smaller categories apply under 50 cc. The details are in our licence guides: what the A1 licence lets you ride and the 50 cc licence rules. If you hold a foreign licence or IDP, check those guides before choosing a rental.
+Engine capacity determines which Vietnamese licence class covers a bike - anything up to 125 cc falls in the A1 class, while smaller categories apply under 50 cc. The details are in our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}): what the A1 licence lets you ride and the 50 cc licence rules. If you hold a foreign licence or IDP, check those guides before choosing a rental.
 
 ## What you actually feel
 

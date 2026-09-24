@@ -44,7 +44,7 @@ Among the manuals, the Exciter 155 and Winner R have power to spare, but their s
 
 ## Two-up technique
 
-Carrying a passenger changes braking distances and low-speed balance - see our slow-speed control guide for the skills, and never exceed what feels controlled.
+Carrying a passenger changes braking distances and low-speed balance - see our slow-speed [control guide]({{ '/articles/slow-speed-control-motorbike-vietnam/' | relative_url }}) for the skills, and never exceed what feels controlled.
 
 ## Renting
 

@@ -33,7 +33,7 @@ A Hanoi commute is a specific discipline: 30-60 minutes of dense traffic, twice 
 ## The data-driven picks
 
 - Best all-round commuter: Honda Vision - 97 kg, 1.82 L/100 km, 16-inch front wheel, 785 mm seat. The default answer for a reason.
-- Best for stop-start economy: Yamaha Gear 125 Hybrid - 96 kg, 750 mm seat, 1.7 L/100 km published, hybrid assist that helps precisely in the launch-stop-launch pattern of Hanoi traffic (our hybrid explainer).
+- Best for stop-start economy: Yamaha Gear 125 Hybrid - 96 kg, 750 mm seat, 1.7 L/100 km published, hybrid assist that helps precisely in the launch-stop-launch pattern of Hanoi traffic (our hybrid [explainer]({{ '/articles/scooter-hybrid-systems-explained/' | relative_url }})).
 - Best with cargo: Yamaha Latte 125 or Honda Lead 125 - both 37 L bays; the Latte is 14 kg lighter, the Lead's seat is 30 mm lower.
 - Best budget with ABS: the FreeGo S - front ABS at entry money is rare (see the ABS list).
 - Best if the commute crosses bridges or ring roads: bigger wheels win - Vision, SH Mode (16-inch front), Lexi 155 (14-inch wheels, 1,353 mm wheelbase).
@@ -44,8 +44,8 @@ Heavy premium machines (NMAX 131 kg, SH160i 134 kg) publish their own commuter l
 
 ## Ride habits matter as much as the bike
 
-The bike is half the equation - filtering safely, managing rush hour, and rain-season riding techniques are covered in our riding-skills guides. A 97 kg Vision ridden well beats a 134 kg SH ridden badly every time.
+The bike is half the equation - filtering safely, managing rush hour, and rain-season riding techniques are covered in our riding-skills [guide]({{ '/articles/slow-speed-control-motorbike-vietnam/' | relative_url }})s. A 97 kg Vision ridden well beats a 134 kg SH ridden badly every time.
 
 ## Commuting by rental
 
-For a daily commute over months, monthly rental usually beats daily rates - the price-published monthly models include Honda Click and Yamaha Mio (1,000,000-1,200,000 VND/month), Honda Vision (1,800,000-2,000,000 VND/month) and Honda Air Blade (1,400,000 VND/month). Contact us to confirm current availability, and see our commuting-by-motorbike guide for the full monthly-rental picture.
+For a daily commute over months, monthly rental usually beats daily rates - the price-published monthly models include Honda Click and Yamaha Mio (1,000,000-1,200,000 VND/month), Honda Vision (1,800,000-2,000,000 VND/month) and Honda Air Blade (1,400,000 VND/month). Contact us to confirm current availability, and see our commuting-by-motorbike [guide]({{ '/articles/commuting-by-motorbike-monthly-hanoi/' | relative_url }}) for the full monthly-rental picture.

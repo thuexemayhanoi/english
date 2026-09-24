@@ -28,7 +28,7 @@ EURO 4 is a stage of exhaust-emission limits (carbon monoxide, hydrocarbons, nit
 
 ## Why it matters mechanically
 
-Meeting strict emission limits is essentially impossible with a carburettor - closed-loop electronic fuel injection meters fuel precisely, and that is what PGM-FI (Honda) and EFI (Yamaha's Gear 125) denote. The practical consequences for a rider: easier cold starts, more stable fueling at Hanoi altitude changes, better measured economy - and different maintenance. Instead of carb tuning (our carburettor guide covers the older world), fuel-injected engines need clean injectors and filters - our fuel injection guide covers care.
+Meeting strict emission limits is essentially impossible with a carburettor - closed-loop electronic fuel injection meters fuel precisely, and that is what PGM-FI (Honda) and EFI (Yamaha's Gear 125) denote. The practical consequences for a rider: easier cold starts, more stable fueling at Hanoi altitude changes, better measured economy - and different maintenance. Instead of carb tuning (our carburettor guide covers the older world), fuel-injected engines need clean injectors and filters - our fuel [injection guide]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}) covers care.
 
 ## What EURO 4 does not mean
 
@@ -36,4 +36,4 @@ It is not a performance rating, and it does not mean a scooter is electric or hy
 
 ## How to check
 
-The specification page of any current model states its emission compliance - our spec-sheet guide shows where to find it. Contact us to confirm current availability of any specific model year.
+The specification page of any current model states its emission compliance - our spec-sheet [guide]({{ '/articles/how-to-read-motorbike-spec-sheet-vietnam/' | relative_url }}) shows where to find it. Contact us to confirm current availability of any specific model year.

@@ -24,7 +24,7 @@ Buying a scooter in Vietnam is straightforward, but the paperwork, the market an
 
 ## Step 1: pick the class, then the model
 
-Most first-time buyers land in the 110-125 cc automatic class: light, economical, easy to resell. The entry duel is Honda Vision (109.5 cc, from 31,506,545 VND listed) vs Yamaha Janus (124.9 cc, from 29,151,000 VND) - our comparison covers it. Bigger budgets move up the classes in our 110cc vs 125cc explainer and premium scooter guide. Buy what you will ride, not what impresses: solo commuters lose money on a 160.
+Most first-time buyers land in the 110-125 cc automatic class: light, economical, easy to resell. The entry duel is Honda Vision (109.5 cc, from 31,506,545 VND listed) vs Yamaha Janus (124.9 cc, from 29,151,000 VND) - our comparison covers it. Bigger budgets move up the classes in our 110cc [vs 125cc explainer]({{ '/articles/110cc-vs-125cc-scooters/' | relative_url }}) and premium scooter guide. Buy what you will ride, not what impresses: solo commuters lose money on a 160.
 
 ## Step 2: decide new or used
 
@@ -32,9 +32,9 @@ A new bike from an official dealer carries the manufacturer warranty (Yamaha lis
 
 ## Step 3: paperwork and legality
 
-- **Licence:** the A1 class covers up to 125 cc - confirm what you can ride in our licence guides before choosing engine size.
+- **Licence:** the A1 class covers up to 125 cc - confirm what you can ride in our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) before choosing engine size.
 - **Registration:** a bought bike must be registered in your name; keep the registration card with the bike (our documents guide).
-- **Insurance:** compulsory civil liability insurance is a legal requirement - our insurance guide explains what it covers and does not.
+- **Insurance:** compulsory civil liability insurance is a legal requirement - our insurance [guide]({{ '/articles/do-you-need-insurance-to-ride-vietnam/' | relative_url }}) explains what it covers and does not.
 
 ## Step 4: the buying checks
 

@@ -48,6 +48,6 @@ Big engine sizes add nothing - traffic rarely clears 40 km/h. Manual clutch bike
 The scooter article compares the specific models; the beginner article covers the first-week learning curve.
 
 
-For the verified data behind the underbone recommendation, see our 110 cc underbones data guide ranking the Wave Alpha, Blade, Wave RSX and Sirius.
+For the verified data behind the underbone recommendation, see our 110 [cc underbones data guide]({{ '/articles/best-110cc-underbones-vietnam-verified/' | relative_url }}) ranking the Wave Alpha, Blade, Wave RSX and Sirius.
 
 Electric riders should also read electric-vs-petrol-motorbike-hanoi and electric-motorbike-commuting-hanoi for the format-specific view of the same traffic.

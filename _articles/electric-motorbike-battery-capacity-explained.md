@@ -39,6 +39,6 @@ The VinFast swap system adds a third dialect: the number of removable 1.5 kWh pa
 
 ## What capacity does not tell you
 
-- Range claims are manufacturer figures under standard conditions; hills, load, speed and cold shrink them (our real-world range guide explains how much).
+- Range claims are manufacturer figures under standard conditions; hills, load, speed and cold shrink them (our real-world [range guide]({{ '/articles/electric-motorbike-range-real-world-vietnam/' | relative_url }}) explains how much).
 - Two packs of equal kWh behave differently if the chemistries differ — see the LFP vs lithium-ion comparison.
-- Capacity fades with age, so a used bike's real capacity is a health question, best assessed with the checks in our battery health guide.
+- Capacity fades with age, so a used bike's real capacity is a health question, best assessed with the checks in our battery [health guide]({{ '/articles/electric-motorbike-battery-health-check/' | relative_url }}).

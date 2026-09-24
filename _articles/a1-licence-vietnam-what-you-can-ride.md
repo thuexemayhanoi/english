@@ -44,6 +44,6 @@ Article 89 of the law preserves the scope of A1 licences issued before 1 January
 
 ## For foreign visitors
 
-Most visitors do not hold a Vietnamese A1. Instead, recognition depends on your home licence plus an International Driving Permit that includes a motorcycle category — see our IDP guide. Riding a 110cc scooter with no valid licence of any kind is an offence: 2–4 million VND for bikes of 125cc or under, 6–8 million for bigger machines (Decree 168/2024/NĐ-CP, Article 18). It also complicates insurance and liability after an accident.
+Most visitors do not hold a Vietnamese A1. Instead, recognition depends on your home licence plus an International Driving Permit that includes a motorcycle category — see our IDP [guide]({{ '/articles/idp-vietnam-motorbike-rules/' | relative_url }}). Riding a 110cc scooter with no valid licence of any kind is an offence: 2–4 million VND for bikes of 125cc or under, 6–8 million for bigger machines (Decree 168/2024/NĐ-CP, Article 18). It also complicates insurance and liability after an accident.
 
 *Information, not legal advice. Verified against the full text of Law 36/2024/QH15 and Decree 168/2024/NĐ-CP on 2026-09-21.*

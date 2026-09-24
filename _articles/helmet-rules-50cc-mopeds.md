@@ -1,7 +1,7 @@
 ---
 title: "Do Helmet Rules Apply to 50cc Mopeds in Vietnam?"
 slug: helmet-rules-50cc-mopeds
-description: "Yes: Article 31 of Law 36/2024 requires standard-compliant, fastened helmets for moped riders and passengers, with 400,000-600,000 VND fines under Decree 168. Choosing and fitting a helmet for licence-free riders."
+description: "Yes: Article 33(2) of Law 36/2024 requires standard-compliant, fastened helmets for moped riders and passengers, with 400,000-600,000 VND fines under Decree 168. Choosing and fitting a helmet for licence-free riders."
 category: 50cc
 tags:
   - "50cc"
@@ -17,7 +17,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 review_status: VERIFIED
 sources:
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 31 (compulsory helmets including mopeds and electric mopeds)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 33(2) (compulsory helmets including mopeds and electric mopeds)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 7(2)(h),(i) (fines for helmet offences)"
   - "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650 — Ministry of Public Security summary of Article 7 fines for motorbike riders"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
@@ -28,7 +28,7 @@ The myth that helmets are only for "real motorbikes" is not just wrong — it is
 
 ## The rule
 
-Article 31 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires riders and passengers of two- and three-wheel motorbikes, mopeds (xe gắn máy) — explicitly including electric mopeds — and motorised pedal bicycles to wear helmets that meet the national technical standard, fastened correctly. An unstrapped helmet is treated as no helmet.
+Article 33(2) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires riders and passengers of two- and three-wheel motorbikes and mopeds (xe gắn máy) — explicitly including electric mopeds — to wear helmets; Article 31(3) extends the duty to motorised pedal bicycles. Together they require everyone riding a powered two-wheeler that meet the national technical standard, fastened correctly. An unstrapped helmet is treated as no helmet.
 
 ## The fine
 

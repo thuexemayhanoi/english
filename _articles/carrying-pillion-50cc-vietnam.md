@@ -16,7 +16,7 @@ subcluster: "6.3 riding-50cc"
 date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 31 (helmets for riders and passengers)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 33(2) (helmets for riders and passengers)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
 internal_link_targets: child-passengers-motorbike-vietnam, second-helmet-passengers-vietnam, balancing-pillion-riding-motorbike-vietnam, helmet-rules-50cc-mopeds, 50cc-hills-bridges-hanoi
 ---
@@ -25,7 +25,7 @@ Two people on a 50cc is legal in Vietnam — and legally simple. Physically, it 
 
 ## The legal side
 
-Passengers are permitted on a moped, subject to the ordinary rules: the passenger must wear a standard-compliant, fastened helmet (Article 31, Law 36/2024/QH15), and riding without one — or carrying a passenger without one — costs 400,000–600,000 VND under Decree 168/2024. Children carried as passengers have their own helmet and safety considerations, which our child-passengers article covers in detail. Always carry a second helmet for the passenger, not a spare that lives under the seat.
+Passengers are permitted on a moped, subject to the ordinary rules: the passenger must wear a standard-compliant, fastened helmet (Article 33(2), Law 36/2024/QH15), and riding without one — or carrying a passenger without one — costs 400,000–600,000 VND under Decree 168/2024. Children carried as passengers have their own helmet and safety considerations, which our child-passengers article covers in detail. Always carry a second helmet for the passenger, not a spare that lives under the seat.
 
 ## The physics
 

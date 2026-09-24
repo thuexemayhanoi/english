@@ -40,4 +40,4 @@ VinFast chose LFP chemistry for its swappable packs specifically for safety and 
 
 - **Overnight charging is normal practice** — but do it in the ventilated, clear-of-clutter space, not beside your sleeping head.
 - **A pack that smells, swells or gets hot off the charger goes outside, away from the building, and to the dealer.** Do not keep charging it to confirm.
-- **Long storage:** park the pack at partial charge, indoors, cool — our storage guide covers it.
+- **Long storage:** park the pack at partial charge, indoors, cool — our storage [guide]({{ '/articles/scooter-underseat-storage-comparison/' | relative_url }}) covers it.

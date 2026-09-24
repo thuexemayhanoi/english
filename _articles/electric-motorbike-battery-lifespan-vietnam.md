@@ -44,4 +44,4 @@ Dat Bike publishes the boldest verified figure: the Weaver 200's lithium-ion pac
 
 ## When fade arrives
 
-Reduced range per charge is the symptom; app diagnostics give numbers. A pack near end-of-life is a replacement decision, not a bike funeral — see our battery replacement guide for costs and choices.
+Reduced range per charge is the symptom; app diagnostics give numbers. A pack near end-of-life is a replacement decision, not a bike funeral — see our battery [replacement guide]({{ '/articles/electric-motorbike-battery-replacement-vietnam/' | relative_url }}) for costs and choices.

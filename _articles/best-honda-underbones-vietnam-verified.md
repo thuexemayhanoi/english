@@ -56,4 +56,4 @@ Around 30 million: Future 125 FI - the most economical bike on this list at 1.47
 
 The Honda Wave is our price-published rental class at 150,000 VND per day - contact us to confirm which Wave version is currently in the fleet. Every other model above: contact us to confirm current availability. Insurance is not included in rentals - customers arrange their own.
 
-For 110-class and 125-class deep dives, see our verified guides to the best 110cc underbones and the best 125cc underbones.
+For 110-class and 125-class deep dives, see our [verified guides to the best 110cc underbones and the best 125cc underbones]({{ '/articles/best-110cc-underbones-vietnam-verified/' | relative_url }}).

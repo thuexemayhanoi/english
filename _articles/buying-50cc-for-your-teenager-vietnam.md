@@ -39,7 +39,7 @@ The helmet is legally required and the single most important item — certified,
 
 ## Train before traffic
 
-The school training programme covers rules and basic skills; extend it at home. Quiet-lot practice, then quiet streets, then supervised traffic — our teaching guide lays out the progression, and the first-week plan matters more than the bike chosen.
+The school training programme covers rules and basic skills; extend it at home. Quiet-lot practice, then quiet streets, then supervised traffic — our teaching [guide]({{ '/articles/teaching-teens-50cc-safe-riding/' | relative_url }}) lays out the progression, and the first-week plan matters more than the bike chosen.
 
 ## Rules agreed before the keys
 

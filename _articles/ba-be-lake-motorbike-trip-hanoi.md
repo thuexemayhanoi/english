@@ -37,15 +37,15 @@ Fuel is available along the QL3 corridor; fill up in Cho Ra before the final run
 
 The heart of a Ba Be trip is the boat: long-tail boats from the lake shore cruise the three basins, past limestone cliffs and into Puong cave where the Nang river runs through the mountain, usually to the Dau Dang waterfall downstream. Boat trips are arranged on the spot at the dock or through your homestay — agree the route and price before boarding.
 
-Most riders sleep in Pac Ngoi, the Tay stilt-house village on the southern shore, or in homestays scattered around the park buffer. Our overnight-stays checklist applies directly here: confirm covered or watched parking for the bike, confirm whether dinner and breakfast are included, and book ahead in peak autumn season. Two to three days is the right scale for the trip — one to ride in, one for the lake and villages, one to ride out, with our day-distance guide explaining why the legs in and out deserve their own days.
+Most riders sleep in Pac Ngoi, the Tay stilt-house village on the southern shore, or in homestays scattered around the park buffer. Our overnight-stays checklist applies directly here: confirm covered or watched parking for the bike, confirm whether dinner and breakfast are included, and book ahead in peak autumn season. Two to three days is the right scale for the trip — one to ride in, one for the lake and villages, one to ride out, with our day-distance [guide]({{ '/articles/how-far-motorbike-day-trip-hanoi/' | relative_url }}) explaining why the legs in and out deserve their own days.
 
 ## Extending the trip
 
-Ba Be is the southwest gateway of the northeast: from the lake, riders continue north to Bao Lac and the Ha Giang border country, or east toward Cao Bang city, Pac Bo and Ban Gioc. Our Cao Bang/Ban Gioc guide covers that leg in detail, and the full circuit is laid out in our northeast loop guide. In the other direction, Bac Son valley makes an easier overnight on the way home. If you only have a weekend, ride Ba Be alone — it stands on its own.
+Ba Be is the southwest gateway of the northeast: from the lake, riders continue north to Bao Lac and the Ha Giang border country, or east toward Cao Bang city, Pac Bo and Ban Gioc. Our Cao Bang/Ban Gioc guide covers that leg in detail, and the full circuit is laid out in our northeast [loop guide]({{ '/articles/northeast-vietnam-motorbike-loop/' | relative_url }}). In the other direction, Bac Son valley makes an easier overnight on the way home. If you only have a weekend, ride Ba Be alone — it stands on its own.
 
 ## Practical notes
 
-- Best windows are autumn and late spring; mid-summer rain swells the waterfall runs and mid-winter is grey and cold around the lake (see our seasons guide).
+- Best windows are autumn and late spring; mid-summer rain swells the waterfall runs and mid-winter is grey and cold around the lake (see our seasons [guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }})).
 - A 110-125cc underbone is comfortable; scooters manage solo. The final park roads are narrow — ride them as village roads, not as a stage.
 - Run the trip-prep checklist the day before; the nearest real mechanics are in Bac Kan or Cho Ra, so tyres, chain and brakes need to be right when you leave Hanoi.
 

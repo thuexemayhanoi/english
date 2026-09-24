@@ -32,10 +32,10 @@ Tyres are the electric motorbike's underrated consumable: instant torque, heavy 
 
 ## The routine
 
-1. **Pressures weekly** (and always before a long ride), using the manufacturer's specified values — not remembered ones. Use our tyre care guide for the method.
+1. **Pressures weekly** (and always before a long ride), using the manufacturer's specified values — not remembered ones. Use our tyre [care guide]({{ '/articles/50cc-tyres-small-wheels-care/' | relative_url }}) for the method.
 2. **Tread and sidewalls at the same time**: cuts, embedded stones, sidewall bubbles, and the legal wear indicators.
 3. **Wheel size honesty.** The Weaver 200 runs 17-inch wheels (17-2.75 front, 17-3.0 rear per its official spec) — underbone-style sizing, not scooter sizing; match replacements exactly.
-4. **Age check.** Rubber hardens with years regardless of tread; see our tyre age guide.
+4. **Age check.** Rubber hardens with years regardless of tread; see our tyre [age guide]({{ '/articles/choosing-replacement-tyres-motorbike-vietnam/' | relative_url }}).
 5. **After every deep pothole**, re-check pressures — Hanoi's road works are unkind to rims and seals alike.
 
 ## What not to do

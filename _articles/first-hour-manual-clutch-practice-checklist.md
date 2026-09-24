@@ -35,7 +35,7 @@ Launch, accelerate gently to second, ride 50 metres, brake smoothly, downshift, 
 
 ## Minutes 40–55: shapes
 
-Slow circles left and right in first and second, using the friction zone and a steady throttle — the drills in our slow-speed guide. Finish with figure-eights if space allows. This is the hardest and most valuable part of the hour.
+Slow circles left and right in first and second, using the friction zone and a steady throttle — the drills in our slow-speed [guide]({{ '/articles/slow-speed-control-motorbike-vietnam/' | relative_url }}). Finish with figure-eights if space allows. This is the hardest and most valuable part of the hour.
 
 ## Minutes 55–60: traffic preview
 

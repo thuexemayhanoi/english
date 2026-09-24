@@ -31,7 +31,7 @@ Riding 15,000-30,000 km a year changes what "best" means. Purchase price amortis
 
 ## Why air-cooled semi-automatics win
 
-No radiator, no coolant, no clutch plates consumed in traffic - the air-cooled four-speed underbone is the cheapest architecture in Vietnam to run at scale, and its parts are everywhere (our spare-parts availability guide covers the supply chain). Honda publishes full engine-oil capacities for this class (drain figures above), which keeps servicing cheap and fast.
+No radiator, no coolant, no clutch plates consumed in traffic - the air-cooled four-speed underbone is the cheapest architecture in Vietnam to run at scale, and its parts are everywhere (our spare-parts [availability guide]({{ '/articles/spare-parts-availability-vietnam/' | relative_url }}) covers the supply chain). Honda publishes full engine-oil capacities for this class (drain figures above), which keeps servicing cheap and fast.
 
 ## What loses money at high mileage
 

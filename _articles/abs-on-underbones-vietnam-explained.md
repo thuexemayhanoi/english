@@ -28,7 +28,7 @@ Yamaha's Exciter 155 VVA page lists ABS on limited ABS versions; the standard Ex
 
 ## What the class actually offers
 
-Discs, mostly front-only. The Sirius RC pairs a front hydraulic disc with a rear drum; the Blade Sport runs alloy wheels and a front disc while other Blade versions use a front drum; the Super Cub, CT125, Winner R and CBR150R pages do not itemise their brake layouts on the retrieved pages. Disc-versus-drum trade-offs are covered in our brakes guide.
+Discs, mostly front-only. The Sirius RC pairs a front hydraulic disc with a rear drum; the Blade Sport runs alloy wheels and a front disc while other Blade versions use a front drum; the Super Cub, CT125, Winner R and CBR150R pages do not itemise their brake layouts on the retrieved pages. Disc-versus-drum trade-offs are covered in our brakes [guide]({{ '/articles/50cc-brakes-drum-checks/' | relative_url }}).
 
 ## Does it matter?
 

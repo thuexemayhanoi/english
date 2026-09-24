@@ -41,4 +41,4 @@ A bike charging in a corridor with its charger cable visible is advertising both
 
 ## If the worst happens
 
-Report with the bike's serial and the app-account details; connected bikes are trackable while powered. For renters: the security routine you keep for a rental protects your deposit too — see our rental security guide.
+Report with the bike's serial and the app-account details; connected bikes are trackable while powered. For renters: the security routine you keep for a rental protects your deposit too — see our rental [security guide]({{ '/articles/disc-locks-chains-motorbike-security/' | relative_url }}).

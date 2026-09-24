@@ -40,4 +40,4 @@ Top speed and outright power. In gridlock, the Wave Alpha's 6.12 kW is indisting
 
 ## Renting before buying
 
-The Wave and Sirius classes are our price-published rental groups at 150,000 VND per day - the cheapest way to test the format against your real commute before spending 20-30 million VND on a purchase. Contact us to confirm current availability of any specific model. For the 125-and-above arguments, see our 110-versus-125 underbone guides.
+The Wave and Sirius classes are our price-published rental groups at 150,000 VND per day - the cheapest way to test the format against your real commute before spending 20-30 million VND on a purchase. Contact us to confirm current availability of any specific model. For the 125-and-above arguments, see our 110-versus-125 [underbone guide]({{ '/articles/125cc-vs-110cc-underbones/' | relative_url }})s.

@@ -28,7 +28,7 @@ In a market with thin official supply, buyers judge the machine in front of them
 
 ## Paperwork is half the price
 
-Registration that matches the frame, a clean ownership story, a current compulsory-insurance certificate: papers are what turn "interesting bike" into "buyable bike". Buyers discount heavily for paperwork gaps and walk away from "papers coming later" — as our buying guide warns from the other side of the deal.
+Registration that matches the frame, a clean ownership story, a current compulsory-insurance certificate: papers are what turn "interesting bike" into "buyable bike". Buyers discount heavily for paperwork gaps and walk away from "papers coming later" — as our buying [guide]({{ '/articles/buying-motorbike-as-tourist-vietnam/' | relative_url }}) warns from the other side of the deal.
 
 ## Original parts hold value; bad modifications destroy it
 
@@ -42,7 +42,7 @@ The patterns that destroy it: cut wiring, shade-tree electrical "fixes", mismatc
 
 ## The grey-import premium
 
-Japanese-market 50s trade in a small enthusiast market with its own rules: provenance and condition command a premium, and patient sellers hold price while hurried sellers crater it. The support-network trade-offs are covered in our grey-import guide — anyone buying yours will have read the same article, so price accordingly.
+Japanese-market 50s trade in a small enthusiast market with its own rules: provenance and condition command a premium, and patient sellers hold price while hurried sellers crater it. The support-network trade-offs are covered in our grey-import [guide]({{ '/articles/grey-import-50cc-vietnam/' | relative_url }}) — anyone buying yours will have read the same article, so price accordingly.
 
 ## The habits that protect value while you ride
 

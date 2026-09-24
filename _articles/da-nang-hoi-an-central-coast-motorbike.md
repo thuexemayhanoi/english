@@ -29,7 +29,7 @@ The central coast is Vietnam's great short-distance riding playground: a compact
 
 ## The Hai Van Pass
 
-The pass is the centrepiece: 21 kilometres of cliff road over the mountain spur between Hue and Da Nang, climbing to roughly 496 metres above the sea. Since the 6.3 km Hai Van tunnel took the through-traffic, the pass has carried mostly tourists — light traffic and a road that guides describe as one of the most approachable mountain rides in the country for riders with basic experience in good weather. That qualifier matters: in rain or cloud the bends tighten and the views vanish; read our mountain-pass and low-visibility guides before you commit.
+The pass is the centrepiece: 21 kilometres of cliff road over the mountain spur between Hue and Da Nang, climbing to roughly 496 metres above the sea. Since the 6.3 km Hai Van tunnel took the through-traffic, the pass has carried mostly tourists — light traffic and a road that guides describe as one of the most approachable mountain rides in the country for riders with basic experience in good weather. That qualifier matters: in rain or cloud the bends tighten and the views vanish; read our mountain-pass [and low-visibility guide]({{ '/articles/mountain-pass-riding-motorbike-vietnam/' | relative_url }})s before you commit.
 
 Ride it north-to-south (Hue to Da Nang) if you must choose, and stop at the summit for the Da Nang bay and Lang Co lagoon views. The pass is about half an hour from Da Nang and just over an hour from Hoi An, so it works as a day loop from either base.
 
@@ -44,8 +44,8 @@ Hoi An itself is a walking-and-parking town: park in the paid lots at the old-to
 ## Planning the trip
 
 - **Getting there:** riders coming down from Hanoi usually arrive via the Phong Nha leg (see our Hue and Phong Nha guides); the coast itself needs three to five days to breathe.
-- **Season:** the centre has a sharp calendar — roughly February to August is dry and hot; September to November is the storm and flood season, when passes can be risky and Hoi An floods. Check the central-coast outlook before booking anything non-refundable (our seasons guide covers the north-versus-centre difference).
-- **Renting locally:** Da Nang and Hoi An are the easiest motorbike rental towns in Vietnam — but the licence rules for foreigners are the same everywhere (our tourist licence guide). Helmets in the tropics: wear the real one, every leg.
+- **Season:** the centre has a sharp calendar — roughly February to August is dry and hot; September to November is the storm and flood season, when passes can be risky and Hoi An floods. Check the central-coast outlook before booking anything non-refundable (our seasons [guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }}) covers the north-versus-centre difference).
+- **Renting locally:** Da Nang and Hoi An are the easiest motorbike rental towns in Vietnam — but the licence rules for foreigners are the same everywhere (our tourist [licence guide]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }})). Helmets in the tropics: wear the real one, every leg.
 - **Accommodation:** abundant everywhere; apply our overnight-stays checklist anyway, because beach-town parking is often open-air.
 
 If your central-coast trip starts in Hanoi with one of our bikes, contact us to confirm current availability and tell us the plan — one-way logistics, service state and timeline change what a sensible bike choice looks like.

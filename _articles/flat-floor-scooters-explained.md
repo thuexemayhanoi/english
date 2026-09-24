@@ -32,7 +32,7 @@ A flat footboard accepts what no underseat bay can: a 20-litre water crate, a ba
 - Yamaha FreeGo 125 - flat floor alongside the 25-litre bay
 - Yamaha Latte 125 - flat floor with the 37-litre underseat bay
 
-The classic contrast is the sporty scooter with a tunnel - the NMAX, NVX and SH shapes trade the floor for frame rigidity, styling and a central spine, which is exactly why the cargo comparison in our storage guide rarely features them.
+The classic contrast is the sporty scooter with a tunnel - the NMAX, NVX and SH shapes trade the floor for frame rigidity, styling and a central spine, which is exactly why the cargo comparison in our storage [guide]({{ '/articles/scooter-underseat-storage-comparison/' | relative_url }}) rarely features them.
 
 ## Flat floor versus litres
 
@@ -40,4 +40,4 @@ For a delivery rider, a 422 mm floor often beats a 25-litre bay: the bay holds y
 
 ## Cautions
 
-Load on the floor changes handling - keep weight low and centred, and mind payload limits (our payload guide covers the maths). A floor load also blocks quick dismounts, so keep it under control height. Renters: if a flat floor matters to your routine, confirm the model - contact us to confirm current availability.
+Load on the floor changes handling - keep weight low and centred, and mind payload limits (our payload [guide]({{ '/articles/scooter-payload-load-limits-vietnam/' | relative_url }}) covers the maths). A floor load also blocks quick dismounts, so keep it under control height. Renters: if a flat floor matters to your routine, confirm the model - contact us to confirm current availability.

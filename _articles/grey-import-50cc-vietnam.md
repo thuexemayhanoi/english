@@ -47,4 +47,4 @@ The honest cost of grey ownership: no Vietnamese dealer network stocks your part
 
 ## Who they suit
 
-Riders who want a charming, well-made city hopper and accept the support-network trade-off. For everyone else — teenagers needing a first bike, commuters needing cheap certainty — the ordinary used domestic 50cc remains the practical choice, and our buying guide lays out the three routes side by side.
+Riders who want a charming, well-made city hopper and accept the support-network trade-off. For everyone else — teenagers needing a first bike, commuters needing cheap certainty — the ordinary used domestic 50cc remains the practical choice, and our buying [guide]({{ '/articles/buying-motorbike-as-tourist-vietnam/' | relative_url }}) lays out the three routes side by side.

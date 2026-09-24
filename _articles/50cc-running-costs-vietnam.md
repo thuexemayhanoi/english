@@ -40,7 +40,7 @@ The work itself — oil, chain, brakes, cables, carburettor or injection cleanin
 
 ## Insurance
 
-Compulsory civil-liability insurance attaches to the vehicle and is renewed annually — a modest but non-negotiable line, as our insurance article explains.
+Compulsory civil-liability insurance attaches to the vehicle and is renewed annually — a modest but non-negotiable line, as our insurance [article]({{ '/articles/do-you-need-insurance-to-ride-vietnam/' | relative_url }}) explains.
 
 ## The economics that surprise people
 

@@ -38,7 +38,7 @@ Visitors without a licence valid for Vietnamese motorbikes — no Vietnamese lic
 - **Accidents.** A crash on a moped triggers the same liability, insurance and paperwork as any crash. Riding with no licence entitlement at all (because you hold none anywhere) does not look good in that file.
 - **Fines.** Same schedule as motorbikes: red lights 4–6 million VND, helmet 400–600k, alcohol up to 10 million.
 - **Availability.** 50cc bikes are a small, informal slice of the Vietnamese market — mostly older models and grey imports. Rental fleets rarely specialise in them. Contact us to confirm current availability before planning around one.
-- **Practical speed.** A 50cc that cannot hold 45 km/h is a specific, limited tool; read our honest Hanoi assessment before committing.
+- **Practical speed.** A 50cc that cannot hold 45 km/h is a specific, limited tool; read our [honest Hanoi assessment]({{ '/articles/is-a-50cc-enough-for-hanoi/' | relative_url }}) before committing.
 
 ## The better question
 

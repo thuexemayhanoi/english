@@ -36,11 +36,11 @@ Most street 50s in Vietnam are older machines traded privately through classifie
 
 ## Route three: the grey import
 
-The visible 50cc scene today is largely Japanese-market imports — Honda Today, Dunk, Scoopy and similar, brought in through private dealers and enthusiast channels because they were never officially distributed here. These can be charming, well-built machines, but they carry real trade-offs — parts, paperwork and price premiums — which our grey-import guide covers honestly, with no invented specifications: we publish only what current sources state.
+The visible 50cc scene today is largely Japanese-market imports — Honda Today, Dunk, Scoopy and similar, brought in through private dealers and enthusiast channels because they were never officially distributed here. These can be charming, well-built machines, but they carry real trade-offs — parts, paperwork and price premiums — which our grey-import [guide]({{ '/articles/grey-import-50cc-vietnam/' | relative_url }}) covers honestly, with no invented specifications: we publish only what current sources state.
 
 ## What the money buys either way
 
-Whatever route you choose, the bike needs: a valid compulsory insurance certificate, working brakes, a helmet for every head that will ride it, and a mechanic relationship near where you live. Insurance duty attaches to the vehicle as soon as it rides — our insurance article explains.
+Whatever route you choose, the bike needs: a valid compulsory insurance certificate, working brakes, a helmet for every head that will ride it, and a mechanic relationship near where you live. Insurance duty attaches to the vehicle as soon as it rides — our insurance [article]({{ '/articles/do-you-need-insurance-to-ride-vietnam/' | relative_url }}) explains.
 
 ## The teenager question
 

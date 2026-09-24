@@ -41,7 +41,7 @@ Nothing builds a new rider's confidence faster than a light bike, and nothing de
 | Yamaha NMAX 155 | 131 kg | Premium 155 |
 | Honda SH160i | 134 kg | Premium 160 |
 
-(Weights are kerb or wet weights as each manufacturer states them; the two terms differ slightly between brands - see our kerb-weights explainer.)
+(Weights are kerb or wet weights as each manufacturer states them; the two terms differ slightly between brands - see our kerb-weights [explainer]({{ '/articles/scooter-kerb-weights-vietnam-verified/' | relative_url }}).)
 
 ## Why weight matters more than power for beginners
 
@@ -55,7 +55,7 @@ In Vietnamese traffic you rarely use full power, but you always use the weight: 
 
 ## Weight versus stability - the honest trade-off
 
-Light bikes are easier to manage and more nervous on bad surfaces; heavy bikes are calmer at speed and harder at parking. The Vision's 16-inch front wheel is the smart compromise - light bike, big wheel - which our 16-inch wheel guide explains.
+Light bikes are easier to manage and more nervous on bad surfaces; heavy bikes are calmer at speed and harder at parking. The Vision's 16-inch front wheel is the smart compromise - light bike, big wheel - which our 16-inch [wheel guide]({{ '/articles/16-inch-wheel-scooters-vietnam/' | relative_url }}) explains.
 
 ## Renting light
 

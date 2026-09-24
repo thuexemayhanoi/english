@@ -41,4 +41,4 @@ Alloy castings on small bikes are typically a little heavier than a well-built s
 
 ## What to choose
 
-Daily commuting on bad roads far from cities: spoked wheels and tubes are the pragmatic choice. City riding where you value the disc brake, styling and slightly lower puncture drama: the alloy-wheel versions. Whichever you pick, our genuine versus fake parts guide matters when replacing wheels or tyres. Contact us to confirm current availability of any version for rental.
+Daily commuting on bad roads far from cities: spoked wheels and tubes are the pragmatic choice. City riding where you value the disc brake, styling and slightly lower puncture drama: the alloy-wheel versions. Whichever you pick, our genuine [versus fake parts guide]({{ '/articles/buying-motorbike-parts-online-vietnam/' | relative_url }}) matters when replacing wheels or tyres. Contact us to confirm current availability of any version for rental.

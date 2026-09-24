@@ -47,6 +47,6 @@ Cat Ba is bigger than most visitors expect — a national park covering most of 
 
 - Day 1: leave by 8 a.m., QL5 to the bridge, ferry mid-day, ride the island crossing road, sleep in Cat Ba town. About four hours of riding plus the crossing.
 - Day 2: morning loop of the island or a boat trip into Lan Ha Bay (park the bike securely), then an afternoon ferry and an evening ride home — or break the return with a night in Ha Long city and make it three days.
-- Budget with our trip-budget guide: fuel for roughly 300 km round trip, two ferry crossings, island parking and lodging.
+- Budget with our trip-budget [guide]({{ '/articles/motorbike-trip-budget-from-hanoi/' | relative_url }}): fuel for roughly 300 km round trip, two ferry crossings, island parking and lodging.
 
 Contact us to confirm current availability if you need a bike for the trip, and say it is for Cat Ba — the route and the salt crossing are exactly the kind of trip where the right machine and a fresh service matter.

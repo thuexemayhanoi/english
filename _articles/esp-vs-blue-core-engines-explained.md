@@ -24,7 +24,7 @@ Every automatic scooter sold by Honda and Yamaha in Vietnam carries one of four 
 
 ## Honda eSP
 
-The base family: four-stroke, single-cylinder engines with PGM-FI electronic fuel injection, designed around efficiency and durability. Current Vietnamese applications include the Vision 110 (air-cooled, 109.5 cc, 6.59 kW) and the Vario 125 (liquid-cooled, 125 cc, 8.48 kW, with idling stop). Cooling type is a separate question from engine family - see our air-cooled vs liquid-cooled explainer.
+The base family: four-stroke, single-cylinder engines with PGM-FI electronic fuel injection, designed around efficiency and durability. Current Vietnamese applications include the Vision 110 (air-cooled, 109.5 cc, 6.59 kW) and the Vario 125 (liquid-cooled, 125 cc, 8.48 kW, with idling stop). Cooling type is a separate question from engine family - see our air-cooled [vs liquid-cooled explainer]({{ '/articles/air-cooled-vs-liquid-cooled-motorbike/' | relative_url }}).
 
 ## Honda eSP+
 

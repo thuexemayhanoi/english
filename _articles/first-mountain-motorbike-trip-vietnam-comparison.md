@@ -29,7 +29,7 @@ Every rider who has done a few Hanoi day trips eventually asks the same question
 
 ## Step 0: have you done a day trip yet?
 
-If not, start there. Tam Dao and Ba Vi are the two classic first mountain rides (our Tam Dao versus Ba Vi comparison breaks them down), and the day-trip planning basics — fuel, prep checklist, daylight — all live in our how-far-per-day and prep guides. A first overnight trip should not also be your first climb.
+If not, start there. Tam Dao and Ba Vi are the two classic first mountain rides (our Tam Dao versus Ba Vi comparison breaks them down), and the day-trip planning basics — fuel, prep checklist, daylight — all live in our how-far-per-day [and prep guide]({{ '/articles/how-far-motorbike-day-trip-hanoi/' | relative_url }})s. A first overnight trip should not also be your first climb.
 
 ## Level 1: Mai Chau (2 days, the standard answer)
 

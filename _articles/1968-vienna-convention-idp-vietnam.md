@@ -17,7 +17,7 @@ date_published: 2026-09-19
 last_reviewed: 2026-09-21
 review_status: VERIFIED
 sources:
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 58(6) (recognition of 1968 Vienna Convention licences)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 57(8) (recognition of 1968 Vienna Convention licences)"
   - "https://unece.org/50th-anniversary-1968-conventions — UNECE (treaty secretariat): Vietnam acceded to the 1968 Vienna Conventions in 2014"
   - "https://treaties.un.org/pages/ViewDetailsIII.aspx?mtdsg_no=XI-B-19&chapter=11 — United Nations Treaty Collection: 1968 Vienna Convention on Road Traffic (Chapter XI-B-19)"
 internal_link_targets: "idp-vietnam-motorbike-rules, can-tourists-ride-motorbike-vietnam"
@@ -31,7 +31,7 @@ The Vienna Convention on Road Traffic (1968) is a United Nations treaty that set
 
 ## How Vietnamese law uses it
 
-The convention by itself does not tell you what you may ride in Vietnam — domestic law does. Article 58 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) recognises, on Vietnamese territory, International Driving Permits and national licences issued by countries that are members of the 1968 convention, provided the licence matches the vehicle being ridden. Licences issued under the older 1949 Geneva Convention system are not in that list, which is why a 1949-convention IDP does not make motorbike riding legal here.
+The convention by itself does not tell you what you may ride in Vietnam — domestic law does. Article 57(8) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) recognises, on Vietnamese territory, International Driving Permits and national licences issued by countries that are members of the 1968 convention, provided the licence matches the vehicle being ridden. Licences issued under the older 1949 Geneva Convention system are not in that list, which is why a 1949-convention IDP does not make motorbike riding legal here.
 
 ## How to check your permit
 

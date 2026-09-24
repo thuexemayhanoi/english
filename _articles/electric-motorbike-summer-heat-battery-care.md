@@ -37,6 +37,6 @@ The verified Vietnamese machines run LFP (the VinFast class) or high-density lit
 
 ## What heat damage looks like
 
-A pack abused by repeated hot charging does not announce itself; it just holds less. The check is the one in our battery-health guide — how quickly the display falls through the familiar part of your route. A machine that used to arrive home with 40% and now arrives with 25% on the same commute is telling you something about age or treatment.
+A pack abused by repeated hot charging does not announce itself; it just holds less. The check is the one in our battery-health [guide]({{ '/articles/electric-motorbike-battery-health-check/' | relative_url }}) — how quickly the display falls through the familiar part of your route. A machine that used to arrive home with 40% and now arrives with 25% on the same commute is telling you something about age or treatment.
 
 Winter has its own, opposite set of behaviours — covered in the winter-range companion piece. Between the two seasons, the rule of thumb is constant: the battery hates extremes, and Hanoi supplies both.

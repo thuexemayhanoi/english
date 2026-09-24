@@ -29,7 +29,7 @@ Vario 125: 125 cc eSP engine with PGM-FI, idling stop, EURO 4 - official figures
 
 ## Brakes
 
-Vario 125: front disc with CBS (combined braking). Air Blade 125: Honda's published page emphasises the USB-C port and storage rather than brake equipment; neither 125 lists the front ABS that the 160s get. For the ABS landscape at this class, see our ABS availability guide.
+Vario 125: front disc with CBS (combined braking). Air Blade 125: Honda's published page emphasises the USB-C port and storage rather than brake equipment; neither 125 lists the front ABS that the 160s get. For the ABS landscape at this class, see our ABS [availability guide]({{ '/articles/abs-on-underbones-vietnam-explained/' | relative_url }}).
 
 ## Weight and size
 

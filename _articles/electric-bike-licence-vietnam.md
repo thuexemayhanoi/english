@@ -22,11 +22,11 @@ sources:
 internal_link_targets: "vietnam-motorbike-licence-classes-explained, 50cc-licence-vietnam, a1-licence-vietnam-what-you-can-ride, what-is-electric-motorbike-vietnam, electric-moped-vs-electric-motorcycle-vietnam, electric-motorbike-power-kw-licence-vietnam, can-you-ride-electric-motorbike-with-car-licence-vietnam"
 ---
 
-Vietnam classifies electric two-wheelers by construction and power, and the boundaries decide whether you need a licence at all. The definitions come from Article 3 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15).
+Vietnam classifies electric two-wheelers by construction and power, and the boundaries decide whether you need a licence at all. The definitions come from Article 34 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15).
 
 ## The three groups
 
-**Pedal-type electric bicycles (xe đạp điện).** The law defines these as bicycles with motor assistance whose power cuts out when the rider stops pedalling or when the bike reaches 25 km/h. They are legally non-motorised vehicles: no driving licence applies, and riders must be old enough to ride a bicycle on the road. Riders and passengers must still wear standard-compliant helmets (Article 31).
+**Pedal-type electric bicycles (xe đạp điện).** The law defines these as bicycles with motor assistance whose power cuts out when the rider stops pedalling or when the bike reaches 25 km/h. They are legally non-motorised vehicles: no driving licence applies, and riders must be old enough to ride a bicycle on the road. Riders and passengers must still wear standard-compliant helmets (Article 31(3)).
 
 **Electric mopeds (xe gắn máy chạy điện), 4 kW and under.** Scooter-style electric two-wheelers of 4 kW or less, designed for no more than 50 km/h, fall in the moped class: no driving licence, rider must be at least 16. This is where many popular city e-bikes and small electric scooters sit.
 
@@ -49,4 +49,4 @@ Electric options suit short city trips: quiet, cheap to run, no petrol smell. Ra
 
 *Information, not legal advice. Verified against the full text of Law 36/2024/QH15 on 2026-09-21.*
 
-For what an electric motorbike is as a machine and category, see our what-is-electric-motorbike-vietnam and electric-moped-vs-electric-motorcycle-vietnam guides.
+For what an electric motorbike is as a machine and category, see our what-is-electric-motorbike-vietnam [and electric-moped-vs-electric-motorcycle-vietnam guide]({{ '/articles/electric-moped-vs-electric-motorcycle-vietnam/' | relative_url }})s.

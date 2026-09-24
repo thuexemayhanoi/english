@@ -28,7 +28,7 @@ Dual-channel ABS: Honda SH160i (with HSTC traction control on Sport, Special and
 
 ## Tyres matter as much as electronics
 
-No electronics compensates for worn rubber. Check tread depth monthly in the wet season and replace at the wear limit - our tyre care guide covers it. Wider rear tyres (the Vario 160's 120/70-14, the NVX's 140/70-14) give more wet contact patch; our tyre sizes explainer decodes the numbers.
+No electronics compensates for worn rubber. Check tread depth monthly in the wet season and replace at the wear limit - our tyre [care guide]({{ '/articles/50cc-tyres-small-wheels-care/' | relative_url }}) covers it. Wider rear tyres (the Vario 160's 120/70-14, the NVX's 140/70-14) give more wet contact patch; our tyre [sizes explainer]({{ '/articles/scooter-tyre-sizes-explained/' | relative_url }}) decodes the numbers.
 
 ## Beyond equipment
 

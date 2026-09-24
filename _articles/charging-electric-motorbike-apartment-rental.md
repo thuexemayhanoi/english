@@ -36,7 +36,7 @@ Removable-pack machines make apartment life easy. VinFast's scooter line-up is b
 
 ## Safety, without the folklore
 
-Charge with the supplied charger, on a hard surface, away from bedding and direct sun, while someone is around. The fire-prevention basics are in our charging-safety guide; the short version is: right charger, attended charging, no extension-lead daisy chains.
+Charge with the supplied charger, on a hard surface, away from bedding and direct sun, while someone is around. The fire-prevention basics are in our charging-safety [guide]({{ '/articles/charging-safety-home-electric-bike/' | relative_url }}); the short version is: right charger, attended charging, no extension-lead daisy chains.
 
 ## Theft and deposits
 

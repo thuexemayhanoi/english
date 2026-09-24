@@ -34,7 +34,7 @@ Practical habits:
 
 ## Fuel and consumption
 
-Hot weather and stop-start riding nudge consumption up, and a small tank turns a small change into frequent station visits — our fuel guide covers Vietnamese petrol stations and grades. Vaporising fuel is also why the tank should not be run near-empty in extreme heat; keep it topped above reserve.
+Hot weather and stop-start riding nudge consumption up, and a small tank turns a small change into frequent station visits — our fuel [guide]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}) covers Vietnamese petrol stations and grades. Vaporising fuel is also why the tank should not be run near-empty in extreme heat; keep it topped above reserve.
 
 ## The rider is a cooling system too
 

@@ -42,4 +42,4 @@ Official figures give a sense of scale: the Dat Bike Weaver 200 needs about 1 ho
 
 If you park on the street or in a shared house without sockets, home charging is not available to you — that is the one real deal-breaker. Battery swapping (9,000 VND per swap in VinFast's network) or fast-charging stations then become your fuel model.
 
-For fire and socket safety details see our charging safety guide; for where to find charge points in Hanoi see the charging locations guide.
+For fire and socket safety details see our charging [safety guide]({{ '/articles/charging-safety-home-electric-bike/' | relative_url }}); for where to find charge points in Hanoi see the charging locations guide.

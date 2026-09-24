@@ -53,4 +53,4 @@ Winner R 46,360,000 VND; Exciter 155 VVA from 55,200,000 VND for the limited ABS
 
 ## How to choose
 
-Performance and hardware per dong: Exciter 155 VVA. Cheapest entry to clutch riding: Winner R. Long-distance touring with a fairing: CBR150R. All are A1-bracket bikes - our licence guide covers exactly what you can ride. Full reviews are linked from this page. Contact us to confirm current availability for rental.
+Performance and hardware per dong: Exciter 155 VVA. Cheapest entry to clutch riding: Winner R. Long-distance touring with a fairing: CBR150R. All are A1-bracket bikes - our licence [guide]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) covers exactly what you can ride. Full reviews are linked from this page. Contact us to confirm current availability for rental.

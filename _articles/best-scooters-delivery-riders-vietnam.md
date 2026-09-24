@@ -24,7 +24,7 @@ Delivery riding is the hardest use a scooter gets: full-time kilometers, constan
 
 ## Storage: the verified ranking
 
-Underseat capacity: Honda Lead 125 and Yamaha Latte 125 at 37 litres each (two full-face helmets - one can hold your gear), Yamaha Grande 27 litres with interior light, Yamaha FreeGo 125 and NVX 155 at 25 litres, Honda Air Blade 125 23.2 litres, NMAX 155 24 litres. Delivery riders mostly live out of a top box, though - see our cargo storage guide and delivery accessory setup for the load-carrying kit.
+Underseat capacity: Honda Lead 125 and Yamaha Latte 125 at 37 litres each (two full-face helmets - one can hold your gear), Yamaha Grande 27 litres with interior light, Yamaha FreeGo 125 and NVX 155 at 25 litres, Honda Air Blade 125 23.2 litres, NMAX 155 24 litres. Delivery riders mostly live out of a top box, though - see our cargo [storage guide]({{ '/articles/best-scooters-cargo-storage-vietnam/' | relative_url }}) and delivery accessory setup for the load-carrying kit.
 
 ## Flat floors beat big bays for boxes
 

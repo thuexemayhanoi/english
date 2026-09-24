@@ -18,7 +18,7 @@ last_reviewed: 2026-09-22
 review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/truong-hop-nao-nguoi-lai-xe-may-duoc-cho-toi-da-2-nguoi-xe-11924081616002775.htm — Báo điện tử Chính phủ: cases in which a motorbike may carry up to two people from 1 January 2025 — Article 33 (passenger limits, child exception)"
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 31 (helmets, child exemptions)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 33(2) (helmets, child exemptions)"
   - "https://phapluatphattrien.vn/nghi-dinh-168-xe-may-cho-3-nguoi-co-the-bi-phat-14-trieu-dong-d3596.html — Pháp luật & Phát triển: passenger-overload fines under Decree 168 (Article 7(2), points for three-plus riders)"
 internal_link_targets: "motorbike-passenger-rules-vietnam, helmet-law-vietnam, motorbike-fines-vietnam-overview, minimum-age-ride-motorbike-vietnam"
 ---

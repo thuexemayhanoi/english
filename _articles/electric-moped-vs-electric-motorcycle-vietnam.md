@@ -22,7 +22,7 @@ sources:
 internal_link_targets: what-is-electric-motorbike-vietnam, electric-bike-licence-vietnam, fast-electric-motorbike-licence-vietnam, why-electric-mopeds-capped-50kmh-vietnam
 ---
 
-Vietnam draws a hard line between electric mopeds and electric motorcycles, and the line is measured in kilowatts, not in looks. Article 3 of Law 36/2024/QH15 defines the moped class as 4 kW or less and designed for no more than 50 km/h; anything more powerful is a motorcycle.
+Vietnam draws a hard line between electric mopeds and electric motorcycles, and the line is measured in kilowatts, not in looks. Article 34(1)(g) of Law 36/2024/QH15 defines the moped class as 4 kW or less and designed for no more than 50 km/h; anything more powerful is a motorcycle.
 
 ## Licence and age
 

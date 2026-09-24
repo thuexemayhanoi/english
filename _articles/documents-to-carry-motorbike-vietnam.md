@@ -19,13 +19,13 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 review_status: VERIFIED
 sources:
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 58 (documents drivers must carry)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 56 (documents drivers must carry)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 18(2) (insurance/paperwork fines), Article 48(3) (unable to produce papers at a stop)"
   - "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650 — Ministry of Public Security summary of common motorbike violations and fines"
 internal_link_targets: "compulsory-motorbike-insurance-vietnam, idp-vietnam-motorbike-rules, motorbike-fines-vietnam-overview, lending-motorbike-unlicensed-rider-vietnam"
 ---
 
-Three documents belong in your pocket, not under the seat. When traffic police in Hanoi stop a motorbike, they ask for the rider's licence, the vehicle's registration certificate and the compulsory insurance certificate. Article 58 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires drivers to carry them, and each missing document is fined separately.
+Three documents belong in your pocket, not under the seat. When traffic police in Hanoi stop a motorbike, they ask for the rider's licence, the vehicle's registration certificate and the compulsory insurance certificate. Article 56 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires drivers to carry them, and each missing document is fined separately.
 
 ## The three documents
 

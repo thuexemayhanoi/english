@@ -40,7 +40,7 @@ Style scooters like the Latte and Grande (both 100 kg, small wheels) are single-
 
 ## The non-negotiables
 
-Vietnamese traffic law and common sense both apply here: read our passenger rules guide for the legal position, make sure your pillion has a proper helmet (not a souvenir one - see the second helmet guide), and practise the balance techniques in our pillion riding article before mixing with Hanoi traffic. Insurance is not included with rentals - customers arrange their own.
+Vietnamese traffic law and common sense both apply here: read our [passenger rules guide]({{ '/articles/motorbike-passenger-rules-vietnam/' | relative_url }}) for the legal position, make sure your pillion has a proper helmet (not a souvenir one - see the second helmet guide), and practise the balance techniques in our pillion riding article before mixing with Hanoi traffic. Insurance is not included with rentals - customers arrange their own.
 
 ## Bottom line
 

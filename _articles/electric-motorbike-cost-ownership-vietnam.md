@@ -38,7 +38,7 @@ List prices start at roughly 13,990,000 VND for Yadea's cheapest Vietnamese mode
 
 ## The long-run items
 
-Battery ageing is the big one: capacity fades with cycles, and a replacement pack can rival the bike's used value (see our replacement guide). Manufacturer warranty terms matter — Dat Bike ships a 3-year battery warranty and claims 150,000 km of battery life — because they define who pays when the fade comes.
+Battery ageing is the big one: capacity fades with cycles, and a replacement pack can rival the bike's used value (see our replacement [guide]({{ '/articles/electric-motorbike-battery-replacement-vietnam/' | relative_url }})). Manufacturer warranty terms matter — Dat Bike ships a 3-year battery warranty and claims 150,000 km of battery life — because they define who pays when the fade comes.
 
 ## Compared with petrol
 

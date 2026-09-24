@@ -44,4 +44,4 @@ The CT125 (800 mm) and Winner R (795 mm) sit tall for their classes, and the CBR
 
 ## Rental context
 
-The Wave class is our price-published 150,000 VND/day rental group at a manageable 770 mm; the Sirius is the same price class - contact us to confirm current availability of specific models, and read our easiest motorbikes for beginners guide for the full skill-first argument.
+The Wave class is our price-published 150,000 VND/day rental group at a manageable 770 mm; the Sirius is the same price class - contact us to confirm current availability of specific models, and read our [easiest motorbikes for beginners guide]({{ '/articles/easiest-motorbikes-for-beginners-hanoi/' | relative_url }}) for the full skill-first argument.

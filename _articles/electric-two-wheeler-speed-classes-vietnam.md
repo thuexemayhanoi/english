@@ -16,7 +16,7 @@ subcluster: "7.1 understanding-electric"
 date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text — Article 3 (25 km/h and 50 km/h class limits)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text — Article 34 (25 km/h and 50 km/h class limits)"
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — Amio 30 km/h, Evo Lite below 50 km/h, Viper/Feliz II 70 km/h"
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — 90 km/h maximum speed"
 internal_link_targets: what-is-electric-motorbike-vietnam, electric-moped-vs-electric-motorcycle-vietnam, why-electric-mopeds-capped-50kmh-vietnam, best-motorbike-for-hanoi-traffic

@@ -31,7 +31,7 @@ False. The licence exemption is a single exemption. Moped riders follow every ot
 
 ## Myth 2: "Helmets are for bigger bikes"
 
-False. Article 31 of Law 36/2024/QH15 requires a standard-compliant, fastened helmet for moped riders and passengers, explicitly including electric mopeds. The fine for riding without one, or with an unstrapped strap, is 400,000–600,000 VND.
+False. Article 33(2) of Law 36/2024/QH15 requires a standard-compliant, fastened helmet for motorbike and moped riders and passengers, explicitly including electric mopeds. The fine for riding without one, or with an unstrapped strap, is 400,000–600,000 VND.
 
 ## Myth 3: "Small bike, small fines"
 
@@ -39,7 +39,7 @@ False — see Myth 1. If anything the risk is higher: a slow bike is overtaken m
 
 ## Myth 4: "Adults can dodge licence law by riding a 50cc"
 
-Half true, and mostly irrelevant. An adult on a moped needs no licence — that part is real. But it does not dissolve the consequences of a crash: compulsory insurance duties, liability, and the same accident paperwork. Foreign visitors should read our licence article before assuming a moped solves an IDP problem.
+Half true, and mostly irrelevant. An adult on a moped needs no licence — that part is real. But it does not dissolve the consequences of a crash: compulsory insurance duties, liability, and the same accident paperwork. Foreign visitors should read our [licence article]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) before assuming a moped solves an IDP problem.
 
 ## Myth 5: "E-bikes are legally the same as 50cc bikes"
 
