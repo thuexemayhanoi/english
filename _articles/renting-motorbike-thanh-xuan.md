@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "best-motorbike-for-commuting-hanoi, where-to-park-motorbike-hanoi, motorbike-rental-pickup-or-delivery-hanoi, motorbike-speed-limits-vietnam, rental-motorbike-breakdown-hanoi", thanh-xuan-area-guide-riders
+internal_link_targets: best-motorbike-for-commuting-hanoi, where-to-park-motorbike-hanoi, motorbike-rental-pickup-or-delivery-hanoi, motorbike-speed-limits-vietnam, rental-motorbike-breakdown-hanoi, thanh-xuan-area-guide-riders
 ---
 
 Thanh Xuan is Hanoi's southwest commuter belt: dense residential blocks, mega-intersections and the arterial traffic that defines mid-town rush hour. Few tourists ride here; nearly every southwest commute does.
@@ -28,7 +28,8 @@ The district's personality is its big junctions: the Nguyen Trai–Khuat Duy Tie
 
 ## Who rides here
 
-Residents, students at the district's campuses, and the mall-and-metro crowd. For renters, Thanh Xuan is mostly a monthly-rental district: commuters and residents keeping a bike, not visitors sightseeing. The bike logic for that use case is in best-moto
+Residents, students at the district's campuses, and the mall-and-metro crowd. For renters, Thanh Xuan is mostly a monthly-rental district: commuters and residents keeping a bike, not visitors sightseeing. The bike logic for
+ that use case is in best-moto
 rbike-for-commuting-hanoi, the rate picture in daily-weekly-monthly-motorbike-rental-hanoi.
 
 ## Parking

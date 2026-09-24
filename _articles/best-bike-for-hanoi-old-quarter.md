@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "best-motorbike-for-hanoi-traffic, lightest-motorbikes-for-new-riders, easiest-motorbikes-for-beginners-hanoi, motorbike-lane-rules-vietnam, riding-on-sidewalk-vietnam", old-quarter-one-way-streets-riding
+internal_link_targets: best-motorbike-for-hanoi-traffic, lightest-motorbikes-for-new-riders, easiest-motorbikes-for-beginners-hanoi, motorbike-lane-rules-vietnam, riding-on-sidewalk-vietnam, old-quarter-one-way-streets-riding
 ---
 
 The Old Quarter is the hardest motorbike terrain in Hanoi: alleys that barely fit a bike, tourists stepping off kerbs without looking, food stalls claiming the roadway, and parked bikes lining every wall. The bike matters more here than anywhere else in the city.
@@ -32,7 +32,8 @@ The Old Quarter is the hardest motorbike terrain in Hanoi: alleys that barely fi
 ## The classes, ranked
 
 1. Semi-automatic underbones - the Honda Wave and Yamaha Sirius class. The narrowest common rental, the lightest steering, and the machine half the Old Quarter's residents ride for exactly these reasons. Day rates start at 150,000 VND.
-2. Small automatic scooters - the Click and Mio class (150,000 VND/day) and the Vision (200,000 VND/day). Nearly as nimble, easier for new riders, w
+2. Small automatic scooters - the Click and Mio class (150,000 VND/day) and the Vision (200,000 VND/day). Nearly
+ as nimble, easier for new riders, w
 ith under-seat storage for a shopping run. The fairing edges are the only thing to mind in the tightest alleys.
 3. Licence-free options - a 50 cc bike or e-bike is the legal answer for riders without a motorcycle licence, and the low speeds suit the district's pace perfectly.
 

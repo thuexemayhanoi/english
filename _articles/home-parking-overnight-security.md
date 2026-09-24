@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "where-to-park-motorbike-hanoi, disc-locks-chains-motorbike-security, motorbike-covers-parking-outdoors-vietnam, keeping-rental-motorbike-secure-hanoi", hotel-parking-motorbike-hanoi
+internal_link_targets: where-to-park-motorbike-hanoi, disc-locks-chains-motorbike-security, motorbike-covers-parking-outdoors-vietnam, keeping-rental-motorbike-secure-hanoi, hotel-parking-motorbike-hanoi
 ---
 
 Most motorbike theft happens at night, near home, where your guard is down and the bike’s routine is visible to anyone watching. Overnight security is about layers and unpredictability, not one heroic device.
@@ -27,7 +27,8 @@ A locked ground-floor room or gated building compound is the gold standard in Vi
 
 ## The overnight layer stack
 
-Steering lock, always. A chain or disc lock through something solid — if there is an immovable post or railing, anchoring is the single biggest upgrade, because it defeats the van method (the lock options are in disc-locks-chains-motorbike-security). A cover (motorbike-covers-parking-outdoors-vietnam) hides the model from casing eyes and the weather besides. For high-value bikes in exposed spots, a tracker adds the after-theft layer (gps-trackers-motorbikes-vietna
+Steering lock, always. A chain or disc lock through something solid — if there is an immovable post or railing, anchoring is the single biggest upgrade, because it defeats the van method (the lock options are in disc-locks-chains-motorbike-security). A cover (motorbike-covers-parking-outdoors-vietnam) hides the model from casing eyes and the weather besides. For high-value bikes in exposed spots, a tracker adds the after-theft layer 
+(gps-trackers-motorbikes-vietna
 m). Each layer is cheap; the stack is what works.
 
 ## Renter-specific notes

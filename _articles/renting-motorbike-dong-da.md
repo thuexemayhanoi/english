@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "best-motorbike-for-commuting-hanoi, best-motorbike-for-students-hanoi, where-to-park-motorbike-hanoi, motorbike-rental-pickup-or-delivery-hanoi, motorbike-lane-rules-vietnam", dong-da-area-guide-riders
+internal_link_targets: best-motorbike-for-commuting-hanoi, best-motorbike-for-students-hanoi, where-to-park-motorbike-hanoi, motorbike-rental-pickup-or-delivery-hanoi, motorbike-lane-rules-vietnam, dong-da-area-guide-riders
 ---
 
 Dong Da sits at the city's waistline — between Ba Dinh's boulevards and Hai Ba Trung's commercial corridors — and its riding identity is the student-plus-commuter mix along the Tay Son–Thai Thinh axis.
@@ -30,7 +30,8 @@ Tay Son is the spine: a wide, fast, four-plus-lane artery carrying mid-town thro
 
 - Dong Da hill and the Dong Da mound park area, the district's calm green pocket with the Quang Trung monument
 - The temple streets — Lang and the temple alleys — slow, narrow, and best ridden at their own pace
-- The food streets off Xuan Thuy and the university quarter: cheap, dense, walk-after-park terr
+- The food streets off Xuan Thuy and the university quarter: cheap, 
+dense, walk-after-park terr
 itory
 
 ## Parking
