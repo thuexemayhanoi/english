@@ -20,14 +20,15 @@ sources:
   - "https://hagianghostel.com/ha-giang-loop-weather/ — the northern mountains split into a dry season from October to April suited to riding and a rainy season from May to September with significant road hazards, retrieved 2026-09-24"
   - "https://madmonkeyhostels.com/blogs/best-time-to-do-the-ha-giang-loop-vietnam/ — late September to early October is recommended for golden scenery and good riding conditions in Ha Giang, retrieved 2026-09-24"
   - "https://parfumdautomne.fr/en/mu-cang-chai-ultimate-guide-stunning-terraced-rice-fields/ — Mu Cang Chai rice terraces run green in July–August and turn golden toward the September harvest, retrieved 2026-09-24"
-internal_link_targets: hanoi-riding-seasons-guide, riding-motorbike-heavy-rain-vietnam, winter-riding-motorbike-hanoi, fog-and-low-visibility-riding-motorbike-vietnam, motorbike-trip-prep-checklist-hanoi, northwest-vietnam-motorbike-loop, sapa-motorbike-trip-hanoi
+internal_link_targets: hanoi-riding-seasons-guide, riding-motorbike-heavy-rain-vietnam, winter-riding-motorbike-hanoi, fog-and-low-visibility-riding-motorbike-vietnam, motorbike-trip-prep-checklist-hanoi, northwest-vietnam-motorbike-loop, sapa-motorbike-trip-hanoi, tet-holiday-motorbike-travel-vietnam, vietnam-monsoon-season-motorbike-travel
 ---
 
 Northern Vietnam has four riding seasons, and they are not equal. The city commuting calendar (see the Hanoi riding-seasons guide) matters less out here — what matters is the monsoon, the mountain cold, and the two golden windows everyone plans around.
 
 ## Spring (March–April)
 
-The first of the two prime windows. The rainy season has finished, skies are clear, temperatures are moderate, and the northern mountains — Ha Giang, Cao Ban
+The first of the two prime windows. The rainy season has finished, skies are clear, temperatures
+ are moderate, and the northern mountains — Ha Giang, Cao Ban
 g, the n
 orthwest loops — are at their most rideable. Expect the odd drizzle and cool mornings in the highlands. This is when long-distance riders do the big loops.
 
@@ -50,4 +51,5 @@ Dry but cold, and in the mountains genuinely cold — the high passes around Ha 
 - **Avoid high passes:** rainy-season afternoons (June–September) and icy mornings (December–January).
 - **Fog risk on any mountain ride:** year-round — always check mountain weather, not the city forecast.
 
-Contact us to confirm current availability for the season you are riding in.
+Contact us to confirm current availability for the
+ season you are riding in.

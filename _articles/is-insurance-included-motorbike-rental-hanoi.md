@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "do-you-need-insurance-to-ride-vietnam, compulsory-motorbike-insurance-vietnam, what-is-included-motorbike-rental-hanoi, theft-loss-responsibility-rental-motorbike-hanoi, motorbike-accident-duties-vietnam"
+internal_link_targets: "do-you-need-insurance-to-ride-vietnam, compulsory-motorbike-insurance-vietnam, what-is-included-motorbike-rental-hanoi, theft-loss-responsibility-rental-motorbike-hanoi, motorbike-accident-duties-vietnam", motorbike-travel-insurance-vietnam
 ---
 
 Two different things are both called "insurance" in a motorbike rental, and confusing them is expensive. Split them first.
@@ -32,7 +32,8 @@ Ask to see the insurance certificate at handover with the registration certifica
 
 Nguyen Tu does not provide motorbike insurance for riders. Customers arrange their own. Concretely, what a renter actually needs is:
 
-- Travel or medical insurance from home that explicitly covers riding a motorbike in Vietnam - many policies exclude two-wheelers entirely or exclude riding without a valid licence.
+- Travel or medica
+l insurance from home that explicitly covers riding a motorbike in Vietnam - many policies exclude two-wheelers entirely or exclude riding without a valid licence.
 - Cover for personal liability beyond the vehicle's compulsory insurance - a serious accident can exceed the compulsory limits fast.
 
 ## The licence note inside the insurance note

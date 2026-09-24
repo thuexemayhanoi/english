@@ -17,7 +17,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
-internal_link_targets: home-parking-overnight-security, where-to-park-motorbike-hanoi, apartment-living-motorbike-hanoi, keeping-rental-motorbike-secure-hanoi, disc-locks-chains-motorbike-security, motorbike-covers-parking-outdoors-vietnam, weather-resistant-locks-motorbike, overnight-stays-motorbike-trips-vietnam
+internal_link_targets: home-parking-overnight-security, where-to-park-motorbike-hanoi, apartment-living-motorbike-hanoi, keeping-rental-motorbike-secure-hanoi, disc-locks-chains-motorbike-security, motorbike-covers-parking-outdoors-vietnam, weather-resistant-locks-motorbike, overnight-stays-motorbike-trips-vietnam, motorbike-parking-vietnamese-cities
 ---
 
 Riders booking Hanoi accommodation tend to optimise for location and forget the one thing that determines every evening of their stay: where the bike sleeps. Hanoi hotels handle motorbike parking very differently, and asking two questions before you book saves a week of nightly hassle.
@@ -26,7 +26,8 @@ Riders booking Hanoi accommodation tend to optimise for location and forget the 
 
 **The garage or courtyard hotel.** Many hotels — especially mid-range ones in the wider districts — have an internal courtyard or ground-floor garage where the night staff watch the bikes. This is the best case: ride in, hand over the keys if asked, retrieve in the morning. Common in the districts, rare in the densest Old Quarter lanes.
 
-**The partner-lot arrangement.** Hotels without space of their own usually have a deal with a nearby attended lot or a kerbside attendant: you park at the partner spot, the hotel tells you where, and the attendant watches the street all night. This is the standard Old Quarter arrangement and works well — the cost is typically modest and paid per night, and the s
+**The partner-lot arrangement.** Hotels without space of their own usually have a deal with a nearby attended lot or a kerbside attendant: you park at the partner spot, the hotel tells you where, and the attendant watches the street all night. This is the standard Old Quarter arrangement and works well — the cost is typic
+ally modest and paid per night, and the s
 ecurity is better than it sounds, because the attendant is there specifically to watch.
 
 **The informal kerb.** The worst case: "just park out front." On busy streets this means a crowded pavement rack where your bike is moved, nudged and occasionally nudged out of shape by the neighbouring bikes. Accept it only for a night or two, and never without a disc lock on the brake disc.

@@ -20,14 +20,15 @@ sources:
   - "https://sungetawaystravel.com/ha-giang-petrol-stations/ — on mountain roads such as the Ha Giang loop, stretches can run for hours without a single petrol station, so riders should fill up at every opportunity, retrieved 2026-09-24"
   - "https://govnsim.com/offline-maps-north-vietnam-2025-ha-giang-loop-navigation-guide/ — mountain network coverage is poor enough in parts of the northern uplands that offline maps and preparation are essential, retrieved 2026-09-24"
   - "https://www.vietnamcoracle.com/which-maps-to-use-for-a-motorbike-trip/ — connectivity is generally available across Vietnam but offline preparation is still the recommended practice, retrieved 2026-09-24"
-internal_link_targets: hanoi-petrol-stations-guide-riders, rental-motorbike-fuel-what-petrol, fuel-gauge-inaccurate-motorbike, motorbike-trip-navigation-offline-maps-vietnam, what-to-carry-riding-motorbike-vietnam
+internal_link_targets: hanoi-petrol-stations-guide-riders, rental-motorbike-fuel-what-petrol, fuel-gauge-inaccurate-motorbike, motorbike-trip-navigation-offline-maps-vietnam, what-to-carry-riding-motorbike-vietnam, ho-chi-minh-highway-motorbike-guide
 ---
 
 Out on the rural roads of northern Vietnam, three small logistics questions decide how your day feels: where the next pump is, where the next ATM is, and whether your phone has signal. None of them is difficult — they just need a system.
 
 ## Fuel
 
-In the delta and along the national-highway corridors, petrol stations are frequent; the Hanoi stations guide covers the city end. The pattern changes with altitude: in the mountains, stretches can run for hours without a pump, and station hours in remote districts are shorter than you expect. The rules that never fail:
+In the delta and along the national-highway corridors, petrol stations are frequent; the Hanoi stations guide covers the city end. The pat
+tern changes with altitude: in the mountains, stretches can run for hours without a pump, and station hours in remote districts are shorter than you expect. The rules that never fail:
 
 - **The half-tank rule**: below half a tank, the next station you pass is the one you use. Do not bank on the town after this one.
 - Fill up at the last district town before a mountain or lake area — Thung Nai, Tam Dao, Perfume Pagoda-style valleys all work this way.

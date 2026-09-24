@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: how-to-rent-a-motorbike-hanoi, easiest-motorbikes-for-beginners-hanoi, automatic-vs-manual-motorbike-hanoi, rental-motorbike-inspection-checklist, riding-on-sidewalk-vietnam, hanoi-motorbike-traffic-culture-first-timers
+internal_link_targets: how-to-rent-a-motorbike-hanoi, easiest-motorbikes-for-beginners-hanoi, automatic-vs-manual-motorbike-hanoi, rental-motorbike-inspection-checklist, riding-on-sidewalk-vietnam, hanoi-motorbike-traffic-culture-first-timers, self-drive-vs-easy-rider-vietnam, ho-chi-minh-city-riding-first-timers
 ---
 
 If you have never rented a motorbike anywhere, Hanoi is an intense place to start. The process is simple; the traffic is the exam. Here is the walkthrough in the order it happens to you.
@@ -33,7 +33,8 @@ Automatic scooter, full stop. No gears to manage while you learn how this city m
 ## At the shop
 
 Passport, deposit (typically 2,000,000-5,0
-00,000 VND), rental price - cash, transfer or 
+0
+0,000 VND), rental price - cash, transfer or 
 QR. Run the inspection checklist even though everything is new to you: lights, horn, brakes, mirrors, tyres, fuel. Photograph existing scratches. Ask the one beginner question that matters: how does the side stand / centre stand / steering lock work on this bike.
 
 ## The first ten minutes

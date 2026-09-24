@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, motorbikes-on-expressway-vietnam, motorbike-speed-limits-vietnam, automatic-vs-manual-motorbike-hanoi, rental-motorbike-inspection-checklist"
+internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, motorbikes-on-expressway-vietnam, motorbike-speed-limits-vietnam, automatic-vs-manual-motorbike-hanoi, rental-motorbike-inspection-checklist", hanoi-to-ho-chi-minh-city-by-motorbike, ho-chi-minh-highway-motorbike-guide
 ---
 
 Long-distance riding in Vietnam is a different discipline from city riding, and the bike is only one of the preparations. It gets first claim here.
@@ -32,7 +32,8 @@ Long-distance riding in Vietnam is a different discipline from city riding, and 
 ## The honest machine ranking
 
 1. Semi-automatic underbones (Wave, Sirius class): the touring reality of Vietnam. Slow but unstoppable, fixable anywhere, unbeatable logistics.
-2. Mid-size automatic scooters (Air Blade, Vision class): comfortable on good roads, best when the route sticks to paved highways.
+2. Mid-size automatic scooters (Air Blade, Vision class): comfortable on good roads, best when the route stick
+s to paved highways.
 3. Manual 125-150 cc and up: the right tool if your licence covers it and you already ride manuals - engine braking and power matter in the mountains.
 
 ## The licence and law layer

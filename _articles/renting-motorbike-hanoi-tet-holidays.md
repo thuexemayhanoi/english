@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "how-to-book-a-motorbike-rental-hanoi, motorbike-rental-pickup-or-delivery-hanoi, how-to-rent-a-motorbike-hanoi, motorbike-rental-agreement-hanoi"
+internal_link_targets: "how-to-book-a-motorbike-rental-hanoi, motorbike-rental-pickup-or-delivery-hanoi, how-to-rent-a-motorbike-hanoi, motorbike-rental-agreement-hanoi", tet-holiday-motorbike-travel-vietnam
 ---
 
 Tet, the Vietnamese New Year (late January or February), reshapes Hanoi for about a week — and it affects motorbike rentals more than any other week of the year.
@@ -28,7 +28,8 @@ Tet is the one period when shops of every kind close, and rental shops are no ex
 
 ## Book ahead, confirm in writing
 
-If you want a bike across the Tet week, book early — see how-to-book-a-motorbike-rental-hanoi for the booking basics, and during Tet add two habits: confirm the pickup time in a message the day before, and confirm the return arrangement in the same message. A shop that closes for five days needs to know whether your return date falls inside the closure, and so do you.
+If you want a bike across the Tet week, book early — see how-to-book-a-motorbike-rental-hanoi for the booking basics, and during Tet add two habits: confirm the pickup time in a message the day before, and confirm the return arrangement in the same message. A shop that closes for five days needs to know whether your re
+turn date falls inside the closure, and so do you.
 
 ## The city changes character
 
