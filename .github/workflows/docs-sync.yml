@@ -17,20 +17,20 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - name: Apply batch docs sync
+      - name: Apply batch-24 final docs updates
         id: apply
         continue-on-error: true
-        run: node scripts/apply-batch-24-docs.js
+        run: node scripts/apply-batch-24-final-docs.js
       - name: Commit and push if changed
         if: steps.apply.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md docs/MASTER-MATRIX.md docs/matrix/master-matrix.csv docs/matrix/batch-24-status.md docs/matrix/batch-24-rows.csv docs/sync/batch-24-docs-sync.json sync-debug.txt
+          git add README.md docs/MASTER-MATRIX.md
           if git diff --cached --quiet; then
             echo "No changes to sync."
           else
-            git commit -m "Docs sync: batch-24 finalization (master-matrix.csv merge 913 -> 936)"
+            git commit -m "Batch 24 final docs: README + MASTER-MATRIX state (913 -> 936, cluster 13 in progress)"
             git push
           fi
       - name: Publish sync diagnostics on failure
@@ -38,10 +38,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add sync-debug.txt
-          if git diff --cached --quiet; then
-            echo "No diagnostics produced."
-          else
-            git commit -m "Docs sync diagnostics (batch-24 validation failure)"
-            git push
-          fi
+          git add -A || true
+          git commit -m "Batch 24 final docs diagnostics (validation failure)" || echo "no diagnostics to commit"
+          git push || echo "nothing to push"
