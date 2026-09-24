@@ -25,6 +25,8 @@ jobs:
       - name: Record batch-24 verification (latest workflow runs)
         id: record
         continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/record-batch-24-verification.js
       - name: Commit and push if changed
         if: steps.apply.outcome == 'success' && steps.record.outcome == 'success'
