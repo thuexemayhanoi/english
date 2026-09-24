@@ -55,8 +55,7 @@ readme = replaceOnce(readme,
 // 6. CONTENT BATCH STATE: insert Batch 24 bullet before the Batch 23 bullet
 const b24Bullet = '- Batch 24 (cluster-13 trips Part 1): 23 articles published 2026-09-24 (MM-0848-MM-0870: 15 day-trip route guides (13.1: Tam Dao, Ba Vi, Duong Lam, Thay/Tay Phuong pagodas, Perfume Pagoda, Co Loa, Bac Ninh craft loop, Dai Lai, Quan Son, Thung Nai, Ninh Binh, Soc Temple, Hung Kings, Nui Coc, and the Tam Dao vs Ba Vi comparison) and 8 trip-planning guides (13.3: trip-prep checklist, day-trip distance, seasons, navigation/offline maps, rural fuel/ATM/coverage, ferry/train transport, budgeting, overnight stays); part-commits c03d6f1, ba792d4, afb52cc, 452e01e and b67e548, wording repair 02dced2, rows/status commits 80ec1f1 and dbf7ef6, closing inbound-link commit 17e5864 (12 existing articles) with link repair c222f19, and QA link repair 58cde4b (truncated fog-slug in 2 articles - the cause of all earlier internal-link-audit gate failures) with rows follow-up 4afc5b6 - see docs/matrix/batch-24-status.md. 936 articles site-wide; cluster 13: 23 of 38 intents published, IN PROGRESS. Route facts verified per article in front-matter sources; business facts exclusively from OWNER-FACTS.';
 readme = replaceOnce(readme, '- Batch 23 (cluster-12 Hanoi travel Part 2, cluster 12 COMPLETE):',
-  b24Bullet + '
-- Batch 23 (cluster-12 Hanoi travel Part 2, cluster 12 COMPLETE):',
+  b24Bullet + '\n- Batch 23 (cluster-12 Hanoi travel Part 2, cluster 12 COMPLETE):',
   'content-batch-state-insert');
 
 // 7. DEPLOYMENT STATE: insert Batch 24 bullet at the top of the list
