@@ -28,7 +28,8 @@ Ninh Binh — Hoa Lu’s old temples, the Tam Coc and Trang An boat rides, karst
 
 ## The route
 
-The direct route runs south on the old Highway 1A corridor, which motorbikes may use — note that the parallel expressways (CT.01) are closed to motorbikes, so the fast lanes of the map are not available to two-wheelers. The old highway is wide but busy through the town belts. Many riders prefer the alternative: leave Hanoi southwest, cross the Day River on smaller roads through Ha Nam province, and approach Ninh Binh through quieter delta scenery — similar distance, far fewer trucks.
+The direct route runs south on the old Highway 1A corridor, which motorbikes may use — note that the parallel expressways (CT.01) are closed to motorbikes, so the 
+fast lanes of the map are not available to two-wheelers. The old highway is wide but busy through the town belts. Many riders prefer the alternative: leave Hanoi southwest, cross the Day River on smaller roads through Ha Nam province, and approach Ninh Binh through quieter delta scenery — similar distance, far fewer trucks.
 
 Leave by 6:30–7 a.m. and you are at Hoa Lu or Tam Coc before 10.
 
@@ -37,7 +38,7 @@ Leave by 6:30–7 a.m. and you are at Hoa Lu or Tam Coc before 10.
 One boat trip plus one land site, realistically. The options:
 
 - **Tam Coc**: rowed samans through three flooded cave passages in a rice-field valley — the classic.
-- **Trang An**: the bigger, greener boat-labyrinth to the east, with more caves and more排队 in high season.
+- **Trang An**: the bigger, greener boat-labyrinth to the east, with more caves and longer queues in high season.
 - **Hoa Lu**: the 10th-century capital’s temple precinct — compact, walkable, no queue.
 - **Mua Cave viewpoint**: the steep stair climb for the postcard panorama over Tam Coc.
 

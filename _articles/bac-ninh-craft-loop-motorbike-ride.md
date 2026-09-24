@@ -24,11 +24,12 @@ sources:
 internal_link_targets: bat-trang-pottery-village-motorbike-ride, best-motorbike-for-day-trips-from-hanoi, co-loa-citadel-motorbike-ride, carrying-luggage-motorbike-safely-vietnam, how-to-rent-a-motorbike-hanoi
 ---
 
-Across the Red River and into Bac Ninh province lies one of the most pleasant short loops from Hanoi: But Thap, northern Vietnam’s most完整 preserved ancient pagoda complex, and Phu Lang, the less-touristy pottery village that locals rate above Bat Trang for atmosphere. Both sit in the Thuan Thanh craft-and-heritage belt roughly 30–45 kilometres from the city.
+Across the Red River and into Bac Ninh province lies one of the most pleasant short loops from Hanoi: But Thap, northern Vietnam’s most completely preserved ancient pagoda complex, and Phu Lang, the less-touristy pottery village that locals rate above Bat Trang for atmosphere. Both sit in the Thuan Thanh craft-and-heritage belt roughly 30–45 kilometres from the city.
 
 ## The loop out
 
-Cross to the east bank (Chuong Duong or the newer cable-stayed bridges) and follow the Duong River corridor northeast. Two riding styles work: the fast line straight out the Bac Ninh highway, or the slower, better dyke-top road that shadows the Duong toward Thuan Thanh — flat, green and lightly trafficked. Count 45 minutes to an hour to the pagoda area.
+Cross to the east bank (Chuong Duong or the newer cable-stayed bridges) and
+ follow the Duong River corridor northeast. Two riding styles work: the fast line straight out the Bac Ninh highway, or the slower, better dyke-top road that shadows the Duong toward Thuan Thanh — flat, green and lightly trafficked. Count 45 minutes to an hour to the pagoda area.
 
 ## But Thap Pagoda
 
