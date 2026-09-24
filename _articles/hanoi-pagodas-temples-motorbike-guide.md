@@ -26,7 +26,7 @@ Hanoi's religious architecture is small, old and scattered — which makes it a 
 
 ## The circuit
 
-The classic loop takes in four or five sites in a half day. Start at **Ngoc Son temple** on its island at Hoan Kiem Lake — the most visited and easiest, a walk from any Old Quarter parking. Ride west to **Tran Quoc pagoda**, the oldest in the city with nearly 1,500 years of history, standing on a small peninsula on the east shore of West Lake. Continue around the lake and south to the **Quan Thanh temple** with its giant bronze statue, on the lake's southeast corner. Then ride east into Ba Dinh for the **One Pill ar Pagoda** — unique, tiny, and in the mausoleum quarter — and finish through the government streets. Add the **Temple of Literature** to make it a full heritage day.
+The classic loop takes in four or five sites in a half day. Start at **Ngoc Son temple** on its island at Hoan Kiem Lake — the most visited and easiest, a walk from any Old Quarter parking. Ride west to **Tran Quoc pagoda**, the oldest in the city with nearly 1,500 years of history, standing on a small peninsula on the east shore of West Lake. Continue around the lake and south to the **Quan Thanh temple** with its giant bronze statue, on the lake's southeast corner. Then ride east into Ba Dinh for the **One Pillar Pagoda** — unique, tiny, and in the mausoleum quarter — and finish through the government streets. Add the **Temple of Literature** to make it a full heritage day.
 
 ## The riding
 

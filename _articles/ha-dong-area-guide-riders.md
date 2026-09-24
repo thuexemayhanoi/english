@@ -29,8 +29,7 @@ Ha Dong used to be a separate town before Hanoi absorbed it; today it is the sou
 ## What the area is
 
 Ha Dong centres on the To Huu–Nguyen Trai corridors, with its own markets, hospitals and
- 
-high-rise campuses — a complete city district rather than a commuter suburb. Two landmarks matter to visitors. The first is the elevated metro line that follows Nguyen Trai through the district: its pillars define the main road's geometry, and the trains above are a constant, oddly reassuring presence. The second is Van Phuc silk village, the old weaving quarter on the Nhue river just off Nguyen Trai, about 8 km from the centre and roughly half an hour by motorbike.
+ high-rise campuses — a complete city district rather than a commuter suburb. Two landmarks matter to visitors. The first is the elevated metro line that follows Nguyen Trai through the district: its pillars define the main road's geometry, and the trains above are a constant, oddly reassuring presence. The second is Van Phuc silk village, the old weaving quarter on the Nhue river just off Nguyen Trai, about 8 km from the centre and roughly half an hour by motorbike.
 
 ## How it rides
 

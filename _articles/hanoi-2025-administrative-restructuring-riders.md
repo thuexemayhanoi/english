@@ -28,7 +28,7 @@ In July 2025, Hanoi redrew its own map. The city's 30 former districts were reor
 
 ## What actually changed
 
-The old district layer of government — Dong Da, Ha i Ba Trung, Hoang Mai, Thanh Xuan, Bac and Nam Tu Liem, and the rest — disappeared as administrative units, replaced by 126 new wards and communes across the city. Streets, buildings and landmarks did not move. What changed is the official second line of every address: where a card once said "Dong Da District, Hanoi," it now names the new ward.
+The old district layer of government — Dong Da, Hai Ba Trung, Hoang Mai, Thanh Xuan, Bac and Nam Tu Liem, and the rest — disappeared as administrative units, replaced by 126 new wards and communes across the city. Streets, buildings and landmarks did not move. What changed is the official second line of every address: where a card once said "Dong Da District, Hanoi," it now names the new ward.
 
 ## Why this matters to a rider
 

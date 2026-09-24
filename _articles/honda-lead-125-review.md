@@ -30,7 +30,7 @@ The Lead runs a 124.8 cc single-cylinder four-stroke engine, liquid-cooled, with
 
 ## Size and riding position
 
-Kerb weight 114 kg, seat height 760 mm - the lowest in our scooter seat height comparison - and dimensions 1,844 x 714 x 1,132 mm with 140 mm ground clearance. Tyres: 90/90-12 front, 100/90-10 rear; the sma ller wheels trade a little stability for agility at city speeds.
+Kerb weight 114 kg, seat height 760 mm - the lowest in our scooter seat height comparison - and dimensions 1,844 x 714 x 1,132 mm with 140 mm ground clearance. Tyres: 90/90-12 front, 100/90-10 rear; the smaller wheels trade a little stability for agility at city speeds.
 
 ## Safety equipment
 

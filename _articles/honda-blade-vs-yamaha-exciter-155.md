@@ -35,7 +35,8 @@ The Blade is a 109.1 cc air-cooled semi-automatic with a four-speed rotary gearb
 | Max torque | 8.65 Nm @ 5,500 rpm | 14.4 Nm @ 8,000 rpm |
 | Gearbox | 4-speed rotary | 6-speed, manual clutch |
 | Fuel tank | 3.7 L | 5.4 L |
-| Claimed economy | 1.85 L/100 km | 2.07 L/100 km |
+| Claimed economy | 1.85 L/100 km | 2.07 
+L/100 km |
 | Kerb weight | 98-99 kg | 123 kg wet |
 | List price | 21,943,637 VND | 55,200,000 VND (limited ABS Monster version shown) |
 

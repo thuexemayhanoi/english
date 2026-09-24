@@ -29,7 +29,7 @@ Most urban stations are attendant-served for motorbikes: you ride to the bike la
 
 Some stations have introduced self-service pump areas for motorbikes in recent years; the convention there is the universal one — helmet off, engine off, phone away, nozzle in tank.
 
-## What fu el to buy
+## What fuel to buy
 
 The fuel-grade question has its own full guide for Vietnam: the common retail grades are RON 95 in its variants (including the E5 ethanol-blend RON95), with higher-octane premium options at many city stations. For the underbones and scooters that make up nearly all rental fleets, standard RON 95 is the safe default; premium grades cost more and matter little unless a manufacturer specifies them. When renting, ask the shop what the bike takes — most will say "95" — and keep it consistent.
 
@@ -47,6 +47,6 @@ Station coverage in the central wards is good but not infinite, and the useful h
 
 ## When something goes wrong
 
-If a rental bike sputters after a fill (a misfueling suspicion, or bad fuel from a rural stop), do not keep riding it hard — call the rental shop for guidance. The fuel-system guides cover the symptoms and the fixes; the practical Hanoi answer is that a mechanic who will drain a tank is never more thana short push away.
+If a rental bike sputters after a fill (a misfueling suspicion, or bad fuel from a rural stop), do not keep riding it hard — call the rental shop for guidance. The fuel-system guides cover the symptoms and the fixes; the practical Hanoi answer is that a mechanic who will drain a tank is never more than a short push away.
 
 Filling up is the most boring five minutes of a Hanoi rider's week — which is exactly the standard a fuel network should meet.

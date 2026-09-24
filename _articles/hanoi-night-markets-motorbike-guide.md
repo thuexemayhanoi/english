@@ -45,4 +45,4 @@ Night riding in Hanoi deserves its own respect: the traffic thins, the speeds ri
 
 ## A rider's perfect market night
 
-Start at the Old Quarter night market edge at 19:00 while parking is still easy, walk the stalls for an hour, ride the empty Sunday-night boulevards to Long Bien for the fruit market at 22:30, then finish with pho at a late-night shop and  the bridge view — the city electric on one side, the river black on the other. It is the most Hanoi evening there is, and it only works on two wheels.
+Start at the Old Quarter night market edge at 19:00 while parking is still easy, walk the stalls for an hour, ride the empty Sunday-night boulevards to Long Bien for the fruit market at 22:30, then finish with pho at a late-night shop and the bridge view — the city electric on one side, the river black on the other. It is the most Hanoi evening there is, and it only works on two wheels.
