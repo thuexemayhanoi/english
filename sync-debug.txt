@@ -1,12 +1,2 @@
-CSV structure: totalLines=897 idRows=884 firstId=MM-0001 lastId=MM-0818
-rowsFile docs/matrix/batch-23-rows.csv: parsedRows=29 (physical idRows=29)
-CSV merge OK: added 29, skipped 0 duplicates; ID rows 884 -> 913
-README CSV bullet bullet replace OK (1 physical line(s)): - docs/matrix/master-matrix.csv holds
-README CURRENT STATE published-articles bullet bullet replace OK (5 physical line(s)): - 730 published articles:
-README hub bullet bullet replace OK (4 physical line(s)): - 14 topic hubs live;
-README OPEN ISSUES 1 replace OK (1 physical line(s))
-README CONTENT batch-23 bullet inserted before anchor: - _queue/
-README DEPLOYMENT batch-23 bullet inserted after anchor: - Hosting:
-README CHANGE LOG: no changelog section found; skipping entry insertion
-MM row count sentence replaced
-MM batch-23 sentence applied
+CSV structure: totalLines=926 idRows=913 firstId=MM-0001 lastId=MM-0847
+FATAL: master-matrix.csv header unexpected: MM-0001,How to Rent a Motorbike in Hanoi,How to Rent a Motor
