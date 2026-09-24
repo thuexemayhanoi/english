@@ -1,0 +1,4 @@
+{
+  "note": "Batch-26 audit-capture trigger: docs-sync now captures reports/internal-link-audit.json as sync-audit.json to diagnose the persistent Quality Gate internal-link-audit failure.",
+  "recorded": "2026-09-24"
+}
