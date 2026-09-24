@@ -31,7 +31,8 @@ The Wave RSX is a 109.2 cc air-cooled underbone with PGM-FI injection, 6.46 kW a
 | Spec | Wave RSX | Exciter 155 VVA |
 |---|---|---|
 | Engine | 109.2 cc, air-cooled | 155 cc, liquid-cooled, VVA |
-| Max power | 6.46 kW @ 7,500 rpm | 13.2 kW @ 9,500 rpm |
+| Max power | 
+6.46 kW @ 7,500 rpm | 13.2 kW @ 9,500 rpm |
 | Max torque | 8.70 Nm @ 6,000 rpm | 14.4 Nm @ 8,000 rpm |
 | Gearbox | 4-speed rotary | 6-speed, manual clutch |
 | Fuel tank | 4.0 L | 5.4 L |

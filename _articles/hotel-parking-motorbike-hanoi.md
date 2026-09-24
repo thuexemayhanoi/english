@@ -26,7 +26,7 @@ Riders booking Hanoi accommodation tend to optimise for location and forget the 
 
 **The garage or courtyard hotel.** Many hotels — especially mid-range ones in the wider districts — have an internal courtyard or ground-floor garage where the night staff watch the bikes. This is the best case: ride in, hand over the keys if asked, retrieve in the morning. Common in the districts, rare in the densest Old Quarter lanes.
 
-**The partner-lot arrangement.** Hotels without space of their own usually have a deal with a nearby attended lot or a kerbside attendant: you park at the partner spot, the hotel tells you where, and the attendant watches the street all night. This is the standard Old Quarter arrangement and works well — the cost is typic ally modest and paid per night, and the security is better than it sounds, because the attendant is there specifically to watch.
+**The partner-lot arrangement.** Hotels without space of their own usually have a deal with a nearby attended lot or a kerbside attendant: you park at the partner spot, the hotel tells you where, and the attendant watches the street all night. This is the standard Old Quarter arrangement and works well — the cost is typically modest and paid per night, and the security is better than it sounds, because the attendant is there specifically to watch.
 
 **The informal kerb.** The worst case: "just park out front." On busy streets this means a crowded pavement rack where your bike is moved, nudged and occasionally nudged out of shape by the neighbouring bikes. Accept it only for a night or two, and never without a disc lock on the brake disc.
 

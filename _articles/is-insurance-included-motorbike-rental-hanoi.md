@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "do-you-need-insurance-to-ride-vietnam, compulsory-motorbike-insurance-vietnam, what-is-included-motorbike-rental-hanoi, theft-loss-responsibility-rental-motorbike-hanoi, motorbike-accident-duties-vietnam, motorbike-travel-insurance-vietnam"
+internal_link_targets: do-you-need-insurance-to-ride-vietnam, compulsory-motorbike-insurance-vietnam, what-is-included-motorbike-rental-hanoi, theft-loss-responsibility-rental-motorbike-hanoi, motorbike-accident-duties-vietnam, motorbike-travel-insurance-vietnam
 ---
 
 Two different things are both called "insurance" in a motorbike rental, and confusing them is expensive. Split them first.

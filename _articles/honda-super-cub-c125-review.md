@@ -30,8 +30,7 @@ The C125 runs a 123.9 cc single-cylinder four-stroke air-cooled engine with 6.87
 
 ## Chassis
 
-Kerb weight is 109 kg, the seat sits at 780 mm, ground clearance is 136 mm, and the low-slung body measures 1,910 x 718 x 1,002 mm on a 1,243 mm wheelbase - notably lower and longer-looking than a Wave or
- Future. Wheels are 17-inch, 70/90-17 front and 80/90-17 rear, and the rear suspension uses twin shock units.
+Kerb weight is 109 kg, the seat sits at 780 mm, ground clearance is 136 mm, and the low-slung body measures 1,910 x 718 x 1,002 mm on a 1,243 mm wheelbase - notably lower and longer-looking than a Wave or Future. Wheels are 17-inch, 70/90-17 front and 80/90-17 rear, and the rear suspension uses twin shock units.
 
 ## What you are paying for
 
