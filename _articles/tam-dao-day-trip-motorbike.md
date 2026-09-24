@@ -21,14 +21,15 @@ sources:
   - "https://goldenholidaytravel.com/how-to-get-to-tam-dao-national-park.new — Tam Dao is about 85 km from central Hanoi and roughly two hours by motorbike, retrieved 2026-09-24"
   - "https://lasiestahotels.com/mamay/tam-dao-vietnam.html — popular motorbike route with wide avenues for most of the way and roughly the final 15 kilometres climbing to the town, retrieved 2026-09-24"
   - "https://www.indietraveller.co/hanoi-day-trips/ — Tam Dao positioned as a mountain day trip about two hours from Hanoi, retrieved 2026-09-24"
-internal_link_targets: best-motorbike-for-day-trips-from-hanoi, mountain-pass-riding-motorbike-vietnam, fog-and-low-visibility-riding-motorbike, servicing-before-long-trip-motorbike, how-to-rent-a-motorbike-hanoi
+internal_link_targets: best-motorbike-for-day-trips-from-hanoi, mountain-pass-riding-motorbike-vietnam, fog-and-low-visibility-riding-motorbike-vietnam, servicing-before-long-trip-motorbike, how-to-rent-a-motorbike-hanoi
 ---
 
 Tam Dao is the closest real mountain ride to Hanoi: a former French hill station on a forested ridge in Vinh Phuc province, about 85 kilometres from the city centre and roughly two hours of riding each way in normal conditions. The reward for the climb is a noticeably cooler microclimate and long views over the Red River delta plain — the reason the town has been a weekend escape for more than a century.
 
 ## The route out
 
-The standard line is simple: leave Hanoi to the northwest, join the wide corridor toward Phuc Yen/Vinh Yen, and follow the signs for Tam Dao as the road bends toward the hills. Most of the way is fast, well-surfaced and straight — the published routing runs out of the city on broad avenues and stays easy until the mountains start. Tank up before you leave the city fringe; the last reliable row of petrol stations is around Vinh Yen.
+The standard line is simple: leave Hanoi to the northwest, join the wide corridor toward Phuc Yen/Vinh Yen, and follow the signs for T
+am Dao as the road bends toward the hills. Most of the way is fast, well-surfaced and straight — the published routing runs out of the city on broad avenues and stays easy until the mountains start. Tank up before you leave the city fringe; the last reliable row of petrol stations is around Vinh Yen.
 
 The character of the ride changes in the final stretch: roughly the last 15 kilometres climb switchbacks up the ridge to the town. The surface is generally sealed, but the bends tighten quickly, gradients steepen, and afternoon cloud often rolls in across the road even on days that started clear in Hanoi. Treat this section as mountain riding, not city riding.
 
