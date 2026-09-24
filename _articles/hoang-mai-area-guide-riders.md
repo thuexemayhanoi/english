@@ -27,11 +27,12 @@ Hoang Mai is the south of Hanoi — the direction the city sprawls toward the de
 
 ## What the area is
 
-The defining features are water and space. The Linh Dam peninsula, surrounded by its lake, is one of the largest apartment areas in Hanoi; further south, Yen So Park — with over 300 hectares at the Phap Van–Cau Gie expressway intersection — is one of the city's largest parks. The area also holds the main southern gateway out of the city: the expressway toward Ninh Binh starts here.
+The defining features are water and space. The Linh Dam peninsula, surrounded by its lake, is one of
+ the largest apartment areas in Hanoi; further south, Yen So Park — with over 300 hectares at the Phap Van–Cau Gie expressway intersection — is one of the city's largest parks. The area also holds the main southern gateway out of the city: the expressway toward Ninh Binh starts here.
 
 ## How it rides
 
-This is the easiest large-scale riding in central Hanoi's orbit. The arterial roads — Nguyen Dinh Chieu? no: Nguyen Van Linh, Nguyen Xien, Phap Van — are wide, mostly divided, and built for through-traffic. Speeds are higher than in the core, which changes the risk profile: the dangers here are big junctions, concrete median gaps used as unofficial U-turns, and buses swinging between stops. Ride predictably, light up early for junctions, and treat every median gap as a place where someone will emerge.
+This is the easiest large-scale riding in central Hanoi's orbit. The arterial roads — Nguyen Van Linh, Nguyen Xien, Phap Van — are wide, mostly divided, and built for through-traffic. Speeds are higher than in the core, which changes the risk profile: the dangers here are big junctions, concrete median gaps used as unofficial U-turns, and buses swinging between stops. Ride predictably, light up early for junctions, and treat every median gap as a place where someone will emerge.
 
 At rush hour the main corridors clog at the junctions that connect toward the centre, but the internal streets stay rideable. Weekend mornings see family traffic around Linh Dam lake and the park approaches — expect children on bikes and slower, meandering flow.
 

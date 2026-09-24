@@ -26,13 +26,14 @@ Hai Ba Trung — named after the two sisters who led a rebellion against Chinese
 
 ## What the area is
 
-This is workhorse central Hanoi: hospitals, wholesale streets, older apartment blocks and some of the city's best-known local food, stretched along wide boulevards. Landmarks anchor each end — the Hai Ba Trung Temple on Le Dai Hanh, dedicated to the two sisters, sits in the middle of the strip, while the giant Bach Mai hospital zone defines its centre, and the modern Times City complex with its aquarium and park rises near the southern edge. At the far east, Vinh Tuy Bridge carries riders across the Red River toward Long Bien and Gia Lam.
+This is workhorse central Hanoi: hospitals, wholesale streets, older apartment blocks and some of the city's best-known local food, stretched along wide boulevards. Landmarks anchor each end — the Hai Ba Trung Temple on Le Dai Hanh, dedicated to the two sisters, sits in the middle of the strip, while the giant Bach Mai hospital zone defines its centre, and the m
+odern Times City complex with its aquarium and park rises near the southern edge. At the far east, Vinh Tuy Bridge carries riders across the Red River toward Long Bien and Gia Lam.
 
 ## How it rides
 
 The boulevards here are wide by Hanoi standards, which means speed goes up and margins go down. Buses and trucks use the same corridors, lane discipline is loose, and the long straight sections encourage drivers to overtake on whichever side has space. Ride at the flow of traffic, check mirrors before every lateral move, and expect ride-hail motorbikes to appear from behind at speed.
 
-The two hands of the area are Le Dai Hanh–Minh Khai flowing south, and Bach Mai–Nguyen Khoai flowing toward the river. Both arerush-hour rivers: between roughly 07:00–08:30 and 17:00–19:00 they move slowly but safely; the midday window is when the wide lanes feel almost relaxed.
+The two main corridors are Le Dai Hanh–Minh Khai flowing south, and Bach Mai–Nguyen Khoai flowing toward the river. Both are rush-hour rivers: between roughly 07:00–08:30 and 17:00–19:00 they move slowly but safely; the midday window is when the wide lanes feel almost relaxed.
 
 ## Parking and stopping
 
