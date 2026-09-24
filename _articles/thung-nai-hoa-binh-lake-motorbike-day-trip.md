@@ -28,8 +28,7 @@ Thung Nai — "the submerged valley" — is the gateway to Hoa Binh lake, the hu
 
 ## The route
 
-Highway 6 southwest through Hoa Binh province is on
-e of the north’s classic riding corridors: wide, busy at the town crossings, then climbing through forested hills. The last kilometres to the lake descend to wharves where boats of the local cooperatives run tours of the islands, the Thac Bo cave and shrines, and Muong ethnic villages on the far shores. Count about two hours each way, plus stops — fuel and food are available along the way, and traffic police patrol the corridor, so keep to the limits and carry your documents.
+Highway 6 southwest through Hoa Binh province is one of the north’s classic riding corridors: wide, busy at the town crossings, then climbing through forested hills. The last kilometres to the lake descend to wharves where boats of the local cooperatives run tours of the islands, the Thac Bo cave and shrines, and Muong ethnic villages on the far shores. Count about two hours each way, plus stops — fuel and food are available along the way, and traffic police patrol the corridor, so keep to the limits and carry your documents.
 
 ## On the lake
 

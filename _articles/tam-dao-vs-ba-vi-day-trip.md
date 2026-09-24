@@ -28,8 +28,7 @@ Two mountain massifs dominate the day-trip conversation among Hanoi riders: Tam 
 
 ## Distance and time
 
-Tam Dao is about 85 kilometres north — roughly two hours out, plus the hill climb. Ba Vi is closer on paper (60–70 km west, about an hour and 
-a half to the park area), but its own climb inside the park adds a long, slow section before you park. Total saddle time is similar; Ba Vi puts its mountain climbing at the end, Tam Dao spreads it over the last 15 kilometres of switchbacks.
+Tam Dao is about 85 kilometres north — roughly two hours out, plus the hill climb. Ba Vi is closer on paper (60–70 km west, about an hour and a half to the park area), but its own climb inside the park adds a long, slow section before you park. Total saddle time is similar; Ba Vi puts its mountain climbing at the end, Tam Dao spreads it over the last 15 kilometres of switchbacks.
 
 ## The riding
 

@@ -28,9 +28,7 @@ Tam Dao is the closest real mountain ride to Hanoi: a former French hill station
 
 ## The route out
 
-The standard line is simple: leave Hanoi to the northwest, join the wide corridor toward Phuc Yen/Vinh Yen, and follow the sig
-ns for T
-am Dao as the road bends toward the hills. Most of the way is fast, well-surfaced and straight — the published routing runs out of the city on broad avenues and stays easy until the mountains start. Tank up before you leave the city fringe; the last reliable row of petrol stations is around Vinh Yen.
+The standard line is simple: leave Hanoi to the northwest, join the wide corridor toward Phuc Yen/Vinh Yen, and follow the signs for Tam Dao as the road bends toward the hills. Most of the way is fast, well-surfaced and straight — the published routing runs out of the city on broad avenues and stays easy until the mountains start. Tank up before you leave the city fringe; the last reliable row of petrol stations is around Vinh Yen.
 
 The character of the ride changes in the final stretch: roughly the last 15 kilometres climb switchbacks up the ridge to the town. The surface is generally sealed, but the bends tighten quickly, gradients steepen, and afternoon cloud often rolls in across the road even on days that started clear in Hanoi. Treat this section as mountain riding, not city riding.
 

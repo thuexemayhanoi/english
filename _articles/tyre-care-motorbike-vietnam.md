@@ -27,8 +27,7 @@ Pressures drop slowly and invisibly, and an under-inflated tyre is the quiet cau
 
 ## Reading the wear
 
-Tread depth: when the wear bars (the little raised ridges inside the grooves) sit level with the tread, the tyre is finished — and in the wet, worn tread stretches braking badly. Look for uneven wear: a flat centre band means mostly-highway use; scrubbed edges mean enthusiastic cornering; wear on on
-e side alone suggests alignment or pressure problems worth a mechanic's look.
+Tread depth: when the wear bars (the little raised ridges inside the grooves) sit level with the tread, the tyre is finished — and in the wet, worn tread stretches braking badly. Look for uneven wear: a flat centre band means mostly-highway use; scrubbed edges mean enthusiastic cornering; wear on one side alone suggests alignment or pressure problems worth a mechanic's look.
 
 ## Damage that means stop riding it
 

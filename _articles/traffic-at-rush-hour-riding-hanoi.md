@@ -31,8 +31,7 @@ Keep a two-metre bubble you can stop inside. Watch front wheels, not phones, on 
 
 ## Timing beats technique
 
-If you can shift your schedule thirty minutes, the same streets
- change character completely. The 17:15 river and the 18:15 one are different experiences. Commuters with flexible hours should use that — commuting-by-motorbike-monthly-hanoi covers building the routine around the peaks.
+If you can shift your schedule thirty minutes, the same streets change character completely. The 17:15 river and the 18:15 one are different experiences. Commuters with flexible hours should use that — commuting-by-motorbike-monthly-hanoi covers building the routine around the peaks.
 
 ## Rain plus rush hour
 

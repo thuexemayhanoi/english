@@ -27,9 +27,7 @@ Van Phuc, the silk-weaving village on the Nhue river just off Nguyen Trai road i
 
 ## The route
 
-The published routing is simple: pick up the Nguyen Trai – Le Van Luong – To Huu corridor heading southwest and follow the signs to Ha Dong. The whole ride is urban-arterial riding — divided road, buses, steady scooter flow — until the last stretch, where you tu
-r
-n off Nguyen Trai into the village lanes by the river. Leave the main road early enough to avoid missing the turn: the village sits behind the corridor, not on it.
+The published routing is simple: pick up the Nguyen Trai – Le Van Luong – To Huu corridor heading southwest and follow the signs to Ha Dong. The whole ride is urban-arterial riding — divided road, buses, steady scooter flow — until the last stretch, where you turn off Nguyen Trai into the village lanes by the river. Leave the main road early enough to avoid missing the turn: the village sits behind the corridor, not on it.
 
 Timing matters more than the route. Outbound against the morning commuter wave is pleasant before 08:00; the return toward the centre between 17:00 and 19:00 is heavy. Mid-morning and mid-afternoon are the easy windows.
 

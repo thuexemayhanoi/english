@@ -27,8 +27,7 @@ The Temple of Literature — Van Mieu–Quoc Tu Giam — is the oldest universit
 
 ## What you are visiting
 
-The complex runs through five courtyards from the Great Gate inward: the central way through the Kiem Pond to the Constellation of Literature pavilion — the sit
-e
+The complex runs through five courtyards from the Great Gate inward: the central way through the Kiem Pond to the Constellation of Literature pavilion — the site
 's icon — then the stele gardens, where the names of royal examination laureates were carved onto stone tablets carried on the backs of turtles. The deeper courtyards hold the academy buildings and the Confucian sanctuary. Give it ninety unhurried minutes; the stele house and the pavilion are the photographs, but the back courtyards are the quiet.
 
 ## The route

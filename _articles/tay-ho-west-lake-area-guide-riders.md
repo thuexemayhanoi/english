@@ -27,8 +27,7 @@ Tay Ho, the wedge of the city wrapped around West Lake (Ho Tay), is the neighbou
 
 West Lake is the largest lake inside the city, and its shoreline road forms a natural loop — roughly 17 kilometres of lakeside riding if you complete the full circuit. The ride itself deserves its own guide, but the area around it matters even if you only ride through. Behind the lake roads sits a grid of narrow expat-quarter streets: To Ngoc Van, Xuan Dieu, Au Co, Dang Thai Mai. These carry a constant mix of cafe traffic, school runs, food delivery riders and residents, at speeds that rarely rise above walking pace in the evening peaks.
 
-## What riding her
-e feels like
+## What riding here feels like
 
 Tay Ho is where many new foreign riders take their first real Hanoi traffic. It is a fair choice: the streets are slower than the centre, the flow is more predictable, and there is a lot of tolerance for hesitant riders. The trade-off is chaos by Hanoi's own standards of convenience — cars park on lanes, cafe queues spill onto the road on weekend evenings, and the lakeside path on the east shore draws strolling crowds who drift into the roadway without looking.
 
@@ -46,8 +45,7 @@ Overnight parking for residents is a real question here, since many expat apartm
 
 ## Rain and the lake
 
-The lake changes the weather locally. Wind crosses the open water and hits the shoreline roads, so on stormy afternoons the eastern shore can be gusty enough to push a light scooter sideways. After heavy rain, the low sides of several lakeside underpasses and the older alleys toward the river side can hold standing water; the general flooded-street rules apply. And the lake road after a summer downpour is briefly the freshest ride in the city — just slow down for 
-the first minutes while the surface film washes off.
+The lake changes the weather locally. Wind crosses the open water and hits the shoreline roads, so on stormy afternoons the eastern shore can be gusty enough to push a light scooter sideways. After heavy rain, the low sides of several lakeside underpasses and the older alleys toward the river side can hold standing water; the general flooded-street rules apply. And the lake road after a summer downpour is briefly the freshest ride in the city — just slow down for the first minutes while the surface film washes off.
 
 ## Why riders who live here stay
 
