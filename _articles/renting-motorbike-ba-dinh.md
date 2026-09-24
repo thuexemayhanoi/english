@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "where-to-park-motorbike-hanoi, motorbike-fines-vietnam-overview, best-motorbike-for-commuting-hanoi, motorbike-rental-pickup-or-delivery-hanoi, motorbike-required-equipment-vietnam"
+internal_link_targets: "where-to-park-motorbike-hanoi, motorbike-fines-vietnam-overview, best-motorbike-for-commuting-hanoi, motorbike-rental-pickup-or-delivery-hanoi, motorbike-required-equipment-vietnam", ba-dinh-area-guide-riders
 ---
 
 Ba Dinh is Hanoi's governmental heart — the mausoleum, the museum quarter, embassies and ministries — and it rides differently from any other district: broader boulevards, stricter parking, and the highest concentration of security per square kilometre.
@@ -28,7 +28,8 @@ Around Ba Dinh square, the rules tighten. The mausoleum area and its approach st
 
 ## Wide boulevards, honest speeds
 
-Ba Dinh's arteries (Kim Ma, Doi Can, Hoang Hoa Tham, the extended Lang–Hoa Lac direction) run faster than central streets, with longer sightlines and lane discipline that matters more. The riding style for wide fast arterials is covered in best-motorbike-for-commuting-hanoi, and the equipment basics — lights, mirrors, horn — in motorbike-required-equipment-vietnam; these streets are where a missing light actually gets noticed.
+Ba Dinh's arteries (Kim Ma, Doi Can, Hoang Hoa Tham, the extended Lang–Hoa Lac direction) run faster than central streets, with longer sightlines and lane discipline that matters more. The riding style for wide fast arterials is covered in best-motorbike-for-commuting-hanoi, and the equipment basics — lights, mirrors, horn — in motor
+bike-required-equipment-vietnam; these streets are where a missing light actually gets noticed.
 
 ## What riders come here for
 

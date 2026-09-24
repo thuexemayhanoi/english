@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "renting-motorbike-old-quarter, where-to-park-motorbike-hanoi, best-motorbike-for-hanoi-traffic, motorbike-rental-pickup-or-delivery-hanoi, traffic-light-rules-vietnam"
+internal_link_targets: "renting-motorbike-old-quarter, where-to-park-motorbike-hanoi, best-motorbike-for-hanoi-traffic, motorbike-rental-pickup-or-delivery-hanoi, traffic-light-rules-vietnam", exploring-hoan-kiem-by-motorbike
 ---
 
 Hoan Kiem — the lake at the centre, the Old Quarter to its north, the French Quarter's leafy grid to its south — is the district every visitor rides and every resident routes around carefully. It has three distinct riding moods.
@@ -32,7 +32,8 @@ The dense historic streets north of the lake are covered as their own environmen
 
 ## The French Quarter grid
 
-South and east of the lake — Trang Tien, Ngo Quyen, the embassy-lined streets — the geometry changes: proper blocks, generous lanes, calm flows. This is the easiest riding in central Hanoi and the best place to spend a rental's first hour: controlled practice, real conditions, low chaos. The traffic-readiness framework is in best-motorbike-for-hanoi-traffic.
+South and east of the lake — Trang Tien, Ngo Quyen, the embassy-lined streets — the geometry changes: proper blocks, generous lanes, ca
+lm flows. This is the easiest riding in central Hanoi and the best place to spend a rental's first hour: controlled practice, real conditions, low chaos. The traffic-readiness framework is in best-motorbike-for-hanoi-traffic.
 
 ## Parking strategy for the centre
 

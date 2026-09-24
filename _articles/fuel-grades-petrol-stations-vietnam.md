@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general fuel guidance, exact fuel specification per manual/manufacturer"
-internal_link_targets: "improving-fuel-economy-motorbike, fuel-leak-petrol-smell-motorbike, motorbike-maintenance-basics-vietnam, storing-motorbike-long-term-vietnam"
+internal_link_targets: "improving-fuel-economy-motorbike, fuel-leak-petrol-smell-motorbike, motorbike-maintenance-basics-vietnam, storing-motorbike-long-term-vietnam", hanoi-petrol-stations-guide-riders
 ---
 
 Every Vietnamese town has a petrol station within a short ride, and nearly all sell a small set of standard grades. New riders mostly want to know one thing: does the grade matter, and can the fuel be trusted?
@@ -27,7 +27,8 @@ Your owner's manual states the minimum octane the engine is designed for. For th
 
 ## Fuel quality and station habits
 
-Fuel in Vietnam comes through a regulated wholesale system, but the practical risks are at the margins: very old station tanks, tampered pumps at isolated stops, and fuel left sitting in jerry cans for months. Practical habits: use busy stations (fast turnover means fresher fuel), watch the pump reset to zero, and avoid filling from unmarked roadside containers. Fuel that smells sour, looks cloudy or makes the engine run badly should not be argued with — ride gently to a different station and, if problems persist, have the system checked; a fuel smell around the bike itself is a different problem covered in fuel-leak-petrol-smell-motorbike.
+Fuel in Vietnam comes through a regulated wholesale system, but the practical risks are at the margins: very old station tanks, tampered pumps at isolated stops, and fuel left sitting in jerry cans for months. Practical habits: use busy stations (fast turnover means fresher fuel), watch the pump reset to zero, and avoid filling from unmarked roadside containers. Fuel that smells sour, l
+ooks cloudy or makes the engine run badly should not be argued with — ride gently to a different station and, if problems persist, have the system checked; a fuel smell around the bike itself is a different problem covered in fuel-leak-petrol-smell-motorbike.
 
 ## Long stops and empty tanks
 

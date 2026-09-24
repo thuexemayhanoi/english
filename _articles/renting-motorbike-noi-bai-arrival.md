@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "motorbike-rental-pickup-or-delivery-hanoi, how-to-book-a-motorbike-rental-hanoi, motorbike-rental-agreement-hanoi, first-time-renting-a-motorbike-hanoi, best-motorbike-for-hanoi-traffic"
+internal_link_targets: "motorbike-rental-pickup-or-delivery-hanoi, how-to-book-a-motorbike-rental-hanoi, motorbike-rental-agreement-hanoi, first-time-renting-a-motorbike-hanoi, best-motorbike-for-hanoi-traffic", riding-motorbike-noi-bai-airport-hanoi
 ---
 
 Landing at Noi Bai with a motorbike rental in mind is a good plan with one correction: the rental itself almost always happens in the city, not at the terminal.
@@ -28,7 +28,8 @@ Noi Bai sits about 25–30 km from central Hanoi. Rental shops, including Nguyen
 
 ## Booking before you fly
 
-Message the shop with your arrival day and the rental dates before departure — how-to-book-a-motorbike-rental-hanoi covers what to confirm: model category, price, deposit (typically 2,000,000–5,000,000 VND — motorbike-rental-deposit-hanoi), pickup or delivery arrangement for your address, and the accepted payment forms (cash, bank transfer, QR). Confirm current availability of the model you want. Book the transfer and the rental as separate steps: the shop can't hand you a bike at the terminal, and there is no reason they should.
+Message the shop with your arrival day and the rental dates before departure — how-to-book-a-motorbike-rental-hanoi covers what to confirm: model category, price, deposit (typically 2,000,000–5,000,000 VND — motorbike-rental-deposit-hanoi), pickup or delivery arrangement for your address, and the accepted payment fo
+rms (cash, bank transfer, QR). Confirm current availability of the model you want. Book the transfer and the rental as separate steps: the shop can't hand you a bike at the terminal, and there is no reason they should.
 
 ## Why riding straight from the airport is a bad idea
 

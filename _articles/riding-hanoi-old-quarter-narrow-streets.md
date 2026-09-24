@@ -16,7 +16,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "renting-motorbike-old-quarter, where-to-park-motorbike-hanoi, best-bike-for-hanoi-old-quarter, u-turns-tight-turns-motorbike-vietnam"
+internal_link_targets: "renting-motorbike-old-quarter, where-to-park-motorbike-hanoi, best-bike-for-hanoi-old-quarter, u-turns-tight-turns-motorbike-vietnam", exploring-hoan-kiem-by-motorbike, hanoi-night-markets-motorbike-guide
 ---
 
 The Old Quarter is the densest riding environment most visitors ever face: lanes barely wider than your handlebars, pedestrians everywhere, sidewalk cafiers spilling to the kerb, tour groups stepping out backwards from doorways. It is rideable — thousands of locals do it daily — but it rewards a different riding style.
@@ -31,7 +31,8 @@ The sidewalk is for people, and riding on it is both antisocial and unlawful —
 
 ## Assume every doorway holds a person
 
-The hazard profile in the Old Quarter is not speed, it is the unexpected: someone stepping out, a plastic stool, a dog under a street-food table. Cover the rear brake constantly and keep two fingers over it at all times. riding-motorbike-heavy-rain-vietnam adds another layer when the stone and tile surfaces are wet.
+The hazard profile in the Old Quarter is not speed, it is the unexpected: someone stepping out, a plastic stool, a dog under a street-food table. Cover the rear brake constantly and keep two fingers over it at
+ all times. riding-motorbike-heavy-rain-vietnam adds another layer when the stone and tile surfaces are wet.
 
 ## Tight turns and dead ends
 

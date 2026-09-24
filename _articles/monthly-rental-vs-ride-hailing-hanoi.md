@@ -18,7 +18,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "monthly-vs-daily-motorbike-rental-hanoi, motorbike-rental-budget-monthly-hanoi, long-term-renting-vs-buying-residents-hanoi, monthly-motorbike-rental-hanoi"
+internal_link_targets: "monthly-vs-daily-motorbike-rental-hanoi, motorbike-rental-budget-monthly-hanoi, long-term-renting-vs-buying-residents-hanoi, monthly-motorbike-rental-hanoi", hanoi-guided-motorbike-tours-vs-self-riding
 ---
 
 Most long-term visitors weigh two options: ride-hailing apps (Grab, Xanh SM, Be) for every trip, or one monthly rental and your own wheels. Both work — the honest comparison is by trip volume.
@@ -33,7 +33,8 @@ Daily riding. Once you commute, or you make several trips a day, per-trip fares 
 
 ## The comparison that matters
 
-Estimate your monthly trip count, apply typical local ride-hailing fares for your distances, and compare with the published monthly rate for the model that fits you (contact us to confirm the current monthly price for models without one). Around one trip per day is usually the crossover zone; commuters are clearly on the rental side.
+Estimate your monthly trip count, apply typica
+l local ride-hailing fares for your distances, and compare with the published monthly rate for the model that fits you (contact us to confirm the current monthly price for models without one). Around one trip per day is usually the crossover zone; commuters are clearly on the rental side.
 
 ## The middle path
 

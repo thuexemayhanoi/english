@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: first-hour-manual-clutch-practice-checklist, how-long-to-learn-manual-motorbike, riding-hanoi-old-quarter-narrow-streets, crossing-hanoi-bridges-motorbike, week-one-manual-clutch-practice-plan
+internal_link_targets: first-hour-manual-clutch-practice-checklist, how-long-to-learn-manual-motorbike, riding-hanoi-old-quarter-narrow-streets, crossing-hanoi-bridges-motorbike, week-one-manual-clutch-practice-plan, hanoi-districts-layout-guide-riders
 ---
 
 Hanoi is not a place to learn the absolute basics of riding — the flow starts at every gate. But with a little planning, new riders can build skill safely before joining the river of bikes.
@@ -36,7 +36,8 @@ Early Sunday mornings offer the calmest streets of the week anywhere in the city
 
 ## A graduated plan
 
-1. **Hour 1:** empty practice spot — the drills in our first-hour checklist.
+1. **Hour 1:** empty practice spo
+t — the drills in our first-hour checklist.
 2. **Hour 2-4:** quiet residential streets at quiet hours, simple loops with a few turns and one junction.
 3. **Next:** a straight arterial street with flow but no merges, at off-peak.
 4. **Then:** bridges and the Old Quarter last — the narrow-street guide and the Hanoi bridges guide cover the two genuinely tricky environments.

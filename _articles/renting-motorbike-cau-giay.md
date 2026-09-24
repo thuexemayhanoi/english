@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "best-motorbike-for-commuting-hanoi, where-to-park-motorbike-hanoi, motorbike-rental-pickup-or-delivery-hanoi, best-motorbike-for-students-hanoi, motorbike-speed-limits-vietnam"
+internal_link_targets: "best-motorbike-for-commuting-hanoi, where-to-park-motorbike-hanoi, motorbike-rental-pickup-or-delivery-hanoi, best-motorbike-for-students-hanoi, motorbike-speed-limits-vietnam", exploring-cau-giay-by-motorbike
 ---
 
 Cau Giay, Hanoi's modern western district, is where the city's new face lives: wide arterials, tower blocks, mega-malls and university campuses. It rides at higher speeds than the centre and rewards riders who like their lane changes decisive.
@@ -28,7 +28,8 @@ The main arteries (Pham Hung, Cau Giay, Tran Duy Hung, the extended Thang Long d
 
 ## The district's two crowds
 
-Office traffic floods Pham Hung and Tran Duy Hung at rush hour; university traffic (National University campuses, the Thai Thinh corridor) gives the district a younger, denser two-wheel flow at class-change hours. Student riders renting for the semester should start with best-motorbike-for-students-hanoi and the licence situation in foreign-student-motorbike-licence-vietnam.
+Office traffic floods Pham Hung and Tran Duy Hung at rush hour; university traffic (National University campuses, the Thai Thinh corridor) gives the district a younger, denser two-wheel flow at class-change hours. Student riders renting for the semes
+ter should start with best-motorbike-for-students-hanoi and the licence situation in foreign-student-motorbike-licence-vietnam.
 
 ## Parking, the easy version
 
