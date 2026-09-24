@@ -28,7 +28,7 @@ Future 125 FI: 756 mm. Wave RSX: 760 mm. Blade: 769 mm. Wave Alpha: 770 mm. Supe
 
 ## How to read the numbers
 
-A 10 mm seat-height change is roughly one finger-width of confidence. Going from a 770 mm Wave Alpha to an 800 mm CT125 means measurably less foot at the lights, made worse by the CT's taller suspension stroke. But seat height alone is not the whole story: width matters (narrow underbones are easier to straddle than wide-saddled scooters), and weight compounds it - our kerb-weights explainer covers that side.
+A 10 mm seat-height change is roughly one finger-width of confidence. Going from a 770 mm Wave Alpha to an 800 mm CT125 means measurably less foot at the lights, made worse by the CT's taller suspension stroke. But seat height alone is not the whole story: width matters (narrow underbones are easier to straddle than wide-saddled scooters), and weight compounds it - our kerb-weights [explainer]({{ '/articles/scooter-kerb-weights-vietnam-verified/' | relative_url }}) covers that side.
 
 ## The underbone advantage
 

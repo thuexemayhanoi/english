@@ -40,7 +40,7 @@ Only Yamaha publishes clean payload figures across its current pages; Honda's Vi
 
 - 157 kg sounds generous until you add it up: a 75 kg rider + 70 kg pillion = 145 kg before any luggage.
 - Exceeding payload is not an immediate failure - it is gradual: slower braking, wallowing suspension, overheating brakes on descents, and stressed tyres. Our two-up guide and suspension preload guide cover how to set the bike up properly for real loads.
-- Payload is separate from towing and rack limits: a top box loaded to 10 kg on a rack has its own effect on handling, covered in our luggage guide.
+- Payload is separate from towing and rack limits: a top box loaded to 10 kg on a rack has its own effect on handling, covered in our luggage [guide]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}).
 
 ## The legal dimension
 
@@ -49,8 +49,8 @@ Vietnamese traffic law governs passengers and load carriage - when a pillion is 
 ## Practical rules for loaded riding
 
 1. Keep the heaviest items low and central (underseat bay, not a high top box).
-2. Increase following distance - braking distances grow with load (our emergency braking guide covers technique).
+2. Increase following distance - braking distances grow with load (our emergency [braking guide]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}) covers technique).
 3. Set rear suspension preload for the load where adjustable.
-4. Check tyre condition and pressure before a loaded trip (our tyre care guide; use the manufacturer's pressure values, never guessed ones).
+4. Check tyre condition and pressure before a loaded trip (our tyre [care guide]({{ '/articles/50cc-tyres-small-wheels-care/' | relative_url }}); use the manufacturer's pressure values, never guessed ones).
 
 For renting with a pillion or cargo plans, say so when booking - contact us to confirm current availability of suitable models.

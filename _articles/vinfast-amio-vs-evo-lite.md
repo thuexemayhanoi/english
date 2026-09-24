@@ -45,4 +45,4 @@ The **Evo Lite** buys reach: nearly triple the standard-conditions range, scoote
 - **16+, commuting across districts, no licence:** the Evo Lite. The sub-50 km/h limit keeps it in the licence-free class while the swap network removes the charging problem.
 - **Planning to get an A1 later?** Neither — the standard Evo or the A1-class machines will matter more.
 
-The legal logic behind both speed ceilings is explained in our moped-cap explainer.
+The legal logic behind both speed ceilings is explained in our moped-cap [explainer]({{ '/articles/what-is-a-moped-vietnam-law/' | relative_url }}).

@@ -29,7 +29,7 @@ Verified figures: wet weight 100 kg, seat height around the class norm with dime
 
 ## Storage and features
 
-The 27-litre bay with interior lighting is the practical headline - enough for a full-face helmet plus a bag, covered in our scooter storage comparison. Smart key operation is explained in our smart-key guide. Yamaha positions the Grande among its most fuel-efficient models; where manufacturer economy figures are published we compare them in our fuel economy comparison.
+The 27-litre bay with interior lighting is the practical headline - enough for a full-face helmet plus a bag, covered in our scooter storage comparison. Smart key operation is explained in our smart-key [guide]({{ '/articles/scooters-with-smart-keys-vietnam-verified/' | relative_url }}). Yamaha positions the Grande among its most fuel-efficient models; where manufacturer economy figures are published we compare them in our fuel economy comparison.
 
 ## Who it suits
 
@@ -37,4 +37,4 @@ Riders who want a scooter that looks considered at the cafe as well as working i
 
 ## Renting one
 
-The Grande is not among Nguyen Tu's price-published models - contact us to confirm current availability. As with any scooter, run the pre-ride checks in our motorbike safety checklist, and check licence rules by engine class in our licence guides.
+The Grande is not among Nguyen Tu's price-published models - contact us to confirm current availability. As with any scooter, run the pre-ride checks in our motorbike [safety checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}), and check licence rules by engine class in our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}).

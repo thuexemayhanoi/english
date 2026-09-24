@@ -177,6 +177,47 @@ function run(chunks, label) {
   if (!/\bin stock\b|currently available|yes, .*(available|in stock)/i.test(stock2.html)) { pass++; results.push({ q: 'no-stock-overclaim', ok: true }); }
   else { fail++; results.push({ q: 'no-stock-overclaim', ok: false, ans: stock2.html.slice(0, 110) }); }
 
+  // ---- Regression tests (audit 2026-09-24) ----
+  // 1) HTML inside chunks must be stripped, never rendered as literal tags
+  const leak = Core.sentences('<p>Plain <strong>bold</strong> and &amp; an entity</p> tail.', 3);
+  if (/<p>|<strong>|&amp;/.test(leak)) { fail++; results.push({ q: 'html-leak regression', ok: false, ans: leak }); }
+  else { pass++; results.push({ q: 'html-leak regression', ok: true }); }
+
+  // 2) "50cc rules" after a price context must answer rules, not prices
+  const rp = ask('Rental prices');
+  const rules = ask('50cc rules', rp.ctx);
+  if (/no fixed price|published rate/i.test(rules.html)) {
+    fail++; results.push({ q: 'price->50cc-rules context regression', ok: false, ans: rules.html.slice(0, 110) });
+  } else if (/licence|moped|50 km\/h|\b16\b/.test(rules.html)) {
+    pass++; results.push({ q: 'price->50cc-rules context regression', ok: true, ans: rules.html.replace(/\s+/g, ' ').slice(0, 90) });
+  } else {
+    fail++; results.push({ q: 'price->50cc-rules context regression', ok: false, ans: rules.html.replace(/\s+/g, ' ').slice(0, 110) });
+  }
+
+  // 3) "50cc rules" after a licence context must answer rules
+  const rl = ask('Do tourists need a licence?');
+  const rules2 = ask('50cc rules', rl.ctx);
+  if (/no fixed price|published rate/i.test(rules2.html)) {
+    fail++; results.push({ q: 'licence->50cc-rules context regression', ok: false, ans: rules2.html.slice(0, 110) });
+  } else if (/licence|moped|50 km\/h|\b16\b/.test(rules2.html)) {
+    pass++; results.push({ q: 'licence->50cc-rules context regression', ok: true });
+  } else {
+    fail++; results.push({ q: 'licence->50cc-rules context regression', ok: false, ans: rules2.html.slice(0, 110) });
+  }
+
+  // 4) Business facts must answer with an empty index (no waiting for 4MB payload)
+  const direct = Core.answer('How much is a Honda Vision?', { chunks: [], biz: biz, ctx: {} });
+  if (!direct.fallback && /200,000 VND/.test(direct.html)) { pass++; results.push({ q: 'business-first without index', ok: true }); }
+  else { fail++; results.push({ q: 'business-first without index', ok: false, ans: direct.html.slice(0, 110) }); }
+  const directDep = Core.answer('What is the deposit?', { chunks: [], biz: biz, ctx: {} });
+  if (!directDep.fallback && /2,000,000–5,000,000 VND/.test(directDep.html)) { pass++; results.push({ q: 'deposit without index', ok: true }); }
+  else { fail++; results.push({ q: 'deposit without index', ok: false, ans: directDep.html.slice(0, 110) }); }
+
+  // 5) Follow-up chips after price: "What is the deposit?" keeps its own intent
+  const dep = ask('What is the deposit?', rp.ctx);
+  if (/2,000,000–5,000,000 VND/.test(dep.html)) { pass++; results.push({ q: 'price->deposit context regression', ok: true }); }
+  else { fail++; results.push({ q: 'price->deposit context regression', ok: false, ans: dep.html.slice(0, 110) }); }
+
   // Report
   console.log('=== Guide Assistant test: ' + label + ' ===');
   console.log('chunks: ' + chunks.length + ' | FAQ units: ' + chunks.filter(c => c.qa).length);

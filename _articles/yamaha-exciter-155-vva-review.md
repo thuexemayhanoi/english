@@ -38,4 +38,4 @@ Wet weight is 123 kg, dimensions are 1,975 x 665 x 1,105 mm, and both wheels are
 
 ## Who it suits
 
-Riders who want a proper clutch bike with strong performance for Hanoi day trips and weekend riding, and who value class-leading hardware. Against the Honda Winner R it offers more power, a six-speed box and the slipper clutch; against the Honda CBR150R, a fairing and a bigger tank. All are A1-bracket bikes - see our licence guide. Contact us to confirm current availability for rental.
+Riders who want a proper clutch bike with strong performance for Hanoi day trips and weekend riding, and who value class-leading hardware. Against the Honda Winner R it offers more power, a six-speed box and the slipper clutch; against the Honda CBR150R, a fairing and a bigger tank. All are A1-bracket bikes - see our licence [guide]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}). Contact us to confirm current availability for rental.

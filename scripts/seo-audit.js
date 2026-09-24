@@ -26,11 +26,13 @@ for (const x of all) {
   if (skipIndex) continue;
 
   // Title
+  // index.html intentionally falls back to site.title/site.description in the
+  // default layout, so its rendered meta is correct — no finding for defaults.
   const usesSiteDefaults = file === 'index.html'; // default layout falls back to site.title/site.description
-  if (!fm.title || String(fm.title).trim() === '') F.add(usesSiteDefaults ? 'P2' : 'P1', file, url, 'missing title' + (usesSiteDefaults ? ' (site default used)' : ''), 'Add a title front-matter value');
+  if (!usesSiteDefaults && (!fm.title || String(fm.title).trim() === '')) F.add('P1', file, url, 'missing title', 'Add a title front-matter value');
   else titleCount[String(fm.title).trim()] = (titleCount[String(fm.title).trim()] || 0) + 1;
   // Description
-  if (!fm.description || String(fm.description).trim() === '') F.add(x.isArticle ? 'P1' : 'P2', file, url, 'missing meta description' + (usesSiteDefaults ? ' (site default used)' : ''), 'Add a description front-matter value');
+  if (!usesSiteDefaults && (!fm.description || String(fm.description).trim() === '')) F.add(x.isArticle ? 'P1' : 'P2', file, url, 'missing meta description', 'Add a description front-matter value');
   else descCount[String(fm.description).trim()] = (descCount[String(fm.description).trim()] || 0) + 1;
 
   // Canonical / URL sanity (all pages use layout default; canonical = page.url | absolute_url)
@@ -44,16 +46,24 @@ for (const x of all) {
   // Sitemap inclusion for indexable pages
   if (!sitemapHas(abs) && url !== '/404.html') F.add('P1', file, url, 'missing from sitemap.xml', 'Add URL to sitemap template coverage');
 
-  // H1 checks (source-level; layouts inject H1 from title)
-  const h1s = L.findH1s(x.body);
-  const hasH1FromTitle = !!fm.title;
-  if (!hasH1FromTitle && h1s.length === 0) F.add('P1', file, url, 'no H1', 'Add title or an H1 heading');
-  const contentH1s = h1s.filter(h => !String(fm.title || '').includes(h));
-  if (contentH1s.length > 0 && hasH1FromTitle) F.add('P2', file, url, 'multiple H1 (layout title H1 + body H1)', 'Demote body H1 to H2');
+  // H1 checks (source-level, rendered-HTML aware)
+  // Templates that inject an H1 from the front-matter title: article layout
+  // and cluster layout. Includes can also contribute an H1 (faq.md ->
+  // faq-body.html starts with <h1>), so count those too.
+  const layoutInjectsH1 = x.isArticle || String(fm.layout || '') === 'cluster';
+  const bodyH1s = L.findH1s(x.body);
+  const includeH1 = /\{%\s*include\s+faq-body/.test(x.body);
+  const totalH1 = bodyH1s.length + (((layoutInjectsH1 && fm.title) || includeH1) ? 1 : 0);
+  if (totalH1 === 0) F.add('P1', file, url, 'no H1', 'Add title or an H1 heading');
+  if (layoutInjectsH1 && fm.title && bodyH1s.some(h => !String(fm.title).includes(h))) F.add('P2', file, url, 'multiple H1 (layout title H1 + body H1)', 'Demote body H1 to H2');
 
   // Article-specific: BlogPosting schema comes from layout; check metadata presence
   if (x.isArticle) {
-    if (fm.review_status === 'REVIEW_REQUIRED') F.add('P2', file, url, 'article marked REVIEW_REQUIRED', 'Verify facts against primary sources, then clear review_status');
+    const rsVal = String(fm.review_status || '').toUpperCase();
+    if (fm.review_status && rsVal !== 'VERIFIED' && rsVal !== 'REVIEW_REQUIRED') {
+      F.add('P1', file, url, 'invalid review_status value: ' + JSON.stringify(fm.review_status), 'Use VERIFIED or REVIEW_REQUIRED (enum is uppercase)');
+    }
+    if (rsVal === 'REVIEW_REQUIRED') F.add('P2', file, url, 'article marked REVIEW_REQUIRED', 'Verify facts against primary sources, then clear review_status');
     if (fm.last_reviewed) { const d = new Date(fm.last_reviewed); if (isNaN(d.getTime())) F.add('P1', file, url, 'invalid last_reviewed date', 'Use YYYY-MM-DD'); }
   }
 
@@ -78,12 +88,24 @@ for (const x of all) {
 for (const [t, n] of Object.entries(titleCount)) if (n > 1) F.add('P1', '-', '-', 'duplicate title "' + t + '" x' + n, 'Differentiate titles to avoid cannibalization');
 for (const [d, n] of Object.entries(descCount)) if (n > 1) F.add('P2', '-', '-', 'duplicate meta description x' + n, 'Rewrite one description');
 
-// Orphan articles: no other page/article links to them
-const allBodies = all.map(x => L.extractLinks(x.body).join(' ') + ' ' + String(x.fm.internal_link_targets || '')).join(' ');
+// Orphan articles: same Liquid-aware rule as internal-link-audit.js.
+// An article listed dynamically by its topic hub and the all-guides index is
+// reachable from rendered HTML even if no source file contains its literal
+// URL; only articles with neither dynamic listing nor explicit inbound links
+// are orphans.
+const inboundSeo = {};
+for (const x of all) {
+  const hay = L.extractLinks(x.body).join(' ') + ' ' + String(x.fm.internal_link_targets || '');
+  for (const a of articles) {
+    const s = a.fm.slug || '';
+    const u = L.articleUrl(a);
+    if ((s && hay.includes(s)) || hay.includes(u)) inboundSeo[s || u] = true;
+  }
+}
 for (const a of articles) {
-  const u = L.articleUrl(a);
-  const slug = a.fm.slug || '';
-  if (!allBodies.includes(u) && !allBodies.includes(slug)) F.add('P2', a.file, u, 'orphan article (nothing links to it)', 'Add it to a hub or related-guides list');
+  if (L.isDynamicallyListed(a)) continue;
+  const key = a.fm.slug || L.articleUrl(a);
+  if (!inboundSeo[key]) F.add('P2', a.file, L.articleUrl(a), 'orphan article (no explicit or dynamic inbound link)', 'Assign a valid topic_cluster with an existing hub, or link it explicitly');
 }
 
 // Invalid topic hub references

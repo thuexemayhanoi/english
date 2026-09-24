@@ -40,7 +40,7 @@ Both use Yamaha's 124.9 cc Blue Core engine with CVT and Stop & Start - so choos
 
 - **Storage:** the FreeGo's 25-litre bay takes a full-face helmet; the Janus's 15.3-litre bay takes a half-helmet and not much more.
 - **Equipment:** the FreeGo adds smart key and an LED front light; the Janus keeps it simple and light.
-- **Wheels:** the Janus's 14-inch wheels vs the FreeGo's 12-inch set - our tyre sizes explainer covers the ride trade-offs.
+- **Wheels:** the Janus's 14-inch wheels vs the FreeGo's 12-inch set - our tyre [sizes explainer]({{ '/articles/scooter-tyre-sizes-explained/' | relative_url }}) covers the ride trade-offs.
 - **Weight and economy:** near-identical; the Janus is marginally lighter and marginally thriftier on paper.
 - **Brakes:** both use a front disc with rear drum; the FreeGo S offers ABS.
 

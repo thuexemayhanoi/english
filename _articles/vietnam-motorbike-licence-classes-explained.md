@@ -55,7 +55,7 @@ Bikes of 50cc or less (and electric two-wheelers of 4 kW or less, designed for n
 
 ## What this means for foreign riders
 
-Short-stay visitors rarely obtain a Vietnamese licence. The practical question is whether your home licence plus an International Driving Permit is recognised — see our IDP and tourist-riding guides.
+Short-stay visitors rarely obtain a Vietnamese licence. The practical question is whether your home licence plus an International Driving Permit is recognised — see our IDP [and tourist-riding guide]({{ '/articles/idp-vietnam-motorbike-rules/' | relative_url }})s.
 
 Riding above your licence class is an offence: under Decree 168/2024/NĐ-CP, riding a 125cc-or-under bike without a licence appropriate for it carries a fine of 2–4 million VND, and for bigger bikes 6–8 million VND (Article 18). It can also complicate insurance claims and liability after an accident. Ride only what your licence actually permits.
 

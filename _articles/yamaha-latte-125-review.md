@@ -26,7 +26,7 @@ The Yamaha Latte is a style-led city scooter with two numbers that matter more t
 
 ## Engine and performance
 
-The Latte runs a 124.9 cc single-cylinder, four-stroke, air-cooled Blue Core engine with two valves and a SOHC layout. Yamaha publishes maximum power at 6.05 kW at 6,500 rpm and maximum torque at 9.77 Nm at 5,000 rpm. Those are relaxed, economy-first figures rather than sporty ones - this is a scooter for gliding through the Old Quarter, not for attacking arterial roads. See our power and torque explainer for context.
+The Latte runs a 124.9 cc single-cylinder, four-stroke, air-cooled Blue Core engine with two valves and a SOHC layout. Yamaha publishes maximum power at 6.05 kW at 6,500 rpm and maximum torque at 9.77 Nm at 5,000 rpm. Those are relaxed, economy-first figures rather than sporty ones - this is a scooter for gliding through the Old Quarter, not for attacking arterial roads. See our power [and torque explainer]({{ '/articles/underbone-power-torque-explained/' | relative_url }}) for context.
 
 ## Fuel economy
 
@@ -38,7 +38,7 @@ Yamaha publishes a wet weight of 100 kg, seat height 790 mm, dimensions 1,821 x 
 
 ## Storage and features
 
-The headline feature is 37 litres of underseat storage with a flat floor - Yamaha says it takes A4 folders and a 13-inch laptop, matching the Honda Lead 125's capacity. There is also a smart key with vehicle-locate and steering lock, an LCD panel, halogen lighting and a conveniently placed external fuel cap. Brakes are a front disc and rear drum; the Latte does not offer ABS in the range we reviewed, so check our ABS availability guide if that matters to you.
+The headline feature is 37 litres of underseat storage with a flat floor - Yamaha says it takes A4 folders and a 13-inch laptop, matching the Honda Lead 125's capacity. There is also a smart key with vehicle-locate and steering lock, an LCD panel, halogen lighting and a conveniently placed external fuel cap. Brakes are a front disc and rear drum; the Latte does not offer ABS in the range we reviewed, so check our ABS [availability guide]({{ '/articles/abs-on-underbones-vietnam-explained/' | relative_url }}) if that matters to you.
 
 ## Who it suits
 
@@ -48,4 +48,4 @@ Nguyen Tu does not publish a rental rate for the Latte. Contact us to confirm cu
 
 ## What to check before you ride one
 
-Small wheels are more sensitive to potholes - inspect both tyres carefully. Then work through our rental motorbike inspection checklist.
+Small wheels are more sensitive to potholes - inspect both tyres carefully. Then work through our rental [motorbike inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}).

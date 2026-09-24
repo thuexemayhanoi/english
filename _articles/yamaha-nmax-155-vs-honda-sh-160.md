@@ -32,7 +32,7 @@ NMAX: dual-channel ABS (discs front and rear) plus traction control. SH160i: ABS
 
 ## Size and comfort
 
-The SH160i is the bigger, heavier machine: 134 kg against 131 kg, seat 799 mm against 770 mm. The SH's 16-inch front wheel (100/80-16) gives it motorway stability that the NMAX's 13-inch wheels cannot match - the classic SH trait covered in our 16-inch wheel guide. The NMAX counters with a roomier two-level seat.
+The SH160i is the bigger, heavier machine: 134 kg against 131 kg, seat 799 mm against 770 mm. The SH's 16-inch front wheel (100/80-16) gives it motorway stability that the NMAX's 13-inch wheels cannot match - the classic SH trait covered in our 16-inch [wheel guide]({{ '/articles/16-inch-wheel-scooters-vietnam/' | relative_url }}). The NMAX counters with a roomier two-level seat.
 
 ## Storage and range
 

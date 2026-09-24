@@ -31,7 +31,7 @@ Vietnamese road signs follow a mix of international conventions with French and 
 ## The road-numbering code (the genuinely useful part)
 
 - **QL** (Quốc lộ) = national highway. QL1A is the main north-south artery; QL numbers are usually the big, busy, truck-filled roads.
-- **QLHo Chi Minh / QLHCM** = the Ho Chi Minh Road, the mountain spine route — see our dedicated guide.
+- **QLHo Chi Minh / QLHCM** = the Ho Chi Minh Road, the mountain spine route — see our [dedicated guide]({{ '/articles/ho-chi-minh-highway-motorbike-guide/' | relative_url }}).
 - **DT** (Đường tỉnh) = provincial road. Where the good riding lives: sealed, thinner traffic, real towns.
 - **ĐT/QL on km markers:** every Vietnamese road carries small white kilometre stones with the road number — the fastest way to confirm which road you are actually on when the map says something different.
 

@@ -28,12 +28,12 @@ Wheel size is the quiet spec that shapes how a scooter feels more than most buye
 
 ## Small wheels: agility, cost, fragility
 
-Small wheels make a scooter flickable in Old Quarter traffic and keep the seat low - the Latte's 10-inch rear is a city-cornering asset. The trade-offs: a small wheel drops further into a pothole, transmits more edge impact, and its tyres wear faster. On broken suburban roads that matters - our potholes guide covers the riding technique regardless.
+Small wheels make a scooter flickable in Old Quarter traffic and keep the seat low - the Latte's 10-inch rear is a city-cornering asset. The trade-offs: a small wheel drops further into a pothole, transmits more edge impact, and its tyres wear faster. On broken suburban roads that matters - our potholes [guide]({{ '/articles/potholes-bad-roads-motorbike-vietnam/' | relative_url }}) covers the riding technique regardless.
 
 ## Big wheels: stability, cushioning, presence
 
-Bigger wheels roll over defects instead of into them, hold a line better on gravel and bridge expansion joints, and lengthen effective stability - the reason Honda fits 16-inch fronts to the Vision and SH family, covered in our 16-inch wheel guide. The costs: heavier steering at parking speeds and a higher structure around the wheel.
+Bigger wheels roll over defects instead of into them, hold a line better on gravel and bridge expansion joints, and lengthen effective stability - the reason Honda fits 16-inch fronts to the Vision and SH family, covered in our 16-inch [wheel guide]({{ '/articles/16-inch-wheel-scooters-vietnam/' | relative_url }}). The costs: heavier steering at parking speeds and a higher structure around the wheel.
 
 ## Mixed setups
 
-Many models pair a big front with a smaller rear (Vision 16/14-class, SH Mode 16/14): front stability where braking load lives, rear agility and boot space. Read wheel size together with wheelbase (our stability guide) - the two shape ride quality jointly. Contact us to confirm current availability of any model you shortlist.
+Many models pair a big front with a smaller rear (Vision 16/14-class, SH Mode 16/14): front stability where braking load lives, rear agility and boot space. Read wheel size together with wheelbase (our stability [guide]({{ '/articles/scooter-wheelbase-stability-explained/' | relative_url }})) - the two shape ride quality jointly. Contact us to confirm current availability of any model you shortlist.

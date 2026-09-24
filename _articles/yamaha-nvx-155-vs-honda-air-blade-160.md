@@ -25,7 +25,7 @@ Before the Vario 160 arrived, this was the sporty-commuter duel in Vietnam: Yama
 
 ## Engine and performance
 
-The Air Blade 160's 156.9 cc liquid-cooled engine produces 11.2 kW at 8,000 rpm and 14.8 Nm at 6,000 rpm. The NVX 155's 155.1 cc Blue Core VVA engine produces 11.3 kW at 8,000 rpm and 13.9 Nm at 6,500 rpm. Essentially equal power; the Honda holds a small torque advantage lower in the rev range, while the Yamaha's variable valve timing favours a wider spread. On the road both are quick automatics - our power and torque explainer puts the numbers in context.
+The Air Blade 160's 156.9 cc liquid-cooled engine produces 11.2 kW at 8,000 rpm and 14.8 Nm at 6,000 rpm. The NVX 155's 155.1 cc Blue Core VVA engine produces 11.3 kW at 8,000 rpm and 13.9 Nm at 6,500 rpm. Essentially equal power; the Honda holds a small torque advantage lower in the rev range, while the Yamaha's variable valve timing favours a wider spread. On the road both are quick automatics - our power [and torque explainer]({{ '/articles/underbone-power-torque-explained/' | relative_url }}) puts the numbers in context.
 
 ## Weight and chassis
 

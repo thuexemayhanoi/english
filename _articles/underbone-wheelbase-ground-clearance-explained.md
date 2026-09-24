@@ -32,7 +32,7 @@ A long wheelbase buys straight-line stability and calm two-up behaviour - the CB
 
 ## Ground clearance: the Vietnamese number
 
-Blade: 141 mm. CT125: 165 mm. Winner R: 153 mm. CBR150R: 151 mm. Wave RSX: 135 mm. Super Cub: 136 mm. Future 125: 133 mm. Wave Alpha: 134 mm. The CT125's 165 mm - highest in Honda's listed range - is what makes it the flooded-street and gravel-track machine; our potholes and flooded-streets guides cover exactly the conditions clearance decides. The commuter classics cluster at 133-135 mm, which is fine for tarmac and kerbs but scrape early on broken rural roads.
+Blade: 141 mm. CT125: 165 mm. Winner R: 153 mm. CBR150R: 151 mm. Wave RSX: 135 mm. Super Cub: 136 mm. Future 125: 133 mm. Wave Alpha: 134 mm. The CT125's 165 mm - highest in Honda's listed range - is what makes it the flooded-street and gravel-track machine; our potholes [and flooded-streets guide]({{ '/articles/potholes-bad-roads-motorbike-vietnam/' | relative_url }})s cover exactly the conditions clearance decides. The commuter classics cluster at 133-135 mm, which is fine for tarmac and kerbs but scrape early on broken rural roads.
 
 ## Choosing
 

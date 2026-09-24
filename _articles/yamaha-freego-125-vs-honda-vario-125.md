@@ -33,7 +33,7 @@ FreeGo: 25-litre underseat bay, smart key, LED headlight, charging port, disc/dr
 
 ## Weight and seat
 
-FreeGo: 100 kg wet, 780 mm seat. Vario: 111 kg, 769 mm seat. Taller riders sit higher on the FreeGo; shorter riders will find the Vario's lower seat easier - see our short-riders guide.
+FreeGo: 100 kg wet, 780 mm seat. Vario: 111 kg, 769 mm seat. Taller riders sit higher on the FreeGo; shorter riders will find the Vario's lower seat easier - see our short-riders [guide]({{ '/articles/best-underbones-short-riders-verified/' | relative_url }}).
 
 ## Price
 

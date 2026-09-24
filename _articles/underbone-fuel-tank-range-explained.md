@@ -36,4 +36,4 @@ The thriftiest bike (Future 125, 1.47 L/100 km) and the thirstiest (CBR150R) can
 
 ## Practical notes for Vietnam
 
-Most underbones here still run a fuel tap with a reserve position - our fuel-tap guide explains using it before it uses you. And plan rural legs by station density, not just range; the mountain provinces thin out on Sunday evenings. For rental riders, the Wave class (150,000 VND/day, price-published) carries 3.7 litres - fine for the city, plan fuel stops beyond it. Contact us to confirm current availability.
+Most underbones here still run a fuel tap with a reserve position - our fuel-tap [guide]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}) explains using it before it uses you. And plan rural legs by station density, not just range; the mountain provinces thin out on Sunday evenings. For rental riders, the Wave class (150,000 VND/day, price-published) carries 3.7 litres - fine for the city, plan fuel stops beyond it. Contact us to confirm current availability.

@@ -40,7 +40,7 @@ Selling guides are blunt: plan to recover a fair share of what you paid on a hea
 
 ## The paperwork
 
-Selling legally means transferring ownership: the bluecard, a signed sales contract between you and the buyer, and both parties' ID. Buyers who know Vietnam will walk away from a bike with no contract or mismatched papers — see our bluecard guide for why the document is half the bike's value. Keep your own copy of everything, and do not hand over originals before payment clears.
+Selling legally means transferring ownership: the bluecard, a signed sales contract between you and the buyer, and both parties' ID. Buyers who know Vietnam will walk away from a bike with no contract or mismatched papers — see our bluecard [guide]({{ '/articles/motorbike-bluecard-ownership-papers-vietnam/' | relative_url }}) for why the document is half the bike's value. Keep your own copy of everything, and do not hand over originals before payment clears.
 
 ## Timing and price strategy
 

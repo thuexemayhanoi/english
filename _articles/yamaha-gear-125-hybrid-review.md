@@ -30,11 +30,11 @@ A Blue Core 124.9 cc single-cylinder four-stroke engine, air-cooled, with electr
 
 ## Fuel economy and range
 
-Yamaha's published consumption is 1.7 litres/100 km from a 5.1-litre tank - the most economical figure we have recorded from a manufacturer page, ranking it first in our verified fuel-economy table. Real-world consumption always varies with traffic, load and riding style.
+Yamaha's published consumption is 1.7 litres/100 km from a 5.1-litre tank - the most economical figure we have recorded from a manufacturer page, ranking it first in our [verified fuel-economy table]({{ '/articles/scooter-fuel-economy-comparison-vietnam/' | relative_url }}). Real-world consumption always varies with traffic, load and riding style.
 
 ## Size, weight and handling
 
-At 96 kg it is the lightest scooter in our verified weight table - lighter than the Honda Vision's 97 kg and the Yamaha Janus's 97 kg. Seat height is 750 mm, dimensions 1850 x 685 x 1075 mm, wheelbase 1,280 mm, ground clearance 135 mm. The long, flat dual seat (790 mm long) and the flat footboard make it comfortable for taller riders and pillions alike, and a rear grab bar with an integrated hook helps with carrying.
+At 96 kg it is the lightest scooter [verified weight table]({{ '/articles/scooter-kerb-weights-vietnam-verified/' | relative_url }}) - lighter than the Honda Vision's 97 kg and the Yamaha Janus's 97 kg. Seat height is 750 mm, dimensions 1850 x 685 x 1075 mm, wheelbase 1,280 mm, ground clearance 135 mm. The long, flat dual seat (790 mm long) and the flat footboard make it comfortable for taller riders and pillions alike, and a rear grab bar with an integrated hook helps with carrying.
 
 ## Equipment
 
@@ -48,4 +48,4 @@ Nguyen Tu does not publish a rental rate for the Gear 125. Contact us to confirm
 
 ## What to check before you ride one
 
-Brake feel, tyre condition and the pre-ride basics in our motorbike safety checklist. Licence rules in Vietnam follow engine capacity - the 125 cc class is explained in our licence guides.
+Brake feel, tyre condition and the pre-ride basics in our motorbike [safety checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}). Licence rules in Vietnam follow engine capacity - the 125 cc class is explained in our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}).

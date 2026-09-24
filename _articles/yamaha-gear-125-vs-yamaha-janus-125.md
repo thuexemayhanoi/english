@@ -25,11 +25,11 @@ Yamaha's two entry scooters sit within a few million dong of each other, and the
 
 ## Engine and hybrid assist
 
-Both use a 124.9 cc Blue Core single-cylinder engine with CVT. The Janus publishes 7.0 kW at 8,000 rpm and 9.6 Nm at 5,500 rpm; the Gear publishes 6.2 kW at 6,500 rpm and a lower-peaking 10.6 Nm at 4,500 rpm. The Gear's trick is the hybrid system: for up to three seconds after launch, an electric motor assist feeds extra pull into take-offs - useful two-up or uphill, and explained in our hybrid systems guide.
+Both use a 124.9 cc Blue Core single-cylinder engine with CVT. The Janus publishes 7.0 kW at 8,000 rpm and 9.6 Nm at 5,500 rpm; the Gear publishes 6.2 kW at 6,500 rpm and a lower-peaking 10.6 Nm at 4,500 rpm. The Gear's trick is the hybrid system: for up to three seconds after launch, an electric motor assist feeds extra pull into take-offs - useful two-up or uphill, and explained in our hybrid [systems guide]({{ '/articles/scooter-hybrid-systems-explained/' | relative_url }}).
 
 ## Fuel economy
 
-The Gear is the most economical scooter in our verified table: 1.7 L/100 km published, versus the Janus's 1.98 L/100 km. The Gear also carries more fuel: a 5.1-litre tank against the Janus's 4.2 litres. For riders covering big monthly distances, that difference compounds - our fuel economy ranking has the full table.
+The Gear is the most economical scooter [verified table]({{ '/articles/scooter-fuel-economy-comparison-vietnam/' | relative_url }}): 1.7 L/100 km published, versus the Janus's 1.98 L/100 km. The Gear also carries more fuel: a 5.1-litre tank against the Janus's 4.2 litres. For riders covering big monthly distances, that difference compounds - our fuel economy ranking has the full table.
 
 ## Weight and size
 

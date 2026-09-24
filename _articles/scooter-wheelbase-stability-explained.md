@@ -37,7 +37,7 @@ Two numbers dominate how stable a scooter feels at speed: wheel size (covered in
 
 ## What a longer wheelbase does
 
-A longer wheelbase resists pitching - the bike settles rather than bobs over broken surfaces, holds its line through fast curves, and feels calmer with a pillion or heavy cargo. That is why the two long-wheelbase machines (NVX, SH160i) are the natural two-up and long-distance choices, as our two-up guide explains.
+A longer wheelbase resists pitching - the bike settles rather than bobs over broken surfaces, holds its line through fast curves, and feels calmer with a pillion or heavy cargo. That is why the two long-wheelbase machines (NVX, SH160i) are the natural two-up and long-distance choices, as our two-up [guide]({{ '/articles/best-motorbike-for-two-people-hanoi/' | relative_url }}) explains.
 
 ## What a shorter wheelbase does
 

@@ -19,7 +19,7 @@ last_reviewed: 2026-09-22
 review_status: VERIFIED
 sources:
   - "https://www.csgt.vn/m/tintuc/10858/Khong-chap-hanh-hieu-lenh-cua-Canh-sat-giao-thong-bi-phat-nhu-the-nao.html — Cục Cảnh sát giao thông (Traffic Police Department): failure to comply with traffic-police orders and its penalties"
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 58 (documents to carry)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 56 (documents to carry)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 18 (document-carriage fines)"
 internal_link_targets: "documents-to-carry-motorbike-vietnam, motorbike-fines-vietnam-overview, motorbike-accident-duties-vietnam, compulsory-motorbike-insurance-vietnam, drink-driving-limits-motorbike-vietnam"
 ---

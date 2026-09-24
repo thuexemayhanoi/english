@@ -3,8 +3,8 @@
   "counts": {
     "P0": 0,
     "P1": 0,
-    "P2": 60,
-    "P3": 123
+    "P2": 4,
+    "P3": 384
   },
   "findings": [
     {
@@ -16,8 +16,169 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/50cc-brakes-drum-checks.md",
+      "url": "/articles/50cc-brakes-drum-checks/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-common-problems-first-year.md",
+      "url": "/articles/50cc-common-problems-first-year/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-day-trip-range-limits.md",
+      "url": "/articles/50cc-day-trip-range-limits/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-fines-vietnam.md",
+      "url": "/articles/50cc-fines-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-hills-bridges-hanoi.md",
+      "url": "/articles/50cc-hills-bridges-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-in-the-rain-vietnam.md",
+      "url": "/articles/50cc-in-the-rain-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/50cc-licence-vietnam.md",
       "url": "/articles/50cc-licence-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-mopeds-vs-50cc-underbones.md",
+      "url": "/articles/50cc-mopeds-vs-50cc-underbones/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-motorbike-myths-law-vietnam.md",
+      "url": "/articles/50cc-motorbike-myths-law-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-night-riding-visibility.md",
+      "url": "/articles/50cc-night-riding-visibility/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-parking-hanoi.md",
+      "url": "/articles/50cc-parking-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-pre-ride-checklist.md",
+      "url": "/articles/50cc-pre-ride-checklist/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-resale-value-vietnam.md",
+      "url": "/articles/50cc-resale-value-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-running-costs-vietnam.md",
+      "url": "/articles/50cc-running-costs-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-summer-heat-riding-hanoi.md",
+      "url": "/articles/50cc-summer-heat-riding-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-training-high-school-vietnam.md",
+      "url": "/articles/50cc-training-high-school-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-training-high-school-vietnam.md",
+      "url": "/articles/50cc-training-high-school-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-tyres-small-wheels-care.md",
+      "url": "/articles/50cc-tyres-small-wheels-care/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-vs-110cc-motorbike-vietnam.md",
+      "url": "/articles/50cc-vs-110cc-motorbike-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-vs-e-bike-vietnam.md",
+      "url": "/articles/50cc-vs-e-bike-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-vs-e-bike-vietnam.md",
+      "url": "/articles/50cc-vs-e-bike-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-vs-electric-moped-4kw.md",
+      "url": "/articles/50cc-vs-electric-moped-4kw/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-vs-electric-moped-4kw.md",
+      "url": "/articles/50cc-vs-electric-moped-4kw/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/50cc-weekly-maintenance-checks.md",
+      "url": "/articles/50cc-weekly-maintenance-checks/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -34,6 +195,48 @@
       "url": "/articles/a1-licence-vietnam-what-you-can-ride/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/abs-on-underbones-vietnam-explained.md",
+      "url": "/articles/abs-on-underbones-vietnam-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/aftermarket-horns-motorbikes.md",
+      "url": "/articles/aftermarket-horns-motorbikes/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/aftermarket-led-headlight-bulbs.md",
+      "url": "/articles/aftermarket-led-headlight-bulbs/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/apartment-living-motorbike-hanoi.md",
+      "url": "/articles/apartment-living-motorbike-hanoi/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/apartment-living-motorbike-hanoi.md",
+      "url": "/articles/apartment-living-motorbike-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/assist-slipper-clutch-explained.md",
+      "url": "/articles/assist-slipper-clutch-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
     },
     {
       "severity": "P3",
@@ -58,10 +261,73 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/ba-dinh-area-guide-riders.md",
+      "url": "/articles/ba-dinh-area-guide-riders/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/ba-dinh-area-guide-riders.md",
+      "url": "/articles/ba-dinh-area-guide-riders/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/bac-ninh-craft-loop-motorbike-ride.md",
+      "url": "/articles/bac-ninh-craft-loop-motorbike-ride/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/bat-trang-pottery-village-motorbike-ride.md",
+      "url": "/articles/bat-trang-pottery-village-motorbike-ride/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-110cc-underbones-vietnam-verified.md",
+      "url": "/articles/best-110cc-underbones-vietnam-verified/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-125cc-scooters-vietnam-verified.md",
+      "url": "/articles/best-125cc-scooters-vietnam-verified/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-150cc-manual-motorbikes-vietnam-verified.md",
+      "url": "/articles/best-150cc-manual-motorbikes-vietnam-verified/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-155-160cc-scooters-vietnam.md",
+      "url": "/articles/best-155-160cc-scooters-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/best-bike-for-english-teachers-hanoi.md",
       "url": "/articles/best-bike-for-english-teachers-hanoi/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-electric-moped-students-vietnam.md",
+      "url": "/articles/best-electric-moped-students-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
     },
     {
       "severity": "P3",
@@ -121,8 +387,99 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/best-scooters-cargo-storage-vietnam.md",
+      "url": "/articles/best-scooters-cargo-storage-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-scooters-hanoi-commuting-verified.md",
+      "url": "/articles/best-scooters-hanoi-commuting-verified/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-scooters-rainy-season-commuting-vietnam.md",
+      "url": "/articles/best-scooters-rainy-season-commuting-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-scooters-tall-riders-vietnam.md",
+      "url": "/articles/best-scooters-tall-riders-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-scooters-two-up-riding-vietnam.md",
+      "url": "/articles/best-scooters-two-up-riding-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-underbones-delivery-riders-verified.md",
+      "url": "/articles/best-underbones-delivery-riders-verified/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-underbones-high-mileage-verified.md",
+      "url": "/articles/best-underbones-high-mileage-verified/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-underbones-short-riders-verified.md",
+      "url": "/articles/best-underbones-short-riders-verified/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/best-underbones-tall-riders-verified.md",
+      "url": "/articles/best-underbones-tall-riders-verified/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/buying-50cc-for-your-teenager-vietnam.md",
+      "url": "/articles/buying-50cc-for-your-teenager-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/buying-50cc-motorbike-vietnam.md",
+      "url": "/articles/buying-50cc-motorbike-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/buying-used-electric-motorbike-vietnam.md",
+      "url": "/articles/buying-used-electric-motorbike-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/can-foreigners-rent-a-motorbike-hanoi.md",
       "url": "/articles/can-foreigners-rent-a-motorbike-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/can-foreigners-ride-50cc-vietnam.md",
+      "url": "/articles/can-foreigners-ride-50cc-vietnam/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -142,8 +499,64 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/can-you-ride-electric-motorbike-with-car-licence-vietnam.md",
+      "url": "/articles/can-you-ride-electric-motorbike-with-car-licence-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/carrying-pillion-50cc-vietnam.md",
+      "url": "/articles/carrying-pillion-50cc-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/carrying-pillion-50cc-vietnam.md",
+      "url": "/articles/carrying-pillion-50cc-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/charging-electric-motorbike-at-home-vietnam.md",
+      "url": "/articles/charging-electric-motorbike-at-home-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/charging-electric-motorbike-at-home-vietnam.md",
+      "url": "/articles/charging-electric-motorbike-at-home-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/cheapest-electric-motorbikes-vietnam-list-prices.md",
+      "url": "/articles/cheapest-electric-motorbikes-vietnam-list-prices/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/child-passengers-motorbike-vietnam.md",
       "url": "/articles/child-passengers-motorbike-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/choosing-hanoi-neighbourhood-motorbike-access.md",
+      "url": "/articles/choosing-hanoi-neighbourhood-motorbike-access/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/choosing-hanoi-neighbourhood-motorbike-access.md",
+      "url": "/articles/choosing-hanoi-neighbourhood-motorbike-access/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -177,6 +590,13 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/do-electric-motorbikes-need-insurance-vietnam.md",
+      "url": "/articles/do-electric-motorbikes-need-insurance-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/do-hanoi-rentals-include-helmets.md",
       "url": "/articles/do-hanoi-rentals-include-helmets/",
       "issue": "meta description longer than 165 chars",
@@ -193,6 +613,13 @@
       "severity": "P3",
       "file": "_articles/do-rentals-keep-your-passport-hanoi.md",
       "url": "/articles/do-rentals-keep-your-passport-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/do-you-need-insurance-for-50cc-vietnam.md",
+      "url": "/articles/do-you-need-insurance-for-50cc-vietnam/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -226,6 +653,20 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/duong-lam-ancient-village-motorbike-ride.md",
+      "url": "/articles/duong-lam-ancient-village-motorbike-ride/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/e-bike-helmet-rules-vietnam.md",
+      "url": "/articles/e-bike-helmet-rules-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/easiest-motorbikes-for-beginners-hanoi.md",
       "url": "/articles/easiest-motorbikes-for-beginners-hanoi/",
       "issue": "meta description longer than 165 chars",
@@ -240,8 +681,99 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/electric-motorbike-battery-chemistry-vietnam.md",
+      "url": "/articles/electric-motorbike-battery-chemistry-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/electric-motorbike-battery-replacement-vietnam.md",
+      "url": "/articles/electric-motorbike-battery-replacement-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/electric-motorbike-charging-time-planning-vietnam.md",
+      "url": "/articles/electric-motorbike-charging-time-planning-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/electric-motorbike-cost-ownership-vietnam.md",
+      "url": "/articles/electric-motorbike-cost-ownership-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/electric-motorbike-day-trips-range-planning-hanoi.md",
+      "url": "/articles/electric-motorbike-day-trips-range-planning-hanoi/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/electric-motorbike-older-riders-vietnam.md",
+      "url": "/articles/electric-motorbike-older-riders-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/electric-motorbike-power-kw-licence-vietnam.md",
+      "url": "/articles/electric-motorbike-power-kw-licence-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/electric-motorbike-range-real-world-vietnam.md",
+      "url": "/articles/electric-motorbike-range-real-world-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/electric-motorbike-resale-value-vietnam.md",
+      "url": "/articles/electric-motorbike-resale-value-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/electric-motorbike-silent-riding-safety.md",
+      "url": "/articles/electric-motorbike-silent-riding-safety/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/electric-start-starter-motor-problems.md",
       "url": "/articles/electric-start-starter-motor-problems/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/electric-two-wheeler-speed-classes-vietnam.md",
+      "url": "/articles/electric-two-wheeler-speed-classes-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/electric-vs-petrol-motorbike-hanoi.md",
+      "url": "/articles/electric-vs-petrol-motorbike-hanoi/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/engine-oil-drain-vs-overhaul-capacity-explained.md",
+      "url": "/articles/engine-oil-drain-vs-overhaul-capacity-explained/",
       "issue": "title longer than 65 chars",
       "fix": "Consider a shorter title"
     },
@@ -258,6 +790,27 @@
       "url": "/articles/english-teachers-monthly-motorbike-hanoi/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/esp-vs-blue-core-engines-explained.md",
+      "url": "/articles/esp-vs-blue-core-engines-explained/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/euro-4-scooters-vietnam.md",
+      "url": "/articles/euro-4-scooters-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/euro-emissions-underbones-vietnam.md",
+      "url": "/articles/euro-emissions-underbones-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
     },
     {
       "severity": "P3",
@@ -275,6 +828,27 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/exploring-cau-giay-by-motorbike.md",
+      "url": "/articles/exploring-cau-giay-by-motorbike/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/exploring-hoan-kiem-by-motorbike.md",
+      "url": "/articles/exploring-hoan-kiem-by-motorbike/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/exploring-hoan-kiem-by-motorbike.md",
+      "url": "/articles/exploring-hoan-kiem-by-motorbike/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/fake-licence-penalties-vietnam.md",
       "url": "/articles/fake-licence-penalties-vietnam/",
       "issue": "meta description longer than 165 chars",
@@ -286,6 +860,20 @@
       "url": "/articles/fast-electric-motorbike-licence-vietnam/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/fastest-motorbikes-under-155cc-vietnam-verified.md",
+      "url": "/articles/fastest-motorbikes-under-155cc-vietnam-verified/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/first-mountain-motorbike-trip-vietnam-comparison.md",
+      "url": "/articles/first-mountain-motorbike-trip-vietnam-comparison/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
     },
     {
       "severity": "P3",
@@ -317,8 +905,183 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/fuel-atm-phone-coverage-rural-rides-vietnam.md",
+      "url": "/articles/fuel-atm-phone-coverage-rural-rides-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/fuel-economy-test-cycles-explained.md",
+      "url": "/articles/fuel-economy-test-cycles-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/getting-around-hanoi-without-vietnamese.md",
+      "url": "/articles/getting-around-hanoi-without-vietnamese/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/grey-import-50cc-vietnam.md",
+      "url": "/articles/grey-import-50cc-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/ha-dong-area-guide-riders.md",
+      "url": "/articles/ha-dong-area-guide-riders/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hai-ba-trung-area-guide-riders.md",
+      "url": "/articles/hai-ba-trung-area-guide-riders/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hanoi-2025-administrative-restructuring-riders.md",
+      "url": "/articles/hanoi-2025-administrative-restructuring-riders/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hanoi-2025-administrative-restructuring-riders.md",
+      "url": "/articles/hanoi-2025-administrative-restructuring-riders/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hanoi-districts-layout-guide-riders.md",
+      "url": "/articles/hanoi-districts-layout-guide-riders/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hanoi-districts-layout-guide-riders.md",
+      "url": "/articles/hanoi-districts-layout-guide-riders/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hanoi-guided-motorbike-tours-vs-self-riding.md",
+      "url": "/articles/hanoi-guided-motorbike-tours-vs-self-riding/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hanoi-markets-motorbike-shopping.md",
+      "url": "/articles/hanoi-markets-motorbike-shopping/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hanoi-motorbike-commute-corridors.md",
+      "url": "/articles/hanoi-motorbike-commute-corridors/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hanoi-motorbike-commute-corridors.md",
+      "url": "/articles/hanoi-motorbike-commute-corridors/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hanoi-motorbike-scams-riders-guide.md",
+      "url": "/articles/hanoi-motorbike-scams-riders-guide/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hanoi-motorbike-shops-streets-guide.md",
+      "url": "/articles/hanoi-motorbike-shops-streets-guide/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hanoi-motorbike-shops-streets-guide.md",
+      "url": "/articles/hanoi-motorbike-shops-streets-guide/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hanoi-motorbike-tunnels-underpasses.md",
+      "url": "/articles/hanoi-motorbike-tunnels-underpasses/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hanoi-street-food-motorbike-ride-guide.md",
+      "url": "/articles/hanoi-street-food-motorbike-ride-guide/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hanoi-to-ho-chi-minh-city-by-motorbike.md",
+      "url": "/articles/hanoi-to-ho-chi-minh-city-by-motorbike/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hanoi-train-street-motorbike-guide.md",
+      "url": "/articles/hanoi-train-street-motorbike-guide/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hanoi-university-areas-riding-guide.md",
+      "url": "/articles/hanoi-university-areas-riding-guide/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hanoi-university-areas-riding-guide.md",
+      "url": "/articles/hanoi-university-areas-riding-guide/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hanoi-weekend-parks-motorbike-outings.md",
+      "url": "/articles/hanoi-weekend-parks-motorbike-outings/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/helmet-law-vietnam.md",
       "url": "/articles/helmet-law-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/helmet-rules-50cc-mopeds.md",
+      "url": "/articles/helmet-rules-50cc-mopeds/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -338,8 +1101,239 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/hoang-mai-area-guide-riders.md",
+      "url": "/articles/hoang-mai-area-guide-riders/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-air-blade-160-review.md",
+      "url": "/articles/honda-air-blade-160-review/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-blade-vs-honda-cbr150r.md",
+      "url": "/articles/honda-blade-vs-honda-cbr150r/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-blade-vs-honda-wave-rsx.md",
+      "url": "/articles/honda-blade-vs-honda-wave-rsx/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-blade-vs-honda-winner-r.md",
+      "url": "/articles/honda-blade-vs-honda-winner-r/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-cbr150r-vs-yamaha-exciter-155.md",
+      "url": "/articles/honda-cbr150r-vs-yamaha-exciter-155/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-esaf-frame-explained.md",
+      "url": "/articles/honda-esaf-frame-explained/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-future-125-riding-guide.md",
+      "url": "/articles/honda-future-125-riding-guide/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-future-125-vs-honda-ct125.md",
+      "url": "/articles/honda-future-125-vs-honda-ct125/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-future-125-vs-honda-winner-r.md",
+      "url": "/articles/honda-future-125-vs-honda-winner-r/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-pgm-fi-explained.md",
+      "url": "/articles/honda-pgm-fi-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-sh-160-review.md",
+      "url": "/articles/honda-sh-160-review/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-sh-mode-125-review.md",
+      "url": "/articles/honda-sh-mode-125-review/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-sh-mode-125-vs-honda-air-blade-160.md",
+      "url": "/articles/honda-sh-mode-125-vs-honda-air-blade-160/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-sh-mode-125-vs-honda-lead-125.md",
+      "url": "/articles/honda-sh-mode-125-vs-honda-lead-125/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-sh-mode-125-vs-honda-sh-160.md",
+      "url": "/articles/honda-sh-mode-125-vs-honda-sh-160/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-super-cub-c125-review.md",
+      "url": "/articles/honda-super-cub-c125-review/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-super-cub-vs-yamaha-sirius.md",
+      "url": "/articles/honda-super-cub-vs-yamaha-sirius/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-vario-125-review.md",
+      "url": "/articles/honda-vario-125-review/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-vario-125-vs-honda-lead-125.md",
+      "url": "/articles/honda-vario-125-vs-honda-lead-125/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-vario-125-vs-yamaha-latte-125.md",
+      "url": "/articles/honda-vario-125-vs-yamaha-latte-125/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-vario-160-review.md",
+      "url": "/articles/honda-vario-160-review/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-vario-160-vs-honda-air-blade-160.md",
+      "url": "/articles/honda-vario-160-vs-honda-air-blade-160/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-vario-160-vs-yamaha-nvx-155.md",
+      "url": "/articles/honda-vario-160-vs-yamaha-nvx-155/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-vision-110-review.md",
+      "url": "/articles/honda-vision-110-review/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-vision-vs-honda-vario-125.md",
+      "url": "/articles/honda-vision-vs-honda-vario-125/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-wave-alpha-vs-honda-future-125.md",
+      "url": "/articles/honda-wave-alpha-vs-honda-future-125/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-wave-alpha-vs-honda-winner-r.md",
+      "url": "/articles/honda-wave-alpha-vs-honda-winner-r/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-wave-alpha-vs-yamaha-exciter-155.md",
+      "url": "/articles/honda-wave-alpha-vs-yamaha-exciter-155/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-wave-rsx-vs-honda-super-cub.md",
+      "url": "/articles/honda-wave-rsx-vs-honda-super-cub/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-wave-rsx-vs-yamaha-exciter-155.md",
+      "url": "/articles/honda-wave-rsx-vs-yamaha-exciter-155/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/how-deposit-returns-work-hanoi.md",
       "url": "/articles/how-deposit-returns-work-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/how-far-motorbike-day-trip-hanoi.md",
+      "url": "/articles/how-far-motorbike-day-trip-hanoi/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/how-fast-can-a-50cc-motorbike-go.md",
+      "url": "/articles/how-fast-can-a-50cc-motorbike-go/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -366,6 +1360,13 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/how-to-read-motorbike-spec-sheet-vietnam.md",
+      "url": "/articles/how-to-read-motorbike-spec-sheet-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/how-to-rent-a-motorbike-hanoi.md",
       "url": "/articles/how-to-rent-a-motorbike-hanoi/",
       "issue": "title longer than 65 chars",
@@ -377,6 +1378,20 @@
       "url": "/articles/how-to-rent-a-motorbike-hanoi/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/how-to-ride-manual-clutch-motorbike-vietnam.md",
+      "url": "/articles/how-to-ride-manual-clutch-motorbike-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/hung-kings-temple-phu-tho-motorbike-trip.md",
+      "url": "/articles/hung-kings-temple-phu-tho-motorbike-trip/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
     },
     {
       "severity": "P3",
@@ -401,10 +1416,24 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/is-a-50cc-enough-for-hanoi.md",
+      "url": "/articles/is-a-50cc-enough-for-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/is-insurance-included-motorbike-rental-hanoi.md",
       "url": "/articles/is-insurance-included-motorbike-rental-hanoi/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/kick-vs-electric-start-explained.md",
+      "url": "/articles/kick-vs-electric-start-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
     },
     {
       "severity": "P3",
@@ -422,6 +1451,13 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/learning-to-ride-on-50cc-vietnam.md",
+      "url": "/articles/learning-to-ride-on-50cc-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/leaving-accident-scene-vietnam.md",
       "url": "/articles/leaving-accident-scene-vietnam/",
       "issue": "meta description longer than 165 chars",
@@ -433,6 +1469,48 @@
       "url": "/articles/lending-motorbike-unlicensed-rider-vietnam/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/list-price-vs-on-road-cost-vietnam.md",
+      "url": "/articles/list-price-vs-on-road-cost-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/long-bien-area-guide-riders.md",
+      "url": "/articles/long-bien-area-guide-riders/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/long-bien-bridge-motorbike-guide.md",
+      "url": "/articles/long-bien-bridge-motorbike-guide/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/long-bien-bridge-motorbike-guide.md",
+      "url": "/articles/long-bien-bridge-motorbike-guide/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/longest-range-scooters-vietnam.md",
+      "url": "/articles/longest-range-scooters-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/longest-range-underbones-vietnam-verified.md",
+      "url": "/articles/longest-range-underbones-vietnam-verified/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
     },
     {
       "severity": "P3",
@@ -464,6 +1542,20 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/manual-motorbike-u-turn-technique.md",
+      "url": "/articles/manual-motorbike-u-turn-technique/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/mekong-delta-motorbike-guide.md",
+      "url": "/articles/mekong-delta-motorbike-guide/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/minimum-age-ride-motorbike-vietnam.md",
       "url": "/articles/minimum-age-ride-motorbike-vietnam/",
       "issue": "meta description longer than 165 chars",
@@ -471,8 +1563,64 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/most-comfortable-underbones-vietnam-verified.md",
+      "url": "/articles/most-comfortable-underbones-vietnam-verified/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/most-fuel-efficient-scooters-vietnam-verified.md",
+      "url": "/articles/most-fuel-efficient-scooters-vietnam-verified/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/motorbike-accident-duties-vietnam.md",
       "url": "/articles/motorbike-accident-duties-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/motorbike-bluecard-ownership-papers-vietnam.md",
+      "url": "/articles/motorbike-bluecard-ownership-papers-vietnam/",
+      "issue": "article marked REVIEW_REQUIRED",
+      "fix": "Verify facts against primary sources, then clear review_status"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-bluecard-ownership-papers-vietnam.md",
+      "url": "/articles/motorbike-bluecard-ownership-papers-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/motorbike-border-crossing-vietnam-cambodia.md",
+      "url": "/articles/motorbike-border-crossing-vietnam-cambodia/",
+      "issue": "article marked REVIEW_REQUIRED",
+      "fix": "Verify facts against primary sources, then clear review_status"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/motorbike-border-crossing-vietnam-laos.md",
+      "url": "/articles/motorbike-border-crossing-vietnam-laos/",
+      "issue": "article marked REVIEW_REQUIRED",
+      "fix": "Verify facts against primary sources, then clear review_status"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-border-crossing-vietnam-laos.md",
+      "url": "/articles/motorbike-border-crossing-vietnam-laos/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-border-crossing-vietnam-laos.md",
+      "url": "/articles/motorbike-border-crossing-vietnam-laos/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -487,6 +1635,20 @@
       "severity": "P3",
       "file": "_articles/motorbike-delivery-old-quarter.md",
       "url": "/articles/motorbike-delivery-old-quarter/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-engine-codes-explained.md",
+      "url": "/articles/motorbike-engine-codes-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-ferry-train-transport-vietnam.md",
+      "url": "/articles/motorbike-ferry-train-transport-vietnam/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -596,11 +1758,81 @@
       "fix": "Consider a shorter description"
     },
     {
+      "severity": "P2",
+      "file": "_articles/motorbike-travel-insurance-vietnam.md",
+      "url": "/articles/motorbike-travel-insurance-vietnam/",
+      "issue": "article marked REVIEW_REQUIRED",
+      "fix": "Verify facts against primary sources, then clear review_status"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-travel-insurance-vietnam.md",
+      "url": "/articles/motorbike-travel-insurance-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-travel-insurance-vietnam.md",
+      "url": "/articles/motorbike-travel-insurance-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-trip-navigation-offline-maps-vietnam.md",
+      "url": "/articles/motorbike-trip-navigation-offline-maps-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-trip-prep-checklist-hanoi.md",
+      "url": "/articles/motorbike-trip-prep-checklist-hanoi/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-vs-train-vietnam-long-distance.md",
+      "url": "/articles/motorbike-vs-train-vietnam-long-distance/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-vs-train-vietnam-long-distance.md",
+      "url": "/articles/motorbike-vs-train-vietnam-long-distance/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
       "severity": "P3",
       "file": "_articles/motorbikes-on-expressway-vietnam.md",
       "url": "/articles/motorbikes-on-expressway-vietnam/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/nam-tu-liem-area-guide-riders.md",
+      "url": "/articles/nam-tu-liem-area-guide-riders/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/new-scooter-prices-vietnam-verified.md",
+      "url": "/articles/new-scooter-prices-vietnam-verified/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/ninh-binh-day-trip-motorbike-hanoi.md",
+      "url": "/articles/ninh-binh-day-trip-motorbike-hanoi/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
     },
     {
       "severity": "P3",
@@ -625,8 +1857,29 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/one-way-motorbike-rental-vietnam.md",
+      "url": "/articles/one-way-motorbike-rental-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/outside-repair-shops-rental-motorbike.md",
       "url": "/articles/outside-repair-shops-rental-motorbike/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/overnight-stays-motorbike-trips-vietnam.md",
+      "url": "/articles/overnight-stays-motorbike-trips-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/overnight-stays-motorbike-trips-vietnam.md",
+      "url": "/articles/overnight-stays-motorbike-trips-vietnam/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -653,6 +1906,41 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/portable-jump-starter-packs-motorbikes.md",
+      "url": "/articles/portable-jump-starter-packs-motorbikes/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/power-to-weight-ratio-explained.md",
+      "url": "/articles/power-to-weight-ratio-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/premium-scooters-vietnam.md",
+      "url": "/articles/premium-scooters-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/premium-scooters-vietnam.md",
+      "url": "/articles/premium-scooters-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/premium-underbones-vietnam-verified.md",
+      "url": "/articles/premium-underbones-vietnam-verified/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/punctured-tyre-on-rental-motorbike.md",
       "url": "/articles/punctured-tyre-on-rental-motorbike/",
       "issue": "meta description longer than 165 chars",
@@ -662,6 +1950,20 @@
       "severity": "P3",
       "file": "_articles/red-light-fine-vietnam.md",
       "url": "/articles/red-light-fine-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/red-river-islands-motorbike-guide.md",
+      "url": "/articles/red-river-islands-motorbike-guide/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/red-river-islands-motorbike-guide.md",
+      "url": "/articles/red-river-islands-motorbike-guide/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -688,10 +1990,24 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/renting-50cc-hanoi.md",
+      "url": "/articles/renting-50cc-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/renting-a-motorbike-hanoi-without-licence.md",
       "url": "/articles/renting-a-motorbike-hanoi-without-licence/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/renting-motorbike-da-nang.md",
+      "url": "/articles/renting-motorbike-da-nang/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
     },
     {
       "severity": "P3",
@@ -730,6 +2046,34 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/riding-50cc-at-16-vietnam.md",
+      "url": "/articles/riding-50cc-at-16-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/riding-50cc-hanoi-traffic.md",
+      "url": "/articles/riding-50cc-hanoi-traffic/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/riding-electric-motorbike-hanoi-rain.md",
+      "url": "/articles/riding-electric-motorbike-hanoi-rain/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/riding-motorbike-noi-bai-airport-hanoi.md",
+      "url": "/articles/riding-motorbike-noi-bai-airport-hanoi/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/riding-on-sidewalk-vietnam.md",
       "url": "/articles/riding-on-sidewalk-vietnam/",
       "issue": "meta description longer than 165 chars",
@@ -758,10 +2102,157 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/rotary-gearbox-vs-manual-clutch-explained.md",
+      "url": "/articles/rotary-gearbox-vs-manual-clutch-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/safety-gear-teen-50cc-riders.md",
+      "url": "/articles/safety-gear-teen-50cc-riders/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/scooter-fuel-economy-comparison-vietnam.md",
+      "url": "/articles/scooter-fuel-economy-comparison-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/scooter-fuel-economy-figures-explained.md",
+      "url": "/articles/scooter-fuel-economy-figures-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/scooter-ground-clearance-compared-vietnam.md",
+      "url": "/articles/scooter-ground-clearance-compared-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/scooter-hybrid-systems-explained.md",
+      "url": "/articles/scooter-hybrid-systems-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/scooter-kerb-weights-vietnam-verified.md",
+      "url": "/articles/scooter-kerb-weights-vietnam-verified/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/scooter-payload-load-limits-vietnam.md",
+      "url": "/articles/scooter-payload-load-limits-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/scooter-power-to-weight-explained.md",
+      "url": "/articles/scooter-power-to-weight-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/scooter-seat-heights-comparison-vietnam.md",
+      "url": "/articles/scooter-seat-heights-comparison-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/scooter-seat-heights-comparison-vietnam.md",
+      "url": "/articles/scooter-seat-heights-comparison-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/scooter-tyre-sizes-explained.md",
+      "url": "/articles/scooter-tyre-sizes-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/scooter-vs-semi-automatic-hanoi.md",
       "url": "/articles/scooter-vs-semi-automatic-hanoi/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/scooter-warranty-vietnam-explained.md",
+      "url": "/articles/scooter-warranty-vietnam-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/scooter-warranty-vietnam-explained.md",
+      "url": "/articles/scooter-warranty-vietnam-explained/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/scooter-wheelbase-stability-explained.md",
+      "url": "/articles/scooter-wheelbase-stability-explained/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/scooters-with-smart-keys-vietnam-verified.md",
+      "url": "/articles/scooters-with-smart-keys-vietnam-verified/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/second-hand-riding-gear-risks.md",
+      "url": "/articles/second-hand-riding-gear-risks/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/self-drive-vs-easy-rider-vietnam.md",
+      "url": "/articles/self-drive-vs-easy-rider-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/self-guided-hanoi-motorbike-city-tour.md",
+      "url": "/articles/self-guided-hanoi-motorbike-city-tour/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/selling-motorbike-before-leaving-vietnam.md",
+      "url": "/articles/selling-motorbike-before-leaving-vietnam/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/semi-automatic-gearbox-explained.md",
+      "url": "/articles/semi-automatic-gearbox-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
     },
     {
       "severity": "P3",
@@ -772,10 +2263,87 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/staying-visible-electric-motorbike.md",
+      "url": "/articles/staying-visible-electric-motorbike/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/stop-and-start-scooters-explained.md",
+      "url": "/articles/stop-and-start-scooters-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/stopped-by-traffic-police-vietnam.md",
       "url": "/articles/stopped-by-traffic-police-vietnam/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/tam-dao-vs-ba-vi-day-trip.md",
+      "url": "/articles/tam-dao-vs-ba-vi-day-trip/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/tam-dao-vs-ba-vi-day-trip.md",
+      "url": "/articles/tam-dao-vs-ba-vi-day-trip/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/tay-ho-west-lake-area-guide-riders.md",
+      "url": "/articles/tay-ho-west-lake-area-guide-riders/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/teaching-teens-50cc-safe-riding.md",
+      "url": "/articles/teaching-teens-50cc-safe-riding/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/test-riding-electric-motorbike-vietnam.md",
+      "url": "/articles/test-riding-electric-motorbike-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/tet-holiday-motorbike-travel-vietnam.md",
+      "url": "/articles/tet-holiday-motorbike-travel-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/thang-long-imperial-citadel-motorbike-guide.md",
+      "url": "/articles/thang-long-imperial-citadel-motorbike-guide/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/thanh-xuan-area-guide-riders.md",
+      "url": "/articles/thanh-xuan-area-guide-riders/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/thay-pagoda-tay-phuong-pagoda-motorbike-route.md",
+      "url": "/articles/thay-pagoda-tay-phuong-pagoda-motorbike-route/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
     },
     {
       "severity": "P3",
@@ -800,8 +2368,78 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/underbone-buying-checklist-verified-specs.md",
+      "url": "/articles/underbone-buying-checklist-verified-specs/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/underbone-frame-design-explained.md",
+      "url": "/articles/underbone-frame-design-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/underbone-kerb-weights-explained.md",
+      "url": "/articles/underbone-kerb-weights-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/underbone-model-years-explained.md",
+      "url": "/articles/underbone-model-years-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/underbone-power-torque-explained.md",
+      "url": "/articles/underbone-power-torque-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/underbone-seat-heights-explained.md",
+      "url": "/articles/underbone-seat-heights-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/underbone-tyre-sizes-explained.md",
+      "url": "/articles/underbone-tyre-sizes-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/underbone-wheelbase-ground-clearance-explained.md",
+      "url": "/articles/underbone-wheelbase-ground-clearance-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/unregistered-motorbike-fine-vietnam.md",
       "url": "/articles/unregistered-motorbike-fine-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/upgrading-from-50cc-to-110cc.md",
+      "url": "/articles/upgrading-from-50cc-to-110cc/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/used-50cc-inspection-checklist.md",
+      "url": "/articles/used-50cc-inspection-checklist/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -821,6 +2459,13 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/vietnam-electric-two-wheeler-market-overview.md",
+      "url": "/articles/vietnam-electric-two-wheeler-market-overview/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/vietnam-licence-test-in-english.md",
       "url": "/articles/vietnam-licence-test-in-english/",
       "issue": "meta description longer than 165 chars",
@@ -828,8 +2473,78 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/vietnam-monsoon-season-motorbike-travel.md",
+      "url": "/articles/vietnam-monsoon-season-motorbike-travel/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/vietnam-motorbike-backpacker-trail.md",
+      "url": "/articles/vietnam-motorbike-backpacker-trail/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/vietnam-motorbike-licence-classes-explained.md",
       "url": "/articles/vietnam-motorbike-licence-classes-explained/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/vietnam-road-signs-guide.md",
+      "url": "/articles/vietnam-road-signs-guide/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/vinfast-electric-scooter-lineup-vietnam.md",
+      "url": "/articles/vinfast-electric-scooter-lineup-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/vinfast-evo-lite-review.md",
+      "url": "/articles/vinfast-evo-lite-review/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/vinfast-evo-lite-vs-amio.md",
+      "url": "/articles/vinfast-evo-lite-vs-amio/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/west-lake-loop-motorbike-route.md",
+      "url": "/articles/west-lake-loop-motorbike-route/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/wet-vs-dry-weight-explained.md",
+      "url": "/articles/wet-vs-dry-weight-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/what-a-50cc-service-includes-vietnam.md",
+      "url": "/articles/what-a-50cc-service-includes-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/what-is-a-50cc-motorbike-vietnam.md",
+      "url": "/articles/what-is-a-50cc-motorbike-vietnam/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -856,6 +2571,48 @@
     },
     {
       "severity": "P3",
+      "file": "_articles/which-scooter-engine-class-vietnam.md",
+      "url": "/articles/which-scooter-engine-class-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/which-scooters-have-abs-vietnam.md",
+      "url": "/articles/which-scooters-have-abs-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/who-needs-150cc-manual-motorbike.md",
+      "url": "/articles/who-needs-150cc-manual-motorbike/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/who-rides-50cc-motorbikes-vietnam.md",
+      "url": "/articles/who-rides-50cc-motorbikes-vietnam/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/why-110cc-is-vietnams-default-engine.md",
+      "url": "/articles/why-110cc-is-vietnams-default-engine/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/why-17-inch-wheels-underbones.md",
+      "url": "/articles/why-17-inch-wheels-underbones/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
+    },
+    {
+      "severity": "P3",
       "file": "_articles/wrong-way-riding-fine-vietnam.md",
       "url": "/articles/wrong-way-riding-fine-vietnam/",
       "issue": "meta description longer than 165 chars",
@@ -869,424 +2626,102 @@
       "fix": "Consider a shorter description"
     },
     {
-      "severity": "P2",
-      "file": "index.html",
-      "url": "/",
-      "issue": "missing title (site default used)",
-      "fix": "Add a title front-matter value"
+      "severity": "P3",
+      "file": "_articles/yamaha-gear-125-hybrid-review.md",
+      "url": "/articles/yamaha-gear-125-hybrid-review/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
     },
     {
-      "severity": "P2",
-      "file": "index.html",
-      "url": "/",
-      "issue": "missing meta description (site default used)",
-      "fix": "Add a description front-matter value"
+      "severity": "P3",
+      "file": "_articles/yamaha-gear-125-hybrid-review.md",
+      "url": "/articles/yamaha-gear-125-hybrid-review/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
     },
     {
-      "severity": "P2",
-      "file": "search.md",
-      "url": "/search/",
-      "issue": "missing meta description",
-      "fix": "Add a description front-matter value"
+      "severity": "P3",
+      "file": "_articles/yamaha-grande-review.md",
+      "url": "/articles/yamaha-grande-review/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
     },
     {
-      "severity": "P2",
-      "file": "search.md",
-      "url": "/search/",
-      "issue": "multiple H1 (layout title H1 + body H1)",
-      "fix": "Demote body H1 to H2"
+      "severity": "P3",
+      "file": "_articles/yamaha-janus-125-review.md",
+      "url": "/articles/yamaha-janus-125-review/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
     },
     {
-      "severity": "P2",
-      "file": "_articles/aftermarket-mirrors-motorbike-upgrade.md",
-      "url": "/articles/aftermarket-mirrors-motorbike-upgrade/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
+      "severity": "P3",
+      "file": "_articles/yamaha-latte-vs-yamaha-grande.md",
+      "url": "/articles/yamaha-latte-vs-yamaha-grande/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
     },
     {
-      "severity": "P2",
-      "file": "_articles/air-cooled-vs-liquid-cooled-motorbike.md",
-      "url": "/articles/air-cooled-vs-liquid-cooled-motorbike/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
+      "severity": "P3",
+      "file": "_articles/yamaha-lexi-155-review.md",
+      "url": "/articles/yamaha-lexi-155-review/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
     },
     {
-      "severity": "P2",
-      "file": "_articles/best-motorbikes-for-tall-riders-vietnam.md",
-      "url": "/articles/best-motorbikes-for-tall-riders-vietnam/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
+      "severity": "P3",
+      "file": "_articles/yamaha-lexi-155-vs-honda-vario-160.md",
+      "url": "/articles/yamaha-lexi-155-vs-honda-vario-160/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
     },
     {
-      "severity": "P2",
-      "file": "_articles/brake-light-indicator-repair-motorbike.md",
-      "url": "/articles/brake-light-indicator-repair-motorbike/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
+      "severity": "P3",
+      "file": "_articles/yamaha-nmax-155-review.md",
+      "url": "/articles/yamaha-nmax-155-review/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
     },
     {
-      "severity": "P2",
-      "file": "_articles/breakdowns-during-long-term-rental-hanoi.md",
-      "url": "/articles/breakdowns-during-long-term-rental-hanoi/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
+      "severity": "P3",
+      "file": "_articles/yamaha-nmax-155-vs-honda-air-blade-160.md",
+      "url": "/articles/yamaha-nmax-155-vs-honda-air-blade-160/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
     },
     {
-      "severity": "P2",
-      "file": "_articles/choosing-engine-oil-motorbike-vietnam.md",
-      "url": "/articles/choosing-engine-oil-motorbike-vietnam/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
+      "severity": "P3",
+      "file": "_articles/yamaha-nvx-155-review.md",
+      "url": "/articles/yamaha-nvx-155-review/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
     },
     {
-      "severity": "P2",
-      "file": "_articles/crash-bars-engine-guards-motorbike.md",
-      "url": "/articles/crash-bars-engine-guards-motorbike/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
+      "severity": "P3",
+      "file": "_articles/yamaha-nvx-155-vs-honda-air-blade-160.md",
+      "url": "/articles/yamaha-nvx-155-vs-honda-air-blade-160/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
     },
     {
-      "severity": "P2",
-      "file": "_articles/disc-vs-drum-brakes-motorbike.md",
-      "url": "/articles/disc-vs-drum-brakes-motorbike/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
+      "severity": "P3",
+      "file": "_articles/yamaha-vva-explained.md",
+      "url": "/articles/yamaha-vva-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
     },
     {
-      "severity": "P2",
-      "file": "_articles/e-bike-monthly-rental-hanoi.md",
-      "url": "/articles/e-bike-monthly-rental-hanoi/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
+      "severity": "P3",
+      "file": "_articles/yamaha-vva-explained.md",
+      "url": "/articles/yamaha-vva-explained/",
+      "issue": "meta description longer than 165 chars",
+      "fix": "Consider a shorter description"
     },
     {
-      "severity": "P2",
-      "file": "_articles/english-teachers-monthly-motorbike-hanoi.md",
-      "url": "/articles/english-teachers-monthly-motorbike-hanoi/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/exhaust-care-humid-climate-motorbike.md",
-      "url": "/articles/exhaust-care-humid-climate-motorbike/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/families-monthly-motorbike-hanoi.md",
-      "url": "/articles/families-monthly-motorbike-hanoi/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/final-drive-chain-belt-shaft-compared.md",
-      "url": "/articles/final-drive-chain-belt-shaft-compared/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/grab-rails-backrests-pillion-vietnam.md",
-      "url": "/articles/grab-rails-backrests-pillion-vietnam/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/handlebar-grips-choosing-motorbike.md",
-      "url": "/articles/handlebar-grips-choosing-motorbike/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/helmet-intercoms-bluetooth-vietnam.md",
-      "url": "/articles/helmet-intercoms-bluetooth-vietnam/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/maintenance-log-monthly-rental-motorbike.md",
-      "url": "/articles/maintenance-log-monthly-rental-motorbike/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/monthly-rental-vs-ride-hailing-hanoi.md",
-      "url": "/articles/monthly-rental-vs-ride-hailing-hanoi/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/motorbike-bus-lanes-vietnam.md",
-      "url": "/articles/motorbike-bus-lanes-vietnam/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/motorbike-delivery-long-bien.md",
-      "url": "/articles/motorbike-delivery-long-bien/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/motorbike-delivery-old-quarter.md",
-      "url": "/articles/motorbike-delivery-old-quarter/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/motorbike-learner-permit-vietnam.md",
-      "url": "/articles/motorbike-learner-permit-vietnam/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/motorbike-rental-digital-nomads-hanoi.md",
-      "url": "/articles/motorbike-rental-digital-nomads-hanoi/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/motorbike-rental-english-teachers-hanoi.md",
-      "url": "/articles/motorbike-rental-english-teachers-hanoi/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/motorbike-rental-expats-moving-hanoi.md",
-      "url": "/articles/motorbike-rental-expats-moving-hanoi/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/motorbike-rental-female-riders-hanoi.md",
-      "url": "/articles/motorbike-rental-female-riders-hanoi/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/motorbike-rental-international-students-hanoi.md",
-      "url": "/articles/motorbike-rental-international-students-hanoi/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/motorbike-rental-tourists-hanoi-essentials.md",
-      "url": "/articles/motorbike-rental-tourists-hanoi-essentials/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/nomads-monthly-motorbike-hanoi.md",
-      "url": "/articles/nomads-monthly-motorbike-hanoi/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/oil-leaks-motorbike-finding-fixing.md",
-      "url": "/articles/oil-leaks-motorbike-finding-fixing/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/rear-suspension-preload-riders-luggage.md",
-      "url": "/articles/rear-suspension-preload-riders-luggage/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/rental-motorbike-fuel-what-petrol.md",
-      "url": "/articles/rental-motorbike-fuel-what-petrol/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/rental-motorbike-outside-hanoi.md",
-      "url": "/articles/rental-motorbike-outside-hanoi/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/renting-motorbike-ba-dinh.md",
-      "url": "/articles/renting-motorbike-ba-dinh/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/renting-motorbike-cau-giay.md",
-      "url": "/articles/renting-motorbike-cau-giay/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/renting-motorbike-couple-hanoi.md",
-      "url": "/articles/renting-motorbike-couple-hanoi/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/renting-motorbike-dong-da.md",
-      "url": "/articles/renting-motorbike-dong-da/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/renting-motorbike-hai-ba-trung.md",
-      "url": "/articles/renting-motorbike-hai-ba-trung/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/renting-motorbike-hoan-kiem.md",
-      "url": "/articles/renting-motorbike-hoan-kiem/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/renting-motorbike-noi-bai-arrival.md",
-      "url": "/articles/renting-motorbike-noi-bai-arrival/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/renting-motorbike-tay-ho.md",
-      "url": "/articles/renting-motorbike-tay-ho/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/renting-motorbike-thanh-xuan.md",
-      "url": "/articles/renting-motorbike-thanh-xuan/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/repair-quotes-parts-pricing-vietnam.md",
-      "url": "/articles/repair-quotes-parts-pricing-vietnam/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/ride-125cc-with-car-licence-vietnam.md",
-      "url": "/articles/ride-125cc-with-car-licence-vietnam/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/riding-gear-budget-priority-vietnam.md",
-      "url": "/articles/riding-gear-budget-priority-vietnam/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/scooter-gearbox-oil-atf-basics.md",
-      "url": "/articles/scooter-gearbox-oil-atf-basics/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/scooter-under-seat-storage-guide.md",
-      "url": "/articles/scooter-under-seat-storage-guide/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/scooter-windscreens-vietnam.md",
-      "url": "/articles/scooter-windscreens-vietnam/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/speedometer-not-working-motorbike.md",
-      "url": "/articles/speedometer-not-working-motorbike/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/spoke-wheels-care-truing-vietnam.md",
-      "url": "/articles/spoke-wheels-care-truing-vietnam/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/stands-side-vs-centre-paddock.md",
-      "url": "/articles/stands-side-vs-centre-paddock/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/students-semester-motorbike-rental-hanoi.md",
-      "url": "/articles/students-semester-motorbike-rental-hanoi/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/switching-bikes-mid-rental-hanoi.md",
-      "url": "/articles/switching-bikes-mid-rental-hanoi/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/underage-riding-penalties-vietnam.md",
-      "url": "/articles/underage-riding-penalties-vietnam/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/valve-clearances-motorbike-basics.md",
-      "url": "/articles/valve-clearances-motorbike-basics/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
-    },
-    {
-      "severity": "P2",
-      "file": "_articles/visor-care-anti-fog-motorbike.md",
-      "url": "/articles/visor-care-anti-fog-motorbike/",
-      "issue": "orphan article (nothing links to it)",
-      "fix": "Add it to a hub or related-guides list"
+      "severity": "P3",
+      "file": "_articles/yamaha-vva-variable-valve-timing-explained.md",
+      "url": "/articles/yamaha-vva-variable-valve-timing-explained/",
+      "issue": "title longer than 65 chars",
+      "fix": "Consider a shorter title"
     }
   ]
 }

@@ -131,7 +131,7 @@
     // intents
     var intentMap = {
       price: ['price', 'cost', 'rate', 'fee', 'how much', 'vnd', 'expensive', 'cheap', 'charge'],
-      licence: ['licence', 'license', 'permit', 'idp', 'legal', 'allowed', 'law'],
+      licence: ['licence', 'license', 'permit', 'idp', 'legal', 'allowed', 'law', 'rule', 'rules', 'regulation', 'regulations'],
       deposit: ['deposit', 'security'],
       insurance: ['insurance', 'insured', 'coverage', 'cover'],
       delivery: ['deliver', 'delivery', 'pickup', 'pick up', 'drop off', 'dropoff', 'bring'],
@@ -158,8 +158,15 @@
     // ---- multi-turn context ----
     var followUp = has('what about', 'and the', 'monthly', 'per month', 'per week', 'per day') ||
       tokens.filter(function (t) { return !STOP[t]; }).length <= 3;
+    var ownModel = !!parsed.model;
     if (!parsed.model && ctx.model && (followUp || parsed.period)) parsed.model = ctx.model;
-    if (!parsed.intents.price && !parsed.intents.licence && ctx.intent && followUp) parsed.intents[ctx.intent] = true;
+    // Inherit the previous intent only when the new query carries no signal of
+    // its own: no intent keywords, no model, no 50cc/electric subject. This
+    // keeps "50cc rules" after "Rental prices" answering rules, not prices.
+    var ownIntent = Object.keys(parsed.intents).length > 0;
+    if (!ownIntent && !ownModel && !parsed.c50 && !parsed.electric && ctx.intent && followUp) {
+      parsed.intents[ctx.intent] = true;
+    }
     if (parsed.c50 && ctx.intent === 'licence' && !parsed.intents.licence) parsed.intents.licence = true;
     if (parsed.electric && ctx.intent === 'licence' && !parsed.intents.licence) parsed.intents.licence = true;
 
@@ -189,8 +196,21 @@
     return false;
   }
   function cleanText(s) {
-    // strip markdown link syntax for display: [text](url) -> text
-    return (s || '').replace(/\[([^\]]*)\]\([^)]*\)/g, '$1').replace(/\s+/g, ' ').trim();
+    // Normalize chunk text for display: strip HTML tags first, then decode the
+    // common entities, then strip markdown link syntax: [text](url) -> text.
+    // Chunk bodies can contain inline HTML (<p>, <strong>, ...) from article
+    // content; leaving it in makes the UI render literal escaped tags.
+    return (s || '')
+      .replace(/<[^>]*>/g, ' ')
+      .replace(/&nbsp;/g, ' ')
+      .replace(/&amp;/g, '&')
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&quot;/g, '"')
+      .replace(/&#39;/g, "'")
+      .replace(/&apos;/g, "'")
+      .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
+      .replace(/\s+/g, ' ').trim();
   }
   function sentences(text, max) {
     // No regex lookbehind: older mobile Safari cannot parse it.

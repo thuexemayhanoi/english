@@ -29,7 +29,7 @@ A Blue Core 124.9 cc single-cylinder, two-valve, SOHC engine with forced-air coo
 
 ## Size and handling
 
-Wet weight 100 kg, seat height 780 mm, dimensions 1,915 x 685 x 1,110 mm, wheelbase 1,280 mm, ground clearance 135 mm. The underseat bay holds 25 litres, and the tyre sizes are 100/90-12 front and 110/90-12 rear, both tubeless - mid-size wheels that balance agility and stability (see our tyre sizes explainer).
+Wet weight 100 kg, seat height 780 mm, dimensions 1,915 x 685 x 1,110 mm, wheelbase 1,280 mm, ground clearance 135 mm. The underseat bay holds 25 litres, and the tyre sizes are 100/90-12 front and 110/90-12 rear, both tubeless - mid-size wheels that balance agility and stability (see our tyre [sizes explainer]({{ '/articles/scooter-tyre-sizes-explained/' | relative_url }})).
 
 ## Equipment
 
@@ -41,4 +41,4 @@ Riders who want one affordable scooter that does the daily commute and the occas
 
 ## Renting one
 
-FreeGo is not one of Nguyen Tu's price-published models - contact us to confirm current availability. Before riding off, work through our rental motorbike inspection checklist; licence rules by engine capacity are in our licence guides.
+FreeGo is not one of Nguyen Tu's price-published models - contact us to confirm current availability. Before riding off, work through our rental [motorbike inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}); licence rules by engine capacity are in our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}).

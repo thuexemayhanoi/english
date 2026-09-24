@@ -25,11 +25,11 @@ Yamaha sells three scooters on the same 155.1 cc Blue Core VVA engine - the NMAX
 
 ## Same engine, same numbers
 
-Both publish 11.3 kW at 8,000 rpm and 14.2 Nm at 6,500 rpm from the liquid-cooled VVA engine. There is no performance case between them - the choice is chassis and mission. How VVA varies valve timing and lift is covered in our dedicated explainer.
+Both publish 11.3 kW at 8,000 rpm and 14.2 Nm at 6,500 rpm from the liquid-cooled VVA engine. There is no performance case between them - the choice is chassis and mission. How VVA varies valve timing and lift is [dedicated explainer]({{ '/articles/yamaha-vva-variable-valve-timing-explained/' | relative_url }}).
 
 ## Chassis and comfort
 
-The Lexi is the comfort commuter: 118 kg wet, a low 768 mm seat, 14-inch wheels at both ends and a long 1,353 mm wheelbase for stability - our wheelbase guide explains why that matters on rough streets. The NVX is the sport bike of the pair: 125 kg, 790 mm seat, a fat 140/70-14 rear tyre and sharper steering.
+The Lexi is the comfort commuter: 118 kg wet, a low 768 mm seat, 14-inch wheels at both ends and a long 1,353 mm wheelbase for stability - our wheelbase [guide]({{ '/articles/scooter-wheelbase-stability-explained/' | relative_url }}) explains why that matters on rough streets. The NVX is the sport bike of the pair: 125 kg, 790 mm seat, a fat 140/70-14 rear tyre and sharper steering.
 
 ## Storage and tank
 

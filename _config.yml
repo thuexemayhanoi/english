@@ -24,5 +24,7 @@ exclude:
   - docs
   - README.md
   - Gemfile
+  - scripts
+  - reports
 
 plugins: []

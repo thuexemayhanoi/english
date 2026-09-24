@@ -45,4 +45,4 @@ This is a short-hop machine by design. District lanes, school runs and market tr
 
 ## Who it suits
 
-First-time riders, students below or without licence options, and parents choosing the gentlest entry into powered two-wheelers. For more speed with the same licence-free status, the Evo Lite comparison explains the step up; for the wider student market, see our student moped guide.
+First-time riders, students below or without licence options, and parents choosing the gentlest entry into powered two-wheelers. For more speed with the same licence-free status, the Evo Lite comparison explains the step up; for the wider student market, see our student [moped guide]({{ '/articles/best-electric-moped-students-vietnam/' | relative_url }}).

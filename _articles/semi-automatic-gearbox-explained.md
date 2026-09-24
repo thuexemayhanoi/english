@@ -37,7 +37,7 @@ Twist the throttle to go. Roll off the throttle and press the shifter with your 
 
 ## The trade-offs
 
-Shifting without a clutch is slightly harsher than a manual shift done well, and the clutch cannot be modulated for delicate manoeuvres the way a clutch lever can - see our hill starts guide for how underbone riders handle slopes. Slipping a centrifugal clutch under heavy loads is a real wear mode, covered in our clutch care guide, and hard shifting damages the box - our hard-shifting guide lists the symptoms.
+Shifting without a clutch is slightly harsher than a manual shift done well, and the clutch cannot be modulated for delicate manoeuvres the way a clutch lever can - see our hill [starts guide]({{ '/articles/hill-starts-motorbike-slopes-vietnam/' | relative_url }}) for how underbone riders handle slopes. Slipping a centrifugal clutch under heavy loads is a real wear mode, covered in our clutch [care guide]({{ '/articles/centrifugal-clutch-care-semi-automatic/' | relative_url }}), and hard shifting damages the box - our hard-shifting [guide]({{ '/articles/clutch-drag-hard-neutral-motorbike/' | relative_url }}) lists the symptoms.
 
 ## Why this matters for visitors
 

@@ -27,7 +27,7 @@ ABS prevents a wheel locking under hard braking - the difference between stoppin
 - **Honda Lead:** offered with ABS - Honda Vietnam's own product listing (Lead ABS) is built around it.
 - **Yamaha FreeGo S:** the ABS version is listed on Yamaha Vietnam's FreeGo range page.
 - **Yamaha NVX 155 and Lexi 155:** ABS versions are named in Yamaha's current range.
-- **Entry models** (Vision, Janus): no ABS is listed on the manufacturers' current pages; both use a front disc with rear drum - see our disc vs drum explainer.
+- **Entry models** (Vision, Janus): no ABS is listed on the manufacturers' current pages; both use a front disc with rear drum - see our disc [vs drum explainer]({{ '/articles/disc-vs-drum-brakes-motorbike/' | relative_url }}).
 
 Availability changes with model years - always confirm the exact version at the dealer or rental counter, because ABS can be a version option rather than a model-wide feature.
 

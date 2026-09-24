@@ -45,11 +45,11 @@ The legend is the Honda Win — a cheap Chinese-assembled 100cc manual that a de
 
 ## What has changed
 
-- **Paperwork got serious.** The licence rule (over 50cc needs a Vietnamese licence or 1968-convention IDP) is now enforced and insurance-relevant — see our legal overview. The trail's older "no licence, no problem" era is over.
+- **Paperwork got serious.** The licence rule (over 50cc needs a Vietnamese licence or 1968-convention IDP) is now enforced and insurance-relevant — see our legal [overview]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}). The trail's older "no licence, no problem" era is over.
 - **The roads got good.** The Ho Chi Minh Road turned the middle of the trail from an endurance test into the country's best touring.
 - **The fleet got automatics.** The scooter changed who can ride the trail — most of it is now rideable by a confident automatic-scooter rider, Ha Giang excepted for novices.
 - **The direction flipped.** The riding consensus now tilts north-to-south for the scenery crescendo — save the mountains for... actually the reverse: many now start in Hanoi to ride the north first, because the northern loops have become the point of the whole trip.
 
 ## How riders run it today
 
-Three broad styles: **buy-sell** (weeks-long, total commitment, cheapest per day), **one-way rental with a drop fee** (see our guide), and — increasingly dominant — **the chapters approach**: ride each region on a local rental and connect by train or bus. The chapters approach is what we support best from our side of the country: contact us to confirm current availability for the northern chapter, take the train south, rent again. The trail is a state of mind; the bike under you just needs to be the right one for this week's chapter.
+Three broad styles: **buy-sell** (weeks-long, total commitment, cheapest per day), **one-way rental with a drop fee** (see our [one-way rental guide]({{ '/articles/one-way-motorbike-rental-vietnam/' | relative_url }})), and — increasingly dominant — **the chapters approach**: ride each region on a local rental and connect by train or bus. The chapters approach is what we support best from our side of the country: contact us to confirm current availability for the northern chapter, take the train south, rent again. The trail is a state of mind; the bike under you just needs to be the right one for this week's chapter.

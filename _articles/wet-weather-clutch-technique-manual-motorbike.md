@@ -41,4 +41,4 @@ Wet-weather braking is a braking topic more than a clutch topic, but the two int
 
 The first thirty minutes of a dry-off are still slippery — dust and oil lifted by the rain sit on top of the tarmac. Keep the wet-weather clutch discipline until the road looks properly dry again, and remember that in the dry season the first rain after weeks of dust is the most dangerous road state of all.
 
-Manual bikes reward this patience: riders who learn friction-zone rain technique stall less and slide less. Practise the drills in dry conditions first — our friction-zone guide covers them — so the wet-day version is just a slower repeat. If you want a manual bike for a rainy-season stay in Hanoi, contact us to confirm current availability.
+Manual bikes reward this patience: riders who learn friction-zone rain technique stall less and slide less. Practise the drills in dry conditions first — our friction-zone [guide]({{ '/articles/clutch-control-friction-zone-practice/' | relative_url }}) covers them — so the wet-day version is just a slower repeat. If you want a manual bike for a rainy-season stay in Hanoi, contact us to confirm current availability.

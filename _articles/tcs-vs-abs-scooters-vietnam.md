@@ -24,7 +24,7 @@ ABS and traction control both manage tyre grip, but at opposite ends of the ride
 
 ## ABS - controlling braking
 
-When you brake hard on a slippery surface, a wheel can lock and slide. ABS detects the lock and modulates brake pressure many times per second so the wheel keeps turning - you keep steering and reach a controlled stop. On wet Hanoi paint lines, bridge expansion joints and gravel, front ABS is the single most valuable safety feature on a scooter. Our ABS availability guide lists every model with verified ABS; braking technique still matters - see our emergency braking guide.
+When you brake hard on a slippery surface, a wheel can lock and slide. ABS detects the lock and modulates brake pressure many times per second so the wheel keeps turning - you keep steering and reach a controlled stop. On wet Hanoi paint lines, bridge expansion joints and gravel, front ABS is the single most valuable safety feature on a scooter. Our ABS availability guide lists every model with verified ABS; braking technique still matters - see our emergency [braking guide]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}).
 
 ## Traction control - controlling acceleration
 

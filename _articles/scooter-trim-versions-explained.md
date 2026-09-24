@@ -34,7 +34,7 @@ Vietnamese scooter model names come with version suffixes - The thao (Sport), Da
 
 ## What versions typically change
 
-Verified differences include ABS presence, display type (TFT versus LCD - our displays guide), colours and special editions. What they rarely change: the engine, frame and core dimensions - a Sport NVX publishes the same 11.3 kW as the GP.
+Verified differences include ABS presence, display type (TFT versus LCD - our displays [guide]({{ '/articles/electric-motorbike-smart-features/' | relative_url }})), colours and special editions. What they rarely change: the engine, frame and core dimensions - a Sport NVX publishes the same 11.3 kW as the GP.
 
 ## Practical buying advice
 

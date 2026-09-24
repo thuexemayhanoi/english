@@ -44,4 +44,4 @@ Both classes sit in the same licence bracket for the common sizes - the A1-class
 Sit on both at the shop and try the shift once - the choice usually makes itself in thirty seconds. Contact us to confirm which models are available to try today.
 
 
-For the verified spec side of the semi-automatic question, see our semi-automatic gearbox explainer and the Wave Alpha versus Sirius comparison of the two classic underbones.
+For the verified spec side of the semi-automatic question, see our semi-automatic [gearbox explainer]({{ '/articles/semi-automatic-gearbox-explained/' | relative_url }}) and the Wave Alpha versus Sirius comparison of the two classic underbones.

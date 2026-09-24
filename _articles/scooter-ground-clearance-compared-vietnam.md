@@ -44,4 +44,4 @@ The 24 mm spread between the SH Mode (151 mm) and the Grande (127 mm) is the dif
 
 ## Caveats
 
-Clearance is a static figure: two-up riding, a loaded underseat bay and worn suspension all reduce it dynamically. And clearance is one of three geometry numbers that matter - wheelbase (our stability guide) and seat height matter more to everyday comfort. Read all three together in our spec-sheet guide, and check the specific bike's condition before renting - contact us to confirm current availability.
+Clearance is a static figure: two-up riding, a loaded underseat bay and worn suspension all reduce it dynamically. And clearance is one of three geometry numbers that matter - wheelbase (our stability [guide]({{ '/articles/scooter-wheelbase-stability-explained/' | relative_url }})) and seat height matter more to everyday comfort. Read all three together in our spec-sheet [guide]({{ '/articles/how-to-read-motorbike-spec-sheet-vietnam/' | relative_url }}), and check the specific bike's condition before renting - contact us to confirm current availability.

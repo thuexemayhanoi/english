@@ -36,4 +36,4 @@ Underbone frames are light and the bikes narrow; heavy rear loads change handlin
 
 ## Rental note
 
-Rental underbones typically arrive with a hook or a rack at most - plan a backpack or ask about a top box; our luggage guides cover the options, and renters should confirm what the specific bike carries. The Wave class here is price-published at 150,000 VND/day - contact us to confirm current availability and storage fitments.
+Rental underbones typically arrive with a hook or a rack at most - plan a backpack or ask about a top box; our luggage [guide]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }})s cover the options, and renters should confirm what the specific bike carries. The Wave class here is price-published at 150,000 VND/day - contact us to confirm current availability and storage fitments.

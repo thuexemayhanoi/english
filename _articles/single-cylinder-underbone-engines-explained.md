@@ -24,7 +24,7 @@ From the 18.8-million-VND Wave Alpha to the 88-million-VND Super Cub C125, every
 
 ## The single-cylinder logic
 
-One cylinder means one of everything expensive: one piston, one head, one valve train, one exhaust path. That buys narrow width (filtering through Hanoi gaps), low weight (the commuter class's 96-104 kg), low parts cost (our spare-parts availability guide covers why the supply chain loves this) and mechanical simplicity that any roadside shop can service. The costs - vibration and a power ceiling - are acceptable at 5.9-13.2 kW.
+One cylinder means one of everything expensive: one piston, one head, one valve train, one exhaust path. That buys narrow width (filtering through Hanoi gaps), low weight (the commuter class's 96-104 kg), low parts cost (our spare-parts [availability guide]({{ '/articles/spare-parts-availability-vietnam/' | relative_url }}) covers why the supply chain loves this) and mechanical simplicity that any roadside shop can service. The costs - vibration and a power ceiling - are acceptable at 5.9-13.2 kW.
 
 ## The verified spread of singles
 

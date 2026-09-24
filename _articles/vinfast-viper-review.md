@@ -43,4 +43,4 @@ The 156 km two-battery range sits slightly under the Evo's 165 km — the extra 
 
 ## Who it suits
 
-Riders who want the top of the licence-free class: more motor, better suspension and a security package that matters in city parking. Compare it directly with the Feliz II before deciding, and see our smart-features guide for what the connected kit means day to day.
+Riders who want the top of the licence-free class: more motor, better suspension and a security package that matters in city parking. Compare it directly with the Feliz II before deciding, and see our smart-features [guide]({{ '/articles/electric-motorbike-smart-features/' | relative_url }}) for what the connected kit means day to day.

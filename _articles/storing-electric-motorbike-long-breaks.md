@@ -37,4 +37,4 @@ If the break runs long, have someone give the battery a short maintenance charge
 
 ## When you return
 
-Check the battery percentage before anything else — if the pack has drifted very low, charge gently and follow the manufacturer's instructions. Inspect tyres, brakes and connectors, look for any water ingress or corrosion, then do a short test ride before trusting the machine in traffic. See our tyre care and maintenance guides for the full checklist.
+Check the battery percentage before anything else — if the pack has drifted very low, charge gently and follow the manufacturer's instructions. Inspect tyres, brakes and connectors, look for any water ingress or corrosion, then do a short test ride before trusting the machine in traffic. See our tyre [care and maintenance guide]({{ '/articles/50cc-tyres-small-wheels-care/' | relative_url }})s for the full checklist.

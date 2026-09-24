@@ -28,7 +28,7 @@ Comparing two underbones should be a five-minute exercise in arithmetic, not an 
 2. Torque and its rpm. The off-the-line number. Compare Nm figures, but always check the rpm: 10.9 Nm at 4,750 rpm (CT125) serves traffic; 14.4 Nm at 8,000 rpm (Exciter) serves sport riding.
 3. Claimed economy. Long-term cost of ownership. Verified range: 1.47 L/100 km (Future 125 FI) to 2.91 L/100 km (CBR150R) - and remember real-world figures vary with speed, load and conditions.
 4. Transmission. Rotary four-speed (all semi-automatics) or manual clutch (Winner R, Exciter, CBR150R). This is a skills question before it is a money question.
-5. Seat height. Confidence at every stop: 756-800 mm verified; taller riders should read our tall riders guide before rejecting a bike.
+5. Seat height. Confidence at every stop: 756-800 mm verified; taller riders should read our [tall riders guide]({{ '/articles/best-motorbikes-for-tall-riders-vietnam/' | relative_url }}) before rejecting a bike.
 6. Tank times economy. Range between fills - multiply the two figures.
 7. List price. Last, deliberately: it is a dated manufacturer figure, not the on-the-road cost, and the field above it usually explains it.
 

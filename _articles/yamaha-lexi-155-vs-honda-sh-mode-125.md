@@ -28,11 +28,11 @@ Lexi: 155.1 cc Blue Core VVA, 11.3 kW at 8,000 rpm, 14.2 Nm at 6,500 rpm, 2.19 L
 
 ## Wheels and ride
 
-SH Mode: 80/90-16 front and 100/90-14 rear - the SH-family big front wheel, the best pothole behaviour in the class (our 16-inch wheel guide). Lexi: 90/90-14 and 100/90-14 - big for a Yamaha, smaller than the SH Mode's front.
+SH Mode: 80/90-16 front and 100/90-14 rear - the SH-family big front wheel, the best pothole behaviour in the class (our 16-inch [wheel guide]({{ '/articles/16-inch-wheel-scooters-vietnam/' | relative_url }})). Lexi: 90/90-14 and 100/90-14 - big for a Yamaha, smaller than the SH Mode's front.
 
 ## Weight and seat
 
-Lexi: 118 kg, seat 768 mm. SH Mode: 116 kg, seat 765 mm - the two closest premium-lite matches in our verified tables, with the lowest seats in the premium bracket (see our seat-height comparison).
+Lexi: 118 kg, seat 768 mm. SH Mode: 116 kg, seat 765 mm - the two closest premium-lite matches in our verified tables, with the lowest seats in the premium bracket ([seat-height comparison]({{ '/articles/scooter-seat-heights-comparison-vietnam/' | relative_url }})).
 
 ## Equipment
 

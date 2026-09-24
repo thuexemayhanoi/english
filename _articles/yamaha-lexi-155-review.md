@@ -48,4 +48,4 @@ Nguyen Tu does not publish a rental rate for the Lexi. Contact us to confirm cur
 
 ## What to check before you ride one
 
-Brake feel from the front ABS disc, tyre condition on the 14-inch wheels, and the basics in our motorbike safety checklist. Licence classes in Vietnam follow engine capacity - a 155 cc scooter falls under the A1-class rules explained in our licence guides.
+Brake feel from the front ABS disc, tyre condition on the 14-inch wheels, and the basics in our motorbike [safety checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}). Licence classes in Vietnam follow engine capacity - a 155 cc scooter falls under the A1-class rules explained in our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}).

@@ -34,12 +34,12 @@ The systems sold on Vietnamese scooters are not electric vehicles and cannot rid
 
 ## Verified hybrid models
 
-- Yamaha Gear 125 Hybrid - the system is the model's headline: 96 kg, 1.7 L/100 km published (the best figure in our verified economy table), 17.4L bay, SmartKey.
+- Yamaha Gear 125 Hybrid - the system is the model's headline: 96 kg, 1.7 L/100 km published (the best figure [verified economy table]({{ '/articles/scooter-fuel-economy-comparison-vietnam/' | relative_url }})), 17.4L bay, SmartKey.
 - Yamaha Grande - Yamaha's page describes the Blue Core Hybrid engine family for the current Grande; the page does not publish engine output figures, so we state none.
 
 ## Is the extra battery a reliability risk?
 
-The honest answer is that the system adds components (battery, control unit, assist motor) that a simple scooter does not have, while the manufacturers publish 3-year/30,000 km warranties on these models (Yamaha's listed terms at our retrieval date). Practical ownership guidance: batteries hate being parked for months - our battery care guide covers storage - and assist systems should be diagnosed at brand service points rather than general shops, per our warranty and dealer service guide.
+The honest answer is that the system adds components (battery, control unit, assist motor) that a simple scooter does not have, while the manufacturers publish 3-year/30,000 km warranties on these models (Yamaha's listed terms at our retrieval date). Practical ownership guidance: batteries hate being parked for months - our battery [care guide]({{ '/articles/battery-care-motorbike-vietnam/' | relative_url }}) covers storage - and assist systems should be diagnosed at brand service points rather than general shops, per our warranty [and dealer service guide]({{ '/articles/aftermarket-parts-warranty/' | relative_url }}).
 
 ## Should a renter care?
 

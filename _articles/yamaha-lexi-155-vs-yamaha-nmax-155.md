@@ -29,7 +29,7 @@ NMAX: ABS on both wheels plus traction control. Lexi: front ABS with a rear drum
 
 ## Wheels and stability
 
-Lexi: 90/90-14 front and 100/90-14 rear - the biggest wheels of Yamaha's 155 trio, giving it a calm, planted ride on imperfect roads. NMAX: 110/70-13 and 130/70-13 - sportier, more agile. For commuters crossing bridges and ring roads daily, the Lexi's geometry (1,353 mm wheelbase, the longest here) is genuinely reassuring; our wheelbase explainer has the numbers.
+Lexi: 90/90-14 front and 100/90-14 rear - the biggest wheels of Yamaha's 155 trio, giving it a calm, planted ride on imperfect roads. NMAX: 110/70-13 and 130/70-13 - sportier, more agile. For commuters crossing bridges and ring roads daily, the Lexi's geometry (1,353 mm wheelbase, the longest here) is genuinely reassuring; our wheelbase [explainer]({{ '/articles/scooter-wheelbase-stability-explained/' | relative_url }}) has the numbers.
 
 ## Weight and comfort
 

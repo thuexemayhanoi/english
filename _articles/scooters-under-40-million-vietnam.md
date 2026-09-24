@@ -40,7 +40,7 @@ The Honda Vision sits under this bracket too but Honda's Vision page did not pub
 
 ## What you give up under 40 million
 
-No scooter in this bracket publishes dual-wheel ABS; only the FreeGo S offers ABS at all (see our ABS availability guide). Traction control does not exist at this price. Storage tops out at the Latte's 37 litres. If those matter, the next brackets start around 42 million (Air Blade family, Vario 125) - see our price table.
+No scooter in this bracket publishes dual-wheel ABS; only the FreeGo S offers ABS at all (see our ABS [availability guide]({{ '/articles/abs-on-underbones-vietnam-explained/' | relative_url }})). Traction control does not exist at this price. Storage tops out at the Latte's 37 litres. If those matter, the next brackets start around 42 million (Air Blade family, Vario 125) - see our price table.
 
 ## Buying versus renting at this budget
 

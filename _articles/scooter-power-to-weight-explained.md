@@ -42,8 +42,8 @@ Take maximum power in kilowatts, divide by kerb (or wet) weight in kilograms. Th
 
 ## What the ratio does and does not tell you
 
-It predicts acceleration feel, hill ability and how the bike copes with a pillion - the core of our Hanoi hills guide. It does not capture gearing, torque shape or wheel size; a 14.8 Nm SH160i engine at low rpm still out-pulls figures suggest on ramps (see our power and torque explainer). And add a passenger and the ratio drops for the lighter bike faster - 50 kg of load hurts a 96 kg Janus proportionally more than a 131 kg NMAX.
+It predicts acceleration feel, hill ability and how the bike copes with a pillion - the core of our Hanoi hills guide. It does not capture gearing, torque shape or wheel size; a 14.8 Nm SH160i engine at low rpm still out-pulls figures suggest on ramps (see our power [and torque explainer]({{ '/articles/underbone-power-torque-explained/' | relative_url }})). And add a passenger and the ratio drops for the lighter bike faster - 50 kg of load hurts a 96 kg Janus proportionally more than a 131 kg NMAX.
 
 ## Where to use it
 
-Read ratios alongside our kerb weight table and spec-sheet guide whenever you compare classes. All figures above come from official Honda Vietnam and Yamaha Vietnam pages; where a manufacturer does not publish output, no ratio is computed.
+Read ratios alongside our kerb [weight table and spec-sheet guide]({{ '/articles/scooter-kerb-weights-vietnam-verified/' | relative_url }}) whenever you compare classes. All figures above come from official Honda Vietnam and Yamaha Vietnam pages; where a manufacturer does not publish output, no ratio is computed.

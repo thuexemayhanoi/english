@@ -77,13 +77,25 @@
     msgs.scrollTop = msgs.scrollHeight;
   }
 
+  function renderAnswer(res) {
+    sessionCtx = res.ctx || sessionCtx;
+    msg('bot', res.html + (res.sources && res.sources.length ? sourceLine(res.sources) : '') +
+      (res.fallback ? contactBlock() : ''));
+    chips(res.followUps);
+  }
+
   function respond(q) {
+    // Deterministic business facts answer immediately, without waiting for the
+    // multi-megabyte guide index. Only chunk retrieval needs the index.
+    var ctxBefore = sessionCtx;
+    var direct = AssistantCore.answer(q, { chunks: [], biz: biz, ctx: ctxBefore });
+    if (!direct.fallback) {
+      renderAnswer(direct);
+      return;
+    }
     loadIndex().then(function (chunks) {
-      var res = AssistantCore.answer(q, { chunks: chunks, biz: biz, ctx: sessionCtx });
-      sessionCtx = res.ctx || {};
-      msg('bot', res.html + (res.sources && res.sources.length ? sourceLine(res.sources) : '') +
-        (res.fallback ? contactBlock() : ''));
-      chips(res.followUps);
+      var res = AssistantCore.answer(q, { chunks: chunks, biz: biz, ctx: ctxBefore });
+      renderAnswer(res);
     }).catch(function () {
       msg('bot', "<p>I couldn't load the guide index right now.</p>" + contactBlock());
     });

@@ -36,7 +36,7 @@ Verified outputs cluster at 11.3 kW (NVX, NMAX, Lexi, Vario 160) up to 12.4 kW (
 
 ## Licence and cost notes
 
-Vietnamese licence classes depend on engine capacity - our licence classes guide covers exactly what you can ride on each, which matters for foreigners renting monthly. Bigger classes cost more to buy, slightly more to run, and more to insure.
+Vietnamese licence classes depend on engine capacity - our licence [classes guide]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) covers exactly what you can ride on each, which matters for foreigners renting monthly. Bigger classes cost more to buy, slightly more to run, and more to insure.
 
 ## How to decide
 

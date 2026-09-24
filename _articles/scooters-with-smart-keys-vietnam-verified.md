@@ -45,7 +45,7 @@ A smart key changes your responsibilities slightly: you carry a fob rather than 
 
 ## Things smart keys do not do
 
-No manufacturer system prevents theft by itself, and none replaces a disc lock or careful parking - see our article on effective steering-lock use and the guide to overnight security. The Honda pages we reviewed explicitly describe smart keys as convenience plus alarm features, not anti-theft guarantees.
+No manufacturer system prevents theft by itself, and none replaces a disc lock or careful parking - [article on effective steering-lock use and the guide to overnight security]({{ '/articles/steering-locks-effective-use/' | relative_url }}). The Honda pages we reviewed explicitly describe smart keys as convenience plus alarm features, not anti-theft guarantees.
 
 ## Bottom line
 

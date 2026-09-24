@@ -48,4 +48,4 @@ Nguyen Tu does not publish a rental rate for the NVX. Contact us to confirm curr
 
 ## What to check before you ride one
 
-Tyre wear on that wide rear, brake feel, and the ABS warning lamp sequence at start-up. Then work through our rental motorbike inspection checklist.
+Tyre wear on that wide rear, brake feel, and the ABS warning lamp sequence at start-up. Then work through our rental [motorbike inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}).

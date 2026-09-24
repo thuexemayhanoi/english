@@ -25,7 +25,7 @@ Yamaha sells two very different scooters around the same 155 cc Blue Core VVA en
 
 ## The headline difference: braking hardware
 
-The NMAX has ABS on BOTH wheels plus a traction control system. The NVX 155 VVA ABS has front ABS with a rear drum. That is the single biggest equipment gap between them, and in Hanoi's wet-season traffic it matters - our ABS availability guide and our TCS vs ABS explainer cover what each system does. If maximum safety hardware is your priority, the NMAX wins outright.
+The NMAX has ABS on BOTH wheels plus a traction control system. The NVX 155 VVA ABS has front ABS with a rear drum. That is the single biggest equipment gap between them, and in Hanoi's wet-season traffic it matters - our ABS [availability guide]({{ '/articles/abs-on-underbones-vietnam-explained/' | relative_url }}) and our TCS vs ABS explainer cover what each system does. If maximum safety hardware is your priority, the NMAX wins outright.
 
 ## Power and delivery
 
@@ -45,4 +45,4 @@ At retrieval time Yamaha listed the NVX 155 VVA ABS from 55,300,000 VND and the 
 
 ## Verdict
 
-Choose the NVX for sporty looks, a lighter machine and a lower price; choose the NMAX for dual-wheel ABS, traction control and long-distance comfort. Neither is a rental-fleet staple - contact us to confirm current availability of anything similar - and both need the same pre-ride checks from our motorbike safety checklist.
+Choose the NVX for sporty looks, a lighter machine and a lower price; choose the NMAX for dual-wheel ABS, traction control and long-distance comfort. Neither is a rental-fleet staple - contact us to confirm current availability of anything similar - and both need the same pre-ride checks from our motorbike [safety checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}).

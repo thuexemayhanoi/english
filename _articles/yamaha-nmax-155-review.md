@@ -34,7 +34,7 @@ This is where the NMAX separates itself from almost every scooter in its price c
 
 ## Size, weight and comfort
 
-Yamaha lists 131 kg weight, 770 mm seat height, 1935 x 740 x 1200 mm dimensions, 1,340 mm wheelbase and 127 mm ground clearance. The two-level seat gives rider and pillion their own positions, and the underseat bay holds 24 litres - enough for a full-face helmet plus extras. Maximum payload is listed at 167 kg; what that figure means for rider, passenger and luggage is covered in our payload guide.
+Yamaha lists 131 kg weight, 770 mm seat height, 1935 x 740 x 1200 mm dimensions, 1,340 mm wheelbase and 127 mm ground clearance. The two-level seat gives rider and pillion their own positions, and the underseat bay holds 24 litres - enough for a full-face helmet plus extras. Maximum payload is listed at 167 kg; what that figure means for rider, passenger and luggage is covered in our payload [guide]({{ '/articles/scooter-payload-load-limits-vietnam/' | relative_url }}).
 
 ## Technology
 
@@ -48,4 +48,4 @@ Nguyen Tu does not publish a rental rate for the NMAX. Contact us to confirm cur
 
 ## What to check before you ride one
 
-Tyre wear on the 110/70-13 front and 130/70-13 rear, brake feel at both levers and the pre-ride basics in our motorbike safety checklist. Licence classes in Vietnam follow engine capacity - our licence guides explain which class a 155 cc scooter requires.
+Tyre wear on the 110/70-13 front and 130/70-13 rear, brake feel at both levers and the pre-ride basics in our motorbike [safety checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}). Licence classes in Vietnam follow engine capacity - our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) explain which class a 155 cc scooter requires.

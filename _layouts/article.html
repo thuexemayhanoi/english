@@ -9,17 +9,31 @@ layout: default
       {% if page.date_published %}Published: <time itemprop="datePublished" datetime="{{ page.date_published }}">{{ page.date_published }}</time>{% endif %}
       {% if page.last_reviewed %} &middot; Last reviewed: <time itemprop="dateModified" datetime="{{ page.last_reviewed }}">{{ page.last_reviewed }}</time>{% endif %}
       {% if page.content_type %} &middot; {{ page.content_type }}{% endif %}
-      {% if page.review_status %} &middot; {{ page.review_status }}{% endif %}
     </p>
   </header>
-  {% if page.review_status == "REVIEW_REQUIRED" %}
+  {% assign rs = page.review_status | downcase %}
+  {% if rs == "review_required" %}
   <div class="review-banner" role="note">
-    <strong>Review notice:</strong> This article is marked REVIEW_REQUIRED. It was corrected against primary legal sources on 2026-09-19, but items marked "pending verification" must be confirmed against the current legal text before this notice is removed.
+    <strong>Review notice:</strong> This article is marked for review. Its content has not been fully confirmed against the current primary sources{% if page.last_reviewed %} (last reviewed {{ page.last_reviewed }}){% endif %} — verify details independently before relying on them.
   </div>
   {% endif %}
   <div class="article-body" itemprop="articleBody">
     {{ content }}
   </div>
+  {% if page.sources %}
+  <section class="article-sources" aria-label="Sources">
+    <h2>Sources</h2>
+    <ul>
+      {% for s in page.sources %}
+        {% assign srcparts = s | split: " — " %}
+        {% assign srcurl = srcparts | first | strip %}
+        {% if srcurl contains "http" %}
+          <li><a href="{{ srcurl }}" rel="noopener">{{ srcparts[1] | default: srcurl | strip }}</a>{% if srcparts[2] %} — {{ srcparts[2] | strip }}{% endif %}</li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
   {% include contact-cta.html %}
   {% if page.internal_link_targets %}
   <aside class="related">

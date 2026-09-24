@@ -40,7 +40,7 @@ The VinFast Evo is the entry point to Vietnam's battery-swap ecosystem — a lic
 
 The swap architecture is the point. Two removable 1.5 kWh LFP packs mean fuelling takes under a minute at a V-Green cabinet — 4,500 stations were installed by January 2026, with 45,000 planned across 34 provinces and cities by Q1 2026. Home charging and public chargers remain options.
 
-The range figure is strong for the class: 165 km under standard conditions beats most licence-free rivals, though real city pace trims it — see our real-world range guide for how much.
+The range figure is strong for the class: 165 km under standard conditions beats most licence-free rivals, though real city pace trims it — see our real-world [range guide]({{ '/articles/electric-motorbike-range-real-world-vietnam/' | relative_url }}) for how much.
 
 ## Trade-offs
 

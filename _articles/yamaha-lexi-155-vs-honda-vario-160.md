@@ -29,7 +29,7 @@ Near-tie: the Lexi's 155.1 cc VVA engine makes 11.3 kW at 8,000 rpm and 14.2 Nm 
 
 ## Comfort and chassis
 
-The Lexi is built around comfort: 118 kg, a low 768 mm seat, 14-inch wheels, a 1,353 mm wheelbase and 135 mm ground clearance - the stability side of that is explained in our wheelbase guide. The Vario is 118 kg too, with a 778 mm seat, sportier 120/70-14 rear tyre, 138 mm clearance and a 422 mm flat floor.
+The Lexi is built around comfort: 118 kg, a low 768 mm seat, 14-inch wheels, a 1,353 mm wheelbase and 135 mm ground clearance - the stability side of that is explained in our wheelbase [guide]({{ '/articles/scooter-wheelbase-stability-explained/' | relative_url }}). The Vario is 118 kg too, with a 778 mm seat, sportier 120/70-14 rear tyre, 138 mm clearance and a 422 mm flat floor.
 
 ## Practicality
 

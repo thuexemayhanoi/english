@@ -19,7 +19,7 @@ sources:
 internal_link_targets: "scooter-under-seat-storage-guide, honda-lead-125-review, yamaha-grande-review, spare-parts-kit-underseat-motorbike, second-helmet-passengers-vietnam, dry-bags-waterproof-luggage-riders"
 ---
 
-The underseat bay is the most-used feature of any Vietnamese scooter - it decides whether your helmet, groceries and laptop ride inside the bike or on your lap. This comparison uses only manufacturer-published capacities (retrieved 23 September 2026); for how to pack and organise the space you have, see our underseat storage guide - this page is about how much space each model gives you.
+The underseat bay is the most-used feature of any Vietnamese scooter - it decides whether your helmet, groceries and laptop ride inside the bike or on your lap. This comparison uses only manufacturer-published capacities (retrieved 23 September 2026); for how to pack and organise the space you have, see our underseat [storage guide]({{ '/articles/scooter-under-seat-storage-guide/' | relative_url }}) - this page is about how much space each model gives you.
 
 ## Verified capacities
 
@@ -33,7 +33,7 @@ The underseat bay is the most-used feature of any Vietnamese scooter - it decide
 
 ## What the numbers hide
 
-- **Helmet shapes matter:** a 37-litre bay takes two full-face helmets; a 15-litre bay takes one open-face. If you ride with a full-face helmet (our helmet guide explains why many riders do), only the larger bays swallow it.
+- **Helmet shapes matter:** a 37-litre bay takes two full-face helmets; a 15-litre bay takes one open-face. If you ride with a full-face helmet (our helmet [guide]({{ '/articles/helmet-fit-guide-vietnam/' | relative_url }}) explains why many riders do), only the larger bays swallow it.
 - **Passengers:** riding two-up means two helmets to stow - our passenger helmet guide covers the second-helmet problem.
 - **Shape beats litres:** a long flat bay takes a laptop bag a "bigger" round bay cannot.
 

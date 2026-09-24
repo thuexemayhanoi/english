@@ -44,7 +44,7 @@ City-only commuters. In stop-start traffic, a manual clutch adds work with no be
 
 ## The licence and skill reality
 
-A manual bike demands a new skill set in the most demanding traffic in Southeast Asia - see our beginner manual guide. And before buying, confirm what your licence covers.
+A manual bike demands a new skill set in the most demanding traffic in Southeast Asia - see our beginner [manual guide]({{ '/articles/best-manual-clutch-motorbikes-beginners-verified/' | relative_url }}). And before buying, confirm what your licence covers.
 
 ## Try before deciding
 

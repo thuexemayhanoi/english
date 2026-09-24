@@ -16,7 +16,7 @@ subcluster: "6.4 buying-owning"
 date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 3 (moped definition including electric motors up to 4 kW) — Articles 58, 59 (licence requirement for motorbikes; age 18 for A1)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 34(1)(g) (moped definition including electric motors up to 4 kW) — Articles 57, 59 (licence classes; age 18 for A1)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
 internal_link_targets: 50cc-vs-110cc-motorbike-vietnam, a1-licence-vietnam-what-you-can-ride, best-110cc-underbones-vietnam-verified, learning-to-ride-on-50cc-vietnam, 50cc-resale-value-vietnam
 ---
@@ -37,7 +37,7 @@ Roughly double the power sounds modest; in the first week it is not:
 
 - **The throttle is now a bigger lever on your speed.** The habit to install immediately: same smooth openings, but with double the consequence.
 - **Gaps that were impossible are now merely tight** — which is a risk unless you consciously ride the first month at 50cc habits.
-- **Bridges and hills stop being planning problems.** The commuting routes that a 50cc made marginal (see our honest assessment) simply work now.
+- **Bridges and hills stop being planning problems.** The commuting routes that a 50cc made marginal [our honest assessment]({{ '/articles/is-a-50cc-enough-for-hanoi/' | relative_url }}) simply work now.
 
 ## The machine: heavier, but not heavy
 

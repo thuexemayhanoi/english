@@ -25,7 +25,7 @@ Yamaha's 125 range spans from the hybrid-assisted Gear to the roomy, style-led L
 
 ## Engines
 
-Both are Blue Core 124.9 cc singles with CVT, but tuned differently. The Gear 125 Hybrid pairs its air-cooled engine with a smart motor generator that assists for up to three seconds after launch, publishing 6.2 kW at 6,500 rpm, 10.6 Nm at 4,500 rpm and a remarkable 1.7 litres/100 km - the headline figure of our fuel economy ranking. The Latte's simpler forced-air-cooled engine makes 6.05 kW at 6,500 rpm and 9.77 Nm at 5,000 rpm at 1.80 litres/100 km. How the hybrid system works is covered in our dedicated explainer.
+Both are Blue Core 124.9 cc singles with CVT, but tuned differently. The Gear 125 Hybrid pairs its air-cooled engine with a smart motor generator that assists for up to three seconds after launch, publishing 6.2 kW at 6,500 rpm, 10.6 Nm at 4,500 rpm and a remarkable 1.7 litres/100 km - the headline figure of [fuel economy ranking]({{ '/articles/most-fuel-efficient-scooters-vietnam-verified/' | relative_url }}). The Latte's simpler forced-air-cooled engine makes 6.05 kW at 6,500 rpm and 9.77 Nm at 5,000 rpm at 1.80 litres/100 km. How the hybrid system works is covered in our dedicated explainer.
 
 ## Layout and storage
 

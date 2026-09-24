@@ -29,7 +29,7 @@ Both are light-city scooters: Honda lists the Vision at 97 kg, Yamaha lists the 
 
 ## Storage
 
-The Grande's 27-litre underseat bay with interior lighting comfortably beats the Vision's underseat space and swallows a full-face helmet plus a bag - see our storage comparison. If cargo matters at this price, the Grande is the more practical style scooter.
+The Grande's 27-litre underseat bay with interior lighting comfortably beats the Vision's underseat space and swallows a full-face helmet plus a bag - [storage comparison]({{ '/articles/scooter-underseat-storage-comparison/' | relative_url }}). If cargo matters at this price, the Grande is the more practical style scooter.
 
 ## Features
 

@@ -44,7 +44,7 @@ The spread is nearly 40 kg across the class. The lightest three (Vision, Latte, 
 
 ## Weight versus stability
 
-Heavier is not worse; it depends on your roads. Heavy and long-wheelbase machines feel planted on fast, broken arterials; light and short-wheelbase machines win where you push, park and U-turn constantly - see our wheelbase explainer for the geometry side.
+Heavier is not worse; it depends on your roads. Heavy and long-wheelbase machines feel planted on fast, broken arterials; light and short-wheelbase machines win where you push, park and U-turn constantly - see our wheelbase [explainer]({{ '/articles/scooter-wheelbase-stability-explained/' | relative_url }}) for the geometry side.
 
 ## Who should care most
 

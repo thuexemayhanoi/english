@@ -32,8 +32,8 @@ Real-world consumption varies with load, speed, temperature, terrain and riding 
 
 ## The verified claimed ranking
 
-Gear 125 Hybrid 1.7, Latte 1.80, Janus 1.98, FreeGo 2.03, Vario 125 2.11, SH Mode 2.16, NVX 2.19, Vario 160 2.20, Lexi 2.19, NMAX 2.26, SH160i 2.34 L/100km. Full table with sources in our fuel economy comparison.
+Gear 125 Hybrid 1.7, Latte 1.80, Janus 1.98, FreeGo 2.03, Vario 125 2.11, SH Mode 2.16, NVX 2.19, Vario 160 2.20, Lexi 2.19, NMAX 2.26, SH160i 2.34 L/100km. Full table with sources [fuel economy comparison]({{ '/articles/scooter-fuel-economy-comparison-vietnam/' | relative_url }}).
 
 ## What you control
 
-Throttle discipline, correct tyre pressure, clean air filter and engine condition move real economy more than most riders expect - our economy-improvement guide covers the levers. And range planning - tank times claimed economy - is in our longest-range guide. Renters: ask what fuel the scooter takes (our fuel grades guide) and expect the tank not to be full-to-full.
+Throttle discipline, correct tyre pressure, clean air filter and engine condition move real economy more than most riders expect - our economy-improvement guide covers the levers. And range planning - tank times claimed economy - is in our longest-range [guide]({{ '/articles/longest-range-underbones-vietnam-verified/' | relative_url }}). Renters: ask what fuel the scooter takes (our fuel [grades guide]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }})) and expect the tank not to be full-to-full.

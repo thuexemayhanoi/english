@@ -29,11 +29,11 @@ Both run the Blue Core 124.9 cc engine with CVT. FreeGo: 7.0 kW at 8,000 rpm, 9.
 
 ## Economy
 
-Gear: 1.7 L/100 km published - the best figure in our verified economy table. FreeGo: 2.03 L/100 km from a smaller 3.9-litre tank. Over a year of commuting the Gear's advantage is real; see the full ranking.
+Gear: 1.7 L/100 km published - the best figure [verified economy table]({{ '/articles/scooter-fuel-economy-comparison-vietnam/' | relative_url }}). FreeGo: 2.03 L/100 km from a smaller 3.9-litre tank. Over a year of commuting the Gear's advantage is real; see the full ranking.
 
 ## Brakes
 
-FreeGo: front disc, rear drum, and an ABS-equipped FreeGo S version - one of the few sub-35-million scooters with ABS in Vietnam. Gear: front disc, rear drum with UBS combined braking. If wet-weather ABS is your priority at this price, the FreeGo S is the answer; our ABS availability guide lists the others.
+FreeGo: front disc, rear drum, and an ABS-equipped FreeGo S version - one of the few sub-35-million scooters with ABS in Vietnam. Gear: front disc, rear drum with UBS combined braking. If wet-weather ABS is your priority at this price, the FreeGo S is the answer; our ABS [availability guide]({{ '/articles/abs-on-underbones-vietnam-explained/' | relative_url }}) lists the others.
 
 ## Storage
 
@@ -41,7 +41,7 @@ FreeGo: 25 litres - a full-face helmet bay. Gear: 17.4 litres plus front pocket 
 
 ## Size and weight
 
-Gear: 96 kg, seat 750 mm, long flat seat. FreeGo: 100 kg, seat 780 mm. Both are light by class standards; the Gear is the lightest scooter in our verified weight table.
+Gear: 96 kg, seat 750 mm, long flat seat. FreeGo: 100 kg, seat 780 mm. Both are light by class standards; the Gear is the lightest scooter [verified weight table]({{ '/articles/scooter-kerb-weights-vietnam-verified/' | relative_url }}).
 
 ## Price
 

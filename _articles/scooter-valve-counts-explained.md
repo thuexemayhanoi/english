@@ -32,7 +32,7 @@ Four-valve engines: Honda SH Mode 125 (eSP+ four-valve), Honda SH160i, Honda Var
 
 ## Does it matter to you?
 
-A four-valve head usually supports higher peak power and cleaner high-rpm running - visible in the Vario 160's 11.3 kW versus the Latte's 6.05 kW, though capacity, tuning and cooling all contribute (see our power and torque explainer). A two-valve head is simpler, marginally cheaper to service, and entirely adequate for city duties - the Latte's real selling points are its 37-litre bay and flat floor, not its valvetrain.
+A four-valve head usually supports higher peak power and cleaner high-rpm running - visible in the Vario 160's 11.3 kW versus the Latte's 6.05 kW, though capacity, tuning and cooling all contribute (see our power [and torque explainer]({{ '/articles/underbone-power-torque-explained/' | relative_url }})). A two-valve head is simpler, marginally cheaper to service, and entirely adequate for city duties - the Latte's real selling points are its 37-litre bay and flat floor, not its valvetrain.
 
 ## Maintenance notes
 

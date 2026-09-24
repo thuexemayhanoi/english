@@ -38,8 +38,8 @@ The spread across the whole mainstream class is just 25 mm - smaller than the di
 - **The test that matters:** sit on the bike and see how much of each foot reaches the ground. Near-flat feet at 760-785 mm heights is normal for most adult riders; the guides for tall riders and light bikes for new riders cover the extremes.
 - **Seat shape beats height:** a narrower seat tunnel lets legs hang straighter at the same nominal height.
 - **Weight interacts:** the Vision and Janus at 97 kg are far easier to catch at a stop than 113-114 kg machines of similar height.
-- **Low-speed control:** confidence at lights and in crawling traffic is mostly practice - our slow-speed control guide builds it.
+- **Low-speed control:** confidence at lights and in crawling traffic is mostly practice - our slow-speed [control guide]({{ '/articles/slow-speed-control-motorbike-vietnam/' | relative_url }}) builds it.
 
 ## If you are choosing
 
-Shorter riders should start with the Lead (760 mm) or Janus (770 mm). Taller riders lose nothing on any of these - our tall riders guide covers what actually matters above average height. Renters: Nguyen Tu publishes rates for the Vision; for any other model contact us to confirm current availability, and sit on the actual bike before deciding - a five-minute sit beats every spec sheet.
+Shorter riders should start with the Lead (760 mm) or Janus (770 mm). Taller riders lose nothing on any of these - our tall [riders guide]({{ '/articles/best-motorbikes-for-tall-riders-vietnam/' | relative_url }}) covers what actually matters above average height. Renters: Nguyen Tu publishes rates for the Vision; for any other model contact us to confirm current availability, and sit on the actual bike before deciding - a five-minute sit beats every spec sheet.

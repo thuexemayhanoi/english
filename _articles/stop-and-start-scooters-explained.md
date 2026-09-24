@@ -43,7 +43,7 @@ The honest answer: the benefit is real but modest. A commute with many long stop
 
 - The first auto-restart surprises people; test it at a quiet junction before a full commute.
 - The system works with the side stand and brake interlocks - the scooter will not restart into gear.
-- Batteries on stop-start models work harder; our battery care guide covers what extends life.
+- Batteries on stop-start models work harder; our battery [care guide]({{ '/articles/battery-care-motorbike-vietnam/' | relative_url }}) covers what extends life.
 - Stop-start does not replace good habits - our improving-fuel-economy guide shows what riders control directly.
 
 Models without the system are not worse commuters - the Honda Vision publishes 1.82 L/100 km without it. Treat it as a convenience feature, not a deal-breaker; and contact us to confirm current availability of any specific model.

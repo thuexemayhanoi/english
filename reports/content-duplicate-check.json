@@ -3,10 +3,52 @@
   "counts": {
     "P0": 0,
     "P1": 0,
-    "P2": 4,
+    "P2": 16,
     "P3": 0
   },
   "findings": [
+    {
+      "severity": "P2",
+      "file": "_articles/best-125cc-underbones-vietnam-verified.md",
+      "url": "/articles/best-125cc-underbones-vietnam-verified/",
+      "issue": "near-duplicate title (similarity 0.71) vs _articles/best-110cc-underbones-vietnam-verified.md",
+      "fix": "Manual review: split or differentiate"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/best-scooters-hanoi-commuting-verified.md",
+      "url": "/articles/best-scooters-hanoi-commuting-verified/",
+      "issue": "near-duplicate title (similarity 0.67) vs _articles/best-125cc-scooters-vietnam-verified.md",
+      "fix": "Manual review: split or differentiate"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/best-manual-clutch-motorbikes-beginners-verified.md",
+      "url": "/articles/best-manual-clutch-motorbikes-beginners-verified/",
+      "issue": "near-duplicate title (similarity 0.63) vs _articles/best-150cc-manual-motorbikes-vietnam-verified.md",
+      "fix": "Manual review: split or differentiate"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/best-underbones-hanoi-commuting-verified.md",
+      "url": "/articles/best-underbones-hanoi-commuting-verified/",
+      "issue": "near-duplicate title (similarity 0.67) vs _articles/best-honda-underbones-vietnam-verified.md",
+      "fix": "Manual review: split or differentiate"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/best-underbones-hanoi-commuting-verified.md",
+      "url": "/articles/best-underbones-hanoi-commuting-verified/",
+      "issue": "near-duplicate title (similarity 0.67) vs _articles/best-scooters-hanoi-commuting-verified.md",
+      "fix": "Manual review: split or differentiate"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/best-underbones-short-riders-verified.md",
+      "url": "/articles/best-underbones-short-riders-verified/",
+      "issue": "near-duplicate title (similarity 0.67) vs _articles/best-scooters-short-riders-vietnam.md",
+      "fix": "Manual review: split or differentiate"
+    },
     {
       "severity": "P2",
       "file": "_articles/how-to-rent-a-motorbike-hanoi.md",
@@ -23,6 +65,34 @@
     },
     {
       "severity": "P2",
+      "file": "_articles/motorbike-maintenance-basics-vietnam.md",
+      "url": "/articles/motorbike-maintenance-basics-vietnam/",
+      "issue": "near-duplicate title (similarity 0.67) vs _articles/electric-motorbike-maintenance-basics.md",
+      "fix": "Manual review: split or differentiate"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/night-riding-motorbike-safety-vietnam.md",
+      "url": "/articles/night-riding-motorbike-safety-vietnam/",
+      "issue": "near-duplicate title (similarity 0.67) vs _articles/electric-motorbike-night-riding-hanoi.md",
+      "fix": "Manual review: split or differentiate"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/renting-motorbike-hue.md",
+      "url": "/articles/renting-motorbike-hue/",
+      "issue": "near-duplicate title (similarity 0.80) vs _articles/hue-motorbike-trip-hanoi.md",
+      "fix": "Manual review: split or differentiate"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/longest-range-underbones-vietnam-verified.md",
+      "url": "/articles/longest-range-underbones-vietnam-verified/",
+      "issue": "near-duplicate title (similarity 0.67) vs _articles/longest-range-scooters-vietnam.md",
+      "fix": "Manual review: split or differentiate"
+    },
+    {
+      "severity": "P2",
       "file": "_articles/night-riding-motorbike-safety-vietnam.md",
       "url": "/articles/night-riding-motorbike-safety-vietnam/",
       "issue": "near-duplicate title (similarity 0.67) vs _articles/motorbike-night-lights-vietnam.md",
@@ -33,6 +103,20 @@
       "file": "_articles/nomads-monthly-motorbike-hanoi.md",
       "url": "/articles/nomads-monthly-motorbike-hanoi/",
       "issue": "near-duplicate title (similarity 0.75) vs _articles/motorbike-rental-digital-nomads-hanoi.md",
+      "fix": "Manual review: split or differentiate"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/semi-auto-two-up-riding-technique.md",
+      "url": "/articles/semi-auto-two-up-riding-technique/",
+      "issue": "near-duplicate title (similarity 0.67) vs _articles/semi-auto-carrying-cargo.md",
+      "fix": "Manual review: split or differentiate"
+    },
+    {
+      "severity": "P2",
+      "file": "_articles/vinfast-evo-lite-vs-amio.md",
+      "url": "/articles/vinfast-evo-lite-vs-amio/",
+      "issue": "near-duplicate title (similarity 1.00) vs _articles/vinfast-amio-vs-evo-lite.md",
       "fix": "Manual review: split or differentiate"
     }
   ]

@@ -32,7 +32,7 @@ Yamaha publishes a 3-year or 30,000 km warranty (whichever comes first) for its 
 
 ## What warranties exclude
 
-Published coverage is against manufacturing defects. Exclusions typically cover wear items (tyres, brake pads, bulbs), damage from accidents or improper use, and - critically for the modifying community - changes from non-genuine parts and accessories, which our aftermarket warranty article covers in detail. Dealer service history also matters; our warranty and dealer service guide covers the maintenance-side obligations.
+Published coverage is against manufacturing defects. Exclusions typically cover wear items (tyres, brake pads, bulbs), damage from accidents or improper use, and - critically for the modifying community - changes from non-genuine parts and accessories, which our aftermarket warranty article covers in detail. Dealer service history also matters; our warranty [and dealer service guide]({{ '/articles/aftermarket-parts-warranty/' | relative_url }}) covers the maintenance-side obligations.
 
 ## For renters
 

@@ -43,4 +43,4 @@ Students, commuters and delivery riders who want a light, narrow, cheap-to-run u
 
 ## Renting one in Hanoi
 
-The Yamaha Sirius is one of our price-published rental models at 150,000 VND per day - contact us to confirm current availability. For what you need to bring when renting, see our Hanoi rental guide.
+The Yamaha Sirius is one of our price-published rental models at 150,000 VND per day - contact us to confirm current availability. For what you need to bring when renting, [Hanoi rental guide]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}).

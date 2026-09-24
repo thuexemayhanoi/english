@@ -18,7 +18,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 review_status: VERIFIED
 sources:
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 3 (vehicle definitions), Article 31 (helmets), Article 59 (age)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 34 (vehicle definitions), Article 31(3) (helmets for motorised pedal bicycles), Article 59 (age)"
   - "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650 — Ministry of Public Security: Article 7 fine levels for motorbike riders"
 internal_link_targets: "electric-bike-licence-vietnam, what-is-a-moped-vietnam-law, helmet-law-vietnam, minimum-age-ride-motorbike-vietnam, 50cc-licence-vietnam"
 ---
@@ -31,7 +31,7 @@ No licence is required — there is no licence class for the category. No regist
 
 ## What still applies
 
-The helmet rule reaches further than the licensing rule. Article 31 of the law requires helmets for riders and passengers of motorised pedal bicycles — pedal e-bikes included — and the 400,000–600,000 VND fine band applies. The traffic rules apply in full: signals, direction of travel, sidewalk prohibition, pedestrian priority. A pedal-bike rider can be fined for counterflow riding exactly as a scooter rider can, in the band set for the category.
+The helmet rule reaches further than the licensing rule. Article 31(3) of the law requires helmets for riders and passengers of motorised pedal bicycles — pedal e-bikes included — and the 400,000–600,000 VND fine band applies. The traffic rules apply in full: signals, direction of travel, sidewalk prohibition, pedestrian priority. A pedal-bike rider can be fined for counterflow riding exactly as a scooter rider can, in the band set for the category.
 
 ## The 25 km/h line matters
 

@@ -1,7 +1,7 @@
 ---
 title: "What Counts as a Moped Under Vietnamese Law"
 slug: what-is-a-moped-vietnam-law
-description: "The legal definition of a moped (xe gắn máy) in Vietnam under Article 3 of Law 36/2024/QH15: 50 cc or 4 kW electric, design speed max 50 km/h, ridable from age 16 with no licence."
+description: "The legal definition of a moped (xe gắn máy) in Vietnam under Article 34(1)(g) of Law 36/2024/QH15: 50 cc or 4 kW electric, design speed max 50 km/h, ridable from age 16 with no licence."
 category: law-licences
 tags:
   - "moped"
@@ -17,12 +17,12 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 review_status: VERIFIED
 sources:
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 3 (vehicle definitions), Article 59 (age)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 34 (vehicle definitions), Article 59 (age)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 18 (licence-condition fines)"
 internal_link_targets: "50cc-licence-vietnam, electric-bike-licence-vietnam, minimum-age-ride-motorbike-vietnam, fast-electric-motorbike-licence-vietnam, xe-dap-mai-rules-vietnam"
 ---
 
-"Moped" has a precise legal meaning in Vietnam, and it is narrower than the everyday use of the word. Article 3 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) defines the moped category — xe gắn máy — by three limits at once: an engine of 50 cc or less, or an electric motor of up to 4 kW, and a design speed of no more than 50 km/h. Meet all three and the machine is a moped; miss one and it is something else legally.
+"Moped" has a precise legal meaning in Vietnam, and it is narrower than the everyday use of the word. Article 34(1)(g) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) defines the moped category — xe gắn máy — by three limits at once: an engine of 50 cc or less, or an electric motor of up to 4 kW, and a design speed of no more than 50 km/h. Meet all three and the machine is a moped; miss one and it is something else legally.
 
 ## What the category buys you
 

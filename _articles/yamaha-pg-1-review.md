@@ -36,4 +36,4 @@ The front brake is a single hydraulic disc; the rear is a drum. The 5.1-litre ta
 
 ## Who it suits
 
-Riders who want one bike for city streets, broken rural roads and rainy-season flooding will like the PG-1's formula: underbone simplicity with genuine clearance and grip. It is not a sports machine and not a touring bike. For a full head-to-head with Honda's trail-cub take on the same idea, see our PG-1 versus CT125 comparison. Rental availability of any specific model: contact us to confirm current availability.
+Riders who want one bike for city streets, broken rural roads and rainy-season flooding will like the PG-1's formula: underbone simplicity with genuine clearance and grip. It is not a sports machine and not a touring bike. For a full head-to-head with Honda's trail-cub take on the same idea, [PG-1 versus CT125 comparison]({{ '/articles/yamaha-pg-1-vs-honda-ct125/' | relative_url }}). Rental availability of any specific model: contact us to confirm current availability.

@@ -327,6 +327,12 @@ blockquote strong, .callout strong { color: var(--fg-strong); }
 .related { max-width: var(--container-narrow); }
 .related ul { padding-left: 18px; }
 
+/* Article sources */
+.article-sources { max-width: var(--container-narrow); }
+.article-sources h2 { font-size: 1.15rem; }
+.article-sources ul { padding-left: 18px; font-size: var(--text-sm); color: var(--muted); }
+.article-sources a { word-break: break-word; }
+
 /* ============================================================
    FOOTER — large structured accordion
    ============================================================ */

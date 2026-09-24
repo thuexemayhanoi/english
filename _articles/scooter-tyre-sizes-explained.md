@@ -42,10 +42,10 @@ Take the Honda Vision's front tyre: **80/90-16**.
 
 ## What size changes
 
-- **Diameter (the last number):** bigger wheels = more stability and defect-spanning ability, less agility at walking pace - the Vision's 16-inch front vs the Grande's 12-inch set shows the two philosophies (see our 16-inch wheel guide).
+- **Diameter (the last number):** bigger wheels = more stability and defect-spanning ability, less agility at walking pace - the Vision's 16-inch front vs the Grande's 12-inch set shows the two philosophies (see our 16-inch [wheel guide]({{ '/articles/16-inch-wheel-scooters-vietnam/' | relative_url }})).
 - **Width:** wider tyres grip more on clean pavement but tramline over grooves and add a little drag; the Grande's 110-section front is the widest of this group.
 - **Aspect ratio:** taller sidewalls (90) cushion bad surfaces; low profiles (70) sharpen steering response.
 
 ## Practical notes
 
-Always replace with the size the manufacturer specifies - our replacement tyre guide covers choosing brands and our tubeless vs inner tube explainer the puncture behaviour. Check age codes before accepting any bike (our tyre age guide), and for renters: a quick tyre look is part of the pre-rental inspection. Contact us to confirm current availability of any specific model.
+Always replace with the size the manufacturer specifies - our replacement [tyre guide]({{ '/articles/choosing-replacement-tyres-motorbike-vietnam/' | relative_url }}) covers choosing brands and our tubeless vs inner tube explainer the puncture behaviour. Check age codes before accepting any bike (our tyre [age guide]({{ '/articles/choosing-replacement-tyres-motorbike-vietnam/' | relative_url }})), and for renters: a quick tyre look is part of the pre-rental inspection. Contact us to confirm current availability of any specific model.

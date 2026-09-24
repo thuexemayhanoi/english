@@ -28,7 +28,7 @@ A fob in your pocket broadcasts a low-power signal. When it is within range, the
 
 ## Practical realities in Vietnam
 
-- **Fob battery:** the single most common smart-key failure. Symptoms of a weak fob battery appear before total failure - carry a spare coin cell. See our battery care guide for the general electrical habits that help.
+- **Fob battery:** the single most common smart-key failure. Symptoms of a weak fob battery appear before total failure - carry a spare coin cell. See our battery [care guide]({{ '/articles/battery-care-motorbike-vietnam/' | relative_url }}) for the general electrical habits that help.
 - **Rain and humidity:** fobs are small electronics; keep them out of soaked pockets where possible.
 - **Theft:** smart keys add a layer against hotwiring, but no scooter security replaces physical locks - our rental security and steering lock guides cover the basics.
 - **Lost fob:** losing a rental bike's fob is a real problem - our lost-key guide covers what to do, and why you should tell the rental shop immediately.

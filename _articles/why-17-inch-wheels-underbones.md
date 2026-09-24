@@ -28,7 +28,7 @@ The commuter class runs 70/90-17 front with 80/90-17 rear: Wave Alpha, Blade, Wa
 
 ## Why 17 inches wins here
 
-Rim diameter buys sidewall stability and rolling efficiency: a big wheel bridges potholes and holds a line over broken tarmac better than a small one - our potholes guide covers exactly the strikes this design absorbs. It also supports the underbone's long-travel, load-carrying brief: these bikes carry families and deliveries, not just riders. The trade - a narrow tyre contact patch and slower steering response than scooter rubber - is acceptable at underbone speeds; our scooter wheel-size comparison covers the other side.
+Rim diameter buys sidewall stability and rolling efficiency: a big wheel bridges potholes and holds a line over broken tarmac better than a small one - our potholes [guide]({{ '/articles/potholes-bad-roads-motorbike-vietnam/' | relative_url }}) covers exactly the strikes this design absorbs. It also supports the underbone's long-travel, load-carrying brief: these bikes carry families and deliveries, not just riders. The trade - a narrow tyre contact patch and slower steering response than scooter rubber - is acceptable at underbone speeds; our scooter wheel-size comparison covers the other side.
 
 ## The tube question
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Search
+description: "Search all English motorbike guides for Hanoi and Vietnam: rentals, licences, 50cc and electric bikes, maintenance, safety and trips."
 permalink: /search/
 ---
 <h1>Search the guide</h1>

@@ -3,9 +3,17 @@
   "counts": {
     "P0": 0,
     "P1": 0,
-    "P2": 0,
+    "P2": 1,
     "P3": 0
   },
   "blocking": 0,
-  "findings": []
+  "findings": [
+    {
+      "severity": "P2",
+      "file": "_articles/yamaha-pg-1-review.md",
+      "url": "/articles/yamaha-pg-1-review/",
+      "issue": "model content without manufacturer",
+      "fix": "Add manufacturer metadata"
+    }
+  ]
 }

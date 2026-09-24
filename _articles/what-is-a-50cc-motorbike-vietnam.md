@@ -16,7 +16,7 @@ subcluster: "6.1 understanding-50cc"
 date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 3 (definition of xe gắn máy)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 34(1)(g) (definition of xe gắn máy)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
 internal_link_targets: 50cc-licence-vietnam, 50cc-mopeds-vs-50cc-underbones, 50cc-vs-110cc-motorbike-vietnam, who-rides-50cc-motorbikes-vietnam
 ---
@@ -25,9 +25,9 @@ A "50cc motorbike" in Vietnam is more than an engine size — it is a legal cate
 
 ## The legal definition
 
-Article 3 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) defines a moped as a two- or three-wheel engine-driven vehicle designed for a top speed of no more than 50 km/h, with an engine of 50 cc or less — or an electric motor of 4 kW or less. If a bike meets that definition, the licence rules are simple: no driving licence is required, and the rider must be at least 16 years old.
+Article 34(1)(g) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) defines a moped as a two- or three-wheel engine-driven vehicle designed for a top speed of no more than 50 km/h, with an engine of 50 cc or less — or an electric motor of 4 kW or less. If a bike meets that definition, the licence rules are simple: no driving licence is required, and the rider must be at least 16 years old.
 
-This is the single biggest reason 50cc bikes exist in Vietnam at all. A 16-year-old cannot legally ride a 110cc Honda Wave, but they can legally ride a sub-50cc moped to school. The same rule attracts some visitors who do not hold any licence valid for a motorbike — although a moped does not make the other obligations disappear, as our licence guide explains.
+This is the single biggest reason 50cc bikes exist in Vietnam at all. A 16-year-old cannot legally ride a 110cc Honda Wave, but they can legally ride a sub-50cc moped to school. The same rule attracts some visitors who do not hold any licence valid for a motorbike — although a moped does not make the other obligations disappear, as our licence [guide]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) explains.
 
 ## What the category does not mean
 

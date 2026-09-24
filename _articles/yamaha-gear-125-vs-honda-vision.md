@@ -24,7 +24,7 @@ The Honda Vision is Vietnam's default city scooter; the Yamaha Gear 125 Hybrid i
 
 ## Engine and assist
 
-Vision: 109.5 cc air-cooled eSP, 6.59 kW at 7,500 rpm, 9.29 Nm at 6,000 rpm. Gear: 124.9 cc air-cooled Blue Core, 6.2 kW at 6,500 rpm, 10.6 Nm at 4,500 rpm, plus hybrid assist - up to three seconds of electric boost at launch. Similar power, different delivery: the Gear's torque peaks 1,500 rpm lower and gets an electric shove, so it feels stronger pulling away, especially two-up (see our hybrid explainer).
+Vision: 109.5 cc air-cooled eSP, 6.59 kW at 7,500 rpm, 9.29 Nm at 6,000 rpm. Gear: 124.9 cc air-cooled Blue Core, 6.2 kW at 6,500 rpm, 10.6 Nm at 4,500 rpm, plus hybrid assist - up to three seconds of electric boost at launch. Similar power, different delivery: the Gear's torque peaks 1,500 rpm lower and gets an electric shove, so it feels stronger pulling away, especially two-up (see our hybrid [explainer]({{ '/articles/scooter-hybrid-systems-explained/' | relative_url }})).
 
 ## Fuel economy
 
@@ -32,7 +32,7 @@ Gear: 1.7 L/100 km published - the best figure in our verified table. Vision: 1.
 
 ## Wheels - the Vision's trump card
 
-Vision: 16-inch front wheel (80/90-16), the defining feature covered in our 16-inch wheel guide - better pothole behaviour than any small wheel. Gear: 110/70-12 tubeless. Around broken pavement the Vision rides calmer; in dense jams the Gear turns tighter.
+Vision: 16-inch front wheel (80/90-16), the defining feature covered in our 16-inch [wheel guide]({{ '/articles/16-inch-wheel-scooters-vietnam/' | relative_url }}) - better pothole behaviour than any small wheel. Gear: 110/70-12 tubeless. Around broken pavement the Vision rides calmer; in dense jams the Gear turns tighter.
 
 ## Weight and size
 
