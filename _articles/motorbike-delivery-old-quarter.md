@@ -28,7 +28,10 @@ Nguyen Tu arranges delivery and pickup depending on your location and what is ag
 
 ## Arranging it, step by step
 
-1. Message or call with: hotel address in the Old Quarter, the dates, and the bike category — see how-to-book-a-motorbike-rental-hanoi 2. Agree the delivery arrangement and any conditions with the shop in that conversation 3. Confirm current availability of the model you want — bike stock varies, so ask 4. On the day: do the full handover at your hotel — ten minutes, not a formality
+1. Message or call with: hotel address in the Old Quarter, the dates, and the bike category — see how-to-book-a-motorbike-rental-hanoi
+2. Agree the delivery arrangement and any conditions with the shop in that conversation
+3. Confirm current availability of the model you want — bike stock varies, so ask
+4. On the day: do the full handover at your hotel — ten minutes, not a formality
 
 The handover at delivery is identical to the shop version: the inspection checklist in rental-motorbike-inspection-checklist, the terms and deposit receipt from motorbike-rental-agreement-hanoi, photographs of existing scratches. A lobby or a curb is the same place as a shop forecourt for this purpose.
 

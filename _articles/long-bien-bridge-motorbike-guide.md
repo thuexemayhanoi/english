@@ -42,7 +42,7 @@ The bridge closed completely between 28 March and 27 May 2026 for emergency repa
 
 ## The views
 
-Halfway across, Hanoi arranges itself for you: the  river islands with their banana gardens below, the Red River's sand barges and swimming buffalo, the Old Quarter rooftops to the west, and the skyline of glass towers behind them. At dawn the mist makes it unreal; at night the deck's dim lamps and the city glow behind make it feel like a different century — which, structurally, it is.
+Halfway across, Hanoi arranges itself for you: the river islands with their banana gardens below, the Red River's sand barges and swimming buffalo, the Old Quarter rooftops to the west, and the skyline of glass towers behind them. At dawn the mist makes it unreal; at night the deck's dim lamps and the city glow behind make it feel like a different century — which, structurally, it is.
 
 ## Making it part of a ride
 

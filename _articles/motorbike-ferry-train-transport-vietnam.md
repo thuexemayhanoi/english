@@ -42,7 +42,7 @@ Vietnam Railways runs a motorbike freight service: you hand the bike in at the d
 - Book the freight at the station, same day or a day ahead; the bike travels on the same train or a connecting service.
 - Paperwork: registration papers and ID are needed; the bike may need a near-empty tank depending on the station’s handling — ask when booking.
 - Collect with your receipt; stations store bikes briefly but not indefinitely.
-- Costs are charged by route and bike size — ask at the freight counter for the current rate; prices are not published central ly.
+- Costs are charged by route and bike size — ask at the freight counter for the current rate; prices are not published centrally.
 
 ## Planning with both
 

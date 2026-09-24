@@ -27,10 +27,7 @@ Northern Vietnam has four riding seasons, and they are not equal. The city commu
 
 ## Spring (March–April)
 
-The first of the two prime windows. The rainy season has finished, skies are clear, temperatures
- are moderate, and the northern mountains — Ha Giang, Cao Ban
-g, the n
-orthwest loops — are at their most rideable. Expect the odd drizzle and cool mornings in the highlands. This is when long-distance riders do the big loops.
+The first of the two prime windows. The rainy season has finished, skies are clear, temperatures are moderate, and the northern mountains — Ha Giang, Cao Bang, the northwest loops — are at their most rideable. Expect the odd drizzle and cool mornings in the highlands. This is when long-distance riders do the big loops.
 
 ## Summer (May–August)
 
@@ -51,5 +48,4 @@ Dry but cold, and in the mountains genuinely cold — the high passes around Ha 
 - **Avoid high passes:** rainy-season afternoons (June–September) and icy mornings (December–January).
 - **Fog risk on any mountain ride:** year-round — always check mountain weather, not the city forecast.
 
-Contact us to confirm current availability for the
- season you are riding in.
+Contact us to confirm current availability for the season you are riding in.

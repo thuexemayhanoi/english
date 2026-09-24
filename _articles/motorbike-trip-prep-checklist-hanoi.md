@@ -26,9 +26,7 @@ A good motorbike trip out of Hanoi is mostly decided before you roll out of the 
 
 ## The bike
 
-Two days before, do the mechanical basics: tyres (pressures and tread), chain (lube and slack), brakes (pads and lever feel), oil level, lights and horn. For anything beyond a day trip, read the servicing-before-long-trip guide and have a shop look over the bike — a loose chain in the mountains is a trip-ending problem. Carry
- the small roadside kit: pump or puncture kit, basic tools, spare fuses 
-and a tow strap.
+Two days before, do the mechanical basics: tyres (pressures and tread), chain (lube and slack), brakes (pads and lever feel), oil level, lights and horn. For anything beyond a day trip, read the servicing-before-long-trip guide and have a shop look over the bike — a loose chain in the mountains is a trip-ending problem. Carry the small roadside kit: pump or puncture kit, basic tools, spare fuses and a tow strap.
 
 If you are renting, inspect the bike at pickup as if you were buying it — photograph existing damage, test both brakes, and ask when the bike was last serviced. Tell the shop where you are going: distance limits on day rentals are a real thing, and a bike that is fine in the city may not be the right bike for the hills.
 
