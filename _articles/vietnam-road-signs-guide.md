@@ -26,7 +26,8 @@ You can ride Vietnam on Google Maps alone — plenty do — but the road signs a
 
 ## The system in one paragraph
 
-Vietnamese road signs follow a mix of international conventions with French and Chinese heritage — Wikipedia's overview notes that Vietnam's signage tradition draws on both. The shapes and colours mostly match what European riders know: red circles prohibit, triangles warn, blue rectangles inform. The text is Vietnamese, but a working vocabulary of about ten words covers almost everything you will see.
+Vietnamese road signs follow a mix of international conventions with French and Chinese heritage — Wikipedia's overview notes that Vietnam's signage tradition draws on both. The shapes and colours mostly match what European riders know: red circles prohibit, triangles warn, blue rectangles inform. The text is Vietnamese, but a working vocabulary of about ten words covers almost 
+everything you will see.
 
 ## The road-numbering code (the genuinely useful part)
 
@@ -49,6 +50,7 @@ Vietnamese road signs follow a mix of international conventions with French and 
 
 ## Signs versus reality
 
-The honest local knowledge: signs describe the rule, and riding culture describes the practice. A no-overtaking sign on a QL road is advisory in local practice, not law — the safe rider's policy is to obey the sign rather than the traffic, and never assume the lorry behind sees the sign the same way you do. For how traffic behaves rather than what it promises, our traffic-culture primers (Hanoi's applies nationwide) are the companion read.
+The honest local knowledge: signs describe the rule, and riding culture describes the pr
+actice. A no-overtaking sign on a QL road is advisory in local practice, not law — the safe rider's policy is to obey the sign rather than the traffic, and never assume the lorry behind sees the sign the same way you do. For how traffic behaves rather than what it promises, our traffic-culture primers (Hanoi's applies nationwide) are the companion read.
 
 Navigation-wise, offline maps remain the primary tool — our offline-navigation guide covers the setup — but the road numbers on the signs are the cross-check that tells you the map's "fast route" is actually the QL1A you were trying to avoid.

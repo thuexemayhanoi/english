@@ -23,7 +23,8 @@ sources:
 internal_link_targets: hanoi-motorbike-traffic-culture-first-timers, ho-chi-minh-city-riding-first-timers, horn-etiquette-motorbike-vietnam, night-riding-motorbike-safety-vietnam, vietnam-road-signs-guide
 ---
 
-Vietnam is one of the world's great motorcycle cultures — urban researchers count Ho Chi Minh City among the densest two-wheeled cities on earth, and visitors' first video call home is always the same: an intersection where nobody stops and nothing collides. That is not a paradox; it is a system. Vietnamese traffic is not European traffic with the rules ignored. It is a different system with different rules — unwritten, universally known, and learnable. This primer is the theory; the city guides (Hanoi's and Saigon's) are the practice.
+Vietnam is one of the world's great motorcycle cultures — urban researchers count Ho Chi Minh City among the densest two-wheeled cities on earth, and visitors' first video call home is always the same: an intersection where nobody stops and nothing collides. That is not a paradox; it is a system. Vietnamese traffic is not European traffic with the rules ignored. It is a different system with different rules — unwritten, universally known, and learnable. This primer is the theory; the city guides (Hanoi's
+ and Saigon's) are the practice.
 
 ## The core principle: flow over priority
 
@@ -37,9 +38,10 @@ Western traffic runs on priority: lights, lanes, and who has the right of way. V
 2. **Bigger vehicles have the right of physics.** Buses and lorries cannot negotiate their width; the burden of geometry is on you. Never sit beside a turning bus's rear wheel.
 3. **Space is shared, not owned.** Riding two-abreast, filtering between lorries, using the wrong lane to pass — normal, not aggressive. Lanes are suggestions where painted at all.
 4. **Speed is the real variable.** The system is safe at city speeds and lethal at highway ones. Locals go slower than they look like they are going; match them.
-5. **Lights at night are partial.** Unlit bikes, pedestrians in dark clothing, andbuffalo share rural roads — our night-riding guide is the companion read for a reason.
+5. **Lights at night are partial.** Unlit bikes, pedestrians in dark clothing, and buffalo share rural roads — our night-riding guide is the companion read for a reason.
 6. **The u-turn is a national institution.** Vehicles u-turn anywhere plausible; assume the bike ahead of you might, and check your mirror before you commit to a pass.
-7. **Rain changes everything for twenty minutes.** Everyone slows, ponchos balloon, visors fog. The first half hour after rain is the highest-risk window — our wet-surfaces guide explains the why.
+7. **Rain changes everything for twenty mi
+nutes.** Everyone slows, ponchos balloon, visors fog. The first half hour after rain is the highest-risk window — our wet-surfaces guide explains the why.
 
 ## How to learn it without donating skin
 

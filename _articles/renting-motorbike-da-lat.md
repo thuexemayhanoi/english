@@ -27,7 +27,8 @@ Da Lat is Vietnam at 1,500 metres: pine forests, market gardens on every slope, 
 
 ## Rental basics
 
-Rental is everywhere: dedicated shops, most hotels and homestays, and even desks at Lien Khuong airport 30 km south. Published rates for automatic scooters run about 120,000-180,000 VND per day, with the usual discounts for week-long hires. The fleet is overwhelmingly 110-125cc automatics and semi-automatics — adequate for the region's steepest public roads, though two people uphill on a 110cc needs patience.
+Rental is everywhere: dedicated shops, most hotels and homestays, and even desks at 
+Lien Khuong airport 30 km south. Published rates for automatic scooters run about 120,000-180,000 VND per day, with the usual discounts for week-long hires. The fleet is overwhelmingly 110-125cc automatics and semi-automatics — adequate for the region's steepest public roads, though two people uphill on a 110cc needs patience.
 
 The licence rule is national: over 50cc requires a valid Vietnamese licence or 1968-convention IDP for motorbikes. See our tourist-riding overview. Enforcement around Da Lat's tourist loops is routine.
 
@@ -35,7 +36,7 @@ The licence rule is national: over 50cc requires a valid Vietnamese licence or 1
 
 **Hills are constant.** There is no flat Da Lat ride; even the town sits on slopes. Brakes do far more work than at sea level — check pads and fluid before you accept a bike, and engine-brake downhill rather than riding the brakes for kilometres.
 
-**Weather is mountain weather.** Fog can drop the famous 10-km visibility to 30 metres in minutes, especially on the rides out toward Bidoup or theLang Biang area. The wet season (roughly May-October) brings afternoon mist and slick red-earth corners; our nationwide seasons and mountain-riding guides apply directly.
+**Weather is mountain weather.** Fog can drop the famous 10-km visibility to 30 metres in minutes, especially on the rides out toward Bidoup or the Lang Biang area. The wet season (roughly May-October) brings afternoon mist and slick red-earth corners; our nationwide seasons and mountain-riding guides apply directly.
 
 **Countryside roads are narrow and busy with farm traffic.** The classic loops — Xuan Huong lake, the flower villages, Thien An hill, Dankia lake, and the famous 100-km round trip through countryside — share tarmac with lorries of cabbages and flower vans. Ride at the speed of the locals.
 
@@ -45,6 +46,7 @@ The half-day countryside loop north-east of the city is the ride most visitors r
 
 ## Why you might not rent at all
 
-Da Lat's weather makes some visitors genuinely uncomfortable on two wheels, and the city is walkable in the centre with ride-hail apps covering the rest. If your confidence on wet slopes is low, the Easy Rider option exists precisely for this place.
+Da Lat's weather makes some visitors genuinely uncomfortable on tw
+o wheels, and the city is walkable in the centre with ride-hail apps covering the rest. If your confidence on wet slopes is low, the Easy Rider option exists precisely for this place.
 
 For the northern highland chapter of a cross-Vietnam trip — Ha Giang, Sapa, the northwest — the riding is grander and cooler still. We are in Hanoi: contact us to confirm current availability for bikes suited to mountain loops.
