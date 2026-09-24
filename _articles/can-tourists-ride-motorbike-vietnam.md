@@ -29,7 +29,7 @@ Yes — tourists can legally ride a motorbike in Vietnam, but only with a valid 
 
 Article 58 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) lists the licences valid on Vietnamese territory:
 
-1. **A Vietnamese driving licence** — obtained by test, or by exchanging a valid foreign national licence if you meet res idence conditions (see our IDP guide).
+1. **A Vietnamese driving licence** — obtained by test, or by exchanging a valid foreign national licence if you meet residence conditions (see our IDP guide).
 2. **An International Driving Permit, or a national licence, issued by a country that is a member of the 1968 Vienna Convention on Road Traffic**, appropriate to the vehicle you are riding. Carry both the IDP and the national licence it translates.
 3. **A licence from a country or territory with which Vietnam has a mutual-recognition treaty or agreement.**
 
