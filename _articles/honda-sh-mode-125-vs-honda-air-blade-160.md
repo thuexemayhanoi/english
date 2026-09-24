@@ -25,7 +25,7 @@ This comparison is really a question about priorities: do you want the premium-b
 
 ## Engine and performance
 
-The Air Blade 160's 156.9 cc liquid-cooled engine produces 11.2 kW at 8,000 rpm and 14.8 Nm at 6,000 rpm. The SH Mode 125's 124.8 cc liquid-cooled eSP+ engine produces 8.2 kW at 8,500 rpm and 11.7 Nm at 5,000 rpm. The Air Blade is clearly the faster machine, with more torque available lower in the rev range; the SH Mode is comfortable rather than quick - our power and torque explainer covers how to read the gap.
+The Air Blade 160's 156.9 cc liquid-cooled engine produces 11.2 kW at 8,000 rpm and 14.8 Nm at 6,000 rpm. The SH Mode 125's 124.8 cc liquid-cooled eSP+ engine produces 8.2 kW at 8,500 rpm and 11.7 Nm at 5,000 rpm. The Air Blade is clearly the faster machine, with more torque available lower in the rev range; the SH Mode is comfortable rather than quick - our power [and torque explainer]({{ '/articles/underbone-power-torque-explained/' | relative_url }}) covers how to read the gap.
 
 ## Fuel economy
 

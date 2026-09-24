@@ -25,15 +25,15 @@ Both are Honda 125s, but they could not be further apart in intent: the SH Mode 
 
 ## Engine and performance
 
-The SH Mode's 124.8 cc liquid-cooled eSP+ four-valve engine makes 8.2 kW at 8,500 rpm and 11.7 Nm at 5,000 rpm - strong low-down pull, as our power and torque explainer covers. The Lead's 125 cc eSP+ four-valve liquid-cooled engine with PGM-FI is tuned for economy and usability; Honda's Lead page in our retrieval did not publish output figures, so none are quoted. In practice both are city-strong; neither is a sports scooter.
+The SH Mode's 124.8 cc liquid-cooled eSP+ four-valve engine makes 8.2 kW at 8,500 rpm and 11.7 Nm at 5,000 rpm - strong low-down pull, as our power [and torque explainer]({{ '/articles/underbone-power-torque-explained/' | relative_url }}) covers. The Lead's 125 cc eSP+ four-valve liquid-cooled engine with PGM-FI is tuned for economy and usability; Honda's Lead page in our retrieval did not publish output figures, so none are quoted. In practice both are city-strong; neither is a sports scooter.
 
 ## Storage: the decisive difference
 
-The Lead's 37-litre bay holds two full-face helmets - the benchmark in our storage comparison. The SH Mode offers 18.5 litres: a half helmet plus daily items. If the scooter is a working tool, the Lead wins outright.
+The Lead's 37-litre bay holds two full-face helmets - the benchmark [storage comparison]({{ '/articles/scooter-underseat-storage-comparison/' | relative_url }}). The SH Mode offers 18.5 litres: a half helmet plus daily items. If the scooter is a working tool, the Lead wins outright.
 
 ## Equipment and image
 
-The SH Mode brings a 4.2-inch TFT display, full LED, smart key, USB-C, an eSAF frame and front ABS on its Sport, Special and Premium versions, plus SH-style prestige on the street. The Lead is more utilitarian, with an ABS version available. What TFT adds over LCD is covered in our displays guide.
+The SH Mode brings a 4.2-inch TFT display, full LED, smart key, USB-C, an eSAF frame and front ABS on its Sport, Special and Premium versions, plus SH-style prestige on the street. The Lead is more utilitarian, with an ABS version available. What TFT adds over LCD is covered in our displays [guide]({{ '/articles/electric-motorbike-smart-features/' | relative_url }}).
 
 ## Price
 

@@ -25,11 +25,11 @@ Both are modern liquid-cooled Hondas, but they answer different questions: the L
 
 ## The Lead's case: cargo
 
-The Lead is Honda's storage scooter. Its underseat bay holds 37 litres - enough for two full-face helmets, the benchmark we use in our underseat storage comparison - and Honda's eSP+ four-valve liquid-cooled engine with PGM-FI keeps running costs low. An ABS version is offered; check our ABS availability guide for why that matters in the wet season. If your scooter is a tool - school runs, shopping, delivery work - the Lead is the rational Honda.
+The Lead is Honda's storage scooter. Its underseat bay holds 37 litres - enough for two full-face helmets, the benchmark we use in our underseat storage comparison - and Honda's eSP+ four-valve liquid-cooled engine with PGM-FI keeps running costs low. An ABS version is offered; check our ABS [availability guide]({{ '/articles/abs-on-underbones-vietnam-explained/' | relative_url }}) for why that matters in the wet season. If your scooter is a tool - school runs, shopping, delivery work - the Lead is the rational Honda.
 
 ## The Vario's case: performance and the flat floor
 
-The Vario 160 brings Honda's 156.9 cc eSP+ engine with 11.3 kW at 8,500 rpm and 14.1 Nm at 6,500 rpm - properly strong low-down pull for a commuter. Kerb weight is 118 kg, seat height 778 mm, and it gets front ABS, smart key, LCD display and a USB-A port. Underseat storage is 17.9 litres (a half helmet plus daily items), but the 422 mm flat floor lets you carry a box between your feet - a different kind of practicality we explain in our flat-floor guide.
+The Vario 160 brings Honda's 156.9 cc eSP+ engine with 11.3 kW at 8,500 rpm and 14.1 Nm at 6,500 rpm - properly strong low-down pull for a commuter. Kerb weight is 118 kg, seat height 778 mm, and it gets front ABS, smart key, LCD display and a USB-A port. Underseat storage is 17.9 litres (a half helmet plus daily items), but the 422 mm flat floor lets you carry a box between your feet - a different kind of practicality we explain in our flat-floor [guide]({{ '/articles/underbone-frame-design-explained/' | relative_url }}).
 
 ## How to decide
 

@@ -37,11 +37,11 @@ The coastal section between Hue and Da Nang, where the line clambers along the c
 
 No train timetable decides when you stop. On a motorbike you take the back road to the fishing village, the coffee plantation, the pass the railway tunnels under. Long-distance riders consistently report that the memorable parts of a Vietnam trip are the unplanned ones, and a motorbike maximises the space for them. Our guide to riding from Hanoi to Ho Chi Minh City, and the separate Ho Chi Minh Road guide, cover the classic route options; both make the case that between the endpoints there is an entire country worth slowing down for.
 
-The trade-off is real, though: two to three weeks of riding, daily exposure to weather, traffic fatigue on the big highways, and the legal requirement that you ride with a valid licence for the bike's engine size. Check our tourist licence overview before committing to a long ride.
+The trade-off is real, though: two to three weeks of riding, daily exposure to weather, traffic fatigue on the big highways, and the legal requirement that you ride with a valid licence for the bike's engine size. Check our tourist [licence overview]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}) before committing to a long ride.
 
 ## Practical ways to combine them
 
-The classic hybrid is to ride one region and let the train carry you past the part you do not want to ride. Vietnam Railways accepts motorbikes on many long-distance services as accompanied luggage for a fee — see our dedicated ferry and train transport guide for how this works in practice. Popular patterns include:
+The classic hybrid is to ride one region and let the train carry you past the part you do not want to ride. Vietnam Railways accepts motorbikes on many long-distance services as accompanied luggage for a fee — see our dedicated [ferry and train transport guide]({{ '/articles/motorbike-ferry-train-transport-vietnam/' | relative_url }}) for how this works in practice. Popular patterns include:
 
 - Ride the north (Hanoi, Ninh Binh, Pu Luong, Ha Giang), then take the train from Hanoi to Da Nang and ride central Vietnam around Hoi An and Hue.
 - Ride the centre, then take the train or a sleeper bus through to Ho Chi Minh City and ride the Mekong Delta.

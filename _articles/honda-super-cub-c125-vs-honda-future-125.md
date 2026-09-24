@@ -37,4 +37,4 @@ Super Cub C125: 88,353,813 VND. Future 125 FI: from 30,622,909 VND (both list, r
 
 ## Verdict
 
-Buy the Future for transport; buy the Super Cub because you love what it is. There is no wrong answer - they are different products that happen to share an engine class. Icon-status bikes also attract imitation accessories, so read our genuine versus fake parts guide if you go the Cub route. Contact us to confirm current availability for rental.
+Buy the Future for transport; buy the Super Cub because you love what it is. There is no wrong answer - they are different products that happen to share an engine class. Icon-status bikes also attract imitation accessories, so read our genuine [versus fake parts guide]({{ '/articles/buying-motorbike-parts-online-vietnam/' | relative_url }}) if you go the Cub route. Contact us to confirm current availability for rental.

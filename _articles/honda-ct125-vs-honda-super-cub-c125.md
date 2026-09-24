@@ -29,7 +29,7 @@ Both are 123.9 cc air-cooled singles with 50.0 x 63.1 mm bore and stroke. Super 
 
 ## The adventure numbers
 
-CT125: 800 mm seat, 165 mm ground clearance, 117 kg, 1,961 x 805 x 1,085 mm, 17-inch wheels wearing 80/90-17 rubber front and rear, twin rear shocks. Super Cub: 780 mm seat, 136 mm clearance, 109 kg, 1,910 x 718 x 1,002 mm. The CT stands taller, clears 29 mm more obstacle, carries 1.7 litres more fuel - over 300 km of range for day trips - and carries it in a package clearly shaped for racks and luggage, the sort of riding our luggage guide covers.
+CT125: 800 mm seat, 165 mm ground clearance, 117 kg, 1,961 x 805 x 1,085 mm, 17-inch wheels wearing 80/90-17 rubber front and rear, twin rear shocks. Super Cub: 780 mm seat, 136 mm clearance, 109 kg, 1,910 x 718 x 1,002 mm. The CT stands taller, clears 29 mm more obstacle, carries 1.7 litres more fuel - over 300 km of range for day trips - and carries it in a package clearly shaped for racks and luggage, the sort of riding our luggage [guide]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}) covers.
 
 ## Price
 

@@ -29,7 +29,7 @@ The Vision runs a 110 cc air-cooled eSP single - simple, proven and cheap to kee
 
 ## Weight and wheels
 
-Honda lists the Vision at 97 kg kerb and the Vario 125 at 111 kg. That 14 kg gap is real at parking speed and when paddling a loaded bike - see our verified kerb weight table for how this class lines up. The Vision's 16-inch front wheel is a stability asset on broken streets, explained in our 16-inch wheel guide; the Vario's 14-inch wheels trade a little of that for agility and a lower seat.
+Honda lists the Vision at 97 kg kerb and the Vario 125 at 111 kg. That 14 kg gap is real at parking speed and when paddling a loaded bike - see our verified [kerb]({{ '/articles/scooter-kerb-weights-vietnam-verified/' | relative_url }}) weight table for how this class lines up. The Vision's 16-inch front wheel is a stability asset on broken streets, explained in our 16-inch [wheel guide]({{ '/articles/16-inch-wheel-scooters-vietnam/' | relative_url }}); the Vario's 14-inch wheels trade a little of that for agility and a lower seat.
 
 ## Features and price
 
@@ -41,4 +41,4 @@ Nguyen Tu publishes rental rates for the Honda Vision (200,000 VND day; 800,000-
 
 ## Which one
 
-Buy the Vision for simplicity, light weight, low running cost and parts availability everywhere. Buy the Vario 125 if you want a modern 125 with liquid cooling, smart key and idling stop, and accept the extra weight. Newer riders should also read our 110cc vs 125cc explainer before deciding that the bigger engine is automatically better.
+Buy the Vision for simplicity, light weight, low running cost and parts availability everywhere. Buy the Vario 125 if you want a modern 125 with liquid cooling, smart key and idling stop, and accept the extra weight. Newer riders should also read our 110cc [vs 125cc explainer]({{ '/articles/110cc-vs-125cc-scooters/' | relative_url }}) before deciding that the bigger engine is automatically better.

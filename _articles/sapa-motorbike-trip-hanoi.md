@@ -33,11 +33,11 @@ Sapa is the famous hill station of the far northwest: a former colonial town abo
 
 **The scenic route** is really a northwest loop miniature: out through the QL6 country and up the Lai Chau side, crossing the Khau Pha Pass above Mu Cang Chai — the terrace heartland — and arriving in Sapa from the northwest. Published estimates put it around 420 km and 12-14 hours of riding, so it demands an overnight in Nghia Lo or Than Uyen. If you have the days, this is the ride; our northwest loop guide covers the full circuit version.
 
-One legal note: the Noi Bai-Lao Cai expressway is closed to motorbikes, and a recognised driving permit matters on these roads — see our expressway rules and tourist licence guides.
+One legal note: the Noi Bai-Lao Cai expressway is closed to motorbikes, and a recognised driving permit matters on these roads — see our expressway [rules and tourist licence guide]({{ '/articles/motorbikes-on-expressway-vietnam/' | relative_url }})s.
 
 ## Altitude realities
 
-Sapa sits high enough to change the riding completely. Expect fog on the QL4D at any season, real cold from November through February (temperatures can drop toward freezing), and summer downpours that turn terrace trails slick. Pack warm layers and gloves even in warm Hanoi, read our low-visibility and mountain-pass guides before the final climb, and check our seasons guide for the window you want: September-October for golden terraces, March-April for clear air.
+Sapa sits high enough to change the riding completely. Expect fog on the QL4D at any season, real cold from November through February (temperatures can drop toward freezing), and summer downpours that turn terrace trails slick. Pack warm layers and gloves even in warm Hanoi, read our low-visibility [and mountain-pass guides]({{ '/articles/mountain-pass-riding-motorbike-vietnam/' | relative_url }}) before the final climb, and check our seasons [guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }}) for the window you want: September-October for golden terraces, March-April for clear air.
 
 ## A workable plan
 
@@ -46,7 +46,7 @@ Sapa sits high enough to change the riding completely. Expect fog on the QL4D at
 - **Day 3:** Loop rides around Sapa — the Muong Hoa valley villages, the pass roads toward O Quy Ho — at an easy pace.
 - **Day 4 (scenic option):** Return via Khau Pha Pass and Mu Cang Chai, overnighting mid-route, or take the direct corridor home.
 
-Many riders instead take the overnight train to Lao Cai and rent in Sapa for the valley loops — a legitimate way to get the mountain riding without the long transfer, covered in our ferry-and-train transport guide.
+Many riders instead take the overnight train to Lao Cai and rent in Sapa for the valley loops — a legitimate way to get the mountain riding without the long transfer, covered in our ferry-and-train [transport guide]({{ '/articles/motorbike-ferry-train-transport-vietnam/' | relative_url }}).
 
 ## Practical notes
 

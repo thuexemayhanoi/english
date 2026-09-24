@@ -25,7 +25,7 @@ Honda's own range forces a question on every underbone buyer: the thoroughly mod
 
 ## Power and torque
 
-Future 125 FI: 124.9 cc, 6.83 kW at 7,500 rpm, 10.2 Nm at 5,500 rpm. Wave RSX: 109.2 cc, 6.46 kW at 7,500 rpm, 8.70 Nm at 6,000 rpm. The Future's 1.5 Nm torque advantage is the number that matters - it shows up two-up on bridge climbs and with luggage, the exact scenarios our two-up riding guide covers.
+Future 125 FI: 124.9 cc, 6.83 kW at 7,500 rpm, 10.2 Nm at 5,500 rpm. Wave RSX: 109.2 cc, 6.46 kW at 7,500 rpm, 8.70 Nm at 6,000 rpm. The Future's 1.5 Nm torque advantage is the number that matters - it shows up two-up on bridge climbs and with luggage, the exact scenarios our two-up [riding guide]({{ '/articles/best-motorbike-for-two-people-hanoi/' | relative_url }}) covers.
 
 ## Economy and range
 

@@ -25,11 +25,11 @@ Every scooter review, brochure and rental listing shows a spec sheet - and most 
 ## The rows that matter
 
 - **Kerb weight** decides parking and foot-down confidence more than any performance number. The lightest mainstream class sits at 97 kg (Vision, Janus); the practical class runs 110-114 kg. If you are new, start light - our light bikes guide explains why.
-- **Seat height + your inseam** decide the fit. Mainstream scooters run 760-785 mm - see our seat height comparison.
+- **Seat height + your inseam** decide the fit. Mainstream scooters run 760-785 mm - [seat height comparison]({{ '/articles/scooter-seat-heights-comparison-vietnam/' | relative_url }}).
 - **Torque and its rpm** predict how the bike feels in traffic - the single most useful engine row. Our power and torque explainer shows how to compare.
 - **Fuel consumption and tank size** set your running costs and range - see the verified economy comparison.
 - **Storage capacity** in litres tells you whether your helmet lives inside the bike - see the storage comparison.
-- **Brakes (disc/drum, ABS)** matter in the wet - see our ABS guide.
+- **Brakes (disc/drum, ABS)** matter in the wet - [ABS guide]({{ '/articles/which-scooters-have-abs-vietnam/' | relative_url }}).
 
 ## The rows to discount
 

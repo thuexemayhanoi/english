@@ -43,4 +43,4 @@ The CBR150R wins despite the worst economy, purely on its 12-litre tank - the on
 
 ## The practical caveat
 
-Rural fuel station density matters as much as range; our fuel and petrol-stations guide covers planning fuel stops in Vietnam. For renting rather than buying, contact us to confirm current availability of specific models - the Wave class is price-published at 150,000 VND per day, and its ~215 km range covers most weekend loops.
+Rural fuel station density matters as much as range; our fuel [and petrol-stations guide]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}) covers planning fuel stops in Vietnam. For renting rather than buying, contact us to confirm current availability of specific models - the Wave class is price-published at 150,000 VND per day, and its ~215 km range covers most weekend loops.

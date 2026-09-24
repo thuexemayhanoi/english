@@ -35,7 +35,7 @@ The riding here is a step up in remoteness from the northwest classics: fewer fo
 
 A typical loop that riders and operators converge on from Hanoi:
 
-- **Day 1:** Hanoi to Bac Kan or Ba Be (about 200-230 km on the QL3; see our Ba Be guide). Full transport day.
+- **Day 1:** Hanoi to Bac Kan or Ba Be (about 200-230 km on the QL3; [Ba Be guide]({{ '/articles/ba-be-lake-motorbike-trip-hanoi/' | relative_url }})). Full transport day.
 - **Day 2:** Ba Be Lake — boat trip, Puong cave, Pac Ngoi homestay.
 - **Day 3:** Ba Be north to Bao Lac and across to Cao Bang city, or the slower geopark backroads; the northeast's best karst country opens up here.
 - **Day 4:** The Ban Gioc waterfall run north (about 90 km each way over Ma Phuc Pass) or Pac Bo and the Cao Bang Geopark loops.
@@ -46,11 +46,11 @@ Days flex: five is possible for confident riders in good weather, eight is comfo
 
 ## Logistics that matter here
 
-- **Navigation:** coverage drops for long stretches — offline maps are mandatory, not optional (our navigation guide has the setup).
+- **Navigation:** coverage drops for long stretches — offline maps are mandatory, not optional (our navigation [guide]({{ '/articles/motorbike-trip-navigation-offline-maps-vietnam/' | relative_url }}) has the setup).
 - **Border rules:** several stretches run along the frontier; stay on the marked roads, expect checkpoints, and keep your documents clean and dry.
 - **Accommodation:** homestays and small hotels exist in every overnight town but standards vary — our overnight-stays checklist (bike parking first) applies nightly. Book ahead on Vietnamese holiday weekends or reroute.
 - **Bike and kit:** a 125cc-plus underbone or a small manual is the practical floor; run the full prep checklist and carry a basic repair kit, because workshop density is the lowest of the popular northern routes.
-- **Seasons:** aim for October-November or late February-April; summer brings rain and slippery geopark backroads, and winter wraps the valleys in fog (see our seasons guide).
+- **Seasons:** aim for October-November or late February-April; summer brings rain and slippery geopark backroads, and winter wraps the valleys in fog (see our seasons [guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }})).
 
 ## Renting and riding out
 

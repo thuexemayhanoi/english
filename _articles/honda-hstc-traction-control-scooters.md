@@ -31,11 +31,11 @@ On the current SH160i/125i range, HSTC is fitted to the ABS versions (the Sport,
 
 ## What it is for in Vietnamese conditions
 
-Painted road markings, wet season streets, gravel washed onto corners and dusty dry-season surfaces all reduce grip under power - the exact situations where slip happens. HSTC intervenes on acceleration, which is also when a pillion raises the stakes; see our two-up guide.
+Painted road markings, wet season streets, gravel washed onto corners and dusty dry-season surfaces all reduce grip under power - the exact situations where slip happens. HSTC intervenes on acceleration, which is also when a pillion raises the stakes; see our two-up [guide]({{ '/articles/best-motorbike-for-two-people-hanoi/' | relative_url }}).
 
 ## What Honda explicitly says it does not do
 
-Honda's own page is unusually direct: HSTC does not eliminate rear-wheel slip entirely, it only assists against slipping during acceleration, and the rider remains responsible for safe riding. It does nothing for braking (that is ABS's job, covered in our ABS guide) and nothing for front-wheel grip. It is an aid, not a licence - our emergency braking and post-rain riding guides cover the skills it does not replace.
+Honda's own page is unusually direct: HSTC does not eliminate rear-wheel slip entirely, it only assists against slipping during acceleration, and the rider remains responsible for safe riding. It does nothing for braking (that is ABS's job, covered in our ABS guide) and nothing for front-wheel grip. It is an aid, not a licence - our emergency [braking and post-rain riding guide]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }})s cover the skills it does not replace.
 
 ## Should it affect your choice?
 

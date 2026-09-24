@@ -27,7 +27,7 @@ Honda Vietnam describes eSAF as a frame made of pressed (stamped) steel sheets j
 
 ## Why pressed-steel frames are lighter
 
-A traditional underbone or scooter frame is assembled from welded steel tubes. Stamping sheet steel into structural shapes lets engineers place material only where loads exist, and laser welding keeps the joints tight without heavy reinforcement. Less metal for the same stiffness means a lighter finished frame - and on a scooter, frame weight is a large share of kerb weight. See our verified kerb weight table for how Honda's newest models compare.
+A traditional underbone or scooter frame is assembled from welded steel tubes. Stamping sheet steel into structural shapes lets engineers place material only where loads exist, and laser welding keeps the joints tight without heavy reinforcement. Less metal for the same stiffness means a lighter finished frame - and on a scooter, frame weight is a large share of kerb weight. See our verified [kerb]({{ '/articles/scooter-kerb-weights-vietnam-verified/' | relative_url }}) weight table for how Honda's newest models compare.
 
 ## Which scooters carry it
 
@@ -35,7 +35,7 @@ From the Honda Vietnam pages we verified: the Sh mode 125 (116 kg kerb weight) a
 
 ## What it means for riding in Hanoi
 
-Light weight is not just a spec-sheet point: it changes how much effort a day of riding costs. Lighter machines are easier to paddle in jams, easier to park on kerbs, easier to catch when they tip at low speed - all daily Hanoi events. The trade-off is that very light machines feel less planted at speed than heavier long-wheelbase scooters, which our wheelbase explainer covers.
+Light weight is not just a spec-sheet point: it changes how much effort a day of riding costs. Lighter machines are easier to paddle in jams, easier to park on kerbs, easier to catch when they tip at low speed - all daily Hanoi events. The trade-off is that very light machines feel less planted at speed than heavier long-wheelbase scooters, which our wheelbase [explainer]({{ '/articles/scooter-wheelbase-stability-explained/' | relative_url }}) covers.
 
 ## What eSAF does not mean
 

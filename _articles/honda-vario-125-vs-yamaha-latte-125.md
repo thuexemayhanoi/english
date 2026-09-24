@@ -25,7 +25,7 @@ Two new-generation 125 cc city scooters, two very different philosophies: Honda'
 
 ## Engine and cooling
 
-The Vario 125 uses a liquid-cooled 125 cc eSP engine with PGM-FI, producing 8.48 kW at 8,500 rpm and 11.9 Nm at 5,000 rpm, plus an idling stop system. The Latte uses an air-cooled (forced-air) 124.9 cc Blue Core engine with two valves, producing 6.05 kW at 6,500 rpm and 9.77 Nm at 5,000 rpm. The Honda is clearly the stronger engine; the Yamaha counters with exceptional economy - see our air-cooled vs liquid-cooled explainer for what the cooling difference means in Hanoi heat.
+The Vario 125 uses a liquid-cooled 125 cc eSP engine with PGM-FI, producing 8.48 kW at 8,500 rpm and 11.9 Nm at 5,000 rpm, plus an idling stop system. The Latte uses an air-cooled (forced-air) 124.9 cc Blue Core engine with two valves, producing 6.05 kW at 6,500 rpm and 9.77 Nm at 5,000 rpm. The Honda is clearly the stronger engine; the Yamaha counters with exceptional economy - see our air-cooled [vs liquid-cooled explainer]({{ '/articles/air-cooled-vs-liquid-cooled-motorbike/' | relative_url }}) for what the cooling difference means in Hanoi heat.
 
 ## Fuel economy
 

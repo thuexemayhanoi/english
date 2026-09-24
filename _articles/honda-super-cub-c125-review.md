@@ -34,7 +34,7 @@ Kerb weight is 109 kg, the seat sits at 780 mm, ground clearance is 136 mm, and 
 
 ## What you are paying for
 
-Mechanically this is a simple, durable 125 - the numbers are close to the far cheaper Future 125 FI (see our Future review for the comparison). What the extra money buys is the design: the pressed-steel silhouette, the leg shield, the build detailing and the badge. Two versions are listed - Standard and Special. Parts availability for Honda underbones in Vietnam is excellent, though icon-status models attract copy accessories - our genuine versus fake parts guide is worth reading before you buy.
+Mechanically this is a simple, durable 125 - the numbers are close to the far cheaper Future 125 FI (see our [Future review for the comparison]({{ '/articles/honda-future-125-riding-guide/' | relative_url }})). What the extra money buys is the design: the pressed-steel silhouette, the leg shield, the build detailing and the badge. Two versions are listed - Standard and Special. Parts availability for Honda underbones in Vietnam is excellent, though icon-status models attract copy accessories - our genuine [versus fake parts guide]({{ '/articles/buying-motorbike-parts-online-vietnam/' | relative_url }}) is worth reading before you buy.
 
 ## Who it suits
 

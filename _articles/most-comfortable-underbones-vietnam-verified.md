@@ -48,7 +48,7 @@ The Future 125 FI is the comfort number-cruncher: lowest seat in the verified ra
 
 The Wave Alpha wins the simplicity class - 96 kg, no bad habits, and the cheapest running costs of the group.
 
-The CT125 inverts the table on purpose: its 800 mm seat and 117 kg are comfortable only for tall riders - who should read our tall riders guide.
+The CT125 inverts the table on purpose: its 800 mm seat and 117 kg are comfortable only for tall riders - who should read our [tall riders guide]({{ '/articles/best-motorbikes-for-tall-riders-vietnam/' | relative_url }}).
 
 ## Renting comfortably
 

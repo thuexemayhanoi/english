@@ -35,7 +35,7 @@ Independent route guides describe exactly this: take the byways off the highways
 
 **The deep-delta loop.** Can Tho to Soc Trang, Tra Vinh and the Khmer-temple countryside, back through Vinh Long — flat, quiet, orchard-lined. Ferries still link what bridges have not yet replaced; our guide to ferries and trains with bikes covers the practicalities of rolling aboard.
 
-**The far-west run.** Chau Doc on the Cambodian border (see our border guide for the crossing question), up the Bassac river road toward the mountains — the delta's only hills, where the flat ends.
+**The far-west run.** Chau Doc on the Cambodian border (see our border [guide]({{ '/articles/motorbike-border-crossing-vietnam-cambodia/' | relative_url }}) for the crossing question), up the Bassac river road toward the mountains — the delta's only hills, where the flat ends.
 
 ## Riding notes
 
@@ -47,4 +47,4 @@ Independent route guides describe exactly this: take the byways off the highways
 
 ## Fitting the delta into a Vietnam trip
 
-Most travellers reach the delta at the end of a north-to-south ride (see our full route guide) or as a standalone Saigon chapter. Either way the pattern is the same: rent in Saigon, keep the loop compact, and let the ferries set the pace. And when the trip is over, the story you will tell is the 5am floating market, reached by bike.
+Most travellers reach the delta at the end of a north-to-south ride (see our full [route guide]({{ '/articles/hanoi-to-ho-chi-minh-city-by-motorbike/' | relative_url }})) or as a standalone Saigon chapter. Either way the pattern is the same: rent in Saigon, keep the loop compact, and let the ferries set the pace. And when the trip is over, the story you will tell is the 5am floating market, reached by bike.

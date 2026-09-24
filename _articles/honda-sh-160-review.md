@@ -30,7 +30,7 @@ The SH160i uses a 156.9 cc single-cylinder, four-stroke, liquid-cooled eSP+ engi
 
 ## Size, weight and comfort
 
-Honda publishes a kerb weight of 134 kg, seat height 799 mm, dimensions 2,090 x 739 x 1,156 mm, a 1,353 mm wheelbase, 146 mm ground clearance, and 16-inch wheels front and rear (100/80-16 front, 120/80-16 rear). The long wheelbase and big wheels give the SH its signature highway stability - see our scooter wheelbase explainer for why geometry matters. Note the seat height: at 799 mm it is taller than most city scooters, so shorter riders should sit on one first (our seat height comparison has the numbers).
+Honda publishes a kerb weight of 134 kg, seat height 799 mm, dimensions 2,090 x 739 x 1,156 mm, a 1,353 mm wheelbase, 146 mm ground clearance, and 16-inch wheels front and rear (100/80-16 front, 120/80-16 rear). The long wheelbase and big wheels give the SH its signature highway stability - see our scooter [wheelbase explainer]({{ '/articles/scooter-wheelbase-stability-explained/' | relative_url }}) for why geometry matters. Note the seat height: at 799 mm it is taller than most city scooters, so shorter riders should sit on one first (our seat height comparison has the numbers).
 
 ## Fuel economy and practicality
 
@@ -48,4 +48,4 @@ Nguyen Tu does not publish a rental rate for the SH. Contact us to confirm curre
 
 ## What to check before you ride one
 
-Confirm the exact version (ABS and HSTC or standard), tyre condition and brake feel, and work through our rental motorbike inspection checklist before signing anything.
+Confirm the exact version (ABS and HSTC or standard), tyre condition and brake feel, and work through our rental [motorbike inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) before signing anything.

@@ -16,7 +16,7 @@ subcluster: "6.1 understanding-50cc"
 date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 3 (mopeds designed for no more than 50 km/h)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 34(1)(g) (mopeds designed for no more than 50 km/h)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
 internal_link_targets: what-is-a-50cc-motorbike-vietnam, 50cc-licence-vietnam, best-motorbike-for-hanoi-traffic, 50cc-day-trip-range-limits
 ---
@@ -25,7 +25,7 @@ The question sounds simple and the honest answer has three layers: the law, the 
 
 ## The legal layer
 
-Vietnamese law defines the moped category as vehicles designed for a top speed of no more than 50 km/h. That is a design classification, written into Article 3 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) — not a speed limit you are allowed to ride at wherever you please. Normal road speed limits still apply to every 50cc bike.
+Vietnamese law defines the moped category as vehicles designed for a top speed of no more than 50 km/h. That is a design classification, written into Article 34(1)(g) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) — not a speed limit you are allowed to ride at wherever you please. Normal road speed limits still apply to every 50cc bike.
 
 ## The machine layer
 

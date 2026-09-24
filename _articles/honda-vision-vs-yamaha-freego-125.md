@@ -28,7 +28,7 @@ Vision: 109.5 cc air-cooled eSP, 6.59 kW at 7,500 rpm, 9.29 Nm at 6,000 rpm, pub
 
 ## Wheels and stability
 
-This is the Vision's signature: a 16-inch front wheel (80/90-16) that rides broken pavement better than anything small-wheeled - covered in our 16-inch wheel guide. The FreeGo runs 100/90-12 front and 110/90-12 rear tubeless tyres: more agile, less composed on potholes.
+This is the Vision's signature: a 16-inch front wheel (80/90-16) that rides broken pavement better than anything small-wheeled - covered in our 16-inch [wheel guide]({{ '/articles/16-inch-wheel-scooters-vietnam/' | relative_url }}). The FreeGo runs 100/90-12 front and 110/90-12 rear tubeless tyres: more agile, less composed on potholes.
 
 ## Weight and seat
 

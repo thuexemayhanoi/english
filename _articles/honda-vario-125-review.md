@@ -48,4 +48,4 @@ Nguyen Tu does not publish a rental rate for the Vario 125. Contact us to confir
 
 ## What to check before you ride one
 
-Tyre condition, brake feel, and that the smart key system works properly. Then work through our rental motorbike inspection checklist before you sign.
+Tyre condition, brake feel, and that the smart key system works properly. Then work through our rental [motorbike inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) before you sign.

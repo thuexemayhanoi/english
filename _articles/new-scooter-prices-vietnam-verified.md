@@ -43,7 +43,7 @@ Yamaha also lists the NMAX from 69,000,000 VND at the top of its scooter range. 
 
 ## What list prices do not include
 
-Registration, plate, insurance (compulsory third-party insurance is mandatory - see our insurance guide), accessories and dealer fees come on top. Versions matter too: most models span several versions, and the cheapest version is rarely the one displayed.
+Registration, plate, insurance (compulsory third-party insurance is mandatory - see our insurance [guide]({{ '/articles/do-you-need-insurance-to-ride-vietnam/' | relative_url }})), accessories and dealer fees come on top. Versions matter too: most models span several versions, and the cheapest version is rarely the one displayed.
 
 ## List price versus rental price
 

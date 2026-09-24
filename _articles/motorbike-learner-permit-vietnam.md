@@ -20,7 +20,7 @@ review_status: VERIFIED
 sources:
   - "https://thanhnien.vn/tu-19-hoc-bang-lai-xe-may-hang-a-a1-bao-lau-moi-duoc-thi-sat-hach-185250909090811652.htm — Thanh Niên: Circular 14/2025/TT-BXD training-hour requirements for class A and A1 from 1 September 2025"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-12-2025-tt-bca-cua-bo-cong-an-quy-dinh-ve-sat-hach-cap-giay-phep-lai-xe-119250303174347028.htm — Circular 12/2025/TT-BCA of the Ministry of Public Security, full text (Báo điện tử Chính phủ)"
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 58 (conditions of drivers)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 56 (conditions of drivers)"
 internal_link_targets: "how-to-get-a1-licence-vietnam, vietnam-a1-licence-test, a1-licence-cost-vietnam, minimum-age-ride-motorbike-vietnam, vietnam-a-licence-what-you-can-ride"
 ---
 
@@ -28,7 +28,7 @@ No. There is no learner permit for motorbike classes in Vietnam — no provision
 
 ## How learning actually works
 
-The law (Article 58 of Law 36/2024/QH15) conditions motorbike riding on age, health and an appropriate licence — there is no intermediate permission. What stands in for a learner stage is the training course. Since 1 September 2025, Circular 14/2025/TT-BXD of the Ministry of Construction fixes minimum training hours and skills before a candidate can even be registered for the test: class A runs 32 hours including 20 theory and 4 practical; A1 follows a shorter programme of the same structure. Completing the course — attendance verified — is the precondition for the exam.
+The law (Article 56 of Law 36/2024/QH15) conditions motorbike riding on age, health and an appropriate licence — there is no intermediate permission. What stands in for a learner stage is the training course. Since 1 September 2025, Circular 14/2025/TT-BXD of the Ministry of Construction fixes minimum training hours and skills before a candidate can even be registered for the test: class A runs 32 hours including 20 theory and 4 practical; A1 follows a shorter programme of the same structure. Completing the course — attendance verified — is the precondition for the exam.
 
 ## What this means practically
 

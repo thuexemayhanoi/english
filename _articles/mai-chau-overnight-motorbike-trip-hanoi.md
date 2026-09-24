@@ -33,7 +33,7 @@ The standard line out of the city runs via Thang Long Avenue to the Hoa Lac area
 
 Treat the first 30 or so kilometres out of Hanoi as the least pleasant part — busy, dusty and urban — and plan your first real stop around Hoa Binh city, where the lake and dam make a natural tea break. After Hoa Binh the road becomes genuinely scenic, following the Black River reservoir with limestone walls on one side. Fuel is easy to find along QL6; top up in Hoa Binh anyway so you never think about it again.
 
-Thung Khe Pass is the technical highlight: a winding climb with a famous white-rock section and a viewpoint near the top. It is a real mountain pass, so apply everything in our guide to mountain pass riding — slow in, steady throttle, no overtaking on blind bends. On clear days the view over the valley is one of the best in the region; in fog it becomes a careful, low-speed descent, so check our low-visibility riding advice before you set off.
+Thung Khe Pass is the technical highlight: a winding climb with a famous white-rock section and a viewpoint near the top. It is a real mountain pass, so apply everything in our guide [to mountain pass riding]({{ '/articles/mountain-pass-riding-motorbike-vietnam/' | relative_url }}) — slow in, steady throttle, no overtaking on blind bends. On clear days the view over the valley is one of the best in the region; in fog it becomes a careful, low-speed descent, so check our low-visibility riding advice before you set off.
 
 ## Sleeping in Mai Chau
 

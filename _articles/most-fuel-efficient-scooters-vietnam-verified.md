@@ -51,7 +51,7 @@ Range figures are the manufacturer's own basis (tank divided by published consum
 
 ## Who each end of the table suits
 
-Daily commuters covering 20-40 km: anything in the top five repays you monthly. Touring riders: look at the range column instead - NMAX, SH160i, Lead. Delivery and high-usage riders: pair an efficient model with the maintenance habits in our high-usage guide.
+Daily commuters covering 20-40 km: anything in the top five repays you monthly. Touring riders: look at the range column instead - NMAX, SH160i, Lead. Delivery and high-usage riders: pair an efficient model with the maintenance habits in our high-usage [guide]({{ '/articles/high-mileage-rental-motorbike-inspection/' | relative_url }}).
 
 ## Renting
 

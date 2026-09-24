@@ -37,7 +37,7 @@ Two numbers decide how a bike accelerates: the power of the engine and the mass 
 | Honda CT125 | 6.76 kW | 117 kg | ~5.8 |
 | Yamaha Sirius RC 110 | 5.9 kW | 100 kg wet | ~5.9 |
 
-(Power per 100 kg, rounded; wet and kerb weights are as the manufacturers publish them - see our wet vs dry weight explainer for the difference.
+(Power per 100 kg, rounded; wet and kerb weights are as the manufacturers publish them - see our wet [vs dry weight explainer]({{ '/articles/wet-vs-dry-weight-explained/' | relative_url }}) for the difference.
 )
 
 ## What the ratios reveal

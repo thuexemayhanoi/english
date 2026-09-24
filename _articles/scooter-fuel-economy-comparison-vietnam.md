@@ -43,7 +43,7 @@ Fuel is the biggest running cost of any scooter in Vietnam, and the manufacturer
 
 ## What changes your real numbers
 
-Tyre pressure, idling in traffic, a passenger, and riding style can shift consumption noticeably from claimed figures - our guide to improving fuel economy covers the habits. Renters should also know what petrol to fill (our fuel guide for rental bikes) - and note that under Vietnamese fuel policy practice, you return the bike as you got it.
+Tyre pressure, idling in traffic, a passenger, and riding style can shift consumption noticeably from claimed figures - our guide to improving fuel economy covers the habits. Renters should also know what petrol to fill (our fuel [guide]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}) for rental bikes) - and note that under Vietnamese fuel policy practice, you return the bike as you got it.
 
 ## If you are choosing
 

@@ -45,4 +45,4 @@ The CBR150R is the least efficient here, yet its 12-litre tank gives it the long
 
 ## Rental context
 
-The price-published rental classes at our counter are the Wave and Sirius - the second-thriftiest engine in the table and the mid-pack Sirius. Contact us to confirm current availability. And remember: rider behaviour moves real economy more than model choice does - our fuel-economy improvement guide covers the riding habits that matter.
+The price-published rental classes at our counter are the Wave and Sirius - the second-thriftiest engine in the table and the mid-pack Sirius. Contact us to confirm current availability. And remember: rider behaviour moves real economy more than model choice does - our fuel-economy [improvement guide]({{ '/articles/scooter-fuel-economy-figures-explained/' | relative_url }}) covers the riding habits that matter.

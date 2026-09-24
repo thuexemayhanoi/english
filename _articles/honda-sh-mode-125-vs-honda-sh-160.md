@@ -40,7 +40,7 @@ SH Mode: 4.2-inch TFT display, smart key, USB-C, 18.5 L underseat storage, front
 
 ## Price
 
-Honda's published list prices: 66,361,091 VND for the SH Mode versions shown, versus 104,490,000 VND for the SH160i Sport version. That gap of roughly 38 million VND is the real decision - see our premium scooter overview for where each sits in the market.
+Honda's published list prices: 66,361,091 VND for the SH Mode versions shown, versus 104,490,000 VND for the SH160i Sport version. That gap of roughly 38 million VND is the real decision - see our premium [scooter overview]({{ '/articles/premium-scooters-vietnam/' | relative_url }}) for where each sits in the market.
 
 ## Verdict
 

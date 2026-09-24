@@ -38,7 +38,7 @@ Honda's published consumption figure is 1.82 litres/100 km, from a 4.8-litre tan
 
 ## Practical features
 
-The Vision's LCD meter shows distance and fuel level, the always-on headlight improves visibility, and smart-key versions are available. Storage and everyday usability are covered in our scooter underseat storage comparison.
+The Vision's LCD meter shows distance and fuel level, the always-on headlight improves visibility, and smart-key versions are available. Storage and everyday usability are [scooter underseat storage comparison]({{ '/articles/scooter-underseat-storage-comparison/' | relative_url }})seat storage comparison.
 
 ## Who it suits
 
@@ -46,4 +46,4 @@ Commuters, students, first-time riders and anyone who mainly rides in the city. 
 
 ## What to check before you ride one
 
-Tyre condition, brake feel and the rental checklist in our rental motorbike inspection guide. Licence rules in Vietnam depend on engine capacity - see our licence guides. The Vision is a safe default choice, but sit on one first: fit matters more than spec sheets.
+Tyre condition, brake feel and the rental checklist in our rental [motorbike inspection guide]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}). Licence rules in Vietnam depend on engine capacity - see our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}). The Vision is a safe default choice, but sit on one first: fit matters more than spec sheets.

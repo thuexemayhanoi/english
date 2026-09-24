@@ -42,7 +42,7 @@ Two light, inexpensive, city-first automatic scooters define the entry class in 
 - **Performance:** the Janus's larger engine produces slightly more power and torque at lower revs; the Vision compensates with gearing tuned for the city. Both are city scooters - neither is a tourer.
 - **Weight:** identical at 97 kg - the lightest class on the market, which our light motorbikes for new riders guide covers.
 - **Economy:** the Vision's published consumption is lower, and its bigger tank gives it a longer range between stops. See the fuel economy comparison for the full class picture.
-- **Wheels:** the Vision's 16-inch front wheel gives more stability over potholes (our 16-inch wheel guide explains why); the Janus's 14-inch wheels sharpen low-speed agility.
+- **Wheels:** the Vision's 16-inch front wheel gives more stability over potholes (our 16-inch [wheel guide]({{ '/articles/16-inch-wheel-scooters-vietnam/' | relative_url }}) explains why); the Janus's 14-inch wheels sharpen low-speed agility.
 - **Price:** Yamaha lists the Janus from 29,151,000 VND against Honda's Vision listing from 31,506,545 VND - manufacturer suggested retail, retrieved 23 September 2026.
 
 ## Which should you choose?

@@ -32,23 +32,23 @@ The northwest loop is Vietnam's big-mountain grand tour: out of Hanoi through Ma
 
 A typical ten-day plan, clockwise:
 
-- **Days 1-2:** Hanoi to Mai Chau (see our Mai Chau guide), then Moc Chau plateau (see our Moc Chau guide) — the easy, scenic opening third on QL6.
+- **Days 1-2:** Hanoi to Mai Chau ([Mai Chau guide]({{ '/articles/mai-chau-overnight-motorbike-trip-hanoi/' | relative_url }})), then Moc Chau plateau ([Moc Chau guide]({{ '/articles/moc-chau-motorbike-trip-hanoi/' | relative_url }})) — the easy, scenic opening third on QL6.
 - **Days 3-4:** Son La city and the Pha Din Pass — the dramatic natural border between Son La and Dien Bien provinces — down into Dien Bien Phu, the 1954 battlefield town and the loop's historical anchor.
 - **Days 5-6:** The remote stretch: Muong Lay and the Black River basin, the area route guides describe as the least-travelled region in Vietnam, up through Sin Ho to Lai Chau. Note the warning that comes with it: the Sin Ho-Lai Chau section is challenging with landslide risk in the rainy summer months — check conditions locally and take the alternative QL12-side roads if weather is against you.
-- **Days 7-8:** Lai Chau up the QL4D over the passes to Sapa, crossing the O Quy Ho Pass — one of the great ridge roads of the north (see our Sapa guide).
+- **Days 7-8:** Lai Chau up the QL4D over the passes to Sapa, crossing the O Quy Ho Pass — one of the great ridge roads of the north ([Sapa guide]({{ '/articles/sapa-motorbike-trip-hanoi/' | relative_url }})).
 - **Days 9-10:** Sapa down to Lao Cai and home via the QL70/QL2 corridors, or the longer return through Mu Cang Chai's terraces and Nghia Lo.
 
 ## What makes this loop harder
 
-Three things separate the northwest from a Mai Chau weekend. Distance: even compressed it is roughly 1,200-1,500 km over ten days. Remoteness: fuel, mechanics and ATMs thin out badly in the Black River country — plan each day's fuel stops at breakfast. Weather: the high passes (Pha Din, O Quy Ho, Khau Pha if you take the Mu Cang Chai return) sit above 1,000 m and can be fog-bound or icy in winter and rain-lashed in summer. Our mountain-pass and low-visibility guides are not optional reading here, and our seasons guide tells you which month to aim for (October and March-April are the classic choices).
+Three things separate the northwest from a Mai Chau weekend. Distance: even compressed it is roughly 1,200-1,500 km over ten days. Remoteness: fuel, mechanics and ATMs thin out badly in the Black River country — plan each day's fuel stops at breakfast. Weather: the high passes (Pha Din, O Quy Ho, Khau Pha if you take the Mu Cang Chai return) sit above 1,000 m and can be fog-bound or icy in winter and rain-lashed in summer. Our mountain-pass and low-visibility guides are not optional reading here, and our seasons [guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }}) tells you which month to aim for (October and March-April are the classic choices).
 
 ## Practical planning
 
 - **Bike:** this is a 125cc-minimum, manual-gearbox, good-tyres route; experienced riders on semi-autos do it, but clutch control earns its keep on the passes. Service the bike before departure and say so at the rental shop.
-- **Navigation:** offline maps mandatory; multi-day sections have no signal (our navigation guide).
+- **Navigation:** offline maps mandatory; multi-day sections have no signal (our navigation [guide]({{ '/articles/motorbike-trip-navigation-offline-maps-vietnam/' | relative_url }})).
 - **Sleep:** homestays in Mai Chau and Mu Cang Chai, hotels in Son La, Dien Bien Phu, Lai Chau and Sapa; the overnight-stays checklist applies every night, bike parking first.
-- **Budget:** carry a cash cushion — our trip-budget guide gives the framework, and the remote northwest is where the cash buffer matters.
-- **Fitness and margins:** two rest half-days beats one heroic day; our day-distance guide explains why.
+- **Budget:** carry a cash cushion — our trip-budget [guide]({{ '/articles/motorbike-trip-budget-from-hanoi/' | relative_url }}) gives the framework, and the remote northwest is where the cash buffer matters.
+- **Fitness and margins:** two rest half-days beats one heroic day; our day-distance [guide]({{ '/articles/how-far-motorbike-day-trip-hanoi/' | relative_url }}) explains why.
 
 ## Renting for the loop
 

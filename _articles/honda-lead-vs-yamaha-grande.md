@@ -47,4 +47,4 @@ Both scooters sell on practicality rather than pace, and both put storage first 
 
 ## Which should you choose?
 
-Lead for maximum cargo, range and the ABS option. Grande for weight, features and design. Neither is among Nguyen Tu's price-published rental models - contact us to confirm current availability. See our storage comparison and smart-key guide for the class-wide picture.
+Lead for maximum cargo, range and the ABS option. Grande for weight, features and design. Neither is among Nguyen Tu's price-published rental models - contact us to confirm current availability. See our storage [comparison and smart-key guide]({{ '/articles/scooter-underseat-storage-comparison/' | relative_url }}) for the class-wide picture.

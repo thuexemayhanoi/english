@@ -38,4 +38,4 @@ Clip-on-style bars and rearset footpegs mean a committed, leaned-forward positio
 
 ## Who it suits
 
-Riders moving up from an Exciter or Winner R who want a full fairing, big-tank touring range and sport-bike ergonomics while staying inside the A1 licence bracket - see our guide to what the A1 licence lets you ride. Contact us to confirm current availability for rental.
+Riders moving up from an Exciter or Winner R who want a full fairing, big-tank touring range and sport-bike ergonomics while staying inside the A1 licence bracket - see our [guide to what the A1 licence lets you ride]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}). Contact us to confirm current availability for rental.

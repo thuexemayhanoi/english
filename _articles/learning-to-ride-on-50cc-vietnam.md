@@ -46,7 +46,7 @@ A bike that cruises under 45 km/h keeps you inside the speeds where mistakes are
 
 ## For the 16–17-year-olds
 
-The legal frame (age 16 minimum, no licence for 50cc-and-under) is in our age-rules article, and the school training programme adds structured instruction. Parents supervising that first week make more difference than any bike choice — our teaching guide covers it.
+The legal frame (age 16 minimum, no licence for 50cc-and-under) is in our age-rules article, and the school training programme adds structured instruction. Parents supervising that first week make more difference than any bike choice — our teaching [guide]({{ '/articles/teaching-teens-50cc-safe-riding/' | relative_url }}) covers it.
 
 ## After the 50cc
 

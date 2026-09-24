@@ -37,7 +37,7 @@ Vision: 1.82 L/100 km published from a 4.8-litre tank. Lead: 2.1 L/100 km from a
 
 ## Storage - the Lead's kingdom
 
-Vision: a modest underseat bay (see the storage comparison). Lead: 37 litres - two full-face helmets, the largest bay of any scooter in our verified data. If your scooter doubles as a shopping trolley or delivery platform, the Lead wins outright; Honda also offers an ABS version of the Lead.
+Vision: a modest underseat bay [storage comparison]({{ '/articles/scooter-underseat-storage-comparison/' | relative_url }}). Lead: 37 litres - two full-face helmets, the largest bay of any scooter in our verified data. If your scooter doubles as a shopping trolley or delivery platform, the Lead wins outright; Honda also offers an ABS version of the Lead.
 
 ## Price position
 
@@ -45,4 +45,4 @@ Honda positions the Vision below the Lead family; at retail the Air Blade family
 
 ## Renting either
 
-The Vision is one of Nguyen Tu's price-published models: 200,000 VND per day, 800,000-1,000,000 VND per week, 1,800,000-2,000,000 VND per month. The Lead is not price-published - contact us to confirm current availability. Before you ride: the rental inspection checklist, and the licence note that both capacity classes fall under the same A1 rules explained in our licence guides.
+The Vision is one of Nguyen Tu's price-published models: 200,000 VND per day, 800,000-1,000,000 VND per week, 1,800,000-2,000,000 VND per month. The Lead is not price-published - contact us to confirm current availability. Before you ride: the rental inspection checklist, and the licence note that both capacity classes fall under the same A1 rules explained in our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}).

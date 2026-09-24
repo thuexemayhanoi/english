@@ -18,13 +18,13 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 review_status: VERIFIED
 sources:
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 58(6) (IDP recognition) — Article 58(6) (only 1968 Vienna Convention permits recognised)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 57(8) (IDP recognition; only 1968 Vienna Convention permits recognised)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-12-2025-tt-bca-cua-bo-cong-an-quy-dinh-ve-sat-hach-cap-giay-phep-lai-xe-119250303174347028.htm — Circular 12/2025/TT-BCA of the Ministry of Public Security, full text (Báo điện tử Chính phủ) — exchange of foreign licences — exchange conditions"
   - "https://giadinh.suckhoedoisong.vn/nguoi-nuoc-ngoai-muon-thi-va-cap-bang-lai-xe-o-viet-nam-can-dap-ung-nhung-dieu-kien-gi-172230703155515226.htm — Sức khỏe & Đời sống: conditions for foreigners testing for and obtaining a Vietnamese licence; no English-language tests"
 internal_link_targets: "which-countries-idp-valid-vietnam, idp-vietnam-motorbike-rules, foreign-licence-exchange-vietnam, can-tourists-ride-motorbike-vietnam, no-licence-fine-vietnam, lending-motorbike-unlicensed-rider-vietnam"
 ---
 
-If your country is not party to the 1968 Vienna Convention on Road Traffic — or your IDP is the 1949 Geneva format — your home documents do not make you a legal motorbike rider in Vietnam. Article 58(6) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) recognises only the 1968 format carried with the national licence. What remains are two legal routes and one honest conclusion.
+If your country is not party to the 1968 Vienna Convention on Road Traffic — or your IDP is the 1949 Geneva format — your home documents do not make you a legal motorbike rider in Vietnam. Article 57(8) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) recognises only the 1968 format carried with the national licence. What remains are two legal routes and one honest conclusion.
 
 ## Route one: exchange as a resident
 

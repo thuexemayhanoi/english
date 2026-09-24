@@ -25,7 +25,7 @@ These are the two most aggressive mainstream sporty scooters currently sold in V
 
 ## Engine and performance
 
-The Vario 160's 156.9 cc eSP+ four-valve engine produces 11.3 kW at 8,500 rpm and 14.1 Nm at 6,500 rpm. The NVX's 155.1 cc Blue Core four-valve engine with VVA produces the same 11.3 kW but at 8,000 rpm, with 13.9 Nm at 6,500 rpm. On paper they are nearly identical; in character the NVX's variable valve timing spreads its delivery wider, while the Vario counters with a slightly stronger torque figure - our power and torque explainer covers what this means in practice.
+The Vario 160's 156.9 cc eSP+ four-valve engine produces 11.3 kW at 8,500 rpm and 14.1 Nm at 6,500 rpm. The NVX's 155.1 cc Blue Core four-valve engine with VVA produces the same 11.3 kW but at 8,000 rpm, with 13.9 Nm at 6,500 rpm. On paper they are nearly identical; in character the NVX's variable valve timing spreads its delivery wider, while the Vario counters with a slightly stronger torque figure - our power [and torque explainer]({{ '/articles/underbone-power-torque-explained/' | relative_url }}) covers what this means in practice.
 
 ## Weight and chassis
 

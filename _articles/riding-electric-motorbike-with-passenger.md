@@ -17,7 +17,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — 165 kg max load, regen braking system"
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text — Article 31 (helmets for riders and passengers)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text — Article 33(2) (helmets for riders and passengers)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
 internal_link_targets: e-bike-helmet-rules-vietnam, regen-braking-explained-electric, electric-motorbike-range-real-world-vietnam, riding-electric-moped-16-vietnam
 ---

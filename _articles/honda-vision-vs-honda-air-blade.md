@@ -40,7 +40,7 @@ Honda's two mainstream scooters sit one rung apart: the Vision 110 is the entry 
 - **Performance:** the Air Blade's extra 47 cc delivers roughly two-thirds more power - the difference between relaxed commuting and confident two-up riding.
 - **Weight:** 16 kg apart. The Vision is easier to handle and park for smaller riders; the Air Blade feels steadier at speed.
 - **Economy:** the Vision's 1.82 L/100 km is among the best published figures in the class; the Air Blade pays for its performance.
-- **Cooling:** air-cooled simplicity (Vision) vs liquid-cooled thermal headroom (Air Blade) - our cooling explainer covers the trade-offs.
+- **Cooling:** air-cooled simplicity (Vision) vs liquid-cooled thermal headroom (Air Blade) - our cooling [explainer]({{ '/articles/air-cooled-vs-liquid-cooled-motorbike/' | relative_url }}) covers the trade-offs.
 
 ## Which should you choose?
 

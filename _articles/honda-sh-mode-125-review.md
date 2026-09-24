@@ -26,11 +26,11 @@ The Honda SH Mode 125 exists for riders who want the look and feel of the SH - V
 
 ## Engine and performance
 
-The Sh mode 125 runs a 124.8 cc single-cylinder, four-stroke, liquid-cooled engine from Honda's eSP+ family with four valves per cylinder, meeting the EURO 4 emissions standard. Honda lists maximum power at 8.2 kW at 8,500 rpm and maximum torque at 11.7 Nm at 5,000 rpm. That torque arrives low in the rev range, which is exactly what you want in stop-and-go Hanoi traffic - strong pull away from lights without working the engine. For what these figures mean in practice, see our scooter power and torque explainer.
+The Sh mode 125 runs a 124.8 cc single-cylinder, four-stroke, liquid-cooled engine from Honda's eSP+ family with four valves per cylinder, meeting the EURO 4 emissions standard. Honda lists maximum power at 8.2 kW at 8,500 rpm and maximum torque at 11.7 Nm at 5,000 rpm. That torque arrives low in the rev range, which is exactly what you want in stop-and-go Hanoi traffic - strong pull away from lights without working the engine. For what these figures mean in practice, see our scooter [power and torque explainer]({{ '/articles/scooter-power-torque-explained/' | relative_url }}).
 
 ## Size, weight and comfort
 
-Honda publishes a kerb weight of 116 kg, a seat height of 765 mm, and dimensions of 1,950 x 668 x 1,110 mm on a 1,304 mm wheelbase with 151 mm of ground clearance. The low seat is one of the reasons the Sh mode suits smaller riders and riders who want an easy flat-foot at lights - compare it in our scooter seat heights guide. The 16-inch front wheel (80/90-16 tyre) adds stability on rough streets, a trait we cover in the 16-inch wheel scooters guide.
+Honda publishes a kerb weight of 116 kg, a seat height of 765 mm, and dimensions of 1,950 x 668 x 1,110 mm on a 1,304 mm wheelbase with 151 mm of ground clearance. The low seat is one of the reasons the Sh mode suits smaller riders and riders who want an easy flat-foot at lights - compare it in our scooter [seat heights guide]({{ '/articles/scooter-seat-heights-comparison-vietnam/' | relative_url }}). The 16-inch front wheel (80/90-16 tyre) adds stability on rough streets, a trait we cover in the 16-inch wheel scooters guide.
 
 ## Fuel economy
 
@@ -44,8 +44,8 @@ Honda equips the Sh mode with a 4.2-inch TFT instrument display, full LED lighti
 
 Riders who want premium-scooter comfort, a low seat and big-wheel stability mainly for city use. It is not a sports scooter and not a cargo scooter; it is a style-led premium commuter. Retail list price on the Honda page is 66,361,091 VND for the versions shown - a real commitment compared with mainstream 125s, which our premium scooters overview puts in context.
 
-Nguyen Tu does not publish a rental rate for this model. Contact us to confirm current availability. Before committing, sit on one and run through our rental motorbike inspection checklist.
+Nguyen Tu does not publish a rental rate for this model. Contact us to confirm current availability. Before committing, sit on one and run through our rental [motorbike inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}).
 
 ## What to check before you ride one
 
-Tyre condition, brake feel, and whether the version in front of you is an ABS version. Licence rules in Vietnam depend on engine capacity - the 125 cc class requires the appropriate licence class, covered in our licence guides.
+Tyre condition, brake feel, and whether the version in front of you is an ABS version. Licence rules in Vietnam depend on engine capacity - the 125 cc class requires the appropriate licence class, covered in our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}).

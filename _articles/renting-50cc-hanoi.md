@@ -37,9 +37,9 @@ The standard rental checks, all of which apply doubly to a small, often older ma
 - brakes that stop the bike straight, tyres with visible tread and no sidewall cracking
 - working headlight, taillight and brake light — age is where 50s fail
 - a sound, certified helmet for every rider — helmets are compulsory on mopeds at the same fine levels as motorbikes
-- the rental paperwork described in our first-time rental guide, and the documents you should carry on every ride
+- the rental paperwork described in our first-time [rental guide]({{ '/articles/first-time-renting-a-motorbike-hanoi/' | relative_url }}), and the documents you should carry on every ride
 
-The two-minute version of the mechanical checks lives in our pre-ride checklist.
+The two-minute version of the mechanical checks lives [pre-ride checklist]({{ '/articles/50cc-pre-ride-checklist/' | relative_url }}).
 
 ## Deposit and responsibilities
 

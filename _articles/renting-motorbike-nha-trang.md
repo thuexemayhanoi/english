@@ -28,7 +28,7 @@ Nha Trang is Vietnam's original beach resort: six kilometres of sand, an island-
 
 Shops line the tourist streets behind the beach — Tran Phu's side streets and the backpacker blocks north of the centre — and nearly every hotel can arrange a bike. Published guides put average daily rental around 150,000 VND for the standard automatic scooter class, with discounts for multi-day and weekly hire. Deposit norms are cash or, less wisely, a passport; pay cash.
 
-The national licence rule applies as everywhere: anything over 50cc requires a valid Vietnamese licence or a 1968-convention IDP endorsed for motorbikes. Tourist police presence along the beach strip is real, and riding without papers on the main boulevard is how visitors lose an afternoon and a fine. See our legal overview.
+The national licence rule applies as everywhere: anything over 50cc requires a valid Vietnamese licence or a 1968-convention IDP endorsed for motorbikes. Tourist police presence along the beach strip is real, and riding without papers on the main boulevard is how visitors lose an afternoon and a fine. See our legal [overview]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}).
 
 ## Riding the city
 

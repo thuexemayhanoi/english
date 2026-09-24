@@ -16,7 +16,7 @@ subcluster: "7.1 understanding-electric"
 date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text — Article 3 (definitions of xe dap dien and xe may dien)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text — Article 34 (definitions of xe dap dien and xe may dien)"
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — Amio pedal-assisted model data (800 W, 30 km/h, 65 km range)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
 internal_link_targets: what-is-electric-motorbike-vietnam, 50cc-vs-e-bike-vietnam, electric-bike-licence-vietnam, e-bike-helmet-rules-vietnam

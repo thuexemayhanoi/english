@@ -15,7 +15,7 @@ topic_cluster: vietnam-travel
 subcluster: "14.3 borders-and-ownership"
 date_published: 2026-09-24
 last_reviewed: 2026-09-24
-review_status: review-required
+review_status: REVIEW_REQUIRED
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): contact details and availability wording only"
   - "https://www.vietnameseluxurytravel.com/how-to-cross-vietnam-laos-cambodia-borders-with-a-vietnamese-motorbike — paperwork for Cambodia crossings: customs declarations, visa processing, vehicle insurance, retrieved 2026-09-24"
@@ -41,7 +41,7 @@ Forum reports and travel write-ups agree on the shape of it:
 
 ## The rental-bike question
 
-The pattern will be familiar from the Laos guide: a rental bike is not in your name, and a bike not in your name does not cross. Rental agreements from HCMC shops do not include cross-border clauses, and no deposit you paid covers a bike that leaves the country. If you rented in Saigon, ride the delta and come back — see our Saigon rental guide for what that region offers.
+The pattern will be familiar from [Laos guide]({{ '/articles/motorbike-border-crossing-vietnam-laos/' | relative_url }}): a rental bike is not in your name, and a bike not in your name does not cross. Rental agreements from HCMC shops do not include cross-border clauses, and no deposit you paid covers a bike that leaves the country. If you rented in Saigon, ride the delta and come back — see our Saigon rental guide for what that region offers.
 
 ## What travellers actually do
 
@@ -53,7 +53,7 @@ The pattern will be familiar from the Laos guide: a rental bike is not in your n
 ## Before you plan around a crossing
 
 - Verify current gate policy with official Vietnamese and Cambodian sources — rules for vehicles have changed repeatedly, and blog reports age fast.
-- Check licence requirements on both sides: a Vietnamese licence does not authorise you in Cambodia, and an IDP may or may not be accepted — see our licence overview for the Vietnamese side.
+- Check licence requirements on both sides: a Vietnamese licence does not authorise you in Cambodia, and an IDP may or may not be accepted — see our licence [overview]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) for the Vietnamese side.
 - Read our travel-insurance guide: crossing a border on a motorbike is a common policy exclusion, and hospitals in rural Cambodia are a long way from anywhere.
 
 The short version: the border is easy to cross; your motorbike is the hard part. Plan a ride that treats the border as a destination, not an obstacle.

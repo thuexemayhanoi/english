@@ -17,7 +17,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 review_status: VERIFIED
 sources:
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Bao dien tu Chinh phu) — Article 3 (moped definition), Article 59 (age), Article 31 (helmets)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Bao dien tu Chinh phu) — Article 34(1)(g) (moped definition), Article 59 (age), Article 33(2) (helmets)"
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — Amio and Evo Lite as licence-free student models"
 internal_link_targets: electric-bike-licence-vietnam, e-bike-helmet-rules-vietnam, 50cc-licence-vietnam, riding-50cc-at-16-vietnam
 ---
@@ -26,11 +26,11 @@ Sixteen is the youngest age at which Vietnamese law lets you ride a powered two-
 
 ## What the law allows at 16
 
-Article 3 of Law 36/2024/QH15 defines the moped class as 4 kW or less and designed for no more than 50 km/h; the age rule in Article 59 sets 16 as the minimum for riding one, with no licence obligation. That makes sub-4 kW electric scooters the standard first motorised vehicle for Vietnamese students — the exact market VinFast targeted with the licence-free Evo Lite and the pedal-assisted Amio (800 W, 30 km/h).
+Article 34(1)(g) of Law 36/2024/QH15 defines the moped class as 4 kW or less and designed for no more than 50 km/h; the age rule in Article 59 sets 16 as the minimum for riding one, with no licence obligation. That makes sub-4 kW electric scooters the standard first motorised vehicle for Vietnamese students — the exact market VinFast targeted with the licence-free Evo Lite and the pedal-assisted Amio (800 W, 30 km/h).
 
 ## What is still required
 
-- **A helmet.** Standard-compliant helmets are mandatory for riders and passengers of powered two-wheelers, mopeds included (Article 31).
+- **A helmet.** Standard-compliant helmets are mandatory for riders and passengers of powered two-wheelers, mopeds included (Article 33(2)).
 - **Power discipline.** Only the sub-4 kW class is licence-free. A 6,000 W machine like the Dat Bike Weaver 200 needs an A1 licence, which itself requires being 18.
 - **Passenger rules.** The same general traffic rules — lights, signalling, drink-driving limits — apply fully.
 

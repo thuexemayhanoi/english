@@ -36,4 +36,4 @@ The fear is rolling back. Hold the rear brake with your right foot while you bri
 
 ## Recovering from a stall in traffic
 
-Do not rush. Pull the clutch in fully, brake to a stop if needed, restart the engine, and launch again using the same calm sequence. Stalls feel long to you and look like two seconds to everyone else. Keep the sequence identical every time and the stalls disappear within a few days of practice — the launch drill in our friction-zone guide is the fastest way there.
+Do not rush. Pull the clutch in fully, brake to a stop if needed, restart the engine, and launch again using the same calm sequence. Stalls feel long to you and look like two seconds to everyone else. Keep the sequence identical every time and the stalls disappear within a few days of practice — the launch drill in our friction-zone [guide]({{ '/articles/clutch-control-friction-zone-practice/' | relative_url }}) is the fastest way there.

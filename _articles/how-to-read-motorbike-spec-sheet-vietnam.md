@@ -28,7 +28,7 @@ Max power (kW at rpm): how hard the engine can ultimately pull. Note the rpm - a
 
 Max torque (Nm at rpm): the everyday number. Torque at low rpm - the CT125's 10.9 Nm at 4,750 rpm - is what moves you and a passenger off the line. High-rpm torque - the Exciter's 14.4 Nm at 8,000 rpm - is performance riding.
 
-Transmission: rotary four-speed means no clutch lever (every semi-automatic here); manual clutch means learning a new skill. The full story is in our xe so vs xe con tay guide.
+Transmission: rotary four-speed means no clutch lever (every semi-automatic here); manual clutch means learning a new skill. The full story is in our xe [so vs xe con tay guide]({{ '/articles/rotary-gearbox-vs-manual-clutch-explained/' | relative_url }}).
 
 Kerb or wet weight: the bike ready to ride. Honda quotes kerb weight (Wave Alpha 96 kg); Yamaha quotes wet weight for the Sirius (100 kg) and Exciter (123 kg). Same idea - always compare against the same measure.
 
@@ -36,7 +36,7 @@ Seat height: the confidence number at every stop - verified range 756-800 mm (ou
 
 Fuel tank times claimed economy: range. Multiply them - the Future's 4.6 L at 1.47 L/100 km is the range champion; the CBR's 12 L at 2.91 L/100 km is the touring champion. Remember: real-world consumption varies with speed, load and conditions, and claimed figures use the manufacturer's test cycle.
 
-Brakes and tyres: front disc versus drum matters most (single front brake does most of the work); tyre sizes like 70/90-17 are decoded in our tyre size guide.
+Brakes and tyres: front disc versus drum matters most (single front brake does most of the work); tyre sizes like 70/90-17 are decoded in our tyre [size guide]({{ '/articles/scooter-tyre-sizes-explained/' | relative_url }}).
 
 List price: a dated manufacturer figure - not the on-the-road price.
 

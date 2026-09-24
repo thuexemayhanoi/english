@@ -29,7 +29,7 @@ Both publish 156.9 cc liquid-cooled engines. Air Blade 160: 11.2 kW at 8,000 rpm
 
 ## Brakes
 
-Both have front ABS (see our ABS availability guide). Neither offers rear-wheel ABS at this tier - that remains premium-segment territory (NMAX, SH).
+Both have front ABS (see our ABS [availability guide]({{ '/articles/abs-on-underbones-vietnam-explained/' | relative_url }})). Neither offers rear-wheel ABS at this tier - that remains premium-segment territory (NMAX, SH).
 
 ## Storage and practicality
 

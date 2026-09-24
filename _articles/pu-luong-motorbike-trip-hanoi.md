@@ -48,7 +48,7 @@ Pu Luong's geography makes it a perfect middle act. The recommended public circu
 
 - Fuel: top up before leaving the QL6/QL15 junction country; inside the reserve there is little beyond village pumps.
 - Bike: anything from a scooter up manages the main valley roads solo; the higher Ban Hieu valley road is steep and gravelly in patches — confident riders only, and our mountain-pass guide's principles apply even to small hills.
-- Season check: autumn and the green rice season are the photogenic windows; mid-summer is hot and storm-prone (see our seasons guide).
+- Season check: autumn and the green rice season are the photogenic windows; mid-summer is hot and storm-prone (see our seasons [guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }})).
 - Run the standard prep checklist; the nearest full workshops are back on the Hoa Binh side.
 
 Contact us to confirm current availability for a Pu Luong trip — the valley roads suit small, light bikes, and we can advise on what fits your experience and dates.

@@ -15,7 +15,7 @@ topic_cluster: vietnam-travel
 subcluster: "14.3 borders-and-ownership"
 date_published: 2026-09-24
 last_reviewed: 2026-09-24
-review_status: review-required
+review_status: REVIEW_REQUIRED
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): contact details and availability wording only"
   - "https://www.tigitmotorbikes.com/blogs/motorbike-blue-card.html — the bluecard as the ownership paper of the motorbike, and the information it carries, retrieved 2026-09-24"
@@ -31,13 +31,13 @@ Ask a Vietnamese mechanic what a motorbike is worth and the answer comes in two 
 
 It is the state-issued registration certificate that ties a specific frame and engine to a registered owner: registration number, owner name, chassis and engine numbers, and the vehicle's registration details. Rental and touring operators use it as the reference document for exactly what it is — proof of who owns what. The licence plate on the bike corresponds to it; the plate is the public face of the bluecard.
 
-Related documents that are not the bluecard: the circulation/inspection papers for larger vehicles, the compulsory civil-insurance certificate (a separate annual policy — see our insurance articles), and for older machines the original purchase invoice. The bluecard is the one that establishes ownership.
+Related documents that are not the bluecard: the circulation/inspection papers for larger vehicles, the compulsory civil-insurance certificate (a separate annual policy — see our insurance [article]({{ '/articles/do-you-need-insurance-to-ride-vietnam/' | relative_url }})s), and for older machines the original purchase invoice. The bluecard is the one that establishes ownership.
 
 ## Why it matters, situation by situation
 
 **Buying.** Check that the bluecard's numbers match the bike, that the seller's name matches the bluecard, and get the ownership-transfer contract signed. Local workshops warn openly that many older used bikes circulate with forged or missing papers — the pre-2013 fleet is the risky zone. If the price is surprisingly low, the papers are the reason. Our buying guide has the full checklist.
 
-**Selling.** No contract + no transfer = you still legally own a bike that a stranger is riding. Do the transfer properly — our selling guide explains the exit.
+**Selling.** No contract + no transfer = you still legally own a bike that a stranger is riding. Do the transfer properly — our selling [guide]({{ '/articles/selling-motorbike-before-leaving-vietnam/' | relative_url }}) explains the exit.
 
 **Police stops.** A traffic police check that cannot match your bike to its registration becomes a much longer conversation. Carry the bluecard (or a copy, per local practice) when touring.
 

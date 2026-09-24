@@ -15,7 +15,7 @@ topic_cluster: vietnam-travel
 subcluster: "14.3 borders-and-ownership"
 date_published: 2026-09-24
 last_reviewed: 2026-09-24
-review_status: review-required
+review_status: REVIEW_REQUIRED
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): contact details and availability wording only"
   - "https://www.vietnamesemotorbiketours.com/vietnam-international-border-crossings-a-comprehensive-guide-for-motorcyclists — motorcyclists' border guide: border-crossing permit requirements and documents, retrieved 2026-09-24"
@@ -52,4 +52,4 @@ If your dream is the Laos side of those mountains, the standard traveller patter
 - Cross as a foot passenger with your passport (visa on arrival for many nationalities at international gates), tour Laos by bus or with a Laos-based rental, and return for your bike.
 - Join an organised cross-border motorcycle tour that handles the permits.
 
-Whatever you choose, verify licence requirements for both countries — our tourist-licence overview covers the Vietnamese side — and read our travel-insurance guide, because most policies treat border riding as a different risk class entirely.
+Whatever you choose, verify licence requirements for both countries — our tourist-licence [overview]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}) covers the Vietnamese side — and read our [travel-insurance guide]({{ '/articles/motorbike-travel-insurance-vietnam/' | relative_url }}), because most policies treat border riding as a different risk class entirely.

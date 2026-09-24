@@ -26,7 +26,7 @@ Hanoi is flat in the way that contains a surprise every few kilometres: the Nhat
 
 ## What a climb costs
 
-An electric motor at low speed is at its strongest — full torque from zero — so pulling away uphill is easier than on a petrol scooter. What suffers is the battery: sustained climbing draws maximum power continuously, and the range display drops faster than the road rises. Official range claims (the Evo's up-to-165 km, the Weaver 200's 200 km at 35 km/h) are flat-road standard-condition figures; a day of dyke ramps and bridge approaches will not match them. Budget conservatively on hilly routes — our real-world range guide explains the shrinkage factors.
+An electric motor at low speed is at its strongest — full torque from zero — so pulling away uphill is easier than on a petrol scooter. What suffers is the battery: sustained climbing draws maximum power continuously, and the range display drops faster than the road rises. Official range claims (the Evo's up-to-165 km, the Weaver 200's 200 km at 35 km/h) are flat-road standard-condition figures; a day of dyke ramps and bridge approaches will not match them. Budget conservatively on hilly routes — our real-world [range guide]({{ '/articles/electric-motorbike-range-real-world-vietnam/' | relative_url }}) explains the shrinkage factors.
 
 ## Which machines handle it best
 

@@ -29,11 +29,11 @@ SH160i: 12.4 kW at 8,500 rpm, 14.8 Nm at 6,500 rpm. Vario 160: 11.3 kW at 8,500 
 
 ## Braking and safety
 
-The SH160i has ABS on both wheels plus HSTC traction control on its Sport, Special and Premium versions - top safety hardware, explained in our HSTC guide. The Vario 160 has front-wheel ABS. Both are covered in our ABS availability guide; the SH is the safety-hardware winner.
+The SH160i has ABS on both wheels plus HSTC traction control on its Sport, Special and Premium versions - top safety hardware, explained in our HSTC guide. The Vario 160 has front-wheel ABS. Both are covered in our ABS [availability guide]({{ '/articles/abs-on-underbones-vietnam-explained/' | relative_url }}); the SH is the safety-hardware winner.
 
 ## Weight, wheels, comfort
 
-The Vario is lighter at 118 kg versus the SH's 134 kg, with a lower 778 mm seat versus 799 mm - easier for smaller riders and tight traffic. The SH counters with 16-inch wheels front and rear (100/80-16, 120/80-16) - big-wheel stability and presence, the trait behind its image, covered in our 16-inch wheel guide.
+The Vario is lighter at 118 kg versus the SH's 134 kg, with a lower 778 mm seat versus 799 mm - easier for smaller riders and tight traffic. The SH counters with 16-inch wheels front and rear (100/80-16, 120/80-16) - big-wheel stability and presence, the trait behind its image, covered in our 16-inch [wheel guide]({{ '/articles/16-inch-wheel-scooters-vietnam/' | relative_url }}).
 
 ## Storage and price
 

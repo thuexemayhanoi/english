@@ -24,7 +24,7 @@ Honda sells both of these in Vietnam, and they could not be further apart while 
 
 ## Engines and transmission
 
-CBR150R: 149.2 cc, liquid-cooled DOHC, 12.6 kW at 9,000 rpm, 14.4 Nm at 7,000 rpm, six-ratio manual clutch. Super Cub: 123.9 cc, air-cooled, 6.87 kW at 7,500 rpm, 10.15 Nm at 5,000 rpm, four-speed semi-automatic. Nearly twice the power - and a completely different rider contract. Riders new to clutches should start with the Cub format; our semi-automatic gearbox explainer explains why it works.
+CBR150R: 149.2 cc, liquid-cooled DOHC, 12.6 kW at 9,000 rpm, 14.4 Nm at 7,000 rpm, six-ratio manual clutch. Super Cub: 123.9 cc, air-cooled, 6.87 kW at 7,500 rpm, 10.15 Nm at 5,000 rpm, four-speed semi-automatic. Nearly twice the power - and a completely different rider contract. Riders new to clutches should start with the Cub format; our semi-automatic [gearbox explainer]({{ '/articles/semi-automatic-gearbox-explained/' | relative_url }}) explains why it works.
 
 ## Weight and range
 

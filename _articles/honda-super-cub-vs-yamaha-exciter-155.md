@@ -24,7 +24,7 @@ The Super Cub C125 and the Exciter 155 VVA are the two most photographed underbo
 
 ## Engines and gearboxes
 
-Super Cub: 123.9 cc, air-cooled, 6.87 kW at 7,500 rpm, 10.15 Nm at 5,000 rpm, four-speed semi-automatic. Exciter 155 VVA: 155 cc, liquid-cooled four-valve with VVA and EFI, 13.2 kW at 9,500 rpm, 14.4 Nm at 8,000 rpm, six-speed manual with Assist and Slipper clutch. Nearly double the power - but also a gearbox that requires clutch skill. New riders should read our semi-automatic gearbox explainer before choosing the Exciter.
+Super Cub: 123.9 cc, air-cooled, 6.87 kW at 7,500 rpm, 10.15 Nm at 5,000 rpm, four-speed semi-automatic. Exciter 155 VVA: 155 cc, liquid-cooled four-valve with VVA and EFI, 13.2 kW at 9,500 rpm, 14.4 Nm at 8,000 rpm, six-speed manual with Assist and Slipper clutch. Nearly double the power - but also a gearbox that requires clutch skill. New riders should read our semi-automatic [gearbox explainer]({{ '/articles/semi-automatic-gearbox-explained/' | relative_url }}) before choosing the Exciter.
 
 ## Weight and brakes
 

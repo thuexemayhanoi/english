@@ -49,6 +49,6 @@ The Hanoi-Lang Son Expressway (CT01) does the run by car in two and a half to th
 - The QL1A carries trucks: ride it defensively, overtake only with clean sightlines, and expect village-speed sections through every town.
 - Carry your passport; this is a border province and identity checks on the QL4A/Ql1A corridor are routine. Our tourist-riding licence guide covers what documents you need on the road.
 - Homestays in Bac Son and hotels in Lang Son are simple but reliable — apply the overnight-stays checklist including bike parking.
-- Autumn gives the best weather and the Bac Son rice colours; summer afternoons bring storms (see our seasons guide).
+- Autumn gives the best weather and the Bac Son rice colours; summer afternoons bring storms (see our seasons [guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }})).
 
 Contact us to confirm current availability if you need a bike — a QL1A trip is a good fit for an underbone or scooter, and we can advise based on your dates and experience.

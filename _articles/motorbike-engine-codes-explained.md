@@ -49,7 +49,7 @@ Honda lists the Blade as Euro 3 - an emissions standard level that defines what 
 
 ## Cooling: air versus liquid
 
-Air-cooled engines (all the semi-automatics here) use fins and airflow; liquid-cooled engines (Winner R, CBR150R, Exciter 155) use a radiator to hold precise temperature under sustained high output - see our cooling explainer.
+Air-cooled engines (all the semi-automatics here) use fins and airflow; liquid-cooled engines (Winner R, CBR150R, Exciter 155) use a radiator to hold precise temperature under sustained high output - see our cooling [explainer]({{ '/articles/air-cooled-vs-liquid-cooled-motorbike/' | relative_url }}).
 
 ## Renting the alphabet
 

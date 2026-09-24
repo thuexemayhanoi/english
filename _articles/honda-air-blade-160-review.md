@@ -26,7 +26,7 @@ The Air Blade 160 is Honda Vietnam's sportier answer to the question the Vision 
 
 ## Engine and performance
 
-A 156.9 cc single-cylinder four-stroke engine, liquid-cooled - the coolant temperature warning the manufacturer lists is one visible sign of the liquid cooling, a topic our air-cooled vs liquid-cooled explainer covers. Official maximum power is 11.2 kW at 8,000 rpm and maximum torque 14.8 Nm at 6,000 rpm. That torque, delivered low in the rev range, is what makes the 160 feel effortless in traffic and confident with a passenger - enough for fast A-road running, while remaining an automatic scooter, not a touring motorcycle.
+A 156.9 cc single-cylinder four-stroke engine, liquid-cooled - the coolant temperature warning the manufacturer lists is one visible sign of the liquid cooling, a topic our air-cooled [vs liquid-cooled explainer]({{ '/articles/air-cooled-vs-liquid-cooled-motorbike/' | relative_url }}) covers. Official maximum power is 11.2 kW at 8,000 rpm and maximum torque 14.8 Nm at 6,000 rpm. That torque, delivered low in the rev range, is what makes the 160 feel effortless in traffic and confident with a passenger - enough for fast A-road running, while remaining an automatic scooter, not a touring motorcycle.
 
 ## Size and equipment
 
@@ -42,4 +42,4 @@ Riders who want one scooter that commutes during the week and carries a passenge
 
 ## Renting one
 
-Nguyen Tu's published rate for the Air Blade category is 200,000 VND per day, 800,000 VND per week, 1,400,000 VND per month. Contact us to confirm current availability of a specific version. Before riding: check brake feel, tyre wear and lights - automatic scooters still need the same pre-ride checks in our motorbike safety checklist.
+Nguyen Tu's published rate for the Air Blade category is 200,000 VND per day, 800,000 VND per week, 1,400,000 VND per month. Contact us to confirm current availability of a specific version. Before riding: check brake feel, tyre wear and lights - automatic scooters still need the same pre-ride checks in our motorbike [safety checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}).

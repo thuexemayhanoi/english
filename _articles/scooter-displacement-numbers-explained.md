@@ -36,4 +36,4 @@ Vietnamese licence classes are set by engine capacity, and the boundary cases ar
 
 ## And for buyers
 
-Displacement correlates with, but does not determine, performance - a two-valve 124.9 and a four-valve 124.9 publish very different outputs (see our valve count and power explainers). Compare verified output figures, not capacity, when ranking models - our spec-sheet guide shows where each number lives.
+Displacement correlates with, but does not determine, performance - a two-valve 124.9 and a four-valve 124.9 publish very different outputs (see our valve [count and power explainer]({{ '/articles/scooter-valve-counts-explained/' | relative_url }})s). Compare verified output figures, not capacity, when ranking models - our spec-sheet [guide]({{ '/articles/how-to-read-motorbike-spec-sheet-vietnam/' | relative_url }}) shows where each number lives.

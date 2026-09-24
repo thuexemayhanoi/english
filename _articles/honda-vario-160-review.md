@@ -26,11 +26,11 @@ The Vario 160 is Honda's newest answer to the sporty-commuter class in Vietnam: 
 
 ## Engine and performance
 
-Power comes from a 156.9 cc single-cylinder, four-stroke, liquid-cooled eSP+ engine with four valves per cylinder. Honda lists maximum power at 11.3 kW at 8,500 rpm and maximum torque at 14.1 Nm at 6,500 rpm. On paper it shares its engine family with the much more expensive SH160i, and the torque figure tells the story: this is a scooter that pulls hard from low revs without needing a premium badge. See our scooter power and torque explainer for how to read these numbers.
+Power comes from a 156.9 cc single-cylinder, four-stroke, liquid-cooled eSP+ engine with four valves per cylinder. Honda lists maximum power at 11.3 kW at 8,500 rpm and maximum torque at 14.1 Nm at 6,500 rpm. On paper it shares its engine family with the much more expensive SH160i, and the torque figure tells the story: this is a scooter that pulls hard from low revs without needing a premium badge. See our scooter [power and torque explainer]({{ '/articles/scooter-power-torque-explained/' | relative_url }}) for how to read these numbers.
 
 ## Size, weight and comfort
 
-Honda publishes a kerb weight of 118 kg, seat height 778 mm, dimensions 1,929 x 695 x 1,088 mm, wheelbase 1,278 mm and ground clearance 138 mm. The flat floor is a genuine daily-life feature - Honda measures its width at 422 mm - because it lets you carry a box or a crate between your feet, which most sporty scooters with a tunnel cannot do. Tyres are 100/80-14 front and a chunky 120/70-14 rear; our scooter tyre sizes guide explains what those numbers mean.
+Honda publishes a kerb weight of 118 kg, seat height 778 mm, dimensions 1,929 x 695 x 1,088 mm, wheelbase 1,278 mm and ground clearance 138 mm. The flat floor is a genuine daily-life feature - Honda measures its width at 422 mm - because it lets you carry a box or a crate between your feet, which most sporty scooters with a tunnel cannot do. Tyres are 100/80-14 front and a chunky 120/70-14 rear; our scooter [tyre sizes guide]({{ '/articles/scooter-tyre-sizes-explained/' | relative_url }}) explains what those numbers mean.
 
 ## Fuel economy
 
@@ -48,4 +48,4 @@ Nguyen Tu does not publish a rental rate for the Vario 160. Contact us to confir
 
 ## What to check before you ride one
 
-ABS is front-wheel only on this model - understand what that means in our ABS availability guide. Check tyre condition, brake feel and the flat-floor area for damage, then run the rental motorbike inspection checklist.
+ABS is front-wheel only on this model - understand what that means in our ABS [availability guide]({{ '/articles/abs-on-underbones-vietnam-explained/' | relative_url }}). Check tyre condition, brake feel and the flat-floor area for damage, then run the rental motorbike inspection checklist.

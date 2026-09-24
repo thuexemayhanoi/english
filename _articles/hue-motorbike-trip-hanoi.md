@@ -31,15 +31,15 @@ Hue is the natural far objective of a first long ride south from Hanoi: the form
 
 The classic rider's line splits into three acts:
 
-- **Act 1: Hanoi to Ninh Binh (day 1).** A short first leg through the delta to the karst country of Tam Coc/Trang An — an easy warm-up day with the best scenery-per-kilometre of the whole corridor (see our Ninh Binh guide).
-- **Act 2: Ninh Binh to Phong Nha (days 2-3).** South on the QL1A/QL15 corridors with an overnight around Vinh or Dong Hoi, into cave country (see our Phong Nha guide). This is the least inspiring riding of the trip — flat, trucked and busy — so take it steady and save your attention for act 3.
+- **Act 1: Hanoi to Ninh Binh (day 1).** A short first leg through the delta to the karst country of Tam Coc/Trang An — an easy warm-up day with the best scenery-per-kilometre of the whole corridor ([Ninh Binh guide]({{ '/articles/ninh-binh-day-trip-motorbike-hanoi/' | relative_url }})).
+- **Act 2: Ninh Binh to Phong Nha (days 2-3).** South on the QL1A/QL15 corridors with an overnight around Vinh or Dong Hoi, into cave country ([Phong Nha guide]({{ '/articles/phong-nha-motorbike-trip-hanoi/' | relative_url }})). This is the least inspiring riding of the trip — flat, trucked and busy — so take it steady and save your attention for act 3.
 - **Act 3: Phong Nha to Hue (day 4).** The reward: the western Ho Chi Minh Road option down to Khe Sanh and the DMZ country, or the coastal QL1A past Dong Hoi and Vinh Moc, crossing into Hue across the historic demilitarised zone. Either way you arrive with a story.
 
 Coming from the south (if you ride one-way), the Hai Van Pass is the gateway: 21 kilometres of coastal mountain road climbing to roughly 496 metres between Hue and Da Nang — one of the most famous motorcycle roads in Asia, and a genuine full-day ride if you take the backroad versions between Hoi An and Hue (130-165 km).
 
 ## In Hue
 
-Give the city at least one full non-riding day: the Imperial Citadel (arrive at opening), the tombs of the emperors along the Perfume River, and the central-market evenings. Parking is easy and cheap in the citadel district — the same disciplined habits from our Hanoi parking guide apply. Note the central climate: Hue is the wettest of the big Vietnamese cities, with a defined rainy season roughly September-November and fierce summer heat — our seasons guide explains how the centre's calendar differs from Hanoi's.
+Give the city at least one full non-riding day: the Imperial Citadel (arrive at opening), the tombs of the emperors along the Perfume River, and the central-market evenings. Parking is easy and cheap in the citadel district — the same disciplined habits from our Hanoi parking guide apply. Note the central climate: Hue is the wettest of the big Vietnamese cities, with a defined rainy season roughly September-November and fierce summer heat — our seasons [guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }}) explains how the centre's calendar differs from Hanoi's.
 
 ## Logistics
 

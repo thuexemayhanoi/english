@@ -41,16 +41,16 @@ Take the scooter class (the Honda Vision/Air Blade tier) as the benchmark, using
 - **Paperwork hours are real.** Bluecard verification, ownership transfer, resale transfer — our bluecard and selling guides cover how many hours each stage costs. Renting's paperwork is a deposit and a phone photo.
 - **The deposit versus the capital.** A rental deposit is refundable; a purchase is capital locked into a depreciating object you must convert back to cash before your flight. Sell a bike badly and you lose in a day what renting "lost" you in a week.
 - **Support.** Rental shops want their bike back working; our support covers Hanoi and local use. A private bike has no support at all.
-- **Licences are equal on both paths.** Over 50cc needs valid papers either way — see our legal overview. The licence question never decides rent-vs-buy; it just decides ride-or-not.
+- **Licences are equal on both paths.** Over 50cc needs valid papers either way — see our legal [overview]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}). The licence question never decides rent-vs-buy; it just decides ride-or-not.
 
 ## The modern third option
 
-The buyback scheme — buy from a touring specialist with a pre-agreed resale percentage — is the hybrid: buying's economics with renting's paperwork and support, at a price. For trips of roughly one to three months it is often the best of both, and for the classic buy-Hanoi/sell-Saigon arc it is effectively what "one-way rental" has become (see our one-way guide).
+The buyback scheme — buy from a touring specialist with a pre-agreed resale percentage — is the hybrid: buying's economics with renting's paperwork and support, at a price. For trips of roughly one to three months it is often the best of both, and for the classic buy-Hanoi/sell-Saigon arc it is effectively what "one-way rental" has become (see our one-way [guide]({{ '/articles/one-way-motorbike-rental-vietnam/' | relative_url }})).
 
 ## Decision in three lines
 
 - **Under a month, or first-time rider: rent.** (Our how-to-rent guide and budget guide cover the details.)
 - **One to three months with a taste for spanners: buyback or buy.**
-- **Longer than that, or staying as a resident: buy properly**, bluecard and all — and read our buying guide first.
+- **Longer than that, or staying as a resident: buy properly**, bluecard and all — and read our buying [guide]({{ '/articles/buying-motorbike-as-tourist-vietnam/' | relative_url }}) first.
 
 For the Hanoi chapter of any of these plans, contact us to confirm current availability — renting the first month and buying in month two is a sequence more travellers choose than either option alone.

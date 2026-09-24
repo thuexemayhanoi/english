@@ -39,7 +39,7 @@ The same national rules apply: over 50cc requires a Vietnamese licence or a 1968
 
 **Son Tra peninsula (Monkey Mountain).** A half-day loop on a sealed, winding forest road from the city beach to the Linh Ung pagoda and viewpoints over the coast. The steepest sections are short but constant; an automatic 110-125cc scooter manages it easily. Watch for monkeys on the road surface, and go early before the tour jeeps.
 
-**Hoi An.** Flat, fast and scenic along the coast road — 30-40 minutes each way, ideal for an evening in the old town with the bike parked in a guarded lot (see our nationwide parking guide). Alternatively the quiet route past rice paddies via Cam Thanh.
+**Hoi An.** Flat, fast and scenic along the coast road — 30-40 minutes each way, ideal for an evening in the old town with the bike parked in a guarded lot (see our nationwide [parking guide]({{ '/articles/motorbike-parking-vietnamese-cities/' | relative_url }})). Alternatively the quiet route past rice paddies via Cam Thanh.
 
 **The Hai Van Pass.** The reason many travellers rent in Da Nang at all: the full pass ride from the city to Hue (or there and back in a long day). Our dedicated Hai Van Pass guide covers the route, the tunnel rules for motorbikes and what the pass demands from a rider. A scooter handles the pass; respect the downhill and the fog that gives the pass its name ("Sea of Clouds").
 

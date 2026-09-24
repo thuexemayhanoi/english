@@ -28,7 +28,7 @@ Sixteenth birthday, in Vietnam, unlocks exactly one motorised option: a moped of
 
 ## The age rule
 
-Under the Law on Road Traffic Order and Safety (No. 36/2024/QH15), a moped — a two- or three-wheel vehicle designed for no more than 50 km/h with an engine of 50cc or less, or an electric motor of 4 kW or less — requires no driving licence. Article 59 sets the minimum rider age at 16. Article 58 adds that moped riders must understand traffic rules, have basic handling skills, and meet the age and health conditions.
+Under the Law on Road Traffic Order and Safety (No. 36/2024/QH15), a moped — a two- or three-wheel vehicle designed for no more than 50 km/h with an engine of 50cc or less, or an electric motor of 4 kW or less — requires no driving licence. Article 59 sets the minimum rider age at 16. Article 56(4) adds that moped riders must understand traffic rules, have basic handling skills, and meet the age and health conditions.
 
 Below 16, riding any motorised two-wheeler on public roads is not legal, full stop.
 

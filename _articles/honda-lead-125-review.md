@@ -26,11 +26,11 @@ If you judge scooters by what they carry rather than how they look, the Honda Le
 
 ## Engine and performance
 
-The Lead runs a 124.8 cc single-cylinder four-stroke engine, liquid-cooled, with belt drive. Honda's official figures: maximum power 8.22 kW at 8,500 rpm, maximum torque 11.7 Nm at 5,250 rpm, published fuel consumption 2.1 litres/100 km from a 6.0-litre tank - the biggest tank in this comparison group. For what that means in the class, see our 110cc vs 125cc guide.
+The Lead runs a 124.8 cc single-cylinder four-stroke engine, liquid-cooled, with belt drive. Honda's official figures: maximum power 8.22 kW at 8,500 rpm, maximum torque 11.7 Nm at 5,250 rpm, published fuel consumption 2.1 litres/100 km from a 6.0-litre tank - the biggest tank in this comparison group. For what that means in the class, see our 110cc [vs 125cc guide]({{ '/articles/110cc-vs-125cc-scooters/' | relative_url }}).
 
 ## Size and riding position
 
-Kerb weight 114 kg, seat height 760 mm - the lowest in our scooter seat height comparison - and dimensions 1,844 x 714 x 1,132 mm with 140 mm ground clearance. Tyres: 90/90-12 front, 100/90-10 rear; the smaller wheels trade a little stability for agility at city speeds.
+Kerb weight 114 kg, seat height 760 mm - the lowest [scooter seat height comparison]({{ '/articles/scooter-seat-heights-comparison-vietnam/' | relative_url }}) - and dimensions 1,844 x 714 x 1,132 mm with 140 mm ground clearance. Tyres: 90/90-12 front, 100/90-10 rear; the smaller wheels trade a little stability for agility at city speeds.
 
 ## Safety equipment
 
@@ -42,4 +42,4 @@ Delivery riders, commuters who carry a laptop bag and groceries, parents who nee
 
 ## Renting one
 
-The Lead is not one of Nguyen Tu's price-published models - contact us to confirm current availability. As with any rental scooter, run through our rental motorbike inspection checklist, and remember licence classes in Vietnam follow engine capacity (our licence guides explain the current rules).
+The Lead is not one of Nguyen Tu's price-published models - contact us to confirm current availability. As with any rental scooter, run through our rental [motorbike inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}), and remember licence classes in Vietnam follow engine capacity (our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) explain the current rules).

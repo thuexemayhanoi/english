@@ -18,7 +18,7 @@ last_reviewed: 2026-09-22
 review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 18(5)(a),(7)(b) (fines for riding without a licence)"
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 57 (licence classes), Article 58 (driver conditions)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 57 (licence classes), Article 56 (driver conditions)"
   - "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650 — Ministry of Public Security summary of motorbike violations and fines"
 internal_link_targets: "minimum-age-ride-motorbike-vietnam, lending-motorbike-unlicensed-rider-vietnam, can-tourists-ride-motorbike-vietnam, idp-vietnam-motorbike-rules"
 ---

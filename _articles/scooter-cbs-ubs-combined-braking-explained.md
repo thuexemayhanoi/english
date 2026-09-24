@@ -39,4 +39,4 @@ Several other models in our verified database publish ABS instead; many budget m
 
 ## Why it matters in Vietnam
 
-Wet-season junctions and red-light panic stops are exactly where fixed-proportion braking helps most. But technique still outranks hardware: our emergency braking guide covers the practice, and our rainy-season guide ranks verified ABS models if you want the stronger system.
+Wet-season junctions and red-light panic stops are exactly where fixed-proportion braking helps most. But technique still outranks hardware: our emergency [braking guide]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}) covers the practice, and our rainy-season guide ranks verified ABS models if you want the stronger system.

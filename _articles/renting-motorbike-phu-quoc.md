@@ -49,6 +49,6 @@ Rules of thumb:
 
 ## Getting there with a bike
 
-You cannot ride to Phu Quoc — travellers fly in (the island has a large airport) or take the ferry from Ha Tien or Rach Gia; cars and motorbikes can travel on the ferries, but almost nobody hauls a rental bike over. Fly-and-rent is the pattern. For comparison shopping on rental-vs-buying for a long mainland trip, see our dedicated guide — on an island of a week or less, renting is always the right answer.
+You cannot ride to Phu Quoc — travellers fly in (the island has a large airport) or take the ferry from Ha Tien or Rach Gia; cars and motorbikes can travel on the ferries, but almost nobody hauls a rental bike over. Fly-and-rent is the pattern. For comparison shopping on rental-vs-buying for a long mainland trip, [dedicated guide]({{ '/articles/renting-vs-buying-a-motorbike-hanoi/' | relative_url }}) — on an island of a week or less, renting is always the right answer.
 
 Phu Quoc is the far-south chapter of a Vietnam trip. For the Hanoi chapter at the other end, contact us to confirm current availability — the northern legs and the island have almost nothing in common except that both are best enjoyed slowly.

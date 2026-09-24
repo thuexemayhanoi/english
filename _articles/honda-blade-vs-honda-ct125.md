@@ -36,4 +36,4 @@ Blade: 1.85 L/100 km. CT125: 1.61 L/100 km. Manufacturer figures; real-world res
 
 ## The verdict
 
-The Blade Sport with alloy wheels and a front disc is the value pick for paved-city riding - see our Blade versus Wave RSX comparison. The CT125 is a purpose-built small explorer that costs more than a CBR150R; if that appeals, our CT versus Super Cub comparison covers its road-biased sibling. Neither is price-published in our rental fleet - contact us to confirm current availability.
+The Blade Sport with alloy wheels and a front disc is the value pick for paved-city riding - see our [Blade versus Wave RSX comparison]({{ '/articles/honda-blade-vs-honda-wave-rsx/' | relative_url }}). The CT125 is a purpose-built small explorer that costs more than a CBR150R; if that appeals, our CT versus Super Cub comparison covers its road-biased sibling. Neither is price-published in our rental fleet - contact us to confirm current availability.

@@ -41,4 +41,4 @@ Winner R: 46,360,000 VND. Exciter 155 VVA: from 55,200,000 VND for the limited A
 
 ## Verdict
 
-Exciter for performance, the six-speed box, the slipper clutch and ABS availability; Winner R for value at roughly 9 million VND less. Both sit in the A1 licence bracket - our licence guide covers what that means. Contact us to confirm current availability.
+Exciter for performance, the six-speed box, the slipper clutch and ABS availability; Winner R for value at roughly 9 million VND less. Both sit in the A1 licence bracket - our licence [guide]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) covers what that means. Contact us to confirm current availability.

@@ -42,4 +42,4 @@ An always-on headlight improves visibility day and night, and the 3-in-1 key ope
 
 ## Who it suits
 
-Riders who want Wave Alpha simplicity with slightly more ground clearance and, on the Sport version, a front disc. It competes directly with the Yamaha Sirius on price - see our Sirius review elsewhere in this hub. Contact us to confirm current availability of any model for rental.
+Riders who want Wave Alpha simplicity with slightly more ground clearance and, on the Sport version, a front disc. It competes directly with the Yamaha Sirius on price - [Sirius review]({{ '/articles/yamaha-sirius-rc-110-review/' | relative_url }}) elsewhere in this hub. Contact us to confirm current availability of any model for rental.

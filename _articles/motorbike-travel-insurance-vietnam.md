@@ -15,7 +15,7 @@ topic_cluster: vietnam-travel
 subcluster: "14.4 nationwide-travel-planning"
 date_published: 2026-09-24
 last_reviewed: 2026-09-24
-review_status: review-required
+review_status: REVIEW_REQUIRED
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): contact details and availability wording only"
   - "https://www.travelfish.org/travel-planning/travel-insurance-motorcycles-asia — Travelfish on travel insurance and riding motorcycles in Asia: licence validity determines coverage, retrieved 2026-09-24"
@@ -29,7 +29,7 @@ Here is the sentence that ruins more Vietnam trips than any road: "I thought my 
 
 ## The four clauses that decide everything
 
-**1. The licence clause.** Insurance guides for the region are direct: coverage depends on whether you hold a licence valid for the vehicle in that country. In Vietnam that means a Vietnamese licence or a 1968-convention IDP endorsed for the bike's class (see our licence overview). Riding on no licence, or on a home-country licence alone (invalid in Vietnam for over 50cc), voids the medical section of most policies — the hospital bills from a crash become entirely yours.
+**1. The licence clause.** Insurance guides for the region are direct: coverage depends on whether you hold a licence valid for the vehicle in that country. In Vietnam that means a Vietnamese licence or a 1968-convention IDP endorsed for the bike's class (see our licence [overview]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }})). Riding on no licence, or on a home-country licence alone (invalid in Vietnam for over 50cc), voids the medical section of most policies — the hospital bills from a crash become entirely yours.
 
 **2. The engine-size cap.** Policies tier their coverage by cc — analysts of Vietnamese motorbike insurance note the market's standard splits at 50cc and 125cc. Many backpacker-oriented policies cover riding up to 125cc with a valid licence, and exclude anything bigger. Riding a 155cc touring bike on a 125cc-capped policy is self-insurance with paperwork attached.
 

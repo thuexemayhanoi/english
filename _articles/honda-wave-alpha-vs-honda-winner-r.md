@@ -24,7 +24,7 @@ No two Hondas better describe a Vietnamese riding career than these: the Wave Al
 
 ## Transmission is the whole story
 
-Wave Alpha: four-speed rotary semi-automatic, no clutch lever, 109.2 cc air-cooled, 6.12 kW at 7,500 rpm, 8.44 Nm at 5,500 rpm. Winner R: 149.2 cc liquid-cooled (KC46E), 11.5 kW at 9,000 rpm, 13.5 Nm at 7,000 rpm, manual clutch. The Alpha can be ridden within minutes by a complete beginner - our semi-automatic gearbox explainer covers why. The Winner R requires genuine clutch-lever skill before Hanoi traffic becomes survivable.
+Wave Alpha: four-speed rotary semi-automatic, no clutch lever, 109.2 cc air-cooled, 6.12 kW at 7,500 rpm, 8.44 Nm at 5,500 rpm. Winner R: 149.2 cc liquid-cooled (KC46E), 11.5 kW at 9,000 rpm, 13.5 Nm at 7,000 rpm, manual clutch. The Alpha can be ridden within minutes by a complete beginner - our semi-automatic [gearbox explainer]({{ '/articles/semi-automatic-gearbox-explained/' | relative_url }}) covers why. The Winner R requires genuine clutch-lever skill before Hanoi traffic becomes survivable.
 
 ## Economy
 
