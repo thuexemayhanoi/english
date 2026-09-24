@@ -1,3 +1,3 @@
 CSV structure: totalLines=897 idRows=884 firstId=MM-0001 lastId=MM-0818
-rowsFile docs/matrix/batch-23-rows.csv: idRows=27
-FATAL: docs/matrix/batch-23-rows.csv holds 27 ID rows (expected 29)
+rowsFile docs/matrix/batch-23-rows.csv: parsedRows=32 (physical idRows=27)
+FATAL: docs/matrix/batch-23-rows.csv holds 32 parsed rows (expected 29)
