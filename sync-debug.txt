@@ -1,6 +1,1 @@
-CSV structure: totalLines=926 idRows=913 firstId=MM-0001 lastId=MM-0847
-batch-23 master rows validated: 29 rows (MM-0819..MM-0847), 16 fields each, Status=published, clean slug tokens
-rowsFile docs/matrix/batch-23-rows.csv: physicalLines=30 (expected 30)
-rowsFile already matches the validated master rows
-batch-23-status.md finalization record appended
-OK: master-matrix.csv holds 913 ID rows; batch-23 docs state complete
+FATAL: docs/matrix/batch-24-rows.csv holds 30 physical lines (expected 24 incl. header)
