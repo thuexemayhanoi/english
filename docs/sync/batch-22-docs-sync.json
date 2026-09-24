@@ -1,0 +1,22 @@
+{
+  "csvMerge": {
+    "target": "docs/matrix/master-matrix.csv",
+    "expectBefore": null,
+    "rowsFiles": [
+      {
+        "file": "docs/matrix/batch-20-rows.csv",
+        "expectRows": 50
+      },
+      {
+        "file": "docs/matrix/batch-21-rows.csv",
+        "expectRows": 39
+      },
+      {
+        "file": "docs/matrix/batch-22-rows.csv",
+        "expectRows": 25
+      }
+    ],
+    "expectAfter": 884
+  },
+  "note": "Batch-22 docs-sync. Merges the pending batch-20 (50), batch-21 (39) and batch-22 (25) rows into master-matrix.csv (expect 770 -> 884; expectBefore null so the run is re-runnable/idempotent by ID). Applies the batch-22 README state (CSV bullet, OPEN ISSUES 1, CONTENT BATCH STATE bullets incl. a compact batches-17-21 record, DEPLOYMENT STATE bullet with verified gate/Pages IDs, CHANGE LOG entry) and the MASTER-MATRIX row-count/batch-22 state. Note: the batch-19 sync README/MASTER-MATRIX patches were overwritten by later full-file README/MM pushes (the batch-20/21 closing commits were authored from stale fetches); the batch-22 bullets restate the merged 770 -> 884 state, so no batch-19-specific restoration is attempted. See docs/matrix/batch-22-status.md for the verification record (Quality Gate runs 35942062537, 35942218701, 35942266956, 35942491685 all success; Pages deployments 6628013557 and 6628042294 success)."
+}

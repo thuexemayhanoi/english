@@ -20,17 +20,17 @@ jobs:
       - name: Apply batch docs sync
         id: apply
         continue-on-error: true
-        run: node scripts/apply-batch-19-docs.js
+        run: node scripts/apply-batch-22-docs.js
       - name: Commit and push if changed
         if: steps.apply.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md docs/MASTER-MATRIX.md docs/matrix/master-matrix.csv docs/matrix/batch-19-status.md docs/sync/batch-19-docs-sync.json sync-debug.txt
+          git add README.md docs/MASTER-MATRIX.md docs/matrix/master-matrix.csv docs/matrix/batch-22-status.md docs/sync/batch-22-docs-sync.json sync-debug.txt
           if git diff --cached --quiet; then
             echo "No changes to sync."
           else
-            git commit -m "Docs sync: batch-19 finalization (README state + master-matrix.csv merge 730->770)"
+            git commit -m "Docs sync: batch-22 finalization (README state + master-matrix.csv merge 770->884)"
             git push
           fi
       - name: Publish sync diagnostics on failure
@@ -42,6 +42,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No diagnostics produced."
           else
-            git commit -m "Docs sync diagnostics (batch-19 validation failure)"
+            git commit -m "Docs sync diagnostics (batch-22 validation failure)"
             git push
           fi
