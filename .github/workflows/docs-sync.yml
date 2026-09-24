@@ -26,7 +26,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md docs/MASTER-MATRIX.md docs/matrix/master-matrix.csv docs/matrix/batch-23-status.md docs/sync/batch-23-docs-sync.json sync-debug.txt
+          git add README.md docs/MASTER-MATRIX.md docs/matrix/master-matrix.csv docs/matrix/batch-23-status.md docs/matrix/batch-23-rows.csv docs/sync/batch-23-docs-sync.json sync-debug.txt
           if git diff --cached --quiet; then
             echo "No changes to sync."
           else

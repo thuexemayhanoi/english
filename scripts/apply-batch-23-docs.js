@@ -55,6 +55,35 @@ function isIdRow(l) {
          (l.indexOf('LAW-') === 0 && l.length > 8 && l[8] === ',');
 }
 
+// RFC-4180-ish CSV parser: handles quoted fields containing commas and embedded newlines.
+function parseCsv(text) {
+  const rows = []; let row = []; let field = ''; let inQ = false;
+  for (let i = 0; i < text.length; i++) {
+    const ch = text[i];
+    if (inQ) {
+      if (ch === '"') { if (text[i + 1] === '"') { field += '"'; i++; } else inQ = false; }
+      else field += ch;
+    } else {
+      if (ch === '"') inQ = true;
+      else if (ch === ',') { row.push(field); field = ''; }
+      else if (ch === '\n') { row.push(field); rows.push(row); row = []; field = ''; }
+      else if (ch !== '\r') field += ch;
+    }
+  }
+  if (field !== '' || row.length > 1 || (row.length === 1 && row[0] !== '')) { row.push(field); rows.push(row); }
+  return rows;
+}
+function csvEscape(f) {
+  return /[",\n\r]/.test(f) ? '"' + f.replace(/"/g, '""') + '"' : f;
+}
+function cleanField(f) {
+  let v = f.replace(/\s+/g, ' ').trim();
+  // Remove stray Status tokens that a previous append-to-physical-line repair
+  // (commit 1e425ec) inserted inside quoted fields, e.g. "...slug,published rest..."
+  v = v.replace(/,\s*published\b/g, '').trim();
+  return v;
+}
+
 // ---------- CSV merge ----------
 const payload = JSON.parse(fs.readFileSync('docs/sync/batch-23-docs-sync.json', 'utf8'));
 const merge = payload.csvMerge;
@@ -70,18 +99,40 @@ if (merge.expectBefore !== null && before !== merge.expectBefore) {
 }
 const ids = new Set(idRowLines.map(l => l.split(',')[0]));
 let added = 0, skipped = 0;
+const fixedRowsFiles = [];
 for (const rf of merge.rowsFiles) {
-  const rows = fs.readFileSync(rf.file, 'utf8');
-  const rowIdLines = rows.split(NL).filter(Boolean).filter(isIdRow);
-  diag.push('rowsFile ' + rf.file + ': idRows=' + rowIdLines.length);
-  if (rf.expectRows !== null && rowIdLines.length !== rf.expectRows) {
-    die(rf.file + ' holds ' + rowIdLines.length + ' ID rows (expected ' + rf.expectRows + ')');
+  const raw = fs.readFileSync(rf.file, 'utf8');
+  const parsed = parseCsv(raw);
+  diag.push('rowsFile ' + rf.file + ': parsedRows=' + (parsed.length - 1) + ' (physical idRows=' + raw.split(NL).filter(isIdRow).length + ')');
+  const header = parsed[0].map(f => f.trim());
+  const expectedHeader = 'ID,Primary topic,Proposed title,Primary query,Search intent,Cluster,Subcluster,Content type,Audience,Source basis,Research flags,Legal/tech sensitivity,Closest related article,Differentiation reason,Internal link targets,Status'.split(',');
+  if (header.join('|') !== expectedHeader.join('|')) die(rf.file + ': unexpected header columns: ' + header.join('|'));
+  const outLines = [header.map(csvEscape).join(',')];
+  const dataRows = parsed.slice(1);
+  if (rf.expectRows !== null && dataRows.length !== rf.expectRows) {
+    die(rf.file + ' holds ' + dataRows.length + ' parsed rows (expected ' + rf.expectRows + ')');
   }
-  for (const l of rowIdLines) {
+  for (let r = 0; r < dataRows.length; r++) {
+    let fields = dataRows[r].map(cleanField);
+    if (fields.length && fields[fields.length - 1] === 'published') fields.pop();
+    if (fields.length !== expectedHeader.length - 1) {
+      die(rf.file + ' row ' + (r + 1) + ': ' + fields.length + ' fields after cleaning (expected ' + (expectedHeader.length - 1) + '): ' + fields[0]);
+    }
+    const rowLine = fields.map(csvEscape).concat(['published']).join(',');
+    if (!isIdRow(rowLine)) die(rf.file + ' row ' + (r + 1) + ' does not serialize as an ID row: ' + rowLine.slice(0, 40));
+    outLines.push(rowLine);
+  }
+  const fixedContent = outLines.join(NL) + NL;
+  fixedRowsFiles.push({ file: rf.file, content: fixedContent });
+  for (const l of outLines.slice(1)) {
     const id = l.split(',')[0];
     if (ids.has(id)) { skipped++; continue; }
     masterLines.push(l); ids.add(id); added++;
   }
+  const rowIds = outLines.slice(1).map(l => l.split(',')[0]);
+  const expectedIds = [];
+  for (let i = 819; i <= 847; i++) expectedIds.push('MM-0' + i);
+  if (rowIds.join(',') !== expectedIds.join(',')) die(rf.file + ': row IDs are not MM-0819..MM-0847 in order: ' + rowIds.join(','));
 }
 const after = before + added;
 if (merge.expectAfter !== null && after !== merge.expectAfter) {
@@ -90,6 +141,12 @@ if (merge.expectAfter !== null && after !== merge.expectAfter) {
 const lastId = masterLines.filter(isIdRow).pop().split(',')[0];
 if (lastId !== 'MM-0847') die('last ID row is ' + lastId + ' (expected MM-0847)');
 fs.writeFileSync(merge.target, masterLines.join(NL) + NL);
+for (const frf of fixedRowsFiles) {
+  if (fs.readFileSync(frf.file, 'utf8') !== frf.content) {
+    fs.writeFileSync(frf.file, frf.content);
+    diag.push('rowsFile normalized to one line per row (repairs the 1e425ec mid-row Status inserts): ' + frf.file);
+  }
+}
 diag.push('CSV merge OK: added ' + added + ', skipped ' + skipped + ' duplicates; ID rows ' + before + ' -> ' + after);
 
 // ---------- README ----------
