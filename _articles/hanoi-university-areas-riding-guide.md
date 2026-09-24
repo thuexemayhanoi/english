@@ -29,7 +29,8 @@ The two great historic campuses anchor the south of the centre: the university q
 
 ## The class-change wave
 
-University traffic runs in waves, not rush hours. Fifteen minutes before each class block, the feeder streets fill with students riding at maximum confidence and minimum attention; fifteen minutes after, they empty. The peaks stack thickest mid-morning and mid-afternoon, with a long gentle tail in the evening when the food streets take over. Riding through a class-change wave is a special skill: the flow is dense but slow, and the hazard profile is different — sudden U-turns without mirrors-checking, two and sometimes three riders per bike, phones in faces, textbooks balanced on racks. The correct response is patience and generous space, notassertive filtering: student riders are predictable in aggregate and random individually.
+University traffic runs in waves, not rush hours. Fifteen minutes before each class block, the feeder streets fill with stude
+nts riding at maximum confidence and minimum attention; fifteen minutes after, they empty. The peaks stack thickest mid-morning and mid-afternoon, with a long gentle tail in the evening when the food streets take over. Riding through a class-change wave is a special skill: the flow is dense but slow, and the hazard profile is different — sudden U-turns without mirrors-checking, two and sometimes three riders per bike, phones in faces, textbooks balanced on racks. The correct response is patience and generous space, not assertive filtering: student riders are predictable in aggregate and random individually.
 
 ## Parking at campus scale
 
@@ -41,6 +42,7 @@ The student fleet is the city's most battered and most beloved: 50cc bikes under
 
 ## For teachers and long-stay riders
 
-Living near a university area is a rider's bargain: cheap food, late opening hours, calm streets between waves, and fast corridors to everywhere once you learn the wave schedule. Many foreign teachers base themselves on the campus corridors for exactly this reason. The trade-off is noise (student quarters run loud) and the wave discipline: your commute either dodges the waves or becomes one with them.
+Living near a university area is a rider's bargain: cheap food, late opening hours, calm streets between waves, and fast corridors to everywhere once you learn the wave schedule. Many foreign teachers base themselves on the campus corridors for exactly this reason. The trade-off is noise (student quarters run loud) a
+nd the wave discipline: your commute either dodges the waves or becomes one with them.
 
 Ride a university corridor for a week and you will know Hanoi's next generation better than any survey could — and you will never again be surprised by a scooter carrying three students, a desktop computer and a birthday cake.
