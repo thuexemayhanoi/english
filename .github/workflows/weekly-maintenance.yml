@@ -12,6 +12,16 @@ on:
     # Monday 09:30 local Hanoi time — after opening hours start, before midday.
     - cron: '30 2 * * 1'
   workflow_dispatch:
+  push:
+    branches: [main]
+    # Self-test only: run when the maintenance system itself changes, so every
+    # change to this system is validated by a real run. Content pushes do not
+    # trigger it (981 articles, all clusters - no production runs from here).
+    paths:
+      - '.github/workflows/weekly-maintenance.yml'
+      - 'scripts/maintenance.js'
+      - 'scripts/maintenance-escalate.js'
+      - 'scripts/maintenance-baseline.json'
 
 # Never allow two maintenance runs to overlap; queue instead of cancelling.
 concurrency:
