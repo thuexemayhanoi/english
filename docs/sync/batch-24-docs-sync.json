@@ -14,6 +14,6 @@
     "applied": true,
     "script": "scripts/apply-batch-24-final-docs.js"
   },
-  "retry": 4,
-  "note": "Batch-24 docs-sync phase 4: master-matrix.csv merge completed by bot commit c8b42a1 (913 -> 936). This trigger applies the batch-24 final README.md and docs/MASTER-MATRIX.md state updates via scripts/apply-batch-24-final-docs.js (syntax-repaired at 9ac94b5)."
+  "retry": 5,
+  "note": "Batch-24 docs-sync phase 5: master-matrix.csv merge completed (c8b42a1, 913 -> 936) and final docs applied (36c75ea). This trigger records the batch-24 verification (latest workflow runs) via scripts/record-batch-24-verification.js."
 }
