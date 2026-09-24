@@ -1,1 +1,33 @@
-Batch-26 docs-sync diagnostics: superseded 2026-09-24. Root causes fixed in the same commit: (1) apply-batch-26-docs.js toTolerant escaped metacharacters incorrectly so README find-strings matched 0 times; (2) _articles/motorbike-parking-vietnamese-cities.md had an internal_link_targets entry referencing a missing slug (motorbike-parking-hanoi-overnight-security), which failed the Quality Gate internal-link audit. The master-matrix.csv merge (951 -> 981) from the earlier partial run is preserved and the retry is idempotent.
+rows file validated: 30 rows (MM-0886..MM-0915), 16 fields, Status=published, clean slugs
+MM-0886 already present, skipped
+MM-0887 already present, skipped
+MM-0888 already present, skipped
+MM-0889 already present, skipped
+MM-0890 already present, skipped
+MM-0891 already present, skipped
+MM-0892 already present, skipped
+MM-0893 already present, skipped
+MM-0894 already present, skipped
+MM-0895 already present, skipped
+MM-0896 already present, skipped
+MM-0897 already present, skipped
+MM-0898 already present, skipped
+MM-0899 already present, skipped
+MM-0900 already present, skipped
+MM-0901 already present, skipped
+MM-0902 already present, skipped
+MM-0903 already present, skipped
+MM-0904 already present, skipped
+MM-0905 already present, skipped
+MM-0906 already present, skipped
+MM-0907 already present, skipped
+MM-0908 already present, skipped
+MM-0909 already present, skipped
+MM-0910 already present, skipped
+MM-0911 already present, skipped
+MM-0912 already present, skipped
+MM-0913 already present, skipped
+MM-0914 already present, skipped
+MM-0915 already present, skipped
+master-matrix.csv already holds 981 ID rows (idempotent skip)
+FATAL: README find-string matches 0 times (expected 1): "- 951 published articles: cluster 13 (motorbike trips from Hanoi) is COMPLETE — 23 article..."
