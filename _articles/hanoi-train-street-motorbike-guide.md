@@ -18,7 +18,8 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
-  - "https://revitrip.com/blog/is-hanoi-train-street-still-open — Hanoi Train Street open to independent visitors in 2026 with restrictions varying by location; access barriers at the Phung Hung section, retrieved 2026-09-24",  - "https://vietnamtour.in/hanoi-train-street/ — 2025–2026 regulations: cafe booking is the only method of entering past the access barriers, retrieved 2026-09-24"
+  - "https://revitrip.com/blog/is-hanoi-train-street-still-open — Hanoi Train Street open to independent visitors in 2026 with restrictions varying by location; access barriers at the Phung Hung section, retrieved 2026-09-24",
+  - "https://vietnamtour.in/hanoi-train-street/ — 2025–2026 regulations: cafe booking is the only method of entering past the access barriers, retrieved 2026-09-24"
 internal_link_targets: hanoi-districts-layout-guide-riders, riding-hanoi-old-quarter-narrow-streets, where-to-park-motorbike-hanoi, exploring-hoan-kiem-by-motorbike, hanoi-motorbike-photo-spots, self-guided-hanoi-motorbike-city-tour, hanoi-navigation-motorbike-guide
 ---
 
@@ -26,7 +27,8 @@ Train Street — the section of Phung Hung where houses stand a metre or two fro
 
 ## Where it is and how to ride there
 
-Train Street runs behind Phung Hung street in the Old Quarter's northwest corner, parallel to it. The classic approach is from Hoan Kiem: west along the old streets, then north — the whole ride is a few minutes, though narrow and busy. This is dense Old Quarter riding: one-way lanes, loading bikes, pedestrians everywhere. Ride it slow, lights on, and expect to stop.
+Train Street runs behind Phung Hung street in the Old Quarter's northwest corner, parallel to it. The classic approach
+ is from Hoan Kiem: west along the old streets, then north — the whole ride is a few minutes, though narrow and busy. This is dense Old Quarter riding: one-way lanes, loading bikes, pedestrians everywhere. Ride it slow, lights on, and expect to stop.
 
 ## The access situation
 
@@ -44,4 +46,5 @@ This is the real rider question, because Train Street has no parking of its own.
 
 Go in the hour before a train is due — the cafes know the schedule — and go in the golden light if you want photographs. Trains pass a couple of times a day in each direction; the timing is not a secret and the cafes post it. Combine the visit with the wider Old Quarter loop, and keep the ride slow: this corner of the city rewards walking pace.
 
-For the bike itself, rent something small and light for the Old Quarter's lanes. Contact us to confirm current availability.
+For the bike itself, rent some
+thing small and light for the Old Quarter's lanes. Contact us to confirm current availability.

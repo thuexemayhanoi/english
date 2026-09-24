@@ -18,7 +18,8 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
-  - "https://www.vme.org.vn/en — Vietnam Museum of Ethnology, Nguyen Van Huyen street, Nghia Do, Cau Giay area, retrieved 2026-09-24",  - "https://www.tripadvisor.com/Attraction_Review-g27469010-d4581028-Reviews-Hanoi_Museum-Nam_T_Liem_Tu_Liem_Hanoi.html — Hanoi Museum in Nam Tu Liem, retrieved 2026-09-24"
+  - "https://www.vme.org.vn/en — Vietnam Museum of Ethnology, Nguyen Van Huyen street, Nghia Do, Cau Giay area, retrieved 2026-09-24",
+  - "https://www.tripadvisor.com/Attraction_Review-g27469010-d4581028-Reviews-Hanoi_Museum-Nam_T_Liem_Tu_Liem_Hanoi.html — Hanoi Museum in Nam Tu Liem, retrieved 2026-09-24"
 internal_link_targets: nam-tu-liem-area-guide-riders, exploring-cau-giay-by-motorbike, ba-dinh-area-guide-riders, dong-da-area-guide-riders, where-to-park-motorbike-hanoi, hanoi-riding-seasons-guide, self-guided-hanoi-motorbike-city-tour
 ---
 
@@ -26,7 +27,8 @@ Hanoi's museums are spread across the city, which makes them — more than templ
 
 ## The map, roughly
 
-The central band holds the history museums: the National Museum of History by the Old Quarter's southeast corner, and the Vietnam Military History Museum in the Ba Dinh government quarter. The west holds the two big easy-riding destinations: the **Vietnam Museum of Ethnology** on Nguyen Van Huyen street in the Cau Giay area — with its famous outdoor exhibits of Vietnam's ethnic house architectures — and the **Hanoi Museum** in Nam Tu Liem, an inverted-pyramid building that tells the capital's story. The Fine Arts Museum sits near the Temple of Literature.
+The central band holds the history museums: the National Museum of History by the Old Quarter's southeast corner, and the Vietnam Military History Museum in the Ba Dinh government quarter. The west holds the two big easy-riding destinations: the **Vietnam Museum of Ethnology** on Nguyen Van Huyen street in the Cau Giay area — with its famous outdoor exhibits of Vietnam's ethnic house architectures — and the **Hanoi Museum** in Nam Tu Liem, an inverted-pyramid building that tells the capital'
+s story. The Fine Arts Museum sits near the Temple of Literature.
 
 ## The rides
 

@@ -19,7 +19,8 @@ last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
   - "https://vietcetera.com/en/a-post-merger-guide-to-hanoi-navigating-vietnams-capital — Hanoi July 2025 administrative restructuring (30 former districts reorganised into 126 wards and communes), retrieved 2026-09-24"
-  - "https://itourvn.com/blog/ha-dong-district-in-hanoi/ — Ha Dong location in southwest Hanoi and neighbouring areas, retrieved 2026-09-24",  - "https://vietnamdiscovery.com/hanoi/attractions/van-phuc-silk-village/ — Van Phuc silk village on the Nhue river bank off Nguyen Trai road near Ha Dong, roughly 8 km southwest of central Hanoi, retrieved 2026-09-24"
+  - "https://itourvn.com/blog/ha-dong-district-in-hanoi/ — Ha Dong location in southwest Hanoi and neighbouring areas, retrieved 2026-09-24",
+  - "https://vietnamdiscovery.com/hanoi/attractions/van-phuc-silk-village/ — Van Phuc silk village on the Nhue river bank off Nguyen Trai road near Ha Dong, roughly 8 km southwest of central Hanoi, retrieved 2026-09-24"
 internal_link_targets: hanoi-districts-layout-guide-riders, choosing-hanoi-neighbourhood-motorbike-access, van-phuc-silk-village-motorbike-ride, hanoi-motorbike-commute-corridors, traffic-at-rush-hour-riding-hanoi, where-to-park-motorbike-hanoi, best-motorbike-for-commuting-hanoi
 ---
 
@@ -27,7 +28,8 @@ Ha Dong used to be a separate town before Hanoi absorbed it; today it is the sou
 
 ## What the area is
 
-Ha Dong centres on the To Huu–Nguyen Trai corridors, with its own markets, hospitals and high-rise campuses — a complete city district rather than a commuter suburb. Two landmarks matter to visitors. The first is the elevated metro line that follows Nguyen Trai through the district: its pillars define the main road's geometry, and the trains above are a constant, oddly reassuring presence. The second is Van Phuc silk village, the old weaving quarter on the Nhue river just off Nguyen Trai, about 8 km from the centre and roughly half an hour by motorbike.
+Ha Dong centres on the To Huu–Nguyen Trai corridors, with its own markets, hospitals and 
+high-rise campuses — a complete city district rather than a commuter suburb. Two landmarks matter to visitors. The first is the elevated metro line that follows Nguyen Trai through the district: its pillars define the main road's geometry, and the trains above are a constant, oddly reassuring presence. The second is Van Phuc silk village, the old weaving quarter on the Nhue river just off Nguyen Trai, about 8 km from the centre and roughly half an hour by motorbike.
 
 ## How it rides
 

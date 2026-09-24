@@ -19,7 +19,8 @@ last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
   - "https://vietcetera.com/en/a-post-merger-guide-to-hanoi-navigating-vietnams-capital — Hanoi July 2025 administrative restructuring (30 former districts reorganised into 126 wards and communes), retrieved 2026-09-24"
-  - "https://en.vietnamplus.vn/hanoi-announces-restructuring-plan-for-administrative-units-post317715.vnp — Hanoi administrative unit restructuring plan announcement, retrieved 2026-09-24",  - "https://maisonoffice.vn/en/news/hanoi-map/ — post-restructuring Hanoi administrative map, retrieved 2026-09-24"
+  - "https://en.vietnamplus.vn/hanoi-announces-restructuring-plan-for-administrative-units-post317715.vnp — Hanoi administrative unit restructuring plan announcement, retrieved 2026-09-24",
+  - "https://maisonoffice.vn/en/news/hanoi-map/ — post-restructuring Hanoi administrative map, retrieved 2026-09-24"
 internal_link_targets: hanoi-navigation-motorbike-guide, hanoi-districts-layout-guide-riders, choosing-hanoi-neighbourhood-motorbike-access, getting-around-hanoi-without-vietnamese, hanoi-petrol-stations-guide-riders, documents-to-carry-motorbike-vietnam
 ---
 
@@ -27,7 +28,8 @@ In July 2025, Hanoi redrew its own map. The city's 30 former districts were reor
 
 ## What actually changed
 
-The old district layer of government — Dong Da, Hai Ba Trung, Hoang Mai, Thanh Xuan, Bac and Nam Tu Liem, and the rest — disappeared as administrative units, replaced by 126 new wards and communes across the city. Streets, buildings and landmarks did not move. What changed is the official second line of every address: where a card once said "Dong Da District, Hanoi," it now names the new ward.
+The old district layer of government — Dong Da, Ha
+i Ba Trung, Hoang Mai, Thanh Xuan, Bac and Nam Tu Liem, and the rest — disappeared as administrative units, replaced by 126 new wards and communes across the city. Streets, buildings and landmarks did not move. What changed is the official second line of every address: where a card once said "Dong Da District, Hanoi," it now names the new ward.
 
 ## Why this matters to a rider
 
@@ -40,5 +42,6 @@ The old district layer of government — Dong Da, Hai Ba Trung, Hoang Mai, Thanh
 **Paperwork.** If you rent long-term, register a bike, deal with a fine or exchange a licence, the office landscape has shifted: some administrative service centres moved or merged as part of the reform. Check the current location of the ward-level office you need rather than trusting an address published before July 2025, and carry the documents the law requires when you ride.
 
 ## What did not change
+
 
 Traffic rules, licence classes, petrol stations, parking conventions, bridges, one-way systems — none of it moved. The restructuring is a government-shape change, not a road change. Ride exactly as you would have, and enjoy the fact that Hanoi's geography is still the geography you read about here.

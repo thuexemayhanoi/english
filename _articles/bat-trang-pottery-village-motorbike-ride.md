@@ -18,7 +18,8 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
-  - "https://vinpearl.com/en/bat-trang-pottery-village-experience-exciting-hands-on-pottery-making — 20–30 minutes from Hanoi centre by motorbike via Long Bien or Chuong Duong bridge, then the road along the Red River, retrieved 2026-09-24",  - "https://www.vietnamairlines.com/us/en/plan-book/travel/travel-guide/bat-trang-ceramic-village — motorbike route via Nguyen Khoai street or Long Bien bridge towards Gia Lam, then Bat Trang road, retrieved 2026-09-24"
+  - "https://vinpearl.com/en/bat-trang-pottery-village-experience-exciting-hands-on-pottery-making — 20–30 minutes from Hanoi centre by motorbike via Long Bien or Chuong Duong bridge, then the road along the Red River, retrieved 2026-09-24",
+  - "https://www.vietnamairlines.com/us/en/plan-book/travel/travel-guide/bat-trang-ceramic-village — motorbike route via Nguyen Khoai street or Long Bien bridge towards Gia Lam, then Bat Trang road, retrieved 2026-09-24"
 internal_link_targets: long-bien-bridge-motorbike-guide, crossing-hanoi-bridges-motorbike, red-river-dyke-riding-guide, red-river-islands-motorbike-guide, best-motorbike-for-day-trips-from-hanoi, where-to-park-motorbike-hanoi, self-guided-hanoi-motorbike-city-tour
 ---
 
@@ -26,7 +27,8 @@ Bat Trang, the 600-year-old ceramics village on the Red River's east bank, is th
 
 ## The route
 
-From the Old Quarter, the standard approach crosses to the east bank. Two bridges work. **Long Bien Bridge** takes only motorbikes, bicycles and pedestrians — the historic structure itself is part of the trip, with its steel deck and river views; note it has been through a major repair cycle in 2026 and you should check it is open to motorbikes on your riding day. **Chuong Duong Bridge** is the modern alternative, faster and heavier with traffic. After crossing, follow the road along the Red River toward Gia Lam and pick up Bat Trang road — the published routing is Nguyen Khoai street or Long Bien bridge toward Gia Lam, then the Bat Trang road. Count 20–30 minutes of riding from the centre in normal traffic.
+From the Old Quarter, the standard approach crosses to the east bank. Two bridges work. **Long Bien Bridge** takes only motorbikes, bicycles and pedestrians — the historic structure itself is part of the trip, with its steel deck and r
+iver views; note it has been through a major repair cycle in 2026 and you should check it is open to motorbikes on your riding day. **Chuong Duong Bridge** is the modern alternative, faster and heavier with traffic. After crossing, follow the road along the Red River toward Gia Lam and pick up Bat Trang road — the published routing is Nguyen Khoai street or Long Bien bridge toward Gia Lam, then the Bat Trang road. Count 20–30 minutes of riding from the centre in normal traffic.
 
 The dyke-road stretch is the pleasant part: river on one side, market-garden country on the other, and none of the city's density. Watch the surface at junctions and after rain — dyke roads mix asphalt, concrete and dust.
 

@@ -18,7 +18,8 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
-  - "https://www.thecommonwanderer.com/blog/temple-of-literature-hanoi-guide — Temple of Literature established in 1070 to honour Confucius; first national university of Vietnam, retrieved 2026-09-24",  - "https://www.travelvietnam.com/vietnam-attractions/temple-of-literature-hanoi.html — built in 1070 under Emperor Ly Thanh Tong, dedicated to Confucius and scholars, retrieved 2026-09-24"
+  - "https://www.thecommonwanderer.com/blog/temple-of-literature-hanoi-guide — Temple of Literature established in 1070 to honour Confucius; first national university of Vietnam, retrieved 2026-09-24",
+  - "https://www.travelvietnam.com/vietnam-attractions/temple-of-literature-hanoi.html — built in 1070 under Emperor Ly Thanh Tong, dedicated to Confucius and scholars, retrieved 2026-09-24"
 internal_link_targets: dong-da-area-guide-riders, thang-long-imperial-citadel-motorbike-guide, hanoi-pagodas-temples-motorbike-guide, hanoi-museums-motorbike-visit-guide, where-to-park-motorbike-hanoi, hanoi-districts-layout-guide-riders, self-guided-hanoi-motorbike-city-tour
 ---
 
@@ -26,7 +27,8 @@ The Temple of Literature — Van Mieu–Quoc Tu Giam — is the oldest universit
 
 ## What you are visiting
 
-The complex runs through five courtyards from the Great Gate inward: the central way through the Kiem Pond to the Constellation of Literature pavilion — the site's icon — then the stele gardens, where the names of royal examination laureates were carved onto stone tablets carried on the backs of turtles. The deeper courtyards hold the academy buildings and the Confucian sanctuary. Give it ninety unhurried minutes; the stele house and the pavilion are the photographs, but the back courtyards are the quiet.
+The complex runs through five courtyards from the Great Gate inward: the central way through the Kiem Pond to the Constellation of Literature pavilion — the site
+'s icon — then the stele gardens, where the names of royal examination laureates were carved onto stone tablets carried on the backs of turtles. The deeper courtyards hold the academy buildings and the Confucian sanctuary. Give it ninety unhurried minutes; the stele house and the pavilion are the photographs, but the back courtyards are the quiet.
 
 ## The route
 

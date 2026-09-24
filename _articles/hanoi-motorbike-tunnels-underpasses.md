@@ -18,7 +18,8 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
-  - "https://www.vietnam.vn/en/ham-chui-kim-dong-giai-phong-thong-xe-ky-thuat-phuong-an-phan-luong-giao-thong-moi — the Kim Dong–Giai Phong underpass on Ring Road 2.5, the fifth Hanoi underpass since 2009 after Kim Lien, Trung Hoa, Thanh Xuan and Le Van Luong, retrieved 2026-09-24",  - "https://www.vietnam.vn/en/ha-noi-sap-xay-them-loat-ham-chui-lon/ — Hanoi underpass inventory: Kim Lien, Trung Hoa, Thanh Xuan, Le Van Luong, retrieved 2026-09-24"
+  - "https://www.vietnam.vn/en/ham-chui-kim-dong-giai-phong-thong-xe-ky-thuat-phuong-an-phan-luong-giao-thong-moi — the Kim Dong–Giai Phong underpass on Ring Road 2.5, the fifth Hanoi underpass since 2009 after Kim Lien, Trung Hoa, Thanh Xuan and Le Van Luong, retrieved 2026-09-24",
+  - "https://www.vietnam.vn/en/ha-noi-sap-xay-them-loat-ham-chui-lon/ — Hanoi underpass inventory: Kim Lien, Trung Hoa, Thanh Xuan, Le Van Luong, retrieved 2026-09-24"
 internal_link_targets: hanoi-ring-roads-motorbike-guide, thanh-xuan-area-guide-riders, hanoi-motorbike-commute-corridors, night-riding-motorbike-safety-vietnam, riding-motorbike-blind-spots-vietnam, emergency-braking-motorbike-vietnam, hanoi-districts-layout-guide-riders
 ---
 
@@ -26,7 +27,8 @@ Hanoi has been threading its biggest junctions under the city since 2009, and th
 
 ## The inventory
 
-The named set so far: **Kim Lien**, on the central Ring Road 1 at the Giai Phong intersection; **Trung Hoa**, **Thanh Xuan** and **Le Van Luong** across the southwest quadrant's big junctions; and the newest, the **Kim Dong–Giai Phong underpass on Ring Road 2.5**, the fifth Hanoi underpass since 2009, opened in the current building wave. More are planned — Hanoi has announced further tunnels for its worst junctions. Each follows the same idea: through-traffic drops under the junction while surface traffic turns above.
+The named set so far: **Kim Lien**, on the central Ring Road 1 at the Giai Phong intersection; **Trung Hoa**, **Thanh Xuan** and **Le Van Luong** across the s
+outhwest quadrant's big junctions; and the newest, the **Kim Dong–Giai Phong underpass on Ring Road 2.5**, the fifth Hanoi underpass since 2009, opened in the current building wave. More are planned — Hanoi has announced further tunnels for its worst junctions. Each follows the same idea: through-traffic drops under the junction while surface traffic turns above.
 
 ## Why riders like them
 
