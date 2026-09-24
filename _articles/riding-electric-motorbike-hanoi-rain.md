@@ -30,8 +30,7 @@ Manufacturers certify water resistance with IP codes, and Vietnam's makers publi
 
 ## Wet-road technique on electric
 
-- **Regen changes braking feel.** On throttle-controlled regen (as on t
-he Weaver 200), the same grip movement that normally slows you also does double duty in the wet — release progressively, because regen acts on the rear wheel and can slip on slick paint or mud.
+- **Regen changes braking feel.** On throttle-controlled regen (as on the Weaver 200), the same grip movement that normally slows you also does double duty in the wet — release progressively, because regen acts on the rear wheel and can slip on slick paint or mud.
 - **Silence cuts both ways.** Rain noise masks your already-quiet motor further; ride as if invisible.
 - **Budget for less regen.** On very slippery surfaces the system recovers less energy — and range drops slightly in heavy rain with lights on.
 - **Avoid flood lines.** If water hides the road surface, do not cross at speed; our flooded-street riding guide covers the technique for every bike type.

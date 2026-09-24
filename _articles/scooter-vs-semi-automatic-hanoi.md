@@ -28,8 +28,7 @@ Automatic, step-through, under-seat storage. The pros: zero learning curve on th
 
 ## The semi-automatic underbone (Honda Wave, Yamaha Sirius)
 
-Foot-shifted gears, no hand clutch. The pros: the narrowest, lightest-feeling machines on the list - the alleys and the crowds of the Old Quarter are their natural habitat; the lowest published rates (150,000 VND per day); the biggest wheels of the small classes, which handle potholes and rough provincial roads better than scooter wheels; and a national repair ne
-twork - every mechanic in Vietnam knows a Wave. The cons: the foot-shift is a real learning curve for total beginners; storage means a rack bag; and two-up comfort is worse.
+Foot-shifted gears, no hand clutch. The pros: the narrowest, lightest-feeling machines on the list - the alleys and the crowds of the Old Quarter are their natural habitat; the lowest published rates (150,000 VND per day); the biggest wheels of the small classes, which handle potholes and rough provincial roads better than scooter wheels; and a national repair network - every mechanic in Vietnam knows a Wave. The cons: the foot-shift is a real learning curve for total beginners; storage means a rack bag; and two-up comfort is worse.
 
 ## The honest match
 

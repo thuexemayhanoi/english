@@ -31,8 +31,7 @@ Do not start a long trip near a service boundary. If the oil, chain, brake pads 
 
 - Tyres: tread above the limit, no sidewall cracks, no embedded debris, and pressures set for the load you will carry (two-up with luggage changes pressures — per the manual's loaded figures). Tyre basics are in tyre-care-motorbike-vietnam.
 - Brakes: pad thickness with margin, lever feel firm, discs within limits — inspecting-brake-discs-motorbike.
-- Wheels: spokes checked, rim dents, bearing pl
-ay — wheel-bearings-check-motorbike.
+- Wheels: spokes checked, rim dents, bearing play — wheel-bearings-check-motorbike.
 
 
 **Drivetrain**

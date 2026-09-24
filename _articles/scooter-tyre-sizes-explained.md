@@ -42,8 +42,7 @@ Take the Honda Vision's front tyre: **80/90-16**.
 
 ## What size changes
 
-- **Diameter (the last number):** bigger wheels = more stability and defect-spanning ability, less agility at walking pace - the Vision's 16-inch fro
-nt vs the Grande's 12-inch set shows the two philosophies (see our 16-inch wheel guide).
+- **Diameter (the last number):** bigger wheels = more stability and defect-spanning ability, less agility at walking pace - the Vision's 16-inch front vs the Grande's 12-inch set shows the two philosophies (see our 16-inch wheel guide).
 - **Width:** wider tyres grip more on clean pavement but tramline over grooves and add a little drag; the Grande's 110-section front is the widest of this group.
 - **Aspect ratio:** taller sidewalls (90) cushion bad surfaces; low profiles (70) sharpen steering response.
 

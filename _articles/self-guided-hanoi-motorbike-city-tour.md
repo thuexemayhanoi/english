@@ -29,8 +29,7 @@ You can see Hanoi's postcard sights in a bus, or you can ride them in a day on a
 
 ## Morning: the calm sights
 
-Start early — Hanoi's best hours end by nine. Ride the West Lake loop's southern half first, when the water is still misted, stopping at Tran Quoc pagoda (parking inside the temple lot). Continue along Thanh Nien into Ba Dinh for the Ho Chi Minh mausoleum complex area; visit early because entry procedures and closures (afternoon
-s, Mondays, and formal ceremony days) are real — check the current opening pattern before your visit, and note that security here is strict: no bags, no photos inside, respectable dress. A short hop south brings you to the Temple of Literature, the thousand-year-old imperial academy with easy on-site parking.
+Start early — Hanoi's best hours end by nine. Ride the West Lake loop's southern half first, when the water is still misted, stopping at Tran Quoc pagoda (parking inside the temple lot). Continue along Thanh Nien into Ba Dinh for the Ho Chi Minh mausoleum complex area; visit early because entry procedures and closures (afternoons, Mondays, and formal ceremony days) are real — check the current opening pattern before your visit, and note that security here is strict: no bags, no photos inside, respectable dress. A short hop south brings you to the Temple of Literature, the thousand-year-old imperial academy with easy on-site parking.
 
 ## Midday: eat like the itinerary means it
 
@@ -50,7 +49,6 @@ Ride northeast along the dyke past the ceramic mosaic wall as the light turns go
 - **Timing cushion**: the plan leaves slack for coffee; Hanoi days should.
 - **Parking**: every stop above has attended lots; carry small notes.
 - **Rain plan**: the route in reverse puts the indoor-ish stops (museums, temples, market) in the wetter half of the day.
-- **R
-enting**: this route is the standard first-day ride for rental customers; any current model availability is best confirmed with the shop directly, and the guided-vs-self decision has its own comparison if you are unsure about riding Hanoi traffic alone.
+- **Renting**: this route is the standard first-day ride for rental customers; any current model availability is best confirmed with the shop directly, and the guided-vs-self decision has its own comparison if you are unsure about riding Hanoi traffic alone.
 
 One day is not all of Hanoi, but ridden well it is the whole arc: lakes, emperors, empires, markets and the river that made the city — with the wind of a moving bike through all of it.

@@ -29,8 +29,7 @@ The key component is a centrifugal clutch. Instead of a lever-operated clutch, t
 
 ## The rotary four-speed
 
-The other half of the format is the gear pattern. Honda publishes the same layout for the Wav
-e Alpha, Blade, Wave RSX and Future 125 FI: a mechanical four-speed rotary gearbox. The shifter clicks down through the gears and then wraps back around to the top - neutral, first, second, third, fourth and back to neutral - so you never run out of clicks at either end.
+The other half of the format is the gear pattern. Honda publishes the same layout for the Wave Alpha, Blade, Wave RSX and Future 125 FI: a mechanical four-speed rotary gearbox. The shifter clicks down through the gears and then wraps back around to the top - neutral, first, second, third, fourth and back to neutral - so you never run out of clicks at either end.
 
 ## What you actually do when riding
 

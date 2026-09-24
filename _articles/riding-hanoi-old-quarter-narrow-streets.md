@@ -31,8 +31,7 @@ The sidewalk is for people, and riding on it is both antisocial and unlawful —
 
 ## Assume every doorway holds a person
 
-The hazard profile in the Old Quarter is not speed, it is the unexpected: someone stepping out, a plastic stool, a dog under a street-food table. Cover the rear brake constantly and keep two fingers over it at
- all times. riding-motorbike-heavy-rain-vietnam adds another layer when the stone and tile surfaces are wet.
+The hazard profile in the Old Quarter is not speed, it is the unexpected: someone stepping out, a plastic stool, a dog under a street-food table. Cover the rear brake constantly and keep two fingers over it at all times. riding-motorbike-heavy-rain-vietnam adds another layer when the stone and tile surfaces are wet.
 
 ## Tight turns and dead ends
 

@@ -28,8 +28,7 @@ Honda publishes "four-speed rotary" for the Wave Alpha, Blade, Wave RSX and Futu
 
 ## The manual six-speed
 
-Yamaha's Exciter 155 VVA runs six speeds with an Assist and Slipper clutch (our dedicated explainer covers that technology). Honda's Winner R and CBR150R pages list manual clutches without publishing gear-count detail. Six closely spaced ratios let the engine 
-stay near its power peak - the Exciter makes its 13.2 kW at 9,500 rpm - at the cost of constant clutch work in traffic.
+Yamaha's Exciter 155 VVA runs six speeds with an Assist and Slipper clutch (our dedicated explainer covers that technology). Honda's Winner R and CBR150R pages list manual clutches without publishing gear-count detail. Six closely spaced ratios let the engine stay near its power peak - the Exciter makes its 13.2 kW at 9,500 rpm - at the cost of constant clutch work in traffic.
 
 ## The practical difference in Hanoi
 

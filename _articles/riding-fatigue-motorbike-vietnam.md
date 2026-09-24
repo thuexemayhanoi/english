@@ -31,9 +31,7 @@ The classic mistake is planning a long-distance day on Vietnamese roads by the m
 
 ## The rest discipline that works
 
-Stop before you feel tired: roughly every 90 minutes, even for five mi
-nutes off the bike. Drink at every
- stop. Do not skip lunch to make time — the afternoon dip after skipping a meal is a real phenomenon on a bike. Alternate riding time with your pillion if both ride.
+Stop before you feel tired: roughly every 90 minutes, even for five minutes off the bike. Drink at every stop. Do not skip lunch to make time — the afternoon dip after skipping a meal is a real phenomenon on a bike. Alternate riding time with your pillion if both ride.
 
 ## The worst windows
 
