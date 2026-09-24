@@ -1,0 +1,4 @@
+{
+  "note": "Batch-26 closing verification-record refresh after cleanup (workflow restored in b5e2967, sync-audit.json removed in de494e6). Record the final Quality Gate and Pages runs on the batch-26 final head. Production plan COMPLETE: 981 published articles.",
+  "recorded": "2026-09-24"
+}
