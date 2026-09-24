@@ -28,8 +28,7 @@ Future 125 FI: 124.9 cc, air-cooled, 6.83 kW at 7,500 rpm, 10.2 Nm at 5,500 rpm.
 
 ## Capability
 
-Future: 133 mm ground clearance, 1,931 mm long, 756 mm seat, 104 kg, 70/90-17 front and 80/90-17 rear. CT: 165 mm clearance - the highest in Honda's listed underbone range - 800 mm seat, 117 kg, 80/90-17 tyres both ends, rack styling for luggage. On gravel and flooded rural tracks the CT is unambiguously the better tool; our gravel-road riding guide explains the tech
-niques it rewards.
+Future: 133 mm ground clearance, 1,931 mm long, 756 mm seat, 104 kg, 70/90-17 front and 80/90-17 rear. CT: 165 mm clearance - the highest in Honda's listed underbone range - 800 mm seat, 117 kg, 80/90-17 tyres both ends, rack styling for luggage. On gravel and flooded rural tracks the CT is unambiguously the better tool; our gravel-road riding guide explains the techniques it rewards.
 
 ## Fuel and economy
 

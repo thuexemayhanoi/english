@@ -30,8 +30,7 @@ The 109.1 cc single-cylinder air-cooled four-stroke produces 6.18 kW at 7,500 rp
 
 ## Economy and weight
 
-Published fuel consumption is 1.85 litres per 100 km from a 3.7-litre tank. Kerb weight depends on the version: 98 kg for the spoked-wheel drum-brake build and 99 kg for the spoked-w
-heel disc and alloy-wheel versions. The seat is 769 mm high and ground clearance is 141 mm - the highest of Honda's 110 cc underbones, which matters on Hanoi's kerbs, broken alley edges and rural tracks.
+Published fuel consumption is 1.85 litres per 100 km from a 3.7-litre tank. Kerb weight depends on the version: 98 kg for the spoked-wheel drum-brake build and 99 kg for the spoked-wheel disc and alloy-wheel versions. The seat is 769 mm high and ground clearance is 141 mm - the highest of Honda's 110 cc underbones, which matters on Hanoi's kerbs, broken alley edges and rural tracks.
 
 ## Versions and brakes
 

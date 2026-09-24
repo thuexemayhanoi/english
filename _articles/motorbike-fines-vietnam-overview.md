@@ -32,8 +32,7 @@ Vietnam's motorbike fines were raised sharply by Decree 168/2024/NĐ-CP, which t
 | Carrying a passenger without a helmet | Art. 7(2)(i) | 400,000 – 600,000 |
 | Handheld phone use while riding | Art. 7(4)(đ) | 800,000 – 1,000,000 |
 | Alcohol up to 50 mg/100 ml blood (0.25 mg/L breath) | Art. 7(6)(a) | 2,000,000 – 3,000,000 |
-| Alcohol over 50–80 mg/100 ml | Art. 
-7
+| Alcohol over 50–80 mg/100 ml | Art. 7
 (8)(b) | 6,000,000 
 – 8,000,000 |
 | Alcohol over 80 mg/100 ml | Art. 7(9)(d) | 8,000,000 – 10,000,000 |
@@ -60,5 +59,4 @@ The most commonly fined tourist mistakes — wrong way down a one-way street, si
 
 *Information, not legal advice. A
 
-ll figures verified a
-gainst the full text of Decree 168/2024/NĐ-CP on 2026-09-21.*
+ll figures verified against the full text of Decree 168/2024/NĐ-CP on 2026-09-21.*

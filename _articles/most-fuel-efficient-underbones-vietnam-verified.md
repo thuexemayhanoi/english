@@ -24,15 +24,7 @@ Every underbone sold in Vietnam claims to be frugal, but the manufacturers publi
 
 ## The verified economy ladder
 
-1. Honda Future 125 FI - 1.47 L/100 km
-2. Honda Wave RSX (PGM-FI) - 1.56 L/100 km
-3. Honda Super Cub C125 - 1.55 L/100 km
-4. Honda CT125 - 1.61 L/100 km
-5. Honda Wave Alpha - 1.72 L/100 km
-6. Honda Blade - 1.85 L/100 km
-7. Yamaha Sirius RC - 2.08 L/100 km
-8. Yamaha Exciter 155 VVA - 2.07 L/100 km
-9. Honda Winner R - 2.59 L/100 km (UDC test method)
+1. Honda Future 125 FI - 1.47 L/100 km 2. Honda Wave RSX (PGM-FI) - 1.56 L/100 km 3. Honda Super Cub C125 - 1.55 L/100 km 4. Honda CT125 - 1.61 L/100 km 5. Honda Wave Alpha - 1.72 L/100 km 6. Honda Blade - 1.85 L/100 km 7. Yamaha Sirius RC - 2.08 L/100 km 8. Yamaha Exciter 155 VVA - 2.07 L/100 km 9. Honda Winner R - 2.59 L/100 km (UDC test method)
 10. Honda CBR150R - 2.91 L/100 km
 
 ## The pattern behind the numbers

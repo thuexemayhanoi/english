@@ -27,8 +27,7 @@ internal_link_targets: best-motorbike-for-day-trips-from-hanoi, 50cc-day-trip-ra
 
 ## The 50 km radius (half-day trips)
 
-One to two hours out: Co Loa, Bat Trang, the pagodas at Thay and Tay Phuong, most of the Red River islands. These trips fit comfortably in a morning or afternoon and still leave ener
-gy for the city. This is also the right first trip for a new rider — close enough that tiredness or weather never turns into a crisis.
+One to two hours out: Co Loa, Bat Trang, the pagodas at Thay and Tay Phuong, most of the Red River islands. These trips fit comfortably in a morning or afternoon and still leave energy for the city. This is also the right first trip for a new rider — close enough that tiredness or weather never turns into a crisis.
 
 ## The 85–100 km band (full-day trips)
 

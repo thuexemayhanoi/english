@@ -27,9 +27,7 @@ Every weekend, the streets around Hoan Kiem Lake close to traffic and become Han
 
 ## The schedule
 
-The walking zone opens from about 19:00 on Friday and runs to midnight Sunday — Friday and Saturday evenings are the full-strength version, with the Sunday session winding down toward midnight. Outside those hours the roads are normal riding streets. The schedule occasionally extends for festivals and events; on holiday weekends the 
-z
-one starts earlier and the crowds multiply.
+The walking zone opens from about 19:00 on Friday and runs to midnight Sunday — Friday and Saturday evenings are the full-strength version, with the Sunday session winding down toward midnight. Outside those hours the roads are normal riding streets. The schedule occasionally extends for festivals and events; on holiday weekends the zone starts earlier and the crowds multiply.
 
 ## How to approach
 

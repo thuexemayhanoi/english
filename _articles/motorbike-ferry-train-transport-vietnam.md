@@ -27,9 +27,7 @@ A motorbike trip in Vietnam sometimes needs the bike to travel without you ridin
 
 ## Island ferries
 
-The rule that surprises riders: **speedboats and hydrofoils are passenger-o
-nly**. On the Cat Ba routes out of Ha
-i Phong, anyone bringing a motorbike takes the vehicle ferry from the mainland terminal — the crossing is slower but carries bikes, cars and buses. Expect a ferry ticket for the rider plus a vehicle fare, and note the local reality that at busy times two-wheelers and foot passengers can be held back to make room for cars on a given sailing, so arrive ahead of the departure you actually want. Sailings thin out in the late afternoon and the off-season — check the last ferry back before committing to a day trip on any island.
+The rule that surprises riders: **speedboats and hydrofoils are passenger-only**. On the Cat Ba routes out of Hai Phong, anyone bringing a motorbike takes the vehicle ferry from the mainland terminal — the crossing is slower but carries bikes, cars and buses. Expect a ferry ticket for the rider plus a vehicle fare, and note the local reality that at busy times two-wheelers and foot passengers can be held back to make room for cars on a given sailing, so arrive ahead of the departure you actually want. Sailings thin out in the late afternoon and the off-season — check the last ferry back before committing to a day trip on any island.
 
 The same pattern repeats around the delta and coast: small vehicle ferries cross rivers and straits everywhere in Vietnam, they nearly always take motorbikes, and they cost a few thousand to tens of thousands of dong. They are also some of the best short cuts and viewpoints on two wheels — ferry-hopping is a legitimate riding style.
 
@@ -44,10 +42,8 @@ Vietnam Railways runs a motorbike freight service: you hand the bike in at the d
 - Book the freight at the station, same day or a day ahead; the bike travels on the same train or a connecting service.
 - Paperwork: registration papers and ID are needed; the bike may need a near-empty tank depending on the station’s handling — ask when booking.
 - Collect with your receipt; stations store bikes briefly but not indefinitely.
-- Costs are charged by route and bike size — ask at the freight counter for the current rate; prices are not published central
-ly.
+- Costs are charged by route and bike size — ask at the freight counter for the current rate; prices are not published central ly.
 
 ## Planning with both
 
-The classi
-c combinations: ride to Hai Phong, ferry to Cat Ba; or ride the north and put the bike on a train south while you sleep. Fold the extra time into your plan (ferries queue; freight offices have hours) and carry the bike’s papers for every crossing. Contact us to confirm current availability for the riding legs of such a trip.
+The classic combinations: ride to Hai Phong, ferry to Cat Ba; or ride the north and put the bike on a train south while you sleep. Fold the extra time into your plan (ferries queue; freight offices have hours) and carry the bike’s papers for every crossing. Contact us to confirm current availability for the riding legs of such a trip.

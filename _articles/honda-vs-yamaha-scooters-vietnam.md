@@ -36,8 +36,7 @@ Almost every automatic scooter on Vietnamese streets comes from one of two manuf
 ## How the brands differ, factually
 
 - **Engine character:** Honda's entry engines (eSP family) prioritise published economy - the Vision's 1.82 L/100 km is the best figure in the entry class; Yamaha's Blue Core engines compete closely (Janus 1.98 L/100 km) with slightly higher outputs per cc in some classes.
-- **Model div
-ersity:** each brand's entry-to-premium range is published on their Vietnam sites; Honda lists 33 motorcycle products, Yamaha's scooter range spans GEAR 125 Hybrid to XMAX.
+- **Model diversity:** each brand's entry-to-premium range is published on their Vietnam sites; Honda lists 33 motorcycle products, Yamaha's scooter range spans GEAR 125 Hybrid to XMAX.
 - **Price positioning:** at entry level, Yamaha lists the Janus from 29,151,000 VND vs Honda's Vision from 31,506,545 VND; in the style class Yamaha's Grande (from 46,244,000 VND) and Honda's Lead (from 39,753,818 VND) split pricing and features differently.
 - **Parts and service:** both have nationwide dealer networks; for repairs in practice, see our guide to talking to a mechanic in Vietnam and spare parts availability.
 

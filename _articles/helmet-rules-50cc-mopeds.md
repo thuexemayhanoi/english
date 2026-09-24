@@ -28,8 +28,7 @@ The myth that helmets are only for "real motorbikes" is not just wrong — it is
 
 ## The rule
 
-Article 31 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires riders and passengers of two- and three-wheel motorbikes, mopeds (xe gắn máy) — explicitly including electric mopeds — and motorised pedal bicycle
-s to wear helmets that meet the national technical standard, fastened correctly. An unstrapped helmet is treated as no helmet.
+Article 31 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires riders and passengers of two- and three-wheel motorbikes, mopeds (xe gắn máy) — explicitly including electric mopeds — and motorised pedal bicycles to wear helmets that meet the national technical standard, fastened correctly. An unstrapped helmet is treated as no helmet.
 
 ## The fine
 

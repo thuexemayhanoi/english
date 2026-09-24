@@ -28,8 +28,7 @@ A locked ground-floor room or gated building compound is the gold standard in Vi
 ## The overnight layer stack
 
 Steering lock, always. A chain or disc lock through something solid — if there is an immovable post or railing, anchoring is the single biggest upgrade, because it defeats the van method (the lock options are in disc-locks-chains-motorbike-security). A cover (motorbike-covers-parking-outdoors-vietnam) hides the model from casing eyes and the weather besides. For high-value bikes in exposed spots, a tracker adds the after-theft layer 
-(gps-trackers-motorbikes-vietna
-m). Each layer is cheap; the stack is what works.
+(gps-trackers-motorbikes-vietnam). Each layer is cheap; the stack is what works.
 
 ## Renter-specific notes
 

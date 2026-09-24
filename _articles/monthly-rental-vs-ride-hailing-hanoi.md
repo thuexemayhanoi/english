@@ -33,8 +33,7 @@ Daily riding. Once you commute, or you make several trips a day, per-trip fares 
 
 ## The comparison that matters
 
-Estimate your monthly trip count, apply typica
-l local ride-hailing fares for your distances, and compare with the published monthly rate for the model that fits you (contact us to confirm the current monthly price for models without one). Around one trip per day is usually the crossover zone; commuters are clearly on the rental side.
+Estimate your monthly trip count, apply typical local ride-hailing fares for your distances, and compare with the published monthly rate for the model that fits you (contact us to confirm the current monthly price for models without one). Around one trip per day is usually the crossover zone; commuters are clearly on the rental side.
 
 ## The middle path
 

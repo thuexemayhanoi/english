@@ -28,8 +28,7 @@ Navigation is the quiet deal-breaker of Vietnamese motorbike trips. Signal is ge
 
 ## The expressway trap
 
-The single biggest navigation mistake: car-mode routing that puts you on an expressway (CT-class roads). Motorbikes are
- banned from Vietnamese expressways, and map apps will happily offer them. Learn to refuse CT-road suggestions and follow the old national highways instead — QL (quốc lộ) roads are the two-wheel backbone of the country.
+The single biggest navigation mistake: car-mode routing that puts you on an expressway (CT-class roads). Motorbikes are  banned from Vietnamese expressways, and map apps will happily offer them. Learn to refuse CT-road suggestions and follow the old national highways instead — QL (quốc lộ) roads are the two-wheel backbone of the country.
 
 ## Google Maps
 

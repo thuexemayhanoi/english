@@ -30,8 +30,7 @@ At a red light on a slope, with a bus behind you, the bike's mass goes through y
 
 - Licence-free e-bikes: the lightest class on the list, bicycle-like controls, published at 200,000 VND per day. No licence needed (the rider must be 16+). For a rider with no motorcycle licence, this is both the light option and the legal one.
 - Small automatic scooters: the Honda Click and Yamaha Mio class (150,000 VND/day) and Honda Vision (200,000 VND/day) are the light mainstream motorbikes - roughly the low-100-kg class for these models, with low centres of gravity.
-- Semi-automatic underbones: the Wave and Sirius class (150,000 VND/day) a
-re light too, and narrow, at the cost of the foot-shift.
+- Semi-automatic underbones: the Wave and Sirius class (150,000 VND/day) are light too, and narrow, at the cost of the foot-shift.
 
 ## The difference light makes, concretely
 

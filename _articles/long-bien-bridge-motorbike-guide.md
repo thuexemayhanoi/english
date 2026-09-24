@@ -23,8 +23,7 @@ sources:
 internal_link_targets: long-bien-area-guide-riders, crossing-hanoi-bridges-motorbike, red-river-islands-motorbike-guide, self-guided-hanoi-motorbike-city-tour, potholes-bad-roads-motorbike-vietnam, night-riding-motorbike-safety-vietnam, hanoi-districts-layout-guide-riders, bat-trang-pottery-village-motorbike-ride
 ---
 
-No structure in Hanoi means as much to riders as the Long Bien Bridge. Built 1898–1902 under the direction of the same firm behind the Eiffel Tower's engineering era, bombed and repaired repeatedly through the twentieth century, it remains the city's only river crossing reserved for trains, motorbikes, bicycles and feet. Crossing it is a five-minute ride and a hun
-dred-year conversation.
+No structure in Hanoi means as much to riders as the Long Bien Bridge. Built 1898–1902 under the direction of the same firm behind the Eiffel Tower's engineering era, bombed and repaired repeatedly through the twentieth century, it remains the city's only river crossing reserved for trains, motorbikes, bicycles and feet. Crossing it is a five-minute ride and a hundred-year conversation.
 
 ## Access and layout
 
@@ -43,8 +42,7 @@ The bridge closed completely between 28 March and 27 May 2026 for emergency repa
 
 ## The views
 
-Halfway across, Hanoi arranges itself for you: the
- river islands with their banana gardens below, the Red River's sand barges and swimming buffalo, the Old Quarter rooftops to the west, and the skyline of glass towers behind them. At dawn the mist makes it unreal; at night the deck's dim lamps and the city glow behind make it feel like a different century — which, structurally, it is.
+Halfway across, Hanoi arranges itself for you: the  river islands with their banana gardens below, the Red River's sand barges and swimming buffalo, the Old Quarter rooftops to the west, and the skyline of glass towers behind them. At dawn the mist makes it unreal; at night the deck's dim lamps and the city glow behind make it feel like a different century — which, structurally, it is.
 
 ## Making it part of a ride
 

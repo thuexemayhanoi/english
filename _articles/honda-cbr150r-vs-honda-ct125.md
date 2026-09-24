@@ -34,7 +34,6 @@ CBR150R: 139 kg, full fairing, 151 mm clearance, 12-litre tank, 100/80-17 front 
 
 CBR150R: 2.91 L/100 km. CT125: 1.61 L/100 km. A big gap - the fairing and the revs both cost fuel. Manufacturer test figures in both cases.
 
-## P
-rice
+## Price
 
 CBR150R: 72,290,000 VND. CT125: 85,997,455 VND. Neither is price-published at our counter - contact us to confirm current availability. If your Vietnam riding is 80 percent city with occasional fast trips, the CBR; if it is 50 percent bad surfaces, the CT wins outright.

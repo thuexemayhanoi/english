@@ -33,8 +33,7 @@ The controller is the throttle's translator. It reads your twist grip and meters
 
 ## The motor
 
-Most city electrics use a brushless DC (BLDC) hub motor bu
-ilt into the rear wheel — no chain, no belts. VinFast's Evo uses 2,450 W, the Feliz II and Viper use 3,000 W versions; the Weaver 200 uses 6,000 W. Power roughly maps to acceleration and licence class: 4 kW is the legal boundary between mopeds and motorcycles.
+Most city electrics use a brushless DC (BLDC) hub motor built into the rear wheel — no chain, no belts. VinFast's Evo uses 2,450 W, the Feliz II and Viper use 3,000 W versions; the Weaver 200 uses 6,000 W. Power roughly maps to acceleration and licence class: 4 kW is the legal boundary between mopeds and motorcycles.
 
 ## Regenerative braking
 

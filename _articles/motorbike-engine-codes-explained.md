@@ -32,8 +32,7 @@ SOHC (single overhead camshaft) drives the valves with one cam; DOHC (double ove
 
 ## Fuel delivery: PGM-FI and EFI
 
-Both mean electronic fuel injection - PGM-FI
- is Honda's brand name (Wave RSX), EFI is Yamaha's generic term (Exciter 155). Injection meters fuel electronically for cleaner, more efficient running; our PGM-FI guide has the details. Important honesty rule: Honda publishes no fuel system for the Wave Alpha, and Yamaha none for the Sirius - so no claim is made for either.
+Both mean electronic fuel injection - PGM-FI  is Honda's brand name (Wave RSX), EFI is Yamaha's generic term (Exciter 155). Injection meters fuel electronically for cleaner, more efficient running; our PGM-FI guide has the details. Important honesty rule: Honda publishes no fuel system for the Wave Alpha, and Yamaha none for the Sirius - so no claim is made for either.
 
 ## Valve timing: VVA
 

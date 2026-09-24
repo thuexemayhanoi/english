@@ -28,8 +28,7 @@ A 124.9 cc air-cooled single with PGM-FI, 6.83 kW at 7,500 rpm and 10.2 Nm at 5,
 
 ## How that translates on the street
 
-- **Two-up and load**: the extra torque
- and the long, roomy saddle are what buyers actually feel. With a passenger or a full market shop, the Future pulls where a Wave-class bike hesitates — the launch jerk that plagues loaded small underbones rarely appears.
+- **Two-up and load**: the extra torque  and the long, roomy saddle are what buyers actually feel. With a passenger or a full market shop, the Future pulls where a Wave-class bike hesitates — the launch jerk that plagues loaded small underbones rarely appears.
 - **Commuting**: around town it behaves like every good xe so — no clutch hand, no stalls, creep through queues — with slightly softer, quieter manners from the bigger engine. The 4.6-litre tank plus the claimed economy gives a theoretical touring range beyond 300 km, though real-world economy varies with load and speed.
 - **Shifting**: the tall gearing makes third gear a genuine city gear; many riders spend whole journeys in second and third. Shift up early — the engine's character rewards it.
 - **Parking**: it is a long bike by underbone standards; the parking-lot attendants will slot it between Waves fine, but U-turns take a touch more road than a short Sirius.

@@ -16,7 +16,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: defensive-riding-motorbike-vietnam, hand-signals-motorbike-vietnam, merging-side-streets-traffic-vietnam, riding-motorbike-blind-spots-vietnam, vietnam-traffic-culture-riding-overview
+internal_link_targets: "defensive-riding-motorbike-vietnam, hand-signals-motorbike-vietnam, merging-side-streets-traffic-vietnam, riding-motorbike-blind-spots-vietnam, vietnam-traffic-culture-riding-overview"
 ---
 
 Foreign riders often arrive thinking the horn is rude. Vietnamese traffic runs on the opposite assumption: a short beep means "I am here" the way a bicycle bell does, and silence around blind corners is what actually feels unsafe. Using the horn well is a language skill, not an aggression problem.

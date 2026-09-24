@@ -27,8 +27,7 @@ Hoang Mai is the south of Hanoi — the direction the city sprawls toward the de
 
 ## What the area is
 
-The defining features are water and space. The Linh Dam peninsula, surrounded by its lake, is one of
- the largest apartment areas in Hanoi; further south, Yen So Park — with over 300 hectares at the Phap Van–Cau Gie expressway intersection — is one of the city's largest parks. The area also holds the main southern gateway out of the city: the expressway toward Ninh Binh starts here.
+The defining features are water and space. The Linh Dam peninsula, surrounded by its lake, is one of  the largest apartment areas in Hanoi; further south, Yen So Park — with over 300 hectares at the Phap Van–Cau Gie expressway intersection — is one of the city's largest parks. The area also holds the main southern gateway out of the city: the expressway toward Ninh Binh starts here.
 
 ## How it rides
 

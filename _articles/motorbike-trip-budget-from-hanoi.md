@@ -27,8 +27,7 @@ Motorbikes are the budget way to see northern Vietnam — a day trip costs less 
 
 ## The categories
 
-**The bike.** Rental cost is the fixed line — agree it before the trip, including distance/overnight terms (our rental price guide covers the published daily and monthly rates). Fuel is variable: a typical 
-110–125 cc bike uses modest volumes per 100 km, and Vietnam prices petrol by the litre at state-set pump prices, so a 200 km day trip’s fuel is a rounding error next to city taxi fares.
+**The bike.** Rental cost is the fixed line — agree it before the trip, including distance/overnight terms (our rental price guide covers the published daily and monthly rates). Fuel is variable: a typical 110–125 cc bike uses modest volumes per 100 km, and Vietnam prices petrol by the litre at state-set pump prices, so a 200 km day trip’s fuel is a rounding error next to city taxi fares.
 
 **Food.** Rural pho, com and roadside meals cost a fraction of city tourist restaurants; lake and homestay fish dishes are the premium end. Two meals plus water and coffee per person is the honest line item.
 
