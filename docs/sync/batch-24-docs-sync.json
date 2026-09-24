@@ -14,6 +14,6 @@
     "applied": true,
     "script": "scripts/apply-batch-24-final-docs.js"
   },
-  "retry": 8,
-  "note": "Batch-24 docs-sync phase 8: refresh the batch-24 verification record (latest workflow runs, including gate/pages on 40c34ea, e5caaaa, 9b40534) via scripts/record-batch-24-verification.js."
+  "retry": 9,
+  "note": "Batch-24 docs-sync phase 9: final refresh of the batch-24 verification record (gate/pages on 6222674 and b843ba4) via scripts/record-batch-24-verification.js."
 }
