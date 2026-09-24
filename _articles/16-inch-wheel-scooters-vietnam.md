@@ -36,7 +36,7 @@ Most Vietnamese scooters ride on 12- or 14-inch wheels, but Honda's best-seller 
 ## What bigger wheels do
 
 - **Stability over defects:** a 16-inch wheel spans potholes and broken pavement that upset a 12-inch wheel - the difference our potholes guide makes obvious. The contact patch also drops into a rut at a shallower angle.
-- **Steadiness at speed:** bigger wheels add gyro scopic stability; smaller wheels turn in faster at walking pace. Which matters more depends on whether your riding is Old Quarter crawling or main-road commuting.
+- **Steadiness at speed:** bigger wheels add gyroscopic stability; smaller wheels turn in faster at walking pace. Which matters more depends on whether your riding is Old Quarter crawling or main-road commuting.
 - **Comfort:** bigger wheels ride over expansion joints and gravel with less sharpness reaching the bars.
 
 ## The trade-offs

@@ -46,4 +46,4 @@ The classic image of Hanoi bike life — a scooter in the lobby, or a Wave carri
 
 If your bike is a monthly rental, the parking situation is the renter's practical problem too: the rental shop needs to know where the bike sleeps (their contract usually specifies secure overnight parking, and the street-side convention usually qualifies). Moving apartments mid-rental changes the pickup/service logistics; tell the shop rather than surprising them.
 
-The apartment-bike life is one of Hanoi's genuine conveniences — the machine that carries your whole day parks fifty metres from your bed, under a warden's eye, for less than a coffee a week. Choose the building for the parking, not despite  it.
+The apartment-bike life is one of Hanoi's genuine conveniences — the machine that carries your whole day parks fifty metres from your bed, under a warden's eye, for less than a coffee a week. Choose the building for the parking, not despite it.

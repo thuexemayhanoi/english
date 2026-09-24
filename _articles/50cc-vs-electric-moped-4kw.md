@@ -25,7 +25,7 @@ One sentence in the traffic law puts petrol 50s and electric mopeds in the same 
 
 ## The shared rule
 
-Article 3 of Law 36/2024/QH15 defines the moped category as vehicles designed for no more than 50 km/h with engines of 50cc or less, **or electric motors of 4 kW or less**. Everything legal flows identically from there: same age floor, same helmet duty at the same fine levels, same traffic rules, same compulsory-insurance framework. The licence article carries the details; the electric licence article co vers where the moped line sits in the electric spectrum (pedal e-bikes below, licence-class electrics above).
+Article 3 of Law 36/2024/QH15 defines the moped category as vehicles designed for no more than 50 km/h with engines of 50cc or less, **or electric motors of 4 kW or less**. Everything legal flows identically from there: same age floor, same helmet duty at the same fine levels, same traffic rules, same compulsory-insurance framework. The licence article carries the details; the electric licence article covers where the moped line sits in the electric spectrum (pedal e-bikes below, licence-class electrics above).
 
 ## Refuel versus recharge
 
@@ -46,7 +46,6 @@ We publish no fixed figures for either class: petrol consumption depends on cond
 
 ## Choosing
 
-Predictable flat commutes with home charging and a taste for silence: the electric moped. Longer loops, spontaneous trips, and a fuel network instead of a socket: the petrol 50. The law will not help you decide — for once, 
-it genuinely does not mind.
+Predictable flat commutes with home charging and a taste for silence: the electric moped. Longer loops, spontaneous trips, and a fuel network instead of a socket: the petrol 50. The law will not help you decide — for once, it genuinely does not mind.
 
 The 4 kW boundary in practice and the reason sub-50 km/h versions exist are covered in electric-moped-vs-electric-motorcycle-vietnam and why-electric-mopeds-capped-50kmh-vietnam.

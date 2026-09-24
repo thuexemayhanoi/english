@@ -31,7 +31,7 @@ A day trip changes the job description: higher sustained speeds, highway section
 
 ## The classes that suit
 
-Automatic scooters - the Honda Vision, Honda Air Blade, Click, Yamaha Mio class - are the default day-trip tool: comfortable, quick enough, storage, and the Air Blade's size suits the faster sections best of the comm on rentals. Semi-automatic underbones (Wave, Sirius) take day trips too - that is what they are built fora cross rural Vietnam - with the foot-shift as the trade-off. Rates: 150,000-200,000 VND per day.
+Automatic scooters - the Honda Vision, Honda Air Blade, Click, Yamaha Mio class - are the default day-trip tool: comfortable, quick enough, storage, and the Air Blade's size suits the faster sections best of the common rentals. Semi-automatic underbones (Wave, Sirius) take day trips too - that is what they are built for across rural Vietnam - with the foot-shift as the trade-off. Rates: 150,000-200,000 VND per day.
 
 ## The roads you will actually ride
 

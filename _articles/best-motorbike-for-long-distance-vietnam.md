@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, motorbikes-on-expressway-vietnam, motorbike-speed-limits-vietnam, automatic-vs-manual-motorbike-hanoi, rental-motorbike-inspection-checklist, hanoi-to-ho-chi-minh-city-by-motorbike, ho-chi-minh-highway-motorbike-guide"
+internal_link_targets: best-motorbike-for-day-trips-from-hanoi, motorbikes-on-expressway-vietnam, motorbike-speed-limits-vietnam, automatic-vs-manual-motorbike-hanoi, rental-motorbike-inspection-checklist, hanoi-to-ho-chi-minh-city-by-motorbike, ho-chi-minh-highway-motorbike-guide
 ---
 
 Long-distance riding in Vietnam is a different discipline from city riding, and the bike is only one of the preparations. It gets first claim here.

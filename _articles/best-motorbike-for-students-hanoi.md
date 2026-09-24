@@ -33,7 +33,7 @@ For campus-and-neighbourhood life, these cover everything. They do not keep up w
 
 ## With a licence
 
-The Honda Click and Yamaha Mio class at 150,000 VND per day is the student value pick - the cheapest full motorbikes on the published list, with the Vision at 200,000 VND as the roomier alternative. On weekly and monthly rates the Click/Mio class drops to 600,000-700,000 VND per week and 1,000,000-1,200,000 VND per month - the monthly rate is what a student staying a semester should be looking at. Longer  terms are negotiable; contact us to discuss longer-term ren tal.
+The Honda Click and Yamaha Mio class at 150,000 VND per day is the student value pick - the cheapest full motorbikes on the published list, with the Vision at 200,000 VND as the roomier alternative. On weekly and monthly rates the Click/Mio class drops to 600,000-700,000 VND per week and 1,000,000-1,200,000 VND per month - the monthly rate is what a student staying a semester should be looking at. Longer terms are negotiable; contact us to discuss longer-term rental.
 
 ## The budget beyond the rate
 

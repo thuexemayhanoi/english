@@ -35,7 +35,10 @@ The convention by itself does not tell you what you may ride in Vietnam — dome
 
 ## How to check your permit
 
-1. Look at your IDP booklet or card for a reference to the 1968 Vienna Convention 2. Check that a motorcycle category is shown on it 3. Check that your national licence also covers motorcycles 4. Carry both documents when riding — Vietnamese decree fines even valid IDP holders who leave the national licence at home
+1. Look at your IDP booklet or card for a reference to the 1968 Vienna Convention
+2. Check that a motorcycle category is shown on it
+3. Check that your national licence also covers motorcycles
+4. Carry both documents when riding — Vietnamese decree fines even valid IDP holders who leave the national licence at home
 
 If your country does not issue 1968-convention IDPs, your route is either a Vietnamese licence or exchange of your national licence after establishing residence.
 

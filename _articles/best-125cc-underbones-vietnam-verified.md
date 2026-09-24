@@ -30,12 +30,14 @@ Honda Future 125 FI, Honda Super Cub C125 and Honda CT125.
 ## Torque (published)
 
 1. CT125 - 10.9 Nm at 4,750 rpm (lowest revs, adventure tuning)
-2. Future 125 FI - 10.2 Nm at 5,500 rpm 3. Super Cub C125 - 10.15 Nm at 5,000 rpm
+2. Future 125 FI - 10.2 Nm at 5,500 rpm
+3. Super Cub C125 - 10.15 Nm at 5,000 rpm
 
 ## Economy (published)
 
 1. Future 125 FI - 1.47 L/100 km (best of any Honda underbone sold in Vietnam)
-2. Super Cub C125 - 1.55 L/100 km 3. CT125 - 1.61 L/100 km
+2. Super Cub C125 - 1.55 L/100 km
+3. CT125 - 1.61 L/100 km
 
 ## Tanks and range
 

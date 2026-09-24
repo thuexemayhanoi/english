@@ -29,7 +29,9 @@ Yamaha Exciter 155 VVA, Honda Winner R, Honda CBR150R.
 
 ## Power (published)
 
-1. Exciter 155 VVA - 13.2 kW (17.9 PS) at 9,500 rpm 2. CBR150R - 12.6 kW at 9,000 rpm 3. Winner R - 11.5 kW at 9,000 rpm
+1. Exciter 155 VVA - 13.2 kW (17.9 PS) at 9,500 rpm
+2. CBR150R - 12.6 kW at 9,000 rpm
+3. Winner R - 11.5 kW at 9,000 rpm
 
 Torque: Exciter and CBR150R both publish 14.4 Nm (at 8,000 and 7,000 rpm respectively); Winner R 13.5 Nm at 7,000 rpm.
 
