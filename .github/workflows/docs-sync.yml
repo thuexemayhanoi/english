@@ -28,16 +28,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/record-batch-26-verification.js
-      - name: Internal link audit capture (temporary diagnostics for Batch 26 gate debugging)
-        run: |
-          node scripts/internal-link-audit.js || true
-          cp reports/internal-link-audit.json sync-audit.json 2>/dev/null || echo '{"note":"no audit report produced"}' > sync-audit.json
       - name: Commit and push if changed
         if: steps.apply.outcome == 'success' && steps.record.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
+          git add README.md docs/MASTER-MATRIX.md docs/matrix/master-matrix.csv docs/matrix/batch-26-status.md docs/sync/batch-26-final-verification.md
           if git diff --cached --quiet; then
             echo "No changes to sync."
           else
