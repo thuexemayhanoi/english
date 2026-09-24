@@ -10,6 +10,10 @@
     ],
     "expectAfter": 936
   },
-  "retry": 2,
-  "note": "Batch-24 docs-sync retry 2: rows CSV repaired on 96666e0 (23 single-line records). Merge the 23 validated cluster-13 rows (MM-0848-MM-0870, Status=published) into master-matrix.csv (913 -> 936) and append the finalization record to docs/matrix/batch-24-status.md. master-matrix.csv is headerless (line 0 is the MM-0001 data row)."
+  "finalDocs": {
+    "applied": true,
+    "script": "scripts/apply-batch-24-final-docs.js"
+  },
+  "retry": 3,
+  "note": "Batch-24 docs-sync phase 3: master-matrix.csv merge already completed by bot commit c8b42a1 (913 -> 936). This trigger now applies the batch-24 final README.md and docs/MASTER-MATRIX.md state updates via scripts/apply-batch-24-final-docs.js."
 }
