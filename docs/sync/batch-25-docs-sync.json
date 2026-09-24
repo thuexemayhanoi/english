@@ -1,12 +1,3 @@
 {
-  "readmePairs": [
-    {
-      "find": "- Batch 24 (cluster-13 trips Part 1, MM-0848-MM-0870) was published 2026-09-24 in part-commits c03d6f1",
-      "replace": "- Batch 25 (cluster-13 trips Part 2, MM-0871-MM-0885, cluster 13 COMPLETE) was published 2026-09-24 in part-commits aec94fd, 4d95e93 and 2d29b2d, closing inbound-link commit 7553756 (12 existing articles), and docs-sync tooling c3f1dd3. The Quality Gate on the first part-commit aec94fd failed because the cao-bang article forward-referenced northeast-vietnam-motorbike-loop before part 2 landed (a mid-batch forward-link miss, same pattern as Batch 24, fully resolved by the later part-commits). FINAL VERIFIED STATE: Quality Gate run 35958958319 on 7553756 - success (2026-09-24T05:14:16Z); pages build and deployment run 35958957980 on 7553756 - success (2026-09-24T05:15:07Z); Quality Gate run 35959187533 on c3f1dd3 - success (2026-09-24T05:17:29Z); Docs Sync run 35959187507 on c3f1dd3 - success, bot merge commit ccbe686 (master-matrix.csv 936 -> 951); Docs Sync run 35959344794 on d6a5f2a - success, bot verification-record refresh commit efd8dce (pages runs on the docs-only commits c3f1dd3 and ccbe686 were cancelled as superseded; content deployment is verified on 7553756). Live verification: /topics/trips/ lists 38 guides, and batch-25 article pages render live (e.g. /articles/ha-giang-loop-motorbike-guide/ and /articles/first-mountain-motorbike-trip-vietnam-comparison/). Remote MAIN holds 951 article files in _articles/ and all 15 batch-25 slugs verified present. Route/place facts verified per article in front-matter sources (retrieved 2026-09-24); business facts exclusively from OWNER-FACTS.\n- Batch 24 (cluster-13 trips Part 1, MM-0848-MM-0870) was published 2026-09-24 in part-commits c03d6f1"
-    }
-  ],
-  "expectContains": [
-    "Batch 25 (cluster-13 trips Part 2, MM-0871-MM-0885, cluster 13 COMPLETE) was published 2026-09-24"
-  ],
-  "note": "Batch-25 docs-sync phase 2b: insert the Batch 25 DEPLOYMENT STATE bullet (verified gate/pages/docs-sync run IDs) above the Batch 24 bullet in README.md. No csvMerge (rows already merged in phase 1)."
+  "note": "Batch-25 docs-sync phase 2c: final refresh of the batch-25 verification record (gate/pages/docs-sync conclusions for d6a5f2a, 6c54205 and ea62d08). No csvMerge, no readmePairs - no text changes; recorder refresh only."
 }
