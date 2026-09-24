@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: best-motorbike-for-long-distance-vietnam, best-motorbike-for-commuting-hanoi, automatic-vs-manual-motorbike-hanoi, rental-motorbike-inspection-checklist, motorbike-speed-limits-vietnam, 50cc-day-trip-range-limits, bat-trang-pottery-village-motorbike-ride, van-phuc-silk-village-motorbike-ride, yen-so-park-motorbike-ride
+internal_link_targets: best-motorbike-for-long-distance-vietnam, best-motorbike-for-commuting-hanoi, automatic-vs-manual-motorbike-hanoi, rental-motorbike-inspection-checklist, motorbike-speed-limits-vietnam, 50cc-day-trip-range-limits, bat-trang-pottery-village-motorbike-ride, van-phuc-silk-village-motorbike-ride, yen-so-park-motorbike-ride, tam-dao-day-trip-motorbike, tam-dao-vs-ba-vi-day-trip, how-far-motorbike-day-trip-hanoi
 ---
 
 A day trip changes the job description: higher sustained speeds, highway sections, unfamiliar roads and a bike that must not become the story of the day.
@@ -31,7 +31,8 @@ A day trip changes the job description: higher sustained speeds, highway section
 
 ## The classes that suit
 
-Automatic scooters - the Honda Vision, Honda Air Blade, Click, Yamaha Mio class - are the default day-trip tool: comfortable, quick enough, storage, and the Air Blade's size suits the faster sections best of the common rentals. Semi-automatic underbones (Wave, Sirius) take day trips too - that is what they are built for 
+Automatic scooters - the Honda Vision, Honda Air Blade, Click, Yamaha Mio class - are the default day-trip tool: comfortable, quick enough, storage, and the Air Blade's size suits the faster sections best of the comm
+on rentals. Semi-automatic underbones (Wave, Sirius) take day trips too - that is what they are built for 
 a
 cross rural Vietnam - with 
 the foot-shift as the trade-off. Rates: 150,000-200,000 VND per day.

@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, best-motorbike-for-long-distance-vietnam, motorbike-rental-agreement-hanoi, motorbikes-on-expressway-vietnam, rental-motorbike-breakdown-hanoi"
+internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, best-motorbike-for-long-distance-vietnam, motorbike-rental-agreement-hanoi, motorbikes-on-expressway-vietnam, rental-motorbike-breakdown-hanoi", motorbike-trip-prep-checklist-hanoi, motorbike-ferry-train-transport-vietnam
 ---
 
 Whether you can take a rental motorbike beyond Hanoi is a rental-terms question first and a riding question second. There is no general law forbidding it — but there are shops that forbid it, roads that forbid motorbikes, and distances that change the risk calculation.
@@ -28,7 +28,8 @@ Rental agreements commonly restrict how far a bike may travel, because a breakdo
 
 ## Roads that do not allow motorbikes
 
-The practical barrier most riders hit: expressways. Motorbikes are banned from Vietnamese expressways, and the ban is enforced with fines — see motorbikes-on-expressway-vietnam. Your route out of Hanoi therefore uses national roads and provincial roads, which are slower but the ones everyone rides. Plan distances accordingly: a "150 km trip" on a map is a three-to-four-hour ride in real conditions.
+The practical barrier most riders hit: expressways. Motorbikes are banned from Vietnamese expressways, and the ban is enforced with fines — see motorbikes-on-expressway-vietnam. Your route out of Hanoi therefore uses national roads an
+d provincial roads, which are slower but the ones everyone rides. Plan distances accordingly: a "150 km trip" on a map is a three-to-four-hour ride in real conditions.
 
 ## Checks before you leave the city
 

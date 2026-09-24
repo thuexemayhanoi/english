@@ -19,14 +19,15 @@ last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
   - "https://vinpearl.com/en/tran-quoc-pagoda-a-religious-site-of-nearly-1500-years-old-in-hanoi — Tran Quoc pagoda on a West Lake peninsula, Hanoi's oldest pagoda with nearly 1500 years of history, retrieved 2026-09-24"
-internal_link_targets: hanoi-lakes-motorbike-riding-guide, temple-of-literature-motorbike-visit, tay-ho-west-lake-area-guide-riders, ba-dinh-area-guide-riders, exploring-hoan-kiem-by-motorbike, where-to-park-motorbike-hanoi, west-lake-loop-motorbike-route
+internal_link_targets: hanoi-lakes-motorbike-riding-guide, temple-of-literature-motorbike-visit, tay-ho-west-lake-area-guide-riders, ba-dinh-area-guide-riders, exploring-hoan-kiem-by-motorbike, where-to-park-motorbike-hanoi, west-lake-loop-motorbike-route, thay-pagoda-tay-phuong-pagoda-motorbike-route, hung-kings-temple-phu-tho-motorbike-trip
 ---
 
 Hanoi's religious architecture is small, old and scattered — which makes it a perfect motorbike subject. The city's pagodas and temples were built when streets were paths, and the ride between them is the intended experience: lake shores, temple gates, incense, and quiet.
 
 ## The circuit
 
-The classic loop takes in four or five sites in a half day. Start at **Ngoc Son temple** on its island at Hoan Kiem Lake — the most visited and easiest, a walk from any Old Quarter parking. Ride west to **Tran Quoc pagoda**, the oldest in the city with nearly 1,500 years of history, standing on a small peninsula on the east shore of West Lake. Continue around the lake and south to the **Quan Thanh temple** with its giant bronze statue, on the lake's southeast corner. Then ride east into Ba Dinh for the **One Pillar Pagoda** — unique, tiny, and in the mausoleum quarter — and finish through the government streets. Add the **Temple of Literature** to make it a full heritage day.
+The classic loop takes in four or five sites in a half day. Start at **Ngoc Son temple** on its island at Hoan Kiem Lake — the most visited and easiest, a walk from any Old Quarter parking. Ride west to **Tran Quoc pagoda**, the oldest in the city with nearly 1,500 years of history, standing on a small peninsula on the east shore of West Lake. Continue around the lake and south to the **Quan Thanh temple** with its giant bronze statue, on the lake's southeast corner. Then ride east into Ba Dinh for the **One Pill
+ar Pagoda** — unique, tiny, and in the mausoleum quarter — and finish through the government streets. Add the **Temple of Literature** to make it a full heritage day.
 
 ## The riding
 

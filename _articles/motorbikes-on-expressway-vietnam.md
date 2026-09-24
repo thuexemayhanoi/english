@@ -21,10 +21,11 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — expressway traffic rules (motorbikes among prohibited participants)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ)"
   - "https://shop2banh.vn/tu-van/nam-2023-xe-may-di-vao-duong-cao-toc-bi-phat-bao-nhieu-tien-3521.html — Shop2banh: motorbike-on-expressway fine under Decree 168/2024/NĐ-CP (4-6 million VND band; primary decree text governs points and holding measures)"
-internal_link_targets: "vietnam-a-licence-what-you-can-ride, motorbike-speed-limits-vietnam, wrong-way-riding-fine-vietnam, motorbike-fines-vietnam-overview, motorbike-accident-duties-vietnam"
+internal_link_targets: "vietnam-a-licence-what-you-can-ride, motorbike-speed-limits-vietnam, wrong-way-riding-fine-vietnam, motorbike-fines-vietnam-overview, motorbike-accident-duties-vietnam", ninh-binh-day-trip-motorbike-hanoi, motorbike-trip-navigation-offline-maps-vietnam
 ---
 
-No — and engine size does not buy an exception. Vietnamese expressways are closed to motorbikes, mopeds and similar two-wheelers of every class, under the expressway rules that took effect with the Law on Road Traffic Order and Safety (No. 36/2024/QH15). A class A rider on a litre bike is exactly as banned as a moped.
+No — and engine size does not buy an exception. Vietnamese expressways are closed to motorbikes, mopeds and similar two-wheelers of every class, under the expre
+ssway rules that took effect with the Law on Road Traffic Order and Safety (No. 36/2024/QH15). A class A rider on a litre bike is exactly as banned as a moped.
 
 ## The rule
 
@@ -42,4 +43,5 @@ An expressway entry that causes an accident lands in the 10,000,000–14,000,000
 
 For motorbike travel between Hanoi and other provinces, the riding routes are the national highways and provincial roads — QL1A, QL32, the Hòa Bình direction roads and their peers. Expressway-adjacent destinations are reached by exiting the mapped car route and following the parallel old highway, which every navigation app offers as a motorbike option. When renting, plan trips on motorbike-legal roads from the start: no rental agreement makes an expressway ramp legal.
 
-*Information, not legal advice. Verified against the expressway rules effective from 2025 and Decree 168/2024/NĐ-CP on 2026-09-22.*
+*Information, not legal advice. Verified a
+gainst the expressway rules effective from 2025 and Decree 168/2024/NĐ-CP on 2026-09-22.*

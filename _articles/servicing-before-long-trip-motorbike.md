@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "General guidance; service items per manual schedule"
-internal_link_targets: "motorbike-service-when-vietnam, spare-parts-kit-underseat-motorbike, chain-maintenance-motorbike-vietnam, tyre-care-motorbike-vietnam"
+internal_link_targets: "motorbike-service-when-vietnam, spare-parts-kit-underseat-motorbike, chain-maintenance-motorbike-vietnam, tyre-care-motorbike-vietnam", motorbike-trip-prep-checklist-hanoi
 ---
 
 The difference between a motorbike trip in Vietnam and a motorbike adventure is usually one part that was 500 kilometres past its service life when the trip started. A long trip concentrates use: a month of city mileage in a day or two, at sustained speeds a city bike never sees. Servicing before the trip is how the machine is ready for that concentration.
@@ -32,6 +32,7 @@ Do not start a long trip near a service boundary. If the oil, chain, brake pads 
 - Tyres: tread above the limit, no sidewall cracks, no embedded debris, and pressures set for the load you will carry (two-up with luggage changes pressures — per the manual's loaded figures). Tyre basics are in tyre-care-motorbike-vietnam.
 - Brakes: pad thickness with margin, lever feel firm, discs within limits — inspecting-brake-discs-motorbike.
 - Wheels: spokes checked, rim dents, bearing play — wheel-bearings-check-motorbike.
+
 
 **Drivetrain**
 

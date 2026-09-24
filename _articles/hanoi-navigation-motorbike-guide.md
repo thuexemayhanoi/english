@@ -18,7 +18,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address and opening hours only"
-internal_link_targets: getting-around-hanoi-without-vietnamese, phone-mounts-motorbike-vietnam, phone-use-while-riding-vietnam, hanoi-motorbike-commute-corridors, hanoi-districts-layout-guide-riders, dashcams-motorbike-riding-vietnam, hanoi-petrol-stations-guide-riders, hanoi-2025-administrative-restructuring-riders
+internal_link_targets: getting-around-hanoi-without-vietnamese, phone-mounts-motorbike-vietnam, phone-use-while-riding-vietnam, hanoi-motorbike-commute-corridors, hanoi-districts-layout-guide-riders, dashcams-motorbike-riding-vietnam, hanoi-petrol-stations-guide-riders, hanoi-2025-administrative-restructuring-riders, motorbike-trip-navigation-offline-maps-vietnam
 ---
 
 Hanoi has a reputation as unmappable, which is unfair: the city is extremely navigable once you understand how its addresses work and how its maps lie. Navigation is a skill, and like every skill in this city, it rewards ten minutes of understanding before your first ride.
@@ -30,7 +30,8 @@ A Vietnamese address runs from general to specific: street number, street name, 
 - **Numbers are not strictly sequential.** Street numbering exists but hopping occurs; numbers 40 and 112 may be a hundred metres apart in different blocks. Trust the number to confirm, not to navigate.
 - **The ward/district layer is how people actually think.** "It's in Tay Ho" narrows a search better than a postcode — Vietnam's postal codes exist but almost nobody uses them day to day.
 
-After the July 2025 administrative restructuring, official ward nam
+After the July 2025
+ administrative restructuring, official ward nam
 es changed (Hanoi's former districts became 126 wards and communes), but every map, app and taxi conversation still runs on the old district names. Use them freely.
 
 ## App setup that matters
@@ -47,7 +48,8 @@ Hanoi's central grid is aggressively one-way, and the official direction data is
 
 ## Landmarks beat coordinates
 
-The professional local technique is landmark stitching: ride from known point to known point — a bridge, a lake corner, a market, a monument. The city's skeleton (river, lakes, ring roads) makes this 
+The professional local technique is landmark stitching: ride from known point to known point — a bridge, a lake corner, a market, a monument. The city'
+s skeleton (river, lakes, ring roads) makes this 
 easy, which is why the district layout guide comes first in this cluster. Once Hoan Kiem, West Lake, the bridges and the ring roads are fixed in your head, every address in the city is "near something you know."
 
 ## The pre-ride minute
