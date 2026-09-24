@@ -18,7 +18,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address and opening hours only"
-internal_link_targets: exploring-hoan-kiem-by-motorbike, long-bien-area-guide-riders, long-bien-bridge-motorbike-guide, night-riding-motorbike-safety-vietnam, where-to-park-motorbike-hanoi, phone-mounts-motorbike-vietnam, helmet-law-vietnam
+internal_link_targets: exploring-hoan-kiem-by-motorbike, long-bien-area-guide-riders, hanoi-night-markets-motorbike-guide, night-riding-motorbike-safety-vietnam, where-to-park-motorbike-hanoi, phone-mounts-motorbike-vietnam, helmet-law-vietnam, hanoi-street-food-motorbike-ride-guide
 ---
 
 Hanoi changes shifts after dark. The day markets close, and a second city of commerce opens under the streetlights: the weekend walking-street night market around the Old Quarter, the flower markets that peak before dawn, the fruit trucks at Long Bien, and the food streets that earn their fame between nine at night and two in the morning. All of it runs on motorbikes — the vendors', and yours.

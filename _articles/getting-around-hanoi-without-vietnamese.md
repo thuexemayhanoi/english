@@ -18,7 +18,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address and opening hours only"
-internal_link_targets: stopped-by-traffic-police-vietnam, documents-to-carry-motorbike-vietnam, hanoi-petrol-stations-guide-riders, hanoi-navigation-motorbike-guide, talking-to-mechanic-vietnam, waterproof-document-pouches-motorbike, how-to-pay-traffic-fine-vietnam
+internal_link_targets: stopped-by-traffic-police-vietnam, documents-to-carry-motorbike-vietnam, hanoi-petrol-stations-guide-riders, hanoi-navigation-motorbike-guide, talking-to-mechanic-vietnam, waterproof-document-pouches-motorbike, how-to-pay-traffic-fine-vietnam, hanoi-motorbike-traffic-culture-first-timers
 ---
 
 You do not need Vietnamese to ride in Hanoi — the proof is the thousands of foreign riders who do it daily. But the difference between a smooth week and a frustrating one is a handful of words, one prepared phone, and knowing how each street situation works when nobody shares a language.
@@ -36,7 +36,8 @@ A dozen phrases cover ninety percent of rider interactions:
 - **Khong** (khom) — no / not that one.
 - **Dung o day** — stop here (for ride-hailing or guiding a friend).
 - **Toi khong hieu** — I don't understand. Said with a smile, it de-escalates everything.
-- **Cho xin loi** — excuse me / sorry.
+- **Cho xin loi
+** — excuse me / sorry.
 - Numbers: learn "mot, hai, ba" (1, 2, 3) — market prices are often quoted in hundreds of thousands anyway ("mot tram" = 100,000).
 
 ## Situations, translated
@@ -53,6 +54,7 @@ Three apps carry the whole burden: a navigation app in motorbike mode (the navig
 
 ## The cultural layer
 
-Volume is not anger; Vietnamese street conversation runs loud and fast, and a discussion that sounds like an argument is usually logistics. Patience plus a smile plus "xin loi, toi khong hieu" opens more doors than fluency would — street Vietnam is generous to people who try, and Hanoi doubly so to riders who stop to ask properly rather than guess.
+Volume is not anger; Vietnamese street conversation runs loud and fast, and a discussion th
+at sounds like an argument is usually logistics. Patience plus a smile plus "xin loi, toi khong hieu" opens more doors than fluency would — street Vietnam is generous to people who try, and Hanoi doubly so to riders who stop to ask properly rather than guess.
 
 Ride slowly, learn the dozen words, and the language barrier becomes what it actually is in Hanoi: a thin membrane, not a wall.

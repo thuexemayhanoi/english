@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "best-motorbike-for-commuting-hanoi, where-to-park-motorbike-hanoi, motorbike-rental-pickup-or-delivery-hanoi, stopped-by-traffic-police-vietnam, motorbike-rental-price-hanoi"
+internal_link_targets: "best-motorbike-for-commuting-hanoi, where-to-park-motorbike-hanoi, motorbike-rental-pickup-or-delivery-hanoi, stopped-by-traffic-police-vietnam, motorbike-rental-price-hanoi", hai-ba-trung-area-guide-riders
 ---
 
 Hai Ba Trung, the district immediately south of Hoan Kiem, is dense, commercial and busy from the first coffee to the last night market. Riding it well means accepting its rhythm: full lanes, patient progress, and a parking plan made before you arrive.
@@ -29,7 +29,8 @@ The backbone streets — Truong Chinh, Dai Co Viet, Nguyen Thi Minh Khai, Bui Th
 ## The specific knots
 
 - The area around Vinh Tuy bridge approach on Minh Khai: heavy merge traffic at rush hour
-- The old rail corridor and train-street spots: tourist-popular, but the tracks and the cafes around them are a walk-first area, not a riding one
+- The old rail corridor and train-street spots: tourist-popular, but the tracks and the cafes a
+round them are a walk-first area, not a riding one
 - Market surroundings (Hom market, Mo market): the densest parking-and-moving chaos in the district; walk the last hundred metres
 
 ## Parking

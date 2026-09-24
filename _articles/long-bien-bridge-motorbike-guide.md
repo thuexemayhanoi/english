@@ -20,10 +20,11 @@ sources:
   - "https://dtinews.dantri.com.vn/vietnam-today/long-bien-bridge-reopened-after-repairs-20260528102915217.htm — retrieved 2026-09-24: the bridge resumed two-way traffic for motorcycles, bicycles and pedestrians after roadway and pedestrian-section repairs completed on 27 May 2026"
   - "https://www.vietnam.vn/en/ha-noi-cam-xe-qua-cau-long-bien-tu-ngay-28-3-den-het-27-5 — retrieved 2026-09-24: all vehicles were banned from the bridge 28 March-27 May 2026 for emergency repairs to the pedestrian walkway and motorbike lanes"
   - "https://vietnamnet.vn/en/hanoi-approves-urgent-reinforcements-for-aging-long-bien-bridge-2378061.html — retrieved 2026-09-24: Hanoi approved reinforcement and renovation studies for the aging bridge"
-internal_link_targets: long-bien-area-guide-riders, crossing-hanoi-bridges-motorbike, red-river-islands-motorbike-guide, self-guided-hanoi-motorbike-city-tour, potholes-bad-roads-motorbike-vietnam, night-riding-motorbike-safety-vietnam, hanoi-districts-layout-guide-riders
+internal_link_targets: long-bien-area-guide-riders, crossing-hanoi-bridges-motorbike, red-river-islands-motorbike-guide, self-guided-hanoi-motorbike-city-tour, potholes-bad-roads-motorbike-vietnam, night-riding-motorbike-safety-vietnam, hanoi-districts-layout-guide-riders, bat-trang-pottery-village-motorbike-ride
 ---
 
-No structure in Hanoi means as much to riders as the Long Bien Bridge. Built 1898–1902 under the direction of the same firm behind the Eiffel Tower's engineering era, bombed and repaired repeatedly through the twentieth century, it remains the city's only river crossing reserved for trains, motorbikes, bicycles and feet. Crossing it is a five-minute ride and a hundred-year conversation.
+No structure in Hanoi means as much to riders as the Long Bien Bridge. Built 1898–1902 under the direction of the same firm behind the Eiffel Tower's engineering era, bombed and repaired repeatedly through the twentieth century, it remains the city's only river crossing reserved for trains, motorbikes, bicycles and feet. Crossing it is a five-minute ride and a hun
+dred-year conversation.
 
 ## Access and layout
 
@@ -42,7 +43,8 @@ The bridge closed completely between 28 March and 27 May 2026 for emergency repa
 
 ## The views
 
-Halfway across, Hanoi arranges itself for you: the river islands with their banana gardens below, the Red River's sand barges and swimming buffalo, the Old Quarter rooftops to the west, and the skyline of glass towers behind them. At dawn the mist makes it unreal; at night the deck's dim lamps and the city glow behind make it feel like a different century — which, structurally, it is.
+Halfway across, Hanoi arranges itself for you: the
+ river islands with their banana gardens below, the Red River's sand barges and swimming buffalo, the Old Quarter rooftops to the west, and the skyline of glass towers behind them. At dawn the mist makes it unreal; at night the deck's dim lamps and the city glow behind make it feel like a different century — which, structurally, it is.
 
 ## Making it part of a ride
 

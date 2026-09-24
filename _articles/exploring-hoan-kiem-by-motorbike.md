@@ -19,14 +19,15 @@ last_reviewed: 2026-09-24
 sources:
   - "https://vinwonders.com/en/wonderpedia/news/hoan-kiem-lake-walking-street/ — retrieved 2026-09-24: the Hoan Kiem lake walking street operates from 19:00 Friday to midnight Sunday, closing the area to vehicles"
   - "https://hanoifreeprivatetourguide.com/weekend-walking-street-in-hanoi/ — retrieved 2026-09-24: same weekend closure window, cultural programme details"
-internal_link_targets: riding-hanoi-old-quarter-narrow-streets, where-to-park-motorbike-hanoi, best-bike-for-hanoi-old-quarter, renting-motorbike-hoan-kiem, renting-motorbike-old-quarter, hanoi-night-markets-motorbike-guide, hanoi-districts-layout-guide-riders
+internal_link_targets: riding-hanoi-old-quarter-narrow-streets, where-to-park-motorbike-hanoi, best-bike-for-hanoi-old-quarter, renting-motorbike-hoan-kiem, renting-motorbike-old-quarter, hanoi-night-markets-motorbike-guide, hanoi-districts-layout-guide-riders, hoan-kiem-walking-street-motorbike-visitors, old-quarter-one-way-streets-riding
 ---
 
 Hoan Kiem is the Hanoi of postcards: the lake, the turtle tower, the red bridge to the temple, and the thirty-six streets of the Old Quarter fanning out north of the water. It is also the least motorbike-friendly square kilometre in the city — which is exactly why a rider's guide to it is worth reading before you go.
 
 ## The weekend walking street changes everything
 
-The streets immediately around Hoan Kiem Lake become a pedestrian zone on weekends: closed to vehicles from 19:00 on Friday until midnight on Sunday. During that window you cannot ride into the lakeside loop at all — and you would not want to, because the space belongs to thousands of strolling families, street performers and food vendors. Ride to the edge, park, and continue on foot.
+The streets immediately around Hoan Kiem Lake become a pedestrian zone on weekends: closed to vehicles from 19:00 on Friday until midnight on Sunday. During that window you cannot ride into the lakeside loop at all — and you would not want to, because the space belongs to thousands of strolling families, street performers and food vendors. Ride to the edge,
+ park, and continue on foot.
 
 Outside that window, the lake loop is open to traffic and makes a short, pleasant circuit, especially early on weekday mornings when the waterfront belongs to tai chi groups and joggers.
 
@@ -48,7 +49,8 @@ A practical loop for a weekday morning: start on the east side of the lake near 
 
 ## Timing for riders
 
-- Weekday mornings before 08:30: the calmest riding, open parking, shops opening.
+- Weekday 
+mornings before 08:30: the calmest riding, open parking, shops opening.
 - Weekday evenings: lively but congested; perimeter parking is the only realistic option.
 - Friday evening to Sunday midnight: walking street — park at the edge and enjoy it the way it is meant to be enjoyed.
 

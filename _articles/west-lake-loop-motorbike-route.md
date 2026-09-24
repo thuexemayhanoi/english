@@ -18,7 +18,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address and opening hours only"
-internal_link_targets: tay-ho-west-lake-area-guide-riders, self-guided-hanoi-motorbike-city-tour, ba-dinh-area-guide-riders, sun-glare-riding-motorbike-vietnam, where-to-park-motorbike-hanoi, hot-weather-riding-motorbike-vietnam, hanoi-districts-layout-guide-riders
+internal_link_targets: tay-ho-west-lake-area-guide-riders, self-guided-hanoi-motorbike-city-tour, ba-dinh-area-guide-riders, sun-glare-riding-motorbike-vietnam, where-to-park-motorbike-hanoi, hot-weather-riding-motorbike-vietnam, hanoi-districts-layout-guide-riders, quang-ba-flower-market-night-ride, nhat-tan-flower-fields-motorbike-ride, hanoi-lakes-motorbike-riding-guide
 ---
 
 Every city with a great water loop eventually becomes known by it. Hanoi's is the circuit of West Lake (Ho Tay) — roughly 17 kilometres of shoreline riding that passes temples, embassies, fishing piers, beer gardens and some of the most expensive real estate in Vietnam. It is the ride locals use to clear their heads, and the one visitors remember.
@@ -27,7 +27,8 @@ Every city with a great water loop eventually becomes known by it. Hanoi's is th
 
 Start anywhere on the loop — the Thanh Nien causeway is the classic start. From the causeway between Truc Bach and West Lake, ride north along the western shore: the road passes the tranquil Thanh Quang street stretch, the Tran Quoc pagoda side (the oldest pagoda in the city, on a small island at the southeast corner) and swings up Au Co, past flower-markets and boat ramps. The northern shore is the quiet side — fish farms, willows and long straights. Turning south along Xuan Dieu and To Ngoc Van, you enter the expat quarter: cafes, bakeries and the weekend crowd. The eastern shore along Thanh Nien and the southern stretch past the Sheraton round off the loop.
 
-Direction matters less than timing: the loop is short enough that most riders do it in 40–60 minutes of actual riding, with as many stops as the afternoon allows.
+Dir
+ection matters less than timing: the loop is short enough that most riders do it in 40–60 minutes of actual riding, with as many stops as the afternoon allows.
 
 ## When to ride it
 
@@ -46,4 +47,5 @@ Tran Quoc pagoda (southeast), the flower market end of Au Co (north), any pier w
 
 ## Extending the ride
 
-The loop connects naturally to the rest of the city: the south-east corner hands you to Ba Dinh's museum quarter, the western edge can drop you into Cau Giay's mall land, and a detour via the Hoang Hoa Tham corridor takes you to the President Ho Chi Minh complex. For visitors, it is the first hour of the classic self-guided city tour — and for residents, the ride that makes a hard week dissolve.
+The loop connects naturally to the rest of the city: the south-east corner hands you to Ba Dinh's museum quarter, the western edge can drop you into Cau Giay's mall land, and a detour via the Hoang Hoa Tham corridor takes you to the President Ho Chi Minh complex. For visitors, it is the first hour of the classic self-guided city tour — and for residents, the ride that makes a 
+hard week dissolve.

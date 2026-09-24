@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "riding-rental-motorbike-hanoi-rain, best-motorbike-for-commuting-hanoi, what-to-carry-riding-motorbike-vietnam, motorbike-rental-agreement-hanoi, do-hanoi-rentals-include-helmets"
+internal_link_targets: "riding-rental-motorbike-hanoi-rain, best-motorbike-for-commuting-hanoi, what-to-carry-riding-motorbike-vietnam, motorbike-rental-agreement-hanoi, do-hanoi-rentals-include-helmets", hanoi-riding-seasons-guide
 ---
 
 Hanoi's rainy season runs roughly May to October, with the heaviest, most predictable bursts from June to August. Renting through it is completely normal — the whole city rides through it daily — but it changes how you plan.
@@ -35,7 +35,8 @@ Rain arrives mostly in afternoon and early-evening storms: sudden, heavy, short.
 
 ## Bike choice in the season
 
-Automatics with flat floors and under-seat storage protect gear best; drum brakes behave worse wet, so factor extra stopping distance rather than different brakes. The choice trade-offs are in scooter-vs-semi-automatic-hanoi and best-motorbike-for-commuting-hanoi.
+Automatics with flat floors and under-seat storage protect gear best; drum brakes behave worse
+ wet, so factor extra stopping distance rather than different brakes. The choice trade-offs are in scooter-vs-semi-automatic-hanoi and best-motorbike-for-commuting-hanoi.
 
 ## Riding technique
 

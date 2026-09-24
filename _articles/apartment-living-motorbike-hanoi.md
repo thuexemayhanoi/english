@@ -18,7 +18,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address and opening hours only"
-internal_link_targets: home-parking-overnight-security, where-to-park-motorbike-hanoi, keeping-rental-motorbike-secure-hanoi, parking-monthly-renter-hanoi, charging-electric-motorbike-apartment-rental, choosing-hanoi-neighbourhood-motorbike-access, disc-locks-chains-motorbike-security
+internal_link_targets: home-parking-overnight-security, where-to-park-motorbike-hanoi, keeping-rental-motorbike-secure-hanoi, parking-monthly-renter-hanoi, apartment-related-electric-charging, choosing-hanoi-neighbourhood-motorbike-access, disc-locks-chains-motorbike-security, hotel-parking-motorbike-hanoi
 ---
 
 In most of the world, "apartment" and "motorcycle" are an awkward couple. In Hanoi they are the default arrangement — the city's residential towers and tube-house alleys were built around the two-wheeler, and daily life is organized accordingly. But the details vary enormously between buildings, and they are worth checking before you sign anything.

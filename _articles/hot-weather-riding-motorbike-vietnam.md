@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "what-to-wear-riding-motorbike-vietnam, riding-fatigue-motorbike-vietnam, riding-motorbike-heavy-rain-vietnam, commuting-by-motorbike-monthly-hanoi"
+internal_link_targets: "what-to-wear-riding-motorbike-vietnam, riding-fatigue-motorbike-vietnam, riding-motorbike-heavy-rain-vietnam, commuting-by-motorbike-monthly-hanoi", hanoi-riding-seasons-guide
 ---
 Northern Vietnam summers push past 38°C with humidity to match, and the southern heat never really breaks. Riding feels cooling at speed — but the sweat you lose at 40 km/h disappears without you noticing, and heat slowly takes away exactly the sharpness you ride with.
 
@@ -31,7 +31,8 @@ The temptation is shorts and flip-flops; the working solution is lightweight cov
 
 ## The bike in heat
 
-Engines run hotter in traffic jams — a scooter crawling through Long Bien heat can approach its cooling limits. If the bike smells hot or loses power in a jam, let it cool; overheating-motorbike-vietnam covers the symptoms. Tyre pressures rise as tyres heat; check them cold, as the tyre-care article explains.
+Engines run hotter in traffic jams — a scooter crawling through Long Bien heat can approach its cooli
+ng limits. If the bike smells hot or loses power in a jam, let it cool; overheating-motorbike-vietnam covers the symptoms. Tyre pressures rise as tyres heat; check them cold, as the tyre-care article explains.
 
 ## Timing your riding
 
