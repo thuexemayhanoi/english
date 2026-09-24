@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "how-to-book-a-motorbike-rental-hanoi, motorbike-rental-pickup-or-delivery-hanoi, how-to-rent-a-motorbike-hanoi, motorbike-rental-agreement-hanoi", tet-holiday-motorbike-travel-vietnam
+internal_link_targets: how-to-book-a-motorbike-rental-hanoi, motorbike-rental-pickup-or-delivery-hanoi, how-to-rent-a-motorbike-hanoi, motorbike-rental-agreement-hanoi, tet-holiday-motorbike-travel-vietnam
 ---
 
 Tet, the Vietnamese New Year (late January or February), reshapes Hanoi for about a week — and it affects motorbike rentals more than any other week of the year.

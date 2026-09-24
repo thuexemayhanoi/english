@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "cornering-motorbike-vietnam, fog-and-low-visibility-riding-motorbike-vietnam, riding-motorbike-blind-spots-vietnam, best-motorbike-for-long-distance-vietnam", hai-van-pass-motorbike-guide
+internal_link_targets: cornering-motorbike-vietnam, fog-and-low-visibility-riding-motorbike-vietnam, riding-motorbike-blind-spots-vietnam, best-motorbike-for-long-distance-vietnam, hai-van-pass-motorbike-guide
 ---
 Vietnam's mountain passes — the ones north and west of Hanoi — are among the best motorbike roads in the world and among the least forgiving of mistakes. Cliffs, fog, trucks and blind hairpins combine on surfaces that change character mid-corner.
 
