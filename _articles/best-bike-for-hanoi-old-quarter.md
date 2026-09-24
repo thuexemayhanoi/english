@@ -32,9 +32,7 @@ The Old Quarter is the hardest motorbike terrain in Hanoi: alleys that barely fi
 ## The classes, ranked
 
 1. Semi-automatic underbones - the Honda Wave and Yamaha Sirius class. The narrowest common rental, the lightest steering, and the machine half the Old Quarter's residents ride for exactly these reasons. Day rates start at 150,000 VND.
-2. Small automatic scooters - the Click and Mio class (150,000 VND/day) and the Vision (200,000 VND/day). Nearly
- as nimble, easier for new riders, w
-ith under-seat storage for a shopping run. The fairing edges are the only thing to mind in the tightest alleys.
+2. Small automatic scooters - the Click and Mio class (150,000 VND/day) and the Vision (200,000 VND/day). Nearly  as nimble, easier for new riders, with under-seat storage for a shopping run. The fairing edges are the only thing to mind in the tightest alleys.
 3. Licence-free options - a 50 cc bike or e-bike is the legal answer for riders without a motorcycle licence, and the low speeds suit the district's pace perfectly.
 
 Anything large or wide is simply the wrong tool here - and there is nothing a bigger engine can do at 15 km/h.

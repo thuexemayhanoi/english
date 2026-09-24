@@ -32,8 +32,7 @@ The Vietnamese default. Foot-shifted four-speed gearbox, but no hand clutch - th
 
 ## Manual (clutch) motorcycles
 
-Left-hand clutch, left-foot shift, fu
-ll control. For riders who already ride manuals, this is home, and a manual is the right tool for mountain trips where engine braking matters. For everyone else it is the hardest possible way to learn Vietnamese traffic - the clutch turns every junction into a workload. Rent a manual only if you ride one at home.
+Left-hand clutch, left-foot shift, fu ll control. For riders who already ride manuals, this is home, and a manual is the right tool for mountain trips where engine braking matters. For everyone else it is the hardest possible way to learn Vietnamese traffic - the clutch turns every junction into a workload. Rent a manual only if you ride one at home.
 
 ## The decision
 

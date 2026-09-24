@@ -24,8 +24,7 @@ sources:
 internal_link_targets: motorbike-bluecard-ownership-papers-vietnam, selling-motorbike-before-leaving-vietnam, renting-vs-buying-motorbike-vietnam-long-trip, servicing-before-long-trip-motorbike, motorbike-travel-insurance-vietnam
 ---
 
-For decades the default long-haul Vietnam plan was to buy a motorbike on arrival, ride the country, and sell it on departure. The "$300 Honda Win in Hanoi" became backpacker legend. Buying still makes sense for some tr
-ips — and is the wrong choice for many more. This guide lays out what buying actually involves in 2026.
+For decades the default long-haul Vietnam plan was to buy a motorbike on arrival, ride the country, and sell it on departure. The "$300 Honda Win in Hanoi" became backpacker legend. Buying still makes sense for some tr ips — and is the wrong choice for many more. This guide lays out what buying actually involves in 2026.
 
 ## What a bike costs
 
@@ -47,8 +46,7 @@ Owning does not legalise riding. Above 50cc you still need a valid Vietnamese li
 ## When buying beats renting
 
 - Trips of roughly six weeks or more, where rental daily rates exceed the depreciation you will eat buying and reselling.
-- Riders who want the specific mechanical character 
-of their own bike on remote roads.
+- Riders who want the specific mechanical character of their own bike on remote roads.
 - Travellers who accept the resale gamble (see our selling guide for how to exit well).
 
 ## When renting beats buying

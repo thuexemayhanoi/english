@@ -32,8 +32,7 @@ Hanoi traffic is dense, slow and negotiated centimetre by centimetre. The bike t
 
 ## The classes that work
 
-Automatic scooters - the Honda Vision, Honda Click, Yamaha Mio class - are the default answer: light, twist-and-go, under-seat storage, made for exactly this. Semi-automatic underbones - the H
-onda Wave, Yamaha Sirius class - are the
+Automatic scooters - the Honda Vision, Honda Click, Yamaha Mio class - are the default answer: light, twist-and-go, under-seat storage, made for exactly this. Semi-automatic underbones - the Honda Wave, Yamaha Sirius class - are the
  Vietnamese workhorse: narrower, cheaper, simpler to fix anywhere, with the foot-shift as the single trade-off. Both classes appear on rental lists at 150,000-200,000 VND per day; contact us to confirm current availability.
 
 ## What does not work in Hanoi traffic

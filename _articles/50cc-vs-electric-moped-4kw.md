@@ -25,8 +25,7 @@ One sentence in the traffic law puts petrol 50s and electric mopeds in the same 
 
 ## The shared rule
 
-Article 3 of Law 36/2024/QH15 defines the moped category as vehicles designed for no more than 50 km/h with engines of 50cc or less, **or electric motors of 4 kW or less**. Everything legal flows identically from there: same age floor, same helmet duty at the same fine levels, same traffic rules, same compulsory-insurance framework. The licence article carries the details; the electric licence article co
-vers where the moped line sits in the electric spectrum (pedal e-bikes below, licence-class electrics above).
+Article 3 of Law 36/2024/QH15 defines the moped category as vehicles designed for no more than 50 km/h with engines of 50cc or less, **or electric motors of 4 kW or less**. Everything legal flows identically from there: same age floor, same helmet duty at the same fine levels, same traffic rules, same compulsory-insurance framework. The licence article carries the details; the electric licence article co vers where the moped line sits in the electric spectrum (pedal e-bikes below, licence-class electrics above).
 
 ## Refuel versus recharge
 

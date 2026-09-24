@@ -27,8 +27,7 @@ On a used electric motorbike, the battery is most of the value and almost all of
 
 1. **Ask for the pack's health data.** Modern electrics expose diagnostics through their apps — Dat Bike's app, for instance, connects to the bike for status and service. If the seller cannot show charge cycles or measured capacity, treat the price accordingly.
 2. **Do a full charge and a measured ride.** Charge to 100 percent, ride a known loop at normal pace, and compare the percentage consumed with the claimed range. Weak packs reveal themselves immediately.
-3. **Check the warranty transfer.** Dat Bike, for example, ships its bikes with a 3-year battery warranty — confirm in writing whether it t
-ransfers to you and on what terms.
+3. **Check the warranty transfer.** Dat Bike, for example, ships its bikes with a 3-year battery warranty — confirm in writing whether it transfers to you and on what terms.
 4. **Ask whether the battery is owned or rented.** For VinFast swap models, a rented-battery bike transfers without the pack but with the rental relationship — confirm the account status with the seller.
 
 ## Then the bike

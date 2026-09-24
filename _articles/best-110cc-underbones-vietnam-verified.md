@@ -30,18 +30,13 @@ Four current models compete here: Honda Wave Alpha 110, Honda Blade, Honda Wave 
 ## Economy ranking (published figures)
 
 1. Wave RSX - 1.56 L/100 km (PGM-FI)
-2. Wave Alpha - 1.72 L/100 km
-3. Blade - 1.85 L/100 km
-4. Sirius - 2.08 L/100 km
+2. Wave Alpha - 1.72 L/100 km 3. Blade - 1.85 L/100 km 4. Sirius - 2.08 L/100 km
 
 The RSX is the only fuel-injected machine of the four, and it shows. Real-world consumption varies with load and traffic.
 
 ## Weight ranking
 
-1. Wave Alpha - 96 kg
-2. Wave RSX - 98 kg
-3. Blade - 98-99 kg by version
-4. 
+1. Wave Alpha - 96 kg 2. Wave RSX - 98 kg 3. Blade - 98-99 kg by version 4.
 Sirius - 100 kg wet
 
 ## Power and torque (published)

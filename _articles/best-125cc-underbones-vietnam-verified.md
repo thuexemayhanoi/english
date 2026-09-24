@@ -30,14 +30,12 @@ Honda Future 125 FI, Honda Super Cub C125 and Honda CT125.
 ## Torque (published)
 
 1. CT125 - 10.9 Nm at 4,750 rpm (lowest revs, adventure tuning)
-2. Future 125 FI - 10.2 Nm at 5,500 rpm
-3. Super Cub C125 - 10.15 Nm at 5,000 rpm
+2. Future 125 FI - 10.2 Nm at 5,500 rpm 3. Super Cub C125 - 10.15 Nm at 5,000 rpm
 
 ## Economy (published)
 
 1. Future 125 FI - 1.47 L/100 km (best of any Honda underbone sold in Vietnam)
-2. Super Cub C125 - 1.55 L/100 km
-3. CT125 - 1.61 L/100 km
+2. Super Cub C125 - 1.55 L/100 km 3. CT125 - 1.61 L/100 km
 
 ## Tanks and range
 
@@ -49,8 +47,7 @@ Future 104 kg, Super Cub 109 kg, CT125 117 kg.
 
 ## Seat height and clearance
 
-Super Cub 780 mm seat / 136 mm clearance; Fu
-ture 756 mm / 133 mm; CT125 800 mm / 165 mm - the CT is the only one shaped for rough tracks and the day trips they enable.
+Super Cub 780 mm seat / 136 mm clearance; Future 756 mm / 133 mm; CT125 800 mm / 165 mm - the CT is the only one shaped for rough tracks and the day trips they enable.
 
 ## List prices (retrieved 23 September 2026; prices change)
 

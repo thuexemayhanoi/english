@@ -28,8 +28,7 @@ Across the Red River and into Bac Ninh province lies one of the most pleasant sh
 
 ## The loop out
 
-Cross to the east bank (Chuong Duong or the newer cable-stayed bridges) and
- follow the Duong River corridor northeast. Two riding styles work: the fast line straight out the Bac Ninh highway, or the slower, better dyke-top road that shadows the Duong toward Thuan Thanh — flat, green and lightly trafficked. Count 45 minutes to an hour to the pagoda area.
+Cross to the east bank (Chuong Duong or the newer cable-stayed bridges) and  follow the Duong River corridor northeast. Two riding styles work: the fast line straight out the Bac Ninh highway, or the slower, better dyke-top road that shadows the Duong toward Thuan Thanh — flat, green and lightly trafficked. Count 45 minutes to an hour to the pagoda area.
 
 ## But Thap Pagoda
 

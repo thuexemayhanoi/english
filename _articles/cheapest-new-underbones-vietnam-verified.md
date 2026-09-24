@@ -24,11 +24,7 @@ Vietnam's underbone market starts remarkably low: the cheapest Honda listed on H
 
 ## The verified price ladder (110/125 class)
 
-1. Honda Wave Alpha 110 - 18,841,091 VND
-2. Honda Blade - 21,943,637 VND
-3. Yamaha Sirius RC 110 - 21,993,000 VND
-4. Honda Wave RSX - 25,664,727 VND
-5. Honda Future 125 FI - from 30,622,909 VND (three versions)
+1. Honda Wave Alpha 110 - 18,841,091 VND 2. Honda Blade - 21,943,637 VND 3. Yamaha Sirius RC 110 - 21,993,000 VND 4. Honda Wave RSX - 25,664,727 VND 5. Honda Future 125 FI - from 30,622,909 VND (three versions)
 
 For context, the premium manual-gearbox machines sit far above: Honda Winner R at 46,360,000 VND, Yamaha Exciter 155 VVA at 55,200,000 VND (limited ABS Monster version shown), Honda CBR150R at 72,290,000 VND, Honda CT125 at 85,997,455 VND and the Super Cub C125 at 88,353,813 VND.
 

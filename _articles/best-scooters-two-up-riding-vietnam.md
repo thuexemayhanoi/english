@@ -29,8 +29,7 @@ Three verified numbers predict two-up behaviour better than marketing: kerb weig
 
 ## The verified candidates
 
-- Honda SH160i/125i - 134 kg kerb weight, 1,353 mm wheelbase, 16-inch wheels, 28 L storage. The heaviest, longest-
-wheelbase mainstream scooter sold in Vietnam: the most stable two-up platform on this list.
+- Honda SH160i/125i - 134 kg kerb weight, 1,353 mm wheelbase, 16-inch wheels, 28 L storage. The heaviest, longest-wheelbase mainstream scooter sold in Vietnam: the most stable two-up platform on this list.
 - Yamaha NVX 155 - 125 kg, 1,350 mm wheelbase, wide 140/70-14 rear tyre, 25 L storage, split two-level seat. Nearly SH-level stability with sportier delivery.
 - Honda Vario 160 - 118 kg, but a 1,278 mm wheelbase and a 422 mm-wide flat floor (handy for a passenger's bag between stops). Front ABS adds wet-weather security.
 - Honda Air Blade 160 - 113 kg, 1,286 mm wheelbase, compact body. Lighter and easier in traffic, and it is on Nguyen Tu's published rental price list (200,000 VND per day, 800,000 VND per week, 1,400,000 VND per month).

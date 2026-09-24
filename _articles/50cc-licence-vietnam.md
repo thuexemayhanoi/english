@@ -27,12 +27,10 @@ Short answer: bikes of 50cc or less do not require a driving licence in Vietnam,
 
 ## The current position
 
-Article 3 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) defines "xe gắn máy" (mopeds) as two- or three-wheel engine-driven vehicles designed for no more than 50 km/h, with engines of 50cc or less, o
-r electric motors of 4 kW or less. The requirements are:
+Article 3 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) defines "xe gắn máy" (mopeds) as two- or three-wheel engine-driven vehicles designed for no more than 50 km/h, with engines of 50cc or less, or electric motors of 4 kW or less. The requirements are:
 
 - No driving licence needed
-- The rider must be at least 
-16 years old (Article 59)
+- The rider must be at least 16 years old (Article 59)
 - Article 58 requires moped riders to understand traffic rules, have basic vehicle-handling skills, and meet the age and health conditions
 
 One point that is often misread online: there is no rule that every 16-to-18-year-old must hold a training certificate before riding. Decree 151/2024/NĐ-CP organises road-safety knowledge and safe-moped-riding skills training for high-school and vocational students, and traffic police have publicly clarified that 16-to-18-year-olds may ride mopeds (including electric mopeds up to 4 kW) without a licence or certificate. The training requirement operates through schools, not as a universal riding permit.
@@ -47,5 +45,4 @@ A pedal-type electric bicycle ("xe đạp điện") is defined separately in the
 
 Some renters specifically want a sub-50cc bike hoping to avoid licence questions. Before choosing that route, read our guide on whether tourists can legally ride in Vietnam — a moped does not solve the insurance or IDP issues that come with any accident. Contact us to confirm current availability of 50cc bikes.
 
-*Information, not legal advice. Verified against the full text of Law 36
-/2024/QH15 and Decree 168/2024/NĐ-CP on 2026-09-21.*
+*Information, not legal advice. Verified against the full text of Law 36/2024/QH15 and Decree 168/2024/NĐ-CP on 2026-09-21.*

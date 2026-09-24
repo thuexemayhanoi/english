@@ -28,8 +28,7 @@ Camping gear is bulky, not heavy — the enemy is volume. Build the kit around s
 ## The packing system
 
 Everything in dry bags (rain is the plan, not the exception), dry bags inside a rear rack or top box, with the tent and poles under a cargo net. Keep the daily-needed items reachable: rain suit, water, tools in their own small bag. Sleeping mats strap on last because they are light and bulky — they can ride on top under the net
-. Nothing hangs off the sides wider than your handlebars; Hanoi’s lane gaps do
- not widen for tourists.
+. Nothing hangs off the sides wider than your handlebars; Hanoi’s lane gaps do  not widen for tourists.
 
 ## Fuel, water, and the plan
 

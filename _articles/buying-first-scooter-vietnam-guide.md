@@ -28,9 +28,7 @@ Most first-time buyers land in the 110-125 cc automatic class: light, economical
 
 ## Step 2: decide new or used
 
-A new bike from an official dealer carries the manufacturer warranty (Yamaha lists 3 years/30,000 km on its scooters) at the cost of first-year depreciation. Used bikes save money b
-ut need a proper inspection - our used motorbike inspection gui
-de is the checklist. For shorter stays, renting usually beats buying: see the renting vs buying comparison.
+A new bike from an official dealer carries the manufacturer warranty (Yamaha lists 3 years/30,000 km on its scooters) at the cost of first-year depreciation. Used bikes save money but need a proper inspection - our used motorbike inspection guide is the checklist. For shorter stays, renting usually beats buying: see the renting vs buying comparison.
 
 ## Step 3: paperwork and legality
 

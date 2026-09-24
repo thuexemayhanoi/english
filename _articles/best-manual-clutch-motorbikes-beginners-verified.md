@@ -35,8 +35,7 @@ Moving from a semi-automatic to a manual-clutch bike (xe con tay) is the biggest
 
 ## Why the Exciter is the easiest clutch bike
 
-The Exciter's Assist and Slipper clutch is the beginner's unfair advantage: assist makes the lever lighter to pull, and the slipper function smooths clumsy downshifts - exactly the two mist
-akes new clutch riders make. It is also the lightest of the three (123 kg wet) and the cheapest to run at a claimed 2.07 L/100 km.
+The Exciter's Assist and Slipper clutch is the beginner's unfair advantage: assist makes the lever lighter to pull, and the slipper function smooths clumsy downshifts - exactly the two mistakes new clutch riders make. It is also the lightest of the three (123 kg wet) and the cheapest to run at a claimed 2.07 L/100 km.
 
 ## Why the Winner R is the value choice
 

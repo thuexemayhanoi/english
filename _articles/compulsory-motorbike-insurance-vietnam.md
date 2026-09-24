@@ -25,8 +25,7 @@ internal_link_targets: documents-to-carry-motorbike-vietnam, motorbike-accident-
 
 Yes — motorbike insurance is compulsory in Vietnam, and it is not the optional comprehensive kind. Article 56 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires every vehicle owner participating in traffic to hold compulsory civil-liability insurance, detailed in Decree 67/2023/NĐ-CP. The certificate must be carried when riding.
 
-## What 
-it covers
+## What it covers
 
 Compulsory insurance is third
 -party cover. It pays compensation to people the insured rider injures or to property damaged in an accident the rider causes, within the limits the decree sets. It does not pay for damage to the rider's own bike, and it does not pay the rider's medical costs. What it buys is legal compliance and a backstop for the harm you might cause to someone else.

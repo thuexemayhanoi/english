@@ -36,8 +36,7 @@ Yamaha's answer to the Click class: light, easy to park, easy to flick through t
 
 ## How to choose between them
 
-- Seat height and 
-fit matter more than spec sheets - sit on all three; the one that lets both feet nearly flat is the one.
+- Seat height and fit matter more than spec sheets - sit on all three; the one that lets both feet nearly flat is the one.
 - All three are around the 110-125 cc class: enough for Hanoi, enough for day trips, not tourers.
 - All three take regular unleaded and get serviced by the rental shop as part of the deal.
 - Rate differences are small but real on long rentals: a month on a Click/Mio versus a Vision differs by several hundred thousand dong.

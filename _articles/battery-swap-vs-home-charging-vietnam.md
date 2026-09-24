@@ -25,8 +25,7 @@ Vietnam's electric two-wheelers now split into two fuel models: swap a full batt
 
 ## How swapping works
 
-VinFast's Evo, Feliz II and Viper carry two 1.5 kWh LFP batteries under the seat, removable by hand. Instead of charging, you exchange a flat pack for a full one at a V-Green battery-swap cabinet. VinFast installed the first 4,500 stations by January 2026 and plans 45,000 cabinets across 34 provinces and cities by Q1 2026 — a network it says would be roughly 1.5 times the number of fuel stations. A swap costs 9,000 VND per battery. Crucially, you do not have to own the batteries at all: VinFast rents them at 175,000 VND per month for one or 300,000 VND for two, maintenance and degradation on them being the ope
-rator's problem.
+VinFast's Evo, Feliz II and Viper carry two 1.5 kWh LFP batteries under the seat, removable by hand. Instead of charging, you exchange a flat pack for a full one at a V-Green battery-swap cabinet. VinFast installed the first 4,500 stations by January 2026 and plans 45,000 cabinets across 34 provinces and cities by Q1 2026 — a network it says would be roughly 1.5 times the number of fuel stations. A swap costs 9,000 VND per battery. Crucially, you do not have to own the batteries at all: VinFast rents them at 175,000 VND per month for one or 300,000 VND for two, maintenance and degradation on them being the operator's problem.
 
 ## How home charging works
 

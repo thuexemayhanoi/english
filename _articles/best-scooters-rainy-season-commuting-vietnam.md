@@ -24,8 +24,7 @@ Hanoi's rainy season turns painted lines, bridge decks and junction arrows into 
 
 ## Braking: the verified wet-weather ranking
 
-Dual-channel ABS: Honda SH160i (with HSTC traction control on Sport, Special and Premium versions) and Yamaha NMAX 155 (with traction control). Front-wheel ABS: Yamaha NVX 155, Yamaha Lexi 155, Honda Vario 160, Honda SH Mode 125 (Sport, Special and Premium versions), Honda Lead 125 (ABS version), Yamaha FreeGo 125 (ABS S version). Combined braking (CBS/UBS) without ABS: Honda Vario 125, Yamaha Gear 125 Hybrid. See our ABS guide and TCS vs ABS explainer for exactly what each does in the wet - the short version: ABS keeps you steering under panic braking, traction control 
-keeps the rear from spinning on wet paint.
+Dual-channel ABS: Honda SH160i (with HSTC traction control on Sport, Special and Premium versions) and Yamaha NMAX 155 (with traction control). Front-wheel ABS: Yamaha NVX 155, Yamaha Lexi 155, Honda Vario 160, Honda SH Mode 125 (Sport, Special and Premium versions), Honda Lead 125 (ABS version), Yamaha FreeGo 125 (ABS S version). Combined braking (CBS/UBS) without ABS: Honda Vario 125, Yamaha Gear 125 Hybrid. See our ABS guide and TCS vs ABS explainer for exactly what each does in the wet - the short version: ABS keeps you steering under panic braking, traction control keeps the rear from spinning on wet paint.
 
 ## Tyres matter as much as electronics
 
