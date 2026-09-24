@@ -1,0 +1,14 @@
+{
+  "csvMerge": {
+    "target": "docs/matrix/master-matrix.csv",
+    "expectBefore": 913,
+    "rowsFiles": [
+      {
+        "file": "docs/matrix/batch-24-rows.csv",
+        "expectRows": 23
+      }
+    ],
+    "expectAfter": 936
+  },
+  "note": "Batch-24 docs-sync: merge the 23 validated cluster-13 rows (MM-0848-MM-0870, Status=published) into master-matrix.csv (913 -> 936) and append the finalization record to docs/matrix/batch-24-status.md. master-matrix.csv is headerless (line 0 is the MM-0001 data row)."
+}
