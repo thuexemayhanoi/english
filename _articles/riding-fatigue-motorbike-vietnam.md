@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "hot-weather-riding-motorbike-vietnam, best-motorbike-for-long-distance-vietnam, night-riding-motorbike-safety-vietnam, riding-motorbike-heavy-rain-vietnam", how-far-motorbike-day-trip-hanoi
+internal_link_targets: "hot-weather-riding-motorbike-vietnam, best-motorbike-for-long-distance-vietnam, night-riding-motorbike-safety-vietnam, riding-motorbike-heavy-rain-vietnam, how-far-motorbike-day-trip-hanoi"
 ---
 Fatigue kills long rides quietly: not with a dramatic mistake, but with a hundred small ones — a late brake, a missed gravel patch, a corner entered five km/h too fast. By the time you notice you are tired, you have been impaired for an hour.
 
@@ -31,7 +31,8 @@ The classic mistake is planning a long-distance day on Vietnamese roads by the m
 
 ## The rest discipline that works
 
-Stop before you feel tired: roughly every 90 minutes, even for five minutes off the bike. Drink at every
+Stop before you feel tired: roughly every 90 minutes, even for five mi
+nutes off the bike. Drink at every
  stop. Do not skip lunch to make time — the afternoon dip after skipping a meal is a real phenomenon on a bike. Alternate riding time with your pillion if both ride.
 
 ## The worst windows

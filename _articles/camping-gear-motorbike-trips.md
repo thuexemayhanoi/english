@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "carrying-luggage-motorbike-safely-vietnam, best-motorbike-for-day-trips-from-hanoi, servicing-before-long-trip-motorbike, what-to-carry-riding-motorbike-vietnam", motorbike-trip-prep-checklist-hanoi, overnight-stays-motorbike-trips-vietnam
+internal_link_targets: "carrying-luggage-motorbike-safely-vietnam, best-motorbike-for-day-trips-from-hanoi, servicing-before-long-trip-motorbike, what-to-carry-riding-motorbike-vietnam, motorbike-trip-prep-checklist-hanoi, overnight-stays-motorbike-trips-vietnam"
 ---
 
 A motorbike is the best way to reach Vietnam’s quiet places, and the worst vehicle to carry a campsite on. Done properly, a two-wheeled camping trip is the classic Vietnamese adventure; done badly, it is a bike that will not turn because the tent is strapped to the forks.
@@ -27,7 +27,8 @@ Camping gear is bulky, not heavy — the enemy is volume. Build the kit around s
 
 ## The packing system
 
-Everything in dry bags (rain is the plan, not the exception), dry bags inside a rear rack or top box, with the tent and poles under a cargo net. Keep the daily-needed items reachable: rain suit, water, tools in their own small bag. Sleeping mats strap on last because they are light and bulky — they can ride on top under the net. Nothing hangs off the sides wider than your handlebars; Hanoi’s lane gaps do
+Everything in dry bags (rain is the plan, not the exception), dry bags inside a rear rack or top box, with the tent and poles under a cargo net. Keep the daily-needed items reachable: rain suit, water, tools in their own small bag. Sleeping mats strap on last because they are light and bulky — they can ride on top under the net
+. Nothing hangs off the sides wider than your handlebars; Hanoi’s lane gaps do
  not widen for tourists.
 
 ## Fuel, water, and the plan
