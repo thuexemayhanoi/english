@@ -1,0 +1,127 @@
+name: Weekly Maintenance
+
+# AUTOMATED MAINTENANCE MODE — production plan is COMPLETE (981 published
+# articles, all 14 clusters). This workflow NEVER creates articles, expands the
+# matrix, or rewrites substantive content. It audits, reports, escalates, and
+# applies only deterministic low-risk fixes behind a verification gate.
+
+on:
+  schedule:
+    # Every Monday 02:30 UTC.
+    # Asia/Ho_Chi_Minh is UTC+7 year-round (no DST), so this is
+    # Monday 09:30 local Hanoi time — after opening hours start, before midday.
+    - cron: '30 2 * * 1'
+  workflow_dispatch:
+
+# Never allow two maintenance runs to overlap; queue instead of cancelling.
+concurrency:
+  group: weekly-maintenance
+  cancel-in-progress: false
+
+# Minimum permissions; jobs escalate only what they need.
+permissions:
+  contents: read
+
+jobs:
+  maintenance:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write # escalate findings to the single tracking issue
+    outputs:
+      result: ${{ steps.result.outputs.result }}
+      fixes: ${{ steps.result.outputs.fixes }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Build site with Jekyll (GitHub Pages toolchain)
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - name: Run maintenance audit (existing QA toolkit + baseline + rendered-site + assistant tests)
+        id: audit
+        run: node scripts/maintenance.js
+      - name: Collect result
+        id: result
+        if: always()
+        run: |
+          echo "result=$(jq -r .result reports/maintenance.json)" >> "$GITHUB_OUTPUT"
+          echo "fixes=$(jq -r 'if (.safeFixesAvailable | length) > 0 then "true" else "false" end' reports/maintenance.json)" >> "$GITHUB_OUTPUT"
+          cat reports/maintenance-latest.md
+      - name: Upload maintenance report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: maintenance-report
+          path: reports/
+          retention-days: 90
+      - name: Escalate findings to GitHub issue (deduplicated, silent when clean)
+        if: always()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/maintenance-escalate.js issue
+
+  safe-fixes:
+    needs: maintenance
+    # Only the deterministic fixes flagged by the audit; the repaired state must
+    # pass the COMPLETE gate below before anything is pushed or merged.
+    if: needs.maintenance.outputs.fixes == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # push the maintenance branch
+      pull-requests: write # open (and attempt to merge) the maintenance PR
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Apply deterministic safe fixes on a dedicated maintenance branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          BR="maintenance/auto-fix-${GITHUB_SHA::7}"
+          git checkout -b "$BR"
+          echo "branch=$BR" >> "$GITHUB_ENV"
+          # Exit 1 here reflects the PRE-fix state (the audit phase of this run);
+          # the repaired state is verified by the re-audit step below.
+          node scripts/maintenance.js --fix || true
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "fixed=0" >> "$GITHUB_ENV"
+            echo "no changes produced — nothing to verify or push"
+          else
+            git add -A
+            git commit -m "Automated maintenance: deterministic safe fixes (weekly run)"
+            echo "fixed=1" >> "$GITHUB_ENV"
+          fi
+      - name: Build repaired site with Jekyll (GitHub Pages toolchain)
+        if: env.fixed == '1'
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - name: Re-audit repaired state (complete gate: all validators, rendered-site audit, assistant tests, baseline inventory)
+        if: env.fixed == '1'
+        run: |
+          node scripts/maintenance.js
+          RESULT=$(jq -r .result reports/maintenance.json)
+          COUNT=$(jq -r .articleCount reports/maintenance.json)
+          if [ "$COUNT" != "981" ]; then
+            echo "article count changed ($COUNT) — refusing to push"; exit 1
+          fi
+          if [ "$RESULT" = "FAIL" ]; then
+            echo "repaired state still has blocking findings — refusing to push"; exit 1
+          fi
+          echo "repaired state passed (result: $RESULT, articles: $COUNT)"
+      - name: Push maintenance branch and open PR (attempt auto squash-merge)
+        if: env.fixed == '1'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git push origin "$BRANCH"
+          FILES=$(git diff --name-only "origin/main...$BRANCH" | tr '\n' ' ')
+          node scripts/maintenance-escalate.js pr "$BRANCH" $FILES
