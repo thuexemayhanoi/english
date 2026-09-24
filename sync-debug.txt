@@ -1,1 +1,6 @@
-FATAL: docs/matrix/batch-24-rows.csv holds 30 physical lines (expected 24 incl. header)
+rows file validated: 23 rows (MM-0848..MM-0870), 16 fields, Status=published, clean slugs
+CSV structure: totalLines=926 idRows=913 firstId=MM-0001 lastId=MM-0847
+appended 23 batch-24 rows
+master-matrix.csv written: 913 -> 936 ID rows
+batch-24-status.md finalization record appended
+OK: master-matrix.csv holds 936 ID rows; batch-24 docs state complete
