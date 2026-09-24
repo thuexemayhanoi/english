@@ -28,8 +28,7 @@ Train stations, markets, shopping malls, hospitals, parks, and larger restaurant
 
 ## Sidewalk parking: read the signals
 
-Parking on the sidewalk is tolerated on most residential and shop streets, but not everywhere. Indicators that parking is acceptable: motorbikes already parked in neat rows, a painted outline on the pavement, or an attendant collecting money. Indicators that it is not: red-and-white curbs, no-stopping signs, rows of bollards, storefronts with clear space in fro
-nt, or a street that has clearly been swept of parked bikes. Where in doubt,
+Parking on the sidewalk is tolerated on most residential and shop streets, but not everywhere. Indicators that parking is acceptable: motorbikes already parked in neat rows, a painted outline on the pavement, or an attendant collecting money. Indicators that it is not: red-and-white curbs, no-stopping signs, rows of bollards, storefronts with clear space in front, or a street that has clearly been swept of parked bikes. Where in doubt,
  use the nearest paid lot.
 
 Riding on the sidewalk is a different matter from parking on it — riding to reach a parking spot a few metres in is one thing, using the sidewalk to bypass traffic is a fined violation. See riding-on-sidewalk-vietnam for the legal line.

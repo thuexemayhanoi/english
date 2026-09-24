@@ -27,9 +27,7 @@ Yen So Park is the biggest single piece of green in Hanoi's inner orbit — arou
 
 ## The route
 
-The park sits about 10 km south of the centre. The published location anchors are the expressway intersection and the former Hoang Mai district — in practice, ride the southern arterial corridors (the Phap Van direction) and follow park signage 
-a
-s you approach the Gamuda Gardens area. The ride out is wide-arterial work: divided roads, buses, long junctions. It is the same style as the ring-road guide describes — predictable but fast, so run lights and hold a steady line.
+The park sits about 10 km south of the centre. The published location anchors are the expressway intersection and the former Hoang Mai district — in practice, ride the southern arterial corridors (the Phap Van direction) and follow park signage as you approach the Gamuda Gardens area. The ride out is wide-arterial work: divided roads, buses, long junctions. It is the same style as the ring-road guide describes — predictable but fast, so run lights and hold a steady line.
 
 ## What the park offers
 

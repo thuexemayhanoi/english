@@ -30,8 +30,7 @@ An engine's valves open and close to let fuel-air in and exhaust out. When to op
 
 Yamaha Vietnam lists the Exciter 155 VVA engine as: 155 cc, four-stroke, single cylinder, four-valve, SOHC, liquid-cooled, VVA and EFI - producing 13.2 kW (17.9 PS) at 9,500 rpm and 14.4 Nm at 8,000 rpm, with a claimed 2.07 L/100 km.
 
-Read those numbers together: a high-strung
- 9,500 rpm power peak usually means a weak bottom end, and a claimed 2.07 L/100 km is remarkably frugal for 13.2 kW. That combination is the practical evidence of VVA - the engine can be tuned for top-end power without sacrificing low-rev flexibility and economy the way a fixed-valve engine would.
+Read those numbers together: a high-strung 9,500 rpm power peak usually means a weak bottom end, and a claimed 2.07 L/100 km is remarkably frugal for 13.2 kW. That combination is the practical evidence of VVA - the engine can be tuned for top-end power without sacrificing low-rev flexibility and economy the way a fixed-valve engine would.
 
 ## Why it matters to a Vietnamese rider
 

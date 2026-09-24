@@ -27,8 +27,7 @@ Every city with a great water loop eventually becomes known by it. Hanoi's is th
 
 Start anywhere on the loop — the Thanh Nien causeway is the classic start. From the causeway between Truc Bach and West Lake, ride north along the western shore: the road passes the tranquil Thanh Quang street stretch, the Tran Quoc pagoda side (the oldest pagoda in the city, on a small island at the southeast corner) and swings up Au Co, past flower-markets and boat ramps. The northern shore is the quiet side — fish farms, willows and long straights. Turning south along Xuan Dieu and To Ngoc Van, you enter the expat quarter: cafes, bakeries and the weekend crowd. The eastern shore along Thanh Nien and the southern stretch past the Sheraton round off the loop.
 
-Dir
-ection matters less than timing: the loop is short enough that most riders do it in 40–60 minutes of actual riding, with as many stops as the afternoon allows.
+Direction matters less than timing: the loop is short enough that most riders do it in 40–60 minutes of actual riding, with as many stops as the afternoon allows.
 
 ## When to ride it
 
@@ -47,5 +46,4 @@ Tran Quoc pagoda (southeast), the flower market end of Au Co (north), any pier w
 
 ## Extending the ride
 
-The loop connects naturally to the rest of the city: the south-east corner hands you to Ba Dinh's museum quarter, the western edge can drop you into Cau Giay's mall land, and a detour via the Hoang Hoa Tham corridor takes you to the President Ho Chi Minh complex. For visitors, it is the first hour of the classic self-guided city tour — and for residents, the ride that makes a 
-hard week dissolve.
+The loop connects naturally to the rest of the city: the south-east corner hands you to Ba Dinh's museum quarter, the western edge can drop you into Cau Giay's mall land, and a detour via the Hoang Hoa Tham corridor takes you to the President Ho Chi Minh complex. For visitors, it is the first hour of the classic self-guided city tour — and for residents, the ride that makes a hard week dissolve.

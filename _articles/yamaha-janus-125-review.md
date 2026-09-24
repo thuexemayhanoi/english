@@ -30,8 +30,7 @@ A Blue Core 124.9 cc single-cylinder four-stroke engine with automatic CVT and a
 
 ## Size and handling
 
-Kerb weight 97 kg - tied with the Vision as the lightest in our comparison group and covered in our guide to light motorbikes for new riders. Seat height 770 mm, dimensions 1,850 x 
-705 x 1,120 mm, wheelbase 1,260 mm, ground clearance 135 mm. Yamaha fits tubeless tyres (80/80-14 front, 100/70-14 rear - narrower rubber explained in our scooter tyre sizes guide), a hydraulic front disc with rear drum brake, and a 15.3-litre underseat bay plus a USB charging port on current versions. Warranty is listed at 3 years or 30,000 km.
+Kerb weight 97 kg - tied with the Vision as the lightest in our comparison group and covered in our guide to light motorbikes for new riders. Seat height 770 mm, dimensions 1,850 x 705 x 1,120 mm, wheelbase 1,260 mm, ground clearance 135 mm. Yamaha fits tubeless tyres (80/80-14 front, 100/70-14 rear - narrower rubber explained in our scooter tyre sizes guide), a hydraulic front disc with rear drum brake, and a 15.3-litre underseat bay plus a USB charging port on current versions. Warranty is listed at 3 years or 30,000 km.
 
 ## Who it suits
 

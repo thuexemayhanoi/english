@@ -33,8 +33,7 @@ For VinFast's swap-ready models (Evo, Feliz II, Viper), V-Green cabinets exchang
 
 ## 3. Fast-charging stations
 
-Dat Bike riders
- use the Dat Charge network: the Weaver++ claims 100 km of range from a 20-minute session, aimed at long trips and rescue charges rather than daily needs. Locate stations in the Dat Bike app before you need one.
+Dat Bike riders use the Dat Charge network: the Weaver++ claims 100 km of range from a 20-minute session, aimed at long trips and rescue charges rather than daily needs. Locate stations in the Dat Bike app before you need one.
 
 ## 4. Everything else
 

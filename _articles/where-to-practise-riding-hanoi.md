@@ -36,8 +36,7 @@ Early Sunday mornings offer the calmest streets of the week anywhere in the city
 
 ## A graduated plan
 
-1. **Hour 1:** empty practice spo
-t — the drills in our first-hour checklist.
+1. **Hour 1:** empty practice spot — the drills in our first-hour checklist.
 2. **Hour 2-4:** quiet residential streets at quiet hours, simple loops with a few turns and one junction.
 3. **Next:** a straight arterial street with flow but no merges, at off-peak.
 4. **Then:** bridges and the Old Quarter last — the narrow-street guide and the Hanoi bridges guide cover the two genuinely tricky environments.

@@ -31,9 +31,7 @@ Winter drizzle leaves a film of water and road grime everywhere: braking distanc
 
 ## Low light, low visibility
 
-Winter Hanoi is grey, and the damp air plus early darkness shrink visibility for everyone. Lights on all day — the law requires worki
-ng lights after dark, per mo
-torbike-night-lights-vietnam — and assume the grey mass around you hides unlit bikes. Drizzle thickening into fog has its own article: fog-and-low-visibility-riding-motorbike-vietnam.
+Winter Hanoi is grey, and the damp air plus early darkness shrink visibility for everyone. Lights on all day — the law requires working lights after dark, per motorbike-night-lights-vietnam — and assume the grey mass around you hides unlit bikes. Drizzle thickening into fog has its own article: fog-and-low-visibility-riding-motorbike-vietnam.
 
 ## Bike care
 

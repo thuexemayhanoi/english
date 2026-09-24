@@ -33,8 +33,7 @@ The IP code on your bike defines what water it is built for. Dat Bike's Weaver 2
 - **Avoid the charging port and keyholes** directly; wipe around them.
 - **Battery out where possible.** Washing with the bay empty is the cleanest option on removable-pack models.
 - **Mild soap, soft cloth** for the display and plastics; brake discs want degreaser-free cleaning so pads keep biting.
-- **Dry the connectors** be
-fore reinserting any battery or cap.
+- **Dry the connectors** before reinserting any battery or cap.
 
 ## The one hard rule
 

@@ -30,8 +30,7 @@ Xe so bikes shift through numbered gears with your left foot, but there is no cl
 
 Xe con tay adds the clutch lever: Honda Winner R, Honda CBR150R and Yamaha Exciter 155 VVA (six-speed with Assist and Slipper clutch) are the class leaders. More control, more skill required, and - per our comparisons - more fuel.
 
-## Why the split
- matters
+## Why the split matters
 
 Skill: a first-time rider can operate a xe so within minutes; a xe con tay demands clutch coordination in live traffic. Licence classes in Vietnam are tied to engine capacity, not transmission, but riding a clutch bike without clutch experience is unsafe at any licence level - our beginners guide explains the progression. Rental counters mirror this: our price-published rental classes (Wave and Sirius at 150,000 VND/day) are both xe so machines. Contact us to confirm current availability of any model, and if you have never ridden a clutch, rent the xe so first.
 
