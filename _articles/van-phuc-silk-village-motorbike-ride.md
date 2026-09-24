@@ -18,7 +18,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
-  - "https://vietnamdiscovery.com/hanoi/attractions/van-phuc-silk-village/ — Van Phuc silk village on the bank of the Nhue river off Nguyen Trai road near Ha Dong, about 8 km southwest of Hanoi, roughly 30 minutes by motorbike, retrieved 2026-09-24",
+  - "https://vietnamdiscovery.com/hanoi/attractions/van-phuc-silk-village/ — Van Phuc silk village on the bank of the Nhue river off Nguyen Trai road near Ha Dong, about 8 km southwest of Hanoi, roughly 30 minutes by motorbike, retrieved 2026-09-24"
   - "https://vinpearl.com/en/van-phuc-silk-village-the-traditional-beauty-of-a-craft-village-in-hanoi — motorbike routing via Nguyen Trai – Le Van Luong – To Huu, retrieved 2026-09-24"
 internal_link_targets: ha-dong-area-guide-riders, hanoi-motorbike-commute-corridors, traffic-at-rush-hour-riding-hanoi, carrying-luggage-motorbike-safely-vietnam, cargo-nets-bungee-cords-motorbike, where-to-park-motorbike-hanoi, choosing-hanoi-neighbourhood-motorbike-access
 ---
@@ -27,7 +27,8 @@ Van Phuc, the silk-weaving village on the Nhue river just off Nguyen Trai road i
 
 ## The route
 
-The published routing is simple: pick up the Nguyen Trai – Le Van Luong – To Huu corridor heading southwest and follow the signs to Ha Dong. The whole ride is urban-arterial riding — divided road, buses, steady scooter flow — until the last stretch, where you tur
+The published routing is simple: pick up the Nguyen Trai – Le Van Luong – To Huu corridor heading southwest and follow the signs to Ha Dong. The whole ride is urban-arterial riding — divided road, buses, steady scooter flow — until the last stretch, where you tu
+r
 n off Nguyen Trai into the village lanes by the river. Leave the main road early enough to avoid missing the turn: the village sits behind the corridor, not on it.
 
 Timing matters more than the route. Outbound against the morning commuter wave is pleasant before 08:00; the return toward the centre between 17:00 and 19:00 is heavy. Mid-morning and mid-afternoon are the easy windows.

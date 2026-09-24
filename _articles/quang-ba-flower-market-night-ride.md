@@ -18,7 +18,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
-  - "https://vinwonders.com/en/wonderpedia/news/quang-ba-flower-market-hanoi-lost-in-the-brilliant-scenery-at-night/ — Quang Ba flower market hours: wholesale from 20:00 to 06:00, retail from 06:00 to noon, retrieved 2026-09-24",
+  - "https://vinwonders.com/en/wonderpedia/news/quang-ba-flower-market-hanoi-lost-in-the-brilliant-scenery-at-night/ — Quang Ba flower market hours: wholesale from 20:00 to 06:00, retail from 06:00 to noon, retrieved 2026-09-24"
   - "https://www.vietnamonline.com/attraction/quang-ba-flower-market.html — location about 5 km from central Hanoi, reached via the Nghi Tam dyke from Hong Ha street, retrieved 2026-09-24"
 internal_link_targets: west-lake-loop-motorbike-route, night-riding-motorbike-safety-vietnam, tay-ho-west-lake-area-guide-riders, riding-motorbike-noi-bai-airport-hanoi, where-to-park-motorbike-hanoi, carrying-luggage-motorbike-safely-vietnam, hanoi-night-markets-motorbike-guide
 ---
@@ -27,7 +27,8 @@ Quang Ba flower market is Hanoi's wholesale flower trade in the raw: a covered m
 
 ## When to go
 
-The market runs in two phases. Wholesale runs from about 20:00 to 06:00 — the real flower trade, with motorbikes loaded like hay carts, trolleys, shouting and bargaining in full swing. Retail follows from about 06:00 to noon, c
+The market runs in two phases. Wholesale runs from about 20:00 to 06:00 — the real flower trade, with motorbikes loaded like hay carts, trolleys, shouting and bargaining in full swing. Retail follows from about 06:00 to noon, 
+c
 almer, when locals buy single stems and small bunches. For the spectacle, arrive between 21:00 and midnight, or come at dawn to see wholesale fade into retail — the best single hour is roughly 05:30 to 06:30.
 
 ## The route

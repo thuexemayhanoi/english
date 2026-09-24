@@ -18,7 +18,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
-  - "https://huracars.com/hanoi-walking-street/ — Hoan Kiem walking street zone opens 19:00 Friday to 24:00 Sunday, retrieved 2026-09-24",
+  - "https://huracars.com/hanoi-walking-street/ — Hoan Kiem walking street zone opens 19:00 Friday to 24:00 Sunday, retrieved 2026-09-24"
   - "https://www.hanoilocaltour.com/hanoi-walking-streets-guide-map-of-attractions/ — 2026 walking street schedule beginning around 19:00 Friday to midnight Sunday, retrieved 2026-09-24"
 internal_link_targets: exploring-hoan-kiem-by-motorbike, hanoi-night-markets-motorbike-guide, where-to-park-motorbike-hanoi, riding-hanoi-old-quarter-narrow-streets, hanoi-motorbike-photo-spots, traffic-at-rush-hour-riding-hanoi, hanoi-motorbike-traffic-culture-first-timers
 ---
@@ -27,7 +27,8 @@ Every weekend, the streets around Hoan Kiem Lake close to traffic and become Han
 
 ## The schedule
 
-The walking zone opens from about 19:00 on Friday and runs to midnight Sunday — Friday and Saturday evenings are the full-strength version, with the Sunday session winding down toward midnight. Outside those hours the roads are normal riding streets. The schedule occasionally extends for festivals and events; on holiday weekends the z
+The walking zone opens from about 19:00 on Friday and runs to midnight Sunday — Friday and Saturday evenings are the full-strength version, with the Sunday session winding down toward midnight. Outside those hours the roads are normal riding streets. The schedule occasionally extends for festivals and events; on holiday weekends the 
+z
 one starts earlier and the crowds multiply.
 
 ## How to approach

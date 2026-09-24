@@ -18,7 +18,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
-  - "https://www.vietnamairlines.com/at/en/plan-book/travel/travel-guide/cong-vien-yen-so — Yen So Park in Yen So ward (formerly Hoang Mai district) at the Phap Van – Cau Gie expressway intersection, one of the largest parks in Hanoi, retrieved 2026-09-24",
+  - "https://www.vietnamairlines.com/at/en/plan-book/travel/travel-guide/cong-vien-yen-so — Yen So Park in Yen So ward (formerly Hoang Mai district) at the Phap Van – Cau Gie expressway intersection, one of the largest parks in Hanoi, retrieved 2026-09-24"
   - "https://tatinta.com/en/diem-den/cong-vien-yen-so/2697 — Yen So Park total area around 323 hectares, roughly 10 km from the city centre, retrieved 2026-09-24"
 internal_link_targets: hoang-mai-area-guide-riders, hanoi-weekend-parks-motorbike-outings, hanoi-ring-roads-motorbike-guide, child-passengers-motorbike-vietnam, where-to-park-motorbike-hanoi, hanoi-riding-seasons-guide, best-motorbike-for-day-trips-from-hanoi
 ---
@@ -27,7 +27,8 @@ Yen So Park is the biggest single piece of green in Hanoi's inner orbit — arou
 
 ## The route
 
-The park sits about 10 km south of the centre. The published location anchors are the expressway intersection and the former Hoang Mai district — in practice, ride the southern arterial corridors (the Phap Van direction) and follow park signage a
+The park sits about 10 km south of the centre. The published location anchors are the expressway intersection and the former Hoang Mai district — in practice, ride the southern arterial corridors (the Phap Van direction) and follow park signage 
+a
 s you approach the Gamuda Gardens area. The ride out is wide-arterial work: divided roads, buses, long junctions. It is the same style as the ring-road guide describes — predictable but fast, so run lights and hold a steady line.
 
 ## What the park offers

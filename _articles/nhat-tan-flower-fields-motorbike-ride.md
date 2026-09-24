@@ -18,7 +18,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
-  - "https://www.vietnam.vn/en/nhat-tan-mua-hoa-dao-no — Nhat Tan peach blossom season arrives with the winter monsoon chill ahead of Tet, gardens along the Red River, retrieved 2026-09-24",
+  - "https://www.vietnam.vn/en/nhat-tan-mua-hoa-dao-no — Nhat Tan peach blossom season arrives with the winter monsoon chill ahead of Tet, gardens along the Red River, retrieved 2026-09-24"
   - "https://www.myhanoitours.com/nhat-tan-flower-village/ — Nhat Tan flower village on the edge of West Lake, grown for Tet peach blossom and other flowers, retrieved 2026-09-24"
 internal_link_targets: west-lake-loop-motorbike-route, tay-ho-west-lake-area-guide-riders, red-river-dyke-riding-guide, crossing-hanoi-bridges-motorbike, hanoi-riding-seasons-guide, where-to-park-motorbike-hanoi, quang-ba-flower-market-night-ride
 ---
@@ -27,7 +27,8 @@ Nhat Tan is Hanoi's peach-blossom village: the riverside gardens where much of t
 
 ## When to go
 
-The season runs with the Tet calendar, not the solar one. The blossom arrives with the winter monsoon chill — the gardens begin to colour as Hanoi gets cold, in the last lunar month before Tet — and peaks in the days immediately before the festival, when the city buys its trees. After Tet t
+The season runs with the Tet calendar, not the solar one. The blossom arrives with the winter monsoon chill — the gardens begin to colour as Hanoi gets cold, in the last lunar month before Tet — and peaks in the days immediately before the festival, when the city buys its trees. After Tet 
+t
 he show is over for the year. Outside the blossom weeks, Nhat Tan is still a working flower village of chrysanthemums and garden flowers, but the peach spectacle is seasonal: check where Tet falls in your travel year, and aim for the two weeks before it.
 
 ## The route
