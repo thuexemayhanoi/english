@@ -1,3 +1,1 @@
-rows file validated: 30 rows (MM-0886..MM-0915), 16 fields, Status=published, clean slugs
-master-matrix.csv 951 -> 981 ID rows (appended 30)
-FATAL: README find-string matches 0 times (expected 1): "- 951 published articles: cluster 13 (motorbike trips from Hanoi) is COMPLETE — 23 article..."
+Batch-26 docs-sync diagnostics: superseded 2026-09-24. Root causes fixed in the same commit: (1) apply-batch-26-docs.js toTolerant escaped metacharacters incorrectly so README find-strings matched 0 times; (2) _articles/motorbike-parking-vietnamese-cities.md had an internal_link_targets entry referencing a missing slug (motorbike-parking-hanoi-overnight-security), which failed the Quality Gate internal-link audit. The master-matrix.csv merge (951 -> 981) from the earlier partial run is preserved and the retry is idempotent.

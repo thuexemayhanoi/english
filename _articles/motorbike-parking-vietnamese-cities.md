@@ -20,7 +20,7 @@ sources:
   - "https://rentabikevn.com/the-most-common-places-to-park-a-motorbike-in-vietnam/ — the most common parking places: guarded lots monitored by security staff at commercial buildings, malls and public areas, retrieved 2026-09-24"
   - "https://theextramile.co/motorbike-theft-prevention/ — guarded lots with tickets assume facility responsibility for theft; round-the-clock monitoring, retrieved 2026-09-24"
   - "https://janmotorbike.com/how-to-park-motorbike-in-vietnam/ — parking practice and illegal-parking fines of 100,000-200,000 VND, retrieved 2026-09-24"
-internal_link_targets: hotel-parking-motorbike-hanoi, home-parking-overnight-security, helmet-locks-theft-vietnam, theft-loss-responsibility-rental-motorbike-hanoi, motorbike-parking-hanoi-overnight-security
+internal_link_targets: hotel-parking-motorbike-hanoi, home-parking-overnight-security, helmet-locks-theft-vietnam, theft-loss-responsibility-rental-motorbike-hanoi, overnight-stays-motorbike-trips-vietnam
 ---
 
 Vietnam runs on motorbikes, so Vietnam has evolved a motorbike parking system that is invisible until you know it — then you see it everywhere: the kerbside woman with a stack of tickets, the neon "GIỮ XE" sign at the mouth of an alley, the man arranging bikes in front of a shop like books on a shelf. Parking is cheap, nearly universal, and slightly formal. Here is how it works in every city from Hanoi to Saigon.

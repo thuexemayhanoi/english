@@ -1,0 +1,4 @@
+{
+  "note": "Batch-26 docs-sync retry trigger: apply-batch-26-docs.js repaired (toTolerant escaping fix, idempotent CSV merge) and broken internal_link_targets fixed in motorbike-parking-vietnamese-cities. Payload batch-26-docs-sync.json unchanged; this file only retriggers the Docs Sync workflow.",
+  "recorded": "2026-09-24"
+}

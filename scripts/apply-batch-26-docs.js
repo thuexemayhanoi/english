@@ -1,9 +1,15 @@
+#!/usr/bin/env node
 'use strict';
-// Batch-26 docs sync: merge docs/matrix/batch-26-rows.csv into docs/matrix/master-matrix.csv,
-// apply strictly-validated README.md and docs/MASTER-MATRIX.md state updates from the JSON
-// payload, optionally insert the Batch-26 DEPLOYMENT STATE bullet (payload.deployBullet) and
-// append the finalization record to docs/matrix/batch-26-status.md.
+// Batch-26 docs sync (v2, repaired 2026-09-24): merge docs/matrix/batch-26-rows.csv into
+// docs/matrix/master-matrix.csv (idempotent: rows already merged are skipped), apply
+// strictly-validated README.md and docs/MASTER-MATRIX.md state updates from the JSON
+// payload, optionally insert the Batch-26 DEPLOYMENT STATE bullet (payload.deployBullet)
+// and append the finalization record to docs/matrix/batch-26-status.md.
 // master-matrix.csv is a headerless ID-row list (line 0 is the MM-0001 data row).
+// v2 repair: the v1 toTolerant escaped metacharacters with a replacement that produced a
+// literal ampersand instead of the matched character, so every find-string containing
+// regex metacharacters matched 0 times and the run aborted. v2 also makes the CSV merge
+// idempotent so a retry after a partial run does not fail on expectBefore.
 const fs = require('fs');
 const NL = String.fromCharCode(10);
 const diag = [];
@@ -34,7 +40,20 @@ function isIdRow(l) {
          (l.indexOf('LAW-') === 0 && l.length > 8 && l[8] === ',');
 }
 function toTolerant(s) {
-  return s.replace(/[.*+?^${()|[\]\\]/g, '\\&').replace(/ /g, '\\s+').replace(/-/g, '[\\u2014\\-]');
+  // Escape regex metacharacters, treat runs of spaces as flexible whitespace, and let
+  // hyphens match either ASCII hyphen or em dash. (v1 had a broken replacement string
+  // here - see header comment.)
+  let out = '';
+  const BS = String.fromCharCode(92);
+  const DS = String.fromCharCode(36);
+  const meta = '.*+?^{}()|[]' + BS + BS + DS;
+  for (const ch of s) {
+    if (meta.includes(ch)) out += BS + ch;
+    else if (ch === ' ') out += BS + 's+';
+    else if (ch === '-') out += '[' + BS + 'u2014' + BS + '-]';
+    else out += ch;
+  }
+  return out;
 }
 function applyPairs(text, pairs, label) {
   for (const p of pairs) {
@@ -47,7 +66,7 @@ function applyPairs(text, pairs, label) {
 }
 const payload = JSON.parse(fs.readFileSync('docs/sync/batch-26-docs-sync.json', 'utf8'));
 
-// 1. CSV merge (skipped when payload.csvMerge is absent — later phases).
+// 1. CSV merge (skipped when payload.csvMerge is absent - later phases).
 let mergedNote = 'csv merge skipped (no csvMerge in payload)';
 if (payload.csvMerge) {
   const merge = payload.csvMerge;
@@ -87,7 +106,10 @@ if (payload.csvMerge) {
   if (masterLines[masterLines.length - 1] === '') masterLines.pop();
   const idRowLines = masterLines.filter(isIdRow);
   const before = idRowLines.length;
-  if (before !== merge.expectBefore) die('master-matrix.csv holds ' + before + ' ID rows (expected ' + merge.expectBefore + ')');
+  const allPresent = newRows.every(line => masterLines.some(l => l.indexOf(line.split(',')[0] + ',') === 0));
+  if (before !== merge.expectBefore && !(before === merge.expectAfter && allPresent)) {
+    die('master-matrix.csv holds ' + before + ' ID rows (expected ' + merge.expectBefore + ' before merge, or ' + merge.expectAfter + ' with all batch-26 rows already present)');
+  }
   let appended = 0;
   for (const line of newRows) {
     const id = line.split(',')[0];
@@ -97,7 +119,9 @@ if (payload.csvMerge) {
   const after = masterLines.filter(isIdRow).length;
   if (after !== merge.expectAfter) die('after merge master-matrix.csv holds ' + after + ' ID rows (expected ' + merge.expectAfter + ')');
   fs.writeFileSync(merge.target, masterLines.join(NL) + NL);
-  mergedNote = 'master-matrix.csv ' + before + ' -> ' + after + ' ID rows (appended ' + appended + ')';
+  mergedNote = appended > 0
+    ? 'master-matrix.csv ' + before + ' -> ' + after + ' ID rows (appended ' + appended + ')'
+    : 'master-matrix.csv already holds ' + after + ' ID rows (idempotent skip)';
   diag.push(mergedNote);
 }
 
@@ -158,5 +182,7 @@ if (statusDoc.indexOf(marker) === -1) {
   diag.push('batch-26-status.md finalization record already present');
 }
 
+// 5. Success: remove stale diagnostics so the repo root stays clean.
+try { if (fs.existsSync('sync-debug.txt')) fs.unlinkSync('sync-debug.txt'); } catch (e) {}
 diag.push('OK: ' + mergedNote);
-console.log('apply-batch-26-docs: OK — ' + mergedNote + '; README + MASTER-MATRIX updated.');
+console.log('apply-batch-26-docs: OK - ' + mergedNote + '; README + MASTER-MATRIX updated.');
