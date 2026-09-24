@@ -18,7 +18,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "monthly-vs-daily-motorbike-rental-hanoi, motorbike-rental-budget-monthly-hanoi, long-term-renting-vs-buying-residents-hanoi, monthly-motorbike-rental-hanoi", hanoi-guided-motorbike-tours-vs-self-riding
+internal_link_targets: monthly-vs-daily-motorbike-rental-hanoi, motorbike-rental-budget-monthly-hanoi, long-term-renting-vs-buying-residents-hanoi, monthly-motorbike-rental-hanoi
 ---
 
 Most long-term visitors weigh two options: ride-hailing apps (Grab, Xanh SM, Be) for every trip, or one monthly rental and your own wheels. Both work — the honest comparison is by trip volume.

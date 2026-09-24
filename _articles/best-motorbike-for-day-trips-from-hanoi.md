@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: best-motorbike-for-long-distance-vietnam, best-motorbike-for-commuting-hanoi, automatic-vs-manual-motorbike-hanoi, rental-motorbike-inspection-checklist, motorbike-speed-limits-vietnam, 50cc-day-trip-range-limits, red-river-islands-motorbike-guide, self-guided-hanoi-motorbike-city-tour
+internal_link_targets: best-motorbike-for-long-distance-vietnam, best-motorbike-for-commuting-hanoi, automatic-vs-manual-motorbike-hanoi, rental-motorbike-inspection-checklist, motorbike-speed-limits-vietnam, 50cc-day-trip-range-limits
 ---
 
 A day trip changes the job description: higher sustained speeds, highway sections, unfamiliar roads and a bike that must not become the story of the day.

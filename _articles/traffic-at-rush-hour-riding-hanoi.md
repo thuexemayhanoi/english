@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "riding-during-tet-traffic-safety, best-motorbike-for-hanoi-traffic, filtering-through-traffic-motorbike-vietnam, defensive-riding-motorbike-vietnam, commuting-by-motorbike-monthly-hanoi", hanoi-motorbike-commute-corridors
+internal_link_targets: riding-during-tet-traffic-safety, best-motorbike-for-hanoi-traffic, filtering-through-traffic-motorbike-vietnam, defensive-riding-motorbike-vietnam, commuting-by-motorbike-monthly-hanoi
 ---
 Hanoi's rush hours are less a time than a state of mind: roughly 06:30–08:30 and 16:30–19:00 on weekdays, the city compresses to a slow, dense river of bikes in which the danger is not speed — it is everyone's patience running out.
 

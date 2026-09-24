@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "where-to-park-motorbike-hanoi, motorbike-fines-vietnam-overview, best-motorbike-for-commuting-hanoi, motorbike-rental-pickup-or-delivery-hanoi, motorbike-required-equipment-vietnam", ba-dinh-area-guide-riders
+internal_link_targets: where-to-park-motorbike-hanoi, motorbike-fines-vietnam-overview, best-motorbike-for-commuting-hanoi, motorbike-rental-pickup-or-delivery-hanoi, motorbike-required-equipment-vietnam
 ---
 
 Ba Dinh is Hanoi's governmental heart — the mausoleum, the museum quarter, embassies and ministries — and it rides differently from any other district: broader boulevards, stricter parking, and the highest concentration of security per square kilometre.

@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "motorbike-rental-pickup-or-delivery-hanoi, how-to-book-a-motorbike-rental-hanoi, motorbike-rental-agreement-hanoi, first-time-renting-a-motorbike-hanoi, best-motorbike-for-hanoi-traffic", riding-motorbike-noi-bai-airport-hanoi
+internal_link_targets: motorbike-rental-pickup-or-delivery-hanoi, how-to-book-a-motorbike-rental-hanoi, motorbike-rental-agreement-hanoi, first-time-renting-a-motorbike-hanoi, best-motorbike-for-hanoi-traffic
 ---
 
 Landing at Noi Bai with a motorbike rental in mind is a good plan with one correction: the rental itself almost always happens in the city, not at the terminal.

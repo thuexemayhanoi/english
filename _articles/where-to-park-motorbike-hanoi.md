@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "riding-on-sidewalk-vietnam, motorbike-fines-vietnam-overview, rental-motorbike-inspection-checklist, stopped-by-traffic-police-vietnam", apartment-living-motorbike-hanoi, exploring-hoan-kiem-by-motorbike
+internal_link_targets: riding-on-sidewalk-vietnam, motorbike-fines-vietnam-overview, rental-motorbike-inspection-checklist, stopped-by-traffic-police-vietnam
 ---
 
 Parking is a bigger daily decision in Hanoi than riding is. The city runs on motorbikes, and every street corner reflects it: paid lots, sidewalk edges, and a clear line between tolerated parking and ticketed parking. Here is how it works.
