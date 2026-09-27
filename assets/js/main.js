@@ -285,4 +285,129 @@
     var cs = document.getElementById('contactSheet');
     if (cs && cs.classList.contains('is-open') && typeof closeSheet === 'function') closeSheet();
   });
+
+  // ============================================================
+  // ARTICLE PAGE ENHANCEMENTS (progressive enhancement; no JS = plain article)
+  // Owned by _layouts/article.html. ~2.5KB.
+  // ============================================================
+
+  // ---- Reading progress bar (transform-only, rAF-throttled) ----
+  var progressBar = document.getElementById('readingProgressBar');
+  var progressWrap = document.getElementById('readingProgress');
+  var progressRaf = null;
+  function updateProgress() {
+    progressRaf = null;
+    var body = document.body;
+    var doc = document.documentElement;
+    var max = (doc.scrollHeight - doc.clientHeight) || 0;
+    var pct = max > 40 ? Math.min(1, Math.max(0, (window.pageYOffset || body.scrollTop) / max)) : 0;
+    progressBar.style.transform = 'scaleX(' + pct.toFixed(4) + ')';
+    if (progressWrap) progressWrap.classList.toggle('is-active', max > 40);
+  }
+  function onScrollProgress() { if (!progressRaf) progressRaf = window.requestAnimationFrame(updateProgress); }
+  if (progressBar && progressWrap && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    window.addEventListener('scroll', onScrollProgress, { passive: true });
+    window.addEventListener('resize', onScrollProgress, { passive: true });
+    updateProgress();
+  }
+
+  // ---- Article TOC: generated from rendered H2/H3 ----
+  var tocNav = document.getElementById('articleToc');
+  var railSlot = document.getElementById('tocRailSlot');
+  var articleBody = document.querySelector('.article-body');
+  if (tocNav && articleBody) {
+    var headings = Array.prototype.slice.call(articleBody.querySelectorAll('h2, h3'));
+    var used = {};
+    function slugify(text) {
+      return ('toc-' + String(text).toLowerCase()
+        .replace(/<[^>]*>/g, '')
+        .replace(/&[a-z]+;/gi, '')
+        .replace(/[^a-z0-9\s-]/g, '')
+        .trim()
+        .replace(/[\s-]+/g, '-')).replace(/^-+|-+$/g, '') || 'toc-section';
+    }
+    var items = [];
+    headings.forEach(function (h) {
+      var text = (h.textContent || '').trim();
+      if (!text) return;
+      if (!h.id) {
+        var base = slugify(text);
+        var id = base; var n = 2;
+        while (used[id]) { id = base + '-' + n; n++; }
+        used[id] = true;
+        h.id = id;
+      } else {
+        used[h.id] = true;
+      }
+      items.push({ el: h, id: h.id, text: text, level: h.tagName.toLowerCase() });
+    });
+
+    if (items.length >= 2) {
+      var head = document.createElement('button');
+      head.type = 'button';
+      head.className = 'article-toc-head';
+      head.setAttribute('aria-expanded', 'false');
+      head.setAttribute('aria-controls', 'articleTocList');
+      head.innerHTML = 'On this page <svg class="icon chev" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path fill="currentColor" d="M12 15.5 5.5 9l1.4-1.4L12 12.7l5.1-5.1L18.5 9 12 15.5z"/></svg>';
+      var list = document.createElement('ul');
+      list.className = 'article-toc-list';
+      list.id = 'articleTocList';
+      items.forEach(function (it) {
+        var li = document.createElement('li');
+        li.className = it.level === 'h3' ? 'toc-h3' : 'toc-h2';
+        var a = document.createElement('a');
+        a.href = '#' + it.id;
+        a.textContent = it.text;
+        li.appendChild(a);
+        list.appendChild(li);
+      });
+      tocNav.appendChild(head);
+      tocNav.appendChild(list);
+      tocNav.removeAttribute('hidden');
+
+      head.addEventListener('click', function () {
+        var open = tocNav.getAttribute('data-open') === 'true';
+        tocNav.setAttribute('data-open', open ? 'false' : 'true');
+        head.setAttribute('aria-expanded', open ? 'false' : 'true');
+      });
+
+      // Desktop: move TOC into the sticky rail; mobile: keep inline (collapsed)
+      var railMq = window.matchMedia('(min-width: 1100px)');
+      function placeToc() {
+        var inRail = tocNav.parentNode === railSlot;
+        if (railMq.matches && !inRail) {
+          railSlot.appendChild(tocNav);
+          tocNav.setAttribute('data-open', 'true');
+          tocNav.setAttribute('data-open-rail', 'true');
+        } else if (!railMq.matches && inRail) {
+          tocNav.removeAttribute('data-open-rail');
+          tocNav.setAttribute('data-open', 'false');
+          head.setAttribute('aria-expanded', 'false');
+          // insert back where it originally sat: before .article-body inside .article-main
+          articleBody.parentNode.insertBefore(tocNav, articleBody);
+        }
+      }
+      placeToc();
+      if (railMq.addEventListener) railMq.addEventListener('change', placeToc);
+
+      // Active section highlight (rAF-throttled scroll)
+      var tocLinks = Array.prototype.slice.call(list.querySelectorAll('a'));
+      var tocRaf = null;
+      function highlightToc() {
+        tocRaf = null;
+        var pos = window.pageYOffset + 120;
+        var current = null;
+        for (var i = 0; i < items.length; i++) {
+          if (items[i].el.getBoundingClientRect().top + window.pageYOffset <= pos) current = items[i].id;
+        }
+        tocLinks.forEach(function (a) {
+          a.classList.toggle('toc-active', a.getAttribute('href') === '#' + current);
+        });
+      }
+      function onScrollToc() { if (!tocRaf) tocRaf = window.requestAnimationFrame(highlightToc); }
+      window.addEventListener('scroll', onScrollToc, { passive: true });
+      highlightToc();
+    }
+  }
+
 })();

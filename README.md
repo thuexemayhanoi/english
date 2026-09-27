@@ -38,7 +38,7 @@ If this README conflicts with actual remote MAIN, inspect MAIN and update the RE
 | _config.yml | Jekyll config. baseurl /english, articles collection permalink /articles/:title/ |
 | _articles/ | Published articles (front matter: title, slug, description, category, tags, content_type, search_intent, topic_cluster, subcluster, date_published, last_reviewed, review_status, sources, internal_link_targets) |
 | _queue/ | Unpublished drafts, excluded from output |
-| _layouts/ | default.html, article.html (BlogPosting schema, review banner, related links), cluster.html (topic hub with count + empty state) |
+| _layouts/ | default.html, article.html (editorial hero with kicker/deck/meta, reading time, side-rail TOC + quick contact, reading progress, sources panel, related-guide cards, BlogPosting schema, review banner), cluster.html (topic hub with count + empty state) |
 | _includes/ | header.html (parent-child dropdown nav + live status pill), footer.html (site-map accordions + social/external links), breadcrumbs.html, contact-cta.html, contact-sheet.html (mobile contact action sheet), guide-assistant.html (static Guide Assistant UI + public business-facts JSON injection) |
 | _data/navigation.yml | Single source of truth for navigation taxonomy: 5 parent groups over the 14 clusters + utility (Search/FAQ/Contact) and legal (Privacy/Terms) links; used by header and footer |
 | topics/<cluster>/index.md | 14 topic hubs: rental, monthly-rental, scooters, motorcycles, manual-clutch, 50cc, electric, maintenance, parts-gear, safety, law-licences, hanoi, trips, vietnam-travel |
@@ -203,6 +203,10 @@ Manual run: Actions tab -> Weekly Maintenance -> Run workflow, or locally: node 
 Baseline updates (scripts/maintenance-baseline.json) are deliberate-only: a weekly run flags count drift as a maintenance finding; it never refreshes the baseline itself.
 
 Future article creation is out of scope for this system. It requires a separate, deliberate workflow based on real GSC/search demand (see SOURCE-MAP.md), not the maintenance system.
+
+# ARTICLE UI OWNERSHIP (layout upgrade 2026-09-27)
+
+The shared article presentation is owned by architecture, not by article files. Global article visual changes MUST be made in _layouts/article.html, the "ARTICLE EDITORIAL UPGRADE" section of assets/css/main.css, and the "ARTICLE PAGE ENHANCEMENTS" section of assets/js/main.js — NEVER by editing the 981 article bodies one by one. Components: editorial hero (category/content-type kicker, deck, published/reviewed dates, Liquid-computed reading time), JS-generated TOC from rendered H2/H3 (kramdown IDs preserved, deterministic toc- prefixed IDs only when missing; inline collapsible on mobile, sticky rail on >=1100px), transform-only reading progress bar (disabled under prefers-reduced-motion), sources panel, related-guide card grid, and rail quick-contact box. Individual articles are edited only when a specific article violates the shared contract.
 
 # NEXT RECOMMENDED STEP
 
