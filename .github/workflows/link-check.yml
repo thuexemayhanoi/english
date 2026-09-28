@@ -1,0 +1,91 @@
+name: Link Check (Lychee)
+
+# Independent link checking with Lychee. No schedule: push/PR/dispatch only.
+# - INTERNAL links: checked against the locally built site (offline, --root-dir
+#   maps the /english baseurl); failures are
+#   deterministic and BLOCKING (they mirror the rendered-site audit rules).
+# - EXTERNAL links: report-only. A flaky external site, timeout or rate limit
+#   must NEVER trigger an automatic article rewrite; the report is uploaded as
+#   an artifact for review.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: link-check
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build site with Jekyll (GitHub Pages toolchain)
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - name: Map built site under /english (baseurl layout)
+        run: |
+          mkdir -p serve
+          ln -s "$PWD/_site" serve/english
+      - name: Lychee — internal links (blocking, deterministic, offline)
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # NOTE: never put --output/--format in args — the action's own inputs
+          # own those flags (entrypoint errors out if both are present).
+          output: reports/lychee-internal.json
+          format: json
+          jobSummary: false
+          fail: true
+          args: >-
+            --no-progress
+            --offline
+            --include-fragments
+            --max-retries 1
+            --timeout 10
+            --root-dir "$PWD/serve"
+            "$PWD/_site"
+      - name: Extract external URLs (source articles + pages)
+        run: |
+          node -e '
+          const fs=require("fs"),path=require("path");
+          const L=require("./scripts/lib");
+          const urls=new Set();
+          for (const a of L.loadArticles()) for (const m of a.raw.matchAll(/https?:\/\/[^\s)"<>]+/g)) urls.add(m[0].replace(/[.,;]+$/,""));
+          for (const p of L.loadPages()) for (const m of p.raw.matchAll(/https?:\/\/[^\s)"<>]+/g)) urls.add(m[0].replace(/[.,;]+$/,""));
+          fs.writeFileSync("external-urls.txt",[...urls].sort().join("\n"));
+          console.log("external URLs:",urls.size);
+          '
+      - name: Lychee — external links (report-only, tolerant of flaky sites)
+        id: external
+        continue-on-error: true
+        uses: lycheeverse/lychee-action@v2
+        with:
+          output: reports/lychee-external.json
+          format: json
+          jobSummary: false
+          fail: true
+          args: >-
+            --no-progress
+            --max-retries 2
+            --retry-wait 10
+            --timeout 20
+            --exclude '^(https://www.linkedin.com|https://twitter.com|x.com)'
+            external-urls.txt
+      - name: Note external result (never auto-rewrites content)
+        if: steps.external.outcome == 'failure'
+        run: |
+          echo "External link check reported failures — see the lychee-external report artifact. Report-only by policy: temporary timeouts/flaky sites must not trigger article rewrites."
+      - name: Upload link reports artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lychee-reports
+          path: reports/lychee-*.json
+          retention-days: 30

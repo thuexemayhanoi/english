@@ -142,6 +142,11 @@ QA tooling in scripts/ (plain Node.js, zero dependencies). Build-time only; GitH
 - scripts/build-report.js — runs all, writes reports/quality-latest.md
 - scripts/maintenance.js — weekly maintenance orchestrator (audit + deterministic safe fixes; see AUTOMATED MAINTENANCE MODE)
 - scripts/maintenance-escalate.js — workflow helper: deduplicated findings issue + safe-fix PR/auto-merge
+- scripts/seo-score.js — per-category SEO scoring from the tool reports (reports/seo/score.json); any P0/P1 sets status INVALIDATED_BY_DEFECTS so a high score can never hide a defect
+- scripts/fix-matrix.js — root-cause-deduplicated Fix Matrix of all findings with safe-auto-fix classification (reports/seo/fix-matrix.json + .md)
+- scripts/seo-regression.js + scripts/seo-baseline.json — SEO regression guard over stable metrics (article count, sitemap URL count, canonical/broken-link/orphan/schema/duplicate/noindex errors); baseline update is deliberate-only and REFUSES while P0/P1 defects exist
+- scripts/seo-engine-test.js — fixture-based engine test suite (temp copies only; production inventory never mutated)
+- scripts/representative-pages.js — deterministic representative page classes (homepage, listing, hub, short/long/table/sources/REVIEW_REQUIRED/related-guides article) for Lighthouse CI
 
 Blocking rule is centralized in scripts/lib.js (isBlocking): all P0 blocks, and P1 blocks only for clearly structural/correctness findings (duplicate slug, YAML failure, missing required fields, unknown topic_cluster, legal VERIFIED without primary legal sources, invalid dates, broken internal links, missing link targets, missing hubs, doubled /english/english paths, duplicate canonicals, noindex/sitemap integrity, invalid JSON-LD, broken breadcrumbs). Ordinary P2/P3 never block.
 
@@ -203,6 +208,19 @@ Manual run: Actions tab -> Weekly Maintenance -> Run workflow, or locally: node 
 Baseline updates (scripts/maintenance-baseline.json) are deliberate-only: a weekly run flags count drift as a maintenance finding; it never refreshes the baseline itself.
 
 Future article creation is out of scope for this system. It requires a separate, deliberate workflow based on real GSC/search demand (see SOURCE-MAP.md), not the maintenance system.
+
+# SELF-OPTIMIZING SEO SYSTEM (2026-09-28)
+
+The maintenance architecture was extended with a deterministic self-auditing layer. One coherent system — no parallel competing engines. All new components consume the existing QA tool reports and integrate into scripts/maintenance.js and the Quality Gate.
+
+- SEO Engine: scripts/seo-audit.js + rendered-site-audit.js (source + built-site truth) extended by seo-score.js (category scores: technical, crawl/indexability, canonical/sitemap, internal linking, structured data, on-page structure; any blocking P0/P1 invalidates the overall score) and fix-matrix.js (machine-readable, root-cause-deduplicated Fix Matrix with safe-to-auto-fix classification at reports/seo/fix-matrix.json + .md).
+- Regression Guard: scripts/seo-regression.js against scripts/seo-baseline.json (stable metrics only). Baseline accepted 2026-09-28 AFTER the article-layout upgrade was verified live (Pages green, Quality Gate green, no P0/P1, 981 inventory intact); the stale pre-layout state was not preserved blindly. Baseline update is deliberate-only (--update-baseline --reason) and impossible while P0/P1 defects exist — a defect can never be baselined to go green.
+- Safe Auto-Fix: unchanged policy, now visible in the Fix Matrix (AUTO_FIXABLE vs REVIEW_REQUIRED). Only deterministic, low-risk repairs (unambiguous slug normalisation, stale README current-state counts, generated report refreshes). Article prose, titles, meta descriptions, legal/business facts, prices and anything ambiguous are NEVER auto-fixed.
+- PR Verifier: unchanged — safe fixes ride the maintenance/auto-fix branch, full re-audit of the repaired tree, one deduplicated PR, squash merge only when the gate passes.
+- Lighthouse CI (.github/workflows/lighthouse.yml): builds the exact PR tree with the Pages Jekyll toolchain and audits the deterministic representative page set (scripts/representative-pages.js — no hardcoded fragile URLs). Modest error floors so tiny fluctuations do not fail; real regressions below the floor do. Lighthouse never rewrites content.
+- Link Check (.github/workflows/link-check.yml): Lychee. Internal links are checked against the locally served built site and are deterministic/blocking; external links are report-only — a flaky external site or timeout must never trigger an article rewrite.
+- CodeQL (.github/workflows/codeql.yml): code scanning for repository code only (maintenance/SEO/site/assistant JS). Not a content-quality tool.
+- Engine tests (scripts/seo-engine-test.js, run in the Quality Gate): 29 fixture-based assertions covering audit detection (bad canonical path, broken link, noindex, duplicate metadata, orphan, sitemap gap), safe-fix policy (deterministic repair, ambiguous NOT fixed, business facts and prose untouched), regression guard (regression detected, equal/improvement pass, live P0/P1 cannot be baseline-suppressed) and Fix Matrix dedup/severity mapping. All tests run in os.tmpdir() copies; the 981-article inventory is never touched.
 
 # ARTICLE UI OWNERSHIP (layout upgrade 2026-09-27)
 
