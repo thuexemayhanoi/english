@@ -22,7 +22,7 @@ const known = new Set(all.map(x => x.url).concat(L.CLUSTERS.map(c => '/topics/' 
 
 for (const x of all) {
   const { fm, url, file } = x;
-  const skipIndex = file === '404.html' || file === 'README.md'; // excluded from Jekyll output
+  const skipIndex = file === '404.html' || file === 'README.md' || file === 'AGENTS.md'; // excluded from Jekyll output (repo docs)
   if (skipIndex) continue;
 
   // Title

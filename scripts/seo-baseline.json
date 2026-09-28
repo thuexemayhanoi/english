@@ -1,0 +1,18 @@
+{
+  "generated": "2026-09-28",
+  "updatedReason": "Accepted baseline re-established after the 2026-09-27 article-layout upgrade (commit 9b0cf76): Pages deployment green, Quality Gate green, no P0/P1 findings, 981-article inventory intact, representative pages render (hero/TOC/progress/sources/related/CTA live). Metrics reflect the post-upgrade accepted state; a stale pre-layout performance state was NOT preserved blindly.",
+  "previousUpdate": null,
+  "acceptanceCriteria": "Baseline accepted only when: current layout intentional, Pages green, Quality Gate green, no P0/P1 regression, representative pages render, article inventory intact.",
+  "metrics": {
+    "articleCount": 981,
+    "sitemapUrlCount": 1003,
+    "canonicalErrors": 0,
+    "brokenInternalLinks": 0,
+    "orphans": 0,
+    "schemaErrors": 0,
+    "duplicateTitles": 16,
+    "duplicateMeta": 0,
+    "unexpectedNoindex": 0,
+    "reviewRequiredCount": 4
+  }
+}

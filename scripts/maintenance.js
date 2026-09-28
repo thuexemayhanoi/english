@@ -86,6 +86,26 @@ const atm = atOut.match(/(\d+) passed,\s*(\d+) failed/);
 const assistantSummary = atm ? (atm[1] + ' passed, ' + atm[2] + ' failed') : (assistantOK ? 'completed' : 'failed');
 if (!assistantOK) add('P0', 'assistant-test', 'Guide Assistant regression suite failed', 'fix assistant-core.js/assistant.js before next deploy');
 
+// ---------- 1b. SEO engines: score, fix matrix, regression guard ----------
+// Extend (not duplicate) the QA toolkit: the engines consume the tool reports
+// written above. seo-regression exit 1 = a metric got worse vs the accepted
+// baseline OR a live blocking defect exists (the guard never lets a baseline
+// suppress a real defect). Marked dup when the QA tools already report the
+// blocking defect, so totals are not double-counted.
+const seoEngines = {};
+for (const engine of ['seo-score', 'fix-matrix', 'seo-regression']) {
+  const r = spawnSync(process.execPath, [path.join(__dirname, engine + '.js')], { encoding: 'utf8' });
+  seoEngines[engine] = { status: r.status, out: ((r.stdout || '') + (r.stderr || '')).trim() };
+}
+if (seoEngines['seo-regression'].status !== 0) {
+  const firstLines = seoEngines['seo-regression'].out.split('\n').slice(0, 4).join(' | ');
+  add('P1', 'seo-regression', 'SEO regression guard failed: ' + firstLines, 'fix the regressed metric or live defect — NEVER update the baseline to go green', toolSeverityTotals.P0 + toolSeverityTotals.P1 > 0);
+}
+const seoScoreData = (() => { try { return JSON.parse(fs.readFileSync(path.join(ROOT, 'reports', 'seo', 'score.json'), 'utf8')); } catch (e) { return null; } })();
+const fixMatrixData = (() => { try { return JSON.parse(fs.readFileSync(path.join(ROOT, 'reports', 'seo', 'fix-matrix.json'), 'utf8')); } catch (e) { return null; } })();
+if (!seoScoreData) add('P1', 'seo-score', 'reports/seo/score.json missing — seo-score engine did not run cleanly', 'inspect scripts/seo-score.js output');
+if (!fixMatrixData) add('P1', 'fix-matrix', 'reports/seo/fix-matrix.json missing — fix-matrix engine did not run cleanly', 'inspect scripts/fix-matrix.js output');
+
 // ---------- 2. baseline / inventory consistency ----------
 const arts = L.loadArticles();
 const currentSlugs = arts.map(a => a.name.replace(/\.md$/, '')).sort();
@@ -325,7 +345,10 @@ md += '| Stale last_reviewed (>' + STALE_DAYS + 'd) | ' + stale.length + ' |\n';
 md += '| Source/citation warnings | ' + findings.filter(f => f.area === 'sources' && !f.dup).length + ' |\n';
 md += '| Sitemap status | ' + (toolResults['sitemap-check'] && toolResults['sitemap-check'].status === 0 ? 'clean (gaps=0)' : 'CHECK') + ' |\n';
 md += '| Schema status | ' + (toolResults['schema-check'] && toolResults['schema-check'].status === 0 ? 'clean' : 'CHECK') + ' |\n';
-md += '| Rendered-site audit | ' + (hasSite ? (toolResults['rendered-site-audit'] && toolResults['rendered-site-audit'].status === 0 ? 'pass' : 'CHECK') : 'not run (no _site build in this run)') + ' |\n\n';
+md += '| Rendered-site audit | ' + (hasSite ? (toolResults['rendered-site-audit'] && toolResults['rendered-site-audit'].status === 0 ? 'pass' : 'CHECK') : 'not run (no _site build in this run)') + ' |\n';
+md += '| SEO score | ' + (seoScoreData ? 'overall ' + seoScoreData.overall + ' (' + seoScoreData.status + ')' : 'n/a') + ' |\n';
+md += '| SEO regression guard | ' + (seoEngines['seo-regression'].status === 0 ? 'pass (no metric regressed vs accepted baseline)' : 'FAIL — see blocking findings') + ' |\n';
+md += '| SEO fix matrix | ' + (fixMatrixData ? fixMatrixData.summary.rootCauses + ' root causes (' + fixMatrixData.summary.totalFindings + ' findings, ' + fixMatrixData.summary.autoFixable + ' auto-fixable, ' + fixMatrixData.summary.reviewOnly + ' review-only)' : 'n/a') + ' |\n\n';
 
 md += '## Counts per cluster\n\n| Cluster | Count |\n|---|---|\n';
 for (const c of L.CLUSTERS) md += '| ' + c + ' | ' + (perCluster[c] || 0) + ' |\n';
@@ -374,6 +397,11 @@ fs.writeFileSync(REPORT_JSON, JSON.stringify({
   brokenLinks: ilData.brokenLinks !== undefined ? ilData.brokenLinks : null,
   orphans: ilData.orphans !== undefined ? ilData.orphans : null,
   reviewRequired: reviewRequired.map(a => a.name.replace(/\.md$/, '')),
+  seo: {
+    score: seoScoreData ? { overall: seoScoreData.overall, status: seoScoreData.status, categoryScores: seoScoreData.categoryScores, blockingCount: seoScoreData.blockingCount } : null,
+    regression: { status: seoEngines['seo-regression'].status, summary: seoEngines['seo-regression'].out.split('\n')[0] || '' },
+    fixMatrix: fixMatrixData ? fixMatrixData.summary : null
+  },
   safeFixesAvailable: FIX ? [] : safeFixes,
   fixesApplied: FIX ? fixedFiles : []
 }, null, 1));
