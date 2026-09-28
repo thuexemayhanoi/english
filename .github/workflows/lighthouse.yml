@@ -1,0 +1,47 @@
+name: Lighthouse CI
+
+# Lighthouse on the representative page classes of the EXACT built tree
+# (Jekyll build -> static serve -> Lighthouse). No schedule: runs on push to
+# main and on PRs only. Lighthouse NEVER rewrites content; it only measures.
+# Thresholds are modest error floors (not perfection targets): small unstable
+# fluctuations do not fail the run, real regressions below the floor do.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: lighthouse
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  lighthouse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Build site with Jekyll (GitHub Pages toolchain)
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - name: Generate LHCI config from the deterministic representative page set
+        run: node scripts/representative-pages.js --lighthouserc > lighthouserc.json
+      - name: Run Lighthouse CI
+        uses: treosh/lighthouse-ci-action@v12
+        with:
+          configPath: lighthouserc.json
+          uploadArtifacts: true
+      - name: Upload Lighthouse report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lighthouse-report
+          path: .lighthouseci/
+          retention-days: 30

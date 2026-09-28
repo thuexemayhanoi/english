@@ -22,6 +22,12 @@ on:
       - 'scripts/maintenance.js'
       - 'scripts/maintenance-escalate.js'
       - 'scripts/maintenance-baseline.json'
+      - 'scripts/seo-score.js'
+      - 'scripts/fix-matrix.js'
+      - 'scripts/seo-regression.js'
+      - 'scripts/seo-baseline.json'
+      - 'scripts/seo-engine-test.js'
+      - 'scripts/representative-pages.js'
 
 # Never allow two maintenance runs to overlap; queue instead of cancelling.
 concurrency:

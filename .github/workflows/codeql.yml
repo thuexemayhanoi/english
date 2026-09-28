@@ -1,0 +1,34 @@
+name: CodeQL
+
+# CodeQL code scanning for repository CODE only (maintenance scripts, SEO
+# engines, site JS, assistant JS, workflow-related JS). NOT a content-quality
+# tool: it never judges article prose. No schedule: push/PR/dispatch only.
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  security-events: write
+
+jobs:
+  analyze:
+    name: Analyze (javascript-typescript)
+    runs-on: ubuntu-latest
+    permissions:
+      security-events: write
+      contents: read
+      actions: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: github/codeql-action/init@v3
+        with:
+          languages: javascript-typescript
+          queries: security-extended
+      - uses: github/codeql-action/autobuild@v3
+      - uses: github/codeql-action/analyze@v3
+        with:
+          category: "/language:javascript-typescript"

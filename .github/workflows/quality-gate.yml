@@ -26,6 +26,14 @@ jobs:
         run: node scripts/sitemap-check.js
       - name: Schema check
         run: node scripts/schema-check.js
+      - name: SEO engine test suite (fixture-based; production inventory untouched)
+        run: node scripts/seo-engine-test.js
+      - name: SEO score (per-category)
+        run: node scripts/seo-score.js
+      - name: SEO fix matrix (root-cause deduplicated)
+        run: node scripts/fix-matrix.js
+      - name: SEO regression guard (vs accepted baseline)
+        run: node scripts/seo-regression.js
       - name: Build site with Jekyll (GitHub Pages toolchain)
         uses: actions/jekyll-build-pages@v1
         with:
