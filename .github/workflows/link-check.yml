@@ -37,14 +37,18 @@ jobs:
       - name: Lychee — internal links (blocking, deterministic, offline)
         uses: lycheeverse/lychee-action@v2
         with:
+          # NOTE: never put --output/--format in args — the action's own inputs
+          # own those flags (entrypoint errors out if both are present).
+          output: reports/lychee-internal.json
+          format: json
+          jobSummary: false
+          fail: true
           args: >-
             --no-progress
             --offline
             --include-fragments
             --max-retries 1
             --timeout 10
-            --format json
-            --output reports/lychee-internal.json
             --root-dir "$PWD/serve"
             "$PWD/_site"
       - name: Extract external URLs (source articles + pages)
@@ -63,14 +67,16 @@ jobs:
         continue-on-error: true
         uses: lycheeverse/lychee-action@v2
         with:
+          output: reports/lychee-external.json
+          format: json
+          jobSummary: false
+          fail: true
           args: >-
             --no-progress
             --max-retries 2
             --retry-wait 10
             --timeout 20
             --exclude '^(https://www.linkedin.com|https://twitter.com|x.com)'
-            --format json
-            --output reports/lychee-external.json
             external-urls.txt
       - name: Note external result (never auto-rewrites content)
         if: steps.external.outcome == 'failure'
