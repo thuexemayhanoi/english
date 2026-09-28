@@ -74,7 +74,8 @@ jobs:
             external-urls.txt
       - name: Note external result (never auto-rewrites content)
         if: steps.external.outcome == 'failure'
-        run: echo "External link check reported failures — see the lychee-external report artifact. Report-only by policy: temporary timeouts/flaky sites must not trigger article rewrites."
+        run: |
+          echo "External link check reported failures — see the lychee-external report artifact. Report-only by policy: temporary timeouts/flaky sites must not trigger article rewrites."
       - name: Upload link reports artifact
         if: always()
         uses: actions/upload-artifact@v4

@@ -30,9 +30,12 @@ const args = process.argv.slice(2);
 const UPDATE = args.includes('--update-baseline');
 const REASON = (args[args.indexOf('--reason') + 1] || '').trim();
 
+// Safe JSON read: no check-then-read race (CodeQL). Returns null if absent/corrupt.
+function readJsonSafe(p) {
+  try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch (e) { if (e.code === 'ENOENT') return null; throw e; }
+}
 function readReport(t) {
-  const jf = path.join(L.ROOT, 'reports', t + '.json');
-  return fs.existsSync(jf) ? JSON.parse(fs.readFileSync(jf, 'utf8')) : null;
+  return readJsonSafe(path.join(L.ROOT, 'reports', t + '.json'));
 }
 function matches(re, f) { return re.test(String(f.issue || '')); }
 
@@ -77,7 +80,7 @@ if (UPDATE) {
     process.exit(1);
   }
   if (!REASON) { console.error('seo-regression: --update-baseline requires --reason "<why the accepted state changed>". Recorded history matters.'); process.exit(1); }
-  const prev = fs.existsSync(BASELINE_PATH) ? JSON.parse(fs.readFileSync(BASELINE_PATH, 'utf8')) : null;
+  const prev = readJsonSafe(BASELINE_PATH);
   const out = {
     generated: new Date().toISOString().slice(0, 10),
     updatedReason: REASON,
@@ -91,7 +94,7 @@ if (UPDATE) {
 }
 
 if (!fs.existsSync(BASELINE_PATH)) { console.error('seo-regression: no baseline (scripts/seo-baseline.json). Create it deliberately with --update-baseline --reason.'); process.exit(1); }
-const baseline = JSON.parse(fs.readFileSync(BASELINE_PATH, 'utf8'));
+const baseline = readJsonSafe(BASELINE_PATH);
 
 // A defect present now fails the guard regardless of the baseline: baselining
 // cannot suppress a live P0/P1.
