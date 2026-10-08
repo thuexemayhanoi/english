@@ -18,7 +18,6 @@ last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): contact details and availability wording only"
   - "https://en.wikipedia.org/wiki/Road_signs_in_Vietnam — overview of Vietnamese road sign conventions (following Chinese and French sign traditions) and the national road numbering system, retrieved 2026-09-24"
-  - "https://vietnamexploration.com/p/266/motorbike-guide/driving-a-motorcycle-in-vietnam — QL1A as the main north-south highway and Vietnamese road naming in practice, retrieved 2026-09-24"
 internal_link_targets: motorbike-trip-navigation-offline-maps-vietnam, motorbikes-on-expressway-vietnam, motorbike-parking-vietnamese-cities, horn-etiquette-motorbike-vietnam, highway-1-vietnam-motorbike-riding
 ---
 
