@@ -19,7 +19,6 @@ review_status: REVIEW_REQUIRED
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): contact details and availability wording only"
   - "https://www.vietnamesemotorbiketours.com/vietnam-international-border-crossings-a-comprehensive-guide-for-motorcyclists — motorcyclists' border guide: border-crossing permit requirements and documents, retrieved 2026-09-24"
-  - "https://gearhead.vn/laos-border-crossing/ — first-hand crossing reports including 2023 restriction reports at the Na Meo border gate, retrieved 2026-09-24"
   - "https://www.vietnameseluxurytravel.com/how-to-cross-vietnam-laos-cambodia-borders-with-a-vietnamese-motorbike — crossing reports noting updated Lao customs regulations from 2025, retrieved 2026-09-24"
   - "https://www.reddit.com/r/laos/comments/1hff6ud/crossing_borders_with_the_motorbike_from/ — rider reports that Vietnamese-plated bikes are very difficult to take into Laos unless registered in your own name, retrieved 2026-09-24"
 internal_link_targets: motorbike-bluecard-ownership-papers-vietnam, motorbike-border-crossing-vietnam-cambodia, buying-motorbike-as-tourist-vietnam, can-tourists-ride-motorbike-vietnam, motorbike-travel-insurance-vietnam

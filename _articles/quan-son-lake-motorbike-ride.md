@@ -18,7 +18,6 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): contact details and availability wording only"
-  - "https://www.vietnamdhtravel.com/travel-guides/quan-son-lake-ecotourism-area-my-duh-hanoi/ — Quan Son tourist site lies about 40 km southwest of central Hanoi across some 860 hectares of My Duc; lotus season runs mid-May to mid-June, retrieved 2026-09-24"
   - "https://travelhanoi.org/quan-son-lake/ — Quan Son lake in My Duc district, about 50 km from the city centre, a calm nature day-trip destination, retrieved 2026-09-24"
   - "https://goldenholidaytravel.com/quan-son-lake-of-untouched-beauty-an-ideal-place-for-your-escape-on-weekend.new — Quan Son is described as mountains embracing a lake, with scenery likened to Ha Long Bay; about 60 km from the city, retrieved 2026-09-24"
 internal_link_targets: best-motorbike-for-day-trips-from-hanoi, perfume-pagoda-motorbike-trip, hanoi-lakes-motorbike-riding-guide, riding-motorbike-heavy-rain-vietnam, how-to-rent-a-motorbike-hanoi

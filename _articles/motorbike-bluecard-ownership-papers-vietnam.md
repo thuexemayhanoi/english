@@ -19,7 +19,6 @@ review_status: REVIEW_REQUIRED
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): contact details and availability wording only"
   - "https://www.tigitmotorbikes.com/blogs/motorbike-blue-card.html — the bluecard as the ownership paper of the motorbike, and the information it carries, retrieved 2026-09-24"
-  - "https://azmotorbikes.com/vietnam-motorbike-bluecard/ — ownership-paper explanation, and the registration details the bluecard identifies, retrieved 2026-09-24"
   - "https://www.vietnamesemotorbiketours.com/how-foreigners-can-legally-buy-and-register-a-motorbike-in-vietnam — buying and registering a motorbike as a foreigner: proof of purchase, bluecard, notarised sales agreement, retrieved 2026-09-24"
   - "https://motorbiketourexpert.com/useful-blog/vietnam-motorcycle-bluecard — the bluecard as the decision document in any motorbike purchase, carrying roughly half the bike's value, retrieved 2026-09-24"
 internal_link_targets: buying-motorbike-as-tourist-vietnam, selling-motorbike-before-leaving-vietnam, motorbike-border-crossing-vietnam-laos, lending-motorbike-unlicensed-rider-vietnam, theft-loss-responsibility-rental-motorbike-hanoi

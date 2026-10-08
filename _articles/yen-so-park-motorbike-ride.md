@@ -18,7 +18,6 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
-  - "https://www.vietnamairlines.com/at/en/plan-book/travel/travel-guide/cong-vien-yen-so — Yen So Park in Yen So ward (formerly Hoang Mai district) at the Phap Van – Cau Gie expressway intersection, one of the largest parks in Hanoi, retrieved 2026-09-24"
   - "https://tatinta.com/en/diem-den/cong-vien-yen-so/2697 — Yen So Park total area around 323 hectares, roughly 10 km from the city centre, retrieved 2026-09-24"
 internal_link_targets: hoang-mai-area-guide-riders, hanoi-weekend-parks-motorbike-outings, hanoi-ring-roads-motorbike-guide, child-passengers-motorbike-vietnam, where-to-park-motorbike-hanoi, hanoi-riding-seasons-guide, best-motorbike-for-day-trips-from-hanoi
 ---
