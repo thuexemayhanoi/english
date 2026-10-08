@@ -59,8 +59,8 @@ for (const f of htmlFiles) {
   const canons = [...raw.matchAll(/<link\s+rel="canonical"\s+href="([^"]+)"/gi)].map(m => m[1]);
   if (canons.length === 0) F.add('P1', rf, url, 'rendered page has no canonical link', 'Check canonical pipeline');
   for (const c of canons) {
-    if (!c.startsWith(L.SITE_URL + L.BASEURL)) F.add('P1', rf, url, 'canonical is not an absolute /english/ URL: ' + c, 'Check baseurl/absolute_url');
-    if (c.includes('/english/english')) F.add('P0', rf, url, 'doubled /english/english/ in canonical', 'Fix baseurl handling');
+    if (!c.startsWith(L.SITE_URL + L.BASEURL)) F.add('P1', rf, url, 'canonical is not on the configured custom domain: ' + c, 'Check url/baseurl/absolute_url');
+    if (c.startsWith(L.SITE_URL + '/english/')) F.add('P1', rf, url, 'stale /english baseurl link in canonical: ' + c, 'Remove the legacy project-site baseurl');
     if (canonicalSeen[c]) F.add('P1', rf, url, 'duplicate canonical ' + c + ' (also ' + canonicalSeen[c] + ')', 'Two rendered pages share a canonical URL');
     else canonicalSeen[c] = rf;
   }
@@ -79,8 +79,9 @@ for (const f of htmlFiles) {
   // Internal links between rendered pages
   for (const m of raw.matchAll(/href="([^"]+)"/g)) {
     const href = m[1];
+    if (href.startsWith('https://thuexemayhanoi.github.io/english')) { F.add('P1', rf, url, 'stale legacy GitHub Pages URL: ' + href, 'Use the custom domain or a root-relative internal URL'); continue; }
     if (/^(https?:|mailto:|tel:|#|data:)/.test(href)) continue;
-    if (href.includes('/english/english')) { F.add('P0', rf, url, 'doubled /english/english/ in rendered link', 'Fix relative_url usage'); continue; }
+    if (href === '/english' || href.startsWith('/english/')) { F.add('P1', rf, url, 'stale /english baseurl link: ' + href, 'Remove the legacy project-site baseurl'); continue; }
     let target = href.split('#')[0].split('?')[0];
     if (!target || !target.startsWith('/')) continue; // relative-to-page or unknown
     // strip baseurl prefix if present (links are relative_url'd, i.e. start with /english)
@@ -130,7 +131,7 @@ if (fs.existsSync(sitemapFile)) {
   for (const u of locs) {
     if (seen.has(u)) { F.add('P1', 'sitemap.xml', u, 'duplicate sitemap URL', 'Deduplicate'); continue; }
     seen.add(u);
-    if (!u.startsWith(L.SITE_URL + L.BASEURL)) { F.add('P1', 'sitemap.xml', u, 'sitemap URL not absolute /english/', 'Fix absolute_url'); continue; }
+    if (!u.startsWith(L.SITE_URL + L.BASEURL)) { F.add('P1', 'sitemap.xml', u, 'sitemap URL not on configured custom domain', 'Fix url/baseurl/absolute_url'); continue; }
     const sitePath = u.slice((L.SITE_URL + L.BASEURL).length) || '/';
     if (/README|docs\/|_queue|404/.test(sitePath)) { F.add('P1', 'sitemap.xml', u, 'excluded content in sitemap', 'Remove from sitemap'); continue; }
     if (!fs.existsSync(fileForUrl(sitePath))) F.add('P1', 'sitemap.xml', u, 'sitemap URL with no corresponding rendered page', 'Fix sitemap template');

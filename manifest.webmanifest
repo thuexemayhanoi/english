@@ -2,26 +2,26 @@
   "name": "Nguyen Tu Motorbike Guide",
   "short_name": "Nguyen Tu Guide",
   "description": "English-language motorbike knowledge for riding in Hanoi and Vietnam.",
-  "start_url": "/english/",
-  "scope": "/english/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#faf8f4",
   "theme_color": "#c93a1d",
   "icons": [
     {
-      "src": "/english/assets/img/icon-192.svg",
+      "src": "/assets/img/icon-192.svg",
       "sizes": "192x192",
       "type": "image/svg+xml",
       "purpose": "any"
     },
     {
-      "src": "/english/assets/img/logo.svg",
+      "src": "/assets/img/logo.svg",
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "any"
     },
     {
-      "src": "/english/assets/img/logo.svg",
+      "src": "/assets/img/logo.svg",
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "maskable"

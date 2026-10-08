@@ -20,7 +20,7 @@ const L = require('./lib');
 // Classify by issue text (tools use stable issue strings).
 function classify(issue) {
   const s = String(issue || '');
-  if (/doubled \/english\/english|broken asset link|broken file link|malformed URL/.test(s)) return 'technicalSeo';
+  if (/stale \/english baseurl|stale legacy GitHub Pages URL|broken asset link|broken file link|malformed URL/.test(s)) return 'technicalSeo';
   if (/missing from sitemap|sitemap URL with no corresponding|excluded content in sitemap|noindex page included in sitemap|indexable URL missing from sitemap|duplicate sitemap URL|topic hub omitted from sitemap|sitemap URL not absolute|sitemap is invalid|sitemap missing|accidental noindex|rendered sitemap\.xml missing/.test(s)) return 'crawlIndexability';
   if (/canonical|sitemap gaps?/.test(s)) return 'canonicalSitemap';
   if (/broken internal link|orphan|no internal links from article|broken breadcrumb/.test(s)) return 'internalLinking';

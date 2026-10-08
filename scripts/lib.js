@@ -5,8 +5,8 @@ const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
 const CLUSTERS = ['rental','monthly-rental','scooters','motorcycles','manual-clutch','50cc','electric','maintenance','parts-gear','safety','law-licences','hanoi','trips','vietnam-travel'];
-const SITE_URL = 'https://thuexemayhanoi.github.io';
-const BASEURL = '/english';
+const SITE_URL = 'https://en.rentbikehanoi.com';
+const BASEURL = '';
 
 // Primary legal source domains (class A per docs/SOURCE-MAP.md GOVERNMENT/LEGAL).
 // Everything else (thuvienphapluat.vn = B, mva.vn = C, news, blogs) is secondary.

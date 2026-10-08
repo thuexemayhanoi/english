@@ -58,7 +58,7 @@ function collectMetrics() {
     metrics: {
       articleCount: arts.length,
       sitemapUrlCount: sitemapUrlCount,
-      canonicalErrors: allFindings.filter(f => matches(/canonical|\/english\/english/, f)).length,
+      canonicalErrors: allFindings.filter(f => matches(/canonical|stale \/english baseurl|stale legacy GitHub Pages URL/, f)).length,
       brokenInternalLinks: allFindings.filter(f => matches(/broken internal link|broken asset link|broken file link/, f)).length,
       orphans: allFindings.filter(f => matches(/orphan/, f)).length,
       schemaErrors: allFindings.filter(f => matches(/JSON-LD|schema|BreadcrumbList/, f)).length,

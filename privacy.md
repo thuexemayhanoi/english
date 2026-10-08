@@ -5,7 +5,7 @@ permalink: /privacy/
 description: "Privacy policy for Nguyen Tu Motorbike Guide, including local browser storage, Guide Assistant processing, WhatsApp contact, Google Maps and GitHub Pages hosting."
 ---
 <h1>Privacy Policy</h1>
-<p>This policy explains how information is handled when you visit Nguyen Tu Motorbike Guide, the English-language motorbike knowledge hub of Hanoi Motorbike Rental Nguyen Tu, at thuexemayhanoi.github.io/english/. It describes what the website itself does and does not do, and points out where third-party services — such as WhatsApp, Zalo, Google Maps and GitHub Pages — handle information under their own policies.</p>
+<p>This policy explains how information is handled when you visit Nguyen Tu Motorbike Guide, the English-language motorbike knowledge hub of Hanoi Motorbike Rental Nguyen Tu, at en.rentbikehanoi.com/. It describes what the website itself does and does not do, and points out where third-party services — such as WhatsApp, Zalo, Google Maps and GitHub Pages — handle information under their own policies.</p>
 <p>The short version: this is a static informational website. It has no accounts, no logins, no onsite payments, no advertising network, no newsletter database and no analytics service. The main things stored on your device are your light/dark theme preference and, briefly, your Guide Assistant conversation, which disappears when you leave the page. Contact happens by phone, WhatsApp or Zalo, and the embedded Google Maps map on the contact page is governed by Google's own terms.</p>
 
 <h2>How to avoid the third-party parts</h2>

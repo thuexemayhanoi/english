@@ -2,7 +2,7 @@ name: Link Check (Lychee)
 
 # Independent link checking with Lychee. No schedule: push/PR/dispatch only.
 # - INTERNAL links: checked against the locally built site (offline, --root-dir
-#   maps the /english baseurl); failures are
+#   maps root-relative links against the built custom-domain tree); failures are
 #   deterministic and BLOCKING (they mirror the rendered-site audit rules).
 # - EXTERNAL links: report-only. A flaky external site, timeout or rate limit
 #   must NEVER trigger an automatic article rewrite; the report is uploaded as
@@ -30,10 +30,6 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      - name: Map built site under /english (baseurl layout)
-        run: |
-          mkdir -p serve
-          ln -s "$PWD/_site" serve/english
       - name: Lychee — internal links (blocking, deterministic, offline)
         uses: lycheeverse/lychee-action@v2
         with:
@@ -49,7 +45,7 @@ jobs:
             --include-fragments
             --max-retries 1
             --timeout 10
-            --root-dir "$PWD/serve"
+            --root-dir "$PWD/_site"
             "$PWD/_site"
       - name: Extract external URLs (source articles + pages)
         run: |

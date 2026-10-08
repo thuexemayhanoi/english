@@ -25,6 +25,9 @@ for (const x of all) {
   const skipIndex = file === '404.html' || file === 'README.md' || file === 'AGENTS.md'; // excluded from Jekyll output (repo docs)
   if (skipIndex) continue;
 
+  // Custom-domain migration guard: no public source may retain the old GitHub Pages project URL.
+  if (x.body.includes('thuexemayhanoi.github.io/english')) F.add('P1', file, url, 'stale legacy GitHub Pages URL in public content', 'Use en.rentbikehanoi.com or a root-relative internal URL');
+
   // Title
   // index.html intentionally falls back to site.title/site.description in the
   // default layout, so its rendered meta is correct — no finding for defaults.
@@ -37,7 +40,7 @@ for (const x of all) {
 
   // Canonical / URL sanity (all pages use layout default; canonical = page.url | absolute_url)
   const abs = L.SITE_URL + L.BASEURL + url;
-  if (url.includes('/english/english')) F.add('P0', file, url, 'doubled /english/english/ path', 'Fix permalink/baseurl');
+  if (url === '/english' || url.startsWith('/english/')) F.add('P1', file, url, 'stale /english baseurl link in page URL', 'Remove the legacy project-site baseurl');
   if (canonCount[abs]) F.add('P0', file, url, 'duplicate canonical ' + abs, 'Fix permalinks; two pages share a URL');
   canonCount[abs] = true;
 
@@ -71,10 +74,11 @@ for (const x of all) {
   const links = L.extractLinks(x.body);
   let internal = 0;
   for (const href of links) {
+    if (href.startsWith('https://thuexemayhanoi.github.io/english')) { F.add('P1', file, url, 'stale legacy GitHub Pages URL: ' + href, 'Use the custom domain or a root-relative internal URL'); continue; }
     if (/^(https?:|mailto:|tel:|#)/.test(href)) continue;
     internal++;
     let target = href.split('#')[0];
-    if (target.includes('/english/english')) F.add('P0', file, url, 'internal link with doubled /english/english/', 'Fix link to use relative_url-compatible path');
+    if (target === '/english' || target.startsWith('/english/')) F.add('P1', file, url, 'stale /english baseurl link: ' + target, 'Remove the legacy project-site baseurl');
     if (target.startsWith('/') && !known.has(target) && target !== '/' && !target.startsWith('/assets')) F.add('P1', file, url, 'broken internal link ' + target, 'Fix or remove the link');
   }
   if (x.isArticle && internal === 0 && !fm.internal_link_targets) F.add('P2', file, url, 'no internal links from article', 'Add internal_link_targets or contextual links');

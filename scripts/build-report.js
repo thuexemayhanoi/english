@@ -64,7 +64,7 @@ for (const f of allFindings) {
 }
 md += '\n## Tool exit statuses\n\n';
 for (const t of tools) md += '- ' + t + ': exit ' + results[t].status + '\n';
-md += '\nQuality gate fails only on P0 and clearly structural P1 findings (duplicate slug, YAML failure, missing required fields, unknown topic_cluster, legal VERIFIED without primary sources, invalid dates, broken links, missing slugs, missing hubs, doubled /english/english paths, duplicate canonicals, noindex/sitemap integrity, invalid JSON-LD, broken breadcrumbs). P2/P3 never block.\n';
+md += '\nQuality gate fails only on P0 and clearly structural P1 findings (duplicate slug, YAML failure, missing required fields, unknown topic_cluster, legal VERIFIED without primary sources, invalid dates, broken links, missing slugs, missing hubs, stale legacy /english baseurl links or old GitHub Pages URLs, duplicate canonicals, noindex/sitemap integrity, invalid JSON-LD, broken breadcrumbs). P2/P3 never block.\n';
 
 fs.mkdirSync(path.join(L.ROOT, 'reports'), { recursive: true });
 fs.writeFileSync(path.join(L.ROOT, 'reports', 'quality-latest.md'), md);

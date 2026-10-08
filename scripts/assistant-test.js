@@ -3,14 +3,14 @@
 // Mode 1 (default): emulate the Jekyll-built assistant-index.json from source files
 //   (articles + FAQ include), mirroring the Liquid chunking in assistant-index.json.
 // Mode 2: node scripts/assistant-test.js <url-or-path> — test an actual built index
-//   (e.g. the live https://thuexemayhanoi.github.io/english/assistant-index.json).
+//   (e.g. the live https://en.rentbikehanoi.com/assistant-index.json).
 // Plain Node.js, no dependencies.
 'use strict';
 const fs = require('fs');
 const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
-const BASEURL = '/english';
+const BASEURL = '';
 
 // ---------- Minimal YAML reader for _data/assistant-business.yml (flat keys + price list) ----------
 function loadBiz() {

@@ -5,7 +5,7 @@ permalink: /terms/
 description: "Terms for using Nguyen Tu Motorbike Guide, including informational content, rental enquiries, Guide Assistant, legal information and external services."
 ---
 <h1>Terms &amp; Conditions</h1>
-<p>These terms apply to your use of Nguyen Tu Motorbike Guide at thuexemayhanoi.github.io/english/, the English-language motorbike knowledge hub published by Hanoi Motorbike Rental Nguyen Tu. By using the site you accept these terms. Please read them together with our <a href="{{ '/privacy/' | relative_url }}">Privacy Policy</a>.</p>
+<p>These terms apply to your use of Nguyen Tu Motorbike Guide at en.rentbikehanoi.com/, the English-language motorbike knowledge hub published by Hanoi Motorbike Rental Nguyen Tu. By using the site you accept these terms. Please read them together with our <a href="{{ '/privacy/' | relative_url }}">Privacy Policy</a>.</p>
 
 <h2>What these terms cover</h2>
 <p>These are the terms for using this informational website: its articles, FAQ, topic pages, Guide Assistant and contact links. They are not the motorbike rental contract. A rental agreement, when one is made, is agreed separately and directly between you and Hanoi Motorbike Rental Nguyen Tu, and the terms you agree with the business at that time govern the rental — not this page.</p>

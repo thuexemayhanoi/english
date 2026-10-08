@@ -162,7 +162,7 @@ const cur = (() => {
   const cnt = re => seo.concat(ila).filter(f => re.test(f.issue)).length;
   return {
     articleCount: 11, sitemapUrlCount: 11,
-    canonicalErrors: cnt(/canonical|\/english\/english/), brokenInternalLinks: cnt(/broken internal link/),
+    canonicalErrors: cnt(/canonical|stale \/english baseurl|stale legacy GitHub Pages URL/), brokenInternalLinks: cnt(/broken internal link/),
     orphans: cnt(/orphan/), schemaErrors: 0, duplicateTitles: cnt(/duplicate title/),
     duplicateMeta: 0, unexpectedNoindex: cnt(/accidental noindex/), reviewRequiredCount: 0
   };

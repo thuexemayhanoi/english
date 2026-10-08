@@ -26,9 +26,10 @@ for (const src of linkSources) {
   const viaTargets = String(src.fm.internal_link_targets || '');
   let internalOut = 0;
   for (const href of links) {
+    if (href.startsWith('https://thuexemayhanoi.github.io/english')) { F.add('P1', src.file, src.url, 'stale legacy GitHub Pages URL: ' + href, 'Use the custom domain or a root-relative internal URL'); broken++; continue; }
     if (/^(https?:|mailto:|tel:|#)/.test(href)) continue;
     let t = href.split('#')[0].split('?')[0];
-    if (t.includes('/english/english')) { F.add('P0', src.file, src.url, 'doubled /english/english/ link', 'Fix path'); broken++; continue; }
+    if (t === '/english' || t.startsWith('/english/')) { F.add('P1', src.file, src.url, 'stale /english baseurl link: ' + t, 'Remove the legacy project-site baseurl'); broken++; continue; }
     if (t.startsWith('/') && t !== '/' && !knownUrls.has(t) && !t.startsWith('/assets') && !t.endsWith('.xml') && !t.endsWith('.json') && !t.endsWith('.css') && !t.endsWith('.js')) {
       F.add('P1', src.file, src.url, 'broken internal link: ' + t, 'Fix or remove'); broken++;
     }
