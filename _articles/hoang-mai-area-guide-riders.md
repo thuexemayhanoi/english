@@ -19,7 +19,7 @@ last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
   - "https://vietcetera.com/en/a-post-merger-guide-to-hanoi-navigating-vietnams-capital — Hanoi July 2025 administrative restructuring (30 former districts reorganised into 126 wards and communes), retrieved 2026-09-24"
-  - "https://www.vietnamairlines.com/at/en/plan-book/travel/travel-guide/cong-vien-yen-so — Yen So Park location and scale (one of Hanoi's largest parks, at the Phap Van–Cau Gie expressway intersection), retrieved 2026-09-24"
+  - "https://tatinta.com/en/diem-den/cong-vien-yen-so/2697 — Yen So Park in southern Hanoi, with a total area around 323 hectares and roughly 10 km from the city centre, retrieved 2026-09-24"
 internal_link_targets: hanoi-districts-layout-guide-riders, choosing-hanoi-neighbourhood-motorbike-access, yen-so-park-motorbike-ride, traffic-at-rush-hour-riding-hanoi, hanoi-ring-roads-motorbike-guide, where-to-park-motorbike-hanoi, riding-motorbike-blind-spots-vietnam
 ---
 
