@@ -61,6 +61,7 @@ for (const f of htmlFiles) {
   for (const c of canons) {
     if (!c.startsWith(L.SITE_URL + L.BASEURL)) F.add('P1', rf, url, 'canonical is not on the configured custom domain: ' + c, 'Check url/baseurl/absolute_url');
     if (c.startsWith(L.SITE_URL + '/english/')) F.add('P1', rf, url, 'stale /english baseurl link in canonical: ' + c, 'Remove the legacy project-site baseurl');
+    if (c !== L.SITE_URL + url) F.add('P1', rf, url, 'canonical does not match rendered page URL: ' + c, 'Use the current page URL on the custom domain');
     if (canonicalSeen[c]) F.add('P1', rf, url, 'duplicate canonical ' + c + ' (also ' + canonicalSeen[c] + ')', 'Two rendered pages share a canonical URL');
     else canonicalSeen[c] = rf;
   }
@@ -120,6 +121,91 @@ for (const f of htmlFiles) {
 
   // Breadcrumbs expected on all non-home pages
   if (url !== '/' && !/breadcrumbs|BreadcrumbList/i.test(raw)) F.add('P2', rf, url, 'no breadcrumbs on non-home page', 'Include breadcrumbs.html');
+}
+
+// Audit every public file, including JS fallbacks and generated JSON. The
+// normal HTML link audit above does not see URLs inside these resources.
+function checkPublicUrl(value, file, base, label) {
+  const raw = String(value || '').trim().replace(/&amp;/g, '&');
+  if (!raw || /^(?:#|mailto:|tel:|data:|javascript:)/i.test(raw)) return;
+  let target;
+  try { target = new URL(raw, L.SITE_URL + base); }
+  catch (e) { F.add('P1', file, base, 'broken file link: invalid ' + label + ' URL ' + raw, 'Fix the URL'); return; }
+  if (target.origin !== L.SITE_URL) return;
+  if (target.pathname === '/english' || target.pathname.startsWith('/english/')) {
+    F.add('P1', file, base, 'stale /english baseurl link: ' + raw, 'Use the site root');
+    return;
+  }
+  if (!fs.existsSync(fileForUrl(target.pathname))) {
+    F.add('P1', file, base, 'broken file link: ' + label + ' ' + raw, 'Fix the link to the built site');
+  }
+}
+
+const publicTextFiles = files.filter(f => /\.(?:html|css|js|json|xml|txt|webmanifest)$/i.test(f));
+for (const f of publicTextFiles) {
+  const source = rel(f);
+  const base = siteUrlOf(f);
+  const raw = fs.readFileSync(f, 'utf8');
+  const legacy = raw.match(/https?:\/\/thuexemayhanoi\.github\.io\/english(?:\/|(?=["'\s?#<]))/i);
+  if (legacy) F.add('P1', source, base, 'stale legacy GitHub Pages URL: ' + legacy[0], 'Use the custom domain');
+  const oldPath = raw.match(/(?:https?:\/\/en\.rentbikehanoi\.com|["'=(])\/english(?:\/|(?=["'\s?#<]))/i);
+  if (oldPath) F.add('P1', source, base, 'stale /english baseurl link in public output: ' + oldPath[0], 'Use the site root');
+  if (f.endsWith('.html')) {
+    for (const m of raw.matchAll(/\b(?:href|src|poster|data-index|action|srcset)\s*=\s*["']([^"']+)["']/gi)) {
+      const label = m[0].split('=')[0].trim().toLowerCase();
+      const values = label === 'srcset' ? m[1].split(',').map(s => s.trim().split(/\s+/)[0]) : [m[1]];
+      for (const value of values) checkPublicUrl(value, source, base, label);
+    }
+    const og = raw.match(/<meta\s+property=["']og:url["']\s+content=["']([^"']+)["']/i);
+    if (og && og[1] !== L.SITE_URL + base) F.add('P1', source, base, 'public output Open Graph URL differs from page URL', 'Use the page canonical URL');
+  }
+  if (f.endsWith('.css')) {
+    for (const m of raw.matchAll(/url\(\s*["']?([^"')]+)["']?\s*\)/gi)) checkPublicUrl(m[1], source, base, 'CSS asset');
+  }
+}
+
+const articleUrls = new Set(htmlFiles.map(siteUrlOf).filter(u => /^\/articles\/[^/]+\/$/.test(u)));
+function readPublicJson(name) {
+  const file = path.join(SITE_DIR, name);
+  if (!fs.existsSync(file)) { F.add('P1', name, '/', 'missing public ' + name, 'Check Jekyll output'); return null; }
+  try { return JSON.parse(fs.readFileSync(file, 'utf8')); }
+  catch (e) { F.add('P1', name, '/', 'invalid public ' + name + ': ' + e.message, 'Fix the generated JSON'); return null; }
+}
+const search = readPublicJson('search.json');
+if (search) {
+  if (!Array.isArray(search) || search.length !== articleUrls.size) {
+    F.add('P1', 'search.json', '/', 'public output search index article count differs from built articles', 'Generate one entry per article');
+  } else {
+    const seen = new Set();
+    for (const entry of search) {
+      if (!articleUrls.has(entry.url) || seen.has(entry.url)) F.add('P1', 'search.json', '/', 'broken internal link: search URL ' + entry.url, 'Use each built article URL exactly once');
+      seen.add(entry.url);
+      checkPublicUrl(entry.url, 'search.json', '/', 'search URL');
+    }
+  }
+}
+const assistant = readPublicJson('assistant-index.json');
+if (assistant) {
+  const chunks = assistant.chunks;
+  if (!Array.isArray(chunks) || !chunks.length) {
+    F.add('P1', 'assistant-index.json', '/', 'public output assistant index has no chunks', 'Check Liquid generation');
+  } else {
+    const covered = new Set();
+    for (const chunk of chunks) {
+      checkPublicUrl(chunk.u, 'assistant-index.json', '/', 'assistant URL');
+      if (chunk.st === 'article' && articleUrls.has(chunk.u)) covered.add(chunk.u);
+    }
+    if (covered.size !== articleUrls.size) F.add('P1', 'assistant-index.json', '/', 'public output assistant index omits built articles', 'Index every article');
+  }
+}
+const manifest = readPublicJson('manifest.webmanifest');
+if (manifest) {
+  if (manifest.start_url !== '/' || manifest.scope !== '/') F.add('P1', 'manifest.webmanifest', '/', 'public output manifest scope is not root', 'Use root start_url and scope');
+  for (const icon of manifest.icons || []) checkPublicUrl(icon.src, 'manifest.webmanifest', '/', 'manifest icon');
+}
+const robotsFile = path.join(SITE_DIR, 'robots.txt');
+if (!fs.existsSync(robotsFile) || !/^Sitemap:\s*https:\/\/en\.rentbikehanoi\.com\/sitemap\.xml\s*$/m.test(fs.readFileSync(robotsFile, 'utf8'))) {
+  F.add('P1', 'robots.txt', '/', 'public output robots sitemap differs from custom domain', 'Declare the root sitemap URL');
 }
 
 // Rendered sitemap.xml: URLs must correspond to real files; no excluded content
