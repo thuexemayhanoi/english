@@ -70,7 +70,7 @@ jobs:
           args: >-
             --no-progress
             --max-retries 2
-            --retry-wait 10
+            --retry-wait-time 10
             --timeout 20
             --exclude '^(https://www.linkedin.com|https://twitter.com|x.com)'
             external-urls.txt
