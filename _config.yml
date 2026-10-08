@@ -23,6 +23,7 @@ exclude:
   - _queue
   - docs
   - README.md
+  - AGENTS.md
   - Gemfile
   - scripts
   - reports
