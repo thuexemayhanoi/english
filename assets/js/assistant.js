@@ -58,8 +58,8 @@
       '<a href="tel:' + esc(b.phone_href || '') + '">Call</a>' +
       '<a href="' + esc(b.whatsapp || '#') + '" rel="noopener">WhatsApp</a>' +
       '<a href="' + esc(b.zalo || '#') + '" rel="noopener">Zalo</a>' +
-      '<a href="' + esc((window.ASSISTANT_LINKS && window.ASSISTANT_LINKS.contact) || '/english/contact/') + '">Contact page</a>' +
-      '<a href="' + esc((window.ASSISTANT_LINKS && window.ASSISTANT_LINKS.search) || '/english/search/') + '">Search guides</a></div>';
+      '<a href="' + esc((window.ASSISTANT_LINKS && window.ASSISTANT_LINKS.contact) || '/contact/') + '">Contact page</a>' +
+      '<a href="' + esc((window.ASSISTANT_LINKS && window.ASSISTANT_LINKS.search) || '/search/') + '">Search guides</a></div>';
   }
 
   function chips(items) {
