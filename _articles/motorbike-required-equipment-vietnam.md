@@ -19,7 +19,6 @@ last_reviewed: 2026-09-22
 review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 14 (motorbike vehicle-condition violations)"
-  - "https://congan.nghean.gov.vn/tin-tuc-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-trat-tu-an-toan-giao-thong-duong-bo-d1600751.html — Công an Nghệ An (gov.vn): mirror requirements and fines for motorbikes under Decree 168/2024/NĐ-CP"
 internal_link_targets: "motorbike-night-lights-vietnam, documents-to-carry-motorbike-vietnam, helmet-law-vietnam, riding-without-number-plates-vietnam, motorbike-fines-vietnam-overview"
 ---
 
