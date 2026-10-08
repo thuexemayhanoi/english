@@ -4,9 +4,10 @@ name: Link Check (Lychee)
 # - INTERNAL links: checked against the locally built site (offline, --root-dir
 #   maps root-relative links against the built custom-domain tree); failures are
 #   deterministic and BLOCKING (they mirror the rendered-site audit rules).
-# - EXTERNAL links: report-only. A flaky external site, timeout or rate limit
-#   must NEVER trigger an automatic article rewrite; the report is uploaded as
-#   an artifact for review.
+# - EXTERNAL links: 404/410 are treated as confirmed dead links and BLOCK.
+#   403/429/timeouts/network failures remain report-only because many external
+#   sites block CI bots. No external failure may trigger an automatic article
+#   rewrite; reports are uploaded for review.
 on:
   push:
     branches: [main]
@@ -74,10 +75,31 @@ jobs:
             --timeout 20
             --exclude '^(https://www.linkedin.com|https://twitter.com|x.com)'
             external-urls.txt
-      - name: Note external result (never auto-rewrites content)
+      - name: Block confirmed dead external links (404/410 only)
+        if: always()
+        run: |
+          node - <<'NODE'
+          const fs = require('fs');
+          const p = 'reports/lychee-external.json';
+          if (!fs.existsSync(p)) {
+            console.error('Missing Lychee external report: ' + p);
+            process.exit(1);
+          }
+          const data = JSON.parse(fs.readFileSync(p, 'utf8'));
+          const groups = Object.values(data.error_map || {});
+          const errors = groups.flatMap(v => Array.isArray(v) ? v : []);
+          const dead = errors.filter(e => e && e.status && (e.status.code === 404 || e.status.code === 410));
+          if (dead.length) {
+            console.error('Confirmed dead external links (404/410): ' + dead.length);
+            for (const e of dead) console.error('  ' + e.status.code + ' ' + e.url);
+            process.exit(1);
+          }
+          console.log('No confirmed 404/410 external links. Other external failures remain report-only.');
+          NODE
+      - name: Note transient/external-bot failures (report-only)
         if: steps.external.outcome == 'failure'
         run: |
-          echo "External link check reported failures — see the lychee-external report artifact. Report-only by policy: temporary timeouts/flaky sites must not trigger article rewrites."
+          echo "External checker reported non-404 failures too — inspect the artifact. 403/429/timeouts/network errors remain report-only and never trigger automatic article rewrites."
       - name: Upload link reports artifact
         if: always()
         uses: actions/upload-artifact@v4
