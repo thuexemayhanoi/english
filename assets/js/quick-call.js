@@ -53,7 +53,7 @@
       (contactSheet && contactSheet.classList.contains('is-open')) ||
       (editing && keyboard);
     if (blocked) {
-      setOpen(false);
+      if (expanded()) setOpen(false);
       root.hidden = true;
       return;
     }
