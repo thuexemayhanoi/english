@@ -1,0 +1,62 @@
+/* Quick Call: English terracotta theme, independent of the shared site CSS.
+   Position is calculated from the measured dock and floating controls. */
+.quick-call {
+  --quick-call-bottom: 94px;
+  position: fixed;
+  z-index: 75; /* above dock (60), below contact sheet (90) and assistant panel (95) */
+  left: max(16px, env(safe-area-inset-left, 0px));
+  bottom: var(--quick-call-bottom);
+  width: 56px;
+  height: 56px;
+  isolation: isolate;
+  transition: bottom 150ms ease, left 150ms ease, right 150ms ease;
+}
+.quick-call[hidden], .quick-call__actions[hidden] { display: none !important; }
+.quick-call[data-side="right"] {
+  left: auto;
+  right: max(16px, env(safe-area-inset-right, 0px));
+}
+.quick-call__toggle {
+  width: 56px; height: 56px;
+  display: inline-flex; align-items: center; justify-content: center;
+  padding: 0; border: 2px solid var(--card); border-radius: 50%;
+  background: var(--accent); color: var(--accent-ink);
+  box-shadow: 0 6px 18px rgba(73, 39, 25, 0.25);
+  cursor: pointer; -webkit-tap-highlight-color: transparent;
+  transition: transform 150ms ease, box-shadow 150ms ease;
+}
+.quick-call__toggle:hover { transform: translateY(-2px); box-shadow: 0 8px 22px rgba(73,39,25,.31); }
+.quick-call__toggle:focus-visible, .quick-call__action:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
+}
+.quick-call__actions {
+  position: absolute; bottom: calc(100% + 12px); left: 0;
+  display: grid; gap: 4px; width: 177px; padding: 7px;
+  border: 1px solid var(--border); border-radius: 18px;
+  color: var(--fg); background: var(--card);
+  box-shadow: 0 12px 34px rgba(28, 24, 20, 0.20);
+  max-height: min(245px, calc(100dvh - var(--quick-call-bottom) - 96px));
+  overflow: auto; overscroll-behavior: contain;
+}
+.quick-call[data-side="right"] .quick-call__actions { right: 0; left: auto; }
+.quick-call__action {
+  display: flex; align-items: center; gap: 11px; min-height: 46px;
+  padding: 9px 10px; border-radius: 12px; font: 600 14px/1.25 var(--font-sans);
+  color: var(--fg); text-decoration: none;
+}
+.quick-call__action:hover { background: var(--accent-soft); color: var(--accent); text-decoration: none; }
+.quick-call__icon {
+  width: 30px; height: 30px; display: grid; place-items: center;
+  color: var(--accent); background: var(--accent-soft); border-radius: 50%;
+  font-size: 18px; flex: none;
+}
+.quick-call__sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+@media (min-width: 641px) { .quick-call { --quick-call-bottom: 24px; } }
+@media (max-width: 380px) {
+  .quick-call { width: 52px; height: 52px; }
+  .quick-call__toggle { width: 52px; height: 52px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .quick-call, .quick-call__toggle { transition: none; }
+}
