@@ -43,3 +43,5 @@ Petrol wins range and refuel speed. Electric works if your week is predictable: 
 ## Renting both in Hanoi
 
 Trying before buying is easy: petrol fleet models have published day rates from 150,000-200,000 VND, and the shop's E-Bike rents at 200,000 VND per day. [Contact us]({{ '/contact/' | relative_url }}) to confirm current availability of either format.
+
+For short stays the comparison is a rental question: [Can Foreigners Rent an E-Bike or Electric Motorbike in Vietnam?]({{ '/articles/can-foreigners-rent-electric-bike-vietnam/' | relative_url }}).

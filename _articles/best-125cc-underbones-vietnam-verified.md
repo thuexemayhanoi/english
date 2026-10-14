@@ -58,3 +58,5 @@ Future 125 FI from 30,622,909 VND; CT125 85,997,455 VND; Super Cub C125 88,353,8
 ## How to choose
 
 Daily commuting, two-up riding and value: Future 125 FI - nothing else in the class comes close for the money. Classic style for the sake of it: Super Cub C125. Gravel, luggage and day trips: CT125. The full model reviews are linked from this page. Contact us to confirm current availability for rental.
+
+Brand against brand across the classes: [Honda vs Yamaha Underbones]({{ '/articles/honda-vs-yamaha-underbones-verified/' | relative_url }}).

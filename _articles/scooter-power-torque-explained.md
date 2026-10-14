@@ -46,3 +46,5 @@ Spec sheets list kW and Nm as if everyone knows what they mean. Here is what the
 ## The practical test
 
 Numbers rank bikes; your body decides. A five-minute test ride tells you more than any table - and for renters, sitting on the actual bike before committing is free. Contact us to confirm current availability of any model.
+
+Where torque shows up on the road: [Best Scooters for Hanoi's Hills and Bridge Climbs]({{ '/articles/best-scooters-hanoi-hills-bridges/' | relative_url }}).

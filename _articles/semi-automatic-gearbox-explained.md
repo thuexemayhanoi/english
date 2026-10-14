@@ -42,3 +42,5 @@ Shifting without a clutch is slightly harsher than a manual shift done well, and
 ## Why this matters for visitors
 
 A semi-automatic is the middle option between a twist-and-go scooter and a full manual bike - our automatic versus manual comparison and scooter versus semi-automatic guide place it in context. If you rent, the Honda Wave and Yamaha Sirius classes are our price-published semi-automatic models at 150,000 VND per day - contact us to confirm current availability.
+
+If the gearbox is the deciding factor, start with [Beginner-Friendly Manual-Clutch Motorbikes in Vietnam]({{ '/articles/best-manual-clutch-motorbikes-beginners-verified/' | relative_url }}) and [Best Underbones for Beginner Riders]({{ '/articles/best-underbones-beginner-riders-verified/' | relative_url }}).

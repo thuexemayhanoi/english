@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23/24)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-winner-r-review, yamaha-exciter-155-vva-review, best-150cc-manual-motorbikes-vietnam-verified, best-motorbike-for-day-trips-from-hanoi, carrying-luggage-motorbike-safely-vietnam
+internal_link_targets: "honda-winner-r-review, yamaha-exciter-155-vva-review, best-150cc-manual-motorbikes-vietnam-verified, best-motorbike-for-day-trips-from-hanoi, carrying-luggage-motorbike-safely-vietnam, riding-honda-wave-alpha-110-guide"
 ---
 
 Vietnam's default touring image is a semi-automatic Wave with a backpack — but the sport underbone class (Honda Winner R, Yamaha Exciter 155 VVA) is a genuinely capable tourer for riders who want a clutch. Here is what the verified manufacturer data (retrieved 23 September 2026) says about taking one far.
@@ -40,3 +40,5 @@ The 17-inch wheels and wider rear tyres (120/70-17 both) are more stable than co
 ## Where the class stops making sense
 
 Long two-up touring with heavy luggage, and true off-road segments — the low-ish clearance, firm suspension and sport tyres are road tools. For riders mixing a big loop with city living, though, a manual sport underbone is the most fun per dong Vietnam sells. [Our 150cc manual guide]({{ '/articles/best-150cc-manual-motorbikes-vietnam-verified/' | relative_url }}) ranks the options, and [the day-trips-from-Hanoi guide]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }}) covers the routes to test one on first. Rental availability of any model: contact us to confirm current availability.
+
+Thinking of owning rather than renting one for the road? See [Buying a Used Sport Underbone]({{ '/articles/buying-used-sport-underbone-verified/' | relative_url }}) and [Winner R vs Exciter 155: Ownership Costs]({{ '/articles/winner-r-exciter-155-ownership-costs/' | relative_url }}).

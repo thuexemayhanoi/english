@@ -173,7 +173,7 @@
  "/articles/renting-motorbike-old-quarter/": {
   "status": "OPTIMIZED",
   "date": "2026-10-14",
-  "note": "batch 1: rental-process sentence + hub link, bare slug refs converted; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)"
+  "note": "batch 1: rental-process sentence + hub link, bare slug refs converted; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1); in-silo links or same-silo related cards (batch matrix-queue-2)"
  },
  "/articles/renting-motorbike-tay-ho/": {
   "status": "OPTIMIZED",
@@ -213,7 +213,7 @@
  "/articles/renting-motorbike-dong-da/": {
   "status": "OPTIMIZED",
   "date": "2026-10-14",
-  "note": "in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)"
+  "note": "in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1); in-silo links or same-silo related cards (batch matrix-queue-2)"
  },
  "/articles/renting-motorbike-cau-giay/": {
   "status": "OPTIMIZED",
@@ -269,5 +269,640 @@
   "status": "OPTIMIZED",
   "date": "2026-10-14",
   "note": "in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)"
+ },
+ "/articles/50cc-mopeds-vs-50cc-underbones/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/50cc-motorbike-myths-law-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/50cc-training-high-school-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/alloy-vs-spoked-wheels-motorbikes/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/ba-dinh-area-guide-riders/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/ba-vi-national-park-day-trip-motorbike/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/balancing-pillion-riding-motorbike-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/best-125cc-underbones-vietnam-verified/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/best-150cc-manual-motorbikes-vietnam-verified/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/best-155-160cc-scooters-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/best-scooters-short-riders-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/best-underbones-hanoi-commuting-verified/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/buying-first-scooter-vietnam-guide/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/buying-new-underbone-dealer-guide-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/carrying-luggage-motorbike-safely-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/checking-motorbike-after-fall-accident/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/choosing-motorbike-monthly-rental-hanoi/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/clutch-technique-stop-and-go-traffic/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/coasting-neutral-dangers-manual-motorbike/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/dashcams-motorbike-riding-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/dat-bike-weaver-200-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/dat-bike-weaver-plus-plus-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/dat-bike-weaver-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/disc-locks-chains-motorbike-security/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/do-you-need-insurance-to-ride-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/drink-driving-limits-motorbike-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/electric-moped-vs-electric-motorcycle-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/electric-motorbike-battery-health-check/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/electric-motorbike-cost-ownership-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/electric-motorbike-power-kw-licence-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/electric-vs-petrol-motorbike-hanoi/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/euro-4-scooters-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/fog-and-low-visibility-riding-motorbike-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/fuel-economy-test-cycles-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/hai-van-pass-motorbike-guide/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/hanoi-2025-administrative-restructuring-riders/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/hanoi-ceramic-mosaic-road-motorbike-route/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/hanoi-markets-motorbike-shopping/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/hanoi-night-markets-motorbike-guide/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/helmet-intercoms-bluetooth-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/helmet-rules-50cc-mopeds/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/highway-1-vietnam-motorbike-riding/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/honda-air-blade-125-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/honda-air-blade-160-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/honda-blade-110-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/honda-cbr150r-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/honda-ct125-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/honda-future-125-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/honda-lead-125-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/honda-scooter-lineup-vietnam-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/honda-sh-160-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/honda-sh-mode-125-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/honda-super-cub-c125-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/honda-vario-125-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/honda-vario-160-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/honda-vision-110-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/honda-wave-alpha-110-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/honda-wave-rsx-commuting-guide/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/honda-wave-rsx-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/honda-winner-r-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/how-to-get-a1-licence-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/how-to-read-motorbike-spec-sheet-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/manual-motorbike-rental-checklist-hanoi/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/manual-underbone-ownership-costs-hanoi/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/most-fuel-efficient-underbones-vietnam-verified/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/motorbike-alarms-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/motorbike-engine-codes-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/motorbike-rental-agreement-hanoi/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/motorbike-rental-female-riders-hanoi/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/motorbike-travel-insurance-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/new-scooter-prices-vietnam-verified/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/nui-coc-lake-thai-nguyen-motorbike-ride/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/phone-mounts-motorbike-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/power-to-weight-ratio-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/riding-electric-moped-16-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/riding-honda-super-cub-c125-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/riding-honda-wave-alpha-110-guide/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/riding-rental-motorbike-hanoi-rain/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/riding-six-speed-manual-winner-exciter/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/scooter-displacement-numbers-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/scooter-fuel-economy-comparison-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/scooter-payload-load-limits-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/scooter-power-torque-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/scooter-seat-heights-comparison-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/scooter-tyre-sizes-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/scooter-wheelbase-stability-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/scooters-with-smart-keys-vietnam-verified/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/second-helmet-passengers-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/semi-automatic-gearbox-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/smart-key-scooters-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/soc-temple-soc-son-motorbike-ride/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/sport-underbone-touring-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/students-semester-motorbike-rental-hanoi/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/test-riding-electric-motorbike-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/throttle-assist-long-rides/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/underbone-fuel-economy-figures-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/underbone-fuel-tank-range-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/underbone-kerb-weights-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/underbone-model-years-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/underbone-power-torque-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/underbone-seat-heights-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/underbone-storage-options-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/underbone-trim-versions-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/underbone-wheelbase-ground-clearance-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/vietnam-monsoon-season-motorbike-travel/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/vietnam-road-signs-guide/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/vinfast-amio-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/vinfast-evo-lite-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/vinfast-evo-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/vinfast-feliz-2-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/vinfast-viper-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/what-is-electric-motorbike-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/why-110cc-is-vietnams-default-engine/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/winner-r-exciter-155-ownership-costs/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/yamaha-exciter-155-vva-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/yamaha-freego-125-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/yamaha-gear-125-hybrid-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/yamaha-grande-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/yamaha-janus-125-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/yamaha-latte-125-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/yamaha-lexi-155-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/yamaha-nmax-155-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/yamaha-nvx-155-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/yamaha-pg-1-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/yamaha-scooter-lineup-vietnam-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/yamaha-sirius-rc-110-learner-guide/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/yamaha-sirius-rc-110-review/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-14",
+  "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
  }
 }

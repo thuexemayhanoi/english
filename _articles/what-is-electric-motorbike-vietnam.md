@@ -42,3 +42,5 @@ No fuel stops — you charge at home, at public chargers or by swapping batterie
 ## Renting electric in Hanoi
 
 The shop's E-Bike day rate is 200,000 VND with no published weekly or monthly rate. Contact us to confirm current availability of electric bikes for your dates.
+
+Visiting rather than living here? [Can Foreigners Rent an E-Bike or Electric Motorbike in Vietnam?]({{ '/articles/can-foreigners-rent-electric-bike-vietnam/' | relative_url }}) covers the rental side.

@@ -41,3 +41,7 @@ Follow the week-one practice plan unchanged — the bike is ideal for it. Two Si
 ## Renting or buying
 
 The Sirius is one of our price-published rental classes (Yamaha Sirius, 150,000 VND per day) — contact us to confirm current availability. If you are buying, the trim-choice guide (Sirius FI versus Sirius RC) covers the version question, and the beginner-underbones list places it against the Honda alternatives.
+
+Head-to-head comparisons involving this model: [Yamaha PG-1 vs Yamaha Sirius RC: Same Gearbox, Different Missions]({{ '/articles/yamaha-pg-1-vs-yamaha-sirius-rc/' | relative_url }}); [Yamaha Sirius FI vs Sirius RC: Which Underbone to Pick]({{ '/articles/yamaha-sirius-fi-vs-sirius-rc/' | relative_url }}).
+
+The two Sirius versions side by side: [Yamaha Sirius FI vs Sirius RC]({{ '/articles/yamaha-sirius-fi-vs-sirius-rc/' | relative_url }}).

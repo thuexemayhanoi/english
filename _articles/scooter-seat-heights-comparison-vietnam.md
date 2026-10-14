@@ -43,3 +43,5 @@ The spread across the whole mainstream class is just 25 mm - smaller than the di
 ## If you are choosing
 
 Shorter riders should start with the Lead (760 mm) or Janus (770 mm). Taller riders lose nothing on any of these - our tall [riders guide]({{ '/articles/best-motorbikes-for-tall-riders-vietnam/' | relative_url }}) covers what actually matters above average height. Renters: Nguyen Tu publishes rates for the Vision; for any other model contact us to confirm current availability, and sit on the actual bike before deciding - a five-minute sit beats every spec sheet.
+
+The shortlists that start from these figures: [Best Scooters for Tall Riders in Vietnam]({{ '/articles/best-scooters-tall-riders-vietnam/' | relative_url }}) and [Best Scooters for Short Riders in Vietnam]({{ '/articles/best-scooters-short-riders-vietnam/' | relative_url }}).

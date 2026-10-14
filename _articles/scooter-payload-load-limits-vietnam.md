@@ -54,3 +54,5 @@ Vietnamese traffic law governs passengers and load carriage - when a pillion is 
 4. Check tyre condition and pressure before a loaded trip (our tyre [care guide]({{ '/articles/50cc-tyres-small-wheels-care/' | relative_url }}); use the manufacturer's pressure values, never guessed ones).
 
 For renting with a pillion or cargo plans, say so when booking - contact us to confirm current availability of suitable models.
+
+Riders who load a scooter every day should read [Best Scooters for Delivery Riders in Vietnam]({{ '/articles/best-scooters-delivery-riders-vietnam/' | relative_url }}).

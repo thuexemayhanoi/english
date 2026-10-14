@@ -48,3 +48,5 @@ It remains a fixed-battery motorcycle: A1 licence required, hours to charge at h
 ## Who it suits
 
 [A1 licence holders]({{ '/articles/fast-electric-motorbike-licence-vietnam/' | relative_url }}) who ride hard or far: fast-charge network users, weekend-distance riders, and commuters who want headroom. If the budget or the riding is tamer, the Weaver 200 comparison is worth a read first.
+
+Head-to-head comparisons involving this model: [Dat Bike Weaver 200 vs Weaver++: Which A1 Electric to Buy]({{ '/articles/dat-bike-weaver-200-vs-weaver-plus-plus/' | relative_url }}).

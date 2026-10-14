@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "motorbike-passenger-rules-vietnam, child-passengers-motorbike-vietnam, best-motorbike-for-two-people-hanoi, slow-speed-control-motorbike-vietnam"
+internal_link_targets: "motorbike-passenger-rules-vietnam, child-passengers-motorbike-vietnam, best-motorbike-for-two-people-hanoi, slow-speed-control-motorbike-vietnam, group-riding-motorbike-vietnam"
 ---
 A pillion changes everything about how a bike handles: braking distances grow, slow-speed balance shifts, and a nervous passenger can steer the bike with you. Carrying someone safely is a real skill, not a favour.
 

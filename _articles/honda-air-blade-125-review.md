@@ -38,3 +38,5 @@ Riders who find the Vision's 110 cc too small but don't need the 160's extra per
 ## Renting one
 
 The Air Blade is one of the models with published rental rates at Nguyen Tu: 200,000 VND per day, 800,000 VND per week, 1,400,000 VND per month. As always, contact us to confirm current availability of the exact version for your dates - and run through the rental motorbike inspection checklist before you ride away.
+
+Head-to-head comparisons involving this model: [Honda Air Blade 125 vs Vario 125: Honda's 125cc Pair Compared]({{ '/articles/honda-air-blade-125-vs-honda-vario-125/' | relative_url }}); [Honda Vision vs Honda Air Blade: Entry Level or Step Up?]({{ '/articles/honda-vision-vs-honda-air-blade/' | relative_url }}); [Yamaha FreeGo 125 vs Honda Air Blade 125: Sporty 125 Alternatives]({{ '/articles/yamaha-freego-125-vs-honda-air-blade-125/' | relative_url }}).

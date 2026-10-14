@@ -49,3 +49,5 @@ Nguyen Tu does not publish a rental rate for the Gear 125. Contact us to confirm
 ## What to check before you ride one
 
 Brake feel, tyre condition and the pre-ride basics in our motorbike [safety checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}). Licence rules in Vietnam follow engine capacity - the 125 cc class is explained in our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}).
+
+Head-to-head comparisons involving this model: [Yamaha Gear 125 vs Honda Vision: Entry Scooters Compared]({{ '/articles/yamaha-gear-125-vs-honda-vision/' | relative_url }}); [Yamaha Gear 125 vs FreeGo 125: Which Budget Yamaha?]({{ '/articles/yamaha-gear-125-vs-yamaha-freego-125/' | relative_url }}); [Yamaha Gear 125 vs Janus 125: Yamaha's Budget Pair Compared]({{ '/articles/yamaha-gear-125-vs-yamaha-janus-125/' | relative_url }}); [Yamaha Latte 125 vs Gear 125: Room and Style vs Hybrid Budget]({{ '/articles/yamaha-latte-125-vs-yamaha-gear-125/' | relative_url }}).

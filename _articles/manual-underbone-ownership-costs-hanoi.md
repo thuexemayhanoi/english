@@ -45,3 +45,5 @@ New mainstream semi-autos list from roughly 18.8 million VND (Wave Alpha) throug
 Renting makes sense for stays under a few months — monthly rates, no paperwork, no theft exposure, maintenance handled. Owning wins on longer horizons and full-time residence, once the purchase price has amortised. [Our monthly-rental guide]({{ '/articles/monthly-renting-manual-clutch-hanoi/' | relative_url }}) covers the renting side; if you are on the renting side of the line, contact us to confirm current availability.
 
 Whichever side you choose, the economics of this class are unbeatable — which is exactly why half the country rides them.
+
+The same arithmetic for the two sport underbones: [Honda Winner R vs Yamaha Exciter 155: Ownership Costs]({{ '/articles/winner-r-exciter-155-ownership-costs/' | relative_url }}).

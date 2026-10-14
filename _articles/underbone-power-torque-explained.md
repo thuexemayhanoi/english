@@ -37,3 +37,5 @@ City riding rewards low-rpm torque: the CT, Future and Cub figures arrive early 
 ## Rental advice
 
 The price-published Wave and Sirius classes (150,000 VND/day) deliver exactly the low-rpm character that suits new visitors; contact us to confirm current availability of any model.
+
+Torque with a passenger on board is the theme of [Best Underbones for Two-Up Riding]({{ '/articles/best-underbones-two-up-verified/' | relative_url }}).

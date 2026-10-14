@@ -58,3 +58,5 @@ The NVX 155 and Latte 125 both sit at 790 mm. Both are light (125 kg and 100 kg)
 ## Renting as a shorter rider
 
 Rental fleets favour low, light scooters for exactly this reason. Nguyen Tu's price-published models include the Honda Vision (200,000 VND/day) - note its 785 mm seat is mid-pack despite the small engine. Contact us to confirm current availability, and always test the stand-over before you ride off, with [our rental inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) as the final check.
+
+The opposite problem has its own list: [Best Scooters for Tall Riders in Vietnam]({{ '/articles/best-scooters-tall-riders-vietnam/' | relative_url }}).

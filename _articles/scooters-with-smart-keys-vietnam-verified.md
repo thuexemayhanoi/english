@@ -50,3 +50,5 @@ No manufacturer system prevents theft by itself, and none replaces a disc lock o
 ## Bottom line
 
 Smart keys are now normal equipment from roughly 40 million VND upward, and available below that in some ranges. Availability by version varies - confirm the exact version before you buy, and contact us to confirm current availability of any rental model.
+
+The companion list for charging on the move: [Scooters with USB-C Charging in Vietnam]({{ '/articles/scooters-with-usb-c-charging-verified/' | relative_url }}).

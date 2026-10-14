@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "automatic-or-semi-automatic-monthly-hanoi, which-motorbikes-have-monthly-rates-hanoi, high-mileage-monthly-rental-hanoi, test-riding-before-monthly-rental-hanoi"
+internal_link_targets: "automatic-or-semi-automatic-monthly-hanoi, which-motorbikes-have-monthly-rates-hanoi, high-mileage-monthly-rental-hanoi, test-riding-before-monthly-rental-hanoi, monthly-rental-vs-ride-hailing-hanoi"
 ---
 
 Choosing a bike for a month is a different decision from choosing one for a day. Small annoyances do not have time to matter in 24 hours; over thirty days they define the rental.

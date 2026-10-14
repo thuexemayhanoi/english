@@ -49,3 +49,5 @@ Nguyen Tu does not publish a rental rate for the NVX. Contact us to confirm curr
 ## What to check before you ride one
 
 Tyre wear on that wide rear, brake feel, and the ABS warning lamp sequence at start-up. Then work through our rental [motorbike inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}).
+
+Head-to-head comparisons involving this model: [Honda Vario 160 vs Yamaha NVX 155: The Sporty Scooter Duel]({{ '/articles/honda-vario-160-vs-yamaha-nvx-155/' | relative_url }}); [Yamaha NMAX 155 vs NVX 155: Two Personalities, One Engine]({{ '/articles/yamaha-nmax-155-vs-yamaha-nvx-155/' | relative_url }}); [Yamaha NVX 155 vs Honda Air Blade 160: Two Ways to Be Fast]({{ '/articles/yamaha-nvx-155-vs-honda-air-blade-160/' | relative_url }}); [Yamaha NVX 155 vs Lexi 155: Sporty Attack or Big-Wheel Comfort]({{ '/articles/yamaha-nvx-155-vs-yamaha-lexi-155/' | relative_url }}).

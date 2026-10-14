@@ -20,7 +20,7 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 8(2) (alcohol prohibition)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 7(6)(a), (8)(b), (9)(d), (12)(c), (13)"
   - "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650 — Ministry of Public Security summary of Article 7 fines for motorbike riders"
-internal_link_targets: "motorbike-fines-vietnam-overview, can-tourists-ride-motorbike-vietnam"
+internal_link_targets: "motorbike-fines-vietnam-overview, can-tourists-ride-motorbike-vietnam, phone-use-while-riding-vietnam, child-passengers-motorbike-vietnam"
 ---
 
 Vietnam has no "one beer is fine" allowance. Article 8 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) prohibits operating any vehicle with alcohol in your blood or breath: any detectable alcohol while riding a motorbike or moped is an offence.

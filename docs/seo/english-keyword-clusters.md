@@ -90,6 +90,13 @@ Generated 2026-10-14 by `scripts/english-seo-matrix.js`. Keyword ownership is de
 | Honda bikes in Vietnam _(variant of Honda motorbike Vietnam)_ | informational | /topics/motorcycles/ | Motorcycles in Vietnam | partial |  |  |
 | Motorbike routes Vietnam | informational | /topics/trips/ | Motorbike Trips from Hanoi | full | /articles/vietnam-motorbike-backpacker-trail/, /topics/vietnam-travel/ | Route-planning head term; the trips pillar owns it, the backpacker-trail guide and the Vietnam travel pillar support it. Consolidates a split family. |
 | Motorbike route Vietnam _(variant of Motorbike routes Vietnam)_ | informational | /topics/trips/ | Motorbike Trips from Hanoi | full |  |  |
+| Motorbike holidays Vietnam _(variant of Motorbike Vietnam)_ | informational | /topics/vietnam-travel/ | Vietnam Travel by Motorbike | partial |  |  |
+| Hanoi to Ho Chi Minh by motorbike | informational | /articles/hanoi-to-ho-chi-minh-city-by-motorbike/ | Hanoi to Ho Chi Minh City by Motorbike: The North-to-South Ride | full | /topics/vietnam-travel/, /articles/one-way-motorbike-rental-vietnam/ | North-south route head term (keyword-universe.json); the route guide owns it, the Vietnam travel pillar and the one-way rental guide support it. |
+| Saigon to Hanoi motorbike _(variant of Hanoi to Ho Chi Minh by motorbike)_ | informational | /articles/hanoi-to-ho-chi-minh-city-by-motorbike/ | Hanoi to Ho Chi Minh City by Motorbike: The North-to-South Ride | partial |  |  |
+| Motorbike from Hanoi to Ho Chi Minh _(variant of Hanoi to Ho Chi Minh by motorbike)_ | informational | /articles/hanoi-to-ho-chi-minh-city-by-motorbike/ | Hanoi to Ho Chi Minh City by Motorbike: The North-to-South Ride | full |  |  |
+| One way motorbike rental Vietnam | commercial | /articles/one-way-motorbike-rental-vietnam/ | One-Way Motorbike Rental in Vietnam: How North to South Works | full | /topics/vietnam-travel/ | One-way (city-to-city) rental intent; the business rents in Hanoi only, so the guide explains the option without claiming the service (OWNER-FACTS). |
+| One way scooter rental Vietnam _(variant of One way motorbike rental Vietnam)_ | commercial | /articles/one-way-motorbike-rental-vietnam/ | One-Way Motorbike Rental in Vietnam: How North to South Works | partial |  |  |
+| Vietnam scooter rental one way _(variant of One way motorbike rental Vietnam)_ | commercial | /articles/one-way-motorbike-rental-vietnam/ | One-Way Motorbike Rental in Vietnam: How North to South Works | partial |  |  |
 
 ## Topic cluster map (14 clusters, 981 articles)
 
@@ -97,11 +104,11 @@ Generated 2026-10-14 by `scripts/english-seo-matrix.js`. Keyword ownership is de
 |---|---|---|---|---|---|---|---|
 | 1 | rental | /topics/rental/ | 81 | 34 | 47 | 410 | 5 |
 | 2 | monthly-rental | /topics/monthly-rental/ | 45 | 12 | 33 | 356 | 5 |
-| 3 | scooters | /topics/scooters/ | 110 | 51 | 59 | 361 | 4 |
-| 4 | motorcycles | /topics/motorcycles/ | 108 | 65 | 43 | 321 | 4 |
-| 5 | manual-clutch | /topics/manual-clutch/ | 55 | 9 | 46 | 381 | 4 |
+| 3 | scooters | /topics/scooters/ | 110 | 51 | 59 | 371 | 4 |
+| 4 | motorcycles | /topics/motorcycles/ | 108 | 65 | 43 | 333 | 4 |
+| 5 | manual-clutch | /topics/manual-clutch/ | 55 | 9 | 46 | 385 | 4 |
 | 6 | 50cc | /topics/50cc/ | 40 | 0 | 40 | 398 | 6 |
-| 7 | electric | /topics/electric/ | 89 | 5 | 84 | 338 | 9 |
+| 7 | electric | /topics/electric/ | 89 | 5 | 84 | 342 | 9 |
 | 8 | maintenance | /topics/maintenance/ | 120 | 0 | 120 | 438 | 3 |
 | 9 | parts-gear | /topics/parts-gear/ | 90 | 0 | 90 | 374 | 5 |
 | 10 | safety | /topics/safety/ | 55 | 0 | 55 | 331 | 3 |

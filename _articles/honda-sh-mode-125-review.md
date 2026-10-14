@@ -49,3 +49,5 @@ Nguyen Tu does not publish a rental rate for this model. Contact us to confirm c
 ## What to check before you ride one
 
 Tyre condition, brake feel, and whether the version in front of you is an ABS version. Licence rules in Vietnam depend on engine capacity - the 125 cc class requires the appropriate licence class, covered in our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}).
+
+Head-to-head comparisons involving this model: [Honda SH Mode 125 vs Honda Air Blade 160: Badge or Pace?]({{ '/articles/honda-sh-mode-125-vs-honda-air-blade-160/' | relative_url }}); [Honda SH Mode 125 vs Honda Lead 125: Badge or Storage?]({{ '/articles/honda-sh-mode-125-vs-honda-lead-125/' | relative_url }}); [Honda SH Mode 125 vs SH160i: Which Premium Honda Makes Sense?]({{ '/articles/honda-sh-mode-125-vs-honda-sh-160/' | relative_url }}); [Yamaha Lexi 155 vs Honda SH Mode 125: The Value Premium Trade]({{ '/articles/yamaha-lexi-155-vs-honda-sh-mode-125/' | relative_url }}).

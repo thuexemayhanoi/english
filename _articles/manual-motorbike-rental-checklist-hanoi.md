@@ -43,3 +43,5 @@ Photograph all four sides, the odometer, and any existing scratch. Timestamped p
 ## What to skip
 
 Do not adjust or repair a rental bike yourself — report the issue to the provider instead, and for anything mechanical, the basic maintenance knowledge guide helps you describe the symptom correctly rather than attempt the fix.
+
+Brake type is a trim question on some models; the Blade is the clearest case: [Honda Blade Drum vs Disc]({{ '/articles/honda-blade-drum-vs-disc/' | relative_url }}).

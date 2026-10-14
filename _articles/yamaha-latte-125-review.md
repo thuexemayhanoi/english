@@ -49,3 +49,5 @@ Nguyen Tu does not publish a rental rate for the Latte. Contact us to confirm cu
 ## What to check before you ride one
 
 Small wheels are more sensitive to potholes - inspect both tyres carefully. Then work through our rental [motorbike inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}).
+
+Head-to-head comparisons involving this model: [Honda Vario 125 vs Yamaha Latte: New Rival, Classic Trade-Offs]({{ '/articles/honda-vario-125-vs-yamaha-latte-125/' | relative_url }}); [Yamaha Latte 125 vs Honda Lead 125: The Storage Champions]({{ '/articles/yamaha-latte-125-vs-honda-lead-125/' | relative_url }}); [Yamaha Latte 125 vs Gear 125: Room and Style vs Hybrid Budget]({{ '/articles/yamaha-latte-125-vs-yamaha-gear-125/' | relative_url }}); [Yamaha Latte vs Yamaha Grande: Two Style Scooters, One Garage]({{ '/articles/yamaha-latte-vs-yamaha-grande/' | relative_url }}).

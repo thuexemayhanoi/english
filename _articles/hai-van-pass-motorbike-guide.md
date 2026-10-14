@@ -20,7 +20,7 @@ sources:
   - "https://vietnamcoracle.com/hai-van-the-pass-of-ocean-mist-5/ — Vietnam Coracle's Hai Van Pass motorbike guide, the pass of ocean mist, retrieved 2026-09-24"
   - "https://hiddenhoian.com/travel/guide-hai-van-pass/ — Hai Van Pass route and rental guide; motorbikes are not allowed in the Hai Van Tunnel and a shuttle service exists, retrieved 2026-09-24"
   - "https://backpackmoments.com/hai-van-pass-on-a-motorcycle/ — full guide to the pass on a motorcycle, retrieved 2026-09-24"
-internal_link_targets: renting-motorbike-da-nang, renting-motorbike-hue, mountain-pass-riding-motorbike-vietnam, fog-and-low-visibility-riding-motorbike-vietnam, hanoi-to-ho-chi-minh-city-by-motorbike
+internal_link_targets: "renting-motorbike-da-nang, renting-motorbike-hue, mountain-pass-riding-motorbike-vietnam, fog-and-low-visibility-riding-motorbike-vietnam, hanoi-to-ho-chi-minh-city-by-motorbike, tet-holiday-motorbike-travel-vietnam"
 ---
 
 The Hai Van Pass — the "Sea of Clouds Pass" — is the single most famous motorbike road in Vietnam: a 20-odd-kilometre climb over the mountain wall between Hue and Da Nang, with the South China Sea directly below and the old gate of Annam at the top. For a decade after the tunnel under the pass opened, through-traffic disappeared underground and left the pass to motorbikes and viewpoints. Today it is busy again — but it still deserves its reputation, and this is how to ride it well.

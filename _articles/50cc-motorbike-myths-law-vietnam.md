@@ -20,7 +20,7 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Articles 3, 31, 56, 58, 59 (definitions, helmet, insurance, rider requirements)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Articles 7, 18 (fines for mopeds and motorbikes; age offences)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: 50cc-licence-vietnam, helmet-law-vietnam, motorbike-fines-vietnam-overview, compulsory-motorbike-insurance-vietnam, electric-bike-licence-vietnam
+internal_link_targets: "50cc-licence-vietnam, helmet-law-vietnam, motorbike-fines-vietnam-overview, compulsory-motorbike-insurance-vietnam, electric-bike-licence-vietnam, 50cc-fines-vietnam, do-you-need-insurance-for-50cc-vietnam"
 ---
 
 "No licence needed" is the most misunderstood phrase in Vietnamese traffic law. Five myths do the rounds; here is what the statutes actually say.

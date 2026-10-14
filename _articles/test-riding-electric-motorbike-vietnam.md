@@ -44,3 +44,5 @@ The odd sensation is the launch: full torque from standstill, no gears, no clutc
 ## After the ride
 
 Judge the machine against your real commute, not the open-road fantasy. Most riders' honest answer is which trade — swap access, raw range, licence class, budget — they are actually buying. The buying-first guide matches profiles to machines; the used-buying checklist adds the pack and paperwork inspection for second-hand purchases.
+
+The decision framework around the test ride: [Buying Your First Electric Motorbike in Vietnam]({{ '/articles/buying-first-electric-motorbike-vietnam/' | relative_url }}).

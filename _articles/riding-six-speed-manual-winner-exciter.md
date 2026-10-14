@@ -37,3 +37,5 @@ The gearing is taller than a commuter's first gear, so launches need slightly mo
 ## On open roads
 
 This is where the class makes sense: confident overtaking, stable cruising and honest braking. The Exciter's VVA engine keeps pulling high into the rev range, and the Winner R cruises comfortably at highway speeds. [Our 150cc manual buyers guide]({{ '/articles/best-150cc-manual-motorbikes-vietnam-verified/' | relative_url }}) ranks the whole class on verified data, and the Exciter and Winner R reviews have the full specifications.
+
+Buying one of these second-hand: [Buying a Used Sport Underbone: Winner R and Exciter 155]({{ '/articles/buying-used-sport-underbone-verified/' | relative_url }}).

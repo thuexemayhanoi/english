@@ -50,3 +50,5 @@ Mostly narrow streets and short hops: shorter wheelbase, smaller wheels, lighter
 ## One caution
 
 Wheelbase figures are manufacturer-published geometry, not handling ratings. Suspension quality, tyre condition and load all change real stability - and none of them can be judged from a spec sheet. Test ride before you commit, and for rentals run through [our inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}).
+
+Where stability matters most, see [Best Scooters for Long-Distance Touring]({{ '/articles/best-scooters-long-distance-touring-vietnam/' | relative_url }}).

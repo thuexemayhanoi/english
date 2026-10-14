@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: riding-downhill-motorbike-engine-braking, how-to-downshift-smoothly-manual-motorbike, clutch-technique-stop-and-go-traffic, finding-neutral-manual-motorbike, how-to-ride-manual-clutch-motorbike-vietnam
+internal_link_targets: "riding-downhill-motorbike-engine-braking, how-to-downshift-smoothly-manual-motorbike, clutch-technique-stop-and-go-traffic, finding-neutral-manual-motorbike, how-to-ride-manual-clutch-motorbike-vietnam, semi-auto-to-manual-clutch-upgrade"
 ---
 
 Coasting — pulling the clutch in or knocking into neutral and rolling along with the engine disconnected — feels smooth and free. It is also one of the most common bad habits among new manual riders in Vietnam, especially on the long gentle descents of bridges and overpasses. Here is what the habit costs you, and what to do instead.

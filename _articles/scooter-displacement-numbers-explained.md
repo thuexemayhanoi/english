@@ -37,3 +37,5 @@ Vietnamese licence classes are set by engine capacity, and the boundary cases ar
 ## And for buyers
 
 Displacement correlates with, but does not determine, performance - a two-valve 124.9 and a four-valve 124.9 publish very different outputs (see our valve [count and power explainer]({{ '/articles/scooter-valve-counts-explained/' | relative_url }})s). Compare verified output figures, not capacity, when ranking models - our spec-sheet [guide]({{ '/articles/how-to-read-motorbike-spec-sheet-vietnam/' | relative_url }}) shows where each number lives.
+
+Choosing between the classes is the subject of [110cc vs 125cc vs 155-160cc: Which Scooter Class Fits]({{ '/articles/which-scooter-engine-class-vietnam/' | relative_url }}) and [Best 125cc Scooters in Vietnam]({{ '/articles/best-125cc-scooters-vietnam-verified/' | relative_url }}).

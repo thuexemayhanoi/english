@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "monthly-motorbike-rental-hanoi, motorbike-rental-budget-monthly-hanoi, monthly-vs-daily-motorbike-rental-hanoi, minimum-age-ride-motorbike-vietnam"
+internal_link_targets: "monthly-motorbike-rental-hanoi, motorbike-rental-budget-monthly-hanoi, monthly-vs-daily-motorbike-rental-hanoi, minimum-age-ride-motorbike-vietnam, learning-to-ride-monthly-rental-hanoi"
 ---
 
 An exchange term or a university year in Hanoi is exactly the length where daily rental becomes wasteful and buying is too much commitment. A semester rental fills the gap.

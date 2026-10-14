@@ -43,3 +43,5 @@ Battery ageing is the big one: capacity fades with cycles, and a replacement pac
 ## Compared with petrol
 
 Petrol bikes cost more per kilometre in fuel and servicing, less in capital and anxiety. Over years of city commuting, electric usually wins the total bill — provided you can charge where you park. If you cannot, swapping fees and station time shrink the gap. Rent either format first if you want the experience before the ledger: the shop's E-Bike is 200,000 VND per day.
+
+Deciding what to buy with these costs in mind: [Buying Your First Electric Motorbike in Vietnam]({{ '/articles/buying-first-electric-motorbike-vietnam/' | relative_url }}) and [Buying a Used Electric Motorbike in Vietnam]({{ '/articles/buying-used-electric-motorbike-vietnam/' | relative_url }}).

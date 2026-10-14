@@ -43,3 +43,5 @@ Mopeds are cheaper to run and simpler on paperwork, but their design speed keeps
 ## Choosing between them
 
 If you ride mostly inside districts at modest speeds and hold no licence, the 4 kW class fits. If you already hold an A1 — many foreign residents do — the faster class opens models like the Weaver 200. For rentals, the shop's E-Bike sits in the easy class: 200,000 VND per day, availability by contact.
+
+Licence-free picks on the moped side of the line: [Best Electric Mopeds for Students in Vietnam]({{ '/articles/best-electric-moped-students-vietnam/' | relative_url }}).

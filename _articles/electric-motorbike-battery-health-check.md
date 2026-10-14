@@ -46,3 +46,5 @@ Turn the machine on before riding and look for fault lights or display codes; as
 ## What you are deciding
 
 A healthy pack makes a used electric a bargain; a tired one makes it a rolling battery-replacement invoice ([our replacement article]({{ '/articles/electric-motorbike-battery-replacement-vietnam/' | relative_url }}) covers what that costs). Take the time — the ten minutes of this check is the cheapest insurance in the whole purchase.
+
+This check is the heart of [Buying a Used Electric Motorbike in Vietnam]({{ '/articles/buying-used-electric-motorbike-vietnam/' | relative_url }}).

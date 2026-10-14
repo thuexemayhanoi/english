@@ -49,3 +49,5 @@ Nguyen Tu does not publish a rental rate for the SH. Contact us to confirm curre
 ## What to check before you ride one
 
 Confirm the exact version (ABS and HSTC or standard), tyre condition and brake feel, and work through our rental [motorbike inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) before signing anything.
+
+Head-to-head comparisons involving this model: [Honda SH160i vs Vario 160: Same Engine Family, Different Worlds]({{ '/articles/honda-sh-160-vs-honda-vario-160/' | relative_url }}); [Honda SH Mode 125 vs SH160i: Which Premium Honda Makes Sense?]({{ '/articles/honda-sh-mode-125-vs-honda-sh-160/' | relative_url }}); [Yamaha NMAX 155 vs Honda SH160i: Premium Scooter Icons Compared]({{ '/articles/yamaha-nmax-155-vs-honda-sh-160/' | relative_url }}).

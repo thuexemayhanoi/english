@@ -22,7 +22,7 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-12-2025-tt-bca-cua-bo-cong-an-quy-dinh-ve-sat-hach-cap-giay-phep-lai-xe-119250303174347028.htm — Circular 12/2025/TT-BCA of the Ministry of Public Security, full text (Báo điện tử Chính phủ) — test and licensing procedure"
   - "https://xaydungchinhsach.chinhphu.vn/quy-trinh-sat-hach-lai-xe-mo-to-hang-a1-va-a-tu-1-1-2025-119241216163302862.htm — Báo điện tử Chính phủ: A1 and A motorbike test procedure from 1 January 2025 (Circular 12/2025/TT-BCA, Phụ lục II)"
   - "https://thanhnien.vn/tu-19-hoc-bang-lai-xe-may-hang-a-a1-bao-lau-moi-duoc-thi-sat-hach-185250909090811652.htm — Thanh Niên: Circular 14/2025/TT-BXD training-hour requirements for class A and A1 from 1 September 2025"
-internal_link_targets: "a1-licence-vietnam-what-you-can-ride, vietnam-a1-licence-test, a1-licence-cost-vietnam, minimum-age-ride-motorbike-vietnam, vietnam-licence-test-in-english, lost-motorbike-licence-replacement-vietnam"
+internal_link_targets: "a1-licence-vietnam-what-you-can-ride, vietnam-a1-licence-test, a1-licence-cost-vietnam, minimum-age-ride-motorbike-vietnam, vietnam-licence-test-in-english, lost-motorbike-licence-replacement-vietnam, ride-125cc-with-car-licence-vietnam"
 ---
 
 Short answer: be 18 or older, enrol at a licensed training centre, complete the course, pass a [25-question theory test and a practical test]({{ '/articles/vietnam-a1-licence-test/' | relative_url }}) in the figure, and pay the state fees. The A1 licence covers motorbikes up to and including 125 cc or 11 kW — the category almost every scooter rented in Hanoi falls into.

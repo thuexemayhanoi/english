@@ -49,3 +49,5 @@ Nguyen Tu does not publish a rental rate for the Vario 125. Contact us to confir
 ## What to check before you ride one
 
 Tyre condition, brake feel, and that the smart key system works properly. Then work through our rental [motorbike inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) before you sign.
+
+Head-to-head comparisons involving this model: [Honda Air Blade 125 vs Vario 125: Honda's 125cc Pair Compared]({{ '/articles/honda-air-blade-125-vs-honda-vario-125/' | relative_url }}); [Honda Vario 125 vs Honda Lead 125: Sporty Newcomer vs Cargo King]({{ '/articles/honda-vario-125-vs-honda-lead-125/' | relative_url }}); [Honda Vario 125 vs Yamaha Latte: New Rival, Classic Trade-Offs]({{ '/articles/honda-vario-125-vs-yamaha-latte-125/' | relative_url }}); [Honda Vision vs Honda Vario 125: Old Favourite vs New Standard]({{ '/articles/honda-vision-vs-honda-vario-125/' | relative_url }}); [Yamaha FreeGo 125 vs Honda Vario 125: Flat-Floor Rivals]({{ '/articles/yamaha-freego-125-vs-honda-vario-125/' | relative_url }}).

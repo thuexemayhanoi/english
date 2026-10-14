@@ -36,3 +36,5 @@ A fob in your pocket broadcasts a low-power signal. When it is within range, the
 ## If you are choosing
 
 Smart key is a convenience, not a safety system - weight it below brakes, storage and seat fit. Renters: check whether your rental bike uses a fob before riding off, ask for the backup key, and test the seat open/close at the shop. Contact us to confirm current availability of any specific model. For the current model-by-model list, see our verified smart-key scooter list.
+
+Another convenience feature with its own verified list: [Scooters with USB-C Charging in Vietnam]({{ '/articles/scooters-with-usb-c-charging-verified/' | relative_url }}).

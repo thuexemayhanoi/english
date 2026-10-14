@@ -475,6 +475,55 @@
      "owner": "/topics/trips/",
      "intent": "informational",
      "variant_of": "Motorbike routes Vietnam"
+    },
+    {
+     "keyword": "Motorbike holidays Vietnam",
+     "owner": "/topics/vietnam-travel/",
+     "intent": "informational",
+     "variant_of": "Motorbike Vietnam"
+    },
+    {
+     "keyword": "Hanoi to Ho Chi Minh by motorbike",
+     "owner": "/articles/hanoi-to-ho-chi-minh-city-by-motorbike/",
+     "intent": "informational",
+     "supporting": [
+      "/topics/vietnam-travel/",
+      "/articles/one-way-motorbike-rental-vietnam/"
+     ],
+     "note": "North-south route head term (keyword-universe.json); the route guide owns it, the Vietnam travel pillar and the one-way rental guide support it."
+    },
+    {
+     "keyword": "Saigon to Hanoi motorbike",
+     "owner": "/articles/hanoi-to-ho-chi-minh-city-by-motorbike/",
+     "intent": "informational",
+     "variant_of": "Hanoi to Ho Chi Minh by motorbike"
+    },
+    {
+     "keyword": "Motorbike from Hanoi to Ho Chi Minh",
+     "owner": "/articles/hanoi-to-ho-chi-minh-city-by-motorbike/",
+     "intent": "informational",
+     "variant_of": "Hanoi to Ho Chi Minh by motorbike"
+    },
+    {
+     "keyword": "One way motorbike rental Vietnam",
+     "owner": "/articles/one-way-motorbike-rental-vietnam/",
+     "intent": "commercial",
+     "supporting": [
+      "/topics/vietnam-travel/"
+     ],
+     "note": "One-way (city-to-city) rental intent; the business rents in Hanoi only, so the guide explains the option without claiming the service (OWNER-FACTS)."
+    },
+    {
+     "keyword": "One way scooter rental Vietnam",
+     "owner": "/articles/one-way-motorbike-rental-vietnam/",
+     "intent": "commercial",
+     "variant_of": "One way motorbike rental Vietnam"
+    },
+    {
+     "keyword": "Vietnam scooter rental one way",
+     "owner": "/articles/one-way-motorbike-rental-vietnam/",
+     "intent": "commercial",
+     "variant_of": "One way motorbike rental Vietnam"
     }
    ]
   }

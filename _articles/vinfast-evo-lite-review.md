@@ -44,3 +44,5 @@ The trade is honest: the same traffic that a 70 km/h-class scooter escapes with 
 ## Who it suits
 
 Riders who prioritise the unambiguous licence-free position, want the swap ecosystem (9,000 VND per battery per swap, rental at 175,000–300,000 VND monthly) and accept the speed ceiling. For everyone else, the comparison against the Amio (the other licence-free formula in the family) and the standard Evo review map the choices. Availability as a rental: contact us to confirm current availability.
+
+Head-to-head comparisons involving this model: [VinFast Amio vs Evo Lite: Which Licence-Free Ride to Choose]({{ '/articles/vinfast-amio-vs-evo-lite/' | relative_url }}); [VinFast Evo Lite vs Amio: Specs and Battery Ecosystem]({{ '/articles/vinfast-evo-lite-vs-amio/' | relative_url }}).

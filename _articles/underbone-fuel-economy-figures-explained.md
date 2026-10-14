@@ -37,3 +37,5 @@ Use the claimed ladder as a ranking - it is genuinely reliable for ranking - the
 ## Rental context
 
 The price-published rental classes here (Wave and Sirius, 150,000 VND/day) sit at 1.72 and 2.08 L/100 km claimed - plan roughly two litres of fuel per 100 km of city riding in your budget, then refine with your own measurement. Contact us to confirm current availability.
+
+The figures ranked: [Most Fuel-Efficient Underbones in Vietnam]({{ '/articles/most-fuel-efficient-underbones-vietnam-verified/' | relative_url }}); the riders who feel them most: [Best Underbones for Delivery Riders]({{ '/articles/best-underbones-delivery-riders-verified/' | relative_url }}).

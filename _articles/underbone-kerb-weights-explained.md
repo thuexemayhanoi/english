@@ -37,3 +37,5 @@ Stability. Heavier machines sit steadier at highway speed and in crosswinds - on
 ## Practical advice
 
 New riders in Vietnam should start at the light end - under 105 kg - before considering the 120 kg-plus classes. The Wave and Sirius rental classes (both 150,000 VND per day, price-published here) sit exactly in that friendly zone; contact us to confirm current availability of specific models.
+
+Weight decides two of the shortlists: [Best Underbones for Beginner Riders]({{ '/articles/best-underbones-beginner-riders-verified/' | relative_url }}) and [Best Underbones for Short Riders]({{ '/articles/best-underbones-short-riders-verified/' | relative_url }}).

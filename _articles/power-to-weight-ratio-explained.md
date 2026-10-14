@@ -53,3 +53,5 @@ Gearing, clutch type and where torque peaks decide how the power reaches the roa
 ## Feeling the difference
 
 Our price-published daily classes are the Honda Wave and Yamaha Sirius at 150,000 VND per day - contact us to confirm current availability. Sport models: contact us. Insurance is not included in rentals.
+
+The ratio in practice: [Fastest Motorbikes Under 155cc in Vietnam]({{ '/articles/fastest-motorbikes-under-155cc-vietnam-verified/' | relative_url }}) and [Who Actually Needs a 150cc Manual Motorbike]({{ '/articles/who-needs-150cc-manual-motorbike/' | relative_url }}).

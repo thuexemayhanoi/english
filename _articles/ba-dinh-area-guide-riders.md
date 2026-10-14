@@ -18,7 +18,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "https://vietcetera.com/en/a-post-merger-guide-to-hanoi-navigating-vietnams-capital — retrieved 2026-09-24: former district names remain in everyday use after the July 2025 restructuring into wards and communes"
-internal_link_targets: renting-motorbike-ba-dinh, self-guided-hanoi-motorbike-city-tour, hanoi-districts-layout-guide-riders, where-to-park-motorbike-hanoi, hanoi-weekend-parks-motorbike-outings, west-lake-loop-motorbike-route, hanoi-motorbike-commute-corridors
+internal_link_targets: "renting-motorbike-ba-dinh, self-guided-hanoi-motorbike-city-tour, hanoi-districts-layout-guide-riders, where-to-park-motorbike-hanoi, hanoi-weekend-parks-motorbike-outings, west-lake-loop-motorbike-route, hanoi-motorbike-commute-corridors, hai-ba-trung-area-guide-riders"
 ---
 
 Ba Dinh is Hanoi's ceremonial face: the mausoleum complex, the parliament and ministry buildings, the stately avenue of Dien Bien Phu, and a set of wide, divided boulevards unlike anything in the Old Quarter. For riders it is the part of the city where the road itself is easy and the context requires a little more thought.

@@ -67,7 +67,7 @@ for (const p of pages) {
 const clusterOf = url => (nodes[url] && nodes[url].cluster) || '';
 
 // ---------- edges ----------
-const inBody = {}, inRelated = {}, inSiloBody = {}, crossEdges = {};
+const inBody = {}, inRelated = {}, inSiloBody = {}, inSiloCard = {}, crossEdges = {};
 const addIn = (map, url, from) => { (map[url] = map[url] || new Set()).add(from); };
 for (const n of Object.values(nodes)) {
   for (const t of n.bodyOut) {
@@ -77,7 +77,7 @@ for (const n of Object.values(nodes)) {
     if (same) addIn(inSiloBody, t, n.url);
     else if (n.type !== 'page' && nodes[t].type !== 'page') { const k = (n.cluster || '(site)') + '>' + (clusterOf(t) || '(site)'); crossEdges[k] = (crossEdges[k] || 0) + 1; }
   }
-  for (const t of n.relatedOut) if (nodes[t]) addIn(inRelated, t, n.url);
+  for (const t of n.relatedOut) if (nodes[t]) { addIn(inRelated, t, n.url); if (n.cluster && n.cluster === clusterOf(t)) addIn(inSiloCard, t, n.url); }
 }
 
 // ---------- keyword ownership ----------
@@ -140,6 +140,9 @@ const clusters = L.CLUSTERS.map(c => {
   for (const a of arts) for (const t of a.bodyOut) { if (!nodes[t] || nodes[t].type === 'page') continue; if (clusterOf(t) === c) inSilo++; else crossOut++; }
   for (const n of Object.values(nodes)) if (n.type !== 'page' && n.cluster !== c) for (const t of n.bodyOut) if (nodes[t] && clusterOf(t) === c) crossIn++;
   const noInSiloInbound = arts.filter(a => !(inSiloBody[a.url] && inSiloBody[a.url].size)).map(a => a.url).sort();
+  // A true silo orphan has neither an in-body link nor a related card from its own silo
+  // (the related cards are real links rendered by the article layout).
+  const trueOrphans = noInSiloInbound.filter(u => !(inSiloCard[u] && inSiloCard[u].size));
   const topInbound = arts.map(a => ({ url: a.url, inbound: inBody[a.url] ? inBody[a.url].size : 0, related: inRelated[a.url] ? inRelated[a.url].size : 0 })).sort((x, y) => y.inbound - x.inbound || y.related - x.related || x.url.localeCompare(y.url)).slice(0, 5);
   const money = arts.filter(a => a.intent === 'commercial').map(a => ({ url: a.url, inbound: inBody[a.url] ? inBody[a.url].size : 0, inSiloInbound: inSiloBody[a.url] ? inSiloBody[a.url].size : 0, related: inRelated[a.url] ? inRelated[a.url].size : 0, priority: rowsByUrl[a.url] ? rowsByUrl[a.url].priority : '' })).sort((x, y) => x.inSiloInbound - y.inSiloInbound || x.url.localeCompare(y.url));
   const sub = {}; for (const a of arts) sub[a.subcluster || '(none)'] = (sub[a.subcluster || '(none)'] || 0) + 1;
@@ -153,7 +156,7 @@ const clusters = L.CLUSTERS.map(c => {
     subclusters: sub, words: { avg: arts.length ? Math.round(arts.reduce((n, a) => n + a.words, 0) / arts.length) : 0, min: arts.length ? Math.min(...arts.map(a => a.words)) : 0 },
     review: { verified: arts.filter(a => a.reviewStatus !== 'REVIEW_REQUIRED').length, reviewRequired: arts.filter(a => a.reviewStatus === 'REVIEW_REQUIRED').length, oldestReview: reviewed[0] || '', newestReview: reviewed[reviewed.length - 1] || '' },
     priorities: pri,
-    links: { inSiloBody: inSilo, crossSiloOut: crossOut, crossSiloIn: crossIn, inSiloShare: pct(inSilo, inSilo + crossOut), articlesWithoutInSiloInbound: noInSiloInbound.length, articlesWithoutInSiloInboundSample: noInSiloInbound.slice(0, 10) },
+    links: { inSiloBody: inSilo, crossSiloOut: crossOut, crossSiloIn: crossIn, inSiloShare: pct(inSilo, inSilo + crossOut), articlesWithoutInSiloInbound: noInSiloInbound.length, articlesWithoutInSiloInboundSample: noInSiloInbound.slice(0, 10), trueSiloOrphans: trueOrphans.length, trueSiloOrphansList: trueOrphans },
     topInbound, moneyPages: money,
     keywords: { owned: own.length, ownedPrimary: own.filter(k => !k.variant).length, coveredFull: own.filter(k => k.coverage === 'full').length, list: own },
     demand: { keywords: d.keywords, weak: d.weak, volume: d.volume, top: d.rows.slice().sort((a, b) => b.maxVolume - a.maxVolume).slice(0, 8).map(r => ({ keyword: r.keyword, volume: r.volume, servedBy: r.servedBy, strength: r.strength })), gaps: (demandGaps[c] || []).map(r => ({ keyword: r.keyword, volume: r.volume, topic: r.topic })) },
@@ -168,9 +171,9 @@ const rec = (cluster, severity, rule, detail, action) => { const r = { cluster, 
 for (const c of clusters) {
   if (!c.hub) { rec(c.cluster, 'P1', 'missing-hub', 'no topics/' + c.cluster + '/index.md', 'restore the pillar page'); continue; }
   if (c.hub.startHereLinks < 3) rec(c.cluster, 'P2', 'hub-start-here', 'the pillar curates ' + c.hub.startHereLinks + ' start-here article link(s)', 'add 3-6 curated links to the commercial and core guides of the silo (hub body only)');
-  if (c.hub.startHereLinks && c.hub.startHereOwnCluster < c.hub.startHereLinks) rec(c.cluster, 'P3', 'hub-links-outside-silo', (c.hub.startHereLinks - c.hub.startHereOwnCluster) + ' start-here link(s) point outside the silo', 'keep most start-here links inside the silo; cross-silo pointers belong in the body copy');
+  if (c.hub.startHereLinks && (c.hub.startHereLinks - c.hub.startHereOwnCluster) * 10 > c.hub.startHereLinks * 3) rec(c.cluster, 'P3', 'hub-links-outside-silo', (c.hub.startHereLinks - c.hub.startHereOwnCluster) + ' of ' + c.hub.startHereLinks + ' start-here links point outside the silo (over 30%)', 'keep most start-here links inside the silo; cross-silo pointers belong in the body copy');
   for (const m of c.moneyPages.filter(x => x.inSiloInbound < 2).slice(0, 12)) rec(c.cluster, 'P3', 'money-page-inbound', m.url + ' has ' + m.inSiloInbound + ' in-silo in-body inbound link(s) (' + m.related + ' related cards)', 'add a contextual link from two same-silo guides whose topic leads to this page');
-  if (c.links.articlesWithoutInSiloInbound) rec(c.cluster, 'P3', 'silo-orphans', c.links.articlesWithoutInSiloInbound + ' article(s) receive no in-body link from their own silo (hub listing and related cards only)', 'work the list below into contextual links from same-silo guides, highest-demand pages first');
+  if (c.links.trueSiloOrphans) rec(c.cluster, 'P3', 'silo-orphans', c.links.trueSiloOrphans + ' article(s) receive neither an in-body link nor a related card from their own silo: ' + c.links.trueSiloOrphansList.slice(0, 8).join(', ') + (c.links.trueSiloOrphans > 8 ? ' …' : ''), 'add the article to the internal_link_targets of a same-subcluster guide (related-links-fill.js --same-silo) or link it from same-silo prose');
   if (c.articles && c.links.inSiloShare < 50) rec(c.cluster, 'P3', 'silo-leak', 'only ' + c.links.inSiloShare + '% of in-body links from this silo stay inside it', 'review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links');
   for (const g of c.demand.gaps) rec(c.cluster, 'P3', 'demand-gap', '"' + g.keyword + '" (' + Object.entries(g.volume || {}).map(([m, v]) => m + ' ' + v).join(', ') + ') has no serving URL', 'serve it inside an existing guide of this silo or record it as not a target (no new article)');
   for (const k of c.keywords.list.filter(k => !k.variant && !k.gap && k.coverage && k.coverage !== 'full')) rec(c.cluster, 'P3', 'owned-keyword-coverage', '"' + k.keyword + '" is only ' + k.coverage + 'ly covered by the title and description of ' + k.owner, 'work the keyword naturally into the title or description of the owner (no stuffing)');
@@ -186,6 +189,7 @@ const summary = {
   generated: TODAY, mode: matrix && matrix.summary ? matrix.summary.mode : 'ZERO-DATA (no matrix)', clusters: clusters.length, articles: Object.values(nodes).filter(n => n.type === 'article').length,
   inSiloBodyLinks: totalInSilo, crossSiloBodyLinks: totalCross, inSiloShare: pct(totalInSilo, totalInSilo + totalCross),
   articlesWithoutInSiloInbound: clusters.reduce((n, c) => n + c.links.articlesWithoutInSiloInbound, 0),
+  trueSiloOrphans: clusters.reduce((n, c) => n + c.links.trueSiloOrphans, 0),
   hubsWithFewerThan3StartHere: clusters.filter(c => c.hub && c.hub.startHereLinks < 3).length,
   demandByMarket: Object.fromEntries(markets.map(m => [m, { served: clusters.reduce((n, c) => n + (c.demand.volume[m] || 0), 0) + ((demand['(site)'] && demand['(site)'].volume[m]) || 0), total: matrix.summary.keywordUniverse.volumeByMarket[m].core }])),
   keywordClusters: keywordClusters.length, splitFamilies: splitFamilies.length, serpQuestionsServed: register.filter(g => g.servedBy).length, serpGaps: serpGaps.length,
@@ -198,7 +202,7 @@ fs.writeFileSync(path.join(OUT_DIR, 'topical-map.json'), JSON.stringify({ summar
 let md = '# Topical map (Pillar–Hub–Silo)\n\n';
 md += 'Generated ' + TODAY + ' by `scripts/topical-map.js` from the source tree, `docs/seo/keyword-targets.json`, the English SEO Master Matrix (`docs/seo/english-seo-master-matrix.json`: keyword-universe mapping, content gap register, priorities) and the research evidence. **Mode: ' + summary.mode + '.** Demand figures are third-party monthly estimates per market already mapped to serving URLs by the matrix engine; they are prioritisation evidence, never facts to publish. Every recommendation is REVIEW_REQUIRED: tooling never creates articles, rewrites prose or changes a URL.\n\n';
 if (missing.length) md += '> Missing inputs: ' + missing.join('; ') + '\n\n';
-md += '## Site summary\n\n- Clusters: ' + summary.clusters + ' (pillar hubs) · articles: ' + summary.articles + '\n- In-body links inside their silo: ' + summary.inSiloBodyLinks + ' (' + summary.inSiloShare + '%) · cross-silo: ' + summary.crossSiloBodyLinks + '\n- Articles with no in-body inbound link from their own silo: ' + summary.articlesWithoutInSiloInbound + '\n- Hubs curating fewer than 3 start-here links: ' + summary.hubsWithFewerThan3StartHere + '\n- Demand served (core keywords, by market): ' + Object.entries(summary.demandByMarket).map(([m, v]) => m.toUpperCase() + ' ' + v.served + '/' + v.total).join(', ') + '\n- Keyword clusters (serving URLs): ' + summary.keywordClusters + ' · split keyword families: ' + summary.splitFamilies + '\n- SERP questions served: ' + summary.serpQuestionsServed + ' · unserved: ' + summary.serpGaps + '\n- Recommendations: ' + Object.entries(summary.recommendations).map(([k, v]) => k + ' ' + v).join(', ') + '\n\n';
+md += '## Site summary\n\n- Clusters: ' + summary.clusters + ' (pillar hubs) · articles: ' + summary.articles + '\n- In-body links inside their silo: ' + summary.inSiloBodyLinks + ' (' + summary.inSiloShare + '%) · cross-silo: ' + summary.crossSiloBodyLinks + '\n- Articles with no in-body inbound link from their own silo: ' + summary.articlesWithoutInSiloInbound + ' (of which ' + summary.trueSiloOrphans + ' also have no related card from their silo: the true silo orphans)\n- Hubs curating fewer than 3 start-here links: ' + summary.hubsWithFewerThan3StartHere + '\n- Demand served (core keywords, by market): ' + Object.entries(summary.demandByMarket).map(([m, v]) => m.toUpperCase() + ' ' + v.served + '/' + v.total).join(', ') + '\n- Keyword clusters (serving URLs): ' + summary.keywordClusters + ' · split keyword families: ' + summary.splitFamilies + '\n- SERP questions served: ' + summary.serpQuestionsServed + ' · unserved: ' + summary.serpGaps + '\n- Recommendations: ' + Object.entries(summary.recommendations).map(([k, v]) => k + ' ' + v).join(', ') + '\n\n';
 md += '## Cluster table\n\n| Cluster | Hub | Articles (commercial) | Avg words | Review required | P1/P2 | In-silo links | Cross out/in | In-silo share | No in-silo inbound | Start-here links | Owned keywords (full) | Demand ' + markets.map(m => m.toUpperCase()).join('/') + ' | SERP Qs | Recs |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n';
 for (const c of clusters) md += '| ' + c.cluster + ' | ' + (c.hub ? mdCell(c.hub.title) : '(missing)') + ' | ' + c.articles + ' (' + c.commercial + ') | ' + c.words.avg + ' | ' + c.review.reviewRequired + ' | ' + c.priorities.P1 + '/' + c.priorities.P2 + ' | ' + c.links.inSiloBody + ' | ' + c.links.crossSiloOut + '/' + c.links.crossSiloIn + ' | ' + c.links.inSiloShare + '% | ' + c.links.articlesWithoutInSiloInbound + ' | ' + (c.hub ? c.hub.startHereLinks : 0) + ' | ' + c.keywords.owned + ' (' + c.keywords.coveredFull + ') | ' + markets.map(m => c.demand.volume[m] || 0).join('/') + ' | ' + c.serp.questionsServed + ' | ' + c.recommendations.length + ' |\n';
 md += '\n## Clusters\n\n';

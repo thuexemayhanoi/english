@@ -51,7 +51,7 @@
    "date": "2026-10-14",
    "returned": 60,
    "total_available": 934,
-   "on_topic_rows": 44
+   "on_topic_rows": 45
   },
   {
    "tool": "OpenRush research_keywords",
@@ -151,7 +151,7 @@
    "date": "2026-10-14",
    "returned": 60,
    "total_available": 20074,
-   "on_topic_rows": 45
+   "on_topic_rows": 46
   },
   {
    "tool": "OpenRush research_keywords",
@@ -1525,7 +1525,7 @@
   },
   {
    "keyword": "halong motorbike rental",
-   "relevance": "core",
+   "relevance": "other-city",
    "topic": "rental-vietnam",
    "intent": "commercial",
    "volume": {
@@ -2325,7 +2325,7 @@
   },
   {
    "keyword": "triumph motorcycles vietnam",
-   "relevance": "core",
+   "relevance": "adjacent",
    "topic": "general",
    "intent": "navigational",
    "volume": {
@@ -2509,7 +2509,7 @@
   },
   {
    "keyword": "mutt motorcycles vietnam",
-   "relevance": "core",
+   "relevance": "adjacent",
    "topic": "general",
    "intent": "navigational",
    "volume": {
@@ -2734,7 +2734,7 @@
   },
   {
    "keyword": "honda gb350 vietnam",
-   "relevance": "core",
+   "relevance": "adjacent",
    "topic": "vehicles",
    "intent": "transactional",
    "volume": {
@@ -2961,7 +2961,7 @@
   },
   {
    "keyword": "bmw motorcycles vietnam",
-   "relevance": "core",
+   "relevance": "adjacent",
    "topic": "general",
    "intent": "commercial",
    "volume": {
@@ -2993,6 +2993,24 @@
    "competitors_ranking": [],
    "sources": [
     "research_keywords ideas \"motorbike rental hanoi\" vn"
+   ]
+  },
+  {
+   "keyword": "cfmoto 450mt vietnam",
+   "relevance": "adjacent",
+   "topic": "general",
+   "intent": "navigational",
+   "volume": {
+    "vn": 10
+   },
+   "cpc_usd": {},
+   "competition": {
+    "vn": "LOW"
+   },
+   "competitors_ranking": [],
+   "sources": [
+    "research_keywords ideas \"electric motorbike vietnam\" vn",
+    "research_keywords ideas \"riding motorbike in vietnam\" vn"
    ]
   },
   {
@@ -3376,7 +3394,7 @@
   },
   {
    "keyword": "motorbike rental laos",
-   "relevance": "core",
+   "relevance": "other-city",
    "topic": "rental-vietnam",
    "intent": "transactional",
    "volume": {
@@ -3706,7 +3724,7 @@
   },
   {
    "keyword": "honda cbr650r vietnam",
-   "relevance": "core",
+   "relevance": "adjacent",
    "topic": "vehicles",
    "intent": "transactional",
    "volume": {},

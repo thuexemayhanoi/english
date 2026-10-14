@@ -39,3 +39,5 @@ Budget-conscious commuters, students and new riders who want a 125-class engine 
 ## Renting one
 
 The Janus is not among Nguyen Tu's price-published models - contact us to confirm current availability. Whatever you ride, check the basics with our motorbike [safety checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) before leaving the shop, and remember licence requirements follow engine capacity (our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) have current rules).
+
+Head-to-head comparisons involving this model: [Honda Vision vs Yamaha Janus: The Entry Scooter Duel]({{ '/articles/honda-vision-vs-yamaha-janus/' | relative_url }}); [Yamaha Gear 125 vs Janus 125: Yamaha's Budget Pair Compared]({{ '/articles/yamaha-gear-125-vs-yamaha-janus-125/' | relative_url }}); [Yamaha Janus 125 vs Honda Lead 125: Light Budget vs Big Storage]({{ '/articles/yamaha-janus-125-vs-honda-lead-125/' | relative_url }}).

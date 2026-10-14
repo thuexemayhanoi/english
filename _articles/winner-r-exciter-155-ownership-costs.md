@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn — Honda Winner R product page, official specifications (recorded in docs/MODEL-DATABASE.md, retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — Yamaha Motor Vietnam model pages, official specifications (recorded in docs/MODEL-DATABASE.md, retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-winner-r-review, yamaha-exciter-155-vva-review, honda-winner-r-vs-yamaha-exciter-155, riding-six-speed-manual-winner-exciter, sport-underbone-touring-vietnam
+internal_link_targets: "honda-winner-r-review, yamaha-exciter-155-vva-review, honda-winner-r-vs-yamaha-exciter-155, riding-six-speed-manual-winner-exciter, sport-underbone-touring-vietnam, yamaha-sirius-rc-110-learner-guide"
 ---
 
 The Winner R and Exciter 155 VVA are the only two manual-clutch sport underbones left in Vietnamese showrooms, and the buying decision usually starts with performance and styling. This guide compares the part buyers skip: what each bike costs to own, using only figures published on the official Honda Vietnam and Yamaha Vietnam pages (both recorded in our model database, retrieved 2026-09-23).

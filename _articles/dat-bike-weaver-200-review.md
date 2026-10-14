@@ -51,3 +51,5 @@ You need an A1 licence — this is a motorcycle in law, not a moped. The 120 kg 
 ## Who it suits
 
 Licensed riders who want motorcycle pace with moped running costs, long-distance commuters, and anyone whose week includes trips the licence-free class cannot reach. The Weaver++ adds power and water protection — see the comparison.
+
+Head-to-head comparisons involving this model: [Dat Bike Weaver 200 vs VinFast Feliz II: Charge vs Swap]({{ '/articles/dat-bike-weaver-200-vs-vinfast-feliz-2/' | relative_url }}); [Dat Bike Weaver 200 vs Weaver++: Which A1 Electric to Buy]({{ '/articles/dat-bike-weaver-200-vs-weaver-plus-plus/' | relative_url }}); [Dat Bike Weaver vs Weaver 200: The Range Question]({{ '/articles/dat-bike-weaver-vs-weaver-200/' | relative_url }}).

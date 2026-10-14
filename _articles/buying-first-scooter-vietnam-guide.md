@@ -43,3 +43,5 @@ Test the actual bike, not the brochure: sit on it (seat height guide), check the
 ## If you are not staying long
 
 Long-stay visitors and new expats often start with a rental while deciding - Nguyen Tu's monthly rates (published for the Vision, Air Blade, Click, Mio classes) let you live with a model before committing money. Contact us to confirm current availability.
+
+Budget shortlists for a first scooter: [New Scooters Under 40 Million VND]({{ '/articles/scooters-under-40-million-vietnam/' | relative_url }}) and [What a New Scooter Costs in Vietnam]({{ '/articles/new-scooter-prices-vietnam-verified/' | relative_url }}).

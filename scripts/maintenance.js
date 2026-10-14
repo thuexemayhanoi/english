@@ -183,7 +183,7 @@ if (fs.existsSync(matrixScript) && fs.existsSync(path.join(ROOT, 'docs', 'seo'))
       if (mapRun.status !== 0) add('P1', 'topical-map', 'topical-map.js exited ' + mapRun.status + ': ' + (((mapRun.stderr || '') + (mapRun.stdout || '')).trim().split('\n')[0] || ''), 'inspect scripts/topical-map.js');
       else {
         try { mapSummary = JSON.parse(fs.readFileSync(path.join(ROOT, 'docs', 'seo', 'topical-map.json'), 'utf8')).summary; } catch (e) { mapSummary = null; }
-        const stableMap = x => JSON.stringify({ inSiloBodyLinks: x.inSiloBodyLinks, crossSiloBodyLinks: x.crossSiloBodyLinks, articlesWithoutInSiloInbound: x.articlesWithoutInSiloInbound, hubsWithFewerThan3StartHere: x.hubsWithFewerThan3StartHere, keywordClusters: x.keywordClusters, splitFamilies: x.splitFamilies, serpGaps: x.serpGaps, recommendations: x.recommendations });
+        const stableMap = x => JSON.stringify({ inSiloBodyLinks: x.inSiloBodyLinks, crossSiloBodyLinks: x.crossSiloBodyLinks, articlesWithoutInSiloInbound: x.articlesWithoutInSiloInbound, trueSiloOrphans: x.trueSiloOrphans, hubsWithFewerThan3StartHere: x.hubsWithFewerThan3StartHere, keywordClusters: x.keywordClusters, splitFamilies: x.splitFamilies, serpGaps: x.serpGaps, recommendations: x.recommendations });
         if (mapSummary) mapChanged = !prevMap || stableMap(prevMap) !== stableMap(mapSummary);
       }
     }

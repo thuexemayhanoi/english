@@ -37,3 +37,5 @@ Decide disc first - it is worth the premium for anyone riding in rain or carryin
 ## Rental note
 
 Rental fleets typically run the standard commuter versions; our price-published Wave and Sirius classes (150,000 VND/day) may be disc or drum by unit - ask when booking. Contact us to confirm current availability of a specific version.
+
+Trim by trim on price: [Underbone List Prices in Vietnam]({{ '/articles/underbone-list-prices-vietnam-ladder/' | relative_url }}); comparing two trims field by field: [Underbone Buying Checklist]({{ '/articles/underbone-buying-checklist-verified-specs/' | relative_url }}).

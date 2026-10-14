@@ -4,10 +4,11 @@
   "mode": "ZERO-DATA",
   "clusters": 14,
   "articles": 981,
-  "inSiloBodyLinks": 2014,
+  "inSiloBodyLinks": 2265,
   "crossSiloBodyLinks": 1121,
-  "inSiloShare": 64,
-  "articlesWithoutInSiloInbound": 347,
+  "inSiloShare": 67,
+  "articlesWithoutInSiloInbound": 244,
+  "trueSiloOrphans": 0,
   "hubsWithFewerThan3StartHere": 0,
   "demandByMarket": {
    "au": {
@@ -15,24 +16,24 @@
     "total": 750
    },
    "uk": {
-    "served": 360,
-    "total": 360
+    "served": 350,
+    "total": 350
    },
    "us": {
     "served": 16180,
-    "total": 16190
+    "total": 16180
    },
    "vn": {
-    "served": 50340,
-    "total": 50460
+    "served": 50000,
+    "total": 50000
    }
   },
-  "keywordClusters": 35,
+  "keywordClusters": 31,
   "splitFamilies": 0,
   "serpQuestionsServed": 158,
   "serpGaps": 7,
   "recommendations": {
-   "P3": 77
+   "P3": 13
   },
   "missing": []
  },
@@ -86,7 +87,9 @@
      "/articles/renting-motorbike-hanoi-complete-beginner/",
      "/articles/renting-motorbike-hanoi-tet-holidays/",
      "/articles/renting-motorbike-noi-bai-arrival/"
-    ]
+    ],
+    "trueSiloOrphans": 0,
+    "trueSiloOrphansList": []
    },
    "topInbound": [
     {
@@ -162,7 +165,7 @@
      "url": "/articles/renting-motorbike-hoan-kiem/",
      "inbound": 2,
      "inSiloInbound": 2,
-     "related": 1,
+     "related": 2,
      "priority": "P3"
     },
     {
@@ -524,11 +527,11 @@
     ]
    },
    "demand": {
-    "keywords": 24,
-    "weak": 4,
+    "keywords": 22,
+    "weak": 2,
     "volume": {
-     "us": 1940,
-     "vn": 8640,
+     "us": 940,
+     "vn": 8320,
      "au": 10,
      "uk": 10
     },
@@ -570,22 +573,6 @@
       "strength": "title"
      },
      {
-      "keyword": "motorbike holidays vietnam",
-      "volume": {
-       "us": 1000
-      },
-      "servedBy": "/articles/renting-motorbike-hanoi-tet-holidays/",
-      "strength": "partial"
-     },
-     {
-      "keyword": "halong motorbike rental",
-      "volume": {
-       "vn": 320
-      },
-      "servedBy": "/articles/can-tourists-rent-a-motorbike-hanoi/",
-      "strength": "partial"
-     },
-     {
       "keyword": "hanoi motorbike rent",
       "volume": {
        "us": 110
@@ -595,6 +582,22 @@
      },
      {
       "keyword": "hanoi motorbike rentals",
+      "volume": {
+       "us": 110
+      },
+      "servedBy": "/topics/rental/",
+      "strength": "owner"
+     },
+     {
+      "keyword": "hanoi rent motorbike",
+      "volume": {
+       "us": 110
+      },
+      "servedBy": "/topics/rental/",
+      "strength": "owner"
+     },
+     {
+      "keyword": "motorbike rental hanoi vietnam",
       "volume": {
        "us": 110
       },
@@ -615,32 +618,7 @@
      "Motorbike rental Hanoi Old Quarter"
     ]
    },
-   "recommendations": [
-    {
-     "cluster": "rental",
-     "severity": "P3",
-     "rule": "silo-orphans",
-     "detail": "7 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-     "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "rental",
-     "severity": "P3",
-     "rule": "keyword-cluster",
-     "detail": "/articles/renting-motorbike-hanoi-tet-holidays/: served only by partial matches: the page does not name these keywords",
-     "action": "review in the keyword universe mapping",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "rental",
-     "severity": "P3",
-     "rule": "keyword-cluster",
-     "detail": "/articles/can-tourists-rent-a-motorbike-hanoi/: served only by partial matches: the page does not name these keywords",
-     "action": "review in the keyword universe mapping",
-     "status": "REVIEW_REQUIRED"
-    }
-   ]
+   "recommendations": []
   },
   {
    "cluster": "monthly-rental",
@@ -687,7 +665,9 @@
      "/articles/learning-to-ride-monthly-rental-hanoi/",
      "/articles/monthly-rental-vs-ride-hailing-hanoi/",
      "/articles/paying-monthly-motorbike-rental-hanoi/"
-    ]
+    ],
+    "trueSiloOrphans": 0,
+    "trueSiloOrphansList": []
    },
    "topInbound": [
     {
@@ -870,24 +850,7 @@
      "Cheapest monthly motorbike rental hanoi"
     ]
    },
-   "recommendations": [
-    {
-     "cluster": "monthly-rental",
-     "severity": "P3",
-     "rule": "hub-links-outside-silo",
-     "detail": "2 start-here link(s) point outside the silo",
-     "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "monthly-rental",
-     "severity": "P3",
-     "rule": "silo-orphans",
-     "detail": "3 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-     "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-     "status": "REVIEW_REQUIRED"
-    }
-   ]
+   "recommendations": []
   },
   {
    "cluster": "scooters",
@@ -908,7 +871,7 @@
     "3.2 model-comparisons": 38
    },
    "words": {
-    "avg": 350,
+    "avg": 361,
     "min": 247
    },
    "review": {
@@ -924,23 +887,25 @@
     "P3": 110
    },
    "links": {
-    "inSiloBody": 148,
+    "inSiloBody": 245,
     "crossSiloOut": 148,
     "crossSiloIn": 11,
-    "inSiloShare": 50,
-    "articlesWithoutInSiloInbound": 58,
+    "inSiloShare": 62,
+    "articlesWithoutInSiloInbound": 17,
     "articlesWithoutInSiloInboundSample": [
      "/articles/best-scooters-hanoi-commuting-verified/",
-     "/articles/best-scooters-long-distance-touring-vietnam/",
-     "/articles/best-scooters-short-riders-vietnam/",
-     "/articles/best-scooters-tall-riders-vietnam/",
      "/articles/buying-first-scooter-vietnam-guide/",
      "/articles/euro-4-scooters-vietnam/",
-     "/articles/honda-air-blade-125-vs-honda-vario-125/",
-     "/articles/honda-air-blade-160-vs-honda-lead-125/",
      "/articles/honda-esaf-frame-explained/",
-     "/articles/honda-lead-125-vs-honda-vario-160/"
-    ]
+     "/articles/honda-sh-160-review/",
+     "/articles/honda-vario-160-review/",
+     "/articles/led-vs-halogen-scooter-headlights/",
+     "/articles/scooter-displacement-numbers-explained/",
+     "/articles/scooter-fuel-economy-figures-explained/",
+     "/articles/scooter-ground-clearance-compared-vietnam/"
+    ],
+    "trueSiloOrphans": 0,
+    "trueSiloOrphansList": []
    },
    "topInbound": [
     {
@@ -971,346 +936,24 @@
    ],
    "moneyPages": [
     {
-     "url": "/articles/best-scooters-long-distance-touring-vietnam/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/best-scooters-tall-riders-vietnam/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-air-blade-125-vs-honda-vario-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-air-blade-160-vs-honda-lead-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 5,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-lead-125-vs-honda-vario-160/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-sh-160-vs-honda-vario-160/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-sh-mode-125-vs-honda-air-blade-160/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-sh-mode-125-vs-honda-lead-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-sh-mode-125-vs-honda-sh-160/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 8,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-vario-125-vs-honda-lead-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 5,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-vario-125-vs-yamaha-latte-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-vario-160-vs-honda-air-blade-160/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-vario-160-vs-yamaha-nvx-155/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 6,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-vision-vs-honda-air-blade/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 8,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-vision-vs-honda-lead-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-vision-vs-honda-vario-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-vision-vs-yamaha-freego-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-vision-vs-yamaha-janus/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 9,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/scooters-under-40-million-vietnam/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/scooters-with-usb-c-charging-verified/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/which-scooter-engine-class-vietnam/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-freego-125-vs-honda-air-blade-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-freego-125-vs-honda-vario-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-gear-125-vs-honda-vision/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-gear-125-vs-yamaha-freego-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-gear-125-vs-yamaha-janus-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 6,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-grande-vs-honda-vision/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-janus-125-vs-honda-lead-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-latte-125-vs-honda-lead-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-latte-125-vs-yamaha-gear-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-latte-vs-yamaha-grande/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-lexi-155-vs-honda-sh-mode-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-lexi-155-vs-honda-vario-160/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-lexi-155-vs-yamaha-nmax-155/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-nmax-155-vs-honda-air-blade-160/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-nmax-155-vs-honda-sh-160/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 4,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-nmax-155-vs-honda-vario-160/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-nmax-155-vs-yamaha-nvx-155/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 4,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-nvx-155-vs-honda-air-blade-160/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-nvx-155-vs-yamaha-lexi-155/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/best-125cc-scooters-vietnam-verified/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 5,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/best-scooters-delivery-riders-vietnam/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/best-scooters-hanoi-hills-bridges/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-lead-vs-yamaha-grande/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 6,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/longest-range-scooters-vietnam/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 4,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/new-scooter-prices-vietnam-verified/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 7,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/premium-scooters-vietnam/",
-     "inbound": 2,
-     "inSiloInbound": 1,
-     "related": 10,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-janus-vs-yamaha-freego/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 7,
-     "priority": "P3"
-    },
-    {
      "url": "/articles/best-155-160cc-scooters-vietnam/",
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 8,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/best-scooters-hanoi-hills-bridges/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/best-scooters-long-distance-touring-vietnam/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
      "priority": "P3"
     },
     {
@@ -1321,10 +964,332 @@
      "priority": "P3"
     },
     {
+     "url": "/articles/best-scooters-tall-riders-vietnam/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-air-blade-125-vs-honda-vario-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-air-blade-160-vs-honda-lead-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 5,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-lead-125-vs-honda-vario-160/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-lead-vs-yamaha-grande/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 6,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-sh-160-vs-honda-vario-160/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-sh-mode-125-vs-honda-air-blade-160/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-sh-mode-125-vs-honda-lead-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-sh-mode-125-vs-honda-sh-160/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 8,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-vario-125-vs-honda-lead-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 5,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-vario-125-vs-yamaha-latte-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-vario-160-vs-honda-air-blade-160/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-vario-160-vs-yamaha-nvx-155/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 6,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-vision-vs-honda-lead-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-vision-vs-honda-vario-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-vision-vs-yamaha-freego-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-vision-vs-yamaha-janus/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 9,
+     "priority": "P3"
+    },
+    {
      "url": "/articles/honda-vs-yamaha-scooters-vietnam/",
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 14,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/which-scooter-engine-class-vietnam/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-freego-125-vs-honda-air-blade-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-freego-125-vs-honda-vario-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-gear-125-vs-honda-vision/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-gear-125-vs-yamaha-freego-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-gear-125-vs-yamaha-janus-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 6,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-grande-vs-honda-vision/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-janus-125-vs-honda-lead-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-janus-vs-yamaha-freego/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 7,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-latte-125-vs-honda-lead-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-latte-125-vs-yamaha-gear-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-latte-vs-yamaha-grande/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-lexi-155-vs-honda-sh-mode-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-lexi-155-vs-honda-vario-160/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-lexi-155-vs-yamaha-nmax-155/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-nmax-155-vs-honda-air-blade-160/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-nmax-155-vs-honda-sh-160/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 4,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-nmax-155-vs-honda-vario-160/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-nmax-155-vs-yamaha-nvx-155/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 4,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-nvx-155-vs-honda-air-blade-160/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-nvx-155-vs-yamaha-lexi-155/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/best-125cc-scooters-vietnam-verified/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 5,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/best-scooters-delivery-riders-vietnam/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-vision-vs-honda-air-blade/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 8,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/longest-range-scooters-vietnam/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 4,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/new-scooter-prices-vietnam-verified/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 7,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/premium-scooters-vietnam/",
+     "inbound": 4,
+     "inSiloInbound": 3,
+     "related": 10,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/scooters-under-40-million-vietnam/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/scooters-with-usb-c-charging-verified/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 3,
      "priority": "P3"
     }
    ],
@@ -1364,11 +1329,11 @@
     ]
    },
    "demand": {
-    "keywords": 12,
-    "weak": 3,
+    "keywords": 10,
+    "weak": 1,
     "volume": {
      "us": 2910,
-     "vn": 50
+     "vn": 30
     },
     "top": [
      {
@@ -1453,118 +1418,6 @@
     {
      "cluster": "scooters",
      "severity": "P3",
-     "rule": "hub-links-outside-silo",
-     "detail": "1 start-here link(s) point outside the silo",
-     "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "scooters",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/best-scooters-long-distance-touring-vietnam/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "scooters",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/best-scooters-tall-riders-vietnam/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "scooters",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/honda-air-blade-125-vs-honda-vario-125/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "scooters",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/honda-air-blade-160-vs-honda-lead-125/ has 0 in-silo in-body inbound link(s) (5 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "scooters",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/honda-lead-125-vs-honda-vario-160/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "scooters",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/honda-sh-160-vs-honda-vario-160/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "scooters",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/honda-sh-mode-125-vs-honda-air-blade-160/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "scooters",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/honda-sh-mode-125-vs-honda-lead-125/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "scooters",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/honda-sh-mode-125-vs-honda-sh-160/ has 0 in-silo in-body inbound link(s) (8 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "scooters",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/honda-vario-125-vs-honda-lead-125/ has 0 in-silo in-body inbound link(s) (5 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "scooters",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/honda-vario-125-vs-yamaha-latte-125/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "scooters",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/honda-vario-160-vs-honda-air-blade-160/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "scooters",
-     "severity": "P3",
-     "rule": "silo-orphans",
-     "detail": "58 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-     "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "scooters",
-     "severity": "P3",
      "rule": "keyword-cluster",
      "detail": "/articles/16-inch-wheel-scooters-vietnam/: served only by partial matches: the page does not name these keywords",
      "action": "review in the keyword universe mapping",
@@ -1591,7 +1444,7 @@
     "4.2 model-comparisons": 43
    },
    "words": {
-    "avg": 312,
+    "avg": 325,
     "min": 227
    },
    "review": {
@@ -1607,23 +1460,25 @@
     "P3": 108
    },
    "links": {
-    "inSiloBody": 106,
+    "inSiloBody": 224,
     "crossSiloOut": 91,
     "crossSiloIn": 59,
-    "inSiloShare": 54,
-    "articlesWithoutInSiloInbound": 71,
+    "inSiloShare": 71,
+    "articlesWithoutInSiloInbound": 16,
     "articlesWithoutInSiloInboundSample": [
-     "/articles/best-honda-underbones-vietnam-verified/",
-     "/articles/best-underbones-beginner-riders-verified/",
-     "/articles/best-underbones-high-mileage-verified/",
-     "/articles/best-underbones-short-riders-verified/",
-     "/articles/best-underbones-tall-riders-verified/",
-     "/articles/best-underbones-two-up-verified/",
-     "/articles/cheapest-new-underbones-vietnam-verified/",
      "/articles/engine-oil-drain-vs-overhaul-capacity-explained/",
      "/articles/euro-emissions-underbones-vietnam/",
-     "/articles/fastest-motorbikes-under-155cc-vietnam-verified/"
-    ]
+     "/articles/how-to-read-motorbike-spec-sheet-vietnam/",
+     "/articles/kick-vs-electric-start-explained/",
+     "/articles/motorbike-engine-codes-explained/",
+     "/articles/power-to-weight-ratio-explained/",
+     "/articles/single-cylinder-underbone-engines-explained/",
+     "/articles/underbone-frame-design-explained/",
+     "/articles/underbone-fuel-tank-range-explained/",
+     "/articles/underbone-model-years-explained/"
+    ],
+    "trueSiloOrphans": 0,
+    "trueSiloOrphansList": []
    },
    "topInbound": [
     {
@@ -1654,433 +1509,6 @@
    ],
    "moneyPages": [
     {
-     "url": "/articles/best-honda-underbones-vietnam-verified/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/best-underbones-beginner-riders-verified/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/best-underbones-high-mileage-verified/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/best-underbones-short-riders-verified/",
-     "inbound": 1,
-     "inSiloInbound": 0,
-     "related": 4,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/best-underbones-tall-riders-verified/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/best-underbones-two-up-verified/",
-     "inbound": 1,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/cheapest-new-underbones-vietnam-verified/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 11,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/fastest-motorbikes-under-155cc-vietnam-verified/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-blade-vs-honda-cbr150r/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-blade-vs-honda-ct125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-blade-vs-honda-future-125/",
-     "inbound": 1,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-blade-vs-honda-super-cub-c125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-blade-vs-honda-winner-r/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-blade-vs-yamaha-exciter-155/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-blade-vs-yamaha-sirius/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 5,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-cbr150r-vs-honda-ct125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-cbr150r-vs-honda-future-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-cbr150r-vs-honda-super-cub/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-cbr150r-vs-honda-winner-r/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 9,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-cbr150r-vs-yamaha-exciter-155/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-ct125-vs-honda-super-cub-c125/",
-     "inbound": 1,
-     "inSiloInbound": 0,
-     "related": 9,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-ct125-vs-honda-winner-r/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-ct125-vs-yamaha-exciter-155/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-ct125-vs-yamaha-sirius/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-future-125-vs-honda-ct125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-future-125-vs-honda-wave-rsx/",
-     "inbound": 1,
-     "inSiloInbound": 0,
-     "related": 4,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-future-125-vs-honda-winner-r/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 4,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-future-125-vs-yamaha-exciter-155/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-future-125-vs-yamaha-sirius/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-super-cub-c125-vs-honda-future-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 4,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-super-cub-vs-honda-winner-r/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 5,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-super-cub-vs-yamaha-exciter-155/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-super-cub-vs-yamaha-sirius/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-vs-yamaha-underbones-verified/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-wave-alpha-vs-honda-blade/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-wave-alpha-vs-honda-cbr150r/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-wave-alpha-vs-honda-ct125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-wave-alpha-vs-honda-future-125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-wave-alpha-vs-honda-super-cub/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-wave-alpha-vs-honda-wave-rsx/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 5,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-wave-alpha-vs-honda-winner-r/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 5,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-wave-alpha-vs-yamaha-exciter-155/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-wave-alpha-vs-yamaha-sirius/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-wave-rsx-vs-honda-ct125/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-wave-rsx-vs-honda-super-cub/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-wave-rsx-vs-honda-winner-r/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-wave-rsx-vs-yamaha-exciter-155/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-wave-rsx-vs-yamaha-sirius/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 6,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-winner-r-vs-yamaha-sirius/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/most-comfortable-underbones-vietnam-verified/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/most-fuel-efficient-underbones-vietnam-verified/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 7,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/underbone-buying-checklist-verified-specs/",
-     "inbound": 2,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/underbone-list-prices-vietnam-ladder/",
-     "inbound": 1,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/who-needs-150cc-manual-motorbike/",
-     "inbound": 1,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-sirius-vs-yamaha-exciter-155/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/best-manual-clutch-motorbikes-beginners-verified/",
-     "inbound": 3,
-     "inSiloInbound": 1,
-     "related": 4,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/best-underbones-delivery-riders-verified/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-blade-vs-honda-wave-rsx/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 4,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/honda-winner-r-vs-yamaha-exciter-155/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 11,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/longest-range-underbones-vietnam-verified/",
-     "inbound": 3,
-     "inSiloInbound": 1,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/premium-underbones-vietnam-verified/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
      "url": "/articles/best-125cc-underbones-vietnam-verified/",
      "inbound": 2,
      "inSiloInbound": 2,
@@ -2088,10 +1516,437 @@
      "priority": "P3"
     },
     {
+     "url": "/articles/best-honda-underbones-vietnam-verified/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/best-manual-clutch-motorbikes-beginners-verified/",
+     "inbound": 4,
+     "inSiloInbound": 2,
+     "related": 4,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/best-underbones-beginner-riders-verified/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/best-underbones-delivery-riders-verified/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
      "url": "/articles/best-underbones-hanoi-commuting-verified/",
      "inbound": 4,
      "inSiloInbound": 2,
      "related": 12,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/best-underbones-high-mileage-verified/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/best-underbones-short-riders-verified/",
+     "inbound": 3,
+     "inSiloInbound": 2,
+     "related": 4,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/best-underbones-tall-riders-verified/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/best-underbones-two-up-verified/",
+     "inbound": 3,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/cheapest-new-underbones-vietnam-verified/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 11,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/fastest-motorbikes-under-155cc-vietnam-verified/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-blade-vs-honda-cbr150r/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-blade-vs-honda-ct125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-blade-vs-honda-future-125/",
+     "inbound": 3,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-blade-vs-honda-super-cub-c125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-blade-vs-honda-winner-r/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-blade-vs-yamaha-exciter-155/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-blade-vs-yamaha-sirius/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 5,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-cbr150r-vs-honda-ct125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-cbr150r-vs-honda-future-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-cbr150r-vs-honda-super-cub/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-cbr150r-vs-honda-winner-r/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 9,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-cbr150r-vs-yamaha-exciter-155/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-ct125-vs-honda-super-cub-c125/",
+     "inbound": 3,
+     "inSiloInbound": 2,
+     "related": 9,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-ct125-vs-honda-winner-r/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-ct125-vs-yamaha-exciter-155/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-ct125-vs-yamaha-sirius/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-future-125-vs-honda-ct125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-future-125-vs-honda-wave-rsx/",
+     "inbound": 3,
+     "inSiloInbound": 2,
+     "related": 4,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-future-125-vs-honda-winner-r/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 4,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-future-125-vs-yamaha-exciter-155/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-future-125-vs-yamaha-sirius/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-super-cub-c125-vs-honda-future-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 4,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-super-cub-vs-honda-winner-r/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 5,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-super-cub-vs-yamaha-exciter-155/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-super-cub-vs-yamaha-sirius/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-vs-yamaha-underbones-verified/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-wave-alpha-vs-honda-blade/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-wave-alpha-vs-honda-cbr150r/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-wave-alpha-vs-honda-ct125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-wave-alpha-vs-honda-future-125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-wave-alpha-vs-honda-super-cub/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-wave-alpha-vs-honda-wave-rsx/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 5,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-wave-alpha-vs-honda-winner-r/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 5,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-wave-alpha-vs-yamaha-exciter-155/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-wave-alpha-vs-yamaha-sirius/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-wave-rsx-vs-honda-ct125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-wave-rsx-vs-honda-super-cub/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-wave-rsx-vs-honda-winner-r/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-wave-rsx-vs-yamaha-exciter-155/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-wave-rsx-vs-yamaha-sirius/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 6,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-winner-r-vs-yamaha-sirius/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/longest-range-underbones-vietnam-verified/",
+     "inbound": 4,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/most-comfortable-underbones-vietnam-verified/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/most-fuel-efficient-underbones-vietnam-verified/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 7,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/premium-underbones-vietnam-verified/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/underbone-buying-checklist-verified-specs/",
+     "inbound": 4,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/underbone-list-prices-vietnam-ladder/",
+     "inbound": 3,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/who-needs-150cc-manual-motorbike/",
+     "inbound": 3,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-sirius-vs-yamaha-exciter-155/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-blade-vs-honda-wave-rsx/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 4,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/honda-winner-r-vs-yamaha-exciter-155/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 11,
      "priority": "P3"
     },
     {
@@ -2227,118 +2082,6 @@
     {
      "cluster": "motorcycles",
      "severity": "P3",
-     "rule": "hub-links-outside-silo",
-     "detail": "1 start-here link(s) point outside the silo",
-     "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "motorcycles",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/best-honda-underbones-vietnam-verified/ has 0 in-silo in-body inbound link(s) (3 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "motorcycles",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/best-underbones-beginner-riders-verified/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "motorcycles",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/best-underbones-high-mileage-verified/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "motorcycles",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/best-underbones-short-riders-verified/ has 0 in-silo in-body inbound link(s) (4 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "motorcycles",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/best-underbones-tall-riders-verified/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "motorcycles",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/best-underbones-two-up-verified/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "motorcycles",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/cheapest-new-underbones-vietnam-verified/ has 0 in-silo in-body inbound link(s) (11 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "motorcycles",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/fastest-motorbikes-under-155cc-vietnam-verified/ has 0 in-silo in-body inbound link(s) (3 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "motorcycles",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/honda-blade-vs-honda-cbr150r/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "motorcycles",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/honda-blade-vs-honda-ct125/ has 0 in-silo in-body inbound link(s) (3 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "motorcycles",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/honda-blade-vs-honda-future-125/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "motorcycles",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/honda-blade-vs-honda-super-cub-c125/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "motorcycles",
-     "severity": "P3",
-     "rule": "silo-orphans",
-     "detail": "71 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-     "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "motorcycles",
-     "severity": "P3",
      "rule": "keyword-cluster",
      "detail": "/articles/honda-blade-vs-honda-ct125/: served only by partial matches: the page does not name these keywords",
      "action": "review in the keyword universe mapping",
@@ -2365,7 +2108,7 @@
     "5.2 semi-auto-technique": 16
    },
    "words": {
-    "avg": 379,
+    "avg": 382,
     "min": 264
    },
    "review": {
@@ -2381,23 +2124,25 @@
     "P3": 55
    },
    "links": {
-    "inSiloBody": 42,
+    "inSiloBody": 54,
     "crossSiloOut": 68,
     "crossSiloIn": 11,
-    "inSiloShare": 38,
-    "articlesWithoutInSiloInbound": 30,
+    "inSiloShare": 44,
+    "articlesWithoutInSiloInbound": 25,
     "articlesWithoutInSiloInboundSample": [
-     "/articles/buying-used-sport-underbone-verified/",
      "/articles/cbr150r-city-riding-guide/",
      "/articles/coasting-neutral-dangers-manual-motorbike/",
      "/articles/common-beginner-clutch-mistakes/",
      "/articles/finding-neutral-manual-motorbike/",
-     "/articles/honda-blade-drum-vs-disc/",
      "/articles/honda-ct125-touring-setup-guide/",
      "/articles/honda-wave-rsx-commuting-guide/",
      "/articles/kick-start-technique-underbone/",
-     "/articles/learning-manual-on-rented-bike-hanoi/"
-    ]
+     "/articles/learning-manual-on-rented-bike-hanoi/",
+     "/articles/manual-motorbike-u-turn-technique/",
+     "/articles/manual-underbone-ownership-costs-hanoi/"
+    ],
+    "trueSiloOrphans": 0,
+    "trueSiloOrphansList": []
    },
    "topInbound": [
     {
@@ -2429,48 +2174,41 @@
    "moneyPages": [
     {
      "url": "/articles/buying-used-sport-underbone-verified/",
-     "inbound": 1,
-     "inSiloInbound": 0,
+     "inbound": 3,
+     "inSiloInbound": 2,
      "related": 3,
      "priority": "P3"
     },
     {
      "url": "/articles/honda-blade-drum-vs-disc/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/yamaha-pg-1-vs-honda-ct125/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 3,
      "priority": "P3"
     },
     {
      "url": "/articles/yamaha-pg-1-vs-honda-wave-rsx/",
-     "inbound": 0,
-     "inSiloInbound": 0,
+     "inbound": 2,
+     "inSiloInbound": 2,
      "related": 2,
      "priority": "P3"
     },
     {
      "url": "/articles/yamaha-pg-1-vs-yamaha-sirius-rc/",
-     "inbound": 0,
-     "inSiloInbound": 0,
+     "inbound": 2,
+     "inSiloInbound": 2,
      "related": 2,
      "priority": "P3"
     },
     {
      "url": "/articles/yamaha-sirius-fi-vs-sirius-rc/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/winner-r-exciter-155-ownership-costs/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 4,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/yamaha-pg-1-vs-honda-ct125/",
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -2485,6 +2223,13 @@
     },
     {
      "url": "/articles/renting-semi-automatic-underbone-hanoi/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 4,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/winner-r-exciter-155-ownership-costs/",
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 4,
@@ -2527,72 +2272,8 @@
     {
      "cluster": "manual-clutch",
      "severity": "P3",
-     "rule": "hub-links-outside-silo",
-     "detail": "1 start-here link(s) point outside the silo",
-     "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "manual-clutch",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/buying-used-sport-underbone-verified/ has 0 in-silo in-body inbound link(s) (3 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "manual-clutch",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/honda-blade-drum-vs-disc/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "manual-clutch",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/yamaha-pg-1-vs-honda-wave-rsx/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "manual-clutch",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/yamaha-pg-1-vs-yamaha-sirius-rc/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "manual-clutch",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/yamaha-sirius-fi-vs-sirius-rc/ has 0 in-silo in-body inbound link(s) (3 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "manual-clutch",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/winner-r-exciter-155-ownership-costs/ has 1 in-silo in-body inbound link(s) (4 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "manual-clutch",
-     "severity": "P3",
-     "rule": "silo-orphans",
-     "detail": "30 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-     "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "manual-clutch",
-     "severity": "P3",
      "rule": "silo-leak",
-     "detail": "only 38% of in-body links from this silo stay inside it",
+     "detail": "only 44% of in-body links from this silo stay inside it",
      "action": "review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links",
      "status": "REVIEW_REQUIRED"
     }
@@ -2651,7 +2332,9 @@
      "/articles/50cc-vs-e-bike-vietnam/",
      "/articles/do-you-need-insurance-for-50cc-vietnam/",
      "/articles/helmet-rules-50cc-mopeds/"
-    ]
+    ],
+    "trueSiloOrphans": 0,
+    "trueSiloOrphansList": []
    },
    "topInbound": [
     {
@@ -2777,22 +2460,6 @@
     {
      "cluster": "50cc",
      "severity": "P3",
-     "rule": "hub-links-outside-silo",
-     "detail": "2 start-here link(s) point outside the silo",
-     "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "50cc",
-     "severity": "P3",
-     "rule": "silo-orphans",
-     "detail": "13 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-     "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "50cc",
-     "severity": "P3",
      "rule": "silo-leak",
      "detail": "only 41% of in-body links from this silo stay inside it",
      "action": "review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links",
@@ -2824,7 +2491,7 @@
     "7.5 battery-maintenance": 11
    },
    "words": {
-    "avg": 328,
+    "avg": 332,
     "min": 237
    },
    "review": {
@@ -2840,29 +2507,36 @@
     "P3": 89
    },
    "links": {
-    "inSiloBody": 124,
+    "inSiloBody": 148,
     "crossSiloOut": 30,
     "crossSiloIn": 25,
-    "inSiloShare": 81,
-    "articlesWithoutInSiloInbound": 27,
+    "inSiloShare": 83,
+    "articlesWithoutInSiloInbound": 25,
     "articlesWithoutInSiloInboundSample": [
      "/articles/can-you-ride-electric-motorbike-with-car-licence-vietnam/",
      "/articles/charging-electric-motorbike-apartment-rental/",
      "/articles/charging-electric-motorbike-work-university/",
-     "/articles/dat-bike-weaver-200-vs-vinfast-feliz-2/",
      "/articles/dat-bike-weaver-review/",
-     "/articles/dat-bike-weaver-vs-weaver-200/",
      "/articles/do-electric-motorbikes-need-insurance-vietnam/",
      "/articles/e-bikes-with-kids-vietnam/",
      "/articles/electric-bike-law-myths-vietnam/",
-     "/articles/electric-motorbike-breakdown-what-to-do/"
-    ]
+     "/articles/electric-motorbike-breakdown-what-to-do/",
+     "/articles/electric-motorbike-delivery-riders-vietnam/",
+     "/articles/electric-motorbike-fines-vietnam/"
+    ],
+    "trueSiloOrphans": 0,
+    "trueSiloOrphansList": []
    },
    "topInbound": [
     {
      "url": "/articles/electric-motorbike-range-real-world-vietnam/",
      "inbound": 13,
      "related": 13
+    },
+    {
+     "url": "/articles/can-foreigners-rent-electric-bike-vietnam/",
+     "inbound": 8,
+     "related": 2
     },
     {
      "url": "/articles/electric-moped-vs-electric-motorcycle-vietnam/",
@@ -2878,39 +2552,34 @@
      "url": "/articles/electric-motorbike-power-kw-licence-vietnam/",
      "inbound": 6,
      "related": 8
-    },
-    {
-     "url": "/articles/can-foreigners-rent-electric-bike-vietnam/",
-     "inbound": 6,
-     "related": 2
     }
    ],
    "moneyPages": [
     {
      "url": "/articles/best-electric-moped-students-vietnam/",
-     "inbound": 1,
-     "inSiloInbound": 1,
+     "inbound": 3,
+     "inSiloInbound": 3,
      "related": 3,
      "priority": "P3"
     },
     {
      "url": "/articles/buying-first-electric-motorbike-vietnam/",
-     "inbound": 1,
-     "inSiloInbound": 1,
+     "inbound": 3,
+     "inSiloInbound": 3,
      "related": 7,
      "priority": "P3"
     },
     {
      "url": "/articles/buying-used-electric-motorbike-vietnam/",
-     "inbound": 1,
-     "inSiloInbound": 1,
+     "inbound": 3,
+     "inSiloInbound": 3,
      "related": 6,
      "priority": "P3"
     },
     {
      "url": "/articles/can-foreigners-rent-electric-bike-vietnam/",
-     "inbound": 6,
-     "inSiloInbound": 1,
+     "inbound": 8,
+     "inSiloInbound": 3,
      "related": 2,
      "priority": "P3"
     },
@@ -2944,12 +2613,11 @@
     ]
    },
    "demand": {
-    "keywords": 6,
-    "weak": 2,
+    "keywords": 5,
+    "weak": 1,
     "volume": {
      "us": 210,
-     "vn": 180,
-     "au": 10
+     "vn": 180
     },
     "top": [
      {
@@ -2991,14 +2659,6 @@
       },
       "servedBy": "/articles/can-foreigners-rent-electric-bike-vietnam/",
       "strength": "partial"
-     },
-     {
-      "keyword": "saigon to hanoi motorbike",
-      "volume": {
-       "au": 10
-      },
-      "servedBy": "/topics/electric/",
-      "strength": "partial"
      }
     ],
     "gaps": []
@@ -3018,64 +2678,8 @@
     {
      "cluster": "electric",
      "severity": "P3",
-     "rule": "hub-links-outside-silo",
-     "detail": "2 start-here link(s) point outside the silo",
-     "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "electric",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/best-electric-moped-students-vietnam/ has 1 in-silo in-body inbound link(s) (3 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "electric",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/buying-first-electric-motorbike-vietnam/ has 1 in-silo in-body inbound link(s) (7 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "electric",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/buying-used-electric-motorbike-vietnam/ has 1 in-silo in-body inbound link(s) (6 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "electric",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/can-foreigners-rent-electric-bike-vietnam/ has 1 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "electric",
-     "severity": "P3",
-     "rule": "silo-orphans",
-     "detail": "27 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-     "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "electric",
-     "severity": "P3",
      "rule": "keyword-cluster",
      "detail": "/articles/can-foreigners-rent-electric-bike-vietnam/: served only by partial matches: the page does not name these keywords",
-     "action": "review in the keyword universe mapping",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "electric",
-     "severity": "P3",
-     "rule": "keyword-cluster",
-     "detail": "/topics/electric/: served only by partial matches: the page does not name these keywords",
      "action": "review in the keyword universe mapping",
      "status": "REVIEW_REQUIRED"
     }
@@ -3131,7 +2735,9 @@
      "/articles/rear-brake-locking-motorbike/",
      "/articles/servicing-before-long-trip-motorbike/",
      "/articles/speedometer-not-working-motorbike/"
-    ]
+    ],
+    "trueSiloOrphans": 0,
+    "trueSiloOrphansList": []
    },
    "topInbound": [
     {
@@ -3225,16 +2831,8 @@
      "cluster": "maintenance",
      "severity": "P3",
      "rule": "hub-links-outside-silo",
-     "detail": "5 start-here link(s) point outside the silo",
+     "detail": "5 of 15 start-here links point outside the silo (over 30%)",
      "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "maintenance",
-     "severity": "P3",
-     "rule": "silo-orphans",
-     "detail": "11 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-     "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
      "status": "REVIEW_REQUIRED"
     }
    ]
@@ -3291,7 +2889,9 @@
      "/articles/base-layers-hot-humid-riding/",
      "/articles/camping-gear-motorbike-trips/",
      "/articles/ce-armour-certification-explained/"
-    ]
+    ],
+    "trueSiloOrphans": 0,
+    "trueSiloOrphansList": []
    },
    "topInbound": [
     {
@@ -3341,22 +2941,6 @@
     ]
    },
    "recommendations": [
-    {
-     "cluster": "parts-gear",
-     "severity": "P3",
-     "rule": "hub-links-outside-silo",
-     "detail": "1 start-here link(s) point outside the silo",
-     "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "parts-gear",
-     "severity": "P3",
-     "rule": "silo-orphans",
-     "detail": "44 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-     "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-     "status": "REVIEW_REQUIRED"
-    },
     {
      "cluster": "parts-gear",
      "severity": "P3",
@@ -3417,7 +3001,9 @@
      "/articles/rider-footwear-motorbike-vietnam/",
      "/articles/riding-during-tet-traffic-safety/",
      "/articles/riding-gloves-vietnam-climate/"
-    ]
+    ],
+    "trueSiloOrphans": 0,
+    "trueSiloOrphansList": []
    },
    "topInbound": [
     {
@@ -3489,24 +3075,7 @@
      "Can tourists ride motorcycles in Vietnam?"
     ]
    },
-   "recommendations": [
-    {
-     "cluster": "safety",
-     "severity": "P3",
-     "rule": "hub-links-outside-silo",
-     "detail": "1 start-here link(s) point outside the silo",
-     "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "safety",
-     "severity": "P3",
-     "rule": "silo-orphans",
-     "detail": "16 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-     "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-     "status": "REVIEW_REQUIRED"
-    }
-   ]
+   "recommendations": []
   },
   {
    "cluster": "law-licences",
@@ -3559,7 +3128,9 @@
      "/articles/lane-splitting-legal-vietnam/",
      "/articles/leaving-accident-scene-vietnam/",
      "/articles/motorbike-bus-lanes-vietnam/"
-    ]
+    ],
+    "trueSiloOrphans": 0,
+    "trueSiloOrphansList": []
    },
    "topInbound": [
     {
@@ -3701,22 +3272,6 @@
     {
      "cluster": "law-licences",
      "severity": "P3",
-     "rule": "hub-links-outside-silo",
-     "detail": "2 start-here link(s) point outside the silo",
-     "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "law-licences",
-     "severity": "P3",
-     "rule": "silo-orphans",
-     "detail": "20 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-     "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "law-licences",
-     "severity": "P3",
      "rule": "keyword-cluster",
      "detail": "/articles/what-is-a-moped-vietnam-law/: mixed intent (3 commercial/transactional, 1 informational): keep one primary intent, let the hub carry the rest",
      "action": "review in the keyword universe mapping",
@@ -3790,7 +3345,9 @@
      "/articles/hanoi-guided-motorbike-tours-vs-self-riding/",
      "/articles/hanoi-lakes-motorbike-riding-guide/",
      "/articles/hanoi-markets-motorbike-shopping/"
-    ]
+    ],
+    "trueSiloOrphans": 0,
+    "trueSiloOrphansList": []
    },
    "topInbound": [
     {
@@ -3870,22 +3427,6 @@
     {
      "cluster": "hanoi",
      "severity": "P3",
-     "rule": "hub-links-outside-silo",
-     "detail": "1 start-here link(s) point outside the silo",
-     "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "hanoi",
-     "severity": "P3",
-     "rule": "silo-orphans",
-     "detail": "27 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-     "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "hanoi",
-     "severity": "P3",
      "rule": "silo-leak",
      "detail": "only 45% of in-body links from this silo stay inside it",
      "action": "review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links",
@@ -3943,7 +3484,9 @@
      "/articles/quan-son-lake-motorbike-ride/",
      "/articles/soc-temple-soc-son-motorbike-ride/",
      "/articles/tam-dao-vs-ba-vi-day-trip/"
-    ]
+    ],
+    "trueSiloOrphans": 0,
+    "trueSiloOrphansList": []
    },
    "topInbound": [
     {
@@ -4040,24 +3583,7 @@
      "What is the most famous motorbike loop in Vietnam?"
     ]
    },
-   "recommendations": [
-    {
-     "cluster": "trips",
-     "severity": "P3",
-     "rule": "hub-links-outside-silo",
-     "detail": "2 start-here link(s) point outside the silo",
-     "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "trips",
-     "severity": "P3",
-     "rule": "silo-orphans",
-     "detail": "12 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-     "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-     "status": "REVIEW_REQUIRED"
-    }
-   ]
+   "recommendations": []
   },
   {
    "cluster": "vietnam-travel",
@@ -4108,7 +3634,9 @@
      "/articles/tet-holiday-motorbike-travel-vietnam/",
      "/articles/vietnam-road-signs-guide/",
      "/articles/vietnam-traffic-culture-riding-overview/"
-    ]
+    ],
+    "trueSiloOrphans": 0,
+    "trueSiloOrphansList": []
    },
    "topInbound": [
     {
@@ -4139,9 +3667,9 @@
    ],
    "moneyPages": [],
    "keywords": {
-    "owned": 6,
-    "ownedPrimary": 2,
-    "coveredFull": 4,
+    "owned": 13,
+    "ownedPrimary": 4,
+    "coveredFull": 7,
     "list": [
      {
       "keyword": "Renting a motorbike in Vietnam",
@@ -4184,17 +3712,66 @@
       "coverage": "partial",
       "variant": true,
       "gap": false
+     },
+     {
+      "keyword": "Motorbike holidays Vietnam",
+      "owner": "/topics/vietnam-travel/",
+      "coverage": "partial",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Hanoi to Ho Chi Minh by motorbike",
+      "owner": "/articles/hanoi-to-ho-chi-minh-city-by-motorbike/",
+      "coverage": "full",
+      "variant": false,
+      "gap": false
+     },
+     {
+      "keyword": "Saigon to Hanoi motorbike",
+      "owner": "/articles/hanoi-to-ho-chi-minh-city-by-motorbike/",
+      "coverage": "partial",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Motorbike from Hanoi to Ho Chi Minh",
+      "owner": "/articles/hanoi-to-ho-chi-minh-city-by-motorbike/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "One way motorbike rental Vietnam",
+      "owner": "/articles/one-way-motorbike-rental-vietnam/",
+      "coverage": "full",
+      "variant": false,
+      "gap": false
+     },
+     {
+      "keyword": "One way scooter rental Vietnam",
+      "owner": "/articles/one-way-motorbike-rental-vietnam/",
+      "coverage": "partial",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Vietnam scooter rental one way",
+      "owner": "/articles/one-way-motorbike-rental-vietnam/",
+      "coverage": "partial",
+      "variant": true,
+      "gap": false
      }
     ]
    },
    "demand": {
-    "keywords": 36,
-    "weak": 4,
+    "keywords": 37,
+    "weak": 1,
     "volume": {
      "vn": 40610,
-     "us": 9040,
-     "au": 720,
-     "uk": 340
+     "us": 10040,
+     "au": 730,
+     "uk": 330
     },
     "top": [
      {
@@ -4281,32 +3858,8 @@
     {
      "cluster": "vietnam-travel",
      "severity": "P3",
-     "rule": "hub-links-outside-silo",
-     "detail": "1 start-here link(s) point outside the silo",
-     "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "vietnam-travel",
-     "severity": "P3",
-     "rule": "silo-orphans",
-     "detail": "8 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-     "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "vietnam-travel",
-     "severity": "P3",
      "rule": "keyword-cluster",
-     "detail": "/articles/one-way-motorbike-rental-vietnam/: served only by partial matches: the page does not name these keywords",
-     "action": "review in the keyword universe mapping",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "vietnam-travel",
-     "severity": "P3",
-     "rule": "keyword-cluster",
-     "detail": "/articles/motorbike-border-crossing-vietnam-laos/: served only by partial matches: the page does not name these keywords",
+     "detail": "/articles/hanoi-to-ho-chi-minh-city-by-motorbike/: mixed intent (3 commercial/transactional, 2 informational): keep one primary intent, let the hub carry the rest",
      "action": "review in the keyword universe mapping",
      "status": "REVIEW_REQUIRED"
     }
@@ -4807,6 +4360,7 @@
     "renting motorbike vietnam",
     "vietnam motorbike rent",
     "vietnam motorbike rental",
+    "motorbike holidays vietnam",
     "motorbike riding vietnam",
     "motorbike vietnam",
     "motorbiking in vietnam",
@@ -4822,20 +4376,17 @@
     "vietnam on a motorbike",
     "motorbike hire vietnam",
     "vietnam motorbike hire",
-    "motorbikes ho chi minh",
-    "hanoi to ho chi minh motorbike rental",
-    "motorbike rental hanoi to ho chi minh",
-    "motorbike rental ho chi minh to hanoi"
+    "motorbikes ho chi minh"
    ],
    "volume": {
-    "vn": 40540,
-    "us": 9020,
+    "vn": 40520,
+    "us": 9990,
     "au": 710,
     "uk": 320
    },
    "intents": {
-    "transactional": 19,
-    "informational": 8,
+    "transactional": 16,
+    "informational": 9,
     "commercial": 3
    },
    "weak": 1,
@@ -4927,24 +4478,6 @@
    ]
   },
   {
-   "url": "/articles/renting-motorbike-hanoi-tet-holidays/",
-   "type": "article",
-   "cluster": "rental",
-   "keywords": [
-    "motorbike holidays vietnam"
-   ],
-   "volume": {
-    "us": 1000
-   },
-   "intents": {
-    "informational": 1
-   },
-   "weak": 1,
-   "flags": [
-    "served only by partial matches: the page does not name these keywords"
-   ]
-  },
-  {
    "url": "/topics/motorcycles/",
    "type": "hub",
    "cluster": "motorcycles",
@@ -4965,24 +4498,6 @@
    },
    "weak": 0,
    "flags": []
-  },
-  {
-   "url": "/articles/can-tourists-rent-a-motorbike-hanoi/",
-   "type": "article",
-   "cluster": "rental",
-   "keywords": [
-    "halong motorbike rental"
-   ],
-   "volume": {
-    "vn": 320
-   },
-   "intents": {
-    "commercial": 1
-   },
-   "weak": 1,
-   "flags": [
-    "served only by partial matches: the page does not name these keywords"
-   ]
   },
   {
    "url": "/articles/buying-motorbike-parts-online-vietnam/",
@@ -5090,26 +4605,6 @@
    },
    "weak": 0,
    "flags": []
-  },
-  {
-   "url": "/articles/16-inch-wheel-scooters-vietnam/",
-   "type": "article",
-   "cluster": "scooters",
-   "keywords": [
-    "airblade honda vietnam",
-    "honda gb350 vietnam",
-    "honda cbr650r vietnam"
-   ],
-   "volume": {
-    "vn": 50
-   },
-   "intents": {
-    "transactional": 3
-   },
-   "weak": 3,
-   "flags": [
-    "served only by partial matches: the page does not name these keywords"
-   ]
   },
   {
    "url": "/articles/electric-bike-licence-vietnam/",
@@ -5221,6 +4716,50 @@
    "flags": []
   },
   {
+   "url": "/articles/16-inch-wheel-scooters-vietnam/",
+   "type": "article",
+   "cluster": "scooters",
+   "keywords": [
+    "airblade honda vietnam"
+   ],
+   "volume": {
+    "vn": 30
+   },
+   "intents": {
+    "transactional": 1
+   },
+   "weak": 1,
+   "flags": [
+    "served only by partial matches: the page does not name these keywords"
+   ]
+  },
+  {
+   "url": "/articles/hanoi-to-ho-chi-minh-city-by-motorbike/",
+   "type": "article",
+   "cluster": "vietnam-travel",
+   "keywords": [
+    "hanoi to ho chi minh motorbike rental",
+    "motorbike from hanoi to ho chi minh",
+    "motorbike rental hanoi to ho chi minh",
+    "motorbike rental ho chi minh to hanoi",
+    "saigon to hanoi motorbike"
+   ],
+   "volume": {
+    "us": 30,
+    "uk": 10,
+    "vn": 20,
+    "au": 10
+   },
+   "intents": {
+    "transactional": 3,
+    "informational": 2
+   },
+   "weak": 0,
+   "flags": [
+    "mixed intent (3 commercial/transactional, 2 informational): keep one primary intent, let the hub carry the rest"
+   ]
+  },
+  {
    "url": "/articles/motorbike-rental-budget-monthly-hanoi/",
    "type": "article",
    "cluster": "monthly-rental",
@@ -5287,10 +4826,8 @@
    "intents": {
     "transactional": 2
    },
-   "weak": 2,
-   "flags": [
-    "served only by partial matches: the page does not name these keywords"
-   ]
+   "weak": 0,
+   "flags": []
   },
   {
    "url": "/articles/renting-motorbike-old-quarter/",
@@ -5346,22 +4883,6 @@
    ]
   },
   {
-   "url": "/articles/hanoi-to-ho-chi-minh-city-by-motorbike/",
-   "type": "article",
-   "cluster": "vietnam-travel",
-   "keywords": [
-    "motorbike from hanoi to ho chi minh"
-   ],
-   "volume": {
-    "uk": 10
-   },
-   "intents": {
-    "informational": 1
-   },
-   "weak": 0,
-   "flags": []
-  },
-  {
    "url": "/articles/ho-chi-minh-highway-motorbike-guide/",
    "type": "article",
    "cluster": "vietnam-travel",
@@ -5376,24 +4897,6 @@
    },
    "weak": 0,
    "flags": []
-  },
-  {
-   "url": "/articles/motorbike-border-crossing-vietnam-laos/",
-   "type": "article",
-   "cluster": "vietnam-travel",
-   "keywords": [
-    "motorbike rental laos"
-   ],
-   "volume": {
-    "uk": 10
-   },
-   "intents": {
-    "transactional": 1
-   },
-   "weak": 1,
-   "flags": [
-    "served only by partial matches: the page does not name these keywords"
-   ]
   },
   {
    "url": "/articles/motorbike-rental-monthly-price-hanoi/",
@@ -5445,24 +4948,6 @@
    "flags": []
   },
   {
-   "url": "/topics/electric/",
-   "type": "hub",
-   "cluster": "electric",
-   "keywords": [
-    "saigon to hanoi motorbike"
-   ],
-   "volume": {
-    "au": 10
-   },
-   "intents": {
-    "informational": 1
-   },
-   "weak": 1,
-   "flags": [
-    "served only by partial matches: the page does not name these keywords"
-   ]
-  },
-  {
    "url": "/topics/law-licences/",
    "type": "hub",
    "cluster": "law-licences",
@@ -5492,33 +4977,9 @@
   {
    "cluster": "50cc",
    "severity": "P3",
-   "rule": "hub-links-outside-silo",
-   "detail": "2 start-here link(s) point outside the silo",
-   "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "50cc",
-   "severity": "P3",
    "rule": "silo-leak",
    "detail": "only 41% of in-body links from this silo stay inside it",
    "action": "review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "50cc",
-   "severity": "P3",
-   "rule": "silo-orphans",
-   "detail": "13 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-   "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "electric",
-   "severity": "P3",
-   "rule": "hub-links-outside-silo",
-   "detail": "2 start-here link(s) point outside the silo",
-   "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
    "status": "REVIEW_REQUIRED"
   },
   {
@@ -5530,83 +4991,11 @@
    "status": "REVIEW_REQUIRED"
   },
   {
-   "cluster": "electric",
-   "severity": "P3",
-   "rule": "keyword-cluster",
-   "detail": "/topics/electric/: served only by partial matches: the page does not name these keywords",
-   "action": "review in the keyword universe mapping",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "electric",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/best-electric-moped-students-vietnam/ has 1 in-silo in-body inbound link(s) (3 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "electric",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/buying-first-electric-motorbike-vietnam/ has 1 in-silo in-body inbound link(s) (7 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "electric",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/buying-used-electric-motorbike-vietnam/ has 1 in-silo in-body inbound link(s) (6 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "electric",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/can-foreigners-rent-electric-bike-vietnam/ has 1 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "electric",
-   "severity": "P3",
-   "rule": "silo-orphans",
-   "detail": "27 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-   "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "hanoi",
-   "severity": "P3",
-   "rule": "hub-links-outside-silo",
-   "detail": "1 start-here link(s) point outside the silo",
-   "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
    "cluster": "hanoi",
    "severity": "P3",
    "rule": "silo-leak",
    "detail": "only 45% of in-body links from this silo stay inside it",
    "action": "review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "hanoi",
-   "severity": "P3",
-   "rule": "silo-orphans",
-   "detail": "27 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-   "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "law-licences",
-   "severity": "P3",
-   "rule": "hub-links-outside-silo",
-   "detail": "2 start-here link(s) point outside the silo",
-   "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
    "status": "REVIEW_REQUIRED"
   },
   {
@@ -5634,123 +5023,19 @@
    "status": "REVIEW_REQUIRED"
   },
   {
-   "cluster": "law-licences",
-   "severity": "P3",
-   "rule": "silo-orphans",
-   "detail": "20 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-   "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
    "cluster": "maintenance",
    "severity": "P3",
    "rule": "hub-links-outside-silo",
-   "detail": "5 start-here link(s) point outside the silo",
+   "detail": "5 of 15 start-here links point outside the silo (over 30%)",
    "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "maintenance",
-   "severity": "P3",
-   "rule": "silo-orphans",
-   "detail": "11 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-   "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "manual-clutch",
-   "severity": "P3",
-   "rule": "hub-links-outside-silo",
-   "detail": "1 start-here link(s) point outside the silo",
-   "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "manual-clutch",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/buying-used-sport-underbone-verified/ has 0 in-silo in-body inbound link(s) (3 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "manual-clutch",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/honda-blade-drum-vs-disc/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "manual-clutch",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/winner-r-exciter-155-ownership-costs/ has 1 in-silo in-body inbound link(s) (4 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "manual-clutch",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/yamaha-pg-1-vs-honda-wave-rsx/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "manual-clutch",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/yamaha-pg-1-vs-yamaha-sirius-rc/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "manual-clutch",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/yamaha-sirius-fi-vs-sirius-rc/ has 0 in-silo in-body inbound link(s) (3 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
    "status": "REVIEW_REQUIRED"
   },
   {
    "cluster": "manual-clutch",
    "severity": "P3",
    "rule": "silo-leak",
-   "detail": "only 38% of in-body links from this silo stay inside it",
+   "detail": "only 44% of in-body links from this silo stay inside it",
    "action": "review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "manual-clutch",
-   "severity": "P3",
-   "rule": "silo-orphans",
-   "detail": "30 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-   "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "monthly-rental",
-   "severity": "P3",
-   "rule": "hub-links-outside-silo",
-   "detail": "2 start-here link(s) point outside the silo",
-   "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "monthly-rental",
-   "severity": "P3",
-   "rule": "silo-orphans",
-   "detail": "3 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-   "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "motorcycles",
-   "severity": "P3",
-   "rule": "hub-links-outside-silo",
-   "detail": "1 start-here link(s) point outside the silo",
-   "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
    "status": "REVIEW_REQUIRED"
   },
   {
@@ -5762,179 +5047,11 @@
    "status": "REVIEW_REQUIRED"
   },
   {
-   "cluster": "motorcycles",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/best-honda-underbones-vietnam-verified/ has 0 in-silo in-body inbound link(s) (3 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "motorcycles",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/best-underbones-beginner-riders-verified/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "motorcycles",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/best-underbones-high-mileage-verified/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "motorcycles",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/best-underbones-short-riders-verified/ has 0 in-silo in-body inbound link(s) (4 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "motorcycles",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/best-underbones-tall-riders-verified/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "motorcycles",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/best-underbones-two-up-verified/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "motorcycles",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/cheapest-new-underbones-vietnam-verified/ has 0 in-silo in-body inbound link(s) (11 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "motorcycles",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/fastest-motorbikes-under-155cc-vietnam-verified/ has 0 in-silo in-body inbound link(s) (3 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "motorcycles",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/honda-blade-vs-honda-cbr150r/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "motorcycles",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/honda-blade-vs-honda-ct125/ has 0 in-silo in-body inbound link(s) (3 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "motorcycles",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/honda-blade-vs-honda-future-125/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "motorcycles",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/honda-blade-vs-honda-super-cub-c125/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "motorcycles",
-   "severity": "P3",
-   "rule": "silo-orphans",
-   "detail": "71 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-   "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "parts-gear",
-   "severity": "P3",
-   "rule": "hub-links-outside-silo",
-   "detail": "1 start-here link(s) point outside the silo",
-   "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
    "cluster": "parts-gear",
    "severity": "P3",
    "rule": "silo-leak",
    "detail": "only 36% of in-body links from this silo stay inside it",
    "action": "review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "parts-gear",
-   "severity": "P3",
-   "rule": "silo-orphans",
-   "detail": "44 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-   "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "rental",
-   "severity": "P3",
-   "rule": "keyword-cluster",
-   "detail": "/articles/can-tourists-rent-a-motorbike-hanoi/: served only by partial matches: the page does not name these keywords",
-   "action": "review in the keyword universe mapping",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "rental",
-   "severity": "P3",
-   "rule": "keyword-cluster",
-   "detail": "/articles/renting-motorbike-hanoi-tet-holidays/: served only by partial matches: the page does not name these keywords",
-   "action": "review in the keyword universe mapping",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "rental",
-   "severity": "P3",
-   "rule": "silo-orphans",
-   "detail": "7 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-   "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "safety",
-   "severity": "P3",
-   "rule": "hub-links-outside-silo",
-   "detail": "1 start-here link(s) point outside the silo",
-   "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "safety",
-   "severity": "P3",
-   "rule": "silo-orphans",
-   "detail": "16 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-   "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "scooters",
-   "severity": "P3",
-   "rule": "hub-links-outside-silo",
-   "detail": "1 start-here link(s) point outside the silo",
-   "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
    "status": "REVIEW_REQUIRED"
   },
   {
@@ -5946,155 +5063,11 @@
    "status": "REVIEW_REQUIRED"
   },
   {
-   "cluster": "scooters",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/best-scooters-long-distance-touring-vietnam/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "scooters",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/best-scooters-tall-riders-vietnam/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "scooters",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/honda-air-blade-125-vs-honda-vario-125/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "scooters",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/honda-air-blade-160-vs-honda-lead-125/ has 0 in-silo in-body inbound link(s) (5 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "scooters",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/honda-lead-125-vs-honda-vario-160/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "scooters",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/honda-sh-160-vs-honda-vario-160/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "scooters",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/honda-sh-mode-125-vs-honda-air-blade-160/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "scooters",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/honda-sh-mode-125-vs-honda-lead-125/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "scooters",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/honda-sh-mode-125-vs-honda-sh-160/ has 0 in-silo in-body inbound link(s) (8 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "scooters",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/honda-vario-125-vs-honda-lead-125/ has 0 in-silo in-body inbound link(s) (5 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "scooters",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/honda-vario-125-vs-yamaha-latte-125/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "scooters",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/honda-vario-160-vs-honda-air-blade-160/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "scooters",
-   "severity": "P3",
-   "rule": "silo-orphans",
-   "detail": "58 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-   "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "trips",
-   "severity": "P3",
-   "rule": "hub-links-outside-silo",
-   "detail": "2 start-here link(s) point outside the silo",
-   "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "trips",
-   "severity": "P3",
-   "rule": "silo-orphans",
-   "detail": "12 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-   "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "vietnam-travel",
-   "severity": "P3",
-   "rule": "hub-links-outside-silo",
-   "detail": "1 start-here link(s) point outside the silo",
-   "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
    "cluster": "vietnam-travel",
    "severity": "P3",
    "rule": "keyword-cluster",
-   "detail": "/articles/motorbike-border-crossing-vietnam-laos/: served only by partial matches: the page does not name these keywords",
+   "detail": "/articles/hanoi-to-ho-chi-minh-city-by-motorbike/: mixed intent (3 commercial/transactional, 2 informational): keep one primary intent, let the hub carry the rest",
    "action": "review in the keyword universe mapping",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "vietnam-travel",
-   "severity": "P3",
-   "rule": "keyword-cluster",
-   "detail": "/articles/one-way-motorbike-rental-vietnam/: served only by partial matches: the page does not name these keywords",
-   "action": "review in the keyword universe mapping",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "vietnam-travel",
-   "severity": "P3",
-   "rule": "silo-orphans",
-   "detail": "8 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
-   "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
    "status": "REVIEW_REQUIRED"
   }
  ]

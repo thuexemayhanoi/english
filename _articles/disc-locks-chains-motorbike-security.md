@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented statistics"
-internal_link_targets: "where-to-park-motorbike-hanoi, motorbike-alarms-vietnam, theft-loss-responsibility-rental-motorbike-hanoi, helmet-locks-theft-vietnam, security-marking-kits-motorbike"
+internal_link_targets: "where-to-park-motorbike-hanoi, motorbike-alarms-vietnam, theft-loss-responsibility-rental-motorbike-hanoi, helmet-locks-theft-vietnam, security-marking-kits-motorbike, weather-resistant-locks-motorbike"
 ---
 
 Motorbike theft in Vietnamese cities is mostly a crime of convenience: a bike that is easy to roll away, in a spot nobody watches, on a night nobody passes. Security gear works by breaking that convenience — and layers beat gadgets.

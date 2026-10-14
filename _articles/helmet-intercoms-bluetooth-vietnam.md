@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "full-face-vs-open-face-helmet-vietnam, dashcams-motorbike-riding-vietnam, group-riding-motorbike-vietnam, helmet-care-replacing-guide-vietnam"
+internal_link_targets: "full-face-vs-open-face-helmet-vietnam, dashcams-motorbike-riding-vietnam, group-riding-motorbike-vietnam, helmet-care-replacing-guide-vietnam, waterproof-document-pouches-motorbike"
 ---
 
 An intercom turns two riders on one bike into a conversation, and a group ride into a moving briefing. In Vietnam's traffic — where coordinating turns, stops and potholes is otherwise shouted over the engine — the practical case for a helmet intercom is stronger than most riders expect.

@@ -20,7 +20,7 @@ sources:
   - "https://www.travelfish.org/weather/vietnam — Travelfish's Vietnam weather guide: 15 degrees of latitude, regional monsoon impacts, retrieved 2026-09-24"
   - "https://www.tigitmotorbikes.com/blogs/vietnam-weather.html — motorbike-touring weather guide: March/April and October/November the most stable months for Hanoi and the north, retrieved 2026-09-24"
   - "https://chiwheelsmotorcycletour.com/best-time-for-riding-in-vietnam.html — riding-season advice including the March-August window for the central coastal route, retrieved 2026-09-24"
-internal_link_targets: "hanoi-riding-seasons-guide, motorbike-trip-seasons-north-vietnam, after-rain-slippery-roads-motorbike, fog-and-low-visibility-riding-motorbike-vietnam, best-motorbike-for-long-distance-vietnam, vietnam-motorbike-backpacker-trail"
+internal_link_targets: "hanoi-riding-seasons-guide, motorbike-trip-seasons-north-vietnam, after-rain-slippery-roads-motorbike, fog-and-low-visibility-riding-motorbike-vietnam, best-motorbike-for-long-distance-vietnam, vietnam-motorbike-backpacker-trail, tet-holiday-motorbike-travel-vietnam"
 ---
 
 Vietnam is 15 degrees of latitude tall, and it does not have a weather — it has three of them, stacked. Weather guides are unanimous: the country's length and topography mean the north, the centre and the south run on different monsoon clocks, and the question "when should I visit Vietnam on a motorbike?" is really three questions. Here is the rider's version.

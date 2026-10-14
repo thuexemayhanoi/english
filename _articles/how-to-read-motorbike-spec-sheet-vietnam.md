@@ -47,3 +47,5 @@ Empty is information. Yamaha publishes no seat heights for the Sirius or Exciter
 ## Using the sheet
 
 Our underbone guides rank every model on exactly these fields. To test the numbers in person: our price-published daily classes are the Honda Wave and Yamaha Sirius at 150,000 VND - contact us to confirm current availability. Insurance is not included in rentals.
+
+Putting the fields to work: [Underbone Buying Checklist: Comparing Two Bikes by the Spec Sheet]({{ '/articles/underbone-buying-checklist-verified-specs/' | relative_url }}) and [Underbone List Prices in Vietnam]({{ '/articles/underbone-list-prices-vietnam-ladder/' | relative_url }}).

@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): contact details and availability wording only"
   - "https://en.wikipedia.org/wiki/Road_signs_in_Vietnam — overview of Vietnamese road sign conventions (following Chinese and French sign traditions) and the national road numbering system, retrieved 2026-09-24"
-internal_link_targets: motorbike-trip-navigation-offline-maps-vietnam, motorbikes-on-expressway-vietnam, motorbike-parking-vietnamese-cities, horn-etiquette-motorbike-vietnam, highway-1-vietnam-motorbike-riding
+internal_link_targets: "motorbike-trip-navigation-offline-maps-vietnam, motorbikes-on-expressway-vietnam, motorbike-parking-vietnamese-cities, horn-etiquette-motorbike-vietnam, highway-1-vietnam-motorbike-riding, vietnam-traffic-culture-riding-overview"
 ---
 
 You can ride Vietnam on Google Maps alone — plenty do — but the road signs are worth twenty minutes of study, because they tell you what the map cannot: what kind of road you are on, what kind of road is coming, and what the locals know that you do not.

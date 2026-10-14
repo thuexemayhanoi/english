@@ -38,3 +38,5 @@ Riders who want a scooter that looks considered at the cafe as well as working i
 ## Renting one
 
 The Grande is not among Nguyen Tu's price-published models - contact us to confirm current availability. As with any scooter, run the pre-ride checks in our motorbike [safety checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}), and check licence rules by engine class in our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}).
+
+Head-to-head comparisons involving this model: [Yamaha Grande vs Honda Vision: Style Statement vs Default Choice]({{ '/articles/yamaha-grande-vs-honda-vision/' | relative_url }}); [Yamaha Latte vs Yamaha Grande: Two Style Scooters, One Garage]({{ '/articles/yamaha-latte-vs-yamaha-grande/' | relative_url }}).

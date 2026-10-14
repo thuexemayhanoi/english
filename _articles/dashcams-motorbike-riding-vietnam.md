@@ -16,7 +16,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "motorbike-accident-first-aid-vietnam, motorbike-accident-duties-vietnam, keeping-rental-motorbike-secure-hanoi, visibility-riding-motorbike-vietnam"
+internal_link_targets: "motorbike-accident-first-aid-vietnam, motorbike-accident-duties-vietnam, keeping-rental-motorbike-secure-hanoi, visibility-riding-motorbike-vietnam, road-rage-aggressive-drivers-vietnam"
 ---
 
 In any dispute after an accident, the question is always "what actually happened?" A dashcam answers it. Vietnam's traffic generates constant close calls, and riders increasingly mount small cameras for exactly the reason drivers do: an objective record.

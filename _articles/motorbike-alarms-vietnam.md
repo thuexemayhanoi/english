@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "disc-locks-chains-motorbike-security, theft-loss-responsibility-rental-motorbike-hanoi, where-to-park-motorbike-hanoi, wiring-connectors-humidity-motorbike"
+internal_link_targets: "disc-locks-chains-motorbike-security, theft-loss-responsibility-rental-motorbike-hanoi, where-to-park-motorbike-hanoi, wiring-connectors-humidity-motorbike, home-parking-overnight-security"
 ---
 
 An alarm is the audible layer of motorbike security: it cannot stop a professional crew, but it converts a silent roll-away into a scene — and scenes are what opportunistic thieves avoid. In Vietnamese streets, where neighbours, security guards and passing traffic are dense, a loud alarm has more true witnesses per square metre than almost anywhere.

@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: "how-to-ride-manual-clutch-motorbike-vietnam, clutch-control-friction-zone-practice, clutch-slipping-manual-motorbike, left-turns-across-traffic-motorbike-vietnam, crossing-hanoi-bridges-motorbike, manual-motorbike-u-turn-technique"
+internal_link_targets: "how-to-ride-manual-clutch-motorbike-vietnam, clutch-control-friction-zone-practice, clutch-slipping-manual-motorbike, left-turns-across-traffic-motorbike-vietnam, crossing-hanoi-bridges-motorbike, manual-motorbike-u-turn-technique, two-up-clutch-technique-manual-motorbike"
 ---
 
 Hanoi traffic is ten thousand small launches. Riders who master clutch finesse in stop-and-go conditions stop thinking about the gearbox within a week; riders who fight it stay tired and frustrated.

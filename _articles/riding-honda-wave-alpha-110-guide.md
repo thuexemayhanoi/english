@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn — Honda Vietnam model detail pages, official specifications (recorded in docs/MODEL-DATABASE.md, retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-wave-alpha-110-review, honda-wave-alpha-vs-honda-wave-rsx, cheapest-new-underbones-vietnam-verified, honda-wave-rsx-commuting-guide, renting-semi-automatic-underbone-hanoi
+internal_link_targets: "honda-wave-alpha-110-review, honda-wave-alpha-vs-honda-wave-rsx, cheapest-new-underbones-vietnam-verified, honda-wave-rsx-commuting-guide, renting-semi-automatic-underbone-hanoi, honda-blade-drum-vs-disc"
 ---
 
 The Wave Alpha is the least expensive machine on Honda Vietnam's list — 18,841,091 VND on the current page — and it is the bike most Vietnamese families actually own. For visitors, it is also the classic semi-auto rental: simple, light and everywhere. Figures below are from Honda Vietnam's official page (recorded in our model database, retrieved 2026-09-23).

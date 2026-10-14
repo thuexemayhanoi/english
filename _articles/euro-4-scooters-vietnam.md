@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: carburettor-vs-fuel-injection-vietnam, fuel-injector-cleaning-vietnam, reading-scooter-spec-sheet, honda-vario-125-review, honda-sh-mode-125-review, improving-fuel-economy-motorbike
+internal_link_targets: "carburettor-vs-fuel-injection-vietnam, fuel-injector-cleaning-vietnam, reading-scooter-spec-sheet, honda-vario-125-review, honda-sh-mode-125-review, improving-fuel-economy-motorbike, scooter-ground-clearance-compared-vietnam"
 ---
 
 Emission standards rarely make a buying list, but they shape what you buy: modern Vietnamese scooters advertise EURO 4 compliance, and it is tied to the technology that defines how they run. Here is the plain-language version.

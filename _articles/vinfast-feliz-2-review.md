@@ -46,3 +46,5 @@ No Smart Key/tracking suite is listed for the Feliz II in VinFast's published la
 ## Who it suits
 
 Riders who want the proven, mainstream option in the swap lineup: full city pace, maximum range-per-money simplicity, and a form factor passengers and shops already know. Rent batteries (175,000-300,000 VND per month) or buy packs outright — the swap fee stays 9,000 VND either way.
+
+Head-to-head comparisons involving this model: [Dat Bike Weaver 200 vs VinFast Feliz II: Charge vs Swap]({{ '/articles/dat-bike-weaver-200-vs-vinfast-feliz-2/' | relative_url }}); [VinFast Evo vs Feliz II: Which Swap Scooter to Choose]({{ '/articles/vinfast-evo-vs-feliz-2/' | relative_url }}); [VinFast Viper vs Feliz II: Tech Package vs Familiar Formula]({{ '/articles/vinfast-viper-vs-feliz-2/' | relative_url }}).

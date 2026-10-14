@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — Yamaha VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: "honda-blade-110-review, yamaha-sirius-rc-110-review, flat-tyre-repair-motorbike-vietnam, choosing-replacement-tyres-motorbike-vietnam, genuine-vs-fake-parts-motorbike-vietnam, engine-oil-drain-vs-overhaul-capacity-explained, fuel-economy-test-cycles-explained"
+internal_link_targets: "honda-blade-110-review, yamaha-sirius-rc-110-review, flat-tyre-repair-motorbike-vietnam, choosing-replacement-tyres-motorbike-vietnam, genuine-vs-fake-parts-motorbike-vietnam, engine-oil-drain-vs-overhaul-capacity-explained, fuel-economy-test-cycles-explained, why-17-inch-wheels-underbones"
 ---
 
 Look at any Vietnamese underbone model range and the version ladder tells a story: the cheapest bikes wear spoked wheels, the sport versions wear cast alloy. Both wheel types are manufacturer-published options on the same bikes - Honda's Blade page lists the Sport version with alloy wheels and the others with spoked wheels, and Yamaha's Sirius range spans drum, disc and alloy-wheel RC versions (all retrieved 23 September 2026). Here is what the difference means.

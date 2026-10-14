@@ -19,7 +19,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address and opening hours only"
-internal_link_targets: west-lake-loop-motorbike-route, red-river-dyke-riding-guide, tay-ho-west-lake-area-guide-riders, self-guided-hanoi-motorbike-city-tour, potholes-bad-roads-motorbike-vietnam, sun-glare-riding-motorbike-vietnam, hanoi-districts-layout-guide-riders
+internal_link_targets: "west-lake-loop-motorbike-route, red-river-dyke-riding-guide, tay-ho-west-lake-area-guide-riders, self-guided-hanoi-motorbike-city-tour, potholes-bad-roads-motorbike-vietnam, sun-glare-riding-motorbike-vietnam, hanoi-districts-layout-guide-riders, riding-motorbike-noi-bai-airport-hanoi"
 ---
 
 The ceramic mosaic wall along the Nghi Tam–Yen Phu dyke is one of Hanoi's most photographed kilometres — a continuous relief of glazed tiles, batiks and painted ceramics running along the Red River flood embankment, decorated in the run-up to the city's 2010 millennium celebrations and recognised as the world's longest ceramic mosaic. For riders, it is also a genuinely useful piece of road: the dyke stretch connects the northeast corner of West Lake with the Long Bien area, and it turns a commute into a gallery visit.

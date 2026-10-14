@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "easiest-motorbikes-for-beginners-hanoi, lightest-motorbikes-for-new-riders, do-hanoi-rentals-include-helmets, what-to-carry-riding-motorbike-vietnam, rental-motorbike-inspection-checklist, motorbike-rental-english-teachers-hanoi, renting-motorbike-noi-bai-arrival"
+internal_link_targets: "easiest-motorbikes-for-beginners-hanoi, lightest-motorbikes-for-new-riders, do-hanoi-rentals-include-helmets, what-to-carry-riding-motorbike-vietnam, rental-motorbike-inspection-checklist, motorbike-rental-english-teachers-hanoi, renting-motorbike-noi-bai-arrival, renting-motorbike-hanoi-complete-beginner"
 ---
 
 Thousands of women ride every day in Hanoi — it is one of the most gender-equal motorbike cities in the world, and the street infrastructure (slow average speeds, ubiquitous parking lots, small bikes) makes it approachable. Still, some rental-day specifics are worth saying plainly.

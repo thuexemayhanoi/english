@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "what-to-carry-riding-motorbike-vietnam, balancing-pillion-riding-motorbike-vietnam, best-motorbike-for-day-trips-from-hanoi, motorbike-required-equipment-vietnam"
+internal_link_targets: "what-to-carry-riding-motorbike-vietnam, balancing-pillion-riding-motorbike-vietnam, best-motorbike-for-day-trips-from-hanoi, motorbike-required-equipment-vietnam, hill-starts-motorbike-slopes-vietnam"
 ---
 A motorbike carries best when loaded like a backpack: low, centred and snug. The same bag that vanishes under your seat changes the entire machine when hung on the handlebars. What to carry day to day is covered in [What to Carry While Riding a Motorbike in Vietnam]({{ '/articles/what-to-carry-riding-motorbike-vietnam/' | relative_url }}); this is about how to carry it.
 

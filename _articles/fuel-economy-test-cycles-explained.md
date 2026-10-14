@@ -33,3 +33,5 @@ Honda's Winner R page publishes 2.59 L/100 km by the UDC method and openly notes
 ## How to use the numbers
 
 Compare like with like: all the figures we publish are manufacturer-claimed values retrieved on the same date (23 September 2026), and are best read as a ranking, not an operating cost. Then adjust: [our fuel-economy-figures explainer]({{ '/articles/underbone-fuel-economy-figures-explained/' | relative_url }}) translates the rankings into real-world expectations, and [the riding-habits guide]({{ '/articles/fuel-efficient-riding-habits-underbone/' | relative_url }}) covers what actually moves your number - throttle discipline beats model choice by a wide margin.
+
+How the published cycle numbers rank the models: [Most Fuel-Efficient Underbones in Vietnam]({{ '/articles/most-fuel-efficient-underbones-vietnam-verified/' | relative_url }}).

@@ -22,7 +22,7 @@ sources:
   - "https://insurance-vietnam.com/motorbike-insurance-vietnam/ — analysis of motorbike insurance coverage in Vietnam: engine-size caps (50cc vs 125cc) and licence requirement tiers, retrieved 2026-09-24"
   - "https://www.reddit.com/r/VietNam/comments/1m6lqfc/travel_insurance_vietnam_scooter_drivers_license/ — traveller reports of policies covering 125cc-and-under riding only when properly licensed locally, retrieved 2026-09-24"
   - "https://therestlessbeans.com/vietnam-travel-insurance-for-scooters-no-idp/ — the 1968 IDP problem and insurers that exclude motorbike touring, retrieved 2026-09-24"
-internal_link_targets: do-you-need-insurance-to-ride-vietnam, compulsory-motorbike-insurance-vietnam, is-insurance-included-motorbike-rental-hanoi, can-tourists-ride-motorbike-vietnam, idp-vietnam-motorbike-rules
+internal_link_targets: "do-you-need-insurance-to-ride-vietnam, compulsory-motorbike-insurance-vietnam, is-insurance-included-motorbike-rental-hanoi, can-tourists-ride-motorbike-vietnam, idp-vietnam-motorbike-rules, self-drive-vs-easy-rider-vietnam"
 ---
 
 Here is the sentence that ruins more Vietnam trips than any road: "I thought my travel insurance covered me on the motorbike." For many travellers it does — conditionally. Travel insurance and motorbikes interact through a set of standard policy clauses that most riders never read, and in Vietnam those clauses matter more than almost anywhere, because the licence question is where most policies quietly escape.

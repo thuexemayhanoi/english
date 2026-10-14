@@ -37,7 +37,9 @@ const ADJACENT = /\b(traffic|police|rainy season|monsoon|wet season|weather|road
 const BRANDS = /\b(13535|tuan|gia hung|gia hưng|james|style motorbikes|motorbike station|chrunix|flamingo|tigit|phung|rentabike|motorvina|extra mile|hanoi midori|duy anh|az motorbikes|rental motorbike vietnam|happiness lane|offroad vietnam|dragon bike|riderly|vbike|hai banh|haibanh|happyzip|izigo|motogo|giang son|qt motorbikes|cozy hostel|ha giang epic|jasmine|bong hostel|hong hao)\b/i;
 const OFF_ALWAYS = /\b(cr-?v|civic|accord|br-?v|hr-?v|cars?|suv|hostels?|homestays?|hotels?|mama stay|coffee|pho\b|cost of liv|living cost|cost of life|living expenses|price of living|costs of living|salary|salaries|wage|wages|income|river|rivers|li xi|lixi|red envelope|ky co|eating|food|\beat\b|top gear|what type of food|vietnam special|for sale|sales\b|harley|vtech|razor|gta|juice wrld|hagrid|yugioh|beamng|wuwa|quarter mile|logbook|\bdwg\b|\bpng\b|clipart|\bsvg\b|icon\b)/i;
 const OTHER_PLACE = /\b(thailand|thai\b|phuket|sicily|koh|nepal|phnom penh|krabi|cork|dubai|bali|florence|corfu|melbourne|perth|qatar|singapore|malaysia|ireland|\bnz\b|cyprus|essex|london|bangkok|kathmandu|rawai|chang|samui|utah|texas|florida|michigan|\bnj\b|\bnc\b|georgia|virginia|indiana|wisconsin|\bnys?\b|oregon|maryland|massachusetts|maine|tampa|\bvic\b|\bnt\b|\bact\b|california)\b/i;
-const OTHER_CITY = /\b(saigon|ho chi minh|hcmc|da nang|danang|hoi an|hue|phu quoc|nha trang|mui ne|da lat|dalat)\b/i;
+const OTHER_CITY = /\b(saigon|ho chi minh|hcmc|da nang|danang|hoi an|hue|phu quoc|nha trang|mui ne|da lat|dalat|ha long|halong|cat ba|sapa|sa pa|ha giang|ninh binh|laos)\b/i;
+// Big-bike brands and models the business does not rent: real Vietnam demand, adjacent only.
+const BIG_BIKE = /\b(bmw|triumph|mutt|ducati|kawasaki|ktm|harley|royal enfield|benelli|cfmoto|gb350|cbr650r?|cb650|cb500|cb300|rebel|africa twin|mt-?07|mt-?09|mt-?15|r3|r15m?|ninja|z900|z650|xsr)\b/i;
 
 function classify(keyword) {
   const kw = String(keyword || '').toLowerCase().trim();
@@ -46,6 +48,7 @@ function classify(keyword) {
   const geo = GEO.test(kw);
   if (OTHER_PLACE.test(kw) && !geo) return null;
   if (BRANDS.test(kw)) return 'competitor-brand';
+  if (BIG_BIKE.test(kw)) return GEO.test(kw) ? 'adjacent' : null;
   const veh = VEHICLE.test(kw);
   if (geo && veh) {
     if (OTHER_CITY.test(kw) && !/hanoi/i.test(kw) && /rent|hire|rental/i.test(kw)) return 'other-city';

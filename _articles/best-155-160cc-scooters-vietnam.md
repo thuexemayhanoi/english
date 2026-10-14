@@ -46,3 +46,5 @@ Seat heights: SH160i 799 mm, NVX 790 mm, Vario 160 778 mm, NMAX 770 mm, Lexi 768
 ## Renting
 
 None of the 155-160cc models are among Nguyen Tu's price-published rental models - contact us to confirm current availability. Pair this guide with our ABS [availability guide]({{ '/articles/abs-on-underbones-vietnam-explained/' | relative_url }}) and, if you ride two-up or commute in rain, [our rainy-season scooter guide]({{ '/articles/best-scooters-rainy-season-commuting-vietnam/' | relative_url }}).
+
+Two shortlists that overlap with this class: [Best Scooters for Long-Distance Touring]({{ '/articles/best-scooters-long-distance-touring-vietnam/' | relative_url }}) and [Which Scooter Class Fits]({{ '/articles/which-scooter-engine-class-vietnam/' | relative_url }}).

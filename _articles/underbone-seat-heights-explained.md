@@ -37,3 +37,5 @@ Scooters feel lower but many sit taller than they look; underbones pair low publ
 ## Rental advice
 
 If you are under about 160 cm, insist on trying the seat at the counter before renting: the Future-class 756 mm and the Wave-class 770 mm both work for most riders, but only your own legs can confirm it. Our price-published Wave class (150,000 VND/day) sits at a manageable 770 mm; contact us to confirm current availability of specific models.
+
+The shortlists built from seat height: [Best Underbones for Tall Riders]({{ '/articles/best-underbones-tall-riders-verified/' | relative_url }}), [Best Underbones for Short Riders]({{ '/articles/best-underbones-short-riders-verified/' | relative_url }}) and [Most Comfortable Underbones in Vietnam]({{ '/articles/most-comfortable-underbones-vietnam-verified/' | relative_url }}).

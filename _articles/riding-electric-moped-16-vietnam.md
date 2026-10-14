@@ -19,7 +19,7 @@ review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Bao dien tu Chinh phu) — Article 34(1)(g) (moped definition), Article 59 (age), Article 33(2) (helmets)"
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — Amio and Evo Lite as licence-free student models"
-internal_link_targets: electric-bike-licence-vietnam, e-bike-helmet-rules-vietnam, 50cc-licence-vietnam, riding-50cc-at-16-vietnam
+internal_link_targets: "electric-bike-licence-vietnam, e-bike-helmet-rules-vietnam, 50cc-licence-vietnam, riding-50cc-at-16-vietnam, electric-motorbike-fines-vietnam"
 ---
 
 Sixteen is the youngest age at which Vietnamese law lets you ride a powered two-wheeler on the road — and for the electric moped class it is enough: no driving licence is required.
@@ -39,3 +39,5 @@ Article 34(1)(g) of Law 36/2024/QH15 defines the moped class as 4 kW or less and
 Choose the class, not just the model: check the rated motor power on the spec sheet before buying. A 25 km/h pedal e-bike is a gentler start than a 70 km/h scooter, even if both are licence-free up to 4 kW. Budget for a proper helmet from day one, and ride the quiet motor deliberately: assume other road users have not heard you.
 
 This article is information, not legal advice. Licence and age rules verified against the full text of Law 36/2024/QH15 on 2026-09-24.
+
+Which licence-free models fit a student budget: [Best Electric Mopeds for Students in Vietnam]({{ '/articles/best-electric-moped-students-vietnam/' | relative_url }}).

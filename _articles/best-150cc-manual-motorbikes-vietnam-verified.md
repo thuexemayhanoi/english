@@ -54,3 +54,5 @@ Winner R 46,360,000 VND; Exciter 155 VVA from 55,200,000 VND for the limited ABS
 ## How to choose
 
 Performance and hardware per dong: Exciter 155 VVA. Cheapest entry to clutch riding: Winner R. Long-distance touring with a fairing: CBR150R. All three need a class A licence under the 2025 rules, or an A1 issued before 2025 - our licence [guide]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) covers exactly what you can ride. Full reviews are linked from this page. Contact us to confirm current availability for rental.
+
+Before choosing from this list, check [Who Actually Needs a 150cc Manual Motorbike]({{ '/articles/who-needs-150cc-manual-motorbike/' | relative_url }}); the performance ranking is in [Fastest Motorbikes Under 155cc in Vietnam]({{ '/articles/fastest-motorbikes-under-155cc-vietnam-verified/' | relative_url }}).

@@ -40,3 +40,5 @@ Between the Alpha (basic, cheapest) and the Future 125 (roomier, more expensive)
 ## Daily rhythm
 
 Riding it is the classic xe so pattern: first-gear launches, early upshifts, engine braking down ramps, both brakes for the erratic. The RSX rewards exactly the efficient habits the [fuel-economy guide]({{ '/articles/fuel-efficient-riding-habits-underbone/' | relative_url }}) describes. If you want a Wave-class semi-auto for your Hanoi stay, contact us to confirm current availability.
+
+Head-to-head comparisons involving this model: [Yamaha PG-1 vs Honda Wave RSX: Adventure Frills or Commuter Focus]({{ '/articles/yamaha-pg-1-vs-honda-wave-rsx/' | relative_url }}).

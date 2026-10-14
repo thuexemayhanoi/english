@@ -37,3 +37,5 @@ A bike sold "as a 2024 Wave Alpha" should match the current published spec - but
 ## Rental context
 
 Renters can ignore model years almost entirely: condition and maintenance matter more, which is true of our price-published Wave and Sirius classes (150,000 VND/day). Contact us to confirm current availability.
+
+Where the long-lived models sit on price: [Premium Underbones in Vietnam]({{ '/articles/premium-underbones-vietnam-verified/' | relative_url }}), [Cheapest New Underbones in Vietnam]({{ '/articles/cheapest-new-underbones-vietnam-verified/' | relative_url }}) and [Best Honda Underbones in Vietnam]({{ '/articles/best-honda-underbones-vietnam-verified/' | relative_url }}).

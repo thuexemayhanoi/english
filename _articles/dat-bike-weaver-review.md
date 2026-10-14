@@ -47,3 +47,5 @@ The Weaver's 100 km claimed range and 3-hour charge are honest city numbers rath
 ## Who it suits
 
 A1-licensed commuters with modest daily distance, who like the underbone shape and want the lowest-friction version of the electric motorcycle idea. For longer rides, the Weaver vs Weaver 200 comparison works through the upgrade question; for the whole family of machines, [the Dat Bike line-up guide]({{ '/articles/dat-bike-lineup-vietnam-guide/' | relative_url }}) maps the range. Rental availability of any Dat Bike model: contact us to confirm current availability.
+
+Head-to-head comparisons involving this model: [Dat Bike Weaver vs Weaver 200: The Range Question]({{ '/articles/dat-bike-weaver-vs-weaver-200/' | relative_url }}).

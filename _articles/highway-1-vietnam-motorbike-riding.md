@@ -19,7 +19,7 @@ sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): contact details and availability wording only"
   - "https://www.uncovervietnam.com/motorbike-vietnam-ho-chi-minh-to-hanoi/ — QL1A (also known in parts as AH1) as the main highway attracting the heaviest traffic, retrieved 2026-09-24"
   - "https://www.vietnamcoracle.com/saigon-to-hanoi-by-motorbike-5-suggested-routes/ — route comparison including QL1A traffic levels versus quieter alternatives, retrieved 2026-09-24"
-internal_link_targets: ho-chi-minh-highway-motorbike-guide, hanoi-to-ho-chi-minh-city-by-motorbike, hai-van-pass-motorbike-guide, motorbikes-on-expressway-vietnam, horn-etiquette-motorbike-vietnam
+internal_link_targets: "ho-chi-minh-highway-motorbike-guide, hanoi-to-ho-chi-minh-city-by-motorbike, hai-van-pass-motorbike-guide, motorbikes-on-expressway-vietnam, horn-etiquette-motorbike-vietnam, vietnam-road-signs-guide"
 ---
 
 The QL1A (Quốc lộ 1A, in places also signed as the Asian Highway AH1) is Vietnam's main street: the north-south artery on which the country actually moves. Every truck, every intercity bus, every cement mixer and water buffalo convoy between Hanoi and Ho Chi Minh City shares its tarmac. Riding it is the fastest way to eat distance in Vietnam — and the least pleasant way to enjoy it. This is the honest guide to when the QL1A deserves to be your road.

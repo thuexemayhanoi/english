@@ -21,7 +21,7 @@ sources:
   - "https://vietcetera.com/en/a-post-merger-guide-to-hanoi-navigating-vietnams-capital — Hanoi July 2025 administrative restructuring (30 former districts reorganised into 126 wards and communes), retrieved 2026-09-24"
   - "https://en.vietnamplus.vn/hanoi-announces-restructuring-plan-for-administrative-units-post317715.vnp — Hanoi administrative unit restructuring plan announcement, retrieved 2026-09-24"
   - "https://maisonoffice.vn/en/news/hanoi-map/ — post-restructuring Hanoi administrative map, retrieved 2026-09-24"
-internal_link_targets: hanoi-navigation-motorbike-guide, hanoi-districts-layout-guide-riders, choosing-hanoi-neighbourhood-motorbike-access, getting-around-hanoi-without-vietnamese, hanoi-petrol-stations-guide-riders, documents-to-carry-motorbike-vietnam
+internal_link_targets: "hanoi-navigation-motorbike-guide, hanoi-districts-layout-guide-riders, choosing-hanoi-neighbourhood-motorbike-access, getting-around-hanoi-without-vietnamese, hanoi-petrol-stations-guide-riders, documents-to-carry-motorbike-vietnam, bat-trang-pottery-village-motorbike-ride"
 ---
 
 In July 2025, Hanoi redrew its own map. The city's 30 former districts were reorganised into 126 wards and communes — a national administrative reform intended to shrink local government. For residents it meant new paperwork; for visitors riding around the city, the change matters in quieter ways: addresses, maps and the names people actually use.

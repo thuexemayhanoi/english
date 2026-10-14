@@ -17,7 +17,7 @@ sources:
   - "honda.com.vn — official Honda Vietnam model pages (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — official Yamaha Vietnam product pages (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved)"
-internal_link_targets: "improving-fuel-economy-motorbike, rental-motorbike-fuel-what-petrol, fuel-grades-petrol-stations-vietnam, honda-vision-110-review, 110cc-vs-125cc-scooters, honda-air-blade-160-review"
+internal_link_targets: "improving-fuel-economy-motorbike, rental-motorbike-fuel-what-petrol, fuel-grades-petrol-stations-vietnam, honda-vision-110-review, 110cc-vs-125cc-scooters, honda-air-blade-160-review, scooter-fuel-economy-figures-explained"
 ---
 
 Fuel is the biggest running cost of any scooter in Vietnam, and the manufacturers publish standardized consumption figures that make honest comparison possible. All figures below are the manufacturers' own published numbers (retrieved 23 September 2026). Real-world consumption always varies with load, traffic, terrain and riding style - treat these as a relative ranking, not a promise.
@@ -48,3 +48,5 @@ Tyre pressure, idling in traffic, a passenger, and riding style can shift consum
 ## If you are choosing
 
 For pure commuting economics, the Vision class wins. For range between stops on longer routes, the Lead. Renters: Nguyen Tu publishes Vision rates (200,000 VND/day); for other models contact us to confirm current availability.
+
+Range rather than economy per litre is ranked in [Longest-Range Scooters in Vietnam]({{ '/articles/longest-range-scooters-vietnam/' | relative_url }}).

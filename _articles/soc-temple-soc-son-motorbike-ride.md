@@ -21,7 +21,7 @@ sources:
   - "https://www.paradissa.com/vietnam/vietnam-tourism-guide/saint-giong-temple-soc-son-hanoi — Saint Giong Temple (Soc Son Temple) in Soc Son district, about 40 km from the city centre; the festival falls on the 6th day of the lunar new year, retrieved 2026-09-24"
   - "https://dtinews.dantri.com.vn/beautiful-vietnam/soc-son-temple-20130711152639717.htm — Den Soc sits at the foot of the Soc mountains about an hour from Hanoi, with a large Thanh Giong statue erected for the 1,000-year Thang Long–Hanoi celebrations, reached by a climb or a road to the summit, retrieved 2026-09-24"
   - "https://www.hectindia.com/location/soc-son — Soc Son district around 30 km north of Hanoi, with temple and lake attractions, retrieved 2026-09-24"
-internal_link_targets: best-motorbike-for-day-trips-from-hanoi, co-loa-citadel-motorbike-ride, dai-lai-lake-motorbike-loop, hanoi-pagodas-temples-motorbike-guide, how-to-rent-a-motorbike-hanoi
+internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, co-loa-citadel-motorbike-ride, dai-lai-lake-motorbike-loop, hanoi-pagodas-temples-motorbike-guide, how-to-rent-a-motorbike-hanoi, thay-pagoda-tay-phuong-pagoda-motorbike-route"
 ---
 
 Den Soc, the temple complex dedicated to the boy god Thanh Giong, sits at the foot of the Soc mountains in Soc Son district — roughly 30–40 kilometres north of central Hanoi, about an hour’s ride. It is one of the most atmospheric of the short northern rides: a pilgrimage site wrapped in a legend every Vietnamese schoolchild knows.

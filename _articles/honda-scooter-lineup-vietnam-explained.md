@@ -53,3 +53,5 @@ The Click 125i is imported through Honda's network rather than built on a Honda 
 ## How to choose
 
 Start with engine class - our 110cc [vs 125cc guide]({{ '/articles/110cc-vs-125cc-scooters/' | relative_url }}) helps - then with what your week looks like: cargo (Lead), pace (Air Blade, Vario 160), economy (Vision), or status and long-distance comfort (SH family). And compare across brands in Honda vs Yamaha scooters in Vietnam. Individual model availability changes - for anything on this list, contact us to confirm current availability.
+
+Shortlists built from this line-up: [Best 125cc Scooters in Vietnam]({{ '/articles/best-125cc-scooters-vietnam-verified/' | relative_url }}), [New Scooters Under 40 Million VND]({{ '/articles/scooters-under-40-million-vietnam/' | relative_url }}), [Premium Scooters in Vietnam]({{ '/articles/premium-scooters-vietnam/' | relative_url }}) and [What a New Scooter Costs in Vietnam]({{ '/articles/new-scooter-prices-vietnam-verified/' | relative_url }}).

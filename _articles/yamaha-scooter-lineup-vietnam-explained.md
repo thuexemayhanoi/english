@@ -49,3 +49,5 @@ The most aggressive mainstream automatic in the country: Blue Core 155 cc VVA en
 ## How to choose
 
 Budget and economy: Janus or Latte. Equipment per dong: FreeGo. Style: Grande or Latte. Pace and tech: NVX 155. Cross-brand shoppers should read Honda vs Yamaha scooters in Vietnam and our smart-key model list. None of these is on Nguyen Tu's price-published rental list except the Yamaha Mio - for anything else, contact us to confirm current availability.
+
+The cross-brand shortlists that include these models: [Longest-Range Scooters in Vietnam]({{ '/articles/longest-range-scooters-vietnam/' | relative_url }}), [Best Scooters for Delivery Riders in Vietnam]({{ '/articles/best-scooters-delivery-riders-vietnam/' | relative_url }}) and [Scooters with USB-C Charging in Vietnam]({{ '/articles/scooters-with-usb-c-charging-verified/' | relative_url }}).

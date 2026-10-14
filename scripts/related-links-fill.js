@@ -26,8 +26,11 @@ const MAX_TARGETS = 9;
 const articles = L.loadArticles();
 const bySlug = {}; for (const a of articles) bySlug[a.fm.slug] = a;
 const targetsOf = a => String(a.fm.internal_link_targets || '').split(',').map(s => s.trim()).filter(Boolean);
+// --same-silo: count only inbound cards from articles in the same topic cluster, so an
+// article whose cards all come from other silos is treated as needing a same-silo card.
+const SAME_SILO = process.argv.includes('--same-silo');
 const inbound = {};
-for (const a of articles) for (const t of targetsOf(a)) inbound[t] = (inbound[t] || 0) + 1;
+for (const a of articles) for (const t of targetsOf(a)) { if (SAME_SILO && bySlug[t] && bySlug[t].fm.topic_cluster !== a.fm.topic_cluster) continue; inbound[t] = (inbound[t] || 0) + 1; }
 const bodyIn = {};
 for (const a of articles) for (const h of L.extractLinks(a.body)) { const m = h.match(/^\/articles\/([a-z0-9-]+)\/?$/); if (m) bodyIn[m[1]] = (bodyIn[m[1]] || 0) + 1; }
 

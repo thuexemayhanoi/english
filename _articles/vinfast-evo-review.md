@@ -49,3 +49,5 @@ At 2,450 W the Evo is a steady commuter, not a quick one; heavier riders on brid
 ## Who it suits
 
 Riders who cannot charge where they park, commuters who want licence-free simplicity with a nationwide fuel network, and anyone who wants electric without battery-ageing risk (rent the packs and let VinFast carry the fade). For a faster sibling or a pedal-assist runabout, see the Feliz II review and the Amio comparison.
+
+Head-to-head comparisons involving this model: [VinFast Evo vs Feliz II: Which Swap Scooter to Choose]({{ '/articles/vinfast-evo-vs-feliz-2/' | relative_url }}); [VinFast Viper vs Evo: Features vs Range in the Swap Family]({{ '/articles/vinfast-viper-vs-evo/' | relative_url }}).

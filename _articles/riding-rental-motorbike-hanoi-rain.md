@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "motorbike-required-equipment-vietnam, motorbike-night-lights-vietnam, motorbike-speed-limits-vietnam, do-hanoi-rentals-include-helmets"
+internal_link_targets: "motorbike-required-equipment-vietnam, motorbike-night-lights-vietnam, motorbike-speed-limits-vietnam, do-hanoi-rentals-include-helmets, rental-motorbike-fuel-what-petrol"
 ---
 
 Hanoi's rain arrives fast, usually in short heavy bursts between May and October, and it changes everything about a ride. The traffic does not stop, so the difference is in how you adapt.

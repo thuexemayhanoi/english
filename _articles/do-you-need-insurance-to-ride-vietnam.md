@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "is-insurance-included-motorbike-rental-hanoi, compulsory-motorbike-insurance-vietnam, drink-driving-limits-motorbike-vietnam, motorbike-accident-duties-vietnam, no-licence-fine-vietnam"
+internal_link_targets: "is-insurance-included-motorbike-rental-hanoi, compulsory-motorbike-insurance-vietnam, drink-driving-limits-motorbike-vietnam, motorbike-accident-duties-vietnam, no-licence-fine-vietnam, rental-motorbike-fuel-what-petrol"
 ---
 
 Legally? No - the law requires insurance on the vehicle, not the person. Practically? Riding in Vietnam without personal cover is one of the most expensive risks a visitor can carry. Both answers are true.

@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no availability claims"
-internal_link_targets: "do-hanoi-rentals-include-helmets, helmet-fit-guide-vietnam, helmet-locks-theft-vietnam, balancing-pillion-riding-motorbike-vietnam"
+internal_link_targets: "do-hanoi-rentals-include-helmets, helmet-fit-guide-vietnam, helmet-locks-theft-vietnam, balancing-pillion-riding-motorbike-vietnam, kids-helmets-choosing-vietnam"
 ---
 
 In Vietnamese traffic, a pillion with a loose or borrowed hat is a daily sight and a daily misunderstanding: passengers need real helmets as much as riders, and the law expects them too.

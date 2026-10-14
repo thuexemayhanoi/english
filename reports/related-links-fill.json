@@ -1,2836 +1,436 @@
 {
   "tool": "related-links-fill",
   "mode": "apply",
-  "generated": "2026-10-14T10:06:47.838Z",
+  "generated": "2026-10-14T17:41:25.345Z",
   "plan": [
     {
-      "article": "50cc-brakes-drum-checks",
+      "article": "50cc-fines-vietnam",
+      "had": 0,
+      "sources": [
+        "helmet-rules-50cc-mopeds",
+        "50cc-motorbike-myths-law-vietnam"
+      ]
+    },
+    {
+      "article": "50cc-vs-e-bike-vietnam",
       "had": 1,
       "sources": [
-        "50cc-weekly-maintenance-checks"
+        "50cc-mopeds-vs-50cc-underbones"
       ]
     },
     {
-      "article": "50cc-mopeds-vs-50cc-underbones",
+      "article": "bat-trang-pottery-village-motorbike-ride",
       "had": 1,
       "sources": [
-        "how-fast-can-a-50cc-motorbike-go"
-      ]
-    },
-    {
-      "article": "50cc-night-riding-visibility",
-      "had": 0,
-      "sources": [
-        "50cc-day-trip-range-limits",
-        "50cc-hills-bridges-hanoi"
-      ]
-    },
-    {
-      "article": "50cc-parking-hanoi",
-      "had": 0,
-      "sources": [
-        "50cc-resale-value-vietnam",
-        "grey-import-50cc-vietnam"
-      ]
-    },
-    {
-      "article": "50cc-summer-heat-riding-hanoi",
-      "had": 0,
-      "sources": [
-        "50cc-in-the-rain-vietnam",
-        "50cc-day-trip-range-limits"
-      ]
-    },
-    {
-      "article": "aftermarket-exhausts-motorbikes-vietnam",
-      "had": 0,
-      "sources": [
-        "aftermarket-parts-warranty",
-        "buying-parts-physical-markets-vietnam"
-      ]
-    },
-    {
-      "article": "aftermarket-horns-motorbikes",
-      "had": 0,
-      "sources": [
-        "installing-accessories-diy-vs-shop",
-        "aftermarket-parts-warranty"
-      ]
-    },
-    {
-      "article": "aftermarket-led-headlight-bulbs",
-      "had": 1,
-      "sources": [
-        "adjustable-levers-motorbikes"
-      ]
-    },
-    {
-      "article": "aftermarket-suspension-upgrades",
-      "had": 0,
-      "sources": [
-        "aftermarket-exhausts-motorbikes-vietnam",
-        "aftermarket-horns-motorbikes"
-      ]
-    },
-    {
-      "article": "armoured-hoodies-casual-riding-wear",
-      "had": 0,
-      "sources": [
-        "body-armour-motorbike-riders",
-        "riding-gear-budget-priority-vietnam"
-      ]
-    },
-    {
-      "article": "automatic-chain-oilers",
-      "had": 0,
-      "sources": [
-        "aftermarket-led-headlight-bulbs",
-        "aftermarket-mirrors-motorbike-upgrade"
-      ]
-    },
-    {
-      "article": "b1-three-wheel-licence-vietnam",
-      "had": 1,
-      "sources": [
-        "minimum-age-ride-motorbike-vietnam"
-      ]
-    },
-    {
-      "article": "ba-vi-national-park-day-trip-motorbike",
-      "had": 1,
-      "sources": [
-        "tam-dao-day-trip-motorbike"
-      ]
-    },
-    {
-      "article": "bac-ninh-craft-loop-motorbike-ride",
-      "had": 0,
-      "sources": [
-        "co-loa-citadel-motorbike-ride",
-        "ba-vi-national-park-day-trip-motorbike"
-      ]
-    },
-    {
-      "article": "bac-tu-liem-area-guide-riders",
-      "had": 1,
-      "sources": [
-        "choosing-hanoi-neighbourhood-motorbike-access"
-      ]
-    },
-    {
-      "article": "bar-end-weights-vibration",
-      "had": 0,
-      "sources": [
-        "handlebar-grips-choosing-motorbike",
-        "adjustable-levers-motorbikes"
-      ]
-    },
-    {
-      "article": "base-layers-hot-humid-riding",
-      "had": 0,
-      "sources": [
-        "riding-jacket-vietnam-climate",
-        "armoured-hoodies-casual-riding-wear"
-      ]
-    },
-    {
-      "article": "best-scooters-long-distance-touring-vietnam",
-      "had": 1,
-      "sources": [
-        "scooters-with-smart-keys-vietnam-verified"
-      ]
-    },
-    {
-      "article": "best-scooters-rainy-season-commuting-vietnam",
-      "had": 0,
-      "sources": [
-        "110cc-vs-125cc-scooters",
-        "best-lightweight-scooters-beginners-vietnam"
-      ]
-    },
-    {
-      "article": "best-scooters-tall-riders-vietnam",
-      "had": 1,
-      "sources": [
-        "best-scooters-cargo-storage-vietnam"
-      ]
-    },
-    {
-      "article": "best-underbones-delivery-riders-verified",
-      "had": 0,
-      "sources": [
-        "best-honda-underbones-vietnam-verified",
-        "best-underbones-beginner-riders-verified"
-      ]
-    },
-    {
-      "article": "best-underbones-high-mileage-verified",
-      "had": 0,
-      "sources": [
-        "best-underbones-delivery-riders-verified",
-        "best-underbones-hanoi-commuting-verified"
-      ]
-    },
-    {
-      "article": "best-underbones-tall-riders-verified",
-      "had": 1,
-      "sources": [
-        "best-underbones-short-riders-verified"
-      ]
-    },
-    {
-      "article": "best-underbones-two-up-verified",
-      "had": 1,
-      "sources": [
-        "best-underbones-hanoi-commuting-verified"
-      ]
-    },
-    {
-      "article": "breakdowns-during-long-term-rental-hanoi",
-      "had": 1,
-      "sources": [
-        "rental-motorbike-care-long-term-hanoi"
-      ]
-    },
-    {
-      "article": "buying-new-underbone-dealer-guide-vietnam",
-      "had": 0,
-      "sources": [
-        "buying-used-sport-underbone-verified",
-        "learning-manual-on-rented-bike-hanoi"
-      ]
-    },
-    {
-      "article": "camping-gear-motorbike-trips",
-      "had": 0,
-      "sources": [
-        "throttle-assist-long-rides",
-        "backpack-vs-saddlebags-motorbike"
+        "hanoi-2025-administrative-restructuring-riders"
       ]
     },
     {
       "article": "can-you-ride-electric-motorbike-with-car-licence-vietnam",
       "had": 1,
       "sources": [
-        "electric-motorbike-fines-vietnam"
+        "electric-motorbike-power-kw-licence-vietnam"
       ]
     },
     {
-      "article": "carrying-pillion-50cc-vietnam",
+      "article": "delivery-rider-accessory-setup",
       "had": 0,
       "sources": [
-        "50cc-hills-bridges-hanoi",
-        "50cc-summer-heat-riding-hanoi"
+        "throttle-assist-long-rides",
+        "phone-mounts-motorbike-vietnam"
       ]
     },
     {
-      "article": "cat-ba-ha-long-motorbike-trip-ferry",
+      "article": "do-you-need-insurance-for-50cc-vietnam",
+      "had": 0,
+      "sources": [
+        "50cc-motorbike-myths-law-vietnam",
+        "50cc-training-high-school-vietnam"
+      ]
+    },
+    {
+      "article": "electric-motorbike-fines-vietnam",
       "had": 1,
       "sources": [
-        "ba-be-lake-motorbike-trip-hanoi"
+        "riding-electric-moped-16-vietnam"
       ]
     },
     {
-      "article": "cbr150r-city-riding-guide",
-      "had": 0,
-      "sources": [
-        "riding-six-speed-manual-winner-exciter",
-        "honda-blade-drum-vs-disc"
-      ]
-    },
-    {
-      "article": "ce-armour-certification-explained",
-      "had": 0,
-      "sources": [
-        "body-armour-motorbike-riders",
-        "riding-gear-budget-priority-vietnam"
-      ]
-    },
-    {
-      "article": "charging-electric-motorbike-work-university",
+      "article": "group-riding-motorbike-vietnam",
       "had": 1,
       "sources": [
-        "charging-electric-motorbike-at-home-vietnam"
-      ]
-    },
-    {
-      "article": "cheapest-electric-motorbikes-vietnam-list-prices",
-      "had": 1,
-      "sources": [
-        "buying-first-electric-motorbike-vietnam"
-      ]
-    },
-    {
-      "article": "cleaning-waterproof-riding-gear",
-      "had": 0,
-      "sources": [
-        "riding-jacket-vietnam-climate",
-        "base-layers-hot-humid-riding"
-      ]
-    },
-    {
-      "article": "clutch-lever-adjustment-underbones",
-      "had": 1,
-      "sources": [
-        "cold-start-underbone-choke-warmup"
-      ]
-    },
-    {
-      "article": "coasting-neutral-dangers-manual-motorbike",
-      "had": 1,
-      "sources": [
-        "finding-neutral-manual-motorbike"
-      ]
-    },
-    {
-      "article": "cold-start-underbone-choke-warmup",
-      "had": 1,
-      "sources": [
-        "clutch-lever-adjustment-underbones"
-      ]
-    },
-    {
-      "article": "da-nang-hoi-an-central-coast-motorbike",
-      "had": 1,
-      "sources": [
-        "cao-bang-ban-gioc-motorbike-trip"
-      ]
-    },
-    {
-      "article": "dat-bike-weaver-200-vs-vinfast-feliz-2",
-      "had": 0,
-      "sources": [
-        "dat-bike-weaver-vs-weaver-200",
-        "electric-motorbike-delivery-riders-vietnam"
-      ]
-    },
-    {
-      "article": "do-electric-motorbikes-need-insurance-vietnam",
-      "had": 1,
-      "sources": [
-        "can-foreigners-rent-electric-bike-vietnam"
-      ]
-    },
-    {
-      "article": "duong-lam-ancient-village-motorbike-ride",
-      "had": 0,
-      "sources": [
-        "bac-ninh-craft-loop-motorbike-ride",
-        "dai-lai-lake-motorbike-loop"
-      ]
-    },
-    {
-      "article": "e-bikes-with-kids-vietnam",
-      "had": 1,
-      "sources": [
-        "charging-safety-home-electric-bike"
-      ]
-    },
-    {
-      "article": "earplugs-motorbike-wind-noise",
-      "had": 0,
-      "sources": [
-        "ce-armour-certification-explained",
-        "cleaning-waterproof-riding-gear"
-      ]
-    },
-    {
-      "article": "electric-bike-law-myths-vietnam",
-      "had": 0,
-      "sources": [
-        "e-bike-helmet-rules-vietnam",
-        "why-electric-mopeds-capped-50kmh-vietnam"
-      ]
-    },
-    {
-      "article": "electric-motorbike-battery-chemistry-vietnam",
-      "had": 1,
-      "sources": [
-        "how-electric-motorbikes-work"
-      ]
-    },
-    {
-      "article": "electric-motorbike-brakes-maintenance",
-      "had": 1,
-      "sources": [
-        "electric-motorbike-tyre-checks"
-      ]
-    },
-    {
-      "article": "electric-motorbike-breakdown-what-to-do",
-      "had": 0,
-      "sources": [
-        "e-bikes-with-kids-vietnam",
-        "staying-visible-electric-motorbike"
-      ]
-    },
-    {
-      "article": "electric-motorbike-charger-care-storage",
-      "had": 0,
-      "sources": [
-        "storing-electric-motorbike-long-breaks",
-        "electric-motorbike-battery-health-check"
-      ]
-    },
-    {
-      "article": "electric-motorbike-delivery-riders-vietnam",
-      "had": 0,
-      "sources": [
-        "v-green-battery-swap-network-guide",
-        "dat-bike-weaver-200-vs-vinfast-feliz-2"
-      ]
-    },
-    {
-      "article": "electric-motorbike-night-riding-hanoi",
-      "had": 0,
-      "sources": [
-        "electric-motorbike-commuting-hanoi",
-        "electric-motorbike-silent-riding-safety"
-      ]
-    },
-    {
-      "article": "electric-motorbike-older-riders-vietnam",
-      "had": 0,
-      "sources": [
-        "best-electric-moped-students-vietnam",
-        "electric-motorbike-theft-security-vietnam"
-      ]
-    },
-    {
-      "article": "electric-motorbike-parts-availability-vietnam",
-      "had": 0,
-      "sources": [
-        "electric-motorbike-warranty-service-vietnam",
-        "vinfast-battery-rental-vs-buying"
-      ]
-    },
-    {
-      "article": "electric-motorbike-resale-value-vietnam",
-      "had": 1,
-      "sources": [
-        "buying-used-electric-motorbike-vietnam"
-      ]
-    },
-    {
-      "article": "electric-motorbike-summer-heat-battery-care",
-      "had": 1,
-      "sources": [
-        "electric-motorbike-battery-lifespan-vietnam"
-      ]
-    },
-    {
-      "article": "electric-motorbike-winter-range-hanoi",
-      "had": 1,
-      "sources": [
-        "electric-motorbike-battery-lifespan-vietnam"
-      ]
-    },
-    {
-      "article": "engine-oil-drain-vs-overhaul-capacity-explained",
-      "had": 0,
-      "sources": [
-        "alloy-vs-spoked-wheels-motorbikes",
-        "125cc-vs-110cc-underbones"
-      ]
-    },
-    {
-      "article": "english-teachers-monthly-motorbike-hanoi",
-      "had": 0,
-      "sources": [
-        "commuting-by-motorbike-monthly-hanoi",
-        "delivery-pickup-monthly-rental-hanoi"
-      ]
-    },
-    {
-      "article": "euro-4-scooters-vietnam",
-      "had": 1,
-      "sources": [
-        "reading-scooter-spec-sheet"
-      ]
-    },
-    {
-      "article": "euro-emissions-underbones-vietnam",
-      "had": 0,
-      "sources": [
-        "honda-pgm-fi-explained",
-        "abs-on-underbones-vietnam-explained"
-      ]
-    },
-    {
-      "article": "expats-monthly-motorbike-hanoi",
-      "had": 1,
-      "sources": [
-        "insurance-for-long-term-renter-hanoi"
-      ]
-    },
-    {
-      "article": "families-monthly-motorbike-hanoi",
-      "had": 0,
-      "sources": [
-        "english-teachers-monthly-motorbike-hanoi",
-        "expats-monthly-motorbike-hanoi"
-      ]
-    },
-    {
-      "article": "final-drive-chain-belt-shaft-compared",
-      "had": 0,
-      "sources": [
-        "chain-maintenance-motorbike-vietnam",
-        "lubrication-points-motorbike-vietnam"
-      ]
-    },
-    {
-      "article": "finding-neutral-manual-motorbike",
-      "had": 1,
-      "sources": [
-        "how-to-ride-manual-clutch-motorbike-vietnam"
-      ]
-    },
-    {
-      "article": "first-ride-electric-motorbike-beginners",
-      "had": 0,
-      "sources": [
-        "staying-visible-electric-motorbike",
-        "electric-motorbike-breakdown-what-to-do"
-      ]
-    },
-    {
-      "article": "frame-sliders-engine-case-protection",
-      "had": 0,
-      "sources": [
-        "crash-bars-engine-guards-motorbike",
-        "skid-plates-underbody-protection"
-      ]
-    },
-    {
-      "article": "fuel-economy-test-cycles-explained",
-      "had": 1,
-      "sources": [
-        "alloy-vs-spoked-wheels-motorbikes"
-      ]
-    },
-    {
-      "article": "grab-rails-backrests-pillion-vietnam",
-      "had": 0,
-      "sources": [
-        "top-boxes-racks-motorbike-vietnam",
-        "cargo-nets-bungee-cords-motorbike"
-      ]
-    },
-    {
-      "article": "ha-dong-area-guide-riders",
-      "had": 1,
-      "sources": [
-        "hanoi-districts-layout-guide-riders"
+        "balancing-pillion-riding-motorbike-vietnam"
       ]
     },
     {
       "article": "hai-ba-trung-area-guide-riders",
       "had": 1,
       "sources": [
-        "choosing-hanoi-neighbourhood-motorbike-access"
+        "ba-dinh-area-guide-riders"
       ]
     },
     {
-      "article": "handguards-motorbike-vietnam",
-      "had": 0,
-      "sources": [
-        "aftermarket-suspension-upgrades",
-        "automatic-chain-oilers"
-      ]
-    },
-    {
-      "article": "hanoi-2025-administrative-restructuring-riders",
+      "article": "hanoi-guided-motorbike-tours-vs-self-riding",
       "had": 1,
       "sources": [
-        "hanoi-districts-layout-guide-riders"
+        "hanoi-markets-motorbike-shopping"
       ]
     },
     {
-      "article": "hanoi-markets-motorbike-shopping",
-      "had": 0,
-      "sources": [
-        "hanoi-street-food-motorbike-ride-guide",
-        "hanoi-guided-motorbike-tours-vs-self-riding"
-      ]
-    },
-    {
-      "article": "hanoi-motorbike-scams-riders-guide",
-      "had": 0,
-      "sources": [
-        "hanoi-markets-motorbike-shopping",
-        "hanoi-motorbike-photo-spots"
-      ]
-    },
-    {
-      "article": "hanoi-motorbike-shops-streets-guide",
-      "had": 0,
-      "sources": [
-        "hanoi-motorbike-scams-riders-guide",
-        "hanoi-motorbike-traffic-culture-first-timers"
-      ]
-    },
-    {
-      "article": "hanoi-university-areas-riding-guide",
+      "article": "hoan-kiem-walking-street-motorbike-visitors",
       "had": 1,
       "sources": [
-        "hanoi-motorbike-commute-corridors"
-      ]
-    },
-    {
-      "article": "heated-grips-hanoi-winter",
-      "had": 0,
-      "sources": [
-        "handlebar-grips-choosing-motorbike",
-        "bar-end-weights-vibration"
-      ]
-    },
-    {
-      "article": "helmet-fasteners-retention-systems",
-      "had": 0,
-      "sources": [
-        "full-face-vs-open-face-helmet-vietnam",
-        "helmet-care-replacing-guide-vietnam"
-      ]
-    },
-    {
-      "article": "helmet-sun-heat-damage-vietnam",
-      "had": 1,
-      "sources": [
-        "helmet-safety-standards-explained-vietnam"
-      ]
-    },
-    {
-      "article": "hi-vis-vests-motorbike-riders",
-      "had": 1,
-      "sources": [
-        "earplugs-motorbike-wind-noise"
-      ]
-    },
-    {
-      "article": "honda-air-blade-125-vs-honda-vario-125",
-      "had": 1,
-      "sources": [
-        "honda-vario-125-vs-honda-lead-125"
+        "hanoi-night-markets-motorbike-guide"
       ]
     },
     {
       "article": "honda-blade-drum-vs-disc",
       "had": 1,
       "sources": [
-        "cbr150r-city-riding-guide"
-      ]
-    },
-    {
-      "article": "honda-blade-vs-honda-cbr150r",
-      "had": 0,
-      "sources": [
-        "honda-cbr150r-vs-honda-winner-r",
-        "honda-blade-vs-yamaha-exciter-155"
-      ]
-    },
-    {
-      "article": "honda-blade-vs-honda-future-125",
-      "had": 1,
-      "sources": [
-        "honda-blade-vs-honda-wave-rsx"
-      ]
-    },
-    {
-      "article": "honda-blade-vs-honda-super-cub-c125",
-      "had": 0,
-      "sources": [
-        "honda-super-cub-vs-honda-winner-r",
-        "honda-wave-alpha-vs-honda-super-cub"
-      ]
-    },
-    {
-      "article": "honda-blade-vs-honda-winner-r",
-      "had": 0,
-      "sources": [
-        "honda-blade-vs-yamaha-sirius",
-        "honda-ct125-vs-honda-super-cub-c125"
-      ]
-    },
-    {
-      "article": "honda-blade-vs-yamaha-exciter-155",
-      "had": 1,
-      "sources": [
-        "honda-wave-alpha-vs-honda-winner-r"
-      ]
-    },
-    {
-      "article": "honda-cbr150r-vs-honda-ct125",
-      "had": 0,
-      "sources": [
-        "honda-cbr150r-vs-honda-winner-r",
-        "honda-ct125-vs-honda-super-cub-c125"
-      ]
-    },
-    {
-      "article": "honda-cbr150r-vs-honda-future-125",
-      "had": 0,
-      "sources": [
-        "honda-future-125-vs-honda-winner-r",
-        "honda-cbr150r-vs-honda-winner-r"
-      ]
-    },
-    {
-      "article": "honda-cbr150r-vs-honda-super-cub",
-      "had": 0,
-      "sources": [
-        "honda-super-cub-vs-honda-winner-r",
-        "honda-cbr150r-vs-honda-winner-r"
-      ]
-    },
-    {
-      "article": "honda-cbr150r-vs-yamaha-exciter-155",
-      "had": 0,
-      "sources": [
-        "honda-winner-r-vs-yamaha-exciter-155",
-        "honda-blade-vs-honda-winner-r"
+        "riding-honda-wave-alpha-110-guide"
       ]
     },
     {
       "article": "honda-ct125-touring-setup-guide",
       "had": 1,
       "sources": [
-        "yamaha-pg-1-vs-honda-ct125"
-      ]
-    },
-    {
-      "article": "honda-ct125-vs-yamaha-exciter-155",
-      "had": 1,
-      "sources": [
-        "honda-ct125-vs-honda-winner-r"
-      ]
-    },
-    {
-      "article": "honda-future-125-vs-yamaha-exciter-155",
-      "had": 0,
-      "sources": [
-        "yamaha-sirius-vs-yamaha-exciter-155",
-        "honda-future-125-vs-honda-winner-r"
-      ]
-    },
-    {
-      "article": "honda-future-125-vs-yamaha-sirius",
-      "had": 1,
-      "sources": [
-        "honda-super-cub-c125-vs-honda-future-125"
-      ]
-    },
-    {
-      "article": "honda-lead-125-vs-honda-vario-160",
-      "had": 1,
-      "sources": [
-        "honda-air-blade-160-vs-honda-lead-125"
-      ]
-    },
-    {
-      "article": "honda-sh-mode-125-vs-honda-air-blade-160",
-      "had": 0,
-      "sources": [
-        "honda-sh-mode-125-vs-honda-sh-160",
-        "honda-vario-125-vs-yamaha-latte-125"
-      ]
-    },
-    {
-      "article": "honda-sh-mode-125-vs-honda-lead-125",
-      "had": 1,
-      "sources": [
-        "honda-sh-mode-125-vs-honda-sh-160"
-      ]
-    },
-    {
-      "article": "honda-super-cub-vs-yamaha-exciter-155",
-      "had": 0,
-      "sources": [
-        "honda-ct125-vs-yamaha-exciter-155",
-        "honda-super-cub-vs-honda-winner-r"
-      ]
-    },
-    {
-      "article": "honda-super-cub-vs-yamaha-sirius",
-      "had": 0,
-      "sources": [
-        "honda-ct125-vs-yamaha-sirius",
-        "honda-wave-alpha-vs-honda-super-cub"
-      ]
-    },
-    {
-      "article": "honda-vario-160-vs-honda-air-blade-160",
-      "had": 0,
-      "sources": [
-        "honda-vario-160-vs-yamaha-nvx-155",
-        "honda-sh-mode-125-vs-honda-air-blade-160"
-      ]
-    },
-    {
-      "article": "honda-vision-vs-honda-lead-125",
-      "had": 1,
-      "sources": [
-        "honda-vision-vs-honda-air-blade"
-      ]
-    },
-    {
-      "article": "honda-vision-vs-yamaha-freego-125",
-      "had": 0,
-      "sources": [
-        "honda-vision-vs-yamaha-janus",
-        "honda-vs-yamaha-scooters-vietnam"
-      ]
-    },
-    {
-      "article": "honda-wave-alpha-vs-honda-cbr150r",
-      "had": 0,
-      "sources": [
-        "honda-future-125-vs-yamaha-sirius",
-        "honda-wave-alpha-vs-honda-blade"
-      ]
-    },
-    {
-      "article": "honda-wave-alpha-vs-honda-ct125",
-      "had": 0,
-      "sources": [
-        "honda-blade-vs-honda-ct125",
-        "honda-future-125-vs-honda-ct125"
-      ]
-    },
-    {
-      "article": "honda-wave-alpha-vs-yamaha-exciter-155",
-      "had": 0,
-      "sources": [
-        "honda-wave-alpha-vs-honda-winner-r",
-        "yamaha-sirius-vs-yamaha-exciter-155"
-      ]
-    },
-    {
-      "article": "honda-wave-rsx-vs-honda-ct125",
-      "had": 0,
-      "sources": [
-        "honda-blade-vs-honda-ct125",
-        "honda-ct125-vs-honda-super-cub-c125"
-      ]
-    },
-    {
-      "article": "honda-wave-rsx-vs-honda-super-cub",
-      "had": 1,
-      "sources": [
-        "honda-super-cub-c125-vs-honda-future-125"
-      ]
-    },
-    {
-      "article": "honda-wave-rsx-vs-honda-winner-r",
-      "had": 0,
-      "sources": [
-        "honda-future-125-vs-honda-winner-r",
-        "honda-wave-alpha-vs-honda-winner-r"
-      ]
-    },
-    {
-      "article": "honda-wave-rsx-vs-yamaha-exciter-155",
-      "had": 0,
-      "sources": [
-        "honda-winner-r-vs-yamaha-exciter-155",
-        "honda-wave-alpha-vs-honda-cbr150r"
-      ]
-    },
-    {
-      "article": "honda-winner-r-vs-yamaha-sirius",
-      "had": 0,
-      "sources": [
-        "honda-winner-r-vs-yamaha-exciter-155",
-        "honda-wave-alpha-vs-yamaha-sirius"
-      ]
-    },
-    {
-      "article": "hue-motorbike-trip-hanoi",
-      "had": 1,
-      "sources": [
-        "phong-nha-motorbike-trip-hanoi"
+        "riding-honda-super-cub-c125-vietnam"
       ]
     },
     {
       "article": "hung-kings-temple-phu-tho-motorbike-trip",
       "had": 1,
       "sources": [
-        "duong-lam-ancient-village-motorbike-ride"
+        "nui-coc-lake-thai-nguyen-motorbike-ride"
       ]
     },
     {
-      "article": "ignition-switch-problems-motorbike",
-      "had": 0,
-      "sources": [
-        "electric-start-starter-motor-problems",
-        "dead-battery-motorbike-vietnam"
-      ]
-    },
-    {
-      "article": "kick-start-technique-underbone",
-      "had": 0,
-      "sources": [
-        "push-start-motorbike-safely",
-        "cold-start-underbone-choke-warmup"
-      ]
-    },
-    {
-      "article": "kickstand-extensions-soft-ground",
-      "had": 0,
-      "sources": [
-        "stands-side-vs-centre-paddock",
-        "battery-trickle-chargers-storage"
-      ]
-    },
-    {
-      "article": "lang-son-motorbike-trip-hanoi",
+      "article": "kids-helmets-choosing-vietnam",
       "had": 1,
       "sources": [
-        "cat-ba-ha-long-motorbike-trip-ferry"
+        "second-helmet-passengers-vietnam"
       ]
     },
     {
-      "article": "leaving-accident-scene-vietnam",
+      "article": "learning-to-ride-monthly-rental-hanoi",
       "had": 1,
       "sources": [
-        "motorbike-accident-duties-vietnam"
-      ]
-    },
-    {
-      "article": "led-vs-halogen-scooter-headlights",
-      "had": 0,
-      "sources": [
-        "esp-vs-blue-core-engines-explained",
-        "honda-esaf-frame-explained"
-      ]
-    },
-    {
-      "article": "long-distance-electric-motorbike-touring-vietnam",
-      "had": 1,
-      "sources": [
-        "vietnam-electric-two-wheeler-market-overview"
-      ]
-    },
-    {
-      "article": "lost-motorbike-licence-replacement-vietnam",
-      "had": 1,
-      "sources": [
-        "how-to-get-a1-licence-vietnam"
-      ]
-    },
-    {
-      "article": "maintenance-log-monthly-rental-motorbike",
-      "had": 0,
-      "sources": [
-        "talking-to-mechanic-vietnam",
-        "buying-motorbike-parts-online-vietnam"
-      ]
-    },
-    {
-      "article": "manual-motorbike-u-turn-technique",
-      "had": 1,
-      "sources": [
-        "clutch-technique-stop-and-go-traffic"
-      ]
-    },
-    {
-      "article": "manual-underbone-ownership-costs-hanoi",
-      "had": 0,
-      "sources": [
-        "buying-new-underbone-dealer-guide-vietnam",
-        "monthly-renting-manual-clutch-hanoi"
-      ]
-    },
-    {
-      "article": "modular-flip-up-helmets-vietnam",
-      "had": 0,
-      "sources": [
-        "visor-care-anti-fog-motorbike",
-        "full-face-vs-open-face-helmet-vietnam"
-      ]
-    },
-    {
-      "article": "monthly-rental-through-tet-hanoi",
-      "had": 1,
-      "sources": [
-        "families-monthly-motorbike-hanoi"
+        "students-semester-motorbike-rental-hanoi"
       ]
     },
     {
       "article": "monthly-rental-vs-ride-hailing-hanoi",
       "had": 1,
       "sources": [
-        "automatic-or-semi-automatic-monthly-hanoi"
+        "choosing-motorbike-monthly-rental-hanoi"
       ]
     },
     {
-      "article": "monthly-renting-manual-clutch-hanoi",
+      "article": "motorbike-delivery-long-bien",
       "had": 1,
       "sources": [
-        "learning-manual-on-rented-bike-hanoi"
+        "renting-motorbike-dong-da"
       ]
     },
     {
-      "article": "motorbike-bus-lanes-vietnam",
-      "had": 1,
-      "sources": [
-        "lane-splitting-legal-vietnam"
-      ]
-    },
-    {
-      "article": "motorbike-delivery-old-quarter",
-      "had": 1,
-      "sources": [
-        "renting-motorbike-old-quarter"
-      ]
-    },
-    {
-      "article": "motorbike-engine-codes-explained",
+      "article": "rental-motorbike-fuel-what-petrol",
       "had": 0,
       "sources": [
-        "underbone-power-torque-explained",
-        "yamaha-vva-variable-valve-timing-explained"
-      ]
-    },
-    {
-      "article": "motorbike-learner-permit-vietnam",
-      "had": 0,
-      "sources": [
-        "minimum-age-ride-motorbike-vietnam",
-        "vietnam-a1-licence-test"
-      ]
-    },
-    {
-      "article": "motorbike-rental-digital-nomads-hanoi",
-      "had": 0,
-      "sources": [
-        "motorbike-rental-english-teachers-hanoi",
-        "motorbike-rental-expats-moving-hanoi"
-      ]
-    },
-    {
-      "article": "motorbike-rental-english-teachers-hanoi",
-      "had": 0,
-      "sources": [
-        "motorbike-rental-digital-nomads-hanoi",
-        "motorbike-rental-female-riders-hanoi"
-      ]
-    },
-    {
-      "article": "motorbike-rental-expats-moving-hanoi",
-      "had": 0,
-      "sources": [
-        "motorbike-rental-international-students-hanoi",
-        "motorbike-rental-tourists-hanoi-essentials"
-      ]
-    },
-    {
-      "article": "motorbike-rental-female-riders-hanoi",
-      "had": 0,
-      "sources": [
-        "renting-motorbike-couple-hanoi",
-        "renting-motorbike-hanoi-complete-beginner"
-      ]
-    },
-    {
-      "article": "motorbike-rental-international-students-hanoi",
-      "had": 0,
-      "sources": [
-        "renting-motorbike-hanoi-one-day",
-        "renting-motorbike-hanoi-winter"
-      ]
-    },
-    {
-      "article": "motorbike-rental-tourists-hanoi-essentials",
-      "had": 0,
-      "sources": [
-        "renting-motorbike-six-months-hanoi",
-        "switching-bikes-mid-rental-hanoi"
-      ]
-    },
-    {
-      "article": "motorbike-vs-domestic-flights-vietnam",
-      "had": 1,
-      "sources": [
-        "motorbike-vs-train-vietnam-long-distance"
-      ]
-    },
-    {
-      "article": "motorbike-wont-start-after-washing",
-      "had": 1,
-      "sources": [
-        "check-motorbike-after-heavy-rain"
-      ]
-    },
-    {
-      "article": "mudguard-extenders-rain-spray",
-      "had": 0,
-      "sources": [
-        "footpeg-upgrades-tall-riders",
-        "frame-sliders-engine-case-protection"
-      ]
-    },
-    {
-      "article": "nam-tu-liem-area-guide-riders",
-      "had": 1,
-      "sources": [
-        "exploring-cau-giay-by-motorbike"
-      ]
-    },
-    {
-      "article": "neck-gaiters-dust-masks-riders",
-      "had": 0,
-      "sources": [
-        "riding-jacket-vietnam-climate",
-        "hi-vis-vests-motorbike-riders"
-      ]
-    },
-    {
-      "article": "nomads-monthly-motorbike-hanoi",
-      "had": 1,
-      "sources": [
-        "moving-address-during-rental-hanoi"
-      ]
-    },
-    {
-      "article": "non-1968-licence-vietnam",
-      "had": 1,
-      "sources": [
-        "idp-vietnam-motorbike-rules"
-      ]
-    },
-    {
-      "article": "nui-coc-lake-thai-nguyen-motorbike-ride",
-      "had": 0,
-      "sources": [
-        "dai-lai-lake-motorbike-loop",
-        "hung-kings-temple-phu-tho-motorbike-trip"
-      ]
-    },
-    {
-      "article": "offroad-riding-gear-basics",
-      "had": 1,
-      "sources": [
-        "body-armour-motorbike-riders"
-      ]
-    },
-    {
-      "article": "oil-leaks-motorbike-finding-fixing",
-      "had": 1,
-      "sources": [
-        "battery-draining-overnight-motorbike"
-      ]
-    },
-    {
-      "article": "perfume-pagoda-motorbike-trip",
-      "had": 1,
-      "sources": [
-        "thay-pagoda-tay-phuong-pagoda-motorbike-route"
-      ]
-    },
-    {
-      "article": "pet-carriers-motorbikes-vietnam",
-      "had": 0,
-      "sources": [
-        "front-baskets-scooters-vietnam",
-        "cargo-nets-bungee-cords-motorbike"
-      ]
-    },
-    {
-      "article": "pillion-passenger-gear-checklist",
-      "had": 0,
-      "sources": [
-        "neck-gaiters-dust-masks-riders",
-        "offroad-riding-gear-basics"
-      ]
-    },
-    {
-      "article": "portable-jump-starter-packs-motorbikes",
-      "had": 0,
-      "sources": [
-        "battery-trickle-chargers-storage",
-        "handguards-motorbike-vietnam"
-      ]
-    },
-    {
-      "article": "power-to-weight-ratio-explained",
-      "had": 0,
-      "sources": [
-        "underbone-kerb-weights-explained",
-        "wet-vs-dry-weight-explained"
-      ]
-    },
-    {
-      "article": "prescription-glasses-under-helmet",
-      "had": 0,
-      "sources": [
-        "helmet-visor-tinted-photochromic",
-        "visor-care-anti-fog-motorbike"
-      ]
-    },
-    {
-      "article": "push-start-motorbike-safely",
-      "had": 1,
-      "sources": [
-        "how-to-shift-gears-semi-automatic-underbone"
-      ]
-    },
-    {
-      "article": "quan-son-lake-motorbike-ride",
-      "had": 0,
-      "sources": [
-        "perfume-pagoda-motorbike-trip",
-        "nui-coc-lake-thai-nguyen-motorbike-ride"
-      ]
-    },
-    {
-      "article": "radiator-guards-liquid-cooled",
-      "had": 0,
-      "sources": [
-        "skid-plates-underbody-protection",
-        "handlebar-raisers-riding-ergonomics"
-      ]
-    },
-    {
-      "article": "rear-brake-locking-motorbike",
-      "had": 0,
-      "sources": [
-        "sticking-brakes-caliper-cleaning",
-        "brake-light-indicator-repair-motorbike"
-      ]
-    },
-    {
-      "article": "registering-electric-motorbike-vietnam",
-      "had": 0,
-      "sources": [
-        "do-electric-motorbikes-need-insurance-vietnam",
-        "electric-bike-law-myths-vietnam"
-      ]
-    },
-    {
-      "article": "renting-motorbike-ba-dinh",
-      "had": 1,
-      "sources": [
-        "motorbike-delivery-long-bien"
-      ]
-    },
-    {
-      "article": "renting-motorbike-cau-giay",
-      "had": 1,
-      "sources": [
-        "motorbike-delivery-old-quarter"
-      ]
-    },
-    {
-      "article": "renting-motorbike-couple-hanoi",
-      "had": 0,
-      "sources": [
-        "motorbike-rental-digital-nomads-hanoi",
-        "motorbike-rental-english-teachers-hanoi"
-      ]
-    },
-    {
-      "article": "renting-motorbike-da-lat",
-      "had": 0,
-      "sources": [
-        "renting-motorbike-da-nang",
-        "renting-motorbike-ho-chi-minh-city"
-      ]
-    },
-    {
-      "article": "renting-motorbike-dong-da",
-      "had": 1,
-      "sources": [
-        "motorbike-delivery-long-bien"
-      ]
-    },
-    {
-      "article": "renting-motorbike-hai-ba-trung",
-      "had": 1,
-      "sources": [
-        "motorbike-delivery-old-quarter"
+        "riding-rental-motorbike-hanoi-rain",
+        "do-you-need-insurance-to-ride-vietnam"
       ]
     },
     {
       "article": "renting-motorbike-hanoi-complete-beginner",
       "had": 1,
       "sources": [
-        "motorbike-rental-expats-moving-hanoi"
-      ]
-    },
-    {
-      "article": "renting-motorbike-nha-trang",
-      "had": 0,
-      "sources": [
-        "renting-motorbike-da-lat",
-        "renting-motorbike-hue"
-      ]
-    },
-    {
-      "article": "renting-motorbike-noi-bai-arrival",
-      "had": 1,
-      "sources": [
         "motorbike-rental-female-riders-hanoi"
       ]
     },
     {
-      "article": "renting-motorbike-phu-quoc",
-      "had": 0,
+      "article": "renting-motorbike-hanoi-tet-holidays",
+      "had": 1,
       "sources": [
-        "renting-motorbike-nha-trang",
-        "renting-motorbike-da-lat"
+        "motorbike-rental-agreement-hanoi"
       ]
     },
     {
-      "article": "renting-motorbike-thanh-xuan",
+      "article": "renting-motorbike-hoan-kiem",
       "had": 1,
       "sources": [
-        "renting-motorbike-ba-dinh"
+        "renting-motorbike-old-quarter"
       ]
     },
     {
       "article": "ride-125cc-with-car-licence-vietnam",
       "had": 1,
       "sources": [
-        "vietnam-motorbike-licence-classes-explained"
-      ]
-    },
-    {
-      "article": "riding-during-tet-traffic-safety",
-      "had": 1,
-      "sources": [
-        "after-rain-slippery-roads-motorbike"
-      ]
-    },
-    {
-      "article": "riding-electric-motorbike-flooded-streets",
-      "had": 1,
-      "sources": [
-        "riding-electric-motorbike-hanoi-rain"
-      ]
-    },
-    {
-      "article": "riding-electric-motorbike-hills-bridges-hanoi",
-      "had": 0,
-      "sources": [
-        "electric-motorbike-range-real-world-vietnam",
-        "regen-braking-explained-electric"
-      ]
-    },
-    {
-      "article": "riding-electric-motorbike-with-passenger",
-      "had": 1,
-      "sources": [
-        "electric-motorbike-range-real-world-vietnam"
-      ]
-    },
-    {
-      "article": "riding-gear-sizing-fit-foreign-riders",
-      "had": 0,
-      "sources": [
-        "riding-gear-budget-priority-vietnam",
-        "body-armour-motorbike-riders"
-      ]
-    },
-    {
-      "article": "riding-honda-super-cub-c125-vietnam",
-      "had": 0,
-      "sources": [
-        "honda-future-125-riding-guide",
-        "honda-ct125-touring-setup-guide"
+        "how-to-get-a1-licence-vietnam"
       ]
     },
     {
       "article": "riding-honda-wave-alpha-110-guide",
       "had": 1,
       "sources": [
-        "honda-wave-rsx-commuting-guide"
+        "sport-underbone-touring-vietnam"
       ]
     },
     {
-      "article": "riding-semi-auto-gravel-roads",
+      "article": "riding-motorbike-noi-bai-airport-hanoi",
       "had": 1,
       "sources": [
-        "smoothing-semi-auto-launch-jerk"
-      ]
-    },
-    {
-      "article": "riding-trousers-lower-body-protection",
-      "had": 0,
-      "sources": [
-        "riding-gear-budget-priority-vietnam",
-        "riding-jacket-vietnam-climate"
-      ]
-    },
-    {
-      "article": "riding-while-suspended-vietnam",
-      "had": 1,
-      "sources": [
-        "no-licence-fine-vietnam"
+        "hanoi-ceramic-mosaic-road-motorbike-route"
       ]
     },
     {
       "article": "road-rage-aggressive-drivers-vietnam",
       "had": 1,
       "sources": [
-        "motorbike-accident-first-aid-vietnam"
+        "dashcams-motorbike-riding-vietnam"
       ]
     },
     {
-      "article": "road-works-riding-motorbike-vietnam",
+      "article": "scooter-fuel-economy-figures-explained",
       "had": 1,
       "sources": [
-        "gravel-roads-motorbike-vietnam"
-      ]
-    },
-    {
-      "article": "scooter-cbs-ubs-combined-braking-explained",
-      "had": 0,
-      "sources": [
-        "tcs-vs-abs-scooters-vietnam",
-        "which-scooters-have-abs-vietnam"
-      ]
-    },
-    {
-      "article": "scooter-displacement-numbers-explained",
-      "had": 0,
-      "sources": [
-        "scooter-power-torque-explained",
-        "reading-scooter-spec-sheet"
+        "scooter-fuel-economy-comparison-vietnam"
       ]
     },
     {
       "article": "scooter-ground-clearance-compared-vietnam",
       "had": 1,
       "sources": [
-        "honda-hstc-traction-control-scooters"
+        "euro-4-scooters-vietnam"
       ]
     },
     {
-      "article": "scooter-to-manual-clutch-transition",
+      "article": "self-drive-vs-easy-rider-vietnam",
       "had": 1,
       "sources": [
-        "first-hour-manual-clutch-practice-checklist"
+        "motorbike-travel-insurance-vietnam"
       ]
     },
     {
-      "article": "scooter-trim-versions-explained",
-      "had": 0,
-      "sources": [
-        "new-scooter-prices-vietnam-verified",
-        "scooter-tft-vs-lcd-displays"
-      ]
-    },
-    {
-      "article": "scooter-valve-counts-explained",
+      "article": "semi-auto-to-manual-clutch-upgrade",
       "had": 1,
       "sources": [
-        "esp-vs-blue-core-engines-explained"
-      ]
-    },
-    {
-      "article": "scooter-warranty-vietnam-explained",
-      "had": 0,
-      "sources": [
-        "scooter-kerb-weights-vietnam-verified",
-        "scooter-wheelbase-stability-explained"
-      ]
-    },
-    {
-      "article": "scooter-windscreens-vietnam",
-      "had": 0,
-      "sources": [
-        "heated-grips-hanoi-winter",
-        "kickstand-extensions-soft-ground"
-      ]
-    },
-    {
-      "article": "scooters-under-40-million-vietnam",
-      "had": 1,
-      "sources": [
-        "buying-first-scooter-vietnam-guide"
-      ]
-    },
-    {
-      "article": "second-hand-riding-gear-risks",
-      "had": 0,
-      "sources": [
-        "riding-gear-budget-priority-vietnam",
-        "pillion-passenger-gear-checklist"
-      ]
-    },
-    {
-      "article": "security-marking-kits-motorbike",
-      "had": 0,
-      "sources": [
-        "disc-locks-chains-motorbike-security",
-        "gps-trackers-motorbikes-vietnam"
-      ]
-    },
-    {
-      "article": "semi-auto-carrying-cargo",
-      "had": 0,
-      "sources": [
-        "when-to-shift-gears-underbone",
-        "semi-auto-two-up-riding-technique"
-      ]
-    },
-    {
-      "article": "semi-auto-descending-hills-technique",
-      "had": 1,
-      "sources": [
-        "when-to-shift-gears-underbone"
-      ]
-    },
-    {
-      "article": "single-cylinder-underbone-engines-explained",
-      "had": 1,
-      "sources": [
-        "sohc-vs-dohc-underbones-explained"
+        "coasting-neutral-dangers-manual-motorbike"
       ]
     },
     {
       "article": "small-vs-big-scooter-wheels",
       "had": 1,
       "sources": [
-        "16-inch-wheel-scooters-vietnam"
+        "scooter-tyre-sizes-explained"
       ]
     },
     {
-      "article": "soc-temple-soc-son-motorbike-ride",
-      "had": 0,
-      "sources": [
-        "co-loa-citadel-motorbike-ride",
-        "dai-lai-lake-motorbike-loop"
-      ]
-    },
-    {
-      "article": "sohc-vs-dohc-underbones-explained",
+      "article": "tam-dao-vs-ba-vi-day-trip",
       "had": 1,
       "sources": [
-        "assist-slipper-clutch-explained"
+        "ba-vi-national-park-day-trip-motorbike"
       ]
     },
     {
-      "article": "speedometer-not-working-motorbike",
+      "article": "tet-holiday-motorbike-travel-vietnam",
       "had": 0,
       "sources": [
-        "motorbike-warning-lights-meaning",
-        "brake-squeal-grinding-motorbike"
+        "vietnam-monsoon-season-motorbike-travel",
+        "hai-van-pass-motorbike-guide"
       ]
     },
     {
-      "article": "spoke-wheels-care-truing-vietnam",
-      "had": 0,
-      "sources": [
-        "choosing-replacement-tyres-motorbike-vietnam",
-        "changing-engine-oil-at-home-vietnam"
-      ]
-    },
-    {
-      "article": "sport-underbone-touring-vietnam",
+      "article": "thay-pagoda-tay-phuong-pagoda-motorbike-route",
       "had": 1,
       "sources": [
-        "riding-honda-super-cub-c125-vietnam"
-      ]
-    },
-    {
-      "article": "stop-and-start-scooters-explained",
-      "had": 0,
-      "sources": [
-        "esp-vs-blue-core-engines-explained",
-        "yamaha-vva-explained"
-      ]
-    },
-    {
-      "article": "storms-when-to-stop-riding-motorbike",
-      "had": 1,
-      "sources": [
-        "riding-motorbike-heavy-rain-vietnam"
-      ]
-    },
-    {
-      "article": "students-semester-motorbike-rental-hanoi",
-      "had": 0,
-      "sources": [
-        "learning-to-ride-monthly-rental-hanoi",
-        "long-term-rider-licence-checklist-hanoi"
-      ]
-    },
-    {
-      "article": "tail-bags-roll-bags-motorbike",
-      "had": 0,
-      "sources": [
-        "dry-bags-waterproof-luggage-riders",
-        "top-boxes-racks-motorbike-vietnam"
-      ]
-    },
-    {
-      "article": "tank-bags-motorbikes-uses",
-      "had": 0,
-      "sources": [
-        "phone-mounts-motorbike-vietnam",
-        "backpack-vs-saddlebags-motorbike"
-      ]
-    },
-    {
-      "article": "tank-pads-scooters",
-      "had": 0,
-      "sources": [
-        "paint-protection-ceramic-coatings",
-        "installing-accessories-diy-vs-shop"
-      ]
-    },
-    {
-      "article": "throttle-assist-long-rides",
-      "had": 0,
-      "sources": [
-        "delivery-rider-accessory-setup",
-        "gel-seat-pads-comfort-long-rides"
-      ]
-    },
-    {
-      "article": "thung-nai-hoa-binh-lake-motorbike-day-trip",
-      "had": 1,
-      "sources": [
-        "quan-son-lake-motorbike-ride"
-      ]
-    },
-    {
-      "article": "touring-semi-auto-underbone",
-      "had": 0,
-      "sources": [
-        "fuel-efficient-riding-habits-underbone",
-        "when-to-shift-gears-underbone"
+        "soc-temple-soc-son-motorbike-ride"
       ]
     },
     {
       "article": "two-up-clutch-technique-manual-motorbike",
       "had": 1,
       "sources": [
-        "how-to-launch-manual-bike-without-stalling"
+        "clutch-technique-stop-and-go-traffic"
       ]
     },
     {
-      "article": "tyre-pressure-monitoring-systems-motorbikes",
-      "had": 0,
-      "sources": [
-        "portable-tyre-inflators-motorbike",
-        "mudguard-extenders-rain-spray"
-      ]
-    },
-    {
-      "article": "underage-riding-penalties-vietnam",
-      "had": 0,
-      "sources": [
-        "lending-motorbike-unlicensed-rider-vietnam",
-        "motorbike-fines-vietnam-overview"
-      ]
-    },
-    {
-      "article": "underbone-frame-design-explained",
+      "article": "vietnam-road-signs-guide",
       "had": 1,
       "sources": [
-        "underbone-kerb-weights-explained"
-      ]
-    },
-    {
-      "article": "underbone-fuel-economy-figures-explained",
-      "had": 1,
-      "sources": [
-        "engine-oil-drain-vs-overhaul-capacity-explained"
-      ]
-    },
-    {
-      "article": "underbone-fuel-tank-range-explained",
-      "had": 1,
-      "sources": [
-        "euro-emissions-underbones-vietnam"
-      ]
-    },
-    {
-      "article": "underbone-model-years-explained",
-      "had": 0,
-      "sources": [
-        "underbone-trim-versions-explained",
-        "fuel-economy-test-cycles-explained"
-      ]
-    },
-    {
-      "article": "underbone-storage-options-explained",
-      "had": 0,
-      "sources": [
-        "how-to-read-motorbike-spec-sheet-vietnam",
-        "kick-vs-electric-start-explained"
-      ]
-    },
-    {
-      "article": "underbone-tyre-sizes-explained",
-      "had": 1,
-      "sources": [
-        "list-price-vs-on-road-cost-vietnam"
-      ]
-    },
-    {
-      "article": "variator-roller-upgrades-scooter",
-      "had": 0,
-      "sources": [
-        "portable-jump-starter-packs-motorbikes",
-        "radiator-guards-liquid-cooled"
-      ]
-    },
-    {
-      "article": "vietnam-electric-two-wheeler-market-overview",
-      "had": 1,
-      "sources": [
-        "long-distance-electric-motorbike-touring-vietnam"
-      ]
-    },
-    {
-      "article": "vietnam-motorbike-backpacker-trail",
-      "had": 0,
-      "sources": [
-        "hanoi-to-ho-chi-minh-city-by-motorbike",
-        "vietnam-monsoon-season-motorbike-travel"
+        "highway-1-vietnam-motorbike-riding"
       ]
     },
     {
       "article": "vietnam-traffic-culture-riding-overview",
       "had": 1,
       "sources": [
-        "ho-chi-minh-city-riding-first-timers"
-      ]
-    },
-    {
-      "article": "vinfast-evo-vs-feliz-2",
-      "had": 1,
-      "sources": [
-        "dat-bike-weaver-200-vs-weaver-plus-plus"
-      ]
-    },
-    {
-      "article": "vinfast-viper-vs-evo",
-      "had": 1,
-      "sources": [
-        "dat-bike-weaver-200-vs-vinfast-feliz-2"
-      ]
-    },
-    {
-      "article": "water-bottle-holders-motorbike-commuters",
-      "had": 0,
-      "sources": [
-        "usb-chargers-motorbike-power",
-        "grab-rails-backrests-pillion-vietnam"
+        "vietnam-road-signs-guide"
       ]
     },
     {
       "article": "waterproof-document-pouches-motorbike",
       "had": 1,
       "sources": [
-        "dry-bags-waterproof-luggage-riders"
+        "helmet-intercoms-bluetooth-vietnam"
       ]
     },
     {
       "article": "weather-resistant-locks-motorbike",
       "had": 1,
       "sources": [
-        "steering-locks-effective-use"
+        "disc-locks-chains-motorbike-security"
       ]
     },
     {
-      "article": "wet-weather-clutch-technique-manual-motorbike",
-      "had": 0,
-      "sources": [
-        "clutch-control-friction-zone-practice",
-        "how-to-downshift-smoothly-manual-motorbike"
-      ]
-    },
-    {
-      "article": "what-a-50cc-service-includes-vietnam",
+      "article": "why-17-inch-wheels-underbones",
       "had": 1,
       "sources": [
-        "50cc-common-problems-first-year"
-      ]
-    },
-    {
-      "article": "which-scooter-engine-class-vietnam",
-      "had": 0,
-      "sources": [
-        "110cc-vs-125cc-scooters",
-        "best-scooters-delivery-riders-vietnam"
-      ]
-    },
-    {
-      "article": "why-110cc-is-vietnams-default-engine",
-      "had": 1,
-      "sources": [
-        "underbone-kerb-weights-explained"
-      ]
-    },
-    {
-      "article": "xe-dap-mai-rules-vietnam",
-      "had": 1,
-      "sources": [
-        "minimum-age-ride-motorbike-vietnam"
-      ]
-    },
-    {
-      "article": "yamaha-freego-125-vs-honda-air-blade-125",
-      "had": 1,
-      "sources": [
-        "honda-air-blade-125-vs-honda-vario-125"
-      ]
-    },
-    {
-      "article": "yamaha-grande-vs-honda-vision",
-      "had": 1,
-      "sources": [
-        "honda-lead-vs-yamaha-grande"
-      ]
-    },
-    {
-      "article": "yamaha-janus-125-vs-honda-lead-125",
-      "had": 1,
-      "sources": [
-        "honda-vario-125-vs-honda-lead-125"
-      ]
-    },
-    {
-      "article": "yamaha-latte-125-vs-honda-lead-125",
-      "had": 1,
-      "sources": [
-        "yamaha-latte-vs-yamaha-grande"
-      ]
-    },
-    {
-      "article": "yamaha-latte-125-vs-yamaha-gear-125",
-      "had": 0,
-      "sources": [
-        "yamaha-gear-125-vs-yamaha-janus-125",
-        "yamaha-latte-vs-yamaha-grande"
-      ]
-    },
-    {
-      "article": "yamaha-lexi-155-vs-honda-sh-mode-125",
-      "had": 1,
-      "sources": [
-        "honda-sh-mode-125-vs-honda-sh-160"
-      ]
-    },
-    {
-      "article": "yamaha-lexi-155-vs-honda-vario-160",
-      "had": 1,
-      "sources": [
-        "yamaha-nmax-155-vs-honda-vario-160"
-      ]
-    },
-    {
-      "article": "yamaha-nmax-155-vs-honda-air-blade-160",
-      "had": 0,
-      "sources": [
-        "yamaha-nvx-155-vs-honda-air-blade-160",
-        "honda-air-blade-160-vs-honda-lead-125"
-      ]
-    },
-    {
-      "article": "yamaha-nvx-155-vs-yamaha-lexi-155",
-      "had": 1,
-      "sources": [
-        "yamaha-lexi-155-vs-yamaha-nmax-155"
-      ]
-    },
-    {
-      "article": "yamaha-pg-1-vs-honda-wave-rsx",
-      "had": 1,
-      "sources": [
-        "yamaha-pg-1-review"
-      ]
-    },
-    {
-      "article": "yamaha-pg-1-vs-yamaha-sirius-rc",
-      "had": 1,
-      "sources": [
-        "yamaha-sirius-fi-vs-sirius-rc"
+        "alloy-vs-spoked-wheels-motorbikes"
       ]
     },
     {
       "article": "yamaha-sirius-rc-110-learner-guide",
       "had": 1,
       "sources": [
-        "yamaha-sirius-fi-vs-sirius-rc"
+        "winner-r-exciter-155-ownership-costs"
       ]
     }
   ],
   "sources": {
-    "50cc-weekly-maintenance-checks": [
-      "50cc-brakes-drum-checks"
+    "helmet-rules-50cc-mopeds": [
+      "50cc-fines-vietnam"
     ],
-    "how-fast-can-a-50cc-motorbike-go": [
-      "50cc-mopeds-vs-50cc-underbones"
+    "50cc-motorbike-myths-law-vietnam": [
+      "50cc-fines-vietnam",
+      "do-you-need-insurance-for-50cc-vietnam"
     ],
-    "50cc-day-trip-range-limits": [
-      "50cc-night-riding-visibility",
-      "50cc-summer-heat-riding-hanoi"
+    "50cc-mopeds-vs-50cc-underbones": [
+      "50cc-vs-e-bike-vietnam"
     ],
-    "50cc-hills-bridges-hanoi": [
-      "50cc-night-riding-visibility",
-      "carrying-pillion-50cc-vietnam"
+    "hanoi-2025-administrative-restructuring-riders": [
+      "bat-trang-pottery-village-motorbike-ride"
     ],
-    "50cc-resale-value-vietnam": [
-      "50cc-parking-hanoi"
-    ],
-    "grey-import-50cc-vietnam": [
-      "50cc-parking-hanoi"
-    ],
-    "50cc-in-the-rain-vietnam": [
-      "50cc-summer-heat-riding-hanoi"
-    ],
-    "aftermarket-parts-warranty": [
-      "aftermarket-exhausts-motorbikes-vietnam",
-      "aftermarket-horns-motorbikes"
-    ],
-    "buying-parts-physical-markets-vietnam": [
-      "aftermarket-exhausts-motorbikes-vietnam"
-    ],
-    "installing-accessories-diy-vs-shop": [
-      "aftermarket-horns-motorbikes",
-      "tank-pads-scooters"
-    ],
-    "adjustable-levers-motorbikes": [
-      "aftermarket-led-headlight-bulbs",
-      "bar-end-weights-vibration"
-    ],
-    "aftermarket-exhausts-motorbikes-vietnam": [
-      "aftermarket-suspension-upgrades"
-    ],
-    "aftermarket-horns-motorbikes": [
-      "aftermarket-suspension-upgrades"
-    ],
-    "body-armour-motorbike-riders": [
-      "armoured-hoodies-casual-riding-wear",
-      "ce-armour-certification-explained",
-      "offroad-riding-gear-basics",
-      "riding-gear-sizing-fit-foreign-riders"
-    ],
-    "riding-gear-budget-priority-vietnam": [
-      "armoured-hoodies-casual-riding-wear",
-      "ce-armour-certification-explained",
-      "riding-gear-sizing-fit-foreign-riders",
-      "riding-trousers-lower-body-protection",
-      "second-hand-riding-gear-risks"
-    ],
-    "aftermarket-led-headlight-bulbs": [
-      "automatic-chain-oilers"
-    ],
-    "aftermarket-mirrors-motorbike-upgrade": [
-      "automatic-chain-oilers"
-    ],
-    "minimum-age-ride-motorbike-vietnam": [
-      "b1-three-wheel-licence-vietnam",
-      "motorbike-learner-permit-vietnam",
-      "xe-dap-mai-rules-vietnam"
-    ],
-    "tam-dao-day-trip-motorbike": [
-      "ba-vi-national-park-day-trip-motorbike"
-    ],
-    "co-loa-citadel-motorbike-ride": [
-      "bac-ninh-craft-loop-motorbike-ride",
-      "soc-temple-soc-son-motorbike-ride"
-    ],
-    "ba-vi-national-park-day-trip-motorbike": [
-      "bac-ninh-craft-loop-motorbike-ride"
-    ],
-    "choosing-hanoi-neighbourhood-motorbike-access": [
-      "bac-tu-liem-area-guide-riders",
-      "hai-ba-trung-area-guide-riders"
-    ],
-    "handlebar-grips-choosing-motorbike": [
-      "bar-end-weights-vibration",
-      "heated-grips-hanoi-winter"
-    ],
-    "riding-jacket-vietnam-climate": [
-      "base-layers-hot-humid-riding",
-      "cleaning-waterproof-riding-gear",
-      "neck-gaiters-dust-masks-riders",
-      "riding-trousers-lower-body-protection"
-    ],
-    "armoured-hoodies-casual-riding-wear": [
-      "base-layers-hot-humid-riding"
-    ],
-    "scooters-with-smart-keys-vietnam-verified": [
-      "best-scooters-long-distance-touring-vietnam"
-    ],
-    "110cc-vs-125cc-scooters": [
-      "best-scooters-rainy-season-commuting-vietnam",
-      "which-scooter-engine-class-vietnam"
-    ],
-    "best-lightweight-scooters-beginners-vietnam": [
-      "best-scooters-rainy-season-commuting-vietnam"
-    ],
-    "best-scooters-cargo-storage-vietnam": [
-      "best-scooters-tall-riders-vietnam"
-    ],
-    "best-honda-underbones-vietnam-verified": [
-      "best-underbones-delivery-riders-verified"
-    ],
-    "best-underbones-beginner-riders-verified": [
-      "best-underbones-delivery-riders-verified"
-    ],
-    "best-underbones-delivery-riders-verified": [
-      "best-underbones-high-mileage-verified"
-    ],
-    "best-underbones-hanoi-commuting-verified": [
-      "best-underbones-high-mileage-verified",
-      "best-underbones-two-up-verified"
-    ],
-    "best-underbones-short-riders-verified": [
-      "best-underbones-tall-riders-verified"
-    ],
-    "rental-motorbike-care-long-term-hanoi": [
-      "breakdowns-during-long-term-rental-hanoi"
-    ],
-    "buying-used-sport-underbone-verified": [
-      "buying-new-underbone-dealer-guide-vietnam"
-    ],
-    "learning-manual-on-rented-bike-hanoi": [
-      "buying-new-underbone-dealer-guide-vietnam",
-      "monthly-renting-manual-clutch-hanoi"
-    ],
-    "throttle-assist-long-rides": [
-      "camping-gear-motorbike-trips"
-    ],
-    "backpack-vs-saddlebags-motorbike": [
-      "camping-gear-motorbike-trips",
-      "tank-bags-motorbikes-uses"
-    ],
-    "electric-motorbike-fines-vietnam": [
+    "electric-motorbike-power-kw-licence-vietnam": [
       "can-you-ride-electric-motorbike-with-car-licence-vietnam"
     ],
-    "50cc-summer-heat-riding-hanoi": [
-      "carrying-pillion-50cc-vietnam"
-    ],
-    "ba-be-lake-motorbike-trip-hanoi": [
-      "cat-ba-ha-long-motorbike-trip-ferry"
-    ],
-    "riding-six-speed-manual-winner-exciter": [
-      "cbr150r-city-riding-guide"
-    ],
-    "honda-blade-drum-vs-disc": [
-      "cbr150r-city-riding-guide"
-    ],
-    "charging-electric-motorbike-at-home-vietnam": [
-      "charging-electric-motorbike-work-university"
-    ],
-    "buying-first-electric-motorbike-vietnam": [
-      "cheapest-electric-motorbikes-vietnam-list-prices"
-    ],
-    "base-layers-hot-humid-riding": [
-      "cleaning-waterproof-riding-gear"
-    ],
-    "cold-start-underbone-choke-warmup": [
-      "clutch-lever-adjustment-underbones",
-      "kick-start-technique-underbone"
-    ],
-    "finding-neutral-manual-motorbike": [
-      "coasting-neutral-dangers-manual-motorbike"
-    ],
-    "clutch-lever-adjustment-underbones": [
-      "cold-start-underbone-choke-warmup"
-    ],
-    "cao-bang-ban-gioc-motorbike-trip": [
-      "da-nang-hoi-an-central-coast-motorbike"
-    ],
-    "dat-bike-weaver-vs-weaver-200": [
-      "dat-bike-weaver-200-vs-vinfast-feliz-2"
-    ],
-    "electric-motorbike-delivery-riders-vietnam": [
-      "dat-bike-weaver-200-vs-vinfast-feliz-2"
-    ],
-    "can-foreigners-rent-electric-bike-vietnam": [
-      "do-electric-motorbikes-need-insurance-vietnam"
-    ],
-    "bac-ninh-craft-loop-motorbike-ride": [
-      "duong-lam-ancient-village-motorbike-ride"
-    ],
-    "dai-lai-lake-motorbike-loop": [
-      "duong-lam-ancient-village-motorbike-ride",
-      "nui-coc-lake-thai-nguyen-motorbike-ride",
-      "soc-temple-soc-son-motorbike-ride"
-    ],
-    "charging-safety-home-electric-bike": [
-      "e-bikes-with-kids-vietnam"
-    ],
-    "ce-armour-certification-explained": [
-      "earplugs-motorbike-wind-noise"
-    ],
-    "cleaning-waterproof-riding-gear": [
-      "earplugs-motorbike-wind-noise"
-    ],
-    "e-bike-helmet-rules-vietnam": [
-      "electric-bike-law-myths-vietnam"
-    ],
-    "why-electric-mopeds-capped-50kmh-vietnam": [
-      "electric-bike-law-myths-vietnam"
-    ],
-    "how-electric-motorbikes-work": [
-      "electric-motorbike-battery-chemistry-vietnam"
-    ],
-    "electric-motorbike-tyre-checks": [
-      "electric-motorbike-brakes-maintenance"
-    ],
-    "e-bikes-with-kids-vietnam": [
-      "electric-motorbike-breakdown-what-to-do"
-    ],
-    "staying-visible-electric-motorbike": [
-      "electric-motorbike-breakdown-what-to-do",
-      "first-ride-electric-motorbike-beginners"
-    ],
-    "storing-electric-motorbike-long-breaks": [
-      "electric-motorbike-charger-care-storage"
-    ],
-    "electric-motorbike-battery-health-check": [
-      "electric-motorbike-charger-care-storage"
-    ],
-    "v-green-battery-swap-network-guide": [
-      "electric-motorbike-delivery-riders-vietnam"
-    ],
-    "dat-bike-weaver-200-vs-vinfast-feliz-2": [
-      "electric-motorbike-delivery-riders-vietnam",
-      "vinfast-viper-vs-evo"
-    ],
-    "electric-motorbike-commuting-hanoi": [
-      "electric-motorbike-night-riding-hanoi"
-    ],
-    "electric-motorbike-silent-riding-safety": [
-      "electric-motorbike-night-riding-hanoi"
-    ],
-    "best-electric-moped-students-vietnam": [
-      "electric-motorbike-older-riders-vietnam"
-    ],
-    "electric-motorbike-theft-security-vietnam": [
-      "electric-motorbike-older-riders-vietnam"
-    ],
-    "electric-motorbike-warranty-service-vietnam": [
-      "electric-motorbike-parts-availability-vietnam"
-    ],
-    "vinfast-battery-rental-vs-buying": [
-      "electric-motorbike-parts-availability-vietnam"
-    ],
-    "buying-used-electric-motorbike-vietnam": [
-      "electric-motorbike-resale-value-vietnam"
-    ],
-    "electric-motorbike-battery-lifespan-vietnam": [
-      "electric-motorbike-summer-heat-battery-care",
-      "electric-motorbike-winter-range-hanoi"
-    ],
-    "alloy-vs-spoked-wheels-motorbikes": [
-      "engine-oil-drain-vs-overhaul-capacity-explained",
-      "fuel-economy-test-cycles-explained"
-    ],
-    "125cc-vs-110cc-underbones": [
-      "engine-oil-drain-vs-overhaul-capacity-explained"
-    ],
-    "commuting-by-motorbike-monthly-hanoi": [
-      "english-teachers-monthly-motorbike-hanoi"
-    ],
-    "delivery-pickup-monthly-rental-hanoi": [
-      "english-teachers-monthly-motorbike-hanoi"
-    ],
-    "reading-scooter-spec-sheet": [
-      "euro-4-scooters-vietnam",
-      "scooter-displacement-numbers-explained"
-    ],
-    "honda-pgm-fi-explained": [
-      "euro-emissions-underbones-vietnam"
-    ],
-    "abs-on-underbones-vietnam-explained": [
-      "euro-emissions-underbones-vietnam"
-    ],
-    "insurance-for-long-term-renter-hanoi": [
-      "expats-monthly-motorbike-hanoi"
-    ],
-    "english-teachers-monthly-motorbike-hanoi": [
-      "families-monthly-motorbike-hanoi"
-    ],
-    "expats-monthly-motorbike-hanoi": [
-      "families-monthly-motorbike-hanoi"
-    ],
-    "chain-maintenance-motorbike-vietnam": [
-      "final-drive-chain-belt-shaft-compared"
-    ],
-    "lubrication-points-motorbike-vietnam": [
-      "final-drive-chain-belt-shaft-compared"
-    ],
-    "how-to-ride-manual-clutch-motorbike-vietnam": [
-      "finding-neutral-manual-motorbike"
-    ],
-    "electric-motorbike-breakdown-what-to-do": [
-      "first-ride-electric-motorbike-beginners"
-    ],
-    "crash-bars-engine-guards-motorbike": [
-      "frame-sliders-engine-case-protection"
-    ],
-    "skid-plates-underbody-protection": [
-      "frame-sliders-engine-case-protection",
-      "radiator-guards-liquid-cooled"
-    ],
-    "top-boxes-racks-motorbike-vietnam": [
-      "grab-rails-backrests-pillion-vietnam",
-      "tail-bags-roll-bags-motorbike"
-    ],
-    "cargo-nets-bungee-cords-motorbike": [
-      "grab-rails-backrests-pillion-vietnam",
-      "pet-carriers-motorbikes-vietnam"
-    ],
-    "hanoi-districts-layout-guide-riders": [
-      "ha-dong-area-guide-riders",
-      "hanoi-2025-administrative-restructuring-riders"
-    ],
-    "aftermarket-suspension-upgrades": [
-      "handguards-motorbike-vietnam"
-    ],
-    "automatic-chain-oilers": [
-      "handguards-motorbike-vietnam"
-    ],
-    "hanoi-street-food-motorbike-ride-guide": [
-      "hanoi-markets-motorbike-shopping"
-    ],
-    "hanoi-guided-motorbike-tours-vs-self-riding": [
-      "hanoi-markets-motorbike-shopping"
-    ],
-    "hanoi-markets-motorbike-shopping": [
-      "hanoi-motorbike-scams-riders-guide"
-    ],
-    "hanoi-motorbike-photo-spots": [
-      "hanoi-motorbike-scams-riders-guide"
-    ],
-    "hanoi-motorbike-scams-riders-guide": [
-      "hanoi-motorbike-shops-streets-guide"
-    ],
-    "hanoi-motorbike-traffic-culture-first-timers": [
-      "hanoi-motorbike-shops-streets-guide"
-    ],
-    "hanoi-motorbike-commute-corridors": [
-      "hanoi-university-areas-riding-guide"
-    ],
-    "bar-end-weights-vibration": [
-      "heated-grips-hanoi-winter"
-    ],
-    "full-face-vs-open-face-helmet-vietnam": [
-      "helmet-fasteners-retention-systems",
-      "modular-flip-up-helmets-vietnam"
-    ],
-    "helmet-care-replacing-guide-vietnam": [
-      "helmet-fasteners-retention-systems"
-    ],
-    "helmet-safety-standards-explained-vietnam": [
-      "helmet-sun-heat-damage-vietnam"
-    ],
-    "earplugs-motorbike-wind-noise": [
-      "hi-vis-vests-motorbike-riders"
-    ],
-    "honda-vario-125-vs-honda-lead-125": [
-      "honda-air-blade-125-vs-honda-vario-125",
-      "yamaha-janus-125-vs-honda-lead-125"
-    ],
-    "cbr150r-city-riding-guide": [
-      "honda-blade-drum-vs-disc"
-    ],
-    "honda-cbr150r-vs-honda-winner-r": [
-      "honda-blade-vs-honda-cbr150r",
-      "honda-cbr150r-vs-honda-ct125",
-      "honda-cbr150r-vs-honda-future-125",
-      "honda-cbr150r-vs-honda-super-cub"
-    ],
-    "honda-blade-vs-yamaha-exciter-155": [
-      "honda-blade-vs-honda-cbr150r"
-    ],
-    "honda-blade-vs-honda-wave-rsx": [
-      "honda-blade-vs-honda-future-125"
-    ],
-    "honda-super-cub-vs-honda-winner-r": [
-      "honda-blade-vs-honda-super-cub-c125",
-      "honda-cbr150r-vs-honda-super-cub",
-      "honda-super-cub-vs-yamaha-exciter-155"
-    ],
-    "honda-wave-alpha-vs-honda-super-cub": [
-      "honda-blade-vs-honda-super-cub-c125",
-      "honda-super-cub-vs-yamaha-sirius"
-    ],
-    "honda-blade-vs-yamaha-sirius": [
-      "honda-blade-vs-honda-winner-r"
-    ],
-    "honda-ct125-vs-honda-super-cub-c125": [
-      "honda-blade-vs-honda-winner-r",
-      "honda-cbr150r-vs-honda-ct125",
-      "honda-wave-rsx-vs-honda-ct125"
-    ],
-    "honda-wave-alpha-vs-honda-winner-r": [
-      "honda-blade-vs-yamaha-exciter-155",
-      "honda-wave-alpha-vs-yamaha-exciter-155",
-      "honda-wave-rsx-vs-honda-winner-r"
-    ],
-    "honda-future-125-vs-honda-winner-r": [
-      "honda-cbr150r-vs-honda-future-125",
-      "honda-future-125-vs-yamaha-exciter-155",
-      "honda-wave-rsx-vs-honda-winner-r"
-    ],
-    "honda-winner-r-vs-yamaha-exciter-155": [
-      "honda-cbr150r-vs-yamaha-exciter-155",
-      "honda-wave-rsx-vs-yamaha-exciter-155",
-      "honda-winner-r-vs-yamaha-sirius"
-    ],
-    "honda-blade-vs-honda-winner-r": [
-      "honda-cbr150r-vs-yamaha-exciter-155"
-    ],
-    "yamaha-pg-1-vs-honda-ct125": [
-      "honda-ct125-touring-setup-guide"
-    ],
-    "honda-ct125-vs-honda-winner-r": [
-      "honda-ct125-vs-yamaha-exciter-155"
-    ],
-    "yamaha-sirius-vs-yamaha-exciter-155": [
-      "honda-future-125-vs-yamaha-exciter-155",
-      "honda-wave-alpha-vs-yamaha-exciter-155"
-    ],
-    "honda-super-cub-c125-vs-honda-future-125": [
-      "honda-future-125-vs-yamaha-sirius",
-      "honda-wave-rsx-vs-honda-super-cub"
-    ],
-    "honda-air-blade-160-vs-honda-lead-125": [
-      "honda-lead-125-vs-honda-vario-160",
-      "yamaha-nmax-155-vs-honda-air-blade-160"
-    ],
-    "honda-sh-mode-125-vs-honda-sh-160": [
-      "honda-sh-mode-125-vs-honda-air-blade-160",
-      "honda-sh-mode-125-vs-honda-lead-125",
-      "yamaha-lexi-155-vs-honda-sh-mode-125"
-    ],
-    "honda-vario-125-vs-yamaha-latte-125": [
-      "honda-sh-mode-125-vs-honda-air-blade-160"
-    ],
-    "honda-ct125-vs-yamaha-exciter-155": [
-      "honda-super-cub-vs-yamaha-exciter-155"
-    ],
-    "honda-ct125-vs-yamaha-sirius": [
-      "honda-super-cub-vs-yamaha-sirius"
-    ],
-    "honda-vario-160-vs-yamaha-nvx-155": [
-      "honda-vario-160-vs-honda-air-blade-160"
-    ],
-    "honda-sh-mode-125-vs-honda-air-blade-160": [
-      "honda-vario-160-vs-honda-air-blade-160"
-    ],
-    "honda-vision-vs-honda-air-blade": [
-      "honda-vision-vs-honda-lead-125"
-    ],
-    "honda-vision-vs-yamaha-janus": [
-      "honda-vision-vs-yamaha-freego-125"
-    ],
-    "honda-vs-yamaha-scooters-vietnam": [
-      "honda-vision-vs-yamaha-freego-125"
-    ],
-    "honda-future-125-vs-yamaha-sirius": [
-      "honda-wave-alpha-vs-honda-cbr150r"
-    ],
-    "honda-wave-alpha-vs-honda-blade": [
-      "honda-wave-alpha-vs-honda-cbr150r"
-    ],
-    "honda-blade-vs-honda-ct125": [
-      "honda-wave-alpha-vs-honda-ct125",
-      "honda-wave-rsx-vs-honda-ct125"
-    ],
-    "honda-future-125-vs-honda-ct125": [
-      "honda-wave-alpha-vs-honda-ct125"
-    ],
-    "honda-wave-alpha-vs-honda-cbr150r": [
-      "honda-wave-rsx-vs-yamaha-exciter-155"
-    ],
-    "honda-wave-alpha-vs-yamaha-sirius": [
-      "honda-winner-r-vs-yamaha-sirius"
-    ],
-    "phong-nha-motorbike-trip-hanoi": [
-      "hue-motorbike-trip-hanoi"
-    ],
-    "duong-lam-ancient-village-motorbike-ride": [
-      "hung-kings-temple-phu-tho-motorbike-trip"
-    ],
-    "electric-start-starter-motor-problems": [
-      "ignition-switch-problems-motorbike"
-    ],
-    "dead-battery-motorbike-vietnam": [
-      "ignition-switch-problems-motorbike"
-    ],
-    "push-start-motorbike-safely": [
-      "kick-start-technique-underbone"
-    ],
-    "stands-side-vs-centre-paddock": [
-      "kickstand-extensions-soft-ground"
-    ],
-    "battery-trickle-chargers-storage": [
-      "kickstand-extensions-soft-ground",
-      "portable-jump-starter-packs-motorbikes"
-    ],
-    "cat-ba-ha-long-motorbike-trip-ferry": [
-      "lang-son-motorbike-trip-hanoi"
-    ],
-    "motorbike-accident-duties-vietnam": [
-      "leaving-accident-scene-vietnam"
-    ],
-    "esp-vs-blue-core-engines-explained": [
-      "led-vs-halogen-scooter-headlights",
-      "scooter-valve-counts-explained",
-      "stop-and-start-scooters-explained"
-    ],
-    "honda-esaf-frame-explained": [
-      "led-vs-halogen-scooter-headlights"
-    ],
-    "vietnam-electric-two-wheeler-market-overview": [
-      "long-distance-electric-motorbike-touring-vietnam"
-    ],
-    "how-to-get-a1-licence-vietnam": [
-      "lost-motorbike-licence-replacement-vietnam"
-    ],
-    "talking-to-mechanic-vietnam": [
-      "maintenance-log-monthly-rental-motorbike"
-    ],
-    "buying-motorbike-parts-online-vietnam": [
-      "maintenance-log-monthly-rental-motorbike"
-    ],
-    "clutch-technique-stop-and-go-traffic": [
-      "manual-motorbike-u-turn-technique"
-    ],
-    "buying-new-underbone-dealer-guide-vietnam": [
-      "manual-underbone-ownership-costs-hanoi"
-    ],
-    "monthly-renting-manual-clutch-hanoi": [
-      "manual-underbone-ownership-costs-hanoi"
-    ],
-    "visor-care-anti-fog-motorbike": [
-      "modular-flip-up-helmets-vietnam",
-      "prescription-glasses-under-helmet"
-    ],
-    "families-monthly-motorbike-hanoi": [
-      "monthly-rental-through-tet-hanoi"
-    ],
-    "automatic-or-semi-automatic-monthly-hanoi": [
-      "monthly-rental-vs-ride-hailing-hanoi"
-    ],
-    "lane-splitting-legal-vietnam": [
-      "motorbike-bus-lanes-vietnam"
-    ],
-    "renting-motorbike-old-quarter": [
-      "motorbike-delivery-old-quarter"
-    ],
-    "underbone-power-torque-explained": [
-      "motorbike-engine-codes-explained"
-    ],
-    "yamaha-vva-variable-valve-timing-explained": [
-      "motorbike-engine-codes-explained"
-    ],
-    "vietnam-a1-licence-test": [
-      "motorbike-learner-permit-vietnam"
-    ],
-    "motorbike-rental-english-teachers-hanoi": [
-      "motorbike-rental-digital-nomads-hanoi",
-      "renting-motorbike-couple-hanoi"
-    ],
-    "motorbike-rental-expats-moving-hanoi": [
-      "motorbike-rental-digital-nomads-hanoi",
-      "renting-motorbike-hanoi-complete-beginner"
-    ],
-    "motorbike-rental-digital-nomads-hanoi": [
-      "motorbike-rental-english-teachers-hanoi",
-      "renting-motorbike-couple-hanoi"
-    ],
-    "motorbike-rental-female-riders-hanoi": [
-      "motorbike-rental-english-teachers-hanoi",
-      "renting-motorbike-noi-bai-arrival"
-    ],
-    "motorbike-rental-international-students-hanoi": [
-      "motorbike-rental-expats-moving-hanoi"
-    ],
-    "motorbike-rental-tourists-hanoi-essentials": [
-      "motorbike-rental-expats-moving-hanoi"
-    ],
-    "renting-motorbike-couple-hanoi": [
-      "motorbike-rental-female-riders-hanoi"
-    ],
-    "renting-motorbike-hanoi-complete-beginner": [
-      "motorbike-rental-female-riders-hanoi"
-    ],
-    "renting-motorbike-hanoi-one-day": [
-      "motorbike-rental-international-students-hanoi"
-    ],
-    "renting-motorbike-hanoi-winter": [
-      "motorbike-rental-international-students-hanoi"
-    ],
-    "renting-motorbike-six-months-hanoi": [
-      "motorbike-rental-tourists-hanoi-essentials"
-    ],
-    "switching-bikes-mid-rental-hanoi": [
-      "motorbike-rental-tourists-hanoi-essentials"
-    ],
-    "motorbike-vs-train-vietnam-long-distance": [
-      "motorbike-vs-domestic-flights-vietnam"
-    ],
-    "check-motorbike-after-heavy-rain": [
-      "motorbike-wont-start-after-washing"
-    ],
-    "footpeg-upgrades-tall-riders": [
-      "mudguard-extenders-rain-spray"
-    ],
-    "frame-sliders-engine-case-protection": [
-      "mudguard-extenders-rain-spray"
-    ],
-    "exploring-cau-giay-by-motorbike": [
-      "nam-tu-liem-area-guide-riders"
-    ],
-    "hi-vis-vests-motorbike-riders": [
-      "neck-gaiters-dust-masks-riders"
-    ],
-    "moving-address-during-rental-hanoi": [
-      "nomads-monthly-motorbike-hanoi"
-    ],
-    "idp-vietnam-motorbike-rules": [
-      "non-1968-licence-vietnam"
-    ],
-    "hung-kings-temple-phu-tho-motorbike-trip": [
-      "nui-coc-lake-thai-nguyen-motorbike-ride"
-    ],
-    "battery-draining-overnight-motorbike": [
-      "oil-leaks-motorbike-finding-fixing"
-    ],
-    "thay-pagoda-tay-phuong-pagoda-motorbike-route": [
-      "perfume-pagoda-motorbike-trip"
-    ],
-    "front-baskets-scooters-vietnam": [
-      "pet-carriers-motorbikes-vietnam"
-    ],
-    "neck-gaiters-dust-masks-riders": [
-      "pillion-passenger-gear-checklist"
-    ],
-    "offroad-riding-gear-basics": [
-      "pillion-passenger-gear-checklist"
-    ],
-    "handguards-motorbike-vietnam": [
-      "portable-jump-starter-packs-motorbikes"
-    ],
-    "underbone-kerb-weights-explained": [
-      "power-to-weight-ratio-explained",
-      "underbone-frame-design-explained",
-      "why-110cc-is-vietnams-default-engine"
-    ],
-    "wet-vs-dry-weight-explained": [
-      "power-to-weight-ratio-explained"
-    ],
-    "helmet-visor-tinted-photochromic": [
-      "prescription-glasses-under-helmet"
-    ],
-    "how-to-shift-gears-semi-automatic-underbone": [
-      "push-start-motorbike-safely"
-    ],
-    "perfume-pagoda-motorbike-trip": [
-      "quan-son-lake-motorbike-ride"
-    ],
-    "nui-coc-lake-thai-nguyen-motorbike-ride": [
-      "quan-son-lake-motorbike-ride"
-    ],
-    "handlebar-raisers-riding-ergonomics": [
-      "radiator-guards-liquid-cooled"
-    ],
-    "sticking-brakes-caliper-cleaning": [
-      "rear-brake-locking-motorbike"
-    ],
-    "brake-light-indicator-repair-motorbike": [
-      "rear-brake-locking-motorbike"
-    ],
-    "do-electric-motorbikes-need-insurance-vietnam": [
-      "registering-electric-motorbike-vietnam"
-    ],
-    "electric-bike-law-myths-vietnam": [
-      "registering-electric-motorbike-vietnam"
-    ],
-    "motorbike-delivery-long-bien": [
-      "renting-motorbike-ba-dinh",
-      "renting-motorbike-dong-da"
-    ],
-    "motorbike-delivery-old-quarter": [
-      "renting-motorbike-cau-giay",
-      "renting-motorbike-hai-ba-trung"
-    ],
-    "renting-motorbike-da-nang": [
-      "renting-motorbike-da-lat"
-    ],
-    "renting-motorbike-ho-chi-minh-city": [
-      "renting-motorbike-da-lat"
-    ],
-    "renting-motorbike-da-lat": [
-      "renting-motorbike-nha-trang",
-      "renting-motorbike-phu-quoc"
-    ],
-    "renting-motorbike-hue": [
-      "renting-motorbike-nha-trang"
-    ],
-    "renting-motorbike-nha-trang": [
-      "renting-motorbike-phu-quoc"
-    ],
-    "renting-motorbike-ba-dinh": [
-      "renting-motorbike-thanh-xuan"
-    ],
-    "vietnam-motorbike-licence-classes-explained": [
-      "ride-125cc-with-car-licence-vietnam"
-    ],
-    "after-rain-slippery-roads-motorbike": [
-      "riding-during-tet-traffic-safety"
-    ],
-    "riding-electric-motorbike-hanoi-rain": [
-      "riding-electric-motorbike-flooded-streets"
-    ],
-    "electric-motorbike-range-real-world-vietnam": [
-      "riding-electric-motorbike-hills-bridges-hanoi",
-      "riding-electric-motorbike-with-passenger"
-    ],
-    "regen-braking-explained-electric": [
-      "riding-electric-motorbike-hills-bridges-hanoi"
-    ],
-    "honda-future-125-riding-guide": [
-      "riding-honda-super-cub-c125-vietnam"
-    ],
-    "honda-ct125-touring-setup-guide": [
-      "riding-honda-super-cub-c125-vietnam"
-    ],
-    "honda-wave-rsx-commuting-guide": [
-      "riding-honda-wave-alpha-110-guide"
-    ],
-    "smoothing-semi-auto-launch-jerk": [
-      "riding-semi-auto-gravel-roads"
-    ],
-    "no-licence-fine-vietnam": [
-      "riding-while-suspended-vietnam"
-    ],
-    "motorbike-accident-first-aid-vietnam": [
-      "road-rage-aggressive-drivers-vietnam"
-    ],
-    "gravel-roads-motorbike-vietnam": [
-      "road-works-riding-motorbike-vietnam"
-    ],
-    "tcs-vs-abs-scooters-vietnam": [
-      "scooter-cbs-ubs-combined-braking-explained"
-    ],
-    "which-scooters-have-abs-vietnam": [
-      "scooter-cbs-ubs-combined-braking-explained"
-    ],
-    "scooter-power-torque-explained": [
-      "scooter-displacement-numbers-explained"
-    ],
-    "honda-hstc-traction-control-scooters": [
-      "scooter-ground-clearance-compared-vietnam"
-    ],
-    "first-hour-manual-clutch-practice-checklist": [
-      "scooter-to-manual-clutch-transition"
-    ],
-    "new-scooter-prices-vietnam-verified": [
-      "scooter-trim-versions-explained"
-    ],
-    "scooter-tft-vs-lcd-displays": [
-      "scooter-trim-versions-explained"
-    ],
-    "scooter-kerb-weights-vietnam-verified": [
-      "scooter-warranty-vietnam-explained"
-    ],
-    "scooter-wheelbase-stability-explained": [
-      "scooter-warranty-vietnam-explained"
-    ],
-    "heated-grips-hanoi-winter": [
-      "scooter-windscreens-vietnam"
-    ],
-    "kickstand-extensions-soft-ground": [
-      "scooter-windscreens-vietnam"
-    ],
-    "buying-first-scooter-vietnam-guide": [
-      "scooters-under-40-million-vietnam"
-    ],
-    "pillion-passenger-gear-checklist": [
-      "second-hand-riding-gear-risks"
-    ],
-    "disc-locks-chains-motorbike-security": [
-      "security-marking-kits-motorbike"
-    ],
-    "gps-trackers-motorbikes-vietnam": [
-      "security-marking-kits-motorbike"
-    ],
-    "when-to-shift-gears-underbone": [
-      "semi-auto-carrying-cargo",
-      "semi-auto-descending-hills-technique",
-      "touring-semi-auto-underbone"
-    ],
-    "semi-auto-two-up-riding-technique": [
-      "semi-auto-carrying-cargo"
-    ],
-    "sohc-vs-dohc-underbones-explained": [
-      "single-cylinder-underbone-engines-explained"
-    ],
-    "16-inch-wheel-scooters-vietnam": [
-      "small-vs-big-scooter-wheels"
-    ],
-    "assist-slipper-clutch-explained": [
-      "sohc-vs-dohc-underbones-explained"
-    ],
-    "motorbike-warning-lights-meaning": [
-      "speedometer-not-working-motorbike"
-    ],
-    "brake-squeal-grinding-motorbike": [
-      "speedometer-not-working-motorbike"
-    ],
-    "choosing-replacement-tyres-motorbike-vietnam": [
-      "spoke-wheels-care-truing-vietnam"
-    ],
-    "changing-engine-oil-at-home-vietnam": [
-      "spoke-wheels-care-truing-vietnam"
-    ],
-    "riding-honda-super-cub-c125-vietnam": [
-      "sport-underbone-touring-vietnam"
-    ],
-    "yamaha-vva-explained": [
-      "stop-and-start-scooters-explained"
-    ],
-    "riding-motorbike-heavy-rain-vietnam": [
-      "storms-when-to-stop-riding-motorbike"
-    ],
-    "learning-to-ride-monthly-rental-hanoi": [
-      "students-semester-motorbike-rental-hanoi"
-    ],
-    "long-term-rider-licence-checklist-hanoi": [
-      "students-semester-motorbike-rental-hanoi"
-    ],
-    "dry-bags-waterproof-luggage-riders": [
-      "tail-bags-roll-bags-motorbike",
-      "waterproof-document-pouches-motorbike"
+    "throttle-assist-long-rides": [
+      "delivery-rider-accessory-setup"
     ],
     "phone-mounts-motorbike-vietnam": [
-      "tank-bags-motorbikes-uses"
+      "delivery-rider-accessory-setup"
     ],
-    "paint-protection-ceramic-coatings": [
-      "tank-pads-scooters"
+    "50cc-training-high-school-vietnam": [
+      "do-you-need-insurance-for-50cc-vietnam"
     ],
-    "delivery-rider-accessory-setup": [
-      "throttle-assist-long-rides"
+    "riding-electric-moped-16-vietnam": [
+      "electric-motorbike-fines-vietnam"
     ],
-    "gel-seat-pads-comfort-long-rides": [
-      "throttle-assist-long-rides"
+    "balancing-pillion-riding-motorbike-vietnam": [
+      "group-riding-motorbike-vietnam"
     ],
-    "quan-son-lake-motorbike-ride": [
-      "thung-nai-hoa-binh-lake-motorbike-day-trip"
+    "ba-dinh-area-guide-riders": [
+      "hai-ba-trung-area-guide-riders"
     ],
-    "fuel-efficient-riding-habits-underbone": [
-      "touring-semi-auto-underbone"
+    "hanoi-markets-motorbike-shopping": [
+      "hanoi-guided-motorbike-tours-vs-self-riding"
     ],
-    "how-to-launch-manual-bike-without-stalling": [
-      "two-up-clutch-technique-manual-motorbike"
+    "hanoi-night-markets-motorbike-guide": [
+      "hoan-kiem-walking-street-motorbike-visitors"
     ],
-    "portable-tyre-inflators-motorbike": [
-      "tyre-pressure-monitoring-systems-motorbikes"
+    "riding-honda-wave-alpha-110-guide": [
+      "honda-blade-drum-vs-disc"
     ],
-    "mudguard-extenders-rain-spray": [
-      "tyre-pressure-monitoring-systems-motorbikes"
+    "riding-honda-super-cub-c125-vietnam": [
+      "honda-ct125-touring-setup-guide"
     ],
-    "lending-motorbike-unlicensed-rider-vietnam": [
-      "underage-riding-penalties-vietnam"
+    "nui-coc-lake-thai-nguyen-motorbike-ride": [
+      "hung-kings-temple-phu-tho-motorbike-trip"
     ],
-    "motorbike-fines-vietnam-overview": [
-      "underage-riding-penalties-vietnam"
+    "second-helmet-passengers-vietnam": [
+      "kids-helmets-choosing-vietnam"
     ],
-    "engine-oil-drain-vs-overhaul-capacity-explained": [
-      "underbone-fuel-economy-figures-explained"
+    "students-semester-motorbike-rental-hanoi": [
+      "learning-to-ride-monthly-rental-hanoi"
     ],
-    "euro-emissions-underbones-vietnam": [
-      "underbone-fuel-tank-range-explained"
+    "choosing-motorbike-monthly-rental-hanoi": [
+      "monthly-rental-vs-ride-hailing-hanoi"
     ],
-    "underbone-trim-versions-explained": [
-      "underbone-model-years-explained"
+    "renting-motorbike-dong-da": [
+      "motorbike-delivery-long-bien"
     ],
-    "fuel-economy-test-cycles-explained": [
-      "underbone-model-years-explained"
+    "riding-rental-motorbike-hanoi-rain": [
+      "rental-motorbike-fuel-what-petrol"
     ],
-    "how-to-read-motorbike-spec-sheet-vietnam": [
-      "underbone-storage-options-explained"
+    "do-you-need-insurance-to-ride-vietnam": [
+      "rental-motorbike-fuel-what-petrol"
     ],
-    "kick-vs-electric-start-explained": [
-      "underbone-storage-options-explained"
+    "motorbike-rental-female-riders-hanoi": [
+      "renting-motorbike-hanoi-complete-beginner"
     ],
-    "list-price-vs-on-road-cost-vietnam": [
-      "underbone-tyre-sizes-explained"
+    "motorbike-rental-agreement-hanoi": [
+      "renting-motorbike-hanoi-tet-holidays"
     ],
-    "portable-jump-starter-packs-motorbikes": [
-      "variator-roller-upgrades-scooter"
+    "renting-motorbike-old-quarter": [
+      "renting-motorbike-hoan-kiem"
     ],
-    "radiator-guards-liquid-cooled": [
-      "variator-roller-upgrades-scooter"
+    "how-to-get-a1-licence-vietnam": [
+      "ride-125cc-with-car-licence-vietnam"
     ],
-    "long-distance-electric-motorbike-touring-vietnam": [
-      "vietnam-electric-two-wheeler-market-overview"
+    "sport-underbone-touring-vietnam": [
+      "riding-honda-wave-alpha-110-guide"
     ],
-    "hanoi-to-ho-chi-minh-city-by-motorbike": [
-      "vietnam-motorbike-backpacker-trail"
+    "hanoi-ceramic-mosaic-road-motorbike-route": [
+      "riding-motorbike-noi-bai-airport-hanoi"
+    ],
+    "dashcams-motorbike-riding-vietnam": [
+      "road-rage-aggressive-drivers-vietnam"
+    ],
+    "scooter-fuel-economy-comparison-vietnam": [
+      "scooter-fuel-economy-figures-explained"
+    ],
+    "euro-4-scooters-vietnam": [
+      "scooter-ground-clearance-compared-vietnam"
+    ],
+    "motorbike-travel-insurance-vietnam": [
+      "self-drive-vs-easy-rider-vietnam"
+    ],
+    "coasting-neutral-dangers-manual-motorbike": [
+      "semi-auto-to-manual-clutch-upgrade"
+    ],
+    "scooter-tyre-sizes-explained": [
+      "small-vs-big-scooter-wheels"
+    ],
+    "ba-vi-national-park-day-trip-motorbike": [
+      "tam-dao-vs-ba-vi-day-trip"
     ],
     "vietnam-monsoon-season-motorbike-travel": [
-      "vietnam-motorbike-backpacker-trail"
+      "tet-holiday-motorbike-travel-vietnam"
     ],
-    "ho-chi-minh-city-riding-first-timers": [
+    "hai-van-pass-motorbike-guide": [
+      "tet-holiday-motorbike-travel-vietnam"
+    ],
+    "soc-temple-soc-son-motorbike-ride": [
+      "thay-pagoda-tay-phuong-pagoda-motorbike-route"
+    ],
+    "clutch-technique-stop-and-go-traffic": [
+      "two-up-clutch-technique-manual-motorbike"
+    ],
+    "highway-1-vietnam-motorbike-riding": [
+      "vietnam-road-signs-guide"
+    ],
+    "vietnam-road-signs-guide": [
       "vietnam-traffic-culture-riding-overview"
     ],
-    "dat-bike-weaver-200-vs-weaver-plus-plus": [
-      "vinfast-evo-vs-feliz-2"
+    "helmet-intercoms-bluetooth-vietnam": [
+      "waterproof-document-pouches-motorbike"
     ],
-    "usb-chargers-motorbike-power": [
-      "water-bottle-holders-motorbike-commuters"
-    ],
-    "grab-rails-backrests-pillion-vietnam": [
-      "water-bottle-holders-motorbike-commuters"
-    ],
-    "steering-locks-effective-use": [
+    "disc-locks-chains-motorbike-security": [
       "weather-resistant-locks-motorbike"
     ],
-    "clutch-control-friction-zone-practice": [
-      "wet-weather-clutch-technique-manual-motorbike"
+    "alloy-vs-spoked-wheels-motorbikes": [
+      "why-17-inch-wheels-underbones"
     ],
-    "how-to-downshift-smoothly-manual-motorbike": [
-      "wet-weather-clutch-technique-manual-motorbike"
-    ],
-    "50cc-common-problems-first-year": [
-      "what-a-50cc-service-includes-vietnam"
-    ],
-    "best-scooters-delivery-riders-vietnam": [
-      "which-scooter-engine-class-vietnam"
-    ],
-    "honda-air-blade-125-vs-honda-vario-125": [
-      "yamaha-freego-125-vs-honda-air-blade-125"
-    ],
-    "honda-lead-vs-yamaha-grande": [
-      "yamaha-grande-vs-honda-vision"
-    ],
-    "yamaha-latte-vs-yamaha-grande": [
-      "yamaha-latte-125-vs-honda-lead-125",
-      "yamaha-latte-125-vs-yamaha-gear-125"
-    ],
-    "yamaha-gear-125-vs-yamaha-janus-125": [
-      "yamaha-latte-125-vs-yamaha-gear-125"
-    ],
-    "yamaha-nmax-155-vs-honda-vario-160": [
-      "yamaha-lexi-155-vs-honda-vario-160"
-    ],
-    "yamaha-nvx-155-vs-honda-air-blade-160": [
-      "yamaha-nmax-155-vs-honda-air-blade-160"
-    ],
-    "yamaha-lexi-155-vs-yamaha-nmax-155": [
-      "yamaha-nvx-155-vs-yamaha-lexi-155"
-    ],
-    "yamaha-pg-1-review": [
-      "yamaha-pg-1-vs-honda-wave-rsx"
-    ],
-    "yamaha-sirius-fi-vs-sirius-rc": [
-      "yamaha-pg-1-vs-yamaha-sirius-rc",
+    "winner-r-exciter-155-ownership-costs": [
       "yamaha-sirius-rc-110-learner-guide"
     ]
   }

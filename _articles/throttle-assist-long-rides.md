@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "riding-fatigue-motorbike-vietnam, best-motorbike-for-long-distance-vietnam, handlebar-vibration-motorbike, camping-gear-motorbike-trips"
+internal_link_targets: "riding-fatigue-motorbike-vietnam, best-motorbike-for-long-distance-vietnam, handlebar-vibration-motorbike, camping-gear-motorbike-trips, delivery-rider-accessory-setup"
 ---
 
 After a few hours on Vietnamese highways, your right wrist makes its opinions known. A throttle assist — a simple cradle or a locking lever — holds the throttle at a set opening and gives your hand a rest. It is a cheap accessory with one absolute rule: it is a comfort device, never an autopilot.

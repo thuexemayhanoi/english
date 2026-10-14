@@ -21,7 +21,7 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Articles 58, 59 (moped rider requirements)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 18 (age-related offences)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: 50cc-licence-vietnam, riding-50cc-at-16-vietnam, teaching-teens-50cc-safe-riding, learning-to-ride-on-50cc-vietnam
+internal_link_targets: "50cc-licence-vietnam, riding-50cc-at-16-vietnam, teaching-teens-50cc-safe-riding, learning-to-ride-on-50cc-vietnam, do-you-need-insurance-for-50cc-vietnam"
 ---
 
 Vietnam's answer to teenage moped riding is organised through schools, not through licence tests. Here is what the programme is — and, just as importantly, what it is not.

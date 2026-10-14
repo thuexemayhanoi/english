@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "motorbike-rental-deposit-hanoi, how-deposit-returns-work-hanoi, is-insurance-included-motorbike-rental-hanoi, theft-loss-responsibility-rental-motorbike-hanoi, late-return-rental-motorbike-hanoi"
+internal_link_targets: "motorbike-rental-deposit-hanoi, how-deposit-returns-work-hanoi, is-insurance-included-motorbike-rental-hanoi, theft-loss-responsibility-rental-motorbike-hanoi, late-return-rental-motorbike-hanoi, renting-motorbike-hanoi-tet-holidays"
 ---
 
 Most Hanoi motorbike rentals are concluded in a few minutes of conversation, and many smaller shops run on a handshake plus a deposit. But the terms still exist even when the paper does not, and agreeing them out loud before money changes hands is what protects both sides.

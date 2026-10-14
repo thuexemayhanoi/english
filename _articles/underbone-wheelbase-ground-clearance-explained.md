@@ -37,3 +37,5 @@ Blade: 141 mm. CT125: 165 mm. Winner R: 153 mm. CBR150R: 151 mm. Wave RSX: 135 m
 ## Choosing
 
 City-only riders can ignore clearance; anyone heading to the mountains should read it before anything else. The rental classes here (Wave and Sirius, 150,000 VND/day) sit in the 134 mm-and-under city zone - plan rough routes accordingly and contact us to confirm current availability of a specific model.
+
+Geometry matters most to taller riders: [Best Underbones for Tall Riders]({{ '/articles/best-underbones-tall-riders-verified/' | relative_url }}).

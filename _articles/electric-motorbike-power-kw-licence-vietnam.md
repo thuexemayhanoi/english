@@ -22,7 +22,7 @@ sources:
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — motor power figures for Amio, Evo, Feliz II and Viper"
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 product page — 6,000 W motor"
   - "docs/MODEL-DATABASE.md — verified electric rows (retrieved 2026-09-24)"
-internal_link_targets: electric-bike-licence-vietnam, electric-two-wheeler-speed-classes-vietnam, fast-electric-motorbike-licence-vietnam, hub-vs-mid-motor-electric-motorbikes, what-is-electric-motorbike-vietnam
+internal_link_targets: "electric-bike-licence-vietnam, electric-two-wheeler-speed-classes-vietnam, fast-electric-motorbike-licence-vietnam, hub-vs-mid-motor-electric-motorbikes, what-is-electric-motorbike-vietnam, can-you-ride-electric-motorbike-with-car-licence-vietnam"
 ---
 
 On a petrol bike, the licence question is cubic centimetres. On an electric, it is kilowatts — and the lines are drawn exactly. Under Article 57 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15), electric two-wheelers above 4 kW need an A1 licence (up to and including 11 kW) and an A licence above 11 kW. At 4 kW and under, designed for no more than 50 km/h, the machine sits in the moped class: no licence, rider at least 16. Pedal-assist bicycles whose power cuts at 25 km/h are non-motorised vehicles entirely.

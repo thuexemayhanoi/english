@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "night-riding-motorbike-safety-vietnam, winter-riding-motorbike-hanoi, defensive-riding-motorbike-vietnam, motorbike-night-lights-vietnam"
+internal_link_targets: "night-riding-motorbike-safety-vietnam, winter-riding-motorbike-hanoi, defensive-riding-motorbike-vietnam, motorbike-night-lights-vietnam, dust-dry-season-riding-vietnam"
 ---
 Northern Vietnam gets real fog: valley fog in the mountains, river fog along the Red River in the mornings, and winter haze that turns Hanoi into a grey murk for days. Fog is the purest visibility problem: the speed at which you can stop must be shorter than the distance at which you can see.
 

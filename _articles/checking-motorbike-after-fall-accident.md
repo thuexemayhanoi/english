@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "General guidance; damage assessment per qualified mechanic"
-internal_link_targets: "motorbike-handling-problems-wobble, leaking-fork-seals-motorbike, brake-checks-motorbike-vietnam, throttle-cable-free-play-motorbike"
+internal_link_targets: "motorbike-handling-problems-wobble, leaking-fork-seals-motorbike, brake-checks-motorbike-vietnam, throttle-cable-free-play-motorbike, servicing-before-long-trip-motorbike, electric-motorbike-maintenance-basics, high-usage-delivery-commuter-maintenance"
 ---
 
 After a fall — a slow drop in a parking lot or a real slide — the rider comes first: the human body's checks matter more than the machine's, and injuries hide from adrenaline. But once you are sure you are intact, the bike gets a disciplined inspection before it is trusted again. Most falls bend cheap things. Some bend expensive invisible things. The order below catches both.

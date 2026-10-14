@@ -44,3 +44,5 @@ The 156 km two-battery range sits slightly under the Evo's 165 km — the extra 
 ## Who it suits
 
 Riders who want the top of the licence-free class: more motor, better suspension and a security package that matters in city parking. Compare it directly with the Feliz II before deciding, and see our smart-features [guide]({{ '/articles/electric-motorbike-smart-features/' | relative_url }}) for what the connected kit means day to day.
+
+Head-to-head comparisons involving this model: [VinFast Viper vs Evo: Features vs Range in the Swap Family]({{ '/articles/vinfast-viper-vs-evo/' | relative_url }}); [VinFast Viper vs Feliz II: Tech Package vs Familiar Formula]({{ '/articles/vinfast-viper-vs-feliz-2/' | relative_url }}).

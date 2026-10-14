@@ -44,3 +44,7 @@ Resist riding an unfamiliar brand-new bike straight into rush hour. New brakes, 
 ## The renting comparison
 
 For stays measured in weeks or a few months, buying new, registering, insuring and then reselling is rarely worth it — monthly rental exists precisely for that window. The ownership-costs guide draws the line honestly. If you are on the renting side, contact us to confirm current availability.
+
+A trim decision worth making before the showroom: [Honda Blade Drum vs Disc]({{ '/articles/honda-blade-drum-vs-disc/' | relative_url }}).
+
+Another version decision at the dealer: [Yamaha Sirius FI vs Sirius RC]({{ '/articles/yamaha-sirius-fi-vs-sirius-rc/' | relative_url }}).
