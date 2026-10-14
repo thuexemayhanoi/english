@@ -4,7 +4,7 @@
     "P0": 0,
     "P1": 0,
     "P2": 4,
-    "P3": 384
+    "P3": 372
   },
   "findings": [
     {
@@ -468,13 +468,6 @@
       "url": "/articles/buying-used-electric-motorbike-vietnam/",
       "issue": "title longer than 65 chars",
       "fix": "Consider a shorter title"
-    },
-    {
-      "severity": "P3",
-      "file": "_articles/can-foreigners-rent-a-motorbike-hanoi.md",
-      "url": "/articles/can-foreigners-rent-a-motorbike-hanoi/",
-      "issue": "meta description longer than 165 chars",
-      "fix": "Consider a shorter description"
     },
     {
       "severity": "P3",
@@ -1339,13 +1332,6 @@
     },
     {
       "severity": "P3",
-      "file": "_articles/how-to-book-a-motorbike-rental-hanoi.md",
-      "url": "/articles/how-to-book-a-motorbike-rental-hanoi/",
-      "issue": "meta description longer than 165 chars",
-      "fix": "Consider a shorter description"
-    },
-    {
-      "severity": "P3",
       "file": "_articles/how-to-get-a1-licence-vietnam.md",
       "url": "/articles/how-to-get-a1-licence-vietnam/",
       "issue": "meta description longer than 165 chars",
@@ -1364,20 +1350,6 @@
       "url": "/articles/how-to-read-motorbike-spec-sheet-vietnam/",
       "issue": "title longer than 65 chars",
       "fix": "Consider a shorter title"
-    },
-    {
-      "severity": "P3",
-      "file": "_articles/how-to-rent-a-motorbike-hanoi.md",
-      "url": "/articles/how-to-rent-a-motorbike-hanoi/",
-      "issue": "title longer than 65 chars",
-      "fix": "Consider a shorter title"
-    },
-    {
-      "severity": "P3",
-      "file": "_articles/how-to-rent-a-motorbike-hanoi.md",
-      "url": "/articles/how-to-rent-a-motorbike-hanoi/",
-      "issue": "meta description longer than 165 chars",
-      "fix": "Consider a shorter description"
     },
     {
       "severity": "P3",
@@ -1633,13 +1605,6 @@
     },
     {
       "severity": "P3",
-      "file": "_articles/motorbike-delivery-old-quarter.md",
-      "url": "/articles/motorbike-delivery-old-quarter/",
-      "issue": "meta description longer than 165 chars",
-      "fix": "Consider a shorter description"
-    },
-    {
-      "severity": "P3",
       "file": "_articles/motorbike-engine-codes-explained.md",
       "url": "/articles/motorbike-engine-codes-explained/",
       "issue": "title longer than 65 chars",
@@ -1712,34 +1677,6 @@
       "severity": "P3",
       "file": "_articles/motorbike-rental-fuel-policy-hanoi.md",
       "url": "/articles/motorbike-rental-fuel-policy-hanoi/",
-      "issue": "meta description longer than 165 chars",
-      "fix": "Consider a shorter description"
-    },
-    {
-      "severity": "P3",
-      "file": "_articles/motorbike-rental-pickup-or-delivery-hanoi.md",
-      "url": "/articles/motorbike-rental-pickup-or-delivery-hanoi/",
-      "issue": "meta description longer than 165 chars",
-      "fix": "Consider a shorter description"
-    },
-    {
-      "severity": "P3",
-      "file": "_articles/motorbike-rental-price-hanoi.md",
-      "url": "/articles/motorbike-rental-price-hanoi/",
-      "issue": "meta description longer than 165 chars",
-      "fix": "Consider a shorter description"
-    },
-    {
-      "severity": "P3",
-      "file": "_articles/motorbike-rental-requirements-hanoi.md",
-      "url": "/articles/motorbike-rental-requirements-hanoi/",
-      "issue": "title longer than 65 chars",
-      "fix": "Consider a shorter title"
-    },
-    {
-      "severity": "P3",
-      "file": "_articles/motorbike-rental-requirements-hanoi.md",
-      "url": "/articles/motorbike-rental-requirements-hanoi/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -1985,20 +1922,6 @@
       "severity": "P3",
       "file": "_articles/rental-motorbike-inspection-checklist.md",
       "url": "/articles/rental-motorbike-inspection-checklist/",
-      "issue": "meta description longer than 165 chars",
-      "fix": "Consider a shorter description"
-    },
-    {
-      "severity": "P3",
-      "file": "_articles/renting-50cc-hanoi.md",
-      "url": "/articles/renting-50cc-hanoi/",
-      "issue": "meta description longer than 165 chars",
-      "fix": "Consider a shorter description"
-    },
-    {
-      "severity": "P3",
-      "file": "_articles/renting-a-motorbike-hanoi-without-licence.md",
-      "url": "/articles/renting-a-motorbike-hanoi-without-licence/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },
@@ -2510,13 +2433,6 @@
       "severity": "P3",
       "file": "_articles/vinfast-evo-lite-review.md",
       "url": "/articles/vinfast-evo-lite-review/",
-      "issue": "meta description longer than 165 chars",
-      "fix": "Consider a shorter description"
-    },
-    {
-      "severity": "P3",
-      "file": "_articles/vinfast-evo-lite-vs-amio.md",
-      "url": "/articles/vinfast-evo-lite-vs-amio/",
       "issue": "meta description longer than 165 chars",
       "fix": "Consider a shorter description"
     },

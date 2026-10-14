@@ -50,6 +50,15 @@ CURRENT remote main before acting. Never rely on remembered state.
   external report-only).
 - Code scanning: .github/workflows/codeql.yml (code only, never content).
 - Engine tests: scripts/seo-engine-test.js (fixture-based, production-safe).
+- English SEO Master Matrix: scripts/english-seo-matrix.js (consumes the tool
+  reports + docs/matrix/master-matrix.csv + docs/seo/keyword-targets.json;
+  writes docs/seo/english-seo-master-matrix.{csv,json,md} and
+  english-keyword-clusters.md). Status lives in docs/seo/matrix-status.json;
+  third-party metrics only in docs/seo/keyword-evidence.json (tool + date).
+  Progress log: docs/seo/english-seo-progress.md. Never invent metrics.
+- Link repair: scripts/link-bare-slugs.js (bare slug in prose -> contextual
+  link; exact matches only; dry run by default, --apply records
+  reports/link-bare-slugs.json). Not a rewrite tool.
 
 ## When extending the system
 
