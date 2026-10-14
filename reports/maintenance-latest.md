@@ -1,6 +1,6 @@
 # Automated Maintenance Report
 
-- Run timestamp (UTC): 2026-10-14T12:49:35.670Z
+- Run timestamp (UTC): 2026-10-14T14:39:45.628Z
 - MAIN SHA audited: unknown
 - Mode: audit only
 
@@ -27,7 +27,7 @@
 | SEO score | overall 96.9 (OK) |
 | SEO regression guard | pass (no metric regressed vs accepted baseline) |
 | SEO fix matrix | 2 root causes (5 findings, 0 auto-fixable, 2 review-only) |
-| English SEO matrix | P0=0 P1=4 P2=0 P3=999, content gaps 4 (unchanged) |
+| English SEO matrix | P0=0 P1=4 P2=0 P3=999, content gaps 6 (unchanged) |
 
 ## Counts per cluster
 

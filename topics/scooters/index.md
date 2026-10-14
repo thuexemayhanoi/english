@@ -1,9 +1,9 @@
 ---
 layout: cluster
-title: Scooters
+title: Scooters in Vietnam
 permalink: /topics/scooters/
 topic_cluster: scooters
-description: "Automatic scooter guides for Vietnam: Honda and Yamaha model reviews, comparisons and data-based choosing guides for Hanoi riding."
+description: "Automatic scooter guides for Vietnam: Honda and Yamaha model reviews, comparisons, which scooters to rent in Hanoi and data-based choosing guides for city riding."
 faq:
   - q: "What is the best scooter to rent in Vietnam?"
     a: "For most visitors a light automatic 110–125 cc scooter: the Honda Vision, Honda Click and Yamaha Mio are the scooters foreigners actually rent in Hanoi. The Vision is the most popular scooter in Vietnam for a reason: light, low seat, tidy under-seat storage and a shape that shrinks traffic gaps."

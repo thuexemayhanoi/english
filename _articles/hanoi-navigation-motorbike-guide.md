@@ -25,7 +25,7 @@ Hanoi has a reputation as unmappable, which is unfair: the city is extremely nav
 
 ## How Hanoi addresses work
 
-A Vietnamese address runs from general to specific: street number, street name, ward, district, city. So "112 Nguyen Van Cu, Bo De, Long Bien, Ha Noi" means: Nguyen Van Cu street, in the Bo De ward of the Long Bien area. Two things surprise foreigners:
+A Vietnamese address runs from general to specific: street number, street name, ward, district, city. So "112 Nguyen Van Cu Street, Bo De, Long Bien, Hanoi" means: number 112 on Nguyen Van Cu street, in the Bo De ward of the Long Bien area. Two things surprise foreigners:
 
 - **Numbers are not strictly sequential.** Street numbering exists but hopping occurs; numbers 40 and 112 may be a hundred metres apart in different blocks. Trust the number to confirm, not to navigate.
 - **The ward/district layer is how people actually think.** "It's in Tay Ho" narrows a search better than a postcode — Vietnam's postal codes exist but almost nobody uses them day to day.

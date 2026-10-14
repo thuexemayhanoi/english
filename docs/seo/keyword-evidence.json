@@ -1,653 +1,1824 @@
 {
-  "_about": "Recorded third-party keyword evidence consumed by scripts/english-seo-matrix.js (Evidence column). Every figure below was returned by a named tool on the stated date; nothing is estimated or extrapolated. Google Search Console for en.rentbikehanoi.com is still not connected (OpenRush and OpenSEO both report no connected property), so no first-party click/impression data exists for the English site yet.",
-  "_source": {
-    "tool": "Ubersuggest keyword_suggestions (free tier, global English, no location filter)",
-    "retrieved": "2026-10-14",
-    "calls": [
-      "seeds: motorbike rental hanoi | scooter rental hanoi | monthly motorbike rental hanoi",
-      "seeds: rent motorbike hanoi | motorbike rental vietnam | motorbike rental hanoi old quarter",
-      "OpenSEO get_keyword_metrics (DataForSEO, United States, English) 2026-10-14 — 40 keywords requested, 19 returned with data",
-      "OpenRush inspect_serp motorbike rental hanoi (United States) 2026-10-14",
-      "Ubersuggest domain_overview en.rentbikehanoi.com 2026-10-14"
-    ],
-    "notes": [
-      "volume = Ubersuggest monthly search volume (global); pd = paid difficulty; sd (SEO difficulty) was not returned on the free tier.",
-      "Ubersuggest reports 0 volume for 'monthly motorbike rental hanoi', 'long term motorbike rental vietnam' and '50cc motorbike rental vietnam'. A zero here means the tool has no data, not proof of zero demand; owner history records monthly rental as a recurring real enquiry theme (docs/CUSTOMER-INTENTS.md).",
-      "Competitor brand-name queries returned by the tool (other rental shops) are deliberately not recorded.",
-      "OpenSEO/DataForSEO volumes are US-market only and therefore much lower than the global Ubersuggest figures; both are recorded, neither is extrapolated.",
-      "Google Search Console is not connected on OpenRush or OpenSEO (checked 2026-10-14); an OpenSEO project exists for the domain so GSC can be connected later."
-    ]
+ "_about": "Recorded third-party keyword evidence consumed by scripts/english-seo-matrix.js (Evidence column). Every figure below was returned by a named tool on the stated date; nothing is estimated or extrapolated. Google Search Console for en.rentbikehanoi.com is still not connected (OpenRush and OpenSEO both report no connected property), so no first-party click/impression data exists for the English site yet. Zero-data / cold-start blocks added 2026-10-14: _serp_snapshot_commercial (live SERPs for the commercial queries), _competitors (organic competitor set + deep dive), _competitor_backlinks (link profiles, spam-filtered referring domains), _keyword_gap (competitor keyword gap summary), _content_formats (observed structure of ranking pages), _analysis (dated interpretation, not measurement). The on-topic keyword demand rows live in docs/seo/keyword-universe.json. scripts/english-seo-matrix.js consumes every _serp_snapshot* block and writes docs/seo/serp-landscape.md, keyword-universe.md and link-prospects.md from these blocks.",
+ "_source": {
+  "tool": "Ubersuggest keyword_suggestions (free tier, global English, no location filter)",
+  "retrieved": "2026-10-14",
+  "calls": [
+   "seeds: motorbike rental hanoi | scooter rental hanoi | monthly motorbike rental hanoi",
+   "seeds: rent motorbike hanoi | motorbike rental vietnam | motorbike rental hanoi old quarter",
+   "OpenSEO get_keyword_metrics (DataForSEO, United States, English) 2026-10-14 — 40 keywords requested, 19 returned with data",
+   "OpenRush inspect_serp motorbike rental hanoi (United States) 2026-10-14",
+   "Ubersuggest domain_overview en.rentbikehanoi.com 2026-10-14"
+  ],
+  "notes": [
+   "volume = Ubersuggest monthly search volume (global); pd = paid difficulty; sd (SEO difficulty) was not returned on the free tier.",
+   "Ubersuggest reports 0 volume for 'monthly motorbike rental hanoi', 'long term motorbike rental vietnam' and '50cc motorbike rental vietnam'. A zero here means the tool has no data, not proof of zero demand; owner history records monthly rental as a recurring real enquiry theme (docs/CUSTOMER-INTENTS.md).",
+   "Competitor brand-name queries returned by the tool (other rental shops) are deliberately not recorded.",
+   "OpenSEO/DataForSEO volumes are US-market only and therefore much lower than the global Ubersuggest figures; both are recorded, neither is extrapolated.",
+   "Google Search Console is not connected on OpenRush or OpenSEO (checked 2026-10-14); an OpenSEO project exists for the domain so GSC can be connected later."
+  ]
+ },
+ "/topics/rental/": {
+  "keyword": "motorbike rental hanoi",
+  "volume": 2900,
+  "cpc_usd": 0.32,
+  "paid_difficulty": 34,
+  "also": {
+   "rent motorbike hanoi": 2900,
+   "motorbike rental hanoi vietnam": 2900,
+   "motorbike rental hanoi near me": 20,
+   "best motorbike rental hanoi": 10
   },
-  "/topics/rental/": {
-    "keyword": "motorbike rental hanoi",
-    "volume": 2900,
-    "cpc_usd": 0.32,
-    "paid_difficulty": 34,
-    "also": {
-      "rent motorbike hanoi": 2900,
-      "motorbike rental hanoi vietnam": 2900,
-      "motorbike rental hanoi near me": 20,
-      "best motorbike rental hanoi": 10
-    },
-    "source": "Ubersuggest 2026-10-14",
-    "openseo_us": {
-      "tool": "OpenSEO/DataForSEO US",
-      "date": "2026-10-14",
-      "hanoi motorbike rental": {
-        "volume": 110,
-        "kd": 10,
-        "intent": "commercial"
-      },
-      "motorbike rental hanoi": {
-        "volume": 110,
-        "kd": 13,
-        "intent": "transactional"
-      },
-      "motorcycle rental hanoi": {
-        "volume": 110,
-        "kd": 10
-      },
-      "motorbike hire hanoi": {
-        "volume": 10
-      },
-      "best motorbike rental hanoi": {
-        "volume": 10
-      }
-    }
+  "source": "Ubersuggest 2026-10-14",
+  "openseo_us": {
+   "tool": "OpenSEO/DataForSEO US",
+   "date": "2026-10-14",
+   "hanoi motorbike rental": {
+    "volume": 110,
+    "kd": 10,
+    "intent": "commercial"
+   },
+   "motorbike rental hanoi": {
+    "volume": 110,
+    "kd": 13,
+    "intent": "transactional"
+   },
+   "motorcycle rental hanoi": {
+    "volume": 110,
+    "kd": 10
+   },
+   "motorbike hire hanoi": {
+    "volume": 10
+   },
+   "best motorbike rental hanoi": {
+    "volume": 10
+   }
+  }
+ },
+ "/articles/how-to-rent-a-motorbike-hanoi/": {
+  "keyword": "rent motorbike hanoi",
+  "volume": 2900,
+  "cpc_usd": 0.32,
+  "paid_difficulty": 34,
+  "source": "Ubersuggest 2026-10-14"
+ },
+ "/articles/best-scooters-to-rent-hanoi/": {
+  "keyword": "scooter rental hanoi",
+  "volume": 480,
+  "cpc_usd": 0.315,
+  "paid_difficulty": 53,
+  "also": {
+   "scooter rental hanoi price": 20,
+   "scooter rental hanoi old quarter": 20
   },
-  "/articles/how-to-rent-a-motorbike-hanoi/": {
-    "keyword": "rent motorbike hanoi",
-    "volume": 2900,
-    "cpc_usd": 0.32,
-    "paid_difficulty": 34,
-    "source": "Ubersuggest 2026-10-14"
-  },
-  "/articles/best-scooters-to-rent-hanoi/": {
-    "keyword": "scooter rental hanoi",
-    "volume": 480,
-    "cpc_usd": 0.315,
-    "paid_difficulty": 53,
-    "also": {
-      "scooter rental hanoi price": 20,
-      "scooter rental hanoi old quarter": 20
-    },
-    "source": "Ubersuggest 2026-10-14",
-    "openseo_us": {
-      "tool": "OpenSEO/DataForSEO US",
-      "date": "2026-10-14",
-      "hanoi scooter rental": {
-        "volume": 30,
-        "kd": 0
-      },
-      "rent scooter hanoi": {
-        "volume": 30,
-        "kd": 3
-      }
-    }
-  },
-  "/articles/renting-motorbike-old-quarter/": {
-    "keyword": "motorbike rental hanoi old quarter",
-    "volume": 40,
-    "cpc_usd": 0.365,
-    "paid_difficulty": 63,
-    "also": {
-      "scooter rental hanoi old quarter": 20
-    },
-    "source": "Ubersuggest 2026-10-14",
-    "openseo_us": {
-      "tool": "OpenSEO/DataForSEO US",
-      "date": "2026-10-14",
-      "motorbike rental hanoi old quarter": {
-        "volume": 10
-      }
-    }
-  },
-  "/articles/motorbike-rental-price-hanoi/": {
-    "keyword": "motorbike rental hanoi price",
-    "volume": 10,
-    "also": {
-      "scooter rental hanoi price": 20
-    },
-    "source": "Ubersuggest 2026-10-14",
-    "openseo_us": {
-      "tool": "OpenSEO/DataForSEO US",
-      "date": "2026-10-14",
-      "cheap motorbike rental hanoi": {
-        "volume": 10
-      },
-      "hanoi motorbike rental cost": {
-        "volume": 10
-      }
-    },
-    "paa": "How much is bike rental in Hanoi? (People Also Ask, OpenRush 2026-10-14)"
-  },
-  "/articles/renting-50cc-hanoi/": {
-    "keyword": "50cc scooter rental hanoi",
+  "source": "Ubersuggest 2026-10-14",
+  "openseo_us": {
+   "tool": "OpenSEO/DataForSEO US",
+   "date": "2026-10-14",
+   "hanoi scooter rental": {
     "volume": 30,
-    "cpc_usd": 0.315,
-    "paid_difficulty": 73,
-    "also": {
-      "50cc motorbike rental hanoi": "returned without volume"
-    },
-    "source": "Ubersuggest 2026-10-14",
-    "openseo_us": {
-      "tool": "OpenSEO/DataForSEO US",
-      "date": "2026-10-14",
-      "50cc scooter rental hanoi": {
-        "volume": 10
-      }
-    }
+    "kd": 0
+   },
+   "rent scooter hanoi": {
+    "volume": 30,
+    "kd": 3
+   }
+  }
+ },
+ "/articles/renting-motorbike-old-quarter/": {
+  "keyword": "motorbike rental hanoi old quarter",
+  "volume": 40,
+  "cpc_usd": 0.365,
+  "paid_difficulty": 63,
+  "also": {
+   "scooter rental hanoi old quarter": 20
   },
-  "/articles/can-foreigners-rent-electric-bike-vietnam/": {
-    "keyword": "electric scooter rental hanoi",
+  "source": "Ubersuggest 2026-10-14",
+  "openseo_us": {
+   "tool": "OpenSEO/DataForSEO US",
+   "date": "2026-10-14",
+   "motorbike rental hanoi old quarter": {
+    "volume": 10
+   }
+  }
+ },
+ "/articles/motorbike-rental-price-hanoi/": {
+  "keyword": "motorbike rental hanoi price",
+  "volume": 10,
+  "also": {
+   "scooter rental hanoi price": 20
+  },
+  "source": "Ubersuggest 2026-10-14",
+  "openseo_us": {
+   "tool": "OpenSEO/DataForSEO US",
+   "date": "2026-10-14",
+   "cheap motorbike rental hanoi": {
+    "volume": 10
+   },
+   "hanoi motorbike rental cost": {
+    "volume": 10
+   }
+  },
+  "paa": "How much is bike rental in Hanoi? (People Also Ask, OpenRush 2026-10-14)"
+ },
+ "/articles/renting-50cc-hanoi/": {
+  "keyword": "50cc scooter rental hanoi",
+  "volume": 30,
+  "cpc_usd": 0.315,
+  "paid_difficulty": 73,
+  "also": {
+   "50cc motorbike rental hanoi": "returned without volume"
+  },
+  "source": "Ubersuggest 2026-10-14",
+  "openseo_us": {
+   "tool": "OpenSEO/DataForSEO US",
+   "date": "2026-10-14",
+   "50cc scooter rental hanoi": {
+    "volume": 10
+   }
+  }
+ },
+ "/articles/can-foreigners-rent-electric-bike-vietnam/": {
+  "keyword": "electric scooter rental hanoi",
+  "volume": 10,
+  "cpc_usd": 0.37,
+  "paid_difficulty": 63,
+  "also": {
+   "electric motorbike rental hanoi": "returned without volume",
+   "e scooter rental hanoi": "returned without volume"
+  },
+  "source": "Ubersuggest 2026-10-14",
+  "openseo_us": {
+   "tool": "OpenSEO/DataForSEO US",
+   "date": "2026-10-14",
+   "electric scooter rental hanoi": {
+    "volume": 10
+   },
+   "electric motorbike rental hanoi": {
+    "volume": null,
+    "note": "no data"
+   }
+  }
+ },
+ "/articles/monthly-motorbike-rental-hanoi/": {
+  "keyword": "monthly motorbike rental hanoi",
+  "volume": 0,
+  "note": "tool has no volume data; owner history records monthly rental as a recurring real enquiry theme",
+  "source": "Ubersuggest 2026-10-14"
+ },
+ "/topics/monthly-rental/": {
+  "keyword": "long term motorbike rental vietnam",
+  "volume": 0,
+  "note": "tool has no volume data; owner history records long-term rental as a recurring real enquiry theme",
+  "source": "Ubersuggest 2026-10-14"
+ },
+ "/topics/vietnam-travel/": {
+  "keyword": "motorbike rental vietnam",
+  "volume": 5400,
+  "cpc_usd": 0.305,
+  "paid_difficulty": 9,
+  "also": {
+   "one way motorbike rental vietnam": 50,
+   "motorbike rental vietnam hanoi": 10,
+   "motorbike rental vietnam ho chi minh": 20
+  },
+  "source": "Ubersuggest 2026-10-14",
+  "openseo_us": {
+   "tool": "OpenSEO/DataForSEO US",
+   "date": "2026-10-14",
+   "motorbike rental vietnam": {
+    "volume": 320,
+    "kd": 20,
+    "intent": "transactional"
+   },
+   "renting a motorbike in vietnam": {
+    "volume": 320,
+    "kd": 22
+   },
+   "scooter rental vietnam": {
+    "volume": 90,
+    "kd": 0
+   }
+  }
+ },
+ "/articles/one-way-motorbike-rental-vietnam/": {
+  "keyword": "one way motorbike rental vietnam",
+  "volume": 50,
+  "cpc_usd": 0.47,
+  "paid_difficulty": 17,
+  "also": {
+   "rent motorbike hanoi to ho chi minh": 30,
+   "motorbike rental hanoi to ho chi minh": 30
+  },
+  "source": "Ubersuggest 2026-10-14",
+  "openseo_us": {
+   "tool": "OpenSEO/DataForSEO US",
+   "date": "2026-10-14",
+   "one way motorbike rental vietnam": {
     "volume": 10,
-    "cpc_usd": 0.37,
-    "paid_difficulty": 63,
-    "also": {
-      "electric motorbike rental hanoi": "returned without volume",
-      "e scooter rental hanoi": "returned without volume"
-    },
-    "source": "Ubersuggest 2026-10-14",
-    "openseo_us": {
-      "tool": "OpenSEO/DataForSEO US",
-      "date": "2026-10-14",
-      "electric scooter rental hanoi": {
-        "volume": 10
-      },
-      "electric motorbike rental hanoi": {
-        "volume": null,
-        "note": "no data"
-      }
-    }
-  },
-  "/articles/monthly-motorbike-rental-hanoi/": {
-    "keyword": "monthly motorbike rental hanoi",
-    "volume": 0,
-    "note": "tool has no volume data; owner history records monthly rental as a recurring real enquiry theme",
-    "source": "Ubersuggest 2026-10-14"
-  },
-  "/topics/monthly-rental/": {
-    "keyword": "long term motorbike rental vietnam",
-    "volume": 0,
-    "note": "tool has no volume data; owner history records long-term rental as a recurring real enquiry theme",
-    "source": "Ubersuggest 2026-10-14"
-  },
-  "/topics/vietnam-travel/": {
-    "keyword": "motorbike rental vietnam",
-    "volume": 5400,
-    "cpc_usd": 0.305,
-    "paid_difficulty": 9,
-    "also": {
-      "one way motorbike rental vietnam": 50,
-      "motorbike rental vietnam hanoi": 10,
-      "motorbike rental vietnam ho chi minh": 20
-    },
-    "source": "Ubersuggest 2026-10-14",
-    "openseo_us": {
-      "tool": "OpenSEO/DataForSEO US",
-      "date": "2026-10-14",
-      "motorbike rental vietnam": {
-        "volume": 320,
-        "kd": 20,
-        "intent": "transactional"
-      },
-      "renting a motorbike in vietnam": {
-        "volume": 320,
-        "kd": 22
-      },
-      "scooter rental vietnam": {
-        "volume": 90,
-        "kd": 0
-      }
-    }
-  },
-  "/articles/one-way-motorbike-rental-vietnam/": {
-    "keyword": "one way motorbike rental vietnam",
+    "kd": null
+   }
+  }
+ },
+ "/articles/renting-motorbike-ho-chi-minh-city/": {
+  "keyword": "motorbike rental vietnam ho chi minh",
+  "volume": 20,
+  "cpc_usd": 0.215,
+  "paid_difficulty": 21,
+  "source": "Ubersuggest 2026-10-14"
+ },
+ "_domain_baseline": {
+  "tool": "Ubersuggest domain_overview",
+  "date": "2026-10-14",
+  "domain": "en.rentbikehanoi.com",
+  "organic_keywords": 0,
+  "organic_traffic": 0,
+  "domain_authority": 2,
+  "backlinks": 28,
+  "referring_domains": 23,
+  "note": "The English site is not yet present in the third-party ranking index: every figure here is a starting line, not a ranking."
+ },
+ "_serp_snapshot": {
+  "tool": "OpenRush inspect_serp",
+  "date": "2026-10-14",
+  "query": "motorbike rental hanoi",
+  "market": "United States",
+  "features": [
+   "local_pack",
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ],
+  "people_also_ask": [
+   "How much is bike rental in Hanoi?",
+   "Is motorcycle rental cheaper than car rental?",
+   "What is the most famous motorbike loop in Vietnam?",
+   "Can tourists ride motorcycles in Vietnam?"
+  ],
+  "related_searches": [
+   "Electric motorbike rental hanoi",
+   "Motorbike rental Hanoi Old Quarter",
+   "Vietnam motorbike rental one way",
+   "Motorbike rental Ho Chi Minh",
+   "Hanoi motorbike rental cost",
+   "One way motorbike rental Hanoi",
+   "Motorbike rental Hanoi Reddit"
+  ],
+  "organic_top": [
+   "theextramile.co",
+   "travelchinaguide.com/asia/vietnam/hanoi/motorbike-rental.htm",
+   "riderly.com",
+   "facebook.com (groups)",
+   "tripadvisor.com",
+   "motorbikenguyentu.wikidot.com (position 7: the business legacy page)",
+   "hanoimidorihomes.com",
+   "bestpricetravel.com"
+  ],
+  "note": "Local pack with three rental shops sits above organic; no featured snippet or AI overview observed."
+ },
+ "/topics/law-licences/": {
+  "openseo_us": {
+   "tool": "OpenSEO/DataForSEO US",
+   "date": "2026-10-14",
+   "vietnam motorbike license": {
     "volume": 50,
-    "cpc_usd": 0.47,
-    "paid_difficulty": 17,
-    "also": {
-      "rent motorbike hanoi to ho chi minh": 30,
-      "motorbike rental hanoi to ho chi minh": 30
+    "kd": 0,
+    "intent": "informational"
+   }
+  }
+ },
+ "/articles/can-tourists-ride-motorbike-vietnam/": {
+  "keyword": "can tourists ride motorcycles in vietnam",
+  "note": "People Also Ask question on the motorbike rental hanoi SERP (OpenRush 2026-10-14)",
+  "source": "OpenRush inspect_serp 2026-10-14"
+ },
+ "_site_audits": [
+  {
+   "tool": "OpenRush audit_site",
+   "date": "2026-10-14",
+   "domain": "en.rentbikehanoi.com",
+   "commit": "e7f02be",
+   "discovery": "robots_sitemap",
+   "pages_discovered": 1003,
+   "pages_audited": 20,
+   "onpage_score": 96.8,
+   "issues": {
+    "high": 0,
+    "medium": 0,
+    "low": 2
+   },
+   "low_issues": [
+    {
+     "issue": "no_image_alt",
+     "affected_pages": 20,
+     "review": "intentional: the only images without descriptive alt are the decorative header and assistant logos, which carry alt=\"\" and aria-hidden=\"true\" next to visible text; every content image has descriptive alt. No change."
     },
-    "source": "Ubersuggest 2026-10-14",
-    "openseo_us": {
-      "tool": "OpenSEO/DataForSEO US",
-      "date": "2026-10-14",
-      "one way motorbike rental vietnam": {
-        "volume": 10,
-        "kd": null
-      }
+    {
+     "issue": "title_too_long",
+     "affected_pages": 1,
+     "sample": "/articles/50cc-fines-vietnam/",
+     "review": "the tool measures the full <title> including the \" | Hanoi Motorbike Guide\" suffix (85 chars); the article title itself is 61 chars, inside the site rule of 65. No change."
     }
+   ],
+   "note": "Technical health only (raw HTML, no JS, no Core Web Vitals); rankings/traffic for the domain remain unmeasured by every connector on this date."
   },
-  "/articles/renting-motorbike-ho-chi-minh-city/": {
-    "keyword": "motorbike rental vietnam ho chi minh",
-    "volume": 20,
-    "cpc_usd": 0.215,
-    "paid_difficulty": 21,
-    "source": "Ubersuggest 2026-10-14"
+  {
+   "tool": "Ubersuggest site_audit",
+   "date": "2026-10-14",
+   "domain": "en.rentbikehanoi.com",
+   "commit": "1cc14ef",
+   "pages_crawled": 150,
+   "overall_score": 90,
+   "health": {
+    "successful": 150,
+    "broken": 0,
+    "redirected": 0,
+    "blocked": 0
+   },
+   "errors": [
+    {
+     "issue": "content_count_words",
+     "pages": 1,
+     "sample": "/search/",
+     "review": "utility search page (125 words); stays indexable by site rule, no change"
+    }
+   ],
+   "warnings": [
+    {
+     "issue": "title_long",
+     "pages": 111,
+     "review": "the tool measures the full <title> including the \" | Hanoi Motorbike Guide\" suffix; fixed in pass 6 by appending the suffix only when the whole title fits 65 characters"
+    },
+    {
+     "issue": "title_short",
+     "pages": 1,
+     "sample": "/",
+     "review": "homepage title was the bare site name (21 chars); fixed in pass 6 with a keyword-bearing title tag"
+    },
+    {
+     "issue": "seo_non_friendly_url",
+     "pages": 2,
+     "sample": "/articles/, /articles/balancing-pillion-riding-motorbike-vietnam/",
+     "review": "URLs are never changed; both are clean lowercase hyphenated paths, treated as a tool heuristic"
+    }
+   ],
+   "note": "Technical crawl of the first 150 URLs; no rankings or traffic are measurable for the domain on this date."
   },
-  "_domain_baseline": {
-    "tool": "Ubersuggest domain_overview",
-    "date": "2026-10-14",
-    "domain": "en.rentbikehanoi.com",
-    "organic_keywords": 0,
-    "organic_traffic": 0,
-    "domain_authority": 2,
-    "backlinks": 28,
-    "referring_domains": 23,
-    "note": "The English site is not yet present in the third-party ranking index: every figure here is a starting line, not a ranking."
-  },
-  "_serp_snapshot": {
-    "tool": "OpenRush inspect_serp",
-    "date": "2026-10-14",
-    "query": "motorbike rental hanoi",
-    "market": "United States",
+  {
+   "tool": "Lighthouse 12 (local, built tree served statically, mobile emulation)",
+   "date": "2026-10-14",
+   "commit": "160a2d5 -> pass 7",
+   "pages": {
+    "/": {
+     "before": {
+      "performance": 98,
+      "seo": 100,
+      "accessibility": 86,
+      "best_practices": 100
+     },
+     "after": {
+      "performance": 98,
+      "seo": 100,
+      "accessibility": 100,
+      "best_practices": 100
+     },
+     "vitals": {
+      "fcp": "1.5 s",
+      "lcp": "2.3 s",
+      "tbt": "20 ms",
+      "cls": 0
+     }
+    },
+    "/topics/rental/": {
+     "before": {
+      "performance": 98,
+      "seo": 100,
+      "accessibility": 89,
+      "best_practices": 100
+     }
+    },
+    "/articles/how-to-rent-a-motorbike-hanoi/": {
+     "before": {
+      "performance": 99,
+      "seo": 100,
+      "accessibility": 84,
+      "best_practices": 100
+     },
+     "after": {
+      "performance": 99,
+      "seo": 100,
+      "accessibility": 100,
+      "best_practices": 100
+     },
+     "vitals": {
+      "fcp": "1.5 s",
+      "lcp": "1.8 s",
+      "tbt": "40 ms",
+      "cls": 0
+     }
+    }
+   },
+   "fixed": [
+    "color-contrast: .searchbar button lost its text colour to a line break inside var(--accent-ink) in main.css (rendered black on red, 4.1:1); WhatsApp button white on #1ea952 was 3.06:1, token darkened to #11813a (4.98:1) with a --wa-ink token for dark mode",
+    "button-name: the assistant button hides its text label on small screens; aria-label added",
+    "aria-hidden-focus: contact sheet and assistant panel are aria-hidden while containing focusable links; both now carry inert and the open/close scripts toggle it"
+   ],
+   "note": "text compression, cache TTL and minification findings are artefacts of the local static server (GitHub Pages serves compressed assets with cache headers) and were not acted on; render-blocking CSS (~0.4 s simulated) left as is at performance 98-99."
+  }
+ ],
+ "_serp_snapshot_hubs": {
+  "tool": "OpenRush inspect_serp",
+  "date": "2026-10-14",
+  "market": "United States",
+  "note": "People-also-ask and related searches used to choose the Common questions on the informational hubs; every answer is drawn from OWNER-FACTS or a VERIFIED article. AI overviews were present on all five queries; no local pack.",
+  "queries": [
+   {
+    "query": "is it safe to ride a motorbike in vietnam",
     "features": [
-      "local_pack",
-      "organic",
-      "people_also_ask",
-      "related_searches"
+     "ai_overview",
+     "organic",
+     "people_also_ask",
+     "video",
+     "related_searches"
     ],
     "people_also_ask": [
-      "How much is bike rental in Hanoi?",
-      "Is motorcycle rental cheaper than car rental?",
-      "What is the most famous motorbike loop in Vietnam?",
-      "Can tourists ride motorcycles in Vietnam?"
+     "Can tourists ride motorbikes in Vietnam?",
+     "What is the #1 cause of death in Vietnam?",
+     "Is $1000 enough for 2 weeks in Vietnam?",
+     "Where do 70% of motorcycle accidents occur?"
     ],
     "related_searches": [
-      "Electric motorbike rental hanoi",
-      "Motorbike rental Hanoi Old Quarter",
-      "Vietnam motorbike rental one way",
-      "Motorbike rental Ho Chi Minh",
-      "Hanoi motorbike rental cost",
-      "One way motorbike rental Hanoi",
-      "Motorbike rental Hanoi Reddit"
+     "Can I ride a motorbike in Vietnam with a UK license",
+     "Can I drive a motorcycle in Vietnam with an international license",
+     "Motorbike Vietnam price",
+     "50cc motorbike Vietnam",
+     "Vietnam motorcycle trip"
     ],
     "organic_top": [
-      "theextramile.co",
-      "travelchinaguide.com/asia/vietnam/hanoi/motorbike-rental.htm",
-      "riderly.com",
-      "facebook.com (groups)",
-      "tripadvisor.com",
-      "motorbikenguyentu.wikidot.com (position 7: the business legacy page)",
-      "hanoimidorihomes.com",
-      "bestpricetravel.com"
-    ],
-    "note": "Local pack with three rental shops sits above organic; no featured snippet or AI overview observed."
-  },
-  "/topics/law-licences/": {
-    "openseo_us": {
-      "tool": "OpenSEO/DataForSEO US",
-      "date": "2026-10-14",
-      "vietnam motorbike license": {
-        "volume": 50,
-        "kd": 0,
-        "intent": "informational"
-      }
-    }
-  },
-  "/articles/can-tourists-ride-motorbike-vietnam/": {
-    "keyword": "can tourists ride motorcycles in vietnam",
-    "note": "People Also Ask question on the motorbike rental hanoi SERP (OpenRush 2026-10-14)",
-    "source": "OpenRush inspect_serp 2026-10-14"
-  },
-  "_site_audits": [
-    {
-      "tool": "OpenRush audit_site",
-      "date": "2026-10-14",
-      "domain": "en.rentbikehanoi.com",
-      "commit": "e7f02be",
-      "discovery": "robots_sitemap",
-      "pages_discovered": 1003,
-      "pages_audited": 20,
-      "onpage_score": 96.8,
-      "issues": {
-        "high": 0,
-        "medium": 0,
-        "low": 2
-      },
-      "low_issues": [
-        {
-          "issue": "no_image_alt",
-          "affected_pages": 20,
-          "review": "intentional: the only images without descriptive alt are the decorative header and assistant logos, which carry alt=\"\" and aria-hidden=\"true\" next to visible text; every content image has descriptive alt. No change."
-        },
-        {
-          "issue": "title_too_long",
-          "affected_pages": 1,
-          "sample": "/articles/50cc-fines-vietnam/",
-          "review": "the tool measures the full <title> including the \" | Hanoi Motorbike Guide\" suffix (85 chars); the article title itself is 61 chars, inside the site rule of 65. No change."
-        }
-      ],
-      "note": "Technical health only (raw HTML, no JS, no Core Web Vitals); rankings/traffic for the domain remain unmeasured by every connector on this date."
-    },
-    {
-      "tool": "Ubersuggest site_audit",
-      "date": "2026-10-14",
-      "domain": "en.rentbikehanoi.com",
-      "commit": "1cc14ef",
-      "pages_crawled": 150,
-      "overall_score": 90,
-      "health": {
-        "successful": 150,
-        "broken": 0,
-        "redirected": 0,
-        "blocked": 0
-      },
-      "errors": [
-        {
-          "issue": "content_count_words",
-          "pages": 1,
-          "sample": "/search/",
-          "review": "utility search page (125 words); stays indexable by site rule, no change"
-        }
-      ],
-      "warnings": [
-        {
-          "issue": "title_long",
-          "pages": 111,
-          "review": "the tool measures the full <title> including the \" | Hanoi Motorbike Guide\" suffix; fixed in pass 6 by appending the suffix only when the whole title fits 65 characters"
-        },
-        {
-          "issue": "title_short",
-          "pages": 1,
-          "sample": "/",
-          "review": "homepage title was the bare site name (21 chars); fixed in pass 6 with a keyword-bearing title tag"
-        },
-        {
-          "issue": "seo_non_friendly_url",
-          "pages": 2,
-          "sample": "/articles/, /articles/balancing-pillion-riding-motorbike-vietnam/",
-          "review": "URLs are never changed; both are clean lowercase hyphenated paths, treated as a tool heuristic"
-        }
-      ],
-      "note": "Technical crawl of the first 150 URLs; no rankings or traffic are measurable for the domain on this date."
-    },
-    {
-      "tool": "Lighthouse 12 (local, built tree served statically, mobile emulation)",
-      "date": "2026-10-14",
-      "commit": "160a2d5 -> pass 7",
-      "pages": {
-        "/": {
-          "before": {
-            "performance": 98,
-            "seo": 100,
-            "accessibility": 86,
-            "best_practices": 100
-          },
-          "after": {
-            "performance": 98,
-            "seo": 100,
-            "accessibility": 100,
-            "best_practices": 100
-          },
-          "vitals": {
-            "fcp": "1.5 s",
-            "lcp": "2.3 s",
-            "tbt": "20 ms",
-            "cls": 0
-          }
-        },
-        "/topics/rental/": {
-          "before": {
-            "performance": 98,
-            "seo": 100,
-            "accessibility": 89,
-            "best_practices": 100
-          }
-        },
-        "/articles/how-to-rent-a-motorbike-hanoi/": {
-          "before": {
-            "performance": 99,
-            "seo": 100,
-            "accessibility": 84,
-            "best_practices": 100
-          },
-          "after": {
-            "performance": 99,
-            "seo": 100,
-            "accessibility": 100,
-            "best_practices": 100
-          },
-          "vitals": {
-            "fcp": "1.5 s",
-            "lcp": "1.8 s",
-            "tbt": "40 ms",
-            "cls": 0
-          }
-        }
-      },
-      "fixed": [
-        "color-contrast: .searchbar button lost its text colour to a line break inside var(--accent-ink) in main.css (rendered black on red, 4.1:1); WhatsApp button white on #1ea952 was 3.06:1, token darkened to #11813a (4.98:1) with a --wa-ink token for dark mode",
-        "button-name: the assistant button hides its text label on small screens; aria-label added",
-        "aria-hidden-focus: contact sheet and assistant panel are aria-hidden while containing focusable links; both now carry inert and the open/close scripts toggle it"
-      ],
-      "note": "text compression, cache TTL and minification findings are artefacts of the local static server (GitHub Pages serves compressed assets with cache headers) and were not acted on; render-blocking CSS (~0.4 s simulated) left as is at performance 98-99."
-    }
-  ],
-  "_serp_snapshot_hubs": {
-    "tool": "OpenRush inspect_serp",
-    "date": "2026-10-14",
-    "market": "United States",
-    "note": "People-also-ask and related searches used to choose the Common questions on the informational hubs; every answer is drawn from OWNER-FACTS or a VERIFIED article. AI overviews were present on all five queries; no local pack.",
-    "queries": [
-      {
-        "query": "is it safe to ride a motorbike in vietnam",
-        "features": [
-          "ai_overview",
-          "organic",
-          "people_also_ask",
-          "video",
-          "related_searches"
-        ],
-        "people_also_ask": [
-          "Can tourists ride motorbikes in Vietnam?",
-          "What is the #1 cause of death in Vietnam?",
-          "Is $1000 enough for 2 weeks in Vietnam?",
-          "Where do 70% of motorcycle accidents occur?"
-        ],
-        "related_searches": [
-          "Can I ride a motorbike in Vietnam with a UK license",
-          "Can I drive a motorcycle in Vietnam with an international license",
-          "Motorbike Vietnam price",
-          "50cc motorbike Vietnam",
-          "Vietnam motorcycle trip"
-        ],
-        "organic_top": [
-          "reddit.com",
-          "facebook.com (groups)",
-          "madornomad.com",
-          "en.wikivoyage.org",
-          "ethosspirit.com",
-          "quora.com",
-          "vietnam-motorbiketour.com",
-          "medium.com"
-        ]
-      },
-      {
-        "query": "best scooter to rent in vietnam",
-        "features": [
-          "ai_overview",
-          "organic",
-          "people_also_ask",
-          "video",
-          "related_searches"
-        ],
-        "people_also_ask": [
-          "What is the best scooter to ride in Vietnam?",
-          "How much does it cost to rent a scooter in Vietnam?",
-          "Do I need a license to rent a scooter in Vietnam?",
-          "How much is a VinFast scooter in Vietnam?"
-        ],
-        "related_searches": [
-          "Best scooter to rent in vietnam for a day",
-          "Scooter rental Vietnam price",
-          "50cc scooter Vietnam",
-          "Vietnam scooter rental Ho Chi Minh",
-          "50cc scooter rental Vietnam"
-        ],
-        "organic_top": [
-          "reddit.com",
-          "facebook.com (groups)",
-          "rentabikevn.com",
-          "pelago.com",
-          "izigo.vn",
-          "mitunsaufreisen.de",
-          "theextramile.co",
-          "theunknownenthusiast.com"
-        ]
-      },
-      {
-        "query": "50cc motorbike vietnam licence",
-        "features": [
-          "ai_overview",
-          "organic",
-          "people_also_ask",
-          "video",
-          "related_searches"
-        ],
-        "people_also_ask": [
-          "How to get a motorbike license in Vietnam?",
-          "What is the youngest age to drive a motorcycle?",
-          "Can I rent a 50cc scooter in Vietnam?",
-          "What is the most popular motorbike in Vietnam?"
-        ],
-        "related_searches": [
-          "50cc motorbike vietnam licence rules",
-          "50cc motorbike vietnam licence requirements",
-          "50cc motorbike vietnam licence test"
-        ],
-        "organic_top": [
-          "tripadvisor.com",
-          "facebook.com (groups)",
-          "theextramile.co",
-          "reddit.com",
-          "duyanhmotorbikes.com",
-          "youtube.com",
-          "traveldudes.com",
-          "travel.stackexchange.com"
-        ]
-      },
-      {
-        "query": "vietnam motorbike trip",
-        "features": [
-          "ai_overview",
-          "organic",
-          "people_also_ask",
-          "video",
-          "related_searches"
-        ],
-        "people_also_ask": [
-          "How much is a motorcycle trip in Vietnam?",
-          "What is the most famous bike trip in Vietnam?",
-          "Can tourists ride motorcycles in Vietnam?",
-          "Is the Ha Giang loop scary?"
-        ],
-        "related_searches": [
-          "Vietnam motorbike trip packages",
-          "Vietnam motorbike trip itinerary",
-          "Vietnam motorbike Loop",
-          "10 day motorbike trip Vietnam",
-          "Vietnam motorbike rental"
-        ],
-        "organic_top": [
-          "onyabikeadventures.com",
-          "reddit.com",
-          "vietnamas.info",
-          "motorbiketourexpert.com",
-          "nytimes.com",
-          "tripadvisor.com",
-          "vietnamcoracle.com",
-          "madornomad.com"
-        ]
-      },
-      {
-        "query": "riding a motorbike in hanoi",
-        "features": [
-          "ai_overview",
-          "organic",
-          "video",
-          "people_also_ask",
-          "discussions_and_forums",
-          "related_searches"
-        ],
-        "people_also_ask": [
-          "Can foreigners ride motorbikes in Vietnam?",
-          "What is the 12 second rule for motorcycles?",
-          "What does 2 fingers down mean to bikers?",
-          "Can tourists rent a motorbike in Vietnam?"
-        ],
-        "related_searches": [
-          "Motorcycle Vietnam tour",
-          "Best motorcycle rental hanoi",
-          "Motorbike Vietnam price",
-          "Can I ride a motorbike in Vietnam with a UK license",
-          "Vietnam motorbike rental",
-          "Motorbike rental Hanoi Reddit"
-        ],
-        "organic_top": [
-          "reddit.com",
-          "petersbigadventure.com",
-          "yourfriendthenomad.com",
-          "ethosspirit.com",
-          "madornomad.com",
-          "getyourguide.com",
-          "youtube.com"
-        ]
-      }
+     "reddit.com",
+     "facebook.com (groups)",
+     "madornomad.com",
+     "en.wikivoyage.org",
+     "ethosspirit.com",
+     "quora.com",
+     "vietnam-motorbiketour.com",
+     "medium.com"
     ]
-  },
-  "_tracking": {
-    "tool": "Ubersuggest project + AI Search Visibility brand",
-    "date": "2026-10-14",
-    "project_id": "b07588da4660a0dd20838a6ec9e77a69158cb6ec32ea21600d1468c2d5ec7271",
-    "domain": "en.rentbikehanoi.com",
-    "market": "Vietnam (loc_id 2704), English",
-    "update_frequency": "rankings weekly; AI visibility monthly",
-    "keywords": [
-      "motorbike rental hanoi",
-      "hanoi motorbike rental",
-      "rent motorbike hanoi",
-      "scooter rental hanoi",
-      "motorbike rental hanoi price",
-      "monthly motorbike rental hanoi",
-      "motorbike rental hanoi old quarter",
-      "electric bike rental hanoi",
-      "rent a scooter in hanoi",
-      "motorbike hire hanoi",
-      "motorbike rental vietnam",
-      "can tourists ride motorbike in vietnam",
-      "vietnam motorbike licence for foreigners",
-      "international driving permit vietnam motorbike",
-      "a1 licence vietnam",
-      "50cc motorbike vietnam licence",
-      "motorbike rental requirements hanoi",
-      "motorbike rental deposit hanoi",
-      "honda vision rental hanoi",
-      "best scooter to rent in vietnam",
-      "renting a motorbike in hanoi as a tourist",
-      "hanoi motorbike rental for expats",
-      "how much to rent a motorbike in hanoi",
-      "motorbike rental noi bai airport",
-      "one way motorbike rental vietnam"
+   },
+   {
+    "query": "best scooter to rent in vietnam",
+    "features": [
+     "ai_overview",
+     "organic",
+     "people_also_ask",
+     "video",
+     "related_searches"
     ],
-    "competitors": [
-      "tigitmotorbikes.com",
-      "flamingoscooters.com"
+    "people_also_ask": [
+     "What is the best scooter to ride in Vietnam?",
+     "How much does it cost to rent a scooter in Vietnam?",
+     "Do I need a license to rent a scooter in Vietnam?",
+     "How much is a VinFast scooter in Vietnam?"
     ],
-    "ai_visibility_prompts": [
-      "Where can I rent a motorbike in Hanoi as a tourist?",
-      "How much does it cost to rent a scooter in Hanoi?",
-      "Which Hanoi shop offers monthly motorbike rental for expats?",
-      "What documents do I need to rent a motorbike in Hanoi?",
-      "Can I rent an electric bike in Hanoi?",
-      "Can tourists legally ride a motorbike in Vietnam?",
-      "What licence do I need for a 125cc scooter in Vietnam?",
-      "Is an international driving permit valid for motorbikes in Vietnam?",
-      "Do I need a licence for a 50cc motorbike in Vietnam?",
-      "What is the fine for riding without a licence in Vietnam?"
+    "related_searches": [
+     "Best scooter to rent in vietnam for a day",
+     "Scooter rental Vietnam price",
+     "50cc scooter Vietnam",
+     "Vietnam scooter rental Ho Chi Minh",
+     "50cc scooter rental Vietnam"
     ],
-    "note": "Market chosen as Vietnam because customers rent while in Hanoi; the plan allows one location. First rankings and the first AI-visibility report populate within about a day; read them with Ubersuggest project_position_info / brand_visibility_overview and record figures here with the date. No figure is recorded until it exists."
+    "organic_top": [
+     "reddit.com",
+     "facebook.com (groups)",
+     "rentabikevn.com",
+     "pelago.com",
+     "izigo.vn",
+     "mitunsaufreisen.de",
+     "theextramile.co",
+     "theunknownenthusiast.com"
+    ]
+   },
+   {
+    "query": "50cc motorbike vietnam licence",
+    "features": [
+     "ai_overview",
+     "organic",
+     "people_also_ask",
+     "video",
+     "related_searches"
+    ],
+    "people_also_ask": [
+     "How to get a motorbike license in Vietnam?",
+     "What is the youngest age to drive a motorcycle?",
+     "Can I rent a 50cc scooter in Vietnam?",
+     "What is the most popular motorbike in Vietnam?"
+    ],
+    "related_searches": [
+     "50cc motorbike vietnam licence rules",
+     "50cc motorbike vietnam licence requirements",
+     "50cc motorbike vietnam licence test"
+    ],
+    "organic_top": [
+     "tripadvisor.com",
+     "facebook.com (groups)",
+     "theextramile.co",
+     "reddit.com",
+     "duyanhmotorbikes.com",
+     "youtube.com",
+     "traveldudes.com",
+     "travel.stackexchange.com"
+    ]
+   },
+   {
+    "query": "vietnam motorbike trip",
+    "features": [
+     "ai_overview",
+     "organic",
+     "people_also_ask",
+     "video",
+     "related_searches"
+    ],
+    "people_also_ask": [
+     "How much is a motorcycle trip in Vietnam?",
+     "What is the most famous bike trip in Vietnam?",
+     "Can tourists ride motorcycles in Vietnam?",
+     "Is the Ha Giang loop scary?"
+    ],
+    "related_searches": [
+     "Vietnam motorbike trip packages",
+     "Vietnam motorbike trip itinerary",
+     "Vietnam motorbike Loop",
+     "10 day motorbike trip Vietnam",
+     "Vietnam motorbike rental"
+    ],
+    "organic_top": [
+     "onyabikeadventures.com",
+     "reddit.com",
+     "vietnamas.info",
+     "motorbiketourexpert.com",
+     "nytimes.com",
+     "tripadvisor.com",
+     "vietnamcoracle.com",
+     "madornomad.com"
+    ]
+   },
+   {
+    "query": "riding a motorbike in hanoi",
+    "features": [
+     "ai_overview",
+     "organic",
+     "video",
+     "people_also_ask",
+     "discussions_and_forums",
+     "related_searches"
+    ],
+    "people_also_ask": [
+     "Can foreigners ride motorbikes in Vietnam?",
+     "What is the 12 second rule for motorcycles?",
+     "What does 2 fingers down mean to bikers?",
+     "Can tourists rent a motorbike in Vietnam?"
+    ],
+    "related_searches": [
+     "Motorcycle Vietnam tour",
+     "Best motorcycle rental hanoi",
+     "Motorbike Vietnam price",
+     "Can I ride a motorbike in Vietnam with a UK license",
+     "Vietnam motorbike rental",
+     "Motorbike rental Hanoi Reddit"
+    ],
+    "organic_top": [
+     "reddit.com",
+     "petersbigadventure.com",
+     "yourfriendthenomad.com",
+     "ethosspirit.com",
+     "madornomad.com",
+     "getyourguide.com",
+     "youtube.com"
+    ]
+   }
+  ]
+ },
+ "_tracking": {
+  "tool": "Ubersuggest project + AI Search Visibility brand",
+  "date": "2026-10-14",
+  "project_id": "b07588da4660a0dd20838a6ec9e77a69158cb6ec32ea21600d1468c2d5ec7271",
+  "domain": "en.rentbikehanoi.com",
+  "market": "Vietnam (loc_id 2704), English",
+  "update_frequency": "rankings weekly; AI visibility monthly",
+  "keywords": [
+   "motorbike rental hanoi",
+   "hanoi motorbike rental",
+   "rent motorbike hanoi",
+   "scooter rental hanoi",
+   "motorbike rental hanoi price",
+   "monthly motorbike rental hanoi",
+   "motorbike rental hanoi old quarter",
+   "electric bike rental hanoi",
+   "rent a scooter in hanoi",
+   "motorbike hire hanoi",
+   "motorbike rental vietnam",
+   "can tourists ride motorbike in vietnam",
+   "vietnam motorbike licence for foreigners",
+   "international driving permit vietnam motorbike",
+   "a1 licence vietnam",
+   "50cc motorbike vietnam licence",
+   "motorbike rental requirements hanoi",
+   "motorbike rental deposit hanoi",
+   "honda vision rental hanoi",
+   "best scooter to rent in vietnam",
+   "renting a motorbike in hanoi as a tourist",
+   "hanoi motorbike rental for expats",
+   "how much to rent a motorbike in hanoi",
+   "motorbike rental noi bai airport",
+   "one way motorbike rental vietnam"
+  ],
+  "competitors": [
+   "tigitmotorbikes.com",
+   "flamingoscooters.com"
+  ],
+  "ai_visibility_prompts": [
+   "Where can I rent a motorbike in Hanoi as a tourist?",
+   "How much does it cost to rent a scooter in Hanoi?",
+   "Which Hanoi shop offers monthly motorbike rental for expats?",
+   "What documents do I need to rent a motorbike in Hanoi?",
+   "Can I rent an electric bike in Hanoi?",
+   "Can tourists legally ride a motorbike in Vietnam?",
+   "What licence do I need for a 125cc scooter in Vietnam?",
+   "Is an international driving permit valid for motorbikes in Vietnam?",
+   "Do I need a licence for a 50cc motorbike in Vietnam?",
+   "What is the fine for riding without a licence in Vietnam?"
+  ],
+  "note": "Market chosen as Vietnam because customers rent while in Hanoi; the plan allows one location. First rankings and the first AI-visibility report populate within about a day; read them with Ubersuggest project_position_info / brand_visibility_overview and record figures here with the date. No figure is recorded until it exists."
+ },
+ "_serp_snapshot_commercial": {
+  "tool": "OpenRush inspect_serp",
+  "date": "2026-10-14",
+  "market": "United States",
+  "note": "Zero-data mode: commercial and comparison queries recorded to map SERP features, local-pack competitors and the questions searchers ask. en.rentbikehanoi.com has no organic position on any of them yet (new domain); the business is visible only through its TripAdvisor page and Facebook posts. The content gap register in scripts/english-seo-matrix.js consumes people_also_ask and related_searches from every _serp_snapshot* block. Ratings and review counts are as displayed in the local pack on the fetch date, not estimates.",
+  "queries": [
+   {
+    "query": "scooter rental hanoi",
+    "fetched_at": "2026-10-14T14:06:27.098661Z",
+    "features": [
+     "ai_overview",
+     "local_pack",
+     "people_also_ask",
+     "organic",
+     "related_searches"
+    ],
+    "local_pack": [
+     {
+      "title": "Rental Motorbike Vietnam",
+      "domain": "rentalmotorbikevietnam.com",
+      "rating": 4.9,
+      "reviews": 1100
+     },
+     {
+      "title": "13535 Motorbike Rental/ Cho Thuê Xe 13535",
+      "domain": "hanoimidorihomes.com",
+      "rating": 4.8,
+      "reviews": 2100
+     },
+     {
+      "title": "Hanoiscootersrental.com, Đức Thành Motor",
+      "domain": "facebook.com",
+      "rating": 5,
+      "reviews": 648
+     }
+    ],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "Can I rent a 50cc scooter in Vietnam?",
+     "How much is bike rental in Hanoi?",
+     "Can you drive a scooter in Vietnam?",
+     "How much do scooters cost in Vietnam?"
+    ],
+    "related_searches": [
+     "Electric scooter rental hanoi",
+     "Motorbike rental Hanoi Old Quarter",
+     "Hanoi motorbike rental cost",
+     "13535 Motorbike Rental Hanoi",
+     "Scooter hanoi",
+     "Tuan motorbike rental Hanoi",
+     "James Hanoi Motorbike",
+     "Rental Motorbike Vietnam"
+    ],
+    "organic_top": [
+     "1. tripadvisor.com",
+     "2. jamesmotorbikes.com",
+     "3. facebook.com /groups/vietnam.travel.planning/posts/882384707329489/",
+     "4. facebook.com /groups/789908834478207/posts/4045167392285652/",
+     "5. tripadvisor.com",
+     "6. facebook.com /groups/hanoimassiveofficial/posts/1833314740636660/",
+     "7. giahungmotorbikerental.com /travel-advice/rent-scooter-monthly",
+     "8. facebook.com /groups/centralvietnamtip/posts/1304079031385488/"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [
+     "5. tripadvisor.com — Hanoi Motorbike Rental - Nguyen Tu"
+    ]
+   },
+   {
+    "query": "monthly motorbike rental hanoi",
+    "fetched_at": "2026-10-14T14:06:27.943264Z",
+    "features": [
+     "organic",
+     "local_pack",
+     "related_searches"
+    ],
+    "local_pack": [
+     {
+      "title": "Rental Motorbike Vietnam",
+      "domain": "rentalmotorbikevietnam.com",
+      "rating": 4.9,
+      "reviews": 1100
+     },
+     {
+      "title": "HaiBanh Garage - Motorbike / Scooter Rental",
+      "domain": "facebook.com",
+      "rating": 4.9,
+      "reviews": 232
+     },
+     {
+      "title": "Vũ Đăng Motorbike Rental - thuê xe máy Hà Nội",
+      "domain": "facebook.com",
+      "rating": 4.9,
+      "reviews": 613
+     }
+    ],
+    "featured_snippet": null,
+    "people_also_ask": [],
+    "related_searches": [
+     "Best monthly motorbike rental hanoi",
+     "Hanoi motorbike rental cost",
+     "Motorbike rental Hanoi Old Quarter",
+     "13535 Motorbike Rental Hanoi",
+     "Vietnam motorbike rental requirements",
+     "Motorbike rental Ho Chi Minh",
+     "Bike Rental Hanoi near me",
+     "Tuan motorbike rental Hanoi"
+    ],
+    "organic_top": [
+     "1. tripadvisor.com",
+     "2. rentabikevn.com",
+     "3. facebook.com /groups/225241495712866/posts/1159907435579596/",
+     "4. facebook.com /giahungmotorbike/",
+     "5. phungmotorbike.com /monthly-rentals-hanoi/automatic",
+     "6. motorvina.com",
+     "7. stylemotorbikes.com /bike-rental-page/",
+     "8. facebook.com /groups/1361915940525260/posts/28706509902305828/",
+     "9. tripadvisor.co.uk",
+     "10. bestpricetravel.com"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [
+     "8. facebook.com — 🏍️ Hanoi Motorbike Rental – Nguyen Tu",
+     "9. tripadvisor.co.uk — HANOI MOTORBIKE RENTAL - NGUYEN TU"
+    ]
+   },
+   {
+    "query": "motorbike rental vietnam",
+    "fetched_at": "2026-10-14T14:06:29.280411Z",
+    "features": [
+     "local_pack",
+     "organic",
+     "people_also_ask",
+     "discussions_and_forums",
+     "related_searches"
+    ],
+    "local_pack": [
+     {
+      "title": "Rental Motorbike Vietnam",
+      "domain": "rentalmotorbikevietnam.com",
+      "rating": 4.9,
+      "reviews": 1100
+     },
+     {
+      "title": "TUAN MOTORBIKES RENTAL Da Nang",
+      "domain": "tuanmotorbike.com",
+      "rating": 4.8,
+      "reviews": 1800
+     },
+     {
+      "title": "The Motorbike Station Company",
+      "domain": "themotorbikestation.com",
+      "rating": 5,
+      "reviews": 1300
+     }
+    ],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "How much does it cost to buy a motorbike in Vietnam?",
+     "How to get a motorbike license in Vietnam?",
+     "What is the most popular motorbike in Vietnam?",
+     "How much to hire a motorbike in Vietnam?"
+    ],
+    "related_searches": [
+     "Motorbike rental Ho Chi Minh",
+     "Motorbike rental Hanoi",
+     "Motorbike rental Ho Chi Minh price",
+     "Motorbike rental Ho Chi Minh District 1",
+     "Vietnam motorbike rental one way",
+     "Best motorbike rental vietnam",
+     "Hanoi motorbike rental cost",
+     "Motorbike rental near me"
+    ],
+    "organic_top": [
+     "1. riderly.com /rental-locations/vietnam/district-1/",
+     "2. facebook.com /groups/vietnamtravelguideofficial/posts/695770462738487/",
+     "3. dragonbiketours.com",
+     "4. rentalmotorbikehanoi.com /backpacker-from-vietnam-to-laos-by-motorbikes/",
+     "5. motorvina.com",
+     "6. facebook.com /groups/2066955070259074/posts/4313119738975918/",
+     "7. tripadvisor.com",
+     "8. tnktravel.com /blogs/vietnam-blogs/how-to-rent-a-good-motorbike-in-vietnam/"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": []
+   },
+   {
+    "query": "electric bike rental hanoi",
+    "fetched_at": "2026-10-14T14:06:29.703205Z",
+    "features": [
+     "local_pack",
+     "organic",
+     "people_also_ask"
+    ],
+    "local_pack": [
+     {
+      "title": "Electric Motorbike Rental - Vbike",
+      "domain": "facebook.com",
+      "rating": 5,
+      "reviews": 34
+     },
+     {
+      "title": "Vietnam E-Bike Travel Hanoi - Tours & Rental",
+      "domain": "vietnamebiketravel.com",
+      "rating": 5,
+      "reviews": 53
+     },
+     {
+      "title": "Electric Smiles E-bike Tours & Rental",
+      "domain": "electric-smiles.com",
+      "rating": 5,
+      "reviews": 22
+     }
+    ],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "What are some new electric bike brands?",
+     "How much is bike rental in Hanoi?",
+     "Can you rent to own an ebike?",
+     "How much does an electric bike usually cost?"
+    ],
+    "related_searches": [],
+    "organic_top": [
+     "1. bikingvietnam.com /hanoi-bike-electric-bike-rental/",
+     "2. facebook.com /groups/332906624145754/posts/2114507299319002/",
+     "3. tripadvisor.com",
+     "4. yesd.org /bike-rental-hanoi-ultimate-travel-guide/",
+     "5. facebook.com /haibanhgarage/",
+     "6. bikingvietnam.com /5-best-electric-bike-rental-in-hanoi-2023/",
+     "7. dtinews.dantri.com.vn",
+     "8. facebook.com /groups/543549762461673/posts/3046164162200208/",
+     "9. viator.com /en-IN/tours/Hanoi/E-bikes-for-Rent/d351-137493P3"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": []
+   }
+  ]
+ },
+ "_competitors": {
+  "tool": "OpenRush discover_competitors (seed_keywords mode) + inspect_domain",
+  "date": "2026-10-14",
+  "market": "United States",
+  "seeds": [
+   "motorbike rental hanoi",
+   "scooter rental hanoi",
+   "monthly motorbike rental hanoi",
+   "motorbike rental vietnam",
+   "electric bike rental hanoi",
+   "is it safe to ride a motorbike in vietnam",
+   "best scooter to rent in vietnam",
+   "50cc motorbike vietnam licence",
+   "vietnam motorbike trip",
+   "riding a motorbike in hanoi",
+   "hanoi motorbike rental cost",
+   "can tourists rent a motorbike in vietnam"
+  ],
+  "note": "Who consistently ranks across the 12 seed queries in the live SERP database; 6 global platform/UGC domains (reddit, facebook, tripadvisor, youtube, quora, wikivoyage) were excluded by the tool as never-vertical rivals. shared_keywords = seeds the domain ranks for; visibility is the tool's weighted score. 94 domains were available; the top 20 are recorded. en.rentbikehanoi.com itself has no indexed position on any seed (new domain).",
+  "total_available": 94,
+  "rows": [
+   {
+    "domain": "rentalmotorbikevietnam.com",
+    "shared_keywords": 3,
+    "avg_position": 2.6,
+    "median_position": 3,
+    "visibility": 4.2
+   },
+   {
+    "domain": "tigitmotorbikes.com",
+    "shared_keywords": 3,
+    "avg_position": 2.7,
+    "median_position": 2,
+    "visibility": 2.5
+   },
+   {
+    "domain": "stylemotorbikes.com",
+    "shared_keywords": 3,
+    "avg_position": 9.7,
+    "median_position": 4,
+    "visibility": 1.4
+   },
+   {
+    "domain": "riderly.com",
+    "shared_keywords": 3,
+    "avg_position": 10,
+    "median_position": 7,
+    "visibility": 1.3
+   },
+   {
+    "domain": "rentalmotorbikehanoi.com",
+    "shared_keywords": 3,
+    "avg_position": 12.3,
+    "median_position": 7,
+    "visibility": 1.3
+   },
+   {
+    "domain": "theextramile.co",
+    "shared_keywords": 3,
+    "avg_position": 12.3,
+    "median_position": 7,
+    "visibility": 1
+   },
+   {
+    "domain": "tuanmotorbike.com",
+    "shared_keywords": 3,
+    "avg_position": 18.5,
+    "median_position": 14,
+    "visibility": 0.95
+   },
+   {
+    "domain": "jamesmotorbikes.com",
+    "shared_keywords": 3,
+    "avg_position": 17.3,
+    "median_position": 19,
+    "visibility": 0.55
+   },
+   {
+    "domain": "phungmotorbike.com",
+    "shared_keywords": 3,
+    "avg_position": 17,
+    "median_position": 11,
+    "visibility": 0.25
+   },
+   {
+    "domain": "offroadvietnam.com",
+    "shared_keywords": 3,
+    "avg_position": 15.3,
+    "median_position": 16,
+    "visibility": 0.2
+   },
+   {
+    "domain": "rentabikevn.com",
+    "shared_keywords": 3,
+    "avg_position": 18.3,
+    "median_position": 15,
+    "visibility": 0.1
+   },
+   {
+    "domain": "duyanhmotorbikes.com",
+    "shared_keywords": 3,
+    "avg_position": 23,
+    "median_position": 18,
+    "visibility": 0.1
+   },
+   {
+    "domain": "vietnammotorbikerental.com",
+    "shared_keywords": 3,
+    "avg_position": 23.3,
+    "median_position": 25,
+    "visibility": 0.05
+   },
+   {
+    "domain": "motorbikeviet.com",
+    "shared_keywords": 3,
+    "avg_position": 35,
+    "median_position": 36,
+    "visibility": 0
+   },
+   {
+    "domain": "hanoimidorihomes.com",
+    "shared_keywords": 2,
+    "avg_position": 24,
+    "median_position": 32,
+    "visibility": 0.9
+   },
+   {
+    "domain": "giahungmotorbikerental.com",
+    "shared_keywords": 2,
+    "avg_position": 20,
+    "median_position": 11,
+    "visibility": 0.05
+   },
+   {
+    "domain": "azmotorbikes.com",
+    "shared_keywords": 2,
+    "avg_position": 25,
+    "median_position": 20,
+    "visibility": 0.05
+   },
+   {
+    "domain": "flamingotravel.com.vn",
+    "shared_keywords": 2,
+    "avg_position": 23,
+    "median_position": 23,
+    "visibility": 0
+   },
+   {
+    "domain": "hanoimotorbikerental.com",
+    "shared_keywords": 2,
+    "avg_position": 25.5,
+    "median_position": 22,
+    "visibility": 0
+   },
+   {
+    "domain": "huemotorbiketour.com",
+    "shared_keywords": 2,
+    "avg_position": 30.5,
+    "median_position": 26,
+    "visibility": 0
+   }
+  ],
+  "deep_dive": {
+   "tool": "OpenRush inspect_domain",
+   "domain": "rentalmotorbikevietnam.com",
+   "date": "2026-10-14",
+   "market": "United States",
+   "summary": {
+    "organic_keywords": 106,
+    "top_3_keywords": 22,
+    "top_10_keywords": 34,
+    "estimated_organic_traffic_per_month": 474,
+    "estimated_paid_traffic_cost_per_month": 188.40965872164816,
+    "is_new": 33,
+    "is_up": 36,
+    "is_down": 23,
+    "is_lost": 41
+   },
+   "intent_mix": {
+    "informational": 0.04,
+    "transactional": 0.6,
+    "commercial": 0.28,
+    "navigational": 0.08
+   },
+   "top_keywords": [
+    {
+     "keyword": "motorbike vietnam",
+     "position": 18,
+     "url": "https://rentalmotorbikevietnam.com/",
+     "monthly_volume": 1000,
+     "intent": "informational"
+    },
+    {
+     "keyword": "motorbike rental vietnam",
+     "position": 3,
+     "url": "https://rentalmotorbikevietnam.com/",
+     "monthly_volume": 320,
+     "intent": "transactional"
+    },
+    {
+     "keyword": "motorcycle rental in vietnam",
+     "position": 3,
+     "url": "https://rentalmotorbikevietnam.com/",
+     "monthly_volume": 320,
+     "intent": "transactional"
+    },
+    {
+     "keyword": "motorcycle rental vietnam",
+     "position": 3,
+     "url": "https://rentalmotorbikevietnam.com/",
+     "monthly_volume": 320,
+     "intent": "commercial"
+    },
+    {
+     "keyword": "rent a motorbike vietnam",
+     "position": 3,
+     "url": "https://rentalmotorbikevietnam.com/",
+     "monthly_volume": 320,
+     "intent": "transactional"
+    },
+    {
+     "keyword": "rent a motorcycle vietnam",
+     "position": 3,
+     "url": "https://rentalmotorbikevietnam.com/",
+     "monthly_volume": 320,
+     "intent": "transactional"
+    },
+    {
+     "keyword": "rental motorbike vietnam",
+     "position": 2,
+     "url": "https://rentalmotorbikevietnam.com/",
+     "monthly_volume": 320,
+     "intent": "transactional"
+    },
+    {
+     "keyword": "vietnamese moped",
+     "position": 20,
+     "url": "https://rentalmotorbikevietnam.com/how-to-ride-in-vietnam-safely-and-legally/",
+     "monthly_volume": 320,
+     "intent": "transactional"
+    },
+    {
+     "keyword": "honda bike vietnam",
+     "position": 11,
+     "url": "https://rentalmotorbikevietnam.com/honda-wave-lets-ride-asia/",
+     "monthly_volume": 140,
+     "intent": "navigational"
+    },
+    {
+     "keyword": "honda bikes in vietnam",
+     "position": 14,
+     "url": "https://rentalmotorbikevietnam.com/honda-wave-lets-ride-asia/",
+     "monthly_volume": 140,
+     "intent": "commercial"
+    }
+   ],
+   "top_pages": [
+    {
+     "url": "https://rentalmotorbikevietnam.com/",
+     "organic_keywords": 65,
+     "est_traffic_month": 456,
+     "top_3_keywords": 22
+    },
+    {
+     "url": "https://rentalmotorbikevietnam.com/how-to-ride-in-vietnam-safely-and-legally/",
+     "organic_keywords": 10,
+     "est_traffic_month": 5,
+     "top_3_keywords": 0
+    },
+    {
+     "url": "https://rentalmotorbikevietnam.com/5-thrill-filled-motorcycle-routes-in-vietnam/",
+     "organic_keywords": 7,
+     "est_traffic_month": 3,
+     "top_3_keywords": 0
+    },
+    {
+     "url": "https://rentalmotorbikevietnam.com/honda-wave-lets-ride-asia/",
+     "organic_keywords": 6,
+     "est_traffic_month": 5,
+     "top_3_keywords": 0
+    },
+    {
+     "url": "https://rentalmotorbikevietnam.com/best-time-to-motorbike-vietnam-the-north-part/",
+     "organic_keywords": 5,
+     "est_traffic_month": 2,
+     "top_3_keywords": 0
+    },
+    {
+     "url": "https://rentalmotorbikevietnam.com/how-to-plan-a-motorbike-trip-in-vietnam/",
+     "organic_keywords": 4,
+     "est_traffic_month": 1,
+     "top_3_keywords": 0
+    },
+    {
+     "url": "https://rentalmotorbikevietnam.com/riding-a-motorbike-in-vietnam-everything-you-need-to-know/",
+     "organic_keywords": 4,
+     "est_traffic_month": 0,
+     "top_3_keywords": 0
+    },
+    {
+     "url": "https://rentalmotorbikevietnam.com/rent-and-drive-a-scooter-in-vietnam-have-a-thrilling-adventure/",
+     "organic_keywords": 2,
+     "est_traffic_month": 1,
+     "top_3_keywords": 0
+    },
+    {
+     "url": "https://rentalmotorbikevietnam.com/a-motorcycle-trip-through-northern-vietnam/",
+     "organic_keywords": 1,
+     "est_traffic_month": 0,
+     "top_3_keywords": 0
+    },
+    {
+     "url": "https://rentalmotorbikevietnam.com/driving-in-vietnam/",
+     "organic_keywords": 1,
+     "est_traffic_month": 0,
+     "top_3_keywords": 0
+    }
+   ],
+   "likely_competitors": [
+    {
+     "domain": "rentalmotorbikehanoi.com",
+     "shared_keywords": 74,
+     "est_traffic_month": 257,
+     "organic_keywords": 98
+    },
+    {
+     "domain": "tuanmotorbike.com",
+     "shared_keywords": 63,
+     "est_traffic_month": 252,
+     "organic_keywords": 95
+    },
+    {
+     "domain": "phungmotorbike.com",
+     "shared_keywords": 62,
+     "est_traffic_month": 163,
+     "organic_keywords": 103
+    },
+    {
+     "domain": "motorbikeviet.com",
+     "shared_keywords": 56,
+     "est_traffic_month": 32,
+     "organic_keywords": 89
+    },
+    {
+     "domain": "motorvina.com",
+     "shared_keywords": 72,
+     "est_traffic_month": 71,
+     "organic_keywords": 148
+    }
+   ]
   }
+ },
+ "_competitor_backlinks": {
+  "tool": "OpenRush inspect_backlinks (views authority + referring_domains)",
+  "date": "2026-10-14",
+  "note": "domain_rank is the index's 0-1000 domain score; row-level page_rank is PAGE-level, not domain authority. clean_referring_domains keeps rows with spam_score <= 20 (the rest are link networks such as link-legion-*.xyz, casino/mirror sites and directories, deliberately not listed as prospects). Prospecting is an owner task (editorial mentions, listings, partnerships); links are never bought. Domains listed in own_properties belong to the competitors themselves and are skipped in the prospect list.",
+  "domains": {
+   "theextramile.co": {
+    "authority": {
+     "domain_rank": 121,
+     "referring_domains": 96,
+     "backlinks_total": 195,
+     "dofollow_ratio": 0.672,
+     "spam_score": 30,
+     "broken_backlinks": 2
+    },
+    "referring_domains_returned": 96,
+    "referring_domains_total": 96,
+    "clean_referring_domains": [
+     {
+      "domain": "roamingverse.com",
+      "page_rank": 51,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2025-11-18"
+     },
+     {
+      "domain": "tigitmotorbikes.com",
+      "page_rank": 50,
+      "backlinks": 19,
+      "spam_score": 7,
+      "first_seen": "2024-09-15"
+     },
+     {
+      "domain": "autoyas.com",
+      "page_rank": 47,
+      "backlinks": 18,
+      "spam_score": 0,
+      "first_seen": "2025-07-05"
+     },
+     {
+      "domain": "tigitmotorbikes.vn",
+      "page_rank": 28,
+      "backlinks": 14,
+      "spam_score": 4,
+      "first_seen": "2026-01-06"
+     },
+     {
+      "domain": "autos1000.com",
+      "page_rank": 21,
+      "backlinks": 10,
+      "spam_score": 0,
+      "first_seen": "2025-11-16"
+     },
+     {
+      "domain": "nha-trang-guide.com",
+      "page_rank": 0,
+      "backlinks": 9,
+      "spam_score": 0,
+      "first_seen": "2026-10-05"
+     },
+     {
+      "domain": "khanh-hoa.net",
+      "page_rank": 0,
+      "backlinks": 6,
+      "spam_score": 0,
+      "first_seen": "2026-09-26"
+     },
+     {
+      "domain": "zucom.com.co",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 5,
+      "first_seen": "2026-08-29"
+     },
+     {
+      "domain": "ted.al",
+      "page_rank": 0,
+      "backlinks": 3,
+      "spam_score": 18,
+      "first_seen": "2026-08-24"
+     },
+     {
+      "domain": "motonest.com",
+      "page_rank": 0,
+      "backlinks": 2,
+      "spam_score": 0,
+      "first_seen": "2026-08-24"
+     },
+     {
+      "domain": "laoujin.github.io",
+      "page_rank": 0,
+      "backlinks": 2,
+      "spam_score": 15,
+      "first_seen": "2026-08-13"
+     },
+     {
+      "domain": "kerincare.com",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2026-07-28"
+     },
+     {
+      "domain": "gyms1.com",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2026-06-18"
+     },
+     {
+      "domain": "hhgourmet.com",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2026-05-28"
+     },
+     {
+      "domain": "uaestore.com",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 5,
+      "first_seen": "2026-05-28"
+     },
+     {
+      "domain": "pliyotec.com",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2026-05-14"
+     },
+     {
+      "domain": "foodyas.com",
+      "page_rank": 0,
+      "backlinks": 4,
+      "spam_score": 0,
+      "first_seen": "2026-03-15"
+     },
+     {
+      "domain": "daniakelcie.pages.dev",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2026-02-02"
+     },
+     {
+      "domain": "nicolasaahill.pages.dev",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 15,
+      "first_seen": "2025-12-27"
+     },
+     {
+      "domain": "ahoyvietnam.com",
+      "page_rank": 0,
+      "backlinks": 2,
+      "spam_score": 0,
+      "first_seen": "2025-07-14"
+     },
+     {
+      "domain": "expat.com",
+      "page_rank": 0,
+      "backlinks": 2,
+      "spam_score": 0,
+      "first_seen": "2025-06-22"
+     },
+     {
+      "domain": "restaurants10.com",
+      "page_rank": 0,
+      "backlinks": 4,
+      "spam_score": 0,
+      "first_seen": "2025-05-21"
+     },
+     {
+      "domain": "improuse.com",
+      "page_rank": 0,
+      "backlinks": 4,
+      "spam_score": 0,
+      "first_seen": "2025-05-05"
+     },
+     {
+      "domain": "louiseatkinson.pages.dev",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 15,
+      "first_seen": "2025-02-26"
+     },
+     {
+      "domain": "prudidiahann.pages.dev",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 15,
+      "first_seen": "2024-07-14"
+     },
+     {
+      "domain": "dcmotorbikes.com",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2023-11-14"
+     },
+     {
+      "domain": "difamn.blogspot.com",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2023-10-20"
+     }
+    ],
+    "spam_or_network_domains": 69
+   },
+   "tigitmotorbikes.com": {
+    "authority": {
+     "domain_rank": 276,
+     "referring_domains": 1967,
+     "backlinks_total": 6650,
+     "dofollow_ratio": 0.906,
+     "spam_score": 25,
+     "broken_backlinks": 582
+    },
+    "referring_domains_returned": 300,
+    "referring_domains_total": 1967,
+    "clean_referring_domains": [
+     {
+      "domain": "tigitmotorbikes.vn",
+      "page_rank": 262,
+      "backlinks": 2306,
+      "spam_score": 3,
+      "first_seen": "2025-11-05"
+     },
+     {
+      "domain": "chrunix.com",
+      "page_rank": 144,
+      "backlinks": 121,
+      "spam_score": 0,
+      "first_seen": "2021-11-29"
+     },
+     {
+      "domain": "topktm.web.app",
+      "page_rank": 98,
+      "backlinks": 321,
+      "spam_score": 20,
+      "first_seen": "2025-08-19"
+     },
+     {
+      "domain": "roamingverse.com",
+      "page_rank": 96,
+      "backlinks": 3,
+      "spam_score": 0,
+      "first_seen": "2025-08-25"
+     },
+     {
+      "domain": "intently.co",
+      "page_rank": 96,
+      "backlinks": 30,
+      "spam_score": 0,
+      "first_seen": "2025-01-31"
+     },
+     {
+      "domain": "royalpizzeria.se",
+      "page_rank": 79,
+      "backlinks": 2,
+      "spam_score": 10,
+      "first_seen": "2024-03-25"
+     },
+     {
+      "domain": "callupcontact.com",
+      "page_rank": 79,
+      "backlinks": 2,
+      "spam_score": 20,
+      "first_seen": "2022-07-03"
+     },
+     {
+      "domain": "dirtbikeacademyvn.com",
+      "page_rank": 58,
+      "backlinks": 18,
+      "spam_score": 1,
+      "first_seen": "2025-04-14"
+     },
+     {
+      "domain": "iguide.ai",
+      "page_rank": 51,
+      "backlinks": 2,
+      "spam_score": 0,
+      "first_seen": "2025-09-24"
+     },
+     {
+      "domain": "fooyoh.com",
+      "page_rank": 51,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2025-03-21"
+     },
+     {
+      "domain": "vietnambestbikes.com",
+      "page_rank": 51,
+      "backlinks": 1,
+      "spam_score": 10,
+      "first_seen": "2023-11-14"
+     },
+     {
+      "domain": "philca.ch",
+      "page_rank": 44,
+      "backlinks": 5,
+      "spam_score": 19,
+      "first_seen": "2025-08-11"
+     },
+     {
+      "domain": "autourasia.com",
+      "page_rank": 27,
+      "backlinks": 6,
+      "spam_score": 0,
+      "first_seen": "2023-11-26"
+     },
+     {
+      "domain": "uncovervietnam.com",
+      "page_rank": 27,
+      "backlinks": 5,
+      "spam_score": 0,
+      "first_seen": "2023-10-02"
+     },
+     {
+      "domain": "theextramile.co",
+      "page_rank": 26,
+      "backlinks": 4,
+      "spam_score": 0,
+      "first_seen": "2024-07-14"
+     },
+     {
+      "domain": "vietnamvisa-easy.com",
+      "page_rank": 23,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2026-09-18"
+     },
+     {
+      "domain": "noszczak.com",
+      "page_rank": 23,
+      "backlinks": 2,
+      "spam_score": 20,
+      "first_seen": "2025-10-03"
+     },
+     {
+      "domain": "donbain.com",
+      "page_rank": 23,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2024-10-11"
+     },
+     {
+      "domain": "mtrcycle.blogspot.com",
+      "page_rank": 23,
+      "backlinks": 15,
+      "spam_score": 0,
+      "first_seen": "2023-11-05"
+     },
+     {
+      "domain": "a21tours.com",
+      "page_rank": 23,
+      "backlinks": 1,
+      "spam_score": 10,
+      "first_seen": "2021-09-29"
+     },
+     {
+      "domain": "sotheadventurebegins.com",
+      "page_rank": 20,
+      "backlinks": 3,
+      "spam_score": 0,
+      "first_seen": "2026-03-01"
+     },
+     {
+      "domain": "bplustravel.com",
+      "page_rank": 19,
+      "backlinks": 2,
+      "spam_score": 0,
+      "first_seen": "2026-07-26"
+     },
+     {
+      "domain": "wallimage.web.app",
+      "page_rank": 17,
+      "backlinks": 10,
+      "spam_score": 4,
+      "first_seen": "2023-10-24"
+     },
+     {
+      "domain": "unitedbiker.blogspot.com",
+      "page_rank": 14,
+      "backlinks": 4,
+      "spam_score": 11,
+      "first_seen": "2023-10-05"
+     },
+     {
+      "domain": "tigitnepal.com",
+      "page_rank": 13,
+      "backlinks": 4,
+      "spam_score": 0,
+      "first_seen": "2026-07-03"
+     },
+     {
+      "domain": "supertravelr.com",
+      "page_rank": 13,
+      "backlinks": 3,
+      "spam_score": 0,
+      "first_seen": "2022-09-18"
+     },
+     {
+      "domain": "pacaprez.fr",
+      "page_rank": 7,
+      "backlinks": 1,
+      "spam_score": 5,
+      "first_seen": "2026-06-05"
+     },
+     {
+      "domain": "googleblog.kr",
+      "page_rank": 7,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2026-06-03"
+     },
+     {
+      "domain": "deglabel.com.br",
+      "page_rank": 7,
+      "backlinks": 2,
+      "spam_score": 0,
+      "first_seen": "2025-11-26"
+     },
+     {
+      "domain": "avtopralnica.org",
+      "page_rank": 7,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2025-10-02"
+     },
+     {
+      "domain": "curvesandcracks.com",
+      "page_rank": 7,
+      "backlinks": 2,
+      "spam_score": 15,
+      "first_seen": "2023-11-25"
+     },
+     {
+      "domain": "civictypereuro.blogspot.com",
+      "page_rank": 7,
+      "backlinks": 7,
+      "spam_score": 0,
+      "first_seen": "2023-10-05"
+     },
+     {
+      "domain": "museuly.com",
+      "page_rank": 7,
+      "backlinks": 2,
+      "spam_score": 5,
+      "first_seen": "2022-10-23"
+     },
+     {
+      "domain": "autourasia.fr",
+      "page_rank": 1,
+      "backlinks": 3,
+      "spam_score": 0,
+      "first_seen": "2025-08-07"
+     },
+     {
+      "domain": "lanaeseta.it",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2026-10-14"
+     },
+     {
+      "domain": "onlybyland.com",
+      "page_rank": 0,
+      "backlinks": 2,
+      "spam_score": 0,
+      "first_seen": "2026-10-13"
+     },
+     {
+      "domain": "modelonamission.com",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2026-10-13"
+     }
+    ],
+    "spam_or_network_domains": 263
+   }
+  },
+  "own_properties": [
+   "tigitmotorbikes.com",
+   "tigitmotorbikes.vn",
+   "tigitnepal.com",
+   "theextramile.co"
+  ]
+ },
+ "_keyword_gap": {
+  "tool": "OpenRush compare_keyword_coverage",
+  "date": "2026-10-14",
+  "market": "United States",
+  "domain": "en.rentbikehanoi.com",
+  "competitors": [
+   "tigitmotorbikes.com",
+   "rentalmotorbikevietnam.com",
+   "theextramile.co",
+   "stylemotorbikes.com",
+   "rentabikevn.com"
+  ],
+  "returned": 100,
+  "total_available": 738,
+  "intent_clusters": {
+   "transactional": 20,
+   "informational": 74,
+   "commercial": 4,
+   "navigational": 2
+  },
+  "on_topic_rows": 45,
+  "note": "The target has no indexed keywords yet, so the \"gap\" is simply everything these five competitors rank for. Most of the 100 highest-volume rows are off-topic blog posts (Vietnamese coffee, pho, cost of living, Top Gear special, rivers) from rentabikevn.com and are ignored; the on-topic rows are merged into docs/seo/keyword-universe.json with the competitor position recorded."
+ },
+ "_content_formats": {
+  "tool": "Firecrawl scrape (markdown, main content)",
+  "date": "2026-10-14",
+  "note": "Observed structure of pages ranking in the recorded SERPs, used to confirm what format each intent rewards. Nothing is copied; the site answers the same questions from OWNER-FACTS and its own verified guides.",
+  "pages": [
+   {
+    "url": "https://theextramile.co/",
+    "ranks": "motorbike rental hanoi #1 (US)",
+    "title": "The Extra Mile - High-Quality Motorbike Rental in Ho Chi Minh City",
+    "format": "rental business homepage: fleet categories (50cc no-licence, e-bikes, premium commuters, 150cc+, long-distance), start/return city booking form, links to city-rental and road-trip price lists, office/drop-off map (Hanoi office = Tigit Motorbikes Hanoi), testimonials, \"operating since 2014\" trust block",
+    "sections": [
+     "fleet categories",
+     "booking form",
+     "price list links",
+     "offices and drop-off points",
+     "testimonials",
+     "why us"
+    ]
+   },
+   {
+    "url": "https://www.travelchinaguide.com/asia/vietnam/hanoi/motorbike-rental.htm",
+    "ranks": "motorbike rental hanoi #2 (US)",
+    "title": "Motorbike Rental in Hanoi: Price, Best Rental Shops & Tips",
+    "format": "editorial guide in Q&A form: cost per day, what is required (deposit, passport, licence), cautions, recommended shops with addresses, best models with cc and daily price, pre-rental inspection checklist, traffic rules; last updated Aug 2025",
+    "sections": [
+     "Q&A: cost",
+     "Q&A: requirements",
+     "Q&A: cautions",
+     "recommended shops",
+     "best models",
+     "inspection tips",
+     "traffic rules"
+    ]
+   },
+   {
+    "url": "https://theextramile.co/vietnam-driving-licenses-changes-from-01-01-2025/",
+    "ranks": "50cc motorbike vietnam licence #3 (US)",
+    "title": "[Driving Licenses] What is actually changing for Expats in Vietnam driving motorbikes From 01/01/2025?",
+    "format": "short dated law explainer citing Law 36/2024/QH15: summary paragraph, FAQ pairs (A1 limits 125cc from 2025, under-50cc no licence, e-bike thresholds 4 kW / 11 kW, IDP class rules), conclusion linking to the fleet and a licence FAQ; related posts on paperwork",
+    "sections": [
+     "summary",
+     "FAQ",
+     "conclusion",
+     "related paperwork posts"
+    ]
+   }
+  ]
+ },
+ "_analysis": {
+  "date": "2026-10-14",
+  "scope": "Zero-data / cold-start reading of the recorded SERPs, competitor set, keyword demand and link profiles. Interpretation, not measurement.",
+  "findings": [
+   "Demand is in-country: \"motorbike rental hanoi\" is estimated at 2,400 searches/month from Vietnam (English queries) against 110 from the United States, 10 from the UK and 10 from Australia; \"motorbike rental vietnam\" at 3,600 (VN) vs 320 (US). The primary audience searches after arriving or while living in Vietnam.",
+   "Commercial Hanoi queries show a local pack above the organic results on every snapshot (\"motorbike rental hanoi\", \"scooter rental hanoi\", \"monthly motorbike rental hanoi\", \"electric bike rental hanoi\"); the pack is won by Google Business Profiles with hundreds to thousands of reviews (Rental Motorbike Vietnam 4.9/1,100; 13535 4.8/2,100). The business's own profile and review count are the owner-side lever this repository cannot touch.",
+   "Organic results for commercial Hanoi queries are dominated by TripAdvisor listings and Facebook group threads (8 of 10 organic results for \"scooter rental hanoi\"), then rental-shop homepages (jamesmotorbikes.com, rentabikevn.com, phungmotorbike.com, giahungmotorbikerental.com). Nguyen Tu appears only through its TripAdvisor page (#5 \"scooter rental hanoi\", #9 UK \"monthly motorbike rental hanoi\") and a Facebook post (#8 \"monthly motorbike rental hanoi\"); en.rentbikehanoi.com has no organic position yet.",
+   "Informational queries (safety, licence, best scooter, trips, riding in Hanoi) carry an AI overview plus Reddit/Facebook threads, then long-form guides (madornomad.com, wikivoyage, theextramile.co, ethosspirit.com). The winning format is a dated, sourced explainer with FAQ pairs, which is the format the hubs and money articles already use (Common questions + FAQPage schema).",
+   "The strongest organic competitor across the seed set is rentalmotorbikevietnam.com (avg position 2.6 on 3 seeds; 106 indexed keywords, 22 in the top 3, ~474 estimated visits/month, 60% transactional intent); 456 of those visits land on its homepage, which ranks #2-3 for every \"rent a motorbike/motorcycle vietnam\" variant. Its guides (how to ride safely and legally, routes, best time to ride north) rank but draw little traffic.",
+   "Backlink profiles of the two most visible editorial competitors are thin and partly polluted: theextramile.co has domain rank 121 with 96 referring domains (many link-network .xyz domains), tigitmotorbikes.com domain rank 276 with 1,967 referring domains (37 of the 300 returned have spam score <= 20). en.rentbikehanoi.com starts at domain authority 2 with 23 referring domains (Ubersuggest baseline), so a handful of genuine travel/expat editorial links would be material.",
+   "Competitor-brand queries (13535, Tuan, Gia Hung, James, Style, Tigit) and other-city rental queries (Ho Chi Minh, Da Nang, Hue) are real demand but not targets: the site never names rival shops in titles or copy and the business rents only in Hanoi."
+  ],
+  "implications": [
+   "Keep every rental money page and hub answering the four observed questions in the first screen: cost, what is required (passport, licence, deposit), where to pick up/delivery, and how to book (WhatsApp/Zalo/phone/walk-in) - all from OWNER-FACTS.",
+   "Priority order for on-page work stays: rental hub and money articles (Vietnam-market head terms), then licence/paperwork cluster (law-dated explainers), then vehicles and riding safety; routes/trips are informational support.",
+   "Off-site: Google Business Profile reviews and NAP consistency decide the local pack; the repository guarantees NAP consistency across schema, contact page and llms.txt (nap-check in schema-check.js) and leaves the profile to the owner.",
+   "Switch to DATA-DRIVEN mode as soon as a Search Console export exists (docs/seo/gsc-performance.csv): the matrix then replaces index estimates with measured impressions and positions and re-ranks priorities."
+  ]
+ }
 }

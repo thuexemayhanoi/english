@@ -19,7 +19,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://dtinews.dantri.com.vn/vietnam-today/long-bien-bridge-reopened-after-repairs-20260528102915217.htm — retrieved 2026-09-24: Long Bien Bridge reopened to two-way motorcycle, bicycle and pedestrian traffic on 27-28 May 2026 after repair works"
   - "https://www.vietnam.vn/en/ha-noi-cam-xe-qua-cau-long-bien-tu-ngay-28-3-den-het-27-5 — retrieved 2026-09-24: all vehicles were prohibited on the bridge 28 March-27 May 2026 for emergency repairs"
-  - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): the rental business is located at 112 Nguyen Van Cu, Bo De, Long Bien, open 09:00-21:00 daily"
+  - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): the rental business is located at 112 Nguyen Van Cu Street, Bo De, Long Bien, open 09:00-21:00 daily"
 internal_link_targets: long-bien-bridge-motorbike-guide, renting-motorbike-long-bien, motorbike-delivery-long-bien, red-river-dyke-riding-guide, hanoi-night-markets-motorbike-guide, red-river-islands-motorbike-guide, hanoi-districts-layout-guide-riders
 ---
 

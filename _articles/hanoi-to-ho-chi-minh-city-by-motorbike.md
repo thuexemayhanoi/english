@@ -57,4 +57,4 @@ Almost every real route mixes the two: mountains in the north and centre, coast 
 
 ## Starting in Hanoi
 
-The northern chapter is the country's best riding, and it is where we are: 112 Nguyen Van Cu, Long Bien. Contact us to confirm current availability for a touring-suited bike, and if the plan is a one-way epic, tell us the drop-off idea early — see our one-way [guide]({{ '/articles/one-way-motorbike-rental-vietnam/' | relative_url }}) for what is and is not realistic.
+The northern chapter is the country's best riding, and it is where we are: 112 Nguyen Van Cu Street, Long Bien. Contact us to confirm current availability for a touring-suited bike, and if the plan is a one-way epic, tell us the drop-off idea early — see our one-way [guide]({{ '/articles/one-way-motorbike-rental-vietnam/' | relative_url }}) for what is and is not realistic.

@@ -100,6 +100,8 @@ const has = (arr, re) => arr.some(i => re.test(i));
 
 // ---------- 1. SEO audit detection on the fixture ----------
 const ROOT = mkFixture();
+// NAP guard fixture: a contact page whose phone, address and hours drift from OWNER-FACTS.
+fs.writeFileSync(path.join(ROOT, 'contact.md'), '---\ntitle: Page contact\ndescription: Fixture contact page.\n---\n# Contact\n\nCall +84 942 467 675 or visit 121 Nguyen Van Cu Street. Open 08:00-22:00 daily.\n');
 const audits = runAllAudits(ROOT);
 const seoRep = readJSON(ROOT, 'reports/seo-audit.json');
 const seoIssues = issuesOf(seoRep);
@@ -109,6 +111,11 @@ check('seo-audit: duplicate title detected', has(seoIssues, /duplicate title "Sa
 const dupRep = readJSON(ROOT, 'reports/content-duplicate-check.json');
 check('content-duplicate-check: near-duplicate body (shingle similarity) detected', has(issuesOf(dupRep), /near-duplicate body \(shingle similarity/));
 check('content-duplicate-check: distinct bodies are not flagged', !has(issuesOf(dupRep, '_articles/valid-article.md'), /body/));
+const schemaRep = readJSON(ROOT, 'reports/schema-check.json');
+check('schema-check: NAP guard flags a wrong phone number', has(issuesOf(schemaRep, 'contact.md'), /NAP mismatch \(phone/), JSON.stringify(issuesOf(schemaRep, 'contact.md')));
+check('schema-check: NAP guard flags a wrong street address', has(issuesOf(schemaRep, 'contact.md'), /NAP mismatch \(address/));
+check('schema-check: NAP guard flags wrong opening hours', has(issuesOf(schemaRep, 'contact.md'), /NAP mismatch \(opening hours/));
+check('schema-check: NAP guard is silent on pages without business facts', !has(issuesOf(schemaRep, 'about.md'), /NAP mismatch/));
 check('seo-audit: blocking defects make the tool exit non-zero', audits.some(a => a.status !== 0));
 check('seo-audit: unknown-cluster article flagged (orphan-equivalent)', has(seoIssues, /unknown topic_cluster badcluster/));
 check('seo-audit: valid article produces no finding for itself', issuesOf(seoRep, '_articles/valid-article.md').filter(i => !/internal_link/.test(i)).length === 0, JSON.stringify(issuesOf(seoRep, '_articles/valid-article.md')));
@@ -205,6 +212,16 @@ runAllAudits(CLEAN);
 writeBaseline(CLEAN, Object.assign({}, cleanMetrics, { brokenInternalLinks: 99, duplicateTitles: 99, canonicalErrors: 99, schemaErrors: 99, orphans: 99, unexpectedNoindex: 99, duplicateMeta: 99 }), 'improvement test');
 const better = run(CLEAN, 'seo-regression.js', []);
 check('regression: improvements pass', better.status === 0 && /PASS/.test(better.out), better.out.split('\n')[0]);
+
+// ---------- 6. DATA-DRIVEN mode: Search Console export parser and bands ----------
+const LIB = require(path.join(ROOT, 'scripts', 'lib.js'));
+const gscPages = LIB.parseGscCsv('Top pages,Clicks,Impressions,CTR,Position\nhttps://en.rentbikehanoi.com/articles/valid-article/,12,340,3.53%,8.2\n');
+check('data-driven: Search Console pages export parsed (path normalised, CTR as a fraction)', gscPages.kind === 'pages' && gscPages.rows.length === 1 && gscPages.rows[0].page === '/articles/valid-article/' && Math.abs(gscPages.rows[0].ctr - 0.0353) < 1e-6 && gscPages.rows[0].position === 8.2, JSON.stringify(gscPages));
+const gscQueries = LIB.parseGscCsv('\uFEFFTop queries,Clicks,Impressions,CTR,Position\n"motorbike rental, hanoi",3,120,2.5%,11.4\n');
+check('data-driven: Search Console queries export parsed (BOM and quoted comma)', gscQueries.kind === 'queries' && gscQueries.rows[0].query === 'motorbike rental, hanoi' && gscQueries.rows[0].impressions === 120, JSON.stringify(gscQueries));
+check('data-driven: quick-win band is >= 50 impressions at position 4-20', LIB.gscSignal({ clicks: 12, impressions: 340, position: 8.2, ctr: 0.035 }).kind === 'quick-win' && LIB.gscSignal({ clicks: 1, impressions: 10, position: 45, ctr: 0.1 }).kind === 'measured');
+check('data-driven: low-CTR band is a top-3 position under 2% CTR with real demand', LIB.gscSignal({ clicks: 2, impressions: 400, position: 2.1, ctr: 0.005 }).kind === 'low-ctr');
+check('data-driven: an unknown CSV layout is rejected, never guessed', LIB.parseGscCsv('a,b\n1,2\n').kind === 'unknown');
 
 // ---------- 6. production isolation ----------
 check('isolation: fixture articles never leaked into production', !fs.existsSync(path.join(PROD_ROOT, '_articles', 'valid-article.md')));

@@ -61,6 +61,25 @@ CURRENT remote main before acting. Never rely on remembered state.
   english-keyword-clusters.md). Status lives in docs/seo/matrix-status.json;
   third-party metrics only in docs/seo/keyword-evidence.json (tool + date).
   Progress log: docs/seo/english-seo-progress.md. Never invent metrics.
+- Zero-data research layer: docs/seo/keyword-evidence.json (every block names
+  tool + date; _serp_snapshot* blocks feed the content gap register) and
+  docs/seo/keyword-universe.json (on-topic demand rows per market). The matrix
+  engine maps them to serving URLs and regenerates docs/seo/keyword-universe.md,
+  serp-landscape.md and link-prospects.md (matrix files in maintenance.js).
+  Never invent or round a metric; never target a competitor brand name; never
+  create an article for a gap. Off-site work (reviews, Google Business Profile,
+  outreach) is owner-only.
+- DATA-DRIVEN switch: docs/seo/gsc-performance.csv (a real Search Console
+  export; header-only template gsc-performance.template.csv) flips the matrix
+  from ZERO-DATA to DATA-DRIVEN mode (lib.js parseGscCsv/gscSignal). Never
+  fabricate an export or a measured figure; an unknown layout is rejected.
+- NAP guard: scripts/schema-check.js checks name, address, phone, hours and
+  Organization/LocalBusiness JSON-LD (incl. @graph) against docs/OWNER-FACTS.md.
+  A mismatch is P1 and owner-only to fix; never weaken the guard.
+- Indexing: .github/workflows/indexnow.yml + scripts/indexnow-submit.js + the
+  32-hex key file at the repo root. Runs after a successful Pages deployment,
+  submits only live-sitemap URLs, waits for the key file. Never submit URLs
+  outside the sitemap; Google stays with the sitemap and Search Console.
 - Link repair: scripts/link-bare-slugs.js (bare slug in prose -> contextual
   link; exact matches only; dry run by default, --apply records
   reports/link-bare-slugs.json). Not a rewrite tool.

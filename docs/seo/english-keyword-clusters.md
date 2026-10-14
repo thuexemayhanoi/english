@@ -65,6 +65,23 @@ Generated 2026-10-14 by `scripts/english-seo-matrix.js`. Keyword ownership is de
 | Hanoi motorbike rental for foreigners | informational | /articles/can-foreigners-rent-a-motorbike-hanoi/ | Can Foreigners Rent a Motorbike in Hanoi? | full | /articles/motorbike-rental-tourists-hanoi-essentials/, /articles/can-tourists-ride-motorbike-vietnam/ |  |
 | Hanoi motorcycle routes and safety | informational | /topics/safety/ | Riding Skills and Safety | full | /topics/trips/, /articles/riding-hanoi-old-quarter-narrow-streets/, /articles/west-lake-loop-motorbike-route/ |  |
 
+### Zero-data discoveries (2026-10-14)
+
+| Keyword | Intent | Owner URL | Owner title | Coverage | Supporting URLs | Note |
+|---|---|---|---|---|---|---|
+| Motorbike Vietnam | informational | /topics/vietnam-travel/ | Vietnam Travel by Motorbike | full | /topics/law-licences/, /topics/safety/, /topics/trips/ | Generic head term surfaced by the zero-data research (docs/seo/keyword-universe.json: third-party estimate, US market); the Vietnam travel hub is the pillar, the law, safety and trips hubs support it. |
+| Vietnam motorbike _(variant of Motorbike Vietnam)_ | informational | /topics/vietnam-travel/ | Vietnam Travel by Motorbike | full |  |  |
+| Motorbiking in Vietnam _(variant of Motorbike Vietnam)_ | informational | /topics/vietnam-travel/ | Vietnam Travel by Motorbike | partial |  |  |
+| Motorbike riding Vietnam _(variant of Motorbike Vietnam)_ | informational | /topics/vietnam-travel/ | Vietnam Travel by Motorbike | full |  |  |
+| Motorbike hire Vietnam _(variant of Renting a motorbike in Vietnam)_ | commercial | /topics/vietnam-travel/ | Vietnam Travel by Motorbike | partial |  | British/Australian wording of the same intent (keyword-universe.json, AU market). |
+| Motorbike hire Hanoi _(variant of Hanoi motorbike rental)_ | commercial | /topics/rental/ | Hanoi Motorbike Rental | partial |  | British/Australian wording of the same intent. |
+| Scooters in Vietnam | informational | /topics/scooters/ | Scooters in Vietnam | full | /articles/best-scooters-to-rent-hanoi/ | Vehicle-category head term; the scooter pillar answers it and routes rental intent to the Hanoi scooter rental guide. |
+| Vietnam scooters _(variant of Scooters in Vietnam)_ | informational | /topics/scooters/ | Scooters in Vietnam | full |  |  |
+| Vietnamese scooters _(variant of Scooters in Vietnam)_ | informational | /topics/scooters/ | Scooters in Vietnam | partial |  |  |
+| Scooter rental Vietnam | commercial | /topics/scooters/ | Scooters in Vietnam | full | /articles/best-scooters-to-rent-hanoi/, /topics/50cc/ | Vietnam-wide scooter rental intent; served by the scooter pillar (which links the Hanoi rental guides) because the business rents in Hanoi only. Never claim rental in other cities. |
+| Mopeds Vietnam | informational | /articles/what-is-a-moped-vietnam-law/ | What Counts as a Moped Under Vietnamese Law | full | /topics/50cc/ | "Moped" is the legal 50cc class in Vietnam; the definition guide owns it, the 50cc hub supports it. |
+| Vietnamese moped _(variant of Mopeds Vietnam)_ | informational | /articles/what-is-a-moped-vietnam-law/ | What Counts as a Moped Under Vietnamese Law | full |  |  |
+
 ## Topic cluster map (14 clusters, 981 articles)
 
 | # | Cluster | Hub (pillar) | Articles | Commercial | Informational | Avg words | Subclusters |

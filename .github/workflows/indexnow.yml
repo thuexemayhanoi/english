@@ -1,0 +1,66 @@
+name: IndexNow
+
+# Runs after every successful GitHub Pages deployment and tells the IndexNow search
+# engines which URLs changed (scripts/indexnow-submit.js). Only URLs present in the
+# live sitemap are ever submitted; the key file is checked live first, so the job
+# can never race the deploy. Manual runs can resubmit the whole sitemap.
+on:
+  workflow_run:
+    workflows: ["pages-build-deployment"]
+    types: [completed]
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "changed (URLs edited since the previous deployment) or all (every sitemap URL)"
+        required: true
+        default: changed
+        type: choice
+        options: [changed, all]
+
+permissions:
+  contents: read
+  actions: read
+
+concurrency:
+  group: indexnow
+  cancel-in-progress: false
+
+jobs:
+  submit:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Find the previous successful deployment
+        id: range
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          CUR="${{ github.event.workflow_run.head_sha || github.sha }}"
+          WF_ID=$(gh api "repos/${{ github.repository }}/actions/workflows" --jq '.workflows[] | select(.name == "pages-build-deployment") | .id' | head -n1)
+          PREV=""
+          if [ -n "$WF_ID" ]; then
+            PREV=$(gh api "repos/${{ github.repository }}/actions/workflows/$WF_ID/runs?status=success&per_page=20" --jq "[.workflow_runs[] | select(.head_sha != \"$CUR\")][0].head_sha // empty")
+          fi
+          echo "cur=$CUR" >> "$GITHUB_OUTPUT"
+          echo "prev=$PREV" >> "$GITHUB_OUTPUT"
+          echo "current=$CUR previous=${PREV:-none}"
+      - name: Submit to IndexNow
+        run: |
+          if [ "${{ inputs.mode }}" = "all" ] || [ -z "${{ steps.range.outputs.prev }}" ]; then
+            node scripts/indexnow-submit.js --all
+          else
+            node scripts/indexnow-submit.js --since "${{ steps.range.outputs.prev }}" --until "${{ steps.range.outputs.cur }}"
+          fi
+      - name: Upload submission report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: indexnow-report
+          path: reports/indexnow.json
+          if-no-files-found: ignore

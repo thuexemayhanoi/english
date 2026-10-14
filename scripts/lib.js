@@ -224,4 +224,58 @@ function expectedIndexableUrls(articles) {
   return set;
 }
 
-module.exports = { ROOT, CLUSTERS, SITE_URL, BASEURL, PRIMARY_LEGAL_DOMAINS, isPrimaryLegalSource, isBlocking, walk, parseFrontMatter, loadArticles, loadPages, articleUrl, pageUrl, stripLiquid, findH1s, extractLinks, Findings, sitemapLocs, isDynamicallyListed, expectedIndexableUrls };
+// ---------- Search Console export (DATA-DRIVEN mode) ----------
+// The matrix engine runs in ZERO-DATA mode until docs/seo/gsc-performance.csv exists.
+// That file is a Google Search Console performance export (Pages table, Queries table,
+// or a combined page+query export). Nothing here estimates or invents a number: rows
+// are parsed as exported and aggregated per page; the only derived figure is the
+// impression-weighted average position.
+function parseCsv(text) {
+  const rows = []; let row = [], cell = '', q = false;
+  const s = String(text);
+  for (let i = 0; i < s.length; i++) {
+    const c = s[i];
+    if (q) { if (c === '"') { if (s[i + 1] === '"') { cell += '"'; i++; } else q = false; } else cell += c; continue; }
+    if (c === '"') q = true;
+    else if (c === ',') { row.push(cell); cell = ''; }
+    else if (c === '\n' || c === '\r') { if (c === '\r' && s[i + 1] === '\n') i++; row.push(cell); rows.push(row); row = []; cell = ''; }
+    else cell += c;
+  }
+  if (cell.length || row.length) { row.push(cell); rows.push(row); }
+  return rows;
+}
+function sitePath(u) {
+  const v = String(u || '').trim(); if (!v) return '';
+  try { const p = new URL(v, SITE_URL).pathname; return /\.[a-z0-9]+$/i.test(p) ? p : p.replace(/\/?$/, '/'); } catch (e) { return v; }
+}
+function parseGscCsv(text) {
+  const rows = parseCsv(String(text).replace(/^\uFEFF/, ''));
+  if (!rows.length) return { kind: 'empty', rows: [] };
+  const head = rows[0].map(h => String(h).trim().toLowerCase());
+  const idx = names => head.findIndex(h => names.includes(h));
+  const iPage = idx(['top pages', 'page', 'pages', 'url', 'landing page']);
+  const iQuery = idx(['top queries', 'query', 'queries', 'keyword']);
+  const iClicks = idx(['clicks']), iImp = idx(['impressions']), iCtr = idx(['ctr']), iPos = idx(['position', 'average position', 'avg. position']);
+  if ((iPage < 0 && iQuery < 0) || iImp < 0) return { kind: 'unknown', rows: [] };
+  const num = v => { const n = parseFloat(String(v == null ? '' : v).replace(/[%,\s]/g, '')); return isNaN(n) ? null : n; };
+  const out = [];
+  for (const r of rows.slice(1)) {
+    if (!r.length || r.every(c => !String(c).trim())) continue;
+    const ctrRaw = iCtr >= 0 ? String(r[iCtr] == null ? '' : r[iCtr]) : '';
+    const ctr = iCtr >= 0 ? (ctrRaw.includes('%') ? num(ctrRaw) / 100 : num(ctrRaw)) : null;
+    out.push({ page: iPage >= 0 ? sitePath(r[iPage]) : null, query: iQuery >= 0 ? String(r[iQuery] == null ? '' : r[iQuery]).trim().toLowerCase() : null, clicks: iClicks >= 0 ? num(r[iClicks]) : null, impressions: num(r[iImp]), ctr: ctr == null || isNaN(ctr) ? null : ctr, position: iPos >= 0 ? num(r[iPos]) : null });
+  }
+  return { kind: iPage >= 0 && iQuery >= 0 ? 'page-query' : iPage >= 0 ? 'pages' : 'queries', rows: out };
+}
+// One deterministic reading per page. Bands are conventional and documented in the
+// README: a quick win is real demand (>= 50 impressions) ranking on page 1-2 but not
+// top 3; low CTR is a top-3 position that rarely gets the click.
+function gscSignal(m) {
+  const imp = m.impressions || 0, clicks = m.clicks || 0, pos = m.position;
+  if (imp >= 50 && pos != null && pos >= 4 && pos <= 20) return { kind: 'quick-win', note: imp + ' impressions at average position ' + pos.toFixed(1) + ': sharpen title, intro and Common questions for the measured queries' };
+  if (imp >= 200 && pos != null && pos < 4 && m.ctr != null && m.ctr < 0.02) return { kind: 'low-ctr', note: 'top-3 position with CTR ' + (m.ctr * 100).toFixed(1) + '%: rewrite the title and description for the click' };
+  if (imp === 0 && clicks === 0) return { kind: 'no-demand', note: 'indexed but no impressions in the export window' };
+  return { kind: 'measured', note: imp + ' impressions, ' + clicks + ' clicks' + (pos != null ? ', average position ' + pos.toFixed(1) : '') };
+}
+
+module.exports = { ROOT, CLUSTERS, SITE_URL, BASEURL, PRIMARY_LEGAL_DOMAINS, isPrimaryLegalSource, isBlocking, walk, parseFrontMatter, loadArticles, loadPages, articleUrl, pageUrl, stripLiquid, findH1s, extractLinks, Findings, sitemapLocs, isDynamicallyListed, expectedIndexableUrls, parseCsv, parseGscCsv, gscSignal, sitePath };

@@ -164,7 +164,7 @@ const safeFixes = [];
 // material changed the committed files are restored byte-for-byte so a date
 // line alone never produces a diff. P0 rows surface as a maintenance P1.
 const matrixScript = path.join(__dirname, 'english-seo-matrix.js');
-const MATRIX_FILES = ['docs/seo/english-seo-master-matrix.json', 'docs/seo/english-seo-master-matrix.csv', 'docs/seo/english-seo-master-matrix.md', 'docs/seo/english-keyword-clusters.md'];
+const MATRIX_FILES = ['docs/seo/english-seo-master-matrix.json', 'docs/seo/english-seo-master-matrix.csv', 'docs/seo/english-seo-master-matrix.md', 'docs/seo/english-keyword-clusters.md', 'docs/seo/serp-landscape.md', 'docs/seo/keyword-universe.md', 'docs/seo/link-prospects.md'];
 let matrixSummary = null; let matrixChanged = false;
 if (fs.existsSync(matrixScript) && fs.existsSync(path.join(ROOT, 'docs', 'seo'))) {
   const stable = x => JSON.stringify({ byPriority: x.byPriority, byStatus: x.byStatus, issueFrequency: x.issueFrequency, contentGapCount: x.contentGapCount, cannibalizationPairs: x.cannibalizationPairs, urls: x.urls });
