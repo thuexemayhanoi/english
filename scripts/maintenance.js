@@ -156,6 +156,35 @@ for (const a of arts) {
 const slugSet = new Set(currentSlugs);
 const norm = s => String(s).toLowerCase().replace(/\s+/g, '-').replace(/\.md$/, '').replace(/\/articles\//g, '').replace(/\/$/, '');
 const safeFixes = [];
+
+// ---------- 2b. English SEO Master Matrix (autonomous loop: Audit -> Matrix) ----------
+// Regenerates docs/seo/english-seo-master-matrix.* from the tool reports just
+// written. Material change (priorities, status, issue frequency, content gaps)
+// is a safe fix ("matrix refresh") carried by the weekly PR; when nothing
+// material changed the committed files are restored byte-for-byte so a date
+// line alone never produces a diff. P0 rows surface as a maintenance P1.
+const matrixScript = path.join(__dirname, 'english-seo-matrix.js');
+const MATRIX_FILES = ['docs/seo/english-seo-master-matrix.json', 'docs/seo/english-seo-master-matrix.csv', 'docs/seo/english-seo-master-matrix.md', 'docs/seo/english-keyword-clusters.md'];
+let matrixSummary = null; let matrixChanged = false;
+if (fs.existsSync(matrixScript) && fs.existsSync(path.join(ROOT, 'docs', 'seo'))) {
+  const stable = x => JSON.stringify({ byPriority: x.byPriority, byStatus: x.byStatus, issueFrequency: x.issueFrequency, contentGapCount: x.contentGapCount, cannibalizationPairs: x.cannibalizationPairs, urls: x.urls });
+  const before = {}; for (const f of MATRIX_FILES) { const fp = path.join(ROOT, f); if (fs.existsSync(fp)) before[f] = fs.readFileSync(fp, 'utf8'); }
+  const prevSummary = (() => { try { return JSON.parse(before[MATRIX_FILES[0]]).summary; } catch (e) { return null; } })();
+  const mr = spawnSync(process.execPath, [matrixScript], { encoding: 'utf8' });
+  if (mr.status !== 0) add('P1', 'seo-matrix', 'english-seo-matrix.js exited ' + mr.status + ': ' + (((mr.stderr || '') + (mr.stdout || '')).trim().split('\n')[0] || ''), 'inspect scripts/english-seo-matrix.js');
+  else {
+    try { matrixSummary = JSON.parse(fs.readFileSync(path.join(ROOT, MATRIX_FILES[0]), 'utf8')).summary; } catch (e) { matrixSummary = null; }
+    if (matrixSummary) {
+      if (matrixSummary.byPriority.P0 > 0) add('P1', 'seo-matrix', 'English SEO matrix has ' + matrixSummary.byPriority.P0 + ' P0 row(s)', 'work the P0 rows in docs/seo/english-seo-master-matrix.md');
+      matrixChanged = !prevSummary || stable(prevSummary) !== stable(matrixSummary);
+      if (matrixChanged) {
+        add('P3', 'seo-matrix', 'English SEO matrix changed vs the committed matrix: P0=' + matrixSummary.byPriority.P0 + ' P1=' + matrixSummary.byPriority.P1 + ' P2=' + matrixSummary.byPriority.P2 + ' P3=' + matrixSummary.byPriority.P3 + ', content gaps ' + matrixSummary.contentGapCount, 'auto-fixable with --fix (matrix refresh)');
+        for (const f of MATRIX_FILES) safeFixes.push({ file: f, kind: 'matrix-refresh' });
+      } else for (const f of MATRIX_FILES) if (before[f] !== undefined) fs.writeFileSync(path.join(ROOT, f), before[f]);
+    }
+  }
+}
+
 for (const a of arts) {
   const t = a.fm.internal_link_targets;
   if (!t) continue;
@@ -292,6 +321,7 @@ function applyFixes() {
     }
     if (text !== before) { fs.writeFileSync(p, text); fixedFiles.push('README.md'); }
   }
+  for (const f of safeFixes.filter(x => x.kind === 'matrix-refresh')) if (!fixedFiles.includes(f.file)) fixedFiles.push(f.file); // files were regenerated during the audit stage
   if (safeFixes.some(s => s.kind === 'generated-report')) {
     const r = spawnSync(process.execPath, [path.join(__dirname, 'build-report.js')], { encoding: 'utf8' });
     if (r.status === 0) fixedFiles.push('reports/quality-latest.md');
@@ -348,7 +378,8 @@ md += '| Schema status | ' + (toolResults['schema-check'] && toolResults['schema
 md += '| Rendered-site audit | ' + (hasSite ? (toolResults['rendered-site-audit'] && toolResults['rendered-site-audit'].status === 0 ? 'pass' : 'CHECK') : 'not run (no _site build in this run)') + ' |\n';
 md += '| SEO score | ' + (seoScoreData ? 'overall ' + seoScoreData.overall + ' (' + seoScoreData.status + ')' : 'n/a') + ' |\n';
 md += '| SEO regression guard | ' + (seoEngines['seo-regression'].status === 0 ? 'pass (no metric regressed vs accepted baseline)' : 'FAIL — see blocking findings') + ' |\n';
-md += '| SEO fix matrix | ' + (fixMatrixData ? fixMatrixData.summary.rootCauses + ' root causes (' + fixMatrixData.summary.totalFindings + ' findings, ' + fixMatrixData.summary.autoFixable + ' auto-fixable, ' + fixMatrixData.summary.reviewOnly + ' review-only)' : 'n/a') + ' |\n\n';
+md += '| SEO fix matrix | ' + (fixMatrixData ? fixMatrixData.summary.rootCauses + ' root causes (' + fixMatrixData.summary.totalFindings + ' findings, ' + fixMatrixData.summary.autoFixable + ' auto-fixable, ' + fixMatrixData.summary.reviewOnly + ' review-only)' : 'n/a') + ' |\n';
+md += '| English SEO matrix | ' + (matrixSummary ? 'P0=' + matrixSummary.byPriority.P0 + ' P1=' + matrixSummary.byPriority.P1 + ' P2=' + matrixSummary.byPriority.P2 + ' P3=' + matrixSummary.byPriority.P3 + ', content gaps ' + matrixSummary.contentGapCount + (matrixChanged ? ' (changed vs committed: refresh is a safe fix)' : ' (unchanged)') : 'n/a') + ' |\n\n';
 
 md += '## Counts per cluster\n\n| Cluster | Count |\n|---|---|\n';
 for (const c of L.CLUSTERS) md += '| ' + c + ' | ' + (perCluster[c] || 0) + ' |\n';
@@ -400,7 +431,8 @@ fs.writeFileSync(REPORT_JSON, JSON.stringify({
   seo: {
     score: seoScoreData ? { overall: seoScoreData.overall, status: seoScoreData.status, categoryScores: seoScoreData.categoryScores, blockingCount: seoScoreData.blockingCount } : null,
     regression: { status: seoEngines['seo-regression'].status, summary: seoEngines['seo-regression'].out.split('\n')[0] || '' },
-    fixMatrix: fixMatrixData ? fixMatrixData.summary : null
+    fixMatrix: fixMatrixData ? fixMatrixData.summary : null,
+    seoMatrix: matrixSummary ? { byPriority: matrixSummary.byPriority, byStatus: matrixSummary.byStatus, contentGapCount: matrixSummary.contentGapCount, changed: matrixChanged } : null
   },
   safeFixesAvailable: FIX ? [] : safeFixes,
   fixesApplied: FIX ? fixedFiles : []

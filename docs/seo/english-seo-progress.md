@@ -261,3 +261,15 @@ What answer engines and AI crawlers now get:
 - **`/llms.txt`**: a plain-text guide for AI crawlers naming the site, the business, the 14 hubs, the FAQ, contact and about pages, the owner-approved key facts (prices, deposit, insurance, payment, licence rule) and the sitemap. robots.txt allows every crawler.
 - **Measurement**: 10 AI-visibility prompts (ChatGPT, Gemini, Google AI Overviews) tracked monthly in the Ubersuggest brand created today against Tigit Motorbikes and Flamingo Scooters; first report in about a day. Live SERPs on this date show AI overviews on every informational query sampled, so the FAQ and entity work targets the surfaces that exist.
 - Verification: schema-check P0/P1 0, build, rendered audit P2 1 (404), sitemap-check 0 gaps.
+
+## 2026-10-14 — Weapon 05: autonomous SEO engineer (Audit → Matrix → Fix → Test → QA → Report)
+
+The loop now runs unattended inside the existing weekly maintenance workflow, with the production guards it already had:
+
+1. **Audit**: the six QA tools, the Guide Assistant tests and the SEO engines (score, fix matrix, regression guard) run on the current main.
+2. **Matrix**: `maintenance.js` regenerates the English SEO Master Matrix and keyword clusters from those fresh reports, prints the priorities and content-gap count in the maintenance report, and raises a maintenance P1 whenever the matrix holds a P0 row. A material change (priorities, status, issue frequency, gaps) becomes the "matrix refresh" safe fix; otherwise the committed files are restored byte-for-byte so nothing noisy is committed.
+3. **Fix**: only the deterministic safe-fix policy (slug normalisation, stale README count, generated report and matrix refresh). Legal, business, price, safety and travel content is never touched automatically; it stays REVIEW_REQUIRED for the owner.
+4. **Test / QA**: the safe-fix job rebuilds the exact repaired tree and re-runs the full audit; the article-count check and the regression guard refuse to push on any regression; the Quality Gate runs again on the PR.
+5. **Report**: `reports/maintenance-latest.md` (row "English SEO matrix"), `reports/maintenance.json` (`seoMatrix`), the deduplicated maintenance issue and, when safe fixes exist, one PR squash-merged only on green.
+
+Dry run on this tree: RESULT PASS_WITH_REVIEW (the four REVIEW_REQUIRED articles), matrix P0 0 · P1 4 · P2 0 · P3 999, content gaps 4, matrix unchanged, engine tests 31/31. Rank and AI-visibility data from the Ubersuggest project feed the next re-prioritisation once they exist.

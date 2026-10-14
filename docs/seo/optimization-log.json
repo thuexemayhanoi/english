@@ -1203,5 +1203,11 @@
       "/",
       "/llms.txt"
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "batch": "engine-autonomous-loop",
+    "note": "Weapon 05: maintenance.js regenerates the matrix after the QA tools, reports priorities and content gaps, raises P1 on P0 rows, carries material matrix changes as the matrix-refresh safe fix through the existing weekly PR verifier; unchanged matrices restored byte-for-byte",
+    "urls": []
   }
 ]

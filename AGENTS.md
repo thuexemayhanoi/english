@@ -29,6 +29,11 @@ CURRENT remote main before acting. Never rely on remembered state.
   content-duplicate-check, internal-link-audit, seo-audit, sitemap-check,
   schema-check, rendered-site-audit, build-report.js; gate:
   .github/workflows/quality-gate.yml.
+- Autonomous SEO loop: scripts/maintenance.js regenerates the English SEO
+  Master Matrix after the QA tools (Audit -> Matrix), reports its priorities
+  and content gaps, raises P1 on matrix P0 rows and carries a material matrix
+  change as the "matrix refresh" safe fix; unchanged matrices are restored
+  byte-for-byte. Never widen the safe-fix policy to content or facts.
 - Maintenance engine: scripts/maintenance.js (orchestrator) +
   scripts/maintenance-escalate.js (deduplicated issue + safe-fix PR) +
   .github/workflows/weekly-maintenance.yml.
