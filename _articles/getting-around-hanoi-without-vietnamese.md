@@ -1,7 +1,7 @@
 ---
 title: "Getting Around Hanoi by Motorbike Without Speaking Vietnamese"
 slug: getting-around-hanoi-without-vietnamese
-description: "Riding Hanoi when you don't speak Vietnamese: the phrases that matter, how parking lots, petrol stations, mechanics and police checks work without shared language, and translation strategies."
+description: "Riding Hanoi without speaking Vietnamese: the phrases that matter, how parking lots, petrol stations, mechanics and police checks work without a shared language."
 category: hanoi
 tags:
   - "language"
@@ -45,12 +45,12 @@ A dozen phrases cover ninety percent of rider interactions:
 - **Parking lots**: entirely gesture-driven. You arrive, an attendant waves, you park, you receive a stub. Pay on exit; "bao nhieu" plus pointing at the sign settles any doubt. Numbers are often shown on fingers of both hands — ten thousand dong is "one finger bent to indicate 'một'" context.
 - **Petrol stations**: covered above — "95, lam ngan" is a complete sentence.
 - **Mechanics**: point at the symptom, not the cause. Mime the sound ("khoi khoi" for smoke, "toi" for the horn). The mechanic conversation guide has the deeper playbook, including the golden rule: agree the price before the work, in writing or on a calculator screen — the calculator is the negotiation table in every shop.
-- **Police stops**: hand over documents with both hands, smile, wait. Translation apps help for the explanation stage, but for a genuine document check most interactions are conducted entirely in gestures and paperwork. If a fine is proposed, the payment rules matter more than the words — the traffic-fine guide covers how fines are lawfully paid.
+- **Police stops**: hand over documents with both hands, smile, wait. Translation apps help for the explanation stage, but for a genuine document check most interactions are conducted entirely in gestures and paperwork. If a fine is proposed, the payment rules matter more than the words — [the traffic-fine guide]({{ '/articles/how-to-pay-traffic-fine-vietnam/' | relative_url }}) covers how fines are lawfully paid.
 - **Directions**: Hanoians give directions by landmark and street name, not by numbers. "Pho Nguyen Van Cu?" with a rising tone is a question anyone answers with a pointed finger.
 
 ## The phone strategy
 
-Three apps carry the whole burden: a navigation app in motorbike mode (the navigation guide covers the local addressing quirks), a camera (photograph the parking stub, the bike's location, any pre-existing damage), and a translation app used sparingly — voice translation feels futuristic but street Vietnamese defeats it often enough that typing single nouns works better. Offline translation packs for Vietnamese are small; download before you ride.
+Three apps carry the whole burden: a navigation app in motorbike mode ([the navigation guide]({{ '/articles/hanoi-navigation-motorbike-guide/' | relative_url }}) covers the local addressing quirks), a camera (photograph the parking stub, the bike's location, any pre-existing damage), and a translation app used sparingly — voice translation feels futuristic but street Vietnamese defeats it often enough that typing single nouns works better. Offline translation packs for Vietnamese are small; download before you ride.
 
 ## The cultural layer
 

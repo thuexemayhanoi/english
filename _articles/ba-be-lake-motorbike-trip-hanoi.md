@@ -22,7 +22,7 @@ sources:
   - "https://rentabikevn.com/ba-be-national-park-travel-guide/ — the lakes lie about 280 km from Hanoi, 61 km from Bac Kan and 18 km from Cho Ra; roughly one day of motorcycle riding from Hanoi, with ethnic villages around the national park reachable in 2-3 days, retrieved 2026-09-24"
   - "https://rentabikevn.com/days-to-get-out-of-hanoi-by-motorcycle/ — Ba Be is closer to 200 km from Hanoi and makes a fuller first or second day with access to the western northeast, a natural stepping stone toward Cao Bang, retrieved 2026-09-24"
   - "https://rentabikevn.com/cao-bang-loop-motorcycle-tour/ — a typical northeast loop from Hanoi of about six days can include Ba Be Lake, Bao Lac, Pac Bo, Ban Gioc, Cao Bang city and Bac Son, retrieved 2026-09-24"
-internal_link_targets: motorbike-trip-prep-checklist-hanoi, overnight-stays-motorbike-trips-vietnam, motorbike-trip-navigation-offline-maps-vietnam, motorbike-trip-seasons-north-vietnam, cao-bang-ban-gioc-motorbike-trip, northeast-vietnam-motorbike-loop
+internal_link_targets: "motorbike-trip-prep-checklist-hanoi, overnight-stays-motorbike-trips-vietnam, motorbike-trip-navigation-offline-maps-vietnam, motorbike-trip-seasons-north-vietnam, cao-bang-ban-gioc-motorbike-trip, northeast-vietnam-motorbike-loop, cat-ba-ha-long-motorbike-trip-ferry"
 ---
 
 Ba Be is Vietnam's largest natural mountain lake: three connected basins ringed by forest and limestone inside a national park in Bac Kan province, roughly 200 to 280 kilometres from Hanoi depending on the roads you choose. It is the gentlest of the northeast trips — mostly good tarmac, a big-lake destination instead of a border frontier — and the natural stepping stone toward Cao Bang and Ban Gioc for riders building a longer circuit.
@@ -37,7 +37,7 @@ Fuel is available along the QL3 corridor; fill up in Cho Ra before the final run
 
 The heart of a Ba Be trip is the boat: long-tail boats from the lake shore cruise the three basins, past limestone cliffs and into Puong cave where the Nang river runs through the mountain, usually to the Dau Dang waterfall downstream. Boat trips are arranged on the spot at the dock or through your homestay — agree the route and price before boarding.
 
-Most riders sleep in Pac Ngoi, the Tay stilt-house village on the southern shore, or in homestays scattered around the park buffer. Our overnight-stays checklist applies directly here: confirm covered or watched parking for the bike, confirm whether dinner and breakfast are included, and book ahead in peak autumn season. Two to three days is the right scale for the trip — one to ride in, one for the lake and villages, one to ride out, with our day-distance [guide]({{ '/articles/how-far-motorbike-day-trip-hanoi/' | relative_url }}) explaining why the legs in and out deserve their own days.
+Most riders sleep in Pac Ngoi, the Tay stilt-house village on the southern shore, or in homestays scattered around the park buffer. [Our overnight-stays checklist]({{ '/articles/overnight-stays-motorbike-trips-vietnam/' | relative_url }}) applies directly here: confirm covered or watched parking for the bike, confirm whether dinner and breakfast are included, and book ahead in peak autumn season. Two to three days is the right scale for the trip — one to ride in, one for the lake and villages, one to ride out, with our day-distance [guide]({{ '/articles/how-far-motorbike-day-trip-hanoi/' | relative_url }}) explaining why the legs in and out deserve their own days.
 
 ## Extending the trip
 

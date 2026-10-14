@@ -1,5 +1,5 @@
 ---
-title: "Renting a Motorbike in Hue: Imperial City Riding Guide"
+title: "Renting a Motorbike in Hue: A Practical Guide for Visitors"
 slug: renting-motorbike-hue
 description: "Renting a motorbike in Hue: realistic prices, licence requirements, the imperial-citadel side streets and the rides to the tombs, Thanh Toan and the Hai Van Pass."
 category: vietnam-travel
@@ -19,7 +19,7 @@ sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): contact details and availability wording only"
   - "https://huemotorbikeadventure.com/rental/where-to-rent-a-motorbike-in-hue.html — Hue rental shops, updated prices and tips for travellers, retrieved 2026-09-24"
   - "https://riderly.com/rental-locations/vietnam/hue-city/ — Hue rental listings and licence-class expectations for scooters, retrieved 2026-09-24"
-internal_link_targets: hai-van-pass-motorbike-guide, renting-motorbike-da-nang, motorbike-parking-vietnamese-cities, can-tourists-ride-motorbike-vietnam, first-time-renting-a-motorbike-hanoi
+internal_link_targets: "hai-van-pass-motorbike-guide, renting-motorbike-da-nang, motorbike-parking-vietnamese-cities, can-tourists-ride-motorbike-vietnam, first-time-renting-a-motorbike-hanoi, renting-motorbike-nha-trang"
 ---
 
 Hue rewards a motorbike more than almost any city in Vietnam. The imperial capital is spread out — citadel, royal tombs scattered along the Perfume River, pagodas, and the DMZ an hour north — and its calm, tree-lined streets are the gentlest introduction to Vietnamese riding anywhere in the country. Renting here is easy, cheap, and the riding is genuinely lovely.

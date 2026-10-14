@@ -19,7 +19,7 @@ sources:
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 product page"
   - "https://dat.bike/en/xe-may-dien-weaver-plus-plus-en/ — Dat Bike official Weaver++ product page"
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026"
-internal_link_targets: electric-motorbike-day-trips-range-planning-hanoi, dat-bike-weaver-200-review, best-motorbike-for-long-distance-vietnam, electric-motorbike-range-real-world-vietnam, electric-motorbike-charging-time-planning-vietnam
+internal_link_targets: "electric-motorbike-day-trips-range-planning-hanoi, dat-bike-weaver-200-review, best-motorbike-for-long-distance-vietnam, electric-motorbike-range-real-world-vietnam, electric-motorbike-charging-time-planning-vietnam, vietnam-electric-two-wheeler-market-overview"
 ---
 
 Touring Vietnam on two wheels has always been a petrol discipline — range measured in tanks, refuelled anywhere. Electric touring is now possible, but only on the right machine and only with planning habits that petrol riders never needed. Here is the honest state of it, from verified figures only.
@@ -48,4 +48,4 @@ A1-class machines require an A1 licence; the licence-free class is capped at 70 
 
 ## Is it there yet?
 
-For riders who hold the licence, accept planning discipline, and want silence on the passes: yes — the Weaver 200 class makes intercity touring real. For riders who want to ride until a random shop has fuel: not yet. The day-trips-from-Hanoi guide shows what the format already does well close to home.
+For riders who hold the licence, accept planning discipline, and want silence on the passes: yes — the Weaver 200 class makes intercity touring real. For riders who want to ride until a random shop has fuel: not yet. [The day-trips-from-Hanoi guide]({{ '/articles/electric-motorbike-day-trips-range-planning-hanoi/' | relative_url }}) shows what the format already does well close to home.

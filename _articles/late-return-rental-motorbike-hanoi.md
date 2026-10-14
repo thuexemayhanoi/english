@@ -1,7 +1,7 @@
 ---
 title: "What Happens If You Return a Rental Motorbike Late in Hanoi"
 slug: late-return-rental-motorbike-hanoi
-description: "Late returns at Nguyen Tu are charged 20,000 VND per hour, and more than six hours late may be charged a full additional rental day (typically 150,000-200,000 VND). How to handle it."
+description: "Late returns at Nguyen Tu cost 20,000 VND per hour, and more than six hours late may be charged a full extra rental day (typically 150,000-200,000 VND)."
 category: rental
 tags:
   - "late return"

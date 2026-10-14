@@ -1,7 +1,7 @@
 ---
 title: "Honda Vario 160 vs Air Blade 160: Two Sporty Hondas, One Garage"
 slug: honda-vario-160-vs-honda-air-blade-160
-description: "Honda Vario 160 vs Air Blade 160 compared on verified Honda Vietnam specs - 156.9cc eSP engines, ABS, weights, 17.9L flat floor against the classic Air Blade package."
+description: "Honda Vario 160 vs Air Blade 160 on verified Honda Vietnam specs: 156.9cc eSP engines, ABS, weights, and the 17.9L flat floor against the classic Air Blade package."
 category: scooters
 tags:
   - "honda vario 160"

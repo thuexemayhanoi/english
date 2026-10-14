@@ -1,7 +1,7 @@
 ---
 title: "How Deposit Returns Work at Hanoi Motorbike Rentals"
 slug: how-deposit-returns-work-hanoi
-description: "Your deposit comes back in cash at return after a quick condition walk-around against your handover photos - no damage, no deductions. Timeline, disputes and what slows it down."
+description: "Your deposit comes back in cash at return after a quick walk-around against your handover photos: no damage, no deductions."
 category: rental
 tags:
   - "deposit return"
@@ -48,4 +48,4 @@ The record is the contract and the handover photos. This is why both exist. Shop
 
 ## The rule that prevents it all
 
-Take the photos. Every panel, both sides, at handover, sent to the shop's chat. The deposit article covers the holding side; this covers the coming-back side. Done right, the return is the quietest part of the rental.
+Take the photos. Every panel, both sides, at handover, sent to the shop's chat. [The deposit article]({{ '/articles/motorbike-rental-deposit-hanoi/' | relative_url }}) covers the holding side; this covers the coming-back side. Done right, the return is the quietest part of the rental.

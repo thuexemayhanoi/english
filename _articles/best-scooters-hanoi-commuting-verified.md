@@ -1,7 +1,7 @@
 ---
-title: "Best Scooters for Hanoi Commuting: A Verified-Data Guide"
+title: "Best Scooters for Hanoi Commuting: Verified City-Traffic Picks"
 slug: best-scooters-hanoi-commuting-verified
-description: "Which scooters actually work for daily Hanoi commuting, using only manufacturer-verified data - weight, seat height, economy, storage and ABS ranked for city traffic."
+description: "Which scooters work for daily Hanoi commuting, using only manufacturer-verified data: weight, seat height, economy, storage and ABS ranked for city traffic."
 category: scooters
 tags:
   - "hanoi commuting"

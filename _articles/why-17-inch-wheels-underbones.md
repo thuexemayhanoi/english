@@ -1,5 +1,5 @@
 ---
-title: "Why Underbones Use 17-Inch Wheels: The Vietnamese Standard Explained"
+title: "Why Underbones Use 17-Inch Wheels: The Vietnamese Standard"
 slug: why-17-inch-wheels-underbones
 description: "Why every Vietnamese underbone runs 17-inch wheels, what the small front sections trade, and the verified fitments across the range."
 category: motorcycles

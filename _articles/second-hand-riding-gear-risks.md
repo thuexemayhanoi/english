@@ -1,5 +1,5 @@
 ---
-title: "Buying Second-Hand Riding Gear: When It Makes Sense and When It Doesn’t"
+title: "Buying Second-Hand Riding Gear: When It Makes Sense"
 slug: second-hand-riding-gear-risks
 description: "Which used riding gear is safe to buy second-hand in Vietnam — and which items should always be bought new."
 category: parts-gear

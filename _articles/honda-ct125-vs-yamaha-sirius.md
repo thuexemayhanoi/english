@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn and yamaha-motor.com.vn - official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-ct125-review, yamaha-sirius-rc-110-review, honda-wave-rsx-vs-yamaha-sirius, honda-blade-vs-honda-ct125, cheapest-new-underbones-vietnam-verified, how-to-rent-a-motorbike-hanoi
+internal_link_targets: "honda-ct125-review, yamaha-sirius-rc-110-review, honda-wave-rsx-vs-yamaha-sirius, honda-blade-vs-honda-ct125, cheapest-new-underbones-vietnam-verified, how-to-rent-a-motorbike-hanoi, honda-super-cub-vs-yamaha-sirius"
 ---
 
 The CT125 and the Sirius RC come from opposite corners of the Vietnamese market: Honda's trail-styled Cub is a premium weekend machine, while Yamaha's Sirius is the budget workhorse that competes on price and simplicity. Honda Vietnam and Yamaha Vietnam publish full specs for both (retrieved 23 September 2026).

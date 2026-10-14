@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-cbr150r-review, yamaha-exciter-155-vva-review, valve-clearances-motorbike-basics, esp-vs-blue-core-engines-explained, yamaha-vva-explained, best-150cc-manual-motorbikes-vietnam-verified
+internal_link_targets: "honda-cbr150r-review, yamaha-exciter-155-vva-review, valve-clearances-motorbike-basics, esp-vs-blue-core-engines-explained, yamaha-vva-explained, best-150cc-manual-motorbikes-vietnam-verified, single-cylinder-underbone-engines-explained"
 ---
 
 Camshaft count is the quiet spec that shapes an engine's character. Vietnam's underbones split into SOHC and DOHC camps, and the manufacturers name their layouts (retrieved 23 September 2026).

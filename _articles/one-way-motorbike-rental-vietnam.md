@@ -1,5 +1,5 @@
 ---
-title: "One-Way Motorbike Rental in Vietnam: How Riding North to South Actually Works"
+title: "One-Way Motorbike Rental in Vietnam: How North to South Works"
 slug: one-way-motorbike-rental-vietnam
 description: "Can you rent a motorbike in Hanoi and drop it in Ho Chi Minh City? How one-way rental, buy-sell schemes and buybacks really work for long Vietnam trips."
 category: vietnam-travel

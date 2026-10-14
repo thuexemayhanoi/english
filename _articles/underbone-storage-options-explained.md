@@ -32,7 +32,7 @@ Because the factories under-equip the class, Vietnam built an ecosystem: front b
 
 ## The safety line
 
-Underbone frames are light and the bikes narrow; heavy rear loads change handling measurably, and our luggage-carrying guide covers the low-and-central rule. Never bungee anything that can reach the rear wheel or exhaust.
+Underbone frames are light and the bikes narrow; heavy rear loads change handling measurably, and [our luggage-carrying guide]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}) covers the low-and-central rule. Never bungee anything that can reach the rear wheel or exhaust.
 
 ## Rental note
 

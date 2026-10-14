@@ -1,5 +1,5 @@
 ---
-title: "Thay and Tay Phuong Pagodas by Motorbike: The Southwest Half-Day Ride"
+title: "Thay and Tay Phuong Pagodas by Motorbike: A Half-Day Ride"
 slug: thay-pagoda-tay-phuong-pagoda-motorbike-route
 description: "A motorbike route from Hanoi to Thay Pagoda and Tay Phuong Pagoda west of the city: distances, road choice, what to see at each and how to time the trip."
 category: trips
@@ -21,7 +21,7 @@ sources:
   - "https://www.paradissa.com/vietnam/vietnam-tours/vietnam-day-trips/hanoi-thay-pagoda-tay-phuong-pagoda — about 30 km and 45 minutes from Hanoi to the pagoda area; Tay Phuong is famous for its 18 lacquered arhat statues, retrieved 2026-09-24"
   - "https://localvietnam.com/blog/thay-pagoda/ — Thay Pagoda (Thien Phuc Tu) in Quoc Oai, about 30 km southwest of Hanoi, an 11th-century foundation with water-puppet theatre roots, retrieved 2026-09-24"
   - "https://www.asiantrails.travel/trail/hanois-thay-and-tay-phuong-pagodas/ — a half-day itinerary heading about 30 km southwest from Hanoi to Thay Pagoda, home of water puppetry, then Tay Phuong, retrieved 2026-09-24"
-internal_link_targets: best-motorbike-for-day-trips-from-hanoi, hanoi-pagodas-temples-motorbike-guide, temple-of-literature-motorbike-visit, how-to-rent-a-motorbike-hanoi, what-to-wear-riding-motorbike-vietnam
+internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, hanoi-pagodas-temples-motorbike-guide, temple-of-literature-motorbike-visit, how-to-rent-a-motorbike-hanoi, what-to-wear-riding-motorbike-vietnam, perfume-pagoda-motorbike-trip"
 ---
 
 Two of the most atmospheric pagodas near Hanoi sit in the hills southwest of the city: Thay Pagoda, the 11th-century home of Vietnamese water puppetry, and Tay Phuong Pagoda, famous for its lacquered arhat statues. The pair is about 30 kilometres out — a half-day trip on the bike, and one of the shortest rides on this site that still feels like leaving the city entirely.

@@ -1,5 +1,5 @@
 ---
-title: "Honda Super Cub C125 Review: The Icon, Priced Like a Premium Scooter"
+title: "Honda Super Cub C125 Review: The Icon at a Premium Price"
 slug: honda-super-cub-c125-review
 description: "Honda Super Cub C125 review on verified Honda Vietnam specs - 123.9cc engine, 10.15 Nm torque, 109 kg weight, 88.35 million VND list and who this icon suits."
 category: motorcycles

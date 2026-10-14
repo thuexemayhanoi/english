@@ -1,7 +1,7 @@
 ---
-title: "Riding Around Hanoi's University Areas: Traffic, Parking and Timing"
+title: "Riding Around Hanoi's University Areas: Traffic and Parking"
 slug: hanoi-university-areas-riding-guide
-description: "Motorbike riding around Hanoi's university zones: the class-change waves, student riding culture, campus parking, the university corridors and safety notes for mixed traffic."
+description: "Riding around Hanoi's university zones: class-change traffic waves, student riding culture, campus parking, the university corridors and mixed-traffic safety notes."
 category: hanoi
 tags:
   - "universities"
@@ -37,7 +37,7 @@ Big campuses run the largest motorbike parking operations in the city — fenced
 
 ## Student riding culture, honestly
 
-The student fleet is the city's most battered and most beloved: 50cc bikes under learners, aged Waves and Sirius handed down through three siblings, scooters bought with a term's savings. The safety statistics of young riders are exactly what you would expect, which is why the teen-riding guides in this library exist and why universities themselves run helmet campaigns. Foreign students should read the licence rules for their situation before riding anything — the student licence article covers what is actually legal for a foreigner studying in Vietnam.
+The student fleet is the city's most battered and most beloved: 50cc bikes under learners, aged Waves and Sirius handed down through three siblings, scooters bought with a term's savings. The safety statistics of young riders are exactly what you would expect, which is why the teen-riding guides in this library exist and why universities themselves run helmet campaigns. Foreign students should read the licence rules for their situation before riding anything — [the student licence article]({{ '/articles/foreign-student-motorbike-licence-vietnam/' | relative_url }}) covers what is actually legal for a foreigner studying in Vietnam.
 
 ## For teachers and long-stay riders
 

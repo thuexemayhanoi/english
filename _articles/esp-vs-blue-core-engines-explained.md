@@ -1,7 +1,7 @@
 ---
 title: "eSP vs Blue Core: Honda and Yamaha Engine Families Explained"
 slug: esp-vs-blue-core-engines-explained
-description: "Honda eSP and eSP+ versus Yamaha Blue Core and Blue Core Hybrid explained - which models use each, verified outputs, and what the engine family names mean for Vietnamese riders."
+description: "Honda eSP and eSP+ versus Yamaha Blue Core and Blue Core Hybrid: which models use each, verified outputs, and what the engine names mean for riders in Vietnam."
 category: scooters
 tags:
   - "honda esp"
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn - Honda VN model pages (Vision, Air Blade, Lead, Sh mode 125, SH160i/125i, Vario 125, Vario 160), official specifications (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn - Yamaha VN model pages (Janus, FreeGo, Grande, Latte, NVX 155), official specifications (retrieved 2026-09-23)"
-internal_link_targets: honda-vs-yamaha-scooters-vietnam, honda-scooter-lineup-vietnam-explained, yamaha-scooter-lineup-vietnam-explained, air-cooled-vs-liquid-cooled-motorbike, scooter-fuel-economy-comparison-vietnam
+internal_link_targets: "honda-vs-yamaha-scooters-vietnam, honda-scooter-lineup-vietnam-explained, yamaha-scooter-lineup-vietnam-explained, air-cooled-vs-liquid-cooled-motorbike, scooter-fuel-economy-comparison-vietnam, led-vs-halogen-scooter-headlights, scooter-valve-counts-explained, stop-and-start-scooters-explained"
 ---
 
 Every automatic scooter sold by Honda and Yamaha in Vietnam carries one of four engine-family badges: eSP, eSP+, Blue Core or Blue Core Hybrid. They are marketing names for real engineering families, and knowing which is which makes spec sheets much easier to read. Everything below is from manufacturer product pages (retrieved 23 September 2026).

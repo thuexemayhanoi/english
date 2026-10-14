@@ -1,5 +1,5 @@
 ---
-title: "Month-to-Month Motorbike Rental for Digital Nomads in Hanoi"
+title: "Month-to-Month Motorbike Rental in Hanoi for Remote Workers"
 slug: nomads-monthly-motorbike-hanoi
 description: "Digital nomads in Hanoi: month-to-month motorbike rental, what happens when you change districts or leave the country, and the flexible-rental questions to ask."
 category: monthly-rental

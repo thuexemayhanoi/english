@@ -16,7 +16,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — official Honda Vietnam model pages (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved)"
-internal_link_targets: "honda-air-blade-160-review, honda-lead-125-review, scooter-underseat-storage-comparison, 110cc-vs-125cc-scooters, which-scooters-have-abs-vietnam, honda-vision-vs-honda-air-blade"
+internal_link_targets: "honda-air-blade-160-review, honda-lead-125-review, scooter-underseat-storage-comparison, 110cc-vs-125cc-scooters, which-scooters-have-abs-vietnam, honda-vision-vs-honda-air-blade, honda-lead-125-vs-honda-vario-160, yamaha-nmax-155-vs-honda-air-blade-160"
 ---
 
 Both Hondas share engines from the same family, liquid cooling and automatic practicality - but they answer different questions. The Air Blade 160 is built around pace; the Lead 125 around cargo. Figures below are Honda Vietnam's own (retrieved 23 September 2026).

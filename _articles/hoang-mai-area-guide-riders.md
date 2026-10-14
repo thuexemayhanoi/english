@@ -1,7 +1,7 @@
 ---
 title: "Hoang Mai for Motorbike Riders: Hanoi's Quiet Southern Gateway"
 slug: hoang-mai-area-guide-riders
-description: "Riding the former Hoang Mai area of southern Hanoi: lakes and parks, ring-road access, traffic character, parking and why riders base themselves in the south of the city."
+description: "Riding the former Hoang Mai area of southern Hanoi: lakes and parks, ring-road access, traffic character, parking and why riders base themselves in the south."
 category: hanoi
 tags:
   - "hoang mai"

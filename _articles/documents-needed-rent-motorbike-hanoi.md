@@ -1,7 +1,7 @@
 ---
 title: "What Documents Do You Need to Rent a Motorbike in Hanoi?"
 slug: documents-needed-rent-motorbike-hanoi
-description: "You need your passport for the rental contract and a licence valid in Vietnam to ride legally - nothing more. No IDP without a licence behind it, no residence permit, no insurance paperwork of your own."
+description: "You need your passport for the rental contract and a licence valid in Vietnam to ride legally, nothing more. No IDP without a licence behind it, no residence permit."
 category: rental
 tags:
   - "documents"

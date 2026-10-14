@@ -1,5 +1,5 @@
 ---
-title: "Honda PGM-FI Explained: What Fuel Injection Does on Vietnamese Underbones"
+title: "Honda PGM-FI Explained: Fuel Injection on Vietnamese Underbones"
 slug: honda-pgm-fi-explained
 description: "How Honda’s PGM-FI injection works on bikes like the Wave RSX, which models have it, and what remains unverified in the 110 class."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-wave-rsx-review, carburettor-vs-fuel-injection-vietnam, fuel-injector-cleaning-vietnam, honda-wave-alpha-vs-honda-wave-rsx, most-fuel-efficient-underbones-vietnam-verified, cold-start-motorbike-winter-vietnam
+internal_link_targets: "honda-wave-rsx-review, carburettor-vs-fuel-injection-vietnam, fuel-injector-cleaning-vietnam, honda-wave-alpha-vs-honda-wave-rsx, most-fuel-efficient-underbones-vietnam-verified, cold-start-motorbike-winter-vietnam, euro-emissions-underbones-vietnam"
 ---
 
 PGM-FI - Programmed Fuel Injection - is Honda's engine-management brand, and in Vietnam's underbone class it marks the line between old and new. What follows is grounded in what Honda VN actually publishes (retrieved 23 September 2026).
@@ -28,7 +28,7 @@ Honda's page lists PGM-FI for the Wave RSX. That is the verified claim for the 1
 
 ## What injection actually changes
 
-Metering: an ECU reads sensors and doses fuel per combustion cycle, adjusting for temperature and altitude; carburettors meter mechanically by airflow. Cold starts: injection removes the winter choke ritual - relevant to our cold-start guide. Economy and emissions: the Wave RSX's published 1.56 L/100 km against the Alpha's 1.72 is a fair example of the injection dividend, though engine tuning shares the credit. Maintenance profile: no carburettor to clean and tune - our carburettor care guide describes the work injection deletes; instead, injectors occasionally need cleaning, as our injector guide covers.
+Metering: an ECU reads sensors and doses fuel per combustion cycle, adjusting for temperature and altitude; carburettors meter mechanically by airflow. Cold starts: injection removes the winter choke ritual - relevant to [our cold-start guide]({{ '/articles/cold-start-motorbike-winter-vietnam/' | relative_url }}). Economy and emissions: the Wave RSX's published 1.56 L/100 km against the Alpha's 1.72 is a fair example of the injection dividend, though engine tuning shares the credit. Maintenance profile: no carburettor to clean and tune - our carburettor care guide describes the work injection deletes; instead, injectors occasionally need cleaning, as [our injector guide]({{ '/articles/fuel-injector-cleaning-vietnam/' | relative_url }}) covers.
 
 ## Why it matters in Vietnam
 

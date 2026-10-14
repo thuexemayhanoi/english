@@ -1,7 +1,7 @@
 ---
 title: "Electric Bike and Electric Scooter Licence Rules in Vietnam"
 slug: electric-bike-licence-vietnam
-description: "How Vietnam classifies electric two-wheelers under Law 36/2024/QH15: pedal e-bikes as non-motorised bicycles, 4 kW-and-under machines as mopeds, A1 up to 11 kW and A above that."
+description: "How Vietnam classifies electric two-wheelers under Law 36/2024/QH15: pedal e-bikes as bicycles, machines up to 4 kW as mopeds, A1 up to 11 kW and A above that."
 category: law-licences
 tags:
   - "electric"

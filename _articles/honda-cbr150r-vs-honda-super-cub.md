@@ -36,4 +36,4 @@ CBR150R: 72,290,000 VND. Super Cub: 88,353,813 VND - yes, the Cub is the more ex
 
 ## Who should buy which
 
-The CBR150R suits a confident, geared-up rider who wants genuine sport capability out of Hanoi. The Cub suits literally everyone else, including complete beginners - which is why our easiest motorbikes for beginners guide steers new arrivals toward semi-automatics.
+The CBR150R suits a confident, geared-up rider who wants genuine sport capability out of Hanoi. The Cub suits literally everyone else, including complete beginners - which is why [our easiest motorbikes for beginners guide]({{ '/articles/easiest-motorbikes-for-beginners-hanoi/' | relative_url }}) steers new arrivals toward semi-automatics.

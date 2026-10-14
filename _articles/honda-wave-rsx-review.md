@@ -26,7 +26,7 @@ The Wave RSX is the top of Honda's 110 cc underbone range: the same proven engin
 
 ## Engine and fuel injection
 
-The 109.2 cc single-cylinder air-cooled four-stroke produces 6.46 kW at 7,500 rpm and 8.70 Nm at 6,000 rpm - the strongest published output of Honda's Vietnamese 110 cc underbones. Crucially, every version runs Honda's PGM-FI electronic fuel injection, which delivers better cold starts and steadier fuelling than a carburettor; our carburettor versus fuel injection guide explains the practical difference. The gearbox is a mechanical four-speed rotary with kick and electric start, and the compression ratio is 9.3:1.
+The 109.2 cc single-cylinder air-cooled four-stroke produces 6.46 kW at 7,500 rpm and 8.70 Nm at 6,000 rpm - the strongest published output of Honda's Vietnamese 110 cc underbones. Crucially, every version runs Honda's PGM-FI electronic fuel injection, which delivers better cold starts and steadier fuelling than a carburettor; [our carburettor versus fuel injection guide]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}) explains the practical difference. The gearbox is a mechanical four-speed rotary with kick and electric start, and the compression ratio is 9.3:1.
 
 ## Economy and range
 

@@ -34,7 +34,7 @@ Electric two-wheelers are the most connected machines on Vietnamese roads, and t
 
 ## What the features are worth
 
-Security is the headline value: tracking plus remote immobilisation materially changes theft economics, as our security guide explains. Convenience is second: unlock-and-ride without keys is a small thing done dozens of times weekly. And remote updates mean your bike improves rather than depreciates in software terms — rare anywhere in transport.
+Security is the headline value: tracking plus remote immobilisation materially changes theft economics, as [our security guide]({{ '/articles/electric-motorbike-theft-security-vietnam/' | relative_url }}) explains. Convenience is second: unlock-and-ride without keys is a small thing done dozens of times weekly. And remote updates mean your bike improves rather than depreciates in software terms — rare anywhere in transport.
 
 ## What to be realistic about
 

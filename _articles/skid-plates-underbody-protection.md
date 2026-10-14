@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "crash-bars-engine-guards-motorbike, potholes-bad-roads-motorbike-vietnam, checking-motorbike-after-fall-accident, gravel-roads-motorbike-vietnam"
+internal_link_targets: "crash-bars-engine-guards-motorbike, potholes-bad-roads-motorbike-vietnam, checking-motorbike-after-fall-accident, gravel-roads-motorbike-vietnam, frame-sliders-engine-case-protection, radiator-guards-liquid-cooled"
 ---
 
 Vietnamese roads hide speed bumps without paint, road works with rebar, and mountain tracks with rocks the size of fists. Everything valuable on a motorbike lives in the soft aluminium and plastic under the engine — and a skid plate is the armour for it.

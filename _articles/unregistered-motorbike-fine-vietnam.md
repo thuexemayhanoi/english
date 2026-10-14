@@ -1,7 +1,7 @@
 ---
 title: "Unregistered Vehicle Fines in Vietnam"
 slug: unregistered-motorbike-fine-vietnam
-description: "Riding a motorbike without a registration certificate in Vietnam costs 2,000,000-3,000,000 VND under Article 14(2) of Decree 168/2024, with the bike subject to being held and possible confiscation if its lawful origin cannot be proven."
+description: "No registration certificate in Vietnam costs 2-3 million VND under Article 14(2) of Decree 168/2024; the bike can be held."
 category: law-licences
 tags:
   - "registration"

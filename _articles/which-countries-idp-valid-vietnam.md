@@ -1,7 +1,7 @@
 ---
 title: "Which Countries' IDPs Work in Vietnam"
 slug: which-countries-idp-valid-vietnam
-description: "Only IDPs issued under the 1968 Vienna Convention on Road Traffic are recognised for riding in Vietnam, carried together with the national licence — Article 57(8) of Law 36/2024/QH15. Country list principles and what fails."
+description: "Only 1968 Vienna Convention IDPs count in Vietnam, carried with the national licence (Article 57(8), Law 36/2024/QH15). Which countries qualify."
 category: law-licences
 tags:
   - "idp"

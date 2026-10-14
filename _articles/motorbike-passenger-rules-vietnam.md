@@ -1,7 +1,7 @@
 ---
 title: "Carrying Passengers on a Motorbike in Vietnam"
 slug: motorbike-passenger-rules-vietnam
-description: "Vietnam motorbike passenger rules under Article 33 of Law 36/2024/QH15: one passenger only, with narrow exceptions for a second, a 400,000–600,000 VND fine for carrying two outside the exceptions, and helmet requirements for every person on the bike."
+description: "Passenger rules under Article 33 of Law 36/2024/QH15: one passenger only, narrow exceptions for a second, a 400,000-600,000 VND fine for carrying two."
 category: law-licences
 tags:
   - "passengers"

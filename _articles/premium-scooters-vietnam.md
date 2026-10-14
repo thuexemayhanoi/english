@@ -1,7 +1,7 @@
 ---
-title: "Premium Scooters in Vietnam: SH, Vario, NMAX, XMAX and What You Pay For"
+title: "Premium Scooters in Vietnam: SH, Vario, NMAX, XMAX Compared"
 slug: premium-scooters-vietnam
-description: "Premium scooters in Vietnam explained - verified manufacturer prices for Honda SH, SH Mode, Vario, Yamaha NMAX, NVX and XMAX, and what the money buys over mainstream models."
+description: "Premium scooters in Vietnam: verified prices for Honda SH, SH Mode, Vario, Yamaha NMAX, NVX and XMAX, and what the extra money buys over mainstream models."
 category: scooters
 tags:
   - "honda sh"

@@ -1,5 +1,5 @@
 ---
-title: "Your First Mountain Motorbike Trip From Hanoi: Which One to Choose"
+title: "Your First Mountain Motorbike Trip From Hanoi: Which to Choose"
 slug: first-mountain-motorbike-trip-vietnam-comparison
 description: "Choosing your first mountain motorbike trip from Hanoi: Tam Dao versus Mai Chau, Pu Luong, Ha Giang and the others compared by difficulty, days and riding skill."
 category: trips
@@ -33,11 +33,11 @@ If not, start there. Tam Dao and Ba Vi are the two classic first mountain rides 
 
 ## Level 1: Mai Chau (2 days, the standard answer)
 
-For most riders, Mai Chau is the right first mountain trip: about 140 km of mostly good sealed tarmac on QL6, one real pass (Thung Khe) that deserves respect but forgives mistakes at sensible speed, and a homestay destination with full phone coverage and easy bail-out options. Published route guides confirm the direct line is good tarmac with fuel and stops all along it. If you can ride a day trip competently, you can ride Mai Chau — see our Mai Chau guide.
+For most riders, Mai Chau is the right first mountain trip: about 140 km of mostly good sealed tarmac on QL6, one real pass (Thung Khe) that deserves respect but forgives mistakes at sensible speed, and a homestay destination with full phone coverage and easy bail-out options. Published route guides confirm the direct line is good tarmac with fuel and stops all along it. If you can ride a day trip competently, you can ride Mai Chau — see [our Mai Chau guide]({{ '/articles/mai-chau-overnight-motorbike-trip-hanoi/' | relative_url }}).
 
 ## Level 1.5: Pu Luong (2-3 days, the quieter answer)
 
-Pu Luong matches Mai Chau for difficulty but swaps the bus-road opening for valley lanes and terraces, and pairs beautifully with either Mai Chau or Ninh Binh. It suits riders whose goal is calm rather than kilometres (our Pu Luong guide). Difficulty notes are identical: one pass, village-pace roads, easy logistics.
+Pu Luong matches Mai Chau for difficulty but swaps the bus-road opening for valley lanes and terraces, and pairs beautifully with either Mai Chau or Ninh Binh. It suits riders whose goal is calm rather than kilometres ([our Pu Luong guide]({{ '/articles/pu-luong-motorbike-trip-hanoi/' | relative_url }})). Difficulty notes are identical: one pass, village-pace roads, easy logistics.
 
 ## Level 2: Moc Chau, Ba Be, Lang Son, Cat Ba (2-3 days, real variety)
 

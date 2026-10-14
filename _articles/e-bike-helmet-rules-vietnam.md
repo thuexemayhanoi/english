@@ -1,7 +1,7 @@
 ---
 title: "Helmet Rules for E-Bikes and Electric Scooters in Vietnam"
 slug: e-bike-helmet-rules-vietnam
-description: "Do you need a helmet on an e-bike in Vietnam? Yes — Article 33(2) of Law 36/2024 requires standard-compliant helmets on every powered two-wheeler, including pedal e-bikes."
+description: "Helmet on an e-bike in Vietnam? Yes: Article 33(2) of Law 36/2024 requires a standard-compliant helmet on every powered two-wheeler, pedal e-bikes included."
 category: electric
 tags:
   - "e-bike"
@@ -19,7 +19,7 @@ review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Bao dien tu Chinh phu) — Article 33(2) (helmets for riders and passengers of motorbikes and mopeds), Article 31(3) (motorised pedal bicycles)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: helmet-law-vietnam, helmet-care-replacing-guide-vietnam, electric-bike-licence-vietnam, riding-electric-moped-16-vietnam
+internal_link_targets: "helmet-law-vietnam, helmet-care-replacing-guide-vietnam, electric-bike-licence-vietnam, riding-electric-moped-16-vietnam, electric-bike-law-myths-vietnam"
 ---
 
 A common assumption among visitors is that a slow, licence-free e-bike also frees you from a helmet. It does not. Vietnamese law requires helmets for riders and passengers of powered two-wheelers without exception for class.

@@ -32,7 +32,7 @@ Twelve litres on a 150-class bike is a touring decision by Honda: at its publish
 
 ## Range = tank x economy
 
-The thriftiest bike (Future 125, 1.47 L/100 km) and the thirstiest (CBR150R) can both deliver the longest usable range in their own way - one by sipping, one by carrying. Our longest-range underbones guide runs the full multiplication for every model.
+The thriftiest bike (Future 125, 1.47 L/100 km) and the thirstiest (CBR150R) can both deliver the longest usable range in their own way - one by sipping, one by carrying. [Our longest-range underbones guide]({{ '/articles/longest-range-underbones-vietnam-verified/' | relative_url }}) runs the full multiplication for every model.
 
 ## Practical notes for Vietnam
 

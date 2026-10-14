@@ -1,5 +1,5 @@
 ---
-title: "Aftermarket Horns for Motorbikes: Louder Is Not Automatically Safer"
+title: "Aftermarket Motorbike Horns: Louder Is Not Automatically Safer"
 slug: aftermarket-horns-motorbikes
 description: "Upgrading a motorbike horn — electrical limits, relays and wiring on small bikes, when a louder horn genuinely helps in Vietnamese traffic, and etiquette limits."
 category: parts-gear
@@ -15,7 +15,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "horn-etiquette-motorbike-vietnam, simple-electrical-faults-horn-switches-fuses, installing-accessories-diy-vs-shop, aftermarket-parts-warranty"
+internal_link_targets: "horn-etiquette-motorbike-vietnam, simple-electrical-faults-horn-switches-fuses, installing-accessories-diy-vs-shop, aftermarket-parts-warranty, aftermarket-suspension-upgrades"
 ---
 
 A weak horn in Hanoi traffic is a real safety problem: the warning nobody hears does not exist. But bolting on an air horn is not a one-step upgrade — a small bike's electrics were never designed for it, and the horn that works in a car is not automatically right for two wheels.

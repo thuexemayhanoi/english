@@ -1,7 +1,7 @@
 ---
 title: "Can You Ride an Electric Motorbike with a Car Licence in Vietnam?"
 slug: can-you-ride-electric-motorbike-with-car-licence-vietnam
-description: "A car licence covers no electric motorbike class in Vietnam: licence-free e-mopeds need no licence at all, but above 4 kW an A1 is required - car classes do not reach two-wheelers."
+description: "A car licence covers no electric motorbike class in Vietnam: e-mopeds up to 4 kW need no licence, anything above 4 kW needs an A1. Car classes stop at four wheels."
 category: electric
 tags:
   - "electric motorbike"

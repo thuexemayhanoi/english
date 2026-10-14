@@ -1,7 +1,7 @@
 ---
-title: "High-Mileage Rental Riding: When to Bring the Bike Back for Inspection"
+title: "High-Mileage Rental Riding: When to Bring the Bike Back"
 slug: high-mileage-rental-motorbike-inspection
-description: "On long rentals and heavy riding, Nguyen Tu's practical guidance is to bring the bike in for checks around every 1,500 km or more of use - owner guidance, not a manufacturer interval. How it works."
+description: "On long rentals and heavy riding, Nguyen Tu's guidance is to bring the bike in for checks around every 1,500 km or more: owner practice, not a manufacturer interval."
 category: rental
 tags:
   - "high mileage"

@@ -1,7 +1,7 @@
 ---
 title: "Renting vs Buying a Motorbike in Hanoi: Cost and Convenience"
 slug: renting-vs-buying-a-motorbike-hanoi
-description: "Buying beats renting only for stays of many months; for weeks and short months, rental wins on total cost, paperwork and resale risk. The honest break-even comparison."
+description: "Buying beats renting only for stays of many months; for weeks and short months, rental wins on total cost, paperwork and resale risk. The honest break-even point."
 category: rental
 tags:
   - "renting vs buying"

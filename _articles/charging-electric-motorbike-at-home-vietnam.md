@@ -1,7 +1,7 @@
 ---
-title: "Charging an Electric Motorbike at Home in Vietnam: Sockets, Times and Habits"
+title: "Home Charging an Electric Motorbike in Vietnam: Sockets and Times"
 slug: charging-electric-motorbike-at-home-vietnam
-description: "How home charging works for Vietnamese electric two-wheelers — household sockets, realistic charge times from official data, and the habits that keep batteries healthy."
+description: "How home charging works for electric two-wheelers in Vietnam: household sockets, realistic charge times from official data, and habits that keep batteries healthy."
 category: electric
 tags:
   - "electric"
@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — LFP batteries chargeable at home or public stations; battery rental options"
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — charging times (1 h for first 100 km, 3 h for 200 km)"
-internal_link_targets: battery-swap-vs-home-charging-vietnam, electric-motorbike-battery-lifespan-vietnam, charging-safety-home-electric-bike, where-to-charge-electric-motorbike-hanoi
+internal_link_targets: "battery-swap-vs-home-charging-vietnam, electric-motorbike-battery-lifespan-vietnam, charging-safety-home-electric-bike, where-to-charge-electric-motorbike-hanoi, charging-electric-motorbike-work-university"
 ---
 
 Home charging is the default way electric two-wheelers are fed in Vietnam — batteries are designed for household electricity, and the ritual replaces the fuel stop.

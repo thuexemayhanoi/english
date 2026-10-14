@@ -1,5 +1,5 @@
 ---
-title: "Longest-Range Underbones in Vietnam: Tank Size Times Economy, Verified"
+title: "Longest-Range Underbones in Vietnam: Tank Size Times Economy"
 slug: longest-range-underbones-vietnam-verified
 description: "Touring range of Vietnam’s underbones calculated from official tank sizes and fuel-economy figures - which bike goes furthest."
 category: motorcycles

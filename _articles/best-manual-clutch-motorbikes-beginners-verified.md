@@ -1,5 +1,5 @@
 ---
-title: "Best Manual-Clutch Motorbikes for Beginners: The Verified Guide"
+title: "Beginner-Friendly Manual-Clutch Motorbikes in Vietnam, Verified"
 slug: best-manual-clutch-motorbikes-beginners-verified
 description: "Learning a manual clutch in Vietnam? The three verified manual bikes - Winner R, Exciter 155, CBR150R - ranked for first-time clutch riders."
 category: motorcycles
@@ -47,7 +47,7 @@ The cheapest entry into the manual class, with the friendliest power delivery of
 
 ## The honest alternative
 
-If your riding is still 90 percent city commuting, question whether you need a manual at all - our semi-automatic vs manual guide walks through the trade-offs, and most Hanoi riders never look back from a rotary gearbox.
+If your riding is still 90 percent city commuting, question whether you need a manual at all - [our semi-automatic vs manual guide]({{ '/articles/automatic-vs-manual-motorbike-hanoi/' | relative_url }}) walks through the trade-offs, and most Hanoi riders never look back from a rotary gearbox.
 
 ## Renting a manual bike
 

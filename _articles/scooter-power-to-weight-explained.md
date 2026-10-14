@@ -1,5 +1,5 @@
 ---
-title: "Scooter Power-to-Weight Explained: Why Kilowatts per Kilogram Matter"
+title: "Scooter Power-to-Weight Explained: Kilowatts per Kilogram"
 slug: scooter-power-to-weight-explained
 description: "How to compute and read power-to-weight ratios for Vietnamese scooters, verified example figures, and why a light 125 can feel stronger than a heavy 155."
 category: scooters
@@ -42,7 +42,7 @@ Take maximum power in kilowatts, divide by kerb (or wet) weight in kilograms. Th
 
 ## What the ratio does and does not tell you
 
-It predicts acceleration feel, hill ability and how the bike copes with a pillion - the core of our Hanoi hills guide. It does not capture gearing, torque shape or wheel size; a 14.8 Nm SH160i engine at low rpm still out-pulls figures suggest on ramps (see our power [and torque explainer]({{ '/articles/underbone-power-torque-explained/' | relative_url }})). And add a passenger and the ratio drops for the lighter bike faster - 50 kg of load hurts a 96 kg Janus proportionally more than a 131 kg NMAX.
+It predicts acceleration feel, hill ability and how the bike copes with a pillion - the core of [our Hanoi hills guide]({{ '/articles/best-scooters-hanoi-hills-bridges/' | relative_url }}). It does not capture gearing, torque shape or wheel size; a 14.8 Nm SH160i engine at low rpm still out-pulls figures suggest on ramps (see our power [and torque explainer]({{ '/articles/underbone-power-torque-explained/' | relative_url }})). And add a passenger and the ratio drops for the lighter bike faster - 50 kg of load hurts a 96 kg Janus proportionally more than a 131 kg NMAX.
 
 ## Where to use it
 

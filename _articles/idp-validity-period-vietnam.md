@@ -1,7 +1,7 @@
 ---
 title: "How Long Can You Ride on an IDP in Vietnam"
 slug: idp-validity-period-vietnam
-description: "Vietnam imposes no separate time limit on a 1968 Vienna Convention IDP — the permit's own expiry and the national licence behind it govern, per Article 57(8) of Law 36/2024/QH15. Residence changes the practical answer for long-termers."
+description: "Vietnam sets no separate time limit on a 1968 Convention IDP: the permit's own expiry and the national licence behind it govern (Article 57(8), Law 36/2024/QH15)."
 category: law-licences
 tags:
   - "idp"

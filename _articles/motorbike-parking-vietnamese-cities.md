@@ -31,18 +31,18 @@ Vietnam runs on motorbikes, so Vietnam has evolved a motorbike parking system th
 
 **2. Kerbside attendants.** On busy commercial streets, attendants informally manage stretches of pavement: they wave you in, arrange the bike, watch it while you shop, expect a couple of thousand dong. This is parking-with-a-face; tip-level money buys genuine watching.
 
-**3. Free and self-managed.** In small towns and residential lanes, you park where the locals park and lock what matters: the front wheel lock (standard on Vietnamese bikes), plus our helmet-lock guide's solutions for the helmet, which is the most commonly stolen item on a parked bike.
+**3. Free and self-managed.** In small towns and residential lanes, you park where the locals park and lock what matters: the front wheel lock (standard on Vietnamese bikes), plus [our helmet-lock guide]({{ '/articles/helmet-locks-theft-vietnam/' | relative_url }})'s solutions for the helmet, which is the most commonly stolen item on a parked bike.
 
 ## Rules that apply everywhere
 
 - **Never block**: shopfronts, driveways, hydrants or the yellow-painted kerb lines. Illegal parking fines run 100,000-200,000 VND and enforcement is brisk in the big cities.
 - **Sidewalks are grey-zone**: in practice pedestrians walk in the road and bikes park on the pavement; follow the pattern of bikes already there rather than innovating.
 - **Take your documents and phone with you.** Never leave the bluecard or rental papers on an unattended bike.
-- **Night parking is a hotel question:** guesthouses either have a lobby/ground-floor area or an arrangement with the next-door lot — our hotel parking guide covers what to check at check-in, and overnight parking at home base is covered separately.
+- **Night parking is a hotel question:** guesthouses either have a lobby/ground-floor area or an arrangement with the next-door lot — [our hotel parking guide]({{ '/articles/hotel-parking-motorbike-hanoi/' | relative_url }}) covers what to check at check-in, and overnight parking at home base is covered separately.
 
 ## Rental bikes: the deposit angle
 
-On a rental, the deposit makes theft prevention your financial problem — our rental theft-responsibility guide is worth two minutes of anyone's time. The practical stack for tourist days: parked in guarded lots whenever offered, steering lock on, helmet locked or carried, nothing visible in the under-seat storage that you would miss.
+On a rental, the deposit makes theft prevention your financial problem — [our rental theft-responsibility guide]({{ '/articles/theft-loss-responsibility-rental-motorbike-hanoi/' | relative_url }}) is worth two minutes of anyone's time. The practical stack for tourist days: parked in guarded lots whenever offered, steering lock on, helmet locked or carried, nothing visible in the under-seat storage that you would miss.
 
 ## A note on the big-city oddities
 

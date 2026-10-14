@@ -1,7 +1,7 @@
 ---
 title: "50cc Mopeds vs 50cc Underbones: The Two Body Styles Compared"
 slug: 50cc-mopeds-vs-50cc-underbones
-description: "Sub-50cc bikes in Vietnam come in two main shapes: step-through underbones with a foot-shift gearbox, and scooter-style mopeds with a twist-and-go throttle. How they differ in riding, practicality and upkeep."
+description: "Sub-50cc bikes come in two shapes: step-through underbones with a foot-shift gearbox, and scooter-style mopeds with twist-and-go."
 category: 50cc
 tags:
   - "50cc"
@@ -46,6 +46,6 @@ Trade-offs: smaller wheels are more sensitive to potholes and wet paint; the enc
 
 ## The skills either way
 
-Whichever shape you choose, the first rides should be somewhere quiet, with the basic controls practised before joining Hanoi traffic. Our first-time riding guide covers a sensible practice progression, and the legal side — no licence needed, but 16 years minimum and a helmet always — is set out in the licence article.
+Whichever shape you choose, the first rides should be somewhere quiet, with the basic controls practised before joining Hanoi traffic. [Our first-time riding guide]({{ '/articles/riding-semi-automatic-first-time/' | relative_url }}) covers a sensible practice progression, and the legal side — no licence needed, but 16 years minimum and a helmet always — is set out in the licence article.
 
 If you are weighing a 50cc bike against simply renting an automatic scooter for a stay in Hanoi, our beginner bike overview lists the common choices side by side.

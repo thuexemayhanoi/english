@@ -1,5 +1,5 @@
 ---
-title: "Best Scooters for Tall Riders in Vietnam: What the Verified Numbers Say"
+title: "Best Scooters for Tall Riders in Vietnam: Legroom by the Numbers"
 slug: best-scooters-tall-riders-vietnam
 description: "A tall-rider guide to Vietnamese scooters using verified seat heights, dimensions and wheel sizes - and the ergonomic checks no spec sheet can do for you."
 category: scooters

@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: how-to-ride-manual-clutch-motorbike-vietnam, clutch-slipping-manual-motorbike, broken-clutch-cable-motorbike-roadside, clutch-control-friction-zone-practice
+internal_link_targets: "how-to-ride-manual-clutch-motorbike-vietnam, clutch-slipping-manual-motorbike, broken-clutch-cable-motorbike-roadside, clutch-control-friction-zone-practice, cold-start-underbone-choke-warmup"
 ---
 
 On a manual-clutch underbone, the lever is the main control surface you own. Two settings decide how it behaves: reach and free play.

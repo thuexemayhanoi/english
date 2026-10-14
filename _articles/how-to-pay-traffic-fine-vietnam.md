@@ -1,7 +1,7 @@
 ---
 title: "How to Pay a Traffic Fine in Vietnam"
 slug: how-to-pay-traffic-fine-vietnam
-description: "Vietnamese traffic fines are due within 10 days of receiving the penalty decision, payable at the State Treasury or a bank, by transfer, through postal services, or online through the National Public Service Portal — with instalments possible for large amounts."
+description: "Vietnamese traffic fines are due within 10 days of the penalty decision: pay at the State Treasury or a bank, by transfer, by post."
 category: law-licences
 tags:
   - "traffic fines"

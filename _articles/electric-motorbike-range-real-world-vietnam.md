@@ -1,5 +1,5 @@
 ---
-title: "Real-World Electric Motorbike Range in Vietnam: Why Claimed Numbers Shrink"
+title: "Real-World Electric Motorbike Range in Vietnam: Why Claims Shrink"
 slug: electric-motorbike-range-real-world-vietnam
 description: "Official range figures versus real Hanoi riding: how speed, load and terrain cut claimed range, with manufacturer test conditions explained from verified data."
 category: electric
@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — 200 km at 35 km/h, 130 km at 70 km/h, 3 h full charge"
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — Evo 165 km and Viper/Feliz II 156 km under standard conditions"
-internal_link_targets: electric-two-wheeler-speed-classes-vietnam, electric-motorbike-commuting-hanoi, electric-motorbike-day-trips-range-planning-hanoi, battery-swap-vs-home-charging-vietnam
+internal_link_targets: "electric-two-wheeler-speed-classes-vietnam, electric-motorbike-commuting-hanoi, electric-motorbike-day-trips-range-planning-hanoi, battery-swap-vs-home-charging-vietnam, riding-electric-motorbike-hills-bridges-hanoi, riding-electric-motorbike-with-passenger"
 ---
 
 Every electric bike in Vietnam quotes a range number, and nearly all of them are honest — under conditions you will not ride in. Understanding the gap between the claim and your commute is the single most useful electric-riding skill.

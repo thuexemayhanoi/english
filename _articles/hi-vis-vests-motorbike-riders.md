@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "reflective-stickers-motorbike-visibility, fog-and-low-visibility-riding-motorbike-vietnam, dust-dry-season-riding-vietnam, after-rain-slippery-roads-motorbike"
+internal_link_targets: "reflective-stickers-motorbike-visibility, fog-and-low-visibility-riding-motorbike-vietnam, dust-dry-season-riding-vietnam, after-rain-slippery-roads-motorbike, neck-gaiters-dust-masks-riders"
 ---
 
 Most two-wheeler collisions in city traffic begin the same way: the other road user says they looked and did not see. A rider is a narrow object in a street full of moving metal, and anything that makes you visible earlier gives a bus or a turning car more seconds to register you. A hi-vis vest is the cheapest, hottest-debated way to buy those seconds.

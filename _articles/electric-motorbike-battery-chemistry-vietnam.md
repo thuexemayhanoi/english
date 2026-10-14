@@ -1,5 +1,5 @@
 ---
-title: "Electric Motorbike Battery Chemistry in Vietnam: LFP vs Lithium-Ion"
+title: "Electric Motorbike Batteries in Vietnam: LFP vs Lithium-Ion"
 slug: electric-motorbike-battery-chemistry-vietnam
 description: "VinFast LFP packs vs Dat Bike lithium-ion: what battery chemistry means for Vietnamese e-bike range, lifespan, weight and safety, from official data."
 category: electric

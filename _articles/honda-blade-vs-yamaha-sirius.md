@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — Yamaha VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-blade-110-review, yamaha-sirius-rc-110-review, honda-wave-alpha-vs-yamaha-sirius, honda-wave-rsx-vs-yamaha-sirius, best-110cc-underbones-vietnam-verified
+internal_link_targets: "honda-blade-110-review, yamaha-sirius-rc-110-review, honda-wave-alpha-vs-yamaha-sirius, honda-wave-rsx-vs-yamaha-sirius, best-110cc-underbones-vietnam-verified, honda-blade-vs-honda-winner-r"
 ---
 
 Two budget 110s, nearly the same price, very different characters. All figures below come from the official Honda Vietnam and Yamaha Vietnam product pages (retrieved 23 September 2026).

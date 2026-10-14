@@ -1,7 +1,7 @@
 ---
 title: "Honda Vision vs Honda Vario 125: Old Favourite vs New Standard"
 slug: honda-vision-vs-honda-vario-125
-description: "Honda Vision vs Vario 125 compared on verified Honda Vietnam specs - air-cooled 110cc ubiquity against liquid-cooled 125cc smart-key modernity, weight, wheels and price."
+description: "Honda Vision vs Vario 125 on verified Honda Vietnam specs: air-cooled 110cc ubiquity against liquid-cooled 125cc smart-key modernity, with weight, wheels and price."
 category: scooters
 tags:
   - "honda vision"

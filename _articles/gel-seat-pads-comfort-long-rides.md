@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "riding-fatigue-motorbike-vietnam, best-motorbike-for-long-distance-vietnam, servicing-before-long-trip-motorbike, seat-reupholstery-comfort"
+internal_link_targets: "riding-fatigue-motorbike-vietnam, best-motorbike-for-long-distance-vietnam, servicing-before-long-trip-motorbike, seat-reupholstery-comfort, throttle-assist-long-rides"
 ---
 
 Vietnamese scooters are designed around short city hops; the stock seat punishes anything past two hours. A gel pad is the cheapest fix short of a full custom seat, and there is more to seat comfort than softness.

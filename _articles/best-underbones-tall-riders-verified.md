@@ -1,5 +1,5 @@
 ---
-title: "Best Underbones for Tall Riders: Verified Seat Heights and Dimensions"
+title: "Best Underbones for Tall Riders: Seat Heights and Dimensions"
 slug: best-underbones-tall-riders-verified
 description: "The tallest seats, longest wheelbases and biggest frames among Vietnam's verified underbones - the data guide for riders over 175 cm."
 category: motorcycles

@@ -1,7 +1,7 @@
 ---
 title: "Yamaha NMAX 155 Review: Premium Hardware at Vietnam's Top End"
 slug: yamaha-nmax-155-review
-description: "Yamaha NMAX 155 review with verified Yamaha Vietnam specs - Blue Core 155cc VVA engine, dual-wheel ABS, traction control, Y-Connect, 24L storage and who this premium scooter suits."
+description: "Yamaha NMAX 155 review, verified Yamaha Vietnam specs: Blue Core 155cc VVA engine, dual ABS, traction control, Y-Connect, 24L storage."
 category: scooters
 tags:
   - "yamaha nmax"
@@ -26,11 +26,11 @@ The NMAX is Yamaha's MAX-series premium scooter for Vietnam: a 155 cc machine wi
 
 ## Engine and performance
 
-The NMAX runs Yamaha's G3Y1E engine: a 155.1 cc single-cylinder four-stroke, liquid-cooled unit with SOHC, four valves and VVA - Yamaha's variable valve timing that favours low-rev flexibility and high-rev punch at the same time. Official maximum power is 11.3 kW at 8,000 rpm and maximum torque 14.2 Nm at 6,500 rpm, fed by electronic fuel injection from a 7.1-litre tank. Published consumption is 2.26 litres/100 km; real-world figures vary with speed, load and conditions. Our VVA explainer covers what the variable valve system actually does.
+The NMAX runs Yamaha's G3Y1E engine: a 155.1 cc single-cylinder four-stroke, liquid-cooled unit with SOHC, four valves and VVA - Yamaha's variable valve timing that favours low-rev flexibility and high-rev punch at the same time. Official maximum power is 11.3 kW at 8,000 rpm and maximum torque 14.2 Nm at 6,500 rpm, fed by electronic fuel injection from a 7.1-litre tank. Published consumption is 2.26 litres/100 km; real-world figures vary with speed, load and conditions. [Our VVA explainer]({{ '/articles/yamaha-vva-explained/' | relative_url }}) covers what the variable valve system actually does.
 
 ## Brakes and safety hardware
 
-This is where the NMAX separates itself from almost every scooter in its price class: a 230 mm front disc AND a rear disc, both with ABS (dual-channel), plus a traction control system that reduces wheel spin when you accelerate hard on slippery surfaces. ABS and traction control do different jobs - our TCS vs ABS guide explains the difference - and the combination makes the NMAX one of the best-equipped mainstream scooters sold in Vietnam.
+This is where the NMAX separates itself from almost every scooter in its price class: a 230 mm front disc AND a rear disc, both with ABS (dual-channel), plus a traction control system that reduces wheel spin when you accelerate hard on slippery surfaces. ABS and traction control do different jobs - [our TCS vs ABS guide]({{ '/articles/tcs-vs-abs-scooters-vietnam/' | relative_url }}) explains the difference - and the combination makes the NMAX one of the best-equipped mainstream scooters sold in Vietnam.
 
 ## Size, weight and comfort
 

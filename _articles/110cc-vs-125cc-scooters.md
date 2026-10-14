@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — official Honda Vietnam model pages (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — official Yamaha Vietnam product pages (retrieved 2026-09-23)"
-internal_link_targets: "honda-vision-vs-yamaha-janus, scooter-power-torque-explained, a1-licence-vietnam-what-you-can-ride, 50cc-licence-vietnam, best-scooters-to-rent-hanoi, scooter-fuel-economy-comparison-vietnam"
+internal_link_targets: "honda-vision-vs-yamaha-janus, scooter-power-torque-explained, a1-licence-vietnam-what-you-can-ride, 50cc-licence-vietnam, best-scooters-to-rent-hanoi, scooter-fuel-economy-comparison-vietnam, best-scooters-rainy-season-commuting-vietnam, which-scooter-engine-class-vietnam"
 ---
 
 Most automatic scooters sold and rented in Vietnam sit in one of two engine classes: around 110 cc or around 125 cc. The difference is real but smaller than the marketing suggests - here is what the manufacturers' own figures (retrieved 23 September 2026) show, and what the classes mean for licences and daily riding.

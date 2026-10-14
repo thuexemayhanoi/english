@@ -1,7 +1,7 @@
 ---
-title: "Choosing Where to Live in Hanoi When You Ride: A Motorbike-Access Guide"
+title: "Where to Live in Hanoi When You Ride: A Motorbike-Access Guide"
 slug: choosing-hanoi-neighbourhood-motorbike-access
-description: "How to pick a Hanoi neighbourhood from a rider's point of view: commute corridors, parking, flood spots, bridge position and street character — with the trade-offs of each area."
+description: "How to pick a Hanoi neighbourhood as a rider: commute corridors, parking, flood spots, bridge position and street character, with the trade-offs of each area."
 category: hanoi
 tags:
   - "hanoi"
@@ -18,7 +18,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address and opening hours only"
-internal_link_targets: hanoi-motorbike-commute-corridors, long-term-renting-vs-buying-residents-hanoi, apartment-living-motorbike-hanoi, choosing-motorbike-monthly-rental-hanoi, hanoi-districts-layout-guide-riders, monthly-rental-vs-ride-hailing-hanoi, where-to-park-motorbike-hanoi
+internal_link_targets: "hanoi-motorbike-commute-corridors, long-term-renting-vs-buying-residents-hanoi, apartment-living-motorbike-hanoi, choosing-motorbike-monthly-rental-hanoi, hanoi-districts-layout-guide-riders, monthly-rental-vs-ride-hailing-hanoi, where-to-park-motorbike-hanoi, bac-tu-liem-area-guide-riders, hai-ba-trung-area-guide-riders"
 ---
 
 Most guides to choosing a Hanoi neighbourhood talk about rent, schools and cafes. If you ride — and in Hanoi, riding is how you will actually live — the decision has a second layer: where you sit in the city's traffic geography decides how much of your life you spend on a motorbike and how pleasant those minutes are.

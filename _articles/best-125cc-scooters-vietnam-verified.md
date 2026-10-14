@@ -1,7 +1,7 @@
 ---
 title: "Best 125cc Scooters in Vietnam: The Verified Data Guide"
 slug: best-125cc-scooters-vietnam-verified
-description: "Every mainstream 125cc scooter in Vietnam compared on verified manufacturer data - engine output, fuel economy, weights, storage and list prices, with honest gaps flagged."
+description: "Every mainstream 125cc scooter in Vietnam compared on verified manufacturer data: output, fuel economy, weight, storage and list prices, with honest gaps flagged."
 category: scooters
 tags:
   - "125cc scooter"

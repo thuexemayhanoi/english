@@ -27,7 +27,7 @@ Compression is the squeeze at the heart of an engine: air and fuel squeezed hard
 - **Power loss that tuning does not fix.** Slower top speed, sluggish hills, two-up struggles. Carb cleaning, new plugs and fresh oil all help a bit, none fixes it — the engine is running on leakage.
 - **The kick-start feel.** On a kick-start bike, healthy compression resists the lever; a suspiciously easy kick that spins fast is the classic hand-feel sign.
 - **Rough, uneven idle** that leans worse as the engine warms — heat expands worn parts and the leakage grows; see [Stalling When Hot: When a Warm Engine Gives Up]({{ '/articles/stalling-when-hot-motorbike/' | relative_url }}).
-- **Unmistakable sounds in the end game**: piston slap when cold, deep knocks under load — the knock guide is [Engine Knocking: What That Noise Is Trying to Tell You]({{ '/articles/engine-knocking-what-it-means/' | relative_url }}). By then the diagnosis is academic; the question is the bill.
+- **Unmistakable sounds in the end game**: piston slap when cold, deep knocks under load — [the knock guide]({{ '/articles/engine-knocking-what-it-means/' | relative_url }}) is [Engine Knocking: What That Noise Is Trying to Tell You]({{ '/articles/engine-knocking-what-it-means/' | relative_url }}). By then the diagnosis is academic; the question is the bill.
 - **Blow-by**: pressure puffing out of the engine breather, oily mist, oil appearing in the airbox.
 
 ## What leaks
@@ -40,7 +40,7 @@ A compression test or a leak-down test, done by a mechanic, turns suspicion into
 
 ## Buying context
 
-A used bike's compression is a central part of any inspection — the full used-bike checklist is in [Buying a Used Motorbike in Vietnam: Inspection Basics]({{ '/articles/used-motorbike-inspection-vietnam/' | relative_url }}), and compression is exactly the fault that a polished bike with a rebuilt "cosmetics" budget hides best. Hard start, easy kick, tired idle: walk away or price in the rebuild.
+A used bike's compression is a central part of any inspection — [the full used-bike checklist]({{ '/articles/used-motorbike-inspection-vietnam/' | relative_url }}) is in [Buying a Used Motorbike in Vietnam: Inspection Basics]({{ '/articles/used-motorbike-inspection-vietnam/' | relative_url }}), and compression is exactly the fault that a polished bike with a rebuilt "cosmetics" budget hides best. Hard start, easy kick, tired idle: walk away or price in the rebuild.
 
 ## Living with it
 

@@ -1,7 +1,7 @@
 ---
 title: "Best Motorbike for Long-Distance Riding in Vietnam"
 slug: best-motorbike-for-long-distance-vietnam
-description: "For long distances in Vietnam - Hanoi to Hue, the Ha Giang loop - rent the biggest bike your licence covers, with a windscreen, good seat and full maintenance. The long-haul checklist."
+description: "For long distances in Vietnam, Hanoi to Hue or the Ha Giang loop, rent the biggest bike your licence covers, with a windscreen, a good seat and full maintenance."
 category: rental
 tags:
   - "long distance"

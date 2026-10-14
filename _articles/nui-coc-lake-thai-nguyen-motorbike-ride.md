@@ -20,7 +20,7 @@ sources:
   - "https://www.asiakingtravel.com/attraction/nui-coc-lake — Nui Coc Lake ecotourism area is under 20 km from Thai Nguyen city and roughly 70 km from Hanoi, retrieved 2026-09-24"
   - "https://vinpearl.com/en/nui-coc-lake-a-special-attraction-in-northern-vietnam — Nui Coc is an artificial freshwater lake about 16 km from Thai Nguyen city centre and around 100 km from Hanoi, built 1973–1982 to irrigate over 12,000 hectares of fields, retrieved 2026-09-24"
   - "https://www.originvietnam.com/destinations/nui-coc-lake/ — from Thai Nguyen city ride about 10 km through Tan Cuong tea country to reach the lake, passing tea plantations en route, retrieved 2026-09-24"
-internal_link_targets: best-motorbike-for-day-trips-from-hanoi, hot-weather-riding-motorbike-vietnam, hydration-long-motorbike-rides, dai-lai-lake-motorbike-loop, how-to-rent-a-motorbike-hanoi
+internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, hot-weather-riding-motorbike-vietnam, hydration-long-motorbike-rides, dai-lai-lake-motorbike-loop, how-to-rent-a-motorbike-hanoi, quan-son-lake-motorbike-ride"
 ---
 
 Thai Nguyen, the tea capital of northern Vietnam, is one of the most underrated day-ride directions from Hanoi: a province of midland hills, tea plantations and the large Nui Coc reservoir, about 70–100 kilometres from the capital depending on which end you ride to. The classic day combines the Tan Cuong tea hills with the lake.

@@ -1,7 +1,7 @@
 ---
 title: "Overtaking Rules for Motorbikes in Vietnam"
 slug: overtaking-rules-motorbike-vietnam
-description: "Overtaking on a motorbike in Vietnam: pass on the left where the view is clear, never on the right unless permitted, expect a 600,000-800,000 VND fine for overtaking on the right, and know when the law says you must not pass at all."
+description: "Overtaking on a motorbike in Vietnam: pass on the left with a clear view, never on the right unless permitted (600,000-800,000 VND fine)."
 category: law-licences
 tags:
   - "overtaking"

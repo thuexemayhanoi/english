@@ -1,5 +1,5 @@
 ---
-title: "Honda Super Cub vs Yamaha Sirius: Japan's Icon vs Vietnam's Workhorse"
+title: "Honda Super Cub vs Yamaha Sirius: Icon vs Workhorse"
 slug: honda-super-cub-vs-yamaha-sirius
 description: "Super Cub C125 vs Sirius RC 110 on verified manufacturer specs - heritage 125 against the budget 110 that rules Vietnamese streets."
 category: motorcycles

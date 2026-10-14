@@ -1,5 +1,5 @@
 ---
-title: "Shopping Hanoi's Markets by Motorbike: Wet Markets, Trade Streets and Getting It Home"
+title: "Shopping Hanoi's Markets by Motorbike: Getting It Home"
 slug: hanoi-markets-motorbike-shopping
 description: "Shopping in Hanoi by motorbike: wet markets, specialist trade streets, supermarkets and malls, parking at each, and carrying your shopping home safely."
 category: hanoi
@@ -18,7 +18,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
-internal_link_targets: carrying-luggage-motorbike-safely-vietnam, cargo-nets-bungee-cords-motorbike, top-boxes-racks-motorbike-vietnam, hanoi-night-markets-motorbike-guide, where-to-park-motorbike-hanoi, hanoi-street-food-motorbike-ride-guide, what-to-carry-riding-motorbike-vietnam
+internal_link_targets: "carrying-luggage-motorbike-safely-vietnam, cargo-nets-bungee-cords-motorbike, top-boxes-racks-motorbike-vietnam, hanoi-night-markets-motorbike-guide, where-to-park-motorbike-hanoi, hanoi-street-food-motorbike-ride-guide, what-to-carry-riding-motorbike-vietnam, hanoi-motorbike-scams-riders-guide"
 ---
 
 Hanoi's shopping geography falls into three layers — the wet markets, the specialist trade streets and the shopping malls — and each one has its own motorbike logic. Learning all three is a genuine riding skill, because the difference between them is mostly the difference between parking options.

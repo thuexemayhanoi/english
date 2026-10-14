@@ -15,7 +15,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "exhaust-care-humid-climate-motorbike, exhaust-popping-backfiring-motorbike, aftermarket-parts-warranty, buying-parts-physical-markets-vietnam"
+internal_link_targets: "exhaust-care-humid-climate-motorbike, exhaust-popping-backfiring-motorbike, aftermarket-parts-warranty, buying-parts-physical-markets-vietnam, aftermarket-suspension-upgrades"
 ---
 
 Nowhere does a motorbike announce its owner's taste faster than the exhaust. Vietnam's tuning scene grew up around it, and the internet sells a fantasy: bolt on a pipe, gain power and sound. The reality is more modest, and the risks are more concrete.

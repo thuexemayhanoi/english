@@ -1,7 +1,7 @@
 ---
 title: "50cc vs 110cc Motorbike in Vietnam: Which Do You Actually Need?"
 slug: 50cc-vs-110cc-motorbike-vietnam
-description: "The real differences between a 50cc moped and a 110cc underbone in Vietnam: licence rules, power on Hanoi hills and bridges, carrying capacity, running costs, and who each class suits."
+description: "50cc moped or 110cc underbone in Vietnam: licence rules, power on Hanoi hills and bridges, carrying capacity, running costs, and who each class actually suits."
 category: 50cc
 tags:
   - "50cc"
@@ -25,7 +25,7 @@ In Vietnam the choice between 50cc and 110cc is really a choice between two lega
 
 ## Licence and age
 
-A 50cc-or-under moped needs no driving licence, but the rider must be at least 16. A 110cc bike is a full motorbike (xe máy): it requires an A1-class licence — which you can hold from 18 — and riders aged 16 to under 18 may not ride one at all. That single rule decides the question for most teenagers, and it matters for foreign visitors too: an IDP that covers motorcycles opens the 110cc class; without one, only the moped class is legally open to you if you are 16 or older. Our licence guide covers the details.
+A 50cc-or-under moped needs no driving licence, but the rider must be at least 16. A 110cc bike is a full motorbike (xe máy): it requires an A1-class licence — which you can hold from 18 — and riders aged 16 to under 18 may not ride one at all. That single rule decides the question for most teenagers, and it matters for foreign visitors too: an IDP that covers motorcycles opens the 110cc class; without one, only the moped class is legally open to you if you are 16 or older. [Our licence guide]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) covers the details.
 
 ## Power you can feel
 

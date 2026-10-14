@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented specifications"
-internal_link_targets: "storing-motorbike-long-term-vietnam, where-to-park-motorbike-hanoi, chain-maintenance-motorbike-vietnam, motorbike-covers-parking-outdoors-vietnam"
+internal_link_targets: "storing-motorbike-long-term-vietnam, where-to-park-motorbike-hanoi, chain-maintenance-motorbike-vietnam, motorbike-covers-parking-outdoors-vietnam, kickstand-extensions-soft-ground"
 ---
 
 The stand question sounds trivial until the day a bike rolls off one. In Vietnam — where streets slope, surfaces are polished tiles, and parking is contact-sport-close — using the right stand, right way, is a daily safety habit.

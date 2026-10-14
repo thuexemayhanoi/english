@@ -21,7 +21,7 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Articles 7, 9, 18 (motorbike/moped fine levels; non-motorised schedule; licence offences)"
   - "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650 — Ministry of Public Security summary of Article 7 fines for motorbike riders"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — electric two-wheeler classifications"
-internal_link_targets: motorbike-fines-vietnam-overview, electric-bike-licence-vietnam, riding-electric-moped-16-vietnam, e-bike-helmet-rules-vietnam, electric-motorbike-power-kw-licence-vietnam
+internal_link_targets: "motorbike-fines-vietnam-overview, electric-bike-licence-vietnam, riding-electric-moped-16-vietnam, e-bike-helmet-rules-vietnam, electric-motorbike-power-kw-licence-vietnam, can-you-ride-electric-motorbike-with-car-licence-vietnam"
 ---
 
 The traffic-fine schedule does not have a discount for electric drive. What an electric rider pays depends on which of the legal classes the machine sits in — and the difference between those classes is worth millions of dong.

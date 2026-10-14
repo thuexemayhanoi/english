@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn — Honda Vietnam model detail pages, official specifications (recorded in docs/MODEL-DATABASE.md, retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-super-cub-c125-review, honda-super-cub-c125-vs-honda-future-125, rotary-gearbox-vs-manual-clutch-explained, honda-ct125-review, honda-future-125-riding-guide
+internal_link_targets: "honda-super-cub-c125-review, honda-super-cub-c125-vs-honda-future-125, rotary-gearbox-vs-manual-clutch-explained, honda-ct125-review, honda-future-125-riding-guide, sport-underbone-touring-vietnam"
 ---
 
 The Super Cub is the machine the whole Vietnamese underbone world descends from, and the current C125 is its premium expression: a classic manual-shift (rotary four-speed, no clutch lever) underbone with polished metal and a price to match — 88,353,813 VND list on the current Honda Vietnam page, roughly three times a basic commuter underbone. All figures here are from that official page, as recorded in our model database (retrieved 2026-09-23).

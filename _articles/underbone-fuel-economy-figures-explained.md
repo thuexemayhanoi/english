@@ -24,7 +24,7 @@ A claimed 1.47 L/100 km will not appear on your odometer, and understanding why 
 
 ## What the claim measures
 
-A lab cycle under controlled conditions: fixed speeds, fixed temperatures, one rider, no cargo, no gridlock. It exists so a Future 125 (1.47 L/100 km) and a Sirius (2.08 L/100 km) can be ranked fairly - our test-cycles explainer covers the methodology, including Honda's own method-change note on the Winner R.
+A lab cycle under controlled conditions: fixed speeds, fixed temperatures, one rider, no cargo, no gridlock. It exists so a Future 125 (1.47 L/100 km) and a Sirius (2.08 L/100 km) can be ranked fairly - [our test-cycles explainer]({{ '/articles/fuel-economy-test-cycles-explained/' | relative_url }}) covers the methodology, including Honda's own method-change note on the Winner R.
 
 ## What Vietnamese reality adds
 

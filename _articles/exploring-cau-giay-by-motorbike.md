@@ -1,5 +1,5 @@
 ---
-title: "Exploring Cau Giay by Motorbike: Malls, Universities and the Western Corridor"
+title: "Exploring Cau Giay by Motorbike: Malls and the Western Corridor"
 slug: exploring-cau-giay-by-motorbike
 description: "Riding in Cau Giay: Hanoi's western growth corridor — wide boulevards, mall parking, university traffic, the museum stretch and how the area fits daily riding."
 category: hanoi
@@ -18,7 +18,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address and opening hours only"
-internal_link_targets: renting-motorbike-cau-giay, hanoi-university-areas-riding-guide, hanoi-motorbike-commute-corridors, where-to-park-motorbike-hanoi, apartment-living-motorbike-hanoi, choosing-hanoi-neighbourhood-motorbike-access, hanoi-districts-layout-guide-riders
+internal_link_targets: "renting-motorbike-cau-giay, hanoi-university-areas-riding-guide, hanoi-motorbike-commute-corridors, where-to-park-motorbike-hanoi, apartment-living-motorbike-hanoi, choosing-hanoi-neighbourhood-motorbike-access, hanoi-districts-layout-guide-riders, nam-tu-liem-area-guide-riders"
 ---
 
 Cau Giay is the Hanoi of the last two decades: broad boulevards, glass malls, apartment towers and university campuses stacked along the city's western corridor. For riders it is the easiest part of the city to move through and one of the easiest to live in — if you know which streets carry the pressure and which absorb it.
@@ -33,7 +33,7 @@ Cau Giay has some of the best motorbike parking in Hanoi, because its malls were
 
 ## University traffic
 
-The district's south holds campuses and student housing, and their schedule shapes the streets. Around class-change hours, the flow of riders swells with students on scooters, often two-up with backpacks, riding with a confident fatalism that still surprises newcomers. The general university-area riding guide covers the timing and tactics; in Cau Giay the key corridors to treat with respect at peak times are the campus feeder streets off To Huu and Nguyen Trai.
+The district's south holds campuses and student housing, and their schedule shapes the streets. Around class-change hours, the flow of riders swells with students on scooters, often two-up with backpacks, riding with a confident fatalism that still surprises newcomers. [The general university-area riding guide]({{ '/articles/hanoi-university-areas-riding-guide/' | relative_url }}) covers the timing and tactics; in Cau Giay the key corridors to treat with respect at peak times are the campus feeder streets off To Huu and Nguyen Trai.
 
 ## The museum and exhibition stretch
 
@@ -41,6 +41,6 @@ A quieter pleasure of the district: the cluster of museums and cultural sites al
 
 ## Living and riding here
 
-Cau Giay's riding profile explains its popularity with expat teachers and families: fast corridors to the centre, calm residential layers, real parking, and direct access toward Hoa Lac and the day-trip roads to the west. Monthly rental of a motorbike is a common first move for new residents here; the Cau Giay rental guide covers the specifics, and any specific model's current availability should be confirmed directly with the shop.
+Cau Giay's riding profile explains its popularity with expat teachers and families: fast corridors to the centre, calm residential layers, real parking, and direct access toward Hoa Lac and the day-trip roads to the west. Monthly rental of a motorbike is a common first move for new residents here; [the Cau Giay rental guide]({{ '/articles/renting-motorbike-cau-giay/' | relative_url }}) covers the specifics, and any specific model's current availability should be confirmed directly with the shop.
 
 For visitors staying in the west, Cau Giay works well as a base: you ride against the main flow in the morning and with it home in the evening, and the district's own streets give you an honest picture of modern Hanoi — the city most residents actually live in, away from the postcard.

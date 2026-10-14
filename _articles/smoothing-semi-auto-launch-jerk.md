@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: riding-semi-automatic-first-time, how-to-shift-gears-semi-automatic-underbone, centrifugal-clutch-care-semi-automatic, when-to-shift-gears-underbone, semi-auto-two-up-riding-technique
+internal_link_targets: "riding-semi-automatic-first-time, how-to-shift-gears-semi-automatic-underbone, centrifugal-clutch-care-semi-automatic, when-to-shift-gears-underbone, semi-auto-two-up-riding-technique, riding-semi-auto-gravel-roads"
 ---
 
 A semi-automatic underbone should glide away from a stop like a small automatic. When it instead lurches, surges or shudders through the first few metres, either the rider or the bike is fighting the centrifugal clutch — and usually both can be fixed cheaply.
@@ -34,7 +34,7 @@ Drill it: on a quiet street, launch ten times with one steady throttle opening a
 
 If smooth throttle still produces grabbing, shuddering or slipping, look at the machine:
 
-- **Worn centrifugal clutch shoes** grab and shudder instead of engaging progressively — a common high-mileage issue, and the clutch-care guide covers the symptoms.
+- **Worn centrifugal clutch shoes** grab and shudder instead of engaging progressively — a common high-mileage issue, and [the clutch-care guide]({{ '/articles/centrifugal-clutch-care-semi-automatic/' | relative_url }}) covers the symptoms.
 - **Contaminated or old gearbox oil** makes engagement harsh; a gearbox oil change is cheap and often transformative on neglected bikes.
 - **Sticking linkage or worn clutch components** can hold the clutch partially engaged at idle (creeping at stoplights is the giveaway) or fully release late.
 - **Engine running rough** — a badly tuned carburettor or fouled plug surges at exactly the revs the clutch engages, felt as jerkiness that is really misfire.

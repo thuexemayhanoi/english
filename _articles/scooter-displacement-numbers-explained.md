@@ -32,7 +32,7 @@ Manufacturers deliberately size engines just under regulatory class limits - a l
 
 ## Why this matters for licences
 
-Vietnamese licence classes are set by engine capacity, and the boundary cases are exactly where those decimals matter - a 124.9 cc bike and a 125.0 cc bike can fall on different sides of a rule. Our licence classes guide covers what each licence lets you ride, and our A1 guide covers the class most 125s sit within. Never rely on the badge - the registration papers carry the true figure, and our documents guide covers what to carry.
+Vietnamese licence classes are set by engine capacity, and the boundary cases are exactly where those decimals matter - a 124.9 cc bike and a 125.0 cc bike can fall on different sides of a rule. [Our licence classes guide]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) covers what each licence lets you ride, and our A1 guide covers the class most 125s sit within. Never rely on the badge - the registration papers carry the true figure, and our documents guide covers what to carry.
 
 ## And for buyers
 

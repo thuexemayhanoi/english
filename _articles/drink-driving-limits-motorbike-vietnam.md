@@ -1,7 +1,7 @@
 ---
 title: "Drink Driving Limits for Motorbikes in Vietnam"
 slug: drink-driving-limits-motorbike-vietnam
-description: "Vietnam applies zero tolerance to alcohol for all riders: any detectable alcohol is an offence, with motorbike fines of 2–3 million VND in the lowest band, up to 8–10 million and licence suspension above 80 mg."
+description: "Vietnam has zero tolerance for alcohol on a motorbike: any detectable level is an offence, fined from 2-3 million VND up to 8-10 million plus licence suspension."
 category: law-licences
 tags:
   - "drink-driving"

@@ -1,5 +1,5 @@
 ---
-title: "Motorbike Trip Preparation Checklist: Planning a Ride Out of Hanoi"
+title: "Motorbike Trip Preparation Checklist for Rides Out of Hanoi"
 slug: motorbike-trip-prep-checklist-hanoi
 description: "A practical preparation checklist for a motorbike trip from Hanoi: the bike, documents, route, weather, packing and the rental questions to settle before you leave."
 category: trips

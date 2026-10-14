@@ -20,7 +20,7 @@ sources:
   - "https://saigonadventure.com/first-motorbike-tour-ho-chi-minh-city — what travellers should know before their first motorbike experience in Ho Chi Minh City: millions of bikes, and traffic that is less reckless than it looks, retrieved 2026-09-24"
   - "https://www.fst.com/news-stories/sustainability/motorcycle-city-asia/ — urban-traffic research on Ho Chi Minh City: roughly 700 motor scooters per 1,000 inhabitants, retrieved 2026-09-24"
   - "https://roundtheworldrachel.com/riding-high-vietnam/ — first-hand account of a novice rider facing Ho Chi Minh City traffic (city population ~8.2 million), retrieved 2026-09-24"
-internal_link_targets: renting-motorbike-ho-chi-minh-city, hanoi-motorbike-traffic-culture-first-timers, night-riding-motorbike-safety-vietnam, horn-etiquette-motorbike-vietnam, can-tourists-ride-motorbike-vietnam
+internal_link_targets: "renting-motorbike-ho-chi-minh-city, hanoi-motorbike-traffic-culture-first-timers, night-riding-motorbike-safety-vietnam, horn-etiquette-motorbike-vietnam, can-tourists-ride-motorbike-vietnam, vietnam-traffic-culture-riding-overview"
 ---
 
 Ho Chi Minh City is one of the most motorbiked cities on earth — urban-traffic research counts roughly 700 scooters per 1,000 inhabitants in a metropolis of over eight million people. Standing on a District 1 corner watching the intersections is a famous backpacker shock: no one seems to stop, everything seems to be merging, and yet it flows. The single most useful thing first-time riders are told — by local guides, by veterans, by everyone — is that the system is not chaos. It is a different system, and it can be learned in an afternoon.
@@ -31,7 +31,7 @@ Ho Chi Minh City is one of the most motorbiked cities on earth — urban-traffic
 
 **Speed is lower than it looks.** The sensation of danger comes from density, not velocity. Downtown speeds are modest; the danger hours are the fast avenues at night.
 
-**The horn is a language.** A short beep means "I am here" — communication, not anger. Our horn-etiquette guide decodes it; once you stop flinching at horns, the city shrinks by half.
+**The horn is a language.** A short beep means "I am here" — communication, not anger. [Our horn-etiquette guide]({{ '/articles/horn-etiquette-motorbike-vietnam/' | relative_url }}) decodes it; once you stop flinching at horns, the city shrinks by half.
 
 **Buses and lorries have geometry they cannot change.** Give them the same respect the locals do: never sit in their blind spots, never undertake a turning bus.
 
@@ -41,7 +41,7 @@ Ho Chi Minh City is one of the most motorbiked cities on earth — urban-traffic
 2. **Right side, steady pace.** Ride the right third of the lane, at the speed of the bikes around you — not the speed you wish they went.
 3. **The merge:** do not stop and sprint. Join the flow slowly and keep going. The most dangerous beginner move is the hesitant freeze mid-intersection.
 4. **Eyes far, not down.** Look through the intersection at where you will be in three seconds; the bike follows your eyes and the flow follows the bike.
-5. **Skip the first night ride.** Night riding multiplies every risk — our night-riding guide explains why, and Saigon's wide avenues invite exactly the speeds a novice should not have after dark.
+5. **Skip the first night ride.** Night riding multiplies every risk — [our night-riding guide]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}) explains why, and Saigon's wide avenues invite exactly the speeds a novice should not have after dark.
 
 ## Licence and legality
 

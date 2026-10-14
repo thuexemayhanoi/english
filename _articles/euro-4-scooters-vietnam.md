@@ -1,5 +1,5 @@
 ---
-title: "EURO 4 and Vietnamese Scooters: What the Emission Standard Means for You"
+title: "Euro 4 and Vietnamese Scooters: What the Emission Standard Means"
 slug: euro-4-scooters-vietnam
 description: "What the EURO 4 emission standard means for scooters in Vietnam, which verified models state they meet it, and how it relates to fuel injection and running costs."
 category: scooters
@@ -28,7 +28,7 @@ EURO 4 is a stage of exhaust-emission limits (carbon monoxide, hydrocarbons, nit
 
 ## Why it matters mechanically
 
-Meeting strict emission limits is essentially impossible with a carburettor - closed-loop electronic fuel injection meters fuel precisely, and that is what PGM-FI (Honda) and EFI (Yamaha's Gear 125) denote. The practical consequences for a rider: easier cold starts, more stable fueling at Hanoi altitude changes, better measured economy - and different maintenance. Instead of carb tuning (our carburettor guide covers the older world), fuel-injected engines need clean injectors and filters - our fuel [injection guide]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}) covers care.
+Meeting strict emission limits is essentially impossible with a carburettor - closed-loop electronic fuel injection meters fuel precisely, and that is what PGM-FI (Honda) and EFI (Yamaha's Gear 125) denote. The practical consequences for a rider: easier cold starts, more stable fueling at Hanoi altitude changes, better measured economy - and different maintenance. Instead of carb tuning ([our carburettor guide]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}) covers the older world), fuel-injected engines need clean injectors and filters - our fuel [injection guide]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}) covers care.
 
 ## What EURO 4 does not mean
 

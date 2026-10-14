@@ -1,7 +1,7 @@
 ---
 title: "Yamaha Grande Review: The Style-First City Scooter"
 slug: yamaha-grande-review
-description: "Yamaha Grande review - verified Yamaha Vietnam facts on the Blue Core Hybrid engine, 27-litre lit underseat storage, SmartKey and who this style-focused scooter suits."
+description: "Yamaha Grande review: verified Yamaha Vietnam facts on the Blue Core Hybrid engine, 27-litre lit underseat storage, SmartKey."
 category: scooters
 tags:
   - "yamaha grande"

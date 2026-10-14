@@ -1,7 +1,7 @@
 ---
 title: "Running a Red Light: The Fine in Vietnam"
 slug: red-light-fine-vietnam
-description: "Running a red light on a motorbike in Vietnam costs 4,000,000-6,000,000 VND with four licence points deducted under Article 7(7)(c) of Decree 168/2024/NĐ-CP — one of the heaviest ordinary riding fines, and far more if the manoeuvre causes a crash."
+description: "Running a red light on a motorbike in Vietnam costs 4-6 million VND and four licence points under Article 7(7)(c) of Decree 168/2024, far more if it causes a crash."
 category: law-licences
 tags:
   - "red light"

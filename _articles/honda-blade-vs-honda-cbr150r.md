@@ -1,5 +1,5 @@
 ---
-title: "Honda Blade vs Honda CBR150R: Honda's Cheapest vs Honda's Sportiest"
+title: "Honda Blade vs Honda CBR150R: Cheapest vs Sportiest Honda"
 slug: honda-blade-vs-honda-cbr150r
 description: "Blade vs CBR150R on verified Honda Vietnam specs - the 22-million budget 110 against the 72-million full-fairing 150 sport bike."
 category: motorcycles

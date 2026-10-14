@@ -1,5 +1,5 @@
 ---
-title: "Best Electric Mopeds for Students in Vietnam: Licence-Free Choices"
+title: "Best Electric Mopeds for Students in Vietnam: Licence-Free Picks"
 slug: best-electric-moped-students-vietnam
 description: "Licence-free electric mopeds for Vietnamese students — what the sub-4 kW class offers, which current models fit it and how to choose on budget and charging."
 category: electric
@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — Amio (800 W, 30 km/h, 65 km range, licence-free) and Evo Lite (below 50 km/h, no licence)"
   - "https://yadea.com.vn/ — Yadea Vietnam official site — student-priced models from 13,990,000 VND (XBULL H) and 14,790,000 VND (iCANDY)"
-internal_link_targets: "riding-electric-moped-16-vietnam, why-electric-mopeds-capped-50kmh-vietnam, buying-first-electric-motorbike-vietnam, electric-moped-vs-electric-motorcycle-vietnam, charging-electric-motorbike-apartment-rental"
+internal_link_targets: "riding-electric-moped-16-vietnam, why-electric-mopeds-capped-50kmh-vietnam, buying-first-electric-motorbike-vietnam, electric-moped-vs-electric-motorcycle-vietnam, charging-electric-motorbike-apartment-rental, electric-motorbike-older-riders-vietnam"
 ---
 
 For students, the sub-4 kW moped class is the sweet spot of Vietnamese electric motoring: no licence, ride from 16, cheap to run, and purpose-built for the school run.

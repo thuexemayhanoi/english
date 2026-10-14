@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: when-to-shift-gears-underbone, how-to-shift-gears-semi-automatic-underbone, how-to-downshift-smoothly-manual-motorbike, checking-engine-oil-motorbike, choosing-replacement-tyres-motorbike-vietnam
+internal_link_targets: "when-to-shift-gears-underbone, how-to-shift-gears-semi-automatic-underbone, how-to-downshift-smoothly-manual-motorbike, checking-engine-oil-motorbike, choosing-replacement-tyres-motorbike-vietnam, touring-semi-auto-underbone"
 ---
 
 Manufacturer fuel-economy figures for Vietnamese underbones are impressive — many claim under two litres per 100 km — but those numbers come from gentle test rides. Real Hanoi riding with hard launches, hard braking and under-inflated tyres can use half again as much. The gap between the two is riding habits, and habits are free to change.

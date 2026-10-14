@@ -39,7 +39,7 @@ Anything large or wide is simply the wrong tool here - and there is nothing a bi
 
 ## Riding notes that are not bike choice
 
-The weekend walking streets close to traffic; the alleys flood in heavy summer rain; and the sidewalk is not a shortcut - riding on the sidewalk is a fine. Keep the speed down to the crowd's pace, cover the brakes continuously, and expect pedestrians to treat the roadway as shared space. The lane-rules article covers where bikes legally sit on the bigger roads around the district.
+The weekend walking streets close to traffic; the alleys flood in heavy summer rain; and the sidewalk is not a shortcut - riding on the sidewalk is a fine. Keep the speed down to the crowd's pace, cover the brakes continuously, and expect pedestrians to treat the roadway as shared space. [The lane-rules article]({{ '/articles/motorbike-lane-rules-vietnam/' | relative_url }}) covers where bikes legally sit on the bigger roads around the district.
 
 ## Parking in the Old Quarter
 

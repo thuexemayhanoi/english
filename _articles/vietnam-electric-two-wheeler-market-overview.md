@@ -1,7 +1,7 @@
 ---
 title: "Vietnam Electric Two-Wheeler Market: A Verified Overview"
 slug: vietnam-electric-two-wheeler-market-overview
-description: "Vietnam electric two-wheeler market from verified data only: the swap ecosystem, the A1 charge-at-home class, the budget e-bike shelf, and how the classes divide the market."
+description: "Vietnam's electric two-wheeler market from verified data: the battery-swap ecosystem, the A1 charge-at-home class, the budget e-bike shelf."
 category: electric
 tags:
   - "electric motorbike"
@@ -22,7 +22,7 @@ sources:
   - "https://dat.bike/en/xe-may-dien-weaver-plus-plus-en/ — Dat Bike official Weaver++ product page"
   - "https://yadea.com.vn/ — Yadea Vietnam official site (listed prices, retrieved 2026-09-24)"
   - "docs/MODEL-DATABASE.md — verified electric rows (retrieved 2026-09-24)"
-internal_link_targets: vinfast-electric-scooter-lineup-vietnam, dat-bike-lineup-vietnam-guide, yadea-vietnam-lineup-guide, vinfast-vs-dat-bike-ecosystems, cheapest-electric-motorbikes-vietnam-list-prices
+internal_link_targets: "vinfast-electric-scooter-lineup-vietnam, dat-bike-lineup-vietnam-guide, yadea-vietnam-lineup-guide, vinfast-vs-dat-bike-ecosystems, cheapest-electric-motorbikes-vietnam-list-prices, long-distance-electric-motorbike-touring-vietnam"
 ---
 
 Vietnam's electric two-wheeler market is best understood not as one market but as three shelves, each with its own brands, economics and legal position. This overview holds to verified, citable facts — no sales figures or market shares are invented, and everything below traces to official manufacturer data.

@@ -1,7 +1,7 @@
 ---
-title: "Exploring Hoan Kiem and the Old Quarter by Motorbike: Parking, Walking Streets and Timing"
+title: "Exploring Hoan Kiem and the Old Quarter by Motorbike"
 slug: exploring-hoan-kiem-by-motorbike
-description: "How to actually visit Hanoi's Hoan Kiem and Old Quarter on a motorbike: weekend walking-street closures, where to park, what to expect on the narrow streets, and the best hours to go."
+description: "Visiting Hoan Kiem and the Old Quarter by motorbike: weekend walking-street closures, where to park, what to expect on the narrow streets and when to go."
 category: hanoi
 tags:
   - "hoan kiem"

@@ -1,5 +1,5 @@
 ---
-title: "Electric Motorbike Charging Times in Vietnam: Planning Around the Clock"
+title: "Electric Motorbike Charging Times in Vietnam: Planning Your Day"
 slug: electric-motorbike-charging-time-planning-vietnam
 description: "Charging times for Vietnamese electric motorbikes from official data — Weaver 200 hours, Weaver++ fast minutes, VinFast swap seconds — and how to plan a week."
 category: electric

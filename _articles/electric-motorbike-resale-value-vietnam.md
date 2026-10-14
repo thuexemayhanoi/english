@@ -1,5 +1,5 @@
 ---
-title: "Electric Motorbike Resale Value in Vietnam: What Holds and What Fades"
+title: "Electric Motorbike Resale Value in Vietnam: What Holds Up"
 slug: electric-motorbike-resale-value-vietnam
 description: "What holds electric motorbike resale value in Vietnam: battery health above all, documentation, brand ecosystems and the honest habits buyers pay extra for."
 category: electric
@@ -40,4 +40,4 @@ Resale on an electric motorbike follows one rule everywhere in the world: the bu
 
 ## Before you sell
 
-Run the battery-health routine honestly and price against the result. A pack you can demonstrate — a timed charge, a familiar loop, app data where the model has it — turns your asking price into a defensible one. The used-buying guide is the mirror of this article: everything a buyer will check on you is listed there.
+Run the battery-health routine honestly and price against the result. A pack you can demonstrate — a timed charge, a familiar loop, app data where the model has it — turns your asking price into a defensible one. [The used-buying guide]({{ '/articles/buying-used-electric-motorbike-vietnam/' | relative_url }}) is the mirror of this article: everything a buyer will check on you is listed there.

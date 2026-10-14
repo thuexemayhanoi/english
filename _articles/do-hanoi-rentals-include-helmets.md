@@ -1,7 +1,7 @@
 ---
 title: "Do Hanoi Rentals Include Helmets?"
 slug: do-hanoi-rentals-include-helmets
-description: "Yes - Hanoi motorbike rentals normally include helmets for rider and passenger, and wearing one is the law for both. Here is what to expect from rental helmets and when to bring your own."
+description: "Yes: Hanoi motorbike rentals normally include helmets for rider and passenger, and wearing one is the law. What to expect, and when to bring your own."
 category: rental
 tags:
   - "helmets"

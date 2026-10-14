@@ -1,7 +1,7 @@
 ---
 title: "Upgrading from a 50cc to a 110cc: What Actually Changes"
 slug: upgrading-from-50cc-to-110cc
-description: "Moving up from a 50cc moped to a 110cc underbone in Vietnam: the licence step at 18, identical controls, new power discipline, heavier machine, and how to make the transition safely."
+description: "Moving up from a 50cc moped to a 110cc underbone in Vietnam: the licence step at 18, identical controls, new power discipline, a heavier bike, and a safe transition."
 category: 50cc
 tags:
   - "50cc"
@@ -25,7 +25,7 @@ The step from a 50cc moped to a 110cc underbone is the most common upgrade in Vi
 
 ## The legal step is the big one
 
-A 110cc bike is a full motorbike (xe máy): it requires an A1 licence, obtainable from 18. If the upgrade is happening because a birthday arrived, the licence comes first and the bike second — riding a 110 while under-18 is a 400,000–600,000 VND offence regardless of experience. Our A1 guide covers what the licence covers; foreign riders need a licence valid in Vietnam instead, as the licence article explains.
+A 110cc bike is a full motorbike (xe máy): it requires an A1 licence, obtainable from 18. If the upgrade is happening because a birthday arrived, the licence comes first and the bike second — riding a 110 while under-18 is a 400,000–600,000 VND offence regardless of experience. Our A1 guide covers what the licence covers; foreign riders need a licence valid in Vietnam instead, as [the licence article]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) explains.
 
 ## The controls: identical
 
@@ -52,4 +52,4 @@ A 110cc underbone is a few kilograms more — noticeable pushing it around a par
 
 ## The money side
 
-A maintained 50cc holds resale well — our resale article covers the sale — and mainstream 110s benefit from official dealer networks and parts availability the 50cc class never had. The full class comparison is in our 50cc-versus-110cc article.
+A maintained 50cc holds resale well — [our resale article]({{ '/articles/50cc-resale-value-vietnam/' | relative_url }}) covers the sale — and mainstream 110s benefit from official dealer networks and parts availability the 50cc class never had. The full class comparison is in [our 50cc-versus-110cc article]({{ '/articles/50cc-vs-110cc-motorbike-vietnam/' | relative_url }}).

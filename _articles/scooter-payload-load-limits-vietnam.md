@@ -1,5 +1,5 @@
 ---
-title: "Scooter Payload Limits Explained: What Those Kilogram Figures Mean"
+title: "Scooter Payload Limits Explained: What the Kilogram Figures Mean"
 slug: scooter-payload-load-limits-vietnam
 description: "What manufacturer payload figures mean for riders, pillions and luggage - verified maximum load figures for Vietnamese scooters and how to respect them safely."
 category: scooters
@@ -39,7 +39,7 @@ Only Yamaha publishes clean payload figures across its current pages; Honda's Vi
 ## Reading the numbers honestly
 
 - 157 kg sounds generous until you add it up: a 75 kg rider + 70 kg pillion = 145 kg before any luggage.
-- Exceeding payload is not an immediate failure - it is gradual: slower braking, wallowing suspension, overheating brakes on descents, and stressed tyres. Our two-up guide and suspension preload guide cover how to set the bike up properly for real loads.
+- Exceeding payload is not an immediate failure - it is gradual: slower braking, wallowing suspension, overheating brakes on descents, and stressed tyres. [Our two-up guide]({{ '/articles/best-scooters-two-up-riding-vietnam/' | relative_url }}) and suspension preload guide cover how to set the bike up properly for real loads.
 - Payload is separate from towing and rack limits: a top box loaded to 10 kg on a rack has its own effect on handling, covered in our luggage [guide]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}).
 
 ## The legal dimension

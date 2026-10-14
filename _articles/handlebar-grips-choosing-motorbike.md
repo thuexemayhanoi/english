@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "motorbike-rider-toolkit-essentials, riding-gloves-vietnam-climate, hand-signals-motorbike-vietnam, mirror-setup-motorbike-vietnam"
+internal_link_targets: "motorbike-rider-toolkit-essentials, riding-gloves-vietnam-climate, hand-signals-motorbike-vietnam, mirror-setup-motorbike-vietnam, bar-end-weights-vibration, heated-grips-hanoi-winter"
 ---
 
 Grips are the three contact points through which the whole ride is steered, braked and throttled — and they are a consumable that riders replace with everything except thought. In Vietnam's climate, grips age faster than the manual's world assumed: sun bakes them hard, rain makes cheap compounds slick, and humidity works into the joins.

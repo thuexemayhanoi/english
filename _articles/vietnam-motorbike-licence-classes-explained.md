@@ -1,7 +1,7 @@
 ---
 title: "Vietnam Motorbike Licence Classes Explained (A1, A, B1)"
 slug: vietnam-motorbike-licence-classes-explained
-description: "Vietnam's motorcycle licence classes under Law 36/2024/QH15 from 1 January 2025: A1 up to 125cc/11 kW, A above that, B1 for three-wheelers — plus the transitional rules for licences issued before 2025."
+description: "Vietnam's motorbike licence classes under Law 36/2024/QH15 from 1 January 2025: A1 up to 125cc or 11 kW, A above that, B1 for three-wheelers."
 category: law-licences
 tags:
   - "licence"
@@ -20,7 +20,7 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Articles 3, 57, 59, 89"
   - "https://vanban.chinhphu.vn/?pageid=27160&docid=211194&classid=1&typegroupid=3 — Law No. 36/2024/QH15, original record (vanban.chinhphu.vn)"
   - "https://xaydungchinhsach.chinhphu.vn/tu-1-1-2025-co-nhung-hang-giay-phep-lai-xe-nao-119240812165630751.htm — Government portal summary of licence classes under Law 36/2024/QH15"
-internal_link_targets: "a1-licence-vietnam-what-you-can-ride, 50cc-licence-vietnam, electric-bike-licence-vietnam, idp-vietnam-motorbike-rules"
+internal_link_targets: "a1-licence-vietnam-what-you-can-ride, 50cc-licence-vietnam, electric-bike-licence-vietnam, idp-vietnam-motorbike-rules, ride-125cc-with-car-licence-vietnam"
 ---
 
 Vietnam rewrote its driving licence classes in the Law on Road Traffic Order and Safety (No. 36/2024/QH15), effective 1 January 2025. Older articles — including earlier versions of this one — described a different structure. This version reflects the classes as actually written in Article 57 of the law.

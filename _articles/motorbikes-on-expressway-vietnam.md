@@ -1,7 +1,7 @@
 ---
 title: "Are Motorbikes Allowed on Vietnamese Expressways"
 slug: motorbikes-on-expressway-vietnam
-description: "No — motorbikes of every class are banned from Vietnamese expressways under the 2024 road traffic law, with a 4-6 million VND fine and a six-point licence deduction for riders who enter, and far heavier consequences if a crash results."
+description: "No: every class of motorbike is banned from Vietnamese expressways under the 2024 road traffic law, with a 4-6 million VND fine and six licence points for entering."
 category: law-licences
 tags:
   - "expressway"

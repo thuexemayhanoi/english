@@ -1,7 +1,7 @@
 ---
 title: "B1 Three-Wheel Motorbike Licence Vietnam"
 slug: b1-three-wheel-licence-vietnam
-description: "The Vietnamese B1 licence covers three-wheeled motorbikes under Article 57 of Law 36/2024/QH15 — who needs it, what it covers, and how it differs from the old A3 class."
+description: "The Vietnamese B1 licence covers three-wheeled motorbikes under Article 57 of Law 36/2024/QH15: who needs it, what it covers and how it differs from the old A3."
 category: law-licences
 tags:
   - "b1"

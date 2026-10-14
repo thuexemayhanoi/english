@@ -28,7 +28,7 @@ The SH160i's 156.9 cc eSP+ engine publishes 12.4 kW at 8,500 rpm and 14.8 Nm at 
 
 ## Safety hardware
 
-NMAX: dual-channel ABS (discs front and rear) plus traction control. SH160i: ABS on both wheels plus Honda's HSTC traction control on the Sport, Special and Premium versions. This is the closest equipment fight in the Vietnamese scooter market - both flagships protect both ends of the braking equation. Our TCS vs ABS guide explains what each layer does.
+NMAX: dual-channel ABS (discs front and rear) plus traction control. SH160i: ABS on both wheels plus Honda's HSTC traction control on the Sport, Special and Premium versions. This is the closest equipment fight in the Vietnamese scooter market - both flagships protect both ends of the braking equation. [Our TCS vs ABS guide]({{ '/articles/tcs-vs-abs-scooters-vietnam/' | relative_url }}) explains what each layer does.
 
 ## Size and comfort
 

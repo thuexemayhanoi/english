@@ -1,5 +1,5 @@
 ---
-title: "Yamaha NMAX 155 vs Honda Vario 160: Premium Sport vs Value Sport"
+title: "Yamaha NMAX 155 vs Honda Vario 160: Premium or Sporty Commuter?"
 slug: yamaha-nmax-155-vs-honda-vario-160
 description: "Yamaha NMAX 155 vs Honda Vario 160 compared on verified specs - dual ABS and traction control against a lower list price, same-class power, weight and storage."
 category: scooters
@@ -18,7 +18,7 @@ last_reviewed: 2026-09-23
 sources:
   - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: yamaha-nmax-155-review, honda-vario-160-review, yamaha-nmax-155-vs-honda-sh-160, which-scooters-have-abs-vietnam, tcs-vs-abs-scooters-vietnam, best-155-160cc-scooters-vietnam
+internal_link_targets: "yamaha-nmax-155-review, honda-vario-160-review, yamaha-nmax-155-vs-honda-sh-160, which-scooters-have-abs-vietnam, tcs-vs-abs-scooters-vietnam, best-155-160cc-scooters-vietnam, yamaha-lexi-155-vs-honda-vario-160"
 ---
 
 This is the sharpest sporty-scooter value question in Vietnam right now: Yamaha's premium NMAX 155 or Honda's aggressively priced Vario 160. Figures below are from the official Yamaha Vietnam and Honda Vietnam pages (retrieved 23 September 2026).
@@ -29,7 +29,7 @@ The NMAX's Blue Core 155.1 cc VVA engine makes 11.3 kW at 8,000 rpm and 14.2 Nm 
 
 ## Braking hardware - the real difference
 
-The NMAX has ABS on both wheels plus a traction control system. The Vario 160 has front-wheel ABS only. If you ride year-round through Hanoi's wet season, that rear ABS plus TCS is genuine added safety, not marketing - see our ABS guide and our TCS vs ABS explainer. The Vario's front ABS still beats drum-only rivals.
+The NMAX has ABS on both wheels plus a traction control system. The Vario 160 has front-wheel ABS only. If you ride year-round through Hanoi's wet season, that rear ABS plus TCS is genuine added safety, not marketing - see our ABS guide and [our TCS vs ABS explainer]({{ '/articles/tcs-vs-abs-scooters-vietnam/' | relative_url }}). The Vario's front ABS still beats drum-only rivals.
 
 ## Weight and practicality
 

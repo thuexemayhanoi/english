@@ -38,6 +38,6 @@ Semi-automatics reward aggressive, instant shifting — click whenever you like.
 
 ## Why upgrade at all
 
-A manual clutch lets you hold torque exactly where you want it — launches, overtakes, descents — and the sport underbones that use it (Winner R, Exciter 155) are the performance end of the underbone class. Our who-needs-a-manual-150 guide covers whether the upgrade matches your actual riding; for most city commuters, a semi-automatic remains the smarter tool.
+A manual clutch lets you hold torque exactly where you want it — launches, overtakes, descents — and the sport underbones that use it (Winner R, Exciter 155) are the performance end of the underbone class. [Our who-needs-a-manual-150 guide]({{ '/articles/who-needs-150cc-manual-motorbike/' | relative_url }}) covers whether the upgrade matches your actual riding; for most city commuters, a semi-automatic remains the smarter tool.
 
-Plan the first session with our manual first-timer guide, and pick a forgiving bike from the beginner manual bikes list.
+Plan the first session with [our manual first-timer guide]({{ '/articles/how-to-ride-manual-clutch-motorbike-vietnam/' | relative_url }}), and pick a forgiving bike from the beginner manual bikes list.

@@ -1,5 +1,5 @@
 ---
-title: "Renting a Motorbike in Da Nang: Prices, Beach Roads and the Hai Van Jump-Off"
+title: "Renting a Motorbike in Da Nang: Beach Roads and the Hai Van Pass"
 slug: renting-motorbike-da-nang
 description: "Motorbike rental in Da Nang: typical daily prices, where to rent, licence rules, city riding and using Da Nang as the base for the Hai Van Pass and Hoi An."
 category: vietnam-travel
@@ -20,7 +20,7 @@ sources:
   - "https://vinpearl.com/en/da-nang-motorbike-rental-the-best-guide-with-updated-prices — Da Nang rental prices 80,000-120,000 VND for semi-automatic and 120,000-160,000 VND for automatic scooters, retrieved 2026-09-24"
   - "https://vinwonders.com/en/wonderpedia/news/da-nang-motorbike-rental/ — monthly Da Nang rental prices 1,500,000-2,500,000 VND, retrieved 2026-09-24"
   - "https://visitdanang.travel/en/top-5-reputable-and-affordable-motorcycle-rental-services-in-da-nang-for-tourists-in-2025-4629 — official Da Nang tourism portal on rental services and prices 80,000-180,000 VND, retrieved 2026-09-24"
-internal_link_targets: hai-van-pass-motorbike-guide, renting-motorbike-hue, first-time-renting-a-motorbike-hanoi, can-tourists-ride-motorbike-vietnam, motorbike-parking-vietnamese-cities
+internal_link_targets: "hai-van-pass-motorbike-guide, renting-motorbike-hue, first-time-renting-a-motorbike-hanoi, can-tourists-ride-motorbike-vietnam, motorbike-parking-vietnamese-cities, renting-motorbike-da-lat"
 ---
 
 Da Nang is the most rider-friendly big city in Vietnam: broad boulevards, a spectacular coastline, and — uniquely — an official tourism portal that openly lists motorbike rental services. Rental here is cheap, easy and genuinely useful, because the city is the natural base for two of the country's classic rides: the Son Tra peninsula loop and the Hai Van Pass.
@@ -41,7 +41,7 @@ The same national rules apply: over 50cc requires a Vietnamese licence or a 1968
 
 **Hoi An.** Flat, fast and scenic along the coast road — 30-40 minutes each way, ideal for an evening in the old town with the bike parked in a guarded lot (see our nationwide [parking guide]({{ '/articles/motorbike-parking-vietnamese-cities/' | relative_url }})). Alternatively the quiet route past rice paddies via Cam Thanh.
 
-**The Hai Van Pass.** The reason many travellers rent in Da Nang at all: the full pass ride from the city to Hue (or there and back in a long day). Our dedicated Hai Van Pass guide covers the route, the tunnel rules for motorbikes and what the pass demands from a rider. A scooter handles the pass; respect the downhill and the fog that gives the pass its name ("Sea of Clouds").
+**The Hai Van Pass.** The reason many travellers rent in Da Nang at all: the full pass ride from the city to Hue (or there and back in a long day). [Our dedicated Hai Van Pass guide]({{ '/articles/hai-van-pass-motorbike-guide/' | relative_url }}) covers the route, the tunnel rules for motorbikes and what the pass demands from a rider. A scooter handles the pass; respect the downhill and the fog that gives the pass its name ("Sea of Clouds").
 
 ## Practical notes
 

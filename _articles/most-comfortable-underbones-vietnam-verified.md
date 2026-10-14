@@ -1,5 +1,5 @@
 ---
-title: "Most Comfortable Underbones in Vietnam: What the Verified Numbers Say"
+title: "Most Comfortable Underbones in Vietnam: The Verified Numbers"
 slug: most-comfortable-underbones-vietnam-verified
 description: "Underbone comfort measured in verified seat heights, weights and wheelbases - which Vietnamese bikes are easiest to live with daily."
 category: motorcycles

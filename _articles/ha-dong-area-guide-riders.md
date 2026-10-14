@@ -1,5 +1,5 @@
 ---
-title: "Ha Dong for Motorbike Riders: The Southwest Gateway and Silk Village Access"
+title: "Ha Dong for Motorbike Riders: Southwest Gateway and Silk Village"
 slug: ha-dong-area-guide-riders
 description: "Riding the Ha Dong area of southwest Hanoi: the Nguyen Trai corridor, metro line, Van Phuc silk village, traffic character and parking for riders."
 category: hanoi

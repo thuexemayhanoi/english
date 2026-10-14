@@ -1,7 +1,7 @@
 ---
 title: "Learning to Ride on a 50cc: A Sensible First-Bike Path"
 slug: learning-to-ride-on-50cc-vietnam
-description: "Why a 50cc is a genuine learning platform: the controls mirror bigger underbones, the speeds forgive mistakes, and the habits transfer. A practice progression from empty lot to Hanoi traffic."
+description: "Why a 50cc is a genuine learning platform: the controls mirror bigger underbones, the speeds forgive mistakes, the habits transfer. From empty lot to Hanoi traffic."
 category: 50cc
 tags:
   - "50cc"
@@ -33,7 +33,7 @@ A bike that cruises under 45 km/h keeps you inside the speeds where mistakes are
 ## The progression
 
 1. **Static drills (one hour).** Engine off, stand over the bike, walk it, use both brakes while walking alongside. Feel where the friction and the weight live.
-2. **Empty-lot hour one.** Straight lines at walking pace, gentle stops, U-turns both directions. Our where-to-practise article maps Hanoi's suitable spaces.
+2. **Empty-lot hour one.** Straight lines at walking pace, gentle stops, U-turns both directions. [Our where-to-practise article]({{ '/articles/where-to-practise-riding-hanoi/' | relative_url }}) maps Hanoi's suitable spaces.
 3. **Quiet street mornings.** Low-traffic hours on residential streets: junctions, indicating, checking mirrors on the move.
 4. **Supervised traffic.** Peak-hour riding only after a week of confident off-peak riding — with a experienced rider behind you if possible.
 
@@ -42,11 +42,11 @@ A bike that cruises under 45 km/h keeps you inside the speeds where mistakes are
 - Head checks before every lateral move, every time
 - Front brake with progressive pressure; never grab
 - Ride at the pace the bike chooses, never the pace the traffic pressures
-- Full gear, every ride, especially the helmet — the licence article covers what the law requires and the fines that enforce it
+- Full gear, every ride, especially the helmet — [the licence article]({{ '/articles/50cc-licence-vietnam/' | relative_url }}) covers what the law requires and the fines that enforce it
 
 ## For the 16–17-year-olds
 
-The legal frame (age 16 minimum, no licence for 50cc-and-under) is in our age-rules article, and the school training programme adds structured instruction. Parents supervising that first week make more difference than any bike choice — our teaching [guide]({{ '/articles/teaching-teens-50cc-safe-riding/' | relative_url }}) covers it.
+The legal frame (age 16 minimum, no licence for 50cc-and-under) is in [our age-rules article]({{ '/articles/riding-50cc-at-16-vietnam/' | relative_url }}), and the school training programme adds structured instruction. Parents supervising that first week make more difference than any bike choice — our teaching [guide]({{ '/articles/teaching-teens-50cc-safe-riding/' | relative_url }}) covers it.
 
 ## After the 50cc
 

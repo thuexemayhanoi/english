@@ -1,7 +1,7 @@
 ---
 title: "Stopped by Traffic Police in Vietnam: What to Do"
 slug: stopped-by-traffic-police-vietnam
-description: "What happens — and what you must do — when traffic police stop your motorbike in Vietnam: the stop signal is binding, documents are produced, fines are issued by decision, and here is the practical procedure for foreign riders."
+description: "When traffic police stop your motorbike in Vietnam: the signal is binding, documents are checked and fines come by written decision."
 category: law-licences
 tags:
   - "police"

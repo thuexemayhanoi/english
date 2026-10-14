@@ -1,7 +1,7 @@
 ---
-title: "Hanoi's 2025 Administrative Restructuring: What Changed for Riders and Addresses"
+title: "Hanoi's 2025 Restructuring: What Changed for Riders and Addresses"
 slug: hanoi-2025-administrative-restructuring-riders
-description: "How Hanoi's July 2025 administrative restructuring — 30 districts reorganised into 126 wards — affects motorbike riders: addresses, navigation, maps and neighbourhood names."
+description: "How Hanoi's July 2025 restructuring, 30 districts reorganised into 126 wards, affects motorbike riders: addresses, navigation, maps and neighbourhood names."
 category: hanoi
 tags:
   - "hanoi wards"
@@ -32,7 +32,7 @@ The old district layer of government — Dong Da, Hai Ba Trung, Hoang Mai, Thanh
 
 ## Why this matters to a rider
 
-**Navigation.** Digital maps in Vietnam are updated unevenly. Some points still list the old district names; some now show new wards; a search for an address using the old district structure sometimes returns the right pin with the wrong label, and occasionally vice versa. The practical fix: search by street name and number, or by a landmark's common name, rather than trusting the district line. The navigation guide covers how addresses work generally — the restructuring adds one more reason to pin your destination before you ride.
+**Navigation.** Digital maps in Vietnam are updated unevenly. Some points still list the old district names; some now show new wards; a search for an address using the old district structure sometimes returns the right pin with the wrong label, and occasionally vice versa. The practical fix: search by street name and number, or by a landmark's common name, rather than trusting the district line. [The navigation guide]({{ '/articles/hanoi-navigation-motorbike-guide/' | relative_url }}) covers how addresses work generally — the restructuring adds one more reason to pin your destination before you ride.
 
 **Addresses in messages.** Hotels, landlords and shops may give you an address in either system. If a delivery or rental pickup point matters, confirm the street number and street name specifically, and share a map pin — the ward name alone has stopped being a safe identifier.
 

@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "motorcycle-rust-prevention-vietnam, cleaning-motorbike-properly-vietnam, preparing-motorbike-for-sale-vietnam, motorbike-covers-parking-outdoors-vietnam"
+internal_link_targets: "motorcycle-rust-prevention-vietnam, cleaning-motorbike-properly-vietnam, preparing-motorbike-for-sale-vietnam, motorbike-covers-parking-outdoors-vietnam, tank-pads-scooters"
 ---
 
 Vietnamese sun, dust, and humidity attack paint from three directions: UV fades it, grit sands it, and moisture under it blisters it. Paint protection is where motorcycle vanity and motorcycle value meet — and it is one of the most oversold products in the market.

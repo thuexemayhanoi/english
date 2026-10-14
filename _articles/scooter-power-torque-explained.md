@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — official Honda Vietnam model pages (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — official Yamaha Vietnam product pages (retrieved 2026-09-23)"
-internal_link_targets: "110cc-vs-125cc-scooters, honda-air-blade-160-review, honda-lead-125-review, scooter-fuel-economy-comparison-vietnam, cvt-belt-variator-scooter-vietnam, best-motorbike-for-two-people-hanoi"
+internal_link_targets: "110cc-vs-125cc-scooters, honda-air-blade-160-review, honda-lead-125-review, scooter-fuel-economy-comparison-vietnam, cvt-belt-variator-scooter-vietnam, best-motorbike-for-two-people-hanoi, scooter-displacement-numbers-explained"
 ---
 
 Spec sheets list kW and Nm as if everyone knows what they mean. Here is what they actually tell you about a scooter, using only manufacturer-verified figures for Vietnamese-market models (retrieved 23 September 2026).
@@ -40,7 +40,7 @@ Spec sheets list kW and Nm as if everyone knows what they mean. Here is what the
 ## Reading between the lines
 
 - **The rpm matters as much as the number:** 11.7 Nm at 5,250 rpm (Lead) feels stronger off the line than 9.29 Nm at 6,000 (Vision) - not just because it is bigger, but because it arrives earlier.
-- **CVT changes the feel:** automatics hold revs where the engine is strongest, so the peak figures shape the whole ride - our CVT explainer covers how.
+- **CVT changes the feel:** automatics hold revs where the engine is strongest, so the peak figures shape the whole ride - [our CVT explainer]({{ '/articles/cvt-belt-variator-scooter-vietnam/' | relative_url }}) covers how.
 - **Weight divides everything:** 7 kW in a 97 kg bike out-feels 8 kW in a 115 kg one with a passenger. Our two-up riding guide covers the loaded case.
 
 ## The practical test

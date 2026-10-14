@@ -1,5 +1,5 @@
 ---
-title: "Best Underbones for Beginner Riders: The Verified Data Guide"
+title: "Best Underbones for Beginner Riders: Easy, Light and Forgiving"
 slug: best-underbones-beginner-riders-verified
 description: "Which underbone should a new rider choose? Verified manufacturer data on weight, seat height, brakes and ease of use for beginners."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn and yamaha-motor.com.vn - official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: lightest-motorbikes-for-new-riders, best-underbones-hanoi-commuting-verified, honda-wave-alpha-110-review, yamaha-sirius-rc-110-review, slow-speed-control-motorbike-vietnam, a1-licence-vietnam-what-you-can-ride
+internal_link_targets: "lightest-motorbikes-for-new-riders, best-underbones-hanoi-commuting-verified, honda-wave-alpha-110-review, yamaha-sirius-rc-110-review, slow-speed-control-motorbike-vietnam, a1-licence-vietnam-what-you-can-ride, best-underbones-delivery-riders-verified"
 ---
 
 A first motorbike should be light, low, cheap to drop and impossible to stall. Vietnam's underbones are the world's best beginner bikes on exactly those criteria - and the manufacturers' own pages (retrieved 23 September 2026) let us rank them objectively.

@@ -18,7 +18,7 @@ last_reviewed: 2026-09-23
 sources:
   - "yamaha-motor.com.vn — official model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: yamaha-gear-125-hybrid-review, yamaha-janus-125-review, yamaha-gear-125-vs-yamaha-freego-125, most-fuel-efficient-scooters-vietnam-verified, scooters-with-smart-keys-vietnam-verified, best-lightweight-scooters-beginners-vietnam
+internal_link_targets: "yamaha-gear-125-hybrid-review, yamaha-janus-125-review, yamaha-gear-125-vs-yamaha-freego-125, most-fuel-efficient-scooters-vietnam-verified, scooters-with-smart-keys-vietnam-verified, best-lightweight-scooters-beginners-vietnam, yamaha-latte-125-vs-yamaha-gear-125"
 ---
 
 Yamaha's two entry scooters sit within a few million dong of each other, and they answer the same question differently: the Janus is the classic light-and-cheap city scooter, the Gear 125 Hybrid is the new-tech alternative with electric launch assist. Both reviews use only official Yamaha Vietnam figures (retrieved 23 September 2026).

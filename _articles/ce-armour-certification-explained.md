@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "body-armour-motorbike-riders, riding-jacket-vietnam-climate, riding-gear-budget-priority-vietnam, genuine-vs-fake-parts-motorbike-vietnam"
+internal_link_targets: "body-armour-motorbike-riders, riding-jacket-vietnam-climate, riding-gear-budget-priority-vietnam, genuine-vs-fake-parts-motorbike-vietnam, earplugs-motorbike-wind-noise"
 ---
 
 The little tags on back protectors and knee armour carry codes like "CE" and level markings. They are the only objective signal you get about what the foam will do in a crash — so it pays to read them the way you read a helmet standard.

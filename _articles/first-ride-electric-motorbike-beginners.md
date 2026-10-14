@@ -29,7 +29,7 @@ Twist the throttle and the machine moves — immediately, smoothly, and in silen
 
 ## 2. The silence: you are invisible twice over
 
-Day one on an electric is the day to build the compensation habits: assume pedestrians have not heard you (they have not), assume the car merging has not heard you (it has not), and position yourself where eyes will find you — the visibility guide covers light, position and gear. The silent-riding safety article is the single most important read for a new electric rider.
+Day one on an electric is the day to build the compensation habits: assume pedestrians have not heard you (they have not), assume the car merging has not heard you (it has not), and position yourself where eyes will find you — the visibility guide covers light, position and gear. [The silent-riding safety article]({{ '/articles/electric-motorbike-silent-riding-safety/' | relative_url }}) is the single most important read for a new electric rider.
 
 ## 3. The brakes: two systems, one stop
 

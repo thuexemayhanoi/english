@@ -1,5 +1,5 @@
 ---
-title: "Hanoi Train Street by Motorbike: Getting There, Access Rules and Parking"
+title: "Hanoi Train Street by Motorbike: Access Rules and Parking"
 slug: hanoi-train-street-motorbike-guide
 description: "Visiting Hanoi's famous Train Street by motorbike in 2026: access rules and cafe-only entry, where to park, ride routes and what the restrictions mean for riders."
 category: hanoi

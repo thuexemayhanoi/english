@@ -28,7 +28,7 @@ Vision: 109.5 cc air-cooled eSP, 6.59 kW at 7,500 rpm, 9.29 Nm at 6,000 rpm. Gea
 
 ## Fuel economy
 
-Gear: 1.7 L/100 km published - the best figure in our verified table. Vision: 1.82 L/100 km - second-best. Both from 5-ish litre tanks (5.1 vs 4.8). These two are the cheapest scooters to run in the country, and the ranking article shows the full field.
+Gear: 1.7 L/100 km published - the best figure in our verified table. Vision: 1.82 L/100 km - second-best. Both from 5-ish litre tanks (5.1 vs 4.8). These two are the cheapest scooters to run in the country, and [the ranking article]({{ '/articles/most-fuel-efficient-scooters-vietnam-verified/' | relative_url }}) shows the full field.
 
 ## Wheels - the Vision's trump card
 

@@ -19,7 +19,7 @@ sources:
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — 200 km per charge, 1 h charge for 100 km"
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — battery-swap network figures"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: electric-motorbike-range-real-world-vietnam, charging-electric-motorbike-at-home-vietnam, best-motorbike-for-hanoi-traffic, e-bike-monthly-rental-hanoi
+internal_link_targets: "electric-motorbike-range-real-world-vietnam, charging-electric-motorbike-at-home-vietnam, best-motorbike-for-hanoi-traffic, e-bike-monthly-rental-hanoi, electric-motorbike-night-riding-hanoi"
 ---
 
 The daily commute is where electric two-wheelers make the most sense in Hanoi: fixed distances, predictable hours, and a place to park at both ends. Here is how to make the routine work.

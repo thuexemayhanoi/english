@@ -28,7 +28,7 @@ Touring in Vietnam means stretches without dependable fuel stops, especially in 
 
 ## Comfort for hours in the saddle
 
-Bigger wheels smooth broken provincial roads - the SH160i's 16-inch wheels and the Lexi 155's 14s are genuine touring assets, explained in our wheel and wheelbase guides. A broad seat and roomy ergonomics matter more than peak power; fatigue ends more tours than breakdowns do (our riding fatigue guide covers pacing).
+Bigger wheels smooth broken provincial roads - the SH160i's 16-inch wheels and the Lexi 155's 14s are genuine touring assets, explained in our wheel and wheelbase guides. A broad seat and roomy ergonomics matter more than peak power; fatigue ends more tours than breakdowns do ([our riding fatigue guide]({{ '/articles/riding-fatigue-motorbike-vietnam/' | relative_url }}) covers pacing).
 
 ## Safety hardware
 
@@ -36,4 +36,4 @@ Dual ABS plus traction control (NMAX 155, SH160i with HSTC) is worth having on m
 
 ## Practical notes
 
-Service before you go - our pre-trip service guide covers it - and carry luggage within payload limits. And be honest about scope: for full Ho Chi Minh-route touring, many riders still choose a manual motorcycle; our long-distance bike guide compares classes. For regional touring from Hanoi, a well-specified scooter is genuinely viable. Nguyen Tu rentals are supported mainly for Hanoi/local use - contact us to confirm current availability and any trip terms.
+Service before you go - our pre-trip service guide covers it - and carry luggage within payload limits. And be honest about scope: for full Ho Chi Minh-route touring, many riders still choose a manual motorcycle; [our long-distance bike guide]({{ '/articles/best-motorbike-for-long-distance-vietnam/' | relative_url }}) compares classes. For regional touring from Hanoi, a well-specified scooter is genuinely viable. Nguyen Tu rentals are supported mainly for Hanoi/local use - contact us to confirm current availability and any trip terms.

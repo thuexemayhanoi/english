@@ -42,4 +42,4 @@ The Sirius is lighter, cheaper to buy and cheaper to run in the city; the PG-1 c
 
 ## Which one
 
-For pure Hanoi commuting, the Sirius RC remains the rational choice — lighter, proven, inexpensive, and the class our commuting underbones guide recommends. The PG-1 is for riders whose week includes unpaved lanes, dyke roads, or wet-season streets that become shallow rivers. Within the Sirius family itself there is also the FI-versus-RC decision — our Sirius comparison covers it. For rental availability of any model: contact us to confirm current availability.
+For pure Hanoi commuting, the Sirius RC remains the rational choice — lighter, proven, inexpensive, and the class [our commuting underbones guide]({{ '/articles/best-underbones-hanoi-commuting-verified/' | relative_url }}) recommends. The PG-1 is for riders whose week includes unpaved lanes, dyke roads, or wet-season streets that become shallow rivers. Within the Sirius family itself there is also the FI-versus-RC decision — our Sirius comparison covers it. For rental availability of any model: contact us to confirm current availability.

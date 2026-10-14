@@ -1,7 +1,7 @@
 ---
 title: "Common 50cc Problems in the First Year of Ownership"
 slug: 50cc-common-problems-first-year
-description: "The faults that show up in a first year of 50cc ownership: hard cold starts, weak electrics, fuel system clogging, brake and tyre wear, and how each one sounds, feels and gets fixed."
+description: "The faults that show up in a first year of 50cc ownership: hard cold starts, weak electrics, fuel clogging, brake and tyre wear, and how each one gets fixed."
 category: 50cc
 tags:
   - "50cc"
@@ -17,14 +17,14 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: diagnosing-motorbike-noises-vietnam, dead-battery-motorbike-vietnam, flat-tyre-repair-motorbike-vietnam, 50cc-weekly-maintenance-checks, used-50cc-inspection-checklist
+internal_link_targets: "diagnosing-motorbike-noises-vietnam, dead-battery-motorbike-vietnam, flat-tyre-repair-motorbike-vietnam, 50cc-weekly-maintenance-checks, used-50cc-inspection-checklist, what-a-50cc-service-includes-vietnam"
 ---
 
 First-year 50cc ownership has a predictable fault list. Learn what each one sounds and feels like before it happens, and none of them need to strand you.
 
 ## The hard cold start
 
-The classic Monday-morning fault on ageing small engines. Usual causes, in order: a battery that no longer holds charge (our dead-battery article covers the diagnosis), stale fuel in a bike that sits, a fouled plug, or a carburettor dried and varnished from sitting. The pattern that separates them: cranks-strong-but-won't-fire points at fuel or spark; cranks-weakly points at battery or connections. A bike that must be kick-started every cold morning is telling you something — listen before it becomes a walk.
+The classic Monday-morning fault on ageing small engines. Usual causes, in order: a battery that no longer holds charge ([our dead-battery article]({{ '/articles/dead-battery-motorbike-vietnam/' | relative_url }}) covers the diagnosis), stale fuel in a bike that sits, a fouled plug, or a carburettor dried and varnished from sitting. The pattern that separates them: cranks-strong-but-won't-fire points at fuel or spark; cranks-weakly points at battery or connections. A bike that must be kick-started every cold morning is telling you something — listen before it becomes a walk.
 
 ## Fuel system clogging
 
@@ -36,15 +36,15 @@ Intermittent lights, a horn that works only on Wednesdays, a brake light that di
 
 ## Brakes that drift
 
-Drum brakes on small wheels wear gradually — so gradually that a rider adapts to a worsening stop. The weekly habit from our maintenance checklist is the counter-measure: at walking pace, roll and brake hard with each lever in turn; a lever that pulls to the bar needs adjusting or shoes. The brake shoe article covers replacement signs.
+Drum brakes on small wheels wear gradually — so gradually that a rider adapts to a worsening stop. The weekly habit from [our maintenance checklist]({{ '/articles/50cc-weekly-maintenance-checks/' | relative_url }}) is the counter-measure: at walking pace, roll and brake hard with each lever in turn; a lever that pulls to the bar needs adjusting or shoes. The brake shoe article covers replacement signs.
 
 ## Tyres and punctures
 
-Frequent punctures are not bad luck — they are a tyre at end-of-life, a tube patch on a patch, or wrong pressures run for months. The tyre article covers the checks; the flat-tyre article covers the roadside reality. Small wheels pick up more sharp debris than big ones; that is physics, not fate.
+Frequent punctures are not bad luck — they are a tyre at end-of-life, a tube patch on a patch, or wrong pressures run for months. [The tyre article]({{ '/articles/flat-tyre-repair-motorbike-vietnam/' | relative_url }}) covers the checks; [the flat-tyre article]({{ '/articles/flat-tyre-repair-motorbike-vietnam/' | relative_url }}) covers the roadside reality. Small wheels pick up more sharp debris than big ones; that is physics, not fate.
 
 ## Noises
 
-Rattles that appear with revs, knocks that deepen with speed: the noises article maps which sounds are cables and plastics (fine for now) and which are bottom-end complaints (not fine at all).
+Rattles that appear with revs, knocks that deepen with speed: [the noises article]({{ '/articles/diagnosing-motorbike-noises-vietnam/' | relative_url }}) maps which sounds are cables and plastics (fine for now) and which are bottom-end complaints (not fine at all).
 
 ## The meta-lesson
 

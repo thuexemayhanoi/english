@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-wave-alpha-110-review, honda-super-cub-c125-review, honda-wave-alpha-vs-honda-wave-rsx, honda-wave-rsx-vs-honda-super-cub, honda-super-cub-c125-vs-honda-future-125, best-110cc-underbones-vietnam-verified
+internal_link_targets: "honda-wave-alpha-110-review, honda-super-cub-c125-review, honda-wave-alpha-vs-honda-wave-rsx, honda-wave-rsx-vs-honda-super-cub, honda-super-cub-c125-vs-honda-future-125, best-110cc-underbones-vietnam-verified, honda-blade-vs-honda-super-cub-c125, honda-super-cub-vs-yamaha-sirius"
 ---
 
 Vietnam's cheapest new Honda and its most expensive 125-class underbone share a gearbox layout and not much else. Honda VN publishes both specification sets (retrieved 23 September 2026); here is the honest comparison.

@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "visor-care-anti-fog-motorbike, sun-glare-riding-motorbike-vietnam, night-riding-motorbike-safety-vietnam, helmet-care-replacing-guide-vietnam"
+internal_link_targets: "visor-care-anti-fog-motorbike, sun-glare-riding-motorbike-vietnam, night-riding-motorbike-safety-vietnam, helmet-care-replacing-guide-vietnam, prescription-glasses-under-helmet"
 ---
 
 The visor decides whether you see the road or squint at it. In Vietnam you ride through glare, dusk, sudden rain and unlit streets, sometimes all in one commute, so the visor you choose — and how many you keep — is a real safety decision.

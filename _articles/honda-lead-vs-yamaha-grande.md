@@ -17,7 +17,7 @@ sources:
   - "honda.com.vn — official Honda Vietnam model pages (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — official Yamaha Vietnam product pages (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved)"
-internal_link_targets: "honda-lead-125-review, yamaha-grande-review, scooter-underseat-storage-comparison, smart-key-scooters-vietnam, honda-vs-yamaha-scooters-vietnam, which-scooters-have-abs-vietnam"
+internal_link_targets: "honda-lead-125-review, yamaha-grande-review, scooter-underseat-storage-comparison, smart-key-scooters-vietnam, honda-vs-yamaha-scooters-vietnam, which-scooters-have-abs-vietnam, yamaha-grande-vs-honda-vision"
 ---
 
 Both scooters sell on practicality rather than pace, and both put storage first - but with different characters. The Lead is Honda's cargo tool; the Grande is Yamaha's style-first take on the same brief. Verified figures from Honda Vietnam and Yamaha Vietnam (retrieved 23 September 2026). Note: Yamaha does not publish engine output figures for the current Grande, so engine rows show only what each manufacturer states.

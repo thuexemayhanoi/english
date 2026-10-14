@@ -30,7 +30,7 @@ The 149.2 cc single-cylinder four-stroke is liquid-cooled with DOHC valve gear, 
 
 ## Touring credentials
 
-The headline number is the tank: 12 litres, more than double any underbone in this guide, giving genuinely long range for the sort of multi-day rides our long-distance riding guide covers. The seat is 788 mm high, kerb weight is 139 kg, and the 1,983 x 700 x 1,090 mm body sits on a long 1,312 mm wheelbase with a Pro-Link single rear shock. Wheels are 17-inch: 100/80-17 front, 130/70-17 rear - the widest tyres of any bike reviewed in this cluster.
+The headline number is the tank: 12 litres, more than double any underbone in this guide, giving genuinely long range for the sort of multi-day rides [our long-distance riding guide]({{ '/articles/best-motorbike-for-long-distance-vietnam/' | relative_url }}) covers. The seat is 788 mm high, kerb weight is 139 kg, and the 1,983 x 700 x 1,090 mm body sits on a long 1,312 mm wheelbase with a Pro-Link single rear shock. Wheels are 17-inch: 100/80-17 front, 130/70-17 rear - the widest tyres of any bike reviewed in this cluster.
 
 ## Riding position and reality check
 

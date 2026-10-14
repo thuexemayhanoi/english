@@ -1,7 +1,7 @@
 ---
-title: "Monthly Motorbike Rental for English Teachers Across a School Year"
+title: "Monthly Motorbike Rental for English Teachers: The School Year"
 slug: english-teachers-monthly-motorbike-hanoi
-description: "Monthly motorbike rental for English teachers in Hanoi: travelling between campuses, monthly budgeting across a school year and the practicalities of a teaching commute."
+description: "Monthly motorbike rental for English teachers in Hanoi: travelling between campuses, budgeting across a school year and the practicalities of a teaching commute."
 category: monthly-rental
 tags:
   - "english"
@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "commuting-by-motorbike-monthly-hanoi, monthly-vs-daily-motorbike-rental-hanoi, extending-motorbike-rental-hanoi, motorbike-rental-budget-monthly-hanoi"
+internal_link_targets: "commuting-by-motorbike-monthly-hanoi, monthly-vs-daily-motorbike-rental-hanoi, extending-motorbike-rental-hanoi, motorbike-rental-budget-monthly-hanoi, families-monthly-motorbike-hanoi"
 ---
 
 English teachers in Hanoi often have the perfect use case for a monthly rental: classes scattered across two or three centres, a schedule that changes each term, and a stay measured in seasons rather than weeks.

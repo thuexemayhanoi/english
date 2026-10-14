@@ -1,7 +1,7 @@
 ---
 title: "Best Scooters for Storage in Vietnam: Verified Capacities Ranked"
 slug: best-scooters-cargo-storage-vietnam
-description: "Every manufacturer-published underseat storage capacity in Vietnam ranked, from 37 litres down - which scooters fit a full-face helmet, two helmets or a delivery box."
+description: "Every manufacturer-published underseat storage figure in Vietnam ranked, from 37 litres down: which scooters fit a full-face helmet, two helmets or a delivery box."
 category: scooters
 tags:
   - "scooter storage"
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: scooter-underseat-storage-comparison, scooter-under-seat-storage-guide, honda-lead-125-review, yamaha-latte-125-review, delivery-rider-accessory-setup, front-baskets-scooters-vietnam
+internal_link_targets: "scooter-underseat-storage-comparison, scooter-under-seat-storage-guide, honda-lead-125-review, yamaha-latte-125-review, delivery-rider-accessory-setup, front-baskets-scooters-vietnam, best-scooters-tall-riders-vietnam"
 ---
 
 In a country where the scooter is also the shopping trolley, the delivery van and the school run, underseat storage is a serious spec. This guide ranks every capacity figure we have verified from official Honda and Yamaha Vietnam pages (retrieved 23 September 2026). No estimates - unlisted models are absent.

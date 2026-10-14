@@ -19,7 +19,7 @@ sources:
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026"
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 product page"
   - "https://dat.bike/en/xe-may-dien-weaver-plus-plus-en/ — Dat Bike official Weaver++ product page"
-internal_link_targets: electric-motorbike-charging-time-planning-vietnam, v-green-battery-swap-network-guide, battery-swap-vs-home-charging-vietnam, electric-motorbike-spare-battery-strategy, high-usage-delivery-commuter-maintenance
+internal_link_targets: "electric-motorbike-charging-time-planning-vietnam, v-green-battery-swap-network-guide, battery-swap-vs-home-charging-vietnam, electric-motorbike-spare-battery-strategy, high-usage-delivery-commuter-maintenance, dat-bike-weaver-200-vs-vinfast-feliz-2"
 ---
 
 Delivery riding is the hardest test of an electric two-wheeler: hundreds of kilometres a week, mostly stop-start, mostly on a clock. The format can pass that test — but only with the right refuelling model, and the verified numbers make the choice unusually clear.
@@ -39,7 +39,7 @@ A delivery rider's machine covers in a week what a commuter covers in a month, s
 1. **Plan the charging clock**: for home-charge machines, the working day must fit between charges — count orders, then range, then charging hours.
 2. **Budget real range, not claimed**: stop-start delivery riding is far from the standard conditions of any claim — see the real-world range guide before trusting any figure.
 3. **Weight matters**: the Weaver 200's 165 kg max load is the verified figure for cargo-plus-rider; the licence-free class carries less muscle on hills (bridges guide).
-4. **Maintain for mileage**: brakes, tyres and bearings wear on kilometres, not years — the high-mileage maintenance guide applies to electric drivetrains too, minus oil changes and clutch work.
+4. **Maintain for mileage**: brakes, tyres and bearings wear on kilometres, not years — [the high-mileage maintenance guide]({{ '/articles/high-usage-delivery-commuter-maintenance/' | relative_url }}) applies to electric drivetrains too, minus oil changes and clutch work.
 
 ## Who should ride what
 

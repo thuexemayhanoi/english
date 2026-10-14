@@ -1,5 +1,5 @@
 ---
-title: "Honda Wave Alpha vs Honda Future 125: Small Wave or Big Underbone?"
+title: "Honda Wave Alpha vs Honda Future 125: Small or Big Underbone?"
 slug: honda-wave-alpha-vs-honda-future-125
 description: "Honda Wave Alpha 110 vs Future 125 FI compared on verified Honda Vietnam data - power, economy, tank size, seat height and list price."
 category: motorcycles

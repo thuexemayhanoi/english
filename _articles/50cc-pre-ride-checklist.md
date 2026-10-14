@@ -1,7 +1,7 @@
 ---
 title: "The Two-Minute Pre-Ride Checklist for a 50cc"
 slug: 50cc-pre-ride-checklist
-description: "A two-minute pre-ride check for any 50cc: walk-around, tyres, brakes, lights and horn, chain, oil glance, mirrors and the papers that should ride with you - before every ride, not just Mondays."
+description: "A two-minute pre-ride check for any 50cc: walk-around, tyres, brakes, lights and horn, chain, oil, mirrors and the papers that should ride with you every time."
 category: 50cc
 tags:
   - "50cc"
@@ -44,7 +44,7 @@ Sight-glass or dipstick if the model has easy access — the level check takes t
 
 ## Kit and papers (20 seconds)
 
-Helmet on and strapped — properly fastened, not ceremonially. Gloves, closed shoes. In the bike or on you: registration copy, insurance certificate, phone charged. The documents article lists what should physically ride with you. Tell someone your route if it leaves the ordinary.
+Helmet on and strapped — properly fastened, not ceremonially. Gloves, closed shoes. In the bike or on you: registration copy, insurance certificate, phone charged. [The documents article]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) lists what should physically ride with you. Tell someone your route if it leaves the ordinary.
 
 ## The habit
 

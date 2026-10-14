@@ -30,7 +30,7 @@ The transition months are the connoisseur's pick: the late-February-to-early-Mar
 
 ## Summer (roughly May–August)
 
-Hot, humid, and storm-prone. Midday riding becomes a heat-management exercise: the hot-weather and hydration guides stop being optional reading. The workable summer pattern is to ride early (before 09:00), hide from 11:00–16:00, and come out in the evening — Hanoi's summer evenings are glorious riding hours, with the food streets and lake loops in full life. Afternoon thunderstorms arrive fast and hard; the heavy-rain guide covers the stop-and-wait logic, and carrying rain gear is a summer rule, not a winter one.
+Hot, humid, and storm-prone. Midday riding becomes a heat-management exercise: the hot-weather and hydration guides stop being optional reading. The workable summer pattern is to ride early (before 09:00), hide from 11:00–16:00, and come out in the evening — Hanoi's summer evenings are glorious riding hours, with the food streets and lake loops in full life. Afternoon thunderstorms arrive fast and hard; [the heavy-rain guide]({{ '/articles/riding-motorbike-heavy-rain-vietnam/' | relative_url }}) covers the stop-and-wait logic, and carrying rain gear is a summer rule, not a winter one.
 
 ## Autumn (roughly September–November)
 
@@ -38,7 +38,7 @@ The famous season: drier air, cool mornings, and the clearest light of the year.
 
 ## Winter (roughly December–January)
 
-Hanoi's cold is a surprise to visitors: mornings can drop to around 10°C and below, damp and penetrating, with the coldest stretch in January — which is also, notably, one of the drier months. Riding in it means real gloves, layers and a closed helmet; the winter riding guide covers the technique. The compensation is the atmosphere: mist on the lakes, hot food streets, and the city at its most atmospheric. Electric riders should also note that cold shortens range — the winter-range guide covers that.
+Hanoi's cold is a surprise to visitors: mornings can drop to around 10°C and below, damp and penetrating, with the coldest stretch in January — which is also, notably, one of the drier months. Riding in it means real gloves, layers and a closed helmet; [the winter riding guide]({{ '/articles/winter-riding-motorbike-hanoi/' | relative_url }}) covers the technique. The compensation is the atmosphere: mist on the lakes, hot food streets, and the city at its most atmospheric. Electric riders should also note that cold shortens range — the winter-range guide covers that.
 
 ## The rider's short version
 

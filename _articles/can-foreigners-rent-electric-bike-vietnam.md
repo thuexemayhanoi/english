@@ -19,7 +19,7 @@ review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text — Articles 57, 59 (licence classes and age)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: electric-bike-licence-vietnam, can-tourists-ride-motorbike-vietnam, e-bike-monthly-rental-hanoi, fast-electric-motorbike-licence-vietnam
+internal_link_targets: "electric-bike-licence-vietnam, can-tourists-ride-motorbike-vietnam, e-bike-monthly-rental-hanoi, fast-electric-motorbike-licence-vietnam, do-electric-motorbikes-need-insurance-vietnam"
 ---
 
 Yes — foreigners can rent electric two-wheelers in Vietnam, and for many visitors the licence-free classes are the easiest legal way onto two wheels. The catch is the same one that applies to locals: the 4 kW power boundary.

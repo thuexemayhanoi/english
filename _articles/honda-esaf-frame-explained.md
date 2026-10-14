@@ -1,7 +1,7 @@
 ---
 title: "Honda eSAF Frames Explained: The Light Scooter Platform"
 slug: honda-esaf-frame-explained
-description: "What Honda eSAF means on Vietnamese scooters - laser-welded pressed-steel frame construction, which models use it, and why it matters for weight and handling in Hanoi."
+description: "What Honda eSAF means on Vietnamese scooters: a laser-welded pressed-steel frame, which models use it, and why it matters for weight and handling in Hanoi."
 category: scooters
 tags:
   - "honda"
@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn - Honda VN model pages (Vision, Air Blade, Lead, Sh mode 125, SH160i/125i, Vario 125, Vario 160), official specifications (retrieved 2026-09-23)"
-internal_link_targets: honda-sh-mode-125-review, honda-vario-160-review, scooter-kerb-weights-vietnam-verified, honda-scooter-lineup-vietnam-explained, scooter-wheelbase-stability-explained
+internal_link_targets: "honda-sh-mode-125-review, honda-vario-160-review, scooter-kerb-weights-vietnam-verified, honda-scooter-lineup-vietnam-explained, scooter-wheelbase-stability-explained, led-vs-halogen-scooter-headlights"
 ---
 
 eSAF appears in Honda Vietnam's technology sections for two of its newest scooters, and it explains a big part of why they feel the way they do. Here is what the manufacturer actually says about it.

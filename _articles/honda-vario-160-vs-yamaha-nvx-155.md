@@ -1,7 +1,7 @@
 ---
 title: "Honda Vario 160 vs Yamaha NVX 155: The Sporty Scooter Duel"
 slug: honda-vario-160-vs-yamaha-nvx-155
-description: "Honda Vario 160 vs Yamaha NVX 155 compared on verified manufacturer specs - power, torque, weight, ABS, features, storage and price - the two newest sporty scooters in Vietnam."
+description: "Honda Vario 160 vs Yamaha NVX 155 on verified manufacturer specs: power, torque, weight, ABS, features, storage and price. Vietnam's two newest sporty scooters."
 category: scooters
 tags:
   - "honda vario 160"
@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn - Honda VN model pages (Sh mode 125, SH160i/125i), official specifications (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn - Yamaha VN model pages (NVX 155, Latte), official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-vario-160-review, yamaha-nvx-155-review, which-scooters-have-abs-vietnam, scooter-kerb-weights-vietnam-verified, scooter-power-torque-explained
+internal_link_targets: "honda-vario-160-review, yamaha-nvx-155-review, which-scooters-have-abs-vietnam, scooter-kerb-weights-vietnam-verified, scooter-power-torque-explained, honda-vario-160-vs-honda-air-blade-160"
 ---
 
 These are the two most aggressive mainstream sporty scooters currently sold in Vietnam: Honda's new Vario 160 and Yamaha's NVX 155 VVA. Both use 155-160 cc liquid-cooled engines, both have front ABS, and both cost around 55-57 million VND. All figures below are from the official Honda Vietnam and Yamaha Vietnam product pages (retrieved 23 September 2026).

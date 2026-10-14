@@ -1,5 +1,5 @@
 ---
-title: "How Far Can You Ride in a Day From Hanoi? A Realistic Distance Guide"
+title: "How Far Can You Ride in a Day From Hanoi? Realistic Distances"
 slug: how-far-motorbike-day-trip-hanoi
 description: "Realistic motorbike day-trip distances from Hanoi: average speeds, what 50/100/150 km rides look like in practice, and how far is too far for a return trip."
 category: trips

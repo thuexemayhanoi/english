@@ -1,7 +1,7 @@
 ---
 title: "50cc Resale Value in Vietnam: What Holds and What Doesn't"
 slug: 50cc-resale-value-vietnam
-description: "What holds 50cc resale value in Vietnam's informal market: condition over age, paperwork, original parts, the enthusiast premium for grey imports, and the habits that protect value."
+description: "What holds 50cc resale value in Vietnam's informal market: condition over age, paperwork, original parts, the premium for grey imports."
 category: 50cc
 tags:
   - "50cc"
@@ -17,7 +17,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: buying-50cc-motorbike-vietnam, used-50cc-inspection-checklist, grey-import-50cc-vietnam, 50cc-running-costs-vietnam
+internal_link_targets: "buying-50cc-motorbike-vietnam, used-50cc-inspection-checklist, grey-import-50cc-vietnam, 50cc-running-costs-vietnam, 50cc-parking-hanoi"
 ---
 
 Vietnam's 50cc market is small and informal — which makes resale a different game from the mainstream scooter trade. Value is decided by a handful of factors, none of which is the age on the registration.

@@ -1,7 +1,7 @@
 ---
 title: "What Happens When You Lose All Licence Points in Vietnam"
 slug: lose-all-licence-points-vietnam
-description: "Losing all 12 licence points in Vietnam means the licence stops being usable — at least 6 months off the road, then a road-law knowledge test under Decree 168/2024 and Circular 65/2024 to restore the full 12 points."
+description: "Losing all 12 licence points in Vietnam means at least 6 months off the road, then a road-law test under Decree 168/2024 and Circular 65/2024 to restore them."
 category: law-licences
 tags:
   - "zero points"

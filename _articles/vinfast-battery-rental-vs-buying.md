@@ -17,7 +17,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — battery rental 175,000/300,000 VND per month, 9,000 VND per swap, 1.5 kWh LFP batteries"
-internal_link_targets: battery-swap-vs-home-charging-vietnam, vinfast-evo-review, electric-motorbike-cost-ownership-vietnam, buying-first-electric-motorbike-vietnam
+internal_link_targets: "battery-swap-vs-home-charging-vietnam, vinfast-evo-review, electric-motorbike-cost-ownership-vietnam, buying-first-electric-motorbike-vietnam, electric-motorbike-parts-availability-vietnam"
 ---
 
 VinFast's swap-ready scooters can be bought with or without their batteries, and that single choice changes both your budget and your responsibilities.

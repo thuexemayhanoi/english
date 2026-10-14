@@ -1,7 +1,7 @@
 ---
 title: "Motorbike Lane Rules in Vietnam"
 slug: motorbike-lane-rules-vietnam
-description: "Which lanes motorbikes may use in Vietnam under Article 13 of Law 36/2024/QH15: stay in the correct lane, never cross the median, and expect a 600,000-800,000 VND fine for wrong-lane riding."
+description: "Which lanes motorbikes may use in Vietnam under Article 13 of Law 36/2024/QH15: keep to the correct lane, never cross the median, or face a 600,000-800,000 VND fine."
 category: law-licences
 tags:
   - "lanes"

@@ -1,7 +1,7 @@
 ---
 title: "Riding a 50cc Bike in Hanoi Traffic: A Practical Guide"
 slug: riding-50cc-hanoi-traffic
-description: "Practical techniques for riding a slow bike fast-moving traffic: lane position when you are overtaken constantly, timing gaps, bridge ramps, bus corridors and defensive habits that make a 50cc workable in Hanoi."
+description: "Riding a slow bike in fast traffic: lane position when overtaken, timing gaps, bridge ramps, bus corridors and the habits that make a 50cc workable in Hanoi."
 category: 50cc
 tags:
   - "50cc"
@@ -32,11 +32,11 @@ Since vehicles will pass you constantly, make each overtake boring:
 
 - Hold a steady line; do not drift right to let cars through and then squeeze back.
 - Stay far enough from the kerb that you have an escape strip, but not so far out that you invite squeezing passes.
-- Check mirrors often — being rear-ended is a slow-bike risk. Our defensive riding article covers the full habit set.
+- Check mirrors often — being rear-ended is a slow-bike risk. [Our defensive riding article]({{ '/articles/defensive-riding-motorbike-vietnam/' | relative_url }}) covers the full habit set.
 
 ## Timing gaps like a chess player
 
-A 50cc cannot exploit a gap the way a 110 can — acceleration is a budget you spend slowly. So read two lights ahead: start moving the instant the light turns, begin rolling before the mass does, and let the gap come to you rather than chasing it. Filtering past stopped queues at walking pace, as our filtering guide describes, is where small bikes gain all their time back.
+A 50cc cannot exploit a gap the way a 110 can — acceleration is a budget you spend slowly. So read two lights ahead: start moving the instant the light turns, begin rolling before the mass does, and let the gap come to you rather than chasing it. Filtering past stopped queues at walking pace, as [our filtering guide]({{ '/articles/filtering-through-traffic-motorbike-vietnam/' | relative_url }}) describes, is where small bikes gain all their time back.
 
 ## Bridge ramps and rises
 
@@ -48,7 +48,7 @@ Never share a lane with a bus for longer than it takes to pass it. Blind spots o
 
 ## Braking beats swerving at these speeds
 
-Small wheels and light weight make a 50cc quick to steer, but the safe instinct in traffic is still front-brake-first progressive braking — practised before you need it. Our emergency braking article has the drill.
+Small wheels and light weight make a 50cc quick to steer, but the safe instinct in traffic is still front-brake-first progressive braking — practised before you need it. [Our emergency braking article]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}) has the drill.
 
 ## The mindset
 

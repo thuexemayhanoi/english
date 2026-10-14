@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn and yamaha-motor.com.vn - official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: best-110cc-underbones-vietnam-verified, best-125cc-underbones-vietnam-verified, honda-wave-alpha-110-review, honda-future-125-review, honda-super-cub-c125-review, cheapest-new-underbones-vietnam-verified
+internal_link_targets: "best-110cc-underbones-vietnam-verified, best-125cc-underbones-vietnam-verified, honda-wave-alpha-110-review, honda-future-125-review, honda-super-cub-c125-review, cheapest-new-underbones-vietnam-verified, best-underbones-delivery-riders-verified"
 ---
 
 Honda Vietnam sells more underbones than anyone, and every model's key numbers are published on the official pages (retrieved 23 September 2026). This guide ranks all eight current Honda underbones and semi-automatics by job, using only verified data.

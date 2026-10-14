@@ -1,5 +1,5 @@
 ---
-title: "Riding the Mekong Delta by Motorbike: Flat, Green and Full of Ferries"
+title: "Riding the Mekong Delta by Motorbike: Flat Roads and Ferries"
 slug: mekong-delta-motorbike-guide
 description: "Motorbike travel in the Mekong Delta: routes from Ho Chi Minh City, ferry crossings, flat delta roads, floating markets and trip planning for the far south."
 category: vietnam-travel

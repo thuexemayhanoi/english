@@ -1,7 +1,7 @@
 ---
 title: "Do Electric Motorbikes Need Insurance in Vietnam?"
 slug: do-electric-motorbikes-need-insurance-vietnam
-description: "Compulsory third-party insurance applies to electric motor vehicles under Article 56 of Law 36/2024: what that means for e-mopeds, A1-class electrics and pedal e-bikes."
+description: "Compulsory third-party insurance covers electric motor vehicles under Article 56 of Law 36/2024: what that means for e-mopeds, A1-class electrics and pedal e-bikes."
 category: electric
 tags:
   - "electric motorbike"
@@ -20,7 +20,7 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 56 (compulsory civil-liability insurance of vehicle owners)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 18(2) (fine for no valid compulsory insurance)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental insurance and deposit facts"
-internal_link_targets: compulsory-motorbike-insurance-vietnam, electric-bike-licence-vietnam, do-you-need-insurance-to-ride-vietnam, do-you-need-insurance-for-50cc-vietnam, documents-to-carry-motorbike-vietnam
+internal_link_targets: "compulsory-motorbike-insurance-vietnam, electric-bike-licence-vietnam, do-you-need-insurance-to-ride-vietnam, do-you-need-insurance-for-50cc-vietnam, documents-to-carry-motorbike-vietnam, registering-electric-motorbike-vietnam"
 ---
 
 The licence exemption that covers many electric two-wheelers does not extend to insurance. Compulsory cover attaches to the vehicle, and the vehicle's class decides whether it applies.

@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — specifications"
   - "https://dat.bike/en/xe-may-dien-weaver-plus-plus-en/ — Dat Bike official Weaver++ page — specifications"
-internal_link_targets: dat-bike-weaver-200-review, dat-bike-weaver-plus-plus-review, electric-motorbike-range-real-world-vietnam, fast-electric-motorbike-licence-vietnam
+internal_link_targets: "dat-bike-weaver-200-review, dat-bike-weaver-plus-plus-review, electric-motorbike-range-real-world-vietnam, fast-electric-motorbike-licence-vietnam, vinfast-evo-vs-feliz-2"
 ---
 
 Both Weavers are A1-class electric motorcycles with 90 km/h ceilings and 200 km-per-charge claims — the choice is about motor layout, water rating and charging speed. All figures are Dat Bike's official data.

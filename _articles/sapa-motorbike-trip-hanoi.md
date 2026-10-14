@@ -31,7 +31,7 @@ Sapa is the famous hill station of the far northwest: a former colonial town abo
 
 **The direct route** runs Hanoi to Lao Cai province on the upgraded QL corridor and then climbs the final 35 km to Sapa on the QL4D, a very winding mountain descent-in-reverse into the town. Published rider guidance puts the direct ride at 7-10 hours depending on pace and stops — a dawn start makes it a one-day ride for experienced riders, but two shorter days via an overnight stop (Yen Bai or Lao Cai city) is the wiser plan for most.
 
-**The scenic route** is really a northwest loop miniature: out through the QL6 country and up the Lai Chau side, crossing the Khau Pha Pass above Mu Cang Chai — the terrace heartland — and arriving in Sapa from the northwest. Published estimates put it around 420 km and 12-14 hours of riding, so it demands an overnight in Nghia Lo or Than Uyen. If you have the days, this is the ride; our northwest loop guide covers the full circuit version.
+**The scenic route** is really a northwest loop miniature: out through the QL6 country and up the Lai Chau side, crossing the Khau Pha Pass above Mu Cang Chai — the terrace heartland — and arriving in Sapa from the northwest. Published estimates put it around 420 km and 12-14 hours of riding, so it demands an overnight in Nghia Lo or Than Uyen. If you have the days, this is the ride; [our northwest loop guide]({{ '/articles/northwest-vietnam-motorbike-loop/' | relative_url }}) covers the full circuit version.
 
 One legal note: the Noi Bai-Lao Cai expressway is closed to motorbikes, and a recognised driving permit matters on these roads — see our expressway [rules and tourist licence guide]({{ '/articles/motorbikes-on-expressway-vietnam/' | relative_url }})s.
 
@@ -50,7 +50,7 @@ Many riders instead take the overnight train to Lao Cai and rent in Sapa for the
 
 ## Practical notes
 
-- Book Sapa accommodation ahead in all seasons; apply our overnight-stays checklist (covered bike parking, given the mist).
+- Book Sapa accommodation ahead in all seasons; apply [our overnight-stays checklist]({{ '/articles/overnight-stays-motorbike-trips-vietnam/' | relative_url }}) (covered bike parking, given the mist).
 - Run the prep checklist on the bike: the QL4D punishes weak brakes and tired tyres.
 - Carry cash for homestay valleys; ATMs are in town only.
 

@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general care guidance, no invented service intervals"
-internal_link_targets: "helmet-fit-guide-vietnam, full-face-vs-open-face-helmet-vietnam, helmet-law-vietnam, cleaning-motorbike-properly-vietnam"
+internal_link_targets: "helmet-fit-guide-vietnam, full-face-vs-open-face-helmet-vietnam, helmet-law-vietnam, cleaning-motorbike-properly-vietnam, helmet-fasteners-retention-systems"
 ---
 
 A helmet is a consumable that most people treat like a possession. In Vietnam's humidity, an uncared-for helmet degrades faster than riders expect — and a helmet that has done its job once must be retired, no matter how new it looks.

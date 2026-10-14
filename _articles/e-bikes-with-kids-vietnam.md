@@ -19,7 +19,7 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text — Article 33(2) (helmets for riders and passengers)"
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — licence-free class models"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: e-bike-helmet-rules-vietnam, riding-electric-motorbike-with-passenger, electric-motorbike-silent-riding-safety, helmet-law-vietnam
+internal_link_targets: "e-bike-helmet-rules-vietnam, riding-electric-motorbike-with-passenger, electric-motorbike-silent-riding-safety, helmet-law-vietnam, electric-motorbike-breakdown-what-to-do"
 ---
 
 The school run on an e-bike is a Vietnamese daily ritual — and the smallest passengers need the biggest margins. Here is what the law requires and what practice suggests.

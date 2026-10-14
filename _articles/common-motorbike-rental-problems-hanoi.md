@@ -1,7 +1,7 @@
 ---
 title: "Common Motorbike Rental Problems in Hanoi and How to Avoid Them"
 slug: common-motorbike-rental-problems-hanoi
-description: "The five problems that actually hit Hanoi renters: deposit disputes, dead batteries, flat tyres, stolen bikes and paperwork gaps - and the cheap habits that prevent each one."
+description: "The five problems that actually hit Hanoi renters: deposit disputes, dead batteries, flat tyres, stolen bikes and paperwork gaps, and the habits that prevent each."
 category: rental
 tags:
   - "rental problems"
@@ -36,7 +36,7 @@ Hanoi streets drop nails and glass, and tube-type tyres go down fast. Prevention
 
 ## Problem 4: the stolen bike
 
-Bikes are stolen from sidewalks, not from guarded parking. Prevention is the lock and the parking convention: use the steering lock and a disc lock if the bike has one, and pay the few thousand dong for attended parking lots (gửi xe) rather than saving it. A stolen rental is a deposit-level conversation at best; the theft article explains where responsibility actually sits.
+Bikes are stolen from sidewalks, not from guarded parking. Prevention is the lock and the parking convention: use the steering lock and a disc lock if the bike has one, and pay the few thousand dong for attended parking lots (gửi xe) rather than saving it. A stolen rental is a deposit-level conversation at best; [the theft article]({{ '/articles/theft-loss-responsibility-rental-motorbike-hanoi/' | relative_url }}) explains where responsibility actually sits.
 
 ## Problem 5: the paperwork gap
 

@@ -18,7 +18,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "easiest-motorbikes-for-beginners-hanoi, no-licence-fine-vietnam, renting-a-motorbike-hanoi-without-licence, automatic-or-semi-automatic-monthly-hanoi"
+internal_link_targets: "easiest-motorbikes-for-beginners-hanoi, no-licence-fine-vietnam, renting-a-motorbike-hanoi-without-licence, automatic-or-semi-automatic-monthly-hanoi, students-semester-motorbike-rental-hanoi"
 ---
 
 A monthly rental can be a sensible way to build riding skill across weeks instead of cramming it into a holiday. But learning to ride on Hanoi streets carries conditions that matter before you start.

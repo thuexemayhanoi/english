@@ -25,7 +25,7 @@ Electric motorbikes carry their energy as weight — batteries are heavy — and
 
 ## How regen changes the job
 
-On machines with throttle-controlled regenerative braking (verified on the Dat Bike Weaver 200), easing off the throttle slows the machine through the motor before the friction brakes ever engage. In stop-and-go city riding, regen does a share of the work pads used to do, so pads run cooler and last longer. The discipline is to ride so regen comes first: look ahead, ease early, and save the levers for the final stop and emergencies. The regen guide covers the technique.
+On machines with throttle-controlled regenerative braking (verified on the Dat Bike Weaver 200), easing off the throttle slows the machine through the motor before the friction brakes ever engage. In stop-and-go city riding, regen does a share of the work pads used to do, so pads run cooler and last longer. The discipline is to ride so regen comes first: look ahead, ease early, and save the levers for the final stop and emergencies. [The regen guide]({{ '/articles/regen-braking-explained-electric/' | relative_url }}) covers the technique.
 
 ## The friction side still matters
 
@@ -38,7 +38,7 @@ The Weaver 200 carries hydraulic disc brakes front and rear, and battery weight 
 
 ## Weight and wet grip
 
-A heavy machine on wet Hanoi streets stops on its tyres as much as its brakes — the tyre-checks article covers pressures and wear for electric weights. And after riding through flooded streets, dry the brake discs with a few gentle early stops: a wet disc's first grab is unpredictable.
+A heavy machine on wet Hanoi streets stops on its tyres as much as its brakes — [the tyre-checks article]({{ '/articles/electric-motorbike-tyre-checks/' | relative_url }}) covers pressures and wear for electric weights. And after riding through flooded streets, dry the brake discs with a few gentle early stops: a wet disc's first grab is unpredictable.
 
 ## Service intervals
 

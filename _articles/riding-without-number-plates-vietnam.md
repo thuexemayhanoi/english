@@ -1,7 +1,7 @@
 ---
 title: "Riding Without Number Plates in Vietnam"
 slug: riding-without-number-plates-vietnam
-description: "Riding a motorbike without plates in Vietnam costs 4,000,000-6,000,000 VND under Article 14(3) of Decree 168/2024, with six licence points deducted and the plates confiscated where they are fake — one of the heavier ordinary rider fines."
+description: "Riding without plates in Vietnam costs 4-6 million VND under Article 14(3) of Decree 168/2024, with six licence points deducted and fake plates confiscated."
 category: law-licences
 tags:
   - "number plates"

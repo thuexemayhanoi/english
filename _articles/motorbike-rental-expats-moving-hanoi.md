@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "best-motorbike-for-expats-hanoi, daily-weekly-monthly-motorbike-rental-hanoi, expat-motorbike-licence-vietnam, renting-vs-buying-a-motorbike-hanoi, motorbike-rental-agreement-hanoi"
+internal_link_targets: "best-motorbike-for-expats-hanoi, daily-weekly-monthly-motorbike-rental-hanoi, expat-motorbike-licence-vietnam, renting-vs-buying-a-motorbike-hanoi, motorbike-rental-agreement-hanoi, motorbike-rental-digital-nomads-hanoi, renting-motorbike-hanoi-complete-beginner"
 ---
 
 Every expat arriving in Hanoi goes through the same sequence: weeks of ride-hailing apps, the realisation that a motorbike is how the city actually works, and then the decision of how to get one. Rental is the natural first step, and for many expats it stays the answer for years.

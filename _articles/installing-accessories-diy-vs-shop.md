@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "talking-to-mechanic-vietnam, learning-basic-motorbike-maintenance, repair-quotes-parts-pricing-vietnam, motorbike-rider-toolkit-essentials"
+internal_link_targets: "talking-to-mechanic-vietnam, learning-basic-motorbike-maintenance, repair-quotes-parts-pricing-vietnam, motorbike-rider-toolkit-essentials, aftermarket-horns-motorbikes, tank-pads-scooters"
 ---
 
 You have the accessory in your hands and a choice to make: spanner in the driveway, or bike to the shop. In Vietnam labour is cheap and mechanics are everywhere, which changes the calculus from Western assumptions — but so does the value of knowing your own machine.

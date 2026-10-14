@@ -20,7 +20,7 @@ sources:
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — specifications"
   - "https://yadea.com.vn/ — Yadea Vietnam official site — current model line-up and listed prices"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: what-is-electric-motorbike-vietnam, electric-moped-vs-electric-motorcycle-vietnam, electric-motorbike-cost-ownership-vietnam, can-foreigners-rent-electric-bike-vietnam
+internal_link_targets: "what-is-electric-motorbike-vietnam, electric-moped-vs-electric-motorcycle-vietnam, electric-motorbike-cost-ownership-vietnam, can-foreigners-rent-electric-bike-vietnam, cheapest-electric-motorbikes-vietnam-list-prices"
 ---
 
 Buying your first electric two-wheeler in Vietnam comes down to four questions — get them in order and the model list shrinks to a handful.

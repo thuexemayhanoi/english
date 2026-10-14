@@ -1,5 +1,5 @@
 ---
-title: "Ninh Binh by Motorbike: Can You Do Hoa Lu and Tam Coc in a Day From Hanoi?"
+title: "Ninh Binh by Motorbike: Hoa Lu and Tam Coc in a Day From Hanoi?"
 slug: ninh-binh-day-trip-motorbike-hanoi
 description: "Riding from Hanoi to Ninh Binh in a day: realistic timing, the Hoa Lu–Tam Coc–Trang An options, boat queues and which route motorbikes can use."
 category: trips

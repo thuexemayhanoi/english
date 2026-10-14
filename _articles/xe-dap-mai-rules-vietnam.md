@@ -1,7 +1,7 @@
 ---
 title: "Xe Dap May (Motorised Pedal Bike): Licence and Rules"
 slug: xe-dap-mai-rules-vietnam
-description: "Xe dap may — motorised pedal bikes in Vietnam — sit outside the motorised classification under Law 36/2024/QH15: no licence needed, power cuts at 25 km/h, but helmets, age 16 and traffic rules still apply."
+description: "Xe dap may, motorised pedal bikes, sit outside Vietnam's motor-vehicle classes under Law 36/2024/QH15: no licence, power cuts at 25 km/h."
 category: law-licences
 tags:
   - "xe dap may"

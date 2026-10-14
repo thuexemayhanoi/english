@@ -35,19 +35,19 @@ Past the pass the road gains altitude steadily through Bac Yen country until the
 
 ## Why the plateau feels different
 
-Moc Chau town sits roughly 1,050 metres above sea level and runs noticeably cooler than Hanoi — welcome in summer, genuinely cold after dark in winter. Pack a layer even when the city is warm; check our trip-seasons guide for what each month does to the northwest roads. The plateau's sights are spread out — tea hills, flower fields, dairy farms and waterfalls sit several kilometres apart across the plateau, so a motorbike is far more useful here than a bus ticket.
+Moc Chau town sits roughly 1,050 metres above sea level and runs noticeably cooler than Hanoi — welcome in summer, genuinely cold after dark in winter. Pack a layer even when the city is warm; check [our trip-seasons guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }}) for what each month does to the northwest roads. The plateau's sights are spread out — tea hills, flower fields, dairy farms and waterfalls sit several kilometres apart across the plateau, so a motorbike is far more useful here than a bus ticket.
 
 Fuel planning matters more than near Hanoi: rider guides note there is very little fuel on the plateau itself, with a single station near the countryside market area commonly cited. Fill up in the last bigger town before the climb and again whenever you see a working pump.
 
 ## Planning the two days
 
-A proven shape for the weekend: day one, leave by 8 a.m., break the ride at Hoa Binh or the lake, cross the pass before the afternoon cloud builds, and reach the plateau with daylight to spare for a tea-hill loop around town. Day two, ride a morning circuit of the plateau sights, then descend QL6 and be back in Hanoi before dark — our how-far-per-day guide explains why the return leg always feels longer. Riders with a third day often continue toward Ta Xua cloud country or start a longer northwest circuit; our northwest loop guide covers that route.
+A proven shape for the weekend: day one, leave by 8 a.m., break the ride at Hoa Binh or the lake, cross the pass before the afternoon cloud builds, and reach the plateau with daylight to spare for a tea-hill loop around town. Day two, ride a morning circuit of the plateau sights, then descend QL6 and be back in Hanoi before dark — [our how-far-per-day guide]({{ '/articles/how-far-motorbike-day-trip-hanoi/' | relative_url }}) explains why the return leg always feels longer. Riders with a third day often continue toward Ta Xua cloud country or start a longer northwest circuit; our northwest loop guide covers that route.
 
 ## Practical notes
 
 - Run the trip-prep checklist before departure; a 125cc+ underbone is comfortable, a small scooter works solo but will feel underpowered on the long climb.
 - Night temperatures drop hard on the plateau — gloves and a warm layer are not optional from November to February.
-- Homestays and small hotels cluster around the town and the tea area; weekend and blossom-season availability tightens, so book ahead using our overnight-stays checklist, including parking for the bike.
+- Homestays and small hotels cluster around the town and the tea area; weekend and blossom-season availability tightens, so book ahead using [our overnight-stays checklist]({{ '/articles/overnight-stays-motorbike-trips-vietnam/' | relative_url }}), including parking for the bike.
 
 ## Renting for the trip
 

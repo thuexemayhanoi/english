@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: which-scooters-have-abs-vietnam, honda-hstc-traction-control-scooters, yamaha-nmax-155-review, emergency-braking-motorbike-vietnam, after-rain-slippery-roads-motorbike, disc-vs-drum-brakes-motorbike
+internal_link_targets: "which-scooters-have-abs-vietnam, honda-hstc-traction-control-scooters, yamaha-nmax-155-review, emergency-braking-motorbike-vietnam, after-rain-slippery-roads-motorbike, disc-vs-drum-brakes-motorbike, scooter-cbs-ubs-combined-braking-explained"
 ---
 
 ABS and traction control both manage tyre grip, but at opposite ends of the ride: ABS works while you brake, traction control works while you accelerate. Confusing them leads to bad purchase decisions, so here is the plain-language difference plus the verified model list for Vietnam.

@@ -1,5 +1,5 @@
 ---
-title: "Staying Visible on a Silent Electric Motorbike: Lights, Gear and Habits"
+title: "Staying Visible on a Silent Electric Motorbike: Lights and Gear"
 slug: staying-visible-electric-motorbike
 description: "Being seen on a quiet electric motorbike in Hanoi — light habits, bright gear, lane positioning and the positioning rules that replace engine noise."
 category: electric
@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — LED projector headlights on the Viper"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: electric-motorbike-silent-riding-safety, e-bike-helmet-rules-vietnam, riding-electric-motorbike-hanoi-rain, best-motorbike-for-hanoi-traffic
+internal_link_targets: "electric-motorbike-silent-riding-safety, e-bike-helmet-rules-vietnam, riding-electric-motorbike-hanoi-rain, best-motorbike-for-hanoi-traffic, electric-motorbike-breakdown-what-to-do, first-ride-electric-motorbike-beginners"
 ---
 
 On a silent bike, visibility is your horn. These are the layers that keep a quiet machine seen in Hanoi traffic.
@@ -39,7 +39,7 @@ Modern electrics ship with strong lighting — VinFast's Viper uses LED projecto
 
 ## Positioning
 
-The most powerful visibility tool costs nothing: never sit in a blind spot, ride where the driver ahead can see you in their mirror, and at junctions take the position that says "I am here" before it says "I am fast". When passing anything that could move — parked cars, market stalls, bus stops — assume it will move, and set your line accordingly. Our silent-riding safety guide covers the full technique.
+The most powerful visibility tool costs nothing: never sit in a blind spot, ride where the driver ahead can see you in their mirror, and at junctions take the position that says "I am here" before it says "I am fast". When passing anything that could move — parked cars, market stalls, bus stops — assume it will move, and set your line accordingly. [Our silent-riding safety guide]({{ '/articles/electric-motorbike-silent-riding-safety/' | relative_url }}) covers the full technique.
 
 ## The honest summary
 

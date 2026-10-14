@@ -9,6 +9,7 @@ tags:
   - "adventure underbone"
   - "semi automatic"
 content_type: model-review
+manufacturer: Yamaha
 search_intent: informational
 topic_cluster: manual-clutch
 subcluster: "5.3 manual-model-guides"
@@ -17,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "yamaha-motor.com.vn — Yamaha PG-1 2026 standard-version product page, official specifications (retrieved 2026-09-24)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-ct125-review, yamaha-pg-1-vs-honda-ct125, how-to-shift-gears-semi-automatic-underbone, underbone-wheelbase-ground-clearance-explained, riding-semi-automatic-first-time, best-motorbike-for-day-trips-from-hanoi
+internal_link_targets: "honda-ct125-review, yamaha-pg-1-vs-honda-ct125, how-to-shift-gears-semi-automatic-underbone, underbone-wheelbase-ground-clearance-explained, riding-semi-automatic-first-time, best-motorbike-for-day-trips-from-hanoi, yamaha-pg-1-vs-honda-wave-rsx"
 ---
 
 The PG-1 is Yamaha Vietnam's adventure-styled underbone: semi-automatic gears, chunky 16-inch tyres, tall ground clearance, and a design that invites both city commuting and light trail exploring. All specifications below are from the official Yamaha Motor Vietnam PG-1 2026 standard-version page (retrieved 24 September 2026).

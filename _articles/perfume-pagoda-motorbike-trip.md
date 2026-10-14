@@ -21,7 +21,7 @@ sources:
   - "https://vinwonders.com/en/wonderpedia/news/perfume-pagoda-from-hanoi/ — the ride from Hanoi runs via National Highway 21B for roughly 55 km, about one hour 50 minutes, retrieved 2026-09-24"
   - "https://www.originvietnam.com/destinations/perfume-pagoda/ — about 58 km from central Hanoi; Huong Tich Pagoda inside the Huong Son complex, retrieved 2026-09-24"
   - "https://vietnamdiscovery.com/hanoi/attractions/perfume-pagoda/ — about 60 km southwest of Hanoi, a complex of shrines and pagodas built into the karst of Huong Tich Mountain, reached by boat, retrieved 2026-09-24"
-internal_link_targets: best-motorbike-for-day-trips-from-hanoi, hanoi-pagodas-temples-motorbike-guide, thay-pagoda-tay-phuong-pagoda-motorbike-route, hydration-long-motorbike-rides, how-to-rent-a-motorbike-hanoi
+internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, hanoi-pagodas-temples-motorbike-guide, thay-pagoda-tay-phuong-pagoda-motorbike-route, hydration-long-motorbike-rides, how-to-rent-a-motorbike-hanoi, quan-son-lake-motorbike-ride"
 ---
 
 The Perfume Pagoda (Chua Huong) is northern Vietnam’s most famous pilgrimage complex — a spread of temples and shrines folded into a karst river valley in My Duc, about 55–60 kilometres southwest of Hanoi. Riding there is only the first stage of a trip that continues by boat on foot: the classic Hanoi day out that combines all three.

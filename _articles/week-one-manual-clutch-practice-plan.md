@@ -31,7 +31,7 @@ Launch, ride twenty metres at walking pace, stop with both brakes, put a foot do
 
 ## Day 3: slow-speed control
 
-Long friction-zone crawls, rear brake against clutch, and the first gentle ninety-degree turns at walking pace. Work on feet-on-pegs balance and eyes up. The slow-speed clutch guide has the drill list.
+Long friction-zone crawls, rear brake against clutch, and the first gentle ninety-degree turns at walking pace. Work on feet-on-pegs balance and eyes up. [The slow-speed clutch guide]({{ '/articles/slow-speed-clutch-balance-manual-motorbike/' | relative_url }}) has the drill list.
 
 ## Day 4: gears and flow
 

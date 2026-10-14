@@ -1,7 +1,7 @@
 ---
 title: "What Is a 50cc Motorbike in Vietnam? Definition, Law and Practice"
 slug: what-is-a-50cc-motorbike-vietnam
-description: "What 50cc means in Vietnam: the xe gắn máy (moped) legal category under Law 36/2024/QH15, why these bikes need no licence, who rides them, and how they differ from 110cc bikes and e-bikes."
+description: "What 50cc means in Vietnam: the moped (xe gắn máy) class under Law 36/2024/QH15, why no licence is needed, who rides them, and how they differ from 110s and e-bikes."
 category: 50cc
 tags:
   - "50cc"

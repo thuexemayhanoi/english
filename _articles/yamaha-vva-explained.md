@@ -1,7 +1,7 @@
 ---
-title: "Yamaha VVA Explained: Variable Valve Timing on Vietnamese Scooters"
+title: "Yamaha VVA on Scooters: How Variable Valve Timing Works"
 slug: yamaha-vva-explained
-description: "What VVA (variable valve actuation) means on Yamaha scooters in Vietnam, which models have it, and what it changes in real riding - based on Yamaha Vietnam published information."
+description: "What VVA (variable valve actuation) means on Yamaha scooters in Vietnam, which models have it, and what it changes in real riding."
 category: scooters
 tags:
   - "yamaha"
@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "yamaha-motor.com.vn - Yamaha VN model pages (Janus, FreeGo, Grande, Latte, NVX 155), official specifications (retrieved 2026-09-23)"
-internal_link_targets: yamaha-nvx-155-review, esp-vs-blue-core-engines-explained, scooter-power-torque-explained, honda-vario-160-vs-yamaha-nvx-155, air-cooled-vs-liquid-cooled-motorbike
+internal_link_targets: "yamaha-nvx-155-review, esp-vs-blue-core-engines-explained, scooter-power-torque-explained, honda-vario-160-vs-yamaha-nvx-155, air-cooled-vs-liquid-cooled-motorbike, stop-and-start-scooters-explained"
 ---
 
 VVA appears on Yamaha's sportiest Vietnamese scooter as three letters on the bodywork - but the spec sheets rarely explain it. This guide covers what VVA is, based on what Yamaha Vietnam publishes, and what it changes for a rider in Hanoi.

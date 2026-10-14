@@ -1,5 +1,5 @@
 ---
-title: "Hanoi's Motorbike Tunnels and Underpasses: What They Are and How to Ride Them"
+title: "Hanoi's Motorbike Tunnels and Underpasses: How to Ride Them"
 slug: hanoi-motorbike-tunnels-underpasses
 description: "Riding Hanoi's underpasses and tunnels — Kim Lien, Trung Hoa, Thanh Xuan, Le Van Luong and the new Ring Road 2.5 tunnel — with rules, risks and practical technique."
 category: hanoi

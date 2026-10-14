@@ -1,5 +1,5 @@
 ---
-title: "Underbone Buying Checklist: How to Compare Two Bikes with Verified Numbers"
+title: "Underbone Buying Checklist: Comparing Two Bikes by the Numbers"
 slug: underbone-buying-checklist-verified-specs
 description: "A field-by-field checklist for comparing Vietnamese underbones on manufacturer data - the seven numbers that decide, and the order to weigh them."
 category: motorcycles

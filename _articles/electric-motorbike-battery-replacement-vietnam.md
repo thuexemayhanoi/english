@@ -1,5 +1,5 @@
 ---
-title: "Replacing an Electric Motorbike Battery in Vietnam: Options and Costs"
+title: "Electric Motorbike Battery Replacement in Vietnam: Options, Costs"
 slug: electric-motorbike-battery-replacement-vietnam
 description: "When an electric motorbike battery needs replacing in Vietnam — buying new packs, rented-battery escapes, warranty routes and how to avoid overpaying."
 category: electric
@@ -42,4 +42,4 @@ When a bike plus a new pack exceeds the market value of a healthy used example, 
 
 ## The prevention ledger
 
-Shaded parking, partial-charge storage, the right charger and no deep-flood charging all delay this day; our battery lifespan guide has the habits. Replacement is a planned cost, not a surprise, when the pack's health is monitored from year one.
+Shaded parking, partial-charge storage, the right charger and no deep-flood charging all delay this day; [our battery lifespan guide]({{ '/articles/electric-motorbike-battery-lifespan-vietnam/' | relative_url }}) has the habits. Replacement is a planned cost, not a surprise, when the pack's health is monitored from year one.

@@ -1,7 +1,7 @@
 ---
 title: "Drum Brakes on a 50cc: How They Work and What to Check"
 slug: 50cc-brakes-drum-checks
-description: "Most 50cc bikes stop on drum brakes. How drums work, why they fade and recover, the walking-pace brake test, adjustment limits, shoe wear signs and when to ask a mechanic."
+description: "Most 50cc bikes stop on drum brakes: how drums work, why they fade, the walking-pace brake test, adjustment limits, shoe wear signs and when to see a mechanic."
 category: 50cc
 tags:
   - "50cc"
@@ -34,7 +34,7 @@ Drums are famously consistent in the wet (sealed against water and dust) and fam
 - on long descents, brake in stages, off between squeezes, never dragged continuously
 - in the dry, drums give steady, predictable, slightly wooden stops — fine at moped speeds
 
-Our disc-versus-drum article covers the engineering trade-offs in full.
+[Our disc-versus-drum article]({{ '/articles/disc-vs-drum-brakes-motorbike/' | relative_url }}) covers the engineering trade-offs in full.
 
 ## The walking-pace test (weekly)
 
@@ -47,7 +47,7 @@ The core check from our weekly routine: roll the bike at walking pace and brake 
 
 ## Adjustment and wear
 
-Cable drums self-somewhat via adjusters at the lever and hub; rods adjust at the pedal end. Adjustment has limits — when the adjuster runs out of threads, the shoes are worn, and adjustment becomes a false economy. Shoe replacement is inexpensive workshop work; the pads-replacement article covers what the job involves. If the lever feels spongy rather than long, suspect cable stretch before the drum.
+Cable drums self-somewhat via adjusters at the lever and hub; rods adjust at the pedal end. Adjustment has limits — when the adjuster runs out of threads, the shoes are worn, and adjustment becomes a false economy. Shoe replacement is inexpensive workshop work; [the pads-replacement article]({{ '/articles/brake-pads-replacement-motorbike-vietnam/' | relative_url }}) covers what the job involves. If the lever feels spongy rather than long, suspect cable stretch before the drum.
 
 ## When to hand it over
 

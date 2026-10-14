@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "dust-dry-season-riding-vietnam, sun-protection-motorbike-riders, riding-jacket-vietnam-climate, what-to-wear-riding-motorbike-vietnam"
+internal_link_targets: "dust-dry-season-riding-vietnam, sun-protection-motorbike-riders, riding-jacket-vietnam-climate, what-to-wear-riding-motorbike-vietnam, pillion-passenger-gear-checklist"
 ---
 
 The balaclava-neck tube-mask combo is one of the most Vietnamese rider accessories there is — worn by delivery riders, commuters and grandmothers alike. It solves three real problems: dust, sun and exhaust smell.

@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: rotary-gearbox-vs-manual-clutch-explained, semi-automatic-gearbox-explained, when-to-shift-gears-underbone, riding-semi-automatic-first-time, hard-shifting-gearbox-motorbike, centrifugal-clutch-care-semi-automatic
+internal_link_targets: "rotary-gearbox-vs-manual-clutch-explained, semi-automatic-gearbox-explained, when-to-shift-gears-underbone, riding-semi-automatic-first-time, hard-shifting-gearbox-motorbike, centrifugal-clutch-care-semi-automatic, push-start-motorbike-safely"
 ---
 
 Semi-automatic underbones like the Honda Wave, Blade, RSX, Future and Yamaha Sirius have no clutch lever, yet they do have a real gearbox. Learning to shift one smoothly takes about ten minutes of practice.
@@ -43,4 +43,4 @@ Click down through the gears while braking, arriving in first (or neutral) as yo
 
 ## When shifting goes wrong
 
-False neutrals between gears, a lever that will not click, or grinding noises are mechanical symptoms, not technique failures — our hard-shifting [guide]({{ '/articles/clutch-drag-hard-neutral-motorbike/' | relative_url }}) covers what a mechanic should inspect, and the centrifugal clutch care article explains the component that makes the whole system work. For a full comparison of this gearbox with a manual clutch six-speed, see the rotary versus manual guide, and use the engine-sound cues in the when-to-shift guide to pick your shift points.
+False neutrals between gears, a lever that will not click, or grinding noises are mechanical symptoms, not technique failures — our hard-shifting [guide]({{ '/articles/clutch-drag-hard-neutral-motorbike/' | relative_url }}) covers what a mechanic should inspect, and [the centrifugal clutch care article]({{ '/articles/centrifugal-clutch-care-semi-automatic/' | relative_url }}) explains the component that makes the whole system work. For a full comparison of this gearbox with a manual clutch six-speed, see the rotary versus manual guide, and use the engine-sound cues in the when-to-shift guide to pick your shift points.

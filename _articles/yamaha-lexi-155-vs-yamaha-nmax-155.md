@@ -18,7 +18,7 @@ last_reviewed: 2026-09-23
 sources:
   - "yamaha-motor.com.vn — official model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: yamaha-lexi-155-review, yamaha-nmax-155-review, yamaha-nmax-155-vs-yamaha-nvx-155, yamaha-vva-explained, which-scooters-have-abs-vietnam, best-scooters-hanoi-commuting-verified
+internal_link_targets: "yamaha-lexi-155-review, yamaha-nmax-155-review, yamaha-nmax-155-vs-yamaha-nvx-155, yamaha-vva-explained, which-scooters-have-abs-vietnam, best-scooters-hanoi-commuting-verified, yamaha-nvx-155-vs-yamaha-lexi-155"
 ---
 
 The Lexi and the NMAX share an engine and a price bracket but not a personality: the Lexi is the comfort commuter with 14-inch wheels, the NMAX is the MAX-series flagship with dual ABS. Both publish identical headline figures - 11.3 kW, 14.2 Nm from the 155.1 cc Blue Core VVA - so this comparison is about everything else. All figures from Yamaha Vietnam's official pages (retrieved 23 September 2026).

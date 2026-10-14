@@ -1,7 +1,7 @@
 ---
 title: "How Much Does an A1 Licence Cost in Vietnam"
 slug: a1-licence-cost-vietnam
-description: "A1 licence costs in Vietnam: state exam fees of 60,000 VND theory and 70,000 VND practical per attempt plus the licence issuance fee under Circular 154/2025/TT-BTC, with training-centre packages typically around 1-2 million VND all-in."
+description: "A1 licence costs in Vietnam: 60,000 VND theory and 70,000 VND practical exam fees per attempt, the issuance fee under Circular 154/2025."
 category: law-licences
 tags:
   - "cost"

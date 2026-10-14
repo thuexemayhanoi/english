@@ -1,7 +1,7 @@
 ---
 title: "Daily, Weekly or Monthly Motorbike Rental in Hanoi: How to Choose"
 slug: daily-weekly-monthly-motorbike-rental-hanoi
-description: "Daily rental wins for short visits, weekly for trips around Hanoi, monthly for stays over a month - the published rates show where the discounts sit and how to pick the right period."
+description: "Daily rental suits short visits, weekly suits trips around Hanoi, monthly suits stays over a month: the published rates show where the savings sit and how to choose."
 category: rental
 tags:
   - "rental periods"
@@ -44,4 +44,4 @@ Longer-term rental is negotiable - contact us to discuss longer-term rental dire
 
 ## The one mistake to avoid
 
-Renting daily "just in case" for three weeks. The arithmetic punishes it, and the deposit-hold repeats weekly. Decide your period from your actual dates, then book it - the booking article covers how.
+Renting daily "just in case" for three weeks. The arithmetic punishes it, and the deposit-hold repeats weekly. Decide your period from your actual dates, then book it - [the booking article]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) covers how.

@@ -37,7 +37,7 @@ Wet weather, two-up riding, hills with a pillion, night riding: the edges of the
 
 - **Previous experience.** Scooter riders learn fastest — the transition guide explains why. Semi-automatic riders are close behind.
 - **Practice concentration.** Four one-hour sessions beat one four-hour ride; fatigue teaches nothing.
-- **Bike choice.** Light, forgiving underbones shorten the curve; our beginner bikes guide covers them.
+- **Bike choice.** Light, forgiving underbones shorten the curve; [our beginner bikes guide]({{ '/articles/easiest-motorbikes-for-beginners-hanoi/' | relative_url }}) covers them.
 - **Fear management.** Riders who practise at quiet hours progress faster than those who force themselves into rush hour on day one.
 
 ## Practical advice for visitors

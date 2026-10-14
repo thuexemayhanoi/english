@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn - Honda VN model pages (Vision, Air Blade, Lead, Sh mode 125, SH160i/125i, Vario 125, Vario 160), official specifications (retrieved 2026-09-23)"
-internal_link_targets: honda-sh-160-review, which-scooters-have-abs-vietnam, emergency-braking-motorbike-vietnam, after-rain-slippery-roads-motorbike, honda-sh-mode-125-vs-honda-sh-160
+internal_link_targets: "honda-sh-160-review, which-scooters-have-abs-vietnam, emergency-braking-motorbike-vietnam, after-rain-slippery-roads-motorbike, honda-sh-mode-125-vs-honda-sh-160, scooter-ground-clearance-compared-vietnam"
 ---
 
 HSTC is Honda's traction control system, and it has reached Vietnamese scooters: the SH160i ABS versions carry it - the first mainstream application of its kind in the country's scooter market. Here is exactly what Honda Vietnam says about it.
@@ -35,7 +35,7 @@ Painted road markings, wet season streets, gravel washed onto corners and dusty 
 
 ## What Honda explicitly says it does not do
 
-Honda's own page is unusually direct: HSTC does not eliminate rear-wheel slip entirely, it only assists against slipping during acceleration, and the rider remains responsible for safe riding. It does nothing for braking (that is ABS's job, covered in our ABS guide) and nothing for front-wheel grip. It is an aid, not a licence - our emergency [braking and post-rain riding guide]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }})s cover the skills it does not replace.
+Honda's own page is unusually direct: HSTC does not eliminate rear-wheel slip entirely, it only assists against slipping during acceleration, and the rider remains responsible for safe riding. It does nothing for braking (that is ABS's job, covered in [our ABS guide]({{ '/articles/which-scooters-have-abs-vietnam/' | relative_url }})) and nothing for front-wheel grip. It is an aid, not a licence - our emergency [braking and post-rain riding guide]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }})s cover the skills it does not replace.
 
 ## Should it affect your choice?
 

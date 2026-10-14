@@ -1,7 +1,7 @@
 ---
 title: "Yamaha Janus 125 Review: The Value Challenger"
 slug: yamaha-janus-125-review
-description: "Yamaha Janus 125 review - verified Yamaha Vietnam specs for the Blue Core 124.9cc engine, 97 kg kerb weight, 1.98 L/100km economy and what it means for riders in Vietnam."
+description: "Yamaha Janus 125 review: verified Yamaha Vietnam specs for the Blue Core 124.9cc engine, 97 kg kerb weight and 1.98 L/100km economy, and what they mean on the road."
 category: scooters
 tags:
   - "yamaha janus"

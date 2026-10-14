@@ -1,7 +1,7 @@
 ---
 title: "Riding While Your Licence Is Suspended in Vietnam"
 slug: riding-while-suspended-vietnam
-description: "Vietnam does not stack a separate fine for riding during a licence suspension — the suspension makes the licence invalid, so riding on it is punished as riding with no licence at 2-4 million VND up to 125 cc and 6-8 million VND above, and new violations extend the reckoning."
+description: "Riding during a licence suspension in Vietnam counts as riding with no licence: 2-4 million VND up to 125cc, 6-8 million above."
 category: law-licences
 tags:
   - "licence suspension"

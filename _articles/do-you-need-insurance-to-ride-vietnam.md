@@ -1,7 +1,7 @@
 ---
 title: "Do You Need Your Own Insurance to Ride in Vietnam?"
 slug: do-you-need-insurance-to-ride-vietnam
-description: "The bike's compulsory third-party insurance is legally required and comes with the rental - but it does not cover you. Riders in Vietnam need their own travel or medical cover. What to check."
+description: "The bike's compulsory third-party insurance comes with the rental, but it does not cover you. Riders in Vietnam need their own travel or medical cover."
 category: rental
 tags:
   - "rider insurance"

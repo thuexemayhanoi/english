@@ -1,5 +1,5 @@
 ---
-title: "Long Bien for Motorbike Riders: The Bridge, the Markets and the River District"
+title: "Long Bien for Motorbike Riders: Bridge, Markets, River District"
 slug: long-bien-area-guide-riders
 description: "Long Bien east of the Red River for riders: the historic bridge, the night markets, riverside dyke roads, boat queues at Chuong Duong and how the area rides."
 category: hanoi
@@ -35,7 +35,7 @@ Long Bien's economy runs at hours that surprise visitors. The fruit wholesale ma
 
 ## The dyke and the river side
 
-The district's western edge is the Red River dyke, and the roads on and behind it are Long Bien's best riding. The dyke surface is rougher than city asphalt — expect patched concrete, dust in the dry season and slick clay after rain — but the traffic is thin, the river is on one side and the market gardens on the other. The ramp lanes down to the river beaches and the islands' orchards turn this into an easy half-day adventure; the general dyke-riding guide covers the technique.
+The district's western edge is the Red River dyke, and the roads on and behind it are Long Bien's best riding. The dyke surface is rougher than city asphalt — expect patched concrete, dust in the dry season and slick clay after rain — but the traffic is thin, the river is on one side and the market gardens on the other. The ramp lanes down to the river beaches and the islands' orchards turn this into an easy half-day adventure; [the general dyke-riding guide]({{ '/articles/red-river-dyke-riding-guide/' | relative_url }}) covers the technique.
 
 ## Daily riding in the district
 

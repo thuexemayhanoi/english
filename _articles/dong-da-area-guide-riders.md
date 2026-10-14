@@ -36,7 +36,7 @@ Watch for two things. First, the streets around the railway station are permanen
 
 ## Parking and stopping
 
-Parking culture here is easier than in Hoan Kiem. Around Dong Da Park, side streets and the areas near the universities have informal motorbike parking with attendants at a few thousand dong per stop. Cafes on the wider streets usually have their own curb space. As anywhere in Hanoi, never leave the bike unattended on a sidewalk without checking whether someone is watching it — the where-to-park guide covers the conventions in detail.
+Parking culture here is easier than in Hoan Kiem. Around Dong Da Park, side streets and the areas near the universities have informal motorbike parking with attendants at a few thousand dong per stop. Cafes on the wider streets usually have their own curb space. As anywhere in Hanoi, never leave the bike unattended on a sidewalk without checking whether someone is watching it — [the where-to-park guide]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}) covers the conventions in detail.
 
 ## Why riders end up here
 

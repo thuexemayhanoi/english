@@ -16,17 +16,17 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: carburettor-vs-fuel-injection-vietnam, kick-vs-electric-start-explained, battery-draining-overnight-motorbike, stalling-when-hot-motorbike
+internal_link_targets: "carburettor-vs-fuel-injection-vietnam, kick-vs-electric-start-explained, battery-draining-overnight-motorbike, stalling-when-hot-motorbike, clutch-lever-adjustment-underbones, kick-start-technique-underbone"
 ---
 
-A cold underbone needs thirty seconds of kindness. The technique differs slightly between carburettor and fuel-injected models — our carburettor versus fuel-injection guide explains the systems — but the habit is the same everywhere.
+A cold underbone needs thirty seconds of kindness. The technique differs slightly between carburettor and fuel-injected models — [our carburettor versus fuel-injection guide]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}) explains the systems — but the habit is the same everywhere.
 
 ## Carburettor models: the choke
 
 Older and cheaper underbones mix fuel mechanically, and a cold engine needs a richer mixture to fire cleanly. The choke lever (usually on the carburettor body or the handlebar) enriches that mixture for starting. The routine:
 
 1. Fuel tap on (if the model has a manual one), choke on.
-2. Start the engine — electric button or kick lever; the kick-versus-electric guide covers both.
+2. Start the engine — electric button or kick lever; [the kick-versus-electric guide]({{ '/articles/kick-vs-electric-start-explained/' | relative_url }}) covers both.
 3. Let it idle. A cold idle will be slightly fast and rough for a few moments.
 4. Push the choke off as soon as the idle settles — usually within a minute. Riding with the choke on wastes fuel and fouls plugs.
 
@@ -40,4 +40,4 @@ Thirty seconds to a couple of minutes of gentle riding warms an underbone better
 
 ## When cold starting goes wrong
 
-An engine that will not fire when cold but runs fine warm usually points to fuelling; one that stalls when hot has its own failure pattern covered in the hot-stalling guide. A bike that will not turn over at all is usually the battery — the overnight battery drain article covers the first checks. Rental riders: report starting trouble to the rental provider rather than experimenting, and confirm availability and condition when you pick up.
+An engine that will not fire when cold but runs fine warm usually points to fuelling; one that stalls when hot has its own failure pattern covered in the [hot-stalling guide]({{ '/articles/stalling-when-hot-motorbike/' | relative_url }}). A bike that will not turn over at all is usually the battery — [the overnight battery drain article]({{ '/articles/battery-draining-overnight-motorbike/' | relative_url }}) covers the first checks. Rental riders: report starting trouble to the rental provider rather than experimenting, and confirm availability and condition when you pick up.

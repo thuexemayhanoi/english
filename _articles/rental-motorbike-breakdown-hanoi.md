@@ -35,7 +35,7 @@ Mechanical failure through normal use is the owner's side of the rental: the bik
 
 ## The repair-authority rule
 
-Do not take a rental to a random workshop and start a repair on the shop's bike without asking. The outside-repair article covers when that is reasonable; the default is: call the shop first, follow its instruction. A rental under repair by a third party without agreement turns every later dispute - scope, price, causation - into a three-way argument the renter usually loses.
+Do not take a rental to a random workshop and start a repair on the shop's bike without asking. [The outside-repair article]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) covers when that is reasonable; the default is: call the shop first, follow its instruction. A rental under repair by a third party without agreement turns every later dispute - scope, price, causation - into a three-way argument the renter usually loses.
 
 ## When it becomes a replacement
 

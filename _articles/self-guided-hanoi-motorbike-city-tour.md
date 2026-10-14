@@ -1,7 +1,7 @@
 ---
 title: "A Self-Guided One-Day Hanoi Motorbike City Tour"
 slug: self-guided-hanoi-motorbike-city-tour
-description: "A complete self-guided motorbike tour of Hanoi in one day: route order, timing, parking for each stop, food stops and how to link the lake, Old Quarter, Ba Dinh, dyke and Long Bien bridge."
+description: "A self-guided one-day motorbike tour of Hanoi: route order, timing, parking at each stop, food stops, and linking the lake, Old Quarter, Ba Dinh and Long Bien."
 category: hanoi
 tags:
   - "hanoi"

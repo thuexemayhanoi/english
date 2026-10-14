@@ -1,7 +1,7 @@
 ---
-title: "Carrying a Passenger on a 50cc Bike in Vietnam: Rules and Realities"
+title: "Carrying a Passenger on a 50cc in Vietnam: Rules and Realities"
 slug: carrying-pillion-50cc-vietnam
-description: "Can a 50cc carry a pillion in Vietnam? The helmet law for passengers, what a few horsepower means two-up on hills and bridges, and the technique for safe two-up riding on a small bike."
+description: "Can a 50cc carry a pillion in Vietnam? The passenger helmet law, what a few horsepower means two-up on hills and bridges, and safe two-up technique on a small bike."
 category: 50cc
 tags:
   - "50cc"
@@ -25,7 +25,7 @@ Two people on a 50cc is legal in Vietnam — and legally simple. Physically, it 
 
 ## The legal side
 
-Passengers are permitted on a moped, subject to the ordinary rules: the passenger must wear a standard-compliant, fastened helmet (Article 33(2), Law 36/2024/QH15), and riding without one — or carrying a passenger without one — costs 400,000–600,000 VND under Decree 168/2024. Children carried as passengers have their own helmet and safety considerations, which our child-passengers article covers in detail. Always carry a second helmet for the passenger, not a spare that lives under the seat.
+Passengers are permitted on a moped, subject to the ordinary rules: the passenger must wear a standard-compliant, fastened helmet (Article 33(2), Law 36/2024/QH15), and riding without one — or carrying a passenger without one — costs 400,000–600,000 VND under Decree 168/2024. Children carried as passengers have their own helmet and safety considerations, which [our child-passengers article]({{ '/articles/child-passengers-motorbike-vietnam/' | relative_url }}) covers in detail. Always carry a second helmet for the passenger, not a spare that lives under the seat.
 
 ## The physics
 

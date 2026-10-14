@@ -1,7 +1,7 @@
 ---
 title: "Right Turn on Red in Vietnam: When It Is Allowed"
 slug: right-turn-on-red-vietnam
-description: "Can you turn right on a red light in Vietnam? Only in specific cases — a police signal, an auxiliary sign, or a dedicated right-turn lane — otherwise red means stop, with a 4,000,000–6,000,000 VND fine for disobeying the signal."
+description: "Can you turn right on red in Vietnam? Only with a police signal, an auxiliary sign or a dedicated right-turn lane; otherwise red means stop."
 category: law-licences
 tags:
   - "red light"

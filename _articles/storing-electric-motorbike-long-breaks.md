@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "General lithium-battery storage guidance; charge levels and intervals per manufacturer documentation"
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — battery specifications"
-internal_link_targets: electric-motorbike-battery-lifespan-vietnam, electric-motorbike-maintenance-basics, tyre-care-motorbike-vietnam, home-parking-overnight-security
+internal_link_targets: "electric-motorbike-battery-lifespan-vietnam, electric-motorbike-maintenance-basics, tyre-care-motorbike-vietnam, home-parking-overnight-security, electric-motorbike-charger-care-storage"
 ---
 
 Electric motorbikes tolerate storage better than petrol ones — no fuel to go stale, no oil to settle — but the battery has its own storage rules, and breaking them is the most common way riders quietly kill a pack.

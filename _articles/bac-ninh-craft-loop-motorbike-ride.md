@@ -1,5 +1,5 @@
 ---
-title: "But Thap Pagoda and Phu Lang Pottery by Motorbike: A Bac Ninh Craft Loop"
+title: "But Thap and Phu Lang by Motorbike: The Bac Ninh Craft Loop"
 slug: bac-ninh-craft-loop-motorbike-ride
 description: "A motorbike loop from Hanoi into Bac Ninh province: But Thap pagoda on the Duong River dyke, Phu Lang pottery village and how to plan the day ride."
 category: trips
@@ -21,7 +21,7 @@ sources:
   - "https://vietnamtravel.com/but-thap-pagoda/ — But Thap (Ninh Phuc Tu) in Thuan Thanh district, Bac Ninh, about 30 km from Hanoi, reachable by motorbike in around 45 minutes, retrieved 2026-09-24"
   - "https://vinpearl.com/en/but-thap-pagoda-bac-ninh-an-ancient-pagoda-with-high-cultural-values — the pagoda sits near the dyke of the Duong River, more than 30 km from central Hanoi, retrieved 2026-09-24"
   - "https://www.vietravel.com/en/vietnam-country-people/peaceful-sanctuary-of-but-thap-pagoda-v8921.aspx — Bac Ninh province holds craft-village and Buddhist-heritage clusters around Thuan Thanh, retrieved 2026-09-24"
-internal_link_targets: bat-trang-pottery-village-motorbike-ride, best-motorbike-for-day-trips-from-hanoi, co-loa-citadel-motorbike-ride, carrying-luggage-motorbike-safely-vietnam, how-to-rent-a-motorbike-hanoi
+internal_link_targets: "bat-trang-pottery-village-motorbike-ride, best-motorbike-for-day-trips-from-hanoi, co-loa-citadel-motorbike-ride, carrying-luggage-motorbike-safely-vietnam, how-to-rent-a-motorbike-hanoi, duong-lam-ancient-village-motorbike-ride"
 ---
 
 Across the Red River and into Bac Ninh province lies one of the most pleasant short loops from Hanoi: But Thap, northern Vietnam’s most completely preserved ancient pagoda complex, and Phu Lang, the less-touristy pottery village that locals rate above Bat Trang for atmosphere. Both sit in the Thuan Thanh craft-and-heritage belt roughly 30–45 kilometres from the city.
@@ -36,7 +36,7 @@ But Thap (Ninh Phuc Tu) is the high point of the trip: a 17th-century complex of
 
 ## Phu Lang pottery village
 
-From But Thap, loop south to Phu Lang on the east bank of the Cau River. Phu Lang is the ceramic village with the terracotta aesthetic — rustic, wood-fired glazes rather than Bat Trang’s celadons — and it receives a fraction of the visitors. Watch kilns and wheels in the village lanes, buy directly from family workshops, and wrap purchases well for the ride home (the carrying-luggage guide is worth reading before you shop). Lunch of Bac Ninh-style spring rolls in the village rounds out the day.
+From But Thap, loop south to Phu Lang on the east bank of the Cau River. Phu Lang is the ceramic village with the terracotta aesthetic — rustic, wood-fired glazes rather than Bat Trang’s celadons — and it receives a fraction of the visitors. Watch kilns and wheels in the village lanes, buy directly from family workshops, and wrap purchases well for the ride home ([the carrying-luggage guide]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}) is worth reading before you shop). Lunch of Bac Ninh-style spring rolls in the village rounds out the day.
 
 ## Practical notes
 

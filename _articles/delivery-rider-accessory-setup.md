@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "high-usage-delivery-commuter-maintenance, phone-mounts-motorbike-vietnam, top-boxes-racks-motorbike-vietnam, riding-gear-budget-priority-vietnam"
+internal_link_targets: "high-usage-delivery-commuter-maintenance, phone-mounts-motorbike-vietnam, top-boxes-racks-motorbike-vietnam, riding-gear-budget-priority-vietnam, throttle-assist-long-rides"
 ---
 
 Watch a Vietnamese delivery rider for a day and you learn what survives ten hours of daily riding: their accessory setups are field-tested by thousands of riders in real traffic. Whether you deliver or just ride like it, the lessons transfer.

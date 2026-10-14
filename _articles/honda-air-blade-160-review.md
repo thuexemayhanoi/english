@@ -1,7 +1,7 @@
 ---
 title: "Honda Air Blade 160 Review: The Sporty Commuter Scooter"
 slug: honda-air-blade-160-review
-description: "Honda Air Blade 160 review with verified specifications from Honda Vietnam - 156.9cc liquid-cooled engine, 14.8 Nm torque, 113 kg kerb weight - and who it suits in Vietnam."
+description: "Honda Air Blade 160 review with verified Honda Vietnam specs: 156.9cc liquid-cooled engine, 14.8 Nm torque, 113 kg kerb weight, and who it suits in Vietnam."
 category: scooters
 tags:
   - "honda air blade"
@@ -30,7 +30,7 @@ A 156.9 cc single-cylinder four-stroke engine, liquid-cooled - the coolant tempe
 
 ## Size and equipment
 
-Kerb weight 113 kg, seat height 775 mm, dimensions 1,887 x 686 x 1,086 mm, wheelbase 1,286 mm, ground clearance 142 mm, 4.4-litre tank. Tyres: 90/80-14 front, 100/80-14 rear. Transmission is a belt-driven CVT - the same architecture our scooter CVT explainer covers. Equipment includes a USB-C charge port, smart key and LCD meter.
+Kerb weight 113 kg, seat height 775 mm, dimensions 1,887 x 686 x 1,086 mm, wheelbase 1,286 mm, ground clearance 142 mm, 4.4-litre tank. Tyres: 90/80-14 front, 100/80-14 rear. Transmission is a belt-driven CVT - the same architecture [our scooter CVT explainer]({{ '/articles/cvt-belt-variator-scooter-vietnam/' | relative_url }}) covers. Equipment includes a USB-C charge port, smart key and LCD meter.
 
 ## Fuel economy
 

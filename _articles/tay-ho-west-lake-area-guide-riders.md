@@ -1,5 +1,5 @@
 ---
-title: "Riding and Living Around West Lake: A Tay Ho Guide for Motorbike Riders"
+title: "Riding and Living Around West Lake: A Tay Ho Guide for Riders"
 slug: tay-ho-west-lake-area-guide-riders
 description: "Tay Ho and the West Lake shoreline for riders: the loop, the expat streets, parking realities, weekend crowds and where the calm riding actually is."
 category: hanoi

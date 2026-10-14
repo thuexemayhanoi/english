@@ -1,7 +1,7 @@
 ---
-title: "Yamaha Gear 125 Hybrid Review: The Budget Scooter with Electric Assist"
+title: "Yamaha Gear 125 Hybrid Review: Budget Scooter, Electric Assist"
 slug: yamaha-gear-125-hybrid-review
-description: "Yamaha Gear 125 Hybrid review with verified Yamaha Vietnam specs - Blue Core 125cc engine with electric hybrid assist, 96 kg weight, 1.7 L/100 km economy and SmartKey at a budget price."
+description: "Yamaha Gear 125 Hybrid review with verified Yamaha Vietnam specs: Blue Core 125cc engine with hybrid assist, 96 kg, 1.7 L/100 km and SmartKey at a budget price."
 category: scooters
 tags:
   - "yamaha gear 125"
@@ -26,7 +26,7 @@ The Gear 125 Hybrid is Yamaha's entry-level city scooter, and its party trick is
 
 ## Engine and the hybrid system
 
-A Blue Core 124.9 cc single-cylinder four-stroke engine, air-cooled, with electronic fuel injection and CVT. Official maximum power is 6.2 kW at 6,500 rpm and maximum torque 10.6 Nm at 4,500 rpm - torque that peaks low, exactly where a city scooter needs it. The hybrid part: for up to three seconds after launch, a smart motor generator feeds battery power into the drivetrain to boost acceleration, which Yamaha says is especially useful uphill or two-up. Our hybrid systems explainer covers how this works and what it does not do (it is an assist, not electric-only riding).
+A Blue Core 124.9 cc single-cylinder four-stroke engine, air-cooled, with electronic fuel injection and CVT. Official maximum power is 6.2 kW at 6,500 rpm and maximum torque 10.6 Nm at 4,500 rpm - torque that peaks low, exactly where a city scooter needs it. The hybrid part: for up to three seconds after launch, a smart motor generator feeds battery power into the drivetrain to boost acceleration, which Yamaha says is especially useful uphill or two-up. [Our hybrid systems explainer]({{ '/articles/scooter-hybrid-systems-explained/' | relative_url }}) covers how this works and what it does not do (it is an assist, not electric-only riding).
 
 ## Fuel economy and range
 

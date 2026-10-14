@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: how-to-ride-manual-clutch-motorbike-vietnam, riding-downhill-motorbike-engine-braking, clutch-control-friction-zone-practice, clutch-technique-stop-and-go-traffic
+internal_link_targets: "how-to-ride-manual-clutch-motorbike-vietnam, riding-downhill-motorbike-engine-braking, clutch-control-friction-zone-practice, clutch-technique-stop-and-go-traffic, wet-weather-clutch-technique-manual-motorbike"
 ---
 
 Downshifting is where new clutch riders feel clumsy: the bike jerks, the lever feels rushed, the front dips. Smooth downshifting is just a matter of sequence and patience.
@@ -40,6 +40,6 @@ In everyday traffic, brake first, downshift as you slow, and release the clutch 
 
 ## Downhill
 
-Downshift before the slope, use the engine to hold your speed, and add the brakes in the corners. Our engine-braking guide covers descending properly — never coast a descent with the clutch pulled in, because you give up exactly the control you need most.
+Downshift before the slope, use the engine to hold your speed, and add the brakes in the corners. [Our engine-braking guide]({{ '/articles/riding-downhill-motorbike-engine-braking/' | relative_url }}) covers descending properly — never coast a descent with the clutch pulled in, because you give up exactly the control you need most.
 
 When downshifts become impossible or noisy even with good technique — jumping out of gear, grinding, a clutch that bites late — that is a mechanical symptom, not a technique problem.

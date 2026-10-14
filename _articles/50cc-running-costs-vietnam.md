@@ -1,7 +1,7 @@
 ---
 title: "50cc Running Costs in Vietnam: What Owning One Actually Costs"
 slug: 50cc-running-costs-vietnam
-description: "The real running costs of a 50cc in Vietnam: fuel consumption and habits, consumables like tyres and brake shoes, service costs, insurance, and why small bikes are cheap only if maintained."
+description: "The real running costs of a 50cc in Vietnam: fuel, consumables like tyres and brake shoes, servicing and insurance, and why small bikes are cheap only if maintained."
 category: 50cc
 tags:
   - "50cc"
@@ -24,7 +24,7 @@ A 50cc is one of the cheapest motorised vehicles on earth to run — provided it
 
 ## Fuel
 
-The engine may be small, but the tank is smaller. Consumption depends on condition, load and the right hand — our fuel-habits article covers the riding style that keeps small engines efficient. Expect to visit petrol stations often in city use; small tanks turn good consumption into frequent stops. Our petrol-stations guide covers grades and payment.
+The engine may be small, but the tank is smaller. Consumption depends on condition, load and the right hand — [our fuel-habits article]({{ '/articles/fuel-efficient-riding-habits-underbone/' | relative_url }}) covers the riding style that keeps small engines efficient. Expect to visit petrol stations often in city use; small tanks turn good consumption into frequent stops. [Our petrol-stations guide]({{ '/articles/fuel-grades-petrol-stations-vietnam/' | relative_url }}) covers grades and payment.
 
 ## The consumables that actually cost
 
@@ -36,7 +36,7 @@ The engine may be small, but the tank is smaller. Consumption depends on conditi
 
 ## Service costs
 
-The work itself — oil, chain, brakes, cables, carburettor or injection cleaning — is routine for any neighbourhood mechanic, and our what-a-service-includes article separates the basic items from the periodic bigger ones. Follow the bike's own manual for intervals; no rule-of-thumb interval from the internet beats the manufacturer's book for your specific model.
+The work itself — oil, chain, brakes, cables, carburettor or injection cleaning — is routine for any neighbourhood mechanic, and [our what-a-service-includes article]({{ '/articles/what-a-50cc-service-includes-vietnam/' | relative_url }}) separates the basic items from the periodic bigger ones. Follow the bike's own manual for intervals; no rule-of-thumb interval from the internet beats the manufacturer's book for your specific model.
 
 ## Insurance
 
@@ -44,4 +44,4 @@ Compulsory civil-liability insurance attaches to the vehicle and is renewed annu
 
 ## The economics that surprise people
 
-Two items dominate everything else: **purchase condition** (a bike bought cheap with a worn bore costs more than a dearer sound one) and **resale** (a maintained 50cc holds value in a way a neglected one never does — our resale article covers it). Running a 50cc cheaply is less about the bike and more about the habits around it.
+Two items dominate everything else: **purchase condition** (a bike bought cheap with a worn bore costs more than a dearer sound one) and **resale** (a maintained 50cc holds value in a way a neglected one never does — [our resale article]({{ '/articles/50cc-resale-value-vietnam/' | relative_url }}) covers it). Running a 50cc cheaply is less about the bike and more about the habits around it.

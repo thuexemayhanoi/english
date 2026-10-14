@@ -18,7 +18,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "vietnam-motorbike-licence-classes-explained, idp-vietnam-motorbike-rules, licence-expiry-during-long-rental-hanoi, monthly-motorbike-rental-requirements-hanoi"
+internal_link_targets: "vietnam-motorbike-licence-classes-explained, idp-vietnam-motorbike-rules, licence-expiry-during-long-rental-hanoi, monthly-motorbike-rental-requirements-hanoi, students-semester-motorbike-rental-hanoi"
 ---
 
 Daily tourists can think about licences once. Long-term riders need a system: documents that stay valid for the whole rental, checked at set-up and tracked across months.

@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "General guidance; no specific sellers endorsed"
-internal_link_targets: "genuine-vs-fake-parts-motorbike-vietnam, spare-parts-availability-vietnam, repair-or-replace-motorbike-parts, renting-vs-buying-a-motorbike-hanoi"
+internal_link_targets: "genuine-vs-fake-parts-motorbike-vietnam, spare-parts-availability-vietnam, repair-or-replace-motorbike-parts, renting-vs-buying-a-motorbike-hanoi, maintenance-log-monthly-rental-motorbike"
 ---
 
 Vietnam's online marketplaces put an entire parts warehouse in your pocket — and also a minefield of counterfeits, wrong listings and no-return sellers. Buying parts online works brilliantly for the prepared rider and punishes the improviser. This is the preparation.

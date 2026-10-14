@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "helmet-fit-guide-vietnam, helmet-ventilation-hot-climate, helmet-intercoms-bluetooth-vietnam, hot-weather-riding-motorbike-vietnam"
+internal_link_targets: "helmet-fit-guide-vietnam, helmet-ventilation-hot-climate, helmet-intercoms-bluetooth-vietnam, hot-weather-riding-motorbike-vietnam, hi-vis-vests-motorbike-riders"
 ---
 
 Riders assume the engine is the loud thing. It is not. At open-road speed, wind roaring over the helmet edges and visor is far louder than any 110cc engine, and it does not arrive as a one-off blast — it is a continuous low-frequency roar that fatigues hearing for hours after you park. Riders who do long distances without ear protection end the day with muffled hearing and ringing ears, repeated weekend after weekend. That is a hearing-damage pattern, not an annoyance.

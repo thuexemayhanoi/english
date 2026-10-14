@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "General mechanical guidance; pad wear limits per manual"
-internal_link_targets: "brake-pads-replacement-motorbike-vietnam, brake-checks-motorbike-vietnam, diagnosing-motorbike-noises-vietnam, sticking-brakes-caliper-cleaning"
+internal_link_targets: "brake-pads-replacement-motorbike-vietnam, brake-checks-motorbike-vietnam, diagnosing-motorbike-noises-vietnam, sticking-brakes-caliper-cleaning, speedometer-not-working-motorbike"
 ---
 
 Brakes announce their condition by sound, and they are unusually polite about it: squeal first, grind last. Learning the vocabulary tells you whether to book a service this month, this week, or stop riding this minute.

@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn — Honda Vietnam model detail pages, official specifications (recorded in docs/MODEL-DATABASE.md, retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-cbr150r-review, honda-cbr150r-vs-honda-winner-r, riding-six-speed-manual-winner-exciter, who-needs-150cc-manual-motorbike, best-150cc-manual-motorbikes-vietnam-verified
+internal_link_targets: "honda-cbr150r-review, honda-cbr150r-vs-honda-winner-r, riding-six-speed-manual-winner-exciter, who-needs-150cc-manual-motorbike, best-150cc-manual-motorbikes-vietnam-verified, honda-blade-drum-vs-disc"
 ---
 
 The CBR150R is Vietnam's entry-level full-fairing sport bike, and a small number of riders in Hanoi use one as their only bike. It works — with trade-offs you should understand before committing. All figures are from Honda Vietnam's official page (recorded in our model database, retrieved 2026-09-23).

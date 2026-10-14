@@ -1,5 +1,5 @@
 ---
-title: "Best Underbones for High-Mileage Riders: The Verified Durability Case"
+title: "Best Underbones for High-Mileage Riders: The Durability Case"
 slug: best-underbones-high-mileage-verified
 description: "Which underbones handle huge annual mileages best? Verified manufacturer data on economy, simplicity and running costs."
 category: motorcycles
@@ -39,4 +39,4 @@ Liquid-cooled sport bikes: the Winner R (2.59 L/100 km, 1.1 L oil) and CBR150R (
 
 ## Rental context
 
-For long stays without buying, our monthly rental guide covers the economics - the Wave class is price-published at 150,000 VND per day and the owner historically recommends periodic checks around ~1,500 km of hard use. Contact us to confirm current availability.
+For long stays without buying, [our monthly rental guide]({{ '/articles/high-mileage-monthly-rental-hanoi/' | relative_url }}) covers the economics - the Wave class is price-published at 150,000 VND per day and the owner historically recommends periodic checks around ~1,500 km of hard use. Contact us to confirm current availability.

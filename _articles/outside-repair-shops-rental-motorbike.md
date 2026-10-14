@@ -1,7 +1,7 @@
 ---
 title: "Can You Use Outside Repair Shops on a Rental Motorbike?"
 slug: outside-repair-shops-rental-motorbike
-description: "Yes for small roadside items with the shop's blessing - punctures, chain lube - and no for anything structural without agreement. The rule: call the shop first, keep receipts, and document."
+description: "Small roadside items like punctures and chain lube are fine with the shop's blessing; anything structural needs agreement first."
 category: rental
 tags:
   - "outside repair"

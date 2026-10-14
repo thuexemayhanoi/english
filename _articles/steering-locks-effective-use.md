@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "disc-locks-chains-motorbike-security, where-to-park-motorbike-hanoi, keeping-rental-motorbike-secure-hanoi, gps-trackers-motorbikes-vietnam"
+internal_link_targets: "disc-locks-chains-motorbike-security, where-to-park-motorbike-hanoi, keeping-rental-motorbike-secure-hanoi, gps-trackers-motorbikes-vietnam, weather-resistant-locks-motorbike"
 ---
 
 Every motorbike sold in Vietnam has a built-in security device most riders use by reflex: the steering lock, which freezes the handlebars turned so the bike cannot be rolled or ridden straight. It costs nothing and takes three seconds — and understanding its limits makes you use it better.

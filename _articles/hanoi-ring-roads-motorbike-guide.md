@@ -38,7 +38,7 @@ Big-road rules apply: lights always on, steady lane position, early indicators, 
 
 ## Which roads are open to riders
 
-Inside the city, the rings are open to motorbikes — but the expressways that the rings connect to generally are not for two-wheelers. The expressway guide covers that boundary in detail; the short version is: ring roads yes, expressway no, and the rings exist partly so riders have a legal fast alternative.
+Inside the city, the rings are open to motorbikes — but the expressways that the rings connect to generally are not for two-wheelers. [The expressway guide]({{ '/articles/motorbikes-on-expressway-vietnam/' | relative_url }}) covers that boundary in detail; the short version is: ring roads yes, expressway no, and the rings exist partly so riders have a legal fast alternative.
 
 ## When the rings help
 

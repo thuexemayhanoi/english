@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "best-bike-for-english-teachers-hanoi, best-motorbike-for-commuting-hanoi, daily-weekly-monthly-motorbike-rental-hanoi, motorbike-rental-agreement-hanoi, what-is-included-motorbike-rental-hanoi"
+internal_link_targets: "best-bike-for-english-teachers-hanoi, best-motorbike-for-commuting-hanoi, daily-weekly-monthly-motorbike-rental-hanoi, motorbike-rental-agreement-hanoi, what-is-included-motorbike-rental-hanoi, motorbike-rental-digital-nomads-hanoi, renting-motorbike-couple-hanoi"
 ---
 
 Teaching English in Hanoi usually means several workplaces: a language centre here, a public school there, private students across the city. A motorbike is the tool that makes that schedule possible, and rental is how most teachers start.

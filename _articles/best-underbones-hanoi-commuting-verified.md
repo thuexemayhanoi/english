@@ -1,5 +1,5 @@
 ---
-title: "Best Underbones for Hanoi Commuting: The Verified Data Guide"
+title: "Best Underbones for Hanoi Commuting: Gears for City Traffic"
 slug: best-underbones-hanoi-commuting-verified
 description: "Which semi-automatic underbone suits Hanoi commuting? Verified Honda and Yamaha specs on weight, economy, seat height and price."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: best-110cc-underbones-vietnam-verified, best-125cc-underbones-vietnam-verified, honda-wave-alpha-110-review, yamaha-sirius-rc-110-review, honda-future-125-review, scooter-vs-semi-automatic-hanoi
+internal_link_targets: "best-110cc-underbones-vietnam-verified, best-125cc-underbones-vietnam-verified, honda-wave-alpha-110-review, yamaha-sirius-rc-110-review, honda-future-125-review, scooter-vs-semi-automatic-hanoi, best-underbones-high-mileage-verified, best-underbones-two-up-verified"
 ---
 
 Commuting in Hanoi means stop-start traffic, tight filtering, kerb-height parking and a lot of time below 40 km/h. For that job the semi-automatic underbone - foot-shifted, no clutch lever - is the local default, and the manufacturers' own data (retrieved 23 September 2026) makes the ranking unusually objective.

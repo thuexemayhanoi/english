@@ -42,4 +42,4 @@ The most common scooter-rider error is treating the clutch lever as a scooter br
 
 ## Which bikes to learn on
 
-Light, forgiving manual underbones make the transition easiest — our beginner manual bikes guide covers the models that suit new clutch riders in Vietnam, and the scooter-versus-manual comparison explains who each type genuinely suits. Renters: contact us to confirm current availability of any specific model.
+Light, forgiving manual underbones make the transition easiest — [our beginner manual bikes guide]({{ '/articles/best-manual-clutch-motorbikes-beginners-verified/' | relative_url }}) covers the models that suit new clutch riders in Vietnam, and the scooter-versus-manual comparison explains who each type genuinely suits. Renters: contact us to confirm current availability of any specific model.

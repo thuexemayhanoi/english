@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "daily-weekly-monthly-motorbike-rental-hanoi, best-motorbike-for-day-trips-from-hanoi, motorbike-rental-pickup-or-delivery-hanoi, returning-a-rental-motorbike-hanoi, motorbike-rental-price-hanoi"
+internal_link_targets: "daily-weekly-monthly-motorbike-rental-hanoi, best-motorbike-for-day-trips-from-hanoi, motorbike-rental-pickup-or-delivery-hanoi, returning-a-rental-motorbike-hanoi, motorbike-rental-price-hanoi, motorbike-rental-international-students-hanoi"
 ---
 
 A single day of [motorbike rental]({{ '/topics/rental/' | relative_url }}) is enough to change how you see Hanoi — if you spend the day on the bike instead of on logistics. Here is how to make 24 hours count.

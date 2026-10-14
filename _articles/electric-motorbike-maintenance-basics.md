@@ -1,5 +1,5 @@
 ---
-title: "Electric Motorbike Maintenance Basics"
+title: "Electric Motorbike Maintenance: What Changes Without an Engine"
 slug: electric-motorbike-maintenance-basics
 description: "Maintaining electric motorbikes and e-bikes in Vietnam: batteries, charging habits, brakes, waterproofing — a different service routine."
 category: maintenance

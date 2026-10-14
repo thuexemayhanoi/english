@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "rain-gear-motorbike-riders-vietnam, riding-jacket-vietnam-climate, riding-motorbike-heavy-rain-vietnam, what-to-wear-riding-motorbike-vietnam"
+internal_link_targets: "rain-gear-motorbike-riders-vietnam, riding-jacket-vietnam-climate, riding-motorbike-heavy-rain-vietnam, what-to-wear-riding-motorbike-vietnam, earplugs-motorbike-wind-noise"
 ---
 
 A waterproof jacket that soaks through in year two was not broken — it was washed wrong. Waterproof membranes and durable water repellent (DWR) coatings die from grime, sweat and improper laundering, and Vietnam’s dust, sweat and humidity kill them faster than a European winter ever would.

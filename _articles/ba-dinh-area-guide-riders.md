@@ -1,7 +1,7 @@
 ---
-title: "Ba Dinh for Motorbike Riders: Government Quarter Riding, Museums and Wide Avenues"
+title: "Ba Dinh for Motorbike Riders: Government Quarter and Museums"
 slug: ba-dinh-area-guide-riders
-description: "Riding in Ba Dinh: Hanoi's government quarter and its wide divided avenues, museum visiting by motorbike, parking near the mausoleum complex, and how the area's traffic differs."
+description: "Riding in Ba Dinh, Hanoi's government quarter: wide divided avenues, visiting museums by motorbike, parking near the mausoleum complex, and how the traffic differs."
 category: hanoi
 tags:
   - "ba dinh"

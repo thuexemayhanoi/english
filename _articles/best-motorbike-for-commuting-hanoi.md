@@ -1,7 +1,7 @@
 ---
 title: "Best Motorbike for Commuting in Hanoi"
 slug: best-motorbike-for-commuting-hanoi
-description: "For a Hanoi commute you want an automatic scooter with storage, cheap running costs and easy parking - the Vision, Click and Mio class - with a monthly rate that beats daily rental within weeks."
+description: "For a Hanoi commute you want an automatic scooter with storage, low running costs and easy parking: the Vision, Click and Mio class."
 category: rental
 tags:
   - "commuting"
@@ -43,4 +43,4 @@ A commuter should rent monthly, not daily - the published monthly rates beat dai
 - Tyres with real tread: the wet season turns polished commuter roads slick.
 - A lock routine: parked at home and at work daily, the bike needs the steering lock habit every single time.
 
-The traffic article covers riding technique; the price article covers the arithmetic. For commuters the short version is: automatic scooter, monthly rate, good brakes, always locked.
+[The traffic article]({{ '/articles/best-motorbike-for-hanoi-traffic/' | relative_url }}) covers riding technique; [the price article]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) covers the arithmetic. For commuters the short version is: automatic scooter, monthly rate, good brakes, always locked.

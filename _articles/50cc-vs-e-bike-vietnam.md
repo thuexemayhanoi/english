@@ -1,7 +1,7 @@
 ---
-title: "50cc Petrol Bike vs Electric Bike in Vietnam: Licence-Free Options Compared"
+title: "50cc Petrol Bike vs E-Bike in Vietnam: Licence-Free Options"
 slug: 50cc-vs-e-bike-vietnam
-description: "Vietnam's two licence-free two-wheelers compared: 50cc petrol mopeds vs pedal-style electric bicycles — legal classes, speed, range, costs, weather and which suits a Hanoi rider."
+description: "Vietnam's two licence-free two-wheelers compared: 50cc petrol mopeds vs pedal-style e-bikes on legal class, speed, range, costs."
 category: 50cc
 tags:
   - "50cc"

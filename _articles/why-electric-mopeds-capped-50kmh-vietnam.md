@@ -19,7 +19,7 @@ review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text — Article 34(1)(g) (moped definition: 50 km/h design speed, 4 kW)"
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — Evo Lite version with maximum speed limited to below 50 km/h, no licence required"
-internal_link_targets: electric-bike-licence-vietnam, electric-moped-vs-electric-motorcycle-vietnam, 50cc-licence-vietnam, what-is-electric-motorbike-vietnam
+internal_link_targets: "electric-bike-licence-vietnam, electric-moped-vs-electric-motorcycle-vietnam, 50cc-licence-vietnam, what-is-electric-motorbike-vietnam, electric-bike-law-myths-vietnam"
 ---
 
 If you have noticed that Vietnamese electric scooters cluster just below 50 km/h, that is not a coincidence — it is the law defining a product category.

@@ -24,7 +24,7 @@ Walk past any Hanoi bike shop and the sales talk splits Vietnam's motorbikes int
 
 ## Xe so: the semi-automatic underbone
 
-Xe so bikes shift through numbered gears with your left foot, but there is no clutch lever - a centrifugal clutch handles the engagement automatically. The verified examples from manufacturer pages (retrieved 23 September 2026): Honda Wave Alpha, Blade, Wave RSX, Future 125 FI, Sirius RC (four-speed rotary each), plus the Super Cub C125 and CT125 with their four-speed layouts. Our semi-automatic gearbox explainer covers exactly how this works.
+Xe so bikes shift through numbered gears with your left foot, but there is no clutch lever - a centrifugal clutch handles the engagement automatically. The verified examples from manufacturer pages (retrieved 23 September 2026): Honda Wave Alpha, Blade, Wave RSX, Future 125 FI, Sirius RC (four-speed rotary each), plus the Super Cub C125 and CT125 with their four-speed layouts. [Our semi-automatic gearbox explainer]({{ '/articles/semi-automatic-gearbox-explained/' | relative_url }}) covers exactly how this works.
 
 ## Xe con tay: the manual-clutch machine
 
@@ -32,5 +32,5 @@ Xe con tay adds the clutch lever: Honda Winner R, Honda CBR150R and Yamaha Excit
 
 ## Why the split matters
 
-Skill: a first-time rider can operate a xe so within minutes; a xe con tay demands clutch coordination in live traffic. Licence classes in Vietnam are tied to engine capacity, not transmission, but riding a clutch bike without clutch experience is unsafe at any licence level - our beginners guide explains the progression. Rental counters mirror this: our price-published rental classes (Wave and Sirius at 150,000 VND/day) are both xe so machines. Contact us to confirm current availability of any model, and if you have never ridden a clutch, rent the xe so first.
+Skill: a first-time rider can operate a xe so within minutes; a xe con tay demands clutch coordination in live traffic. Licence classes in Vietnam are tied to engine capacity, not transmission, but riding a clutch bike without clutch experience is unsafe at any licence level - [our beginners guide]({{ '/articles/easiest-motorbikes-for-beginners-hanoi/' | relative_url }}) explains the progression. Rental counters mirror this: our price-published rental classes (Wave and Sirius at 150,000 VND/day) are both xe so machines. Contact us to confirm current availability of any model, and if you have never ridden a clutch, rent the xe so first.
 

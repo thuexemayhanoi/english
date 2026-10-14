@@ -25,7 +25,7 @@ Yamaha sells two very different scooters around the same 155 cc Blue Core VVA en
 
 ## The headline difference: braking hardware
 
-The NMAX has ABS on BOTH wheels plus a traction control system. The NVX 155 VVA ABS has front ABS with a rear drum. That is the single biggest equipment gap between them, and in Hanoi's wet-season traffic it matters - our ABS [availability guide]({{ '/articles/abs-on-underbones-vietnam-explained/' | relative_url }}) and our TCS vs ABS explainer cover what each system does. If maximum safety hardware is your priority, the NMAX wins outright.
+The NMAX has ABS on BOTH wheels plus a traction control system. The NVX 155 VVA ABS has front ABS with a rear drum. That is the single biggest equipment gap between them, and in Hanoi's wet-season traffic it matters - our ABS [availability guide]({{ '/articles/abs-on-underbones-vietnam-explained/' | relative_url }}) and [our TCS vs ABS explainer]({{ '/articles/tcs-vs-abs-scooters-vietnam/' | relative_url }}) cover what each system does. If maximum safety hardware is your priority, the NMAX wins outright.
 
 ## Power and delivery
 

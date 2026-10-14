@@ -46,4 +46,4 @@ Dat Bike publishes IP65 for the Weaver 200 — sealed against dust and low-press
 
 ## Riding and washing with the rating in mind
 
-Rain riding is a matter of grip and visibility more than electrics on a properly sealed machine — our Hanoi rain guide covers the riding side. Washing should follow the manufacturer's rules — gentle water, no pressure-washing seals or connectors. And when streets flood, the rating is the wrong tool: our flooded-streets article explains when not to ride at all.
+Rain riding is a matter of grip and visibility more than electrics on a properly sealed machine — [our Hanoi rain guide]({{ '/articles/riding-electric-motorbike-hanoi-rain/' | relative_url }}) covers the riding side. Washing should follow the manufacturer's rules — gentle water, no pressure-washing seals or connectors. And when streets flood, the rating is the wrong tool: [our flooded-streets article]({{ '/articles/riding-electric-motorbike-flooded-streets/' | relative_url }}) explains when not to ride at all.

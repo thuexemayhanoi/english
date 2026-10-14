@@ -21,7 +21,7 @@ sources:
   - "https://www.vietnamonline.com/attraction/co-loa-citadel.html — about 16 km north of the Old Quarter, in Co Loa commune, Dong Anh district, retrieved 2026-09-24"
   - "https://audiala.com/en/vietnam/hanoi/co-loa-citadel — about 17 km north of Hanoi in Dong Anh; a 3rd-century BCE fortress and capital of the Au Lac kingdom, retrieved 2026-09-24"
   - "https://vinwonders.com/en/wonderpedia/news/co-loa-citadel-hanoi/ — about 17 km from the city centre, a conserved area of nearly 500 hectares, open daily with an entrance fee, retrieved 2026-09-24"
-internal_link_targets: best-motorbike-for-day-trips-from-hanoi, red-river-dyke-riding-guide, crossing-hanoi-bridges-motorbike, exploring-cau-giay-by-motorbike, how-to-rent-a-motorbike-hanoi
+internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, red-river-dyke-riding-guide, crossing-hanoi-bridges-motorbike, exploring-cau-giay-by-motorbike, how-to-rent-a-motorbike-hanoi, bac-ninh-craft-loop-motorbike-ride, soc-temple-soc-son-motorbike-ride"
 ---
 
 Co Loa, roughly 16–17 kilometres northeast of the Old Quarter in Dong Anh, is Vietnam’s oldest known fortification — a set of earthen spiral ramparts dating to the third century BCE and the capital of An Duong Vuong’s Au Lac kingdom. At that distance it is the shortest genuine "leave the city" ride from Hanoi: an easy half day, often combined with the Red River dyke roads.

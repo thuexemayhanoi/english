@@ -1,7 +1,7 @@
 ---
 title: "Underage Riding: Penalties in Vietnam"
 slug: underage-riding-penalties-vietnam
-description: "Riding ages and underage penalties in Vietnam: mopeds from 16, A1 motorbikes from 18, a 400,000-600,000 VND fine for 16-to-under-18 riders on licence-required bikes, warnings for under-16s and heavy owner-side fines for adults who hand over the keys."
+description: "Underage riding in Vietnam: mopeds from 16, A1 motorbikes from 18, a 400,000-600,000 VND fine for 16-17-year-olds on bigger bikes."
 category: law-licences
 tags:
   - "underage"

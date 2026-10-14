@@ -1,7 +1,7 @@
 ---
 title: "50cc Bikes on Hills and Bridges: Hanoi's Difficult Terrain"
 slug: 50cc-hills-bridges-hanoi
-description: "How a 50cc copes with Hanoi bridge ramps, flyovers and slopes: banking speed before rises, gearing down early, two-up limits, and which crossings are realistic for a small engine."
+description: "How a 50cc copes with Hanoi bridge ramps, flyovers and slopes: carrying speed into rises, gearing down early, two-up limits and which crossings suit a small engine."
 category: 50cc
 tags:
   - "50cc"
@@ -17,7 +17,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: crossing-hanoi-bridges-motorbike, how-fast-can-a-50cc-motorbike-go, is-a-50cc-enough-for-hanoi, riding-50cc-hanoi-traffic
+internal_link_targets: "crossing-hanoi-bridges-motorbike, how-fast-can-a-50cc-motorbike-go, is-a-50cc-enough-for-hanoi, riding-50cc-hanoi-traffic, 50cc-night-riding-visibility, carrying-pillion-50cc-vietnam"
 ---
 
 Hanoi is mostly flat, but its bridges are not. The long approach ramps of the Red River crossings and the flyovers of the inner arterials are where a 50cc shows its ceiling — and where technique decides whether the crossing is merely slow or genuinely unsafe.
@@ -36,11 +36,11 @@ On a geared underbone, click down before the ramp steepens. Shifting mid-climb c
 
 ## Reading the ramp before you commit
 
-Before choosing a bridge at all, be honest about the crossing. Check the general guidance in our bridges article for Hanoi's major crossings; the long, high-traffic ramps of the bigger river bridges ask sustained speed a 50cc cannot hold, especially two-up. Alternative ground-level routes across the districts may add distance and save risk.
+Before choosing a bridge at all, be honest about the crossing. Check the general guidance in [our bridges article]({{ '/articles/crossing-hanoi-bridges-motorbike/' | relative_url }}) for Hanoi's major crossings; the long, high-traffic ramps of the bigger river bridges ask sustained speed a 50cc cannot hold, especially two-up. Alternative ground-level routes across the districts may add distance and save risk.
 
 ## Two-up and loaded
 
-Add a passenger and the honest answer changes: most 50cc bikes climb bridge ramps two-up at running-pace speeds, in a fast traffic stream. That is a situation to avoid, not to endure. Our pillion article covers the technique when you must.
+Add a passenger and the honest answer changes: most 50cc bikes climb bridge ramps two-up at running-pace speeds, in a fast traffic stream. That is a situation to avoid, not to endure. [Our pillion article]({{ '/articles/carrying-pillion-50cc-vietnam/' | relative_url }}) covers the technique when you must.
 
 ## Descents
 

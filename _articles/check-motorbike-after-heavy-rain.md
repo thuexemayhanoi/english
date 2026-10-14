@@ -16,7 +16,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
-internal_link_targets: "flooded-streets-riding-motorbike-vietnam, lights-and-electrical-checks-motorbike, brake-checks-motorbike-vietnam, cleaning-motorbike-properly-vietnam"
+internal_link_targets: "flooded-streets-riding-motorbike-vietnam, lights-and-electrical-checks-motorbike, brake-checks-motorbike-vietnam, cleaning-motorbike-properly-vietnam, motorbike-wont-start-after-washing"
 ---
 
 Vietnamese riders get rained on constantly, and a normal soaking does no harm. But a real downpour, a flooded street or a badly aimed wash leaves water in places that cause trouble hours later. Ten minutes of checking after a soaking prevents most of it.

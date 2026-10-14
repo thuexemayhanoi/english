@@ -27,7 +27,7 @@ The Hai Van Pass — the "Sea of Clouds Pass" — is the single most famous moto
 
 ## The route
 
-Two classic directions. From Hue: the QL1A south for roughly 60-80 km of coastal riding past Lang Co lagoon — itself one of Vietnam's great views — then the lefthand rise to the pass. From Da Nang: the coast road north past the beaches, then the climb from the south side. Most riders start from Da Nang (rentals are abundant there — see our Da Nang guide) and return the same day, or ride Hue-Da Nang one-way as the scenic half of a central Vietnam itinerary.
+Two classic directions. From Hue: the QL1A south for roughly 60-80 km of coastal riding past Lang Co lagoon — itself one of Vietnam's great views — then the lefthand rise to the pass. From Da Nang: the coast road north past the beaches, then the climb from the south side. Most riders start from Da Nang (rentals are abundant there — see [our Da Nang guide]({{ '/articles/renting-motorbike-da-nang/' | relative_url }})) and return the same day, or ride Hue-Da Nang one-way as the scenic half of a central Vietnam itinerary.
 
 The pass road itself is a well-surfaced single carriageway with sustained climbing, hairpins and sheer sea views. Give it two to three unhurried hours each way with stops; the summit gate and the viewpoints above Lang Co are the moments everyone stops for.
 
@@ -40,12 +40,12 @@ The Hai Van tunnel takes the fast traffic — but motorbikes are not allowed to 
 Hai Van translates as sea of clouds, and the name is literal — the pass is genuinely misty, and fog can erase the famous views in minutes. The pragmatic rider's plan:
 
 - Start early: mornings before the sea mist thickens give the best odds of the view.
-- If the top is in cloud, ride the pass slowly anyway — our low-visibility guide covers exactly this riding (short sightlines, no centre line trust, lights on).
+- If the top is in cloud, ride the pass slowly anyway — [our low-visibility guide]({{ '/articles/fog-and-low-visibility-riding-motorbike-vietnam/' | relative_url }}) covers exactly this riding (short sightlines, no centre line trust, lights on).
 - Check the weather on both sides: Hue's drizzle and Da Nang's sun can coexist, with the pass as the boundary.
 
 ## Riding notes
 
-- A standard automatic scooter handles the pass comfortably; the discipline is the descent — engine-brake, and our mountain-pass riding guide covers corner discipline in full.
+- A standard automatic scooter handles the pass comfortably; the discipline is the descent — engine-brake, and [our mountain-pass riding guide]({{ '/articles/mountain-pass-riding-motorbike-vietnam/' | relative_url }}) covers corner discipline in full.
 - Weekend crowds at the summit: go on a weekday morning if you can.
 - Food and fuel are easy at Lang Co at the north end and on the Da Nang side; carry nothing you cannot buy there.
 - Combine it with our Hue and Da Nang rental guides — the pass is a day-ride from either, and two-day Hue→Da Nang with luggage over the pass is the classic touring move.

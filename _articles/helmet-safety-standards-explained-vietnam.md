@@ -17,7 +17,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "helmet-fit-guide-vietnam, helmet-law-vietnam, full-face-vs-open-face-helmet-vietnam, genuine-vs-fake-parts-motorbike-vietnam"
+internal_link_targets: "helmet-fit-guide-vietnam, helmet-law-vietnam, full-face-vs-open-face-helmet-vietnam, genuine-vs-fake-parts-motorbike-vietnam, helmet-sun-heat-damage-vietnam"
 ---
 
 A helmet is only as good as the standard it was built and tested to. In Vietnam you will see stickers and embossed marks from several systems, and knowing what they mean is the difference between buying protection and buying plastic.

@@ -1,5 +1,5 @@
 ---
-title: "The Vietnamese Motorbike Bluecard: What the Ownership Paper Actually Is"
+title: "The Vietnamese Motorbike Bluecard: The Ownership Paper Explained"
 slug: motorbike-bluecard-ownership-papers-vietnam
 description: "The bluecard (registration certificate) is the ownership paper of a Vietnamese motorbike. What it contains, why it matters for buying, selling, police and borders."
 category: vietnam-travel
@@ -34,7 +34,7 @@ Related documents that are not the bluecard: the circulation/inspection papers f
 
 ## Why it matters, situation by situation
 
-**Buying.** Check that the bluecard's numbers match the bike, that the seller's name matches the bluecard, and get the ownership-transfer contract signed. Local workshops warn openly that many older used bikes circulate with forged or missing papers — the pre-2013 fleet is the risky zone. If the price is surprisingly low, the papers are the reason. Our buying guide has the full checklist.
+**Buying.** Check that the bluecard's numbers match the bike, that the seller's name matches the bluecard, and get the ownership-transfer contract signed. Local workshops warn openly that many older used bikes circulate with forged or missing papers — the pre-2013 fleet is the risky zone. If the price is surprisingly low, the papers are the reason. [Our buying guide]({{ '/articles/buying-motorbike-as-tourist-vietnam/' | relative_url }}) has the full checklist.
 
 **Selling.** No contract + no transfer = you still legally own a bike that a stranger is riding. Do the transfer properly — our selling [guide]({{ '/articles/selling-motorbike-before-leaving-vietnam/' | relative_url }}) explains the exit.
 

@@ -20,7 +20,7 @@ sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): contact details and availability wording only"
   - "https://travelhanoi.org/quan-son-lake/ — Quan Son lake in My Duc district, about 50 km from the city centre, a calm nature day-trip destination, retrieved 2026-09-24"
   - "https://goldenholidaytravel.com/quan-son-lake-of-untouched-beauty-an-ideal-place-for-your-escape-on-weekend.new — Quan Son is described as mountains embracing a lake, with scenery likened to Ha Long Bay; about 60 km from the city, retrieved 2026-09-24"
-internal_link_targets: best-motorbike-for-day-trips-from-hanoi, perfume-pagoda-motorbike-trip, hanoi-lakes-motorbike-riding-guide, riding-motorbike-heavy-rain-vietnam, how-to-rent-a-motorbike-hanoi
+internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, perfume-pagoda-motorbike-trip, hanoi-lakes-motorbike-riding-guide, riding-motorbike-heavy-rain-vietnam, how-to-rent-a-motorbike-hanoi, thung-nai-hoa-binh-lake-motorbike-day-trip"
 ---
 
 Quan Son is the quiet alternative to the famous destinations in the same southwestern corner of Hanoi: an 860-hectare lake among limestone outcrops in My Duc district, roughly 40–60 kilometres from the centre depending on the approach. Where the Perfume Pagoda valley next door is polished and busy, Quan Son is still a local weekend spot — boats, lotus and karst ridges without the crowds.

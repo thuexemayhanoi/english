@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn — official Honda Vietnam model pages (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — official Yamaha Vietnam product pages (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved)"
-internal_link_targets: "honda-vision-vs-yamaha-janus, honda-lead-vs-yamaha-grande, yamaha-janus-vs-yamaha-freego, honda-vision-110-review, yamaha-janus-125-review, best-scooters-to-rent-hanoi, esp-vs-blue-core-engines-explained, honda-vario-160-vs-yamaha-nvx-155"
+internal_link_targets: "honda-vision-vs-yamaha-janus, honda-lead-vs-yamaha-grande, yamaha-janus-vs-yamaha-freego, honda-vision-110-review, yamaha-janus-125-review, best-scooters-to-rent-hanoi, esp-vs-blue-core-engines-explained, honda-vario-160-vs-yamaha-nvx-155, honda-vision-vs-yamaha-freego-125"
 ---
 
 Almost every automatic scooter on Vietnamese streets comes from one of two manufacturers, and the rivalry is close enough that choosing between them is really choosing between model pairs. This guide maps the equivalents using only manufacturer-verified facts (Honda Vietnam and Yamaha Vietnam pages, retrieved 23 September 2026).
@@ -42,4 +42,4 @@ Almost every automatic scooter on Vietnamese streets comes from one of two manuf
 
 ## How to choose
 
-Pick by model, not badge: compare the specific pair (Vision vs Janus, Lead vs FreeGo, Grande vs SH Mode) in our detailed comparisons, and sit on both. For the engine engineering behind the badges, see our eSP vs Blue Core explainer, and the newest sporty head-to-head: Vario 160 vs NVX 155. For renters: Nguyen Tu's price-published models span both brands - Honda Vision, Honda Air Blade, Honda Click and Yamaha Mio, Yamaha Sirius. Contact us to confirm current availability. And whichever you ride, the licence rules follow engine capacity, not brand - our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) have current details.
+Pick by model, not badge: compare the specific pair (Vision vs Janus, Lead vs FreeGo, Grande vs SH Mode) in our detailed comparisons, and sit on both. For the engine engineering behind the badges, see [our eSP vs Blue Core explainer]({{ '/articles/esp-vs-blue-core-engines-explained/' | relative_url }}), and the newest sporty head-to-head: Vario 160 vs NVX 155. For renters: Nguyen Tu's price-published models span both brands - Honda Vision, Honda Air Blade, Honda Click and Yamaha Mio, Yamaha Sirius. Contact us to confirm current availability. And whichever you ride, the licence rules follow engine capacity, not brand - our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) have current details.

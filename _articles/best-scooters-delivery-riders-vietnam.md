@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: best-scooters-cargo-storage-vietnam, most-fuel-efficient-scooters-vietnam-verified, delivery-rider-accessory-setup, high-usage-delivery-commuter-maintenance, scooter-payload-load-limits-vietnam, flat-floor-scooters-explained
+internal_link_targets: "best-scooters-cargo-storage-vietnam, most-fuel-efficient-scooters-vietnam-verified, delivery-rider-accessory-setup, high-usage-delivery-commuter-maintenance, scooter-payload-load-limits-vietnam, flat-floor-scooters-explained, which-scooter-engine-class-vietnam"
 ---
 
 Delivery riding is the hardest use a scooter gets: full-time kilometers, constant stops, a bag on the floor and a phone on the bar. The right scooter for the job shows up in three verified numbers - storage, fuel economy and kerb weight (manufacturer figures retrieved 23 September 2026).
@@ -28,7 +28,7 @@ Underseat capacity: Honda Lead 125 and Yamaha Latte 125 at 37 litres each (two f
 
 ## Flat floors beat big bays for boxes
 
-A 422 mm flat floor (Honda Vario 160) or the FreeGo and Latte flat decks take a box between your feet without a rack - the flat-floor explainer covers why this matters more than litres for food delivery.
+A 422 mm flat floor (Honda Vario 160) or the FreeGo and Latte flat decks take a box between your feet without a rack - [the flat-floor explainer]({{ '/articles/flat-floor-scooters-explained/' | relative_url }}) covers why this matters more than litres for food delivery.
 
 ## Fuel economy: verified running costs
 
@@ -36,7 +36,7 @@ Yamaha Gear 125 Hybrid leads with 1.7 L/100km published, then Yamaha Latte 1.80,
 
 ## Weight and durability
 
-Lighter bikes win in constant stop-start: Gear 96 kg, Janus 97 kg, Latte and FreeGo 100 kg. High-usage maintenance discipline matters more than the model - our high-usage maintenance guide covers the schedule delivery riding demands, and payload limits apply once you add box plus cargo.
+Lighter bikes win in constant stop-start: Gear 96 kg, Janus 97 kg, Latte and FreeGo 100 kg. High-usage maintenance discipline matters more than the model - [our high-usage maintenance guide]({{ '/articles/high-usage-delivery-commuter-maintenance/' | relative_url }}) covers the schedule delivery riding demands, and payload limits apply once you add box plus cargo.
 
 ## Renting
 

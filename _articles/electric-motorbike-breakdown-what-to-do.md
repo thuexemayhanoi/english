@@ -19,7 +19,7 @@ sources:
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — 48-hour nationwide on-site warranty, app service requests"
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — battery-swap network and rental support"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: electric-motorbike-warranty-service-vietnam, where-to-charge-electric-motorbike-hanoi, electric-motorbike-battery-replacement-vietnam, electric-motorbike-commuting-hanoi
+internal_link_targets: "electric-motorbike-warranty-service-vietnam, where-to-charge-electric-motorbike-hanoi, electric-motorbike-battery-replacement-vietnam, electric-motorbike-commuting-hanoi, first-ride-electric-motorbike-beginners"
 ---
 
 Most electric "breakdowns" are not breakdowns — they are flat batteries. Triage the two, and the roadside problem shrinks.

@@ -1,7 +1,7 @@
 ---
 title: "Fake or Forged Licence Penalties in Vietnam"
 slug: fake-licence-penalties-vietnam
-description: "Using a forged or tampered motorbike licence in Vietnam is punished in the same band as riding with no licence — 2,000,000-4,000,000 VND up to 125cc and 6,000,000-8,000,000 VND above — with the document confiscated and criminal liability possible."
+description: "A forged motorbike licence in Vietnam is punished like riding with no licence: 2-4 million VND up to 125cc, 6-8 million above, confiscation and possible prosecution."
 category: law-licences
 tags:
   - "forged licence"

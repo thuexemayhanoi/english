@@ -1,7 +1,7 @@
 ---
 title: "Theft and Loss Responsibility on Rental Motorbikes in Hanoi"
 slug: theft-loss-responsibility-rental-motorbike-hanoi
-description: "If a rental motorbike is stolen, the renter carries the loss up to the deposit and possibly beyond the contract terms - prevention is the only real protection. The honest responsibility picture."
+description: "If a rental motorbike is stolen, the renter carries the loss up to the deposit and possibly beyond under the contract. Prevention is the only real protection."
 category: rental
 tags:
   - "theft"

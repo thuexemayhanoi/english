@@ -1,7 +1,7 @@
 ---
 title: "Delivery and Pickup for Monthly Motorbike Rentals"
 slug: delivery-pickup-monthly-rental-hanoi
-description: "How delivery and pickup work for monthly motorbike rentals in Hanoi: what is conditional, what to arrange, and the practical questions to ask before the bike arrives."
+description: "How delivery and pickup work for monthly motorbike rentals in Hanoi: what is conditional, what to arrange, and the questions to ask before the bike arrives."
 category: monthly-rental
 tags:
   - "delivery"
@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "monthly-motorbike-rental-hanoi, motorbike-rental-pickup-or-delivery-hanoi, motorbike-rental-agreement-long-term-hanoi, monthly-motorbike-rental-requirements-hanoi"
+internal_link_targets: "monthly-motorbike-rental-hanoi, motorbike-rental-pickup-or-delivery-hanoi, motorbike-rental-agreement-long-term-hanoi, monthly-motorbike-rental-requirements-hanoi, english-teachers-monthly-motorbike-hanoi"
 ---
 
 For a month-long rental, delivery of the bike to your door saves a trip to Long Bien — but delivery in Hanoi is always conditional, never a guaranteed standard service.

@@ -1,5 +1,5 @@
 ---
-title: "ABS on Underbones in Vietnam: What Is Actually Available, Verified"
+title: "ABS on Underbones in Vietnam: What Is Actually Available"
 slug: abs-on-underbones-vietnam-explained
 description: "Which Vietnamese underbones offer ABS or disc brakes, from official manufacturer data - and why the feature list is thinner than scooter brochures suggest."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: disc-vs-drum-brakes-motorbike, yamaha-exciter-155-vva-review, emergency-braking-motorbike-vietnam, which-scooters-have-abs-vietnam, best-150cc-manual-motorbikes-vietnam-verified, brake-checks-motorbike-vietnam
+internal_link_targets: "disc-vs-drum-brakes-motorbike, yamaha-exciter-155-vva-review, emergency-braking-motorbike-vietnam, which-scooters-have-abs-vietnam, best-150cc-manual-motorbikes-vietnam-verified, brake-checks-motorbike-vietnam, euro-emissions-underbones-vietnam"
 ---
 
 Anti-lock brakes arrived on Vietnamese scooters years ago, but the underbone world is more conservative. Here is exactly what the manufacturers publish (retrieved 23 September 2026) - and no more.
@@ -32,7 +32,7 @@ Discs, mostly front-only. The Sirius RC pairs a front hydraulic disc with a rear
 
 ## Does it matter?
 
-ABS prevents locked-wheel falls under panic braking - most relevant on wet Hanoi paint lines and mountain descents. In the underbone class, the practical substitutes are technique (our emergency-braking guide) and maintenance (the brake-checks basics), because most of the fleet you can rent or buy cheaply will have no ABS.
+ABS prevents locked-wheel falls under panic braking - most relevant on wet Hanoi paint lines and mountain descents. In the underbone class, the practical substitutes are technique ([our emergency-braking guide]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }})) and maintenance (the brake-checks basics), because most of the fleet you can rent or buy cheaply will have no ABS.
 
 ## Rental context
 

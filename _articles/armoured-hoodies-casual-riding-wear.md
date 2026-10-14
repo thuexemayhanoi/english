@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "body-armour-motorbike-riders, riding-jacket-vietnam-climate, riding-gear-budget-priority-vietnam, what-to-wear-riding-motorbike-vietnam"
+internal_link_targets: "body-armour-motorbike-riders, riding-jacket-vietnam-climate, riding-gear-budget-priority-vietnam, what-to-wear-riding-motorbike-vietnam, base-layers-hot-humid-riding"
 ---
 
 The main reason riders in Vietnam ride unprotected is that protection looks like protection — big textile jackets that mark you as a tourist and cook you at noon. Armoured hoodies and other casual-look riding wear attack that problem directly: gear that passes as normal clothing.

@@ -1,7 +1,7 @@
 ---
 title: "VinFast Electric Scooter Lineup in Vietnam Explained"
 slug: vinfast-electric-scooter-lineup-vietnam
-description: "The VinFast electric two-wheeler lineup explained from official data: Evo, Evo Lite, Feliz II, Viper and Amio - power, speed, range, licence class and swap economics."
+description: "The VinFast electric two-wheeler lineup from official data: Evo, Evo Lite, Feliz II, Viper and Amio, with power, speed, range, licence class and swap economics."
 category: electric
 tags:
   - "vinfast"

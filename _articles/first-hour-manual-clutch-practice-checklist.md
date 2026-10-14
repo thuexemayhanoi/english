@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: how-to-ride-manual-clutch-motorbike-vietnam, clutch-control-friction-zone-practice, where-to-practise-riding-hanoi, how-long-to-learn-manual-motorbike, manual-motorbike-rental-checklist-hanoi
+internal_link_targets: "how-to-ride-manual-clutch-motorbike-vietnam, clutch-control-friction-zone-practice, where-to-practise-riding-hanoi, how-long-to-learn-manual-motorbike, manual-motorbike-rental-checklist-hanoi, scooter-to-manual-clutch-transition"
 ---
 
 One focused hour in a quiet space teaches more than a week of nervous commuting. Work through this checklist in order — do not move to the next item until the current one feels boring.

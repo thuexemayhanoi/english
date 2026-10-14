@@ -1,7 +1,7 @@
 ---
 title: "What Is Included in a Hanoi Motorbike Rental?"
 slug: what-is-included-motorbike-rental-hanoi
-description: "A Hanoi motorbike rental includes the bike, its registration papers, basic maintenance by the owner, and normally helmets - it does not include rider insurance, fuel or a published delivery fee. The full picture."
+description: "A Hanoi motorbike rental includes the bike, registration papers, basic maintenance and usually helmets. Not included: rider insurance, fuel or delivery fees."
 category: rental
 tags:
   - "what is included"
@@ -32,7 +32,7 @@ What the price buys and what it does not is the question that prevents surprises
 
 ## Not included
 
-- Rider insurance. The vehicle carries compulsory third-party cover for damage the bike does to others; it does not cover your injuries or your liability beyond its limits. Nguyen Tu does not provide motorbike insurance - customers arrange their own. The insurance article explains the split.
+- Rider insurance. The vehicle carries compulsory third-party cover for damage the bike does to others; it does not cover your injuries or your liability beyond its limits. Nguyen Tu does not provide motorbike insurance - customers arrange their own. [The insurance article]({{ '/articles/is-insurance-included-motorbike-rental-hanoi/' | relative_url }}) explains the split.
 - Fuel. The bike comes with an agreed fuel level and goes back at the agreed level - the fuel article explains the conventions.
 - Consumables in some situations: inner tubes and tyres can be the renter's responsibility depending on the situation - a puncture from a nail is a different conversation from a worn tyre the bike arrived with.
 - A fixed delivery fee. Delivery in Hanoi may be available, arranged case by case.

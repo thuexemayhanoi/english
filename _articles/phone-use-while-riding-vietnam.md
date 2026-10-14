@@ -1,7 +1,7 @@
 ---
 title: "Using a Phone While Riding in Vietnam"
 slug: phone-use-while-riding-vietnam
-description: "Using a phone while riding a motorbike in Vietnam costs 800,000-1,000,000 VND under Article 7(4) of Decree 168/2024/NĐ-CP — including navigation in hand. What is banned, what is not, and how riders handle it."
+description: "Using a phone while riding in Vietnam costs 800,000-1,000,000 VND under Article 7(4) of Decree 168/2024, navigation in hand included. What is banned, what is not."
 category: law-licences
 tags:
   - "phone"

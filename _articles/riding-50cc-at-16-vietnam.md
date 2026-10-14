@@ -1,7 +1,7 @@
 ---
 title: "Riding a 50cc Motorbike at 16 in Vietnam: Age Rules Explained"
 slug: riding-50cc-at-16-vietnam
-description: "The exact legal position for 16- and 17-year-olds on 50cc bikes in Vietnam: no licence but minimum age 16, school training under Decree 151/2024, helmet and insurance duties, and fines for over-50cc riding."
+description: "16- and 17-year-olds on 50cc bikes in Vietnam: no licence but a minimum age of 16, training under Decree 151/2024, helmet and insurance duties."
 category: 50cc
 tags:
   - "50cc"
@@ -38,14 +38,14 @@ A 110cc Wave, a 125cc scooter, anything with a manual clutch and a bigger engine
 
 ## The school training question
 
-Decree 151/2024/NĐ-CP organises road-safety knowledge and safe-moped-riding skills training for high-school and vocational students. What it does not do is create a universal certificate requirement: traffic police have publicly clarified that 16-to-18-year-olds may ride mopeds, including electric mopeds up to 4 kW, without a licence or certificate, with the training operating through schools. Our training article explains what the programme actually teaches.
+Decree 151/2024/NĐ-CP organises road-safety knowledge and safe-moped-riding skills training for high-school and vocational students. What it does not do is create a universal certificate requirement: traffic police have publicly clarified that 16-to-18-year-olds may ride mopeds, including electric mopeds up to 4 kW, without a licence or certificate, with the training operating through schools. [Our training article]({{ '/articles/50cc-training-high-school-vietnam/' | relative_url }}) explains what the programme actually teaches.
 
 ## The duties that come with the key
 
-At 16 the rider carries the same obligations as any adult: a fastened, standard-compliant helmet; no alcohol; lights, lanes, and signals obeyed; the moped kept roadworthy. Insurance is compulsory for the vehicle. Parents handing over a bike are handing over legal responsibilities, not just keys — our parents' guide covers the decision honestly.
+At 16 the rider carries the same obligations as any adult: a fastened, standard-compliant helmet; no alcohol; lights, lanes, and signals obeyed; the moped kept roadworthy. Insurance is compulsory for the vehicle. Parents handing over a bike are handing over legal responsibilities, not just keys — [our parents' guide]({{ '/articles/buying-50cc-for-your-teenager-vietnam/' | relative_url }}) covers the decision honestly.
 
 ## Practical advice (not legal advice)
 
-Start with supervised rides on quiet streets before joining rush hour; wear gear, not just a helmet; and pick a bike the rider can put both feet down on. The licence article is the canonical statement of the rules on this hub.
+Start with supervised rides on quiet streets before joining rush hour; wear gear, not just a helmet; and pick a bike the rider can put both feet down on. [The licence article]({{ '/articles/50cc-licence-vietnam/' | relative_url }}) is the canonical statement of the rules on this hub.
 
 *Information, not legal advice. Verified against the full text of Law 36/2024/QH15 and Decree 168/2024/NĐ-CP on 2026-09-24.*

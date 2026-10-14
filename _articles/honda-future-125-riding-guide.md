@@ -1,5 +1,5 @@
 ---
-title: "Honda Future 125 FI: A Rider's Guide to Vietnam's Premium Commuter Underbone"
+title: "Honda Future 125 FI Riding Guide: Vietnam's Premium Commuter"
 slug: honda-future-125-riding-guide
 description: "Riding the Honda Future 125 FI on verified Honda Vietnam specs: the roomiest mainstream semi-auto underbone, its gearing, economy and daily-use character."
 category: manual-clutch
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn — Honda Vietnam model detail pages, official specifications (recorded in docs/MODEL-DATABASE.md, retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-future-125-vs-honda-wave-rsx, honda-future-125-vs-yamaha-sirius, honda-wave-rsx-commuting-guide, when-to-shift-gears-underbone, best-underbones-hanoi-commuting-verified
+internal_link_targets: "honda-future-125-vs-honda-wave-rsx, honda-future-125-vs-yamaha-sirius, honda-wave-rsx-commuting-guide, when-to-shift-gears-underbone, best-underbones-hanoi-commuting-verified, riding-honda-super-cub-c125-vietnam"
 ---
 
 The Future 125 FI is the biggest-selling "premium" semi-auto underbone in Vietnam — the one families choose when they want more room, more features and more presence than a Wave, without leaving the xe so format. Honda Vietnam's current page lists it in three versions from 30,622,909 VND, and every figure below comes from that official page (recorded in our model database, retrieved 2026-09-23).

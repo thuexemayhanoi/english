@@ -1,5 +1,5 @@
 ---
-title: "Underbone Tyre Sizes Explained: Reading 70/90-17 on a Vietnamese Bike"
+title: "Underbone Tyre Sizes Explained: Reading 70/90-17"
 slug: underbone-tyre-sizes-explained
 description: "What underbone tyre size markings mean, the verified sizes on Vietnam’s bikes, and where tubes still matter on 17-inch wheels."
 category: motorcycles
@@ -28,8 +28,8 @@ Every underbone in Vietnam wears the same wheel diameter but not the same rubber
 
 ## Tubes: still standard on the workhorse class
 
-Yamaha's Sirius page specifies tyres with inner tubes; the Exciter runs tubeless. Honda's pages publish sizes without tube claims. Practically, the traditional laced/spoked underbone wheel needs a tube - our inner-tubes-versus-tubeless guide covers the puncture-behaviour difference, which matters at Hanoi speeds.
+Yamaha's Sirius page specifies tyres with inner tubes; the Exciter runs tubeless. Honda's pages publish sizes without tube claims. Practically, the traditional laced/spoked underbone wheel needs a tube - [our inner-tubes-versus-tubeless guide]({{ '/articles/inner-tubes-vs-tubeless-motorbike/' | relative_url }}) covers the puncture-behaviour difference, which matters at Hanoi speeds.
 
 ## What the sizes mean for you
 
-Rear 80/90-17 gives the classic underbone contact patch - narrow, cheap, long-lasting, and quick to steer. The 120/70 and 130/70 sport rears add grip and stability at the cost of price and drag in traffic. Whatever you run, replacement intervals are riding-condition questions: our tyre-care guide covers wear signs, and punctures on rental bikes have their own procedure. Contact us to confirm current availability of any model class.
+Rear 80/90-17 gives the classic underbone contact patch - narrow, cheap, long-lasting, and quick to steer. The 120/70 and 130/70 sport rears add grip and stability at the cost of price and drag in traffic. Whatever you run, replacement intervals are riding-condition questions: [our tyre-care guide]({{ '/articles/tyre-care-motorbike-vietnam/' | relative_url }}) covers wear signs, and punctures on rental bikes have their own procedure. Contact us to confirm current availability of any model class.

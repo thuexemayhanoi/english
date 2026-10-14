@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general electrical guidance, no invented values"
-internal_link_targets: "lights-and-electrical-checks-motorbike, wiring-connectors-humidity-motorbike, motorbike-rider-toolkit-essentials, visibility-riding-motorbike-vietnam"
+internal_link_targets: "lights-and-electrical-checks-motorbike, wiring-connectors-humidity-motorbike, motorbike-rider-toolkit-essentials, visibility-riding-motorbike-vietnam, rear-brake-locking-motorbike"
 ---
 
 A dead brake light is one of the most dangerous small failures on a motorbike: everyone behind you loses your main signal that you are slowing. Indicators matter almost as much in traffic where eye contact is the primary language.

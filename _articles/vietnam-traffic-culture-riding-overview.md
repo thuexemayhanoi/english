@@ -33,11 +33,11 @@ Western traffic runs on priority: lights, lanes, and who has the right of way. V
 
 ## The unwritten rules, written down
 
-1. **The horn is turn-signal, mirror and handshake.** A short beep is "I am here" — not anger. Long beeps mean "I am big and cannot stop." Read our horn etiquette guide before flinching your way through day one.
+1. **The horn is turn-signal, mirror and handshake.** A short beep is "I am here" — not anger. Long beeps mean "I am big and cannot stop." Read [our horn etiquette guide]({{ '/articles/horn-etiquette-motorbike-vietnam/' | relative_url }}) before flinching your way through day one.
 2. **Bigger vehicles have the right of physics.** Buses and lorries cannot negotiate their width; the burden of geometry is on you. Never sit beside a turning bus's rear wheel.
 3. **Space is shared, not owned.** Riding two-abreast, filtering between lorries, using the wrong lane to pass — normal, not aggressive. Lanes are suggestions where painted at all.
 4. **Speed is the real variable.** The system is safe at city speeds and lethal at highway ones. Locals go slower than they look like they are going; match them.
-5. **Lights at night are partial.** Unlit bikes, pedestrians in dark clothing, and buffalo share rural roads — our night-riding guide is the companion read for a reason.
+5. **Lights at night are partial.** Unlit bikes, pedestrians in dark clothing, and buffalo share rural roads — [our night-riding guide]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}) is the companion read for a reason.
 6. **The u-turn is a national institution.** Vehicles u-turn anywhere plausible; assume the bike ahead of you might, and check your mirror before you commit to a pass.
 7. **Rain changes everything for twenty minutes.** Everyone slows, ponchos balloon, visors fog. The first half hour after rain is the highest-risk window — our wet-surfaces guide explains the why.
 

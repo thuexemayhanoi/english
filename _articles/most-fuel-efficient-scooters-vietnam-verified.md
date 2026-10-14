@@ -1,5 +1,5 @@
 ---
-title: "The Most Fuel-Efficient Scooters in Vietnam: Verified Figures Ranked"
+title: "Most Fuel-Efficient Scooters in Vietnam: Verified Figures Ranked"
 slug: most-fuel-efficient-scooters-vietnam-verified
 description: "Every manufacturer-published fuel economy figure for current Vietnamese scooters, ranked from 1.7 to 2.34 L/100 km - what the numbers mean and what they miss."
 category: scooters

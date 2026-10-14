@@ -1,5 +1,5 @@
 ---
-title: "Electric Start Problems: Starter Motors and Clicks That Go Nowhere"
+title: "Electric Start Problems: Starter Motors and Clicks"
 slug: electric-start-starter-motor-problems
 description: "Press the button and hear nothing but a click? Starter motor, solenoid, battery or wiring — diagnosing no-start symptoms."
 category: maintenance
@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented electrical values"
-internal_link_targets: "dead-battery-motorbike-vietnam, charging-system-stator-basics-motorbike, battery-care-motorbike-vietnam, cold-start-motorbike-winter-vietnam"
+internal_link_targets: "dead-battery-motorbike-vietnam, charging-system-stator-basics-motorbike, battery-care-motorbike-vietnam, cold-start-motorbike-winter-vietnam, ignition-switch-problems-motorbike"
 ---
 
 The electric start button is wonderful until the day it produces a click, a whirr, or nothing. On Vietnamese bikes the cause is almost always one of four things, and the click tells you which.

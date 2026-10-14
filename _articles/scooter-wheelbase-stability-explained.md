@@ -1,7 +1,7 @@
 ---
 title: "Scooter Wheelbase and Stability: Verified Figures Explained"
 slug: scooter-wheelbase-stability-explained
-description: "How scooter wheelbase affects stability in Vietnam traffic - verified wheelbase figures for Vision, Latte, Vario, Air Blade, SH Mode, NVX and SH, and what they mean for Hanoi riding."
+description: "How scooter wheelbase affects stability in traffic: verified figures for the Vision, Latte, Vario, Air Blade, SH Mode, NVX and SH."
 category: scooters
 tags:
   - "wheelbase"
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn - Honda VN model pages (Vision, Air Blade, Lead, Sh mode 125, SH160i/125i, Vario 125, Vario 160), official specifications (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn - Yamaha VN model pages (Janus, FreeGo, Grande, Latte, NVX 155), official specifications (retrieved 2026-09-23)"
-internal_link_targets: honda-sh-160-review, yamaha-nvx-155-review, scooter-kerb-weights-vietnam-verified, 16-inch-wheel-scooters-vietnam, scooter-tyre-sizes-explained
+internal_link_targets: "honda-sh-160-review, yamaha-nvx-155-review, scooter-kerb-weights-vietnam-verified, 16-inch-wheel-scooters-vietnam, scooter-tyre-sizes-explained, scooter-warranty-vietnam-explained"
 ---
 
 Two numbers dominate how stable a scooter feels at speed: wheel size (covered in our tyre sizes and 16-inch wheel guides) and wheelbase - the distance between the axle centres. Here is what the verified figures show across the Vietnamese market (manufacturer pages, retrieved 23 September 2026).

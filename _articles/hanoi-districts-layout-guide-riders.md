@@ -1,7 +1,7 @@
 ---
-title: "How Hanoi Is Laid Out for Motorbike Riders: Districts, Ring Roads and Bridges"
+title: "How Hanoi Is Laid Out for Motorbike Riders: Districts and Bridges"
 slug: hanoi-districts-layout-guide-riders
-description: "A rider's mental map of Hanoi: how the former districts fit together, the ring roads, the bridges across the Red River, and how the city's shape changes the way you ride."
+description: "A rider's mental map of Hanoi: how the former districts fit together, the ring roads, the Red River bridges, and how the city's shape changes the way you ride."
 category: hanoi
 tags:
   - "hanoi"
@@ -19,7 +19,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://vietcetera.com/en/a-post-merger-guide-to-hanoi-navigating-vietnams-capital — retrieved 2026-09-24: Hanoi's 30 former district-level units became 126 wards and communes under Vietnam's July 2025 administrative restructuring"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address and opening hours only"
-internal_link_targets: crossing-hanoi-bridges-motorbike, best-motorbike-for-hanoi-traffic, where-to-park-motorbike-hanoi, hanoi-motorbike-commute-corridors, long-bien-area-guide-riders, tay-ho-west-lake-area-guide-riders, exploring-hoan-kiem-by-motorbike
+internal_link_targets: "crossing-hanoi-bridges-motorbike, best-motorbike-for-hanoi-traffic, where-to-park-motorbike-hanoi, hanoi-motorbike-commute-corridors, long-bien-area-guide-riders, tay-ho-west-lake-area-guide-riders, exploring-hoan-kiem-by-motorbike, ha-dong-area-guide-riders, hanoi-2025-administrative-restructuring-riders"
 ---
 
 Hanoi rewards riders who understand its shape. Once you can picture the city's skeleton — the Red River, the lakes, the ring roads and the bridges — every trip becomes simpler, and the traffic starts to make sense as a system rather than chaos.

@@ -1,7 +1,7 @@
 ---
 title: "Vietnam Motorbike Licence for Long-Term Expats"
 slug: expat-motorbike-licence-vietnam
-description: "Long-term expats in Vietnam should move from an IDP to a Vietnamese motorbike licence: exchange a valid national licence under Circular 12/2025 with 3+ months residence, or sit the A1 test — here is how to choose."
+description: "Long-term expats should swap an IDP for a Vietnamese motorbike licence: exchange a national licence under Circular 12/2025 with 3+ months residence."
 category: law-licences
 tags:
   - "expats"

@@ -1,7 +1,7 @@
 ---
 title: "Speed Limits for Motorbikes in Vietnam"
 slug: motorbike-speed-limits-vietnam
-description: "Motorbike speed limits in Vietnam under Circular 31/2019/TT-BGTVT: 60 km/h on urban dual carriageways, 50 km/h on narrower urban roads, 40 km/h for mopeds, with speeding fines from 400,000 VND to 8 million VND under Decree 168."
+description: "Motorbike speed limits in Vietnam: 60 km/h on urban dual carriageways, 50 km/h on narrower urban roads, 40 km/h for mopeds (Circular 31/2019)."
 category: law-licences
 tags:
   - "speed limits"

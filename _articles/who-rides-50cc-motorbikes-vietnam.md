@@ -1,7 +1,7 @@
 ---
 title: "Who Rides 50cc Motorbikes in Vietnam? The Real Audiences"
 slug: who-rides-50cc-motorbikes-vietnam
-description: "Five real groups ride sub-50cc bikes in Vietnam: 16–17 year olds, short-commute adults, learners, visitors without licences and collectors of grey-import Japanese 50s. What each group needs."
+description: "Who rides sub-50cc bikes in Vietnam: 16-17-year-olds, short-commute adults, learners, unlicensed visitors and collectors of Japanese grey imports."
 category: 50cc
 tags:
   - "50cc"
@@ -24,7 +24,7 @@ A category survives for decades only if real people keep needing it. Five distin
 
 ## 16-to-17-year-olds
 
-The law is the reason: a moped of 50cc or less needs no licence and the minimum age is 16, while an A1 licence for bigger bikes arrives at 18. For two school years, a 50cc is the only legal motorised option — our age-rules article covers the exact conditions and the school training programme.
+The law is the reason: a moped of 50cc or less needs no licence and the minimum age is 16, while an A1 licence for bigger bikes arrives at 18. For two school years, a 50cc is the only legal motorised option — [our age-rules article]({{ '/articles/riding-50cc-at-16-vietnam/' | relative_url }}) covers the exact conditions and the school training programme.
 
 ## Short-commute adults
 
@@ -40,7 +40,7 @@ Tourists and short-stay expats who do not hold a licence valid for Vietnamese mo
 
 ## Collectors and style riders
 
-A small but visible scene collects Japanese-market 50s — Honda Today, Dunk, Scoopy and similar — imported privately, precisely because they were never officially sold here. For that group the bike is a hobby first and transport second; the grey-import guide explains the market and its paperwork pitfalls.
+A small but visible scene collects Japanese-market 50s — Honda Today, Dunk, Scoopy and similar — imported privately, precisely because they were never officially sold here. For that group the bike is a hobby first and transport second; [the grey-import guide]({{ '/articles/grey-import-50cc-vietnam/' | relative_url }}) explains the market and its paperwork pitfalls.
 
 ## What every group shares
 

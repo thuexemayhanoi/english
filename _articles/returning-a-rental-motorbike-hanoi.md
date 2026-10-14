@@ -1,7 +1,7 @@
 ---
 title: "How Returning a Rental Motorbike in Hanoi Works"
 slug: returning-a-rental-motorbike-hanoi
-description: "Returning a rental motorbike in Hanoi is a ten-minute walk-around: condition check against your handover photos, fuel level, paperwork, deposit back in cash. Here is what happens."
+description: "Returning a rental motorbike in Hanoi is a ten-minute walk-around: condition check against your handover photos, fuel level, paperwork, and the deposit back in cash."
 category: rental
 tags:
   - "return"
@@ -43,7 +43,7 @@ If the bike matches, the deposit comes back on the spot, normally in cash. Count
 
 ## Early and late
 
-- Handing back early does not automatically create a refund - unused days are the shop's discretion, not your entitlement. The early-return article covers it.
+- Handing back early does not automatically create a refund - unused days are the shop's discretion, not your entitlement. [The early-return article]({{ '/articles/early-return-rental-motorbike-hanoi/' | relative_url }}) covers it.
 - Late is charged by the hour (20,000 VND per hour at Nguyen Tu, with a full additional rental day - typically 150,000-200,000 VND - possibly charged beyond six hours). If you know you will be late, message ahead; shops are reasonable about planned extensions they hear about in advance.
 
 Done right, the return is the anticlimax it should be: photos, fuel, handshake, cash.

@@ -1,7 +1,7 @@
 ---
 title: "Electric Motorbikes for Older Riders in Vietnam"
 slug: electric-motorbike-older-riders-vietnam
-description: "Why electric motorbikes often suit older riders in Vietnam: no clutch or kickstart, low step-through frames, lighter controls — plus balance, charging and licence notes."
+description: "Why electric motorbikes suit many older riders in Vietnam: no clutch or kickstart, low step-through frames and light controls, plus balance."
 category: electric
 tags:
   - "electric motorbike"

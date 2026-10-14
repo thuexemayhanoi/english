@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "riding-jacket-vietnam-climate, rider-footwear-motorbike-vietnam, what-to-wear-riding-motorbike-vietnam, motorbike-accident-first-aid-vietnam"
+internal_link_targets: "riding-jacket-vietnam-climate, rider-footwear-motorbike-vietnam, what-to-wear-riding-motorbike-vietnam, motorbike-accident-first-aid-vietnam, armoured-hoodies-casual-riding-wear, ce-armour-certification-explained, offroad-riding-gear-basics, riding-gear-sizing-fit-foreign-riders"
 ---
 
 Not every rider will wear a riding jacket to work in Hanoi's heat. Enter the quiet compromise that tropical riders have adopted worldwide: impact armour — certified elbow, knee, shoulder, spine and hip protectors — worn under ordinary clothes. Nobody sees it; the pavement does not care what it looks like.

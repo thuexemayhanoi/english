@@ -1,7 +1,7 @@
 ---
 title: "Best Motorbike for Expats Living in Hanoi"
 slug: best-motorbike-for-expats-hanoi
-description: "Expats in Hanoi need a reliable monthly-rental scooter, a sorted licence and a maintenance arrangement - the Vision, Click and Mio class, with the buy-or-rent decision at the one-year mark."
+description: "Expats in Hanoi need a reliable monthly-rental scooter, a sorted licence and a maintenance arrangement: the Vision, Click and Mio class."
 category: rental
 tags:
   - "expats"
@@ -36,7 +36,7 @@ Rent monthly from a shop that maintains its fleet: oil changes, chain adjustment
 
 ## The one-year decision
 
-Somewhere around the twelve-month mark, renting and buying converge (the renting-versus-buying article has the arithmetic). If you buy: register the transfer properly - riding a bike still papers-in-the-seller's-name is a serious fine band - and budget for maintenance you now own. If you stay renting: negotiate the long-term rate and keep the arrangement simple.
+Somewhere around the twelve-month mark, renting and buying converge ([the renting-versus-buying article]({{ '/articles/renting-vs-buying-a-motorbike-hanoi/' | relative_url }}) has the arithmetic). If you buy: register the transfer properly - riding a bike still papers-in-the-seller's-name is a serious fine band - and budget for maintenance you now own. If you stay renting: negotiate the long-term rate and keep the arrangement simple.
 
 ## The expat-specific habits
 

@@ -24,7 +24,7 @@ Honda sells two 110-class Waves in Vietnam, and from the outside they look nearl
 
 ## The core difference
 
-The Wave Alpha is the entry point: 109.2 cc, air-cooled, 6.12 kW at 7,500 rpm and 8.44 Nm at 5,500 rpm, electric start, a 3.7-litre tank and a manufacturer list price of 18,841,091 VND. The Wave RSX sits above it: the same 109.2 cc capacity but with Honda's PGM-FI electronic fuel injection, more power (6.46 kW at 7,500 rpm), more torque (8.70 Nm at 6,000 rpm), a bigger 4.0-litre tank and a list price of 25,664,727 VND. Both use a four-speed rotary gearbox with no clutch lever - the semi-automatic format our scooter-versus-semi-automatic guide covers in detail.
+The Wave Alpha is the entry point: 109.2 cc, air-cooled, 6.12 kW at 7,500 rpm and 8.44 Nm at 5,500 rpm, electric start, a 3.7-litre tank and a manufacturer list price of 18,841,091 VND. The Wave RSX sits above it: the same 109.2 cc capacity but with Honda's PGM-FI electronic fuel injection, more power (6.46 kW at 7,500 rpm), more torque (8.70 Nm at 6,000 rpm), a bigger 4.0-litre tank and a list price of 25,664,727 VND. Both use a four-speed rotary gearbox with no clutch lever - the semi-automatic format [our scooter-versus-semi-automatic guide]({{ '/articles/scooter-vs-semi-automatic-hanoi/' | relative_url }}) covers in detail.
 
 ## Fuel economy
 

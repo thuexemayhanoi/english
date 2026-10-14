@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "hot-weather-riding-motorbike-vietnam, hydration-long-motorbike-rides, riding-jacket-vietnam-climate, what-to-wear-riding-motorbike-vietnam"
+internal_link_targets: "hot-weather-riding-motorbike-vietnam, hydration-long-motorbike-rides, riding-jacket-vietnam-climate, what-to-wear-riding-motorbike-vietnam, cleaning-waterproof-riding-gear"
 ---
 
 Wearing an extra layer in 35-degree heat sounds absurd until you understand what a base layer does: it moves sweat off your skin. On a motorbike in Vietnam’s humidity, sweat management is not comfort vanity — a soaked back under a jacket turns every stop into a fever chill and every long ride into a fatigue problem.

@@ -39,7 +39,7 @@ A visit of one to two hours is enough. If the day has room, combine it with the 
 
 ## Carrying silk
 
-Silk packs small and weighs nothing, which makes this the ideal shopping ride — everything fits in a backpack or under the seat. If you buy fabric by the metre in quantity, fold it flat and keep it out of the chain side; silk and chain grease do not mix. The luggage guide has the general rules for strapping anything larger.
+Silk packs small and weighs nothing, which makes this the ideal shopping ride — everything fits in a backpack or under the seat. If you buy fabric by the metre in quantity, fold it flat and keep it out of the chain side; silk and chain grease do not mix. [The luggage guide]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}) has the general rules for strapping anything larger.
 
 ## When to go
 

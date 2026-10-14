@@ -1,5 +1,5 @@
 ---
-title: "Hung Kings Temple by Motorbike: Riding to the Nation’s Founding Site in Phu Tho"
+title: "Hung Kings Temple by Motorbike: The Ride to Phu Tho From Hanoi"
 slug: hung-kings-temple-phu-tho-motorbike-trip
 description: "Riding from Hanoi to the Hung Kings Temple complex on Nghia Linh mountain in Phu Tho: the route past Viet Tri, the climb, and the Ancestor’s Day festival."
 category: trips
@@ -21,7 +21,7 @@ sources:
   - "https://www.vietnamonline.com/attraction/hung-king-temples-complex.html — the complex sits on Nghia Linh mountain in Hy Cuong commune, Viet Tri city, Phu Tho, roughly 90 km from Hanoi, retrieved 2026-09-24"
   - "https://www.asiakingtravel.com/attraction/hung-kings-temple — the temple complex on Nghia Linh mountain in Viet Tri, about 90 km from Hanoi, a sacred site dedicated to the legendary founders of Vietnam, retrieved 2026-09-24"
   - "https://vietnamoriginal-travel.com/news/phu-tho-province-vietnam-the-best-travel-guide — Phu Tho province with its capital Viet Tri lies about 80–90 km northwest of Hanoi, between the capital and Noi Bai airport, retrieved 2026-09-24"
-internal_link_targets: best-motorbike-for-day-trips-from-hanoi, hanoi-pagodas-temples-motorbike-guide, riding-fatigue-motorbike-vietnam, motorbikes-on-expressway-vietnam, how-to-rent-a-motorbike-hanoi
+internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, hanoi-pagodas-temples-motorbike-guide, riding-fatigue-motorbike-vietnam, motorbikes-on-expressway-vietnam, how-to-rent-a-motorbike-hanoi, nui-coc-lake-thai-nguyen-motorbike-ride"
 ---
 
 The Hung Kings Temple complex on Nghia Linh mountain in Phu Tho province is where Vietnam honours its legendary founders — the destination of the country’s biggest ancestral pilgrimage on the tenth day of the third lunar month. It is about 90 kilometres northwest of Hanoi: a solid half-day-plus ride, and one of the most meaningful long day trips from the capital.

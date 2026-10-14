@@ -1,7 +1,7 @@
 ---
-title: "Tam Dao vs Ba Vi: Which Mountain Day Trip From Hanoi Should You Ride?"
+title: "Tam Dao vs Ba Vi: Which Mountain Day Trip From Hanoi to Ride?"
 slug: tam-dao-vs-ba-vi-day-trip
-description: "Comparing the two big mountain day trips from Hanoi — Tam Dao’s hill town versus Ba Vi’s national park forest — on riding distance, difficulty, scenery and who each suits."
+description: "Hanoi's two big mountain day trips compared, Tam Dao's hill town versus Ba Vi's national park forest, on riding distance, difficulty, scenery and who each suits."
 category: trips
 tags:
   - "tam dao"

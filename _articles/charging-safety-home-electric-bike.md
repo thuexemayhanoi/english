@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — LFP battery chemistry choice for safety"
   - "General lithium-battery charging safety guidance; charger pairing and ventilation per manufacturer documentation"
-internal_link_targets: charging-electric-motorbike-at-home-vietnam, electric-motorbike-battery-lifespan-vietnam, washing-electric-motorbike-safely, storing-electric-motorbike-long-breaks
+internal_link_targets: "charging-electric-motorbike-at-home-vietnam, electric-motorbike-battery-lifespan-vietnam, washing-electric-motorbike-safely, storing-electric-motorbike-long-breaks, e-bikes-with-kids-vietnam"
 ---
 
 Battery fires are rare — and almost always preventable. E-bike charging safety in Vietnam comes down to a handful of habits.

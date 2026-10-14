@@ -1,5 +1,5 @@
 ---
-title: "Honda CBR150R vs Yamaha Exciter 155: Fairing Sport or Naked Underbone?"
+title: "Honda CBR150R vs Yamaha Exciter 155: Faired Sport or Underbone?"
 slug: honda-cbr150r-vs-yamaha-exciter-155
 description: "Honda CBR150R vs Yamaha Exciter 155 VVA compared on verified manufacturer specs - power, cooling, bodywork and riding position."
 category: motorcycles

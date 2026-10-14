@@ -1,5 +1,5 @@
 ---
-title: "Premium Underbones in Vietnam: When an 88-Million-VND Cub Makes Sense"
+title: "Premium Underbones in Vietnam: When an 88-Million Cub Makes Sense"
 slug: premium-underbones-vietnam-verified
 description: "The Super Cub C125 and CT125 are Vietnam’s premium underbones. Verified Honda specs, prices and who the upgrade actually suits."
 category: motorcycles
@@ -36,4 +36,4 @@ Not speed: both are slower than a 46-million-VND Winner R. Not economy: the 30-m
 
 ## Rental context
 
-Neither premium model is a price-published rental class at our counter - contact us to confirm current availability. If your budget is premium-scooter level and your riding is paved-city, our premium scooters guide covers the automatic alternative.
+Neither premium model is a price-published rental class at our counter - contact us to confirm current availability. If your budget is premium-scooter level and your riding is paved-city, [our premium scooters guide]({{ '/articles/premium-scooters-vietnam/' | relative_url }}) covers the automatic alternative.

@@ -1,7 +1,7 @@
 ---
 title: "The West Lake Loop: Hanoi's Classic Motorbike Ride"
 slug: west-lake-loop-motorbike-route
-description: "The full West Lake (Ho Tay) loop by motorbike: route description, distance, where to stop, the Thanh Nien causeway, best times of day and riding tips for the shoreline roads."
+description: "The full West Lake loop by motorbike: route, distance, where to stop, the Thanh Nien causeway, the best times of day and riding tips for the shoreline roads."
 category: hanoi
 tags:
   - "west lake"
@@ -38,7 +38,7 @@ Direction matters less than timing: the loop is short enough that most riders do
 
 ## Riding notes
 
-The shoreline is not a racetrack, and the surface keeps you honest: patches of patched asphalt, bollards, sudden cafe entrances and — the loop's signature hazard — pedestrians stepping backwards into the road to photograph the sunset. On the northern shore, watch for sand drifts after dry, windy days. On the causeway, mind the crosswind gap between the two lakes; a light scooter feels it. In summer, the western glare off the water in the late afternoon is genuinely blinding — the sun-glare guide applies fully here, so ride that stretch before the sun drops low, or with a visor you trust.
+The shoreline is not a racetrack, and the surface keeps you honest: patches of patched asphalt, bollards, sudden cafe entrances and — the loop's signature hazard — pedestrians stepping backwards into the road to photograph the sunset. On the northern shore, watch for sand drifts after dry, windy days. On the causeway, mind the crosswind gap between the two lakes; a light scooter feels it. In summer, the western glare off the water in the late afternoon is genuinely blinding — [the sun-glare guide]({{ '/articles/sun-glare-riding-motorbike-vietnam/' | relative_url }}) applies fully here, so ride that stretch before the sun drops low, or with a visor you trust.
 
 ## Stops worth the parking
 

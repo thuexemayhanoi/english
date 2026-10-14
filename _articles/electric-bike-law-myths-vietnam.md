@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Bao dien tu Chinh phu) — Articles 3, 31, 57, 59"
-internal_link_targets: electric-bike-licence-vietnam, e-bike-helmet-rules-vietnam, why-electric-mopeds-capped-50kmh-vietnam, motorbike-fines-vietnam-overview
+internal_link_targets: "electric-bike-licence-vietnam, e-bike-helmet-rules-vietnam, why-electric-mopeds-capped-50kmh-vietnam, motorbike-fines-vietnam-overview, registering-electric-motorbike-vietnam"
 ---
 
 Electric bikes are new enough that folklore has outrun the law. Here are the myths we hear most often in Hanoi, checked against the Law on Road Traffic Order and Safety (No. 36/2024/QH15).
@@ -37,7 +37,7 @@ Half true, and the wrong half. What decides the class is rated power and design 
 
 ## Myth 4: Slow bikes can ignore helmets
 
-False. Helmets are required for riders and passengers of powered two-wheelers, and enforcement does not exempt mopeds. See our e-bike helmet rules guide.
+False. Helmets are required for riders and passengers of powered two-wheelers, and enforcement does not exempt mopeds. See [our e-bike helmet rules guide]({{ '/articles/e-bike-helmet-rules-vietnam/' | relative_url }}).
 
 ## Myth 5: Electric means no registration duties
 

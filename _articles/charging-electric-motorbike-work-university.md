@@ -46,4 +46,4 @@ The removable-pack rider has it simplest: the pack that charges in the office is
 
 ## When there is no socket at all
 
-Then the swap network is the workplace: V-Green cabinets on the commute route replace the desk socket entirely, and the commuter's guide covers making the whole loop work in Hanoi traffic. Between an office socket and one at home, a mid-range machine barely notices its own range limit.
+Then the swap network is the workplace: V-Green cabinets on the commute route replace the desk socket entirely, and [the commuter's guide]({{ '/articles/electric-motorbike-commuting-hanoi/' | relative_url }}) covers making the whole loop work in Hanoi traffic. Between an office socket and one at home, a mid-range machine barely notices its own range limit.

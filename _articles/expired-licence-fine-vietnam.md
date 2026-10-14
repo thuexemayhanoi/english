@@ -1,7 +1,7 @@
 ---
 title: "Fine for an Expired Motorbike Licence in Vietnam"
 slug: expired-licence-fine-vietnam
-description: "Vietnamese A1, A and B1 motorbike licences never expire, so the expired-licence question for motorbike riders turns on licences that are no longer valid — riding on one is punished as riding with no licence at 2-4 or 6-8 million VND."
+description: "Vietnamese A1, A and B1 motorbike licences never expire; riding on a licence that is no longer valid is punished as riding with no licence, 2-4 or 6-8 million VND."
 category: law-licences
 tags:
   - "expired licence"

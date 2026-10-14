@@ -18,7 +18,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — official model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-air-blade-125-review, honda-vario-125-review, honda-vario-125-vs-honda-lead-125, honda-vision-vs-honda-air-blade, honda-scooter-lineup-vietnam-explained, which-scooters-have-abs-vietnam
+internal_link_targets: "honda-air-blade-125-review, honda-vario-125-review, honda-vario-125-vs-honda-lead-125, honda-vision-vs-honda-air-blade, honda-scooter-lineup-vietnam-explained, which-scooters-have-abs-vietnam, yamaha-freego-125-vs-honda-air-blade-125"
 ---
 
 Honda sells two distinct 125 cc automatics in Vietnam: the established Air Blade 125 and the newer Vario 125. Both are liquid-cooled CVT scooters, but Honda publishes very different amounts of data for them, so this comparison uses only what each official page states (retrieved 23 September 2026) and leaves the rest out.

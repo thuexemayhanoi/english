@@ -1,7 +1,7 @@
 ---
 title: "Do Helmet Rules Apply to 50cc Mopeds in Vietnam?"
 slug: helmet-rules-50cc-mopeds
-description: "Yes: Article 33(2) of Law 36/2024 requires standard-compliant, fastened helmets for moped riders and passengers, with 400,000-600,000 VND fines under Decree 168. Choosing and fitting a helmet for licence-free riders."
+description: "Yes: Article 33(2) of Law 36/2024 requires fastened, standard-compliant helmets for moped riders and passengers, with 400,000-600,000 VND fines under Decree 168."
 category: 50cc
 tags:
   - "50cc"
@@ -41,9 +41,9 @@ The physics do not scale with engine size. A fall at 35 km/h onto a kerb does th
 ## Choosing and fitting
 
 - Buy certified, not decorative. Novelty shells do not satisfy the standard; our helmet-standards article explains the marks to look for.
-- Fit matters more than brand: no wobble, strap snug under the chin, eyes unobstructed — the fit guide covers the checks.
+- Fit matters more than brand: no wobble, strap snug under the chin, eyes unobstructed — [the fit guide]({{ '/articles/helmet-fit-guide-vietnam/' | relative_url }}) covers the checks.
 - A helmet that has taken a hard drop should be replaced, even if it looks fine.
-- Children carried as passengers need child-appropriate helmets — our kids' helmets article covers sizing.
+- Children carried as passengers need child-appropriate helmets — [our kids' helmets article]({{ '/articles/kids-helmets-choosing-vietnam/' | relative_url }}) covers sizing.
 
 ## Rental situations
 

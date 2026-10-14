@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "cold-start-motorbike-winter-vietnam, winter-riding-motorbike-hanoi, riding-gloves-vietnam-climate, checking-motorbike-after-fall-accident"
+internal_link_targets: "cold-start-motorbike-winter-vietnam, winter-riding-motorbike-hanoi, riding-gloves-vietnam-climate, checking-motorbike-after-fall-accident, portable-jump-starter-packs-motorbikes"
 ---
 
 Handguards are standard on trail bikes and rare on Vietnamese city bikes, which is odd, because a rider’s hands are the most exposed part of the body on two wheels: first into the cold air, first into the rain, first into the hedge.

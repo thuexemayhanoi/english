@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-ct125-review, honda-winner-r-review, honda-ct125-vs-honda-super-cub-c125, honda-winner-r-vs-yamaha-exciter-155, best-150cc-manual-motorbikes-vietnam-verified, gravel-roads-motorbike-vietnam
+internal_link_targets: "honda-ct125-review, honda-winner-r-review, honda-ct125-vs-honda-super-cub-c125, honda-winner-r-vs-yamaha-exciter-155, best-150cc-manual-motorbikes-vietnam-verified, gravel-roads-motorbike-vietnam, honda-ct125-vs-yamaha-exciter-155"
 ---
 
 Honda's CT125 and Winner R are both 150-class-ish manual-gearbox machines, but they were drawn for different maps: the CT125 for rough tracks and the Winner R for tarmac. Both specifications are Honda VN official (retrieved 23 September 2026).
@@ -28,7 +28,7 @@ CT125: 123.9 cc, air-cooled, 6.76 kW at 6,250 rpm, 10.9 Nm at 4,750 rpm, four-sp
 
 ## Clearance and capability
 
-CT125: 165 mm ground clearance - the highest of any Honda underbone listed - 800 mm seat, 117 kg, 5.4-litre tank, 80/90-17 tyres front and rear, rack styling. Winner R: 153 mm clearance, 795 mm seat, 124 kg, 4.5 litres. On gravel, potholes and flooded rural tracks the CT125 is the tool; our gravel-road riding guide pairs well with it.
+CT125: 165 mm ground clearance - the highest of any Honda underbone listed - 800 mm seat, 117 kg, 5.4-litre tank, 80/90-17 tyres front and rear, rack styling. Winner R: 153 mm clearance, 795 mm seat, 124 kg, 4.5 litres. On gravel, potholes and flooded rural tracks the CT125 is the tool; [our gravel-road riding guide]({{ '/articles/gravel-roads-motorbike-vietnam/' | relative_url }}) pairs well with it.
 
 ## Economy
 

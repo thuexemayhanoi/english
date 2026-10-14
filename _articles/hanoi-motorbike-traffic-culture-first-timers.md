@@ -17,7 +17,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
-internal_link_targets: defensive-riding-motorbike-vietnam, traffic-at-rush-hour-riding-hanoi, filtering-through-traffic-motorbike-vietnam, horn-etiquette-motorbike-vietnam, new-rider-safety-mistakes-vietnam, riding-hanoi-old-quarter-narrow-streets, old-quarter-one-way-streets-riding
+internal_link_targets: "defensive-riding-motorbike-vietnam, traffic-at-rush-hour-riding-hanoi, filtering-through-traffic-motorbike-vietnam, horn-etiquette-motorbike-vietnam, new-rider-safety-mistakes-vietnam, riding-hanoi-old-quarter-narrow-streets, old-quarter-one-way-streets-riding, hanoi-motorbike-shops-streets-guide"
 ---
 
 New arrivals watch a Hanoi junction — a river of motorbikes flowing around a corner, through each other, somehow without contact — and conclude it is chaos. It is not. Hanoi traffic is one of the most rule-governed systems you will ever ride in; the rules simply are not written on signs. This is the field guide to the unwritten code, because understanding it is what makes your first week safe instead of terrifying.
@@ -28,11 +28,11 @@ Vietnamese traffic law exists and is enforced, but the daily system runs on a co
 
 ## The horn is a language
 
-Hanoi is loud because the horn here is not aggression — it is communication. A short beep means "I am here," spoken into your blind spot; two beeps at a junction mean "I am going"; a long press is the rare genuine complaint. Nobody is angry at you. Learn the vocabulary and use it: announcing yourself into someone's blind spot is good manners here, and silence — gliding up unheard beside a bus — is the genuinely dangerous act. The etiquette guide covers the finer points.
+Hanoi is loud because the horn here is not aggression — it is communication. A short beep means "I am here," spoken into your blind spot; two beeps at a junction mean "I am going"; a long press is the rare genuine complaint. Nobody is angry at you. Learn the vocabulary and use it: announcing yourself into someone's blind spot is good manners here, and silence — gliding up unheard beside a bus — is the genuinely dangerous act. [The etiquette guide]({{ '/articles/horn-etiquette-motorbike-vietnam/' | relative_url }}) covers the finer points.
 
 ## How the junctions actually work
 
-The formal rules are red, amber, green. The working rules: **flow, don't fight.** Traffic streams merge like braided rivers, each rider holding a gap and moving through it. The technique — covered in the filtering guide — is to keep moving at a steady, predictable pace, never fully stopping in the middle of a live junction, and never accelerating unpredictably. Right on red is generally not permitted, but expect locals to roll it — and expect the police campaign of the month to change the enforcement temperature. Follow the local flow and stay humble.
+The formal rules are red, amber, green. The working rules: **flow, don't fight.** Traffic streams merge like braided rivers, each rider holding a gap and moving through it. The technique — covered in the [filtering guide]({{ '/articles/filtering-through-traffic-motorbike-vietnam/' | relative_url }}) — is to keep moving at a steady, predictable pace, never fully stopping in the middle of a live junction, and never accelerating unpredictably. Right on red is generally not permitted, but expect locals to roll it — and expect the police campaign of the month to change the enforcement temperature. Follow the local flow and stay humble.
 
 ## The sidewalk question
 

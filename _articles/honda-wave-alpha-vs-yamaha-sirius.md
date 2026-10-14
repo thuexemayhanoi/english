@@ -18,14 +18,14 @@ sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — Yamaha VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-wave-alpha-110-review, yamaha-sirius-rc-110-review, scooter-vs-semi-automatic-hanoi, how-to-rent-a-motorbike-hanoi, best-110cc-underbones-vietnam-verified
+internal_link_targets: "honda-wave-alpha-110-review, yamaha-sirius-rc-110-review, scooter-vs-semi-automatic-hanoi, how-to-rent-a-motorbike-hanoi, best-110cc-underbones-vietnam-verified, honda-winner-r-vs-yamaha-sirius"
 ---
 
 These are the two classic semi-automatic classes of Vietnamese motorbike rental counters - including ours, where both the Honda Wave and Yamaha Sirius are price-published at 150,000 VND per day. If you are choosing between them for a Hanoi stay, here is what the manufacturers actually publish (all figures retrieved 23 September 2026).
 
 ## Engines and gearboxes
 
-Wave Alpha: 109.2 cc, 6.12 kW at 7,500 rpm, 8.44 Nm at 5,500 rpm, four-speed rotary, electric start. Sirius: 110.3 cc SOHC, 5.9 kW at 8,000 rpm, 9.0 Nm at 5,000 rpm, four-speed rotary with a wet centrifugal clutch. Both are clutch-lever-free semi-automatics - the easiest gearbox format for a first-time rider in Vietnam traffic, and our semi-automatic versus scooter guide explains the trade-offs against a twist-and-go.
+Wave Alpha: 109.2 cc, 6.12 kW at 7,500 rpm, 8.44 Nm at 5,500 rpm, four-speed rotary, electric start. Sirius: 110.3 cc SOHC, 5.9 kW at 8,000 rpm, 9.0 Nm at 5,000 rpm, four-speed rotary with a wet centrifugal clutch. Both are clutch-lever-free semi-automatics - the easiest gearbox format for a first-time rider in Vietnam traffic, and [our semi-automatic versus scooter guide]({{ '/articles/scooter-vs-semi-automatic-hanoi/' | relative_url }}) explains the trade-offs against a twist-and-go.
 
 ## Economy and weight
 

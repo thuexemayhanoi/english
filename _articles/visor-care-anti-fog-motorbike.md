@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "eye-protection-riding-motorbike-vietnam, helmet-care-replacing-guide-vietnam, fog-and-low-visibility-riding-motorbike-vietnam, night-riding-motorbike-safety-vietnam"
+internal_link_targets: "eye-protection-riding-motorbike-vietnam, helmet-care-replacing-guide-vietnam, fog-and-low-visibility-riding-motorbike-vietnam, night-riding-motorbike-safety-vietnam, modular-flip-up-helmets-vietnam, prescription-glasses-under-helmet"
 ---
 
 Full-face and flip-front helmets are the best eye protection money buys — until the visor fogs, and the best protection becomes a white screen. Vietnam's humidity makes visor fogging a daily engineering problem: rain season, winter mornings, and any ride that starts fast enough to make the visor colder than the air.

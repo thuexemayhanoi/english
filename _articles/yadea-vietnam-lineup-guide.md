@@ -47,7 +47,7 @@ The entry cluster (13.9-16 million VND) is the student and errand tier — light
 
 ## What to verify before buying
 
-Yadea publishes prices but full technical specification tables per model were not readable from the automated page view at retrieval — check rated motor power (the 4 kW licence boundary) and real-world range with the dealer before committing, and take a proper test ride. Our first-bike decision guide covers the class questions that matter more than the badge.
+Yadea publishes prices but full technical specification tables per model were not readable from the automated page view at retrieval — check rated motor power (the 4 kW licence boundary) and real-world range with the dealer before committing, and take a proper test ride. [Our first-bike decision guide]({{ '/articles/buying-first-electric-motorbike-vietnam/' | relative_url }}) covers the class questions that matter more than the badge.
 
 ## Where Yadea fits
 

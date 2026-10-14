@@ -1,7 +1,7 @@
 ---
 title: "Renting a Motorbike in Long Bien: What to Know"
 slug: renting-motorbike-long-bien
-description: "Long Bien district for riders: bridge approaches, riverside roads, market traffic, where the Nguyen Tu rental shop sits, and how riding here differs from central Hanoi."
+description: "Long Bien for riders: bridge approaches, riverside roads, market traffic, where the Nguyen Tu rental shop sits, and how riding here differs from central Hanoi."
 category: rental
 tags:
   - "long bien"

@@ -1,7 +1,7 @@
 ---
 title: "Minimum Age to Ride a Motorbike in Vietnam"
 slug: minimum-age-ride-motorbike-vietnam
-description: "Legal minimum ages in Vietnam from 2025: 16 for mopeds (xe gắn máy), 18 for motorbikes requiring an A1 licence, with the fine for riding a motorbike before turning 18 under Decree 168/2024/NĐ-CP."
+description: "Minimum riding ages in Vietnam from 2025: 16 for mopeds (xe gắn máy), 18 for motorbikes needing an A1 licence, plus the under-18 fine under Decree 168/2024/NĐ-CP."
 category: law-licences
 tags:
   - "age"
@@ -22,7 +22,7 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 18(4)(a)"
   - "https://xaydungchinhsach.chinhphu.vn/nghi-dinh-so-238-2026-nd-cp-sua-doi-quy-dinh-xu-phat-vi-pham-giao-thong-duong-bo-tru-diem-phuc-hoi-diem-giay-phep-lai-xe-119260630142033452.htm — Decree 238/2026/NĐ-CP amending Decree 168/2024 (Báo điện tử Chính phủ) — clarified wording on penalising 16-to-under-18 motorbike riders from 15 August 2026"
   - "https://binhphuoc.gov.vn/vi/stp/an-toan-giao-thong/quy-dinh-ve-do-tuoi-duoc-cap-giay-phep-lai-xe-cua-tung-hang-tu-01-01-2025-1920.html — Binh Phuoc Province (gov.vn): licence-class ages under Law 36/2024/QH15, Article 59"
-internal_link_targets: "50cc-licence-vietnam, vietnam-motorbike-licence-classes-explained, a1-licence-vietnam-what-you-can-ride"
+internal_link_targets: "50cc-licence-vietnam, vietnam-motorbike-licence-classes-explained, a1-licence-vietnam-what-you-can-ride, b1-three-wheel-licence-vietnam, motorbike-learner-permit-vietnam, xe-dap-mai-rules-vietnam"
 ---
 
 The legal minimum age depends on the machine, not on how experienced a teenager looks. Under Article 59 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15), which took effect on 1 January 2025, a person must be at least 16 years old to ride a moped (xe gắn máy) and at least 18 years old to hold a class A1 motorbike licence — the licence that covers anything above moped level, up to and including 125 cc.

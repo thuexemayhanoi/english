@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — hand-throttle-controlled Regen Brake system, hydraulic disc brakes front and rear"
   - "https://dat.bike/en/xe-may-dien-weaver-plus-plus-en/ — Dat Bike official Weaver++ page — riding and charging behaviour"
-internal_link_targets: how-electric-motorbikes-work, riding-electric-motorbike-hanoi-rain, electric-motorbike-range-real-world-vietnam, brake-checks-motorbike-vietnam
+internal_link_targets: "how-electric-motorbikes-work, riding-electric-motorbike-hanoi-rain, electric-motorbike-range-real-world-vietnam, brake-checks-motorbike-vietnam, riding-electric-motorbike-hills-bridges-hanoi"
 ---
 
 Regenerative braking — "regen" — is the feature that most changes how an electric motorbike feels in traffic. It is also widely misunderstood, so here is what it actually does.

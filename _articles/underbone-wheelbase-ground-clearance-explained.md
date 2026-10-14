@@ -1,5 +1,5 @@
 ---
-title: "Underbone Wheelbase and Ground Clearance Explained: The Geometry Numbers"
+title: "Underbone Wheelbase and Ground Clearance: The Geometry Numbers"
 slug: underbone-wheelbase-ground-clearance-explained
 description: "Wheelbase and ground clearance of Vietnam’s underbones from manufacturer data - what stability and clearance trade-offs mean for riders."
 category: motorcycles

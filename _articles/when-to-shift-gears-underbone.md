@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: how-to-shift-gears-semi-automatic-underbone, how-to-downshift-smoothly-manual-motorbike, single-cylinder-underbone-engines-explained, underbone-power-torque-explained
+internal_link_targets: "how-to-shift-gears-semi-automatic-underbone, how-to-downshift-smoothly-manual-motorbike, single-cylinder-underbone-engines-explained, underbone-power-torque-explained, semi-auto-carrying-cargo, semi-auto-descending-hills-technique, touring-semi-auto-underbone"
 ---
 
 No underbone has a shift light or a tach worth trusting. Vietnamese riders shift by ear, and after a day of riding you will too. Here is what to listen for.

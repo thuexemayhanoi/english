@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented electrical values"
-internal_link_targets: "charging-system-stator-basics-motorbike, phone-mounts-motorbike-vietnam, battery-care-motorbike-vietnam, wiring-connectors-humidity-motorbike"
+internal_link_targets: "charging-system-stator-basics-motorbike, phone-mounts-motorbike-vietnam, battery-care-motorbike-vietnam, wiring-connectors-humidity-motorbike, water-bottle-holders-motorbike-commuters"
 ---
 
 Navigation drains phones, and navigation is the phone's main job on a motorbike in Vietnam. A power solution on the bike is therefore not a luxury for touring riders — it is daily commuting infrastructure. But electrical accessories on a motorbike are exactly where quality matters most.

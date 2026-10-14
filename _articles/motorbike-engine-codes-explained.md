@@ -1,5 +1,5 @@
 ---
-title: "Motorbike Engine Codes Explained: KC46E, SOHC, DOHC, PGM-FI and Friends"
+title: "Motorbike Engine Codes Explained: KC46E, SOHC, DOHC, PGM-FI"
 slug: motorbike-engine-codes-explained
 description: "What the engine codes and abbreviations on Vietnamese spec sheets mean - KC46E, SOHC, DOHC, VVA, EFI, PGM-FI, eSP, Euro ratings."
 category: motorcycles
@@ -33,15 +33,15 @@ SOHC (single overhead camshaft) drives the valves with one cam; DOHC (double ove
 ## Fuel delivery: PGM-FI and EFI
 
 Both mean electronic fuel injection - PGM-FI
- is Honda's brand name (Wave RSX), EFI is Yamaha's generic term (Exciter 155). Injection meters fuel electronically for cleaner, more efficient running; our PGM-FI guide has the details. Important honesty rule: Honda publishes no fuel system for the Wave Alpha, and Yamaha none for the Sirius - so no claim is made for either.
+ is Honda's brand name (Wave RSX), EFI is Yamaha's generic term (Exciter 155). Injection meters fuel electronically for cleaner, more efficient running; [our PGM-FI guide]({{ '/articles/honda-pgm-fi-explained/' | relative_url }}) has the details. Important honesty rule: Honda publishes no fuel system for the Wave Alpha, and Yamaha none for the Sirius - so no claim is made for either.
 
 ## Valve timing: VVA
 
-Yamaha's Variable Valve Actuation on the Exciter 155 changes valve behaviour across the rev range - covered in depth in our VVA explainer.
+Yamaha's Variable Valve Actuation on the Exciter 155 changes valve behaviour across the rev range - covered in depth in [our VVA explainer]({{ '/articles/yamaha-vva-variable-valve-timing-explained/' | relative_url }}).
 
 ## Efficiency brands: eSP and Blue Core
 
-Honda's eSP (Enhanced Smart Power) and Yamaha's Blue Core are scooter-engine efficiency programmes - our eSP vs Blue Core guide compares them. They appear on the scooter pages, not the underbones.
+Honda's eSP (Enhanced Smart Power) and Yamaha's Blue Core are scooter-engine efficiency programmes - [our eSP vs Blue Core guide]({{ '/articles/esp-vs-blue-core-engines-explained/' | relative_url }}) compares them. They appear on the scooter pages, not the underbones.
 
 ## Emissions: Euro 3 and beyond
 

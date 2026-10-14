@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: battery-draining-overnight-motorbike, kick-vs-electric-start-explained, how-to-shift-gears-semi-automatic-underbone, broken-clutch-cable-motorbike-roadside
+internal_link_targets: "battery-draining-overnight-motorbike, kick-vs-electric-start-explained, how-to-shift-gears-semi-automatic-underbone, broken-clutch-cable-motorbike-roadside, kick-start-technique-underbone"
 ---
 
 A push start (bump start) spins the engine by wheel power instead of the starter motor. It works for a flat battery or a weak starter, on any bike with a manual clutch or a semi-automatic gearbox — but not on an automatic scooter, which has no starting gear connection to the rear wheel.
@@ -38,4 +38,4 @@ Semi-automatics: put it in second or third and simply push and hop on — the ce
 
 ## Safety limits
 
-Never push-start in traffic, on a downhill toward a junction, or with helpers you cannot coordinate. Two people minimum for a bigger bike — one steering, one pushing. If two or three attempts fail, stop: the fault is not the battery. Rental riders should call the rental provider rather than borrowing strangers' bump starts — the battery drain guide covers the likely causes, and roadside help from your provider is the practical first step in Hanoi.
+Never push-start in traffic, on a downhill toward a junction, or with helpers you cannot coordinate. Two people minimum for a bigger bike — one steering, one pushing. If two or three attempts fail, stop: the fault is not the battery. Rental riders should call the rental provider rather than borrowing strangers' bump starts — [the battery drain guide]({{ '/articles/battery-draining-overnight-motorbike/' | relative_url }}) covers the likely causes, and roadside help from your provider is the practical first step in Hanoi.

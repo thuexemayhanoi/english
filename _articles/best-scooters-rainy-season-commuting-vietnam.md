@@ -1,7 +1,7 @@
 ---
 title: "Best Scooters for Rainy-Season Commuting in Vietnam"
 slug: best-scooters-rainy-season-commuting-vietnam
-description: "How to choose a scooter for Vietnam's rainy season using verified brake and tyre data - which models have ABS or CBS, why tyre size and condition matter, and wet-riding essentials."
+description: "Choosing a scooter for Vietnam's rainy season from verified brake and tyre data: which models have ABS or CBS, why tyre size matters, and wet-riding essentials."
 category: scooters
 tags:
   - "rainy season"
@@ -32,7 +32,7 @@ No electronics compensates for worn rubber. Check tread depth monthly in the wet
 
 ## Beyond equipment
 
-Wet-weather safety is mostly technique: our heavy-rain riding guide, after-rain slippery-surfaces article and emergency braking guide cover the skills no purchase replaces. If you ride daily through the season, a scooter with at least front ABS is a genuinely better tool.
+Wet-weather safety is mostly technique: [our heavy-rain riding guide]({{ '/articles/riding-motorbike-heavy-rain-vietnam/' | relative_url }}), after-rain slippery-surfaces article and emergency braking guide cover the skills no purchase replaces. If you ride daily through the season, a scooter with at least front ABS is a genuinely better tool.
 
 ## Renting
 

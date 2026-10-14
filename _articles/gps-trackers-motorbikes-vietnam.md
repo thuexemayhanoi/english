@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "motorbike-alarms-vietnam, disc-locks-chains-motorbike-security, keeping-rental-motorbike-secure-hanoi, theft-loss-responsibility-rental-motorbike-hanoi"
+internal_link_targets: "motorbike-alarms-vietnam, disc-locks-chains-motorbike-security, keeping-rental-motorbike-secure-hanoi, theft-loss-responsibility-rental-motorbike-hanoi, security-marking-kits-motorbike"
 ---
 
 A GPS tracker is the only security device that keeps working after the bike is gone. Locks stop the theft from starting; a tracker tells you where it went. In Vietnamese cities where motorbikes vanish into alley networks and get re-registered in other provinces, that difference is the whole product.

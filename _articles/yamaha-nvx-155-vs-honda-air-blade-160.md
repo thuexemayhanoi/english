@@ -1,7 +1,7 @@
 ---
 title: "Yamaha NVX 155 vs Honda Air Blade 160: Two Ways to Be Fast"
 slug: yamaha-nvx-155-vs-honda-air-blade-160
-description: "Yamaha NVX 155 vs Honda Air Blade 160 compared on verified specs - power, torque, weight, fuel use, ABS and features - the two established sporty commuters in Vietnam."
+description: "Yamaha NVX 155 vs Honda Air Blade 160 on verified specs: power, torque, weight, fuel use, ABS and features. Vietnam's two established sporty commuters compared."
 category: scooters
 tags:
   - "yamaha nvx 155"
@@ -18,7 +18,7 @@ sources:
   - "yamaha-motor.com.vn - Yamaha VN model pages (NVX 155, Latte), official specifications (retrieved 2026-09-23)"
   - "honda.com.vn - Honda VN model page for Air Blade 160, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: yamaha-nvx-155-review, honda-air-blade-160-review, honda-vario-160-vs-yamaha-nvx-155, scooter-kerb-weights-vietnam-verified, which-scooters-have-abs-vietnam
+internal_link_targets: "yamaha-nvx-155-review, honda-air-blade-160-review, honda-vario-160-vs-yamaha-nvx-155, scooter-kerb-weights-vietnam-verified, which-scooters-have-abs-vietnam, yamaha-nmax-155-vs-honda-air-blade-160"
 ---
 
 Before the Vario 160 arrived, this was the sporty-commuter duel in Vietnam: Yamaha's NVX 155 VVA against Honda's Air Blade 160. Both are established, widely ridden, and strong sellers. Figures below come from the official Yamaha Vietnam and Honda Vietnam product pages (retrieved 23 September 2026).

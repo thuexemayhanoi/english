@@ -1,7 +1,7 @@
 ---
 title: "Does Vietnam Have a Motorbike Learner Permit"
 slug: motorbike-learner-permit-vietnam
-description: "No — Vietnam issues no learner permits for motorbike classes. Since 1 September 2025, Circular 14/2025/TT-BXD requires a completed training course at a licensed centre before you sit the A1 or A test."
+description: "No: Vietnam issues no motorbike learner permits. Since 1 September 2025, Circular 14/2025/TT-BXD requires a licensed training course before the A1 or A test."
 category: law-licences
 tags:
   - "learner"

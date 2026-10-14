@@ -1,5 +1,5 @@
 ---
-title: "Scooter Ground Clearance Compared: Verified Figures and Why They Matter"
+title: "Scooter Ground Clearance Compared: Verified Figures That Matter"
 slug: scooter-ground-clearance-compared-vietnam
 description: "Verified ground-clearance figures for Vietnamese-market scooters, what clearance protects on flooded and broken streets, and how the numbers rank."
 category: scooters
@@ -40,7 +40,7 @@ Other models in our verified database did not publish a clearance figure - they 
 
 ## What the numbers mean in practice
 
-The 24 mm spread between the SH Mode (151 mm) and the Grande (127 mm) is the difference between scraping and clearing on tall speed bumps and broken road edges. Low-clearance bikes also sit closer to standing water in flooded streets - our flooded-streets guide covers when not to ride through at all, and deep-water aftercare covers what water contact does to a scooter.
+The 24 mm spread between the SH Mode (151 mm) and the Grande (127 mm) is the difference between scraping and clearing on tall speed bumps and broken road edges. Low-clearance bikes also sit closer to standing water in flooded streets - [our flooded-streets guide]({{ '/articles/flooded-streets-riding-motorbike-vietnam/' | relative_url }}) covers when not to ride through at all, and deep-water aftercare covers what water contact does to a scooter.
 
 ## Caveats
 

@@ -19,7 +19,7 @@ sources:
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — Viper Smart Key system with vehicle tracking, remote vehicle-finding, remote on/off anti-theft"
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — Dat Bike app smart unlock and remote software features"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: disc-locks-chains-motorbike-security, home-parking-overnight-security, steering-locks-effective-use, keeping-rental-motorbike-secure-hanoi
+internal_link_targets: "disc-locks-chains-motorbike-security, home-parking-overnight-security, steering-locks-effective-use, keeping-rental-motorbike-secure-hanoi, electric-motorbike-older-riders-vietnam"
 ---
 
 Electric motorbikes are attractive to thieves for one reason: the most valuable part unplugs. Security for an electric is partly bike security and partly battery security.

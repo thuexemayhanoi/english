@@ -48,7 +48,7 @@ Days flex: five is possible for confident riders in good weather, eight is comfo
 
 - **Navigation:** coverage drops for long stretches — offline maps are mandatory, not optional (our navigation [guide]({{ '/articles/motorbike-trip-navigation-offline-maps-vietnam/' | relative_url }}) has the setup).
 - **Border rules:** several stretches run along the frontier; stay on the marked roads, expect checkpoints, and keep your documents clean and dry.
-- **Accommodation:** homestays and small hotels exist in every overnight town but standards vary — our overnight-stays checklist (bike parking first) applies nightly. Book ahead on Vietnamese holiday weekends or reroute.
+- **Accommodation:** homestays and small hotels exist in every overnight town but standards vary — [our overnight-stays checklist]({{ '/articles/overnight-stays-motorbike-trips-vietnam/' | relative_url }}) (bike parking first) applies nightly. Book ahead on Vietnamese holiday weekends or reroute.
 - **Bike and kit:** a 125cc-plus underbone or a small manual is the practical floor; run the full prep checklist and carry a basic repair kit, because workshop density is the lowest of the popular northern routes.
 - **Seasons:** aim for October-November or late February-April; summer brings rain and slippery geopark backroads, and winter wraps the valleys in fog (see our seasons [guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }})).
 

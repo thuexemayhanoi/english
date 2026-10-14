@@ -49,7 +49,7 @@ For pure riding, almost always: our QLHCM guide explains the mountain spine alte
 
 1. **Never relax into highway rhythm.** The QL1A's villages-on-the-road format means a child, dog or u-turning truck can appear in the moment your guard drops.
 2. **Ride the shoulder line, claim it, and check mirrors constantly.** Overtaking lorries swing wide.
-3. **Use the horn as communication** — the polite announcement of your presence is how the road works; our horn-etiquette guide explains the culture.
+3. **Use the horn as communication** — the polite announcement of your presence is how the road works; [our horn-etiquette guide]({{ '/articles/horn-etiquette-motorbike-vietnam/' | relative_url }}) explains the culture.
 4. **Do not ride the expressway parallels.** The CT expressways beside the QL1A are legally closed to motorbikes — our legal guide covers the rule and the fines.
 5. **Finish daylight miles early.** Our night-riding guide explains why dusk is the most dangerous hour, and the QL1A makes it worse.
 

@@ -1,7 +1,7 @@
 ---
 title: "Can Foreigners Ride a 50cc Bike in Vietnam Without a Licence?"
 slug: can-foreigners-ride-50cc-vietnam
-description: "Yes, legally: 50cc mopeds need no licence for riders 16+, including foreigners. But IDP questions, helmet and insurance duties, accident liability and rental paperwork still apply. An honest guide for visitors."
+description: "Yes: 50cc mopeds need no licence for riders aged 16+, foreigners included, but helmet and insurance duties, accident liability and rental paperwork still apply."
 category: 50cc
 tags:
   - "50cc"
@@ -42,7 +42,7 @@ Visitors without a licence valid for Vietnamese motorbikes — no Vietnamese lic
 
 ## The better question
 
-If you hold a valid motorcycle entitlement from home, the whole question changes: a 1968-convention IDP with the right category plus your national licence opens normal rental scooters. Our tourists article and IDP guide cover the full routes to legal riding.
+If you hold a valid motorcycle entitlement from home, the whole question changes: a 1968-convention IDP with the right category plus your national licence opens normal rental scooters. [Our tourists article]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}) and IDP guide cover the full routes to legal riding.
 
 If the 50cc route still fits — say, a short stay, flat neighbourhood routes, no motorcycle licence — then the renting guide covers what to check before you ride off.
 

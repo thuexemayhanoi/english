@@ -28,7 +28,7 @@ What you carry on a motorbike in Vietnam falls into two lists: things on your bo
 - Phone with the rental shop's number saved, plus a little cash separate from your wallet
 - Nothing attached to your hands or around your neck — no bags slung crossbody while riding; use the compartment
 
-The legal carry set for riders is covered in the documents article; on a rental, keep the shop's paperwork with you as well, since the bike's registration stays with the rental agreement arrangements your shop specified at handover.
+The legal carry set for riders is covered in the [documents article]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}); on a rental, keep the shop's paperwork with you as well, since the bike's registration stays with the rental agreement arrangements your shop specified at handover.
 
 ## In the bike's storage
 

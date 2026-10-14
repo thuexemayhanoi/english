@@ -1,7 +1,7 @@
 ---
 title: "Best Bike for English Teachers Living in Hanoi"
 slug: best-bike-for-english-teachers-hanoi
-description: "English teachers in Hanoi need a cheap monthly automatic scooter that survives a daily school commute - the Click, Mio and Vision class on monthly rates, with the deposit and maintenance sorted once."
+description: "English teachers in Hanoi need a cheap monthly automatic for the daily school commute: the Click, Mio and Vision class on monthly rates."
 category: rental
 tags:
   - "english teachers"
@@ -46,6 +46,6 @@ Teachers staying months have time to do this properly: a home motorcycle licence
 
 ## Versus buying
 
-A one-year contract sits right on the buy/rent break-even - the renting-versus-buying article runs the numbers. For a first year in an unfamiliar system, rental without resale risk is the calmer choice.
+A one-year contract sits right on the buy/rent break-even - [the renting-versus-buying article]({{ '/articles/renting-vs-buying-a-motorbike-hanoi/' | relative_url }}) runs the numbers. For a first year in an unfamiliar system, rental without resale risk is the calmer choice.
 
 Confirm the model you want for the semester early - teachers all rent at the same time at contract season. Contact us to confirm current availability.

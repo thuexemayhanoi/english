@@ -20,7 +20,7 @@ sources:
   - "https://www.vietnamtourism.com/en/da-lat-vietnam-s-cool-weather-highland-escape-honest-2026-guide — Vietnam tourism guide: scooter rental in Da Lat 120,000-180,000 VND, cool highland climate, retrieved 2026-09-24"
   - "https://vietchallenge.com/Post/524/what-you-need-to-know-before-riding-a-motorbike-in-dalat — renting from hotels, downtown shops or Lien Khuong airport and highland riding cautions, retrieved 2026-09-24"
   - "https://hiddenlandtravel.com/da-lat-motorbike-rental/ — rental availability across Da Lat companies, retrieved 2026-09-24"
-internal_link_targets: vietnam-monsoon-season-motorbike-travel, mountain-pass-riding-motorbike-vietnam, can-tourists-ride-motorbike-vietnam, self-drive-vs-easy-rider-vietnam, first-time-renting-a-motorbike-hanoi
+internal_link_targets: "vietnam-monsoon-season-motorbike-travel, mountain-pass-riding-motorbike-vietnam, can-tourists-ride-motorbike-vietnam, self-drive-vs-easy-rider-vietnam, first-time-renting-a-motorbike-hanoi, renting-motorbike-nha-trang, renting-motorbike-phu-quoc"
 ---
 
 Da Lat is Vietnam at 1,500 metres: pine forests, market gardens on every slope, and air cool enough for a jacket at night. It is also the birthplace of the Easy Rider — the passenger-riding tour format that spread across Vietnam from here — and one of the best small-city riding bases in the country. But the highlands change the physics of renting: hills everywhere, wet-season fog, and roads that punish cheap brakes.

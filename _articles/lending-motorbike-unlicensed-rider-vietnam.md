@@ -1,7 +1,7 @@
 ---
 title: "Lending Your Motorbike to an Unlicensed Rider in Vietnam"
 slug: lending-motorbike-unlicensed-rider-vietnam
-description: "The owner-side penalty in Vietnam for handing a motorbike to a person without a valid licence: 8,000,000–10,000,000 VND for individuals under Article 32(10) of Decree 168/2024/NĐ-CP, plus the rider's own fine."
+description: "Handing a motorbike to an unlicensed rider in Vietnam costs the owner 8,000,000-10,000,000 VND under Article 32(10) of Decree 168/2024."
 category: law-licences
 tags:
   - "lending"
@@ -22,7 +22,7 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 32(10) (vehicle-owner penalties for handing vehicles to unqualified drivers)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 56 (owners may only hand vehicles to qualified drivers)"
   - "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650 — Ministry of Public Security summary of motorbike violations and fines"
-internal_link_targets: "no-licence-fine-vietnam, minimum-age-ride-motorbike-vietnam, motorbike-fines-vietnam-overview, documents-to-carry-motorbike-vietnam"
+internal_link_targets: "no-licence-fine-vietnam, minimum-age-ride-motorbike-vietnam, motorbike-fines-vietnam-overview, documents-to-carry-motorbike-vietnam, underage-riding-penalties-vietnam"
 ---
 
 Handing your keys to a friend who has no licence is not their problem alone. In Vietnam the owner who lets an unqualified person ride commits a separate violation, and under Decree 168/2024/NĐ-CP it is the single most expensive mistake a bike owner can make at a roadside checkpoint.

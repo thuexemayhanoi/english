@@ -1,7 +1,7 @@
 ---
 title: "Hanoi's Parks by Motorbike: A Weekend Outings Guide"
 slug: hanoi-weekend-parks-motorbike-outings
-description: "Hanoi's best green spaces reachable by motorbike: Thu Le, Bach Thao, Yen So, the botanical gardens and lakeside parks — parking, crowds, and how to chain a weekend of park visits by bike."
+description: "Hanoi's best green spaces by motorbike: Thu Le, Bach Thao, Yen So, the botanical gardens and lakeside parks, with parking, crowds and how to chain park visits."
 category: hanoi
 tags:
   - "hanoi"
@@ -44,7 +44,7 @@ A satisfying pattern: morning ride to Yen So while it is cool, midday food stop 
 
 - **Parking**: every major park has an attended lot; weekend mid-mornings are the crunch, holidays worst.
 - **Heat**: from May to September, parks are morning-and-evening places; the midday sun makes both the riding and the sitting unwise.
-- **Kids**: Hanoi's park weekends run on children on motorbikes — legally, a child passenger needs a proper helmet and the driver a licence; the child-passenger rules guide covers the specifics.
+- **Kids**: Hanoi's park weekends run on children on motorbikes — legally, a child passenger needs a proper helmet and the driver a licence; [the child-passenger rules guide]({{ '/articles/child-passengers-motorbike-vietnam/' | relative_url }}) covers the specifics.
 - **Rain**: park visits flip easily; half the lakeside parks have cafe cover within a two-minute ride.
 
 The green Hanoi is a real city, not a rumor — and it has better parking than the museum district. Spend a weekend proving it to yourself.

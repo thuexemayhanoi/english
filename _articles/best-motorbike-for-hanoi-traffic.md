@@ -1,7 +1,7 @@
 ---
 title: "Best Motorbike for Hanoi Traffic: What Actually Works"
 slug: best-motorbike-for-hanoi-traffic
-description: "Hanoi traffic rewards light, narrow, automatic bikes with good brakes and quick mirrors - the Honda Vision and Click class. What actually matters, ranked, for riding in the capital."
+description: "Hanoi traffic rewards light, narrow automatic bikes with good brakes and quick mirrors: the Honda Vision and Click class. What actually matters, ranked."
 category: rental
 tags:
   - "hanoi traffic"
@@ -45,7 +45,7 @@ Big engine sizes add nothing - traffic rarely clears 40 km/h. Manual clutch bike
 3. Licence-free 50 cc or e-bike - the legal answer for riders without a motorcycle licence, at lower speeds.
 4. Manual - only for riders who already ride manuals confidently.
 
-The scooter article compares the specific models; the beginner article covers the first-week learning curve.
+[The scooter article]({{ '/articles/best-scooters-to-rent-hanoi/' | relative_url }}) compares the specific models; [the beginner article]({{ '/articles/easiest-motorbikes-for-beginners-hanoi/' | relative_url }}) covers the first-week learning curve.
 
 
 For the verified data behind the underbone recommendation, see our 110 [cc underbones data guide]({{ '/articles/best-110cc-underbones-vietnam-verified/' | relative_url }}) ranking the Wave Alpha, Blade, Wave RSX and Sirius.

@@ -1,7 +1,7 @@
 ---
 title: "Yamaha NVX 155 Review: The Sporty Scooter with Real Hardware"
 slug: yamaha-nvx-155-review
-description: "Yamaha NVX 155 VVA review with verified Yamaha Vietnam specs - Blue Core 155cc engine, VVA, ABS, Y-Connect, Stop and Start, storage and who this sporty scooter suits."
+description: "Yamaha NVX 155 VVA review with verified Yamaha Vietnam specs: Blue Core 155cc engine, VVA, ABS, Y-Connect, Stop and Start, storage and who this sporty scooter suits."
 category: scooters
 tags:
   - "yamaha nvx"
@@ -34,7 +34,7 @@ Yamaha publishes a wet weight of 125 kg, seat height 790 mm, dimensions 1,980 x 
 
 ## Brakes and chassis
 
-A 230 mm front disc with ABS, a 130 mm rear drum, telescopic front fork and a rear shock with a hydraulic damper. Wide rubber - 110/80-14 front and a beefy 140/70-14 rear - gives it the planted look and feel of a much larger machine. What ABS does and does not do is covered in our ABS guide.
+A 230 mm front disc with ABS, a 130 mm rear drum, telescopic front fork and a rear shock with a hydraulic damper. Wide rubber - 110/80-14 front and a beefy 140/70-14 rear - gives it the planted look and feel of a much larger machine. What ABS does and does not do is covered in [our ABS guide]({{ '/articles/which-scooters-have-abs-vietnam/' | relative_url }}).
 
 ## Technology
 

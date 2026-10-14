@@ -1,7 +1,7 @@
 ---
 title: "Scooter Fuel Economy Compared: Verified Manufacturer Figures"
 slug: scooter-fuel-economy-comparison-vietnam
-description: "Published fuel consumption of Vietnamese scooters compared - Honda Vision 1.82, Yamaha Janus 1.98, FreeGo 2.03, Lead 2.1, Air Blade 160 2.23 L/100km - plus what changes them."
+description: "Published fuel consumption of Vietnamese scooters compared: Honda Vision 1.82, Yamaha Janus 1.98, FreeGo 2.03 and Air Blade 160 2.23 L/100km, and what changes them."
 category: scooters
 tags:
   - "fuel economy"

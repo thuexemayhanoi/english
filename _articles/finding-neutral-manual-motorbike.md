@@ -16,14 +16,14 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: rotary-gearbox-vs-manual-clutch-explained, how-to-ride-manual-clutch-motorbike-vietnam, clutch-drag-hard-neutral-motorbike, how-to-shift-gears-semi-automatic-underbone
+internal_link_targets: "rotary-gearbox-vs-manual-clutch-explained, how-to-ride-manual-clutch-motorbike-vietnam, clutch-drag-hard-neutral-motorbike, how-to-shift-gears-semi-automatic-underbone, coasting-neutral-dangers-manual-motorbike"
 ---
 
 Neutral is the gear that takes the longest to learn and the shortest to stop being a problem. Knowing your gear pattern is the whole trick.
 
 ## Where neutral lives
 
-On a manual-clutch underbone, neutral sits between first and second: half a click up from first, a half-click down from second. On the rotary four-speed of a semi-automatic (Honda Wave, Blade, Sirius and their relatives), neutral is a full stop in the pattern below first, and you reach it by clicking all the way down. Our rotary gearbox guide explains the pattern in detail.
+On a manual-clutch underbone, neutral sits between first and second: half a click up from first, a half-click down from second. On the rotary four-speed of a semi-automatic (Honda Wave, Blade, Sirius and their relatives), neutral is a full stop in the pattern below first, and you reach it by clicking all the way down. [Our rotary gearbox guide]({{ '/articles/rotary-gearbox-vs-manual-clutch-explained/' | relative_url }}) explains the pattern in detail.
 
 ## The technique at a red light
 
@@ -35,7 +35,7 @@ Semi-automatics make this easy: click down through the gears as you slow, and th
 
 ## When it is a fault, not technique
 
-If the bike refuses to find neutral when warm, jumps out of it, or drags forward with the lever in, that is a mechanical issue — usually clutch drag or a worn shift mechanism — and our hard-neutral troubleshooting guide covers the symptoms and what a mechanic should check.
+If the bike refuses to find neutral when warm, jumps out of it, or drags forward with the lever in, that is a mechanical issue — usually clutch drag or a worn shift mechanism — and [our hard-neutral troubleshooting guide]({{ '/articles/clutch-drag-hard-neutral-motorbike/' | relative_url }}) covers the symptoms and what a mechanic should check.
 
 ## Should you bother at lights?
 

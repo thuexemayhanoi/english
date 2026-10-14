@@ -1,5 +1,5 @@
 ---
-title: "Aftermarket LED Headlight Bulbs: What to Consider Before Upgrading"
+title: "Aftermarket LED Headlight Bulbs: What to Check Before Upgrading"
 slug: aftermarket-led-headlight-bulbs
 description: "LED headlight bulb upgrades on motorbikes — beam pattern, glare, compatibility and why night riding reveals cheap conversions."
 category: parts-gear
@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "headlight-bulb-replacement-motorbike, headlight-aim-adjustment-motorbike, night-riding-motorbike-safety-vietnam, motorbike-required-equipment-vietnam"
+internal_link_targets: "headlight-bulb-replacement-motorbike, headlight-aim-adjustment-motorbike, night-riding-motorbike-safety-vietnam, motorbike-required-equipment-vietnam, automatic-chain-oilers"
 ---
 
 The aftermarket LED conversion is the most tempting bad idea in motorbike lighting: a bright white bulb promises night-riding confidence for the price of lunch. Sometimes it delivers. Often it delivers glare, a broken beam pattern and a bike that sees less than before.

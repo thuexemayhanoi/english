@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "compulsory-motorbike-insurance-vietnam, do-you-need-insurance-to-ride-vietnam, is-insurance-included-motorbike-rental-hanoi, monthly-motorbike-rental-hanoi"
+internal_link_targets: "compulsory-motorbike-insurance-vietnam, do-you-need-insurance-to-ride-vietnam, is-insurance-included-motorbike-rental-hanoi, monthly-motorbike-rental-hanoi, expats-monthly-motorbike-hanoi"
 ---
 
 Insurance is the item long-term renters most often get wrong, because the assumption runs the other way: people assume a month-long rental comes with cover. It does not.

@@ -1,5 +1,5 @@
 ---
-title: "Assist and Slipper Clutch Explained: The Exciter’s Clever Left Hand"
+title: "Assist and Slipper Clutch Explained: The Exciter’s Left Hand"
 slug: assist-slipper-clutch-explained
 description: "What Yamaha’s Assist and Slipper clutch does, how it changes clutch feel on the Exciter 155, and why it matters in Vietnamese traffic."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "yamaha-motor.com.vn — Yamaha VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: yamaha-exciter-155-vva-review, honda-winner-r-vs-yamaha-exciter-155, rotary-gearbox-vs-manual-clutch-explained, clutch-slipping-manual-motorbike, clutch-drag-hard-neutral-motorbike, broken-clutch-cable-motorbike-roadside
+internal_link_targets: "yamaha-exciter-155-vva-review, honda-winner-r-vs-yamaha-exciter-155, rotary-gearbox-vs-manual-clutch-explained, clutch-slipping-manual-motorbike, clutch-drag-hard-neutral-motorbike, broken-clutch-cable-motorbike-roadside, sohc-vs-dohc-underbones-explained"
 ---
 
 Yamaha lists an Assist and Slipper clutch for the Exciter 155 VVA on its Vietnam page (retrieved 23 September 2026). It is the most rider-friendly piece of technology in the manual-clutch underbone class - here is what it actually does.

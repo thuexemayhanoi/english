@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23/24)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-blade-110-review, disc-vs-drum-brakes-motorbike, underbone-trim-versions-explained, honda-blade-vs-honda-wave-rsx, abs-on-underbones-vietnam-explained
+internal_link_targets: "honda-blade-110-review, disc-vs-drum-brakes-motorbike, underbone-trim-versions-explained, honda-blade-vs-honda-wave-rsx, abs-on-underbones-vietnam-explained, cbr150r-city-riding-guide"
 ---
 
 The Honda Blade is one of Vietnam's cheapest genuine underbones, and the version you pick changes both the brakes and the wheels. Verified Honda VN data (retrieved 23 September 2026) shows two configurations on the current page.
@@ -35,7 +35,7 @@ A front disc gives firmer, more consistent stopping in the wet and easier modula
 
 ## Alloy versus spoked wheels
 
-Alloy wheels (Sport) never need re-truing and are easier to clean and repair after a pothole; spoked wheels flex more and traditional mechanics can service them anywhere, but bent spokes need attention. Our underbone trim versions explainer covers these packaging decisions across the class.
+Alloy wheels (Sport) never need re-truing and are easier to clean and repair after a pothole; spoked wheels flex more and traditional mechanics can service them anywhere, but bent spokes need attention. [Our underbone trim versions explainer]({{ '/articles/underbone-trim-versions-explained/' | relative_url }}) covers these packaging decisions across the class.
 
 ## Which one to pick
 

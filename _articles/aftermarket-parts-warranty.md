@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "warranty-dealer-service-vietnam, genuine-vs-fake-parts-motorbike-vietnam, repair-or-replace-motorbike-parts, buying-motorbike-parts-online-vietnam"
+internal_link_targets: "warranty-dealer-service-vietnam, genuine-vs-fake-parts-motorbike-vietnam, repair-or-replace-motorbike-parts, buying-motorbike-parts-online-vietnam, aftermarket-exhausts-motorbikes-vietnam, aftermarket-horns-motorbikes"
 ---
 
 The warranty question — "will an aftermarket part void my warranty?" — has a short honest answer and a long practical one. The short answer: not automatically. The long answer is about what a warranty actually covers and how service disputes unfold in Vietnamese workshops.

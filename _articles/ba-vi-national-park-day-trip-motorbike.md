@@ -21,7 +21,7 @@ sources:
   - "https://stylemotorbikes.com/ba-vi-national-park-motorbike/ — the faster route follows Highway 32 west out of Hanoi through Son Tay; the park road climbs from the gate to around 1,100 m where walking trails to the upper temples and summits begin, retrieved 2026-09-24"
   - "https://vinwonders.com/en/wonderpedia/news/ba-vi-national-park-an-ideal-site-in-a-hanoi-suburb-for-your-getaway/ — final approach via the Tan Linh crossroad and about 3.5 kilometres from there to the park entrance, retrieved 2026-09-24"
   - "https://vietnamdiscovery.com/hanoi/activities/ba-vi-national-park/ — about an hour and a half to Ba Vi by motorbike via the Thang Long corridor heading west, retrieved 2026-09-24"
-internal_link_targets: best-motorbike-for-day-trips-from-hanoi, mountain-pass-riding-motorbike-vietnam, riding-downhill-motorbike-engine-braking, tam-dao-day-trip-motorbike, how-to-rent-a-motorbike-hanoi
+internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, mountain-pass-riding-motorbike-vietnam, riding-downhill-motorbike-engine-braking, tam-dao-day-trip-motorbike, how-to-rent-a-motorbike-hanoi, bac-ninh-craft-loop-motorbike-ride"
 ---
 
 Ba Vi is the big forested massif you can see from western Hanoi on clear days, and riding into it is one of the most satisfying day trips from the city: about 60–70 kilometres out, then a long, cool climb through pine and cloud forest inside the national park. Count on roughly an hour and a half to reach the park area, plus the climb itself.

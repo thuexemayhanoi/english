@@ -22,7 +22,7 @@ sources:
   - "https://www.easyridersvietnam.org/ban-gioc-waterfall/ — Cao Bang 272 km from Hanoi; Ban Gioc about 300 m wide with a roughly 30 m drop, described as the country's biggest waterfall on the China border, retrieved 2026-09-24"
   - "https://www.bestpricetravel.com/travel-guide/hanoi-to-ban-gioc-waterfall-cao-bang-2566.html — Hanoi to Cao Bang city about 286 km, then about 90 km by road to the waterfall, retrieved 2026-09-24"
   - "https://lilystravelagency.com/hanoi-to-ban-gioc-waterfall/ — total Hanoi-Ban Gioc distance about 330-360 km depending on route; motorbike from Cao Bang city to the falls is a roughly 2-hour scenic ride, retrieved 2026-09-24"
-internal_link_targets: motorbike-trip-prep-checklist-hanoi, motorbike-trip-navigation-offline-maps-vietnam, mountain-pass-riding-motorbike-vietnam, overnight-stays-motorbike-trips-vietnam, motorbike-trip-budget-from-hanoi, northeast-vietnam-motorbike-loop
+internal_link_targets: "motorbike-trip-prep-checklist-hanoi, motorbike-trip-navigation-offline-maps-vietnam, mountain-pass-riding-motorbike-vietnam, overnight-stays-motorbike-trips-vietnam, motorbike-trip-budget-from-hanoi, northeast-vietnam-motorbike-loop, da-nang-hoi-an-central-coast-motorbike"
 ---
 
 Ban Gioc is the biggest waterfall in Vietnam and one of the largest border waterfalls in the world: roughly 300 metres wide and about 30 metres down, split by the Chinese frontier, at the end of a spectacular 90 kilometre ride north of Cao Bang city. The trip from Hanoi — about 270-286 km to Cao Bang on Highway 3, then the waterfall road over Ma Phuc Pass — is the classic northeast loop, best planned as four to five days.
@@ -39,12 +39,12 @@ At the waterfall, park in the official area and walk to the viewing decks; bambo
 
 ## Making it a loop
 
-The waterfall pairs naturally with the rest of the northeast: Pac Bo (Ho Chi Minh's wartime base) north of the city, the Quang Uyen market country backroads, and — with more days — the link west through Bao Lac toward Ha Giang, or south to Ba Be Lake. Our northeast loop guide lays out the full circuit; the Ba Be guide covers the lake leg on its own. Run every leg through our offline-maps setup: geopark backroads are exactly where data coverage dies.
+The waterfall pairs naturally with the rest of the northeast: Pac Bo (Ho Chi Minh's wartime base) north of the city, the Quang Uyen market country backroads, and — with more days — the link west through Bao Lac toward Ha Giang, or south to Ba Be Lake. [Our northeast loop guide]({{ '/articles/northeast-vietnam-motorbike-loop/' | relative_url }}) lays out the full circuit; the Ba Be guide covers the lake leg on its own. Run every leg through our offline-maps setup: geopark backroads are exactly where data coverage dies.
 
 ## Practical plan
 
 - Day 1: Hanoi to Cao Bang city (~270-290 km, 5-6 hours). Day 2: Ban Gioc and Trung Khanh, sleep in Cao Bang city or Trung Khanh. Day 3: Pac Bo and the geopark loops. Day 4: return via Ba Be or the QL3. Day 5 if riding the full loop.
-- Budget with our trip-cost guide; homestays and small hotels exist in every overnight stop — confirm bike parking using our overnight-stays checklist.
+- Budget with our trip-cost guide; homestays and small hotels exist in every overnight stop — confirm bike parking using [our overnight-stays checklist]({{ '/articles/overnight-stays-motorbike-trips-vietnam/' | relative_url }}).
 - Winter (December-February) is cold and often foggy in the northeast; October-November and spring give the best riding windows per our seasons [guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }}).
 
 Contact us to confirm current availability if you need a bike for this trip — at these distances a serviced machine, good tyres and a shop that knows your route are worth more than any daily-rate saving.

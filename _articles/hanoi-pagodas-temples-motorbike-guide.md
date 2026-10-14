@@ -38,7 +38,7 @@ The temples are active religious sites. Dress with shoulders covered; remove the
 
 ## Parking
 
-Each site follows the standard pattern: attended kerb parking at the gate, a few thousand dong. The One Pillar Pagoda shares the mausoleum quarter's parking; follow the posted vehicle flow, as the Ba Dinh guide explains.
+Each site follows the standard pattern: attended kerb parking at the gate, a few thousand dong. The One Pillar Pagoda shares the mausoleum quarter's parking; follow the posted vehicle flow, as [the Ba Dinh guide]({{ '/articles/ba-dinh-area-guide-riders/' | relative_url }}) explains.
 
 ## Going further out
 

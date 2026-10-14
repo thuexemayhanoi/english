@@ -1,5 +1,5 @@
 ---
-title: "List Price vs On-Road Cost in Vietnam: Reading Manufacturer Price Tags"
+title: "List Price vs On-Road Cost in Vietnam: Reading the Price Tag"
 slug: list-price-vs-on-road-cost-vietnam
 description: "What a Honda or Yamaha list price includes and what it does not - registration, insurance and the honest gap between sticker and road."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: cheapest-new-underbones-vietnam-verified, new-scooter-prices-vietnam-verified, compulsory-motorbike-insurance-vietnam, unregistered-motorbike-fine-vietnam, vietnam-motorbike-licence-classes-explained, buying-first-scooter-vietnam-guide
+internal_link_targets: "cheapest-new-underbones-vietnam-verified, new-scooter-prices-vietnam-verified, compulsory-motorbike-insurance-vietnam, unregistered-motorbike-fine-vietnam, vietnam-motorbike-licence-classes-explained, buying-first-scooter-vietnam-guide, underbone-tyre-sizes-explained"
 ---
 
 Every price we publish on this site is a manufacturer list price - for example Honda's 18,841,091 VND Wave Alpha or Yamaha's 21,993,000 VND Sirius RC (retrieved 23 September 2026). Those numbers are real, but they are not the number you pay to ride away. Here is the honest anatomy of the gap - without inventing specific fees, which change and vary by case.

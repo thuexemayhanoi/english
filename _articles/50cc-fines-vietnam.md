@@ -1,7 +1,7 @@
 ---
 title: "Fines for 50cc Moped Riders in Vietnam: What Actually Applies"
 slug: 50cc-fines-vietnam
-description: "Mopeds are fined at the same levels as motorbikes under Decree 168/2024: helmets 400-600k, red lights and wrong-way 4-6 million, alcohol up to 10 million. The licence offences that do not apply, and the age offence that does."
+description: "Mopeds are fined like motorbikes under Decree 168/2024: helmets 400-600k VND, red lights 4-6 million, alcohol up to 10 million. Which offences apply to a 50cc."
 category: 50cc
 tags:
   - "50cc"
@@ -48,7 +48,7 @@ A 16-to-under-18-year-old on a motorbike of 50cc or more commits an age offence:
 
 ## The bigger exposure
 
-Fines compound after an accident, and the paperwork — liability, insurance claims, hospital costs — usually outweighs the ticket. Alcohol involvement can wreck an insurance claim at any engine size. Our drink-driving article lists the exact alcohol limits, and the fines overview carries the full verified table.
+Fines compound after an accident, and the paperwork — liability, insurance claims, hospital costs — usually outweighs the ticket. Alcohol involvement can wreck an insurance claim at any engine size. [Our drink-driving article]({{ '/articles/drink-driving-limits-motorbike-vietnam/' | relative_url }}) lists the exact alcohol limits, and the fines overview carries the full verified table.
 
 Ride a 50cc like the fines are real, because they are.
 

@@ -1,5 +1,5 @@
 ---
-title: "Nam Tu Liem for Motorbike Riders: My Dinh, Wide Boulevards and Museum Runs"
+title: "Nam Tu Liem for Motorbike Riders: My Dinh and Wide Boulevards"
 slug: nam-tu-liem-area-guide-riders
 description: "Riding the Nam Tu Liem area of western Hanoi: My Dinh stadium, museums, wide boulevards, traffic character and parking for motorbike riders."
 category: hanoi

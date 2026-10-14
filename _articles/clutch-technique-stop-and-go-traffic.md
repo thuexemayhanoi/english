@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: how-to-ride-manual-clutch-motorbike-vietnam, clutch-control-friction-zone-practice, clutch-slipping-manual-motorbike, left-turns-across-traffic-motorbike-vietnam, crossing-hanoi-bridges-motorbike
+internal_link_targets: "how-to-ride-manual-clutch-motorbike-vietnam, clutch-control-friction-zone-practice, clutch-slipping-manual-motorbike, left-turns-across-traffic-motorbike-vietnam, crossing-hanoi-bridges-motorbike, manual-motorbike-u-turn-technique"
 ---
 
 Hanoi traffic is ten thousand small launches. Riders who master clutch finesse in stop-and-go conditions stop thinking about the gearbox within a week; riders who fight it stay tired and frustrated.
@@ -31,7 +31,7 @@ Leave a bike-length cushion ahead and watch two or three vehicles ahead, not the
 
 ## Junctions and bridges
 
-Approach junctions with the clutch covered and a gear already chosen — usually second if rolling, first if slow. Our left-turn guide covers crossing traffic, and the Hanoi bridges guide covers the merge-and-flow rhythm that bridge traffic demands.
+Approach junctions with the clutch covered and a gear already chosen — usually second if rolling, first if slow. [Our left-turn guide]({{ '/articles/left-turns-across-traffic-motorbike-vietnam/' | relative_url }}) covers crossing traffic, and [the Hanoi bridges guide]({{ '/articles/crossing-hanoi-bridges-motorbike/' | relative_url }}) covers the merge-and-flow rhythm that bridge traffic demands.
 
 ## Keeping the clutch healthy
 

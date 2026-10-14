@@ -1,5 +1,5 @@
 ---
-title: "Honda Wave RSX vs Super Cub C125: Working Underbone or Style Icon?"
+title: "Honda Wave RSX vs Super Cub C125: Workhorse or Style Icon?"
 slug: honda-wave-rsx-vs-honda-super-cub
 description: "Honda Wave RSX vs Super Cub C125 compared on verified Honda VN specs - torque, economy, storage and a 62-million-VND price gap."
 category: motorcycles

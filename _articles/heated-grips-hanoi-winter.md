@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "winter-riding-motorbike-hanoi, riding-gloves-vietnam-climate, handlebar-grips-choosing-motorbike, cold-start-motorbike-winter-vietnam"
+internal_link_targets: "winter-riding-motorbike-hanoi, riding-gloves-vietnam-climate, handlebar-grips-choosing-motorbike, cold-start-motorbike-winter-vietnam, scooter-windscreens-vietnam"
 ---
 
 Hanoi winters are not Scandinavian, but 12 degrees with damp wind at 40 km/h strips heat from hands faster than standing still ever could, and cold hands are slow hands — fumbling levers is a safety problem before it is a comfort one. Heated grips are the direct fix.

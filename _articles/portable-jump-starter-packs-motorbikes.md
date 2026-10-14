@@ -1,7 +1,7 @@
 ---
 title: "Portable Jump Starter Packs for Motorbikes"
 slug: portable-jump-starter-packs-motorbikes
-description: "Do jump starter packs work on motorbikes — matching a lithium jump pack to a small 12V bike battery, safe boosting procedure, and the limits of jump-starting in Vietnam."
+description: "Do jump starter packs work on motorbikes? Matching a lithium pack to a small 12V bike battery, the safe boosting procedure."
 category: parts-gear
 tags:
   - "battery"
@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "choosing-replacement-battery-motorbike-vietnam, dead-battery-motorbike-vietnam, battery-draining-overnight-motorbike, battery-trickle-chargers-storage"
+internal_link_targets: "choosing-replacement-battery-motorbike-vietnam, dead-battery-motorbike-vietnam, battery-draining-overnight-motorbike, battery-trickle-chargers-storage, variator-roller-upgrades-scooter"
 ---
 
 Lithium jump-starter packs were designed for cars, which is exactly why riders ask whether they are safe on a motorbike. The honest answer: they work, but the margin for error is much smaller than the box implies, and using a car-sized pack on a bike battery without thinking can do damage the dead-battery guides never mention.

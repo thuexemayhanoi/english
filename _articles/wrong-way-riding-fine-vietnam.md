@@ -1,7 +1,7 @@
 ---
 title: "Wrong-Way Riding in Vietnam: The Fine and Why It Is Dangerous"
 slug: wrong-way-riding-fine-vietnam
-description: "Riding against traffic or the wrong way up a one-way street in Vietnam costs 4,000,000–6,000,000 VND under Article 7(7) of Decree 168/2024/NĐ-CP — the same band as running a red light — plus licence points and heavier penalties if it causes a crash."
+description: "Wrong-way riding in Vietnam costs 4-6 million VND under Article 7(7) of Decree 168/2024, the same band as a red light, plus licence points and more after a crash."
 category: law-licences
 tags:
   - "wrong way"

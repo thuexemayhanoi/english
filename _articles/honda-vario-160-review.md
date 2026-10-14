@@ -1,7 +1,7 @@
 ---
 title: "Honda Vario 160 Review: The Aggressive New Sporty Commuter"
 slug: honda-vario-160-review
-description: "Honda Vario 160 review with verified Honda Vietnam specs - 156.9cc eSP+ engine output, fuel economy, ABS, eSAF frame, storage and how it compares with the sporty scooter class."
+description: "Honda Vario 160 review with verified Honda Vietnam specs: 156.9cc eSP+ output, fuel economy, ABS, eSAF frame, storage, and how it compares with the sporty class."
 category: scooters
 tags:
   - "honda vario"

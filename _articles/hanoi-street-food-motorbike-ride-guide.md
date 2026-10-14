@@ -1,7 +1,7 @@
 ---
 title: "Eating Hanoi by Motorbike: A Street Food Ride Guide"
 slug: hanoi-street-food-motorbike-ride-guide
-description: "Riding Hanoi's street food scene by motorbike: which food streets to ride to, parking while you eat, eating on a low plastic stool and the local habits of food by bike."
+description: "Riding Hanoi's street food scene by motorbike: which food streets to ride to, parking while you eat, the low plastic stool, and the local habits of eating by bike."
 category: hanoi
 tags:
   - "street food"
@@ -19,7 +19,7 @@ last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address, opening hours, availability wording only"
   - "https://vietnam.travel/things-to-do/explore-old-quarter-your-way — Old Quarter food and street character overview, retrieved 2026-09-24"
-internal_link_targets: hanoi-night-markets-motorbike-guide, exploring-hoan-kiem-by-motorbike, old-quarter-one-way-streets-riding, where-to-park-motorbike-hanoi, hot-weather-riding-motorbike-vietnam, first-aid-kit-motorbike-riders-vietnam, hanoi-motorbike-photo-spots
+internal_link_targets: "hanoi-night-markets-motorbike-guide, exploring-hoan-kiem-by-motorbike, old-quarter-one-way-streets-riding, where-to-park-motorbike-hanoi, hot-weather-riding-motorbike-vietnam, first-aid-kit-motorbike-riders-vietnam, hanoi-motorbike-photo-spots, hanoi-markets-motorbike-shopping"
 ---
 
 Hanoi's food culture and its motorbike culture are the same culture: the city eats on the street, and it gets to the street by bike. Riding to eat — a pho run at dawn, a bun cha street at noon, a crawfish lane at night — is one of the genuine pleasures of having two wheels here, and it works better than any taxi version of the same trip.

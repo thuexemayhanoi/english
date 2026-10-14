@@ -1,7 +1,7 @@
 ---
 title: "Honda Vision 110 Review: Vietnam's Default City Scooter"
 slug: honda-vision-110-review
-description: "Honda Vision 110 review for riders in Vietnam - verified engine, weight, seat height and fuel figures from Honda Vietnam, who it suits, and what to check before renting one."
+description: "Honda Vision 110 review: verified engine, weight, seat height and fuel figures from Honda Vietnam, who it suits, and what to check before renting one in Hanoi."
 category: scooters
 tags:
   - "honda vision"

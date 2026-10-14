@@ -1,7 +1,7 @@
 ---
 title: "Scams and Overcharging to Know When Riding in Hanoi"
 slug: hanoi-motorbike-scams-riders-guide
-description: "The scams and overcharges that target motorbike riders in Hanoi: inflated parking and repair prices, helmet and rental tricks, staged damage claims and how to handle each one."
+description: "Scams and overcharges aimed at motorbike riders in Hanoi: inflated parking and repair prices, helmet and rental tricks, staged damage claims."
 category: hanoi
 tags:
   - "scams"
@@ -19,7 +19,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address and opening hours only"
-internal_link_targets: common-motorbike-rental-problems-hanoi, rental-motorbike-inspection-checklist, talking-to-mechanic-vietnam, repair-quotes-parts-pricing-vietnam, stopped-by-traffic-police-vietnam, keeping-rental-motorbike-secure-hanoi, documents-to-carry-motorbike-vietnam
+internal_link_targets: "common-motorbike-rental-problems-hanoi, rental-motorbike-inspection-checklist, talking-to-mechanic-vietnam, repair-quotes-parts-pricing-vietnam, stopped-by-traffic-police-vietnam, keeping-rental-motorbike-secure-hanoi, documents-to-carry-motorbike-vietnam, hanoi-motorbike-shops-streets-guide"
 ---
 
 Hanoi is friendlier than its reputation and cheaper than most capitals, but a small industry exists to separate relaxed-looking foreigners from modest sums of money, and a fair share of it targets riders. Nothing here is violent or dramatic — the local scam vocabulary is overcharging, misdirection and paperwork. Knowing the playbook is the entire defence.
@@ -38,7 +38,7 @@ The rare-but-reported traffic-side overcharges involve unofficial "fines" for in
 
 ## Structural defences
 
-1. **Rent from a real shop** with an address, an agreement and reviews — the street-corner "cheap rental" with a broken helmet as its entire inventory is where most bad stories start. The rental problems guide lists the red flags.
+1. **Rent from a real shop** with an address, an agreement and reviews — the street-corner "cheap rental" with a broken helmet as its entire inventory is where most bad stories start. [The rental problems guide]({{ '/articles/common-motorbike-rental-problems-hanoi/' | relative_url }}) lists the red flags.
 2. **Photograph everything** — handover condition, parking stubs, the mechanic's quote written down.
 3. **Know the going rates** for parking, common repairs, fuel — overcharging lives in the gap between the real price and the quoted one.
 4. **Never hand over documents.** A shop may keep a deposit; nobody keeps your passport — and the passport-keeping question is its own article in this library.

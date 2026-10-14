@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "high-mileage-monthly-rental-hanoi, parking-monthly-renter-hanoi, monthly-rental-inspection-schedule-hanoi, best-motorbike-for-commuting-hanoi"
+internal_link_targets: "high-mileage-monthly-rental-hanoi, parking-monthly-renter-hanoi, monthly-rental-inspection-schedule-hanoi, best-motorbike-for-commuting-hanoi, english-teachers-monthly-motorbike-hanoi"
 ---
 
 Most monthly rentals in Hanoi exist for one reason: the daily commute. A bike beats traffic in a way nothing else does here, but a good commute on a rental is built, not just ridden.

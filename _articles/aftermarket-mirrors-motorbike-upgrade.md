@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, legal references to published legal articles only"
-internal_link_targets: "mirror-setup-motorbike-vietnam, riding-motorbike-blind-spots-vietnam, motorbike-handling-problems-wobble, talking-to-mechanic-vietnam"
+internal_link_targets: "mirror-setup-motorbike-vietnam, riding-motorbike-blind-spots-vietnam, motorbike-handling-problems-wobble, talking-to-mechanic-vietnam, automatic-chain-oilers"
 ---
 
 Mirror upgrades are the most common cosmetic change on Vietnamese motorbikes — shorter stalks, bar-end styles, coloured lenses. Some of these changes see more; many see less; and the difference matters more here than anywhere, because in Vietnamese traffic your mirrors are a second pair of eyes that work full-time.

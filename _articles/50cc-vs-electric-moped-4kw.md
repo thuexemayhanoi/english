@@ -1,7 +1,7 @@
 ---
-title: "50cc Petrol Moped vs 4 kW Electric Moped: Same Licence Rule, Different Bikes"
+title: "50cc Petrol Moped vs 4 kW Electric Moped: One Licence Rule"
 slug: 50cc-vs-electric-moped-4kw
-description: "Vietnamese law classes sub-50cc petrol mopeds and electric mopeds up to 4 kW together as xe gắn máy - no licence, age 16, helmet. Beyond the shared rule, they are different machines: range, refuel, torque, noise and upkeep."
+description: "Vietnam classes sub-50cc petrol mopeds and 4 kW electric mopeds together: no licence, age 16, helmet. Beyond that, range, refuelling and torque differ."
 category: 50cc
 tags:
   - "50cc"
@@ -25,7 +25,7 @@ One sentence in the traffic law puts petrol 50s and electric mopeds in the same 
 
 ## The shared rule
 
-Article 34(1)(g) of Law 36/2024/QH15 defines the moped category as vehicles designed for no more than 50 km/h with engines of 50cc or less, **or electric motors of 4 kW or less**. Everything legal flows identically from there: same age floor, same helmet duty at the same fine levels, same traffic rules, same compulsory-insurance framework. The licence article carries the details; the electric licence article covers where the moped line sits in the electric spectrum (pedal e-bikes below, licence-class electrics above).
+Article 34(1)(g) of Law 36/2024/QH15 defines the moped category as vehicles designed for no more than 50 km/h with engines of 50cc or less, **or electric motors of 4 kW or less**. Everything legal flows identically from there: same age floor, same helmet duty at the same fine levels, same traffic rules, same compulsory-insurance framework. The licence article carries the details; [the electric licence article]({{ '/articles/fast-electric-motorbike-licence-vietnam/' | relative_url }}) covers where the moped line sits in the electric spectrum (pedal e-bikes below, licence-class electrics above).
 
 ## Refuel versus recharge
 
@@ -38,11 +38,11 @@ Electric motors deliver their push from zero rpm — brisk, silent launches that
 ## Upkeep
 
 - Petrol 50: the classic small-engine routine — oil, chain, brakes, carburettor or injection, filters — covered across our maintenance articles.
-- Electric moped: batteries, controllers and connectors instead — our electric maintenance article covers the care pattern; the big cost event is eventual battery replacement.
+- Electric moped: batteries, controllers and connectors instead — [our electric maintenance article]({{ '/articles/electric-motorbike-maintenance-basics/' | relative_url }}) covers the care pattern; the big cost event is eventual battery replacement.
 
 ## Costs and range honesty
 
-We publish no fixed figures for either class: petrol consumption depends on condition and right hand; electric range depends on battery age, load, speed and terrain, and any claimed range should be treated as a manufacturer's test-condition number, with real-world range lower. Compare real bikes, ask owners, and judge each machine on its condition — our running-costs article covers the petrol side of the ledger.
+We publish no fixed figures for either class: petrol consumption depends on condition and right hand; electric range depends on battery age, load, speed and terrain, and any claimed range should be treated as a manufacturer's test-condition number, with real-world range lower. Compare real bikes, ask owners, and judge each machine on its condition — [our running-costs article]({{ '/articles/50cc-running-costs-vietnam/' | relative_url }}) covers the petrol side of the ledger.
 
 ## Choosing
 

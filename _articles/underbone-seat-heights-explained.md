@@ -1,5 +1,5 @@
 ---
-title: "Underbone Seat Heights Explained: The 756-800 mm Range That Decides Comfort"
+title: "Underbone Seat Heights Explained: The 756-800 mm Comfort Range"
 slug: underbone-seat-heights-explained
 description: "Seat height sounds trivial until a red light on a slope. Verified underbone seat heights explained for Vietnamese riders and renters."
 category: motorcycles

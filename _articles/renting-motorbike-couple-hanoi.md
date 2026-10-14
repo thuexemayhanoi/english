@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "best-motorbike-for-two-people-hanoi, motorbike-passenger-rules-vietnam, do-hanoi-rentals-include-helmets, rental-motorbike-inspection-checklist, best-motorbike-for-day-trips-from-hanoi"
+internal_link_targets: "best-motorbike-for-two-people-hanoi, motorbike-passenger-rules-vietnam, do-hanoi-rentals-include-helmets, rental-motorbike-inspection-checklist, best-motorbike-for-day-trips-from-hanoi, motorbike-rental-female-riders-hanoi"
 ---
 
 Two people on one motorbike is the default family configuration in Vietnam, and renting as a couple follows the same pattern — with a few specifics worth knowing before the handover.

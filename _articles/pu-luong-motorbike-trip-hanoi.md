@@ -30,7 +30,7 @@ Pu Luong is the quiet alternative to the crowded northern classics: a nature res
 
 ## The ride in
 
-The direct route leaves Hanoi and follows the QL6 corridor through Hoa Binh province, turning off the highway for the reserve roads before the terrain gets truly serious — published rider guides call it around 150 km and four hours, an easy ride once you are clear of the city traffic. The scenic option runs via Hoa Binh lake and Mai Chau first (see our Mai Chau guide), then the short 30 km hop over the ridge into the Pu Luong valleys — worth the extra hour for the pass alone.
+The direct route leaves Hanoi and follows the QL6 corridor through Hoa Binh province, turning off the highway for the reserve roads before the terrain gets truly serious — published rider guides call it around 150 km and four hours, an easy ride once you are clear of the city traffic. The scenic option runs via Hoa Binh lake and Mai Chau first (see [our Mai Chau guide]({{ '/articles/mai-chau-overnight-motorbike-trip-hanoi/' | relative_url }})), then the short 30 km hop over the ridge into the Pu Luong valleys — worth the extra hour for the pass alone.
 
 Whatever you choose, the last stretch into the reserve is narrow valley road: single-lane bends through rice terraces, village traffic and water-buffalo right of way. Ride it at walking pace through settlements and you will never have a problem here.
 
@@ -38,11 +38,11 @@ Whatever you choose, the last stretch into the reserve is narrow valley road: si
 
 Pu Luong is not one destination but a chain of valleys — Ban Don, Ban Hieu up the higher valley, Hieu waterfall, the Cham stream waterwheels, Kho Muong cave, and the ridge viewpoints between them. The classic shape is two days: arrive by early afternoon, homestay in a valley village (Mai Hich and Ban Hieu are the usual bases), then a full slow day looping the villages, waterfall and terraces before riding home. Operators and rider guides alike describe exactly this rhythm — the reserve rewards low gears and long lunches.
 
-Homestay culture here is the main accommodation: family stilt houses with dinner and breakfast included. Our overnight-stays checklist applies (ask where the bike sleeps at night — most homestays have covered space, confirm when booking). Weekends and the rice seasons (green May-June, golden September-October) fill the popular villages.
+Homestay culture here is the main accommodation: family stilt houses with dinner and breakfast included. [Our overnight-stays checklist]({{ '/articles/overnight-stays-motorbike-trips-vietnam/' | relative_url }}) applies (ask where the bike sleeps at night — most homestays have covered space, confirm when booking). Weekends and the rice seasons (green May-June, golden September-October) fill the popular villages.
 
 ## The three-day pairing
 
-Pu Luong's geography makes it a perfect middle act. The recommended public circuit is Hanoi-Mai Chau-Pu Luong-Ninh Binh: day one out the QL6 to Mai Chau, day two the short hop to Pu Luong with a full afternoon in the terraces, day three home through the Thanh Hoa side roads or down to Ninh Binh's karst country — our Ninh Binh guide covers that leg, and riding home through it turns a good trip into a great one. Our day-distance guide explains why three modest days beat two rushed ones here.
+Pu Luong's geography makes it a perfect middle act. The recommended public circuit is Hanoi-Mai Chau-Pu Luong-Ninh Binh: day one out the QL6 to Mai Chau, day two the short hop to Pu Luong with a full afternoon in the terraces, day three home through the Thanh Hoa side roads or down to Ninh Binh's karst country — [our Ninh Binh guide]({{ '/articles/ninh-binh-day-trip-motorbike-hanoi/' | relative_url }}) covers that leg, and riding home through it turns a good trip into a great one. Our day-distance guide explains why three modest days beat two rushed ones here.
 
 ## Practical notes
 

@@ -1,5 +1,5 @@
 ---
-title: "Self-Drive or Easy Rider? Choosing How to Tour Vietnam by Motorbike"
+title: "Self-Drive or Easy Rider? How to Tour Vietnam by Motorbike"
 slug: self-drive-vs-easy-rider-vietnam
 description: "Riding yourself versus hiring an Easy Rider (a licensed local guide who drives you): costs, safety, licences and which travellers each option genuinely suits."
 category: vietnam-travel
@@ -49,7 +49,7 @@ Choose the **Easy Rider** if: you do not hold a valid licence for Vietnam, you h
 
 ## If you choose self-drive
 
-Do it properly: read our first-time renter's guide, our traffic survival guides for Saigon and the north, our offline navigation guide, and our travel-insurance article — because riding unlicensed voids the insurance, which converts an accident into a catastrophe. If the northern chapters are your target, contact us to confirm current availability and we will say honestly whether the bike and the plan match your experience.
+Do it properly: read our first-time renter's guide, our traffic survival guides for Saigon and the north, [our offline navigation guide]({{ '/articles/motorbike-trip-navigation-offline-maps-vietnam/' | relative_url }}), and [our travel-insurance article]({{ '/articles/motorbike-travel-insurance-vietnam/' | relative_url }}) — because riding unlicensed voids the insurance, which converts an accident into a catastrophe. If the northern chapters are your target, contact us to confirm current availability and we will say honestly whether the bike and the plan match your experience.
 
 ## The middle ground nobody advertises
 

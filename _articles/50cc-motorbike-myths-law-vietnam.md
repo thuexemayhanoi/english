@@ -1,7 +1,7 @@
 ---
 title: "Five Myths About 50cc Bike Laws in Vietnam"
 slug: 50cc-motorbike-myths-law-vietnam
-description: "Correcting the five most common myths about 50cc bikes in Vietnam: no licence does not mean no rules, helmets apply, fines are identical to motorbikes, adults cannot escape licence law, and e-bikes are not the same legal class."
+description: "Five common myths about 50cc bikes in Vietnam corrected: no licence does not mean no rules, helmets apply, fines match motorbikes, and e-bikes are a different class."
 category: 50cc
 tags:
   - "50cc"

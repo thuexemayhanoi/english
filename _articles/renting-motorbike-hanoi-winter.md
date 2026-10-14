@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "motorbike-night-lights-vietnam, motorbike-required-equipment-vietnam, what-to-carry-riding-motorbike-vietnam, best-motorbike-for-day-trips-from-hanoi, motorbike-rental-agreement-hanoi"
+internal_link_targets: "motorbike-night-lights-vietnam, motorbike-required-equipment-vietnam, what-to-carry-riding-motorbike-vietnam, best-motorbike-for-day-trips-from-hanoi, motorbike-rental-agreement-hanoi, motorbike-rental-international-students-hanoi"
 ---
 
 Hanoi's winter — roughly November through March — surprises visitors who expect tropical heat: mornings can sit near 10–15°C and feel colder at speed on a motorbike. Riding through it is routine for locals; being equipped for it is what separates a good winter rental from a miserable one.

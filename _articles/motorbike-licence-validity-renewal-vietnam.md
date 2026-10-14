@@ -1,7 +1,7 @@
 ---
 title: "Vietnam Motorbike Licence Validity and Renewal"
 slug: motorbike-licence-validity-renewal-vietnam
-description: "Vietnamese motorbike licences A1 and A have no expiry date under Article 57 of Law 36/2024/QH15 — here is what that means, which licences are time-limited, and when paper licences must be exchanged."
+description: "A1 and A motorbike licences in Vietnam never expire (Article 57, Law 36/2024/QH15): what that means, which licences are time-limited."
 category: law-licences
 tags:
   - "validity"

@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "broken-clutch-cable-motorbike-roadside, handlebar-grips-choosing-motorbike, brake-pads-replacement-motorbike-vietnam, genuine-vs-fake-parts-motorbike-vietnam"
+internal_link_targets: "broken-clutch-cable-motorbike-roadside, handlebar-grips-choosing-motorbike, brake-pads-replacement-motorbike-vietnam, genuine-vs-fake-parts-motorbike-vietnam, aftermarket-led-headlight-bulbs, bar-end-weights-vibration"
 ---
 
 Levers are where your hands meet the machine, and stock levers are shaped for an average hand that may not be yours. Aftermarket adjustable levers — with reach dials and folding tips — have migrated from racing to street riding, and most of what they promise is real.

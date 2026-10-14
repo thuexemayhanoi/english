@@ -1,7 +1,7 @@
 ---
 title: "Tet by Motorbike: Riding Vietnam During Lunar New Year"
 slug: tet-holiday-motorbike-travel-vietnam
-description: "Riding during Tet: the country's biggest travel week, full buses and flights, half-closed cities, empty tourist roads — and how motorcyclists can use the holiday well."
+description: "Riding during Tet, Vietnam's biggest travel week: full buses and flights, half-closed cities, empty tourist roads, and how motorcyclists can use the holiday well."
 category: vietnam-travel
 tags:
   - "tet"

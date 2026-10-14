@@ -1,5 +1,5 @@
 ---
-title: "Fuel Economy Test Cycles Explained: How Honda’s 1.47 L/100km Is Measured"
+title: "Fuel Economy Test Cycles: How Honda’s 1.47 L/100km Is Measured"
 slug: fuel-economy-test-cycles-explained
 description: "What manufacturer fuel-economy figures actually measure, the UDC method Honda cites for the Winner R, and how to read economy claims honestly."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: most-fuel-efficient-underbones-vietnam-verified, honda-winner-r-review, underbone-fuel-economy-figures-explained, improving-fuel-economy-motorbike, scooter-fuel-economy-figures-explained, fuel-grades-petrol-stations-vietnam
+internal_link_targets: "most-fuel-efficient-underbones-vietnam-verified, honda-winner-r-review, underbone-fuel-economy-figures-explained, improving-fuel-economy-motorbike, scooter-fuel-economy-figures-explained, fuel-grades-petrol-stations-vietnam, underbone-model-years-explained"
 ---
 
 Every fuel-economy figure in our articles carries the same caveat: manufacturer test values. Here is what that actually means - including a case where Honda openly flags a change in methodology.

@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn — Honda Winner R product page (docs/MODEL-DATABASE.md, retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — Yamaha Exciter 155 VVA product page (docs/MODEL-DATABASE.md, retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-winner-r-review, yamaha-exciter-155-vva-review, winner-r-exciter-155-ownership-costs, high-mileage-rental-motorbike-inspection, underbone-buying-checklist-verified-specs
+internal_link_targets: "honda-winner-r-review, yamaha-exciter-155-vva-review, winner-r-exciter-155-ownership-costs, high-mileage-rental-motorbike-inspection, underbone-buying-checklist-verified-specs, buying-new-underbone-dealer-guide-vietnam"
 ---
 
 Sport underbones are the most ridden-hard, most modified, and most crash-prone bikes in the young Vietnamese market. A used Winner R or Exciter 155 can be a bargain — or someone else's discarded problem. The difference is a disciplined inspection.
@@ -52,4 +52,4 @@ Registration papers matching the frame number, the owner's ID matching the paper
 
 ## The financial picture
 
-Ownership economics — list prices, fuel figures, oil and tyre costs — are compared in our Winner-versus-Exciter costs guide, which gives you the running-cost baseline before you negotiate the purchase price itself.
+Ownership economics — list prices, fuel figures, oil and tyre costs — are compared in [our Winner-versus-Exciter costs guide]({{ '/articles/winner-r-exciter-155-ownership-costs/' | relative_url }}), which gives you the running-cost baseline before you negotiate the purchase price itself.

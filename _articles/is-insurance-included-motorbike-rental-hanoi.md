@@ -1,7 +1,7 @@
 ---
 title: "Is Insurance Included with Motorbike Rentals in Hanoi?"
 slug: is-insurance-included-motorbike-rental-hanoi
-description: "The rental bike carries Vietnam's compulsory third-party insurance - but it covers damage the bike does to others, not you. Nguyen Tu does not provide rider insurance; customers arrange their own."
+description: "The rental bike carries Vietnam's compulsory third-party insurance, which covers damage the bike does to others, not you. Nguyen Tu does not provide rider insurance."
 category: rental
 tags:
   - "insurance"

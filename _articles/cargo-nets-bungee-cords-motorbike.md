@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "carrying-luggage-motorbike-safely-vietnam, top-boxes-racks-motorbike-vietnam, backpack-vs-saddlebags-motorbike, what-to-carry-riding-motorbike-vietnam"
+internal_link_targets: "carrying-luggage-motorbike-safely-vietnam, top-boxes-racks-motorbike-vietnam, backpack-vs-saddlebags-motorbike, what-to-carry-riding-motorbike-vietnam, grab-rails-backrests-pillion-vietnam, pet-carriers-motorbikes-vietnam"
 ---
 
 The cargo net is a Vietnamese institution: stretch it over almost anything, hook it to the rack, ride away. Bungee cords are its cheaper, more dangerous cousin. The difference between the two — and between using either well — is the difference between a load that arrives and a load that appears suddenly on the road behind you.

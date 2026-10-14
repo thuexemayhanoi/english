@@ -1,7 +1,7 @@
 ---
 title: "How Foreigners Exchange a Licence for a Vietnamese One"
 slug: foreign-licence-exchange-vietnam
-description: "How foreign residents exchange a national driving licence for a Vietnamese motorbike licence under Circular 12/2025/TT-BCA: residence papers of at least 3 months, a translated and authenticated licence, and the rule that IDPs cannot be exchanged."
+description: "Exchanging a national licence for a Vietnamese motorbike licence (Circular 12/2025/TT-BCA): 3+ months residence, a translated licence."
 category: law-licences
 tags:
   - "licence"

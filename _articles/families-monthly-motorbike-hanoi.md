@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "two-motorbikes-household-hanoi, child-passengers-motorbike-vietnam, best-motorbike-for-two-people-hanoi, helmet-law-vietnam"
+internal_link_targets: "two-motorbikes-household-hanoi, child-passengers-motorbike-vietnam, best-motorbike-for-two-people-hanoi, helmet-law-vietnam, monthly-rental-through-tet-hanoi"
 ---
 
 Families in Hanoi often run their week on motorbikes: school runs, market trips, commuting. A monthly rental can carry that load — if it is set up around the family's real pattern.

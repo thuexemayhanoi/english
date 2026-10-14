@@ -1,5 +1,5 @@
 ---
-title: "Best 150cc Manual-Clutch Motorbikes in Vietnam: Verified Data Guide"
+title: "Best 150cc Manual-Clutch Motorbikes in Vietnam: Verified Picks"
 slug: best-150cc-manual-motorbikes-vietnam-verified
 description: "Vietnam clutch-bike class compared on verified manufacturer data - Yamaha Exciter 155 VVA, Honda Winner R and CBR150R - power, gearboxes, brakes and price."
 category: motorcycles

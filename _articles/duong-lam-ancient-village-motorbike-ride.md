@@ -1,5 +1,5 @@
 ---
-title: "Duong Lam Ancient Village by Motorbike: Back Roads to Vietnam’s Oldest Village Houses"
+title: "Duong Lam Ancient Village by Motorbike: Back Roads From Hanoi"
 slug: duong-lam-ancient-village-motorbike-ride
 description: "Riding from Hanoi to Duong Lam ancient village: the Son Tay route, what makes the village special, food to try and how to plan the day."
 category: trips
@@ -21,7 +21,7 @@ sources:
   - "https://www.bestpricetravel.com/travel-guide/duong-lam-ancient-village.html — about 50 km from central Hanoi in Son Tay; follow Route 32 to Son Tay and then Road 21 to the village, retrieved 2026-09-24"
   - "https://izitour.com/en/blog/duong-lam-ancient-village-vietnam — around 44 km from Hanoi, a day trip with return the same day, retrieved 2026-09-24"
   - "https://wander-lush.org/duong-lam-ancient-village-hanoi-day-trip/ — the village sits within Hanoi near the historic town of Son Tay; the DIY route travels via Son Tay, retrieved 2026-09-24"
-internal_link_targets: best-motorbike-for-day-trips-from-hanoi, red-river-dyke-riding-guide, hanoi-riding-seasons-guide, how-to-rent-a-motorbike-hanoi, what-to-carry-riding-motorbike-vietnam
+internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, red-river-dyke-riding-guide, hanoi-riding-seasons-guide, how-to-rent-a-motorbike-hanoi, what-to-carry-riding-motorbike-vietnam, hung-kings-temple-phu-tho-motorbike-trip"
 ---
 
 Duong Lam, in Son Tay on the western edge of Hanoi, is the village that preservation-minded travellers cite as the antidote to the city: a commune of laterite-block houses, some centuries old, threaded by narrow lanes under banyan trees. It is roughly 45–50 kilometres from central Hanoi — an easy half-day or relaxed full-day ride.

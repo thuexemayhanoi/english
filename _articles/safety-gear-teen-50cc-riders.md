@@ -1,7 +1,7 @@
 ---
 title: "Safety Gear for Teen Riders on 50cc Bikes: Beyond the Helmet"
 slug: safety-gear-teen-50cc-riders
-description: "The realistic gear kit for 16-17-year-old moped riders in Vietnam: certified fitted helmet first, closed shoes, gloves, eye protection, and the school-day compromises parents can actually enforce."
+description: "Gear for 16-17-year-old moped riders in Vietnam: a certified fitted helmet first, closed shoes, gloves, eye protection."
 category: 50cc
 tags:
   - "50cc"
@@ -24,7 +24,7 @@ Teenage moped riders fall into a gap: legally adults on fines, practically begin
 
 ## The non-negotiable: the helmet
 
-Certified, properly fitted, fastened, every ride — this is law (400,000–600,000 VND without it) and physics at once. The fit guide covers the two-minute fitting check; the standards article covers which certification marks mean something and which novelty shells mean nothing. A helmet is the one item where "the cheap one" is the wrong saving. Teen riders respond well to the honest version of this: the helmet is the only piece of gear that has to work exactly once, perfectly.
+Certified, properly fitted, fastened, every ride — this is law (400,000–600,000 VND without it) and physics at once. [The fit guide]({{ '/articles/helmet-fit-guide-vietnam/' | relative_url }}) covers the two-minute fitting check; [the standards article]({{ '/articles/helmet-safety-standards-explained-vietnam/' | relative_url }}) covers which certification marks mean something and which novelty shells mean nothing. A helmet is the one item where "the cheap one" is the wrong saving. Teen riders respond well to the honest version of this: the helmet is the only piece of gear that has to work exactly once, perfectly.
 
 ## The everyday layer
 
@@ -33,17 +33,17 @@ Vietnamese school-and-street reality means full riding suits are not happening. 
 - **Closed shoes, always.** Slippers and 35 km/h asphalt disagree permanently. Flat-soled shoes with grip beat fashion sneakers; boots beat both.
 - **Gloves.** The first thing to hit the road in most falls is a hand. Simple leather or textile gloves beat bare skin by an enormous margin.
 - **Long trousers on the bike**, ideally denim minimum. This is the most negotiated item and worth the negotiation.
-- **Eye protection.** Dust, glare and the 30 km/h insect are constant in Hanoi; our eye-protection article covers options from visor to glasses. Daylight glare is a real hazard for morning school runs.
+- **Eye protection.** Dust, glare and the 30 km/h insect are constant in Hanoi; [our eye-protection article]({{ '/articles/eye-protection-riding-motorbike-vietnam/' | relative_url }}) covers options from visor to glasses. Daylight glare is a real hazard for morning school runs.
 
 ## The bike-side kit
 
-- A basic first-aid kit carried under the seat — our riders' first-aid article covers a sensible small set.
+- A basic first-aid kit carried under the seat — [our riders' first-aid article]({{ '/articles/first-aid-kit-motorbike-riders-vietnam/' | relative_url }}) covers a sensible small set.
 - Lights, horn and brake light working — on teenage 50s, ageing electrics are a safety system; the weekly checks article keeps them honest.
 - A phone mount used for navigation, never a phone in the moving hand (800,000–1,000,000 VND fine, and worse odds in traffic).
 
 ## What parents can actually enforce
 
-Buy the gear with the bike, budget it as part of the purchase, and attach the same consequence to "no helmet, no bike" as to "no keys". The parents' guide covers the full handover plan. Peer pressure is the real enemy: the rider whose friends all wear helmets wears a helmet — which is why the school-run cohort matters as much as the individual rider.
+Buy the gear with the bike, budget it as part of the purchase, and attach the same consequence to "no helmet, no bike" as to "no keys". [The parents' guide]({{ '/articles/buying-50cc-for-your-teenager-vietnam/' | relative_url }}) covers the full handover plan. Peer pressure is the real enemy: the rider whose friends all wear helmets wears a helmet — which is why the school-run cohort matters as much as the individual rider.
 
 ## The honest frame
 

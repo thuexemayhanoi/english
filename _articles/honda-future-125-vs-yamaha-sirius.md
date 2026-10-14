@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — Yamaha VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-future-125-review, yamaha-sirius-rc-110-review, best-motorbike-for-commuting-hanoi, esp-vs-blue-core-engines-explained, best-125cc-underbones-vietnam-verified
+internal_link_targets: "honda-future-125-review, yamaha-sirius-rc-110-review, best-motorbike-for-commuting-hanoi, esp-vs-blue-core-engines-explained, best-125cc-underbones-vietnam-verified, honda-wave-alpha-vs-honda-cbr150r"
 ---
 
 A class-crossing comparison: Honda's largest semi-automatic underbone against Yamaha's evergreen light 110. All figures come from the official Honda Vietnam and Yamaha Vietnam product pages (retrieved 23 September 2026).
@@ -41,4 +41,4 @@ Future 125 FI from 30,622,909 VND; Sirius RC from 21,993,000 VND, with cheaper d
 
 ## Verdict
 
-Sirius for the tightest budgets and tightest lanes; Future for commuters who ride every day, carry loads or travel farther - the extra torque and range pay for themselves. See our commuting guide for how distance changes the math. Contact us to confirm current availability.
+Sirius for the tightest budgets and tightest lanes; Future for commuters who ride every day, carry loads or travel farther - the extra torque and range pay for themselves. See [our commuting guide]({{ '/articles/best-motorbike-for-commuting-hanoi/' | relative_url }}) for how distance changes the math. Contact us to confirm current availability.

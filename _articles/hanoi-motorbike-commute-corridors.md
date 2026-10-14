@@ -1,7 +1,7 @@
 ---
-title: "Hanoi's Main Motorbike Commute Corridors: Where the Traffic Actually Flows"
+title: "Hanoi's Main Motorbike Commute Corridors: Where Traffic Flows"
 slug: hanoi-motorbike-commute-corridors
-description: "A corridor-by-corridor look at Hanoi's motorbike commuting: the centre-west axis, the bridge approaches, the university lines, timing patterns and how riders choose their daily routes."
+description: "Corridor by corridor, how Hanoi commutes by motorbike: the centre-west axis, bridge approaches, university lines, timing patterns and how riders pick daily routes."
 category: hanoi
 tags:
   - "commuting"
@@ -18,7 +18,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): address and opening hours only"
-internal_link_targets: traffic-at-rush-hour-riding-hanoi, best-motorbike-for-commuting-hanoi, commuting-by-motorbike-monthly-hanoi, hanoi-districts-layout-guide-riders, crossing-hanoi-bridges-motorbike, hanoi-navigation-motorbike-guide, choosing-hanoi-neighbourhood-motorbike-access, hanoi-ring-roads-motorbike-guide
+internal_link_targets: "traffic-at-rush-hour-riding-hanoi, best-motorbike-for-commuting-hanoi, commuting-by-motorbike-monthly-hanoi, hanoi-districts-layout-guide-riders, crossing-hanoi-bridges-motorbike, hanoi-navigation-motorbike-guide, choosing-hanoi-neighbourhood-motorbike-access, hanoi-ring-roads-motorbike-guide, hanoi-university-areas-riding-guide"
 ---
 
 Ask a Hanoian about traffic and you get weather talk: it just *is*, and you plan around it. For riders, planning around it works — because Hanoi's congestion is not random. It runs along a handful of well-defined corridors, on a schedule you can learn, and the riders who thrive are the ones who treat the city's flow as tide tables rather than bad luck.

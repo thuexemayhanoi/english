@@ -1,7 +1,7 @@
 ---
 title: "Riding a Motorbike to Noi Bai Airport: Routes, Timing and Parking"
 slug: riding-motorbike-noi-bai-airport-hanoi
-description: "Getting to Noi Bai Airport by motorbike: the Vo Nguyen Giap route and alternatives, why expressways don't apply, journey times by hour, parking at the terminals and return logistics."
+description: "Getting to Noi Bai Airport by motorbike: the Vo Nguyen Giap route and alternatives, why expressways are off limits, journey times by hour, and terminal parking."
 category: hanoi
 tags:
   - "noi bai"

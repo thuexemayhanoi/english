@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "coolant-radiator-care-liquid-cooled-motorbike, motorbike-overheating-causes, gravel-roads-motorbike-vietnam, skid-plates-underbody-protection"
+internal_link_targets: "coolant-radiator-care-liquid-cooled-motorbike, motorbike-overheating-causes, gravel-roads-motorbike-vietnam, skid-plates-underbody-protection, variator-roller-upgrades-scooter"
 ---
 
 The radiator is the most exposed fragile part on a liquid-cooled motorbike: a thin aluminium honeycomb mounted at the front, directly in the path of everything the wheel and traffic throw forward. A stone, a stick, or years of mud are all it takes.

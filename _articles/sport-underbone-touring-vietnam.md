@@ -31,7 +31,7 @@ That gives both bikes a touring range in the low hundreds of kilometres per fill
 
 ## Comfort over distance
 
-Sport underbones trade comfort for stance: the seat is firmer than a commuter's, the position loads your wrists, and the 795 mm seats (both, per the manufacturer pages) are tall for shorter riders. Practical mitigations: a lighter grip, breaks every 90-120 minutes, and luggage kept low and central — our luggage-carrying guide covers loads properly.
+Sport underbones trade comfort for stance: the seat is firmer than a commuter's, the position loads your wrists, and the 795 mm seats (both, per the manufacturer pages) are tall for shorter riders. Practical mitigations: a lighter grip, breaks every 90-120 minutes, and luggage kept low and central — [our luggage-carrying guide]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}) covers loads properly.
 
 ## What handles the miles well
 
@@ -39,4 +39,4 @@ The 17-inch wheels and wider rear tyres (120/70-17 both) are more stable than co
 
 ## Where the class stops making sense
 
-Long two-up touring with heavy luggage, and true off-road segments — the low-ish clearance, firm suspension and sport tyres are road tools. For riders mixing a big loop with city living, though, a manual sport underbone is the most fun per dong Vietnam sells. Our 150cc manual guide ranks the options, and the day-trips-from-Hanoi guide covers the routes to test one on first. Rental availability of any model: contact us to confirm current availability.
+Long two-up touring with heavy luggage, and true off-road segments — the low-ish clearance, firm suspension and sport tyres are road tools. For riders mixing a big loop with city living, though, a manual sport underbone is the most fun per dong Vietnam sells. [Our 150cc manual guide]({{ '/articles/best-150cc-manual-motorbikes-vietnam-verified/' | relative_url }}) ranks the options, and [the day-trips-from-Hanoi guide]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }}) covers the routes to test one on first. Rental availability of any model: contact us to confirm current availability.

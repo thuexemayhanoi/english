@@ -1,5 +1,5 @@
 ---
-title: "Wet Weight vs Dry Weight: Reading Vietnamese Spec Sheets Correctly"
+title: "Wet Weight vs Dry Weight: Reading Vietnamese Spec Sheets"
 slug: wet-vs-dry-weight-explained
 description: "Why Yamaha publishes wet weights and Honda kerb weights for Vietnamese bikes - and how to compare across manufacturers honestly."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: underbone-kerb-weights-explained, yamaha-sirius-rc-110-review, yamaha-exciter-155-vva-review, honda-wave-alpha-110-review, best-underbones-short-riders-verified, lightest-motorbikes-for-new-riders
+internal_link_targets: "underbone-kerb-weights-explained, yamaha-sirius-rc-110-review, yamaha-exciter-155-vva-review, honda-wave-alpha-110-review, best-underbones-short-riders-verified, lightest-motorbikes-for-new-riders, power-to-weight-ratio-explained"
 ---
 
 Comparing a Honda's weight against a Yamaha's in Vietnam hides a small trap: the two companies quote different weights. Yamaha's pages publish wet weights for the Sirius RC (100 kg) and Exciter 155 VVA (123 kg); Honda publishes kerb weights across its range (retrieved 23 September 2026). This guide explains the difference so comparisons stay honest.
@@ -28,7 +28,7 @@ Dry weight: the bike as built, no fluids - fuel, oil, coolant, battery acid all 
 
 ## Why it matters in Vietnam
 
-Weight claims get copied across the internet without their convention, so a "98 kg Wave RSX" and a "100 kg Sirius" get compared as if identical - when one is a kerb figure and the other a wet figure. The honest statement: the two bikes are within a couple of kilograms of each other, and the convention difference is smaller than the truth most comparisons need. Our kerb-weights explainer ranks the class with conventions labelled.
+Weight claims get copied across the internet without their convention, so a "98 kg Wave RSX" and a "100 kg Sirius" get compared as if identical - when one is a kerb figure and the other a wet figure. The honest statement: the two bikes are within a couple of kilograms of each other, and the convention difference is smaller than the truth most comparisons need. [Our kerb-weights explainer]({{ '/articles/underbone-kerb-weights-explained/' | relative_url }}) ranks the class with conventions labelled.
 
 ## What to do with the numbers
 

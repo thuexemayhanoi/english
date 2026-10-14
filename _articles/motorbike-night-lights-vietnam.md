@@ -1,7 +1,7 @@
 ---
-title: "Night Riding: Motorbike Light Rules in Vietnam"
+title: "Motorbike Light Rules in Vietnam: Headlights After Dark"
 slug: motorbike-night-lights-vietnam
-description: "Motorbike light rules at night in Vietnam: lights are mandatory from 18:00 to 06:00 and in fog or heavy rain, with a 200,000-400,000 VND fine for riding unlit, 600,000-800,000 VND in tunnels, and defects fined under Article 14."
+description: "Motorbike light rules in Vietnam: lights mandatory from 18:00 to 06:00 and in fog or heavy rain; riding unlit costs 200,000-400,000 VND, 600,000-800,000 in tunnels."
 category: law-licences
 tags:
   - "lights"

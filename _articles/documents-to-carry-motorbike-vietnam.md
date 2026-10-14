@@ -1,7 +1,7 @@
 ---
 title: "What Documents Must You Carry While Riding in Vietnam"
 slug: documents-to-carry-motorbike-vietnam
-description: "Documents a motorbike rider must carry in Vietnam under Law 36/2024/QH15: an appropriate licence, the vehicle registration certificate and compulsory insurance. Riding without valid insurance costs 200,000-300,000 VND; riders who cannot produce papers at a stop risk the bike being held until they do."
+description: "What a rider must carry in Vietnam under Law 36/2024/QH15: a valid licence, the registration certificate and compulsory insurance."
 category: law-licences
 tags:
   - "documents"

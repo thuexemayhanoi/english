@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — battery life claim 150,000 km (15 years), lithium-ion 72 V 68 Ah"
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — LFP battery chemistry choice, rental model removing ageing risk"
-internal_link_targets: electric-motorbike-maintenance-basics, electric-motorbike-battery-replacement-vietnam, buying-used-electric-motorbike-vietnam, charging-electric-motorbike-at-home-vietnam
+internal_link_targets: "electric-motorbike-maintenance-basics, electric-motorbike-battery-replacement-vietnam, buying-used-electric-motorbike-vietnam, charging-electric-motorbike-at-home-vietnam, electric-motorbike-summer-heat-battery-care, electric-motorbike-winter-range-hanoi"
 ---
 
 The battery is the part of an electric motorbike that ages — slowly, predictably, and in ways you can influence. Here is what determines how long a Vietnamese electric pack lasts.

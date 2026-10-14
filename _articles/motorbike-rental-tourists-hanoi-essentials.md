@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "can-tourists-rent-a-motorbike-hanoi, how-to-rent-a-motorbike-hanoi, motorbike-rental-price-hanoi, what-is-included-motorbike-rental-hanoi, rental-motorbike-inspection-checklist"
+internal_link_targets: "can-tourists-rent-a-motorbike-hanoi, how-to-rent-a-motorbike-hanoi, motorbike-rental-price-hanoi, what-is-included-motorbike-rental-hanoi, rental-motorbike-inspection-checklist, motorbike-rental-expats-moving-hanoi"
 ---
 
 If you are visiting Hanoi and considering a motorbike, this is the whole picture in one place: what is legal, what it costs, what you get, and what to do on day one.

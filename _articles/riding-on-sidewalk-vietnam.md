@@ -1,7 +1,7 @@
 ---
 title: "Riding on the Sidewalk in Vietnam: What the Law Says"
 slug: riding-on-sidewalk-vietnam
-description: "Riding a motorbike on the sidewalk in Vietnam is illegal and fined 4,000,000-6,000,000 VND under Article 7(7) of Decree 168/2024/NĐ-CP — the same band as running a red light. Narrow exemptions exist for crossing and entering premises."
+description: "Sidewalk riding in Vietnam is fined 4-6 million VND under Article 7(7) of Decree 168/2024, the same band as running a red light, with narrow exemptions for crossing."
 category: law-licences
 tags:
   - "sidewalk"

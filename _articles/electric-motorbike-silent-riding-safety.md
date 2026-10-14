@@ -1,5 +1,5 @@
 ---
-title: "Riding a Silent Motorbike Safely: Electric Visibility on Hanoi Streets"
+title: "Riding a Silent Electric Motorbike Safely on Hanoi Streets"
 slug: electric-motorbike-silent-riding-safety
 description: "Quiet electric motorbikes are easy for pedestrians and cars to miss — positioning, eye contact and light habits that compensate for a silent motor."
 category: electric
@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — smart features on modern electrics (LED projector headlights, vehicle tracking)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: staying-visible-electric-motorbike, riding-electric-motorbike-hanoi-rain, best-motorbike-for-hanoi-traffic, e-bike-helmet-rules-vietnam
+internal_link_targets: "staying-visible-electric-motorbike, riding-electric-motorbike-hanoi-rain, best-motorbike-for-hanoi-traffic, e-bike-helmet-rules-vietnam, electric-motorbike-night-riding-hanoi"
 ---
 
 The quiet motor is an electric bike's best feature and its biggest hidden risk. In Hanoi traffic, sound is a courtesy petrol bikes give away for free — pedestrians, cyclists and merging cars all track engines by ear. Your silent approach needs to be replaced with something.

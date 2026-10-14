@@ -1,5 +1,5 @@
 ---
-title: "Buying a Used Electric Motorbike in Vietnam: The Battery Checklist"
+title: "Buying a Used Electric Motorbike in Vietnam: Battery Checklist"
 slug: buying-used-electric-motorbike-vietnam
 description: "A used electric motorbike is a used battery with wheels attached — how to check pack health, charge cycles, theft history and what a fair price looks like."
 category: electric
@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — battery life claim (150,000 km), 3-year battery warranty, app diagnostics"
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — swappable LFP batteries rented or owned"
-internal_link_targets: "electric-motorbike-battery-lifespan-vietnam, buying-first-electric-motorbike-vietnam, electric-motorbike-battery-replacement-vietnam, disc-locks-chains-motorbike-security, electric-motorbike-battery-health-check"
+internal_link_targets: "electric-motorbike-battery-lifespan-vietnam, buying-first-electric-motorbike-vietnam, electric-motorbike-battery-replacement-vietnam, disc-locks-chains-motorbike-security, electric-motorbike-battery-health-check, electric-motorbike-resale-value-vietnam"
 ---
 
 On a used electric motorbike, the battery is most of the value and almost all of the risk. Petrol bikes age slowly; lithium packs age with every cycle, and a bike that looks fine can carry a tired battery.

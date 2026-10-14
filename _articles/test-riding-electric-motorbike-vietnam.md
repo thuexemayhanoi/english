@@ -1,7 +1,7 @@
 ---
 title: "Test Riding an Electric Motorbike in Vietnam: What to Feel For"
 slug: test-riding-electric-motorbike-vietnam
-description: "What to test on an electric motorbike test ride in Vietnam: silent-traffic awareness, throttle and regen feel, range display honesty and the checks before you hand over money."
+description: "What to test on an electric motorbike in Vietnam: silent-traffic awareness, throttle and regen feel, range-display honesty."
 category: electric
 tags:
   - "electric motorbike"

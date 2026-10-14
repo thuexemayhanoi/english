@@ -1,7 +1,7 @@
 ---
 title: "Can You Ride a 125cc with a Car Licence in Vietnam"
 slug: ride-125cc-with-car-licence-vietnam
-description: "No — a Vietnamese or foreign car licence does not cover motorbikes. Under Article 57 of Law 36/2024/QH15 you need an A1 licence for a 125cc, and riding on a car licence is treated as riding unlicensed."
+description: "No: a car licence does not cover motorbikes in Vietnam. A 125cc needs an A1 licence under Article 57 of Law 36/2024/QH15."
 category: law-licences
 tags:
   - "car licence"

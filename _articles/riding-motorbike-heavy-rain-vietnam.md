@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "rain-gear-motorbike-riders-vietnam, riding-rental-motorbike-hanoi-rain, renting-motorbike-hanoi-rainy-season, flooded-streets-riding-motorbike-vietnam, fog-and-low-visibility-riding-motorbike-vietnam"
+internal_link_targets: "rain-gear-motorbike-riders-vietnam, riding-rental-motorbike-hanoi-rain, renting-motorbike-hanoi-rainy-season, flooded-streets-riding-motorbike-vietnam, fog-and-low-visibility-riding-motorbike-vietnam, storms-when-to-stop-riding-motorbike"
 ---
 Hanoi's rain does not drizzle — it dumps. Half the annual rain falls in a few summer months, often within fifteen-minute downpours that flood streets and cut visibility to metres. The rental-side practicalities are in [Riding a Rental Motorbike in Hanoi Rain: What to Know]({{ '/articles/riding-rental-motorbike-hanoi-rain/' | relative_url }}); this is the riding-craft version.
 

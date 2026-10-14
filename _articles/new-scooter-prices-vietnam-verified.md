@@ -1,7 +1,7 @@
 ---
 title: "What a New Scooter Costs in Vietnam: Verified 2026 List Prices"
 slug: new-scooter-prices-vietnam-verified
-description: "Verified manufacturer list prices for Vietnamese scooters in 2026 - Janus to SH160i - with sources, what prices do not include, and how list prices relate to rental prices."
+description: "Verified manufacturer list prices for Vietnamese scooters in 2026, Janus to SH160i, with sources, what list prices leave out, and how they relate to rental rates."
 category: scooters
 tags:
   - "scooter prices"
@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn - Honda VN model pages (Vision, Air Blade, Lead, Sh mode 125, SH160i/125i, Vario 125, Vario 160), official specifications (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn - Yamaha VN model pages (Janus, FreeGo, Grande, Latte, NVX 155), official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-scooter-lineup-vietnam-explained, yamaha-scooter-lineup-vietnam-explained, renting-vs-buying-a-motorbike-hanoi, premium-scooters-vietnam, long-term-renting-vs-buying-residents-hanoi
+internal_link_targets: "honda-scooter-lineup-vietnam-explained, yamaha-scooter-lineup-vietnam-explained, renting-vs-buying-a-motorbike-hanoi, premium-scooters-vietnam, long-term-renting-vs-buying-residents-hanoi, scooter-trim-versions-explained"
 ---
 
 Scooter prices in Vietnam span a five-to-one range, and manufacturer list prices are the only numbers worth planning around. This table records only prices published by Honda Vietnam and Yamaha Vietnam on official product pages, retrieved 23 September 2026. Retail prices change with promotions - always confirm the current figure with a dealer.

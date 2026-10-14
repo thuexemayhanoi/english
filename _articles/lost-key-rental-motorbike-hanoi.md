@@ -1,7 +1,7 @@
 ---
 title: "What Happens If You Lose the Key to a Rental Motorbike"
 slug: lost-key-rental-motorbike-hanoi
-description: "Losing a rental key costs a replacement fee from your deposit, a wait while it is cut, and a lesson about the spare - here is what actually happens and how to make it painless."
+description: "Losing a rental key costs a replacement fee from your deposit, a wait while it is cut, and a lesson about the spare."
 category: rental
 tags:
   - "lost key"

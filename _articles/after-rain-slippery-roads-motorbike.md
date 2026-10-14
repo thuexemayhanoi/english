@@ -16,7 +16,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "riding-motorbike-heavy-rain-vietnam, riding-downhill-motorbike-engine-braking, cornering-motorbike-vietnam, check-motorbike-after-heavy-rain"
+internal_link_targets: "riding-motorbike-heavy-rain-vietnam, riding-downhill-motorbike-engine-braking, cornering-motorbike-vietnam, check-motorbike-after-heavy-rain, riding-during-tet-traffic-safety"
 ---
 
 The rain stops and the road still tries to kill you for an hour. The most slippery moment on a Vietnamese road is often the first minutes after rain eases: surface oil rises, mud runs onto corners from construction sites, and drivers switch their brains back to dry-road mode while the surface is still wet.

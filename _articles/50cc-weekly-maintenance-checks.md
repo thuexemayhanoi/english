@@ -1,7 +1,7 @@
 ---
 title: "Weekly Maintenance Checks for a 50cc: The Ten-Minute Routine"
 slug: 50cc-weekly-maintenance-checks
-description: "A ten-minute weekly routine for a 50cc in Vietnam: oil level, chain, brakes, tyres, lights, horn and fasteners - the checks that prevent most small-bike breakdowns, in a repeatable order."
+description: "A ten-minute weekly routine for a 50cc: oil level, chain, brakes, tyres, lights, horn and fasteners, in a repeatable order that prevents most small-bike breakdowns."
 category: 50cc
 tags:
   - "50cc"
@@ -17,7 +17,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: chain-maintenance-motorbike-vietnam, checking-engine-oil-motorbike, brake-checks-motorbike-vietnam, 50cc-pre-ride-checklist, 50cc-common-problems-first-year
+internal_link_targets: "chain-maintenance-motorbike-vietnam, checking-engine-oil-motorbike, brake-checks-motorbike-vietnam, 50cc-pre-ride-checklist, 50cc-common-problems-first-year, 50cc-brakes-drum-checks"
 ---
 
 Ten minutes a week keeps a 50cc out of ninety percent of trouble. The routine below is ordered so you never need tools you do not have with you, and it works in a parking spot, a kerbside, a courtyard. Intervals beyond this — oil changes, services, part replacement — belong to your specific model's manufacturer manual and your mechanic, never to internet rules of thumb.
@@ -28,11 +28,11 @@ Bike upright (or on its stand per the manual), dipstick or sight-glass check —
 
 ## Two: chain (geared underbones)
 
-Press mid-span: a little give, not sag. Look for dryness and rust — the chain article covers lubing and adjustment. A dry chain on a small bike is a wearing chain, and small chains wear fast.
+Press mid-span: a little give, not sag. Look for dryness and rust — [the chain article]({{ '/articles/chain-maintenance-motorbike-vietnam/' | relative_url }}) covers lubing and adjustment. A dry chain on a small bike is a wearing chain, and small chains wear fast.
 
 ## Three: brakes
 
-Roll the bike at walking pace and brake hard, front then rear, each alone. A lever that nears the bar, a brake that grabs or pulses, or a pull to one side means adjustment or shoes are due — the brake checks article details the diagnosis.
+Roll the bike at walking pace and brake hard, front then rear, each alone. A lever that nears the bar, a brake that grabs or pulses, or a pull to one side means adjustment or shoes are due — [the brake checks article]({{ '/articles/brake-checks-motorbike-vietnam/' | relative_url }}) details the diagnosis.
 
 ## Four: tyres
 

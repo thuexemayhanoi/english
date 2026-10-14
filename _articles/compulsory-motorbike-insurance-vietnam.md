@@ -1,7 +1,7 @@
 ---
 title: "Compulsory Motorbike Insurance in Vietnam"
 slug: compulsory-motorbike-insurance-vietnam
-description: "Every motorbike on Vietnamese roads must carry compulsory civil-liability insurance under Article 56 of Law 36/2024/QH15 and Decree 67/2023/NĐ-CP; riding without it is fined 200,000–300,000 VND and leaves accident victims uncompensated."
+description: "Every motorbike in Vietnam must carry compulsory civil-liability insurance. Riding without it is fined 200,000-300,000 VND."
 category: law-licences
 tags:
   - "insurance"

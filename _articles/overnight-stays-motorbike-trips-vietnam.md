@@ -1,7 +1,7 @@
 ---
-title: "Overnight Stays on Motorbike Trips: Picking and Asking for Bike-Safe Lodging"
+title: "Overnight Stays on Motorbike Trips: Finding Bike-Safe Lodging"
 slug: overnight-stays-motorbike-trips-vietnam
-description: "How to choose overnight accommodation on a motorbike trip in northern Vietnam: parking arrangements, security, homestays versus hotels and the questions to ask before booking."
+description: "Choosing overnight accommodation on a motorbike trip in northern Vietnam: parking arrangements, security, homestays versus hotels and the questions to ask first."
 category: trips
 tags:
   - "overnight"
@@ -35,7 +35,7 @@ Ask these, in order, when booking:
 - **Is it watched overnight?** Attended lots and locked courtyards are the norm in tourist towns; confirm someone is around after the gates close.
 - **Is it included?** Some hotels charge a small nightly fee for garage parking; homestays rarely do.
 
-For what can go wrong and who bears it, the rental-security guide applies on the road as much as in Hanoi: use your steering lock, disc lock if you carry one, and take the helmet inside — helmets walk.
+For what can go wrong and who bears it, [the rental-security guide]({{ '/articles/home-parking-overnight-security/' | relative_url }}) applies on the road as much as in Hanoi: use your steering lock, disc lock if you carry one, and take the helmet inside — helmets walk.
 
 ## Homestay versus hotel
 

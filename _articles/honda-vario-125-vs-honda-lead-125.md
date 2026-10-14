@@ -1,7 +1,7 @@
 ---
 title: "Honda Vario 125 vs Honda Lead 125: Sporty Newcomer vs Cargo King"
 slug: honda-vario-125-vs-honda-lead-125
-description: "Honda Vario 125 vs Honda Lead 125 compared on verified Honda Vietnam specs - power, torque, fuel use, weight, wheels, brakes, storage and price - before you choose your Honda 125."
+description: "Honda Vario 125 vs Honda Lead 125 on verified Honda Vietnam specs: power, torque, fuel use, weight, wheels, brakes, storage and price. Which Honda 125 to choose."
 category: scooters
 tags:
   - "honda vario 125"
@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn - Honda VN model pages (Sh mode 125, SH160i/125i), official specifications (retrieved 2026-09-23)"
   - "honda.com.vn - Honda VN model page for Lead, official specifications (retrieved 2026-09-23, as used in the published Lead review)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-vario-125-review, honda-lead-125-review, honda-scooter-lineup-vietnam-explained, scooter-underseat-storage-comparison, scooter-seat-heights-comparison-vietnam
+internal_link_targets: "honda-vario-125-review, honda-lead-125-review, honda-scooter-lineup-vietnam-explained, scooter-underseat-storage-comparison, scooter-seat-heights-comparison-vietnam, honda-air-blade-125-vs-honda-vario-125, yamaha-janus-125-vs-honda-lead-125"
 ---
 
 Honda's 125 cc scooter range has two very different personalities: the new sporty Vario 125 and the cargo-focused Lead 125. If you are choosing between them, the decision is really about what your week looks like. All figures come from Honda Vietnam's official product pages (retrieved 23 September 2026).

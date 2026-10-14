@@ -25,7 +25,7 @@ Hanoi's winter is not harsh by world standards, but it is exactly the kind of mi
 
 ## Why the display falls faster
 
-Battery chemistry works by electrochemical reactions, and reactions slow in the cold. A pack that delivered a comfortable margin in November gives noticeably less per bar in January. The manufacturer figures — the Evo's up-to-165 km, the Weaver 200's 200 km at 35 km/h — are standard-condition claims; cold, damp, headlight use and thicker cold-weather gear all pull the real figure down. Our real-world range guide gives the full list of shrinkage factors; winter is simply several of them at once.
+Battery chemistry works by electrochemical reactions, and reactions slow in the cold. A pack that delivered a comfortable margin in November gives noticeably less per bar in January. The manufacturer figures — the Evo's up-to-165 km, the Weaver 200's 200 km at 35 km/h — are standard-condition claims; cold, damp, headlight use and thicker cold-weather gear all pull the real figure down. [Our real-world range guide]({{ '/articles/electric-motorbike-range-real-world-vietnam/' | relative_url }}) gives the full list of shrinkage factors; winter is simply several of them at once.
 
 ## The winter habits
 

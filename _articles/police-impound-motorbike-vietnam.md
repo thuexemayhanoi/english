@@ -1,7 +1,7 @@
 ---
 title: "When Vietnamese Police Can Impound Your Motorbike"
 slug: police-impound-motorbike-vietnam
-description: "Decree 168/2024 lists the exact violations for which Vietnamese traffic police can hold a motorbike — no valid licence, no plates, no registration, serious speeding, red-light running, wrong-way riding and accidents among them — and holding is separate from the fine."
+description: "When traffic police can hold a motorbike under Decree 168/2024: no valid licence, no plates or registration, serious speeding, red lights."
 category: law-licences
 tags:
   - "vehicle impound"

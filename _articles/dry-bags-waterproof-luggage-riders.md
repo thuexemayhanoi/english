@@ -16,14 +16,14 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "riding-motorbike-heavy-rain-vietnam, top-boxes-racks-motorbike-vietnam, carrying-luggage-motorbike-safely-vietnam, backpack-vs-saddlebags-motorbike"
+internal_link_targets: "riding-motorbike-heavy-rain-vietnam, top-boxes-racks-motorbike-vietnam, carrying-luggage-motorbike-safely-vietnam, backpack-vs-saddlebags-motorbike, tail-bags-roll-bags-motorbike, waterproof-document-pouches-motorbike"
 ---
 
 In Vietnam the rain does not ask permission, and it comes sideways. Zips leak, seams wick, and the backpack you trusted soaks your laptop in the time it takes to find shelter. Dry bags solve rain at the luggage level.
 
 ## Why dry bags beat "waterproof" bags
 
-A roll-top dry bag seals by folding: three folds and a buckle, no zip to fail, no seam tape to lift. Electronics, documents, spare clothes and anything that must arrive dry live in dry bags — inside whatever outer luggage you use. Layering is the principle: the outer bag takes abrasion, mud and theft exposure; the dry bag inside takes water. A top box that has sealed for two monsoons will still admit water at a worn gasket — the box article is [Top Boxes and Rear Racks for Motorbikes in Vietnam]({{ '/articles/top-boxes-racks-motorbike-vietnam/' | relative_url }}) — and the liner inside makes that failure harmless.
+A roll-top dry bag seals by folding: three folds and a buckle, no zip to fail, no seam tape to lift. Electronics, documents, spare clothes and anything that must arrive dry live in dry bags — inside whatever outer luggage you use. Layering is the principle: the outer bag takes abrasion, mud and theft exposure; the dry bag inside takes water. A top box that has sealed for two monsoons will still admit water at a worn gasket — [the box article]({{ '/articles/top-boxes-racks-motorbike-vietnam/' | relative_url }}) is [Top Boxes and Rear Racks for Motorbikes in Vietnam]({{ '/articles/top-boxes-racks-motorbike-vietnam/' | relative_url }}) — and the liner inside makes that failure harmless.
 
 ## Sizes and colours
 

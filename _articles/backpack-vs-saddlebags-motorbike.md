@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "carrying-luggage-motorbike-safely-vietnam, top-boxes-racks-motorbike-vietnam, riding-jacket-vietnam-climate, what-to-carry-riding-motorbike-vietnam"
+internal_link_targets: "carrying-luggage-motorbike-safely-vietnam, top-boxes-racks-motorbike-vietnam, riding-jacket-vietnam-climate, what-to-carry-riding-motorbike-vietnam, camping-gear-motorbike-trips, tank-bags-motorbikes-uses"
 ---
 
 Every rider carries things, and the carrying method is not a neutral choice: a backpack changes your centre of gravity, your heat, and what happens in a fall; saddlebags change the bike instead. The Vietnamese daily-carry question deserves an honest comparison.

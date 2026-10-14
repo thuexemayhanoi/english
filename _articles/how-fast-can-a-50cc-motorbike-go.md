@@ -1,7 +1,7 @@
 ---
 title: "How Fast Can a 50cc Motorbike Go? Realistic Speed Expectations"
 slug: how-fast-can-a-50cc-motorbike-go
-description: "Honest speed expectations for 50cc bikes in Vietnam: what the moped category legally means, what a small engine can realistically sustain, and where a 50cc stops being enough bike."
+description: "Honest speed expectations for 50cc bikes in Vietnam: what the moped category legally means, what a small engine can sustain."
 category: 50cc
 tags:
   - "50cc"
@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 34(1)(g) (mopeds designed for no more than 50 km/h)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: what-is-a-50cc-motorbike-vietnam, 50cc-licence-vietnam, best-motorbike-for-hanoi-traffic, 50cc-day-trip-range-limits
+internal_link_targets: "what-is-a-50cc-motorbike-vietnam, 50cc-licence-vietnam, best-motorbike-for-hanoi-traffic, 50cc-day-trip-range-limits, 50cc-mopeds-vs-50cc-underbones"
 ---
 
 The question sounds simple and the honest answer has three layers: the law, the machine, and the road.
@@ -43,6 +43,6 @@ In Hanoi's inner districts, a 50cc rarely feels slow, because traffic rarely mov
 
 ## Where that stops being acceptable
 
-If your riding is mostly neighbourhood streets at off-peak hours, the honest answer is that a 50cc is enough bike. If you commute across the city on main corridors, ride two-up, or leave the city on weekends, the honest answer is that it is not — our comparison of 50cc and 110cc bikes covers the step up, and the day-trip article explains where small engines run out of margin.
+If your riding is mostly neighbourhood streets at off-peak hours, the honest answer is that a 50cc is enough bike. If you commute across the city on main corridors, ride two-up, or leave the city on weekends, the honest answer is that it is not — our comparison of 50cc and 110cc bikes covers the step up, and [the day-trip article]({{ '/articles/50cc-day-trip-range-limits/' | relative_url }}) explains where small engines run out of margin.
 
 One safety note that matters more than the numbers: a slow bike must be ridden defensively. Drivers expect traffic to keep pace; a 30 km/h bike in a 50 km/h flow gets overtaken constantly, so lane position and mirrors matter more, not less.

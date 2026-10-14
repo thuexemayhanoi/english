@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn — official Honda Vietnam model pages (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — official Yamaha Vietnam product pages (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved)"
-internal_link_targets: "honda-vision-110-review, yamaha-janus-125-review, honda-vs-yamaha-scooters-vietnam, 110cc-vs-125cc-scooters, scooter-fuel-economy-comparison-vietnam, best-scooters-to-rent-hanoi"
+internal_link_targets: "honda-vision-110-review, yamaha-janus-125-review, honda-vs-yamaha-scooters-vietnam, 110cc-vs-125cc-scooters, scooter-fuel-economy-comparison-vietnam, best-scooters-to-rent-hanoi, honda-vision-vs-yamaha-freego-125"
 ---
 
 Two light, inexpensive, city-first automatic scooters define the entry class in Vietnam: Honda's Vision and Yamaha's Janus. Here is how they compare using only figures published by Honda Vietnam and Yamaha Vietnam (retrieved 23 September 2026).

@@ -1,7 +1,7 @@
 ---
 title: "Scooters with Smart Keys in Vietnam: The Verified Model List"
 slug: scooters-with-smart-keys-vietnam-verified
-description: "Which scooters in Vietnam have smart keys - verified model list with SH, SH Mode, Vario, Air Blade 160, NVX, Latte, Grande and Vision versions, plus what to check when renting."
+description: "Which scooters in Vietnam have smart keys: a verified list (SH, SH Mode, Vario, Air Blade 160, NVX, Latte, Grande, Vision versions) and what to check on a rental."
 category: scooters
 tags:
   - "smart key"
@@ -18,10 +18,10 @@ sources:
   - "honda.com.vn - Honda VN model pages (Vision, Air Blade, Lead, Sh mode 125, SH160i/125i, Vario 125, Vario 160), official specifications (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn - Yamaha VN model pages (Janus, FreeGo, Grande, Latte, NVX 155), official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: smart-key-scooters-vietnam, honda-scooter-lineup-vietnam-explained, yamaha-scooter-lineup-vietnam-explained, honda-sh-mode-125-review, yamaha-nvx-155-review
+internal_link_targets: "smart-key-scooters-vietnam, honda-scooter-lineup-vietnam-explained, yamaha-scooter-lineup-vietnam-explained, honda-sh-mode-125-review, yamaha-nvx-155-review, best-scooters-long-distance-touring-vietnam"
 ---
 
-Smart keys have moved from flagship exclusivity to mainstream scooters in Vietnam. Our smart-key guide explains how the systems work; this article is the companion - a verified list of which models actually offer one, based only on manufacturer product pages (retrieved 23 September 2026).
+Smart keys have moved from flagship exclusivity to mainstream scooters in Vietnam. [Our smart-key guide]({{ '/articles/smart-key-scooters-vietnam/' | relative_url }}) explains how the systems work; this article is the companion - a verified list of which models actually offer one, based only on manufacturer product pages (retrieved 23 September 2026).
 
 ## Honda models with smart keys (verified on Honda VN pages)
 

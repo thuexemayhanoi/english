@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "riding-motorbike-heavy-rain-vietnam, cleaning-motorbike-properly-vietnam, motorbike-maintenance-rainy-season, riding-gear-budget-priority-vietnam"
+internal_link_targets: "riding-motorbike-heavy-rain-vietnam, cleaning-motorbike-properly-vietnam, motorbike-maintenance-rainy-season, riding-gear-budget-priority-vietnam, tyre-pressure-monitoring-systems-motorbikes"
 ---
 
 Vietnamese motorbikes in rain ride inside a cloud of their own spray: water lifted by the front wheel and thrown by the rear, onto your shins, your engine, your visor from below, and the rider behind. A mudguard extender — a small flap extending the guard’s coverage — is one of the cheapest wet-season upgrades there is.

@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "handlebar-vibration-motorbike, handlebar-grips-choosing-motorbike, aftermarket-mirrors-motorbike-upgrade, adjustable-levers-motorbikes"
+internal_link_targets: "handlebar-vibration-motorbike, handlebar-grips-choosing-motorbike, aftermarket-mirrors-motorbike-upgrade, adjustable-levers-motorbikes, heated-grips-hanoi-winter"
 ---
 
 Numb, tingling hands after an hour on a Vietnamese highway are usually blamed on the road. The road is a contributor, but the mechanism is resonance: every engine pulse and every bump sets the handlebar singing at a frequency your nerves read as pain. Bar-end weights exist to spoil that song.

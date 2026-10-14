@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, helmet law referenced to published legal article"
-internal_link_targets: "helmet-fit-guide-vietnam, helmet-law-vietnam, helmet-care-replacing-guide-vietnam, eye-protection-riding-motorbike-vietnam"
+internal_link_targets: "helmet-fit-guide-vietnam, helmet-law-vietnam, helmet-care-replacing-guide-vietnam, eye-protection-riding-motorbike-vietnam, helmet-fasteners-retention-systems, modular-flip-up-helmets-vietnam"
 ---
 
 Vietnam's helmet culture is real: helmets are required by law, and the choice most riders face is not whether to wear one but which kind. Full-face and open-face each fit Vietnamese conditions differently, and the trade is not what buyers assume.

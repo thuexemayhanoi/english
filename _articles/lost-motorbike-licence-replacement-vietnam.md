@@ -1,7 +1,7 @@
 ---
 title: "Replacing a Lost Motorbike Licence in Vietnam"
 slug: lost-motorbike-licence-replacement-vietnam
-description: "Lost a Vietnamese motorbike licence? The reissue procedure under Circular 12/2025/TT-BCA: what dossier you file, where, how long it takes, and the rules on expired licences that need a retest."
+description: "Lost a Vietnamese motorbike licence? The reissue procedure under Circular 12/2025/TT-BCA: the dossier, where to file, how long it takes."
 category: law-licences
 tags:
   - "lost"

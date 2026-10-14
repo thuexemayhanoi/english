@@ -1,5 +1,5 @@
 ---
-title: "Honda Wave RSX vs Yamaha Exciter 155: Semi-Auto Commuter or Manual Sport?"
+title: "Honda Wave RSX vs Yamaha Exciter 155: Commuter or Manual Sport?"
 slug: honda-wave-rsx-vs-yamaha-exciter-155
 description: "Wave RSX vs Exciter 155 VVA compared on verified Honda and Yamaha Vietnam specs - two completely different ways to ride."
 category: motorcycles

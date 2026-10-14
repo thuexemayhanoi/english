@@ -1,5 +1,5 @@
 ---
-title: "Underbone Model Years in Vietnam: How Honda Keeps a Bike Alive for Decades"
+title: "Underbone Model Years in Vietnam: How Honda Keeps Bikes Alive"
 slug: underbone-model-years-explained
 description: "Vietnamese underbones evolve slowly - what model-year claims on spec pages mean, and how to buy an unchanged icon without overthinking it."
 category: motorcycles
@@ -24,11 +24,11 @@ Western bikes live on model-year refreshes; Vietnamese underbones live on contin
 
 ## Why the pace is slow
 
-The underbone formula is mature: air-cooled single, rotary four-speed, 17-inch wheels. When a design satisfies its market for decades, the manufacturer's changes concentrate on versions, colours and equipment - the Blade's Sport version with alloy wheels and front disc is the published example - rather than the core machine. Our trim-versions explainer covers that layer.
+The underbone formula is mature: air-cooled single, rotary four-speed, 17-inch wheels. When a design satisfies its market for decades, the manufacturer's changes concentrate on versions, colours and equipment - the Blade's Sport version with alloy wheels and front disc is the published example - rather than the core machine. [Our trim-versions explainer]({{ '/articles/underbone-trim-versions-explained/' | relative_url }}) covers that layer.
 
 ## What this means for buyers
 
-New: the current page specification is what you get; do not wait for "next year's model" - the meaningful question is which version, not which year. Used: model years matter far less than condition and history; our used-inspection guide covers what to actually check on a bike whose design may predate its seller. Parts: continuity is the used buyer's friend - a long-production bike has the deepest parts network in the country, as our availability guide covers.
+New: the current page specification is what you get; do not wait for "next year's model" - the meaningful question is which version, not which year. Used: model years matter far less than condition and history; [our used-inspection guide]({{ '/articles/used-motorbike-inspection-vietnam/' | relative_url }}) covers what to actually check on a bike whose design may predate its seller. Parts: continuity is the used buyer's friend - a long-production bike has the deepest parts network in the country, as [our availability guide]({{ '/articles/spare-parts-availability-vietnam/' | relative_url }}) covers.
 
 ## What to verify, not assume
 

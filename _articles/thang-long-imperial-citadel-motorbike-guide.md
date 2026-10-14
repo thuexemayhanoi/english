@@ -1,5 +1,5 @@
 ---
-title: "The Imperial Citadel of Thang Long by Motorbike: Visiting Hanoi's World Heritage Site"
+title: "The Imperial Citadel of Thang Long by Motorbike: Visitor Guide"
 slug: thang-long-imperial-citadel-motorbike-guide
 description: "Riding to the Imperial Citadel of Thang Long in central Hanoi: why it is a UNESCO World Heritage site, the route, parking and visit planning for riders."
 category: hanoi
@@ -39,6 +39,6 @@ There is attended parking at the visitor entrance. Bring ID — sites in this qu
 
 ## Making the visit work
 
-Pair the citadel with its neighbourhood: the Ba Dinh guide covers the government quarter, and the museums and pagodas rides start from the same corner of the city. A morning citadel visit, lunch toward the Old Quarter, and an afternoon at the Temple of Literature is Hanoi's most natural heritage day on a bike.
+Pair the citadel with its neighbourhood: [the Ba Dinh guide]({{ '/articles/ba-dinh-area-guide-riders/' | relative_url }}) covers the government quarter, and the museums and pagodas rides start from the same corner of the city. A morning citadel visit, lunch toward the Old Quarter, and an afternoon at the Temple of Literature is Hanoi's most natural heritage day on a bike.
 
 Contact us to confirm current availability for a rental suited to the central district loop.

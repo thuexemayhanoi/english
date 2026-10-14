@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "daily-weekly-monthly-motorbike-rental-hanoi, best-motorbike-for-commuting-hanoi, motorbike-rental-agreement-hanoi, where-to-park-motorbike-hanoi, best-motorbike-for-day-trips-from-hanoi"
+internal_link_targets: "daily-weekly-monthly-motorbike-rental-hanoi, best-motorbike-for-commuting-hanoi, motorbike-rental-agreement-hanoi, where-to-park-motorbike-hanoi, best-motorbike-for-day-trips-from-hanoi, motorbike-rental-english-teachers-hanoi, renting-motorbike-couple-hanoi"
 ---
 
 A nomad month in Hanoi has a rhythm: mornings in a coworking space or cafe, afternoons in meetings or exploring, weekends out of the city. A rental motorbike fits that rhythm better than any other transport, if you set it up right.

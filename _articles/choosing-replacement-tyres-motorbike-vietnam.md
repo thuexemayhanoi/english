@@ -16,7 +16,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
-internal_link_targets: "tyre-care-motorbike-vietnam, genuine-vs-fake-parts-motorbike-vietnam, flat-tyre-repair-motorbike-vietnam, riding-motorbike-heavy-rain-vietnam"
+internal_link_targets: "tyre-care-motorbike-vietnam, genuine-vs-fake-parts-motorbike-vietnam, flat-tyre-repair-motorbike-vietnam, riding-motorbike-heavy-rain-vietnam, spoke-wheels-care-truing-vietnam"
 ---
 
 Every tyre wears out eventually, and in Vietnam it happens faster than the manual's mileage chart suggests: heat, potholes, wet-season chemicals and constant load. Choosing the replacement well matters more here than almost anywhere, because the tyre is the only contact your bike has with the road.

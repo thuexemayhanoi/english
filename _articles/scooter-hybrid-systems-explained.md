@@ -1,5 +1,5 @@
 ---
-title: "Hybrid Scooter Systems Explained: Yamaha's Blue Core Electric Assist"
+title: "Hybrid Scooter Systems Explained: Yamaha's Electric Assist"
 slug: scooter-hybrid-systems-explained
 description: "How scooter hybrid electric-assist systems work in Vietnam, what Yamaha publishes about the Gear 125 Hybrid and Grande, and what a hybrid scooter does not do."
 category: scooters

@@ -1,5 +1,5 @@
 ---
-title: "Night Riding an Electric Motorbike in Hanoi"
+title: "Night Riding on an Electric Motorbike in Hanoi: Lights and Range"
 slug: electric-motorbike-night-riding-hanoi
 description: "Night riding an electric motorbike in Hanoi: lights and range drain, silent-traffic hazards, dark street surfaces and the visibility habits that matter most."
 category: electric

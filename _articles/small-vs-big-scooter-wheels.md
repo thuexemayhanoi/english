@@ -24,7 +24,7 @@ Wheel size is the quiet spec that shapes how a scooter feels more than most buye
 
 ## The verified spread
 
-10 and 12 inches: Yamaha Latte 125 (90/90-12 front, 100/90-10 rear), Gear 125 Hybrid (110/70-12), FreeGo 125 (100/90-12, 110/90-12), Grande (110/70-12 front and rear). 13 inches: NMAX 155 (110/70-13, 130/70-13). 14 inches: NVX 155 (110/80-14, 140/70-14), Vario 125 and 160, Lexi 155, Janus 125. 16 inches: Vision 110 and SH Mode 125 fronts (80/90-16), SH160i both ends (100/80-16, 120/80-16). Our tyre sizes guide decodes the number format.
+10 and 12 inches: Yamaha Latte 125 (90/90-12 front, 100/90-10 rear), Gear 125 Hybrid (110/70-12), FreeGo 125 (100/90-12, 110/90-12), Grande (110/70-12 front and rear). 13 inches: NMAX 155 (110/70-13, 130/70-13). 14 inches: NVX 155 (110/80-14, 140/70-14), Vario 125 and 160, Lexi 155, Janus 125. 16 inches: Vision 110 and SH Mode 125 fronts (80/90-16), SH160i both ends (100/80-16, 120/80-16). [Our tyre sizes guide]({{ '/articles/scooter-tyre-sizes-explained/' | relative_url }}) decodes the number format.
 
 ## Small wheels: agility, cost, fragility
 

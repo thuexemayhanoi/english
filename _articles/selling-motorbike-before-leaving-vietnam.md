@@ -1,5 +1,5 @@
 ---
-title: "Selling a Motorbike Before You Leave Vietnam: Getting Out Without Losing Too Much"
+title: "Selling a Motorbike Before You Leave Vietnam Without Big Losses"
 slug: selling-motorbike-before-leaving-vietnam
 description: "How to sell a motorbike in Vietnam before flying home: realistic resale prices, buyback options, consignment shops, paperwork transfer and timing."
 category: vietnam-travel

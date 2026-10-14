@@ -18,7 +18,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "maintenance-during-monthly-rental-hanoi, monthly-rental-inspection-schedule-hanoi, consumables-monthly-rental-hanoi, rental-motorbike-breakdown-hanoi"
+internal_link_targets: "maintenance-during-monthly-rental-hanoi, monthly-rental-inspection-schedule-hanoi, consumables-monthly-rental-hanoi, rental-motorbike-breakdown-hanoi, breakdowns-during-long-term-rental-hanoi"
 ---
 
 A rental is someone else's bike, but on a long-term rental you are its only rider for weeks. Basic care keeps it reliable, keeps your deposit safe, and keeps your month cheap.

@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "flat-tyre-repair-motorbike-vietnam, punctured-tyre-on-rental-motorbike, tyre-care-motorbike-vietnam, spare-parts-kit-underseat-motorbike"
+internal_link_targets: "flat-tyre-repair-motorbike-vietnam, punctured-tyre-on-rental-motorbike, tyre-care-motorbike-vietnam, spare-parts-kit-underseat-motorbike, tyre-pressure-monitoring-systems-motorbikes"
 ---
 
 A puncture in Vietnamese traffic ends at a roadside tube-repair man within a few kilometres in the cities — but between here and there, a soft tyre damages the rim, spoils handling and stretches the ride into a long walk. A portable inflator is cheap insurance for that gap.

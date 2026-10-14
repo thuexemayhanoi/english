@@ -1,7 +1,7 @@
 ---
 title: "Leaving the Scene of a Motorbike Accident in Vietnam"
 slug: leaving-accident-scene-vietnam
-description: "Fleeing a motorbike accident in Vietnam costs 8,000,000-10,000,000 VND with six licence points deducted under Article 7(9)(c) of Decree 168/2024 — and where the crash causes harm, leaving the scene turns a fine case into a criminal one."
+description: "Fleeing a motorbike accident in Vietnam costs 8-10 million VND and six licence points under Decree 168/2024; where the crash causes harm, it becomes a criminal case."
 category: law-licences
 tags:
   - "hit and run"

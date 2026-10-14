@@ -46,7 +46,7 @@ Three things separate the northwest from a Mai Chau weekend. Distance: even comp
 
 - **Bike:** this is a 125cc-minimum, manual-gearbox, good-tyres route; experienced riders on semi-autos do it, but clutch control earns its keep on the passes. Service the bike before departure and say so at the rental shop.
 - **Navigation:** offline maps mandatory; multi-day sections have no signal (our navigation [guide]({{ '/articles/motorbike-trip-navigation-offline-maps-vietnam/' | relative_url }})).
-- **Sleep:** homestays in Mai Chau and Mu Cang Chai, hotels in Son La, Dien Bien Phu, Lai Chau and Sapa; the overnight-stays checklist applies every night, bike parking first.
+- **Sleep:** homestays in Mai Chau and Mu Cang Chai, hotels in Son La, Dien Bien Phu, Lai Chau and Sapa; [the overnight-stays checklist]({{ '/articles/overnight-stays-motorbike-trips-vietnam/' | relative_url }}) applies every night, bike parking first.
 - **Budget:** carry a cash cushion — our trip-budget [guide]({{ '/articles/motorbike-trip-budget-from-hanoi/' | relative_url }}) gives the framework, and the remote northwest is where the cash buffer matters.
 - **Fitness and margins:** two rest half-days beats one heroic day; our day-distance [guide]({{ '/articles/how-far-motorbike-day-trip-hanoi/' | relative_url }}) explains why.
 

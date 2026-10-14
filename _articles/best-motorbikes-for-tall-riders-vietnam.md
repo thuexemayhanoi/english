@@ -1,7 +1,7 @@
 ---
 title: "Best Motorbikes for Tall Foreign Riders in Vietnam"
 slug: best-motorbikes-for-tall-riders-vietnam
-description: "Tall riders do not fit everything on a Vietnamese rental list - the Honda Air Blade class with its longer seat and floor space suits them best. Height is a fit problem, not a power problem."
+description: "Tall riders do not fit every rental bike: the Honda Air Blade class, with its longer seat and floor space, suits them best."
 category: rental
 tags:
   - "tall riders"

@@ -1,7 +1,7 @@
 ---
-title: "Scooter Seat Heights in Vietnam: Verified Figures and Why They Matter"
+title: "Scooter Seat Heights in Vietnam: Verified Figures Compared"
 slug: scooter-seat-heights-comparison-vietnam
-description: "Seat heights of popular Vietnamese scooters compared with manufacturer-verified figures - Honda Vision, Air Blade, Lead, Yamaha Janus and FreeGo - and how to judge fit."
+description: "Seat heights of popular Vietnamese scooters compared with manufacturer-verified figures, Honda Vision, Air Blade, Lead, Yamaha Janus and FreeGo."
 category: scooters
 tags:
   - "seat height"

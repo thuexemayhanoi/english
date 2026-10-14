@@ -27,10 +27,10 @@ New mainstream semi-autos list from roughly 18.8 million VND (Wave Alpha) throug
 
 ## The running costs, ranked
 
-1. **Fuel — the big one.** On verified manufacturer claims of 1.47 to 2.08 L/100 km across the mainstream class, even heavy daily riding consumes small amounts of petrol. Your riding habits move this more than your model choice: the fuel-habits guide explains how much.
+1. **Fuel — the big one.** On verified manufacturer claims of 1.47 to 2.08 L/100 km across the mainstream class, even heavy daily riding consumes small amounts of petrol. Your riding habits move this more than your model choice: [the fuel-habits guide]({{ '/articles/fuel-efficient-riding-habits-underbone/' | relative_url }}) explains how much.
 2. **Oil and consumables.** Small engines take under a litre of oil per change; doing it by the schedule is the cheapest thing you will ever do for a bike. Chains and sprockets are wear items — cleaning and lubrication stretch their life dramatically.
 3. **Tyres.** Underbone tyres are inexpensive but wear faster under Hanoi's daily grind and winter-rain conditions. Budget for a set every couple of years of heavy use.
-4. **Compulsory insurance.** Mandatory for every registered motorbike, inexpensive for small engine classes — the insurance guide explains what it does and does not cover.
+4. **Compulsory insurance.** Mandatory for every registered motorbike, inexpensive for small engine classes — [the insurance guide]({{ '/articles/compulsory-motorbike-insurance-vietnam/' | relative_url }}) explains what it does and does not cover.
 5. **Repairs.** The hidden benefit of owning the most popular machines on earth: street-mechanic labour rates are low and parts are on every corner. This category stays small if items 2 to 4 are not skipped.
 
 ## The hidden costs people forget

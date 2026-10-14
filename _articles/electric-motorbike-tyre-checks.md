@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — 120 kg weight, 17-inch wheels, tyre sizes"
   - "General tyre maintenance guidance; pressures and replacement intervals per manufacturer documentation"
-internal_link_targets: tyre-care-motorbike-vietnam, electric-motorbike-maintenance-basics, riding-electric-motorbike-hanoi-rain, tyre-age-replace-by-date
+internal_link_targets: "tyre-care-motorbike-vietnam, electric-motorbike-maintenance-basics, riding-electric-motorbike-hanoi-rain, tyre-age-replace-by-date, electric-motorbike-brakes-maintenance"
 ---
 
 Tyres are the electric motorbike's underrated consumable: instant torque, heavy battery packs and regen braking all write their signatures into the rubber faster than on a small petrol bike.

@@ -1,7 +1,7 @@
 ---
 title: "Is Lane Splitting Legal in Vietnam"
 slug: lane-splitting-legal-vietnam
-description: "Vietnamese law has no rule named lane splitting, but riders filtering between lanes fall under the lane-use rules of Article 13 of Law 36/2024/QH15 and fines of 200,000-800,000 VND under Decree 168 depending on how it is done."
+description: "Vietnamese law has no rule called lane splitting, but filtering between lanes falls under Article 13 of Law 36/2024/QH15, with fines of 200,000-800,000 VND."
 category: law-licences
 tags:
   - "lane splitting"
@@ -19,7 +19,7 @@ review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 13 (lane use), Article 12 (safe distance)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 7(1)(e), (3)(d) (lane-change and wrong-lane fines)"
-internal_link_targets: "motorbike-lane-rules-vietnam, overtaking-rules-motorbike-vietnam, motorbike-passenger-rules-vietnam, motorbike-fines-vietnam-overview, stopped-by-traffic-police-vietnam"
+internal_link_targets: "motorbike-lane-rules-vietnam, overtaking-rules-motorbike-vietnam, motorbike-passenger-rules-vietnam, motorbike-fines-vietnam-overview, stopped-by-traffic-police-vietnam, motorbike-bus-lanes-vietnam"
 ---
 
 Short answer: no Vietnamese legal text names "lane splitting" or "filtering" — so it is neither expressly permitted nor expressly banned. What the law does instead is define how lanes must be used, and any filtering that violates those definitions picks up the corresponding fine. In practice, gentle filtering to the front of a stopped queue is near-universal and near-unenforced; riding for distance in the gap between two moving lanes is a wrong-lane violation with a real price attached.

@@ -1,7 +1,7 @@
 ---
 title: "Licence for Fast Electric Motorbikes in Vietnam"
 slug: fast-electric-motorbike-licence-vietnam
-description: "Fast electric motorbikes in Vietnam — anything above 50 km/h design speed or above 4 kW — are full motorbikes needing an A1 or A licence under Law 36/2024/QH15, unlike licence-free pedal e-bikes."
+description: "Fast electric motorbikes in Vietnam, above 50 km/h design speed or 4 kW, count as motorbikes and need an A1 or A licence under Law 36/2024/QH15."
 category: law-licences
 tags:
   - "electric"

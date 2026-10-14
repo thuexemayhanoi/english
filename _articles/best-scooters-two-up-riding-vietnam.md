@@ -1,7 +1,7 @@
 ---
 title: "Best Scooters for Two-Up Riding in Vietnam: Verified Figures"
 slug: best-scooters-two-up-riding-vietnam
-description: "Best scooters for riding with a passenger in Vietnam - verified kerb weights, wheelbases, seats and storage from Honda and Yamaha pages, plus pillion legal and gear essentials."
+description: "Best scooters for riding two-up in Vietnam: verified kerb weights, wheelbases, seats and storage from Honda and Yamaha, plus pillion rules and gear essentials."
 category: scooters
 tags:
   - "pillion"
@@ -40,7 +40,7 @@ Style scooters like the Latte and Grande (both 100 kg, small wheels) are single-
 
 ## The non-negotiables
 
-Vietnamese traffic law and common sense both apply here: read our [passenger rules guide]({{ '/articles/motorbike-passenger-rules-vietnam/' | relative_url }}) for the legal position, make sure your pillion has a proper helmet (not a souvenir one - see the second helmet guide), and practise the balance techniques in our pillion riding article before mixing with Hanoi traffic. Insurance is not included with rentals - customers arrange their own.
+Vietnamese traffic law and common sense both apply here: read our [passenger rules guide]({{ '/articles/motorbike-passenger-rules-vietnam/' | relative_url }}) for the legal position, make sure your pillion has a proper helmet (not a souvenir one - see the second helmet guide), and practise the balance techniques in [our pillion riding article]({{ '/articles/balancing-pillion-riding-motorbike-vietnam/' | relative_url }}) before mixing with Hanoi traffic. Insurance is not included with rentals - customers arrange their own.
 
 ## Bottom line
 

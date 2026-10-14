@@ -1,7 +1,7 @@
 ---
 title: "Best 155-160cc Scooters in Vietnam: The Verified Sport Class"
 slug: best-155-160cc-scooters-vietnam
-description: "Every 155-160cc scooter sold new in Vietnam with verified manufacturer specs - power, weight, brakes, storage and list prices ranked to help you choose the right sport commuter."
+description: "Every 155-160cc scooter sold new in Vietnam with verified manufacturer specs: power, weight, brakes, storage and list prices ranked to pick the right sport commuter."
 category: scooters
 tags:
   - "155cc scooter"

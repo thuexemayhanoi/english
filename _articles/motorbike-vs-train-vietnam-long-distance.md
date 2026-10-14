@@ -1,7 +1,7 @@
 ---
-title: "Motorbike vs Train in Vietnam: Choosing How to Cover Long Distances"
+title: "Motorbike vs Train in Vietnam: How to Cover Long Distances"
 slug: motorbike-vs-train-vietnam-long-distance
-description: "Should you ride the length of Vietnam or take the Reunification Express? A practical comparison of motorbike touring versus Vietnam's main railway for long-distance travel."
+description: "Ride the length of Vietnam or take the Reunification Express? A practical comparison of motorbike touring versus Vietnam's main railway for long-distance travel."
 category: vietnam-travel
 tags:
   - "long distance travel"
@@ -20,7 +20,7 @@ sources:
   - "https://www.trainspread.com/vietnam-trains/reunification-express — the Hanoi-Ho Chi Minh City railway, its ~34 hour journey time and the planned high-speed line, retrieved 2026-09-24"
   - "https://www.vietnamcoracle.com/saigon-to-hanoi-by-motorbike-5-suggested-routes/ — long-distance Saigon-Hanoi road routes and traffic character, retrieved 2026-09-24"
   - "https://junglebosstours.com/explorer/tourism-blog/vietnam-sleeper-bus-guide — sleeper bus context for combined itineraries, retrieved 2026-09-24"
-internal_link_targets: motorbike-ferry-train-transport-vietnam, hanoi-to-ho-chi-minh-city-by-motorbike, ho-chi-minh-highway-motorbike-guide, best-motorbike-for-long-distance-vietnam, motorbike-trip-seasons-north-vietnam
+internal_link_targets: "motorbike-ferry-train-transport-vietnam, hanoi-to-ho-chi-minh-city-by-motorbike, ho-chi-minh-highway-motorbike-guide, best-motorbike-for-long-distance-vietnam, motorbike-trip-seasons-north-vietnam, motorbike-vs-domestic-flights-vietnam"
 ---
 
 Vietnam is a long, narrow country: the main railway line between Hanoi and Ho Chi Minh City — the famous Reunification Express — covers roughly 1,700 kilometres and takes well over a day, around 34 hours on the classic trains. Rider forums and travel guides describe the equivalent motorbike journey as a two-to-four-week adventure. So which should you choose when your plan involves covering serious distance in Vietnam?

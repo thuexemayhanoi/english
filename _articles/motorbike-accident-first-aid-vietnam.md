@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "motorbike-accident-duties-vietnam, first-aid-kit-motorbike-riders-vietnam, stopped-by-traffic-police-vietnam, do-you-need-insurance-to-ride-vietnam"
+internal_link_targets: "motorbike-accident-duties-vietnam, first-aid-kit-motorbike-riders-vietnam, stopped-by-traffic-police-vietnam, do-you-need-insurance-to-ride-vietnam, road-rage-aggressive-drivers-vietnam"
 ---
 What you do in the first two minutes after a motorbike accident matters more than almost anything else you will do as a rider — for the person on the tarmac, and legally for yourself. The legal duties after an accident are set out in [What to Do After a Motorbike Accident in Vietnam]({{ '/articles/motorbike-accident-duties-vietnam/' | relative_url }}); this is the practical first-response sequence.
 

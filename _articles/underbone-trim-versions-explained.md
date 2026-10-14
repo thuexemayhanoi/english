@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-blade-110-review, yamaha-sirius-rc-110-review, yamaha-exciter-155-vva-review, alloy-vs-spoked-wheels-motorbikes, abs-on-underbones-vietnam-explained, disc-vs-drum-brakes-motorbike
+internal_link_targets: "honda-blade-110-review, yamaha-sirius-rc-110-review, yamaha-exciter-155-vva-review, alloy-vs-spoked-wheels-motorbikes, abs-on-underbones-vietnam-explained, disc-vs-drum-brakes-motorbike, underbone-model-years-explained"
 ---
 
 Vietnamese underbones come in versions, and the version is often more important than the model. The manufacturers' own pages name the differences (retrieved 23 September 2026) - this guide collects them and explains the trade-offs.
@@ -28,7 +28,7 @@ Honda Blade: a Sport version with alloy wheels and a front disc, alongside spoke
 
 ## The two version axes that matter
 
-Brakes: front disc versus front drum is the single most safety-relevant version choice in the class - our disc-versus-drum guide covers the wet-weather difference, and our ABS guide covers what the class mostly does not offer. Wheels: alloy versus spoked pairs with the brake choice (discs usually arrive on alloys); our wheels explainer covers the puncture and maintenance trade-offs.
+Brakes: front disc versus front drum is the single most safety-relevant version choice in the class - [our disc-versus-drum guide]({{ '/articles/disc-vs-drum-brakes-motorbike/' | relative_url }}) covers the wet-weather difference, and [our ABS guide]({{ '/articles/abs-on-underbones-vietnam-explained/' | relative_url }}) covers what the class mostly does not offer. Wheels: alloy versus spoked pairs with the brake choice (discs usually arrive on alloys); [our wheels explainer]({{ '/articles/alloy-vs-spoked-wheels-motorbikes/' | relative_url }}) covers the puncture and maintenance trade-offs.
 
 ## How to buy a version
 

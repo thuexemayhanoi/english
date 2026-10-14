@@ -22,7 +22,7 @@ sources:
   - "https://www.tigitmotorbikes.com/blogs/ho-chi-minh-road-motorbike-guide.html — the Ho Chi Minh road exists between Phong Nha and Vinh but the famous driving section is further south; near Phong Nha the QL15 remains nice, busier and flatter closer to Hanoi, retrieved 2026-09-24"
   - "https://weridevietnam.com/ho-chi-minh-trail-motorbike-tour/ — a 7-day Hanoi-Hoi An itinerary rides Vinh to Phong Nha as a 220 km day, retrieved 2026-09-24"
   - "https://www.vietnamtourism.com/en/how-to-get-to-phong-nha-the-complete-transport-guide-for-2026 — total door-to-door time from Hanoi about 9-10 hours by bus versus 4-5 hours by flight plus transfers, retrieved 2026-09-24"
-internal_link_targets: motorbike-trip-prep-checklist-hanoi, motorbike-trip-navigation-offline-maps-vietnam, overnight-stays-motorbike-trips-vietnam, motorbike-trip-budget-from-hanoi, servicing-before-long-trip-motorbike, motorbike-trip-seasons-north-vietnam
+internal_link_targets: "motorbike-trip-prep-checklist-hanoi, motorbike-trip-navigation-offline-maps-vietnam, overnight-stays-motorbike-trips-vietnam, motorbike-trip-budget-from-hanoi, servicing-before-long-trip-motorbike, motorbike-trip-seasons-north-vietnam, hue-motorbike-trip-hanoi"
 ---
 
 Phong Nha is the cave capital of Vietnam — the Son Doong country of Quang Binh province, where the Ho Chi Minh Road threads between limestone walls on its way south. It is the first trip on this list that is genuinely long-distance: buses take nine to ten hours from Hanoi, and even the fastest honest motorbike plans need two long days each way. What you get back is the riding — the sections around and south of Phong Nha are repeatedly described as among the best in the country.
@@ -43,8 +43,8 @@ Base in Phong Nha village (Son Trach), the small riverside tourist town. The hea
 
 - **Season is everything here:** the central region's rainy season (roughly September-November, peaking October) can close caves and flood roads, while summer is hot and humid. Check the seasonal outlook for Phong Nha specifically before committing (see our seasons [guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }}) for how the north and centre differ).
 - **Navigation:** the Ho Chi Minh Road's junctions are confusing — offline maps are mandatory (our navigation [guide]({{ '/articles/motorbike-trip-navigation-offline-maps-vietnam/' | relative_url }})).
-- **Lodging:** Phong Nha village has a full range; on the corridor legs, book Vinh or Dong Hoi in advance using our overnight-stays checklist.
+- **Lodging:** Phong Nha village has a full range; on the corridor legs, book Vinh or Dong Hoi in advance using [our overnight-stays checklist]({{ '/articles/overnight-stays-motorbike-trips-vietnam/' | relative_url }}).
 - **Bike:** a 125cc-plus manual is the sensible floor for two 200+ km corridor days with a loaded bike; service everything before leaving (our pre-trip service guide).
-- **Cash:** carry a buffer — days pass without ATMs on the inland road (our budget guide).
+- **Cash:** carry a buffer — days pass without ATMs on the inland road ([our budget guide]({{ '/articles/motorbike-trip-budget-from-hanoi/' | relative_url }})).
 
 Contact us to confirm current availability if you are planning to ride from Hanoi — for a trip of this scale we will want to talk about the bike, the route and your timeline before handing over keys.

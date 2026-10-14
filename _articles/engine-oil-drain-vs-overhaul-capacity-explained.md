@@ -1,5 +1,5 @@
 ---
-title: "Engine Oil Drain vs Overhaul Capacity: Reading Honda’s Two Numbers"
+title: "Engine Oil Drain vs Overhaul Capacity: Honda’s Two Numbers"
 slug: engine-oil-drain-vs-overhaul-capacity-explained
 description: "Honda publishes two oil capacities per underbone. What drain and overhaul capacity mean, with the verified figures for each model."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: choosing-engine-oil-motorbike-vietnam, checking-engine-oil-motorbike, changing-engine-oil-at-home-vietnam, learning-basic-motorbike-maintenance, honda-wave-alpha-110-review, honda-cbr150r-review
+internal_link_targets: "choosing-engine-oil-motorbike-vietnam, checking-engine-oil-motorbike, changing-engine-oil-at-home-vietnam, learning-basic-motorbike-maintenance, honda-wave-alpha-110-review, honda-cbr150r-review, underbone-fuel-economy-figures-explained"
 ---
 
 Look up oil capacity for a Vietnamese underbone and you may find two different litre figures for the same engine. Both are correct - they measure different jobs. Honda VN publishes both for its underbone range (retrieved 23 September 2026).

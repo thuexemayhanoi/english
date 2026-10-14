@@ -16,7 +16,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
-internal_link_targets: "motorbike-service-where-vietnam, outside-repair-shops-rental-motorbike, motorbike-service-where-vietnam, genuine-vs-fake-parts-motorbike-vietnam"
+internal_link_targets: "motorbike-service-where-vietnam, outside-repair-shops-rental-motorbike, motorbike-service-where-vietnam, genuine-vs-fake-parts-motorbike-vietnam, maintenance-log-monthly-rental-motorbike"
 ---
 
 You do not need fluent Vietnamese to get a motorbike fixed well in Vietnam — repair culture here is improvised, practical and daily. You need three things: the right shop, a clear description, and attention to the process.

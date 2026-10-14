@@ -1,7 +1,7 @@
 ---
 title: "Night Riding on a 50cc: Lights and Being Seen"
 slug: 50cc-night-riding-visibility
-description: "Riding a 50cc at night in Vietnam: weak lighting on older mopeds, being visible to faster traffic, headlight and taillight checks, reflective gear and dark-road techniques."
+description: "Riding a 50cc at night in Vietnam: weak lighting on older mopeds, staying visible to faster traffic, headlight and taillight checks, reflective gear and dark roads."
 category: 50cc
 tags:
   - "50cc"
@@ -31,13 +31,13 @@ Much of Vietnam's 50cc stock is ageing, and lighting is usually the first system
 - front and rear reflectors are present, not painted over
 - indicators, if fitted, flash
 
-Our pre-ride checklist covers the two-minute version. On many budget 50s the headlight is genuinely dim by modern standards; ride to its reach, slower than you would by day.
+[Our pre-ride checklist]({{ '/articles/50cc-pre-ride-checklist/' | relative_url }}) covers the two-minute version. On many budget 50s the headlight is genuinely dim by modern standards; ride to its reach, slower than you would by day.
 
 ## Being seen matters more than seeing
 
 The traffic that threatens a 50cc at night comes from behind at closing speeds that leave thin margins. Counter-measures:
 
-- **Reflective beats dark.** A hi-vis vest with reflective panels, described in our hi-vis article, turns you from a shadow into a shape at headlight range.
+- **Reflective beats dark.** A hi-vis vest with reflective panels, described in [our hi-vis article]({{ '/articles/hi-vis-vests-motorbike-riders/' | relative_url }}), turns you from a shadow into a shape at headlight range.
 - **Ride wider of the kerb** than by day: debris, potholes and parked cars are less visible, and a swerve at night is a worse option.
 - **Tap the brake light early and often** — a flashing brake light reaches drivers before anything else on the bike.
 - **Lane-change discipline doubles.** Mirror, shoulder check, signal, then move — never a silent lateral drift.
@@ -48,7 +48,7 @@ Night hides the wet patch, the sand drift and the unmarked roadworks. Under stre
 
 ## Eye protection is not only for bugs
 
-Night air at speed dries eyes fast, and streaming eyes are slow eyes — our eye protection article covers options that work under a helmet at night.
+Night air at speed dries eyes fast, and streaming eyes are slow eyes — [our eye protection article]({{ '/articles/eye-protection-riding-motorbike-vietnam/' | relative_url }}) covers options that work under a helmet at night.
 
 ## The honest rule
 

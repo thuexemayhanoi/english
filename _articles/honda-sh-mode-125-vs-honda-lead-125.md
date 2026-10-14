@@ -1,5 +1,5 @@
 ---
-title: "Honda SH Mode 125 vs Honda Lead 125: Premium Badge or Maximum Storage"
+title: "Honda SH Mode 125 vs Honda Lead 125: Badge or Storage?"
 slug: honda-sh-mode-125-vs-honda-lead-125
 description: "Honda SH Mode 125 vs Lead 125 compared on verified Honda Vietnam specs - TFT dash and SH prestige against the 37-litre storage bay, engines, prices."
 category: scooters

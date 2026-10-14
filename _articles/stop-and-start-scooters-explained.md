@@ -1,5 +1,5 @@
 ---
-title: "Stop and Start Systems on Scooters: How Idling Stop Works in Vietnam"
+title: "Stop and Start Systems on Scooters: How Idling Stop Works"
 slug: stop-and-start-scooters-explained
 description: "How Stop and Start idling-stop systems work on Vietnamese scooters, which verified models have them, and whether the technology suits Hanoi traffic riding."
 category: scooters
@@ -37,7 +37,7 @@ Honda Vietnam's pages list idling stop under the eSP/eSP+ engine family for the 
 
 ## Does it suit Hanoi traffic?
 
-The honest answer: the benefit is real but modest. A commute with many long stops (train-line crossings, big junctions) recovers the most fuel; dense stop-and-go filtering where you never fully stop for long exercises the system constantly. Fuel-injected engines with the system (all the models above are FI) restart cleanly; our fuel injection explainer covers why that matters. If you do the math, published consumption figures already include the system's benefit - see our verified economy ranking.
+The honest answer: the benefit is real but modest. A commute with many long stops (train-line crossings, big junctions) recovers the most fuel; dense stop-and-go filtering where you never fully stop for long exercises the system constantly. Fuel-injected engines with the system (all the models above are FI) restart cleanly; [our fuel injection explainer]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}) covers why that matters. If you do the math, published consumption figures already include the system's benefit - see our verified economy ranking.
 
 ## What to know as a renter or buyer
 

@@ -1,7 +1,7 @@
 ---
 title: "Scooter vs Semi-Automatic Motorcycle for Hanoi Riding"
 slug: scooter-vs-semi-automatic-hanoi
-description: "Scooters are easier and better for two-up city riding; semi-automatic underbones are narrower, cheaper and fixable anywhere. The comparison that matches each to a rider."
+description: "Scooters are easier and better two-up in the city; semi-automatic underbones are narrower, cheaper and fixable anywhere. Which one matches which Hanoi rider."
 category: rental
 tags:
   - "scooter"

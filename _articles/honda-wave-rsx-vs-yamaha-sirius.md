@@ -25,7 +25,7 @@ This is the 110 cc underbone benchmark in Vietnam: Honda's fuel-injected sport 1
 
 ## Power and fuelling
 
-Wave RSX: 109.2 cc, PGM-FI electronic fuel injection, 6.46 kW at 7,500 rpm, 8.70 Nm at 6,000 rpm. Sirius: 110.3 cc, 5.9 kW at 8,000 rpm, 9.0 Nm at 5,000 rpm. The Sirius actually posts the higher torque figure at lower revs - strong off-the-line feel - while the RSX makes more power up top and holds the fuelling advantage: PGM-FI means cleaner cold starts and steadier running than the Sirius's carburettor-style set-up (our carburettor versus fuel injection guide covers what that means day to day).
+Wave RSX: 109.2 cc, PGM-FI electronic fuel injection, 6.46 kW at 7,500 rpm, 8.70 Nm at 6,000 rpm. Sirius: 110.3 cc, 5.9 kW at 8,000 rpm, 9.0 Nm at 5,000 rpm. The Sirius actually posts the higher torque figure at lower revs - strong off-the-line feel - while the RSX makes more power up top and holds the fuelling advantage: PGM-FI means cleaner cold starts and steadier running than the Sirius's carburettor-style set-up ([our carburettor versus fuel injection guide]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}) covers what that means day to day).
 
 ## Economy and range
 

@@ -1,7 +1,7 @@
 ---
 title: "A1 Licence Vietnam: What You Can Legally Ride"
 slug: a1-licence-vietnam-what-you-can-ride
-description: "What a Vietnamese A1 licence lets you ride under Law 36/2024/QH15: petrol bikes up to 125cc, electric up to 11 kW, age 18+, and the pre-2025 transitional rule that keeps older A1s valid to 175cc."
+description: "What a Vietnamese A1 licence covers under Law 36/2024/QH15: petrol bikes to 125cc, electric to 11 kW, age 18+, and the rule keeping older A1s valid to 175cc."
 category: law-licences
 tags:
   - "licence"

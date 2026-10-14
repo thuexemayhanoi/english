@@ -1,7 +1,7 @@
 ---
 title: "Documents Required for Foreign Licence Exchange in Vietnam"
 slug: foreign-licence-exchange-documents-vietnam
-description: "The exact dossier for exchanging a foreign driving licence for a Vietnamese one under Circular 12/2025/TT-BCA: application form, certified Vietnamese translation of the licence, passport, 3+ months residence papers and the health certification."
+description: "Exchanging a foreign licence in Vietnam under Circular 12/2025/TT-BCA: the form, a certified translation, passport, residence papers and the health certificate."
 category: law-licences
 tags:
   - "documents"

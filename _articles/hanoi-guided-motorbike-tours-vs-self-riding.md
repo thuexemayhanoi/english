@@ -1,7 +1,7 @@
 ---
 title: "Guided Motorbike Tours vs Riding Hanoi Yourself"
 slug: hanoi-guided-motorbike-tours-vs-self-riding
-description: "Should you take a guided motorbike tour in Hanoi or ride on your own? What tours do well, what self-riding gives you, licence and insurance realities, and how to choose honestly."
+description: "Guided motorbike tour in Hanoi or ride on your own? What tours do well, what self-riding gives you, licence and insurance realities, and how to choose honestly."
 category: hanoi
 tags:
   - "motorbike tours"
@@ -18,7 +18,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental facts and licence-status rules only; no tour claims are made for the business"
-internal_link_targets: self-guided-hanoi-motorbike-city-tour, can-tourists-ride-motorbike-vietnam, idp-vietnam-motorbike-rules, renting-a-motorbike-hanoi-without-licence, best-motorbike-for-hanoi-traffic, riding-hanoi-old-quarter-narrow-streets, exploring-hoan-kiem-by-motorbike
+internal_link_targets: "self-guided-hanoi-motorbike-city-tour, can-tourists-ride-motorbike-vietnam, idp-vietnam-motorbike-rules, renting-a-motorbike-hanoi-without-licence, best-motorbike-for-hanoi-traffic, riding-hanoi-old-quarter-narrow-streets, exploring-hoan-kiem-by-motorbike, hanoi-markets-motorbike-shopping"
 ---
 
 Every visitor to Hanoi eventually faces the same fork: ride the city yourself, or ride behind a guide. Both are good answers — but they are good answers to different questions, and picking the right one honestly is the difference between a great day and an expensive mistake.

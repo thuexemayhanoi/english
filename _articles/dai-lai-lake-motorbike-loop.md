@@ -21,7 +21,7 @@ sources:
   - "https://www.asiakingtravel.com/attraction/dai-lai — Dai Lai is about a 50-kilometre trip north of Hanoi in Phuc Yen city, Vinh Phuc province, about an hour away, retrieved 2026-09-24"
   - "https://www.vietnamonline.com/attraction/dai-lai-lake.html — roughly 40 km north of Hanoi toward Noi Bai, in Vinh Phuc; about an hour by road, retrieved 2026-09-24"
   - "https://flamingoresorts.vn/en/du-lich-dai-lai/ — Dai Lai lies 40–50 km from central Hanoi, 1–1.5 hours travel, a resort and green-tourism area around the reservoir, retrieved 2026-09-24"
-internal_link_targets: best-motorbike-for-day-trips-from-hanoi, tam-dao-day-trip-motorbike, hot-weather-riding-motorbike-vietnam, where-to-park-motorbike-hanoi, how-to-rent-a-motorbike-hanoi
+internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, tam-dao-day-trip-motorbike, hot-weather-riding-motorbike-vietnam, where-to-park-motorbike-hanoi, how-to-rent-a-motorbike-hanoi, duong-lam-ancient-village-motorbike-ride, nui-coc-lake-thai-nguyen-motorbike-ride, soc-temple-soc-son-motorbike-ride"
 ---
 
 Dai Lai is Hanoi’s easy northern escape: a large reservoir ringed by forested hills in Phuc Yen, Vinh Phuc — about 40–50 kilometres up the road past Noi Bai airport, roughly an hour on the bike. It is the natural first out-of-town loop for a newer rider: close, scenic and low-stress.

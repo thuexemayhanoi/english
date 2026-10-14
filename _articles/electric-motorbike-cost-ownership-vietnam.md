@@ -1,5 +1,5 @@
 ---
-title: "Electric Motorbike Cost of Ownership in Vietnam: What You Actually Pay"
+title: "Electric Motorbike Cost of Ownership in Vietnam: What You Pay"
 slug: electric-motorbike-cost-ownership-vietnam
 description: "The full cost of running an electric two-wheeler in Vietnam — battery rental or purchase, swap fees, charging electricity and servicing versus a petrol bike."
 category: electric

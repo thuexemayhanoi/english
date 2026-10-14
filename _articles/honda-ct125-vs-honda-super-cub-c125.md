@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-ct125-review, honda-super-cub-c125-review, best-motorbike-for-day-trips-from-hanoi, carrying-luggage-motorbike-safely-vietnam, best-125cc-underbones-vietnam-verified
+internal_link_targets: "honda-ct125-review, honda-super-cub-c125-review, best-motorbike-for-day-trips-from-hanoi, carrying-luggage-motorbike-safely-vietnam, best-125cc-underbones-vietnam-verified, honda-blade-vs-honda-winner-r, honda-cbr150r-vs-honda-ct125, honda-wave-rsx-vs-honda-ct125"
 ---
 
 Honda sells two premium Cubs in Vietnam: the classic Super Cub C125 and the adventure-styled CT125. The engines are near-identical; everything else diverges. All figures below come from the official Honda Vietnam product pages (retrieved 23 September 2026).

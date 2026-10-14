@@ -54,6 +54,6 @@ The pattern will be familiar from [Laos guide]({{ '/articles/motorbike-border-cr
 
 - Verify current gate policy with official Vietnamese and Cambodian sources — rules for vehicles have changed repeatedly, and blog reports age fast.
 - Check licence requirements on both sides: a Vietnamese licence does not authorise you in Cambodia, and an IDP may or may not be accepted — see our licence [overview]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) for the Vietnamese side.
-- Read our travel-insurance guide: crossing a border on a motorbike is a common policy exclusion, and hospitals in rural Cambodia are a long way from anywhere.
+- Read [our travel-insurance guide]({{ '/articles/motorbike-travel-insurance-vietnam/' | relative_url }}): crossing a border on a motorbike is a common policy exclusion, and hospitals in rural Cambodia are a long way from anywhere.
 
 The short version: the border is easy to cross; your motorbike is the hard part. Plan a ride that treats the border as a destination, not an obstacle.

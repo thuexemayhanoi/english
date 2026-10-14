@@ -1,7 +1,7 @@
 ---
 title: "Can Motorbikes Use Bus Lanes in Vietnam"
 slug: motorbike-bus-lanes-vietnam
-description: "No — bus lanes in Vietnam are dedicated lanes reserved for buses, and under Article 13(4) of Law 36/2024/QH15 other vehicles may not enter them. A motorbike riding a bus lane is a wrong-lane violation at 600,000-800,000 VND."
+description: "No: bus lanes in Vietnam are reserved for buses under Article 13(4) of Law 36/2024/QH15. A motorbike in one is a wrong-lane violation fined 600,000-800,000 VND."
 category: law-licences
 tags:
   - "bus lanes"

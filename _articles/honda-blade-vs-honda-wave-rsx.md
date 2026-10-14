@@ -1,5 +1,5 @@
 ---
-title: "Honda Blade vs Honda Wave RSX: Street Style or Injected Efficiency?"
+title: "Honda Blade vs Honda Wave RSX: Street Style or Efficiency?"
 slug: honda-blade-vs-honda-wave-rsx
 description: "Honda Blade vs Wave RSX compared on verified Honda Vietnam specs - styling, versions, fuel economy, brakes and list price."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-blade-110-review, honda-wave-rsx-review, honda-wave-alpha-vs-honda-blade, honda-wave-rsx-vs-yamaha-sirius, honda-blade-vs-yamaha-sirius, best-110cc-underbones-vietnam-verified
+internal_link_targets: "honda-blade-110-review, honda-wave-rsx-review, honda-wave-alpha-vs-honda-blade, honda-wave-rsx-vs-yamaha-sirius, honda-blade-vs-yamaha-sirius, best-110cc-underbones-vietnam-verified, honda-blade-vs-honda-future-125"
 ---
 
 The Blade and the Wave RSX are Honda Vietnam's two mid-range 110s - the Blade sells on street-sport styling and the RSX on fuel injection and touring comfort. Both specifications below come from Honda's own pages (retrieved 23 September 2026).

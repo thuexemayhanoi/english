@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn and yamaha-motor.com.vn — official model pages and list prices (recorded in docs/MODEL-DATABASE.md, retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: cheapest-new-underbones-vietnam-verified, underbone-list-prices-vietnam-ladder, underbone-buying-checklist-verified-specs, honda-future-125-riding-guide, genuine-vs-fake-parts-motorbike-vietnam
+internal_link_targets: "cheapest-new-underbones-vietnam-verified, underbone-list-prices-vietnam-ladder, underbone-buying-checklist-verified-specs, honda-future-125-riding-guide, genuine-vs-fake-parts-motorbike-vietnam, manual-underbone-ownership-costs-hanoi"
 ---
 
 Buying a new underbone from an official dealer in Vietnam is straightforward and surprisingly quick — but there are version choices, price structures and paperwork steps worth knowing before you walk in.

@@ -1,7 +1,7 @@
 ---
 title: "The 1968 Vienna Convention and Riding in Vietnam"
 slug: 1968-vienna-convention-idp-vietnam
-description: "Why the 1968 Vienna Convention on Road Traffic decides whether your International Driving Permit works in Vietnam, how Vietnam joined it, and how to check yours before you fly."
+description: "Why the 1968 Vienna Convention decides whether your International Driving Permit works in Vietnam, how Vietnam joined it, and how to check yours before you fly."
 category: law-licences
 tags:
   - "idp"

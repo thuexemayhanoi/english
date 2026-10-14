@@ -44,4 +44,4 @@ The RSX is the more efficient pure commuter: 1.56 L/100 km published, nine kilog
 
 On tarmac, the RSX does everything a Hanoi commute needs for less money at the pump. The PG-1 buys insurance against the roads the RSX was never designed for: construction detours, gravel lanes, potholed rural sections, flooded wet-season streets. That is the entire value of the adventure styling — it is functional, not cosmetic.
 
-Cross-shopping inside Honda's range, the Wave Alpha versus Wave RSX comparison covers the cheaper end of the same family, and our fuel-tank range explainer puts those tank figures in real-kilometre terms. Rental availability of either model: contact us to confirm current availability.
+Cross-shopping inside Honda's range, the Wave Alpha versus Wave RSX comparison covers the cheaper end of the same family, and [our fuel-tank range explainer]({{ '/articles/underbone-fuel-tank-range-explained/' | relative_url }}) puts those tank figures in real-kilometre terms. Rental availability of either model: contact us to confirm current availability.

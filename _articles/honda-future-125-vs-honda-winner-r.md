@@ -1,5 +1,5 @@
 ---
-title: "Honda Future 125 vs Honda Winner R: Family Underbone or Sport Underbone?"
+title: "Honda Future 125 vs Honda Winner R: Family or Sport Underbone?"
 slug: honda-future-125-vs-honda-winner-r
 description: "Future 125 FI vs Winner R compared on verified Honda Vietnam specs - the relaxed 125 family bike against the 150 cc manual-clutch sport underbone."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn and yamaha-motor.com.vn - official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-future-125-review, honda-winner-r-review, honda-wave-alpha-vs-honda-winner-r, best-150cc-manual-motorbikes-vietnam-verified, best-125cc-underbones-vietnam-verified, xe-so-vs-xe-con-tay-explained
+internal_link_targets: "honda-future-125-review, honda-winner-r-review, honda-wave-alpha-vs-honda-winner-r, best-150cc-manual-motorbikes-vietnam-verified, best-125cc-underbones-vietnam-verified, xe-so-vs-xe-con-tay-explained, honda-cbr150r-vs-honda-future-125, honda-future-125-vs-yamaha-exciter-155, honda-wave-rsx-vs-honda-winner-r"
 ---
 
 Both are Hondas with 4.5-litre-class underbone frames, and both carry more than the entry 110s - but they ask completely different things of the rider. The Future 125 FI is a relaxed semi-automatic; the Winner R is Honda's manual-clutch sport underbone with a racing-derived engine. Honda Vietnam publishes full specifications for both (retrieved 23 September 2026).

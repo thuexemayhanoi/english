@@ -1,7 +1,7 @@
 ---
 title: "Best Motorbike for Students in Hanoi"
 slug: best-motorbike-for-students-hanoi
-description: "Students in Hanoi need the cheapest legal wheels: a licence-free e-bike or 50cc bike without a licence, or a 150,000 VND/day scooter with one. Budget, licence and parking realities."
+description: "Students in Hanoi need the cheapest legal wheels: a licence-free e-bike or 50cc, or a 150,000 VND per day scooter with a licence."
 category: rental
 tags:
   - "students"

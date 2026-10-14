@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
-internal_link_targets: "cornering-motorbike-vietnam, potholes-bad-roads-motorbike-vietnam, mountain-pass-riding-motorbike-vietnam, best-motorbike-for-day-trips-from-hanoi"
+internal_link_targets: "cornering-motorbike-vietnam, potholes-bad-roads-motorbike-vietnam, mountain-pass-riding-motorbike-vietnam, best-motorbike-for-day-trips-from-hanoi, road-works-riding-motorbike-vietnam"
 ---
 Even a planned city ride meets gravel: construction access roads, the final kilometre to a village homestay, roadworks, and the sand that rain washes across corners. Riding loose surfaces is a skill worth having before you need it.
 

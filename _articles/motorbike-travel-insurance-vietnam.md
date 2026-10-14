@@ -1,7 +1,7 @@
 ---
-title: "Travel Insurance and Motorbike Riding in Vietnam: The Fine Print That Matters"
+title: "Travel Insurance and Motorbike Riding in Vietnam: The Fine Print"
 slug: motorbike-travel-insurance-vietnam
-description: "Most travel insurance policies treat motorbike riding in Vietnam as a special case: licence requirements, cc caps and exclusions. How to read your policy before you ride."
+description: "Most travel insurance policies treat motorbike riding in Vietnam as a special case, with licence requirements, cc caps and exclusions."
 category: vietnam-travel
 tags:
   - "travel insurance"
@@ -35,7 +35,7 @@ Here is the sentence that ruins more Vietnam trips than any road: "I thought my 
 
 **3. The activity exclusion.** Some insurers exclude two-wheeled travel entirely, and some explicitly exclude "motorcycle touring" as distinct from local transport use — one insurer confirmed in writing that motorbike touring was not covered. Know which activity class your itinerary falls into before you rely on the policy.
 
-**4. The rental versus ownership distinction.** Some policies treat hired vehicles as a separate clause with its own conditions. And note the Vietnam-specific layer: rental bikes are not insured by the rental shop — our article on what rentals include explains that the renter arranges their own cover — while Vietnamese compulsory third-party insurance (a separate, local policy on the bike itself) is not health insurance for you at all; our compulsory-insurance guide explains what that document actually covers.
+**4. The rental versus ownership distinction.** Some policies treat hired vehicles as a separate clause with its own conditions. And note the Vietnam-specific layer: rental bikes are not insured by the rental shop — our article on what rentals include explains that the renter arranges their own cover — while Vietnamese compulsory third-party insurance (a separate, local policy on the bike itself) is not health insurance for you at all; [our compulsory-insurance guide]({{ '/articles/compulsory-motorbike-insurance-vietnam/' | relative_url }}) explains what that document actually covers.
 
 ## How to check your policy in ten minutes
 

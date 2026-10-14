@@ -42,4 +42,4 @@ Dat Bike's Weavers carry big fixed packs (72 V 68 Ah on the Weaver 200) charged 
 - **A1 licence, home charging, real distance and pace:** the Weavers.
 - **High daily mileage in swap-network territory:** VinFast rental maths; **weekend tour riders:** Dat Charge maths.
 
-Both reviews and our swap-versus-charging guide carry the verified numbers behind these choices.
+Both reviews and [our swap-versus-charging guide]({{ '/articles/battery-swap-vs-home-charging-vietnam/' | relative_url }}) carry the verified numbers behind these choices.

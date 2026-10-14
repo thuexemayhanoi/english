@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "gravel-roads-motorbike-vietnam, motorbike-handling-problems-wobble, talking-to-mechanic-vietnam, where-to-park-motorbike-hanoi"
+internal_link_targets: "gravel-roads-motorbike-vietnam, motorbike-handling-problems-wobble, talking-to-mechanic-vietnam, where-to-park-motorbike-hanoi, frame-sliders-engine-case-protection"
 ---
 
 In a country where low-speed falls and tip-overs are a realistic daily event — crowded parking, gravel edges, wet painted roads, kerb kisses at stops — crash bars are the accessory with the most honest cost-to-consequence ratio on the list.

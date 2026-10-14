@@ -1,5 +1,5 @@
 ---
-title: "Underbone Kerb Weights Explained: What 96-139 kg Means in Hanoi Traffic"
+title: "Underbone Kerb Weights Explained: 96-139 kg in Hanoi Traffic"
 slug: underbone-kerb-weights-explained
 description: "Why kerb weight matters more than power for city riders - verified weights of Vietnam’s underbones and how each kilogram shows up in traffic."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: lightest-motorbikes-for-new-riders, best-underbones-hanoi-commuting-verified, honda-wave-alpha-110-review, honda-cbr150r-review, best-underbones-short-riders-verified, slow-speed-control-motorbike-vietnam
+internal_link_targets: "lightest-motorbikes-for-new-riders, best-underbones-hanoi-commuting-verified, honda-wave-alpha-110-review, honda-cbr150r-review, best-underbones-short-riders-verified, slow-speed-control-motorbike-vietnam, power-to-weight-ratio-explained, underbone-frame-design-explained, why-110cc-is-vietnams-default-engine"
 ---
 
 Kerb weight - the bike with fluids ready to ride - is the most underrated number on a spec sheet. In Hanoi, weight matters at every red light, every parking push and every alley u-turn; power mostly does not.

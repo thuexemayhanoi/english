@@ -1,7 +1,7 @@
 ---
-title: "Hanoi's Specialist Streets for Motorbike Riders: Repair, Parts and Gear"
+title: "Hanoi's Specialist Motorbike Streets: Repair, Parts and Gear"
 slug: hanoi-motorbike-shops-streets-guide
-description: "Where to fix, maintain and equip a motorbike in Hanoi: the specialist streets and repair clusters, how kerbside mechanics work, parts streets, gear shops and how to judge quality."
+description: "Where to fix, maintain and equip a motorbike in Hanoi: specialist streets and repair clusters, how kerbside mechanics work, parts and gear shops."
 category: hanoi
 tags:
   - "motorbike repair"
@@ -38,7 +38,7 @@ No appointment, no written estimate, sometimes no common language. The mechanic 
 
 ## Parts
 
-The parts trade has its own geography: physical markets for new and used parts (the big multi-story parts market in the north of the city is the classic source; the parts-buying guide covers it), plus a thriving online trade. The genuine-versus-fake question is the eternal one — Vietnam's fleet runs on a mix of OEM, OEM-copy and "good enough" aftermarket, and the price gap is your main signal. For anything safety-related (brake pads, cables, tyres), buy the better option.
+The parts trade has its own geography: physical markets for new and used parts (the big multi-story parts market in the north of the city is the classic source; [the parts-buying guide]({{ '/articles/buying-parts-physical-markets-vietnam/' | relative_url }}) covers it), plus a thriving online trade. The genuine-versus-fake question is the eternal one — Vietnam's fleet runs on a mix of OEM, OEM-copy and "good enough" aftermarket, and the price gap is your main signal. For anything safety-related (brake pads, cables, tyres), buy the better option.
 
 ## Gear
 
@@ -46,6 +46,6 @@ Helmet shops cluster near the tourist quarters and around the big dealerships: t
 
 ## For rental riders
 
-If your rental bike develops a problem, the first call is the rental shop, not the nearest street — most problems on rental bikes are minor and the shop may send someone or tell you exactly which shop to use. Unauthorized major work on a rental is a contract question before it is a mechanical one; the outside-repair guide covers what renters may and may not do.
+If your rental bike develops a problem, the first call is the rental shop, not the nearest street — most problems on rental bikes are minor and the shop may send someone or tell you exactly which shop to use. Unauthorized major work on a rental is a contract question before it is a mechanical one; [the outside-repair guide]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) covers what renters may and may not do.
 
 Written as streets and clusters, the system sounds chaotic. Ridden as a system, it is one of Hanoi's genuine comforts: whatever breaks, the answer is within twenty minutes, and someone there has fixed it ten thousand times.

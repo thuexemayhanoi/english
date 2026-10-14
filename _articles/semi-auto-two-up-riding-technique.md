@@ -1,5 +1,5 @@
 ---
-title: "Carrying a Pillion on a Semi-Automatic Underbone"
+title: "Riding Two-Up on a Semi-Automatic Underbone: Pillion Technique"
 slug: semi-auto-two-up-riding-technique
 description: "Two-up riding on a semi-automatic underbone: how a passenger changes launches, centrifugal clutch behaviour, braking and balance."
 category: manual-clutch
@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: riding-semi-automatic-first-time, balancing-pillion-riding-motorbike-vietnam, how-to-shift-gears-semi-automatic-underbone, best-underbones-two-up-verified, when-to-shift-gears-underbone
+internal_link_targets: "riding-semi-automatic-first-time, balancing-pillion-riding-motorbike-vietnam, how-to-shift-gears-semi-automatic-underbone, best-underbones-two-up-verified, when-to-shift-gears-underbone, semi-auto-carrying-cargo"
 ---
 
 Semi-automatic underbones carry the country: two adults on a Wave-class bike is how much of Vietnam actually moves. But a passenger changes the machine's behaviour, especially in the first seconds of a launch, and knowing what changes keeps those first seconds smooth.

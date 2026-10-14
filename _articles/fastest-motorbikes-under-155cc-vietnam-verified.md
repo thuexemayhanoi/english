@@ -1,5 +1,5 @@
 ---
-title: "Fastest Motorbikes Under 155cc in Vietnam: Verified Power and Weight"
+title: "Fastest Motorbikes Under 155cc in Vietnam: Verified Power Data"
 slug: fastest-motorbikes-under-155cc-vietnam-verified
 description: "The most powerful sub-155cc motorbikes sold in Vietnam, ranked only on verified manufacturer power and weight data."
 category: motorcycles

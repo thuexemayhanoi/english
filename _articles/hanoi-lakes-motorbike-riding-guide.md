@@ -37,6 +37,6 @@ Each lake has one stop that earns its time: the Ngoc Son temple island at Hoan K
 
 ## Timing and weather
 
-The lakes are a dry-season tour best done in the morning; after rain the lakeside paths and some access lanes get slick, and the pleasure drops fast. The seasons guide covers which months reward lake days most.
+The lakes are a dry-season tour best done in the morning; after rain the lakeside paths and some access lanes get slick, and the pleasure drops fast. [The seasons guide]({{ '/articles/hanoi-riding-seasons-guide/' | relative_url }}) covers which months reward lake days most.
 
 For a lake-hopping day, any light scooter does the job perfectly. Contact us to confirm current availability.

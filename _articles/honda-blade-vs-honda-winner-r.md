@@ -1,5 +1,5 @@
 ---
-title: "Honda Blade vs Honda Winner R: Styled 110 or Clutch-Controlled 150"
+title: "Honda Blade vs Honda Winner R: Styled 110 or Clutch 150?"
 slug: honda-blade-vs-honda-winner-r
 description: "Honda Blade vs Honda Winner R compared on verified Honda Vietnam specs — budget semi-automatic style against Honda’s manual-clutch sport underbone."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-blade-110-review, honda-winner-r-review, rotary-gearbox-vs-manual-clutch-explained, best-150cc-manual-motorbikes-vietnam-verified, underbone-power-torque-explained
+internal_link_targets: "honda-blade-110-review, honda-winner-r-review, rotary-gearbox-vs-manual-clutch-explained, best-150cc-manual-motorbikes-vietnam-verified, underbone-power-torque-explained, honda-cbr150r-vs-yamaha-exciter-155"
 ---
 
 The Blade and the Winner R sit at opposite ends of Honda's underbone range in both price and rider involvement. Verified Honda VN specifications below (retrieved 23 September 2026).
@@ -32,4 +32,4 @@ Blade: 98-99 kg, 769 mm seat, 3.7-litre tank, 1.85 L/100 km claimed, 21,943,637 
 
 ## Which rider picks which
 
-Students and daily commuters dominate the Blade's audience; the Winner R belongs to riders who enjoy the gearbox itself and want highway-ready pace — our 150cc manual guide places it against the Exciter 155 and CBR150R. First-time clutch riders should start with our manual-riding coverage before choosing the Winner R. Neither is a price-published rental class at Nguyen Tu — contact us to confirm current availability.
+Students and daily commuters dominate the Blade's audience; the Winner R belongs to riders who enjoy the gearbox itself and want highway-ready pace — [our 150cc manual guide]({{ '/articles/best-150cc-manual-motorbikes-vietnam-verified/' | relative_url }}) places it against the Exciter 155 and CBR150R. First-time clutch riders should start with our manual-riding coverage before choosing the Winner R. Neither is a price-published rental class at Nguyen Tu — contact us to confirm current availability.

@@ -1,5 +1,5 @@
 ---
-title: "Underbone Frame Design Explained: Why the Step-Through Shape Works"
+title: "Underbone Frame Design Explained: Why Step-Through Works"
 slug: underbone-frame-design-explained
 description: "Why Vietnamese underbones use step-through frames - the design logic, what it means for mounting, storage and safety, without invented specs."
 category: motorcycles
@@ -32,7 +32,7 @@ Structural simplicity favours modest power - which is fine, since the class make
 
 ## Why it pairs with the semi-automatic
 
-The open frame and the rotary gearbox are a matched set: the frame makes mounting trivial and the centrifugal clutch makes launching trivial - together they explain why the format is the easiest thing on two wheels in Vietnamese traffic. Our semi-automatic gearbox explainer covers the clutch half of the argument.
+The open frame and the rotary gearbox are a matched set: the frame makes mounting trivial and the centrifugal clutch makes launching trivial - together they explain why the format is the easiest thing on two wheels in Vietnamese traffic. [Our semi-automatic gearbox explainer]({{ '/articles/semi-automatic-gearbox-explained/' | relative_url }}) covers the clutch half of the argument.
 
 ## The downside to know about
 

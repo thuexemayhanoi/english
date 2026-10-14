@@ -36,7 +36,7 @@ The classic contrast is the sporty scooter with a tunnel - the NMAX, NVX and SH 
 
 ## Flat floor versus litres
 
-For a delivery rider, a 422 mm floor often beats a 25-litre bay: the bay holds your helmet and jacket, the floor holds the order. For a family, the floor takes the school bag while the bay takes the rain coats. Our delivery guide ranks the practicality numbers together - flat floors, bays, and economy.
+For a delivery rider, a 422 mm floor often beats a 25-litre bay: the bay holds your helmet and jacket, the floor holds the order. For a family, the floor takes the school bag while the bay takes the rain coats. [Our delivery guide]({{ '/articles/best-scooters-delivery-riders-vietnam/' | relative_url }}) ranks the practicality numbers together - flat floors, bays, and economy.
 
 ## Cautions
 

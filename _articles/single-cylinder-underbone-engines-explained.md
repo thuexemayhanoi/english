@@ -28,7 +28,7 @@ One cylinder means one of everything expensive: one piston, one head, one valve 
 
 ## The verified spread of singles
 
-Air-cooled singles: Wave Alpha, Blade, Wave RSX, Future 125, Sirius, Super Cub, CT125 - no radiator, the simplest possible cooling. Liquid-cooled singles: Winner R, Exciter 155 VVA, CBR150R - the radiator buys higher sustained power; our air-versus-liquid cooling guide covers that trade. All are four-strokes, which Vietnam standardised over two-strokes for economy and emissions.
+Air-cooled singles: Wave Alpha, Blade, Wave RSX, Future 125, Sirius, Super Cub, CT125 - no radiator, the simplest possible cooling. Liquid-cooled singles: Winner R, Exciter 155 VVA, CBR150R - the radiator buys higher sustained power; [our air-versus-liquid cooling guide]({{ '/articles/air-cooled-vs-liquid-cooled-motorbike/' | relative_url }}) covers that trade. All are four-strokes, which Vietnam standardised over two-strokes for economy and emissions.
 
 ## What a single feels like
 

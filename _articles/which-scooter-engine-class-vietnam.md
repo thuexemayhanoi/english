@@ -1,7 +1,7 @@
 ---
 title: "110cc vs 125cc vs 155-160cc: Which Scooter Class Fits You?"
 slug: which-scooter-engine-class-vietnam
-description: "A decision framework for Vietnam's three scooter engine classes - what each class does well, verified performance gaps, licence and cost implications, and who each suits."
+description: "A decision framework for Vietnam's three scooter engine classes: what each does well, verified performance gaps, licence and cost implications."
 category: scooters
 tags:
   - "engine classes"
@@ -32,7 +32,7 @@ The 125s split into value (Janus 97 kg from 29,151,000 VND; FreeGo; Gear with 1.
 
 ## The 155-160 class: for loads, hills and highways
 
-Verified outputs cluster at 11.3 kW (NVX, NMAX, Lexi, Vario 160) up to 12.4 kW (SH160i). This is the class that makes two-up bridge climbs, ring-road overtakes and regional touring relaxed rather than tense - our class guide ranks all of them with verified data.
+Verified outputs cluster at 11.3 kW (NVX, NMAX, Lexi, Vario 160) up to 12.4 kW (SH160i). This is the class that makes two-up bridge climbs, ring-road overtakes and regional touring relaxed rather than tense - [our class guide]({{ '/articles/best-155-160cc-scooters-vietnam/' | relative_url }}) ranks all of them with verified data.
 
 ## Licence and cost notes
 

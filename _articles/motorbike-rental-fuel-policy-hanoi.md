@@ -1,7 +1,7 @@
 ---
 title: "Fuel Policy When Renting a Motorbike in Hanoi"
 slug: motorbike-rental-fuel-policy-hanoi
-description: "Hanoi rentals hand over the bike at an agreed fuel level and expect it back the same way - usually near-empty. Petrol is cheap and stations are everywhere. How the fuel convention works."
+description: "Hanoi rentals hand over the bike at an agreed fuel level and expect it back the same way, usually near-empty. Petrol is cheap and stations are everywhere."
 category: rental
 tags:
   - "fuel policy"

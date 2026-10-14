@@ -1,7 +1,7 @@
 ---
 title: "Taking a Motorbike on Ferries and Trains in Vietnam"
 slug: motorbike-ferry-train-transport-vietnam
-description: "How motorbikes cross water and long distances in Vietnam: island car ferries versus passenger speedboats, river crossings, and sending a bike as checked freight on trains."
+description: "How motorbikes cross water and long distances in Vietnam: island car ferries versus passenger speedboats, river crossings, and sending a bike as freight on trains."
 category: trips
 tags:
   - "ferry"

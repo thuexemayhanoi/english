@@ -1,7 +1,7 @@
 ---
 title: "Honda Vario 125 Review: Light, Smart and Ready for the City"
 slug: honda-vario-125-review
-description: "Honda Vario 125 review with verified Honda Vietnam specs - liquid-cooled 125cc engine, idling stop, CBS brakes, smart key, storage and who this light scooter suits in Hanoi."
+description: "Honda Vario 125 review with verified Honda Vietnam specs: liquid-cooled 125cc engine, idling stop, CBS brakes, smart key, storage, and who this light scooter suits."
 category: scooters
 tags:
   - "honda vario"

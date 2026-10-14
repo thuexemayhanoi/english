@@ -1,7 +1,7 @@
 ---
 title: "Best Motorbike for Day Trips from Hanoi"
 slug: best-motorbike-for-day-trips-from-hanoi
-description: "Day trips from Hanoi - Perfume Pagoda, Bat Trang, Thay Pagoda - need a comfortable 110-125 cc scooter or underbone, good brakes and a full morning of fuel. What to rent and how to prepare."
+description: "Day trips from Hanoi need a comfortable 110-125cc scooter or underbone, good brakes and a full tank. What to rent for the Perfume Pagoda, Bat Trang or Thay Pagoda."
 category: rental
 tags:
   - "day trips"
@@ -35,7 +35,7 @@ Automatic scooters - the Honda Vision, Honda Air Blade, Click, Yamaha Mio class 
 
 ## The roads you will actually ride
 
-Day-trip routes out of Hanoi mix national highways (fast, busy, trucks) with provincial and commune roads (potholes, dogs, unmarked corners). The highway sections are where day-trip riders collect speeding fines - the speed-limit article has the numbers. Take the main roads out of the city before you relax, and fill the tank at the city edge: fuel exists out there, but the first half-tank of margin is cheap insurance.
+Day-trip routes out of Hanoi mix national highways (fast, busy, trucks) with provincial and commune roads (potholes, dogs, unmarked corners). The highway sections are where day-trip riders collect speeding fines - [the speed-limit article]({{ '/articles/motorbike-speed-limits-vietnam/' | relative_url }}) has the numbers. Take the main roads out of the city before you relax, and fill the tank at the city edge: fuel exists out there, but the first half-tank of margin is cheap insurance.
 
 ## The licence reminder
 

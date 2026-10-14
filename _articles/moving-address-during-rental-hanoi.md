@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "parking-monthly-renter-hanoi, keeping-rental-motorbike-secure-hanoi, delivery-pickup-monthly-rental-hanoi, monthly-motorbike-rental-hanoi"
+internal_link_targets: "parking-monthly-renter-hanoi, keeping-rental-motorbike-secure-hanoi, delivery-pickup-monthly-rental-hanoi, monthly-motorbike-rental-hanoi, nomads-monthly-motorbike-hanoi"
 ---
 
 Long-term renters move apartments — districts change, leases end, better places appear. The good news: moving house rarely changes anything about the rental agreement itself. The bad news: it changes everything about parking.

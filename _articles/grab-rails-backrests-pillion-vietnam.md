@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "balancing-pillion-riding-motorbike-vietnam, second-helmet-passengers-vietnam, top-boxes-racks-motorbike-vietnam, carrying-luggage-motorbike-safely-vietnam"
+internal_link_targets: "balancing-pillion-riding-motorbike-vietnam, second-helmet-passengers-vietnam, top-boxes-racks-motorbike-vietnam, carrying-luggage-motorbike-safely-vietnam, water-bottle-holders-motorbike-commuters"
 ---
 
 Two-up riding is the default mode of Vietnamese family life, and the pillion's experience — and safety — is shaped by the rear furniture: the grab rail, the backrest, and what the passenger has to hold.

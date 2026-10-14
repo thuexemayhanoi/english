@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — Yamaha VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-winner-r-review, yamaha-exciter-155-vva-review, air-cooled-vs-liquid-cooled-motorbike, a1-licence-vietnam-what-you-can-ride, best-150cc-manual-motorbikes-vietnam-verified
+internal_link_targets: "honda-winner-r-review, yamaha-exciter-155-vva-review, air-cooled-vs-liquid-cooled-motorbike, a1-licence-vietnam-what-you-can-ride, best-150cc-manual-motorbikes-vietnam-verified, honda-cbr150r-vs-yamaha-exciter-155, honda-wave-rsx-vs-yamaha-exciter-155, honda-winner-r-vs-yamaha-sirius"
 ---
 
 Vietnam's two manual-clutch sport underbones, head to head on manufacturer-published figures only (Honda Vietnam and Yamaha Vietnam pages, retrieved 23 September 2026).

@@ -1,7 +1,7 @@
 ---
-title: "Crossing the Vietnam-Laos Border With a Motorbike: What Actually Works"
+title: "Crossing the Vietnam-Laos Border With a Motorbike: What Works"
 slug: motorbike-border-crossing-vietnam-laos
-description: "Riding a Vietnamese motorbike into Laos: which border gates are used, the paperwork reality (bluecard, permits, insurance) and why rental bikes usually stay in Vietnam."
+description: "Riding a Vietnamese motorbike into Laos: which border gates are used, the paperwork reality of bluecard, permits and insurance."
 category: vietnam-travel
 tags:
   - "laos border"
@@ -34,7 +34,7 @@ Vietnam and Laos share a long land border with several international crossings; 
 
 Rider reports and touring-operator guides converge on the same points:
 
-- **Ownership papers.** The bike must be registered in your name. Rider accounts repeatedly stress that a Vietnamese-plated bike not in your name is effectively not crossable — rental bikes are therefore out for Laos touring. Our bluecard guide explains the ownership document itself.
+- **Ownership papers.** The bike must be registered in your name. Rider accounts repeatedly stress that a Vietnamese-plated bike not in your name is effectively not crossable — rental bikes are therefore out for Laos touring. [Our bluecard guide]({{ '/articles/motorbike-bluecard-ownership-papers-vietnam/' | relative_url }}) explains the ownership document itself.
 - **Permits.** Motorcycling guides report that taking a foreign-registered vehicle into Vietnam (and correspondingly a Vietnamese vehicle into Laos) requires a border-crossing vehicle permit arranged in advance through the transport authorities, plus customs declarations at the gate. Some crossings allow paperwork to be completed on arrival; reports vary by gate and by year.
 - **Recent tightening.** A 2023 update reported restrictions on motorbike crossings at the Na Meo gate, and 2025 brought updated Lao customs regulations that made crossing with a Vietnamese motorcycle more difficult. Individual gates open and close to two-wheel traffic without much publicity.
 - **Insurance.** Vietnamese compulsory motorbike insurance does not cover you in Laos; arranging third-party cover for the bike is part of the entry paperwork at some gates.

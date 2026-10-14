@@ -1,5 +1,5 @@
 ---
-title: "Semi-Automatic Gearboxes Explained: How a Vietnamese Underbone Shifts"
+title: "Semi-Automatic Gearboxes Explained: How an Underbone Shifts"
 slug: semi-automatic-gearbox-explained
 description: "How the Vietnamese semi-automatic underbone gearbox works - rotary four-speed shifting, centrifugal clutches and what it means for riders, on verified examples."
 category: motorcycles

@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "General mechanical guidance; caliper service per manual or qualified mechanic"
-internal_link_targets: "brake-checks-motorbike-vietnam, brake-pads-replacement-motorbike-vietnam, inspecting-brake-discs-motorbike, motorbike-maintenance-rainy-season"
+internal_link_targets: "brake-checks-motorbike-vietnam, brake-pads-replacement-motorbike-vietnam, inspecting-brake-discs-motorbike, motorbike-maintenance-rainy-season, rear-brake-locking-motorbike"
 ---
 
 A brake that will not let go is stranger than one that will not bite: the bike feels sluggish, the wheel drags, the rim stays hot after a short ride, and fuel economy quietly worsens. Sticking brakes are common in Vietnam's humidity because disc brakes expose their sliding parts to exactly the wet, gritty conditions that seize them.

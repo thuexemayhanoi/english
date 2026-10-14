@@ -1,7 +1,7 @@
 ---
 title: "Honda SH Mode 125 vs Honda Air Blade 160: Badge or Pace?"
 slug: honda-sh-mode-125-vs-honda-air-blade-160
-description: "Honda SH Mode 125 vs Honda Air Blade 160 compared on verified Honda Vietnam specs - power, torque, economy, weight, wheels, ABS and price - premium style versus sporty pace."
+description: "Honda SH Mode 125 vs Honda Air Blade 160 on verified Honda Vietnam specs: power, torque, economy, weight, wheels, ABS and price. Premium style versus sporty pace."
 category: scooters
 tags:
   - "honda sh mode"
@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn - Honda VN model pages (Sh mode 125, SH160i/125i), official specifications (retrieved 2026-09-23)"
   - "honda.com.vn - Honda VN model page for Air Blade 160, official specifications (retrieved 2026-09-23, as used in the published Air Blade 160 review)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-sh-mode-125-review, honda-air-blade-160-review, premium-scooters-vietnam, honda-sh-mode-125-vs-honda-sh-160, scooter-seat-heights-comparison-vietnam
+internal_link_targets: "honda-sh-mode-125-review, honda-air-blade-160-review, premium-scooters-vietnam, honda-sh-mode-125-vs-honda-sh-160, scooter-seat-heights-comparison-vietnam, honda-vario-160-vs-honda-air-blade-160"
 ---
 
 This comparison is really a question about priorities: do you want the premium-badge experience of the SH Mode 125, or the stronger engine and lighter chassis of the Air Blade 160 - for around 10 million VND less? All figures come from Honda Vietnam's official product pages (retrieved 23 September 2026).

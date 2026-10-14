@@ -1,7 +1,7 @@
 ---
 title: "Motorbike Fines in Vietnam: Current Overview (Decree 168/2024)"
 slug: motorbike-fines-vietnam-overview
-description: "Current motorbike fine levels under Decree 168/2024/NĐ-CP with clause references: red lights, wrong way, sidewalks, helmets, phones, alcohol bands, licence offences and accident-causing conduct."
+description: "Motorbike fines in Vietnam under Decree 168/2024/NĐ-CP, with clause references: red lights, wrong way, sidewalks, helmets, phones, alcohol, licences and crashes."
 category: law-licences
 tags:
   - "fines"
@@ -19,7 +19,7 @@ review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Articles 7, 18"
   - "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/cac-muc-xu-phat-mot-so-loi-vi-pham-giao-thong-thuong-gap-doi-voi-nguoi-dieu-khien-xe-may-d1-t1650 — Ministry of Public Security summary of Article 7 fines for motorbike riders"
-internal_link_targets: "drink-driving-limits-motorbike-vietnam, helmet-law-vietnam, can-tourists-ride-motorbike-vietnam, 50cc-fines-vietnam, electric-motorbike-fines-vietnam"
+internal_link_targets: "drink-driving-limits-motorbike-vietnam, helmet-law-vietnam, can-tourists-ride-motorbike-vietnam, 50cc-fines-vietnam, electric-motorbike-fines-vietnam, underage-riding-penalties-vietnam"
 ---
 
 Vietnam's motorbike fines were raised sharply by Decree 168/2024/NĐ-CP, which took effect on 1 January 2025. This overview lists the commonly enforced violations with their exact provisions, as written in the decree text. Article 7 covers motorbikes, mopeds and similar vehicles at the same fine levels.

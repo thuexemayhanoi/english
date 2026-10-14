@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "battery-care-motorbike-vietnam, maintaining-motorbike-you-rarely-ride, storing-motorbike-long-term-vietnam, choosing-replacement-battery-motorbike-vietnam"
+internal_link_targets: "battery-care-motorbike-vietnam, maintaining-motorbike-you-rarely-ride, storing-motorbike-long-term-vietnam, choosing-replacement-battery-motorbike-vietnam, kickstand-extensions-soft-ground, portable-jump-starter-packs-motorbikes"
 ---
 
 A motorbike battery dies of neglect more than of age: it discharges while parked, and a deeply discharged battery sulfates and never fully recovers. In Vietnam’s heat the self-discharge is faster and the corrosion worse. A trickle charger is the device that breaks that cycle.

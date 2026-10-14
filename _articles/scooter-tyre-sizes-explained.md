@@ -1,5 +1,5 @@
 ---
-title: "Scooter Tyre Sizes Explained: Reading 80/90-16, 110/70-12 and Friends"
+title: "Scooter Tyre Sizes Explained: Reading 80/90-16 and 110/70-12"
 slug: scooter-tyre-sizes-explained
 description: "Scooter tyre sizes explained with verified examples from Vietnamese models - what 80/90-16 and 110/70-12 mean, how size changes ride, and tubeless vs tube."
 category: scooters
@@ -48,4 +48,4 @@ Take the Honda Vision's front tyre: **80/90-16**.
 
 ## Practical notes
 
-Always replace with the size the manufacturer specifies - our replacement [tyre guide]({{ '/articles/choosing-replacement-tyres-motorbike-vietnam/' | relative_url }}) covers choosing brands and our tubeless vs inner tube explainer the puncture behaviour. Check age codes before accepting any bike (our tyre [age guide]({{ '/articles/choosing-replacement-tyres-motorbike-vietnam/' | relative_url }})), and for renters: a quick tyre look is part of the pre-rental inspection. Contact us to confirm current availability of any specific model.
+Always replace with the size the manufacturer specifies - our replacement [tyre guide]({{ '/articles/choosing-replacement-tyres-motorbike-vietnam/' | relative_url }}) covers choosing brands and [our tubeless vs inner tube explainer]({{ '/articles/inner-tubes-vs-tubeless-motorbike/' | relative_url }}) the puncture behaviour. Check age codes before accepting any bike (our tyre [age guide]({{ '/articles/choosing-replacement-tyres-motorbike-vietnam/' | relative_url }})), and for renters: a quick tyre look is part of the pre-rental inspection. Contact us to confirm current availability of any specific model.

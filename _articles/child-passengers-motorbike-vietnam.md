@@ -1,7 +1,7 @@
 ---
 title: "Child Passengers on Motorbikes in Vietnam"
 slug: child-passengers-motorbike-vietnam
-description: "Children on motorbikes in Vietnam: a second passenger is allowed when it is a child travelling with an adult, every child needs a proper helmet, and the under-6 exemption covers helmetless carriage only in narrow cases."
+description: "Children on motorbikes in Vietnam: a child may ride as a second passenger with an adult, every child needs a proper helmet."
 category: law-licences
 tags:
   - "children"

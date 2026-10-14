@@ -1,5 +1,5 @@
 ---
-title: "Tight U-Turns on a Manual Motorbike: Clutch, Throttle and Rear Brake"
+title: "Tight U-Turns on a Manual Motorbike: Clutch, Throttle, Rear Brake"
 slug: manual-motorbike-u-turn-technique
 description: "How to make tight U-turns on a manual-clutch bike using clutch control, steady throttle and rear-brake discipline."
 category: manual-clutch

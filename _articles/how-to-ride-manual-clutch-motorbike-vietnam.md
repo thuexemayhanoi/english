@@ -1,5 +1,5 @@
 ---
-title: "How to Ride a Manual-Clutch Motorbike in Vietnam: A First-Timer's Guide"
+title: "How to Ride a Manual-Clutch Motorbike in Vietnam: First Steps"
 slug: how-to-ride-manual-clutch-motorbike-vietnam
 description: "Learn to ride a manual-clutch motorbike in Vietnam: controls, clutch basics, shifting, stopping and a safe first-ride plan for new riders."
 category: manual-clutch
@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: rotary-gearbox-vs-manual-clutch-explained, best-manual-clutch-motorbikes-beginners-verified, clutch-control-friction-zone-practice, first-hour-manual-clutch-practice-checklist, a1-licence-vietnam-what-you-can-ride, first-time-renting-a-motorbike-hanoi, week-one-manual-clutch-practice-plan, coasting-neutral-dangers-manual-motorbike
+internal_link_targets: "rotary-gearbox-vs-manual-clutch-explained, best-manual-clutch-motorbikes-beginners-verified, clutch-control-friction-zone-practice, first-hour-manual-clutch-practice-checklist, a1-licence-vietnam-what-you-can-ride, first-time-renting-a-motorbike-hanoi, week-one-manual-clutch-practice-plan, coasting-neutral-dangers-manual-motorbike, finding-neutral-manual-motorbike"
 ---
 
 A manual-clutch motorbike — what Vietnamese riders call a xe con tay — has three controls a scooter does not: a clutch lever on the left bar, a gear lever by your left foot, and a gearbox you manage yourself. Sport underbones like the Honda Winner R and Yamaha Exciter 155 are the models you will meet most often. Here is how the pieces fit together on a first ride.
@@ -42,4 +42,4 @@ Close the throttle, squeeze the clutch, hold both brakes gently, and click down 
 
 ## A safe first ride in Vietnam
 
-Practise somewhere quiet first — our practice-area [guide]({{ '/articles/first-hour-manual-clutch-practice-checklist/' | relative_url }}) helps you plan the first hour. Hanoi traffic is forgiving of slow riders but not of hesitation in the middle of a junction, so build the basic motions before you join it. Ride with your head up, cover the clutch near junctions, and check the rental checklist before you ride off. To rent a manual bike you also need a licence that covers it — our A1 licence guide explains what foreign riders can legally ride. For rental availability of any specific model, contact us to confirm current availability.
+Practise somewhere quiet first — our practice-area [guide]({{ '/articles/first-hour-manual-clutch-practice-checklist/' | relative_url }}) helps you plan the first hour. Hanoi traffic is forgiving of slow riders but not of hesitation in the middle of a junction, so build the basic motions before you join it. Ride with your head up, cover the clutch near junctions, and check the rental checklist before you ride off. To rent a manual bike you also need a licence that covers it — [our A1 licence guide]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) explains what foreign riders can legally ride. For rental availability of any specific model, contact us to confirm current availability.

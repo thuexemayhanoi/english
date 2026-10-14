@@ -16,7 +16,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
-internal_link_targets: "broken-clutch-cable-motorbike-roadside, chain-maintenance-motorbike-vietnam, motorbike-maintenance-basics-vietnam, motorcycle-rust-prevention-vietnam, motorbike-rider-toolkit-essentials"
+internal_link_targets: "broken-clutch-cable-motorbike-roadside, chain-maintenance-motorbike-vietnam, motorbike-maintenance-basics-vietnam, motorcycle-rust-prevention-vietnam, motorbike-rider-toolkit-essentials, final-drive-chain-belt-shaft-compared"
 ---
 
 Riders remember oil and chain lube, then forget that a dozen small pivots on the bike need grease too. These are the parts that seize, snap and stiffen — usually in wet season — and a five-minute routine with a small grease tin prevents nearly all of it.

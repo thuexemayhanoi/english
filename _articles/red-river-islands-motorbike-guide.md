@@ -1,7 +1,7 @@
 ---
-title: "Red River Islands by Motorbike: Banana Island and the Riverside Escape"
+title: "Red River Islands by Motorbike: Banana Island and the Riverside"
 slug: red-river-islands-motorbike-guide
-description: "Riding the Red River islands opposite Hanoi: how to get down to the orchards, the tracks between gardens, seasonal conditions and the classic bridge-and-islands morning loop."
+description: "Riding the Red River islands opposite Hanoi: getting down to the orchards, tracks between the gardens, seasonal conditions and the bridge-and-islands loop."
 category: hanoi
 tags:
   - "red river"

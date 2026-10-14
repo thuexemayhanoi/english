@@ -1,7 +1,7 @@
 ---
 title: "Who Pays for a Punctured Tyre on a Rental Motorbike?"
 slug: punctured-tyre-on-rental-motorbike
-description: "A puncture repair is a small bill, and who pays depends on the situation: a nail through the tube is typically the renter's consumable, a tyre that was worn at handover is the shop's. The honest split."
+description: "A puncture repair is a small bill; who pays depends on the situation. A nail through the tube is typically the renter's consumable."
 category: rental
 tags:
   - "puncture"

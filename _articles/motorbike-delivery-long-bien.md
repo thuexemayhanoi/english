@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "motorbike-rental-pickup-or-delivery-hanoi, how-to-book-a-motorbike-rental-hanoi, rental-motorbike-inspection-checklist, motorbike-rental-agreement-hanoi, renting-motorbike-long-bien"
+internal_link_targets: "motorbike-rental-pickup-or-delivery-hanoi, how-to-book-a-motorbike-rental-hanoi, rental-motorbike-inspection-checklist, motorbike-rental-agreement-hanoi, renting-motorbike-long-bien, renting-motorbike-ba-dinh, renting-motorbike-dong-da"
 ---
 
 Delivery is one of the two ways to receive a rental motorbike in Hanoi — the other being pickup at the shop — and Long Bien, where Nguyen Tu's shop sits at 112 Nguyen Van Cu Street, Bo De, is the district where the two options are closest together.

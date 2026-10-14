@@ -1,7 +1,7 @@
 ---
 title: "Honda SH160i/125i Review: Vietnam's Status Scooter Explained"
 slug: honda-sh-160-review
-description: "Honda SH160i/125i review with verified Honda Vietnam specs - 156.9cc engine output, fuel use, weight, ABS and HSTC versions, TFT display and what the SH badge actually buys you."
+description: "Honda SH160i/125i review with verified Honda Vietnam specs: engine output, fuel use, weight, ABS and HSTC versions, TFT display and what the SH badge actually buys."
 category: scooters
 tags:
   - "honda sh"

@@ -1,5 +1,5 @@
 ---
-title: "What 1.7 L/100km Really Means: Reading Scooter Fuel Economy Figures"
+title: "What 1.7 L/100km Means: Reading Scooter Fuel Economy Figures"
 slug: scooter-fuel-economy-figures-explained
 description: "How to read manufacturer fuel-economy claims on Vietnamese scooters, how the figures are produced, and why your real Hanoi consumption will be higher."
 category: scooters

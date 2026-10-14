@@ -17,14 +17,14 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-super-cub-c125-review, honda-winner-r-review, honda-winner-r-vs-yamaha-exciter-155, honda-cbr150r-vs-honda-winner-r, semi-automatic-gearbox-explained, best-150cc-manual-motorbikes-vietnam-verified
+internal_link_targets: "honda-super-cub-c125-review, honda-winner-r-review, honda-winner-r-vs-yamaha-exciter-155, honda-cbr150r-vs-honda-winner-r, semi-automatic-gearbox-explained, best-150cc-manual-motorbikes-vietnam-verified, honda-blade-vs-honda-super-cub-c125, honda-cbr150r-vs-honda-super-cub, honda-super-cub-vs-yamaha-exciter-155"
 ---
 
 These two Hondas sit at opposite ends of the riding-skill spectrum: the Super Cub C125 shifts itself through four gears with no clutch lever, while the Winner R is a liquid-cooled 150 with a manual clutch. Honda VN publishes both spec sets (retrieved 23 September 2026).
 
 ## Engines and transmission
 
-Winner R: 149.2 cc, liquid-cooled (KC46E), 11.5 kW at 9,000 rpm, 13.5 Nm at 7,000 rpm, manual clutch. Super Cub: 123.9 cc, air-cooled, 6.87 kW at 7,500 rpm, 10.15 Nm at 5,000 rpm, four-speed semi-automatic. The Winner R makes nearly 70 percent more power - and demands a completely different rider. Our semi-automatic gearbox explainer covers how the Cub's centrifugal clutch does its work.
+Winner R: 149.2 cc, liquid-cooled (KC46E), 11.5 kW at 9,000 rpm, 13.5 Nm at 7,000 rpm, manual clutch. Super Cub: 123.9 cc, air-cooled, 6.87 kW at 7,500 rpm, 10.15 Nm at 5,000 rpm, four-speed semi-automatic. The Winner R makes nearly 70 percent more power - and demands a completely different rider. [Our semi-automatic gearbox explainer]({{ '/articles/semi-automatic-gearbox-explained/' | relative_url }}) covers how the Cub's centrifugal clutch does its work.
 
 ## Economy
 

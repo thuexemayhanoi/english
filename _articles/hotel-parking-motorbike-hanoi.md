@@ -44,6 +44,6 @@ The Old Quarter puts you in the walking-distance middle of everything, with part
 
 ## Long stays
 
-For stays of a month or more, apartments with dedicated parking are the better instrument — the apartment-living guide covers that model, and the home-parking guide covers overnight security technique. But for a hotel week in Hanoi, two questions and a disc lock are the difference between a smooth trip and a nightly ritual of hoping.
+For stays of a month or more, apartments with dedicated parking are the better instrument — [the apartment-living guide]({{ '/articles/apartment-living-motorbike-hanoi/' | relative_url }}) covers that model, and [the home-parking guide]({{ '/articles/home-parking-overnight-security/' | relative_url }}) covers overnight security technique. But for a hotel week in Hanoi, two questions and a disc lock are the difference between a smooth trip and a nightly ritual of hoping.
 
 Contact us to confirm current availability for a rental with built-in security features.

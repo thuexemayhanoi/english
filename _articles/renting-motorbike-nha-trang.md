@@ -19,7 +19,7 @@ sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): contact details and availability wording only"
   - "https://vinwonders.com/en/wonderpedia/news/nha-trang-bike-rental/ — Nha Trang rental overview with daily fees averaging around 150,000 VND, retrieved 2026-09-24"
   - "https://www.legendtravelgroup.com/a/nha-trang-motorbike-guide-flexible-eco-friendly-coastal-exploration — Nha Trang motorbike guide covering the coastline and inland routes, retrieved 2026-09-24"
-internal_link_targets: motorbike-parking-vietnamese-cities, can-tourists-ride-motorbike-vietnam, first-time-renting-a-motorbike-hanoi, motorbike-vs-sleeper-bus-vietnam, vietnam-monsoon-season-motorbike-travel
+internal_link_targets: "motorbike-parking-vietnamese-cities, can-tourists-ride-motorbike-vietnam, first-time-renting-a-motorbike-hanoi, motorbike-vs-sleeper-bus-vietnam, vietnam-monsoon-season-motorbike-travel, renting-motorbike-phu-quoc"
 ---
 
 Nha Trang is Vietnam's original beach resort: six kilometres of sand, an island-studded bay, and a long, straight, palm-lined coastal boulevard that is one of the most pleasant city rides in the country. Renting a motorbike here is cheap and useful — but Nha Trang is also where a lot of tourists ride badly (sand, rain, no licence), so this guide focuses on doing it right.

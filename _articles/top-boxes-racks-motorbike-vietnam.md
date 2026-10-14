@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "carrying-luggage-motorbike-safely-vietnam, backpack-vs-saddlebags-motorbike, cargo-nets-bungee-cords-motorbike, where-to-park-motorbike-hanoi"
+internal_link_targets: "carrying-luggage-motorbike-safely-vietnam, backpack-vs-saddlebags-motorbike, cargo-nets-bungee-cords-motorbike, where-to-park-motorbike-hanoi, grab-rails-backrests-pillion-vietnam, tail-bags-roll-bags-motorbike"
 ---
 
 The top box is the Vietnamese motorbike's most transformative accessory: a lockable, waterproof trunk that ends the backpack era. Like every transformation, it has rules.

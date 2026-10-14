@@ -1,5 +1,5 @@
 ---
-title: "Best 110cc Underbone Motorbikes in Vietnam: The Verified Data Guide"
+title: "Best 110cc Underbones in Vietnam: Verified Budget-Class Data"
 slug: best-110cc-underbones-vietnam-verified
 description: "Every current 110cc underbone sold in Vietnam compared on verified manufacturer data - Honda Wave Alpha, Blade, Wave RSX and Yamaha Sirius - economy, weight, price."
 category: motorcycles

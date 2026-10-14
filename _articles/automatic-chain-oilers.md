@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "chain-maintenance-motorbike-vietnam, chain-sprocket-replacement-motorbike, lubrication-points-motorbike-vietnam, riding-motorbike-heavy-rain-vietnam"
+internal_link_targets: "chain-maintenance-motorbike-vietnam, chain-sprocket-replacement-motorbike, lubrication-points-motorbike-vietnam, riding-motorbike-heavy-rain-vietnam, handguards-motorbike-vietnam"
 ---
 
 A manual chain lives or dies by lubrication discipline, and in Vietnam the chain fights rain, dust and heat all year. An automatic oiler drips oil onto the chain while you ride, replacing the Saturday-morning ritual with a reservoir you top up monthly. For some riders it is excellent value; for others it is a solution to a problem they do not have.

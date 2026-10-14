@@ -32,19 +32,19 @@ The Ha Giang loop is the most famous multi-day motorbike ride in Vietnam: a roug
 
 The loop starts in Ha Giang city, about 300 km (five to six hours) north of Hanoi on the QL2/QL37 roads. Two strategies: ride there in one long day and start the loop next morning, or take a bus/sleeper and rent a bike in Ha Giang city, where motorbike rental is well established. Our ferry-and-train transport guide covers moving yourself (and sometimes a bike) long distances without riding every kilometre.
 
-Carry your passport: there is a checkpoint entering Ha Giang province, and the Lung Cu flag-tower area near the border requires a local permit arranged with passport documents. Foreign riders should also be clear on licence legality before the trip — our can-tourists-ride guide explains what documents actually apply.
+Carry your passport: there is a checkpoint entering Ha Giang province, and the Lung Cu flag-tower area near the border requires a local permit arranged with passport documents. Foreign riders should also be clear on licence legality before the trip — [our can-tourists-ride guide]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}) explains what documents actually apply.
 
 ## The loop
 
 The classic direction runs Ha Giang city north to Quan Ba (Heaven's Gate and the Tam Son valley), on to Yen Minh, then the ridge road to Dong Van, the Ma Pi Leng pass above the Nho Que river canyon, down to Meo Vac, and back via Du Gia or the QL4C. Day distances are modest on paper — often 50 to 100 km — but average speeds are low: the road is climbing and dropping the whole way, surface quality varies, and road works or obstacles can appear at any time.
 
-Ma Pi Leng is the emotional centre of the ride and its most technical section: a cliff-hugging descent with traffic in both directions and no margin for error. Read our mountain-pass riding guide before you go, and apply it harder here than anywhere — this is not the place to discover how you handle hairpins.
+Ma Pi Leng is the emotional centre of the ride and its most technical section: a cliff-hugging descent with traffic in both directions and no margin for error. Read [our mountain-pass riding guide]({{ '/articles/mountain-pass-riding-motorbike-vietnam/' | relative_url }}) before you go, and apply it harder here than anywhere — this is not the place to discover how you handle hairpins.
 
 ## Planning honestly
 
 - Three days is the minimum most riders enjoy; four or five is better. Our how-far-per-day guide explains why mountain kilometres cost double.
-- Download offline maps; large parts of the loop have no data connection. Our navigation guide covers the exact setup.
-- Sleep in homestays in Quan Ba, Yen Minh, Dong Van, Meo Vac or Du Gia — book ahead in October-November and spring, using our overnight-stays checklist (secure bike parking first).
+- Download offline maps; large parts of the loop have no data connection. [Our navigation guide]({{ '/articles/motorbike-trip-navigation-offline-maps-vietnam/' | relative_url }}) covers the exact setup.
+- Sleep in homestays in Quan Ba, Yen Minh, Dong Van, Meo Vac or Du Gia — book ahead in October-November and spring, using [our overnight-stays checklist]({{ '/articles/overnight-stays-motorbike-trips-vietnam/' | relative_url }}) (secure bike parking first).
 - Budget fuel, permits, homestays and a mechanical margin with our trip-budget [guide]({{ '/articles/motorbike-trip-budget-from-hanoi/' | relative_url }}); carry a repair basics kit and know the phone number of your rental shop.
 - Weather swings hard: fog, rain and winter cold are all real hazards — our low-visibility and trip-seasons guides cover both.
 

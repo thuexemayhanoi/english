@@ -1,5 +1,5 @@
 ---
-title: "Electric Motorbike Day Trips from Hanoi: Range Planning That Works"
+title: "Electric Motorbike Day Trips From Hanoi: Range Planning"
 slug: electric-motorbike-day-trips-range-planning-hanoi
 description: "Planning electric day trips from Hanoi — matching verified range figures to real routes, charge stops and the math that gets you home with margin."
 category: electric

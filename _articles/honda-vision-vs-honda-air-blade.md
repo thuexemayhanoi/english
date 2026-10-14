@@ -16,7 +16,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — official Honda Vietnam model pages (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved)"
-internal_link_targets: "honda-vision-110-review, honda-air-blade-125-review, honda-air-blade-160-review, 110cc-vs-125cc-scooters, honda-vision-vs-yamaha-janus, best-scooters-to-rent-hanoi"
+internal_link_targets: "honda-vision-110-review, honda-air-blade-125-review, honda-air-blade-160-review, 110cc-vs-125cc-scooters, honda-vision-vs-yamaha-janus, best-scooters-to-rent-hanoi, honda-vision-vs-honda-lead-125"
 ---
 
 Honda's two mainstream scooters sit one rung apart: the Vision 110 is the entry point, the Air Blade family (125 or 160) the step up. Verified Honda Vietnam figures (retrieved 23 September 2026), with the Air Blade 160 as the stronger sibling:

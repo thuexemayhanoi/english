@@ -34,7 +34,7 @@ Downshift before the descent starts, one gear at a time, so the engine slows the
 Two rules make it safe:
 
 - Downshift one gear at a time, releasing the clutch smoothly — never jumping from fourth to second in one click.
-- Match revs a little as you release the lever so the rear wheel is not shocked; the downshift guide covers this.
+- Match revs a little as you release the lever so the rear wheel is not shocked; [the downshift guide]({{ '/articles/how-to-downshift-smoothly-manual-motorbike/' | relative_url }}) covers this.
 
 ## Where it matters in Vietnam
 

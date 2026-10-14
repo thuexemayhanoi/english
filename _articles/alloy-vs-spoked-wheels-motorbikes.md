@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — Yamaha VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-blade-110-review, yamaha-sirius-rc-110-review, flat-tyre-repair-motorbike-vietnam, choosing-replacement-tyres-motorbike-vietnam, genuine-vs-fake-parts-motorbike-vietnam
+internal_link_targets: "honda-blade-110-review, yamaha-sirius-rc-110-review, flat-tyre-repair-motorbike-vietnam, choosing-replacement-tyres-motorbike-vietnam, genuine-vs-fake-parts-motorbike-vietnam, engine-oil-drain-vs-overhaul-capacity-explained, fuel-economy-test-cycles-explained"
 ---
 
 Look at any Vietnamese underbone model range and the version ladder tells a story: the cheapest bikes wear spoked wheels, the sport versions wear cast alloy. Both wheel types are manufacturer-published options on the same bikes - Honda's Blade page lists the Sport version with alloy wheels and the others with spoked wheels, and Yamaha's Sirius range spans drum, disc and alloy-wheel RC versions (all retrieved 23 September 2026). Here is what the difference means.
@@ -29,7 +29,7 @@ Spoked wheels use a steel rim laced to the hub with dozens of individual spokes,
 
 ## Tube tyres versus tubeless
 
-This is the practical difference on Vietnamese roads. The Sirius page is explicit: its wheels run 70/90-17 and 80/90-17 tyres with inner tubes. Tube-type tyres can deflate fast when punctured and need a repair shop with the right tube; tubeless tyres usually lose pressure slowly and can often be plugged roadside. Our flat tyre repair guide covers the roadside reality, and the tyre replacement guide covers what to fit when the time comes.
+This is the practical difference on Vietnamese roads. The Sirius page is explicit: its wheels run 70/90-17 and 80/90-17 tyres with inner tubes. Tube-type tyres can deflate fast when punctured and need a repair shop with the right tube; tubeless tyres usually lose pressure slowly and can often be plugged roadside. [Our flat tyre repair guide]({{ '/articles/flat-tyre-repair-motorbike-vietnam/' | relative_url }}) covers the roadside reality, and the tyre replacement guide covers what to fit when the time comes.
 
 ## Strength and repair culture
 

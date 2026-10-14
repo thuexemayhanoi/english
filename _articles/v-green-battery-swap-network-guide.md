@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026"
   - "docs/MODEL-DATABASE.md — verified electric rows (retrieved 2026-09-24)"
-internal_link_targets: battery-swap-vs-home-charging-vietnam, vinfast-battery-rental-vs-buying, where-to-charge-electric-motorbike-hanoi, vinfast-electric-scooter-lineup-vietnam, electric-motorbike-spare-battery-strategy
+internal_link_targets: "battery-swap-vs-home-charging-vietnam, vinfast-battery-rental-vs-buying, where-to-charge-electric-motorbike-hanoi, vinfast-electric-scooter-lineup-vietnam, electric-motorbike-spare-battery-strategy, electric-motorbike-delivery-riders-vietnam"
 ---
 
 Battery swapping is the infrastructure idea that makes licence-free electric scooters practical at Vietnamese scale: ride until a pack is empty, exchange it at a cabinet in seconds, keep going. V-Green is the network that implements it, and its published numbers define the experience.
@@ -44,7 +44,7 @@ The rider's side is deliberately dull: open the seat, lift out the discharged pa
 
 - Learn the cabinets on your regular routes before you need them; the first low-battery hunt is the stressful one.
 - Keep the spare-pack strategy in mind: a pack charging at home plus swaps on the road is the belt-and-braces pattern.
-- Outside the network's reach, the machine reverts to home charging — the where-to-charge guide covers Hanoi options.
+- Outside the network's reach, the machine reverts to home charging — [the where-to-charge guide]({{ '/articles/where-to-charge-electric-motorbike-hanoi/' | relative_url }}) covers Hanoi options.
 
 ## Swap vs everything else
 

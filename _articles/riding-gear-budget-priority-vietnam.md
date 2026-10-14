@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general buying guidance, no invented products or prices"
-internal_link_targets: "what-to-wear-riding-motorbike-vietnam, riding-jacket-vietnam-climate, rider-footwear-motorbike-vietnam, full-face-vs-open-face-helmet-vietnam"
+internal_link_targets: "what-to-wear-riding-motorbike-vietnam, riding-jacket-vietnam-climate, rider-footwear-motorbike-vietnam, full-face-vs-open-face-helmet-vietnam, armoured-hoodies-casual-riding-wear, ce-armour-certification-explained, riding-gear-sizing-fit-foreign-riders, riding-trousers-lower-body-protection, second-hand-riding-gear-risks"
 ---
 
 Riding gear costs money, and most riders in Vietnam have a gear budget that does not match the catalogue. The good news: protection is not linear with spend — a small amount of money, spent in the right order, buys the large majority of the risk reduction.

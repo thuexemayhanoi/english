@@ -34,7 +34,7 @@ The underseat bay is the most-used feature of any Vietnamese scooter - it decide
 ## What the numbers hide
 
 - **Helmet shapes matter:** a 37-litre bay takes two full-face helmets; a 15-litre bay takes one open-face. If you ride with a full-face helmet (our helmet [guide]({{ '/articles/helmet-fit-guide-vietnam/' | relative_url }}) explains why many riders do), only the larger bays swallow it.
-- **Passengers:** riding two-up means two helmets to stow - our passenger helmet guide covers the second-helmet problem.
+- **Passengers:** riding two-up means two helmets to stow - [our passenger helmet guide]({{ '/articles/second-helmet-passengers-vietnam/' | relative_url }}) covers the second-helmet problem.
 - **Shape beats litres:** a long flat bay takes a laptop bag a "bigger" round bay cannot.
 
 ## Choosing by cargo

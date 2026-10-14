@@ -1,5 +1,5 @@
 ---
-title: "Who Actually Needs a 150cc Manual Motorbike in Vietnam? The Verified Case"
+title: "Who Actually Needs a 150cc Manual Motorbike in Vietnam?"
 slug: who-needs-150cc-manual-motorbike
 description: "The three verified 150-class manual bikes - Winner R, Exciter 155, CBR150R - and an honest, data-based look at who needs one."
 category: motorcycles

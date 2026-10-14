@@ -19,7 +19,7 @@ sources:
   - "https://dat.bike/en/xe-may-dien-weaver-en/ — Dat Bike official Weaver product page"
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 product page"
   - "docs/MODEL-DATABASE.md — verified electric rows (retrieved 2026-09-24)"
-internal_link_targets: dat-bike-weaver-review, dat-bike-weaver-200-review, dat-bike-weaver-200-vs-weaver-plus-plus, dat-bike-lineup-vietnam-guide, electric-motorbike-range-real-world-vietnam
+internal_link_targets: "dat-bike-weaver-review, dat-bike-weaver-200-review, dat-bike-weaver-200-vs-weaver-plus-plus, dat-bike-lineup-vietnam-guide, electric-motorbike-range-real-world-vietnam, dat-bike-weaver-200-vs-vinfast-feliz-2"
 ---
 
 The Weaver and the Weaver 200 are the same idea at two scales: an A1-licence underbone electric for Vietnamese roads. The comparison between them is almost entirely about range — and the official numbers make the gap unusually clear.

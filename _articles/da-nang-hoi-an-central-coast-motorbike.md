@@ -46,6 +46,6 @@ Hoi An itself is a walking-and-parking town: park in the paid lots at the old-to
 - **Getting there:** riders coming down from Hanoi usually arrive via the Phong Nha leg (see our Hue and Phong Nha guides); the coast itself needs three to five days to breathe.
 - **Season:** the centre has a sharp calendar — roughly February to August is dry and hot; September to November is the storm and flood season, when passes can be risky and Hoi An floods. Check the central-coast outlook before booking anything non-refundable (our seasons [guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }}) covers the north-versus-centre difference).
 - **Renting locally:** Da Nang and Hoi An are the easiest motorbike rental towns in Vietnam — but the licence rules for foreigners are the same everywhere (our tourist [licence guide]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }})). Helmets in the tropics: wear the real one, every leg.
-- **Accommodation:** abundant everywhere; apply our overnight-stays checklist anyway, because beach-town parking is often open-air.
+- **Accommodation:** abundant everywhere; apply [our overnight-stays checklist]({{ '/articles/overnight-stays-motorbike-trips-vietnam/' | relative_url }}) anyway, because beach-town parking is often open-air.
 
 If your central-coast trip starts in Hanoi with one of our bikes, contact us to confirm current availability and tell us the plan — one-way logistics, service state and timeline change what a sensible bike choice looks like.

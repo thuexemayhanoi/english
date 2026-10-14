@@ -1,7 +1,7 @@
 ---
 title: "Can You Take the Vietnamese Licence Test in English"
 slug: vietnam-licence-test-in-english
-description: "No — Vietnamese licence exams for motorbike and car classes are conducted in Vietnamese only, with no English or other-language option. What this means for foreigners, and the exchange route that avoids the test."
+description: "No: Vietnamese motorbike and car licence exams are in Vietnamese only, with no English option. What that means for foreigners."
 category: law-licences
 tags:
   - "english"

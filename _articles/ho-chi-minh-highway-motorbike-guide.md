@@ -47,7 +47,7 @@ That length is also the point: the QLHCM and the coastal QL1A give Vietnam two p
 
 ## Why the QLHCM instead of the QL1A?
 
-Traffic, scenery and history, in that order. The QL1A is the nation's working artery — every truck uses it; our QL1A guide is honest about that ride's stress. The Ho Chi Minh Road is the choice when the riding itself is the destination. Many long itineraries use both: QLHCM through the mountains, drop to the coast for Hue and Hoi An, back to the mountains for the highlands, coast into Saigon.
+Traffic, scenery and history, in that order. The QL1A is the nation's working artery — every truck uses it; [our QL1A guide]({{ '/articles/highway-1-vietnam-motorbike-riding/' | relative_url }}) is honest about that ride's stress. The Ho Chi Minh Road is the choice when the riding itself is the destination. Many long itineraries use both: QLHCM through the mountains, drop to the coast for Hue and Hoi An, back to the mountains for the highlands, coast into Saigon.
 
 ## Riding it from Hanoi
 

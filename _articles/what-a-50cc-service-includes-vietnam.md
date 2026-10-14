@@ -1,7 +1,7 @@
 ---
 title: "What a 50cc Service Actually Includes in Vietnam"
 slug: what-a-50cc-service-includes-vietnam
-description: "What a workshop service on a 50cc in Vietnam typically covers: engine oil, filters, chain and cables, brake adjustment, carburettor or injection cleaning, and the bigger periodic items - intervals always per your model manual."
+description: "What a 50cc workshop service in Vietnam covers: engine oil, filters, chain and cables, brake adjustment, carburettor or injection cleaning."
 category: 50cc
 tags:
   - "50cc"
@@ -30,8 +30,8 @@ Service intervals are set by your model's manufacturer manual — the only autho
 
 - **Engine oil and drain.** The item everything else orbits — small engines carry small volumes, so fresh oil at manual intervals is the cheapest life extension available. The level between services is your job (the checking article takes two minutes).
 - **Oil strainer or filter screen.** Small engines often run a screen rather than a cartridge; it gets cleaned, not replaced.
-- **Air filter.** Dusty-season Hanoi clogs filters fast; our air-filter article covers why it matters more than riders assume.
-- **Chain inspection, adjustment and lube** on geared underbones (the chain article covers what good looks like).
+- **Air filter.** Dusty-season Hanoi clogs filters fast; [our air-filter article]({{ '/articles/air-filter-care-motorbike-vietnam/' | relative_url }}) covers why it matters more than riders assume.
+- **Chain inspection, adjustment and lube** on geared underbones ([the chain article]({{ '/articles/chain-maintenance-motorbike-vietnam/' | relative_url }}) covers what good looks like).
 - **Cable lube and free-play**: throttle, both brakes, clutch-on-rope models; cables are the steering of a 50cc.
 - **Brake adjustment** at both ends, plus shoe wear reported honestly.
 - **Tyre pressures set by gauge** and tread condition noted.
@@ -44,7 +44,7 @@ Fuel system cleaning (carburettor on older machines, injector service on injecte
 
 ## What no service substitutes
 
-The weekly ten-minute routine in our maintenance checks article. A workshop sees the bike twice a year; the rider sees it twice a day — the two systems work together or not at all.
+The weekly ten-minute routine in [our maintenance checks article]({{ '/articles/50cc-weekly-maintenance-checks/' | relative_url }}). A workshop sees the bike twice a year; the rider sees it twice a day — the two systems work together or not at all.
 
 ## Working with the workshop
 

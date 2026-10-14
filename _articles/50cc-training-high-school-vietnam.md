@@ -1,7 +1,7 @@
 ---
-title: "50cc Training for High-School Students in Vietnam: What Decree 151/2024 Actually Teaches"
+title: "50cc Rider Training in Vietnamese High Schools: Decree 151/2024"
 slug: 50cc-training-high-school-vietnam
-description: "Decree 151/2024/NĐ-CP organises road-safety and safe-moped-riding training for high-school and vocational students in Vietnam. What the programme covers, who it applies to, and what it is not."
+description: "Decree 151/2024/NĐ-CP sets road-safety and moped training for high-school and vocational students in Vietnam: what it covers, who it applies to and what it is not."
 category: 50cc
 tags:
   - "50cc"

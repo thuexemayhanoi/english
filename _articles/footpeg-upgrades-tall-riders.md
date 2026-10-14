@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "best-motorbikes-for-tall-riders-vietnam, handlebar-raisers-riding-ergonomics, handlebar-grips-choosing-motorbike, riding-fatigue-motorbike-vietnam"
+internal_link_targets: "best-motorbikes-for-tall-riders-vietnam, handlebar-raisers-riding-ergonomics, handlebar-grips-choosing-motorbike, riding-fatigue-motorbike-vietnam, mudguard-extenders-rain-spray"
 ---
 
 Tall riders on Vietnamese motorbikes ride in a permanent knee-tuck: hips higher than comfortable, knees splayed, feet on pegs sized for a different body. Footpegs are one of the few ergonomic parts you can actually change.

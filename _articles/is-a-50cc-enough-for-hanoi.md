@@ -1,7 +1,7 @@
 ---
 title: "Is a 50cc Motorbike Enough for Hanoi? An Honest Assessment"
 slug: is-a-50cc-enough-for-hanoi
-description: "Where a 50cc bike is genuinely sufficient in Hanoi — inner-district short hops, school runs, market trips — and where it stops being enough: bridges, ring roads, two-up riding and wet nights."
+description: "Where a 50cc is genuinely enough in Hanoi (short inner-district hops, school runs, markets) and where it is not: bridges, ring roads, two-up riding and wet nights."
 category: 50cc
 tags:
   - "50cc"
@@ -28,7 +28,7 @@ Inside the older districts — Hoan Kiem, Hai Ba Trung, parts of Dong Da and Ba 
 
 ## Where it stops being enough
 
-- **Bridges and flyovers.** Long rises onto Chuong Duong, Long Bien approach ramps or the Nhat Tan corridors ask for sustained power a 50cc does not have, while surrounding traffic holds 50–60 km/h. Our bridges article describes the technique; the honest machine answer is more engine.
+- **Bridges and flyovers.** Long rises onto Chuong Duong, Long Bien approach ramps or the Nhat Tan corridors ask for sustained power a 50cc does not have, while surrounding traffic holds 50–60 km/h. [Our bridges article]({{ '/articles/crossing-hanoi-bridges-motorbike/' | relative_url }}) describes the technique; the honest machine answer is more engine.
 - **Ring roads and highways.** Pham Van Dong, Vo Van Kiet and anything with a 60+ km/h flow put a 35–45 km/h bike in the speed differential that causes overtakes from every vehicle behind you.
 - **Two-up riding.** A passenger adds mass a few horsepower must move; our pillion article covers the technique, but physics decides the comfort.
 - **Rain and night.** A slow bike is a more vulnerable bike in low grip and low visibility.

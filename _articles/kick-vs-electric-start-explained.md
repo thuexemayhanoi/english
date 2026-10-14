@@ -1,5 +1,5 @@
 ---
-title: "Kick Start vs Electric Start: Why Vietnamese Bikes Still Have Both"
+title: "Kick Start vs Electric Start: Why Vietnamese Bikes Have Both"
 slug: kick-vs-electric-start-explained
 description: "Why underbones keep kick starters alongside electric start, which models carry what, and the practical value of the backup lever."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: kick-starter-care-motorbike, electric-start-starter-motor-problems, kick-start-slipping-motorbike, dead-battery-motorbike-vietnam, cold-start-motorbike-winter-vietnam, honda-wave-alpha-110-review
+internal_link_targets: "kick-starter-care-motorbike, electric-start-starter-motor-problems, kick-start-slipping-motorbike, dead-battery-motorbike-vietnam, cold-start-motorbike-winter-vietnam, honda-wave-alpha-110-review, underbone-storage-options-explained"
 ---
 
 A starter button and a kick lever on the same bike looks redundant until the morning it is not. Here is the start-system picture on Vietnam's underbones, from the manufacturers' own pages (retrieved 23 September 2026).
@@ -28,11 +28,11 @@ Electric start only: Honda Wave Alpha, Super Cub C125, CT125, Winner R, CBR150R 
 
 ## Why kick survives
 
-Batteries in tropical heat and humidity fail young; our dead-battery guide covers the causes. A kick lever turns a flat battery from a stranded morning into a late one - which is why the workhorse commuter class keeps it. It also earns its keep in winter, when cold, tired batteries meet thick cold oil; our cold-start guide covers the technique.
+Batteries in tropical heat and humidity fail young; [our dead-battery guide]({{ '/articles/dead-battery-motorbike-vietnam/' | relative_url }}) covers the causes. A kick lever turns a flat battery from a stranded morning into a late one - which is why the workhorse commuter class keeps it. It also earns its keep in winter, when cold, tired batteries meet thick cold oil; [our cold-start guide]({{ '/articles/cold-start-motorbike-winter-vietnam/' | relative_url }}) covers the technique.
 
 ## The electric-start side of the deal
 
-Electric start is the daily convenience - one thumb, every time - but it depends on the battery, the starter motor and their wiring; our starter-motor troubleshooting guide covers that chain. Kick starters have their own failure modes too: our kick-start-slipping and kick-starter-care guides cover the worn-freewheel symptoms.
+Electric start is the daily convenience - one thumb, every time - but it depends on the battery, the starter motor and their wiring; [our starter-motor troubleshooting guide]({{ '/articles/electric-start-starter-motor-problems/' | relative_url }}) covers that chain. Kick starters have their own failure modes too: our kick-start-slipping and kick-starter-care guides cover the worn-freewheel symptoms.
 
 ## Practical advice
 

@@ -1,7 +1,7 @@
 ---
 title: "Do You Need Insurance for a 50cc Bike in Vietnam?"
 slug: do-you-need-insurance-for-50cc-vietnam
-description: "Yes: compulsory civil-liability insurance attaches to mopeds like any motor vehicle under Article 56 of Law 36/2024 and Decree 67/2023. The 200,000-300,000 VND fine for missing cover, and what it does and does not pay for."
+description: "Yes: compulsory civil-liability insurance applies to mopeds under Article 56 of Law 36/2024 and Decree 67/2023. The 200,000-300,000 VND fine and what it pays for."
 category: 50cc
 tags:
   - "50cc"
@@ -44,6 +44,6 @@ Compulsory insurance is third-party cover: it compensates people you injure and 
 - Renting: the rental side keeps fleet cover; confirm the certificate copy is with the bike before leaving.
 - Parents of teenage riders: the insurance duty follows the vehicle owner. Handing a moped to a 16-year-old without valid cover exposes both of you.
 
-Our full insurance article covers the scheme in detail, and the documents-to-carry article lists what should physically ride with you. The myths article collects the other licence-free misconceptions in one place.
+[Our full insurance article]({{ '/articles/compulsory-motorbike-insurance-vietnam/' | relative_url }}) covers the scheme in detail, and [the documents-to-carry article]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) lists what should physically ride with you. The myths article collects the other licence-free misconceptions in one place.
 
 *Information, not legal advice. Verified against the full text of Law 36/2024/QH15 and Decree 168/2024/NĐ-CP on 2026-09-24.*

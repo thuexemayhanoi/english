@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "buying-motorbike-parts-online-vietnam, genuine-vs-fake-parts-motorbike-vietnam, spare-parts-availability-vietnam, repair-quotes-parts-pricing-vietnam"
+internal_link_targets: "buying-motorbike-parts-online-vietnam, genuine-vs-fake-parts-motorbike-vietnam, spare-parts-availability-vietnam, repair-quotes-parts-pricing-vietnam, aftermarket-exhausts-motorbikes-vietnam"
 ---
 
 Vietnam’s physical parts markets — whole streets of stalls selling everything from gaskets to whole engines — are magnificent and dangerous: magnificent in price and availability, dangerous in a way the online-parts article ([Buying Motorbike Parts Online in Vietnam]({{ '/articles/buying-motorbike-parts-online-vietnam/' | relative_url }})) does not prepare you for, because in a market you cannot read a listing; you read a stall.

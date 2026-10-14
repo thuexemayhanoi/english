@@ -37,7 +37,7 @@ For a stranger kind of night out, ride to the markets that run on the city's clo
 
 ## Riding home late
 
-Night riding in Hanoi deserves its own respect: the traffic thins, the speeds rise, and the collision geometry changes — fewer, faster cars, dim side streets, buses off duty and food trolleys without lights. The night-riding safety guide covers the detail; the market-specific additions:
+Night riding in Hanoi deserves its own respect: the traffic thins, the speeds rise, and the collision geometry changes — fewer, faster cars, dim side streets, buses off duty and food trolleys without lights. [The night-riding safety guide]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}) covers the detail; the market-specific additions:
 
 - **Load discipline**: after a market trip you are carrying bags. Cargo belongs behind you, netted or strapped, never in your hands or on the handlebars.
 - **Helmet on, every time**: night is when the police checks and the serious accidents both cluster.

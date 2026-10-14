@@ -27,7 +27,7 @@ Confirm you have a licence that covers the bike and that the rental arrangement 
 
 ## The machine
 
-- **Clutch:** pull the lever — smooth, no binding, and no free play that lets the bike creep in gear with the lever in. The lever adjustment guide covers what correct feels like.
+- **Clutch:** pull the lever — smooth, no binding, and no free play that lets the bike creep in gear with the lever in. [The lever adjustment guide]({{ '/articles/clutch-lever-adjustment-underbones/' | relative_url }}) covers what correct feels like.
 - **Gears:** click through the full pattern with the engine off, then find first and neutral again with it running.
 - **Brakes:** squeeze the front and press the rear while pushing the bike; both should bite before half-travel.
 - **Chain:** look for obvious rust, a chain sagging like a necklace or one drum-tight, and listen for slap on the test ride.

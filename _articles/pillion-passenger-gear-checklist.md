@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "second-helmet-passengers-vietnam, balancing-pillion-riding-motorbike-vietnam, motorbike-passenger-rules-vietnam, what-to-wear-riding-motorbike-vietnam"
+internal_link_targets: "second-helmet-passengers-vietnam, balancing-pillion-riding-motorbike-vietnam, motorbike-passenger-rules-vietnam, what-to-wear-riding-motorbike-vietnam, second-hand-riding-gear-risks"
 ---
 
 A pillion gets everything the rider gets, minus the handlebars. Passengers are not legal cargo — they are riders with no controls, and their gear and briefing are the rider’s responsibility.

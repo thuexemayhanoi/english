@@ -1,5 +1,5 @@
 ---
-title: "Rotary Four-Speed vs Manual Six-Speed: Underbone Gearboxes Compared"
+title: "Rotary Four-Speed vs Manual Six-Speed: Underbone Gearboxes"
 slug: rotary-gearbox-vs-manual-clutch-explained
 description: "How the Vietnamese rotary four-speed differs from a manual six-speed clutch gearbox, on verified examples from Honda and Yamaha pages."
 category: motorcycles

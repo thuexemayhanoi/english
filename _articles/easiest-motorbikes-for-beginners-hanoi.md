@@ -1,7 +1,7 @@
 ---
 title: "Easiest Motorbikes for Beginner Riders in Hanoi"
 slug: easiest-motorbikes-for-beginners-hanoi
-description: "The easiest motorbikes for beginners in Hanoi are light automatic scooters - the Honda Vision, Click and Yamaha Mio class - and licence-free e-bikes. What makes a bike easy."
+description: "The easiest motorbikes for beginners in Hanoi: light automatic scooters like the Honda Vision, Click and Yamaha Mio, plus licence-free e-bikes."
 category: rental
 tags:
   - "beginners"
@@ -50,4 +50,4 @@ Manual clutch bikes (a workload in traffic), anything tall or heavy, and anythin
 An automatic scooter, a helmet that fits, the first ride around the block before the first ride in traffic, and slow, predictable lines. Confidence arrives on day two; the bike should not be the hard part on day one.
 
 
-Curious how the no-clutch-lever gearbox actually works? Our semi-automatic gearbox explainer covers the centrifugal clutch and rotary shift pattern behind the easiest rental formats.
+Curious how the no-clutch-lever gearbox actually works? [Our semi-automatic gearbox explainer]({{ '/articles/semi-automatic-gearbox-explained/' | relative_url }}) covers the centrifugal clutch and rotary shift pattern behind the easiest rental formats.

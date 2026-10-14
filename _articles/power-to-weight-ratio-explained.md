@@ -1,5 +1,5 @@
 ---
-title: "Power-to-Weight Ratio Explained: Comparing Vietnam's Underbones Honestly"
+title: "Power-to-Weight Ratio Explained: Comparing Vietnam's Underbones"
 slug: power-to-weight-ratio-explained
 description: "Why power alone lies: power-to-weight ratios for Vietnam's verified underbones, and what they reveal about real performance."
 category: motorcycles

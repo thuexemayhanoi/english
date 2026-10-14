@@ -22,7 +22,7 @@ sources:
   - "https://www.bestpricetravel.com/travel-guide/hanoi-to-cat-ba-island-2484.html — about 135 km from Hanoi centre to Dong Bai port in about 3.5 hours via National Road 5 and the Tan Vu-Lach Huyen sea-crossing bridge, then a roughly 30-minute ferry to Cai Vieng and about 30 minutes riding to Cat Ba town, retrieved 2026-09-24"
   - "https://www.conmochila.com/en/how-to-get-to-cat-ba-from-hanoi-by-motorbike-step-by-step/ — ride about 150 km to Tuan Chau, buy a motorbike ferry ticket (about 80,000 VND including the driver, pillion about 60,000 VND extra), check the schedule board for return crossings, retrieved 2026-09-24"
   - "https://vinpearl.com/en/hanoi-to-cat-ba-the-ultimate-travel-guide — alternative route via QL5 and QL18 to Ha Long (about 145-150 km) and onward by boat from Tuan Chau to Cat Ba, retrieved 2026-09-24"
-internal_link_targets: motorbike-ferry-train-transport-vietnam, motorbikes-on-expressway-vietnam, motorbike-trip-prep-checklist-hanoi, overnight-stays-motorbike-trips-vietnam, motorbike-trip-budget-from-hanoi, how-to-rent-a-motorbike-hanoi
+internal_link_targets: "motorbike-ferry-train-transport-vietnam, motorbikes-on-expressway-vietnam, motorbike-trip-prep-checklist-hanoi, overnight-stays-motorbike-trips-vietnam, motorbike-trip-budget-from-hanoi, how-to-rent-a-motorbike-hanoi, lang-son-motorbike-trip-hanoi"
 ---
 
 Cat Ba is the only sea-island motorbike trip you can do in a weekend from Hanoi: ride about 135 to 150 kilometres east to the coast, put the bike on a ferry, and spend a day or two on forest roads and coastal bends in Lan Ha Bay country. The trip's one non-negotiable piece of planning is the ferry — motorbikes reach Cat Ba only by boat, schedules vary by season, and the crossing times set the shape of each day.
@@ -31,7 +31,7 @@ Cat Ba is the only sea-island motorbike trip you can do in a weekend from Hanoi:
 
 Two main road options exist, and both matter for riders. The first is the classic National Highway 5 (QL5) through Hai Phong territory to the Tan Vu-Lach Huyen sea-crossing bridge, which lands you on Cat Hai island next to the Dong Bai ferry port — about 135 km and three and a half hours from central Hanoi by most published estimates. The second continues on QL5 and then QL18 around to Ha Long city and the Tuan Chau ferry terminal, about 150 km, which pairs the island with a look at Ha Long Bay from the mainland.
 
-One rule is absolute: the Hanoi-Hai Phong and Ha Long expressways are closed to motorbikes, so QL5 and QL18 are the legal routes. Our motorbikes-on-expressways explainer covers the rule and the fines; the ferry-and-train transport guide covers everything else about moving a bike around Vietnam by boat.
+One rule is absolute: the Hanoi-Hai Phong and Ha Long expressways are closed to motorbikes, so QL5 and QL18 are the legal routes. [Our motorbikes-on-expressways explainer]({{ '/articles/motorbikes-on-expressway-vietnam/' | relative_url }}) covers the rule and the fines; the ferry-and-train transport guide covers everything else about moving a bike around Vietnam by boat.
 
 ## The ferry crossing
 

@@ -46,7 +46,7 @@ Above 55 million, you are buying identity, not commuting: fairing (CBR), trail c
 
 ## Price caveats
 
-All figures are dated list prices; dealers may differ, and registration, insurance and plates add on-the-road costs - our list-price vs on-road explainer covers the gap. Never treat a list price as what you will pay.
+All figures are dated list prices; dealers may differ, and registration, insurance and plates add on-the-road costs - [our list-price vs on-road explainer]({{ '/articles/list-price-vs-on-road-cost-vietnam/' | relative_url }}) covers the gap. Never treat a list price as what you will pay.
 
 ## Renting instead
 

@@ -32,4 +32,4 @@ Peak torque at low rpm is what pulls you up a bridge ramp at city speed: the SH1
 
 ## Practical Hanoi advice
 
-Hold your line on bridge ramps and watch for merging buses - our Hanoi bridges article covers the traffic patterns. Two-up riders should choose at least the 155-160cc class if their route crosses bridges daily. Contact us to confirm current availability of any model; rental fleets change.
+Hold your line on bridge ramps and watch for merging buses - [our Hanoi bridges article]({{ '/articles/crossing-hanoi-bridges-motorbike/' | relative_url }}) covers the traffic patterns. Two-up riders should choose at least the 155-160cc class if their route crosses bridges daily. Contact us to confirm current availability of any model; rental fleets change.

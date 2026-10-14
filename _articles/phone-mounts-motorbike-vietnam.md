@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "dashcams-motorbike-riding-vietnam, usb-chargers-motorbike-power, what-to-carry-riding-motorbike-vietnam, motorbike-rider-toolkit-essentials"
+internal_link_targets: "dashcams-motorbike-riding-vietnam, usb-chargers-motorbike-power, what-to-carry-riding-motorbike-vietnam, motorbike-rider-toolkit-essentials, tank-bags-motorbikes-uses"
 ---
 
 Half the riders in Hanoi navigate by phone, and the phone lives either in a pocket (requiring stops) or on a mount (requiring judgment). A mount that holds the phone is the easy part; a mount that holds the phone through Vietnamese potholes, rain and vibration is the actual question.

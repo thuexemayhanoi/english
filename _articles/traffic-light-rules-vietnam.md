@@ -1,7 +1,7 @@
 ---
 title: "Traffic Light Rules for Motorbikes in Vietnam"
 slug: traffic-light-rules-vietnam
-description: "How Vietnamese traffic lights work for motorbike riders under Article 11 of Law 36/2024/QH15: green means go but yield to pedestrians, yellow means stop at the line, red is absolute, with a 4-6 million VND fine for running a red."
+description: "Traffic lights for riders under Article 11 of Law 36/2024/QH15: green means go but yield to pedestrians, yellow means stop at the line, red is absolute."
 category: law-licences
 tags:
   - "traffic lights"

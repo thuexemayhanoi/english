@@ -1,7 +1,7 @@
 ---
 title: "Vietnam A1 Licence Test: What You Must Pass"
 slug: vietnam-a1-licence-test
-description: "The Vietnamese A1 motorbike test: a 25-question theory exam with a 21/25 pass mark, killer questions, and a practical circuit test under Circular 12/2025/TT-BCA — plus what happens if you fail."
+description: "The Vietnamese A1 test: a 25-question theory exam (21/25 to pass, with killer questions) and a practical circuit test under Circular 12/2025/TT-BCA."
 category: law-licences
 tags:
   - "a1"
@@ -21,7 +21,7 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/quy-trinh-sat-hach-lai-xe-mo-to-hang-a1-va-a-tu-1-1-2025-119241216163302862.htm — Báo điện tử Chính phủ: A1 and A motorbike test procedure from 1 January 2025 (Circular 12/2025/TT-BCA, Phụ lục II)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-12-2025-tt-bca-cua-bo-cong-an-quy-dinh-ve-sat-hach-cap-giay-phep-lai-xe-119250303174347028.htm — Circular 12/2025/TT-BCA of the Ministry of Public Security, full text (Báo điện tử Chính phủ)"
   - "https://thanhnien.vn/tu-19-hoc-bang-lai-xe-may-hang-a-a1-bao-lau-moi-duoc-thi-sat-hach-185250909090811652.htm — Thanh Niên: Circular 14/2025/TT-BXD training-hour requirements for class A and A1 from 1 September 2025"
-internal_link_targets: "how-to-get-a1-licence-vietnam, a1-licence-cost-vietnam, a1-licence-vietnam-what-you-can-ride, vietnam-licence-test-in-english"
+internal_link_targets: "how-to-get-a1-licence-vietnam, a1-licence-cost-vietnam, a1-licence-vietnam-what-you-can-ride, vietnam-licence-test-in-english, motorbike-learner-permit-vietnam"
 ---
 
 Two exams stand between you and the A1 licence: a computer-based theory paper and a practical circuit test. Both are set by Circular 12/2025/TT-BCA of the Ministry of Public Security, and the pass marks are published in its annexes.

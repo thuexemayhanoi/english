@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-cbr150r-review, honda-winner-r-review, yamaha-exciter-155-vva-review, best-150cc-manual-motorbikes-vietnam-verified, best-motorbike-for-long-distance-vietnam
+internal_link_targets: "honda-cbr150r-review, honda-winner-r-review, yamaha-exciter-155-vva-review, best-150cc-manual-motorbikes-vietnam-verified, best-motorbike-for-long-distance-vietnam, honda-blade-vs-honda-cbr150r, honda-cbr150r-vs-honda-ct125, honda-cbr150r-vs-honda-future-125, honda-cbr150r-vs-honda-super-cub"
 ---
 
 Two Hondas share a 149.2 cc engine architecture and almost nothing else. All figures below come from the official Honda Vietnam product pages (retrieved 23 September 2026).

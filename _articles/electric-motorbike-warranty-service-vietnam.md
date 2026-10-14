@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 page — 3-year battery warranty, 48-hour nationwide on-site warranty, 2-day 100 percent refund return policy"
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — battery-swap network support and rental model (operator carries battery maintenance)"
-internal_link_targets: electric-motorbike-maintenance-basics, buying-used-electric-motorbike-vietnam, vinfast-battery-rental-vs-buying, electric-motorbike-battery-replacement-vietnam
+internal_link_targets: "electric-motorbike-maintenance-basics, buying-used-electric-motorbike-vietnam, vinfast-battery-rental-vs-buying, electric-motorbike-battery-replacement-vietnam, electric-motorbike-parts-availability-vietnam"
 ---
 
 Warranty terms decide who pays when an electric motorbike goes wrong, and with electrics the interesting clauses are all about the battery. Here is what the manufacturers publish, and how service differs from the petrol world.

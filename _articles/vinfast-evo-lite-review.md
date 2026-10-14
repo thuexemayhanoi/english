@@ -1,7 +1,7 @@
 ---
 title: "VinFast Evo Lite Review: The Deliberately Slower Evo"
 slug: vinfast-evo-lite-review
-description: "VinFast Evo Lite reviewed from official data: the speed-limited below-50-km/h version of the Evo platform for the strict licence-free moped band - verified facts only."
+description: "VinFast Evo Lite reviewed from official data: the speed-limited below-50 km/h version of the Evo platform built for the licence-free moped band. Verified facts only."
 category: electric
 tags:
   - "vinfast"
@@ -37,7 +37,7 @@ What the launch data does not publish for the Lite: motor power, range and prici
 
 ## Where the Lite makes sense
 
-Under Law 36/2024/QH15 the sub-4 kW, sub-50 km/h class is the strict licence-free band, and the Lite exists to sit inside it by design rather than by luck. For riders who want to never think about the boundary — or parents buying for a 16-year-old — a machine engineered under the cap is cleaner peace of mind than a faster machine ridden gently. The speed-classes guide explains why the cap exists; the riding-at-16 article covers the young-rider rules.
+Under Law 36/2024/QH15 the sub-4 kW, sub-50 km/h class is the strict licence-free band, and the Lite exists to sit inside it by design rather than by luck. For riders who want to never think about the boundary — or parents buying for a 16-year-old — a machine engineered under the cap is cleaner peace of mind than a faster machine ridden gently. [The speed-classes guide]({{ '/articles/electric-two-wheeler-speed-classes-vietnam/' | relative_url }}) explains why the cap exists; [the riding-at-16 article]({{ '/articles/riding-electric-moped-16-vietnam/' | relative_url }}) covers the young-rider rules.
 
 The trade is honest: the same traffic that a 70 km/h-class scooter escapes with a twist, the Lite navigates at moped pace. On Hanoi's arterial roads that pace is workable; on fast outer highways it is a limitation to accept before buying.
 

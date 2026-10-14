@@ -1,7 +1,7 @@
 ---
 title: "First Time Renting a Motorbike in Hanoi: A Beginner Walkthrough"
 slug: first-time-renting-a-motorbike-hanoi
-description: "Renting a motorbike for the first time in Hanoi is straightforward - but the first ten minutes in Vietnamese traffic decide everything. A calm walkthrough for nervous first-time renters."
+description: "Renting a motorbike for the first time in Hanoi is straightforward, but the first ten minutes in traffic decide everything."
 category: rental
 tags:
   - "first time"

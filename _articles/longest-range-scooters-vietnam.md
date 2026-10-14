@@ -1,7 +1,7 @@
 ---
-title: "Longest-Range Scooters in Vietnam: Tank Size Times Economy"
+title: "Longest-Range Scooters in Vietnam: Which Go Furthest per Tank"
 slug: longest-range-scooters-vietnam
-description: "Which scooters go furthest on a full tank in Vietnam - implied ranges calculated from verified manufacturer tank and fuel-economy figures, with what actually eats your range."
+description: "Which scooters go furthest on a tank in Vietnam: implied ranges from verified manufacturer tank and fuel-economy figures, and what actually eats your range."
 category: scooters
 tags:
   - "fuel range"

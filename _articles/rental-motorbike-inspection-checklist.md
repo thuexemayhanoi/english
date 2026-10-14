@@ -1,7 +1,7 @@
 ---
-title: "Rental Motorbike Inspection Checklist: What to Check Before You Ride"
+title: "Rental Motorbike Inspection Checklist: Check Before You Ride"
 slug: rental-motorbike-inspection-checklist
-description: "Thirty seconds of checks before you ride off protects your deposit: lights, horn, brakes, mirrors, tyres, fuel level, and every existing scratch photographed. The full checklist."
+description: "Thirty seconds of checks before you ride off protects your deposit: lights, horn, brakes, mirrors, tyres, fuel level and every existing scratch photographed."
 category: rental
 tags:
   - "inspection checklist"

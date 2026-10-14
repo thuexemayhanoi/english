@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn — Honda Vietnam model detail pages, official specifications (recorded in docs/MODEL-DATABASE.md, retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-wave-rsx-review, honda-wave-alpha-vs-honda-wave-rsx, best-underbones-hanoi-commuting-verified, honda-future-125-riding-guide, fuel-efficient-riding-habits-underbone
+internal_link_targets: "honda-wave-rsx-review, honda-wave-alpha-vs-honda-wave-rsx, best-underbones-hanoi-commuting-verified, honda-future-125-riding-guide, fuel-efficient-riding-habits-underbone, riding-honda-wave-alpha-110-guide"
 ---
 
 The Wave RSX is the premium version of the machine Vietnam commutes on: the same practical shape as the Alpha with more equipment and stronger numbers. Honda Vietnam's page (recorded in our model database, retrieved 2026-09-23) lists 25,664,727 VND and the figures below.
@@ -35,7 +35,7 @@ The Wave RSX is the premium version of the machine Vietnam commutes on: the same
 
 ## Where it sits
 
-Between the Alpha (basic, cheapest) and the Future 125 (roomier, more expensive), the RSX is the sweet spot for a single daily commuter who wants fuel injection, storage and the Wave's total parts network. Our comparison with the Alpha covers the value question; the Future guide covers the bigger-bike question.
+Between the Alpha (basic, cheapest) and the Future 125 (roomier, more expensive), the RSX is the sweet spot for a single daily commuter who wants fuel injection, storage and the Wave's total parts network. Our comparison with the Alpha covers the value question; [the Future guide]({{ '/articles/honda-future-125-riding-guide/' | relative_url }}) covers the bigger-bike question.
 
 ## Daily rhythm
 

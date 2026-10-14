@@ -1,5 +1,5 @@
 ---
-title: "Thanh Xuan for Motorbike Riders: Underpasses, Apartments and Wide Roads"
+title: "Thanh Xuan for Motorbike Riders: Underpasses and Wide Roads"
 slug: thanh-xuan-area-guide-riders
 description: "Riding the former Thanh Xuan area of southwest Hanoi: underpasses, apartment blocks, retail streets, traffic character and parking for motorbike riders."
 category: hanoi

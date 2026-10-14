@@ -1,7 +1,7 @@
 ---
 title: "Can Foreign Students Get a Vietnamese Motorbike Licence"
 slug: foreign-student-motorbike-licence-vietnam
-description: "Yes — foreign students in Vietnam with 3+ months of residence can exchange a national licence under Circular 12/2025/TT-BCA or sit the A1 test; dorm registration can serve as residence evidence. Practical guide for student riders."
+description: "Foreign students with 3+ months of residence in Vietnam can exchange a national licence under Circular 12/2025/TT-BCA or sit the A1 test; dorm registration counts."
 category: law-licences
 tags:
   - "students"

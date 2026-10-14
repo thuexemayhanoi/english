@@ -1,7 +1,7 @@
 ---
 title: "Yamaha Latte vs Yamaha Grande: Two Style Scooters, One Garage"
 slug: yamaha-latte-vs-yamaha-grande
-description: "Yamaha Latte vs Yamaha Grande compared on verified Yamaha Vietnam facts - engines, economy, storage, weight and price - to help you choose between Yamaha's two style scooters."
+description: "Yamaha Latte vs Yamaha Grande on verified Yamaha Vietnam facts: engines, economy, storage, weight and price, to help you choose between Yamaha's two style scooters."
 category: scooters
 tags:
   - "yamaha latte"
@@ -18,7 +18,7 @@ sources:
   - "yamaha-motor.com.vn - Yamaha VN model pages (NVX 155, Latte), official specifications (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn - Yamaha Grande product page, official specifications (retrieved 2026-09-23, as used in the published Grande review)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: yamaha-latte-125-review, yamaha-grande-review, honda-lead-vs-yamaha-grande, scooter-underseat-storage-comparison, yamaha-scooter-lineup-vietnam-explained
+internal_link_targets: "yamaha-latte-125-review, yamaha-grande-review, honda-lead-vs-yamaha-grande, scooter-underseat-storage-comparison, yamaha-scooter-lineup-vietnam-explained, yamaha-latte-125-vs-honda-lead-125, yamaha-latte-125-vs-yamaha-gear-125"
 ---
 
 Yamaha sells two style-first city scooters in Vietnam: the rounder, retro-flavoured Grande and the newer Latte. They overlap on paper - both around 100 kg, both smart-keyed, both aimed at style-conscious city riders - but they differ in the details that matter. Facts below come from Yamaha Vietnam's official product pages (retrieved 23 September 2026).

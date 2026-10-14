@@ -28,15 +28,15 @@ Full LED lighting is published for the Honda Vario 125 and Honda SH Mode 125; LE
 
 ## What LED does better
 
-LED headlamps draw less electrical power, last far longer (no filament to fail), and their whiter light renders signs and road edges more clearly at night. For unlit roads this is a genuine safety margin - and it pairs with correct aim, which our headlight aim guide covers, because a bright light aimed badly is worse than a modest one aimed well.
+LED headlamps draw less electrical power, last far longer (no filament to fail), and their whiter light renders signs and road edges more clearly at night. For unlit roads this is a genuine safety margin - and it pairs with correct aim, which [our headlight aim guide]({{ '/articles/headlight-aim-adjustment-motorbike/' | relative_url }}) covers, because a bright light aimed badly is worse than a modest one aimed well.
 
 ## What halogen still does well
 
-Halogen light penetrates rain and fog better than many LED patterns - the warmer, wider beam scatters less in water droplets, which matters in a four-month wet season. Halogen bulbs are also cheap and replaceable almost anywhere in Vietnam; our bulb replacement guide covers the process, and our night-riding safety guide covers the technique.
+Halogen light penetrates rain and fog better than many LED patterns - the warmer, wider beam scatters less in water droplets, which matters in a four-month wet season. Halogen bulbs are also cheap and replaceable almost anywhere in Vietnam; [our bulb replacement guide]({{ '/articles/headlight-bulb-replacement-motorbike/' | relative_url }}) covers the process, and [our night-riding safety guide]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}) covers the technique.
 
 ## Cautions with conversions
 
-Swapping halogen for aftermarket LED bulbs is common but risky: beam patterns designed for a halogen reflector scatter and blind oncoming traffic, and legality varies - our aftermarket LED guide covers the issues. Manufacturer-fitted LED, as on the verified models above, is designed as a system.
+Swapping halogen for aftermarket LED bulbs is common but risky: beam patterns designed for a halogen reflector scatter and blind oncoming traffic, and legality varies - [our aftermarket LED guide]({{ '/articles/aftermarket-led-headlight-bulbs/' | relative_url }}) covers the issues. Manufacturer-fitted LED, as on the verified models above, is designed as a system.
 
 ## Renting
 

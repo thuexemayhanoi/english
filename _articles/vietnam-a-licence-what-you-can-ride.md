@@ -1,7 +1,7 @@
 ---
 title: "What the Vietnam A Licence Lets You Ride"
 slug: vietnam-a-licence-what-you-can-ride
-description: "The Vietnamese class A licence covers motorbikes above 125 cc or above 11 kW — every big bike in the country — with age 18, no expiry, and the 6-8 million VND unlicensed-riding band for riders without it."
+description: "The Vietnamese class A licence covers motorbikes above 125cc or 11 kW, every big bike in the country: age 18, no expiry."
 category: law-licences
 tags:
   - "a licence"

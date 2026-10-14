@@ -1,7 +1,7 @@
 ---
 title: "Honda Vario 125 vs Yamaha Latte: New Rival, Classic Trade-Offs"
 slug: honda-vario-125-vs-yamaha-latte-125
-description: "Honda Vario 125 vs Yamaha Latte 125 compared on verified specs - liquid vs air cooling, power, economy, weight, brakes, storage and price - to help you pick your city scooter."
+description: "Honda Vario 125 vs Yamaha Latte 125 on verified specs: liquid vs air cooling, power, economy, weight, brakes, storage and price, to help you pick your city scooter."
 category: scooters
 tags:
   - "honda vario 125"
@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn - Honda VN model pages (Sh mode 125, SH160i/125i), official specifications (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn - Yamaha VN model pages (NVX 155, Latte), official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-vario-125-review, yamaha-latte-125-review, air-cooled-vs-liquid-cooled-motorbike, scooter-fuel-economy-comparison-vietnam, scooter-underseat-storage-comparison
+internal_link_targets: "honda-vario-125-review, yamaha-latte-125-review, air-cooled-vs-liquid-cooled-motorbike, scooter-fuel-economy-comparison-vietnam, scooter-underseat-storage-comparison, honda-sh-mode-125-vs-honda-air-blade-160"
 ---
 
 Two new-generation 125 cc city scooters, two very different philosophies: Honda's Vario 125 is the modern equipment-first machine, while Yamaha's Latte trades hardware for lightness and cargo space. All figures come from the official Honda Vietnam and Yamaha Vietnam product pages (retrieved 23 September 2026).

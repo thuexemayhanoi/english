@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "General electrical guidance; specifications per manual"
-internal_link_targets: "dead-battery-motorbike-vietnam, choosing-replacement-battery-motorbike-vietnam, battery-care-motorbike-vietnam, simple-electrical-faults-horn-switches-fuses"
+internal_link_targets: "dead-battery-motorbike-vietnam, choosing-replacement-battery-motorbike-vietnam, battery-care-motorbike-vietnam, simple-electrical-faults-horn-switches-fuses, oil-leaks-motorbike-finding-fixing"
 ---
 
 A battery that goes flat while the bike sits overnight is different from one that dies while riding. A battery that dies on the move suggests charging trouble; a battery that dies while parked means something is eating it in silence. These are different hunts, and this one starts with a confession from the bike.

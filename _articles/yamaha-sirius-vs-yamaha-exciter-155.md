@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "yamaha-motor.com.vn — Yamaha VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: yamaha-sirius-rc-110-review, yamaha-exciter-155-vva-review, honda-winner-r-vs-yamaha-exciter-155, yamaha-sirius-rc-110-review, semi-automatic-gearbox-explained, best-150cc-manual-motorbikes-vietnam-verified
+internal_link_targets: "yamaha-sirius-rc-110-review, yamaha-exciter-155-vva-review, honda-winner-r-vs-yamaha-exciter-155, yamaha-sirius-rc-110-review, semi-automatic-gearbox-explained, best-150cc-manual-motorbikes-vietnam-verified, honda-future-125-vs-yamaha-exciter-155, honda-wave-alpha-vs-yamaha-exciter-155"
 ---
 
 Yamaha Vietnam's two headline underbones mark the two steps of a riding life: the Sirius RC 110 that carries the country to work, and the Exciter 155 VVA that carries it fast on weekends. Both specifications are from Yamaha's own pages (retrieved 23 September 2026).

@@ -1,5 +1,5 @@
 ---
-title: "Honda Wave Alpha vs Honda Winner R: First Bike or Graduation Bike?"
+title: "Honda Wave Alpha vs Honda Winner R: First or Graduation Bike?"
 slug: honda-wave-alpha-vs-honda-winner-r
 description: "Honda Wave Alpha 110 vs Winner R compared on verified Honda VN specs - transmission, power, economy and rider-skill requirements."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-wave-alpha-110-review, honda-winner-r-review, honda-super-cub-vs-honda-winner-r, honda-cbr150r-vs-honda-winner-r, semi-automatic-gearbox-explained, best-150cc-manual-motorbikes-vietnam-verified
+internal_link_targets: "honda-wave-alpha-110-review, honda-winner-r-review, honda-super-cub-vs-honda-winner-r, honda-cbr150r-vs-honda-winner-r, semi-automatic-gearbox-explained, best-150cc-manual-motorbikes-vietnam-verified, honda-blade-vs-yamaha-exciter-155, honda-wave-alpha-vs-yamaha-exciter-155, honda-wave-rsx-vs-honda-winner-r"
 ---
 
 No two Hondas better describe a Vietnamese riding career than these: the Wave Alpha is the bike most people learn on; the Winner R is the bike they graduate to. Honda VN publishes both specifications (retrieved 23 September 2026).

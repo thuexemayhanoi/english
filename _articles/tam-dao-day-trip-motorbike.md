@@ -21,7 +21,7 @@ sources:
   - "https://goldenholidaytravel.com/how-to-get-to-tam-dao-national-park.new — Tam Dao is about 85 km from central Hanoi and roughly two hours by motorbike, retrieved 2026-09-24"
   - "https://lasiestahotels.com/mamay/tam-dao-vietnam.html — popular motorbike route with wide avenues for most of the way and roughly the final 15 kilometres climbing to the town, retrieved 2026-09-24"
   - "https://www.indietraveller.co/hanoi-day-trips/ — Tam Dao positioned as a mountain day trip about two hours from Hanoi, retrieved 2026-09-24"
-internal_link_targets: best-motorbike-for-day-trips-from-hanoi, mountain-pass-riding-motorbike-vietnam, fog-and-low-visibility-riding-motorbike-vietnam, servicing-before-long-trip-motorbike, how-to-rent-a-motorbike-hanoi, first-mountain-motorbike-trip-vietnam-comparison
+internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, mountain-pass-riding-motorbike-vietnam, fog-and-low-visibility-riding-motorbike-vietnam, servicing-before-long-trip-motorbike, how-to-rent-a-motorbike-hanoi, first-mountain-motorbike-trip-vietnam-comparison, ba-vi-national-park-day-trip-motorbike"
 ---
 
 Tam Dao is the closest real mountain ride to Hanoi: a former French hill station on a forested ridge in Vinh Phuc province, about 85 kilometres from the city centre and roughly two hours of riding each way in normal conditions. The reward for the climb is a noticeably cooler microclimate and long views over the Red River delta plain — the reason the town has been a weekend escape for more than a century.

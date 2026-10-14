@@ -17,7 +17,7 @@ sources:
   - "honda.com.vn — official Honda Vietnam model pages (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — official Yamaha Vietnam product pages (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved)"
-internal_link_targets: "rental-motorbike-inspection-checklist, scooter-power-torque-explained, scooter-seat-heights-comparison-vietnam, scooter-underseat-storage-comparison, scooter-fuel-economy-comparison-vietnam, test-riding-before-monthly-rental-hanoi"
+internal_link_targets: "rental-motorbike-inspection-checklist, scooter-power-torque-explained, scooter-seat-heights-comparison-vietnam, scooter-underseat-storage-comparison, scooter-fuel-economy-comparison-vietnam, test-riding-before-monthly-rental-hanoi, euro-4-scooters-vietnam, scooter-displacement-numbers-explained"
 ---
 
 Every scooter review, brochure and rental listing shows a spec sheet - and most readers focus on the wrong rows. Here is how to read one with the numbers that actually predict your experience, using manufacturer-verified figures (retrieved 23 September 2026) as examples.
@@ -39,7 +39,7 @@ Every scooter review, brochure and rental listing shows a spec sheet - and most 
 
 ## The rows nobody can sell you
 
-Condition of the actual bike in front of you. A well-maintained two-year-old Vision beats a neglected new one. That is why the in-person checks - our rental inspection checklist and test ride guide - outrank every published figure.
+Condition of the actual bike in front of you. A well-maintained two-year-old Vision beats a neglected new one. That is why the in-person checks - [our rental inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) and test ride guide - outrank every published figure.
 
 ## For renters specifically
 

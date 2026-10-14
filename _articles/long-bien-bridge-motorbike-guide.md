@@ -1,7 +1,7 @@
 ---
-title: "Riding the Long Bien Bridge: History, Access and What to Expect on the Deck"
+title: "Riding the Long Bien Bridge: History, Access and the Deck"
 slug: long-bien-bridge-motorbike-guide
-description: "A rider's guide to Hanoi's 1902 Long Bien Bridge: side-lane access, railway in the middle, the 2026 repair closure and reopening, photo stops and how to cross it safely."
+description: "A rider's guide to Hanoi's 1902 Long Bien Bridge: side-lane access, the railway in the middle, the 2026 repair closure and reopening."
 category: hanoi
 tags:
   - "long bien bridge"

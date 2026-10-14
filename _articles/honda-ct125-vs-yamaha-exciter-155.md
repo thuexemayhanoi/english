@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-ct125-review, yamaha-exciter-155-vva-review, honda-ct125-vs-honda-winner-r, honda-winner-r-vs-yamaha-exciter-155, yamaha-vva-explained, best-150cc-manual-motorbikes-vietnam-verified
+internal_link_targets: "honda-ct125-review, yamaha-exciter-155-vva-review, honda-ct125-vs-honda-winner-r, honda-winner-r-vs-yamaha-exciter-155, yamaha-vva-explained, best-150cc-manual-motorbikes-vietnam-verified, honda-super-cub-vs-yamaha-exciter-155"
 ---
 
 The CT125 and Exciter 155 VVA are the two most distinctive manual-gearbox underbones on the Vietnamese market - one styled for trails, one for the street. All figures below are manufacturer-published (retrieved 23 September 2026).

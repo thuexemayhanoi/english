@@ -36,4 +36,4 @@ Future 125: 1,931 mm long, 1,258 mm wheelbase, 756 mm seat, 104 kg. Blade: 1,920
 
 ## Prices
 
-Blade: 21,943,637 VND. Future: from 30,622,909 VND across three versions. Neither is a price-published rental class here - contact us to confirm current availability. Tall riders and two-up commuters should take the Future; style-focused riders who mostly stay inside the city can happily stay with the Blade. Our semi-automatic versus scooter guide explains the gearbox both share.
+Blade: 21,943,637 VND. Future: from 30,622,909 VND across three versions. Neither is a price-published rental class here - contact us to confirm current availability. Tall riders and two-up commuters should take the Future; style-focused riders who mostly stay inside the city can happily stay with the Blade. [Our semi-automatic versus scooter guide]({{ '/articles/scooter-vs-semi-automatic-hanoi/' | relative_url }}) explains the gearbox both share.

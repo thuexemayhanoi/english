@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general buying guidance, no invented products or prices"
-internal_link_targets: "what-to-wear-riding-motorbike-vietnam, riding-gloves-vietnam-climate, hot-weather-riding-motorbike-vietnam, body-armour-motorbike-riders"
+internal_link_targets: "what-to-wear-riding-motorbike-vietnam, riding-gloves-vietnam-climate, hot-weather-riding-motorbike-vietnam, body-armour-motorbike-riders, base-layers-hot-humid-riding, cleaning-waterproof-riding-gear, neck-gaiters-dust-masks-riders, riding-trousers-lower-body-protection"
 ---
 
 The jacket nobody wears protects nobody. In Vietnam's heat, the real riding-jacket question is not "which armour rating" but "which jacket will I actually put on in April at 35°C" — and the answer shapes everything.

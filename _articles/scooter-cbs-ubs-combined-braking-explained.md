@@ -24,7 +24,7 @@ Most 125-class scooters in Vietnam sell with a braking aid that buyers routinely
 
 ## What CBS/UBS actually does
 
-Squeezing one lever on a CBS scooter applies measured braking to both wheels, front and rear together, in a fixed proportion. The reason is simple: most riders under-use the front brake, where most stopping power lives (our disc vs drum guide covers the physics). CBS makes the front brake work even when the rider only pulls the rear lever, shortening stopping distances for typical users.
+Squeezing one lever on a CBS scooter applies measured braking to both wheels, front and rear together, in a fixed proportion. The reason is simple: most riders under-use the front brake, where most stopping power lives ([our disc vs drum guide]({{ '/articles/disc-vs-drum-brakes-motorbike/' | relative_url }}) covers the physics). CBS makes the front brake work even when the rider only pulls the rear lever, shortening stopping distances for typical users.
 
 ## What CBS does not do
 

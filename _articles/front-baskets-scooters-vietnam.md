@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "carrying-luggage-motorbike-safely-vietnam, scooter-under-seat-storage-guide, top-boxes-racks-motorbike-vietnam, slow-speed-control-motorbike-vietnam"
+internal_link_targets: "carrying-luggage-motorbike-safely-vietnam, scooter-under-seat-storage-guide, top-boxes-racks-motorbike-vietnam, slow-speed-control-motorbike-vietnam, pet-carriers-motorbikes-vietnam"
 ---
 
 The front basket is the most Vietnamese accessory on this list — the workhorse of market runs, deliveries and school pickups. It is also mounted precisely where it most affects steering, so it deserves more respect than it usually gets.

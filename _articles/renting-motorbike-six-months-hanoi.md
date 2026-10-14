@@ -1,7 +1,7 @@
 ---
 title: "Renting a Motorbike for 6 Months or Longer in Hanoi"
 slug: renting-motorbike-six-months-hanoi
-description: "Long-term motorbike rental in Hanoi: negotiating six-month-plus terms, what changes at that duration, maintenance and inspection rhythm, and when long-term rental beats buying."
+description: "Long-term motorbike rental in Hanoi: negotiating six-month-plus terms, what changes at that length, maintenance and inspection rhythm, and when renting beats buying."
 category: rental
 tags:
   - "long-term rental"
@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "daily-weekly-monthly-motorbike-rental-hanoi, renting-vs-buying-a-motorbike-hanoi, high-mileage-rental-motorbike-inspection, motorbike-rental-agreement-hanoi, what-is-included-motorbike-rental-hanoi"
+internal_link_targets: "daily-weekly-monthly-motorbike-rental-hanoi, renting-vs-buying-a-motorbike-hanoi, high-mileage-rental-motorbike-inspection, motorbike-rental-agreement-hanoi, what-is-included-motorbike-rental-hanoi, motorbike-rental-tourists-hanoi-essentials"
 ---
 
 Six months is the duration where rental stops being a convenience and becomes a lifestyle decision — and in Hanoi, it is a decision rental often wins.

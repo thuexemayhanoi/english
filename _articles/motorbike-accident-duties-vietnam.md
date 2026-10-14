@@ -1,7 +1,7 @@
 ---
 title: "What to Do After a Motorbike Accident in Vietnam"
 slug: motorbike-accident-duties-vietnam
-description: "Legal duties after a motorbike accident in Vietnam under Article 80 of Law 36/2024/QH15: stop immediately, warn of danger, preserve the scene, help the injured and notify police — with fines up to 14 million VND for violations causing a crash."
+description: "Legal duties after a motorbike accident in Vietnam under Article 80 of Law 36/2024/QH15: stop, warn of danger, preserve the scene."
 category: law-licences
 tags:
   - "accident"
@@ -21,7 +21,7 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 80 (responsibilities after causing a road accident), Article 8(26) (prohibited: fleeing the scene)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm — Decree 168/2024/NĐ-CP, full text (Báo điện tử Chính phủ) — Article 7(10) (10,000,000–14,000,000 VND for violations causing accidents)"
   - "https://sotp.langson.gov.vn/tin-tuc-su-kien/nguoi-lien-quan-den-vu-tai-nan-giao-thong-duong-bo-co-trach-nhiem-gi-khi-gay-ra-tai-nan-giao-thong-duong-bo.html — Lang Son Province justice portal (gov.vn): responsibilities of persons involved in a road traffic accident under Article 80"
-internal_link_targets: "compulsory-motorbike-insurance-vietnam, documents-to-carry-motorbike-vietnam, motorbike-fines-vietnam-overview, helmet-law-vietnam"
+internal_link_targets: "compulsory-motorbike-insurance-vietnam, documents-to-carry-motorbike-vietnam, motorbike-fines-vietnam-overview, helmet-law-vietnam, leaving-accident-scene-vietnam"
 ---
 
 The moments after a crash follow a legal script in Vietnam, and every step of it is a duty, not a suggestion. Article 80 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) lists what a person involved in a road accident must do, and the same law names fleeing the scene among the prohibited acts.

@@ -1,7 +1,7 @@
 ---
-title: "Can Tourists Legally Rent and Ride a Motorbike in Hanoi?"
+title: "Can Tourists Rent a Motorbike in Hanoi? The Honest Answer"
 slug: can-tourists-rent-a-motorbike-hanoi
-description: "Tourists can rent a motorbike in Hanoi with just a passport and deposit - but riding one legally requires a licence Vietnam recognises. The practical answer for short-stay visitors."
+description: "Tourists can rent a motorbike in Hanoi with a passport and a deposit, but riding it legally needs a licence Vietnam recognises."
 category: rental
 tags:
   - "tourists"

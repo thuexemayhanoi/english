@@ -1,5 +1,5 @@
 ---
-title: "Electric Two-Wheeler Speed Classes in Vietnam: 25, 50, 70 and 90 km/h"
+title: "Electric Two-Wheeler Speed Classes in Vietnam: 25 to 90 km/h"
 slug: electric-two-wheeler-speed-classes-vietnam
 description: "Vietnamese electric two-wheelers come in speed bands — 25 km/h pedal e-bikes, sub-50 km/h mopeds, 70 km/h swaps and 90 km/h A1 motorcycles — each with a purpose."
 category: electric

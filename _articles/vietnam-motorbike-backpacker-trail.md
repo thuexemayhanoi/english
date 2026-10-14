@@ -1,5 +1,5 @@
 ---
-title: "The Vietnam Motorbike Backpacker Trail: The Classic Route, Explained"
+title: "The Vietnam Motorbike Backpacker Trail: The Classic Route"
 slug: vietnam-motorbike-backpacker-trail
 description: "The famous Vietnam motorbike trail: the classic stages, the Top Gear effect, the bikes that built it, and what today's version of the trip looks like."
 category: vietnam-travel

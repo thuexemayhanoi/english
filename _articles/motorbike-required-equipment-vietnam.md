@@ -1,7 +1,7 @@
 ---
 title: "Required Equipment on a Motorbike in Vietnam"
 slug: motorbike-required-equipment-vietnam
-description: "The equipment a motorbike must carry to be legal on Vietnamese roads — working brakes, headlight, turn signals, horn and left mirror — with fines from 400,000 to 600,000 VND per defect under Article 14 of Decree 168/2024."
+description: "Legal equipment for a motorbike in Vietnam: working brakes, headlight, indicators, horn and left mirror, with 400,000-600,000 VND fines per defect (Decree 168)."
 category: law-licences
 tags:
   - "equipment"

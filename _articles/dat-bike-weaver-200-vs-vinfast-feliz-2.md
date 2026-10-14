@@ -19,7 +19,7 @@ sources:
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 product page"
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026"
   - "docs/MODEL-DATABASE.md — verified electric rows (retrieved 2026-09-24)"
-internal_link_targets: dat-bike-weaver-200-review, vinfast-feliz-2-review, vinfast-vs-dat-bike-ecosystems, battery-swap-vs-home-charging-vietnam, electric-motorbike-power-kw-licence-vietnam
+internal_link_targets: "dat-bike-weaver-200-review, vinfast-feliz-2-review, vinfast-vs-dat-bike-ecosystems, battery-swap-vs-home-charging-vietnam, electric-motorbike-power-kw-licence-vietnam, electric-motorbike-delivery-riders-vietnam, vinfast-viper-vs-evo"
 ---
 
 This is the sharpest contrast in Vietnamese electric two-wheelers: two machines with almost identical top speeds, built on opposite philosophies. The Weaver 200 is an A1-licence motorcycle that charges at home; the Feliz II is a licence-free scooter whose packs belong to a swap network. All figures are official.
@@ -39,7 +39,7 @@ This is the sharpest contrast in Vietnamese electric two-wheelers: two machines 
 
 ## The real difference: who can ride it and how it drinks
 
-Everything else follows the licence line. Above 4 kW, the Weaver 200 demands an A1 licence; the Feliz II sits licence-free under it. That single legal fact decides most purchases before any spec is read — the kW ladder guide explains why.
+Everything else follows the licence line. Above 4 kW, the Weaver 200 demands an A1 licence; the Feliz II sits licence-free under it. That single legal fact decides most purchases before any spec is read — [the kW ladder guide]({{ '/articles/electric-motorbike-power-kw-licence-vietnam/' | relative_url }}) explains why.
 
 For riders past the licence question, the choice is refuelling style. The Weaver 200 owns its range (200 km claimed at 35 km/h) and pays for it with a cable: a lunch hour restores 100 km, overnight restores everything. The Feliz II rents its range from the network — V-Green had its first 4,500 stations installed by mid-January 2026, with 45,000 planned — and pays 9,000 VND per battery per swap or 175,000–300,000 VND monthly rental for the privilege of never charging at all.
 

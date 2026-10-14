@@ -1,7 +1,7 @@
 ---
 title: "Cheapest Electric Motorbikes in Vietnam: Verified List Prices"
 slug: cheapest-electric-motorbikes-vietnam-list-prices
-description: "Verified list prices for Vietnam cheapest electric motorbikes: Yadea budget models from 13,990,000 VND, VinFast Evo launch pricing and what the cheap end really costs."
+description: "Verified list prices for Vietnam's cheapest electric motorbikes: Yadea models from 13,990,000 VND, VinFast Evo launch pricing, and what the cheap end really costs."
 category: electric
 tags:
   - "electric motorbike"
@@ -40,7 +40,7 @@ The full Yadea price list (through the Velax U at 52,990,000 VND) is in our Yade
 
 ## Why the sticker is not the whole price
 
-A budget machine's battery is usually included in the price; the VinFast scooter structure deliberately is not — the Evo's price excludes the pack, which is then rented (175,000–300,000 VND monthly) or bought, with swaps at 9,000 VND. A 13.99-million Yadea with an included pack and a 19.99-million Evo plus battery economics are two different purchases, and the cost-of-ownership guide works the sums properly over the years that matter.
+A budget machine's battery is usually included in the price; the VinFast scooter structure deliberately is not — the Evo's price excludes the pack, which is then rented (175,000–300,000 VND monthly) or bought, with swaps at 9,000 VND. A 13.99-million Yadea with an included pack and a 19.99-million Evo plus battery economics are two different purchases, and [the cost-of-ownership guide]({{ '/articles/electric-motorbike-cost-ownership-vietnam/' | relative_url }}) works the sums properly over the years that matter.
 
 ## The other cheap-end cautions
 

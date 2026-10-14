@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: lightest-motorbikes-for-new-riders, easiest-motorbikes-for-beginners-hanoi, scooter-kerb-weights-vietnam-verified, best-scooters-short-riders-vietnam, balancing-pillion-riding-motorbike-vietnam, slow-speed-control-motorbike-vietnam
+internal_link_targets: "lightest-motorbikes-for-new-riders, easiest-motorbikes-for-beginners-hanoi, scooter-kerb-weights-vietnam-verified, best-scooters-short-riders-vietnam, balancing-pillion-riding-motorbike-vietnam, slow-speed-control-motorbike-vietnam, best-scooters-rainy-season-commuting-vietnam"
 ---
 
 Nothing builds a new rider's confidence faster than a light bike, and nothing destroys it faster than a heavy one wobbling at a red light. This guide ranks the scooters we have verified weights for, from official Honda and Yamaha Vietnam pages (retrieved 23 September 2026, preserved in our model database). Where a manufacturer does not publish a weight, the model is absent - never estimated.
@@ -45,7 +45,7 @@ Nothing builds a new rider's confidence faster than a light bike, and nothing de
 
 ## Why weight matters more than power for beginners
 
-In Vietnamese traffic you rarely use full power, but you always use the weight: paddalling through jams, walking the bike into tight parking, catching it on loose gravel, holding it at lights on a slope. A 96-100 kg scooter is forgiving of every one of those moments; a 130 kg+ machine punishes hesitation. Our slow-speed control guide covers the techniques regardless of what you ride.
+In Vietnamese traffic you rarely use full power, but you always use the weight: paddalling through jams, walking the bike into tight parking, catching it on loose gravel, holding it at lights on a slope. A 96-100 kg scooter is forgiving of every one of those moments; a 130 kg+ machine punishes hesitation. [Our slow-speed control guide]({{ '/articles/slow-speed-control-motorbike-vietnam/' | relative_url }}) covers the techniques regardless of what you ride.
 
 ## Best first bikes from this table
 

@@ -1,7 +1,7 @@
 ---
 title: "Old Licence Classes After 2025: Transitional Rules"
 slug: old-licence-classes-after-2025-vietnam
-description: "Pre-2025 Vietnamese motorbike licences A1, A2 and A3 remain valid under Article 89 of Law 36/2024/QH15 — what each old class still lets you ride and how the old classes map onto the new A1/A/B1 system."
+description: "Pre-2025 Vietnamese licences A1, A2 and A3 stay valid under Article 89 of Law 36/2024/QH15: what each still lets you ride and how they map onto the new classes."
 category: law-licences
 tags:
   - "transition"

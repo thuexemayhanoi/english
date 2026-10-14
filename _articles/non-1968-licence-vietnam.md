@@ -1,7 +1,7 @@
 ---
 title: "Non-1968 Convention Countries: How to Ride Legally in Vietnam"
 slug: non-1968-licence-vietnam
-description: "Riders from countries outside the 1968 Vienna Convention — including 1949 Geneva IDP holders — cannot ride on their home documents in Vietnam. The legal options: exchange a national licence as a resident, or obtain a 1968-convention permit where available."
+description: "Riders from non-1968-convention countries, 1949 Geneva IDPs included, cannot ride on home documents in Vietnam."
 category: law-licences
 tags:
   - "1949 geneva"

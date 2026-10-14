@@ -40,7 +40,7 @@ For several models (Yamaha NMAX, NVX, Lexi, Gear, Latte, Honda Lead, SH160i, Vis
 
 ## Adding charging to any scooter
 
-Most scooters accept an aftermarket USB charger wired to the battery - our USB chargers guide covers what to buy and the electrical basics, and our phone mounts guide covers where to put the phone legally (phone use while riding is a fineable distraction - our article covers the rules).
+Most scooters accept an aftermarket USB charger wired to the battery - [our USB chargers guide]({{ '/articles/usb-chargers-motorbike-power/' | relative_url }}) covers what to buy and the electrical basics, and [our phone mounts guide]({{ '/articles/phone-mounts-motorbike-vietnam/' | relative_url }}) covers where to put the phone legally (phone use while riding is a fineable distraction - our article covers the rules).
 
 ## Renting
 

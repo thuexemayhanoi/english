@@ -1,7 +1,7 @@
 ---
 title: "Vietnam's Monsoon Seasons by Motorbike: When to Ride Which Region"
 slug: vietnam-monsoon-season-motorbike-travel
-description: "Vietnam has three weather zones, not one: the northern monsoon, the central coast typhoon season and the southern wet/dry cycle. Planning motorbike travel around them."
+description: "Vietnam has three weather zones, not one: the northern monsoon, the central coast typhoon season and the southern wet-dry cycle."
 category: vietnam-travel
 tags:
   - "monsoon"
@@ -20,7 +20,7 @@ sources:
   - "https://www.travelfish.org/weather/vietnam — Travelfish's Vietnam weather guide: 15 degrees of latitude, regional monsoon impacts, retrieved 2026-09-24"
   - "https://www.tigitmotorbikes.com/blogs/vietnam-weather.html — motorbike-touring weather guide: March/April and October/November the most stable months for Hanoi and the north, retrieved 2026-09-24"
   - "https://chiwheelsmotorcycletour.com/best-time-for-riding-in-vietnam.html — riding-season advice including the March-August window for the central coastal route, retrieved 2026-09-24"
-internal_link_targets: hanoi-riding-seasons-guide, motorbike-trip-seasons-north-vietnam, after-rain-slippery-roads-motorbike, fog-and-low-visibility-riding-motorbike-vietnam, best-motorbike-for-long-distance-vietnam
+internal_link_targets: "hanoi-riding-seasons-guide, motorbike-trip-seasons-north-vietnam, after-rain-slippery-roads-motorbike, fog-and-low-visibility-riding-motorbike-vietnam, best-motorbike-for-long-distance-vietnam, vietnam-motorbike-backpacker-trail"
 ---
 
 Vietnam is 15 degrees of latitude tall, and it does not have a weather — it has three of them, stacked. Weather guides are unanimous: the country's length and topography mean the north, the centre and the south run on different monsoon clocks, and the question "when should I visit Vietnam on a motorbike?" is really three questions. Here is the rider's version.
@@ -37,8 +37,8 @@ Vietnam is 15 degrees of latitude tall, and it does not have a weather — it ha
 
 1. **Never plan one continuous ride to dodge all three wet seasons** — the windows do not align. Instead, pick your season and your region together: winter riding belongs to the south; the northern mountains belong to spring and autumn; the coast belongs to the summer half-year.
 2. **For a full Hanoi-to-Saigon ride, the least-bad months are the late-spring pair** — the north is drying, the centre is starting its good window, the south is still dry enough.
-3. **Rain strategy is a riding skill, not a calendar.** In every zone, rain arrives in the afternoon in the wet months: ride at dawn, be somewhere with a coffee by 2pm. Our after-rain surfaces guide covers the first-half-hour-after-rain problem, which is when most wet-weather crashes happen.
-4. **Fog is the north's special tax:** mountain mornings in the humid months can erase visibility, and our low-visibility guide is required reading for anyone riding passes.
+3. **Rain strategy is a riding skill, not a calendar.** In every zone, rain arrives in the afternoon in the wet months: ride at dawn, be somewhere with a coffee by 2pm. [Our after-rain surfaces guide]({{ '/articles/after-rain-slippery-roads-motorbike/' | relative_url }}) covers the first-half-hour-after-rain problem, which is when most wet-weather crashes happen.
+4. **Fog is the north's special tax:** mountain mornings in the humid months can erase visibility, and [our low-visibility guide]({{ '/articles/fog-and-low-visibility-riding-motorbike-vietnam/' | relative_url }}) is required reading for anyone riding passes.
 5. **Typhoons are forecastable; respect them.** Central-coast storms are tracked days ahead — never ride into a typhoon warning along the QL1A; wait it out inland.
 
 ## What the seasons mean for the bike and gear

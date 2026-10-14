@@ -1,7 +1,7 @@
 ---
-title: "Do Hanoi Motorbike Rentals Keep Your Passport? Deposit Practices Explained"
+title: "Do Hanoi Motorbike Rentals Keep Your Passport? Deposit Practices"
 slug: do-rentals-keep-your-passport-hanoi
-description: "Some Hanoi shops ask to hold your passport as a deposit. Here is why a cash deposit is the better arrangement for both sides, and what to check before handing over any document."
+description: "Some Hanoi shops ask to hold your passport as the deposit. Why a cash deposit is better for both sides, and what to check before handing over any document."
 category: rental
 tags:
   - "passport"

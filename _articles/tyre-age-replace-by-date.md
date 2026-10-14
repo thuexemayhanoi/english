@@ -23,7 +23,7 @@ Tyres wear out twice: once by kilometres, once by years. Riders plan meticulousl
 
 ## Reading the date code
 
-Every tyre carries a DOT date code on the sidewall: four digits, week and year of manufacture — for example a code ending "2423" means week 24 of 2023. It is moulded, not printed, so it is on every tyre ever made. Checking the age of the tyres on a bike takes thirty seconds, and it changes two decisions: buying a used bike (old tyres are common on low-usage bikes — the used-bike checklist is in [Buying a Used Motorbike in Vietnam: Inspection Basics]({{ '/articles/used-motorbike-inspection-vietnam/' | relative_url }})) and buying "new" tyres (a shop's cheapest stock may be years old; ask for recent date codes).
+Every tyre carries a DOT date code on the sidewall: four digits, week and year of manufacture — for example a code ending "2423" means week 24 of 2023. It is moulded, not printed, so it is on every tyre ever made. Checking the age of the tyres on a bike takes thirty seconds, and it changes two decisions: buying a used bike (old tyres are common on low-usage bikes — [the used-bike checklist]({{ '/articles/used-motorbike-inspection-vietnam/' | relative_url }}) is in [Buying a Used Motorbike in Vietnam: Inspection Basics]({{ '/articles/used-motorbike-inspection-vietnam/' | relative_url }})) and buying "new" tyres (a shop's cheapest stock may be years old; ask for recent date codes).
 
 ## Why rubber ages even parked
 

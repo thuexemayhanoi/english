@@ -37,7 +37,7 @@ Thung Khe Pass is the technical highlight: a winding climb with a famous white-r
 
 ## Sleeping in Mai Chau
 
-Most riders stay in or around Lac village and the neighbouring Mai Chau villages, where Thai family homestays serve dinner and breakfast on raised stilt houses among rice paddies. Our overnight-stays guide covers what to check before booking: secure night parking for the bike, how homestay pricing usually works, and why you should confirm parking when you book rather than on arrival. Book ahead on weekends and in the rice season, when the valley fills up.
+Most riders stay in or around Lac village and the neighbouring Mai Chau villages, where Thai family homestays serve dinner and breakfast on raised stilt houses among rice paddies. [Our overnight-stays guide]({{ '/articles/overnight-stays-motorbike-trips-vietnam/' | relative_url }}) covers what to check before booking: secure night parking for the bike, how homestay pricing usually works, and why you should confirm parking when you book rather than on arrival. Book ahead on weekends and in the rice season, when the valley fills up.
 
 ## Day 2 options
 
@@ -45,11 +45,11 @@ Two common plans for the ride home: the direct return back over QL6 (about four 
 
 ## Practical notes
 
-- Best seasons are autumn (September-November) and spring; mid-summer is hot on QL6 and the pass can cloud over quickly. Our North Vietnam trip-seasons guide has the full calendar.
+- Best seasons are autumn (September-November) and spring; mid-summer is hot on QL6 and the pass can cloud over quickly. [Our North Vietnam trip-seasons guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }}) has the full calendar.
 - Run through the trip-prep checklist the evening before: chain, brakes, tyre pressures, lights, documents.
 - A 110-125cc scooter or underbone manages this route comfortably solo; a pillion plus luggage makes Thung Khe Pass noticeably harder work.
 - Motorbikes are not permitted on the expressways; QL6 is the legal, correct road for bikes, and it is the scenic one anyway.
 
 ## Renting for the trip
 
-If you need a bike in Hanoi for the two days, a small-capacity manual or underbone model is the usual choice for this route. Contact us to confirm current availability — we will not promise a specific model without checking what is in the shop, and we can talk through which type suits your experience and the pass. See also our step-by-step rental guide for what documents and deposits to expect.
+If you need a bike in Hanoi for the two days, a small-capacity manual or underbone model is the usual choice for this route. Contact us to confirm current availability — we will not promise a specific model without checking what is in the shop, and we can talk through which type suits your experience and the pass. See also [our step-by-step rental guide]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}) for what documents and deposits to expect.

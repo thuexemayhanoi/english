@@ -1,7 +1,7 @@
 ---
 title: "What Counts as a Moped Under Vietnamese Law"
 slug: what-is-a-moped-vietnam-law
-description: "The legal definition of a moped (xe gắn máy) in Vietnam under Article 34(1)(g) of Law 36/2024/QH15: 50 cc or 4 kW electric, design speed max 50 km/h, ridable from age 16 with no licence."
+description: "A moped under Article 34(1)(g) of Law 36/2024/QH15: up to 50cc or 4 kW electric, design speed up to 50 km/h, ridable in Vietnam from age 16 with no licence."
 category: law-licences
 tags:
   - "moped"

@@ -1,7 +1,7 @@
 ---
 title: "Yamaha Lexi 155 Review: The Big-Wheel Comfort Commuter"
 slug: yamaha-lexi-155-review
-description: "Yamaha Lexi 155 VVA-ABS review with verified Yamaha Vietnam specs - Blue Core 155cc VVA engine, front ABS, 14-inch wheels, 118 kg weight and long-distance commuting comfort."
+description: "Yamaha Lexi 155 VVA-ABS review with verified Yamaha Vietnam specs: Blue Core 155cc VVA engine, front ABS, 14-inch wheels, 118 kg."
 category: scooters
 tags:
   - "yamaha lexi"
@@ -30,7 +30,7 @@ A 155.1 cc single-cylinder four-stroke, liquid-cooled Blue Core engine with VVA 
 
 ## Brakes and wheels
 
-A front hydraulic disc with ABS and a rear drum - front-ABS only, unlike the NMAX's dual-channel setup (see which scooters have ABS in Vietnam). The wheels are the Lexi's defining feature: 90/90-14 front and 100/90-14 rear, giving it more stability at speed than the 12- and 13-inch wheels common in the class, a trade-off our wheelbase and stability explainer covers.
+A front hydraulic disc with ABS and a rear drum - front-ABS only, unlike the NMAX's dual-channel setup ([see which scooters have ABS in Vietnam]({{ '/articles/which-scooters-have-abs-vietnam/' | relative_url }})). The wheels are the Lexi's defining feature: 90/90-14 front and 100/90-14 rear, giving it more stability at speed than the 12- and 13-inch wheels common in the class, a trade-off our wheelbase and stability explainer covers.
 
 ## Size, weight and comfort
 
@@ -42,7 +42,7 @@ VVA engine tuning, front ABS, and Yamaha's published warranty of 3 years or 30,0
 
 ## Who it suits
 
-Commuters and weekend riders who want 155-class performance without the aggressive riding position - taller riders in particular get more room than the compact sporty scooters offer. It sits between the Janus/FreeGo budget tier and the NMAX in Yamaha's own range (mapped in our Yamaha lineup guide).
+Commuters and weekend riders who want 155-class performance without the aggressive riding position - taller riders in particular get more room than the compact sporty scooters offer. It sits between the Janus/FreeGo budget tier and the NMAX in Yamaha's own range (mapped in [our Yamaha lineup guide]({{ '/articles/yamaha-scooter-lineup-vietnam-explained/' | relative_url }})).
 
 Nguyen Tu does not publish a rental rate for the Lexi. Contact us to confirm current availability.
 

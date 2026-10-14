@@ -1,7 +1,7 @@
 ---
 title: "What to Do If the Chain Feels Loose on a Rental Bike"
 slug: loose-chain-on-rental-motorbike
-description: "A loose drive chain is a five-minute adjustment at the shop - report it early, do not ignore it, and do not ride it slack for days. Symptoms, risk and what to do on a rental."
+description: "A loose drive chain is a five-minute adjustment at the shop: report it early and do not ride it slack for days. Symptoms, risks and what to do on a rental bike."
 category: rental
 tags:
   - "loose chain"

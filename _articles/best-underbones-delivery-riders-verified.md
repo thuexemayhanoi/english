@@ -1,5 +1,5 @@
 ---
-title: "Best Underbones for Delivery Riders: Verified Data for High-Mileage Work"
+title: "Best Underbones for Delivery Riders: Verified Workhorse Data"
 slug: best-underbones-delivery-riders-verified
 description: "Delivery riders need economy, durability and cargo capacity. Verified Honda and Yamaha underbone specs ranked for commercial use."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-wave-rsx-review, honda-future-125-review, honda-ct125-review, best-scooters-delivery-riders-vietnam, high-usage-delivery-commuter-maintenance, improving-fuel-economy-motorbike
+internal_link_targets: "honda-wave-rsx-review, honda-future-125-review, honda-ct125-review, best-scooters-delivery-riders-vietnam, high-usage-delivery-commuter-maintenance, improving-fuel-economy-motorbike, best-underbones-high-mileage-verified"
 ---
 
 Delivery work is the hardest test of a Vietnamese motorbike: eight-plus hours a day, heavy stop-start cycles, cargo, and every dong of fuel coming out of earnings. The manufacturers' published data (retrieved 23 September 2026) points clearly to the machines that suit it.
@@ -36,4 +36,4 @@ Manual-clutch sport bikes. A 2.59 L/100 km Winner R or 2.91 L/100 km CBR150R bur
 
 ## Maintenance reality
 
-High-mileage work lives or dies on maintenance discipline - our high-usage maintenance guide covers the schedule mindset, and the owner of this site historically recommends periodic checks around every ~1,500 km for rental bikes used hard. Contact us to confirm current availability of work-suitable models; the Wave class is price-published at 150,000 VND per day.
+High-mileage work lives or dies on maintenance discipline - [our high-usage maintenance guide]({{ '/articles/high-usage-delivery-commuter-maintenance/' | relative_url }}) covers the schedule mindset, and the owner of this site historically recommends periodic checks around every ~1,500 km for rental bikes used hard. Contact us to confirm current availability of work-suitable models; the Wave class is price-published at 150,000 VND per day.

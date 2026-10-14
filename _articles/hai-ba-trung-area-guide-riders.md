@@ -1,7 +1,7 @@
 ---
 title: "Hai Ba Trung for Motorbike Riders: The Long Central-South Strip"
 slug: hai-ba-trung-area-guide-riders
-description: "Riding the former Hai Ba Trung strip of Hanoi: landmarks, bridge access, street character, parking and how the area connects the Old Quarter to the eastern districts."
+description: "Riding the former Hai Ba Trung strip of Hanoi: landmarks, bridge access, street character, parking and how the area links the Old Quarter to the eastern districts."
 category: hanoi
 tags:
   - "hai ba trung"

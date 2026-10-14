@@ -1,7 +1,7 @@
 ---
 title: "Best Motorbike for Two People in Hanoi"
 slug: best-motorbike-for-two-people-hanoi
-description: "Riding two-up in Hanoi is legal for one passenger and works best on a mid-size scooter with a flat floor and real pillion room - the Honda Vision class. The rules and the bike choice."
+description: "Riding two-up in Hanoi is legal with one passenger and works best on a mid-size scooter with a flat floor and real pillion room, such as the Honda Vision class."
 category: rental
 tags:
   - "two people"

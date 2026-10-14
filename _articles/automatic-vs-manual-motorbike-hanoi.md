@@ -1,7 +1,7 @@
 ---
-title: "Automatic vs Semi-Automatic vs Manual: Which Bike to Rent in Hanoi"
+title: "Automatic, Semi-Automatic or Manual: Which Bike to Rent in Hanoi"
 slug: automatic-vs-manual-motorbike-hanoi
-description: "Automatic scooters are the easy Hanoi answer; semi-automatic underbones are the local workhorse; manual bikes are for riders who already ride clutch. The three-way comparison."
+description: "Automatic scooters are the easy Hanoi answer, semi-automatics the local workhorse, manuals for riders who already ride clutch. The three-way rental comparison."
 category: rental
 tags:
   - "automatic"

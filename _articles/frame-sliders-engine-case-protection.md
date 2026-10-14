@@ -15,7 +15,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "crash-bars-engine-guards-motorbike, skid-plates-underbody-protection, checking-motorbike-after-fall-accident, installing-accessories-diy-vs-shop"
+internal_link_targets: "crash-bars-engine-guards-motorbike, skid-plates-underbody-protection, checking-motorbike-after-fall-accident, installing-accessories-diy-vs-shop, mudguard-extenders-rain-spray"
 ---
 
 A motorbike falling over at a standstill is a cheap accident. The same fall becomes expensive when the engine cover hits the pavement first — cases crack, oil drains onto the road, and a R200 repair becomes an engine rebuild. Frame sliders exist to put a sacrificial lump of plastic between the bike and the ground in exactly that moment.

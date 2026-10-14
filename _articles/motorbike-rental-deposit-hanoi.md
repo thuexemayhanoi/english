@@ -1,7 +1,7 @@
 ---
 title: "Motorbike Rental Deposits in Hanoi: Typical Amounts and Return"
 slug: motorbike-rental-deposit-hanoi
-description: "Hanoi motorbike rentals typically take a cash deposit of 2,000,000-5,000,000 VND depending on the bike. Here is how deposits work, what shops check at return, and how to get yours back in full."
+description: "Hanoi motorbike rentals take a 2,000,000-5,000,000 VND cash deposit depending on the bike. How deposits work, what shops check at return."
 category: rental
 tags:
   - "deposit"
@@ -39,7 +39,7 @@ The deposit is the shop's security against the risks that are genuinely yours on
 
 ## How the return works
 
-At return, the shop checks the bike against its handover state - normally a quick visual walk-around and a brake check. If the bike is as it left, the deposit comes back in full, in cash on the spot. Damage beyond fair wear is settled from the deposit at an agreed repair price; theft or loss is the bigger conversation, covered in the theft-responsibility article.
+At return, the shop checks the bike against its handover state - normally a quick visual walk-around and a brake check. If the bike is as it left, the deposit comes back in full, in cash on the spot. Damage beyond fair wear is settled from the deposit at an agreed repair price; theft or loss is the bigger conversation, covered in the [theft-responsibility article]({{ '/articles/theft-loss-responsibility-rental-motorbike-hanoi/' | relative_url }}).
 
 ## Passports and deposits
 

@@ -1,7 +1,7 @@
 ---
 title: "Vietnam Motorbike Licence Points System"
 slug: motorbike-licence-points-system-vietnam
-description: "How the 12-point licence system works in Vietnam under Law 36/2024/QH15 and Decree 168/2024: points deducted per violation, no expiry on the licence itself, and what each common motorbike violation costs in points."
+description: "How Vietnam's 12-point licence system works under Law 36/2024/QH15 and Decree 168/2024: points per violation, no licence expiry."
 category: law-licences
 tags:
   - "points"

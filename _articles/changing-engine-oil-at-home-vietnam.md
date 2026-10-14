@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "General guidance; oil grade and capacity strictly per owner's manual — never guessed"
-internal_link_targets: "choosing-engine-oil-motorbike-vietnam, checking-engine-oil-motorbike, maintaining-motorbike-without-garage, motorbike-service-when-vietnam"
+internal_link_targets: "choosing-engine-oil-motorbike-vietnam, checking-engine-oil-motorbike, maintaining-motorbike-without-garage, motorbike-service-when-vietnam, spoke-wheels-care-truing-vietnam"
 ---
 
 An oil change is the one service nearly every rider can do at home with three tools, and in Vietnamese conditions it is the single most protective thing you can do for an engine. Done right, it costs a fraction of a shop visit; done wrong, it costs an engine. The middle path is short.

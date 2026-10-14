@@ -1,5 +1,5 @@
 ---
-title: "Yamaha Lexi 155 vs Honda Vario 160: Comfort Commuter vs Sport Value"
+title: "Yamaha Lexi 155 vs Honda Vario 160: Comfort or Sport Value?"
 slug: yamaha-lexi-155-vs-honda-vario-160
 description: "Yamaha Lexi 155 vs Honda Vario 160 compared on verified specs - 14-inch-wheel comfort against 118 kg flat-floor sport value, power, tanks and prices."
 category: scooters

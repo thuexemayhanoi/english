@@ -18,7 +18,7 @@ sources:
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "honda.com.vn — Honda VN model pages, official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-wave-alpha-110-review, honda-blade-110-review, honda-wave-rsx-review, disc-vs-drum-brakes-motorbike, best-110cc-underbones-vietnam-verified
+internal_link_targets: "honda-wave-alpha-110-review, honda-blade-110-review, honda-wave-rsx-review, disc-vs-drum-brakes-motorbike, best-110cc-underbones-vietnam-verified, honda-wave-alpha-vs-honda-cbr150r"
 ---
 
 Honda's two cheapest underbones share an engine family and a mission - basic transport - but they are not the same buy. All figures below come from the official Honda Vietnam product pages (retrieved 23 September 2026).

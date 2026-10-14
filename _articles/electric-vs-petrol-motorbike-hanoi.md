@@ -1,5 +1,5 @@
 ---
-title: "Electric vs Petrol Motorbike in Hanoi: Running Costs, Noise and Convenience"
+title: "Electric vs Petrol Motorbike in Hanoi: Costs, Noise, Convenience"
 slug: electric-vs-petrol-motorbike-hanoi
 description: "Electric vs petrol two-wheelers in Hanoi compared: charging versus fuel stops, servicing, noise, weather and which one fits a Hanoi rider's week."
 category: electric

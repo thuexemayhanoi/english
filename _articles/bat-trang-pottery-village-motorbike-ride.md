@@ -1,5 +1,5 @@
 ---
-title: "Bat Trang Pottery Village by Motorbike: The Classic Short Ride From Hanoi"
+title: "Bat Trang Pottery Village by Motorbike: The Classic Short Ride"
 slug: bat-trang-pottery-village-motorbike-ride
 description: "Riding from central Hanoi to Bat Trang pottery village: the dyke-road route, bridge choice, what to expect on arrival, parking and how long the trip takes."
 category: hanoi

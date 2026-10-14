@@ -1,5 +1,5 @@
 ---
-title: "Best Underbones for Short Riders: Verified Seat Heights and Weights"
+title: "Best Underbones for Short Riders: Low Seats, Light Weights"
 slug: best-underbones-short-riders-verified
 description: "Seat heights and weights of Vietnam’s underbones compared from official manufacturer data - the friendly bikes for shorter riders."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-future-125-review, honda-wave-rsx-review, best-scooters-short-riders-vietnam, honda-wave-alpha-vs-honda-future-125, honda-future-125-vs-honda-ct125, easiest-motorbikes-for-beginners-hanoi
+internal_link_targets: "honda-future-125-review, honda-wave-rsx-review, best-scooters-short-riders-vietnam, honda-wave-alpha-vs-honda-future-125, honda-future-125-vs-honda-ct125, easiest-motorbikes-for-beginners-hanoi, best-underbones-tall-riders-verified"
 ---
 
 Can you flat-foot it? For shorter riders that question matters more than any power figure. Seat height and weight decide whether a bike feels manageable at every red light in Hanoi. All figures below are manufacturer-published (retrieved 23 September 2026).

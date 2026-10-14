@@ -1,7 +1,7 @@
 ---
 title: "What to Do If Your Rental Motorbike Does Not Feel Normal"
 slug: rental-motorbike-feels-wrong
-description: "New noises, soft brakes, wobbles and smells are a rental bike's way of asking for the shop - ride it straight back and describe what changed. The symptom triage for renters."
+description: "New noises, soft brakes, wobbles and smells are a rental bike's way of asking for the shop: ride it straight back and describe what changed."
 category: rental
 tags:
   - "symptoms"
@@ -27,7 +27,7 @@ You do not need to be a mechanic to know something is wrong - you need to notice
 These mean park the bike and call, not ride it to the shop gently:
 
 - Brakes that pull to the bar or floor without biting: brakes are the one system with no "keep going" option.
-- A rear wheel that locks or surges on its own: chain derailment risk - the chain article covers it.
+- A rear wheel that locks or surges on its own: chain derailment risk - [the chain article]({{ '/articles/loose-chain-on-rental-motorbike/' | relative_url }}) covers it.
 - Steering that suddenly fights you, or a wobble at speed that was not there yesterday: wheel, bearing or frame problem.
 - Fuel smell plus visible leak: fire risk beats every plan for the day.
 

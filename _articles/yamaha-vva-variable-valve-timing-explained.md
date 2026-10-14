@@ -1,5 +1,5 @@
 ---
-title: "Yamaha VVA Variable Valve Timing Explained: The Exciter's Clever Head"
+title: "Yamaha VVA on the Exciter 155: The Clever Head Explained"
 slug: yamaha-vva-variable-valve-timing-explained
 description: "What VVA variable valve timing does on the Yamaha Exciter 155 VVA - and why it matters for power and economy in Vietnam."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn and yamaha-motor.com.vn - official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: yamaha-exciter-155-vva-review, assist-slipper-clutch-explained, underbone-power-torque-explained, honda-winner-r-vs-yamaha-exciter-155, air-cooled-vs-liquid-cooled-motorbike, fastest-motorbikes-under-155cc-vietnam-verified
+internal_link_targets: "yamaha-exciter-155-vva-review, assist-slipper-clutch-explained, underbone-power-torque-explained, honda-winner-r-vs-yamaha-exciter-155, air-cooled-vs-liquid-cooled-motorbike, fastest-motorbikes-under-155cc-vietnam-verified, motorbike-engine-codes-explained"
 ---
 
 Walk past an Exciter in Hanoi and the badge says VVA. It stands for Variable Valve Actuation - Yamaha's system that changes how the engine breathes depending on revs. Here is what it does, based on what Yamaha Vietnam actually publishes (retrieved 23 September 2026).

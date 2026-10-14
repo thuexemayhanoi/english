@@ -1,7 +1,7 @@
 ---
 title: "Buying a 50cc for Your Teenager in Vietnam: A Parent's Guide"
 slug: buying-50cc-for-your-teenager-vietnam
-description: "A parent's guide to the 16-year-old motorbike decision in Vietnam: what the law allows at 16, which bike and gear to choose, training first, riding rules agreed before the keys, and honest risk management."
+description: "A parent's guide to the 16-year-old motorbike decision in Vietnam: what the law allows at 16, which bike and gear to choose, training first and the rules to agree."
 category: 50cc
 tags:
   - "50cc"
@@ -24,7 +24,7 @@ At sixteen, Vietnamese law opens exactly one motorised door: the moped. How a fa
 
 ## What the law allows — and what it demands
 
-A 50cc-or-under moped requires no licence, and the minimum rider age is 16. That is the entire licence story. What comes attached: helmet for rider and any passenger, all traffic rules at adult fine levels, and an age boundary that stays hard — a 16-year-old on anything of 50cc or more is fined 400,000–600,000 VND, and no school programme waives it. Our age-rules article states the law precisely.
+A 50cc-or-under moped requires no licence, and the minimum rider age is 16. That is the entire licence story. What comes attached: helmet for rider and any passenger, all traffic rules at adult fine levels, and an age boundary that stays hard — a 16-year-old on anything of 50cc or more is fined 400,000–600,000 VND, and no school programme waives it. [Our age-rules article]({{ '/articles/riding-50cc-at-16-vietnam/' | relative_url }}) states the law precisely.
 
 ## Choose the bike for the rider, not the rider for the bike
 
@@ -35,7 +35,7 @@ A 50cc-or-under moped requires no licence, and the minimum rider age is 16. That
 
 ## Gear is part of the purchase
 
-The helmet is legally required and the single most important item — certified, properly fitted, and worn every ride. Our teen gear article covers the rest: closed shoes, gloves, eye protection. Budget the gear with the bike or the gear will be skipped.
+The helmet is legally required and the single most important item — certified, properly fitted, and worn every ride. [Our teen gear article]({{ '/articles/safety-gear-teen-50cc-riders/' | relative_url }}) covers the rest: closed shoes, gloves, eye protection. Budget the gear with the bike or the gear will be skipped.
 
 ## Train before traffic
 

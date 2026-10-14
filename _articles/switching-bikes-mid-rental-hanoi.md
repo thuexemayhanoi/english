@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "motorbike-rental-agreement-hanoi, how-deposit-returns-work-hanoi, rental-motorbike-inspection-checklist, automatic-vs-manual-motorbike-hanoi, motorbike-rental-pickup-or-delivery-hanoi"
+internal_link_targets: "motorbike-rental-agreement-hanoi, how-deposit-returns-work-hanoi, rental-motorbike-inspection-checklist, automatic-vs-manual-motorbike-hanoi, motorbike-rental-pickup-or-delivery-hanoi, motorbike-rental-tourists-hanoi-essentials"
 ---
 
 Mid-rental bike swaps happen for three reasons: your needs changed (a passenger joined, a day trip appeared), the bike has a problem, or you simply want to try something else. All three are workable — if the terms are agreed with the shop rather than assumed.

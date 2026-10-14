@@ -1,7 +1,7 @@
 ---
 title: "Honda SH Mode 125 Review: The Junior SH with Real Substance"
 slug: honda-sh-mode-125-review
-description: "Honda SH Mode 125 review with verified Honda Vietnam specs - power, torque, fuel use, seat height, ABS versions, storage and smart-key features, plus who it suits in Hanoi."
+description: "Honda SH Mode 125 review with verified Honda Vietnam specs: power, torque, fuel use, seat height, ABS versions, storage, smart key, and who it suits in Hanoi."
 category: scooters
 tags:
   - "honda sh mode"

@@ -1,7 +1,7 @@
 ---
 title: "Navigation and Offline Maps for Motorbike Trips in Vietnam"
 slug: motorbike-trip-navigation-offline-maps-vietnam
-description: "How riders navigate motorbike trips in Vietnam: Google Maps offline areas, OSM-based offline apps, the expressway routing trap and paper-backup habits for rural rides."
+description: "How riders navigate motorbike trips in Vietnam: Google Maps offline areas, OSM-based offline apps, the expressway routing trap and paper backups for rural rides."
 category: trips
 tags:
   - "navigation"

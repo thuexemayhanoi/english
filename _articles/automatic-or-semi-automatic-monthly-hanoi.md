@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "scooter-vs-semi-automatic-hanoi, automatic-vs-manual-motorbike-hanoi, choosing-motorbike-monthly-rental-hanoi, monthly-motorbike-rental-hanoi"
+internal_link_targets: "scooter-vs-semi-automatic-hanoi, automatic-vs-manual-motorbike-hanoi, choosing-motorbike-monthly-rental-hanoi, monthly-motorbike-rental-hanoi, monthly-rental-vs-ride-hailing-hanoi"
 ---
 
 For a weekend rental, the automatic-versus-semi-automatic question is mostly about comfort. For a month of daily riding, the choice compounds: what is slightly awkward on day one is a daily friction by day thirty.

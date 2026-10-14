@@ -17,7 +17,7 @@ last_reviewed: 2026-09-24
 sources:
   - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23/24)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: yamaha-pg-1-review, honda-ct125-review, honda-ct125-vs-honda-super-cub-c125, underbone-wheelbase-ground-clearance-explained, why-17-inch-wheels-underbones
+internal_link_targets: "yamaha-pg-1-review, honda-ct125-review, honda-ct125-vs-honda-super-cub-c125, underbone-wheelbase-ground-clearance-explained, why-17-inch-wheels-underbones, honda-ct125-touring-setup-guide"
 ---
 
 The PG-1 and the CT125 attack the same idea from opposite directions: light motorcycles that survive bad roads while staying practical in the city. Yamaha builds the PG-1 as a semi-automatic adventure underbone; Honda builds the CT125 as a manual-clutch trail Cub. All figures are from the official Yamaha VN PG-1 2026 page and Honda VN CT125 page (retrieved 23-24 September 2026).

@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "best-bike-for-hanoi-old-quarter, where-to-park-motorbike-hanoi, best-motorbike-for-hanoi-traffic, motorbike-rental-pickup-or-delivery-hanoi, riding-on-sidewalk-vietnam"
+internal_link_targets: "best-bike-for-hanoi-old-quarter, where-to-park-motorbike-hanoi, best-motorbike-for-hanoi-traffic, motorbike-rental-pickup-or-delivery-hanoi, riding-on-sidewalk-vietnam, motorbike-delivery-old-quarter"
 ---
 
 The Old Quarter is the densest riding environment in Vietnam — thirty-six narrow historic streets named for the trades that filled them, most barely wider than two bikes passing. Riding here is legal and normal, but it rewards a specific style: slow, patient, and defensive. Motorbike rental for the Old Quarter follows the standard [Hanoi rental process]({{ '/topics/rental/' | relative_url }}); the difference is how you ride once you have the bike.

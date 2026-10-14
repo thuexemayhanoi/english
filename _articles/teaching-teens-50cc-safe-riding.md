@@ -1,7 +1,7 @@
 ---
 title: "Teaching Your Teen to Ride a 50cc Safely: A Parent's Plan"
 slug: teaching-teens-50cc-safe-riding
-description: "A parent's teaching plan for a teenager's first 50cc month: supervised practice progression, the school training programme, hazard-spotting drills, agreed rules and how to correct without killing confidence."
+description: "A parent's plan for a teen's first 50cc month: supervised practice, school training, hazard-spotting drills, agreed rules."
 category: 50cc
 tags:
   - "50cc"
@@ -24,11 +24,11 @@ You cannot ride shotgun on a motorbike — but you can teach like you do. A teen
 
 ## Before the first ride: the law and the kit
 
-The legal frame is short and firm: 16 minimum for a moped, no licence required, helmet for rider and any passenger, adult-level fines. Our age-rules article is the reference version. The gear is part of the lesson, not the shopping: helmet fitted properly, closed shoes, gloves — the teen gear article covers the realistic kit. If gear is negotiable, the lessons are already losing.
+The legal frame is short and firm: 16 minimum for a moped, no licence required, helmet for rider and any passenger, adult-level fines. [Our age-rules article]({{ '/articles/riding-50cc-at-16-vietnam/' | relative_url }}) is the reference version. The gear is part of the lesson, not the shopping: helmet fitted properly, closed shoes, gloves — [the teen gear article]({{ '/articles/safety-gear-teen-50cc-riders/' | relative_url }}) covers the realistic kit. If gear is negotiable, the lessons are already losing.
 
 ## Use the school programme as an ally
 
-Decree 151/2024 organises road-safety and safe-moped training through schools; treat what the school teaches as the syllabus, and your supervision as the practicals. Our training article explains what the programme covers so the two efforts don't talk past each other.
+Decree 151/2024 organises road-safety and safe-moped training through schools; treat what the school teaches as the syllabus, and your supervision as the practicals. [Our training article]({{ '/articles/50cc-training-high-school-vietnam/' | relative_url }}) explains what the programme covers so the two efforts don't talk past each other.
 
 ## The four-stage progression
 

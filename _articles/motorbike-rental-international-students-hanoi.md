@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "best-motorbike-for-students-hanoi, foreign-student-motorbike-licence-vietnam, daily-weekly-monthly-motorbike-rental-hanoi, motorbike-rental-deposit-hanoi, best-motorbike-for-commuting-hanoi"
+internal_link_targets: "best-motorbike-for-students-hanoi, foreign-student-motorbike-licence-vietnam, daily-weekly-monthly-motorbike-rental-hanoi, motorbike-rental-deposit-hanoi, best-motorbike-for-commuting-hanoi, motorbike-rental-expats-moving-hanoi"
 ---
 
 Student life in Hanoi runs between campuses, cheap-eat streets, part-time work, and weekend exploring — and the bike that makes all of it work does not have to be owned. Rental fits student budgets better than buying in the first months.

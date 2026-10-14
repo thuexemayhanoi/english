@@ -1,7 +1,7 @@
 ---
 title: "Buying a 50cc Motorbike in Vietnam: New, Used or Grey Import?"
 slug: buying-50cc-motorbike-vietnam
-description: "How to buy a 50cc in Vietnam: why no official new 50s exist from Honda or Yamaha Vietnam, how the used market works, what grey imports really are, and how to choose between the three routes."
+description: "How to buy a 50cc in Vietnam: why Honda and Yamaha Vietnam sell no new 50s, how the used market works, what grey imports are."
 category: 50cc
 tags:
   - "50cc"
@@ -44,7 +44,7 @@ Whatever route you choose, the bike needs: a valid compulsory insurance certific
 
 ## The teenager question
 
-If the buyer is 16 or 17, the licence rules make a 50cc the only legal motorised choice — our parents' guide covers the decision beyond the purchase: gear, training, and riding rules agreed before the keys change hands.
+If the buyer is 16 or 17, the licence rules make a 50cc the only legal motorised choice — [our parents' guide]({{ '/articles/buying-50cc-for-your-teenager-vietnam/' | relative_url }}) covers the decision beyond the purchase: gear, training, and riding rules agreed before the keys change hands.
 
 ## Renting instead
 

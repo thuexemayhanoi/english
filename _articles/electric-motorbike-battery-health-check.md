@@ -18,7 +18,7 @@ last_reviewed: 2026-09-24
 sources:
   - "https://dat.bike/en/xe-may-dien-weaver-200-en/ — Dat Bike official Weaver 200 product page — 150,000 km / 15-year battery life claim, 3-year battery warranty"
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — removable LFP pack design and swap economics"
-internal_link_targets: buying-used-electric-motorbike-vietnam, electric-motorbike-battery-lifespan-vietnam, electric-motorbike-battery-replacement-vietnam, electric-motorbike-warranty-service-vietnam, test-riding-electric-motorbike-vietnam
+internal_link_targets: "buying-used-electric-motorbike-vietnam, electric-motorbike-battery-lifespan-vietnam, electric-motorbike-battery-replacement-vietnam, electric-motorbike-warranty-service-vietnam, test-riding-electric-motorbike-vietnam, electric-motorbike-charger-care-storage"
 ---
 
 A battery can look new and hold 60% of what it held when it was. On a used electric motorbike, the pack is most of the value, so the health check is the inspection. Here is the routine, in the order that catches the most expensive problems first.
@@ -45,4 +45,4 @@ Turn the machine on before riding and look for fault lights or display codes; as
 
 ## What you are deciding
 
-A healthy pack makes a used electric a bargain; a tired one makes it a rolling battery-replacement invoice (our replacement article covers what that costs). Take the time — the ten minutes of this check is the cheapest insurance in the whole purchase.
+A healthy pack makes a used electric a bargain; a tired one makes it a rolling battery-replacement invoice ([our replacement article]({{ '/articles/electric-motorbike-battery-replacement-vietnam/' | relative_url }}) covers what that costs). Take the time — the ten minutes of this check is the cheapest insurance in the whole purchase.

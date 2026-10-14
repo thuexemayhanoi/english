@@ -35,7 +35,7 @@ Dyke roads have their own character — long sight lines, few junctions, and sur
 - The road is a favourite morning-cycling and running route; before 07:30 expect pedestrians and spandex in both directions.
 - The wall side has no kerb; the riding line is close to the tiles, which is fine at dyke-road speeds but demands attention when photographers are stopped.
 - After heavy rain, the low ramp sections at either end can hold runoff from the dyke itself; treat the first and last fifty metres as wet zones.
-- On summer evenings the sun sits over the river side and blinds westbound riders — the glare guide applies.
+- On summer evenings the sun sits over the river side and blinds westbound riders — [the glare guide]({{ '/articles/sun-glare-riding-motorbike-vietnam/' | relative_url }}) applies.
 
 ## Photo stops that don't block traffic
 

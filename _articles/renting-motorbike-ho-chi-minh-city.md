@@ -20,7 +20,7 @@ sources:
   - "https://saigonmotorcycles.com/rentals/ — Saigon rental shop with Honda/Yamaha models from 110cc to 155cc at 170,000 VND per day, retrieved 2026-09-24"
   - "https://vietnamdiscovery.com/motorbike-rental-in-vietnam/ — general Vietnam rental guidance: prices, deposits and how rental procedures work, retrieved 2026-09-24"
   - "https://saigonadventure.com/first-motorbike-tour-ho-chi-minh-city — what first-time riders should expect from Ho Chi Minh City traffic, retrieved 2026-09-24"
-internal_link_targets: ho-chi-minh-city-riding-first-timers, first-time-renting-a-motorbike-hanoi, can-tourists-ride-motorbike-vietnam, helmet-law-vietnam, motorbike-parking-vietnamese-cities
+internal_link_targets: "ho-chi-minh-city-riding-first-timers, first-time-renting-a-motorbike-hanoi, can-tourists-ride-motorbike-vietnam, helmet-law-vietnam, motorbike-parking-vietnamese-cities, renting-motorbike-da-lat"
 ---
 
 Ho Chi Minh City is the most motorbiked metropolis on earth — a river of bikes at every traffic light and intersections that look impossible until you join them. For travellers it is also the southern hub of Vietnam's rental scene: thousands of shops, from hotel receptions renting automatics by the day to touring companies with 155cc machines. This guide covers how Saigon rental works and how to stay calm while learning to ride in it.
@@ -44,7 +44,7 @@ Everyone who rides in Vietnam tells you the same thing about Saigon traffic: it 
 - Make every manoeuvre predictable; no sudden swerves, ever.
 - Honk gently to announce yourself — it is communication, not aggression.
 
-Read our first-timers' guide to riding in Ho Chi Minh City for the full survival kit.
+Read [our first-timers' guide]({{ '/articles/ho-chi-minh-city-riding-first-timers/' | relative_url }}) to riding in Ho Chi Minh City for the full survival kit.
 
 ## Where to ride from Saigon
 

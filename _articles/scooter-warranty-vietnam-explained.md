@@ -1,7 +1,7 @@
 ---
-title: "Scooter Warranties in Vietnam: What Manufacturers Actually Publish"
+title: "Scooter Warranties in Vietnam: What Manufacturers Publish"
 slug: scooter-warranty-vietnam-explained
-description: "What warranty coverage Vietnamese scooter brands publish - verified Yamaha figures, what Honda pages state, what exclusions mean, and why rental riders can ignore most of it."
+description: "What warranty cover Vietnamese scooter brands publish: verified Yamaha figures, what Honda pages state, what the exclusions mean."
 category: scooters
 tags:
   - "warranty"
@@ -32,7 +32,7 @@ Yamaha publishes a 3-year or 30,000 km warranty (whichever comes first) for its 
 
 ## What warranties exclude
 
-Published coverage is against manufacturing defects. Exclusions typically cover wear items (tyres, brake pads, bulbs), damage from accidents or improper use, and - critically for the modifying community - changes from non-genuine parts and accessories, which our aftermarket warranty article covers in detail. Dealer service history also matters; our warranty [and dealer service guide]({{ '/articles/aftermarket-parts-warranty/' | relative_url }}) covers the maintenance-side obligations.
+Published coverage is against manufacturing defects. Exclusions typically cover wear items (tyres, brake pads, bulbs), damage from accidents or improper use, and - critically for the modifying community - changes from non-genuine parts and accessories, which [our aftermarket warranty article]({{ '/articles/aftermarket-parts-warranty/' | relative_url }}) covers in detail. Dealer service history also matters; our warranty [and dealer service guide]({{ '/articles/aftermarket-parts-warranty/' | relative_url }}) covers the maintenance-side obligations.
 
 ## For renters
 

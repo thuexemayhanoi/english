@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
-internal_link_targets: "checking-engine-oil-motorbike, overheating-motorbike-vietnam, dead-battery-motorbike-vietnam, lights-and-electrical-checks-motorbike"
+internal_link_targets: "checking-engine-oil-motorbike, overheating-motorbike-vietnam, dead-battery-motorbike-vietnam, lights-and-electrical-checks-motorbike, speedometer-not-working-motorbike"
 ---
 
 Modern scooters sold in Vietnam carry real dashboards, and the warning lights on them are the cheapest diagnostics you will ever own. The catch is that many riders ignore them, and a few of them genuinely mean "stop now."

@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "where-to-park-motorbike-hanoi, stands-side-vs-centre-paddock, parking-monthly-renter-hanoi, checking-motorbike-after-fall-accident"
+internal_link_targets: "where-to-park-motorbike-hanoi, stands-side-vs-centre-paddock, parking-monthly-renter-hanoi, checking-motorbike-after-fall-accident, scooter-windscreens-vietnam"
 ---
 
 A motorbike on its side stand is balanced on a coin-sized foot — and Vietnamese parking surfaces are often sand, mud, gravel, or noon asphalt soft enough to swallow that foot entirely. The bike that was upright when you left it is on its side when you return, and the post-fall inspection ([What to Check Mechanically After a Fall]({{ '/articles/checking-motorbike-after-fall-accident/' | relative_url }})) becomes part of your parking routine.

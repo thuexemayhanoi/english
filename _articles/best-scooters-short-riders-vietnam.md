@@ -43,7 +43,7 @@ Seat height decides whether a scooter works for you in stop-and-go Vietnamese tr
 
 ## What these numbers mean in practice
 
-Seat height is only half the story - the other half is seat width and bike weight. A 760 mm seat on the 114 kg Lead can feel taller than a 750 mm seat on the 96 kg Gear 125, because a narrow saddle lets your legs go straight down. That is why our lightweight-scooters guide pairs with this one: for most shorter riders, low seat PLUS low weight is the winning combination (Gear 125, Latte 125, Janus 125).
+Seat height is only half the story - the other half is seat width and bike weight. A 760 mm seat on the 114 kg Lead can feel taller than a 750 mm seat on the 96 kg Gear 125, because a narrow saddle lets your legs go straight down. That is why [our lightweight-scooters guide]({{ '/articles/best-lightweight-scooters-beginners-vietnam/' | relative_url }}) pairs with this one: for most shorter riders, low seat PLUS low weight is the winning combination (Gear 125, Latte 125, Janus 125).
 
 ## Best picks by priority
 

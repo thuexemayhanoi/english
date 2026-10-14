@@ -24,7 +24,7 @@ Engine spec lists mention valve counts casually - the Latte 125's two-valve head
 
 ## What the valves do
 
-Every four-stroke engine breathes through intake valves (letting the fuel-air mix in) and exhaust valves (letting burnt gas out). Two valves - one in, one out - is the simple, classic layout. Four valves - two and two - doubles the breathing area and allows a central, well-shaped combustion chamber, letting the engine rev more freely and breathe efficiently at higher rpm. Our eSP vs Blue Core guide covers the engine families this plays out in.
+Every four-stroke engine breathes through intake valves (letting the fuel-air mix in) and exhaust valves (letting burnt gas out). Two valves - one in, one out - is the simple, classic layout. Four valves - two and two - doubles the breathing area and allows a central, well-shaped combustion chamber, letting the engine rev more freely and breathe efficiently at higher rpm. [Our eSP vs Blue Core guide]({{ '/articles/esp-vs-blue-core-engines-explained/' | relative_url }}) covers the engine families this plays out in.
 
 ## Verified examples (retrieved 23 September 2026)
 

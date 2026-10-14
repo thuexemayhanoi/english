@@ -1,5 +1,5 @@
 ---
-title: "Why 110cc Is Vietnam's Default Engine Size: The Data Behind the Class"
+title: "Why 110cc Is Vietnam's Default Engine Size: The Data"
 slug: why-110cc-is-vietnams-default-engine
 description: "Why the 110 cc underbone rules Vietnam - the verified weight, economy and price numbers that made it the national default."
 category: motorcycles

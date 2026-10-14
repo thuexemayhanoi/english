@@ -18,7 +18,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: "monthly-motorbike-rental-hanoi, monthly-motorbike-rental-requirements-hanoi, long-term-rider-licence-checklist-hanoi, insurance-for-long-term-renter-hanoi"
+internal_link_targets: "monthly-motorbike-rental-hanoi, monthly-motorbike-rental-requirements-hanoi, long-term-rider-licence-checklist-hanoi, insurance-for-long-term-renter-hanoi, families-monthly-motorbike-hanoi"
 ---
 
 For expats staying in Hanoi for months or years, a monthly rental sits between daily rentals and buying a bike. It often makes sense — if you set it up properly.

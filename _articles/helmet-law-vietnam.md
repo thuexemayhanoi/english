@@ -1,7 +1,7 @@
 ---
 title: "Vietnam Helmet Law: Rules for Riders and Passengers"
 slug: helmet-law-vietnam
-description: "Helmet rules in Vietnam under Law 36/2024/QH15: compulsory and properly fastened for motorbike, moped and pedal e-bike riders and passengers, quality standards, and the 400,000–600,000 VND fine."
+description: "Vietnam helmet law: compulsory, fastened helmets for motorbike, moped and e-bike riders and passengers, quality standards, and a 400,000-600,000 VND fine."
 category: law-licences
 tags:
   - "helmet"

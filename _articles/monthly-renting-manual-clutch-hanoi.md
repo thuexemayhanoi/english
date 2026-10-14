@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: monthly-motorbike-rental-hanoi, choosing-motorbike-monthly-rental-hanoi, automatic-or-semi-automatic-monthly-hanoi, manual-motorbike-rental-checklist-hanoi, learning-manual-on-rented-bike-hanoi
+internal_link_targets: "monthly-motorbike-rental-hanoi, choosing-motorbike-monthly-rental-hanoi, automatic-or-semi-automatic-monthly-hanoi, manual-motorbike-rental-checklist-hanoi, learning-manual-on-rented-bike-hanoi, manual-underbone-ownership-costs-hanoi"
 ---
 
 A month or a semester in Hanoi is exactly the window where renting monthly beats daily rates, and a manual or semi-automatic underbone is the class most long-term visitors end up on. Here is the practical picture.
@@ -26,7 +26,7 @@ A month or a semester in Hanoi is exactly the window where renting monthly beats
 - **Semi-automatic underbone (xe so)**: the default for daily Hanoi life. No clutch hand, carries a passenger, total parts availability, and it is the class our price-published fleet covers (Honda Wave and Yamaha Sirius at 150,000 VND per day). For monthly pricing on any specific model, contact us — we confirm current availability and rates individually rather than publishing extrapolated figures.
 - **Manual-clutch (xe con tay)**: worth it if you already ride confidently and want a sport underbone or something like a CT125-class machine. As a first-ever bike it makes a hard month harder.
 
-The choosing guide covers the class decision in more depth, including the automatic-scooter alternative.
+[The choosing guide]({{ '/articles/choosing-motorbike-monthly-rental-hanoi/' | relative_url }}) covers the class decision in more depth, including the automatic-scooter alternative.
 
 ## What monthly rental changes
 

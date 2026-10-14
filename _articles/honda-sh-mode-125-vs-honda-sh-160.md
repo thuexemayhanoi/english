@@ -1,7 +1,7 @@
 ---
 title: "Honda SH Mode 125 vs SH160i: Which Premium Honda Makes Sense?"
 slug: honda-sh-mode-125-vs-honda-sh-160
-description: "Honda SH Mode 125 vs Honda SH160i compared on verified specs - power, torque, fuel use, weight, seat height, ABS, storage and price - so you can pick the right premium Honda."
+description: "Honda SH Mode 125 vs Honda SH160i on verified specs: power, torque, fuel use, weight, seat height, ABS, storage and price, so you can pick the right premium Honda."
 category: scooters
 tags:
   - "honda sh mode"
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn - Honda VN model pages (Sh mode 125, SH160i/125i), official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-sh-mode-125-review, honda-sh-160-review, premium-scooters-vietnam, scooter-seat-heights-comparison-vietnam, scooter-fuel-economy-comparison-vietnam
+internal_link_targets: "honda-sh-mode-125-review, honda-sh-160-review, premium-scooters-vietnam, scooter-seat-heights-comparison-vietnam, scooter-fuel-economy-comparison-vietnam, honda-sh-mode-125-vs-honda-air-blade-160, honda-sh-mode-125-vs-honda-lead-125, yamaha-lexi-155-vs-honda-sh-mode-125"
 ---
 
 Both of these are premium Honda scooters, and both carry SH DNA - but they are aimed at different riders and different budgets. All figures come from Honda Vietnam's official model pages (retrieved 23 September 2026).

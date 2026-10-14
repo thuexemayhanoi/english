@@ -1,5 +1,5 @@
 ---
-title: "Underbone Power and Torque Explained: kW, Nm and RPM Read Honestly"
+title: "Underbone Power and Torque Explained: kW, Nm and RPM"
 slug: underbone-power-torque-explained
 description: "What power and torque figures really tell you about Vietnamese underbones - verified numbers from Honda and Yamaha pages, explained for riders."
 category: motorcycles
@@ -17,7 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn and yamaha-motor.com.vn — official manufacturer model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: honda-future-125-review, honda-ct125-review, yamaha-exciter-155-vva-review, honda-cbr150r-review, best-150cc-manual-motorbikes-vietnam-verified, most-fuel-efficient-underbones-vietnam-verified
+internal_link_targets: "honda-future-125-review, honda-ct125-review, yamaha-exciter-155-vva-review, honda-cbr150r-review, best-150cc-manual-motorbikes-vietnam-verified, most-fuel-efficient-underbones-vietnam-verified, motorbike-engine-codes-explained"
 ---
 
 Power and torque headline every review, but the two numbers describe different experiences - and the rpm they arrive at matters as much as the figures. All values below are manufacturer-published (retrieved 23 September 2026).

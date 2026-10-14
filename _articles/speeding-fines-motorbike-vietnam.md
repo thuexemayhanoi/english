@@ -1,7 +1,7 @@
 ---
 title: "Speeding Fines for Motorbikes in Vietnam"
 slug: speeding-fines-motorbike-vietnam
-description: "Speeding fines for motorbikes under Decree 168/2024: 400,000-600,000 VND for 5-10 km/h over, 800,000-1,000,000 VND for 10-20 over, 6,000,000-8,000,000 VND above that with four points, and 8,000,000-10,000,000 VND plus suspension for group speeding."
+description: "Motorbike speeding fines under Decree 168/2024: 400,000-600,000 VND for 5-10 km/h over, 800,000-1,000,000 for 10-20 over."
 category: law-licences
 tags:
   - "speeding"

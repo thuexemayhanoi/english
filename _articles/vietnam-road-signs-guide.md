@@ -1,7 +1,7 @@
 ---
 title: "Vietnamese Road Signs: A Rider's Guide to Reading the Road"
 slug: vietnam-road-signs-guide
-description: "Vietnamese road signs mix Vietnamese text with international shapes. What riders actually need to know: QL/DT road numbers, prohibition signs, km markers and work zones."
+description: "Vietnamese road signs mix Vietnamese text with international shapes. What riders need to know: QL and DT road numbers, prohibition signs, km markers and work zones."
 category: vietnam-travel
 tags:
   - "road signs"
@@ -50,4 +50,4 @@ Vietnamese road signs follow a mix of international conventions with French and 
 
 The honest local knowledge: signs describe the rule, and riding culture describes the practice. A no-overtaking sign on a QL road is advisory in local practice, not law — the safe rider's policy is to obey the sign rather than the traffic, and never assume the lorry behind sees the sign the same way you do. For how traffic behaves rather than what it promises, our traffic-culture primers (Hanoi's applies nationwide) are the companion read.
 
-Navigation-wise, offline maps remain the primary tool — our offline-navigation guide covers the setup — but the road numbers on the signs are the cross-check that tells you the map's "fast route" is actually the QL1A you were trying to avoid.
+Navigation-wise, offline maps remain the primary tool — [our offline-navigation guide]({{ '/articles/motorbike-trip-navigation-offline-maps-vietnam/' | relative_url }}) covers the setup — but the road numbers on the signs are the cross-check that tells you the map's "fast route" is actually the QL1A you were trying to avoid.

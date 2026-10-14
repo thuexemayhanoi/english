@@ -16,7 +16,7 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
-internal_link_targets: manual-motorbike-rental-checklist-hanoi, week-one-manual-clutch-practice-plan, where-to-practise-riding-hanoi, renting-semi-automatic-underbone-hanoi, first-time-renting-a-motorbike-hanoi
+internal_link_targets: "manual-motorbike-rental-checklist-hanoi, week-one-manual-clutch-practice-plan, where-to-practise-riding-hanoi, renting-semi-automatic-underbone-hanoi, first-time-renting-a-motorbike-hanoi, buying-new-underbone-dealer-guide-vietnam, monthly-renting-manual-clutch-hanoi"
 ---
 
 Plenty of visitors learn to ride in Hanoi on a rented bike, and it can go two ways: a structured week that ends with a confident rider, or a burned clutch and an awkward conversation at the rental counter. The difference is etiquette plus a plan.
@@ -39,10 +39,10 @@ A light, small, slow bike — a Wave-class semi-auto is the classic learning too
 
 ## Practise in the right places
 
-The where-to-practise guide maps the graduated route from empty parking lot to light street. Do the first two sessions off-street, however confident you feel — Hanoi traffic forgives slow riders but punishes learners mid-junction.
+[The where-to-practise guide]({{ '/articles/where-to-practise-riding-hanoi/' | relative_url }}) maps the graduated route from empty parking lot to light street. Do the first two sessions off-street, however confident you feel — Hanoi traffic forgives slow riders but punishes learners mid-junction.
 
 ## The honest timeline
 
-Most riders reach calm light-traffic riding within a week of structured practice; expect stalls in week one regardless. If your plan is "learn on Monday, ride to Ninh Binh on Wednesday", change the plan: long routes need solid traffic skills first, and the manual monthly-renting guide covers the longer-haul version of the same decision.
+Most riders reach calm light-traffic riding within a week of structured practice; expect stalls in week one regardless. If your plan is "learn on Monday, ride to Ninh Binh on Wednesday", change the plan: long routes need solid traffic skills first, and [the manual monthly-renting guide]({{ '/articles/monthly-renting-manual-clutch-hanoi/' | relative_url }}) covers the longer-haul version of the same decision.
 
 Rented bikes taught tens of thousands of visitors to ride. The riders who succeeded treated the bike as borrowed, not disposable.

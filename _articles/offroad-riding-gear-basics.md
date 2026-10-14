@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "mountain-pass-riding-motorbike-vietnam, gravel-roads-motorbike-vietnam, body-armour-motorbike-riders, what-to-carry-riding-motorbike-vietnam"
+internal_link_targets: "mountain-pass-riding-motorbike-vietnam, gravel-roads-motorbike-vietnam, body-armour-motorbike-riders, what-to-carry-riding-motorbike-vietnam, pillion-passenger-gear-checklist"
 ---
 
 Vietnamese road trips turn to dirt fast: mountain passes, construction detours, the last kilometres to a homestay. Off-pavement riding is a different failure mode — lower speeds, but rocks, ruts, mud and hard ground, and falls that grind rather than slide. The gear shifts accordingly.

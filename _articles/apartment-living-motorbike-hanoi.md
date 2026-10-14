@@ -1,7 +1,7 @@
 ---
-title: "Apartment Living With a Motorbike in Hanoi: Parking, Lifts and Access"
+title: "Apartment Living With a Motorbike in Hanoi: Parking and Access"
 slug: apartment-living-motorbike-hanoi
-description: "Keeping a motorbike in a Hanoi apartment building: basement parking, lifts and stair-carry culture, rental questions to ask, overnight security and small-apartment bike life."
+description: "Keeping a motorbike in a Hanoi apartment building: basement parking, lifts and stair-carry culture, questions to ask a landlord, and overnight security."
 category: hanoi
 tags:
   - "apartments"

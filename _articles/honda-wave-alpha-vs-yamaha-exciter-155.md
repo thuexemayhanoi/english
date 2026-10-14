@@ -1,5 +1,5 @@
 ---
-title: "Honda Wave Alpha vs Yamaha Exciter 155: First Bike or Weekend Star?"
+title: "Honda Wave Alpha vs Yamaha Exciter 155: Starter or Weekend Star?"
 slug: honda-wave-alpha-vs-yamaha-exciter-155
 description: "Wave Alpha 110 vs Exciter 155 VVA on verified Honda and Yamaha Vietnam specs - the lightest underbone against the sportiest."
 category: motorcycles

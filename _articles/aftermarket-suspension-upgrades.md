@@ -16,7 +16,7 @@ date_published: 2026-09-23
 last_reviewed: 2026-09-23
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general guidance, no invented products or prices"
-internal_link_targets: "suspension-checks-motorbike-vietnam, front-fork-care-oil-seals-motorbike, rear-suspension-preload-riders-luggage, repair-or-replace-motorbike-parts"
+internal_link_targets: "suspension-checks-motorbike-vietnam, front-fork-care-oil-seals-motorbike, rear-suspension-preload-riders-luggage, repair-or-replace-motorbike-parts, handguards-motorbike-vietnam"
 ---
 
 Suspension is the most transformative upgrade on a motorbike and the most frequently wasted money. Vietnamese roads would seem to argue for it everywhere — but stock suspension that is merely worn does not need replacing; it needs servicing. Learn the difference before spending.

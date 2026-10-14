@@ -1,7 +1,7 @@
 ---
 title: "Used 50cc Inspection Checklist: Twenty Minutes Before You Pay"
 slug: used-50cc-inspection-checklist
-description: "A field checklist for inspecting a used 50cc in Vietnam: engine and bore condition, electrics, brakes, frame and fork straightness, paperwork and the ride itself - in the order that finds expensive problems."
+description: "Inspecting a used 50cc in Vietnam: engine and bore, electrics, brakes, frame and fork straightness, paperwork and the test ride."
 category: 50cc
 tags:
   - "50cc"
@@ -24,7 +24,7 @@ A used 50cc is cheap to buy and cheap to fix — but only if you know which faul
 
 ## One: papers before passion
 
-If the paperwork is wrong, nothing else matters. Check the registration matches the frame and engine numbers, that the seller is the named owner (or can explain the chain sensibly), and that the bike is not sold as "papers coming later". Our used-sport-underbone guide covers the paperwork patterns that recur in Vietnam's informal market.
+If the paperwork is wrong, nothing else matters. Check the registration matches the frame and engine numbers, that the seller is the named owner (or can explain the chain sensibly), and that the bike is not sold as "papers coming later". [Our used-sport-underbone guide]({{ '/articles/buying-used-sport-underbone-verified/' | relative_url }}) covers the paperwork patterns that recur in Vietnam's informal market.
 
 ## Two: engine health
 
