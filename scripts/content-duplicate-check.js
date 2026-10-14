@@ -37,7 +37,41 @@ for (let i = 0; i < articles.length; i++) {
   }
 }
 
-const report = { tool: 'content-duplicate-check', counts: F.counts, findings: F.items };
+// Near-duplicate BODIES (AI content-factory guard): five-word shingles of the
+// prose (Liquid, links and markdown markup stripped), Jaccard similarity,
+// compared within the same topic cluster where duplication would actually
+// cannibalise. Signals only: P3 from 0.30, P2 from 0.60 (never blocking).
+function bodyShingles(body) {
+  const text = L.stripLiquid(body)
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/^#.*$/gm, ' ')
+    .toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/).filter(Boolean);
+  const set = new Set();
+  for (let i = 0; i + 5 <= text.length; i++) set.add(text.slice(i, i + 5).join(' '));
+  return set;
+}
+const byCluster = {};
+for (const a of articles) (byCluster[String(a.fm.topic_cluster || '')] = byCluster[String(a.fm.topic_cluster || '')] || []).push(a);
+const shingleCache = new Map();
+const shinglesOf = a => { if (!shingleCache.has(a.file)) shingleCache.set(a.file, bodyShingles(a.body)); return shingleCache.get(a.file); };
+let bodyPairs = 0;
+for (const group of Object.values(byCluster)) {
+  for (let i = 0; i < group.length; i++) {
+    const A = shinglesOf(group[i]); if (A.size < 40) continue;
+    for (let j = i + 1; j < group.length; j++) {
+      const B = shinglesOf(group[j]); if (B.size < 40) continue;
+      let inter = 0; const [small, big] = A.size < B.size ? [A, B] : [B, A];
+      for (const x of small) if (big.has(x)) inter++;
+      const sim = inter / (A.size + B.size - inter);
+      bodyPairs++;
+      if (sim >= 0.6) F.add('P2', group[j].file, L.articleUrl(group[j]), 'near-duplicate body (shingle similarity ' + sim.toFixed(2) + ') vs ' + group[i].file, 'Manual review: merge intents or rewrite the shared passages');
+      else if (sim >= 0.3) F.add('P3', group[j].file, L.articleUrl(group[j]), 'body shares many passages (shingle similarity ' + sim.toFixed(2) + ') with ' + group[i].file, 'Review the shared passages; differentiate if the intents overlap');
+    }
+  }
+}
+
+const report = { tool: 'content-duplicate-check', counts: F.counts, findings: F.items, bodyPairsCompared: bodyPairs };
 fs.mkdirSync(path.join(L.ROOT, 'reports'), { recursive: true });
 fs.writeFileSync(path.join(L.ROOT, 'reports', 'content-duplicate-check.json'), JSON.stringify(report, null, 2));
 console.log('content-duplicate-check: P0=' + F.counts.P0 + ' P1=' + F.counts.P1 + ' P2=' + F.counts.P2 + ' P3=' + F.counts.P3 + ' blocking=' + F.blocking.length);

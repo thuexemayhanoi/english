@@ -433,6 +433,51 @@ for (const k of summary.keywordOwnership) {
   k.coverage = row ? keywordCoverage(k.keyword, row.current_title + ' ' + desc) : 'missing';
 }
 
+// Content gap register: every People-also-ask question and related search
+// recorded in keyword-evidence.json is resolved to the URL that serves it
+// (a Common-questions entry, or a title/keyword match). Unserved ones are
+// listed as gaps for the owner (the production plan is complete: no new
+// articles are created by tooling; a gap is served by an existing URL or left).
+const GAP_STOP = new Set('a an the of for to in on and or with your you our this that is are how what when where why which who do does can at by from vs versus i my it its be need needed want get'.split(' '));
+const gapStem = w => w.toLowerCase().replace(/[^a-z0-9]/g, '').replace(/(ing|ers|er|ed|es|s)$/, '').replace(/licenc/, 'licens').replace(/motorcycl/, 'motorbik');
+const gapSig = s => [...new Set(String(s).toLowerCase().split(/[^a-z0-9]+/).filter(w => w && !GAP_STOP.has(w)).map(gapStem).filter(w => w.length > 1))];
+const faqIndex = [];
+for (const src of [...articles.map(a => ({ url: L.articleUrl(a), raw: a.raw })), ...pages.map(p => ({ url: L.pageUrl(p), raw: p.raw }))]) {
+  const fmEnd = src.raw.indexOf('\n---', 3); const fmText = fmEnd > 0 ? src.raw.slice(0, fmEnd) : '';
+  for (const q of fmText.matchAll(/^\s+- q: "([^"]+)"/gm)) faqIndex.push({ url: src.url, q: q[1], sig: gapSig(q[1]) });
+}
+const titleIndex = rows.map(r => ({ url: r.url, sig: gapSig(r.current_title + ' ' + (r.primary_keyword || '')) }));
+// Generic words (the site's own subject) never count as the distinguishing
+// match; a question is served only when its distinctive words are found.
+const GAP_GENERIC = new Set(['motorbik', 'rental', 'rent', 'hanoi', 'vietnam', 'scoot', 'bike', 'rid', 'ride', 'hire', 'vietnames']);
+function resolveGap(question) {
+  const sigAll = gapSig(question); if (sigAll.length < 2) return null;
+  const sigDistinct = sigAll.filter(w => !GAP_GENERIC.has(w));
+  let best = null;
+  const consider = (e, how) => {
+    const dHit = sigDistinct.filter(w => e.sig.includes(w)).length;
+    const tHit = sigAll.filter(w => e.sig.includes(w)).length;
+    const ok = sigDistinct.length === 0 ? tHit >= 2 : (dHit >= 1 && dHit * 2 >= sigDistinct.length && tHit * 2 >= sigAll.length);
+    if (!ok) return;
+    if (!best || dHit > best.dHit || (dHit === best.dHit && tHit > best.tHit)) best = { url: e.url, how, dHit, tHit };
+  };
+  for (const e of faqIndex) consider(e, 'Common-questions entry: ' + e.q);
+  for (const e of titleIndex) consider(e, 'title/keyword match');
+  return best;
+}
+const gapSources = [];
+if (evidenceMap && evidenceMap._serp_snapshot) gapSources.push({ query: evidenceMap._serp_snapshot.query, paa: evidenceMap._serp_snapshot.people_also_ask || [], related: evidenceMap._serp_snapshot.related_searches || [] });
+if (evidenceMap && evidenceMap._serp_snapshot_hubs) for (const q of evidenceMap._serp_snapshot_hubs.queries || []) gapSources.push({ query: q.query, paa: q.people_also_ask || [], related: q.related_searches || [] });
+summary.contentGaps = [];
+for (const gs of gapSources) {
+  for (const [kind, list] of [['People also ask', gs.paa], ['Related search', gs.related]]) for (const q of list) {
+    if (/reddit|quora|facebook/i.test(q)) { summary.contentGaps.push({ question: q, kind, serp: gs.query, servedBy: '', how: 'community-platform query, not a content gap', gap: false }); continue; }
+    const r = resolveGap(q);
+    summary.contentGaps.push({ question: q, kind, serp: gs.query, servedBy: r ? r.url : '', how: r ? r.how : 'no serving URL found', gap: !r });
+  }
+}
+summary.contentGapCount = summary.contentGaps.filter(g => g.gap).length;
+
 // Cluster table
 const clusterStats = {};
 for (const a of articles) {
@@ -466,6 +511,8 @@ md += '\n### Cluster overview\n\n| Cluster | Hub | Articles | Commercial | Infor
 for (const c of L.CLUSTERS) { const s = clusterStats[c]; if (!s) continue; md += '| ' + c + ' | /topics/' + c + '/ | ' + s.articles + ' | ' + s.commercial + ' | ' + s.informational + ' | ' + Math.round(s.words / s.articles) + ' | ' + s.p1 + ' | ' + s.p2 + ' |\n'; }
 md += '\n### Core keyword ownership\n\n| Group | Keyword | Owner URL | Owner title | Title+description coverage | Owner priority |\n|---|---|---|---|---|---|\n';
 for (const k of summary.keywordOwnership) md += '| ' + mdCell(k.group) + ' | ' + mdCell(k.keyword) + (k.variantOf ? ' (variant of ' + mdCell(k.variantOf) + ')' : '') + (k.gap ? ' GAP' : '') + ' | ' + k.owner + ' | ' + mdCell(k.ownerTitle) + ' | ' + k.coverage + ' | ' + k.ownerPriority + ' |\n';
+md += '\n### Content gap register (People-also-ask and related searches, from keyword-evidence.json)\n\n' + summary.contentGaps.length + ' recorded questions, ' + summary.contentGapCount + ' without a serving URL. No new articles are created by tooling; a gap is a decision for the owner.\n\n| Question / search | Kind | From SERP of | Served by | How | Gap |\n|---|---|---|---|---|---|\n';
+for (const g of summary.contentGaps) md += '| ' + mdCell(g.question) + ' | ' + g.kind + ' | ' + mdCell(g.serp) + ' | ' + (g.servedBy || '—') + ' | ' + mdCell(g.how) + ' | ' + (g.gap ? 'GAP' : 'no') + ' |\n';
 
 function fullTable(list) {
   let t = '| ' + HEAD.join(' | ') + ' |\n|' + HEAD.map(() => '---').join('|') + '|\n';

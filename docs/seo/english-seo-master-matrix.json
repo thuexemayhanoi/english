@@ -410,7 +410,450 @@
   "dataLimitations": [
    "No English Google Search Console export is available (docs/SOURCE-MAP.md); priorities use on-site evidence only.",
    "No search volumes or rankings are recorded unless docs/seo/keyword-evidence.json exists."
-  ]
+  ],
+  "contentGaps": [
+   {
+    "question": "How much is bike rental in Hanoi?",
+    "kind": "People also ask",
+    "serp": "motorbike rental hanoi",
+    "servedBy": "/topics/monthly-rental/",
+    "how": "Common-questions entry: How much is a monthly motorbike rental in Hanoi?",
+    "gap": false
+   },
+   {
+    "question": "Is motorcycle rental cheaper than car rental?",
+    "kind": "People also ask",
+    "serp": "motorbike rental hanoi",
+    "servedBy": "/articles/motorbike-rental-price-hanoi/",
+    "how": "Common-questions entry: Is a monthly rental cheaper than paying by the day?",
+    "gap": false
+   },
+   {
+    "question": "What is the most famous motorbike loop in Vietnam?",
+    "kind": "People also ask",
+    "serp": "motorbike rental hanoi",
+    "servedBy": "/topics/trips/",
+    "how": "Common-questions entry: What is the most famous motorbike loop in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Can tourists ride motorcycles in Vietnam?",
+    "kind": "People also ask",
+    "serp": "motorbike rental hanoi",
+    "servedBy": "/topics/safety/",
+    "how": "Common-questions entry: Can tourists ride motorbikes in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Electric motorbike rental hanoi",
+    "kind": "Related search",
+    "serp": "motorbike rental hanoi",
+    "servedBy": "/articles/can-foreigners-rent-electric-bike-vietnam/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Motorbike rental Hanoi Old Quarter",
+    "kind": "Related search",
+    "serp": "motorbike rental hanoi",
+    "servedBy": "/articles/motorbike-delivery-old-quarter/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Vietnam motorbike rental one way",
+    "kind": "Related search",
+    "serp": "motorbike rental hanoi",
+    "servedBy": "/articles/one-way-motorbike-rental-vietnam/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Motorbike rental Ho Chi Minh",
+    "kind": "Related search",
+    "serp": "motorbike rental hanoi",
+    "servedBy": "/topics/vietnam-travel/",
+    "how": "Common-questions entry: Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City?",
+    "gap": false
+   },
+   {
+    "question": "Hanoi motorbike rental cost",
+    "kind": "Related search",
+    "serp": "motorbike rental hanoi",
+    "servedBy": "/articles/motorbike-rental-budget-monthly-hanoi/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "One way motorbike rental Hanoi",
+    "kind": "Related search",
+    "serp": "motorbike rental hanoi",
+    "servedBy": "/articles/one-way-motorbike-rental-vietnam/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Motorbike rental Hanoi Reddit",
+    "kind": "Related search",
+    "serp": "motorbike rental hanoi",
+    "servedBy": "",
+    "how": "community-platform query, not a content gap",
+    "gap": false
+   },
+   {
+    "question": "Can tourists ride motorbikes in Vietnam?",
+    "kind": "People also ask",
+    "serp": "is it safe to ride a motorbike in vietnam",
+    "servedBy": "/topics/safety/",
+    "how": "Common-questions entry: Can tourists ride motorbikes in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "What is the #1 cause of death in Vietnam?",
+    "kind": "People also ask",
+    "serp": "is it safe to ride a motorbike in vietnam",
+    "servedBy": "",
+    "how": "no serving URL found",
+    "gap": true
+   },
+   {
+    "question": "Is $1000 enough for 2 weeks in Vietnam?",
+    "kind": "People also ask",
+    "serp": "is it safe to ride a motorbike in vietnam",
+    "servedBy": "",
+    "how": "no serving URL found",
+    "gap": true
+   },
+   {
+    "question": "Where do 70% of motorcycle accidents occur?",
+    "kind": "People also ask",
+    "serp": "is it safe to ride a motorbike in vietnam",
+    "servedBy": "/articles/checking-motorbike-after-fall-accident/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Can I ride a motorbike in Vietnam with a UK license",
+    "kind": "Related search",
+    "serp": "is it safe to ride a motorbike in vietnam",
+    "servedBy": "/articles/can-you-ride-electric-motorbike-with-car-licence-vietnam/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Can I drive a motorcycle in Vietnam with an international license",
+    "kind": "Related search",
+    "serp": "is it safe to ride a motorbike in vietnam",
+    "servedBy": "/topics/50cc/",
+    "how": "Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Motorbike Vietnam price",
+    "kind": "Related search",
+    "serp": "is it safe to ride a motorbike in vietnam",
+    "servedBy": "/articles/cheapest-electric-motorbikes-vietnam-list-prices/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "50cc motorbike Vietnam",
+    "kind": "Related search",
+    "serp": "is it safe to ride a motorbike in vietnam",
+    "servedBy": "/topics/50cc/",
+    "how": "Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Vietnam motorcycle trip",
+    "kind": "Related search",
+    "serp": "is it safe to ride a motorbike in vietnam",
+    "servedBy": "/topics/vietnam-travel/",
+    "how": "Common-questions entry: What is the most famous motorbike trip in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "What is the best scooter to ride in Vietnam?",
+    "kind": "People also ask",
+    "serp": "best scooter to rent in vietnam",
+    "servedBy": "/topics/scooters/",
+    "how": "Common-questions entry: What is the best scooter to rent in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "How much does it cost to rent a scooter in Vietnam?",
+    "kind": "People also ask",
+    "serp": "best scooter to rent in vietnam",
+    "servedBy": "/topics/scooters/",
+    "how": "Common-questions entry: How much does it cost to rent a scooter in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Do I need a license to rent a scooter in Vietnam?",
+    "kind": "People also ask",
+    "serp": "best scooter to rent in vietnam",
+    "servedBy": "/topics/scooters/",
+    "how": "Common-questions entry: Do I need a licence to rent a scooter in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "How much is a VinFast scooter in Vietnam?",
+    "kind": "People also ask",
+    "serp": "best scooter to rent in vietnam",
+    "servedBy": "/topics/scooters/",
+    "how": "Common-questions entry: How much does it cost to rent a scooter in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Best scooter to rent in vietnam for a day",
+    "kind": "Related search",
+    "serp": "best scooter to rent in vietnam",
+    "servedBy": "/topics/scooters/",
+    "how": "Common-questions entry: What is the best scooter to rent in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Scooter rental Vietnam price",
+    "kind": "Related search",
+    "serp": "best scooter to rent in vietnam",
+    "servedBy": "/articles/motorbike-rental-price-hanoi/",
+    "how": "Common-questions entry: Is the deposit part of the rental price?",
+    "gap": false
+   },
+   {
+    "question": "50cc scooter Vietnam",
+    "kind": "Related search",
+    "serp": "best scooter to rent in vietnam",
+    "servedBy": "/topics/50cc/",
+    "how": "Common-questions entry: Can I rent a 50cc scooter in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Vietnam scooter rental Ho Chi Minh",
+    "kind": "Related search",
+    "serp": "best scooter to rent in vietnam",
+    "servedBy": "/articles/ho-chi-minh-highway-motorbike-guide/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "50cc scooter rental Vietnam",
+    "kind": "Related search",
+    "serp": "best scooter to rent in vietnam",
+    "servedBy": "/topics/50cc/",
+    "how": "Common-questions entry: Can I rent a 50cc scooter in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "How to get a motorbike license in Vietnam?",
+    "kind": "People also ask",
+    "serp": "50cc motorbike vietnam licence",
+    "servedBy": "/topics/50cc/",
+    "how": "Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "What is the youngest age to drive a motorcycle?",
+    "kind": "People also ask",
+    "serp": "50cc motorbike vietnam licence",
+    "servedBy": "/topics/50cc/",
+    "how": "Common-questions entry: What is the youngest age to ride a motorbike in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Can I rent a 50cc scooter in Vietnam?",
+    "kind": "People also ask",
+    "serp": "50cc motorbike vietnam licence",
+    "servedBy": "/topics/50cc/",
+    "how": "Common-questions entry: Can I rent a 50cc scooter in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "What is the most popular motorbike in Vietnam?",
+    "kind": "People also ask",
+    "serp": "50cc motorbike vietnam licence",
+    "servedBy": "/topics/motorcycles/",
+    "how": "Common-questions entry: What is the most popular motorbike in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "50cc motorbike vietnam licence rules",
+    "kind": "Related search",
+    "serp": "50cc motorbike vietnam licence",
+    "servedBy": "/topics/50cc/",
+    "how": "Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "50cc motorbike vietnam licence requirements",
+    "kind": "Related search",
+    "serp": "50cc motorbike vietnam licence",
+    "servedBy": "/topics/50cc/",
+    "how": "Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "50cc motorbike vietnam licence test",
+    "kind": "Related search",
+    "serp": "50cc motorbike vietnam licence",
+    "servedBy": "/topics/50cc/",
+    "how": "Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "How much is a motorcycle trip in Vietnam?",
+    "kind": "People also ask",
+    "serp": "vietnam motorbike trip",
+    "servedBy": "/topics/vietnam-travel/",
+    "how": "Common-questions entry: How much does a motorbike trip in Vietnam cost?",
+    "gap": false
+   },
+   {
+    "question": "What is the most famous bike trip in Vietnam?",
+    "kind": "People also ask",
+    "serp": "vietnam motorbike trip",
+    "servedBy": "/topics/vietnam-travel/",
+    "how": "Common-questions entry: What is the most famous motorbike trip in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Can tourists ride motorcycles in Vietnam?",
+    "kind": "People also ask",
+    "serp": "vietnam motorbike trip",
+    "servedBy": "/topics/safety/",
+    "how": "Common-questions entry: Can tourists ride motorbikes in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Is the Ha Giang loop scary?",
+    "kind": "People also ask",
+    "serp": "vietnam motorbike trip",
+    "servedBy": "/topics/vietnam-travel/",
+    "how": "Common-questions entry: Is the Ha Giang loop difficult?",
+    "gap": false
+   },
+   {
+    "question": "Vietnam motorbike trip packages",
+    "kind": "Related search",
+    "serp": "vietnam motorbike trip",
+    "servedBy": "/topics/vietnam-travel/",
+    "how": "Common-questions entry: What is the most famous motorbike trip in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Vietnam motorbike trip itinerary",
+    "kind": "Related search",
+    "serp": "vietnam motorbike trip",
+    "servedBy": "/topics/vietnam-travel/",
+    "how": "Common-questions entry: What is the most famous motorbike trip in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Vietnam motorbike Loop",
+    "kind": "Related search",
+    "serp": "vietnam motorbike trip",
+    "servedBy": "/topics/trips/",
+    "how": "Common-questions entry: What is the most famous motorbike loop in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "10 day motorbike trip Vietnam",
+    "kind": "Related search",
+    "serp": "vietnam motorbike trip",
+    "servedBy": "/articles/ba-vi-national-park-day-trip-motorbike/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Vietnam motorbike rental",
+    "kind": "Related search",
+    "serp": "vietnam motorbike trip",
+    "servedBy": "/articles/can-foreigners-rent-electric-bike-vietnam/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Can foreigners ride motorbikes in Vietnam?",
+    "kind": "People also ask",
+    "serp": "riding a motorbike in hanoi",
+    "servedBy": "/topics/hanoi/",
+    "how": "Common-questions entry: Can foreigners ride motorbikes in Hanoi?",
+    "gap": false
+   },
+   {
+    "question": "What is the 12 second rule for motorcycles?",
+    "kind": "People also ask",
+    "serp": "riding a motorbike in hanoi",
+    "servedBy": "",
+    "how": "no serving URL found",
+    "gap": true
+   },
+   {
+    "question": "What does 2 fingers down mean to bikers?",
+    "kind": "People also ask",
+    "serp": "riding a motorbike in hanoi",
+    "servedBy": "",
+    "how": "no serving URL found",
+    "gap": true
+   },
+   {
+    "question": "Can tourists rent a motorbike in Vietnam?",
+    "kind": "People also ask",
+    "serp": "riding a motorbike in hanoi",
+    "servedBy": "/topics/law-licences/",
+    "how": "Common-questions entry: Can tourists legally ride a motorbike in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Motorcycle Vietnam tour",
+    "kind": "Related search",
+    "serp": "riding a motorbike in hanoi",
+    "servedBy": "/articles/long-distance-electric-motorbike-touring-vietnam/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Best motorcycle rental hanoi",
+    "kind": "Related search",
+    "serp": "riding a motorbike in hanoi",
+    "servedBy": "/articles/choosing-motorbike-monthly-rental-hanoi/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Motorbike Vietnam price",
+    "kind": "Related search",
+    "serp": "riding a motorbike in hanoi",
+    "servedBy": "/articles/cheapest-electric-motorbikes-vietnam-list-prices/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Can I ride a motorbike in Vietnam with a UK license",
+    "kind": "Related search",
+    "serp": "riding a motorbike in hanoi",
+    "servedBy": "/articles/can-you-ride-electric-motorbike-with-car-licence-vietnam/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Vietnam motorbike rental",
+    "kind": "Related search",
+    "serp": "riding a motorbike in hanoi",
+    "servedBy": "/articles/can-foreigners-rent-electric-bike-vietnam/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Motorbike rental Hanoi Reddit",
+    "kind": "Related search",
+    "serp": "riding a motorbike in hanoi",
+    "servedBy": "",
+    "how": "community-platform query, not a content gap",
+    "gap": false
+   }
+  ],
+  "contentGapCount": 4
  },
  "rows": [
   {

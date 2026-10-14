@@ -597,5 +597,57 @@
         ]
       }
     ]
+  },
+  "_tracking": {
+    "tool": "Ubersuggest project + AI Search Visibility brand",
+    "date": "2026-10-14",
+    "project_id": "b07588da4660a0dd20838a6ec9e77a69158cb6ec32ea21600d1468c2d5ec7271",
+    "domain": "en.rentbikehanoi.com",
+    "market": "Vietnam (loc_id 2704), English",
+    "update_frequency": "rankings weekly; AI visibility monthly",
+    "keywords": [
+      "motorbike rental hanoi",
+      "hanoi motorbike rental",
+      "rent motorbike hanoi",
+      "scooter rental hanoi",
+      "motorbike rental hanoi price",
+      "monthly motorbike rental hanoi",
+      "motorbike rental hanoi old quarter",
+      "electric bike rental hanoi",
+      "rent a scooter in hanoi",
+      "motorbike hire hanoi",
+      "motorbike rental vietnam",
+      "can tourists ride motorbike in vietnam",
+      "vietnam motorbike licence for foreigners",
+      "international driving permit vietnam motorbike",
+      "a1 licence vietnam",
+      "50cc motorbike vietnam licence",
+      "motorbike rental requirements hanoi",
+      "motorbike rental deposit hanoi",
+      "honda vision rental hanoi",
+      "best scooter to rent in vietnam",
+      "renting a motorbike in hanoi as a tourist",
+      "hanoi motorbike rental for expats",
+      "how much to rent a motorbike in hanoi",
+      "motorbike rental noi bai airport",
+      "one way motorbike rental vietnam"
+    ],
+    "competitors": [
+      "tigitmotorbikes.com",
+      "flamingoscooters.com"
+    ],
+    "ai_visibility_prompts": [
+      "Where can I rent a motorbike in Hanoi as a tourist?",
+      "How much does it cost to rent a scooter in Hanoi?",
+      "Which Hanoi shop offers monthly motorbike rental for expats?",
+      "What documents do I need to rent a motorbike in Hanoi?",
+      "Can I rent an electric bike in Hanoi?",
+      "Can tourists legally ride a motorbike in Vietnam?",
+      "What licence do I need for a 125cc scooter in Vietnam?",
+      "Is an international driving permit valid for motorbikes in Vietnam?",
+      "Do I need a licence for a 50cc motorbike in Vietnam?",
+      "What is the fine for riding without a licence in Vietnam?"
+    ],
+    "note": "Market chosen as Vietnam because customers rent while in Hanoi; the plan allows one location. First rankings and the first AI-visibility report populate within about a day; read them with Ubersuggest project_position_info / brand_visibility_overview and record figures here with the date. No figure is recorded until it exists."
   }
 }

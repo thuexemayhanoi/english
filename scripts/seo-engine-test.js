@@ -58,6 +58,10 @@ function mkFixture() {
   A('dup-title-d.md', articleFm({ title: 'Other Title', slug: 'dup-title-d', description: 'Dup D.', internal_link_targets: 'valid-article' }), '# D\n\nBody.');
   A('orphan-article.md', articleFm({ title: 'Orphan', slug: 'orphan-article', description: 'Orphaned article.', topic_cluster: 'badcluster', internal_link_targets: 'valid-article' }), '# Orphan\n\nBody.');
   A('autofix-target.md', articleFm({ title: 'AutoFix Target', slug: 'autofix-target', description: 'Has a normalisable link target.', internal_link_targets: 'Valid-Article, ambiguous-thing' }), '# AutoFix\n\nBody.');
+  // Body-level near-duplicate pair (content-factory guard): same 60-word prose, different titles.
+  const twinBody = Array.from({ length: 60 }, (_, i) => 'word' + i).join(' ') + '.';
+  A('dup-body-a.md', articleFm({ title: 'Body Twin A', slug: 'dup-body-a', description: 'Body twin A.', internal_link_targets: 'valid-article' }), '# Twin A\n\n' + twinBody);
+  A('dup-body-b.md', articleFm({ title: 'Body Twin B', slug: 'dup-body-b', description: 'Body twin B.', internal_link_targets: 'valid-article' }), '# Twin B\n\n' + twinBody);
   A('business-facts.md', articleFm({ title: 'Business Facts', slug: 'business-facts', description: 'Business fact protection test.', internal_link_targets: 'valid-article', phone: '+84 942 467 674', hours: '09:00-21:00 daily' }), '# Facts\n\nAddress: 112 Nguyen Van Cu Street, Bo De, Long Bien, Hanoi, Vietnam. Phone +84 942 467 674. Prices in VND stay untouched.\n\nProse paragraph that must never be rewritten by any auto-fix.');
 
   fs.writeFileSync(path.join(root, 'topics', 'scooters', 'index.md'), '---\nlayout: cluster\ncluster: scooters\ntitle: Scooters\ndescription: Scooter hub.\n---\nHub body\n');
@@ -102,6 +106,9 @@ const seoIssues = issuesOf(seoRep);
 check('seo-audit: broken internal link detected', has(seoIssues, /broken internal link \/articles\/does-not-exist\//));
 check('seo-audit: accidental noindex detected', has(seoIssues, /accidental noindex/));
 check('seo-audit: duplicate title detected', has(seoIssues, /duplicate title "Same Title"/));
+const dupRep = readJSON(ROOT, 'reports/content-duplicate-check.json');
+check('content-duplicate-check: near-duplicate body (shingle similarity) detected', has(issuesOf(dupRep), /near-duplicate body \(shingle similarity/));
+check('content-duplicate-check: distinct bodies are not flagged', !has(issuesOf(dupRep, '_articles/valid-article.md'), /body/));
 check('seo-audit: blocking defects make the tool exit non-zero', audits.some(a => a.status !== 0));
 check('seo-audit: unknown-cluster article flagged (orphan-equivalent)', has(seoIssues, /unknown topic_cluster badcluster/));
 check('seo-audit: valid article produces no finding for itself', issuesOf(seoRep, '_articles/valid-article.md').filter(i => !/internal_link/.test(i)).length === 0, JSON.stringify(issuesOf(seoRep, '_articles/valid-article.md')));
