@@ -4,6 +4,23 @@ title: Motorbike Trips from Hanoi
 permalink: /topics/trips/
 topic_cluster: trips
 description: "Day trips and multi-day motorbike routes from Hanoi: Ninh Binh, Tam Dao, Mai Chau, Ha Giang and the northern loops, with planning, seasons and budgets."
+faq:
+  - q: "What is the most famous motorbike loop in Vietnam?"
+    a: "The Ha Giang loop in the far north: several days of mountain passes along the Chinese border. From Hanoi it is a serious multi-day trip, not a day ride, and the easier day trips below are the right warm-up."
+    link: "/articles/ha-giang-loop-motorbike-guide/"
+    link_text: "Read the Ha Giang loop guide"
+  - q: "How far can I ride in a day from Hanoi?"
+    a: "Plan on an average of about 30 km/h including stops in northern Vietnam. One to two hours out covers Co Loa, Bat Trang and the Thay and Tay Phuong pagodas; the 85–100 km band such as Ninh Binh, Thung Nai or the Hung Kings temples works as a day trip only with an early start."
+    link: "/articles/how-far-motorbike-day-trip-hanoi/"
+    link_text: "Read the day-trip distance guide"
+  - q: "Can motorbikes use expressways in Vietnam?"
+    a: "No. Motorbikes are banned from expressways; riding onto one is fined 4,000,000–6,000,000 VND with six licence points deducted, and map apps in car mode will still route you that way. Use the parallel national roads."
+    link: "/articles/motorbikes-on-expressway-vietnam/"
+    link_text: "Read the expressway rules"
+  - q: "Can I take a rental bike outside Hanoi?"
+    a: "Often yes, but some rentals restrict riding outside the city, so agree it before you sign. Nguyen Tu support is primarily for Hanoi and local use."
+    link: "/articles/rental-motorbike-outside-hanoi/"
+    link_text: "Read about riding a rental outside Hanoi"
 ---
 <p>Hanoi is the starting point for the best motorbike riding in northern Vietnam. Within a day you can reach Ninh Binh, Tam Dao, Ba Vi or the Perfume Pagoda; with a few more days the Mai Chau valley, the Ha Giang and Northeast loops, Cao Bang and Ban Gioc open up. These route guides give distances, road conditions, what to carry and which bike suits each trip, alongside planning guides on seasons, budgets, overnight stays with safe parking and offline navigation. Check with the rental shop before taking a rental bike outside Hanoi.</p>
 

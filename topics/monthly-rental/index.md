@@ -4,6 +4,23 @@ title: Monthly Motorbike Rental
 permalink: /topics/monthly-rental/
 topic_cluster: monthly-rental
 description: "Monthly and long-term motorbike rental in Hanoi for expats, teachers, students and nomads: prices, deposits, agreements and maintenance."
+faq:
+  - q: "How much is a monthly motorbike rental in Hanoi?"
+    a: "Published monthly rates at Nguyen Tu: Honda Click and Yamaha Mio 1,000,000–1,200,000 VND, Honda Air Blade 1,400,000 VND, Honda Vision 1,800,000–2,000,000 VND. Other models and longer terms are quoted on request; contact us to confirm current availability."
+    link: "/articles/motorbike-rental-monthly-price-hanoi/"
+    link_text: "See the monthly price list"
+  - q: "Who should rent monthly rather than daily?"
+    a: "Anyone staying a month or more: expats, English teachers, students and digital nomads. A monthly term costs far less than thirty daily rentals, and longer-term arrangements are negotiable."
+    link: "/articles/monthly-motorbike-rental-hanoi/"
+    link_text: "Read the monthly rental guide"
+  - q: "Who looks after maintenance during a long rental?"
+    a: "Nguyen Tu maintenance may include oil changes, chain adjustment, tyre-pressure checks and normal inspection. Consumables such as inner tubes and tyres may be the renter’s responsibility depending on the situation, and the owner recommends a periodic check around every 1,500 km of use as practical guidance."
+    link: "/articles/maintenance-during-monthly-rental-hanoi/"
+    link_text: "Read the maintenance guide"
+  - q: "Do I need a Vietnamese licence for a long stay?"
+    a: "Short stays run on a home motorcycle licence plus a 1968 Vienna Convention IDP. Residents with at least three months of residence papers can exchange a valid national licence for a Vietnamese one under Circular 12/2025/TT-BCA, which is the expected route for long-termers."
+    link: "/articles/long-term-rider-licence-checklist-hanoi/"
+    link_text: "Use the long-term licence checklist"
 ---
 <p>Monthly motorbike rental in Hanoi is a different product from a tourist daily rental: the per-day cost is lower, a deposit is held for the whole term, and maintenance responsibilities are shared between you and the shop. Nguyen Tu offers monthly terms and longer arrangements by discussion; published monthly rates exist for a handful of models and everything else is quoted on request. These guides cover monthly pricing, which bikes suit daily commuting, what a long-term agreement should say, and how to look after a bike you will ride for months.</p>
 

@@ -1107,5 +1107,17 @@
       "/articles/yamaha-scooter-lineup-vietnam-explained/",
       "/articles/yamaha-vva-variable-valve-timing-explained/"
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "batch": "hub-faq-1",
+    "note": "Common questions section (3-5 Q&A) with FAQPage JSON-LD on the five highest-intent hubs; questions follow the recorded People-also-ask and related searches; every answer restates facts from docs/OWNER-FACTS.md or a VERIFIED article and links the serving guide",
+    "urls": [
+      "/topics/rental/",
+      "/topics/monthly-rental/",
+      "/topics/law-licences/",
+      "/topics/trips/",
+      "/topics/electric/"
+    ]
   }
 ]

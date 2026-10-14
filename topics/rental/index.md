@@ -4,6 +4,27 @@ title: Hanoi Motorbike Rental
 permalink: /topics/rental/
 topic_cluster: rental
 description: "Guides to renting a motorbike in Hanoi: prices, deposits, documents, delivery, and how rental actually works for foreigners."
+faq:
+  - q: "How much does it cost to rent a motorbike in Hanoi?"
+    a: "Published daily rates at Nguyen Tu run 150,000–200,000 VND depending on the model: Honda Wave, Yamaha Sirius, Honda Click and Yamaha Mio are 150,000 VND per day; Honda Vision, Honda Air Blade and the E-Bike are 200,000 VND per day. Weekly and monthly rates are published for the Vision, Air Blade, Click and Mio. Contact us to confirm current availability."
+    link: "/articles/motorbike-rental-price-hanoi/"
+    link_text: "See the full price list"
+  - q: "Can tourists rent a motorbike in Hanoi?"
+    a: "Yes. Shops rent to visitors who bring a passport for the contract and a licence that is valid in Vietnam: a Vietnamese licence, or a home-country motorcycle licence carried together with a 1968 Vienna Convention International Driving Permit. A cash deposit, typically 2,000,000–5,000,000 VND, is standard instead of leaving documents."
+    link: "/articles/can-tourists-rent-a-motorbike-hanoi/"
+    link_text: "Read the honest answer for tourists"
+  - q: "What documents do I need to rent a motorbike?"
+    a: "Two things: your passport, which the shop notes on the rental agreement, and a licence valid for the bike. An International Driving Permit on its own is not enough, and you do not need a residence card, work permit or proof of insurance to rent."
+    link: "/articles/documents-needed-rent-motorbike-hanoi/"
+    link_text: "See the document list"
+  - q: "Is insurance included with a rental motorbike?"
+    a: "Compulsory third-party insurance attaches to the vehicle and is held by the owner. Nguyen Tu does not provide insurance for the rider, so arrange your own travel or medical cover before you ride."
+    link: "/articles/is-insurance-included-motorbike-rental-hanoi/"
+    link_text: "Read the insurance guide"
+  - q: "Does the rental shop keep my passport?"
+    a: "Standard Hanoi practice is a cash deposit, returned in full when the bike comes back in its handover condition. The shop notes your passport number on the contract; it does not need to hold the passport itself."
+    link: "/articles/do-rentals-keep-your-passport-hanoi/"
+    link_text: "Read about passports and deposits"
 ---
 <p>Renting a motorbike in Hanoi comes down to five steps: choose a bike class (automatic scooter, semi-automatic underbone or manual motorcycle), bring your passport and a licence that is valid in Vietnam, agree the price and deposit, inspect the bike, and ride. Hanoi Motorbike Rental Nguyen Tu rents on daily, weekly and monthly terms from 112 Nguyen Van Cu Street in Long Bien, open 09:00&ndash;21:00 daily, and delivery within Hanoi can be arranged depending on location. The guides below cover each step in detail, from the published price list to what to check before you hand over a deposit.</p>
 

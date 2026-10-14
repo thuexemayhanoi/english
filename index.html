@@ -193,7 +193,7 @@ layout: default
       }
     },
     {
-      "@type": "Organization",
+      "@type": ["Organization", "LocalBusiness"],
       "@id": "https://en.rentbikehanoi.com/#organization",
       "name": "Hanoi Motorbike Rental Nguyen Tu",
       "alternateName": "Thuê Xe Máy Hà Nội Nguyễn Tú",
@@ -201,6 +201,8 @@ layout: default
       "logo": "https://en.rentbikehanoi.com/assets/img/logo.svg",
       "telephone": "+84 942 467 674",
       "address": {"@type": "PostalAddress", "streetAddress": "112 Nguyen Van Cu Street, Bo De", "addressLocality": "Long Bien, Hanoi", "addressCountry": "VN"},
+      "openingHoursSpecification": {"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"], "opens": "09:00", "closes": "21:00"},
+      "hasMap": "https://maps.app.goo.gl/A4zJyfbc37eTHveY8?g_st=ic",
       "sameAs": ["https://thuexemaynguyentu.com/", "https://www.facebook.com/chothuexemaynguyentu"]
     }
   ]

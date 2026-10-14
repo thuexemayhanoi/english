@@ -12,8 +12,8 @@ layout: null
   <url><loc>{{ '/privacy/' | absolute_url }}</loc></url>
   <url><loc>{{ '/terms/' | absolute_url }}</loc></url>
   {% assign hub_paths = "/topics/rental/,/topics/monthly-rental/,/topics/scooters/,/topics/motorcycles/,/topics/manual-clutch/,/topics/50cc/,/topics/electric/,/topics/maintenance/,/topics/parts-gear/,/topics/safety/,/topics/law-licences/,/topics/hanoi/,/topics/trips/,/topics/vietnam-travel/" | split: "," %}
-  {% for h in hub_paths %}
-  <url><loc>{{ h | absolute_url }}</loc></url>
+  {% for h in hub_paths %}{% assign hub_cluster = h | remove: "/topics/" | remove: "/" %}{% assign hub_dates = site.articles | where: "topic_cluster", hub_cluster | map: "last_reviewed" | sort %}{% assign hub_lastmod = hub_dates | last %}
+  <url><loc>{{ h | absolute_url }}</loc>{% if hub_lastmod %}<lastmod>{{ hub_lastmod | date: "%Y-%m-%d" }}</lastmod>{% endif %}</url>
   {% endfor %}
   {% for a in site.articles %}
   <url><loc>{{ a.url | absolute_url }}</loc><lastmod>{{ a.last_reviewed }}</lastmod></url>
