@@ -18,6 +18,14 @@ last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
 internal_link_targets: "daily-weekly-monthly-motorbike-rental-hanoi, motorbike-rental-deposit-hanoi, renting-vs-buying-a-motorbike-hanoi, what-is-included-motorbike-rental-hanoi, how-to-book-a-motorbike-rental-hanoi"
+faq_in_body: true
+faq:
+  - q: "Is a monthly rental cheaper than paying by the day?"
+    a: "Yes, where a monthly rate is published. A Honda Click or Yamaha Mio costs 1,000,000-1,200,000 VND for a month against 150,000 VND per day, and a Honda Vision 1,800,000-2,000,000 VND against 200,000 VND per day. Models without a published monthly rate are quoted on request."
+  - q: "Is the deposit part of the rental price?"
+    a: "No. The deposit, typically 2,000,000-5,000,000 VND depending on the bike, is held separately and returned at the end of the rental once the bike is checked."
+  - q: "How can I pay?"
+    a: "Cash, bank transfer and QR payment are accepted. Confirm the method when you book."
 ---
 
 The straight answer on [Hanoi motorbike rental]({{ '/topics/rental/' | relative_url }}) prices, from the published rate card. All figures are VND, all are per bike, and all assume the deposit on top.

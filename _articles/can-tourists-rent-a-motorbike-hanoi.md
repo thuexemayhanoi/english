@@ -18,6 +18,19 @@ last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
 internal_link_targets: "can-foreigners-rent-a-motorbike-hanoi, idp-vietnam-motorbike-rules, 50cc-licence-vietnam, renting-a-motorbike-hanoi-without-licence, can-tourists-ride-motorbike-vietnam"
+faq:
+  - q: "Can I rent a motorbike for just one day?"
+    a: "Yes. Daily rental is standard: published day rates are 150,000–200,000 VND depending on the model, with weekly and monthly terms for longer stays."
+    link: "/articles/motorbike-rental-price-hanoi/"
+    link_text: "See the price list"
+  - q: "Do I need travel insurance to rent?"
+    a: "Not to rent, but you should have it to ride. Nguyen Tu does not provide rider insurance; compulsory third-party cover belongs to the vehicle, so arrange your own travel or medical policy that covers motorbikes."
+    link: "/articles/do-you-need-insurance-to-ride-vietnam/"
+    link_text: "Read the insurance guide"
+  - q: "Will the shop deliver the bike to my hotel?"
+    a: "Delivery within Hanoi may be available depending on location and arrangement, inside the 09:00–21:00 opening hours. Ask when you confirm availability, or collect from the shop at 112 Nguyen Van Cu Street, Long Bien."
+    link: "/articles/motorbike-rental-pickup-or-delivery-hanoi/"
+    link_text: "Compare pickup and delivery"
 ---
 
 Tourists rent motorbikes in Hanoi constantly. Whether a tourist can ride one legally is a different question with a clean answer.

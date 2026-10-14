@@ -43,6 +43,21 @@ layout: default
         {{ content }}
       </div>
 
+      {% if page.faq and page.faq.size > 0 %}
+      {% unless page.faq_in_body %}
+      <section class="article-faq" aria-labelledby="article-faq-heading">
+        <h2 id="article-faq-heading">Common questions</h2>
+        {% for item in page.faq %}
+        <h3>{{ item.q }}</h3>
+        <p>{{ item.a }}{% if item.link %} <a href="{{ item.link | relative_url }}">{{ item.link_text | default: "Read more" }}</a>.{% endif %}</p>
+        {% endfor %}
+      </section>
+      {% endunless %}
+      <script type="application/ld+json">
+      {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{% for item in page.faq %}{"@type":"Question","name":{{ item.q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ item.a | jsonify }}}}{% unless forloop.last %},{% endunless %}{% endfor %}]}
+      </script>
+      {% endif %}
+
       {% if page.sources %}
       <section class="article-sources" aria-label="Sources">
         <h2>Sources</h2>

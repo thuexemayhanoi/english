@@ -321,6 +321,48 @@
         }
       ],
       "note": "Technical health only (raw HTML, no JS, no Core Web Vitals); rankings/traffic for the domain remain unmeasured by every connector on this date."
+    },
+    {
+      "tool": "Ubersuggest site_audit",
+      "date": "2026-10-14",
+      "domain": "en.rentbikehanoi.com",
+      "commit": "1cc14ef",
+      "pages_crawled": 150,
+      "overall_score": 90,
+      "health": {
+        "successful": 150,
+        "broken": 0,
+        "redirected": 0,
+        "blocked": 0
+      },
+      "errors": [
+        {
+          "issue": "content_count_words",
+          "pages": 1,
+          "sample": "/search/",
+          "review": "utility search page (125 words); stays indexable by site rule, no change"
+        }
+      ],
+      "warnings": [
+        {
+          "issue": "title_long",
+          "pages": 111,
+          "review": "the tool measures the full <title> including the \" | Hanoi Motorbike Guide\" suffix; fixed in pass 6 by appending the suffix only when the whole title fits 65 characters"
+        },
+        {
+          "issue": "title_short",
+          "pages": 1,
+          "sample": "/",
+          "review": "homepage title was the bare site name (21 chars); fixed in pass 6 with a keyword-bearing title tag"
+        },
+        {
+          "issue": "seo_non_friendly_url",
+          "pages": 2,
+          "sample": "/articles/, /articles/balancing-pillion-riding-motorbike-vietnam/",
+          "review": "URLs are never changed; both are clean lowercase hyphenated paths, treated as a tool heuristic"
+        }
+      ],
+      "note": "Technical crawl of the first 150 URLs; no rankings or traffic are measurable for the domain on this date."
     }
   ]
 }

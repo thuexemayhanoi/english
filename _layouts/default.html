@@ -5,11 +5,16 @@
   <meta name="google-site-verification" content="OIuEOzJFgjt8nxN2rgZaFNIW2n3fEMrC8iSrZdFHGDI" />
   <meta name="google-site-verification" content="4Q_SglVzw-B7lnk_qs1yXOuMAL1zu6bSSmFsDuaOkuQ" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  {%- comment -%} Title tag: page.title_tag wins; otherwise "page title | site title" when the whole string fits 65 characters, else the page title alone (search engines truncate around 60 characters, so a long page title keeps its keywords instead of an ellipsis). {%- endcomment -%}
+  {%- assign title_tag = site.title -%}
+  {%- if page.title_tag -%}{%- assign title_tag = page.title_tag -%}
+  {%- elsif page.title -%}{%- assign full_title = page.title | append: " | " | append: site.title -%}{%- if full_title.size <= 65 -%}{%- assign title_tag = full_title -%}{%- else -%}{%- assign title_tag = page.title -%}{%- endif -%}{%- endif -%}
+  <title>{{ title_tag }}</title>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   {%- assign share_title = site.title -%}
   {%- if page.title %}{% assign share_title = page.title | strip_html %}{% endif -%}
+  {%- if page.title_tag %}{% assign share_title = page.title_tag | strip_html %}{% endif -%}
   {%- assign share_desc = site.description -%}
   {%- if page.description %}{% assign share_desc = page.description | strip_html %}{% endif -%}
   <meta property="og:type" content="{% if page.layout == 'article' %}article{% else %}website{% endif %}">

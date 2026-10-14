@@ -18,6 +18,19 @@ last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
 internal_link_targets: "motorbike-rental-monthly-price-hanoi, motorbike-rental-deposit-monthly-hanoi, motorbike-rental-agreement-long-term-hanoi, daily-weekly-monthly-motorbike-rental-hanoi, maintenance-during-monthly-rental-hanoi"
+faq:
+  - q: "Can I extend a monthly rental?"
+    a: "Yes. Longer terms are negotiable; contact Nguyen Tu before your end date to agree the extension and the rate."
+    link: "/articles/extending-motorbike-rental-hanoi/"
+    link_text: "Read the extension guide"
+  - q: "What deposit applies to a monthly rental?"
+    a: "The same as any rental: typically 2,000,000–5,000,000 VND depending on the bike and conditions, held separately from the rent and returned when the bike comes back in its handover condition."
+    link: "/articles/motorbike-rental-deposit-monthly-hanoi/"
+    link_text: "Read the monthly deposit guide"
+  - q: "Is there a refund if I return the bike early?"
+    a: "There is no automatic refund for unused time, so choose the period you are confident about and extend if you need longer."
+    link: "/articles/extending-motorbike-rental-hanoi/"
+    link_text: "See how extensions work"
 ---
 
 [Monthly rental]({{ '/topics/monthly-rental/' | relative_url }}) is a different product from a daily rental, not just a longer version of it. The terms, the relationship with the shop, and the things that can go wrong all change at month scale. Here is how the monthly product actually works in Hanoi.

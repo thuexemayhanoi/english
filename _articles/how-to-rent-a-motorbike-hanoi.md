@@ -18,6 +18,19 @@ last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
 internal_link_targets: "motorbike-rental-requirements-hanoi, documents-needed-rent-motorbike-hanoi, motorbike-rental-deposit-hanoi, rental-motorbike-inspection-checklist, how-to-book-a-motorbike-rental-hanoi, motorbike-rental-price-hanoi"
+faq:
+  - q: "How can I pay for the rental?"
+    a: "Cash, bank transfer and QR payment are accepted. Confirm the method when you book."
+    link: "/articles/motorbike-rental-price-hanoi/"
+    link_text: "See the published prices"
+  - q: "What happens if I return the bike late?"
+    a: "Late return is charged at 20,000 VND per hour. More than six hours late, a full additional rental day may be charged, typically 150,000–200,000 VND depending on the motorbike."
+    link: "/articles/late-return-rental-motorbike-hanoi/"
+    link_text: "Read the late-return guide"
+  - q: "Can the bike be delivered to me?"
+    a: "Delivery and pickup within Hanoi may be available depending on your location and the arrangement, inside the 09:00–21:00 opening hours. Ask when you confirm availability."
+    link: "/articles/motorbike-rental-pickup-or-delivery-hanoi/"
+    link_text: "Compare pickup and delivery"
 ---
 
 [Renting a motorbike in Hanoi]({{ '/topics/rental/' | relative_url }}) is a five-minute transaction at most shops once you know the sequence. This is the process from search to riding away.

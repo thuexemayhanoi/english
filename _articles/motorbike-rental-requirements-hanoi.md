@@ -18,6 +18,19 @@ last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
 internal_link_targets: "documents-needed-rent-motorbike-hanoi, can-foreigners-rent-a-motorbike-hanoi, renting-a-motorbike-hanoi-without-licence, minimum-age-ride-motorbike-vietnam, motorbike-rental-deposit-hanoi"
+faq:
+  - q: "Do I need an International Driving Permit?"
+    a: "If you ride on a foreign licence, yes: a 1968 Vienna Convention IDP carried together with the national motorcycle licence it translates. A permit on its own, or one issued under the 1949 convention, does not make you legal."
+    link: "/articles/idp-vietnam-motorbike-rules/"
+    link_text: "Read the IDP rules"
+  - q: "Is there a minimum age to rent and ride?"
+    a: "The A1 licence, which covers rental scooters up to 125 cc, requires age 18. Mopeds of 50 cc or less and electric machines of 4 kW or less can be ridden from 16 without a licence."
+    link: "/articles/minimum-age-ride-motorbike-vietnam/"
+    link_text: "Read the minimum-age guide"
+  - q: "Can I ride a rental scooter on a car licence?"
+    a: "No. A car licence, Vietnamese or foreign, covers no motorbike above the licence-free moped line; riding a 110–125 cc scooter on it is fined in the same band as having no licence, 2,000,000–4,000,000 VND."
+    link: "/articles/ride-125cc-with-car-licence-vietnam/"
+    link_text: "Read the car-licence answer"
 ---
 
 [Shops in Hanoi]({{ '/topics/rental/' | relative_url }}) ask for very little before handing over a bike. The law asks for more. Here is the honest split between the two.

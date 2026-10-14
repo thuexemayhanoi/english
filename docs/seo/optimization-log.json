@@ -1119,5 +1119,25 @@
       "/topics/trips/",
       "/topics/electric/"
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "batch": "article-faq-1",
+    "note": "Common questions (3 Q&A each) with FAQPage JSON-LD on the five money articles, answered from docs/OWNER-FACTS.md and VERIFIED articles; the price article keeps its existing in-body FAQ and only gains the schema (faq_in_body)",
+    "urls": [
+      "/articles/how-to-rent-a-motorbike-hanoi/",
+      "/articles/motorbike-rental-requirements-hanoi/",
+      "/articles/monthly-motorbike-rental-hanoi/",
+      "/articles/can-tourists-rent-a-motorbike-hanoi/",
+      "/articles/motorbike-rental-price-hanoi/"
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "batch": "title-tag",
+    "note": "homepage title tag names the primary keyword (Hanoi Motorbike Guide: Motorbike Rental, Laws and Riding Tips); the shared layout now appends the brand suffix only when the whole title fits 65 characters, so long page titles keep their keywords instead of an ellipsis (0 of 1,003 rendered titles over 65 characters, was 111 of 150 crawled)",
+    "urls": [
+      "/"
+    ]
   }
 ]

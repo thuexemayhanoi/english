@@ -2789,7 +2789,7 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - title rewritten to <=65 chars, primary keyword kept, near-duplicate pairs differentiated (can-tourists-rent-a-motorbike-hanoi kept free of the word licence so the Guide Assistant keeps answering the tourist-licence question from the licence paragraph); meta description rewritten to <=165 chars with the primary keyword and a direct answer; descriptive guide references resolved into contextual links, pass 2 (reviewed override map + same-cluster fallback; scripts/link-guide-references.js)",
+   "status": "OPTIMIZED 2026-10-14 - title rewritten to <=65 chars, primary keyword kept, near-duplicate pairs differentiated (can-tourists-rent-a-motorbike-hanoi kept free of the word licence so the Guide Assistant keeps answering the tourist-licence question from the licence paragraph); meta description rewritten to <=165 chars with the primary keyword and a direct answer; descriptive guide references resolved into contextual links, pass 2 (reviewed override map + same-cluster fallback; scripts/link-guide-references.js); Common questions (3 Q&A each) with FAQPage JSON-LD on the five money articles, answered from docs/OWNER-FACTS.md and VERIFIED articles; the price article keeps its existing in-body FAQ and only gains the schema (faq_in_body)",
    "evidence": "title_len=57; desc_len=127 || words=348; h2=4; tables=0; sources=1; body_links=1 || related_out=5; related_in=3; body_in=1 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
