@@ -1,0 +1,37 @@
+# Hanoi Motorbike Guide (en.rentbikehanoi.com)
+
+> English-language guides on renting and riding a motorbike in Hanoi and Vietnam, published by Hanoi Motorbike Rental Nguyen Tu, a motorbike rental shop at 112 Nguyen Van Cu Street, Bo De, Long Bien, Hanoi, Vietnam (open 09:00-21:00 daily; phone, WhatsApp and Zalo +84 942 467 674). 981 verified guides across 14 topics, written for tourists, expats, teachers and students. Business facts (prices, deposit, hours, policies) are owner-approved; legal guides cite the primary Vietnamese sources (Law 36/2024/QH15, Decree 168/2024/ND-CP) and show their review date.
+
+## Start here
+
+- [Hanoi Motorbike Rental](https://en.rentbikehanoi.com/topics/rental/): how renting works, published prices, documents, deposits, delivery
+- [Monthly Motorbike Rental](https://en.rentbikehanoi.com/topics/monthly-rental/): monthly rates and long-stay rental for expats, teachers and students
+- [Vietnam Motorbike Laws and Licences](https://en.rentbikehanoi.com/topics/law-licences/): A1 and A licence classes, IDP rules for foreigners, fines
+- [Customer FAQ](https://en.rentbikehanoi.com/faq/): 52 answers on prices, licences, deposits, 50cc and electric bikes, delivery and safety
+- [Contact Nguyen Tu](https://en.rentbikehanoi.com/contact/): address, hours, phone, WhatsApp, Zalo, map
+- [About](https://en.rentbikehanoi.com/about/): who publishes this site and how facts are verified
+
+## Topics
+
+- [Scooters](https://en.rentbikehanoi.com/topics/scooters/): Honda Vision, Air Blade, Click, Yamaha Mio and other automatics, reviewed and compared
+- [Motorcycles](https://en.rentbikehanoi.com/topics/motorcycles/): underbones and manual motorcycles sold in Vietnam, verified specifications
+- [Manual and Clutch Motorcycles](https://en.rentbikehanoi.com/topics/manual-clutch/): riding semi-automatic and manual bikes
+- [50cc Motorbikes](https://en.rentbikehanoi.com/topics/50cc/): the licence-free moped class, who it suits, its limits
+- [Electric Motorbikes and E-Bikes](https://en.rentbikehanoi.com/topics/electric/): legal classes, charging, batteries, VinFast and Dat Bike models
+- [Maintenance and Repair](https://en.rentbikehanoi.com/topics/maintenance/): oil, chain, tyres, brakes and what rental maintenance covers
+- [Parts and Riding Gear](https://en.rentbikehanoi.com/topics/parts-gear/): helmets, clothing, luggage, genuine parts
+- [Riding Skills and Safety](https://en.rentbikehanoi.com/topics/safety/): Hanoi traffic, rain, night riding, braking, mountain passes
+- [Hanoi Travel](https://en.rentbikehanoi.com/topics/hanoi/): districts, parking, routes and landmarks by motorbike
+- [Motorbike Trips from Hanoi](https://en.rentbikehanoi.com/topics/trips/): day trips and multi-day routes, Ha Giang loop
+- [Vietnam Travel by Motorbike](https://en.rentbikehanoi.com/topics/vietnam-travel/): renting around Vietnam, one-way trips, borders
+
+## Key facts (owner-approved)
+
+- Published daily rates: Honda Wave, Yamaha Sirius, Honda Click, Yamaha Mio 150,000 VND; Honda Vision, Honda Air Blade, E-Bike 200,000 VND. Weekly and monthly rates are published for the Vision, Air Blade, Click and Mio; other models on request.
+- Deposit typically 2,000,000-5,000,000 VND depending on the bike; the shop does not hold passports. Late return 20,000 VND per hour. Nguyen Tu does not provide rider insurance. Payment by cash, bank transfer or QR.
+- Riding legally in Vietnam needs a Vietnamese licence or a home motorcycle licence with a 1968 Vienna Convention IDP; a new A1 covers up to 125 cc; mopeds of 50 cc or less and electric machines of 4 kW or less are licence-free from age 16.
+
+## Machine-readable
+
+- [Sitemap](https://en.rentbikehanoi.com/sitemap.xml)
+- [All guides](https://en.rentbikehanoi.com/articles/)

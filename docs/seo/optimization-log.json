@@ -1194,5 +1194,14 @@
     "batch": "engine-audit-matrix-2",
     "note": "Weapon 02: the matrix now carries a content gap register (every recorded People-also-ask question and related search resolved to its serving URL by its distinctive words; 4 of 55 unserved, all off-topic). Weapon 03: content-duplicate-check compares article bodies inside each cluster with five-word shingles (P3 from 0.30, P2 from 0.60; 39,528 pairs, 0 findings), with a fixture test (31/31).",
     "urls": []
+  },
+  {
+    "date": "2026-10-14",
+    "batch": "ai-search-1",
+    "note": "Weapon 04 (AI search optimizer): llms.txt guide for AI crawlers (site purpose, hubs, owner-approved key facts, sitemap); Organization entity enriched with areaServed, contactPoint and knowsAbout; FAQPage on all 14 hubs, the five money articles and /faq/; AI-visibility prompts tracked monthly in Ubersuggest",
+    "urls": [
+      "/",
+      "/llms.txt"
+    ]
   }
 ]
