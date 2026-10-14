@@ -1,0 +1,65 @@
+{
+  "_about": "Hand-authored keyword-to-URL ownership map for the English SEO Master Matrix (scripts/english-seo-matrix.js). One URL owns each keyword family; variants and supporting URLs are listed explicitly so no two URLs compete for the same primary query. Volumes are deliberately NOT recorded: no English Google Search Console export exists yet (docs/SOURCE-MAP.md). Business/service claims follow docs/OWNER-FACTS.md only.",
+  "_rules": [
+    "Only services actually offered are targeted: daily/weekly/monthly rental, Hanoi delivery by arrangement, WhatsApp/Zalo/phone/walk-in booking. There is no booking app and no online payment; keywords about apps/online booking are served honestly by the booking guide.",
+    "Model availability is never implied; every owner URL defers to 'Contact us to confirm current availability'.",
+    "A keyword marked gap:true has no dedicated article and must NOT get a new one (production plan complete). It is served by the nearest existing URL.",
+    "Owner URLs never change; only titles, descriptions, body content and internal links may be improved."
+  ],
+  "groups": [
+    {
+      "group": "Core Keywords",
+      "keywords": [
+        {"keyword": "Hanoi motorbike rental", "owner": "/topics/rental/", "intent": "commercial", "supporting": ["/articles/how-to-rent-a-motorbike-hanoi/", "/articles/motorbike-rental-price-hanoi/", "/articles/motorbike-rental-requirements-hanoi/", "/articles/best-scooters-to-rent-hanoi/"]},
+        {"keyword": "Motorbike rental Hanoi", "owner": "/topics/rental/", "intent": "commercial", "variant_of": "Hanoi motorbike rental"},
+        {"keyword": "Motorcycle rental Hanoi", "owner": "/topics/rental/", "intent": "commercial", "variant_of": "Hanoi motorbike rental"},
+        {"keyword": "Best motorbike rental Hanoi", "owner": "/topics/rental/", "intent": "commercial", "variant_of": "Hanoi motorbike rental", "note": "Shop-selection intent. Served by the hub plus trust pages; never claim rankings, awards or reviews (OWNER-FACTS)."},
+        {"keyword": "Rent a motorbike in Hanoi", "owner": "/articles/how-to-rent-a-motorbike-hanoi/", "intent": "informational", "supporting": ["/articles/first-time-renting-a-motorbike-hanoi/", "/articles/how-to-book-a-motorbike-rental-hanoi/"]},
+        {"keyword": "Hanoi scooter rental", "owner": "/articles/best-scooters-to-rent-hanoi/", "intent": "commercial", "supporting": ["/topics/scooters/", "/articles/scooter-vs-semi-automatic-hanoi/"]},
+        {"keyword": "Cheap motorbike rental Hanoi", "owner": "/articles/motorbike-rental-price-hanoi/", "intent": "commercial", "variant_of": "Hanoi motorbike rental prices", "note": "Served by the published price table only; no discount or promotion wording (OWNER-FACTS)."}
+      ]
+    },
+    {
+      "group": "Rental Services",
+      "keywords": [
+        {"keyword": "Hanoi motorbike rental delivery", "owner": "/articles/motorbike-rental-pickup-or-delivery-hanoi/", "intent": "commercial", "supporting": ["/articles/motorbike-delivery-old-quarter/", "/articles/motorbike-delivery-long-bien/", "/articles/delivery-pickup-monthly-rental-hanoi/"], "note": "Delivery may be available depending on location and arrangement; never promise free delivery, fixed fees or delivery times."},
+        {"keyword": "Motorbike rental with hotel delivery", "owner": "/articles/motorbike-delivery-old-quarter/", "intent": "commercial", "supporting": ["/articles/motorbike-rental-pickup-or-delivery-hanoi/", "/articles/hotel-parking-motorbike-hanoi/"]},
+        {"keyword": "Motorbike rental Hanoi Old Quarter", "owner": "/articles/renting-motorbike-old-quarter/", "intent": "commercial", "supporting": ["/articles/motorbike-delivery-old-quarter/", "/articles/best-bike-for-hanoi-old-quarter/", "/articles/renting-motorbike-hoan-kiem/"]},
+        {"keyword": "Monthly motorbike rental Hanoi", "owner": "/articles/monthly-motorbike-rental-hanoi/", "intent": "commercial", "supporting": ["/topics/monthly-rental/", "/articles/motorbike-rental-monthly-price-hanoi/", "/articles/monthly-motorbike-rental-requirements-hanoi/"]},
+        {"keyword": "Long term motorbike rental Hanoi", "owner": "/topics/monthly-rental/", "intent": "commercial", "supporting": ["/articles/renting-motorbike-six-months-hanoi/", "/articles/renting-motorbike-year-hanoi/", "/articles/three-month-motorbike-rental-hanoi/"]},
+        {"keyword": "Weekly motorbike rental Hanoi", "owner": "/articles/weekly-vs-monthly-motorbike-rental-hanoi/", "intent": "commercial", "supporting": ["/articles/daily-weekly-monthly-motorbike-rental-hanoi/"]},
+        {"keyword": "Daily scooter rental Hanoi", "owner": "/articles/renting-motorbike-hanoi-one-day/", "intent": "commercial", "supporting": ["/articles/daily-weekly-monthly-motorbike-rental-hanoi/", "/articles/best-scooters-to-rent-hanoi/"]},
+        {"keyword": "Motorbike rental app Hanoi", "owner": "/articles/how-to-book-a-motorbike-rental-hanoi/", "intent": "commercial", "note": "No app exists. The booking guide answers the query honestly: WhatsApp, Zalo, phone or walk-in."},
+        {"keyword": "Online motorbike booking Hanoi", "owner": "/articles/how-to-book-a-motorbike-rental-hanoi/", "intent": "commercial", "variant_of": "Motorbike rental app Hanoi"}
+      ]
+    },
+    {
+      "group": "Vehicle Categories",
+      "keywords": [
+        {"keyword": "50cc motorbike rental Hanoi", "owner": "/articles/renting-50cc-hanoi/", "intent": "commercial", "supporting": ["/topics/50cc/", "/articles/can-foreigners-ride-50cc-vietnam/"], "note": "50cc price is contact-only (OWNER-FACTS)."},
+        {"keyword": "50cc scooter rental Hanoi", "owner": "/articles/renting-50cc-hanoi/", "intent": "commercial", "variant_of": "50cc motorbike rental Hanoi"},
+        {"keyword": "Honda Cub rental Hanoi", "owner": "/articles/riding-honda-super-cub-c125-vietnam/", "intent": "informational", "gap": true, "note": "No Cub appears in the approved price list, so no rental page is created or implied; the riding guide serves the query and availability is contact-only."},
+        {"keyword": "Automatic scooter rental Hanoi", "owner": "/articles/best-scooters-to-rent-hanoi/", "intent": "commercial", "variant_of": "Hanoi scooter rental", "supporting": ["/articles/automatic-vs-manual-motorbike-hanoi/"]},
+        {"keyword": "Semi automatic motorbike rental Hanoi", "owner": "/articles/renting-semi-automatic-underbone-hanoi/", "intent": "commercial", "supporting": ["/articles/scooter-vs-semi-automatic-hanoi/", "/topics/manual-clutch/"]},
+        {"keyword": "Electric motorbike rental Hanoi", "owner": "/articles/can-foreigners-rent-electric-bike-vietnam/", "intent": "commercial", "supporting": ["/articles/e-bike-monthly-rental-hanoi/", "/topics/electric/"], "note": "Only the E-Bike day rate is published; weekly/monthly electric rates are contact-only."},
+        {"keyword": "VinFast electric scooter rental Hanoi", "owner": "/articles/can-foreigners-rent-electric-bike-vietnam/", "intent": "commercial", "variant_of": "Electric motorbike rental Hanoi", "gap": true, "note": "No VinFast rental model is in the approved fleet list; availability is contact-only. Supporting lineup guide: /articles/vinfast-electric-scooter-lineup-vietnam/."},
+        {"keyword": "Motorbike rental without a license Hanoi", "owner": "/articles/renting-a-motorbike-hanoi-without-licence/", "intent": "informational", "supporting": ["/articles/renting-50cc-hanoi/", "/articles/can-foreigners-ride-50cc-vietnam/", "/articles/no-licence-fine-vietnam/"]}
+      ]
+    },
+    {
+      "group": "Travel & Local Intent",
+      "keywords": [
+        {"keyword": "Hanoi Old Quarter motorbike rental", "owner": "/articles/renting-motorbike-old-quarter/", "intent": "commercial", "variant_of": "Motorbike rental Hanoi Old Quarter"},
+        {"keyword": "Hoan Kiem motorbike rental", "owner": "/articles/renting-motorbike-hoan-kiem/", "intent": "commercial", "supporting": ["/articles/exploring-hoan-kiem-by-motorbike/"]},
+        {"keyword": "Tay Ho motorbike rental", "owner": "/articles/renting-motorbike-tay-ho/", "intent": "commercial", "supporting": ["/articles/tay-ho-west-lake-area-guide-riders/"]},
+        {"keyword": "Motorbike rental near Hanoi hotels", "owner": "/articles/motorbike-rental-pickup-or-delivery-hanoi/", "intent": "commercial", "variant_of": "Hanoi motorbike rental delivery", "supporting": ["/articles/hotel-parking-motorbike-hanoi/"]},
+        {"keyword": "Hanoi motorbike travel guide", "owner": "/topics/hanoi/", "intent": "informational", "supporting": ["/articles/west-lake-loop-motorbike-route/", "/articles/exploring-hoan-kiem-by-motorbike/", "/articles/where-to-park-motorbike-hanoi/"]},
+        {"keyword": "Renting a motorbike in Vietnam", "owner": "/topics/vietnam-travel/", "intent": "informational", "supporting": ["/articles/can-tourists-ride-motorbike-vietnam/", "/articles/renting-vs-buying-motorbike-vietnam-long-trip/", "/articles/one-way-motorbike-rental-vietnam/"]},
+        {"keyword": "Hanoi motorbike rental prices", "owner": "/articles/motorbike-rental-price-hanoi/", "intent": "commercial", "supporting": ["/articles/motorbike-rental-monthly-price-hanoi/", "/articles/motorbike-rental-deposit-hanoi/"]},
+        {"keyword": "Hanoi motorbike rental requirements", "owner": "/articles/motorbike-rental-requirements-hanoi/", "intent": "informational", "supporting": ["/articles/documents-needed-rent-motorbike-hanoi/", "/articles/can-tourists-rent-a-motorbike-hanoi/"]},
+        {"keyword": "Hanoi motorbike rental for foreigners", "owner": "/articles/can-foreigners-rent-a-motorbike-hanoi/", "intent": "informational", "supporting": ["/articles/motorbike-rental-tourists-hanoi-essentials/", "/articles/can-tourists-ride-motorbike-vietnam/"]},
+        {"keyword": "Hanoi motorcycle routes and safety", "owner": "/topics/safety/", "intent": "informational", "supporting": ["/topics/trips/", "/articles/riding-hanoi-old-quarter-narrow-streets/", "/articles/west-lake-loop-motorbike-route/"]}
+      ]
+    }
+  ]
+}

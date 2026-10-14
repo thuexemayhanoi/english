@@ -1,0 +1,28 @@
+{
+  "_about": "Recorded third-party keyword evidence consumed by scripts/english-seo-matrix.js (Evidence column). Every figure below was returned by a named tool on the stated date; nothing is estimated or extrapolated. Google Search Console for en.rentbikehanoi.com is still not connected (OpenRush and OpenSEO both report no connected property), so no first-party click/impression data exists for the English site yet.",
+  "_source": {
+    "tool": "Ubersuggest keyword_suggestions (free tier, global English, no location filter)",
+    "retrieved": "2026-10-14",
+    "calls": [
+      "seeds: motorbike rental hanoi | scooter rental hanoi | monthly motorbike rental hanoi",
+      "seeds: rent motorbike hanoi | motorbike rental vietnam | motorbike rental hanoi old quarter"
+    ],
+    "notes": [
+      "volume = Ubersuggest monthly search volume (global); pd = paid difficulty; sd (SEO difficulty) was not returned on the free tier.",
+      "Ubersuggest reports 0 volume for 'monthly motorbike rental hanoi', 'long term motorbike rental vietnam' and '50cc motorbike rental vietnam'. A zero here means the tool has no data, not proof of zero demand; owner history records monthly rental as a recurring real enquiry theme (docs/CUSTOMER-INTENTS.md).",
+      "Competitor brand-name queries returned by the tool (other rental shops) are deliberately not recorded."
+    ]
+  },
+  "/topics/rental/": {"keyword": "motorbike rental hanoi", "volume": 2900, "cpc_usd": 0.32, "paid_difficulty": 34, "also": {"rent motorbike hanoi": 2900, "motorbike rental hanoi vietnam": 2900, "motorbike rental hanoi near me": 20, "best motorbike rental hanoi": 10}, "source": "Ubersuggest 2026-10-14"},
+  "/articles/how-to-rent-a-motorbike-hanoi/": {"keyword": "rent motorbike hanoi", "volume": 2900, "cpc_usd": 0.32, "paid_difficulty": 34, "source": "Ubersuggest 2026-10-14"},
+  "/articles/best-scooters-to-rent-hanoi/": {"keyword": "scooter rental hanoi", "volume": 480, "cpc_usd": 0.315, "paid_difficulty": 53, "also": {"scooter rental hanoi price": 20, "scooter rental hanoi old quarter": 20}, "source": "Ubersuggest 2026-10-14"},
+  "/articles/renting-motorbike-old-quarter/": {"keyword": "motorbike rental hanoi old quarter", "volume": 40, "cpc_usd": 0.365, "paid_difficulty": 63, "also": {"scooter rental hanoi old quarter": 20}, "source": "Ubersuggest 2026-10-14"},
+  "/articles/motorbike-rental-price-hanoi/": {"keyword": "motorbike rental hanoi price", "volume": 10, "also": {"scooter rental hanoi price": 20}, "source": "Ubersuggest 2026-10-14"},
+  "/articles/renting-50cc-hanoi/": {"keyword": "50cc scooter rental hanoi", "volume": 30, "cpc_usd": 0.315, "paid_difficulty": 73, "also": {"50cc motorbike rental hanoi": "returned without volume"}, "source": "Ubersuggest 2026-10-14"},
+  "/articles/can-foreigners-rent-electric-bike-vietnam/": {"keyword": "electric scooter rental hanoi", "volume": 10, "cpc_usd": 0.37, "paid_difficulty": 63, "also": {"electric motorbike rental hanoi": "returned without volume", "e scooter rental hanoi": "returned without volume"}, "source": "Ubersuggest 2026-10-14"},
+  "/articles/monthly-motorbike-rental-hanoi/": {"keyword": "monthly motorbike rental hanoi", "volume": 0, "note": "tool has no volume data; owner history records monthly rental as a recurring real enquiry theme", "source": "Ubersuggest 2026-10-14"},
+  "/topics/monthly-rental/": {"keyword": "long term motorbike rental vietnam", "volume": 0, "note": "tool has no volume data; owner history records long-term rental as a recurring real enquiry theme", "source": "Ubersuggest 2026-10-14"},
+  "/topics/vietnam-travel/": {"keyword": "motorbike rental vietnam", "volume": 5400, "cpc_usd": 0.305, "paid_difficulty": 9, "also": {"one way motorbike rental vietnam": 50, "motorbike rental vietnam hanoi": 10, "motorbike rental vietnam ho chi minh": 20}, "source": "Ubersuggest 2026-10-14"},
+  "/articles/one-way-motorbike-rental-vietnam/": {"keyword": "one way motorbike rental vietnam", "volume": 50, "cpc_usd": 0.47, "paid_difficulty": 17, "also": {"rent motorbike hanoi to ho chi minh": 30, "motorbike rental hanoi to ho chi minh": 30}, "source": "Ubersuggest 2026-10-14"},
+  "/articles/renting-motorbike-ho-chi-minh-city/": {"keyword": "motorbike rental vietnam ho chi minh", "volume": 20, "cpc_usd": 0.215, "paid_difficulty": 21, "source": "Ubersuggest 2026-10-14"}
+}

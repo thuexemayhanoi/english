@@ -1,0 +1,10 @@
+# Jekyll build output and caches (CI builds into ./_site; never committed)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Generated per-run engine outputs that are uploaded as workflow artifacts, not committed
+reports/seo/
+reports/rendered-site-audit.json
+reports/maintenance.json

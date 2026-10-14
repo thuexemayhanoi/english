@@ -155,10 +155,19 @@ function findH1s(text) {
   return out.filter(Boolean);
 }
 
+// Resolve the house-style Liquid URL filters to their site-root path before any
+// other Liquid is stripped, so links written as
+//   [text]({{ '/articles/slug/' | relative_url }})  or  href="{{ '/topics/x/' | relative_url }}"
+// are audited like plain root-relative links instead of disappearing.
+function resolveLiquidUrls(s) {
+  return s.replace(/\{\{\s*['"]([^'"]+)['"]\s*\|\s*(?:relative_url|absolute_url)\s*\}\}/g, '$1');
+}
+
 function extractLinks(body) {
   const links = [];
-  for (const m of stripLiquid(body).matchAll(/\]\(([^)]+)\)/g)) links.push(m[1]);
-  for (const m of stripLiquid(body).matchAll(/href="([^"]+)"/g)) links.push(m[1]);
+  const text = stripLiquid(resolveLiquidUrls(body));
+  for (const m of text.matchAll(/\]\(([^)\s]+)(?:\s+"[^"]*")?\)/g)) links.push(m[1]);
+  for (const m of text.matchAll(/href="([^"]+)"/g)) links.push(m[1]);
   return links;
 }
 
