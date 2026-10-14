@@ -140,6 +140,12 @@ const evidenceMap = readJSON(path.join(OUT_DIR, 'keyword-evidence.json'), null);
 const linkRepair = readJSON(path.join(L.ROOT, 'reports', 'link-bare-slugs.json'), null);
 const linkRepairByFile = {};
 if (linkRepair && linkRepair.mode === 'apply') for (const f of linkRepair.perFile || []) linkRepairByFile[f.file] = { links: f.links, date: String(linkRepair.generated || '').slice(0, 10) };
+// docs/seo/optimization-log.json records verified optimisation batches:
+// [{ date, batch, note, urls: [...] }]. A URL in one or more batches shows
+// OPTIMIZED with every batch note, unless matrix-status.json overrides it.
+const optLog = readJSON(path.join(OUT_DIR, 'optimization-log.json'), []);
+const optByUrl = {};
+for (const b of Array.isArray(optLog) ? optLog : []) for (const u of b.urls || []) (optByUrl[u] = optByUrl[u] || []).push({ date: b.date, note: b.note || b.batch });
 
 // Site config (homepage falls back to site title/description).
 const cfg = fs.readFileSync(path.join(L.ROOT, '_config.yml'), 'utf8');
@@ -282,9 +288,13 @@ function buildRow(x) {
   for (const t of (Array.isArray(x.tags) ? x.tags : [])) if (secondary.length < 10 && !secondary.includes(t)) secondary.push(t);
   const st = statusMap[x.url] || statusMap[x.slug];
   const repair = x.file ? linkRepairByFile[x.file] : null;
+  const opts = optByUrl[x.url] || [];
+  const optText = opts.length ? 'OPTIMIZED ' + opts[opts.length - 1].date + ' - ' + opts.map(o => o.note).join('; ') : '';
+  const repairText = repair ? repair.links + ' bare slug reference(s) converted to contextual links' : '';
   const status = st ? (st.status + (st.date ? ' ' + st.date : '') + (st.note ? ' - ' + st.note : ''))
-    : x.reviewRequired ? 'REVIEW_REQUIRED (awaiting owner re-verification)'
-    : repair ? 'LINKS_REPAIRED ' + repair.date + ' - ' + repair.links + ' bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)'
+    : x.reviewRequired ? 'REVIEW_REQUIRED (awaiting owner re-verification)' + (optText ? '; ' + optText.toLowerCase() : '')
+    : optText ? optText + (repairText ? '; ' + repairText : '')
+    : repair ? 'LINKS_REPAIRED ' + repair.date + ' - ' + repairText + ' (scripts/link-bare-slugs.js)'
     : 'AUDITED ' + TODAY;
   const linkSummary = x.type === 'article'
     ? 'out: ' + x.m.bodyLinks + ' body + ' + (relatedOut[x.slug] || []).length + ' related cards; in: ' + (relatedIn[x.slug] || 0) + ' related + ' + (bodyIn[x.url] || 0) + ' body + hub listing'
