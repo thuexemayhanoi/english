@@ -4,6 +4,23 @@ title: Scooters
 permalink: /topics/scooters/
 topic_cluster: scooters
 description: "Automatic scooter guides for Vietnam: Honda and Yamaha model reviews, comparisons and data-based choosing guides for Hanoi riding."
+faq:
+  - q: "What is the best scooter to rent in Vietnam?"
+    a: "For most visitors a light automatic 110–125 cc scooter: the Honda Vision, Honda Click and Yamaha Mio are the scooters foreigners actually rent in Hanoi. The Vision is the most popular scooter in Vietnam for a reason: light, low seat, tidy under-seat storage and a shape that shrinks traffic gaps."
+    link: "/articles/best-scooters-to-rent-hanoi/"
+    link_text: "Compare the rental scooters"
+  - q: "How much does it cost to rent a scooter in Vietnam?"
+    a: "In Hanoi, published rates at Nguyen Tu are 150,000 VND per day for the Honda Click and Yamaha Mio and 200,000 VND per day for the Honda Vision and Honda Air Blade, with weekly and monthly rates for all four. Contact us to confirm current availability."
+    link: "/articles/motorbike-rental-price-hanoi/"
+    link_text: "See the full price list"
+  - q: "Do I need a licence to rent a scooter in Vietnam?"
+    a: "To rent, a shop needs your passport for the contract and a deposit. To ride legally, a 110–125 cc scooter needs a Vietnamese A1 licence or a home motorcycle licence carried with a 1968 Vienna Convention IDP; only mopeds of 50 cc or less are licence-free."
+    link: "/articles/motorbike-rental-requirements-hanoi/"
+    link_text: "Read the rental requirements"
+  - q: "Is a 125 cc scooter much different from a 110 cc?"
+    a: "Both sit inside the 125 cc limit of the A1 licence. The comparison lays out the verified manufacturer power and torque figures, the real riding differences and when the extra capacity is worth paying for."
+    link: "/articles/110cc-vs-125cc-scooters/"
+    link_text: "Read the 110 vs 125 comparison"
 ---
 <p>Automatic scooters are the default vehicle of Vietnamese cities, and for most visitors they are the easiest bike to ride in Hanoi traffic: twist-and-go, light, with underseat storage and good fuel economy. The reviews and comparisons here are built from manufacturer specifications, not marketing copy, and cover the popular Honda and Yamaha models, engine sizes, storage, braking (including which models have ABS) and suitability for two-up riding and daily commuting.</p>
 

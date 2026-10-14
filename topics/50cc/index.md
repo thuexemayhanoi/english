@@ -4,6 +4,23 @@ title: 50cc Motorbikes
 permalink: /topics/50cc/
 topic_cluster: 50cc
 description: "50cc motorbikes in Vietnam: the licence-free rules, renting a 50cc in Hanoi, realistic range, and whether a small bike suits your stay."
+faq:
+  - q: "Can I rent a 50cc scooter in Vietnam?"
+    a: "Yes, though rental fleets rarely hold many 50s. Nguyen Tu publishes no fixed 50cc price, so contact us to ask what is available; the guide covers who the licence-free class suits, what to check before riding off and the honest alternatives."
+    link: "/articles/renting-50cc-hanoi/"
+    link_text: "Read the 50cc rental guide"
+  - q: "Do I need a licence for a 50cc motorbike in Vietnam?"
+    a: "No. Bikes of 50 cc and under are classed as mopeds (xe gắn máy): no driving licence is needed and the rider must be at least 16, foreigners included. Helmet, insurance and accident liability still apply."
+    link: "/articles/50cc-licence-vietnam/"
+    link_text: "Read the 50cc legal position"
+  - q: "What is the youngest age to ride a motorbike in Vietnam?"
+    a: "16 for the licence-free moped class, which means 50 cc or less, or electric machines up to 4 kW; 18 for the A1 licence that covers 110–125 cc scooters."
+    link: "/articles/minimum-age-ride-motorbike-vietnam/"
+    link_text: "Read the minimum-age guide"
+  - q: "How far can a 50cc go on a day trip?"
+    a: "A 50cc cruising around 40 km/h turns every 30 kilometres into roughly 45–60 minutes of moving time once junctions, town crossings and roadworks are counted, so plan short loops rather than the 100 km trips a bigger bike manages."
+    link: "/articles/50cc-day-trip-range-limits/"
+    link_text: "Read the 50cc range guide"
 ---
 <p>Bikes of 50cc or less sit in their own legal category in Vietnam: no driving licence is required, although the rider must be at least 16. That makes a 50cc the honest option for visitors who cannot ride legally on a bigger bike. The trade-offs are real, though: small wheels, low power and limited range. These guides cover the rules, renting a 50cc in Hanoi, learning on one, and what owning one costs. Nguyen Tu does not publish a fixed 50cc price; contact us to confirm current availability and rates.</p>
 

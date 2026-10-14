@@ -4,6 +4,19 @@ title: Parts and Riding Gear
 permalink: /topics/parts-gear/
 topic_cluster: parts-gear
 description: "Helmets, jackets, gloves, luggage, security and accessories for riding in Vietnam: what to buy first, how to judge quality, and what works in Hanoi weather."
+faq:
+  - q: "Do I need to bring my own helmet to Vietnam?"
+    a: "Hanoi motorbike rentals normally include helmets for rider and passenger, and wearing one is the law. Bring your own if you want a guaranteed fit or a full-face; the fit guide explains the standards and what a cheap helmet actually protects."
+    link: "/articles/helmet-fit-guide-vietnam/"
+    link_text: "Read the helmet fit guide"
+  - q: "What should I wear riding a motorbike in Vietnam?"
+    a: "Coverage balanced against heat: gloves, closed footwear and clothing you can ride in, with rain, night and long-trip dressing covered in the clothing guide."
+    link: "/articles/what-to-wear-riding-motorbike-vietnam/"
+    link_text: "Read the clothing guide"
+  - q: "Can I carry luggage on a scooter?"
+    a: "Yes, within the manufacturer’s payload figure. A top box or rear rack turns a big haul from risky to trivial, and the luggage guides cover racks, straps and load limits."
+    link: "/articles/top-boxes-racks-motorbike-vietnam/"
+    link_text: "Read the top box and rack guide"
 ---
 <p>A helmet that fits is the one piece of gear that matters most, and in Vietnam it is also the law. After that comes a priority order: gloves, a jacket that copes with heat and rain, something to carry your things, and a lock. These guides cover helmet standards and care, riding gear for Vietnam's climate and budgets, top boxes and racks, phone mounts, and the security hardware that actually deters theft, with advice on judging quality in a market full of copies.</p>
 

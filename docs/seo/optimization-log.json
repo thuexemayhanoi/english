@@ -1149,5 +1149,21 @@
       "/topics/rental/",
       "/articles/how-to-rent-a-motorbike-hanoi/"
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "batch": "hub-faq-2",
+    "note": "Common questions (3-4 Q&A) with FAQPage JSON-LD on the nine remaining hubs; questions follow the People-also-ask recorded for the hub topics (_serp_snapshot_hubs); every answer restates a VERIFIED article or OWNER-FACTS and links the serving guide",
+    "urls": [
+      "/topics/scooters/",
+      "/topics/motorcycles/",
+      "/topics/manual-clutch/",
+      "/topics/50cc/",
+      "/topics/maintenance/",
+      "/topics/parts-gear/",
+      "/topics/safety/",
+      "/topics/hanoi/",
+      "/topics/vietnam-travel/"
+    ]
   }
 ]

@@ -425,5 +425,177 @@
       ],
       "note": "text compression, cache TTL and minification findings are artefacts of the local static server (GitHub Pages serves compressed assets with cache headers) and were not acted on; render-blocking CSS (~0.4 s simulated) left as is at performance 98-99."
     }
-  ]
+  ],
+  "_serp_snapshot_hubs": {
+    "tool": "OpenRush inspect_serp",
+    "date": "2026-10-14",
+    "market": "United States",
+    "note": "People-also-ask and related searches used to choose the Common questions on the informational hubs; every answer is drawn from OWNER-FACTS or a VERIFIED article. AI overviews were present on all five queries; no local pack.",
+    "queries": [
+      {
+        "query": "is it safe to ride a motorbike in vietnam",
+        "features": [
+          "ai_overview",
+          "organic",
+          "people_also_ask",
+          "video",
+          "related_searches"
+        ],
+        "people_also_ask": [
+          "Can tourists ride motorbikes in Vietnam?",
+          "What is the #1 cause of death in Vietnam?",
+          "Is $1000 enough for 2 weeks in Vietnam?",
+          "Where do 70% of motorcycle accidents occur?"
+        ],
+        "related_searches": [
+          "Can I ride a motorbike in Vietnam with a UK license",
+          "Can I drive a motorcycle in Vietnam with an international license",
+          "Motorbike Vietnam price",
+          "50cc motorbike Vietnam",
+          "Vietnam motorcycle trip"
+        ],
+        "organic_top": [
+          "reddit.com",
+          "facebook.com (groups)",
+          "madornomad.com",
+          "en.wikivoyage.org",
+          "ethosspirit.com",
+          "quora.com",
+          "vietnam-motorbiketour.com",
+          "medium.com"
+        ]
+      },
+      {
+        "query": "best scooter to rent in vietnam",
+        "features": [
+          "ai_overview",
+          "organic",
+          "people_also_ask",
+          "video",
+          "related_searches"
+        ],
+        "people_also_ask": [
+          "What is the best scooter to ride in Vietnam?",
+          "How much does it cost to rent a scooter in Vietnam?",
+          "Do I need a license to rent a scooter in Vietnam?",
+          "How much is a VinFast scooter in Vietnam?"
+        ],
+        "related_searches": [
+          "Best scooter to rent in vietnam for a day",
+          "Scooter rental Vietnam price",
+          "50cc scooter Vietnam",
+          "Vietnam scooter rental Ho Chi Minh",
+          "50cc scooter rental Vietnam"
+        ],
+        "organic_top": [
+          "reddit.com",
+          "facebook.com (groups)",
+          "rentabikevn.com",
+          "pelago.com",
+          "izigo.vn",
+          "mitunsaufreisen.de",
+          "theextramile.co",
+          "theunknownenthusiast.com"
+        ]
+      },
+      {
+        "query": "50cc motorbike vietnam licence",
+        "features": [
+          "ai_overview",
+          "organic",
+          "people_also_ask",
+          "video",
+          "related_searches"
+        ],
+        "people_also_ask": [
+          "How to get a motorbike license in Vietnam?",
+          "What is the youngest age to drive a motorcycle?",
+          "Can I rent a 50cc scooter in Vietnam?",
+          "What is the most popular motorbike in Vietnam?"
+        ],
+        "related_searches": [
+          "50cc motorbike vietnam licence rules",
+          "50cc motorbike vietnam licence requirements",
+          "50cc motorbike vietnam licence test"
+        ],
+        "organic_top": [
+          "tripadvisor.com",
+          "facebook.com (groups)",
+          "theextramile.co",
+          "reddit.com",
+          "duyanhmotorbikes.com",
+          "youtube.com",
+          "traveldudes.com",
+          "travel.stackexchange.com"
+        ]
+      },
+      {
+        "query": "vietnam motorbike trip",
+        "features": [
+          "ai_overview",
+          "organic",
+          "people_also_ask",
+          "video",
+          "related_searches"
+        ],
+        "people_also_ask": [
+          "How much is a motorcycle trip in Vietnam?",
+          "What is the most famous bike trip in Vietnam?",
+          "Can tourists ride motorcycles in Vietnam?",
+          "Is the Ha Giang loop scary?"
+        ],
+        "related_searches": [
+          "Vietnam motorbike trip packages",
+          "Vietnam motorbike trip itinerary",
+          "Vietnam motorbike Loop",
+          "10 day motorbike trip Vietnam",
+          "Vietnam motorbike rental"
+        ],
+        "organic_top": [
+          "onyabikeadventures.com",
+          "reddit.com",
+          "vietnamas.info",
+          "motorbiketourexpert.com",
+          "nytimes.com",
+          "tripadvisor.com",
+          "vietnamcoracle.com",
+          "madornomad.com"
+        ]
+      },
+      {
+        "query": "riding a motorbike in hanoi",
+        "features": [
+          "ai_overview",
+          "organic",
+          "video",
+          "people_also_ask",
+          "discussions_and_forums",
+          "related_searches"
+        ],
+        "people_also_ask": [
+          "Can foreigners ride motorbikes in Vietnam?",
+          "What is the 12 second rule for motorcycles?",
+          "What does 2 fingers down mean to bikers?",
+          "Can tourists rent a motorbike in Vietnam?"
+        ],
+        "related_searches": [
+          "Motorcycle Vietnam tour",
+          "Best motorcycle rental hanoi",
+          "Motorbike Vietnam price",
+          "Can I ride a motorbike in Vietnam with a UK license",
+          "Vietnam motorbike rental",
+          "Motorbike rental Hanoi Reddit"
+        ],
+        "organic_top": [
+          "reddit.com",
+          "petersbigadventure.com",
+          "yourfriendthenomad.com",
+          "ethosspirit.com",
+          "madornomad.com",
+          "getyourguide.com",
+          "youtube.com"
+        ]
+      }
+    ]
+  }
 }

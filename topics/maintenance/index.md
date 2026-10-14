@@ -4,6 +4,23 @@ title: Maintenance and Repair
 permalink: /topics/maintenance/
 topic_cluster: maintenance
 description: "Motorbike maintenance and repair guides for Vietnam: oil, chain, tyres, brakes, batteries, finding a mechanic, and what renters are responsible for."
+faq:
+  - q: "Who pays for maintenance on a rental motorbike in Hanoi?"
+    a: "Nguyen Tu maintenance may include oil changes, chain adjustment, tyre-pressure checks and normal inspection. Consumables such as inner tubes and tyres may be the renter’s responsibility depending on the situation, and the owner recommends a check around every 1,500 km of use as practical guidance."
+    link: "/articles/maintenance-during-monthly-rental-hanoi/"
+    link_text: "Read the rental maintenance guide"
+  - q: "Can I use a roadside repair shop on a rental bike?"
+    a: "Small roadside items like punctures and chain lube are fine with the shop’s blessing; anything structural needs agreement with the rental shop first."
+    link: "/articles/outside-repair-shops-rental-motorbike/"
+    link_text: "Read the outside-repair rules"
+  - q: "How do I tell genuine parts from fakes in Vietnam?"
+    a: "Counterfeits concentrate on the fast-wearing items. The guide lists what gets faked, the risks, and how to ask for and check genuine parts at a workshop."
+    link: "/articles/genuine-vs-fake-parts-motorbike-vietnam/"
+    link_text: "Read the genuine-parts guide"
+  - q: "What should I check before every ride?"
+    a: "Lights, horn, brakes, mirrors, tyres and fuel level, with a photograph of every existing scratch on a rental: thirty seconds that protects your deposit."
+    link: "/articles/rental-motorbike-inspection-checklist/"
+    link_text: "Use the inspection checklist"
 ---
 <p>Most motorbike problems in Vietnam are small and cheap to fix if you catch them early: low oil, a loose chain, soft tyres, worn brake shoes or a tired battery. These guides explain what to check and how often, how to find a trustworthy mechanic and talk to one, how to tell genuine parts from copies, and what a renter is normally responsible for versus what the rental business handles. No torque values, capacities or service intervals are invented here; where a figure matters, the guide points you to the manufacturer's manual.</p>
 

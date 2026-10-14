@@ -229,3 +229,9 @@ Lighthouse 12 run locally against the built tree (mobile emulation; scores in `k
 - The contact sheet and assistant panel were `aria-hidden` while containing focusable links; both now carry `inert`, toggled by the existing open/close code.
 
 After the fixes Lighthouse accessibility is 100 on the homepage and the money article, with performance, SEO and best practices unchanged. Rendered audit, engine tests (29/29), Guide Assistant (31/31) and Quality Gate pass. Compression, cache-TTL and minification findings are artefacts of the local static server and were left alone.
+
+Live verification of pass 7 (commit 05f8c0b): the production homepage serves the keyword-bearing title, the assistant button with its accessible name, both dialogs with `inert`, and the Organization + LocalBusiness node with opening hours.
+
+## 2026-10-14 — Pass 8: Common questions on the remaining nine hubs
+
+Five more live SERP snapshots (OpenRush, recorded in `keyword-evidence.json` `_serp_snapshot_hubs`: safety, scooters, 50cc, Vietnam trips, riding in Hanoi; AI overviews present on all five, forums and tour operators dominate the organic results) supplied the People-also-ask questions for the informational hubs. All 14 hubs now carry a Common questions section with FAQPage JSON-LD: 55 questions in total, each answered in two or three sentences from a VERIFIED article or OWNER-FACTS and linked to the serving guide (no prices, intervals or claims beyond what those sources state). Verification on the final tree: source audits P0/P1 0, build 1004 pages, rendered audit P2 1 (404), engine tests 29/29, Guide Assistant 31/31, Quality Gate PASS, regression guard PASS; rendered hubs: 14 FAQPage blocks, 55 questions.

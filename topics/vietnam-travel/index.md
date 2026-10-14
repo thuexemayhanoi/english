@@ -4,6 +4,23 @@ title: Vietnam Travel by Motorbike
 permalink: /topics/vietnam-travel/
 topic_cluster: vietnam-travel
 description: "Renting and riding a motorbike across Vietnam: city rental guides, the north-to-south ride, one-way rentals, motorbike vs train, seasons and ownership papers."
+faq:
+  - q: "What is the most famous motorbike trip in Vietnam?"
+    a: "Two: the Ha Giang loop in the far north, a 300–350 km circuit usually ridden over three to five days, and the full north-to-south ride between Hanoi and Ho Chi Minh City. Both need a legal licence and a bike your licence class covers."
+    link: "/articles/ha-giang-loop-motorbike-guide/"
+    link_text: "Read the Ha Giang loop guide"
+  - q: "Is the Ha Giang loop difficult?"
+    a: "It is a serious mountain ride over passes, best taken at the three-to-five-day pace, with a checkpoint entering Ha Giang province and a local permit, arranged with passport documents, for the Lung Cu flag-tower area. Be clear on licence legality before you go."
+    link: "/articles/ha-giang-loop-motorbike-guide/"
+    link_text: "Read the safety realities"
+  - q: "Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City?"
+    a: "Sometimes, through one-way rental, buy-sell schemes or buybacks; the one-way guide explains how each really works. Nguyen Tu rents from Hanoi, with support primarily for Hanoi and local use."
+    link: "/articles/one-way-motorbike-rental-vietnam/"
+    link_text: "Read the one-way rental guide"
+  - q: "How much does a motorbike trip in Vietnam cost?"
+    a: "It depends on the bike, fuel, food, lodging, entries and ferries. The budget guide walks through each category, what drives the total and where riders overspend, rather than inventing a headline number."
+    link: "/articles/motorbike-trip-budget-from-hanoi/"
+    link_text: "Read the trip budget guide"
 ---
 <p>Renting a motorbike in Vietnam works much the same in every city: passport, a licence valid in Vietnam, a deposit and an inspection. What changes is the riding, from Hanoi's traffic to the Hai Van Pass and the Ho Chi Minh Road. These guides cover how motorbike travel compares with bus, train and plane, renting in Ho Chi Minh City, Da Nang, Hue, Nha Trang, Da Lat and Phu Quoc, the full north-to-south ride, one-way rentals, monsoon timing, parking in Vietnamese cities, and the paperwork of buying and selling a bike as a visitor.</p>
 
