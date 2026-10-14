@@ -292,7 +292,7 @@
     "note": "People Also Ask question on the motorbike rental hanoi SERP (OpenRush 2026-10-14)",
     "source": "OpenRush inspect_serp 2026-10-14"
   },
-  "site_audits": [
+  "_site_audits": [
     {
       "tool": "OpenRush audit_site",
       "date": "2026-10-14",
