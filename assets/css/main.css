@@ -14,7 +14,8 @@
   --accent-soft: rgba(201, 58, 29, 0.08);
   --border: #e6e2d8;
   --border-strong: #d5d0c4;
-  --wa: #1ea952;
+  --wa: #11813a;
+  --wa-ink: #ffffff;
   /* Type scale */
   --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   --text-xs: 0.75rem;
@@ -53,6 +54,7 @@
   --border: #323438;
   --border-strong: #42454a;
   --wa: #2bc765;
+  --wa-ink: #06230f;
   --shadow-1: 0 1px 2px rgba(0, 0, 0, 0.3);
   --shadow-2: 0 2px 8px rgba(0, 0, 0, 0.35);
 }
@@ -203,8 +205,7 @@ nav */
   box-shadow: 0 0 0 3px var(--accent-soft);
 }
 .searchbar button {
-  border: none; background: var(--accent); color: var(--accent-i
-nk);
+  border: none; background: var(--accent); color: var(--accent-ink);
   font-weight: 600; font-size: var(--text-sm); font-family: inherit;
   padding: 0 22px; border-radius: var(--r-full); cursor: pointer;
   transition: filter var(--t-fast);
@@ -319,7 +320,7 @@ blockquote strong, .callout strong { color: var(--fg-strong); }
 }
 .btn:hover { text-decoration: none; filter: brightness(1.06); transform: translateY(-1px); }
 .btn-primary { background: var(--accent); color: var(--accent-ink); }
-.btn-wa { background: var(--wa); color: #ffffff; }
+.btn-wa { background: var(--wa); color: var(--wa-ink); }
 .btn-ghost { border: 1px solid var(--border-strong); color: var(--fg); background: transparent; }
 .cta-note { color: var(--muted); font-size: var(--text-xs); }
 

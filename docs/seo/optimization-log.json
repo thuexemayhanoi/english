@@ -1139,5 +1139,15 @@
     "urls": [
       "/"
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "batch": "a11y-1",
+    "note": "shared layout accessibility fixes from Lighthouse (contrast token bug, WhatsApp button contrast, assistant button name, inert dialogs); Lighthouse accessibility 84-89 -> 100 on the sampled pages",
+    "urls": [
+      "/",
+      "/topics/rental/",
+      "/articles/how-to-rent-a-motorbike-hanoi/"
+    ]
   }
 ]

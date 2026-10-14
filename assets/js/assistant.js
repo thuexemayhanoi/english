@@ -110,7 +110,7 @@
     document.dispatchEvent(new CustomEvent('overlay:opening', { detail: { id: 'assistant' } }));
     if (backdrop) { backdrop.hidden = false; backdrop.classList.add('is-open'); }
     panel.classList.add('is-open');
-    panel.setAttribute('aria-hidden', 'false');
+    panel.setAttribute('aria-hidden', 'false'); panel.inert = false;
     fab.setAttribute('aria-expanded', 'true');
     document.body.style.overflow = 'hidden';
     if (input) input.focus();
@@ -122,7 +122,7 @@
     if (!isOpen) return;
     isOpen = false;
     panel.classList.remove('is-open');
-    panel.setAttribute('aria-hidden', 'true');
+    panel.setAttribute('aria-hidden', 'true'); panel.inert = true;
     fab.setAttribute('aria-expanded', 'false');
     document.body.style.overflow = '';
     if (backdrop) {

@@ -217,3 +217,15 @@ Driven by the Ubersuggest site audit of the live domain (150 URLs crawled, overa
 - **Article-level Common questions** (`_layouts/article.html`, `faq:` front matter → visible section after the body plus FAQPage JSON-LD; `faq_in_body: true` emits the schema only): 15 questions on the five money articles (how to rent, price, requirements, monthly, tourists), answered strictly from OWNER-FACTS (payment methods, late-return charge, delivery conditions, deposit range, no refund for unused time, no rider insurance) and the VERIFIED licence articles (IDP, minimum age, car licence). The price article keeps its existing in-body FAQ and only gains the schema.
 - Verification on the final tree: all source audits P0/P1 0, build 1004 pages, rendered audit P2 1 (404), engine tests 29/29, Guide Assistant 31/31, Quality Gate PASS, regression guard PASS; rendered money articles carry BreadcrumbList + FAQPage + BlogPosting.
 - Left as is from the audit: `/search/` is thin by word count (utility page, never noindexed by site rule); two "non-friendly URL" flags are tool heuristics on clean paths and URLs are never changed.
+
+Live verification of passes 5 and 6: `/topics/rental/` serves the Common questions section (5 Q&A) and the live sitemap carries lastmod on all 14 hubs (995 of 1,003 URLs); `/articles/how-to-rent-a-motorbike-hanoi/` serves its three Common questions and the title tag without the brand suffix ("How to Rent a Motorbike in Hanoi: A Step-by-Step Guide"). Quality Gate and Pages succeeded on 1cc14ef and 160a2d5.
+
+## 2026-10-14 — Pass 7: accessibility fixes from Lighthouse (shared layout only)
+
+Lighthouse 12 run locally against the built tree (mobile emulation; scores in `keyword-evidence.json` `_site_audits`): performance 98–99, SEO 100, best practices 100, accessibility 84–89. Three accessibility failures, all in shared code:
+
+- `assets/css/main.css` had a line break inside `var(--accent-ink)` on the search button, so the declaration was invalid and the button text rendered black on the red accent (4.1:1). Fixed; the WhatsApp button (white on #1ea952, 3.06:1) now uses `--wa: #11813a` (4.98:1) with a `--wa-ink` token so dark mode keeps a readable pair.
+- The assistant button hides its text label on small screens and had no accessible name; `aria-label="Ask Nguyen Tu"` added.
+- The contact sheet and assistant panel were `aria-hidden` while containing focusable links; both now carry `inert`, toggled by the existing open/close code.
+
+After the fixes Lighthouse accessibility is 100 on the homepage and the money article, with performance, SEO and best practices unchanged. Rendered audit, engine tests (29/29), Guide Assistant (31/31) and Quality Gate pass. Compression, cache-TTL and minification findings are artefacts of the local static server and were left alone.

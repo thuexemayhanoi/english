@@ -191,7 +191,7 @@
     document.dispatchEvent(new CustomEvent('overlay:opening', { detail: { id: 'contact' } }));
     if (backdrop) { backdrop.hidden = false; backdrop.classList.add('is-open'); }
     sheet.classList.add('is-open');
-    sheet.setAttribute('aria-hidden', 'false');
+    sheet.setAttribute('aria-hidden', 'false'); sheet.inert = false;
     document.body.style.overflow = 'hidden';
     var first = sheet.querySelector('.sheet-action, .sheet-close');
     if (first) first.focus();
@@ -199,7 +199,7 @@
   function closeSheet() {
     if (!sheet) return;
     sheet.classList.remove('is-open');
-    sheet.setAttribute('aria-hidden', 'true');
+    sheet.setAttribute('aria-hidden', 'true'); sheet.inert = true;
     if (backdrop) {
       backdrop.classList.remove('is-open');
       if (backdropHideTimer) window.clearTimeout(backdropHideTimer);

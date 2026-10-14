@@ -363,6 +363,67 @@
         }
       ],
       "note": "Technical crawl of the first 150 URLs; no rankings or traffic are measurable for the domain on this date."
+    },
+    {
+      "tool": "Lighthouse 12 (local, built tree served statically, mobile emulation)",
+      "date": "2026-10-14",
+      "commit": "160a2d5 -> pass 7",
+      "pages": {
+        "/": {
+          "before": {
+            "performance": 98,
+            "seo": 100,
+            "accessibility": 86,
+            "best_practices": 100
+          },
+          "after": {
+            "performance": 98,
+            "seo": 100,
+            "accessibility": 100,
+            "best_practices": 100
+          },
+          "vitals": {
+            "fcp": "1.5 s",
+            "lcp": "2.3 s",
+            "tbt": "20 ms",
+            "cls": 0
+          }
+        },
+        "/topics/rental/": {
+          "before": {
+            "performance": 98,
+            "seo": 100,
+            "accessibility": 89,
+            "best_practices": 100
+          }
+        },
+        "/articles/how-to-rent-a-motorbike-hanoi/": {
+          "before": {
+            "performance": 99,
+            "seo": 100,
+            "accessibility": 84,
+            "best_practices": 100
+          },
+          "after": {
+            "performance": 99,
+            "seo": 100,
+            "accessibility": 100,
+            "best_practices": 100
+          },
+          "vitals": {
+            "fcp": "1.5 s",
+            "lcp": "1.8 s",
+            "tbt": "40 ms",
+            "cls": 0
+          }
+        }
+      },
+      "fixed": [
+        "color-contrast: .searchbar button lost its text colour to a line break inside var(--accent-ink) in main.css (rendered black on red, 4.1:1); WhatsApp button white on #1ea952 was 3.06:1, token darkened to #11813a (4.98:1) with a --wa-ink token for dark mode",
+        "button-name: the assistant button hides its text label on small screens; aria-label added",
+        "aria-hidden-focus: contact sheet and assistant panel are aria-hidden while containing focusable links; both now carry inert and the open/close scripts toggle it"
+      ],
+      "note": "text compression, cache TTL and minification findings are artefacts of the local static server (GitHub Pages serves compressed assets with cache headers) and were not acted on; render-blocking CSS (~0.4 s simulated) left as is at performance 98-99."
     }
   ]
 }
