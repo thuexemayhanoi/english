@@ -32,7 +32,7 @@ For an adult whose whole world is one district — home, market, a nearby workpl
 
 ## Learners building habits
 
-Some new riders deliberately start on a small, light, slow bike to practise balance, traffic reading and maintenance before moving to a 110–125cc machine. The controls are the same as a bigger underbone, so nothing learned is wasted. Our learning-on-a-50cc guide lays out a progression, and the upgrade article covers the step up later.
+Some new riders deliberately start on a small, light, slow bike to practise balance, traffic reading and maintenance before moving to a 110–125cc machine. The controls are the same as a bigger underbone, so nothing learned is wasted. [Learning to Ride on a 50cc: A Sensible First-Bike Path]({{ '/articles/learning-to-ride-on-50cc-vietnam/' | relative_url }}) lays out a progression, and the upgrade article covers the step up later.
 
 ## Visitors without a licence
 

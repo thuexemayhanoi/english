@@ -1,7 +1,7 @@
 ---
 title: "Can Foreigners Rent a Motorbike in Hanoi?"
 slug: can-foreigners-rent-a-motorbike-hanoi
-description: "Yes - foreigners can rent a motorbike in Hanoi with a passport and a cash deposit. Riding it legally is a separate question that depends on your licence. Here is the honest breakdown."
+description: "Yes, foreigners can rent a motorbike in Hanoi with a passport and a cash deposit. Riding it legally is a separate question that depends on your licence."
 category: rental
 tags:
   - "foreigners"
@@ -20,25 +20,25 @@ sources:
 internal_link_targets: "can-tourists-rent-a-motorbike-hanoi, renting-a-motorbike-hanoi-without-licence, which-countries-idp-valid-vietnam, documents-needed-rent-motorbike-hanoi, motorbike-rental-price-hanoi"
 ---
 
-Yes. Foreigners rent motorbikes in Hanoi every day, and no local licence, residence status or Vietnamese bank account is needed to do it. The catch is one sentence long: renting is easy, riding legally depends on your licence.
+Yes. Foreigners [rent motorbikes in Hanoi]({{ '/topics/rental/' | relative_url }}) every day, and no local licence, residence status or Vietnamese bank account is needed to do it. The catch is one sentence long: renting is easy, riding legally depends on your licence.
 
 ## The rental side
 
-A passport for the contract, a cash deposit - typically 2,000,000-5,000,000 VND - and the rental price. That is the whole transaction. Cash, bank transfer and QR payment all work. Shops in Hanoi are used to foreign customers and the process takes minutes.
+A passport for the contract, a [cash deposit]({{ '/articles/motorbike-rental-deposit-hanoi/' | relative_url }}) - typically 2,000,000-5,000,000 VND - and the [rental price]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}). That is the whole transaction. Cash, bank transfer and QR payment all work. Shops in Hanoi are used to foreign customers and the process takes minutes.
 
 ## The legal side
 
 Vietnam recognises three licence routes for foreigners:
 
 - A Vietnamese licence (the A1 class covers most rental bikes, up to 175 cc).
-- A home-country motorcycle licence plus an IDP issued under the 1968 Vienna convention. Your country must be a 1968-convention state - the IDP article lists them.
+- A home-country motorcycle licence plus an IDP issued under the 1968 Vienna convention. Your country must be a 1968-convention state - [which countries' IDPs work in Vietnam]({{ '/articles/which-countries-idp-valid-vietnam/' | relative_url }}) lists them.
 - A foreign licence formally exchanged for a Vietnamese one, which longer-term residents can do.
 
-If you hold none of these, riding a rental bike is riding unlicensed: a 2-4 million VND fine up to 125 cc, 6-8 million VND above, and the bike can be held by police. Under 50 cc no licence is needed at all, which is why licence-free 50 cc bikes and e-bikes are popular with visitors who have no motorcycle licence at home.
+If you hold none of these, riding a rental bike is riding unlicensed: a 2-4 million VND fine up to 125 cc, 6-8 million VND above, and the bike can be held by police. Under 50 cc no licence is needed at all, which is why [licence-free 50 cc bikes]({{ '/articles/renting-50cc-hanoi/' | relative_url }}) and [e-bikes]({{ '/articles/can-foreigners-rent-electric-bike-vietnam/' | relative_url }}) are popular with visitors who have no motorcycle licence at home.
 
 ## What about your home car licence?
 
-A car licence does not cover motorcycles in Vietnam, and neither does a 1949-convention or non-convention permit. Check the licence articles before you fly if riding is central to your trip.
+A car licence does not cover motorcycles in Vietnam, and neither does a 1949-convention or non-convention permit. Check the [licence guides]({{ '/topics/law-licences/' | relative_url }}) before you fly if riding is central to your trip.
 
 ## Practical guidance
 

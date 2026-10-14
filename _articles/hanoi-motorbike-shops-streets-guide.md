@@ -34,7 +34,7 @@ Kerbside repair happens everywhere — a man with a compressor under a tarp can 
 
 ## How the kerbside economy works
 
-No appointment, no written estimate, sometimes no common language. The mechanic looks, pokes, names a part, quotes a number. For small jobs it is efficient and honest; for big jobs the advice in the talking-to-a-mechanic guide applies — get the quote before the work, watch the part go in, keep the old part. Quality varies enormously between shops with identical street setups; a shop that is busy with local residents is usually a shop that locals trust.
+No appointment, no written estimate, sometimes no common language. The mechanic looks, pokes, names a part, quotes a number. For small jobs it is efficient and honest; for big jobs the advice in [Getting Repairs Done: Talking to a Vietnamese Mechanic]({{ '/articles/talking-to-mechanic-vietnam/' | relative_url }}) applies — get the quote before the work, watch the part go in, keep the old part. Quality varies enormously between shops with identical street setups; a shop that is busy with local residents is usually a shop that locals trust.
 
 ## Parts
 

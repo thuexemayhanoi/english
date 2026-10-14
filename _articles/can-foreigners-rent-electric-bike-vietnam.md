@@ -1,7 +1,7 @@
 ---
 title: "Can Foreigners Rent an E-Bike or Electric Motorbike in Vietnam?"
 slug: can-foreigners-rent-electric-bike-vietnam
-description: "Foreigners can rent electric two-wheelers in Vietnam, but the licence class still applies above 4 kW — documents to bring, deposit norms and what to confirm first."
+description: "Foreigners can rent e-bikes and electric motorbikes in Vietnam; the licence class still applies above 4 kW. Documents, Hanoi deposit norms and what to confirm first."
 category: electric
 tags:
   - "foreigners"
@@ -33,7 +33,7 @@ Documents worth carrying: passport, IDP with motorcycle endorsement if you plan 
 
 ## Rental practice
 
-Deposit norms in Hanoi are typically 2,000,000-5,000,000 VND depending on the vehicle. Accepted payments are cash, bank transfer and QR. The shop's published E-Bike rate is 200,000 VND per day; weekly and monthly e-bike rates are not published, so contact us to confirm current availability and longer-term options. Electric motorbikes above 4 kW are not part of the published rental fleet — availability is always a contact-first question.
+Deposit norms in Hanoi are typically 2,000,000-5,000,000 VND depending on the vehicle. Accepted payments are cash, bank transfer and QR. The shop's [published E-Bike rate]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) is 200,000 VND per day; weekly and monthly e-bike rates are not published, so [contact us]({{ '/contact/' | relative_url }}) to confirm current availability and [longer-term options]({{ '/articles/e-bike-monthly-rental-hanoi/' | relative_url }}). Specific electric models, VinFast included, are not part of the published rental list — ask what is currently available. Electric motorbikes above 4 kW are not part of the published rental fleet — availability is always a contact-first question.
 
 ## Practical checks before you ride off
 
@@ -42,4 +42,4 @@ Deposit norms in Hanoi are typically 2,000,000-5,000,000 VND depending on the ve
 3. Check the helmet fits — it is legally required.
 4. Photograph existing scratches; agree how battery damage or a dead pack is handled.
 
-For the full licence framework, see the electric licence guide; for tourist riding rules generally, see our tourist [rider guide]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}).
+For the full licence framework, see the [electric bike licence guide]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}) and the [electric guides hub]({{ '/topics/electric/' | relative_url }}); for tourist riding rules generally, see our tourist [rider guide]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}).

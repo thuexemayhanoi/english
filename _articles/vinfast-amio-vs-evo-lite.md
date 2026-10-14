@@ -1,7 +1,7 @@
 ---
-title: "VinFast Amio vs Evo Lite: Two Licence-Free Formulas"
+title: "VinFast Amio vs Evo Lite: Which Licence-Free Ride to Choose"
 slug: vinfast-amio-vs-evo-lite
-description: "VinFast Amio vs Evo Lite compared from official data — 30 km/h pedal assist versus a sub-50 km/h scooter, and which licence-free formula suits whom."
+description: "Choosing between the VinFast Amio and Evo Lite: who the 30 km/h pedal-assist suits, who needs the sub-50 km/h scooter, and when neither option is the answer."
 category: electric
 tags:
   - "vinfast"
@@ -17,12 +17,12 @@ date_published: 2026-09-24
 last_reviewed: 2026-09-24
 sources:
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026 — Amio and Evo/Evo Lite specifications"
-internal_link_targets: vinfast-amio-review, vinfast-evo-review, why-electric-mopeds-capped-50kmh-vietnam, pedal-e-bike-vs-scooter-electric-vietnam
+internal_link_targets: vinfast-amio-review, vinfast-evo-review, why-electric-mopeds-capped-50kmh-vietnam, pedal-e-bike-vs-scooter-electric-vietnam, vinfast-evo-lite-vs-amio
 ---
 
-VinFast builds two different licence-free answers for riders who hold no driving licence: the pedal-assisted Amio and the speed-limited Evo Lite. Official data sets them apart clearly.
+VinFast builds two different licence-free answers for riders who hold no driving licence: the pedal-assisted Amio and the speed-limited Evo Lite. This guide is about choosing between them by rider; for the full specification and battery-ecosystem comparison see [VinFast Evo Lite vs Amio: specs and battery ecosystem]({{ '/articles/vinfast-evo-lite-vs-amio/' | relative_url }}).
 
-## Side by side
+## The key differences at a glance
 
 | | Amio | Evo Lite |
 |---|---|---|

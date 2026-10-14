@@ -28,20 +28,20 @@ Fresh rain lifts oil and dust off the asphalt, making the first minutes of a sho
 
 ## Ride the crown of the road where water is shallow
 
-Flooded sections concentrate at curbs and dips. Choose the highest visible line, keep a steady throttle, and do not swerve hard in deep water — if an oncoming bus pushes a bow wave at you, slow right down rather than fighting for your line. If water reaches above the axle, find another way around; water in the airbox or exhaust of a rental bike becomes a breakdown conversation (see rental-motorbike-breakdown-hanoi).
+Flooded sections concentrate at curbs and dips. Choose the highest visible line, keep a steady throttle, and do not swerve hard in deep water — if an oncoming bus pushes a bow wave at you, slow right down rather than fighting for your line. If water reaches above the axle, find another way around; water in the airbox or exhaust of a rental bike becomes a breakdown conversation (see [What Happens If a Rental Motorbike Breaks Down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }})).
 
 ## Lights and visibility
 
-Rain without lights makes you invisible. Turn your headlight on — riding unlit between 18:00 and 06:00 is a fined violation and covered in motorbike-night-lights-vietnam, but in rain, run lights at any hour. Helmets with clear visors beat sunglasses in a downpour; wipe the visor when you stop.
+Rain without lights makes you invisible. Turn your headlight on — riding unlit between 18:00 and 06:00 is a fined violation and covered in [Night Riding: Motorbike Light Rules in Vietnam]({{ '/articles/motorbike-night-lights-vietnam/' | relative_url }}), but in rain, run lights at any hour. Helmets with clear visors beat sunglasses in a downpour; wipe the visor when you stop.
 
 ## Braking and distance
 
-Wet drum brakes, common on underbones, grab unpredictably. Brake early, use both brakes, and double your following distance. Keep out of the middle of the lane where oil collects. Avoid lockup: a sliding rental bike costs you the deposit at minimum — see how-deposit-returns-work-hanoi.
+Wet drum brakes, common on underbones, grab unpredictably. Brake early, use both brakes, and double your following distance. Keep out of the middle of the lane where oil collects. Avoid lockup: a sliding rental bike costs you the deposit at minimum — see [How Deposit Returns Work at Hanoi Motorbike Rentals]({{ '/articles/how-deposit-returns-work-hanoi/' | relative_url }}).
 
 ## Gear and timing
 
-A rain suit costs little at any bike shop and pays for itself in one storm. Beyond that, the honest answer about Hanoi rain is that waiting usually works: most storms pass in 20–40 minutes, and the safest decision is often a coffee under an awning. Riding all day through the rainy season is covered from the rental-planning side in renting-a-motorbike-in-hanoi-in-the-rainy-season.
+A rain suit costs little at any bike shop and pays for itself in one storm. Beyond that, the honest answer about Hanoi rain is that waiting usually works: most storms pass in 20–40 minutes, and the safest decision is often a coffee under an awning. Riding all day through the rainy season is covered from the rental-planning side in [Renting a Motorbike in Hanoi in the Rainy Season]({{ '/articles/renting-motorbike-hanoi-rainy-season/' | relative_url }}).
 
 ## After the rain
 
-Wipe the seat, check that the chain is not visibly slack (a wet chain on a rental may need attention — see loose-chain-on-rental-motorbike), and let the brakes dry with a few gentle applications before you need them hard.
+Wipe the seat, check that the chain is not visibly slack (a wet chain on a rental may need attention — see [What to Do If the Chain Feels Loose on a Rental Bike]({{ '/articles/loose-chain-on-rental-motorbike/' | relative_url }})), and let the brakes dry with a few gentle applications before you need them hard.

@@ -1,7 +1,7 @@
 ---
-title: "VinFast Evo Lite vs Amio: Two Licence-Free Formulas"
+title: "VinFast Evo Lite vs Amio: Specs and Battery Ecosystem"
 slug: vinfast-evo-lite-vs-amio
-description: "VinFast Evo Lite vs Amio compared on official data: the 50 km/h speed-limited scooter against the 30 km/h pedal-assist runabout - two different licence-free formulas."
+description: "Official-data comparison of the VinFast Evo Lite and Amio: motor, speed cap, battery packs, swap network versus home charging, and what the launch data leaves out."
 category: electric
 tags:
   - "vinfast"
@@ -18,10 +18,10 @@ last_reviewed: 2026-09-24
 sources:
   - "https://vinfastauto.us/investor-relations/news/vinfast-launches-four-new-electric-scooter-models-completes-installation-of — VinFast official news release, 15 January 2026"
   - "docs/MODEL-DATABASE.md — verified electric rows (retrieved 2026-09-24)"
-internal_link_targets: vinfast-amio-review, vinfast-evo-lite-review, vinfast-electric-scooter-lineup-vietnam, electric-two-wheeler-speed-classes-vietnam, why-electric-mopeds-capped-50kmh-vietnam
+internal_link_targets: vinfast-amio-review, vinfast-evo-lite-review, vinfast-electric-scooter-lineup-vietnam, electric-two-wheeler-speed-classes-vietnam, why-electric-mopeds-capped-50kmh-vietnam, vinfast-amio-vs-evo-lite
 ---
 
-VinFast's licence-free corner holds two machines that look like different categories and, legally, are: the Amio is a pedal-assist runabout in the bicycle-adjacent class; the Evo Lite is a scooter engineered under the 50 km/h moped cap. Choosing between them is really choosing which kind of licence-free you want to be. All figures are official launch data.
+VinFast's licence-free corner holds two machines that look like different categories and, legally, are: the Amio is a pedal-assist runabout in the bicycle-adjacent class; the Evo Lite is a scooter engineered under the 50 km/h moped cap. This guide is the specification and battery-ecosystem view; for a rider-by-rider recommendation see [VinFast Amio vs Evo Lite: which licence-free ride to choose]({{ '/articles/vinfast-amio-vs-evo-lite/' | relative_url }}). All figures are official launch data.
 
 ## Head to head
 
@@ -45,7 +45,7 @@ The battery structures also differ in kind: the Lite inherits the swap ecosystem
 
 ## Who should pick which
 
-- **Amio**: lightest legal footprint, shortest trips, riders (and families) who want the simplest possible machine. Review.
-- **Evo Lite**: full scooter ergonomics with an unambiguous position under the cap; better for multi-trip days and longer errands. Review.
+- **Amio**: lightest legal footprint, shortest trips, riders (and families) who want the simplest possible machine. [Amio review]({{ '/articles/vinfast-amio-review/' | relative_url }}).
+- **Evo Lite**: full scooter ergonomics with an unambiguous position under the cap; better for multi-trip days and longer errands. [Evo Lite review]({{ '/articles/vinfast-evo-lite-review/' | relative_url }}).
 
-Both sit licence-free, but they are licence-free in different legal classes — the speed-classes guide explains the boundaries. Rental availability of either: contact us to confirm current availability.
+Both sit licence-free, but they are licence-free in different legal classes — the [speed-classes guide]({{ '/articles/electric-two-wheeler-speed-classes-vietnam/' | relative_url }}) explains the boundaries. Rental availability of either: [contact us]({{ '/contact/' | relative_url }}) to confirm current availability.

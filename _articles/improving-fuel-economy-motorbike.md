@@ -27,7 +27,7 @@ Smooth throttle changes beat aggressive ones: every hard launch and full-throttl
 
 ## The maintenance that pays
 
-Tyre pressure is the quiet one: soft tyres increase rolling resistance and wear — tyre-care-motorbike-vietnam explains how to check. A clogged air filter richens the mixture and drinks fuel — air-filter-care-motorbike-vietnam. Engine oil past its best increases internal friction — checking-engine-oil-motorbike. A bike that is serviced on time motorbike-service-when-vietnam simply uses less than one that is not.
+Tyre pressure is the quiet one: soft tyres increase rolling resistance and wear — [Tyre Care and Pressure Basics for Motorbikes]({{ '/articles/tyre-care-motorbike-vietnam/' | relative_url }}) explains how to check. A clogged air filter richens the mixture and drinks fuel — [Air Filter Care on a Motorbike in Vietnam]({{ '/articles/air-filter-care-motorbike-vietnam/' | relative_url }}). Engine oil past its best increases internal friction — [Checking Engine Oil on a Motorbike]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }}). A bike that is serviced on time [When to Service a Motorbike in Vietnam]({{ '/articles/motorbike-service-when-vietnam/' | relative_url }}) simply uses less than one that is not.
 
 ## The weight and drag list
 
@@ -35,7 +35,7 @@ Carrying a passenger, a full top box or a week of shopping costs fuel on every t
 
 ## Fuel quality and myths
 
-Use the petrol your owner's manual specifies; a higher octane than the engine is designed for does not add power or economy. No additive in a bottle recovers what bad habits waste — and rental riders should note the fuel policy basics in rental-motorbike-fuel-policy-hanoi before assuming who fills what.
+Use the petrol your owner's manual specifies; a higher octane than the engine is designed for does not add power or economy. No additive in a bottle recovers what bad habits waste — and rental riders should note the fuel policy basics in [Fuel Policy When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-fuel-policy-hanoi/' | relative_url }}) before assuming who fills what.
 
 ## What to expect
 

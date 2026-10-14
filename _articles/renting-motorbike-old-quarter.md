@@ -20,23 +20,23 @@ sources:
 internal_link_targets: "best-bike-for-hanoi-old-quarter, where-to-park-motorbike-hanoi, best-motorbike-for-hanoi-traffic, motorbike-rental-pickup-or-delivery-hanoi, riding-on-sidewalk-vietnam"
 ---
 
-The Old Quarter is the densest riding environment in Vietnam — thirty-six narrow historic streets named for the trades that filled them, most barely wider than two bikes passing. Riding here is legal and normal, but it rewards a specific style: slow, patient, and defensive.
+The Old Quarter is the densest riding environment in Vietnam — thirty-six narrow historic streets named for the trades that filled them, most barely wider than two bikes passing. Riding here is legal and normal, but it rewards a specific style: slow, patient, and defensive. Motorbike rental for the Old Quarter follows the standard [Hanoi rental process]({{ '/topics/rental/' | relative_url }}); the difference is how you ride once you have the bike.
 
 ## The riding reality
 
-Average speed in the heart of the Old Quarter is walking pace at busy hours. Streets run with the flow, pedestrians share the carriageway, and food stalls claim the kerb. The two habits that matter: never ride on the sidewalks to bypass jams (it is a fined violation — see riding-on-sidewalk-vietnam), and never assume the street geometry matches your map — one-way routing here changes, and alleys that look like through-routes end in courtyards.
+Average speed in the heart of the Old Quarter is walking pace at busy hours. Streets run with the flow, pedestrians share the carriageway, and food stalls claim the kerb. The two habits that matter: never ride on the sidewalks to bypass jams (it is a fined violation — see [Riding on the Sidewalk in Vietnam: What the Law Says]({{ '/articles/riding-on-sidewalk-vietnam/' | relative_url }})), and never assume the street geometry matches your map — one-way routing here changes, and alleys that look like through-routes end in courtyards.
 
 ## Which bike and how fast
 
-Small automatics exist for this environment: light steering, low speed, narrow mirror width. The reasoning is in best-bike-for-hanoi-old-quarter. Anything larger turns every squeeze-through into a negotiation.
+Small automatics exist for this environment: light steering, low speed, narrow mirror width. The reasoning is in [Best Bike for Riding in the Hanoi Old Quarter]({{ '/articles/best-bike-for-hanoi-old-quarter/' | relative_url }}). Anything larger turns every squeeze-through into a negotiation.
 
 ## Parking in the Old Quarter
 
-This is the real constraint. Kerb space is scarce, attendants control most legal spots, and wrongly parked bikes get moved or ticketed. The practical pattern: use the attended lots near Hang Bac, Dong Xuan market and the lake approaches, take your helmet, and never leave anything under the seat. The full parking playbook is in where-to-park-motorbike-hanoi.
+This is the real constraint. Kerb space is scarce, attendants control most legal spots, and wrongly parked bikes get moved or ticketed. The practical pattern: use the attended lots near Hang Bac, Dong Xuan market and the lake approaches, take your helmet, and never leave anything under the seat. The full parking playbook is in [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}).
 
 ## Renting for Old Quarter use
 
-Most riders rent from a shop and ride in — Nguyen Tu's shop is on Nguyen Van Cu in Long Bien, across the river and about fifteen minutes' ride from Hoan Kiem lake; a delivery arrangement to your hotel can be discussed case by case within opening hours (09:00–21:00) — see motorbike-rental-pickup-or-delivery-hanoi. Doing the handover away from the busiest streets has a real advantage: you inspect the bike and learn its controls in calm conditions, then enter the Old Quarter already comfortable — the handover routine is in how-to-rent-a-motorbike-hanoi and rental-motorbike-inspection-checklist.
+Most riders rent from a shop and ride in — Nguyen Tu's shop is on Nguyen Van Cu in Long Bien, across the river and about fifteen minutes' ride from Hoan Kiem lake; a delivery arrangement to your hotel can be discussed case by case within opening hours (09:00–21:00) — see [Shop Pickup vs Delivery When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}). Doing the handover away from the busiest streets has a real advantage: you inspect the bike and learn its controls in calm conditions, then enter the Old Quarter already comfortable — the handover routine is in [How to Rent a Motorbike in Hanoi: A Step-by-Step Guide]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}) and [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}).
 
 ## Timing the area
 

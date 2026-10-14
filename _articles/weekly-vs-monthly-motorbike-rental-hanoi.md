@@ -20,11 +20,11 @@ sources:
 internal_link_targets: "motorbike-rental-monthly-price-hanoi, monthly-vs-daily-motorbike-rental-hanoi, daily-weekly-monthly-motorbike-rental-hanoi, monthly-motorbike-rental-hanoi, three-month-motorbike-rental-hanoi"
 ---
 
-The one-to-four-week stay is the awkward zone of motorbike rental: too long for daily rates to make sense, not always long enough to commit to a month. Here is how to resolve it.
+The one-to-four-week stay is the awkward zone of [motorbike rental]({{ '/topics/rental/' | relative_url }}): too long for daily rates to make sense, not always long enough to commit to a month. Here is how to resolve it.
 
 ## The published rates involved
 
-Weekly rates exist for some models and monthly rates for others — the full table is in daily-weekly-monthly-motorbike-rental-hanoi. The key published figures for this decision: Honda Vision 800,000–1,000,000 VND/week and 1,800,000–2,000,000 VND/month; Honda Air Blade 800,000 VND/week and 1,400,000 VND/month; Honda Click and Yamaha Mio 600,000–700,000 VND/week and 1,000,000–1,200,000 VND/month.
+Weekly rates exist for some models and monthly rates for others — the full table is in [Daily, Weekly or Monthly Motorbike Rental in Hanoi: How to Choose]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}). The key published figures for this decision: Honda Vision 800,000–1,000,000 VND/week and 1,800,000–2,000,000 VND/month; Honda Air Blade 800,000 VND/week and 1,400,000 VND/month; Honda Click and Yamaha Mio 600,000–700,000 VND/week and 1,000,000–1,200,000 VND/month.
 
 ## The arithmetic of the crossover
 
@@ -38,8 +38,8 @@ Compare the weekly rate times your stay against the monthly rate for the same mo
 
 ## What to confirm either way
 
-Whichever structure you choose, the same rules apply: exact rate for your dates confirmed with the shop at booking; current availability of the model (contact us to confirm current availability); the deposit (typically 2,000,000–5,000,000 VND — see motorbike-rental-deposit-monthly-hanoi); and the return terms. If there is a real chance your stay stretches past the month, say so at booking — extensions are covered in extending-motorbike-rental-hanoi, and arranging ahead beats renegotiating late.
+Whichever structure you choose, the same rules apply: exact rate for your dates confirmed with the shop at booking; current availability of the model ([contact us]({{ '/contact/' | relative_url }}) to confirm current availability); the deposit (typically 2,000,000–5,000,000 VND — see [Deposits for Monthly Motorbike Rental in Hanoi]({{ '/articles/motorbike-rental-deposit-monthly-hanoi/' | relative_url }})); and the return terms. If there is a real chance your stay stretches past the month, say so at booking — extensions are covered in [Extending or Renewing a Monthly Motorbike Rental in Hanoi]({{ '/articles/extending-motorbike-rental-hanoi/' | relative_url }}), and arranging ahead beats renegotiating late.
 
 ## The one-line version
 
-Under about two weeks: weekly. Two weeks and beyond, or an open-ended stay: monthly where a rate is published — and if the stay might grow further, read three-month-motorbike-rental-hanoi next.
+Under about two weeks: weekly. Two weeks and beyond, or an open-ended stay: monthly where a rate is published — and if the stay might grow further, read [Three-Month Motorbike Rental in Hanoi]({{ '/articles/three-month-motorbike-rental-hanoi/' | relative_url }}) next.

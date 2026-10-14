@@ -20,7 +20,7 @@ sources:
 internal_link_targets: best-motorbike-for-expats-hanoi, best-motorbike-for-day-trips-from-hanoi, where-to-park-motorbike-hanoi, motorbike-rental-pickup-or-delivery-hanoi, riding-rental-motorbike-hanoi-rain, tay-ho-west-lake-area-guide-riders, west-lake-loop-motorbike-route
 ---
 
-Tay Ho — the West Lake district — is Hanoi's calmest riding environment and its most residential expat area. If Long Bien is arteries and the Old Quarter is capillaries, Tay Ho is the loop.
+Tay Ho — the West Lake district — is Hanoi's calmest riding environment and its most residential expat area, which makes Tay Ho motorbike rental mostly a question of [delivery]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) and [monthly terms]({{ '/topics/monthly-rental/' | relative_url }}). If Long Bien is arteries and the Old Quarter is capillaries, Tay Ho is the loop.
 
 ## The lake loop
 
@@ -32,15 +32,15 @@ Tay Ho's main roads (Xuan Dieu, To Ngoc Van, Au Co, the Vo Chi Cong artery) are 
 
 ## Renting for Tay Ho
 
-The district is a common delivery destination for rentals because many foreign residents live here; Nguyen Tu arranges delivery case by case depending on location, within opening hours 09:00–21:00 — see motorbike-rental-pickup-or-delivery-hanoi. Expats renting monthly will find the bike-choice logic in best-motorbike-for-expats-hanoi, and the monthly rate picture in daily-weekly-monthly-motorbike-rental-hanoi.
+The district is a common delivery destination for rentals because many foreign residents live here; Nguyen Tu arranges delivery case by case depending on location, within opening hours 09:00–21:00 — see [Shop Pickup vs Delivery When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}). Expats renting monthly will find the bike-choice logic in [Best Motorbike for Expats Living in Hanoi]({{ '/articles/best-motorbike-for-expats-hanoi/' | relative_url }}), and the monthly rate picture in [Daily, Weekly or Monthly Motorbike Rental in Hanoi: How to Choose]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}).
 
 ## Parking around Tay Ho
 
-Lakeside cafes and malls have attended lots; quiet residential lanes are kerbside parking where rows already exist. The etiquette and the no-go zones are in where-to-park-motorbike-hanoi. A theft note that applies district-wide: lakeside parking after dark is fine in busy areas, less fine in empty stretches — overnight parking belongs under cover (theft-loss-responsibility-rental-motorbike-hanoi explains why that matters on a rental).
+Lakeside cafes and malls have attended lots; quiet residential lanes are kerbside parking where rows already exist. The etiquette and the no-go zones are in [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}). A theft note that applies district-wide: lakeside parking after dark is fine in busy areas, less fine in empty stretches — overnight parking belongs under cover ([Theft and Loss Responsibility on Rental Motorbikes in Hanoi]({{ '/articles/theft-loss-responsibility-rental-motorbike-hanoi/' | relative_url }}) explains why that matters on a rental).
 
 ## Weather windows
 
-Tay Ho is exposed: the open lakeside has no shelter from sudden rain or winter wind. In rainy season, check the sky before committing to the far side of the loop — see riding-rental-motorbike-hanoi-rain — and in winter, the wind off the lake is real; bring the layers described in renting-a-motorbike-in-hanoi-in-winter.
+Tay Ho is exposed: the open lakeside has no shelter from sudden rain or winter wind. In rainy season, check the sky before committing to the far side of the loop — see [Riding a Rental Motorbike in Hanoi Rain: What to Know]({{ '/articles/riding-rental-motorbike-hanoi-rain/' | relative_url }}) — and in winter, the wind off the lake is real; bring the layers described in [renting a motorbike in Hanoi in winter]({{ '/articles/renting-motorbike-hanoi-winter/' | relative_url }}).
 
 ## The short version
 

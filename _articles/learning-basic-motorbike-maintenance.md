@@ -23,16 +23,16 @@ Vietnam is one of the best places in the world to learn motorbike maintenance: p
 
 ## Level one: the walk-around (week one)
 
-Before touching tools, learn to *see*. Every rider should be able to check: tyre condition and pressures, oil level, chain tension and lubrication, brake lever feel, lights, horn, and loose fasteners. This is the daily and weekly ritual in motorbike-maintenance-basics-vietnam — and it is 80% of maintenance value with 0% of risk.
+Before touching tools, learn to *see*. Every rider should be able to check: tyre condition and pressures, oil level, chain tension and lubrication, brake lever feel, lights, horn, and loose fasteners. This is the daily and weekly ritual in [Motorbike Maintenance Basics for Vietnam]({{ '/articles/motorbike-maintenance-basics-vietnam/' | relative_url }}) — and it is 80% of maintenance value with 0% of risk.
 
 ## Level two: the consumables (first months)
 
 The safe first repairs, low-consequence and high-learning:
 
 - **Chain cleaning and lubrication** — mechanical, visible, instantly rewarding.
-- **Oil and filter changes** at home — the full procedure is in changing-engine-oil-at-home-vietnam.
+- **Oil and filter changes** at home — the full procedure is in [Changing Engine Oil at Home]({{ '/articles/changing-engine-oil-at-home-vietnam/' | relative_url }}).
 - **Air filter inspection and cleaning** — an airbox is the friendliest engine component.
-- **Spark plug removal, reading and replacement** — reading spark-plug-condition-motorbike teaches diagnosis, not just wrenching.
+- **Spark plug removal, reading and replacement** — [Reading Your Spark Plug: Colour Tells a Story]({{ '/articles/reading-spark-plug-condition-motorbike/' | relative_url }}) teaches diagnosis, not just wrenching.
 - **Bulb and fuse replacement** — electrical confidence without electrical danger.
 
 Each of these teaches one honest lesson: bolts have torque, fluids have specs, and a job half-done is worse than a job not started.
@@ -47,8 +47,8 @@ Every step above has a model-specific correct answer, and the owner's manual hol
 
 ## Knowing the limit
 
-The DIY boundary for most riders: anything inside the engine, inside the gearbox, inside brakes' hydraulics, and anything involving wheel bearings or steering. These need tools, cleanliness and experience that home wrenching rarely has, and errors there are dangerous, not educational. The skill is handing over well: describing symptoms accurately, which is its own discipline covered in talking-to-mechanic-vietnam.
+The DIY boundary for most riders: anything inside the engine, inside the gearbox, inside brakes' hydraulics, and anything involving wheel bearings or steering. These need tools, cleanliness and experience that home wrenching rarely has, and errors there are dangerous, not educational. The skill is handing over well: describing symptoms accurately, which is its own discipline covered in [Getting Repairs Done: Talking to a Vietnamese Mechanic]({{ '/articles/talking-to-mechanic-vietnam/' | relative_url }}).
 
 ## The toolkit and the habit
 
-A modest toolkit covers levels one to three — the list is in motorbike-rider-toolkit-essentials. And maintenance is a habit, not a hobby: fifteen minutes a week with a rag and a checklist teaches more about your bike than a crisis ever will. New riders should also be honest that riding skill and mechanical skill are separate ladders — learning to ride in Hanoi traffic is its own curriculum; start with the basics there before adding spanners.
+A modest toolkit covers levels one to three — the list is in [A Rider's Toolkit: What to Carry Under the Seat]({{ '/articles/motorbike-rider-toolkit-essentials/' | relative_url }}). And maintenance is a habit, not a hobby: fifteen minutes a week with a rag and a checklist teaches more about your bike than a crisis ever will. New riders should also be honest that riding skill and mechanical skill are separate ladders — learning to ride in Hanoi traffic is its own curriculum; start with the basics there before adding spanners.

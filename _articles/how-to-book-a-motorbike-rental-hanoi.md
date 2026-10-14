@@ -1,7 +1,7 @@
 ---
 title: "How to Book a Motorbike Rental in Hanoi (WhatsApp, Zalo, Walk-In)"
 slug: how-to-book-a-motorbike-rental-hanoi
-description: "Booking a motorbike in Hanoi works by WhatsApp, Zalo, phone or walk-in - message ahead, confirm the model and dates, agree the deposit, then inspect the bike at handover. How each route works."
+description: "Book a motorbike rental in Hanoi by WhatsApp, Zalo, phone or walk-in (no app): message ahead, confirm model and dates, agree the deposit, then inspect at handover."
 category: rental
 tags:
   - "booking"
@@ -20,7 +20,7 @@ sources:
 internal_link_targets: "how-to-rent-a-motorbike-hanoi, motorbike-rental-pickup-or-delivery-hanoi, motorbike-rental-price-hanoi, motorbike-rental-deposit-hanoi, can-foreigners-rent-a-motorbike-hanoi"
 ---
 
-Booking is the easy part of renting in Hanoi. There are three routes and they all end the same way: you, a bike, a deposit, and a contract.
+Booking is the easy part of [renting in Hanoi]({{ '/topics/rental/' | relative_url }}). There are three routes and they all end the same way: you, a bike, a deposit, and a contract. There is no booking app and no online payment; a WhatsApp or Zalo message is the online route.
 
 ## Messaging first: WhatsApp or Zalo
 
@@ -32,17 +32,17 @@ Calling works too, in Vietnamese or simple English. A call is fastest for a same
 
 ## Walk-in
 
-Hanoi rentals sit all over the city - Nguyen Tu is at 112 Nguyen Van Cu Street, Bo De, Long Bien, open 09:00-21:00 daily. Walking in means seeing the actual bike, riding it around the block, and swapping it on the spot if the seat does not fit you or the brakes feel soft. The only cost of walking in is time, and during peak tourist season the bike you wanted may be gone.
+Hanoi rentals sit all over the city - Nguyen Tu is at 112 Nguyen Van Cu Street, Bo De, Long Bien, open 09:00-21:00 daily ([contact page]({{ '/contact/' | relative_url }})). Walking in means seeing the actual bike, riding it around the block, and swapping it on the spot if the seat does not fit you or the brakes feel soft. The only cost of walking in is time, and during peak tourist season the bike you wanted may be gone.
 
 ## What to settle in writing before you arrive
 
-- The exact model and its rate for your period (daily, weekly, monthly).
-- The deposit amount and how it is held and returned.
-- Whether you pick up at the shop or want delivery to your address - delivery in Hanoi may be available depending on location and arrangement, agreed case by case.
+- The exact model and its [rate for your period]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) (daily, weekly, monthly).
+- The [deposit amount]({{ '/articles/motorbike-rental-deposit-hanoi/' | relative_url }}) and how it is held and returned.
+- Whether you pick up at the shop or want [delivery to your address]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) - delivery in Hanoi may be available depending on location and arrangement, agreed case by case.
 - The return date, time and fuel convention.
 
 ## What to do at handover whoever you booked with
 
-The inspection checklist, photos of existing scratches, and the registration certificate in your hand. Booking secures the bike; the inspection secures your deposit.
+The [inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}), photos of existing scratches, and the registration certificate in your hand. Booking secures the bike; the inspection secures your deposit.
 
 For a one-off day rental, walking in is fine. For anything longer than a few days, message ahead and lock the model and dates in writing.

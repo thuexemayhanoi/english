@@ -1,7 +1,7 @@
 ---
 title: "How Much Does It Cost to Rent a Motorbike in Hanoi?"
 slug: motorbike-rental-price-hanoi
-description: "Hanoi motorbike rental prices: 150,000-200,000 VND per day for common models, 600,000-1,000,000 VND per week, 1,000,000-2,000,000 VND per month - plus deposit. The published rate card."
+description: "Hanoi motorbike rental prices: 150,000-200,000 VND per day, 600,000-1,000,000 VND per week and 1,000,000-2,000,000 VND per month, plus a deposit."
 category: rental
 tags:
   - "rental prices"
@@ -20,7 +20,7 @@ sources:
 internal_link_targets: "daily-weekly-monthly-motorbike-rental-hanoi, motorbike-rental-deposit-hanoi, renting-vs-buying-a-motorbike-hanoi, what-is-included-motorbike-rental-hanoi, how-to-book-a-motorbike-rental-hanoi"
 ---
 
-The straight answer, from the published rate card. All figures are VND, all are per bike, and all assume the deposit on top.
+The straight answer on [Hanoi motorbike rental]({{ '/topics/rental/' | relative_url }}) prices, from the published rate card. All figures are VND, all are per bike, and all assume the deposit on top.
 
 ## Published daily rates
 
@@ -34,7 +34,7 @@ The straight answer, from the published rate card. All figures are VND, all are 
 | Honda Air Blade | 200,000 |
 | E-Bike (electric) | 200,000 |
 
-50 cc motorbikes have no published fixed price - contact the shop directly.
+50 cc motorbikes have no published fixed price - [contact the shop directly]({{ '/contact/' | relative_url }}) or read [renting a 50cc in Hanoi]({{ '/articles/renting-50cc-hanoi/' | relative_url }}).
 
 ## Published weekly and monthly rates
 
@@ -49,12 +49,26 @@ The Honda Wave, Yamaha Sirius and e-bike publish day rates only; weekly and mont
 
 ## The deposit
 
-Typically 2,000,000-5,000,000 VND depending on the bike, held in cash and returned at the end of the rental.
+Typically 2,000,000-5,000,000 VND depending on the bike, held in cash and returned at the end of the rental - see [how deposit returns work]({{ '/articles/how-deposit-returns-work-hanoi/' | relative_url }}).
 
 ## What is not in the price
 
-Fuel is the renter's. Rider insurance is not included - the bike carries the vehicle's compulsory third-party cover, and customers arrange their own insurance. Delivery in Hanoi may be available depending on location and arrangement, agreed case by case - there is no published delivery fee.
+Fuel is the renter's. [Rider insurance is not included]({{ '/articles/is-insurance-included-motorbike-rental-hanoi/' | relative_url }}) - the bike carries the vehicle's compulsory third-party cover, and customers arrange their own insurance. [Delivery in Hanoi]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) may be available depending on location and arrangement, agreed case by case - there is no published delivery fee.
 
 ## How the periods compare
 
-The weekly rates beat daily pricing from about day five; the monthly rates beat weekly pricing from about three weeks. The period-choice article runs the arithmetic. And remember every model listing means "when in stock" - contact us to confirm current availability of the model you want on your dates.
+The weekly rates beat daily pricing from about day five; the monthly rates beat weekly pricing from about three weeks. [Daily, weekly or monthly]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}) runs the arithmetic, and the [monthly price guide]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }}) covers long stays. And remember every model listing means "when in stock" - contact us to confirm current availability of the model you want on your dates.
+
+## Frequently asked questions
+
+### Is a monthly rental cheaper than paying by the day?
+
+Yes, where a monthly rate is published. A Honda Click or Yamaha Mio costs 1,000,000-1,200,000 VND for a month against 150,000 VND per day, and a Honda Vision 1,800,000-2,000,000 VND against 200,000 VND per day. Models without a published monthly rate are quoted on request.
+
+### Is the deposit part of the rental price?
+
+No. The deposit, typically 2,000,000-5,000,000 VND depending on the bike, is held separately and returned at the end of the rental once the bike is checked.
+
+### How can I pay?
+
+Cash, bank transfer and QR payment are accepted. Confirm the method when you book.

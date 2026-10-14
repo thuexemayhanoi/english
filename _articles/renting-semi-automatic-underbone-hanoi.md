@@ -1,7 +1,7 @@
 ---
 title: "Renting a Semi-Automatic Underbone in Hanoi: What to Expect"
 slug: renting-semi-automatic-underbone-hanoi
-description: "Why the semi-automatic underbone is the classic Hanoi rental: how it rides, what it costs from published Nguyen Tu prices, and practical rental facts."
+description: "Why the semi-automatic motorbike (underbone) is the classic Hanoi rental: how it rides, what it costs from published Nguyen Tu prices, and practical rental facts."
 category: manual-clutch
 tags:
   - "semi automatic"
@@ -23,20 +23,20 @@ If Hanoi has a default rental bike, it is the semi-automatic underbone — the H
 
 ## Why it suits Hanoi
 
-No clutch to manage, four gears to cover every speed the city allows, light steering for gaps and market streets, and the riding position gives a clear view over dense traffic. A semi-automatic asks the rider for one skill — the foot shift — and forgives everything else. You cannot stall it. Riders who have never touched a gearbox manage it within a single ride; the first-time guide covers the technique.
+No clutch to manage, four gears to cover every speed the city allows, light steering for gaps and market streets, and the riding position gives a clear view over dense traffic. A semi-automatic asks the rider for one skill — the foot shift — and forgives everything else. You cannot stall it. Riders who have never touched a gearbox manage it within a single ride; [riding a semi-automatic for the first time]({{ '/articles/riding-semi-automatic-first-time/' | relative_url }}) covers the technique.
 
 ## What to expect from the rental
 
-- **Published prices:** Nguyen Tu rents the Honda Wave class and Yamaha Sirius at 150,000 VND per day. No weekly or monthly rate is published for these models — contact us for longer-term pricing.
+- **Published prices:** Nguyen Tu rents the Honda Wave class and Yamaha Sirius at 150,000 VND per day. No weekly or monthly rate is published for these models — [contact us]({{ '/contact/' | relative_url }}) for longer-term pricing; the full [rate card]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) lists every published price.
 - **Deposit:** typically 2,000,000–5,000,000 VND depending on the vehicle and conditions.
 - **Insurance:** not provided; riders arrange their own.
 - **Availability:** the category is the historical core of the fleet, but for any specific model contact us to confirm current availability.
 
 ## Renting day to day
 
-Fuel is at your own arrangement — underbones sip so little that fuel is a minor cost. Daily riding needs nothing from you beyond a tyre-glance; anything mechanical, report it rather than repair it. For longer stays, monthly rental is usually better value — the monthly rental guide covers the switch.
+Fuel is at your own arrangement — underbones sip so little that fuel is a minor cost. Daily riding needs nothing from you beyond a tyre-glance; anything mechanical, report it rather than repair it. For longer stays, monthly rental is usually better value — [monthly motorbike rental in Hanoi]({{ '/articles/monthly-motorbike-rental-hanoi/' | relative_url }}) covers the switch.
 
 ## Who should choose something else
 
-Riders who want zero gearbox involvement at all belong on an automatic scooter; riders who want the sport end of the underbone world are looking at manual-clutch bikes. The automatic-versus-manual comparison lays out the three categories side by side, and the commuting underbones guide covers the models that fit Hanoi specifically.
+Riders who want zero gearbox involvement at all belong on an automatic scooter; riders who want the sport end of the underbone world are looking at manual-clutch bikes. [Automatic vs semi-automatic vs manual]({{ '/articles/automatic-vs-manual-motorbike-hanoi/' | relative_url }}) lays out the three categories side by side, and [best underbones for Hanoi commuting]({{ '/articles/best-underbones-hanoi-commuting-verified/' | relative_url }}) covers the models that fit Hanoi specifically. The [rental guides]({{ '/topics/rental/' | relative_url }}) cover documents and deposits for any class.
 
