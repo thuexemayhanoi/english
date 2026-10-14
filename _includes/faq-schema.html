@@ -1,0 +1,4 @@
+{%- comment -%} FAQPage JSON-LD for /faq/, generated from the same data as the visible FAQ. {%- endcomment -%}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","@id":"{{ '/faq/' | absolute_url }}#faqpage","url":"{{ '/faq/' | absolute_url }}","mainEntity":[{% for s in site.data.faq.sections %}{% for item in s.items %}{"@type":"Question","name":{{ item.q | strip_html | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ item.a | replace: '@@', site.baseurl | strip_html | jsonify }}}}{% unless forloop.last and forloop.parentloop.last %},{% endunless %}{% endfor %}{% endfor %}]}
+</script>

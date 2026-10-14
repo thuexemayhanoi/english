@@ -1165,5 +1165,28 @@
       "/topics/hanoi/",
       "/topics/vietnam-travel/"
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "batch": "foundation-1",
+    "note": "Weapon 01 (blog foundation): /faq/ moved onto _data/faq.json with identical markup plus FAQPage JSON-LD (52 Q&A); every hub lists its guides grouped by sub-cluster (silo view, humanised headings); /about/ carries AboutPage JSON-LD pointing at the Organization and WebSite nodes",
+    "urls": [
+      "/faq/",
+      "/about/",
+      "/topics/rental/",
+      "/topics/monthly-rental/",
+      "/topics/scooters/",
+      "/topics/motorcycles/",
+      "/topics/manual-clutch/",
+      "/topics/50cc/",
+      "/topics/electric/",
+      "/topics/maintenance/",
+      "/topics/parts-gear/",
+      "/topics/safety/",
+      "/topics/law-licences/",
+      "/topics/hanoi/",
+      "/topics/trips/",
+      "/topics/vietnam-travel/"
+    ]
   }
 ]

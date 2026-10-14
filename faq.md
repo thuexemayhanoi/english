@@ -6,3 +6,4 @@ description: "Answers about Hanoi motorbike rental prices, licences, deposits, 5
 ---
 {% include breadcrumbs.html %}
 {% include faq-body.html %}
+{% include faq-schema.html %}

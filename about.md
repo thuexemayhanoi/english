@@ -97,3 +97,16 @@ description: "Learn about Nguyen Tu Motorbike Rental in Hanoi, this English moto
   <li><strong>Opening hours:</strong> 09:00&ndash;21:00 daily</li>
 </ul>
 <p>Use the <a href="{{ '/contact/' | relative_url }}">contact page</a> for the full details and map, browse the <a href="{{ '/articles/' | relative_url }}">guides</a> for in-depth topics, or check the <a href="{{ '/faq/' | relative_url }}">FAQ</a> for quick answers about prices, licences, deposits and delivery.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "@id": "https://en.rentbikehanoi.com/about/#aboutpage",
+  "url": "https://en.rentbikehanoi.com/about/",
+  "name": "About Nguyen Tu Motorbike Guide",
+  "inLanguage": "en",
+  "isPartOf": {"@id": "https://en.rentbikehanoi.com/#website"},
+  "mainEntity": {"@id": "https://en.rentbikehanoi.com/#organization"}
+}
+</script>

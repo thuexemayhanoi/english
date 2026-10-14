@@ -31,8 +31,13 @@ layout: default
   </div>
 </div>
 {% else %}
+{%- comment -%} Silo view: guides grouped by sub-cluster (front matter subcluster, e.g. "1.1 how-to-rent"), label humanised from the slug part. {%- endcomment -%}
+{% assign hub_groups = cluster_articles | group_by: "subcluster" | sort: "name" %}
+{% for g in hub_groups %}
+{% assign label_words = g.name | split: " " %}{% if label_words.size > 1 %}{% assign group_label = label_words | slice: 1, 8 | join: " " | replace: "-", " " | capitalize %}{% else %}{% assign group_label = "Other guides" %}{% endif %}
+<h3 class="hub-group" id="group-{{ g.name | slugify }}">{{ group_label }} <span class="hub-group-count">{{ g.items.size }}</span></h3>
 <ul class="card-list">
-  {% for a in cluster_articles %}
+  {% for a in g.items %}
     <li class="card">
       <a href="{{ a.url | relative_url }}">
         <span class="card-title">{{ a.title }}</span>
@@ -42,4 +47,5 @@ layout: default
     </li>
   {% endfor %}
 </ul>
+{% endfor %}
 {% endif %}

@@ -235,3 +235,13 @@ Live verification of pass 7 (commit 05f8c0b): the production homepage serves the
 ## 2026-10-14 — Pass 8: Common questions on the remaining nine hubs
 
 Five more live SERP snapshots (OpenRush, recorded in `keyword-evidence.json` `_serp_snapshot_hubs`: safety, scooters, 50cc, Vietnam trips, riding in Hanoi; AI overviews present on all five, forums and tour operators dominate the organic results) supplied the People-also-ask questions for the informational hubs. All 14 hubs now carry a Common questions section with FAQPage JSON-LD: 55 questions in total, each answered in two or three sentences from a VERIFIED article or OWNER-FACTS and linked to the serving guide (no prices, intervals or claims beyond what those sources state). Verification on the final tree: source audits P0/P1 0, build 1004 pages, rendered audit P2 1 (404), engine tests 29/29, Guide Assistant 31/31, Quality Gate PASS, regression guard PASS; rendered hubs: 14 FAQPage blocks, 55 questions.
+
+## 2026-10-14 — Five-weapon programme, weapon 01: blog foundation (Homepage, About, Pillar–Hub–Silo, FAQ, Contact, Privacy, Terms, technical SEO)
+
+Audit result: every foundation page already exists with title, description, breadcrumbs and canonical; the homepage links all 14 hubs through the navigation data and lists the six most recently reviewed guides; Contact carries LocalBusiness schema, Privacy and Terms are indexable utility pages. Three gaps fixed:
+
+- **FAQ**: the 52-question customer FAQ now lives in `_data/faq.json`; `_includes/faq-body.html` renders exactly the same markup (verified byte-equivalent apart from whitespace) and `_includes/faq-schema.html` emits FAQPage JSON-LD from the same data, so the visible answers and the structured data cannot drift. Internal links in the data use `@@/path/` placeholders that the include resolves with `site.baseurl`.
+- **Pillar–Hub–Silo**: each hub's "All guides in this topic" list is now grouped by sub-cluster with humanised headings (for example the rental hub shows How to rent, Choosing bike, Rental practicalities, Renter situations, Area guides), making the silo structure visible to readers and crawlers.
+- **About**: AboutPage JSON-LD linking the Organization and WebSite nodes.
+
+Verification: all source audits P0/P1 0 (seo-audit P2 4 = REVIEW_REQUIRED banners), build 1004 pages, rendered audit P2 1 (404), engine tests 29/29, Guide Assistant 31/31 with the same 52 FAQ chunks, Quality Gate PASS, regression guard PASS.

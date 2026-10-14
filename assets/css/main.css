@@ -1124,3 +1124,7 @@ font-size: var(--text-sm); color: var(--muted); margin: 0 0 var(--sp-3); }
 @media (prefers-reduced-motion: reduce) {
   .article-toc-head .chev { transition: none !important; }
 }
+
+/* Hub silo groups (cluster layout: guides grouped by sub-cluster) */
+.hub-group { margin: var(--sp-6) 0 var(--sp-3); font-size: var(--text-lg); }
+.hub-group-count { color: var(--muted); font-weight: 400; font-size: var(--text-sm); margin-left: var(--sp-2); }
