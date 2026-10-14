@@ -6,6 +6,7 @@ layout: default
 {{ content }}
 {% assign cluster = page.topic_cluster %}
 {% assign cluster_articles = site.articles | where: "topic_cluster", cluster %}
+{% if cluster_articles.size > 0 %}<h2 id="all-guides">All guides in this topic</h2>{% endif %}
 <p class="meta">{% if cluster_articles.size == 0 %}Guides for this topic are being prepared.{% else %}{{ cluster_articles.size }} {% if cluster_articles.size == 1 %}guide{% else %}guides{% endif %} in this topic.{% endif %}</p>
 {% if cluster_articles.size == 0 %}
 <div class="empty-state" role="note">
