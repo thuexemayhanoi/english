@@ -497,22 +497,24 @@ function resolveGap(question) {
 // _serp_snapshot_commercial, any future _serp_snapshot_* block).
 const gapSources = [];
 const seenGapQueries = new Set();
-const pushGapSource = (q) => {
-  if (!q || !q.query || seenGapQueries.has(q.query)) return;
-  seenGapQueries.add(q.query);
-  gapSources.push({ query: q.query, paa: q.people_also_ask || [], related: q.related_searches || [] });
+const pushGapSource = (q, market) => {
+  const mk = String(q && (q.market || market) || '');
+  const key = q && q.query ? (q.query + '|' + mk).toLowerCase() : '';
+  if (!key || seenGapQueries.has(key)) return;
+  seenGapQueries.add(key);
+  gapSources.push({ query: q.query, market: mk, paa: q.people_also_ask || [], related: q.related_searches || [] });
 };
 if (evidenceMap) for (const key of Object.keys(evidenceMap).filter(k => k.startsWith('_serp_snapshot')).sort()) {
   const block = evidenceMap[key];
   if (!block || typeof block !== 'object') continue;
-  if (Array.isArray(block.queries)) block.queries.forEach(pushGapSource); else pushGapSource(block);
+  if (Array.isArray(block.queries)) block.queries.forEach(q => pushGapSource(q, block.market)); else pushGapSource(block, block.market);
 }
 summary.contentGaps = [];
 for (const gs of gapSources) {
   for (const [kind, list] of [['People also ask', gs.paa], ['Related search', gs.related]]) for (const q of list) {
-    if (/reddit|quora|facebook/i.test(q)) { summary.contentGaps.push({ question: q, kind, serp: gs.query, servedBy: '', how: 'community-platform query, not a content gap', gap: false }); continue; }
+    if (/reddit|quora|facebook/i.test(q)) { summary.contentGaps.push({ question: q, kind, serp: gs.query + (gs.market && !/united states/i.test(gs.market) ? ' [' + gs.market + ']' : ''), servedBy: '', how: 'community-platform query, not a content gap', gap: false }); continue; }
     const r = resolveGap(q);
-    summary.contentGaps.push({ question: q, kind, serp: gs.query, servedBy: r ? r.url : '', how: r ? r.how : 'no serving URL found', gap: !r });
+    summary.contentGaps.push({ question: q, kind, serp: gs.query + (gs.market && !/united states/i.test(gs.market) ? ' [' + gs.market + ']' : ''), servedBy: r ? r.url : '', how: r ? r.how : 'no serving URL found', gap: !r });
   }
 }
 summary.contentGapCount = summary.contentGaps.filter(g => g.gap).length;

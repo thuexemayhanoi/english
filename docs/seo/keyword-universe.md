@@ -1,109 +1,117 @@
 # Keyword universe (zero-data mode)
 
-Generated 2026-10-14 by `scripts/english-seo-matrix.js` from `docs/seo/keyword-universe.json` (138 on-topic rows, generated 2026-10-14). Volumes are a third-party search index's monthly estimates per market, read through the OpenRush connector on the date recorded in the JSON; they are prioritisation evidence, not facts to publish, and will be replaced by Search Console data in DATA-DRIVEN mode. Markets: US = United States, UK = United Kingdom, AU = Australia, VN = Vietnam.
+Generated 2026-10-14 by `scripts/english-seo-matrix.js` from `docs/seo/keyword-universe.json` (159 on-topic rows, generated 2026-10-14). Volumes are a third-party search index's monthly estimates per market, read through the OpenRush connector on the date recorded in the JSON; they are prioritisation evidence, not facts to publish, and will be replaced by Search Console data in DATA-DRIVEN mode. Markets: AU = Australia, UK = United Kingdom, US = United States, VN = Vietnam.
 
 ## Sources
 
 | Tool | Seed / scope | Market | Date | Returned | Available | On-topic rows kept |
 |---|---|---|---|---|---|---|
-| OpenRush research_keywords | ideas "motorbike rental hanoi" | au | 2026-10-14 | 60 | 153019 | 12 |
-| OpenRush research_keywords | ideas "motorbike rental hanoi" | uk | 2026-10-14 | 60 | 75585 | 9 |
-| OpenRush research_keywords | ideas "motorbike rental hanoi" | us | 2026-10-14 | 100 | 11489 | 18 |
-| OpenRush research_keywords | ideas "motorbike rental hanoi" | vn | 2026-10-14 | 60 | 300 | 36 |
-| OpenRush research_keywords | ideas "motorbike rental hanoi" | us | 2026-10-14 | 100 | 11489 | 18 |
-| OpenRush research_keywords | suggestions "motorbike rental hanoi" | vn | 2026-10-14 | 17 | 17 | 17 |
-| OpenRush research_keywords | suggestions "motorbike rental hanoi" | us | 2026-10-14 | 20 | 20 | 19 |
-| OpenRush research_keywords | suggestions "scooter rental vietnam" | us | 2026-10-14 | 7 | 7 | 7 |
-| OpenRush research_keywords | ideas "vietnam motorbike license" | us | 2026-10-14 | 100 | 373241 | 4 |
 | OpenRush compare_keyword_coverage | en.rentbikehanoi.com vs tigitmotorbikes.com, rentalmotorbikevietnam.com, theextramile.co, stylemotorbikes.com, rentabikevn.com | us | 2026-10-14 | 100 | 738 | 45 |
 | OpenRush inspect_domain | rentalmotorbikevietnam.com | us | 2026-10-14 | - | - | 10 |
+| OpenRush research_keywords | ideas "electric motorbike vietnam" | vn | 2026-10-14 | 60 | 934 | 44 |
+| OpenRush research_keywords | ideas "ha giang loop" | us | 2026-10-14 | 60 | 69310 | 9 |
+| OpenRush research_keywords | suggestions "monthly motorbike rental hanoi" | vn | 2026-10-14 | 0 | - | 0 |
+| OpenRush research_keywords | ideas "motorbike helmet vietnam" | us | 2026-10-14 | 40 | 268582 | 0 |
+| OpenRush research_keywords | ideas "motorbike rental hanoi" | au | 2026-10-14 | 60 | 153019 | 12 |
+| OpenRush research_keywords | ideas "motorbike rental hanoi" | uk | 2026-10-14 | 60 | 75585 | 10 |
+| OpenRush research_keywords | ideas "motorbike rental hanoi" | us | 2026-10-14 | 100 | 11489 | 18 |
+| OpenRush research_keywords | ideas "motorbike rental hanoi" | vn | 2026-10-14 | 60 | 300 | 36 |
+| OpenRush research_keywords | suggestions "motorbike rental hanoi" | us | 2026-10-14 | 20 | 20 | 19 |
+| OpenRush research_keywords | suggestions "motorbike rental hanoi" | vn | 2026-10-14 | 17 | 17 | 17 |
+| OpenRush research_keywords | ideas "riding motorbike in vietnam" | vn | 2026-10-14 | 60 | 20074 | 45 |
+| OpenRush research_keywords | suggestions "scooter rental vietnam" | us | 2026-10-14 | 7 | 7 | 7 |
+| OpenRush research_keywords | ideas "vietnam motorbike license" | us | 2026-10-14 | 100 | 373241 | 4 |
 
 ## Coverage
 
-- core: 105
-- competitor-brand: 9
+- core: 116
+- competitor-brand: 10
 - other-city: 11
-- adjacent: 13
-- core served by an existing URL: 104 (18 only by a partial match, marked _weak_); core gaps: 1
-- estimated monthly demand covered (core served / core total): US 16180/16190, UK 360/360, AU 750/750, VN 49200/49200
+- adjacent: 22
+- core served by an existing URL: 113 (24 only by a partial match, marked _weak_); core gaps: 3
+- estimated monthly demand covered (core served / core total): AU 750/750, UK 360/360, US 16180/16190, VN 50340/50460
 
 ## Core keywords by topic
 
-### buying-vs-renting (6)
+### buying-vs-renting (7)
 
-| Keyword | Intent | US | UK | AU | VN | Competitor ranking | Serving URL | How |
+| Keyword | Intent | AU | UK | US | VN | Competitor ranking | Serving URL | How |
 |---|---|---|---|---|---|---|---|---|
 | buy motorbike in vietnam | transactional |  |  |  | 70 |  | /articles/buying-motorbike-parts-online-vietnam/ | title/keyword match |
 | buy motorbike vietnam | transactional |  |  |  | 70 |  | /articles/buying-motorbike-parts-online-vietnam/ | title/keyword match |
+| buying a motorbike in vietnam | transactional |  |  |  | 70 |  | /articles/buying-motorbike-parts-online-vietnam/ | title/keyword match |
 | vietnam motorbike buy | transactional |  |  |  | 70 |  | /articles/buying-motorbike-parts-online-vietnam/ | title/keyword match |
 | motorbike vietnam price | commercial |  |  |  | 50 |  | /articles/cheapest-electric-motorbikes-vietnam-list-prices/ | title/keyword match |
 | buying a motorbike in hanoi | transactional |  |  |  | 10 |  | /articles/renting-vs-buying-a-motorbike-hanoi/ | title/keyword match |
 | electric motorbike vietnam price | commercial |  |  |  | 10 |  | /articles/cheapest-electric-motorbikes-vietnam-list-prices/ | title/keyword match |
 
-### general (14)
+### general (17)
 
-| Keyword | Intent | US | UK | AU | VN | Competitor ranking | Serving URL | How |
+| Keyword | Intent | AU | UK | US | VN | Competitor ranking | Serving URL | How |
 |---|---|---|---|---|---|---|---|---|
-| hanoi motorbike | informational | 70 |  |  | 1000 |  | /topics/rental/ | title/keyword match |
-| motorbike vietnam | informational | 1000 |  |  |  | tigitmotorbikes.com #9, rentalmotorbikevietnam.com #18, stylemotorbikes.com #10 | /topics/vietnam-travel/ | keyword-targets owner (Motorbike Vietnam) |
-| motorbiking in vietnam | informational | 1000 |  |  |  | rentalmotorbikevietnam.com #25 | /topics/vietnam-travel/ | keyword-targets owner (Motorbiking in Vietnam) |
-| motorcycles vietnam | informational | 1000 |  |  |  | tigitmotorbikes.com #4, stylemotorbikes.com #3 | /topics/vietnam-travel/ | keyword-targets owner (Motorbiking in Vietnam) |
-| vietnam motorbike | informational | 1000 |  | 320 |  | tigitmotorbikes.com #19, stylemotorbikes.com #30 | /topics/vietnam-travel/ | keyword-targets owner (Motorbike Vietnam) |
-| vietnamese motorbikes | transactional | 1000 |  |  |  | tigitmotorbikes.com #2, stylemotorbikes.com #5 | /articles/motorbikes-on-expressway-vietnam/ | title/keyword match |
-| vietnamese motorcycle | transactional | 1000 |  |  |  | tigitmotorbikes.com #2, stylemotorbikes.com #10 | /articles/police-impound-motorbike-vietnam/ | title/keyword match |
-| vietnam motorcycles | informational | 390 |  |  |  | tigitmotorbikes.com #5, stylemotorbikes.com #2 | /topics/vietnam-travel/ | keyword-targets owner (Motorbiking in Vietnam) |
-| vietnam bike | transactional | 210 |  |  |  | tigitmotorbikes.com #14, stylemotorbikes.com #6, rentabikevn.com #26 | /articles/dat-bike-lineup-vietnam-guide/ | title/keyword match |
+| hanoi motorbike | informational |  |  | 70 | 1000 |  | /topics/rental/ | title/keyword match |
+| motorbike vietnam | informational |  |  | 1000 |  | rentalmotorbikevietnam.com #18, stylemotorbikes.com #10, tigitmotorbikes.com #9 | /topics/vietnam-travel/ | keyword-targets owner (Motorbike Vietnam) |
+| motorbiking in vietnam | informational |  |  | 1000 |  | rentalmotorbikevietnam.com #25 | /topics/vietnam-travel/ | keyword-targets owner (Motorbiking in Vietnam) |
+| motorcycles vietnam | informational |  |  | 1000 |  | stylemotorbikes.com #3, tigitmotorbikes.com #4 | /topics/vietnam-travel/ | keyword-targets owner (Motorbiking in Vietnam) |
+| vietnam motorbike | informational | 320 |  | 1000 |  | stylemotorbikes.com #30, tigitmotorbikes.com #19 | /topics/vietnam-travel/ | keyword-targets owner (Motorbike Vietnam) |
+| vietnamese motorbikes | transactional |  |  | 1000 |  | stylemotorbikes.com #5, tigitmotorbikes.com #2 | /articles/motorbikes-on-expressway-vietnam/ | title/keyword match |
+| vietnamese motorcycle | transactional |  |  | 1000 |  | stylemotorbikes.com #10, tigitmotorbikes.com #2 | /articles/police-impound-motorbike-vietnam/ | title/keyword match |
+| motorbikes in vietnam | informational |  |  |  | 880 |  | /topics/vietnam-travel/ | keyword-targets owner (Motorbiking in Vietnam) |
+| vietnam motorcycles | informational |  |  | 390 |  | stylemotorbikes.com #2, tigitmotorbikes.com #5 | /topics/vietnam-travel/ | keyword-targets owner (Motorbiking in Vietnam) |
+| vietnam bike | transactional |  |  | 210 |  | rentabikevn.com #26, stylemotorbikes.com #6, tigitmotorbikes.com #14 | /articles/dat-bike-lineup-vietnam-guide/ | title/keyword match |
 | travel vietnam motorbike | commercial |  |  |  | 70 |  | /articles/motorbike-travel-insurance-vietnam/ | title/keyword match |
-| motorbikes ho chi minh _weak_ | commercial |  |  | 50 |  |  | /topics/vietnam-travel/ | nearest URL (partial match): Common-questions entry: Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City? |
-| bmw motorcycles vietnam **GAP** | commercial | 10 |  |  |  |  | - | no serving URL found |
-| ho chi minh road motorbike | informational |  |  | 10 |  |  | /articles/ho-chi-minh-highway-motorbike-guide/ | title/keyword match |
-| motorbike in hanoi | informational | 10 |  |  |  |  | /topics/rental/ | title/keyword match |
+| triumph motorcycles vietnam **GAP** | navigational |  |  |  | 70 |  | - | no serving URL found |
+| motorbikes ho chi minh _weak_ | commercial | 50 |  |  |  |  | /topics/vietnam-travel/ | nearest URL (partial match): Common-questions entry: Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City? |
+| mutt motorcycles vietnam **GAP** | navigational |  |  |  | 50 |  | - | no serving URL found |
+| bmw motorcycles vietnam **GAP** | commercial |  |  | 10 |  |  | - | no serving URL found |
+| ho chi minh road motorbike | informational | 10 |  |  |  |  | /articles/ho-chi-minh-highway-motorbike-guide/ | title/keyword match |
+| motorbike in hanoi | informational |  |  | 10 |  |  | /topics/rental/ | title/keyword match |
 
 ### licence-and-paperwork (6)
 
-| Keyword | Intent | US | UK | AU | VN | Competitor ranking | Serving URL | How |
+| Keyword | Intent | AU | UK | US | VN | Competitor ranking | Serving URL | How |
 |---|---|---|---|---|---|---|---|---|
-| motorbike licence vietnam | informational | 50 |  |  |  |  | /articles/50cc-licence-vietnam/ | title/keyword match |
-| motorbike license vietnam | informational | 50 |  |  |  |  | /articles/50cc-licence-vietnam/ | title/keyword match |
-| motorbike vietnam license | informational | 50 |  |  |  |  | /articles/50cc-licence-vietnam/ | title/keyword match |
-| vietnam bike license | informational | 50 |  |  |  |  | /articles/electric-bike-licence-vietnam/ | title/keyword match |
-| temporary vietnamese motorcycle licence _weak_ | informational | 10 |  |  |  |  | /articles/foreign-student-motorbike-licence-vietnam/ | nearest URL (partial match): title/keyword match |
-| vietnam motorbike license reddit _weak_ | informational | 10 |  |  |  |  | /topics/50cc/ | nearest URL (partial match): Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam? |
+| motorbike licence vietnam | informational |  |  | 50 |  |  | /articles/50cc-licence-vietnam/ | title/keyword match |
+| motorbike license vietnam | informational |  |  | 50 |  |  | /articles/50cc-licence-vietnam/ | title/keyword match |
+| motorbike vietnam license | informational |  |  | 50 |  |  | /articles/50cc-licence-vietnam/ | title/keyword match |
+| vietnam bike license | informational |  |  | 50 |  |  | /articles/electric-bike-licence-vietnam/ | title/keyword match |
+| temporary vietnamese motorcycle licence _weak_ | informational |  |  | 10 |  |  | /articles/foreign-student-motorbike-licence-vietnam/ | nearest URL (partial match): title/keyword match |
+| vietnam motorbike license reddit _weak_ | informational |  |  | 10 |  |  | /topics/50cc/ | nearest URL (partial match): Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam? |
 
 ### rental-hanoi (20)
 
-| Keyword | Intent | US | UK | AU | VN | Competitor ranking | Serving URL | How |
+| Keyword | Intent | AU | UK | US | VN | Competitor ranking | Serving URL | How |
 |---|---|---|---|---|---|---|---|---|
-| hanoi motorbike rental | commercial | 110 |  |  | 2400 |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
-| motorbike rental hanoi | transactional | 110 |  |  | 2400 |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
-| rental motorbike hanoi | transactional | 110 |  |  | 2400 |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
-| hanoi motorbike rent | transactional | 110 |  |  |  | tigitmotorbikes.com #1, rentalmotorbikevietnam.com #2, theextramile.co #19, stylemotorbikes.com #7, rentabikevn.com #14 | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
-| hanoi motorbike rentals | commercial | 110 |  |  |  | tigitmotorbikes.com #1, rentalmotorbikevietnam.com #4, theextramile.co #16, stylemotorbikes.com #5, rentabikevn.com #13 | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
-| hanoi rent motorbike | transactional | 110 |  |  |  | tigitmotorbikes.com #2, rentalmotorbikevietnam.com #1, theextramile.co #20, stylemotorbikes.com #8, rentabikevn.com #13 | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
-| motorbike rental hanoi vietnam | transactional | 110 |  |  |  |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
-| hanoi motorbike rental cost | commercial | 10 |  |  | 30 |  | /articles/motorbike-rental-budget-monthly-hanoi/ | title/keyword match |
+| hanoi motorbike rental | commercial |  |  | 110 | 2400 |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
+| motorbike rental hanoi | transactional |  |  | 110 | 2400 |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
+| rental motorbike hanoi | transactional |  |  | 110 | 2400 |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
+| hanoi motorbike rent | transactional |  |  | 110 |  | rentabikevn.com #14, rentalmotorbikevietnam.com #2, stylemotorbikes.com #7, theextramile.co #19, tigitmotorbikes.com #1 | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
+| hanoi motorbike rentals | commercial |  |  | 110 |  | rentabikevn.com #13, rentalmotorbikevietnam.com #4, stylemotorbikes.com #5, theextramile.co #16, tigitmotorbikes.com #1 | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
+| hanoi rent motorbike | transactional |  |  | 110 |  | rentabikevn.com #13, rentalmotorbikevietnam.com #1, stylemotorbikes.com #8, theextramile.co #20, tigitmotorbikes.com #2 | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
+| motorbike rental hanoi vietnam | transactional |  |  | 110 |  |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
+| hanoi motorbike rental cost | commercial |  |  | 10 | 30 |  | /articles/motorbike-rental-budget-monthly-hanoi/ | title/keyword match |
 | hanoi motorbike hire | commercial |  |  |  | 20 |  | /topics/rental/ | keyword-targets owner (Motorbike hire Hanoi) |
 | motorbike hire hanoi | transactional |  |  |  | 20 |  | /topics/rental/ | keyword-targets owner (Motorbike hire Hanoi) |
-| motorbike rental hanoi near me | transactional | 0 |  |  | 20 |  | /contact/ | local-intent query: contact page (address, map, hours) |
-| motorbike rental hanoi old quarter | transactional | 10 |  |  | 20 |  | /articles/renting-motorbike-old-quarter/ | keyword-targets owner (Motorbike rental Hanoi Old Quarter) |
-| best motorbike rental hanoi | commercial | 10 |  |  | 10 |  | /topics/rental/ | keyword-targets owner (Best motorbike rental Hanoi) |
-| cheap motorbike rental hanoi | transactional | 10 |  |  | 10 |  | /articles/motorbike-rental-price-hanoi/ | keyword-targets owner (Cheap motorbike rental Hanoi) |
-| motorbike rental hanoi price | transactional | 10 |  |  | 10 |  | /articles/motorbike-rental-monthly-price-hanoi/ | title/keyword match |
-| motorbike rental in hanoi | transactional | 10 |  |  | 10 |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
+| motorbike rental hanoi near me | transactional |  |  | 0 | 20 |  | /contact/ | local-intent query: contact page (address, map, hours) |
+| motorbike rental hanoi old quarter | transactional |  |  | 10 | 20 |  | /articles/renting-motorbike-old-quarter/ | keyword-targets owner (Motorbike rental Hanoi Old Quarter) |
+| best motorbike rental hanoi | commercial |  |  | 10 | 10 |  | /topics/rental/ | keyword-targets owner (Best motorbike rental Hanoi) |
+| cheap motorbike rental hanoi | transactional |  |  | 10 | 10 |  | /articles/motorbike-rental-price-hanoi/ | keyword-targets owner (Cheap motorbike rental Hanoi) |
+| motorbike rental hanoi price | transactional |  |  | 10 | 10 |  | /articles/motorbike-rental-monthly-price-hanoi/ | title/keyword match |
+| motorbike rental in hanoi | transactional |  |  | 10 | 10 |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
 | motorbike rental in hanoi vietnam | transactional |  |  |  | 10 |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
-| motorbike rental old quarter hanoi | transactional | 10 |  |  |  |  | /articles/renting-motorbike-old-quarter/ | keyword-targets owner (Motorbike rental Hanoi Old Quarter) |
+| motorbike rental old quarter hanoi | transactional |  |  | 10 |  |  | /articles/renting-motorbike-old-quarter/ | keyword-targets owner (Motorbike rental Hanoi Old Quarter) |
 | motorbike rental vietnam hanoi | transactional | 10 | 10 | 10 |  |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
-| vietnam motorbike rental hanoi | transactional | 10 |  |  | 10 |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
+| vietnam motorbike rental hanoi | transactional |  |  | 10 | 10 |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
 
 ### rental-vietnam (25)
 
-| Keyword | Intent | US | UK | AU | VN | Competitor ranking | Serving URL | How |
+| Keyword | Intent | AU | UK | US | VN | Competitor ranking | Serving URL | How |
 |---|---|---|---|---|---|---|---|---|
 | motorbike rental in vietnam | transactional |  |  |  | 3600 |  | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) |
-| motorbike rental vietnam | transactional | 320 |  |  | 3600 | tigitmotorbikes.com #2, rentalmotorbikevietnam.com #3, theextramile.co #5, stylemotorbikes.com #4, rentabikevn.com #13 | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) |
+| motorbike rental vietnam | transactional |  |  | 320 | 3600 | rentabikevn.com #13, rentalmotorbikevietnam.com #3, stylemotorbikes.com #4, theextramile.co #5, tigitmotorbikes.com #2 | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) |
 | motorbike rentals vietnam | transactional |  |  |  | 3600 |  | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) |
 | rent a motorbike in vietnam | transactional |  |  |  | 3600 |  | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) |
-| rent a motorbike vietnam | transactional | 320 |  |  | 3600 | tigitmotorbikes.com #2, rentalmotorbikevietnam.com #3, theextramile.co #10, stylemotorbikes.com #6, rentabikevn.com #7 | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) |
+| rent a motorbike vietnam | transactional |  |  | 320 | 3600 | rentabikevn.com #7, rentalmotorbikevietnam.com #3, stylemotorbikes.com #6, theextramile.co #10, tigitmotorbikes.com #2 | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) |
 | rent motorbike in vietnam | transactional |  |  |  | 3600 |  | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) |
 | rent motorbike vietnam | transactional |  |  |  | 3600 |  | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) |
 | renting a motorbike in vietnam | transactional |  |  |  | 3600 |  | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) |
@@ -111,94 +119,110 @@ Generated 2026-10-14 by `scripts/english-seo-matrix.js` from `docs/seo/keyword-u
 | vietnam motorbike rent | transactional |  |  |  | 3600 |  | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) |
 | vietnam motorbike rental | transactional |  |  |  | 3600 |  | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) |
 | halong motorbike rental _weak_ | commercial |  |  |  | 320 |  | /articles/can-tourists-rent-a-motorbike-hanoi/ | nearest URL (partial match): Common-questions entry: Can I rent a motorbike for just one day? |
-| motorcycle rental in vietnam | transactional | 320 |  |  |  | tigitmotorbikes.com #2, rentalmotorbikevietnam.com #3, theextramile.co #13, stylemotorbikes.com #4, rentabikevn.com #8 | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) |
-| motorcycle rental vietnam | commercial | 320 |  |  |  | tigitmotorbikes.com #2, rentalmotorbikevietnam.com #3, theextramile.co #6, stylemotorbikes.com #4, rentabikevn.com #13 | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) |
-| rent a motorcycle vietnam | transactional | 320 |  |  |  | tigitmotorbikes.com #2, rentalmotorbikevietnam.com #3, theextramile.co #12, stylemotorbikes.com #5, rentabikevn.com #10 | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) |
-| motorbike hire vietnam | transactional |  |  | 170 |  |  | /topics/vietnam-travel/ | keyword-targets owner (Motorbike hire Vietnam) |
-| vietnam motorbike hire | commercial |  |  | 170 |  |  | /topics/vietnam-travel/ | keyword-targets owner (Motorbike hire Vietnam) |
-| scooter rental vietnam | commercial | 90 |  |  |  |  | /topics/scooters/ | keyword-targets owner (Scooter rental Vietnam) |
-| vietnam scooter rental | commercial | 90 |  |  |  |  | /topics/scooters/ | keyword-targets owner (Scooter rental Vietnam) |
-| 50cc scooter rental vietnam | transactional | 10 |  |  |  |  | /topics/50cc/ | Common-questions entry: Can I rent a 50cc scooter in Vietnam? |
+| motorcycle rental in vietnam | transactional |  |  | 320 |  | rentabikevn.com #8, rentalmotorbikevietnam.com #3, stylemotorbikes.com #4, theextramile.co #13, tigitmotorbikes.com #2 | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) |
+| motorcycle rental vietnam | commercial |  |  | 320 |  | rentabikevn.com #13, rentalmotorbikevietnam.com #3, stylemotorbikes.com #4, theextramile.co #6, tigitmotorbikes.com #2 | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) |
+| rent a motorcycle vietnam | transactional |  |  | 320 |  | rentabikevn.com #10, rentalmotorbikevietnam.com #3, stylemotorbikes.com #5, theextramile.co #12, tigitmotorbikes.com #2 | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) |
+| motorbike hire vietnam | transactional | 170 |  |  | 20 |  | /topics/vietnam-travel/ | keyword-targets owner (Motorbike hire Vietnam) |
+| vietnam motorbike hire | commercial | 170 |  |  | 20 |  | /topics/vietnam-travel/ | keyword-targets owner (Motorbike hire Vietnam) |
+| scooter rental vietnam | commercial |  |  | 90 |  |  | /topics/scooters/ | keyword-targets owner (Scooter rental Vietnam) |
+| vietnam scooter rental | commercial |  |  | 90 |  |  | /topics/scooters/ | keyword-targets owner (Scooter rental Vietnam) |
+| 50cc scooter rental vietnam | transactional |  |  | 10 |  |  | /topics/50cc/ | Common-questions entry: Can I rent a 50cc scooter in Vietnam? |
 | motorbike rental laos _weak_ | transactional |  | 10 |  |  |  | /articles/motorbike-border-crossing-vietnam-laos/ | nearest URL (partial match): title/keyword match |
-| one way scooter rental vietnam _weak_ | transactional | 10 |  |  |  |  | /articles/one-way-motorbike-rental-vietnam/ | nearest URL (partial match): title/keyword match |
-| scooter rental vietnam price _weak_ | commercial | 10 |  |  |  |  | /articles/motorbike-rental-price-hanoi/ | nearest URL (partial match): Common-questions entry: Is the deposit part of the rental price? |
-| vietnam scooter rental one way _weak_ | transactional | 10 |  |  |  |  | /articles/one-way-motorbike-rental-vietnam/ | nearest URL (partial match): title/keyword match |
-| vietnam scooter rental price _weak_ | commercial | 10 |  |  |  |  | /articles/motorbike-rental-price-hanoi/ | nearest URL (partial match): Common-questions entry: Is the deposit part of the rental price? |
+| one way scooter rental vietnam _weak_ | transactional |  |  | 10 |  |  | /articles/one-way-motorbike-rental-vietnam/ | nearest URL (partial match): title/keyword match |
+| scooter rental vietnam price _weak_ | commercial |  |  | 10 |  |  | /articles/motorbike-rental-price-hanoi/ | nearest URL (partial match): Common-questions entry: Is the deposit part of the rental price? |
+| vietnam scooter rental one way _weak_ | transactional |  |  | 10 |  |  | /articles/one-way-motorbike-rental-vietnam/ | nearest URL (partial match): title/keyword match |
+| vietnam scooter rental price _weak_ | commercial |  |  | 10 |  |  | /articles/motorbike-rental-price-hanoi/ | nearest URL (partial match): Common-questions entry: Is the deposit part of the rental price? |
 
 ### riding-and-safety (4)
 
-| Keyword | Intent | US | UK | AU | VN | Competitor ranking | Serving URL | How |
+| Keyword | Intent | AU | UK | US | VN | Competitor ranking | Serving URL | How |
 |---|---|---|---|---|---|---|---|---|
-| motorbike riding vietnam | informational | 1000 |  |  |  | rentalmotorbikevietnam.com #26 | /topics/vietnam-travel/ | keyword-targets owner (Motorbike riding Vietnam) |
+| motorbike riding vietnam | informational |  |  | 1000 |  | rentalmotorbikevietnam.com #26 | /topics/vietnam-travel/ | keyword-targets owner (Motorbike riding Vietnam) |
 | vietnam on a motorbike | informational |  | 320 |  |  |  | /topics/vietnam-travel/ | keyword-targets owner (Motorbike Vietnam) |
 | vietnam motorbike laws | informational |  |  |  | 10 |  | /topics/law-licences/ | title/keyword match |
 | vietnam motorbike traffic | informational |  | 10 |  |  |  | /articles/traffic-light-rules-vietnam/ | title/keyword match |
 
-### routes-and-trips (10)
+### routes-and-trips (12)
 
-| Keyword | Intent | US | UK | AU | VN | Competitor ranking | Serving URL | How |
+| Keyword | Intent | AU | UK | US | VN | Competitor ranking | Serving URL | How |
 |---|---|---|---|---|---|---|---|---|
-| motorbike holidays vietnam _weak_ | informational | 1000 |  |  |  | tigitmotorbikes.com #28 | /articles/renting-motorbike-hanoi-tet-holidays/ | nearest URL (partial match): title/keyword match |
-| motorbike across vietnam | informational | 40 |  |  |  |  | /articles/left-turns-across-traffic-motorbike-vietnam/ | title/keyword match |
-| motorbike around vietnam | informational | 40 |  |  |  |  | /articles/riding-motorbike-blind-spots-vietnam/ | title/keyword match |
-| laos motorbike loop _weak_ | informational | 20 |  |  |  |  | /topics/trips/ | nearest URL (partial match): Common-questions entry: What is the most famous motorbike loop in Vietnam? |
-| motorbike tours hanoi | commercial | 20 |  |  |  |  | /articles/hanoi-guided-motorbike-tours-vs-self-riding/ | title/keyword match |
-| hanoi to ho chi minh motorbike rental | transactional | 10 |  |  |  |  | /topics/vietnam-travel/ | Common-questions entry: Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City? |
+| motorbike holidays vietnam _weak_ | informational |  |  | 1000 |  | tigitmotorbikes.com #28 | /articles/renting-motorbike-hanoi-tet-holidays/ | nearest URL (partial match): title/keyword match |
+| motorbike across vietnam | informational |  |  | 40 |  |  | /articles/left-turns-across-traffic-motorbike-vietnam/ | title/keyword match |
+| motorbike around vietnam | informational |  |  | 40 |  |  | /articles/riding-motorbike-blind-spots-vietnam/ | title/keyword match |
+| laos motorbike loop _weak_ | informational |  |  | 20 |  |  | /topics/trips/ | nearest URL (partial match): Common-questions entry: What is the most famous motorbike loop in Vietnam? |
+| motorbike route vietnam | informational |  |  |  | 20 |  | /articles/vietnam-motorbike-backpacker-trail/ | title/keyword match |
+| motorbike routes vietnam _weak_ | informational |  |  |  | 20 |  | /topics/safety/ | nearest URL (partial match): title/keyword match |
+| motorbike tours hanoi | commercial |  |  | 20 |  |  | /articles/hanoi-guided-motorbike-tours-vs-self-riding/ | title/keyword match |
+| hanoi to ho chi minh motorbike rental | transactional |  |  | 10 |  |  | /topics/vietnam-travel/ | Common-questions entry: Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City? |
 | motorbike from hanoi to ho chi minh | informational |  | 10 |  |  |  | /articles/hanoi-to-ho-chi-minh-city-by-motorbike/ | title/keyword match |
-| motorbike rental hanoi to ho chi minh | transactional | 10 |  |  | 10 |  | /topics/vietnam-travel/ | Common-questions entry: Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City? |
-| motorbike rental ho chi minh to hanoi | transactional | 10 |  |  | 10 |  | /topics/vietnam-travel/ | Common-questions entry: Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City? |
-| saigon to hanoi motorbike _weak_ | informational |  |  | 10 |  |  | /topics/electric/ | nearest URL (partial match): Common-questions entry: Where can I charge an electric motorbike in Hanoi? |
+| motorbike rental hanoi to ho chi minh | transactional |  |  | 10 | 10 |  | /topics/vietnam-travel/ | Common-questions entry: Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City? |
+| motorbike rental ho chi minh to hanoi | transactional |  |  | 10 | 10 |  | /topics/vietnam-travel/ | Common-questions entry: Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City? |
+| saigon to hanoi motorbike _weak_ | informational | 10 |  |  |  |  | /topics/electric/ | nearest URL (partial match): Common-questions entry: Where can I charge an electric motorbike in Hanoi? |
 
-### vehicles (20)
+### vehicles (25)
 
-| Keyword | Intent | US | UK | AU | VN | Competitor ranking | Serving URL | How |
+| Keyword | Intent | AU | UK | US | VN | Competitor ranking | Serving URL | How |
 |---|---|---|---|---|---|---|---|---|
-| scooter in vietnam | informational | 390 |  |  |  | theextramile.co #16, rentabikevn.com #21 | /topics/scooters/ | keyword-targets owner (Scooters in Vietnam) |
-| scooter in vietnamese | informational | 390 |  |  |  | theextramile.co #8, rentabikevn.com #26 | /topics/scooters/ | keyword-targets owner (Vietnamese scooters) |
-| scooters in vietnam | commercial | 390 |  |  |  | tigitmotorbikes.com #29, theextramile.co #13 | /topics/scooters/ | keyword-targets owner (Scooters in Vietnam) |
-| vietnam scooter | transactional | 390 |  |  |  | theextramile.co #16, rentabikevn.com #25 | /topics/scooters/ | keyword-targets owner (Scooters in Vietnam) |
-| vietnam scooters | transactional | 390 |  |  |  | tigitmotorbikes.com #28, theextramile.co #17 | /topics/scooters/ | keyword-targets owner (Scooters in Vietnam) |
-| vietnamese scooter | transactional | 390 |  |  |  | tigitmotorbikes.com #22, theextramile.co #11 | /topics/scooters/ | keyword-targets owner (Vietnamese scooters) |
-| vietnamese scooters | transactional | 390 |  |  |  | tigitmotorbikes.com #27, theextramile.co #17 | /topics/scooters/ | keyword-targets owner (Vietnamese scooters) |
+| scooter in vietnam | informational |  |  | 390 |  | rentabikevn.com #21, theextramile.co #16 | /topics/scooters/ | keyword-targets owner (Scooters in Vietnam) |
+| scooter in vietnamese | informational |  |  | 390 |  | rentabikevn.com #26, theextramile.co #8 | /topics/scooters/ | keyword-targets owner (Vietnamese scooters) |
+| scooters in vietnam | commercial |  |  | 390 |  | theextramile.co #13, tigitmotorbikes.com #29 | /topics/scooters/ | keyword-targets owner (Scooters in Vietnam) |
+| vietnam scooter | transactional |  |  | 390 |  | rentabikevn.com #25, theextramile.co #16 | /topics/scooters/ | keyword-targets owner (Scooters in Vietnam) |
+| vietnam scooters | transactional |  |  | 390 |  | theextramile.co #17, tigitmotorbikes.com #28 | /topics/scooters/ | keyword-targets owner (Scooters in Vietnam) |
+| vietnamese scooter | transactional |  |  | 390 |  | theextramile.co #11, tigitmotorbikes.com #22 | /topics/scooters/ | keyword-targets owner (Vietnamese scooters) |
+| vietnamese scooters | transactional |  |  | 390 |  | theextramile.co #17, tigitmotorbikes.com #27 | /topics/scooters/ | keyword-targets owner (Vietnamese scooters) |
 | honda motorbike vietnam _weak_ | transactional |  |  |  | 320 |  | /topics/50cc/ | nearest URL (partial match): Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam? |
-| mopeds in vietnam | informational | 320 |  |  |  | tigitmotorbikes.com #19, rentalmotorbikevietnam.com #30, rentabikevn.com #15 | /articles/what-is-a-moped-vietnam-law/ | keyword-targets owner (Mopeds Vietnam) |
-| mopeds vietnam | transactional | 320 |  |  |  | tigitmotorbikes.com #24, theextramile.co #18, rentabikevn.com #30 | /articles/what-is-a-moped-vietnam-law/ | keyword-targets owner (Mopeds Vietnam) |
-| vietnam mopeds | transactional | 320 |  |  |  | tigitmotorbikes.com #17, theextramile.co #16 | /articles/what-is-a-moped-vietnam-law/ | keyword-targets owner (Mopeds Vietnam) |
-| vietnamese moped | transactional | 320 |  |  |  | tigitmotorbikes.com #13, rentalmotorbikevietnam.com #20, theextramile.co #18, rentabikevn.com #7 | /articles/what-is-a-moped-vietnam-law/ | keyword-targets owner (Vietnamese moped) |
-| honda bike vietnam _weak_ | navigational | 140 |  |  |  | rentalmotorbikevietnam.com #11 | /articles/16-inch-wheel-scooters-vietnam/ | nearest URL (partial match): title/keyword match |
-| honda bikes in vietnam | commercial | 140 |  |  |  | rentalmotorbikevietnam.com #14 | /articles/grey-import-50cc-vietnam/ | title/keyword match |
-| honda motorcycles in vietnam _weak_ | commercial | 140 |  |  |  | tigitmotorbikes.com #13, rentalmotorbikevietnam.com #16, stylemotorbikes.com #7, rentabikevn.com #30 | /articles/16-inch-wheel-scooters-vietnam/ | nearest URL (partial match): title/keyword match |
+| mopeds in vietnam | informational |  |  | 320 |  | rentabikevn.com #15, rentalmotorbikevietnam.com #30, tigitmotorbikes.com #19 | /articles/what-is-a-moped-vietnam-law/ | keyword-targets owner (Mopeds Vietnam) |
+| mopeds vietnam | transactional |  |  | 320 |  | rentabikevn.com #30, theextramile.co #18, tigitmotorbikes.com #24 | /articles/what-is-a-moped-vietnam-law/ | keyword-targets owner (Mopeds Vietnam) |
+| vietnam mopeds | transactional |  |  | 320 |  | theextramile.co #16, tigitmotorbikes.com #17 | /articles/what-is-a-moped-vietnam-law/ | keyword-targets owner (Mopeds Vietnam) |
+| vietnamese moped | transactional |  |  | 320 |  | rentabikevn.com #7, rentalmotorbikevietnam.com #20, theextramile.co #18, tigitmotorbikes.com #13 | /articles/what-is-a-moped-vietnam-law/ | keyword-targets owner (Vietnamese moped) |
+| honda bike vietnam _weak_ | navigational |  |  | 140 |  | rentalmotorbikevietnam.com #11 | /articles/16-inch-wheel-scooters-vietnam/ | nearest URL (partial match): title/keyword match |
+| honda bikes in vietnam | commercial |  |  | 140 |  | rentalmotorbikevietnam.com #14 | /articles/grey-import-50cc-vietnam/ | title/keyword match |
+| honda motorcycles in vietnam _weak_ | commercial |  |  | 140 |  | rentabikevn.com #30, rentalmotorbikevietnam.com #16, stylemotorbikes.com #7, tigitmotorbikes.com #13 | /articles/16-inch-wheel-scooters-vietnam/ | nearest URL (partial match): title/keyword match |
 | electric motorbike vietnam | transactional |  |  |  | 110 |  | /articles/electric-motorbike-theft-security-vietnam/ | title/keyword match |
 | 50cc motorbike vietnam | transactional |  |  |  | 50 |  | /articles/50cc-licence-vietnam/ | title/keyword match |
+| honda ct125 vietnam _weak_ | transactional |  |  |  | 50 |  | /articles/honda-blade-vs-honda-ct125/ | nearest URL (partial match): title/keyword match |
 | suzuki motorbike vietnam _weak_ | transactional |  |  |  | 50 |  | /topics/50cc/ | nearest URL (partial match): Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam? |
-| vinfast motorbike vietnam _weak_ | informational | 10 |  |  |  |  | /topics/50cc/ | nearest URL (partial match): Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam? |
-| yamaha motorbike vietnam _weak_ | transactional |  |  | 10 |  |  | /topics/50cc/ | nearest URL (partial match): Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam? |
+| airblade honda vietnam _weak_ | transactional |  |  |  | 30 |  | /articles/16-inch-wheel-scooters-vietnam/ | nearest URL (partial match): title/keyword match |
+| honda gb350 vietnam _weak_ | transactional |  |  |  | 20 |  | /articles/16-inch-wheel-scooters-vietnam/ | nearest URL (partial match): title/keyword match |
+| honda electric bike vietnam _weak_ | transactional |  |  |  | 10 |  | /articles/can-foreigners-rent-electric-bike-vietnam/ | nearest URL (partial match): title/keyword match |
+| vinfast motorbike vietnam _weak_ | informational |  |  | 10 |  |  | /topics/50cc/ | nearest URL (partial match): Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam? |
+| yamaha motorbike vietnam _weak_ | transactional | 10 |  |  |  |  | /topics/50cc/ | nearest URL (partial match): Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam? |
+| honda cbr650r vietnam _weak_ | transactional |  |  |  |  |  | /articles/16-inch-wheel-scooters-vietnam/ | nearest URL (partial match): title/keyword match |
 
-## adjacent (13)
+## adjacent (22)
 
 Vietnam riding context without the vehicle word; served where an existing guide fits, never counted as a gap.
 
-| Keyword | Intent | US | UK | AU | VN | Competitor ranking | Serving URL | How |
+| Keyword | Intent | AU | UK | US | VN | Competitor ranking | Serving URL | How |
 |---|---|---|---|---|---|---|---|---|
-| rainy season vietnam | informational | 2400 |  |  |  | rentabikevn.com #13 | /articles/best-scooters-rainy-season-commuting-vietnam/ | title/keyword match |
-| vietnam monsoon season | informational | 2400 |  |  |  | rentabikevn.com #19 | /articles/vietnam-monsoon-season-motorbike-travel/ | title/keyword match |
-| wet season in vietnam _weak_ | informational | 2400 |  |  |  | rentabikevn.com #14 | /articles/50cc-in-the-rain-vietnam/ | nearest URL (partial match): title/keyword match |
-| ha giang loop map _weak_ | navigational | 880 |  |  |  | stylemotorbikes.com #16 | /topics/vietnam-travel/ | nearest URL (partial match): Common-questions entry: Is the Ha Giang loop difficult? |
-| traffic in vietnam | informational | 720 |  |  |  | rentabikevn.com #10 | /articles/how-to-pay-traffic-fine-vietnam/ | title/keyword match |
-| traffic vietnam | informational | 720 |  |  |  | rentabikevn.com #7 | /articles/how-to-pay-traffic-fine-vietnam/ | title/keyword match |
-| vietnam traffic | informational | 720 |  |  |  | rentabikevn.com #7 | /articles/how-to-pay-traffic-fine-vietnam/ | title/keyword match |
-| vietnamese traffic | informational | 720 |  |  |  | rentabikevn.com #3 | /articles/vietnam-traffic-culture-riding-overview/ | title/keyword match |
-| monsoon season vietnam | informational | 590 |  |  |  | rentabikevn.com #15 | /articles/vietnam-monsoon-season-motorbike-travel/ | title/keyword match |
-| police in vietnam | informational | 590 |  |  |  | rentabikevn.com #8 | /articles/stopped-by-traffic-police-vietnam/ | title/keyword match |
-| police vietnam | informational | 590 |  |  |  | rentabikevn.com #8 | /articles/stopped-by-traffic-police-vietnam/ | title/keyword match |
-| vietnam police | informational | 590 |  |  |  | rentabikevn.com #12 | /articles/stopped-by-traffic-police-vietnam/ | title/keyword match |
-| vietnamese police | informational | 590 |  |  |  | rentabikevn.com #7 | /articles/police-impound-motorbike-vietnam/ | title/keyword match |
+| rainy season vietnam | informational |  |  | 2400 |  | rentabikevn.com #13 | /articles/best-scooters-rainy-season-commuting-vietnam/ | title/keyword match |
+| vietnam monsoon season | informational |  |  | 2400 |  | rentabikevn.com #19 | /articles/vietnam-monsoon-season-motorbike-travel/ | title/keyword match |
+| wet season in vietnam _weak_ | informational |  |  | 2400 |  | rentabikevn.com #14 | /articles/50cc-in-the-rain-vietnam/ | nearest URL (partial match): title/keyword match |
+| ha giang loop map _weak_ | navigational |  |  | 880 |  | stylemotorbikes.com #16 | /topics/vietnam-travel/ | nearest URL (partial match): Common-questions entry: Is the Ha Giang loop difficult? |
+| traffic in vietnam | informational |  |  | 720 |  | rentabikevn.com #10 | /articles/how-to-pay-traffic-fine-vietnam/ | title/keyword match |
+| traffic vietnam | informational |  |  | 720 |  | rentabikevn.com #7 | /articles/how-to-pay-traffic-fine-vietnam/ | title/keyword match |
+| vietnam traffic | informational |  |  | 720 |  | rentabikevn.com #7 | /articles/how-to-pay-traffic-fine-vietnam/ | title/keyword match |
+| vietnamese traffic | informational |  |  | 720 |  | rentabikevn.com #3 | /articles/vietnam-traffic-culture-riding-overview/ | title/keyword match |
+| monsoon season vietnam | informational |  |  | 590 |  | rentabikevn.com #15 | /articles/vietnam-monsoon-season-motorbike-travel/ | title/keyword match |
+| police in vietnam | informational |  |  | 590 |  | rentabikevn.com #8 | /articles/stopped-by-traffic-police-vietnam/ | title/keyword match |
+| police vietnam | informational |  |  | 590 |  | rentabikevn.com #8 | /articles/stopped-by-traffic-police-vietnam/ | title/keyword match |
+| vietnam police | informational |  |  | 590 |  | rentabikevn.com #12 | /articles/stopped-by-traffic-police-vietnam/ | title/keyword match |
+| vietnamese police | informational |  |  | 590 |  | rentabikevn.com #7 | /articles/police-impound-motorbike-vietnam/ | title/keyword match |
+| ha giang loop november _weak_ | informational |  |  | 20 |  |  | /topics/vietnam-travel/ | nearest URL (partial match): Common-questions entry: Is the Ha Giang loop difficult? |
+| ha giang loop april _weak_ | informational |  |  | 10 |  |  | /topics/vietnam-travel/ | nearest URL (partial match): Common-questions entry: Is the Ha Giang loop difficult? |
+| ha giang loop august _weak_ | informational |  |  | 10 |  |  | /topics/vietnam-travel/ | nearest URL (partial match): Common-questions entry: Is the Ha Giang loop difficult? |
+| ha giang loop june _weak_ | informational |  |  | 10 |  |  | /topics/vietnam-travel/ | nearest URL (partial match): Common-questions entry: Is the Ha Giang loop difficult? |
+| ha giang loop loop | informational |  |  | 10 |  |  | /articles/ha-giang-loop-motorbike-guide/ | title/keyword match |
+| ha giang loop may _weak_ | navigational |  |  | 10 |  |  | /topics/vietnam-travel/ | nearest URL (partial match): Common-questions entry: Is the Ha Giang loop difficult? |
+| ha giang loop september _weak_ | informational |  |  | 10 |  |  | /topics/vietnam-travel/ | nearest URL (partial match): Common-questions entry: Is the Ha Giang loop difficult? |
+| ha giang loop start _weak_ | informational |  |  | 10 |  |  | /topics/vietnam-travel/ | nearest URL (partial match): Common-questions entry: Is the Ha Giang loop difficult? |
+| sapa ha giang loop _weak_ | navigational |  |  | 10 |  |  | /topics/vietnam-travel/ | nearest URL (partial match): Common-questions entry: Is the Ha Giang loop difficult? |
 
 ## other-city (11)
 
 Rental intent for cities the business does not serve; only Vietnam-wide informational guides may serve them.
 
-| Keyword | Intent | US | UK | AU | VN | Competitor ranking | Serving URL | How |
+| Keyword | Intent | AU | UK | US | VN | Competitor ranking | Serving URL | How |
 |---|---|---|---|---|---|---|---|---|
 | motorbike rental phu quoc | transactional |  |  |  | 2400 |  | /articles/renting-motorbike-phu-quoc/ | title/keyword match |
 | phu quoc motorbike rental | commercial |  |  |  | 2400 |  | /articles/renting-motorbike-phu-quoc/ | title/keyword match |
@@ -206,25 +230,26 @@ Rental intent for cities the business does not serve; only Vietnam-wide informat
 | hue motorbike rental | commercial |  |  |  | 720 |  | /articles/renting-motorbike-hue/ | title/keyword match |
 | motorbike rental phu quoc 24 7 _weak_ | transactional |  |  |  | 720 |  | /articles/renting-motorbike-phu-quoc/ | nearest URL (partial match): title/keyword match |
 | motorbike rental phu quoc 24/7 _weak_ | transactional |  |  |  | 720 |  | /articles/renting-motorbike-phu-quoc/ | nearest URL (partial match): title/keyword match |
-| motorbike rental ho chi minh city | transactional |  |  | 70 | 480 |  | /articles/renting-motorbike-ho-chi-minh-city/ | title/keyword match |
-| motorbike rental saigon _weak_ | transactional | 110 |  |  |  |  | /articles/can-tourists-rent-a-motorbike-hanoi/ | nearest URL (partial match): Common-questions entry: Can I rent a motorbike for just one day? |
-| motorbike hire ho chi minh city _weak_ | transactional |  |  | 20 |  |  | /topics/vietnam-travel/ | nearest URL (partial match): Common-questions entry: Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City? |
-| best motorbike rental ho chi minh _weak_ | commercial |  | 10 | 10 |  |  | /topics/vietnam-travel/ | nearest URL (partial match): Common-questions entry: Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City? |
+| motorbike rental ho chi minh city | transactional | 70 |  |  | 480 |  | /articles/renting-motorbike-ho-chi-minh-city/ | title/keyword match |
+| motorbike rental saigon _weak_ | transactional |  |  | 110 |  |  | /articles/can-tourists-rent-a-motorbike-hanoi/ | nearest URL (partial match): Common-questions entry: Can I rent a motorbike for just one day? |
+| motorbike hire ho chi minh city _weak_ | transactional | 20 |  |  |  |  | /topics/vietnam-travel/ | nearest URL (partial match): Common-questions entry: Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City? |
+| best motorbike rental ho chi minh _weak_ | commercial | 10 | 10 |  |  |  | /topics/vietnam-travel/ | nearest URL (partial match): Common-questions entry: Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City? |
 | motorbike rental da nang to hoi an _weak_ | transactional |  | 10 |  |  |  | /articles/da-nang-hoi-an-central-coast-motorbike/ | nearest URL (partial match): title/keyword match |
 
-## competitor-brand (9)
+## competitor-brand (10)
 
 Recorded to understand the SERP; never targeted in titles, headings or copy.
 
-| Keyword | Intent | US | UK | AU | VN | Competitor ranking | Serving URL | How |
+| Keyword | Intent | AU | UK | US | VN | Competitor ranking | Serving URL | How |
 |---|---|---|---|---|---|---|---|---|
-| rental motorbike vietnam | transactional | 320 |  |  | 3600 | tigitmotorbikes.com #5, rentalmotorbikevietnam.com #2, theextramile.co #18, stylemotorbikes.com #8, rentabikevn.com #11 | - | competitor brand name: never a target |
-| happiness lane | navigational | 1300 |  |  |  | rentabikevn.com #22 | - | competitor brand name: never a target |
+| rental motorbike vietnam | transactional |  |  | 320 | 3600 | rentabikevn.com #11, rentalmotorbikevietnam.com #2, stylemotorbikes.com #8, theextramile.co #18, tigitmotorbikes.com #5 | - | competitor brand name: never a target |
+| happiness lane | navigational |  |  | 1300 |  | rentabikevn.com #22 | - | competitor brand name: never a target |
 | chrunix motorbike accessories hanoi | navigational |  |  |  | 50 |  | - | competitor brand name: never a target |
-| 13535 motorbike rental hanoi | transactional | 10 |  |  | 30 |  | - | competitor brand name: never a target |
-| style motorbikes vietnam | informational | 30 |  |  |  |  | - | competitor brand name: never a target |
-| 13535 motorbike rental saigon | transactional | 20 | 10 | 10 |  |  | - | competitor brand name: never a target |
+| 13535 motorbike rental hanoi | transactional |  |  | 10 | 30 |  | - | competitor brand name: never a target |
+| style motorbikes vietnam | informational |  |  | 30 |  |  | - | competitor brand name: never a target |
+| 13535 motorbike rental saigon | transactional | 10 | 10 | 20 |  |  | - | competitor brand name: never a target |
 | gia hung motorbike rental hanoi | transactional |  |  |  | 10 |  | - | competitor brand name: never a target |
 | style motorbikes ho chi minh | informational |  | 10 |  |  |  | - | competitor brand name: never a target |
-| tuan motorbike rental hanoi | transactional | 10 |  |  | 10 |  | - | competitor brand name: never a target |
+| the motorbike station da nang | navigational |  | 10 |  |  |  | - | competitor brand name: never a target |
+| tuan motorbike rental hanoi | transactional |  |  | 10 | 10 |  | - | competitor brand name: never a target |
 

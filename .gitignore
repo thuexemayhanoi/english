@@ -9,3 +9,6 @@ reports/seo/
 reports/rendered-site-audit.json
 reports/maintenance.json
 reports/*-dry-run.json
+
+# Raw connector exports (ingested by scripts/seo-research-ingest.js; never committed)
+docs/seo/research/inbox/

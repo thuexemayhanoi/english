@@ -61,8 +61,10 @@ CURRENT remote main before acting. Never rely on remembered state.
   english-keyword-clusters.md). Status lives in docs/seo/matrix-status.json;
   third-party metrics only in docs/seo/keyword-evidence.json (tool + date).
   Progress log: docs/seo/english-seo-progress.md. Never invent metrics.
-- Zero-data research layer: docs/seo/keyword-evidence.json (every block names
-  tool + date; _serp_snapshot* blocks feed the content gap register) and
+- Zero-data research layer: scripts/seo-research-ingest.js ingests raw connector
+  exports from docs/seo/research/inbox/ (git-ignored) into
+  docs/seo/keyword-evidence.json (every block names tool + date;
+  _serp_snapshot* blocks feed the content gap register) and
   docs/seo/keyword-universe.json (on-topic demand rows per market). The matrix
   engine maps them to serving URLs and regenerates docs/seo/keyword-universe.md,
   serp-landscape.md and link-prospects.md (matrix files in maintenance.js).

@@ -238,44 +238,6 @@
   "referring_domains": 23,
   "note": "The English site is not yet present in the third-party ranking index: every figure here is a starting line, not a ranking."
  },
- "_serp_snapshot": {
-  "tool": "OpenRush inspect_serp",
-  "date": "2026-10-14",
-  "query": "motorbike rental hanoi",
-  "market": "United States",
-  "features": [
-   "local_pack",
-   "organic",
-   "people_also_ask",
-   "related_searches"
-  ],
-  "people_also_ask": [
-   "How much is bike rental in Hanoi?",
-   "Is motorcycle rental cheaper than car rental?",
-   "What is the most famous motorbike loop in Vietnam?",
-   "Can tourists ride motorcycles in Vietnam?"
-  ],
-  "related_searches": [
-   "Electric motorbike rental hanoi",
-   "Motorbike rental Hanoi Old Quarter",
-   "Vietnam motorbike rental one way",
-   "Motorbike rental Ho Chi Minh",
-   "Hanoi motorbike rental cost",
-   "One way motorbike rental Hanoi",
-   "Motorbike rental Hanoi Reddit"
-  ],
-  "organic_top": [
-   "theextramile.co",
-   "travelchinaguide.com/asia/vietnam/hanoi/motorbike-rental.htm",
-   "riderly.com",
-   "facebook.com (groups)",
-   "tripadvisor.com",
-   "motorbikenguyentu.wikidot.com (position 7: the business legacy page)",
-   "hanoimidorihomes.com",
-   "bestpricetravel.com"
-  ],
-  "note": "Local pack with three rental shops sits above organic; no featured snippet or AI overview observed."
- },
  "/topics/law-licences/": {
   "openseo_us": {
    "tool": "OpenSEO/DataForSEO US",
@@ -426,178 +388,6 @@
    "note": "text compression, cache TTL and minification findings are artefacts of the local static server (GitHub Pages serves compressed assets with cache headers) and were not acted on; render-blocking CSS (~0.4 s simulated) left as is at performance 98-99."
   }
  ],
- "_serp_snapshot_hubs": {
-  "tool": "OpenRush inspect_serp",
-  "date": "2026-10-14",
-  "market": "United States",
-  "note": "People-also-ask and related searches used to choose the Common questions on the informational hubs; every answer is drawn from OWNER-FACTS or a VERIFIED article. AI overviews were present on all five queries; no local pack.",
-  "queries": [
-   {
-    "query": "is it safe to ride a motorbike in vietnam",
-    "features": [
-     "ai_overview",
-     "organic",
-     "people_also_ask",
-     "video",
-     "related_searches"
-    ],
-    "people_also_ask": [
-     "Can tourists ride motorbikes in Vietnam?",
-     "What is the #1 cause of death in Vietnam?",
-     "Is $1000 enough for 2 weeks in Vietnam?",
-     "Where do 70% of motorcycle accidents occur?"
-    ],
-    "related_searches": [
-     "Can I ride a motorbike in Vietnam with a UK license",
-     "Can I drive a motorcycle in Vietnam with an international license",
-     "Motorbike Vietnam price",
-     "50cc motorbike Vietnam",
-     "Vietnam motorcycle trip"
-    ],
-    "organic_top": [
-     "reddit.com",
-     "facebook.com (groups)",
-     "madornomad.com",
-     "en.wikivoyage.org",
-     "ethosspirit.com",
-     "quora.com",
-     "vietnam-motorbiketour.com",
-     "medium.com"
-    ]
-   },
-   {
-    "query": "best scooter to rent in vietnam",
-    "features": [
-     "ai_overview",
-     "organic",
-     "people_also_ask",
-     "video",
-     "related_searches"
-    ],
-    "people_also_ask": [
-     "What is the best scooter to ride in Vietnam?",
-     "How much does it cost to rent a scooter in Vietnam?",
-     "Do I need a license to rent a scooter in Vietnam?",
-     "How much is a VinFast scooter in Vietnam?"
-    ],
-    "related_searches": [
-     "Best scooter to rent in vietnam for a day",
-     "Scooter rental Vietnam price",
-     "50cc scooter Vietnam",
-     "Vietnam scooter rental Ho Chi Minh",
-     "50cc scooter rental Vietnam"
-    ],
-    "organic_top": [
-     "reddit.com",
-     "facebook.com (groups)",
-     "rentabikevn.com",
-     "pelago.com",
-     "izigo.vn",
-     "mitunsaufreisen.de",
-     "theextramile.co",
-     "theunknownenthusiast.com"
-    ]
-   },
-   {
-    "query": "50cc motorbike vietnam licence",
-    "features": [
-     "ai_overview",
-     "organic",
-     "people_also_ask",
-     "video",
-     "related_searches"
-    ],
-    "people_also_ask": [
-     "How to get a motorbike license in Vietnam?",
-     "What is the youngest age to drive a motorcycle?",
-     "Can I rent a 50cc scooter in Vietnam?",
-     "What is the most popular motorbike in Vietnam?"
-    ],
-    "related_searches": [
-     "50cc motorbike vietnam licence rules",
-     "50cc motorbike vietnam licence requirements",
-     "50cc motorbike vietnam licence test"
-    ],
-    "organic_top": [
-     "tripadvisor.com",
-     "facebook.com (groups)",
-     "theextramile.co",
-     "reddit.com",
-     "duyanhmotorbikes.com",
-     "youtube.com",
-     "traveldudes.com",
-     "travel.stackexchange.com"
-    ]
-   },
-   {
-    "query": "vietnam motorbike trip",
-    "features": [
-     "ai_overview",
-     "organic",
-     "people_also_ask",
-     "video",
-     "related_searches"
-    ],
-    "people_also_ask": [
-     "How much is a motorcycle trip in Vietnam?",
-     "What is the most famous bike trip in Vietnam?",
-     "Can tourists ride motorcycles in Vietnam?",
-     "Is the Ha Giang loop scary?"
-    ],
-    "related_searches": [
-     "Vietnam motorbike trip packages",
-     "Vietnam motorbike trip itinerary",
-     "Vietnam motorbike Loop",
-     "10 day motorbike trip Vietnam",
-     "Vietnam motorbike rental"
-    ],
-    "organic_top": [
-     "onyabikeadventures.com",
-     "reddit.com",
-     "vietnamas.info",
-     "motorbiketourexpert.com",
-     "nytimes.com",
-     "tripadvisor.com",
-     "vietnamcoracle.com",
-     "madornomad.com"
-    ]
-   },
-   {
-    "query": "riding a motorbike in hanoi",
-    "features": [
-     "ai_overview",
-     "organic",
-     "video",
-     "people_also_ask",
-     "discussions_and_forums",
-     "related_searches"
-    ],
-    "people_also_ask": [
-     "Can foreigners ride motorbikes in Vietnam?",
-     "What is the 12 second rule for motorcycles?",
-     "What does 2 fingers down mean to bikers?",
-     "Can tourists rent a motorbike in Vietnam?"
-    ],
-    "related_searches": [
-     "Motorcycle Vietnam tour",
-     "Best motorcycle rental hanoi",
-     "Motorbike Vietnam price",
-     "Can I ride a motorbike in Vietnam with a UK license",
-     "Vietnam motorbike rental",
-     "Motorbike rental Hanoi Reddit"
-    ],
-    "organic_top": [
-     "reddit.com",
-     "petersbigadventure.com",
-     "yourfriendthenomad.com",
-     "ethosspirit.com",
-     "madornomad.com",
-     "getyourguide.com",
-     "youtube.com"
-    ]
-   }
-  ]
- },
  "_tracking": {
   "tool": "Ubersuggest project + AI Search Visibility brand",
   "date": "2026-10-14",
@@ -649,244 +439,6 @@
    "What is the fine for riding without a licence in Vietnam?"
   ],
   "note": "Market chosen as Vietnam because customers rent while in Hanoi; the plan allows one location. First rankings and the first AI-visibility report populate within about a day; read them with Ubersuggest project_position_info / brand_visibility_overview and record figures here with the date. No figure is recorded until it exists."
- },
- "_serp_snapshot_commercial": {
-  "tool": "OpenRush inspect_serp",
-  "date": "2026-10-14",
-  "market": "United States",
-  "note": "Zero-data mode: commercial and comparison queries recorded to map SERP features, local-pack competitors and the questions searchers ask. en.rentbikehanoi.com has no organic position on any of them yet (new domain); the business is visible only through its TripAdvisor page and Facebook posts. The content gap register in scripts/english-seo-matrix.js consumes people_also_ask and related_searches from every _serp_snapshot* block. Ratings and review counts are as displayed in the local pack on the fetch date, not estimates.",
-  "queries": [
-   {
-    "query": "scooter rental hanoi",
-    "fetched_at": "2026-10-14T14:06:27.098661Z",
-    "features": [
-     "ai_overview",
-     "local_pack",
-     "people_also_ask",
-     "organic",
-     "related_searches"
-    ],
-    "local_pack": [
-     {
-      "title": "Rental Motorbike Vietnam",
-      "domain": "rentalmotorbikevietnam.com",
-      "rating": 4.9,
-      "reviews": 1100
-     },
-     {
-      "title": "13535 Motorbike Rental/ Cho Thuê Xe 13535",
-      "domain": "hanoimidorihomes.com",
-      "rating": 4.8,
-      "reviews": 2100
-     },
-     {
-      "title": "Hanoiscootersrental.com, Đức Thành Motor",
-      "domain": "facebook.com",
-      "rating": 5,
-      "reviews": 648
-     }
-    ],
-    "featured_snippet": null,
-    "people_also_ask": [
-     "Can I rent a 50cc scooter in Vietnam?",
-     "How much is bike rental in Hanoi?",
-     "Can you drive a scooter in Vietnam?",
-     "How much do scooters cost in Vietnam?"
-    ],
-    "related_searches": [
-     "Electric scooter rental hanoi",
-     "Motorbike rental Hanoi Old Quarter",
-     "Hanoi motorbike rental cost",
-     "13535 Motorbike Rental Hanoi",
-     "Scooter hanoi",
-     "Tuan motorbike rental Hanoi",
-     "James Hanoi Motorbike",
-     "Rental Motorbike Vietnam"
-    ],
-    "organic_top": [
-     "1. tripadvisor.com",
-     "2. jamesmotorbikes.com",
-     "3. facebook.com /groups/vietnam.travel.planning/posts/882384707329489/",
-     "4. facebook.com /groups/789908834478207/posts/4045167392285652/",
-     "5. tripadvisor.com",
-     "6. facebook.com /groups/hanoimassiveofficial/posts/1833314740636660/",
-     "7. giahungmotorbikerental.com /travel-advice/rent-scooter-monthly",
-     "8. facebook.com /groups/centralvietnamtip/posts/1304079031385488/"
-    ],
-    "en_rentbikehanoi_positions": [],
-    "brand_mentions": [
-     "5. tripadvisor.com — Hanoi Motorbike Rental - Nguyen Tu"
-    ]
-   },
-   {
-    "query": "monthly motorbike rental hanoi",
-    "fetched_at": "2026-10-14T14:06:27.943264Z",
-    "features": [
-     "organic",
-     "local_pack",
-     "related_searches"
-    ],
-    "local_pack": [
-     {
-      "title": "Rental Motorbike Vietnam",
-      "domain": "rentalmotorbikevietnam.com",
-      "rating": 4.9,
-      "reviews": 1100
-     },
-     {
-      "title": "HaiBanh Garage - Motorbike / Scooter Rental",
-      "domain": "facebook.com",
-      "rating": 4.9,
-      "reviews": 232
-     },
-     {
-      "title": "Vũ Đăng Motorbike Rental - thuê xe máy Hà Nội",
-      "domain": "facebook.com",
-      "rating": 4.9,
-      "reviews": 613
-     }
-    ],
-    "featured_snippet": null,
-    "people_also_ask": [],
-    "related_searches": [
-     "Best monthly motorbike rental hanoi",
-     "Hanoi motorbike rental cost",
-     "Motorbike rental Hanoi Old Quarter",
-     "13535 Motorbike Rental Hanoi",
-     "Vietnam motorbike rental requirements",
-     "Motorbike rental Ho Chi Minh",
-     "Bike Rental Hanoi near me",
-     "Tuan motorbike rental Hanoi"
-    ],
-    "organic_top": [
-     "1. tripadvisor.com",
-     "2. rentabikevn.com",
-     "3. facebook.com /groups/225241495712866/posts/1159907435579596/",
-     "4. facebook.com /giahungmotorbike/",
-     "5. phungmotorbike.com /monthly-rentals-hanoi/automatic",
-     "6. motorvina.com",
-     "7. stylemotorbikes.com /bike-rental-page/",
-     "8. facebook.com /groups/1361915940525260/posts/28706509902305828/",
-     "9. tripadvisor.co.uk",
-     "10. bestpricetravel.com"
-    ],
-    "en_rentbikehanoi_positions": [],
-    "brand_mentions": [
-     "8. facebook.com — 🏍️ Hanoi Motorbike Rental – Nguyen Tu",
-     "9. tripadvisor.co.uk — HANOI MOTORBIKE RENTAL - NGUYEN TU"
-    ]
-   },
-   {
-    "query": "motorbike rental vietnam",
-    "fetched_at": "2026-10-14T14:06:29.280411Z",
-    "features": [
-     "local_pack",
-     "organic",
-     "people_also_ask",
-     "discussions_and_forums",
-     "related_searches"
-    ],
-    "local_pack": [
-     {
-      "title": "Rental Motorbike Vietnam",
-      "domain": "rentalmotorbikevietnam.com",
-      "rating": 4.9,
-      "reviews": 1100
-     },
-     {
-      "title": "TUAN MOTORBIKES RENTAL Da Nang",
-      "domain": "tuanmotorbike.com",
-      "rating": 4.8,
-      "reviews": 1800
-     },
-     {
-      "title": "The Motorbike Station Company",
-      "domain": "themotorbikestation.com",
-      "rating": 5,
-      "reviews": 1300
-     }
-    ],
-    "featured_snippet": null,
-    "people_also_ask": [
-     "How much does it cost to buy a motorbike in Vietnam?",
-     "How to get a motorbike license in Vietnam?",
-     "What is the most popular motorbike in Vietnam?",
-     "How much to hire a motorbike in Vietnam?"
-    ],
-    "related_searches": [
-     "Motorbike rental Ho Chi Minh",
-     "Motorbike rental Hanoi",
-     "Motorbike rental Ho Chi Minh price",
-     "Motorbike rental Ho Chi Minh District 1",
-     "Vietnam motorbike rental one way",
-     "Best motorbike rental vietnam",
-     "Hanoi motorbike rental cost",
-     "Motorbike rental near me"
-    ],
-    "organic_top": [
-     "1. riderly.com /rental-locations/vietnam/district-1/",
-     "2. facebook.com /groups/vietnamtravelguideofficial/posts/695770462738487/",
-     "3. dragonbiketours.com",
-     "4. rentalmotorbikehanoi.com /backpacker-from-vietnam-to-laos-by-motorbikes/",
-     "5. motorvina.com",
-     "6. facebook.com /groups/2066955070259074/posts/4313119738975918/",
-     "7. tripadvisor.com",
-     "8. tnktravel.com /blogs/vietnam-blogs/how-to-rent-a-good-motorbike-in-vietnam/"
-    ],
-    "en_rentbikehanoi_positions": [],
-    "brand_mentions": []
-   },
-   {
-    "query": "electric bike rental hanoi",
-    "fetched_at": "2026-10-14T14:06:29.703205Z",
-    "features": [
-     "local_pack",
-     "organic",
-     "people_also_ask"
-    ],
-    "local_pack": [
-     {
-      "title": "Electric Motorbike Rental - Vbike",
-      "domain": "facebook.com",
-      "rating": 5,
-      "reviews": 34
-     },
-     {
-      "title": "Vietnam E-Bike Travel Hanoi - Tours & Rental",
-      "domain": "vietnamebiketravel.com",
-      "rating": 5,
-      "reviews": 53
-     },
-     {
-      "title": "Electric Smiles E-bike Tours & Rental",
-      "domain": "electric-smiles.com",
-      "rating": 5,
-      "reviews": 22
-     }
-    ],
-    "featured_snippet": null,
-    "people_also_ask": [
-     "What are some new electric bike brands?",
-     "How much is bike rental in Hanoi?",
-     "Can you rent to own an ebike?",
-     "How much does an electric bike usually cost?"
-    ],
-    "related_searches": [],
-    "organic_top": [
-     "1. bikingvietnam.com /hanoi-bike-electric-bike-rental/",
-     "2. facebook.com /groups/332906624145754/posts/2114507299319002/",
-     "3. tripadvisor.com",
-     "4. yesd.org /bike-rental-hanoi-ultimate-travel-guide/",
-     "5. facebook.com /haibanhgarage/",
-     "6. bikingvietnam.com /5-best-electric-bike-rental-in-hanoi-2023/",
-     "7. dtinews.dantri.com.vn",
-     "8. facebook.com /groups/543549762461673/posts/3046164162200208/",
-     "9. viator.com /en-IN/tours/Hanoi/E-bikes-for-Rent/d351-137493P3"
-    ],
-    "en_rentbikehanoi_positions": [],
-    "brand_mentions": []
-   }
-  ]
  },
  "_competitors": {
   "tool": "OpenRush discover_competitors (seed_keywords mode) + inspect_domain",
@@ -1238,14 +790,206 @@
      "organic_keywords": 148
     }
    ]
+  },
+  "deep_dives": {
+   "rentalmotorbikevietnam.com": {
+    "tool": "OpenRush inspect_domain",
+    "domain": "rentalmotorbikevietnam.com",
+    "date": "2026-10-14",
+    "market": "United States",
+    "summary": {
+     "organic_keywords": 106,
+     "top_3_keywords": 22,
+     "top_10_keywords": 34,
+     "estimated_organic_traffic_per_month": 474,
+     "estimated_paid_traffic_cost_per_month": 188.40965872164816,
+     "is_new": 33,
+     "is_up": 36,
+     "is_down": 23,
+     "is_lost": 41
+    },
+    "intent_mix": {
+     "informational": 0.04,
+     "transactional": 0.6,
+     "commercial": 0.28,
+     "navigational": 0.08
+    },
+    "top_keywords": [
+     {
+      "keyword": "motorbike vietnam",
+      "position": 18,
+      "url": "https://rentalmotorbikevietnam.com/",
+      "monthly_volume": 1000,
+      "intent": "informational"
+     },
+     {
+      "keyword": "motorbike rental vietnam",
+      "position": 3,
+      "url": "https://rentalmotorbikevietnam.com/",
+      "monthly_volume": 320,
+      "intent": "transactional"
+     },
+     {
+      "keyword": "motorcycle rental in vietnam",
+      "position": 3,
+      "url": "https://rentalmotorbikevietnam.com/",
+      "monthly_volume": 320,
+      "intent": "transactional"
+     },
+     {
+      "keyword": "motorcycle rental vietnam",
+      "position": 3,
+      "url": "https://rentalmotorbikevietnam.com/",
+      "monthly_volume": 320,
+      "intent": "commercial"
+     },
+     {
+      "keyword": "rent a motorbike vietnam",
+      "position": 3,
+      "url": "https://rentalmotorbikevietnam.com/",
+      "monthly_volume": 320,
+      "intent": "transactional"
+     },
+     {
+      "keyword": "rent a motorcycle vietnam",
+      "position": 3,
+      "url": "https://rentalmotorbikevietnam.com/",
+      "monthly_volume": 320,
+      "intent": "transactional"
+     },
+     {
+      "keyword": "rental motorbike vietnam",
+      "position": 2,
+      "url": "https://rentalmotorbikevietnam.com/",
+      "monthly_volume": 320,
+      "intent": "transactional"
+     },
+     {
+      "keyword": "vietnamese moped",
+      "position": 20,
+      "url": "https://rentalmotorbikevietnam.com/how-to-ride-in-vietnam-safely-and-legally/",
+      "monthly_volume": 320,
+      "intent": "transactional"
+     },
+     {
+      "keyword": "honda bike vietnam",
+      "position": 11,
+      "url": "https://rentalmotorbikevietnam.com/honda-wave-lets-ride-asia/",
+      "monthly_volume": 140,
+      "intent": "navigational"
+     },
+     {
+      "keyword": "honda bikes in vietnam",
+      "position": 14,
+      "url": "https://rentalmotorbikevietnam.com/honda-wave-lets-ride-asia/",
+      "monthly_volume": 140,
+      "intent": "commercial"
+     }
+    ],
+    "top_pages": [
+     {
+      "url": "https://rentalmotorbikevietnam.com/",
+      "organic_keywords": 65,
+      "est_traffic_month": 456,
+      "top_3_keywords": 22
+     },
+     {
+      "url": "https://rentalmotorbikevietnam.com/how-to-ride-in-vietnam-safely-and-legally/",
+      "organic_keywords": 10,
+      "est_traffic_month": 5,
+      "top_3_keywords": 0
+     },
+     {
+      "url": "https://rentalmotorbikevietnam.com/5-thrill-filled-motorcycle-routes-in-vietnam/",
+      "organic_keywords": 7,
+      "est_traffic_month": 3,
+      "top_3_keywords": 0
+     },
+     {
+      "url": "https://rentalmotorbikevietnam.com/honda-wave-lets-ride-asia/",
+      "organic_keywords": 6,
+      "est_traffic_month": 5,
+      "top_3_keywords": 0
+     },
+     {
+      "url": "https://rentalmotorbikevietnam.com/best-time-to-motorbike-vietnam-the-north-part/",
+      "organic_keywords": 5,
+      "est_traffic_month": 2,
+      "top_3_keywords": 0
+     },
+     {
+      "url": "https://rentalmotorbikevietnam.com/how-to-plan-a-motorbike-trip-in-vietnam/",
+      "organic_keywords": 4,
+      "est_traffic_month": 1,
+      "top_3_keywords": 0
+     },
+     {
+      "url": "https://rentalmotorbikevietnam.com/riding-a-motorbike-in-vietnam-everything-you-need-to-know/",
+      "organic_keywords": 4,
+      "est_traffic_month": 0,
+      "top_3_keywords": 0
+     },
+     {
+      "url": "https://rentalmotorbikevietnam.com/rent-and-drive-a-scooter-in-vietnam-have-a-thrilling-adventure/",
+      "organic_keywords": 2,
+      "est_traffic_month": 1,
+      "top_3_keywords": 0
+     },
+     {
+      "url": "https://rentalmotorbikevietnam.com/a-motorcycle-trip-through-northern-vietnam/",
+      "organic_keywords": 1,
+      "est_traffic_month": 0,
+      "top_3_keywords": 0
+     },
+     {
+      "url": "https://rentalmotorbikevietnam.com/driving-in-vietnam/",
+      "organic_keywords": 1,
+      "est_traffic_month": 0,
+      "top_3_keywords": 0
+     }
+    ],
+    "likely_competitors": [
+     {
+      "domain": "rentalmotorbikehanoi.com",
+      "shared_keywords": 74,
+      "est_traffic_month": 257,
+      "organic_keywords": 98
+     },
+     {
+      "domain": "tuanmotorbike.com",
+      "shared_keywords": 63,
+      "est_traffic_month": 252,
+      "organic_keywords": 95
+     },
+     {
+      "domain": "phungmotorbike.com",
+      "shared_keywords": 62,
+      "est_traffic_month": 163,
+      "organic_keywords": 103
+     },
+     {
+      "domain": "motorbikeviet.com",
+      "shared_keywords": 56,
+      "est_traffic_month": 32,
+      "organic_keywords": 89
+     },
+     {
+      "domain": "motorvina.com",
+      "shared_keywords": 72,
+      "est_traffic_month": 71,
+      "organic_keywords": 148
+     }
+    ]
+   }
   }
  },
  "_competitor_backlinks": {
   "tool": "OpenRush inspect_backlinks (views authority + referring_domains)",
-  "date": "2026-10-14",
   "note": "domain_rank is the index's 0-1000 domain score; row-level page_rank is PAGE-level, not domain authority. clean_referring_domains keeps rows with spam_score <= 20 (the rest are link networks such as link-legion-*.xyz, casino/mirror sites and directories, deliberately not listed as prospects). Prospecting is an owner task (editorial mentions, listings, partnerships); links are never bought. Domains listed in own_properties belong to the competitors themselves and are skipped in the prospect list.",
+  "date": "2026-10-14",
   "domains": {
    "theextramile.co": {
+    "date": "2026-10-14",
     "authority": {
      "domain_rank": 121,
      "referring_domains": 96,
@@ -1293,53 +1037,46 @@
       "first_seen": "2025-11-16"
      },
      {
-      "domain": "nha-trang-guide.com",
-      "page_rank": 0,
-      "backlinks": 9,
-      "spam_score": 0,
-      "first_seen": "2026-10-05"
-     },
-     {
-      "domain": "khanh-hoa.net",
-      "page_rank": 0,
-      "backlinks": 6,
-      "spam_score": 0,
-      "first_seen": "2026-09-26"
-     },
-     {
-      "domain": "zucom.com.co",
-      "page_rank": 0,
-      "backlinks": 1,
-      "spam_score": 5,
-      "first_seen": "2026-08-29"
-     },
-     {
-      "domain": "ted.al",
-      "page_rank": 0,
-      "backlinks": 3,
-      "spam_score": 18,
-      "first_seen": "2026-08-24"
-     },
-     {
-      "domain": "motonest.com",
+      "domain": "ahoyvietnam.com",
       "page_rank": 0,
       "backlinks": 2,
       "spam_score": 0,
-      "first_seen": "2026-08-24"
+      "first_seen": "2025-07-14"
      },
      {
-      "domain": "laoujin.github.io",
-      "page_rank": 0,
-      "backlinks": 2,
-      "spam_score": 15,
-      "first_seen": "2026-08-13"
-     },
-     {
-      "domain": "kerincare.com",
+      "domain": "daniakelcie.pages.dev",
       "page_rank": 0,
       "backlinks": 1,
       "spam_score": 0,
-      "first_seen": "2026-07-28"
+      "first_seen": "2026-02-02"
+     },
+     {
+      "domain": "dcmotorbikes.com",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2023-11-14"
+     },
+     {
+      "domain": "difamn.blogspot.com",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2023-10-20"
+     },
+     {
+      "domain": "expat.com",
+      "page_rank": 0,
+      "backlinks": 2,
+      "spam_score": 0,
+      "first_seen": "2025-06-22"
+     },
+     {
+      "domain": "foodyas.com",
+      "page_rank": 0,
+      "backlinks": 4,
+      "spam_score": 0,
+      "first_seen": "2026-03-15"
      },
      {
       "domain": "gyms1.com",
@@ -1356,67 +1093,32 @@
       "first_seen": "2026-05-28"
      },
      {
-      "domain": "uaestore.com",
-      "page_rank": 0,
-      "backlinks": 1,
-      "spam_score": 5,
-      "first_seen": "2026-05-28"
-     },
-     {
-      "domain": "pliyotec.com",
-      "page_rank": 0,
-      "backlinks": 1,
-      "spam_score": 0,
-      "first_seen": "2026-05-14"
-     },
-     {
-      "domain": "foodyas.com",
-      "page_rank": 0,
-      "backlinks": 4,
-      "spam_score": 0,
-      "first_seen": "2026-03-15"
-     },
-     {
-      "domain": "daniakelcie.pages.dev",
-      "page_rank": 0,
-      "backlinks": 1,
-      "spam_score": 0,
-      "first_seen": "2026-02-02"
-     },
-     {
-      "domain": "nicolasaahill.pages.dev",
-      "page_rank": 0,
-      "backlinks": 1,
-      "spam_score": 15,
-      "first_seen": "2025-12-27"
-     },
-     {
-      "domain": "ahoyvietnam.com",
-      "page_rank": 0,
-      "backlinks": 2,
-      "spam_score": 0,
-      "first_seen": "2025-07-14"
-     },
-     {
-      "domain": "expat.com",
-      "page_rank": 0,
-      "backlinks": 2,
-      "spam_score": 0,
-      "first_seen": "2025-06-22"
-     },
-     {
-      "domain": "restaurants10.com",
-      "page_rank": 0,
-      "backlinks": 4,
-      "spam_score": 0,
-      "first_seen": "2025-05-21"
-     },
-     {
       "domain": "improuse.com",
       "page_rank": 0,
       "backlinks": 4,
       "spam_score": 0,
       "first_seen": "2025-05-05"
+     },
+     {
+      "domain": "kerincare.com",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2026-07-28"
+     },
+     {
+      "domain": "khanh-hoa.net",
+      "page_rank": 0,
+      "backlinks": 6,
+      "spam_score": 0,
+      "first_seen": "2026-09-26"
+     },
+     {
+      "domain": "laoujin.github.io",
+      "page_rank": 0,
+      "backlinks": 2,
+      "spam_score": 15,
+      "first_seen": "2026-08-13"
      },
      {
       "domain": "louiseatkinson.pages.dev",
@@ -1426,6 +1128,34 @@
       "first_seen": "2025-02-26"
      },
      {
+      "domain": "motonest.com",
+      "page_rank": 0,
+      "backlinks": 2,
+      "spam_score": 0,
+      "first_seen": "2026-08-24"
+     },
+     {
+      "domain": "nha-trang-guide.com",
+      "page_rank": 0,
+      "backlinks": 9,
+      "spam_score": 0,
+      "first_seen": "2026-10-05"
+     },
+     {
+      "domain": "nicolasaahill.pages.dev",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 15,
+      "first_seen": "2025-12-27"
+     },
+     {
+      "domain": "pliyotec.com",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2026-05-14"
+     },
+     {
       "domain": "prudidiahann.pages.dev",
       "page_rank": 0,
       "backlinks": 1,
@@ -1433,23 +1163,38 @@
       "first_seen": "2024-07-14"
      },
      {
-      "domain": "dcmotorbikes.com",
+      "domain": "restaurants10.com",
       "page_rank": 0,
-      "backlinks": 1,
+      "backlinks": 4,
       "spam_score": 0,
-      "first_seen": "2023-11-14"
+      "first_seen": "2025-05-21"
      },
      {
-      "domain": "difamn.blogspot.com",
+      "domain": "ted.al",
+      "page_rank": 0,
+      "backlinks": 3,
+      "spam_score": 18,
+      "first_seen": "2026-08-24"
+     },
+     {
+      "domain": "uaestore.com",
       "page_rank": 0,
       "backlinks": 1,
-      "spam_score": 0,
-      "first_seen": "2023-10-20"
+      "spam_score": 5,
+      "first_seen": "2026-05-28"
+     },
+     {
+      "domain": "zucom.com.co",
+      "page_rank": 0,
+      "backlinks": 1,
+      "spam_score": 5,
+      "first_seen": "2026-08-29"
      }
     ],
     "spam_or_network_domains": 69
    },
    "tigitmotorbikes.com": {
+    "date": "2026-10-14",
     "authority": {
      "domain_rank": 276,
      "referring_domains": 1967,
@@ -1483,13 +1228,6 @@
       "first_seen": "2025-08-19"
      },
      {
-      "domain": "roamingverse.com",
-      "page_rank": 96,
-      "backlinks": 3,
-      "spam_score": 0,
-      "first_seen": "2025-08-25"
-     },
-     {
       "domain": "intently.co",
       "page_rank": 96,
       "backlinks": 30,
@@ -1497,11 +1235,11 @@
       "first_seen": "2025-01-31"
      },
      {
-      "domain": "royalpizzeria.se",
-      "page_rank": 79,
-      "backlinks": 2,
-      "spam_score": 10,
-      "first_seen": "2024-03-25"
+      "domain": "roamingverse.com",
+      "page_rank": 96,
+      "backlinks": 3,
+      "spam_score": 0,
+      "first_seen": "2025-08-25"
      },
      {
       "domain": "callupcontact.com",
@@ -1511,6 +1249,13 @@
       "first_seen": "2022-07-03"
      },
      {
+      "domain": "royalpizzeria.se",
+      "page_rank": 79,
+      "backlinks": 2,
+      "spam_score": 10,
+      "first_seen": "2024-03-25"
+     },
+     {
       "domain": "dirtbikeacademyvn.com",
       "page_rank": 58,
       "backlinks": 18,
@@ -1518,18 +1263,18 @@
       "first_seen": "2025-04-14"
      },
      {
-      "domain": "iguide.ai",
-      "page_rank": 51,
-      "backlinks": 2,
-      "spam_score": 0,
-      "first_seen": "2025-09-24"
-     },
-     {
       "domain": "fooyoh.com",
       "page_rank": 51,
       "backlinks": 1,
       "spam_score": 0,
       "first_seen": "2025-03-21"
+     },
+     {
+      "domain": "iguide.ai",
+      "page_rank": 51,
+      "backlinks": 2,
+      "spam_score": 0,
+      "first_seen": "2025-09-24"
      },
      {
       "domain": "vietnambestbikes.com",
@@ -1567,18 +1312,11 @@
       "first_seen": "2024-07-14"
      },
      {
-      "domain": "vietnamvisa-easy.com",
+      "domain": "a21tours.com",
       "page_rank": 23,
       "backlinks": 1,
-      "spam_score": 0,
-      "first_seen": "2026-09-18"
-     },
-     {
-      "domain": "noszczak.com",
-      "page_rank": 23,
-      "backlinks": 2,
-      "spam_score": 20,
-      "first_seen": "2025-10-03"
+      "spam_score": 10,
+      "first_seen": "2021-09-29"
      },
      {
       "domain": "donbain.com",
@@ -1595,11 +1333,18 @@
       "first_seen": "2023-11-05"
      },
      {
-      "domain": "a21tours.com",
+      "domain": "noszczak.com",
+      "page_rank": 23,
+      "backlinks": 2,
+      "spam_score": 20,
+      "first_seen": "2025-10-03"
+     },
+     {
+      "domain": "vietnamvisa-easy.com",
       "page_rank": 23,
       "backlinks": 1,
-      "spam_score": 10,
-      "first_seen": "2021-09-29"
+      "spam_score": 0,
+      "first_seen": "2026-09-18"
      },
      {
       "domain": "sotheadventurebegins.com",
@@ -1630,13 +1375,6 @@
       "first_seen": "2023-10-05"
      },
      {
-      "domain": "tigitnepal.com",
-      "page_rank": 13,
-      "backlinks": 4,
-      "spam_score": 0,
-      "first_seen": "2026-07-03"
-     },
-     {
       "domain": "supertravelr.com",
       "page_rank": 13,
       "backlinks": 3,
@@ -1644,25 +1382,11 @@
       "first_seen": "2022-09-18"
      },
      {
-      "domain": "pacaprez.fr",
-      "page_rank": 7,
-      "backlinks": 1,
-      "spam_score": 5,
-      "first_seen": "2026-06-05"
-     },
-     {
-      "domain": "googleblog.kr",
-      "page_rank": 7,
-      "backlinks": 1,
+      "domain": "tigitnepal.com",
+      "page_rank": 13,
+      "backlinks": 4,
       "spam_score": 0,
-      "first_seen": "2026-06-03"
-     },
-     {
-      "domain": "deglabel.com.br",
-      "page_rank": 7,
-      "backlinks": 2,
-      "spam_score": 0,
-      "first_seen": "2025-11-26"
+      "first_seen": "2026-07-03"
      },
      {
       "domain": "avtopralnica.org",
@@ -1672,13 +1396,6 @@
       "first_seen": "2025-10-02"
      },
      {
-      "domain": "curvesandcracks.com",
-      "page_rank": 7,
-      "backlinks": 2,
-      "spam_score": 15,
-      "first_seen": "2023-11-25"
-     },
-     {
       "domain": "civictypereuro.blogspot.com",
       "page_rank": 7,
       "backlinks": 7,
@@ -1686,11 +1403,39 @@
       "first_seen": "2023-10-05"
      },
      {
+      "domain": "curvesandcracks.com",
+      "page_rank": 7,
+      "backlinks": 2,
+      "spam_score": 15,
+      "first_seen": "2023-11-25"
+     },
+     {
+      "domain": "deglabel.com.br",
+      "page_rank": 7,
+      "backlinks": 2,
+      "spam_score": 0,
+      "first_seen": "2025-11-26"
+     },
+     {
+      "domain": "googleblog.kr",
+      "page_rank": 7,
+      "backlinks": 1,
+      "spam_score": 0,
+      "first_seen": "2026-06-03"
+     },
+     {
       "domain": "museuly.com",
       "page_rank": 7,
       "backlinks": 2,
       "spam_score": 5,
       "first_seen": "2022-10-23"
+     },
+     {
+      "domain": "pacaprez.fr",
+      "page_rank": 7,
+      "backlinks": 1,
+      "spam_score": 5,
+      "first_seen": "2026-06-05"
      },
      {
       "domain": "autourasia.fr",
@@ -1707,16 +1452,16 @@
       "first_seen": "2026-10-14"
      },
      {
-      "domain": "onlybyland.com",
+      "domain": "modelonamission.com",
       "page_rank": 0,
-      "backlinks": 2,
+      "backlinks": 1,
       "spam_score": 0,
       "first_seen": "2026-10-13"
      },
      {
-      "domain": "modelonamission.com",
+      "domain": "onlybyland.com",
       "page_rank": 0,
-      "backlinks": 1,
+      "backlinks": 2,
       "spam_score": 0,
       "first_seen": "2026-10-13"
      }
@@ -1820,5 +1565,1110 @@
    "Off-site: Google Business Profile reviews and NAP consistency decide the local pack; the repository guarantees NAP consistency across schema, contact page and llms.txt (nap-check in schema-check.js) and leaves the profile to the owner.",
    "Switch to DATA-DRIVEN mode as soon as a Search Console export exists (docs/seo/gsc-performance.csv): the matrix then replaces index estimates with measured impressions and positions and re-ranks priorities."
   ]
- }
+ },
+ "_serp_snapshot_ingested": {
+  "tool": "OpenRush inspect_serp (ingested by scripts/seo-research-ingest.js)",
+  "date": "2026-10-14",
+  "note": "Live SERP snapshots per query and market: features, local-pack entries (ratings and review counts as displayed), People also ask, related searches, top organic results, our own positions and brand mentions. People-also-ask questions feed the content gap register and the Common questions on the hubs (answers only from OWNER-FACTS or a VERIFIED article). A newer snapshot of the same query and market replaces the old one and keeps its positions in history.",
+  "queries": [
+   {
+    "query": "50cc motorbike vietnam licence",
+    "market": "United States",
+    "fetched_at": "2026-10-14T12:29:17.257635Z",
+    "features": [
+     "ai_overview",
+     "organic",
+     "people_also_ask",
+     "video",
+     "related_searches"
+    ],
+    "local_pack": [],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "How to get a motorbike license in Vietnam?",
+     "What is the youngest age to drive a motorcycle?",
+     "Can I rent a 50cc scooter in Vietnam?",
+     "What is the most popular motorbike in Vietnam?"
+    ],
+    "related_searches": [
+     "50cc motorbike vietnam licence rules",
+     "50cc motorbike vietnam licence requirements",
+     "50cc motorbike vietnam licence test",
+     "50cc motorbike vietnam licence for sale"
+    ],
+    "organic_top": [
+     "1. tripadvisor.com",
+     "2. facebook.com /groups/169934546759523/posts/1984044892015137/",
+     "3. theextramile.co /vietnam-driving-licenses-changes-from-01-01-2025/",
+     "4. reddit.com",
+     "5. duyanhmotorbikes.com",
+     "6. youtube.com /watch?v=hGCXh5Sfy9o",
+     "7. traveldudes.com /motorbiking-in-vietnam/",
+     "8. travel.stackexchange.com"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 127
+   },
+   {
+    "query": "best scooter to rent in vietnam",
+    "market": "United States",
+    "fetched_at": "2026-10-14T12:29:20.899164Z",
+    "features": [
+     "ai_overview",
+     "organic",
+     "people_also_ask",
+     "video",
+     "related_searches"
+    ],
+    "local_pack": [],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "What is the best scooter to ride in Vietnam?",
+     "How much does it cost to rent a scooter in Vietnam?",
+     "Do I need a license to rent a scooter in Vietnam?",
+     "How much is a VinFast scooter in Vietnam?"
+    ],
+    "related_searches": [
+     "Best scooter to rent in vietnam reddit",
+     "Best scooter to rent in vietnam for a day",
+     "Scooter rental Vietnam price",
+     "50cc scooter Vietnam",
+     "Vietnam scooter rental Ho Chi Minh",
+     "50cc scooter rental Vietnam",
+     "Scooter in Vietnam price",
+     "Renting a scooter in Vietnam Reddit"
+    ],
+    "organic_top": [
+     "1. reddit.com /r/travel/comments/113czfq/scooters_in_vietnam/",
+     "2. facebook.com /groups/vietnam.travel.planning/posts/768883258679635/",
+     "3. rentabikevn.com /style/scooter/",
+     "4. pelago.com",
+     "5. izigo.vn /rent-an-electric-scooter-in-vietnam/",
+     "6. mitunsaufreisen.de /en/blog/renting-a-scooter-in-vietnam",
+     "7. theextramile.co /top-5-maxi-scooters-to-ride-in-saigon/",
+     "8. theunknownenthusiast.com /renting-driving-a-scooter-vietnam/"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 135
+   },
+   {
+    "query": "can tourists rent a motorbike in vietnam",
+    "market": "United States",
+    "fetched_at": "2026-10-14T14:43:23.758975Z",
+    "features": [
+     "ai_overview",
+     "organic",
+     "people_also_ask",
+     "video",
+     "local_pack",
+     "related_searches"
+    ],
+    "local_pack": [
+     {
+      "title": "Rental Motorbike Vietnam",
+      "domain": "rentalmotorbikevietnam.com",
+      "rating": 4.9,
+      "reviews": 1100
+     },
+     {
+      "title": "Thuê Xe Máy Nha Trang San Hô Việt",
+      "domain": "sanhoviet.com",
+      "rating": 4.8,
+      "reviews": 2600
+     },
+     {
+      "title": "TUAN MOTORBIKES RENTAL Da Nang",
+      "domain": "tuanmotorbike.com",
+      "rating": 4.8,
+      "reviews": 1800
+     }
+    ],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "Can foreigners rent bikes in Vietnam?",
+     "Can a foreigner ride a motorcycle in Vietnam?",
+     "Do I need a licence to rent a motorbike in Vietnam?",
+     "How much does it cost to rent a motorcycle in Vietnam?"
+    ],
+    "related_searches": [
+     "Can tourists rent a motorbike in vietnam without",
+     "Can tourists rent a motorbike in vietnam reddit",
+     "Can tourists rent a motorbike in vietnam for a day",
+     "Vietnam motorbike rental one way",
+     "Do you need a license to rent a motorbike in Vietnam",
+     "Motorbike rental Vietnam Ho Chi Minh",
+     "Renting a motorbike in Vietnam Reddit",
+     "Motorbike rental Hanoi"
+    ],
+    "organic_top": [
+     "1. reddit.com",
+     "2. bmtraveladv.com /motorbike-rental-in-vietnam-top-5-rules-for-foreign-travelers/",
+     "3. helpstay.com /journal/renting-a-motorbike-in-vietnam/",
+     "4. facebook.com /groups/vietnam.travel.planning/posts/1188644980036792/",
+     "5. tigitmotorbikes.com",
+     "6. rentalmotorbikevietnam.com",
+     "7. motorbiketourexpert.com /useful-blog/buying-or-renting-a-motorbike",
+     "8. tiktok.com /@christian.grossi/video/7542158855665487135"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 104
+   },
+   {
+    "query": "electric bike rental hanoi",
+    "market": "United States",
+    "fetched_at": "2026-10-14T14:06:29.703205Z",
+    "features": [
+     "local_pack",
+     "organic",
+     "people_also_ask"
+    ],
+    "local_pack": [
+     {
+      "title": "Electric Motorbike Rental - Vbike",
+      "domain": "facebook.com",
+      "rating": 5,
+      "reviews": 34
+     },
+     {
+      "title": "Vietnam E-Bike Travel Hanoi - Tours & Rental",
+      "domain": "vietnamebiketravel.com",
+      "rating": 5,
+      "reviews": 53
+     },
+     {
+      "title": "Electric Smiles E-bike Tours & Rental",
+      "domain": "electric-smiles.com",
+      "rating": 5,
+      "reviews": 22
+     }
+    ],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "What are some new electric bike brands?",
+     "How much is bike rental in Hanoi?",
+     "Can you rent to own an ebike?",
+     "How much does an electric bike usually cost?"
+    ],
+    "related_searches": [],
+    "organic_top": [
+     "1. bikingvietnam.com /hanoi-bike-electric-bike-rental/",
+     "2. facebook.com /groups/332906624145754/posts/2114507299319002/",
+     "3. tripadvisor.com",
+     "4. yesd.org /bike-rental-hanoi-ultimate-travel-guide/",
+     "5. facebook.com /haibanhgarage/",
+     "6. bikingvietnam.com /5-best-electric-bike-rental-in-hanoi-2023/",
+     "7. dtinews.dantri.com.vn",
+     "8. facebook.com /groups/543549762461673/posts/3046164162200208/",
+     "9. viator.com /en-IN/tours/Hanoi/E-bikes-for-Rent/d351-137493P3"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 117
+   },
+   {
+    "query": "electric motorbike rental hanoi",
+    "market": "Vietnam",
+    "fetched_at": "2026-10-14T14:43:23.232386Z",
+    "features": [
+     "ai_overview",
+     "organic",
+     "people_also_ask",
+     "related_searches",
+     "third_party_reviews",
+     "google_reviews",
+     "knowledge_graph"
+    ],
+    "local_pack": [],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "Do you need a licence for an electric scooter in Vietnam?",
+     "How much does it cost to rent a scooter in Hanoi?",
+     "Can tourists rent motorcycles in Vietnam?",
+     "Do I need a licence to rent a motorbike in Vietnam?"
+    ],
+    "related_searches": [
+     "Electric motorbike rental hanoi prices",
+     "Best electric motorbike rental hanoi",
+     "Electric motorbike rental hanoi airport",
+     "Electric motorbike rental hanoi cost",
+     "Bike Rental Hanoi near me",
+     "Motorbike rental Hanoi Old Quarter",
+     "Electric motorbike Hanoi",
+     "50cc scooter rental Hanoi"
+    ],
+    "organic_top": [
+     "1. facebook.com /vbikevietnam/",
+     "2. izigo.vn /motorbike-rental-services-in-ha-noi/",
+     "3. vietmotorbikes.com /e-bikes/",
+     "4. izigo.vn /scooter-rental-ha-noi/",
+     "5. tuanmotorbike.com /hanoi",
+     "6. tripadvisor.com /Attractions-g293924-Activities-c61-t186-Hanoi.html",
+     "7. rentalmotorbikevietnam.com",
+     "8. bikingvietnam.com /e-bicycle-for-rent/",
+     "9. facebook.com /haibanhgarage/"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 132
+   },
+   {
+    "query": "ha giang loop motorbike rental",
+    "market": "United States",
+    "fetched_at": "2026-10-14T14:42:32.474024Z",
+    "features": [
+     "ai_overview",
+     "organic",
+     "people_also_ask",
+     "related_searches"
+    ],
+    "local_pack": [],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "How much does a Ha Giang loop tour cost?",
+     "What bike was called the widowmaker?",
+     "Does Grab have a motorcycle?",
+     "Is the Ha Giang loop scary?"
+    ],
+    "related_searches": [
+     "ha giang loop motorbike rental near california",
+     "ha giang loop motorbike rental near texas",
+     "Ha giang loop motorbike rental price",
+     "Ha giang loop motorbike rental reddit",
+     "Ha giang loop motorbike rental reviews",
+     "Ha Giang motorbike rental price",
+     "Ha Giang Loop tour",
+     "Ha Giang Loop deaths"
+    ],
+    "organic_top": [
+     "1. klook.com /activity/92135-motorbike-rental-ha-giang-vietnam/",
+     "2. madornomad.com /ultimate-guide-how-to-motorcycle-the-ha-giang-loop/",
+     "3. tripadvisor.com",
+     "4. facebook.com /groups/333250224984388/posts/1336779367964797/",
+     "5. reddit.com",
+     "6. sungetawaystravel.com /ha-giang-motorbike-rental-guide/",
+     "7. tripadvisor.com",
+     "8. hagiangepictour.com /where-to-rent-motorbike-in-ha-giang/",
+     "9. looptrails.com /guide/ha-giang-motorbike-loop/"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 123
+   },
+   {
+    "query": "is it safe to ride a motorbike in vietnam",
+    "market": "United States",
+    "fetched_at": "2026-10-14T12:29:18.237953Z",
+    "features": [
+     "ai_overview",
+     "organic",
+     "people_also_ask",
+     "video",
+     "related_searches"
+    ],
+    "local_pack": [],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "Can tourists ride motorbikes in Vietnam?",
+     "What is the #1 cause of death in Vietnam?",
+     "Is $1000 enough for 2 weeks in Vietnam?",
+     "Where do 70% of motorcycle accidents occur?"
+    ],
+    "related_searches": [
+     "Is it safe to ride a motorbike in vietnam without",
+     "Is it safe to ride a motorbike in vietnam reddit",
+     "Can I ride a motorbike in Vietnam with a UK license",
+     "Can I drive a motorcycle in Vietnam with an international license",
+     "Motorbike Vietnam price",
+     "Motorbike in vietnamese",
+     "50cc motorbike Vietnam",
+     "Vietnam motorcycle trip"
+    ],
+    "organic_top": [
+     "1. reddit.com",
+     "2. facebook.com /groups/VietnamIsAwesome/posts/3137932403030551/",
+     "3. madornomad.com /motorcycle-travel-guide-vietnam/",
+     "4. en.wikivoyage.org /wiki/Vietnam_by_motorcycle",
+     "5. ethosspirit.com /motorbiking-in-vietnam",
+     "6. quora.com /Is-it-safe-to-travel-by-motorbike-through-all-regions-of-Vietnam",
+     "7. vietnam-motorbiketour.com",
+     "8. medium.com"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 130
+   },
+   {
+    "query": "monthly motorbike rental hanoi",
+    "market": "United States",
+    "fetched_at": "2026-10-14T14:06:27.943264Z",
+    "features": [
+     "organic",
+     "local_pack",
+     "related_searches"
+    ],
+    "local_pack": [
+     {
+      "title": "Rental Motorbike Vietnam",
+      "domain": "rentalmotorbikevietnam.com",
+      "rating": 4.9,
+      "reviews": 1100
+     },
+     {
+      "title": "HaiBanh Garage - Motorbike / Scooter Rental",
+      "domain": "facebook.com",
+      "rating": 4.9,
+      "reviews": 232
+     },
+     {
+      "title": "Vũ Đăng Motorbike Rental - thuê xe máy Hà Nội",
+      "domain": "facebook.com",
+      "rating": 4.9,
+      "reviews": 613
+     }
+    ],
+    "featured_snippet": null,
+    "people_also_ask": [],
+    "related_searches": [
+     "Best monthly motorbike rental hanoi",
+     "Hanoi motorbike rental cost",
+     "Motorbike rental Hanoi Old Quarter",
+     "13535 Motorbike Rental Hanoi",
+     "Vietnam motorbike rental requirements",
+     "Motorbike rental Ho Chi Minh",
+     "Bike Rental Hanoi near me",
+     "Tuan motorbike rental Hanoi"
+    ],
+    "organic_top": [
+     "1. tripadvisor.com",
+     "2. rentabikevn.com",
+     "3. facebook.com /groups/225241495712866/posts/1159907435579596/",
+     "4. facebook.com /giahungmotorbike/",
+     "5. phungmotorbike.com /monthly-rentals-hanoi/automatic",
+     "6. motorvina.com",
+     "7. stylemotorbikes.com /bike-rental-page/",
+     "8. facebook.com /groups/1361915940525260/posts/28706509902305828/",
+     "9. tripadvisor.co.uk",
+     "10. bestpricetravel.com"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [
+     "8. facebook.com — 🏍️ Hanoi Motorbike Rental – Nguyen Tu",
+     "9. tripadvisor.co.uk — HANOI MOTORBIKE RENTAL - NGUYEN TU"
+    ],
+    "total_available": 110
+   },
+   {
+    "query": "monthly motorbike rental hanoi",
+    "market": "Vietnam",
+    "fetched_at": "2026-10-14T14:42:22.032390Z",
+    "features": [
+     "ai_overview",
+     "organic",
+     "local_pack",
+     "people_also_ask",
+     "related_searches"
+    ],
+    "local_pack": [
+     {
+      "title": "Rental Motorbike Vietnam",
+      "domain": "rentalmotorbikevietnam.com",
+      "rating": 4.9,
+      "reviews": 1100
+     },
+     {
+      "title": "HaiBanh Garage - Motorbike / Scooter Rental",
+      "domain": "facebook.com",
+      "rating": 4.9,
+      "reviews": 232
+     },
+     {
+      "title": "Vũ Đăng Motorbike Rental - thuê xe máy Hà Nội",
+      "domain": "facebook.com",
+      "rating": 4.9,
+      "reviews": 613
+     }
+    ],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "How much is a motorbike per month?",
+     "Can foreigners rent bikes in Vietnam?",
+     "How much does it cost to rent a bike in Hanoi?",
+     "Do I need a licence to rent a motorbike in Vietnam?"
+    ],
+    "related_searches": [
+     "Cheapest monthly motorbike rental hanoi",
+     "Best monthly motorbike rental hanoi",
+     "Motorbike rental Hanoi Old Quarter",
+     "Hanoi motorbike rental cost",
+     "Motorbike rental Hanoi near me",
+     "Tuan motorbike rental Hanoi",
+     "Motorbike rental near me",
+     "Motorbike for sale Hanoi"
+    ],
+    "organic_top": [
+     "1. phungmotorbike.com /monthly-rentals-hanoi",
+     "2. facebook.com /groups/789908834478207/posts/3879236198878773/",
+     "3. rentalmotorbikehanoi.com",
+     "4. izigo.vn /motorbike-rental-services-in-ha-noi/",
+     "5. vinwonders.com /en/wonderpedia/news/motorbike-rental-in-hanoi/",
+     "6. theextramile.co",
+     "7. hanoimotorbikerental.com",
+     "8. tigitmotorbikes.com",
+     "9. happyzipmotorbikes.com /bike_category/monthly-rental/"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 114
+   },
+   {
+    "query": "motorbike rental hanoi",
+    "market": "United States",
+    "fetched_at": "2026-10-14T09:53:26.125367Z",
+    "features": [
+     "local_pack",
+     "organic",
+     "people_also_ask",
+     "related_searches"
+    ],
+    "local_pack": [
+     {
+      "title": "13535 Motorbike Rental/ Cho Thuê Xe 13535",
+      "domain": "hanoimidorihomes.com",
+      "rating": 4.8,
+      "reviews": 2100
+     },
+     {
+      "title": "Rental Motorbike Vietnam",
+      "domain": "rentalmotorbikevietnam.com",
+      "rating": 4.9,
+      "reviews": 1100
+     },
+     {
+      "title": "Vivumotor Motorbike Rental Hanoi - Thuê Xe Máy Hà Nội Vivumotor",
+      "domain": "thuexemaysaohanoi.com",
+      "rating": 4.9,
+      "reviews": 1200
+     }
+    ],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "How much is bike rental in Hanoi?",
+     "Is motorcycle rental cheaper than car rental?",
+     "What is the most famous motorbike loop in Vietnam?",
+     "Can tourists ride motorcycles in Vietnam?"
+    ],
+    "related_searches": [
+     "Electric motorbike rental hanoi",
+     "Motorbike rental Hanoi Old Quarter",
+     "Vietnam motorbike rental one way",
+     "Motorbike rental Ho Chi Minh",
+     "Tuan motorbike rental Hanoi",
+     "Hanoi motorbike rental cost",
+     "One way motorbike rental Hanoi",
+     "Motorbike rental Hanoi Reddit"
+    ],
+    "organic_top": [
+     "1. theextramile.co",
+     "2. travelchinaguide.com /asia/vietnam/hanoi/motorbike-rental.htm",
+     "3. riderly.com /rental-locations/Vietnam/",
+     "4. facebook.com /groups/227378611084127/posts/1742601142895192/",
+     "5. tripadvisor.com",
+     "6. facebook.com /groups/789908834478207/posts/3206751469460586/",
+     "7. motorbikenguyentu.wikidot.com",
+     "8. hanoimidorihomes.com",
+     "9. bestpricetravel.com /travel-guide/rent-motorbike-scooter-in-hanoi-2626.html"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [
+     "7. motorbikenguyentu.wikidot.com — Vietnam motorbike rental in Hanoi - Motorbike Nguyen Tu"
+    ],
+    "total_available": 111
+   },
+   {
+    "query": "motorbike rental hanoi",
+    "market": "Vietnam",
+    "fetched_at": "2026-10-14T14:42:22.888511Z",
+    "features": [
+     "local_pack",
+     "organic",
+     "people_also_ask",
+     "related_searches"
+    ],
+    "local_pack": [
+     {
+      "title": "Rental Motorbike Vietnam",
+      "domain": "rentalmotorbikevietnam.com",
+      "rating": 4.9,
+      "reviews": 1100
+     },
+     {
+      "title": "13535 Motorbike Rental/ Cho Thuê Xe 13535",
+      "domain": "hanoimidorihomes.com",
+      "rating": 4.8,
+      "reviews": 2100
+     },
+     {
+      "title": "Rental Motorbike Hanoi",
+      "domain": "rentalmotorbikehanoi.com",
+      "rating": 5,
+      "reviews": 168
+     }
+    ],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "How much does it cost to rent a motorcycle in Hanoi per day?",
+     "Can tourists rent a motorbike in Vietnam?",
+     "Can a foreigner ride a motorbike in Vietnam?",
+     "Do I need a license to rent a scooter in Vietnam?"
+    ],
+    "related_searches": [
+     "Motorbike rental Hanoi Old Quarter",
+     "Motorbike rental Hanoi near me",
+     "Tuan motorbike rental Hanoi",
+     "Motorbike rental Hanoi Reddit",
+     "Motorbike rental Ho Chi Minh",
+     "Motorbike rental Vietnam",
+     "Vietnam motorbike rental one way",
+     "Motorbike rental Hanoi to Ho Chi Minh"
+    ],
+    "organic_top": [
+     "1. tigitmotorbikes.com",
+     "2. stylemotorbikes.com",
+     "3. rentalmotorbikehanoi.com",
+     "4. phungmotorbike.com",
+     "5. hanoimotorbikerental.com",
+     "6. facebook.com /giahungmotorbike/",
+     "7. tripadvisor.com",
+     "8. vinwonders.com /en/wonderpedia/news/motorbike-rental-in-hanoi/",
+     "9. azmotorbikes.com"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [
+     "7. tripadvisor.com — Hanoi Motorbike Rental - Nguyen Tu"
+    ],
+    "total_available": 127
+   },
+   {
+    "query": "motorbike rental vietnam",
+    "market": "United States",
+    "fetched_at": "2026-10-14T14:06:29.280411Z",
+    "features": [
+     "local_pack",
+     "organic",
+     "people_also_ask",
+     "discussions_and_forums",
+     "related_searches"
+    ],
+    "local_pack": [
+     {
+      "title": "Rental Motorbike Vietnam",
+      "domain": "rentalmotorbikevietnam.com",
+      "rating": 4.9,
+      "reviews": 1100
+     },
+     {
+      "title": "TUAN MOTORBIKES RENTAL Da Nang",
+      "domain": "tuanmotorbike.com",
+      "rating": 4.8,
+      "reviews": 1800
+     },
+     {
+      "title": "The Motorbike Station Company",
+      "domain": "themotorbikestation.com",
+      "rating": 5,
+      "reviews": 1300
+     }
+    ],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "How much does it cost to buy a motorbike in Vietnam?",
+     "How to get a motorbike license in Vietnam?",
+     "What is the most popular motorbike in Vietnam?",
+     "How much to hire a motorbike in Vietnam?"
+    ],
+    "related_searches": [
+     "Motorbike rental Ho Chi Minh",
+     "Motorbike rental Hanoi",
+     "Motorbike rental Ho Chi Minh price",
+     "Motorbike rental Ho Chi Minh District 1",
+     "Vietnam motorbike rental one way",
+     "Best motorbike rental vietnam",
+     "Hanoi motorbike rental cost",
+     "Motorbike rental near me"
+    ],
+    "organic_top": [
+     "1. riderly.com /rental-locations/vietnam/district-1/",
+     "2. facebook.com /groups/vietnamtravelguideofficial/posts/695770462738487/",
+     "3. dragonbiketours.com",
+     "4. rentalmotorbikehanoi.com /backpacker-from-vietnam-to-laos-by-motorbikes/",
+     "5. motorvina.com",
+     "6. facebook.com /groups/2066955070259074/posts/4313119738975918/",
+     "7. tripadvisor.com",
+     "8. tnktravel.com /blogs/vietnam-blogs/how-to-rent-a-good-motorbike-in-vietnam/"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 118
+   },
+   {
+    "query": "riding a motorbike in hanoi",
+    "market": "United States",
+    "fetched_at": "2026-10-14T12:29:18.334385Z",
+    "features": [
+     "ai_overview",
+     "organic",
+     "video",
+     "people_also_ask",
+     "discussions_and_forums",
+     "related_searches"
+    ],
+    "local_pack": [],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "Can foreigners ride motorbikes in Vietnam?",
+     "What is the 12 second rule for motorcycles?",
+     "What does 2 fingers down mean to bikers?",
+     "Can tourists rent a motorbike in Vietnam?"
+    ],
+    "related_searches": [
+     "Riding a motorbike in hanoi reddit",
+     "Motorcycle Vietnam tour",
+     "Best motorcycle rental hanoi",
+     "Motorbike Vietnam price",
+     "Can I ride a motorbike in Vietnam with a UK license",
+     "Vietnam motorbike rental",
+     "Motorbike rental Hanoi Reddit",
+     "Vietnam motorcycle brands"
+    ],
+    "organic_top": [
+     "1. reddit.com /r/solotravel/comments/1gfqd2z/motorbiking_in_hanoi/",
+     "2. petersbigadventure.com /city-guides/hanoi/driving",
+     "3. yourfriendthenomad.com /hanoi-motorbike-tour/",
+     "4. ethosspirit.com /motorbiking-in-vietnam",
+     "5. madornomad.com /motorcycle-travel-guide-vietnam/",
+     "6. getyourguide.com",
+     "7. youtube.com /watch?v=chIzNE8eSU0"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 124
+   },
+   {
+    "query": "scooter rental hanoi",
+    "market": "United States",
+    "fetched_at": "2026-10-14T14:06:27.098661Z",
+    "features": [
+     "ai_overview",
+     "local_pack",
+     "people_also_ask",
+     "organic",
+     "related_searches"
+    ],
+    "local_pack": [
+     {
+      "title": "Rental Motorbike Vietnam",
+      "domain": "rentalmotorbikevietnam.com",
+      "rating": 4.9,
+      "reviews": 1100
+     },
+     {
+      "title": "13535 Motorbike Rental/ Cho Thuê Xe 13535",
+      "domain": "hanoimidorihomes.com",
+      "rating": 4.8,
+      "reviews": 2100
+     },
+     {
+      "title": "Hanoiscootersrental.com, Đức Thành Motor",
+      "domain": "facebook.com",
+      "rating": 5,
+      "reviews": 648
+     }
+    ],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "Can I rent a 50cc scooter in Vietnam?",
+     "How much is bike rental in Hanoi?",
+     "Can you drive a scooter in Vietnam?",
+     "How much do scooters cost in Vietnam?"
+    ],
+    "related_searches": [
+     "Electric scooter rental hanoi",
+     "Motorbike rental Hanoi Old Quarter",
+     "Hanoi motorbike rental cost",
+     "13535 Motorbike Rental Hanoi",
+     "Scooter hanoi",
+     "Tuan motorbike rental Hanoi",
+     "James Hanoi Motorbike",
+     "Rental Motorbike Vietnam"
+    ],
+    "organic_top": [
+     "1. tripadvisor.com",
+     "2. jamesmotorbikes.com",
+     "3. facebook.com /groups/vietnam.travel.planning/posts/882384707329489/",
+     "4. facebook.com /groups/789908834478207/posts/4045167392285652/",
+     "5. tripadvisor.com",
+     "6. facebook.com /groups/hanoimassiveofficial/posts/1833314740636660/",
+     "7. giahungmotorbikerental.com /travel-advice/rent-scooter-monthly",
+     "8. facebook.com /groups/centralvietnamtip/posts/1304079031385488/"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [
+     "5. tripadvisor.com — Hanoi Motorbike Rental - Nguyen Tu"
+    ],
+    "total_available": 111
+   },
+   {
+    "query": "vietnam motorbike license for foreigners",
+    "market": "United States",
+    "fetched_at": "2026-10-14T14:42:21.546567Z",
+    "features": [
+     "ai_overview",
+     "organic",
+     "people_also_ask",
+     "video",
+     "related_searches"
+    ],
+    "local_pack": [],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "Can I drive in Vietnam with an international driver's license?",
+     "What is the meaning of an A1, B, B1, B2 driver's license?",
+     "What is the youngest age to drive a motorcycle?",
+     "Can I rent a 50cc scooter in Vietnam?"
+    ],
+    "related_searches": [
+     "Vietnam motorbike license for foreigners rules",
+     "Vietnam motorbike license for foreigners online",
+     "Vietnam motorbike license for foreigners requirements",
+     "What license do you need to ride a motorbike in Vietnam",
+     "Do you need a license to rent a motorbike in Vietnam",
+     "Do you need a motorcycle license in Vietnam",
+     "Can I ride a motorbike in Vietnam",
+     "Vietnam 50cc motorbike license"
+    ],
+    "organic_top": [
+     "1. reddit.com",
+     "2. youtube.com /watch?v=7aJCTaOtu_k",
+     "3. facebook.com /groups/expatsinsaigon/posts/2663362784023960/",
+     "4. indochinamotorbiketours.com",
+     "5. dcmotorbikes.com",
+     "6. vietnammotorcycletours.com /do-you-need-a-vietnamese-driving-license",
+     "7. tripadvisor.com",
+     "8. tripadvisor.com"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 109
+   },
+   {
+    "query": "vietnam motorbike trip",
+    "market": "United States",
+    "fetched_at": "2026-10-14T12:29:18.541621Z",
+    "features": [
+     "ai_overview",
+     "organic",
+     "people_also_ask",
+     "video",
+     "related_searches"
+    ],
+    "local_pack": [],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "How much is a motorcycle trip in Vietnam?",
+     "What is the most famous bike trip in Vietnam?",
+     "Can tourists ride motorcycles in Vietnam?",
+     "Is the Ha Giang loop scary?"
+    ],
+    "related_searches": [
+     "Vietnam motorbike trip packages",
+     "Vietnam motorbike trip itinerary",
+     "Vietnam motorbike Loop",
+     "Vietnam motorcycle Tours 2026",
+     "10 day motorbike trip Vietnam",
+     "Vietnam motorcycle Tours price",
+     "Vietnam motorbike trip reddit",
+     "Vietnam motorbike rental"
+    ],
+    "organic_top": [
+     "1. onyabikeadventures.com",
+     "2. reddit.com",
+     "3. vietnamas.info /en",
+     "4. motorbiketourexpert.com",
+     "5. nytimes.com /2025/10/14/travel/vietnam-ha-giang-loop-tour-motorcycle.html",
+     "6. tripadvisor.com",
+     "7. vietnamcoracle.com /the-greatest-riding-roads-in-vietnam/",
+     "8. madornomad.com /motorcycle-travel-guide-vietnam/"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 131
+   }
+  ]
+ },
+ "_ingest_log": [
+  {
+   "file": "compare_keyword_coverage__en-rentbikehanoi-com.json",
+   "tool": "compare_keyword_coverage",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "en.rentbikehanoi.com vs tigitmotorbikes.com,rentalmotorbikevietnam.com,theextramile.co,stylemotorbikes.com,rentabikevn.com",
+   "rows_kept": 45
+  },
+  {
+   "file": "discover_competitors__seeds.json",
+   "tool": "discover_competitors",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "12 seeds"
+  },
+  {
+   "file": "inspect_backlinks__theextramile-co.json",
+   "tool": "inspect_backlinks",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "theextramile.co"
+  },
+  {
+   "file": "inspect_backlinks__tigitmotorbikes-com.json",
+   "tool": "inspect_backlinks",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "tigitmotorbikes.com"
+  },
+  {
+   "file": "inspect_domain__rentalmotorbikevietnam-com.json",
+   "tool": "inspect_domain",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "rentalmotorbikevietnam.com",
+   "rows_kept": 10
+  },
+  {
+   "file": "inspect_serp__50cc-motorbike-vietnam-licence.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "50cc motorbike vietnam licence"
+  },
+  {
+   "file": "inspect_serp__best-scooter-to-rent-in-vietnam.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "best scooter to rent in vietnam"
+  },
+  {
+   "file": "inspect_serp__can-tourists-rent-a-motorbike-in-vietnam.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "can tourists rent a motorbike in vietnam"
+  },
+  {
+   "file": "inspect_serp__electric-bike-rental-hanoi.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "electric bike rental hanoi"
+  },
+  {
+   "file": "inspect_serp__electric-motorbike-rental-hanoi-vietnam.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-14",
+   "market": "vn",
+   "scope": "electric motorbike rental hanoi"
+  },
+  {
+   "file": "inspect_serp__ha-giang-loop-motorbike-rental.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "ha giang loop motorbike rental"
+  },
+  {
+   "file": "inspect_serp__is-it-safe-to-ride-a-motorbike-in-vietnam.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "is it safe to ride a motorbike in vietnam"
+  },
+  {
+   "file": "inspect_serp__monthly-motorbike-rental-hanoi-vietnam.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-14",
+   "market": "vn",
+   "scope": "monthly motorbike rental hanoi"
+  },
+  {
+   "file": "inspect_serp__monthly-motorbike-rental-hanoi.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "monthly motorbike rental hanoi"
+  },
+  {
+   "file": "inspect_serp__motorbike-rental-hanoi-united-states.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "motorbike rental hanoi"
+  },
+  {
+   "file": "inspect_serp__motorbike-rental-hanoi-vietnam.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-14",
+   "market": "vn",
+   "scope": "motorbike rental hanoi"
+  },
+  {
+   "file": "inspect_serp__motorbike-rental-vietnam.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "motorbike rental vietnam"
+  },
+  {
+   "file": "inspect_serp__riding-a-motorbike-in-hanoi.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "riding a motorbike in hanoi"
+  },
+  {
+   "file": "inspect_serp__scooter-rental-hanoi.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "scooter rental hanoi"
+  },
+  {
+   "file": "inspect_serp__vietnam-motorbike-license-for-foreigners.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "vietnam motorbike license for foreigners"
+  },
+  {
+   "file": "inspect_serp__vietnam-motorbike-trip.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "vietnam motorbike trip"
+  },
+  {
+   "file": "research_keywords__electric-motorbike-vietnam-ideas-vietnam.json",
+   "tool": "research_keywords",
+   "date": "2026-10-14",
+   "market": "vn",
+   "scope": "ideas \"electric motorbike vietnam\"",
+   "rows_kept": 45
+  },
+  {
+   "file": "research_keywords__ha-giang-loop-ideas.json",
+   "tool": "research_keywords",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "ideas \"ha giang loop\"",
+   "rows_kept": 10
+  },
+  {
+   "file": "research_keywords__monthly-motorbike-rental-hanoi-suggestions-vietnam.json",
+   "tool": "research_keywords",
+   "date": "2026-10-14",
+   "market": "vn",
+   "scope": "suggestions \"monthly motorbike rental hanoi\"",
+   "rows_kept": 0
+  },
+  {
+   "file": "research_keywords__motorbike-helmet-vietnam-ideas.json",
+   "tool": "research_keywords",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "ideas \"motorbike helmet vietnam\"",
+   "rows_kept": 0
+  },
+  {
+   "file": "research_keywords__motorbike-rental-hanoi-ideas-australia.json",
+   "tool": "research_keywords",
+   "date": "2026-10-14",
+   "market": "au",
+   "scope": "ideas \"motorbike rental hanoi\"",
+   "rows_kept": 12
+  },
+  {
+   "file": "research_keywords__motorbike-rental-hanoi-ideas-united-kingdom.json",
+   "tool": "research_keywords",
+   "date": "2026-10-14",
+   "market": "uk",
+   "scope": "ideas \"motorbike rental hanoi\"",
+   "rows_kept": 10
+  },
+  {
+   "file": "research_keywords__motorbike-rental-hanoi-ideas-united-states.json",
+   "tool": "research_keywords",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "ideas \"motorbike rental hanoi\"",
+   "rows_kept": 18
+  },
+  {
+   "file": "research_keywords__motorbike-rental-hanoi-ideas-vietnam.json",
+   "tool": "research_keywords",
+   "date": "2026-10-14",
+   "market": "vn",
+   "scope": "ideas \"motorbike rental hanoi\"",
+   "rows_kept": 36
+  },
+  {
+   "file": "research_keywords__motorbike-rental-hanoi-ideas.json",
+   "tool": "research_keywords",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "ideas \"motorbike rental hanoi\"",
+   "rows_kept": 18
+  },
+  {
+   "file": "research_keywords__motorbike-rental-hanoi-suggestions-vietnam.json",
+   "tool": "research_keywords",
+   "date": "2026-10-14",
+   "market": "vn",
+   "scope": "suggestions \"motorbike rental hanoi\"",
+   "rows_kept": 17
+  },
+  {
+   "file": "research_keywords__motorbike-rental-hanoi-suggestions.json",
+   "tool": "research_keywords",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "suggestions \"motorbike rental hanoi\"",
+   "rows_kept": 19
+  },
+  {
+   "file": "research_keywords__riding-motorbike-in-vietnam-ideas-vietnam.json",
+   "tool": "research_keywords",
+   "date": "2026-10-14",
+   "market": "vn",
+   "scope": "ideas \"riding motorbike in vietnam\"",
+   "rows_kept": 46
+  },
+  {
+   "file": "research_keywords__scooter-rental-vietnam-suggestions.json",
+   "tool": "research_keywords",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "suggestions \"scooter rental vietnam\"",
+   "rows_kept": 7
+  },
+  {
+   "file": "research_keywords__vietnam-motorbike-license-ideas.json",
+   "tool": "research_keywords",
+   "date": "2026-10-14",
+   "market": "us",
+   "scope": "ideas \"vietnam motorbike license\"",
+   "rows_kept": 4
+  }
+ ]
 }

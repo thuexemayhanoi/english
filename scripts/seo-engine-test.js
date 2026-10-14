@@ -35,7 +35,7 @@ function mkFixture() {
   fs.mkdirSync(path.join(root, '_includes'), { recursive: true });
   fs.mkdirSync(path.join(root, '_data'), { recursive: true });
   fs.mkdirSync(path.join(root, 'assets', 'js'), { recursive: true });
-  for (const f of ['lib.js', 'seo-audit.js', 'schema-check.js', 'sitemap-check.js', 'internal-link-audit.js', 'frontmatter-check.js', 'content-duplicate-check.js', 'seo-score.js', 'fix-matrix.js', 'seo-regression.js', 'maintenance.js', 'build-report.js', 'assistant-test.js']) {
+  for (const f of ['lib.js', 'seo-audit.js', 'schema-check.js', 'sitemap-check.js', 'internal-link-audit.js', 'frontmatter-check.js', 'content-duplicate-check.js', 'seo-score.js', 'fix-matrix.js', 'seo-regression.js', 'maintenance.js', 'build-report.js', 'assistant-test.js', 'seo-research-ingest.js']) {
     fs.copyFileSync(path.join(SRC, f), path.join(root, 'scripts', f));
   }
   // Assistant + layout support files needed by maintenance.js in the fixture
@@ -222,6 +222,27 @@ check('data-driven: Search Console queries export parsed (BOM and quoted comma)'
 check('data-driven: quick-win band is >= 50 impressions at position 4-20', LIB.gscSignal({ clicks: 12, impressions: 340, position: 8.2, ctr: 0.035 }).kind === 'quick-win' && LIB.gscSignal({ clicks: 1, impressions: 10, position: 45, ctr: 0.1 }).kind === 'measured');
 check('data-driven: low-CTR band is a top-3 position under 2% CTR with real demand', LIB.gscSignal({ clicks: 2, impressions: 400, position: 2.1, ctr: 0.005 }).kind === 'low-ctr');
 check('data-driven: an unknown CSV layout is rejected, never guessed', LIB.parseGscCsv('a,b\n1,2\n').kind === 'unknown');
+
+// ---------- 7. zero-data research ingest (classification, SERP snapshot, idempotency) ----------
+{
+  const INBOX = path.join(ROOT, 'docs', 'seo', 'research', 'inbox'); fs.mkdirSync(INBOX, { recursive: true });
+  fs.writeFileSync(path.join(INBOX, 'serp.json'), JSON.stringify({ schema_version: 'ofe/1.0', domain: 'serp', data: { query: 'motorbike rental hanoi', location: 'Vietnam', fetched_at: '2026-10-14T00:00:00Z', item_types_present: ['local_pack', 'organic'], organic: [{ position: 1, url: 'https://example.com/', title: 'Example' }, { position: 2, url: 'https://www.tripadvisor.com/x-Nguyen_Tu', title: 'Hanoi Motorbike Rental - Nguyen Tu' }], local_pack: [{ title: 'Shop', url: 'https://shop.example/', rating: { value: 4.9, votes_count: 100 } }], people_also_ask: ['Can tourists rent a motorbike in Vietnam?'], related_searches: ['motorbike rental hanoi near me'] }, coverage: { as_of: '2026-10-14T00:00:00Z', total_available: 100 } }));
+  fs.writeFileSync(path.join(INBOX, 'kw.json'), JSON.stringify({ tool: 'research_keywords', input: { seed: 'motorbike rental hanoi', location: 'Vietnam' }, result: { schema_version: 'ofe/1.0', domain: 'seo', data: { seed: 'motorbike rental hanoi', location: 'Vietnam', mode: 'suggestions', keywords: [{ keyword: 'motorbike rental hanoi', monthly_volume: 2400, cpc_usd: 0.39, competition_level: 'LOW', intent: 'transactional' }, { keyword: 'vietnamese coffee near me', monthly_volume: 49500, intent: 'transactional' }, { keyword: 'tuan motorbike rental hanoi', monthly_volume: 10, intent: 'transactional' }, { keyword: 'honda crv vietnam', monthly_volume: 40, intent: 'informational' }] }, coverage: { returned: 4, total_available: 4, as_of: '2026-10-14T00:00:00Z' } } }));
+  const ing1 = run(ROOT, 'seo-research-ingest.js', ['--inbox', 'docs/seo/research/inbox']);
+  const evPath = path.join(ROOT, 'docs', 'seo', 'keyword-evidence.json'); const unPath = path.join(ROOT, 'docs', 'seo', 'keyword-universe.json');
+  const ev1 = fs.existsSync(evPath) ? fs.readFileSync(evPath, 'utf8') : ''; const un1 = fs.existsSync(unPath) ? fs.readFileSync(unPath, 'utf8') : '';
+  const ev = ev1 ? JSON.parse(ev1) : {}; const un = un1 ? JSON.parse(un1) : { rows: [] };
+  const q = ev._serp_snapshot_ingested && ev._serp_snapshot_ingested.queries[0];
+  check('research-ingest: SERP snapshot recorded with market, brand mention and local-pack review count', ing1.status === 0 && q && q.query === 'motorbike rental hanoi' && q.market === 'Vietnam' && q.brand_mentions.length === 1 && q.local_pack[0].reviews === 100 && q.people_also_ask.length === 1, ing1.out.split('\n').slice(-2).join(' | '));
+  const row = un.rows.find(r => r.keyword === 'motorbike rental hanoi');
+  check('research-ingest: on-topic keyword kept with market volume, topic and source', !!row && row.relevance === 'core' && row.topic === 'rental-hanoi' && row.volume.vn === 2400 && row.sources.length === 1, JSON.stringify(row));
+  check('research-ingest: competitor brand classified, never a target', (un.rows.find(r => r.keyword === 'tuan motorbike rental hanoi') || {}).relevance === 'competitor-brand');
+  check('research-ingest: off-topic rows (coffee, cars) dropped', !un.rows.some(r => /coffee|crv/.test(r.keyword)));
+  run(ROOT, 'seo-research-ingest.js', ['--inbox', 'docs/seo/research/inbox']);
+  check('research-ingest: re-ingesting the same files changes nothing (idempotent)', fs.readFileSync(evPath, 'utf8') === ev1 && fs.readFileSync(unPath, 'utf8') === un1);
+  const ING = require(path.join(ROOT, 'scripts', 'seo-research-ingest.js'));
+  check('research-ingest: classification rules (other-city, licence topic, adjacent)', ING.classify('scooter rental ho chi minh') === 'other-city' && ING.topicOf('vietnam motorbike license for foreigners') === 'licence-and-paperwork' && ING.classify('traffic in vietnam') === 'adjacent' && ING.classify('harley rental') === null);
+}
 
 // ---------- 6. production isolation ----------
 check('isolation: fixture articles never leaked into production', !fs.existsSync(path.join(PROD_ROOT, '_articles', 'valid-article.md')));
