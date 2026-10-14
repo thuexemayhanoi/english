@@ -306,3 +306,26 @@ Six source audits P0/P1 0 (seo-audit P2 4 = the REVIEW_REQUIRED banners), schema
 2. Search Console property for en.rentbikehanoi.com; export → `docs/seo/gsc-performance.csv` → DATA-DRIVEN mode.
 3. Outreach from `docs/seo/link-prospects.md` (editorial mentions, listings, partners; never paid links).
 4. Keep the TripAdvisor and Facebook pages that already rank aligned with OWNER-FACTS and linked to the site.
+
+## 2026-10-14 — Weapon 06: autonomous SEO engine (zero-data): research ingest, Vietnam-market SERPs, topical map
+
+Brief: run Weapon 06 in ZERO-DATA mode — audit the repository, keep the SEO Matrix, research SERPs, build the topical map, cluster keywords and find content gaps — reusing the five existing weapons and never inventing data. No Search Console, GA4 or paid API was used; every figure below carries its tool, market and date in `docs/seo/keyword-evidence.json` / `docs/seo/keyword-universe.json`.
+
+### Part 1 — research ingest engine (commit f40d062)
+
+- `scripts/seo-research-ingest.js`: raw connector exports dropped into the git-ignored `docs/seo/research/inbox/` are merged deterministically and idempotently into the evidence file (`_serp_snapshot_ingested` per query and market with position history, `_competitors` + deep dives, `_competitor_backlinks`, `_keyword_gap`, `_ingest_log`) and the keyword universe (classification core / adjacent / other-city / competitor-brand and topic rules now live in the repository; cars, food, cost-of-living, accommodation and other countries are dropped). Re-ingesting changes nothing. Fixture-tested.
+- Research added with the connectors: 16 SERP snapshots in total, 3 of them for the Vietnam market ("electric motorbike rental hanoi", "monthly motorbike rental hanoi", "motorbike rental hanoi"), plus hub-level US snapshots (licence for foreigners, Ha Giang loop rental, can tourists rent) and demand seeds for trips, gear, electric, riding and repair. Universe: 138 → 159 on-topic rows (116 core).
+- Vietnam-market SERP for "motorbike rental hanoi": rental-shop homepages fill the organic slots (tigitmotorbikes.com, stylemotorbikes.com, rentalmotorbikehanoi.com, phungmotorbike.com, hanoimotorbikerental.com), the business's TripAdvisor page sits at #7, the same three Google Business Profiles hold the local pack. In the primary market the competition is shop websites, not Facebook threads.
+
+### Part 2 — topical map engine (this commit series)
+
+- `scripts/topical-map.js` → `docs/seo/topical-map.{json,md}`: 14 clusters, 981 articles; in-body links that stay inside their silo 1967 (64%), cross-silo 1121; **354 articles receive no in-body link from their own silo** (hub listing and related cards only); hubs with fewer than three start-here links: 0; keyword clusters by serving URL 40; split keyword families 4; SERP questions served 158, unserved 7 (all off-topic); demand served (core, VN market) 50340/50460.
+- Weakest silos by in-silo share: parts-gear 36%, manual-clutch 38%, 50cc 41%, hanoi 45%; most silo orphans: motorcycles 71, scooters 58, parts-gear 44, manual-clutch 30. Largest cross-silo flows: parts-gear → maintenance 104, parts-gear → safety 92, monthly-rental → rental 70 (gear → maintenance/safety pointers are intentional; the rest is the queue).
+- Recommendations (all REVIEW_REQUIRED): serp-gap 1, hub-links-outside-silo 13, silo-leak 4, silo-orphans 14, keyword-cluster 15, money-page-inbound 50, split-family 4, owned-keyword-coverage 1. Demand gaps: "triumph motorcycles vietnam", "mutt motorcycles vietnam", "bmw motorcycles vietnam" (big-bike brand queries, not targets). Split families: "bike honda vietnam", "honda motorbike vietnam", "motorbike route vietnam", "motorbike vietnamese".
+- Autonomous loop: maintenance.js now runs Audit → Matrix → Map, reports the map row and carries map changes with the matrix-refresh safe fix; dry run on this tree PASS_WITH_REVIEW, map unchanged. Engine tests 51/51.
+
+### What the map says to do next (by hand, in batches)
+
+1. Contextual in-silo links for the 50 money pages with fewer than two in-silo inbound links (rental, monthly-rental, scooters first), then the 354 silo orphans, highest-demand silos first (vietnam-travel, rental, law-licences, scooters).
+2. Declare one owner for each split keyword family in `docs/seo/keyword-targets.json`.
+3. Keep ingesting research: drop new connector exports into the inbox, run the ingest, the matrix and the map; switch to DATA-DRIVEN mode the day a Search Console export exists.

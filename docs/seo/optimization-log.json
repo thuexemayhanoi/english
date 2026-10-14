@@ -1227,5 +1227,11 @@
   "batch": "engine-zero-data",
   "note": "Zero-data research layer (SERP snapshots, competitor set, keyword universe per market, competitor link profiles, content formats, analysis) recorded with tool and date; matrix engine maps the keyword universe to serving URLs and regenerates serp-landscape.md, keyword-universe.md, link-prospects.md; dormant DATA-DRIVEN switch on docs/seo/gsc-performance.csv; NAP guard in schema-check; IndexNow post-deploy submission workflow",
   "urls": []
+ },
+ {
+  "date": "2026-10-14",
+  "batch": "engine-w06",
+  "note": "Weapon 06 (autonomous SEO engine, zero-data): research ingest engine (raw connector exports -> evidence + keyword universe, idempotent), Vietnam-market and hub-level SERP snapshots, demand seeds for uncovered clusters, topical map engine (Pillar-Hub-Silo, silo integrity, demand per cluster, keyword clusters, split families, REVIEW_REQUIRED recommendations) wired into maintenance.js",
+  "urls": []
  }
 ]

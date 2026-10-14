@@ -71,6 +71,11 @@ CURRENT remote main before acting. Never rely on remembered state.
   Never invent or round a metric; never target a competitor brand name; never
   create an article for a gap. Off-site work (reviews, Google Business Profile,
   outreach) is owner-only.
+- Topical map: scripts/topical-map.js (Pillar-Hub-Silo map, silo integrity,
+  demand per cluster, keyword clusters by URL, split families, REVIEW_REQUIRED
+  recommendations) writes docs/seo/topical-map.{json,md} after the matrix;
+  both are matrix files in maintenance.js. It never creates articles, edits
+  prose or changes URLs; recommendations are worked by hand in small batches.
 - DATA-DRIVEN switch: docs/seo/gsc-performance.csv (a real Search Console
   export; header-only template gsc-performance.template.csv) flips the matrix
   from ZERO-DATA to DATA-DRIVEN mode (lib.js parseGscCsv/gscSignal). Never
