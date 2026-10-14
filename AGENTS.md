@@ -68,6 +68,13 @@ CURRENT remote main before acting. Never rely on remembered state.
   the matrix reads. Verified optimisation batches are recorded in
   docs/seo/optimization-log.json (date, batch, note, urls); never mark a URL
   OPTIMIZED without a recorded batch.
+- FAQ and title tags: the cluster and article layouts render `faq:` front
+  matter as a Common questions section and emit FAQPage JSON-LD from it
+  (`faq_in_body: true` = schema only). Every answer must restate
+  docs/OWNER-FACTS.md or a VERIFIED article; never add a question whose
+  answer is not already on the site. The default layout appends the brand
+  suffix to the title tag only when the whole string fits 65 characters;
+  `title_tag:` overrides (homepage). Do not reintroduce a fixed suffix.
 
 ## When extending the system
 
