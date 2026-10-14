@@ -4,7 +4,7 @@ Generated 2026-10-14 by `scripts/english-seo-matrix.js` from the QA tool reports
 
 ## Keyword universe coverage (zero-data mode)
 
-159 on-topic keywords recorded in `docs/seo/keyword-universe.json` (third-party demand estimates, generated 2026-10-14): 116 core, 10 competitor-brand, 11 other-city, 22 adjacent. Core keywords served by an existing URL: 113; core gaps: 3. Estimated monthly demand covered (core served / core total): AU 750/750, UK 360/360, US 16180/16190, VN 50340/50460. Full mapping: `docs/seo/keyword-universe.md`.
+159 on-topic keywords recorded in `docs/seo/keyword-universe.json` (third-party demand estimates, generated 2026-10-14): 116 core, 10 competitor-brand, 11 other-city, 22 adjacent. Core keywords served by an existing URL: 113; core gaps: 3. Estimated monthly demand covered (core served / core total): AU 750/750, UK 360/360, US 16180/16190, VN 50340/50460. Full mapping: `docs/seo/keyword-universe.md`; silo-level view with demand per cluster and link-integrity recommendations: `docs/seo/topical-map.md` (scripts/topical-map.js).
 
 | Gap keyword | Topic | Intent | Volume by market | Competitor ranking |
 |---|---|---|---|---|

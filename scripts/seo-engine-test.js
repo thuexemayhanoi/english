@@ -35,7 +35,7 @@ function mkFixture() {
   fs.mkdirSync(path.join(root, '_includes'), { recursive: true });
   fs.mkdirSync(path.join(root, '_data'), { recursive: true });
   fs.mkdirSync(path.join(root, 'assets', 'js'), { recursive: true });
-  for (const f of ['lib.js', 'seo-audit.js', 'schema-check.js', 'sitemap-check.js', 'internal-link-audit.js', 'frontmatter-check.js', 'content-duplicate-check.js', 'seo-score.js', 'fix-matrix.js', 'seo-regression.js', 'maintenance.js', 'build-report.js', 'assistant-test.js', 'seo-research-ingest.js']) {
+  for (const f of ['lib.js', 'seo-audit.js', 'schema-check.js', 'sitemap-check.js', 'internal-link-audit.js', 'frontmatter-check.js', 'content-duplicate-check.js', 'seo-score.js', 'fix-matrix.js', 'seo-regression.js', 'maintenance.js', 'build-report.js', 'assistant-test.js', 'seo-research-ingest.js', 'topical-map.js']) {
     fs.copyFileSync(path.join(SRC, f), path.join(root, 'scripts', f));
   }
   // Assistant + layout support files needed by maintenance.js in the fixture
@@ -242,6 +242,24 @@ check('data-driven: an unknown CSV layout is rejected, never guessed', LIB.parse
   check('research-ingest: re-ingesting the same files changes nothing (idempotent)', fs.readFileSync(evPath, 'utf8') === ev1 && fs.readFileSync(unPath, 'utf8') === un1);
   const ING = require(path.join(ROOT, 'scripts', 'seo-research-ingest.js'));
   check('research-ingest: classification rules (other-city, licence topic, adjacent)', ING.classify('scooter rental ho chi minh') === 'other-city' && ING.topicOf('vietnam motorbike license for foreigners') === 'licence-and-paperwork' && ING.classify('traffic in vietnam') === 'adjacent' && ING.classify('harley rental') === null);
+}
+
+// ---------- 8. topical map (silo integrity on a dedicated fixture) ----------
+{
+  const MAPROOT = mkFixture();
+  const AM = (name, fm, body) => fs.writeFileSync(path.join(MAPROOT, '_articles', name), '---\n' + fm + '\n---\n' + body + '\n');
+  AM('silo-a.md', articleFm({ title: 'Silo A', slug: 'silo-a', description: 'Links inside its silo.', internal_link_targets: 'valid-article' }), '# Silo A\n\nRead the [valid guide](/articles/valid-article/) first.');
+  AM('silo-b.md', articleFm({ title: 'Silo B', slug: 'silo-b', description: 'Links to another silo.', search_intent: 'commercial', internal_link_targets: 'valid-article' }), '# Silo B\n\nSee the [rental hub](/topics/rental/) and {{ "/articles/silo-a/" | relative_url }}.');
+  const mapRun = run(MAPROOT, 'topical-map.js');
+  const mapJson = path.join(MAPROOT, 'docs', 'seo', 'topical-map.json');
+  const map = fs.existsSync(mapJson) ? readJSON(MAPROOT, 'docs/seo/topical-map.json') : null;
+  const sc = map && map.clusters.find(c => c.cluster === 'scooters');
+  check('topical-map: runs without the matrix and writes the map', mapRun.status === 0 && !!map && map.summary.missing.length === 1 && fs.existsSync(path.join(MAPROOT, 'docs', 'seo', 'topical-map.md')), mapRun.out.split('\n').slice(-2).join(' | '));
+  check('topical-map: in-silo and cross-silo in-body links counted per cluster', !!sc && sc.links.inSiloBody >= 1 && sc.links.crossSiloOut >= 1, sc ? JSON.stringify(sc.links) : 'no scooters cluster');
+  check('topical-map: silo orphans (no in-silo in-body inbound) and hub start-here rule reported as REVIEW_REQUIRED', !!sc && sc.links.articlesWithoutInSiloInbound >= 1 && sc.recommendations.some(r => r.rule === 'hub-start-here' && r.status === 'REVIEW_REQUIRED'), sc ? JSON.stringify(sc.recommendations.map(r => r.rule)) : '');
+  check('topical-map: commercial page with too few in-silo inbound links flagged (money-page-inbound)', !!sc && sc.recommendations.some(r => r.rule === 'money-page-inbound' && /silo-b/.test(r.detail)));
+  check('topical-map: cross-silo flow recorded (scooters -> rental)', !!map && map.crossSiloEdges.some(e => e.from === 'scooters' && e.to === 'rental' && e.links >= 1));
+  fs.rmSync(MAPROOT, { recursive: true, force: true });
 }
 
 // ---------- 6. production isolation ----------

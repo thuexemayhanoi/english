@@ -164,8 +164,8 @@ const safeFixes = [];
 // material changed the committed files are restored byte-for-byte so a date
 // line alone never produces a diff. P0 rows surface as a maintenance P1.
 const matrixScript = path.join(__dirname, 'english-seo-matrix.js');
-const MATRIX_FILES = ['docs/seo/english-seo-master-matrix.json', 'docs/seo/english-seo-master-matrix.csv', 'docs/seo/english-seo-master-matrix.md', 'docs/seo/english-keyword-clusters.md', 'docs/seo/serp-landscape.md', 'docs/seo/keyword-universe.md', 'docs/seo/link-prospects.md'];
-let matrixSummary = null; let matrixChanged = false;
+const MATRIX_FILES = ['docs/seo/english-seo-master-matrix.json', 'docs/seo/english-seo-master-matrix.csv', 'docs/seo/english-seo-master-matrix.md', 'docs/seo/english-keyword-clusters.md', 'docs/seo/serp-landscape.md', 'docs/seo/keyword-universe.md', 'docs/seo/link-prospects.md', 'docs/seo/topical-map.json', 'docs/seo/topical-map.md'];
+let matrixSummary = null; let matrixChanged = false; let mapSummary = null; let mapChanged = false;
 if (fs.existsSync(matrixScript) && fs.existsSync(path.join(ROOT, 'docs', 'seo'))) {
   const stable = x => JSON.stringify({ byPriority: x.byPriority, byStatus: x.byStatus, issueFrequency: x.issueFrequency, contentGapCount: x.contentGapCount, cannibalizationPairs: x.cannibalizationPairs, urls: x.urls });
   const before = {}; for (const f of MATRIX_FILES) { const fp = path.join(ROOT, f); if (fs.existsSync(fp)) before[f] = fs.readFileSync(fp, 'utf8'); }
@@ -174,9 +174,22 @@ if (fs.existsSync(matrixScript) && fs.existsSync(path.join(ROOT, 'docs', 'seo'))
   if (mr.status !== 0) add('P1', 'seo-matrix', 'english-seo-matrix.js exited ' + mr.status + ': ' + (((mr.stderr || '') + (mr.stdout || '')).trim().split('\n')[0] || ''), 'inspect scripts/english-seo-matrix.js');
   else {
     try { matrixSummary = JSON.parse(fs.readFileSync(path.join(ROOT, MATRIX_FILES[0]), 'utf8')).summary; } catch (e) { matrixSummary = null; }
+    // Topical map (Weapon 06): Pillar-Hub-Silo view built from the fresh matrix; its
+    // stable summary decides whether the committed map is stale, like the matrix.
+    const mapScript = path.join(__dirname, 'topical-map.js');
+    if (fs.existsSync(mapScript)) {
+      const prevMap = (() => { try { return JSON.parse(before['docs/seo/topical-map.json']).summary; } catch (e) { return null; } })();
+      const mapRun = spawnSync(process.execPath, [mapScript], { encoding: 'utf8' });
+      if (mapRun.status !== 0) add('P1', 'topical-map', 'topical-map.js exited ' + mapRun.status + ': ' + (((mapRun.stderr || '') + (mapRun.stdout || '')).trim().split('\n')[0] || ''), 'inspect scripts/topical-map.js');
+      else {
+        try { mapSummary = JSON.parse(fs.readFileSync(path.join(ROOT, 'docs', 'seo', 'topical-map.json'), 'utf8')).summary; } catch (e) { mapSummary = null; }
+        const stableMap = x => JSON.stringify({ inSiloBodyLinks: x.inSiloBodyLinks, crossSiloBodyLinks: x.crossSiloBodyLinks, articlesWithoutInSiloInbound: x.articlesWithoutInSiloInbound, hubsWithFewerThan3StartHere: x.hubsWithFewerThan3StartHere, keywordClusters: x.keywordClusters, splitFamilies: x.splitFamilies, serpGaps: x.serpGaps, recommendations: x.recommendations });
+        if (mapSummary) mapChanged = !prevMap || stableMap(prevMap) !== stableMap(mapSummary);
+      }
+    }
     if (matrixSummary) {
       if (matrixSummary.byPriority.P0 > 0) add('P1', 'seo-matrix', 'English SEO matrix has ' + matrixSummary.byPriority.P0 + ' P0 row(s)', 'work the P0 rows in docs/seo/english-seo-master-matrix.md');
-      matrixChanged = !prevSummary || stable(prevSummary) !== stable(matrixSummary);
+      matrixChanged = !prevSummary || stable(prevSummary) !== stable(matrixSummary) || mapChanged;
       if (matrixChanged) {
         add('P3', 'seo-matrix', 'English SEO matrix changed vs the committed matrix: P0=' + matrixSummary.byPriority.P0 + ' P1=' + matrixSummary.byPriority.P1 + ' P2=' + matrixSummary.byPriority.P2 + ' P3=' + matrixSummary.byPriority.P3 + ', content gaps ' + matrixSummary.contentGapCount, 'auto-fixable with --fix (matrix refresh)');
         for (const f of MATRIX_FILES) safeFixes.push({ file: f, kind: 'matrix-refresh' });
@@ -379,7 +392,8 @@ md += '| Rendered-site audit | ' + (hasSite ? (toolResults['rendered-site-audit'
 md += '| SEO score | ' + (seoScoreData ? 'overall ' + seoScoreData.overall + ' (' + seoScoreData.status + ')' : 'n/a') + ' |\n';
 md += '| SEO regression guard | ' + (seoEngines['seo-regression'].status === 0 ? 'pass (no metric regressed vs accepted baseline)' : 'FAIL — see blocking findings') + ' |\n';
 md += '| SEO fix matrix | ' + (fixMatrixData ? fixMatrixData.summary.rootCauses + ' root causes (' + fixMatrixData.summary.totalFindings + ' findings, ' + fixMatrixData.summary.autoFixable + ' auto-fixable, ' + fixMatrixData.summary.reviewOnly + ' review-only)' : 'n/a') + ' |\n';
-md += '| English SEO matrix | ' + (matrixSummary ? 'P0=' + matrixSummary.byPriority.P0 + ' P1=' + matrixSummary.byPriority.P1 + ' P2=' + matrixSummary.byPriority.P2 + ' P3=' + matrixSummary.byPriority.P3 + ', content gaps ' + matrixSummary.contentGapCount + (matrixChanged ? ' (changed vs committed: refresh is a safe fix)' : ' (unchanged)') : 'n/a') + ' |\n\n';
+md += '| English SEO matrix | ' + (matrixSummary ? 'P0=' + matrixSummary.byPriority.P0 + ' P1=' + matrixSummary.byPriority.P1 + ' P2=' + matrixSummary.byPriority.P2 + ' P3=' + matrixSummary.byPriority.P3 + ', content gaps ' + matrixSummary.contentGapCount + (matrixChanged ? ' (changed vs committed: refresh is a safe fix)' : ' (unchanged)') : 'n/a') + ' |\n';
+md += '| Topical map | ' + (mapSummary ? 'in-silo link share ' + mapSummary.inSiloShare + '%, ' + mapSummary.articlesWithoutInSiloInbound + ' article(s) without an in-silo inbound link, ' + mapSummary.splitFamilies + ' split keyword families, recommendations ' + Object.entries(mapSummary.recommendations || {}).map(([k, v]) => k + '=' + v).join(' ') + (mapChanged ? ' (changed vs committed: refresh is a safe fix)' : ' (unchanged)') : 'n/a') + ' |\n\n';
 
 md += '## Counts per cluster\n\n| Cluster | Count |\n|---|---|\n';
 for (const c of L.CLUSTERS) md += '| ' + c + ' | ' + (perCluster[c] || 0) + ' |\n';
@@ -432,7 +446,8 @@ fs.writeFileSync(REPORT_JSON, JSON.stringify({
     score: seoScoreData ? { overall: seoScoreData.overall, status: seoScoreData.status, categoryScores: seoScoreData.categoryScores, blockingCount: seoScoreData.blockingCount } : null,
     regression: { status: seoEngines['seo-regression'].status, summary: seoEngines['seo-regression'].out.split('\n')[0] || '' },
     fixMatrix: fixMatrixData ? fixMatrixData.summary : null,
-    seoMatrix: matrixSummary ? { byPriority: matrixSummary.byPriority, byStatus: matrixSummary.byStatus, contentGapCount: matrixSummary.contentGapCount, changed: matrixChanged } : null
+    seoMatrix: matrixSummary ? { byPriority: matrixSummary.byPriority, byStatus: matrixSummary.byStatus, contentGapCount: matrixSummary.contentGapCount, changed: matrixChanged } : null,
+    topicalMap: mapSummary ? { inSiloShare: mapSummary.inSiloShare, articlesWithoutInSiloInbound: mapSummary.articlesWithoutInSiloInbound, splitFamilies: mapSummary.splitFamilies, recommendations: mapSummary.recommendations, changed: mapChanged } : null
   },
   safeFixesAvailable: FIX ? [] : safeFixes,
   fixesApplied: FIX ? fixedFiles : []
