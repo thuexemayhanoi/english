@@ -32,7 +32,7 @@ The shop's maintenance list: engine oil level and condition, chain tension and l
 
 ## How it fits a rental
 
-On monthly rentals this is built into the arrangement: the bike lives with you, the maintenance is the shop's side of the deal, and the check is a short visit - not an interruption. The commute article shows the monthly-rate arithmetic; this is its mechanical counterpart. There is no charge for the shop's own maintenance items; the visit is how they get done.
+On monthly rentals this is built into the arrangement: the bike lives with you, the maintenance is the shop's side of the deal, and the check is a short visit - not an interruption. [The commute article]({{ '/articles/commuting-by-motorbike-monthly-hanoi/' | relative_url }}) shows the monthly-rate arithmetic; this is its mechanical counterpart. There is no charge for the shop's own maintenance items; the visit is how they get done.
 
 ## Between checks, the renter's part
 

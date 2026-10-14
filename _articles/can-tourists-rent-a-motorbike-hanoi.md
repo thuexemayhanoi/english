@@ -45,4 +45,4 @@ Compulsory third-party insurance attaches to the vehicle and is carried by the o
 
 Confirm the model is available on your dates, confirm the deposit and the return conditions, and make sure the registration certificate rides with the bike - unable to produce papers at a stop, the bike can be held until they are shown. Photograph the bike at handover.
 
-The general tourist-riding article covers the wider picture; the IDP and 50 cc articles detail the licence routes. The short version: rent freely, ride only on a licence you genuinely hold.
+[The general tourist-riding article]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}) covers the wider picture; the IDP and 50 cc articles detail the licence routes. The short version: rent freely, ride only on a licence you genuinely hold.

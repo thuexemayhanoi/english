@@ -38,4 +38,4 @@ From Wave Alpha to Blade or Sirius (about 3 million VND): styling and, on the Bl
 
 ## The honest advice
 
-For pure transport, the Wave Alpha is unbeatable value and it is the machine most of Hanoi runs on. It is also one of our price-published rental classes at 150,000 VND per day - rent one before you buy one, and contact us to confirm current availability of any model. Note that a used market exists below these prices; our used-motorbike inspection guide covers what to check.
+For pure transport, the Wave Alpha is unbeatable value and it is the machine most of Hanoi runs on. It is also one of our price-published rental classes at 150,000 VND per day - rent one before you buy one, and contact us to confirm current availability of any model. Note that a used market exists below these prices; [our used-motorbike inspection guide]({{ '/articles/used-motorbike-inspection-vietnam/' | relative_url }}) covers what to check.

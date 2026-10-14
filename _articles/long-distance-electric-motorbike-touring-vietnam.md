@@ -36,7 +36,7 @@ The A1-class charge-at-home machines are the genuine touring tools: the Weaver 2
 
 ## The planning discipline
 
-1. **Plan on the pessimistic figure** — real-world range shrinks with load, hills, wind and cold; the range guide covers how much. A 130-km-highway machine plans 100 km hops.
+1. **Plan on the pessimistic figure** — real-world range shrinks with load, hills, wind and cold; [the range guide]({{ '/articles/electric-motorbike-range-real-world-vietnam/' | relative_url }}) covers how much. A 130-km-highway machine plans 100 km hops.
 2. **Fix the charge stops before the ride** — know where chargers or cabinets sit on the route and their hours; a rural "charging point" that closes at 18:00 ends the day early.
 3. **Budget the charging clock** — a 3-hour full charge on the Weaver 200 is a lunch-and-coffee stop or a hotel decision, not a fuel stop. Fast charging (the Weaver++'s 20-minute Dat Charge) changes the rhythm entirely.
 4. **Carry the charger and cables** — touring on electric means the charger rides with you, always.

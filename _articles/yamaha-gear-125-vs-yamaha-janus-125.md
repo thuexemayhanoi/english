@@ -49,4 +49,4 @@ At retrieval time Yamaha listed the Janus from 29,151,000 VND and the Gear 125 H
 
 ## Verdict
 
-Janus for the tightest budget; Gear for everyone else - the hybrid assist and 1.7 L/100 km figure make it the smarter buy of the pair unless every dong counts. Neither is a price-published rental model: contact us to confirm current availability, and run our pre-ride checklist on whatever you ride.
+Janus for the tightest budget; Gear for everyone else - the hybrid assist and 1.7 L/100 km figure make it the smarter buy of the pair unless every dong counts. Neither is a price-published rental model: contact us to confirm current availability, and run [our pre-ride checklist]({{ '/articles/motorbike-safety-checklist-before-riding/' | relative_url }}) on whatever you ride.

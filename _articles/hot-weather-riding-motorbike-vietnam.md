@@ -31,7 +31,7 @@ The temptation is shorts and flip-flops; the working solution is lightweight cov
 
 ## The bike in heat
 
-Engines run hotter in traffic jams — a scooter crawling through Long Bien heat can approach its cooling limits. If the bike smells hot or loses power in a jam, let it cool; [An Overheating Motorbike: Causes and What to Do]({{ '/articles/overheating-motorbike-vietnam/' | relative_url }}) covers the symptoms. Tyre pressures rise as tyres heat; check them cold, as the tyre-care article explains.
+Engines run hotter in traffic jams — a scooter crawling through Long Bien heat can approach its cooling limits. If the bike smells hot or loses power in a jam, let it cool; [An Overheating Motorbike: Causes and What to Do]({{ '/articles/overheating-motorbike-vietnam/' | relative_url }}) covers the symptoms. Tyre pressures rise as tyres heat; check them cold, as [the tyre-care article]({{ '/articles/tyre-care-motorbike-vietnam/' | relative_url }}) explains.
 
 ## Timing your riding
 

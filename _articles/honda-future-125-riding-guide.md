@@ -35,6 +35,6 @@ A 124.9 cc air-cooled single with PGM-FI, 6.83 kW at 7,500 rpm and 10.2 Nm at 5,
 
 ## Ownership angle
 
-The Future's popularity is its own benefit: every mechanic knows the engine, parts are in every shop, and resale demand stays strong because everyone from families to Grab-style riders wants one. The main alternatives — Wave RSX for value, Blade for budget — are covered in our model comparisons. Insurance, fuel and servicing economics follow the class norms; the buyer's checklist covers what to verify before purchasing any version.
+The Future's popularity is its own benefit: every mechanic knows the engine, parts are in every shop, and resale demand stays strong because everyone from families to Grab-style riders wants one. The main alternatives — Wave RSX for value, Blade for budget — are covered in our model comparisons ([Future vs Wave RSX]({{ '/articles/honda-future-125-vs-honda-wave-rsx/' | relative_url }}) and [Blade vs Future]({{ '/articles/honda-blade-vs-honda-future-125/' | relative_url }})). Insurance, fuel and servicing economics follow the class norms; [the buyer's checklist]({{ '/articles/underbone-buying-checklist-verified-specs/' | relative_url }}) covers what to verify before purchasing any version.
 
 For riders who spend long days on the bike with passengers and cargo, the Future is the mainstream pick for good reason. If you want to try a 125-class semi-auto during a Hanoi stay, contact us to confirm current availability.

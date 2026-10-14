@@ -35,7 +35,7 @@ The one-way logic is signed, but weakly: look for the arrow plates at junction m
 
 Ride the grid, not the destination. In the Old Quarter, a straight-line approach to a specific address usually fails; the working method is to flow with the street you are on until a legal turn appears, then accept the detour. Local riders plan a two-step approach — get within a block, then circle. Loops of two or three streets are normal here; fighting the system is not.
 
-Speed is walking-pace-plus. The streets mix pedestrians, shop goods, food stalls, delivery bikes and tourists walking four-abreast. Use the horn as information, not aggression — a light tap announces you to people facing away. The horn etiquette guide covers the cultural side.
+Speed is walking-pace-plus. The streets mix pedestrians, shop goods, food stalls, delivery bikes and tourists walking four-abreast. Use the horn as information, not aggression — a light tap announces you to people facing away. [The horn etiquette guide]({{ '/articles/horn-etiquette-motorbike-vietnam/' | relative_url }}) covers the cultural side.
 
 ## Getting stuck and unstuck
 

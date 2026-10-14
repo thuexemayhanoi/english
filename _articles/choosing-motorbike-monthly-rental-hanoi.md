@@ -40,7 +40,7 @@ A month of heavy riding makes you a high-mileage renter — [High Monthly Mileag
 
 ## Try before committing
 
-A short test or a daily rental before converting to monthly is the honest way to know a bike fits. Test-riding-before-monthly-rental-hanoi covers how that works in practice.
+A short test or a daily rental before converting to monthly is the honest way to know a bike fits. [Trying a Motorbike Before Committing to a Monthly Rental]({{ '/articles/test-riding-before-monthly-rental-hanoi/' | relative_url }}) covers how that works in practice.
 
 ## The one-line version
 

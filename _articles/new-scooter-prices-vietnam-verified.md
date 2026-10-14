@@ -51,4 +51,4 @@ Buying at 30-40 million VND plus running costs only beats renting when you ride 
 
 ## Bottom line
 
-Decide your class first (see the Honda and Yamaha lineup guides), then compare versions within it - and remember that for foreign visitors and new expats, a rental with the owner-verified daily rates above is usually the lower-risk start. For models beyond the price-published list, contact us to confirm current availability.
+Decide your class first (see the [Honda]({{ '/articles/honda-scooter-lineup-vietnam-explained/' | relative_url }}) and [Yamaha]({{ '/articles/yamaha-scooter-lineup-vietnam-explained/' | relative_url }}) lineup guides), then compare versions within it - and remember that for foreign visitors and new expats, a rental with the owner-verified daily rates above is usually the lower-risk start. For models beyond the price-published list, contact us to confirm current availability.

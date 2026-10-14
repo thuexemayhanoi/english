@@ -47,4 +47,4 @@ Dat Bike's range also lists the Quantum family (Quantum, Quantum S1/S2/S3) and t
 
 ## Choosing inside the brand
 
-The ladder is honest: distance (Weaver 200) versus response and charging speed (Weaver++) versus simplicity (Weaver). The comparisons — Weaver 200 vs Weaver++ and Weaver vs Weaver 200 — work through the decision, and the battery economics of charging are covered in the charging-time guide. Rental availability of any Dat Bike model: contact us to confirm current availability.
+The ladder is honest: distance (Weaver 200) versus response and charging speed (Weaver++) versus simplicity (Weaver). The comparisons — Weaver 200 vs Weaver++ and Weaver vs Weaver 200 — work through the decision, and the battery economics of charging are covered in the [charging-time guide]({{ '/articles/electric-motorbike-charging-time-planning-vietnam/' | relative_url }}). Rental availability of any Dat Bike model: contact us to confirm current availability.

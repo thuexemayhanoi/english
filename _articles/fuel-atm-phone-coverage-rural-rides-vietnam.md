@@ -42,9 +42,9 @@ Cities take cards; the countryside runs on cash. Parking lots, ferries, boat tri
 
 Vietnam’s mobile networks cover the delta and corridor roads well, and coverage in the northern mountains is patchy rather than absent — valleys and passes drop out, hilltop towns come back. Plan accordingly:
 
-- Download offline maps before leaving (see the navigation guide).
+- Download offline maps before leaving ([see the navigation guide]({{ '/articles/motorbike-trip-navigation-offline-maps-vietnam/' | relative_url }})).
 - Share your route and expected return time with someone in the city before riding into a low-coverage area.
 - Carry a power bank; navigation in a dead zone drains a phone fast.
 - In a genuine emergency with no signal, the pattern is to flag help on the road — rural drivers stop readily.
 
-None of this is heavy. It is one fuel stop, one cash top-up and one download, done the night before — the trip-preparation checklist puts them in order. Contact us to confirm current availability for your ride.
+None of this is heavy. It is one fuel stop, one cash top-up and one download, done the night before — [the trip-preparation checklist]({{ '/articles/motorbike-trip-prep-checklist-hanoi/' | relative_url }}) puts them in order. Contact us to confirm current availability for your ride.

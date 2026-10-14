@@ -45,11 +45,11 @@ Ho Chi Minh City is one of the most motorbiked cities on earth — urban-traffic
 
 ## Licence and legality
 
-Everything over 50cc requires a valid Vietnamese licence or 1968-convention IDP — in Saigon, where tourists ride constantly, enforcement checks are common precisely because of that. Our legal overview covers what you can ride, and our Saigon rental guide covers getting the bike.
+Everything over 50cc requires a valid Vietnamese licence or 1968-convention IDP — in Saigon, where tourists ride constantly, enforcement checks are common precisely because of that. Our legal overview covers what you can ride, and [our Saigon rental guide]({{ '/articles/renting-motorbike-ho-chi-minh-city/' | relative_url }}) covers getting the bike.
 
 ## When not to start at all
 
-Honesty is part of this guide: if you have never ridden anything with a motor, Ho Chi Minh City is the wrong classroom. Take a Grab bike, watch how riders behave for a week, and learn on a quiet beach town or — better — start your trip in Hanoi with a proper orientation on calmer streets. Our first-time renter guide covers that process; contact us to confirm current availability and we will match a bike to your actual experience, not your hopes.
+Honesty is part of this guide: if you have never ridden anything with a motor, Ho Chi Minh City is the wrong classroom. Take a Grab bike, watch how riders behave for a week, and learn on a quiet beach town or — better — start your trip in Hanoi with a proper orientation on calmer streets. [Our first-time renter guide]({{ '/articles/first-time-renting-a-motorbike-hanoi/' | relative_url }}) covers that process; contact us to confirm current availability and we will match a bike to your actual experience, not your hopes.
 
 ## The reward
 

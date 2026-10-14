@@ -31,7 +31,7 @@ Semi-auto underbones sip fuel, but tanks are small — commonly under five litre
 
 ## Luggage
 
-Pack light, pack low, pack strapped: the cargo guide covers placement and tie-downs in detail. For touring, the tried-and-true setup is a rear bag on the rack secured by a net, valuables in a small backpack worn on the chest rather than the back (better balance, better in the heat), and nothing on the bars. Rain cover for the luggage even in the dry season — an afternoon mountain storm is a when, not an if.
+Pack light, pack low, pack strapped: [the cargo guide]({{ '/articles/semi-auto-carrying-cargo/' | relative_url }}) covers placement and tie-downs in detail. For touring, the tried-and-true setup is a rear bag on the rack secured by a net, valuables in a small backpack worn on the chest rather than the back (better balance, better in the heat), and nothing on the bars. Rain cover for the luggage even in the dry season — an afternoon mountain storm is a when, not an if.
 
 ## Comfort and weather
 

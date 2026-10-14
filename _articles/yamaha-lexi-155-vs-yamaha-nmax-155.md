@@ -25,7 +25,7 @@ The Lexi and the NMAX share an engine and a price bracket but not a personality:
 
 ## Brakes - the decisive gap
 
-NMAX: ABS on both wheels plus traction control. Lexi: front ABS with a rear drum. It is the single biggest difference between the two, and the reason the NMAX costs what it costs. Our TCS vs ABS explainer covers what you give up.
+NMAX: ABS on both wheels plus traction control. Lexi: front ABS with a rear drum. It is the single biggest difference between the two, and the reason the NMAX costs what it costs. [Our TCS vs ABS explainer]({{ '/articles/tcs-vs-abs-scooters-vietnam/' | relative_url }}) covers what you give up.
 
 ## Wheels and stability
 
@@ -45,4 +45,4 @@ Yamaha listed the Lexi 155 VVA-ABS from 48,500,000 VND (premium version 48,900,0
 
 ## Verdict
 
-Lexi for daily commuting comfort at a mid-premium price; NMAX for the full safety-hardware package. Neither is a price-published rental model - contact us to confirm current availability - and whichever you ride, start with our rental inspection checklist.
+Lexi for daily commuting comfort at a mid-premium price; NMAX for the full safety-hardware package. Neither is a price-published rental model - contact us to confirm current availability - and whichever you ride, start with [our rental inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}).

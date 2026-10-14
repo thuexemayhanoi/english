@@ -31,7 +31,7 @@ Most new bikes come with a service book, and dealer stamps in it are the currenc
 
 ## What can void it
 
-The common lines: non-genuine or non-approved parts installed during the warranty period, modifications to the engine or fuel system, and often missing the mandated services. This is the era of genuine parts — the genuine-vs-counterfeit guide is [Genuine Versus Fake Motorbike Parts in Vietnam]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}) — and of resisting exhaust, ECU and intake modifications until the warranty ends.
+The common lines: non-genuine or non-approved parts installed during the warranty period, modifications to the engine or fuel system, and often missing the mandated services. This is the era of genuine parts — [the genuine-vs-counterfeit guide]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}) is [Genuine Versus Fake Motorbike Parts in Vietnam]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}) — and of resisting exhaust, ECU and intake modifications until the warranty ends.
 
 ## Dealer versus street shop during warranty
 

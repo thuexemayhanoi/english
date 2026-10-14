@@ -35,7 +35,7 @@ Chain: the number-one rust victim — [Chain Maintenance on a Motorbike in Vietn
 
 ## Floods accelerate everything
 
-Riding through flood water soaks the bike's lower half; a proper wash and dry the same day is the difference between "it got wet" and "it started rusting there". Flooded-streets-riding-motorbike-vietnam covers the riding side.
+Riding through flood water soaks the bike's lower half; a proper wash and dry the same day is the difference between "it got wet" and "it started rusting there". [Riding Through Flooded Streets on a Motorbike]({{ '/articles/flooded-streets-riding-motorbike-vietnam/' | relative_url }}) covers the riding side.
 
 ## The one-line version
 

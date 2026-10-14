@@ -30,7 +30,7 @@ The connected features are genuinely useful here. VinFast's Viper, for instance,
 
 ## The physical layer still matters
 
-- **A disc lock or chain at every stop.** Electronic deterrence can be relayed around; a hardened lock cannot be texted away. Our lock guide covers the trade-offs.
+- **A disc lock or chain at every stop.** Electronic deterrence can be relayed around; a hardened lock cannot be texted away. [Our lock guide]({{ '/articles/disc-locks-chains-motorbike-security/' | relative_url }}) covers the trade-offs.
 - **Steering lock engaged** — the base layer every bike already has; use it.
 - **Battery out of sight, or out of the bike.** Removable packs should come with you into buildings where parking is unattended. On swap-models, an empty battery bay is the cheapest security there is.
 - **Park in monitored spots.** Building basements, attended lots and camera-covered rows beat convenience parking. Overnight rules apply to every bike type.

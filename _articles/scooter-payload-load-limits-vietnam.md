@@ -44,7 +44,7 @@ Only Yamaha publishes clean payload figures across its current pages; Honda's Vi
 
 ## The legal dimension
 
-Vietnamese traffic law governs passengers and load carriage - when a pillion is legal, child-seat rules, and load projection rules are covered in our VERIFIED legal articles on passenger rules and required equipment. Payload figures are manufacturer guidance; the legal rules come from the law, not the spec sheet.
+Vietnamese traffic law governs passengers and load carriage - when a pillion is legal, child-seat rules, and load projection rules are covered in our VERIFIED legal articles on [passenger rules]({{ '/articles/motorbike-passenger-rules-vietnam/' | relative_url }}) and [required equipment]({{ '/articles/motorbike-required-equipment-vietnam/' | relative_url }}). Payload figures are manufacturer guidance; the legal rules come from the law, not the spec sheet.
 
 ## Practical rules for loaded riding
 

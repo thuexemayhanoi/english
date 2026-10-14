@@ -30,7 +30,7 @@ Both scooters sell on practicality rather than pace, and both put storage first 
 | Claimed economy | 2.1 L/100 km | (not published for current Grande) |
 | Fuel tank | 6.0 L | (not published) |
 | Kerb weight | 114 kg | 100 kg (wet) |
-| Seat height | 760 mm | (see review; class-typical) |
+| Seat height | 760 mm | (see [review]({{ '/articles/yamaha-grande-review/' | relative_url }}); class-typical) |
 | Ground clearance | 140 mm | 127 mm |
 | Underseat storage | 37 L - two full helmets | 27 L, with interior light |
 | Brakes | front disc/rear drum; ABS version | front disc/rear drum |

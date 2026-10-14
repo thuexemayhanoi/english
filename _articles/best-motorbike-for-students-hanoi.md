@@ -26,25 +26,25 @@ Student budgets change the question from "best" to "cheapest legal". The answer 
 
 The legal options are the licence-free classes:
 
-- E-bikes (200,000 VND per day published): no licence required, rider 16 or older. Bicycle-like, slow, cheap to run - no petrol at all.
-- 50 cc motorbikes: no driving licence required (16+), but there is no published fixed rental price - contact the shop directly for 50 cc rates and availability.
+- [E-bikes]({{ '/articles/can-foreigners-rent-electric-bike-vietnam/' | relative_url }}) (200,000 VND per day published): no licence required, rider 16 or older. Bicycle-like, slow, cheap to run - no petrol at all.
+- [50 cc motorbikes]({{ '/articles/renting-50cc-hanoi/' | relative_url }}): no driving licence required (16+), but there is no published fixed rental price - contact the shop directly for 50 cc rates and availability.
 
 For campus-and-neighbourhood life, these cover everything. They do not keep up with Ring Road traffic, and that is fine.
 
 ## With a licence
 
-The Honda Click and Yamaha Mio class at 150,000 VND per day is the student value pick - the cheapest full motorbikes on the published list, with the Vision at 200,000 VND as the roomier alternative. On weekly and monthly rates the Click/Mio class drops to 600,000-700,000 VND per week and 1,000,000-1,200,000 VND per month - the monthly rate is what a student staying a semester should be looking at. Longer terms are negotiable; contact us to discuss longer-term rental.
+The Honda Click and Yamaha Mio class at [150,000 VND per day]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) is the student value pick - the cheapest full motorbikes on the published list, with the Vision at 200,000 VND as the roomier alternative. On weekly and monthly rates the Click/Mio class drops to 600,000-700,000 VND per week and 1,000,000-1,200,000 VND per month - the monthly rate is what a student staying a semester should be looking at. Longer terms are negotiable; contact us to discuss longer-term rental.
 
 ## The budget beyond the rate
 
 - Fuel: a rounding error on a 110-125 cc scooter.
 - Parking: campus lots and attended street parking (gửi xe) cost a few thousand dong per stop - budget for it, it is daily.
-- Deposit: typically 2,000,000-5,000,000 VND held for the period - real money for a student, and the reason handover photos matter.
-- Helmets: included with the rental.
+- [Deposit]({{ '/articles/motorbike-rental-deposit-hanoi/' | relative_url }}): typically 2,000,000-5,000,000 VND held for the period - real money for a student, and the reason handover photos matter.
+- Helmets: [included with the rental]({{ '/articles/do-hanoi-rentals-include-helmets/' | relative_url }}).
 
 ## What students should not do
 
-Rent above the licence they hold (the fine costs more than a semester of renting), buy a cheap used bike for one semester (registration transfer plus resale loss eats the saving - the renting-versus-buying article runs the numbers), or leave the bike unlocked around campus. Student areas have the city's most opportunistic bike theft.
+Rent above the licence they hold (the fine costs more than a semester of renting), buy a cheap used bike for one semester (registration transfer plus resale loss eats the saving - [renting vs buying]({{ '/articles/renting-vs-buying-a-motorbike-hanoi/' | relative_url }}) runs the numbers), or leave the bike unlocked around campus. Student areas have the city's most opportunistic bike theft.
 
 ## The short answer
 

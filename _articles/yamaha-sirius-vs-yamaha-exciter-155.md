@@ -28,7 +28,7 @@ Sirius RC: 110.3 cc, SOHC, air-cooled, 5.9 kW at 8,000 rpm, 9.0 Nm at 5,000 rpm,
 
 ## Weight and brakes
 
-Sirius: 100 kg wet, front hydraulic disc (RC version) and rear drum, tubed tyres. Exciter: 123 kg wet, discs front and rear, ABS on limited versions, tubeless tyres. The Exciter's two discs are meaningful at Vietnamese roundabout speeds; our disc-versus-drum guide covers why.
+Sirius: 100 kg wet, front hydraulic disc (RC version) and rear drum, tubed tyres. Exciter: 123 kg wet, discs front and rear, ABS on limited versions, tubeless tyres. The Exciter's two discs are meaningful at Vietnamese roundabout speeds; [our disc-versus-drum guide]({{ '/articles/disc-vs-drum-brakes-motorbike/' | relative_url }}) covers why.
 
 ## Economy
 

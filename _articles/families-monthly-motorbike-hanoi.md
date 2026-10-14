@@ -28,7 +28,7 @@ Vietnamese law sets a minimum age for child passengers and requires helmets for 
 
 ## One bike or two
 
-A couple with older children often manages with two bikes rather than one; a family with one adult riding solo most days may need just one. Two-motorbikes-household-hanoi covers the two-bike arrangement — deposits, agreements and who may ride which. For riding two-up regularly, the machine choice matters as much as the paperwork: [Best Motorbike for Two People in Hanoi]({{ '/articles/best-motorbike-for-two-people-hanoi/' | relative_url }}) compares what works.
+A couple with older children often manages with two bikes rather than one; a family with one adult riding solo most days may need just one. [Renting Two Motorbikes for a Household in Hanoi]({{ '/articles/two-motorbikes-household-hanoi/' | relative_url }}) covers the two-bike arrangement — deposits, agreements and who may ride which. For riding two-up regularly, the machine choice matters as much as the paperwork: [Best Motorbike for Two People in Hanoi]({{ '/articles/best-motorbike-for-two-people-hanoi/' | relative_url }}) compares what works.
 
 ## Choosing for the school run
 

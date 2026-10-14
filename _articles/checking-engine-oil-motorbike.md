@@ -31,7 +31,7 @@ Level between the marks: fine. Below the lower mark: top up — with the oil gra
 
 ## When a top-up is not the answer
 
-An engine that consumes oil steadily, drops dark spots under the bike overnight, or turns its exhaust smoky is telling you something a bottle will not fix. Outside-repair-shops-rental-motorbike covers how small Vietnamese workshops handle such findings, and [When to Service a Motorbike in Vietnam]({{ '/articles/motorbike-service-when-vietnam/' | relative_url }}) covers the service conversation.
+An engine that consumes oil steadily, drops dark spots under the bike overnight, or turns its exhaust smoky is telling you something a bottle will not fix. [Can You Use Outside Repair Shops on a Rental Motorbike?]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) covers how small Vietnamese workshops handle such findings, and [When to Service a Motorbike in Vietnam]({{ '/articles/motorbike-service-when-vietnam/' | relative_url }}) covers the service conversation.
 
 ## Renters
 

@@ -28,7 +28,7 @@ Most first-time buyers land in the 110-125 cc automatic class: light, economical
 
 ## Step 2: decide new or used
 
-A new bike from an official dealer carries the manufacturer warranty (Yamaha lists 3 years/30,000 km on its scooters) at the cost of first-year depreciation. Used bikes save money but need a proper inspection - our used motorbike inspection guide is the checklist. For shorter stays, renting usually beats buying: see the renting vs buying comparison.
+A new bike from an official dealer carries the manufacturer warranty (Yamaha lists 3 years/30,000 km on its scooters) at the cost of first-year depreciation. Used bikes save money but need a proper inspection - [our used motorbike inspection guide]({{ '/articles/used-motorbike-inspection-vietnam/' | relative_url }}) is the checklist. For shorter stays, renting usually beats buying: see the renting vs buying comparison.
 
 ## Step 3: paperwork and legality
 
@@ -38,7 +38,7 @@ A new bike from an official dealer carries the manufacturer warranty (Yamaha lis
 
 ## Step 4: the buying checks
 
-Test the actual bike, not the brochure: sit on it (seat height guide), check the storage bay (storage comparison), and verify the model year matches the papers. Have a mechanic look over any used purchase - our mechanic guide helps non-Vietnamese speakers navigate that conversation.
+Test the actual bike, not the brochure: sit on it (seat height guide), check the storage bay (storage comparison), and verify the model year matches the papers. Have a mechanic look over any used purchase - [our mechanic guide]({{ '/articles/talking-to-mechanic-vietnam/' | relative_url }}) helps non-Vietnamese speakers navigate that conversation.
 
 ## If you are not staying long
 

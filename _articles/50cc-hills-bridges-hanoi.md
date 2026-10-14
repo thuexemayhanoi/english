@@ -44,7 +44,7 @@ Add a passenger and the honest answer changes: most 50cc bikes climb bridge ramp
 
 ## Descents
 
-Small drums and little weight actually help downhill — but ride the brakes with fineness, both brakes together, never a locked rear on painted lines. Wet ramp paint is the classic Hanoi bridge hazard; our rain riding article covers it.
+Small drums and little weight actually help downhill — but ride the brakes with fineness, both brakes together, never a locked rear on painted lines. Wet ramp paint is the classic Hanoi bridge hazard; [our rain riding article]({{ '/articles/50cc-in-the-rain-vietnam/' | relative_url }}) covers it.
 
 ## The decision rule
 

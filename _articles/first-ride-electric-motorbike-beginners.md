@@ -29,7 +29,7 @@ Twist the throttle and the machine moves — immediately, smoothly, and in silen
 
 ## 2. The silence: you are invisible twice over
 
-Day one on an electric is the day to build the compensation habits: assume pedestrians have not heard you (they have not), assume the car merging has not heard you (it has not), and position yourself where eyes will find you — the visibility guide covers light, position and gear. [The silent-riding safety article]({{ '/articles/electric-motorbike-silent-riding-safety/' | relative_url }}) is the single most important read for a new electric rider.
+Day one on an electric is the day to build the compensation habits: assume pedestrians have not heard you (they have not), assume the car merging has not heard you (it has not), and position yourself where eyes will find you — [the visibility guide]({{ '/articles/staying-visible-electric-motorbike/' | relative_url }}) covers light, position and gear. [The silent-riding safety article]({{ '/articles/electric-motorbike-silent-riding-safety/' | relative_url }}) is the single most important read for a new electric rider.
 
 ## 3. The brakes: two systems, one stop
 
@@ -41,7 +41,7 @@ Range displays settle as the system learns your riding — do not judge the mach
 
 ## 5. The licence line: know your machine's class
 
-Licence-free means 4 kW and under (the VinFast scooter class, pedal-assist machines); above that an A1 licence is required (the Dat Bike class). The kW ladder guide maps the verified machines. Renting first is the sensible way to learn the format — Nguyen Tu rents an E-Bike at 200,000 VND per day (contact us to confirm current availability).
+Licence-free means 4 kW and under (the VinFast scooter class, pedal-assist machines); above that an A1 licence is required (the Dat Bike class). [The kW ladder guide]({{ '/articles/electric-motorbike-power-kw-licence-vietnam/' | relative_url }}) maps the verified machines. Renting first is the sensible way to learn the format — Nguyen Tu rents an E-Bike at 200,000 VND per day (contact us to confirm current availability).
 
 ## The first-ride checklist
 

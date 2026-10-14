@@ -29,7 +29,7 @@ Hanoi dust and rain leave a film that eats into chains and brake components. A w
 
 ## Chain and moving parts
 
-If the bike has a chain, keep it clean and notice when it slackens; chain adjustment is part of the shop's maintenance, so ask for a check rather than adjusting it yourself unless agreed. Consumables-monthly-rental-hanoi explains which parts may become your responsibility.
+If the bike has a chain, keep it clean and notice when it slackens; chain adjustment is part of the shop's maintenance, so ask for a check rather than adjusting it yourself unless agreed. [Tyres, Tubes and Consumables on a Long-Term Rental]({{ '/articles/consumables-monthly-rental-hanoi/' | relative_url }}) explains which parts may become your responsibility.
 
 ## Fuel discipline
 
@@ -37,11 +37,11 @@ Use the fuel the bike expects and buy from busy stations. Note the odometer when
 
 ## Storage habits
 
-Park under cover where you can, wipe the bike dry after heavy rain, and do not leave the seat open in a downpour. Keeping-rental-motorbike-secure-hanoi covers security; this is about protecting the machine itself.
+Park under cover where you can, wipe the bike dry after heavy rain, and do not leave the seat open in a downpour. [Keeping a Rental Motorbike Secure Over Months in Hanoi]({{ '/articles/keeping-rental-motorbike-secure-hanoi/' | relative_url }}) covers security; this is about protecting the machine itself.
 
 ## When something feels wrong
 
-A pull to one side, a new rattle, softer brakes — deal with it the day you notice. Maintenance-during-monthly-rental-hanoi explains what the shop covers, and [What Happens If a Rental Motorbike Breaks Down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) covers what to do when something fails outright.
+A pull to one side, a new rattle, softer brakes — deal with it the day you notice. [Maintenance During a Monthly Motorbike Rental in Hanoi]({{ '/articles/maintenance-during-monthly-rental-hanoi/' | relative_url }}) explains what the shop covers, and [What Happens If a Rental Motorbike Breaks Down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) covers what to do when something fails outright.
 
 ## The one-line version
 

@@ -30,7 +30,7 @@ The shop needs an identity document to write the rental contract. Your passport 
 
 No document makes you legal except a licence Vietnam recognises. The three working combinations:
 
-- A Vietnamese licence - the A1 class covers bikes up to 175 cc.
+- A Vietnamese licence - under the 2025 law the [A1 class covers bikes up to 125 cc]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}), which includes most rental scooters (A1 licences issued before 2025 stay valid up to 175 cc).
 - Your home-country motorcycle licence plus an IDP issued under the 1968 Vienna convention. Permits issued under other conventions, or a permit alone without the national licence, do not count.
 - A national licence formally exchanged for a Vietnamese one, available to longer-term residents.
 

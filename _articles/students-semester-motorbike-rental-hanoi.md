@@ -32,7 +32,7 @@ Rent month by month so the term ends when your study period ends. Where a monthl
 
 ## Deposits and money
 
-The deposit is typically 2,000,000–5,000,000 VND, which is real money on a student budget, so treat the deposit as untouchable savings rather than spendable cash. Monthly-vs-daily-motorbike-rental-hanoi explains why monthly wins on cost once you are riding most days, and [Monthly Motorbike Rental Budget in Hanoi: The Full Cost]({{ '/articles/motorbike-rental-budget-monthly-hanoi/' | relative_url }}) helps you total fuel, parking and consumables into an honest monthly figure.
+The deposit is typically 2,000,000–5,000,000 VND, which is real money on a student budget, so treat the deposit as untouchable savings rather than spendable cash. [Monthly vs Daily Motorbike Rental in Hanoi: Which Makes Sense]({{ '/articles/monthly-vs-daily-motorbike-rental-hanoi/' | relative_url }}) explains why monthly wins on cost once you are riding most days, and [Monthly Motorbike Rental Budget in Hanoi: The Full Cost]({{ '/articles/motorbike-rental-budget-monthly-hanoi/' | relative_url }}) helps you total fuel, parking and consumables into an honest monthly figure.
 
 ## Sharing is not automatic
 

@@ -30,7 +30,7 @@ A passport for the contract, a [cash deposit]({{ '/articles/motorbike-rental-dep
 
 Vietnam recognises three licence routes for foreigners:
 
-- A Vietnamese licence (the A1 class covers most rental bikes, up to 175 cc).
+- A Vietnamese licence (under the 2025 law the [A1 class covers bikes up to 125 cc]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}), which includes most rental scooters; A1 licences issued before 2025 stay valid up to 175 cc).
 - A home-country motorcycle licence plus an IDP issued under the 1968 Vienna convention. Your country must be a 1968-convention state - [which countries' IDPs work in Vietnam]({{ '/articles/which-countries-idp-valid-vietnam/' | relative_url }}) lists them.
 - A foreign licence formally exchanged for a Vietnamese one, which longer-term residents can do.
 

@@ -33,7 +33,7 @@ Availability changes with model years - always confirm the exact version at the 
 
 ## Does ABS matter on a scooter?
 
-Yes, in the specific scenario it exists for: a panic stop on a low-grip surface. [Our emergency braking guide]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}) covers the technique; ABS removes the hardest part - modulating the front brake perfectly while a bus pulls out. On rain-slicked streets (our post-rain surface guide) this is not theoretical. What ABS does not do: shorten dry-pavement stops on a light scooter with modest brakes, or compensate for worn pads - brake checks still matter.
+Yes, in the specific scenario it exists for: a panic stop on a low-grip surface. [Our emergency braking guide]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}) covers the technique; ABS removes the hardest part - modulating the front brake perfectly while a bus pulls out. On rain-slicked streets ([our post-rain surface guide]({{ '/articles/after-rain-slippery-roads-motorbike/' | relative_url }})) this is not theoretical. What ABS does not do: shorten dry-pavement stops on a light scooter with modest brakes, or compensate for worn pads - brake checks still matter.
 
 ## If you are choosing
 

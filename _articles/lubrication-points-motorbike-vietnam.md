@@ -31,7 +31,7 @@ A small brush or fingertip of general-purpose grease on each pivot after wiping 
 
 ## When, in Vietnam's seasons
 
-After any serious wet-season ride or washing session, water displaces grease from pivots — the washing guide is [Washing and Cleaning a Motorbike Properly]({{ '/articles/cleaning-motorbike-properly-vietnam/' | relative_url }}). Dry season adds dust, which mixes with grease into the same grinding paste, so wipe-clean-then-grease beats grease-on-top. Twice a year give everything a proper clean-out; the rest of the year, a quick touch-up each time you clean the chain.
+After any serious wet-season ride or washing session, water displaces grease from pivots — [the washing guide]({{ '/articles/cleaning-motorbike-properly-vietnam/' | relative_url }}) is [Washing and Cleaning a Motorbike Properly]({{ '/articles/cleaning-motorbike-properly-vietnam/' | relative_url }}). Dry season adds dust, which mixes with grease into the same grinding paste, so wipe-clean-then-grease beats grease-on-top. Twice a year give everything a proper clean-out; the rest of the year, a quick touch-up each time you clean the chain.
 
 ## The payoff
 

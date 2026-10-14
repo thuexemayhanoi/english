@@ -24,14 +24,14 @@ Buying a new underbone from an official dealer in Vietnam is straightforward and
 
 ## Before the shop: choose the model and version
 
-Honda and Yamaha both sell most underbones in multiple versions at different list prices — for example Honda lists the Future 125 FI in three versions from 30,622,909 VND, and Yamaha sells drum and disc versions of the Sirius at different prices. The trim-version guide explains what actually changes between versions. Decide your budget, your braking preference (disc versus drum) and the model first — the price ladder guide lays out the whole market from the cheapest Wave Alpha at 18,841,091 VND upward, using manufacturer list prices.
+Honda and Yamaha both sell most underbones in multiple versions at different list prices — for example Honda lists the Future 125 FI in three versions from 30,622,909 VND, and Yamaha sells drum and disc versions of the Sirius at different prices. [The trim-version guide]({{ '/articles/underbone-trim-versions-explained/' | relative_url }}) explains what actually changes between versions. Decide your budget, your braking preference (disc versus drum) and the model first — [the price ladder guide]({{ '/articles/underbone-list-prices-vietnam-ladder/' | relative_url }}) lays out the whole market from the cheapest Wave Alpha at 18,841,091 VND upward, using manufacturer list prices.
 
 ## At the dealer
 
 - **Compare the list price with what you are quoted.** Official list prices are published by both manufacturers; dealer quotes include varying fees beyond the sticker price — registration, number plates, documentation. Ask for an itemised total, not just the bike price.
 - **Inspect the actual bike** before paying: the same model-year checks apply to new machines — build date, tyres, no storage scratches, all documents matching the frame number.
 - **Confirm what is included**: first service terms, warranty duration (both manufacturers publish multi-year warranties on current models — check the current terms on the official pages at purchase time), toolkit, and how warranty service is booked.
-- **Genuine parts note**: official dealers are the safest source for genuine consumables; the fake-parts problem in the aftermarket is real and the genuine-parts guide explains how to spot it.
+- **Genuine parts note**: official dealers are the safest source for genuine consumables; the fake-parts problem in the aftermarket is real and the [genuine-parts guide]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}) explains how to spot it.
 
 ## Paperwork, in order
 

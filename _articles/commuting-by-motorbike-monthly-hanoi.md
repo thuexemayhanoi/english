@@ -28,7 +28,7 @@ A bike you ride twice a day, every day, should fit your body and your route — 
 
 ## Parking at both ends
 
-Your commute is only as stable as your parking. At home, a guarded spot or building basement; at work, ask colleagues or the building guard where the accepted parking is and what it costs. Parking-monthly-renter-hanoi explains the daily options. A commute that ends with hunting for street parking twice a day gets old by week two.
+Your commute is only as stable as your parking. At home, a guarded spot or building basement; at work, ask colleagues or the building guard where the accepted parking is and what it costs. [Daily Parking as a Monthly Renter in Hanoi]({{ '/articles/parking-monthly-renter-hanoi/' | relative_url }}) explains the daily options. A commute that ends with hunting for street parking twice a day gets old by week two.
 
 ## Mileage adds up fast
 

@@ -37,4 +37,4 @@ Wave Alpha: 1,913 x 689 x 1,076 mm, 770 mm seat, 134 mm clearance. Sirius: 1,890
 
 ## Which should you rent?
 
-For a first week in Hanoi they are interchangeable: light, simple, cheap to run and easy to fix anywhere. Narrowness slightly favours the Sirius in the Old Quarter; the lower seat and lighter weight slightly favour smaller riders on the Wave Alpha. Availability of a specific model is never guaranteed - contact us to confirm current availability. Our Hanoi rental guide covers documents and deposits before you book.
+For a first week in Hanoi they are interchangeable: light, simple, cheap to run and easy to fix anywhere. Narrowness slightly favours the Sirius in the Old Quarter; the lower seat and lighter weight slightly favour smaller riders on the Wave Alpha. Availability of a specific model is never guaranteed - contact us to confirm current availability. [Our Hanoi rental guide]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}) covers documents and deposits before you book.

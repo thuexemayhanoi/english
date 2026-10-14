@@ -45,4 +45,4 @@ The mid layout centralises mass where the rider's weight already is, which helps
 | Sportier response, touring use | Mid motor (Weaver++ class) |
 | Lowest cost of moving parts over time | Hub motor, but budget for the wheel |
 
-Either way, the licence question is decided by rated power, not motor position — above 4 kW you need an A1 licence under Article 57 of Law 36/2024/QH15. The Weaver 200 and Weaver++ sit above that line; the VinFast scooter class sits below it. Our power-and-licence guide maps the whole ladder.
+Either way, the licence question is decided by rated power, not motor position — above 4 kW you need an A1 licence under Article 57 of Law 36/2024/QH15. The Weaver 200 and Weaver++ sit above that line; the VinFast scooter class sits below it. [Our power-and-licence guide]({{ '/articles/electric-motorbike-power-kw-licence-vietnam/' | relative_url }}) maps the whole ladder.

@@ -41,7 +41,7 @@ Spec sheets list kW and Nm as if everyone knows what they mean. Here is what the
 
 - **The rpm matters as much as the number:** 11.7 Nm at 5,250 rpm (Lead) feels stronger off the line than 9.29 Nm at 6,000 (Vision) - not just because it is bigger, but because it arrives earlier.
 - **CVT changes the feel:** automatics hold revs where the engine is strongest, so the peak figures shape the whole ride - [our CVT explainer]({{ '/articles/cvt-belt-variator-scooter-vietnam/' | relative_url }}) covers how.
-- **Weight divides everything:** 7 kW in a 97 kg bike out-feels 8 kW in a 115 kg one with a passenger. Our two-up riding guide covers the loaded case.
+- **Weight divides everything:** 7 kW in a 97 kg bike out-feels 8 kW in a 115 kg one with a passenger. [Our two-up riding guide]({{ '/articles/best-scooters-two-up-riding-vietnam/' | relative_url }}) covers the loaded case.
 
 ## The practical test
 

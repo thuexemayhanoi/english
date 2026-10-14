@@ -20,7 +20,7 @@ sources:
 internal_link_targets: "honda-sh-160-review, yamaha-nvx-155-review, scooter-kerb-weights-vietnam-verified, 16-inch-wheel-scooters-vietnam, scooter-tyre-sizes-explained, scooter-warranty-vietnam-explained"
 ---
 
-Two numbers dominate how stable a scooter feels at speed: wheel size (covered in our tyre sizes and 16-inch wheel guides) and wheelbase - the distance between the axle centres. Here is what the verified figures show across the Vietnamese market (manufacturer pages, retrieved 23 September 2026).
+Two numbers dominate how stable a scooter feels at speed: wheel size (covered in our [tyre sizes]({{ '/articles/scooter-tyre-sizes-explained/' | relative_url }}) and [16-inch wheel]({{ '/articles/16-inch-wheel-scooters-vietnam/' | relative_url }}) guides) and wheelbase - the distance between the axle centres. Here is what the verified figures show across the Vietnamese market (manufacturer pages, retrieved 23 September 2026).
 
 ## The verified wheelbase table
 
@@ -41,7 +41,7 @@ A longer wheelbase resists pitching - the bike settles rather than bobs over bro
 
 ## What a shorter wheelbase does
 
-Shorter wheelbases turn with less effort: quicker U-turns, easier lane-changes, less steering input at walking pace. In Old Quarter traffic, the Latte or Vario 160 will feel more agile than the SH every single day. The Vario 160 is an interesting case: a short 1,278 mm wheelbase but wide 14-inch tyres, giving agility with grip - showing that wheelbase works together with tyre size and weight (see our kerb weight table).
+Shorter wheelbases turn with less effort: quicker U-turns, easier lane-changes, less steering input at walking pace. In Old Quarter traffic, the Latte or Vario 160 will feel more agile than the SH every single day. The Vario 160 is an interesting case: a short 1,278 mm wheelbase but wide 14-inch tyres, giving agility with grip - showing that wheelbase works together with tyre size and weight ([see our kerb weight table]({{ '/articles/scooter-kerb-weights-vietnam-verified/' | relative_url }})).
 
 ## Choosing by your roads
 
@@ -49,4 +49,4 @@ Mostly narrow streets and short hops: shorter wheelbase, smaller wheels, lighter
 
 ## One caution
 
-Wheelbase figures are manufacturer-published geometry, not handling ratings. Suspension quality, tyre condition and load all change real stability - and none of them can be judged from a spec sheet. Test ride before you commit, and for rentals run through our inspection checklist.
+Wheelbase figures are manufacturer-published geometry, not handling ratings. Suspension quality, tyre condition and load all change real stability - and none of them can be judged from a spec sheet. Test ride before you commit, and for rentals run through [our inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}).

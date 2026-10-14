@@ -44,7 +44,7 @@ A dozen phrases cover ninety percent of rider interactions:
 
 - **Parking lots**: entirely gesture-driven. You arrive, an attendant waves, you park, you receive a stub. Pay on exit; "bao nhieu" plus pointing at the sign settles any doubt. Numbers are often shown on fingers of both hands — ten thousand dong is "one finger bent to indicate 'một'" context.
 - **Petrol stations**: covered above — "95, lam ngan" is a complete sentence.
-- **Mechanics**: point at the symptom, not the cause. Mime the sound ("khoi khoi" for smoke, "toi" for the horn). The mechanic conversation guide has the deeper playbook, including the golden rule: agree the price before the work, in writing or on a calculator screen — the calculator is the negotiation table in every shop.
+- **Mechanics**: point at the symptom, not the cause. Mime the sound ("khoi khoi" for smoke, "toi" for the horn). [The mechanic conversation guide]({{ '/articles/talking-to-mechanic-vietnam/' | relative_url }}) has the deeper playbook, including the golden rule: agree the price before the work, in writing or on a calculator screen — the calculator is the negotiation table in every shop.
 - **Police stops**: hand over documents with both hands, smile, wait. Translation apps help for the explanation stage, but for a genuine document check most interactions are conducted entirely in gestures and paperwork. If a fine is proposed, the payment rules matter more than the words — [the traffic-fine guide]({{ '/articles/how-to-pay-traffic-fine-vietnam/' | relative_url }}) covers how fines are lawfully paid.
 - **Directions**: Hanoians give directions by landmark and street name, not by numbers. "Pho Nguyen Van Cu?" with a rising tone is a question anyone answers with a pointed finger.
 

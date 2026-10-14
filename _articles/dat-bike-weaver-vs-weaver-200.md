@@ -51,4 +51,4 @@ The Weaver's remaining argument is the classic one: fewer of everything means le
 - **Weaver**: A1 holders with city-scale days, buying the simplest version of the format. Review.
 - **Weaver 200**: riders whose week includes long commutes, intercity sections or delivery-style duty — anyone who has ever watched a range display with concern. Review.
 
-The next question for 200-class buyers is whether the step to the Weaver++'s fast charging is worth more than the base 200's simplicity — covered in the Weaver 200 vs Weaver++ comparison. Rental availability of either: contact us to confirm current availability.
+The next question for 200-class buyers is whether the step to the Weaver++'s fast charging is worth more than the base 200's simplicity — covered in the [Weaver 200 vs Weaver++ comparison]({{ '/articles/dat-bike-weaver-200-vs-weaver-plus-plus/' | relative_url }}). Rental availability of either: contact us to confirm current availability.

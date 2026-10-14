@@ -36,7 +36,7 @@ The jump from roughly 50cc to 110cc is not marginal. A 110cc underbone such as a
 - riding into a headwind on open road
 - keeping pace with 50–60 km/h arterial traffic
 
-If your route crosses Hanoi's bridges daily, the 110cc class is not a luxury; it is a safety margin. Our bridges riding article explains why.
+If your route crosses Hanoi's bridges daily, the 110cc class is not a luxury; it is a safety margin. [Our bridges riding article]({{ '/articles/50cc-hills-bridges-hanoi/' | relative_url }}) explains why.
 
 ## What stays the same
 
@@ -52,4 +52,4 @@ New, a 110cc underbone from an official manufacturer carries a published list pr
 - Licensed adult riding inside one district: 50cc is workable but the 110cc class is more comfortable.
 - Licensed adult commuting across the city, riding two-up or touring: 110cc, clearly.
 
-If you start on a 50cc and later step up, the upgrade article covers what changes. And for the sub-question of 110 versus 125, our scooter-class comparison handles that separately.
+If you start on a 50cc and later step up, [the upgrade article]({{ '/articles/upgrading-from-50cc-to-110cc/' | relative_url }}) covers what changes. And for the sub-question of 110 versus 125, our scooter-class comparison handles that separately.

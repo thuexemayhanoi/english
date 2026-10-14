@@ -24,18 +24,18 @@ A teaching contract in Hanoi means a fixed commute, an income in dong, and a bik
 
 ## The machine
 
-An automatic scooter in the Honda Click / Yamaha Mio / Honda Vision class. Why this class wins the teacher's use-case:
+An [automatic scooter]({{ '/articles/best-scooters-to-rent-hanoi/' | relative_url }}) in the Honda Click / Yamaha Mio / Honda Vision class. Why this class wins the teacher's use-case:
 
 - The daily school run is stop-start district riding; automatics own it.
 - Under-seat storage takes a helmet, a laptop and a change of clothes.
 - Running costs are trivial: the fuel spend of a 110-125 cc scooter commuting daily is a rounding error in a teaching budget.
 - Any shop in the city services them.
 
-Published monthly rates: Click and Mio at 1,000,000-1,200,000 VND, Vision at 1,800,000-2,000,000 VND. A teacher staying a semester or a year should rent monthly - or negotiate longer-term directly; contact us to discuss longer-term rental.
+[Published monthly rates]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }}): Click and Mio at 1,000,000-1,200,000 VND, Vision at 1,800,000-2,000,000 VND. A teacher staying a semester or a year should [rent monthly]({{ '/articles/monthly-motorbike-rental-hanoi/' | relative_url }}) - or negotiate longer-term directly; contact us to discuss longer-term rental.
 
 ## The licence, before anything else
 
-Teachers staying months have time to do this properly: a home motorcycle licence plus a 1968-convention IDP, or an exchange to a Vietnamese licence for longer stays. The exchange takes some weeks and paperwork - the exchange article covers the dossier - but a teacher commuting daily for a year should not spend that year on a licence gap.
+Teachers staying months have time to do this properly: a home motorcycle licence plus a 1968-convention IDP, or an exchange to a Vietnamese licence for longer stays. The exchange takes some weeks and paperwork - the [licence exchange dossier]({{ '/articles/foreign-licence-exchange-documents-vietnam/' | relative_url }}) is listed in its own guide - but a teacher commuting daily for a year should not spend that year on a licence gap.
 
 ## The practical package
 
@@ -48,4 +48,4 @@ Teachers staying months have time to do this properly: a home motorcycle licence
 
 A one-year contract sits right on the buy/rent break-even - [the renting-versus-buying article]({{ '/articles/renting-vs-buying-a-motorbike-hanoi/' | relative_url }}) runs the numbers. For a first year in an unfamiliar system, rental without resale risk is the calmer choice.
 
-Confirm the model you want for the semester early - teachers all rent at the same time at contract season. Contact us to confirm current availability.
+Confirm the model you want for the semester early - teachers all rent at the same time at contract season. [Contact us]({{ '/contact/' | relative_url }}) to confirm current availability.

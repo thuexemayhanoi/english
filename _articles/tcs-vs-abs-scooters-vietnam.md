@@ -24,7 +24,7 @@ ABS and traction control both manage tyre grip, but at opposite ends of the ride
 
 ## ABS - controlling braking
 
-When you brake hard on a slippery surface, a wheel can lock and slide. ABS detects the lock and modulates brake pressure many times per second so the wheel keeps turning - you keep steering and reach a controlled stop. On wet Hanoi paint lines, bridge expansion joints and gravel, front ABS is the single most valuable safety feature on a scooter. Our ABS availability guide lists every model with verified ABS; braking technique still matters - see our emergency [braking guide]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}).
+When you brake hard on a slippery surface, a wheel can lock and slide. ABS detects the lock and modulates brake pressure many times per second so the wheel keeps turning - you keep steering and reach a controlled stop. On wet Hanoi paint lines, bridge expansion joints and gravel, front ABS is the single most valuable safety feature on a scooter. [Our ABS availability guide]({{ '/articles/which-scooters-have-abs-vietnam/' | relative_url }}) lists every model with verified ABS; braking technique still matters - see our emergency [braking guide]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}).
 
 ## Traction control - controlling acceleration
 
@@ -42,7 +42,7 @@ When you accelerate hard on a slippery surface, the driven wheel (the rear on a 
 
 ## Do you need both, in Vietnam, on a scooter?
 
-Honest ranking for city riding: front ABS first (wet-season braking is where scooters crash), dual ABS second (rear drums lock easily two-up), traction control last (scooters rarely have the power to spin the rear except on very slick surfaces). For touring or mountain riding the traction-control value rises - our mountain pass guide explains why.
+Honest ranking for city riding: front ABS first (wet-season braking is where scooters crash), dual ABS second (rear drums lock easily two-up), traction control last (scooters rarely have the power to spin the rear except on very slick surfaces). For touring or mountain riding the traction-control value rises - [our mountain pass guide]({{ '/articles/mountain-pass-riding-motorbike-vietnam/' | relative_url }}) explains why.
 
 ## The two machines that have everything
 

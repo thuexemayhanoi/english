@@ -36,7 +36,7 @@ Foreign riders have a clock of their own: a national licence that expired abroad
 
 ## Renewal, replacement, and the clock's one honest exception
 
-Because A1/A/B1 never expire, "renewal" for motorbike riders means card replacement — damaged, lost or re-issued after a points restoration — a procedure covered in the validity-and-renewal article. The rider carrying a physically destroyed licence is a carriage problem, not a validity problem; the rider whose points hit zero has a restoration path on the points system's schedule.
+Because A1/A/B1 never expire, "renewal" for motorbike riders means card replacement — damaged, lost or re-issued after a points restoration — a procedure covered in the [validity-and-renewal article]({{ '/articles/motorbike-licence-validity-renewal-vietnam/' | relative_url }}). The rider carrying a physically destroyed licence is a carriage problem, not a validity problem; the rider whose points hit zero has a restoration path on the points system's schedule.
 
 ## For visitors checking their own paper
 

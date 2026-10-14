@@ -27,7 +27,7 @@ Grip drops sharply on loose gravel: braking distances stretch, the front wheel w
 
 ## The technique
 
-Weight back slightly, arms loose, look far ahead. Brake with the rear more than the front — hard front-brake use is the classic gravel fall. Slow down before gravel, not on it, and corner by steering gently with the whole body rather than leaning. Avoid mid-gravel direction changes; pick a line early and hold it smoothly. Cornering-motorbike-vietnam covers how grip returns on tarmac after the loose patch ends.
+Weight back slightly, arms loose, look far ahead. Brake with the rear more than the front — hard front-brake use is the classic gravel fall. Slow down before gravel, not on it, and corner by steering gently with the whole body rather than leaning. Avoid mid-gravel direction changes; pick a line early and hold it smoothly. [Cornering a Motorbike Well in Vietnam]({{ '/articles/cornering-motorbike-vietnam/' | relative_url }}) covers how grip returns on tarmac after the loose patch ends.
 
 ## Where Vietnam hides gravel
 

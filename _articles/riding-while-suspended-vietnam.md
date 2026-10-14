@@ -26,7 +26,7 @@ Short answer: Vietnam has no separate, additional fine called "riding while susp
 
 ## How a motorbike licence gets suspended
 
-Two paths exist for motorbike riders. The first is the points system: a licence carries twelve points, deductions are recorded for listed violations, and when the balance reaches zero the licence stops being valid — with a restoration path through a knowledge test after a waiting period, covered in the points-system and zero-points articles. The second is a direct suspension attached to a specific violation: riding more than 20 km/h over the limit as part of an organised group draws 8–10 million VND plus a 10–12 month suspension under Article 7(9)(b) and 7(12)(b). Serious accident offences can cost the licence entirely under criminal proceedings, which is outside this article's fine schedule.
+Two paths exist for motorbike riders. The first is the points system: a licence carries twelve points, deductions are recorded for listed violations, and when the balance reaches zero the licence stops being valid — with a restoration path through a knowledge test after a waiting period, covered in the [points-system]({{ '/articles/motorbike-licence-points-system-vietnam/' | relative_url }}) and [zero-points]({{ '/articles/lose-all-licence-points-vietnam/' | relative_url }}) articles. The second is a direct suspension attached to a specific violation: riding more than 20 km/h over the limit as part of an organised group draws 8–10 million VND plus a 10–12 month suspension under Article 7(9)(b) and 7(12)(b). Serious accident offences can cost the licence entirely under criminal proceedings, which is outside this article's fine schedule.
 
 ## Why the fine is "no licence" and not something extra
 

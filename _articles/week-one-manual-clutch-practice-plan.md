@@ -47,6 +47,6 @@ Repeat the Day 5 route at a busier time. Add one bridge approach if you feel rea
 
 ## Day 7: review and the next step
 
-Ride the full route, then honestly grade launch, stop, slow-speed, shifting, junctions. Anything below "calm" gets another session next week. Riders who follow this structure typically manage light traffic by week's end; the realistic timeline article explains what traffic-ready really means.
+Ride the full route, then honestly grade launch, stop, slow-speed, shifting, junctions. Anything below "calm" gets another session next week. Riders who follow this structure typically manage light traffic by week's end; [the realistic timeline article]({{ '/articles/how-long-to-learn-manual-motorbike/' | relative_url }}) explains what traffic-ready really means.
 
 A few rules for the whole week: no passenger, no phone navigation on the bars while learning, and no rain-day heroics — wet roads are not the day to learn clutch finesse. If you need a bike for the week, contact us to confirm current availability of manual models, and check the rental checklist before each session.

@@ -44,7 +44,7 @@ The traffic that threatens a 50cc at night comes from behind at closing speeds t
 
 ## The road surface you cannot see
 
-Night hides the wet patch, the sand drift and the unmarked roadworks. Under streetlight transitions your eyes re-adapt for seconds — slow down through the light-dark boundary. For fog and low-visibility conditions, our dedicated article covers the full technique set.
+Night hides the wet patch, the sand drift and the unmarked roadworks. Under streetlight transitions your eyes re-adapt for seconds — slow down through the light-dark boundary. For fog and low-visibility conditions, our [dedicated article]({{ '/articles/fog-and-low-visibility-riding-motorbike-vietnam/' | relative_url }}) covers the full technique set.
 
 ## Eye protection is not only for bugs
 

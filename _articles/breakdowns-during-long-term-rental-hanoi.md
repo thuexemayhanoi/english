@@ -24,11 +24,11 @@ A month of riding in Hanoi traffic makes some kind of incident likely — a flat
 
 ## The first call
 
-Contact the shop before arranging major repairs yourself. Nguyen Tu can be reached on +84 942 467 674 during opening hours (09:00–21:00 daily). Rental-motorbike-breakdown-hanoi covers the general process; the long-term difference is that the shop already knows you and the bike, which usually makes resolution faster.
+Contact the shop before arranging major repairs yourself. Nguyen Tu can be reached on +84 942 467 674 during opening hours (09:00–21:00 daily). [What Happens If a Rental Motorbike Breaks Down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) covers the general process; the long-term difference is that the shop already knows you and the bike, which usually makes resolution faster.
 
 ## Minor issues on the road
 
-Small roadside problems — a puncture, a blown bulb, a loosened mirror — can usually be fixed at nearby repair shops cheaply. Outside-repair-shops-rental-motorbike explains how to keep receipts and agree before work is done. For anything that touches the engine, electrics or frame, call the shop first.
+Small roadside problems — a puncture, a blown bulb, a loosened mirror — can usually be fixed at nearby repair shops cheaply. [Can You Use Outside Repair Shops on a Rental Motorbike?]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) explains how to keep receipts and agree before work is done. For anything that touches the engine, electrics or frame, call the shop first.
 
 ## What the shop does and does not cover
 
@@ -36,7 +36,7 @@ Maintenance included in the rental may cover oil, chain, tyre pressure and inspe
 
 ## Preventing the second breakdown
 
-Most month-scale breakdowns start as ignored small signs. A chain that was noisy in week one fails in week three; brakes that felt soft on Monday are dangerous by Friday. Rental-motorbike-care-long-term-hanoi and [Maintenance During a Monthly Motorbike Rental in Hanoi]({{ '/articles/maintenance-during-monthly-rental-hanoi/' | relative_url }}) cover the routine that prevents exactly this.
+Most month-scale breakdowns start as ignored small signs. A chain that was noisy in week one fails in week three; brakes that felt soft on Monday are dangerous by Friday. [Looking After a Rental Motorbike Over a Long Term]({{ '/articles/rental-motorbike-care-long-term-hanoi/' | relative_url }}) and [Maintenance During a Monthly Motorbike Rental in Hanoi]({{ '/articles/maintenance-during-monthly-rental-hanoi/' | relative_url }}) cover the routine that prevents exactly this.
 
 ## The one-line version
 

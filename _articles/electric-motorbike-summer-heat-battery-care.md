@@ -33,10 +33,10 @@ The verified Vietnamese machines run LFP (the VinFast class) or high-density lit
 2. **Charge in the evening, not on the hot afternoon** — a pack that comes home heat-soaked and goes straight on the charger is charged at its worst temperature. Let it cool, then charge overnight.
 3. **Do not charge in direct sun** — the charger and pack share the sun's attention; shade the socket location if that is where it must happen.
 4. **Carry the spare pack like milk, not like a brick** — a removable VinFast-class pack left in the sun on the floor of a shop is being cooked from both sides. Under a seat or in shade.
-5. **Expect the honest range dip** — hot-weather riding with a hot pack gives slightly less usable range than the standard-condition claims; budget for it rather than discovering it (see the real-world range guide).
+5. **Expect the honest range dip** — hot-weather riding with a hot pack gives slightly less usable range than the standard-condition claims; budget for it rather than discovering it ([see the real-world range guide]({{ '/articles/electric-motorbike-range-real-world-vietnam/' | relative_url }})).
 
 ## What heat damage looks like
 
 A pack abused by repeated hot charging does not announce itself; it just holds less. The check is the one in our battery-health [guide]({{ '/articles/electric-motorbike-battery-health-check/' | relative_url }}) — how quickly the display falls through the familiar part of your route. A machine that used to arrive home with 40% and now arrives with 25% on the same commute is telling you something about age or treatment.
 
-Winter has its own, opposite set of behaviours — covered in the winter-range companion piece. Between the two seasons, the rule of thumb is constant: the battery hates extremes, and Hanoi supplies both.
+Winter has its own, opposite set of behaviours — covered in the [winter-range companion piece]({{ '/articles/electric-motorbike-winter-range-hanoi/' | relative_url }}). Between the two seasons, the rule of thumb is constant: the battery hates extremes, and Hanoi supplies both.

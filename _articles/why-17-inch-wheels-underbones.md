@@ -32,7 +32,7 @@ Rim diameter buys sidewall stability and rolling efficiency: a big wheel bridges
 
 ## The tube question
 
-The standard fitments traditionally run inner tubes (Yamaha publishes tubed tyres for the Sirius); the sport class runs tubeless - our tube-versus-tubeless guide covers why that changes puncture behaviour at speed.
+The standard fitments traditionally run inner tubes (Yamaha publishes tubed tyres for the Sirius); the sport class runs tubeless - [our tube-versus-tubeless guide]({{ '/articles/inner-tubes-vs-tubeless-motorbike/' | relative_url }}) covers why that changes puncture behaviour at speed.
 
 ## Rental context
 

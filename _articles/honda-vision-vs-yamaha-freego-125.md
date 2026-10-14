@@ -24,7 +24,7 @@ The Vision and the FreeGo are the two default answers to "which affordable autom
 
 ## Engine
 
-Vision: 109.5 cc air-cooled eSP, 6.59 kW at 7,500 rpm, 9.29 Nm at 6,000 rpm, published 1.82 L/100 km. FreeGo: 124.9 cc Blue Core, 7.0 kW at 8,000 rpm, 9.0 Nm at 5,500 rpm, published 2.03 L/100 km. The FreeGo is stronger; the Vision is more frugal. Our 110 vs 125 guide explains what the capacity step means in practice.
+Vision: 109.5 cc air-cooled eSP, 6.59 kW at 7,500 rpm, 9.29 Nm at 6,000 rpm, published 1.82 L/100 km. FreeGo: 124.9 cc Blue Core, 7.0 kW at 8,000 rpm, 9.0 Nm at 5,500 rpm, published 2.03 L/100 km. The FreeGo is stronger; the Vision is more frugal. [Our 110 vs 125 guide]({{ '/articles/110cc-vs-125cc-scooters/' | relative_url }}) explains what the capacity step means in practice.
 
 ## Wheels and stability
 

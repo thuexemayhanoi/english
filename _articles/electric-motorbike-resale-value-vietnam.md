@@ -29,12 +29,12 @@ Resale on an electric motorbike follows one rule everywhere in the world: the bu
 
 **2. Ecosystem continuity.** A model tied to a live swap network (V-Green) or a live manufacturer presence is easier to resell than an orphaned model from a brand that exited. Our market overview covers which ecosystems currently look durable.
 
-**3. Documentation.** Registration, plates, service records, charger, both keys and a warranty booklet — the same papers that the registration article explains as legal requirements double as resale proof. A complete folder is worth real money.
+**3. Documentation.** Registration, plates, service records, charger, both keys and a warranty booklet — the same papers that the [registration article]({{ '/articles/registering-electric-motorbike-vietnam/' | relative_url }}) explains as legal requirements double as resale proof. A complete folder is worth real money.
 
 ## What kills value fastest
 
 - A pack replaced by a non-original, undocumented unit — buyers price the doubt.
-- Deep discharge scars: a machine that sat dead for a season (see the storage guide) reads as abused.
+- Deep discharge scars: a machine that sat dead for a season ([see the storage guide]({{ '/articles/electric-motorbike-charger-care-storage/' | relative_url }})) reads as abused.
 - DIY electrical "upgrades" — a soldered alarm or a rewired light is a red flag to every buyer.
 - Missing charger — the "lost it" discount is steeper than a charger costs.
 

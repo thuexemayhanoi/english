@@ -39,12 +39,12 @@ At the waterfall, park in the official area and walk to the viewing decks; bambo
 
 ## Making it a loop
 
-The waterfall pairs naturally with the rest of the northeast: Pac Bo (Ho Chi Minh's wartime base) north of the city, the Quang Uyen market country backroads, and — with more days — the link west through Bao Lac toward Ha Giang, or south to Ba Be Lake. [Our northeast loop guide]({{ '/articles/northeast-vietnam-motorbike-loop/' | relative_url }}) lays out the full circuit; the Ba Be guide covers the lake leg on its own. Run every leg through our offline-maps setup: geopark backroads are exactly where data coverage dies.
+The waterfall pairs naturally with the rest of the northeast: Pac Bo (Ho Chi Minh's wartime base) north of the city, the Quang Uyen market country backroads, and — with more days — the link west through Bao Lac toward Ha Giang, or south to Ba Be Lake. [Our northeast loop guide]({{ '/articles/northeast-vietnam-motorbike-loop/' | relative_url }}) lays out the full circuit; [the Ba Be guide]({{ '/articles/ba-be-lake-motorbike-trip-hanoi/' | relative_url }}) covers the lake leg on its own. Run every leg through our offline-maps setup: geopark backroads are exactly where data coverage dies.
 
 ## Practical plan
 
 - Day 1: Hanoi to Cao Bang city (~270-290 km, 5-6 hours). Day 2: Ban Gioc and Trung Khanh, sleep in Cao Bang city or Trung Khanh. Day 3: Pac Bo and the geopark loops. Day 4: return via Ba Be or the QL3. Day 5 if riding the full loop.
-- Budget with our trip-cost guide; homestays and small hotels exist in every overnight stop — confirm bike parking using [our overnight-stays checklist]({{ '/articles/overnight-stays-motorbike-trips-vietnam/' | relative_url }}).
+- Budget with [our trip-cost guide]({{ '/articles/motorbike-trip-budget-from-hanoi/' | relative_url }}); homestays and small hotels exist in every overnight stop — confirm bike parking using [our overnight-stays checklist]({{ '/articles/overnight-stays-motorbike-trips-vietnam/' | relative_url }}).
 - Winter (December-February) is cold and often foggy in the northeast; October-November and spring give the best riding windows per our seasons [guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }}).
 
 Contact us to confirm current availability if you need a bike for this trip — at these distances a serviced machine, good tyres and a shop that knows your route are worth more than any daily-rate saving.

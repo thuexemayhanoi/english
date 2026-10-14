@@ -33,7 +33,7 @@ Confirm you have a licence that covers the bike and that the rental arrangement 
 - **Chain:** look for obvious rust, a chain sagging like a necklace or one drum-tight, and listen for slap on the test ride.
 - **Tyres:** tread present, sidewalls without cracks, pressures firm (press the seat and bars hard — a soft bike squats).
 - **Lights and horn:** headlight high/low, brake light front and rear, indicators if fitted, and a horn that works — in Hanoi traffic the horn is a safety tool.
-- **Fuel:** agree the fuel level at pickup in words — full, half, empty — not a shrug. The rental fuel policy guide covers the common arrangements.
+- **Fuel:** agree the fuel level at pickup in words — full, half, empty — not a shrug. [The rental fuel policy guide]({{ '/articles/motorbike-rental-fuel-policy-hanoi/' | relative_url }}) covers the common arrangements.
 - **Test ride:** two slow laps of the street, testing both brakes and every gear, before you commit.
 
 ## Photos

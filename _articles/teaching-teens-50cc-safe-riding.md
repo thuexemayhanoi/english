@@ -33,14 +33,14 @@ Decree 151/2024 organises road-safety and safe-moped training through schools; t
 ## The four-stage progression
 
 1. **Empty space, engine off.** Walking the bike, both brakes while walking, stand-up balance drills. Boring is the point.
-2. **Empty space, engine on.** Straight lines, gentle stops, U-turns both ways, at walking-jogging pace. Where to do this: our practice-spaces article maps Hanoi's options.
+2. **Empty space, engine on.** Straight lines, gentle stops, U-turns both ways, at walking-jogging pace. Where to do this: [our practice-spaces article]({{ '/articles/where-to-practise-riding-hanoi/' | relative_url }}) maps Hanoi's options.
 3. **Quiet streets, off-peak, parent following on another bike or walking a parallel pavement.** Junctions, indicating, mirror checks, the first real traffic grammar. Ride behind, not beside — you want to see their line and their head, not their profile.
 4. **Real routes, short, off-peak first, then peak.** The school route itself, practised at weekend-morning traffic levels before it is ever ridden at 7 a.m.
 
 ## The drills that pay
 
 - **Commentary riding.** Have them narrate hazards out loud on quiet streets: "bus indicating, door zone, gravel at the corner". You will hear exactly what they are not seeing.
-- **Brake rehearsals.** Straight-line stops from low speed, front brake progressive, practised until boring — the emergency braking article is the drill sheet.
+- **Brake rehearsals.** Straight-line stops from low speed, front brake progressive, practised until boring — [the emergency braking article]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}) is the drill sheet.
 - **The Gap Rule.** They only ride gaps you would ride — until they stop needing the rule.
 
 ## The rules that ride along

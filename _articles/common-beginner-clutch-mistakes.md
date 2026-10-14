@@ -31,7 +31,7 @@ Once you are rolling, the lever should be fully out. Holding it half-in all the 
 
 ## 3. Coasting with the clutch pulled in
 
-Rolling downhill or toward a junction with the lever in gives up engine braking exactly when you want controlled slowing. Fix: keep the gearbox engaged and brake in gear; pull the clutch only in the last metres of a stop. Our engine-braking guide explains why this matters on descents.
+Rolling downhill or toward a junction with the lever in gives up engine braking exactly when you want controlled slowing. Fix: keep the gearbox engaged and brake in gear; pull the clutch only in the last metres of a stop. [Our engine-braking guide]({{ '/articles/riding-downhill-motorbike-engine-braking/' | relative_url }}) explains why this matters on descents.
 
 ## 4. Launching in the wrong gear
 

@@ -25,7 +25,7 @@ The Vision and the Lead are Honda's two biggest-selling city scooters, and they 
 
 ## Engine
 
-Vision: 109.5 cc air-cooled eSP engine, 6.59 kW at 7,500 rpm, 9.29 Nm at 6,000 rpm. Lead: 124.8 cc liquid-cooled engine, 8.22 kW at 8,500 rpm, 11.7 Nm at 5,250 rpm. The Lead is stronger everywhere in the range - the practical difference shows up two-up or on bridges; alone in city traffic both feel adequate. Our 110 vs 125 explainer covers the licence and insurance angles of the class step.
+Vision: 109.5 cc air-cooled eSP engine, 6.59 kW at 7,500 rpm, 9.29 Nm at 6,000 rpm. Lead: 124.8 cc liquid-cooled engine, 8.22 kW at 8,500 rpm, 11.7 Nm at 5,250 rpm. The Lead is stronger everywhere in the range - the practical difference shows up two-up or on bridges; alone in city traffic both feel adequate. [Our 110 vs 125 explainer]({{ '/articles/110cc-vs-125cc-scooters/' | relative_url }}) covers the licence and insurance angles of the class step.
 
 ## Weight and size
 

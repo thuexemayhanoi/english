@@ -34,7 +34,7 @@ A light, small, slow bike — a Wave-class semi-auto is the classic learning too
 - **Clutch**: launch with minimal revs and quick, smooth releases rather than long high-rev slips. Extended full-throttle slipping is what burns clutches.
 - **Stalls**: harmless. Grind-free restarts, then continue.
 - **Drops**: if the bike goes over at walking pace, check the lever, mirror and brake pedal before riding on, and tell the shop when you return it.
-- **Daily checks**: the rental checklist applies to learners doubly — check brakes, chain, oil and tyres before each practice session.
+- **Daily checks**: [the rental checklist]({{ '/articles/manual-motorbike-rental-checklist-hanoi/' | relative_url }}) applies to learners doubly — check brakes, chain, oil and tyres before each practice session.
 - **Fuel**: return it with fuel; ask the shop their preferred arrangement at pickup.
 
 ## Practise in the right places

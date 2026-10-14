@@ -28,16 +28,16 @@ At a red light on a slope, with a bus behind you, the bike's mass goes through y
 
 ## The light end of the rental list
 
-- Licence-free e-bikes: the lightest class on the list, bicycle-like controls, published at 200,000 VND per day. No licence needed (the rider must be 16+). For a rider with no motorcycle licence, this is both the light option and the legal one.
+- [Licence-free e-bikes]({{ '/articles/can-foreigners-rent-electric-bike-vietnam/' | relative_url }}): the lightest class on the list, bicycle-like controls, published at 200,000 VND per day. No licence needed (the rider must be 16+). For a rider with no motorcycle licence, this is both the light option and the legal one.
 - Small automatic scooters: the Honda Click and Yamaha Mio class (150,000 VND/day) and Honda Vision (200,000 VND/day) are the light mainstream motorbikes - roughly the low-100-kg class for these models, with low centres of gravity.
 - Semi-automatic underbones: the Wave and Sirius class (150,000 VND/day) are light too, and narrow, at the cost of the foot-shift.
 
 ## The difference light makes, concretely
 
-Reaching the ground matters as much as the scale reading: a lighter bike you can flat-foot beats a heavier one you tiptoe. Our verified scooter kerb-weight table lists the current manufacturer figures, and the Yamaha Latte 125 review covers the lightest new 125 in showrooms. Sit on candidates before choosing - feet flat, knees clear of the bars, and the machine should feel holdable at a standstill, not balanced.
+Reaching the ground matters as much as the scale reading: a lighter bike you can flat-foot beats a heavier one you tiptoe. Our [verified scooter kerb-weight table]({{ '/articles/scooter-kerb-weights-vietnam-verified/' | relative_url }}) lists the current manufacturer figures, and the [Yamaha Latte 125 review]({{ '/articles/yamaha-latte-125-review/' | relative_url }}) covers the lightest new 125 in showrooms. Sit on candidates before choosing - feet flat, knees clear of the bars, and the machine should feel holdable at a standstill, not balanced.
 
 ## The one warning
 
-Light is not a licence substitute. Even licence-free e-bikes have traffic rules - and the lightest scooter in the city still needs its rider to know the lane rules. Pair the light bike with the beginner article and the first-time walkthrough, and the first week goes the way it should.
+Light is not a licence substitute. Even licence-free e-bikes have traffic rules - and the lightest scooter in the city still needs its rider to know the lane rules. Pair the light bike with the [beginner guide]({{ '/articles/easiest-motorbikes-for-beginners-hanoi/' | relative_url }}) and the [first-time walkthrough]({{ '/articles/first-time-renting-a-motorbike-hanoi/' | relative_url }}), and the first week goes the way it should.
 
-Availability of the smallest models moves fastest - contact us to confirm what is in stock for your dates.
+Availability of the smallest models moves fastest - [contact us]({{ '/contact/' | relative_url }}) to confirm what is in stock for your dates.

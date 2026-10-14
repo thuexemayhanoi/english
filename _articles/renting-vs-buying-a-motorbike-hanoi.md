@@ -43,4 +43,4 @@ Ownership means transferring registration into your name - a process a foreigner
 - 6-12 months: rent monthly unless you love a specific bike and have time to resell properly.
 - Over 12 months: buying starts to make sense, if the paperwork is done correctly and the resale market is not in a hurry.
 
-The monthly-rate article shows the rental side of the arithmetic; contact us to discuss longer-term rental if your stay sits in the middle band.
+[The monthly-rate article]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }}) shows the rental side of the arithmetic; contact us to discuss longer-term rental if your stay sits in the middle band.

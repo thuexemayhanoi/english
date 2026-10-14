@@ -37,7 +37,7 @@ Free street parking exists but comes with caveats: sidewalks where bikes are all
 
 ## During Tet
 
-If your rental runs through the lunar new year, parking patterns change — streets empty, many lots close, and residential areas get crowded with returning families. Monthly-rental-through-tet-hanoi covers that period separately.
+If your rental runs through the lunar new year, parking patterns change — streets empty, many lots close, and residential areas get crowded with returning families. [Keeping a Monthly Rental Through Tet in Hanoi]({{ '/articles/monthly-rental-through-tet-hanoi/' | relative_url }}) covers that period separately.
 
 ## The one-line version
 

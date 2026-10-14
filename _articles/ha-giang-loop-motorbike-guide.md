@@ -30,7 +30,7 @@ The Ha Giang loop is the most famous multi-day motorbike ride in Vietnam: a roug
 
 ## Getting there
 
-The loop starts in Ha Giang city, about 300 km (five to six hours) north of Hanoi on the QL2/QL37 roads. Two strategies: ride there in one long day and start the loop next morning, or take a bus/sleeper and rent a bike in Ha Giang city, where motorbike rental is well established. Our ferry-and-train transport guide covers moving yourself (and sometimes a bike) long distances without riding every kilometre.
+The loop starts in Ha Giang city, about 300 km (five to six hours) north of Hanoi on the QL2/QL37 roads. Two strategies: ride there in one long day and start the loop next morning, or take a bus/sleeper and rent a bike in Ha Giang city, where motorbike rental is well established. [Our ferry-and-train transport guide]({{ '/articles/motorbike-ferry-train-transport-vietnam/' | relative_url }}) covers moving yourself (and sometimes a bike) long distances without riding every kilometre.
 
 Carry your passport: there is a checkpoint entering Ha Giang province, and the Lung Cu flag-tower area near the border requires a local permit arranged with passport documents. Foreign riders should also be clear on licence legality before the trip — [our can-tourists-ride guide]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}) explains what documents actually apply.
 
@@ -42,7 +42,7 @@ Ma Pi Leng is the emotional centre of the ride and its most technical section: a
 
 ## Planning honestly
 
-- Three days is the minimum most riders enjoy; four or five is better. Our how-far-per-day guide explains why mountain kilometres cost double.
+- Three days is the minimum most riders enjoy; four or five is better. [Our how-far-per-day guide]({{ '/articles/how-far-motorbike-day-trip-hanoi/' | relative_url }}) explains why mountain kilometres cost double.
 - Download offline maps; large parts of the loop have no data connection. [Our navigation guide]({{ '/articles/motorbike-trip-navigation-offline-maps-vietnam/' | relative_url }}) covers the exact setup.
 - Sleep in homestays in Quan Ba, Yen Minh, Dong Van, Meo Vac or Du Gia — book ahead in October-November and spring, using [our overnight-stays checklist]({{ '/articles/overnight-stays-motorbike-trips-vietnam/' | relative_url }}) (secure bike parking first).
 - Budget fuel, permits, homestays and a mechanical margin with our trip-budget [guide]({{ '/articles/motorbike-trip-budget-from-hanoi/' | relative_url }}); carry a repair basics kit and know the phone number of your rental shop.

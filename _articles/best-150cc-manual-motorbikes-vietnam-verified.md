@@ -21,7 +21,7 @@ sources:
 internal_link_targets: "yamaha-exciter-155-vva-review, honda-winner-r-review, honda-cbr150r-review, a1-licence-vietnam-what-you-can-ride, air-cooled-vs-liquid-cooled-motorbike, honda-winner-r-vs-yamaha-exciter-155, honda-cbr150r-vs-honda-winner-r"
 ---
 
-The manual-clutch 150-155 cc class is where Vietnamese riders get real performance without leaving the A1 licence bracket. This guide compares the three current models on manufacturer-published data only (Honda Vietnam and Yamaha Vietnam pages, retrieved 23 September 2026). The head-to-head comparison pairings for this class are being published alongside this guide.
+The manual-clutch 150-155 cc class is where Vietnamese riders get real performance from a small-capacity bike. One licence point first: under the 2025 law a new A1 stops at 125 cc, so these bikes need a [class A licence]({{ '/articles/vietnam-a-licence-what-you-can-ride/' | relative_url }}) (A1 licences issued before 2025 stay valid up to 175 cc). This guide compares the three current models on manufacturer-published data only (Honda Vietnam and Yamaha Vietnam pages, retrieved 23 September 2026). The head-to-head comparison pairings for this class are being published alongside this guide.
 
 ## The verified field
 
@@ -53,4 +53,4 @@ Winner R 46,360,000 VND; Exciter 155 VVA from 55,200,000 VND for the limited ABS
 
 ## How to choose
 
-Performance and hardware per dong: Exciter 155 VVA. Cheapest entry to clutch riding: Winner R. Long-distance touring with a fairing: CBR150R. All are A1-bracket bikes - our licence [guide]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) covers exactly what you can ride. Full reviews are linked from this page. Contact us to confirm current availability for rental.
+Performance and hardware per dong: Exciter 155 VVA. Cheapest entry to clutch riding: Winner R. Long-distance touring with a fairing: CBR150R. All three need a class A licence under the 2025 rules, or an A1 issued before 2025 - our licence [guide]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) covers exactly what you can ride. Full reviews are linked from this page. Contact us to confirm current availability for rental.

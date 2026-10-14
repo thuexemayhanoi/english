@@ -30,14 +30,14 @@ At 180 cm and above, the standard Vietnamese scooter starts to feel like a foldi
 
 ## The rental classes that suit tall riders
 
-The Honda Air Blade class is the standout on typical rental lists: a longer, roomier scooter with more legroom and a seat that accommodates longer thighs - published at 200,000 VND per day, 800,000 VND per week, 1,400,000 VND per month. Among the smaller scooters, the Honda Vision class runs roomier than the Click/Mio class and handles riders to around the low-180s comfortably. Semi-automatic underbones (Wave, Sirius) are compact but have open legroom - tall riders fit them better than they fit small scooters, at the cost of the foot-shift.
+The Honda Air Blade class is the standout on typical rental lists: a longer, roomier scooter with more legroom and a seat that accommodates longer thighs - [published at 200,000 VND per day, 800,000 VND per week, 1,400,000 VND per month]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}). Among the smaller scooters, the Honda Vision class runs roomier than the Click/Mio class and handles riders to around the low-180s comfortably. Semi-automatic underbones (Wave, Sirius) are compact but have open legroom - tall riders fit them better than they fit small scooters, at the cost of the foot-shift.
 
 ## The test that decides
 
-Sit on the bike. Both feet should reach the ground without tiptoes, knees should clear the bars at full lock, and you should be able to stand up on the pegs slightly without the seat jamming your thighs. Do this at the shop before you sign - this is why pickup beats delivery for tall riders. Rental stock changes; contact us to confirm which models are available to try.
+Sit on the bike. Both feet should reach the ground without tiptoes, knees should clear the bars at full lock, and you should be able to stand up on the pegs slightly without the seat jamming your thighs. Do this at the shop before you sign - this is why [pickup beats delivery]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) for tall riders. Rental stock changes; [contact us]({{ '/contact/' | relative_url }}) to confirm which models are available to try.
 
 ## What tall riders should not do
 
 Rent the smallest bike because it is cheapest - a cramped riding position is a genuine control problem at speed, not just comfort. And skip anything described as "compact" or with a step-through frame built for smaller riders.
 
-Height changes the rental choice, not the rental rules: licence and helmet law apply identically regardless of how tall you are.
+Height changes the rental choice, not the rental rules: [licence and helmet law]({{ '/topics/law-licences/' | relative_url }}) apply identically regardless of how tall you are.

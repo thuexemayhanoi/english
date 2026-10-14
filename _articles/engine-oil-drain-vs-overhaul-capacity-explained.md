@@ -36,8 +36,8 @@ Drain capacity: how much oil to refill after draining the sump at a normal oil c
 
 ## Why it matters in Vietnam
 
-The commuter class sumps are tiny: 0.7-0.8 litres is roughly a large water bottle. That makes underbone oil changes fast and cheap - one reason the format thrives here - but also means the oil works hard per litre. Our oil-checking and choosing guides cover grade and level discipline, and the home-change guide covers doing it yourself. Yamaha publishes no equivalent capacities for the Sirius or Exciter on the retrieved pages - do not copy Honda figures onto a Yamaha.
+The commuter class sumps are tiny: 0.7-0.8 litres is roughly a large water bottle. That makes underbone oil changes fast and cheap - one reason the format thrives here - but also means the oil works hard per litre. Our oil-checking and choosing guides cover grade and level discipline, and [the home-change guide]({{ '/articles/changing-engine-oil-at-home-vietnam/' | relative_url }}) covers doing it yourself. Yamaha publishes no equivalent capacities for the Sirius or Exciter on the retrieved pages - do not copy Honda figures onto a Yamaha.
 
 ## Rental note
 
-Renters should not need to touch oil on short rentals - the rental business covers basic maintenance like oil checks. Our rental care guide covers what to inspect; contact us to confirm current availability of any model.
+Renters should not need to touch oil on short rentals - the rental business covers basic maintenance like oil checks. [Our rental care guide]({{ '/articles/rental-motorbike-care-long-term-hanoi/' | relative_url }}) covers what to inspect; contact us to confirm current availability of any model.

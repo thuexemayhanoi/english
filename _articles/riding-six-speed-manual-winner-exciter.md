@@ -28,11 +28,11 @@ These are not commuter underbones with stickers: liquid-cooled engines (Winner R
 
 ## The gearboxes
 
-Yamaha publishes a six-speed gearbox with an Assist and Slipper clutch for the Exciter 155 VVA — the slipper function softens hard downshifts, and the assist function lightens the lever pull (our assist-and-slipper guide explains the mechanism). Honda's Winner R page lists a manual clutch without publishing the gear count; on the bike, riders should simply use the full pattern as marked. Technique-wise both reward the same habits: shift up early in traffic, downshift one gear at a time with rev matching, and never coast with the clutch pulled.
+Yamaha publishes a six-speed gearbox with an Assist and Slipper clutch for the Exciter 155 VVA — the slipper function softens hard downshifts, and the assist function lightens the lever pull ([our assist-and-slipper guide]({{ '/articles/assist-slipper-clutch-explained/' | relative_url }}) explains the mechanism). Honda's Winner R page lists a manual clutch without publishing the gear count; on the bike, riders should simply use the full pattern as marked. Technique-wise both reward the same habits: shift up early in traffic, downshift one gear at a time with rev matching, and never coast with the clutch pulled.
 
 ## Riding them in the city
 
-The gearing is taller than a commuter's first gear, so launches need slightly more revs than a Wave — the launch guide covers the release technique. In stop-and-go, the six-speed's advantage is that second gear covers a wide band: many Exciter riders treat the bike as a three-speed in town (first to move, second for flow, third to cruise) and only open the full gearbox on open roads.
+The gearing is taller than a commuter's first gear, so launches need slightly more revs than a Wave — [the launch guide]({{ '/articles/how-to-launch-manual-bike-without-stalling/' | relative_url }}) covers the release technique. In stop-and-go, the six-speed's advantage is that second gear covers a wide band: many Exciter riders treat the bike as a three-speed in town (first to move, second for flow, third to cruise) and only open the full gearbox on open roads.
 
 ## On open roads
 

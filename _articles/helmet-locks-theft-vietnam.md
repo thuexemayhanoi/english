@@ -31,7 +31,7 @@ When the helmet must stay with the bike: a proper helmet lock (a steel-cable loc
 
 ## Where you park changes everything
 
-Paid and watched parking — the footprint-guarded lots and buildings common across Hanoi — reduces helmet theft dramatically, and the parking-landscape guide is in [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}). Dark side streets and all-night kerbsides are where helmets vanish. A bike cover adds an extra layer of "out of sight" for everything left on the bike — the cover-side logic is in [Motorbike Covers: Protecting a Bike Parked Outside]({{ '/articles/motorbike-covers-parking-outdoors-vietnam/' | relative_url }}).
+Paid and watched parking — the footprint-guarded lots and buildings common across Hanoi — reduces helmet theft dramatically, and [the parking-landscape guide]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}) is in [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}). Dark side streets and all-night kerbsides are where helmets vanish. A bike cover adds an extra layer of "out of sight" for everything left on the bike — the cover-side logic is in [Motorbike Covers: Protecting a Bike Parked Outside]({{ '/articles/motorbike-covers-parking-outdoors-vietnam/' | relative_url }}).
 
 ## Style affects risk
 

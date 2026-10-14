@@ -32,7 +32,7 @@ A bike that cannot accelerate hard cannot accelerate you into trouble. The Siriu
 
 ## Why the format helps a learner
 
-The rotary four-speed with centrifugal clutch removes both big beginner stressors: no clutch lever, no stalling. You shift with your left foot when you choose to, and the bike still creeps, still launches, still behaves if you forget. The light 100 kg mass and low seat make flat-foot stops and low-speed waddle recoveries easy. The first-ride guide covers the full walkthrough; the Sirius simply makes every step easier.
+The rotary four-speed with centrifugal clutch removes both big beginner stressors: no clutch lever, no stalling. You shift with your left foot when you choose to, and the bike still creeps, still launches, still behaves if you forget. The light 100 kg mass and low seat make flat-foot stops and low-speed waddle recoveries easy. [The first-ride guide]({{ '/articles/riding-semi-automatic-first-time/' | relative_url }}) covers the full walkthrough; the Sirius simply makes every step easier.
 
 ## Learning plan on a Sirius
 

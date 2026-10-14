@@ -34,7 +34,7 @@ Keep the heaviest items against the frame, and pack total weight as evenly as pr
 - **Nothing on the bars**: handlebar bags steer with the front wheel, adding mass that fights you in slow turns.
 - **Check after the first kilometre**, then periodically — cords relax, nets shift.
 
-The general luggage guide covers tie-down patterns in more detail; the principle is always "if it can move, it will move at the worst moment".
+[The general luggage guide]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}) covers tie-down patterns in more detail; the principle is always "if it can move, it will move at the worst moment".
 
 ## What a load changes
 

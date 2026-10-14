@@ -33,7 +33,7 @@ The Lexi is the comfort commuter: 118 kg wet, a low 768 mm seat, 14-inch wheels 
 
 ## Storage and tank
 
-The NVX's 25-litre underseat bay beats the Lexi's unlisted bay on the retrieved page (the Lexi page did not publish a storage figure, so we do not quote one). The Lexi's small 4.2-litre tank is its one real compromise versus the NVX's 5.5 litres - fuel-range planning matters more on the Lexi; see our longest-range scooters guide for how to think about tank times economy.
+The NVX's 25-litre underseat bay beats the Lexi's unlisted bay on the retrieved page (the Lexi page did not publish a storage figure, so we do not quote one). The Lexi's small 4.2-litre tank is its one real compromise versus the NVX's 5.5 litres - fuel-range planning matters more on the Lexi; see [our longest-range scooters guide]({{ '/articles/longest-range-scooters-vietnam/' | relative_url }}) for how to think about tank times economy.
 
 ## Price
 

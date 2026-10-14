@@ -24,9 +24,9 @@ Every scooter review, brochure and rental listing shows a spec sheet - and most 
 
 ## The rows that matter
 
-- **Kerb weight** decides parking and foot-down confidence more than any performance number. The lightest mainstream class sits at 97 kg (Vision, Janus); the practical class runs 110-114 kg. If you are new, start light - our light bikes guide explains why.
+- **Kerb weight** decides parking and foot-down confidence more than any performance number. The lightest mainstream class sits at 97 kg (Vision, Janus); the practical class runs 110-114 kg. If you are new, start light - [our light bikes guide]({{ '/articles/best-lightweight-scooters-beginners-vietnam/' | relative_url }}) explains why.
 - **Seat height + your inseam** decide the fit. Mainstream scooters run 760-785 mm - [seat height comparison]({{ '/articles/scooter-seat-heights-comparison-vietnam/' | relative_url }}).
-- **Torque and its rpm** predict how the bike feels in traffic - the single most useful engine row. Our power and torque explainer shows how to compare.
+- **Torque and its rpm** predict how the bike feels in traffic - the single most useful engine row. [Our power and torque explainer]({{ '/articles/scooter-power-torque-explained/' | relative_url }}) shows how to compare.
 - **Fuel consumption and tank size** set your running costs and range - see the verified economy comparison.
 - **Storage capacity** in litres tells you whether your helmet lives inside the bike - see the storage comparison.
 - **Brakes (disc/drum, ABS)** matter in the wet - [ABS guide]({{ '/articles/which-scooters-have-abs-vietnam/' | relative_url }}).
@@ -34,7 +34,7 @@ Every scooter review, brochure and rental listing shows a spec sheet - and most 
 ## The rows to discount
 
 - **Peak power:** you rarely visit 8,000 rpm on a commute.
-- **Top speed claims:** Vietnamese speed limits make them irrelevant - our speed limits guide has the numbers.
+- **Top speed claims:** Vietnamese speed limits make them irrelevant - [our speed limits guide]({{ '/articles/motorbike-speed-limits-vietnam/' | relative_url }}) has the numbers.
 - **Cosmetic features:** a coloured rim never shortened a braking distance.
 
 ## The rows nobody can sell you

@@ -32,11 +32,11 @@ Lead: 124.8 cc liquid-cooled, 8.22 kW at 8,500 rpm, 11.7 Nm at 5,250 rpm, 2.1 L/
 
 ## Weight and handling
 
-Latte: 100 kg - one of the lightest 125s sold, and 14 kg lighter than the Lead's 114 kg. In daily Hanoi use the Latte is noticeably easier to paddle, park and thread through the Old Quarter. The Lead counters with a lower seat: 760 mm versus the Latte's 790 mm - a real difference for shorter riders (see our seat-height table).
+Latte: 100 kg - one of the lightest 125s sold, and 14 kg lighter than the Lead's 114 kg. In daily Hanoi use the Latte is noticeably easier to paddle, park and thread through the Old Quarter. The Lead counters with a lower seat: 760 mm versus the Latte's 790 mm - a real difference for shorter riders ([see our seat-height table]({{ '/articles/scooter-seat-heights-comparison-vietnam/' | relative_url }})).
 
 ## Equipment
 
-Latte: SmartKey, USB port, flat floor, 3-year/30,000 km warranty. Lead: ABS version available, analogue-plus-digital meter, big tank. Cross-brand feature shopping is covered in our Honda vs Yamaha guide.
+Latte: SmartKey, USB port, flat floor, 3-year/30,000 km warranty. Lead: ABS version available, analogue-plus-digital meter, big tank. Cross-brand feature shopping is covered in [our Honda vs Yamaha guide]({{ '/articles/honda-vs-yamaha-scooters-vietnam/' | relative_url }}).
 
 ## Price
 
@@ -44,4 +44,4 @@ Yamaha listed the Latte from 38,291,000 VND (2025 colour version); the Lead fami
 
 ## Verdict
 
-Latte for weight, economy and style; Lead for the lower seat, the bigger tank and the ABS option. Renters: neither is price-published at Nguyen Tu - contact us to confirm current availability - and both deserve the pre-ride checks in our safety checklist.
+Latte for weight, economy and style; Lead for the lower seat, the bigger tank and the ABS option. Renters: neither is price-published at Nguyen Tu - contact us to confirm current availability - and both deserve the pre-ride checks in [our safety checklist]({{ '/articles/motorbike-safety-checklist-before-riding/' | relative_url }}).

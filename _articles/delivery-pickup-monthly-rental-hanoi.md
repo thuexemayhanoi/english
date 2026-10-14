@@ -32,7 +32,7 @@ For a daily rental, delivery is a convenience. For a monthly rental, it is usual
 
 ## Questions to settle when arranging
 
-Where exactly can the bike be handed over near your address? Who inspects the bike with you at delivery — the same photos and checks as in [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) apply, wherever the handover happens? How will the deposit be paid — cash, bank transfer or QR payment are accepted. Motorbike-rental-pickup-or-delivery-hanoi covers the general delivery process.
+Where exactly can the bike be handed over near your address? Who inspects the bike with you at delivery — the same photos and checks as in [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) apply, wherever the handover happens? How will the deposit be paid — cash, bank transfer or QR payment are accepted. [Shop Pickup vs Delivery When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) covers the general delivery process.
 
 ## At the end of the rental
 

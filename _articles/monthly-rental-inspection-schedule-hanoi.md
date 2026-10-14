@@ -36,7 +36,7 @@ As practical owner guidance — not a manufacturer interval — periodic checks 
 
 ## Before any long ride
 
-If you take a weekend trip beyond your usual routes, run the same five-minute check first and confirm your paperwork is with you. Licence requirements for riding in Vietnam are covered in the law and licences hub.
+If you take a weekend trip beyond your usual routes, run the same five-minute check first and confirm your paperwork is with you. Licence requirements for riding in Vietnam are covered in the [law and licences hub]({{ '/topics/law-licences/' | relative_url }}).
 
 ## At return
 

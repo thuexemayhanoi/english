@@ -23,7 +23,7 @@ Vietnam's heat pushes everyone toward shorts and sandals; its roads argue for co
 
 ## The daily city kit
 
-Long trousers, closed shoes, a light jacket or long sleeves. Gloves sound excessive until the first tropical downpour or the first slip on a wet manhole cover: ventilated gloves protect grip as much as skin. Sneakers beat sandals absolutely; the exposed foot is the most commonly injured body part in low-speed falls. Helmet-fit-guide-vietnam covers the top piece of the kit.
+Long trousers, closed shoes, a light jacket or long sleeves. Gloves sound excessive until the first tropical downpour or the first slip on a wet manhole cover: ventilated gloves protect grip as much as skin. Sneakers beat sandals absolutely; the exposed foot is the most commonly injured body part in low-speed falls. [How to Choose and Fit a Helmet in Vietnam]({{ '/articles/helmet-fit-guide-vietnam/' | relative_url }}) covers the top piece of the kit.
 
 ## Dress for the season
 

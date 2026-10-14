@@ -34,14 +34,14 @@ Hue's rental shops cluster in the Pham Ngu Lao/Le Loi tourist streets south of t
 
 **Thanh Toan bridge and the countryside.** A short, flat run east through rice paddies to a famous 18th-century tiled bridge. Twenty minutes from the centre and you are entirely rural — the best easy "first ride in Vietnam" loop we know of.
 
-**The Hai Van Pass (north).** The southern ascent of the pass starts essentially at Hue's doorstep: ride the QL1A coastal stretch 60-80 km south, cross the pass, and descend into Da Nang. The full guide is here; many travellers do it one-way and hand the bike back by arrangement, or loop back the same day.
+**The Hai Van Pass (north).** The southern ascent of the pass starts essentially at Hue's doorstep: ride the QL1A coastal stretch 60-80 km south, cross the pass, and descend into Da Nang. The [full guide is here]({{ '/articles/hai-van-pass-motorbike-guide/' | relative_url }}); many travellers do it one-way and hand the bike back by arrangement, or loop back the same day.
 
 **The DMZ (north).** A longer, more serious day ride along the old QL1 to Quang Tri: war sites, the Hien Luong bridge over the Ben Hai river, and Highway 1 traffic that demands real attention.
 
 ## Hue-specific practicalities
 
 - Hue is the wettest big city in Vietnam in the autumn months; drizzle arrives on schedule. Ride with the low-visibility mindset when the mist comes off the Perfume River.
-- Parking at the citadel and tombs uses the standard Vietnamese guarded lots (a few thousand dong per entry); our national parking guide explains how tickets work.
+- Parking at the citadel and tombs uses the standard Vietnamese guarded lots (a few thousand dong per entry); [our national parking guide]({{ '/articles/motorbike-parking-vietnamese-cities/' | relative_url }}) explains how tickets work.
 - The city itself is compact and calm; a scooter is also just the best way to move between the guesthouse streets, the citadel and Dong Ba market.
 
 ## North and centre

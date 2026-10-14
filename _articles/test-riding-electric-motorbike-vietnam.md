@@ -35,8 +35,8 @@ The odd sensation is the launch: full torque from standstill, no gears, no clutc
 ## The ten-minute checklist
 
 1. **Regen behaviour** — on machines with throttle-controlled regen (the Weaver 200 class), ease off mid-speed and feel the deceleration: smooth and adjustable, or abrupt? Then judge whether you will actually ride with it.
-2. **Brakes** — from speed, brake firmly in a straight line. Hydraulic discs on a battery-weight machine should feel strong and progressive (see the brakes-maintenance guide for what to look after).
-3. **Real traffic silence** — ride a stretch with pedestrians and junctions. You are experiencing the machine's one real hazard: being unheard. Do you compensate naturally, or will it nag at you? (The silent-safety guide covers the habits.)
+2. **Brakes** — from speed, brake firmly in a straight line. Hydraulic discs on a battery-weight machine should feel strong and progressive (see the [brakes-maintenance guide]({{ '/articles/electric-motorbike-brakes-maintenance/' | relative_url }}) for what to look after).
+3. **Real traffic silence** — ride a stretch with pedestrians and junctions. You are experiencing the machine's one real hazard: being unheard. Do you compensate naturally, or will it nag at you? ([The silent-safety guide]({{ '/articles/electric-motorbike-silent-riding-safety/' | relative_url }}) covers the habits.)
 4. **Hills** — find one bridge approach. Climb it twice: solo, and with whatever load you will really carry. This is where the licence-free class shows its ceiling.
 5. **Range display honesty** — reset what can be reset and note the display's fall over a known loop. On a used machine, this is the battery-health check in motion; ask for the timed charge too.
 6. **Features you are paying for** — Smart Key, tracking, app pairing (verified on the Viper and the Weaver++ class): test them now, not after purchase.

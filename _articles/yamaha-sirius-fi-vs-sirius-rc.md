@@ -30,7 +30,7 @@ Yamaha's Sirius lineup gives buyers a real decision: the fuel-injected Sirius FI
 
 ## FI versus everything else
 
-Fuel injection is the practical upgrade: easier cold starts, cleaner running, and the lowest published consumption in the lineup (1.65 L/100 km against the RC's 2.08). Our carburettor-versus-FI guide explains why the difference is real rather than marketing. The FI's advantage shows up most in daily stop-start commuting and morning starts.
+Fuel injection is the practical upgrade: easier cold starts, cleaner running, and the lowest published consumption in the lineup (1.65 L/100 km against the RC's 2.08). [Our carburettor-versus-FI guide]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}) explains why the difference is real rather than marketing. The FI's advantage shows up most in daily stop-start commuting and morning starts.
 
 ## RC versus everything else
 

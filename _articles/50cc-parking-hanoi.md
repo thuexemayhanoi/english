@@ -33,7 +33,7 @@ Parking is the quiet half of 50cc ownership in Hanoi. Small, light bikes are the
 
 Light machines get lifted, not hotwired. The practical defences, in order of value:
 
-1. **A disc lock or chain, every single stop** — the lock that lives under the seat is the lock that gets used. Our locks article covers the types.
+1. **A disc lock or chain, every single stop** — the lock that lives under the seat is the lock that gets used. [Our locks article]({{ '/articles/disc-locks-chains-motorbike-security/' | relative_url }}) covers the types.
 2. **Park where attendants or foot traffic exist**, nose-in among other bikes rather than on the end of a row.
 3. **Take the helmet with you or lock it** — helmet theft is the petty tax of street parking; [our helmet-locks article]({{ '/articles/helmet-locks-theft-vietnam/' | relative_url }}) covers the options.
 4. **At night, the bike sleeps inside if the household can manage it.**
@@ -44,7 +44,7 @@ Hanoi parking is contact parking: rows shuffle, handlebars trade paint. Fold mir
 
 ## What leaves with you
 
-Registration and insurance copies ride with you, not with the bike — our documents article covers the standard set. And the two-minute machine check at the lot gate (tyres visibly up, brakes grab, lights work) is covered in the [pre-ride checklist]({{ '/articles/50cc-pre-ride-checklist/' | relative_url }}).
+Registration and insurance copies ride with you, not with the bike — [our documents article]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) covers the standard set. And the two-minute machine check at the lot gate (tyres visibly up, brakes grab, lights work) is covered in the [pre-ride checklist]({{ '/articles/50cc-pre-ride-checklist/' | relative_url }}).
 
 ## Etiquette that keeps you welcome
 

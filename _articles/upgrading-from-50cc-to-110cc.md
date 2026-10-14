@@ -41,7 +41,7 @@ Roughly double the power sounds modest; in the first week it is not:
 
 ## The machine: heavier, but not heavy
 
-A 110cc underbone is a few kilograms more — noticeable pushing it around a parking lot, invisible at speed. Brakes are typically stronger (often a front disc on higher versions); our disc-versus-drum article covers what changes.
+A 110cc underbone is a few kilograms more — noticeable pushing it around a parking lot, invisible at speed. Brakes are typically stronger (often a front disc on higher versions); [our disc-versus-drum article]({{ '/articles/disc-vs-drum-brakes-motorbike/' | relative_url }}) covers what changes.
 
 ## How to make the transition safely
 

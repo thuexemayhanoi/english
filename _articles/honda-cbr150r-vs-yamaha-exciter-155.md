@@ -24,7 +24,7 @@ This is the rivalry that defines Vietnam's 150-class: Honda's full-fairing CBR15
 
 ## Engines
 
-CBR150R: 149.2 cc, liquid-cooled, DOHC four-valve, 12.6 kW at 9,000 rpm, 14.4 Nm at 7,000 rpm. Exciter 155 VVA: 155 cc, liquid-cooled, SOHC four-valve with VVA and EFI, 13.2 kW at 9,500 rpm, 14.4 Nm at 8,000 rpm. Identical torque, slightly different power peaks - the Exciter revs higher for its peak, the CBR's DOHC head is the more sophisticated valvetrain (our SOHC-versus-DOHC theme is covered in the spec explainers).
+CBR150R: 149.2 cc, liquid-cooled, DOHC four-valve, 12.6 kW at 9,000 rpm, 14.4 Nm at 7,000 rpm. Exciter 155 VVA: 155 cc, liquid-cooled, SOHC four-valve with VVA and EFI, 13.2 kW at 9,500 rpm, 14.4 Nm at 8,000 rpm. Identical torque, slightly different power peaks - the Exciter revs higher for its peak, the CBR's DOHC head is the more sophisticated valvetrain (our SOHC-versus-DOHC theme is covered in the [spec explainers]({{ '/articles/sohc-vs-dohc-underbones-explained/' | relative_url }})).
 
 ## Weight and bodywork
 

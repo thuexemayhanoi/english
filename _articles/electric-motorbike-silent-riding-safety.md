@@ -34,7 +34,7 @@ The quiet motor is an electric bike's best feature and its biggest hidden risk. 
 
 1. **Ride where you can be seen.** Position in the driver's mirror of any car alongside; never sit in blind spots. Quiet bikes must be seen, since they are not heard.
 2. **Make eye contact before you pass.** At crossings, if the pedestrian has not seen you, slow and pass behind — never thread past a person mid-step.
-3. **Use the light.** Modern electrics come with strong lighting (VinFast's Viper, for instance, uses LED projector headlights); run lights even in daytime drizzle and dusk. See our visibility guide for gear and light habits.
+3. **Use the light.** Modern electrics come with strong lighting (VinFast's Viper, for instance, uses LED projector headlights); run lights even in daytime drizzle and dusk. See [our visibility guide]({{ '/articles/staying-visible-electric-motorbike/' | relative_url }}) for gear and light habits.
 4. **Cover the brake in shared space.** Regen makes silent speed changes; get the finger to the brake lever whenever near people.
 5. **Use the horn sparingly but genuinely.** A short beep at a pedestrian about to step back is exactly what horns are for.
 

@@ -49,7 +49,7 @@ function protectedRanges(text) {
 }
 const inRanges = (ranges, s, e) => ranges.some(([a, b]) => s < b && e > a);
 
-const SLUG_TOKEN = /[a-z0-9]+(?:-[a-z0-9]+){2,}/g;   // at least three hyphenated parts
+const SLUG_TOKEN = /[A-Za-z0-9][a-z0-9]*(?:-[a-z0-9]+){2,}/g;   // at least three hyphenated parts; a capitalised first letter (sentence start) is accepted
 const BOUNDARY_BEFORE = /[a-z0-9\/\-_.#]/i;            // char classes that mean "not a free-standing token"
 const BOUNDARY_AFTER = /[a-z0-9\/\-_]/i;
 
@@ -66,7 +66,7 @@ for (const a of articles) {
 
   let out = ''; let last = 0; let n = 0; const changes = [];
   for (const m of body.matchAll(SLUG_TOKEN)) {
-    const tok = m[0]; const s = m.index; const e = s + tok.length;
+    const raw = m[0]; const tok = raw.charAt(0).toLowerCase() + raw.slice(1); const s = m.index; const e = s + raw.length;
     if (tok === a.fm.slug) continue;                       // self-reference stays prose
     const before = s > 0 ? body[s - 1] : ''; const after = body[e] || '';
     if (BOUNDARY_BEFORE.test(before) || BOUNDARY_AFTER.test(after)) continue;
@@ -92,7 +92,7 @@ for (const a of articles) {
     if (head + body !== a.raw) { console.error('FRONT MATTER SPLIT MISMATCH for ' + a.file + ' — not written'); process.exitCode = 1; continue; }
     const rebuilt = head + out;
     // Guard: nothing but the inserted links may differ.
-    const stripLinks = s => s.replace(/\[[^\]]*\]\(\{\{ '\/articles\/[a-z0-9-]+\/' \| relative_url \}\}\)/g, m => m.match(/\/articles\/([a-z0-9-]+)\//)[1]);
+    const stripLinks = s => s.replace(/\[[^\]]*\]\(\{\{ '\/articles\/[a-z0-9-]+\/' \| relative_url \}\}\)/g, m => m.match(/\/articles\/([a-z0-9-]+)\//)[1]).toLowerCase();
     if (stripLinks(rebuilt) !== stripLinks(a.raw)) { console.error('GUARD FAILED for ' + a.file + ' — not written'); process.exitCode = 1; continue; }
     fs.writeFileSync(path.join(L.ROOT, a.file), rebuilt);
   }

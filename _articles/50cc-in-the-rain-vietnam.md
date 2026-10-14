@@ -24,7 +24,7 @@ Rain in Hanoi arrives hard, floods fast, and dries unevenly. On a 50cc it demand
 
 ## Why small wheels lose grip first
 
-A narrow tyre has less rubber meeting the road, and its contact patch reaches its grip limit sooner on a slick surface. Wet painted lines, metal manhole covers, smooth polished asphalt and the algae-slick cobbles of the Old Quarter are the classic traps — our wet-roads article details the surfaces. On a 50cc, treat each as ice.
+A narrow tyre has less rubber meeting the road, and its contact patch reaches its grip limit sooner on a slick surface. Wet painted lines, metal manhole covers, smooth polished asphalt and the algae-slick cobbles of the Old Quarter are the classic traps — [our wet-roads article]({{ '/articles/after-rain-slippery-roads-motorbike/' | relative_url }}) details the surfaces. On a 50cc, treat each as ice.
 
 ## The first ten minutes are the worst
 
@@ -33,7 +33,7 @@ Light rain on a dry street lifts months of oil and dust into a slick film long b
 ## Technique
 
 - **Throttle as a volume knob, not a switch.** Open it in fractions, especially turning out of junctions. A 50cc has little power to spare — use even less.
-- **Brake earlier, both brakes, never in a lean.** Straighten, then brake. Many 50s run a front drum: drums recover grip more slowly after a soaking, so the first squeeze is a test squeeze. Our drum-brake guide covers rain behaviour.
+- **Brake earlier, both brakes, never in a lean.** Straighten, then brake. Many 50s run a front drum: drums recover grip more slowly after a soaking, so the first squeeze is a test squeeze. [Our drum-brake guide]({{ '/articles/50cc-brakes-drum-checks/' | relative_url }}) covers rain behaviour.
 - **Railway lines and kerb cuts crossed square-on**, never at an angle mid-turn.
 - **Standing water you cannot see the bottom of is not a puddle — it is a decision.** [The flooded-streets article]({{ '/articles/flooded-streets-riding-motorbike-vietnam/' | relative_url }}) covers depth judgement and hidden potholes, which swallow small wheels whole.
 

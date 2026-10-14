@@ -49,7 +49,7 @@ The buyback scheme — buy from a touring specialist with a pre-agreed resale pe
 
 ## Decision in three lines
 
-- **Under a month, or first-time rider: rent.** (Our how-to-rent guide and budget guide cover the details.)
+- **Under a month, or first-time rider: rent.** ([Our how-to-rent guide]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}) and budget guide cover the details.)
 - **One to three months with a taste for spanners: buyback or buy.**
 - **Longer than that, or staying as a resident: buy properly**, bluecard and all — and read our buying [guide]({{ '/articles/buying-motorbike-as-tourist-vietnam/' | relative_url }}) first.
 

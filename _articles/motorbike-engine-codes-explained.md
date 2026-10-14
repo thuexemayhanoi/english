@@ -28,7 +28,7 @@ Honda identifies the Winner R's engine as the KC46E - a family code for that 149
 
 ## Valve layout: SOHC and DOHC
 
-SOHC (single overhead camshaft) drives the valves with one cam; DOHC (double overhead camshaft) uses two. In this range: the Sirius, Exciter 155 and Hondas generally are SOHC; the CBR150R is the one DOHC, befitting its sport-bike role - higher revving, more valve control. Our SOHC vs DOHC explainer covers the trade-offs.
+SOHC (single overhead camshaft) drives the valves with one cam; DOHC (double overhead camshaft) uses two. In this range: the Sirius, Exciter 155 and Hondas generally are SOHC; the CBR150R is the one DOHC, befitting its sport-bike role - higher revving, more valve control. [Our SOHC vs DOHC explainer]({{ '/articles/sohc-vs-dohc-underbones-explained/' | relative_url }}) covers the trade-offs.
 
 ## Fuel delivery: PGM-FI and EFI
 

@@ -28,7 +28,7 @@ Honda's page lists PGM-FI for the Wave RSX. That is the verified claim for the 1
 
 ## What injection actually changes
 
-Metering: an ECU reads sensors and doses fuel per combustion cycle, adjusting for temperature and altitude; carburettors meter mechanically by airflow. Cold starts: injection removes the winter choke ritual - relevant to [our cold-start guide]({{ '/articles/cold-start-motorbike-winter-vietnam/' | relative_url }}). Economy and emissions: the Wave RSX's published 1.56 L/100 km against the Alpha's 1.72 is a fair example of the injection dividend, though engine tuning shares the credit. Maintenance profile: no carburettor to clean and tune - our carburettor care guide describes the work injection deletes; instead, injectors occasionally need cleaning, as [our injector guide]({{ '/articles/fuel-injector-cleaning-vietnam/' | relative_url }}) covers.
+Metering: an ECU reads sensors and doses fuel per combustion cycle, adjusting for temperature and altitude; carburettors meter mechanically by airflow. Cold starts: injection removes the winter choke ritual - relevant to [our cold-start guide]({{ '/articles/cold-start-motorbike-winter-vietnam/' | relative_url }}). Economy and emissions: the Wave RSX's published 1.56 L/100 km against the Alpha's 1.72 is a fair example of the injection dividend, though engine tuning shares the credit. Maintenance profile: no carburettor to clean and tune - [our carburettor care guide]({{ '/articles/carburettor-cleaning-tuning-vietnam/' | relative_url }}) describes the work injection deletes; instead, injectors occasionally need cleaning, as [our injector guide]({{ '/articles/fuel-injector-cleaning-vietnam/' | relative_url }}) covers.
 
 ## Why it matters in Vietnam
 

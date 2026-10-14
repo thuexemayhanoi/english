@@ -37,7 +37,7 @@ Travellers ride it in both directions; the traditional backpacker flow (followin
 6. **Hue → Hanoi** — the long middle, and where most riders choose the Ho Chi Minh Road over the QL1A.
 7. **Hanoi → Ha Giang loop** — the trail's modern summit: the far-north mountains that even the QLHCM cannot match.
 
-Our full route guide does the day-by-day planning; the seasonal guide decides which month suits which end of the country.
+[Our full route guide]({{ '/articles/hanoi-to-ho-chi-minh-city-by-motorbike/' | relative_url }}) does the day-by-day planning; the seasonal guide decides which month suits which end of the country.
 
 ## The bikes that built the trail
 

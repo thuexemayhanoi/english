@@ -24,7 +24,7 @@ Every Vietnamese motorbike page - Honda's, Yamaha's - presents the same fields, 
 
 ## The fields that matter
 
-Max power (kW at rpm): how hard the engine can ultimately pull. Note the rpm - a 9,500-rpm peak (Exciter 155) is a different animal from a 6,250-rpm peak (CT125). Our power and torque explainer covers the reading rules.
+Max power (kW at rpm): how hard the engine can ultimately pull. Note the rpm - a 9,500-rpm peak (Exciter 155) is a different animal from a 6,250-rpm peak (CT125). [Our power and torque explainer]({{ '/articles/underbone-power-torque-explained/' | relative_url }}) covers the reading rules.
 
 Max torque (Nm at rpm): the everyday number. Torque at low rpm - the CT125's 10.9 Nm at 4,750 rpm - is what moves you and a passenger off the line. High-rpm torque - the Exciter's 14.4 Nm at 8,000 rpm - is performance riding.
 

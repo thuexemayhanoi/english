@@ -35,7 +35,7 @@ Gaps that disappear are the dangerous ones: beside a bus, next to a car drifting
 
 ## Cover the fundamentals
 
-Cover the brakes, keep the clutch in the friction zone on geared bikes, and never filter between a vehicle and the curb where doors open and pedestrians step out. Slow-speed-control-motorbike-vietnam covers the bike-handling side.
+Cover the brakes, keep the clutch in the friction zone on geared bikes, and never filter between a vehicle and the curb where doors open and pedestrians step out. [Slow-Speed Control: Riding a Motorbike Through Dense Traffic]({{ '/articles/slow-speed-control-motorbike-vietnam/' | relative_url }}) covers the bike-handling side.
 
 ## The one-line version
 

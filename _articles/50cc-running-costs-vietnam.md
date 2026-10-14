@@ -28,10 +28,10 @@ The engine may be small, but the tank is smaller. Consumption depends on conditi
 
 ## The consumables that actually cost
 
-- **Tyres and tubes.** Small wheels wear faster and puncture more — city glass, kerbs and unswept shoulders see to that. Budget tyres plus tubes are the recurring cost of 50cc life; our tyres article covers lifespan factors.
-- **Brake shoes.** Most 50s run drums all round; shoes wear and the front one does the real work. Our brakes article covers the checks.
+- **Tyres and tubes.** Small wheels wear faster and puncture more — city glass, kerbs and unswept shoulders see to that. Budget tyres plus tubes are the recurring cost of 50cc life; [our tyres article]({{ '/articles/50cc-tyres-small-wheels-care/' | relative_url }}) covers lifespan factors.
+- **Brake shoes.** Most 50s run drums all round; shoes wear and the front one does the real work. [Our brakes article]({{ '/articles/50cc-brakes-drum-checks/' | relative_url }}) covers the checks.
 - **Engine oil.** Small engines, small volumes — cheap per change, expensive to skip. The level check takes two minutes.
-- **Chain and sprockets** (geared underbones): adjustment is free, replacement is not — the chain-care article is the cheapest money you will never spend.
+- **Chain and sprockets** (geared underbones): adjustment is free, replacement is not — [the chain-care article]({{ '/articles/chain-maintenance-motorbike-vietnam/' | relative_url }}) is the cheapest money you will never spend.
 - **Battery and bulbs.** Ageing electrics are the classic 50 failure; a battery that dies at night is a taxi fare home.
 
 ## Service costs

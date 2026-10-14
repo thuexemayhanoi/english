@@ -33,7 +33,7 @@ Both have front ABS (see our ABS [availability guide]({{ '/articles/abs-on-under
 
 ## Storage and practicality
 
-Air Blade 160: 4.4-litre tank, USB-C port, smart key, LCD meter. Vario 160: 17.9-litre underseat bay plus a genuinely flat 422 mm floor that swallows a boxed delivery or a stack of groceries - the Vario is the more practical tool, covered in our storage ranking. The Air Blade counters with sportier bodywork and the established brand look.
+Air Blade 160: 4.4-litre tank, USB-C port, smart key, LCD meter. Vario 160: 17.9-litre underseat bay plus a genuinely flat 422 mm floor that swallows a boxed delivery or a stack of groceries - the Vario is the more practical tool, covered in our [storage ranking]({{ '/articles/best-scooters-cargo-storage-vietnam/' | relative_url }}). The Air Blade counters with sportier bodywork and the established brand look.
 
 ## Size and weight
 

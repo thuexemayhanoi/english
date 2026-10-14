@@ -33,13 +33,13 @@ What the price buys and what it does not is the question that prevents surprises
 ## Not included
 
 - Rider insurance. The vehicle carries compulsory third-party cover for damage the bike does to others; it does not cover your injuries or your liability beyond its limits. Nguyen Tu does not provide motorbike insurance - customers arrange their own. [The insurance article]({{ '/articles/is-insurance-included-motorbike-rental-hanoi/' | relative_url }}) explains the split.
-- Fuel. The bike comes with an agreed fuel level and goes back at the agreed level - the fuel article explains the conventions.
+- Fuel. The bike comes with an agreed fuel level and goes back at the agreed level - the [fuel article]({{ '/articles/motorbike-rental-fuel-policy-hanoi/' | relative_url }}) explains the conventions.
 - Consumables in some situations: inner tubes and tyres can be the renter's responsibility depending on the situation - a puncture from a nail is a different conversation from a worn tyre the bike arrived with.
 - A fixed delivery fee. Delivery in Hanoi may be available, arranged case by case.
 - Anything the contract does not say. If a term is not written into the agreement, it is not included.
 
 ## The one question worth asking at handover
 
-"What do I do if something breaks?" Every shop should answer this in one sentence: what the renter handles, what the shop handles, and who to call. The breakdown article covers the standard division.
+"What do I do if something breaks?" Every shop should answer this in one sentence: what the renter handles, what the shop handles, and who to call. [The breakdown article]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) covers the standard division.
 
 Rentals vary shop by shop on the edges of this list - helmets, delivery, fuel - but the core is constant: bike, papers, maintenance in; insurance, fuel and consumables out. Confirm the edges when you book.

@@ -22,7 +22,13 @@ const path = require('path');
 const L = require('./lib');
 
 const APPLY = process.argv.includes('--apply');
+const CLUSTER_FALLBACK = process.argv.includes('--cluster-candidates');
 const MIN_MATCH = 2;
+// --overrides <file.json>: { "_articles/x.md": { "<phrase>": "<slug>" | null } }
+// A reviewed decision per phrase: a slug forces that target, null leaves the
+// phrase as prose. Overrides are validated against the inventory.
+const ovArg = process.argv.find((a, i) => process.argv[i - 1] === '--overrides');
+const OVERRIDES = ovArg ? JSON.parse(fs.readFileSync(ovArg, 'utf8')) : {};
 
 const STOP = new Set(['a', 'an', 'the', 'of', 'for', 'to', 'in', 'on', 'and', 'or', 'with', 'your', 'you', 'our', 'this', 'that', 'is', 'are', 'how', 'what', 'when', 'where', 'why', 'which', 'who', 'do', 'does', 'can', 'at', 'by', 'from', 'vs', 'versus', 'guide', 'guides', 'article', 'articles', 'explainer', 'checklist', 'hanoi', 'vietnam', 'motorbike', 'motorbikes', 'motorcycle', 'motorcycles', 'bike', 'bikes', 'rental', 'rentals', 'renting', 'rent', 'rented', 'full', 'dedicated', 'separate', 'companion', 'own', 'its', 'their', 'see', 'read']);
 const stem = w => w.toLowerCase().replace(/[^a-z0-9]/g, '').replace(/(ing|ers|er|ed|es|s)$/, '').replace(/licenc/, 'licens');
@@ -56,6 +62,13 @@ function phraseIsClean(phrase) {
 }
 
 function resolve(phrase, a) {
+  const ov = OVERRIDES[a.file];
+  if (ov && Object.prototype.hasOwnProperty.call(ov, phrase)) {
+    const s = ov[phrase];
+    if (s === null) return null;
+    if (!bySlug[s]) { console.error('override target does not exist: ' + s + ' (' + a.file + ')'); process.exitCode = 1; return null; }
+    return { slug: s, why: 'reviewed override' };
+  }
   if (!phraseIsClean(phrase)) return null;
   const exact = byTitle[phrase.toLowerCase().replace(/^(the|our|see) /, '').trim()];
   if (exact && exact !== a.fm.slug) return { slug: exact, why: 'exact title' };
@@ -63,14 +76,22 @@ function resolve(phrase, a) {
   if (!words.length) return null;
   const candidates = String(a.fm.internal_link_targets || '').split(',').map(s => s.trim()).filter(s => s && bySlug[s] && s !== a.fm.slug);
   const scored = candidates.map(s => ({ s, hit: words.filter(w => tokensOfSlug[s].has(w)).length })).sort((x, y) => y.hit - x.hit);
-  if (!scored.length) return null;
-  const best = scored[0]; const second = scored[1];
-  // One distinctive word ("the deposit article") is accepted only when exactly
-  // one declared related guide contains it.
-  if (words.length === 1 && best.hit === 1 && (!second || second.hit === 0)) return { slug: best.s, why: 'unique word among related guides' };
-  if (best.hit < MIN_MATCH || best.hit * 2 < words.length) return null;
-  if (second && second.hit === best.hit) return null;
-  return { slug: best.s, why: best.hit + '/' + words.length + ' words' };
+  if (scored.length) {
+    const best = scored[0]; const second = scored[1];
+    // One distinctive word ("the deposit article") is accepted only when exactly
+    // one declared related guide contains it.
+    if (words.length === 1 && best.hit === 1 && (!second || second.hit === 0)) return { slug: best.s, why: 'unique word among related guides' };
+    if (best.hit >= MIN_MATCH && best.hit * 2 >= words.length && !(second && second.hit === best.hit)) return { slug: best.s, why: best.hit + '/' + words.length + ' words' };
+  }
+  // Fallback: the same topic cluster, under a stricter rule — at least two
+  // significant words, at least two thirds of the phrase matched, and a clear
+  // winner over every other article in the cluster.
+  if (CLUSTER_FALLBACK && words.length >= 2) {
+    const pool = articles.filter(b => b.fm.topic_cluster === a.fm.topic_cluster && b.fm.slug !== a.fm.slug).map(b => b.fm.slug);
+    const sc = pool.map(s => ({ s, hit: words.filter(w => tokensOfSlug[s].has(w)).length })).sort((x, y) => y.hit - x.hit);
+    if (sc.length && sc[0].hit >= 2 && sc[0].hit * 3 >= words.length * 2 && !(sc[1] && sc[1].hit === sc[0].hit)) return { slug: sc[0].s, why: 'cluster ' + sc[0].hit + '/' + words.length + ' words' };
+  }
+  return null;
 }
 
 const report = { files: 0, links: 0, unresolved: [], perFile: [] };

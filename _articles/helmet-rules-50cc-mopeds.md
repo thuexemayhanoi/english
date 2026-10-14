@@ -40,7 +40,7 @@ The physics do not scale with engine size. A fall at 35 km/h onto a kerb does th
 
 ## Choosing and fitting
 
-- Buy certified, not decorative. Novelty shells do not satisfy the standard; our helmet-standards article explains the marks to look for.
+- Buy certified, not decorative. Novelty shells do not satisfy the standard; [our helmet-standards article]({{ '/articles/helmet-safety-standards-explained-vietnam/' | relative_url }}) explains the marks to look for.
 - Fit matters more than brand: no wobble, strap snug under the chin, eyes unobstructed — [the fit guide]({{ '/articles/helmet-fit-guide-vietnam/' | relative_url }}) covers the checks.
 - A helmet that has taken a hard drop should be replaced, even if it looks fine.
 - Children carried as passengers need child-appropriate helmets — [our kids' helmets article]({{ '/articles/kids-helmets-choosing-vietnam/' | relative_url }}) covers sizing.

@@ -28,7 +28,7 @@ Wave RSX: a U-box that holds one half helmet, with a 4-in-1 key system - the onl
 
 ## The aftermarket reality
 
-Because the factories under-equip the class, Vietnam built an ecosystem: front baskets and racks (our basket guide covers scooter-fit equivalents), top boxes on rear racks, seat hooks and cargo nets - our cargo-net and top-box guides cover safe loading, which matters more than capacity. Delivery riders build their entire businesses on this aftermarket - our delivery guide covers the working setups.
+Because the factories under-equip the class, Vietnam built an ecosystem: front baskets and racks ([our basket guide]({{ '/articles/front-baskets-scooters-vietnam/' | relative_url }}) covers scooter-fit equivalents), top boxes on rear racks, seat hooks and cargo nets - our cargo-net and top-box guides cover safe loading, which matters more than capacity. Delivery riders build their entire businesses on this aftermarket - [our delivery guide]({{ '/articles/best-underbones-delivery-riders-verified/' | relative_url }}) covers the working setups.
 
 ## The safety line
 

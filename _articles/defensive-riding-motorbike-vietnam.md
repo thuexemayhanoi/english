@@ -35,7 +35,7 @@ Ride as though drivers have not seen you, because often they have not. This is n
 
 ## Have an exit always
 
-At any moment you should know where you would go if the vehicle ahead stopped dead — the gap to your left, the curb space, the escape lane. When there is no exit, create one by dropping speed. Emergency-braking-motorbike-vietnam covers what happens when the exit still closes.
+At any moment you should know where you would go if the vehicle ahead stopped dead — the gap to your left, the curb space, the escape lane. When there is no exit, create one by dropping speed. [Emergency Braking on a Motorbike in Vietnam]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}) covers what happens when the exit still closes.
 
 ## When it still goes wrong
 

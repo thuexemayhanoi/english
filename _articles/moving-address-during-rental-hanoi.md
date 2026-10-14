@@ -28,7 +28,7 @@ Usually nothing. The agreement covers the bike, not your address. It is still wo
 
 ## Parking is the real moving problem
 
-Your old guarded spot does not come with you. Before signing a new lease, check: does the building have motorbike parking, is it basement or courtyard, is it guarded, and what does it cost? If the answer is no, look for a nearby monthly parking garage before move-in day. Parking-monthly-renter-hanoi covers the daily options; [Keeping a Rental Motorbike Secure Over Months in Hanoi]({{ '/articles/keeping-rental-motorbike-secure-hanoi/' | relative_url }}) explains why a month of street parking is the risk that keeps costing.
+Your old guarded spot does not come with you. Before signing a new lease, check: does the building have motorbike parking, is it basement or courtyard, is it guarded, and what does it cost? If the answer is no, look for a nearby monthly parking garage before move-in day. [Daily Parking as a Monthly Renter in Hanoi]({{ '/articles/parking-monthly-renter-hanoi/' | relative_url }}) covers the daily options; [Keeping a Rental Motorbike Secure Over Months in Hanoi]({{ '/articles/keeping-rental-motorbike-secure-hanoi/' | relative_url }}) explains why a month of street parking is the risk that keeps costing.
 
 ## On moving day itself
 

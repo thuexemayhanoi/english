@@ -31,7 +31,7 @@ Independent route guides describe exactly this: take the byways off the highways
 
 ## Classic routes and loops
 
-**From Ho Chi Minh City.** Ride out through the suburban sprawl (the least pleasant hour), cross to the Ben Tre coconut-hamlet side, and stay on the small roads all the way to Can Tho — the delta's biggest city and the natural base for the Cai Rang floating market at sunrise. Two to three days there and back is the standard sampler; our Saigon rental guide covers getting the bike.
+**From Ho Chi Minh City.** Ride out through the suburban sprawl (the least pleasant hour), cross to the Ben Tre coconut-hamlet side, and stay on the small roads all the way to Can Tho — the delta's biggest city and the natural base for the Cai Rang floating market at sunrise. Two to three days there and back is the standard sampler; [our Saigon rental guide]({{ '/articles/renting-motorbike-ho-chi-minh-city/' | relative_url }}) covers getting the bike.
 
 **The deep-delta loop.** Can Tho to Soc Trang, Tra Vinh and the Khmer-temple countryside, back through Vinh Long — flat, quiet, orchard-lined. Ferries still link what bridges have not yet replaced; our guide to ferries and trains with bikes covers the practicalities of rolling aboard.
 
@@ -39,10 +39,10 @@ Independent route guides describe exactly this: take the byways off the highways
 
 ## Riding notes
 
-- **Weather:** the dry half of the year (roughly December-April) is the comfortable window; in the wet season afternoon downpours arrive like clockwork and the delta's mud lanes earn their reputation. Our nationwide seasons guide has the calendar.
+- **Weather:** the dry half of the year (roughly December-April) is the comfortable window; in the wet season afternoon downpours arrive like clockwork and the delta's mud lanes earn their reputation. [Our nationwide seasons guide]({{ '/articles/vietnam-monsoon-season-motorbike-travel/' | relative_url }}) has the calendar.
 - **Heat:** the delta is hotter than the north even in "cool" months — start at dawn, siesta midday.
 - **Ferries:** cheap, frequent, and the best photos of the trip happen from the deck. Ride on slowly, park where the crew points, chocks down.
-- **Bike choice:** any automatic 110-125cc scooter is ideal — this is scooter country. Our renting-vs-buying guide covers the math for a longer stay.
+- **Bike choice:** any automatic 110-125cc scooter is ideal — this is scooter country. [Our renting-vs-buying guide]({{ '/articles/renting-vs-buying-motorbike-vietnam-long-trip/' | relative_url }}) covers the math for a longer stay.
 - **Navigation:** Google Maps routes you onto QL highways; drag the route onto the smaller parallels for the real delta.
 
 ## Fitting the delta into a Vietnam trip

@@ -45,7 +45,7 @@ A budget machine's battery is usually included in the price; the VinFast scooter
 ## The other cheap-end cautions
 
 - **Technical specs:** Yadea's official site publishes prices but its spec tables were not readable in our verified retrieval — so this article deliberately lists no Yadea power, speed or range figures. Buy with the spec sheet in hand from the seller.
-- **Licence class:** the price tells you nothing about the 4 kW line. A cheap machine above it still needs an A1 licence; the kW ladder guide explains the boundary.
+- **Licence class:** the price tells you nothing about the 4 kW line. A cheap machine above it still needs an A1 licence; [the kW ladder guide]({{ '/articles/electric-motorbike-power-kw-licence-vietnam/' | relative_url }}) explains the boundary.
 - **Resale and service:** the cheapest end of the market is where orphaned models live; the resale and parts articles explain why the service network is part of the price.
 
 ## The rental comparison

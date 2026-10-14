@@ -24,7 +24,7 @@ Ten minutes a week keeps a 50cc out of ninety percent of trouble. The routine be
 
 ## One: engine oil level
 
-Bike upright (or on its stand per the manual), dipstick or sight-glass check — our oil-level article covers the two-minute method. Small engines carry small volumes, so a small leak is a big percentage. Top up with the oil the manual names; if it keeps dropping, find the leak, not a bigger bottle.
+Bike upright (or on its stand per the manual), dipstick or sight-glass check — [our oil-level article]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }}) covers the two-minute method. Small engines carry small volumes, so a small leak is a big percentage. Top up with the oil the manual names; if it keeps dropping, find the leak, not a bigger bottle.
 
 ## Two: chain (geared underbones)
 
@@ -42,7 +42,7 @@ Roll the bike at walking pace and brake hard, front then rear, each alone. A lev
 
 ## Five: lights and horn
 
-Engine on: headlight both beams, taillight, brake light under each lever and pedal, indicators if fitted, horn. Ageing electrics fail here first — the battery article explains what dims lights mean.
+Engine on: headlight both beams, taillight, brake light under each lever and pedal, indicators if fitted, horn. Ageing electrics fail here first — [the battery article]({{ '/articles/battery-care-motorbike-vietnam/' | relative_url }}) explains what dims lights mean.
 
 ## Six: fasteners and cables
 

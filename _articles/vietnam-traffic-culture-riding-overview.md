@@ -39,7 +39,7 @@ Western traffic runs on priority: lights, lanes, and who has the right of way. V
 4. **Speed is the real variable.** The system is safe at city speeds and lethal at highway ones. Locals go slower than they look like they are going; match them.
 5. **Lights at night are partial.** Unlit bikes, pedestrians in dark clothing, and buffalo share rural roads — [our night-riding guide]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}) is the companion read for a reason.
 6. **The u-turn is a national institution.** Vehicles u-turn anywhere plausible; assume the bike ahead of you might, and check your mirror before you commit to a pass.
-7. **Rain changes everything for twenty minutes.** Everyone slows, ponchos balloon, visors fog. The first half hour after rain is the highest-risk window — our wet-surfaces guide explains the why.
+7. **Rain changes everything for twenty minutes.** Everyone slows, ponchos balloon, visors fog. The first half hour after rain is the highest-risk window — [our wet-surfaces guide]({{ '/articles/slippery-city-surfaces-motorbike/' | relative_url }}) explains the why.
 
 ## How to learn it without donating skin
 

@@ -36,11 +36,11 @@ Carry your licence (and IDP where required), the bike’s registration papers, y
 
 ## Route and timing
 
-Plan the route the night before — not which turns, but the shape of the day: distance, the halfway point, the fuel plan, and the time you must turn around to be home before dark. Rural roads after dark are a different, worse experience (see the unlit-rural-roads guide). Build in a margin: at an average of around 30 km/h including stops, 100 km each way is a long day.
+Plan the route the night before — not which turns, but the shape of the day: distance, the halfway point, the fuel plan, and the time you must turn around to be home before dark. Rural roads after dark are a different, worse experience ([see the unlit-rural-roads guide]({{ '/articles/unlit-rural-roads-night-motorbike-vietnam/' | relative_url }})). Build in a margin: at an average of around 30 km/h including stops, 100 km each way is a long day.
 
 ## Weather and season
 
-Check the forecast for the destination, not Hanoi — mountains make their own weather (the riding-seasons guide covers the calendar). If storms are forecast for the afternoon, the trip happens in the morning.
+Check the forecast for the destination, not Hanoi — mountains make their own weather ([the riding-seasons guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }}) covers the calendar). If storms are forecast for the afternoon, the trip happens in the morning.
 
 ## Personal kit
 

@@ -26,7 +26,7 @@ Old Hanoi is organised by trade: one street sells silk, another bamboo, another 
 
 ## The repair clusters
 
-Kerbside repair happens everywhere — a man with a compressor under a tarp can fix a flat in ten minutes on almost any arterial street, and the flat-tyre guide covers that world. But for real problems, the trade clusters:
+Kerbside repair happens everywhere — a man with a compressor under a tarp can fix a flat in ten minutes on almost any arterial street, and [the flat-tyre guide]({{ '/articles/flat-tyre-repair-motorbike-vietnam/' | relative_url }}) covers that world. But for real problems, the trade clusters:
 
 - **Specialist repair streets** — several streets in the inner wards (the area around Hang Cot / the northern Old Quarter fringe is the historic bike-trade street; similar clusters run through Hai Ba Trung and Dong Da) host shops with lifts, diagnostic habits and staff who rebuild engines on benches. A walk down one of these streets teaches you more about the fleet than any article: every shop specializes, and they signal it with the bikes parked in front.
 - **Tyre-and-battery shops** cluster at main intersections in every district; punctures and battery replacements are the most frequent repairs in the city and never far away.
@@ -42,7 +42,7 @@ The parts trade has its own geography: physical markets for new and used parts (
 
 ## Gear
 
-Helmet shops cluster near the tourist quarters and around the big dealerships: the dedicated gear shops sell certified full-face and flip-up helmets, gloves and rain gear, while the street vendors near the bridge approaches sell the ten-dollar shells that satisfy the letter of the law and nothing else. The helmet standards guide explains the difference in full; for gear shopping, the rule of thumb is that a proper gear shop lets you try things on and has sizing ranges.
+Helmet shops cluster near the tourist quarters and around the big dealerships: the dedicated gear shops sell certified full-face and flip-up helmets, gloves and rain gear, while the street vendors near the bridge approaches sell the ten-dollar shells that satisfy the letter of the law and nothing else. [The helmet standards guide]({{ '/articles/helmet-safety-standards-explained-vietnam/' | relative_url }}) explains the difference in full; for gear shopping, the rule of thumb is that a proper gear shop lets you try things on and has sizing ranges.
 
 ## For rental riders
 

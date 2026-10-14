@@ -43,7 +43,7 @@ Half true, and mostly irrelevant. An adult on a moped needs no licence — that 
 
 ## Myth 5: "E-bikes are legally the same as 50cc bikes"
 
-False. A pedal-type electric bicycle (xe đạp điện) is legally a bicycle — assistance must cut out when pedalling stops or at 25 km/h. A 50cc petrol bike or a scooter-style electric above the moped limits is a xe gắn máy. The classes differ in licence, helmet and where you may ride; our e-bike licence guide draws the lines.
+False. A pedal-type electric bicycle (xe đạp điện) is legally a bicycle — assistance must cut out when pedalling stops or at 25 km/h. A 50cc petrol bike or a scooter-style electric above the moped limits is a xe gắn máy. The classes differ in licence, helmet and where you may ride; [our e-bike licence guide]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}) draws the lines.
 
 ## The pattern
 

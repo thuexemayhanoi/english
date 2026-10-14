@@ -34,7 +34,7 @@ Short and slow. Food streets are, by definition, pedestrian-heavy — the paveme
 
 ## Parking while you eat
 
-Three options, in order of localness. **The vendor's kerb**: most street vendors watch the bikes of their eaters — ask by pointing and a smile; this is the normal arrangement and costs nothing beyond buying the food. **The attendant kerbs** on busier streets: a few thousand dong, and the elderly attendant remembers your bike in a way that borders on the supernatural. **The lots**: near the big night-food zones, formal lots exist; use them for longer dinners. The general parking guide covers the conventions.
+Three options, in order of localness. **The vendor's kerb**: most street vendors watch the bikes of their eaters — ask by pointing and a smile; this is the normal arrangement and costs nothing beyond buying the food. **The attendant kerbs** on busier streets: a few thousand dong, and the elderly attendant remembers your bike in a way that borders on the supernatural. **The lots**: near the big night-food zones, formal lots exist; use them for longer dinners. [The general parking guide]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}) covers the conventions.
 
 One rule matters: never park across a vendor's workspace or a shopfront — the food street's economy depends on its frontage, and blocking it makes you the evening's villain.
 

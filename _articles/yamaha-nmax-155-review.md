@@ -38,7 +38,7 @@ Yamaha lists 131 kg weight, 770 mm seat height, 1935 x 740 x 1200 mm dimensions,
 
 ## Technology
 
-A smart key lets you unlock, open the seat and start without a metal key. The Y-Connect app link brings call and message alerts, fuel-consumption tracking and maintenance reminders to the cockpit, and there is a USB Type-C charging port. A Stop and Start System II switches the engine off at traffic lights and restarts it when you twist the throttle - our idling-stop explainer covers how these systems behave in Hanoi traffic.
+A smart key lets you unlock, open the seat and start without a metal key. The Y-Connect app link brings call and message alerts, fuel-consumption tracking and maintenance reminders to the cockpit, and there is a USB Type-C charging port. A Stop and Start System II switches the engine off at traffic lights and restarts it when you twist the throttle - [our idling-stop explainer]({{ '/articles/stop-and-start-scooters-explained/' | relative_url }}) covers how these systems behave in Hanoi traffic.
 
 ## Who it suits
 

@@ -41,4 +41,4 @@ Slow circles left and right in first and second, using the friction zone and a s
 
 Ride the perimeter of your practice area and practise looking far ahead while riding slowly — head up, eyes distant, controls automatic.
 
-That is the whole hour. If the launches are smooth and the stalls are rare, you are ready for quiet streets at quiet hours. Plan the next rides with our practice-areas guide, and read the realistic timeline in how long it takes to learn before judging yourself. Renters should also run through the rental checklist before the practice hour begins.
+That is the whole hour. If the launches are smooth and the stalls are rare, you are ready for quiet streets at quiet hours. Plan the next rides with [our practice-areas guide]({{ '/articles/where-to-practise-riding-hanoi/' | relative_url }}), and read the realistic timeline in how long it takes to learn before judging yourself. Renters should also run through the rental checklist before the practice hour begins.

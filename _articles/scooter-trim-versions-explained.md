@@ -38,4 +38,4 @@ Verified differences include ABS presence, display type (TFT versus LCD - our di
 
 ## Practical buying advice
 
-Decide the equipment floor first - for most riders, whether the version has ABS - then compare version prices against it. Our verified price guide lists model-level pricing, and [our ABS guide]({{ '/articles/which-scooters-have-abs-vietnam/' | relative_url }}) lists which versions carry it. Renters: version matters too - confirm the version you will receive, not just the model. Contact us to confirm current availability.
+Decide the equipment floor first - for most riders, whether the version has ABS - then compare version prices against it. [Our verified price guide]({{ '/articles/new-scooter-prices-vietnam-verified/' | relative_url }}) lists model-level pricing, and [our ABS guide]({{ '/articles/which-scooters-have-abs-vietnam/' | relative_url }}) lists which versions carry it. Renters: version matters too - confirm the version you will receive, not just the model. Contact us to confirm current availability.

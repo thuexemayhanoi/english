@@ -41,6 +41,6 @@ The gardens are commercial: you are photographing someone's crop. Most garden ow
 
 ## Riding home with a tree
 
-Every year, thousands of peach trees ride home on motorbikes — wrapped in paper and plastic, balanced on the rack or carried across the rider's arms, an image that is itself Hanoi. If you buy one for an apartment or hotel, have the garden wrap it tightly, strap it with the trunk as the spine, and ride slowly: a top-heavy tree changes the bike's balance more than any luggage. The cargo guide covers the strapping principles; blossom branches define the width of your load.
+Every year, thousands of peach trees ride home on motorbikes — wrapped in paper and plastic, balanced on the rack or carried across the rider's arms, an image that is itself Hanoi. If you buy one for an apartment or hotel, have the garden wrap it tightly, strap it with the trunk as the spine, and ride slowly: a top-heavy tree changes the bike's balance more than any luggage. [The cargo guide]({{ '/articles/cargo-nets-bungee-cords-motorbike/' | relative_url }}) covers the strapping principles; blossom branches define the width of your load.
 
 Outside the season, ride the dyke for the river and garden country alone. Contact us to confirm current availability for a dyke-friendly bike.

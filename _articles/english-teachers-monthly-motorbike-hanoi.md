@@ -24,15 +24,15 @@ English teachers in Hanoi often have the perfect use case for a monthly rental: 
 
 ## The multi-campus problem
 
-A teacher moving between campuses across the city needs a bike that handles stop-start traffic and parks easily at each site. That usually points to a scooter with storage for books and a laptop, charged devices, and rain gear under the seat. Commuting-by-motorbike-monthly-hanoi covers the route-and-parking setup; the model choice itself is in [Best Bike for English Teachers Living in Hanoi]({{ '/articles/best-bike-for-english-teachers-hanoi/' | relative_url }}).
+A teacher moving between campuses across the city needs a bike that handles stop-start traffic and parks easily at each site. That usually points to a scooter with storage for books and a laptop, charged devices, and rain gear under the seat. [Commuting by Motorbike in Hanoi: The Monthly Renter Setup]({{ '/articles/commuting-by-motorbike-monthly-hanoi/' | relative_url }}) covers the route-and-parking setup; the model choice itself is in [Best Bike for English Teachers Living in Hanoi]({{ '/articles/best-bike-for-english-teachers-hanoi/' | relative_url }}).
 
 ## Renting across terms
 
-School contracts run by term, and rentals can follow the same rhythm: rent monthly, extend when your contract renews, and shorten or return when term ends. Extending-motorbike-rental-hanoi explains how renewal works, and [Shortening a Long Motorbike Rental in Hanoi]({{ '/articles/shortening-long-motorbike-rental-hanoi/' | relative_url }}) covers ending early — note there is no automatic refund for unused time, so align the rental end with your contract end rather than overshooting.
+School contracts run by term, and rentals can follow the same rhythm: rent monthly, extend when your contract renews, and shorten or return when term ends. [Extending or Renewing a Monthly Motorbike Rental in Hanoi]({{ '/articles/extending-motorbike-rental-hanoi/' | relative_url }}) explains how renewal works, and [Shortening a Long Motorbike Rental in Hanoi]({{ '/articles/shortening-long-motorbike-rental-hanoi/' | relative_url }}) covers ending early — note there is no automatic refund for unused time, so align the rental end with your contract end rather than overshooting.
 
 ## Budgeting the school year
 
-A monthly rate makes budgeting predictable, which suits teachers paid monthly. Where a monthly rate is published for your model, it is the number to plan around; where it is not, contact us to confirm the current monthly price. Motorbike-rental-budget-monthly-hanoi helps build the full monthly picture including fuel, parking and consumables.
+A monthly rate makes budgeting predictable, which suits teachers paid monthly. Where a monthly rate is published for your model, it is the number to plan around; where it is not, contact us to confirm the current monthly price. [Monthly Motorbike Rental Budget in Hanoi: The Full Cost]({{ '/articles/motorbike-rental-budget-monthly-hanoi/' | relative_url }}) helps build the full monthly picture including fuel, parking and consumables.
 
 ## Term-time realities
 

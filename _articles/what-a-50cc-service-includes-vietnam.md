@@ -28,7 +28,7 @@ Service intervals are set by your model's manufacturer manual — the only autho
 
 ## The basic service: what it covers
 
-- **Engine oil and drain.** The item everything else orbits — small engines carry small volumes, so fresh oil at manual intervals is the cheapest life extension available. The level between services is your job (the checking article takes two minutes).
+- **Engine oil and drain.** The item everything else orbits — small engines carry small volumes, so fresh oil at manual intervals is the cheapest life extension available. The level between services is your job ([the checking article]({{ '/articles/50cc-weekly-maintenance-checks/' | relative_url }}) takes two minutes).
 - **Oil strainer or filter screen.** Small engines often run a screen rather than a cartridge; it gets cleaned, not replaced.
 - **Air filter.** Dusty-season Hanoi clogs filters fast; [our air-filter article]({{ '/articles/air-filter-care-motorbike-vietnam/' | relative_url }}) covers why it matters more than riders assume.
 - **Chain inspection, adjustment and lube** on geared underbones ([the chain article]({{ '/articles/chain-maintenance-motorbike-vietnam/' | relative_url }}) covers what good looks like).
@@ -40,7 +40,7 @@ Service intervals are set by your model's manufacturer manual — the only autho
 
 ## The periodic bigger items
 
-Fuel system cleaning (carburettor on older machines, injector service on injected models — our carburettor-versus-injection article explains which you have), wheel bearing checks, valve clearance where the manual calls for it, and spark plug replacement — each on its own manual cadence, not on every visit.
+Fuel system cleaning (carburettor on older machines, injector service on injected models — [our carburettor-versus-injection article]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}) explains which you have), wheel bearing checks, valve clearance where the manual calls for it, and spark plug replacement — each on its own manual cadence, not on every visit.
 
 ## What no service substitutes
 

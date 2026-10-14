@@ -36,4 +36,4 @@ The open frame and the rotary gearbox are a matched set: the frame makes mountin
 
 ## The downside to know about
 
-Step-throughs offer less body between you and the road than a full motorcycle; after any fall, our post-fall inspection checklist matters more, not less. Rental classes here (Wave and Sirius, 150,000 VND/day) are the format's purest expression - contact us to confirm current availability.
+Step-throughs offer less body between you and the road than a full motorcycle; after any fall, [our post-fall inspection checklist]({{ '/articles/checking-motorbike-after-fall-accident/' | relative_url }}) matters more, not less. Rental classes here (Wave and Sirius, 150,000 VND/day) are the format's purest expression - contact us to confirm current availability.

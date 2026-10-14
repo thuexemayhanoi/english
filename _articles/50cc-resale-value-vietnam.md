@@ -34,7 +34,7 @@ Registration that matches the frame, a clean ownership story, a current compulso
 
 The patterns that protect value:
 
-- original bodywork and bars, or quality replacements (our genuine-versus-fake parts article explains how to tell)
+- original bodywork and bars, or quality replacements ([our genuine-versus-fake parts article]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}) explains how to tell)
 - a service history — even informal, hand-written notes in a notebook beat no story
 - popular consumable sizes: mainstream tyres and tubes, adaptable cables, standard batteries
 

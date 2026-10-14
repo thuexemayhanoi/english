@@ -51,4 +51,4 @@ Selling legally means transferring ownership: the bluecard, a signed sales contr
 
 ## The alternative calculation
 
-Our renting-vs-buying guide runs the numbers honestly: for most trips shorter than a couple of months, renting beats the buy-sell cycle once mechanical risk, paperwork hours and selling stress are priced in. If that conclusion lands after you already own a bike — sell early, sell honestly, and budget the loss into the trip you will remember anyway.
+[Our renting-vs-buying guide]({{ '/articles/renting-vs-buying-motorbike-vietnam-long-trip/' | relative_url }}) runs the numbers honestly: for most trips shorter than a couple of months, renting beats the buy-sell cycle once mechanical risk, paperwork hours and selling stress are priced in. If that conclusion lands after you already own a bike — sell early, sell honestly, and budget the loss into the trip you will remember anyway.

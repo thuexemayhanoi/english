@@ -23,11 +23,11 @@ Vietnamese riding conditions are hard on motorbikes: heat, monsoon humidity, dus
 
 ## The four things that matter
 
-Tyres, chain, brakes and oil. They fail in that order of frequency and roughly that order of cost. Tyre-care-motorbike-vietnam and [Chain Maintenance on a Motorbike in Vietnam]({{ '/articles/chain-maintenance-motorbike-vietnam/' | relative_url }}) cover the first two in depth; [Checking Brakes on a Motorbike]({{ '/articles/brake-checks-motorbike-vietnam/' | relative_url }}) and [Checking Engine Oil on a Motorbike]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }}) cover the others.
+Tyres, chain, brakes and oil. They fail in that order of frequency and roughly that order of cost. [Tyre Care and Pressure Basics for Motorbikes]({{ '/articles/tyre-care-motorbike-vietnam/' | relative_url }}) and [Chain Maintenance on a Motorbike in Vietnam]({{ '/articles/chain-maintenance-motorbike-vietnam/' | relative_url }}) cover the first two in depth; [Checking Brakes on a Motorbike]({{ '/articles/brake-checks-motorbike-vietnam/' | relative_url }}) and [Checking Engine Oil on a Motorbike]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }}) cover the others.
 
 ## What the climate adds
 
-Humidity rusts chains, cables and fasteners faster than in dry climates, and monsoon flooding drowns anything low. Heat makes engines run hotter in traffic and degrades oil faster in stop-start use. The practical result: in Vietnam, "keep it clean and check it often" is not a slogan, it is the maintenance plan. Cleaning-motorbike-properly-vietnam covers the washing side, and [Preventing Rust on a Motorbike in Vietnam]({{ '/articles/motorcycle-rust-prevention-vietnam/' | relative_url }}) the corrosion battle.
+Humidity rusts chains, cables and fasteners faster than in dry climates, and monsoon flooding drowns anything low. Heat makes engines run hotter in traffic and degrades oil faster in stop-start use. The practical result: in Vietnam, "keep it clean and check it often" is not a slogan, it is the maintenance plan. [Washing and Cleaning a Motorbike Properly]({{ '/articles/cleaning-motorbike-properly-vietnam/' | relative_url }}) covers the washing side, and [Preventing Rust on a Motorbike in Vietnam]({{ '/articles/motorcycle-rust-prevention-vietnam/' | relative_url }}) the corrosion battle.
 
 ## Who does what
 

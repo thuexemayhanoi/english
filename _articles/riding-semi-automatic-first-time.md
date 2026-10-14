@@ -40,6 +40,6 @@ Right hand: front brake and throttle. Right foot: rear brake. Left foot: the gea
 
 ## First-ride plan
 
-Spend fifteen minutes on a quiet stretch practising the shift rhythm (throttle off, click, throttle on), then join light traffic. If you have never ridden anything motorised, our beginner-friendly bikes guide puts the semi-automatic in context against scooters and manuals.
+Spend fifteen minutes on a quiet stretch practising the shift rhythm (throttle off, click, throttle on), then join light traffic. If you have never ridden anything motorised, [our beginner-friendly bikes guide]({{ '/articles/best-manual-clutch-motorbikes-beginners-verified/' | relative_url }}) puts the semi-automatic in context against scooters and manuals.
 
 For renting, the semi-automatic is the classic Hanoi choice — availability of specific models can be confirmed by contacting us.

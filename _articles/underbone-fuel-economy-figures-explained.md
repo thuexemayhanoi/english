@@ -32,7 +32,7 @@ Stop-start traffic: long Hanoi jams idle fuel away at zero km/h. Heat and humidi
 
 ## How to plan with the claims
 
-Use the claimed ladder as a ranking - it is genuinely reliable for ranking - then budget your own baseline: fill the tank, zero the trip, ride your real week, refill and divide. One tank of your own data beats any published figure. Our fuel-economy improvement guide covers the habits that move the number: steady throttle, correct tyre pressure, no extended idling, serviced air filter.
+Use the claimed ladder as a ranking - it is genuinely reliable for ranking - then budget your own baseline: fill the tank, zero the trip, ride your real week, refill and divide. One tank of your own data beats any published figure. [Our fuel-economy improvement guide]({{ '/articles/improving-fuel-economy-motorbike/' | relative_url }}) covers the habits that move the number: steady throttle, correct tyre pressure, no extended idling, serviced air filter.
 
 ## Rental context
 

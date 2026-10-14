@@ -39,4 +39,4 @@ Feathering is normal use, but hours of it heats the clutch plates. Do not hold t
 
 ## One honest note for renters
 
-Heavy stop-and-go is where a manual bike is most work and an automatic scooter least. If your stay is short and your route is dense city traffic, a semi-automatic or scooter may serve you better; our semi-automatic renting guide covers that option.
+Heavy stop-and-go is where a manual bike is most work and an automatic scooter least. If your stay is short and your route is dense city traffic, a semi-automatic or scooter may serve you better; [our semi-automatic renting guide]({{ '/articles/renting-semi-automatic-underbone-hanoi/' | relative_url }}) covers that option.

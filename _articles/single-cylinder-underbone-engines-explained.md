@@ -32,7 +32,7 @@ Air-cooled singles: Wave Alpha, Blade, Wave RSX, Future 125, Sirius, Super Cub, 
 
 ## What a single feels like
 
-Character: torque arrives in one eager lump, then runs out - the classic underbone feel. Maintenance: one cylinder's valve clearances and one piston's health to monitor - our knocking-noises guide covers the sounds singles make when neglected.
+Character: torque arrives in one eager lump, then runs out - the classic underbone feel. Maintenance: one cylinder's valve clearances and one piston's health to monitor - [our knocking-noises guide]({{ '/articles/engine-knocking-what-it-means/' | relative_url }}) covers the sounds singles make when neglected.
 
 ## Rental context
 

@@ -34,11 +34,11 @@ These are usually treated differently. A puncture from a nail or road debris is 
 
 ## Replacing fairly
 
-If a tyre needs replacing during your rental, agree with the shop first rather than buying one unilaterally. Outside-repair-shops-rental-motorbike explains how small shops interact with rental agreements, and the shop may have preferences about brands or tyre types. Keep the receipt either way.
+If a tyre needs replacing during your rental, agree with the shop first rather than buying one unilaterally. [Can You Use Outside Repair Shops on a Rental Motorbike?]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) explains how small shops interact with rental agreements, and the shop may have preferences about brands or tyre types. Keep the receipt either way.
 
 ## Note it in the agreement
 
-Whatever the split, get it written into your rental terms. Maintenance-during-monthly-rental-hanoi outlines the maintenance side of the same conversation.
+Whatever the split, get it written into your rental terms. [Maintenance During a Monthly Motorbike Rental in Hanoi]({{ '/articles/maintenance-during-monthly-rental-hanoi/' | relative_url }}) outlines the maintenance side of the same conversation.
 
 ## The one-line version
 

@@ -27,7 +27,7 @@ Vietnam's default touring image is a semi-automatic Wave with a backpack — but
 - **Winner R:** 4.5 L tank, published consumption 2.59 L/100 km (UDC method — Honda notes the measurement method changed; real-world use varies).
 - **Exciter 155 VVA:** 5.4 L tank, published consumption 2.07 L/100 km.
 
-That gives both bikes a touring range in the low hundreds of kilometres per fill in real conditions — enough that fuel planning matters on remote stretches but rarely in the populated corridors. Our fuel-range explainer turns tank figures into practical distances.
+That gives both bikes a touring range in the low hundreds of kilometres per fill in real conditions — enough that fuel planning matters on remote stretches but rarely in the populated corridors. [Our fuel-range explainer]({{ '/articles/underbone-fuel-tank-range-explained/' | relative_url }}) turns tank figures into practical distances.
 
 ## Comfort over distance
 

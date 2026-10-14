@@ -1,25 +1,20 @@
 {
   "tool": "link-guide-references",
   "mode": "apply",
-  "generated": "2026-10-14T10:13:22.357Z",
+  "generated": "2026-10-14T10:28:19.910Z",
   "summary": {
-    "files": 234,
-    "links": 346,
-    "unresolved": 316
+    "files": 198,
+    "links": 254,
+    "unresolved": 47
   },
   "perFile": [
     {
-      "file": "_articles/50cc-brakes-drum-checks.md",
+      "file": "_articles/110cc-vs-125cc-scooters.md",
       "links": [
         {
-          "phrase": "Our disc-versus-drum article",
-          "slug": "disc-vs-drum-brakes-motorbike",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "the pads-replacement article",
-          "slug": "brake-pads-replacement-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "Our power and torque explainer",
+          "slug": "scooter-power-torque-explained",
+          "why": "reviewed override"
         }
       ]
     },
@@ -27,29 +22,14 @@
       "file": "_articles/50cc-common-problems-first-year.md",
       "links": [
         {
-          "phrase": "our dead-battery article",
-          "slug": "dead-battery-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "our battery-care article",
+          "slug": "battery-care-motorbike-vietnam",
+          "why": "reviewed override"
         },
         {
-          "phrase": "our maintenance checklist",
-          "slug": "50cc-weekly-maintenance-checks",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "The tyre article",
-          "slug": "flat-tyre-repair-motorbike-vietnam",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "the flat-tyre article",
-          "slug": "flat-tyre-repair-motorbike-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "the noises article",
-          "slug": "diagnosing-motorbike-noises-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "The brake shoe article",
+          "slug": "50cc-brakes-drum-checks",
+          "why": "reviewed override"
         }
       ]
     },
@@ -57,24 +37,9 @@
       "file": "_articles/50cc-day-trip-range-limits.md",
       "links": [
         {
-          "phrase": "Our fuel station guide",
-          "slug": "fuel-grades-petrol-stations-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our day-trip bike article",
-          "slug": "best-motorbike-for-day-trips-from-hanoi",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/50cc-fines-vietnam.md",
-      "links": [
-        {
-          "phrase": "Our drink-driving article",
-          "slug": "drink-driving-limits-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "the upgrade article",
+          "slug": "upgrading-from-50cc-to-110cc",
+          "why": "reviewed override"
         }
       ]
     },
@@ -82,14 +47,9 @@
       "file": "_articles/50cc-hills-bridges-hanoi.md",
       "links": [
         {
-          "phrase": "our bridges article",
-          "slug": "crossing-hanoi-bridges-motorbike",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "Our pillion article",
-          "slug": "carrying-pillion-50cc-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "our rain riding article",
+          "slug": "50cc-in-the-rain-vietnam",
+          "why": "cluster 2/2 words"
         }
       ]
     },
@@ -97,49 +57,24 @@
       "file": "_articles/50cc-in-the-rain-vietnam.md",
       "links": [
         {
-          "phrase": "The flooded-streets article",
-          "slug": "flooded-streets-riding-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "our wet-roads article",
+          "slug": "after-rain-slippery-roads-motorbike",
+          "why": "reviewed override"
         },
         {
-          "phrase": "our rain gear article",
-          "slug": "rain-gear-motorbike-riders-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our small-wheels tyre article",
-          "slug": "50cc-tyres-small-wheels-care",
-          "why": "2/3 words"
+          "phrase": "Our drum-brake guide",
+          "slug": "50cc-brakes-drum-checks",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/50cc-mopeds-vs-50cc-underbones.md",
+      "file": "_articles/50cc-motorbike-myths-law-vietnam.md",
       "links": [
         {
-          "phrase": "Our first-time riding guide",
-          "slug": "riding-semi-automatic-first-time",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/50cc-night-riding-visibility.md",
-      "links": [
-        {
-          "phrase": "Our pre-ride checklist",
-          "slug": "50cc-pre-ride-checklist",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our hi-vis article",
-          "slug": "hi-vis-vests-motorbike-riders",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our eye protection article",
-          "slug": "eye-protection-riding-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "our e-bike licence guide",
+          "slug": "electric-bike-licence-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -147,29 +82,24 @@
       "file": "_articles/50cc-parking-hanoi.md",
       "links": [
         {
-          "phrase": "Our home-parking article",
-          "slug": "home-parking-overnight-security",
-          "why": "2/2 words"
+          "phrase": "Our locks article",
+          "slug": "disc-locks-chains-motorbike-security",
+          "why": "reviewed override"
         },
         {
-          "phrase": "our helmet-locks article",
-          "slug": "helmet-locks-theft-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "pre-ride checklist",
-          "slug": "50cc-pre-ride-checklist",
-          "why": "2/2 words"
+          "phrase": "our documents article",
+          "slug": "documents-to-carry-motorbike-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/50cc-pre-ride-checklist.md",
+      "file": "_articles/50cc-resale-value-vietnam.md",
       "links": [
         {
-          "phrase": "The documents article",
-          "slug": "documents-to-carry-motorbike-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "our genuine-versus-fake parts article",
+          "slug": "genuine-vs-fake-parts-motorbike-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -177,24 +107,19 @@
       "file": "_articles/50cc-running-costs-vietnam.md",
       "links": [
         {
-          "phrase": "our fuel-habits article",
-          "slug": "fuel-efficient-riding-habits-underbone",
-          "why": "2/2 words"
+          "phrase": "our tyres article",
+          "slug": "50cc-tyres-small-wheels-care",
+          "why": "reviewed override"
         },
         {
-          "phrase": "Our petrol-stations guide",
-          "slug": "fuel-grades-petrol-stations-vietnam",
-          "why": "2/2 words"
+          "phrase": "Our brakes article",
+          "slug": "50cc-brakes-drum-checks",
+          "why": "reviewed override"
         },
         {
-          "phrase": "our what-a-service-includes article",
-          "slug": "what-a-50cc-service-includes-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our resale article",
-          "slug": "50cc-resale-value-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "the chain-care article",
+          "slug": "chain-maintenance-motorbike-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -202,39 +127,9 @@
       "file": "_articles/50cc-summer-heat-riding-hanoi.md",
       "links": [
         {
-          "phrase": "Our air-cooled versus liquid-cooled explainer",
-          "slug": "air-cooled-vs-liquid-cooled-motorbike",
-          "why": "3/3 words"
-        },
-        {
-          "phrase": "our helmet-ventilation article",
-          "slug": "helmet-ventilation-hot-climate",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our dry-season article",
-          "slug": "dust-dry-season-riding-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/50cc-tyres-small-wheels-care.md",
-      "links": [
-        {
-          "phrase": "our rain article",
-          "slug": "50cc-in-the-rain-vietnam",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "our replacement-tyres article",
-          "slug": "choosing-replacement-tyres-motorbike-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "Our flat-tyre article",
-          "slug": "flat-tyre-repair-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "the level-check article",
+          "slug": "checking-engine-oil-motorbike",
+          "why": "reviewed override"
         }
       ]
     },
@@ -242,29 +137,24 @@
       "file": "_articles/50cc-vs-110cc-motorbike-vietnam.md",
       "links": [
         {
-          "phrase": "Our licence guide",
-          "slug": "a1-licence-vietnam-what-you-can-ride",
-          "why": "unique word among related guides"
+          "phrase": "Our bridges riding article",
+          "slug": "50cc-hills-bridges-hanoi",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "the upgrade article",
+          "slug": "upgrading-from-50cc-to-110cc",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/50cc-vs-electric-moped-4kw.md",
+      "file": "_articles/50cc-vs-e-bike-vietnam.md",
       "links": [
         {
-          "phrase": "the electric licence article",
-          "slug": "fast-electric-motorbike-licence-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our electric maintenance article",
-          "slug": "electric-motorbike-maintenance-basics",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our running-costs article",
-          "slug": "50cc-running-costs-vietnam",
-          "why": "2/2 words"
+          "phrase": "Our electric-bike licence guide",
+          "slug": "electric-bike-licence-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -272,24 +162,14 @@
       "file": "_articles/50cc-weekly-maintenance-checks.md",
       "links": [
         {
-          "phrase": "the chain article",
-          "slug": "chain-maintenance-motorbike-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "our oil-level article",
+          "slug": "checking-engine-oil-motorbike",
+          "why": "reviewed override"
         },
         {
-          "phrase": "the brake checks article",
-          "slug": "brake-checks-motorbike-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/abs-on-underbones-vietnam-explained.md",
-      "links": [
-        {
-          "phrase": "our emergency-braking guide",
-          "slug": "emergency-braking-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "the battery article",
+          "slug": "battery-care-motorbike-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -297,144 +177,49 @@
       "file": "_articles/alloy-vs-spoked-wheels-motorbikes.md",
       "links": [
         {
-          "phrase": "Our flat tyre repair guide",
-          "slug": "flat-tyre-repair-motorbike-vietnam",
-          "why": "3/3 words"
+          "phrase": "the tyre replacement guide",
+          "slug": "choosing-replacement-tyres-motorbike-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/ba-be-lake-motorbike-trip-hanoi.md",
+      "file": "_articles/bat-trang-pottery-village-motorbike-ride.md",
       "links": [
         {
-          "phrase": "Our overnight-stays checklist",
-          "slug": "overnight-stays-motorbike-trips-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/bac-ninh-craft-loop-motorbike-ride.md",
-      "links": [
-        {
-          "phrase": "the carrying-luggage guide",
+          "phrase": "The carrying-luggage guide",
           "slug": "carrying-luggage-motorbike-safely-vietnam",
-          "why": "2/2 words"
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/best-bike-for-english-teachers-hanoi.md",
+      "file": "_articles/best-155-160cc-scooters-vietnam.md",
       "links": [
         {
-          "phrase": "the renting-versus-buying article",
-          "slug": "renting-vs-buying-a-motorbike-hanoi",
-          "why": "unique word among related guides"
+          "phrase": "our rainy-season scooter guide",
+          "slug": "best-scooters-rainy-season-commuting-vietnam",
+          "why": "cluster 3/3 words"
         }
       ]
     },
     {
-      "file": "_articles/best-bike-for-hanoi-old-quarter.md",
+      "file": "_articles/best-scooters-cargo-storage-vietnam.md",
       "links": [
         {
-          "phrase": "The lane-rules article",
-          "slug": "motorbike-lane-rules-vietnam",
-          "why": "2/2 words"
+          "phrase": "our carrying-luggage-safely guide",
+          "slug": "carrying-luggage-motorbike-safely-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/best-lightweight-scooters-beginners-vietnam.md",
+      "file": "_articles/best-scooters-hanoi-commuting-verified.md",
       "links": [
         {
-          "phrase": "Our slow-speed control guide",
-          "slug": "slow-speed-control-motorbike-vietnam",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/best-manual-clutch-motorbikes-beginners-verified.md",
-      "links": [
-        {
-          "phrase": "our semi-automatic vs manual guide",
-          "slug": "automatic-vs-manual-motorbike-hanoi",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/best-motorbike-for-commuting-hanoi.md",
-      "links": [
-        {
-          "phrase": "The traffic article",
-          "slug": "best-motorbike-for-hanoi-traffic",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "the price article",
-          "slug": "motorbike-rental-price-hanoi",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/best-motorbike-for-day-trips-from-hanoi.md",
-      "links": [
-        {
-          "phrase": "the speed-limit article",
-          "slug": "motorbike-speed-limits-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/best-motorbike-for-expats-hanoi.md",
-      "links": [
-        {
-          "phrase": "the renting-versus-buying article",
-          "slug": "renting-vs-buying-a-motorbike-hanoi",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/best-motorbike-for-hanoi-traffic.md",
-      "links": [
-        {
-          "phrase": "The scooter article",
-          "slug": "best-scooters-to-rent-hanoi",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "the beginner article",
-          "slug": "easiest-motorbikes-for-beginners-hanoi",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/best-scooters-delivery-riders-vietnam.md",
-      "links": [
-        {
-          "phrase": "the flat-floor explainer",
-          "slug": "flat-floor-scooters-explained",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our high-usage maintenance guide",
-          "slug": "high-usage-delivery-commuter-maintenance",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/best-scooters-hanoi-hills-bridges.md",
-      "links": [
-        {
-          "phrase": "our Hanoi bridges article",
-          "slug": "crossing-hanoi-bridges-motorbike",
-          "why": "unique word among related guides"
+          "phrase": "see the ABS list",
+          "slug": "which-scooters-have-abs-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -442,14 +227,14 @@
       "file": "_articles/best-scooters-long-distance-touring-vietnam.md",
       "links": [
         {
-          "phrase": "our riding fatigue guide",
-          "slug": "riding-fatigue-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "our ABS guide",
+          "slug": "which-scooters-have-abs-vietnam",
+          "why": "reviewed override"
         },
         {
-          "phrase": "our long-distance bike guide",
-          "slug": "best-motorbike-for-long-distance-vietnam",
-          "why": "2/2 words"
+          "phrase": "our pre-trip service guide",
+          "slug": "servicing-before-long-trip-motorbike",
+          "why": "reviewed override"
         }
       ]
     },
@@ -457,9 +242,9 @@
       "file": "_articles/best-scooters-rainy-season-commuting-vietnam.md",
       "links": [
         {
-          "phrase": "our heavy-rain riding guide",
-          "slug": "riding-motorbike-heavy-rain-vietnam",
-          "why": "3/3 words"
+          "phrase": "our ABS guide",
+          "slug": "which-scooters-have-abs-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -467,19 +252,19 @@
       "file": "_articles/best-scooters-short-riders-vietnam.md",
       "links": [
         {
-          "phrase": "our lightweight-scooters guide",
-          "slug": "best-lightweight-scooters-beginners-vietnam",
-          "why": "2/2 words"
+          "phrase": "our rental inspection checklist",
+          "slug": "rental-motorbike-inspection-checklist",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/best-scooters-two-up-riding-vietnam.md",
+      "file": "_articles/best-scooters-tall-riders-vietnam.md",
       "links": [
         {
-          "phrase": "our pillion riding article",
-          "slug": "balancing-pillion-riding-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "our tall-rider guide",
+          "slug": "best-motorbikes-for-tall-riders-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -487,19 +272,9 @@
       "file": "_articles/best-underbones-delivery-riders-verified.md",
       "links": [
         {
-          "phrase": "our high-usage maintenance guide",
-          "slug": "high-usage-delivery-commuter-maintenance",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/best-underbones-high-mileage-verified.md",
-      "links": [
-        {
-          "phrase": "our monthly rental guide",
-          "slug": "high-mileage-monthly-rental-hanoi",
-          "why": "unique word among related guides"
+          "phrase": "our scooter-versus-semi-automatic explainer",
+          "slug": "scooter-vs-semi-automatic-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
@@ -507,14 +282,14 @@
       "file": "_articles/buying-50cc-for-your-teenager-vietnam.md",
       "links": [
         {
-          "phrase": "Our age-rules article",
-          "slug": "riding-50cc-at-16-vietnam",
-          "why": "2/2 words"
+          "phrase": "Our used-bike checklist",
+          "slug": "used-50cc-inspection-checklist",
+          "why": "reviewed override"
         },
         {
-          "phrase": "Our teen gear article",
-          "slug": "safety-gear-teen-50cc-riders",
-          "why": "2/2 words"
+          "phrase": "Our pre-ride checklist",
+          "slug": "50cc-pre-ride-checklist",
+          "why": "cluster 2/2 words"
         }
       ]
     },
@@ -522,9 +297,39 @@
       "file": "_articles/buying-50cc-motorbike-vietnam.md",
       "links": [
         {
-          "phrase": "our parents' guide",
-          "slug": "buying-50cc-for-your-teenager-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "our 50cc checklist",
+          "slug": "used-50cc-inspection-checklist",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/buying-first-scooter-vietnam-guide.md",
+      "links": [
+        {
+          "phrase": "our used motorbike inspection guide",
+          "slug": "used-motorbike-inspection-vietnam",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "our mechanic guide",
+          "slug": "talking-to-mechanic-vietnam",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/buying-new-underbone-dealer-guide-vietnam.md",
+      "links": [
+        {
+          "phrase": "The trim-version guide",
+          "slug": "underbone-trim-versions-explained",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "the price ladder guide",
+          "slug": "underbone-list-prices-vietnam-ladder",
+          "why": "reviewed override"
         }
       ]
     },
@@ -532,9 +337,9 @@
       "file": "_articles/buying-used-sport-underbone-verified.md",
       "links": [
         {
-          "phrase": "our Winner-versus-Exciter costs guide",
-          "slug": "winner-r-exciter-155-ownership-costs",
-          "why": "3/3 words"
+          "phrase": "The general underbone buying checklist",
+          "slug": "underbone-buying-checklist-verified-specs",
+          "why": "reviewed override"
         }
       ]
     },
@@ -542,9 +347,19 @@
       "file": "_articles/can-foreigners-ride-50cc-vietnam.md",
       "links": [
         {
-          "phrase": "Our tourists article",
+          "phrase": "the renting guide",
+          "slug": "renting-50cc-hanoi",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/can-tourists-rent-a-motorbike-hanoi.md",
+      "links": [
+        {
+          "phrase": "The general tourist-riding article",
           "slug": "can-tourists-ride-motorbike-vietnam",
-          "why": "unique word among related guides"
+          "why": "reviewed override"
         }
       ]
     },
@@ -552,14 +367,14 @@
       "file": "_articles/cao-bang-ban-gioc-motorbike-trip.md",
       "links": [
         {
-          "phrase": "Our northeast loop guide",
-          "slug": "northeast-vietnam-motorbike-loop",
-          "why": "2/2 words"
+          "phrase": "the Ba Be guide",
+          "slug": "ba-be-lake-motorbike-trip-hanoi",
+          "why": "cluster 2/2 words"
         },
         {
-          "phrase": "our overnight-stays checklist",
-          "slug": "overnight-stays-motorbike-trips-vietnam",
-          "why": "2/2 words"
+          "phrase": "our trip-cost guide",
+          "slug": "motorbike-trip-budget-from-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
@@ -567,9 +382,14 @@
       "file": "_articles/carrying-pillion-50cc-vietnam.md",
       "links": [
         {
-          "phrase": "our child-passengers article",
-          "slug": "child-passengers-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "see the hills and bridges article",
+          "slug": "50cc-hills-bridges-hanoi",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "our two-up balance article",
+          "slug": "balancing-pillion-riding-motorbike-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -577,19 +397,24 @@
       "file": "_articles/cat-ba-ha-long-motorbike-trip-ferry.md",
       "links": [
         {
-          "phrase": "Our motorbikes-on-expressways explainer",
-          "slug": "motorbikes-on-expressway-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "the ferry-and-train transport guide",
+          "slug": "motorbike-ferry-train-transport-vietnam",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "our Hanoi parking habits guide",
+          "slug": "where-to-park-motorbike-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/charging-electric-motorbike-work-university.md",
+      "file": "_articles/cbr150r-city-riding-guide.md",
       "links": [
         {
-          "phrase": "the commuter's guide",
-          "slug": "electric-motorbike-commuting-hanoi",
-          "why": "unique word among related guides"
+          "phrase": "our traffic clutch guide",
+          "slug": "clutch-technique-stop-and-go-traffic",
+          "why": "cluster 2/2 words"
         }
       ]
     },
@@ -597,9 +422,29 @@
       "file": "_articles/cheapest-electric-motorbikes-vietnam-list-prices.md",
       "links": [
         {
-          "phrase": "the cost-of-ownership guide",
-          "slug": "electric-motorbike-cost-ownership-vietnam",
-          "why": "2/2 words"
+          "phrase": "the kW ladder guide",
+          "slug": "electric-motorbike-power-kw-licence-vietnam",
+          "why": "cluster 2/2 words"
+        }
+      ]
+    },
+    {
+      "file": "_articles/cheapest-new-underbones-vietnam-verified.md",
+      "links": [
+        {
+          "phrase": "our used-motorbike inspection guide",
+          "slug": "used-motorbike-inspection-vietnam",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/choosing-hanoi-neighbourhood-motorbike-access.md",
+      "links": [
+        {
+          "phrase": "the monthly renter's parking guide",
+          "slug": "parking-monthly-renter-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
@@ -607,49 +452,19 @@
       "file": "_articles/clutch-technique-stop-and-go-traffic.md",
       "links": [
         {
-          "phrase": "Our left-turn guide",
-          "slug": "left-turns-across-traffic-motorbike-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "the Hanoi bridges guide",
-          "slug": "crossing-hanoi-bridges-motorbike",
-          "why": "unique word among related guides"
+          "phrase": "our semi-automatic renting guide",
+          "slug": "renting-semi-automatic-underbone-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/coasting-neutral-dangers-manual-motorbike.md",
+      "file": "_articles/common-beginner-clutch-mistakes.md",
       "links": [
         {
-          "phrase": "the downshift guide",
-          "slug": "how-to-downshift-smoothly-manual-motorbike",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/cold-start-underbone-choke-warmup.md",
-      "links": [
-        {
-          "phrase": "our carburettor versus fuel-injection guide",
-          "slug": "carburettor-vs-fuel-injection-vietnam",
-          "why": "3/3 words"
-        },
-        {
-          "phrase": "the kick-versus-electric guide",
-          "slug": "kick-vs-electric-start-explained",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "hot-stalling guide",
-          "slug": "stalling-when-hot-motorbike",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "the overnight battery drain article",
-          "slug": "battery-draining-overnight-motorbike",
-          "why": "3/3 words"
+          "phrase": "Our engine-braking guide",
+          "slug": "riding-downhill-motorbike-engine-braking",
+          "why": "reviewed override"
         }
       ]
     },
@@ -657,29 +472,19 @@
       "file": "_articles/common-motorbike-rental-problems-hanoi.md",
       "links": [
         {
-          "phrase": "the theft article",
-          "slug": "theft-loss-responsibility-rental-motorbike-hanoi",
-          "why": "unique word among related guides"
+          "phrase": "the puncture article",
+          "slug": "punctured-tyre-on-rental-motorbike",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/da-nang-hoi-an-central-coast-motorbike.md",
+      "file": "_articles/dat-bike-lineup-vietnam-guide.md",
       "links": [
         {
-          "phrase": "our overnight-stays checklist",
-          "slug": "overnight-stays-motorbike-trips-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/daily-weekly-monthly-motorbike-rental-hanoi.md",
-      "links": [
-        {
-          "phrase": "the booking article",
-          "slug": "how-to-book-a-motorbike-rental-hanoi",
-          "why": "unique word among related guides"
+          "phrase": "charging-time guide",
+          "slug": "electric-motorbike-charging-time-planning-vietnam",
+          "why": "cluster 2/2 words"
         }
       ]
     },
@@ -687,109 +492,74 @@
       "file": "_articles/dat-bike-weaver-200-vs-vinfast-feliz-2.md",
       "links": [
         {
-          "phrase": "the kW ladder guide",
+          "phrase": "the swap-vs-charge guide",
+          "slug": "battery-swap-vs-home-charging-vietnam",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/dat-bike-weaver-review.md",
+      "links": [
+        {
+          "phrase": "the Dat Bike line-up guide",
+          "slug": "dat-bike-lineup-vietnam-guide",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/early-return-rental-motorbike-hanoi.md",
+      "links": [
+        {
+          "phrase": "The period article",
+          "slug": "daily-weekly-monthly-motorbike-rental-hanoi",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/electric-motorbike-charger-care-storage.md",
+      "links": [
+        {
+          "phrase": "the advice in the long-storage guide",
+          "slug": "storing-electric-motorbike-long-breaks",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/electric-motorbike-charging-time-planning-vietnam.md",
+      "links": [
+        {
+          "phrase": "see the real-world range guide",
+          "slug": "electric-motorbike-range-real-world-vietnam",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/electric-motorbike-fines-vietnam.md",
+      "links": [
+        {
+          "phrase": "Our power-and-licence guide",
           "slug": "electric-motorbike-power-kw-licence-vietnam",
-          "why": "2/2 words"
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/do-you-need-insurance-for-50cc-vietnam.md",
+      "file": "_articles/electric-motorbike-parts-availability-vietnam.md",
       "links": [
         {
-          "phrase": "Our full insurance article",
-          "slug": "compulsory-motorbike-insurance-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "our maintenance-basics guide",
+          "slug": "electric-motorbike-maintenance-basics",
+          "why": "reviewed override"
         },
         {
-          "phrase": "the documents-to-carry article",
-          "slug": "documents-to-carry-motorbike-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/dong-da-area-guide-riders.md",
-      "links": [
-        {
-          "phrase": "the where-to-park guide",
-          "slug": "where-to-park-motorbike-hanoi",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/dry-bags-waterproof-luggage-riders.md",
-      "links": [
-        {
-          "phrase": "the box article",
-          "slug": "top-boxes-racks-motorbike-vietnam",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/easiest-motorbikes-for-beginners-hanoi.md",
-      "links": [
-        {
-          "phrase": "Our semi-automatic gearbox explainer",
-          "slug": "semi-automatic-gearbox-explained",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/electric-bike-law-myths-vietnam.md",
-      "links": [
-        {
-          "phrase": "our e-bike helmet rules guide",
-          "slug": "e-bike-helmet-rules-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/electric-motorbike-battery-health-check.md",
-      "links": [
-        {
-          "phrase": "our replacement article",
+          "phrase": "the pack-replacement article",
           "slug": "electric-motorbike-battery-replacement-vietnam",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/electric-motorbike-battery-replacement-vietnam.md",
-      "links": [
-        {
-          "phrase": "our battery lifespan guide",
-          "slug": "electric-motorbike-battery-lifespan-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/electric-motorbike-brakes-maintenance.md",
-      "links": [
-        {
-          "phrase": "The regen guide",
-          "slug": "regen-braking-explained-electric",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "the tyre-checks article",
-          "slug": "electric-motorbike-tyre-checks",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/electric-motorbike-delivery-riders-vietnam.md",
-      "links": [
-        {
-          "phrase": "the high-mileage maintenance guide",
-          "slug": "high-usage-delivery-commuter-maintenance",
-          "why": "2/3 words"
+          "why": "reviewed override"
         }
       ]
     },
@@ -797,9 +567,9 @@
       "file": "_articles/electric-motorbike-power-kw-licence-vietnam.md",
       "links": [
         {
-          "phrase": "the speed-classes guide",
-          "slug": "electric-two-wheeler-speed-classes-vietnam",
-          "why": "2/2 words"
+          "phrase": "The full classification article",
+          "slug": "electric-bike-licence-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -807,19 +577,49 @@
       "file": "_articles/electric-motorbike-resale-value-vietnam.md",
       "links": [
         {
-          "phrase": "The used-buying guide",
-          "slug": "buying-used-electric-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "see the storage guide",
+          "slug": "electric-motorbike-charger-care-storage",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/electric-motorbike-smart-features.md",
+      "file": "_articles/electric-motorbike-silent-riding-safety.md",
       "links": [
         {
-          "phrase": "our security guide",
+          "phrase": "our visibility guide",
+          "slug": "staying-visible-electric-motorbike",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/electric-motorbike-spare-battery-strategy.md",
+      "links": [
+        {
+          "phrase": "The theft article",
           "slug": "electric-motorbike-theft-security-vietnam",
-          "why": "unique word among related guides"
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/electric-motorbike-summer-heat-battery-care.md",
+      "links": [
+        {
+          "phrase": "see the real-world range guide",
+          "slug": "electric-motorbike-range-real-world-vietnam",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/electric-motorbike-theft-security-vietnam.md",
+      "links": [
+        {
+          "phrase": "Our lock guide",
+          "slug": "disc-locks-chains-motorbike-security",
+          "why": "reviewed override"
         }
       ]
     },
@@ -827,19 +627,29 @@
       "file": "_articles/electric-motorbike-winter-range-hanoi.md",
       "links": [
         {
-          "phrase": "Our real-world range guide",
-          "slug": "electric-motorbike-range-real-world-vietnam",
-          "why": "3/3 words"
+          "phrase": "The day-trip range-planning guide",
+          "slug": "electric-motorbike-day-trips-range-planning-hanoi",
+          "why": "cluster 4/4 words"
+        },
+        {
+          "phrase": "the winter-storage article",
+          "slug": "storing-electric-motorbike-long-breaks",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/euro-4-scooters-vietnam.md",
+      "file": "_articles/engine-oil-drain-vs-overhaul-capacity-explained.md",
       "links": [
         {
-          "phrase": "our carburettor guide",
-          "slug": "carburettor-vs-fuel-injection-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "the home-change guide",
+          "slug": "changing-engine-oil-at-home-vietnam",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "Our rental care guide",
+          "slug": "rental-motorbike-care-long-term-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
@@ -847,54 +657,39 @@
       "file": "_articles/euro-emissions-underbones-vietnam.md",
       "links": [
         {
-          "phrase": "our Euro 4 scooters guide",
-          "slug": "euro-4-scooters-vietnam",
-          "why": "2/2 words"
+          "phrase": "our injection explainer",
+          "slug": "honda-pgm-fi-explained",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/exploring-cau-giay-by-motorbike.md",
+      "file": "_articles/exhaust-care-humid-climate-motorbike.md",
       "links": [
         {
-          "phrase": "The general university-area riding guide",
-          "slug": "hanoi-university-areas-riding-guide",
-          "why": "3/4 words"
-        },
-        {
-          "phrase": "the Cau Giay rental guide",
-          "slug": "renting-motorbike-cau-giay",
-          "why": "2/2 words"
+          "phrase": "the season-specific checklist",
+          "slug": "motorbike-maintenance-rainy-season",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/finding-neutral-manual-motorbike.md",
+      "file": "_articles/expired-licence-fine-vietnam.md",
       "links": [
         {
-          "phrase": "Our rotary gearbox guide",
-          "slug": "rotary-gearbox-vs-manual-clutch-explained",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our hard-neutral troubleshooting guide",
-          "slug": "clutch-drag-hard-neutral-motorbike",
-          "why": "2/3 words"
+          "phrase": "validity-and-renewal article",
+          "slug": "motorbike-licence-validity-renewal-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/first-mountain-motorbike-trip-vietnam-comparison.md",
+      "file": "_articles/first-hour-manual-clutch-practice-checklist.md",
       "links": [
         {
-          "phrase": "our Mai Chau guide",
-          "slug": "mai-chau-overnight-motorbike-trip-hanoi",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our Pu Luong guide",
-          "slug": "pu-luong-motorbike-trip-hanoi",
-          "why": "2/2 words"
+          "phrase": "our practice-areas guide",
+          "slug": "where-to-practise-riding-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
@@ -902,19 +697,14 @@
       "file": "_articles/first-ride-electric-motorbike-beginners.md",
       "links": [
         {
-          "phrase": "The silent-riding safety article",
-          "slug": "electric-motorbike-silent-riding-safety",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/flat-floor-scooters-explained.md",
-      "links": [
+          "phrase": "the visibility guide",
+          "slug": "staying-visible-electric-motorbike",
+          "why": "reviewed override"
+        },
         {
-          "phrase": "Our delivery guide",
-          "slug": "best-scooters-delivery-riders-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "The kW ladder guide",
+          "slug": "electric-motorbike-power-kw-licence-vietnam",
+          "why": "cluster 2/2 words"
         }
       ]
     },
@@ -922,9 +712,54 @@
       "file": "_articles/fuel-atm-phone-coverage-rural-rides-vietnam.md",
       "links": [
         {
-          "phrase": "the Hanoi stations guide",
-          "slug": "hanoi-petrol-stations-guide-riders",
-          "why": "unique word among related guides"
+          "phrase": "see the navigation guide",
+          "slug": "motorbike-trip-navigation-offline-maps-vietnam",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "the trip-preparation checklist",
+          "slug": "motorbike-trip-prep-checklist-hanoi",
+          "why": "cluster 2/2 words"
+        }
+      ]
+    },
+    {
+      "file": "_articles/fuel-economy-test-cycles-explained.md",
+      "links": [
+        {
+          "phrase": "our fuel-economy-figures explainer",
+          "slug": "underbone-fuel-economy-figures-explained",
+          "why": "cluster 3/3 words"
+        },
+        {
+          "phrase": "the riding-habits guide",
+          "slug": "fuel-efficient-riding-habits-underbone",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/fuel-efficient-riding-habits-underbone.md",
+      "links": [
+        {
+          "phrase": "The shift-point guide",
+          "slug": "when-to-shift-gears-underbone",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "the air-filter guide",
+          "slug": "air-filter-care-motorbike-vietnam",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/fuel-starvation-power-loss-motorbike.md",
+      "links": [
+        {
+          "phrase": "The full filter-and-line guide",
+          "slug": "fuel-filters-fuel-lines-motorbike",
+          "why": "reviewed override"
         }
       ]
     },
@@ -932,29 +767,9 @@
       "file": "_articles/getting-around-hanoi-without-vietnamese.md",
       "links": [
         {
-          "phrase": "the traffic-fine guide",
-          "slug": "how-to-pay-traffic-fine-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "the navigation guide",
-          "slug": "hanoi-navigation-motorbike-guide",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/grey-import-50cc-vietnam.md",
-      "links": [
-        {
-          "phrase": "the used inspection checklist",
-          "slug": "used-50cc-inspection-checklist",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "Our genuine-versus-fake parts article",
-          "slug": "genuine-vs-fake-parts-motorbike-vietnam",
-          "why": "3/3 words"
+          "phrase": "The mechanic conversation guide",
+          "slug": "talking-to-mechanic-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -962,89 +777,14 @@
       "file": "_articles/ha-giang-loop-motorbike-guide.md",
       "links": [
         {
-          "phrase": "our can-tourists-ride guide",
-          "slug": "can-tourists-ride-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "Our ferry-and-train transport guide",
+          "slug": "motorbike-ferry-train-transport-vietnam",
+          "why": "reviewed override"
         },
         {
-          "phrase": "our mountain-pass riding guide",
-          "slug": "mountain-pass-riding-motorbike-vietnam",
-          "why": "3/3 words"
-        },
-        {
-          "phrase": "Our navigation guide",
-          "slug": "motorbike-trip-navigation-offline-maps-vietnam",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "our overnight-stays checklist",
-          "slug": "overnight-stays-motorbike-trips-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/hai-van-pass-motorbike-guide.md",
-      "links": [
-        {
-          "phrase": "our Da Nang guide",
-          "slug": "renting-motorbike-da-nang",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our low-visibility guide",
-          "slug": "fog-and-low-visibility-riding-motorbike-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our mountain-pass riding guide",
-          "slug": "mountain-pass-riding-motorbike-vietnam",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/hanoi-2025-administrative-restructuring-riders.md",
-      "links": [
-        {
-          "phrase": "The navigation guide",
-          "slug": "hanoi-navigation-motorbike-guide",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/hanoi-ceramic-mosaic-road-motorbike-route.md",
-      "links": [
-        {
-          "phrase": "the glare guide",
-          "slug": "sun-glare-riding-motorbike-vietnam",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/hanoi-lakes-motorbike-riding-guide.md",
-      "links": [
-        {
-          "phrase": "The seasons guide",
-          "slug": "hanoi-riding-seasons-guide",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/hanoi-motorbike-photo-spots.md",
-      "links": [
-        {
-          "phrase": "the Train Street guide",
-          "slug": "hanoi-train-street-motorbike-guide",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "The seasons guide",
-          "slug": "hanoi-riding-seasons-guide",
-          "why": "unique word among related guides"
+          "phrase": "Our how-far-per-day guide",
+          "slug": "how-far-motorbike-day-trip-hanoi",
+          "why": "cluster 2/2 words"
         }
       ]
     },
@@ -1052,9 +792,14 @@
       "file": "_articles/hanoi-motorbike-scams-riders-guide.md",
       "links": [
         {
-          "phrase": "The rental problems guide",
-          "slug": "common-motorbike-rental-problems-hanoi",
-          "why": "unique word among related guides"
+          "phrase": "The mechanic-conversation guide",
+          "slug": "talking-to-mechanic-vietnam",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "the deposit rules article",
+          "slug": "motorbike-rental-deposit-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1062,49 +807,24 @@
       "file": "_articles/hanoi-motorbike-shops-streets-guide.md",
       "links": [
         {
-          "phrase": "the parts-buying guide",
-          "slug": "buying-parts-physical-markets-vietnam",
-          "why": "2/2 words"
+          "phrase": "the flat-tyre guide",
+          "slug": "flat-tyre-repair-motorbike-vietnam",
+          "why": "reviewed override"
         },
         {
-          "phrase": "the outside-repair guide",
-          "slug": "outside-repair-shops-rental-motorbike",
-          "why": "2/2 words"
+          "phrase": "The helmet standards guide",
+          "slug": "helmet-safety-standards-explained-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/hanoi-motorbike-traffic-culture-first-timers.md",
+      "file": "_articles/hanoi-museums-motorbike-visit-guide.md",
       "links": [
         {
-          "phrase": "The etiquette guide",
-          "slug": "horn-etiquette-motorbike-vietnam",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "filtering guide",
-          "slug": "filtering-through-traffic-motorbike-vietnam",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/hanoi-night-markets-motorbike-guide.md",
-      "links": [
-        {
-          "phrase": "The night-riding safety guide",
-          "slug": "night-riding-motorbike-safety-vietnam",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/hanoi-pagodas-temples-motorbike-guide.md",
-      "links": [
-        {
-          "phrase": "the Ba Dinh guide",
-          "slug": "ba-dinh-area-guide-riders",
-          "why": "2/2 words"
+          "phrase": "the rain-gear guide",
+          "slug": "rain-gear-motorbike-riders-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1112,24 +832,19 @@
       "file": "_articles/hanoi-riding-seasons-guide.md",
       "links": [
         {
-          "phrase": "the heavy-rain guide",
-          "slug": "riding-motorbike-heavy-rain-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "the winter riding guide",
-          "slug": "winter-riding-motorbike-hanoi",
-          "why": "2/2 words"
+          "phrase": "the winter-range guide",
+          "slug": "electric-motorbike-winter-range-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/hanoi-ring-roads-motorbike-guide.md",
+      "file": "_articles/hanoi-street-food-motorbike-ride-guide.md",
       "links": [
         {
-          "phrase": "The expressway guide",
-          "slug": "motorbikes-on-expressway-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "The general parking guide",
+          "slug": "where-to-park-motorbike-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1137,34 +852,19 @@
       "file": "_articles/hanoi-to-ho-chi-minh-city-by-motorbike.md",
       "links": [
         {
-          "phrase": "our QL1A guide",
-          "slug": "highway-1-vietnam-motorbike-riding",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "our long-distance bike guide",
-          "slug": "best-motorbike-for-long-distance-vietnam",
-          "why": "2/2 words"
+          "phrase": "our nationwide seasons guide",
+          "slug": "vietnam-monsoon-season-motorbike-travel",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/hanoi-university-areas-riding-guide.md",
+      "file": "_articles/helmet-locks-theft-vietnam.md",
       "links": [
         {
-          "phrase": "the student licence article",
-          "slug": "foreign-student-motorbike-licence-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/hanoi-weekend-parks-motorbike-outings.md",
-      "links": [
-        {
-          "phrase": "the child-passenger rules guide",
-          "slug": "child-passengers-motorbike-vietnam",
-          "why": "2/3 words"
+          "phrase": "the parking-landscape guide",
+          "slug": "where-to-park-motorbike-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1172,14 +872,19 @@
       "file": "_articles/helmet-rules-50cc-mopeds.md",
       "links": [
         {
-          "phrase": "the fit guide",
-          "slug": "helmet-fit-guide-vietnam",
-          "why": "unique word among related guides"
-        },
+          "phrase": "our helmet-standards article",
+          "slug": "helmet-safety-standards-explained-vietnam",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/high-mileage-rental-motorbike-inspection.md",
+      "links": [
         {
-          "phrase": "our kids' helmets article",
-          "slug": "kids-helmets-choosing-vietnam",
-          "why": "2/2 words"
+          "phrase": "The commute article",
+          "slug": "commuting-by-motorbike-monthly-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1187,9 +892,19 @@
       "file": "_articles/highway-1-vietnam-motorbike-riding.md",
       "links": [
         {
-          "phrase": "our horn-etiquette guide",
-          "slug": "horn-etiquette-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "our QLHCM guide",
+          "slug": "ho-chi-minh-highway-motorbike-guide",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "Our night-riding guide",
+          "slug": "night-riding-motorbike-safety-vietnam",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "our full Hanoi-to-Saigon guide",
+          "slug": "hanoi-to-ho-chi-minh-city-by-motorbike",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1197,14 +912,14 @@
       "file": "_articles/ho-chi-minh-city-riding-first-timers.md",
       "links": [
         {
-          "phrase": "Our horn-etiquette guide",
-          "slug": "horn-etiquette-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "our Saigon rental guide",
+          "slug": "renting-motorbike-ho-chi-minh-city",
+          "why": "reviewed override"
         },
         {
-          "phrase": "our night-riding guide",
-          "slug": "night-riding-motorbike-safety-vietnam",
-          "why": "2/2 words"
+          "phrase": "Our first-time renter guide",
+          "slug": "first-time-renting-a-motorbike-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1212,19 +927,34 @@
       "file": "_articles/ho-chi-minh-highway-motorbike-guide.md",
       "links": [
         {
-          "phrase": "our QL1A guide",
-          "slug": "highway-1-vietnam-motorbike-riding",
-          "why": "unique word among related guides"
+          "phrase": "our rural fuel-and-coverage guide",
+          "slug": "fuel-atm-phone-coverage-rural-rides-vietnam",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "the national seasons guide",
+          "slug": "vietnam-monsoon-season-motorbike-travel",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/honda-air-blade-160-review.md",
+      "file": "_articles/honda-air-blade-125-vs-honda-vario-125.md",
       "links": [
         {
-          "phrase": "our scooter CVT explainer",
-          "slug": "cvt-belt-variator-scooter-vietnam",
-          "why": "2/2 words"
+          "phrase": "our idling-stop explainer",
+          "slug": "stop-and-start-scooters-explained",
+          "why": "cluster 2/2 words"
+        }
+      ]
+    },
+    {
+      "file": "_articles/honda-air-blade-160-vs-honda-lead-125.md",
+      "links": [
+        {
+          "phrase": "see the storage comparison",
+          "slug": "scooter-underseat-storage-comparison",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1232,49 +962,19 @@
       "file": "_articles/honda-blade-drum-vs-disc.md",
       "links": [
         {
-          "phrase": "Our underbone trim versions explainer",
-          "slug": "underbone-trim-versions-explained",
-          "why": "3/3 words"
+          "phrase": "Our disc-versus-drum guide",
+          "slug": "disc-vs-drum-brakes-motorbike",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/honda-blade-vs-honda-future-125.md",
+      "file": "_articles/honda-blade-vs-honda-wave-rsx.md",
       "links": [
         {
-          "phrase": "Our semi-automatic versus scooter guide",
-          "slug": "scooter-vs-semi-automatic-hanoi",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/honda-blade-vs-honda-winner-r.md",
-      "links": [
-        {
-          "phrase": "our 150cc manual guide",
-          "slug": "best-150cc-manual-motorbikes-vietnam-verified",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/honda-cbr150r-review.md",
-      "links": [
-        {
-          "phrase": "our long-distance riding guide",
-          "slug": "best-motorbike-for-long-distance-vietnam",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/honda-cbr150r-vs-honda-super-cub.md",
-      "links": [
-        {
-          "phrase": "our easiest motorbikes for beginners guide",
-          "slug": "easiest-motorbikes-for-beginners-hanoi",
-          "why": "2/2 words"
+          "phrase": "Our alloy-versus-spoked wheels explainer",
+          "slug": "alloy-vs-spoked-wheels-motorbikes",
+          "why": "cluster 3/3 words"
         }
       ]
     },
@@ -1282,54 +982,19 @@
       "file": "_articles/honda-ct125-touring-setup-guide.md",
       "links": [
         {
-          "phrase": "the luggage guide",
-          "slug": "carrying-luggage-motorbike-safely-vietnam",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "our PG-1 versus CT125 guide",
-          "slug": "yamaha-pg-1-vs-honda-ct125",
-          "why": "2/2 words"
+          "phrase": "The high-mileage inspection checklist",
+          "slug": "high-mileage-rental-motorbike-inspection",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/honda-ct125-vs-honda-winner-r.md",
+      "file": "_articles/honda-future-125-riding-guide.md",
       "links": [
         {
-          "phrase": "our gravel-road riding guide",
-          "slug": "gravel-roads-motorbike-vietnam",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/honda-future-125-vs-honda-ct125.md",
-      "links": [
-        {
-          "phrase": "our gravel-road riding guide",
-          "slug": "gravel-roads-motorbike-vietnam",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/honda-future-125-vs-yamaha-sirius.md",
-      "links": [
-        {
-          "phrase": "our commuting guide",
-          "slug": "best-motorbike-for-commuting-hanoi",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/honda-hstc-traction-control-scooters.md",
-      "links": [
-        {
-          "phrase": "our ABS guide",
-          "slug": "which-scooters-have-abs-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "the buyer's checklist",
+          "slug": "underbone-buying-checklist-verified-specs",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1337,14 +1002,19 @@
       "file": "_articles/honda-pgm-fi-explained.md",
       "links": [
         {
-          "phrase": "our cold-start guide",
-          "slug": "cold-start-motorbike-winter-vietnam",
-          "why": "2/2 words"
-        },
+          "phrase": "our carburettor care guide",
+          "slug": "carburettor-cleaning-tuning-vietnam",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/honda-sh-160-vs-honda-vario-160.md",
+      "links": [
         {
-          "phrase": "our injector guide",
-          "slug": "fuel-injector-cleaning-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "our HSTC guide",
+          "slug": "honda-hstc-traction-control-scooters",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1352,44 +1022,49 @@
       "file": "_articles/honda-super-cub-vs-honda-winner-r.md",
       "links": [
         {
-          "phrase": "Our semi-automatic gearbox explainer",
-          "slug": "semi-automatic-gearbox-explained",
-          "why": "3/3 words"
+          "phrase": "our easiest motorbikes for beginners guide",
+          "slug": "easiest-motorbikes-for-beginners-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/honda-vs-yamaha-scooters-vietnam.md",
+      "file": "_articles/honda-vision-vs-honda-lead-125.md",
       "links": [
         {
-          "phrase": "our eSP vs Blue Core explainer",
-          "slug": "esp-vs-blue-core-engines-explained",
-          "why": "3/3 words"
+          "phrase": "Our 110 vs 125 explainer",
+          "slug": "110cc-vs-125cc-scooters",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/honda-wave-alpha-vs-honda-cbr150r.md",
+      "file": "_articles/honda-vision-vs-yamaha-freego-125.md",
       "links": [
         {
-          "phrase": "our automatic-versus-manual guide",
-          "slug": "automatic-vs-manual-motorbike-hanoi",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our rotary-versus-manual-clutch explainer",
-          "slug": "rotary-gearbox-vs-manual-clutch-explained",
-          "why": "3/3 words"
+          "phrase": "Our 110 vs 125 guide",
+          "slug": "110cc-vs-125cc-scooters",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/honda-wave-alpha-vs-honda-wave-rsx.md",
+      "file": "_articles/honda-vision-vs-yamaha-janus.md",
       "links": [
         {
-          "phrase": "our scooter-versus-semi-automatic guide",
-          "slug": "scooter-vs-semi-automatic-hanoi",
-          "why": "3/3 words"
+          "phrase": "our light motorbikes for new riders guide",
+          "slug": "lightest-motorbikes-for-new-riders",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/honda-wave-alpha-vs-honda-blade.md",
+      "links": [
+        {
+          "phrase": "the 110-class data guide",
+          "slug": "best-110cc-underbones-vietnam-verified",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1397,54 +1072,19 @@
       "file": "_articles/honda-wave-alpha-vs-yamaha-sirius.md",
       "links": [
         {
-          "phrase": "our semi-automatic versus scooter guide",
-          "slug": "scooter-vs-semi-automatic-hanoi",
-          "why": "3/3 words"
+          "phrase": "Our Hanoi rental guide",
+          "slug": "how-to-rent-a-motorbike-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/honda-wave-rsx-commuting-guide.md",
+      "file": "_articles/hot-weather-riding-motorbike-vietnam.md",
       "links": [
         {
-          "phrase": "the Future guide",
-          "slug": "honda-future-125-riding-guide",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/honda-wave-rsx-review.md",
-      "links": [
-        {
-          "phrase": "our carburettor versus fuel injection guide",
-          "slug": "carburettor-vs-fuel-injection-vietnam",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/honda-wave-rsx-vs-yamaha-sirius.md",
-      "links": [
-        {
-          "phrase": "our carburettor versus fuel injection guide",
-          "slug": "carburettor-vs-fuel-injection-vietnam",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/hotel-parking-motorbike-hanoi.md",
-      "links": [
-        {
-          "phrase": "the apartment-living guide",
-          "slug": "apartment-living-motorbike-hanoi",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "the home-parking guide",
-          "slug": "home-parking-overnight-security",
-          "why": "2/2 words"
+          "phrase": "the tyre-care article",
+          "slug": "tyre-care-motorbike-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1452,19 +1092,9 @@
       "file": "_articles/how-deposit-returns-work-hanoi.md",
       "links": [
         {
-          "phrase": "The deposit article",
-          "slug": "motorbike-rental-deposit-hanoi",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/how-fast-can-a-50cc-motorbike-go.md",
-      "links": [
-        {
-          "phrase": "the day-trip article",
-          "slug": "50cc-day-trip-range-limits",
-          "why": "2/2 words"
+          "phrase": "the lost-key article",
+          "slug": "lost-key-rental-motorbike-hanoi",
+          "why": "cluster 2/2 words"
         }
       ]
     },
@@ -1472,29 +1102,9 @@
       "file": "_articles/how-long-to-learn-manual-motorbike.md",
       "links": [
         {
-          "phrase": "our beginner bikes guide",
-          "slug": "easiest-motorbikes-for-beginners-hanoi",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/how-to-downshift-smoothly-manual-motorbike.md",
-      "links": [
-        {
-          "phrase": "Our engine-braking guide",
-          "slug": "riding-downhill-motorbike-engine-braking",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/how-to-launch-manual-bike-without-stalling.md",
-      "links": [
-        {
-          "phrase": "Our hill starts guide",
-          "slug": "hill-starts-motorbike-slopes-vietnam",
-          "why": "2/2 words"
+          "phrase": "the transition guide",
+          "slug": "scooter-to-manual-clutch-transition",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1502,44 +1112,34 @@
       "file": "_articles/how-to-read-motorbike-spec-sheet-vietnam.md",
       "links": [
         {
-          "phrase": "our seat height explainer",
-          "slug": "underbone-seat-heights-explained",
-          "why": "2/2 words"
+          "phrase": "Our power and torque explainer",
+          "slug": "underbone-power-torque-explained",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/how-to-ride-manual-clutch-motorbike-vietnam.md",
+      "file": "_articles/hub-vs-mid-motor-electric-motorbikes.md",
       "links": [
         {
-          "phrase": "our A1 licence guide",
-          "slug": "a1-licence-vietnam-what-you-can-ride",
-          "why": "2/2 words"
+          "phrase": "Our power-and-licence guide",
+          "slug": "electric-motorbike-power-kw-licence-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/how-to-shift-gears-semi-automatic-underbone.md",
+      "file": "_articles/hue-motorbike-trip-hanoi.md",
       "links": [
         {
-          "phrase": "the centrifugal clutch care article",
-          "slug": "centrifugal-clutch-care-semi-automatic",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/ip-ratings-electric-motorbikes-explained.md",
-      "links": [
-        {
-          "phrase": "our Hanoi rain guide",
-          "slug": "riding-electric-motorbike-hanoi-rain",
-          "why": "unique word among related guides"
+          "phrase": "our Hanoi parking guide",
+          "slug": "where-to-park-motorbike-hanoi",
+          "why": "reviewed override"
         },
         {
-          "phrase": "our flooded-streets article",
-          "slug": "riding-electric-motorbike-flooded-streets",
-          "why": "2/2 words"
+          "phrase": "our ferry-and-train guide",
+          "slug": "motorbike-ferry-train-transport-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1547,29 +1147,34 @@
       "file": "_articles/is-a-50cc-enough-for-hanoi.md",
       "links": [
         {
-          "phrase": "Our bridges article",
-          "slug": "crossing-hanoi-bridges-motorbike",
-          "why": "unique word among related guides"
+          "phrase": "our pillion article",
+          "slug": "carrying-pillion-50cc-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/kick-vs-electric-start-explained.md",
+      "file": "_articles/lang-son-motorbike-trip-hanoi.md",
       "links": [
         {
-          "phrase": "our dead-battery guide",
-          "slug": "dead-battery-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "Our expressway rules guide",
+          "slug": "motorbikes-on-expressway-vietnam",
+          "why": "reviewed override"
         },
         {
-          "phrase": "our cold-start guide",
-          "slug": "cold-start-motorbike-winter-vietnam",
-          "why": "2/2 words"
-        },
+          "phrase": "Our tourist-riding licence guide",
+          "slug": "can-tourists-ride-motorbike-vietnam",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/late-return-rental-motorbike-hanoi.md",
+      "links": [
         {
-          "phrase": "our starter-motor troubleshooting guide",
-          "slug": "electric-start-starter-motor-problems",
-          "why": "2/3 words"
+          "phrase": "the period article",
+          "slug": "daily-weekly-monthly-motorbike-rental-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1577,69 +1182,19 @@
       "file": "_articles/learning-manual-on-rented-bike-hanoi.md",
       "links": [
         {
-          "phrase": "The where-to-practise guide",
-          "slug": "where-to-practise-riding-hanoi",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "the manual monthly-renting guide",
-          "slug": "monthly-renting-manual-clutch-hanoi",
-          "why": "2/2 words"
+          "phrase": "the rental checklist",
+          "slug": "manual-motorbike-rental-checklist-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/learning-to-ride-on-50cc-vietnam.md",
+      "file": "_articles/list-price-vs-on-road-cost-vietnam.md",
       "links": [
         {
-          "phrase": "Our where-to-practise article",
-          "slug": "where-to-practise-riding-hanoi",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "the licence article",
-          "slug": "50cc-licence-vietnam",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "our age-rules article",
-          "slug": "riding-50cc-at-16-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/led-vs-halogen-scooter-headlights.md",
-      "links": [
-        {
-          "phrase": "our headlight aim guide",
-          "slug": "headlight-aim-adjustment-motorbike",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our bulb replacement guide",
-          "slug": "headlight-bulb-replacement-motorbike",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our night-riding safety guide",
-          "slug": "night-riding-motorbike-safety-vietnam",
-          "why": "3/3 words"
-        },
-        {
-          "phrase": "our aftermarket LED guide",
-          "slug": "aftermarket-led-headlight-bulbs",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/long-bien-area-guide-riders.md",
-      "links": [
-        {
-          "phrase": "the general dyke-riding guide",
-          "slug": "red-river-dyke-riding-guide",
-          "why": "2/3 words"
+          "phrase": "our premium underbones guide",
+          "slug": "premium-underbones-vietnam-verified",
+          "why": "cluster 2/2 words"
         }
       ]
     },
@@ -1647,44 +1202,39 @@
       "file": "_articles/long-distance-electric-motorbike-touring-vietnam.md",
       "links": [
         {
-          "phrase": "The day-trips-from-Hanoi guide",
-          "slug": "electric-motorbike-day-trips-range-planning-hanoi",
-          "why": "2/2 words"
+          "phrase": "the range guide",
+          "slug": "electric-motorbike-range-real-world-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/low-compression-signs-motorbike.md",
+      "file": "_articles/longest-range-scooters-vietnam.md",
       "links": [
         {
-          "phrase": "the knock guide",
-          "slug": "engine-knocking-what-it-means",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "the full used-bike checklist",
-          "slug": "used-motorbike-inspection-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "our fuel gauge article",
+          "slug": "fuel-gauge-inaccurate-motorbike",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/mai-chau-overnight-motorbike-trip-hanoi.md",
+      "file": "_articles/loose-chain-on-rental-motorbike.md",
       "links": [
         {
-          "phrase": "Our overnight-stays guide",
-          "slug": "overnight-stays-motorbike-trips-vietnam",
-          "why": "2/2 words"
-        },
+          "phrase": "the outside-repair article",
+          "slug": "outside-repair-shops-rental-motorbike",
+          "why": "cluster 2/2 words"
+        }
+      ]
+    },
+    {
+      "file": "_articles/lubrication-points-motorbike-vietnam.md",
+      "links": [
         {
-          "phrase": "Our North Vietnam trip-seasons guide",
-          "slug": "motorbike-trip-seasons-north-vietnam",
-          "why": "3/3 words"
-        },
-        {
-          "phrase": "our step-by-step rental guide",
-          "slug": "how-to-rent-a-motorbike-hanoi",
-          "why": "unique word among related guides"
+          "phrase": "the washing guide",
+          "slug": "cleaning-motorbike-properly-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1692,9 +1242,9 @@
       "file": "_articles/manual-motorbike-rental-checklist-hanoi.md",
       "links": [
         {
-          "phrase": "The lever adjustment guide",
-          "slug": "clutch-lever-adjustment-underbones",
-          "why": "2/2 words"
+          "phrase": "The rental fuel policy guide",
+          "slug": "motorbike-rental-fuel-policy-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1702,14 +1252,34 @@
       "file": "_articles/manual-underbone-ownership-costs-hanoi.md",
       "links": [
         {
-          "phrase": "the fuel-habits guide",
-          "slug": "fuel-efficient-riding-habits-underbone",
-          "why": "2/2 words"
+          "phrase": "The dealer-buying guide",
+          "slug": "buying-new-underbone-dealer-guide-vietnam",
+          "why": "cluster 2/2 words"
         },
         {
-          "phrase": "the insurance guide",
-          "slug": "compulsory-motorbike-insurance-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "Our monthly-rental guide",
+          "slug": "monthly-renting-manual-clutch-hanoi",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/mekong-delta-motorbike-guide.md",
+      "links": [
+        {
+          "phrase": "our Saigon rental guide",
+          "slug": "renting-motorbike-ho-chi-minh-city",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "Our nationwide seasons guide",
+          "slug": "vietnam-monsoon-season-motorbike-travel",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "Our renting-vs-buying guide",
+          "slug": "renting-vs-buying-motorbike-vietnam-long-trip",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1717,19 +1287,9 @@
       "file": "_articles/moc-chau-motorbike-trip-hanoi.md",
       "links": [
         {
-          "phrase": "our trip-seasons guide",
-          "slug": "motorbike-trip-seasons-north-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our how-far-per-day guide",
-          "slug": "how-far-motorbike-day-trip-hanoi",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our overnight-stays checklist",
-          "slug": "overnight-stays-motorbike-trips-vietnam",
-          "why": "2/2 words"
+          "phrase": "our northwest loop guide",
+          "slug": "northwest-vietnam-motorbike-loop",
+          "why": "cluster 2/2 words"
         }
       ]
     },
@@ -1737,39 +1297,24 @@
       "file": "_articles/monthly-renting-manual-clutch-hanoi.md",
       "links": [
         {
-          "phrase": "The choosing guide",
-          "slug": "choosing-motorbike-monthly-rental-hanoi",
-          "why": "unique word among related guides"
+          "phrase": "The compulsory-insurance guide",
+          "slug": "compulsory-motorbike-insurance-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/motorbike-bluecard-ownership-papers-vietnam.md",
+      "file": "_articles/most-fuel-efficient-scooters-vietnam-verified.md",
       "links": [
         {
-          "phrase": "Our buying guide",
-          "slug": "buying-motorbike-as-tourist-vietnam",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/motorbike-border-crossing-vietnam-cambodia.md",
-      "links": [
+          "phrase": "our riding-habits guide",
+          "slug": "improving-fuel-economy-motorbike",
+          "why": "reviewed override"
+        },
         {
-          "phrase": "our travel-insurance guide",
-          "slug": "motorbike-travel-insurance-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/motorbike-border-crossing-vietnam-laos.md",
-      "links": [
-        {
-          "phrase": "Our bluecard guide",
-          "slug": "motorbike-bluecard-ownership-papers-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "our rental fuel policy article",
+          "slug": "motorbike-rental-fuel-policy-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1777,59 +1322,59 @@
       "file": "_articles/motorbike-engine-codes-explained.md",
       "links": [
         {
-          "phrase": "our PGM-FI guide",
-          "slug": "honda-pgm-fi-explained",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our VVA explainer",
-          "slug": "yamaha-vva-variable-valve-timing-explained",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "our eSP vs Blue Core guide",
-          "slug": "esp-vs-blue-core-engines-explained",
-          "why": "3/3 words"
+          "phrase": "Our SOHC vs DOHC explainer",
+          "slug": "sohc-vs-dohc-underbones-explained",
+          "why": "cluster 2/2 words"
         }
       ]
     },
     {
-      "file": "_articles/motorbike-parking-vietnamese-cities.md",
+      "file": "_articles/motorbike-trip-budget-from-hanoi.md",
       "links": [
         {
-          "phrase": "our helmet-lock guide",
-          "slug": "helmet-locks-theft-vietnam",
-          "why": "2/2 words"
+          "phrase": "our rental price guide",
+          "slug": "motorbike-rental-price-hanoi",
+          "why": "reviewed override"
         },
         {
-          "phrase": "our hotel parking guide",
-          "slug": "hotel-parking-motorbike-hanoi",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our rental theft-responsibility guide",
-          "slug": "theft-loss-responsibility-rental-motorbike-hanoi",
-          "why": "2/2 words"
+          "phrase": "the coverage and ATM guide",
+          "slug": "fuel-atm-phone-coverage-rural-rides-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/motorbike-rental-deposit-hanoi.md",
+      "file": "_articles/motorbike-trip-prep-checklist-hanoi.md",
       "links": [
         {
-          "phrase": "theft-responsibility article",
-          "slug": "theft-loss-responsibility-rental-motorbike-hanoi",
-          "why": "2/2 words"
+          "phrase": "see the unlit-rural-roads guide",
+          "slug": "unlit-rural-roads-night-motorbike-vietnam",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "the riding-seasons guide",
+          "slug": "motorbike-trip-seasons-north-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/motorbike-travel-insurance-vietnam.md",
+      "file": "_articles/motorbike-trip-seasons-north-vietnam.md",
       "links": [
         {
-          "phrase": "our compulsory-insurance guide",
-          "slug": "compulsory-motorbike-insurance-vietnam",
-          "why": "2/2 words"
+          "phrase": "see the Hanoi riding-seasons guide",
+          "slug": "hanoi-riding-seasons-guide",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/nhat-tan-flower-fields-motorbike-ride.md",
+      "links": [
+        {
+          "phrase": "The cargo guide",
+          "slug": "cargo-nets-bungee-cords-motorbike",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1837,29 +1382,39 @@
       "file": "_articles/northeast-vietnam-motorbike-loop.md",
       "links": [
         {
-          "phrase": "our overnight-stays checklist",
-          "slug": "overnight-stays-motorbike-trips-vietnam",
-          "why": "2/2 words"
+          "phrase": "Our day-distance guide",
+          "slug": "how-far-motorbike-day-trip-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/northwest-vietnam-motorbike-loop.md",
+      "file": "_articles/old-quarter-one-way-streets-riding.md",
       "links": [
         {
-          "phrase": "the overnight-stays checklist",
-          "slug": "overnight-stays-motorbike-trips-vietnam",
-          "why": "2/2 words"
+          "phrase": "The horn etiquette guide",
+          "slug": "horn-etiquette-motorbike-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/overnight-stays-motorbike-trips-vietnam.md",
+      "file": "_articles/one-way-motorbike-rental-vietnam.md",
       "links": [
         {
-          "phrase": "the rental-security guide",
-          "slug": "home-parking-overnight-security",
-          "why": "unique word among related guides"
+          "phrase": "Our full route guide",
+          "slug": "vietnam-motorbike-backpacker-trail",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/outside-repair-shops-rental-motorbike.md",
+      "links": [
+        {
+          "phrase": "the puncture article",
+          "slug": "punctured-tyre-on-rental-motorbike",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1867,24 +1422,24 @@
       "file": "_articles/phong-nha-motorbike-trip-hanoi.md",
       "links": [
         {
-          "phrase": "our overnight-stays checklist",
-          "slug": "overnight-stays-motorbike-trips-vietnam",
-          "why": "2/2 words"
+          "phrase": "our ferry-and-train guide",
+          "slug": "motorbike-ferry-train-transport-vietnam",
+          "why": "reviewed override"
         },
         {
-          "phrase": "our budget guide",
-          "slug": "motorbike-trip-budget-from-hanoi",
-          "why": "unique word among related guides"
+          "phrase": "our pre-trip service guide",
+          "slug": "servicing-before-long-trip-motorbike",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/premium-underbones-vietnam-verified.md",
+      "file": "_articles/premium-scooters-vietnam.md",
       "links": [
         {
-          "phrase": "our premium scooters guide",
-          "slug": "premium-scooters-vietnam",
-          "why": "2/2 words"
+          "phrase": "our parking guide",
+          "slug": "where-to-park-motorbike-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1892,29 +1447,14 @@
       "file": "_articles/pu-luong-motorbike-trip-hanoi.md",
       "links": [
         {
-          "phrase": "our Mai Chau guide",
-          "slug": "mai-chau-overnight-motorbike-trip-hanoi",
-          "why": "2/2 words"
+          "phrase": "Our day-distance guide",
+          "slug": "how-far-motorbike-day-trip-hanoi",
+          "why": "reviewed override"
         },
         {
-          "phrase": "Our overnight-stays checklist",
-          "slug": "overnight-stays-motorbike-trips-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our Ninh Binh guide",
-          "slug": "ninh-binh-day-trip-motorbike-hanoi",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/push-start-motorbike-safely.md",
-      "links": [
-        {
-          "phrase": "the battery drain guide",
-          "slug": "battery-draining-overnight-motorbike",
-          "why": "2/2 words"
+          "phrase": "our mountain-pass guide",
+          "slug": "mountain-pass-riding-motorbike-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1922,29 +1462,19 @@
       "file": "_articles/reading-scooter-spec-sheet.md",
       "links": [
         {
-          "phrase": "our rental inspection checklist",
-          "slug": "rental-motorbike-inspection-checklist",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/rental-motorbike-breakdown-hanoi.md",
-      "links": [
+          "phrase": "our light bikes guide",
+          "slug": "best-lightweight-scooters-beginners-vietnam",
+          "why": "reviewed override"
+        },
         {
-          "phrase": "The outside-repair article",
-          "slug": "outside-repair-shops-rental-motorbike",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/rental-motorbike-feels-wrong.md",
-      "links": [
+          "phrase": "Our power and torque explainer",
+          "slug": "scooter-power-torque-explained",
+          "why": "reviewed override"
+        },
         {
-          "phrase": "the chain article",
-          "slug": "loose-chain-on-rental-motorbike",
-          "why": "unique word among related guides"
+          "phrase": "our speed limits guide",
+          "slug": "motorbike-speed-limits-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1952,9 +1482,14 @@
       "file": "_articles/renting-motorbike-da-nang.md",
       "links": [
         {
-          "phrase": "Our dedicated Hai Van Pass guide",
-          "slug": "hai-van-pass-motorbike-guide",
-          "why": "3/3 words"
+          "phrase": "our nationwide seasons guide",
+          "slug": "vietnam-monsoon-season-motorbike-travel",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "our after-rain surface guide",
+          "slug": "after-rain-slippery-roads-motorbike",
+          "why": "reviewed override"
         }
       ]
     },
@@ -1962,39 +1497,49 @@
       "file": "_articles/renting-motorbike-ho-chi-minh-city.md",
       "links": [
         {
-          "phrase": "our first-timers' guide",
-          "slug": "ho-chi-minh-city-riding-first-timers",
-          "why": "2/2 words"
+          "phrase": "our Mekong Delta riding guide",
+          "slug": "mekong-delta-motorbike-guide",
+          "why": "cluster 3/3 words"
         }
       ]
     },
     {
-      "file": "_articles/returning-a-rental-motorbike-hanoi.md",
+      "file": "_articles/renting-motorbike-hue.md",
       "links": [
         {
-          "phrase": "The early-return article",
-          "slug": "early-return-rental-motorbike-hanoi",
-          "why": "2/2 words"
+          "phrase": "our national parking guide",
+          "slug": "motorbike-parking-vietnamese-cities",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/riding-50cc-at-16-vietnam.md",
+      "file": "_articles/renting-motorbike-nha-trang.md",
       "links": [
         {
-          "phrase": "Our training article",
-          "slug": "50cc-training-high-school-vietnam",
-          "why": "unique word among related guides"
-        },
+          "phrase": "Our nationwide monsoon guide",
+          "slug": "vietnam-monsoon-season-motorbike-travel",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/renting-vs-buying-a-motorbike-hanoi.md",
+      "links": [
         {
-          "phrase": "our parents' guide",
-          "slug": "buying-50cc-for-your-teenager-vietnam",
-          "why": "unique word among related guides"
-        },
+          "phrase": "The monthly-rate article",
+          "slug": "motorbike-rental-monthly-price-hanoi",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/renting-vs-buying-motorbike-vietnam-long-trip.md",
+      "links": [
         {
-          "phrase": "The licence article",
-          "slug": "50cc-licence-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "Our how-to-rent guide",
+          "slug": "how-to-rent-a-motorbike-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2002,34 +1547,9 @@
       "file": "_articles/riding-50cc-hanoi-traffic.md",
       "links": [
         {
-          "phrase": "Our defensive riding article",
-          "slug": "defensive-riding-motorbike-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our filtering guide",
-          "slug": "filtering-through-traffic-motorbike-vietnam",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "Our emergency braking article",
-          "slug": "emergency-braking-motorbike-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/riding-electric-motorbike-flooded-streets.md",
-      "links": [
-        {
-          "phrase": "the general flooded-street riding guide",
-          "slug": "flooded-streets-riding-motorbike-vietnam",
-          "why": "3/4 words"
-        },
-        {
-          "phrase": "our battery-health article",
-          "slug": "electric-motorbike-battery-health-check",
-          "why": "2/2 words"
+          "phrase": "Our bridges article",
+          "slug": "50cc-hills-bridges-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2037,9 +1557,64 @@
       "file": "_articles/riding-electric-motorbike-hanoi-rain.md",
       "links": [
         {
-          "phrase": "our washing guide",
-          "slug": "washing-electric-motorbike-safely",
-          "why": "unique word among related guides"
+          "phrase": "our flooded-street riding guide",
+          "slug": "riding-electric-motorbike-flooded-streets",
+          "why": "cluster 3/3 words"
+        }
+      ]
+    },
+    {
+      "file": "_articles/riding-electric-motorbike-hills-bridges-hanoi.md",
+      "links": [
+        {
+          "phrase": "our regen guide",
+          "slug": "regen-braking-explained-electric",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/riding-gear-sizing-fit-foreign-riders.md",
+      "links": [
+        {
+          "phrase": "the ergonomics article",
+          "slug": "handlebar-raisers-riding-ergonomics",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/riding-honda-wave-alpha-110-guide.md",
+      "links": [
+        {
+          "phrase": "The semi-auto renting guide",
+          "slug": "renting-semi-automatic-underbone-hanoi",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "the rental checklist",
+          "slug": "manual-motorbike-rental-checklist-hanoi",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/riding-semi-auto-gravel-roads.md",
+      "links": [
+        {
+          "phrase": "the chain-maintenance guide",
+          "slug": "chain-maintenance-motorbike-vietnam",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/riding-semi-automatic-first-time.md",
+      "links": [
+        {
+          "phrase": "our beginner-friendly bikes guide",
+          "slug": "best-manual-clutch-motorbikes-beginners-verified",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2047,54 +1622,14 @@
       "file": "_articles/riding-six-speed-manual-winner-exciter.md",
       "links": [
         {
-          "phrase": "Our 150cc manual buyers guide",
-          "slug": "best-150cc-manual-motorbikes-vietnam-verified",
-          "why": "2/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/safety-gear-teen-50cc-riders.md",
-      "links": [
-        {
-          "phrase": "The fit guide",
-          "slug": "helmet-fit-guide-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "our assist-and-slipper guide",
+          "slug": "assist-slipper-clutch-explained",
+          "why": "reviewed override"
         },
         {
-          "phrase": "the standards article",
-          "slug": "helmet-safety-standards-explained-vietnam",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "our eye-protection article",
-          "slug": "eye-protection-riding-motorbike-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our riders' first-aid article",
-          "slug": "first-aid-kit-motorbike-riders-vietnam",
-          "why": "3/3 words"
-        },
-        {
-          "phrase": "The parents' guide",
-          "slug": "buying-50cc-for-your-teenager-vietnam",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/sapa-motorbike-trip-hanoi.md",
-      "links": [
-        {
-          "phrase": "our northwest loop guide",
-          "slug": "northwest-vietnam-motorbike-loop",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our overnight-stays checklist",
-          "slug": "overnight-stays-motorbike-trips-vietnam",
-          "why": "2/2 words"
+          "phrase": "the launch guide",
+          "slug": "how-to-launch-manual-bike-without-stalling",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2102,9 +1637,14 @@
       "file": "_articles/scooter-cbs-ubs-combined-braking-explained.md",
       "links": [
         {
-          "phrase": "our disc vs drum guide",
-          "slug": "disc-vs-drum-brakes-motorbike",
-          "why": "2/2 words"
+          "phrase": "our ABS guide",
+          "slug": "which-scooters-have-abs-vietnam",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "our rainy-season guide",
+          "slug": "best-scooters-rainy-season-commuting-vietnam",
+          "why": "cluster 2/2 words"
         }
       ]
     },
@@ -2112,49 +1652,19 @@
       "file": "_articles/scooter-displacement-numbers-explained.md",
       "links": [
         {
-          "phrase": "Our licence classes guide",
-          "slug": "vietnam-motorbike-licence-classes-explained",
-          "why": "2/2 words"
+          "phrase": "our documents guide",
+          "slug": "documents-to-carry-motorbike-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/scooter-ground-clearance-compared-vietnam.md",
+      "file": "_articles/scooter-fuel-economy-figures-explained.md",
       "links": [
         {
-          "phrase": "our flooded-streets guide",
-          "slug": "flooded-streets-riding-motorbike-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/scooter-kerb-weights-vietnam-verified.md",
-      "links": [
-        {
-          "phrase": "our lightest motorbikes guide",
-          "slug": "lightest-motorbikes-for-new-riders",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/scooter-payload-load-limits-vietnam.md",
-      "links": [
-        {
-          "phrase": "Our two-up guide",
-          "slug": "best-scooters-two-up-riding-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/scooter-power-to-weight-explained.md",
-      "links": [
-        {
-          "phrase": "our Hanoi hills guide",
-          "slug": "best-scooters-hanoi-hills-bridges",
-          "why": "unique word among related guides"
+          "phrase": "our economy-improvement guide",
+          "slug": "improving-fuel-economy-motorbike",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2162,9 +1672,9 @@
       "file": "_articles/scooter-power-torque-explained.md",
       "links": [
         {
-          "phrase": "our CVT explainer",
-          "slug": "cvt-belt-variator-scooter-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "Our two-up riding guide",
+          "slug": "best-scooters-two-up-riding-vietnam",
+          "why": "cluster 3/3 words"
         }
       ]
     },
@@ -2172,19 +1682,9 @@
       "file": "_articles/scooter-tft-vs-lcd-displays.md",
       "links": [
         {
-          "phrase": "Our scooter spec sheet reading guide",
-          "slug": "reading-scooter-spec-sheet",
-          "why": "4/4 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/scooter-to-manual-clutch-transition.md",
-      "links": [
-        {
-          "phrase": "our beginner manual bikes guide",
-          "slug": "best-manual-clutch-motorbikes-beginners-verified",
-          "why": "2/2 words"
+          "phrase": "our warning lights guide",
+          "slug": "motorbike-warning-lights-meaning",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2192,29 +1692,9 @@
       "file": "_articles/scooter-trim-versions-explained.md",
       "links": [
         {
-          "phrase": "our ABS guide",
-          "slug": "which-scooters-have-abs-vietnam",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/scooter-tyre-sizes-explained.md",
-      "links": [
-        {
-          "phrase": "our tubeless vs inner tube explainer",
-          "slug": "inner-tubes-vs-tubeless-motorbike",
-          "why": "2/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/scooter-underseat-storage-comparison.md",
-      "links": [
-        {
-          "phrase": "our passenger helmet guide",
-          "slug": "second-helmet-passengers-vietnam",
-          "why": "2/2 words"
+          "phrase": "Our verified price guide",
+          "slug": "new-scooter-prices-vietnam-verified",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2222,44 +1702,24 @@
       "file": "_articles/scooter-valve-counts-explained.md",
       "links": [
         {
-          "phrase": "Our eSP vs Blue Core guide",
-          "slug": "esp-vs-blue-core-engines-explained",
-          "why": "3/3 words"
+          "phrase": "our valve clearance guide",
+          "slug": "valve-clearances-motorbike-basics",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/scooter-warranty-vietnam-explained.md",
+      "file": "_articles/scooter-wheelbase-stability-explained.md",
       "links": [
         {
-          "phrase": "our aftermarket warranty article",
-          "slug": "aftermarket-parts-warranty",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/scooters-with-smart-keys-vietnam-verified.md",
-      "links": [
-        {
-          "phrase": "Our smart-key guide",
-          "slug": "smart-key-scooters-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/scooters-with-usb-c-charging-verified.md",
-      "links": [
-        {
-          "phrase": "our USB chargers guide",
-          "slug": "usb-chargers-motorbike-power",
-          "why": "2/2 words"
+          "phrase": "see our kerb weight table",
+          "slug": "scooter-kerb-weights-vietnam-verified",
+          "why": "reviewed override"
         },
         {
-          "phrase": "our phone mounts guide",
-          "slug": "phone-mounts-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "our inspection checklist",
+          "slug": "rental-motorbike-inspection-checklist",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2267,29 +1727,29 @@
       "file": "_articles/self-drive-vs-easy-rider-vietnam.md",
       "links": [
         {
-          "phrase": "our offline navigation guide",
-          "slug": "motorbike-trip-navigation-offline-maps-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our travel-insurance article",
-          "slug": "motorbike-travel-insurance-vietnam",
-          "why": "2/2 words"
+          "phrase": "our first-time renter's guide",
+          "slug": "first-time-renting-a-motorbike-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/semi-auto-to-manual-clutch-upgrade.md",
+      "file": "_articles/selling-motorbike-before-leaving-vietnam.md",
       "links": [
         {
-          "phrase": "Our who-needs-a-manual-150 guide",
-          "slug": "who-needs-150cc-manual-motorbike",
-          "why": "2/3 words"
-        },
+          "phrase": "Our renting-vs-buying guide",
+          "slug": "renting-vs-buying-motorbike-vietnam-long-trip",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/semi-auto-carrying-cargo.md",
+      "links": [
         {
-          "phrase": "our manual first-timer guide",
-          "slug": "how-to-ride-manual-clutch-motorbike-vietnam",
-          "why": "2/3 words"
+          "phrase": "The general luggage guide",
+          "slug": "carrying-luggage-motorbike-safely-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2297,49 +1757,19 @@
       "file": "_articles/single-cylinder-underbone-engines-explained.md",
       "links": [
         {
-          "phrase": "our air-versus-liquid cooling guide",
-          "slug": "air-cooled-vs-liquid-cooled-motorbike",
-          "why": "3/3 words"
+          "phrase": "our knocking-noises guide",
+          "slug": "engine-knocking-what-it-means",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/slow-speed-clutch-balance-manual-motorbike.md",
+      "file": "_articles/sohc-vs-dohc-underbones-explained.md",
       "links": [
         {
-          "phrase": "our practice checklist",
-          "slug": "clutch-control-friction-zone-practice",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/small-vs-big-scooter-wheels.md",
-      "links": [
-        {
-          "phrase": "Our tyre sizes guide",
-          "slug": "scooter-tyre-sizes-explained",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/smart-key-scooters-vietnam.md",
-      "links": [
-        {
-          "phrase": "our lost-key guide",
-          "slug": "lost-key-rental-motorbike-hanoi",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/smoothing-semi-auto-launch-jerk.md",
-      "links": [
-        {
-          "phrase": "the clutch-care guide",
-          "slug": "centrifugal-clutch-care-semi-automatic",
-          "why": "2/2 words"
+          "phrase": "Our valve-clearance guide",
+          "slug": "valve-clearances-motorbike-basics",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2347,29 +1777,9 @@
       "file": "_articles/sport-underbone-touring-vietnam.md",
       "links": [
         {
-          "phrase": "our luggage-carrying guide",
-          "slug": "carrying-luggage-motorbike-safely-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "Our 150cc manual guide",
-          "slug": "best-150cc-manual-motorbikes-vietnam-verified",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "the day-trips-from-Hanoi guide",
-          "slug": "best-motorbike-for-day-trips-from-hanoi",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/staying-visible-electric-motorbike.md",
-      "links": [
-        {
-          "phrase": "Our silent-riding safety guide",
-          "slug": "electric-motorbike-silent-riding-safety",
-          "why": "3/3 words"
+          "phrase": "Our fuel-range explainer",
+          "slug": "underbone-fuel-tank-range-explained",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2377,9 +1787,34 @@
       "file": "_articles/stop-and-start-scooters-explained.md",
       "links": [
         {
-          "phrase": "our fuel injection explainer",
-          "slug": "carburettor-vs-fuel-injection-vietnam",
-          "why": "2/2 words"
+          "phrase": "our improving-fuel-economy guide",
+          "slug": "improving-fuel-economy-motorbike",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/switching-bikes-mid-rental-hanoi.md",
+      "links": [
+        {
+          "phrase": "the complete checklist",
+          "slug": "rental-motorbike-inspection-checklist",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/tcs-vs-abs-scooters-vietnam.md",
+      "links": [
+        {
+          "phrase": "Our ABS availability guide",
+          "slug": "which-scooters-have-abs-vietnam",
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "our mountain pass guide",
+          "slug": "mountain-pass-riding-motorbike-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2387,39 +1822,54 @@
       "file": "_articles/teaching-teens-50cc-safe-riding.md",
       "links": [
         {
-          "phrase": "Our age-rules article",
-          "slug": "riding-50cc-at-16-vietnam",
-          "why": "2/2 words"
+          "phrase": "our practice-spaces article",
+          "slug": "where-to-practise-riding-hanoi",
+          "why": "reviewed override"
         },
         {
-          "phrase": "the teen gear article",
-          "slug": "safety-gear-teen-50cc-riders",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "Our training article",
-          "slug": "50cc-training-high-school-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "the emergency braking article",
+          "slug": "emergency-braking-motorbike-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/thang-long-imperial-citadel-motorbike-guide.md",
+      "file": "_articles/test-riding-electric-motorbike-vietnam.md",
       "links": [
         {
-          "phrase": "the Ba Dinh guide",
-          "slug": "ba-dinh-area-guide-riders",
-          "why": "2/2 words"
+          "phrase": "The silent-safety guide",
+          "slug": "electric-motorbike-silent-riding-safety",
+          "why": "cluster 2/2 words"
         }
       ]
     },
     {
-      "file": "_articles/tyre-age-replace-by-date.md",
+      "file": "_articles/tet-holiday-motorbike-travel-vietnam.md",
       "links": [
         {
-          "phrase": "the used-bike checklist",
-          "slug": "used-motorbike-inspection-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "Our pre-trip servicing guide",
+          "slug": "servicing-before-long-trip-motorbike",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/theft-loss-responsibility-rental-motorbike-hanoi.md",
+      "links": [
+        {
+          "phrase": "The deposit article",
+          "slug": "motorbike-rental-deposit-hanoi",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/touring-semi-auto-underbone.md",
+      "links": [
+        {
+          "phrase": "the cargo guide",
+          "slug": "semi-auto-carrying-cargo",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2427,9 +1877,9 @@
       "file": "_articles/underbone-frame-design-explained.md",
       "links": [
         {
-          "phrase": "Our semi-automatic gearbox explainer",
-          "slug": "semi-automatic-gearbox-explained",
-          "why": "3/3 words"
+          "phrase": "our post-fall inspection checklist",
+          "slug": "checking-motorbike-after-fall-accident",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2437,49 +1887,29 @@
       "file": "_articles/underbone-fuel-economy-figures-explained.md",
       "links": [
         {
-          "phrase": "our test-cycles explainer",
-          "slug": "fuel-economy-test-cycles-explained",
-          "why": "2/2 words"
+          "phrase": "Our fuel-economy improvement guide",
+          "slug": "improving-fuel-economy-motorbike",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/underbone-fuel-tank-range-explained.md",
+      "file": "_articles/underbone-kerb-weights-explained.md",
       "links": [
         {
-          "phrase": "Our longest-range underbones guide",
-          "slug": "longest-range-underbones-vietnam-verified",
-          "why": "3/3 words"
+          "phrase": "Our wet-versus-dry weight explainer",
+          "slug": "wet-vs-dry-weight-explained",
+          "why": "cluster 3/3 words"
         }
       ]
     },
     {
-      "file": "_articles/underbone-list-prices-vietnam-ladder.md",
+      "file": "_articles/underbone-power-torque-explained.md",
       "links": [
         {
-          "phrase": "our list-price vs on-road explainer",
-          "slug": "list-price-vs-on-road-cost-vietnam",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/underbone-model-years-explained.md",
-      "links": [
-        {
-          "phrase": "Our trim-versions explainer",
-          "slug": "underbone-trim-versions-explained",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our used-inspection guide",
-          "slug": "used-motorbike-inspection-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our availability guide",
-          "slug": "spare-parts-availability-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "our commuting guide",
+          "slug": "best-underbones-hanoi-commuting-verified",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2487,44 +1917,14 @@
       "file": "_articles/underbone-storage-options-explained.md",
       "links": [
         {
-          "phrase": "our luggage-carrying guide",
-          "slug": "carrying-luggage-motorbike-safely-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/underbone-trim-versions-explained.md",
-      "links": [
-        {
-          "phrase": "our disc-versus-drum guide",
-          "slug": "disc-vs-drum-brakes-motorbike",
-          "why": "2/2 words"
+          "phrase": "our basket guide",
+          "slug": "front-baskets-scooters-vietnam",
+          "why": "reviewed override"
         },
         {
-          "phrase": "our ABS guide",
-          "slug": "abs-on-underbones-vietnam-explained",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "our wheels explainer",
-          "slug": "alloy-vs-spoked-wheels-motorbikes",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/underbone-tyre-sizes-explained.md",
-      "links": [
-        {
-          "phrase": "our inner-tubes-versus-tubeless guide",
-          "slug": "inner-tubes-vs-tubeless-motorbike",
-          "why": "3/3 words"
-        },
-        {
-          "phrase": "our tyre-care guide",
-          "slug": "tyre-care-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "our delivery guide",
+          "slug": "best-underbones-delivery-riders-verified",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2532,19 +1932,9 @@
       "file": "_articles/upgrading-from-50cc-to-110cc.md",
       "links": [
         {
-          "phrase": "the licence article",
-          "slug": "a1-licence-vietnam-what-you-can-ride",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "our resale article",
-          "slug": "50cc-resale-value-vietnam",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "our 50cc-versus-110cc article",
-          "slug": "50cc-vs-110cc-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "our disc-versus-drum article",
+          "slug": "disc-vs-drum-brakes-motorbike",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2552,29 +1942,19 @@
       "file": "_articles/used-50cc-inspection-checklist.md",
       "links": [
         {
-          "phrase": "Our used-sport-underbone guide",
-          "slug": "buying-used-sport-underbone-verified",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/v-green-battery-swap-network-guide.md",
-      "links": [
+          "phrase": "Our diagnosing-noises article",
+          "slug": "diagnosing-motorbike-noises-vietnam",
+          "why": "reviewed override"
+        },
         {
-          "phrase": "the where-to-charge guide",
-          "slug": "where-to-charge-electric-motorbike-hanoi",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/van-phuc-silk-village-motorbike-ride.md",
-      "links": [
+          "phrase": "our battery guide",
+          "slug": "battery-care-motorbike-vietnam",
+          "why": "reviewed override"
+        },
         {
-          "phrase": "The luggage guide",
-          "slug": "carrying-luggage-motorbike-safely-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "our tyre guide",
+          "slug": "50cc-tyres-small-wheels-care",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2582,14 +1962,19 @@
       "file": "_articles/vietnam-monsoon-season-motorbike-travel.md",
       "links": [
         {
-          "phrase": "Our after-rain surfaces guide",
-          "slug": "after-rain-slippery-roads-motorbike",
-          "why": "2/3 words"
-        },
+          "phrase": "our Hanoi seasons guide",
+          "slug": "hanoi-riding-seasons-guide",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/vietnam-motorbike-backpacker-trail.md",
+      "links": [
         {
-          "phrase": "our low-visibility guide",
-          "slug": "fog-and-low-visibility-riding-motorbike-vietnam",
-          "why": "2/2 words"
+          "phrase": "Our full route guide",
+          "slug": "hanoi-to-ho-chi-minh-city-by-motorbike",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2597,9 +1982,9 @@
       "file": "_articles/vietnam-road-signs-guide.md",
       "links": [
         {
-          "phrase": "our offline-navigation guide",
-          "slug": "motorbike-trip-navigation-offline-maps-vietnam",
-          "why": "2/2 words"
+          "phrase": "our ferry guide",
+          "slug": "motorbike-ferry-train-transport-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2607,39 +1992,29 @@
       "file": "_articles/vietnam-traffic-culture-riding-overview.md",
       "links": [
         {
-          "phrase": "our horn etiquette guide",
-          "slug": "horn-etiquette-motorbike-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our night-riding guide",
-          "slug": "night-riding-motorbike-safety-vietnam",
-          "why": "2/2 words"
+          "phrase": "our wet-surfaces guide",
+          "slug": "slippery-city-surfaces-motorbike",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/vinfast-evo-lite-review.md",
+      "file": "_articles/vinfast-viper-vs-evo.md",
       "links": [
         {
-          "phrase": "The speed-classes guide",
-          "slug": "electric-two-wheeler-speed-classes-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "the riding-at-16 article",
-          "slug": "riding-electric-moped-16-vietnam",
-          "why": "2/2 words"
+          "phrase": "the line-up guide",
+          "slug": "vinfast-electric-scooter-lineup-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/vinfast-vs-dat-bike-ecosystems.md",
+      "file": "_articles/warranty-dealer-service-vietnam.md",
       "links": [
         {
-          "phrase": "our swap-versus-charging guide",
-          "slug": "battery-swap-vs-home-charging-vietnam",
-          "why": "2/2 words"
+          "phrase": "the genuine-vs-counterfeit guide",
+          "slug": "genuine-vs-fake-parts-motorbike-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2647,29 +2022,9 @@
       "file": "_articles/week-one-manual-clutch-practice-plan.md",
       "links": [
         {
-          "phrase": "The slow-speed clutch guide",
-          "slug": "slow-speed-clutch-balance-manual-motorbike",
-          "why": "3/3 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/west-lake-loop-motorbike-route.md",
-      "links": [
-        {
-          "phrase": "the sun-glare guide",
-          "slug": "sun-glare-riding-motorbike-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/wet-vs-dry-weight-explained.md",
-      "links": [
-        {
-          "phrase": "Our kerb-weights explainer",
-          "slug": "underbone-kerb-weights-explained",
-          "why": "2/2 words"
+          "phrase": "the realistic timeline article",
+          "slug": "how-long-to-learn-manual-motorbike",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2677,19 +2032,24 @@
       "file": "_articles/what-a-50cc-service-includes-vietnam.md",
       "links": [
         {
-          "phrase": "our air-filter article",
-          "slug": "air-filter-care-motorbike-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "the chain article",
-          "slug": "chain-maintenance-motorbike-vietnam",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "our maintenance checks article",
+          "phrase": "the checking article",
           "slug": "50cc-weekly-maintenance-checks",
-          "why": "2/2 words"
+          "why": "reviewed override"
+        },
+        {
+          "phrase": "our carburettor-versus-injection article",
+          "slug": "carburettor-vs-fuel-injection-vietnam",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/what-is-a-50cc-motorbike-vietnam.md",
+      "links": [
+        {
+          "phrase": "Our grey-import guide",
+          "slug": "grey-import-50cc-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2697,29 +2057,9 @@
       "file": "_articles/what-is-included-motorbike-rental-hanoi.md",
       "links": [
         {
-          "phrase": "The insurance article",
-          "slug": "is-insurance-included-motorbike-rental-hanoi",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/what-to-carry-riding-motorbike-vietnam.md",
-      "links": [
-        {
-          "phrase": "documents article",
-          "slug": "documents-to-carry-motorbike-vietnam",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/where-to-practise-riding-hanoi.md",
-      "links": [
-        {
-          "phrase": "our first-hour checklist",
-          "slug": "first-hour-manual-clutch-practice-checklist",
-          "why": "2/2 words"
+          "phrase": "The breakdown article",
+          "slug": "rental-motorbike-breakdown-hanoi",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2727,9 +2067,9 @@
       "file": "_articles/which-scooter-engine-class-vietnam.md",
       "links": [
         {
-          "phrase": "our class guide",
-          "slug": "best-155-160cc-scooters-vietnam",
-          "why": "unique word among related guides"
+          "phrase": "our 110 vs 125 explainer",
+          "slug": "110cc-vs-125cc-scooters",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2737,14 +2077,9 @@
       "file": "_articles/which-scooters-have-abs-vietnam.md",
       "links": [
         {
-          "phrase": "Our emergency braking guide",
-          "slug": "emergency-braking-motorbike-vietnam",
-          "why": "2/2 words"
-        },
-        {
-          "phrase": "our HSTC explainer",
-          "slug": "honda-hstc-traction-control-scooters",
-          "why": "unique word among related guides"
+          "phrase": "our post-rain surface guide",
+          "slug": "after-rain-slippery-roads-motorbike",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2752,59 +2087,74 @@
       "file": "_articles/who-rides-50cc-motorbikes-vietnam.md",
       "links": [
         {
-          "phrase": "our age-rules article",
-          "slug": "riding-50cc-at-16-vietnam",
-          "why": "2/2 words"
+          "phrase": "the upgrade article",
+          "slug": "upgrading-from-50cc-to-110cc",
+          "why": "reviewed override"
         },
         {
-          "phrase": "the grey-import guide",
-          "slug": "grey-import-50cc-vietnam",
-          "why": "2/2 words"
+          "phrase": "Our foreigners article",
+          "slug": "can-foreigners-ride-50cc-vietnam",
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/xe-so-vs-xe-con-tay-explained.md",
+      "file": "_articles/why-17-inch-wheels-underbones.md",
       "links": [
         {
-          "phrase": "Our semi-automatic gearbox explainer",
-          "slug": "semi-automatic-gearbox-explained",
-          "why": "3/3 words"
+          "phrase": "our tube-versus-tubeless guide",
+          "slug": "inner-tubes-vs-tubeless-motorbike",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/wiring-connectors-humidity-motorbike.md",
+      "links": [
+        {
+          "phrase": "the rainy-season version of the checklist",
+          "slug": "motorbike-maintenance-rainy-season",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/yamaha-freego-125-vs-honda-vario-125.md",
+      "links": [
+        {
+          "phrase": "Our CBS explainer",
+          "slug": "scooter-cbs-ubs-combined-braking-explained",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/yamaha-gear-125-vs-yamaha-janus-125.md",
+      "links": [
+        {
+          "phrase": "our pre-ride checklist",
+          "slug": "motorbike-safety-checklist-before-riding",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/yamaha-latte-125-vs-honda-lead-125.md",
+      "links": [
+        {
+          "phrase": "see our seat-height table",
+          "slug": "scooter-seat-heights-comparison-vietnam",
+          "why": "reviewed override"
         },
         {
-          "phrase": "our beginners guide",
-          "slug": "easiest-motorbikes-for-beginners-hanoi",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/yadea-vietnam-lineup-guide.md",
-      "links": [
+          "phrase": "our Honda vs Yamaha guide",
+          "slug": "honda-vs-yamaha-scooters-vietnam",
+          "why": "reviewed override"
+        },
         {
-          "phrase": "Our first-bike decision guide",
-          "slug": "buying-first-electric-motorbike-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/yamaha-gear-125-hybrid-review.md",
-      "links": [
-        {
-          "phrase": "Our hybrid systems explainer",
-          "slug": "scooter-hybrid-systems-explained",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/yamaha-gear-125-vs-honda-vision.md",
-      "links": [
-        {
-          "phrase": "the ranking article",
-          "slug": "most-fuel-efficient-scooters-vietnam-verified",
-          "why": "unique word among related guides"
+          "phrase": "our safety checklist",
+          "slug": "motorbike-safety-checklist-before-riding",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2812,14 +2162,34 @@
       "file": "_articles/yamaha-lexi-155-review.md",
       "links": [
         {
-          "phrase": "see which scooters have ABS in Vietnam",
+          "phrase": "our wheelbase and stability explainer",
+          "slug": "scooter-wheelbase-stability-explained",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/yamaha-lexi-155-vs-honda-sh-mode-125.md",
+      "links": [
+        {
+          "phrase": "our ABS guide",
           "slug": "which-scooters-have-abs-vietnam",
-          "why": "3/3 words"
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/yamaha-lexi-155-vs-yamaha-nmax-155.md",
+      "links": [
+        {
+          "phrase": "Our TCS vs ABS explainer",
+          "slug": "tcs-vs-abs-scooters-vietnam",
+          "why": "cluster 2/2 words"
         },
         {
-          "phrase": "our Yamaha lineup guide",
-          "slug": "yamaha-scooter-lineup-vietnam-explained",
-          "why": "2/2 words"
+          "phrase": "our rental inspection checklist",
+          "slug": "rental-motorbike-inspection-checklist",
+          "why": "reviewed override"
         }
       ]
     },
@@ -2827,34 +2197,9 @@
       "file": "_articles/yamaha-nmax-155-review.md",
       "links": [
         {
-          "phrase": "Our VVA explainer",
-          "slug": "yamaha-vva-explained",
-          "why": "unique word among related guides"
-        },
-        {
-          "phrase": "our TCS vs ABS guide",
-          "slug": "tcs-vs-abs-scooters-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/yamaha-nmax-155-vs-honda-air-blade-160.md",
-      "links": [
-        {
-          "phrase": "our ABS guide",
-          "slug": "which-scooters-have-abs-vietnam",
-          "why": "unique word among related guides"
-        }
-      ]
-    },
-    {
-      "file": "_articles/yamaha-nmax-155-vs-honda-sh-160.md",
-      "links": [
-        {
-          "phrase": "Our TCS vs ABS guide",
-          "slug": "tcs-vs-abs-scooters-vietnam",
-          "why": "2/2 words"
+          "phrase": "our idling-stop explainer",
+          "slug": "stop-and-start-scooters-explained",
+          "why": "cluster 2/2 words"
         }
       ]
     },
@@ -2862,313 +2207,92 @@
       "file": "_articles/yamaha-nmax-155-vs-honda-vario-160.md",
       "links": [
         {
-          "phrase": "our TCS vs ABS explainer",
-          "slug": "tcs-vs-abs-scooters-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/yamaha-nmax-155-vs-yamaha-nvx-155.md",
-      "links": [
-        {
-          "phrase": "our TCS vs ABS explainer",
-          "slug": "tcs-vs-abs-scooters-vietnam",
-          "why": "2/2 words"
-        }
-      ]
-    },
-    {
-      "file": "_articles/yamaha-nvx-155-review.md",
-      "links": [
+          "phrase": "our VVA guide",
+          "slug": "yamaha-vva-explained",
+          "why": "reviewed override"
+        },
         {
           "phrase": "our ABS guide",
           "slug": "which-scooters-have-abs-vietnam",
-          "why": "unique word among related guides"
+          "why": "reviewed override"
         }
       ]
     },
     {
-      "file": "_articles/yamaha-pg-1-vs-honda-wave-rsx.md",
+      "file": "_articles/yamaha-nvx-155-vs-yamaha-lexi-155.md",
       "links": [
         {
-          "phrase": "our fuel-tank range explainer",
-          "slug": "underbone-fuel-tank-range-explained",
-          "why": "3/3 words"
+          "phrase": "our longest-range scooters guide",
+          "slug": "longest-range-scooters-vietnam",
+          "why": "cluster 3/3 words"
         }
       ]
     },
     {
-      "file": "_articles/yamaha-pg-1-vs-yamaha-sirius-rc.md",
+      "file": "_articles/yamaha-sirius-fi-vs-sirius-rc.md",
       "links": [
         {
-          "phrase": "our commuting underbones guide",
-          "slug": "best-underbones-hanoi-commuting-verified",
-          "why": "2/2 words"
+          "phrase": "Our carburettor-versus-FI guide",
+          "slug": "carburettor-vs-fuel-injection-vietnam",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/yamaha-sirius-rc-110-learner-guide.md",
+      "links": [
+        {
+          "phrase": "The first-ride guide",
+          "slug": "riding-semi-automatic-first-time",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/yamaha-sirius-vs-yamaha-exciter-155.md",
+      "links": [
+        {
+          "phrase": "our disc-versus-drum guide",
+          "slug": "disc-vs-drum-brakes-motorbike",
+          "why": "reviewed override"
+        }
+      ]
+    },
+    {
+      "file": "_articles/yamaha-vva-explained.md",
+      "links": [
+        {
+          "phrase": "Our power and torque explainer",
+          "slug": "scooter-power-torque-explained",
+          "why": "reviewed override"
         }
       ]
     }
   ],
   "unresolved": [
     {
-      "file": "_articles/110cc-vs-125cc-scooters.md",
-      "phrase": "Our power and torque explainer"
-    },
-    {
       "file": "_articles/50cc-brakes-drum-checks.md",
       "phrase": "our braking article"
-    },
-    {
-      "file": "_articles/50cc-common-problems-first-year.md",
-      "phrase": "The weekly habit from our maintenance checklist"
-    },
-    {
-      "file": "_articles/50cc-common-problems-first-year.md",
-      "phrase": "The brake shoe article"
-    },
-    {
-      "file": "_articles/50cc-common-problems-first-year.md",
-      "phrase": "our battery-care article"
-    },
-    {
-      "file": "_articles/50cc-day-trip-range-limits.md",
-      "phrase": "the upgrade article"
-    },
-    {
-      "file": "_articles/50cc-hills-bridges-hanoi.md",
-      "phrase": "our rain riding article"
-    },
-    {
-      "file": "_articles/50cc-in-the-rain-vietnam.md",
-      "phrase": "our wet-roads article"
-    },
-    {
-      "file": "_articles/50cc-in-the-rain-vietnam.md",
-      "phrase": "Our drum-brake guide"
-    },
-    {
-      "file": "_articles/50cc-motorbike-myths-law-vietnam.md",
-      "phrase": "our e-bike licence guide"
     },
     {
       "file": "_articles/50cc-night-riding-visibility.md",
       "phrase": "our dedicated article"
     },
     {
-      "file": "_articles/50cc-parking-hanoi.md",
-      "phrase": "Our locks article"
-    },
-    {
-      "file": "_articles/50cc-parking-hanoi.md",
-      "phrase": "our documents article"
-    },
-    {
-      "file": "_articles/50cc-resale-value-vietnam.md",
-      "phrase": "our genuine-versus-fake parts article"
-    },
-    {
-      "file": "_articles/50cc-running-costs-vietnam.md",
-      "phrase": "the chain-care article"
-    },
-    {
-      "file": "_articles/50cc-running-costs-vietnam.md",
-      "phrase": "our tyres article"
-    },
-    {
-      "file": "_articles/50cc-running-costs-vietnam.md",
-      "phrase": "Our brakes article"
-    },
-    {
-      "file": "_articles/50cc-summer-heat-riding-hanoi.md",
-      "phrase": "the level-check article"
-    },
-    {
-      "file": "_articles/50cc-vs-110cc-motorbike-vietnam.md",
-      "phrase": "the upgrade article"
-    },
-    {
-      "file": "_articles/50cc-vs-110cc-motorbike-vietnam.md",
-      "phrase": "Our bridges riding article"
-    },
-    {
-      "file": "_articles/50cc-vs-e-bike-vietnam.md",
-      "phrase": "Our electric-bike licence guide"
-    },
-    {
-      "file": "_articles/50cc-weekly-maintenance-checks.md",
-      "phrase": "the battery article"
-    },
-    {
-      "file": "_articles/50cc-weekly-maintenance-checks.md",
-      "phrase": "our oil-level article"
-    },
-    {
-      "file": "_articles/alloy-vs-spoked-wheels-motorbikes.md",
-      "phrase": "the tyre replacement guide"
-    },
-    {
-      "file": "_articles/bat-trang-pottery-village-motorbike-ride.md",
-      "phrase": "The carrying-luggage guide"
-    },
-    {
-      "file": "_articles/best-155-160cc-scooters-vietnam.md",
-      "phrase": "our rainy-season scooter guide"
-    },
-    {
-      "file": "_articles/best-bike-for-english-teachers-hanoi.md",
-      "phrase": "The exchange takes some weeks and paperwork - the exchange article"
-    },
-    {
-      "file": "_articles/best-motorbike-for-expats-hanoi.md",
-      "phrase": "the exchange article"
-    },
-    {
-      "file": "_articles/best-motorbike-for-expats-hanoi.md",
-      "phrase": "the rain article"
-    },
-    {
-      "file": "_articles/best-motorbike-for-long-distance-vietnam.md",
-      "phrase": "the breakdown article"
-    },
-    {
-      "file": "_articles/best-motorbike-for-students-hanoi.md",
-      "phrase": "the saving - the renting-versus-buying article"
-    },
-    {
-      "file": "_articles/best-motorbike-for-two-people-hanoi.md",
-      "phrase": "The passenger-rules article"
-    },
-    {
-      "file": "_articles/best-scooters-cargo-storage-vietnam.md",
-      "phrase": "our carrying-luggage-safely guide"
-    },
-    {
-      "file": "_articles/best-scooters-delivery-riders-vietnam.md",
-      "phrase": "the model - our high-usage maintenance guide"
-    },
-    {
-      "file": "_articles/best-scooters-hanoi-commuting-verified.md",
-      "phrase": "see the ABS list"
-    },
-    {
-      "file": "_articles/best-scooters-long-distance-touring-vietnam.md",
-      "phrase": "our ABS guide"
-    },
-    {
-      "file": "_articles/best-scooters-long-distance-touring-vietnam.md",
-      "phrase": "our pre-trip service guide"
-    },
-    {
-      "file": "_articles/best-scooters-rainy-season-commuting-vietnam.md",
-      "phrase": "our ABS guide"
-    },
-    {
-      "file": "_articles/best-scooters-short-riders-vietnam.md",
-      "phrase": "our rental inspection checklist"
-    },
-    {
-      "file": "_articles/best-scooters-tall-riders-vietnam.md",
-      "phrase": "our tall-rider guide"
-    },
-    {
       "file": "_articles/best-scooters-two-up-riding-vietnam.md",
       "phrase": "our kerb weight table and wheelbase explainer"
-    },
-    {
-      "file": "_articles/best-underbones-delivery-riders-verified.md",
-      "phrase": "our scooter-versus-semi-automatic explainer"
-    },
-    {
-      "file": "_articles/buying-50cc-for-your-teenager-vietnam.md",
-      "phrase": "Our used-bike checklist"
-    },
-    {
-      "file": "_articles/buying-50cc-for-your-teenager-vietnam.md",
-      "phrase": "Our pre-ride checklist"
-    },
-    {
-      "file": "_articles/buying-50cc-motorbike-vietnam.md",
-      "phrase": "our 50cc checklist"
-    },
-    {
-      "file": "_articles/buying-first-scooter-vietnam-guide.md",
-      "phrase": "our used motorbike inspection guide"
     },
     {
       "file": "_articles/buying-first-scooter-vietnam-guide.md",
       "phrase": "our documents guide"
     },
     {
-      "file": "_articles/buying-first-scooter-vietnam-guide.md",
-      "phrase": "our mechanic guide"
-    },
-    {
-      "file": "_articles/buying-new-underbone-dealer-guide-vietnam.md",
-      "phrase": "The trim-version guide"
-    },
-    {
-      "file": "_articles/buying-new-underbone-dealer-guide-vietnam.md",
-      "phrase": "the price ladder guide"
-    },
-    {
       "file": "_articles/buying-new-underbone-dealer-guide-vietnam.md",
       "phrase": "the aftermarket is real and the genuine-parts guide"
     },
     {
-      "file": "_articles/buying-used-sport-underbone-verified.md",
-      "phrase": "The general underbone buying checklist"
-    },
-    {
-      "file": "_articles/can-foreigners-ride-50cc-vietnam.md",
-      "phrase": "the renting guide"
-    },
-    {
-      "file": "_articles/can-tourists-rent-a-motorbike-hanoi.md",
-      "phrase": "The general tourist-riding article"
-    },
-    {
-      "file": "_articles/cao-bang-ban-gioc-motorbike-trip.md",
-      "phrase": "the Ba Be guide"
-    },
-    {
-      "file": "_articles/cao-bang-ban-gioc-motorbike-trip.md",
-      "phrase": "our trip-cost guide"
-    },
-    {
-      "file": "_articles/carrying-pillion-50cc-vietnam.md",
-      "phrase": "our two-up balance article"
-    },
-    {
-      "file": "_articles/carrying-pillion-50cc-vietnam.md",
-      "phrase": "see the hills and bridges article"
-    },
-    {
-      "file": "_articles/cat-ba-ha-long-motorbike-trip-ferry.md",
-      "phrase": "the ferry-and-train transport guide"
-    },
-    {
-      "file": "_articles/cat-ba-ha-long-motorbike-trip-ferry.md",
-      "phrase": "our Hanoi parking habits guide"
-    },
-    {
-      "file": "_articles/cbr150r-city-riding-guide.md",
-      "phrase": "our traffic clutch guide"
-    },
-    {
-      "file": "_articles/cheapest-electric-motorbikes-vietnam-list-prices.md",
-      "phrase": "the kW ladder guide"
-    },
-    {
       "file": "_articles/cheapest-electric-motorbikes-vietnam-list-prices.md",
       "phrase": "our Yadea line-up guide"
-    },
-    {
-      "file": "_articles/cheapest-new-underbones-vietnam-verified.md",
-      "phrase": "our used-motorbike inspection guide"
-    },
-    {
-      "file": "_articles/choosing-hanoi-neighbourhood-motorbike-access.md",
-      "phrase": "the monthly renter's parking guide"
     },
     {
       "file": "_articles/clutch-control-friction-zone-practice.md",
@@ -3179,332 +2303,40 @@
       "phrase": "our clutch troubleshooting article"
     },
     {
-      "file": "_articles/clutch-technique-stop-and-go-traffic.md",
-      "phrase": "our semi-automatic renting guide"
-    },
-    {
-      "file": "_articles/common-beginner-clutch-mistakes.md",
-      "phrase": "Our engine-braking guide"
-    },
-    {
-      "file": "_articles/common-motorbike-rental-problems-hanoi.md",
-      "phrase": "the puncture article"
-    },
-    {
       "file": "_articles/da-nang-hoi-an-central-coast-motorbike.md",
       "phrase": "see our Hue and Phong Nha guides"
-    },
-    {
-      "file": "_articles/dat-bike-lineup-vietnam-guide.md",
-      "phrase": "charging-time guide"
-    },
-    {
-      "file": "_articles/dat-bike-weaver-200-vs-vinfast-feliz-2.md",
-      "phrase": "the swap-vs-charge guide"
-    },
-    {
-      "file": "_articles/dat-bike-weaver-review.md",
-      "phrase": "the Dat Bike line-up guide"
-    },
-    {
-      "file": "_articles/early-return-rental-motorbike-hanoi.md",
-      "phrase": "The period article"
-    },
-    {
-      "file": "_articles/electric-motorbike-charger-care-storage.md",
-      "phrase": "the advice in the long-storage guide"
     },
     {
       "file": "_articles/electric-motorbike-charger-care-storage.md",
       "phrase": "the pack as that article"
     },
     {
-      "file": "_articles/electric-motorbike-charging-time-planning-vietnam.md",
-      "phrase": "see the real-world range guide"
-    },
-    {
-      "file": "_articles/electric-motorbike-fines-vietnam.md",
-      "phrase": "Our power-and-licence guide"
-    },
-    {
       "file": "_articles/electric-motorbike-night-riding-hanoi.md",
       "phrase": "The defences are the same ones the visibility guide"
-    },
-    {
-      "file": "_articles/electric-motorbike-parts-availability-vietnam.md",
-      "phrase": "the pack-replacement article"
-    },
-    {
-      "file": "_articles/electric-motorbike-parts-availability-vietnam.md",
-      "phrase": "our maintenance-basics guide"
-    },
-    {
-      "file": "_articles/electric-motorbike-power-kw-licence-vietnam.md",
-      "phrase": "The full classification article"
     },
     {
       "file": "_articles/electric-motorbike-resale-value-vietnam.md",
       "phrase": "the same papers that the registration article"
     },
     {
-      "file": "_articles/electric-motorbike-resale-value-vietnam.md",
-      "phrase": "see the storage guide"
-    },
-    {
-      "file": "_articles/electric-motorbike-silent-riding-safety.md",
-      "phrase": "our visibility guide"
-    },
-    {
-      "file": "_articles/electric-motorbike-spare-battery-strategy.md",
-      "phrase": "The theft article"
-    },
-    {
-      "file": "_articles/electric-motorbike-summer-heat-battery-care.md",
-      "phrase": "see the real-world range guide"
-    },
-    {
-      "file": "_articles/electric-motorbike-theft-security-vietnam.md",
-      "phrase": "Our lock guide"
-    },
-    {
-      "file": "_articles/electric-motorbike-winter-range-hanoi.md",
-      "phrase": "The day-trip range-planning guide"
-    },
-    {
-      "file": "_articles/electric-motorbike-winter-range-hanoi.md",
-      "phrase": "the winter-storage article"
-    },
-    {
-      "file": "_articles/engine-oil-drain-vs-overhaul-capacity-explained.md",
-      "phrase": "the home-change guide"
-    },
-    {
-      "file": "_articles/engine-oil-drain-vs-overhaul-capacity-explained.md",
-      "phrase": "Our rental care guide"
-    },
-    {
-      "file": "_articles/euro-emissions-underbones-vietnam.md",
-      "phrase": "our injection explainer"
-    },
-    {
-      "file": "_articles/exhaust-care-humid-climate-motorbike.md",
-      "phrase": "the season-specific checklist"
-    },
-    {
-      "file": "_articles/expired-licence-fine-vietnam.md",
-      "phrase": "validity-and-renewal article"
-    },
-    {
-      "file": "_articles/first-hour-manual-clutch-practice-checklist.md",
-      "phrase": "our practice-areas guide"
-    },
-    {
-      "file": "_articles/first-ride-electric-motorbike-beginners.md",
-      "phrase": "the visibility guide"
-    },
-    {
-      "file": "_articles/first-ride-electric-motorbike-beginners.md",
-      "phrase": "The kW ladder guide"
-    },
-    {
-      "file": "_articles/fuel-atm-phone-coverage-rural-rides-vietnam.md",
-      "phrase": "the trip-preparation checklist"
-    },
-    {
-      "file": "_articles/fuel-atm-phone-coverage-rural-rides-vietnam.md",
-      "phrase": "see the navigation guide"
-    },
-    {
-      "file": "_articles/fuel-economy-test-cycles-explained.md",
-      "phrase": "the riding-habits guide"
-    },
-    {
-      "file": "_articles/fuel-economy-test-cycles-explained.md",
-      "phrase": "our fuel-economy-figures explainer"
-    },
-    {
-      "file": "_articles/fuel-efficient-riding-habits-underbone.md",
-      "phrase": "The shift-point guide"
-    },
-    {
-      "file": "_articles/fuel-efficient-riding-habits-underbone.md",
-      "phrase": "the air-filter guide"
-    },
-    {
-      "file": "_articles/fuel-starvation-power-loss-motorbike.md",
-      "phrase": "The full filter-and-line guide"
-    },
-    {
-      "file": "_articles/getting-around-hanoi-without-vietnamese.md",
-      "phrase": "The mechanic conversation guide"
-    },
-    {
-      "file": "_articles/ha-giang-loop-motorbike-guide.md",
-      "phrase": "Our ferry-and-train transport guide"
-    },
-    {
-      "file": "_articles/ha-giang-loop-motorbike-guide.md",
-      "phrase": "Our how-far-per-day guide"
-    },
-    {
-      "file": "_articles/hanoi-motorbike-scams-riders-guide.md",
-      "phrase": "The mechanic-conversation guide"
-    },
-    {
-      "file": "_articles/hanoi-motorbike-scams-riders-guide.md",
-      "phrase": "the deposit rules article"
-    },
-    {
       "file": "_articles/hanoi-motorbike-scams-riders-guide.md",
       "phrase": "the payment guide"
-    },
-    {
-      "file": "_articles/hanoi-motorbike-shops-streets-guide.md",
-      "phrase": "the flat-tyre guide"
-    },
-    {
-      "file": "_articles/hanoi-motorbike-shops-streets-guide.md",
-      "phrase": "The helmet standards guide"
-    },
-    {
-      "file": "_articles/hanoi-museums-motorbike-visit-guide.md",
-      "phrase": "the rain-gear guide"
-    },
-    {
-      "file": "_articles/hanoi-riding-seasons-guide.md",
-      "phrase": "the winter-range guide"
-    },
-    {
-      "file": "_articles/hanoi-street-food-motorbike-ride-guide.md",
-      "phrase": "The general parking guide"
     },
     {
       "file": "_articles/hanoi-to-ho-chi-minh-city-by-motorbike.md",
       "phrase": "Our dedicated guide"
     },
     {
-      "file": "_articles/hanoi-to-ho-chi-minh-city-by-motorbike.md",
-      "phrase": "our nationwide seasons guide"
-    },
-    {
-      "file": "_articles/helmet-locks-theft-vietnam.md",
-      "phrase": "the parking-landscape guide"
-    },
-    {
-      "file": "_articles/helmet-rules-50cc-mopeds.md",
-      "phrase": "our helmet-standards article"
-    },
-    {
-      "file": "_articles/high-mileage-rental-motorbike-inspection.md",
-      "phrase": "The commute article"
-    },
-    {
-      "file": "_articles/highway-1-vietnam-motorbike-riding.md",
-      "phrase": "our QLHCM guide"
-    },
-    {
       "file": "_articles/highway-1-vietnam-motorbike-riding.md",
       "phrase": "our legal guide"
-    },
-    {
-      "file": "_articles/highway-1-vietnam-motorbike-riding.md",
-      "phrase": "Our night-riding guide"
-    },
-    {
-      "file": "_articles/highway-1-vietnam-motorbike-riding.md",
-      "phrase": "our full Hanoi-to-Saigon guide"
-    },
-    {
-      "file": "_articles/ho-chi-minh-city-riding-first-timers.md",
-      "phrase": "our Saigon rental guide"
-    },
-    {
-      "file": "_articles/ho-chi-minh-city-riding-first-timers.md",
-      "phrase": "Our first-time renter guide"
-    },
-    {
-      "file": "_articles/ho-chi-minh-highway-motorbike-guide.md",
-      "phrase": "the national seasons guide"
-    },
-    {
-      "file": "_articles/ho-chi-minh-highway-motorbike-guide.md",
-      "phrase": "our rural fuel-and-coverage guide"
-    },
-    {
-      "file": "_articles/honda-air-blade-125-vs-honda-vario-125.md",
-      "phrase": "our idling-stop explainer"
-    },
-    {
-      "file": "_articles/honda-air-blade-160-review.md",
-      "phrase": "the same architecture our scooter CVT explainer"
-    },
-    {
-      "file": "_articles/honda-air-blade-160-vs-honda-lead-125.md",
-      "phrase": "see the storage comparison"
-    },
-    {
-      "file": "_articles/honda-blade-drum-vs-disc.md",
-      "phrase": "Our disc-versus-drum guide"
-    },
-    {
-      "file": "_articles/honda-blade-vs-honda-wave-rsx.md",
-      "phrase": "Our alloy-versus-spoked wheels explainer"
-    },
-    {
-      "file": "_articles/honda-cbr150r-review.md",
-      "phrase": "the sort of multi-day rides our long-distance riding guide"
-    },
-    {
-      "file": "_articles/honda-ct125-touring-setup-guide.md",
-      "phrase": "The high-mileage inspection checklist"
-    },
-    {
-      "file": "_articles/honda-future-125-riding-guide.md",
-      "phrase": "the buyer's checklist"
-    },
-    {
-      "file": "_articles/honda-pgm-fi-explained.md",
-      "phrase": "our carburettor care guide"
-    },
-    {
-      "file": "_articles/honda-sh-160-vs-honda-vario-160.md",
-      "phrase": "our HSTC guide"
-    },
-    {
-      "file": "_articles/honda-super-cub-vs-honda-winner-r.md",
-      "phrase": "our easiest motorbikes for beginners guide"
     },
     {
       "file": "_articles/honda-vario-160-vs-yamaha-nvx-155.md",
       "phrase": "Our kerb weight table and wheelbase explainer"
     },
     {
-      "file": "_articles/honda-vision-vs-honda-lead-125.md",
-      "phrase": "Our 110 vs 125 explainer"
-    },
-    {
-      "file": "_articles/honda-vision-vs-yamaha-freego-125.md",
-      "phrase": "Our 110 vs 125 guide"
-    },
-    {
-      "file": "_articles/honda-vision-vs-yamaha-janus.md",
-      "phrase": "our light motorbikes for new riders guide"
-    },
-    {
       "file": "_articles/honda-wave-alpha-110-review.md",
       "phrase": "motorbikes for tall riders if that is you"
-    },
-    {
-      "file": "_articles/honda-wave-alpha-vs-honda-blade.md",
-      "phrase": "the 110-class data guide"
-    },
-    {
-      "file": "_articles/honda-wave-alpha-vs-honda-wave-rsx.md",
-      "phrase": "the semi-automatic format our scooter-versus-semi-automatic guide"
-    },
-    {
-      "file": "_articles/honda-wave-alpha-vs-yamaha-sirius.md",
-      "phrase": "Our Hanoi rental guide"
     },
     {
       "file": "_articles/honda-wave-rsx-commuting-guide.md",
@@ -3515,38 +2347,6 @@
       "phrase": "the A1 licence bracket - our A1 guide"
     },
     {
-      "file": "_articles/hot-weather-riding-motorbike-vietnam.md",
-      "phrase": "the tyre-care article"
-    },
-    {
-      "file": "_articles/how-deposit-returns-work-hanoi.md",
-      "phrase": "the lost-key article"
-    },
-    {
-      "file": "_articles/how-long-to-learn-manual-motorbike.md",
-      "phrase": "the transition guide"
-    },
-    {
-      "file": "_articles/how-to-read-motorbike-spec-sheet-vietnam.md",
-      "phrase": "Our power and torque explainer"
-    },
-    {
-      "file": "_articles/hub-vs-mid-motor-electric-motorbikes.md",
-      "phrase": "Our power-and-licence guide"
-    },
-    {
-      "file": "_articles/hue-motorbike-trip-hanoi.md",
-      "phrase": "our Hanoi parking guide"
-    },
-    {
-      "file": "_articles/hue-motorbike-trip-hanoi.md",
-      "phrase": "our ferry-and-train guide"
-    },
-    {
-      "file": "_articles/is-a-50cc-enough-for-hanoi.md",
-      "phrase": "our pillion article"
-    },
-    {
       "file": "_articles/is-insurance-included-motorbike-rental-hanoi.md",
       "phrase": "The next article"
     },
@@ -3555,32 +2355,8 @@
       "phrase": "the finding-one guide"
     },
     {
-      "file": "_articles/lang-son-motorbike-trip-hanoi.md",
-      "phrase": "Our expressway rules guide"
-    },
-    {
-      "file": "_articles/lang-son-motorbike-trip-hanoi.md",
-      "phrase": "Our tourist-riding licence guide"
-    },
-    {
-      "file": "_articles/late-return-rental-motorbike-hanoi.md",
-      "phrase": "the period article"
-    },
-    {
-      "file": "_articles/learning-manual-on-rented-bike-hanoi.md",
-      "phrase": "the rental checklist"
-    },
-    {
       "file": "_articles/list-price-vs-on-road-cost-vietnam.md",
       "phrase": "our dedicated guide"
-    },
-    {
-      "file": "_articles/list-price-vs-on-road-cost-vietnam.md",
-      "phrase": "our premium underbones guide"
-    },
-    {
-      "file": "_articles/long-distance-electric-motorbike-touring-vietnam.md",
-      "phrase": "the range guide"
     },
     {
       "file": "_articles/long-term-rider-licence-checklist-hanoi.md",
@@ -3591,60 +2367,8 @@
       "phrase": "Our fuel economy comparison and economy-improvement guide"
     },
     {
-      "file": "_articles/longest-range-scooters-vietnam.md",
-      "phrase": "our fuel gauge article"
-    },
-    {
-      "file": "_articles/loose-chain-on-rental-motorbike.md",
-      "phrase": "the outside-repair article"
-    },
-    {
-      "file": "_articles/lubrication-points-motorbike-vietnam.md",
-      "phrase": "the washing guide"
-    },
-    {
       "file": "_articles/maintaining-motorbike-you-rarely-ride.md",
       "phrase": "the full storage routine is the one this article"
-    },
-    {
-      "file": "_articles/manual-motorbike-rental-checklist-hanoi.md",
-      "phrase": "The rental fuel policy guide"
-    },
-    {
-      "file": "_articles/manual-underbone-ownership-costs-hanoi.md",
-      "phrase": "The dealer-buying guide"
-    },
-    {
-      "file": "_articles/manual-underbone-ownership-costs-hanoi.md",
-      "phrase": "Our monthly-rental guide"
-    },
-    {
-      "file": "_articles/mekong-delta-motorbike-guide.md",
-      "phrase": "our Saigon rental guide"
-    },
-    {
-      "file": "_articles/mekong-delta-motorbike-guide.md",
-      "phrase": "Our nationwide seasons guide"
-    },
-    {
-      "file": "_articles/mekong-delta-motorbike-guide.md",
-      "phrase": "Our renting-vs-buying guide"
-    },
-    {
-      "file": "_articles/moc-chau-motorbike-trip-hanoi.md",
-      "phrase": "our northwest loop guide"
-    },
-    {
-      "file": "_articles/monthly-renting-manual-clutch-hanoi.md",
-      "phrase": "The compulsory-insurance guide"
-    },
-    {
-      "file": "_articles/most-fuel-efficient-scooters-vietnam-verified.md",
-      "phrase": "our riding-habits guide"
-    },
-    {
-      "file": "_articles/most-fuel-efficient-scooters-vietnam-verified.md",
-      "phrase": "our rental fuel policy article"
     },
     {
       "file": "_articles/motorbike-border-crossing-vietnam-cambodia.md",
@@ -3655,30 +2379,6 @@
       "phrase": "the deeper storage checklist"
     },
     {
-      "file": "_articles/motorbike-engine-codes-explained.md",
-      "phrase": "Our SOHC vs DOHC explainer"
-    },
-    {
-      "file": "_articles/motorbike-trip-budget-from-hanoi.md",
-      "phrase": "the coverage and ATM guide"
-    },
-    {
-      "file": "_articles/motorbike-trip-budget-from-hanoi.md",
-      "phrase": "our rental price guide"
-    },
-    {
-      "file": "_articles/motorbike-trip-prep-checklist-hanoi.md",
-      "phrase": "the riding-seasons guide"
-    },
-    {
-      "file": "_articles/motorbike-trip-prep-checklist-hanoi.md",
-      "phrase": "see the unlit-rural-roads guide"
-    },
-    {
-      "file": "_articles/motorbike-trip-seasons-north-vietnam.md",
-      "phrase": "see the Hanoi riding-seasons guide"
-    },
-    {
       "file": "_articles/mudguard-extenders-rain-spray.md",
       "phrase": "the technique article"
     },
@@ -3687,60 +2387,8 @@
       "phrase": "see the Honda and Yamaha lineup guides"
     },
     {
-      "file": "_articles/nhat-tan-flower-fields-motorbike-ride.md",
-      "phrase": "The cargo guide"
-    },
-    {
-      "file": "_articles/northeast-vietnam-motorbike-loop.md",
-      "phrase": "Our day-distance guide"
-    },
-    {
-      "file": "_articles/old-quarter-one-way-streets-riding.md",
-      "phrase": "The horn etiquette guide"
-    },
-    {
       "file": "_articles/one-way-motorbike-rental-vietnam.md",
       "phrase": "our no-insurance policy is documented in our rental insurance article"
-    },
-    {
-      "file": "_articles/one-way-motorbike-rental-vietnam.md",
-      "phrase": "Our full route guide"
-    },
-    {
-      "file": "_articles/outside-repair-shops-rental-motorbike.md",
-      "phrase": "the puncture article"
-    },
-    {
-      "file": "_articles/phong-nha-motorbike-trip-hanoi.md",
-      "phrase": "our ferry-and-train guide"
-    },
-    {
-      "file": "_articles/phong-nha-motorbike-trip-hanoi.md",
-      "phrase": "our pre-trip service guide"
-    },
-    {
-      "file": "_articles/premium-scooters-vietnam.md",
-      "phrase": "our parking guide"
-    },
-    {
-      "file": "_articles/pu-luong-motorbike-trip-hanoi.md",
-      "phrase": "Our day-distance guide"
-    },
-    {
-      "file": "_articles/pu-luong-motorbike-trip-hanoi.md",
-      "phrase": "our mountain-pass guide"
-    },
-    {
-      "file": "_articles/reading-scooter-spec-sheet.md",
-      "phrase": "our light bikes guide"
-    },
-    {
-      "file": "_articles/reading-scooter-spec-sheet.md",
-      "phrase": "Our power and torque explainer"
-    },
-    {
-      "file": "_articles/reading-scooter-spec-sheet.md",
-      "phrase": "our speed limits guide"
     },
     {
       "file": "_articles/rental-motorbike-breakdown-hanoi.md",
@@ -3751,364 +2399,48 @@
       "phrase": "the fuel level and agree the return level - the fuel-policy article"
     },
     {
-      "file": "_articles/renting-motorbike-da-nang.md",
-      "phrase": "our nationwide seasons guide"
-    },
-    {
-      "file": "_articles/renting-motorbike-da-nang.md",
-      "phrase": "our after-rain surface guide"
-    },
-    {
-      "file": "_articles/renting-motorbike-ho-chi-minh-city.md",
-      "phrase": "our Mekong Delta riding guide"
-    },
-    {
       "file": "_articles/renting-motorbike-hue.md",
       "phrase": "The full guide"
-    },
-    {
-      "file": "_articles/renting-motorbike-hue.md",
-      "phrase": "our national parking guide"
-    },
-    {
-      "file": "_articles/renting-motorbike-nha-trang.md",
-      "phrase": "Our nationwide monsoon guide"
-    },
-    {
-      "file": "_articles/renting-vs-buying-a-motorbike-hanoi.md",
-      "phrase": "The monthly-rate article"
-    },
-    {
-      "file": "_articles/renting-vs-buying-motorbike-vietnam-long-trip.md",
-      "phrase": "Our how-to-rent guide"
-    },
-    {
-      "file": "_articles/riding-50cc-hanoi-traffic.md",
-      "phrase": "Our bridges article"
-    },
-    {
-      "file": "_articles/riding-electric-motorbike-hanoi-rain.md",
-      "phrase": "our flooded-street riding guide"
-    },
-    {
-      "file": "_articles/riding-electric-motorbike-hills-bridges-hanoi.md",
-      "phrase": "our regen guide"
-    },
-    {
-      "file": "_articles/riding-gear-sizing-fit-foreign-riders.md",
-      "phrase": "the ergonomics article"
-    },
-    {
-      "file": "_articles/riding-honda-wave-alpha-110-guide.md",
-      "phrase": "The semi-auto renting guide"
-    },
-    {
-      "file": "_articles/riding-honda-wave-alpha-110-guide.md",
-      "phrase": "the rental checklist"
-    },
-    {
-      "file": "_articles/riding-semi-auto-gravel-roads.md",
-      "phrase": "the chain-maintenance guide"
-    },
-    {
-      "file": "_articles/riding-semi-automatic-first-time.md",
-      "phrase": "our beginner-friendly bikes guide"
-    },
-    {
-      "file": "_articles/riding-six-speed-manual-winner-exciter.md",
-      "phrase": "the launch guide"
-    },
-    {
-      "file": "_articles/riding-six-speed-manual-winner-exciter.md",
-      "phrase": "our assist-and-slipper guide"
-    },
-    {
-      "file": "_articles/scooter-cbs-ubs-combined-braking-explained.md",
-      "phrase": "our ABS guide"
-    },
-    {
-      "file": "_articles/scooter-cbs-ubs-combined-braking-explained.md",
-      "phrase": "our rainy-season guide"
-    },
-    {
-      "file": "_articles/scooter-displacement-numbers-explained.md",
-      "phrase": "our documents guide"
-    },
-    {
-      "file": "_articles/scooter-fuel-economy-figures-explained.md",
-      "phrase": "our economy-improvement guide"
-    },
-    {
-      "file": "_articles/scooter-power-torque-explained.md",
-      "phrase": "the peak figures shape the whole ride - our CVT explainer"
-    },
-    {
-      "file": "_articles/scooter-power-torque-explained.md",
-      "phrase": "Our two-up riding guide"
     },
     {
       "file": "_articles/scooter-tft-vs-lcd-displays.md",
       "phrase": "the warning lamps mean - our warning lights guide"
     },
     {
-      "file": "_articles/scooter-tft-vs-lcd-displays.md",
-      "phrase": "our warning lights guide"
-    },
-    {
-      "file": "_articles/scooter-trim-versions-explained.md",
-      "phrase": "Our verified price guide"
-    },
-    {
-      "file": "_articles/scooter-valve-counts-explained.md",
-      "phrase": "our valve clearance guide"
-    },
-    {
-      "file": "_articles/scooter-wheelbase-stability-explained.md",
-      "phrase": "our inspection checklist"
-    },
-    {
-      "file": "_articles/scooter-wheelbase-stability-explained.md",
-      "phrase": "see our kerb weight table"
-    },
-    {
-      "file": "_articles/scooters-with-usb-c-charging-verified.md",
-      "phrase": "the battery - our USB chargers guide"
-    },
-    {
-      "file": "_articles/self-drive-vs-easy-rider-vietnam.md",
-      "phrase": "our first-time renter's guide"
-    },
-    {
-      "file": "_articles/selling-motorbike-before-leaving-vietnam.md",
-      "phrase": "Our renting-vs-buying guide"
-    },
-    {
-      "file": "_articles/semi-auto-carrying-cargo.md",
-      "phrase": "The general luggage guide"
-    },
-    {
       "file": "_articles/semi-auto-descending-hills-technique.md",
       "phrase": "The same rule as the general downhill guide"
-    },
-    {
-      "file": "_articles/single-cylinder-underbone-engines-explained.md",
-      "phrase": "our knocking-noises guide"
-    },
-    {
-      "file": "_articles/sohc-vs-dohc-underbones-explained.md",
-      "phrase": "Our valve-clearance guide"
-    },
-    {
-      "file": "_articles/sport-underbone-touring-vietnam.md",
-      "phrase": "Our fuel-range explainer"
-    },
-    {
-      "file": "_articles/stop-and-start-scooters-explained.md",
-      "phrase": "our improving-fuel-economy guide"
-    },
-    {
-      "file": "_articles/switching-bikes-mid-rental-hanoi.md",
-      "phrase": "the complete checklist"
     },
     {
       "file": "_articles/tcs-vs-abs-scooters-vietnam.md",
       "phrase": "the traction-control value rises - our mountain pass guide"
     },
     {
-      "file": "_articles/tcs-vs-abs-scooters-vietnam.md",
-      "phrase": "Our ABS availability guide"
-    },
-    {
-      "file": "_articles/tcs-vs-abs-scooters-vietnam.md",
-      "phrase": "our mountain pass guide"
-    },
-    {
-      "file": "_articles/teaching-teens-50cc-safe-riding.md",
-      "phrase": "the emergency braking article"
-    },
-    {
-      "file": "_articles/teaching-teens-50cc-safe-riding.md",
-      "phrase": "our practice-spaces article"
-    },
-    {
-      "file": "_articles/test-riding-electric-motorbike-vietnam.md",
-      "phrase": "The silent-safety guide"
-    },
-    {
       "file": "_articles/test-riding-electric-motorbike-vietnam.md",
       "phrase": "see the brakes-maintenance guide for what to look after"
-    },
-    {
-      "file": "_articles/tet-holiday-motorbike-travel-vietnam.md",
-      "phrase": "Our pre-trip servicing guide"
-    },
-    {
-      "file": "_articles/theft-loss-responsibility-rental-motorbike-hanoi.md",
-      "phrase": "The deposit article"
-    },
-    {
-      "file": "_articles/touring-semi-auto-underbone.md",
-      "phrase": "the cargo guide"
-    },
-    {
-      "file": "_articles/underbone-frame-design-explained.md",
-      "phrase": "our post-fall inspection checklist"
-    },
-    {
-      "file": "_articles/underbone-fuel-economy-figures-explained.md",
-      "phrase": "Our fuel-economy improvement guide"
-    },
-    {
-      "file": "_articles/underbone-kerb-weights-explained.md",
-      "phrase": "Our wet-versus-dry weight explainer"
-    },
-    {
-      "file": "_articles/underbone-power-torque-explained.md",
-      "phrase": "our commuting guide"
-    },
-    {
-      "file": "_articles/underbone-storage-options-explained.md",
-      "phrase": "our basket guide"
-    },
-    {
-      "file": "_articles/underbone-storage-options-explained.md",
-      "phrase": "our delivery guide"
-    },
-    {
-      "file": "_articles/underbone-trim-versions-explained.md",
-      "phrase": "the class - our disc-versus-drum guide"
-    },
-    {
-      "file": "_articles/upgrading-from-50cc-to-110cc.md",
-      "phrase": "our disc-versus-drum article"
-    },
-    {
-      "file": "_articles/used-50cc-inspection-checklist.md",
-      "phrase": "Our diagnosing-noises article"
-    },
-    {
-      "file": "_articles/used-50cc-inspection-checklist.md",
-      "phrase": "our battery guide"
-    },
-    {
-      "file": "_articles/used-50cc-inspection-checklist.md",
-      "phrase": "our tyre guide"
     },
     {
       "file": "_articles/valve-clearances-motorbike-basics.md",
       "phrase": "the sorting guide"
     },
     {
-      "file": "_articles/vietnam-monsoon-season-motorbike-travel.md",
-      "phrase": "our Hanoi seasons guide"
-    },
-    {
-      "file": "_articles/vietnam-motorbike-backpacker-trail.md",
-      "phrase": "Our full route guide"
-    },
-    {
       "file": "_articles/vietnam-road-signs-guide.md",
       "phrase": "our legal article"
-    },
-    {
-      "file": "_articles/vietnam-road-signs-guide.md",
-      "phrase": "our ferry guide"
-    },
-    {
-      "file": "_articles/vietnam-traffic-culture-riding-overview.md",
-      "phrase": "our wet-surfaces guide"
-    },
-    {
-      "file": "_articles/vinfast-viper-vs-evo.md",
-      "phrase": "the line-up guide"
-    },
-    {
-      "file": "_articles/warranty-dealer-service-vietnam.md",
-      "phrase": "the genuine-vs-counterfeit guide"
-    },
-    {
-      "file": "_articles/week-one-manual-clutch-practice-plan.md",
-      "phrase": "the realistic timeline article"
-    },
-    {
-      "file": "_articles/what-a-50cc-service-includes-vietnam.md",
-      "phrase": "the checking article"
-    },
-    {
-      "file": "_articles/what-a-50cc-service-includes-vietnam.md",
-      "phrase": "our carburettor-versus-injection article"
-    },
-    {
-      "file": "_articles/what-is-a-50cc-motorbike-vietnam.md",
-      "phrase": "Our grey-import guide"
     },
     {
       "file": "_articles/what-is-included-motorbike-rental-hanoi.md",
       "phrase": "the agreed level - the fuel article"
     },
     {
-      "file": "_articles/what-is-included-motorbike-rental-hanoi.md",
-      "phrase": "The breakdown article"
-    },
-    {
       "file": "_articles/when-to-shift-gears-underbone.md",
       "phrase": "our engine explainer"
-    },
-    {
-      "file": "_articles/which-scooter-engine-class-vietnam.md",
-      "phrase": "our 110 vs 125 explainer"
-    },
-    {
-      "file": "_articles/which-scooters-have-abs-vietnam.md",
-      "phrase": "our post-rain surface guide"
-    },
-    {
-      "file": "_articles/who-rides-50cc-motorbikes-vietnam.md",
-      "phrase": "the upgrade article"
-    },
-    {
-      "file": "_articles/who-rides-50cc-motorbikes-vietnam.md",
-      "phrase": "Our foreigners article"
     },
     {
       "file": "_articles/why-17-inch-wheels-underbones.md",
       "phrase": "the sport class runs tubeless - our tube-versus-tubeless guide"
     },
     {
-      "file": "_articles/why-17-inch-wheels-underbones.md",
-      "phrase": "our tube-versus-tubeless guide"
-    },
-    {
-      "file": "_articles/wiring-connectors-humidity-motorbike.md",
-      "phrase": "the rainy-season version of the checklist"
-    },
-    {
-      "file": "_articles/yamaha-freego-125-vs-honda-vario-125.md",
-      "phrase": "Our CBS explainer"
-    },
-    {
-      "file": "_articles/yamaha-gear-125-vs-yamaha-janus-125.md",
-      "phrase": "our pre-ride checklist"
-    },
-    {
       "file": "_articles/yamaha-grande-review.md",
       "phrase": "see that comparison"
-    },
-    {
-      "file": "_articles/yamaha-latte-125-vs-honda-lead-125.md",
-      "phrase": "our Honda vs Yamaha guide"
-    },
-    {
-      "file": "_articles/yamaha-latte-125-vs-honda-lead-125.md",
-      "phrase": "our safety checklist"
-    },
-    {
-      "file": "_articles/yamaha-latte-125-vs-honda-lead-125.md",
-      "phrase": "Honda vs Yamaha guide"
-    },
-    {
-      "file": "_articles/yamaha-latte-125-vs-honda-lead-125.md",
-      "phrase": "see our seat-height table"
     },
     {
       "file": "_articles/yamaha-latte-125-vs-yamaha-gear-125.md",
@@ -4119,56 +2451,8 @@
       "phrase": "dedicated explainer"
     },
     {
-      "file": "_articles/yamaha-lexi-155-review.md",
-      "phrase": "our wheelbase and stability explainer"
-    },
-    {
-      "file": "_articles/yamaha-lexi-155-vs-honda-sh-mode-125.md",
-      "phrase": "our ABS guide"
-    },
-    {
-      "file": "_articles/yamaha-lexi-155-vs-yamaha-nmax-155.md",
-      "phrase": "Our TCS vs ABS explainer"
-    },
-    {
-      "file": "_articles/yamaha-lexi-155-vs-yamaha-nmax-155.md",
-      "phrase": "our rental inspection checklist"
-    },
-    {
       "file": "_articles/yamaha-nmax-155-review.md",
       "phrase": "the throttle - our idling-stop explainer"
-    },
-    {
-      "file": "_articles/yamaha-nmax-155-review.md",
-      "phrase": "our idling-stop explainer"
-    },
-    {
-      "file": "_articles/yamaha-nmax-155-vs-honda-vario-160.md",
-      "phrase": "our VVA guide"
-    },
-    {
-      "file": "_articles/yamaha-nmax-155-vs-honda-vario-160.md",
-      "phrase": "our ABS guide"
-    },
-    {
-      "file": "_articles/yamaha-nvx-155-vs-yamaha-lexi-155.md",
-      "phrase": "our longest-range scooters guide"
-    },
-    {
-      "file": "_articles/yamaha-sirius-fi-vs-sirius-rc.md",
-      "phrase": "Our carburettor-versus-FI guide"
-    },
-    {
-      "file": "_articles/yamaha-sirius-rc-110-learner-guide.md",
-      "phrase": "The first-ride guide"
-    },
-    {
-      "file": "_articles/yamaha-sirius-vs-yamaha-exciter-155.md",
-      "phrase": "our disc-versus-drum guide"
-    },
-    {
-      "file": "_articles/yamaha-vva-explained.md",
-      "phrase": "Our power and torque explainer"
     },
     {
       "file": "_articles/yen-so-park-motorbike-ride.md",

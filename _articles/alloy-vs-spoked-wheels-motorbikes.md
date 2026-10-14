@@ -29,7 +29,7 @@ Spoked wheels use a steel rim laced to the hub with dozens of individual spokes,
 
 ## Tube tyres versus tubeless
 
-This is the practical difference on Vietnamese roads. The Sirius page is explicit: its wheels run 70/90-17 and 80/90-17 tyres with inner tubes. Tube-type tyres can deflate fast when punctured and need a repair shop with the right tube; tubeless tyres usually lose pressure slowly and can often be plugged roadside. [Our flat tyre repair guide]({{ '/articles/flat-tyre-repair-motorbike-vietnam/' | relative_url }}) covers the roadside reality, and the tyre replacement guide covers what to fit when the time comes.
+This is the practical difference on Vietnamese roads. The Sirius page is explicit: its wheels run 70/90-17 and 80/90-17 tyres with inner tubes. Tube-type tyres can deflate fast when punctured and need a repair shop with the right tube; tubeless tyres usually lose pressure slowly and can often be plugged roadside. [Our flat tyre repair guide]({{ '/articles/flat-tyre-repair-motorbike-vietnam/' | relative_url }}) covers the roadside reality, and [the tyre replacement guide]({{ '/articles/choosing-replacement-tyres-motorbike-vietnam/' | relative_url }}) covers what to fit when the time comes.
 
 ## Strength and repair culture
 

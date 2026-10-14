@@ -41,7 +41,7 @@ Fuel is the biggest running cost of a Vietnamese scooter, and the manufacturer-p
 | 13 | Yamaha NMAX 155 | 2.26 L/100 km | 7.1 L | ~314 km |
 | 14 | Honda SH160i | 2.34 L/100 km | 7.0 L | ~299 km |
 
-Range figures are the manufacturer's own basis (tank divided by published consumption, or the manufacturer's stated range); real-world range always varies with speed, load, temperature and traffic - our riding-habits guide covers what actually moves your consumption.
+Range figures are the manufacturer's own basis (tank divided by published consumption, or the manufacturer's stated range); real-world range always varies with speed, load, temperature and traffic - [our riding-habits guide]({{ '/articles/improving-fuel-economy-motorbike/' | relative_url }}) covers what actually moves your consumption.
 
 ## Reading the table honestly
 
@@ -55,4 +55,4 @@ Daily commuters covering 20-40 km: anything in the top five repays you monthly. 
 
 ## Renting
 
-Rental fuel is your cost during the rental period (our rental fuel policy article explains what to expect). The most efficient rental-category bikes are the price-published small automatics - Honda Vision and Honda Click (150,000 VND/day) - and Yamaha Mio. Contact us to confirm current availability.
+Rental fuel is your cost during the rental period ([our rental fuel policy article]({{ '/articles/motorbike-rental-fuel-policy-hanoi/' | relative_url }}) explains what to expect). The most efficient rental-category bikes are the price-published small automatics - Honda Vision and Honda Click (150,000 VND/day) - and Yamaha Mio. Contact us to confirm current availability.

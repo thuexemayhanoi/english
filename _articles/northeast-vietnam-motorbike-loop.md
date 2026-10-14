@@ -42,7 +42,7 @@ A typical loop that riders and operators converge on from Hanoi:
 - **Day 5:** Cao Bang south toward Lang Son country — the QL4A forms the classic eastern flank — or Quang Uyen and the border-crawl roads back through Trung Khanh.
 - **Day 6:** Lang Son/Bac Son valley and home down the QL1A/QL3 corridors to Hanoi.
 
-Days flex: five is possible for confident riders in good weather, eight is comfortable with market days built in. Our day-distance guide explains why northeast kilometres ride slower than the numbers suggest.
+Days flex: five is possible for confident riders in good weather, eight is comfortable with market days built in. [Our day-distance guide]({{ '/articles/how-far-motorbike-day-trip-hanoi/' | relative_url }}) explains why northeast kilometres ride slower than the numbers suggest.
 
 ## Logistics that matter here
 

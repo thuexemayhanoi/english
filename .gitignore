@@ -8,3 +8,4 @@ _site/
 reports/seo/
 reports/rendered-site-audit.json
 reports/maintenance.json
+reports/*-dry-run.json

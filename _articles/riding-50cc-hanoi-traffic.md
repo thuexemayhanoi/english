@@ -40,7 +40,7 @@ A 50cc cannot exploit a gap the way a 110 can — acceleration is a budget you s
 
 ## Bridge ramps and rises
 
-Approach ramps with speed banked early — a small engine climbs best when it arrives at the slope already moving. Downshift (on a geared underbone) before the rise, not on it. Our bridges article covers Hanoi's specific crossings.
+Approach ramps with speed banked early — a small engine climbs best when it arrives at the slope already moving. Downshift (on a geared underbone) before the rise, not on it. [Our bridges article]({{ '/articles/50cc-hills-bridges-hanoi/' | relative_url }}) covers Hanoi's specific crossings.
 
 ## Buses and trucks
 

@@ -31,7 +31,7 @@ Independent route guides and rider accounts converge: budget two to four weeks m
 
 ## The two main route philosophies
 
-**The Ho Chi Minh Road spine.** The modern road built along the legendary wartime trail, running the length of the country through the western mountains — about 1,880 km of it. Less traffic, big scenery, long empty stretches, more mountain riding. Our dedicated guide covers its best sections.
+**The Ho Chi Minh Road spine.** The modern road built along the legendary wartime trail, running the length of the country through the western mountains — about 1,880 km of it. Less traffic, big scenery, long empty stretches, more mountain riding. Our [dedicated guide]({{ '/articles/ho-chi-minh-highway-motorbike-guide/' | relative_url }}) covers its best sections.
 
 **The QL1A coast.** The nation's main street: every city, every truck, every rice-field plain and every beach town in sequence. Busier, flatter, with the cultural highlights (Hue, Hai Van Pass, Hoi An, Nha Trang) directly on the line — [our QL1A guide]({{ '/articles/highway-1-vietnam-motorbike-riding/' | relative_url }}) sets expectations honestly.
 
@@ -51,7 +51,7 @@ Almost every real route mixes the two: mountains in the north and centre, coast 
 
 - **The bike:** a 110-155cc automatic or underbone is the mainstream choice; [our long-distance bike guide]({{ '/articles/best-motorbike-for-long-distance-vietnam/' | relative_url }}) discusses trade-offs. Renting one-way is its own topic — our one-way [guide]({{ '/articles/one-way-motorbike-rental-vietnam/' | relative_url }}) explains how that market works.
 - **Licence first.** Over 50cc requires valid papers; see the tourist licence overview. Riding 2,000 km illegally is a bad bet.
-- **Seasons:** the country has three weather zones; our nationwide seasons guide explains why the question "when should I ride Vietnam?" is three questions.
+- **Seasons:** the country has three weather zones; [our nationwide seasons guide]({{ '/articles/vietnam-monsoon-season-motorbike-travel/' | relative_url }}) explains why the question "when should I ride Vietnam?" is three questions.
 - **Daily distance:** 150-250 km is the sustainable touring band; our day-distance [guide]({{ '/articles/how-far-motorbike-day-trip-hanoi/' | relative_url }}) covers the fatigue math.
 - **Expressways are closed to motorbikes** — the CT routes paralleling the QL1A are not options, and trying them is a fine at best.
 

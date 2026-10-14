@@ -45,8 +45,8 @@ The same national rules apply: over 50cc requires a Vietnamese licence or a 1968
 
 ## Practical notes
 
-- The monsoon hits central Vietnam hard in September-November: check our nationwide seasons guide before planning a coastal riding week.
-- Sand on beach-road corners after wind is the most common local hazard; our after-rain surface guide applies the same caution.
+- The monsoon hits central Vietnam hard in September-November: check [our nationwide seasons guide]({{ '/articles/vietnam-monsoon-season-motorbike-travel/' | relative_url }}) before planning a coastal riding week.
+- Sand on beach-road corners after wind is the most common local hazard; [our after-rain surface guide]({{ '/articles/after-rain-slippery-roads-motorbike/' | relative_url }}) applies the same caution.
 - Motorbikes are banned from expressways nationwide, including the Da Nang tunnels and bridges marked CT — the coast roads are the correct route anyway.
 
 If your trip covers both the north and centre, rent in each region rather than dragging one bike 800 kilometres: our Hanoi fleet covers the northern chapter — contact us to confirm current availability.

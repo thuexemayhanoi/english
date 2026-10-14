@@ -30,7 +30,7 @@ A 155.1 cc single-cylinder four-stroke, liquid-cooled Blue Core engine with VVA 
 
 ## Brakes and wheels
 
-A front hydraulic disc with ABS and a rear drum - front-ABS only, unlike the NMAX's dual-channel setup ([see which scooters have ABS in Vietnam]({{ '/articles/which-scooters-have-abs-vietnam/' | relative_url }})). The wheels are the Lexi's defining feature: 90/90-14 front and 100/90-14 rear, giving it more stability at speed than the 12- and 13-inch wheels common in the class, a trade-off our wheelbase and stability explainer covers.
+A front hydraulic disc with ABS and a rear drum - front-ABS only, unlike the NMAX's dual-channel setup ([see which scooters have ABS in Vietnam]({{ '/articles/which-scooters-have-abs-vietnam/' | relative_url }})). The wheels are the Lexi's defining feature: 90/90-14 front and 100/90-14 rear, giving it more stability at speed than the 12- and 13-inch wheels common in the class, a trade-off [our wheelbase and stability explainer]({{ '/articles/scooter-wheelbase-stability-explained/' | relative_url }}) covers.
 
 ## Size, weight and comfort
 
@@ -48,4 +48,4 @@ Nguyen Tu does not publish a rental rate for the Lexi. Contact us to confirm cur
 
 ## What to check before you ride one
 
-Brake feel from the front ABS disc, tyre condition on the 14-inch wheels, and the basics in our motorbike [safety checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}). Licence classes in Vietnam follow engine capacity - a 155 cc scooter falls under the A1-class rules explained in our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}).
+Brake feel from the front ABS disc, tyre condition on the 14-inch wheels, and the basics in our motorbike [safety checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}). Licence classes in Vietnam follow engine capacity - a 155 cc scooter sits above the 125 cc limit of a new A1 under the 2025 law, so it needs a class A licence (an A1 issued before 2025 still covers it), as explained in our licence [guides]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}).

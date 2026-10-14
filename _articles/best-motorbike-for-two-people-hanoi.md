@@ -24,11 +24,11 @@ Two on a bike is how Hanoi moves. Doing it legally and comfortably is about one 
 
 ## The rule first
 
-Vietnamese law allows one passenger. Helmeted, both of you, always - the passenger's helmet is as compulsory as the rider's. Children have their own narrower rules: under threes may not ride at all, and older children need helmets and a proper seat. There is no "just to the corner" exception in the fine schedule.
+[Vietnamese law allows one passenger]({{ '/articles/motorbike-passenger-rules-vietnam/' | relative_url }}). Helmeted, both of you, always - the passenger's helmet is as compulsory as the rider's. Children have their own narrower rules on helmets and seating, set out in [children as motorbike passengers]({{ '/articles/child-passengers-motorbike-vietnam/' | relative_url }}). There is no "just to the corner" exception in the fine schedule.
 
 ## The bike class that carries two
 
-Mid-size automatic scooters are the two-up tool: a flat floor or a wide seat, pillion footpegs, grab rail, and a wheelbase long enough that a passenger does not destabilise the bike. The Honda Vision class is the standard answer in Hanoi - the seat takes two adults and the under-seat storage swallows both helmets at stops. The Click and Mio class carries two lighter adults fine; two tall riders will want the roomier option. Published rates for these scooters run 150,000-200,000 VND per day.
+Mid-size automatic scooters are the two-up tool: a flat floor or a wide seat, pillion footpegs, grab rail, and a wheelbase long enough that a passenger does not destabilise the bike. The [Honda Vision class]({{ '/articles/best-scooters-to-rent-hanoi/' | relative_url }}) is the standard answer in Hanoi - the seat takes two adults and the under-seat storage swallows both helmets at stops. The Click and Mio class carries two lighter adults fine; two tall riders will want the roomier option. [Published rates]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) for these scooters run 150,000-200,000 VND per day.
 
 ## What does not work two-up
 
@@ -36,8 +36,8 @@ Semi-automatic underbones (Wave/Sirius class) carry two - half of Vietnam proves
 
 ## Riding two-up, briefly
 
-Take-off and slow-speed balance are where the passenger changes everything: the passenger boards after you are settled, sits still at low speeds, and leans with you at speed. Brake earlier; you are stopping two people's weight. The passenger-rules article covers the legal detail.
+Take-off and slow-speed balance are where the passenger changes everything: the passenger boards after you are settled, sits still at low speeds, and leans with you at speed. Brake earlier; you are stopping two people's weight. The [passenger rules guide]({{ '/articles/motorbike-passenger-rules-vietnam/' | relative_url }}) covers the legal detail.
 
 ## Choosing
 
-One passenger, two helmets, mid-size scooter, and confirm the model's availability for your dates - two riders on a multi-day rental should reserve early. Contact us to confirm current availability.
+One passenger, two helmets, mid-size scooter, and confirm the model's availability for your dates - two riders on a multi-day rental should reserve early. [Contact us]({{ '/contact/' | relative_url }}) to confirm current availability.

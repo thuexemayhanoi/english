@@ -29,7 +29,7 @@ The FreeGo's Blue Core 124.9 cc air-cooled single makes 7.0 kW at 8,000 rpm and 
 
 ## Storage and equipment
 
-FreeGo: 25-litre underseat bay, smart key, LED headlight, charging port, disc/drum brakes with an ABS S version offered. Vario 125: 18-litre bay, smart key, LCD panel, USB-C, full LED, front disc with CBS. The FreeGo carries more; the Vario has the more modern electronics suite. Our CBS explainer covers what combined braking actually does.
+FreeGo: 25-litre underseat bay, smart key, LED headlight, charging port, disc/drum brakes with an ABS S version offered. Vario 125: 18-litre bay, smart key, LCD panel, USB-C, full LED, front disc with CBS. The FreeGo carries more; the Vario has the more modern electronics suite. [Our CBS explainer]({{ '/articles/scooter-cbs-ubs-combined-braking-explained/' | relative_url }}) covers what combined braking actually does.
 
 ## Weight and seat
 

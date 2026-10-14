@@ -33,7 +33,7 @@ A month or a semester in Hanoi is exactly the window where renting monthly beats
 - **Deposits**: expect a deposit — typically in the 2,000,000 to 5,000,000 VND range depending on the vehicle and conditions. On longer rentals, confirm exactly what the deposit covers and what counts as chargeable damage.
 - **Maintenance**: on a long rental, agree who services the bike. At Nguyen Tu, maintenance may include oil changes, chain adjustment, tyre-pressure checks and normal inspection — and for high-mileage months the owner's practical guidance is periodic checks around every 1,500 km or so of use. That is owner guidance, not a manufacturer interval.
 - **Consumables**: inner tubes and tyres may be the renter's responsibility depending on the situation — settle that understanding at pickup, not after the first puncture.
-- **Insurance**: we do not provide motorbike insurance; arrange your own cover. The compulsory-insurance guide explains what the mandatory policy covers for vehicles in Vietnam.
+- **Insurance**: we do not provide motorbike insurance; arrange your own cover. [The compulsory-insurance guide]({{ '/articles/compulsory-motorbike-insurance-vietnam/' | relative_url }}) explains what the mandatory policy covers for vehicles in Vietnam.
 - **Returns**: late returns are charged at 20,000 VND per hour, and more than six hours late may mean a full additional day. Plan the return handover like you planned the pickup.
 
 ## The learner case

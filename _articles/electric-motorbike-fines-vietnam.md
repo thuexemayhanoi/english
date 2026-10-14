@@ -47,7 +47,7 @@ The same provisions carry licence-point deductions and, at the top of the alcoho
 
 ## The electric-specific trap
 
-The expensive mistake is class mismatch: a rider with no licence on a Dat Bike Weaver 200 — a 6,000 W, A1-class machine — is unlicensed in law, whatever the bike looks like. Our power-and-licence guide maps which verified Vietnamese machines need which licence. Under-16 riders have their own rules explained in the moped-at-16 article.
+The expensive mistake is class mismatch: a rider with no licence on a Dat Bike Weaver 200 — a 6,000 W, A1-class machine — is unlicensed in law, whatever the bike looks like. [Our power-and-licence guide]({{ '/articles/electric-motorbike-power-kw-licence-vietnam/' | relative_url }}) maps which verified Vietnamese machines need which licence. Under-16 riders have their own rules explained in the moped-at-16 article.
 
 ## The cheap defences
 

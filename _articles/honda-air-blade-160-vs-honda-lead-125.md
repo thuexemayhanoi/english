@@ -39,7 +39,7 @@ Both Hondas share engines from the same family, liquid cooling and automatic pra
 
 - **Performance:** the 160 has a clear advantage in both power and torque - the difference you feel carrying a passenger or overtaking outside the city.
 - **Range:** the Lead's 6.0-litre tank is the biggest in this group; despite similar consumption figures it goes noticeably further between fills.
-- **Storage:** no contest - the Lead's 37-litre bay holds two full-face helmets. If you carry things daily, the Lead wins on usability alone (see the storage comparison).
+- **Storage:** no contest - the Lead's 37-litre bay holds two full-face helmets. If you carry things daily, the Lead wins on usability alone ([see the storage comparison]({{ '/articles/scooter-underseat-storage-comparison/' | relative_url }})).
 - **Safety:** the Lead is offered with ABS - see which scooters have ABS in Vietnam.
 
 ## Which should you choose?

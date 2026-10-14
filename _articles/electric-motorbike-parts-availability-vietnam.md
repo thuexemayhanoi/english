@@ -26,7 +26,7 @@ Vietnam can fix anything with an engine — the question for an electric motorbi
 
 ## The parts that are just motorbike parts
 
-Tyres, tubes, brake pads and discs, bearings, bulbs, mirrors, cables, suspension seals — an electric motorbike wears all of these exactly like a scooter, and any competent Vietnamese shop handles them. Some of the maintenance is even simpler than petrol: no engine oil, no spark plugs, no carburettor, no fuel tap, no clutch plates. The consumables list shrinks dramatically; our maintenance-basics guide covers the short list.
+Tyres, tubes, brake pads and discs, bearings, bulbs, mirrors, cables, suspension seals — an electric motorbike wears all of these exactly like a scooter, and any competent Vietnamese shop handles them. Some of the maintenance is even simpler than petrol: no engine oil, no spark plugs, no carburettor, no fuel tap, no clutch plates. The consumables list shrinks dramatically; [our maintenance-basics guide]({{ '/articles/electric-motorbike-maintenance-basics/' | relative_url }}) covers the short list.
 
 ## The parts that are manufacturer territory
 
@@ -38,7 +38,7 @@ The motor, controller, battery-management system, display unit and charger are s
 | VinFast | Swap-platform structure: the pack itself is a rental/swap asset serviced by the network; the V-Green system had its first 4,500 stations installed by mid-January 2026 with 45,000 planned |
 | Smaller brands | Varies — check the service network before buying, not after the first fault |
 
-The battery economics of the VinFast class mean a "battery repair" is usually a swap or a rental-fleet exchange rather than a workshop rebuild — the pack-replacement article explains the structure.
+The battery economics of the VinFast class mean a "battery repair" is usually a swap or a rental-fleet exchange rather than a workshop rebuild — [the pack-replacement article]({{ '/articles/electric-motorbike-battery-replacement-vietnam/' | relative_url }}) explains the structure.
 
 ## What breaks in practice
 

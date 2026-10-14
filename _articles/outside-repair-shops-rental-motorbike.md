@@ -28,7 +28,7 @@ A rental bike is the shop's asset, maintained on the shop's side of the deal (oi
 
 ## The yes-list (small, standard, receiptable)
 
-- Puncture repair or a new tube at a roadside tyre shop - the puncture article explains the typical payment split; keep the receipt.
+- Puncture repair or a new tube at a roadside tyre shop - [the puncture article]({{ '/articles/punctured-tyre-on-rental-motorbike/' | relative_url }}) explains the typical payment split; keep the receipt.
 - Chain lubrication, a basic adjustment on a long trip.
 - A bulb, a mirror, a cable replaced at a provincial workshop mid-tour.
 - Anything the shop tells you to get done on the phone.

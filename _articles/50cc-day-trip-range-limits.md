@@ -45,7 +45,7 @@ Small tank, small engine: range per tank is modest, and village petrol stations 
 
 - 25–35 km out, flat: a village market and back before lunch — ideal
 - 50 km out: leave early, one proper stop, return by mid-afternoon — comfortable
-- Anything promising hills, dirt sections or 80+ km out: this is what the 110-and-up class exists for; [our day-trip bike article]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }}) covers those options, and the upgrade article covers moving up
+- Anything promising hills, dirt sections or 80+ km out: this is what the 110-and-up class exists for; [our day-trip bike article]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }}) covers those options, and [the upgrade article]({{ '/articles/upgrading-from-50cc-to-110cc/' | relative_url }}) covers moving up
 
 ## The verdict
 

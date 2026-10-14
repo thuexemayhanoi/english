@@ -31,7 +31,7 @@ Cat Ba is the only sea-island motorbike trip you can do in a weekend from Hanoi:
 
 Two main road options exist, and both matter for riders. The first is the classic National Highway 5 (QL5) through Hai Phong territory to the Tan Vu-Lach Huyen sea-crossing bridge, which lands you on Cat Hai island next to the Dong Bai ferry port — about 135 km and three and a half hours from central Hanoi by most published estimates. The second continues on QL5 and then QL18 around to Ha Long city and the Tuan Chau ferry terminal, about 150 km, which pairs the island with a look at Ha Long Bay from the mainland.
 
-One rule is absolute: the Hanoi-Hai Phong and Ha Long expressways are closed to motorbikes, so QL5 and QL18 are the legal routes. [Our motorbikes-on-expressways explainer]({{ '/articles/motorbikes-on-expressway-vietnam/' | relative_url }}) covers the rule and the fines; the ferry-and-train transport guide covers everything else about moving a bike around Vietnam by boat.
+One rule is absolute: the Hanoi-Hai Phong and Ha Long expressways are closed to motorbikes, so QL5 and QL18 are the legal routes. [Our motorbikes-on-expressways explainer]({{ '/articles/motorbikes-on-expressway-vietnam/' | relative_url }}) covers the rule and the fines; [the ferry-and-train transport guide]({{ '/articles/motorbike-ferry-train-transport-vietnam/' | relative_url }}) covers everything else about moving a bike around Vietnam by boat.
 
 ## The ferry crossing
 
@@ -41,7 +41,7 @@ Salt air is hard on a bike: after the trip, rinse the machine (especially the ch
 
 ## On the island
 
-Cat Ba is bigger than most visitors expect — a national park covering most of the interior, with a crossing road over the hills between the two ferry ports. The island ride is short but genuinely fun: forested climbs, a viewpoint over Lan Ha Bay, and the descent to the town's waterfront. Park in paid lots near the town beach; our Hanoi parking habits guide applies anywhere — helmet with you, documents with you, never leave them with the bike.
+Cat Ba is bigger than most visitors expect — a national park covering most of the interior, with a crossing road over the hills between the two ferry ports. The island ride is short but genuinely fun: forested climbs, a viewpoint over Lan Ha Bay, and the descent to the town's waterfront. Park in paid lots near the town beach; [our Hanoi parking habits guide]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}) applies anywhere — helmet with you, documents with you, never leave them with the bike.
 
 ## A workable plan
 

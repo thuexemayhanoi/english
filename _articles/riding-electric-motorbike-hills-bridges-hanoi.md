@@ -45,4 +45,4 @@ The twist-and-go transmission makes hill starts nearly foolproof: hold the rear 
 
 ## Riding down the other side
 
-The descent is where the electric pays some range back — regenerative braking on machines so equipped tops the pack up slightly while controlling speed, and our regen guide explains how to use it smoothly. Combine it with the bridge-riding rules in the crossing guide — lane position and predictability matter more than drive type — and the hills of Hanoi stop being a range question at all.
+The descent is where the electric pays some range back — regenerative braking on machines so equipped tops the pack up slightly while controlling speed, and [our regen guide]({{ '/articles/regen-braking-explained-electric/' | relative_url }}) explains how to use it smoothly. Combine it with the bridge-riding rules in the crossing guide — lane position and predictability matter more than drive type — and the hills of Hanoi stop being a range question at all.

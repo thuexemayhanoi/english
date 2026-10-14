@@ -41,7 +41,7 @@ Fuel planning matters more than near Hanoi: rider guides note there is very litt
 
 ## Planning the two days
 
-A proven shape for the weekend: day one, leave by 8 a.m., break the ride at Hoa Binh or the lake, cross the pass before the afternoon cloud builds, and reach the plateau with daylight to spare for a tea-hill loop around town. Day two, ride a morning circuit of the plateau sights, then descend QL6 and be back in Hanoi before dark — [our how-far-per-day guide]({{ '/articles/how-far-motorbike-day-trip-hanoi/' | relative_url }}) explains why the return leg always feels longer. Riders with a third day often continue toward Ta Xua cloud country or start a longer northwest circuit; our northwest loop guide covers that route.
+A proven shape for the weekend: day one, leave by 8 a.m., break the ride at Hoa Binh or the lake, cross the pass before the afternoon cloud builds, and reach the plateau with daylight to spare for a tea-hill loop around town. Day two, ride a morning circuit of the plateau sights, then descend QL6 and be back in Hanoi before dark — [our how-far-per-day guide]({{ '/articles/how-far-motorbike-day-trip-hanoi/' | relative_url }}) explains why the return leg always feels longer. Riders with a third day often continue toward Ta Xua cloud country or start a longer northwest circuit; [our northwest loop guide]({{ '/articles/northwest-vietnam-motorbike-loop/' | relative_url }}) covers that route.
 
 ## Practical notes
 

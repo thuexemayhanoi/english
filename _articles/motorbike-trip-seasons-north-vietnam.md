@@ -23,7 +23,7 @@ sources:
 internal_link_targets: hanoi-riding-seasons-guide, riding-motorbike-heavy-rain-vietnam, winter-riding-motorbike-hanoi, fog-and-low-visibility-riding-motorbike-vietnam, motorbike-trip-prep-checklist-hanoi, northwest-vietnam-motorbike-loop, sapa-motorbike-trip-hanoi, tet-holiday-motorbike-travel-vietnam, vietnam-monsoon-season-motorbike-travel
 ---
 
-Northern Vietnam has four riding seasons, and they are not equal. The city commuting calendar (see the Hanoi riding-seasons guide) matters less out here — what matters is the monsoon, the mountain cold, and the two golden windows everyone plans around.
+Northern Vietnam has four riding seasons, and they are not equal. The city commuting calendar ([see the Hanoi riding-seasons guide]({{ '/articles/hanoi-riding-seasons-guide/' | relative_url }})) matters less out here — what matters is the monsoon, the mountain cold, and the two golden windows everyone plans around.
 
 ## Spring (March–April)
 

@@ -36,7 +36,7 @@ If the new bike carries the same deposit band, shops typically carry the held de
 
 ## Inspect the new bike like day one
 
-A swap is a full handover: brakes, lights, horn, mirrors, tyres, existing scratches, fuel cap location, cold start — the complete checklist is in [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}). This is the moment that catches the previous renter's problems before they become yours.
+A swap is a full handover: brakes, lights, horn, mirrors, tyres, existing scratches, fuel cap location, cold start — [the complete checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) is in [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}). This is the moment that catches the previous renter's problems before they become yours.
 
 ## The classic swap scenarios
 

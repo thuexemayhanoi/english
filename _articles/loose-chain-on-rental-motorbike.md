@@ -36,7 +36,7 @@ A slack chain slaps the swingarm, jumps sprocket teeth under load (which locks t
 
 ## What to do on a rental
 
-Report it. Chain adjustment and tensioning is explicitly the owner's maintenance on a Nguyen Tu rental - take the bike back, or call and describe it, and it is done on the spot at no cost. Do not ignore it for days of riding; do not pay a third-party workshop to adjust the shop's chain without asking (the outside-repair article covers when third-party work makes sense - adjustments are not it).
+Report it. Chain adjustment and tensioning is explicitly the owner's maintenance on a Nguyen Tu rental - take the bike back, or call and describe it, and it is done on the spot at no cost. Do not ignore it for days of riding; do not pay a third-party workshop to adjust the shop's chain without asking ([the outside-repair article]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) covers when third-party work makes sense - adjustments are not it).
 
 ## On the road, far from the shop
 

@@ -45,4 +45,4 @@ The Evo counters with the platform's best claimed range — up to 165 km — whi
 - **Viper**: riders who park on the street, value the anti-theft tracking, ride at night, or simply want the newest connected features. The Viper review covers the package in detail.
 - **Evo**: riders whose week is measured in kilometres — longer commutes, delivery-style duty, fewer swaps. The Evo review covers the efficiency case.
 
-If neither feature set nor the range gap settles it, the Feliz II splits the difference as the mainstream refresh (Viper vs Feliz II, Evo vs Feliz II), and the line-up guide maps the whole family. Rental availability of either: contact us to confirm current availability.
+If neither feature set nor the range gap settles it, the Feliz II splits the difference as the mainstream refresh (Viper vs Feliz II, Evo vs Feliz II), and [the line-up guide]({{ '/articles/vinfast-electric-scooter-lineup-vietnam/' | relative_url }}) maps the whole family. Rental availability of either: contact us to confirm current availability.

@@ -35,7 +35,7 @@ Right turns are their own game — including the unusual signal-governed right-o
 
 ## Junctions without lights
 
-The working rule is big road first, slow everything else: make eye contact, move predictably, and never accelerate through a gap a bus could also take. Defensive-riding-motorbike-vietnam generalises the mindset.
+The working rule is big road first, slow everything else: make eye contact, move predictably, and never accelerate through a gap a bus could also take. [Defensive Riding on a Motorbike in Vietnam]({{ '/articles/defensive-riding-motorbike-vietnam/' | relative_url }}) generalises the mindset.
 
 ## The one-line version
 

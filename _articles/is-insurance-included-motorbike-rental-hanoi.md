@@ -41,4 +41,4 @@ Even a policy that covers motorbiking generally excludes riding without a licenc
 
 ## What to do at handover
 
-One question: "Can I see the bike's insurance certificate?" Then one question to your insurer: "Does my policy cover me riding a motorbike in Vietnam, at these engine sizes, with my licence?" Those two answers are the whole insurance picture of a rental. The next article covers the rider-side insurance question in full.
+One question: "Can I see the bike's insurance certificate?" Then one question to your insurer: "Does my policy cover me riding a motorbike in Vietnam, at these engine sizes, with my licence?" Those two answers are the whole insurance picture of a rental. The [next article]({{ '/articles/do-you-need-insurance-to-ride-vietnam/' | relative_url }}) covers the rider-side insurance question in full.

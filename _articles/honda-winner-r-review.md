@@ -34,7 +34,7 @@ Kerb weight is 124 kg, the seat sits at 795 mm, and ground clearance is 153 mm. 
 
 ## Licence and riding notes
 
-Every bike in this guide sits under 175 cc, the A1 licence bracket - our A1 guide covers exactly what you can ride. Riding a clutch bike for the first time is a different skill from a semi-automatic; our clutch care articles cover the basics, and this hub's manual-clutch cluster covers riding technique. A Winner will cruise happily at highway speeds for Hanoi day trips.
+Every bike in this guide sits in the 150-155 cc class, above the 125 cc limit of a new A1 licence under the 2025 law, so it needs a [class A licence]({{ '/articles/vietnam-a-licence-what-you-can-ride/' | relative_url }}) (an A1 issued before 2025 still covers bikes up to 175 cc) - our [A1 guide]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) covers exactly what you can ride. Riding a clutch bike for the first time is a different skill from a semi-automatic; our clutch care articles cover the basics, and this hub's manual-clutch cluster covers riding technique. A Winner will cruise happily at highway speeds for Hanoi day trips.
 
 ## Price and rivals
 

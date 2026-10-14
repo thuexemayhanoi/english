@@ -23,7 +23,7 @@ Foreign riders in Hanoi face a double sizing problem: local shops stock Asian-cu
 
 ## Why sizes lie
 
-"Asian" sizing is cut for different average body proportions — typically shorter sleeves and torso and slimmer shoulders than European patterns. A jacket that fits your chest may leave your wrists exposed at full reach, and armour pockets will sit slightly off your joints — which matters, because armour protects the joint it covers, nothing else. Tall riders deal with the same issue on the bike side; the ergonomics article is [Best Motorbikes for Tall Foreign Riders in Vietnam]({{ '/articles/best-motorbikes-for-tall-riders-vietnam/' | relative_url }}).
+"Asian" sizing is cut for different average body proportions — typically shorter sleeves and torso and slimmer shoulders than European patterns. A jacket that fits your chest may leave your wrists exposed at full reach, and armour pockets will sit slightly off your joints — which matters, because armour protects the joint it covers, nothing else. Tall riders deal with the same issue on the bike side; [the ergonomics article]({{ '/articles/handlebar-raisers-riding-ergonomics/' | relative_url }}) is [Best Motorbikes for Tall Foreign Riders in Vietnam]({{ '/articles/best-motorbikes-for-tall-riders-vietnam/' | relative_url }}).
 
 ## Fit checks that matter
 

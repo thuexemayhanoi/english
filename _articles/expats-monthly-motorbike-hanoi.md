@@ -25,15 +25,15 @@ For expats staying in Hanoi for months or years, a monthly rental sits between d
 
 ## Licence reality first
 
-Riding legally in Vietnam requires the right licence for the bike you ride — for foreigners this usually means a Vietnamese licence or a valid IDP paired with the correct home licence, depending on your situation. Do not ride unlicensed; the fines and impound risks are real and are covered in the law and licences hub. Long-term-rider-licence-checklist-hanoi covers the expat-specific paperwork.
+Riding legally in Vietnam requires the right licence for the bike you ride — for foreigners this usually means a Vietnamese licence or a valid IDP paired with the correct home licence, depending on your situation. Do not ride unlicensed; the fines and impound risks are real and are covered in the [law and licences hub]({{ '/topics/law-licences/' | relative_url }}). [The Long-Term Rider's Licence Checklist for Hanoi]({{ '/articles/long-term-rider-licence-checklist-hanoi/' | relative_url }}) covers the expat-specific paperwork.
 
 ## Why monthly beats daily for stays over a few weeks
 
-A month at a published monthly rate costs less than paying the daily rate every day for models where monthly rates exist; for other models there is no published monthly rate, so contact Nguyen Tu to confirm current pricing. The full comparison, including when buying wins instead, is in [Long-Term Renting vs Buying a Motorbike in Hanoi for Residents]({{ '/articles/long-term-renting-vs-buying-residents-hanoi/' | relative_url }}).
+A month at a published monthly rate costs less than paying the daily rate every day for models where monthly rates exist; for other models there is no published monthly rate, so [contact Nguyen Tu]({{ '/contact/' | relative_url }}) to confirm current pricing. The full comparison, including when buying wins instead, is in [Long-Term Renting vs Buying a Motorbike in Hanoi for Residents]({{ '/articles/long-term-renting-vs-buying-residents-hanoi/' | relative_url }}).
 
 ## What to arrange at set-up
 
-The standard monthly requirements apply: deposit, documents, agreement terms. Monthly-motorbike-rental-requirements-hanoi lists them. As an expat you have one extra question: what happens if your visa status changes mid-term? Keep the agreement and the shop's contact details somewhere you can find them months later.
+The standard monthly requirements apply: deposit, documents, agreement terms. [Monthly Motorbike Rental Requirements in Hanoi]({{ '/articles/monthly-motorbike-rental-requirements-hanoi/' | relative_url }}) lists them. As an expat you have one extra question: what happens if your visa status changes mid-term? Keep the agreement and the shop's contact details somewhere you can find them months later.
 
 ## Build the routine
 

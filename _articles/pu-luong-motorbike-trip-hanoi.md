@@ -42,12 +42,12 @@ Homestay culture here is the main accommodation: family stilt houses with dinner
 
 ## The three-day pairing
 
-Pu Luong's geography makes it a perfect middle act. The recommended public circuit is Hanoi-Mai Chau-Pu Luong-Ninh Binh: day one out the QL6 to Mai Chau, day two the short hop to Pu Luong with a full afternoon in the terraces, day three home through the Thanh Hoa side roads or down to Ninh Binh's karst country — [our Ninh Binh guide]({{ '/articles/ninh-binh-day-trip-motorbike-hanoi/' | relative_url }}) covers that leg, and riding home through it turns a good trip into a great one. Our day-distance guide explains why three modest days beat two rushed ones here.
+Pu Luong's geography makes it a perfect middle act. The recommended public circuit is Hanoi-Mai Chau-Pu Luong-Ninh Binh: day one out the QL6 to Mai Chau, day two the short hop to Pu Luong with a full afternoon in the terraces, day three home through the Thanh Hoa side roads or down to Ninh Binh's karst country — [our Ninh Binh guide]({{ '/articles/ninh-binh-day-trip-motorbike-hanoi/' | relative_url }}) covers that leg, and riding home through it turns a good trip into a great one. [Our day-distance guide]({{ '/articles/how-far-motorbike-day-trip-hanoi/' | relative_url }}) explains why three modest days beat two rushed ones here.
 
 ## Practical notes
 
 - Fuel: top up before leaving the QL6/QL15 junction country; inside the reserve there is little beyond village pumps.
-- Bike: anything from a scooter up manages the main valley roads solo; the higher Ban Hieu valley road is steep and gravelly in patches — confident riders only, and our mountain-pass guide's principles apply even to small hills.
+- Bike: anything from a scooter up manages the main valley roads solo; the higher Ban Hieu valley road is steep and gravelly in patches — confident riders only, and [our mountain-pass guide]({{ '/articles/mountain-pass-riding-motorbike-vietnam/' | relative_url }})'s principles apply even to small hills.
 - Season check: autumn and the green rice season are the photogenic windows; mid-summer is hot and storm-prone (see our seasons [guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }})).
 - Run the standard prep checklist; the nearest full workshops are back on the Hoa Binh side.
 

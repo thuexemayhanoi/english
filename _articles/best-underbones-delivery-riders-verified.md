@@ -32,7 +32,7 @@ The Wave RSX's U-box takes a half helmet or a delivery box mount; the CT125's ra
 
 ## What to avoid
 
-Manual-clutch sport bikes. A 2.59 L/100 km Winner R or 2.91 L/100 km CBR150R burns your profit, and a heavy clutch is misery in ten-hour traffic - the semi-automatic format wins for commercial use, as our scooter-versus-semi-automatic explainer details.
+Manual-clutch sport bikes. A 2.59 L/100 km Winner R or 2.91 L/100 km CBR150R burns your profit, and a heavy clutch is misery in ten-hour traffic - the semi-automatic format wins for commercial use, as [our scooter-versus-semi-automatic explainer]({{ '/articles/scooter-vs-semi-automatic-hanoi/' | relative_url }}) details.
 
 ## Maintenance reality
 

@@ -23,7 +23,7 @@ Owning a small underbone in Hanoi is one of the cheapest forms of motorised tran
 
 ## Purchase
 
-New mainstream semi-autos list from roughly 18.8 million VND (Wave Alpha) through the low twenties (Blade, Sirius, Wave RSX) to around 30.6 million (Future 125 FI). Used examples cost a fraction of that, with the usual inspection discipline. The dealer-buying guide covers the new-purchase process.
+New mainstream semi-autos list from roughly 18.8 million VND (Wave Alpha) through the low twenties (Blade, Sirius, Wave RSX) to around 30.6 million (Future 125 FI). Used examples cost a fraction of that, with the usual inspection discipline. [The dealer-buying guide]({{ '/articles/buying-new-underbone-dealer-guide-vietnam/' | relative_url }}) covers the new-purchase process.
 
 ## The running costs, ranked
 
@@ -42,6 +42,6 @@ New mainstream semi-autos list from roughly 18.8 million VND (Wave Alpha) throug
 
 ## Renting versus owning
 
-Renting makes sense for stays under a few months — monthly rates, no paperwork, no theft exposure, maintenance handled. Owning wins on longer horizons and full-time residence, once the purchase price has amortised. Our monthly-rental guide covers the renting side; if you are on the renting side of the line, contact us to confirm current availability.
+Renting makes sense for stays under a few months — monthly rates, no paperwork, no theft exposure, maintenance handled. Owning wins on longer horizons and full-time residence, once the purchase price has amortised. [Our monthly-rental guide]({{ '/articles/monthly-renting-manual-clutch-hanoi/' | relative_url }}) covers the renting side; if you are on the renting side of the line, contact us to confirm current availability.
 
 Whichever side you choose, the economics of this class are unbeatable — which is exactly why half the country rides them.

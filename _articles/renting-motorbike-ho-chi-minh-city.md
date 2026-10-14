@@ -48,7 +48,7 @@ Read [our first-timers' guide]({{ '/articles/ho-chi-minh-city-riding-first-timer
 
 ## Where to ride from Saigon
 
-The Mekong Delta starts at the city limits: flat, green, laced with ferries and narrow concrete lanes — the easiest touring in the country. Day trips reach the Cu Chi tunnels and the Vung Tau coast road (highway sections there require care; motorbikes are banned from expressways). Two or three days covers Ben Tre, Can Tho and the floating markets. See our Mekong Delta riding guide for route ideas.
+The Mekong Delta starts at the city limits: flat, green, laced with ferries and narrow concrete lanes — the easiest touring in the country. Day trips reach the Cu Chi tunnels and the Vung Tau coast road (highway sections there require care; motorbikes are banned from expressways). Two or three days covers Ben Tre, Can Tho and the floating markets. See [our Mekong Delta riding guide]({{ '/articles/mekong-delta-motorbike-guide/' | relative_url }}) for route ideas.
 
 ## Renting in Saigon vs Hanoi
 

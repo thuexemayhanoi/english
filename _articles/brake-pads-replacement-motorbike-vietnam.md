@@ -35,7 +35,7 @@ Pads are inexpensive relative to what they protect; discs and calipers are not. 
 
 ## On a rental
 
-Brake work on a rental is the shop's responsibility — report sponginess or squealing and let them handle it. Outside-repair-shops-rental-motorbike covers the process if you are away from the shop when the problem appears.
+Brake work on a rental is the shop's responsibility — report sponginess or squealing and let them handle it. [Can You Use Outside Repair Shops on a Rental Motorbike?]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) covers the process if you are away from the shop when the problem appears.
 
 ## The one-line version
 

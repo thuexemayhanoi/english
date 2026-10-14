@@ -36,7 +36,7 @@ Message ahead the moment you know. A shop that hears "my flight moved, I will be
 
 ## Extending instead of returning late
 
-Most "late returns" are really unplanned extensions. If you want the bike longer, say so - a planned extra day at the day rate is a normal transaction; an unplanned late return is the same money plus friction. Availability permitting, extensions are the better path for everyone. For multi-day extensions the period article shows where the weekly rate takes over.
+Most "late returns" are really unplanned extensions. If you want the bike longer, say so - a planned extra day at the day rate is a normal transaction; an unplanned late return is the same money plus friction. Availability permitting, extensions are the better path for everyone. For multi-day extensions [the period article]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}) shows where the weekly rate takes over.
 
 ## What never to do
 

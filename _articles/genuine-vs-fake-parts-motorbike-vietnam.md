@@ -27,7 +27,7 @@ The pattern is universal: high-volume consumables for popular models. Brake pads
 
 ## How to get genuine parts
 
-Say the word: "phụ tùng chính hãng" (genuine parts) is a normal request, not a fussy one. Brand dealers and authorised workshops for Honda and Yamaha carry genuine parts by default; independent workshops can order them on request. Packaging is a check — genuine packaging in Vietnam is usually well-printed with part numbers that match what is inside; suspiciously loose packaging with misprinted logos is a signal. For brake components especially, asking to see the part and its box before it is fitted is reasonable. Brake-pads-replacement-motorbike-vietnam covers the work itself.
+Say the word: "phụ tùng chính hãng" (genuine parts) is a normal request, not a fussy one. Brand dealers and authorised workshops for Honda and Yamaha carry genuine parts by default; independent workshops can order them on request. Packaging is a check — genuine packaging in Vietnam is usually well-printed with part numbers that match what is inside; suspiciously loose packaging with misprinted logos is a signal. For brake components especially, asking to see the part and its box before it is fitted is reasonable. [Brake Pads: Signs, Replacement and What to Expect]({{ '/articles/brake-pads-replacement-motorbike-vietnam/' | relative_url }}) covers the work itself.
 
 ## Price as a signal
 

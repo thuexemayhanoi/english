@@ -29,7 +29,7 @@ SH160i: 12.4 kW at 8,500 rpm, 14.8 Nm at 6,500 rpm. Vario 160: 11.3 kW at 8,500 
 
 ## Braking and safety
 
-The SH160i has ABS on both wheels plus HSTC traction control on its Sport, Special and Premium versions - top safety hardware, explained in our HSTC guide. The Vario 160 has front-wheel ABS. Both are covered in our ABS [availability guide]({{ '/articles/abs-on-underbones-vietnam-explained/' | relative_url }}); the SH is the safety-hardware winner.
+The SH160i has ABS on both wheels plus HSTC traction control on its Sport, Special and Premium versions - top safety hardware, explained in [our HSTC guide]({{ '/articles/honda-hstc-traction-control-scooters/' | relative_url }}). The Vario 160 has front-wheel ABS. Both are covered in our ABS [availability guide]({{ '/articles/abs-on-underbones-vietnam-explained/' | relative_url }}); the SH is the safety-hardware winner.
 
 ## Weight, wheels, comfort
 

@@ -28,7 +28,7 @@ For the models with published monthly rates, a month rental is far cheaper than 
 
 ## Flexibility questions to ask up front
 
-Nomads have three questions the average renter does not: Can the rental be extended a few weeks if a stay stretches? Can the bike be returned early if you move on sooner, and what does that mean given there is no automatic refund? What happens to the agreement if you leave the country for a week mid-term? Extending-motorbike-rental-hanoi and [Shortening a Long Motorbike Rental in Hanoi]({{ '/articles/shortening-long-motorbike-rental-hanoi/' | relative_url }}) cover the first two — ask the third directly.
+Nomads have three questions the average renter does not: Can the rental be extended a few weeks if a stay stretches? Can the bike be returned early if you move on sooner, and what does that mean given there is no automatic refund? What happens to the agreement if you leave the country for a week mid-term? [Extending or Renewing a Monthly Motorbike Rental in Hanoi]({{ '/articles/extending-motorbike-rental-hanoi/' | relative_url }}) and [Shortening a Long Motorbike Rental in Hanoi]({{ '/articles/shortening-long-motorbike-rental-hanoi/' | relative_url }}) cover the first two — ask the third directly.
 
 ## Moving districts
 
@@ -36,7 +36,7 @@ Changing apartments mid-rental changes your parking, not your agreement — [Mov
 
 ## Licence and paperwork
 
-Your visa and licence situation can change faster as a nomad. Licence-expiry-during-long-rental-hanoi covers what to do when documents expire mid-term — worth reading before it happens, because riding on expired papers in Vietnam carries real penalties.
+Your visa and licence situation can change faster as a nomad. [When Your Licence or Visa Expires Mid-Rental in Hanoi]({{ '/articles/licence-expiry-during-long-rental-hanoi/' | relative_url }}) covers what to do when documents expire mid-term — worth reading before it happens, because riding on expired papers in Vietnam carries real penalties.
 
 ## The one-line version
 

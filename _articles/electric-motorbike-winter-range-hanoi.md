@@ -37,6 +37,6 @@ Battery chemistry works by electrochemical reactions, and reactions slow in the 
 
 ## The Tet-week trap
 
-Winter also contains Tet: weeks of long family trips, passenger loads and riding to schedules. A machine that does the commute with room to spare can arrive at an all-day Tet ride already marginal. The day-trip range-planning guide covers how to plan those routes on electric, and the winter-storage article covers the opposite case — the bikes that sit the season out.
+Winter also contains Tet: weeks of long family trips, passenger loads and riding to schedules. A machine that does the commute with room to spare can arrive at an all-day Tet ride already marginal. [The day-trip range-planning guide]({{ '/articles/electric-motorbike-day-trips-range-planning-hanoi/' | relative_url }}) covers how to plan those routes on electric, and [the winter-storage article]({{ '/articles/storing-electric-motorbike-long-breaks/' | relative_url }}) covers the opposite case — the bikes that sit the season out.
 
 The dip is temporary and honest: the pack returns to its warmer-weather behaviour when the season turns. The rider's only real job is to not be surprised by it.

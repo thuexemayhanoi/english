@@ -42,6 +42,6 @@ Loose surfaces reward a loose grip on the bars. Let the front wiggle — it is d
 
 ## After the dirt section
 
-Gravel sticks in the chain, brake calipers and every moving part. A quick look at the chain after a long dirt ride is worthwhile — and the chain-maintenance guide explains what to check. Deep-dust days deserve the same care.
+Gravel sticks in the chain, brake calipers and every moving part. A quick look at the chain after a long dirt ride is worthwhile — and [the chain-maintenance guide]({{ '/articles/chain-maintenance-motorbike-vietnam/' | relative_url }}) explains what to check. Deep-dust days deserve the same care.
 
 You do not need an adventure bike for most Vietnamese dirt roads — a sensible rider on an underbone covers them safely every day. If your routes include unpaved stretches, contact us to confirm current availability of higher-clearance models.

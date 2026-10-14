@@ -44,7 +44,7 @@ The Tran Phu beach boulevard is the pleasure ride: flat, wide, slow. The city be
 
 ## Season warning
 
-Central-coast rain and storms peak in the autumn months, and Nha Trang's beach riding goes from easy to miserable quickly. Our nationwide monsoon guide shows the window; the coast south of Da Nang through Nha Trang is best in the dry half-year, roughly spring to late summer, when the coastal road is at its clearest.
+Central-coast rain and storms peak in the autumn months, and Nha Trang's beach riding goes from easy to miserable quickly. [Our nationwide monsoon guide]({{ '/articles/vietnam-monsoon-season-motorbike-travel/' | relative_url }}) shows the window; the coast south of Da Nang through Nha Trang is best in the dry half-year, roughly spring to late summer, when the coastal road is at its clearest.
 
 ## Fitting Nha Trang into a bigger trip
 

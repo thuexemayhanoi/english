@@ -40,4 +40,4 @@ Parts availability in Vietnam is total — every street mechanic stocks Wave-cla
 
 ## Renting one
 
-The Wave class is one of our price-published rental categories: 150,000 VND per day for a Honda Wave. As always, contact us to confirm current availability for your dates. The semi-auto renting guide covers what to expect, and the rental checklist covers what to inspect before you ride off — on this bike more than any exotic, the pre-ride two-minute check is worth doing because the machines see daily service.
+The Wave class is one of our price-published rental categories: 150,000 VND per day for a Honda Wave. As always, contact us to confirm current availability for your dates. [The semi-auto renting guide]({{ '/articles/renting-semi-automatic-underbone-hanoi/' | relative_url }}) covers what to expect, and [the rental checklist]({{ '/articles/manual-motorbike-rental-checklist-hanoi/' | relative_url }}) covers what to inspect before you ride off — on this bike more than any exotic, the pre-ride two-minute check is worth doing because the machines see daily service.

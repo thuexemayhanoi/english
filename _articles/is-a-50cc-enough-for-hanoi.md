@@ -30,7 +30,7 @@ Inside the older districts — Hoan Kiem, Hai Ba Trung, parts of Dong Da and Ba 
 
 - **Bridges and flyovers.** Long rises onto Chuong Duong, Long Bien approach ramps or the Nhat Tan corridors ask for sustained power a 50cc does not have, while surrounding traffic holds 50–60 km/h. [Our bridges article]({{ '/articles/crossing-hanoi-bridges-motorbike/' | relative_url }}) describes the technique; the honest machine answer is more engine.
 - **Ring roads and highways.** Pham Van Dong, Vo Van Kiet and anything with a 60+ km/h flow put a 35–45 km/h bike in the speed differential that causes overtakes from every vehicle behind you.
-- **Two-up riding.** A passenger adds mass a few horsepower must move; our pillion article covers the technique, but physics decides the comfort.
+- **Two-up riding.** A passenger adds mass a few horsepower must move; [our pillion article]({{ '/articles/carrying-pillion-50cc-vietnam/' | relative_url }}) covers the technique, but physics decides the comfort.
 - **Rain and night.** A slow bike is a more vulnerable bike in low grip and low visibility.
 
 ## The three-question test

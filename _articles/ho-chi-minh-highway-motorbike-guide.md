@@ -41,8 +41,8 @@ That length is also the point: the QLHCM and the coastal QL1A give Vietnam two p
 ## Planning the ride
 
 - **Bike:** the road is sealed and in good condition — a standard 110-155cc automatic or underbone is comfortable. The QLHCM is not an off-road route; the "trail" in its name is history, not surface.
-- **Distances:** fuel and ATMs thin out for hours at a time; our rural fuel-and-coverage guide is directly relevant. Fill up before the empty stretches rather than on hope.
-- **Weather:** the mountain spine is rideable in more months than the coast, but passes still fog over — our mountain-riding and low-visibility guides apply, and the national seasons guide explains the windows.
+- **Distances:** fuel and ATMs thin out for hours at a time; [our rural fuel-and-coverage guide]({{ '/articles/fuel-atm-phone-coverage-rural-rides-vietnam/' | relative_url }}) is directly relevant. Fill up before the empty stretches rather than on hope.
+- **Weather:** the mountain spine is rideable in more months than the coast, but passes still fog over — our mountain-riding and low-visibility guides apply, and [the national seasons guide]({{ '/articles/vietnam-monsoon-season-motorbike-travel/' | relative_url }}) explains the windows.
 - **Time:** the full Hanoi-to-Saigon ride on the QLHCM is a 3-4 week project (see our full [route guide]({{ '/articles/hanoi-to-ho-chi-minh-city-by-motorbike/' | relative_url }})); the classic sampling is one 4-7 day section — Phong Nha to Khe Sanh and Hue, or Hoa Binh to Son La — which most travellers fit inside a normal trip.
 
 ## Why the QLHCM instead of the QL1A?

@@ -47,4 +47,4 @@ The bike is in your custody during the rental. If it is stolen, the standard ren
 
 Handing your rental to a friend is your risk, not theirs - the contract covers the named renter, and the lending article (in the legal cluster) covers the fines side of that mistake.
 
-Rent with the theft clause read, the lock habit built, and the parking few thousand dong spent gladly. The deposit article covers the holding side; this is the downside case.
+Rent with the theft clause read, the lock habit built, and the parking few thousand dong spent gladly. [The deposit article]({{ '/articles/motorbike-rental-deposit-hanoi/' | relative_url }}) covers the holding side; this is the downside case.

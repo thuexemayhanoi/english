@@ -25,11 +25,11 @@ This is the sharpest sporty-scooter value question in Vietnam right now: Yamaha'
 
 ## Power
 
-The NMAX's Blue Core 155.1 cc VVA engine makes 11.3 kW at 8,000 rpm and 14.2 Nm at 6,500 rpm. The Vario 160's 156.9 cc eSP+ makes 11.3 kW at 8,500 rpm and 14.1 Nm at 6,500 rpm. On paper they are inseparable - this is not a decision about speed. What VVA does at different rpm is explained in our VVA guide.
+The NMAX's Blue Core 155.1 cc VVA engine makes 11.3 kW at 8,000 rpm and 14.2 Nm at 6,500 rpm. The Vario 160's 156.9 cc eSP+ makes 11.3 kW at 8,500 rpm and 14.1 Nm at 6,500 rpm. On paper they are inseparable - this is not a decision about speed. What VVA does at different rpm is explained in [our VVA guide]({{ '/articles/yamaha-vva-explained/' | relative_url }}).
 
 ## Braking hardware - the real difference
 
-The NMAX has ABS on both wheels plus a traction control system. The Vario 160 has front-wheel ABS only. If you ride year-round through Hanoi's wet season, that rear ABS plus TCS is genuine added safety, not marketing - see our ABS guide and [our TCS vs ABS explainer]({{ '/articles/tcs-vs-abs-scooters-vietnam/' | relative_url }}). The Vario's front ABS still beats drum-only rivals.
+The NMAX has ABS on both wheels plus a traction control system. The Vario 160 has front-wheel ABS only. If you ride year-round through Hanoi's wet season, that rear ABS plus TCS is genuine added safety, not marketing - see [our ABS guide]({{ '/articles/which-scooters-have-abs-vietnam/' | relative_url }}) and [our TCS vs ABS explainer]({{ '/articles/tcs-vs-abs-scooters-vietnam/' | relative_url }}). The Vario's front ABS still beats drum-only rivals.
 
 ## Weight and practicality
 

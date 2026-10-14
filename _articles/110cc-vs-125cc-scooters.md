@@ -30,7 +30,7 @@ Most automatic scooters sold and rented in Vietnam sit in one of two engine clas
 - Yamaha FreeGo 125 (124.9 cc): 7.0 kW, 9.0 Nm
 - Honda Air Blade 160 (156.9 cc): 11.2 kW, 14.8 Nm
 
-Note how much overlap there is: a 125 is not automatically stronger than every 110-160 - the Lead makes more torque at lower revs than several larger engines, and engine tuning matters as much as capacity. Our power and torque explainer covers how to read these figures.
+Note how much overlap there is: a 125 is not automatically stronger than every 110-160 - the Lead makes more torque at lower revs than several larger engines, and engine tuning matters as much as capacity. [Our power and torque explainer]({{ '/articles/scooter-power-torque-explained/' | relative_url }}) covers how to read these figures.
 
 ## Licence implications
 

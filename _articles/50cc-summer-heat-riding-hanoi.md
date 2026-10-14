@@ -42,7 +42,7 @@ Airflow is your only air-conditioning. In gridlock you get none: watch for dizzi
 
 ## What the bike needs from you in summer
 
-- Oil level checked more often in the heat (the level-check article takes two minutes)
+- Oil level checked more often in the heat ([the level-check article]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }}) takes two minutes)
 - Tyre pressures checked cold — hot asphalt and underinflated tyres are a blowout combination; never guess pressures, use a gauge
 - Cooling fins kept clean; caked dust insulates the engine
 

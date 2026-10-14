@@ -32,8 +32,8 @@ Bigger wheels smooth broken provincial roads - the SH160i's 16-inch wheels and t
 
 ## Safety hardware
 
-Dual ABS plus traction control (NMAX 155, SH160i with HSTC) is worth having on mountain passes and wet descents; front ABS (NVX 155, Lexi 155, Vario 160) is the realistic mid-tier. See our ABS guide.
+Dual ABS plus traction control (NMAX 155, SH160i with HSTC) is worth having on mountain passes and wet descents; front ABS (NVX 155, Lexi 155, Vario 160) is the realistic mid-tier. See [our ABS guide]({{ '/articles/which-scooters-have-abs-vietnam/' | relative_url }}).
 
 ## Practical notes
 
-Service before you go - our pre-trip service guide covers it - and carry luggage within payload limits. And be honest about scope: for full Ho Chi Minh-route touring, many riders still choose a manual motorcycle; [our long-distance bike guide]({{ '/articles/best-motorbike-for-long-distance-vietnam/' | relative_url }}) compares classes. For regional touring from Hanoi, a well-specified scooter is genuinely viable. Nguyen Tu rentals are supported mainly for Hanoi/local use - contact us to confirm current availability and any trip terms.
+Service before you go - [our pre-trip service guide]({{ '/articles/servicing-before-long-trip-motorbike/' | relative_url }}) covers it - and carry luggage within payload limits. And be honest about scope: for full Ho Chi Minh-route touring, many riders still choose a manual motorcycle; [our long-distance bike guide]({{ '/articles/best-motorbike-for-long-distance-vietnam/' | relative_url }}) compares classes. For regional touring from Hanoi, a well-specified scooter is genuinely viable. Nguyen Tu rentals are supported mainly for Hanoi/local use - contact us to confirm current availability and any trip terms.

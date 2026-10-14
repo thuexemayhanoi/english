@@ -27,7 +27,7 @@ Humidity does the slow work: condensation inside the system forms every night, a
 
 ## Care that genuinely helps
 
-Ride long enough to dry the system after wet riding rather than parking it damp. Wash off mud rather than letting it cake and hold moisture against the metal — the safe washing routine is in [Washing and Cleaning a Motorbike Properly]({{ '/articles/cleaning-motorbike-properly-vietnam/' | relative_url }}). During the rainy season, an occasional inspection of the system's mounting bolts and the silencer's underside catches the first flakes; the season-specific checklist is in [Motorbike Maintenance in the Rainy Season]({{ '/articles/motorbike-maintenance-rainy-season/' | relative_url }}). Aftermarket "rust converter" sprays on a hot exhaust mostly bake off — mechanical soundness beats cosmetics.
+Ride long enough to dry the system after wet riding rather than parking it damp. Wash off mud rather than letting it cake and hold moisture against the metal — the safe washing routine is in [Washing and Cleaning a Motorbike Properly]({{ '/articles/cleaning-motorbike-properly-vietnam/' | relative_url }}). During the rainy season, an occasional inspection of the system's mounting bolts and the silencer's underside catches the first flakes; [the season-specific checklist]({{ '/articles/motorbike-maintenance-rainy-season/' | relative_url }}) is in [Motorbike Maintenance in the Rainy Season]({{ '/articles/motorbike-maintenance-rainy-season/' | relative_url }}). Aftermarket "rust converter" sprays on a hot exhaust mostly bake off — mechanical soundness beats cosmetics.
 
 ## Sounds and smoke: what the exhaust reports
 

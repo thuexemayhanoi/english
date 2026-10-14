@@ -38,7 +38,7 @@ The seat sits 770 mm from the ground, ground clearance is 134 mm, and both wheel
 
 ## Who it suits
 
-Beginners, students, commuters on a budget and anyone who wants the simplest possible machine: light, cheap to fill, easy to park and easy to find parts for. The trade-offs are basic brakes on this class of bike, minimal weather protection and a riding position that tall riders eventually outgrow - see our guide to motorbikes for tall riders if that is you.
+Beginners, students, commuters on a budget and anyone who wants the simplest possible machine: light, cheap to fill, easy to park and easy to find parts for. The trade-offs are basic brakes on this class of bike, minimal weather protection and a riding position that tall riders eventually outgrow - see our [guide to motorbikes for tall riders]({{ '/articles/best-motorbikes-for-tall-riders-vietnam/' | relative_url }}) if that is you.
 
 ## Renting one in Hanoi
 

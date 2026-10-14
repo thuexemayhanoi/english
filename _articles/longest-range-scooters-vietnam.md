@@ -45,4 +45,4 @@ Manufacturer economy figures come from controlled conditions - real range varies
 
 ## Practical advice
 
-Plan rural trips around fuel stops, not the tank's ceiling, and do not run a unfamiliar scooter to fumes - fuel quality and gauge accuracy vary (our fuel gauge article explains why). Nguyen Tu's rental scooters come with the fuel policy in our rental FAQ - contact us to confirm current availability of any specific model.
+Plan rural trips around fuel stops, not the tank's ceiling, and do not run a unfamiliar scooter to fumes - fuel quality and gauge accuracy vary ([our fuel gauge article]({{ '/articles/fuel-gauge-inaccurate-motorbike/' | relative_url }}) explains why). Nguyen Tu's rental scooters come with the fuel policy in our rental FAQ - contact us to confirm current availability of any specific model.

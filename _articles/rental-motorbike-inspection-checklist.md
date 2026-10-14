@@ -45,7 +45,7 @@ Tread visible on both tyres, no cracks in the sidewalls, pressures firm. Chain o
 
 ## Fuel, plates and papers
 
-- Note the fuel level and agree the return level - the fuel-policy article explains the two conventions.
+- Note the fuel level and agree the return level - the [fuel-policy article]({{ '/articles/motorbike-rental-fuel-policy-hanoi/' | relative_url }}) explains the two conventions.
 - Number plates fitted and clean - riding without plates is a serious violation with the bike at risk of being held.
 - Registration certificate with the bike, insurance certificate available.
 

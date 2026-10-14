@@ -31,7 +31,7 @@ Honda lists the Blade from 21,943,737 VND (page list price; retail prices change
 
 ## What the disc actually buys
 
-A front disc gives firmer, more consistent stopping in the wet and easier modulation during hard braking. Our disc-versus-drum guide covers the mechanics in detail; the short version is that drums work but fade and hold water, while discs self-clean and cool. On a light 98-99 kg bike carrying one rider in city traffic, the drum version remains entirely usable — it is the version most of the country rides.
+A front disc gives firmer, more consistent stopping in the wet and easier modulation during hard braking. [Our disc-versus-drum guide]({{ '/articles/disc-vs-drum-brakes-motorbike/' | relative_url }}) covers the mechanics in detail; the short version is that drums work but fade and hold water, while discs self-clean and cool. On a light 98-99 kg bike carrying one rider in city traffic, the drum version remains entirely usable — it is the version most of the country rides.
 
 ## Alloy versus spoked wheels
 

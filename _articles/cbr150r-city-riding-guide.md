@@ -29,7 +29,7 @@ A 149.2 cc liquid-cooled DOHC single, 12.6 kW at 9,000 rpm and 14.4 Nm at 7,000 
 ## What city traffic does to it
 
 - **Heat**: a liquid-cooled engine with a radiator handles stop-and-go better than an air-cooled one, but at long traffic-light stops the fan runs and the fairing holds warm air around your legs. That is normal; watch the temperature light, not your shins.
-- **Clutch work**: the six-speed box with a manual clutch in Hanoi-density traffic means constant left-hand work. Riders who commute daily on one develop exactly the friction-zone discipline our traffic clutch guide teaches — without it, every Old Quarter trip is a workout.
+- **Clutch work**: the six-speed box with a manual clutch in Hanoi-density traffic means constant left-hand work. Riders who commute daily on one develop exactly the friction-zone discipline [our traffic clutch guide]({{ '/articles/clutch-technique-stop-and-go-traffic/' | relative_url }}) teaches — without it, every Old Quarter trip is a workout.
 - **Fuel**: the claimed 2.91 L/100 km is roughly double a commuter underbone's figure, and real-world city economy will be higher still. Budget accordingly; the 12-litre tank mostly offsets this by making stops less frequent.
 - **Space**: it is a wide-ish bike by underbone standards (1,983 mm long, 700 mm wide) and the fairing marks easily in tight parking rows. Invest in good parking etiquette and a cover.
 

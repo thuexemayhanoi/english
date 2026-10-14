@@ -32,7 +32,7 @@ The CT125 makes its 10.9 Nm at 4,750 rpm - low-rev tractor pull for bad roads. T
 
 ## What this means for choosing
 
-City riding rewards low-rpm torque: the CT, Future and Cub figures arrive early and make stop-light launches easy. Touring rewards peak power: the sport trio's 11.5-13.2 kW shows up on overtaking. And the commuter class's 6-7 kW is not a defect - in Hanoi flow, traffic sets the pace, and our commuting guide explains why the cheap bikes win it.
+City riding rewards low-rpm torque: the CT, Future and Cub figures arrive early and make stop-light launches easy. Touring rewards peak power: the sport trio's 11.5-13.2 kW shows up on overtaking. And the commuter class's 6-7 kW is not a defect - in Hanoi flow, traffic sets the pace, and [our commuting guide]({{ '/articles/best-underbones-hanoi-commuting-verified/' | relative_url }}) explains why the cheap bikes win it.
 
 ## Rental advice
 

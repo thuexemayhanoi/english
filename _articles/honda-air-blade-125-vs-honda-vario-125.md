@@ -37,7 +37,7 @@ Air Blade 125: 110 kg. Vario 125: 111 kg, seat 769 mm. One kilogram apart - both
 
 ## Storage
 
-Air Blade 125: 23.2 litres - two half-helmets - plus USB-C. Vario 125: 18 litres. The Air Blade is the storage pick; the Vario counters with published economy figures and idling-stop hardware (our idling-stop explainer covers how that behaves in traffic).
+Air Blade 125: 23.2 litres - two half-helmets - plus USB-C. Vario 125: 18 litres. The Air Blade is the storage pick; the Vario counters with published economy figures and idling-stop hardware ([our idling-stop explainer]({{ '/articles/stop-and-start-scooters-explained/' | relative_url }}) covers how that behaves in traffic).
 
 ## Price
 

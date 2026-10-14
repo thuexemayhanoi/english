@@ -37,7 +37,7 @@ It also does not mean weak or toy-like. A 50cc bike is a real petrol machine wit
 
 ## Where 50cc bikes come from
 
-There is a practical quirk: Honda Vietnam and Yamaha Vietnam do not currently list 50cc models in their official line-ups, so the 50cc bikes you see are mostly older domestically sold models, grey imports from Japan, or small Chinese-built machines. Our grey-import guide covers that market in detail.
+There is a practical quirk: Honda Vietnam and Yamaha Vietnam do not currently list 50cc models in their official line-ups, so the 50cc bikes you see are mostly older domestically sold models, grey imports from Japan, or small Chinese-built machines. [Our grey-import guide]({{ '/articles/grey-import-50cc-vietnam/' | relative_url }}) covers that market in detail.
 
 ## Engine size in practice
 

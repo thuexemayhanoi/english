@@ -43,6 +43,6 @@ This is the quiet advantage of the museum-by-bike plan: every major museum has a
 
 ## Practical notes
 
-Check opening days before riding out — most Hanoi museums close one weekday, and a few shift hours seasonally. Budget half a day for the Ethnology Museum alone; its outdoor exhibits are worth the trip on their own. Rain days are museum days by design: a wet Hanoi afternoon plus the museum circuit is the classic fallback plan, and the rain-gear guide covers getting there dry.
+Check opening days before riding out — most Hanoi museums close one weekday, and a few shift hours seasonally. Budget half a day for the Ethnology Museum alone; its outdoor exhibits are worth the trip on their own. Rain days are museum days by design: a wet Hanoi afternoon plus the museum circuit is the classic fallback plan, and [the rain-gear guide]({{ '/articles/rain-gear-motorbike-riders-vietnam/' | relative_url }}) covers getting there dry.
 
 Contact us to confirm current availability for a bike suited to museum-hopping.

@@ -45,7 +45,7 @@ Above the mainstream 110-160 class sits a premium tier that Vietnamese buyers pa
 
 ## What it does not buy
 
-Economy (bigger engines drink more - see the fuel comparison), lightness (an SH is far heavier to park than a Vision), or immunity from theft - premium bikes attract thieves, and parking in central Hanoi gets careful (our parking guide).
+Economy (bigger engines drink more - see the fuel comparison), lightness (an SH is far heavier to park than a Vision), or immunity from theft - premium bikes attract thieves, and parking in central Hanoi gets careful ([our parking guide]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }})).
 
 ## Renting vs buying
 

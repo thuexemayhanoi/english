@@ -48,4 +48,4 @@ For riders past the licence question, the choice is refuelling style. The Weaver
 - **Weaver 200**: A1 holders who like motorcycles, tour, or ride long intercity sections — and who accept home charging as a lifestyle. Review.
 - **Feliz II**: licence-free riders who want city transport with maximum convenience and no charging discipline. Review.
 
-The ecosystem comparison expands the philosophy contrast; the swap-vs-charge guide works the economics; and rental availability of either style of machine: contact us to confirm current availability.
+The ecosystem comparison expands the philosophy contrast; [the swap-vs-charge guide]({{ '/articles/battery-swap-vs-home-charging-vietnam/' | relative_url }}) works the economics; and rental availability of either style of machine: contact us to confirm current availability.

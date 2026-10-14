@@ -59,6 +59,15 @@ CURRENT remote main before acting. Never rely on remembered state.
 - Link repair: scripts/link-bare-slugs.js (bare slug in prose -> contextual
   link; exact matches only; dry run by default, --apply records
   reports/link-bare-slugs.json). Not a rewrite tool.
+- Link resolution: scripts/link-guide-references.js (descriptive reference ->
+  contextual link only when the target is certain: declared related guides,
+  exact title, --cluster-candidates fallback, --overrides reviewed map; the
+  phrase is the link text, never rewritten). scripts/related-links-fill.js
+  (inbound related cards via internal_link_targets only). Dry runs write
+  reports/*-dry-run.json (git-ignored); --apply reports are the audit trail
+  the matrix reads. Verified optimisation batches are recorded in
+  docs/seo/optimization-log.json (date, batch, note, urls); never mark a URL
+  OPTIMIZED without a recorded batch.
 
 ## When extending the system
 

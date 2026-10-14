@@ -24,7 +24,7 @@ Nearly every scooter decision in Vietnam starts with class: 110, 125 or 155-160c
 
 ## The 110 class: city minimalism
 
-Honda's Vision 110 is the archetype: 97 kg, air-cooled, simple, cheap to run, with a 16-inch front wheel. Best for solo riders doing city errands at moderate speeds. Its limits appear with a pillion on a bridge ramp or on ring-road merges. See the Vision review and our 110 vs 125 explainer.
+Honda's Vision 110 is the archetype: 97 kg, air-cooled, simple, cheap to run, with a 16-inch front wheel. Best for solo riders doing city errands at moderate speeds. Its limits appear with a pillion on a bridge ramp or on ring-road merges. See the Vision review and [our 110 vs 125 explainer]({{ '/articles/110cc-vs-125cc-scooters/' | relative_url }}).
 
 ## The 125 class: the national default
 

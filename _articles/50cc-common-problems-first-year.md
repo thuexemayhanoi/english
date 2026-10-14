@@ -32,11 +32,11 @@ Small carburettors have small jets; a bike that stutters at steady throttle or d
 
 ## Electrical gremlins
 
-Intermittent lights, a horn that works only on Wednesdays, a brake light that dies: the wiring on older 50s suffers from age, moisture and previous owners' repairs. Corroded connectors and a failing charging output are the usual suspects — our battery-care article explains the charging system in plain terms. Headlight dimming as revs rise? Test the charging before replacing anything.
+Intermittent lights, a horn that works only on Wednesdays, a brake light that dies: the wiring on older 50s suffers from age, moisture and previous owners' repairs. Corroded connectors and a failing charging output are the usual suspects — [our battery-care article]({{ '/articles/battery-care-motorbike-vietnam/' | relative_url }}) explains the charging system in plain terms. Headlight dimming as revs rise? Test the charging before replacing anything.
 
 ## Brakes that drift
 
-Drum brakes on small wheels wear gradually — so gradually that a rider adapts to a worsening stop. The weekly habit from [our maintenance checklist]({{ '/articles/50cc-weekly-maintenance-checks/' | relative_url }}) is the counter-measure: at walking pace, roll and brake hard with each lever in turn; a lever that pulls to the bar needs adjusting or shoes. The brake shoe article covers replacement signs.
+Drum brakes on small wheels wear gradually — so gradually that a rider adapts to a worsening stop. The weekly habit from [our maintenance checklist]({{ '/articles/50cc-weekly-maintenance-checks/' | relative_url }}) is the counter-measure: at walking pace, roll and brake hard with each lever in turn; a lever that pulls to the bar needs adjusting or shoes. [The brake shoe article]({{ '/articles/50cc-brakes-drum-checks/' | relative_url }}) covers replacement signs.
 
 ## Tyres and punctures
 

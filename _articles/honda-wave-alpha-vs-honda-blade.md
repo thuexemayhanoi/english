@@ -37,4 +37,4 @@ Simplicity and weight. At 96 kg it is the lightest bike in Honda's Vietnamese ra
 
 ## Verdict
 
-Buy the Wave Alpha for the lowest cost and lightest handling; buy the Blade - specifically the Sport version - if you ride daily in dense traffic and want the front disc. If fuel injection matters more than either, the Wave RSX review covers the step-up option, and the 110-class data guide ranks all four current 110s.
+Buy the Wave Alpha for the lowest cost and lightest handling; buy the Blade - specifically the Sport version - if you ride daily in dense traffic and want the front disc. If fuel injection matters more than either, the Wave RSX review covers the step-up option, and [the 110-class data guide]({{ '/articles/best-110cc-underbones-vietnam-verified/' | relative_url }}) ranks all four current 110s.

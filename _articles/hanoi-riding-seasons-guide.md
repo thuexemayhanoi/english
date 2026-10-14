@@ -38,7 +38,7 @@ The famous season: drier air, cool mornings, and the clearest light of the year.
 
 ## Winter (roughly December–January)
 
-Hanoi's cold is a surprise to visitors: mornings can drop to around 10°C and below, damp and penetrating, with the coldest stretch in January — which is also, notably, one of the drier months. Riding in it means real gloves, layers and a closed helmet; [the winter riding guide]({{ '/articles/winter-riding-motorbike-hanoi/' | relative_url }}) covers the technique. The compensation is the atmosphere: mist on the lakes, hot food streets, and the city at its most atmospheric. Electric riders should also note that cold shortens range — the winter-range guide covers that.
+Hanoi's cold is a surprise to visitors: mornings can drop to around 10°C and below, damp and penetrating, with the coldest stretch in January — which is also, notably, one of the drier months. Riding in it means real gloves, layers and a closed helmet; [the winter riding guide]({{ '/articles/winter-riding-motorbike-hanoi/' | relative_url }}) covers the technique. The compensation is the atmosphere: mist on the lakes, hot food streets, and the city at its most atmospheric. Electric riders should also note that cold shortens range — [the winter-range guide]({{ '/articles/electric-motorbike-winter-range-hanoi/' | relative_url }}) covers that.
 
 ## The rider's short version
 

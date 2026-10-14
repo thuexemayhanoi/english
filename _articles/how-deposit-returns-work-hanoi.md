@@ -33,7 +33,7 @@ The same items your handover photos recorded: panels and scratches, mirrors, lig
 ## What gets deducted
 
 - Damage beyond fair wear, at an agreed repair price - not a list price from the shop's imagination. Ask for the repair quote.
-- A missing or lost key (the lost-key article covers this).
+- A missing or lost key ([the lost-key article]({{ '/articles/lost-key-rental-motorbike-hanoi/' | relative_url }}) covers this).
 - Late hours: 20,000 VND per hour, with a full additional rental day (typically 150,000-200,000 VND) possibly charged beyond six hours late.
 - Fuel shortfalls against the agreed level.
 - Consumables that were yours under the agreement - inner tubes and tyres can be the renter's responsibility depending on the situation.

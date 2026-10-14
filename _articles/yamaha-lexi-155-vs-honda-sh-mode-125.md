@@ -36,7 +36,7 @@ Lexi: 118 kg, seat 768 mm. SH Mode: 116 kg, seat 765 mm - the two closest premiu
 
 ## Equipment
 
-Lexi: front ABS, VVA, 3-year/30,000 km warranty. SH Mode: 18.5-litre underseat bay, ABS on the Sport/Special/Premium versions (our ABS guide). Storage: the SH Mode's published bay is larger than what the Lexi's page publishes.
+Lexi: front ABS, VVA, 3-year/30,000 km warranty. SH Mode: 18.5-litre underseat bay, ABS on the Sport/Special/Premium versions ([our ABS guide]({{ '/articles/which-scooters-have-abs-vietnam/' | relative_url }})). Storage: the SH Mode's published bay is larger than what the Lexi's page publishes.
 
 ## Price - the story of this comparison
 

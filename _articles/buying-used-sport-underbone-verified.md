@@ -25,7 +25,7 @@ Sport underbones are the most ridden-hard, most modified, and most crash-prone b
 
 ## Why these bikes need extra scrutiny
 
-Both are liquid-cooled, rev-happy six-speed manuals that their owners ride the way the styling suggests. That means the used population skews towards high-rev hours, amateur tuning and slid-down-the-road history more than any commuter underbone. The general underbone buying checklist applies; below are the sport-specific additions.
+Both are liquid-cooled, rev-happy six-speed manuals that their owners ride the way the styling suggests. That means the used population skews towards high-rev hours, amateur tuning and slid-down-the-road history more than any commuter underbone. [The general underbone buying checklist]({{ '/articles/underbone-buying-checklist-verified-specs/' | relative_url }}) applies; below are the sport-specific additions.
 
 ## Engine and cooling
 

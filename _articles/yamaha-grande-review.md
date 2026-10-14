@@ -29,11 +29,11 @@ Verified figures: wet weight 100 kg, seat height around the class norm with dime
 
 ## Storage and features
 
-The 27-litre bay with interior lighting is the practical headline - enough for a full-face helmet plus a bag, covered in our scooter storage comparison. Smart key operation is explained in our smart-key [guide]({{ '/articles/scooters-with-smart-keys-vietnam-verified/' | relative_url }}). Yamaha positions the Grande among its most fuel-efficient models; where manufacturer economy figures are published we compare them in our fuel economy comparison.
+The 27-litre bay with interior lighting is the practical headline - enough for a full-face helmet plus a bag, covered in our [scooter storage comparison]({{ '/articles/scooter-underseat-storage-comparison/' | relative_url }}). Smart key operation is explained in our smart-key [guide]({{ '/articles/scooters-with-smart-keys-vietnam-verified/' | relative_url }}). Yamaha positions the Grande among its most fuel-efficient models; where manufacturer economy figures are published we compare them in our fuel economy comparison.
 
 ## Who it suits
 
-Riders who want a scooter that looks considered at the cafe as well as working in traffic - and who will pay for the styling. It is less of a cargo tool than the Honda Lead (see that comparison) and less sporty than the FreeGo, but the most design-led of the three. Yamaha lists the Grande from 46,244,000 VND.
+Riders who want a scooter that looks considered at the cafe as well as working in traffic - and who will pay for the styling. It is less of a cargo tool than the Honda Lead (see [that comparison]({{ '/articles/honda-lead-vs-yamaha-grande/' | relative_url }})) and less sporty than the FreeGo, but the most design-led of the three. Yamaha lists the Grande from 46,244,000 VND.
 
 ## Renting one
 

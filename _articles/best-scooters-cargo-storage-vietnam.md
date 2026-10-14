@@ -54,4 +54,4 @@ Big bays cost something: the Lead gives up lightness (114 kg), the Latte gives u
 
 ## When storage is not the answer
 
-For rentals, remember that anything on the floor between your feet and anything hanging on hooks changes handling - our carrying-luggage-safely guide covers the safe setups. For a rental with good storage options, contact us to confirm current availability.
+For rentals, remember that anything on the floor between your feet and anything hanging on hooks changes handling - [our carrying-luggage-safely guide]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}) covers the safe setups. For a rental with good storage options, contact us to confirm current availability.

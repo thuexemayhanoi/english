@@ -32,11 +32,11 @@ For an adult whose whole world is one district — home, market, a nearby workpl
 
 ## Learners building habits
 
-Some new riders deliberately start on a small, light, slow bike to practise balance, traffic reading and maintenance before moving to a 110–125cc machine. The controls are the same as a bigger underbone, so nothing learned is wasted. [Learning to Ride on a 50cc: A Sensible First-Bike Path]({{ '/articles/learning-to-ride-on-50cc-vietnam/' | relative_url }}) lays out a progression, and the upgrade article covers the step up later.
+Some new riders deliberately start on a small, light, slow bike to practise balance, traffic reading and maintenance before moving to a 110–125cc machine. The controls are the same as a bigger underbone, so nothing learned is wasted. [Learning to Ride on a 50cc: A Sensible First-Bike Path]({{ '/articles/learning-to-ride-on-50cc-vietnam/' | relative_url }}) lays out a progression, and [the upgrade article]({{ '/articles/upgrading-from-50cc-to-110cc/' | relative_url }}) covers the step up later.
 
 ## Visitors without a licence
 
-Tourists and short-stay expats who do not hold a licence valid for Vietnamese motorbikes sometimes look at the 50cc class precisely because no licence is required. The legal position is real — but so are helmets, insurance, age 16 minimum and all traffic rules. Our foreigners article treats that route honestly, including why a moped does not dissolve the consequences of an accident.
+Tourists and short-stay expats who do not hold a licence valid for Vietnamese motorbikes sometimes look at the 50cc class precisely because no licence is required. The legal position is real — but so are helmets, insurance, age 16 minimum and all traffic rules. [Our foreigners article]({{ '/articles/can-foreigners-ride-50cc-vietnam/' | relative_url }}) treats that route honestly, including why a moped does not dissolve the consequences of an accident.
 
 ## Collectors and style riders
 

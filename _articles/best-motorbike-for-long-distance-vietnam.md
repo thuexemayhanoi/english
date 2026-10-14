@@ -37,10 +37,10 @@ Long-distance riding in Vietnam is a different discipline from city riding, and 
 
 ## The licence and law layer
 
-Bigger bikes need bigger licence classes: A1 covers up to 175 cc; the A class covers larger. Riding long distance unlicensed multiplies exposure - hours on the road, multiple provinces, checkpoint probability. And motorbikes are banned from the expressways entirely; long-distance riders take the old national highways, which is part of the experience.
+Bigger bikes need bigger licence classes: under the 2025 law an [A1 licence covers up to 125 cc]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) (older A1 licences stay valid to 175 cc) and the [A class]({{ '/articles/vietnam-a-licence-what-you-can-ride/' | relative_url }}) covers larger bikes. Riding long distance unlicensed multiplies exposure - hours on the road, multiple provinces, checkpoint probability. And [motorbikes are banned from the expressways]({{ '/articles/motorbikes-on-expressway-vietnam/' | relative_url }}) entirely; long-distance riders take the old national highways, which is part of the experience.
 
 ## The rental-side preparations
 
-Rent from a shop that maintains its bikes, do the full inspection checklist, photograph the bike, and agree in writing that the rental covers your provinces - some rentals restrict riding outside Hanoi, so ask. Breakdown, puncture and maintenance responsibilities should be clear before a long trip; the breakdown article covers the standard division.
+Rent from a shop that maintains its bikes, do the full [inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}), photograph the bike, and agree in writing that the rental covers your provinces - some rentals [restrict riding outside Hanoi]({{ '/articles/rental-motorbike-outside-hanoi/' | relative_url }}), so ask. Breakdown, puncture and maintenance responsibilities should be clear before a long trip; [what happens if a rental breaks down]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) covers the standard division.
 
-Contact us to discuss long-distance rental and confirm availability - a multi-week highway bike should be chosen with the shop, not off a list.
+[Contact us]({{ '/contact/' | relative_url }}) to discuss long-distance rental and confirm availability - a multi-week highway bike should be chosen with the shop, not off a list.

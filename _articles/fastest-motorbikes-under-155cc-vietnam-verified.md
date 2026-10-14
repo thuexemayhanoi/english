@@ -42,7 +42,7 @@ Peak power arrives at high revs (9,000-9,500 rpm on all three sport models). Non
 
 ## The legal footnote
 
-More speed, more licence responsibility - check what the A1 licence covers before you buy. And remember real-world economy and performance vary with load, speed and conditions.
+More speed, more licence responsibility - a new A1 covers only up to 125 cc under the 2025 law, so check whether you need a [class A licence]({{ '/articles/vietnam-a-licence-what-you-can-ride/' | relative_url }}) before you buy. And remember real-world economy and performance vary with load, speed and conditions.
 
 ## Renting a fast bike
 

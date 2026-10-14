@@ -29,15 +29,15 @@ There is no official threshold, but as practical owner guidance, periodic checks
 
 ## Talk mileage before you sign
 
-Tell the shop how much you expect to ride. High-mileage use is easier to plan for when the bike is chosen with it in mind — a comfortable scooter or semi-automatic that suits your route beats whatever happens to be cheapest. Choosing-motorbike-monthly-rental-hanoi goes through that decision in detail.
+Tell the shop how much you expect to ride. High-mileage use is easier to plan for when the bike is chosen with it in mind — a comfortable scooter or semi-automatic that suits your route beats whatever happens to be cheapest. [Choosing the Right Motorbike for a Month in Hanoi]({{ '/articles/choosing-motorbike-monthly-rental-hanoi/' | relative_url }}) goes through that decision in detail.
 
 ## Watch the wear items
 
-High mileage hits tyres, chains and oil first. Check tyre pressure weekly, look at chain slack, and note any change in braking feel. Maintenance-during-monthly-rental-hanoi explains what the shop covers versus what may be yours, such as inner tubes and tyres. A mid-term oil or chain check keeps the rest of the month quiet.
+High mileage hits tyres, chains and oil first. Check tyre pressure weekly, look at chain slack, and note any change in braking feel. [Maintenance During a Monthly Motorbike Rental in Hanoi]({{ '/articles/maintenance-during-monthly-rental-hanoi/' | relative_url }}) explains what the shop covers versus what may be yours, such as inner tubes and tyres. A mid-term oil or chain check keeps the rest of the month quiet.
 
 ## Keep a simple log
 
-A note on your phone with the odometer reading at pickup, plus dates of anything you notice, makes return-day conversations simple. If a dispute about wear ever comes up, a basic log is far more useful than memory. Monthly-rental-inspection-schedule-hanoi suggests a check routine that takes minutes a week.
+A note on your phone with the odometer reading at pickup, plus dates of anything you notice, makes return-day conversations simple. If a dispute about wear ever comes up, a basic log is far more useful than memory. [A Month with a Rental Motorbike: Inspection and Check Routine]({{ '/articles/monthly-rental-inspection-schedule-hanoi/' | relative_url }}) suggests a check routine that takes minutes a week.
 
 ## The one-line version
 

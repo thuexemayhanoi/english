@@ -31,7 +31,7 @@ Priority inspection spots: the headlight and connector behind it; the connectors
 
 ## What protection actually works
 
-Unplug, inspect, clean contacts with contact cleaner, reseat firmly, and pack dielectric grease in exposed connectors — the grease seals air out without bridging pins. Tape chafe points properly; reroute wiring away from sharp edges and the exhaust. After any flood riding, disconnect and dry connectors before they corrode. The general keep-water-out philosophy — parking, washing, drying — is the same one in [Preventing Rust on a Motorbike in Vietnam]({{ '/articles/motorcycle-rust-prevention-vietnam/' | relative_url }}), and the rainy-season version of the checklist is in [Motorbike Maintenance in the Rainy Season]({{ '/articles/motorbike-maintenance-rainy-season/' | relative_url }}).
+Unplug, inspect, clean contacts with contact cleaner, reseat firmly, and pack dielectric grease in exposed connectors — the grease seals air out without bridging pins. Tape chafe points properly; reroute wiring away from sharp edges and the exhaust. After any flood riding, disconnect and dry connectors before they corrode. The general keep-water-out philosophy — parking, washing, drying — is the same one in [Preventing Rust on a Motorbike in Vietnam]({{ '/articles/motorcycle-rust-prevention-vietnam/' | relative_url }}), and [the rainy-season version of the checklist]({{ '/articles/motorbike-maintenance-rainy-season/' | relative_url }}) is in [Motorbike Maintenance in the Rainy Season]({{ '/articles/motorbike-maintenance-rainy-season/' | relative_url }}).
 
 ## Add-ons and their cost
 

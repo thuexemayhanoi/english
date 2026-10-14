@@ -43,7 +43,7 @@ The compensations are real: fuel stations, mechanics, noodle stalls and hotels a
 
 ## When to choose the Ho Chi Minh Road instead
 
-For pure riding, almost always: our QLHCM guide explains the mountain spine alternative — a fraction of the traffic, the country's biggest scenery, and the sections riders actually remember. The pattern used by most long trips is coast-plus-mountains: QL1A for the Hue-Hoi An stretch and town hops, QLHCM for the empty middle, and back to the coast for the deep south.
+For pure riding, almost always: [our QLHCM guide]({{ '/articles/ho-chi-minh-highway-motorbike-guide/' | relative_url }}) explains the mountain spine alternative — a fraction of the traffic, the country's biggest scenery, and the sections riders actually remember. The pattern used by most long trips is coast-plus-mountains: QL1A for the Hue-Hoi An stretch and town hops, QLHCM for the empty middle, and back to the coast for the deep south.
 
 ## Safety rules that matter specifically on the QL1A
 
@@ -51,8 +51,8 @@ For pure riding, almost always: our QLHCM guide explains the mountain spine alte
 2. **Ride the shoulder line, claim it, and check mirrors constantly.** Overtaking lorries swing wide.
 3. **Use the horn as communication** — the polite announcement of your presence is how the road works; [our horn-etiquette guide]({{ '/articles/horn-etiquette-motorbike-vietnam/' | relative_url }}) explains the culture.
 4. **Do not ride the expressway parallels.** The CT expressways beside the QL1A are legally closed to motorbikes — our legal guide covers the rule and the fines.
-5. **Finish daylight miles early.** Our night-riding guide explains why dusk is the most dangerous hour, and the QL1A makes it worse.
+5. **Finish daylight miles early.** [Our night-riding guide]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}) explains why dusk is the most dangerous hour, and the QL1A makes it worse.
 
 ## Bottom line
 
-The QL1A is a tool, not a destination: use it to stitch the good parts together, and get off it every time the map offers the mountains. For route planning across the whole country — including how to combine the two spines — our full Hanoi-to-Saigon guide does the arithmetic.
+The QL1A is a tool, not a destination: use it to stitch the good parts together, and get off it every time the map offers the mountains. For route planning across the whole country — including how to combine the two spines — [our full Hanoi-to-Saigon guide]({{ '/articles/hanoi-to-ho-chi-minh-city-by-motorbike/' | relative_url }}) does the arithmetic.

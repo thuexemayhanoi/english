@@ -32,7 +32,7 @@ Left the key on, the light switched, the bike sitting for three days? Automatics
 
 ## Problem 3: the puncture
 
-Hanoi streets drop nails and glass, and tube-type tyres go down fast. Prevention: check pressures weekly by feel and refuel-station gauge, and avoid the litter-strewn edge of the lane. Response: ride a flat as little as possible - the tube shredding turns a cheap repair into a tyre. Inner tubes and tyres can be the renter's responsibility depending on the situation; the puncture article explains the division.
+Hanoi streets drop nails and glass, and tube-type tyres go down fast. Prevention: check pressures weekly by feel and refuel-station gauge, and avoid the litter-strewn edge of the lane. Response: ride a flat as little as possible - the tube shredding turns a cheap repair into a tyre. Inner tubes and tyres can be the renter's responsibility depending on the situation; [the puncture article]({{ '/articles/punctured-tyre-on-rental-motorbike/' | relative_url }}) explains the division.
 
 ## Problem 4: the stolen bike
 

@@ -32,7 +32,7 @@ The first surprise: Honda Vietnam's current official line-up contains no 50cc mo
 Most street 50s in Vietnam are older machines traded privately through classifieds, family networks and neighbourhood shops. Prices are informal and condition varies from museum-grade to rolling scrap. Two rules keep you safe:
 
 - Buy from the owner where possible, with papers that match the frame number.
-- Run the full used-bike inspection — our 50cc checklist takes twenty minutes and catches the expensive problems: worn bore, tired electrics, bent frames from old crashes.
+- Run the full used-bike inspection — [our 50cc checklist]({{ '/articles/used-50cc-inspection-checklist/' | relative_url }}) takes twenty minutes and catches the expensive problems: worn bore, tired electrics, bent frames from old crashes.
 
 ## Route three: the grey import
 

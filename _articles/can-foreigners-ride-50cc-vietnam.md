@@ -44,6 +44,6 @@ Visitors without a licence valid for Vietnamese motorbikes — no Vietnamese lic
 
 If you hold a valid motorcycle entitlement from home, the whole question changes: a 1968-convention IDP with the right category plus your national licence opens normal rental scooters. [Our tourists article]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}) and IDP guide cover the full routes to legal riding.
 
-If the 50cc route still fits — say, a short stay, flat neighbourhood routes, no motorcycle licence — then the renting guide covers what to check before you ride off.
+If the 50cc route still fits — say, a short stay, flat neighbourhood routes, no motorcycle licence — then [the renting guide]({{ '/articles/renting-50cc-hanoi/' | relative_url }}) covers what to check before you ride off.
 
 *Information, not legal advice. Verified against the full text of Law 36/2024/QH15 and Decree 168/2024/NĐ-CP on 2026-09-24.*

@@ -48,7 +48,7 @@ Pu Luong matches Mai Chau for difficulty but swaps the bus-road opening for vall
 
 ## Level 3: Sapa direct, the Northeast and Northwest loops (3-10 days)
 
-The next tier is where trips stop being weekend-sized. Sapa direct is 300-320 km with a genuinely winding final climb; the northeast loop (Cao Bang, Ban Gioc, Ba Be) and the big northwest loop are 5-10 day undertakings with remoteness, weather and border logistics. Route rankings put the northwest firmly in the experienced-rider category while pointing newer riders toward guided options or easier regions (see our Sapa, northeast and northwest guides).
+The next tier is where trips stop being weekend-sized. Sapa direct is 300-320 km with a genuinely winding final climb; the northeast loop (Cao Bang, Ban Gioc, Ba Be) and the big northwest loop are 5-10 day undertakings with remoteness, weather and border logistics. Route rankings put the northwest firmly in the experienced-rider category while pointing newer riders toward guided options or easier regions (see our [Sapa]({{ '/articles/sapa-motorbike-trip-hanoi/' | relative_url }}), [northeast]({{ '/articles/northeast-vietnam-motorbike-loop/' | relative_url }}) and [northwest]({{ '/articles/northwest-vietnam-motorbike-loop/' | relative_url }}) guides).
 
 ## Level 4: the Ha Giang loop (3-5 days, earn it)
 

@@ -36,4 +36,4 @@ Cub: 780 mm seat, 109 kg, 136 mm ground clearance, classic step-through silhouet
 
 ## Prices and rental
 
-Cub: 88,353,813 VND list. Winner R: 46,360,000 VND list. Neither is a price-published rental class - contact us to confirm current availability. New-to-Vietnam riders should honestly pick the Cub format first and graduate to the Winner R later; our easiest motorbikes for beginners guide explains the reasoning.
+Cub: 88,353,813 VND list. Winner R: 46,360,000 VND list. Neither is a price-published rental class - contact us to confirm current availability. New-to-Vietnam riders should honestly pick the Cub format first and graduate to the Winner R later; [our easiest motorbikes for beginners guide]({{ '/articles/easiest-motorbikes-for-beginners-hanoi/' | relative_url }}) explains the reasoning.

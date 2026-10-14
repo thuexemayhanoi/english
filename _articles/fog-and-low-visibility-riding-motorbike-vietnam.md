@@ -31,7 +31,7 @@ Dipped beam on, not high beam: fog reflects high beam straight back into your ey
 
 ## Read what you can
 
-In fog, sound arrives before sight: unlit bikes announce themselves by engine noise. Keep the visor closed and crack it open slightly only if it fogs from inside — an anti-fog treatment or insert fixes the recurring problem. Winter-riding-motorbike-hanoi covers the broader Hanoi haze season.
+In fog, sound arrives before sight: unlit bikes announce themselves by engine noise. Keep the visor closed and crack it open slightly only if it fogs from inside — an anti-fog treatment or insert fixes the recurring problem. [Winter Riding on a Motorbike in Hanoi]({{ '/articles/winter-riding-motorbike-hanoi/' | relative_url }}) covers the broader Hanoi haze season.
 
 ## Mountain fog
 

@@ -32,7 +32,7 @@ Daily tourists can think about licences once. Long-term riders need a system: do
 
 ## Set-up and expiry tracking
 
-Write down every expiry date — licence, visa, passport — and check them monthly. Licence-expiry-during-long-rental-hanoi covers what to do when something expires mid-term; the goal of the checklist is that nothing expires unnoticed.
+Write down every expiry date — licence, visa, passport — and check them monthly. [When Your Licence or Visa Expires Mid-Rental in Hanoi]({{ '/articles/licence-expiry-during-long-rental-hanoi/' | relative_url }}) covers what to do when something expires mid-term; the goal of the checklist is that nothing expires unnoticed.
 
 ## Why this matters more on long rentals
 

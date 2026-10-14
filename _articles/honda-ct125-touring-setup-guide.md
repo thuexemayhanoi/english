@@ -33,7 +33,7 @@ The Honda CT125 is Vietnam's most touring-capable underbone straight from the fa
 
 - **Luggage**: Honda styles the CT125 with racks front and rear; the practical touring kit is a roll bag strapped to the rear rack under a cargo net, valuables on your body, and a small dry bag for electronics. Keep the load low and moderate — [the luggage guide]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}) covers tie-down patterns.
 - **Tyres**: the stock dual-purpose tyres are credible on gravel; check pressures before a long day, not just at the rental counter.
-- **Pre-ride checks**: chain, oil level, brake feel, lights. The high-mileage inspection checklist applies before any long route.
+- **Pre-ride checks**: chain, oil level, brake feel, lights. [The high-mileage inspection checklist]({{ '/articles/high-mileage-rental-motorbike-inspection/' | relative_url }}) applies before any long route.
 - **Weather kit**: the tall stance offers no wind protection; a proper visor and layers matter in the northern winter and on mountain passes.
 
 ## Honest limits

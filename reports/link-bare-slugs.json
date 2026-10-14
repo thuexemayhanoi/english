@@ -1,14 +1,89 @@
 {
   "tool": "link-bare-slugs",
   "mode": "apply",
-  "generated": "2026-10-14T09:45:00.000Z",
-  "note": "audit trail of the 2026-10-14 --apply run (348 files / 1587 links) plus 10 near-miss slug typos repaired by hand to the same link style",
+  "generated": "2026-10-14T10:28:19.599Z",
+  "note": "Cumulative apply trail: pass 1 (lowercase slugs) + pass 2 (sentence-initial capitalised slugs).",
   "summary": {
-    "files": 351,
-    "links": 1596,
-    "skippedTable": 0
+    "files": 352,
+    "links": 1642,
+    "skippedTable": 0,
+    "passes": [
+      {
+        "files": 351,
+        "links": 1596
+      },
+      {
+        "files": 30,
+        "links": 46
+      }
+    ]
   },
-  "unmatched": {},
+  "unmatched": {
+    "cranks-strong-but-won": 1,
+    "16-to-under-18-year-old": 2,
+    "16-to-18-year-old": 1,
+    "16-to-18-year-olds": 3,
+    "16-to-17-year-old": 1,
+    "stock-tuned-for-averages": 1,
+    "rider-plus-luggage-and-pillion": 1,
+    "automatic-versus-semi-automatic": 3,
+    "hundred-times-per-day": 1,
+    "sticky-skin-on-liner": 1,
+    "papers-in-the-seller": 1,
+    "learn-and-live-with-it": 1,
+    "scooter-versus-semi-automatic": 1,
+    "stop-and-fix-now": 1,
+    "sub-10-million-dong": 1,
+    "slid-down-the-road": 1,
+    "no-hooks-at-all": 1,
+    "useful-but-not-magical": 1,
+    "volts-and-amp-hours": 1,
+    "how-far-per-day": 2,
+    "day-and-a-half": 1,
+    "carb-clean-versus-fuel-delivery": 1,
+    "do-not-ride-today-and-fix-it": 1,
+    "market-and-food-stall": 1,
+    "passenger-on-the-back": 1,
+    "train-through-the-street": 1,
+    "finish-eat-then-ride": 1,
+    "villages-on-the-road": 1,
+    "car-and-bike-free": 1,
+    "touring-and-track-day": 1,
+    "zero-risk-if-reversible": 1,
+    "one-to-three-kilometre": 1,
+    "two-to-three-day": 1,
+    "wipe-clean-then-grease": 1,
+    "boy-who-cried-wolf": 1,
+    "16-to-under-18-year-olds": 1,
+    "parking-with-a-face": 1,
+    "four-to-five-hour": 1,
+    "two-to-four-week": 1,
+    "limestone-and-border-road": 1,
+    "mechanic-on-every-corner": 1,
+    "claw-and-side-arm": 1,
+    "warm-but-not-hot": 1,
+    "three-to-four-hour": 1,
+    "park-once-then-walk": 1,
+    "electrics-in-the-rain": 1,
+    "walk-the-back-wheel-around": 1,
+    "mesh-plus-rain-shell": 1,
+    "4-to-6-million-dong": 1,
+    "right-turn-on-red": 1,
+    "1-2-3-4-neutral-in-1": 1,
+    "service-within-a-service": 1,
+    "on-off-on-off": 1,
+    "incense-and-old-stone": 1,
+    "everything-happens-at-once": 1,
+    "replace-or-repair-now": 1,
+    "16-to-under-18": 1,
+    "fused-at-the-battery": 1,
+    "range-as-a-service": 1,
+    "first-half-hour-after-rain": 1,
+    "seeing-and-being-seen": 1,
+    "one-to-four-week": 1,
+    "16-to-17-year-olds": 1,
+    "smaller-capacity-but-modern": 1
+  },
   "perFile": [
     {
       "file": "_articles/renting-motorbike-hanoi-one-day.md",
@@ -269,6 +344,22 @@
       ]
     },
     {
+      "file": "_articles/motorbike-maintenance-basics-vietnam.md",
+      "links": 10,
+      "slugs": [
+        "chain-maintenance-motorbike-vietnam",
+        "brake-checks-motorbike-vietnam",
+        "checking-engine-oil-motorbike",
+        "motorcycle-rust-prevention-vietnam",
+        "motorbike-safety-checklist-before-riding",
+        "maintenance-during-monthly-rental-hanoi",
+        "what-is-included-motorbike-rental-hanoi",
+        "motorbike-service-when-vietnam",
+        "tyre-care-motorbike-vietnam",
+        "cleaning-motorbike-properly-vietnam"
+      ]
+    },
+    {
       "file": "_articles/motorbike-delivery-old-quarter.md",
       "links": 9,
       "slugs": [
@@ -411,20 +502,6 @@
         "late-return-rental-motorbike-hanoi",
         "switching-bikes-mid-rental-hanoi",
         "renting-motorbike-long-bien"
-      ]
-    },
-    {
-      "file": "_articles/motorbike-maintenance-basics-vietnam.md",
-      "links": 8,
-      "slugs": [
-        "chain-maintenance-motorbike-vietnam",
-        "brake-checks-motorbike-vietnam",
-        "checking-engine-oil-motorbike",
-        "motorcycle-rust-prevention-vietnam",
-        "motorbike-safety-checklist-before-riding",
-        "maintenance-during-monthly-rental-hanoi",
-        "what-is-included-motorbike-rental-hanoi",
-        "motorbike-service-when-vietnam"
       ]
     },
     {
@@ -1519,6 +1596,116 @@
       ]
     },
     {
+      "file": "_articles/choosing-motorbike-monthly-rental-hanoi.md",
+      "links": 5,
+      "slugs": [
+        "best-motorbikes-for-tall-riders-vietnam",
+        "automatic-or-semi-automatic-monthly-hanoi",
+        "which-motorbikes-have-monthly-rates-hanoi",
+        "high-mileage-monthly-rental-hanoi",
+        "test-riding-before-monthly-rental-hanoi"
+      ]
+    },
+    {
+      "file": "_articles/commuting-by-motorbike-monthly-hanoi.md",
+      "links": 5,
+      "slugs": [
+        "best-motorbike-for-commuting-hanoi",
+        "test-riding-before-monthly-rental-hanoi",
+        "high-mileage-monthly-rental-hanoi",
+        "monthly-rental-inspection-schedule-hanoi",
+        "parking-monthly-renter-hanoi"
+      ]
+    },
+    {
+      "file": "_articles/defensive-riding-motorbike-vietnam.md",
+      "links": 5,
+      "slugs": [
+        "riding-motorbike-blind-spots-vietnam",
+        "visibility-riding-motorbike-vietnam",
+        "motorbike-accident-first-aid-vietnam",
+        "motorbike-accident-duties-vietnam",
+        "emergency-braking-motorbike-vietnam"
+      ]
+    },
+    {
+      "file": "_articles/motorcycle-rust-prevention-vietnam.md",
+      "links": 5,
+      "slugs": [
+        "cleaning-motorbike-properly-vietnam",
+        "storing-motorbike-long-term-vietnam",
+        "chain-maintenance-motorbike-vietnam",
+        "lights-and-electrical-checks-motorbike",
+        "flooded-streets-riding-motorbike-vietnam"
+      ]
+    },
+    {
+      "file": "_articles/mountain-pass-riding-motorbike-vietnam.md",
+      "links": 5,
+      "slugs": [
+        "cornering-motorbike-vietnam",
+        "riding-motorbike-blind-spots-vietnam",
+        "motorbikes-on-expressway-vietnam",
+        "best-motorbike-for-long-distance-vietnam",
+        "fog-and-low-visibility-riding-motorbike-vietnam"
+      ]
+    },
+    {
+      "file": "_articles/students-semester-motorbike-rental-hanoi.md",
+      "links": 5,
+      "slugs": [
+        "minimum-age-ride-motorbike-vietnam",
+        "motorbike-rental-budget-monthly-hanoi",
+        "lending-motorbike-unlicensed-rider-vietnam",
+        "two-motorbikes-household-hanoi",
+        "monthly-vs-daily-motorbike-rental-hanoi"
+      ]
+    },
+    {
+      "file": "_articles/nomads-monthly-motorbike-hanoi.md",
+      "links": 5,
+      "slugs": [
+        "monthly-vs-daily-motorbike-rental-hanoi",
+        "shortening-long-motorbike-rental-hanoi",
+        "moving-address-during-rental-hanoi",
+        "extending-motorbike-rental-hanoi",
+        "licence-expiry-during-long-rental-hanoi"
+      ]
+    },
+    {
+      "file": "_articles/english-teachers-monthly-motorbike-hanoi.md",
+      "links": 5,
+      "slugs": [
+        "best-bike-for-english-teachers-hanoi",
+        "shortening-long-motorbike-rental-hanoi",
+        "commuting-by-motorbike-monthly-hanoi",
+        "extending-motorbike-rental-hanoi",
+        "motorbike-rental-budget-monthly-hanoi"
+      ]
+    },
+    {
+      "file": "_articles/rental-motorbike-care-long-term-hanoi.md",
+      "links": 5,
+      "slugs": [
+        "motorbike-rental-fuel-policy-hanoi",
+        "rental-motorbike-breakdown-hanoi",
+        "consumables-monthly-rental-hanoi",
+        "keeping-rental-motorbike-secure-hanoi",
+        "maintenance-during-monthly-rental-hanoi"
+      ]
+    },
+    {
+      "file": "_articles/new-rider-safety-mistakes-vietnam.md",
+      "links": 5,
+      "slugs": [
+        "renting-a-motorbike-hanoi-without-licence",
+        "defensive-riding-motorbike-vietnam",
+        "emergency-braking-motorbike-vietnam",
+        "helmet-fit-guide-vietnam",
+        "learning-to-ride-monthly-rental-hanoi"
+      ]
+    },
+    {
       "file": "_articles/adjustable-levers-motorbikes.md",
       "links": 4,
       "slugs": [
@@ -1759,16 +1946,6 @@
       ]
     },
     {
-      "file": "_articles/choosing-motorbike-monthly-rental-hanoi.md",
-      "links": 4,
-      "slugs": [
-        "best-motorbikes-for-tall-riders-vietnam",
-        "automatic-or-semi-automatic-monthly-hanoi",
-        "which-motorbikes-have-monthly-rates-hanoi",
-        "high-mileage-monthly-rental-hanoi"
-      ]
-    },
-    {
       "file": "_articles/clutch-slipping-manual-motorbike.md",
       "links": 4,
       "slugs": [
@@ -1786,16 +1963,6 @@
         "dead-battery-motorbike-vietnam",
         "checking-engine-oil-motorbike",
         "winter-riding-motorbike-hanoi"
-      ]
-    },
-    {
-      "file": "_articles/commuting-by-motorbike-monthly-hanoi.md",
-      "links": 4,
-      "slugs": [
-        "best-motorbike-for-commuting-hanoi",
-        "test-riding-before-monthly-rental-hanoi",
-        "high-mileage-monthly-rental-hanoi",
-        "monthly-rental-inspection-schedule-hanoi"
       ]
     },
     {
@@ -1846,16 +2013,6 @@
         "motorbike-accident-first-aid-vietnam",
         "motorbike-accident-duties-vietnam",
         "visibility-riding-motorbike-vietnam"
-      ]
-    },
-    {
-      "file": "_articles/defensive-riding-motorbike-vietnam.md",
-      "links": 4,
-      "slugs": [
-        "riding-motorbike-blind-spots-vietnam",
-        "visibility-riding-motorbike-vietnam",
-        "motorbike-accident-first-aid-vietnam",
-        "motorbike-accident-duties-vietnam"
       ]
     },
     {
@@ -2399,26 +2556,6 @@
       ]
     },
     {
-      "file": "_articles/motorcycle-rust-prevention-vietnam.md",
-      "links": 4,
-      "slugs": [
-        "cleaning-motorbike-properly-vietnam",
-        "storing-motorbike-long-term-vietnam",
-        "chain-maintenance-motorbike-vietnam",
-        "lights-and-electrical-checks-motorbike"
-      ]
-    },
-    {
-      "file": "_articles/mountain-pass-riding-motorbike-vietnam.md",
-      "links": 4,
-      "slugs": [
-        "cornering-motorbike-vietnam",
-        "riding-motorbike-blind-spots-vietnam",
-        "motorbikes-on-expressway-vietnam",
-        "best-motorbike-for-long-distance-vietnam"
-      ]
-    },
-    {
       "file": "_articles/mudguard-extenders-rain-spray.md",
       "links": 4,
       "slugs": [
@@ -2849,16 +2986,6 @@
       ]
     },
     {
-      "file": "_articles/students-semester-motorbike-rental-hanoi.md",
-      "links": 4,
-      "slugs": [
-        "minimum-age-ride-motorbike-vietnam",
-        "motorbike-rental-budget-monthly-hanoi",
-        "lending-motorbike-unlicensed-rider-vietnam",
-        "two-motorbikes-household-hanoi"
-      ]
-    },
-    {
       "file": "_articles/sun-glare-riding-motorbike-vietnam.md",
       "links": 4,
       "slugs": [
@@ -3088,6 +3215,76 @@
       ]
     },
     {
+      "file": "_articles/families-monthly-motorbike-hanoi.md",
+      "links": 4,
+      "slugs": [
+        "child-passengers-motorbike-vietnam",
+        "helmet-law-vietnam",
+        "best-motorbike-for-two-people-hanoi",
+        "two-motorbikes-household-hanoi"
+      ]
+    },
+    {
+      "file": "_articles/long-term-rider-licence-checklist-hanoi.md",
+      "links": 4,
+      "slugs": [
+        "vietnam-motorbike-licence-classes-explained",
+        "idp-vietnam-motorbike-rules",
+        "police-impound-motorbike-vietnam",
+        "licence-expiry-during-long-rental-hanoi"
+      ]
+    },
+    {
+      "file": "_articles/traffic-at-rush-hour-riding-hanoi.md",
+      "links": 4,
+      "slugs": [
+        "filtering-through-traffic-motorbike-vietnam",
+        "commuting-by-motorbike-monthly-hanoi",
+        "riding-motorbike-heavy-rain-vietnam",
+        "defensive-riding-motorbike-vietnam"
+      ]
+    },
+    {
+      "file": "_articles/what-to-wear-riding-motorbike-vietnam.md",
+      "links": 4,
+      "slugs": [
+        "hot-weather-riding-motorbike-vietnam",
+        "winter-riding-motorbike-hanoi",
+        "night-riding-motorbike-safety-vietnam",
+        "helmet-fit-guide-vietnam"
+      ]
+    },
+    {
+      "file": "_articles/expats-monthly-motorbike-hanoi.md",
+      "links": 4,
+      "slugs": [
+        "long-term-renting-vs-buying-residents-hanoi",
+        "insurance-for-long-term-renter-hanoi",
+        "long-term-rider-licence-checklist-hanoi",
+        "monthly-motorbike-rental-requirements-hanoi"
+      ]
+    },
+    {
+      "file": "_articles/eye-protection-riding-motorbike-vietnam.md",
+      "links": 4,
+      "slugs": [
+        "riding-motorbike-heavy-rain-vietnam",
+        "what-to-wear-riding-motorbike-vietnam",
+        "night-riding-motorbike-safety-vietnam",
+        "helmet-fit-guide-vietnam"
+      ]
+    },
+    {
+      "file": "_articles/breakdowns-during-long-term-rental-hanoi.md",
+      "links": 4,
+      "slugs": [
+        "maintenance-during-monthly-rental-hanoi",
+        "rental-motorbike-breakdown-hanoi",
+        "outside-repair-shops-rental-motorbike",
+        "rental-motorbike-care-long-term-hanoi"
+      ]
+    },
+    {
       "file": "_articles/aftermarket-parts-warranty.md",
       "links": 3,
       "slugs": [
@@ -3187,15 +3384,6 @@
       ]
     },
     {
-      "file": "_articles/families-monthly-motorbike-hanoi.md",
-      "links": 3,
-      "slugs": [
-        "child-passengers-motorbike-vietnam",
-        "helmet-law-vietnam",
-        "best-motorbike-for-two-people-hanoi"
-      ]
-    },
-    {
       "file": "_articles/first-aid-kit-motorbike-riders-vietnam.md",
       "links": 3,
       "slugs": [
@@ -3250,15 +3438,6 @@
       ]
     },
     {
-      "file": "_articles/long-term-rider-licence-checklist-hanoi.md",
-      "links": 3,
-      "slugs": [
-        "vietnam-motorbike-licence-classes-explained",
-        "idp-vietnam-motorbike-rules",
-        "police-impound-motorbike-vietnam"
-      ]
-    },
-    {
       "file": "_articles/monthly-rental-inspection-schedule-hanoi.md",
       "links": 3,
       "slugs": [
@@ -3292,15 +3471,6 @@
         "motorbike-night-lights-vietnam",
         "eye-protection-riding-motorbike-vietnam",
         "drink-driving-limits-motorbike-vietnam"
-      ]
-    },
-    {
-      "file": "_articles/nomads-monthly-motorbike-hanoi.md",
-      "links": 3,
-      "slugs": [
-        "monthly-vs-daily-motorbike-rental-hanoi",
-        "shortening-long-motorbike-rental-hanoi",
-        "moving-address-during-rental-hanoi"
       ]
     },
     {
@@ -3394,15 +3564,6 @@
       ]
     },
     {
-      "file": "_articles/traffic-at-rush-hour-riding-hanoi.md",
-      "links": 3,
-      "slugs": [
-        "filtering-through-traffic-motorbike-vietnam",
-        "commuting-by-motorbike-monthly-hanoi",
-        "riding-motorbike-heavy-rain-vietnam"
-      ]
-    },
-    {
       "file": "_articles/two-motorbikes-household-hanoi.md",
       "links": 3,
       "slugs": [
@@ -3439,21 +3600,93 @@
       ]
     },
     {
-      "file": "_articles/what-to-wear-riding-motorbike-vietnam.md",
-      "links": 3,
-      "slugs": [
-        "hot-weather-riding-motorbike-vietnam",
-        "winter-riding-motorbike-hanoi",
-        "night-riding-motorbike-safety-vietnam"
-      ]
-    },
-    {
       "file": "_articles/which-motorbikes-have-monthly-rates-hanoi.md",
       "links": 3,
       "slugs": [
         "e-bike-monthly-rental-hanoi",
         "automatic-or-semi-automatic-monthly-hanoi",
         "choosing-motorbike-monthly-rental-hanoi"
+      ]
+    },
+    {
+      "file": "_articles/brake-pads-replacement-motorbike-vietnam.md",
+      "links": 3,
+      "slugs": [
+        "brake-checks-motorbike-vietnam",
+        "motorbike-service-where-vietnam",
+        "outside-repair-shops-rental-motorbike"
+      ]
+    },
+    {
+      "file": "_articles/checking-engine-oil-motorbike.md",
+      "links": 3,
+      "slugs": [
+        "motorbike-service-when-vietnam",
+        "maintenance-during-monthly-rental-hanoi",
+        "outside-repair-shops-rental-motorbike"
+      ]
+    },
+    {
+      "file": "_articles/filtering-through-traffic-motorbike-vietnam.md",
+      "links": 3,
+      "slugs": [
+        "lane-splitting-legal-vietnam",
+        "riding-motorbike-blind-spots-vietnam",
+        "slow-speed-control-motorbike-vietnam"
+      ]
+    },
+    {
+      "file": "_articles/gravel-roads-motorbike-vietnam.md",
+      "links": 3,
+      "slugs": [
+        "mountain-pass-riding-motorbike-vietnam",
+        "best-motorbike-for-day-trips-from-hanoi",
+        "cornering-motorbike-vietnam"
+      ]
+    },
+    {
+      "file": "_articles/moving-address-during-rental-hanoi.md",
+      "links": 3,
+      "slugs": [
+        "delivery-pickup-monthly-rental-hanoi",
+        "keeping-rental-motorbike-secure-hanoi",
+        "parking-monthly-renter-hanoi"
+      ]
+    },
+    {
+      "file": "_articles/parking-monthly-renter-hanoi.md",
+      "links": 3,
+      "slugs": [
+        "keeping-rental-motorbike-secure-hanoi",
+        "renting-motorbike-old-quarter",
+        "monthly-rental-through-tet-hanoi"
+      ]
+    },
+    {
+      "file": "_articles/roundabouts-motorbike-vietnam.md",
+      "links": 3,
+      "slugs": [
+        "traffic-light-rules-vietnam",
+        "right-turn-on-red-vietnam",
+        "defensive-riding-motorbike-vietnam"
+      ]
+    },
+    {
+      "file": "_articles/consumables-monthly-rental-hanoi.md",
+      "links": 3,
+      "slugs": [
+        "punctured-tyre-on-rental-motorbike",
+        "outside-repair-shops-rental-motorbike",
+        "maintenance-during-monthly-rental-hanoi"
+      ]
+    },
+    {
+      "file": "_articles/high-mileage-monthly-rental-hanoi.md",
+      "links": 3,
+      "slugs": [
+        "choosing-motorbike-monthly-rental-hanoi",
+        "maintenance-during-monthly-rental-hanoi",
+        "monthly-rental-inspection-schedule-hanoi"
       ]
     },
     {
@@ -3481,22 +3714,6 @@
       ]
     },
     {
-      "file": "_articles/brake-pads-replacement-motorbike-vietnam.md",
-      "links": 2,
-      "slugs": [
-        "brake-checks-motorbike-vietnam",
-        "motorbike-service-where-vietnam"
-      ]
-    },
-    {
-      "file": "_articles/checking-engine-oil-motorbike.md",
-      "links": 2,
-      "slugs": [
-        "motorbike-service-when-vietnam",
-        "maintenance-during-monthly-rental-hanoi"
-      ]
-    },
-    {
       "file": "_articles/dead-battery-motorbike-vietnam.md",
       "links": 2,
       "slugs": [
@@ -3513,75 +3730,11 @@
       ]
     },
     {
-      "file": "_articles/english-teachers-monthly-motorbike-hanoi.md",
-      "links": 2,
-      "slugs": [
-        "best-bike-for-english-teachers-hanoi",
-        "shortening-long-motorbike-rental-hanoi"
-      ]
-    },
-    {
-      "file": "_articles/expats-monthly-motorbike-hanoi.md",
-      "links": 2,
-      "slugs": [
-        "long-term-renting-vs-buying-residents-hanoi",
-        "insurance-for-long-term-renter-hanoi"
-      ]
-    },
-    {
-      "file": "_articles/eye-protection-riding-motorbike-vietnam.md",
-      "links": 2,
-      "slugs": [
-        "riding-motorbike-heavy-rain-vietnam",
-        "what-to-wear-riding-motorbike-vietnam"
-      ]
-    },
-    {
-      "file": "_articles/filtering-through-traffic-motorbike-vietnam.md",
-      "links": 2,
-      "slugs": [
-        "lane-splitting-legal-vietnam",
-        "riding-motorbike-blind-spots-vietnam"
-      ]
-    },
-    {
-      "file": "_articles/gravel-roads-motorbike-vietnam.md",
-      "links": 2,
-      "slugs": [
-        "mountain-pass-riding-motorbike-vietnam",
-        "best-motorbike-for-day-trips-from-hanoi"
-      ]
-    },
-    {
       "file": "_articles/motorbike-service-where-vietnam.md",
       "links": 2,
       "slugs": [
         "outside-repair-shops-rental-motorbike",
         "genuine-vs-fake-parts-motorbike-vietnam"
-      ]
-    },
-    {
-      "file": "_articles/moving-address-during-rental-hanoi.md",
-      "links": 2,
-      "slugs": [
-        "delivery-pickup-monthly-rental-hanoi",
-        "keeping-rental-motorbike-secure-hanoi"
-      ]
-    },
-    {
-      "file": "_articles/parking-monthly-renter-hanoi.md",
-      "links": 2,
-      "slugs": [
-        "keeping-rental-motorbike-secure-hanoi",
-        "renting-motorbike-old-quarter"
-      ]
-    },
-    {
-      "file": "_articles/rental-motorbike-care-long-term-hanoi.md",
-      "links": 2,
-      "slugs": [
-        "motorbike-rental-fuel-policy-hanoi",
-        "rental-motorbike-breakdown-hanoi"
       ]
     },
     {
@@ -3601,11 +3754,27 @@
       ]
     },
     {
-      "file": "_articles/roundabouts-motorbike-vietnam.md",
+      "file": "_articles/delivery-pickup-monthly-rental-hanoi.md",
       "links": 2,
       "slugs": [
-        "traffic-light-rules-vietnam",
-        "right-turn-on-red-vietnam"
+        "rental-motorbike-inspection-checklist",
+        "motorbike-rental-pickup-or-delivery-hanoi"
+      ]
+    },
+    {
+      "file": "_articles/fog-and-low-visibility-riding-motorbike-vietnam.md",
+      "links": 2,
+      "slugs": [
+        "motorbike-night-lights-vietnam",
+        "winter-riding-motorbike-hanoi"
+      ]
+    },
+    {
+      "file": "_articles/genuine-vs-fake-parts-motorbike-vietnam.md",
+      "links": 2,
+      "slugs": [
+        "outside-repair-shops-rental-motorbike",
+        "brake-pads-replacement-motorbike-vietnam"
       ]
     },
     {
@@ -3616,45 +3785,10 @@
       ]
     },
     {
-      "file": "_articles/breakdowns-during-long-term-rental-hanoi.md",
-      "links": 1,
-      "slugs": [
-        "maintenance-during-monthly-rental-hanoi"
-      ]
-    },
-    {
-      "file": "_articles/consumables-monthly-rental-hanoi.md",
-      "links": 1,
-      "slugs": [
-        "punctured-tyre-on-rental-motorbike"
-      ]
-    },
-    {
-      "file": "_articles/delivery-pickup-monthly-rental-hanoi.md",
-      "links": 1,
-      "slugs": [
-        "rental-motorbike-inspection-checklist"
-      ]
-    },
-    {
       "file": "_articles/electric-bike-licence-vietnam.md",
       "links": 1,
       "slugs": [
         "what-is-electric-motorbike-vietnam"
-      ]
-    },
-    {
-      "file": "_articles/fog-and-low-visibility-riding-motorbike-vietnam.md",
-      "links": 1,
-      "slugs": [
-        "motorbike-night-lights-vietnam"
-      ]
-    },
-    {
-      "file": "_articles/genuine-vs-fake-parts-motorbike-vietnam.md",
-      "links": 1,
-      "slugs": [
-        "outside-repair-shops-rental-motorbike"
       ]
     },
     {
@@ -3683,13 +3817,6 @@
       "links": 1,
       "slugs": [
         "servicing-before-long-trip-motorbike"
-      ]
-    },
-    {
-      "file": "_articles/new-rider-safety-mistakes-vietnam.md",
-      "links": 1,
-      "slugs": [
-        "renting-a-motorbike-hanoi-without-licence"
       ]
     },
     {

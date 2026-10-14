@@ -27,7 +27,7 @@ Variable Valve Actuation (Yamaha also calls it a continuously variable valve sys
 
 ## Why it matters in practice
 
-A conventional small engine is a compromise: valve timing tuned for low-end torque (easy city riding) runs out of breath at the top, and timing tuned for top-end power feels weak when pulling away. VVA switches between profiles, so the engine can pull cleanly from a red-light start and still keep usefully strong at higher revs - relevant on fast arterial roads and overtakes. Our power and torque explainer covers how to read the resulting curves.
+A conventional small engine is a compromise: valve timing tuned for low-end torque (easy city riding) runs out of breath at the top, and timing tuned for top-end power feels weak when pulling away. VVA switches between profiles, so the engine can pull cleanly from a red-light start and still keep usefully strong at higher revs - relevant on fast arterial roads and overtakes. [Our power and torque explainer]({{ '/articles/scooter-power-torque-explained/' | relative_url }}) covers how to read the resulting curves.
 
 ## Where you get it in Vietnam
 

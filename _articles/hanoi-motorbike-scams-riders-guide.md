@@ -27,14 +27,14 @@ Hanoi is friendlier than its reputation and cheaper than most capitals, but a sm
 ## The classic five
 
 - **The inflated parking fee.** Attendants quote foreigners ten times the local rate for a "special" spot. The defence is the meter of the market: if the sign or the locals are paying 5,000 and you are quoted 50,000, smile, point at the sign or the other bikes, and pay the normal rate. Most quotes collapse instantly.
-- **The repair-shop multiplier.** A genuinely broken cable becomes a "whole wiring set," or a 100,000-dong job is quoted at a million. The defences: agree the price before the work, watch the work, keep the old parts, and get a second opinion at any of the specialist trade streets. The mechanic-conversation guide is the deeper playbook.
+- **The repair-shop multiplier.** A genuinely broken cable becomes a "whole wiring set," or a 100,000-dong job is quoted at a million. The defences: agree the price before the work, watch the work, keep the old parts, and get a second opinion at any of the specialist trade streets. [The mechanic-conversation guide]({{ '/articles/talking-to-mechanic-vietnam/' | relative_url }}) is the deeper playbook.
 - **The staged damage claim.** Someone brushes your parked or slow-moving bike, damage appears that predates your day, or a rental's pre-existing scratch is discovered at return. The defence is the inspection habit: photograph the bike at handover — both sides, both ends, the clock, the fuel — and keep the photos. On a rental this single habit ends most disputes before they begin.
-- **The helmet-and-deposit dance.** At return, the shop claims your helmet is "the wrong one" or the deposit is "with the boss, come back tomorrow." The defence is paperwork: a written agreement that states the deposit, the fuel level and the return procedure. Reputable shops hand the deposit back on the spot; the deposit rules article covers what is normal.
+- **The helmet-and-deposit dance.** At return, the shop claims your helmet is "the wrong one" or the deposit is "with the boss, come back tomorrow." The defence is paperwork: a written agreement that states the deposit, the fuel level and the return procedure. Reputable shops hand the deposit back on the spot; [the deposit rules article]({{ '/articles/motorbike-rental-deposit-hanoi/' | relative_url }}) covers what is normal.
 - **The "you cannot park / must pay me" improvised warden.** A man who does not work anywhere near the parking row insists you owe him a fee or must move. The defence is looking at the row: if the bikes are there and the real attendant (with stubs) is elsewhere, ignore the improvisation politely and find the stub person.
 
 ## Traffic-stop variations
 
-The rare-but-reported traffic-side overcharges involve unofficial "fines" for invented violations, sometimes with a helper offering to "translate and settle" for a fee. Genuine fines in Vietnam are paid through defined channels — the payment guide describes them. A foreign rider who knows the process, carries the right documents, and asks for the paperwork politely is a poor target.
+The rare-but-reported traffic-side overcharges involve unofficial "fines" for invented violations, sometimes with a helper offering to "translate and settle" for a fee. Genuine fines in Vietnam are paid through defined channels — the [payment guide]({{ '/articles/how-to-pay-traffic-fine-vietnam/' | relative_url }}) describes them. A foreign rider who knows the process, carries the right documents, and asks for the paperwork politely is a poor target.
 
 ## Structural defences
 

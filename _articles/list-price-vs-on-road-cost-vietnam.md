@@ -28,11 +28,11 @@ The bike itself, as specified, from the manufacturer's suggested retail pricing.
 
 ## What stands between list price and the road
 
-Registration and plating: a new motorbike must be registered with Vietnamese authorities to carry number plates - riding unregistered draws fines (our unregistered-bike [guide]({{ '/articles/unregistered-motorbike-fine-vietnam/' | relative_url }}) covers that risk). Compulsory insurance: Vietnamese law requires compulsory motorbike insurance for registered bikes - our dedicated guide covers what it does and does not pay for. Dealer and documentation handling: agents charge for processing; amounts vary by dealer and locality, so verify locally rather than trusting internet figures. Equipment: a helmet, lock and registration accessories are rarely included.
+Registration and plating: a new motorbike must be registered with Vietnamese authorities to carry number plates - riding unregistered draws fines (our unregistered-bike [guide]({{ '/articles/unregistered-motorbike-fine-vietnam/' | relative_url }}) covers that risk). Compulsory insurance: Vietnamese law requires compulsory motorbike insurance for registered bikes - our [dedicated guide]({{ '/articles/compulsory-motorbike-insurance-vietnam/' | relative_url }}) covers what it does and does not pay for. Dealer and documentation handling: agents charge for processing; amounts vary by dealer and locality, so verify locally rather than trusting internet figures. Equipment: a helmet, lock and registration accessories are rarely included.
 
 ## How to use list prices correctly
 
-List prices are for comparison - ranking the Wave Alpha against the Sirius RC, or the 88-million Super Cub against the 72-million CBR150R (our premium underbones guide does exactly that). The on-road gap above the sticker is a separate budget; ask the dealer for the total registration-cost quote in writing, and treat any single "everything included" internet number as unverified.
+List prices are for comparison - ranking the Wave Alpha against the Sirius RC, or the 88-million Super Cub against the 72-million CBR150R ([our premium underbones guide]({{ '/articles/premium-underbones-vietnam-verified/' | relative_url }}) does exactly that). The on-road gap above the sticker is a separate budget; ask the dealer for the total registration-cost quote in writing, and treat any single "everything included" internet number as unverified.
 
 ## The rental alternative
 

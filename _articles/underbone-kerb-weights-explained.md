@@ -24,7 +24,7 @@ Kerb weight - the bike with fluids ready to ride - is the most underrated number
 
 ## The verified weight ladder
 
-From manufacturer pages (retrieved 23 September 2026): Honda Wave Alpha 96 kg, Wave RSX and Blade 98-99 kg, Sirius RC 100 kg wet, Future 125 FI 104 kg, Super Cub C125 109 kg, CT125 117 kg, Exciter 155 VVA 123 kg wet, Winner R 124 kg, CBR150R 139 kg. Note the wet/dry distinction: Yamaha publishes wet weights for the Sirius and Exciter; Honda publishes kerb weights. Our wet-versus-dry weight explainer covers the difference.
+From manufacturer pages (retrieved 23 September 2026): Honda Wave Alpha 96 kg, Wave RSX and Blade 98-99 kg, Sirius RC 100 kg wet, Future 125 FI 104 kg, Super Cub C125 109 kg, CT125 117 kg, Exciter 155 VVA 123 kg wet, Winner R 124 kg, CBR150R 139 kg. Note the wet/dry distinction: Yamaha publishes wet weights for the Sirius and Exciter; Honda publishes kerb weights. [Our wet-versus-dry weight explainer]({{ '/articles/wet-vs-dry-weight-explained/' | relative_url }}) covers the difference.
 
 ## Where you feel each kilogram
 

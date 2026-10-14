@@ -34,7 +34,7 @@ A rental is priced for the period booked. If you booked a week at 600,000-700,00
 
 ## How to leave money on the table less often
 
-- Book the period you actually believe, not the period you hope. The period article shows the rate breakpoints - if you are unsure between daily and weekly, the arithmetic of a couple of extra days usually answers it.
+- Book the period you actually believe, not the period you hope. [The period article]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}) shows the rate breakpoints - if you are unsure between daily and weekly, the arithmetic of a couple of extra days usually answers it.
 - If your dates might move, say so when booking; shops plan their fleets around dates, and a flagged uncertainty gets handled like a normal booking question.
 - If you know mid-rental that you will finish early, tell the shop then - an early notice sometimes lets the bike go to another booking, which is the situation where a goodwill adjustment is realistic.
 

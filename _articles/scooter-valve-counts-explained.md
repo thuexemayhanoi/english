@@ -36,4 +36,4 @@ A four-valve head usually supports higher peak power and cleaner high-rpm runnin
 
 ## Maintenance notes
 
-Whatever the count, valve clearances need periodic checking and adjustment - our valve clearance guide covers the basics and why the interval belongs in your service planning. Renters need not worry about any of this; contact us to confirm current availability and let the shop handle the servicing.
+Whatever the count, valve clearances need periodic checking and adjustment - [our valve clearance guide]({{ '/articles/valve-clearances-motorbike-basics/' | relative_url }}) covers the basics and why the interval belongs in your service planning. Renters need not worry about any of this; contact us to confirm current availability and let the shop handle the servicing.

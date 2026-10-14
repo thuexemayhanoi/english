@@ -34,7 +34,7 @@ The dyke-road stretch is the pleasant part: river on one side, market-garden cou
 
 Bat Trang is a working village organised around ceramics: a main market street of workshops and showrooms, kilns down the side lanes, and hands-on pottery classes offered by many workshops. The market street is walkable and busy — park at the village's attended lots at the entrance and go on foot. A visit of two to three hours covers browsing, a class if you want one, and food at the local stalls.
 
-Expect to buy more than planned. Packing ceramics on a motorbike is the one real logistics question: small pieces fit in a backpack, but anything box-sized wants a rear carrier — bring bungee cords or a top box, wrap pieces in clothing, and ride the river road back gently. The carrying-luggage guide applies here more than anywhere.
+Expect to buy more than planned. Packing ceramics on a motorbike is the one real logistics question: small pieces fit in a backpack, but anything box-sized wants a rear carrier — bring bungee cords or a top box, wrap pieces in clothing, and ride the river road back gently. [The carrying-luggage guide]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}) applies here more than anywhere.
 
 ## When to go
 

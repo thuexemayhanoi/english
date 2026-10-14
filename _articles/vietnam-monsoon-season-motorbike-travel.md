@@ -27,7 +27,7 @@ Vietnam is 15 degrees of latitude tall, and it does not have a weather — it ha
 
 ## The three zones
 
-**The North (Hanoi, Ha Giang, the northwest).** Four real seasons. Summer (May-August) is hot and wet with heavy summer downpours; winter (December-February) is cool, grey and damp — the mountains can drop near freezing on the high passes, and Ha Giang in January is a cold, foggy proposition. The dry, stable windows that touring operators recommend most for the north are March-April and October-November. Detail for Hanoi specifically is in our Hanoi seasons guide.
+**The North (Hanoi, Ha Giang, the northwest).** Four real seasons. Summer (May-August) is hot and wet with heavy summer downpours; winter (December-February) is cool, grey and damp — the mountains can drop near freezing on the high passes, and Ha Giang in January is a cold, foggy proposition. The dry, stable windows that touring operators recommend most for the north are March-April and October-November. Detail for Hanoi specifically is in [our Hanoi seasons guide]({{ '/articles/hanoi-riding-seasons-guide/' | relative_url }}).
 
 **The Centre (Hue, Da Nang, Hoi An, Nha Trang).** The flip of everyone's intuition: the centre's wettest, most dangerous months are the autumn — roughly September-November — when the coast takes typhoons and monsoon rain in succession, and Hue earns its reputation as the wettest big city in Vietnam. Riding guides put the central coastal route's best window at March-August.
 

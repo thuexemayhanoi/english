@@ -39,7 +39,7 @@ Vietnamese road signs follow a mix of international conventions with French and 
 1. **Cấm** (prohibited) + pictogram:** the red circles. The ones to actually read: no entry (cấm đi), no overtaking (cấm vượt), no left/right turn. The motorbike-specific one that matters most nationally: expressway entry signs with a red slash over a motorbike — motorbikes are banned from all CT expressways, and our legal article covers the rule and the fines.
 2. **Speed signs:** circular with a number (km/h). Common city limits are 40-60; enforcement by camera exists on the big QL routes.
 3. **Bump signs (gờ giảm tốc):** the triangle showing a hump — Vietnam uses a lot of speed bumps, many unpainted. Learn the sign, then learn to spot the unpainted ones by the scarring on the tarmac.
-4. **Ferry signs:** "Bến phà" with a boat pictogram — common in the Mekong and at river crossings; our ferry guide covers taking bikes aboard.
+4. **Ferry signs:** "Bến phà" with a boat pictogram — common in the Mekong and at river crossings; [our ferry guide]({{ '/articles/motorbike-ferry-train-transport-vietnam/' | relative_url }}) covers taking bikes aboard.
 5. **Work zones:** Vietnamese roadworks often get a flag man and cones rather than signs; treat flag men as the signs.
 
 ## Words worth memorising

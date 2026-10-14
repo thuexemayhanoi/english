@@ -36,4 +36,4 @@ The SH160i is the strongest tall-rider candidate in the scooter class for reason
 
 ## Consider the alternative
 
-Tall riders often find underbone manual bikes roomier than any scooter - our tall-rider guide across all bike types covers that. Whatever you choose, contact us to confirm current availability, and test-ride before committing to a monthly rental.
+Tall riders often find underbone manual bikes roomier than any scooter - [our tall-rider guide]({{ '/articles/best-motorbikes-for-tall-riders-vietnam/' | relative_url }}) across all bike types covers that. Whatever you choose, contact us to confirm current availability, and test-ride before committing to a monthly rental.

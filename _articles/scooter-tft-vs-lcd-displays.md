@@ -39,7 +39,7 @@ Practical value comes from the connected features, not the colours: fuel warning
 
 ## What to check
 
-Version matters: display type varies within model ranges, and a spec sheet listing a model is not the same as listing the version. [Our scooter spec sheet reading guide]({{ '/articles/reading-scooter-spec-sheet/' | relative_url }}) covers how to verify. On rentals, ask at pickup what the warning lamps mean - our warning lights guide covers the common ones across brands.
+Version matters: display type varies within model ranges, and a spec sheet listing a model is not the same as listing the version. [Our scooter spec sheet reading guide]({{ '/articles/reading-scooter-spec-sheet/' | relative_url }}) covers how to verify. On rentals, ask at pickup what the warning lamps mean - [our warning lights guide]({{ '/articles/motorbike-warning-lights-meaning/' | relative_url }}) covers the common ones across brands.
 
 ## Bottom line
 

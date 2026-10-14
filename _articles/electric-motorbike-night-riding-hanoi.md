@@ -29,7 +29,7 @@ Everything on the bike eats from one pack. The headlight, taillight and display 
 
 ## The silence problem, at night
 
-In daylight the silence issue is being overtaken; at night it is being invisible in both senses. Drivers scanning for headlights register a motorbike's single small beam poorly among shop-front glare. The defences are the same ones the visibility guide covers, weighted for night: light-coloured or reflective gear, a lit, high position in the lane at junctions, and patience at unlit junctions where nobody has seen you. Do not rely on the horn at night more than in the day — it is a signal, not a shield.
+In daylight the silence issue is being overtaken; at night it is being invisible in both senses. Drivers scanning for headlights register a motorbike's single small beam poorly among shop-front glare. The defences are the same ones the [visibility guide]({{ '/articles/staying-visible-electric-motorbike/' | relative_url }}) covers, weighted for night: light-coloured or reflective gear, a lit, high position in the lane at junctions, and patience at unlit junctions where nobody has seen you. Do not rely on the horn at night more than in the day — it is a signal, not a shield.
 
 ## Surfaces after dark
 

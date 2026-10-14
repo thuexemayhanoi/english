@@ -27,7 +27,7 @@ A helmet visor is the best all-round solution: sealed against dust, clear agains
 
 ## Clear versus tinted
 
-Tinted lenses are for daylight only: at night they turn every oncoming light into a smear and every unlit bike into a ghost. Carry both, or use a visor with an internal drop-down sun shield. Night-riding-motorbike-safety-vietnam covers the wider dark-visibility problem.
+Tinted lenses are for daylight only: at night they turn every oncoming light into a smear and every unlit bike into a ghost. Carry both, or use a visor with an internal drop-down sun shield. [Riding a Motorbike at Night in Vietnam]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}) covers the wider dark-visibility problem.
 
 ## Keeping them usable
 
@@ -35,7 +35,7 @@ Dust film on a visor builds a starburst around every light at night; wipe the vi
 
 ## The low-tech rule
 
-If you would not walk through a sandstorm with your eyes open, do not ride through one. Helmet-fit-guide-vietnam covers choosing the helmet the visor attaches to; [What to Wear Riding a Motorbike in Vietnam]({{ '/articles/what-to-wear-riding-motorbike-vietnam/' | relative_url }}) covers the rest of the kit.
+If you would not walk through a sandstorm with your eyes open, do not ride through one. [How to Choose and Fit a Helmet in Vietnam]({{ '/articles/helmet-fit-guide-vietnam/' | relative_url }}) covers choosing the helmet the visor attaches to; [What to Wear Riding a Motorbike in Vietnam]({{ '/articles/what-to-wear-riding-motorbike-vietnam/' | relative_url }}) covers the rest of the kit.
 
 ## The one-line version
 

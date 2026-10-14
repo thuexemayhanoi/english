@@ -30,7 +30,7 @@ A 50cc-or-under moped requires no licence, and the minimum rider age is 16. That
 
 - **Both feet flat on the ground, seated.** Confidence starts with footing at stops.
 - **Big wheels over small** where the routes are rough — an underbone handles Hanoi's broken patches better than a scooter-style moped.
-- **Sound condition over style.** A dull, well-maintained machine that brakes straight beats a pretty one that doesn't. Our used-bike checklist is the tool — run it with your teenager watching, so they learn what "good" looks like.
+- **Sound condition over style.** A dull, well-maintained machine that brakes straight beats a pretty one that doesn't. [Our used-bike checklist]({{ '/articles/used-50cc-inspection-checklist/' | relative_url }}) is the tool — run it with your teenager watching, so they learn what "good" looks like.
 - **Lights, brakes, horn working** on day one; a 50's ageing electrics are a safety system, not a convenience.
 
 ## Gear is part of the purchase
@@ -43,7 +43,7 @@ The school training programme covers rules and basic skills; extend it at home. 
 
 ## Rules agreed before the keys
 
-Write the family rules down before the handover: no passengers until competence is proven (and never an unhelmeted one — the fine and the physics both land on the household), no phone in the hand, no riding after dark at first, and the bike's checks — tyres, brakes, lights, oil — are the rider's weekly job, not the parents'. Our pre-ride checklist is written for exactly that habit.
+Write the family rules down before the handover: no passengers until competence is proven (and never an unhelmeted one — the fine and the physics both land on the household), no phone in the hand, no riding after dark at first, and the bike's checks — tyres, brakes, lights, oil — are the rider's weekly job, not the parents'. [Our pre-ride checklist]({{ '/articles/50cc-pre-ride-checklist/' | relative_url }}) is written for exactly that habit.
 
 ## The honest framing
 

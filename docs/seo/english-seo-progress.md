@@ -105,3 +105,66 @@ The 4 remaining P1 rows are the REVIEW_REQUIRED legal/travel articles (bluecard,
 3. **196 articles with descriptive unlinked references** ("the X article covers…"): convert to contextual links batch by batch; 120 articles with zero inbound related-card links need 2–3 inbound targets each.
 4. **Title/description signals**: 143 titles > 65 chars and 229 descriptions > 165 chars, trimmed only where the primary keyword survives.
 5. **Connect Google Search Console** for en.rentbikehanoi.com and record queries/pages in `keyword-evidence.json` before re-prioritising.
+
+## 2026-10-14 — Passes 2 and 3: metadata, inbound links, guide references, money pages, legal consistency; matrix P2 queue cleared
+
+### Pass 2 (commit d28bcfe, verified live)
+
+- 156 titles rewritten to ≤ 65 characters and 229 meta descriptions to ≤ 165, one URL at a time, primary keyword kept; two near-duplicate pairs re-titled (underbones for delivery vs beginners; NMAX vs Lexi), one tourist-licence title kept free of the word "licence" so the Guide Assistant regression suite stays green.
+- `scripts/related-links-fill.js`: every article with fewer than two explicit inbound related cards received two same-subcluster sources (298 source articles edited, `internal_link_targets` only).
+- `scripts/link-guide-references.js` pass 1: 346 descriptive references ("the deposit article covers…") in 234 articles became contextual links; resolution limited to the author's declared related guides or exact titles.
+- Matrix after pass 2: P0 0 · P1 4 · P2 238 · P3 761; OPTIMIZED 507 · LINKS_REPAIRED 320 · AUDITED 172.
+
+### Pass 3 (this commit)
+
+What changed on the site:
+
+- Bare slug repair pass 2: 46 sentence-initial (capitalised) slugs in 30 articles became links; cumulative trail 1,642 links in 352 articles (`reports/link-bare-slugs.json`).
+- Guide references pass 2: 254 references in 198 articles resolved through a reviewed per-phrase override map (225 decisions, including 8 corrections of the same-cluster fallback) plus the fallback's own 29 unambiguous hits. Pass 3: the last 33 articles resolved by hand (34 edits; hub links where a reference names a topic rather than an article; one anaphoric "as that article describes" reworded because the guide was already linked in the same sentence).
+- Money pages batch 2: 8 commercial rental / monthly-rental pages received 38 contextual links to the pricing, monthly, deposit, licence, helmet, inspection and contact pages. No fact, price or claim changed.
+- Legal consistency: 7 rental and review articles still said "A1 covers up to 175 cc". Each now states the rule the site's VERIFIED licence articles document under Law 36/2024/QH15 (a new A1 stops at 125 cc; A1 licences issued before 2025 stay valid to 175 cc; 150–155 cc bikes need class A) and links the A1 and class A guides. These are consistency edits against existing primary-source articles, not new legal research; listed for owner awareness in `optimization-log.json` (batch `legal-consistency-a1`).
+
+Engine fixes (all deterministic, zero dependencies):
+
+- `english-seo-matrix.js`: 36 cluster-7 rows of `docs/matrix/master-matrix.csv` (MM-0755…MM-0793) were recorded without the topic column, so the primary query was being read from the subcluster column; this had produced 30 false cannibalization P2 rows ("shares primary keyword 7.2 legal"). The engine now detects that layout by shape. The CSV itself is untouched (docs-sync owns it); normalising those rows and the 4 titles with unquoted commas (MM-0606, MM-0757, MM-0774, one more) is a docs task.
+- Unlinked-reference detector: existing links are replaced by a marker before matching, so a reference that is already linked ("covered in our [brakes guide]", "(see our [IDP guide])") is never counted; self-references ("this article walks through") are excluded. After the link passes this had left 80 false P2 rows.
+- Priority rule: soft signals (short body, related-cards-only) no longer make a commercial page P2 on their own; a money page (rental / monthly-rental, commercial intent) with no in-body links still does.
+- `link-bare-slugs.js`: accepts sentence-initial capitalised slugs; dry runs write `reports/*-dry-run.json` (ignored by git) so the apply trail is never overwritten.
+- `link-guide-references.js`: `--overrides <file.json>` (reviewed phrase → slug | null decisions, validated against the inventory) and `--cluster-candidates` (same-cluster fallback with a stricter two-thirds rule).
+- `scripts/seo-baseline.json`: the improved duplicate-title metric (16 → 0) accepted with `--update-baseline --reason` after pass 2 was verified live; the guard now fails if a duplicate title returns.
+
+### Verification (all on the final tree)
+
+| Check | Result |
+|---|---|
+| frontmatter / duplicate / internal-link / sitemap / schema | P0 0 · P1 0 · P2 0 · P3 0 |
+| seo-audit | P0 0 · P1 0 · P2 4 (the REVIEW_REQUIRED banners) · P3 0 |
+| jekyll build | 1004 pages, 982 article pages |
+| rendered-site-audit | P0 0 · P1 0 · P2 1 (404 page, by design) |
+| seo-engine-test / assistant-test (built index) | 29/29 · 31/31 |
+| build-report | QUALITY GATE: PASS |
+| seo-score | 96.9 (other 75: 5 review-only findings) |
+| seo-regression | PASS, baseline accepted 2026-10-14 |
+| Article diffs | additive only (no article lost a line) |
+
+### State after
+
+| Metric | After pass 1 | After pass 3 |
+|---|---|---|
+| Matrix priority | P0 0 · P1 4 · P2 399 · P3 600 | P0 0 · P1 4 · P2 0 · P3 999 |
+| Matrix status | OPTIMIZED 41 · LINKS_REPAIRED 344 · AUDITED 614 | OPTIMIZED 577 · LINKS_REPAIRED 310 · REVIEW_REQUIRED 4 · AUDITED 112 |
+| QA P2 / P3 | 20 / 372 | 4 / 0 |
+| Titles > 65 chars / descriptions > 165 chars | 143 / 229 | 0 / 0 |
+| Near-duplicate title pairs | 14 | 0 |
+| Articles with unlinked guide references | 196 | 0 |
+| Articles with zero explicit inbound related links | 120 | 0 |
+| Bare slug references in prose | 0 (1,587 repaired) | 0 (46 more repaired) |
+
+The P2 queue is empty. The 4 P1 rows are the REVIEW_REQUIRED legal/travel articles (owner re-verification against primary sources). The remaining P3 rows are informational signals, not tasks: 188 articles whose only internal links are related cards (candidates for one or two in-body links when they are next edited) and 123 articles under 300 words (never lengthened to hit a quota).
+
+### Next steps
+
+1. Owner: re-verify the 4 REVIEW_REQUIRED articles (bluecard, Cambodia and Laos border crossings, travel insurance) against primary sources and clear the banners.
+2. Docs: normalise the 36 shifted cluster-7 rows and the 4 unquoted-comma titles in `docs/matrix/master-matrix.csv` (docs-sync tooling), then re-run `node scripts/english-seo-matrix.js`.
+3. Connect Google Search Console for en.rentbikehanoi.com and record real queries in `docs/seo/keyword-evidence.json`; the domain currently has no measured organic rankings (OpenRush/OpenSEO/Ubersuggest, 2026-10-14), so on-site evidence drives priorities until then.
+4. When an article is next edited for any reason, add one or two in-body contextual links if it is one of the 188 related-cards-only articles (`seo_issues` column); never bulk-edit bodies.

@@ -32,7 +32,7 @@ Passengers are permitted on a moped, subject to the ordinary rules: the passenge
 A passenger can add 40–60 percent to the all-up weight a few horsepower must move. The effects are not subtle:
 
 - Acceleration away from lights roughly halves — plan gaps accordingly
-- Bridge ramps and slopes become slow, exposed crawls (see the hills and bridges article)
+- Bridge ramps and slopes become slow, exposed crawls ([see the hills and bridges article]({{ '/articles/50cc-hills-bridges-hanoi/' | relative_url }}))
 - Braking distances grow; small drums heat up faster on repeated stops
 - The already-thin speed margin in fast traffic disappears
 
@@ -43,7 +43,7 @@ Honest rule of thumb: two-up on a 50cc is for short, flat neighbourhood hops at 
 - Passenger mounts first, feet on the pegs, holding the rail or the rider, before the rider lifts the bike off its stand.
 - Agree on "lean with me, never against me" — small bikes feel every counter-lean.
 - The rider launches with more revs and more clutch/gear patience, braking earlier everywhere.
-- Start on a quiet street for ten minutes before joining traffic; our two-up balance article has the drills.
+- Start on a quiet street for ten minutes before joining traffic; [our two-up balance article]({{ '/articles/balancing-pillion-riding-motorbike-vietnam/' | relative_url }}) has the drills.
 
 ## The alternative
 

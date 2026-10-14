@@ -38,7 +38,7 @@ Hanoi's congestion is corridor-shaped. The heavy flow runs between the residenti
 
 ## Parking decides more than you think
 
-Before signing any lease, ask where the motorbike sleeps. Compounds and new towers include basement parking; older tube houses and serviced apartments often rely on street-side overnight arrangements that work fine but deserve a look at 22:00 before you commit. If you rent long-term, the monthly renter's parking guide is worth reading first.
+Before signing any lease, ask where the motorbike sleeps. Compounds and new towers include basement parking; older tube houses and serviced apartments often rely on street-side overnight arrangements that work fine but deserve a look at 22:00 before you commit. If you rent long-term, [the monthly renter's parking guide]({{ '/articles/parking-monthly-renter-hanoi/' | relative_url }}) is worth reading first.
 
 ## Check the water history
 

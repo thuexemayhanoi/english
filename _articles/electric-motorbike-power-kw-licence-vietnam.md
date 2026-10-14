@@ -45,6 +45,6 @@ The instructive row is the Feliz II and Viper: 3,000 W of real power and a 70 km
 - Renting: an A1-class electric like the Weaver 200 demands the same A1 licence as a petrol 125 — no licence, no ride.
 - Fines: riding a machine above your licence class is priced as an unlicensed-ride offence under Article 18 of Decree 168/2024.
 
-The full classification article covers the three groups in legal detail, and [the speed-classes guide]({{ '/articles/electric-two-wheeler-speed-classes-vietnam/' | relative_url }}) maps the same ladder by top speed. For renting electric two-wheelers as a foreigner, availability is a question of the fleet — contact us to confirm current availability.
+[The full classification article]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}) covers the three groups in legal detail, and [the speed-classes guide]({{ '/articles/electric-two-wheeler-speed-classes-vietnam/' | relative_url }}) maps the same ladder by top speed. For renting electric two-wheelers as a foreigner, availability is a question of the fleet — contact us to confirm current availability.
 
 *Information, not legal advice. Verified against the full text of Law 36/2024/QH15 on 2026-09-24.*

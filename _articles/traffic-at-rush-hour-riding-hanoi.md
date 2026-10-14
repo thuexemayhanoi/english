@@ -27,7 +27,7 @@ Peak hour crashes are low-speed but constant: filter collisions, doors, right-of
 
 ## Habits that work
 
-Keep a two-metre bubble you can stop inside. Watch front wheels, not phones, on the riders ahead. Skip the curbside lane where parked cars open doors. Take the junctions calmly: the ten seconds you "win" by squeezing through a changing light cost far more when they do not. Defensive-riding-motorbike-vietnam is the full mindset; rush hour is simply where it is tested hardest.
+Keep a two-metre bubble you can stop inside. Watch front wheels, not phones, on the riders ahead. Skip the curbside lane where parked cars open doors. Take the junctions calmly: the ten seconds you "win" by squeezing through a changing light cost far more when they do not. [Defensive Riding on a Motorbike in Vietnam]({{ '/articles/defensive-riding-motorbike-vietnam/' | relative_url }}) is the full mindset; rush hour is simply where it is tested hardest.
 
 ## Timing beats technique
 

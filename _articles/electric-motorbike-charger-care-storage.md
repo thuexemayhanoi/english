@@ -44,4 +44,4 @@ Charge where you can see it, on a hard surface, away from bedding and sun. Do no
 
 ## Storage between rides
 
-For bikes that sit — a long holiday, a winter break — the advice in the long-storage guide applies to the charger too: store it dry and indoors, and run a maintenance charge on the pack as that article describes. When you return, the machine that starts is the one whose charger was treated like part of the bike, not an accessory to lose.
+For bikes that sit — a long holiday, a winter break — [the advice in the long-storage guide]({{ '/articles/storing-electric-motorbike-long-breaks/' | relative_url }}) applies to the charger too: store it dry and indoors, and run a maintenance charge on the pack as described there. When you return, the machine that starts is the one whose charger was treated like part of the bike, not an accessory to lose.

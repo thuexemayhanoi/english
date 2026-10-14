@@ -41,7 +41,7 @@ The full rent-vs-buy analysis is in the battery economics article; the short rul
 
 ## Carrying the pack
 
-A removable pack is a heavy, valuable, stealable object. In practice: it rides in the under-seat bay or a locked top box, never loose in a basket; a spare left at home sits on the charger, not in a hot corridor; and the bay latch gets checked at every stop on long rides. The theft article covers securing the machine itself — a bike whose packs are worth millions of dong deserves the same lock discipline as the bike.
+A removable pack is a heavy, valuable, stealable object. In practice: it rides in the under-seat bay or a locked top box, never loose in a basket; a spare left at home sits on the charger, not in a hot corridor; and the bay latch gets checked at every stop on long rides. [The theft article]({{ '/articles/electric-motorbike-theft-security-vietnam/' | relative_url }}) covers securing the machine itself — a bike whose packs are worth millions of dong deserves the same lock discipline as the bike.
 
 ## When the spare does not help
 

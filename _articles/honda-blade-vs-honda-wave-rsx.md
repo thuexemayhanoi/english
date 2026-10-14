@@ -32,7 +32,7 @@ RSX: 1.56 L/100 km with a 4.0-litre tank. Blade: 1.85 L/100 km with 3.7 litres. 
 
 ## Versions and brakes
 
-This is the Blade's strength. Honda lists the Blade Sport with alloy wheels and a front disc, alongside spoked-wheel drum and disc versions (98 kg spoked drum, 99 kg spoked disc/alloy). The RSX page does not itemise brake versions. Our alloy-versus-spoked wheels explainer covers why the wheel choice matters on Vietnamese roads.
+This is the Blade's strength. Honda lists the Blade Sport with alloy wheels and a front disc, alongside spoked-wheel drum and disc versions (98 kg spoked drum, 99 kg spoked disc/alloy). The RSX page does not itemise brake versions. [Our alloy-versus-spoked wheels explainer]({{ '/articles/alloy-vs-spoked-wheels-motorbikes/' | relative_url }}) covers why the wheel choice matters on Vietnamese roads.
 
 ## Price
 

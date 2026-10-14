@@ -38,7 +38,7 @@ The Vario 125 uses a wavy front disc with a combined braking system (CBS) rather
 
 ## Features and practicality
 
-Standard equipment includes a smart key, LCD instrument panel, USB-C port in the front box, full LED lighting and 18 litres of underseat storage - enough for a half helmet plus everyday items, covered in our underseat storage comparison.
+Standard equipment includes a smart key, LCD instrument panel, USB-C port in the front box, full LED lighting and 18 litres of underseat storage - enough for a half helmet plus everyday items, covered in our [underseat storage comparison]({{ '/articles/scooter-underseat-storage-comparison/' | relative_url }}).
 
 ## Who it suits
 

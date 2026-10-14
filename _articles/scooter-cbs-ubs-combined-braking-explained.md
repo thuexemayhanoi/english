@@ -28,7 +28,7 @@ Squeezing one lever on a CBS scooter applies measured braking to both wheels, fr
 
 ## What CBS does not do
 
-It is not ABS. If you grab the brake hard enough to lock a wheel on wet paint, CBS will not prevent the lock - ABS modulates pressure per wheel to keep it rotating, as our ABS guide and TCS vs ABS explainer cover. A CBS scooter stops better than an unequipped one, and worse than an ABS one, in the wet.
+It is not ABS. If you grab the brake hard enough to lock a wheel on wet paint, CBS will not prevent the lock - ABS modulates pressure per wheel to keep it rotating, as [our ABS guide]({{ '/articles/which-scooters-have-abs-vietnam/' | relative_url }}) and TCS vs ABS explainer cover. A CBS scooter stops better than an unequipped one, and worse than an ABS one, in the wet.
 
 ## Verified models with CBS/UBS (retrieved 23 September 2026)
 
@@ -39,4 +39,4 @@ Several other models in our verified database publish ABS instead; many budget m
 
 ## Why it matters in Vietnam
 
-Wet-season junctions and red-light panic stops are exactly where fixed-proportion braking helps most. But technique still outranks hardware: our emergency [braking guide]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}) covers the practice, and our rainy-season guide ranks verified ABS models if you want the stronger system.
+Wet-season junctions and red-light panic stops are exactly where fixed-proportion braking helps most. But technique still outranks hardware: our emergency [braking guide]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}) covers the practice, and [our rainy-season guide]({{ '/articles/best-scooters-rainy-season-commuting-vietnam/' | relative_url }}) ranks verified ABS models if you want the stronger system.

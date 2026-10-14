@@ -39,11 +39,11 @@ Coming from the south (if you ride one-way), the Hai Van Pass is the gateway: 21
 
 ## In Hue
 
-Give the city at least one full non-riding day: the Imperial Citadel (arrive at opening), the tombs of the emperors along the Perfume River, and the central-market evenings. Parking is easy and cheap in the citadel district — the same disciplined habits from our Hanoi parking guide apply. Note the central climate: Hue is the wettest of the big Vietnamese cities, with a defined rainy season roughly September-November and fierce summer heat — our seasons [guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }}) explains how the centre's calendar differs from Hanoi's.
+Give the city at least one full non-riding day: the Imperial Citadel (arrive at opening), the tombs of the emperors along the Perfume River, and the central-market evenings. Parking is easy and cheap in the citadel district — the same disciplined habits from [our Hanoi parking guide]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}) apply. Note the central climate: Hue is the wettest of the big Vietnamese cities, with a defined rainy season roughly September-November and fierce summer heat — our seasons [guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }}) explains how the centre's calendar differs from Hanoi's.
 
 ## Logistics
 
-- **Direction:** many riders bus or fly one leg and ride the other; the train (Hanoi-Hue/Da Nang) is famously scenic and our ferry-and-train guide covers taking a bike along.
+- **Direction:** many riders bus or fly one leg and ride the other; the train (Hanoi-Hue/Da Nang) is famously scenic and [our ferry-and-train guide]({{ '/articles/motorbike-ferry-train-transport-vietnam/' | relative_url }}) covers taking a bike along.
 - **Bike:** 125cc-plus manual recommended for a loaded week; full service before departure, and budget a mid-trip check.
 - **Money and nights:** plan overnights in Ninh Binh, Vinh/Dong Hoi and Phong Nha; our overnight-stays and budget guides cover the rest.
 - **Ride-back reality:** the return north feels longer — keep one buffer day you are willing to lose.

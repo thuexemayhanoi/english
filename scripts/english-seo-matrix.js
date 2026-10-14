@@ -69,17 +69,21 @@ const firstParagraph = body => {
   return paras[0] || '';
 };
 // Prose references to another guide that are not hyperlinks (README "see our guide" class).
+// A reference counts as unlinked only when the words that name the other guide
+// are plain prose. Existing links are replaced by a marker first, so
+// "covered in our [brakes guide](...)" or "(see our [IDP guide](...))" never count.
+const LINK_MARK = '\u00a7LINK\u00a7';
 const UNLINKED_REF_PATTERNS = [
-  /see our guide/i,
-  /\bthe [a-z][a-z \-]{2,40} (?:article|guide) (?:lists|covers|explains|walks|goes|shows|has|describes)\b/i,
-  /\b(?:our|the) (?:separate|dedicated|companion|full) (?:guide|article)\b/i,
-  /covered in (?:our|the|a separate) /i,
-  /\(see [^)]{3,80}\)/i
+  /see our guide (?:to|on) [a-z]/i,
+  /\bthe (?![a-z \-]*\bthis (?:article|guide)\b)[a-z][a-z \-]{2,40} (?:article|guide) (?:lists|covers|explains|walks|goes|shows|has|describes)\b/i,
+  /(?<!\u00a7[^.]{0,30})\b(?:our|the) (?:separate|dedicated|companion|full) (?:guide|article)\b/i,
+  /covered in (?:our|the|a separate) (?![^.]{0,40}\u00a7)[a-z]/i,
+  /\(see (?:(?!\u00a7)[^)]){3,80}\)/i
 ];
 function unlinkedRefs(body) {
   const text = L.stripLiquid(body);
-  // Remove existing markdown/html links so linked references are not counted.
-  const noLinks = text.replace(/\[[^\]]*\]\([^)]*\)/g, ' ').replace(/<a [^>]*>[\s\S]*?<\/a>/gi, ' ');
+  // Replace existing markdown/html links by a marker so linked references are not counted.
+  const noLinks = text.replace(/\[[^\]]*\]\([^)]*\)/g, ' ' + LINK_MARK + ' ').replace(/<a [^>]*>[\s\S]*?<\/a>/gi, ' ' + LINK_MARK + ' ');
   let n = 0;
   for (const re of UNLINKED_REF_PATTERNS) { const m = noLinks.match(new RegExp(re.source, re.flags + 'g')); if (m) n += m.length; }
   return n;
@@ -108,7 +112,13 @@ for (const [tool, rep] of Object.entries(reports)) {
 const planRows = parseCsv(fs.existsSync(path.join(L.ROOT, 'docs', 'matrix', 'master-matrix.csv')) ? fs.readFileSync(path.join(L.ROOT, 'docs', 'matrix', 'master-matrix.csv'), 'utf8') : '');
 const planByTitle = {};
 for (const r of planRows) {
-  const row = { id: r[0], topic: r[1], title: r[2], primaryQuery: r[3], intent: r[4], cluster: r[5], subcluster: r[6], contentType: r[7], audience: r[8], sourceBasis: r[9], closest: r[12], differentiation: r[13], status: r[15] };
+  // 36 cluster-7 rows (MM-0755..MM-0793) were recorded without the topic column
+  // (title, primary query, subcluster, intent, cluster, ...). Detect that layout by
+  // shape so the primary query is never read from the subcluster column.
+  const shifted = /^\d+\.\d+ /.test(r[3] || '') && /^\d+-/.test(r[5] || '');
+  const row = shifted
+    ? { id: r[0], topic: '', title: r[1], primaryQuery: r[2], intent: r[4], cluster: r[5], subcluster: r[3], contentType: r[6], audience: r[7], sourceBasis: r[9], closest: r[11], differentiation: r[12], status: r[15] }
+    : { id: r[0], topic: r[1], title: r[2], primaryQuery: r[3], intent: r[4], cluster: r[5], subcluster: r[6], contentType: r[7], audience: r[8], sourceBasis: r[9], closest: r[12], differentiation: r[13], status: r[15] };
   if (row.title) planByTitle[normTitle(row.title)] = row;
   if (row.topic) planByTitle[normTitle(row.topic)] = planByTitle[normTitle(row.topic)] || row;
 }
@@ -255,7 +265,15 @@ function priority(x, issues, cann, own) {
   if (x.reviewRequired) return 'P1';
   if (cann.some(c => /sim (0\.9|1\.0)/.test(c))) return 'P1';
   const commercial = /commercial|transactional/.test(x.intent);
-  if ((commercial && issues.length) || cann.length || issues.some(i => /zero explicit inbound|unlinked guide reference/.test(i))) return 'P2';
+  // Soft signals never drive a priority on their own: an article with related
+  // cards, a hub kicker and breadcrumbs is already well linked, and a short
+  // body is never lengthened to hit a quota. They still drive P2 on the money
+  // pages (commercial intent in the rental clusters), where a contextual link
+  // from the prose to the hub or the price/booking guides is worth hand work.
+  const soft = i => /no contextual in-body links|short body/.test(i);
+  const driving = issues.filter(i => !soft(i) && !/^served keyword/.test(i));
+  const moneyPage = commercial && /^(rental|monthly-rental)$/.test(String(x.cluster));
+  if ((commercial && driving.length) || (moneyPage && issues.some(i => /no contextual in-body links/.test(i))) || cann.length || issues.some(i => /zero explicit inbound|unlinked guide reference/.test(i))) return 'P2';
   return 'P3';
 }
 

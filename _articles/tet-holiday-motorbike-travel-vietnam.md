@@ -35,7 +35,7 @@ Tet — Vietnamese Lunar New Year, falling between late January and mid-February
 
 ## Practical rules
 
-1. **Service everything before Tet.** This is the one holiday where a mid-trip mechanical problem has no fast solution — mechanics are home with their families. Our pre-trip servicing guide becomes non-optional.
+1. **Service everything before Tet.** This is the one holiday where a mid-trip mechanical problem has no fast solution — mechanics are home with their families. [Our pre-trip servicing guide]({{ '/articles/servicing-before-long-trip-motorbike/' | relative_url }}) becomes non-optional.
 2. **Book lodging ahead** for the Tet days in smaller towns — the whole country is at its aunt's house, but the guesthouses that are open are often staffed by the owner alone, and full.
 3. **Carry cash.** ATMs survive but card payment points go home with the staff.
 4. **If you must move long-distance during Tet week, do it by motorbike** — the trains and sleeper buses that are full weeks in advance (our transport comparisons explain the booking math) cannot be added to, but the road is always open, and during Tet days it is nearly empty.

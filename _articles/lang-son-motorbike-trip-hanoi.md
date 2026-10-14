@@ -29,7 +29,7 @@ Lang Son is the closest thing Hanoi has to a border-town weekend: about 150-170 
 
 ## The legal road for bikes
 
-The Hanoi-Lang Son Expressway (CT01) does the run by car in two and a half to three hours, but expressways are closed to motorbikes in Vietnam, with real fines for violators. Riders take the old QL1A corridor northeast instead — the classic colonial road, busier than the mountain routes but rolling and scenic through the delta fringe and into the hills. Budget four to five hours rather than three, and plan the trip around that honestly. Our expressway rules guide covers exactly which roads are off-limits and why.
+The Hanoi-Lang Son Expressway (CT01) does the run by car in two and a half to three hours, but expressways are closed to motorbikes in Vietnam, with real fines for violators. Riders take the old QL1A corridor northeast instead — the classic colonial road, busier than the mountain routes but rolling and scenic through the delta fringe and into the hills. Budget four to five hours rather than three, and plan the trip around that honestly. [Our expressway rules guide]({{ '/articles/motorbikes-on-expressway-vietnam/' | relative_url }}) covers exactly which roads are off-limits and why.
 
 ## What to do there
 
@@ -47,7 +47,7 @@ The Hanoi-Lang Son Expressway (CT01) does the run by car in two and a half to th
 ## Practical notes
 
 - The QL1A carries trucks: ride it defensively, overtake only with clean sightlines, and expect village-speed sections through every town.
-- Carry your passport; this is a border province and identity checks on the QL4A/Ql1A corridor are routine. Our tourist-riding licence guide covers what documents you need on the road.
+- Carry your passport; this is a border province and identity checks on the QL4A/Ql1A corridor are routine. [Our tourist-riding licence guide]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}) covers what documents you need on the road.
 - Homestays in Bac Son and hotels in Lang Son are simple but reliable — apply the overnight-stays checklist including bike parking.
 - Autumn gives the best weather and the Bac Son rice colours; summer afternoons bring storms (see our seasons [guide]({{ '/articles/motorbike-trip-seasons-north-vietnam/' | relative_url }})).
 
