@@ -24,11 +24,11 @@ sources:
 internal_link_targets: "1968-vienna-convention-idp-vietnam, idp-vietnam-motorbike-rules, idp-validity-period-vietnam, non-1968-licence-vietnam, can-tourists-ride-motorbike-vietnam"
 ---
 
-Vietnam recognises one kind of International Driving Permit: the one issued under the 1968 Vienna Convention on Road Traffic, and only when carried together with the national licence it translates. Article 57(8) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) is the domestic rule that makes the treaty document rideable in Vietnam.
+Vietnam recognises one kind of [International Driving Permit]({{ '/articles/idp-vietnam-motorbike-rules/' | relative_url }}): the one issued under the [1968 Vienna Convention on Road Traffic]({{ '/articles/1968-vienna-convention-idp-vietnam/' | relative_url }}), and only when carried together with the national licence it translates. Article 57(8) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) is the domestic rule that makes the treaty document rideable in Vietnam.
 
 ## The country question answered correctly
 
-The IDP's validity in Vietnam does not depend on the issuing country being Vietnam's neighbour or partner — it depends on the issuing country being a party to the 1968 Vienna Convention and issuing the permit in the 1968 format. The convention's membership spans a large part of Europe and much of Asia; Vietnam acceded in 2014, which is what makes its own 1968-format IDPs acceptable abroad and foreign 1968 permits acceptable at home. The reliable check is not a remembered country list but the permit document itself: a 1968 Vienna Convention IDP states its basis on its face, and the issuing automobile association issues it only for convention countries.
+The IDP's validity in Vietnam does not depend on the issuing country being Vietnam's neighbour or partner — it depends on the issuing country being a party to the 1968 Vienna Convention and issuing the permit in the 1968 format. The convention's membership spans a large part of Europe and much of Asia; Vietnam acceded in 2014, which is what makes its own 1968-format IDPs acceptable abroad and foreign 1968 permits acceptable at home. The reliable check is not a remembered country list but the permit document itself: a 1968 Vienna Convention IDP states its basis on its face, and the issuing automobile association issues it [only for convention countries]({{ '/articles/non-1968-licence-vietnam/' | relative_url }}).
 
 ## What fails
 

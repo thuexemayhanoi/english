@@ -20,7 +20,7 @@ sources:
 internal_link_targets: honda-wave-rsx-review, honda-winner-r-review, honda-wave-alpha-vs-honda-winner-r, honda-future-125-vs-honda-winner-r, honda-pgm-fi-explained, best-110cc-underbones-vietnam-verified
 ---
 
-Honda's own line-up contains both the cheapest way to inject fuel and the cheapest way to reach 9,000 rpm. The Wave RSX and the Winner R share almost nothing except a badge and four-stroke singles - the numbers below come from Honda Vietnam's official pages (retrieved 23 September 2026).
+Honda's own line-up contains both the cheapest way to inject fuel and the cheapest way to reach 9,000 rpm. The [Wave RSX]({{ '/articles/honda-wave-rsx-review/' | relative_url }}) and the [Winner R]({{ '/articles/honda-winner-r-review/' | relative_url }}) share almost nothing except a badge and four-stroke singles - the numbers below come from Honda Vietnam's official pages (retrieved 23 September 2026).
 
 ## The core difference
 

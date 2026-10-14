@@ -23,7 +23,7 @@ sources:
 internal_link_targets: "a1-licence-vietnam-what-you-can-ride, vietnam-motorbike-licence-classes-explained, old-licence-classes-after-2025-vietnam, drink-driving-limits-motorbike-vietnam, motorbikes-on-expressway-vietnam"
 ---
 
-Class A is the ceiling of the Vietnamese motorbike licence system. Under Article 57 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15), A covers two-wheeled motorbikes above 125 cc or above 11 kW — every size, every power, one class. Where A1 stops at the 125 cc / 11 kW line, A covers everything past it, from a 150 cc commuter to a litre-class tourer.
+Class A is the ceiling of the Vietnamese motorbike licence system. Under Article 57 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15), A covers two-wheeled motorbikes above 125 cc or above 11 kW — every size, every power, one class. Where [A1]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) stops at the 125 cc / 11 kW line, A covers everything past it, from a 150 cc commuter to a litre-class tourer.
 
 ## Who can hold it and how
 
@@ -35,7 +35,7 @@ Three boundaries matter. It does not cover three-wheelers — that is class B1. 
 
 ## The fine line for riding without it
 
-An unlicensed rider on a machine above 125 cc sits in the 6,000,000–8,000,000 VND band under Article 18 of Decree 168/2024/NĐ-CP — three times the small-bike band, because the law prices the violation by the machine being ridden. An A1 holder who borrows a friend's 300 cc tourer crosses that line knowingly: their licence covers the first 125 cc of the engine and nothing above it.
+[An unlicensed rider]({{ '/articles/no-licence-fine-vietnam/' | relative_url }}) on a machine above 125 cc sits in the 6,000,000–8,000,000 VND band under Article 18 of Decree 168/2024/NĐ-CP — three times the small-bike band, because the law prices the violation by the machine being ridden. An A1 holder who borrows a friend's 300 cc tourer crosses that line knowingly: their licence covers the first 125 cc of the engine and nothing above it.
 
 ## Practical Hanoi context
 

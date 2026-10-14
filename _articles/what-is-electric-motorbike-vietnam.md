@@ -21,13 +21,13 @@ sources:
 internal_link_targets: electric-bike-licence-vietnam, electric-moped-vs-electric-motorcycle-vietnam, pedal-e-bike-vs-scooter-electric-vietnam, electric-two-wheeler-speed-classes-vietnam
 ---
 
-An electric motorbike in Vietnam (xe may dien) is not one thing but three legal classes, and the class decides everything: whether you need a licence, how fast you can legally design the bike, and where it sits in traffic rules. The definitions come from the Law on Road Traffic Order and Safety (No. 36/2024/QH15).
+An electric motorbike in Vietnam (xe may dien) is not one thing but [three legal classes]({{ '/articles/electric-two-wheeler-speed-classes-vietnam/' | relative_url }}), and the class decides everything: whether you [need a licence]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}), how fast you can legally design the bike, and where it sits in traffic rules. The definitions come from the Law on Road Traffic Order and Safety (No. 36/2024/QH15).
 
 ## The three classes
 
 **Pedal-type electric bicycles (xe dap dien).** Bicycles with motor assistance that cuts out when you stop pedalling or at 25 km/h. Legally non-motorised: no licence, bicycle rules apply.
 
-**Electric mopeds, 4 kW and under.** Scooter-style machines of 4 kW or less, designed for no more than 50 km/h. No licence; rider must be at least 16. VinFast's Evo Lite — limited to below 50 km/h — is built for exactly this class, as is the pedal-assisted 800 W Amio with its 30 km/h top speed.
+**Electric mopeds, 4 kW and under.** [Scooter-style machines]({{ '/articles/pedal-e-bike-vs-scooter-electric-vietnam/' | relative_url }}) of 4 kW or less, designed for no more than 50 km/h. No licence; rider must be at least 16. VinFast's Evo Lite — limited to below 50 km/h — is built for exactly this class, as is the pedal-assisted 800 W Amio with its 30 km/h top speed.
 
 **Electric motorcycles, above 4 kW.** These need a licence matched to power: A1 up to 11 kW, A above 11 kW. Dat Bike's Weaver 200, with its 6,000 W motor, sits in the A1 class.
 

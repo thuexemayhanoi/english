@@ -20,7 +20,7 @@ sources:
 internal_link_targets: honda-blade-110-review, honda-cbr150r-review, honda-cbr150r-vs-honda-winner-r, honda-blade-vs-yamaha-exciter-155, cheapest-new-underbones-vietnam-verified, best-150cc-manual-motorbikes-vietnam-verified
 ---
 
-This is the widest gap inside one brand: Honda's cheapest Vietnamese underbone against its full-fairing 150 sport bike. The comparison is less about which is better and more about how differently two Hondas can spend your money. All figures from Honda Vietnam's official pages (retrieved 23 September 2026).
+This is the widest gap inside one brand: Honda's [cheapest Vietnamese underbone]({{ '/articles/honda-blade-110-review/' | relative_url }}) against its [full-fairing 150 sport bike]({{ '/articles/honda-cbr150r-review/' | relative_url }}). The comparison is less about which is better and more about how differently two Hondas can spend your money. All figures from Honda Vietnam's official pages (retrieved 23 September 2026).
 
 ## The core difference
 

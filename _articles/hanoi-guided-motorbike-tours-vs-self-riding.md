@@ -42,6 +42,6 @@ Autonomy, mainly — the freedom to stop for the pho that smelled right, to chan
 
 ## How to choose, in one paragraph
 
-In Hanoi for a short visit or holding no licence → take a passenger tour or a car, and rent nothing. Licensed and experienced with days to spare → ride it yourself, and go slow the first day. In between (licensed but rusty, or short on time) → the self-piloted guided format, or a guided tour on day one and a rental from day two — many riders use a tour as a live orientation lesson and then take over the handlebars.
+In Hanoi for a short visit or holding no licence → take a passenger tour or a car, and rent nothing. Licensed and experienced with days to spare → ride it yourself, and go slow the first day. In between (licensed but rusty, or short on time) → the self-piloted guided format, or a guided tour on day one and [a rental from day two]({{ '/articles/first-time-renting-a-motorbike-hanoi/' | relative_url }}) — many riders use a tour as a live orientation lesson and then take over the handlebars.
 
 And a note on booking either: tours sell out in peak season and rental availability changes weekly — confirm current options directly with whichever operator or shop you choose. The fork in the road is real, but both paths are well ridden.

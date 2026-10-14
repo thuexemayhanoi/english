@@ -38,12 +38,12 @@ The classic image of Hanoi bike life — a scooter in the lobby, or a Wave carri
 
 1. Where exactly does a motorbike park overnight, and what does it cost monthly?
 2. Is there CCTV or a warden overnight, and who holds liability if the bike is damaged in the building lot?
-3. Are e-bike chargers available in the lot (relevant if you ride electric)?
+3. Are [e-bike chargers]({{ '/articles/charging-electric-motorbike-apartment-rental/' | relative_url }}) available in the lot (relevant if you ride electric)?
 4. Can a delivery or rental bike be brought to the door, and can visitors' bikes park temporarily?
 5. What are the access hours — some compound lots close their boom gates at night, which matters if you ride home late.
 
 ## Rental bike angles
 
-If your bike is a monthly rental, the parking situation is the renter's practical problem too: the rental shop needs to know where the bike sleeps (their contract usually specifies secure overnight parking, and the street-side convention usually qualifies). Moving apartments mid-rental changes the pickup/service logistics; tell the shop rather than surprising them.
+If your bike is a monthly rental, the [parking situation]({{ '/articles/parking-monthly-renter-hanoi/' | relative_url }}) is the renter's practical problem too: the rental shop needs to know where the bike sleeps (their contract usually specifies secure overnight parking, and the street-side convention usually qualifies). Moving apartments mid-rental changes the pickup/service logistics; tell the shop rather than surprising them.
 
 The apartment-bike life is one of Hanoi's genuine conveniences — the machine that carries your whole day parks fifty metres from your bed, under a warden's eye, for less than a coffee a week. Choose the building for the parking, not despite it.

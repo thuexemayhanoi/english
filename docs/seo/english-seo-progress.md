@@ -175,3 +175,24 @@ The P2 queue is empty. The 4 P1 rows are the REVIEW_REQUIRED legal/travel articl
 - Live pages fetched after the deploy (Firecrawl, no cache): `/articles/documents-needed-rent-motorbike-hanoi/` serves the corrected A1 sentence with its link to the A1 guide; `/articles/renting-motorbike-hue/` serves the new Hai Van Pass link; Open Graph image, article metadata and canonical URLs intact.
 - OpenRush `audit_site` on the live domain (sitemap discovery, 1,003 URLs, 20 sampled across every template): on-page score 96.8, high 0, medium 0, low 2. Both low findings reviewed and left as they are: the "missing alt" hits are the decorative header and assistant logos (`alt=""` + `aria-hidden`, correct for decorative images), and the one "long title" is the tool counting the site-name suffix. Recorded in `docs/seo/keyword-evidence.json` (`_site_audits`).
 - Note for future watchers: the container cannot reach en.rentbikehanoi.com directly (network policy); live checks go through the Firecrawl connector.
+
+## 2026-10-14 — Pass 4: first in-body contextual links for the 188 related-cards-only articles
+
+Every article whose only internal links were the related cards now carries one to three contextual links inside its prose (188 articles, 381 links). Each link sits on an existing phrase and points to one of the article's own declared related guides, or to a topic hub where the phrase names a topic rather than an article; no sentence, fact, price or legal figure was changed (one double space was collapsed). Anchors were chosen by hand from candidate sentences that share at least two significant words with the target's title (scratch helper, not a repo tool), then applied with the asserted-anchor applier (exactly one occurrence, target must exist).
+
+| Cluster | Articles |
+|---|---|
+| law-licences | 58 |
+| motorcycles | 31 |
+| electric | 31 |
+| hanoi | 26 |
+| trips | 17 |
+| manual-clutch | 9 |
+| rental | 7 |
+| scooters | 6 |
+| vietnam-travel | 2 |
+| 50cc | 1 |
+
+Verification on the final tree: frontmatter / duplicate / internal-link / sitemap / schema P0-P3 all 0; seo-audit P2 4 (REVIEW_REQUIRED banners); build 1004 pages; rendered-site-audit P2 1 (404 page); engine tests 29/29; Guide Assistant 31/31 on the built index; Quality Gate PASS; seo-score 96.9; regression guard PASS; article diffs additive only.
+
+Matrix after pass 4: P0 0 · P1 4 · P2 0 · P3 999; OPTIMIZED 645 · LINKS_REPAIRED 310 · REVIEW_REQUIRED 4 · AUDITED 44; related-cards-only articles 188 → 0. The only remaining P3 signal is length (123 articles under 300 words), which stays a signal: articles are never lengthened to hit a quota. Logged as batch `in-body-links-1` in `docs/seo/optimization-log.json`.

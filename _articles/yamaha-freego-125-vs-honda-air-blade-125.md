@@ -21,7 +21,7 @@ sources:
 internal_link_targets: yamaha-freego-125-review, honda-air-blade-125-review, honda-air-blade-125-vs-honda-vario-125, honda-vision-vs-honda-air-blade, yamaha-freego-125-vs-honda-vario-125, best-125cc-scooters-vietnam-verified
 ---
 
-The FreeGo and the Air Blade 125 are the sporty-looking mid 125s that most buyers actually choose between, and they split along a clean line: the FreeGo is the practical sporty scooter, the Air Blade is the sharper Honda. Figures from official Yamaha Vietnam and Honda Vietnam pages (retrieved 23 September 2026); unpublished fields are omitted.
+The FreeGo and the Air Blade 125 are the sporty-looking mid 125s that most buyers actually choose between, and they split along a clean line: the [FreeGo]({{ '/articles/yamaha-freego-125-review/' | relative_url }}) is the practical sporty scooter, the [Air Blade]({{ '/articles/honda-air-blade-125-review/' | relative_url }}) is the sharper Honda. Figures from official Yamaha Vietnam and Honda Vietnam pages (retrieved 23 September 2026); unpublished fields are omitted.
 
 ## Engine
 

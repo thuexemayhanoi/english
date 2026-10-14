@@ -21,7 +21,7 @@ sources:
 internal_link_targets: "riding-electric-motorbike-hanoi-rain, electric-motorbike-maintenance-basics, storing-electric-motorbike-long-breaks, check-motorbike-after-heavy-rain, ip-ratings-electric-motorbikes-explained"
 ---
 
-Washing an electric motorbike is easy — the design tolerates rain — but the electrics change a few rules from petrol-bike washday.
+Washing an electric motorbike is easy — the design [tolerates rain]({{ '/articles/ip-ratings-electric-motorbikes-explained/' | relative_url }}) — but the electrics change a few rules from petrol-bike washday.
 
 ## What the ratings permit
 

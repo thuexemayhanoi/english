@@ -43,8 +43,8 @@ IP67 is a serious water rating — rated for temporary immersion, comfortable in
 
 ## Trade-offs
 
-It remains a fixed-battery motorcycle: A1 licence required, hours to charge at home, no swapping. Expect premium pricing over the Weaver 200; confirm current pricing with Dat Bike, as we publish only verified figures.
+It remains a fixed-battery motorcycle: A1 licence required, hours to charge at home, no swapping. Expect premium pricing over the [Weaver 200]({{ '/articles/dat-bike-weaver-200-review/' | relative_url }}); confirm current pricing with Dat Bike, as we publish only verified figures.
 
 ## Who it suits
 
-A1 licence holders who ride hard or far: fast-charge network users, weekend-distance riders, and commuters who want headroom. If the budget or the riding is tamer, the Weaver 200 comparison is worth a read first.
+[A1 licence holders]({{ '/articles/fast-electric-motorbike-licence-vietnam/' | relative_url }}) who ride hard or far: fast-charge network users, weekend-distance riders, and commuters who want headroom. If the budget or the riding is tamer, the Weaver 200 comparison is worth a read first.

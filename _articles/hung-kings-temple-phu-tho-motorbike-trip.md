@@ -24,7 +24,7 @@ sources:
 internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, hanoi-pagodas-temples-motorbike-guide, riding-fatigue-motorbike-vietnam, motorbikes-on-expressway-vietnam, how-to-rent-a-motorbike-hanoi, nui-coc-lake-thai-nguyen-motorbike-ride"
 ---
 
-The Hung Kings Temple complex on Nghia Linh mountain in Phu Tho province is where Vietnam honours its legendary founders — the destination of the country’s biggest ancestral pilgrimage on the tenth day of the third lunar month. It is about 90 kilometres northwest of Hanoi: a solid half-day-plus ride, and one of the most meaningful long day trips from the capital.
+The Hung Kings Temple complex on Nghia Linh mountain in Phu Tho province is where Vietnam honours its legendary founders — the destination of the country’s biggest ancestral pilgrimage on the tenth day of the third lunar month. It is about 90 kilometres northwest of Hanoi: a solid half-day-plus ride, and one of the most meaningful [long day trips]({{ '/topics/trips/' | relative_url }}) from the capital.
 
 ## The route
 

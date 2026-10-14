@@ -25,7 +25,7 @@ The 110 cc underbone is Vietnam's default motorbike: cheap, light, economical an
 
 ## The verified field
 
-Four current models compete here: Honda Wave Alpha 110, Honda Blade, Honda Wave RSX and Yamaha Sirius (three versions: drum, disc, alloy-wheel RC).
+Four current models compete here: [Honda Wave Alpha 110]({{ '/articles/honda-wave-alpha-110-review/' | relative_url }}), [Honda Blade]({{ '/articles/honda-blade-110-review/' | relative_url }}), [Honda Wave RSX]({{ '/articles/honda-wave-rsx-review/' | relative_url }}) and [Yamaha Sirius]({{ '/articles/yamaha-sirius-rc-110-review/' | relative_url }}) (three versions: drum, disc, alloy-wheel RC).
 
 ## Economy ranking (published figures)
 

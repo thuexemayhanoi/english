@@ -20,7 +20,7 @@ sources:
 internal_link_targets: honda-cbr150r-review, honda-future-125-review, honda-cbr150r-vs-honda-winner-r, honda-future-125-vs-honda-winner-r, best-150cc-manual-motorbikes-vietnam-verified, most-fuel-efficient-underbones-vietnam-verified
 ---
 
-One of these Hondas has a 12-litre tank, full fairing and a tachometer that matters; the other has the best claimed fuel economy of any bike in Honda Vietnam's underbone range. The CBR150R and the Future 125 FI are both 125-to-150 class machines aimed at completely different riders. Figures from Honda Vietnam's official pages (retrieved 23 September 2026).
+One of these Hondas has a 12-litre tank, full fairing and a tachometer that matters; the other has the [best claimed fuel economy]({{ '/articles/honda-future-125-review/' | relative_url }}) of any bike in Honda Vietnam's underbone range. The CBR150R and the Future 125 FI are both 125-to-150 class machines aimed at completely different riders. Figures from Honda Vietnam's official pages (retrieved 23 September 2026).
 
 ## The core difference
 
@@ -44,7 +44,7 @@ Real-world fuel economy varies with speed, load and conditions.
 
 ## What it means on the road
 
-The Future is the pragmatist's machine: the lowest seat in the verified range, the best economy claim (1.47 L/100 km), and a price roughly half to a third of the CBR depending on version. The CBR150R doubles the power, carries 7.4 extra litres of fuel for touring range, and wraps it in fairing that changes both the riding position and the attention the bike attracts.
+The Future is the pragmatist's machine: the lowest seat in the verified range, the best economy claim (1.47 L/100 km), and a price roughly half to a third of the CBR depending on version. The [CBR150R]({{ '/articles/honda-cbr150r-review/' | relative_url }}) doubles the power, carries 7.4 extra litres of fuel for touring range, and wraps it in fairing that changes both the riding position and the attention the bike attracts.
 
 The weight gap is the hidden number: 139 kg versus 104 kg. In city parking and low-speed filtering that 35 kg is felt every day, not just on paper.
 

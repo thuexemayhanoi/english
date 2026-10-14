@@ -22,7 +22,7 @@ sources:
 internal_link_targets: what-is-electric-motorbike-vietnam, 50cc-vs-e-bike-vietnam, electric-bike-licence-vietnam, e-bike-helmet-rules-vietnam
 ---
 
-Vietnam's electric market has two body formats, and they are treated differently in law. The pedal-type electric bicycle (xe dap dien) is legally a bicycle; the scooter-style machine (xe may dien) follows power-based rules.
+Vietnam's electric market has two body formats, and they are treated differently in law. The pedal-type electric bicycle (xe dap dien) is [legally a bicycle]({{ '/articles/what-is-electric-motorbike-vietnam/' | relative_url }}); the scooter-style machine (xe may dien) follows [power-based rules]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}).
 
 ## The pedal format
 

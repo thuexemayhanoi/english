@@ -20,7 +20,7 @@ sources:
 internal_link_targets: "yamaha-exciter-155-vva-review, honda-winner-r-vs-yamaha-exciter-155, rotary-gearbox-vs-manual-clutch-explained, clutch-slipping-manual-motorbike, clutch-drag-hard-neutral-motorbike, broken-clutch-cable-motorbike-roadside, sohc-vs-dohc-underbones-explained"
 ---
 
-Yamaha lists an Assist and Slipper clutch for the Exciter 155 VVA on its Vietnam page (retrieved 23 September 2026). It is the most rider-friendly piece of technology in the manual-clutch underbone class - here is what it actually does.
+Yamaha lists an Assist and Slipper clutch for the [Exciter 155 VVA]({{ '/articles/yamaha-exciter-155-vva-review/' | relative_url }}) on its Vietnam page (retrieved 23 September 2026). It is the most rider-friendly piece of technology in the [manual-clutch underbone class]({{ '/articles/best-150cc-manual-motorbikes-vietnam-verified/' | relative_url }}) - here is what it actually does.
 
 ## The two functions
 

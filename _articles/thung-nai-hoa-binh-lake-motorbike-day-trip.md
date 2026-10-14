@@ -37,6 +37,6 @@ The day-trip formula: arrive mid-morning, take a boat for two to four hours amon
 ## Day trip or overnight?
 
 - As a day trip, leave by 7 a.m., boat by 10, lunch at 1, home before dark — tight but doable.
-- As an overnight, Thung Nai is an easy first multi-day ride from Hanoi, and the natural stepping-stone toward Mai Chau further up the same corridor.
+- As an overnight, Thung Nai is an easy first multi-day ride from Hanoi, and the natural stepping-stone toward [Mai Chau]({{ '/articles/mai-chau-overnight-motorbike-trip-hanoi/' | relative_url }}) further up the same corridor.
 
 A 110–125 cc bike is fine on Highway 6. Contact us to confirm current availability, and agree any overnight trip distance with us in advance.

@@ -22,7 +22,7 @@ sources:
 internal_link_targets: "motorbike-lane-rules-vietnam, lane-splitting-legal-vietnam, traffic-light-rules-vietnam, motorbike-fines-vietnam-overview"
 ---
 
-Short answer: no. A lane marked as dedicated to buses — Hanoi's bus rapid transit corridor, the curbside lanes on main commuter arteries — is closed to motorbikes. Article 13(4) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) states it flatly: on a lane reserved for a type or group of vehicles, other vehicles may not enter. A motorbike riding one is in the wrong lane, priced at 600,000–800,000 VND with a four-point licence deduction under Decree 168/2024/NĐ-CP.
+Short answer: no. A lane marked as dedicated to buses — Hanoi's bus rapid transit corridor, the curbside lanes on main commuter arteries — is closed to motorbikes. Article 13(4) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) states it flatly: on a lane reserved for a type or group of vehicles, other vehicles may not enter. A motorbike riding one is [in the wrong lane]({{ '/articles/motorbike-lane-rules-vietnam/' | relative_url }}), priced at 600,000–800,000 VND with a [four-point licence deduction]({{ '/articles/motorbike-licence-points-system-vietnam/' | relative_url }}) under Decree 168/2024/NĐ-CP.
 
 ## Where the rule bites
 

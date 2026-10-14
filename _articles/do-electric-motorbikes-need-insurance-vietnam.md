@@ -23,11 +23,11 @@ sources:
 internal_link_targets: "compulsory-motorbike-insurance-vietnam, electric-bike-licence-vietnam, do-you-need-insurance-to-ride-vietnam, do-you-need-insurance-for-50cc-vietnam, documents-to-carry-motorbike-vietnam, registering-electric-motorbike-vietnam"
 ---
 
-The licence exemption that covers many electric two-wheelers does not extend to insurance. Compulsory cover attaches to the vehicle, and the vehicle's class decides whether it applies.
+The [licence exemption]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}) that covers many electric two-wheelers does not extend to insurance. Compulsory cover attaches to the vehicle, and the vehicle's class decides whether it applies.
 
 ## The rule
 
-Article 56 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires every vehicle owner participating in traffic to hold compulsory civil-liability insurance, with the mechanics set out in Decree 67/2023/NĐ-CP. An electric machine that is legally a motor vehicle — the sub-4 kW electric moped class, or an A1-class electric like the Dat Bike Weaver 200 — sits inside that duty the same way a petrol moped does. Pedal-type electric bicycles are legally non-motorised vehicles, so the motor-vehicle insurance duty does not attach to them; helmet rules still do.
+Article 56 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires every vehicle owner participating in traffic to hold [compulsory civil-liability insurance]({{ '/articles/compulsory-motorbike-insurance-vietnam/' | relative_url }}), with the mechanics set out in Decree 67/2023/NĐ-CP. An electric machine that is legally a motor vehicle — the sub-4 kW electric moped class, or an A1-class electric like the Dat Bike Weaver 200 — sits inside that duty the same way a petrol moped does. Pedal-type electric bicycles are legally non-motorised vehicles, so the motor-vehicle insurance duty does not attach to them; helmet rules still do.
 
 ## The fine
 

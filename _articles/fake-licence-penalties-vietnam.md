@@ -22,7 +22,7 @@ sources:
 internal_link_targets: "no-licence-fine-vietnam, lending-motorbike-unlicensed-rider-vietnam, vietnam-licence-test-in-english, motorbike-fines-vietnam-overview, stopped-by-traffic-police-vietnam"
 ---
 
-Short answer: riding on a licence that was never issued by a licensing authority, or one altered after issue, is treated exactly like riding with no licence: 2,000,000–4,000,000 VND on a bike up to and including 125 cc, 6,000,000–8,000,000 VND above that, under Article 18 of Decree 168/2024/NĐ-CP. The document itself is confiscated. And forgery does not stay administrative — making or using forged identity documents can cross into criminal liability, which no fine pays off.
+Short answer: riding on a licence that was never issued by a licensing authority, or one altered after issue, is treated exactly like [riding with no licence]({{ '/articles/no-licence-fine-vietnam/' | relative_url }}): 2,000,000–4,000,000 VND on a bike up to and including 125 cc, 6,000,000–8,000,000 VND above that, under Article 18 of Decree 168/2024/NĐ-CP. The document itself is confiscated. And forgery does not stay administrative — making or using forged identity documents can cross into criminal liability, which no fine pays off.
 
 ## What the decree treats as a fake
 

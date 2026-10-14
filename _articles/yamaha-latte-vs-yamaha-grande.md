@@ -21,7 +21,7 @@ sources:
 internal_link_targets: "yamaha-latte-125-review, yamaha-grande-review, honda-lead-vs-yamaha-grande, scooter-underseat-storage-comparison, yamaha-scooter-lineup-vietnam-explained, yamaha-latte-125-vs-honda-lead-125, yamaha-latte-125-vs-yamaha-gear-125"
 ---
 
-Yamaha sells two style-first city scooters in Vietnam: the rounder, retro-flavoured Grande and the newer Latte. They overlap on paper - both around 100 kg, both smart-keyed, both aimed at style-conscious city riders - but they differ in the details that matter. Facts below come from Yamaha Vietnam's official product pages (retrieved 23 September 2026).
+Yamaha sells two style-first city scooters in Vietnam: the rounder, retro-flavoured [Grande]({{ '/articles/yamaha-grande-review/' | relative_url }}) and the newer [Latte]({{ '/articles/yamaha-latte-125-review/' | relative_url }}). They overlap on paper - both around 100 kg, both smart-keyed, both aimed at style-conscious city riders - but they differ in the details that matter. Facts below come from Yamaha Vietnam's official product pages (retrieved 23 September 2026).
 
 ## Engines
 

@@ -32,7 +32,7 @@ For riders past the age of wanting to wrestle a clutch in stop-and-go traffic, t
 
 ## What stays exactly the same
 
-Balance at stops, traffic reading, head checks, night visibility and helmet fit. The physical work an electric removes is the machine's, not the street's — the riding-skills guides all still apply, and the silent-traffic and visibility articles matter doubly at lower reaction margins.
+Balance at stops, traffic reading, head checks, night visibility and [helmet fit]({{ '/articles/helmet-fit-guide-vietnam/' | relative_url }}). The physical work an electric removes is the machine's, not the street's — the riding-skills guides all still apply, and the silent-traffic and visibility articles matter doubly at lower reaction margins.
 
 ## Choosing a machine
 

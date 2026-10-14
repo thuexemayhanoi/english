@@ -22,7 +22,7 @@ sources:
 internal_link_targets: long-bien-bridge-motorbike-guide, red-river-dyke-riding-guide, long-bien-area-guide-riders, gravel-roads-motorbike-vietnam, potholes-bad-roads-motorbike-vietnam, flooded-streets-riding-motorbike-vietnam, best-motorbike-for-day-trips-from-hanoi
 ---
 
-Look down from the Long Bien Bridge at almost any hour and you will see them: flat green islands in the middle of the Red River, stitched with garden plots, footbridges and sandbars. Hanoians call the biggest one opposite the bridge "banana island" for the banana gardens that dominate it, though the island crops have shifted with the seasons and the river for as long as the city has existed. For riders, the islands are the closest thing to the countryside inside the city limits — twenty minutes from the Old Quarter and a different world.
+Look down from the [Long Bien Bridge]({{ '/articles/long-bien-bridge-motorbike-guide/' | relative_url }}) at almost any hour and you will see them: flat green islands in the middle of the Red River, stitched with garden plots, footbridges and sandbars. Hanoians call the biggest one opposite the bridge "banana island" for the banana gardens that dominate it, though the island crops have shifted with the seasons and the river for as long as the city has existed. For riders, the islands are the closest thing to the countryside inside the city limits — twenty minutes from the Old Quarter and a different world.
 
 ## Getting down
 
@@ -30,7 +30,7 @@ The islands sit below the dyke, and access is by the ramp lanes near the bridge 
 
 ## The riding
 
-Island roads are farm tracks: packed earth, sand, brick ends and the occasional concrete strip. The skills are the gravel-road skills — loose-surface caution, weight back over bumps, no sudden front braking. In the wet season the clay between the banana rows turns greasy, and after river floods the low tracks can be rutted or underwater; the rule is simple: if a track looks questionable, it is, and the island is big enough that turning back is never expensive. Between the gardens you pass family pagodas, buffalo, fish ponds and football pitches that appear and vanish with the sandbars.
+Island roads are farm tracks: packed earth, sand, brick ends and the occasional concrete strip. The skills are the [gravel-road skills]({{ '/articles/gravel-roads-motorbike-vietnam/' | relative_url }}) — loose-surface caution, weight back over bumps, no sudden front braking. In the wet season the clay between the banana rows turns greasy, and after river floods the low tracks can be rutted or underwater; the rule is simple: if a track looks questionable, it is, and the island is big enough that turning back is never expensive. Between the gardens you pass family pagodas, buffalo, fish ponds and football pitches that appear and vanish with the sandbars.
 
 ## What people actually do there
 

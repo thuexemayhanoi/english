@@ -21,7 +21,7 @@ sources:
 internal_link_targets: "dat-bike-weaver-200-review, dat-bike-weaver-plus-plus-review, electric-motorbike-range-real-world-vietnam, fast-electric-motorbike-licence-vietnam, vinfast-evo-vs-feliz-2"
 ---
 
-Both Weavers are A1-class electric motorcycles with 90 km/h ceilings and 200 km-per-charge claims — the choice is about motor layout, water rating and charging speed. All figures are Dat Bike's official data.
+Both Weavers are A1-class electric motorcycles with 90 km/h ceilings and [200 km-per-charge claims]({{ '/articles/electric-motorbike-range-real-world-vietnam/' | relative_url }}) — the choice is about motor layout, water rating and charging speed. All figures are Dat Bike's official data.
 
 ## Side by side
 
@@ -38,7 +38,7 @@ Both Weavers are A1-class electric motorcycles with 90 km/h ceilings and 200 km-
 
 ## The real differences
 
-**Charging.** The Weaver++ fast-charging port turns station stops into 20-minute events — the closest electrics have come to petrol-stop times. Home charging remains the Weaver 200's nightly ritual (1 hour buys 100 km).
+**Charging.** The [Weaver++]({{ '/articles/dat-bike-weaver-plus-plus-review/' | relative_url }}) fast-charging port turns station stops into 20-minute events — the closest electrics have come to petrol-stop times. Home charging remains the Weaver 200's nightly ritual (1 hour buys 100 km).
 
 **Water.** IP67 versus IP65 — the Weaver++ is rated for temporary immersion, the Weaver 200 for water jets. In Hanoi flood terms: deep-water confidence versus rain confidence.
 
@@ -46,4 +46,4 @@ Both Weavers are A1-class electric motorcycles with 90 km/h ceilings and 200 km-
 
 ## Verdict
 
-Commuters with home charging and a tighter budget: the Weaver 200 remains the rational distance machine. Riders who tour, ride hard, or want the flood margin and tubeless practicality: the Weaver++. Both need an A1 licence; both reviews carry full specifications.
+Commuters with home charging and a tighter budget: the [Weaver 200]({{ '/articles/dat-bike-weaver-200-review/' | relative_url }}) remains the rational distance machine. Riders who tour, ride hard, or want the flood margin and tubeless practicality: the Weaver++. Both need an A1 licence; both reviews carry full specifications.

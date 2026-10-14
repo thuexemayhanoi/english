@@ -24,11 +24,11 @@ Walk past an Exciter in Hanoi and the badge says VVA. It stands for Variable Val
 
 ## What variable valve timing is
 
-An engine's valves open and close to let fuel-air in and exhaust out. When to open them is a compromise: settings that help low-rpm torque hurt high-rpm power, and vice versa. A variable valve system changes the timing (or lift) as revs rise, so the engine behaves like two engines - a flexible economy motor at low revs and a power motor at high revs.
+An engine's valves open and close to let fuel-air in and exhaust out. When to open them is a compromise: settings that help [low-rpm torque]({{ '/articles/underbone-power-torque-explained/' | relative_url }}) hurt high-rpm power, and vice versa. A variable valve system changes the timing (or lift) as revs rise, so the engine behaves like two engines - a flexible economy motor at low revs and a power motor at high revs.
 
 ## What the Exciter's page actually says
 
-Yamaha Vietnam lists the Exciter 155 VVA engine as: 155 cc, four-stroke, single cylinder, four-valve, SOHC, liquid-cooled, VVA and EFI - producing 13.2 kW (17.9 PS) at 9,500 rpm and 14.4 Nm at 8,000 rpm, with a claimed 2.07 L/100 km.
+Yamaha Vietnam lists the [Exciter 155 VVA]({{ '/articles/yamaha-exciter-155-vva-review/' | relative_url }}) engine as: 155 cc, four-stroke, single cylinder, four-valve, SOHC, liquid-cooled, VVA and EFI - producing 13.2 kW (17.9 PS) at 9,500 rpm and 14.4 Nm at 8,000 rpm, with a claimed 2.07 L/100 km.
 
 Read those numbers together: a high-strung 9,500 rpm power peak usually means a weak bottom end, and a claimed 2.07 L/100 km is remarkably frugal for 13.2 kW. That combination is the practical evidence of VVA - the engine can be tuned for top-end power without sacrificing low-rev flexibility and economy the way a fixed-valve engine would.
 
@@ -38,7 +38,7 @@ In city traffic you spend your day between idle and 5,000 rpm. On the weekend ri
 
 ## What VVA is not
 
-It is not a turbo, not a bigger engine, and not a substitute for gearing: the six-speed gearbox and Assist and Slipper clutch do work VVA cannot. Yamaha publishes VVA only on the Exciter in this verified range - do not expect it on smaller bikes' pages.
+It is not a turbo, not a bigger engine, and not a substitute for gearing: the six-speed gearbox and [Assist and Slipper clutch]({{ '/articles/assist-slipper-clutch-explained/' | relative_url }}) do work VVA cannot. Yamaha publishes VVA only on the Exciter in this verified range - do not expect it on smaller bikes' pages.
 
 ## Seeing it for yourself
 

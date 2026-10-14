@@ -32,7 +32,7 @@ The expressway provisions list the participants prohibited from entering: pedest
 
 ## The penalty for entering
 
-Riding a motorbike onto an expressway is a violation under Decree 168/2024/NĐ-CP in the 4,000,000–6,000,000 VND band (Article 7(7)(b)), with a six-point licence deduction attached (Article 7(13)(c)) and the bike subject to being held on the spot (Article 48). The exits are signposted, but so are the entrances — "no motorbikes" boards stand at every ramp, and riders who follow car GPS onto a ramp have usually missed them.
+Riding a motorbike onto an expressway is a violation under Decree 168/2024/NĐ-CP in the 4,000,000–6,000,000 VND band (Article 7(7)(b)), with a [six-point licence deduction]({{ '/articles/motorbike-licence-points-system-vietnam/' | relative_url }}) attached (Article 7(13)(c)) and the bike [subject to being held]({{ '/articles/police-impound-motorbike-vietnam/' | relative_url }}) on the spot (Article 48). The exits are signposted, but so are the entrances — "no motorbikes" boards stand at every ramp, and riders who follow car GPS onto a ramp have usually missed them.
 
 ## When it becomes criminal
 

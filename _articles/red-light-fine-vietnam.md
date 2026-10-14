@@ -22,7 +22,7 @@ sources:
 internal_link_targets: "traffic-light-rules-vietnam, right-turn-on-red-vietnam, speeding-fines-motorbike-vietnam, how-to-pay-traffic-fine-vietnam, motorbike-fines-vietnam-overview"
 ---
 
-Short answer: failing to obey a red signal on a motorbike is fined 4,000,000–6,000,000 VND under Article 7(7)(c) of Decree 168/2024/NĐ-CP, with four points deducted from the licence. For a lone rider it is in the top band of ordinary fines — the same family as counterflow riding and riding on the sidewalk — and a red-light run that causes a crash escalates into the 10–14 million VND accident band and possible criminal liability.
+Short answer: [failing to obey a red signal]({{ '/articles/traffic-light-rules-vietnam/' | relative_url }}) on a motorbike is fined 4,000,000–6,000,000 VND under Article 7(7)(c) of Decree 168/2024/NĐ-CP, with [four points deducted]({{ '/articles/motorbike-licence-points-system-vietnam/' | relative_url }}) from the licence. For a lone rider it is in the top band of ordinary fines — the same family as counterflow riding and riding on the sidewalk — and a red-light run that causes a crash escalates into the 10–14 million VND accident band and possible criminal liability.
 
 ## What the law requires at the line
 

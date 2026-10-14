@@ -44,4 +44,4 @@ Common rental bikes take regular unleaded (RON 92 is the standard grade at Vietn
 
 Fuel is always the renter's: it is consumption, not damage, and no shop refunds the petrol left in the tank at return. The reverse applies too - nobody itemises the half-litre you left in there. The convention exists to keep both sides honest with the minimum of arithmetic.
 
-The checklist article folds the fuel level into the handover walk-around; read it together with this one before you collect the bike.
+The [checklist article]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) folds the fuel level into the handover walk-around; read it together with this one before you collect the bike.

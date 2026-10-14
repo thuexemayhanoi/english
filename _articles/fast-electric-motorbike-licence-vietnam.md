@@ -22,7 +22,7 @@ sources:
 internal_link_targets: "electric-bike-licence-vietnam, 50cc-licence-vietnam, vietnam-motorbike-licence-classes-explained, a1-licence-vietnam-what-you-can-ride, minimum-age-ride-motorbike-vietnam"
 ---
 
-Speed decides whether an electric two-wheeler needs a licence in Vietnam. Under the vehicle definitions of the Law on Road Traffic Order and Safety (No. 36/2024/QH15), the licence-free category stops at 50 km/h design speed and 4 kW motor output. Everything faster or stronger is legally a motorbike, and motorbikes need motorbike licences.
+Speed decides whether an electric two-wheeler [needs a licence]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}) in Vietnam. Under the vehicle definitions of the Law on Road Traffic Order and Safety (No. 36/2024/QH15), the licence-free category stops at 50 km/h design speed and 4 kW motor output. Everything faster or stronger is legally a motorbike, and motorbikes need motorbike licences.
 
 ## The dividing line
 

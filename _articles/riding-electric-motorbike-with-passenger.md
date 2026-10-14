@@ -30,10 +30,10 @@ The manufacturer's payload figure is the binding one. The Dat Bike Weaver 200, f
 
 ## What a passenger changes
 
-- **Range.** Add a passenger and real-world range drops noticeably — budget for roughly 15-25 percent less, more in stop-start districts.
-- **Braking.** Disc brakes work harder; leave earlier gaps. Regen helps (passengers barely notice regen deceleration), but the front brake does the real stopping.
+- **Range.** Add a passenger and [real-world range]({{ '/articles/electric-motorbike-range-real-world-vietnam/' | relative_url }}) drops noticeably — budget for roughly 15-25 percent less, more in stop-start districts.
+- **Braking.** Disc brakes work harder; leave earlier gaps. [Regen]({{ '/articles/regen-braking-explained-electric/' | relative_url }}) helps (passengers barely notice regen deceleration), but the front brake does the real stopping.
 - **Launch.** Acceleration is slower with a load — plan bigger gaps for crossing arterials.
-- **Helmet.** Passengers are required to wear standard-compliant helmets by law, exactly as riders.
+- **Helmet.** Passengers are [required to wear standard-compliant helmets by law]({{ '/articles/e-bike-helmet-rules-vietnam/' | relative_url }}), exactly as riders.
 
 ## Technique for smooth two-up riding
 

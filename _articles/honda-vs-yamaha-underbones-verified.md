@@ -33,7 +33,7 @@ Vietnam's underbone market is a two-brand contest, and both brands publish compl
 | Weight | 96 kg | 98 kg | 100 kg wet |
 | List price | 18,841,091 VND | 25,664,727 VND | 21,993,000 VND |
 
-Reading it honestly: Honda wins the economy numbers, and the Sirius counters with the biggest tank and the highest torque figure of the three. The Sirius also offers a disc-brake RC version. Honda publishes fuel system details for the RSX (PGM-FI); neither page states a fuel system for the Wave Alpha or Sirius - so no injection or carburettor claims are made for them here.
+Reading it honestly: Honda wins the economy numbers, and the Sirius counters with the biggest tank and the highest torque figure of the three. The Sirius also offers a disc-brake RC version. Honda publishes fuel system details for the [RSX]({{ '/articles/honda-wave-rsx-review/' | relative_url }}) (PGM-FI); neither page states a fuel system for the Wave Alpha or Sirius - so no injection or carburettor claims are made for them here.
 
 ## The 155 class: Winner R and CBR150R vs Exciter 155 VVA
 
@@ -50,7 +50,7 @@ The Exciter takes the performance-and-economy double: the most power and the bes
 
 ## The unique models
 
-Honda's Super Cub C125 and CT125 have no direct Yamaha rival in the verified data. Yamaha has no heritage or trail underbone on its current Vietnam pages.
+Honda's [Super Cub C125]({{ '/articles/honda-super-cub-c125-review/' | relative_url }}) and [CT125]({{ '/articles/honda-ct125-review/' | relative_url }}) have no direct Yamaha rival in the verified data. Yamaha has no heritage or trail underbone on its current Vietnam pages.
 
 ## Renting
 

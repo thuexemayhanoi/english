@@ -24,7 +24,7 @@ sources:
 internal_link_targets: "foreign-licence-exchange-vietnam, expat-motorbike-licence-vietnam, foreign-student-motorbike-licence-vietnam, documents-to-carry-motorbike-vietnam, vietnam-licence-test-in-english"
 ---
 
-The exchange dossier is five items long, and each has a verification catch. Under Circular 12/2025/TT-BCA, a foreigner exchanging a driving licence for a Vietnamese one files the following.
+The exchange dossier is five items long, and each has a verification catch. Under Circular 12/2025/TT-BCA, a foreigner [exchanging a driving licence for a Vietnamese one]({{ '/articles/foreign-licence-exchange-vietnam/' | relative_url }}) files the following.
 
 ## The dossier, item by item
 

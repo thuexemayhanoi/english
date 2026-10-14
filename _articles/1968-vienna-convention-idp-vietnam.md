@@ -31,7 +31,7 @@ The Vienna Convention on Road Traffic (1968) is a United Nations treaty that set
 
 ## How Vietnamese law uses it
 
-The convention by itself does not tell you what you may ride in Vietnam — domestic law does. Article 57(8) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) recognises, on Vietnamese territory, International Driving Permits and national licences issued by countries that are members of the 1968 convention, provided the licence matches the vehicle being ridden. Licences issued under the older 1949 Geneva Convention system are not in that list, which is why a 1949-convention IDP does not make motorbike riding legal here.
+The convention by itself does not tell you what you may ride in Vietnam — domestic law does. Article 57(8) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) recognises, on Vietnamese territory, [International Driving Permits]({{ '/articles/idp-vietnam-motorbike-rules/' | relative_url }}) and national licences issued by countries that are members of the 1968 convention, provided the licence matches the vehicle being ridden. Licences issued under the older 1949 Geneva Convention system are not in that list, which is why a 1949-convention IDP does not make motorbike riding legal here.
 
 ## How to check your permit
 

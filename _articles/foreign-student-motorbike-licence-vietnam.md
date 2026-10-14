@@ -36,7 +36,7 @@ The A1 test route is open from age 18: training course, theory paper, practical 
 
 ## The licence-free option students overlook
 
-Students under 18, and riders of any age who prefer the lightest legal option, can ride the licence-free categories: mopeds and licence-free electrics from 16, pedal e-bikes under the pedal-bike rules. For campus-and-market radius riding, this is often the pragmatic answer for the first semester while the licence paperwork catches up.
+Students under 18, and riders of any age who prefer the lightest legal option, can ride the [licence-free categories]({{ '/articles/minimum-age-ride-motorbike-vietnam/' | relative_url }}): mopeds and licence-free electrics from 16, pedal e-bikes under the pedal-bike rules. For campus-and-market radius riding, this is often the pragmatic answer for the first semester while the licence paperwork catches up.
 
 ## Practical notes
 

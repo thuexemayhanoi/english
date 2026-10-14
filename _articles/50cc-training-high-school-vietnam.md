@@ -28,7 +28,7 @@ Vietnam's answer to teenage moped riding is organised through schools, not throu
 
 ## The legal frame
 
-Decree 151/2024/NĐ-CP arranges road-safety knowledge and safe-moped-riding skills training for students at high schools and vocational institutions. It exists alongside the licence-free regime for 50cc-or-under mopeds: the rider must be at least 16 (Article 59 of Law 36/2024/QH15), and police have publicly clarified that 16-to-18-year-olds may ride mopeds without a licence or training certificate. Training therefore reaches riders through their school rather than acting as a universal permit.
+Decree 151/2024/NĐ-CP arranges road-safety knowledge and safe-moped-riding skills training for students at high schools and vocational institutions. It exists alongside [the licence-free regime]({{ '/articles/50cc-licence-vietnam/' | relative_url }}) for 50cc-or-under mopeds: the rider must be at least 16 (Article 59 of Law 36/2024/QH15), and police have publicly clarified that 16-to-18-year-olds may ride mopeds without a licence or training certificate. Training therefore reaches riders through their school rather than acting as a universal permit.
 
 ## What the training aims to cover
 
@@ -44,6 +44,6 @@ It is not a licence. Passing a school programme does not permit riding a 50cc-or
 
 ## For parents
 
-If your teenager is about to start riding, engage with what the school teaches and extend it at home. Our parent-focused guides — choosing whether to buy a 50cc for your teenager, and teaching safe riding habits — cover the practical side, and the age-rules article states the law exactly.
+If your teenager is about to start riding, engage with what the school teaches and extend it at home. Our parent-focused guides — [choosing whether to buy a 50cc for your teenager]({{ '/articles/buying-50cc-for-your-teenager-vietnam/' | relative_url }}), and [teaching safe riding habits]({{ '/articles/teaching-teens-50cc-safe-riding/' | relative_url }}) — cover the practical side, and the [age-rules article]({{ '/articles/riding-50cc-at-16-vietnam/' | relative_url }}) states the law exactly.
 
 *Information, not legal advice. Verified against the full text of Law 36/2024/QH15 and Decree 168/2024/NĐ-CP on 2026-09-24.*

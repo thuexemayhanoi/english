@@ -20,7 +20,7 @@ sources:
 internal_link_targets: honda-winner-r-review, yamaha-sirius-rc-110-review, honda-wave-alpha-vs-honda-winner-r, honda-winner-r-vs-yamaha-exciter-155, best-150cc-manual-motorbikes-vietnam-verified, automatic-vs-manual-motorbike-hanoi
 ---
 
-Vietnam divides motorbikes into xe so - twist-and-shift semi-automatics - and xe con tay - manual-clutch bikes. This comparison is that divide in one table: Honda's Winner R sport underbone against Yamaha's Sirius workhorse. Both manufacturers publish full specs (retrieved 23 September 2026).
+Vietnam divides motorbikes into xe so - twist-and-shift semi-automatics - and xe con tay - manual-clutch bikes. This comparison is that divide in one table: Honda's [Winner R]({{ '/articles/honda-winner-r-review/' | relative_url }}) sport underbone against Yamaha's [Sirius]({{ '/articles/yamaha-sirius-rc-110-review/' | relative_url }}) workhorse. Both manufacturers publish full specs (retrieved 23 September 2026).
 
 ## The core difference
 

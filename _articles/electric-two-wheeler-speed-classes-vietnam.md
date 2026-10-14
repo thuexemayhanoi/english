@@ -22,7 +22,7 @@ sources:
 internal_link_targets: what-is-electric-motorbike-vietnam, electric-moped-vs-electric-motorcycle-vietnam, why-electric-mopeds-capped-50kmh-vietnam, best-motorbike-for-hanoi-traffic
 ---
 
-Electric two-wheelers in Vietnam cluster into speed bands, and each band exists for a reason — most of them legal.
+Electric two-wheelers in Vietnam cluster into speed bands, and each band exists for a reason — [most of them legal]({{ '/articles/what-is-electric-motorbike-vietnam/' | relative_url }}).
 
 ## 25-30 km/h: pedal assistance
 
@@ -30,7 +30,7 @@ Pedal e-bikes cut assistance at 25 km/h by law. VinFast's Amio, an 800 W pedal-a
 
 ## Below 50 km/h: the moped ceiling
 
-The 4 kW moped class is defined by a 50 km/h design speed, which is why VinFast sells an Evo Lite deliberately limited to below 50 km/h alongside the standard 70 km/h Evo. For riders without a licence, this is the fastest legal electric format.
+The [4 kW moped class]({{ '/articles/electric-moped-vs-electric-motorcycle-vietnam/' | relative_url }}) is defined by a [50 km/h design speed]({{ '/articles/why-electric-mopeds-capped-50kmh-vietnam/' | relative_url }}), which is why VinFast sells an Evo Lite deliberately limited to below 50 km/h alongside the standard 70 km/h Evo. For riders without a licence, this is the fastest legal electric format.
 
 ## 70 km/h: swappable-battery commuters
 

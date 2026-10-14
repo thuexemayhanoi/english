@@ -24,7 +24,7 @@ sources:
 internal_link_targets: tam-dao-day-trip-motorbike, ba-vi-national-park-day-trip-motorbike, best-motorbike-for-day-trips-from-hanoi, mountain-pass-riding-motorbike-vietnam, how-to-rent-a-motorbike-hanoi, first-mountain-motorbike-trip-vietnam-comparison
 ---
 
-Two mountain massifs dominate the day-trip conversation among Hanoi riders: Tam Dao, the former hill station with the ridge-top town, and Ba Vi, the national park with the long forest climb. They are both mountains, and otherwise they are different trips. Here is how they actually compare.
+Two mountain massifs dominate the day-trip conversation among Hanoi riders: [Tam Dao]({{ '/articles/tam-dao-day-trip-motorbike/' | relative_url }}), the former hill station with the ridge-top town, and [Ba Vi]({{ '/articles/ba-vi-national-park-day-trip-motorbike/' | relative_url }}), the national park with the long forest climb. They are both mountains, and otherwise they are different trips. Here is how they actually compare.
 
 ## Distance and time
 

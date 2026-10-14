@@ -22,7 +22,7 @@ sources:
 internal_link_targets: "right-turn-on-red-vietnam, red-light-fine-vietnam, motorbike-lane-rules-vietnam, stopped-by-traffic-police-vietnam, motorbike-fines-vietnam-overview"
 ---
 
-Short answer: the lights themselves are simple — green means go, yellow means stop unless you are already past the line, red is absolute — and the fine for getting it wrong is one of the heaviest ordinary riding penalties on the books: 4–6 million VND. What trips visitors up is not the colours but the details: the stop line, the pedestrian duty on green, and who wins when a police officer's hand signal disagrees with the lamp.
+Short answer: the lights themselves are simple — green means go, yellow means stop unless you are already past the line, red is absolute — and the [fine for getting it wrong]({{ '/articles/red-light-fine-vietnam/' | relative_url }}) is one of the heaviest ordinary riding penalties on the books: 4–6 million VND. What trips visitors up is not the colours but the details: the stop line, the pedestrian duty on green, and who wins when a police officer's hand signal disagrees with the lamp.
 
 ## What each colour actually requires
 
@@ -36,12 +36,12 @@ Article 11(2) sets a strict hierarchy when signals conflict: a traffic officer's
 
 ## What running one costs
 
-Failing to obey a traffic signal is a violation under Article 7(7)(c) of Decree 168/2024/NĐ-CP: 4,000,000–6,000,000 VND for a motorbike rider, plus a four-point deduction from the twelve-point licence under Article 7(13)(b). The same band covers riding against an officer's direction — the two are grouped as one family of disobedience. Where the manoeuvre causes a crash, the accident band of 10,000,000–14,000,000 VND and possible criminal liability replaces the ordinary fine.
+Failing to obey a traffic signal is a violation under Article 7(7)(c) of Decree 168/2024/NĐ-CP: 4,000,000–6,000,000 VND for a motorbike rider, plus a four-point deduction from the [twelve-point licence]({{ '/articles/motorbike-licence-points-system-vietnam/' | relative_url }}) under Article 7(13)(b). The same band covers riding against an officer's direction — the two are grouped as one family of disobedience. Where the manoeuvre causes a crash, the accident band of 10,000,000–14,000,000 VND and possible criminal liability replaces the ordinary fine.
 
 Enforcement is increasingly photographic: Hanoi junctions are camera-covered, and violations recorded at the box are notified by post, payable through the official channels. The rider on a rental should treat a mailed notice the same as a roadside one — the fine follows the plate, and the plate follows to the owner.
 
 ## The right-turn question
 
-Right turns on red are not automatic in Vietnam. They are allowed only where a police signal, an auxiliary sign or a dedicated lane says so — a separate question covered in its own article. Reading the small sign under the light before rolling is the habit; guessing from the behaviour of the scooter ahead of you is how the 4-million-dong mistakes happen.
+[Right turns on red]({{ '/articles/right-turn-on-red-vietnam/' | relative_url }}) are not automatic in Vietnam. They are allowed only where a police signal, an auxiliary sign or a dedicated lane says so — a separate question covered in its own article. Reading the small sign under the light before rolling is the habit; guessing from the behaviour of the scooter ahead of you is how the 4-million-dong mistakes happen.
 
 *Information, not legal advice. Verified against Law 36/2024/QH15 and Decree 168/2024/NĐ-CP on 2026-09-22.*

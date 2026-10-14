@@ -32,11 +32,11 @@ Vietnam restructured its local administration in July 2025, and Hanoi's 30 forme
 
 The Red River curves along the east side of the city. Everything else keys off it. The historic core sits west of the river: Hoan Kiem and the Old Quarter in the centre, Ba Dinh's government quarter to the north-west, Dong Da and Hai Ba Trung spreading south. The French-era grid of the Old Quarter is compact and dense; the outer wards are broader, with wide boulevards, high-rise blocks and separated lanes.
 
-West Lake (Ho Tay) anchors the north. Its shoreline loop is one of the city's few genuinely pleasant rides, and the streets around it feel calmer than the centre. To the south, the districts blend into long straight corridors lined with universities and apartment towers. East of the river, Long Bien sits between the dyke and the historic cantilever bridge that carries its name.
+[West Lake]({{ '/articles/tay-ho-west-lake-area-guide-riders/' | relative_url }}) (Ho Tay) anchors the north. Its shoreline loop is one of the city's few genuinely pleasant rides, and the streets around it feel calmer than the centre. To the south, the districts blend into long straight corridors lined with universities and apartment towers. East of the river, [Long Bien]({{ '/articles/long-bien-area-guide-riders/' | relative_url }}) sits between the dyke and the historic cantilever bridge that carries its name.
 
 ## Ring roads: the fastest way to cross the city
 
-Three ring roads frame Hanoi. Ring Road 1 hugs the centre; Ring Road 2 cuts through the middle wards; Ring Road 3 is the big orbital that most long crosstown trips use, crossing the Red River on large modern bridges. Ring Road 3 is the closest thing Hanoi has to a motorway that motorbikes may use — separated, mostly divided, with flyovers at the major junctions. The expressways beyond it are a different story: motorbikes are banned there, so plan any airport or out-of-city run on the surface network.
+Three ring roads frame Hanoi. Ring Road 1 hugs the centre; Ring Road 2 cuts through the middle wards; Ring Road 3 is the big orbital that most long crosstown trips use, crossing the Red River on [large modern bridges]({{ '/articles/crossing-hanoi-bridges-motorbike/' | relative_url }}). Ring Road 3 is the closest thing Hanoi has to a motorway that motorbikes may use — separated, mostly divided, with flyovers at the major junctions. The expressways beyond it are a different story: motorbikes are banned there, so plan any airport or out-of-city run on the surface network.
 
 ## Bridges: each one has a personality
 

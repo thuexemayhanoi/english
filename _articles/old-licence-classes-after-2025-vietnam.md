@@ -31,7 +31,7 @@ The pre-2025 motorbike classes were broader than today's. Under the transitional
 
 - Old A1: motorbikes from 50 cc up to but not including 175 cc, and electric machines from 4 kW up to but not including 14 kW
 - Old A2: 175 cc and above, or 14 kW and above — the big-bike class
-- Old A3: three-wheeled motorbikes
+- Old A3: [three-wheeled motorbikes]({{ '/articles/b1-three-wheel-licence-vietnam/' | relative_url }})
 
 A rider holding an old paper A1 therefore legally covers a 150 cc machine that today's A1 (125 cc ceiling) would not — the transitional rule preserves the wider envelope.
 

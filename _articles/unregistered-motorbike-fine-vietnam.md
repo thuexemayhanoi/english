@@ -26,7 +26,7 @@ Short answer: riding a motorbike with no registration certificate — or with on
 
 ## What the registration certificate is
 
-The chứng nhận đăng ký xe is the bike's identity document: it ties the frame number and engine number to a lawful first registration, and it is what every other duty hangs from — plates, compulsory insurance, camera fines. A rider who carries the paper at a stop has met the carriage duty; a rider whose bike was never registered, or whose paper does not match the machine, has a much bigger problem than a forgotten wallet.
+The chứng nhận đăng ký xe is the bike's identity document: it ties the frame number and engine number to a lawful first registration, and it is what every other duty hangs from — [plates]({{ '/articles/riding-without-number-plates-vietnam/' | relative_url }}), [compulsory insurance]({{ '/articles/compulsory-motorbike-insurance-vietnam/' | relative_url }}), camera fines. A rider who carries the paper at a stop has met the carriage duty; a rider whose bike was never registered, or whose paper does not match the machine, has a much bigger problem than a forgotten wallet.
 
 ## The band and what sits inside it
 

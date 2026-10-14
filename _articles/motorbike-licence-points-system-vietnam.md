@@ -24,7 +24,7 @@ sources:
 internal_link_targets: "lose-all-licence-points-vietnam, motorbike-fines-vietnam-overview, drink-driving-limits-motorbike-vietnam, motorbike-licence-validity-renewal-vietnam, no-licence-fine-vietnam"
 ---
 
-Every Vietnamese driving licence now runs on points. The Law on Road Traffic Order and Safety (No. 36/2024/QH15) gives each licence 12 points, and Decree 168/2024/NĐ-CP deducts them violation by violation — on top of the money fines, not instead of them. For motorbike riders, the system quietly became the second half of every penalty.
+Every Vietnamese driving licence now runs on points. The Law on Road Traffic Order and Safety (No. 36/2024/QH15) gives each licence 12 points, and Decree 168/2024/NĐ-CP deducts them violation by violation — on top of the [money fines]({{ '/articles/motorbike-fines-vietnam-overview/' | relative_url }}), not instead of them. For motorbike riders, the system quietly became the second half of every penalty.
 
 ## How deduction works
 
@@ -32,7 +32,7 @@ Points are deducted when a penalty decision takes legal effect, not at the roads
 
 ## What zero points means
 
-A licence with all 12 points deducted is no longer usable. Riding on a fully deducted licence is punished as riding without a valid licence — the multi-million-dong bands — and the only route back is the formal restoration process: after at least six months, a knowledge test on road law run by the traffic police, and a restored 12 points on passing.
+A licence with [all 12 points deducted]({{ '/articles/lose-all-licence-points-vietnam/' | relative_url }}) is no longer usable. Riding on a fully deducted licence is punished as riding without a valid licence — the multi-million-dong bands — and the only route back is the formal restoration process: after at least six months, a knowledge test on road law run by the traffic police, and a restored 12 points on passing.
 
 ## How the points interact with fines
 

@@ -23,7 +23,7 @@ sources:
 internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, perfume-pagoda-motorbike-trip, hanoi-lakes-motorbike-riding-guide, riding-motorbike-heavy-rain-vietnam, how-to-rent-a-motorbike-hanoi, thung-nai-hoa-binh-lake-motorbike-day-trip"
 ---
 
-Quan Son is the quiet alternative to the famous destinations in the same southwestern corner of Hanoi: an 860-hectare lake among limestone outcrops in My Duc district, roughly 40–60 kilometres from the centre depending on the approach. Where the Perfume Pagoda valley next door is polished and busy, Quan Son is still a local weekend spot — boats, lotus and karst ridges without the crowds.
+Quan Son is the quiet alternative to the famous destinations in the same southwestern corner of Hanoi: an 860-hectare lake among limestone outcrops in My Duc district, roughly 40–60 kilometres from the centre depending on the approach. Where the [Perfume Pagoda]({{ '/articles/perfume-pagoda-motorbike-trip/' | relative_url }}) valley next door is polished and busy, Quan Son is still a local weekend spot — boats, lotus and karst ridges without the crowds.
 
 ## The ride
 

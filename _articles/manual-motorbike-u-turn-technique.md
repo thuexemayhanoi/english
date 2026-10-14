@@ -19,7 +19,7 @@ sources:
 internal_link_targets: slow-speed-clutch-balance-manual-motorbike, clutch-control-friction-zone-practice, riding-hanoi-old-quarter-narrow-streets, clutch-technique-stop-and-go-traffic, how-to-ride-manual-clutch-motorbike-vietnam
 ---
 
-A tight U-turn on a manual bike is a slow-speed clutch exercise with a corner in it. The ingredients never change: eyes up, steady throttle, clutch in the friction zone, rear brake as your speed regulator, and a wide bar turn. Get those five right and the bike will turn tighter than you expect.
+A tight U-turn on a manual bike is a [slow-speed clutch exercise]({{ '/articles/slow-speed-clutch-balance-manual-motorbike/' | relative_url }}) with a corner in it. The ingredients never change: eyes up, steady throttle, [clutch in the friction zone]({{ '/articles/clutch-control-friction-zone-practice/' | relative_url }}), rear brake as your speed regulator, and a wide bar turn. Get those five right and the bike will turn tighter than you expect.
 
 ## Set it up before you turn
 
@@ -38,7 +38,7 @@ The head stays up and turned to the exit point the whole way. The classic failur
 
 ## The size of the arc
 
-With good technique a small underbone turns inside two parking spaces. Where the road is genuinely too narrow — a one-way lane with parked bikes both sides — do the two-step turn: stop, walk the bike around using the bars and your legs, remount. This is not failure; delivery riders in the Old Quarter do it a hundred times a day.
+With good technique a small underbone turns inside two parking spaces. Where the road is genuinely too narrow — a one-way lane with parked bikes both sides — do the two-step turn: stop, walk the bike around using the bars and your legs, remount. This is not failure; delivery riders in the [Old Quarter]({{ '/articles/riding-hanoi-old-quarter-narrow-streets/' | relative_url }}) do it a hundred times a day.
 
 ## Uphill and downhill U-turns
 

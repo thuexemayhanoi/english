@@ -41,13 +41,13 @@ Both are four-speed rotary semi-automatics; real-world economy varies with speed
 
 The 125 is not faster in any way a city rider feels - 0.37 kW is noise. The real difference is torque: 10.2 Nm versus 8.70 Nm, arriving 500 rpm lower. That is passenger-carrying and headwind performance, and it is the honest reason to upgrade.
 
-Surprisingly, the bigger engine is also the more economical: the Future's 1.47 L/100 km claim is the best in the entire verified range, and its 4.6-litre tank is the biggest practical tank too.
+Surprisingly, the bigger engine is also the more economical: the Future's 1.47 L/100 km claim is the best in the entire [verified range]({{ '/articles/best-125cc-underbones-vietnam-verified/' | relative_url }}), and its 4.6-litre tank is the biggest practical tank too.
 
 The costs of the step up: about 5 million dong minimum, and 6 kg.
 
 ## The style answer
 
-If those numbers do not describe your riding, Honda's other 125s - the Super Cub C125 (88.4 million VND) and CT125 (86 million VND) - sell design and capability, not torque. The 110 class remains the rational default for solo commuters.
+If those numbers do not describe your riding, Honda's other 125s - the [Super Cub C125]({{ '/articles/honda-super-cub-c125-review/' | relative_url }}) (88.4 million VND) and [CT125]({{ '/articles/honda-ct125-review/' | relative_url }}) (86 million VND) - sell design and capability, not torque. The 110 class remains the rational default for solo commuters.
 
 ## Renting the comparison
 

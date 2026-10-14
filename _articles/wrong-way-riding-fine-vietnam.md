@@ -24,7 +24,7 @@ sources:
 internal_link_targets: "right-turn-on-red-vietnam, motorbike-fines-vietnam-overview, motorbike-passenger-rules-vietnam, documents-to-carry-motorbike-vietnam"
 ---
 
-Riding into oncoming traffic — the wrong way up a one-way street, or against the permitted direction on a divided road — carries a 4,000,000–6,000,000 VND fine for motorbikes under Article 7(7) of Decree 168/2024/NĐ-CP. That is the same band as running a red light, and the law treats it as equally serious for a reason.
+Riding into oncoming traffic — the wrong way up a one-way street, or against the permitted direction on a divided road — carries a [4,000,000–6,000,000 VND fine]({{ '/articles/motorbike-fines-vietnam-overview/' | relative_url }}) for motorbikes under Article 7(7) of Decree 168/2024/NĐ-CP. That is the same band as running a red light, and the law treats it as equally serious for a reason.
 
 ## The rule and the fine
 

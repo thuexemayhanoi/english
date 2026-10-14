@@ -27,11 +27,11 @@ The xe đạp máy — a pedal bicycle with an electric assist motor — is Viet
 
 ## What that classification means
 
-No licence is required — there is no licence class for the category. No registration as a motor vehicle applies, though e-bike registration stickers apply in practice in some cities. The minimum age for riding one in traffic is 16, per the same age provision that governs mopeds.
+No licence is required — there is no licence class for the category. No registration as a motor vehicle applies, though e-bike registration stickers apply in practice in some cities. The minimum age for riding one in traffic is 16, per the same [age provision]({{ '/articles/minimum-age-ride-motorbike-vietnam/' | relative_url }}) that governs [mopeds]({{ '/articles/what-is-a-moped-vietnam-law/' | relative_url }}).
 
 ## What still applies
 
-The helmet rule reaches further than the licensing rule. Article 31(3) of the law requires helmets for riders and passengers of motorised pedal bicycles — pedal e-bikes included — and the 400,000–600,000 VND fine band applies. The traffic rules apply in full: signals, direction of travel, sidewalk prohibition, pedestrian priority. A pedal-bike rider can be fined for counterflow riding exactly as a scooter rider can, in the band set for the category.
+The helmet rule reaches further than the licensing rule. Article 31(3) of the law requires [helmets for riders and passengers]({{ '/articles/helmet-law-vietnam/' | relative_url }}) of motorised pedal bicycles — pedal e-bikes included — and the 400,000–600,000 VND fine band applies. The traffic rules apply in full: signals, direction of travel, sidewalk prohibition, pedestrian priority. A pedal-bike rider can be fined for counterflow riding exactly as a scooter rider can, in the band set for the category.
 
 ## The 25 km/h line matters
 

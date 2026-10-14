@@ -36,7 +36,7 @@ You cannot legally "learn on the road" on a motorbike in Vietnam. A person with 
 
 ## The contrast with car licences
 
-The car system historically had explicit learning documentation, and the training structure is similar. But the absence of any motorbike learner permit is the point visitors should register: in Vietnam there is no document that lets an unlicensed friend teach you on their scooter. The only legal route to a first ride is course, test, licence — or an exchanged foreign licence.
+The car system historically had explicit learning documentation, and the training structure is similar. But the absence of any motorbike learner permit is the point visitors should register: in Vietnam there is no document that lets an unlicensed friend teach you on their scooter. The only legal route to a first ride is course, [test]({{ '/articles/vietnam-a1-licence-test/' | relative_url }}), licence — or an [exchanged foreign licence]({{ '/articles/foreign-licence-exchange-vietnam/' | relative_url }}).
 
 ## A note for foreign residents
 

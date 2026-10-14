@@ -20,11 +20,11 @@ sources:
 internal_link_targets: honda-future-125-review, yamaha-exciter-155-vva-review, honda-future-125-vs-honda-winner-r, yamaha-sirius-vs-yamaha-exciter-155, most-fuel-efficient-underbones-vietnam-verified, assist-slipper-clutch-explained
 ---
 
-This is Honda's most economical 125 against Yamaha's most popular manual-clutch 155. One optimises every litre of fuel; the other optimises every throttle opening. Honda Vietnam and Yamaha Vietnam publish complete specs for both (retrieved 23 September 2026).
+This is Honda's [most economical 125]({{ '/articles/honda-future-125-review/' | relative_url }}) against Yamaha's most popular manual-clutch 155. One optimises every litre of fuel; the other optimises every throttle opening. Honda Vietnam and Yamaha Vietnam publish complete specs for both (retrieved 23 September 2026).
 
 ## The core difference
 
-The Future 125 FI is a 124.9 cc air-cooled semi-automatic: 6.83 kW at 7,500 rpm, four-speed rotary gearbox, no clutch lever. The Exciter 155 VVA is a 155 cc liquid-cooled four-valve engine with VVA variable valve timing, 13.2 kW at 9,500 rpm, a six-speed gearbox and a manual Assist and Slipper clutch.
+The Future 125 FI is a 124.9 cc air-cooled semi-automatic: 6.83 kW at 7,500 rpm, four-speed rotary gearbox, no clutch lever. The [Exciter 155 VVA]({{ '/articles/yamaha-exciter-155-vva-review/' | relative_url }}) is a 155 cc liquid-cooled four-valve engine with VVA variable valve timing, 13.2 kW at 9,500 rpm, a six-speed gearbox and a manual Assist and Slipper clutch.
 
 ## The verified numbers
 

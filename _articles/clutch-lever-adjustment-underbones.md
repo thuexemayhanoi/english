@@ -19,7 +19,7 @@ sources:
 internal_link_targets: "how-to-ride-manual-clutch-motorbike-vietnam, clutch-slipping-manual-motorbike, broken-clutch-cable-motorbike-roadside, clutch-control-friction-zone-practice, cold-start-underbone-choke-warmup"
 ---
 
-On a manual-clutch underbone, the lever is the main control surface you own. Two settings decide how it behaves: reach and free play.
+On a [manual-clutch underbone]({{ '/articles/how-to-ride-manual-clutch-motorbike-vietnam/' | relative_url }}), the lever is the main control surface you own. Two settings decide how it behaves: reach and free play.
 
 ## Reach
 
@@ -37,4 +37,4 @@ Free play is the small amount of lever movement before the clutch begins to dise
 
 ## What belongs to a mechanic
 
-Free play at the lever corrects cable stretch, but if the clutch still bites late, drags, or the lever pulls to the grip with no resistance, the cable or plates need attention — the clutch slipping and broken cable guides cover the symptoms. Rental riders should not rebuild anything: photograph the lever position at pickup, ride with it as delivered, and report problems to the provider instead of adjusting a bike that is not yours to repair.
+Free play at the lever corrects cable stretch, but if the clutch still bites late, drags, or the lever pulls to the grip with no resistance, the cable or plates need attention — the [clutch slipping]({{ '/articles/clutch-slipping-manual-motorbike/' | relative_url }}) and [broken cable]({{ '/articles/broken-clutch-cable-motorbike-roadside/' | relative_url }}) guides cover the symptoms. Rental riders should not rebuild anything: photograph the lever position at pickup, ride with it as delivered, and report problems to the provider instead of adjusting a bike that is not yours to repair.

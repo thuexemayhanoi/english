@@ -20,7 +20,7 @@ sources:
 internal_link_targets: fast-electric-motorbike-licence-vietnam, dat-bike-weaver-200-vs-weaver-plus-plus, electric-motorbike-range-real-world-vietnam, regen-braking-explained-electric
 ---
 
-The Weaver 200 is the electric that behaves like a motorcycle — because legally it is one. All figures below are Dat Bike's official published data.
+The Weaver 200 is the electric that behaves like a motorcycle — because [legally it is one]({{ '/articles/electric-moped-vs-electric-motorcycle-vietnam/' | relative_url }}). All figures below are Dat Bike's official published data.
 
 ## Official specifications
 
@@ -40,7 +40,7 @@ The Weaver 200 is the electric that behaves like a motorcycle — because legall
 
 ## What stands out
 
-The range honesty is refreshing: Dat Bike publishes both test speeds, so the 200 km claim (35 km/h) comes with its own 130 km reality check (70 km/h). Either way, a full charge covers a week of Hanoi commuting — or the brand's own example trips, Hanoi to Ha Long included.
+The range honesty is refreshing: Dat Bike publishes both test speeds, so the 200 km claim (35 km/h) comes with its own [130 km reality check]({{ '/articles/electric-motorbike-range-real-world-vietnam/' | relative_url }}) (70 km/h). Either way, a full charge covers a week of Hanoi commuting — or the brand's own example trips, Hanoi to Ha Long included.
 
 Fast charging reframes ownership: one hour of charging buys 100 km. The regen-braking throttle lets you ride entire avenues on the right hand, and the 6,000 W motor keeps up with petrol flow everywhere licence-free bikes cannot go.
 

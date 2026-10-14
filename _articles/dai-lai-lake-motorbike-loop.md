@@ -34,7 +34,7 @@ Ride north on the airport corridor, continue past Noi Bai toward Phuc Yen, and t
 
 Dai Lai is a green-tourism and resort area: lakeside walkways, kayak and SUP rental through the resorts, picnic lawns, and hillsides planted with forest. Swimming areas operate through the resorts and beach clubs in season. For a day-tripper, the formula is simple: ride the loop, pick a lakeside spot for a long lunch, walk or swim, then roll home. In the heat of a Hanoi summer, the lake is one of the few nearby places where the afternoon is actually pleasant.
 
-Combine it with Tam Dao if you want a bigger northern day: the hill station is a further climb up the same direction, though that makes a long ride on a small bike.
+Combine it with [Tam Dao]({{ '/articles/tam-dao-day-trip-motorbike/' | relative_url }}) if you want a bigger northern day: the hill station is a further climb up the same direction, though that makes a long ride on a small bike.
 
 ## Practical notes
 

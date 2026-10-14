@@ -24,7 +24,7 @@ Yamaha's Vietnamese scooter range is smaller than Honda's but covers the same sp
 
 ## Yamaha Janus 125 - the value entry
 
-The cheapest route into a Blue Core 125: published consumption 1.98 litres/100 km, listed from 29,151,000 VND, with USB charging and tubeless tyres. Full review: Yamaha Janus 125.
+The cheapest route into a Blue Core 125: published consumption 1.98 litres/100 km, listed from 29,151,000 VND, with USB charging and tubeless tyres. Full review: [Yamaha Janus 125]({{ '/articles/yamaha-janus-125-review/' | relative_url }}).
 
 ## Yamaha Gear 125 Hybrid - the utility option
 
@@ -32,19 +32,19 @@ A city scooter built around practicality with a Blue Core Hybrid engine (a small
 
 ## Yamaha FreeGo 125 - the practical sporty mid-ranger
 
-The mainstream all-rounder: smart key, front ABS, 25-litre underseat bay and a phone charging port - premium features at a mainstream price (listed from around 30.3 million VND at retrieval; confirm current pricing with Yamaha). Full review: Yamaha FreeGo 125.
+The mainstream all-rounder: smart key, front ABS, 25-litre underseat bay and a phone charging port - premium features at a mainstream price (listed from around 30.3 million VND at retrieval; confirm current pricing with Yamaha). Full review: [Yamaha FreeGo 125]({{ '/articles/yamaha-freego-125-review/' | relative_url }}).
 
 ## Yamaha Grande - the style flagship
 
-Blue Core Hybrid engine, Y-Connect app, 27-litre lit storage bay, 100 kg wet weight, listed from 46,244,000 VND. Yamaha does not publish current Grande engine output figures, so we do not quote them. Full review: Yamaha Grande.
+Blue Core Hybrid engine, Y-Connect app, 27-litre lit storage bay, 100 kg wet weight, listed from 46,244,000 VND. Yamaha does not publish current Grande engine output figures, so we do not quote them. Full review: [Yamaha Grande]({{ '/articles/yamaha-grande-review/' | relative_url }}).
 
 ## Yamaha Latte 125 - the light newcomer
 
-Newest in the range: 100 kg wet weight, 37 litres of underseat storage with a flat floor, 1.80 litres/100 km published consumption - the best figure in the class - and a smart key, listed at 39,077,000 VND for the 2025 limited colour version. Full review: Yamaha Latte 125.
+Newest in the range: 100 kg wet weight, 37 litres of underseat storage with a flat floor, 1.80 litres/100 km published consumption - the best figure in the class - and a smart key, listed at 39,077,000 VND for the 2025 limited colour version. Full review: [Yamaha Latte 125]({{ '/articles/yamaha-latte-125-review/' | relative_url }}).
 
 ## Yamaha NVX 155 - the sporty flagship
 
-The most aggressive mainstream automatic in the country: Blue Core 155 cc VVA engine (11.3 kW), front ABS on a 230 mm disc, Y-Connect connectivity, Stop and Start system, 25 L storage, listed from 55,300,000 VND with sport SP and GP versions at 68 and 69 million VND. Full review: Yamaha NVX 155.
+The most aggressive mainstream automatic in the country: Blue Core 155 cc VVA engine (11.3 kW), front ABS on a 230 mm disc, Y-Connect connectivity, Stop and Start system, 25 L storage, listed from 55,300,000 VND with sport SP and GP versions at 68 and 69 million VND. Full review: [Yamaha NVX 155]({{ '/articles/yamaha-nvx-155-review/' | relative_url }}).
 
 ## How to choose
 

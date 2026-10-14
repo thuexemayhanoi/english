@@ -23,7 +23,7 @@ sources:
 internal_link_targets: hanoi-districts-layout-guide-riders, choosing-hanoi-neighbourhood-motorbike-access, yen-so-park-motorbike-ride, traffic-at-rush-hour-riding-hanoi, hanoi-ring-roads-motorbike-guide, where-to-park-motorbike-hanoi, riding-motorbike-blind-spots-vietnam
 ---
 
-Hoang Mai is the south of Hanoi — the direction the city sprawls toward the delta. Where the central districts are dense and vertical, Hoang Mai is horizontal: apartment campuses, lakes, wide new roads and the city's biggest green lung. Since the July 2025 restructuring the district name has been absorbed into new wards, but for riders "Hoang Mai" still means the whole southern belt from Linh Dam to the expressway gateway.
+Hoang Mai is the south of Hanoi — the direction the city sprawls toward the delta. Where the central districts are dense and vertical, Hoang Mai is horizontal: apartment campuses, lakes, wide new roads and the city's [biggest green lung]({{ '/articles/yen-so-park-motorbike-ride/' | relative_url }}). Since the July 2025 restructuring the district name has been absorbed into new wards, but for riders "Hoang Mai" still means the whole southern belt from Linh Dam to the expressway gateway.
 
 ## What the area is
 
@@ -33,7 +33,7 @@ The defining features are water and space. The Linh Dam peninsula, surrounded by
 
 This is the easiest large-scale riding in central Hanoi's orbit. The arterial roads — Nguyen Van Linh, Nguyen Xien, Phap Van — are wide, mostly divided, and built for through-traffic. Speeds are higher than in the core, which changes the risk profile: the dangers here are big junctions, concrete median gaps used as unofficial U-turns, and buses swinging between stops. Ride predictably, light up early for junctions, and treat every median gap as a place where someone will emerge.
 
-At rush hour the main corridors clog at the junctions that connect toward the centre, but the internal streets stay rideable. Weekend mornings see family traffic around Linh Dam lake and the park approaches — expect children on bikes and slower, meandering flow.
+At [rush hour]({{ '/articles/traffic-at-rush-hour-riding-hanoi/' | relative_url }}) the main corridors clog at the junctions that connect toward the centre, but the internal streets stay rideable. Weekend mornings see family traffic around Linh Dam lake and the park approaches — expect children on bikes and slower, meandering flow.
 
 ## Parking and stopping
 

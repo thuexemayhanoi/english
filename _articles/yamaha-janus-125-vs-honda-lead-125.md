@@ -21,7 +21,7 @@ sources:
 internal_link_targets: yamaha-janus-125-review, honda-lead-125-review, yamaha-janus-vs-yamaha-freego, honda-vario-125-vs-honda-lead-125, scooter-fuel-economy-comparison-vietnam, best-scooters-cargo-storage-vietnam
 ---
 
-The Janus and the Lead sit at opposite ends of the practical 125 spectrum: Yamaha's entry model is about light weight and low cost; Honda's Lead is about the biggest bay in the class. Verified figures from the official pages (retrieved 23 September 2026).
+The Janus and the Lead sit at opposite ends of the practical 125 spectrum: [Yamaha's entry model]({{ '/articles/yamaha-janus-125-review/' | relative_url }}) is about light weight and low cost; [Honda's Lead]({{ '/articles/honda-lead-125-review/' | relative_url }}) is about the biggest bay in the class. Verified figures from the official pages (retrieved 23 September 2026).
 
 ## Engine and economy
 

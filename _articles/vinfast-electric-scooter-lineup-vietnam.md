@@ -49,4 +49,4 @@ Battery rental at 175,000 VND per month (one pack) or 300,000 (two); 9,000 VND p
 
 ## Choosing inside the family
 
-The reviews and the head-to-heads (Viper vs Evo, Evo Lite vs Amio, Evo vs Feliz II, Viper vs Feliz II) resolve the details; the short version is that the choice is range versus features versus strictness of licence-free positioning. Rental availability of any specific model: contact us to confirm current availability.
+The reviews and the head-to-heads ([Viper vs Evo]({{ '/articles/vinfast-viper-vs-evo/' | relative_url }}), [Evo Lite vs Amio]({{ '/articles/vinfast-evo-lite-vs-amio/' | relative_url }}), [Evo vs Feliz II]({{ '/articles/vinfast-evo-vs-feliz-2/' | relative_url }}), [Viper vs Feliz II]({{ '/articles/vinfast-viper-vs-feliz-2/' | relative_url }})) resolve the details; the short version is that the choice is range versus features versus strictness of licence-free positioning. Rental availability of any specific model: contact us to confirm current availability.

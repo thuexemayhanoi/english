@@ -23,7 +23,7 @@ Long descents are where semi-automatic riders discover a weakness of the format:
 
 ## Downshift before the hill, not on it
 
-At the top of the descent, roll off and shift down to a low gear — first or second depending on slope and surface — while the bike is still nearly at walking pace. Once the slope steepens and speed builds, the centrifugal clutch may be spinning too fast for a safe low-gear engagement; a late downshift on a steep hill is jerky at best. The same rule as the general downhill guide applies: the gear you want is the one chosen before gravity starts working.
+At the top of the descent, roll off and shift down to a low gear — first or second depending on slope and surface — while the bike is still nearly at walking pace. Once the slope steepens and speed builds, the centrifugal clutch may be spinning too fast for a safe low-gear engagement; [a late downshift]({{ '/articles/how-to-shift-gears-semi-automatic-underbone/' | relative_url }}) on a steep hill is jerky at best. The same rule as the general downhill guide applies: the gear you want is the one chosen before gravity starts working.
 
 ## How engine braking works on a xe so
 
@@ -34,7 +34,7 @@ With the throttle closed and the clutch engaged, the rear wheel drives the engin
 
 ## Brake discipline
 
-Use both brakes, feathering them rather than dragging them continuously. The classic failure is a rider who found the engine braking insufficient, panicked, and clamped the rear brake for two kilometres of slope — by the hairpins the drum is cooked and the lever does nothing. Short, firm slows followed by release keep pads and drums cool. Keep your speed where you could still stop within the distance you can see — on mountain roads with buses taking wide lines, that is slow.
+Use both brakes, feathering them rather than dragging them continuously. The classic failure is a rider who found the [engine braking]({{ '/articles/riding-downhill-motorbike-engine-braking/' | relative_url }}) insufficient, panicked, and clamped the rear brake for two kilometres of slope — by the hairpins the drum is cooked and the lever does nothing. Short, firm slows followed by release keep pads and drums cool. Keep your speed where you could still stop within the distance you can see — on mountain roads with buses taking wide lines, that is slow.
 
 ## Hairpins and traffic
 

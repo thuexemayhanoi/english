@@ -19,7 +19,7 @@ sources:
 internal_link_targets: "riding-semi-automatic-first-time, balancing-pillion-riding-motorbike-vietnam, how-to-shift-gears-semi-automatic-underbone, best-underbones-two-up-verified, when-to-shift-gears-underbone, semi-auto-carrying-cargo"
 ---
 
-Semi-automatic underbones carry the country: two adults on a Wave-class bike is how much of Vietnam actually moves. But a passenger changes the machine's behaviour, especially in the first seconds of a launch, and knowing what changes keeps those first seconds smooth.
+[Semi-automatic underbones]({{ '/articles/riding-semi-automatic-first-time/' | relative_url }}) carry the country: [two adults on a Wave-class bike]({{ '/articles/best-underbones-two-up-verified/' | relative_url }}) is how much of Vietnam actually moves. But a passenger changes the machine's behaviour, especially in the first seconds of a launch, and knowing what changes keeps those first seconds smooth.
 
 ## What a passenger changes on a xe so
 

@@ -20,7 +20,7 @@ sources:
 internal_link_targets: "honda-future-125-review, honda-winner-r-review, honda-wave-alpha-vs-honda-winner-r, best-150cc-manual-motorbikes-vietnam-verified, best-125cc-underbones-vietnam-verified, xe-so-vs-xe-con-tay-explained, honda-cbr150r-vs-honda-future-125, honda-future-125-vs-yamaha-exciter-155, honda-wave-rsx-vs-honda-winner-r"
 ---
 
-Both are Hondas with 4.5-litre-class underbone frames, and both carry more than the entry 110s - but they ask completely different things of the rider. The Future 125 FI is a relaxed semi-automatic; the Winner R is Honda's manual-clutch sport underbone with a racing-derived engine. Honda Vietnam publishes full specifications for both (retrieved 23 September 2026).
+Both are Hondas with 4.5-litre-class underbone frames, and both carry more than the entry 110s - but they ask completely different things of the rider. The [Future 125 FI]({{ '/articles/honda-future-125-review/' | relative_url }}) is a relaxed semi-automatic; the [Winner R]({{ '/articles/honda-winner-r-review/' | relative_url }}) is Honda's manual-clutch sport underbone with a racing-derived engine. Honda Vietnam publishes full specifications for both (retrieved 23 September 2026).
 
 ## The core difference
 

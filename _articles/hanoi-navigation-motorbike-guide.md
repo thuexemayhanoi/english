@@ -31,7 +31,7 @@ A Vietnamese address runs from general to specific: street number, street name, 
 - **The ward/district layer is how people actually think.** "It's in Tay Ho" narrows a search better than a postcode — Vietnam's postal codes exist but almost nobody uses them day to day.
 
 After the July 2025
- administrative restructuring, official ward names changed (Hanoi's former districts became 126 wards and communes), but every map, app and taxi conversation still runs on the old district names. Use them freely.
+ [administrative restructuring]({{ '/articles/hanoi-2025-administrative-restructuring-riders/' | relative_url }}), official ward names changed (Hanoi's former districts became 126 wards and communes), but every map, app and taxi conversation still runs on the old district names. Use them freely.
 
 ## App setup that matters
 
@@ -52,4 +52,4 @@ s skeleton (river, lakes, ring roads) makes this easy, which is why the district
 
 ## The pre-ride minute
 
-Before every non-trivial ride: check the route, note the bridge or the ring road it uses, screenshot the last 500 metres (the alley-level final approach is where navigation dies), and go. Hanoi rewards riders who look at the map before departure and ignore it once moving — the opposite of tourists, who stare at it while riding.
+Before every non-trivial ride: check the route, note the bridge or the ring road it uses, screenshot the last 500 metres (the alley-level final approach is where navigation dies), and go. Hanoi rewards riders who look at the map before departure and ignore it once moving — the opposite of tourists, who stare at it [while riding]({{ '/articles/phone-use-while-riding-vietnam/' | relative_url }}).

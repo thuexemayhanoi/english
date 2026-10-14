@@ -39,9 +39,9 @@ Yamaha does not publish seat heights for the Sirius RC or Exciter 155 VVA on the
 
 ## Reading the numbers
 
-Seat height is only part of the story: the CT125's 800 mm plus 165 mm ground clearance make it the roomiest sitting position in the verified range. The CBR150R has the longest wheelbase (1312 mm) plus a full-size sport riding position - the best fit for tall riders who want a manual bike. The Winner R adds a 795 mm seat and the second-longest wheelbase with sport underbone ergonomics.
+[Seat height]({{ '/articles/underbone-seat-heights-explained/' | relative_url }}) is only part of the story: the CT125's 800 mm plus 165 mm ground clearance make it the roomiest sitting position in the verified range. The CBR150R has the longest wheelbase (1312 mm) plus a full-size sport riding position - the best fit for tall riders who want a manual bike. The [Winner R]({{ '/articles/honda-winner-r-review/' | relative_url }}) adds a 795 mm seat and the second-longest wheelbase with sport underbone ergonomics.
 
-Among the semi-automatics, the Super Cub C125 (780 mm) is the tallest, with the Future 125 FI offering the longest practical frame at 1931 mm despite its low 756 mm seat - the low seat plus long 1258 mm wheelbase actually suits long legs that fold, not stretch.
+Among the semi-automatics, the [Super Cub C125]({{ '/articles/honda-super-cub-c125-review/' | relative_url }}) (780 mm) is the tallest, with the Future 125 FI offering the longest practical frame at 1931 mm despite its low 756 mm seat - the low seat plus long 1258 mm wheelbase actually suits long legs that fold, not stretch.
 
 ## The rental reality check
 

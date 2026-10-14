@@ -25,7 +25,7 @@ sources:
 internal_link_targets: "compulsory-motorbike-insurance-vietnam, idp-vietnam-motorbike-rules, motorbike-fines-vietnam-overview, lending-motorbike-unlicensed-rider-vietnam"
 ---
 
-Three documents belong in your pocket, not under the seat. When traffic police in Hanoi stop a motorbike, they ask for the rider's licence, the vehicle's registration certificate and the compulsory insurance certificate. Article 56 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires drivers to carry them, and each missing document is fined separately.
+Three documents belong in your pocket, not under the seat. When traffic police in Hanoi stop a motorbike, they ask for the rider's licence, the vehicle's registration certificate and the [compulsory insurance certificate]({{ '/articles/compulsory-motorbike-insurance-vietnam/' | relative_url }}). Article 56 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires drivers to carry them, and each missing document is fined separately.
 
 ## The three documents
 
@@ -37,13 +37,13 @@ The compulsory insurance certificate proves the bike carries the mandatory civil
 
 ## The fines
 
-Decree 168/2024/NĐ-CP prices the paperwork mistakes unevenly, and the distinction matters. Riding without a valid compulsory-insurance certificate is fined 200,000–300,000 VND for any motorbike rider (Article 18(2)(b)). The same 200,000–300,000 band applies to transport-business riders who fail to carry their licence or registration (Article 18(2)(c),(d)). A private rider who cannot produce a licence or registration at a stop is treated under Article 48(3) of the decree: the officer records a violation for the missing paper and the bike can be held until the rider produces the document within the appointment stated on the record — the document exists somewhere, but you have to go and get it.
+[Decree 168/2024/NĐ-CP prices the paperwork mistakes]({{ '/articles/motorbike-fines-vietnam-overview/' | relative_url }}) unevenly, and the distinction matters. Riding without a valid compulsory-insurance certificate is fined 200,000–300,000 VND for any motorbike rider (Article 18(2)(b)). The same 200,000–300,000 band applies to transport-business riders who fail to carry their licence or registration (Article 18(2)(c),(d)). A private rider who cannot produce a licence or registration at a stop is treated under Article 48(3) of the decree: the officer records a violation for the missing paper and the bike can be held until the rider produces the document within the appointment stated on the record — the document exists somewhere, but you have to go and get it.
 
 Distinct and much heavier penalties apply for different situations: having no licence at all (millions of VND), or letting someone unlicensed ride your bike (a fine on the owner). Not carrying is the cheap version of the mistake; not having is the expensive one.
 
 ## Practical notes for renters and visitors
 
-Check before leaving the shop that the registration copy and insurance certificate ride with the bike. Tourists on an IDP should carry the permit and their national licence together — the permit alone is not enough, and riding without the national licence that the permit must be paired with is treated in the same band as riding with no licence at all (Article 18(5)(b)).
+Check before leaving the shop that the registration copy and insurance certificate ride with the bike. Tourists on an [IDP]({{ '/articles/idp-vietnam-motorbike-rules/' | relative_url }}) should carry the permit and their national licence together — the permit alone is not enough, and riding without the national licence that the permit must be paired with is treated in the same band as riding with no licence at all (Article 18(5)(b)).
 
 Papers integrated into the VNeID e-identification account are developing as an alternative to physical carriage, but until a checkpoint confirms it works for your situation, the paper in the pocket is still the safe answer.
 

@@ -35,14 +35,14 @@ Two to three hours each way: Tam Dao (about 85 km, roughly two hours), Ba Vi, Da
 
 ## The 100–150 km edge
 
-Thung Nai (about 100 km up the Highway 6 corridor), the Hung Kings temples in Phu Tho (about 90 km) — trips at this distance work as day trips only with an early start, a clear plan and a willingness to ride home tired. Past this band, the return ride stops being fun; overnight instead.
+Thung Nai (about 100 km up the Highway 6 corridor), the Hung Kings temples in Phu Tho (about 90 km) — trips at this distance work as day trips only with an early start, a clear plan and a willingness to [ride home tired]({{ '/articles/riding-fatigue-motorbike-vietnam/' | relative_url }}). Past this band, the return ride stops being fun; overnight instead.
 
 ## What shrinks your range
 
 - **Rain**: an hour of heavy rain costs you an hour plus energy.
 - **Mountains**: hairpin sections drop average speeds dramatically.
 - **Two-up riding**: add 20–30% to your time estimates.
-- **50cc or electric bikes**: range is a hard limit, not a preference — see the 50cc day-trip range guide.
+- **50cc or electric bikes**: range is a hard limit, not a preference — see the [50cc day-trip range guide]({{ '/articles/50cc-day-trip-range-limits/' | relative_url }}).
 
 ## A simple rule of thumb
 

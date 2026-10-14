@@ -22,7 +22,7 @@ sources:
 internal_link_targets: honda-wave-rsx-review, esp-vs-blue-core-engines-explained, best-motorbike-for-commuting-hanoi, best-motorbike-for-two-people-hanoi, carburettor-vs-fuel-injection-vietnam, 125cc-vs-110cc-underbones, most-comfortable-underbones-vietnam-verified
 ---
 
-The Future 125 FI is Honda Vietnam's step-up underbone: more engine, more torque, a bigger tank and a plusher ride than the 110 class, while staying in the easy-riding semi-automatic format. Every figure below comes from the official Honda Vietnam Future 125 FI product page (retrieved 23 September 2026).
+The Future 125 FI is Honda Vietnam's step-up underbone: more engine, more torque, a bigger tank and a plusher ride than the 110 class, while staying in the easy-riding [semi-automatic format]({{ '/articles/how-to-shift-gears-semi-automatic-underbone/' | relative_url }}). Every figure below comes from the official Honda Vietnam Future 125 FI product page (retrieved 23 September 2026).
 
 ## Engine and performance
 
@@ -43,4 +43,4 @@ Honda lists three versions - Standard, Premium and Special - from 30,622,909 VND
 
 ## Who it suits
 
-Commuters who ride two-up or carry loads, longer-distance riders who want range, and anyone stepping up from a 110 who does not want a scooter. If your priority is a cheap commuter instead, the Wave RSX review covers the fuel-injected 110 option. Contact us to confirm current availability for rental.
+Commuters who ride two-up or carry loads, longer-distance riders who want range, and anyone stepping up from a 110 who does not want a scooter. If your priority is a cheap commuter instead, the [Wave RSX review]({{ '/articles/honda-wave-rsx-review/' | relative_url }}) covers the fuel-injected 110 option. Contact us to confirm current availability for rental.

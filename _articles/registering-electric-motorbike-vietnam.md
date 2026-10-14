@@ -35,7 +35,7 @@ The registration certificate binds the frame number to a lawful first registrati
 
 ## The cost of getting it wrong
 
-Under Decree 168/2024/NĐ-CP, riding without a registration certificate is a 2,000,000–3,000,000 VND violation under Article 14(2), with the bike subject to being held; riding without plates — or with plates that are fake, altered or unreadable — is a 4,000,000–6,000,000 VND violation with six licence points deducted under Article 14(3). Where a machine's lawful origin cannot be proven, confiscation is on the table. Those bands are per offence, electric or petrol alike.
+Under Decree 168/2024/NĐ-CP, riding without a registration certificate is a 2,000,000–3,000,000 VND violation under Article 14(2), with the bike subject to being held; [riding without plates]({{ '/articles/riding-without-number-plates-vietnam/' | relative_url }}) — or with plates that are fake, altered or unreadable — is a 4,000,000–6,000,000 VND violation with six licence points deducted under Article 14(3). Where a machine's lawful origin cannot be proven, confiscation is on the table. Those bands are per offence, electric or petrol alike.
 
 ## Practical notes for buyers and renters
 

@@ -32,7 +32,7 @@ An officer signals with a baton or hand; you reduce speed and stop where directe
 
 ## Documents
 
-Produce what the law requires riders to carry: licence, vehicle registration certificate, compulsory insurance certificate. Not carrying a required document is a 200,000–300,000 VND fine per missing paper under Article 18 of Decree 168/2024/NĐ-CP — but the checkpoint encounter goes better when the papers exist at all. Foreigners on an IDP carry the permit plus the national licence.
+Produce what the law requires riders to carry: licence, vehicle registration certificate, [compulsory insurance certificate]({{ '/articles/compulsory-motorbike-insurance-vietnam/' | relative_url }}). [Not carrying a required document]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) is a 200,000–300,000 VND fine per missing paper under Article 18 of Decree 168/2024/NĐ-CP — but the checkpoint encounter goes better when the papers exist at all. Foreigners on an IDP carry the permit plus the national licence.
 
 ## If a fine is issued
 

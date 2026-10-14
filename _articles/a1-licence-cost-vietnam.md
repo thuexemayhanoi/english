@@ -39,6 +39,6 @@ The licence itself has no expiry for A1, so there is no renewal line-item ever. 
 
 ## A note for foreigners
 
-Foreigners holding a valid national motorbike licence usually pay far less overall, because the exchange route skips the training course — dossier, translation and issuance only. Before paying for a course, check whether your licence can be exchanged: the savings are the whole course fee.
+Foreigners holding a valid national motorbike licence usually pay far less overall, because the [exchange route]({{ '/articles/foreign-licence-exchange-vietnam/' | relative_url }}) skips the training course — dossier, translation and issuance only. Before paying for a course, check whether your licence can be exchanged: the savings are the whole course fee.
 
 *Information, not legal advice. State fees verified against Circular 154/2025/TT-BTC; package pricing reflects published market sources from 2025 and varies by centre. Verified 2026-09-22.*

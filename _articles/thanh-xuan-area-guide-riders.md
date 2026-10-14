@@ -27,7 +27,7 @@ Thanh Xuan is the southwest quadrant of central Hanoi: a dense band of apartment
 
 ## What the area is
 
-Thanh Xuan is where mid-city Hanoi turns modern: high-rise campuses around Nguyen Trai and Khuong Trung, shopping malls along the main corridors, and a concentration of underpasses that keep the big junctions flowing. The Trung Hoa and Le Van Luong underpasses — two of Hanoi's dedicated motorbike-and-car tunnels — sit on or beside its borders, alongside the Thanh Xuan underpass. The Nguyen Trai corridor is the spine, running southwest toward Ha Dong.
+Thanh Xuan is where mid-city Hanoi turns modern: high-rise campuses around Nguyen Trai and Khuong Trung, shopping malls along the main corridors, and a concentration of underpasses that keep the big junctions flowing. The Trung Hoa and Le Van Luong [underpasses]({{ '/articles/hanoi-motorbike-tunnels-underpasses/' | relative_url }}) — two of Hanoi's dedicated motorbike-and-car tunnels — sit on or beside its borders, alongside the Thanh Xuan underpass. The Nguyen Trai corridor is the spine, running southwest toward Ha Dong.
 
 ## How it rides
 

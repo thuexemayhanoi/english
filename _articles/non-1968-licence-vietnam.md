@@ -28,7 +28,7 @@ If your country is not party to the 1968 Vienna Convention on Road Traffic — o
 
 ## Route one: exchange as a resident
 
-For riders with residence papers of at least three months, the exchange under Circular 12/2025/TT-BCA is open regardless of convention membership: what matters is a national licence valid in its issuing country, the certified translation, and the residence record. A 1949-convention national licence exchanges exactly like any other valid licence.
+For riders with residence papers of at least three months, the [exchange under Circular 12/2025/TT-BCA]({{ '/articles/foreign-licence-exchange-vietnam/' | relative_url }}) is open regardless of convention membership: what matters is a national licence valid in its issuing country, the certified translation, and the residence record. A 1949-convention national licence exchanges exactly like any other valid licence.
 
 ## Route two: a 1968-convention permit
 
@@ -40,6 +40,6 @@ A tourist from a non-1968 country with no residence papers has no legal route to
 
 ## Why rental shops ask
 
-Shops that check licence documents are not being bureaucratic — the Article 18 bands for riding without recognised licence documents run from 2,000,000–4,000,000 VND (up to 125 cc) to 6,000,000–8,000,000 VND above, and both rider and the person who supplied the machine are exposed. A shop that waves a non-recognised licence through is doing so at your legal expense.
+Shops that check licence documents are not being bureaucratic — the [Article 18 bands]({{ '/articles/no-licence-fine-vietnam/' | relative_url }}) for riding without recognised licence documents run from 2,000,000–4,000,000 VND (up to 125 cc) to 6,000,000–8,000,000 VND above, and both rider and the person who supplied the machine are exposed. A shop that waves a non-recognised licence through is doing so at your legal expense.
 
 *Information, not legal advice. Verified against Law 36/2024/QH15 and Circular 12/2025/TT-BCA on 2026-09-22.*

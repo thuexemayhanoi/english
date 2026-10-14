@@ -31,7 +31,7 @@ The default is one passenger. Carrying two — three people on the bike — is p
 
 ## The helmet rule for children
 
-Every child on a motorbike needs a helmet meeting the national standard, fastened correctly. There is no general age exemption from wearing one — small children need properly sized helmets, which rental shops and markets stock. The narrow exemption that exists is about the helmetless-passenger fine: carrying someone without a helmet is not fined when that person is a child under 6 (or a patient being taken for medical care, or an escorted violator). The exemption is about the fine for the rider, not a statement that helmets are optional for small children.
+Every child on a motorbike needs a helmet meeting the national standard, fastened correctly. There is no general age exemption from wearing one — small children need properly sized helmets, which rental shops and markets stock. The narrow exemption that exists is about the [helmetless-passenger fine]({{ '/articles/helmet-law-vietnam/' | relative_url }}): carrying someone without a helmet is not fined when that person is a child under 6 (or a patient being taken for medical care, or an escorted violator). The exemption is about the fine for the rider, not a statement that helmets are optional for small children.
 
 ## Why this matters more for visitors
 
@@ -39,6 +39,6 @@ Foreign riders are less accustomed to carrying children in dense traffic and ten
 
 ## The fines
 
-Carrying a passenger outside the permitted cases is 400,000–600,000 VND under Article 7(2) of Decree 168/2024/NĐ-CP; carrying three or more riders is a heavier violation with licence-point deduction, and any overload that contributes to a crash moves the case into the accident-causing band. The child exception keeps the school run legal — it does not keep three adults on one bike legal.
+[Carrying a passenger outside the permitted cases]({{ '/articles/motorbike-passenger-rules-vietnam/' | relative_url }}) is 400,000–600,000 VND under Article 7(2) of Decree 168/2024/NĐ-CP; carrying three or more riders is a heavier violation with licence-point deduction, and any overload that contributes to a crash moves the case into the accident-causing band. The child exception keeps the school run legal — it does not keep three adults on one bike legal.
 
 *Information, not legal advice. Verified against Law 36/2024/QH15 and Decree 168/2024/NĐ-CP on 2026-09-22.*

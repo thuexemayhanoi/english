@@ -25,7 +25,7 @@ Vietnam's 125 cc underbone class is small but covers three very different machin
 
 ## The verified field
 
-Honda Future 125 FI, Honda Super Cub C125 and Honda CT125.
+[Honda Future 125 FI]({{ '/articles/honda-future-125-review/' | relative_url }}), [Honda Super Cub C125]({{ '/articles/honda-super-cub-c125-review/' | relative_url }}) and [Honda CT125]({{ '/articles/honda-ct125-review/' | relative_url }}).
 
 ## Torque (published)
 

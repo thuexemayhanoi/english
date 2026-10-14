@@ -31,7 +31,7 @@ The article treats several situations the same. Having no licence at all is the 
 
 ## Beyond the fine
 
-The monetary penalty is the beginning. The rider's case feeds into the licence-points system where applicable, the bike can be held, and the owner who supplied the machine faces their own Article 32 penalty of 8,000,000–10,000,000 VND for lending to an unqualified rider. If the unlicensed rider causes an accident, the 10,000,000–14,000,000 VND accident band and potential criminal liability take over, and insurance positions unravel quickly.
+The monetary penalty is the beginning. The rider's case feeds into the [licence-points system]({{ '/articles/motorbike-licence-points-system-vietnam/' | relative_url }}) where applicable, the bike can be held, and the [owner who supplied the machine]({{ '/articles/lending-motorbike-unlicensed-rider-vietnam/' | relative_url }}) faces their own Article 32 penalty of 8,000,000–10,000,000 VND for lending to an unqualified rider. If the unlicensed rider causes an accident, the 10,000,000–14,000,000 VND accident band and potential criminal liability take over, and insurance positions unravel quickly.
 
 ## Why the bands are split at 125 cc
 

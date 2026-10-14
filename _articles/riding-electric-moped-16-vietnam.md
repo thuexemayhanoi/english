@@ -26,7 +26,7 @@ Sixteen is the youngest age at which Vietnamese law lets you ride a powered two-
 
 ## What the law allows at 16
 
-Article 34(1)(g) of Law 36/2024/QH15 defines the moped class as 4 kW or less and designed for no more than 50 km/h; the age rule in Article 59 sets 16 as the minimum for riding one, with no licence obligation. That makes sub-4 kW electric scooters the standard first motorised vehicle for Vietnamese students — the exact market VinFast targeted with the licence-free Evo Lite and the pedal-assisted Amio (800 W, 30 km/h).
+Article 34(1)(g) of Law 36/2024/QH15 defines the moped class as 4 kW or less and designed for no more than 50 km/h; the [age rule]({{ '/articles/riding-50cc-at-16-vietnam/' | relative_url }}) in Article 59 sets 16 as the minimum for riding one, with no licence obligation. That makes sub-4 kW electric scooters the standard first motorised vehicle for Vietnamese students — the exact market VinFast targeted with the [licence-free]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}) Evo Lite and the pedal-assisted Amio (800 W, 30 km/h).
 
 ## What is still required
 

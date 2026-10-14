@@ -22,7 +22,7 @@ sources:
 internal_link_targets: "motorbike-required-equipment-vietnam, helmet-law-vietnam, motorbike-fines-vietnam-overview, motorbike-speed-limits-vietnam, riding-on-sidewalk-vietnam"
 ---
 
-Short answer: from 18:00 to 06:00, and whenever fog, smoke, dust, rain or bad weather cuts visibility, a motorbike's lights must be on. Riding unlit in those conditions is a violation under Article 7(1)(g) of Decree 168/2024/NĐ-CP at 200,000–400,000 VND. Tunnels have their own rule — dipped beams inside, at 600,000–800,000 VND — and a broken or missing headlight is an equipment defect at 400,000–600,000 VND before the light-use rule is even reached.
+Short answer: from 18:00 to 06:00, and whenever fog, smoke, dust, rain or bad weather cuts visibility, a motorbike's lights must be on. Riding unlit in those conditions is a [violation]({{ '/articles/motorbike-fines-vietnam-overview/' | relative_url }}) under Article 7(1)(g) of Decree 168/2024/NĐ-CP at 200,000–400,000 VND. Tunnels have their own rule — dipped beams inside, at 600,000–800,000 VND — and a broken or missing headlight is an equipment defect at 400,000–600,000 VND before the light-use rule is even reached.
 
 ## The window the rule names
 

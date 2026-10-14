@@ -23,7 +23,7 @@ sources:
 internal_link_targets: documents-to-carry-motorbike-vietnam, motorbike-accident-duties-vietnam, motorbike-fines-vietnam-overview, helmet-law-vietnam, do-you-need-insurance-for-50cc-vietnam
 ---
 
-Yes — motorbike insurance is compulsory in Vietnam, and it is not the optional comprehensive kind. Article 56 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires every vehicle owner participating in traffic to hold compulsory civil-liability insurance, detailed in Decree 67/2023/NĐ-CP. The certificate must be carried when riding.
+Yes — motorbike insurance is compulsory in Vietnam, and it is not the optional comprehensive kind. Article 56 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires every vehicle owner participating in traffic to hold compulsory civil-liability insurance, detailed in Decree 67/2023/NĐ-CP. The certificate [must be carried when riding]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}).
 
 ## What it covers
 
@@ -34,7 +34,7 @@ Rental shops carry this cover on their fleets, and the certificate copy normally
 
 ## The fine for riding without it
 
-Under Article 18(2) of Decree 168/2024/NĐ-CP, a motorbike rider who cannot produce a valid compulsory insurance certificate is fined 200,000–300,000 VND — the same band as forgetting any other required document. The real exposure is not the fine. Without valid insurance, a rider who causes an accident pays compensation out of their own pocket, at amounts the insurance scheme exists to cap.
+Under Article 18(2) of Decree 168/2024/NĐ-CP, a motorbike rider who cannot produce a valid compulsory insurance certificate is fined 200,000–300,000 VND — the same band as [forgetting any other required document]({{ '/articles/motorbike-fines-vietnam-overview/' | relative_url }}). The real exposure is not the fine. Without valid insurance, a rider who causes an accident pays compensation out of their own pocket, at amounts the insurance scheme exists to cap.
 
 ## A note on rental deposits
 

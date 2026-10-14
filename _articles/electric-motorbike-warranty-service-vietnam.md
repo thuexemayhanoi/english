@@ -21,7 +21,7 @@ sources:
 internal_link_targets: "electric-motorbike-maintenance-basics, buying-used-electric-motorbike-vietnam, vinfast-battery-rental-vs-buying, electric-motorbike-battery-replacement-vietnam, electric-motorbike-parts-availability-vietnam"
 ---
 
-Warranty terms decide who pays when an electric motorbike goes wrong, and with electrics the interesting clauses are all about the battery. Here is what the manufacturers publish, and how service differs from the petrol world.
+Warranty terms decide who pays when an electric motorbike goes wrong, and with electrics the interesting clauses are all about [the battery]({{ '/articles/electric-motorbike-battery-replacement-vietnam/' | relative_url }}). Here is what the manufacturers publish, and how service differs from the petrol world.
 
 ## What official terms look like
 

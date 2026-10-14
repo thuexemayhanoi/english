@@ -33,7 +33,7 @@ Hanoi's old guild logic survives in the specialist trade streets: fabric streets
 
 ## The malls
 
-The malls and big-box stores are the easy layer: every one has a large attended motorbike garage, and the garage-to-escalator run is the safest cargo flow in the city. This is where the weekly shop belongs: park in the basement, buy the heavy things, and let the garage attendants help you load. For big hauls, a top box or a rear rack turns the trip from risky to trivial.
+The malls and big-box stores are the easy layer: every one has a large attended motorbike garage, and the garage-to-escalator run is the safest cargo flow in the city. This is where the weekly shop belongs: park in the basement, buy the heavy things, and let the garage attendants help you load. For big hauls, [a top box or a rear rack]({{ '/articles/top-boxes-racks-motorbike-vietnam/' | relative_url }}) turns the trip from risky to trivial.
 
 ## Carrying it home
 

@@ -22,7 +22,7 @@ sources:
 internal_link_targets: "unregistered-motorbike-fine-vietnam, documents-to-carry-motorbike-vietnam, motorbike-required-equipment-vietnam, fake-licence-penalties-vietnam, motorbike-fines-vietnam-overview"
 ---
 
-Short answer: a motorbike riding without plates — or with plates not issued by the authorities, or plates that do not match the registration certificate — is a violation in the 4,000,000–6,000,000 VND band under Article 14(3) of Decree 168/2024/NĐ-CP. Six points come off the licence, and where the plates are not genuine, they are confiscated. Not having plates is priced like the serious identity violation it is.
+Short answer: a motorbike riding without plates — or with plates not issued by the authorities, or plates that do not match the [registration certificate]({{ '/articles/unregistered-motorbike-fine-vietnam/' | relative_url }}) — is a violation in the [4,000,000–6,000,000 VND band]({{ '/articles/motorbike-fines-vietnam-overview/' | relative_url }}) under Article 14(3) of Decree 168/2024/NĐ-CP. Six points come off the licence, and where the plates are not genuine, they are confiscated. Not having plates is priced like the serious identity violation it is.
 
 ## What counts as a plate violation
 

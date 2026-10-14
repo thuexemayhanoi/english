@@ -24,7 +24,7 @@ The Viper and Feliz II are mechanical twins — same 3,000 W BLDC in-hub motor, 
 
 ## What the Viper adds (official)
 
-- Smart Key system with vehicle tracking
+- [Smart Key system]({{ '/articles/electric-motorbike-smart-features/' | relative_url }}) with vehicle tracking
 - Remote vehicle-finding
 - Remote on/off control for anti-theft support
 - LED projector headlights
@@ -37,7 +37,7 @@ The inherited, familiar scooter body of Vietnam's best-known electric family —
 
 ## How to decide
 
-**Choose the Viper if** security and lighting matter to your life: tracking plus remote immobilisation materially changes theft risk for street parkers, and projector LED lighting is a real night-riding upgrade. The upgraded dual rear shocks also suit rougher routes and heavier loads.
+**Choose the [Viper]({{ '/articles/vinfast-viper-review/' | relative_url }}) if** security and lighting matter to your life: tracking plus remote immobilisation materially changes [theft risk]({{ '/articles/electric-motorbike-theft-security-vietnam/' | relative_url }}) for street parkers, and projector LED lighting is a real night-riding upgrade. The upgraded dual rear shocks also suit rougher routes and heavier loads.
 
 **Choose the Feliz II if** you value the traditional format and would rather spend the difference on batteries you own or extra swap credit — the riding performance is identical by specification.
 

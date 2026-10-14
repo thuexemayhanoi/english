@@ -21,11 +21,11 @@ sources:
 internal_link_targets: "electric-motorbike-range-real-world-vietnam, electric-two-wheeler-speed-classes-vietnam, vinfast-vs-dat-bike-ecosystems, where-to-charge-electric-motorbike-hanoi, long-distance-electric-motorbike-touring-vietnam"
 ---
 
-Electric two-wheelers have quietly become day-trip machines — Dat Bike itself markets the Weaver 200 with Hanoi–Ha Long as an example trip. The skill that makes it work is honest range math.
+Electric two-wheelers have quietly become day-trip machines — Dat Bike itself markets the [Weaver 200]({{ '/articles/dat-bike-weaver-200-review/' | relative_url }}) with Hanoi–Ha Long as an example trip. The skill that makes it work is honest range math.
 
 ## Step 1: Know your real number
 
-Take the claimed range and cut it for your actual pace. The Weaver 200's own official figures give the method: 200 km at 35 km/h, 130 km at 70 km/h. Trip riding sits between the two, loaded and into wind: plan on roughly 60-70 percent of the low-speed claim for a mixed-speed day.
+Take the [claimed range]({{ '/articles/electric-motorbike-range-real-world-vietnam/' | relative_url }}) and cut it for your actual pace. The Weaver 200's own official figures give the method: 200 km at 35 km/h, 130 km at 70 km/h. Trip riding sits between the two, loaded and into wind: plan on roughly 60-70 percent of the low-speed claim for a mixed-speed day.
 
 ## Step 2: Route out the charge stops
 

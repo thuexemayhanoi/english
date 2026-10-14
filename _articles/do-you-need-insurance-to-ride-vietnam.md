@@ -24,7 +24,7 @@ Legally? No - the law requires insurance on the vehicle, not the person. Practic
 
 ## What the law requires
 
-Compulsory third-party insurance on every registered motorbike. It comes with any legal rental (ask to see the certificate), and it covers damage the bike causes to others. That is the whole legal requirement - there is no legal obligation on you personally to hold medical or travel insurance.
+[Compulsory third-party insurance]({{ '/articles/compulsory-motorbike-insurance-vietnam/' | relative_url }}) on every registered motorbike. It comes with any legal rental (ask to see the certificate), and it covers damage the bike causes to others. That is the whole legal requirement - there is no legal obligation on you personally to hold medical or travel insurance.
 
 ## Why you need it anyway
 

@@ -20,7 +20,7 @@ sources:
 internal_link_targets: honda-wave-rsx-review, honda-ct125-review, honda-ct125-vs-honda-super-cub-c125, honda-blade-vs-honda-ct125, underbone-wheelbase-ground-clearance-explained, best-125cc-underbones-vietnam-verified
 ---
 
-Both Hondas have step-through frames and foot-shift gearboxes, but they were designed for different lives. The Wave RSX is a commuter tuned for economy; the CT125 is an adventure-styled Cub with the highest ground clearance in Honda Vietnam's current underbone range. All figures below come from Honda Vietnam's official pages (retrieved 23 September 2026).
+Both Hondas have step-through frames and foot-shift gearboxes, but they were designed for different lives. The [Wave RSX]({{ '/articles/honda-wave-rsx-review/' | relative_url }}) is a commuter tuned for economy; the [CT125]({{ '/articles/honda-ct125-review/' | relative_url }}) is an adventure-styled Cub with the highest ground clearance in Honda Vietnam's current underbone range. All figures below come from Honda Vietnam's official pages (retrieved 23 September 2026).
 
 ## The core difference
 

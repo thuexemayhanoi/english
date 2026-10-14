@@ -24,7 +24,7 @@ sources:
 internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, mountain-pass-riding-motorbike-vietnam, riding-downhill-motorbike-engine-braking, tam-dao-day-trip-motorbike, how-to-rent-a-motorbike-hanoi, bac-ninh-craft-loop-motorbike-ride"
 ---
 
-Ba Vi is the big forested massif you can see from western Hanoi on clear days, and riding into it is one of the most satisfying day trips from the city: about 60–70 kilometres out, then a long, cool climb through pine and cloud forest inside the national park. Count on roughly an hour and a half to reach the park area, plus the climb itself.
+Ba Vi is the big forested massif you can see from western Hanoi on clear days, and riding into it is one of the most satisfying [day trips from the city]({{ '/topics/trips/' | relative_url }}): about 60–70 kilometres out, then a long, cool climb through pine and cloud forest inside the national park. Count on roughly an hour and a half to reach the park area, plus the climb itself.
 
 ## Getting there
 

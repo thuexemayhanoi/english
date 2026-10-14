@@ -21,7 +21,7 @@ sources:
 internal_link_targets: "riding-electric-moped-16-vietnam, why-electric-mopeds-capped-50kmh-vietnam, buying-first-electric-motorbike-vietnam, electric-moped-vs-electric-motorcycle-vietnam, charging-electric-motorbike-apartment-rental, electric-motorbike-older-riders-vietnam"
 ---
 
-For students, the sub-4 kW moped class is the sweet spot of Vietnamese electric motoring: no licence, ride from 16, cheap to run, and purpose-built for the school run.
+For students, the [sub-4 kW moped class]({{ '/articles/electric-moped-vs-electric-motorcycle-vietnam/' | relative_url }}) is the sweet spot of Vietnamese electric motoring: no licence, [ride from 16]({{ '/articles/riding-electric-moped-16-vietnam/' | relative_url }}), cheap to run, and purpose-built for the school run.
 
 ## What the class gives you
 

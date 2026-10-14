@@ -32,7 +32,7 @@ For the renter, the trade is poor. Your passport is your primary legal identity 
 
 ## The cash alternative
 
-Standard Hanoi practice - and the practice here - is a cash deposit, typically 2,000,000-5,000,000 VND depending on the bike, returned in full when the bike comes back in its handover condition. It gives the shop the same security with none of your documents held. Pay the rent by cash, bank transfer or QR payment as you prefer.
+Standard Hanoi practice - and the practice here - is a [cash deposit]({{ '/articles/motorbike-rental-deposit-hanoi/' | relative_url }}), typically 2,000,000-5,000,000 VND depending on the bike, [returned in full]({{ '/articles/how-deposit-returns-work-hanoi/' | relative_url }}) when the bike comes back in its handover condition. It gives the shop the same security with none of your documents held. Pay the rent by cash, bank transfer or QR payment as you prefer.
 
 ## What to check before handing over anything
 

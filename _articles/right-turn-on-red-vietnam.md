@@ -24,7 +24,7 @@ sources:
 internal_link_targets: "motorbike-fines-vietnam-overview, wrong-way-riding-fine-vietnam, documents-to-carry-motorbike-vietnam"
 ---
 
-Vietnam has no general right-turn-on-red rule. A red light means stop for every direction unless a specific authorisation exists at that junction. Riders used to the American system must switch the reflex off: turning right across a red without one of the permitted cases is punished as disobeying a traffic signal — 4,000,000–6,000,000 VND for motorbikes under Article 7(7) of Decree 168/2024/NĐ-CP.
+Vietnam has no general right-turn-on-red rule. A red light means stop for every direction unless a specific authorisation exists at that junction. Riders used to the American system must switch the reflex off: turning right across a red without one of the permitted cases is punished as [disobeying a traffic signal]({{ '/articles/traffic-light-rules-vietnam/' | relative_url }}) — 4,000,000–6,000,000 VND for motorbikes under Article 7(7) of Decree 168/2024/NĐ-CP.
 
 ## The cases where right on red is allowed
 

@@ -24,11 +24,11 @@ sources:
 internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, hanoi-pagodas-temples-motorbike-guide, temple-of-literature-motorbike-visit, how-to-rent-a-motorbike-hanoi, what-to-wear-riding-motorbike-vietnam, perfume-pagoda-motorbike-trip"
 ---
 
-Two of the most atmospheric pagodas near Hanoi sit in the hills southwest of the city: Thay Pagoda, the 11th-century home of Vietnamese water puppetry, and Tay Phuong Pagoda, famous for its lacquered arhat statues. The pair is about 30 kilometres out — a half-day trip on the bike, and one of the shortest rides on this site that still feels like leaving the city entirely.
+Two of the most atmospheric pagodas near Hanoi sit in the hills southwest of the city: Thay Pagoda, the 11th-century home of Vietnamese water puppetry, and Tay Phuong Pagoda, famous for its lacquered arhat statues. The pair is about 30 kilometres out — a half-day trip on the bike, and [one of the shortest rides on this site]({{ '/topics/trips/' | relative_url }}) that still feels like leaving the city entirely.
 
 ## The ride
 
-From central Hanoi, head southwest past the built-up districts and out toward Quoc Oai on the main corridor; total distance to the pagoda area is around 30 kilometres, or roughly 45 minutes of riding in light traffic. The two pagodas are a short ride apart, so the sensible plan is Thay first, then loop to Tay Phuong, then roll home the same corridor. The roads are plain, surfaced and flat — no technical challenge, only the usual attention needed at junctions and market-town crossings.
+From central Hanoi, head southwest past the built-up districts and out toward Quoc Oai on the main corridor; total distance to the pagoda area is around 30 kilometres, or roughly 45 minutes of riding in light traffic. The [two pagodas]({{ '/articles/hanoi-pagodas-temples-motorbike-guide/' | relative_url }}) are a short ride apart, so the sensible plan is Thay first, then loop to Tay Phuong, then roll home the same corridor. The roads are plain, surfaced and flat — no technical challenge, only the usual attention needed at junctions and market-town crossings.
 
 ## Thay Pagoda
 

@@ -23,7 +23,7 @@ sources:
 internal_link_targets: "wrong-way-riding-fine-vietnam, motorbike-lane-rules-vietnam, motorbike-fines-vietnam-overview, motorbike-passenger-rules-vietnam"
 ---
 
-Riding a motorbike on the sidewalk — đi lên vỉa hè — is a violation in the same band as running a red light: 4,000,000–6,000,000 VND under Article 7(7) of Decree 168/2024/NĐ-CP, with licence-point deduction. The band's severity is deliberate: sidewalk riding mixes motor traffic with the one place pedestrians are supposed to be safe from it.
+Riding a motorbike on the sidewalk — đi lên vỉa hè — is a violation in the same band as running a red light: 4,000,000–6,000,000 VND under Article 7(7) of Decree 168/2024/NĐ-CP, with [licence-point deduction]({{ '/articles/motorbike-licence-points-system-vietnam/' | relative_url }}). The band's severity is deliberate: sidewalk riding mixes motor traffic with the one place pedestrians are supposed to be safe from it.
 
 ## What counts
 
@@ -35,7 +35,7 @@ The road law treats sidewalks as part of the road space reserved for pedestrians
 
 ## Why the fine is that high
 
-The 2025 schedule raised sidewalk riding from the small-change bands to the 4–6 million band, together with red-light running and wrong-way riding — a trio aimed at the violations that most often injure pedestrians. In dense neighbourhoods the sidewalk is where the elderly, children and market shoppers are; the law prices their space accordingly.
+The 2025 schedule raised sidewalk riding from the small-change bands to the 4–6 million band, together with [red-light running]({{ '/articles/red-light-fine-vietnam/' | relative_url }}) and [wrong-way riding]({{ '/articles/wrong-way-riding-fine-vietnam/' | relative_url }}) — a trio aimed at the violations that most often injure pedestrians. In dense neighbourhoods the sidewalk is where the elderly, children and market shoppers are; the law prices their space accordingly.
 
 ## The rental context
 

@@ -26,7 +26,7 @@ Vietnam's domestic aviation market is dominated by two carriers — flag carrier
 
 ## When flying is clearly right
 
-Short trips. If you have ten days in Vietnam and want Hanoi plus Phu Quoc, or Hanoi plus the Mekong Delta, flying is the only way the arithmetic works. Budget airlines price early bookings aggressively, and the flight itself is a rounding error against the value of your limited days.
+Short trips. If you have ten days in Vietnam and want Hanoi plus Phu Quoc, or Hanoi plus the [Mekong Delta]({{ '/articles/mekong-delta-motorbike-guide/' | relative_url }}), flying is the only way the arithmetic works. Budget airlines price early bookings aggressively, and the flight itself is a rounding error against the value of your limited days.
 
 Weather windows. If the season in the region you would have to cross is wrong — central Vietnam during the autumn typhoon months, for example — flying over it and renting on the far side is simply better planning than slogging through.
 
@@ -34,7 +34,7 @@ Rider logistics. Almost nobody flies with a motorbike: the practical pattern is 
 
 ## When riding still wins
 
-The distances that matter to a tourist are rarely the whole country. The classic Vietnam riding content — Ha Giang, Mai Chau, Pu Luong, the Hai Van Pass, the Ho Chi Minh Road — is regional. You do not need to cross 1,700 kilometres to have a world-class motorbike trip; you need a bike and three or four days in the right province. Our guide to the full Hanoi-Ho Chi Minh City ride exists for the minority with a month; for everyone else, a flight plus a regional rental delivers the same experience with less fatigue.
+The distances that matter to a tourist are rarely the whole country. The classic Vietnam riding content — Ha Giang, Mai Chau, Pu Luong, the Hai Van Pass, the Ho Chi Minh Road — is regional. You do not need to cross 1,700 kilometres to have a world-class motorbike trip; you need a bike and three or four days in the right province. Our [guide to the full Hanoi-Ho Chi Minh City ride]({{ '/articles/hanoi-to-ho-chi-minh-city-by-motorbike/' | relative_url }}) exists for the minority with a month; for everyone else, a flight plus a regional rental delivers the same experience with less fatigue.
 
 Cost flips, too, once you count everything. A promotional flight is cheap, but add airport transfers, baggage fees on the budget carriers, and taxis at both ends, and a small motorbike doing 400 kilometres of regional riding is competitive — and it was never a fair comparison to begin with, because the bike's fuel money also bought the scenery.
 

@@ -21,7 +21,7 @@ sources:
 internal_link_targets: "honda-blade-110-review, yamaha-sirius-rc-110-review, honda-wave-alpha-vs-yamaha-sirius, honda-wave-rsx-vs-yamaha-sirius, best-110cc-underbones-vietnam-verified, honda-blade-vs-honda-winner-r"
 ---
 
-Two budget 110s, nearly the same price, very different characters. All figures below come from the official Honda Vietnam and Yamaha Vietnam product pages (retrieved 23 September 2026).
+[Two budget 110s]({{ '/articles/best-110cc-underbones-vietnam-verified/' | relative_url }}), nearly the same price, very different characters. All figures below come from the official Honda Vietnam and Yamaha Vietnam product pages (retrieved 23 September 2026).
 
 ## Engines
 

@@ -29,15 +29,15 @@ Vietnam's electric two-wheeler market is best understood not as one market but a
 
 ## Shelf 1: The swap ecosystem
 
-VinFast anchors the licence-free scooter class with a platform of removable 1.5 kWh LFP packs (Evo, Evo Lite, Feliz II, Viper, plus the pedal-assist Amio) and battery economics of 175,000–300,000 VND monthly rental and 9,000 VND per swap. The infrastructure is the story: V-Green installed its first 4,500 swap stations by mid-January 2026, with 45,000 cabinets planned across 34 provinces and cities. Buying into this shelf means buying range-as-a-service.
+[VinFast]({{ '/articles/vinfast-electric-scooter-lineup-vietnam/' | relative_url }}) anchors the licence-free scooter class with a platform of removable 1.5 kWh LFP packs (Evo, Evo Lite, Feliz II, Viper, plus the pedal-assist Amio) and battery economics of 175,000–300,000 VND monthly rental and 9,000 VND per swap. The infrastructure is the story: V-Green installed its first 4,500 swap stations by mid-January 2026, with 45,000 cabinets planned across 34 provinces and cities. Buying into this shelf means buying range-as-a-service.
 
 ## Shelf 2: The A1 charge-at-home class
 
-Dat Bike builds the above-4 kW class: the Weaver (5,000 W, 100 km), Weaver 200 (6,000 W, 200 km, with a 150,000 km battery-life claim) and the mid-motor Weaver++ with its 20-minute fast charging at Dat Charge stations. These are motorcycles in law and in intent — A1 licence required — owned and charged like cars: at home, overnight, with the option of a fast top-up on the road.
+[Dat Bike]({{ '/articles/dat-bike-lineup-vietnam-guide/' | relative_url }}) builds the above-4 kW class: the Weaver (5,000 W, 100 km), Weaver 200 (6,000 W, 200 km, with a 150,000 km battery-life claim) and the mid-motor Weaver++ with its 20-minute fast charging at Dat Charge stations. These are motorcycles in law and in intent — A1 licence required — owned and charged like cars: at home, overnight, with the option of a fast top-up on the road.
 
 ## Shelf 3: The budget e-bike shelf
 
-Yadea's official Vietnamese price list runs from the XBULL H at 13,990,000 VND to the Velax U at 52,990,000 VND — a broad shelf of small machines at moped-class prices, sold through a dealer network. (Yadea's spec tables were not readable in our verified retrieval, so no Yadea performance figures appear anywhere on this site.) This shelf competes on price and simplicity, with the buyer responsible for checking each model's power against the 4 kW licence line.
+Yadea's [official Vietnamese price list]({{ '/articles/yadea-vietnam-lineup-guide/' | relative_url }}) runs from the XBULL H at 13,990,000 VND to the Velax U at 52,990,000 VND — a broad shelf of small machines at moped-class prices, sold through a dealer network. (Yadea's spec tables were not readable in our verified retrieval, so no Yadea performance figures appear anywhere on this site.) This shelf competes on price and simplicity, with the buyer responsible for checking each model's power against the 4 kW licence line.
 
 ## What holds the shelves together
 

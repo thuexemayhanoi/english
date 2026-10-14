@@ -35,11 +35,11 @@ Processing runs on the order of a few working days for straightforward reissues;
 
 ## The exceptions
 
-Two situations change the character of the procedure. First, a lost licence that had already expired: the reissue turns into a validity question, and licences expired for longer periods can require sitting the theory test again before a new one is issued. Second, a lost licence whose points were fully deducted: the reissue waits behind the point-recovery process, because the reissued card would carry zero usable points until they are restored.
+Two situations change the character of the procedure. First, a lost licence that had already expired: the reissue turns into a [validity question]({{ '/articles/motorbike-licence-validity-renewal-vietnam/' | relative_url }}), and licences expired for longer periods can require sitting the theory test again before a new one is issued. Second, a lost licence whose points were fully deducted: the reissue waits behind the point-recovery process, because the reissued card would carry zero usable points until they are restored.
 
 ## While you wait
 
-Riding without carrying your licence is a 200,000–300,000 VND fine per the document-carriage rules; riding with no valid licence at all is a far heavier offence. If the lost licence cannot be located before you need to ride, the safe answer is to wait for the reissue rather than treat the loss as a technicality.
+Riding without carrying your licence is a 200,000–300,000 VND fine per the [document-carriage rules]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}); [riding with no valid licence at all]({{ '/articles/no-licence-fine-vietnam/' | relative_url }}) is a far heavier offence. If the lost licence cannot be located before you need to ride, the safe answer is to wait for the reissue rather than treat the loss as a technicality.
 
 Foreign residents reissuing a Vietnamese licence follow the same file structure plus passport and residence papers — the same documents the exchange procedure uses.
 

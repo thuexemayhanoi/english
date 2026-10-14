@@ -28,7 +28,7 @@ The direct answer: Vietnam sets no separate clock on an IDP. Article 57(8) of th
 
 ## What actually expires
 
-Three dates matter on the IDP rider's documents. The IDP card carries an issue and expiry date set by the issuing authority in the convention's home country — typically one to three years. The national licence has its own validity, which the IDP cannot outlive: a permit translating an expired licence translates nothing. And the rider's residence status, while not printed on any card, changes the practical answer — three months of residence unlocks the exchange route, and long-termers are expected onto it.
+Three dates matter on the IDP rider's documents. The IDP card carries an issue and expiry date set by the issuing authority in the convention's home country — typically one to three years. The national licence has its own validity, which the IDP cannot outlive: [a permit translating an expired licence]({{ '/articles/idp-vietnam-motorbike-rules/' | relative_url }}) translates nothing. And the rider's residence status, while not printed on any card, changes the practical answer — three months of residence unlocks the [exchange route]({{ '/articles/foreign-licence-exchange-vietnam/' | relative_url }}), and [long-termers]({{ '/articles/expat-motorbike-licence-vietnam/' | relative_url }}) are expected onto it.
 
 ## The tourist case
 

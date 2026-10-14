@@ -23,7 +23,7 @@ sources:
 internal_link_targets: "what-is-electric-motorbike-vietnam, electric-moped-vs-electric-motorcycle-vietnam, electric-motorbike-cost-ownership-vietnam, can-foreigners-rent-electric-bike-vietnam, cheapest-electric-motorbikes-vietnam-list-prices"
 ---
 
-Buying your first electric two-wheeler in Vietnam comes down to four questions — get them in order and the model list shrinks to a handful.
+Buying your first electric two-wheeler in Vietnam comes down to four questions — get them in order and the [model list]({{ '/articles/cheapest-electric-motorbikes-vietnam-list-prices/' | relative_url }}) shrinks to a handful.
 
 ## 1. What may you legally ride?
 

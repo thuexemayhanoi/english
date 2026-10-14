@@ -35,11 +35,11 @@ The exceptions are humanitarian and practical, not a loophole for group travel. 
 
 ## Helmets for everyone on the bike
 
-Passenger limits work together with the helmet law. Every person carried on a motorbike — including children — must wear a compliant, fastened helmet, and the fine of 400,000–600,000 VND under Decree 168/2024/NĐ-CP applies to the rider for any unhelmeted occupant, with the same exemptions for medical emergencies and children under 6 that the helmet rules describe.
+Passenger limits work together with the [helmet law]({{ '/articles/helmet-law-vietnam/' | relative_url }}). Every person carried on a motorbike — including children — must wear a compliant, fastened helmet, and the fine of 400,000–600,000 VND under Decree 168/2024/NĐ-CP applies to the rider for any unhelmeted occupant, with the same exemptions for medical emergencies and children under 6 that the helmet rules describe.
 
 ## The fines
 
-Carrying one passenger where the situation does not qualify is fined 400,000–600,000 VND under Article 7(2) of Decree 168/2024/NĐ-CP. Overloading the bike with a third rider is treated more severely, and if the overload contributes to a crash the case can move into the 10,000,000–14,000,000 VND band that applies to violations causing accidents.
+Carrying one passenger where the situation does not qualify is [fined 400,000–600,000 VND]({{ '/articles/motorbike-fines-vietnam-overview/' | relative_url }}) under Article 7(2) of Decree 168/2024/NĐ-CP. Overloading the bike with a third rider is treated more severely, and if the overload contributes to a crash the case can move into the 10,000,000–14,000,000 VND band that applies to violations causing accidents.
 
 ## Riding pillion in Hanoi
 

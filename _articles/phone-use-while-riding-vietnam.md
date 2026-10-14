@@ -23,7 +23,7 @@ sources:
 internal_link_targets: "road-rage-aggressive-drivers-vietnam, motorbike-fines-vietnam-overview, motorbike-lane-rules-vietnam, riding-on-sidewalk-vietnam, drink-driving-limits-motorbike-vietnam, motorbike-speed-limits-vietnam"
 ---
 
-Holding a phone while riding is one of the defined distraction violations of Decree 168/2024/NĐ-CP: 800,000–1,000,000 VND for motorbike riders under Article 7(4)(đ), with licence points deducted besides. The band sits between the small document offences and the signal violations — the law treats the phone as mid-grade dangerous, and the crash statistics agree.
+Holding a phone while riding is one of the defined distraction violations of [Decree 168/2024/NĐ-CP]({{ '/articles/motorbike-fines-vietnam-overview/' | relative_url }}): 800,000–1,000,000 VND for motorbike riders under Article 7(4)(đ), with [licence points deducted]({{ '/articles/motorbike-licence-points-system-vietnam/' | relative_url }}) besides. The band sits between the small document offences and the signal violations — the law treats the phone as mid-grade dangerous, and the crash statistics agree.
 
 ## What exactly is banned
 

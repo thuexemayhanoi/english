@@ -43,6 +43,6 @@ Article 79 of the law allows payment in instalments for large fines: the deadlin
 
 ## What payment does and does not do
 
-Paying the fine settles the administrative case. It does not undo the licence points that a violation carries — points deductions are recorded separately from the money, and they stand. It also does not settle insurance claims between riders; compulsory motorbike insurance handles civil damages on its own track. The article on being stopped by traffic police covers the stop itself; this one covers only what happens after the decision is in your hand.
+Paying the fine settles the administrative case. It does not undo the licence points that a violation carries — points deductions are recorded separately from the money, and they stand. It also does not settle insurance claims between riders; [compulsory motorbike insurance]({{ '/articles/compulsory-motorbike-insurance-vietnam/' | relative_url }}) handles civil damages on its own track. The [article on being stopped by traffic police]({{ '/articles/stopped-by-traffic-police-vietnam/' | relative_url }}) covers the stop itself; this one covers only what happens after the decision is in your hand.
 
 *Information, not legal advice. Verified against the Law on Handling Administrative Violations, Decree 118/2021/NĐ-CP and Decree 168/2024/NĐ-CP on 2026-09-22.*

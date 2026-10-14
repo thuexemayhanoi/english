@@ -21,11 +21,11 @@ sources:
 internal_link_targets: motorbikes-on-expressway-vietnam, renting-motorbike-noi-bai-arrival, crossing-hanoi-bridges-motorbike, hanoi-motorbike-commute-corridors, documents-to-carry-motorbike-vietnam, cold-start-motorbike-winter-vietnam, fog-and-low-visibility-riding-motorbike-vietnam
 ---
 
-The run between central Hanoi and Noi Bai Airport is about 30 kilometres, and a large share of the people who make it do so on two wheels — staff, crews, and travelers with luggage strapped to a scooter rack. Done with the right route and timing, it is a straightforward ride; done badly, it is an hour of stress ending in a missed check-in.
+The run between central Hanoi and [Noi Bai Airport]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) is about 30 kilometres, and a large share of the people who make it do so on two wheels — staff, crews, and travelers with luggage strapped to a scooter rack. Done with the right route and timing, it is a straightforward ride; done badly, it is an hour of stress ending in a missed check-in.
 
 ## The route
 
-The standard motorbike route is the Vo Nguyen Giap avenue corridor: from the centre, cross to the north bank via Nhat Tan bridge (or Thang Long bridge from the west), then follow the wide, divided avenue straight to the airport. Vo Nguyen Giap is the former National Highway 1/airport express corridor rebuilt as a modern boulevard — dual carriageway, few junctions, motorbikes allowed, and surfaced well enough that the ride is genuinely pleasant outside peaks. Signs for "San bay Noi Bai / Noi Bai Airport" appear early and often.
+The standard motorbike route is the Vo Nguyen Giap avenue corridor: from the centre, [cross to the north bank]({{ '/articles/crossing-hanoi-bridges-motorbike/' | relative_url }}) via Nhat Tan bridge (or Thang Long bridge from the west), then follow the wide, divided avenue straight to the airport. Vo Nguyen Giap is the former National Highway 1/airport express corridor rebuilt as a modern boulevard — dual carriageway, few junctions, motorbikes allowed, and surfaced well enough that the ride is genuinely pleasant outside peaks. Signs for "San bay Noi Bai / Noi Bai Airport" appear early and often.
 
 Alternatives: from the west, Thang Long Boulevard toward the Thang Long bridge area then north; from the east side of the river, the older National Highway 3 route through Dong Anh — narrower and slower but useful when Nhat Tan-bound traffic snarls. The expressways proper (the CT-class toll roads) are closed to motorbikes, so do not let a navigation app drag you toward a toll gate — set it to motorbike mode or expect a long detour at the barrier.
 

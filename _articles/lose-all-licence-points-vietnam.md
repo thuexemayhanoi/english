@@ -23,7 +23,7 @@ sources:
 internal_link_targets: "motorbike-licence-points-system-vietnam, motorbike-fines-vietnam-overview, drink-driving-limits-motorbike-vietnam, no-licence-fine-vietnam, motorbike-licence-validity-renewal-vietnam"
 ---
 
-Twelve deductions to zero, and the licence switches off. Under the Law on Road Traffic Order and Safety (No. 36/2024/QH15) and Decree 168/2024/NĐ-CP, a licence that has lost all 12 points cannot be used for driving — not for a scooter to the shop, not "just locally". Riding on it is treated as riding without a valid licence, with the corresponding fines.
+Twelve deductions to zero, and the licence switches off. Under the Law on Road Traffic Order and Safety (No. 36/2024/QH15) and Decree 168/2024/NĐ-CP, a licence that has [lost all 12 points]({{ '/articles/motorbike-licence-points-system-vietnam/' | relative_url }}) cannot be used for driving — not for a scooter to the shop, not "just locally". Riding on it is treated as riding without a valid licence, with the corresponding fines.
 
 ## The mandatory wait
 
@@ -35,7 +35,7 @@ After the six months, the holder registers for a test on road-law knowledge — 
 
 ## Points versus suspension
 
-Zero points is its own condition, separate from a suspension order. A drink-driving suspension suspends the right to use the licence for its stated months; a zero-point licence is unusable until restoration completes. The two can chase each other — a suspension that ends does not restore points, and a points balance does not lift a suspension.
+Zero points is its own condition, separate from a suspension order. A [drink-driving suspension]({{ '/articles/drink-driving-limits-motorbike-vietnam/' | relative_url }}) suspends the right to use the licence for its stated months; a zero-point licence is unusable until restoration completes. The two can chase each other — a suspension that ends does not restore points, and a points balance does not lift a suspension.
 
 ## The practical lesson for riders
 

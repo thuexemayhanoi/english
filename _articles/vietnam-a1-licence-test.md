@@ -24,7 +24,7 @@ sources:
 internal_link_targets: "how-to-get-a1-licence-vietnam, a1-licence-cost-vietnam, a1-licence-vietnam-what-you-can-ride, vietnam-licence-test-in-english, motorbike-learner-permit-vietnam"
 ---
 
-Two exams stand between you and the A1 licence: a computer-based theory paper and a practical circuit test. Both are set by Circular 12/2025/TT-BCA of the Ministry of Public Security, and the pass marks are published in its annexes.
+Two exams stand between you and the [A1 licence]({{ '/articles/how-to-get-a1-licence-vietnam/' | relative_url }}): a [computer-based theory paper]({{ '/articles/vietnam-licence-test-in-english/' | relative_url }}) and a practical circuit test. Both are set by Circular 12/2025/TT-BCA of the Ministry of Public Security, and the pass marks are published in its annexes.
 
 ## The theory test
 

@@ -24,7 +24,7 @@ Vietnam's cheapest new Honda and its most expensive 125-class underbone share a 
 
 ## Engines and gearboxes
 
-Wave Alpha: 109.2 cc, air-cooled, 6.12 kW at 7,500 rpm, 8.44 Nm at 5,500 rpm. Super Cub C125: 123.9 cc, air-cooled, 6.87 kW at 7,500 rpm, 10.15 Nm at 5,000 rpm. Both are four-gear semi-automatics you shift with your left foot and no clutch lever - the easiest format for new riders in Vietnamese traffic.
+[Wave Alpha]({{ '/articles/honda-wave-alpha-110-review/' | relative_url }}): 109.2 cc, air-cooled, 6.12 kW at 7,500 rpm, 8.44 Nm at 5,500 rpm. [Super Cub C125]({{ '/articles/honda-super-cub-c125-review/' | relative_url }}): 123.9 cc, air-cooled, 6.87 kW at 7,500 rpm, 10.15 Nm at 5,000 rpm. Both are four-gear semi-automatics you shift with your left foot and no clutch lever - the easiest format for new riders in Vietnamese traffic.
 
 ## Economy and weight
 

@@ -31,7 +31,7 @@ The market runs in two phases. Wholesale runs from about 20:00 to 06:00 — the 
 
 ## The route
 
-The market sits on the Nghi Tam dyke just off the northeast corner of West Lake, about 5 km from the centre. From Hoan Kiem, ride northwest to West Lake and follow the dyke from the Hong Ha street end. The route is streetlit the whole way, and the lake section is the nicest night riding in the city — but it is still night riding: run full lights, watch for unlit bikes carrying flowers that stick out further than they look, and keep the speed down.
+The market sits on the Nghi Tam dyke just off the northeast corner of West Lake, about 5 km from the centre. From Hoan Kiem, ride northwest to West Lake and follow the dyke from the Hong Ha street end. The route is streetlit the whole way, and the lake section is the nicest night riding in the city — but it is still [night riding]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}): run full lights, watch for unlit bikes carrying flowers that stick out further than they look, and keep the speed down.
 
 ## On arrival
 
@@ -43,6 +43,6 @@ Flowers on a motorbike are a Hanoi art form: blooms forward, stems back, one arm
 
 ## Combining it
 
-The flower market pairs perfectly with the West Lake loop: ride the loop at sunset, hit the market as the wholesale hour builds, and be home by one in the morning — one of Hanoi's best short nights out on a bike.
+The flower market pairs perfectly with the [West Lake loop]({{ '/articles/west-lake-loop-motorbike-route/' | relative_url }}): ride the loop at sunset, hit the market as the wholesale hour builds, and be home by one in the morning — one of Hanoi's best short nights out on a bike.
 
 Contact us to confirm current availability for a light bike suited to dyke riding.

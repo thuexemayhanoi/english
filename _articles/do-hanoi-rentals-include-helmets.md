@@ -20,7 +20,7 @@ sources:
 internal_link_targets: "helmet-law-vietnam, what-is-included-motorbike-rental-hanoi, child-passengers-motorbike-vietnam, motorbike-passenger-rules-vietnam, rental-motorbike-inspection-checklist"
 ---
 
-Yes - helmets come with the rental at Hanoi shops as standard practice, and Vietnamese law requires them for rider and passenger alike.
+Yes - helmets come with the rental at Hanoi shops as standard practice, and [Vietnamese law requires them]({{ '/articles/helmet-law-vietnam/' | relative_url }}) for rider and passenger alike.
 
 ## The legal position
 

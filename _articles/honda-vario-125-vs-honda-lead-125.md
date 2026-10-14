@@ -21,7 +21,7 @@ sources:
 internal_link_targets: "honda-vario-125-review, honda-lead-125-review, honda-scooter-lineup-vietnam-explained, scooter-underseat-storage-comparison, scooter-seat-heights-comparison-vietnam, honda-air-blade-125-vs-honda-vario-125, yamaha-janus-125-vs-honda-lead-125"
 ---
 
-Honda's 125 cc scooter range has two very different personalities: the new sporty Vario 125 and the cargo-focused Lead 125. If you are choosing between them, the decision is really about what your week looks like. All figures come from Honda Vietnam's official product pages (retrieved 23 September 2026).
+Honda's 125 cc scooter range has two very different personalities: the new sporty [Vario 125]({{ '/articles/honda-vario-125-review/' | relative_url }}) and the cargo-focused [Lead 125]({{ '/articles/honda-lead-125-review/' | relative_url }}). If you are choosing between them, the decision is really about what your week looks like. All figures come from Honda Vietnam's official product pages (retrieved 23 September 2026).
 
 ## Engine and performance
 

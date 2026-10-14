@@ -27,13 +27,13 @@ Nam Tu Liem is the modern west: the stadium district, the museum district and th
 
 ## What the area is
 
-The anchors are national-scale: My Dinh National Stadium, the convention centre cluster, and the museums of the new west — the Hanoi Museum in Nam Tu Liem among them, with its inverted-pyramid architecture. The Pham Hung and Thang Long corridors carry the through-traffic, while the internal grids around the tower campuses are wide, quiet and easy to navigate. The district sits at the ring-road interchange that connects the city to the expressway network.
+The anchors are national-scale: My Dinh National Stadium, the convention centre cluster, and the museums of the new west — the Hanoi Museum in Nam Tu Liem among them, with its inverted-pyramid architecture. The Pham Hung and Thang Long corridors carry the through-traffic, while the internal grids around the tower campuses are wide, quiet and easy to navigate. The district sits at the [ring-road interchange]({{ '/articles/hanoi-ring-roads-motorbike-guide/' | relative_url }}) that connects the city to the expressway network.
 
 ## How it rides
 
 This is high-speed urban riding. The divided boulevards are safe and pleasant at flow speed, but three habits matter. First, junctions are large — the light phases are long, the crossing distances are long, and both drivers and riders treat amber as an extension of green. Approach every big junction ready to stop. Second, U-turns happen at the designated gaps in the medians; if you miss your turn, the correct move is the next legal U-turn gap, not a spontaneous cut across three lanes. Third, night riding here is darker than the centre — the boulevards are lit unevenly, so run your full lighting setup.
 
-Rush hour concentrates on the radial corridors toward the centre; the internal streets stay manageable. Weekend traffic flows to the mall and museum parking areas around midday.
+[Rush hour]({{ '/articles/traffic-at-rush-hour-riding-hanoi/' | relative_url }}) concentrates on the radial corridors toward the centre; the internal streets stay manageable. Weekend traffic flows to the mall and museum parking areas around midday.
 
 ## Parking and stopping
 

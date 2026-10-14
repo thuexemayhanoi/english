@@ -20,7 +20,7 @@ sources:
 internal_link_targets: honda-wave-alpha-110-review, honda-future-125-review, honda-future-125-vs-honda-wave-rsx, best-110cc-underbones-vietnam-verified, best-125cc-underbones-vietnam-verified, how-to-rent-a-motorbike-hanoi
 ---
 
-The Wave Alpha and the Future 125 FI are two ends of Honda Vietnam's semi-automatic range: the country's cheapest new motorbike and its long-legged 125-class underbone. Honda publishes the full specification for both (retrieved 23 September 2026), so the trade-offs are easy to see.
+The Wave Alpha and the Future 125 FI are two ends of Honda Vietnam's semi-automatic range: the country's [cheapest new motorbike]({{ '/articles/honda-wave-alpha-110-review/' | relative_url }}) and its [long-legged 125-class underbone]({{ '/articles/honda-future-125-review/' | relative_url }}). Honda publishes the full specification for both (retrieved 23 September 2026), so the trade-offs are easy to see.
 
 ## Engines
 

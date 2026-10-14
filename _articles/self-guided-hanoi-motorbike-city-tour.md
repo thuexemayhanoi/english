@@ -25,11 +25,11 @@ You can see Hanoi's postcard sights in a bus, or you can ride them in a day on a
 
 ## The route at a glance
 
-**Start 07:30, West Lake. → Thanh Nien causeway → Tran Quoc pagoda → Ho Chi Minh complex (Ba Dinh) → Temple of Literature → lunch → Old Quarter and Dong Xuan → Hoan Kiem lake and Ngoc Son temple → ceramic mosaic wall on the dyke → Long Bien bridge → river islands leg → back via West Lake. Finish ~17:30.**
+**Start 07:30, West Lake. → Thanh Nien causeway → Tran Quoc pagoda → Ho Chi Minh complex (Ba Dinh) → Temple of Literature → lunch → Old Quarter and Dong Xuan → [Hoan Kiem lake]({{ '/articles/exploring-hoan-kiem-by-motorbike/' | relative_url }}) and Ngoc Son temple → ceramic mosaic wall on the dyke → [Long Bien bridge]({{ '/articles/long-bien-bridge-motorbike-guide/' | relative_url }}) → river islands leg → back via West Lake. Finish ~17:30.**
 
 ## Morning: the calm sights
 
-Start early — Hanoi's best hours end by nine. Ride the West Lake loop's southern half first, when the water is still misted, stopping at Tran Quoc pagoda (parking inside the temple lot). Continue along Thanh Nien into Ba Dinh for the Ho Chi Minh mausoleum complex area; visit early because entry procedures and closures (afternoons, Mondays, and formal ceremony days) are real — check the current opening pattern before your visit, and note that security here is strict: no bags, no photos inside, respectable dress. A short hop south brings you to the Temple of Literature, the thousand-year-old imperial academy with easy on-site parking.
+Start early — Hanoi's best hours end by nine. Ride the [West Lake loop]({{ '/articles/west-lake-loop-motorbike-route/' | relative_url }})'s southern half first, when the water is still misted, stopping at Tran Quoc pagoda (parking inside the temple lot). Continue along Thanh Nien into Ba Dinh for the Ho Chi Minh mausoleum complex area; visit early because entry procedures and closures (afternoons, Mondays, and formal ceremony days) are real — check the current opening pattern before your visit, and note that security here is strict: no bags, no photos inside, respectable dress. A short hop south brings you to the Temple of Literature, the thousand-year-old imperial academy with easy on-site parking.
 
 ## Midday: eat like the itinerary means it
 

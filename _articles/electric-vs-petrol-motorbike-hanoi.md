@@ -26,11 +26,11 @@ Hanoi riders now split between petrol bikes that have served the city for decade
 
 ## Fuel versus charge
 
-A petrol scooter refuels in minutes anywhere. An electric charges overnight at a home socket, or swaps batteries in under a minute at a cabinet — VinFast's swap fee is 9,000 VND per battery per swap, and its 4,500-station V-Green network (installed as of January 2026) plans 45,000 cabinets nationwide by Q1 2026. If you can charge where you park, electric is the more convenient of the two; if you cannot, petrol still wins.
+A petrol scooter refuels in minutes anywhere. An electric [charges overnight at a home socket]({{ '/articles/charging-electric-motorbike-at-home-vietnam/' | relative_url }}), or swaps batteries in under a minute at a cabinet — VinFast's swap fee is 9,000 VND per battery per swap, and its 4,500-station V-Green network (installed as of January 2026) plans 45,000 cabinets nationwide by Q1 2026. If you can charge where you park, electric is the more convenient of the two; if you cannot, petrol still wins.
 
 ## Servicing
 
-Petrol bikes need oil changes, plug checks and carburettor or injection care. Electrics delete most of that list — the routine becomes battery care, brakes and tyres. The expensive part is the pack: buying a battery-included bike, or renting batteries (VinFast offers 175,000 VND per month for one, 300,000 for two).
+Petrol bikes need oil changes, plug checks and carburettor or injection care. Electrics delete most of that list — the routine becomes battery care, brakes and tyres. [The expensive part is the pack]({{ '/articles/electric-motorbike-cost-ownership-vietnam/' | relative_url }}): buying a battery-included bike, or renting batteries (VinFast offers 175,000 VND per month for one, 300,000 for two).
 
 ## Noise and ride
 
@@ -42,4 +42,4 @@ Petrol wins range and refuel speed. Electric works if your week is predictable: 
 
 ## Renting both in Hanoi
 
-Trying before buying is easy: petrol fleet models have published day rates from 150,000-200,000 VND, and the shop's E-Bike rents at 200,000 VND per day. Contact us to confirm current availability of either format.
+Trying before buying is easy: petrol fleet models have published day rates from 150,000-200,000 VND, and the shop's E-Bike rents at 200,000 VND per day. [Contact us]({{ '/contact/' | relative_url }}) to confirm current availability of either format.

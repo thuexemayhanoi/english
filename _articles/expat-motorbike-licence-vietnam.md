@@ -25,7 +25,7 @@ sources:
 internal_link_targets: "foreign-licence-exchange-vietnam, foreign-licence-exchange-documents-vietnam, vietnam-licence-test-in-english, idp-validity-period-vietnam, motorbike-licence-validity-renewal-vietnam"
 ---
 
-Short stays run on an IDP; long stays run on a Vietnamese licence. For expats settling in Hanoi for a year or more, the IDP stops being the right tool — it is built for visitors, while the law's residence-based path is the exchange. Here is how the two routes compare and how to choose.
+Short stays run on an IDP; long stays run on a [Vietnamese licence]({{ '/articles/foreign-licence-exchange-vietnam/' | relative_url }}). For expats settling in Hanoi for a year or more, the IDP stops being the right tool — it is built for visitors, while the law's residence-based path is the exchange. Here is how the two routes compare and how to choose.
 
 ## Route one: exchange your national licence
 
@@ -33,7 +33,7 @@ Circular 12/2025/TT-BCA of the Ministry of Public Security governs the exchange.
 
 ## Route two: sit the test
 
-Expats with no motorbike entitlement at home — or with a licence Vietnam cannot exchange — take the A1 test route: training course, 25-question theory paper, practical circuit. One fact decides the planning: the test is conducted in Vietnamese only. Expats who cannot read the language reliably usually arrange the exam through a training centre that guides foreign candidates through the Vietnamese question bank.
+Expats with no motorbike entitlement at home — or with a licence Vietnam cannot exchange — take the [A1 test route]({{ '/articles/vietnam-licence-test-in-english/' | relative_url }}): training course, 25-question theory paper, practical circuit. One fact decides the planning: the test is conducted in Vietnamese only. Expats who cannot read the language reliably usually arrange the exam through a training centre that guides foreign candidates through the Vietnamese question bank.
 
 ## What the Vietnamese licence gives you
 
@@ -41,7 +41,7 @@ The motorbike classes are issued with no expiry date, they carry the 12-point ba
 
 ## The residence boundary
 
-The dividing line between "IDP is fine" and "you should exchange" is fuzzy by design, but the practical markers are clear: three months of residence papers unlock the exchange; longer-term visas and work permits make the exchange the natural next step; and a multi-year stay on an IDP alone leaves you re-explaining your paperwork at every checkpoint. Expats also cannot exchange an IDP itself — the exchange requires the national licence behind it.
+The dividing line between "IDP is fine" and "you should exchange" is fuzzy by design, but the practical markers are clear: three months of residence papers unlock the exchange; longer-term visas and work permits make the exchange the natural next step; and a multi-year stay on an IDP alone leaves you re-explaining your paperwork at every checkpoint. Expats also cannot exchange an IDP itself — the exchange [requires the national licence]({{ '/articles/foreign-licence-exchange-documents-vietnam/' | relative_url }}) behind it.
 
 ## A Hanoi-specific note
 

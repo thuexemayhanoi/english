@@ -23,7 +23,7 @@ sources:
 internal_link_targets: "wrong-way-riding-fine-vietnam, overtaking-rules-motorbike-vietnam, motorbike-speed-limits-vietnam, motorbike-fines-vietnam-overview, right-turn-on-red-vietnam"
 ---
 
-Motorbikes choose lanes by rule, not by gap. Article 13 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires every vehicle to travel in the correct part of the carriageway and the correct lane for its class — and the fine schedule prices the mistake at 600,000–800,000 VND for wrong-lane riding under Article 7(3)(d) of Decree 168/2024/NĐ-CP, with point deduction attached.
+Motorbikes choose lanes by rule, not by gap. Article 13 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires every vehicle to travel in the correct part of the carriageway and the correct lane for its class — and the [fine schedule]({{ '/articles/motorbike-fines-vietnam-overview/' | relative_url }}) prices the mistake at 600,000–800,000 VND for wrong-lane riding under Article 7(3)(d) of Decree 168/2024/NĐ-CP, with point deduction attached.
 
 ## The basics
 

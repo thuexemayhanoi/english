@@ -33,11 +33,11 @@ Article 32(10) of Decree 168/2024/NĐ-CP fines the owner of a motorbike who hand
 
 ## The rider is not off the hook
 
-The unlicensed rider faces their own penalty under Article 18: 2,000,000–4,000,000 VND for bikes up to 125 cc and 6,000,000–8,000,000 VND above. The owner's fine does not replace the rider's — a single bad decision to lend produces two fines, two sets of points consequences, and possibly an insurance problem if anything happens on the road.
+The unlicensed rider faces their own penalty under Article 18: 2,000,000–4,000,000 VND for bikes up to 125 cc and 6,000,000–8,000,000 VND above. The owner's fine does not replace the rider's — a single bad decision to lend produces [two fines]({{ '/articles/no-licence-fine-vietnam/' | relative_url }}), two sets of points consequences, and possibly an insurance problem if anything happens on the road.
 
 ## Common ways this happens
 
-The scenarios repeat every year. A resident lends a scooter to a visiting friend who never held any licence. A parent lets a 16-year-old ride a 110 cc bike — an age that qualifies only for mopeds. A renter informally passes the bike to a partner whose IDP does not cover motorbikes. In every case, the person who supplied the machine is the one hit with the eight-figure fine.
+The scenarios repeat every year. A resident lends a scooter to a visiting friend who never held any licence. A parent lets a 16-year-old ride a 110 cc bike — an age that [qualifies only for mopeds]({{ '/articles/minimum-age-ride-motorbike-vietnam/' | relative_url }}). A renter informally passes the bike to a partner whose IDP does not cover motorbikes. In every case, the person who supplied the machine is the one hit with the eight-figure fine.
 
 ## What this means in Hanoi
 

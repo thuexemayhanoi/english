@@ -32,7 +32,7 @@ This is workhorse central Hanoi: hospitals, wholesale streets, older apartment b
 
 The boulevards here are wide by Hanoi standards, which means speed goes up and margins go down. Buses and trucks use the same corridors, lane discipline is loose, and the long straight sections encourage drivers to overtake on whichever side has space. Ride at the flow of traffic, check mirrors before every lateral move, and expect ride-hail motorbikes to appear from behind at speed.
 
-The two main corridors are Le Dai Hanh–Minh Khai flowing south, and Bach Mai–Nguyen Khoai flowing toward the river. Both are rush-hour rivers: between roughly 07:00–08:30 and 17:00–19:00 they move slowly but safely; the midday window is when the wide lanes feel almost relaxed.
+The two [main corridors]({{ '/articles/hanoi-motorbike-commute-corridors/' | relative_url }}) are Le Dai Hanh–Minh Khai flowing south, and Bach Mai–Nguyen Khoai flowing toward the river. Both are [rush-hour]({{ '/articles/traffic-at-rush-hour-riding-hanoi/' | relative_url }}) rivers: between roughly 07:00–08:30 and 17:00–19:00 they move slowly but safely; the midday window is when the wide lanes feel almost relaxed.
 
 ## Parking and stopping
 

@@ -33,7 +33,7 @@ This is why the handover checklist includes looking at the tyres: tread visible,
 
 ## What a puncture actually costs
 
-A tube repair or replacement at a Vietnamese roadside tyre shop is a small bill - tens of thousands of dong for a patch, more for a new tube, more again for a tyre. It is paid in cash on the spot, and it is not worth a negotiation with a rental shop over amounts this size; the deposit-return conversation matters, this does not.
+A tube repair or replacement at a [Vietnamese roadside tyre shop]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) is a small bill - tens of thousands of dong for a patch, more for a new tube, more again for a tyre. It is paid in cash on the spot, and it is not worth a negotiation with a rental shop over amounts this size; the deposit-return conversation matters, this does not.
 
 ## What to do when it happens
 

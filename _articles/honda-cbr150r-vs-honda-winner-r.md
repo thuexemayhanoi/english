@@ -29,7 +29,7 @@ Both are liquid-cooled singles with 57.3 x 57.8 mm bore and stroke and an 11.3:1
 
 ## The tank is the story
 
-CBR150R: 12 litres - Honda publishes 2.91 L/100 km, so a theoretical 400 km between fills. Winner R: 4.5 litres at 2.59 L/100 km (UDC), roughly 170 km. For long-distance riding the CBR is built for the job; the Winner is a city-and-weekend machine.
+CBR150R: 12 litres - Honda publishes 2.91 L/100 km, so a theoretical 400 km between fills. Winner R: 4.5 litres at 2.59 L/100 km (UDC), roughly 170 km. For [long-distance riding]({{ '/articles/best-motorbike-for-long-distance-vietnam/' | relative_url }}) the CBR is built for the job; the Winner is a city-and-weekend machine.
 
 ## Ergonomics and chassis
 
@@ -41,4 +41,4 @@ Winner R: 46,360,000 VND. CBR150R: 72,290,000 VND (both list, retrieved 23 Septe
 
 ## Verdict
 
-Winner R for affordable clutch-bike fun and everyday usability; CBR150R for touring range, weather protection and full sport ergonomics. Both are A1-bracket machines. Contact us to confirm current availability for rental.
+[Winner R]({{ '/articles/honda-winner-r-review/' | relative_url }}) for affordable clutch-bike fun and everyday usability; [CBR150R]({{ '/articles/honda-cbr150r-review/' | relative_url }}) for touring range, weather protection and full sport ergonomics. Both are A1-bracket machines. Contact us to confirm current availability for rental.

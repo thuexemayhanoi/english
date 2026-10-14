@@ -35,7 +35,7 @@ In Tan Cuong, family operations offer tastings of the strong local green tea and
 
 ## Practical notes
 
-- Cool mornings are the best time in tea country — pickers are in the fields before the heat.
+- Cool mornings are the best time in tea country — pickers are in the fields [before the heat]({{ '/articles/hot-weather-riding-motorbike-vietnam/' | relative_url }}).
 - Fuel is easy in Thai Nguyen city; top up before the lake roads.
 - Weekend afternoons get busy at the lake; weekdays are quiet.
 

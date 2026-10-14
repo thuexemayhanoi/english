@@ -40,7 +40,7 @@ Ride the block around the shop before committing to the road. Practise in this o
 
 ## Rules that keep first-timers legal
 
-Keep right, no sidewalk riding (fined), no phone in hand (fined), helmet on. Traffic moves by negotiation - read the lane-rules article before your first big junction.
+Keep right, no [sidewalk riding]({{ '/articles/riding-on-sidewalk-vietnam/' | relative_url }}) (fined), no phone in hand (fined), helmet on. Traffic moves by negotiation - read the [lane-rules article]({{ '/articles/motorbike-lane-rules-vietnam/' | relative_url }}) before your first big junction.
 
 ## What nobody tells beginners
 

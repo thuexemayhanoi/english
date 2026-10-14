@@ -20,7 +20,7 @@ sources:
 internal_link_targets: vinfast-evo-review, vinfast-viper-vs-feliz-2, vinfast-battery-rental-vs-buying, battery-swap-vs-home-charging-vietnam
 ---
 
-The Feliz II is the generational refresh of the model that normalised electric scooters for Vietnamese families — now rebuilt around the battery-swap platform. Figures below are VinFast's official published data.
+The Feliz II is the generational refresh of the model that normalised electric scooters for Vietnamese families — now rebuilt around the [battery-swap platform]({{ '/articles/battery-swap-vs-home-charging-vietnam/' | relative_url }}). Figures below are VinFast's official published data.
 
 ## Official specifications
 

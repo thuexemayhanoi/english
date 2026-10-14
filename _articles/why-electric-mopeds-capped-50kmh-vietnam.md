@@ -22,11 +22,11 @@ sources:
 internal_link_targets: "electric-bike-licence-vietnam, electric-moped-vs-electric-motorcycle-vietnam, 50cc-licence-vietnam, what-is-electric-motorbike-vietnam, electric-bike-law-myths-vietnam"
 ---
 
-If you have noticed that Vietnamese electric scooters cluster just below 50 km/h, that is not a coincidence — it is the law defining a product category.
+If you have noticed that Vietnamese electric scooters cluster just below 50 km/h, that is not a coincidence — it is [the law defining a product category]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}).
 
 ## The legal reason
 
-Article 34(1)(g) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) defines a moped (xe may gan may) as a two- or three-wheel vehicle designed for a top speed of no more than 50 km/h, powered by an engine of 50 cc or less or an electric motor of 4 kW or less. Meeting that definition is what removes the licence requirement: mopeds can be ridden from age 16 with no driving licence.
+Article 34(1)(g) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) defines a [moped]({{ '/articles/electric-moped-vs-electric-motorcycle-vietnam/' | relative_url }}) (xe may gan may) as a two- or three-wheel vehicle designed for a top speed of no more than 50 km/h, powered by an engine of 50 cc or less or an electric motor of 4 kW or less. Meeting that definition is what removes the licence requirement: mopeds can be ridden from age 16 with no driving licence.
 
 So the 50 km/h ceiling is not a speed limit written for electric bikes — it is the membership condition of the licence-free class. Build the bike slower than 50 km/h and under 4 kW, and you sell to every 16-year-old and unlicensed adult in the country.
 

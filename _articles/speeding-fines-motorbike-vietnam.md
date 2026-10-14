@@ -22,7 +22,7 @@ sources:
 internal_link_targets: "motorbike-speed-limits-vietnam, motorbike-fines-vietnam-overview, motorbike-lane-rules-vietnam, how-to-pay-traffic-fine-vietnam, motorbike-accident-duties-vietnam"
 ---
 
-Short answer: motorbike speeding fines under Decree 168/2024/NĐ-CP step by how far over the limit you were: 400,000–600,000 VND for 5 to under 10 km/h over; 800,000–1,000,000 VND for 10 to 20 over; 6,000,000–8,000,000 VND with four licence points for more than 20 over; and 8,000,000–10,000,000 VND with a 10–12 month licence suspension when two or more riders speed together as a group.
+Short answer: motorbike speeding fines under Decree 168/2024/NĐ-CP step by how far over [the limit]({{ '/articles/motorbike-speed-limits-vietnam/' | relative_url }}) you were: 400,000–600,000 VND for 5 to under 10 km/h over; 800,000–1,000,000 VND for 10 to 20 over; 6,000,000–8,000,000 VND with four licence points for more than 20 over; and 8,000,000–10,000,000 VND with a 10–12 month licence suspension when two or more riders speed together as a group.
 
 ## The bands, exactly
 

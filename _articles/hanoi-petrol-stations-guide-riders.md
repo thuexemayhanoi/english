@@ -31,11 +31,11 @@ Some stations have introduced self-service pump areas for motorbikes in recent y
 
 ## What fuel to buy
 
-The fuel-grade question has its own full guide for Vietnam: the common retail grades are RON 95 in its variants (including the E5 ethanol-blend RON95), with higher-octane premium options at many city stations. For the underbones and scooters that make up nearly all rental fleets, standard RON 95 is the safe default; premium grades cost more and matter little unless a manufacturer specifies them. When renting, ask the shop what the bike takes — most will say "95" — and keep it consistent.
+The fuel-grade question has its own [full guide]({{ '/articles/fuel-grades-petrol-stations-vietnam/' | relative_url }}) for Vietnam: the common retail grades are RON 95 in its variants (including the E5 ethanol-blend RON95), with higher-octane premium options at many city stations. For the underbones and scooters that make up nearly all rental fleets, standard RON 95 is the safe default; premium grades cost more and matter little unless a manufacturer specifies them. When renting, ask the shop what the bike takes — most will say "95" — and keep it consistent.
 
 ## Density and the low-fuel game
 
-Station coverage in the central wards is good but not infinite, and the useful habit is the local one: fill at half, not at fumes. Fuel gauges on small bikes are famously approximate (their own guide explains why), and the stations that are easiest to enter on a bike are rarely the ones closest to where your tank finally gives up. Two-wheelers queue separately from cars at most stations; the bike lanes move fast.
+Station coverage in the central wards is good but not infinite, and the useful habit is the local one: fill at half, not at fumes. Fuel gauges on small bikes are famously approximate ([their own guide]({{ '/articles/fuel-gauge-inaccurate-motorbike/' | relative_url }}) explains why), and the stations that are easiest to enter on a bike are rarely the ones closest to where your tank finally gives up. Two-wheelers queue separately from cars at most stations; the bike lanes move fast.
 
 ## Practical notes
 

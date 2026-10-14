@@ -20,7 +20,7 @@ sources:
 internal_link_targets: honda-wave-alpha-110-review, honda-ct125-review, honda-blade-vs-honda-ct125, honda-future-125-vs-honda-ct125, cheapest-new-underbones-vietnam-verified, underbone-wheelbase-ground-clearance-explained
 ---
 
-The Wave Alpha and the CT125 are both Hondas with step-through frames - and that is where the similarity ends. One is the cheapest new underbone on Honda Vietnam's price list; the other is a tall, trail-styled Cub that costs more than four times as much. All figures below are from Honda Vietnam's official pages (retrieved 23 September 2026).
+The [Wave Alpha]({{ '/articles/honda-wave-alpha-110-review/' | relative_url }}) and the [CT125]({{ '/articles/honda-ct125-review/' | relative_url }}) are both Hondas with step-through frames - and that is where the similarity ends. One is the cheapest new underbone on Honda Vietnam's price list; the other is a tall, trail-styled Cub that costs more than four times as much. All figures below are from Honda Vietnam's official pages (retrieved 23 September 2026).
 
 ## The core difference
 

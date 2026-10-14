@@ -39,6 +39,6 @@ Parking is easy by central standards. The tower campuses have garages, the lake 
 
 ## Why riders end up here
 
-Bac Tu Liem is a base-and-corridor district: people live here for apartment parking and clean roads, and the area gives fast access both to the West Lake loop for weekend riding and to the western ring for leaving town. For visitors it is mostly a ride-through — but the lake's northwest corner is one of the least-crowded sections of the city's classic loop.
+Bac Tu Liem is a base-and-corridor district: people live here for apartment parking and clean roads, and the area gives fast access both to the [West Lake loop]({{ '/articles/west-lake-loop-motorbike-route/' | relative_url }}) for weekend riding and to [the western ring]({{ '/articles/hanoi-ring-roads-motorbike-guide/' | relative_url }}) for leaving town. For visitors it is mostly a ride-through — but the lake's northwest corner is one of the least-crowded sections of the city's classic loop.
 
 For a northwest base near the lake, contact us to confirm current availability for a monthly rental.

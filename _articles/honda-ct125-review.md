@@ -22,7 +22,7 @@ sources:
 internal_link_targets: honda-super-cub-c125-review, honda-future-125-review, carrying-luggage-motorbike-safely-vietnam, best-motorbike-for-day-trips-from-hanoi, hill-starts-motorbike-slopes-vietnam, yamaha-pg-1-vs-honda-ct125, honda-ct125-touring-setup-guide
 ---
 
-The CT125 takes the Cub formula and points it at dirt tracks: taller suspension, a big fuel tank, luggage racks and the highest ground clearance of anything in Honda's Vietnamese underbone range. All figures below come from the official Honda Vietnam CT125 product page (retrieved 23 September 2026).
+The CT125 takes the [Cub formula]({{ '/articles/honda-super-cub-c125-review/' | relative_url }}) and points it at dirt tracks: taller suspension, a big fuel tank, luggage racks and the highest ground clearance of anything in Honda's Vietnamese underbone range. All figures below come from the official Honda Vietnam CT125 product page (retrieved 23 September 2026).
 
 ## Engine and gearing
 
@@ -38,4 +38,4 @@ Kerb weight is 117 kg. The seat sits at 800 mm - the tallest in this group - and
 
 ## Who it suits
 
-Riders who leave the tarmac: day trips out of Hanoi, camping runs, rural homestay routes. It is heavier and pricier (85,997,455 VND list, retrieved 23 September 2026) than a functional underbone, so commuters should look at the Future 125 FI instead. Our day-trip and luggage guides cover how to load a bike safely for the riding this machine is built for. Contact us to confirm current availability for rental.
+Riders who leave the tarmac: day trips out of Hanoi, camping runs, rural homestay routes. It is heavier and pricier (85,997,455 VND list, retrieved 23 September 2026) than a functional underbone, so commuters should look at the [Future 125 FI]({{ '/articles/honda-future-125-review/' | relative_url }}) instead. Our [day-trip]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }}) and [luggage]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}) guides cover how to load a bike safely for the riding this machine is built for. Contact us to confirm current availability for rental.

@@ -25,7 +25,7 @@ Regenerative braking — "regen" — is the feature that most changes how an ele
 
 ## The physics in one paragraph
 
-An electric motor is reversible. When you roll off the throttle, the spinning wheel drives the motor as a generator, and the energy that would have burned off as brake heat flows back into the battery instead. The bike slows, the pack gains a little charge, and your brake pads do less work.
+An [electric motor]({{ '/articles/how-electric-motorbikes-work/' | relative_url }}) is reversible. When you roll off the throttle, the spinning wheel drives the motor as a generator, and the energy that would have burned off as brake heat flows back into the battery instead. The bike slows, the pack gains a little charge, and your brake pads do less work.
 
 ## How it feels on Vietnamese bikes
 

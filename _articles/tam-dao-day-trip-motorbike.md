@@ -24,7 +24,7 @@ sources:
 internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, mountain-pass-riding-motorbike-vietnam, fog-and-low-visibility-riding-motorbike-vietnam, servicing-before-long-trip-motorbike, how-to-rent-a-motorbike-hanoi, first-mountain-motorbike-trip-vietnam-comparison, ba-vi-national-park-day-trip-motorbike"
 ---
 
-Tam Dao is the closest real mountain ride to Hanoi: a former French hill station on a forested ridge in Vinh Phuc province, about 85 kilometres from the city centre and roughly two hours of riding each way in normal conditions. The reward for the climb is a noticeably cooler microclimate and long views over the Red River delta plain — the reason the town has been a weekend escape for more than a century.
+Tam Dao is the closest real [mountain ride]({{ '/articles/mountain-pass-riding-motorbike-vietnam/' | relative_url }}) to Hanoi: a former French hill station on a forested ridge in Vinh Phuc province, about 85 kilometres from the city centre and roughly two hours of riding each way in normal conditions. The reward for the climb is a noticeably cooler microclimate and long views over the Red River delta plain — the reason the town has been a weekend escape for more than a century.
 
 ## The route out
 
@@ -39,7 +39,7 @@ Tam Dao town spreads along the ridge — a small stone church from the colonial 
 ## Riding cautions
 
 - Descend the switchbacks in a lower gear, engine-braking rather than riding the brakes all the way down.
-- Fog is common on the ridge, especially late afternoon — if visibility drops, slow right down and use your horn on the hairpins like local riders do.
+- Fog is common on the ridge, especially late afternoon — if [visibility drops]({{ '/articles/fog-and-low-visibility-riding-motorbike-vietnam/' | relative_url }}), slow right down and use your horn on the hairpins like local riders do.
 - Weekends and holiday evenings put buses and cars on the climb; weekday mornings are the calmest.
 - Check the weather before committing: heavy rain makes the upper hairpins slippery, and the descent is no place to discover worn brake pads.
 

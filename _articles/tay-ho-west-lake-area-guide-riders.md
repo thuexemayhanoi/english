@@ -25,7 +25,7 @@ Tay Ho, the wedge of the city wrapped around West Lake (Ho Tay), is the neighbou
 
 ## The shoreline and the grid behind it
 
-West Lake is the largest lake inside the city, and its shoreline road forms a natural loop — roughly 17 kilometres of lakeside riding if you complete the full circuit. The ride itself deserves its own guide, but the area around it matters even if you only ride through. Behind the lake roads sits a grid of narrow expat-quarter streets: To Ngoc Van, Xuan Dieu, Au Co, Dang Thai Mai. These carry a constant mix of cafe traffic, school runs, food delivery riders and residents, at speeds that rarely rise above walking pace in the evening peaks.
+West Lake is the largest lake inside the city, and its shoreline road forms a [natural loop]({{ '/articles/west-lake-loop-motorbike-route/' | relative_url }}) — roughly 17 kilometres of lakeside riding if you complete the full circuit. The ride itself deserves its own guide, but the area around it matters even if you only ride through. Behind the lake roads sits a grid of narrow expat-quarter streets: To Ngoc Van, Xuan Dieu, Au Co, Dang Thai Mai. These carry a constant mix of cafe traffic, school runs, food delivery riders and residents, at speeds that rarely rise above walking pace in the evening peaks.
 
 ## What riding here feels like
 

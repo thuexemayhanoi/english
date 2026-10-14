@@ -23,7 +23,7 @@ sources:
 internal_link_targets: ride-125cc-with-car-licence-vietnam, electric-motorbike-power-kw-licence-vietnam, electric-bike-licence-vietnam, foreign-licence-exchange-vietnam, electric-motorbike-fines-vietnam
 ---
 
-Short answer: a car licence — Vietnamese or foreign — covers no electric two-wheeler above the licence-free line. But electrics have a wrinkle petrol bikes do not: many of them need no licence at all, so the car-licence question only actually arises for machines above 4 kW.
+Short answer: a car licence — Vietnamese or foreign — covers no electric two-wheeler above the [licence-free line]({{ '/articles/electric-motorbike-power-kw-licence-vietnam/' | relative_url }}). But electrics have a wrinkle petrol bikes do not: many of them need no licence at all, so the car-licence question only actually arises for machines above 4 kW.
 
 ## How the classes split
 
@@ -33,7 +33,7 @@ Under Article 57 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15),
 - Electric mopeds at 4 kW and under, designed for 50 km/h or less — no licence, rider 16+.
 - Above 4 kW — an A1 licence (up to 11 kW) or an A licence is required.
 
-So a car-only licence holder has two legal electric options: ride a licence-free class machine, or get an A1 licence for anything faster.
+So a car-only licence holder has two legal electric options: ride a [licence-free class machine]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}), or get an [A1 licence]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) for anything faster.
 
 ## What riding above your class costs
 

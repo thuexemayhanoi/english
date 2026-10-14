@@ -22,7 +22,7 @@ sources:
 internal_link_targets: "motorbike-accident-duties-vietnam, compulsory-motorbike-insurance-vietnam, stopped-by-traffic-police-vietnam, motorbike-fines-vietnam-overview, drink-driving-limits-motorbike-vietnam"
 ---
 
-Short answer: leaving the scene of a crash you were in is one of the heaviest riding violations in the administrative schedule. Article 7(9)(c) of Decree 168/2024/NĐ-CP prices failing to stop, failing to preserve the scene, failing to help the injured, or failing to report — 8,000,000–10,000,000 VND, six points off the licence, and the bike subject to being held. Where the accident caused injury or death, the same conduct becomes a criminal matter, not a fine matter.
+Short answer: leaving the scene of a crash you were in is one of the heaviest riding violations in the administrative schedule. Article 7(9)(c) of Decree 168/2024/NĐ-CP prices [failing to stop, failing to preserve the scene, failing to help the injured, or failing to report]({{ '/articles/motorbike-accident-duties-vietnam/' | relative_url }}) — 8,000,000–10,000,000 VND, six points off the licence, and the bike subject to being held. Where the accident caused injury or death, the same conduct becomes a criminal matter, not a fine matter.
 
 ## What the law demands at the scene
 
@@ -32,7 +32,7 @@ The mild version (Article 7(5)(a)) catches riders involved in a crash who fail t
 
 ## Why fleeing converts the case
 
-The administrative fine is the ceiling of what leaving the scene costs when nobody was much hurt. But Vietnamese criminal law treats fleeing after a crash that caused damage as an aggravating, sometimes defining, element of the road-traffic offences — and in the worst cases, leaving an injured person unhelped is punished as its own wrong, beyond the driving violation. Practically: the accident that would have been a 10–14 million VND accident-band fine if you stayed becomes a criminal file if you ride away. Insurance moves the same direction — a compulsory third-party policy expects the rider to have reported; a rider who vanishes from the scene of their own crash finds the insurer's obligations narrowing fast.
+The administrative fine is the ceiling of what leaving the scene costs when nobody was much hurt. But Vietnamese criminal law treats fleeing after a crash that caused damage as an aggravating, sometimes defining, element of the road-traffic offences — and in the worst cases, leaving an injured person unhelped is punished as its own wrong, beyond the driving violation. Practically: the accident that would have been a 10–14 million VND accident-band fine if you stayed becomes a criminal file if you ride away. Insurance moves the same direction — a [compulsory third-party policy]({{ '/articles/compulsory-motorbike-insurance-vietnam/' | relative_url }}) expects the rider to have reported; a rider who vanishes from the scene of their own crash finds the insurer's obligations narrowing fast.
 
 ## The tourist version of this mistake
 

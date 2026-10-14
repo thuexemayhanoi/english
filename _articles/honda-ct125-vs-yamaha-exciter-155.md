@@ -24,7 +24,7 @@ The CT125 and Exciter 155 VVA are the two most distinctive manual-gearbox underb
 
 ## Engines
 
-CT125: 123.9 cc, air-cooled single, 6.76 kW at 6,250 rpm, 10.9 Nm at 4,750 rpm, four-speed. Exciter 155 VVA: 155 cc, liquid-cooled, SOHC four-valve with VVA variable valve timing and EFI, 13.2 kW at 9,500 rpm, 14.4 Nm at 8,000 rpm, six-speed with an Assist and Slipper clutch. The Exciter is dramatically faster; the CT is dramatically more relaxed. Yamaha's VVA explainer covers what the variable-valve system does.
+CT125: 123.9 cc, air-cooled single, 6.76 kW at 6,250 rpm, 10.9 Nm at 4,750 rpm, four-speed. [Exciter 155 VVA]({{ '/articles/yamaha-exciter-155-vva-review/' | relative_url }}): 155 cc, liquid-cooled, SOHC four-valve with VVA variable valve timing and EFI, 13.2 kW at 9,500 rpm, 14.4 Nm at 8,000 rpm, six-speed with an Assist and Slipper clutch. The Exciter is dramatically faster; the CT is dramatically more relaxed. Yamaha's VVA explainer covers what the variable-valve system does.
 
 ## Chassis and terrain
 
@@ -36,4 +36,4 @@ CT125: 1.61 L/100 km. Exciter: 2.07 L/100 km. Manufacturer test figures - real r
 
 ## Price and availability
 
-CT125: 85,997,455 VND list. Exciter 155: 55,200,000 VND for the limited ABS Monster version shown on Yamaha's page. Neither model is price-published at our rental counter - contact us to confirm current availability. Riders choosing between them are really choosing between exploration and commuting-sport; the Exciter versus Winner R comparison covers the pure-sport alternative.
+CT125: 85,997,455 VND list. Exciter 155: 55,200,000 VND for the limited ABS Monster version shown on Yamaha's page. Neither model is price-published at our rental counter - contact us to confirm current availability. Riders choosing between them are really choosing between exploration and commuting-sport; the [Exciter versus Winner R comparison]({{ '/articles/honda-winner-r-vs-yamaha-exciter-155/' | relative_url }}) covers the pure-sport alternative.

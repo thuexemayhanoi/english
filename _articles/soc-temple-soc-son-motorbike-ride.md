@@ -28,7 +28,7 @@ Den Soc, the temple complex dedicated to the boy god Thanh Giong, sits at the fo
 
 ## The route
 
-Ride north out of the city on the Soc Son corridor past the airport-side districts; the temple complex is well signed as you approach the mountains. The road is flat, wide and fast for most of the way — an easy ride for any bike, and often combined with Co Loa citadel or a Dai Lai lake loop for a full northern day.
+Ride north out of the city on the Soc Son corridor past the airport-side districts; the temple complex is well signed as you approach the mountains. The road is flat, wide and fast for most of the way — an easy ride for any bike, and often combined with [Co Loa citadel]({{ '/articles/co-loa-citadel-motorbike-ride/' | relative_url }}) or a [Dai Lai lake loop]({{ '/articles/dai-lai-lake-motorbike-loop/' | relative_url }}) for a full northern day.
 
 ## The temple and the legend
 

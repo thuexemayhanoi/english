@@ -22,11 +22,11 @@ sources:
 internal_link_targets: "minimum-age-ride-motorbike-vietnam, lending-motorbike-unlicensed-rider-vietnam, what-is-a-moped-vietnam-law, no-licence-fine-vietnam, motorbike-fines-vietnam-overview"
 ---
 
-Short answer: the ages are fixed by the 2024 road traffic law — 16 for mopeds, 18 for the A1 class — and the penalty schedule prices the gap. A rider aged 16 to under 18 on a licence-required motorbike (50 cc or more, or 4 kW electric and up) is fined 400,000–600,000 VND under Article 18(4)(a) of Decree 168/2024/NĐ-CP. Riders under 16 are not fined into that band; the decree prescribes a reprimand. The adult who supplied the bike faces the heavier exposure of the two.
+Short answer: the ages are fixed by the 2024 road traffic law — 16 for mopeds, 18 for the A1 class — and the penalty schedule prices the gap. A rider aged 16 to under 18 on a licence-required motorbike (50 cc or more, or 4 kW electric and up) is [fined 400,000–600,000 VND]({{ '/articles/motorbike-fines-vietnam-overview/' | relative_url }}) under Article 18(4)(a) of Decree 168/2024/NĐ-CP. Riders under 16 are not fined into that band; the decree prescribes a reprimand. The adult who supplied the bike faces the heavier exposure of the two.
 
 ## The age lines
 
-Article 59 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) sets the two birthdays: 16 for the licence-free moped category — the 50 cc-and-under, low-power machines that include pedal-assisted motor bicycles under their own rules — and 18 for the A1 licence, which covers everything from the 110 cc runabouts to 125 cc scooters, and above that the A class. There is no licence a 16-year-old can hold that covers a 110 cc bike, and no exception that makes the family Wave a moped.
+Article 59 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) sets the two birthdays: 16 for the [licence-free moped category]({{ '/articles/what-is-a-moped-vietnam-law/' | relative_url }}) — the 50 cc-and-under, low-power machines that include pedal-assisted motor bicycles under their own rules — and 18 for the A1 licence, which covers everything from the 110 cc runabouts to 125 cc scooters, and above that the A class. There is no licence a 16-year-old can hold that covers a 110 cc bike, and no exception that makes the family Wave a moped.
 
 ## What the fine schedule does with the gap
 

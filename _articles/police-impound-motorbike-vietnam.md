@@ -22,7 +22,7 @@ sources:
 internal_link_targets: "stopped-by-traffic-police-vietnam, no-licence-fine-vietnam, unregistered-motorbike-fine-vietnam, riding-without-number-plates-vietnam, leaving-accident-scene-vietnam, expired-licence-fine-vietnam"
 ---
 
-Short answer: Vietnamese traffic police cannot hold a motorbike for just any stop — Decree 168/2024's Article 48 lists the specific violations that carry temporary holding of the vehicle, alongside the fine. For motorbike riders the big ones are riding without a valid licence, riding a bike with no plates or defective registration papers, serious speeding, red-light running, riding on the wrong side or on the sidewalk, and violations connected to an accident. Holding is not a fine and not confiscation; it is custody of the bike until the violation is settled.
+Short answer: [Vietnamese traffic police]({{ '/articles/stopped-by-traffic-police-vietnam/' | relative_url }}) cannot hold a motorbike for just any stop — Decree 168/2024's Article 48 lists the specific violations that carry temporary holding of the vehicle, alongside the fine. For motorbike riders the big ones are [riding without a valid licence]({{ '/articles/no-licence-fine-vietnam/' | relative_url }}), [riding a bike with no plates]({{ '/articles/riding-without-number-plates-vietnam/' | relative_url }}) or defective registration papers, serious speeding, red-light running, riding on the wrong side or on the sidewalk, and violations connected to an accident. Holding is not a fine and not confiscation; it is custody of the bike until the violation is settled.
 
 ## The list, precisely
 

@@ -32,7 +32,7 @@ There is no "gaps between cars" exception anywhere in the article. That is the h
 
 ## Which fines apply, and when
 
-The price depends on which rule the filtering breaks. Moving across lanes not at a permitted place, or without signalling, or straddling two lanes at once, is a lane-change violation under Article 7(1)(e) of Decree 168/2024/NĐ-CP: 200,000–400,000 VND. Travelling in the wrong lane — including riding the divider gap between moving lanes of traffic, or crossing a solid line to filter — falls under Article 7(3)(d) at 600,000–800,000 VND with a four-point licence deduction. Riding the wrong side of a divided road while filtering past a junction queue escalates further still, into the counterflow band at 4–6 million VND.
+The price depends on which rule the filtering breaks. Moving across lanes not at a permitted place, or without signalling, or straddling two lanes at once, is a [lane-change violation]({{ '/articles/motorbike-lane-rules-vietnam/' | relative_url }}) under Article 7(1)(e) of Decree 168/2024/NĐ-CP: 200,000–400,000 VND. Travelling in the wrong lane — including riding the divider gap between moving lanes of traffic, or crossing a solid line to filter — falls under Article 7(3)(d) at 600,000–800,000 VND with a four-point licence deduction. Riding the wrong side of a divided road while filtering past a junction queue escalates further still, into the counterflow band at 4–6 million VND.
 
 The safety-distance rule in Article 12 of the law and the collision consequences in the decree do the rest: a filterer who clips a mirror is not a filtering case any more, and a filter that causes a crash moves into the accident band.
 

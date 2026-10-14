@@ -24,15 +24,15 @@ sources:
 internal_link_targets: "vietnam-motorbike-licence-classes-explained, no-licence-fine-vietnam, how-to-get-a1-licence-vietnam, foreign-licence-exchange-vietnam, can-tourists-ride-motorbike-vietnam"
 ---
 
-No. A car licence — Vietnamese or foreign — does not cover a 125 cc motorbike in Vietnam. The licence classes are separate by design: Article 57 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) defines car classes (B, C, D and the trailer classes) and motorbike classes (A1, A, B1) as distinct categories covering distinct vehicle types. Nothing in the car classes reaches two-wheeled machines.
+No. A car licence — Vietnamese or foreign — does not cover a 125 cc motorbike in Vietnam. The [licence classes]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) are separate by design: Article 57 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) defines car classes (B, C, D and the trailer classes) and motorbike classes (A1, A, B1) as distinct categories covering distinct vehicle types. Nothing in the car classes reaches two-wheeled machines.
 
 ## What happens if you try
 
-Riding a 125 cc scooter with only a car licence is treated by the fine schedule as not meeting licence conditions for that machine — the same band as having no licence at all: 2,000,000–4,000,000 VND for machines up to and including 125 cc, 6,000,000–8,000,000 VND above. The checkpoint does not average the two categories; it checks the licence against the machine in front of it.
+Riding a 125 cc scooter with only a car licence is treated by the fine schedule as not meeting licence conditions for that machine — the same band as [having no licence at all]({{ '/articles/no-licence-fine-vietnam/' | relative_url }}): 2,000,000–4,000,000 VND for machines up to and including 125 cc, 6,000,000–8,000,000 VND above. The checkpoint does not average the two categories; it checks the licence against the machine in front of it.
 
 ## Where the confusion comes from
 
-Some countries fold light motorbikes into car licences, and visitors assume the same carry-over. Vietnam does not. The other common confusion is the exchange: a foreigner exchanging a licence receives Vietnamese classes matching the original — a car-only licence exchanges into car classes only, with no motorbike class appearing by accident.
+Some countries fold light motorbikes into car licences, and visitors assume the same carry-over. Vietnam does not. The other common confusion is the exchange: a foreigner [exchanging a licence]({{ '/articles/foreign-licence-exchange-vietnam/' | relative_url }}) receives Vietnamese classes matching the original — a car-only licence exchanges into car classes only, with no motorbike class appearing by accident.
 
 ## What to do instead
 

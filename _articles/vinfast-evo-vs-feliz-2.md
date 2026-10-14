@@ -20,7 +20,7 @@ sources:
 internal_link_targets: vinfast-evo-review, vinfast-feliz-2-review, vinfast-battery-rental-vs-buying, battery-swap-vs-home-charging-vietnam
 ---
 
-The Evo and Feliz II share VinFast's swap platform — two 1.5 kWh LFP packs, 9,000 VND swaps, V-Green cabinets — and differ in motor and character. All figures are VinFast's official data.
+The [Evo]({{ '/articles/vinfast-evo-review/' | relative_url }}) and [Feliz II]({{ '/articles/vinfast-feliz-2-review/' | relative_url }}) share VinFast's swap platform — two 1.5 kWh LFP packs, 9,000 VND swaps, V-Green cabinets — and differ in motor and character. All figures are VinFast's official data.
 
 ## Side by side
 
@@ -42,7 +42,7 @@ The Evo and Feliz II share VinFast's swap platform — two 1.5 kWh LFP packs, 9,
 
 ## What does not differ
 
-Charging economics (rent at 175,000/300,000 VND per month or buy packs; 9,000 VND per swap), network access, licence status, and the two-battery architecture. Choose the motor and the price, and the rest of ownership is identical.
+Charging economics ([rent at 175,000/300,000 VND per month or buy packs]({{ '/articles/vinfast-battery-rental-vs-buying/' | relative_url }}); 9,000 VND per swap), network access, licence status, and the two-battery architecture. Choose the motor and the price, and the rest of ownership is identical.
 
 ## Verdict
 

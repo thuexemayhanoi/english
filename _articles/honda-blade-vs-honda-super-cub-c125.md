@@ -20,7 +20,7 @@ sources:
 internal_link_targets: honda-blade-110-review, honda-super-cub-c125-review, honda-wave-alpha-vs-honda-super-cub, honda-super-cub-vs-honda-winner-r, premium-underbones-vietnam-verified, cheapest-new-underbones-vietnam-verified
 ---
 
-These are the two ends of Honda's underbone price ladder: the Blade is the budget street-styled 110, and the Super Cub C125 is the heritage model that costs four times as much. Honda Vietnam publishes full specs for both (retrieved 23 September 2026), so the comparison is unusually clear.
+These are the two ends of Honda's underbone price ladder: the [Blade]({{ '/articles/honda-blade-110-review/' | relative_url }}) is the budget street-styled 110, and the [Super Cub C125]({{ '/articles/honda-super-cub-c125-review/' | relative_url }}) is the heritage model that costs four times as much. Honda Vietnam publishes full specs for both (retrieved 23 September 2026), so the comparison is unusually clear.
 
 ## The core difference
 

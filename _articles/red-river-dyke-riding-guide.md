@@ -25,7 +25,7 @@ Hanoi's relationship with the Red River is written into its roads — literally.
 
 ## What the dyke roads are
 
-The dyke system exists to keep the river out of the city, and the crest roads exist because a maintained embankment needs an inspection and transport route along its top. The main urban dyke runs along the left bank past Long Bien and down through the eastern wards; a decorated stretch of it carries the famous ceramic mosaic wall between West Lake's northeast corner and the river. Further out, dyke roads run for dozens of kilometres through the market-garden belts, villages and orchards north and east of the city — the weekend territory of every Hanoi rider.
+The dyke system exists to keep the river out of the city, and the crest roads exist because a maintained embankment needs an inspection and transport route along its top. The main urban dyke runs along the left bank past Long Bien and down through the eastern wards; a decorated stretch of it carries the famous [ceramic mosaic wall]({{ '/articles/hanoi-ceramic-mosaic-road-motorbike-route/' | relative_url }}) between West Lake's northeast corner and the river. Further out, dyke roads run for dozens of kilometres through the market-garden belts, villages and orchards north and east of the city — the weekend territory of every Hanoi rider.
 
 ## How they ride differently
 
@@ -41,7 +41,7 @@ In the dry season (roughly November to April), the dyke roads are at their best 
 
 ## The rider's use of them
 
-For commuters, the dyke road is often the fastest calm crosstown route in the east. For weekend riders, the dyke system is the gateway: it links the city to the orchards of the river islands and the village loops beyond Vinh Tuy and upriver — no traffic lights, river air, and a rhythm that city streets never allow. Many riders combine the Long Bien bridge, the dyke and the islands into one classic morning loop.
+For commuters, the dyke road is often the fastest calm crosstown route in the east. For weekend riders, the dyke system is the gateway: it links the city to the orchards of the river islands and the village loops beyond Vinh Tuy and upriver — no traffic lights, river air, and a rhythm that city streets never allow. Many riders combine the [Long Bien bridge]({{ '/articles/long-bien-bridge-motorbike-guide/' | relative_url }}), the dyke and the [islands]({{ '/articles/red-river-islands-motorbike-guide/' | relative_url }}) into one classic morning loop.
 
 ## A word of respect
 

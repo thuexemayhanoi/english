@@ -32,7 +32,7 @@ The complex runs through five courtyards from the Great Gate inward: the central
 
 ## The route
 
-Van Mieu sits on Van Mieu street at the edge of the old Dong Da–Ba Dinh border, a few minutes' ride southwest of the Old Quarter. The approach is wide-street riding — Nguyen Khuyen and Van Mieu streets serve the entrance — and the district around it is university territory, busy with students on bikes. Ride the approach at student pace, park, and walk in.
+Van Mieu sits on Van Mieu street at the edge of the old Dong Da–Ba Dinh border, a few minutes' ride southwest of the Old Quarter. The approach is wide-street riding — Nguyen Khuyen and Van Mieu streets serve the entrance — and the district around it is [university territory]({{ '/articles/hanoi-university-areas-riding-guide/' | relative_url }}), busy with students on bikes. Ride the approach at student pace, park, and walk in.
 
 ## Parking
 
@@ -40,6 +40,6 @@ There is dedicated motorbike parking around the temple complex, with attendants 
 
 ## Making the visit work
 
-The temple anchors the central heritage ride: pair it with the Imperial Citadel to its north — the natural order is Van Mieu in the morning, the citadel before lunch — and add the Fine Arts Museum around the corner if the day has room. The area guide for the district covers the wider streets. Early morning is the best time in every sense: cooler, quieter, and the courtyards' incense-and-old-stone atmosphere is not yet shared with a hundred tour groups.
+The temple anchors the central heritage ride: pair it with the [Imperial Citadel]({{ '/articles/thang-long-imperial-citadel-motorbike-guide/' | relative_url }}) to its north — the natural order is Van Mieu in the morning, the citadel before lunch — and add the Fine Arts Museum around the corner if the day has room. The area guide for the district covers the wider streets. Early morning is the best time in every sense: cooler, quieter, and the courtyards' incense-and-old-stone atmosphere is not yet shared with a hundred tour groups.
 
 Modest dress applies as at any temple site, and a small amount of care with the helmet — there is no bag check drama, but the courtyards are for walking. Contact us to confirm current availability for a bike suited to the central loop.

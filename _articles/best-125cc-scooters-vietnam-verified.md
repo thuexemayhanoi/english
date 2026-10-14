@@ -37,7 +37,7 @@ The 125cc class is where most Vietnamese buyers and long-stay expats land: enoug
 
 ## Best by mission
 
-Cheapest to run: Gear 125 Hybrid, with the class's best published economy (1.7 L/100km) and lowest weight. Lightest: Gear at 96 kg, then Janus at 97 kg. Most storage: Lead 125 and Latte 125 at 37 litres each - two full-face helmets. Most tech per dong: Vario 125 with liquid cooling, idling stop, smart key, USB-C and full LED. Premium badge: SH Mode 125 with TFT display and front ABS on its Sport, Special and Premium versions.
+Cheapest to run: [Gear 125 Hybrid]({{ '/articles/yamaha-gear-125-hybrid-review/' | relative_url }}), with the class's best published economy (1.7 L/100km) and lowest weight. Lightest: Gear at 96 kg, then Janus at 97 kg. Most storage: [Lead 125]({{ '/articles/honda-lead-125-review/' | relative_url }}) and [Latte 125]({{ '/articles/yamaha-latte-125-review/' | relative_url }}) at 37 litres each - two full-face helmets. Most tech per dong: [Vario 125]({{ '/articles/honda-vario-125-review/' | relative_url }}) with liquid cooling, idling stop, smart key, USB-C and full LED. Premium badge: SH Mode 125 with TFT display and front ABS on its Sport, Special and Premium versions.
 
 ## Honest gaps
 

@@ -24,7 +24,7 @@ VinFast's swap-ready scooters can be bought with or without their batteries, and
 
 ## How the rental model works
 
-VinFast's battery-swap models (Evo, Feliz II, Viper) run on two 1.5 kWh LFP packs under the seat. Buy the bike without batteries and you rent the packs from VinFast: 175,000 VND per month for one battery, 300,000 VND per month for two. Swapping at a V-Green cabinet costs 9,000 VND per battery per swap. Batteries can also be charged at home or public chargers.
+VinFast's battery-swap models ([Evo]({{ '/articles/vinfast-evo-review/' | relative_url }}), Feliz II, Viper) run on two 1.5 kWh LFP packs under the seat. Buy the bike without batteries and you rent the packs from VinFast: 175,000 VND per month for one battery, 300,000 VND per month for two. [Swapping at a V-Green cabinet]({{ '/articles/battery-swap-vs-home-charging-vietnam/' | relative_url }}) costs 9,000 VND per battery per swap. Batteries can also be charged at home or public chargers.
 
 ## What rental buys you
 

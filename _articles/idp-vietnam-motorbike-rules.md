@@ -27,7 +27,7 @@ An International Driving Permit (IDP) is the document that makes many foreign li
 
 ## Which IDP counts
 
-Article 57(8) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) recognises IDPs and national licences issued by countries that are members of the **1968 Vienna Convention on Road Traffic**, provided the licence is appropriate to the vehicle being ridden. Rules of thumb:
+Article 57(8) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) recognises IDPs and national licences issued by [countries that are members]({{ '/articles/which-countries-idp-valid-vietnam/' | relative_url }}) of the **[1968 Vienna Convention on Road Traffic]({{ '/articles/1968-vienna-convention-idp-vietnam/' | relative_url }})**, provided the licence is appropriate to the vehicle being ridden. Rules of thumb:
 
 - Carry both your national licence and the IDP — the IDP is a translation, not a standalone licence. Decree 168/2024/NĐ-CP (Article 18) fines 1968-convention IDP holders who ride without carrying the matching national licence 2–4 million VND
 - Your national licence must itself include motorcycles; an IDP cannot add categories you do not hold

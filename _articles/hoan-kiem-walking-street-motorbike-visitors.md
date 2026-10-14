@@ -23,7 +23,7 @@ sources:
 internal_link_targets: exploring-hoan-kiem-by-motorbike, hanoi-night-markets-motorbike-guide, where-to-park-motorbike-hanoi, riding-hanoi-old-quarter-narrow-streets, hanoi-motorbike-photo-spots, traffic-at-rush-hour-riding-hanoi, hanoi-motorbike-traffic-culture-first-timers
 ---
 
-Every weekend, the streets around Hoan Kiem Lake close to traffic and become Hanoi's walking street — a pedestrian zone of families, street performances, food stalls and the lake lit up. For a rider, the walking street is a pleasant puzzle: the destination is car-and-bike-free, so the ride is all about approach and parking.
+Every weekend, the streets around [Hoan Kiem Lake]({{ '/articles/exploring-hoan-kiem-by-motorbike/' | relative_url }}) close to traffic and become Hanoi's walking street — a pedestrian zone of families, street performances, food stalls and the lake lit up. For a rider, the walking street is a pleasant puzzle: the destination is car-and-bike-free, so the ride is all about approach and parking.
 
 ## The schedule
 
@@ -39,7 +39,7 @@ Around the walking street, parking is the busiest in the city. The dedicated lot
 
 ## Making the evening work
 
-Go by motorbike early, park once, and do everything on foot: the lake loop, the Old Quarter food streets, the night market on Hang Dao–Dong Xuan direction, and back. The walking street is one of the few Hanoi experiences where the bike is purely transport to the boundary — and that is its charm: ride in, park, and join the city on foot.
+Go by motorbike early, park once, and do everything on foot: the lake loop, the Old Quarter food streets, the [night market]({{ '/articles/hanoi-night-markets-motorbike-guide/' | relative_url }}) on Hang Dao–Dong Xuan direction, and back. The walking street is one of the few Hanoi experiences where the bike is purely transport to the boundary — and that is its charm: ride in, park, and join the city on foot.
 
 Sunday morning is the insider version: the zone is still closed, the streets are quiet, and the lake belongs to tai-chi groups and photographers until the stalls open. Ride in before the family wave, park at an edge lot, and you will have the empty walking street almost to yourself.
 

@@ -47,4 +47,4 @@ Long-distance comfort, high-speed reserve and status. That is what the 125s, the
 
 ## Rent a 110 before deciding
 
-The Honda Wave class and the Yamaha Sirius are our price-published daily rentals at 150,000 VND - the cheapest way to test the national default for yourself. Contact us to confirm current availability. Insurance is not included in rentals.
+The [Honda Wave class]({{ '/articles/honda-wave-alpha-110-review/' | relative_url }}) and the [Yamaha Sirius]({{ '/articles/yamaha-sirius-rc-110-review/' | relative_url }}) are our [price-published daily rentals]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) at 150,000 VND - the cheapest way to test the national default for yourself. Contact us to confirm current availability. Insurance is not included in rentals.

@@ -41,7 +41,7 @@ The Old Quarter was built long before motorbikes; its streets are narrow, often 
 
 ## Riding the quarter outside the closure
 
-When you do ride the Old Quarter — and outside weekend evenings you can — expect the densest, slowest, most improvisational traffic in the city. One-way streets double as delivery aisles, food stalls claim half the roadway at meal hours, and the correct speed is whatever leaves you able to stop within the width of a shop awning. The technique article on riding the Old Quarter's narrow streets covers the skills; the short version is: slow, predictable, and never in a hurry.
+When you do ride the Old Quarter — and outside weekend evenings you can — expect the densest, slowest, most improvisational traffic in the city. One-way streets double as delivery aisles, food stalls claim half the roadway at meal hours, and the correct speed is whatever leaves you able to stop within the width of a shop awning. The [technique article]({{ '/articles/riding-hanoi-old-quarter-narrow-streets/' | relative_url }}) on riding the Old Quarter's narrow streets covers the skills; the short version is: slow, predictable, and never in a hurry.
 
 ## What to actually see, in rideable order
 

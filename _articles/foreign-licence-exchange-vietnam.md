@@ -30,7 +30,7 @@ An International Driving Permit is a temporary solution. Foreigners living in Vi
 
 The circular ties eligibility to residence. An applicant needs papers showing residence in Vietnam of at least three months — a temporary residence record for most foreigners — together with a national driving licence that is still valid in the country that issued it.
 
-Two things do not count as a basis for exchange. First, an International Driving Permit: IDPs are recognised for riding as permits, but they cannot be swapped for a Vietnamese licence. Second, an expired national licence: if the home licence has lapsed, the applicant may need to qualify through the Vietnamese testing route instead of the simple exchange.
+Two things do not count as a basis for exchange. First, an [International Driving Permit]({{ '/articles/idp-vietnam-motorbike-rules/' | relative_url }}): IDPs are recognised for riding as permits, but they cannot be swapped for a Vietnamese licence. Second, an expired national licence: if the home licence has lapsed, the applicant may need to qualify through the Vietnamese testing route instead of the simple exchange.
 
 ## The dossier
 
@@ -50,6 +50,6 @@ Riding without a valid licence is one of the most expensive mistakes on Vietname
 
 ## Exchange or IDP — which one applies
 
-Tourists on short stays ride on a 1968 Vienna Convention IDP carried with the national licence. Foreigners with residence measured in months should start the exchange instead. The two systems are complements, not competitors, and the dividing line is residence.
+[Tourists on short stays]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}) ride on a [1968 Vienna Convention IDP]({{ '/articles/1968-vienna-convention-idp-vietnam/' | relative_url }}) carried with the national licence. Foreigners with residence measured in months should start the exchange instead. The two systems are complements, not competitors, and the dividing line is residence.
 
 *Information, not legal advice. Verified against Circular 12/2025/TT-BCA and Law 36/2024/QH15 on 2026-09-22.*

@@ -28,7 +28,7 @@ Duong Lam, in Son Tay on the western edge of Hanoi, is the village that preserva
 
 ## The route
 
-The classic line follows Route 32 west toward Son Tay and then picks up Road 21 to the village, passing through market-garden country and small towns the whole way. It is flat, mostly well-surfaced riding with a steady stream of local traffic through the towns — the sort of ride where the pleasure is in the ordinary Red River delta scenery rather than any single viewpoint. Riders who want a quieter return can drop onto the dyke-top roads that run parallel to the main corridor and cruise back into Hanoi along the river.
+The classic line follows Route 32 west toward Son Tay and then picks up Road 21 to the village, passing through market-garden country and small towns the whole way. It is flat, mostly well-surfaced riding with a steady stream of local traffic through the towns — the sort of ride where the pleasure is in the ordinary Red River delta scenery rather than any single viewpoint. Riders who want a quieter return can drop onto the [dyke-top roads]({{ '/articles/red-river-dyke-riding-guide/' | relative_url }}) that run parallel to the main corridor and cruise back into Hanoi along the river.
 
 ## In the village
 

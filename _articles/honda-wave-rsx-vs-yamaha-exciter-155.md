@@ -20,7 +20,7 @@ sources:
 internal_link_targets: honda-wave-rsx-review, yamaha-exciter-155-vva-review, xe-so-vs-xe-con-tay-explained, best-150cc-manual-motorbikes-vietnam-verified, honda-winner-r-vs-yamaha-exciter-155, how-to-rent-a-motorbike-hanoi
 ---
 
-The Honda Wave RSX and the Yamaha Exciter 155 VVA sit at opposite ends of what Vietnam calls a motorbike. One is a semi-automatic underbone you shift with your foot and never think about; the other is a manual-clutch sport machine built for revs. Honda and Yamaha publish full specifications for both (retrieved 23 September 2026), and the numbers show exactly how far apart they are.
+The [Honda Wave RSX]({{ '/articles/honda-wave-rsx-review/' | relative_url }}) and the [Yamaha Exciter 155 VVA]({{ '/articles/yamaha-exciter-155-vva-review/' | relative_url }}) sit at opposite ends of what Vietnam calls a motorbike. One is a semi-automatic underbone you shift with your foot and never think about; the other is a [manual-clutch sport machine]({{ '/articles/best-150cc-manual-motorbikes-vietnam-verified/' | relative_url }}) built for revs. Honda and Yamaha publish full specifications for both (retrieved 23 September 2026), and the numbers show exactly how far apart they are.
 
 ## The core difference
 

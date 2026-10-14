@@ -19,7 +19,7 @@ sources:
 internal_link_targets: how-to-ride-manual-clutch-motorbike-vietnam, how-to-launch-manual-bike-without-stalling, clutch-technique-stop-and-go-traffic, balancing-pillion-riding-motorbike-vietnam, best-motorbike-for-two-people-hanoi
 ---
 
-Carrying a pillion changes almost every input on a manual-clutch motorbike, and the clutch is where the change is felt first. Launches that were easy solo now need more revs and a slower lever release; stops that were routine now need more distance. The technique itself is simple — the discipline is in adjusting every habit.
+[Carrying a pillion]({{ '/articles/balancing-pillion-riding-motorbike-vietnam/' | relative_url }}) changes almost every input on a [manual-clutch motorbike]({{ '/articles/how-to-ride-manual-clutch-motorbike-vietnam/' | relative_url }}), and the clutch is where the change is felt first. Launches that were easy solo now need more revs and a slower lever release; stops that were routine now need more distance. The technique itself is simple — the discipline is in adjusting every habit.
 
 ## Brief your passenger first
 
@@ -43,4 +43,4 @@ At walking pace, a pillion's weight exaggerates every wobble. Keep their weight 
 
 ## Who should ride two-up
 
-Only carry a passenger once your solo clutch control is genuinely solid — friction-zone drills, clean launches every time, no stalls. A licence question sits on top of the technique question: check what your licence covers before taking a passenger. If you need a bike suited to two people for a Hanoi stay, contact us to confirm current availability.
+Only carry a passenger once your solo clutch control is genuinely solid — friction-zone drills, [clean launches every time, no stalls]({{ '/articles/how-to-launch-manual-bike-without-stalling/' | relative_url }}). A licence question sits on top of the technique question: check what your licence covers before taking a passenger. If you need a bike suited to two people for a Hanoi stay, contact us to confirm current availability.

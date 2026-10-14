@@ -28,11 +28,11 @@ No. Vietnamese licence exams — motorbike and car alike — are run in Vietname
 
 ## Why this is the decisive fact for planning
 
-The theory test is a timed multiple-choice paper on a computer. It is passable with memorisation — the question bank is published and drilled by every centre — but a candidate who cannot read Vietnamese reliably is memorising shapes, which is a fragile way to pass and a poor way to learn the road rules the test exists to enforce.
+The theory test is a timed multiple-choice paper on a computer. It is passable with memorisation — [the question bank]({{ '/articles/vietnam-a1-licence-test/' | relative_url }}) is published and drilled by every centre — but a candidate who cannot read Vietnamese reliably is memorising shapes, which is a fragile way to pass and a poor way to learn the road rules the test exists to enforce.
 
 ## The route that avoids the test
 
-For foreigners holding a valid national licence, the exchange under Circular 12/2025/TT-BCA usually avoids the exam entirely: dossier, translation, residence papers, issuance. A valid motorbike licence exchanges into A1 or A without a Vietnamese theory test. This is why the exchange is the standard recommendation for licence-holders moving to Vietnam, and why the test question mostly matters for foreigners who hold no licence at all.
+For foreigners holding a valid national licence, the [exchange under Circular 12/2025/TT-BCA]({{ '/articles/foreign-licence-exchange-vietnam/' | relative_url }}) usually avoids the exam entirely: dossier, translation, residence papers, issuance. A valid motorbike licence exchanges into A1 or A without a Vietnamese theory test. This is why the exchange is the standard recommendation for licence-holders moving to Vietnam, and why the test question mostly matters for foreigners who hold no licence at all.
 
 ## If you must take the test
 

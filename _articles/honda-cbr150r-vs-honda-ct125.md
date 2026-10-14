@@ -20,7 +20,7 @@ sources:
 internal_link_targets: honda-cbr150r-review, honda-ct125-review, honda-cbr150r-vs-honda-winner-r, honda-ct125-vs-honda-winner-r, honda-ct125-vs-honda-super-cub-c125, best-150cc-manual-motorbikes-vietnam-verified
 ---
 
-Honda's two most specialised manual-gearbox machines in Vietnam aim at opposite horizons: the CBR150R is built for smooth tarmac and revs; the CT125 is built for trails, tracks and luggage. Both spec sets are Honda VN official (retrieved 23 September 2026).
+Honda's two most specialised manual-gearbox machines in Vietnam aim at opposite horizons: the [CBR150R]({{ '/articles/honda-cbr150r-review/' | relative_url }}) is built for smooth tarmac and revs; the [CT125]({{ '/articles/honda-ct125-review/' | relative_url }}) is built for trails, tracks and luggage. Both spec sets are Honda VN official (retrieved 23 September 2026).
 
 ## Engines
 

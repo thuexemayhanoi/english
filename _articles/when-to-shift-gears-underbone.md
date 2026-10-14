@@ -31,11 +31,11 @@ Shift up when the working voice appears; shift down when the engine struggles or
 
 ## The habit loop
 
-Every minute of riding runs the same check: engine voice → choose gear → throttle. On a semi-automatic the click costs nothing, so shift freely. On a manual bike each shift costs a clutch squeeze, so plan one gear earlier.
+Every minute of riding runs the same check: engine voice → choose gear → throttle. On a [semi-automatic]({{ '/articles/how-to-shift-gears-semi-automatic-underbone/' | relative_url }}) the click costs nothing, so shift freely. On a manual bike each shift costs a clutch squeeze, so plan one gear earlier.
 
 ## Why underbones forgive you
 
-The small single-cylinder engines that power this class pull from very low revs — our engine explainer covers why. Their power arrives early and flattens out, so being one gear too high is merely sluggish, never dangerous. The practical rules: shift up early and often in the city; hold a gear longer only when overtaking; and downshift before you think you need to on hills.
+The small single-cylinder engines that power this class pull from very low revs — our [engine explainer]({{ '/articles/single-cylinder-underbone-engines-explained/' | relative_url }}) covers why. Their power arrives early and flattens out, so being one gear too high is merely sluggish, never dangerous. The practical rules: shift up early and often in the city; hold a gear longer only when overtaking; and downshift before you think you need to on hills.
 
 ## Loading and hills
 

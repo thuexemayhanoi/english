@@ -20,11 +20,11 @@ sources:
 internal_link_targets: honda-super-cub-c125-review, yamaha-sirius-rc-110-review, honda-wave-alpha-vs-honda-super-cub, honda-ct125-vs-yamaha-sirius, premium-underbones-vietnam-verified, best-110cc-underbones-vietnam-verified
 ---
 
-The Super Cub and the Sirius are the two most famous names in Vietnamese motorcycling - one for being the world's best-selling design, the other for being everywhere in Vietnam at the lowest possible price. Honda and Yamaha publish full specifications for the current versions (retrieved 23 September 2026).
+The Super Cub and the [Sirius]({{ '/articles/yamaha-sirius-rc-110-review/' | relative_url }}) are the two most famous names in Vietnamese motorcycling - one for being the world's best-selling design, the other for being everywhere in Vietnam at the lowest possible price. Honda and Yamaha publish full specifications for the current versions (retrieved 23 September 2026).
 
 ## The core difference
 
-The Sirius RC 110 is a 110.3 cc air-cooled semi-automatic with a four-speed rotary gearbox, at 21,993,000 VND for the alloy-wheel RC version. The Super Cub C125 is a 123.9 cc air-cooled heritage machine with a four-speed gearbox, at 88,353,813 VND. The price gap is the story: the Cub costs four times as much and does not go four times as fast.
+The Sirius RC 110 is a 110.3 cc air-cooled semi-automatic with a four-speed rotary gearbox, at 21,993,000 VND for the alloy-wheel RC version. The [Super Cub C125]({{ '/articles/honda-super-cub-c125-review/' | relative_url }}) is a 123.9 cc air-cooled heritage machine with a four-speed gearbox, at 88,353,813 VND. The price gap is the story: the Cub costs four times as much and does not go four times as fast.
 
 ## The verified numbers
 

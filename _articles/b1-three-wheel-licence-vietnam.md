@@ -22,11 +22,11 @@ sources:
 internal_link_targets: "vietnam-motorbike-licence-classes-explained, old-licence-classes-after-2025-vietnam, vietnam-a-licence-what-you-can-ride, minimum-age-ride-motorbike-vietnam"
 ---
 
-Three-wheeled motorbikes have their own licence class. Under Article 57 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15), the B1 class is issued for three-wheeled motorbikes — replacing the old A3 class that the 2024 law retired into the transitional rules.
+Three-wheeled motorbikes have their own licence class. Under Article 57 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15), the B1 class is issued for three-wheeled motorbikes — replacing the old A3 class that the 2024 law retired into the [transitional rules]({{ '/articles/old-licence-classes-after-2025-vietnam/' | relative_url }}).
 
 ## What B1 covers
 
-The class covers motorbikes with three wheels, whether the machine is a cargo trike, a passenger three-wheeler, or a motorcycle with a sidecar in the motorbike category. The minimum age is 18, the same as A1. What it does not do is extend two-wheeled coverage: B1 is a separate class, not an upgrade of A1, and a B1 holder riding a two-wheeled 110 cc scooter is riding outside their class — treated by the fine schedule as not meeting licence conditions for that machine.
+The class covers motorbikes with three wheels, whether the machine is a cargo trike, a passenger three-wheeler, or a motorcycle with a sidecar in the motorbike category. The [minimum age is 18]({{ '/articles/minimum-age-ride-motorbike-vietnam/' | relative_url }}), the same as A1. What it does not do is extend two-wheeled coverage: B1 is a separate class, not an upgrade of A1, and a B1 holder riding a two-wheeled 110 cc scooter is riding outside their class — treated by the fine schedule as not meeting licence conditions for that machine.
 
 ## Relationship to the old classes
 

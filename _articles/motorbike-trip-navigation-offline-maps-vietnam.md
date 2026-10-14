@@ -28,7 +28,7 @@ Navigation is the quiet deal-breaker of Vietnamese motorbike trips. Signal is ge
 
 ## The expressway trap
 
-The single biggest navigation mistake: car-mode routing that puts you on an expressway (CT-class roads). Motorbikes are  banned from Vietnamese expressways, and map apps will happily offer them. Learn to refuse CT-road suggestions and follow the old national highways instead — QL (quốc lộ) roads are the two-wheel backbone of the country.
+The single biggest navigation mistake: car-mode routing that puts you on an expressway (CT-class roads). [Motorbikes are banned from Vietnamese expressways]({{ '/articles/motorbikes-on-expressway-vietnam/' | relative_url }}), and map apps will happily offer them. Learn to refuse CT-road suggestions and follow the old national highways instead — QL (quốc lộ) roads are the two-wheel backbone of the country.
 
 ## Google Maps
 
@@ -40,9 +40,9 @@ For mountain riding, OpenStreetMap-based apps (OsmAnd, Organic Maps and similar)
 
 ## Habits that matter more than the app
 
-- Mount the phone properly and program the destination before moving (see the phone-mount guide — and remember that touching the phone while riding is a fine).
+- Mount the phone properly and program the destination before moving (see the [phone-mount guide]({{ '/articles/phone-mounts-motorbike-vietnam/' | relative_url }}) — and remember that touching the phone while riding is a fine).
 - Screenshot or write down the route’s key towns as a paper fallback; batteries die.
 - Ask locally at fuel stops when a road "looks wrong" — closures and roadwork spread faster by word of mouth than by app.
 - In fog or at night, navigate less and stop more.
 
-Pair this with the rural fuel and coverage guide for the full picture. Contact us to confirm current availability for your trip dates.
+Pair this with the [rural fuel and coverage guide]({{ '/articles/fuel-atm-phone-coverage-rural-rides-vietnam/' | relative_url }}) for the full picture. Contact us to confirm current availability for your trip dates.

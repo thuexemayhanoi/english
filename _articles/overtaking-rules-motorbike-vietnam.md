@@ -27,11 +27,11 @@ Overtaking is where motorbike traffic makes its daily decisions — and the law 
 
 ## The left rule and the right-side fine
 
-The default: pass on the left. Overtaking on the right — squeezing past a slower vehicle on its right side — is permitted only in the narrow cases the law lists (for example, when the vehicle ahead is signalling a left turn, or on one-way roads with multiple lanes). Outside those cases, overtaking on the right costs 600,000–800,000 VND under Decree 168/2024/NĐ-CP, with point deduction. In practice this is the violation the flow commits constantly: the scooter threading past a car on its right at a light is doing it.
+The default: pass on the left. Overtaking on the right — squeezing past a slower vehicle on its right side — is permitted only in the narrow cases the law lists (for example, when the vehicle ahead is signalling a left turn, or on one-way roads with multiple lanes). Outside those cases, overtaking on the right costs 600,000–800,000 VND under Decree 168/2024/NĐ-CP, with [point deduction]({{ '/articles/motorbike-licence-points-system-vietnam/' | relative_url }}). In practice this is the violation the flow commits constantly: the scooter threading past a car on its right at a light is doing it.
 
 ## Where passing is prohibited altogether
 
-The no-overtaking zones are the classic list: crests and curves with blocked view, bridges and narrow sections where signed, level crossings, intersections (except the permitted cases at signalised junctions), pedestrian crossings while occupied, and anywhere a solid centre line or a no-overtaking sign says so. Stopped queues — school gates, market pinch points — are also not overtaking situations; passing a stopped queue on the wrong side is usually wrong-way riding instead.
+The no-overtaking zones are the classic list: crests and curves with blocked view, bridges and narrow sections where signed, level crossings, intersections (except the permitted cases at signalised junctions), pedestrian crossings while occupied, and anywhere a solid centre line or a no-overtaking sign says so. Stopped queues — school gates, market pinch points — are also not overtaking situations; passing a stopped queue on the wrong side is usually [wrong-way riding]({{ '/articles/wrong-way-riding-fine-vietnam/' | relative_url }}) instead.
 
 ## The motorbike-specific reality
 

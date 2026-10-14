@@ -27,7 +27,7 @@ Vietnam has no "one beer is fine" allowance. Article 8 of the Law on Road Traffi
 
 ## The fine bands for motorbikes and mopeds
 
-Decree 168/2024/NĐ-CP (Article 7) sets the punishment bands for motorbike and moped riders — the same levels for both:
+Decree 168/2024/NĐ-CP (Article 7) sets the [punishment bands]({{ '/articles/motorbike-fines-vietnam-overview/' | relative_url }}) for motorbike and moped riders — the same levels for both:
 
 | Blood alcohol | Breath | Fine (VND) | Extra penalties |
 |---|---|---|---|

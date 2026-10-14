@@ -20,7 +20,7 @@ sources:
 internal_link_targets: "yamaha-pg-1-review, honda-ct125-review, honda-ct125-vs-honda-super-cub-c125, underbone-wheelbase-ground-clearance-explained, why-17-inch-wheels-underbones, honda-ct125-touring-setup-guide"
 ---
 
-The PG-1 and the CT125 attack the same idea from opposite directions: light motorcycles that survive bad roads while staying practical in the city. Yamaha builds the PG-1 as a semi-automatic adventure underbone; Honda builds the CT125 as a manual-clutch trail Cub. All figures are from the official Yamaha VN PG-1 2026 page and Honda VN CT125 page (retrieved 23-24 September 2026).
+The PG-1 and the CT125 attack the same idea from opposite directions: light motorcycles that survive bad roads while staying practical in the city. Yamaha builds the [PG-1]({{ '/articles/yamaha-pg-1-review/' | relative_url }}) as a semi-automatic adventure underbone; Honda builds the [CT125]({{ '/articles/honda-ct125-review/' | relative_url }}) as a manual-clutch trail Cub. All figures are from the official Yamaha VN PG-1 2026 page and Honda VN CT125 page (retrieved 23-24 September 2026).
 
 ## Engines and gears
 
@@ -44,4 +44,4 @@ The PG-1 lists 107 kg with a 795 mm seat, 1,280 mm wheelbase and a 5.1 L tank. T
 
 ## Which one
 
-Choose the PG-1 for clutchless simplicity, flood-season clearance and a lower entry price; choose the CT125 for the manual-clutch experience, Honda Cub durability culture and a longer-travel all-rounder. Riders who want the same tall clearance without any trail styling are not served by either — and riders cross-shopping the CT125 against its classic sibling should also read our CT125 versus Super Cub C125 comparison.
+Choose the PG-1 for clutchless simplicity, flood-season clearance and a lower entry price; choose the CT125 for the manual-clutch experience, Honda Cub durability culture and a longer-travel all-rounder. Riders who want the same tall clearance without any trail styling are not served by either — and riders cross-shopping the CT125 against its classic sibling should also read our [CT125 versus Super Cub C125 comparison]({{ '/articles/honda-ct125-vs-honda-super-cub-c125/' | relative_url }}).

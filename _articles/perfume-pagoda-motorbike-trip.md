@@ -24,7 +24,7 @@ sources:
 internal_link_targets: "best-motorbike-for-day-trips-from-hanoi, hanoi-pagodas-temples-motorbike-guide, thay-pagoda-tay-phuong-pagoda-motorbike-route, hydration-long-motorbike-rides, how-to-rent-a-motorbike-hanoi, quan-son-lake-motorbike-ride"
 ---
 
-The Perfume Pagoda (Chua Huong) is northern Vietnam’s most famous pilgrimage complex — a spread of temples and shrines folded into a karst river valley in My Duc, about 55–60 kilometres southwest of Hanoi. Riding there is only the first stage of a trip that continues by boat on foot: the classic Hanoi day out that combines all three.
+The Perfume Pagoda (Chua Huong) is northern Vietnam’s most famous pilgrimage complex — a spread of temples and shrines folded into a karst river valley in My Duc, about 55–60 kilometres southwest of Hanoi. Riding there is only the first stage of a trip that continues by boat on foot: the [classic Hanoi day out]({{ '/topics/trips/' | relative_url }}) that combines all three.
 
 ## The ride out
 

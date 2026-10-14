@@ -29,7 +29,7 @@ A household or building socket remains the cheapest, most reliable charge point 
 
 ## 2. Battery-swap cabinets
 
-For VinFast's swap-ready models (Evo, Feliz II, Viper), V-Green cabinets exchange your flat 1.5 kWh LFP pack for a full one at 9,000 VND per battery per swap. The network installed its first 4,500 stations by January 2026 and plans 45,000 cabinets across 34 provinces and cities by Q1 2026 — concentrated exactly where riders are. Swapping is the answer for street-parkers and high-mileage users.
+For VinFast's swap-ready models (Evo, Feliz II, Viper), [V-Green cabinets]({{ '/articles/v-green-battery-swap-network-guide/' | relative_url }}) exchange your flat 1.5 kWh LFP pack for a full one at 9,000 VND per battery per swap. The network installed its first 4,500 stations by January 2026 and plans 45,000 cabinets across 34 provinces and cities by Q1 2026 — concentrated exactly where riders are. Swapping is the answer for street-parkers and high-mileage users.
 
 ## 3. Fast-charging stations
 

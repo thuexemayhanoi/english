@@ -32,7 +32,7 @@ Modern VIP cabins (three or fewer berths across, with near-flat beds) have made 
 
 ## What the motorbike does better than any bus
 
-The bus route and the riding route are not the same thing. Between Hanoi and Phong Nha, the bus thunders down the QL1A at night; the rider spends three days on the Ho Chi Minh Road through passes and valleys that no bus passenger ever sees. The sleeper bus optimises for arrival; the motorbike optimises for the space in between. Our article on how far to ride in a day helps you plan realistic daily stages if you choose the road.
+The bus route and the riding route are not the same thing. Between Hanoi and Phong Nha, the bus thunders down the QL1A at night; the rider spends three days on the Ho Chi Minh Road through passes and valleys that no bus passenger ever sees. The sleeper bus optimises for arrival; the motorbike optimises for the space in between. Our [article on how far to ride in a day]({{ '/articles/how-far-motorbike-day-trip-hanoi/' | relative_url }}) helps you plan realistic daily stages if you choose the road.
 
 There is also a freedom argument that every long-distance rider makes sooner or later: on your own bike you stop for the rice field at golden hour, the roadside pho, the viewpoint that is not in any guidebook. A bus schedule cannot be argued with; a throttle can.
 
@@ -43,7 +43,7 @@ The strongest itinerary is often both, in this order: ride the region you came f
 - Ride north Vietnam's loops (Ninh Binh, Pu Luong, Ha Giang), then take a sleeper bus or train south and rent again in Hoi An or Da Nang for central Vietnam.
 - Ride the central coast (Hue-Hai Van-Hoi An), then bus to Da Lat or Ho Chi Minh City and ride the highlands or the Mekong Delta on a fresh rental.
 
-Some, but not all, sleeper bus companies will carry a motorbike in the hold on long tourist runs for an extra fee; others refuse bikes entirely. Our guide to ferry and train transport covers the bike-carrying options in detail, because unlike a bus, Vietnam Railways has a defined system for accompanied motorbikes. If you plan to bus yourself and ship or re-rent the bike, confirm the bike policy with the operator before you book the seat.
+Some, but not all, sleeper bus companies will carry a motorbike in the hold on long tourist runs for an extra fee; others refuse bikes entirely. Our [guide to ferry and train transport]({{ '/articles/motorbike-ferry-train-transport-vietnam/' | relative_url }}) covers the bike-carrying options in detail, because unlike a bus, Vietnam Railways has a defined system for accompanied motorbikes. If you plan to bus yourself and ship or re-rent the bike, confirm the bike policy with the operator before you book the seat.
 
 ## The honest downsides of each
 

@@ -22,7 +22,7 @@ sources:
 internal_link_targets: electric-motorbike-battery-lifespan-vietnam, electric-motorbike-battery-health-check, how-electric-motorbikes-work, electric-motorbike-battery-capacity-explained, vinfast-battery-rental-vs-buying
 ---
 
-Open the seat of a Vietnamese electric motorbike and the pack underneath comes in two main flavours. Which one it is shapes how far you ride, how long it lasts and how it should be treated.
+Open the seat of a Vietnamese electric motorbike and the pack underneath comes in two main flavours. Which one it is shapes how far you ride, [how long it lasts]({{ '/articles/electric-motorbike-battery-lifespan-vietnam/' | relative_url }}) and how it should be treated.
 
 ## LFP: the swap-network standard
 
@@ -43,4 +43,4 @@ Dat Bike's Weaver 200 carries a 72 V 68 Ah lithium-ion pack, and the official pr
 
 ## The practical rules either way
 
-Chemistry does not change the care basics: avoid storing packs flat-empty for long breaks, keep them out of direct sun, charge with the supplied charger, and check the battery-health signals before buying used. Our battery lifespan and health-check guides cover the routines in detail. Capacity — the kilowatt-hours that turn chemistry into range — is explained in the next article in this series.
+Chemistry does not change the care basics: avoid storing packs flat-empty for long breaks, keep them out of direct sun, charge with the supplied charger, and check the [battery-health signals]({{ '/articles/electric-motorbike-battery-health-check/' | relative_url }}) before buying used. Our battery lifespan and health-check guides cover the routines in detail. Capacity — the kilowatt-hours that turn chemistry into range — is explained in the next article in this series.

@@ -19,7 +19,7 @@ sources:
 internal_link_targets: kick-vs-electric-start-explained, cold-start-underbone-choke-warmup, push-start-motorbike-safely, dead-battery-motorbike-vietnam, riding-semi-automatic-first-time
 ---
 
-Even with electric start standard on nearly every underbone sold in Vietnam, the kick starter is still there — and the day your battery dies at 7 a.m. is not the day to learn it. Good kick-start technique takes five minutes to understand and one dead-battery morning to truly appreciate.
+Even with [electric start]({{ '/articles/kick-vs-electric-start-explained/' | relative_url }}) standard on nearly every underbone sold in Vietnam, the kick starter is still there — and the day your battery dies at 7 a.m. is not the day to learn it. Good kick-start technique takes five minutes to understand and one dead-battery morning to truly appreciate.
 
 ## Position first
 
@@ -27,7 +27,7 @@ Stand on the left side of the bike, both hands on the bars, right foot on the ki
 
 ## The compression stroke
 
-Prepare the engine correctly first: choke on for a cold engine (most carburetted underbones), throttle closed. Now the kick itself. Push the lever slowly down until you feel hard resistance — that is the compression stroke. Let the lever return fully. Then, from the top of its travel, give one smooth, committed, full-length kick all the way through. Follow through with your leg — a short stab spins the engine too slowly to start.
+Prepare the engine correctly first: [choke on for a cold engine]({{ '/articles/cold-start-underbone-choke-warmup/' | relative_url }}) (most carburetted underbones), throttle closed. Now the kick itself. Push the lever slowly down until you feel hard resistance — that is the compression stroke. Let the lever return fully. Then, from the top of its travel, give one smooth, committed, full-length kick all the way through. Follow through with your leg — a short stab spins the engine too slowly to start.
 
 Three habits that make it work:
 

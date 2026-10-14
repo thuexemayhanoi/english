@@ -24,7 +24,7 @@ If Vietnam's motorbike market had two poles, these bikes would be them: the ligh
 
 ## The core difference
 
-The Wave Alpha 110 is a 96 kg, 109.2 cc semi-automatic with electric start, a 3.7-litre tank and a list price of 18,841,091 VND - the cheapest new Honda in the verified range. The Exciter 155 VVA is a 123 kg wet, 155 cc liquid-cooled four-valve with VVA, a six-speed gearbox, manual Assist and Slipper clutch and 13.2 kW at 9,500 rpm.
+The [Wave Alpha 110]({{ '/articles/honda-wave-alpha-110-review/' | relative_url }}) is a 96 kg, 109.2 cc semi-automatic with electric start, a 3.7-litre tank and a list price of 18,841,091 VND - the cheapest new Honda in the verified range. The [Exciter 155 VVA]({{ '/articles/yamaha-exciter-155-vva-review/' | relative_url }}) is a 123 kg wet, 155 cc liquid-cooled four-valve with VVA, a six-speed gearbox, manual Assist and Slipper clutch and 13.2 kW at 9,500 rpm.
 
 ## The verified numbers
 

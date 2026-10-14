@@ -27,7 +27,7 @@ Motorbike licences in Vietnam do not expire. Under Article 57 of the Law on Road
 
 ## What "no time limit" covers
 
-An A1 or A licence stays valid indefinitely in three situations: it never reaches a printed expiry date; it does not need periodic renewal; and it only leaves circulation when lost, damaged, reissued with changed details, or invalidated by the points system. That last one matters — a licence with all 12 points deducted stops being usable even though it has no expiry date to lapse.
+An [A1 or A licence]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) stays valid indefinitely in three situations: it never reaches a printed expiry date; it does not need periodic renewal; and it only leaves circulation when lost, damaged, reissued with changed details, or invalidated by the points system. That last one matters — a licence with all 12 points deducted stops being usable even though it has no expiry date to lapse.
 
 ## What still has a time limit
 
@@ -39,7 +39,7 @@ Older motorbike licences printed on paper remain valid under the transitional pr
 
 ## Renewal-style situations
 
-The procedures that feel like renewal are reissues: a licence lost or damaged is reissued with the same classes; a change of registered details is updated onto a new card; a licence whose points have been fully deducted comes back only after the recovery process. For motorbikes, "renewal" is really "reissue when something happens to the card".
+The procedures that feel like renewal are reissues: a [licence lost or damaged]({{ '/articles/lost-motorbike-licence-replacement-vietnam/' | relative_url }}) is reissued with the same classes; a change of registered details is updated onto a new card; a licence whose points have been fully deducted comes back only after the recovery process. For motorbikes, "renewal" is really "reissue when something happens to the card".
 
 For foreign residents, a Vietnamese motorbike licence obtained by exchange follows the same no-expiry rule once issued.
 

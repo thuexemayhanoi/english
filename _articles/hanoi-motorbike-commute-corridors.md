@@ -41,6 +41,6 @@ The daily craft is layer choice: every corridor has a parallel layer — the mai
 
 ## Choosing your own corridor
 
-When picking where to live or which job's commute to accept, ride the candidate corridor once in each direction at real hours before deciding — the same lesson as the neighbourhood guide. And when the corridor is fixed and the schedule is not, the commuting bike choice matters less than patience; any reliable 110–150cc machine handles the flow, and the skills that make it pleasant are the rush-hour riding ones: filtering honestly, merging early, and treating the commute as meditation with a timer.
+When picking where to live or which job's commute to accept, ride the candidate corridor once in each direction at real hours before deciding — the same lesson as the [neighbourhood guide]({{ '/articles/choosing-hanoi-neighbourhood-motorbike-access/' | relative_url }}). And when the corridor is fixed and the schedule is not, the commuting bike choice matters less than patience; any reliable 110–150cc machine handles the flow, and the skills that make it pleasant are the [rush-hour riding]({{ '/articles/traffic-at-rush-hour-riding-hanoi/' | relative_url }}) ones: filtering honestly, merging early, and treating the commute as meditation with a timer.
 
 The traffic is the city's constant. The corridors, though — those you can learn, and once learned, Hanoi becomes a place where you are never really stuck, just riding the layer you chose.

@@ -31,13 +31,13 @@ The legal minimum age depends on the machine, not on how experienced a teenager 
 
 Sixteen is the age for mopeds only. A moped means an engine of 50 cc or less, or an electric motor of up to 4 kW, with a design speed of no more than 50 km/h. No licence is needed for this category, but the age floor still applies, and traffic police do check.
 
-Eighteen is the age for everything above the moped category. From 18, a rider can obtain the A1 licence and legally ride standard scooters and motorbikes such as 110–125 cc automatics — the types most tourists and expats rent in Hanoi.
+Eighteen is the age for everything above the moped category. From 18, a rider can obtain the [A1 licence]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) and legally ride standard scooters and motorbikes such as 110–125 cc automatics — the types most tourists and expats rent in Hanoi.
 
 ## What happens if the age rule is broken
 
 Riding a motorbike before turning 18 has a specific penalty. Under Article 18(4)(a) of Decree 168/2024/NĐ-CP, a person aged 16 to under 18 who rides a motorbike of 50 cc or more, or an electric motorbike of 4 kW or more, is fined 400,000–600,000 VND.
 
-Decree 238/2026/NĐ-CP, effective from 15 August 2026, rewrote this clause to make its meaning unmistakable after social-media claims spread that all 16-year-olds would be banned from every kind of two-wheeler. That is not what the rule does. People of 16 and above may still ride mopeds; the fine targets only under-18s on licence-required machines.
+Decree 238/2026/NĐ-CP, effective from 15 August 2026, rewrote this clause to make its meaning unmistakable after social-media claims spread that all 16-year-olds would be banned from every kind of two-wheeler. That is not what the rule does. People of 16 and above may still ride [mopeds]({{ '/articles/what-is-a-moped-vietnam-law/' | relative_url }}); the fine targets only under-18s on licence-required machines.
 
 For riders under 16, penalties are handled more leniently for mopeds, but a vehicle owner or parent who handed over the bike can face their own penalty for letting an unqualified person ride.
 

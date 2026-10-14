@@ -38,11 +38,11 @@ For visitors, the practical additions: keep the rental shop's number at hand, ke
 
 ## What the law does with failures
 
-A violation of traffic rules that causes an accident already carries 10,000,000–14,000,000 VND for motorbike riders under Article 7(10) of Decree 168/2024/NĐ-CP, alongside licence-point deduction and suspension. Leaving the scene to avoid responsibility is listed among the law's prohibited acts and is treated as far graver than the accident itself; it can convert an administrative fine into a criminal case.
+A violation of traffic rules that causes an accident already carries 10,000,000–14,000,000 VND for motorbike riders under Article 7(10) of Decree 168/2024/NĐ-CP, alongside [licence-point deduction]({{ '/articles/motorbike-licence-points-system-vietnam/' | relative_url }}) and suspension. Leaving the scene to avoid responsibility is listed among the law's prohibited acts and is treated as far graver than the accident itself; it can convert an administrative fine into a criminal case.
 
 ## The insurance connection
 
-The compulsory insurance certificate the rider carries is what the compensation process runs on after a crash — another reason it belongs in your pocket rather than a drawer. After a rental accident, the shop and the insurer need the police record, which is one more reason the police call comes before anything else.
+The [compulsory insurance certificate]({{ '/articles/compulsory-motorbike-insurance-vietnam/' | relative_url }}) the rider carries is what the compensation process runs on after a crash — another reason it belongs in your pocket rather than a drawer. After a rental accident, the shop and the insurer need the police record, which is one more reason the police call comes before anything else.
 
 ## For riders in Hanoi
 

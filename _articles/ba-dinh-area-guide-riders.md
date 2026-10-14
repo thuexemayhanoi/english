@@ -31,8 +31,8 @@ Where the Old Quarter teaches slow-flow improvisation, Ba Dinh teaches lane disc
 
 Ba Dinh holds the densest cluster of sights in the city: the mausoleum complex and Presidential Palace grounds, the Ho Chi Minh Museum, the Fine Arts Museum, the Temple of Literature a short ride south, and the military history museum. All are reachable by motorbike, and all have attended parking. Two practical notes:
 
-- Around the mausoleum complex, security zones mean the immediate streets have stricter parking and access rules; use the official lots and expect bag checks on foot.
-- The museum cluster makes a natural self-guided loop with the Temple of Literature and a West Lake leg — a standard first-day tourist ride.
+- Around the mausoleum complex, security zones mean the immediate streets have stricter [parking]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}) and access rules; use the official lots and expect bag checks on foot.
+- The museum cluster makes a natural [self-guided loop]({{ '/articles/self-guided-hanoi-motorbike-city-tour/' | relative_url }}) with the Temple of Literature and a West Lake leg — a standard first-day tourist ride.
 
 ## Riding etiquette near ceremonies
 

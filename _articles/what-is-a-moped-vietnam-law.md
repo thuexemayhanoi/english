@@ -26,7 +26,7 @@ internal_link_targets: "50cc-licence-vietnam, electric-bike-licence-vietnam, min
 
 ## What the category buys you
 
-The moped category is licence-free: Article 59 sets the minimum age at 16 and requires no licence class, because there is no licence class to require. That is the whole point of the definition — the category exists to mark the line below which the state does not demand a test.
+The moped category is licence-free: Article 59 sets the [minimum age at 16]({{ '/articles/minimum-age-ride-motorbike-vietnam/' | relative_url }}) and requires no licence class, because there is no licence class to require. That is the whole point of the definition — the category exists to mark the line below which the state does not demand a test.
 
 ## What it does not buy you
 
@@ -38,6 +38,6 @@ Three confusions recur. First, 50 cc mopeds versus 50 cc-class motorbikes: the d
 
 ## Why the definition matters at rental counters
 
-In Hanoi the practical question is which side of the moped line a rented electric sits on. Ask for the registration category of the machine: moped-category electrics are the licence-free choice for 16-year-olds and licence-less adults; anything faster needs the A1.
+In Hanoi the practical question is which side of the moped line a rented electric sits on. Ask for the registration category of the machine: [moped-category electrics]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}) are the licence-free choice for 16-year-olds and licence-less adults; [anything faster]({{ '/articles/fast-electric-motorbike-licence-vietnam/' | relative_url }}) needs the A1.
 
 *Information, not legal advice. Verified against Law 36/2024/QH15 on 2026-09-22.*
