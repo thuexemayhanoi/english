@@ -4,6 +4,7 @@ title: Terms &amp; Conditions
 permalink: /terms/
 description: "Terms for using Nguyen Tu Motorbike Guide, including informational content, rental enquiries, Guide Assistant, legal information and external services."
 ---
+{% include breadcrumbs.html %}
 <h1>Terms &amp; Conditions</h1>
 <p>These terms apply to your use of Nguyen Tu Motorbike Guide at en.rentbikehanoi.com/, the English-language motorbike knowledge hub published by Hanoi Motorbike Rental Nguyen Tu. By using the site you accept these terms. Please read them together with our <a href="{{ '/privacy/' | relative_url }}">Privacy Policy</a>.</p>
 

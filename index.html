@@ -174,3 +174,35 @@ layout: default
 </ul>
 
 {% include contact-cta.html %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://en.rentbikehanoi.com/#website",
+      "name": "Hanoi Motorbike Guide",
+      "url": "https://en.rentbikehanoi.com/",
+      "description": "English-language guides on motorbikes, rental, laws, maintenance and riding in Hanoi and Vietnam.",
+      "inLanguage": "en",
+      "publisher": {"@id": "https://en.rentbikehanoi.com/#organization"},
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {"@type": "EntryPoint", "urlTemplate": "https://en.rentbikehanoi.com/search/?q={search_term_string}"},
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://en.rentbikehanoi.com/#organization",
+      "name": "Hanoi Motorbike Rental Nguyen Tu",
+      "alternateName": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "url": "https://thuexemaynguyentu.com/",
+      "logo": "https://en.rentbikehanoi.com/assets/img/logo.svg",
+      "telephone": "+84 942 467 674",
+      "address": {"@type": "PostalAddress", "streetAddress": "112 Nguyen Van Cu Street, Bo De", "addressLocality": "Long Bien, Hanoi", "addressCountry": "VN"},
+      "sameAs": ["https://thuexemaynguyentu.com/", "https://www.facebook.com/chothuexemaynguyentu"]
+    }
+  ]
+}
+</script>

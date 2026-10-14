@@ -4,6 +4,7 @@ title: Contact Nguyen Tu
 permalink: /contact/
 description: "Contact Hanoi Motorbike Rental Nguyen Tu: address in Long Bien, Hanoi, phone, WhatsApp and Zalo, opening hours 09:00-21:00 daily."
 ---
+{% include breadcrumbs.html %}
 <h1>Contact Nguyen Tu</h1>
 <p>Hanoi Motorbike Rental Nguyen Tu (Thuê Xe Máy Hà Nội Nguyễn Tú) is a motorbike rental business in Long Bien, Hanoi.</p>
 

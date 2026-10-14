@@ -4,6 +4,7 @@ title: About Nguyen Tu Motorbike Guide
 permalink: /about/
 description: "Learn about Nguyen Tu Motorbike Rental in Hanoi, this English motorbike guide, how content is researched, and how rental information is verified."
 ---
+{% include breadcrumbs.html %}
 <h1>About Nguyen Tu Motorbike Guide</h1>
 <p>Nguyen Tu Motorbike Guide is the English-language knowledge hub of Hanoi Motorbike Rental Nguyen Tu. It exists because riding a motorbike in Hanoi and Vietnam involves three things at once — choosing a suitable bike, understanding the licence and traffic rules, and riding safely in a city that works differently from most visitors' home countries. This page explains who runs the site, what it covers, and how its information is researched and kept accurate.</p>
 
