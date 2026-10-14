@@ -42,6 +42,8 @@ Lakeside cafes and malls have attended lots; quiet residential lanes are kerbsid
 
 Tay Ho is exposed: the open lakeside has no shelter from sudden rain or winter wind. In rainy season, check the sky before committing to the far side of the loop — see [Riding a Rental Motorbike in Hanoi Rain: What to Know]({{ '/articles/riding-rental-motorbike-hanoi-rain/' | relative_url }}) — and in winter, the wind off the lake is real; bring the layers described in [renting a motorbike in Hanoi in winter]({{ '/articles/renting-motorbike-hanoi-winter/' | relative_url }}).
 
+Based south or west of the lake instead? See [renting a motorbike in Ba Dinh]({{ '/articles/renting-motorbike-ba-dinh/' | relative_url }}) and [renting a motorbike in Cau Giay]({{ '/articles/renting-motorbike-cau-giay/' | relative_url }}).
+
 ## The short version
 
 Wide lanes, a 17 km lake loop, delivery-friendly residential streets, and cafe parking lots. Tay Ho is where a Hanoi rental feels least like work.

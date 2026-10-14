@@ -48,6 +48,8 @@ Riverside spots and market areas use attendant lots; the shop street itself mixe
 
 Cross-river commuting is the one structural reality of the district: whichever bridge you use, plan the approach street carefully, because bridge junctions are where rush hour concentrates. The commuting bike logic is in [Best Motorbike for Commuting in Hanoi]({{ '/articles/best-motorbike-for-commuting-hanoi/' | relative_url }}).
 
+Living on the west bank instead? The area guides for [Hai Ba Trung]({{ '/articles/renting-motorbike-hai-ba-trung/' | relative_url }}) and [Thanh Xuan]({{ '/articles/renting-motorbike-thanh-xuan/' | relative_url }}) cover two more districts across the river.
+
 ## The short version
 
 Faster arteries, bridge approaches, river air, and the whole city plus the countryside within twenty minutes in either direction — a practical, unhurried base for a Hanoi rental.

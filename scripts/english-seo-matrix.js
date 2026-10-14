@@ -51,7 +51,7 @@ function parseCsv(text) {
 const csvCell = v => { const s = String(v == null ? '' : v); return /[",\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s; };
 const mdCell = v => String(v == null ? '' : v).replace(/\|/g, '\\|').replace(/\n/g, ' ');
 const normTitle = s => String(s || '').toLowerCase().replace(/[‘’]/g, "'").replace(/[“”]/g, '"').replace(/\s+/g, ' ').trim();
-const stem = w => w.toLowerCase().replace(/[^a-z0-9]/g, '').replace(/s$/, '').replace(/(ing|ers|er|ed|es|al)$/, '');
+const stem = w => w.toLowerCase().replace(/[^a-z0-9]/g, '').replace(/s$/, '').replace(/(ing|ers|er|ed|es|al)$/, '').replace(/^vietnamese$/, 'vietnam');
 const KW_STOP = new Set(['a', 'an', 'the', 'in', 'of', 'for', 'to', 'and', 'with', 'by', 'on', 'at']);
 function keywordCoverage(keyword, text) {
   const norm = s => String(s).toLowerCase().replace(/licen[cs]e/g, 'license').replace(/motorcycle/g, 'motorbike');
@@ -465,7 +465,7 @@ for (const k of summary.keywordOwnership) {
 // listed as gaps for the owner (the production plan is complete: no new
 // articles are created by tooling; a gap is served by an existing URL or left).
 const GAP_STOP = new Set('a an the of for to in on and or with your you our this that is are how what when where why which who do does can at by from vs versus i my it its be need needed want get'.split(' '));
-const gapStem = w => w.toLowerCase().replace(/[^a-z0-9]/g, '').replace(/(ing|ers|er|ed|es|s)$/, '').replace(/licenc/, 'licens').replace(/motorcycl/, 'motorbik').replace(/^rental$/, 'rent').replace(/^hir$/, 'hire');
+const gapStem = w => w.toLowerCase().replace(/[^a-z0-9]/g, '').replace(/(ing|ers|er|ed|es|s)$/, '').replace(/licenc/, 'licens').replace(/motorcycl/, 'motorbik').replace(/^rental$/, 'rent').replace(/^hir$/, 'hire').replace(/^vietnamese$/, 'vietnam');
 const gapSig = s => [...new Set(String(s).toLowerCase().split(/[^a-z0-9]+/).filter(w => w && !GAP_STOP.has(w)).map(gapStem).filter(w => w.length > 1))];
 const faqIndex = [];
 for (const src of [...articles.map(a => ({ url: L.articleUrl(a), raw: a.raw })), ...pages.map(p => ({ url: L.pageUrl(p), raw: p.raw }))]) {

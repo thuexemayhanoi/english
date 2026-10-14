@@ -53,6 +53,8 @@ Say the honest thing to yourself: if you cannot balance and stop confidently in 
 - No riding past midnight in the first weeks; fatigue plus inexperience is the classic crash
 - Rain changes everything: see [Riding a Rental Motorbike in Hanoi Rain: What to Know]({{ '/articles/riding-rental-motorbike-hanoi-rain/' | relative_url }})
 
+A low-commitment first step is [renting for just one day]({{ '/articles/renting-motorbike-hanoi-one-day/' | relative_url }}); the lightest bikes for a first rider are listed in [Lightest Motorbikes for New Foreign Riders]({{ '/articles/lightest-motorbikes-for-new-riders/' | relative_url }}).
+
 ## The one-line version
 
 Licence valid, skills real before streets, automatic scooter, day rentals first. Hanoi rewards patient beginners and punishes impatient ones.

@@ -57,3 +57,5 @@ No Hanoi shop will stop you riding out without a licence. The traffic police wil
 Shops may decline very young riders, riders who cannot demonstrate basic control, or rentals they judge risky - that is normal business judgement. Some ask to hold your passport against the deposit; [do Hanoi rentals keep your passport?]({{ '/articles/do-rentals-keep-your-passport-hanoi/' | relative_url }}) explains why you should insist on a cash deposit instead.
 
 Bring the passport, bring a valid licence combination, budget the deposit, and the requirements are met. [Confirm current bike availability]({{ '/contact/' | relative_url }}) with the shop before you travel - stock changes week to week.
+
+Visiting as a tourist or studying here? The [tourist essentials]({{ '/articles/motorbike-rental-tourists-hanoi-essentials/' | relative_url }}) and [international students]({{ '/articles/motorbike-rental-international-students-hanoi/' | relative_url }}) guides apply these requirements to each situation.

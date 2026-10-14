@@ -47,3 +47,5 @@ Keep right, no [sidewalk riding]({{ '/articles/riding-on-sidewalk-vietnam/' | re
 Everyone in Hanoi traffic is predicting everyone else; being predictable is a safety feature. Slow is legal, slow is fine. And the shop is a resource - if the bike feels wrong on day one, take it back; that is what the maintenance side of the rental is for.
 
 First rental nerves are normal and they wear off within a day. Rent the automatic, do the checklist, ride the block, then the city.
+
+Here for work or study rather than a holiday? The audience guides cover the practical differences: [English teachers]({{ '/articles/motorbike-rental-english-teachers-hanoi/' | relative_url }}), [expats moving to Hanoi]({{ '/articles/motorbike-rental-expats-moving-hanoi/' | relative_url }}), [international students]({{ '/articles/motorbike-rental-international-students-hanoi/' | relative_url }}) and [digital nomads]({{ '/articles/motorbike-rental-digital-nomads-hanoi/' | relative_url }}).

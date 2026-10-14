@@ -3,7 +3,7 @@ layout: cluster
 title: Motorbike Trips from Hanoi
 permalink: /topics/trips/
 topic_cluster: trips
-description: "Day trips and multi-day motorbike routes from Hanoi: Ninh Binh, Tam Dao, Mai Chau, Ha Giang and the northern loops, with planning, seasons and budgets."
+description: "Day trips and multi-day motorbike routes from Hanoi across northern Vietnam: Ninh Binh, Tam Dao, Mai Chau and Ha Giang, with planning, seasons and budgets."
 faq:
   - q: "What is the most famous motorbike loop in Vietnam?"
     a: "The Ha Giang loop in the far north: several days of mountain passes along the Chinese border. From Hanoi it is a serious multi-day trip, not a day ride, and the easier day trips below are the right warm-up."

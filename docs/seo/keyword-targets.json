@@ -409,6 +409,72 @@
      "owner": "/articles/what-is-a-moped-vietnam-law/",
      "intent": "informational",
      "variant_of": "Mopeds Vietnam"
+    },
+    {
+     "keyword": "Vietnamese motorbikes",
+     "owner": "/topics/motorcycles/",
+     "intent": "informational",
+     "supporting": [
+      "/topics/scooters/",
+      "/topics/manual-clutch/"
+     ],
+     "note": "Generic \"which bikes exist in Vietnam\" head term (keyword-universe.json, US market); the motorcycles pillar owns it, the scooter and manual-clutch pillars support it. Consolidates a split family (topical map 2026-10-14)."
+    },
+    {
+     "keyword": "Vietnamese motorcycle",
+     "owner": "/topics/motorcycles/",
+     "intent": "informational",
+     "variant_of": "Vietnamese motorbikes"
+    },
+    {
+     "keyword": "Motorbikes in Vietnam",
+     "owner": "/topics/motorcycles/",
+     "intent": "informational",
+     "variant_of": "Vietnamese motorbikes"
+    },
+    {
+     "keyword": "Honda motorbike Vietnam",
+     "owner": "/topics/motorcycles/",
+     "intent": "informational",
+     "supporting": [
+      "/articles/best-honda-underbones-vietnam-verified/",
+      "/articles/honda-scooter-lineup-vietnam-explained/"
+     ],
+     "note": "Brand head term; the motorcycles pillar (Honda and Yamaha model reviews) owns it, the Honda underbone and scooter line-up guides support it. Consolidates two split families."
+    },
+    {
+     "keyword": "Honda motorcycles in Vietnam",
+     "owner": "/topics/motorcycles/",
+     "intent": "informational",
+     "variant_of": "Honda motorbike Vietnam"
+    },
+    {
+     "keyword": "Honda bike Vietnam",
+     "owner": "/topics/motorcycles/",
+     "intent": "informational",
+     "variant_of": "Honda motorbike Vietnam"
+    },
+    {
+     "keyword": "Honda bikes in Vietnam",
+     "owner": "/topics/motorcycles/",
+     "intent": "informational",
+     "variant_of": "Honda motorbike Vietnam"
+    },
+    {
+     "keyword": "Motorbike routes Vietnam",
+     "owner": "/topics/trips/",
+     "intent": "informational",
+     "supporting": [
+      "/articles/vietnam-motorbike-backpacker-trail/",
+      "/topics/vietnam-travel/"
+     ],
+     "note": "Route-planning head term; the trips pillar owns it, the backpacker-trail guide and the Vietnam travel pillar support it. Consolidates a split family."
+    },
+    {
+     "keyword": "Motorbike route Vietnam",
+     "owner": "/topics/trips/",
+     "intent": "informational",
+     "variant_of": "Motorbike routes Vietnam"
     }
    ]
   }

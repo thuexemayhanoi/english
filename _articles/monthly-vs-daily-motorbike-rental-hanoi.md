@@ -48,6 +48,8 @@ Three yeses point at monthly. Any "no" points at daily or weekly — and the in-
 
 Cost is the headline but not the whole comparison: a month rental commits a deposit for the term ([Deposits for Monthly Motorbike Rental in Hanoi]({{ '/articles/motorbike-rental-deposit-monthly-hanoi/' | relative_url }})), involves maintenance responsibilities ([Maintenance During a Monthly Motorbike Rental in Hanoi]({{ '/articles/maintenance-during-monthly-rental-hanoi/' | relative_url }})), and rewards budgeting the full running costs — see [Monthly Motorbike Rental Budget in Hanoi: The Full Cost]({{ '/articles/motorbike-rental-budget-monthly-hanoi/' | relative_url }}).
 
+Two renter guides sit on the monthly side of this comparison: [English teachers]({{ '/articles/english-teachers-monthly-motorbike-hanoi/' | relative_url }}) and [expats living in Hanoi]({{ '/articles/expats-monthly-motorbike-hanoi/' | relative_url }}).
+
 ## The one-line version
 
 Under two weeks of real riding: daily. Over two to three weeks: monthly where a rate is published, and a conversation with the shop where it is not.

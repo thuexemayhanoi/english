@@ -42,6 +42,8 @@ The whole district rewards a park-once-then-walk plan: attended lots ring the Ol
 
 Nguyen Tu's shop in Long Bien is a direct bridge run of roughly fifteen minutes from the lake; delivery to a Hoan Kiem hotel can be arranged case by case depending on location, within opening hours 09:00–21:00 — see [Shop Pickup vs Delivery When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) and [How to Book a Motorbike Rental in Hanoi (WhatsApp, Zalo, Walk-In)]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) for arranging it. Renting from across the river and riding in gives you the handover in calm conditions — the inspection routine in [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) is easier without a crowd.
 
+Based in a different district? The area guides for [Ba Dinh]({{ '/articles/renting-motorbike-ba-dinh/' | relative_url }}) and [Hai Ba Trung]({{ '/articles/renting-motorbike-hai-ba-trung/' | relative_url }}) cover the same ground for the districts next door.
+
 ## The one-line version
 
 Lake loop slow, Old Quarter slower, French Quarter easy — and a park-once strategy that turns the whole district into a walking paradise between rides.

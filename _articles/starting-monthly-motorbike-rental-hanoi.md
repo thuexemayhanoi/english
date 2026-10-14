@@ -44,6 +44,8 @@ Walk or ride your home-and-work routes and locate the actual parking you will us
 
 One message to the shop in the first week — "settling in well, all good so far" — does two things: it confirms your contact channel works, and it opens the relationship that makes maintenance visits and extensions easy later. The support pattern across the whole term is covered in [Maintenance During a Monthly Motorbike Rental in Hanoi]({{ '/articles/maintenance-during-monthly-rental-hanoi/' | relative_url }}).
 
+Starting as a family or as a student? [Monthly Motorbike Rental for Families in Hanoi]({{ '/articles/families-monthly-motorbike-hanoi/' | relative_url }}) and [Semester-Long Motorbike Rental for Students in Hanoi]({{ '/articles/students-semester-motorbike-rental-hanoi/' | relative_url }}) pick up from here.
+
 ## The one-line version
 
 Inspect properly, learn the bike calmly, find your parking, start the check routine, and open the communication channel — that is week one, and it makes the other three quiet.

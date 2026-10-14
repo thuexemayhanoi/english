@@ -40,6 +40,8 @@ Residential lanes use kerbside rows; the parks and larger venues use attended lo
 
 Nguyen Tu's shop sits in Long Bien, across town; the run to Dong Da is twenty to thirty minutes depending on the hour, and a delivery arrangement to a Dong Da address can be discussed case by case within opening hours 09:00–21:00 — see [Shop Pickup vs Delivery When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}). Students in the district should pair the rental decision with the licence path in [Can Foreign Students Get a Vietnamese Motorbike Licence]({{ '/articles/foreign-student-motorbike-licence-vietnam/' | relative_url }}) and the bike logic in [Best Motorbike for Students in Hanoi]({{ '/articles/best-motorbike-for-students-hanoi/' | relative_url }}); commuters with [Best Motorbike for Commuting in Hanoi]({{ '/articles/best-motorbike-for-commuting-hanoi/' | relative_url }}).
 
+The neighbouring districts have their own guides: [Cau Giay]({{ '/articles/renting-motorbike-cau-giay/' | relative_url }}) to the west and [Thanh Xuan]({{ '/articles/renting-motorbike-thanh-xuan/' | relative_url }}) to the south.
+
 ## The one-line version
 
 A fast spine, quiet temple side-streets, and student energy: Dong Da is the practical heart of mid-town riding.

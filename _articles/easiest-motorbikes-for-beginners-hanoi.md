@@ -51,3 +51,5 @@ An automatic scooter, a helmet that fits, the first ride around the block before
 
 
 Curious how the no-clutch-lever gearbox actually works? [Our semi-automatic gearbox explainer]({{ '/articles/semi-automatic-gearbox-explained/' | relative_url }}) covers the centrifugal clutch and rotary shift pattern behind the easiest rental formats.
+
+If weight is the worry, the lightest options are listed in [Lightest Motorbikes for New Foreign Riders]({{ '/articles/lightest-motorbikes-for-new-riders/' | relative_url }}); tall riders should look at [Best Motorbikes for Tall Foreign Riders in Vietnam]({{ '/articles/best-motorbikes-for-tall-riders-vietnam/' | relative_url }}).

@@ -38,6 +38,8 @@ The mega-malls and metro stations have proper attended lots; residential blocks 
 
 Nguyen Tu's shop is in Long Bien, across the city to the northeast; door-to-door is thirty to forty minutes in traffic, so for Thanh Xuan residents a delivery arrangement to the address is the practical pattern — arranged case by case depending on location, within opening hours 09:00–21:00 ([Shop Pickup vs Delivery When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }})). For monthly renters, note the maintenance side: shops' included oil/chain/tyre-pressure service requires getting to the shop, so plan the maintenance visit into your schedule — see [What Is Included in a Hanoi Motorbike Rental?]({{ '/articles/what-is-included-motorbike-rental-hanoi/' | relative_url }}) and [What Happens If a Rental Motorbike Breaks Down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) for the support picture.
 
+For the districts immediately north, see [renting in Dong Da]({{ '/articles/renting-motorbike-dong-da/' | relative_url }}) and [renting in Cau Giay]({{ '/articles/renting-motorbike-cau-giay/' | relative_url }}).
+
 ## The one-line version
 
 Big junctions, quiet lanes, mall parking, monthly renters: Thanh Xuan is where rental becomes transport rather than tourism.

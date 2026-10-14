@@ -15,9 +15,9 @@
   },
   "byStatus": {
    "REVIEW_REQUIRED": 4,
-   "OPTIMIZED": 645,
+   "OPTIMIZED": 653,
    "AUDITED": 44,
-   "LINKS_REPAIRED": 310
+   "LINKS_REPAIRED": 302
   },
   "issueFrequency": {
    "PN article marked REVIEW_REQUIRED": 4,
@@ -492,7 +492,7 @@
     "keyword": "Vietnamese scooters",
     "owner": "/topics/scooters/",
     "ownerTitle": "Scooters in Vietnam",
-    "coverage": "partial",
+    "coverage": "full",
     "variantOf": "Scooters in Vietnam",
     "gap": false,
     "intent": "informational",
@@ -527,6 +527,105 @@
     "ownerTitle": "What Counts as a Moped Under Vietnamese Law",
     "coverage": "full",
     "variantOf": "Mopeds Vietnam",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data discoveries (2026-10-14)",
+    "keyword": "Vietnamese motorbikes",
+    "owner": "/topics/motorcycles/",
+    "ownerTitle": "Motorcycles in Vietnam",
+    "coverage": "full",
+    "variantOf": "",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data discoveries (2026-10-14)",
+    "keyword": "Vietnamese motorcycle",
+    "owner": "/topics/motorcycles/",
+    "ownerTitle": "Motorcycles in Vietnam",
+    "coverage": "full",
+    "variantOf": "Vietnamese motorbikes",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data discoveries (2026-10-14)",
+    "keyword": "Motorbikes in Vietnam",
+    "owner": "/topics/motorcycles/",
+    "ownerTitle": "Motorcycles in Vietnam",
+    "coverage": "full",
+    "variantOf": "Vietnamese motorbikes",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data discoveries (2026-10-14)",
+    "keyword": "Honda motorbike Vietnam",
+    "owner": "/topics/motorcycles/",
+    "ownerTitle": "Motorcycles in Vietnam",
+    "coverage": "full",
+    "variantOf": "",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data discoveries (2026-10-14)",
+    "keyword": "Honda motorcycles in Vietnam",
+    "owner": "/topics/motorcycles/",
+    "ownerTitle": "Motorcycles in Vietnam",
+    "coverage": "full",
+    "variantOf": "Honda motorbike Vietnam",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data discoveries (2026-10-14)",
+    "keyword": "Honda bike Vietnam",
+    "owner": "/topics/motorcycles/",
+    "ownerTitle": "Motorcycles in Vietnam",
+    "coverage": "partial",
+    "variantOf": "Honda motorbike Vietnam",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data discoveries (2026-10-14)",
+    "keyword": "Honda bikes in Vietnam",
+    "owner": "/topics/motorcycles/",
+    "ownerTitle": "Motorcycles in Vietnam",
+    "coverage": "partial",
+    "variantOf": "Honda motorbike Vietnam",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data discoveries (2026-10-14)",
+    "keyword": "Motorbike routes Vietnam",
+    "owner": "/topics/trips/",
+    "ownerTitle": "Motorbike Trips from Hanoi",
+    "coverage": "full",
+    "variantOf": "",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data discoveries (2026-10-14)",
+    "keyword": "Motorbike route Vietnam",
+    "owner": "/topics/trips/",
+    "ownerTitle": "Motorbike Trips from Hanoi",
+    "coverage": "full",
+    "variantOf": "Motorbike routes Vietnam",
     "gap": false,
     "intent": "informational",
     "ownerPriority": "P3"
@@ -1102,8 +1201,8 @@
     "question": "Motorbike in vietnamese",
     "kind": "Related search",
     "serp": "is it safe to ride a motorbike in vietnam",
-    "servedBy": "/articles/motorbike-bluecard-ownership-papers-vietnam/",
-    "how": "title/keyword match",
+    "servedBy": "/topics/50cc/",
+    "how": "Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam?",
     "gap": false
    },
    {
@@ -1966,8 +2065,8 @@
     "adjacent": 22
    },
    "coreServed": 113,
-   "coreStrong": 89,
-   "coreWeak": 24,
+   "coreStrong": 93,
+   "coreWeak": 20,
    "coreGaps": 3,
    "volumeByMarket": {
     "au": {
@@ -2953,9 +3052,9 @@
      "sources": [
       "compare_keyword_coverage vs tigitmotorbikes.com, rentalmotorbikevietnam.com, theextramile.co, stylemotorbikes.com, rentabikevn.com us"
      ],
-     "servedBy": "/articles/motorbikes-on-expressway-vietnam/",
-     "how": "title/keyword match",
-     "strength": "title",
+     "servedBy": "/topics/vietnam-travel/",
+     "how": "keyword-targets owner (Motorbiking in Vietnam)",
+     "strength": "owner",
      "gap": false,
      "maxVolume": 1000
     },
@@ -2986,9 +3085,9 @@
      "sources": [
       "compare_keyword_coverage vs tigitmotorbikes.com, rentalmotorbikevietnam.com, theextramile.co, stylemotorbikes.com, rentabikevn.com us"
      ],
-     "servedBy": "/articles/police-impound-motorbike-vietnam/",
-     "how": "title/keyword match",
-     "strength": "title",
+     "servedBy": "/topics/vietnam-travel/",
+     "how": "keyword-targets owner (Motorbike Vietnam)",
+     "strength": "owner",
      "gap": false,
      "maxVolume": 1000
     },
@@ -3219,7 +3318,7 @@
      "sources": [
       "compare_keyword_coverage vs tigitmotorbikes.com, rentalmotorbikevietnam.com, theextramile.co, stylemotorbikes.com, rentabikevn.com us"
      ],
-     "servedBy": "/articles/vietnam-traffic-culture-riding-overview/",
+     "servedBy": "/articles/how-to-pay-traffic-fine-vietnam/",
      "how": "title/keyword match",
      "strength": "title",
      "gap": false,
@@ -3273,7 +3372,7 @@
      "sources": [
       "compare_keyword_coverage vs tigitmotorbikes.com, rentalmotorbikevietnam.com, theextramile.co, stylemotorbikes.com, rentabikevn.com us"
      ],
-     "servedBy": "/articles/stopped-by-traffic-police-vietnam/",
+     "servedBy": "/articles/police-impound-motorbike-vietnam/",
      "how": "title/keyword match",
      "strength": "title",
      "gap": false,
@@ -3299,7 +3398,7 @@
      "sources": [
       "compare_keyword_coverage vs tigitmotorbikes.com, rentalmotorbikevietnam.com, theextramile.co, stylemotorbikes.com, rentabikevn.com us"
      ],
-     "servedBy": "/articles/stopped-by-traffic-police-vietnam/",
+     "servedBy": "/articles/police-impound-motorbike-vietnam/",
      "how": "title/keyword match",
      "strength": "title",
      "gap": false,
@@ -3325,7 +3424,7 @@
      "sources": [
       "compare_keyword_coverage vs tigitmotorbikes.com, rentalmotorbikevietnam.com, theextramile.co, stylemotorbikes.com, rentabikevn.com us"
      ],
-     "servedBy": "/articles/stopped-by-traffic-police-vietnam/",
+     "servedBy": "/articles/police-impound-motorbike-vietnam/",
      "how": "title/keyword match",
      "strength": "title",
      "gap": false,
@@ -3444,7 +3543,7 @@
       "compare_keyword_coverage vs tigitmotorbikes.com, rentalmotorbikevietnam.com, theextramile.co, stylemotorbikes.com, rentabikevn.com us"
      ],
      "servedBy": "/topics/scooters/",
-     "how": "keyword-targets owner (Vietnamese scooters)",
+     "how": "keyword-targets owner (Scooters in Vietnam)",
      "strength": "owner",
      "gap": false,
      "maxVolume": 390
@@ -3599,7 +3698,7 @@
       "compare_keyword_coverage vs tigitmotorbikes.com, rentalmotorbikevietnam.com, theextramile.co, stylemotorbikes.com, rentabikevn.com us"
      ],
      "servedBy": "/topics/scooters/",
-     "how": "keyword-targets owner (Vietnamese scooters)",
+     "how": "keyword-targets owner (Scooters in Vietnam)",
      "strength": "owner",
      "gap": false,
      "maxVolume": 390
@@ -3630,7 +3729,7 @@
       "compare_keyword_coverage vs tigitmotorbikes.com, rentalmotorbikevietnam.com, theextramile.co, stylemotorbikes.com, rentabikevn.com us"
      ],
      "servedBy": "/topics/scooters/",
-     "how": "keyword-targets owner (Vietnamese scooters)",
+     "how": "keyword-targets owner (Scooters in Vietnam)",
      "strength": "owner",
      "gap": false,
      "maxVolume": 390
@@ -3681,9 +3780,9 @@
       "research_keywords ideas \"motorbike rental hanoi\" vn",
       "research_keywords ideas \"riding motorbike in vietnam\" vn"
      ],
-     "servedBy": "/topics/50cc/",
-     "how": "nearest URL (partial match): Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam?",
-     "strength": "partial",
+     "servedBy": "/topics/motorcycles/",
+     "how": "keyword-targets owner (Honda motorbike Vietnam)",
+     "strength": "owner",
      "gap": false,
      "maxVolume": 320
     },
@@ -4128,9 +4227,9 @@
      "sources": [
       "inspect_domain rentalmotorbikevietnam.com top keywords us"
      ],
-     "servedBy": "/articles/16-inch-wheel-scooters-vietnam/",
-     "how": "nearest URL (partial match): title/keyword match",
-     "strength": "partial",
+     "servedBy": "/topics/motorcycles/",
+     "how": "keyword-targets owner (Honda bike Vietnam)",
+     "strength": "owner",
      "gap": false,
      "maxVolume": 140
     },
@@ -4158,9 +4257,9 @@
      "sources": [
       "inspect_domain rentalmotorbikevietnam.com top keywords us"
      ],
-     "servedBy": "/articles/grey-import-50cc-vietnam/",
-     "how": "title/keyword match",
-     "strength": "title",
+     "servedBy": "/topics/motorcycles/",
+     "how": "keyword-targets owner (Honda bikes in Vietnam)",
+     "strength": "owner",
      "gap": false,
      "maxVolume": 140
     },
@@ -4201,9 +4300,9 @@
      "sources": [
       "compare_keyword_coverage vs tigitmotorbikes.com, rentalmotorbikevietnam.com, theextramile.co, stylemotorbikes.com, rentabikevn.com us"
      ],
-     "servedBy": "/articles/16-inch-wheel-scooters-vietnam/",
-     "how": "nearest URL (partial match): title/keyword match",
-     "strength": "partial",
+     "servedBy": "/topics/motorcycles/",
+     "how": "keyword-targets owner (Honda motorcycles in Vietnam)",
+     "strength": "owner",
      "gap": false,
      "maxVolume": 140
     },
@@ -4916,7 +5015,7 @@
      "sources": [
       "research_keywords ideas \"motorbike rental hanoi\" us"
      ],
-     "servedBy": "/articles/riding-motorbike-blind-spots-vietnam/",
+     "servedBy": "/articles/getting-around-hanoi-without-vietnamese/",
      "how": "title/keyword match",
      "strength": "title",
      "gap": false,
@@ -5257,9 +5356,9 @@
       "research_keywords ideas \"electric motorbike vietnam\" vn",
       "research_keywords ideas \"riding motorbike in vietnam\" vn"
      ],
-     "servedBy": "/articles/vietnam-motorbike-backpacker-trail/",
-     "how": "title/keyword match",
-     "strength": "title",
+     "servedBy": "/topics/trips/",
+     "how": "keyword-targets owner (Motorbike route Vietnam)",
+     "strength": "owner",
      "gap": false,
      "maxVolume": 20
     },
@@ -5280,9 +5379,9 @@
       "research_keywords ideas \"electric motorbike vietnam\" vn",
       "research_keywords ideas \"riding motorbike in vietnam\" vn"
      ],
-     "servedBy": "/topics/safety/",
-     "how": "nearest URL (partial match): title/keyword match",
-     "strength": "partial",
+     "servedBy": "/topics/trips/",
+     "how": "keyword-targets owner (Motorbike routes Vietnam)",
+     "strength": "owner",
      "gap": false,
      "maxVolume": 20
     },
@@ -6105,8 +6204,8 @@
      "sources": [
       "research_keywords ideas \"vietnam motorbike license\" us"
      ],
-     "servedBy": "/articles/foreign-student-motorbike-licence-vietnam/",
-     "how": "nearest URL (partial match): title/keyword match",
+     "servedBy": "/topics/50cc/",
+     "how": "nearest URL (partial match): Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam?",
      "strength": "partial",
      "gap": false,
      "maxVolume": 10
@@ -6488,12 +6587,12 @@
    "topic_cluster": "law-licences / hub (pillar)",
    "content_quality": "thin (1/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 30 curated + 66 dynamic cards; in: nav/footer/home + 11 body",
+   "internal_links": "out: 32 curated + 66 dynamic cards; in: nav/footer/home + 11 body",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Pillar page: direct-answer intro + curated start-here links to the commercial and core guides.",
-   "status": "OPTIMIZED 2026-10-14 - pillar intro with direct answer + curated start-here links",
-   "evidence": "title_len=35; desc_len=94 || words=260; h2=1; tables=0; sources=0; body_links=30 || guides_listed=66 || recorded metrics: {\"openseo_us\":{\"tool\":\"OpenSEO/DataForSEO US\",\"date\":\"2026-10-14\",\"vietnam motorbike license\":{\"volume\":50,\"kd\":0,\"intent\":\"informational\"}}}",
+   "status": "OPTIMIZED 2026-10-14 - pillar intro with direct answer + curated start-here links; Start here links the moped definition guide, the head-term carrier of the silo (batch matrix-queue-1)",
+   "evidence": "title_len=35; desc_len=94 || words=268; h2=1; tables=0; sources=0; body_links=32 || guides_listed=66 || recorded metrics: {\"openseo_us\":{\"tool\":\"OpenSEO/DataForSEO US\",\"date\":\"2026-10-14\",\"vietnam motorbike license\":{\"volume\":50,\"kd\":0,\"intent\":\"informational\"}}}",
    "type": "hub"
   },
   {
@@ -6517,7 +6616,7 @@
    "url": "/topics/manual-clutch/",
    "current_title": "Manual and Clutch Motorcycles",
    "primary_keyword": "manual and clutch motorcycles",
-   "secondary_keywords": "Semi automatic motorbike rental Hanoi",
+   "secondary_keywords": "Semi automatic motorbike rental Hanoi; Vietnamese motorbikes",
    "search_intent": "informational",
    "topic_cluster": "manual-clutch / hub (pillar)",
    "content_quality": "thin (2/7)",
@@ -6549,9 +6648,9 @@
   },
   {
    "url": "/topics/motorcycles/",
-   "current_title": "Motorcycles",
-   "primary_keyword": "motorcycles",
-   "secondary_keywords": "",
+   "current_title": "Motorcycles in Vietnam",
+   "primary_keyword": "Vietnamese motorbikes",
+   "secondary_keywords": "Honda motorbike Vietnam; Vietnamese motorcycle; Motorbikes in Vietnam; Honda motorcycles in Vietnam; Honda bike Vietnam; Honda bikes in Vietnam",
    "search_intent": "informational",
    "topic_cluster": "motorcycles / hub (pillar)",
    "content_quality": "thin (2/7)",
@@ -6560,8 +6659,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Pillar page: direct-answer intro + curated start-here links to the commercial and core guides.",
-   "status": "OPTIMIZED 2026-10-14 - pillar intro + curated start-here links",
-   "evidence": "title_len=11; desc_len=139 || words=191; h2=1; tables=0; sources=0; body_links=28 || guides_listed=108 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - pillar intro + curated start-here links; pillar title \"Motorcycles in Vietnam\" covers the owned head terms (batch matrix-queue-1)",
+   "evidence": "title_len=22; desc_len=139 || words=191; h2=1; tables=0; sources=0; body_links=28 || guides_listed=108 || ownership note: Generic \"which bikes exist in Vietnam\" head term (keyword-universe.json, US market); the motorcycles pillar owns it, the scooter and manual-clutch pillars support it. Consolidates a split family (topical map 2026-10-14). / Brand head term; the motorcycles pillar (Honda and Yamaha model reviews) owns it, the Honda underbone and scooter line-up guides support it. Consolidates two split families. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "hub"
   },
   {
@@ -6619,7 +6718,7 @@
    "url": "/topics/scooters/",
    "current_title": "Scooters in Vietnam",
    "primary_keyword": "Scooters in Vietnam",
-   "secondary_keywords": "Scooter rental Vietnam; Vietnam scooters; Vietnamese scooters; Hanoi scooter rental",
+   "secondary_keywords": "Scooter rental Vietnam; Vietnam scooters; Vietnamese scooters; Hanoi scooter rental; Vietnamese motorbikes",
    "search_intent": "informational",
    "topic_cluster": "scooters / hub (pillar)",
    "content_quality": "thin (2/7)",
@@ -6635,8 +6734,8 @@
   {
    "url": "/topics/trips/",
    "current_title": "Motorbike Trips from Hanoi",
-   "primary_keyword": "motorbike trips from hanoi",
-   "secondary_keywords": "Hanoi motorcycle routes and safety; Motorbike Vietnam",
+   "primary_keyword": "Motorbike routes Vietnam",
+   "secondary_keywords": "Motorbike route Vietnam; Hanoi motorcycle routes and safety; Motorbike Vietnam",
    "search_intent": "informational",
    "topic_cluster": "trips / hub (pillar)",
    "content_quality": "thin (1/7)",
@@ -6645,15 +6744,15 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Pillar page: direct-answer intro + curated start-here links to the commercial and core guides.",
-   "status": "OPTIMIZED 2026-10-14 - pillar intro + curated links; rental-outside-Hanoi guide surfaced",
-   "evidence": "title_len=26; desc_len=151 || words=248; h2=1; tables=0; sources=0; body_links=32 || guides_listed=38 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - pillar intro + curated links; rental-outside-Hanoi guide surfaced; description names northern Vietnam within 165 chars; owns \"Motorbike routes Vietnam\" (batch matrix-queue-1)",
+   "evidence": "title_len=26; desc_len=155 || words=248; h2=1; tables=0; sources=0; body_links=32 || guides_listed=38 || ownership note: Route-planning head term; the trips pillar owns it, the backpacker-trail guide and the Vietnam travel pillar support it. Consolidates a split family. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "hub"
   },
   {
    "url": "/topics/vietnam-travel/",
    "current_title": "Vietnam Travel by Motorbike",
    "primary_keyword": "Renting a motorbike in Vietnam",
-   "secondary_keywords": "Motorbike Vietnam; Vietnam motorbike; Motorbiking in Vietnam; Motorbike riding Vietnam; Motorbike hire Vietnam",
+   "secondary_keywords": "Motorbike Vietnam; Vietnam motorbike; Motorbiking in Vietnam; Motorbike riding Vietnam; Motorbike hire Vietnam; Motorbike routes Vietnam",
    "search_intent": "informational",
    "topic_cluster": "vietnam-travel / hub (pillar)",
    "content_quality": "thin (1/7)",
@@ -7831,12 +7930,12 @@
    "topic_cluster": "rental / 1.2 choosing-bike",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 6 body + 5 related cards; in: 2 related + 2 body + hub listing",
+   "internal_links": "out: 6 body + 5 related cards; in: 2 related + 3 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; descriptive guide references resolved into contextual links (scripts/link-guide-references.js); hand-edited contextual links on the remaining commercial rental/monthly-rental pages (pricing, monthly, deposit, licence, contact); no facts changed",
-   "evidence": "title_len=46; desc_len=136 || words=337; h2=4; tables=0; sources=1; body_links=6 || related_out=5; related_in=2; body_in=2 || plan MM-0032 (owner-history): Each targets a distinct rider situation or bike characteristic || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=46; desc_len=136 || words=337; h2=4; tables=0; sources=1; body_links=6 || related_out=5; related_in=2; body_in=3 || plan MM-0032 (owner-history): Each targets a distinct rider situation or bike characteristic || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -7877,7 +7976,7 @@
    "url": "/articles/best-honda-underbones-vietnam-verified/",
    "current_title": "Best Honda Underbones in Vietnam: The Verified Data Guide",
    "primary_keyword": "best honda underbone vietnam",
-   "secondary_keywords": "honda underbone; buying guide; motorcycle vietnam; underbone comparison",
+   "secondary_keywords": "Honda motorbike Vietnam; honda underbone; buying guide; motorcycle vietnam; underbone comparison",
    "search_intent": "commercial",
    "topic_cluster": "motorcycles / 4.3 choosing-guides",
    "content_quality": "strong (6/7)",
@@ -7933,12 +8032,12 @@
    "topic_cluster": "rental / 1.2 choosing-bike",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 2 body + 5 related cards; in: 29 related + 13 body + hub listing",
+   "internal_links": "out: 4 body + 5 related cards; in: 29 related + 13 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; descriptive guide references resolved into contextual links (scripts/link-guide-references.js)",
-   "evidence": "title_len=37; desc_len=132 || words=300; h2=4; tables=0; sources=1; body_links=2 || related_out=5; related_in=29; body_in=13 || plan MM-0028 (owner-history): Each targets a distinct rider situation or bike characteristic || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=37; desc_len=132 || words=331; h2=4; tables=0; sources=1; body_links=4 || related_out=5; related_in=29; body_in=13 || plan MM-0028 (owner-history): Each targets a distinct rider situation or bike characteristic || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -8052,12 +8151,12 @@
    "topic_cluster": "rental / 1.2 choosing-bike",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 4 body + 5 related cards; in: 6 related + 10 body + hub listing",
+   "internal_links": "out: 4 body + 5 related cards; in: 6 related + 12 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; hand-edited contextual links on the remaining commercial rental/monthly-rental pages (pricing, monthly, deposit, licence, contact); no facts changed",
-   "evidence": "title_len=50; desc_len=123 || words=317; h2=4; tables=0; sources=1; body_links=4 || related_out=5; related_in=6; body_in=10 || plan MM-0027 (owner-history): Each targets a distinct rider situation or bike characteristic || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=50; desc_len=123 || words=317; h2=4; tables=0; sources=1; body_links=4 || related_out=5; related_in=6; body_in=12 || plan MM-0027 (owner-history): Each targets a distinct rider situation or bike characteristic || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -8681,12 +8780,12 @@
    "topic_cluster": "rental / 1.1 how-to-rent",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 8 body + 5 related cards; in: 4 related + 2 body + hub listing",
+   "internal_links": "out: 11 body + 5 related cards; in: 4 related + 2 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - batch 1: description tightened, contextual links to IDP/50cc/e-bike guides",
-   "evidence": "title_len=41; desc_len=152 || words=371; h2=4; tables=0; sources=1; body_links=8 || related_out=5; related_in=4; body_in=2 || plan MM-0006 (owner-history+gsc): Each answers a different step of the rental process; no two cover the same step || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - batch 1: description tightened, contextual links to IDP/50cc/e-bike guides; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=41; desc_len=152 || words=389; h2=4; tables=0; sources=1; body_links=11 || related_out=5; related_in=4; body_in=2 || plan MM-0006 (owner-history+gsc): Each answers a different step of the rental process; no two cover the same step || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -9667,12 +9766,12 @@
    "topic_cluster": "rental / 1.1 how-to-rent",
    "content_quality": "adequate (4/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 1 body + 5 related cards; in: 19 related + 13 body + hub listing",
+   "internal_links": "out: 3 body + 5 related cards; in: 19 related + 13 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; descriptive guide references resolved into contextual links (scripts/link-guide-references.js)",
-   "evidence": "title_len=65; desc_len=165 || words=343; h2=5; tables=0; sources=1; body_links=1 || related_out=5; related_in=19; body_in=13 || plan MM-0010 (owner-history+gsc): Each answers a different step of the rental process; no two cover the same step || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=65; desc_len=165 || words=367; h2=5; tables=0; sources=1; body_links=3 || related_out=5; related_in=19; body_in=13 || plan MM-0010 (owner-history+gsc): Each answers a different step of the rental process; no two cover the same step || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -10262,12 +10361,12 @@
    "topic_cluster": "rental / 1.2 choosing-bike",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 1 body + 8 related cards; in: 22 related + 12 body + hub listing",
+   "internal_links": "out: 3 body + 8 related cards; in: 22 related + 12 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; descriptive guide references resolved into contextual links (scripts/link-guide-references.js)",
-   "evidence": "title_len=47; desc_len=143 || words=354; h2=5; tables=0; sources=1; body_links=1 || related_out=8; related_in=22; body_in=12 || plan MM-0026 (owner-history): Each targets a distinct rider situation or bike characteristic || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=47; desc_len=143 || words=384; h2=5; tables=0; sources=1; body_links=3 || related_out=8; related_in=22; body_in=12 || plan MM-0026 (owner-history): Each targets a distinct rider situation or bike characteristic || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -10925,12 +11024,12 @@
    "topic_cluster": "monthly-rental / 2.4 renter-lifestyles",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 5 body + 5 related cards; in: 2 related + 1 body + hub listing",
+   "internal_links": "out: 5 body + 5 related cards; in: 2 related + 3 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - title rewritten to <=65 chars, primary keyword kept, near-duplicate pairs differentiated (can-tourists-rent-a-motorbike-hanoi kept free of the word licence so the Guide Assistant keeps answering the tourist-licence question from the licence paragraph); meta description rewritten to <=165 chars with the primary keyword and a direct answer; 5 bare slug reference(s) converted to contextual links",
-   "evidence": "title_len=62; desc_len=161 || words=317; h2=5; tables=0; sources=1; body_links=5 || related_out=5; related_in=2; body_in=1 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=62; desc_len=161 || words=317; h2=5; tables=0; sources=1; body_links=5 || related_out=5; related_in=2; body_in=3 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -11061,12 +11160,12 @@
    "topic_cluster": "monthly-rental / 2.4 renter-lifestyles",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 6 body + 5 related cards; in: 2 related + 1 body + hub listing",
+   "internal_links": "out: 6 body + 5 related cards; in: 2 related + 3 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - hand-edited contextual links on the remaining commercial rental/monthly-rental pages (pricing, monthly, deposit, licence, contact); no facts changed; 4 bare slug reference(s) converted to contextual links",
-   "evidence": "title_len=51; desc_len=150 || words=314; h2=5; tables=0; sources=1; body_links=6 || related_out=5; related_in=2; body_in=1 || plan MM-0111 (owner-history+gsc): Cluster 1 covers the settling-in rental; this covers monthly rental as ongoing expat life || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=51; desc_len=150 || words=314; h2=5; tables=0; sources=1; body_links=6 || related_out=5; related_in=2; body_in=3 || plan MM-0111 (owner-history+gsc): Cluster 1 covers the settling-in rental; this covers monthly rental as ongoing expat life || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -11180,12 +11279,12 @@
    "topic_cluster": "monthly-rental / 2.4 renter-lifestyles",
    "content_quality": "adequate (4/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 4 body + 5 related cards; in: 2 related + 1 body + hub listing",
+   "internal_links": "out: 4 body + 5 related cards; in: 2 related + 3 body + hub listing",
    "seo_issues": "short body (295 words)",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "LINKS_REPAIRED 2026-10-14 - 4 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=46; desc_len=161 || words=295; h2=5; tables=0; sources=1; body_links=4 || related_out=5; related_in=2; body_in=1 || plan MM-0115 (owner-history): Family riding with the child-passenger legal baseline; the monthly-family angle is distinct || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=46; desc_len=161 || words=295; h2=5; tables=0; sources=1; body_links=4 || related_out=5; related_in=2; body_in=3 || plan MM-0115 (owner-history): Family riding with the child-passenger legal baseline; the monthly-family angle is distinct || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -11350,12 +11449,12 @@
    "topic_cluster": "rental / 1.1 how-to-rent",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 2 body + 8 related cards; in: 16 related + 7 body + hub listing",
+   "internal_links": "out: 6 body + 8 related cards; in: 16 related + 7 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=63; desc_len=123 || words=396; h2=6; tables=0; sources=1; body_links=2 || related_out=8; related_in=16; body_in=7 || plan MM-0016 (owner-history+gsc): Each answers a different step of the rental process; no two cover the same step || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=63; desc_len=123 || words=423; h2=6; tables=0; sources=1; body_links=6 || related_out=8; related_in=16; body_in=7 || plan MM-0016 (owner-history+gsc): Each answers a different step of the rental process; no two cover the same step || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -13555,7 +13654,7 @@
    "url": "/articles/honda-scooter-lineup-vietnam-explained/",
    "current_title": "The Honda Scooter Lineup in Vietnam Explained: Vision to SH",
    "primary_keyword": "honda scooter lineup vietnam",
-   "secondary_keywords": "honda; scooters; choosing a scooter; vietnam",
+   "secondary_keywords": "Honda motorbike Vietnam; honda; scooters; choosing a scooter; vietnam",
    "search_intent": "informational",
    "topic_cluster": "scooters / 3.3 choosing-guides",
    "content_quality": "strong (6/7)",
@@ -14580,12 +14679,12 @@
    "topic_cluster": "rental / 1.1 how-to-rent",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 10 body + 6 related cards; in: 37 related + 9 body + hub listing",
+   "internal_links": "out: 14 body + 6 related cards; in: 37 related + 9 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - batch 1: title 69->54 chars, description tightened, 11 contextual links incl. hub",
-   "evidence": "title_len=54; desc_len=160 || words=462; h2=6; tables=0; sources=1; body_links=10 || related_out=6; related_in=37; body_in=9 || recorded metrics: {\"keyword\":\"rent motorbike hanoi\",\"volume\":2900,\"cpc_usd\":0.32,\"paid_difficulty\":34,\"source\":\"Ubersuggest 2026-10-14\"}",
+   "status": "OPTIMIZED 2026-10-14 - batch 1: title 69->54 chars, description tightened, 11 contextual links incl. hub; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=54; desc_len=160 || words=491; h2=6; tables=0; sources=1; body_links=14 || related_out=6; related_in=37; body_in=9 || recorded metrics: {\"keyword\":\"rent motorbike hanoi\",\"volume\":2900,\"cpc_usd\":0.32,\"paid_difficulty\":34,\"source\":\"Ubersuggest 2026-10-14\"}",
    "type": "article"
   },
   {
@@ -15277,12 +15376,12 @@
    "topic_cluster": "rental / 1.2 choosing-bike",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 6 body + 7 related cards; in: 14 related + 3 body + hub listing",
+   "internal_links": "out: 6 body + 7 related cards; in: 14 related + 5 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - hand-edited contextual links on the remaining commercial rental/monthly-rental pages (pricing, monthly, deposit, licence, contact); no facts changed",
-   "evidence": "title_len=42; desc_len=160 || words=348; h2=4; tables=0; sources=1; body_links=6 || related_out=7; related_in=14; body_in=3 || plan MM-0031 (owner-history): Each targets a distinct rider situation or bike characteristic || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=42; desc_len=160 || words=348; h2=4; tables=0; sources=1; body_links=6 || related_out=7; related_in=14; body_in=5 || plan MM-0031 (owner-history): Each targets a distinct rider situation or bike characteristic || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -15804,12 +15903,12 @@
    "topic_cluster": "monthly-rental / 2.1 monthly-basics",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 14 body + 5 related cards; in: 25 related + 7 body + hub listing",
+   "internal_links": "out: 19 body + 5 related cards; in: 25 related + 7 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - batch 1: hub link, 12 bare slug refs converted, cluster jargon removed",
-   "evidence": "title_len=47; desc_len=152 || words=495; h2=5; tables=0; sources=1; body_links=14 || related_out=5; related_in=25; body_in=7 || plan MM-0082 (owner-history+gsc): Cluster 1 covers the rental transaction; this covers the monthly product: terms, cadence, what changes at month scale || recorded metrics: {\"keyword\":\"monthly motorbike rental hanoi\",\"volume\":0,\"note\":\"tool has no volume data; owner history records monthly rental as a recurring real enquiry theme\",\"source\":\"Ubersuggest 2026-10-14\"}",
+   "status": "OPTIMIZED 2026-10-14 - batch 1: hub link, 12 bare slug refs converted, cluster jargon removed; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=47; desc_len=152 || words=528; h2=5; tables=0; sources=1; body_links=19 || related_out=5; related_in=25; body_in=7 || plan MM-0082 (owner-history+gsc): Cluster 1 covers the rental transaction; this covers the monthly product: terms, cadence, what changes at month scale || recorded metrics: {\"keyword\":\"monthly motorbike rental hanoi\",\"volume\":0,\"note\":\"tool has no volume data; owner history records monthly rental as a recurring real enquiry theme\",\"source\":\"Ubersuggest 2026-10-14\"}",
    "type": "article"
   },
   {
@@ -15906,12 +16005,12 @@
    "topic_cluster": "monthly-rental / 2.1 monthly-basics",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 8 body + 5 related cards; in: 5 related + 4 body + hub listing",
+   "internal_links": "out: 10 body + 5 related cards; in: 5 related + 4 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "LINKS_REPAIRED 2026-10-14 - 8 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=61; desc_len=152 || words=430; h2=6; tables=0; sources=1; body_links=8 || related_out=5; related_in=5; body_in=4 || plan MM-0083 (owner-history+gsc): Cluster 1 lists rate periods; this is the decision framework at the crossover point || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=61; desc_len=152 || words=448; h2=6; tables=0; sources=1; body_links=10 || related_out=5; related_in=5; body_in=4 || plan MM-0083 (owner-history+gsc): Cluster 1 lists rate periods; this is the decision framework at the crossover point || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -16416,12 +16515,12 @@
    "topic_cluster": "rental / 1.4 renter-situations",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 11 body + 7 related cards; in: 2 related + 0 body + hub listing",
+   "internal_links": "out: 11 body + 7 related cards; in: 2 related + 2 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "LINKS_REPAIRED 2026-10-14 - 11 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=44; desc_len=149 || words=499; h2=6; tables=0; sources=1; body_links=11 || related_out=7; related_in=2; body_in=0 || plan MM-0060 (owner-history): Each targets a distinct renter persona; personas are \nnot bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=44; desc_len=149 || words=499; h2=6; tables=0; sources=1; body_links=11 || related_out=7; related_in=2; body_in=2 || plan MM-0060 (owner-history): Each targets a distinct renter persona; personas are \nnot bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -16433,12 +16532,12 @@
    "topic_cluster": "rental / 1.4 renter-situations",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 9 body + 7 related cards; in: 2 related + 1 body + hub listing",
+   "internal_links": "out: 9 body + 7 related cards; in: 2 related + 3 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "LINKS_REPAIRED 2026-10-14 - 9 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=46; desc_len=153 || words=457; h2=6; tables=0; sources=1; body_links=9 || related_out=7; related_in=2; body_in=1 || plan MM-0058 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=46; desc_len=153 || words=457; h2=6; tables=0; sources=1; body_links=9 || related_out=7; related_in=2; body_in=3 || plan MM-0058 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -16450,12 +16549,12 @@
    "topic_cluster": "rental / 1.4 renter-situations",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 11 body + 7 related cards; in: 2 related + 1 body + hub listing",
+   "internal_links": "out: 11 body + 7 related cards; in: 2 related + 3 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "LINKS_REPAIRED 2026-10-14 - 11 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=43; desc_len=147 || words=521; h2=7; tables=0; sources=1; body_links=11 || related_out=7; related_in=2; body_in=1 || plan MM-0057 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=43; desc_len=147 || words=521; h2=7; tables=0; sources=1; body_links=11 || related_out=7; related_in=2; body_in=3 || plan MM-0057 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -16501,12 +16600,12 @@
    "topic_cluster": "rental / 1.4 renter-situations",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 10 body + 6 related cards; in: 2 related + 1 body + hub listing",
+   "internal_links": "out: 10 body + 6 related cards; in: 2 related + 3 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "LINKS_REPAIRED 2026-10-14 - 10 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=52; desc_len=146 || words=449; h2=6; tables=0; sources=1; body_links=10 || related_out=6; related_in=2; body_in=1 || plan MM-0059 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=52; desc_len=146 || words=449; h2=6; tables=0; sources=1; body_links=10 || related_out=6; related_in=2; body_in=3 || plan MM-0059 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -16569,12 +16668,12 @@
    "topic_cluster": "rental / 1.1 how-to-rent",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 7 body + 5 related cards; in: 5 related + 5 body + hub listing",
+   "internal_links": "out: 9 body + 5 related cards; in: 5 related + 5 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - batch 1: title 67->63 chars, description tightened, legal/document links",
-   "evidence": "title_len=63; desc_len=163 || words=353; h2=4; tables=0; sources=1; body_links=7 || related_out=5; related_in=5; body_in=5 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - batch 1: title 67->63 chars, description tightened, legal/document links; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=63; desc_len=163 || words=373; h2=4; tables=0; sources=1; body_links=9 || related_out=5; related_in=5; body_in=5 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -16586,12 +16685,12 @@
    "topic_cluster": "rental / 1.4 renter-situations",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 12 body + 6 related cards; in: 2 related + 1 body + hub listing",
+   "internal_links": "out: 12 body + 6 related cards; in: 2 related + 3 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "LINKS_REPAIRED 2026-10-14 - 12 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=60; desc_len=153 || words=520; h2=6; tables=0; sources=1; body_links=12 || related_out=6; related_in=2; body_in=1 || plan MM-0056 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=60; desc_len=153 || words=520; h2=6; tables=0; sources=1; body_links=12 || related_out=6; related_in=2; body_in=3 || plan MM-0056 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -17079,12 +17178,12 @@
    "topic_cluster": "monthly-rental / 2.4 renter-lifestyles",
    "content_quality": "adequate (4/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 5 body + 4 related cards; in: 1 related + 2 body + hub listing",
+   "internal_links": "out: 5 body + 4 related cards; in: 1 related + 3 body + hub listing",
    "seo_issues": "short body (298 words)",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - title rewritten to <=65 chars, primary keyword kept, near-duplicate pairs differentiated (can-tourists-rent-a-motorbike-hanoi kept free of the word licence so the Guide Assistant keeps answering the tourist-licence question from the licence paragraph); 5 bare slug reference(s) converted to contextual links",
-   "evidence": "title_len=59; desc_len=160 || words=298; h2=5; tables=0; sources=1; body_links=5 || related_out=4; related_in=1; body_in=2 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=59; desc_len=160 || words=298; h2=5; tables=0; sources=1; body_links=5 || related_out=4; related_in=1; body_in=3 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -18082,12 +18181,12 @@
    "topic_cluster": "rental / 1.5 area-guides",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 7 body + 7 related cards; in: 2 related + 0 body + hub listing",
+   "internal_links": "out: 9 body + 7 related cards; in: 2 related + 3 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "LINKS_REPAIRED 2026-10-14 - 7 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=44; desc_len=154 || words=428; h2=6; tables=0; sources=1; body_links=7 || related_out=7; related_in=2; body_in=0 || plan MM-0074 (gsc+owner-history): Genuine area context (distances, roads, parking, delivery practicality) — not doorway spins; each district has unique geography/logistics || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=44; desc_len=154 || words=446; h2=6; tables=0; sources=1; body_links=9 || related_out=7; related_in=2; body_in=3 || plan MM-0074 (gsc+owner-history): Genuine area context (distances, roads, parking, delivery practicality) — not doorway spins; each district has unique geography/logistics || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -18099,12 +18198,12 @@
    "topic_cluster": "rental / 1.5 area-guides",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 11 body + 6 related cards; in: 2 related + 1 body + hub listing",
+   "internal_links": "out: 13 body + 6 related cards; in: 2 related + 5 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "LINKS_REPAIRED 2026-10-14 - 11 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=54; desc_len=140 || words=450; h2=6; tables=0; sources=1; body_links=11 || related_out=6; related_in=2; body_in=1 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=54; desc_len=140 || words=468; h2=6; tables=0; sources=1; body_links=13 || related_out=6; related_in=2; body_in=5 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -18116,12 +18215,12 @@
    "topic_cluster": "rental / 1.4 renter-situations",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 8 body + 6 related cards; in: 2 related + 0 body + hub listing",
+   "internal_links": "out: 9 body + 6 related cards; in: 2 related + 0 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "LINKS_REPAIRED 2026-10-14 - 8 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=49; desc_len=155 || words=476; h2=7; tables=0; sources=1; body_links=8 || related_out=6; related_in=2; body_in=0 || plan MM-0062 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=49; desc_len=155 || words=493; h2=7; tables=0; sources=1; body_links=9 || related_out=6; related_in=2; body_in=0 || plan MM-0062 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -18167,12 +18266,12 @@
    "topic_cluster": "rental / 1.5 area-guides",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 6 body + 6 related cards; in: 2 related + 0 body + hub listing",
+   "internal_links": "out: 8 body + 6 related cards; in: 2 related + 3 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "LINKS_REPAIRED 2026-10-14 - 6 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=44; desc_len=155 || words=363; h2=5; tables=0; sources=1; body_links=6 || related_out=6; related_in=2; body_in=0 || plan MM-0077 (gsc+owner-history): Genuine area context (distances, roads, parking, delivery practicality) — not doorway spins; each district has unique geography/logistics || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=44; desc_len=155 || words=381; h2=5; tables=0; sources=1; body_links=8 || related_out=6; related_in=2; body_in=3 || plan MM-0077 (gsc+owner-history): Genuine area context (distances, roads, parking, delivery practicality) — not doorway spins; each district has unique geography/logistics || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -18184,12 +18283,12 @@
    "topic_cluster": "rental / 1.5 area-guides",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 6 body + 6 related cards; in: 2 related + 0 body + hub listing",
+   "internal_links": "out: 6 body + 6 related cards; in: 2 related + 3 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "LINKS_REPAIRED 2026-10-14 - 6 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=49; desc_len=151 || words=407; h2=5; tables=0; sources=1; body_links=6 || related_out=6; related_in=2; body_in=0 || plan MM-0076 (gsc+owner-history): Genuine area context (distances, roads, parking, delivery practicality) — not doorway spins; each district has unique geography/logistics || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=49; desc_len=151 || words=407; h2=5; tables=0; sources=1; body_links=6 || related_out=6; related_in=2; body_in=3 || plan MM-0076 (gsc+owner-history): Genuine area context (distances, roads, parking, delivery practicality) — not doorway spins; each district has unique geography/logistics || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -18201,12 +18300,12 @@
    "topic_cluster": "rental / 1.4 renter-situations",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 9 body + 6 related cards; in: 2 related + 0 body + hub listing",
+   "internal_links": "out: 11 body + 6 related cards; in: 2 related + 0 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "LINKS_REPAIRED 2026-10-14 - 9 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=51; desc_len=157 || words=476; h2=6; tables=0; sources=1; body_links=9 || related_out=6; related_in=2; body_in=0 || plan MM-0070 (owner-history): Each targets a distinct renter persona; personas are not\n bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=51; desc_len=157 || words=502; h2=6; tables=0; sources=1; body_links=11 || related_out=6; related_in=2; body_in=0 || plan MM-0070 (owner-history): Each targets a distinct renter persona; personas are not\n bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -18218,12 +18317,12 @@
    "topic_cluster": "rental / 1.4 renter-situations",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 14 body + 6 related cards; in: 1 related + 2 body + hub listing",
+   "internal_links": "out: 14 body + 6 related cards; in: 1 related + 5 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - batch 1: hub link, 13 bare slug refs converted",
-   "evidence": "title_len=45; desc_len=155 || words=572; h2=7; tables=0; sources=1; body_links=14 || related_out=6; related_in=1; body_in=2 || plan MM-0064 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=45; desc_len=155 || words=572; h2=7; tables=0; sources=1; body_links=14 || related_out=6; related_in=1; body_in=5 || plan MM-0064 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -18301,14 +18400,14 @@
    "secondary_keywords": "Motorbike rental Hanoi Old Quarter; hoan kiem; french quarter; lake; city centre; weekend",
    "search_intent": "commercial",
    "topic_cluster": "rental / 1.5 area-guides",
-   "content_quality": "strong (5/7)",
+   "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 8 body + 6 related cards; in: 1 related + 2 body + hub listing",
+   "internal_links": "out: 10 body + 6 related cards; in: 1 related + 2 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - batch 1: hub link, bare slug refs converted",
-   "evidence": "title_len=46; desc_len=158 || words=427; h2=6; tables=0; sources=1; body_links=8 || related_out=6; related_in=1; body_in=2 || plan MM-0078 (gsc+owner-history): Genuine area context (distances, roads, parking, delivery practicality) — not doorway spins; each district has unique geography/logistics || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - batch 1: hub link, bare slug refs converted; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=46; desc_len=158 || words=451; h2=6; tables=0; sources=1; body_links=10 || related_out=6; related_in=1; body_in=2 || plan MM-0078 (gsc+owner-history): Genuine area context (distances, roads, parking, delivery practicality) — not doorway spins; each district has unique geography/logistics || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -18337,12 +18436,12 @@
    "topic_cluster": "rental / 1.5 area-guides",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 6 body + 8 related cards; in: 2 related + 2 body + hub listing",
+   "internal_links": "out: 8 body + 8 related cards; in: 2 related + 2 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; 6 bare slug reference(s) converted to contextual links",
-   "evidence": "title_len=46; desc_len=159 || words=508; h2=7; tables=0; sources=1; body_links=6 || related_out=8; related_in=2; body_in=2 || plan MM-0071 (gsc+owner-history): Genuine area context (distances, roads, parking, delivery practicality) — not doorway spins; each district has unique geography/logistics || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=46; desc_len=159 || words=531; h2=7; tables=0; sources=1; body_links=8 || related_out=8; related_in=2; body_in=2 || plan MM-0071 (gsc+owner-history): Genuine area context (distances, roads, parking, delivery practicality) — not doorway spins; each district has unique geography/logistics || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -18388,12 +18487,12 @@
    "topic_cluster": "rental / 1.5 area-guides",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 7 body + 6 related cards; in: 5 related + 4 body + hub listing",
+   "internal_links": "out: 9 body + 6 related cards; in: 5 related + 4 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - batch 1: rental-process sentence + hub link, bare slug refs converted",
-   "evidence": "title_len=58; desc_len=158 || words=481; h2=6; tables=0; sources=1; body_links=7 || related_out=6; related_in=5; body_in=4 || plan MM-0072 (gsc+owner-history): Genuine area context (distances, roads, parking, delivery practicality) — not doorway spins; each district has unique geography/logistics || recorded metrics: {\"keyword\":\"motorbike rental hanoi old quarter\",\"volume\":40,\"cpc_usd\":0.365,\"paid_difficulty\":63,\"also\":{\"scooter rental hanoi old quarter\":20},\"source\":\"Ubersuggest 2026-10-14\",\"openseo_us\":{\"tool\":\"OpenSEO/DataForSEO US\",\"date\":\"2026-10-14\",\"motorbike rental hanoi old quarter\":{\"volume\":10}}}",
+   "status": "OPTIMIZED 2026-10-14 - batch 1: rental-process sentence + hub link, bare slug refs converted; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=58; desc_len=158 || words=508; h2=6; tables=0; sources=1; body_links=9 || related_out=6; related_in=5; body_in=4 || plan MM-0072 (gsc+owner-history): Genuine area context (distances, roads, parking, delivery practicality) — not doorway spins; each district has unique geography/logistics || recorded metrics: {\"keyword\":\"motorbike rental hanoi old quarter\",\"volume\":40,\"cpc_usd\":0.365,\"paid_difficulty\":63,\"also\":{\"scooter rental hanoi old quarter\":20},\"source\":\"Ubersuggest 2026-10-14\",\"openseo_us\":{\"tool\":\"OpenSEO/DataForSEO US\",\"date\":\"2026-10-14\",\"motorbike rental hanoi old quarter\":{\"volume\":10}}}",
    "type": "article"
   },
   {
@@ -18422,12 +18521,12 @@
    "topic_cluster": "rental / 1.4 renter-situations",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 10 body + 6 related cards; in: 2 related + 3 body + hub listing",
+   "internal_links": "out: 10 body + 6 related cards; in: 2 related + 5 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; 10 bare slug reference(s) converted to contextual links",
-   "evidence": "title_len=51; desc_len=165 || words=517; h2=6; tables=0; sources=1; body_links=10 || related_out=6; related_in=2; body_in=3 || plan MM-0063 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=51; desc_len=165 || words=517; h2=6; tables=0; sources=1; body_links=10 || related_out=6; related_in=2; body_in=5 || plan MM-0063 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -18439,12 +18538,12 @@
    "topic_cluster": "rental / 1.5 area-guides",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 9 body + 7 related cards; in: 1 related + 3 body + hub listing",
+   "internal_links": "out: 11 body + 7 related cards; in: 1 related + 3 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - batch 1: delivery/monthly links, mis-typed winter slug fixed, bare slug refs converted",
-   "evidence": "title_len=43; desc_len=147 || words=461; h2=6; tables=0; sources=1; body_links=9 || related_out=7; related_in=1; body_in=3 || plan MM-0073 (gsc+owner-history): Genuine area context (distances, roads, parking, delivery practicality) — not doorway spins; each district has unique geography/logistics || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - batch 1: delivery/monthly links, mis-typed winter slug fixed, bare slug refs converted; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=43; desc_len=147 || words=483; h2=6; tables=0; sources=1; body_links=11 || related_out=7; related_in=1; body_in=3 || plan MM-0073 (gsc+owner-history): Genuine area context (distances, roads, parking, delivery practicality) — not doorway spins; each district has unique geography/logistics || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -18456,12 +18555,12 @@
    "topic_cluster": "rental / 1.5 area-guides",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 8 body + 6 related cards; in: 2 related + 0 body + hub listing",
+   "internal_links": "out: 10 body + 6 related cards; in: 2 related + 3 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "LINKS_REPAIRED 2026-10-14 - 8 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=47; desc_len=159 || words=375; h2=5; tables=0; sources=1; body_links=8 || related_out=6; related_in=2; body_in=0 || plan MM-0079 (gsc+owner-history): Genuine area context (distances, roads, parking, delivery practicality) — n\not doorway spins; each district has unique geography/logistics || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=47; desc_len=159 || words=390; h2=5; tables=0; sources=1; body_links=10 || related_out=6; related_in=2; body_in=3 || plan MM-0079 (gsc+owner-history): Genuine area context (distances, roads, parking, delivery practicality) — n\not doorway spins; each district has unique geography/logistics || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -18490,12 +18589,12 @@
    "topic_cluster": "rental / 1.4 renter-situations",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 10 body + 6 related cards; in: 1 related + 2 body + hub listing",
+   "internal_links": "out: 10 body + 6 related cards; in: 1 related + 4 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "LINKS_REPAIRED 2026-10-14 - 10 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=39; desc_len=146 || words=545; h2=8; tables=0; sources=1; body_links=10 || related_out=6; related_in=1; body_in=2 || plan MM-0065 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1\n.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=39; desc_len=146 || words=545; h2=8; tables=0; sources=1; body_links=10 || related_out=6; related_in=1; body_in=4 || plan MM-0065 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1\n.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -20309,12 +20408,12 @@
    "topic_cluster": "monthly-rental / 2.1 monthly-basics",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 7 body + 5 related cards; in: 1 related + 2 body + hub listing",
+   "internal_links": "out: 9 body + 5 related cards; in: 1 related + 2 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "LINKS_REPAIRED 2026-10-14 - 7 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=51; desc_len=148 || words=451; h2=6; tables=0; sources=1; body_links=7 || related_out=5; related_in=1; body_in=2 || plan MM-0087 (owner-history): Cluster 1 is the handover; this is the settling-in routine that makes a monthly rental work || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-14 - in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "evidence": "title_len=51; desc_len=148 || words=478; h2=6; tables=0; sources=1; body_links=9 || related_out=5; related_in=1; body_in=2 || plan MM-0087 (owner-history): Cluster 1 is the handover; this is the settling-in routine that makes a monthly rental work || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -20513,12 +20612,12 @@
    "topic_cluster": "monthly-rental / 2.4 renter-lifestyles",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 5 body + 4 related cards; in: 2 related + 1 body + hub listing",
+   "internal_links": "out: 5 body + 4 related cards; in: 2 related + 3 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "LINKS_REPAIRED 2026-10-14 - 5 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=52; desc_len=148 || words=314; h2=5; tables=0; sources=1; body_links=5 || related_out=4; related_in=2; body_in=1 || plan MM-0113 (owner-history): Cluster 1 covers student rental basics; this covers semester-scale terms and study breaks || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=52; desc_len=148 || words=314; h2=5; tables=0; sources=1; body_links=5 || related_out=4; related_in=2; body_in=3 || plan MM-0113 (owner-history): Cluster 1 covers student rental basics; this covers semester-scale terms and study breaks || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -21647,7 +21746,7 @@
    "url": "/articles/vietnam-motorbike-backpacker-trail/",
    "current_title": "The Vietnam Motorbike Backpacker Trail: The Classic Route",
    "primary_keyword": "the vietnam motorbike backpacker trail",
-   "secondary_keywords": "backpacker route; motorbike trail; top gear; hanoi to saigon; travel culture",
+   "secondary_keywords": "Motorbike routes Vietnam; backpacker route; motorbike trail; top gear; hanoi to saigon; travel culture",
    "search_intent": "informational",
    "topic_cluster": "vietnam-travel / 14.4 nationwide-travel-planning",
    "content_quality": "strong (5/7)",
@@ -22196,12 +22295,12 @@
    "topic_cluster": "law-licences / 11.1 licence-system",
    "content_quality": "adequate (4/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 3 body + 5 related cards; in: 2 related + 5 body + hub listing",
+   "internal_links": "out: 3 body + 5 related cards; in: 2 related + 6 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=43; desc_len=156 || words=375; h2=4; tables=0; sources=2; body_links=3 || related_out=5; related_in=2; body_in=5 || plan LAW-0023 (gsc+legal-research): Legal definition of xe gan may; 50cc article is about licensing outcome || ownership note: \"Moped\" is the legal 50cc class in Vietnam; the definition guide owns it, the 50cc hub supports it. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=43; desc_len=156 || words=375; h2=4; tables=0; sources=2; body_links=3 || related_out=5; related_in=2; body_in=6 || plan LAW-0023 (gsc+legal-research): Legal definition of xe gan may; 50cc article is about licensing outcome || ownership note: \"Moped\" is the legal 50cc class in Vietnam; the definition guide owns it, the 50cc hub supports it. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {

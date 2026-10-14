@@ -42,6 +42,8 @@ Most riders rent from a shop and ride in — Nguyen Tu's shop is on Nguyen Van C
 
 Mornings before 08:00 are the Old Quarter at its easiest; evenings around Hoan Kiem lake are the walking-hour zone, when the lake perimeter closes to traffic at weekends and the streets fill on foot. Ride to the edge, park, and walk the rest — the local pattern and the right one.
 
+Staying just outside the Old Quarter? The guides to [renting in Ba Dinh]({{ '/articles/renting-motorbike-ba-dinh/' | relative_url }}) and [renting in Hai Ba Trung]({{ '/articles/renting-motorbike-hai-ba-trung/' | relative_url }}) follow the same format for the neighbouring districts.
+
 ## The one-line version
 
 Slow bike, calm pace, parked in a lot, walked rather than ridden at peak times — the Old Quarter rewards riders who treat it as a place to arrive at, not through.

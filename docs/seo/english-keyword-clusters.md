@@ -77,17 +77,26 @@ Generated 2026-10-14 by `scripts/english-seo-matrix.js`. Keyword ownership is de
 | Motorbike hire Hanoi _(variant of Hanoi motorbike rental)_ | commercial | /topics/rental/ | Hanoi Motorbike Rental | partial |  | British/Australian wording of the same intent. |
 | Scooters in Vietnam | informational | /topics/scooters/ | Scooters in Vietnam | full | /articles/best-scooters-to-rent-hanoi/ | Vehicle-category head term; the scooter pillar answers it and routes rental intent to the Hanoi scooter rental guide. |
 | Vietnam scooters _(variant of Scooters in Vietnam)_ | informational | /topics/scooters/ | Scooters in Vietnam | full |  |  |
-| Vietnamese scooters _(variant of Scooters in Vietnam)_ | informational | /topics/scooters/ | Scooters in Vietnam | partial |  |  |
+| Vietnamese scooters _(variant of Scooters in Vietnam)_ | informational | /topics/scooters/ | Scooters in Vietnam | full |  |  |
 | Scooter rental Vietnam | commercial | /topics/scooters/ | Scooters in Vietnam | full | /articles/best-scooters-to-rent-hanoi/, /topics/50cc/ | Vietnam-wide scooter rental intent; served by the scooter pillar (which links the Hanoi rental guides) because the business rents in Hanoi only. Never claim rental in other cities. |
 | Mopeds Vietnam | informational | /articles/what-is-a-moped-vietnam-law/ | What Counts as a Moped Under Vietnamese Law | full | /topics/50cc/ | "Moped" is the legal 50cc class in Vietnam; the definition guide owns it, the 50cc hub supports it. |
 | Vietnamese moped _(variant of Mopeds Vietnam)_ | informational | /articles/what-is-a-moped-vietnam-law/ | What Counts as a Moped Under Vietnamese Law | full |  |  |
+| Vietnamese motorbikes | informational | /topics/motorcycles/ | Motorcycles in Vietnam | full | /topics/scooters/, /topics/manual-clutch/ | Generic "which bikes exist in Vietnam" head term (keyword-universe.json, US market); the motorcycles pillar owns it, the scooter and manual-clutch pillars support it. Consolidates a split family (topical map 2026-10-14). |
+| Vietnamese motorcycle _(variant of Vietnamese motorbikes)_ | informational | /topics/motorcycles/ | Motorcycles in Vietnam | full |  |  |
+| Motorbikes in Vietnam _(variant of Vietnamese motorbikes)_ | informational | /topics/motorcycles/ | Motorcycles in Vietnam | full |  |  |
+| Honda motorbike Vietnam | informational | /topics/motorcycles/ | Motorcycles in Vietnam | full | /articles/best-honda-underbones-vietnam-verified/, /articles/honda-scooter-lineup-vietnam-explained/ | Brand head term; the motorcycles pillar (Honda and Yamaha model reviews) owns it, the Honda underbone and scooter line-up guides support it. Consolidates two split families. |
+| Honda motorcycles in Vietnam _(variant of Honda motorbike Vietnam)_ | informational | /topics/motorcycles/ | Motorcycles in Vietnam | full |  |  |
+| Honda bike Vietnam _(variant of Honda motorbike Vietnam)_ | informational | /topics/motorcycles/ | Motorcycles in Vietnam | partial |  |  |
+| Honda bikes in Vietnam _(variant of Honda motorbike Vietnam)_ | informational | /topics/motorcycles/ | Motorcycles in Vietnam | partial |  |  |
+| Motorbike routes Vietnam | informational | /topics/trips/ | Motorbike Trips from Hanoi | full | /articles/vietnam-motorbike-backpacker-trail/, /topics/vietnam-travel/ | Route-planning head term; the trips pillar owns it, the backpacker-trail guide and the Vietnam travel pillar support it. Consolidates a split family. |
+| Motorbike route Vietnam _(variant of Motorbike routes Vietnam)_ | informational | /topics/trips/ | Motorbike Trips from Hanoi | full |  |  |
 
 ## Topic cluster map (14 clusters, 981 articles)
 
 | # | Cluster | Hub (pillar) | Articles | Commercial | Informational | Avg words | Subclusters |
 |---|---|---|---|---|---|---|---|
-| 1 | rental | /topics/rental/ | 81 | 34 | 47 | 405 | 5 |
-| 2 | monthly-rental | /topics/monthly-rental/ | 45 | 12 | 33 | 354 | 5 |
+| 1 | rental | /topics/rental/ | 81 | 34 | 47 | 410 | 5 |
+| 2 | monthly-rental | /topics/monthly-rental/ | 45 | 12 | 33 | 356 | 5 |
 | 3 | scooters | /topics/scooters/ | 110 | 51 | 59 | 361 | 4 |
 | 4 | motorcycles | /topics/motorcycles/ | 108 | 65 | 43 | 321 | 4 |
 | 5 | manual-clutch | /topics/manual-clutch/ | 55 | 9 | 46 | 381 | 4 |

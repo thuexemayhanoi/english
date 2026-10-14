@@ -45,6 +45,8 @@ The district is a straightforward pickup-and-ride area: Nguyen Tu's shop in Long
 - Ceremony days and state visits close central Ba Dinh streets with little notice; rerouting around them is normal local practice
 - One-way routing around the square is elaborate; a wrong turn near the mausoleum is a ticket risk, not a shortcut — the fine categories are in [Motorbike Fines in Vietnam: Current Overview (Decree 168/2024)]({{ '/articles/motorbike-fines-vietnam-overview/' | relative_url }})
 
+West and south of Ba Dinh, the area guides for [Cau Giay]({{ '/articles/renting-motorbike-cau-giay/' | relative_url }}) and [Dong Da]({{ '/articles/renting-motorbike-dong-da/' | relative_url }}) continue the series.
+
 ## The one-line version
 
 Wide boulevards, museums, strict parking near the compounds, and calm green pockets — Ba Dinh is ridden properly or not at all.

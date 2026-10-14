@@ -44,3 +44,5 @@ A commuter should rent monthly, not daily - the published monthly rates beat dai
 - A lock routine: parked at home and at work daily, the bike needs the steering lock habit every single time.
 
 [The traffic article]({{ '/articles/best-motorbike-for-hanoi-traffic/' | relative_url }}) covers riding technique; [the price article]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) covers the arithmetic. For commuters the short version is: automatic scooter, monthly rate, good brakes, always locked.
+
+Commuting between schools? [Best Bike for English Teachers Living in Hanoi]({{ '/articles/best-bike-for-english-teachers-hanoi/' | relative_url }}) narrows the choice for a teaching timetable; taller riders should start with [Best Motorbikes for Tall Foreign Riders in Vietnam]({{ '/articles/best-motorbikes-for-tall-riders-vietnam/' | relative_url }}).

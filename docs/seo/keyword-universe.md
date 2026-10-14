@@ -28,7 +28,7 @@ Generated 2026-10-14 by `scripts/english-seo-matrix.js` from `docs/seo/keyword-u
 - competitor-brand: 10
 - other-city: 11
 - adjacent: 22
-- core served by an existing URL: 113 (24 only by a partial match, marked _weak_); core gaps: 3
+- core served by an existing URL: 113 (20 only by a partial match, marked _weak_); core gaps: 3
 - estimated monthly demand covered (core served / core total): AU 750/750, UK 360/360, US 16180/16190, VN 50340/50460
 
 ## Core keywords by topic
@@ -54,8 +54,8 @@ Generated 2026-10-14 by `scripts/english-seo-matrix.js` from `docs/seo/keyword-u
 | motorbiking in vietnam | informational |  |  | 1000 |  | rentalmotorbikevietnam.com #25 | /topics/vietnam-travel/ | keyword-targets owner (Motorbiking in Vietnam) |
 | motorcycles vietnam | informational |  |  | 1000 |  | stylemotorbikes.com #3, tigitmotorbikes.com #4 | /topics/vietnam-travel/ | keyword-targets owner (Motorbiking in Vietnam) |
 | vietnam motorbike | informational | 320 |  | 1000 |  | stylemotorbikes.com #30, tigitmotorbikes.com #19 | /topics/vietnam-travel/ | keyword-targets owner (Motorbike Vietnam) |
-| vietnamese motorbikes | transactional |  |  | 1000 |  | stylemotorbikes.com #5, tigitmotorbikes.com #2 | /articles/motorbikes-on-expressway-vietnam/ | title/keyword match |
-| vietnamese motorcycle | transactional |  |  | 1000 |  | stylemotorbikes.com #10, tigitmotorbikes.com #2 | /articles/police-impound-motorbike-vietnam/ | title/keyword match |
+| vietnamese motorbikes | transactional |  |  | 1000 |  | stylemotorbikes.com #5, tigitmotorbikes.com #2 | /topics/vietnam-travel/ | keyword-targets owner (Motorbiking in Vietnam) |
+| vietnamese motorcycle | transactional |  |  | 1000 |  | stylemotorbikes.com #10, tigitmotorbikes.com #2 | /topics/vietnam-travel/ | keyword-targets owner (Motorbike Vietnam) |
 | motorbikes in vietnam | informational |  |  |  | 880 |  | /topics/vietnam-travel/ | keyword-targets owner (Motorbiking in Vietnam) |
 | vietnam motorcycles | informational |  |  | 390 |  | stylemotorbikes.com #2, tigitmotorbikes.com #5 | /topics/vietnam-travel/ | keyword-targets owner (Motorbiking in Vietnam) |
 | vietnam bike | transactional |  |  | 210 |  | rentabikevn.com #26, stylemotorbikes.com #6, tigitmotorbikes.com #14 | /articles/dat-bike-lineup-vietnam-guide/ | title/keyword match |
@@ -75,7 +75,7 @@ Generated 2026-10-14 by `scripts/english-seo-matrix.js` from `docs/seo/keyword-u
 | motorbike license vietnam | informational |  |  | 50 |  |  | /articles/50cc-licence-vietnam/ | title/keyword match |
 | motorbike vietnam license | informational |  |  | 50 |  |  | /articles/50cc-licence-vietnam/ | title/keyword match |
 | vietnam bike license | informational |  |  | 50 |  |  | /articles/electric-bike-licence-vietnam/ | title/keyword match |
-| temporary vietnamese motorcycle licence _weak_ | informational |  |  | 10 |  |  | /articles/foreign-student-motorbike-licence-vietnam/ | nearest URL (partial match): title/keyword match |
+| temporary vietnamese motorcycle licence _weak_ | informational |  |  | 10 |  |  | /topics/50cc/ | nearest URL (partial match): Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam? |
 | vietnam motorbike license reddit _weak_ | informational |  |  | 10 |  |  | /topics/50cc/ | nearest URL (partial match): Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam? |
 
 ### rental-hanoi (20)
@@ -148,10 +148,10 @@ Generated 2026-10-14 by `scripts/english-seo-matrix.js` from `docs/seo/keyword-u
 |---|---|---|---|---|---|---|---|---|
 | motorbike holidays vietnam _weak_ | informational |  |  | 1000 |  | tigitmotorbikes.com #28 | /articles/renting-motorbike-hanoi-tet-holidays/ | nearest URL (partial match): title/keyword match |
 | motorbike across vietnam | informational |  |  | 40 |  |  | /articles/left-turns-across-traffic-motorbike-vietnam/ | title/keyword match |
-| motorbike around vietnam | informational |  |  | 40 |  |  | /articles/riding-motorbike-blind-spots-vietnam/ | title/keyword match |
+| motorbike around vietnam | informational |  |  | 40 |  |  | /articles/getting-around-hanoi-without-vietnamese/ | title/keyword match |
 | laos motorbike loop _weak_ | informational |  |  | 20 |  |  | /topics/trips/ | nearest URL (partial match): Common-questions entry: What is the most famous motorbike loop in Vietnam? |
-| motorbike route vietnam | informational |  |  |  | 20 |  | /articles/vietnam-motorbike-backpacker-trail/ | title/keyword match |
-| motorbike routes vietnam _weak_ | informational |  |  |  | 20 |  | /topics/safety/ | nearest URL (partial match): title/keyword match |
+| motorbike route vietnam | informational |  |  |  | 20 |  | /topics/trips/ | keyword-targets owner (Motorbike route Vietnam) |
+| motorbike routes vietnam | informational |  |  |  | 20 |  | /topics/trips/ | keyword-targets owner (Motorbike routes Vietnam) |
 | motorbike tours hanoi | commercial |  |  | 20 |  |  | /articles/hanoi-guided-motorbike-tours-vs-self-riding/ | title/keyword match |
 | hanoi to ho chi minh motorbike rental | transactional |  |  | 10 |  |  | /topics/vietnam-travel/ | Common-questions entry: Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City? |
 | motorbike from hanoi to ho chi minh | informational |  | 10 |  |  |  | /articles/hanoi-to-ho-chi-minh-city-by-motorbike/ | title/keyword match |
@@ -164,20 +164,20 @@ Generated 2026-10-14 by `scripts/english-seo-matrix.js` from `docs/seo/keyword-u
 | Keyword | Intent | AU | UK | US | VN | Competitor ranking | Serving URL | How |
 |---|---|---|---|---|---|---|---|---|
 | scooter in vietnam | informational |  |  | 390 |  | rentabikevn.com #21, theextramile.co #16 | /topics/scooters/ | keyword-targets owner (Scooters in Vietnam) |
-| scooter in vietnamese | informational |  |  | 390 |  | rentabikevn.com #26, theextramile.co #8 | /topics/scooters/ | keyword-targets owner (Vietnamese scooters) |
+| scooter in vietnamese | informational |  |  | 390 |  | rentabikevn.com #26, theextramile.co #8 | /topics/scooters/ | keyword-targets owner (Scooters in Vietnam) |
 | scooters in vietnam | commercial |  |  | 390 |  | theextramile.co #13, tigitmotorbikes.com #29 | /topics/scooters/ | keyword-targets owner (Scooters in Vietnam) |
 | vietnam scooter | transactional |  |  | 390 |  | rentabikevn.com #25, theextramile.co #16 | /topics/scooters/ | keyword-targets owner (Scooters in Vietnam) |
 | vietnam scooters | transactional |  |  | 390 |  | theextramile.co #17, tigitmotorbikes.com #28 | /topics/scooters/ | keyword-targets owner (Scooters in Vietnam) |
-| vietnamese scooter | transactional |  |  | 390 |  | theextramile.co #11, tigitmotorbikes.com #22 | /topics/scooters/ | keyword-targets owner (Vietnamese scooters) |
-| vietnamese scooters | transactional |  |  | 390 |  | theextramile.co #17, tigitmotorbikes.com #27 | /topics/scooters/ | keyword-targets owner (Vietnamese scooters) |
-| honda motorbike vietnam _weak_ | transactional |  |  |  | 320 |  | /topics/50cc/ | nearest URL (partial match): Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam? |
+| vietnamese scooter | transactional |  |  | 390 |  | theextramile.co #11, tigitmotorbikes.com #22 | /topics/scooters/ | keyword-targets owner (Scooters in Vietnam) |
+| vietnamese scooters | transactional |  |  | 390 |  | theextramile.co #17, tigitmotorbikes.com #27 | /topics/scooters/ | keyword-targets owner (Scooters in Vietnam) |
+| honda motorbike vietnam | transactional |  |  |  | 320 |  | /topics/motorcycles/ | keyword-targets owner (Honda motorbike Vietnam) |
 | mopeds in vietnam | informational |  |  | 320 |  | rentabikevn.com #15, rentalmotorbikevietnam.com #30, tigitmotorbikes.com #19 | /articles/what-is-a-moped-vietnam-law/ | keyword-targets owner (Mopeds Vietnam) |
 | mopeds vietnam | transactional |  |  | 320 |  | rentabikevn.com #30, theextramile.co #18, tigitmotorbikes.com #24 | /articles/what-is-a-moped-vietnam-law/ | keyword-targets owner (Mopeds Vietnam) |
 | vietnam mopeds | transactional |  |  | 320 |  | theextramile.co #16, tigitmotorbikes.com #17 | /articles/what-is-a-moped-vietnam-law/ | keyword-targets owner (Mopeds Vietnam) |
 | vietnamese moped | transactional |  |  | 320 |  | rentabikevn.com #7, rentalmotorbikevietnam.com #20, theextramile.co #18, tigitmotorbikes.com #13 | /articles/what-is-a-moped-vietnam-law/ | keyword-targets owner (Vietnamese moped) |
-| honda bike vietnam _weak_ | navigational |  |  | 140 |  | rentalmotorbikevietnam.com #11 | /articles/16-inch-wheel-scooters-vietnam/ | nearest URL (partial match): title/keyword match |
-| honda bikes in vietnam | commercial |  |  | 140 |  | rentalmotorbikevietnam.com #14 | /articles/grey-import-50cc-vietnam/ | title/keyword match |
-| honda motorcycles in vietnam _weak_ | commercial |  |  | 140 |  | rentabikevn.com #30, rentalmotorbikevietnam.com #16, stylemotorbikes.com #7, tigitmotorbikes.com #13 | /articles/16-inch-wheel-scooters-vietnam/ | nearest URL (partial match): title/keyword match |
+| honda bike vietnam | navigational |  |  | 140 |  | rentalmotorbikevietnam.com #11 | /topics/motorcycles/ | keyword-targets owner (Honda bike Vietnam) |
+| honda bikes in vietnam | commercial |  |  | 140 |  | rentalmotorbikevietnam.com #14 | /topics/motorcycles/ | keyword-targets owner (Honda bikes in Vietnam) |
+| honda motorcycles in vietnam | commercial |  |  | 140 |  | rentabikevn.com #30, rentalmotorbikevietnam.com #16, stylemotorbikes.com #7, tigitmotorbikes.com #13 | /topics/motorcycles/ | keyword-targets owner (Honda motorcycles in Vietnam) |
 | electric motorbike vietnam | transactional |  |  |  | 110 |  | /articles/electric-motorbike-theft-security-vietnam/ | title/keyword match |
 | 50cc motorbike vietnam | transactional |  |  |  | 50 |  | /articles/50cc-licence-vietnam/ | title/keyword match |
 | honda ct125 vietnam _weak_ | transactional |  |  |  | 50 |  | /articles/honda-blade-vs-honda-ct125/ | nearest URL (partial match): title/keyword match |
@@ -202,11 +202,11 @@ Vietnam riding context without the vehicle word; served where an existing guide 
 | traffic in vietnam | informational |  |  | 720 |  | rentabikevn.com #10 | /articles/how-to-pay-traffic-fine-vietnam/ | title/keyword match |
 | traffic vietnam | informational |  |  | 720 |  | rentabikevn.com #7 | /articles/how-to-pay-traffic-fine-vietnam/ | title/keyword match |
 | vietnam traffic | informational |  |  | 720 |  | rentabikevn.com #7 | /articles/how-to-pay-traffic-fine-vietnam/ | title/keyword match |
-| vietnamese traffic | informational |  |  | 720 |  | rentabikevn.com #3 | /articles/vietnam-traffic-culture-riding-overview/ | title/keyword match |
+| vietnamese traffic | informational |  |  | 720 |  | rentabikevn.com #3 | /articles/how-to-pay-traffic-fine-vietnam/ | title/keyword match |
 | monsoon season vietnam | informational |  |  | 590 |  | rentabikevn.com #15 | /articles/vietnam-monsoon-season-motorbike-travel/ | title/keyword match |
-| police in vietnam | informational |  |  | 590 |  | rentabikevn.com #8 | /articles/stopped-by-traffic-police-vietnam/ | title/keyword match |
-| police vietnam | informational |  |  | 590 |  | rentabikevn.com #8 | /articles/stopped-by-traffic-police-vietnam/ | title/keyword match |
-| vietnam police | informational |  |  | 590 |  | rentabikevn.com #12 | /articles/stopped-by-traffic-police-vietnam/ | title/keyword match |
+| police in vietnam | informational |  |  | 590 |  | rentabikevn.com #8 | /articles/police-impound-motorbike-vietnam/ | title/keyword match |
+| police vietnam | informational |  |  | 590 |  | rentabikevn.com #8 | /articles/police-impound-motorbike-vietnam/ | title/keyword match |
+| vietnam police | informational |  |  | 590 |  | rentabikevn.com #12 | /articles/police-impound-motorbike-vietnam/ | title/keyword match |
 | vietnamese police | informational |  |  | 590 |  | rentabikevn.com #7 | /articles/police-impound-motorbike-vietnam/ | title/keyword match |
 | ha giang loop november _weak_ | informational |  |  | 20 |  |  | /topics/vietnam-travel/ | nearest URL (partial match): Common-questions entry: Is the Ha Giang loop difficult? |
 | ha giang loop april _weak_ | informational |  |  | 10 |  |  | /topics/vietnam-travel/ | nearest URL (partial match): Common-questions entry: Is the Ha Giang loop difficult? |

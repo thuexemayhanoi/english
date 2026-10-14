@@ -60,3 +60,5 @@ Walk the bike: lights, horn, brakes, mirrors, tyres, fuel level, existing scratc
 Return the bike in the agreed condition, inside opening hours, on time - [late returns are charged by the hour]({{ '/articles/late-return-rental-motorbike-hanoi/' | relative_url }}). Once the shop confirms the bike is fine, the deposit comes back to you.
 
 That is the whole process. The guides linked above and in the related guides below expand each step - [documents]({{ '/articles/documents-needed-rent-motorbike-hanoi/' | relative_url }}), deposits, booking, prices and inspection.
+
+Renting for a particular stay? The situation guides go into the specifics: [a single day]({{ '/articles/renting-motorbike-hanoi-one-day/' | relative_url }}), [tourists on a short visit]({{ '/articles/motorbike-rental-tourists-hanoi-essentials/' | relative_url }}), [six months or longer]({{ '/articles/renting-motorbike-six-months-hanoi/' | relative_url }}) and [renting for a group]({{ '/articles/renting-motorbikes-group-hanoi/' | relative_url }}).

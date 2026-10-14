@@ -42,6 +42,8 @@ Nguyen Tu is based in Long Bien, across the city from Cau Giay; delivery may be 
 
 From Cau Giay, the quick escapes run west: Hoa Lac direction, the Thang Long boulevard ride, and connections toward Son Tay and Ba Vi for full days out — see [Best Motorbike for Day Trips from Hanoi]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }}) for route planning, and [Can You Take a Rental Motorbike Outside Hanoi?]({{ '/articles/rental-motorbike-outside-hanoi/' | relative_url }}) for what to agree with the shop first.
 
+Next door, the guides for [Dong Da]({{ '/articles/renting-motorbike-dong-da/' | relative_url }}) and [Thanh Xuan]({{ '/articles/renting-motorbike-thanh-xuan/' | relative_url }}) cover the districts to the east and south.
+
 ## The one-line version
 
 Fast arterials, mall parking, university energy, and good access to the western countryside. Cau Giay suits riders who commute seriously and escape westward.

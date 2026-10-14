@@ -45,3 +45,5 @@ A car licence does not cover motorcycles in Vietnam, and neither does a 1949-con
 Confirm availability and the deposit with the shop before you arrive - model stock changes week to week. Rent from a shop that hands you the registration certificate with the bike, take photos at handover, and ride within the limits you actually hold. A licence-free 50 cc or e-bike rental is a legal, low-speed way to see the city if your paperwork does not reach further.
 
 Foreigners rent here, ride here, and return deposits here every day. Doing it legally is a matter of matching the bike to the licence you genuinely hold.
+
+Moving here rather than visiting? See the guides for [expats moving to Hanoi]({{ '/articles/motorbike-rental-expats-moving-hanoi/' | relative_url }}), [English teachers]({{ '/articles/motorbike-rental-english-teachers-hanoi/' | relative_url }}) and [digital nomads]({{ '/articles/motorbike-rental-digital-nomads-hanoi/' | relative_url }}).

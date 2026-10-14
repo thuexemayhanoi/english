@@ -108,7 +108,7 @@ for (const g of register) if (g.servedBy) { const c = clusterOf(g.servedBy) || '
 
 // ---------- keyword clusters by serving URL + split families ----------
 const STOP = new Set('a an the of for to in on and or with your you our this that is are how what when where why which who do does can at by from vs versus i my it its be need needed want get'.split(' '));
-const stem = w => w.toLowerCase().replace(/[^a-z0-9]/g, '').replace(/s$/, '').replace(/(ing|ers|er|ed|es|al)$/, '').replace(/licenc/, 'licens').replace(/motorcycl/, 'motorbik').replace(/^rental$/, 'rent').replace(/^hir$/, 'hire');
+const stem = w => w.toLowerCase().replace(/[^a-z0-9]/g, '').replace(/s$/, '').replace(/(ing|ers|er|ed|es|al)$/, '').replace(/licenc/, 'licens').replace(/motorcycl/, 'motorbik').replace(/^rental$/, 'rent').replace(/^hir$/, 'hire').replace(/^vietnamese$/, 'vietnam');
 const sig = s => [...new Set(String(s).toLowerCase().split(/[^a-z0-9]+/).filter(w => w && !STOP.has(w)).map(stem).filter(w => w.length > 1))].sort().join(' ');
 const byUrl = {};
 for (const r of mapped) {
@@ -173,7 +173,7 @@ for (const c of clusters) {
   if (c.links.articlesWithoutInSiloInbound) rec(c.cluster, 'P3', 'silo-orphans', c.links.articlesWithoutInSiloInbound + ' article(s) receive no in-body link from their own silo (hub listing and related cards only)', 'work the list below into contextual links from same-silo guides, highest-demand pages first');
   if (c.articles && c.links.inSiloShare < 50) rec(c.cluster, 'P3', 'silo-leak', 'only ' + c.links.inSiloShare + '% of in-body links from this silo stay inside it', 'review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links');
   for (const g of c.demand.gaps) rec(c.cluster, 'P3', 'demand-gap', '"' + g.keyword + '" (' + Object.entries(g.volume || {}).map(([m, v]) => m + ' ' + v).join(', ') + ') has no serving URL', 'serve it inside an existing guide of this silo or record it as not a target (no new article)');
-  for (const k of c.keywords.list.filter(k => !k.variant && k.coverage && k.coverage !== 'full')) rec(c.cluster, 'P3', 'owned-keyword-coverage', '"' + k.keyword + '" is only ' + k.coverage + 'ly covered by the title and description of ' + k.owner, 'work the keyword naturally into the title or description of the owner (no stuffing)');
+  for (const k of c.keywords.list.filter(k => !k.variant && !k.gap && k.coverage && k.coverage !== 'full')) rec(c.cluster, 'P3', 'owned-keyword-coverage', '"' + k.keyword + '" is only ' + k.coverage + 'ly covered by the title and description of ' + k.owner, 'work the keyword naturally into the title or description of the owner (no stuffing)');
 }
 for (const f of splitFamilies) rec(clusterOf(f.urls[0]) || '(site)', 'P3', 'split-family', 'keyword family "' + f.family + '" (' + f.keywords.join(', ') + ') is served by ' + f.urls.length + ' URLs: ' + f.urls.join(', '), 'declare one owner in docs/seo/keyword-targets.json and let the others support it');
 for (const k of keywordClusters) for (const fl of k.flags) rec(k.cluster || '(site)', 'P3', 'keyword-cluster', k.url + ': ' + fl, 'review in the keyword universe mapping');

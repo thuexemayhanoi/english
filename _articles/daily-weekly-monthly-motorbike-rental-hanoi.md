@@ -45,3 +45,5 @@ Longer-term rental is negotiable - contact us to discuss longer-term rental dire
 ## The one mistake to avoid
 
 Renting daily "just in case" for three weeks. The arithmetic punishes it, and the deposit-hold repeats weekly. Decide your period from your actual dates, then book it - [the booking article]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) covers how.
+
+At the two ends of the scale, [renting for just one day]({{ '/articles/renting-motorbike-hanoi-one-day/' | relative_url }}) and [renting for six months or longer]({{ '/articles/renting-motorbike-six-months-hanoi/' | relative_url }}) each have their own guide.

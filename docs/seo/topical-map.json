@@ -4,10 +4,10 @@
   "mode": "ZERO-DATA",
   "clusters": 14,
   "articles": 981,
-  "inSiloBodyLinks": 1967,
+  "inSiloBodyLinks": 2014,
   "crossSiloBodyLinks": 1121,
   "inSiloShare": 64,
-  "articlesWithoutInSiloInbound": 354,
+  "articlesWithoutInSiloInbound": 347,
   "hubsWithFewerThan3StartHere": 0,
   "demandByMarket": {
    "au": {
@@ -27,12 +27,12 @@
     "total": 50460
    }
   },
-  "keywordClusters": 40,
-  "splitFamilies": 4,
+  "keywordClusters": 35,
+  "splitFamilies": 0,
   "serpQuestionsServed": 158,
   "serpGaps": 7,
   "recommendations": {
-   "P3": 102
+   "P3": 77
   },
   "missing": []
  },
@@ -57,8 +57,8 @@
     "1.4 renter-situations": 15
    },
    "words": {
-    "avg": 398,
-    "min": 293
+    "avg": 403,
+    "min": 301
    },
    "review": {
     "verified": 81,
@@ -73,22 +73,19 @@
     "P3": 81
    },
    "links": {
-    "inSiloBody": 308,
+    "inSiloBody": 346,
     "crossSiloOut": 90,
     "crossSiloIn": 261,
-    "inSiloShare": 77,
-    "articlesWithoutInSiloInbound": 14,
+    "inSiloShare": 79,
+    "articlesWithoutInSiloInbound": 7,
     "articlesWithoutInSiloInboundSample": [
      "/articles/common-motorbike-rental-problems-hanoi/",
-     "/articles/motorbike-rental-digital-nomads-hanoi/",
      "/articles/motorbike-rental-female-riders-hanoi/",
      "/articles/rental-motorbike-fuel-what-petrol/",
-     "/articles/renting-motorbike-ba-dinh/",
-     "/articles/renting-motorbike-cau-giay/",
      "/articles/renting-motorbike-couple-hanoi/",
-     "/articles/renting-motorbike-dong-da/",
-     "/articles/renting-motorbike-hai-ba-trung/",
-     "/articles/renting-motorbike-hanoi-complete-beginner/"
+     "/articles/renting-motorbike-hanoi-complete-beginner/",
+     "/articles/renting-motorbike-hanoi-tet-holidays/",
+     "/articles/renting-motorbike-noi-bai-arrival/"
     ]
    },
    "topInbound": [
@@ -120,115 +117,10 @@
    ],
    "moneyPages": [
     {
-     "url": "/articles/motorbike-rental-digital-nomads-hanoi/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/renting-motorbike-ba-dinh/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/renting-motorbike-cau-giay/",
-     "inbound": 1,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/renting-motorbike-dong-da/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/renting-motorbike-hai-ba-trung/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/renting-motorbike-six-months-hanoi/",
-     "inbound": 3,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/renting-motorbike-thanh-xuan/",
-     "inbound": 0,
-     "inSiloInbound": 0,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
      "url": "/articles/best-bike-for-english-teachers-hanoi/",
-     "inbound": 2,
-     "inSiloInbound": 1,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/best-motorbikes-for-tall-riders-vietnam/",
-     "inbound": 10,
-     "inSiloInbound": 1,
-     "related": 6,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/lightest-motorbikes-for-new-riders/",
      "inbound": 3,
-     "inSiloInbound": 1,
-     "related": 14,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/motorbike-rental-english-teachers-hanoi/",
-     "inbound": 1,
-     "inSiloInbound": 1,
+     "inSiloInbound": 2,
      "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/motorbike-rental-expats-moving-hanoi/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/motorbike-rental-international-students-hanoi/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/motorbike-rental-tourists-hanoi-essentials/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/renting-motorbike-hanoi-one-day/",
-     "inbound": 2,
-     "inSiloInbound": 1,
-     "related": 1,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/renting-motorbikes-group-hanoi/",
-     "inbound": 2,
-     "inSiloInbound": 1,
-     "related": 1,
      "priority": "P3"
     },
     {
@@ -260,6 +152,13 @@
      "priority": "P3"
     },
     {
+     "url": "/articles/motorbike-rental-digital-nomads-hanoi/",
+     "inbound": 2,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
      "url": "/articles/renting-motorbike-hoan-kiem/",
      "inbound": 2,
      "inSiloInbound": 2,
@@ -281,10 +180,80 @@
      "priority": "P3"
     },
     {
+     "url": "/articles/renting-motorbike-six-months-hanoi/",
+     "inbound": 5,
+     "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
      "url": "/articles/best-motorbike-for-students-hanoi/",
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 9,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/best-motorbikes-for-tall-riders-vietnam/",
+     "inbound": 12,
+     "inSiloInbound": 3,
+     "related": 6,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/lightest-motorbikes-for-new-riders/",
+     "inbound": 5,
+     "inSiloInbound": 3,
+     "related": 14,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/motorbike-rental-english-teachers-hanoi/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/motorbike-rental-expats-moving-hanoi/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/motorbike-rental-international-students-hanoi/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/motorbike-rental-tourists-hanoi-essentials/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/renting-motorbike-ba-dinh/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/renting-motorbike-dong-da/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/renting-motorbike-hai-ba-trung/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 2,
      "priority": "P3"
     },
     {
@@ -295,10 +264,38 @@
      "priority": "P3"
     },
     {
+     "url": "/articles/renting-motorbike-thanh-xuan/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/renting-motorbikes-group-hanoi/",
+     "inbound": 4,
+     "inSiloInbound": 3,
+     "related": 1,
+     "priority": "P3"
+    },
+    {
      "url": "/articles/scooter-vs-semi-automatic-hanoi/",
      "inbound": 9,
      "inSiloInbound": 3,
      "related": 8,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/renting-motorbike-cau-giay/",
+     "inbound": 5,
+     "inSiloInbound": 4,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/renting-motorbike-hanoi-one-day/",
+     "inbound": 5,
+     "inSiloInbound": 4,
+     "related": 1,
      "priority": "P3"
     },
     {
@@ -622,104 +619,8 @@
     {
      "cluster": "rental",
      "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/motorbike-rental-digital-nomads-hanoi/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "rental",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/renting-motorbike-ba-dinh/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "rental",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/renting-motorbike-cau-giay/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "rental",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/renting-motorbike-dong-da/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "rental",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/renting-motorbike-hai-ba-trung/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "rental",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/renting-motorbike-six-months-hanoi/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "rental",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/renting-motorbike-thanh-xuan/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "rental",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/best-bike-for-english-teachers-hanoi/ has 1 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "rental",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/best-motorbikes-for-tall-riders-vietnam/ has 1 in-silo in-body inbound link(s) (6 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "rental",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/lightest-motorbikes-for-new-riders/ has 1 in-silo in-body inbound link(s) (14 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "rental",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/motorbike-rental-english-teachers-hanoi/ has 1 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "rental",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/motorbike-rental-expats-moving-hanoi/ has 1 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "rental",
-     "severity": "P3",
      "rule": "silo-orphans",
-     "detail": "14 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
+     "detail": "7 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
      "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
      "status": "REVIEW_REQUIRED"
     },
@@ -761,7 +662,7 @@
     "2.1 monthly-basics": 8
    },
    "words": {
-    "avg": 350,
+    "avg": 352,
     "min": 285
    },
    "review": {
@@ -777,10 +678,10 @@
     "P3": 45
    },
    "links": {
-    "inSiloBody": 149,
+    "inSiloBody": 158,
     "crossSiloOut": 88,
     "crossSiloIn": 39,
-    "inSiloShare": 63,
+    "inSiloShare": 64,
     "articlesWithoutInSiloInbound": 3,
     "articlesWithoutInSiloInboundSample": [
      "/articles/learning-to-ride-monthly-rental-hanoi/",
@@ -817,34 +718,6 @@
    ],
    "moneyPages": [
     {
-     "url": "/articles/english-teachers-monthly-motorbike-hanoi/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/expats-monthly-motorbike-hanoi/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/families-monthly-motorbike-hanoi/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/students-semester-motorbike-rental-hanoi/",
-     "inbound": 1,
-     "inSiloInbound": 1,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
      "url": "/articles/e-bike-monthly-rental-hanoi/",
      "inbound": 4,
      "inSiloInbound": 2,
@@ -852,16 +725,44 @@
      "priority": "P3"
     },
     {
-     "url": "/articles/nomads-monthly-motorbike-hanoi/",
+     "url": "/articles/renting-motorbike-year-hanoi/",
      "inbound": 2,
      "inSiloInbound": 2,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/english-teachers-monthly-motorbike-hanoi/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/expats-monthly-motorbike-hanoi/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/families-monthly-motorbike-hanoi/",
+     "inbound": 3,
+     "inSiloInbound": 3,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/nomads-monthly-motorbike-hanoi/",
+     "inbound": 3,
+     "inSiloInbound": 3,
      "related": 1,
      "priority": "P3"
     },
     {
-     "url": "/articles/renting-motorbike-year-hanoi/",
-     "inbound": 2,
-     "inSiloInbound": 2,
+     "url": "/articles/students-semester-motorbike-rental-hanoi/",
+     "inbound": 3,
+     "inSiloInbound": 3,
      "related": 2,
      "priority": "P3"
     },
@@ -976,38 +877,6 @@
      "rule": "hub-links-outside-silo",
      "detail": "2 start-here link(s) point outside the silo",
      "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "monthly-rental",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/english-teachers-monthly-motorbike-hanoi/ has 1 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "monthly-rental",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/expats-monthly-motorbike-hanoi/ has 1 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "monthly-rental",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/families-monthly-motorbike-hanoi/ has 1 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "monthly-rental",
-     "severity": "P3",
-     "rule": "money-page-inbound",
-     "detail": "/articles/students-semester-motorbike-rental-hanoi/ has 1 in-silo in-body inbound link(s) (2 related cards)",
-     "action": "add a contextual link from two same-silo guides whose topic leads to this page",
      "status": "REVIEW_REQUIRED"
     },
     {
@@ -1462,7 +1331,7 @@
    "keywords": {
     "owned": 4,
     "ownedPrimary": 2,
-    "coveredFull": 3,
+    "coveredFull": 4,
     "list": [
      {
       "keyword": "Scooters in Vietnam",
@@ -1481,7 +1350,7 @@
      {
       "keyword": "Vietnamese scooters",
       "owner": "/topics/scooters/",
-      "coverage": "partial",
+      "coverage": "full",
       "variant": true,
       "gap": false
      },
@@ -1495,10 +1364,10 @@
     ]
    },
    "demand": {
-    "keywords": 14,
-    "weak": 5,
+    "keywords": 12,
+    "weak": 3,
     "volume": {
-     "us": 3190,
+     "us": 2910,
      "vn": 50
     },
     "top": [
@@ -1559,12 +1428,12 @@
       "strength": "owner"
      },
      {
-      "keyword": "honda bike vietnam",
+      "keyword": "scooter rental vietnam",
       "volume": {
-       "us": 140
+       "us": 90
       },
-      "servedBy": "/articles/16-inch-wheel-scooters-vietnam/",
-      "strength": "partial"
+      "servedBy": "/topics/scooters/",
+      "strength": "owner"
      }
     ],
     "gaps": []
@@ -1696,32 +1565,8 @@
     {
      "cluster": "scooters",
      "severity": "P3",
-     "rule": "split-family",
-     "detail": "keyword family \"bike honda vietnam\" (honda bike vietnam, honda bikes in vietnam) is served by 2 URLs: /articles/16-inch-wheel-scooters-vietnam/, /articles/grey-import-50cc-vietnam/",
-     "action": "declare one owner in docs/seo/keyword-targets.json and let the others support it",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "scooters",
-     "severity": "P3",
-     "rule": "split-family",
-     "detail": "keyword family \"honda motorbike vietnam\" (honda motorbike vietnam, honda motorcycles in vietnam) is served by 2 URLs: /articles/16-inch-wheel-scooters-vietnam/, /topics/50cc/",
-     "action": "declare one owner in docs/seo/keyword-targets.json and let the others support it",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "scooters",
-     "severity": "P3",
      "rule": "keyword-cluster",
      "detail": "/articles/16-inch-wheel-scooters-vietnam/: served only by partial matches: the page does not name these keywords",
-     "action": "review in the keyword universe mapping",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "scooters",
-     "severity": "P3",
-     "rule": "keyword-cluster",
-     "detail": "/articles/16-inch-wheel-scooters-vietnam/: head terms land on an article: make sure the hub links it in Start here",
      "action": "review in the keyword universe mapping",
      "status": "REVIEW_REQUIRED"
     }
@@ -1731,7 +1576,7 @@
    "cluster": "motorcycles",
    "hub": {
     "url": "/topics/motorcycles/",
-    "title": "Motorcycles",
+    "title": "Motorcycles in Vietnam",
     "words": 194,
     "startHereLinks": 13,
     "startHereOwnCluster": 12
@@ -2265,18 +2110,101 @@
     }
    ],
    "keywords": {
-    "owned": 0,
-    "ownedPrimary": 0,
-    "coveredFull": 0,
-    "list": []
+    "owned": 7,
+    "ownedPrimary": 2,
+    "coveredFull": 5,
+    "list": [
+     {
+      "keyword": "Vietnamese motorbikes",
+      "owner": "/topics/motorcycles/",
+      "coverage": "full",
+      "variant": false,
+      "gap": false
+     },
+     {
+      "keyword": "Vietnamese motorcycle",
+      "owner": "/topics/motorcycles/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Motorbikes in Vietnam",
+      "owner": "/topics/motorcycles/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Honda motorbike Vietnam",
+      "owner": "/topics/motorcycles/",
+      "coverage": "full",
+      "variant": false,
+      "gap": false
+     },
+     {
+      "keyword": "Honda motorcycles in Vietnam",
+      "owner": "/topics/motorcycles/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Honda bike Vietnam",
+      "owner": "/topics/motorcycles/",
+      "coverage": "partial",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Honda bikes in Vietnam",
+      "owner": "/topics/motorcycles/",
+      "coverage": "partial",
+      "variant": true,
+      "gap": false
+     }
+    ]
    },
    "demand": {
-    "keywords": 1,
+    "keywords": 5,
     "weak": 1,
     "volume": {
-     "vn": 50
+     "vn": 370,
+     "us": 420
     },
     "top": [
+     {
+      "keyword": "honda motorbike vietnam",
+      "volume": {
+       "vn": 320
+      },
+      "servedBy": "/topics/motorcycles/",
+      "strength": "owner"
+     },
+     {
+      "keyword": "honda bike vietnam",
+      "volume": {
+       "us": 140
+      },
+      "servedBy": "/topics/motorcycles/",
+      "strength": "owner"
+     },
+     {
+      "keyword": "honda bikes in vietnam",
+      "volume": {
+       "us": 140
+      },
+      "servedBy": "/topics/motorcycles/",
+      "strength": "owner"
+     },
+     {
+      "keyword": "honda motorcycles in vietnam",
+      "volume": {
+       "us": 140
+      },
+      "servedBy": "/topics/motorcycles/",
+      "strength": "owner"
+     },
      {
       "keyword": "honda ct125 vietnam",
       "volume": {
@@ -2667,14 +2595,6 @@
      "detail": "only 38% of in-body links from this silo stay inside it",
      "action": "review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links",
      "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "manual-clutch",
-     "severity": "P3",
-     "rule": "owned-keyword-coverage",
-     "detail": "\"Honda Cub rental Hanoi\" is only partially covered by the title and description of /articles/riding-honda-super-cub-c125-vietnam/",
-     "action": "work the keyword naturally into the title or description of the owner (no stuffing)",
-     "status": "REVIEW_REQUIRED"
     }
    ]
   },
@@ -2783,30 +2703,14 @@
     ]
    },
    "demand": {
-    "keywords": 7,
+    "keywords": 6,
     "weak": 5,
     "volume": {
-     "vn": 370,
-     "us": 170,
+     "vn": 50,
+     "us": 40,
      "au": 10
     },
     "top": [
-     {
-      "keyword": "honda motorbike vietnam",
-      "volume": {
-       "vn": 320
-      },
-      "servedBy": "/topics/50cc/",
-      "strength": "partial"
-     },
-     {
-      "keyword": "honda bikes in vietnam",
-      "volume": {
-       "us": 140
-      },
-      "servedBy": "/articles/grey-import-50cc-vietnam/",
-      "strength": "title"
-     },
      {
       "keyword": "suzuki motorbike vietnam",
       "volume": {
@@ -2822,6 +2726,14 @@
       },
       "servedBy": "/topics/50cc/",
       "strength": "faq"
+     },
+     {
+      "keyword": "temporary vietnamese motorcycle licence",
+      "volume": {
+       "us": 10
+      },
+      "servedBy": "/topics/50cc/",
+      "strength": "partial"
      },
      {
       "keyword": "vietnam motorbike license reddit",
@@ -2851,7 +2763,7 @@
     "gaps": []
    },
    "serp": {
-    "questionsServed": 25,
+    "questionsServed": 26,
     "sample": [
      "How to get a motorbike license in Vietnam?",
      "What is the youngest age to drive a motorcycle?",
@@ -3550,11 +3462,10 @@
     ]
    },
    "demand": {
-    "keywords": 3,
-    "weak": 1,
+    "keywords": 1,
+    "weak": 0,
     "volume": {
-     "us": 80,
-     "vn": 20
+     "us": 40
     },
     "top": [
      {
@@ -3564,22 +3475,6 @@
       },
       "servedBy": "/articles/left-turns-across-traffic-motorbike-vietnam/",
       "strength": "title"
-     },
-     {
-      "keyword": "motorbike around vietnam",
-      "volume": {
-       "us": 40
-      },
-      "servedBy": "/articles/riding-motorbike-blind-spots-vietnam/",
-      "strength": "title"
-     },
-     {
-      "keyword": "motorbike routes vietnam",
-      "volume": {
-       "vn": 20
-      },
-      "servedBy": "/topics/safety/",
-      "strength": "partial"
      }
     ],
     "gaps": []
@@ -3610,14 +3505,6 @@
      "detail": "16 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
      "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
      "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "safety",
-     "severity": "P3",
-     "rule": "keyword-cluster",
-     "detail": "/topics/safety/: served only by partial matches: the page does not name these keywords",
-     "action": "review in the keyword universe mapping",
-     "status": "REVIEW_REQUIRED"
     }
    ]
   },
@@ -3626,9 +3513,9 @@
    "hub": {
     "url": "/topics/law-licences/",
     "title": "Vietnam Motorbike Laws and Licences",
-    "words": 258,
-    "startHereLinks": 15,
-    "startHereOwnCluster": 13
+    "words": 266,
+    "startHereLinks": 16,
+    "startHereOwnCluster": 14
    },
    "articles": 66,
    "commercial": 0,
@@ -3724,30 +3611,14 @@
     ]
    },
    "demand": {
-    "keywords": 14,
-    "weak": 1,
+    "keywords": 11,
+    "weak": 0,
     "volume": {
-     "us": 3490,
+     "us": 1480,
      "vn": 60,
      "uk": 10
     },
     "top": [
-     {
-      "keyword": "vietnamese motorbikes",
-      "volume": {
-       "us": 1000
-      },
-      "servedBy": "/articles/motorbikes-on-expressway-vietnam/",
-      "strength": "title"
-     },
-     {
-      "keyword": "vietnamese motorcycle",
-      "volume": {
-       "us": 1000
-      },
-      "servedBy": "/articles/police-impound-motorbike-vietnam/",
-      "strength": "title"
-     },
      {
       "keyword": "mopeds in vietnam",
       "volume": {
@@ -3795,6 +3666,22 @@
       },
       "servedBy": "/articles/50cc-licence-vietnam/",
       "strength": "title"
+     },
+     {
+      "keyword": "motorbike license vietnam",
+      "volume": {
+       "us": 50
+      },
+      "servedBy": "/articles/50cc-licence-vietnam/",
+      "strength": "title"
+     },
+     {
+      "keyword": "motorbike vietnam license",
+      "volume": {
+       "us": 50
+      },
+      "servedBy": "/articles/50cc-licence-vietnam/",
+      "strength": "title"
      }
     ],
     "gaps": []
@@ -3830,14 +3717,6 @@
     {
      "cluster": "law-licences",
      "severity": "P3",
-     "rule": "split-family",
-     "detail": "keyword family \"motorbike vietnamese\" (vietnamese motorbikes, vietnamese motorcycle) is served by 2 URLs: /articles/motorbikes-on-expressway-vietnam/, /articles/police-impound-motorbike-vietnam/",
-     "action": "declare one owner in docs/seo/keyword-targets.json and let the others support it",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "law-licences",
-     "severity": "P3",
      "rule": "keyword-cluster",
      "detail": "/articles/what-is-a-moped-vietnam-law/: mixed intent (3 commercial/transactional, 1 informational): keep one primary intent, let the hub carry the rest",
      "action": "review in the keyword universe mapping",
@@ -3856,14 +3735,6 @@
      "severity": "P3",
      "rule": "keyword-cluster",
      "detail": "/articles/50cc-licence-vietnam/: mixed intent (1 commercial/transactional, 3 informational): keep one primary intent, let the hub carry the rest",
-     "action": "review in the keyword universe mapping",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "law-licences",
-     "severity": "P3",
-     "rule": "keyword-cluster",
-     "detail": "/articles/foreign-student-motorbike-licence-vietnam/: served only by partial matches: the page does not name these keywords",
      "action": "review in the keyword universe mapping",
      "status": "REVIEW_REQUIRED"
     }
@@ -3964,12 +3835,20 @@
     ]
    },
    "demand": {
-    "keywords": 1,
+    "keywords": 2,
     "weak": 0,
     "volume": {
-     "us": 20
+     "us": 60
     },
     "top": [
+     {
+      "keyword": "motorbike around vietnam",
+      "volume": {
+       "us": 40
+      },
+      "servedBy": "/articles/getting-around-hanoi-without-vietnamese/",
+      "strength": "title"
+     },
      {
       "keyword": "motorbike tours hanoi",
       "volume": {
@@ -4095,16 +3974,32 @@
    ],
    "moneyPages": [],
    "keywords": {
-    "owned": 0,
-    "ownedPrimary": 0,
-    "coveredFull": 0,
-    "list": []
+    "owned": 2,
+    "ownedPrimary": 1,
+    "coveredFull": 2,
+    "list": [
+     {
+      "keyword": "Motorbike routes Vietnam",
+      "owner": "/topics/trips/",
+      "coverage": "full",
+      "variant": false,
+      "gap": false
+     },
+     {
+      "keyword": "Motorbike route Vietnam",
+      "owner": "/topics/trips/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     }
+    ]
    },
    "demand": {
-    "keywords": 1,
+    "keywords": 3,
     "weak": 1,
     "volume": {
-     "us": 20
+     "us": 20,
+     "vn": 40
     },
     "top": [
      {
@@ -4114,6 +4009,22 @@
       },
       "servedBy": "/topics/trips/",
       "strength": "partial"
+     },
+     {
+      "keyword": "motorbike route vietnam",
+      "volume": {
+       "vn": 20
+      },
+      "servedBy": "/topics/trips/",
+      "strength": "owner"
+     },
+     {
+      "keyword": "motorbike routes vietnam",
+      "volume": {
+       "vn": 20
+      },
+      "servedBy": "/topics/trips/",
+      "strength": "owner"
      }
     ],
     "gaps": []
@@ -4144,14 +4055,6 @@
      "rule": "silo-orphans",
      "detail": "12 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
      "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "trips",
-     "severity": "P3",
-     "rule": "keyword-cluster",
-     "detail": "/topics/trips/: served only by partial matches: the page does not name these keywords",
-     "action": "review in the keyword universe mapping",
      "status": "REVIEW_REQUIRED"
     }
    ]
@@ -4285,11 +4188,11 @@
     ]
    },
    "demand": {
-    "keywords": 35,
+    "keywords": 36,
     "weak": 4,
     "volume": {
-     "vn": 40630,
-     "us": 7040,
+     "vn": 40610,
+     "us": 9040,
      "au": 720,
      "uk": 340
     },
@@ -4364,7 +4267,7 @@
     "gaps": []
    },
    "serp": {
-    "questionsServed": 32,
+    "questionsServed": 31,
     "sample": [
      "Vietnam scooter rental Ho Chi Minh",
      "Vietnam motorbike rental one way",
@@ -4389,14 +4292,6 @@
      "rule": "silo-orphans",
      "detail": "8 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
      "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "vietnam-travel",
-     "severity": "P3",
-     "rule": "split-family",
-     "detail": "keyword family \"motorbike route vietnam\" (motorbike route vietnam, motorbike routes vietnam) is served by 2 URLs: /articles/vietnam-motorbike-backpacker-trail/, /topics/safety/",
-     "action": "declare one owner in docs/seo/keyword-targets.json and let the others support it",
      "status": "REVIEW_REQUIRED"
     },
     {
@@ -4917,6 +4812,8 @@
     "motorbiking in vietnam",
     "motorcycles vietnam",
     "vietnam motorbike",
+    "vietnamese motorbikes",
+    "vietnamese motorcycle",
     "motorbikes in vietnam",
     "vietnam motorcycles",
     "motorcycle rental in vietnam",
@@ -4932,12 +4829,12 @@
    ],
    "volume": {
     "vn": 40540,
-    "us": 7020,
+    "us": 9020,
     "au": 710,
     "uk": 320
    },
    "intents": {
-    "transactional": 17,
+    "transactional": 19,
     "informational": 8,
     "commercial": 3
    },
@@ -5030,38 +4927,6 @@
    ]
   },
   {
-   "url": "/articles/motorbikes-on-expressway-vietnam/",
-   "type": "article",
-   "cluster": "law-licences",
-   "keywords": [
-    "vietnamese motorbikes"
-   ],
-   "volume": {
-    "us": 1000
-   },
-   "intents": {
-    "transactional": 1
-   },
-   "weak": 0,
-   "flags": []
-  },
-  {
-   "url": "/articles/police-impound-motorbike-vietnam/",
-   "type": "article",
-   "cluster": "law-licences",
-   "keywords": [
-    "vietnamese motorcycle"
-   ],
-   "volume": {
-    "us": 1000
-   },
-   "intents": {
-    "transactional": 1
-   },
-   "weak": 0,
-   "flags": []
-  },
-  {
    "url": "/articles/renting-motorbike-hanoi-tet-holidays/",
    "type": "article",
    "cluster": "rental",
@@ -5080,27 +4945,25 @@
    ]
   },
   {
-   "url": "/topics/50cc/",
+   "url": "/topics/motorcycles/",
    "type": "hub",
-   "cluster": "50cc",
+   "cluster": "motorcycles",
    "keywords": [
     "honda motorbike vietnam",
-    "suzuki motorbike vietnam",
-    "50cc scooter rental vietnam",
-    "vietnam motorbike license reddit",
-    "vinfast motorbike vietnam",
-    "yamaha motorbike vietnam"
+    "honda bike vietnam",
+    "honda bikes in vietnam",
+    "honda motorcycles in vietnam"
    ],
    "volume": {
-    "vn": 370,
-    "us": 30,
-    "au": 10
+    "vn": 320,
+    "us": 420
    },
    "intents": {
-    "transactional": 4,
-    "informational": 2
+    "transactional": 1,
+    "navigational": 1,
+    "commercial": 2
    },
-   "weak": 5,
+   "weak": 0,
    "flags": []
   },
   {
@@ -5119,32 +4982,6 @@
    "weak": 1,
    "flags": [
     "served only by partial matches: the page does not name these keywords"
-   ]
-  },
-  {
-   "url": "/articles/16-inch-wheel-scooters-vietnam/",
-   "type": "article",
-   "cluster": "scooters",
-   "keywords": [
-    "honda bike vietnam",
-    "honda motorcycles in vietnam",
-    "airblade honda vietnam",
-    "honda gb350 vietnam",
-    "honda cbr650r vietnam"
-   ],
-   "volume": {
-    "us": 280,
-    "vn": 50
-   },
-   "intents": {
-    "navigational": 1,
-    "commercial": 1,
-    "transactional": 3
-   },
-   "weak": 5,
-   "flags": [
-    "served only by partial matches: the page does not name these keywords",
-    "head terms land on an article: make sure the hub links it in Start here"
    ]
   },
   {
@@ -5206,22 +5043,6 @@
    ]
   },
   {
-   "url": "/articles/grey-import-50cc-vietnam/",
-   "type": "article",
-   "cluster": "50cc",
-   "keywords": [
-    "honda bikes in vietnam"
-   ],
-   "volume": {
-    "us": 140
-   },
-   "intents": {
-    "commercial": 1
-   },
-   "weak": 0,
-   "flags": []
-  },
-  {
    "url": "/articles/electric-motorbike-theft-security-vietnam/",
    "type": "article",
    "cluster": "electric",
@@ -5271,6 +5092,26 @@
    "flags": []
   },
   {
+   "url": "/articles/16-inch-wheel-scooters-vietnam/",
+   "type": "article",
+   "cluster": "scooters",
+   "keywords": [
+    "airblade honda vietnam",
+    "honda gb350 vietnam",
+    "honda cbr650r vietnam"
+   ],
+   "volume": {
+    "vn": 50
+   },
+   "intents": {
+    "transactional": 3
+   },
+   "weak": 3,
+   "flags": [
+    "served only by partial matches: the page does not name these keywords"
+   ]
+  },
+  {
    "url": "/articles/electric-bike-licence-vietnam/",
    "type": "article",
    "cluster": "law-licences",
@@ -5305,6 +5146,46 @@
    ]
   },
   {
+   "url": "/topics/50cc/",
+   "type": "hub",
+   "cluster": "50cc",
+   "keywords": [
+    "suzuki motorbike vietnam",
+    "50cc scooter rental vietnam",
+    "temporary vietnamese motorcycle licence",
+    "vietnam motorbike license reddit",
+    "vinfast motorbike vietnam",
+    "yamaha motorbike vietnam"
+   ],
+   "volume": {
+    "vn": 50,
+    "us": 40,
+    "au": 10
+   },
+   "intents": {
+    "transactional": 3,
+    "informational": 3
+   },
+   "weak": 5,
+   "flags": []
+  },
+  {
+   "url": "/articles/getting-around-hanoi-without-vietnamese/",
+   "type": "article",
+   "cluster": "hanoi",
+   "keywords": [
+    "motorbike around vietnam"
+   ],
+   "volume": {
+    "us": 40
+   },
+   "intents": {
+    "informational": 1
+   },
+   "weak": 0,
+   "flags": []
+  },
+  {
    "url": "/articles/left-turns-across-traffic-motorbike-vietnam/",
    "type": "article",
    "cluster": "safety",
@@ -5321,19 +5202,22 @@
    "flags": []
   },
   {
-   "url": "/articles/riding-motorbike-blind-spots-vietnam/",
-   "type": "article",
-   "cluster": "safety",
+   "url": "/topics/trips/",
+   "type": "hub",
+   "cluster": "trips",
    "keywords": [
-    "motorbike around vietnam"
+    "laos motorbike loop",
+    "motorbike route vietnam",
+    "motorbike routes vietnam"
    ],
    "volume": {
-    "us": 40
+    "us": 20,
+    "vn": 40
    },
    "intents": {
-    "informational": 1
+    "informational": 3
    },
-   "weak": 0,
+   "weak": 1,
    "flags": []
   },
   {
@@ -5427,22 +5311,6 @@
    "flags": []
   },
   {
-   "url": "/articles/vietnam-motorbike-backpacker-trail/",
-   "type": "article",
-   "cluster": "vietnam-travel",
-   "keywords": [
-    "motorbike route vietnam"
-   ],
-   "volume": {
-    "vn": 20
-   },
-   "intents": {
-    "informational": 1
-   },
-   "weak": 0,
-   "flags": []
-  },
-  {
    "url": "/contact/",
    "type": "page",
    "cluster": "",
@@ -5460,42 +5328,6 @@
    "flags": []
   },
   {
-   "url": "/topics/safety/",
-   "type": "hub",
-   "cluster": "safety",
-   "keywords": [
-    "motorbike routes vietnam"
-   ],
-   "volume": {
-    "vn": 20
-   },
-   "intents": {
-    "informational": 1
-   },
-   "weak": 1,
-   "flags": [
-    "served only by partial matches: the page does not name these keywords"
-   ]
-  },
-  {
-   "url": "/topics/trips/",
-   "type": "hub",
-   "cluster": "trips",
-   "keywords": [
-    "laos motorbike loop"
-   ],
-   "volume": {
-    "us": 20
-   },
-   "intents": {
-    "informational": 1
-   },
-   "weak": 1,
-   "flags": [
-    "served only by partial matches: the page does not name these keywords"
-   ]
-  },
-  {
    "url": "/articles/can-foreigners-rent-electric-bike-vietnam/",
    "type": "article",
    "cluster": "electric",
@@ -5507,24 +5339,6 @@
    },
    "intents": {
     "transactional": 1
-   },
-   "weak": 1,
-   "flags": [
-    "served only by partial matches: the page does not name these keywords"
-   ]
-  },
-  {
-   "url": "/articles/foreign-student-motorbike-licence-vietnam/",
-   "type": "article",
-   "cluster": "law-licences",
-   "keywords": [
-    "temporary vietnamese motorcycle licence"
-   ],
-   "volume": {
-    "us": 10
-   },
-   "intents": {
-    "informational": 1
    },
    "weak": 1,
    "flags": [
@@ -5665,52 +5479,7 @@
    "flags": []
   }
  ],
- "splitFamilies": [
-  {
-   "family": "bike honda vietnam",
-   "urls": [
-    "/articles/16-inch-wheel-scooters-vietnam/",
-    "/articles/grey-import-50cc-vietnam/"
-   ],
-   "keywords": [
-    "honda bike vietnam",
-    "honda bikes in vietnam"
-   ]
-  },
-  {
-   "family": "honda motorbike vietnam",
-   "urls": [
-    "/articles/16-inch-wheel-scooters-vietnam/",
-    "/topics/50cc/"
-   ],
-   "keywords": [
-    "honda motorbike vietnam",
-    "honda motorcycles in vietnam"
-   ]
-  },
-  {
-   "family": "motorbike route vietnam",
-   "urls": [
-    "/articles/vietnam-motorbike-backpacker-trail/",
-    "/topics/safety/"
-   ],
-   "keywords": [
-    "motorbike route vietnam",
-    "motorbike routes vietnam"
-   ]
-  },
-  {
-   "family": "motorbike vietnamese",
-   "urls": [
-    "/articles/motorbikes-on-expressway-vietnam/",
-    "/articles/police-impound-motorbike-vietnam/"
-   ],
-   "keywords": [
-    "vietnamese motorbikes",
-    "vietnamese motorcycle"
-   ]
-  }
- ],
+ "splitFamilies": [],
  "recommendations": [
   {
    "cluster": "(site)",
@@ -5852,14 +5621,6 @@
    "cluster": "law-licences",
    "severity": "P3",
    "rule": "keyword-cluster",
-   "detail": "/articles/foreign-student-motorbike-licence-vietnam/: served only by partial matches: the page does not name these keywords",
-   "action": "review in the keyword universe mapping",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "law-licences",
-   "severity": "P3",
-   "rule": "keyword-cluster",
    "detail": "/articles/what-is-a-moped-vietnam-law/: head terms land on an article: make sure the hub links it in Start here",
    "action": "review in the keyword universe mapping",
    "status": "REVIEW_REQUIRED"
@@ -5878,14 +5639,6 @@
    "rule": "silo-orphans",
    "detail": "20 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
    "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "law-licences",
-   "severity": "P3",
-   "rule": "split-family",
-   "detail": "keyword family \"motorbike vietnamese\" (vietnamese motorbikes, vietnamese motorcycle) is served by 2 URLs: /articles/motorbikes-on-expressway-vietnam/, /articles/police-impound-motorbike-vietnam/",
-   "action": "declare one owner in docs/seo/keyword-targets.json and let the others support it",
    "status": "REVIEW_REQUIRED"
   },
   {
@@ -5963,14 +5716,6 @@
   {
    "cluster": "manual-clutch",
    "severity": "P3",
-   "rule": "owned-keyword-coverage",
-   "detail": "\"Honda Cub rental Hanoi\" is only partially covered by the title and description of /articles/riding-honda-super-cub-c125-vietnam/",
-   "action": "work the keyword naturally into the title or description of the owner (no stuffing)",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "manual-clutch",
-   "severity": "P3",
    "rule": "silo-leak",
    "detail": "only 38% of in-body links from this silo stay inside it",
    "action": "review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links",
@@ -5990,38 +5735,6 @@
    "rule": "hub-links-outside-silo",
    "detail": "2 start-here link(s) point outside the silo",
    "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "monthly-rental",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/english-teachers-monthly-motorbike-hanoi/ has 1 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "monthly-rental",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/expats-monthly-motorbike-hanoi/ has 1 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "monthly-rental",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/families-monthly-motorbike-hanoi/ has 1 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "monthly-rental",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/students-semester-motorbike-rental-hanoi/ has 1 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
    "status": "REVIEW_REQUIRED"
   },
   {
@@ -6195,104 +5908,8 @@
   {
    "cluster": "rental",
    "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/best-bike-for-english-teachers-hanoi/ has 1 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "rental",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/best-motorbikes-for-tall-riders-vietnam/ has 1 in-silo in-body inbound link(s) (6 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "rental",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/lightest-motorbikes-for-new-riders/ has 1 in-silo in-body inbound link(s) (14 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "rental",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/motorbike-rental-digital-nomads-hanoi/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "rental",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/motorbike-rental-english-teachers-hanoi/ has 1 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "rental",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/motorbike-rental-expats-moving-hanoi/ has 1 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "rental",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/renting-motorbike-ba-dinh/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "rental",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/renting-motorbike-cau-giay/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "rental",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/renting-motorbike-dong-da/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "rental",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/renting-motorbike-hai-ba-trung/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "rental",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/renting-motorbike-six-months-hanoi/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "rental",
-   "severity": "P3",
-   "rule": "money-page-inbound",
-   "detail": "/articles/renting-motorbike-thanh-xuan/ has 0 in-silo in-body inbound link(s) (2 related cards)",
-   "action": "add a contextual link from two same-silo guides whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "rental",
-   "severity": "P3",
    "rule": "silo-orphans",
-   "detail": "14 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
+   "detail": "7 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
    "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
    "status": "REVIEW_REQUIRED"
   },
@@ -6302,14 +5919,6 @@
    "rule": "hub-links-outside-silo",
    "detail": "1 start-here link(s) point outside the silo",
    "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "safety",
-   "severity": "P3",
-   "rule": "keyword-cluster",
-   "detail": "/topics/safety/: served only by partial matches: the page does not name these keywords",
-   "action": "review in the keyword universe mapping",
    "status": "REVIEW_REQUIRED"
   },
   {
@@ -6326,14 +5935,6 @@
    "rule": "hub-links-outside-silo",
    "detail": "1 start-here link(s) point outside the silo",
    "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "scooters",
-   "severity": "P3",
-   "rule": "keyword-cluster",
-   "detail": "/articles/16-inch-wheel-scooters-vietnam/: head terms land on an article: make sure the hub links it in Start here",
-   "action": "review in the keyword universe mapping",
    "status": "REVIEW_REQUIRED"
   },
   {
@@ -6449,35 +6050,11 @@
    "status": "REVIEW_REQUIRED"
   },
   {
-   "cluster": "scooters",
-   "severity": "P3",
-   "rule": "split-family",
-   "detail": "keyword family \"bike honda vietnam\" (honda bike vietnam, honda bikes in vietnam) is served by 2 URLs: /articles/16-inch-wheel-scooters-vietnam/, /articles/grey-import-50cc-vietnam/",
-   "action": "declare one owner in docs/seo/keyword-targets.json and let the others support it",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "scooters",
-   "severity": "P3",
-   "rule": "split-family",
-   "detail": "keyword family \"honda motorbike vietnam\" (honda motorbike vietnam, honda motorcycles in vietnam) is served by 2 URLs: /articles/16-inch-wheel-scooters-vietnam/, /topics/50cc/",
-   "action": "declare one owner in docs/seo/keyword-targets.json and let the others support it",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
    "cluster": "trips",
    "severity": "P3",
    "rule": "hub-links-outside-silo",
    "detail": "2 start-here link(s) point outside the silo",
    "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "trips",
-   "severity": "P3",
-   "rule": "keyword-cluster",
-   "detail": "/topics/trips/: served only by partial matches: the page does not name these keywords",
-   "action": "review in the keyword universe mapping",
    "status": "REVIEW_REQUIRED"
   },
   {
@@ -6518,14 +6095,6 @@
    "rule": "silo-orphans",
    "detail": "8 article(s) receive no in-body link from their own silo (hub listing and related cards only)",
    "action": "work the list below into contextual links from same-silo guides, highest-demand pages first",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "vietnam-travel",
-   "severity": "P3",
-   "rule": "split-family",
-   "detail": "keyword family \"motorbike route vietnam\" (motorbike route vietnam, motorbike routes vietnam) is served by 2 URLs: /articles/vietnam-motorbike-backpacker-trail/, /topics/safety/",
-   "action": "declare one owner in docs/seo/keyword-targets.json and let the others support it",
    "status": "REVIEW_REQUIRED"
   }
  ]

@@ -49,6 +49,8 @@ Nothing changes structurally for a couple — the deposit runs typically 2,000,0
 
 Couples get the best of the rental with a day out — Bat Trang, the Perfume Pagoda road, West Lake at sunset — but two-up doubles fatigue and halves braking margins, so plan shorter distances than you would solo. Route-planning help is in [Best Motorbike for Day Trips from Hanoi]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }}), and the inspection that matters most with a passenger on board is brakes and tyres: [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}).
 
+Travelling as a larger party? [Renting Motorbikes for a Group in Hanoi]({{ '/articles/renting-motorbikes-group-hanoi/' | relative_url }}) covers several riders at once.
+
 ## The short version
 
 One licensed rider, two helmets, a bike with seat length and suspension, signals agreed, brakes checked — the complete two-up checklist.
