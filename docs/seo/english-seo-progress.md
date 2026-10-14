@@ -168,3 +168,10 @@ The P2 queue is empty. The 4 P1 rows are the REVIEW_REQUIRED legal/travel articl
 2. Docs: normalise the 36 shifted cluster-7 rows and the 4 unquoted-comma titles in `docs/matrix/master-matrix.csv` (docs-sync tooling), then re-run `node scripts/english-seo-matrix.js`.
 3. Connect Google Search Console for en.rentbikehanoi.com and record real queries in `docs/seo/keyword-evidence.json`; the domain currently has no measured organic rankings (OpenRush/OpenSEO/Ubersuggest, 2026-10-14), so on-site evidence drives priorities until then.
 4. When an article is next edited for any reason, add one or two in-body contextual links if it is one of the 188 related-cards-only articles (`seo_issues` column); never bulk-edit bodies.
+
+### Live verification of pass 3 (commit e7f02be on main)
+
+- GitHub Actions on e7f02be: Quality Gate run 38551030793 success; pages build and deployment run 38551030852 success (10:40 UTC); Weekly Maintenance run 38551031138 success with no safe-fix PR opened (no open pull requests).
+- Live pages fetched after the deploy (Firecrawl, no cache): `/articles/documents-needed-rent-motorbike-hanoi/` serves the corrected A1 sentence with its link to the A1 guide; `/articles/renting-motorbike-hue/` serves the new Hai Van Pass link; Open Graph image, article metadata and canonical URLs intact.
+- OpenRush `audit_site` on the live domain (sitemap discovery, 1,003 URLs, 20 sampled across every template): on-page score 96.8, high 0, medium 0, low 2. Both low findings reviewed and left as they are: the "missing alt" hits are the decorative header and assistant logos (`alt=""` + `aria-hidden`, correct for decorative images), and the one "long title" is the tool counting the site-name suffix. Recorded in `docs/seo/keyword-evidence.json` (`site_audits`).
+- Note for future watchers: the container cannot reach en.rentbikehanoi.com directly (network policy); live checks go through the Firecrawl connector.

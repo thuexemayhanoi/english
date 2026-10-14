@@ -291,5 +291,36 @@
     "keyword": "can tourists ride motorcycles in vietnam",
     "note": "People Also Ask question on the motorbike rental hanoi SERP (OpenRush 2026-10-14)",
     "source": "OpenRush inspect_serp 2026-10-14"
-  }
+  },
+  "site_audits": [
+    {
+      "tool": "OpenRush audit_site",
+      "date": "2026-10-14",
+      "domain": "en.rentbikehanoi.com",
+      "commit": "e7f02be",
+      "discovery": "robots_sitemap",
+      "pages_discovered": 1003,
+      "pages_audited": 20,
+      "onpage_score": 96.8,
+      "issues": {
+        "high": 0,
+        "medium": 0,
+        "low": 2
+      },
+      "low_issues": [
+        {
+          "issue": "no_image_alt",
+          "affected_pages": 20,
+          "review": "intentional: the only images without descriptive alt are the decorative header and assistant logos, which carry alt=\"\" and aria-hidden=\"true\" next to visible text; every content image has descriptive alt. No change."
+        },
+        {
+          "issue": "title_too_long",
+          "affected_pages": 1,
+          "sample": "/articles/50cc-fines-vietnam/",
+          "review": "the tool measures the full <title> including the \" | Hanoi Motorbike Guide\" suffix (85 chars); the article title itself is 61 chars, inside the site rule of 65. No change."
+        }
+      ],
+      "note": "Technical health only (raw HTML, no JS, no Core Web Vitals); rankings/traffic for the domain remain unmeasured by every connector on this date."
+    }
+  ]
 }
