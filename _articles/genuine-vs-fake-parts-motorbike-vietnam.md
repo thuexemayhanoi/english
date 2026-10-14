@@ -35,7 +35,7 @@ Genuine parts cost more than copies — a genuine pad set for a common model is 
 
 ## The renter's angle
 
-On a rental, parts are the shop's problem — your job is reporting problems and letting them repair; outside-repair-shops-rental-motorbike covers how any roadside repair interacts with the rental agreement. Do not buy parts for a rental bike yourself.
+On a rental, parts are the shop's problem — your job is reporting problems and letting them repair; [Can You Use Outside Repair Shops on a Rental Motorbike?]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) covers how any roadside repair interacts with the rental agreement. Do not buy parts for a rental bike yourself.
 
 ## The one-line version
 

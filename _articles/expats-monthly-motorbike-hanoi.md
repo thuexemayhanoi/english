@@ -29,7 +29,7 @@ Riding legally in Vietnam requires the right licence for the bike you ride — f
 
 ## Why monthly beats daily for stays over a few weeks
 
-A month at a published monthly rate costs less than paying the daily rate every day for models where monthly rates exist; for other models there is no published monthly rate, so contact Nguyen Tu to confirm current pricing. The full comparison, including when buying wins instead, is in long-term-renting-vs-buying-residents-hanoi.
+A month at a published monthly rate costs less than paying the daily rate every day for models where monthly rates exist; for other models there is no published monthly rate, so contact Nguyen Tu to confirm current pricing. The full comparison, including when buying wins instead, is in [Long-Term Renting vs Buying a Motorbike in Hanoi for Residents]({{ '/articles/long-term-renting-vs-buying-residents-hanoi/' | relative_url }}).
 
 ## What to arrange at set-up
 
@@ -37,7 +37,7 @@ The standard monthly requirements apply: deposit, documents, agreement terms. Mo
 
 ## Build the routine
 
-Expats who last on a rental are the ones who park in guarded spots, do the weekly five-minute check, arrange their own insurance — Nguyen Tu does not provide motorbike insurance, and insurance-for-long-term-renter-hanoi explains arranging your own — and keep receipts for anything they fix.
+Expats who last on a rental are the ones who park in guarded spots, do the weekly five-minute check, arrange their own insurance — Nguyen Tu does not provide motorbike insurance, and [Arranging Your Own Insurance as a Long-Term Renter in Hanoi]({{ '/articles/insurance-for-long-term-renter-hanoi/' | relative_url }}) explains arranging your own — and keep receipts for anything they fix.
 
 ## The one-line version
 

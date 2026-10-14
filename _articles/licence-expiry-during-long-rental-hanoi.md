@@ -25,7 +25,7 @@ Long rentals outlast paperwork. Visas get extended, licences expire, IDs renew �
 
 ## The rule that decides everything
 
-Your right to ride comes from your documents, not from the rental agreement. If your licence or visa lapses mid-term, riding stops being legal until it is renewed, even though the rental continues. The document requirements are in long-term-rider-licence-checklist-hanoi and idp-vietnam-motorbike-rules.
+Your right to ride comes from your documents, not from the rental agreement. If your licence or visa lapses mid-term, riding stops being legal until it is renewed, even though the rental continues. The document requirements are in [The Long-Term Rider's Licence Checklist for Hanoi]({{ '/articles/long-term-rider-licence-checklist-hanoi/' | relative_url }}) and [International Driving Permits in Vietnam: IDP Rules for Motorbikes]({{ '/articles/idp-vietnam-motorbike-rules/' | relative_url }}).
 
 ## Renew before the expiry, not after
 
@@ -33,7 +33,7 @@ Start renewals early: visa extensions take processing time, IDP or licence quest
 
 ## What to do with the bike meanwhile
 
-Keep the bike but stop riding it — guarded parking, as in keeping-rental-motorbike-secure-hanoi, and let the shop know. Riding on expired documents risks fines and, in bad cases, the situations described in police-impound-motorbike-vietnam. A bike parked safely for a week costs nothing compared to that.
+Keep the bike but stop riding it — guarded parking, as in [Keeping a Rental Motorbike Secure Over Months in Hanoi]({{ '/articles/keeping-rental-motorbike-secure-hanoi/' | relative_url }}), and let the shop know. Riding on expired documents risks fines and, in bad cases, the situations described in [When Vietnamese Police Can Impound Your Motorbike]({{ '/articles/police-impound-motorbike-vietnam/' | relative_url }}). A bike parked safely for a week costs nothing compared to that.
 
 ## Tell the shop
 

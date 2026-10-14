@@ -27,14 +27,14 @@ A drum brake pushes shoes outward against a drum inside the wheel. A disc brake 
 
 ## Failure modes: know your enemy
 
-Drums fade when wet (though the first few slow applications dry them), fill with dust so the lever goes long, and wear adjustment mechanisms rather than parts — the periodic checks are in brake-checks-motorbike-vietnam. Discs wear pads visibly, warp rotors under heat and abuse, and suffer hydraulic ills: spongy levers from old or moist fluid, and sticking calipers — the fluid-side story is in spongy-brakes-brake-fluid-motorbike. The wet-fade argument for discs is genuine in Vietnam's rainy season: a disc's exposed rotor sheds water within one application.
+Drums fade when wet (though the first few slow applications dry them), fill with dust so the lever goes long, and wear adjustment mechanisms rather than parts — the periodic checks are in [Checking Brakes on a Motorbike]({{ '/articles/brake-checks-motorbike-vietnam/' | relative_url }}). Discs wear pads visibly, warp rotors under heat and abuse, and suffer hydraulic ills: spongy levers from old or moist fluid, and sticking calipers — the fluid-side story is in [Spongy Brakes and Brake Fluid on a Motorbike]({{ '/articles/spongy-brakes-brake-fluid-motorbike/' | relative_url }}). The wet-fade argument for discs is genuine in Vietnam's rainy season: a disc's exposed rotor sheds water within one application.
 
 ## Maintenance realities here
 
-Drums: adjustment, cleaning and shoe inspection — very cheap, and every street-side mechanic does them. Discs: pad replacement is easy (pad-wear logic in brake-pads-replacement-motorbike-vietnam), fluid changes are the neglected half. Disc rotors also tell the truth to your fingers: a glazed, scored or lipped rotor announces its condition — something drum brakes hide until the shoes are metal-on-drum. Buying pads and rotors from reputable sources matters more than the drum/disc debate; counterfeit brake parts are the one counterfeit category that can hurt you within a single ride.
+Drums: adjustment, cleaning and shoe inspection — very cheap, and every street-side mechanic does them. Discs: pad replacement is easy (pad-wear logic in [Brake Pads: Signs, Replacement and What to Expect]({{ '/articles/brake-pads-replacement-motorbike-vietnam/' | relative_url }})), fluid changes are the neglected half. Disc rotors also tell the truth to your fingers: a glazed, scored or lipped rotor announces its condition — something drum brakes hide until the shoes are metal-on-drum. Buying pads and rotors from reputable sources matters more than the drum/disc debate; counterfeit brake parts are the one counterfeit category that can hurt you within a single ride.
 
 ## Feel and skill beat specification
 
-A well-maintained drum stops its small bike plenty well; a neglected disc is dangerous while pretending to be modern. What matters more than the technology is technique: front-brake usage, wet-riding awareness and emergency practice — the skill side lives in emergency-braking-motorbike-vietnam.
+A well-maintained drum stops its small bike plenty well; a neglected disc is dangerous while pretending to be modern. What matters more than the technology is technique: front-brake usage, wet-riding awareness and emergency practice — the skill side lives in [Emergency Braking on a Motorbike in Vietnam]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}).
 
 Drum or disc is a maintenance question, not an identity. Maintain whichever you have and both stop the bike.

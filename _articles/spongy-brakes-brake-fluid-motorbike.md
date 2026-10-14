@@ -28,12 +28,12 @@ Hydraulic disc brakes work because fluid does not compress; air does. A soft lev
 
 ## Fluid is a consumable, not a lifetime fill
 
-Brake fluid absorbs water from the air over time, and watered-down fluid corrodes the caliper from inside and boils under stress. Sealed or not, most manufacturers call for periodic replacement — respect your manual's schedule as part of motorbike-service-when-vietnam, and if the fluid in the reservoir looks dark or murky rather than pale, it is overdue.
+Brake fluid absorbs water from the air over time, and watered-down fluid corrodes the caliper from inside and boils under stress. Sealed or not, most manufacturers call for periodic replacement — respect your manual's schedule as part of [When to Service a Motorbike in Vietnam]({{ '/articles/motorbike-service-when-vietnam/' | relative_url }}), and if the fluid in the reservoir looks dark or murky rather than pale, it is overdue.
 
 ## Check, then decide
 
-Before anything else, run the basics from brake-checks-motorbike-vietnam: pad condition and thickness, lever firmness with the bike stationary, and any fluid traces on the caliper or lever. A lever that is soft AND the pads are worn thin needs pads first — brake-pads-replacement-motorbike-vietnam; a lever that is soft with healthy pads needs the hydraulics looked at.
+Before anything else, run the basics from [Checking Brakes on a Motorbike]({{ '/articles/brake-checks-motorbike-vietnam/' | relative_url }}): pad condition and thickness, lever firmness with the bike stationary, and any fluid traces on the caliper or lever. A lever that is soft AND the pads are worn thin needs pads first — [Brake Pads: Signs, Replacement and What to Expect]({{ '/articles/brake-pads-replacement-motorbike-vietnam/' | relative_url }}); a lever that is soft with healthy pads needs the hydraulics looked at.
 
 ## The safety line
 
-Brakes that need pumping before they bite are a no-riding condition: bring the bike, do not ride it. Every metre ridden on spongy brakes is an emergency-braking-motorbike-vietnam situation waiting for a bad moment to prove it. This is one of the few maintenance items with no soft version of "fine for now."
+Brakes that need pumping before they bite are a no-riding condition: bring the bike, do not ride it. Every metre ridden on spongy brakes is an [Emergency Braking on a Motorbike in Vietnam]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}) situation waiting for a bad moment to prove it. This is one of the few maintenance items with no soft version of "fine for now."

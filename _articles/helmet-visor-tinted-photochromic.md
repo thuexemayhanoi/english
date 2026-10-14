@@ -23,11 +23,11 @@ The visor decides whether you see the road or squint at it. In Vietnam you ride 
 
 ## Clear: the baseline
 
-A clear visor is the all-conditions default and the only correct choice for night riding. Tinted visors at night turn unlit streets into blindness — the night-riding context is in night-riding-motorbike-safety-vietnam. Every rider should own at least one clear visor in good condition.
+A clear visor is the all-conditions default and the only correct choice for night riding. Tinted visors at night turn unlit streets into blindness — the night-riding context is in [Riding a Motorbike at Night in Vietnam]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}). Every rider should own at least one clear visor in good condition.
 
 ## Tinted and mirrored
 
-Dark and mirrored visors handle Hanoi’s harsh sun and reduce fatigue on long rides; the glare problem they solve is the same one discussed in sun-glare-riding-motorbike-vietnam. The classic failure is keeping the dark visor on into dusk. If you ride one helmet at all hours, a better solution is a light-tint or an internal drop-down sun visor, which many modern helmets include — flip it down for glare and up for tunnels and night.
+Dark and mirrored visors handle Hanoi’s harsh sun and reduce fatigue on long rides; the glare problem they solve is the same one discussed in [Sun Glare: Riding at Dawn and Dusk in Vietnam]({{ '/articles/sun-glare-riding-motorbike-vietnam/' | relative_url }}). The classic failure is keeping the dark visor on into dusk. If you ride one helmet at all hours, a better solution is a light-tint or an internal drop-down sun visor, which many modern helmets include — flip it down for glare and up for tunnels and night.
 
 ## Photochromic
 
@@ -35,4 +35,4 @@ Photochromic visors darken in sunlight and clear in shade and at night, using a 
 
 ## Condition and care
 
-A scratched visor scatters oncoming light and hides it behind haze — replace it rather than riding with damaged plastic. Cleaning, anti-fog discipline and replacement guidance are in visor-care-anti-fog-motorbike, and the wider helmet replacement rules in helmet-care-replacing-guide-vietnam.
+A scratched visor scatters oncoming light and hides it behind haze — replace it rather than riding with damaged plastic. Cleaning, anti-fog discipline and replacement guidance are in [Keeping Your Visor Clear: Anti-Fog and Visor Care]({{ '/articles/visor-care-anti-fog-motorbike/' | relative_url }}), and the wider helmet replacement rules in [Helmet Care: Cleaning, Storage and Knowing When to Replace]({{ '/articles/helmet-care-replacing-guide-vietnam/' | relative_url }}).

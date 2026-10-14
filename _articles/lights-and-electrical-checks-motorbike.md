@@ -19,7 +19,7 @@ sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
 internal_link_targets: "headlight-bulb-replacement-motorbike, motorbike-required-equipment-vietnam, motorbike-night-lights-vietnam, night-riding-motorbike-safety-vietnam, motorbike-safety-checklist-before-riding"
 ---
-Electrical failures are invisible until they are not: you cannot see your own brake light, and nobody tells you. A two-minute weekly check catches nearly all of it. The legal side — what equipment the law requires on a bike — is covered in motorbike-required-equipment-vietnam; this is the practical walkaround.
+Electrical failures are invisible until they are not: you cannot see your own brake light, and nobody tells you. A two-minute weekly check catches nearly all of it. The legal side — what equipment the law requires on a bike — is covered in [Required Equipment on a Motorbike in Vietnam]({{ '/articles/motorbike-required-equipment-vietnam/' | relative_url }}); this is the practical walkaround.
 
 ## The weekly walkaround
 
@@ -31,11 +31,11 @@ Vietnam's damp creeps into connectors and earth points: the classic symptoms are
 
 ## Bulbs you can fix yourself
 
-Headlight and indicator bulbs are mostly tool-less or one-screw jobs; carry the right spare if you ride at night often — night-riding-motorbike-safety-vietnam covers why a dead headlight ends the ride legally as well as practically. Touch halogen bulbs with a cloth, never fingers.
+Headlight and indicator bulbs are mostly tool-less or one-screw jobs; carry the right spare if you ride at night often — [Riding a Motorbike at Night in Vietnam]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}) covers why a dead headlight ends the ride legally as well as practically. Touch halogen bulbs with a cloth, never fingers.
 
 ## Wiring that needs a workshop
 
-Anything beyond a bulb: melted connectors, a charging fault (battery never full despite riding — battery-care-motorbike-vietnam covers the symptoms), a horn that fades with revs. Vietnamese electrical shops are fast and inexpensive; hand them the symptoms, not a self-diagnosis.
+Anything beyond a bulb: melted connectors, a charging fault (battery never full despite riding — [Battery Care on a Motorbike]({{ '/articles/battery-care-motorbike-vietnam/' | relative_url }}) covers the symptoms), a horn that fades with revs. Vietnamese electrical shops are fast and inexpensive; hand them the symptoms, not a self-diagnosis.
 
 ## The one-line version
 

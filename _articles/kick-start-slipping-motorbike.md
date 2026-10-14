@@ -23,7 +23,7 @@ A kick starter that spins freely with no resistance, or bites and then slips hal
 
 ## How the mechanism works
 
-Kicking spins a gear train through a one-way clutch: a sprung pawl or ramp system that grips when the lever is pushed and freewheels when the engine fires. Slip means the grip is failing under the load of turning a cold engine. The care-side habits that prevent this are in kick-starter-care-motorbike.
+Kicking spins a gear train through a one-way clutch: a sprung pawl or ramp system that grips when the lever is pushed and freewheels when the engine fires. Slip means the grip is failing under the load of turning a cold engine. The care-side habits that prevent this are in [Kick Starters: Care and Common Neglect]({{ '/articles/kick-starter-care-motorbike/' | relative_url }}).
 
 ## The two slip patterns
 
@@ -34,13 +34,13 @@ Kicking spins a gear train through a one-way clutch: a sprung pawl or ramp syste
 ## The cheap possibilities first
 
 - **Gummed mechanism.** Old, hardened grease on the pawl and ramps mimics a worn ratchet. A mechanic opening the kick cover, cleaning and lightly lubricating per the manual sometimes restores full bite. This is the happy ending; insist on inspection, not just a stronger kick.
-- **Oil condition.** On designs where the kick mechanism runs in engine oil, badly degraded oil fouls the ratchet. A fresh oil change — the fundamentals in changing-engine-oil-at-home-vietnam — occasionally improves things noticeably.
+- **Oil condition.** On designs where the kick mechanism runs in engine oil, badly degraded oil fouls the ratchet. A fresh oil change — the fundamentals in [Changing Engine Oil at Home]({{ '/articles/changing-engine-oil-at-home-vietnam/' | relative_url }}) — occasionally improves things noticeably.
 - **Lever-to-shaft splines.** A loose lever that shifts under load feels like slipping. Tighten the pinch bolt and check the splines for wear before condemning the mechanism.
 
 ## The relation to electric start
 
-A bike whose electric start also struggles — slow cranking, a click — points to a shared problem: high engine drag or a worn engine, not the kick ratchet. Separating starter-motor faults from engine faults is in electric-start-starter-motor-problems. And a bike that is hard to kick because it is genuinely hard to start (rather than slipping) needs the cold-start diagnosis in cold-start-motorbike-winter-vietnam.
+A bike whose electric start also struggles — slow cranking, a click — points to a shared problem: high engine drag or a worn engine, not the kick ratchet. Separating starter-motor faults from engine faults is in [Electric Start Problems: Starter Motors and Clicks That Go Nowhere]({{ '/articles/electric-start-starter-motor-problems/' | relative_url }}). And a bike that is hard to kick because it is genuinely hard to start (rather than slipping) needs the cold-start diagnosis in [Cold Mornings: Starting a Motorbike in Hanoi's Winter]({{ '/articles/cold-start-motorbike-winter-vietnam/' | relative_url }}).
 
 ## Repair reality
 
-The kick mechanism is a wear item, and real repairs — pawls, springs, ramps — live behind covers that may share oil with the engine. It is a workshop job: parts are cheap, labour and cleanliness are everything, and a shop that does it regularly is the right venue; finding one is covered in motorbike-service-where-vietnam. Ride meanwhile with realism: on a bike with a slipping kick and no working electric start, the safety margin for riding far from home is gone.
+The kick mechanism is a wear item, and real repairs — pawls, springs, ramps — live behind covers that may share oil with the engine. It is a workshop job: parts are cheap, labour and cleanliness are everything, and a shop that does it regularly is the right venue; finding one is covered in [Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }}). Ride meanwhile with realism: on a bike with a slipping kick and no working electric start, the safety margin for riding far from home is gone.

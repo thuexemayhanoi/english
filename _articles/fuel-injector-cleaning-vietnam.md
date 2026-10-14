@@ -23,14 +23,14 @@ Fuel injection has largely replaced carburettors on new Vietnamese motorbikes, a
 
 ## What an injector does
 
-An injector is a precision valve that sprays fuel in a measured pattern through tiny nozzles. Its enemies are gum from stale fuel and deposits from low-quality petrol. A partially blocked injector sprays a weak, distorted pattern; a dirty one dribbles instead of atomising. The result is a cylinder running lean, roughly — the symptoms of rich-versus-lean running are catalogued in running-rich-vs-lean-motorbike.
+An injector is a precision valve that sprays fuel in a measured pattern through tiny nozzles. Its enemies are gum from stale fuel and deposits from low-quality petrol. A partially blocked injector sprays a weak, distorted pattern; a dirty one dribbles instead of atomising. The result is a cylinder running lean, roughly — the symptoms of rich-versus-lean running are catalogued in [Running Rich or Lean: Reading the Signs]({{ '/articles/running-rich-vs-lean-motorbike/' | relative_url }}).
 
 ## Symptoms that point at injectors
 
 No single symptom convicts an injector, but the cluster is distinctive:
 
 - Hesitation or stumbling when opening the throttle from low revs, especially when warm.
-- Rough idle that survives the cheap fixes — the diagnostic order is in rough-idle-motorbike-troubleshooting.
+- Rough idle that survives the cheap fixes — the diagnostic order is in [Rough Idle: Troubleshooting a Motorbike That Won't Idle Smoothly]({{ '/articles/rough-idle-motorbike-troubleshooting/' | relative_url }}).
 - Hard starting when hot, better when cold.
 - A slight fuel smell and worse economy than the bike used to give.
 - On multi-cylinder bikes, one exhaust header staying cooler than the rest.
@@ -45,8 +45,8 @@ If the bike shows none of these, an injector service is preventive at best — d
 
 ## Prevention beats cleaning
 
-Vietnam's fuel quality is generally consistent at major stations, but stale fuel is the real gum-maker: bikes that sit for weeks between rides are the prime candidates for dirty injectors. Busy-station fuel, a mostly-full tank and regular riding do more than any additive — fuel grade basics are in fuel-grades-petrol-stations-vietnam. The system-level differences between injector and carburettor bikes, including what each is vulnerable to, are in carburettor-vs-fuel-injection-vietnam.
+Vietnam's fuel quality is generally consistent at major stations, but stale fuel is the real gum-maker: bikes that sit for weeks between rides are the prime candidates for dirty injectors. Busy-station fuel, a mostly-full tank and regular riding do more than any additive — fuel grade basics are in [Fuel Grades at Vietnamese Petrol Stations: What to Fill Up With]({{ '/articles/fuel-grades-petrol-stations-vietnam/' | relative_url }}). The system-level differences between injector and carburettor bikes, including what each is vulnerable to, are in [Carburettor vs Fuel Injection on Vietnamese Motorbikes]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}).
 
 ## Honest limits
 
-Injector cleaning does not fix faulty electronics, a weak fuel pump, a clogged filter — see fuel-filters-fuel-lines-motorbike — or a tired engine. If the symptom survives a proper cleaning, the injector is exonerated and the search moves elsewhere. Never replace injectors on speculation: they are among the more expensive parts on an injected bike and diagnosis is cheaper than hope.
+Injector cleaning does not fix faulty electronics, a weak fuel pump, a clogged filter — see [Fuel Filters and Fuel Lines: Small Parts That Matter]({{ '/articles/fuel-filters-fuel-lines-motorbike/' | relative_url }}) — or a tired engine. If the symptom survives a proper cleaning, the injector is exonerated and the search moves elsewhere. Never replace injectors on speculation: they are among the more expensive parts on an injected bike and diagnosis is cheaper than hope.

@@ -23,7 +23,7 @@ Wearing an extra layer in 35-degree heat sounds absurd until you understand what
 
 ## What a base layer actually does
 
-A wicking layer pulls sweat from your skin and spreads it through the fabric, where airflow through the jacket evaporates it. Without it, sweat pools between skin and gear, your jacket liner absorbs it, chafes, stinks and degrades faster. With it, you arrive drier, and your jacket stays cleaner — a real economy given the cleaning rules in what-to-wear-riding-motorbike-vietnam.
+A wicking layer pulls sweat from your skin and spreads it through the fabric, where airflow through the jacket evaporates it. Without it, sweat pools between skin and gear, your jacket liner absorbs it, chafes, stinks and degrades faster. With it, you arrive drier, and your jacket stays cleaner — a real economy given the cleaning rules in [What to Wear Riding a Motorbike in Vietnam]({{ '/articles/what-to-wear-riding-motorbike-vietnam/' | relative_url }}).
 
 ## Fabric choices
 
@@ -31,7 +31,7 @@ Synthetic athletic fabrics wick well, dry fast and are cheap; they hold odour, s
 
 ## Coverage and heat
 
-Full-length sleeves and legs under vented gear actually reduce heat stress, because they cut the sun’s radiant load and stop the sticky-skin-on-liner feeling that makes riders abandon their jackets. The broader hot-weather strategy is in hot-weather-riding-motorbike-vietnam; base layers are one component, along with timing, hydration (hydration-long-motorbike-rides) and vented outer layers (riding-jacket-vietnam-climate).
+Full-length sleeves and legs under vented gear actually reduce heat stress, because they cut the sun’s radiant load and stop the sticky-skin-on-liner feeling that makes riders abandon their jackets. The broader hot-weather strategy is in [Hot Weather Riding on a Motorbike in Vietnam]({{ '/articles/hot-weather-riding-motorbike-vietnam/' | relative_url }}); base layers are one component, along with timing, hydration ([Staying Hydrated on Long Motorbike Rides]({{ '/articles/hydration-long-motorbike-rides/' | relative_url }})) and vented outer layers ([Choosing a Riding Jacket for Vietnam's Climate]({{ '/articles/riding-jacket-vietnam-climate/' | relative_url }})).
 
 ## Buying practically
 

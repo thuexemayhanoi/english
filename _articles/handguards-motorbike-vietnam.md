@@ -23,7 +23,7 @@ Handguards are standard on trail bikes and rare on Vietnamese city bikes, which 
 
 ## What they do
 
-Three jobs. Wind: in Hanoi’s winter mornings, the difference between guarded and unguarded hands is the difference between feeling your levers and not — the cold-start and winter context is in cold-start-motorbike-winter-vietnam and winter-riding-motorbike-hanoi. Weather: guards deflect rain spray from lorries and keep gloves dry, which keeps hands functional — gloves alone struggle in sustained rain; see riding-gloves-vietnam-climate. Impact: in a low-speed fall the bars and your hands hit the ground first; a solid guard can save levers and fingers.
+Three jobs. Wind: in Hanoi’s winter mornings, the difference between guarded and unguarded hands is the difference between feeling your levers and not — the cold-start and winter context is in [Cold Mornings: Starting a Motorbike in Hanoi's Winter]({{ '/articles/cold-start-motorbike-winter-vietnam/' | relative_url }}) and [Winter Riding on a Motorbike in Hanoi]({{ '/articles/winter-riding-motorbike-hanoi/' | relative_url }}). Weather: guards deflect rain spray from lorries and keep gloves dry, which keeps hands functional — gloves alone struggle in sustained rain; see [Riding Gloves in Vietnam's Climate]({{ '/articles/riding-gloves-vietnam-climate/' | relative_url }}). Impact: in a low-speed fall the bars and your hands hit the ground first; a solid guard can save levers and fingers.
 
 ## The two types
 
@@ -31,7 +31,7 @@ Plastic deflector-style guards mount to the bar ends and block wind — cheap, l
 
 ## The honest assessment
 
-City riders on scooters benefit mostly in winter and rain; the fall protection is a bonus. Riders doing mountain trips, dirt sections or overgrown rural roads get the full value — the post-fall inspection habit in checking-motorbike-after-fall-accident is lighter work when the levers survived. Guards add a little width: if you filter through gaps at bus-window distances daily, you already know whether that matters.
+City riders on scooters benefit mostly in winter and rain; the fall protection is a bonus. Riders doing mountain trips, dirt sections or overgrown rural roads get the full value — the post-fall inspection habit in [What to Check Mechanically After a Fall]({{ '/articles/checking-motorbike-after-fall-accident/' | relative_url }}) is lighter work when the levers survived. Guards add a little width: if you filter through gaps at bus-window distances daily, you already know whether that matters.
 
 ## Buying notes
 

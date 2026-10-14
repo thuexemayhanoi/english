@@ -19,7 +19,7 @@ sources:
 internal_link_targets: "spark-plug-motorbike-vietnam, running-rich-vs-lean-motorbike, improving-fuel-economy-motorbike, rough-idle-motorbike-troubleshooting"
 ---
 
-The spark plug is the cheapest diagnostic tool on a motorbike: it sits inside the combustion chamber and records, in deposits, how the engine has been running. Pulling it takes minutes, and its colour tells a story that would otherwise need instruments. The replacement-side basics — types, gapping, when to change — are in spark-plug-motorbike-vietnam; this is about reading the old one.
+The spark plug is the cheapest diagnostic tool on a motorbike: it sits inside the combustion chamber and records, in deposits, how the engine has been running. Pulling it takes minutes, and its colour tells a story that would otherwise need instruments. The replacement-side basics — types, gapping, when to change — are in [Spark Plugs on a Motorbike: Basics for Vietnam]({{ '/articles/spark-plug-motorbike-vietnam/' | relative_url }}); this is about reading the old one.
 
 ## How to read it honestly
 
@@ -29,16 +29,16 @@ Ride normally for a while first — a plug read after idling around a parking ar
 
 **Light tan to grey-brown.** The healthy result of a correct air-fuel mixture and a properly heat-ranged plug. Change nothing.
 
-**Sooty black, dry, fluffy.** Rich running: too much fuel, or too little air. The classic causes are a clogged air filter, a maladjusted or worn carburettor, a choke left on habitually, or excessive short-trip idling. The full rich-vs-lean symptom picture is in running-rich-vs-lean-motorbike, and rich running also quietly drains your wallet — the economy angle is in improving-fuel-economy-motorbike.
+**Sooty black, dry, fluffy.** Rich running: too much fuel, or too little air. The classic causes are a clogged air filter, a maladjusted or worn carburettor, a choke left on habitually, or excessive short-trip idling. The full rich-vs-lean symptom picture is in [Running Rich or Lean: Reading the Signs]({{ '/articles/running-rich-vs-lean-motorbike/' | relative_url }}), and rich running also quietly drains your wallet — the economy angle is in [Improving Fuel Economy on a Motorbike]({{ '/articles/improving-fuel-economy-motorbike/' | relative_url }}).
 
 **White, blistered or glassy deposits.** Lean running: too much air, not enough fuel — or combustion running too hot. Suspects: an air leak in the intake, a partially blocked jet or injector, or the wrong heat-range plug. Lean running is the dangerous direction: it overheats engines and burns pistons. Do not keep riding hard while a plug reads this way.
 
-**Wet, oily, black.** Oil is reaching the combustion chamber — worn rings, valve-guide seals, or on two-strokes an over-oiled fuel mix. Oil fouling is an engine-health question, not a plug question; the diagnosis belongs to a mechanic. The two-stroke mixing rules are in two-stroke-vs-four-stroke-vietnam.
+**Wet, oily, black.** Oil is reaching the combustion chamber — worn rings, valve-guide seals, or on two-strokes an over-oiled fuel mix. Oil fouling is an engine-health question, not a plug question; the diagnosis belongs to a mechanic. The two-stroke mixing rules are in [Two-Stroke vs Four-Stroke Motorbikes in Vietnam]({{ '/articles/two-stroke-vs-four-stroke-vietnam/' | relative_url }}).
 
 ## Between the colours
 
-A plug with one clean strap and one black strap can indicate an ignition misfire. Eroded, rounded electrodes and a widened gap mean the plug is simply done. A physically cracked insulator means replace immediately and check what hit it. Aluminium specks on the insulator are detonation debris — the engine has been pinking; see engine-knocking-what-it-means.
+A plug with one clean strap and one black strap can indicate an ignition misfire. Eroded, rounded electrodes and a widened gap mean the plug is simply done. A physically cracked insulator means replace immediately and check what hit it. Aluminium specks on the insulator are detonation debris — the engine has been pinking; see [Engine Knocking: What That Noise Is Trying to Tell You]({{ '/articles/engine-knocking-what-it-means/' | relative_url }}).
 
 ## The habit
 
-Checking the plug every few months, and certainly whenever the engine runs oddly, gives you trend data no single reading can. A plug that darkens steadily over months and an idle that roughens — the idle diagnostic is in rough-idle-motorbike-troubleshooting — together point at a slowly clogging filter long before the bike ever fails to start. Reading plugs is the closest thing a rider without instruments gets to an engine report card.
+Checking the plug every few months, and certainly whenever the engine runs oddly, gives you trend data no single reading can. A plug that darkens steadily over months and an idle that roughens — the idle diagnostic is in [Rough Idle: Troubleshooting a Motorbike That Won't Idle Smoothly]({{ '/articles/rough-idle-motorbike-troubleshooting/' | relative_url }}) — together point at a slowly clogging filter long before the bike ever fails to start. Reading plugs is the closest thing a rider without instruments gets to an engine report card.

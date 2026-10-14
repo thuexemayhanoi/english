@@ -27,12 +27,12 @@ Tubeless: a nail goes in, the tyre often holds some air for hours, letting you s
 
 ## What you carry
 
-Tube-type bikes benefit hugely from carrying a spare tube or a patch kit and the tools to use them — roadside tyre repair shops are everywhere in Vietnam, but they can only help if you find one before the tube is destroyed. Tube-type riders also want a pump. Tubeless riders can carry a string plug kit as a get-you-home fix; the full roadside picture is in flat-tyre-repair-motorbike-vietnam.
+Tube-type bikes benefit hugely from carrying a spare tube or a patch kit and the tools to use them — roadside tyre repair shops are everywhere in Vietnam, but they can only help if you find one before the tube is destroyed. Tube-type riders also want a pump. Tubeless riders can carry a string plug kit as a get-you-home fix; the full roadside picture is in [Flat Tyre Repair on a Motorbike in Vietnam]({{ '/articles/flat-tyre-repair-motorbike-vietnam/' | relative_url }}).
 
 ## The rental angle
 
-Rental bikes are overwhelmingly tube-type. The policy questions — who pays for a punctured tube, what to do if it happens mid-trip — matter more than the technology: punctured-tyre-on-rental-motorbike walks through it, including what to agree at pickup so nobody argues later on a roadside.
+Rental bikes are overwhelmingly tube-type. The policy questions — who pays for a punctured tube, what to do if it happens mid-trip — matter more than the technology: [Who Pays for a Punctured Tyre on a Rental Motorbike?]({{ '/articles/punctured-tyre-on-rental-motorbike/' | relative_url }}) walks through it, including what to agree at pickup so nobody argues later on a roadside.
 
 ## Conversions and honesty
 
-Some riders convert spoked or suitable rims to run tubeless; it can work, but it depends entirely on the rim and a clean, undamaged wheel — it is a decision for a specialist tyre shop, not a general repair stand. Whatever you choose, inspection habits stay the same: pressure weekly, damage checks before long rides — tyre-care-motorbike-vietnam — and matching the right replacement when the time comes (choosing-replacement-tyres-motorbike-vietnam).
+Some riders convert spoked or suitable rims to run tubeless; it can work, but it depends entirely on the rim and a clean, undamaged wheel — it is a decision for a specialist tyre shop, not a general repair stand. Whatever you choose, inspection habits stay the same: pressure weekly, damage checks before long rides — [Tyre Care and Pressure Basics for Motorbikes]({{ '/articles/tyre-care-motorbike-vietnam/' | relative_url }}) — and matching the right replacement when the time comes ([Choosing Replacement Tyres for Your Motorbike in Vietnam]({{ '/articles/choosing-replacement-tyres-motorbike-vietnam/' | relative_url }})).

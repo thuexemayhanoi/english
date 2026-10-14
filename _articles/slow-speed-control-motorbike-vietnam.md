@@ -23,7 +23,7 @@ Riding at walking pace for ten minutes without putting a foot down is the real t
 
 ## The clutch is your throttle at low speed
 
-On a manual or semi-automatic, use the clutch to meter power — slip it to creep, pull it to roll. Revs slightly up, clutch partially engaged: that is the stable state of dense-traffic riding. On an automatic scooter, the CVT does this for you, which is one reason scooters dominate the city; best-motorbike-for-hanoi-traffic covers that trade-off.
+On a manual or semi-automatic, use the clutch to meter power — slip it to creep, pull it to roll. Revs slightly up, clutch partially engaged: that is the stable state of dense-traffic riding. On an automatic scooter, the CVT does this for you, which is one reason scooters dominate the city; [Best Motorbike for Hanoi Traffic: What Actually Works]({{ '/articles/best-motorbike-for-hanoi-traffic/' | relative_url }}) covers that trade-off.
 
 ## Balance drills
 
@@ -31,11 +31,11 @@ Practice in a quiet area: ride as slowly as you can in a straight line, then fig
 
 ## In the stream
 
-Keep your elbows loose, cover the rear brake for instant stops, and leave the seat-hunting to walking pace only. Watch mirrors when stopped: the bike behind may filter past you within inches. Filtering has its own technique and legal context — filtering-through-traffic-motorbike-vietnam covers it.
+Keep your elbows loose, cover the rear brake for instant stops, and leave the seat-hunting to walking pace only. Watch mirrors when stopped: the bike behind may filter past you within inches. Filtering has its own technique and legal context — [Filtering Through Traffic Safely on a Motorbike]({{ '/articles/filtering-through-traffic-motorbike-vietnam/' | relative_url }}) covers it.
 
 ## Passengers and cargo
 
-A pillion changes slow-speed balance more than any other situation. Agree that they keep still at low speed, and mount only after you are ready and braced. The passenger rules in motorbike-passenger-rules-vietnam cover the legal side.
+A pillion changes slow-speed balance more than any other situation. Agree that they keep still at low speed, and mount only after you are ready and braced. The passenger rules in [Carrying Passengers on a Motorbike in Vietnam]({{ '/articles/motorbike-passenger-rules-vietnam/' | relative_url }}) cover the legal side.
 
 ## The one-line version
 

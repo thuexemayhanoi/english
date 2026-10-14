@@ -23,7 +23,7 @@ Scooters in Vietnam are CVT machines, and inside the variator sit small rollers 
 
 ## What rollers do
 
-The variator is a mechanical automatic: rollers slide outward with speed, changing the effective gear ratio. Heavier rollers shift up earlier (lower revs at a given speed, better economy, lazier acceleration); lighter rollers hold revs higher (quicker acceleration, more noise, more fuel). If you want the CVT explained from first principles, read cvt-belt-variator-scooter-vietnam first — this article is only about changing the weights.
+The variator is a mechanical automatic: rollers slide outward with speed, changing the effective gear ratio. Heavier rollers shift up earlier (lower revs at a given speed, better economy, lazier acceleration); lighter rollers hold revs higher (quicker acceleration, more noise, more fuel). If you want the CVT explained from first principles, read [CVT Belts and Variators: Automatic Scooter Drivetrain Basics]({{ '/articles/cvt-belt-variator-scooter-vietnam/' | relative_url }}) first — this article is only about changing the weights.
 
 ## What changes actually feel like
 
@@ -31,8 +31,8 @@ A delivery rider and a commuter want opposite things: the commuter fitting light
 
 ## The practical warnings
 
-Use a matched set of quality rollers — mixed and worn weights make the variator ramp unevenly and shake the transmission; cheap no-name rollers wear oval fast. While the cover is off, check the belt: rollers and belts are the two wear items of the CVT and the labour is shared. Have the work done by someone who does CVTs daily and can weigh the rollers and check the ramps — how to have that conversation is in talking-to-mechanic-vietnam. If the bike is a rental, transmission internals are squarely in the ask-first category, and the repair-versus-replace thinking in repair-or-replace-motorbike-parts applies: a worn variator is not fixed by new rollers alone.
+Use a matched set of quality rollers — mixed and worn weights make the variator ramp unevenly and shake the transmission; cheap no-name rollers wear oval fast. While the cover is off, check the belt: rollers and belts are the two wear items of the CVT and the labour is shared. Have the work done by someone who does CVTs daily and can weigh the rollers and check the ramps — how to have that conversation is in [Getting Repairs Done: Talking to a Vietnamese Mechanic]({{ '/articles/talking-to-mechanic-vietnam/' | relative_url }}). If the bike is a rental, transmission internals are squarely in the ask-first category, and the repair-versus-replace thinking in [Repair or Replace? Deciding With a Mechanic's Input]({{ '/articles/repair-or-replace-motorbike-parts/' | relative_url }}) applies: a worn variator is not fixed by new rollers alone.
 
 ## Fake parts
 
-Variator parts are heavily counterfeited in the Vietnamese market — the label-reading discipline in genuine-vs-fake-parts-motorbike-vietnam matters here as much as anywhere in the parts world.
+Variator parts are heavily counterfeited in the Vietnamese market — the label-reading discipline in [Genuine Versus Fake Motorbike Parts in Vietnam]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}) matters here as much as anywhere in the parts world.

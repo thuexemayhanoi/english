@@ -27,11 +27,11 @@ Long trousers, closed shoes, a light jacket or long sleeves. Gloves sound excess
 
 ## Dress for the season
 
-Hot season: loose, light-coloured long sleeves and ventilated gloves — hot-weather-riding-motorbike-vietnam covers hydration, the other half of summer comfort. Winter: a windproof layer underneath, waterproof gloves, a warm layer that blocks the wind chill of damp 13°C mornings — winter-riding-motorbike-hanoi covers the season. Rainy season: a proper rain jacket lives under the seat from June onwards.
+Hot season: loose, light-coloured long sleeves and ventilated gloves — [Hot Weather Riding on a Motorbike in Vietnam]({{ '/articles/hot-weather-riding-motorbike-vietnam/' | relative_url }}) covers hydration, the other half of summer comfort. Winter: a windproof layer underneath, waterproof gloves, a warm layer that blocks the wind chill of damp 13°C mornings — [Winter Riding on a Motorbike in Hanoi]({{ '/articles/winter-riding-motorbike-hanoi/' | relative_url }}) covers the season. Rainy season: a proper rain jacket lives under the seat from June onwards.
 
 ## Night and long trips
 
-At night, one bright or reflective layer answers the visibility problem cheaply — night-riding-motorbike-safety-vietnam covers the wider problem. For long trips, add real coverage: a mesh riding jacket and proper shoes pay for themselves the first time gravel tests them. For daily errands, the practical floor is closed shoes, long trousers, helmet and gloves — everything beyond that is margin, but that floor is not optional.
+At night, one bright or reflective layer answers the visibility problem cheaply — [Riding a Motorbike at Night in Vietnam]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}) covers the wider problem. For long trips, add real coverage: a mesh riding jacket and proper shoes pay for themselves the first time gravel tests them. For daily errands, the practical floor is closed shoes, long trousers, helmet and gloves — everything beyond that is margin, but that floor is not optional.
 
 ## What not to bother with
 

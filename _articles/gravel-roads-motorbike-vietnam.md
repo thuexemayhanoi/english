@@ -31,11 +31,11 @@ Weight back slightly, arms loose, look far ahead. Brake with the rear more than 
 
 ## Where Vietnam hides gravel
 
-Construction sites spill gravel onto main roads for weeks. Rural bridges' approach ramps hold deep loose stones. Mountain passes scatter fallen rock — mountain-pass-riding-motorbike-vietnam covers those roads — and after heavy rain, sand fans across corners at the bottom of slopes. Treat any corner on a rural descent as potentially gravelly until proven otherwise.
+Construction sites spill gravel onto main roads for weeks. Rural bridges' approach ramps hold deep loose stones. Mountain passes scatter fallen rock — [Riding Mountain Passes on a Motorbike in Vietnam]({{ '/articles/mountain-pass-riding-motorbike-vietnam/' | relative_url }}) covers those roads — and after heavy rain, sand fans across corners at the bottom of slopes. Treat any corner on a rural descent as potentially gravelly until proven otherwise.
 
 ## Deep gravel and mud
 
-If the surface is deep — wheel-deep stones or wet clay mud — the honest answer is to walk the bike through or turn around. Scooters especially are at their limit in deep mud: belly-pan clearance is tiny and the CVT intake sits low. For day trips that will include rural roads, plan the bike accordingly; best-motorbike-for-day-trips-from-hanoi has that comparison.
+If the surface is deep — wheel-deep stones or wet clay mud — the honest answer is to walk the bike through or turn around. Scooters especially are at their limit in deep mud: belly-pan clearance is tiny and the CVT intake sits low. For day trips that will include rural roads, plan the bike accordingly; [Best Motorbike for Day Trips from Hanoi]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }}) has that comparison.
 
 ## The one-line version
 

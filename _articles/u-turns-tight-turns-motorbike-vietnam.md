@@ -36,8 +36,8 @@ When the street is too tight for one arc, use the sides of it: turn until you ar
 
 ## Tight turns at junctions
 
-Slow down before the turn, not during it. Brake with the bike upright, then release the brakes as you lean in and add a touch of throttle to settle the suspension. For slow-speed control practice and cornering technique, see slow-speed-control-motorbike-vietnam and cornering-motorbike-vietnam.
+Slow down before the turn, not during it. Brake with the bike upright, then release the brakes as you lean in and add a touch of throttle to settle the suspension. For slow-speed control practice and cornering technique, see [Slow-Speed Control: Riding a Motorbike Through Dense Traffic]({{ '/articles/slow-speed-control-motorbike-vietnam/' | relative_url }}) and [Cornering a Motorbike Well in Vietnam]({{ '/articles/cornering-motorbike-vietnam/' | relative_url }}).
 
 ## Before you need the skill
 
-Test how your bike behaves at low speed before a busy day does it for you: a rental motorbike with a worn clutch or heavy steering turns a routine U-turn into a wobble. Run the rental-motorbike-inspection-checklist at pickup and include one slow figure-eight in a quiet spot.
+Test how your bike behaves at low speed before a busy day does it for you: a rental motorbike with a worn clutch or heavy steering turns a routine U-turn into a wobble. Run the [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) at pickup and include one slow figure-eight in a quiet spot.

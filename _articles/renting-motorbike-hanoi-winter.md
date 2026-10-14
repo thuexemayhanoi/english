@@ -24,7 +24,7 @@ Hanoi's winter — roughly November through March — surprises visitors who exp
 
 ## What the season is actually like
 
-Cool, often dry, frequently overcast; December and January bring the coldest spells and occasional drizzle with poor visibility. Air quality episodes occur in this period, and long outdoor rides are the moments when that matters most — on bad-air days locals shorten rides and mask up. Daylight is shorter: dusk arrives before 18:00, and lights are a legal requirement between 18:00 and 06:00 anyway — see motorbike-night-lights-vietnam.
+Cool, often dry, frequently overcast; December and January bring the coldest spells and occasional drizzle with poor visibility. Air quality episodes occur in this period, and long outdoor rides are the moments when that matters most — on bad-air days locals shorten rides and mask up. Daylight is shorter: dusk arrives before 18:00, and lights are a legal requirement between 18:00 and 06:00 anyway — see [Night Riding: Motorbike Light Rules in Vietnam]({{ '/articles/motorbike-night-lights-vietnam/' | relative_url }}).
 
 ## What to wear
 
@@ -35,22 +35,22 @@ The wind-chill on a moving bike is real. The working kit:
 - Closed shoes, and a scarf or face cover for the coldest mornings
 - A clear visor or glasses for the eyes; winter wind and grit at speed sting
 
-Everything stows under the seat or in a backpack when parked — see what-to-carry-riding-motorbike-vietnam.
+Everything stows under the seat or in a backpack when parked — see [What to Carry While Riding a Motorbike in Vietnam]({{ '/articles/what-to-carry-riding-motorbike-vietnam/' | relative_url }}).
 
 ## How winter changes the riding
 
 - Tyres and brakes are cold-stiff for the first minutes; ride gently until they warm
 - Dense fog patches happen on river crossings and bridges in early morning; slow down
 - Cold hands brake worse; budget extra distance on every stop
-- Equipment still matters legally — lights, horn, mirrors, brakes — see motorbike-required-equipment-vietnam
+- Equipment still matters legally — lights, horn, mirrors, brakes — see [Required Equipment on a Motorbike in Vietnam]({{ '/articles/motorbike-required-equipment-vietnam/' | relative_url }})
 
 ## Rental-side differences
 
-Handover inspection is unchanged (rental-motorbike-inspection-checklist), but add one check: does the bike start easily cold? Ask the shop to demonstrate a cold start. Battery issues and gummed-up fuel systems are the classic winter rental problems; if anything electrical feels off, report it — rental-motorbike-feels-wrong lists the symptoms worth taking back.
+Handover inspection is unchanged ([Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }})), but add one check: does the bike start easily cold? Ask the shop to demonstrate a cold start. Battery issues and gummed-up fuel systems are the classic winter rental problems; if anything electrical feels off, report it — [What to Do If Your Rental Motorbike Does Not Feel Normal]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}) lists the symptoms worth taking back.
 
 ## The winter upside
 
-Winter is the best season for the long day trips: dry roads, clear-ish skies over the delta, and the Perfume Pagoda and Ninh Binh routes free of monsoon hazards. Route planning is in best-motorbike-for-day-trips-from-hanoi, and terms to agree before taking a rental out of the city are in rental-motorbike-outside-hanoi.
+Winter is the best season for the long day trips: dry roads, clear-ish skies over the delta, and the Perfume Pagoda and Ninh Binh routes free of monsoon hazards. Route planning is in [Best Motorbike for Day Trips from Hanoi]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }}), and terms to agree before taking a rental out of the city are in [Can You Take a Rental Motorbike Outside Hanoi?]({{ '/articles/rental-motorbike-outside-hanoi/' | relative_url }}).
 
 ## The one-line version
 

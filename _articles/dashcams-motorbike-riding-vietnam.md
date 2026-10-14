@@ -35,8 +35,8 @@ Small action cameras last one to two hours per charge: enough for a commute, not
 
 ## Theft is the real risk
 
-A visible camera on an unattended bike is an invitation, especially in tourist areas. Take it with you or hide it in the under-seat storage — the same habits as keeping-rental-motorbike-secure-hanoi. On a rental bike, use mounts that leave no marks and confirm what the owner is comfortable with.
+A visible camera on an unattended bike is an invitation, especially in tourist areas. Take it with you or hide it in the under-seat storage — the same habits as [Keeping a Rental Motorbike Secure Over Months in Hanoi]({{ '/articles/keeping-rental-motorbike-secure-hanoi/' | relative_url }}). On a rental bike, use mounts that leave no marks and confirm what the owner is comfortable with.
 
 ## If the footage is ever needed
 
-After an accident, the sequence — safety first, aid, exchange details, calling the authorities — is in motorbike-accident-first-aid-vietnam and motorbike-accident-duties-vietnam. Save the clip immediately and back it up; cameras get lost in exactly the chaos the footage is meant for. And remember the cheapest safety device remains free: being visible and predictable — visibility-riding-motorbike-vietnam.
+After an accident, the sequence — safety first, aid, exchange details, calling the authorities — is in [First Response at a Motorbike Accident in Vietnam]({{ '/articles/motorbike-accident-first-aid-vietnam/' | relative_url }}) and [What to Do After a Motorbike Accident in Vietnam]({{ '/articles/motorbike-accident-duties-vietnam/' | relative_url }}). Save the clip immediately and back it up; cameras get lost in exactly the chaos the footage is meant for. And remember the cheapest safety device remains free: being visible and predictable — [Being Seen: Visibility Tactics for Motorbike Riders]({{ '/articles/visibility-riding-motorbike-vietnam/' | relative_url }}).

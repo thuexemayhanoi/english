@@ -31,7 +31,7 @@ A full bottle high on the handlebar is a pendulum on your steering: a litre of w
 
 ## Hydration discipline
 
-The holder is convenience; the habit is the health part — how much to drink and when is covered in hydration-long-motorbike-rides, and heat management overall in hot-weather-riding-motorbike-vietnam. For commuter-specific setup thinking, see best-motorbike-for-commuting-hanoi, and if you are already building a charging/holder arrangement, the same front-area mounting logic applies as in usb-chargers-motorbike-power.
+The holder is convenience; the habit is the health part — how much to drink and when is covered in [Staying Hydrated on Long Motorbike Rides]({{ '/articles/hydration-long-motorbike-rides/' | relative_url }}), and heat management overall in [Hot Weather Riding on a Motorbike in Vietnam]({{ '/articles/hot-weather-riding-motorbike-vietnam/' | relative_url }}). For commuter-specific setup thinking, see [Best Motorbike for Commuting in Hanoi]({{ '/articles/best-motorbike-for-commuting-hanoi/' | relative_url }}), and if you are already building a charging/holder arrangement, the same front-area mounting logic applies as in [USB Chargers and Phone Power on a Motorbike]({{ '/articles/usb-chargers-motorbike-power/' | relative_url }}).
 
 ## The rule
 

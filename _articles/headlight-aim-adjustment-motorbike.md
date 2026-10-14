@@ -19,7 +19,7 @@ sources:
 internal_link_targets: "headlight-bulb-replacement-motorbike, mirror-setup-motorbike-vietnam, motorbike-night-lights-vietnam, night-riding-motorbike-safety-vietnam"
 ---
 
-A headlight that points into the tarmac illuminates forty metres of road and one surprised cat. A headlight aimed high turns you into a rolling glare-bomb that oncoming riders hate. Correct aim is a five-minute job that makes night riding — already demanding in Vietnam — far safer. The legal side of lights is covered in motorbike-night-lights-vietnam.
+A headlight that points into the tarmac illuminates forty metres of road and one surprised cat. A headlight aimed high turns you into a rolling glare-bomb that oncoming riders hate. Correct aim is a five-minute job that makes night riding — already demanding in Vietnam — far safer. The legal side of lights is covered in [Night Riding: Motorbike Light Rules in Vietnam]({{ '/articles/motorbike-night-lights-vietnam/' | relative_url }}).
 
 ## The wall method
 
@@ -34,11 +34,11 @@ The exact drop depends on distance and model; the principle never changes: the l
 
 ## High and low beam
 
-High beam points further down the road and is for roads without oncoming traffic. If your low beam looks like high beam to everyone you meet, the aim is wrong — do not "fix" it by never using high beam. And a burned-out bulb ruins the best aim: bulb replacement basics are in headlight-bulb-replacement-motorbike.
+High beam points further down the road and is for roads without oncoming traffic. If your low beam looks like high beam to everyone you meet, the aim is wrong — do not "fix" it by never using high beam. And a burned-out bulb ruins the best aim: bulb replacement basics are in [Replacing a Headlight Bulb on a Motorbike]({{ '/articles/headlight-bulb-replacement-motorbike/' | relative_url }}).
 
 ## Load changes aim
 
-A pillion passenger, heavy luggage or a full top box squats the rear and lifts the beam. After loading up for a trip, repeat the wall check with the bike loaded. The same logic applies to the mirrors, which need re-checking whenever the bike's stance changes — mirror-setup-motorbike-vietnam.
+A pillion passenger, heavy luggage or a full top box squats the rear and lifts the beam. After loading up for a trip, repeat the wall check with the bike loaded. The same logic applies to the mirrors, which need re-checking whenever the bike's stance changes — [Setting Up Your Mirrors Properly on a Motorbike]({{ '/articles/mirror-setup-motorbike-vietnam/' | relative_url }}).
 
 ## LED and aftermarket conversions
 
@@ -46,4 +46,4 @@ Brighter aftermarket bulbs or LED conversions can make glare worse even when aim
 
 ## Night-riding context
 
-Good aim is one part of safe night riding, alongside speed management, anticipating unlit vehicles and reading the road surface — the riding side is in night-riding-motorbike-safety-vietnam. A well-aimed headlight shows you potholes before your suspension finds them. It is the cheapest piece of night-riding safety equipment on the bike, and all it asks is an occasional five minutes against a wall.
+Good aim is one part of safe night riding, alongside speed management, anticipating unlit vehicles and reading the road surface — the riding side is in [Riding a Motorbike at Night in Vietnam]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}). A well-aimed headlight shows you potholes before your suspension finds them. It is the cheapest piece of night-riding safety equipment on the bike, and all it asks is an occasional five minutes against a wall.

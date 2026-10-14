@@ -24,7 +24,7 @@ Riders in Vietnam get a double dose of sun: direct rays plus hours of moving air
 
 ## The parts that get hit first
 
-Left arm and hand (or right, on the other side of the road), the back of the neck, the nose and the tops of the ears under a half-face helmet. Sunburn on the neck and arms is genuinely painful and, combined with heat, accelerates the fatigue that causes late-ride mistakes — hot-weather-riding-motorbike-vietnam covers the heat side.
+Left arm and hand (or right, on the other side of the road), the back of the neck, the nose and the tops of the ears under a half-face helmet. Sunburn on the neck and arms is genuinely painful and, combined with heat, accelerates the fatigue that causes late-ride mistakes — [Hot Weather Riding on a Motorbike in Vietnam]({{ '/articles/hot-weather-riding-motorbike-vietnam/' | relative_url }}) covers the heat side.
 
 ## Cover before you cream
 
@@ -32,12 +32,12 @@ Fabric is the most reliable sunscreen and does not wash off in wind or sweat: a 
 
 ## Helmets and shade
 
-A full-face helmet is unexpected sun protection for the face; a peak or visor helps at low angles — eye-protection-riding-motorbike-vietnam covers visor choices that also cut glare. Plan long rides before 10 am or after 3 pm, and use the Vietnamese rest stop habit: parks and cafes with shade are everywhere.
+A full-face helmet is unexpected sun protection for the face; a peak or visor helps at low angles — [Eye Protection While Riding a Motorbike]({{ '/articles/eye-protection-riding-motorbike-vietnam/' | relative_url }}) covers visor choices that also cut glare. Plan long rides before 10 am or after 3 pm, and use the Vietnamese rest stop habit: parks and cafes with shade are everywhere.
 
 ## Hydration is skin protection too
 
-Dehydrated skin burns faster and dehydrated riders make worse decisions. Drink before you are thirsty and carry more water than feels reasonable — hydration-long-motorbike-rides explains how much and when.
+Dehydrated skin burns faster and dehydrated riders make worse decisions. Drink before you are thirsty and carry more water than feels reasonable — [Staying Hydrated on Long Motorbike Rides]({{ '/articles/hydration-long-motorbike-rides/' | relative_url }}) explains how much and when.
 
 ## The full picture
 
-Sun protection is one layer of hot-weather riding; the outfit logic is in what-to-wear-riding-motorbike-vietnam. Ride enough Vietnamese summers and you learn it is simply part of the gear, like the helmet.
+Sun protection is one layer of hot-weather riding; the outfit logic is in [What to Wear Riding a Motorbike in Vietnam]({{ '/articles/what-to-wear-riding-motorbike-vietnam/' | relative_url }}). Ride enough Vietnamese summers and you learn it is simply part of the gear, like the helmet.

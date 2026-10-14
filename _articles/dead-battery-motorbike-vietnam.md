@@ -23,7 +23,7 @@ The click-nothing moment happens to everyone in Vietnam eventually: heat ages ba
 
 ## First, make sure it is the battery
 
-A completely dead silence at the button, with lights and horn also dead or faint, is the classic battery signature. But dash lights that come on and a healthy-sounding starter that fails to catch is a different problem — fuel, or a flooded start. Confirm by lights-and-horn before concluding battery; battery-care-motorbike-vietnam covers the longer-term diagnosis.
+A completely dead silence at the button, with lights and horn also dead or faint, is the classic battery signature. But dash lights that come on and a healthy-sounding starter that fails to catch is a different problem — fuel, or a flooded start. Confirm by lights-and-horn before concluding battery; [Battery Care on a Motorbike]({{ '/articles/battery-care-motorbike-vietnam/' | relative_url }}) covers the longer-term diagnosis.
 
 ## The push start
 
@@ -35,7 +35,7 @@ Scooters with CVT transmissions cannot be push-started: there is no clutch to en
 
 ## Jump-starting
 
-Car-to-bike jump starts work with care — the car engine off, correct polarity, bike connected briefly and started, cables removed in reverse order. In Vietnam, the practical version is usually simpler: a neighbouring shop or cafe has a battery pack or a spare; roadside battery shops exist in every district. On a rental, a dead battery is a call to the shop — rental-motorbike-breakdown-hanoi covers the process — rather than roadside electrics.
+Car-to-bike jump starts work with care — the car engine off, correct polarity, bike connected briefly and started, cables removed in reverse order. In Vietnam, the practical version is usually simpler: a neighbouring shop or cafe has a battery pack or a spare; roadside battery shops exist in every district. On a rental, a dead battery is a call to the shop — [What Happens If a Rental Motorbike Breaks Down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) covers the process — rather than roadside electrics.
 
 ## The one-line version
 

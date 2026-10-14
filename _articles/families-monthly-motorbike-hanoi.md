@@ -24,11 +24,11 @@ Families in Hanoi often run their week on motorbikes: school runs, market trips,
 
 ## The legal frame for carrying children
 
-Vietnamese law sets a minimum age for child passengers and requires helmets for all riders and passengers on the road, including children with properly fitted helmets. The details and current rules are in child-passengers-motorbike-vietnam and helmet-law-vietnam — read both before planning family riding, and do not rely on what you see local traffic doing.
+Vietnamese law sets a minimum age for child passengers and requires helmets for all riders and passengers on the road, including children with properly fitted helmets. The details and current rules are in [Child Passengers on Motorbikes in Vietnam]({{ '/articles/child-passengers-motorbike-vietnam/' | relative_url }}) and [Vietnam Helmet Law: Rules for Riders and Passengers]({{ '/articles/helmet-law-vietnam/' | relative_url }}) — read both before planning family riding, and do not rely on what you see local traffic doing.
 
 ## One bike or two
 
-A couple with older children often manages with two bikes rather than one; a family with one adult riding solo most days may need just one. Two-motorbikes-household-hanoi covers the two-bike arrangement — deposits, agreements and who may ride which. For riding two-up regularly, the machine choice matters as much as the paperwork: best-motorbike-for-two-people-hanoi compares what works.
+A couple with older children often manages with two bikes rather than one; a family with one adult riding solo most days may need just one. Two-motorbikes-household-hanoi covers the two-bike arrangement — deposits, agreements and who may ride which. For riding two-up regularly, the machine choice matters as much as the paperwork: [Best Motorbike for Two People in Hanoi]({{ '/articles/best-motorbike-for-two-people-hanoi/' | relative_url }}) compares what works.
 
 ## Choosing for the school run
 

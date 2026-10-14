@@ -27,14 +27,14 @@ With the wheel off the ground: spin it and listen. A healthy bearing is whisper-
 
 ## Causes, Vietnamese edition
 
-Flood-season riding submerges the lower bearings; pressure-washing drives water past seals; curbs, potholes and Hanoi's construction zones hammer the races. Sealed bearings are cheap and widely stocked here, which is the good news — but insist on a reputable brand, because the counterfeit-parts problem applies to bearings exactly as it does to every other component; genuine-vs-fake-parts-motorbike-vietnam covers the general warning. A no-name bearing can fail in months.
+Flood-season riding submerges the lower bearings; pressure-washing drives water past seals; curbs, potholes and Hanoi's construction zones hammer the races. Sealed bearings are cheap and widely stocked here, which is the good news — but insist on a reputable brand, because the counterfeit-parts problem applies to bearings exactly as it does to every other component; [Genuine Versus Fake Motorbike Parts in Vietnam]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}) covers the general warning. A no-name bearing can fail in months.
 
 ## Confusing a bearing with something else
 
-A wobble felt through the bars is more often a head bearing, tyre or fork issue — steering-head-bearings-motorbike describes that test. A rumble that only appears on rough surfaces is usually suspension or a loose fastener, not a wheel bearing, which is why the off-the-ground test matters: it isolates the wheel. General wobble-and-wander troubleshooting lives in motorbike-handling-problems-wobble.
+A wobble felt through the bars is more often a head bearing, tyre or fork issue — [Notchy Steering: Checking Your Motorbike's Head Bearings]({{ '/articles/steering-head-bearings-motorbike/' | relative_url }}) describes that test. A rumble that only appears on rough surfaces is usually suspension or a loose fastener, not a wheel bearing, which is why the off-the-ground test matters: it isolates the wheel. General wobble-and-wander troubleshooting lives in [Motorbike Handling Problems: Pulling, Wobble and Heavy Steering]({{ '/articles/motorbike-handling-problems-wobble/' | relative_url }}).
 
 ## Replacement, and the opportunities it brings
 
-Bearing replacement is a press-and-driver bench job at a shop; riding on a rough bearing to "finish the week" is how a small job becomes a hub. The smart move: when a bearing is replaced, the wheel is already off — a perfect moment for tyre inspection or replacement, covered in tyre-care-motorbike-vietnam and choosing-replacement-tyres-motorbike-vietnam.
+Bearing replacement is a press-and-driver bench job at a shop; riding on a rough bearing to "finish the week" is how a small job becomes a hub. The smart move: when a bearing is replaced, the wheel is already off — a perfect moment for tyre inspection or replacement, covered in [Tyre Care and Pressure Basics for Motorbikes]({{ '/articles/tyre-care-motorbike-vietnam/' | relative_url }}) and [Choosing Replacement Tyres for Your Motorbike in Vietnam]({{ '/articles/choosing-replacement-tyres-motorbike-vietnam/' | relative_url }}).
 
 Two minutes with the bike on its stand, twice a season, and wheel bearings stop being a lottery.

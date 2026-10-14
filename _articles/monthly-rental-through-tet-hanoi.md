@@ -24,15 +24,15 @@ Tet, the lunar new year, reshapes Hanoi for roughly two weeks: offices close, mi
 
 ## Settle the dates with the shop early
 
-Nguyen Tu operates 09:00–21:00 daily, but around Tet individual days can differ — confirm opening and any holiday arrangements directly with the shop before the holiday, especially if your rental period ends or renews during Tet. If you want to extend across the holiday, extending-motorbike-rental-hanoi explains the renewal process — do it before the holiday rush, not on the last working day.
+Nguyen Tu operates 09:00–21:00 daily, but around Tet individual days can differ — confirm opening and any holiday arrangements directly with the shop before the holiday, especially if your rental period ends or renews during Tet. If you want to extend across the holiday, [Extending or Renewing a Monthly Motorbike Rental in Hanoi]({{ '/articles/extending-motorbike-rental-hanoi/' | relative_url }}) explains the renewal process — do it before the holiday rush, not on the last working day.
 
 ## If you stay in Hanoi
 
-The city empties, which makes riding strangely pleasant, but services thin out: fewer repair shops open, fuel stations operate reduced hours at times, and roadside help is scarcer. Ride with a fuller tank than usual and sort any bike issues before the holiday. Parking around Old Quarter festivities gets busy; parking-monthly-renter-hanoi covers the normal daily system.
+The city empties, which makes riding strangely pleasant, but services thin out: fewer repair shops open, fuel stations operate reduced hours at times, and roadside help is scarcer. Ride with a fuller tank than usual and sort any bike issues before the holiday. Parking around Old Quarter festivities gets busy; [Daily Parking as a Monthly Renter in Hanoi]({{ '/articles/parking-monthly-renter-hanoi/' | relative_url }}) covers the normal daily system.
 
 ## If you travel for Tet
 
-Long-distance riding during Tet is a serious undertaking — heavy traffic before the holiday, packed roads after it, and many riders' worst nights of the year. If you plan to take the rental bike out of Hanoi, agree it with the shop in advance, confirm the support situation (support is primarily for Hanoi and local use), and read up on the long-distance considerations in best-motorbike-for-long-distance-vietnam before committing. If you fly home instead, arrange guarded parking: keeping-rental-motorbike-secure-hanoi explains why a bike sitting on the street for two holiday weeks is the risk to avoid.
+Long-distance riding during Tet is a serious undertaking — heavy traffic before the holiday, packed roads after it, and many riders' worst nights of the year. If you plan to take the rental bike out of Hanoi, agree it with the shop in advance, confirm the support situation (support is primarily for Hanoi and local use), and read up on the long-distance considerations in [Best Motorbike for Long-Distance Riding in Vietnam]({{ '/articles/best-motorbike-for-long-distance-vietnam/' | relative_url }}) before committing. If you fly home instead, arrange guarded parking: [Keeping a Rental Motorbike Secure Over Months in Hanoi]({{ '/articles/keeping-rental-motorbike-secure-hanoi/' | relative_url }}) explains why a bike sitting on the street for two holiday weeks is the risk to avoid.
 
 ## The one-line version
 

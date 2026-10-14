@@ -24,7 +24,7 @@ Ending a monthly rental early is usually one of two stories: you are leaving Han
 
 ## The policy baseline
 
-Early return carries no automatic refund entitlement: unused days or weeks are not refunded by default. That is the general early-return rule (see early-return-rental-motorbike-hanoi), and it applies at month scale too. What your early return actually costs or returns is a matter of what you agree with the shop, which is why notice matters.
+Early return carries no automatic refund entitlement: unused days or weeks are not refunded by default. That is the general early-return rule (see [Can You Return a Rental Motorbike Early? Refunds Explained]({{ '/articles/early-return-rental-motorbike-hanoi/' | relative_url }})), and it applies at month scale too. What your early return actually costs or returns is a matter of what you agree with the shop, which is why notice matters.
 
 ## Give notice as soon as you know
 
@@ -32,7 +32,7 @@ Message the shop the moment your plans change. Practical reasons: the shop can p
 
 ## The clean exit
 
-The return itself is the standard process (returning-a-rental-motorbike-hanoi): agreed time and place, walk-around against the handover photos, fuel as agreed, papers and keys handed back, deposit returned per the agreement (how-deposit-returns-work-hanoi). Bring the same attention you gave the handover — this is the moment your deposit comes home.
+The return itself is the standard process ([How Returning a Rental Motorbike in Hanoi Works]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }})): agreed time and place, walk-around against the handover photos, fuel as agreed, papers and keys handed back, deposit returned per the agreement ([How Deposit Returns Work at Hanoi Motorbike Rentals]({{ '/articles/how-deposit-returns-work-hanoi/' | relative_url }})). Bring the same attention you gave the handover — this is the moment your deposit comes home.
 
 ## If you might return to Hanoi
 
@@ -40,7 +40,7 @@ Say so. Shops deal with returning customers constantly, and a clean early return
 
 ## Longer plans, shorter reality
 
-If you were mid-way through a multi-month arrangement, the renegotiation pattern is in shortening-long-motorbike-rental-hanoi. If you are ending the whole riding chapter in Hanoi, also handle the loose ends: your own insurance arrangements if you made any (insurance-for-long-term-renter-hanoi), and the riding habits you'll want wherever you go next.
+If you were mid-way through a multi-month arrangement, the renegotiation pattern is in [Shortening a Long Motorbike Rental in Hanoi]({{ '/articles/shortening-long-motorbike-rental-hanoi/' | relative_url }}). If you are ending the whole riding chapter in Hanoi, also handle the loose ends: your own insurance arrangements if you made any ([Arranging Your Own Insurance as a Long-Term Renter in Hanoi]({{ '/articles/insurance-for-long-term-renter-hanoi/' | relative_url }})), and the riding habits you'll want wherever you go next.
 
 ## The one-line version
 

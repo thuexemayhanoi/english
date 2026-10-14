@@ -31,11 +31,11 @@ If the hole arrives with no room to steer around it: straighten the bike, get of
 
 ## The hidden ones
 
-Night and rain hide potholes — night-riding-motorbike-safety-vietnam and flooded-streets-riding-motorbike-vietnam cover those conditions. Riding in the wheel tracks of cars is a decent default: cars have already found the surface that survives.
+Night and rain hide potholes — [Riding a Motorbike at Night in Vietnam]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}) and [Riding Through Flooded Streets on a Motorbike]({{ '/articles/flooded-streets-riding-motorbike-vietnam/' | relative_url }}) cover those conditions. Riding in the wheel tracks of cars is a decent default: cars have already found the surface that survives.
 
 ## What potholes do to a bike
 
-Rims crack, steering head bearings take a beating, and forks slowly lose their damping. After a heavy hit, if the bike tracks strangely or the bars feel vague, stop and look — rental-motorbike-feels-wrong covers what to do next on a rental, and tyre-care-motorbike-vietnam covers checking the tyre for sidewall damage.
+Rims crack, steering head bearings take a beating, and forks slowly lose their damping. After a heavy hit, if the bike tracks strangely or the bars feel vague, stop and look — [What to Do If Your Rental Motorbike Does Not Feel Normal]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}) covers what to do next on a rental, and [Tyre Care and Pressure Basics for Motorbikes]({{ '/articles/tyre-care-motorbike-vietnam/' | relative_url }}) covers checking the tyre for sidewall damage.
 
 ## The one-line version
 

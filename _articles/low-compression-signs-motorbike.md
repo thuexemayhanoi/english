@@ -26,13 +26,13 @@ Compression is the squeeze at the heart of an engine: air and fuel squeezed hard
 - **Hard starting, especially when cold.** A weak-squeezed engine needs more spins and more luck to fire.
 - **Power loss that tuning does not fix.** Slower top speed, sluggish hills, two-up struggles. Carb cleaning, new plugs and fresh oil all help a bit, none fixes it — the engine is running on leakage.
 - **The kick-start feel.** On a kick-start bike, healthy compression resists the lever; a suspiciously easy kick that spins fast is the classic hand-feel sign.
-- **Rough, uneven idle** that leans worse as the engine warms — heat expands worn parts and the leakage grows; see stalling-when-hot-motorbike.
-- **Unmistakable sounds in the end game**: piston slap when cold, deep knocks under load — the knock guide is engine-knocking-what-it-means. By then the diagnosis is academic; the question is the bill.
+- **Rough, uneven idle** that leans worse as the engine warms — heat expands worn parts and the leakage grows; see [Stalling When Hot: When a Warm Engine Gives Up]({{ '/articles/stalling-when-hot-motorbike/' | relative_url }}).
+- **Unmistakable sounds in the end game**: piston slap when cold, deep knocks under load — the knock guide is [Engine Knocking: What That Noise Is Trying to Tell You]({{ '/articles/engine-knocking-what-it-means/' | relative_url }}). By then the diagnosis is academic; the question is the bill.
 - **Blow-by**: pressure puffing out of the engine breather, oily mist, oil appearing in the airbox.
 
 ## What leaks
 
-Compression escapes through three doors: worn or stuck piston rings (the common one on high-mileage Vietnamese bikes), leaking valves (seats worn, clearances wrong — see valve-clearances-motorbike-basics), or a blown head gasket (often with tell-tale bubbles in the coolant or oil contamination on liquid-cooled bikes). A cylinder that is washed by a stuck-open fuel tap — see fuel-tap-reserve-motorbike — loses ring seal to fuel dilution. And engines that ran lean and hot — running-rich-vs-lean-motorbike — die precisely this way: rings annealed and bores scored.
+Compression escapes through three doors: worn or stuck piston rings (the common one on high-mileage Vietnamese bikes), leaking valves (seats worn, clearances wrong — see [Valve Clearances: Why They Matter on a Vietnamese Motorbike]({{ '/articles/valve-clearances-motorbike-basics/' | relative_url }})), or a blown head gasket (often with tell-tale bubbles in the coolant or oil contamination on liquid-cooled bikes). A cylinder that is washed by a stuck-open fuel tap — see [Fuel Taps and Reserve: Managing a Motorbike Without a Fuel Gauge]({{ '/articles/fuel-tap-reserve-motorbike/' | relative_url }}) — loses ring seal to fuel dilution. And engines that ran lean and hot — [Running Rich or Lean: Reading the Signs]({{ '/articles/running-rich-vs-lean-motorbike/' | relative_url }}) — die precisely this way: rings annealed and bores scored.
 
 ## The honest test
 
@@ -40,8 +40,8 @@ A compression test or a leak-down test, done by a mechanic, turns suspicion into
 
 ## Buying context
 
-A used bike's compression is a central part of any inspection — the full used-bike checklist is in used-motorbike-inspection-vietnam, and compression is exactly the fault that a polished bike with a rebuilt "cosmetics" budget hides best. Hard start, easy kick, tired idle: walk away or price in the rebuild.
+A used bike's compression is a central part of any inspection — the full used-bike checklist is in [Buying a Used Motorbike in Vietnam: Inspection Basics]({{ '/articles/used-motorbike-inspection-vietnam/' | relative_url }}), and compression is exactly the fault that a polished bike with a rebuilt "cosmetics" budget hides best. Hard start, easy kick, tired idle: walk away or price in the rebuild.
 
 ## Living with it
 
-Not every low-compression engine needs immediate surgery. A mildly tired engine that still starts, does not smoke badly and serves a short commute can be ridden gently for a long time: fresh oil at shorter intervals, no hard revving, no heavy loads. The strategy of keeping an old engine alive economically is in keeping-old-motorbike-alive-high-mileage. But know what you own: a tired engine cannot be trusted for long trips at highway speed, and pretending otherwise is how bikes die on far-from-home roads.
+Not every low-compression engine needs immediate surgery. A mildly tired engine that still starts, does not smoke badly and serves a short commute can be ridden gently for a long time: fresh oil at shorter intervals, no hard revving, no heavy loads. The strategy of keeping an old engine alive economically is in [Keeping an Old Motorbike Alive: High-Mileage Ownership]({{ '/articles/keeping-old-motorbike-alive-high-mileage/' | relative_url }}). But know what you own: a tired engine cannot be trusted for long trips at highway speed, and pretending otherwise is how bikes die on far-from-home roads.

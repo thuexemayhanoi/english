@@ -27,18 +27,18 @@ Look for fluid pools: petrol, brake fluid, oil. A bike leaking fluids after a fa
 
 ## The ten-minute sequence
 
-1. **Levers and bars.** Bent levers, a rotated handlebar, twisted risers. A rotated bar is normal after a drop; a *bent* bar is a replacement, not a straightening (bent aluminium fails later without warning). Check the throttle still snaps closed — cable damage hides here; the test is in throttle-cable-free-play-motorbike.
-2. **Brakes.** Lever and pedal feel, pad position, fluid leaks at calipers and master cylinders. A lever that feels spongy after a fall means air or fluid loss: do not ride to "see if it firms up". The full brake-check routine is brake-checks-motorbike-vietnam.
+1. **Levers and bars.** Bent levers, a rotated handlebar, twisted risers. A rotated bar is normal after a drop; a *bent* bar is a replacement, not a straightening (bent aluminium fails later without warning). Check the throttle still snaps closed — cable damage hides here; the test is in [Throttle Cable Care and Free Play on a Motorbike]({{ '/articles/throttle-cable-free-play-motorbike/' | relative_url }}).
+2. **Brakes.** Lever and pedal feel, pad position, fluid leaks at calipers and master cylinders. A lever that feels spongy after a fall means air or fluid loss: do not ride to "see if it firms up". The full brake-check routine is [Checking Brakes on a Motorbike]({{ '/articles/brake-checks-motorbike-vietnam/' | relative_url }}).
 3. **Clutch and gears.** Lever intact, cable end not frayed, gear lever present and functional.
-4. **Forks and steering.** Turn the bars lock to lock: notchiness is a bent stanchion or damaged bearings — the fork-seal and stanchion story is in leaking-fork-seals-motorbike. Look at the stanchions straight-on from the front: visible bends are real.
+4. **Forks and steering.** Turn the bars lock to lock: notchiness is a bent stanchion or damaged bearings — the fork-seal and stanchion story is in [Leaking Fork Seals]({{ '/articles/leaking-fork-seals-motorbike/' | relative_url }}). Look at the stanchions straight-on from the front: visible bends are real.
 5. **Frame and mounting points.** A hard fall can bend a frame invisibly — the symptom is a bike that no longer tracks straight. Check: does the handlebar point dead straight when the front wheel does? A bike that falls at 40 km/h deserves a mechanic's eye on the frame, not a rider's mirror check.
 6. **Wheels and spinning things.** Wheels spin freely? Rim dents at the impact side? A chain still on, at the right tension?
-7. **Fluids and covers.** Cracked covers weeping oil; coolant levels on liquid-cooled bikes — see coolant-radiator-care-liquid-cooled-motorbike.
-8. **Electrics and lights.** Everything switches on; aim rechecked — headlight-aim-adjustment-motorbike.
+7. **Fluids and covers.** Cracked covers weeping oil; coolant levels on liquid-cooled bikes — see [Coolant and Radiator Care for Liquid-Cooled Motorbikes]({{ '/articles/coolant-radiator-care-liquid-cooled-motorbike/' | relative_url }}).
+8. **Electrics and lights.** Everything switches on; aim rechecked — [Aiming Your Motorbike Headlight]({{ '/articles/headlight-aim-adjustment-motorbike/' | relative_url }}).
 
 ## The short test ride, done honestly
 
-In an empty area, at low speed: brakes both ends, gears up and down, steering lock to lock under way. Then a moderate-speed stretch: any wobble, pull, vibration or tracking problem means stop. The full handling-symptom decoder is in motorbike-handling-problems-wobble — and "it rides a little weird but okay" is not okay.
+In an empty area, at low speed: brakes both ends, gears up and down, steering lock to lock under way. Then a moderate-speed stretch: any wobble, pull, vibration or tracking problem means stop. The full handling-symptom decoder is in [Motorbike Handling Problems: Pulling, Wobble and Heavy Steering]({{ '/articles/motorbike-handling-problems-wobble/' | relative_url }}) — and "it rides a little weird but okay" is not okay.
 
 ## The invisible-damage rule
 

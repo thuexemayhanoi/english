@@ -23,7 +23,7 @@ internal_link_targets: "dashcams-motorbike-riding-vietnam, night-riding-motorbik
 
 ## Where the eyes are
 
-Drivers scan for car-sized threats; bikes register late. So place yourself where car eyes already look: behind and to the side of the car ahead in its mirrors, never tucked beside a wheel. When you approach a side street or a parked car, expect the pull-out and adjust speed and position together. The wider hazard mindset is in defensive-riding-motorbike-vietnam.
+Drivers scan for car-sized threats; bikes register late. So place yourself where car eyes already look: behind and to the side of the car ahead in its mirrors, never tucked beside a wheel. When you approach a side street or a parked car, expect the pull-out and adjust speed and position together. The wider hazard mindset is in [Defensive Riding on a Motorbike in Vietnam]({{ '/articles/defensive-riding-motorbike-vietnam/' | relative_url }}).
 
 ## Lights, honestly
 
@@ -31,11 +31,11 @@ Dipped beam in daylight measurably improves being seen; in fog, drizzle and dusk
 
 ## Move predictably
 
-A bike that appears from nowhere is often one that changed speed and lane at once. In traffic, change position gradually, and never overtake a queue on the curb side where nobody looks. At night, wear one bright or reflective layer — what-to-wear-riding-motorbike-vietnam covers the gear — and night-riding-motorbike-safety-vietnam covers the dark-weather problem fully.
+A bike that appears from nowhere is often one that changed speed and lane at once. In traffic, change position gradually, and never overtake a queue on the curb side where nobody looks. At night, wear one bright or reflective layer — [What to Wear Riding a Motorbike in Vietnam]({{ '/articles/what-to-wear-riding-motorbike-vietnam/' | relative_url }}) covers the gear — and [Riding a Motorbike at Night in Vietnam]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}) covers the dark-weather problem fully.
 
 ## Eye contact is a plan, not a greeting
 
-At junctions, wait for the look: if the driver's eyes meet yours, you have been registered; if they stare past you toward the cars behind, you are invisible. Filter past static queues only where exiting cars can see the bike lane forming — filtering-through-traffic-motorbike-vietnam covers that craft.
+At junctions, wait for the look: if the driver's eyes meet yours, you have been registered; if they stare past you toward the cars behind, you are invisible. Filter past static queues only where exiting cars can see the bike lane forming — [Filtering Through Traffic Safely on a Motorbike]({{ '/articles/filtering-through-traffic-motorbike-vietnam/' | relative_url }}) covers that craft.
 
 ## The one-line version
 

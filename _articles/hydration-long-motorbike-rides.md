@@ -32,12 +32,12 @@ Water is the base. Electrolytes matter on all-day rides: sweat drains salt, and 
 
 ## Carry it right
 
-Two bottles beat one: one in easy reach under the seat or in a bag, one spare. On a hot ride, freeze one the night before so it thaws as you go. what-to-carry-riding-motorbike-vietnam covers the rest of the day-kit.
+Two bottles beat one: one in easy reach under the seat or in a bag, one spare. On a hot ride, freeze one the night before so it thaws as you go. [What to Carry While Riding a Motorbike in Vietnam]({{ '/articles/what-to-carry-riding-motorbike-vietnam/' | relative_url }}) covers the rest of the day-kit.
 
 ## The warning signs
 
-Headache, irritability, dizziness, dark urine, a ride that suddenly feels hard at a speed that felt easy an hour ago — all are dehydration or its teammate heat exhaustion. The response is the same: stop in shade, drink steadily, cool down, and end the ride if you do not improve within half an hour. riding-fatigue-motorbike-vietnam explains how these states compound.
+Headache, irritability, dizziness, dark urine, a ride that suddenly feels hard at a speed that felt easy an hour ago — all are dehydration or its teammate heat exhaustion. The response is the same: stop in shade, drink steadily, cool down, and end the ride if you do not improve within half an hour. [Riding Fatigue on Long Motorbike Trips]({{ '/articles/riding-fatigue-motorbike-vietnam/' | relative_url }}) explains how these states compound.
 
 ## The habit, not the gear
 
-Hydration is the cheapest performance upgrade on any long ride. Alongside sun-protection-motorbike-riders and the heat discipline in hot-weather-riding-motorbike-vietnam, it is how riders stay sharp on the last — and most dangerous — hour of the day.
+Hydration is the cheapest performance upgrade on any long ride. Alongside [Sun Protection for Riders: UV on Long Rides]({{ '/articles/sun-protection-motorbike-riders/' | relative_url }}) and the heat discipline in [Hot Weather Riding on a Motorbike in Vietnam]({{ '/articles/hot-weather-riding-motorbike-vietnam/' | relative_url }}), it is how riders stay sharp on the last — and most dangerous — hour of the day.

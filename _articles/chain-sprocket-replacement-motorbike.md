@@ -24,7 +24,7 @@ A chain that jumps, clatters or demands adjustment every week is near the end of
 
 ## The signs of a finished chain
 
-Rust that does not wipe off, stiff or seized links that kink instead of bending smoothly, and adjustment at its limit — the rear wheel sits as far back as it can and the chain still has visible slack. By hand: pull the chain away from the middle of the rear sprocket. If it lifts far enough to see daylight under it, or the rollers are worn to hook shapes, replacement time has arrived. chain-maintenance-motorbike-vietnam covers everything before this point.
+Rust that does not wipe off, stiff or seized links that kink instead of bending smoothly, and adjustment at its limit — the rear wheel sits as far back as it can and the chain still has visible slack. By hand: pull the chain away from the middle of the rear sprocket. If it lifts far enough to see daylight under it, or the rollers are worn to hook shapes, replacement time has arrived. [Chain Maintenance on a Motorbike in Vietnam]({{ '/articles/chain-maintenance-motorbike-vietnam/' | relative_url }}) covers everything before this point.
 
 ## Why sprockets go with the chain
 
@@ -36,8 +36,8 @@ Healthy sprocket teeth look symmetrical, like a well-kept saw blade. Worn teeth 
 
 ## The rental check
 
-A chain with visible rust and slack at pickup is a fair conversation before you ride off — loose-chain-on-rental-motorbike covers what a slack chain does to a rental trip and what to say. Then check the wear items in motorbike-maintenance-basics-vietnam.
+A chain with visible rust and slack at pickup is a fair conversation before you ride off — [What to Do If the Chain Feels Loose on a Rental Bike]({{ '/articles/loose-chain-on-rental-motorbike/' | relative_url }}) covers what a slack chain does to a rental trip and what to say. Then check the wear items in [Motorbike Maintenance Basics for Vietnam]({{ '/articles/motorbike-maintenance-basics-vietnam/' | relative_url }}).
 
 ## The work itself
 
-Replacement needs the right tools, correct tension and alignment after fitting — both wheels must run true or the new chain wears crooked. Choose a shop that does it daily — motorbike-service-where-vietnam — and ask to see the worn parts. Any good mechanic enjoys showing you exactly what finished looks like.
+Replacement needs the right tools, correct tension and alignment after fitting — both wheels must run true or the new chain wears crooked. Choose a shop that does it daily — [Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }}) — and ask to see the worn parts. Any good mechanic enjoys showing you exactly what finished looks like.

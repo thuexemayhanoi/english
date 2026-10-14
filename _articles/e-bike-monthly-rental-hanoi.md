@@ -28,7 +28,7 @@ The E-Bike has a published daily rate of 200,000 VND. There is no published week
 
 ## Where e-bikes fit
 
-E-bikes make sense for riders whose daily loop is short and predictable — a few kilometres between home, work and shops — and for riders who prefer not to handle a petrol bike at all. For longer cross-city commutes, the charging time and range become real constraints; the general trade-offs are covered in best-motorbike-for-commuting-hanoi.
+E-bikes make sense for riders whose daily loop is short and predictable — a few kilometres between home, work and shops — and for riders who prefer not to handle a petrol bike at all. For longer cross-city commutes, the charging time and range become real constraints; the general trade-offs are covered in [Best Motorbike for Commuting in Hanoi]({{ '/articles/best-motorbike-for-commuting-hanoi/' | relative_url }}).
 
 ## Legal note
 
@@ -42,4 +42,4 @@ Before committing to a month on an e-bike: where will you charge it, does your b
 
 An E-Bike month is possible, but there is no published monthly rate — contact the shop to confirm price and availability, and sort out home charging first.
 
-For daily electric commuting routines see electric-motorbike-commuting-hanoi, and for licence and document questions for foreign renters see can-foreigners-rent-electric-bike-vietnam.
+For daily electric commuting routines see [Commuting on an Electric Motorbike in Hanoi: A Practical Guide]({{ '/articles/electric-motorbike-commuting-hanoi/' | relative_url }}), and for licence and document questions for foreign renters see [Can Foreigners Rent an E-Bike or Electric Motorbike in Vietnam?]({{ '/articles/can-foreigners-rent-electric-bike-vietnam/' | relative_url }}).

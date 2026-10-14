@@ -24,7 +24,7 @@ When a bike pulls, wobbles or steers heavily, it is not being temperamental — 
 
 ## Pulling to one side
 
-The usual causes, in order of likelihood: uneven tyre pressure (a five-minute check — tyre-care-motorbike-vietnam), a bent or dented rim after a pothole strike (potholes-bad-roads-motorbike-vietnam explains how it happens), unequal tyre wear, a dragging brake on one side, or after a fall, a twisted handlebar or fork alignment. If pressure equalization does not fix the pull, get it inspected before riding far.
+The usual causes, in order of likelihood: uneven tyre pressure (a five-minute check — [Tyre Care and Pressure Basics for Motorbikes]({{ '/articles/tyre-care-motorbike-vietnam/' | relative_url }})), a bent or dented rim after a pothole strike ([Potholes and Bad Roads: Protecting Yourself and Your Motorbike]({{ '/articles/potholes-bad-roads-motorbike-vietnam/' | relative_url }}) explains how it happens), unequal tyre wear, a dragging brake on one side, or after a fall, a twisted handlebar or fork alignment. If pressure equalization does not fix the pull, get it inspected before riding far.
 
 ## Speed wobble
 
@@ -36,4 +36,4 @@ Stiff, reluctant steering is almost always dried or overtightened steering-head 
 
 ## The final-notice symptoms
 
-Any handling change after a crash, a curb strike or loading the bike heavily should be treated as structural until inspected. And once the handling is fixed, verify the fix in a safe spot with a few gentle stops and figure-eights — the drills in emergency-braking-motorbike-vietnam — before trusting the bike back into dense traffic.
+Any handling change after a crash, a curb strike or loading the bike heavily should be treated as structural until inspected. And once the handling is fixed, verify the fix in a safe spot with a few gentle stops and figure-eights — the drills in [Emergency Braking on a Motorbike in Vietnam]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}) — before trusting the bike back into dense traffic.

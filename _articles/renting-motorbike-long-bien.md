@@ -28,25 +28,25 @@ Long Bien is built around the river: the historic Long Bien bridge on one side, 
 
 ## Traffic character
 
-Nguyen Van Cu is a broad dual-carriageway artery that moves faster than Old Quarter streets: expect higher speeds, more trucks from the direction of the wholesale markets, and longer gaps between turns. The area around Long Bien market and the Gia Lam side gets dense and chaotic in the mornings. The riding approach for faster arterials is in best-motorbike-for-hanoi-traffic.
+Nguyen Van Cu is a broad dual-carriageway artery that moves faster than Old Quarter streets: expect higher speeds, more trucks from the direction of the wholesale markets, and longer gaps between turns. The area around Long Bien market and the Gia Lam side gets dense and chaotic in the mornings. The riding approach for faster arterials is in [Best Motorbike for Hanoi Traffic: What Actually Works]({{ '/articles/best-motorbike-for-hanoi-traffic/' | relative_url }}).
 
 ## Why rental from here works well
 
-Starting a rental from Long Bien gives easy access in every direction: straight across the bridges into Hoan Kiem's Old Quarter, up the dyke roads toward West Lake, or east toward Gia Lam and the Bat Trang road — the most popular day trip runs directly through this district. The shop's hours are 09:00–21:00 daily; pickup at the shop or a delivery arrangement elsewhere in Hanoi can be discussed case by case — see motorbike-rental-pickup-or-delivery-hanoi and how-to-rent-a-motorbike-hanoi for the process.
+Starting a rental from Long Bien gives easy access in every direction: straight across the bridges into Hoan Kiem's Old Quarter, up the dyke roads toward West Lake, or east toward Gia Lam and the Bat Trang road — the most popular day trip runs directly through this district. The shop's hours are 09:00–21:00 daily; pickup at the shop or a delivery arrangement elsewhere in Hanoi can be discussed case by case — see [Shop Pickup vs Delivery When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) and [How to Rent a Motorbike in Hanoi: A Step-by-Step Guide]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}) for the process.
 
 ## Parking around the district
 
-Riverside spots and market areas use attendant lots; the shop street itself mixes kerbside parking with small lots. The general rules are in where-to-park-motorbike-hanoi. If you ride across to the Old Quarter, plan parking there rather than improvising — central lots fill by evening.
+Riverside spots and market areas use attendant lots; the shop street itself mixes kerbside parking with small lots. The general rules are in [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}). If you ride across to the Old Quarter, plan parking there rather than improvising — central lots fill by evening.
 
 ## Routes worth knowing from Long Bien
 
 - The dyke road west along the river, an unusually calm ride by Hanoi standards
-- The Bat Trang ceramics road east — see best-motorbike-for-day-trips-from-hanoi
+- The Bat Trang ceramics road east — see [Best Motorbike for Day Trips from Hanoi]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }})
 - The Long Bien bridge at sunset, on foot or by bike, toward the vegetable-island lanes of the riverbank
 
 ## Commuting from Long Bien
 
-Cross-river commuting is the one structural reality of the district: whichever bridge you use, plan the approach street carefully, because bridge junctions are where rush hour concentrates. The commuting bike logic is in best-motorbike-for-commuting-hanoi.
+Cross-river commuting is the one structural reality of the district: whichever bridge you use, plan the approach street carefully, because bridge junctions are where rush hour concentrates. The commuting bike logic is in [Best Motorbike for Commuting in Hanoi]({{ '/articles/best-motorbike-for-commuting-hanoi/' | relative_url }}).
 
 ## The short version
 

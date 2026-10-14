@@ -28,15 +28,15 @@ A household rental is simply two rental agreements — or one agreement covering
 
 ## Deposits multiply
 
-The deposit is typically 2,000,000–5,000,000 VND per bike depending on vehicle and conditions, so a two-bike household should budget for two deposits. How deposits are held and returned is covered in motorbike-rental-deposit-monthly-hanoi, and it applies per bike, not per household.
+The deposit is typically 2,000,000–5,000,000 VND per bike depending on vehicle and conditions, so a two-bike household should budget for two deposits. How deposits are held and returned is covered in [Deposits for Monthly Motorbike Rental in Hanoi]({{ '/articles/motorbike-rental-deposit-monthly-hanoi/' | relative_url }}), and it applies per bike, not per household.
 
 ## Who may ride which bike
 
-This matters more than most renters expect. Vietnamese traffic law treats riding a bike you are not permitted to ride as a serious offence, and the rental agreement typically names who may use each bike. Swapping bikes between partners is a common habit and a common problem — see lending-motorbike-unlicensed-rider-vietnam for the legal side, and confirm with the shop what the agreement allows.
+This matters more than most renters expect. Vietnamese traffic law treats riding a bike you are not permitted to ride as a serious offence, and the rental agreement typically names who may use each bike. Swapping bikes between partners is a common habit and a common problem — see [Lending Your Motorbike to an Unlicensed Rider in Vietnam]({{ '/articles/lending-motorbike-unlicensed-rider-vietnam/' | relative_url }}) for the legal side, and confirm with the shop what the agreement allows.
 
 ## Maintenance and incidents
 
-Each bike follows the normal rules: shop maintenance for oil, chain and inspection, renter care daily. An incident on one bike does not affect the other agreement, but damage claims on both at return time get complicated fast — keep separate photos and logs per bike, as rental-motorbike-inspection-checklist recommends.
+Each bike follows the normal rules: shop maintenance for oil, chain and inspection, renter care daily. An incident on one bike does not affect the other agreement, but damage claims on both at return time get complicated fast — keep separate photos and logs per bike, as [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) recommends.
 
 ## The one-line version
 

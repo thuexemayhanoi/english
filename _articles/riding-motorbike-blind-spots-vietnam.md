@@ -31,11 +31,11 @@ Blind zones are for passing through, not travelling in. Alongside a bus, either 
 
 ## Passing
 
-Pass decisively and on the correct side — the legal overtaking rules are in overtaking-rules-motorbike-vietnam. Before moving out, check your own mirror: another bike is usually about to pass you. Never cut back in front of a heavy vehicle; its stopping distance is far longer than a car's, and the driver may not even know you are there.
+Pass decisively and on the correct side — the legal overtaking rules are in [Overtaking Rules for Motorbikes in Vietnam]({{ '/articles/overtaking-rules-motorbike-vietnam/' | relative_url }}). Before moving out, check your own mirror: another bike is usually about to pass you. Never cut back in front of a heavy vehicle; its stopping distance is far longer than a car's, and the driver may not even know you are there.
 
 ## The turning truck
 
-The deadliest blind-spot scenario is a heavy vehicle turning across your path. If a bus or truck ahead signals, slows or drifts near a junction, assume it will turn across you and drop back — defensive-riding-motorbike-vietnam covers the general mindset.
+The deadliest blind-spot scenario is a heavy vehicle turning across your path. If a bus or truck ahead signals, slows or drifts near a junction, assume it will turn across you and drop back — [Defensive Riding on a Motorbike in Vietnam]({{ '/articles/defensive-riding-motorbike-vietnam/' | relative_url }}) covers the general mindset.
 
 ## The one-line version
 

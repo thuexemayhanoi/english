@@ -31,8 +31,8 @@ A snug fit, a real sole with grip for wet tiles and muddy verge, and material ov
 
 ## Riding boots, honestly
 
-Proper riding boots protect best but cook your feet in Vietnam's heat, so most riders who own them save them for mountain trips. If you are riding long routes like the Ha Giang loop, ankle protection earns its place; for Hanoi commuting, good closed shoes are the realistic everyday answer. what-to-wear-riding-motorbike-vietnam covers the rest of the outfit for the climate.
+Proper riding boots protect best but cook your feet in Vietnam's heat, so most riders who own them save them for mountain trips. If you are riding long routes like the Ha Giang loop, ankle protection earns its place; for Hanoi commuting, good closed shoes are the realistic everyday answer. [What to Wear Riding a Motorbike in Vietnam]({{ '/articles/what-to-wear-riding-motorbike-vietnam/' | relative_url }}) covers the rest of the outfit for the climate.
 
 ## If it goes wrong anyway
 
-Foot and ankle wounds are among the slowest to heal. In any fall that involves the foot, get the shoe off carefully, check for anything deeper than a scrape, and clean it — the first-response sequence at motorbike-accident-first-aid-vietnam applies to small incidents too. And check yourself against the habits in new-rider-safety-mistakes-vietnam — flip-flops on a motorbike are on that list for a reason.
+Foot and ankle wounds are among the slowest to heal. In any fall that involves the foot, get the shoe off carefully, check for anything deeper than a scrape, and clean it — the first-response sequence at [First Response at a Motorbike Accident in Vietnam]({{ '/articles/motorbike-accident-first-aid-vietnam/' | relative_url }}) applies to small incidents too. And check yourself against the habits in [New Rider Mistakes on Vietnamese Roads]({{ '/articles/new-rider-safety-mistakes-vietnam/' | relative_url }}) — flip-flops on a motorbike are on that list for a reason.

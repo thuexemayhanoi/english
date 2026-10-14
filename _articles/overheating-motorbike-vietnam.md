@@ -27,11 +27,11 @@ An engine that smells hot (a sharp, metallic burnt-oil smell), a loss of power t
 
 ## What heat plus traffic does
 
-Air-cooled engines are cooled by moving air; a jam is their worst case. In long stationary heat, the polite response is: engine off while parked in the jam if it is safe, or work through to keep a slow flow. This is normal physics, not a fault — hot-weather-riding-motorbike-vietnam covers the rider side of hot days.
+Air-cooled engines are cooled by moving air; a jam is their worst case. In long stationary heat, the polite response is: engine off while parked in the jam if it is safe, or work through to keep a slow flow. This is normal physics, not a fault — [Hot Weather Riding on a Motorbike in Vietnam]({{ '/articles/hot-weather-riding-motorbike-vietnam/' | relative_url }}) covers the rider side of hot days.
 
 ## What faults look like
 
-Overheating that happens regardless of traffic points at: low or old oil (checking-engine-oil-motorbike covers checking), a slipping clutch, a dragging brake (a rear brake adjusted too tight makes the engine fight it constantly), or a fuel mixture problem on carburetted bikes. Any of these means the bike goes to a workshop this week — motorbike-service-when-vietnam covers the timing conversation.
+Overheating that happens regardless of traffic points at: low or old oil ([Checking Engine Oil on a Motorbike]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }}) covers checking), a slipping clutch, a dragging brake (a rear brake adjusted too tight makes the engine fight it constantly), or a fuel mixture problem on carburetted bikes. Any of these means the bike goes to a workshop this week — [When to Service a Motorbike in Vietnam]({{ '/articles/motorbike-service-when-vietnam/' | relative_url }}) covers the timing conversation.
 
 ## What not to do
 

@@ -23,18 +23,18 @@ An intercom turns two riders on one bike into a conversation, and a group ride i
 
 ## What they actually do
 
-Three jobs: pillion conversation, rider-to-rider group links, and audio from the phone — navigation prompts and music. For the two-up case, the killer feature is the mundane one: "pothole — hold on", "turning left here", "let's stop". For groups, the riding discipline of staying together is covered in group-riding-motorbike-vietnam, and an intercom changes it from hand-signal telegraphy to a spoken plan.
+Three jobs: pillion conversation, rider-to-rider group links, and audio from the phone — navigation prompts and music. For the two-up case, the killer feature is the mundane one: "pothole — hold on", "turning left here", "let's stop". For groups, the riding discipline of staying together is covered in [Riding in a Group: Staying Together Safely]({{ '/articles/group-riding-motorbike-vietnam/' | relative_url }}), and an intercom changes it from hand-signal telegraphy to a spoken plan.
 
 ## Fitting without wrecking the helmet
 
-Intercoms clamp to the helmet's shell with speakers inside the padding and a boom or button microphone. Two honest cautions: first, some manufacturers advise against drilling or modifying shells — clamp mounts exist to avoid exactly that; second, the speakers sit close to the ears, and at speed, wind noise means riders turn volume up, which is hearing damage in slow motion. Many riders use foam or earplugs-plus-intercom; the point is to be deliberate about volume. The helmet-side care and replacement rules live in helmet-care-replacing-guide-vietnam — an intercom transfers to a new helmet, a cracked shell does not get one.
+Intercoms clamp to the helmet's shell with speakers inside the padding and a boom or button microphone. Two honest cautions: first, some manufacturers advise against drilling or modifying shells — clamp mounts exist to avoid exactly that; second, the speakers sit close to the ears, and at speed, wind noise means riders turn volume up, which is hearing damage in slow motion. Many riders use foam or earplugs-plus-intercom; the point is to be deliberate about volume. The helmet-side care and replacement rules live in [Helmet Care: Cleaning, Storage and Knowing When to Replace]({{ '/articles/helmet-care-replacing-guide-vietnam/' | relative_url }}) — an intercom transfers to a new helmet, a cracked shell does not get one.
 
 ## Full-face vs open-face matters
 
-Intercoms behave differently per helmet style: a full-face seals the mic in quiet air, giving the best clarity; an open-face's mic sits in the windstream and picks up noise, though windsock-style mics mitigate it. This is one of the quiet practical arguments in the helmet-style trade-off covered in full-face-vs-open-face-helmet-vietnam.
+Intercoms behave differently per helmet style: a full-face seals the mic in quiet air, giving the best clarity; an open-face's mic sits in the windstream and picks up noise, though windsock-style mics mitigate it. This is one of the quiet practical arguments in the helmet-style trade-off covered in [Full-Face vs Open-Face Helmets for Riding in Vietnam]({{ '/articles/full-face-vs-open-face-helmet-vietnam/' | relative_url }}).
 
 ## Battery, rain and reality
 
-Wet-season commuting and battery life are the boring constraints: check the runtime against your actual daily ride, keep the unit's USB port dry, and accept that mounting hardware vibrates loose like everything else on Vietnamese roads. The rider-tech neighbourhood — dashcams and their power/wiring realities — is covered in dashcams-motorbike-riding-vietnam, and shared wiring habits apply.
+Wet-season commuting and battery life are the boring constraints: check the runtime against your actual daily ride, keep the unit's USB port dry, and accept that mounting hardware vibrates loose like everything else on Vietnamese roads. The rider-tech neighbourhood — dashcams and their power/wiring realities — is covered in [Dashcams on Motorbikes in Vietnam: Worth It?]({{ '/articles/dashcams-motorbike-riding-vietnam/' | relative_url }}), and shared wiring habits apply.
 
 Talk to your pillion, hear your navigation, mute the traffic's noise instead of your own hearing.

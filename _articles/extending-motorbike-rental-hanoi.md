@@ -24,23 +24,23 @@ Needing more time on a monthly rental is the norm, not the exception — plans i
 
 ## Arrange it before the term ends
 
-An extension agreed in advance is a renewal at the agreed rate. An extension arranged after the term has ended is, from the shop's side, a late return: 20,000 VND per hour, and more than six hours late may be charged as a full additional rental day. The clean pattern is a message in the final week of your term: "staying longer — renewing for another month from [date]". See late-return-monthly-rental-hanoi for the other side of that line.
+An extension agreed in advance is a renewal at the agreed rate. An extension arranged after the term has ended is, from the shop's side, a late return: 20,000 VND per hour, and more than six hours late may be charged as a full additional rental day. The clean pattern is a message in the final week of your term: "staying longer — renewing for another month from [date]". See [Returning a Long-Term Rental Motorbike Late in Hanoi]({{ '/articles/late-return-monthly-rental-hanoi/' | relative_url }}) for the other side of that line.
 
 ## How the rate is confirmed
 
-For models with a published monthly rate (motorbike-rental-monthly-price-hanoi), the renewal follows that rate. For anything else — a different period length, a model without a published monthly rate, or a longer-term arrangement — the rate is confirmed directly with the shop at renewal. Availability of your specific bike for the extended period also needs confirming: contact us to confirm current availability, and the earlier you ask, the more likely your own bike stays yours.
+For models with a published monthly rate ([Motorbike Rental Monthly Prices in Hanoi]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }})), the renewal follows that rate. For anything else — a different period length, a model without a published monthly rate, or a longer-term arrangement — the rate is confirmed directly with the shop at renewal. Availability of your specific bike for the extended period also needs confirming: contact us to confirm current availability, and the earlier you ask, the more likely your own bike stays yours.
 
 ## What stays the same, what changes
 
-The deposit typically carries across a renewal unchanged, since the same bike stays with you — confirm this rather than assume it. The agreement terms otherwise persist: maintenance included, consumables as agreed, the same return standard. If anything material changes (address, usage, an added rider), flag it at renewal so the agreement stays accurate — see motorbike-rental-agreement-long-term-hanoi.
+The deposit typically carries across a renewal unchanged, since the same bike stays with you — confirm this rather than assume it. The agreement terms otherwise persist: maintenance included, consumables as agreed, the same return standard. If anything material changes (address, usage, an added rider), flag it at renewal so the agreement stays accurate — see [Long-Term Motorbike Rental Agreements in Hanoi]({{ '/articles/motorbike-rental-agreement-long-term-hanoi/' | relative_url }}).
 
 ## Rolling renewals
 
-For open-ended stays, the month-to-month pattern is standard: renew each month with a short message ahead of the end date. Nomads and short-contract workers live happily on this pattern — the nomad-specific version is in nomads-monthly-motorbike-hanoi, and multi-month arrangements in three-month-motorbike-rental-hanoi.
+For open-ended stays, the month-to-month pattern is standard: renew each month with a short message ahead of the end date. Nomads and short-contract workers live happily on this pattern — the nomad-specific version is in [Month-to-Month Motorbike Rental for Digital Nomads in Hanoi]({{ '/articles/nomads-monthly-motorbike-hanoi/' | relative_url }}), and multi-month arrangements in [Three-Month Motorbike Rental in Hanoi]({{ '/articles/three-month-motorbike-rental-hanoi/' | relative_url }}).
 
 ## Changing the bike at renewal
 
-A renewal is also the natural moment to change models if your needs shifted — more power, more storage, a passenger. The mid-term swap process is in switching-bikes-mid-rental-hanoi; doing it at the renewal boundary avoids mid-term logistics entirely.
+A renewal is also the natural moment to change models if your needs shifted — more power, more storage, a passenger. The mid-term swap process is in [Switching Bikes Mid-Rental in Hanoi]({{ '/articles/switching-bikes-mid-rental-hanoi/' | relative_url }}); doing it at the renewal boundary avoids mid-term logistics entirely.
 
 ## The one-line version
 

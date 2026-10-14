@@ -24,7 +24,7 @@ A monthly rental is won or lost in its first week. Get the start right and the r
 
 ## Day 0: the handover
 
-Do the full inspection with the checklist in rental-motorbike-inspection-checklist — brakes, lights, horn, mirrors, tyres, existing scratches photographed, fuel cap located, cold start demonstrated. Sign nothing, pay nothing, until the bike's condition is documented. Then agree the monthly terms out loud and in a message: rate, deposit (typically 2,000,000–5,000,000 VND), late-return rule, consumables responsibility, who to call if something breaks. The long-term-specific terms are listed in motorbike-rental-agreement-long-term-hanoi.
+Do the full inspection with the checklist in [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) — brakes, lights, horn, mirrors, tyres, existing scratches photographed, fuel cap located, cold start demonstrated. Sign nothing, pay nothing, until the bike's condition is documented. Then agree the monthly terms out loud and in a message: rate, deposit (typically 2,000,000–5,000,000 VND), late-return rule, consumables responsibility, who to call if something breaks. The long-term-specific terms are listed in [Long-Term Motorbike Rental Agreements in Hanoi]({{ '/articles/motorbike-rental-agreement-long-term-hanoi/' | relative_url }}).
 
 ## Day 1: the learning ride
 
@@ -32,17 +32,17 @@ Ride the bike on routes you know, in daylight, without passengers or cargo. Lear
 
 ## Days 2-3: the parking reconnaissance
 
-Walk or ride your home-and-work routes and locate the actual parking you will use daily: the attended lot near home, the lot or kerb arrangement at work or campus, the weekend spots you will visit. Daily parking is the hidden infrastructure of a monthly rental — the routine is in parking-monthly-renter-hanoi, the general rules in where-to-park-motorbike-hanoi.
+Walk or ride your home-and-work routes and locate the actual parking you will use daily: the attended lot near home, the lot or kerb arrangement at work or campus, the weekend spots you will visit. Daily parking is the hidden infrastructure of a monthly rental — the routine is in [Daily Parking as a Monthly Renter in Hanoi]({{ '/articles/parking-monthly-renter-hanoi/' | relative_url }}), the general rules in [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}).
 
 ## Days 4-7: the rhythm and the baseline
 
-- Set your check routine going: a weekly once-over of tyre pressure, chain look, lights and horn — the schedule is in monthly-rental-inspection-schedule-hanoi
+- Set your check routine going: a weekly once-over of tyre pressure, chain look, lights and horn — the schedule is in [A Month with a Rental Motorbike: Inspection and Check Routine]({{ '/articles/monthly-rental-inspection-schedule-hanoi/' | relative_url }})
 - Note the fuel consumption you actually get, so a sudden change means something
-- Save the shop's number, and use it early for anything that feels off — rental-motorbike-feels-wrong lists what justifies a visit
+- Save the shop's number, and use it early for anything that feels off — [What to Do If Your Rental Motorbike Does Not Feel Normal]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}) lists what justifies a visit
 
 ## The habit that carries the month
 
-One message to the shop in the first week — "settling in well, all good so far" — does two things: it confirms your contact channel works, and it opens the relationship that makes maintenance visits and extensions easy later. The support pattern across the whole term is covered in maintenance-during-monthly-rental-hanoi.
+One message to the shop in the first week — "settling in well, all good so far" — does two things: it confirms your contact channel works, and it opens the relationship that makes maintenance visits and extensions easy later. The support pattern across the whole term is covered in [Maintenance During a Monthly Motorbike Rental in Hanoi]({{ '/articles/maintenance-during-monthly-rental-hanoi/' | relative_url }}).
 
 ## The one-line version
 

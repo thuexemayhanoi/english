@@ -19,7 +19,7 @@ sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
 internal_link_targets: "spongy-brakes-brake-fluid-motorbike, brake-checks-motorbike-vietnam, emergency-braking-motorbike-vietnam, outside-repair-shops-rental-motorbike, motorbike-service-where-vietnam"
 ---
-Brake pads are consumables with a courtesy warning period: they squeal, they feel thinner, they take longer to stop you — and then they stop warning. The inspection routine is in brake-checks-motorbike-vietnam; this article covers the replacement side. Pad wear limits and exact parts are model-specific — the manual or a qualified mechanic is the authority.
+Brake pads are consumables with a courtesy warning period: they squeal, they feel thinner, they take longer to stop you — and then they stop warning. The inspection routine is in [Checking Brakes on a Motorbike]({{ '/articles/brake-checks-motorbike-vietnam/' | relative_url }}); this article covers the replacement side. Pad wear limits and exact parts are model-specific — the manual or a qualified mechanic is the authority.
 
 ## The signs that pads are done
 
@@ -31,7 +31,7 @@ Pads come in pairs per caliper, and both sides are always replaced together; the
 
 ## Cost logic
 
-Pads are inexpensive relative to what they protect; discs and calipers are not. The economics are simple: replace pads at the squeal stage and the repair stays small. Vietnamese workshops do this work quickly and at reasonable cost — motorbike-service-where-vietnam covers choosing where.
+Pads are inexpensive relative to what they protect; discs and calipers are not. The economics are simple: replace pads at the squeal stage and the repair stays small. Vietnamese workshops do this work quickly and at reasonable cost — [Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }}) covers choosing where.
 
 ## On a rental
 

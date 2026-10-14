@@ -27,11 +27,11 @@ Ride in a mid gear at low speed, and open the throttle briskly. Healthy result: 
 
 ## Cause one: free play adjustment
 
-The clutch cable needs a small amount of free play at the lever (the figure is in the manual). With zero free play, the cable itself partially pulls the clutch open — a permanently half-pulled clutch slips under load. Check at the lever first: a small gap before resistance, then a light adjust at the lever or engine-end adjuster. If the cable adjuster is out of range, the engine-case adjuster may need a mechanic's hand. A wrongly adjusted clutch also causes the opposite complaint, drag — the creep-and-neutral story in clutch-drag-hard-neutral-motorbike.
+The clutch cable needs a small amount of free play at the lever (the figure is in the manual). With zero free play, the cable itself partially pulls the clutch open — a permanently half-pulled clutch slips under load. Check at the lever first: a small gap before resistance, then a light adjust at the lever or engine-end adjuster. If the cable adjuster is out of range, the engine-case adjuster may need a mechanic's hand. A wrongly adjusted clutch also causes the opposite complaint, drag — the creep-and-neutral story in [Clutch Drag: Creeping and Hard-to-Find Neutral]({{ '/articles/clutch-drag-hard-neutral-motorbike/' | relative_url }}).
 
 ## Cause two: the oil change
 
-A clutch that starts slipping within days of an oil change is rarely coincidence. Wet clutches share oil with the gearbox, and oils that are not specified for wet-clutch use contain friction modifiers that make plates glide instead of grip. This is why the manual's oil spec matters — see manual-gearbox-oil-change-motorbike. Sometimes an oil-specified flush and correct oil restore grip; sometimes the damage is done. Either way, do not ride hard on a slipping clutch while "waiting to see".
+A clutch that starts slipping within days of an oil change is rarely coincidence. Wet clutches share oil with the gearbox, and oils that are not specified for wet-clutch use contain friction modifiers that make plates glide instead of grip. This is why the manual's oil spec matters — see [Gearbox Oil on Manual Motorbikes]({{ '/articles/manual-gearbox-oil-change-motorbike/' | relative_url }}). Sometimes an oil-specified flush and correct oil restore grip; sometimes the damage is done. Either way, do not ride hard on a slipping clutch while "waiting to see".
 
 ## Cause three: worn plates and springs
 
@@ -39,7 +39,7 @@ Friction plates thin with use, and clutch springs weaken with heat and age. Glaz
 
 ## Cause four: the mechanism behind the cover
 
-Worn clutch lifter mechanisms, notched release levers, or a dragging, frayed cable inside its sleeve can all behave like slipping or drag. A cable with a gritty feel deserves replacement before diagnosis continues — the roadside failure mode of these cables is in broken-clutch-cable-motorbike-roadside.
+Worn clutch lifter mechanisms, notched release levers, or a dragging, frayed cable inside its sleeve can all behave like slipping or drag. A cable with a gritty feel deserves replacement before diagnosis continues — the roadside failure mode of these cables is in [A Broken Clutch Cable: The Roadside Reality]({{ '/articles/broken-clutch-cable-motorbike-roadside/' | relative_url }}).
 
 ## Riding habits that extend clutch life
 
@@ -48,4 +48,4 @@ Worn clutch lifter mechanisms, notched release levers, or a dragging, frayed cab
 - At stops, shift to neutral for long lights rather than holding the clutch in for minutes.
 - Do not launch at high revs with a passenger and luggage — the load the clutch must transmit is exactly what a worn one cannot.
 
-When the adjustment range is exhausted and the correct oil is in, hand the bike to a mechanic with a description of the test result — describing symptoms accurately is half the value of talking-to-mechanic-vietnam. A clutch done at the right moment costs a set of plates; done late, it glows through the whole gearbox's oil.
+When the adjustment range is exhausted and the correct oil is in, hand the bike to a mechanic with a description of the test result — describing symptoms accurately is half the value of [Getting Repairs Done: Talking to a Vietnamese Mechanic]({{ '/articles/talking-to-mechanic-vietnam/' | relative_url }}). A clutch done at the right moment costs a set of plates; done late, it glows through the whole gearbox's oil.

@@ -27,15 +27,15 @@ Left arm out and pointing left: turning or changing lanes left. Right arm out, p
 
 ## When hands matter most
 
-Group rides, where one rider sees the hazard first — visibility-riding-motorbike-vietnam covers making sure the group sees you. Broken indicators: the law requires working lighting and signalling equipment — motorbike-required-equipment-vietnam covers the legal list — and a hand is the honest backup for a dead bulb. In rain and dusk when indicator lights wash out, an arm out early is visible when a blinking amber is not.
+Group rides, where one rider sees the hazard first — [Being Seen: Visibility Tactics for Motorbike Riders]({{ '/articles/visibility-riding-motorbike-vietnam/' | relative_url }}) covers making sure the group sees you. Broken indicators: the law requires working lighting and signalling equipment — [Required Equipment on a Motorbike in Vietnam]({{ '/articles/motorbike-required-equipment-vietnam/' | relative_url }}) covers the legal list — and a hand is the honest backup for a dead bulb. In rain and dusk when indicator lights wash out, an arm out early is visible when a blinking amber is not.
 
 ## The limits
 
-Signals do not create priority. An arm out is an intention, not a permission slip: still check behind before moving, still assume the bus has not seen you. Filtering past a queue, an arm alone will not stop a car door — filtering-through-traffic-motorbike-vietnam covers that craft.
+Signals do not create priority. An arm out is an intention, not a permission slip: still check behind before moving, still assume the bus has not seen you. Filtering past a queue, an arm alone will not stop a car door — [Filtering Through Traffic Safely on a Motorbike]({{ '/articles/filtering-through-traffic-motorbike-vietnam/' | relative_url }}) covers that craft.
 
 ## To passengers and children
 
-A pillion can hold a bag while the rider signals; agreeing on that before moving is part of the pillion briefing in balancing-pillion-riding-motorbike-vietnam.
+A pillion can hold a bag while the rider signals; agreeing on that before moving is part of the pillion briefing in [Carrying a Passenger Safely on a Motorbike]({{ '/articles/balancing-pillion-riding-motorbike-vietnam/' | relative_url }}).
 
 ## The one-line version
 

@@ -23,7 +23,7 @@ Wind is the most underestimated riding hazard in Vietnam — invisible until a g
 
 ## Where gusts come from
 
-Trucks and buses push a bow wave of air as they pass, then suck you toward them as they clear. Expect it: loosen your grip slightly, keep your elbows bent and lean a touch into the passing vehicle. Bridges and embankments funnel wind — open Vietnamese bridges can hold a steady crosswind the entire span. See riding-motorbike-blind-spots-vietnam for the other side of passing heavy vehicles.
+Trucks and buses push a bow wave of air as they pass, then suck you toward them as they clear. Expect it: loosen your grip slightly, keep your elbows bent and lean a touch into the passing vehicle. Bridges and embankments funnel wind — open Vietnamese bridges can hold a steady crosswind the entire span. See [Blind Spots: Riding Around Buses and Trucks in Vietnam]({{ '/articles/riding-motorbike-blind-spots-vietnam/' | relative_url }}) for the other side of passing heavy vehicles.
 
 ## Crosswind technique
 
@@ -31,7 +31,7 @@ Ride slightly into the wind so the bike holds a straight line, and expect the sh
 
 ## Wind plus rain plus light bikes
 
-Small underbones and scooters — light wheels, high profiles — get moved around more than heavy bikes. If strong wind is forecast and your route is open, consider a heavier machine; best-motorbike-for-long-distance-vietnam covers that choice for open-road travel. Mountain passes add their own turbulence around ridgelines: mountain-pass-riding-motorbike-vietnam covers them.
+Small underbones and scooters — light wheels, high profiles — get moved around more than heavy bikes. If strong wind is forecast and your route is open, consider a heavier machine; [Best Motorbike for Long-Distance Riding in Vietnam]({{ '/articles/best-motorbike-for-long-distance-vietnam/' | relative_url }}) covers that choice for open-road travel. Mountain passes add their own turbulence around ridgelines: [Riding Mountain Passes on a Motorbike in Vietnam]({{ '/articles/mountain-pass-riding-motorbike-vietnam/' | relative_url }}) covers them.
 
 ## When to stop
 

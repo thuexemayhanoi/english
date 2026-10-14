@@ -23,21 +23,21 @@ A delivery rider in Hanoi covers a commuter's yearly mileage in two or three mon
 
 ## The severe-service mindset
 
-Manuals define the assumption; reality overrides it. For a high-usage rider, adopt the manual's *severe service* intervals where given, and where not given, shorten by judgement with a trusted mechanic — the scheduling framework is in motorbike-service-when-vietnam. Cheap and frequent beats big and rare: an oil change done at the right, shortened interval costs a fraction of what running it long costs in engine life.
+Manuals define the assumption; reality overrides it. For a high-usage rider, adopt the manual's *severe service* intervals where given, and where not given, shorten by judgement with a trusted mechanic — the scheduling framework is in [When to Service a Motorbike in Vietnam]({{ '/articles/motorbike-service-when-vietnam/' | relative_url }}). Cheap and frequent beats big and rare: an oil change done at the right, shortened interval costs a fraction of what running it long costs in engine life.
 
 ## The parts that carry the load
 
-- **Oil.** The number one item. Stop-start running with a hot engine shears oil fast. Check level *daily* (a minute at the first delivery of the day), change on a shortened interval; the level routine is in checking-engine-oil-motorbike.
-- **Chain.** Loaded starts and constant gear changes stretch chains; clean and adjust weekly, replace chain and sprockets as a set on time — chain-sprocket-replacement-motorbike. A chain failure mid-shift is not a schedule risk, it is a crash risk.
-- **Brakes.** City delivery uses brakes the way mountain roads do. Inspect pads *weekly* by eye — replace at the limit, and watch discs — brake-pads-replacement-motorbike-vietnam; the noise warnings are in brake-squeal-grinding-motorbike.
-- **Tyres.** Pressure checks every second day; punctures repaired properly, not bootlegged; replacement by wear — and by age, since high usage gets heat too: tyre-age-replace-by-date.
-- **Battery and charging.** Long idling, fans, GPS and phone charging strain the system: symptoms of a weakening charging system appear first in this duty cycle — charging-system-stator-basics-motorbike.
+- **Oil.** The number one item. Stop-start running with a hot engine shears oil fast. Check level *daily* (a minute at the first delivery of the day), change on a shortened interval; the level routine is in [Checking Engine Oil on a Motorbike]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }}).
+- **Chain.** Loaded starts and constant gear changes stretch chains; clean and adjust weekly, replace chain and sprockets as a set on time — [Chain and Sprocket Wear: Knowing When to Replace]({{ '/articles/chain-sprocket-replacement-motorbike/' | relative_url }}). A chain failure mid-shift is not a schedule risk, it is a crash risk.
+- **Brakes.** City delivery uses brakes the way mountain roads do. Inspect pads *weekly* by eye — replace at the limit, and watch discs — [Brake Pads: Signs, Replacement and What to Expect]({{ '/articles/brake-pads-replacement-motorbike-vietnam/' | relative_url }}); the noise warnings are in [Brake Squeal and Grinding: What Each Sound Means]({{ '/articles/brake-squeal-grinding-motorbike/' | relative_url }}).
+- **Tyres.** Pressure checks every second day; punctures repaired properly, not bootlegged; replacement by wear — and by age, since high usage gets heat too: [Tyre Age: When to Replace by Date, Not Wear]({{ '/articles/tyre-age-replace-by-date/' | relative_url }}).
+- **Battery and charging.** Long idling, fans, GPS and phone charging strain the system: symptoms of a weakening charging system appear first in this duty cycle — [Charging System Basics: The Stator and Regulator]({{ '/articles/charging-system-stator-basics-motorbike/' | relative_url }}).
 
 ## The habit layer
 
 - A one-minute walk-around at the start of every shift: leaks, tyre condition, lever feel, lights. High-usage faults give daily opportunities to be caught; missing a week of walk-arounds is how small faults become shift-enders.
 - A weekly deeper session: chain, cables, fasteners, everything switched on.
-- Fuel and oil records: consumption drift is the earliest engine-health telemetry a rider has; the economy-angle is in improving-fuel-economy-motorbike.
+- Fuel and oil records: consumption drift is the earliest engine-health telemetry a rider has; the economy-angle is in [Improving Fuel Economy on a Motorbike]({{ '/articles/improving-fuel-economy-motorbike/' | relative_url }}).
 
 ## Spending priority, honestly
 

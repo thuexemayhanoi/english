@@ -28,16 +28,16 @@ Inside the transmission cover: two pulleys joined by a rubber drive belt, with r
 
 ## Symptoms of a worn belt
 
-Slipping — revs rise faster than the bike accelerates — is the classic sign. Also: vibration that changes with speed, a whining or grinding from the transmission, difficulty pulling away, and a top speed the bike suddenly refuses to reach. Belts also shed dust into the cover; excessive black dust at service time means the belt and pulley faces are wearing each other. Transmission noises are covered further in diagnosing-motorbike-noises-vietnam.
+Slipping — revs rise faster than the bike accelerates — is the classic sign. Also: vibration that changes with speed, a whining or grinding from the transmission, difficulty pulling away, and a top speed the bike suddenly refuses to reach. Belts also shed dust into the cover; excessive black dust at service time means the belt and pulley faces are wearing each other. Transmission noises are covered further in [Diagnosing Motorbike Noises: A Rider's Guide]({{ '/articles/diagnosing-motorbike-noises-vietnam/' | relative_url }}).
 
 ## Variator and clutch wear
 
-Worn roller weights make take-off jerky and can hold revs oddly. A worn clutch makes the bike creep or grab from a standstill and shudder at low speed. These parts wear together, so a mechanic usually inspects the whole assembly when one piece shows wear — exact replacement intervals are per your manual and mileage, and the inspection itself is part of normal servicing — motorbike-service-when-vietnam.
+Worn roller weights make take-off jerky and can hold revs oddly. A worn clutch makes the bike creep or grab from a standstill and shudder at low speed. These parts wear together, so a mechanic usually inspects the whole assembly when one piece shows wear — exact replacement intervals are per your manual and mileage, and the inspection itself is part of normal servicing — [When to Service a Motorbike in Vietnam]({{ '/articles/motorbike-service-when-vietnam/' | relative_url }}).
 
 ## Why this is not a driveway job
 
-Opening a CVT cover needs the right tools, and reassembly mistakes can destroy the transmission in a ride. Choose a mechanic who does scooters daily — motorbike-service-where-vietnam covers how to pick one. A good shop will show you the old belt and rollers, which is the honest sign.
+Opening a CVT cover needs the right tools, and reassembly mistakes can destroy the transmission in a ride. Choose a mechanic who does scooters daily — [Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }}) covers how to pick one. A good shop will show you the old belt and rollers, which is the honest sign.
 
 ## The rental rider's shortcut
 
-You cannot inspect a CVT at pickup, but you can feel it: from a standstill, the bike should pull away smoothly with no shudder, slip or whine. Any of those is a conversation with the rental shop before you ride away — the rest of what to check at handover is in motorbike-maintenance-basics-vietnam.
+You cannot inspect a CVT at pickup, but you can feel it: from a standstill, the bike should pull away smoothly with no shudder, slip or whine. Any of those is a conversation with the rental shop before you ride away — the rest of what to check at handover is in [Motorbike Maintenance Basics for Vietnam]({{ '/articles/motorbike-maintenance-basics-vietnam/' | relative_url }}).

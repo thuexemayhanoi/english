@@ -27,7 +27,7 @@ Retro-reflective material bounces light back toward its source — headlights, s
 
 ## Where it goes on a bike
 
-Rim tape on wheels turns the spinning circle into a bright ring visible from the side — the classic motorbike application, effective precisely because motion draws the eye. Helmet stickers raise your profile height; pannier and top-box strips widen your apparent width; frame and pannier edges catch light from following cars. The wheel-level and box-level placements matter because most of what threatens a parked or slow motorbike approaches from the side and rear, not the front — where your lights already speak (motorbike-night-lights-vietnam).
+Rim tape on wheels turns the spinning circle into a bright ring visible from the side — the classic motorbike application, effective precisely because motion draws the eye. Helmet stickers raise your profile height; pannier and top-box strips widen your apparent width; frame and pannier edges catch light from following cars. The wheel-level and box-level placements matter because most of what threatens a parked or slow motorbike approaches from the side and rear, not the front — where your lights already speak ([Night Riding: Motorbike Light Rules in Vietnam]({{ '/articles/motorbike-night-lights-vietnam/' | relative_url }})).
 
 ## What to buy
 
@@ -35,7 +35,7 @@ Proper retro-reflective tape (sealed microscopic-glass or microprismatic types) 
 
 ## The honest limits
 
-Reflectives do not light you up in an unlit area with no headlights pointed at you, and they do not substitute for the active visibility and positioning discipline in visibility-riding-motorbike-vietnam and night-riding-motorbike-safety-vietnam. On Vietnam’s unlit rural roads (unlit-rural-roads-night-motorbike-vietnam), reflectives on both you and the bike are part of the layering, not the whole answer.
+Reflectives do not light you up in an unlit area with no headlights pointed at you, and they do not substitute for the active visibility and positioning discipline in [Being Seen: Visibility Tactics for Motorbike Riders]({{ '/articles/visibility-riding-motorbike-vietnam/' | relative_url }}) and [Riding a Motorbike at Night in Vietnam]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}). On Vietnam’s unlit rural roads ([Unlit Rural Roads: Riding Beyond the City Lights]({{ '/articles/unlit-rural-roads-night-motorbike-vietnam/' | relative_url }})), reflectives on both you and the bike are part of the layering, not the whole answer.
 
 ## A practical start
 

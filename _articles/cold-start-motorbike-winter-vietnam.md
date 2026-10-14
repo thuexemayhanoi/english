@@ -27,15 +27,15 @@ Fuel tap on (where fitted), ignition on, and on carburetted bikes use the choke 
 
 ## The battery is the usual winter casualty
 
-Cold weather cuts battery output just as the engine needs more of it. If the starter cranks slower every week as winter deepens, the battery is telling you its future — battery-care-motorbike-vietnam covers the care, and when the bike clicks instead of cranking, dead-battery-motorbike-vietnam covers the recovery, including the honest push-start.
+Cold weather cuts battery output just as the engine needs more of it. If the starter cranks slower every week as winter deepens, the battery is telling you its future — [Battery Care on a Motorbike]({{ '/articles/battery-care-motorbike-vietnam/' | relative_url }}) covers the care, and when the bike clicks instead of cranking, [A Dead Battery: Recovering a Motorbike That Won't Start]({{ '/articles/dead-battery-motorbike-vietnam/' | relative_url }}) covers the recovery, including the honest push-start.
 
 ## The fuel and oil side
 
-Old or water-contaminated petrol makes cold starting far harder — in winter, buy fuel from busy stations so it is fresh. Engine oil that is overdue thickens when cold and cranks slowly; checking-engine-oil-motorbike covers the level, and winter is a sensible time to have the oil changed if it is past its best.
+Old or water-contaminated petrol makes cold starting far harder — in winter, buy fuel from busy stations so it is fresh. Engine oil that is overdue thickens when cold and cranks slowly; [Checking Engine Oil on a Motorbike]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }}) covers the level, and winter is a sensible time to have the oil changed if it is past its best.
 
 ## Warm-up, honestly
 
-Thirty seconds to a couple of minutes of gentle idle, then ride gently for the first kilometre — modern engines do not need five minutes of revving in place. What they do need is restraint: cold oil does not protect like warm oil, and the winter riding habits in winter-riding-motorbike-hanoi start with respecting the first kilometre.
+Thirty seconds to a couple of minutes of gentle idle, then ride gently for the first kilometre — modern engines do not need five minutes of revving in place. What they do need is restraint: cold oil does not protect like warm oil, and the winter riding habits in [Winter Riding on a Motorbike in Hanoi]({{ '/articles/winter-riding-motorbike-hanoi/' | relative_url }}) start with respecting the first kilometre.
 
 ## The winter checklist
 

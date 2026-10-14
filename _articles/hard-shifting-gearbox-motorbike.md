@@ -23,11 +23,11 @@ Every gearbox telegraphs its health through the gear lever. A healthy shift is a
 
 ## The clutch question first
 
-Nine times in ten, "the gearbox" is innocent and the clutch is guilty. A clutch that does not fully disengage keeps the gears spinning under load, and shifting loaded gears is what crunches. The tell-tale: with the lever held in at a standstill, first gear engages with a lurch or the bike creeps — that is clutch drag, and its full diagnostic is in clutch-drag-hard-neutral-motorbike. Fix drag and most shifting complaints vanish with it.
+Nine times in ten, "the gearbox" is innocent and the clutch is guilty. A clutch that does not fully disengage keeps the gears spinning under load, and shifting loaded gears is what crunches. The tell-tale: with the lever held in at a standstill, first gear engages with a lurch or the bike creeps — that is clutch drag, and its full diagnostic is in [Clutch Drag: Creeping and Hard-to-Find Neutral]({{ '/articles/clutch-drag-hard-neutral-motorbike/' | relative_url }}). Fix drag and most shifting complaints vanish with it.
 
 ## The oil
 
-Gearbox oil is the gearbox's blood: it synchronizes, cushions and cools. Old, sheared oil makes shifts notchy; the wrong oil can make a wet clutch drag. An oil change is the cheapest experiment and often the cure — the oil-side rules are in manual-gearbox-oil-change-motorbike. If shifts grew rough gradually over months, suspect oil before anything else.
+Gearbox oil is the gearbox's blood: it synchronizes, cushions and cools. Old, sheared oil makes shifts notchy; the wrong oil can make a wet clutch drag. An oil change is the cheapest experiment and often the cure — the oil-side rules are in [Gearbox Oil on Manual Motorbikes]({{ '/articles/manual-gearbox-oil-change-motorbike/' | relative_url }}). If shifts grew rough gradually over months, suspect oil before anything else.
 
 ## The lever and linkage
 
@@ -40,10 +40,10 @@ The shift lever is exposed to knocks: parking-lot drops, falls at speed bumps. C
 ## What the symptoms say
 
 - **Clunky when cold, fine when warm**: oil is tired, or the bike simply needs a minute of gentle riding.
-- **Crunches mainly into first from neutral**: usually clutch drag or idle set too high — idle basics are in idle-speed-adjustment-motorbike.
+- **Crunches mainly into first from neutral**: usually clutch drag or idle set too high — idle basics are in [Idle Speed: Setting It, and What It Reveals]({{ '/articles/idle-speed-adjustment-motorbike/' | relative_url }}).
 - **False neutrals** (the lever moves, no gear engages, especially between higher gears): shift with firmer, complete foot strokes first; if it persists, the mechanism or shift forks are worn — that is a mechanic conversation.
 - **One particular gear difficult or noisy**: a single bad gear points inside the gearbox (dogs, fork, bearing). Stop riding it hard and get it heard — internal gearbox damage gets exponentially more expensive with ignored kilometres.
-- **Will not downshift under braking**: often throttle-cable-related rev mismatch, or a dragging clutch; see throttle-cable-free-play-motorbike.
+- **Will not downshift under braking**: often throttle-cable-related rev mismatch, or a dragging clutch; see [Throttle Cable Care and Free Play on a Motorbike]({{ '/articles/throttle-cable-free-play-motorbike/' | relative_url }}).
 
 ## Technique is part of the mechanism
 
@@ -51,4 +51,4 @@ Full, deliberate shifts with a brief pause at the clutch's bite point let dogs e
 
 ## When to stop diagnosing at home
 
-Metal in the drain oil, a gearbox that locks or jumps out of gear under load, or whining that rises with wheel speed in a specific gear are the boundary between adjustment work and rebuild work. A slipping clutch alongside shifting trouble has its own article in clutch-slipping-manual-motorbike. Inside a gearbox, honest diagnosis needs the case opened — an expert job, not an estimate from the street.
+Metal in the drain oil, a gearbox that locks or jumps out of gear under load, or whining that rises with wheel speed in a specific gear are the boundary between adjustment work and rebuild work. A slipping clutch alongside shifting trouble has its own article in [Manual Clutch Slipping: Causes and Fixes]({{ '/articles/clutch-slipping-manual-motorbike/' | relative_url }}). Inside a gearbox, honest diagnosis needs the case opened — an expert job, not an estimate from the street.

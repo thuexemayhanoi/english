@@ -19,7 +19,7 @@ sources:
 internal_link_targets: "where-to-park-motorbike-hanoi, stands-side-vs-centre-paddock, parking-monthly-renter-hanoi, checking-motorbike-after-fall-accident"
 ---
 
-A motorbike on its side stand is balanced on a coin-sized foot — and Vietnamese parking surfaces are often sand, mud, gravel, or noon asphalt soft enough to swallow that foot entirely. The bike that was upright when you left it is on its side when you return, and the post-fall inspection (checking-motorbike-after-fall-accident) becomes part of your parking routine.
+A motorbike on its side stand is balanced on a coin-sized foot — and Vietnamese parking surfaces are often sand, mud, gravel, or noon asphalt soft enough to swallow that foot entirely. The bike that was upright when you left it is on its side when you return, and the post-fall inspection ([What to Check Mechanically After a Fall]({{ '/articles/checking-motorbike-after-fall-accident/' | relative_url }})) becomes part of your parking routine.
 
 ## The problem physics
 
@@ -27,11 +27,11 @@ All the bike’s weight concentrates on the stand’s tiny pad. On firm ground t
 
 ## The solutions
 
-A side stand extension — a larger footprint plate bolted or bonded to the stand’s pad — spreads the load and is the permanent fix; they cost little and fit most stands. A carry puck (a small plate on a cord) does the same job portably; keep one under your seat for gravel lots and beach trips. Parking discipline: leave the bike in gear or with the wheel turned into the slope, and choose the firmest available spot; on soft ground consider the centre stand if the bike has one — the full stand comparison is stands-side-vs-centre-paddock.
+A side stand extension — a larger footprint plate bolted or bonded to the stand’s pad — spreads the load and is the permanent fix; they cost little and fit most stands. A carry puck (a small plate on a cord) does the same job portably; keep one under your seat for gravel lots and beach trips. Parking discipline: leave the bike in gear or with the wheel turned into the slope, and choose the firmest available spot; on soft ground consider the centre stand if the bike has one — the full stand comparison is [Centre Stands, Side Stands and Paddock Stands]({{ '/articles/stands-side-vs-centre-paddock/' | relative_url }}).
 
 ## The city layer
 
-In Hanoi, the stand question is also a spot-selection question — where-to-park-motorbike-hanoi — and for monthly renters with regular parking spots (parking-monthly-renter-hanoi), a known-soft patch in your own compound is worth fixing permanently rather than complaining about weekly. Hanoi’s lots vary wildly.
+In Hanoi, the stand question is also a spot-selection question — [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}) — and for monthly renters with regular parking spots ([Daily Parking as a Monthly Renter in Hanoi]({{ '/articles/parking-monthly-renter-hanoi/' | relative_url }})), a known-soft patch in your own compound is worth fixing permanently rather than complaining about weekly. Hanoi’s lots vary wildly.
 
 ## Maintenance note
 

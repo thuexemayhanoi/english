@@ -28,7 +28,7 @@ Tet is the one period when shops of every kind close, and rental shops are no ex
 
 ## Book ahead, confirm in writing
 
-If you want a bike across the Tet week, book early — see how-to-book-a-motorbike-rental-hanoi for the booking basics, and during Tet add two habits: confirm the pickup time in a message the day before, and confirm the return arrangement in the same message. A shop that closes for five days needs to know whether your return date falls inside the closure, and so do you.
+If you want a bike across the Tet week, book early — see [How to Book a Motorbike Rental in Hanoi (WhatsApp, Zalo, Walk-In)]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) for the booking basics, and during Tet add two habits: confirm the pickup time in a message the day before, and confirm the return arrangement in the same message. A shop that closes for five days needs to know whether your return date falls inside the closure, and so do you.
 
 ## The city changes character
 
@@ -36,7 +36,7 @@ Hanoi empties dramatically during Tet as millions travel home. Traffic that is n
 
 ## Prices and terms
 
-Never assume holiday pricing either way: ask what the rate for your exact dates is when booking, agree it in the reservation, and treat the agreed number as the whole truth. Deposit and late-return terms still apply — see motorbike-rental-deposit-hanoi and late-return-rental-motorbike-hanoi — and if your return date might slip past the shop's closure, agree in advance what happens instead of discovering it on the day. Because shops close, mid-holiday breakdowns can be slower to resolve; ride gently and read rental-motorbike-breakdown-hanoi before setting out.
+Never assume holiday pricing either way: ask what the rate for your exact dates is when booking, agree it in the reservation, and treat the agreed number as the whole truth. Deposit and late-return terms still apply — see [Motorbike Rental Deposits in Hanoi: Typical Amounts and Return]({{ '/articles/motorbike-rental-deposit-hanoi/' | relative_url }}) and [What Happens If You Return a Rental Motorbike Late in Hanoi]({{ '/articles/late-return-rental-motorbike-hanoi/' | relative_url }}) — and if your return date might slip past the shop's closure, agree in advance what happens instead of discovering it on the day. Because shops close, mid-holiday breakdowns can be slower to resolve; ride gently and read [What Happens If a Rental Motorbike Breaks Down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) before setting out.
 
 ## Other holiday periods
 

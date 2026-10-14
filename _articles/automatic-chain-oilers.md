@@ -27,7 +27,7 @@ Gravity or vacuum-driven dispensers meter oil to the chain as you ride — the g
 
 ## The case for
 
-High-mileage riders, daily commuters on manual bikes, and anyone who rides in rain regularly (chain lube washes off fast — the riding context is riding-motorbike-heavy-rain-vietnam): the oiler keeps the chain consistently lubricated, which extends chain and sprocket life meaningfully, because uneven lubrication is what kills chains — the manual baseline remains chain-maintenance-motorbike-vietnam, and the cost of a worn set is in chain-sprocket-replacement-motorbike.
+High-mileage riders, daily commuters on manual bikes, and anyone who rides in rain regularly (chain lube washes off fast — the riding context is [Riding a Motorbike in Heavy Rain in Vietnam]({{ '/articles/riding-motorbike-heavy-rain-vietnam/' | relative_url }})): the oiler keeps the chain consistently lubricated, which extends chain and sprocket life meaningfully, because uneven lubrication is what kills chains — the manual baseline remains [Chain Maintenance on a Motorbike in Vietnam]({{ '/articles/chain-maintenance-motorbike-vietnam/' | relative_url }}), and the cost of a worn set is in [Chain and Sprocket Wear: Knowing When to Replace]({{ '/articles/chain-sprocket-replacement-motorbike/' | relative_url }}).
 
 ## The case against
 
@@ -35,4 +35,4 @@ Oilers are for exposed chains — scooter riders with CVT transmissions skip thi
 
 ## The habit regardless
 
-With or without an oiler, the chain still needs its tension checks and its periodic inspection alongside the other lubrication points in lubrication-points-motorbike-vietnam. An oiler automates one task of several — never all of them.
+With or without an oiler, the chain still needs its tension checks and its periodic inspection alongside the other lubrication points in [Grease Points: Where Lubrication Matters on a Motorbike]({{ '/articles/lubrication-points-motorbike-vietnam/' | relative_url }}). An oiler automates one task of several — never all of them.

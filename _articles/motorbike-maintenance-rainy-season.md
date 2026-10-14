@@ -27,16 +27,16 @@ Before the rains settle in, get the essentials done: oil change if due, chain cl
 
 ## The chain is the first casualty
 
-A wet chain that is left wet rusts overnight. Rinse off the road grime after wet rides, dry the chain, re-lubricate. Chain care is the single highest-return rainy-season habit — chain-maintenance-motorbike-vietnam covers the full routine, and rust's wider war is in motorcycle-rust-prevention-vietnam.
+A wet chain that is left wet rusts overnight. Rinse off the road grime after wet rides, dry the chain, re-lubricate. Chain care is the single highest-return rainy-season habit — [Chain Maintenance on a Motorbike in Vietnam]({{ '/articles/chain-maintenance-motorbike-vietnam/' | relative_url }}) covers the full routine, and rust's wider war is in [Preventing Rust on a Motorbike in Vietnam]({{ '/articles/motorcycle-rust-prevention-vietnam/' | relative_url }}).
 
 ## Brakes and electrics
 
-Brake performance drops in the wet even when everything is perfect; if the pads were marginal before the season, they are dangerous in it. Electrics suffer quietly: switches get moist, connections corrode, lights misbehave. If a light starts acting strange in the wet season, that is not character — that is a connector asking for attention (lights-and-electrical-checks-motorbike).
+Brake performance drops in the wet even when everything is perfect; if the pads were marginal before the season, they are dangerous in it. Electrics suffer quietly: switches get moist, connections corrode, lights misbehave. If a light starts acting strange in the wet season, that is not character — that is a connector asking for attention ([Lights and Electrical Checks on a Motorbike]({{ '/articles/lights-and-electrical-checks-motorbike/' | relative_url }})).
 
 ## The post-ride habit
 
-After a soaking: wipe the bike down, bounce the brakes dry with a few gentle stops on your first ride out, and check the airbox if you rode through deep water — check-motorbike-after-heavy-rain covers the full sequence. Park under cover where possible; five hours of rain on a parked bike does more damage than a wet ride.
+After a soaking: wipe the bike down, bounce the brakes dry with a few gentle stops on your first ride out, and check the airbox if you rode through deep water — [What to Check After Your Motorbike Gets Soaked]({{ '/articles/check-motorbike-after-heavy-rain/' | relative_url }}) covers the full sequence. Park under cover where possible; five hours of rain on a parked bike does more damage than a wet ride.
 
 ## Rental riders
 
-The rental side of the season has its own guide — renting-motorbike-hanoi-rainy-season — but the physics is the same for any bike you are responsible for: water is the enemy of neglect, and the season simply raises the price of skipping the small jobs.
+The rental side of the season has its own guide — [Renting a Motorbike in Hanoi in the Rainy Season]({{ '/articles/renting-motorbike-hanoi-rainy-season/' | relative_url }}) — but the physics is the same for any bike you are responsible for: water is the enemy of neglect, and the season simply raises the price of skipping the small jobs.

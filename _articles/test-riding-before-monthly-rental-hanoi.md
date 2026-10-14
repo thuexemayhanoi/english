@@ -25,11 +25,11 @@ A month is a commitment. The cheapest way to avoid a month on the wrong bike is 
 
 ## The practical approach: a short rental first
 
-The straightforward pattern is to rent the bike daily for a day or two, ride your actual commute and errands, and then convert to a monthly rental on the same or a similar machine. Contact us to confirm current availability for both the trial and the month. If the trial goes well, starting-monthly-motorbike-rental-hanoi covers the set-up conversation.
+The straightforward pattern is to rent the bike daily for a day or two, ride your actual commute and errands, and then convert to a monthly rental on the same or a similar machine. Contact us to confirm current availability for both the trial and the month. If the trial goes well, [Starting a Monthly Motorbike Rental: The First Week]({{ '/articles/starting-monthly-motorbike-rental-hanoi/' | relative_url }}) covers the set-up conversation.
 
 ## What to evaluate on a trial
 
-Not just "does it start" — does the seat fit you after an hour, does the bike handle the speeds and slopes of your route, does the storage fit your daily bag, can you manage the weight at walking pace and when parking? Run the full rental-motorbike-inspection-checklist as well, since a bike you may take for a month deserves a stricter look than a day-tripper.
+Not just "does it start" — does the seat fit you after an hour, does the bike handle the speeds and slopes of your route, does the storage fit your daily bag, can you manage the weight at walking pace and when parking? Run the full [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) as well, since a bike you may take for a month deserves a stricter look than a day-tripper.
 
 ## Talk to the shop about the plan
 
@@ -37,7 +37,7 @@ Tell the shop upfront that you are trialling before a month. They can tell you w
 
 ## When a trial is not needed
 
-If you already ride the model regularly, or you have rented the same bike from the shop before, a long trial adds little — choosing-motorbike-monthly-rental-hanoi is enough. Trials matter most for new riders and first-time visitors to Hanoi traffic.
+If you already ride the model regularly, or you have rented the same bike from the shop before, a long trial adds little — [Choosing the Right Motorbike for a Month in Hanoi]({{ '/articles/choosing-motorbike-monthly-rental-hanoi/' | relative_url }}) is enough. Trials matter most for new riders and first-time visitors to Hanoi traffic.
 
 ## The one-line version
 

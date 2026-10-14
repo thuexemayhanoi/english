@@ -27,11 +27,11 @@ Names lie; part numbers do not. The single most important habit in online parts 
 
 ## Fakes: the marketplaces' shadow
 
-The same listing page can sell a genuine plug and a convincing fake one. The counterfeiting warning signs are catalogued in genuine-vs-fake-parts-motorbike-vietnam — printing quality, packaging, price too far below market — and they matter most for exactly the parts people buy online most: oils, plugs, filters, brake pads, chains, batteries. A fake brake pad is not a bargain at any price. Rules of thumb: premium brands from long-established sellers with real photos and returns policies; nothing safety-critical from a seller with a week-old account and a too-good price.
+The same listing page can sell a genuine plug and a convincing fake one. The counterfeiting warning signs are catalogued in [Genuine Versus Fake Motorbike Parts in Vietnam]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}) — printing quality, packaging, price too far below market — and they matter most for exactly the parts people buy online most: oils, plugs, filters, brake pads, chains, batteries. A fake brake pad is not a bargain at any price. Rules of thumb: premium brands from long-established sellers with real photos and returns policies; nothing safety-critical from a seller with a week-old account and a too-good price.
 
 ## What buys well online
 
-- **Non-urgent, model-specific parts** the local shops do not stock: brackets, body panels, specialised tools, parts for less-common models — the availability map is in spare-parts-availability-vietnam.
+- **Non-urgent, model-specific parts** the local shops do not stock: brackets, body panels, specialised tools, parts for less-common models — the availability map is in [Spare Parts Availability in Vietnam]({{ '/articles/spare-parts-availability-vietnam/' | relative_url }}).
 - **Consumables in genuine batches** from reputable sellers.
 - **Accessories and gear**, where selection matters more than the local shelf.
 
@@ -50,4 +50,4 @@ The same listing page can sell a genuine plug and a convincing fake one. The cou
 
 ## When the street shop still wins
 
-For most Vietnamese-market bikes, the parts shop remains the better system: you see the part, the seller knows the cross-references, the price difference is small, and the fit is the seller's problem too — a relationship (see talking-to-mechanic-vietnam) beats a returns process. Online is the complement, not the replacement: for the rare, the specific, and the far. The repair-or-replace economics of what you buy are covered in repair-or-replace-motorbike-parts.
+For most Vietnamese-market bikes, the parts shop remains the better system: you see the part, the seller knows the cross-references, the price difference is small, and the fit is the seller's problem too — a relationship (see [Getting Repairs Done: Talking to a Vietnamese Mechanic]({{ '/articles/talking-to-mechanic-vietnam/' | relative_url }})) beats a returns process. Online is the complement, not the replacement: for the rare, the specific, and the far. The repair-or-replace economics of what you buy are covered in [Repair or Replace? Deciding With a Mechanic's Input]({{ '/articles/repair-or-replace-motorbike-parts/' | relative_url }}).

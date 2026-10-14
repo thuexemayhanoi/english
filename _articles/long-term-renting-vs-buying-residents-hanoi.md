@@ -24,7 +24,7 @@ Every long-term resident in Hanoi eventually asks whether to keep renting or fin
 
 ## The rental side of the ledger
 
-A monthly rental on a published-rate model (see motorbike-rental-monthly-price-hanoi) runs 1,000,000–2,000,000 VND/month depending on the bike. For that you get: maintenance included (oil, chain, tyre pressure, inspection), no repair bills when something wears, no resale problem when you leave, and a deposit that comes back at the end. The six-month rental pattern is described in renting-motorbike-six-months-hanoi and the year-scale arrangement in renting-motorbike-year-hanoi.
+A monthly rental on a published-rate model (see [Motorbike Rental Monthly Prices in Hanoi]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }})) runs 1,000,000–2,000,000 VND/month depending on the bike. For that you get: maintenance included (oil, chain, tyre pressure, inspection), no repair bills when something wears, no resale problem when you leave, and a deposit that comes back at the end. The six-month rental pattern is described in [Renting a Motorbike for 6 Months or Longer in Hanoi]({{ '/articles/renting-motorbike-six-months-hanoi/' | relative_url }}) and the year-scale arrangement in [Renting a Motorbike for a Year in Hanoi]({{ '/articles/renting-motorbike-year-hanoi/' | relative_url }}).
 
 ## The buying side
 
@@ -32,14 +32,14 @@ A used underbone or scooter can cost less than a year of rental. Against that pu
 
 ## The crossover, honestly
 
-On pure cash over a long enough stay, buying can win. But the crossover is further away than people assume once real repair costs, tyre replacements and resale loss are counted, and it only holds if the purchase was a good one — which you cannot know in advance. Renting pays a known amount for a known service; buying trades a smaller known amount for an unknown risk. The general short-term comparison is in renting-vs-buying-a-motorbike-hanoi; this article is the resident-scale version of the same decision.
+On pure cash over a long enough stay, buying can win. But the crossover is further away than people assume once real repair costs, tyre replacements and resale loss are counted, and it only holds if the purchase was a good one — which you cannot know in advance. Renting pays a known amount for a known service; buying trades a smaller known amount for an unknown risk. The general short-term comparison is in [Renting vs Buying a Motorbike in Hanoi: Cost and Convenience]({{ '/articles/renting-vs-buying-a-motorbike-hanoi/' | relative_url }}); this article is the resident-scale version of the same decision.
 
 ## The non-financial factors
 
 - Paperwork: a buyer registers and insures in their own name; a renter's paperwork stays with the shop
 - Exit: renters return a bike; sellers must sell one, sometimes against a departure date
-- Breakdowns: renters call the shop (see breakdowns-during-long-term-rental-hanoi); owners negotiate with mechanics
-- Variety: renters can change models as life changes — see switching-bikes-mid-rental-hanoi
+- Breakdowns: renters call the shop (see [Breakdowns During a Long-Term Rental in Hanoi]({{ '/articles/breakdowns-during-long-term-rental-hanoi/' | relative_url }})); owners negotiate with mechanics
+- Variety: renters can change models as life changes — see [Switching Bikes Mid-Rental in Hanoi]({{ '/articles/switching-bikes-mid-rental-hanoi/' | relative_url }})
 
 ## Who should buy anyway
 

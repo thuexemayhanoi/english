@@ -23,7 +23,7 @@ The little tags on back protectors and knee armour carry codes like "CE" and lev
 
 ## What the letters mean
 
-CE marking indicates conformity with a European standard; for motorcyclists’ protective clothing and impact protectors there is a dedicated European standard family, with level 1 and level 2 classifications for impact protectors — level 2 transmits less force to the body. Newer garment-level standards also grade whole jackets and trousers for abrasion and impact performance in classes A to AAA. Two honest caveats: Vietnam market gear often carries claimed CE marks that are untested fakes, and a certification claim is only as good as the tag’s honesty — the counterfeit warning applies exactly as it does for spare parts in genuine-vs-fake-parts-motorbike-vietnam.
+CE marking indicates conformity with a European standard; for motorcyclists’ protective clothing and impact protectors there is a dedicated European standard family, with level 1 and level 2 classifications for impact protectors — level 2 transmits less force to the body. Newer garment-level standards also grade whole jackets and trousers for abrasion and impact performance in classes A to AAA. Two honest caveats: Vietnam market gear often carries claimed CE marks that are untested fakes, and a certification claim is only as good as the tag’s honesty — the counterfeit warning applies exactly as it does for spare parts in [Genuine Versus Fake Motorbike Parts in Vietnam]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}).
 
 ## Level 1 or level 2?
 
@@ -31,8 +31,8 @@ Level 1 armour is thinner, lighter, cooler and fine for most urban riding. Level
 
 ## Checking armour in the shop
 
-Squeeze it: real impact foam feels dense and springs back slowly; cheap packing foam feels light and springs back instantly, and it is used in the fake protectors sewn into bargain jackets. Look for the certification tag stitched into the pocket or printed on the protector, and check the protector is removable — armour wears out from sweat and compression years before the garment does. Where armour sits under everyday clothes, the placement rules are in body-armour-motorbike-riders.
+Squeeze it: real impact foam feels dense and springs back slowly; cheap packing foam feels light and springs back instantly, and it is used in the fake protectors sewn into bargain jackets. Look for the certification tag stitched into the pocket or printed on the protector, and check the protector is removable — armour wears out from sweat and compression years before the garment does. Where armour sits under everyday clothes, the placement rules are in [Body Armour Under Everyday Clothes: Hidden Protection for Riders]({{ '/articles/body-armour-motorbike-riders/' | relative_url }}).
 
 ## Integration
 
-Armour lives in garments: check that a jacket’s back panel actually accepts a back protector insert (many budget jackets have the pocket but ship without the insert), and that the elbow and shoulder pockets hold the armour in place on your body — the fit logic is in riding-jacket-vietnam-climate, and the budget sequencing in riding-gear-budget-priority-vietnam.
+Armour lives in garments: check that a jacket’s back panel actually accepts a back protector insert (many budget jackets have the pocket but ship without the insert), and that the elbow and shoulder pockets hold the armour in place on your body — the fit logic is in [Choosing a Riding Jacket for Vietnam's Climate]({{ '/articles/riding-jacket-vietnam-climate/' | relative_url }}), and the budget sequencing in [Buying Riding Gear on a Budget in Vietnam: Priority Order]({{ '/articles/riding-gear-budget-priority-vietnam/' | relative_url }}).

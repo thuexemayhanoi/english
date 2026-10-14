@@ -24,7 +24,7 @@ A dead headlight at night on an unlit road is not an inconvenience — it is the
 
 ## Buy the exact bulb
 
-The type is in your owner's manual and printed on the old bulb's base. Halogen bulbs for Vietnamese underbones and scooters are sold at every parts shop, but quality varies wildly — a no-name bulb can be dimmer than your dying old one, and the fakes-vs-genuine cautions in genuine-vs-fake-parts-motorbike-vietnam apply fully to bulbs. Buy a name brand and, while you are at it, buy two: the second lives under the seat.
+The type is in your owner's manual and printed on the old bulb's base. Halogen bulbs for Vietnamese underbones and scooters are sold at every parts shop, but quality varies wildly — a no-name bulb can be dimmer than your dying old one, and the fakes-vs-genuine cautions in [Genuine Versus Fake Motorbike Parts in Vietnam]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}) apply fully to bulbs. Buy a name brand and, while you are at it, buy two: the second lives under the seat.
 
 ## The glass rule
 
@@ -32,12 +32,12 @@ Never touch a halogen bulb's glass with bare fingers. Skin oil heats unevenly on
 
 ## Fitting and aiming
 
-Usually it is a rubber or plastic cover off the back of the headlight, a clip or a holder twisted free, the old bulb out, the new one seated fully, everything reassembled. Reconnect and test before reassembly. After fitting, check the aim against a wall: the beam should sit level or slightly down, lighting the road without blinding oncoming riders — motorbike-night-lights-vietnam covers what the law expects of your lights at night.
+Usually it is a rubber or plastic cover off the back of the headlight, a clip or a holder twisted free, the old bulb out, the new one seated fully, everything reassembled. Reconnect and test before reassembly. After fitting, check the aim against a wall: the beam should sit level or slightly down, lighting the road without blinding oncoming riders — [Night Riding: Motorbike Light Rules in Vietnam]({{ '/articles/motorbike-night-lights-vietnam/' | relative_url }}) covers what the law expects of your lights at night.
 
 ## Fogged lenses and recurring failures
 
-A milkiness inside the lens is water ingress — a cracked seal, common after small front impacts; it dims the beam and kills bulbs faster. A bulb that dies repeatedly is usually a charging-system fault rather than bad luck — lights-and-electrical-checks-motorbike covers when that suspicion becomes a mechanic visit.
+A milkiness inside the lens is water ingress — a cracked seal, common after small front impacts; it dims the beam and kills bulbs faster. A bulb that dies repeatedly is usually a charging-system fault rather than bad luck — [Lights and Electrical Checks on a Motorbike]({{ '/articles/lights-and-electrical-checks-motorbike/' | relative_url }}) covers when that suspicion becomes a mechanic visit.
 
 ## The habit
 
-Lights are checked in thirty seconds: engine on, high and low beam, brake lights with both levers. Make it part of the pre-ride routine, because night in Vietnam eventually arrives on every ride — night-riding-motorbike-safety-vietnam explains why your beam discipline matters more once it does.
+Lights are checked in thirty seconds: engine on, high and low beam, brake lights with both levers. Make it part of the pre-ride routine, because night in Vietnam eventually arrives on every ride — [Riding a Motorbike at Night in Vietnam]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}) explains why your beam discipline matters more once it does.

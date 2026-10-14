@@ -24,7 +24,7 @@ The inspection you do at pickup matters most, but on a monthly rental the bike a
 
 ## At pickup: be thorough
 
-Work through rental-motorbike-inspection-checklist before money changes hands: photograph existing scratches, check brakes, lights, horn, tyre condition, fuel level and odometer. On a long rental, those photos are your baseline for the whole term.
+Work through [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) before money changes hands: photograph existing scratches, check brakes, lights, horn, tyre condition, fuel level and odometer. On a long rental, those photos are your baseline for the whole term.
 
 ## Weekly: five minutes
 
@@ -32,7 +32,7 @@ Pick a fixed day. Check tyre pressure by hand and at a pump if convenient, look 
 
 ## Around every 1,500 km
 
-As practical owner guidance — not a manufacturer interval — periodic checks are recommended around every 1,500 km or more of use. For most daily commuters that means one mid-term visit to the shop for oil, chain and inspection, which is covered in maintenance-during-monthly-rental-hanoi.
+As practical owner guidance — not a manufacturer interval — periodic checks are recommended around every 1,500 km or more of use. For most daily commuters that means one mid-term visit to the shop for oil, chain and inspection, which is covered in [Maintenance During a Monthly Motorbike Rental in Hanoi]({{ '/articles/maintenance-during-monthly-rental-hanoi/' | relative_url }}).
 
 ## Before any long ride
 
@@ -40,7 +40,7 @@ If you take a weekend trip beyond your usual routes, run the same five-minute ch
 
 ## At return
 
-Repeat the pickup inspection together with the shop: odometer, fuel, photos, condition. A clean log makes the deposit conversation short, and deposit mechanics are explained in motorbike-rental-deposit-monthly-hanoi.
+Repeat the pickup inspection together with the shop: odometer, fuel, photos, condition. A clean log makes the deposit conversation short, and deposit mechanics are explained in [Deposits for Monthly Motorbike Rental in Hanoi]({{ '/articles/motorbike-rental-deposit-monthly-hanoi/' | relative_url }}).
 
 ## The one-line version
 

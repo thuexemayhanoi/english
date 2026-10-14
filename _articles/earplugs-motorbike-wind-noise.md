@@ -23,7 +23,7 @@ Riders assume the engine is the loud thing. It is not. At open-road speed, wind 
 
 ## Why it is worse in heat
 
-Cracking the visor open for airflow in hot weather — the comfort habit explained in helmet-ventilation-hot-climate — doubles the noise at the ear. A loose helmet fit does the same: air hammering into the gap around the jaw turns the helmet into a drum. A correctly fitted helmet (helmet-fit-guide-vietnam) is quieter at the same speed, which is protection as well as comfort.
+Cracking the visor open for airflow in hot weather — the comfort habit explained in [Helmet Ventilation for Riding in Vietnam’s Heat]({{ '/articles/helmet-ventilation-hot-climate/' | relative_url }}) — doubles the noise at the ear. A loose helmet fit does the same: air hammering into the gap around the jaw turns the helmet into a drum. A correctly fitted helmet ([How to Choose and Fit a Helmet in Vietnam]({{ '/articles/helmet-fit-guide-vietnam/' | relative_url }})) is quieter at the same speed, which is protection as well as comfort.
 
 ## What earplugs actually do
 
@@ -31,8 +31,8 @@ Motorcycle earplugs are not meant to make you deaf to the road. They are designe
 
 ## Wearing them correctly
 
-Foam plugs only work rolled, inserted and held while they expand; worn half-out they do nothing. Reuse ends when they lose their spring or go grey from Hanoi dust — a box of cheap plugs beats one pair worn for a month. Comfort matters with a helmet pressed on top: choose low-profile plugs that do not stick out of the ear canal, or the helmet padding will push them into an ache. If you use an intercom, know that speakers blasting into a plugged ear partly undoes the point — keep intercom volume at conversation level (helmet-intercoms-bluetooth-vietnam).
+Foam plugs only work rolled, inserted and held while they expand; worn half-out they do nothing. Reuse ends when they lose their spring or go grey from Hanoi dust — a box of cheap plugs beats one pair worn for a month. Comfort matters with a helmet pressed on top: choose low-profile plugs that do not stick out of the ear canal, or the helmet padding will push them into an ache. If you use an intercom, know that speakers blasting into a plugged ear partly undoes the point — keep intercom volume at conversation level ([Helmet Intercoms and Bluetooth Headsets for Riders]({{ '/articles/helmet-intercoms-bluetooth-vietnam/' | relative_url }})).
 
 ## The habit
 
-Earplugs are the cheapest piece of rider gear you will ever buy, and unlike a jacket they protect something that does not heal. Long rides, highways and full-day trips are the priority situations; hearing damage is dose-based, so the hours add up. For everything else about riding comfortably through a Hanoi summer, see hot-weather-riding-motorbike-vietnam.
+Earplugs are the cheapest piece of rider gear you will ever buy, and unlike a jacket they protect something that does not heal. Long rides, highways and full-day trips are the priority situations; hearing damage is dose-based, so the hours add up. For everything else about riding comfortably through a Hanoi summer, see [Hot Weather Riding on a Motorbike in Vietnam]({{ '/articles/hot-weather-riding-motorbike-vietnam/' | relative_url }}).

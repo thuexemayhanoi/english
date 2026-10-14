@@ -23,15 +23,15 @@ The exhaust is the part of a motorbike that gets sprayed with water, splashed wi
 
 ## What kills exhausts here
 
-Humidity does the slow work: condensation inside the system forms every night, and short city rides never get the exhaust hot enough long enough to dry it out. The inside rusts first, which is why an exhaust can look fine outside and rattle hollow within a couple of Hanoi rainy seasons. Salt-laden air near the coast and flood-season submersion accelerate everything. The general corrosion countermeasures — where you park, how you wash, what you inspect — are laid out in motorcycle-rust-prevention-vietnam; the exhaust just needs them applied most of all.
+Humidity does the slow work: condensation inside the system forms every night, and short city rides never get the exhaust hot enough long enough to dry it out. The inside rusts first, which is why an exhaust can look fine outside and rattle hollow within a couple of Hanoi rainy seasons. Salt-laden air near the coast and flood-season submersion accelerate everything. The general corrosion countermeasures — where you park, how you wash, what you inspect — are laid out in [Preventing Rust on a Motorbike in Vietnam]({{ '/articles/motorcycle-rust-prevention-vietnam/' | relative_url }}); the exhaust just needs them applied most of all.
 
 ## Care that genuinely helps
 
-Ride long enough to dry the system after wet riding rather than parking it damp. Wash off mud rather than letting it cake and hold moisture against the metal — the safe washing routine is in cleaning-motorbike-properly-vietnam. During the rainy season, an occasional inspection of the system's mounting bolts and the silencer's underside catches the first flakes; the season-specific checklist is in motorbike-maintenance-rainy-season. Aftermarket "rust converter" sprays on a hot exhaust mostly bake off — mechanical soundness beats cosmetics.
+Ride long enough to dry the system after wet riding rather than parking it damp. Wash off mud rather than letting it cake and hold moisture against the metal — the safe washing routine is in [Washing and Cleaning a Motorbike Properly]({{ '/articles/cleaning-motorbike-properly-vietnam/' | relative_url }}). During the rainy season, an occasional inspection of the system's mounting bolts and the silencer's underside catches the first flakes; the season-specific checklist is in [Motorbike Maintenance in the Rainy Season]({{ '/articles/motorbike-maintenance-rainy-season/' | relative_url }}). Aftermarket "rust converter" sprays on a hot exhaust mostly bake off — mechanical soundness beats cosmetics.
 
 ## Sounds and smoke: what the exhaust reports
 
-An exhaust rattle usually means a loose heat shield or mounting bracket first, and internal baffle collapse second — tighten the cheap things before replacing the system. Brown or grey-blue exhaust smoke, on the other hand, is not an exhaust problem at all: it is the engine reporting its condition through the pipe, and the full translation is in exhaust-smoke-motorbike-meaning. Replacing a smoky engine's exhaust fixes the messenger, not the message.
+An exhaust rattle usually means a loose heat shield or mounting bracket first, and internal baffle collapse second — tighten the cheap things before replacing the system. Brown or grey-blue exhaust smoke, on the other hand, is not an exhaust problem at all: it is the engine reporting its condition through the pipe, and the full translation is in [What Exhaust Smoke Is Telling You]({{ '/articles/exhaust-smoke-motorbike-meaning/' | relative_url }}). Replacing a smoky engine's exhaust fixes the messenger, not the message.
 
 ## Repair or replace
 

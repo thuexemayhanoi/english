@@ -23,11 +23,11 @@ Knocking is the sound of an engine arguing with itself. Some knocks are cheap to
 
 ## First, sort the noise
 
-Not every knock is the death rattle it sounds like. The taxonomy matters: a light metallic "pinking" under load (uphill, accelerating, two-up) that fades at steady speed usually points to fuel or combustion issues; a deep knock that rises and falls with engine speed and does not care about load is mechanical — big-end or piston territory; a rattle at idle that vanishes when revved is often a loose component, not the engine at all. The wider noise-sorting method — tick versus knock versus rattle — is in diagnosing-motorbike-noises-vietnam.
+Not every knock is the death rattle it sounds like. The taxonomy matters: a light metallic "pinking" under load (uphill, accelerating, two-up) that fades at steady speed usually points to fuel or combustion issues; a deep knock that rises and falls with engine speed and does not care about load is mechanical — big-end or piston territory; a rattle at idle that vanishes when revved is often a loose component, not the engine at all. The wider noise-sorting method — tick versus knock versus rattle — is in [Diagnosing Motorbike Noises: A Rider's Guide]({{ '/articles/diagnosing-motorbike-noises-vietnam/' | relative_url }}).
 
 ## The fuel-related knock
 
-Pinking is abnormal combustion, and its common causes are fixable: low-octane fuel in an engine that asks for more, a heavy carbon build-up raising effective compression, or an overheating engine in Hanoi's stop-start traffic. The fuel-side answer — what grades mean, and matching the manual — is covered in fuel-grades-petrol-stations-vietnam. If pinking appears only after a fill from an unfamiliar station, treat that as data: ride gently, refill somewhere busy, and see if it clears.
+Pinking is abnormal combustion, and its common causes are fixable: low-octane fuel in an engine that asks for more, a heavy carbon build-up raising effective compression, or an overheating engine in Hanoi's stop-start traffic. The fuel-side answer — what grades mean, and matching the manual — is covered in [Fuel Grades at Vietnamese Petrol Stations: What to Fill Up With]({{ '/articles/fuel-grades-petrol-stations-vietnam/' | relative_url }}). If pinking appears only after a fill from an unfamiliar station, treat that as data: ride gently, refill somewhere busy, and see if it clears.
 
 ## The mechanical knock
 
@@ -35,6 +35,6 @@ A deep, rhythmic knock that gets louder as the engine works is the one to respec
 
 ## Having the conversation
 
-Describe the knock precisely: when it happens (idle/under load/cold), where it seems to come from, and what changes it. A mechanic who listens with a screwdriver against the cases in the right places is doing real diagnostics — talking-to-mechanic-vietnam covers that interaction, and motorbike-service-where-vietnam covers choosing a shop with the engine-ear experience this fault needs.
+Describe the knock precisely: when it happens (idle/under load/cold), where it seems to come from, and what changes it. A mechanic who listens with a screwdriver against the cases in the right places is doing real diagnostics — [Getting Repairs Done: Talking to a Vietnamese Mechanic]({{ '/articles/talking-to-mechanic-vietnam/' | relative_url }}) covers that interaction, and [Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }}) covers choosing a shop with the engine-ear experience this fault needs.
 
 The rule of thumb: pinking under load = try fuel first; deep knock that follows engine speed = park it. Knocking is the engine's last polite warning before it stops being polite.

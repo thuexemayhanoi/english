@@ -27,12 +27,12 @@ Working ventilation is a channel system. Air enters through intake ports at the 
 
 ## What more vents cost you
 
-Every hole in a shell is a compromise with noise, water ingress and, at the extreme, impact-shell continuity — which is why certification testing exists and why a vented helmet should still carry a proper certification mark. More vents also mean more dust in the dry season; cleaning the liner regularly keeps the channels working, and the visor-management side of hot-weather riding is covered in hot-weather-riding-motorbike-vietnam.
+Every hole in a shell is a compromise with noise, water ingress and, at the extreme, impact-shell continuity — which is why certification testing exists and why a vented helmet should still carry a proper certification mark. More vents also mean more dust in the dry season; cleaning the liner regularly keeps the channels working, and the visor-management side of hot-weather riding is covered in [Hot Weather Riding on a Motorbike in Vietnam]({{ '/articles/hot-weather-riding-motorbike-vietnam/' | relative_url }}).
 
 ## The trade with visor and style
 
-At a standstill no helmet vents anything — airflow is a moving-bike feature. So in city traffic the honest comparison is: an open-face at low speed feels cooler than any full-face, which is one of the real arguments in full-face-vs-open-face-helmet-vietnam. A well-vented full-face with the visor cracked at stops closes most of that gap on the open road, and visor cracking has anti-fog benefits too — see visor-care-anti-fog-motorbike.
+At a standstill no helmet vents anything — airflow is a moving-bike feature. So in city traffic the honest comparison is: an open-face at low speed feels cooler than any full-face, which is one of the real arguments in [Full-Face vs Open-Face Helmets for Riding in Vietnam]({{ '/articles/full-face-vs-open-face-helmet-vietnam/' | relative_url }}). A well-vented full-face with the visor cracked at stops closes most of that gap on the open road, and visor cracking has anti-fog benefits too — see [Keeping Your Visor Clear: Anti-Fog and Visor Care]({{ '/articles/visor-care-anti-fog-motorbike/' | relative_url }}).
 
 ## Buying checklist
 
-Look for: adjustable brow and chin intakes you can close in rain, a liner wicking material you can remove and wash, internal channels visible with the liner out, and an exhaust design at the rear. Then fit it properly — a helmet that fits well sits in clean airflow, while a loose one shakes and leaks. The fit discipline is in helmet-fit-guide-vietnam.
+Look for: adjustable brow and chin intakes you can close in rain, a liner wicking material you can remove and wash, internal channels visible with the liner out, and an exhaust design at the rear. Then fit it properly — a helmet that fits well sits in clean airflow, while a loose one shakes and leaks. The fit discipline is in [How to Choose and Fit a Helmet in Vietnam]({{ '/articles/helmet-fit-guide-vietnam/' | relative_url }}).

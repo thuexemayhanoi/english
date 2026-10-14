@@ -27,7 +27,7 @@ On a motorbike you lose every physical argument by default. Do not brake-check, 
 
 ## De-escalate with position
 
-If a driver is tailgating, move aside rather than speeding up. If someone cuts you off, treat it as information about them, not an insult to you: slow, create space, continue. Steady, boring predictability is your protection — defensive-riding-motorbike-vietnam covers the habits that keep you out of these situations in the first place.
+If a driver is tailgating, move aside rather than speeding up. If someone cuts you off, treat it as information about them, not an insult to you: slow, create space, continue. Steady, boring predictability is your protection — [Defensive Riding on a Motorbike in Vietnam]({{ '/articles/defensive-riding-motorbike-vietnam/' | relative_url }}) covers the habits that keep you out of these situations in the first place.
 
 ## Do not gesture back
 
@@ -35,8 +35,8 @@ A return gesture only converts "bad driver" into "conflict." If you were wrong, 
 
 ## When it turns into a chase
 
-If someone follows you after an incident, do not lead them home. Stop at a busy public place — a petrol station is ideal: lit, busy, with staff and cameras. Most followers disappear the moment there are witnesses. If you are involved in a collision with an aggressive driver, the duties and exchange are in motorbike-accident-first-aid-vietnam and motorbike-accident-duties-vietnam.
+If someone follows you after an incident, do not lead them home. Stop at a busy public place — a petrol station is ideal: lit, busy, with staff and cameras. Most followers disappear the moment there are witnesses. If you are involved in a collision with an aggressive driver, the duties and exchange are in [First Response at a Motorbike Accident in Vietnam]({{ '/articles/motorbike-accident-first-aid-vietnam/' | relative_url }}) and [What to Do After a Motorbike Accident in Vietnam]({{ '/articles/motorbike-accident-duties-vietnam/' | relative_url }}).
 
 ## Your attention is your armour
 
-Anger narrows attention, and aggressive drivers punish narrow attention. Riding angry after an incident is as dangerous as riding drunk — give yourself a kilometre to let it fade, and keep your eyes on the mirrors and blind spots that matter — riding-motorbike-blind-spots-vietnam. The phone can wait too: phone-use-while-riding-vietnam explains why.
+Anger narrows attention, and aggressive drivers punish narrow attention. Riding angry after an incident is as dangerous as riding drunk — give yourself a kilometre to let it fade, and keep your eyes on the mirrors and blind spots that matter — [Blind Spots: Riding Around Buses and Trucks in Vietnam]({{ '/articles/riding-motorbike-blind-spots-vietnam/' | relative_url }}). The phone can wait too: [Using a Phone While Riding in Vietnam]({{ '/articles/phone-use-while-riding-vietnam/' | relative_url }}) explains why.

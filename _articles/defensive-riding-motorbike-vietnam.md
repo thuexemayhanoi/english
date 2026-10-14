@@ -23,7 +23,7 @@ Defensive riding means accepting a simple truth: in Vietnamese traffic, you will
 
 ## Space is your only protection
 
-A motorbike has no crumple zone. Keep distance from the vehicle in front — at least a two-second gap at speed, more in the wet. Never sit in a bus or truck's blind zone; either pass it decisively or drop back. The blind-zone map is in riding-motorbike-blind-spots-vietnam.
+A motorbike has no crumple zone. Keep distance from the vehicle in front — at least a two-second gap at speed, more in the wet. Never sit in a bus or truck's blind zone; either pass it decisively or drop back. The blind-zone map is in [Blind Spots: Riding Around Buses and Trucks in Vietnam]({{ '/articles/riding-motorbike-blind-spots-vietnam/' | relative_url }}).
 
 ## Read behaviour, not signals
 
@@ -31,7 +31,7 @@ Vietnamese traffic communicates through movement: a car drifting left is going t
 
 ## Assume you are invisible
 
-Ride as though drivers have not seen you, because often they have not. This is not timidity — it is why you slow before parked buses, cover brakes near junctions, and avoid the door zone of parked cars. Keep your own visibility high too: lights on, bright gear, predictable lines — visibility-riding-motorbike-vietnam covers that side.
+Ride as though drivers have not seen you, because often they have not. This is not timidity — it is why you slow before parked buses, cover brakes near junctions, and avoid the door zone of parked cars. Keep your own visibility high too: lights on, bright gear, predictable lines — [Being Seen: Visibility Tactics for Motorbike Riders]({{ '/articles/visibility-riding-motorbike-vietnam/' | relative_url }}) covers that side.
 
 ## Have an exit always
 
@@ -39,7 +39,7 @@ At any moment you should know where you would go if the vehicle ahead stopped de
 
 ## When it still goes wrong
 
-Even defensive riders fall. What to do at a scene — helping, first aid, legal duties — is covered in motorbike-accident-first-aid-vietnam and motorbike-accident-duties-vietnam. Defensive riding reduces the odds; it never removes them.
+Even defensive riders fall. What to do at a scene — helping, first aid, legal duties — is covered in [First Response at a Motorbike Accident in Vietnam]({{ '/articles/motorbike-accident-first-aid-vietnam/' | relative_url }}) and [What to Do After a Motorbike Accident in Vietnam]({{ '/articles/motorbike-accident-duties-vietnam/' | relative_url }}). Defensive riding reduces the odds; it never removes them.
 
 ## The one-line version
 

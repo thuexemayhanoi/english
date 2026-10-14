@@ -23,15 +23,15 @@ Look at any scooter a few years old in Vietnam and read its flanks: the matt pai
 
 ## What a tank pad does
 
-It is a shaped polymer sticker that covers the panels your clothing actually touches. It absorbs the zipper and button abrasion that would otherwise cut through the clear coat; once the clear coat is gone, paint wear accelerates and moisture starts working on the metal underneath — the same corrosion logic explained in fuel-tank-rust-prevention-treatment. On scooters, the pad also protects the finish at the knee-grip area where riders squeeze the bike when braking.
+It is a shaped polymer sticker that covers the panels your clothing actually touches. It absorbs the zipper and button abrasion that would otherwise cut through the clear coat; once the clear coat is gone, paint wear accelerates and moisture starts working on the metal underneath — the same corrosion logic explained in [Fuel Tank Rust: Prevention and Treatment]({{ '/articles/fuel-tank-rust-prevention-treatment/' | relative_url }}). On scooters, the pad also protects the finish at the knee-grip area where riders squeeze the bike when braking.
 
 ## Fitting matters more than the product
 
-A cheap pad fitted well beats a premium pad fitted badly. Clean the panel with isopropyl, not soapy water (residue kills adhesion), position dry with masking tape before peeling, and press from the centre outwards to avoid trapped air edges — an edge that lifts collects dust and peels within weeks in Vietnamese heat. Fit at cool temperature; panels baked in the sun off-gas and reduce adhesion. If that level of care is not appealing, this is a five-minute shop job — installing-accessories-diy-vs-shop.
+A cheap pad fitted well beats a premium pad fitted badly. Clean the panel with isopropyl, not soapy water (residue kills adhesion), position dry with masking tape before peeling, and press from the centre outwards to avoid trapped air edges — an edge that lifts collects dust and peels within weeks in Vietnamese heat. Fit at cool temperature; panels baked in the sun off-gas and reduce adhesion. If that level of care is not appealing, this is a five-minute shop job — [Installing Accessories Yourself vs at a Shop]({{ '/articles/installing-accessories-diy-vs-shop/' | relative_url }}).
 
 ## What pads do not do
 
-They are abrasion protection, not impact protection — they will not save the panel from a drop, only from your jacket. They are also small relative to the whole paint-protection question: for full-panel films and coatings, see paint-protection-ceramic-coatings. On a leased or rented scooter, remember that adhesive accessories are still modifications — ask first (aftermarket-parts-warranty covers the warranty side).
+They are abrasion protection, not impact protection — they will not save the panel from a drop, only from your jacket. They are also small relative to the whole paint-protection question: for full-panel films and coatings, see [Paint Protection for Motorbikes: Ceramic Coatings and Films]({{ '/articles/paint-protection-ceramic-coatings/' | relative_url }}). On a leased or rented scooter, remember that adhesive accessories are still modifications — ask first ([Aftermarket Parts and Warranty: What to Know]({{ '/articles/aftermarket-parts-warranty/' | relative_url }}) covers the warranty side).
 
 ## Choosing
 

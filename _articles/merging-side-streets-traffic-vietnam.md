@@ -32,12 +32,12 @@ Right of way at an unmarked merge is theoretical. Practical rule: the traffic al
 
 ## The horn is information
 
-A short beep as you nose out tells the flow you exist. That is normal communication in Vietnam, not aggression — read more in defensive-riding-motorbike-vietnam.
+A short beep as you nose out tells the flow you exist. That is normal communication in Vietnam, not aggression — read more in [Defensive Riding on a Motorbike in Vietnam]({{ '/articles/defensive-riding-motorbike-vietnam/' | relative_url }}).
 
 ## Watch the blind-spot mirrors of bigger vehicles
 
-A bus or truck heading toward your merge point may not have seen you at all; assume you are invisible until proven otherwise. riding-motorbike-blind-spots-vietnam covers riding around large vehicles in detail.
+A bus or truck heading toward your merge point may not have seen you at all; assume you are invisible until proven otherwise. [Blind Spots: Riding Around Buses and Trucks in Vietnam]({{ '/articles/riding-motorbike-blind-spots-vietnam/' | relative_url }}) covers riding around large vehicles in detail.
 
 ## Practise the move off-peak
 
-Do your first merges on a quiet Sunday morning, then graduate to rush hour once the timing makes sense. For the general skill base, start with slow-speed-control-motorbike-vietnam, and for when traffic thickens, traffic-at-rush-hour-riding-hanoi.
+Do your first merges on a quiet Sunday morning, then graduate to rush hour once the timing makes sense. For the general skill base, start with [Slow-Speed Control: Riding a Motorbike Through Dense Traffic]({{ '/articles/slow-speed-control-motorbike-vietnam/' | relative_url }}), and for when traffic thickens, [Rush Hour Riding in Hanoi: Staying Safe in Peak Traffic]({{ '/articles/traffic-at-rush-hour-riding-hanoi/' | relative_url }}).

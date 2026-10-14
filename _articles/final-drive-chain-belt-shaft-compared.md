@@ -23,11 +23,11 @@ The final drive is the last link between engine and wheel, and Vietnam's fleet u
 
 ## Chain drive: the honest default
 
-Chains are cheap, efficient, easy to inspect and understood by literally every mechanic in the country. The trade is maintenance: they need cleaning, lubrication, correct tension and sprocket wear checks, and they live hard lives in dust and rain. The full routine is in chain-maintenance-motorbike-vietnam, the wear-and-replacement logic in chain-sprocket-replacement-motorbike, and the lubrication context in lubrication-points-motorbike-vietnam. A neglected chain is the most common "mystery" source of clunky, notchy drive feel on the road.
+Chains are cheap, efficient, easy to inspect and understood by literally every mechanic in the country. The trade is maintenance: they need cleaning, lubrication, correct tension and sprocket wear checks, and they live hard lives in dust and rain. The full routine is in [Chain Maintenance on a Motorbike in Vietnam]({{ '/articles/chain-maintenance-motorbike-vietnam/' | relative_url }}), the wear-and-replacement logic in [Chain and Sprocket Wear: Knowing When to Replace]({{ '/articles/chain-sprocket-replacement-motorbike/' | relative_url }}), and the lubrication context in [Grease Points: Where Lubrication Matters on a Motorbike]({{ '/articles/lubrication-points-motorbike-vietnam/' | relative_url }}). A neglected chain is the most common "mystery" source of clunky, notchy drive feel on the road.
 
 ## Belt drive: the scooter reality
 
-Automatic scooters do not use a chain to the wheel at all — the rubber CVT belt inside the transmission is their "final drive", and it wears on its own schedule. Symptoms of belt wear and the inspection logic are in cvt-belt-variator-scooter-vietnam. The practical difference from a chain: a belt asks for nothing between services but fails suddenly when it finally fails, so riding on an old belt of unknown age is a gamble with the ride home.
+Automatic scooters do not use a chain to the wheel at all — the rubber CVT belt inside the transmission is their "final drive", and it wears on its own schedule. Symptoms of belt wear and the inspection logic are in [CVT Belts and Variators: Automatic Scooter Drivetrain Basics]({{ '/articles/cvt-belt-variator-scooter-vietnam/' | relative_url }}). The practical difference from a chain: a belt asks for nothing between services but fails suddenly when it finally fails, so riding on an old belt of unknown age is a gamble with the ride home.
 
 ## Shaft drive: the low-maintenance outlier
 
@@ -35,6 +35,6 @@ Shaft drives hide their gears in oil-filled housings and ask only for oil change
 
 ## Choosing and living with the choice
 
-You rarely choose the final drive separately from the bike — but you can choose the bike knowing the care bill. For most Vietnamese riding, the chain's ubiquity and the repair ecosystem's familiarity are decisive; for a pure city scooter, the belt-in-CVT reality just moves maintenance inside the transmission cover; for high-mileage touring, the shaft earns its calm. Whatever the system, honest service scheduling — motorbike-service-when-vietnam — beats every spec-sheet argument.
+You rarely choose the final drive separately from the bike — but you can choose the bike knowing the care bill. For most Vietnamese riding, the chain's ubiquity and the repair ecosystem's familiarity are decisive; for a pure city scooter, the belt-in-CVT reality just moves maintenance inside the transmission cover; for high-mileage touring, the shaft earns its calm. Whatever the system, honest service scheduling — [When to Service a Motorbike in Vietnam]({{ '/articles/motorbike-service-when-vietnam/' | relative_url }}) — beats every spec-sheet argument.
 
 Match the care to the drive, and all three will outlast the rider's enthusiasm for arguing about them.

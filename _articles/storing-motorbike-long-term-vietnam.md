@@ -23,19 +23,19 @@ Motorbikes do not like sitting still — and in Vietnam's humidity they like it 
 
 ## Before it sits
 
-Fill the tank (a full tank leaves less air space for condensation — the rust-from-inside problem) and note the fuel: old petrol degrades over months, so plan either a fuel stabiliser appropriate for the fuel in use, or simply run the tank low if the storage is short and refuel fresh on return. Oil: storing on old, contaminated oil lets acids sit against the bearings — an oil change just before storage is the classic kind thing to do, with the manual's specified oil. Chain: clean and lube it; a dry chain in humid air rusts visibly within weeks (chain-maintenance-motorbike-vietnam).
+Fill the tank (a full tank leaves less air space for condensation — the rust-from-inside problem) and note the fuel: old petrol degrades over months, so plan either a fuel stabiliser appropriate for the fuel in use, or simply run the tank low if the storage is short and refuel fresh on return. Oil: storing on old, contaminated oil lets acids sit against the bearings — an oil change just before storage is the classic kind thing to do, with the manual's specified oil. Chain: clean and lube it; a dry chain in humid air rusts visibly within weeks ([Chain Maintenance on a Motorbike in Vietnam]({{ '/articles/chain-maintenance-motorbike-vietnam/' | relative_url }})).
 
 ## The battery
 
-The first casualty of storage. Disconnect it and ideally store it somewhere cool and dry, or leave a small charger on it — battery-care-motorbike-vietnam covers the options. A battery left connected in a humid shed discharges and may not recover.
+The first casualty of storage. Disconnect it and ideally store it somewhere cool and dry, or leave a small charger on it — [Battery Care on a Motorbike]({{ '/articles/battery-care-motorbike-vietnam/' | relative_url }}) covers the options. A battery left connected in a humid shed discharges and may not recover.
 
 ## Where it sleeps
 
-Ventilated and covered, not sealed: motorcycle-rust-prevention-vietnam covers why plastic wrapping is the enemy. Off the ground if possible — tyres develop flat spots over months, so centre-stand storage or periodic rolling helps. Dry the bike fully before it goes under the cover.
+Ventilated and covered, not sealed: [Preventing Rust on a Motorbike in Vietnam]({{ '/articles/motorcycle-rust-prevention-vietnam/' | relative_url }}) covers why plastic wrapping is the enemy. Off the ground if possible — tyres develop flat spots over months, so centre-stand storage or periodic rolling helps. Dry the bike fully before it goes under the cover.
 
 ## Coming back
 
-Before starting: fresh fuel if the old sat long, battery checked, tyre pressures checked, all fluids looked at, chain checked, and a walkaround of the lights and brakes. First start in an open space, first ride gentle. Renters who pause riding for months should talk to the shop about the arrangement — rental-motorbike-care-long-term-hanoi covers the renter side.
+Before starting: fresh fuel if the old sat long, battery checked, tyre pressures checked, all fluids looked at, chain checked, and a walkaround of the lights and brakes. First start in an open space, first ride gentle. Renters who pause riding for months should talk to the shop about the arrangement — [Looking After a Rental Motorbike Over a Long Term]({{ '/articles/rental-motorbike-care-long-term-hanoi/' | relative_url }}) covers the renter side.
 
 ## The one-line version
 

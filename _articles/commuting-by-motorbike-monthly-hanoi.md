@@ -24,7 +24,7 @@ Most monthly rentals in Hanoi exist for one reason: the daily commute. A bike be
 
 ## Choose for the route, not the price
 
-A bike you ride twice a day, every day, should fit your body and your route — easy filtering width for narrow lanes, comfortable seat height, storage for a bag. The model choice logic is in best-motorbike-for-commuting-hanoi; on a monthly rental you also have the option to test your real commute for a week before committing, which test-riding-before-monthly-rental-hanoi covers.
+A bike you ride twice a day, every day, should fit your body and your route — easy filtering width for narrow lanes, comfortable seat height, storage for a bag. The model choice logic is in [Best Motorbike for Commuting in Hanoi]({{ '/articles/best-motorbike-for-commuting-hanoi/' | relative_url }}); on a monthly rental you also have the option to test your real commute for a week before committing, which [Trying a Motorbike Before Committing to a Monthly Rental]({{ '/articles/test-riding-before-monthly-rental-hanoi/' | relative_url }}) covers.
 
 ## Parking at both ends
 
@@ -32,11 +32,11 @@ Your commute is only as stable as your parking. At home, a guarded spot or build
 
 ## Mileage adds up fast
 
-Two cross-city trips a day can mean well over 1,000 km a month. That is fine — it just makes you a high-mileage renter, with the check rhythm and wear items described in high-mileage-monthly-rental-hanoi. Budget a small monthly amount for consumables that may be your responsibility, such as tubes and tyres.
+Two cross-city trips a day can mean well over 1,000 km a month. That is fine — it just makes you a high-mileage renter, with the check rhythm and wear items described in [High Monthly Mileage on a Rental Motorbike in Hanoi]({{ '/articles/high-mileage-monthly-rental-hanoi/' | relative_url }}). Budget a small monthly amount for consumables that may be your responsibility, such as tubes and tyres.
 
 ## Weather and season
 
-Hanoi summers bring sudden heavy rain and winters bring cold drizzle. Keep a rain jacket under the seat, allow extra time in the rainy season, and check your lights weekly in winter — the weekly routine is in monthly-rental-inspection-schedule-hanoi.
+Hanoi summers bring sudden heavy rain and winters bring cold drizzle. Keep a rain jacket under the seat, allow extra time in the rainy season, and check your lights weekly in winter — the weekly routine is in [A Month with a Rental Motorbike: Inspection and Check Routine]({{ '/articles/monthly-rental-inspection-schedule-hanoi/' | relative_url }}).
 
 ## The one-line version
 

@@ -23,7 +23,7 @@ Monthly renters face a temptation daily riders never do: making a bike that is n
 
 ## Read the agreement first
 
-The contract you signed defines what you may change — start there: motorbike-rental-agreement-hanoi. Reversible additions (your own phone mount, a tank bag, a seat pad you remove at return) are almost never a problem, because the bike returns exactly as it left. Anything that drills, cuts, rewires or removes factory parts is a modification to someone else’s property: brackets drilled into bodywork, spliced electrical wiring, swapped exhausts, removed mirrors.
+The contract you signed defines what you may change — start there: [Understanding a Motorbike Rental Agreement in Hanoi]({{ '/articles/motorbike-rental-agreement-hanoi/' | relative_url }}). Reversible additions (your own phone mount, a tank bag, a seat pad you remove at return) are almost never a problem, because the bike returns exactly as it left. Anything that drills, cuts, rewires or removes factory parts is a modification to someone else’s property: brackets drilled into bodywork, spliced electrical wiring, swapped exhausts, removed mirrors.
 
 ## The grey zone: electricals
 
@@ -31,8 +31,8 @@ Phone chargers and USB outlets are the classic case. A plug-in accessory socket 
 
 ## Maintenance versus modification
 
-Consumables are not modifications: checking and (where the agreement provides for it) replacing oil, bulbs and brake pads is care, not change — the division of duties is set out in maintenance-during-monthly-rental-hanoi and rental-motorbike-care-long-term-hanoi. When in doubt about anything mechanical, ask the owner; a good rental relationship makes the owner your mechanic partner, not your adversary.
+Consumables are not modifications: checking and (where the agreement provides for it) replacing oil, bulbs and brake pads is care, not change — the division of duties is set out in [Maintenance During a Monthly Motorbike Rental in Hanoi]({{ '/articles/maintenance-during-monthly-rental-hanoi/' | relative_url }}) and [Looking After a Rental Motorbike Over a Long Term]({{ '/articles/rental-motorbike-care-long-term-hanoi/' | relative_url }}). When in doubt about anything mechanical, ask the owner; a good rental relationship makes the owner your mechanic partner, not your adversary.
 
 ## At return
 
-Remove your accessories before returning the bike, and restore anything you adjusted. You are responsible for the bike’s condition and its return — the responsibility framework in theft-loss-responsibility-rental-motorbike-hanoi extends naturally to damage from unapproved modifications: you can be charged for them. The rule of thumb: if you cannot undo it with a spanner in ten minutes, you need the owner’s permission first.
+Remove your accessories before returning the bike, and restore anything you adjusted. You are responsible for the bike’s condition and its return — the responsibility framework in [Theft and Loss Responsibility on Rental Motorbikes in Hanoi]({{ '/articles/theft-loss-responsibility-rental-motorbike-hanoi/' | relative_url }}) extends naturally to damage from unapproved modifications: you can be charged for them. The rule of thumb: if you cannot undo it with a spanner in ten minutes, you need the owner’s permission first.

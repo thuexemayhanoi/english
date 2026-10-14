@@ -23,15 +23,15 @@ A monthly rental blurs the line between rider and owner: you ride the bike daily
 
 ## Why it matters more on a rental
 
-On a long rental, nobody remembers whether the oil was changed three weeks ago or three months ago — you think the shop did it, the shop thinks you asked. A log ends the ambiguity: dates, odometer, work done, who did it. If a dispute ever arises about how the bike was treated, or you simply want to hand back a bike with a clean story, the log is the story. The habits that make a long rental smooth overall are collected in rental-motorbike-care-long-term-hanoi.
+On a long rental, nobody remembers whether the oil was changed three weeks ago or three months ago — you think the shop did it, the shop thinks you asked. A log ends the ambiguity: dates, odometer, work done, who did it. If a dispute ever arises about how the bike was treated, or you simply want to hand back a bike with a clean story, the log is the story. The habits that make a long rental smooth overall are collected in [Looking After a Rental Motorbike Over a Long Term]({{ '/articles/rental-motorbike-care-long-term-hanoi/' | relative_url }}).
 
 ## What to record
 
-Keep it brutally simple — a note per event: date, kilometres, what was done or noticed, by whom, and anything agreed with the rental shop. Record the checks you do yourself (the level-and-condition routine in checking-engine-oil-motorbike is a weekly two-minute example), anything a mechanic does, and every conversation where the shop says "we will handle X" or "you handle Y". That last category is the one that prevents deposit arguments.
+Keep it brutally simple — a note per event: date, kilometres, what was done or noticed, by whom, and anything agreed with the rental shop. Record the checks you do yourself (the level-and-condition routine in [Checking Engine Oil on a Motorbike]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }}) is a weekly two-minute example), anything a mechanic does, and every conversation where the shop says "we will handle X" or "you handle Y". That last category is the one that prevents deposit arguments.
 
 ## Knowing whose job is whose
 
-Responsibility boundaries on a rental belong to the rental agreement, not to folklore: consumables and minor items are handled depending on the situation and the arrangement, so the honest pattern is to confirm with the shop rather than assume. For anything about what the rental business itself includes or supports, the shop's approved business facts are the authority; for anything not stated there, the answer is a question, not a guess. When the bike needs actual service work, the scheduling logic in motorbike-service-when-vietnam and the shop conversation in talking-to-mechanic-vietnam apply to rentals exactly as they do to owned bikes.
+Responsibility boundaries on a rental belong to the rental agreement, not to folklore: consumables and minor items are handled depending on the situation and the arrangement, so the honest pattern is to confirm with the shop rather than assume. For anything about what the rental business itself includes or supports, the shop's approved business facts are the authority; for anything not stated there, the answer is a question, not a guess. When the bike needs actual service work, the scheduling logic in [When to Service a Motorbike in Vietnam]({{ '/articles/motorbike-service-when-vietnam/' | relative_url }}) and the shop conversation in [Getting Repairs Done: Talking to a Vietnamese Mechanic]({{ '/articles/talking-to-mechanic-vietnam/' | relative_url }}) apply to rentals exactly as they do to owned bikes.
 
 ## The deposit argument, pre-empted
 

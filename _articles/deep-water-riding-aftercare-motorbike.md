@@ -19,12 +19,12 @@ sources:
 internal_link_targets: "flooded-streets-riding-motorbike-vietnam, check-motorbike-after-heavy-rain, motorbike-wont-start-after-washing, water-in-fuel-motorbike"
 ---
 
-Hanoi's rainy season puts water on the street faster than drains can take it, and motorbikes wade through it because they must. Riding through standing water is one skill (and a risk decision covered in flooded-streets-riding-motorbike-vietnam); what happens to the machine afterwards is this article. Deep water leaves souvenirs in exactly four systems: brakes, electrics, air intake, and oil.
+Hanoi's rainy season puts water on the street faster than drains can take it, and motorbikes wade through it because they must. Riding through standing water is one skill (and a risk decision covered in [Riding Through Flooded Streets on a Motorbike]({{ '/articles/flooded-streets-riding-motorbike-vietnam/' | relative_url }})); what happens to the machine afterwards is this article. Deep water leaves souvenirs in exactly four systems: brakes, electrics, air intake, and oil.
 
 ## Right after, before anything
 
-- **Do not trust the brakes.** Wet brake pads and discs lose bite for the first applications. Dry them deliberately: ride slowly and drag the brakes gently for a short distance in a safe spot, front and rear separately. Never assume braking is back until you have tested it — the general after-rain routine is in check-motorbike-after-heavy-rain.
-- **Test everything electrical.** Lights, horn, indicators: switch each on while parked. Water in switches produces odd behaviour that dries or corrodes — the humidity defence is in wiring-connectors-humidity-motorbike.
+- **Do not trust the brakes.** Wet brake pads and discs lose bite for the first applications. Dry them deliberately: ride slowly and drag the brakes gently for a short distance in a safe spot, front and rear separately. Never assume braking is back until you have tested it — the general after-rain routine is in [What to Check After Your Motorbike Gets Soaked]({{ '/articles/check-motorbike-after-heavy-rain/' | relative_url }}).
+- **Test everything electrical.** Lights, horn, indicators: switch each on while parked. Water in switches produces odd behaviour that dries or corrodes — the humidity defence is in [Protecting Wiring and Connectors from Humidity on a Motorbike]({{ '/articles/wiring-connectors-humidity-motorbike/' | relative_url }}).
 
 ## The air intake question
 
@@ -32,14 +32,14 @@ If the water was deep — above exhaust outlet height, or deep enough that the b
 
 ## The oil question: the one that matters most
 
-If the engine ingested water or the bike sat submerged to above crankcase level, the oil is suspect. Water that passes the airway or breather ends up in the sump, where it settles beneath the oil. The check: after a warm run and a settling pause, look at the oil — through a sight glass, on a dipstick, or by draining a little. Milky, coffee-coloured oil means water has emulsified: change the oil, run briefly, change again if it still shows milk. Oil discipline and the level routine are in checking-engine-oil-motorbike and changing-engine-oil-at-home-vietnam. Skipping this check is how flood bikes die slow deaths months later.
+If the engine ingested water or the bike sat submerged to above crankcase level, the oil is suspect. Water that passes the airway or breather ends up in the sump, where it settles beneath the oil. The check: after a warm run and a settling pause, look at the oil — through a sight glass, on a dipstick, or by draining a little. Milky, coffee-coloured oil means water has emulsified: change the oil, run briefly, change again if it still shows milk. Oil discipline and the level routine are in [Checking Engine Oil on a Motorbike]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }}) and [Changing Engine Oil at Home]({{ '/articles/changing-engine-oil-at-home-vietnam/' | relative_url }}). Skipping this check is how flood bikes die slow deaths months later.
 
 ## Also: fuel, bearings and rust
 
-- **Fuel.** A poor cap seal admits water — symptoms and the drain-and-filter response are in water-in-fuel-motorbike.
+- **Fuel.** A poor cap seal admits water — symptoms and the drain-and-filter response are in [Water in the Fuel: How It Gets There and What It Does]({{ '/articles/water-in-fuel-motorbike/' | relative_url }}).
 - **Cables and levers.** Wading pushes water and grit into cable ends and lever pivots; a lube session afterwards prevents the stiffness that follows every wet season.
 - **Bearings and brakes.** Wheel and steering bearings that wade repeatedly don't fail at the puddle, they fail months early from washed-out grease. Clicky, notchy steering after flood season is a bearing inspection.
-- **Fast corrosion.** Salt-free Hanoi floodwater is kinder than coastal floodwater, but it still accelerates rust on chains, fasteners and exhausts — the post-ride check-over matters more, not less, after wading; see check-motorbike-after-heavy-rain.
+- **Fast corrosion.** Salt-free Hanoi floodwater is kinder than coastal floodwater, but it still accelerates rust on chains, fasteners and exhausts — the post-ride check-over matters more, not less, after wading; see [What to Check After Your Motorbike Gets Soaked]({{ '/articles/check-motorbike-after-heavy-rain/' | relative_url }}).
 
 ## When to stop riding
 

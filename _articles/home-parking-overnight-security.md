@@ -23,16 +23,16 @@ Most motorbike theft happens at night, near home, where your guard is down and t
 
 ## Where the bike sleeps
 
-A locked ground-floor room or gated building compound is the gold standard in Vietnamese urban housing; a shared open alley or a sidewalk spot is the risk end. If you control nothing else, at least vary where in the street you park, because a bike that always sits in the same spot at the same hour is a scheduled target. The public-parking logic of where-to-park-motorbike-hanoi applies at home too: lit, visible, foot traffic, near cameras.
+A locked ground-floor room or gated building compound is the gold standard in Vietnamese urban housing; a shared open alley or a sidewalk spot is the risk end. If you control nothing else, at least vary where in the street you park, because a bike that always sits in the same spot at the same hour is a scheduled target. The public-parking logic of [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}) applies at home too: lit, visible, foot traffic, near cameras.
 
 ## The overnight layer stack
 
-Steering lock, always. A chain or disc lock through something solid — if there is an immovable post or railing, anchoring is the single biggest upgrade, because it defeats the van method (the lock options are in disc-locks-chains-motorbike-security). A cover (motorbike-covers-parking-outdoors-vietnam) hides the model from casing eyes and the weather besides. For high-value bikes in exposed spots, a tracker adds the after-theft layer 
-(gps-trackers-motorbikes-vietnam). Each layer is cheap; the stack is what works.
+Steering lock, always. A chain or disc lock through something solid — if there is an immovable post or railing, anchoring is the single biggest upgrade, because it defeats the van method (the lock options are in [Motorbike Security: Disc Locks, Chains and What Actually Deters]({{ '/articles/disc-locks-chains-motorbike-security/' | relative_url }})). A cover ([Motorbike Covers: Protecting a Bike Parked Outside]({{ '/articles/motorbike-covers-parking-outdoors-vietnam/' | relative_url }})) hides the model from casing eyes and the weather besides. For high-value bikes in exposed spots, a tracker adds the after-theft layer 
+([GPS Trackers for Motorbikes in Vietnam]({{ '/articles/gps-trackers-motorbikes-vietnam/' | relative_url }})). Each layer is cheap; the stack is what works.
 
 ## Renter-specific notes
 
-If the bike is a monthly rental, your agreement makes you responsible for its loss — the practical and contractual sides are laid out in keeping-rental-motorbike-secure-hanoi and theft-loss-responsibility-rental-motorbike-hanoi. Ask the landlord or building about secure parking before you sign anything; in Hanoi, parking access is a genuine factor in choosing housing.
+If the bike is a monthly rental, your agreement makes you responsible for its loss — the practical and contractual sides are laid out in [Keeping a Rental Motorbike Secure Over Months in Hanoi]({{ '/articles/keeping-rental-motorbike-secure-hanoi/' | relative_url }}) and [Theft and Loss Responsibility on Rental Motorbikes in Hanoi]({{ '/articles/theft-loss-responsibility-rental-motorbike-hanoi/' | relative_url }}). Ask the landlord or building about secure parking before you sign anything; in Hanoi, parking access is a genuine factor in choosing housing.
 
 ## The habits that matter most
 

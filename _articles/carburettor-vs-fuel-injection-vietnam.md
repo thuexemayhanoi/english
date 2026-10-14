@@ -27,15 +27,15 @@ A carburettor mixes fuel and air mechanically, tuned by jets and screws adjusted
 
 ## In Vietnamese conditions
 
-Carburettors are loved by Vietnamese mechanics precisely because they are adjustable, fixable with hand tools, and cheap to service anywhere in the country. Their weaknesses: they need occasional cleaning and tuning, and long storage (a bike sitting for months) lets fuel residue gum them up — storing-motorbike-long-term-vietnam covers the storage habits that prevent it. FI's strengths are cold-starting reliability, better fuel economy and cleaner running; its weakness in practice is that when something in the sensor chain fails, diagnosis needs a workshop with the right tester rather than any roadside stand.
+Carburettors are loved by Vietnamese mechanics precisely because they are adjustable, fixable with hand tools, and cheap to service anywhere in the country. Their weaknesses: they need occasional cleaning and tuning, and long storage (a bike sitting for months) lets fuel residue gum them up — [Storing a Motorbike for Weeks or Months in Vietnam]({{ '/articles/storing-motorbike-long-term-vietnam/' | relative_url }}) covers the storage habits that prevent it. FI's strengths are cold-starting reliability, better fuel economy and cleaner running; its weakness in practice is that when something in the sensor chain fails, diagnosis needs a workshop with the right tester rather than any roadside stand.
 
 ## For renters
 
-Renters feel the difference mostly in starting behaviour: FI bikes start on the button every time; carburettor bikes occasionally need a little throttle and patience cold. Neither should misfire or hunt at idle on a healthy bike — if one does, the rental shop or a workshop visit is the fix; outside-repair-shops-rental-motorbike covers the process.
+Renters feel the difference mostly in starting behaviour: FI bikes start on the button every time; carburettor bikes occasionally need a little throttle and patience cold. Neither should misfire or hunt at idle on a healthy bike — if one does, the rental shop or a workshop visit is the fix; [Can You Use Outside Repair Shops on a Rental Motorbike?]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) covers the process.
 
 ## For buyers and owners
 
-The honest rule: neither system is "better" in Vietnam — carburettors suit riders who want any-mechanic serviceability, FI suits riders who want hands-off reliability. Where to have either serviced is covered in motorbike-service-where-vietnam.
+The honest rule: neither system is "better" in Vietnam — carburettors suit riders who want any-mechanic serviceability, FI suits riders who want hands-off reliability. Where to have either serviced is covered in [Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }}).
 
 ## The one-line version
 

@@ -23,7 +23,7 @@ Most of Vietnam's modern fleet is four-stroke, but plenty of older two-strokes s
 
 ## How to tell them apart
 
-Two-strokes burn oil mixed with the petrol (or injected by a separate pump) — they smell of burnt oil and puff light smoke, especially when started or revved. Four-strokes keep their oil in a sump and recycle it; the exhaust should be essentially clear. Old two-stroke riders talk of "mixing petrol" — the tell-tale habit that separates the two worlds. If in doubt, the exhaust is the honest witness — exhaust-smoke-motorbike-meaning decodes the colours.
+Two-strokes burn oil mixed with the petrol (or injected by a separate pump) — they smell of burnt oil and puff light smoke, especially when started or revved. Four-strokes keep their oil in a sump and recycle it; the exhaust should be essentially clear. Old two-stroke riders talk of "mixing petrol" — the tell-tale habit that separates the two worlds. If in doubt, the exhaust is the honest witness — [What Exhaust Smoke Is Telling You]({{ '/articles/exhaust-smoke-motorbike-meaning/' | relative_url }}) decodes the colours.
 
 ## The two-stroke reality
 
@@ -31,8 +31,8 @@ Fewer moving parts and a beautiful simplicity, but: oil must be supplied continu
 
 ## The four-stroke reality
 
-Cleaner, quieter, more economical, longer engine life when the oil is changed on schedule — checking-engine-oil-motorbike covers the level habits and motorbike-service-when-vietnam the timing. Their weakness is complexity: neglected, they develop the valve, carburettor and idling issues that dominate the troubleshooting pages.
+Cleaner, quieter, more economical, longer engine life when the oil is changed on schedule — [Checking Engine Oil on a Motorbike]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }}) covers the level habits and [When to Service a Motorbike in Vietnam]({{ '/articles/motorbike-service-when-vietnam/' | relative_url }}) the timing. Their weakness is complexity: neglected, they develop the valve, carburettor and idling issues that dominate the troubleshooting pages.
 
 ## Which should a rider in Vietnam choose today
 
-For daily transport and renting, four-stroke is the sensible default: every shop knows them, parts are everywhere, and the running costs are lower. Two-strokes survive as enthusiast and legacy machines — rewarding if you enjoy the mixing ritual and the smell, demanding if you do not. Both share the same road skills and the same maintenance culture; carburettor-vs-fuel-injection-vietnam covers the fuelling systems both engines use.
+For daily transport and renting, four-stroke is the sensible default: every shop knows them, parts are everywhere, and the running costs are lower. Two-strokes survive as enthusiast and legacy machines — rewarding if you enjoy the mixing ritual and the smell, demanding if you do not. Both share the same road skills and the same maintenance culture; [Carburettor vs Fuel Injection on Vietnamese Motorbikes]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}) covers the fuelling systems both engines use.

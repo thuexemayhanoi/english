@@ -27,12 +27,12 @@ A proper maintenance charger (often called a smart or float charger) holds the b
 
 ## Who needs one
 
-Anyone whose bike sits for weeks at a time: seasonal riders, the second bike, machines stored during travel. The alternatives are laid out in maintaining-motorbike-you-rarely-ride and the full-storage discipline in storing-motorbike-long-term-vietnam — the charger is the battery chapter of those checklists. Daily commuters do not need one; the alternator does the work.
+Anyone whose bike sits for weeks at a time: seasonal riders, the second bike, machines stored during travel. The alternatives are laid out in [Maintaining a Motorbike You Rarely Ride]({{ '/articles/maintaining-motorbike-you-rarely-ride/' | relative_url }}) and the full-storage discipline in [Storing a Motorbike for Weeks or Months in Vietnam]({{ '/articles/storing-motorbike-long-term-vietnam/' | relative_url }}) — the charger is the battery chapter of those checklists. Daily commuters do not need one; the alternator does the work.
 
 ## Using it properly
 
-Connect to an accessible socket or permanent pigtail fitted to the battery terminals (a five-minute workshop job); park the bike, plug in, forget. Ventilation matters for lead-acid batteries — charge in a space with airflow, never sealed. Check terminal cleanliness periodically: humidity corrodes terminals faster than the battery itself ages, and the corrosion treatment belongs to battery-care-motorbike-vietnam. And when a battery has sat deeply flat several times, accept the verdict — the replacement logic in choosing-replacement-battery-motorbike-vietnam will tell you when no charger brings it back.
+Connect to an accessible socket or permanent pigtail fitted to the battery terminals (a five-minute workshop job); park the bike, plug in, forget. Ventilation matters for lead-acid batteries — charge in a space with airflow, never sealed. Check terminal cleanliness periodically: humidity corrodes terminals faster than the battery itself ages, and the corrosion treatment belongs to [Battery Care on a Motorbike]({{ '/articles/battery-care-motorbike-vietnam/' | relative_url }}). And when a battery has sat deeply flat several times, accept the verdict — the replacement logic in [Choosing a Replacement Motorbike Battery in Vietnam]({{ '/articles/choosing-replacement-battery-motorbike-vietnam/' | relative_url }}) will tell you when no charger brings it back.
 
 ## The honest cost math
 
-A smart charger costs a fraction of a battery and prevents the classic scenario: the dead-battery morning (dead-battery-motorbike-vietnam is the rescue article). For a bike that sits, it is the single highest-value accessory you can leave plugged in.
+A smart charger costs a fraction of a battery and prevents the classic scenario: the dead-battery morning ([A Dead Battery: Recovering a Motorbike That Won't Start]({{ '/articles/dead-battery-motorbike-vietnam/' | relative_url }}) is the rescue article). For a bike that sits, it is the single highest-value accessory you can leave plugged in.

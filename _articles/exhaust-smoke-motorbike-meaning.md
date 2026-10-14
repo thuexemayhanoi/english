@@ -23,7 +23,7 @@ Your exhaust is a diagnostic instrument that reports for free every time you sta
 
 ## Blue smoke: oil is burning
 
-Oil is getting into the combustion chamber — worn valve seals, worn piston rings, or an overfilled sump. Blue on start-up that clears suggests seals; blue under load that worsens suggests rings; blue right after an oil change means too much oil was put in (checking-engine-oil-motorbike explains the correct level). If blue smoke appears suddenly alongside a bike that is hard to start, stop riding and get it looked at — an engine run low on oil destroys itself quickly, and the heat side of that story is in overheating-motorbike-vietnam.
+Oil is getting into the combustion chamber — worn valve seals, worn piston rings, or an overfilled sump. Blue on start-up that clears suggests seals; blue under load that worsens suggests rings; blue right after an oil change means too much oil was put in ([Checking Engine Oil on a Motorbike]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }}) explains the correct level). If blue smoke appears suddenly alongside a bike that is hard to start, stop riding and get it looked at — an engine run low on oil destroys itself quickly, and the heat side of that story is in [An Overheating Motorbike: Causes and What to Do]({{ '/articles/overheating-motorbike-vietnam/' | relative_url }}).
 
 ## White smoke: water vapour or fuel
 
@@ -31,8 +31,8 @@ Thin white that disappears within a minute or two on a cold, humid Hanoi morning
 
 ## Black smoke: too much fuel
 
-The mixture is rich: clogged air filter, badly adjusted or worn carburettor, or a malfunctioning fuel-injection system — carburettor-vs-fuel-injection-vietnam covers the two systems. Black smoke usually arrives with fouled, sooty spark plugs (spark-plug-motorbike-vietnam) and poor fuel economy. It is rarely an emergency, but it wrecks plugs and fuel bills.
+The mixture is rich: clogged air filter, badly adjusted or worn carburettor, or a malfunctioning fuel-injection system — [Carburettor vs Fuel Injection on Vietnamese Motorbikes]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}) covers the two systems. Black smoke usually arrives with fouled, sooty spark plugs ([Spark Plugs on a Motorbike: Basics for Vietnam]({{ '/articles/spark-plug-motorbike-vietnam/' | relative_url }})) and poor fuel economy. It is rarely an emergency, but it wrecks plugs and fuel bills.
 
 ## The habit that catches it early
 
-Once a week, start the bike and glance back at the exhaust in the morning. A change in what comes out is one of the earliest signals of engine wear, long before anything sounds different — pair it with the noise guide diagnosing-motorbike-noises-vietnam and you have the two cheapest diagnostic tools on any bike. For anything beyond a filter swap, take the colour story to a mechanic rather than a guess.
+Once a week, start the bike and glance back at the exhaust in the morning. A change in what comes out is one of the earliest signals of engine wear, long before anything sounds different — pair it with the noise guide [Diagnosing Motorbike Noises: A Rider's Guide]({{ '/articles/diagnosing-motorbike-noises-vietnam/' | relative_url }}) and you have the two cheapest diagnostic tools on any bike. For anything beyond a filter swap, take the colour story to a mechanic rather than a guess.

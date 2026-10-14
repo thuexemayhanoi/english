@@ -19,7 +19,7 @@ sources:
 internal_link_targets: "air-cooled-vs-liquid-cooled-motorbike, motorbike-overheating-causes, check-motorbike-after-heavy-rain, motorbike-service-when-vietnam"
 ---
 
-Liquid-cooled motorbikes are increasingly common on Vietnamese streets, and their cooling system is more maintenance than most riders realise. The engineering trade-offs between air and liquid cooling are explained in air-cooled-vs-liquid-cooled-motorbike; this article is about keeping the liquid side of that bargain working in Hanoi's heat.
+Liquid-cooled motorbikes are increasingly common on Vietnamese streets, and their cooling system is more maintenance than most riders realise. The engineering trade-offs between air and liquid cooling are explained in [Air-Cooled vs Liquid-Cooled Motorbikes in Vietnam Traffic]({{ '/articles/air-cooled-vs-liquid-cooled-motorbike/' | relative_url }}); this article is about keeping the liquid side of that bargain working in Hanoi's heat.
 
 ## What the coolant actually does
 
@@ -35,11 +35,11 @@ The radiator is a swarm of thin aluminium fins that pass air and heat. Its enemi
 
 ## Hoses, clamps and the overflow bottle
 
-Rubber hoses under a hot bonnet-equivalent live hard lives. Squeeze them cold: they should feel firm but springy, not rock-hard, mushy, or crunchy. Look for weeping at the clamps and white or rust-coloured crust at joints — that is dried coolant, and it means a slow leak that becomes a fast one. Check the small overflow/expansion bottle sits between its marks when cold. These checks belong in the wider walk-round in check-motorbike-after-heavy-rain.
+Rubber hoses under a hot bonnet-equivalent live hard lives. Squeeze them cold: they should feel firm but springy, not rock-hard, mushy, or crunchy. Look for weeping at the clamps and white or rust-coloured crust at joints — that is dried coolant, and it means a slow leak that becomes a fast one. Check the small overflow/expansion bottle sits between its marks when cold. These checks belong in the wider walk-round in [What to Check After Your Motorbike Gets Soaked]({{ '/articles/check-motorbike-after-heavy-rain/' | relative_url }}).
 
 ## The fan and the temperature story
 
-The electric fan is what saves a liquid-cooled bike in stopped traffic: air-cooled bikes survive idling by radiant airflow and luck, but a radiator needs the fan when the bike is standing still. If the temperature climbs only when stationary and drops as soon as you move, suspect the fan — its fuse, its connector, or the fan itself. The full diagnostic picture for temperature trouble, including cap and thermostat suspects, is in motorbike-overheating-causes.
+The electric fan is what saves a liquid-cooled bike in stopped traffic: air-cooled bikes survive idling by radiant airflow and luck, but a radiator needs the fan when the bike is standing still. If the temperature climbs only when stationary and drops as soon as you move, suspect the fan — its fuse, its connector, or the fan itself. The full diagnostic picture for temperature trouble, including cap and thermostat suspects, is in [When a Motorbike Overheats]({{ '/articles/motorbike-overheating-causes/' | relative_url }}).
 
 ## Never open a hot system
 
@@ -47,4 +47,4 @@ Opening the radiator cap or reservoir of a hot engine releases pressurised coola
 
 ## Routine
 
-Cooling checks fit naturally into scheduled servicing: coolant condition and level at every service, hoses and clamps inspected, fins cleared, fan operation confirmed before the hot months. The scheduling logic is in motorbike-service-when-vietnam. A maintained cooling system is quiet and boring; a neglected one announces itself at the worst possible intersection.
+Cooling checks fit naturally into scheduled servicing: coolant condition and level at every service, hoses and clamps inspected, fins cleared, fan operation confirmed before the hot months. The scheduling logic is in [When to Service a Motorbike in Vietnam]({{ '/articles/motorbike-service-when-vietnam/' | relative_url }}). A maintained cooling system is quiet and boring; a neglected one announces itself at the worst possible intersection.

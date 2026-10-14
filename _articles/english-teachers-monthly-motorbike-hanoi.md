@@ -24,11 +24,11 @@ English teachers in Hanoi often have the perfect use case for a monthly rental: 
 
 ## The multi-campus problem
 
-A teacher moving between campuses across the city needs a bike that handles stop-start traffic and parks easily at each site. That usually points to a scooter with storage for books and a laptop, charged devices, and rain gear under the seat. Commuting-by-motorbike-monthly-hanoi covers the route-and-parking setup; the model choice itself is in best-bike-for-english-teachers-hanoi.
+A teacher moving between campuses across the city needs a bike that handles stop-start traffic and parks easily at each site. That usually points to a scooter with storage for books and a laptop, charged devices, and rain gear under the seat. Commuting-by-motorbike-monthly-hanoi covers the route-and-parking setup; the model choice itself is in [Best Bike for English Teachers Living in Hanoi]({{ '/articles/best-bike-for-english-teachers-hanoi/' | relative_url }}).
 
 ## Renting across terms
 
-School contracts run by term, and rentals can follow the same rhythm: rent monthly, extend when your contract renews, and shorten or return when term ends. Extending-motorbike-rental-hanoi explains how renewal works, and shortening-long-motorbike-rental-hanoi covers ending early — note there is no automatic refund for unused time, so align the rental end with your contract end rather than overshooting.
+School contracts run by term, and rentals can follow the same rhythm: rent monthly, extend when your contract renews, and shorten or return when term ends. Extending-motorbike-rental-hanoi explains how renewal works, and [Shortening a Long Motorbike Rental in Hanoi]({{ '/articles/shortening-long-motorbike-rental-hanoi/' | relative_url }}) covers ending early — note there is no automatic refund for unused time, so align the rental end with your contract end rather than overshooting.
 
 ## Budgeting the school year
 

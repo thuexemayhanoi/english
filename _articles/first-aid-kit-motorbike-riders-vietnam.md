@@ -27,11 +27,11 @@ Sterile gauze and a couple of bandages, plasters in several sizes, antiseptic wi
 
 ## The injuries that actually happen
 
-Low-speed city falls grind palms, elbows, knees and ankles — road rash and gravel in skin. The treatment sequence: clean it out properly (the part everyone skips), dress it, keep it dressed. Untreated road rash in Hanoi's humidity infects within days. Ankles and feet are the classic sneaker-injury; what-to-wear-riding-motorbike-vietnam covers preventing them rather than dressing them.
+Low-speed city falls grind palms, elbows, knees and ankles — road rash and gravel in skin. The treatment sequence: clean it out properly (the part everyone skips), dress it, keep it dressed. Untreated road rash in Hanoi's humidity infects within days. Ankles and feet are the classic sneaker-injury; [What to Wear Riding a Motorbike in Vietnam]({{ '/articles/what-to-wear-riding-motorbike-vietnam/' | relative_url }}) covers preventing them rather than dressing them.
 
 ## When it is more than a kit problem
 
-Any head impact, any suspected fracture, any loss of consciousness, or any bleed that does not stop with direct pressure: call emergency services and go to a hospital. The scene-response sequence — including the legal duties at an accident — is covered in motorbike-accident-first-aid-vietnam and motorbike-accident-duties-vietnam.
+Any head impact, any suspected fracture, any loss of consciousness, or any bleed that does not stop with direct pressure: call emergency services and go to a hospital. The scene-response sequence — including the legal duties at an accident — is covered in [First Response at a Motorbike Accident in Vietnam]({{ '/articles/motorbike-accident-first-aid-vietnam/' | relative_url }}) and [What to Do After a Motorbike Accident in Vietnam]({{ '/articles/motorbike-accident-duties-vietnam/' | relative_url }}).
 
 ## Kit maintenance
 

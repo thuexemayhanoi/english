@@ -23,11 +23,11 @@ Vietnam's mountain passes — the ones north and west of Hanoi — are among the
 
 ## The pace of a pass
 
-A pass is ridden at the speed of your sight distance and nothing else. Every corner hides a broken-down truck, a buffalo, or gravel fanned across the apex. Slow in, look through, gentle out — cornering-motorbike-vietnam covers the technique. Use the horn on blind corners and before overtaking: it is expected, not aggressive.
+A pass is ridden at the speed of your sight distance and nothing else. Every corner hides a broken-down truck, a buffalo, or gravel fanned across the apex. Slow in, look through, gentle out — [Cornering a Motorbike Well in Vietnam]({{ '/articles/cornering-motorbike-vietnam/' | relative_url }}) covers the technique. Use the horn on blind corners and before overtaking: it is expected, not aggressive.
 
 ## Trucks and buses
 
-Mountain trucks haul slow and stop slower. Never assume one will hold its lane around a bend — gravel and brake-fade push them wide. Give them the whole road they want and wait for a clear, visible stretch to pass; riding-motorbike-blind-spots-vietnam explains why a bike beside a truck on a bend is invisible. Note that motorbikes are banned from expressways, so pass roads are the real network — motorbikes-on-expressway-vietnam covers that rule.
+Mountain trucks haul slow and stop slower. Never assume one will hold its lane around a bend — gravel and brake-fade push them wide. Give them the whole road they want and wait for a clear, visible stretch to pass; [Blind Spots: Riding Around Buses and Trucks in Vietnam]({{ '/articles/riding-motorbike-blind-spots-vietnam/' | relative_url }}) explains why a bike beside a truck on a bend is invisible. Note that motorbikes are banned from expressways, so pass roads are the real network — [Are Motorbikes Allowed on Vietnamese Expressways]({{ '/articles/motorbikes-on-expressway-vietnam/' | relative_url }}) covers that rule.
 
 ## Weather turns fast
 
@@ -35,7 +35,7 @@ Sunshine in the valley can be fog on the ridge. Valley temperature drops fast wi
 
 ## The bike and you
 
-Small scooters can cross passes but struggle on long climbs with a passenger; best-motorbike-for-long-distance-vietnam covers choosing for open roads. Fuel up before remote stretches, and ride the descent with engine braking, not cooked brakes.
+Small scooters can cross passes but struggle on long climbs with a passenger; [Best Motorbike for Long-Distance Riding in Vietnam]({{ '/articles/best-motorbike-for-long-distance-vietnam/' | relative_url }}) covers choosing for open roads. Fuel up before remote stretches, and ride the descent with engine braking, not cooked brakes.
 
 ## The one-line version
 

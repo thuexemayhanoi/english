@@ -27,11 +27,11 @@ Route, pace and regroup points. The rule that matters most: ride your own ride. 
 
 ## Stagger, do not pair up
 
-On open road, ride offset — one rider slightly left of the lane centre, the next slightly right — with a comfortable two-second cushion to the bike ahead. Staggering gives you an escape lane instead of a rear-end if someone brakes. In dense traffic, drop the formation entirely: filtering is a solo skill, and riding-motorbike-blind-spots-vietnam applies double when there are more of you.
+On open road, ride offset — one rider slightly left of the lane centre, the next slightly right — with a comfortable two-second cushion to the bike ahead. Staggering gives you an escape lane instead of a rear-end if someone brakes. In dense traffic, drop the formation entirely: filtering is a solo skill, and [Blind Spots: Riding Around Buses and Trucks in Vietnam]({{ '/articles/riding-motorbike-blind-spots-vietnam/' | relative_url }}) applies double when there are more of you.
 
 ## Signals only work if everyone knows them
 
-Point at hazards, hold a hand up to signal slowing, use a clear arm for turns. Agree on the basics at the start; hand-signals-motorbike-vietnam has the core set. In a group, one rider signals and the next passes it back — that is how a signal reaches the tail.
+Point at hazards, hold a hand up to signal slowing, use a clear arm for turns. Agree on the basics at the start; [Hand Signals for Motorbike Riders in Vietnam]({{ '/articles/hand-signals-motorbike-vietnam/' | relative_url }}) has the core set. In a group, one rider signals and the next passes it back — that is how a signal reaches the tail.
 
 ## The slowest rider leads
 
@@ -39,4 +39,4 @@ It sounds backwards, but putting the least experienced rider in front keeps the 
 
 ## Stop when someone is tired
 
-Tired riders make late decisions. Schedule real breaks — riding-fatigue-motorbike-vietnam explains how fatigue compounds on multi-hour days. Renting several bikes for a group has its own logistics; renting-motorbikes-group-hanoi covers that side.
+Tired riders make late decisions. Schedule real breaks — [Riding Fatigue on Long Motorbike Trips]({{ '/articles/riding-fatigue-motorbike-vietnam/' | relative_url }}) explains how fatigue compounds on multi-hour days. Renting several bikes for a group has its own logistics; [Renting Motorbikes for a Group in Hanoi]({{ '/articles/renting-motorbikes-group-hanoi/' | relative_url }}) covers that side.

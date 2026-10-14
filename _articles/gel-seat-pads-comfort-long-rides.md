@@ -23,16 +23,16 @@ Vietnamese scooters are designed around short city hops; the stock seat punishes
 
 ## What actually hurts
 
-Long-ride soreness is mostly pressure and heat, not just hardness. Soft stock foam compresses fully, so your sit bones ride on the pan; tropical heat prevents the micro-shifts that keep blood flowing. That is why an over-soft cushion can make things worse — it spreads pressure to soft tissue and cooks you. Fatigue from the rest of the riding position compounds it — the full picture is in riding-fatigue-motorbike-vietnam.
+Long-ride soreness is mostly pressure and heat, not just hardness. Soft stock foam compresses fully, so your sit bones ride on the pan; tropical heat prevents the micro-shifts that keep blood flowing. That is why an over-soft cushion can make things worse — it spreads pressure to soft tissue and cooks you. Fatigue from the rest of the riding position compounds it — the full picture is in [Riding Fatigue on Long Motorbike Trips]({{ '/articles/riding-fatigue-motorbike-vietnam/' | relative_url }}).
 
 ## The fixes, in order of cost
 
-A gel or air-mesh pad sits on top of the seat and straps around: it works by spreading pressure and allowing airflow under you. Quality matters — cheap gel pads are heavy, hold heat in the sun and slide around; look for breathable mesh tops and grippy undersides. Bead seat covers (the wooden beads you see on delivery bikes) do surprisingly well: they allow continuous airflow and micro-movement, at the cost of looking like a delivery bike. The permanent fix is re-foaming and re-covering the seat — covered in seat-reupholstery-comfort.
+A gel or air-mesh pad sits on top of the seat and straps around: it works by spreading pressure and allowing airflow under you. Quality matters — cheap gel pads are heavy, hold heat in the sun and slide around; look for breathable mesh tops and grippy undersides. Bead seat covers (the wooden beads you see on delivery bikes) do surprisingly well: they allow continuous airflow and micro-movement, at the cost of looking like a delivery bike. The permanent fix is re-foaming and re-covering the seat — covered in [Motorbike Seat Reupholstery: Comfort Without a New Bike]({{ '/articles/seat-reupholstery-comfort/' | relative_url }}).
 
 ## What pads cannot fix
 
-A pad cannot change the seat’s shape, width or pan. If the problem is that your seat is too narrow for your build, or the riding position cramps your legs, no topper helps — that is a bike-fit question, argued in best-motorbike-for-long-distance-vietnam. Pads also raise you slightly and can move you toward the tank: check your reach to the ground at stops.
+A pad cannot change the seat’s shape, width or pan. If the problem is that your seat is too narrow for your build, or the riding position cramps your legs, no topper helps — that is a bike-fit question, argued in [Best Motorbike for Long-Distance Riding in Vietnam]({{ '/articles/best-motorbike-for-long-distance-vietnam/' | relative_url }}). Pads also raise you slightly and can move you toward the tank: check your reach to the ground at stops.
 
 ## Practical use
 
-Airflow-oriented pads win in Vietnam over pure gel for hot months. Keep the pad strapped tight and check it before long trips — a pad that slides mid-ride is worse than none. And build in stops anyway: no seat technology replaces a ten-minute walk every ninety minutes, as the trip-preparation article servicing-before-long-trip-motorbike keeps reminding riders.
+Airflow-oriented pads win in Vietnam over pure gel for hot months. Keep the pad strapped tight and check it before long trips — a pad that slides mid-ride is worse than none. And build in stops anyway: no seat technology replaces a ten-minute walk every ninety minutes, as the trip-preparation article [Servicing Before a Long Trip]({{ '/articles/servicing-before-long-trip-motorbike/' | relative_url }}) keeps reminding riders.

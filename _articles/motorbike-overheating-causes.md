@@ -24,24 +24,24 @@ Vietnam's climate gives engines a hard time: 35-degree afternoons, airless traff
 ## What overheating looks like
 
 - Power falls off as the engine gets hot — the bike feels stronger in the morning than after an hour of traffic.
-- Tick-over turns rough, or the engine dies when hot — the hot-stall story is in stalling-when-hot-motorbike.
+- Tick-over turns rough, or the engine dies when hot — the hot-stall story is in [Stalling When Hot: When a Warm Engine Gives Up]({{ '/articles/stalling-when-hot-motorbike/' | relative_url }}).
 - Smells of very hot oil or metal; in bad cases, visible heat shimmer off the engine.
 - On liquid-cooled bikes: a temperature warning or gauge climbing while stationary.
-- Detonation or pinking under load that was not there cold — the noise itself is covered in engine-knocking-what-it-means.
+- Detonation or pinking under load that was not there cold — the noise itself is covered in [Engine Knocking: What That Noise Is Trying to Tell You]({{ '/articles/engine-knocking-what-it-means/' | relative_url }}).
 
 ## The air-cooled half of the story
 
 Most motorbikes in Vietnam are air-cooled: moving air is the coolant, and standing still is their enemy. Overheating causes specific to them:
 
 - **Standing in traffic too long.** An air-cooled engine idling stationary sheds almost no heat. If a jam looks long, consider switching off.
-- **Blocked cooling fins.** Mud, plastic bags, or a build-up of oily grime insulates the cylinder and head. Clean fins cool; the general washing routine is part of motorbike-maintenance-basics-vietnam.
+- **Blocked cooling fins.** Mud, plastic bags, or a build-up of oily grime insulates the cylinder and head. Clean fins cool; the general washing routine is part of [Motorbike Maintenance Basics for Vietnam]({{ '/articles/motorbike-maintenance-basics-vietnam/' | relative_url }}).
 - **Wrong idle speed or timing.** An engine idling too fast, or ignition that has drifted out of tune, runs hot.
-- **Oil level or condition.** Oil carries a share of the heat away; low or old oil raises temperatures. Check per checking-engine-oil-motorbike.
+- **Oil level or condition.** Oil carries a share of the heat away; low or old oil raises temperatures. Check per [Checking Engine Oil on a Motorbike]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }}).
 - **Working too hard.** Two-up up a long incline in the hottest part of the day, at low speed and high revs, is the classic recipe.
 
 ## The liquid-cooled half
 
-For bikes with radiators, overheating is usually a system fault rather than an environment problem: low or old coolant, a stuck thermostat, a failed fan, a blocked radiator, or a leaking hose — the maintenance playbook for all of these is in coolant-radiator-care-liquid-cooled-motorbike, and the system trade-offs are in air-cooled-vs-liquid-cooled-motorbike.
+For bikes with radiators, overheating is usually a system fault rather than an environment problem: low or old coolant, a stuck thermostat, a failed fan, a blocked radiator, or a leaking hose — the maintenance playbook for all of these is in [Coolant and Radiator Care for Liquid-Cooled Motorbikes]({{ '/articles/coolant-radiator-care-liquid-cooled-motorbike/' | relative_url }}), and the system trade-offs are in [Air-Cooled vs Liquid-Cooled Motorbikes in Vietnam Traffic]({{ '/articles/air-cooled-vs-liquid-cooled-motorbike/' | relative_url }}).
 
 ## What to do when it happens
 
@@ -53,4 +53,4 @@ For bikes with radiators, overheating is usually a system fault rather than an e
 
 ## When to stop riding, full stop
 
-An engine that pinks or loses power within minutes of setting out, that has turned its oil black and thin unusually fast, or that smells of cooked metal should not be ridden to "see how it goes". Overheating warps cylinder heads, glazes bores and destroys top ends. A tow or a mechanic visit is cheaper than a rebuild. For riding strategy on the hottest days, hot-weather-riding-motorbike-vietnam covers the human-and-machine side, and persistent hot smells belong to the diagnosis in burning-smell-motorbike.
+An engine that pinks or loses power within minutes of setting out, that has turned its oil black and thin unusually fast, or that smells of cooked metal should not be ridden to "see how it goes". Overheating warps cylinder heads, glazes bores and destroys top ends. A tow or a mechanic visit is cheaper than a rebuild. For riding strategy on the hottest days, [Hot Weather Riding on a Motorbike in Vietnam]({{ '/articles/hot-weather-riding-motorbike-vietnam/' | relative_url }}) covers the human-and-machine side, and persistent hot smells belong to the diagnosis in [Burning Smells: What Your Motorbike Is Telling You]({{ '/articles/burning-smell-motorbike/' | relative_url }}).

@@ -23,7 +23,7 @@ Hanoi's rush hours are less a time than a state of mind: roughly 06:30–08:30 a
 
 ## Where the risk actually is
 
-Peak hour crashes are low-speed but constant: filter collisions, doors, right-of-way guesses at junctions. The statistically dangerous moments are junctions, the first seconds after a light change, and the impatient overtakes near the end of a queue. Predictable riding — filtering-through-traffic-motorbike-vietnam covers the craft — beats fast riding in every measurable way.
+Peak hour crashes are low-speed but constant: filter collisions, doors, right-of-way guesses at junctions. The statistically dangerous moments are junctions, the first seconds after a light change, and the impatient overtakes near the end of a queue. Predictable riding — [Filtering Through Traffic Safely on a Motorbike]({{ '/articles/filtering-through-traffic-motorbike-vietnam/' | relative_url }}) covers the craft — beats fast riding in every measurable way.
 
 ## Habits that work
 
@@ -31,11 +31,11 @@ Keep a two-metre bubble you can stop inside. Watch front wheels, not phones, on 
 
 ## Timing beats technique
 
-If you can shift your schedule thirty minutes, the same streets change character completely. The 17:15 river and the 18:15 one are different experiences. Commuters with flexible hours should use that — commuting-by-motorbike-monthly-hanoi covers building the routine around the peaks.
+If you can shift your schedule thirty minutes, the same streets change character completely. The 17:15 river and the 18:15 one are different experiences. Commuters with flexible hours should use that — [Commuting by Motorbike in Hanoi: The Monthly Renter Setup]({{ '/articles/commuting-by-motorbike-monthly-hanoi/' | relative_url }}) covers building the routine around the peaks.
 
 ## Rain plus rush hour
 
-The worst window in Hanoi is the summer evening peak in a downpour: standing water, poor visibility, everyone hurrying home. If you can wait fifteen minutes under an awning, do it — riding-motorbike-heavy-rain-vietnam explains why that quarter hour is the cheapest safety upgrade there is.
+The worst window in Hanoi is the summer evening peak in a downpour: standing water, poor visibility, everyone hurrying home. If you can wait fifteen minutes under an awning, do it — [Riding a Motorbike in Heavy Rain in Vietnam]({{ '/articles/riding-motorbike-heavy-rain-vietnam/' | relative_url }}) explains why that quarter hour is the cheapest safety upgrade there is.
 
 ## The one-line version
 

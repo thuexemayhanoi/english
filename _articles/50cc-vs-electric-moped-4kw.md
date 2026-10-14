@@ -48,4 +48,4 @@ We publish no fixed figures for either class: petrol consumption depends on cond
 
 Predictable flat commutes with home charging and a taste for silence: the electric moped. Longer loops, spontaneous trips, and a fuel network instead of a socket: the petrol 50. The law will not help you decide — for once, it genuinely does not mind.
 
-The 4 kW boundary in practice and the reason sub-50 km/h versions exist are covered in electric-moped-vs-electric-motorcycle-vietnam and why-electric-mopeds-capped-50kmh-vietnam.
+The 4 kW boundary in practice and the reason sub-50 km/h versions exist are covered in [Electric Moped vs Electric Motorcycle in Vietnam: The 4 kW Line]({{ '/articles/electric-moped-vs-electric-motorcycle-vietnam/' | relative_url }}) and [Why Are Electric Mopeds Capped at 50 km/h in Vietnam?]({{ '/articles/why-electric-mopeds-capped-50kmh-vietnam/' | relative_url }}).

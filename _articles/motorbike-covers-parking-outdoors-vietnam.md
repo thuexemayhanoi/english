@@ -23,15 +23,15 @@ In an ideal world every motorbike sleeps indoors. In Vietnamese cities, most sle
 
 ## What a cover actually defends against
 
-UV is the quiet killer: it yellows plastics, fades paint, and dries seats and grips years early. Rain plus dust makes the grinding paste that dulls paintwork; birds contribute their chemistry; and a covered bike is also simply less interesting to passers-by — helmets, accessories and anything loose benefit from the anonymity, which is the parking-security argument continued in where-to-park-motorbike-hanoi. The corrosion mechanics underneath all this are explained in motorcycle-rust-prevention-vietnam; the cover is that article's most affordable countermeasure.
+UV is the quiet killer: it yellows plastics, fades paint, and dries seats and grips years early. Rain plus dust makes the grinding paste that dulls paintwork; birds contribute their chemistry; and a covered bike is also simply less interesting to passers-by — helmets, accessories and anything loose benefit from the anonymity, which is the parking-security argument continued in [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}). The corrosion mechanics underneath all this are explained in [Preventing Rust on a Motorbike in Vietnam]({{ '/articles/motorcycle-rust-prevention-vietnam/' | relative_url }}); the cover is that article's most affordable countermeasure.
 
 ## What a cover does not do
 
-It does not seal out humidity — a cheap plastic sheet can trap moisture against the bike overnight in Vietnam's climate, doing more harm than good. Breathable fabrics exist for exactly this reason. It also does not replace washing: dirt trapped under a cover scratches; a quick-clean before covering beats covering a filthy bike — the safe washing routine is in cleaning-motorbike-properly-vietnam. And it does not protect from floods, kerb kissers, or people who park by touch.
+It does not seal out humidity — a cheap plastic sheet can trap moisture against the bike overnight in Vietnam's climate, doing more harm than good. Breathable fabrics exist for exactly this reason. It also does not replace washing: dirt trapped under a cover scratches; a quick-clean before covering beats covering a filthy bike — the safe washing routine is in [Washing and Cleaning a Motorbike Properly]({{ '/articles/cleaning-motorbike-properly-vietnam/' | relative_url }}). And it does not protect from floods, kerb kissers, or people who park by touch.
 
 ## Choosing one
 
-Fit matters (a flapping cover in wind is a sail that can pull a bike over on its stand — get one sized to the bike), vents and breathability matter more than thickness in this climate, and a reflective outer layer matters if the bike faces afternoon sun. Heat-damaged covers disintegrate into confetti; a cover that survives a Hanoi summer is the benchmark. For weeks-away parking rather than daily use, the deeper storage checklist is in storing-motorbike-long-term-vietnam — cover plus preparations, not cover alone.
+Fit matters (a flapping cover in wind is a sail that can pull a bike over on its stand — get one sized to the bike), vents and breathability matter more than thickness in this climate, and a reflective outer layer matters if the bike faces afternoon sun. Heat-damaged covers disintegrate into confetti; a cover that survives a Hanoi summer is the benchmark. For weeks-away parking rather than daily use, the deeper storage checklist is in [Storing a Motorbike for Weeks or Months in Vietnam]({{ '/articles/storing-motorbike-long-term-vietnam/' | relative_url }}) — cover plus preparations, not cover alone.
 
 ## The daily-use reality
 

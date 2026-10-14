@@ -23,7 +23,7 @@ Anyone who parks a motorbike in Vietnamese cities knows the arithmetic: helmets 
 
 ## The carrying answer
 
-The most reliable helmet security is not leaving it on the bike at all. A helmet clipped to a backpack strap, carried by its chin bar, or — on scooters — stowed under the seat or in a top box simply cannot be stolen from the bike. In offices, cafés and homes, carrying it in is normal practice in Vietnam; nobody looks twice. For full-face riders this is also better for the helmet than hanging it in weather — the care and storage logic is in helmet-care-replacing-guide-vietnam.
+The most reliable helmet security is not leaving it on the bike at all. A helmet clipped to a backpack strap, carried by its chin bar, or — on scooters — stowed under the seat or in a top box simply cannot be stolen from the bike. In offices, cafés and homes, carrying it in is normal practice in Vietnam; nobody looks twice. For full-face riders this is also better for the helmet than hanging it in weather — the care and storage logic is in [Helmet Care: Cleaning, Storage and Knowing When to Replace]({{ '/articles/helmet-care-replacing-guide-vietnam/' | relative_url }}).
 
 ## The locking answer
 
@@ -31,10 +31,10 @@ When the helmet must stay with the bike: a proper helmet lock (a steel-cable loc
 
 ## Where you park changes everything
 
-Paid and watched parking — the footprint-guarded lots and buildings common across Hanoi — reduces helmet theft dramatically, and the parking-landscape guide is in where-to-park-motorbike-hanoi. Dark side streets and all-night kerbsides are where helmets vanish. A bike cover adds an extra layer of "out of sight" for everything left on the bike — the cover-side logic is in motorbike-covers-parking-outdoors-vietnam.
+Paid and watched parking — the footprint-guarded lots and buildings common across Hanoi — reduces helmet theft dramatically, and the parking-landscape guide is in [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}). Dark side streets and all-night kerbsides are where helmets vanish. A bike cover adds an extra layer of "out of sight" for everything left on the bike — the cover-side logic is in [Motorbike Covers: Protecting a Bike Parked Outside]({{ '/articles/motorbike-covers-parking-outdoors-vietnam/' | relative_url }}).
 
 ## Style affects risk
 
-The honest market truth: a visibly expensive full-face helmet hanging on a mirror is a magnet, while a plain but certified one is boring. The style trade-offs are covered in full-face-vs-open-face-helmet-vietnam — but if your helmet is the nice one, the carrying answer above stops being optional.
+The honest market truth: a visibly expensive full-face helmet hanging on a mirror is a magnet, while a plain but certified one is boring. The style trade-offs are covered in [Full-Face vs Open-Face Helmets for Riding in Vietnam]({{ '/articles/full-face-vs-open-face-helmet-vietnam/' | relative_url }}) — but if your helmet is the nice one, the carrying answer above stops being optional.
 
 Lock it, carry it, or lose it — the three states of every helmet left with a parked bike in Vietnam.

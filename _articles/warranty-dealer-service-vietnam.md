@@ -27,11 +27,11 @@ A warranty is the manufacturer's written promise to fix defined faults within a 
 
 ## The service book
 
-Most new bikes come with a service book, and dealer stamps in it are the currency of warranty claims. The manufacturer's required service schedule (early services are critical: the first inspection, and any running-in service) must be done at an authorized point to keep the warranty intact — the scheduling logic beyond the warranty period is in motorbike-service-when-vietnam. Keep the book with the bike's documents: it is also the strongest evidence of maintenance history when reselling, which is covered in preparing-motorbike-for-sale-vietnam.
+Most new bikes come with a service book, and dealer stamps in it are the currency of warranty claims. The manufacturer's required service schedule (early services are critical: the first inspection, and any running-in service) must be done at an authorized point to keep the warranty intact — the scheduling logic beyond the warranty period is in [When to Service a Motorbike in Vietnam]({{ '/articles/motorbike-service-when-vietnam/' | relative_url }}). Keep the book with the bike's documents: it is also the strongest evidence of maintenance history when reselling, which is covered in [Preparing a Motorbike for Sale]({{ '/articles/preparing-motorbike-for-sale-vietnam/' | relative_url }}).
 
 ## What can void it
 
-The common lines: non-genuine or non-approved parts installed during the warranty period, modifications to the engine or fuel system, and often missing the mandated services. This is the era of genuine parts — the genuine-vs-counterfeit guide is genuine-vs-fake-parts-motorbike-vietnam — and of resisting exhaust, ECU and intake modifications until the warranty ends.
+The common lines: non-genuine or non-approved parts installed during the warranty period, modifications to the engine or fuel system, and often missing the mandated services. This is the era of genuine parts — the genuine-vs-counterfeit guide is [Genuine Versus Fake Motorbike Parts in Vietnam]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}) — and of resisting exhaust, ECU and intake modifications until the warranty ends.
 
 ## Dealer versus street shop during warranty
 
@@ -40,7 +40,7 @@ The honest trade-off:
 - **Authorized dealer service**: correct parts, stamped book, warranty intact, recall and service-campaign access; higher prices, queue times, and standardized work that sometimes skips the attentive once-over a good street mechanic gives.
 - **Street shop**: cheaper, faster, personal; but self-service or street-shop engine work during the warranty period risks the warranty exactly when the bike is newest.
 
-The practical split many Vietnamese owners use: dealer services while the warranty lasts (it is insurance against expensive early-life failures), and a trusted independent afterwards — how to find and vet one is in motorbike-service-where-vietnam.
+The practical split many Vietnamese owners use: dealer services while the warranty lasts (it is insurance against expensive early-life failures), and a trusted independent afterwards — how to find and vet one is in [Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }}).
 
 ## Recalls and campaigns
 
@@ -48,4 +48,4 @@ Manufacturers occasionally run recall or service campaigns for specific defects.
 
 ## After the warranty
 
-Once the term ends, the calculus changes entirely: the service book still matters for resale value, but parts and workshop choice become value decisions rather than warranty decisions — parts availability in Vietnam is in spare-parts-availability-vietnam, and repair pricing questions are covered in repair-quotes-parts-pricing-vietnam. A well-kept book and a named mechanic is the best of both worlds.
+Once the term ends, the calculus changes entirely: the service book still matters for resale value, but parts and workshop choice become value decisions rather than warranty decisions — parts availability in Vietnam is in [Spare Parts Availability in Vietnam]({{ '/articles/spare-parts-availability-vietnam/' | relative_url }}), and repair pricing questions are covered in [Getting Repair Quotes in Vietnam: Parts, Labour and Fair Deals]({{ '/articles/repair-quotes-parts-pricing-vietnam/' | relative_url }}). A well-kept book and a named mechanic is the best of both worlds.

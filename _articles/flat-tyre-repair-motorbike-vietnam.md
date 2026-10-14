@@ -27,15 +27,15 @@ Most Vietnamese bikes use inner tubes, and the standard fix is patching the tube
 
 ## When a patch is not the answer
 
-A cut or tear, a puncture at the valve base, a tube that has been patched repeatedly, or a puncture combined with visible tyre damage (cuts to the sidewall — tyre-care-motorbike-vietnam covers the damage list) means a new tube, which roadside stands also stock for common sizes. A hole in the tyre casing itself can sometimes take a proper plug repair, but sidewall damage always means a new tyre.
+A cut or tear, a puncture at the valve base, a tube that has been patched repeatedly, or a puncture combined with visible tyre damage (cuts to the sidewall — [Tyre Care and Pressure Basics for Motorbikes]({{ '/articles/tyre-care-motorbike-vietnam/' | relative_url }}) covers the damage list) means a new tube, which roadside stands also stock for common sizes. A hole in the tyre casing itself can sometimes take a proper plug repair, but sidewall damage always means a new tyre.
 
 ## What to expect
 
-The repair is quick and cheap by any international standard. Watch the work if you can: the tyre's inside should be checked for the nail still embedded, and the tube re-fitted without pinching. On a rental, tell the shop about any puncture even after a roadside fix — punctured-tyre-on-rental-motorbike covers the rental-side steps, and consumables-monthly-rental-hanoi covers who pays for tubes and tyres.
+The repair is quick and cheap by any international standard. Watch the work if you can: the tyre's inside should be checked for the nail still embedded, and the tube re-fitted without pinching. On a rental, tell the shop about any puncture even after a roadside fix — [Who Pays for a Punctured Tyre on a Rental Motorbike?]({{ '/articles/punctured-tyre-on-rental-motorbike/' | relative_url }}) covers the rental-side steps, and [Tyres, Tubes and Consumables on a Long-Term Rental]({{ '/articles/consumables-monthly-rental-hanoi/' | relative_url }}) covers who pays for tubes and tyres.
 
 ## Prevention beats roadside
 
-Tyre pressure checked regularly is the main defence: under-inflated tubes pinch-flat on potholes far more easily than correctly-inflated ones. The weekly check habit is in motorbike-safety-checklist-before-riding.
+Tyre pressure checked regularly is the main defence: under-inflated tubes pinch-flat on potholes far more easily than correctly-inflated ones. The weekly check habit is in [The Pre-Ride Safety Check]({{ '/articles/motorbike-safety-checklist-before-riding/' | relative_url }}).
 
 ## The one-line version
 

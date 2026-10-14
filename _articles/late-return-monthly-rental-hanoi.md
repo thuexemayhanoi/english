@@ -24,7 +24,7 @@ At the end of a month or more with the same bike, return-day logistics are easy 
 
 ## The rule
 
-Late return is charged at 20,000 VND per hour, and more than six hours late may be charged as a full additional rental day (typically 150,000–200,000 VND depending on the motorcycle). That is the standard rule (see late-return-rental-motorbike-hanoi); it applies at the end of a monthly term exactly as it does after a day rental.
+Late return is charged at 20,000 VND per hour, and more than six hours late may be charged as a full additional rental day (typically 150,000–200,000 VND depending on the motorcycle). That is the standard rule (see [What Happens If You Return a Rental Motorbike Late in Hanoi]({{ '/articles/late-return-rental-motorbike-hanoi/' | relative_url }})); it applies at the end of a monthly term exactly as it does after a day rental.
 
 ## Why long-term renters slip
 
@@ -32,11 +32,11 @@ The irony of monthly rentals: you have been riding for weeks without thinking ab
 
 ## Renewal versus late return
 
-Most "late returns" at month scale are really unplanned extensions. If you know even a day ahead that you need more time, convert the situation into a renewal: extending-motorbike-rental-hanoi covers the process. An extension agreed in advance costs the agreed rate; the same time unarranged costs the hourly fee and, past six hours, a full day.
+Most "late returns" at month scale are really unplanned extensions. If you know even a day ahead that you need more time, convert the situation into a renewal: [Extending or Renewing a Monthly Motorbike Rental in Hanoi]({{ '/articles/extending-motorbike-rental-hanoi/' | relative_url }}) covers the process. An extension agreed in advance costs the agreed rate; the same time unarranged costs the hourly fee and, past six hours, a full day.
 
 ## The return itself
 
-The mechanics are the standard return (returning-a-rental-motorbike-hanoi): condition against the handover record, fuel as agreed, deposit returned per the agreement — how-deposit-returns-work-hanoi. Being late does not change the walk-around; it just adds the fee to it.
+The mechanics are the standard return ([How Returning a Rental Motorbike in Hanoi Works]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }})): condition against the handover record, fuel as agreed, deposit returned per the agreement — [How Deposit Returns Work at Hanoi Motorbike Rentals]({{ '/articles/how-deposit-returns-work-hanoi/' | relative_url }}). Being late does not change the walk-around; it just adds the fee to it.
 
 ## The one-line version
 

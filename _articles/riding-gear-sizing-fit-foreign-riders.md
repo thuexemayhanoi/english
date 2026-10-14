@@ -23,16 +23,16 @@ Foreign riders in Hanoi face a double sizing problem: local shops stock Asian-cu
 
 ## Why sizes lie
 
-"Asian" sizing is cut for different average body proportions — typically shorter sleeves and torso and slimmer shoulders than European patterns. A jacket that fits your chest may leave your wrists exposed at full reach, and armour pockets will sit slightly off your joints — which matters, because armour protects the joint it covers, nothing else. Tall riders deal with the same issue on the bike side; the ergonomics article is best-motorbikes-for-tall-riders-vietnam.
+"Asian" sizing is cut for different average body proportions — typically shorter sleeves and torso and slimmer shoulders than European patterns. A jacket that fits your chest may leave your wrists exposed at full reach, and armour pockets will sit slightly off your joints — which matters, because armour protects the joint it covers, nothing else. Tall riders deal with the same issue on the bike side; the ergonomics article is [Best Motorbikes for Tall Foreign Riders in Vietnam]({{ '/articles/best-motorbikes-for-tall-riders-vietnam/' | relative_url }}).
 
 ## Fit checks that matter
 
-Do the fit test in a riding posture, not standing up: sit on something, arms forward as if holding bars. The jacket should not pull across the back, sleeves must still cover the wrists at full reach, and the elbow and shoulder armour must sit on the joint in that posture. Fasten every closure and check armour location again — zippers compress and shift padding. The placement logic for armour worn under clothing is in body-armour-motorbike-riders; the same joint-coverage rule applies to everything.
+Do the fit test in a riding posture, not standing up: sit on something, arms forward as if holding bars. The jacket should not pull across the back, sleeves must still cover the wrists at full reach, and the elbow and shoulder armour must sit on the joint in that posture. Fasten every closure and check armour location again — zippers compress and shift padding. The placement logic for armour worn under clothing is in [Body Armour Under Everyday Clothes: Hidden Protection for Riders]({{ '/articles/body-armour-motorbike-riders/' | relative_url }}); the same joint-coverage rule applies to everything.
 
 ## Where to buy what
 
-Local shops are excellent for helmets and general gear but carry limited large sizes; try the item on, always. Specialist shops with imported European-brand gear exist in the bigger cities and stock fuller size runs at a premium. Online ordering by measured size works if you measure yourself carefully (chest, waist, sleeve, inseam) and accept exchange friction. The layering plan — what needs to fit over what — is in riding-jacket-vietnam-climate.
+Local shops are excellent for helmets and general gear but carry limited large sizes; try the item on, always. Specialist shops with imported European-brand gear exist in the bigger cities and stock fuller size runs at a premium. Online ordering by measured size works if you measure yourself carefully (chest, waist, sleeve, inseam) and accept exchange friction. The layering plan — what needs to fit over what — is in [Choosing a Riding Jacket for Vietnam's Climate]({{ '/articles/riding-jacket-vietnam-climate/' | relative_url }}).
 
 ## Practical priorities
 
-Fit beats brand, and coverage beats comfort styling — a slightly warm jacket that puts armour on your elbows beats a perfect-looking one that does not. If budget forces choices, the ordering logic in riding-gear-budget-priority-vietnam holds: never compromise fit on the helmet and gloves first.
+Fit beats brand, and coverage beats comfort styling — a slightly warm jacket that puts armour on your elbows beats a perfect-looking one that does not. If budget forces choices, the ordering logic in [Buying Riding Gear on a Budget in Vietnam: Priority Order]({{ '/articles/riding-gear-budget-priority-vietnam/' | relative_url }}) holds: never compromise fit on the helmet and gloves first.

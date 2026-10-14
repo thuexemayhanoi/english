@@ -24,11 +24,11 @@ Insurance is the item long-term renters most often get wrong, because the assump
 
 ## What the rental includes
 
-Nguyen Tu does not provide motorbike insurance. Renters arrange their own cover. This applies to daily and monthly rentals alike — is-insurance-included-motorbike-rental-hanoi covers the short version. On a long rental the exposure simply lasts longer, which makes arranging cover more urgent, not less.
+Nguyen Tu does not provide motorbike insurance. Renters arrange their own cover. This applies to daily and monthly rentals alike — [Is Insurance Included with Motorbike Rentals in Hanoi?]({{ '/articles/is-insurance-included-motorbike-rental-hanoi/' | relative_url }}) covers the short version. On a long rental the exposure simply lasts longer, which makes arranging cover more urgent, not less.
 
 ## What insurance exists here
 
-Vietnam has compulsory motorbike insurance for registered bike owners, plus voluntary third-party and personal cover. The verified landscape is in compulsory-motorbike-insurance-vietnam and do-you-need-insurance-to-ride-vietnam. A renter's own position differs from an owner's — the bike's compulsory cover follows the bike and its owner — so a long-term renter's practical interest is in cover for themselves: personal accident and health cover that includes motorbike riding.
+Vietnam has compulsory motorbike insurance for registered bike owners, plus voluntary third-party and personal cover. The verified landscape is in [Compulsory Motorbike Insurance in Vietnam]({{ '/articles/compulsory-motorbike-insurance-vietnam/' | relative_url }}) and [Do You Need Your Own Insurance to Ride in Vietnam?]({{ '/articles/do-you-need-insurance-to-ride-vietnam/' | relative_url }}). A renter's own position differs from an owner's — the bike's compulsory cover follows the bike and its owner — so a long-term renter's practical interest is in cover for themselves: personal accident and health cover that includes motorbike riding.
 
 ## Questions for your insurer
 
@@ -36,7 +36,7 @@ If you hold travel or expat health insurance, check two things before relying on
 
 ## Length matters
 
-A tourist riding three days takes a small risk for a short window. A commuter riding daily for three months multiplies both exposure and the value of cover. If you will ride long-term in Hanoi, treat insurance as part of the monthly budget, alongside the rental rate, fuel and parking in motorbike-rental-budget-monthly-hanoi.
+A tourist riding three days takes a small risk for a short window. A commuter riding daily for three months multiplies both exposure and the value of cover. If you will ride long-term in Hanoi, treat insurance as part of the monthly budget, alongside the rental rate, fuel and parking in [Monthly Motorbike Rental Budget in Hanoi: The Full Cost]({{ '/articles/motorbike-rental-budget-monthly-hanoi/' | relative_url }}).
 
 ## The one-line version
 

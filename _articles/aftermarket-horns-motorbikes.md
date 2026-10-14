@@ -22,11 +22,11 @@ A weak horn in Hanoi traffic is a real safety problem: the warning nobody hears 
 
 ## What a horn upgrade is for
 
-The legitimate case is narrow: you ride in dense traffic where a clear, audible warning prevents a lane-change collision, and your stock horn cannot be heard over the road. The aim is attention, not aggression. A horn used as a rebuke or a habit is noise pollution that hardens other road users against every horn, including the ones that matter — the behavioural side is in horn-etiquette-motorbike-vietnam.
+The legitimate case is narrow: you ride in dense traffic where a clear, audible warning prevents a lane-change collision, and your stock horn cannot be heard over the road. The aim is attention, not aggression. A horn used as a rebuke or a habit is noise pollution that hardens other road users against every horn, including the ones that matter — the behavioural side is in [Horn Etiquette: Communicating on Vietnamese Roads]({{ '/articles/horn-etiquette-motorbike-vietnam/' | relative_url }}).
 
 ## The electrical reality
 
-Stock horns draw modest current through a switch and thin wiring. High-output aftermarket horns draw several times more, and on a small bike the horn button and loom may not tolerate it: melted switch contacts, blown fuses, dim lights when the horn sounds. The correct installation is a relay — power straight from the battery through a fuse, switch only carrying the small relay current — and wiring sized for the load. If that sentence is unfamiliar, this job belongs to a shop: installing-accessories-diy-vs-shop is the honest decision guide, and electrical faults caused by bad horn wiring are some of the most common gremlins in the article on simple-electrical-faults-horn-switches-fuses.
+Stock horns draw modest current through a switch and thin wiring. High-output aftermarket horns draw several times more, and on a small bike the horn button and loom may not tolerate it: melted switch contacts, blown fuses, dim lights when the horn sounds. The correct installation is a relay — power straight from the battery through a fuse, switch only carrying the small relay current — and wiring sized for the load. If that sentence is unfamiliar, this job belongs to a shop: [Installing Accessories Yourself vs at a Shop]({{ '/articles/installing-accessories-diy-vs-shop/' | relative_url }}) is the honest decision guide, and electrical faults caused by bad horn wiring are some of the most common gremlins in the article on [Simple Electrical Faults: Horns, Switches and Fuses]({{ '/articles/simple-electrical-faults-horn-switches-fuses/' | relative_url }}).
 
 ## Choosing sensibly
 
@@ -34,4 +34,4 @@ Match the horn to the machine: compact twin-tone electric horns fit scooters and
 
 ## Rules and respect
 
-Very loud or modified horns attract police attention in Vietnam, and rules change — verify the current requirements rather than assuming, and never let a modification become a legal or inspection problem. Also consider warranty: DIY electrical changes can complicate claims (aftermarket-parts-warranty). A moderately louder, properly relayed horn used sparingly is an upgrade; an air-horn solenoid used as a doorbell is a nuisance with wires attached.
+Very loud or modified horns attract police attention in Vietnam, and rules change — verify the current requirements rather than assuming, and never let a modification become a legal or inspection problem. Also consider warranty: DIY electrical changes can complicate claims ([Aftermarket Parts and Warranty: What to Know]({{ '/articles/aftermarket-parts-warranty/' | relative_url }})). A moderately louder, properly relayed horn used sparingly is an upgrade; an air-horn solenoid used as a doorbell is a nuisance with wires attached.

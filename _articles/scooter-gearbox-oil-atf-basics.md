@@ -27,14 +27,14 @@ The gearbox oil lubricates the reduction gears that turn the CVT's output into w
 
 ## The manual is the only specification
 
-The correct oil type and the amount are per model — stated in the owner's manual, nowhere else, and never in this article. Do not substitute engine oil "because it is oil"; gearboxes specify gear oil or specific transmission fluid, and the volume is small enough that overfilling is as bad as underfilling. A shop that services scooters daily will state the type from the book — choosing such a shop is covered in motorbike-service-where-vietnam.
+The correct oil type and the amount are per model — stated in the owner's manual, nowhere else, and never in this article. Do not substitute engine oil "because it is oil"; gearboxes specify gear oil or specific transmission fluid, and the volume is small enough that overfilling is as bad as underfilling. A shop that services scooters daily will state the type from the book — choosing such a shop is covered in [Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }}).
 
 ## Symptoms of a neglected gearbox
 
-A rising whine from the rear under load; a roughness or vibration that appears at steady speed; oil weeping from the gearbox drain or filler plug; and in bad cases, a hard clunk on take-off. These are easy to confuse with CVT wear — the belt and variator symptoms that dominate scooter noise complaints are in cvt-belt-variator-scooter-vietnam — but gearbox whine follows road speed rather than engine revs, which is the distinguishing ear-test.
+A rising whine from the rear under load; a roughness or vibration that appears at steady speed; oil weeping from the gearbox drain or filler plug; and in bad cases, a hard clunk on take-off. These are easy to confuse with CVT wear — the belt and variator symptoms that dominate scooter noise complaints are in [CVT Belts and Variators: Automatic Scooter Drivetrain Basics]({{ '/articles/cvt-belt-variator-scooter-vietnam/' | relative_url }}) — but gearbox whine follows road speed rather than engine revs, which is the distinguishing ear-test.
 
 ## Fitting it into the schedule
 
-Gearbox oil changes are fast, cheap and standard at any competent service — the argument for folding them into a regular rhythm, rather than riding until the whine, is the same as for engine oil: motorbike-service-when-vietnam covers the scheduling logic, and the level-checking habit that keeps the main engine honest is in checking-engine-oil-motorbike.
+Gearbox oil changes are fast, cheap and standard at any competent service — the argument for folding them into a regular rhythm, rather than riding until the whine, is the same as for engine oil: [When to Service a Motorbike in Vietnam]({{ '/articles/motorbike-service-when-vietnam/' | relative_url }}) covers the scheduling logic, and the level-checking habit that keeps the main engine honest is in [Checking Engine Oil on a Motorbike]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }}).
 
 Scooter maintenance is mostly one big CVT story, plus a small bottle of oil everyone forgets. Be the rider who remembers.

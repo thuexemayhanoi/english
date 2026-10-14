@@ -23,19 +23,19 @@ Vietnamese riders get rained on constantly, and a normal soaking does no harm. B
 
 ## Brakes first
 
-Wet brake pads grip less until they dry, so the first few stops of your next ride need extra distance. Pump the levers gently before moving off, and check that the wheels spin freely — brakes that stick after rain were probably adjusted tight before the water arrived. brake-checks-motorbike-vietnam covers what firm levers should feel like.
+Wet brake pads grip less until they dry, so the first few stops of your next ride need extra distance. Pump the levers gently before moving off, and check that the wheels spin freely — brakes that stick after rain were probably adjusted tight before the water arrived. [Checking Brakes on a Motorbike]({{ '/articles/brake-checks-motorbike-vietnam/' | relative_url }}) covers what firm levers should feel like.
 
 ## Electrics and lights
 
-Test every light, the horn and the starter before the next ride. Moisture in switches makes indicators blink oddly and starters click without turning. Most water in electrics dries by itself in the sun; recurring faults deserve a mechanic before the wiring corrodes — lights-and-electrical-checks-motorbike explains the checks in detail.
+Test every light, the horn and the starter before the next ride. Moisture in switches makes indicators blink oddly and starters click without turning. Most water in electrics dries by itself in the sun; recurring faults deserve a mechanic before the wiring corrodes — [Lights and Electrical Checks on a Motorbike]({{ '/articles/lights-and-electrical-checks-motorbike/' | relative_url }}) explains the checks in detail.
 
 ## The air filter and intake
 
-If the bike was ridden through flooded streets — flooded-streets-riding-motorbike-vietnam covers the riding side — the airbox can have taken on water or road grit. A wet paper filter must be replaced, not dried and reused, and a bike that sucked water into the intake may need a shop visit before it is ridden again.
+If the bike was ridden through flooded streets — [Riding Through Flooded Streets on a Motorbike]({{ '/articles/flooded-streets-riding-motorbike-vietnam/' | relative_url }}) covers the riding side — the airbox can have taken on water or road grit. A wet paper filter must be replaced, not dried and reused, and a bike that sucked water into the intake may need a shop visit before it is ridden again.
 
 ## The underside and moving parts
 
-Rinse or wipe the grit off the chain and re-lubricate after it dries — wet chains rust overnight in this humidity. Wipe the fork tubes clean, and make sure the stand pivots still move freely. A proper post-soak wipe-down slots into the routine in cleaning-motorbike-properly-vietnam.
+Rinse or wipe the grit off the chain and re-lubricate after it dries — wet chains rust overnight in this humidity. Wipe the fork tubes clean, and make sure the stand pivots still move freely. A proper post-soak wipe-down slots into the routine in [Washing and Cleaning a Motorbike Properly]({{ '/articles/cleaning-motorbike-properly-vietnam/' | relative_url }}).
 
 ## The one thing to never do
 

@@ -23,7 +23,7 @@ Not every rider will wear a riding jacket to work in Hanoi's heat. Enter the qui
 
 ## What armour does and does not do
 
-Impact armour absorbs the energy that breaks joints and bones when you hit the road or a car — elbows, knees, hips, spine. What it does not do is abrasion protection: armour under a cotton shirt stops the fractured elbow, not the shirt-sized road rash. The honest formula for the streets: armour plus a jacket is best, armour alone beats nothing by a wide margin, and the pairing logic for jackets is in riding-jacket-vietnam-climate.
+Impact armour absorbs the energy that breaks joints and bones when you hit the road or a car — elbows, knees, hips, spine. What it does not do is abrasion protection: armour under a cotton shirt stops the fractured elbow, not the shirt-sized road rash. The honest formula for the streets: armour plus a jacket is best, armour alone beats nothing by a wide margin, and the pairing logic for jackets is in [Choosing a Riding Jacket for Vietnam's Climate]({{ '/articles/riding-jacket-vietnam-climate/' | relative_url }}).
 
 ## What to look for
 
@@ -31,10 +31,10 @@ Certified protectors (marked with their impact standard) from a reputable gear s
 
 ## Coverage priorities on a budget
 
-If buying one piece at a time, the order most riders settle on: knees first (they hit first and hardest), elbows and shoulders next, spine/back last — but any order beats none. Feet and ankles are the other chronic casualty of Vietnamese street falls — the footwear logic is in rider-footwear-motorbike-vietnam. The overall dressing strategy is summarized in what-to-wear-riding-motorbike-vietnam.
+If buying one piece at a time, the order most riders settle on: knees first (they hit first and hardest), elbows and shoulders next, spine/back last — but any order beats none. Feet and ankles are the other chronic casualty of Vietnamese street falls — the footwear logic is in [Rider Footwear: Choosing Shoes Over Flip-Flops]({{ '/articles/rider-footwear-motorbike-vietnam/' | relative_url }}). The overall dressing strategy is summarized in [What to Wear Riding a Motorbike in Vietnam]({{ '/articles/what-to-wear-riding-motorbike-vietnam/' | relative_url }}).
 
 ## The aftermath reality
 
-Why this matters here: the difference between a fall that ends with bruising and one that ends with months of physiotherapy is usually a joint that was or was not protected. What to do when protection was not enough is a separate skill — the immediate steps after an accident are covered in motorbike-accident-first-aid-vietnam.
+Why this matters here: the difference between a fall that ends with bruising and one that ends with months of physiotherapy is usually a joint that was or was not protected. What to do when protection was not enough is a separate skill — the immediate steps after an accident are covered in [First Response at a Motorbike Accident in Vietnam]({{ '/articles/motorbike-accident-first-aid-vietnam/' | relative_url }}).
 
 Body armour is the riding gear for people who refuse to look like riders — and the road cannot tell the difference.

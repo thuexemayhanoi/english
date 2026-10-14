@@ -33,14 +33,14 @@ Every model has a specified hot-idle speed in the owner's manual, usually a rang
 
 The idle adjustment (a stop screw on the throttle slide of a carburettor, or an idle-air bypass on fuel-injected bikes) sets the base position of the throttle when your hand is off the grip. It is a fine-tuner, not a repair:
 
-- Set it with the engine fully warm; cold engines idle higher by design, especially with the choke out — see cold-start-motorbike-winter-vietnam for the cold-side picture.
+- Set it with the engine fully warm; cold engines idle higher by design, especially with the choke out — see [Cold Mornings: Starting a Motorbike in Hanoi's Winter]({{ '/articles/cold-start-motorbike-winter-vietnam/' | relative_url }}) for the cold-side picture.
 - Adjust in small steps and let the engine settle between them.
 - If you need to keep raising the idle to stop stalling, something else is wrong.
 
 ## What a bad idle is telling you
 
-An idle that only survives with the screw wound up is compensating for a real fault. The common culprits: a clogged pilot circuit or dirty carburettor (the deep cleaning route is in carburettor-cleaning-tuning-vietnam), a filthy air filter choking airflow (air-filter-care-motorbike-vietnam), an air leak letting unmetered air in, or a fouled spark plug. An idle that hunts up and down, or dies only when the engine is hot, points further afield — the diagnostic tree is in rough-idle-motorbike-troubleshooting and stalling-when-hot-motorbike.
+An idle that only survives with the screw wound up is compensating for a real fault. The common culprits: a clogged pilot circuit or dirty carburettor (the deep cleaning route is in [Carburettor Cleaning and Tuning on a Vietnamese Motorbike]({{ '/articles/carburettor-cleaning-tuning-vietnam/' | relative_url }})), a filthy air filter choking airflow ([Air Filter Care on a Motorbike in Vietnam]({{ '/articles/air-filter-care-motorbike-vietnam/' | relative_url }})), an air leak letting unmetered air in, or a fouled spark plug. An idle that hunts up and down, or dies only when the engine is hot, points further afield — the diagnostic tree is in [Rough Idle: Troubleshooting a Motorbike That Won't Idle Smoothly]({{ '/articles/rough-idle-motorbike-troubleshooting/' | relative_url }}) and [Stalling When Hot: When a Warm Engine Gives Up]({{ '/articles/stalling-when-hot-motorbike/' | relative_url }}).
 
 ## Order of operations
 
-Before touching the screw, check the cheap things: correct throttle free play (throttle-cable-free-play-motorbike), clean air filter, fresh fuel, and a plug that is not sooty black. Then set the idle warm to the manual's specification. If the idle then needs revisiting every week, the engine is asking for a proper diagnosis, not another quarter-turn. Idle is a symptom — the honest fix is always upstream of the screw.
+Before touching the screw, check the cheap things: correct throttle free play ([Throttle Cable Care and Free Play on a Motorbike]({{ '/articles/throttle-cable-free-play-motorbike/' | relative_url }})), clean air filter, fresh fuel, and a plug that is not sooty black. Then set the idle warm to the manual's specification. If the idle then needs revisiting every week, the engine is asking for a proper diagnosis, not another quarter-turn. Idle is a symptom — the honest fix is always upstream of the screw.

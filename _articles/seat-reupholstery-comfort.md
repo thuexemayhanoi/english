@@ -27,7 +27,7 @@ The old cover comes off, the dead foam comes off, and new foam is shaped — usu
 
 ## Who benefits
 
-Riders whose foam has collapsed (you can feel the seat pan through the seat), taller riders who want legroom via a flatter profile, riders who slide forward under braking, and anyone whose seat pan has cracked — the cause of many mysterious saddle pains. If the underlying problem is position rather than padding, read the fit logic first: gel-seat-pads-comfort-long-rides and best-motorbike-for-long-distance-vietnam.
+Riders whose foam has collapsed (you can feel the seat pan through the seat), taller riders who want legroom via a flatter profile, riders who slide forward under braking, and anyone whose seat pan has cracked — the cause of many mysterious saddle pains. If the underlying problem is position rather than padding, read the fit logic first: [Gel Seat Pads and Seat Comfort on Long Rides]({{ '/articles/gel-seat-pads-comfort-long-rides/' | relative_url }}) and [Best Motorbike for Long-Distance Riding in Vietnam]({{ '/articles/best-motorbike-for-long-distance-vietnam/' | relative_url }}).
 
 ## The process and the pitfalls
 
@@ -35,4 +35,4 @@ Go to a real upholsterer with motorbike experience, sit on the bike with them wa
 
 ## Value
 
-A rebuilt seat costs little relative to what riders spend chasing comfort with accessories, and it survives the accessories: at resale, a fresh, well-made seat reads as a cared-for bike (preparing-motorbike-for-sale-vietnam). Finding the right shop follows the same rules as finding a good mechanic — talking-to-mechanic-vietnam.
+A rebuilt seat costs little relative to what riders spend chasing comfort with accessories, and it survives the accessories: at resale, a fresh, well-made seat reads as a cared-for bike ([Preparing a Motorbike for Sale]({{ '/articles/preparing-motorbike-for-sale-vietnam/' | relative_url }})). Finding the right shop follows the same rules as finding a good mechanic — [Getting Repairs Done: Talking to a Vietnamese Mechanic]({{ '/articles/talking-to-mechanic-vietnam/' | relative_url }}).

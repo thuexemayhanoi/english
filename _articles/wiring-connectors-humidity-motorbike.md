@@ -23,15 +23,15 @@ Vietnamese motorbike electrics fail in patterns, and humidity writes most of the
 
 ## How moisture gets in
 
-Every connector, switch and lamp holder breathes with temperature changes and draws in humid air; condensation forms on the contacts; oxide grows. Flood-season riding, pressure-washing and bikes parked outdoors accelerate it. The corrosion adds resistance: lights dim, starters click, warning lights lie, and faults appear "sometimes" — the worst kind. The routine that catches these early is in lights-and-electrical-checks-motorbike.
+Every connector, switch and lamp holder breathes with temperature changes and draws in humid air; condensation forms on the contacts; oxide grows. Flood-season riding, pressure-washing and bikes parked outdoors accelerate it. The corrosion adds resistance: lights dim, starters click, warning lights lie, and faults appear "sometimes" — the worst kind. The routine that catches these early is in [Lights and Electrical Checks on a Motorbike]({{ '/articles/lights-and-electrical-checks-motorbike/' | relative_url }}).
 
 ## Where the gremlins live
 
-Priority inspection spots: the headlight and connector behind it; the connectors under the seat (scooter electronics live there); the regulator and stator connector at the front of the engine; brake-light switches at lever and pedal; the battery terminals themselves — the classic flat-battery story is often a corroded terminal, as covered in dead-battery-motorbike-vietnam. Chafed wiring near the steering head (rubbed by fork movement) and under the tank is the mechanical twin of the moisture problem.
+Priority inspection spots: the headlight and connector behind it; the connectors under the seat (scooter electronics live there); the regulator and stator connector at the front of the engine; brake-light switches at lever and pedal; the battery terminals themselves — the classic flat-battery story is often a corroded terminal, as covered in [A Dead Battery: Recovering a Motorbike That Won't Start]({{ '/articles/dead-battery-motorbike-vietnam/' | relative_url }}). Chafed wiring near the steering head (rubbed by fork movement) and under the tank is the mechanical twin of the moisture problem.
 
 ## What protection actually works
 
-Unplug, inspect, clean contacts with contact cleaner, reseat firmly, and pack dielectric grease in exposed connectors — the grease seals air out without bridging pins. Tape chafe points properly; reroute wiring away from sharp edges and the exhaust. After any flood riding, disconnect and dry connectors before they corrode. The general keep-water-out philosophy — parking, washing, drying — is the same one in motorcycle-rust-prevention-vietnam, and the rainy-season version of the checklist is in motorbike-maintenance-rainy-season.
+Unplug, inspect, clean contacts with contact cleaner, reseat firmly, and pack dielectric grease in exposed connectors — the grease seals air out without bridging pins. Tape chafe points properly; reroute wiring away from sharp edges and the exhaust. After any flood riding, disconnect and dry connectors before they corrode. The general keep-water-out philosophy — parking, washing, drying — is the same one in [Preventing Rust on a Motorbike in Vietnam]({{ '/articles/motorcycle-rust-prevention-vietnam/' | relative_url }}), and the rainy-season version of the checklist is in [Motorbike Maintenance in the Rainy Season]({{ '/articles/motorbike-maintenance-rainy-season/' | relative_url }}).
 
 ## Add-ons and their cost
 

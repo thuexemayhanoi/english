@@ -27,14 +27,14 @@ Your owner's manual states the minimum octane the engine is designed for. For th
 
 ## Fuel quality and station habits
 
-Fuel in Vietnam comes through a regulated wholesale system, but the practical risks are at the margins: very old station tanks, tampered pumps at isolated stops, and fuel left sitting in jerry cans for months. Practical habits: use busy stations (fast turnover means fresher fuel), watch the pump reset to zero, and avoid filling from unmarked roadside containers. Fuel that smells sour, looks cloudy or makes the engine run badly should not be argued with — ride gently to a different station and, if problems persist, have the system checked; a fuel smell around the bike itself is a different problem covered in fuel-leak-petrol-smell-motorbike.
+Fuel in Vietnam comes through a regulated wholesale system, but the practical risks are at the margins: very old station tanks, tampered pumps at isolated stops, and fuel left sitting in jerry cans for months. Practical habits: use busy stations (fast turnover means fresher fuel), watch the pump reset to zero, and avoid filling from unmarked roadside containers. Fuel that smells sour, looks cloudy or makes the engine run badly should not be argued with — ride gently to a different station and, if problems persist, have the system checked; a fuel smell around the bike itself is a different problem covered in [Smelling Petrol: Fuel Leaks and What to Do]({{ '/articles/fuel-leak-petrol-smell-motorbike/' | relative_url }}).
 
 ## Long stops and empty tanks
 
-Fuel degrades when a bike sits for weeks, and near-empty tanks collect condensation in humid Hanoi air. If a bike will be parked for a long period, a fuller tank is kinder than a nearly dry one — the full checklist for parking a bike up long-term is in storing-motorbike-long-term-vietnam.
+Fuel degrades when a bike sits for weeks, and near-empty tanks collect condensation in humid Hanoi air. If a bike will be parked for a long period, a fuller tank is kinder than a nearly dry one — the full checklist for parking a bike up long-term is in [Storing a Motorbike for Weeks or Months in Vietnam]({{ '/articles/storing-motorbike-long-term-vietnam/' | relative_url }}).
 
 ## Fuel economy is a habit, not a product
 
-Additives and "fuel-saving" bottles sold beside the till mostly do nothing measurable. What genuinely reduces consumption is riding smoothly, correct tyre pressure, a clean air filter and a healthy engine — the real levers are explained in improving-fuel-economy-motorbike, and the daily once-over that catches small problems early is in motorbike-maintenance-basics-vietnam.
+Additives and "fuel-saving" bottles sold beside the till mostly do nothing measurable. What genuinely reduces consumption is riding smoothly, correct tyre pressure, a clean air filter and a healthy engine — the real levers are explained in [Improving Fuel Economy on a Motorbike]({{ '/articles/improving-fuel-economy-motorbike/' | relative_url }}), and the daily once-over that catches small problems early is in [Motorbike Maintenance Basics for Vietnam]({{ '/articles/motorbike-maintenance-basics-vietnam/' | relative_url }}).
 
 Fill with what the manual asks, at busy stations, and your fuel worries in Vietnam are basically over.

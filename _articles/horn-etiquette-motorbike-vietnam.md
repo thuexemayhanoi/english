@@ -32,12 +32,12 @@ Long, angry leaning on the horn does nothing at speed and, in Vietnam, does not 
 ## Timing beats volume
 
 A beep 30 metres before a blind alley gives the person emerging time to see you;
- a beep 3 metres away only makes them flinch into you. This is the same early-signal logic as hand-signals-motorbike-vietnam: communicate while there is still time to act on it.
+ a beep 3 metres away only makes them flinch into you. This is the same early-signal logic as [Hand Signals for Motorbike Riders in Vietnam]({{ '/articles/hand-signals-motorbike-vietnam/' | relative_url }}): communicate while there is still time to act on it.
 
 ## Where the horn earns its keep
 
-Around buses at stops, past school gates at pickup time, along market streets, on the shoulder of rural roads near buffalo and dogs, and whenever you are in the mirror-blind zone of a larger vehicle — riding-motorbike-blind-spots-vietnam explains those zones. When you merge, beep first: merging-side-streets-traffic-vietnam walks through the timing.
+Around buses at stops, past school gates at pickup time, along market streets, on the shoulder of rural roads near buffalo and dogs, and whenever you are in the mirror-blind zone of a larger vehicle — [Blind Spots: Riding Around Buses and Trucks in Vietnam]({{ '/articles/riding-motorbike-blind-spots-vietnam/' | relative_url }}) explains those zones. When you merge, beep first: [Merging Into Vietnamese Traffic from Side Streets]({{ '/articles/merging-side-streets-traffic-vietnam/' | relative_url }}) walks through the timing.
 
 ## If your rental's horn is weak
 
-Test it at pickup — a worn horn is worth flagging when you collect the bike. And remember that half the horn's job is undone by your own visibility: lights on and predictable lines, as defensive-riding-motorbike-vietnam explains, are what stop the situation needing a beep at all.
+Test it at pickup — a worn horn is worth flagging when you collect the bike. And remember that half the horn's job is undone by your own visibility: lights on and predictable lines, as [Defensive Riding on a Motorbike in Vietnam]({{ '/articles/defensive-riding-motorbike-vietnam/' | relative_url }}) explains, are what stop the situation needing a beep at all.

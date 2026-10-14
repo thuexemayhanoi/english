@@ -23,7 +23,7 @@ The throttle cable is a thin steel wire inside a sleeve, and it decides whether 
 
 ## Free play: the two-minute check
 
-With the engine off, slowly twist the throttle and look for the small amount of rotation before the revs would rise — roughly two to five millimetres of movement at the throttle grip's outer edge on most bikes, though the exact figure for your model belongs to the owner's manual. Too much free play makes response lazy and can leave the throttle partially open when the grip is "closed". Too little means the engine may not return to idle cleanly, and idle behaviour ties into idle-speed-adjustment-motorbike.
+With the engine off, slowly twist the throttle and look for the small amount of rotation before the revs would rise — roughly two to five millimetres of movement at the throttle grip's outer edge on most bikes, though the exact figure for your model belongs to the owner's manual. Too much free play makes response lazy and can leave the throttle partially open when the grip is "closed". Too little means the engine may not return to idle cleanly, and idle behaviour ties into [Idle Speed: Setting It, and What It Reveals]({{ '/articles/idle-speed-adjustment-motorbike/' | relative_url }}).
 
 ## Adjusting it
 
@@ -31,7 +31,7 @@ Most bikes have two adjusters: a large one at the handlebar end and a fine one w
 
 ## Lubrication: the real life-extender
 
-Cables dry out, especially through a Vietnamese wet season and the dust of the dry one. A dry cable drags inside its sleeve, feels notchy, and wears both cable and throttle housing. Periodic cable lubrication — a few drops at the cable end while working the grip, or a cable-oiling tool — is part of the routine in lubrication-points-motorbike-vietnam. Never force a throttle that feels gritty; find out why.
+Cables dry out, especially through a Vietnamese wet season and the dust of the dry one. A dry cable drags inside its sleeve, feels notchy, and wears both cable and throttle housing. Periodic cable lubrication — a few drops at the cable end while working the grip, or a cable-oiling tool — is part of the routine in [Grease Points: Where Lubrication Matters on a Motorbike]({{ '/articles/lubrication-points-motorbike-vietnam/' | relative_url }}). Never force a throttle that feels gritty; find out why.
 
 ## Warning signs before it snaps
 
@@ -40,8 +40,8 @@ Cables dry out, especially through a Vietnamese wet season and the dust of the d
 - The action feels rough in one spot of its travel.
 - Visible fraying where the cable exits its adjuster.
 
-A snapped or stuck throttle is more dangerous than a snapped clutch cable, because the clutch at least lets you disconnect the engine from the wheel. A sticking throttle on the move: pull the clutch in, brake, and get off the road. The roadside thinking for broken control cables generally is covered in broken-clutch-cable-motorbike-roadside.
+A snapped or stuck throttle is more dangerous than a snapped clutch cable, because the clutch at least lets you disconnect the engine from the wheel. A sticking throttle on the move: pull the clutch in, brake, and get off the road. The roadside thinking for broken control cables generally is covered in [A Broken Clutch Cable: The Roadside Reality]({{ '/articles/broken-clutch-cable-motorbike-roadside/' | relative_url }}).
 
 ## Replacement
 
-Cables are cheap; carburettor slides and throttle assemblies are not. When adjustment runs out of thread, or fraying is visible, replace the cable rather than nursing it. Route the new one exactly along the old path — through the same guides — so it neither pinches at full steering lock nor flaps near hot engine parts. Scheduling this into routine checks is part of motorbike-maintenance-basics-vietnam.
+Cables are cheap; carburettor slides and throttle assemblies are not. When adjustment runs out of thread, or fraying is visible, replace the cable rather than nursing it. Route the new one exactly along the old path — through the same guides — so it neither pinches at full steering lock nor flaps near hot engine parts. Scheduling this into routine checks is part of [Motorbike Maintenance Basics for Vietnam]({{ '/articles/motorbike-maintenance-basics-vietnam/' | relative_url }}).

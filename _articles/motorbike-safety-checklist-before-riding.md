@@ -19,11 +19,11 @@ sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
 internal_link_targets: "mirror-setup-motorbike-vietnam, rental-motorbike-inspection-checklist, tyre-care-motorbike-vietnam, chain-maintenance-motorbike-vietnam, brake-checks-motorbike-vietnam"
 ---
-Most failures announce themselves days before they happen — a chain getting looser, a brake getting spongier, a tyre getting softer. A two-minute check catches them while they are still cheap. The full inspection at rental pickup is covered in rental-motorbike-inspection-checklist; this is the recurring habit for every bike, every week.
+Most failures announce themselves days before they happen — a chain getting looser, a brake getting spongier, a tyre getting softer. A two-minute check catches them while they are still cheap. The full inspection at rental pickup is covered in [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}); this is the recurring habit for every bike, every week.
 
 ## The two-minute walk-around
 
-Tyres: visually sound, not visibly flat, no nails or cuts. Pressures lose air slowly and invisibly — tyre-care-motorbike-vietnam covers how and when to check them properly. Brake: pull the front lever and push the bike — the lever should be firm, the bike should not roll. Same for the pedal. Chain (on chain-driven bikes): not visibly sagging, roughly aligned; chain-maintenance-motorbike-vietnam covers the full routine.
+Tyres: visually sound, not visibly flat, no nails or cuts. Pressures lose air slowly and invisibly — [Tyre Care and Pressure Basics for Motorbikes]({{ '/articles/tyre-care-motorbike-vietnam/' | relative_url }}) covers how and when to check them properly. Brake: pull the front lever and push the bike — the lever should be firm, the bike should not roll. Same for the pedal. Chain (on chain-driven bikes): not visibly sagging, roughly aligned; [Chain Maintenance on a Motorbike in Vietnam]({{ '/articles/chain-maintenance-motorbike-vietnam/' | relative_url }}) covers the full routine.
 
 ## Lights and controls
 
@@ -35,7 +35,7 @@ Check under the bike for fresh oil spots, and glance at the ground where it has 
 
 ## When the check says stop
 
-Soft brakes, a tyre visibly down, a chain you can lift far off the sprocket: these are not ride-and-see items — they are park-and-fix items. On a rental, call the shop before riding it further — rental-motorbike-feels-wrong covers that conversation; on your own bike, brake-checks-motorbike-vietnam and the maintenance hub cover the next steps.
+Soft brakes, a tyre visibly down, a chain you can lift far off the sprocket: these are not ride-and-see items — they are park-and-fix items. On a rental, call the shop before riding it further — [What to Do If Your Rental Motorbike Does Not Feel Normal]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}) covers that conversation; on your own bike, [Checking Brakes on a Motorbike]({{ '/articles/brake-checks-motorbike-vietnam/' | relative_url }}) and the maintenance hub cover the next steps.
 
 ## The one-line version
 

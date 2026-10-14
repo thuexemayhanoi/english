@@ -23,7 +23,7 @@ Buying a used bike in Vietnam is how most long-term residents get wheels — pri
 
 ## Papers before metal
 
-Registration papers matching the frame and engine numbers, the seller's identity matching the papers, and no outstanding ownership confusion. A bike without clean papers is a discount you should not take — fines and impound problems land on whoever is riding. If the purchase is a big decision in itself, renting-vs-buying-a-motorbike-hanoi covers the rent-versus-buy math first.
+Registration papers matching the frame and engine numbers, the seller's identity matching the papers, and no outstanding ownership confusion. A bike without clean papers is a discount you should not take — fines and impound problems land on whoever is riding. If the purchase is a big decision in itself, [Renting vs Buying a Motorbike in Hanoi: Cost and Convenience]({{ '/articles/renting-vs-buying-a-motorbike-hanoi/' | relative_url }}) covers the rent-versus-buy math first.
 
 ## The cold-start test
 
@@ -31,11 +31,11 @@ Arrive and ask the seller NOT to start the bike before you come. A bike that sta
 
 ## The walk-around
 
-Fresh paint hiding crash damage (look at the frame ends and lever tips for contradicting wear), fork seals dry, chain and sprockets with life left, tyres recent, brake pads with meat, no welding on the frame. Under the seat and under the engine tell you whether the bike was loved: a clean, dry underside is worth more than shiny plastics. Faked parts and accessories matter too — genuine-vs-fake-parts-motorbike-vietnam.
+Fresh paint hiding crash damage (look at the frame ends and lever tips for contradicting wear), fork seals dry, chain and sprockets with life left, tyres recent, brake pads with meat, no welding on the frame. Under the seat and under the engine tell you whether the bike was loved: a clean, dry underside is worth more than shiny plastics. Faked parts and accessories matter too — [Genuine Versus Fake Motorbike Parts in Vietnam]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}).
 
 ## The test ride
 
-Brakes firm and straight, no wobble through the bars (wobble and pulling mean money), gears engaging cleanly, idle settling at lights. The sequence to run through is the same discipline as the rental inspection in rental-motorbike-inspection-checklist, plus your own long-list: this time you are the one keeping the bike.
+Brakes firm and straight, no wobble through the bars (wobble and pulling mean money), gears engaging cleanly, idle settling at lights. The sequence to run through is the same discipline as the rental inspection in [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}), plus your own long-list: this time you are the one keeping the bike.
 
 ## Bring a witness
 

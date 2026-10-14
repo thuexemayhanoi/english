@@ -24,7 +24,7 @@ A petrol smell on or after a ride is never a personality trait of the bike — i
 
 ## Where the smell comes from
 
-The fuel line and its connections, the carburettor overflow, a perished tap or tank seal, or worst of all a leaking tank seam. On carburetted bikes — the majority of Vietnam's fleet, see carburettor-vs-fuel-injection-vietnam — a sticking float makes the carb overflow and drip fuel, often visible as a wet, shimmering patch under the bike after parking. Fuel-injected bikes leak at connections or injector seals instead.
+The fuel line and its connections, the carburettor overflow, a perished tap or tank seal, or worst of all a leaking tank seam. On carburetted bikes — the majority of Vietnam's fleet, see [Carburettor vs Fuel Injection on Vietnamese Motorbikes]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}) — a sticking float makes the carb overflow and drip fuel, often visible as a wet, shimmering patch under the bike after parking. Fuel-injected bikes leak at connections or injector seals instead.
 
 ## The check sequence
 
@@ -36,4 +36,4 @@ Petrol vapour ignites easily, engines get hot, and electrical systems spark. Tha
 
 ## Fixes and rentals
 
-A cracked fuel line is a five-minute, very cheap fix at any shop — motorbike-service-where-vietnam. On a rental, a petrol smell is exactly the "bike feels wrong" situation where the correct action is to stop, document and call the shop rather than ride it back: rental-motorbike-feels-wrong covers the sensible process.
+A cracked fuel line is a five-minute, very cheap fix at any shop — [Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }}). On a rental, a petrol smell is exactly the "bike feels wrong" situation where the correct action is to stop, document and call the shop rather than ride it back: [What to Do If Your Rental Motorbike Does Not Feel Normal]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}) covers the sensible process.

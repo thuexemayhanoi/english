@@ -23,7 +23,7 @@ A motorbike fuel gauge is a float on an arm in the tank reporting to a needle �
 
 ## The three classic lies
 
-Forever-full: the float is stuck, the arm is bent, or the sender's wiring is open — the gauge parks at full. Forever-empty: a shorted sender or grounded wire — the gauge parks at empty with a full tank. Bouncing or creeping: worn sender tracks, dirty contacts, or a loose connector — the needle oscillates or updates once per decade. Note the difference between gauge problems and the low-fuel warning light (if fitted) acting up: what the cluster's lights do and mean is covered in motorbike-warning-lights-meaning.
+Forever-full: the float is stuck, the arm is bent, or the sender's wiring is open — the gauge parks at full. Forever-empty: a shorted sender or grounded wire — the gauge parks at empty with a full tank. Bouncing or creeping: worn sender tracks, dirty contacts, or a loose connector — the needle oscillates or updates once per decade. Note the difference between gauge problems and the low-fuel warning light (if fitted) acting up: what the cluster's lights do and mean is covered in [Reading Your Motorbike's Warning Lights]({{ '/articles/motorbike-warning-lights-meaning/' | relative_url }}).
 
 ## How to test which part is lying
 
@@ -31,10 +31,10 @@ The elimination order: sender first, wiring second, gauge last — senders die f
 
 ## Living with it: the trip-meter method
 
-Plenty of riders in Vietnam just ignore the gauge forever: fill the tank, zero the trip meter, and refuel on distance. It works because tank range is stable for a given riding pattern — and it is also how you notice real changes in fuel consumption, the early-warning logic in improving-fuel-economy-motorbike. Bikes without any gauge do this by design, with the reserve tap as the last line — fuel-tap-reserve-motorbike covers that system, and its "sputter on a full tank" cousin (water and sediment) is worth knowing too.
+Plenty of riders in Vietnam just ignore the gauge forever: fill the tank, zero the trip meter, and refuel on distance. It works because tank range is stable for a given riding pattern — and it is also how you notice real changes in fuel consumption, the early-warning logic in [Improving Fuel Economy on a Motorbike]({{ '/articles/improving-fuel-economy-motorbike/' | relative_url }}). Bikes without any gauge do this by design, with the reserve tap as the last line — [Fuel Taps and Reserve: Managing a Motorbike Without a Fuel Gauge]({{ '/articles/fuel-tap-reserve-motorbike/' | relative_url }}) covers that system, and its "sputter on a full tank" cousin (water and sediment) is worth knowing too.
 
 ## The safety caveat
 
-A lying gauge is a nuisance; a leaking tank is an emergency. If the gauge's misbehaviour is accompanied by any petrol smell, treat that first — fuel-leak-petrol-smell-motorbike is the playbook.
+A lying gauge is a nuisance; a leaking tank is an emergency. If the gauge's misbehaviour is accompanied by any petrol smell, treat that first — [Smelling Petrol: Fuel Leaks and What to Do]({{ '/articles/fuel-leak-petrol-smell-motorbike/' | relative_url }}) is the playbook.
 
 Trust kilometres more than needles. The trip meter never floats.

@@ -35,7 +35,7 @@ A light occasional squeal can be dust; a constant squeal, a gritty feel, or a pu
 
 ## Riding and checking together
 
-Braking technique (progressive squeeze, front-first) is covered in emergency-braking-motorbike-vietnam; the weekly two-minute habit that includes brakes is in motorbike-safety-checklist-before-riding. On a rental, report any brake change to the shop rather than adjusting it yourself — outside-repair-shops-rental-motorbike covers how shops handle rental bikes.
+Braking technique (progressive squeeze, front-first) is covered in [Emergency Braking on a Motorbike in Vietnam]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}); the weekly two-minute habit that includes brakes is in [The Pre-Ride Safety Check]({{ '/articles/motorbike-safety-checklist-before-riding/' | relative_url }}). On a rental, report any brake change to the shop rather than adjusting it yourself — [Can You Use Outside Repair Shops on a Rental Motorbike?]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) covers how shops handle rental bikes.
 
 ## The one-line version
 

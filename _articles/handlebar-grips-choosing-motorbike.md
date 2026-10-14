@@ -23,11 +23,11 @@ Grips are the three contact points through which the whole ride is steered, brak
 
 ## Why replace them
 
-Hard, glazed grips slip — especially with sweaty or wet hands, which in Vietnamese weather is most of the year. Worn grips also transmit more vibration, feeding the numb-hand problem on longer rides. And perished grips that spin on the bar are a genuine safety failure, not a cosmetic one. The habit of noticing them is part of the everyday once-over thinking in motorbike-rider-toolkit-essentials territory.
+Hard, glazed grips slip — especially with sweaty or wet hands, which in Vietnamese weather is most of the year. Worn grips also transmit more vibration, feeding the numb-hand problem on longer rides. And perished grips that spin on the bar are a genuine safety failure, not a cosmetic one. The habit of noticing them is part of the everyday once-over thinking in [A Rider's Toolkit: What to Carry Under the Seat]({{ '/articles/motorbike-rider-toolkit-essentials/' | relative_url }}) territory.
 
 ## Compound and texture
 
-Soft compounds grip well when new but wear and glaze faster in heat and sun; firmer compounds last longer at the cost of some plushness. Texture matters more in the wet: deep grooves and a patterned surface shed water better than smooth "sporty" grips. Riders who ride in gloves all the time (the sensible choice — riding-gloves-vietnam-climate covers why) can optimise for glove grip; riders who sometimes ride bare-handed should prioritize the wet-bare-hand test.
+Soft compounds grip well when new but wear and glaze faster in heat and sun; firmer compounds last longer at the cost of some plushness. Texture matters more in the wet: deep grooves and a patterned surface shed water better than smooth "sporty" grips. Riders who ride in gloves all the time (the sensible choice — [Riding Gloves in Vietnam's Climate]({{ '/articles/riding-gloves-vietnam-climate/' | relative_url }}) covers why) can optimise for glove grip; riders who sometimes ride bare-handed should prioritize the wet-bare-hand test.
 
 ## Heated grips and the climate question
 
@@ -35,6 +35,6 @@ Heated grips are a genuine winter luxury in Hanoi's damp cold — for three mont
 
 ## Fitting without failures
 
-Grips need the right inner diameter for the throttle tube versus the left bar — they are not interchangeable ends. Proper fit uses grip adhesive or locking collars; improvised fitting with tape or nothing ends with a grip that rotates or walks off. Allow the adhesive to cure before riding — the classic first-timer error is fitting grips at the kerb and riding off immediately. And after any bar work, re-check mirrors and lever positions — the setup habit is in mirror-setup-motorbike-vietnam, and grips/levers/mirrors are the control-layout trio that hand-signals-motorbike-vietnam assumes stays consistent.
+Grips need the right inner diameter for the throttle tube versus the left bar — they are not interchangeable ends. Proper fit uses grip adhesive or locking collars; improvised fitting with tape or nothing ends with a grip that rotates or walks off. Allow the adhesive to cure before riding — the classic first-timer error is fitting grips at the kerb and riding off immediately. And after any bar work, re-check mirrors and lever positions — the setup habit is in [Setting Up Your Mirrors Properly on a Motorbike]({{ '/articles/mirror-setup-motorbike-vietnam/' | relative_url }}), and grips/levers/mirrors are the control-layout trio that [Hand Signals for Motorbike Riders in Vietnam]({{ '/articles/hand-signals-motorbike-vietnam/' | relative_url }}) assumes stays consistent.
 
 A small part with outsized leverage over comfort and control — replace them when they glaze, not when they fall off.

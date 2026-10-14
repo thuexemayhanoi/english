@@ -27,7 +27,7 @@ Inside the engine cases, shoes or plates throw outward with revs and engage the 
 
 ## What wear feels like
 
-Slipping under hard acceleration — revs rise, speed does not, especially uphill or with a passenger. Drag — the bike creeps forward at idle with the engine warm, or wants to move in gear at a stop. Grinding or chattering on take-off. Any of these means the clutch shoes, plates or springs are worn and the engine is running hot working against itself. Book a mechanic — this is an engine-cases job, not a driveway repair (motorbike-service-where-vietnam).
+Slipping under hard acceleration — revs rise, speed does not, especially uphill or with a passenger. Drag — the bike creeps forward at idle with the engine warm, or wants to move in gear at a stop. Grinding or chattering on take-off. Any of these means the clutch shoes, plates or springs are worn and the engine is running hot working against itself. Book a mechanic — this is an engine-cases job, not a driveway repair ([Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }})).
 
 ## The habits that kill clutches
 
@@ -35,4 +35,4 @@ Riding the throttle hard from low revs everywhere — loading the clutch at low 
 
 ## What preserves it
 
-Gentle take-offs, correct oil (the clutch on many underbones shares the engine oil — checking-engine-oil-motorbike), and shifting decisively rather than hovering between gears. These engines are famously durable when oil and clutch are treated kindly — motorbike-maintenance-basics-vietnam frames the whole routine, and choosing between semi-automatic and automatic is covered in automatic-vs-manual-motorbike-hanoi.
+Gentle take-offs, correct oil (the clutch on many underbones shares the engine oil — [Checking Engine Oil on a Motorbike]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }})), and shifting decisively rather than hovering between gears. These engines are famously durable when oil and clutch are treated kindly — [Motorbike Maintenance Basics for Vietnam]({{ '/articles/motorbike-maintenance-basics-vietnam/' | relative_url }}) frames the whole routine, and choosing between semi-automatic and automatic is covered in [Automatic vs Semi-Automatic vs Manual: Which Bike to Rent in Hanoi]({{ '/articles/automatic-vs-manual-motorbike-hanoi/' | relative_url }}).

@@ -27,14 +27,14 @@ Older and simpler bikes run a speedometer cable — a spinning cable driven by a
 
 ## The diagnosis order
 
-For a cable bike: check the cable ends are seated, then spin the front wheel with the bike on its stand and watch the cable's inner square shaft turn. If it turns but the needle is dead, the gauge head is the suspect. For sensor bikes: check the connector at the sensor for dirt and corrosion, then the wiring run. A cluster with multiple dead functions (odometer, fuel and temperature together) points at the cluster's power or ground, not at four separate parts. The habit of ruling out connectors before parts saves real money — the same logic as motorbike-maintenance-basics-vietnam.
+For a cable bike: check the cable ends are seated, then spin the front wheel with the bike on its stand and watch the cable's inner square shaft turn. If it turns but the needle is dead, the gauge head is the suspect. For sensor bikes: check the connector at the sensor for dirt and corrosion, then the wiring run. A cluster with multiple dead functions (odometer, fuel and temperature together) points at the cluster's power or ground, not at four separate parts. The habit of ruling out connectors before parts saves real money — the same logic as [Motorbike Maintenance Basics for Vietnam]({{ '/articles/motorbike-maintenance-basics-vietnam/' | relative_url }}).
 
 ## What a "slightly wrong" speedo means
 
-A gauge that reads but reads oddly — bouncing, sticking at a number, lagging — is a bearing, cable or sensor on its way out. Do not ignore it as a quirk; a speedo that lies is worse than one that is silent. Also note which warning lights share the cluster, because a dying cluster can hide real warnings — motorbike-warning-lights-meaning explains what the cluster is supposed to tell you.
+A gauge that reads but reads oddly — bouncing, sticking at a number, lagging — is a bearing, cable or sensor on its way out. Do not ignore it as a quirk; a speedo that lies is worse than one that is silent. Also note which warning lights share the cluster, because a dying cluster can hide real warnings — [Reading Your Motorbike's Warning Lights]({{ '/articles/motorbike-warning-lights-meaning/' | relative_url }}) explains what the cluster is supposed to tell you.
 
 ## Getting it fixed
 
-This is not a roadside job; it is a bench job at a shop with the right parts access. Describing the symptom precisely — "needle dead, cable spins, odometer still counts" — gets a correct diagnosis faster, and talking-to-mechanic-vietnam covers how to have that conversation. Choosing the shop sensibly is covered in motorbike-service-where-vietnam.
+This is not a roadside job; it is a bench job at a shop with the right parts access. Describing the symptom precisely — "needle dead, cable spins, odometer still counts" — gets a correct diagnosis faster, and [Getting Repairs Done: Talking to a Vietnamese Mechanic]({{ '/articles/talking-to-mechanic-vietnam/' | relative_url }}) covers how to have that conversation. Choosing the shop sensibly is covered in [Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }}).
 
 A working speedometer is also your defence in speed-limit conversations with traffic police — a cheap repair with an expensive upside.

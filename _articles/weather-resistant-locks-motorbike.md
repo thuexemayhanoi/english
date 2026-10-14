@@ -23,11 +23,11 @@ A lock that no longer opens is not security — it is a delay, and in the wrong 
 
 ## What fails
 
-Locks fail in three ways: the barrel seizes from corrosion and grit, the mechanism gunk ups and stops turning, and cheap shackles rust into frozen lumps. Budget padlock-style devices with no weather sealing fail in a single rainy season. The problem mirrors the general corrosion war on bikes — motorcycle-rust-prevention-vietnam — applied to a device with moving parts.
+Locks fail in three ways: the barrel seizes from corrosion and grit, the mechanism gunk ups and stops turning, and cheap shackles rust into frozen lumps. Budget padlock-style devices with no weather sealing fail in a single rainy season. The problem mirrors the general corrosion war on bikes — [Preventing Rust on a Motorbike in Vietnam]({{ '/articles/motorcycle-rust-prevention-vietnam/' | relative_url }}) — applied to a device with moving parts.
 
 ## What to look for buying
 
-Sealed or shrouded keyways keep water and dust out of the barrel. Stainless or hardened boron shackles resist both bolt cutters and rust better than chromed soft steel. Simple beats clever: a solid disc lock with a straightforward mechanism outlasts a feature-rich one with tiny springs. Keys matter — cheap copies wear barrels; use the originals. The general lock-choice logic (disc lock versus chain versus both) is in disc-locks-chains-motorbike-security; the steering-lock and helmet-lock variants need the same maintenance (steering-locks-effective-use, helmet-locks-theft-vietnam).
+Sealed or shrouded keyways keep water and dust out of the barrel. Stainless or hardened boron shackles resist both bolt cutters and rust better than chromed soft steel. Simple beats clever: a solid disc lock with a straightforward mechanism outlasts a feature-rich one with tiny springs. Keys matter — cheap copies wear barrels; use the originals. The general lock-choice logic (disc lock versus chain versus both) is in [Motorbike Security: Disc Locks, Chains and What Actually Deters]({{ '/articles/disc-locks-chains-motorbike-security/' | relative_url }}); the steering-lock and helmet-lock variants need the same maintenance ([Steering Locks: How to Use Them and What They Actually Do]({{ '/articles/steering-locks-effective-use/' | relative_url }}), [Helmet Theft in Vietnam: Locks, Carrying and Common Sense]({{ '/articles/helmet-locks-theft-vietnam/' | relative_url }})).
 
 ## Maintenance that actually works
 

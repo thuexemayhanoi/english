@@ -33,7 +33,7 @@ If the bike has a chain, keep it clean and notice when it slackens; chain adjust
 
 ## Fuel discipline
 
-Use the fuel the bike expects and buy from busy stations. Note the odometer when you fill — a sudden drop in fuel economy is an early warning sign of a problem. Return the bike with the agreed fuel level; motorbike-rental-fuel-policy-hanoi explains the usual expectations.
+Use the fuel the bike expects and buy from busy stations. Note the odometer when you fill — a sudden drop in fuel economy is an early warning sign of a problem. Return the bike with the agreed fuel level; [Fuel Policy When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-fuel-policy-hanoi/' | relative_url }}) explains the usual expectations.
 
 ## Storage habits
 
@@ -41,7 +41,7 @@ Park under cover where you can, wipe the bike dry after heavy rain, and do not l
 
 ## When something feels wrong
 
-A pull to one side, a new rattle, softer brakes — deal with it the day you notice. Maintenance-during-monthly-rental-hanoi explains what the shop covers, and rental-motorbike-breakdown-hanoi covers what to do when something fails outright.
+A pull to one side, a new rattle, softer brakes — deal with it the day you notice. Maintenance-during-monthly-rental-hanoi explains what the shop covers, and [What Happens If a Rental Motorbike Breaks Down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) covers what to do when something fails outright.
 
 ## The one-line version
 

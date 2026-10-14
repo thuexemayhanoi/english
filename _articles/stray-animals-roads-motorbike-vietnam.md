@@ -24,7 +24,7 @@ Dogs sleep in the middle of warm asphalt, buffalo wander without supervision, ch
 
 ## Read the animal, not just the road
 
-Dogs mostly move toward or away from their own home territory; one trotting along the verge will usually keep going, but one standing alert on the shoulder is a coin flip. Cattle and buffalo are slow but utterly unpredictable about which side of the road they prefer. Slow down early for any large animal: swerving at speed is far deadlier than braking — the sequence in emergency-braking-motorbike-vietnam is what you will actually use.
+Dogs mostly move toward or away from their own home territory; one trotting along the verge will usually keep going, but one standing alert on the shoulder is a coin flip. Cattle and buffalo are slow but utterly unpredictable about which side of the road they prefer. Slow down early for any large animal: swerving at speed is far deadlier than braking — the sequence in [Emergency Braking on a Motorbike in Vietnam]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}) is what you will actually use.
 
 ## The horn buys you a decision
 
@@ -36,8 +36,8 @@ Village entrances, market roads, house-fronts at dusk and the shade under trees 
 
 ## When the surface adds to the problem
 
-Rural roads add gravel and mud to the animal equation: any emergency maneuver has less grip than you hope — gravel-roads-motorbike-vietnam covers riding loose surfaces, and riding-downhill-motorbike-engine-braking the extra care when animals appear on slopes.
+Rural roads add gravel and mud to the animal equation: any emergency maneuver has less grip than you hope — [Riding on Gravel and Loose Surfaces on a Motorbike]({{ '/articles/gravel-roads-motorbike-vietnam/' | relative_url }}) covers riding loose surfaces, and [Riding Downhill: Engine Braking and Brake Control]({{ '/articles/riding-downhill-motorbike-engine-braking/' | relative_url }}) the extra care when animals appear on slopes.
 
 ## If a collision is unavoidable
 
-Slow as much as you can, keep the bike upright, and never swerve into the opposing lane — the animal is softer than the truck. Defensive-riding habits are the reason most riders never face the choice: defensive-riding-motorbike-vietnam.
+Slow as much as you can, keep the bike upright, and never swerve into the opposing lane — the animal is softer than the truck. Defensive-riding habits are the reason most riders never face the choice: [Defensive Riding on a Motorbike in Vietnam]({{ '/articles/defensive-riding-motorbike-vietnam/' | relative_url }}).

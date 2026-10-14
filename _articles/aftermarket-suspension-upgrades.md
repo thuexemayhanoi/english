@@ -23,15 +23,15 @@ Suspension is the most transformative upgrade on a motorbike and the most freque
 
 ## Worn versus limited
 
-Worn suspension has symptoms: sagging, diving hard under braking, bouncing after bumps, weeping fork seals — diagnose all of this in suspension-checks-motorbike-vietnam and front-fork-care-oil-seals-motorbike first, because fresh oil and correct preload restore a surprising amount of performance for little money. Limited suspension is stock-tuned-for-averages: too soft for heavy riders, wrong rates for a rider-plus-luggage-and-pillion load, damping tuned for smooth test tracks rather than Hanoi reality.
+Worn suspension has symptoms: sagging, diving hard under braking, bouncing after bumps, weeping fork seals — diagnose all of this in [Front Forks and Suspension Checks on a Motorbike]({{ '/articles/suspension-checks-motorbike-vietnam/' | relative_url }}) and [Front Fork Care: Oil, Seals and Keeping the Damping Alive]({{ '/articles/front-fork-care-oil-seals-motorbike/' | relative_url }}) first, because fresh oil and correct preload restore a surprising amount of performance for little money. Limited suspension is stock-tuned-for-averages: too soft for heavy riders, wrong rates for a rider-plus-luggage-and-pillion load, damping tuned for smooth test tracks rather than Hanoi reality.
 
 ## What upgrades deliver
 
-Better damping (fork springs and oil matched to your weight, an aftermarket shock with adjustable rebound) delivers: less dive at stops, tires that track potholes instead of skipping, and dramatically better comfort on long rides. What upgrades do not deliver: they do not remove potholes, and they cannot rescue a fundamentally overloaded bike — for loads, the right first step is setup, not parts (rear-suspension-preload-riders-luggage).
+Better damping (fork springs and oil matched to your weight, an aftermarket shock with adjustable rebound) delivers: less dive at stops, tires that track potholes instead of skipping, and dramatically better comfort on long rides. What upgrades do not deliver: they do not remove potholes, and they cannot rescue a fundamentally overloaded bike — for loads, the right first step is setup, not parts ([Setting Rear Suspension Preload for Passengers and Luggage]({{ '/articles/rear-suspension-preload-riders-luggage/' | relative_url }})).
 
 ## The Vietnam practicalities
 
-Aftermarket suspension is a genuine specialist job — the local availability of matched parts varies by model, and a badly specified shock is worse than a tired stock one. Have the conversation with a workshop that does suspension work, and test-ride before committing (the mechanic-collaboration logic in talking-to-mechanic-vietnam applies). And keep the repair-versus-replace decision honest: repair-or-replace-motorbike-parts — servicing first, upgrading second, is the correct order for most riders.
+Aftermarket suspension is a genuine specialist job — the local availability of matched parts varies by model, and a badly specified shock is worse than a tired stock one. Have the conversation with a workshop that does suspension work, and test-ride before committing (the mechanic-collaboration logic in [Getting Repairs Done: Talking to a Vietnamese Mechanic]({{ '/articles/talking-to-mechanic-vietnam/' | relative_url }}) applies). And keep the repair-versus-replace decision honest: [Repair or Replace? Deciding With a Mechanic's Input]({{ '/articles/repair-or-replace-motorbike-parts/' | relative_url }}) — servicing first, upgrading second, is the correct order for most riders.
 
 ## Priority order
 

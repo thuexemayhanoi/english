@@ -24,19 +24,19 @@ Thanh Xuan is Hanoi's southwest commuter belt: dense residential blocks, mega-in
 
 ## Traffic character
 
-The district's personality is its big junctions: the Nguyen Trai–Khuat Duy Tien axis, the overpass system, and the ring-road connections carry wide, fast flows with long signal cycles. Riding Thanh Xuan well means two skills: confident multi-lane positioning at speed (urban limits are in motorbike-speed-limits-vietnam) and patience at the long reds — the junctions here make red-light discipline in red-light-fine-vietnam an expensive thing to ignore. The residential lanes behind the arterials are the opposite: quiet, narrow, and dominated by local life — the calm side of the district.
+The district's personality is its big junctions: the Nguyen Trai–Khuat Duy Tien axis, the overpass system, and the ring-road connections carry wide, fast flows with long signal cycles. Riding Thanh Xuan well means two skills: confident multi-lane positioning at speed (urban limits are in [Speed Limits for Motorbikes in Vietnam]({{ '/articles/motorbike-speed-limits-vietnam/' | relative_url }})) and patience at the long reds — the junctions here make red-light discipline in [Running a Red Light: The Fine in Vietnam]({{ '/articles/red-light-fine-vietnam/' | relative_url }}) an expensive thing to ignore. The residential lanes behind the arterials are the opposite: quiet, narrow, and dominated by local life — the calm side of the district.
 
 ## Who rides here
 
-Residents, students at the district's campuses, and the mall-and-metro crowd. For renters, Thanh Xuan is mostly a monthly-rental district: commuters and residents keeping a bike, not visitors sightseeing. The bike logic for that use case is in best-motorbike-for-commuting-hanoi, the rate picture in daily-weekly-monthly-motorbike-rental-hanoi.
+Residents, students at the district's campuses, and the mall-and-metro crowd. For renters, Thanh Xuan is mostly a monthly-rental district: commuters and residents keeping a bike, not visitors sightseeing. The bike logic for that use case is in [Best Motorbike for Commuting in Hanoi]({{ '/articles/best-motorbike-for-commuting-hanoi/' | relative_url }}), the rate picture in [Daily, Weekly or Monthly Motorbike Rental in Hanoi: How to Choose]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}).
 
 ## Parking
 
-The mega-malls and metro stations have proper attended lots; residential blocks have their own; the arterial clearways tolerate nothing. The rules are in where-to-park-motorbike-hanoi — in Thanh Xuan, "the mall lot" is usually the correct answer.
+The mega-malls and metro stations have proper attended lots; residential blocks have their own; the arterial clearways tolerate nothing. The rules are in [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}) — in Thanh Xuan, "the mall lot" is usually the correct answer.
 
 ## Renting for Thanh Xuan
 
-Nguyen Tu's shop is in Long Bien, across the city to the northeast; door-to-door is thirty to forty minutes in traffic, so for Thanh Xuan residents a delivery arrangement to the address is the practical pattern — arranged case by case depending on location, within opening hours 09:00–21:00 (motorbike-rental-pickup-or-delivery-hanoi). For monthly renters, note the maintenance side: shops' included oil/chain/tyre-pressure service requires getting to the shop, so plan the maintenance visit into your schedule — see what-is-included-motorbike-rental-hanoi and rental-motorbike-breakdown-hanoi for the support picture.
+Nguyen Tu's shop is in Long Bien, across the city to the northeast; door-to-door is thirty to forty minutes in traffic, so for Thanh Xuan residents a delivery arrangement to the address is the practical pattern — arranged case by case depending on location, within opening hours 09:00–21:00 ([Shop Pickup vs Delivery When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }})). For monthly renters, note the maintenance side: shops' included oil/chain/tyre-pressure service requires getting to the shop, so plan the maintenance visit into your schedule — see [What Is Included in a Hanoi Motorbike Rental?]({{ '/articles/what-is-included-motorbike-rental-hanoi/' | relative_url }}) and [What Happens If a Rental Motorbike Breaks Down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) for the support picture.
 
 ## The one-line version
 

@@ -24,15 +24,15 @@ The daily-versus-monthly question is really a length-of-stay question with a cos
 
 ## Where the crossover sits
 
-Published day rates at Nguyen Tu run 150,000–200,000 VND depending on the model. For models with published monthly rates — Honda Vision at 1,800,000–2,000,000 VND, Honda Air Blade at 1,400,000 VND, Honda Click and Yamaha Mio at 1,000,000–1,200,000 VND — the monthly rate equals roughly nine to thirteen day rates. That is the practical crossover: if you will ride most days for more than about two weeks, a monthly rate (where published) is usually the better structure. Compare the numbers for your exact model in motorbike-rental-monthly-price-hanoi and the full rate picture in daily-weekly-monthly-motorbike-rental-hanoi. For models without a published monthly rate, contact us to confirm the current monthly price.
+Published day rates at Nguyen Tu run 150,000–200,000 VND depending on the model. For models with published monthly rates — Honda Vision at 1,800,000–2,000,000 VND, Honda Air Blade at 1,400,000 VND, Honda Click and Yamaha Mio at 1,000,000–1,200,000 VND — the monthly rate equals roughly nine to thirteen day rates. That is the practical crossover: if you will ride most days for more than about two weeks, a monthly rate (where published) is usually the better structure. Compare the numbers for your exact model in [Motorbike Rental Monthly Prices in Hanoi]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }}) and the full rate picture in [Daily, Weekly or Monthly Motorbike Rental in Hanoi: How to Choose]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}). For models without a published monthly rate, contact us to confirm the current monthly price.
 
 ## What daily rental suits
 
-Short visits, uncertain plans, first days in the city before you know your routine, and one-off day trips. Daily rental keeps everything flexible; the trade-off is that the flexibility is expensive per day and re-handovers eat time. See renting-motorbike-hanoi-one-day for getting the most from a single day.
+Short visits, uncertain plans, first days in the city before you know your routine, and one-off day trips. Daily rental keeps everything flexible; the trade-off is that the flexibility is expensive per day and re-handovers eat time. See [Renting a Motorbike in Hanoi for Just One Day]({{ '/articles/renting-motorbike-hanoi-one-day/' | relative_url }}) for getting the most from a single day.
 
 ## What monthly rental suits
 
-Anyone riding most days: commuters, teachers, students, residents, nomads on a month-plus stay. The monthly structure also changes the deal itself — maintenance included, a stable bike you learn, a shop relationship instead of a transaction. The full monthly picture is in monthly-motorbike-rental-hanoi.
+Anyone riding most days: commuters, teachers, students, residents, nomads on a month-plus stay. The monthly structure also changes the deal itself — maintenance included, a stable bike you learn, a shop relationship instead of a transaction. The full monthly picture is in [Monthly Motorbike Rental in Hanoi: How It Works]({{ '/articles/monthly-motorbike-rental-hanoi/' | relative_url }}).
 
 ## The decision test
 
@@ -42,11 +42,11 @@ Answer three questions:
 2. Do I know where I am living and roughly what my routine is?
 3. Am I comfortable with the same bike for the whole period?
 
-Three yeses point at monthly. Any "no" points at daily or weekly — and the in-between case is covered in weekly-vs-monthly-motorbike-rental-hanoi.
+Three yeses point at monthly. Any "no" points at daily or weekly — and the in-between case is covered in [Weekly or Monthly Motorbike Rental in Hanoi: The Crossover]({{ '/articles/weekly-vs-monthly-motorbike-rental-hanoi/' | relative_url }}).
 
 ## Beyond price
 
-Cost is the headline but not the whole comparison: a month rental commits a deposit for the term (motorbike-rental-deposit-monthly-hanoi), involves maintenance responsibilities (maintenance-during-monthly-rental-hanoi), and rewards budgeting the full running costs — see motorbike-rental-budget-monthly-hanoi.
+Cost is the headline but not the whole comparison: a month rental commits a deposit for the term ([Deposits for Monthly Motorbike Rental in Hanoi]({{ '/articles/motorbike-rental-deposit-monthly-hanoi/' | relative_url }})), involves maintenance responsibilities ([Maintenance During a Monthly Motorbike Rental in Hanoi]({{ '/articles/maintenance-during-monthly-rental-hanoi/' | relative_url }})), and rewards budgeting the full running costs — see [Monthly Motorbike Rental Budget in Hanoi: The Full Cost]({{ '/articles/motorbike-rental-budget-monthly-hanoi/' | relative_url }}).
 
 ## The one-line version
 

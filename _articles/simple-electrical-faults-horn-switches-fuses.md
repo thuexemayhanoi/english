@@ -19,7 +19,7 @@ sources:
 internal_link_targets: "lights-and-electrical-checks-motorbike, wiring-connectors-humidity-motorbike, dead-battery-motorbike-vietnam, brake-light-indicator-repair-motorbike"
 ---
 
-When the horn goes quiet or a switch stops switching, most riders assume expensive electrical trouble. In practice, the majority of small electrical faults on a motorbike come down to three cheap things: a bad connection, a tired switch, or a fuse. Vietnam's humidity makes the first one very common — the corrosion story is covered in wiring-connectors-humidity-motorbike.
+When the horn goes quiet or a switch stops switching, most riders assume expensive electrical trouble. In practice, the majority of small electrical faults on a motorbike come down to three cheap things: a bad connection, a tired switch, or a fuse. Vietnam's humidity makes the first one very common — the corrosion story is covered in [Protecting Wiring and Connectors from Humidity on a Motorbike]({{ '/articles/wiring-connectors-humidity-motorbike/' | relative_url }}).
 
 ## Start simple: the fuse
 
@@ -39,6 +39,6 @@ Half of all "electrical gremlins" are bad earth connections. The wiring harness 
 
 ## Where this stops being simple
 
-Multimeter work, stator and regulator diagnosis, chasing a short through a harness — that is mechanic territory. The dividing line: if the fault survives clean connectors, a like-for-like fuse and switch cleaning, hand it over; electrical faults in charging circuits have a battery-and-stator story covered in dead-battery-motorbike-vietnam and the light-circuit specifics in lights-and-electrical-checks-motorbike. The indicator and brake-light circuits have their own practical guide in brake-light-indicator-repair-motorbike.
+Multimeter work, stator and regulator diagnosis, chasing a short through a harness — that is mechanic territory. The dividing line: if the fault survives clean connectors, a like-for-like fuse and switch cleaning, hand it over; electrical faults in charging circuits have a battery-and-stator story covered in [A Dead Battery: Recovering a Motorbike That Won't Start]({{ '/articles/dead-battery-motorbike-vietnam/' | relative_url }}) and the light-circuit specifics in [Lights and Electrical Checks on a Motorbike]({{ '/articles/lights-and-electrical-checks-motorbike/' | relative_url }}). The indicator and brake-light circuits have their own practical guide in [Fixing a Failed Brake Light or Indicator on a Motorbike]({{ '/articles/brake-light-indicator-repair-motorbike/' | relative_url }}).
 
 Working on electrics means disconnecting the battery negative terminal before touching anything else — a momentarily shorted positive terminal welds your spanner, and wedding rings conduct too.

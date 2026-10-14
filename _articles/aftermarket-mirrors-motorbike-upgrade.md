@@ -23,7 +23,7 @@ Mirror upgrades are the most common cosmetic change on Vietnamese motorbikes —
 
 ## The visibility test
 
-The honest metric is not looks but coverage: can you see the lane beside and behind you with your head in a normal riding position, without moving your arms? The setup discipline for whatever mirrors you run is in mirror-setup-motorbike-vietnam. Two common upgrades fail this test: short "racing" stalks that tuck the view behind your shoulders, and tiny colored lenses that shrink the visible lane to a keyhole. Bar-end mirrors can pass the test on some bikes and fail on others — the answer is model-specific, so try before committing.
+The honest metric is not looks but coverage: can you see the lane beside and behind you with your head in a normal riding position, without moving your arms? The setup discipline for whatever mirrors you run is in [Setting Up Your Mirrors Properly on a Motorbike]({{ '/articles/mirror-setup-motorbike-vietnam/' | relative_url }}). Two common upgrades fail this test: short "racing" stalks that tuck the view behind your shoulders, and tiny colored lenses that shrink the visible lane to a keyhole. Bar-end mirrors can pass the test on some bikes and fail on others — the answer is model-specific, so try before committing.
 
 ## Vibration: the hidden cost
 
@@ -31,10 +31,10 @@ Cheap aftermarket mirrors often vibrate — and a vibrating mirror is a decorati
 
 ## The habit matters more than the part
 
-Mirrors only inform riders who check them — and mirror-checking discipline, plus the blind-spot reality that remains even with perfect mirrors, is covered in riding-motorbike-blind-spots-vietnam. Riders who glance every few seconds and before every merge get more from stock mirrors than glancing riders get from premium ones.
+Mirrors only inform riders who check them — and mirror-checking discipline, plus the blind-spot reality that remains even with perfect mirrors, is covered in [Blind Spots: Riding Around Buses and Trucks in Vietnam]({{ '/articles/riding-motorbike-blind-spots-vietnam/' | relative_url }}). Riders who glance every few seconds and before every merge get more from stock mirrors than glancing riders get from premium ones.
 
 ## Legality and practicalities
 
-Riding without usable mirrors is against Vietnamese road rules — an upgrade that removes effective rear vision is not just unwise but a legal problem, and any change should keep mirrors present and functional. Fitting quality matters as well: mirrors that fold back, loosen and droop at speed (or fall off entirely) are a daily Vietnamese sight; locking compounds and correct threads are cheap insurance — the parts-quality conversation with a shop is in talking-to-mechanic-vietnam, and handlebar wobbles from badly mounted accessories feed the general diagnosis in motorbike-handling-problems-wobble.
+Riding without usable mirrors is against Vietnamese road rules — an upgrade that removes effective rear vision is not just unwise but a legal problem, and any change should keep mirrors present and functional. Fitting quality matters as well: mirrors that fold back, loosen and droop at speed (or fall off entirely) are a daily Vietnamese sight; locking compounds and correct threads are cheap insurance — the parts-quality conversation with a shop is in [Getting Repairs Done: Talking to a Vietnamese Mechanic]({{ '/articles/talking-to-mechanic-vietnam/' | relative_url }}), and handlebar wobbles from badly mounted accessories feed the general diagnosis in [Motorbike Handling Problems: Pulling, Wobble and Heavy Steering]({{ '/articles/motorbike-handling-problems-wobble/' | relative_url }}).
 
 Upgrade to see more, not to be seen differently — that is the whole test.

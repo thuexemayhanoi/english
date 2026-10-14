@@ -23,16 +23,16 @@ Riding gear is expensive and used gear is everywhere in Vietnam’s classifieds 
 
 ## Never buy used: the one-hit items
 
-Helmets: never. You cannot see the compressed foam inside a shell after a crash, and you do not know its age or what it has absorbed — the replacement logic in helmet-care-replacing-guide-vietnam applies to every helmet you did not buy new. Impact armour and protectors: the foam that makes them work is consumed by the impact it once took; a used back protector is a lottery ticket. Any certified protection item whose history you cannot verify is not used gear, it is used-up gear.
+Helmets: never. You cannot see the compressed foam inside a shell after a crash, and you do not know its age or what it has absorbed — the replacement logic in [Helmet Care: Cleaning, Storage and Knowing When to Replace]({{ '/articles/helmet-care-replacing-guide-vietnam/' | relative_url }}) applies to every helmet you did not buy new. Impact armour and protectors: the foam that makes them work is consumed by the impact it once took; a used back protector is a lottery ticket. Any certified protection item whose history you cannot verify is not used gear, it is used-up gear.
 
 ## Usually fine used
 
-Textile jackets and trousers without deployed armour: check seams, zippers and liner condition, replace the armour new (often the best of both worlds — quality garment, fresh protectors). Rain suits, base layers, gaiters — consumables anyway, cheap and easily judged. Boots: check sole delamination and ankle stiffness, but leather holds up. The counterfeit question applies to used gear at least as strongly as new: fake-tagged "brand" jackets flood the second-hand market the same way fake parts do — see genuine-vs-fake-parts-motorbike-vietnam for the label-reading mindset.
+Textile jackets and trousers without deployed armour: check seams, zippers and liner condition, replace the armour new (often the best of both worlds — quality garment, fresh protectors). Rain suits, base layers, gaiters — consumables anyway, cheap and easily judged. Boots: check sole delamination and ankle stiffness, but leather holds up. The counterfeit question applies to used gear at least as strongly as new: fake-tagged "brand" jackets flood the second-hand market the same way fake parts do — see [Genuine Versus Fake Motorbike Parts in Vietnam]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}) for the label-reading mindset.
 
 ## Judging wear honestly
 
-Look at the contact zones: shoulders, elbows, hips, knees, palms. Shiny stretched fabric, scuffed elbows, palm-ground gloves — those garments have met the road. Aesthetics are irrelevant to safety: a faded jacket with intact structural fabric beats a pristine-looking fake. It is the same inspection discipline as a used bike — used-motorbike-inspection-vietnam — applied to clothing.
+Look at the contact zones: shoulders, elbows, hips, knees, palms. Shiny stretched fabric, scuffed elbows, palm-ground gloves — those garments have met the road. Aesthetics are irrelevant to safety: a faded jacket with intact structural fabric beats a pristine-looking fake. It is the same inspection discipline as a used bike — [Buying a Used Motorbike in Vietnam: Inspection Basics]({{ '/articles/used-motorbike-inspection-vietnam/' | relative_url }}) — applied to clothing.
 
 ## The budget conclusion
 
-Used gear makes sense for the abrasion layer, never for the impact layer. Fit the money you save into a new helmet and new armour — the priority order in riding-gear-budget-priority-vietnam stays exactly the same, only the jacket line gets cheaper.
+Used gear makes sense for the abrasion layer, never for the impact layer. Fit the money you save into a new helmet and new armour — the priority order in [Buying Riding Gear on a Budget in Vietnam: Priority Order]({{ '/articles/riding-gear-budget-priority-vietnam/' | relative_url }}) stays exactly the same, only the jacket line gets cheaper.

@@ -24,11 +24,11 @@ Hanoi is a construction site with a city attached, and Vietnam's highways are re
 
 ## Slow down at the first cone, not the last
 
-Whatever the official limit, the working speed through a zone is "slow enough to stop where the workers are." Loose chippings from fresh surfacing behave exactly like the gravel in gravel-roads-motorbike-vietnam: no hard braking, no leaning, steady throttle.
+Whatever the official limit, the working speed through a zone is "slow enough to stop where the workers are." Loose chippings from fresh surfacing behave exactly like the gravel in [Riding on Gravel and Loose Surfaces on a Motorbike]({{ '/articles/gravel-roads-motorbike-vietnam/' | relative_url }}): no hard braking, no leaning, steady throttle.
 
 ## Choose your line like a local
 
-Watch the bikes ahead: they reveal which deviations are rideable and which are craters. Steel plates and fresh tar patches are the slick spots — treat them like the painted and tiled surfaces in slippery-city-surfaces-motorbike. Ride over plates upright and off the brakes.
+Watch the bikes ahead: they reveal which deviations are rideable and which are craters. Steel plates and fresh tar patches are the slick spots — treat them like the painted and tiled surfaces in [Slippery City Surfaces: Paint, Steel and Tiles]({{ '/articles/slippery-city-surfaces-motorbike/' | relative_url }}). Ride over plates upright and off the brakes.
 
 ## Expect the lane to move without notice
 
@@ -36,8 +36,8 @@ Cones, diggers and parked trucks re-route the flow several times through one zon
 
 ## At night
 
-Unlit zones with no working lights are common outside cities: approach at a speed where your headlight shows you the holes first — potholes-bad-roads-motorbike-vietnam explains pothole reading. Anything reflective that appears suddenly in your beam means slow immediately.
+Unlit zones with no working lights are common outside cities: approach at a speed where your headlight shows you the holes first — [Potholes and Bad Roads: Protecting Yourself and Your Motorbike]({{ '/articles/potholes-bad-roads-motorbike-vietnam/' | relative_url }}) explains pothole reading. Anything reflective that appears suddenly in your beam means slow immediately.
 
 ## People are part of the road
 
-Workers in Vietnam stand in live traffic without barriers. Pass them at a genuine crawl, wide, and without revving. The patience you show through road works is the same skill set that makes rush-hour riding — traffic-at-rush-hour-riding-hanoi — survivable: accept the delay rather than gambling around it.
+Workers in Vietnam stand in live traffic without barriers. Pass them at a genuine crawl, wide, and without revving. The patience you show through road works is the same skill set that makes rush-hour riding — [Rush Hour Riding in Hanoi: Staying Safe in Peak Traffic]({{ '/articles/traffic-at-rush-hour-riding-hanoi/' | relative_url }}) — survivable: accept the delay rather than gambling around it.

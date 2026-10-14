@@ -25,8 +25,8 @@ Daily tourists can think about licences once. Long-term riders need a system: do
 
 ## The checklist itself
 
-1. A licence valid for the bike you rent. Licence classes in Vietnam correspond to engine sizes — for example an A1 class covers smaller machines and larger bikes need a higher class. Match your licence class to the bike before signing: vietnam-motorbike-licence-classes-explained lists the classes.
-2. For foreigners: a Vietnamese driving licence, or an IDP recognised in Vietnam together with the correct home licence, depending on your nationality and situation. The verified rules are in idp-vietnam-motorbike-rules — check your own case against them.
+1. A licence valid for the bike you rent. Licence classes in Vietnam correspond to engine sizes — for example an A1 class covers smaller machines and larger bikes need a higher class. Match your licence class to the bike before signing: [Vietnam Motorbike Licence Classes Explained (A1, A, B1)]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) lists the classes.
+2. For foreigners: a Vietnamese driving licence, or an IDP recognised in Vietnam together with the correct home licence, depending on your nationality and situation. The verified rules are in [International Driving Permits in Vietnam: IDP Rules for Motorbikes]({{ '/articles/idp-vietnam-motorbike-rules/' | relative_url }}) — check your own case against them.
 3. Your passport with a valid visa or residence basis.
 4. A copy of the rental agreement and the shop's contact details, stored somewhere you can find them mid-term.
 
@@ -36,7 +36,7 @@ Write down every expiry date — licence, visa, passport — and check them mont
 
 ## Why this matters more on long rentals
 
-A tourist riding a week takes a calculated risk once. A resident riding daily for months will eventually meet a police checkpoint, a insurance situation or an accident scene, and every one of those goes better with correct documents. Riding without the right licence carries fines and can escalate to vehicle impoundment — police-impound-motorbike-vietnam covers that worst case.
+A tourist riding a week takes a calculated risk once. A resident riding daily for months will eventually meet a police checkpoint, a insurance situation or an accident scene, and every one of those goes better with correct documents. Riding without the right licence carries fines and can escalate to vehicle impoundment — [When Vietnamese Police Can Impound Your Motorbike]({{ '/articles/police-impound-motorbike-vietnam/' | relative_url }}) covers that worst case.
 
 ## Practical habit
 

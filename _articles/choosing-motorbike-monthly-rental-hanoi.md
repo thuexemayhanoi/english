@@ -24,19 +24,19 @@ Choosing a bike for a month is a different decision from choosing one for a day.
 
 ## Start with the route, then the body
 
-What does your average day look like — a 5 km commute, a 20 km cross-city loop, weekend trips? High daily mileage points toward comfort and a bike that holds up at speed; short urban hops point toward something light and easy to park. Then fit: seat height, reach, and whether you carry a passenger. Tall riders have different needs again — best-motorbikes-for-tall-riders-vietnam covers that case.
+What does your average day look like — a 5 km commute, a 20 km cross-city loop, weekend trips? High daily mileage points toward comfort and a bike that holds up at speed; short urban hops point toward something light and easy to park. Then fit: seat height, reach, and whether you carry a passenger. Tall riders have different needs again — [Best Motorbikes for Tall Foreign Riders in Vietnam]({{ '/articles/best-motorbikes-for-tall-riders-vietnam/' | relative_url }}) covers that case.
 
 ## Transmission and storage
 
-The automatic-versus-semi-automatic choice over a month is a comfort and cost decision, covered in automatic-or-semi-automatic-monthly-hanoi. Storage matters more than renters expect: a month of groceries, rain jackets, helmets and chargers lives somewhere, and under-seat space or a box changes daily life.
+The automatic-versus-semi-automatic choice over a month is a comfort and cost decision, covered in [Automatic or Semi-Automatic for a Monthly Rental in Hanoi]({{ '/articles/automatic-or-semi-automatic-monthly-hanoi/' | relative_url }}). Storage matters more than renters expect: a month of groceries, rain jackets, helmets and chargers lives somewhere, and under-seat space or a box changes daily life.
 
 ## Price reality
 
-Published monthly rates exist only for some models — which-motorbikes-have-monthly-rates-hanoi lists exactly which ones. For any model without a published monthly rate, contact us to confirm the current monthly price. Never assume the daily rate multiplied by thirty is the answer.
+Published monthly rates exist only for some models — [Which Motorbikes Have Published Monthly Rates in Hanoi]({{ '/articles/which-motorbikes-have-monthly-rates-hanoi/' | relative_url }}) lists exactly which ones. For any model without a published monthly rate, contact us to confirm the current monthly price. Never assume the daily rate multiplied by thirty is the answer.
 
 ## Mileage and wear
 
-A month of heavy riding makes you a high-mileage renter — high-mileage-monthly-rental-hanoi explains the check rhythm that implies. If you expect to ride a lot, say so at set-up: it affects which bike suits you and how the shop plans maintenance.
+A month of heavy riding makes you a high-mileage renter — [High Monthly Mileage on a Rental Motorbike in Hanoi]({{ '/articles/high-mileage-monthly-rental-hanoi/' | relative_url }}) explains the check rhythm that implies. If you expect to ride a lot, say so at set-up: it affects which bike suits you and how the shop plans maintenance.
 
 ## Try before committing
 

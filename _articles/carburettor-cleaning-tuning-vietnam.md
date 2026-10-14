@@ -23,7 +23,7 @@ Most of the motorbikes humming through Hanoi run a carburettor, not fuel injecti
 
 ## Symptoms of a carburettor that needs attention
 
-Hard starting, especially cold; a rough or wandering idle; hesitating or stuttering when you open the throttle; a smell of unburnt petrol; worse fuel economy than usual. Several of these overlap with rough-idle-motorbike-troubleshooting — the difference is that a carb problem usually shows up across the whole rev range, not just at standstill.
+Hard starting, especially cold; a rough or wandering idle; hesitating or stuttering when you open the throttle; a smell of unburnt petrol; worse fuel economy than usual. Several of these overlap with [Rough Idle: Troubleshooting a Motorbike That Won't Idle Smoothly]({{ '/articles/rough-idle-motorbike-troubleshooting/' | relative_url }}) — the difference is that a carb problem usually shows up across the whole rev range, not just at standstill.
 
 ## Why it gets dirty here
 
@@ -31,10 +31,10 @@ Vietnam's fuel system enemies are dust, humidity and long periods of stop-start 
 
 ## What cleaning actually involves
 
-A proper clean means removing the carburettor, stripping the jets and float bowl, cleaning the passages and reassembling with fresh gaskets — then setting the idle to the manufacturer's specification. It is affordable work at a Vietnamese shop precisely because so many bikes need it; picking a shop that does carb work daily is covered in motorbike-service-where-vietnam. What it does not involve: mysterious "tuning" that makes the exhaust loud, or re-jetting on a whim — a stock engine should run on stock settings, and the idle figure in your manual outranks a mechanic's guess.
+A proper clean means removing the carburettor, stripping the jets and float bowl, cleaning the passages and reassembling with fresh gaskets — then setting the idle to the manufacturer's specification. It is affordable work at a Vietnamese shop precisely because so many bikes need it; picking a shop that does carb work daily is covered in [Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }}). What it does not involve: mysterious "tuning" that makes the exhaust loud, or re-jetting on a whim — a stock engine should run on stock settings, and the idle figure in your manual outranks a mechanic's guess.
 
 ## When it is not the carburettor
 
-Before blaming the carb, rule out the cheap stuff: a clogged air filter, an old spark plug, or a fuel line problem. A good mechanic diagnoses in that order — the diagnostic conversation is worth having before agreeing to work, and the noises-vs-smptoms sorting logic in diagnosing-motorbike-noises-vietnam applies: identify the actual fault, then fix the one thing that is wrong. For the deeper background on why carbs still dominate and what fuel injection changes, see carburettor-vs-fuel-injection-vietnam.
+Before blaming the carb, rule out the cheap stuff: a clogged air filter, an old spark plug, or a fuel line problem. A good mechanic diagnoses in that order — the diagnostic conversation is worth having before agreeing to work, and the noises-vs-smptoms sorting logic in [Diagnosing Motorbike Noises: A Rider's Guide]({{ '/articles/diagnosing-motorbike-noises-vietnam/' | relative_url }}) applies: identify the actual fault, then fix the one thing that is wrong. For the deeper background on why carbs still dominate and what fuel injection changes, see [Carburettor vs Fuel Injection on Vietnamese Motorbikes]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}).
 
 A carburettor that is cleaned occasionally and fed decent fuel will outlive most of the electronics on a modern scooter.

@@ -27,12 +27,12 @@ Wax: a sacrificial layer that beads water and adds depth; honest, cheap, and gon
 
 ## What coatings actually deliver
 
-Genuine coatings applied properly on properly prepared paint (decontaminated, corrected) last one to several years and dramatically cut washing effort and UV fade. What they do not do: prevent scratches from a fall, stop dents, or substitute for covering a parked bike (motorbike-covers-parking-outdoors-vietnam). And a coating over neglected paint seals in the neglect.
+Genuine coatings applied properly on properly prepared paint (decontaminated, corrected) last one to several years and dramatically cut washing effort and UV fade. What they do not do: prevent scratches from a fall, stop dents, or substitute for covering a parked bike ([Motorbike Covers: Protecting a Bike Parked Outside]({{ '/articles/motorbike-covers-parking-outdoors-vietnam/' | relative_url }})). And a coating over neglected paint seals in the neglect.
 
 ## The Vietnam realities
 
-The service market is full of "ceramic" kits that are rebranded sealant — ask what product is used and what warranty the installer offers, and be suspicious of miracle claims. The best-value regime for most riders is simpler: regular proper washing (cleaning-motorbike-properly-vietnam), a good sealant twice a year, and rust patrol on fasteners and welds (motorcycle-rust-prevention-vietnam) — because in this climate, corrosion kills bikes faster than fading does.
+The service market is full of "ceramic" kits that are rebranded sealant — ask what product is used and what warranty the installer offers, and be suspicious of miracle claims. The best-value regime for most riders is simpler: regular proper washing ([Washing and Cleaning a Motorbike Properly]({{ '/articles/cleaning-motorbike-properly-vietnam/' | relative_url }})), a good sealant twice a year, and rust patrol on fasteners and welds ([Preventing Rust on a Motorbike in Vietnam]({{ '/articles/motorcycle-rust-prevention-vietnam/' | relative_url }})) — because in this climate, corrosion kills bikes faster than fading does.
 
 ## Payoff
 
-Paint condition is sale value: when the day comes, the prep-and-sell discipline in preparing-motorbike-for-sale-vietnam pays for all the washes you ever did.
+Paint condition is sale value: when the day comes, the prep-and-sell discipline in [Preparing a Motorbike for Sale]({{ '/articles/preparing-motorbike-for-sale-vietnam/' | relative_url }}) pays for all the washes you ever did.

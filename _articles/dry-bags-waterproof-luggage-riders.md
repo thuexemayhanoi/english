@@ -23,16 +23,16 @@ In Vietnam the rain does not ask permission, and it comes sideways. Zips leak, s
 
 ## Why dry bags beat "waterproof" bags
 
-A roll-top dry bag seals by folding: three folds and a buckle, no zip to fail, no seam tape to lift. Electronics, documents, spare clothes and anything that must arrive dry live in dry bags — inside whatever outer luggage you use. Layering is the principle: the outer bag takes abrasion, mud and theft exposure; the dry bag inside takes water. A top box that has sealed for two monsoons will still admit water at a worn gasket — the box article is top-boxes-racks-motorbike-vietnam — and the liner inside makes that failure harmless.
+A roll-top dry bag seals by folding: three folds and a buckle, no zip to fail, no seam tape to lift. Electronics, documents, spare clothes and anything that must arrive dry live in dry bags — inside whatever outer luggage you use. Layering is the principle: the outer bag takes abrasion, mud and theft exposure; the dry bag inside takes water. A top box that has sealed for two monsoons will still admit water at a worn gasket — the box article is [Top Boxes and Rear Racks for Motorbikes in Vietnam]({{ '/articles/top-boxes-racks-motorbike-vietnam/' | relative_url }}) — and the liner inside makes that failure harmless.
 
 ## Sizes and colours
 
-Small 2–5 litre roll bags fit phones, chargers, documents and a change of shirt under a scooter seat. Medium 10–20 litre bags line backpacks and saddlebags — the backpack-versus-saddlebag trade-off in backpack-vs-saddlebags-motorbike keeps working in the rain with the right liner. For trips, 30+ litre duffel-style dry bags strap to rear racks. Bright colours beat black: a bag that will be opened roadside in low light should be visible, and black roll bags vanish at dusk — visibility thinking applies to luggage too.
+Small 2–5 litre roll bags fit phones, chargers, documents and a change of shirt under a scooter seat. Medium 10–20 litre bags line backpacks and saddlebags — the backpack-versus-saddlebag trade-off in [Backpack vs Saddlebags on a Motorbike: Carrying Your Life]({{ '/articles/backpack-vs-saddlebags-motorbike/' | relative_url }}) keeps working in the rain with the right liner. For trips, 30+ litre duffel-style dry bags strap to rear racks. Bright colours beat black: a bag that will be opened roadside in low light should be visible, and black roll bags vanish at dusk — visibility thinking applies to luggage too.
 
 ## What still goes wrong
 
-Users seal bags badly: fold at least three full turns, buckle, and test by pressing the air out — air escaping means water entering. Fabric dries, but the contents must not already be damp when sealed: humid Vietnam turns a sealed damp t-shirt into a mould farm. And do not confuse water-resistant with waterproof: a resistant bag handles spray and drizzle, a dry bag handles submersion at a flooded intersection — the riding context is riding-motorbike-heavy-rain-vietnam.
+Users seal bags badly: fold at least three full turns, buckle, and test by pressing the air out — air escaping means water entering. Fabric dries, but the contents must not already be damp when sealed: humid Vietnam turns a sealed damp t-shirt into a mould farm. And do not confuse water-resistant with waterproof: a resistant bag handles spray and drizzle, a dry bag handles submersion at a flooded intersection — the riding context is [Riding a Motorbike in Heavy Rain in Vietnam]({{ '/articles/riding-motorbike-heavy-rain-vietnam/' | relative_url }}).
 
 ## Securing and loading
 
-Load discipline follows the same physics as any luggage: heavy low, forward, and strapped per carrying-luggage-motorbike-safely-vietnam. Dry bags are slippery when wet — use the strap points, never bungee over the barrel alone, where a wet strap can walk off.
+Load discipline follows the same physics as any luggage: heavy low, forward, and strapped per [Carrying Luggage and Loads on a Motorbike]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}). Dry bags are slippery when wet — use the strap points, never bungee over the barrel alone, where a wet strap can walk off.

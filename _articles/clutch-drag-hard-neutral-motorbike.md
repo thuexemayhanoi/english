@@ -23,11 +23,11 @@ Clutch drag is the evil twin of clutch slip: instead of failing to transmit powe
 
 ## The free-play check first
 
-Drag is most often an adjustment away from gone. The clutch cable needs the manual's specified free play at the lever. Zero free play is what causes slip; the opposite error — a badly set engine-side adjuster, or a lifter mechanism worn past its range — leaves the clutch only half-released when the lever is fully pulled, which is drag. In practice: verify both ends of the adjustment range per the manual — lever-end and engine-end — and confirm the lever's action is smooth, not gritty (a fraying cable inside its sleeve behaves erratically; the roadside failure story is broken-clutch-cable-motorbike-roadside).
+Drag is most often an adjustment away from gone. The clutch cable needs the manual's specified free play at the lever. Zero free play is what causes slip; the opposite error — a badly set engine-side adjuster, or a lifter mechanism worn past its range — leaves the clutch only half-released when the lever is fully pulled, which is drag. In practice: verify both ends of the adjustment range per the manual — lever-end and engine-end — and confirm the lever's action is smooth, not gritty (a fraying cable inside its sleeve behaves erratically; the roadside failure story is [A Broken Clutch Cable: The Roadside Reality]({{ '/articles/broken-clutch-cable-motorbike-roadside/' | relative_url }})).
 
 ## The oil connection
 
-Wet clutches share oil with the gearbox, and the wrong viscosity or degraded oil makes plates drag: too-thick oil keeps plates apart moving slowly, and plates gummed with old oil stick together instead of separating. A drag that appeared after an oil change convicts the oil; a drag that grew over months convicts the oil age. The correct-spec rules are in manual-gearbox-oil-change-motorbike.
+Wet clutches share oil with the gearbox, and the wrong viscosity or degraded oil makes plates drag: too-thick oil keeps plates apart moving slowly, and plates gummed with old oil stick together instead of separating. A drag that appeared after an oil change convicts the oil; a drag that grew over months convicts the oil age. The correct-spec rules are in [Gearbox Oil on Manual Motorbikes]({{ '/articles/manual-gearbox-oil-change-motorbike/' | relative_url }}).
 
 ## The plate and spring story
 
@@ -41,4 +41,4 @@ Bent plates, warped from heat, drag when released. Notched lifter mechanisms and
 
 ## When drag means "stop riding now"
 
-Creep that survives correct adjustment and correct oil, a first-gear engagement that lurches the whole bike, or a clutch that is simultaneously slipping *and* dragging (worn plates with broken bits floating) means the clutch needs opening — and the shift behaviour context is in hard-shifting-gearbox-motorbike. Drag at a red light on a wet Hanoi day is not a quirk; it is a launch you did not order.
+Creep that survives correct adjustment and correct oil, a first-gear engagement that lurches the whole bike, or a clutch that is simultaneously slipping *and* dragging (worn plates with broken bits floating) means the clutch needs opening — and the shift behaviour context is in [Hard Shifting and Gearbox Problems on a Manual Motorbike]({{ '/articles/hard-shifting-gearbox-motorbike/' | relative_url }}). Drag at a red light on a wet Hanoi day is not a quirk; it is a launch you did not order.

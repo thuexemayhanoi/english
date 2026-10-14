@@ -23,7 +23,7 @@ Children ride as pillions across Vietnam every day, and a helmet sized for a chi
 
 ## Size and shape
 
-A child’s helmet must fit the child’s head, not "grow into it". A too-big helmet slides in a crash and exposes the areas that matter most. Children’s heads are proportionally larger and rounder than adults’, so look for child-specific shells, not adult shells in tiny sizes. The fit test is the same as for adults — snug all around, no pressure points, and the helmet cannot be rolled off forward or backward with the strap fastened. The adult fit logic in helmet-fit-guide-vietnam transfers directly.
+A child’s helmet must fit the child’s head, not "grow into it". A too-big helmet slides in a crash and exposes the areas that matter most. Children’s heads are proportionally larger and rounder than adults’, so look for child-specific shells, not adult shells in tiny sizes. The fit test is the same as for adults — snug all around, no pressure points, and the helmet cannot be rolled off forward or backward with the strap fastened. The adult fit logic in [How to Choose and Fit a Helmet in Vietnam]({{ '/articles/helmet-fit-guide-vietnam/' | relative_url }}) transfers directly.
 
 ## Weight matters more than for adults
 
@@ -31,8 +31,8 @@ A child’s helmet must fit the child’s head, not "grow into it". A too-big he
 
 ## The legal and riding context
 
-When and how a child may legally be carried on a motorbike in Vietnam is covered in child-passengers-motorbike-vietnam — read it alongside this article, because the rules around age and the person controlling the bike matter as much as the equipment. If you carry adult passengers too, spare-helmet logic is in second-helmet-passengers-vietnam.
+When and how a child may legally be carried on a motorbike in Vietnam is covered in [Child Passengers on Motorbikes in Vietnam]({{ '/articles/child-passengers-motorbike-vietnam/' | relative_url }}) — read it alongside this article, because the rules around age and the person controlling the bike matter as much as the equipment. If you carry adult passengers too, spare-helmet logic is in [Buying a Second Helmet for Passengers in Vietnam]({{ '/articles/second-helmet-passengers-vietnam/' | relative_url }}).
 
 ## Care and replacement
 
-Children are harder on helmets: dropped on concrete, dragged by the strap, left in the sun on a mirror. Inspect often, and replace after any significant impact or when the foam compresses unevenly — the replacement rules in helmet-care-replacing-guide-vietnam apply to children’s helmets with no discounts.
+Children are harder on helmets: dropped on concrete, dragged by the strap, left in the sun on a mirror. Inspect often, and replace after any significant impact or when the foam compresses unevenly — the replacement rules in [Helmet Care: Cleaning, Storage and Knowing When to Replace]({{ '/articles/helmet-care-replacing-guide-vietnam/' | relative_url }}) apply to children’s helmets with no discounts.

@@ -24,15 +24,15 @@ Nomads stay in Hanoi for one to three months at a stretch, often in a different 
 
 ## Why monthly suits the pattern
 
-For the models with published monthly rates, a month rental is far cheaper than thirty daily rentals; for other models there is no published monthly rate, so contact us to confirm current pricing. The break-even and comparison logic is in monthly-vs-daily-motorbike-rental-hanoi.
+For the models with published monthly rates, a month rental is far cheaper than thirty daily rentals; for other models there is no published monthly rate, so contact us to confirm current pricing. The break-even and comparison logic is in [Monthly vs Daily Motorbike Rental in Hanoi: Which Makes Sense]({{ '/articles/monthly-vs-daily-motorbike-rental-hanoi/' | relative_url }}).
 
 ## Flexibility questions to ask up front
 
-Nomads have three questions the average renter does not: Can the rental be extended a few weeks if a stay stretches? Can the bike be returned early if you move on sooner, and what does that mean given there is no automatic refund? What happens to the agreement if you leave the country for a week mid-term? Extending-motorbike-rental-hanoi and shortening-long-motorbike-rental-hanoi cover the first two — ask the third directly.
+Nomads have three questions the average renter does not: Can the rental be extended a few weeks if a stay stretches? Can the bike be returned early if you move on sooner, and what does that mean given there is no automatic refund? What happens to the agreement if you leave the country for a week mid-term? Extending-motorbike-rental-hanoi and [Shortening a Long Motorbike Rental in Hanoi]({{ '/articles/shortening-long-motorbike-rental-hanoi/' | relative_url }}) cover the first two — ask the third directly.
 
 ## Moving districts
 
-Changing apartments mid-rental changes your parking, not your agreement — moving-address-during-rental-hanoi covers the practical side. The key nomad habit is sorting guarded parking at each new base before the first night.
+Changing apartments mid-rental changes your parking, not your agreement — [Moving House During a Motorbike Rental in Hanoi]({{ '/articles/moving-address-during-rental-hanoi/' | relative_url }}) covers the practical side. The key nomad habit is sorting guarded parking at each new base before the first night.
 
 ## Licence and paperwork
 

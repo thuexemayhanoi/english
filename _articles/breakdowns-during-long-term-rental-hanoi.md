@@ -36,7 +36,7 @@ Maintenance included in the rental may cover oil, chain, tyre pressure and inspe
 
 ## Preventing the second breakdown
 
-Most month-scale breakdowns start as ignored small signs. A chain that was noisy in week one fails in week three; brakes that felt soft on Monday are dangerous by Friday. Rental-motorbike-care-long-term-hanoi and maintenance-during-monthly-rental-hanoi cover the routine that prevents exactly this.
+Most month-scale breakdowns start as ignored small signs. A chain that was noisy in week one fails in week three; brakes that felt soft on Monday are dangerous by Friday. Rental-motorbike-care-long-term-hanoi and [Maintenance During a Monthly Motorbike Rental in Hanoi]({{ '/articles/maintenance-during-monthly-rental-hanoi/' | relative_url }}) cover the routine that prevents exactly this.
 
 ## The one-line version
 

@@ -23,16 +23,16 @@ A motorbike that will not idle — stalling at lights, hunting up and down, or n
 
 ## Check the simple things first
 
-Air filter: a clogged filter chokes the mixture, and Vietnam's dust makes this the number one cause — air-filter-care-motorbike-vietnam. Spark plug: a fouled or worn plug misfires most visibly at idle — spark-plug-motorbike-vietnam. Fuel: old or water-contaminated petrol idles badly; if the problem started right after a fill-up, suspect the fuel before the engine.
+Air filter: a clogged filter chokes the mixture, and Vietnam's dust makes this the number one cause — [Air Filter Care on a Motorbike in Vietnam]({{ '/articles/air-filter-care-motorbike-vietnam/' | relative_url }}). Spark plug: a fouled or worn plug misfires most visibly at idle — [Spark Plugs on a Motorbike: Basics for Vietnam]({{ '/articles/spark-plug-motorbike-vietnam/' | relative_url }}). Fuel: old or water-contaminated petrol idles badly; if the problem started right after a fill-up, suspect the fuel before the engine.
 
 ## Idle speed and mixture
 
-Every carburetted bike has an idle-adjustment screw accessible without opening anything; if the idle is simply set too low, the fix is a screwdriver and two minutes. Mixture adjustment is more delicate and affects emissions and starting — if the idle is hunting, surging or needs the choke long after warm-up, the carburettor may need cleaning or adjustment (carburettor-vs-fuel-injection-vietnam explains why carburetted bikes show these symptoms more than injected ones). That is a small-shop routine job in Vietnam, done everywhere.
+Every carburetted bike has an idle-adjustment screw accessible without opening anything; if the idle is simply set too low, the fix is a screwdriver and two minutes. Mixture adjustment is more delicate and affects emissions and starting — if the idle is hunting, surging or needs the choke long after warm-up, the carburettor may need cleaning or adjustment ([Carburettor vs Fuel Injection on Vietnamese Motorbikes]({{ '/articles/carburettor-vs-fuel-injection-vietnam/' | relative_url }}) explains why carburetted bikes show these symptoms more than injected ones). That is a small-shop routine job in Vietnam, done everywhere.
 
 ## Vacuum leaks and electrical
 
-A cracked or unseated intake tube lets air in behind the carburettor and causes lean hunting — check that the tube clamps are tight after any recent work. On the electrical side, a failing charging system or weak battery can make idle waver as the ignition draws power — dead-battery-motorbike-vietnam covers the signs of charging trouble.
+A cracked or unseated intake tube lets air in behind the carburettor and causes lean hunting — check that the tube clamps are tight after any recent work. On the electrical side, a failing charging system or weak battery can make idle waver as the ignition draws power — [A Dead Battery: Recovering a Motorbike That Won't Start]({{ '/articles/dead-battery-motorbike-vietnam/' | relative_url }}) covers the signs of charging trouble.
 
 ## The rental rider's shortcut
 
-A rough idle at pickup is the single most useful thing to notice on a test ride before you take a rental bike: it predicts stalling in traffic and hard starts all trip. Everything else to check at handover is in the rental inspection list — rental-motorbike-inspection-checklist — and a rough idling rental should be swapped, not tolerated.
+A rough idle at pickup is the single most useful thing to notice on a test ride before you take a rental bike: it predicts stalling in traffic and hard starts all trip. Everything else to check at handover is in the rental inspection list — [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) — and a rough idling rental should be swapped, not tolerated.

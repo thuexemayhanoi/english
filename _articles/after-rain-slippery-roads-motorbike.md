@@ -27,7 +27,7 @@ Light rain lifting moisture out of the asphalt brings a film of old oil and rubb
 
 ## Mud and sand wash onto the road
 
-After real downpours, red mud slides from building sites and hillsides onto the road, usually at corners and the bottom of slopes. A strip of fresh mud is as slick as ice: ride through it upright, off the brakes and off the throttle, exactly like riding on gravel: upright, off the brakes, off the throttle — gravel-roads-motorbike-vietnam covers the technique.
+After real downpours, red mud slides from building sites and hillsides onto the road, usually at corners and the bottom of slopes. A strip of fresh mud is as slick as ice: ride through it upright, off the brakes and off the throttle, exactly like riding on gravel: upright, off the brakes, off the throttle — [Riding on Gravel and Loose Surfaces on a Motorbike]({{ '/articles/gravel-roads-motorbike-vietnam/' | relative_url }}) covers the technique.
 
 ## Leaves and debris
 
@@ -35,8 +35,8 @@ Storms and wind leave leaves, branches and fruit on the road. Leaves are treache
 
 ## Wet paint and metal stay wet longest
 
-Road markings, manhole covers, steel plates and tiled pavements hold a film of water long after asphalt looks dry. Cross them upright and off the brakes — emergency-braking-motorbike-vietnam explains why painted lines cause lock-ups.
+Road markings, manhole covers, steel plates and tiled pavements hold a film of water long after asphalt looks dry. Cross them upright and off the brakes — [Emergency Braking on a Motorbike in Vietnam]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}) explains why painted lines cause lock-ups.
 
 ## Once you arrive home
 
-Check the bike too: water in places it should not be shows up after a soaking. check-motorbike-after-heavy-rain runs through the post-soak inspection, and for riding through the rain itself, riding-motorbike-heavy-rain-vietnam is the guide.
+Check the bike too: water in places it should not be shows up after a soaking. [What to Check After Your Motorbike Gets Soaked]({{ '/articles/check-motorbike-after-heavy-rain/' | relative_url }}) runs through the post-soak inspection, and for riding through the rain itself, [Riding a Motorbike in Heavy Rain in Vietnam]({{ '/articles/riding-motorbike-heavy-rain-vietnam/' | relative_url }}) is the guide.

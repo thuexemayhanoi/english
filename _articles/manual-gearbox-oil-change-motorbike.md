@@ -19,19 +19,19 @@ sources:
 internal_link_targets: "scooter-gearbox-oil-atf-basics, changing-engine-oil-at-home-vietnam, checking-engine-oil-motorbike, hard-shifting-gearbox-motorbike"
 ---
 
-Scooter riders have one gearbox oil conversation; riders of manual motorbikes have a different one, and confusing the two causes real damage. The scooter-side story — continuously variable transmission belts and dedicated gearbox oil — is in scooter-gearbox-oil-atf-basics. Here it is about manuals, where the gearbox lives either bathed in the engine's own oil or in its own separate chamber.
+Scooter riders have one gearbox oil conversation; riders of manual motorbikes have a different one, and confusing the two causes real damage. The scooter-side story — continuously variable transmission belts and dedicated gearbox oil — is in [Scooter Gearbox Oil: The Forgotten Fluid]({{ '/articles/scooter-gearbox-oil-atf-basics/' | relative_url }}). Here it is about manuals, where the gearbox lives either bathed in the engine's own oil or in its own separate chamber.
 
 ## Two designs, two rules
 
-On many smaller manual bikes, the gearbox shares oil with the engine: one drain plug, one filler, one oil. On others — typically larger or two-stroke machines — the gearbox is a separate sump with its own oil, sometimes a different grade from the engine oil. The owner's manual states which design you have and what oil belongs in each. There is no cross-model answer, and the practical home-change procedure is covered in changing-engine-oil-at-home-vietnam.
+On many smaller manual bikes, the gearbox shares oil with the engine: one drain plug, one filler, one oil. On others — typically larger or two-stroke machines — the gearbox is a separate sump with its own oil, sometimes a different grade from the engine oil. The owner's manual states which design you have and what oil belongs in each. There is no cross-model answer, and the practical home-change procedure is covered in [Changing Engine Oil at Home]({{ '/articles/changing-engine-oil-at-home-vietnam/' | relative_url }}).
 
 ## Why gearbox oil deserves respect
 
-Gear teeth shear oil far harder than bearings do. Old gearbox oil loses its film strength exactly when shifted hard under load — Hanoi's stop-start riding with a pillion is that scenario. Worn oil shows up first as shifting quality: notchy, clunky, or hesitant gear changes. Hard shifts have several possible causes, and oil is only one of them — the sorting-out is in hard-shifting-gearbox-motorbike — but stale oil is the cheapest cause to eliminate.
+Gear teeth shear oil far harder than bearings do. Old gearbox oil loses its film strength exactly when shifted hard under load — Hanoi's stop-start riding with a pillion is that scenario. Worn oil shows up first as shifting quality: notchy, clunky, or hesitant gear changes. Hard shifts have several possible causes, and oil is only one of them — the sorting-out is in [Hard Shifting and Gearbox Problems on a Manual Motorbike]({{ '/articles/hard-shifting-gearbox-motorbike/' | relative_url }}) — but stale oil is the cheapest cause to eliminate.
 
 ## The wet clutch complicates the oil choice
 
-On most manual motorbikes the clutch runs inside the gearbox oil. That oil must lubricate gears, yet still allow the clutch plates to grip without slipping. This is why car oils with friction modifiers can quietly ruin a wet clutch, and why the specification in the manual — including the JASO-type marking where the maker calls for it — matters more than any price argument. A clutch that suddenly slips after an oil change is telling you the wrong oil went in; see clutch-slipping-manual-motorbike.
+On most manual motorbikes the clutch runs inside the gearbox oil. That oil must lubricate gears, yet still allow the clutch plates to grip without slipping. This is why car oils with friction modifiers can quietly ruin a wet clutch, and why the specification in the manual — including the JASO-type marking where the maker calls for it — matters more than any price argument. A clutch that suddenly slips after an oil change is telling you the wrong oil went in; see [Manual Clutch Slipping: Causes and Fixes]({{ '/articles/clutch-slipping-manual-motorbike/' | relative_url }}).
 
 ## Change habits for Vietnamese conditions
 
@@ -39,7 +39,7 @@ The manual's interval is the baseline; dusty streets, deep flooding and constant
 
 - Drain warm so the old oil carries grit out with it.
 - Check the drain plug's sealing washer and the magnetic tip if fitted — a furry metal plug is a conversation with a mechanic.
-- Refill with the specified oil to the specified level — level checks via a sight glass, dipstick or level plug depending on the design; the level-checking discipline is covered in checking-engine-oil-motorbike.
+- Refill with the specified oil to the specified level — level checks via a sight glass, dipstick or level plug depending on the design; the level-checking discipline is covered in [Checking Engine Oil on a Motorbike]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }}).
 - Check for leaks around the case seams after a short ride.
 
 ## Do not overfill

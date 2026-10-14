@@ -23,15 +23,15 @@ Levers are where your hands meet the machine, and stock levers are shaped for an
 
 ## What adjustability buys
 
-Reach adjustment moves the lever closer to the bar for smaller hands or two-finger riders — and a lever you can reach comfortably is a lever you can modulate finely, which is a braking-quality argument, not an aesthetic one. Folding tips bend rather than snap in a fall, saving the lever — and a snapped brake lever ends your ride, as anyone who has read broken-clutch-cable-motorbike-roadside knows about the lever-adjacent failures. Shorty levers leave two fingers on the grip while two pull the lever, a preference with fans and critics alike.
+Reach adjustment moves the lever closer to the bar for smaller hands or two-finger riders — and a lever you can reach comfortably is a lever you can modulate finely, which is a braking-quality argument, not an aesthetic one. Folding tips bend rather than snap in a fall, saving the lever — and a snapped brake lever ends your ride, as anyone who has read [A Broken Clutch Cable: The Roadside Reality]({{ '/articles/broken-clutch-cable-motorbike-roadside/' | relative_url }}) knows about the lever-adjacent failures. Shorty levers leave two fingers on the grip while two pull the lever, a preference with fans and critics alike.
 
 ## The safety-critical cautions
 
-Levers are primary controls: a lever that flexes, a blade that snaps, an adjuster that slips under braking — these are catastrophic failures, and the aftermarket is flooded with cheap machined copies of famous lever brands. The counterfeit-part discipline in genuine-vs-fake-parts-motorbike-vietnam applies more strongly here than anywhere, because a fake lever fails exactly when everything else is going wrong too. Buy from brands with a reputation, and after fitting, pump and inspect before riding: correct free play, full return, no interference at full steering lock, and brakes that feel firm at the lever.
+Levers are primary controls: a lever that flexes, a blade that snaps, an adjuster that slips under braking — these are catastrophic failures, and the aftermarket is flooded with cheap machined copies of famous lever brands. The counterfeit-part discipline in [Genuine Versus Fake Motorbike Parts in Vietnam]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}) applies more strongly here than anywhere, because a fake lever fails exactly when everything else is going wrong too. Buy from brands with a reputation, and after fitting, pump and inspect before riding: correct free play, full return, no interference at full steering lock, and brakes that feel firm at the lever.
 
 ## Compatibility and fitting
 
-Check the bike’s master-cylinder and perch compatibility, not just "fits most bikes". The interaction with your brake system is intimate — pairing new levers with the pad condition and feel described in brake-pads-replacement-motorbike-vietnam, and with grips that suit the reach (handlebar-grips-choosing-motorbike), completes the hand-to-machine interface.
+Check the bike’s master-cylinder and perch compatibility, not just "fits most bikes". The interaction with your brake system is intimate — pairing new levers with the pad condition and feel described in [Brake Pads: Signs, Replacement and What to Expect]({{ '/articles/brake-pads-replacement-motorbike-vietnam/' | relative_url }}), and with grips that suit the reach ([Handlebar Grips: Choosing and Replacing Them]({{ '/articles/handlebar-grips-choosing-motorbike/' | relative_url }})), completes the hand-to-machine interface.
 
 ## The verdict
 

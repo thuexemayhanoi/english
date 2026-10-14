@@ -27,7 +27,7 @@ Each spoke holds the rim in tension from all directions. When one loosens — fr
 
 ## The simple checks
 
-Spin the wheel off the ground and watch the rim against a fixed point: side-to-side or up-and-down movement is the truth-teller. Pluck spokes and listen: a dead, dull note means a loose spoke. Run a finger over the spoke heads at the hub; protruding, burred ends mean the wheel has been ridden loose and needs a mechanic's eye. Do the same for the bearings while the wheel is in the air — wheel-bearings-check-motorbike covers that test.
+Spin the wheel off the ground and watch the rim against a fixed point: side-to-side or up-and-down movement is the truth-teller. Pluck spokes and listen: a dead, dull note means a loose spoke. Run a finger over the spoke heads at the hub; protruding, burred ends mean the wheel has been ridden loose and needs a mechanic's eye. Do the same for the bearings while the wheel is in the air — [Wheel Bearings: How to Check for Play Before They Fail]({{ '/articles/wheel-bearings-check-motorbike/' | relative_url }}) covers that test.
 
 ## Truing: a specialist's job done early
 
@@ -35,10 +35,10 @@ Tightening and truing a spoked wheel — bringing it back round and centred — 
 
 ## Spokes and inner tubes
 
-Nearly all spoked wheels run inner tubes, because the nipple holes make an airtight rim impossible — the implications of that for punctures are explained in inner-tubes-vs-tubeless-motorbike, and the roadside repair reality is in flat-tyre-repair-motorbike-vietnam. A cracked rim or a sharp spoke nipple poking through the rim tape is a hidden flat-tyre factory: any recurring punctures on the same wheel should prompt a rim inspection, not just another tube.
+Nearly all spoked wheels run inner tubes, because the nipple holes make an airtight rim impossible — the implications of that for punctures are explained in [Inner Tubes vs Tubeless Tyres on Vietnamese Motorbikes]({{ '/articles/inner-tubes-vs-tubeless-motorbike/' | relative_url }}), and the roadside repair reality is in [Flat Tyre Repair on a Motorbike in Vietnam]({{ '/articles/flat-tyre-repair-motorbike-vietnam/' | relative_url }}). A cracked rim or a sharp spoke nipple poking through the rim tape is a hidden flat-tyre factory: any recurring punctures on the same wheel should prompt a rim inspection, not just another tube.
 
 ## When tyres come off
 
-Wheel work is also the natural moment to think about tyre condition — the sizing and choosing logic is in choosing-replacement-tyres-motorbike-vietnam. A bike that needs tyres and a wheel truing in the same month is telling you the roads won that round.
+Wheel work is also the natural moment to think about tyre condition — the sizing and choosing logic is in [Choosing Replacement Tyres for Your Motorbike in Vietnam]({{ '/articles/choosing-replacement-tyres-motorbike-vietnam/' | relative_url }}). A bike that needs tyres and a wheel truing in the same month is telling you the roads won that round.
 
 Spokes are old technology that rewards old-fashioned attention: look, listen and pluck a few times a year.

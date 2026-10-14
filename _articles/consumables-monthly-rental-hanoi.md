@@ -30,7 +30,7 @@ Routine maintenance such as oil, chain adjustment and inspection is handled by t
 
 ## Punctures versus wear
 
-These are usually treated differently. A puncture from a nail or road debris is an everyday Hanoi event — punctured-tyre-on-rental-motorbike covers the practical steps, and tube repairs are cheap and quick at roadside shops. Slow wear from your own mileage is closer to a use cost, which is why it may fall to you on a long rental.
+These are usually treated differently. A puncture from a nail or road debris is an everyday Hanoi event — [Who Pays for a Punctured Tyre on a Rental Motorbike?]({{ '/articles/punctured-tyre-on-rental-motorbike/' | relative_url }}) covers the practical steps, and tube repairs are cheap and quick at roadside shops. Slow wear from your own mileage is closer to a use cost, which is why it may fall to you on a long rental.
 
 ## Replacing fairly
 

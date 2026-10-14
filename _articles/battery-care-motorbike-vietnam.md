@@ -27,11 +27,11 @@ Terminals: keep them tight and free of the white-green corrosion that humidity g
 
 ## The habits that help
 
-Ride the bike: short trips only, never letting the charging system recover, is what actually strands people. If the bike sits for weeks — storing-motorbike-long-term-vietnam covers the storage routine — a small charger or a periodic start-and-run keeps the battery alive. Keep lights off with the engine off; the classic "why will it not start" morning is a rear light left on overnight.
+Ride the bike: short trips only, never letting the charging system recover, is what actually strands people. If the bike sits for weeks — [Storing a Motorbike for Weeks or Months in Vietnam]({{ '/articles/storing-motorbike-long-term-vietnam/' | relative_url }}) covers the storage routine — a small charger or a periodic start-and-run keeps the battery alive. Keep lights off with the engine off; the classic "why will it not start" morning is a rear light left on overnight.
 
 ## When it dies anyway
 
-Batteries in Vietnam die suddenly more often than gradually — hot-climate failures go from slow-crank to nothing within days. The full roadside recovery — push starts, jump basics, what not to do — is covered in dead-battery-motorbike-vietnam. On a rental, a battery that will not start is a call to the shop, not a DIY session — motorbike-maintenance-basics-vietnam covers the who-does-what split.
+Batteries in Vietnam die suddenly more often than gradually — hot-climate failures go from slow-crank to nothing within days. The full roadside recovery — push starts, jump basics, what not to do — is covered in [A Dead Battery: Recovering a Motorbike That Won't Start]({{ '/articles/dead-battery-motorbike-vietnam/' | relative_url }}). On a rental, a battery that will not start is a call to the shop, not a DIY session — [Motorbike Maintenance Basics for Vietnam]({{ '/articles/motorbike-maintenance-basics-vietnam/' | relative_url }}) covers the who-does-what split.
 
 ## The one-line version
 

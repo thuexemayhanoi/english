@@ -28,16 +28,16 @@ On a manual or semi-automatic bike, downshift so the engine holds you back and u
 
 ## The right speed before the slope, not on it
 
-Do your slowing at the top, while everything is cold and you can see the road. Entering a descent too fast means spending the whole drop catching up. Choose a speed early and stick to it — mountain-pass-riding-motorbike-vietnam covers the full picture of Vietnamese mountain roads.
+Do your slowing at the top, while everything is cold and you can see the road. Entering a descent too fast means spending the whole drop catching up. Choose a speed early and stick to it — [Riding Mountain Passes on a Motorbike in Vietnam]({{ '/articles/mountain-pass-riding-motorbike-vietnam/' | relative_url }}) covers the full picture of Vietnamese mountain roads.
 
 ## Brake in intervals, not in one drag
 
-Apply, release, apply again. The release gaps let heat dissipate. If the levers start to feel spongy or the braking weakens, you have been dragging — slow immediately, find a safe place, and let them cool. For what healthy brakes should feel like at the start of the day, see brake-checks-motorbike-vietnam.
+Apply, release, apply again. The release gaps let heat dissipate. If the levers start to feel spongy or the braking weakens, you have been dragging — slow immediately, find a safe place, and let them cool. For what healthy brakes should feel like at the start of the day, see [Checking Brakes on a Motorbike]({{ '/articles/brake-checks-motorbike-vietnam/' | relative_url }}).
 
 ## Curve by curve
 
-Slow before each bend, eyes through it, gentle throttle out — cornering-motorbike-vietnam applies at any gradient. Never brake hard mid-corner on a descent: the same rules as emergency-braking-motorbike-vietnam, with less grip available and more energy to dissipate.
+Slow before each bend, eyes through it, gentle throttle out — [Cornering a Motorbike Well in Vietnam]({{ '/articles/cornering-motorbike-vietnam/' | relative_url }}) applies at any gradient. Never brake hard mid-corner on a descent: the same rules as [Emergency Braking on a Motorbike in Vietnam]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}), with less grip available and more energy to dissipate.
 
 ## Descending tired is descending badly
 
-Long mountain days drain exactly the concentration that descents demand. Take a break at the top of any major descent rather than the bottom — riding-fatigue-motorbike-vietnam explains why the last hour of a ride is the riskiest.
+Long mountain days drain exactly the concentration that descents demand. Take a break at the top of any major descent rather than the bottom — [Riding Fatigue on Long Motorbike Trips]({{ '/articles/riding-fatigue-motorbike-vietnam/' | relative_url }}) explains why the last hour of a ride is the riskiest.

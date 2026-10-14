@@ -27,11 +27,11 @@ A weight at the very end of the bar changes the system's resonant frequency and 
 
 ## What heavier weights can and cannot fix
 
-Heavier aftermarket weights, or weights combined into mirrors, genuinely reduce buzz for many bikes. What they cannot fix is vibration that comes from a fault: worn engine mounts, loose fasteners, a tyre gone out of round, or a drivetrain problem — the diagnostic list lives in handlebar-vibration-motorbike. If the buzz appeared suddenly or grows with a specific speed, find the fault before shopping for weights. Weights are the last step of a fix, not a substitute for one.
+Heavier aftermarket weights, or weights combined into mirrors, genuinely reduce buzz for many bikes. What they cannot fix is vibration that comes from a fault: worn engine mounts, loose fasteners, a tyre gone out of round, or a drivetrain problem — the diagnostic list lives in [Handlebar Vibration: Finding the Source]({{ '/articles/handlebar-vibration-motorbike/' | relative_url }}). If the buzz appeared suddenly or grows with a specific speed, find the fault before shopping for weights. Weights are the last step of a fix, not a substitute for one.
 
 ## The rest of the system
 
-Vibration control is a stack: weights kill resonance, grips absorb what is left (the trade-offs are in handlebar-grips-choosing-motorbike), lever angle decides how hard your wrists clamp, and your hand position decides how long the load is sustained — setting levers for a neutral wrist is covered in adjustable-levers-motorbikes. Bar-end mounted mirrors also add or subtract mass at exactly the right point; if you swap mirrors, feel the difference at highway speed before assuming the new setup is neutral (aftermarket-mirrors-motorbike-upgrade).
+Vibration control is a stack: weights kill resonance, grips absorb what is left (the trade-offs are in [Handlebar Grips: Choosing and Replacing Them]({{ '/articles/handlebar-grips-choosing-motorbike/' | relative_url }})), lever angle decides how hard your wrists clamp, and your hand position decides how long the load is sustained — setting levers for a neutral wrist is covered in [Adjustable Brake and Clutch Levers]({{ '/articles/adjustable-levers-motorbikes/' | relative_url }}). Bar-end mounted mirrors also add or subtract mass at exactly the right point; if you swap mirrors, feel the difference at highway speed before assuming the new setup is neutral ([Upgrading Motorbike Mirrors: What Aftermarket Mirrors Change]({{ '/articles/aftermarket-mirrors-motorbike-upgrade/' | relative_url }})).
 
 ## Practical notes
 

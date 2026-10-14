@@ -31,14 +31,14 @@ Enter slowly, keep a steady low speed, and do not rev hard — a scooter's air i
 
 ## What water hides
 
-Potholes (potholes-bad-roads-motorbike-vietnam), missing manhole covers, and live electrical faults near fallen cables. After crossing, dry your brakes by dragging them gently for a few seconds — wet brakes do nothing until they dry.
+Potholes ([Potholes and Bad Roads: Protecting Yourself and Your Motorbike]({{ '/articles/potholes-bad-roads-motorbike-vietnam/' | relative_url }})), missing manhole covers, and live electrical faults near fallen cables. After crossing, dry your brakes by dragging them gently for a few seconds — wet brakes do nothing until they dry.
 
 ## When to stop and wait
 
-Strong current, hidden surface, or water over the exhaust outlet: park on the high side of the street and wait. Floods in Hanoi usually drain within hours, and an engine rebuild costs more than any wait. If you are on a rental, a drowned engine is a real problem — outside-repair-shops-rental-motorbike and your rental agreement cover that territory.
+Strong current, hidden surface, or water over the exhaust outlet: park on the high side of the street and wait. Floods in Hanoi usually drain within hours, and an engine rebuild costs more than any wait. If you are on a rental, a drowned engine is a real problem — [Can You Use Outside Repair Shops on a Rental Motorbike?]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) and your rental agreement cover that territory.
 
 ## The one-line version
 
 If you cannot see the bottom, do not go in; if you can, crawl through on the shallow crown — and never gamble an engine against a schedule.
 
-Electric two-wheeler riders have extra water considerations (IP ratings, wet connectors) — see riding-electric-motorbike-hanoi-rain.
+Electric two-wheeler riders have extra water considerations (IP ratings, wet connectors) — see [Riding an Electric Motorbike in Hanoi Rain: Water, IP Ratings and Grip]({{ '/articles/riding-electric-motorbike-hanoi-rain/' | relative_url }}).

@@ -23,7 +23,7 @@ Riders remember oil and chain lube, then forget that a dozen small pivots on the
 
 ## The points to hit
 
-Brake and clutch lever pivots, the throttle tube and its housing, brake pedal pivot, centre and side stand pivots and springs, brake cables (where the bike has them), mirror threads and pivots, and the swingarm and shock linkages on the service schedule. The chain is the biggest lubrication job of all and has its own guide — chain-maintenance-motorbike-vietnam.
+Brake and clutch lever pivots, the throttle tube and its housing, brake pedal pivot, centre and side stand pivots and springs, brake cables (where the bike has them), mirror threads and pivots, and the swingarm and shock linkages on the service schedule. The chain is the biggest lubrication job of all and has its own guide — [Chain Maintenance on a Motorbike in Vietnam]({{ '/articles/chain-maintenance-motorbike-vietnam/' | relative_url }}).
 
 ## How to do it
 
@@ -31,8 +31,8 @@ A small brush or fingertip of general-purpose grease on each pivot after wiping 
 
 ## When, in Vietnam's seasons
 
-After any serious wet-season ride or washing session, water displaces grease from pivots — the washing guide is cleaning-motorbike-properly-vietnam. Dry season adds dust, which mixes with grease into the same grinding paste, so wipe-clean-then-grease beats grease-on-top. Twice a year give everything a proper clean-out; the rest of the year, a quick touch-up each time you clean the chain.
+After any serious wet-season ride or washing session, water displaces grease from pivots — the washing guide is [Washing and Cleaning a Motorbike Properly]({{ '/articles/cleaning-motorbike-properly-vietnam/' | relative_url }}). Dry season adds dust, which mixes with grease into the same grinding paste, so wipe-clean-then-grease beats grease-on-top. Twice a year give everything a proper clean-out; the rest of the year, a quick touch-up each time you clean the chain.
 
 ## The payoff
 
-Seized stands snap springs, stiff levers slow braking, dry cables snap at the worst moments, and all of it is free to prevent with the small toolkit in motorbike-rider-toolkit-essentials. Add it to the motorbike-maintenance-basics-vietnam checklist and the bike feels newer for years longer than it has any right to.
+Seized stands snap springs, stiff levers slow braking, dry cables snap at the worst moments, and all of it is free to prevent with the small toolkit in [A Rider's Toolkit: What to Carry Under the Seat]({{ '/articles/motorbike-rider-toolkit-essentials/' | relative_url }}). Add it to the [Motorbike Maintenance Basics for Vietnam]({{ '/articles/motorbike-maintenance-basics-vietnam/' | relative_url }}) checklist and the bike feels newer for years longer than it has any right to.

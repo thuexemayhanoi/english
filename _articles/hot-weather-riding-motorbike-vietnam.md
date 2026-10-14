@@ -23,19 +23,19 @@ Northern Vietnam summers push past 38°C with humidity to match, and the souther
 
 ## Dehydration is the real risk
 
-The early signs are subtle: a dry mouth, a headache, irritability, then slower reactions — the last one being the dangerous one on a bike. Drink before you feel thirsty, and on any ride over an hour, carry water and stop to drink. Urine colour is the honest gauge; dark means you are already behind. Long rides in heat and the fatigue problem are covered together in riding-fatigue-motorbike-vietnam.
+The early signs are subtle: a dry mouth, a headache, irritability, then slower reactions — the last one being the dangerous one on a bike. Drink before you feel thirsty, and on any ride over an hour, carry water and stop to drink. Urine colour is the honest gauge; dark means you are already behind. Long rides in heat and the fatigue problem are covered together in [Riding Fatigue on Long Motorbike Trips]({{ '/articles/riding-fatigue-motorbike-vietnam/' | relative_url }}).
 
 ## Heat and gear
 
-The temptation is shorts and flip-flops; the working solution is lightweight coverage. Loose long sleeves, ventilated gloves and shoes beat bare skin — covered skin loses less water and does not sunburn in an hour. Mesh jackets designed for tropical riding exist and work. The full gear discussion is in what-to-wear-riding-motorbike-vietnam.
+The temptation is shorts and flip-flops; the working solution is lightweight coverage. Loose long sleeves, ventilated gloves and shoes beat bare skin — covered skin loses less water and does not sunburn in an hour. Mesh jackets designed for tropical riding exist and work. The full gear discussion is in [What to Wear Riding a Motorbike in Vietnam]({{ '/articles/what-to-wear-riding-motorbike-vietnam/' | relative_url }}).
 
 ## The bike in heat
 
-Engines run hotter in traffic jams — a scooter crawling through Long Bien heat can approach its cooling limits. If the bike smells hot or loses power in a jam, let it cool; overheating-motorbike-vietnam covers the symptoms. Tyre pressures rise as tyres heat; check them cold, as the tyre-care article explains.
+Engines run hotter in traffic jams — a scooter crawling through Long Bien heat can approach its cooling limits. If the bike smells hot or loses power in a jam, let it cool; [An Overheating Motorbike: Causes and What to Do]({{ '/articles/overheating-motorbike-vietnam/' | relative_url }}) covers the symptoms. Tyre pressures rise as tyres heat; check them cold, as the tyre-care article explains.
 
 ## Timing your riding
 
-Ride early and late; avoid the 11:00–16:00 furnace when you can. Commuters can shift their week's heavy riding to mornings — commuting-by-motorbike-monthly-hanoi covers building that routine.
+Ride early and late; avoid the 11:00–16:00 furnace when you can. Commuters can shift their week's heavy riding to mornings — [Commuting by Motorbike in Hanoi: The Monthly Renter Setup]({{ '/articles/commuting-by-motorbike-monthly-hanoi/' | relative_url }}) covers building that routine.
 
 ## The one-line version
 

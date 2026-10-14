@@ -23,11 +23,11 @@ The radiator is the most exposed fragile part on a liquid-cooled motorbike: a th
 
 ## What a guard does
 
-A mesh or perforated guard sits in front of the radiator and takes the impacts while passing cooling air. A pierced radiator in Vietnamese traffic means a slow limp, an overheating engine and an expensive roadside bill — the failure chain is described in motorbike-overheating-causes, and the fluid-side care in coolant-radiator-care-liquid-cooled-motorbike.
+A mesh or perforated guard sits in front of the radiator and takes the impacts while passing cooling air. A pierced radiator in Vietnamese traffic means a slow limp, an overheating engine and an expensive roadside bill — the failure chain is described in [When a Motorbike Overheats]({{ '/articles/motorbike-overheating-causes/' | relative_url }}), and the fluid-side care in [Coolant and Radiator Care for Liquid-Cooled Motorbikes]({{ '/articles/coolant-radiator-care-liquid-cooled-motorbike/' | relative_url }}).
 
 ## Who needs one
 
-Riders on gravel or rural routes absolutely (gravel-roads-motorbike-vietnam is the argument in riding form); city riders of liquid-cooled scooters mostly for mud and road debris, which matters more than it sounds — mud packed into radiator fins insulates, and an insulated radiator is a slowly overheating one. Underbody skid plates (skid-plates-underbody-protection) complete the protection story for the low-slung parts.
+Riders on gravel or rural routes absolutely ([Riding on Gravel and Loose Surfaces on a Motorbike]({{ '/articles/gravel-roads-motorbike-vietnam/' | relative_url }}) is the argument in riding form); city riders of liquid-cooled scooters mostly for mud and road debris, which matters more than it sounds — mud packed into radiator fins insulates, and an insulated radiator is a slowly overheating one. Underbody skid plates ([Skid Plates and Underbody Protection]({{ '/articles/skid-plates-underbody-protection/' | relative_url }})) complete the protection story for the low-slung parts.
 
 ## Choosing and fitting
 

@@ -24,22 +24,22 @@ Landing at Noi Bai with a motorbike rental in mind is a good plan with one corre
 
 ## The realistic pattern
 
-Noi Bai sits about 25–30 km from central Hanoi. Rental shops, including Nguyen Tu, operate from their city locations; delivery and pickup arrangements are made case by case depending on location, and always within opening hours (09:00–21:00 daily). So the standard arrival sequence is: airport transfer to your accommodation by taxi, bus or ride-hailing — the airport's fixed-route buses and standard taxis cover the run — then the bike comes to you or you come to the shop. See motorbike-rental-pickup-or-delivery-hanoi for how pickup and delivery work.
+Noi Bai sits about 25–30 km from central Hanoi. Rental shops, including Nguyen Tu, operate from their city locations; delivery and pickup arrangements are made case by case depending on location, and always within opening hours (09:00–21:00 daily). So the standard arrival sequence is: airport transfer to your accommodation by taxi, bus or ride-hailing — the airport's fixed-route buses and standard taxis cover the run — then the bike comes to you or you come to the shop. See [Shop Pickup vs Delivery When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) for how pickup and delivery work.
 
 ## Booking before you fly
 
-Message the shop with your arrival day and the rental dates before departure — how-to-book-a-motorbike-rental-hanoi covers what to confirm: model category, price, deposit (typically 2,000,000–5,000,000 VND — motorbike-rental-deposit-hanoi), pickup or delivery arrangement for your address, and the accepted payment forms (cash, bank transfer, QR). Confirm current availability of the model you want. Book the transfer and the rental as separate steps: the shop can't hand you a bike at the terminal, and there is no reason they should.
+Message the shop with your arrival day and the rental dates before departure — [How to Book a Motorbike Rental in Hanoi (WhatsApp, Zalo, Walk-In)]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) covers what to confirm: model category, price, deposit (typically 2,000,000–5,000,000 VND — [Motorbike Rental Deposits in Hanoi: Typical Amounts and Return]({{ '/articles/motorbike-rental-deposit-hanoi/' | relative_url }})), pickup or delivery arrangement for your address, and the accepted payment forms (cash, bank transfer, QR). Confirm current availability of the model you want. Book the transfer and the rental as separate steps: the shop can't hand you a bike at the terminal, and there is no reason they should.
 
 ## Why riding straight from the airport is a bad idea
 
-Even for experienced riders, the airport road is an unfriendly first hour: fast traffic, big vehicles, and the wrong state of mind after a long flight. The riders who struggle most in Hanoi are the jetlagged ones in hour one. Give yourself a night, and start on the bike rested — the first-time flow is in first-time-renting-a-motorbike-hanoi, and the traffic-readiness question in best-motorbike-for-hanoi-traffic.
+Even for experienced riders, the airport road is an unfriendly first hour: fast traffic, big vehicles, and the wrong state of mind after a long flight. The riders who struggle most in Hanoi are the jetlagged ones in hour one. Give yourself a night, and start on the bike rested — the first-time flow is in [First Time Renting a Motorbike in Hanoi: A Beginner Walkthrough]({{ '/articles/first-time-renting-a-motorbike-hanoi/' | relative_url }}), and the traffic-readiness question in [Best Motorbike for Hanoi Traffic: What Actually Works]({{ '/articles/best-motorbike-for-hanoi-traffic/' | relative_url }}).
 
 ## The first-24-hours plan
 
 1. Land, transfer, sleep — no riding decisions on arrival day
 2. Confirm the handover time with the shop by message
-3. Do the full inspection at handover — rental-motorbike-inspection-checklist
-4. Agree the terms out loud and keep the deposit receipt — motorbike-rental-agreement-hanoi
+3. Do the full inspection at handover — [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }})
+4. Agree the terms out loud and keep the deposit receipt — [Understanding a Motorbike Rental Agreement in Hanoi]({{ '/articles/motorbike-rental-agreement-hanoi/' | relative_url }})
 5. First ride: a short daytime loop near your accommodation, not a day trip
 
 ## If your flight lands outside opening hours

@@ -19,14 +19,14 @@ sources:
 internal_link_targets: "battery-care-motorbike-vietnam, dead-battery-motorbike-vietnam, battery-draining-overnight-motorbike, genuine-vs-fake-parts-motorbike-vietnam"
 ---
 
-Batteries in Vietnam die in predictable ways: slow death from short trips, sudden death from a charging fault, or assassination by flooding. Choosing a replacement is mostly about matching what the bike came with and buying the real thing. The care side of battery ownership is in battery-care-motorbike-vietnam; this is the buying decision.
+Batteries in Vietnam die in predictable ways: slow death from short trips, sudden death from a charging fault, or assassination by flooding. Choosing a replacement is mostly about matching what the bike came with and buying the real thing. The care side of battery ownership is in [Battery Care on a Motorbike]({{ '/articles/battery-care-motorbike-vietnam/' | relative_url }}); this is the buying decision.
 
 ## Match the specification, not the shop's enthusiasm
 
 Three numbers define a motorbike battery: voltage (nearly always 12V on modern bikes), capacity in amp-hours, and cold-cranking current. All three are printed on the old battery's label and in the owner's manual. Buy exactly that specification:
 
 - A lower capacity battery starts the engine but ages fast in stop-start use.
-- A much larger capacity battery stresses a charging system designed for the original load — the charging story is in charging-system-stator-basics-motorbike.
+- A much larger capacity battery stresses a charging system designed for the original load — the charging story is in [Charging System Basics: The Stator and Regulator]({{ '/articles/charging-system-stator-basics-motorbike/' | relative_url }}).
 - A wrong-chemistry battery (for example a lithium pack where the system expects lead-acid charging behaviour) needs the whole system matched, not just the box swapped.
 
 ## Wet, sealed or lithium?
@@ -39,11 +39,11 @@ Many batteries in Vietnam are sold "dry-charged" with a separate acid pack, acti
 
 ## Counterfeits are the real risk
 
-Fake name-brand batteries — lighter cases, unlabelled acid volumes, inflated cranking claims — are common. The general warning signs of counterfeit parts are in genuine-vs-fake-parts-motorbike-vietnam: mismatched printing, missing date codes, prices too far below the market. Buy from a shop that scans or honours a warranty, keep the receipt, and note the date code.
+Fake name-brand batteries — lighter cases, unlabelled acid volumes, inflated cranking claims — are common. The general warning signs of counterfeit parts are in [Genuine Versus Fake Motorbike Parts in Vietnam]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}): mismatched printing, missing date codes, prices too far below the market. Buy from a shop that scans or honours a warranty, keep the receipt, and note the date code.
 
 ## Before you blame the battery
 
-A battery that dies young is usually a victim, not the culprit. Chronic undercharging from short trips, a parasitic drain — diagnosed in battery-draining-overnight-motorbike — or a failing charging system kills new batteries in months. If the previous battery died for a reason, the new one will inherit the same fate. Jump-start and roadside handling is in dead-battery-motorbike-vietnam.
+A battery that dies young is usually a victim, not the culprit. Chronic undercharging from short trips, a parasitic drain — diagnosed in [Battery Draining Overnight: Finding the Cause]({{ '/articles/battery-draining-overnight-motorbike/' | relative_url }}) — or a failing charging system kills new batteries in months. If the previous battery died for a reason, the new one will inherit the same fate. Jump-start and roadside handling is in [A Dead Battery: Recovering a Motorbike That Won't Start]({{ '/articles/dead-battery-motorbike-vietnam/' | relative_url }}).
 
 ## Disposal
 

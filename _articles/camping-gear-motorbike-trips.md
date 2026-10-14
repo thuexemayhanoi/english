@@ -23,7 +23,7 @@ A motorbike is the best way to reach Vietnam’s quiet places, and the worst veh
 
 ## Weight and volume discipline
 
-Camping gear is bulky, not heavy — the enemy is volume. Build the kit around small-and-light: a compact two-person tent beats a family dome, a sleeping bag rated for Vietnamese lowland nights is thinner than what a European would pack, a simple cooking kit replaces the kitchen. Total luggage for two-up camping on a scooter should still respect the same physics as any load — heavy items low and central, per carrying-luggage-motorbike-safely-vietnam.
+Camping gear is bulky, not heavy — the enemy is volume. Build the kit around small-and-light: a compact two-person tent beats a family dome, a sleeping bag rated for Vietnamese lowland nights is thinner than what a European would pack, a simple cooking kit replaces the kitchen. Total luggage for two-up camping on a scooter should still respect the same physics as any load — heavy items low and central, per [Carrying Luggage and Loads on a Motorbike]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}).
 
 ## The packing system
 
@@ -32,8 +32,8 @@ Everything in dry bags (rain is the plan, not the exception), dry bags inside a 
 
 ## Fuel, water, and the plan
 
-Camping means riding beyond the density of everything: plan fuel stops, carry water beyond what you think you need, and read the route realistically — the trip-preparation discipline in servicing-before-long-trip-motorbike and the day-trip planning mindset of best-motorbike-for-day-trips-from-hanoi apply with higher stakes. Tell someone where you are sleeping.
+Camping means riding beyond the density of everything: plan fuel stops, carry water beyond what you think you need, and read the route realistically — the trip-preparation discipline in [Servicing Before a Long Trip]({{ '/articles/servicing-before-long-trip-motorbike/' | relative_url }}) and the day-trip planning mindset of [Best Motorbike for Day Trips from Hanoi]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }}) apply with higher stakes. Tell someone where you are sleeping.
 
 ## Kit shortcuts that work in Vietnam
 
-Homestays are everywhere; many "camping" trips are better as a mix of one or two camp nights with homestays between. Buy firewood locally, never carry it; and after any ride on gravel or mountain roads, check the bike before you pitch — the load-carrying and checking habits in what-to-carry-riding-motorbike-vietnam are the difference between a trip and a story.
+Homestays are everywhere; many "camping" trips are better as a mix of one or two camp nights with homestays between. Buy firewood locally, never carry it; and after any ride on gravel or mountain roads, check the bike before you pitch — the load-carrying and checking habits in [What to Carry While Riding a Motorbike in Vietnam]({{ '/articles/what-to-carry-riding-motorbike-vietnam/' | relative_url }}) are the difference between a trip and a story.

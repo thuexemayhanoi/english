@@ -27,15 +27,15 @@ Clean and lubricate the chain on a regular schedule — the manual's interval fo
 
 ## Reading the chain
 
-Lift the chain at its midpoint: excessive up-down movement means it needs adjustment — the classic signs of a loose chain, and the rental-side consequences, are covered in loose-chain-on-rental-motorbike. Look along the chain line from behind: a chain that moves side to side or runs off-line needs attention. Rust on the outside plates is cosmetic if light; rust that has eaten the rollers or made links stiff is not. Stiff links, stretched pins and hooked sprocket teeth mean the chain and usually both sprockets are due for replacement.
+Lift the chain at its midpoint: excessive up-down movement means it needs adjustment — the classic signs of a loose chain, and the rental-side consequences, are covered in [What to Do If the Chain Feels Loose on a Rental Bike]({{ '/articles/loose-chain-on-rental-motorbike/' | relative_url }}). Look along the chain line from behind: a chain that moves side to side or runs off-line needs attention. Rust on the outside plates is cosmetic if light; rust that has eaten the rollers or made links stiff is not. Stiff links, stretched pins and hooked sprocket teeth mean the chain and usually both sprockets are due for replacement.
 
 ## What humidity does
 
-A chain that sits unridden in Hanoi's damp will rust visibly within weeks. Riding it regularly, and a light oil film between rides, is the real corrosion protection — motorcycle-rust-prevention-vietnam covers the wider rust battle. After riding through rain or flood water, dry and re-lube the chain the same day; flooded-streets-riding-motorbike-vietnam covers the riding side.
+A chain that sits unridden in Hanoi's damp will rust visibly within weeks. Riding it regularly, and a light oil film between rides, is the real corrosion protection — [Preventing Rust on a Motorbike in Vietnam]({{ '/articles/motorcycle-rust-prevention-vietnam/' | relative_url }}) covers the wider rust battle. After riding through rain or flood water, dry and re-lube the chain the same day; [Riding Through Flooded Streets on a Motorbike]({{ '/articles/flooded-streets-riding-motorbike-vietnam/' | relative_url }}) covers the riding side.
 
 ## Renters
 
-On a rental, chain adjustment and inspection are the shop's responsibility — motorbike-maintenance-basics-vietnam covers the split. Your part is noticing noise and reporting it rather than lubricating someone else's bike with the wrong product.
+On a rental, chain adjustment and inspection are the shop's responsibility — [Motorbike Maintenance Basics for Vietnam]({{ '/articles/motorbike-maintenance-basics-vietnam/' | relative_url }}) covers the split. Your part is noticing noise and reporting it rather than lubricating someone else's bike with the wrong product.
 
 ## The one-line version
 

@@ -23,11 +23,11 @@ A dead brake light is one of the most dangerous small failures on a motorbike: e
 
 ## Work from cheap to expensive
 
-The order never changes. Bulb first — filaments break, and vibration kills them faster than the manufacturer's optimism suggests. Second, the bulb's socket and the connector behind it: corrosion and green creep on terminals are rampant in humid climates, and a bulb that tests fine in your hand but fails in the bike is nearly always a connection problem (see wiring-connectors-humidity-motorbike). Third, the brake light switch — usually a small spring-loaded plunger at the brake lever or pedal; the spring weakens or the plunger sticks with road grime. Fourth, the fuse. Fuses are cheap; a blown fuse is also a clue, because something shorted to blow it — replace the fuse and if it blows again, look for the fault rather than fitting a bigger one.
+The order never changes. Bulb first — filaments break, and vibration kills them faster than the manufacturer's optimism suggests. Second, the bulb's socket and the connector behind it: corrosion and green creep on terminals are rampant in humid climates, and a bulb that tests fine in your hand but fails in the bike is nearly always a connection problem (see [Protecting Wiring and Connectors from Humidity on a Motorbike]({{ '/articles/wiring-connectors-humidity-motorbike/' | relative_url }})). Third, the brake light switch — usually a small spring-loaded plunger at the brake lever or pedal; the spring weakens or the plunger sticks with road grime. Fourth, the fuse. Fuses are cheap; a blown fuse is also a clue, because something shorted to blow it — replace the fuse and if it blows again, look for the fault rather than fitting a bigger one.
 
 ## Bulb types and honest replacements
 
-Match the bulb to the bike's specification — the manual or an existing bulb carries the type. Vietnamese parts shops stock the common types cheaply, but the counterfeits are real: ultra-cheap bulbs with thin filaments can fail within weeks. Carrying a spare bulb set is exactly the kind of small preparation that belongs in a rider's kit, as covered in motorbike-rider-toolkit-essentials.
+Match the bulb to the bike's specification — the manual or an existing bulb carries the type. Vietnamese parts shops stock the common types cheaply, but the counterfeits are real: ultra-cheap bulbs with thin filaments can fail within weeks. Carrying a spare bulb set is exactly the kind of small preparation that belongs in a rider's kit, as covered in [A Rider's Toolkit: What to Carry Under the Seat]({{ '/articles/motorbike-rider-toolkit-essentials/' | relative_url }}).
 
 ## Indicators: the fast-blink clue
 
@@ -35,6 +35,6 @@ An indicator blinking unusually fast usually means one of its bulbs has failed �
 
 ## Legal and safety framing
 
-Riding with a dead brake light is not just risky, it fails the logic of being seen at all — the whole argument of visibility-riding-motorbike-vietnam collapses if your signals do not work. The daily habit is simple: before setting off, squeeze each brake and watch the light, and run the indicators once. It takes ten seconds. The wider electrical once-over routine is in lights-and-electrical-checks-motorbike.
+Riding with a dead brake light is not just risky, it fails the logic of being seen at all — the whole argument of [Being Seen: Visibility Tactics for Motorbike Riders]({{ '/articles/visibility-riding-motorbike-vietnam/' | relative_url }}) collapses if your signals do not work. The daily habit is simple: before setting off, squeeze each brake and watch the light, and run the indicators once. It takes ten seconds. The wider electrical once-over routine is in [Lights and Electrical Checks on a Motorbike]({{ '/articles/lights-and-electrical-checks-motorbike/' | relative_url }}).
 
 Fix small lights quickly, or they will fail at the exact moment the truck behind you needed to see them.

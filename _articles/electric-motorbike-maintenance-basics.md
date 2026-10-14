@@ -37,11 +37,11 @@ Charge in a dry, ventilated place, not immediately after a wet ride; let connect
 
 ## Water and the monsoon
 
-Electric drivetrains are built to handle rain, but floods are a different standard: avoid submerging the motor hub and controller, and after deep wading, let everything dry before charging or riding hard. Corrosion of connectors is the long-term effect — the humidity defence for connectors in general is in wiring-connectors-humidity-motorbike. After wet-season riding, a routine wipe-down and check of connector condition saves packs.
+Electric drivetrains are built to handle rain, but floods are a different standard: avoid submerging the motor hub and controller, and after deep wading, let everything dry before charging or riding hard. Corrosion of connectors is the long-term effect — the humidity defence for connectors in general is in [Protecting Wiring and Connectors from Humidity on a Motorbike]({{ '/articles/wiring-connectors-humidity-motorbike/' | relative_url }}). After wet-season riding, a routine wipe-down and check of connector condition saves packs.
 
 ## What remains the same
 
-Brakes, tyres, steering bearings, cables, bulbs: the mechanical half of an electric two-wheeler follows exactly the maintenance routines already covered — brake-checks-motorbike-vietnam and tyre-care-motorbike-vietnam apply unchanged. E-bikes are often heavier than they look, so pads and tyres work harder than on a comparable petrol bike: check them more often, not less.
+Brakes, tyres, steering bearings, cables, bulbs: the mechanical half of an electric two-wheeler follows exactly the maintenance routines already covered — [Checking Brakes on a Motorbike]({{ '/articles/brake-checks-motorbike-vietnam/' | relative_url }}) and [Tyre Care and Pressure Basics for Motorbikes]({{ '/articles/tyre-care-motorbike-vietnam/' | relative_url }}) apply unchanged. E-bikes are often heavier than they look, so pads and tyres work harder than on a comparable petrol bike: check them more often, not less.
 
 ## Riding and range habits
 
@@ -49,6 +49,6 @@ Range claims meet reality through load, terrain and heat. Sustained full-throttl
 
 ## The service reality
 
-Electric systems contain high currents and, in faults, real hazards: diagnosis beyond connectors and fuses belongs to a specialist, not to home multimeter optimism. For rental and monthly riders, e-bike care questions — who checks what, and when — are part of the renter-maintenance conversation in maintenance-during-monthly-rental-hanoi. Ownership of the routine above is what keeps an e-bike's running cost advantage real; neglect converts it into the most expensive battery replacement in Vietnamese transport.
+Electric systems contain high currents and, in faults, real hazards: diagnosis beyond connectors and fuses belongs to a specialist, not to home multimeter optimism. For rental and monthly riders, e-bike care questions — who checks what, and when — are part of the renter-maintenance conversation in [Maintenance During a Monthly Motorbike Rental in Hanoi]({{ '/articles/maintenance-during-monthly-rental-hanoi/' | relative_url }}). Ownership of the routine above is what keeps an e-bike's running cost advantage real; neglect converts it into the most expensive battery replacement in Vietnamese transport.
 
-For pack longevity in depth see electric-motorbike-battery-lifespan-vietnam, and for cleaning rules by water rating see washing-electric-motorbike-safely.
+For pack longevity in depth see [How Long Do Electric Motorbike Batteries Last in Vietnam?]({{ '/articles/electric-motorbike-battery-lifespan-vietnam/' | relative_url }}), and for cleaning rules by water rating see [Washing an Electric Motorbike Safely: Water Ratings and Rules]({{ '/articles/washing-electric-motorbike-safely/' | relative_url }}).

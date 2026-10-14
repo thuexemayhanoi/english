@@ -28,12 +28,12 @@ Sit on the bike in your normal riding posture — where you sit changes what you
 
 ## Check them constantly, in a rhythm
 
-Mirrors work as a habit, not an accessory: check every few seconds in the city, and always before you change position — every lane shift, every drift around a parked obstacle, every filtering move. Before the head check, the mirror tells you whether the space beside you is occupied; filtering-through-traffic-motorbike-vietnam shows how the two habits combine.
+Mirrors work as a habit, not an accessory: check every few seconds in the city, and always before you change position — every lane shift, every drift around a parked obstacle, every filtering move. Before the head check, the mirror tells you whether the space beside you is occupied; [Filtering Through Traffic Safely on a Motorbike]({{ '/articles/filtering-through-traffic-motorbike-vietnam/' | relative_url }}) shows how the two habits combine.
 
 ## Vibration and damage
 
-A mirror that blurs at speed is useless: check that the stem is tight and the glass is not cracked or missing its reflective backing — common on rental bikes, and exactly the kind of thing the motorbike-safety-checklist-before-riding inspection is for. Do not run with one mirror folded in; asymmetric vision is how bikes sneak up on you.
+A mirror that blurs at speed is useless: check that the stem is tight and the glass is not cracked or missing its reflective backing — common on rental bikes, and exactly the kind of thing the [The Pre-Ride Safety Check]({{ '/articles/motorbike-safety-checklist-before-riding/' | relative_url }}) inspection is for. Do not run with one mirror folded in; asymmetric vision is how bikes sneak up on you.
 
 ## What mirrors still miss
 
-The quarter behind and beside your shoulders stays blind on any bike. Buses and trucks have blind spots the size of your whole bike — riding-motorbike-blind-spots-vietnam maps them. The rule that survives every road: mirrors first, then a glance over the shoulder before you move. That rhythm, plus the spacing habits in defensive-riding-motorbike-vietnam, is how you stay predictable in traffic that rarely is.
+The quarter behind and beside your shoulders stays blind on any bike. Buses and trucks have blind spots the size of your whole bike — [Blind Spots: Riding Around Buses and Trucks in Vietnam]({{ '/articles/riding-motorbike-blind-spots-vietnam/' | relative_url }}) maps them. The rule that survives every road: mirrors first, then a glance over the shoulder before you move. That rhythm, plus the spacing habits in [Defensive Riding on a Motorbike in Vietnam]({{ '/articles/defensive-riding-motorbike-vietnam/' | relative_url }}), is how you stay predictable in traffic that rarely is.

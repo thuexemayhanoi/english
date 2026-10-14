@@ -29,11 +29,11 @@ On tubed tyres, the valve is part of the tube; on tubeless tyres, it is a separa
 - **Core problems.** The little spring-loaded core inside the valve sticks open (hiss on pressing), leaks (soap bubbles around it), or seizes from corrosion. Cores are cheap and replaceable with a core tool.
 - **Caps matter.** The plastic cap is the secondary seal against dust and the core's failure mode. A valve without a cap loses the argument with grit.
 
-The tube-vs-tubeless trade-offs are in inner-tubes-vs-tubeless-motorbike; whichever you run, checking the valve — a visual once-over plus soapy water around the base when pressure drops — belongs in the tyre routine in tyre-care-motorbike-vietnam.
+The tube-vs-tubeless trade-offs are in [Inner Tubes vs Tubeless Tyres on Vietnamese Motorbikes]({{ '/articles/inner-tubes-vs-tubeless-motorbike/' | relative_url }}); whichever you run, checking the valve — a visual once-over plus soapy water around the base when pressure drops — belongs in the tyre routine in [Tyre Care and Pressure Basics for Motorbikes]({{ '/articles/tyre-care-motorbike-vietnam/' | relative_url }}).
 
 ## Balancing: why smooth matters
 
-An out-of-balance wheel spins heavy on one side, and at speed that becomes a buzz through the bars and pegs that riders misdiagnose as engine trouble or loose steering. The general vibration-sorting method is in handlebar-vibration-motorbike; if a vibration appears or changes after a tyre change and rises with speed, balance is the prime suspect.
+An out-of-balance wheel spins heavy on one side, and at speed that becomes a buzz through the bars and pegs that riders misdiagnose as engine trouble or loose steering. The general vibration-sorting method is in [Handlebar Vibration: Finding the Source]({{ '/articles/handlebar-vibration-motorbike/' | relative_url }}); if a vibration appears or changes after a tyre change and rises with speed, balance is the prime suspect.
 
 Balancing means adding small weights opposite the heavy point so the assembly spins evenly. A proper shop spins the wheel on a balancer and clamps stick-on weights to the rim. Common Vietnamese practice sometimes skips this on small bikes; insist on it, especially:
 
@@ -48,4 +48,4 @@ Stick-on weights stick only to clean, dry rims; ask that the rim be wiped where 
 
 ## The five-minute habit
 
-Once a month: check pressures cold (per the manual or the sticker, not the pump's default), look at each valve base for cracks, confirm caps are present, and while the wheel spins, watch the tread for an up-down hop. Combined with choosing the right rubber in choosing-replacement-tyres-motorbike-vietnam, these small habits are what keep a Vietnamese bike's contact with the road honest.
+Once a month: check pressures cold (per the manual or the sticker, not the pump's default), look at each valve base for cracks, confirm caps are present, and while the wheel spins, watch the tread for an up-down hop. Combined with choosing the right rubber in [Choosing Replacement Tyres for Your Motorbike in Vietnam]({{ '/articles/choosing-replacement-tyres-motorbike-vietnam/' | relative_url }}), these small habits are what keep a Vietnamese bike's contact with the road honest.

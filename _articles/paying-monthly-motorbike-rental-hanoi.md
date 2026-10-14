@@ -28,19 +28,19 @@ Nguyen Tu accepts cash, bank transfer and QR payment. Card payment is not part o
 
 ## When payment falls due
 
-The practical pattern for monthly rentals: payment at the start of the rental period for the agreed month, by the method agreed at booking. If you renew for a further month, the renewal follows the same pattern — arrange it before the current term ends rather than after, which keeps the timeline clean (see extending-motorbike-rental-hanoi).
+The practical pattern for monthly rentals: payment at the start of the rental period for the agreed month, by the method agreed at booking. If you renew for a further month, the renewal follows the same pattern — arrange it before the current term ends rather than after, which keeps the timeline clean (see [Extending or Renewing a Monthly Motorbike Rental in Hanoi]({{ '/articles/extending-motorbike-rental-hanoi/' | relative_url }})).
 
 ## Receipts and records
 
-For month-scale amounts, keep the same records you would keep for any significant payment: a receipt or transfer confirmation, and a message thread that shows the agreed rate and period. This is not distrust — it is what a written agreement looks like in practice, and it protects both sides. The terms worth having in writing are listed in motorbike-rental-agreement-long-term-hanoi.
+For month-scale amounts, keep the same records you would keep for any significant payment: a receipt or transfer confirmation, and a message thread that shows the agreed rate and period. This is not distrust — it is what a written agreement looks like in practice, and it protects both sides. The terms worth having in writing are listed in [Long-Term Motorbike Rental Agreements in Hanoi]({{ '/articles/motorbike-rental-agreement-long-term-hanoi/' | relative_url }}).
 
 ## Budgeting the payment
 
-The monthly rates on published-rate models run 1,000,000–2,000,000 VND depending on the bike (motorbike-rental-monthly-price-hanoi); the deposit (typically 2,000,000–5,000,000 VND) is held, not spent, and comes back at term end. The full month-scale budget — fuel, parking, consumables — is laid out in motorbike-rental-budget-monthly-hanoi.
+The monthly rates on published-rate models run 1,000,000–2,000,000 VND depending on the bike ([Motorbike Rental Monthly Prices in Hanoi]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }})); the deposit (typically 2,000,000–5,000,000 VND) is held, not spent, and comes back at term end. The full month-scale budget — fuel, parking, consumables — is laid out in [Monthly Motorbike Rental Budget in Hanoi: The Full Cost]({{ '/articles/motorbike-rental-budget-monthly-hanoi/' | relative_url }}).
 
 ## Splitting payment within a household
 
-If two people share the rental cost, decide the split before the term starts, and let one person make the payment — shops need one clear payment per agreement, not parallel contributions. For households renting two bikes, each bike carries its own agreement and deposit: see two-motorbikes-household-hanoi.
+If two people share the rental cost, decide the split before the term starts, and let one person make the payment — shops need one clear payment per agreement, not parallel contributions. For households renting two bikes, each bike carries its own agreement and deposit: see [Renting Two Motorbikes for a Household in Hanoi]({{ '/articles/two-motorbikes-household-hanoi/' | relative_url }}).
 
 ## The one-line version
 

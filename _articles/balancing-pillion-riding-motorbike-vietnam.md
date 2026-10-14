@@ -23,7 +23,7 @@ A pillion changes everything about how a bike handles: braking distances grow, s
 
 ## The legal frame first
 
-Vietnamese rules limit how many people a motorbike may carry, with narrow exceptions — motorbike-passenger-rules-vietnam covers the verified rules and fines, and children are a separate case in child-passengers-motorbike-vietnam. Helmets are mandatory for both of you, and the helmet has to fit properly — helmet-fit-guide-vietnam covers that.
+Vietnamese rules limit how many people a motorbike may carry, with narrow exceptions — [Carrying Passengers on a Motorbike in Vietnam]({{ '/articles/motorbike-passenger-rules-vietnam/' | relative_url }}) covers the verified rules and fines, and children are a separate case in [Child Passengers on Motorbikes in Vietnam]({{ '/articles/child-passengers-motorbike-vietnam/' | relative_url }}). Helmets are mandatory for both of you, and the helmet has to fit properly — [How to Choose and Fit a Helmet in Vietnam]({{ '/articles/helmet-fit-guide-vietnam/' | relative_url }}) covers that.
 
 ## Brief your passenger
 
@@ -31,11 +31,11 @@ Before moving: hold the grab rail or the rider's waist, keep feet on the pegs, l
 
 ## Adjust your riding
 
-Brake earlier and more gently; the extra weight pushes the rear into the front under hard stops. Take corners slower. Leave more following distance. At low speed, the passenger's weight makes balance harder — slow-speed-control-motorbike-vietnam drills help here more than anything. Mount only when you are braced and ready.
+Brake earlier and more gently; the extra weight pushes the rear into the front under hard stops. Take corners slower. Leave more following distance. At low speed, the passenger's weight makes balance harder — [Slow-Speed Control: Riding a Motorbike Through Dense Traffic]({{ '/articles/slow-speed-control-motorbike-vietnam/' | relative_url }}) drills help here more than anything. Mount only when you are braced and ready.
 
 ## Choose the right bike
 
-A small underbone with a flat seat carries a passenger far better than a tiny scooter with a humped seat. If you regularly ride two-up in Hanoi, the machine matters — best-motorbike-for-two-people-hanoi compares what actually works.
+A small underbone with a flat seat carries a passenger far better than a tiny scooter with a humped seat. If you regularly ride two-up in Hanoi, the machine matters — [Best Motorbike for Two People in Hanoi]({{ '/articles/best-motorbike-for-two-people-hanoi/' | relative_url }}) compares what actually works.
 
 ## Children
 

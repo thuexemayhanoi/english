@@ -39,4 +39,4 @@ Any slope with loose surface or wet paint doubles the stakes: roll-back can turn
 
 ## Practise deliberately
 
-Find a quiet incline — a bridge approach early on Sunday morning works — and do five starts with each hand. Check that the brakes feel strong as part of your motorbike-safety-checklist-before-riding routine, because a hill start with weak brakes is where rental wear shows first.
+Find a quiet incline — a bridge approach early on Sunday morning works — and do five starts with each hand. Check that the brakes feel strong as part of your [The Pre-Ride Safety Check]({{ '/articles/motorbike-safety-checklist-before-riding/' | relative_url }}) routine, because a hill start with weak brakes is where rental wear shows first.

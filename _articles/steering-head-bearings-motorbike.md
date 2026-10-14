@@ -23,7 +23,7 @@ Steering head bearings are the least glamorous part of a motorbike and one of th
 
 ## The symptoms
 
-The classics: a "notch" you can feel through the bars at straight-ahead position; a clunk when the front brake is applied at low speed or when the front suspension loads and unloads; heavy or vague steering; handlebars that do not fall freely from lock to lock. These overlap with the general wobble-and-wander family of problems in motorbike-handling-problems-wobble — the distinguishing test is the one below.
+The classics: a "notch" you can feel through the bars at straight-ahead position; a clunk when the front brake is applied at low speed or when the front suspension loads and unloads; heavy or vague steering; handlebars that do not fall freely from lock to lock. These overlap with the general wobble-and-wander family of problems in [Motorbike Handling Problems: Pulling, Wobble and Heavy Steering]({{ '/articles/motorbike-handling-problems-wobble/' | relative_url }}) — the distinguishing test is the one below.
 
 ## The two-minute tests
 
@@ -31,10 +31,10 @@ With the front wheel off the ground: first, pull the front forks gently toward y
 
 ## Why they die here
 
-Water, humidity and pressure-washing kill head bearings in Vietnam's climate faster than the manual expects. Bikes parked outdoors through rainy seasons, ridden through floods, or washed aggressively are prime candidates. The bearing inspection is a standard part of any serious service — where that sits in the schedule is in motorbike-service-where-vietnam — and the front-end checks are worth pairing with suspension-checks-motorbike-vietnam, since worn forks and worn bearings produce confusingly similar clunks.
+Water, humidity and pressure-washing kill head bearings in Vietnam's climate faster than the manual expects. Bikes parked outdoors through rainy seasons, ridden through floods, or washed aggressively are prime candidates. The bearing inspection is a standard part of any serious service — where that sits in the schedule is in [Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }}) — and the front-end checks are worth pairing with [Front Forks and Suspension Checks on a Motorbike]({{ '/articles/suspension-checks-motorbike-vietnam/' | relative_url }}), since worn forks and worn bearings produce confusingly similar clunks.
 
 ## Fixing it
 
-Replacement means dropping the front wheel and steering stem, pressing out the old races and installing new ones, then adjusting preload properly — no invented torque figures here, the manual's values are the only valid ones. It is precise bench work; a shop that rush-adjusts head bearings leaves you with either the same notch or steering that binds at speed. While the front wheel is off, a good mechanic will also spin-check the wheel bearing — that companion check is wheel-bearings-check-motorbike.
+Replacement means dropping the front wheel and steering stem, pressing out the old races and installing new ones, then adjusting preload properly — no invented torque figures here, the manual's values are the only valid ones. It is precise bench work; a shop that rush-adjusts head bearings leaves you with either the same notch or steering that binds at speed. While the front wheel is off, a good mechanic will also spin-check the wheel bearing — that companion check is [Wheel Bearings: How to Check for Play Before They Fail]({{ '/articles/wheel-bearings-check-motorbike/' | relative_url }}).
 
 Do the two tests a couple of times a year. Notchy steering caught early is a small job; caught late, the dented races take the steering stem's mood with them.

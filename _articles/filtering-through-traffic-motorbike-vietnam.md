@@ -19,7 +19,7 @@ sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
 internal_link_targets: "lane-splitting-legal-vietnam, slow-speed-control-motorbike-vietnam, defensive-riding-motorbike-vietnam, riding-motorbike-blind-spots-vietnam"
 ---
-Filtering — riding between lanes of slow or stopped traffic — is woven into how Vietnamese cities move. Done predictably, it is normal; done recklessly, it is where a large share of city accidents happen. The legal position of lane-splitting is covered in lane-splitting-legal-vietnam; this article is about doing it well.
+Filtering — riding between lanes of slow or stopped traffic — is woven into how Vietnamese cities move. Done predictably, it is normal; done recklessly, it is where a large share of city accidents happen. The legal position of lane-splitting is covered in [Is Lane Splitting Legal in Vietnam]({{ '/articles/lane-splitting-legal-vietnam/' | relative_url }}); this article is about doing it well.
 
 ## Speed differential is the whole game
 
@@ -31,7 +31,7 @@ Ride where drivers expect bikes — along the lane seam — and watch front whee
 
 ## Pick your gaps
 
-Gaps that disappear are the dangerous ones: beside a bus, next to a car drifting within its lane, between a truck and a barrier. If the gap feels tight, wait. Buses and trucks have large blind zones — riding-motorbike-blind-spots-vietnam covers where their drivers cannot see you at all.
+Gaps that disappear are the dangerous ones: beside a bus, next to a car drifting within its lane, between a truck and a barrier. If the gap feels tight, wait. Buses and trucks have large blind zones — [Blind Spots: Riding Around Buses and Trucks in Vietnam]({{ '/articles/riding-motorbike-blind-spots-vietnam/' | relative_url }}) covers where their drivers cannot see you at all.
 
 ## Cover the fundamentals
 

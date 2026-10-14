@@ -28,19 +28,19 @@ A multi-month agreement is a commitment on both sides. The earlier the shop know
 
 ## What to expect
 
-There is no automatic refund entitlement for unused rental time — early return does not carry a built-in payback. What actually happens is agreed with the shop case by case, based on what you arranged. If your agreement was month-by-month (each month renewed ahead of time), shortening is structurally easy: finish the current month and don't renew. If you agreed a fixed multi-month term at a specific rate, shortening it is a renegotiation — see motorbike-rental-agreement-long-term-hanoi for the terms that govern this, and approach it in the same message-based, written-record style as everything else.
+There is no automatic refund entitlement for unused rental time — early return does not carry a built-in payback. What actually happens is agreed with the shop case by case, based on what you arranged. If your agreement was month-by-month (each month renewed ahead of time), shortening is structurally easy: finish the current month and don't renew. If you agreed a fixed multi-month term at a specific rate, shortening it is a renegotiation — see [Long-Term Motorbike Rental Agreements in Hanoi]({{ '/articles/motorbike-rental-agreement-long-term-hanoi/' | relative_url }}) for the terms that govern this, and approach it in the same message-based, written-record style as everything else.
 
 ## The deposit and the return
 
-A shortened rental ends like any other: the return walk-around, condition against the documented handover state, and the deposit returned per the agreement — see how-deposit-returns-work-hanoi. Nothing about shortening changes the deposit mechanics; it only changes the calendar.
+A shortened rental ends like any other: the return walk-around, condition against the documented handover state, and the deposit returned per the agreement — see [How Deposit Returns Work at Hanoi Motorbike Rentals]({{ '/articles/how-deposit-returns-work-hanoi/' | relative_url }}). Nothing about shortening changes the deposit mechanics; it only changes the calendar.
 
 ## Alternatives to cutting it short
 
 Before shortening, check whether the alternatives fit better:
 
 - A pause is not a standard product — but the shop is the place to ask what's possible
-- Switching to a cheaper model for the remaining term instead of ending it — see switching-bikes-mid-rental-hanoi
-- Riding out the current month (if month-to-month) and simply not renewing — see extending-motorbike-rental-hanoi for how renewal windows work
+- Switching to a cheaper model for the remaining term instead of ending it — see [Switching Bikes Mid-Rental in Hanoi]({{ '/articles/switching-bikes-mid-rental-hanoi/' | relative_url }})
+- Riding out the current month (if month-to-month) and simply not renewing — see [Extending or Renewing a Monthly Motorbike Rental in Hanoi]({{ '/articles/extending-motorbike-rental-hanoi/' | relative_url }}) for how renewal windows work
 
 ## The one-line version
 

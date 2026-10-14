@@ -23,7 +23,7 @@ Motorbikes talk constantly — most of it is normal mechanical noise. The skill 
 
 ## The vocabulary of noises
 
-Tick-tick that speeds with the engine: often valve clearances on bikes with adjustable valvetrains, or an exhaust leak — workshop-checkable. Squeal that happens braking: brake pads announcing themselves — brake-checks-motorbike-vietnam covers the full picture. Squeal or clunk from the left side when rolling: chain and sprockets — loose, dry or worn; chain-maintenance-motorbike-vietnam covers it. Rattle from plastic bodywork at idle: usually just panels vibrating, commonly fixed with a hand-tightened screw. Hum that grows with speed, felt as much as heard: tyres or wheel bearings. Knock under acceleration, deep and metallic: engine internals — stop riding and get a mechanic, today.
+Tick-tick that speeds with the engine: often valve clearances on bikes with adjustable valvetrains, or an exhaust leak — workshop-checkable. Squeal that happens braking: brake pads announcing themselves — [Checking Brakes on a Motorbike]({{ '/articles/brake-checks-motorbike-vietnam/' | relative_url }}) covers the full picture. Squeal or clunk from the left side when rolling: chain and sprockets — loose, dry or worn; [Chain Maintenance on a Motorbike in Vietnam]({{ '/articles/chain-maintenance-motorbike-vietnam/' | relative_url }}) covers it. Rattle from plastic bodywork at idle: usually just panels vibrating, commonly fixed with a hand-tightened screw. Hum that grows with speed, felt as much as heard: tyres or wheel bearings. Knock under acceleration, deep and metallic: engine internals — stop riding and get a mechanic, today.
 
 ## The reading method
 
@@ -31,11 +31,11 @@ Find when it happens: at idle only, with revs, while braking, on bumps, on corne
 
 ## When a noise means park it
 
-Metallic knocking, any grinding, a screech with smoke, or a noise joined by a new vibration or a warning light: stop. Continued riding is how noise becomes damage. What to do next on a rental — reporting it to the shop rather than self-diagnosing — is covered in rental-motorbike-feels-wrong.
+Metallic knocking, any grinding, a screech with smoke, or a noise joined by a new vibration or a warning light: stop. Continued riding is how noise becomes damage. What to do next on a rental — reporting it to the shop rather than self-diagnosing — is covered in [What to Do If Your Rental Motorbike Does Not Feel Normal]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}).
 
 ## The honest limits
 
-Ear diagnosis narrows a problem to a system, not a part. A mechanic with the bike in front of them finishes the job — motorbike-service-where-vietnam covers finding one worth trusting.
+Ear diagnosis narrows a problem to a system, not a part. A mechanic with the bike in front of them finishes the job — [Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }}) covers finding one worth trusting.
 
 ## The one-line version
 

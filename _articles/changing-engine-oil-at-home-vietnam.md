@@ -23,9 +23,9 @@ An oil change is the one service nearly every rider can do at home with three to
 
 ## What you need
 
-- The **correct oil**: grade and quantity per the owner's manual — choosing the right oil is its own article in choosing-engine-oil-motorbike-vietnam.
+- The **correct oil**: grade and quantity per the owner's manual — choosing the right oil is its own article in [Choosing Engine Oil for Your Motorbike in Vietnam]({{ '/articles/choosing-engine-oil-motorbike-vietnam/' | relative_url }}).
 - A **drain-plug spanner** of the right size (often a socket or Allen key; check before starting), an **oil drain tray**, a **funnel**, a **rag**, and a **new crush washer** for the drain plug — the most-skipped, most-useful part of the job: the washer seals, and reusing a crushed washer is how slow leaks start.
-- A flat patch of ground. In apartment Vietnam this often means the pavement or a quiet corner — the practicalities of wrenching without a garage are in maintaining-motorbike-without-garage.
+- A flat patch of ground. In apartment Vietnam this often means the pavement or a quiet corner — the practicalities of wrenching without a garage are in [Maintaining a Motorbike Without a Garage]({{ '/articles/maintaining-motorbike-without-garage/' | relative_url }}).
 
 ## The procedure
 
@@ -33,7 +33,7 @@ An oil change is the one service nearly every rider can do at home with three to
 2. **Position the tray and remove the drain plug.** Loosen slowly, then spin out by hand against light pressure so the last turn does not dump oil on your hand. Let it drain fully — ten patient minutes beats two rushed ones.
 3. **Inspect the plug.** Metal fur on a magnetic plug is normal in trace; flakes and chips are a future mechanic conversation.
 4. **Refit the plug with a new crush washer**, tightened sensibly — snug, not gorilla-tight; the manual gives a torque figure if you have a torque wrench. Never over-tighten: stripped sump threads are a repair far exceeding the price of a washer.
-5. **Refill with the manual's exact quantity** through the filler. Do not guess and do not "top a bit extra for luck" — overfilling foams oil and blows seals; the level-check discipline is in checking-engine-oil-motorbike.
+5. **Refill with the manual's exact quantity** through the filler. Do not guess and do not "top a bit extra for luck" — overfilling foams oil and blows seals; the level-check discipline is in [Checking Engine Oil on a Motorbike]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }}).
 6. **Check level, check for leaks.** Run the engine a minute, look at the plug area, check the level again after settling, adjust if needed.
 
 ## Cleanup and disposal
@@ -42,4 +42,4 @@ Used oil does not go into drains, soil, or the household bin. Vietnamese repair 
 
 ## The honest limits
 
-Home oil changes do not replace periodic servicing: valve checks, brake inspections and bearing work still belong to a proper shop on the schedule — the timing logic is in motorbike-service-when-vietnam. But between services, the ritual of a clean drain, a correct refill and a washer renewed is what keeps Vietnamese engines alive for decades instead of seasons.
+Home oil changes do not replace periodic servicing: valve checks, brake inspections and bearing work still belong to a proper shop on the schedule — the timing logic is in [When to Service a Motorbike in Vietnam]({{ '/articles/motorbike-service-when-vietnam/' | relative_url }}). But between services, the ritual of a clean drain, a correct refill and a washer renewed is what keeps Vietnamese engines alive for decades instead of seasons.

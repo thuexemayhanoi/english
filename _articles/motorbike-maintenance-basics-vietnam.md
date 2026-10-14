@@ -23,19 +23,19 @@ Vietnamese riding conditions are hard on motorbikes: heat, monsoon humidity, dus
 
 ## The four things that matter
 
-Tyres, chain, brakes and oil. They fail in that order of frequency and roughly that order of cost. Tyre-care-motorbike-vietnam and chain-maintenance-motorbike-vietnam cover the first two in depth; brake-checks-motorbike-vietnam and checking-engine-oil-motorbike cover the others.
+Tyres, chain, brakes and oil. They fail in that order of frequency and roughly that order of cost. Tyre-care-motorbike-vietnam and [Chain Maintenance on a Motorbike in Vietnam]({{ '/articles/chain-maintenance-motorbike-vietnam/' | relative_url }}) cover the first two in depth; [Checking Brakes on a Motorbike]({{ '/articles/brake-checks-motorbike-vietnam/' | relative_url }}) and [Checking Engine Oil on a Motorbike]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }}) cover the others.
 
 ## What the climate adds
 
-Humidity rusts chains, cables and fasteners faster than in dry climates, and monsoon flooding drowns anything low. Heat makes engines run hotter in traffic and degrades oil faster in stop-start use. The practical result: in Vietnam, "keep it clean and check it often" is not a slogan, it is the maintenance plan. Cleaning-motorbike-properly-vietnam covers the washing side, and motorcycle-rust-prevention-vietnam the corrosion battle.
+Humidity rusts chains, cables and fasteners faster than in dry climates, and monsoon flooding drowns anything low. Heat makes engines run hotter in traffic and degrades oil faster in stop-start use. The practical result: in Vietnam, "keep it clean and check it often" is not a slogan, it is the maintenance plan. Cleaning-motorbike-properly-vietnam covers the washing side, and [Preventing Rust on a Motorbike in Vietnam]({{ '/articles/motorcycle-rust-prevention-vietnam/' | relative_url }}) the corrosion battle.
 
 ## Who does what
 
-On your own bike, you do the look-checks weekly (motorbike-safety-checklist-before-riding covers the routine) and a workshop handles oil changes, chain adjustment and brake work. On a rental, the split is set by the shop's policy: maintenance-during-monthly-rental-hanoi explains which side covers what on a long-term rental, and what-is-included-motorbike-rental-hanoi covers the standard daily-rental picture.
+On your own bike, you do the look-checks weekly ([The Pre-Ride Safety Check]({{ '/articles/motorbike-safety-checklist-before-riding/' | relative_url }}) covers the routine) and a workshop handles oil changes, chain adjustment and brake work. On a rental, the split is set by the shop's policy: [Maintenance During a Monthly Motorbike Rental in Hanoi]({{ '/articles/maintenance-during-monthly-rental-hanoi/' | relative_url }}) explains which side covers what on a long-term rental, and [What Is Included in a Hanoi Motorbike Rental?]({{ '/articles/what-is-included-motorbike-rental-hanoi/' | relative_url }}) covers the standard daily-rental picture.
 
 ## Intervals without numbers
 
-Every manufacturer sets service intervals for its own models, and rental shops set their own maintenance rhythm. For owners: follow the manual's schedule, not a general article's — motorbike-service-when-vietnam covers reading that schedule honestly. For renters: the shop's maintenance is part of the deal — your job is reporting changes early, not servicing the bike yourself.
+Every manufacturer sets service intervals for its own models, and rental shops set their own maintenance rhythm. For owners: follow the manual's schedule, not a general article's — [When to Service a Motorbike in Vietnam]({{ '/articles/motorbike-service-when-vietnam/' | relative_url }}) covers reading that schedule honestly. For renters: the shop's maintenance is part of the deal — your job is reporting changes early, not servicing the bike yourself.
 
 ## The one-line version
 

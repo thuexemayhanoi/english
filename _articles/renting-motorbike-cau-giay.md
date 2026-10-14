@@ -24,23 +24,23 @@ Cau Giay, Hanoi's modern western district, is where the city's new face lives: w
 
 ## Traffic character
 
-The main arteries (Pham Hung, Cau Giay, Tran Duy Hung, the extended Thang Long direction) are multi-lane and fast by Hanoi standards, with separated lanes, overpasses and long signal cycles. The riding skills that matter here are the big-road ones: merging at speed, keeping out of bus lanes (motorbike-bus-lanes-vietnam explains the rules), and holding a line through fast traffic — the urban speed limits are in motorbike-speed-limits-vietnam. Signal jumps here are longer, which means the red-light discipline in red-light-fine-vietnam has real cost when ignored.
+The main arteries (Pham Hung, Cau Giay, Tran Duy Hung, the extended Thang Long direction) are multi-lane and fast by Hanoi standards, with separated lanes, overpasses and long signal cycles. The riding skills that matter here are the big-road ones: merging at speed, keeping out of bus lanes ([Can Motorbikes Use Bus Lanes in Vietnam]({{ '/articles/motorbike-bus-lanes-vietnam/' | relative_url }}) explains the rules), and holding a line through fast traffic — the urban speed limits are in [Speed Limits for Motorbikes in Vietnam]({{ '/articles/motorbike-speed-limits-vietnam/' | relative_url }}). Signal jumps here are longer, which means the red-light discipline in [Running a Red Light: The Fine in Vietnam]({{ '/articles/red-light-fine-vietnam/' | relative_url }}) has real cost when ignored.
 
 ## The district's two crowds
 
-Office traffic floods Pham Hung and Tran Duy Hung at rush hour; university traffic (National University campuses, the Thai Thinh corridor) gives the district a younger, denser two-wheel flow at class-change hours. Student riders renting for the semester should start with best-motorbike-for-students-hanoi and the licence situation in foreign-student-motorbike-licence-vietnam.
+Office traffic floods Pham Hung and Tran Duy Hung at rush hour; university traffic (National University campuses, the Thai Thinh corridor) gives the district a younger, denser two-wheel flow at class-change hours. Student riders renting for the semester should start with [Best Motorbike for Students in Hanoi]({{ '/articles/best-motorbike-for-students-hanoi/' | relative_url }}) and the licence situation in [Can Foreign Students Get a Vietnamese Motorbike Licence]({{ '/articles/foreign-student-motorbike-licence-vietnam/' | relative_url }}).
 
 ## Parking, the easy version
 
-Cau Giay has many organised parking options around its malls, office towers and campuses, though availability and conditions vary by location: mega-malls with large attended motorbike lots, office-tower basements, and organised campus lots. The general rules are in where-to-park-motorbike-hanoi; in this district, the mall lot is often a convenient default.
+Cau Giay has many organised parking options around its malls, office towers and campuses, though availability and conditions vary by location: mega-malls with large attended motorbike lots, office-tower basements, and organised campus lots. The general rules are in [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}); in this district, the mall lot is often a convenient default.
 
 ## Renting for Cau Giay
 
-Nguyen Tu is based in Long Bien, across the city from Cau Giay; delivery may be arranged depending on location and prior arrangement during opening hours (09:00–21:00) — see motorbike-rental-pickup-or-delivery-hanoi. For daily commuting from Cau Giay, a monthly rental with an agreed delivery or pickup arrangement is the practical pattern. Monthly rates and the commuting bike logic are in daily-weekly-monthly-motorbike-rental-hanoi and best-motorbike-for-commuting-hanoi.
+Nguyen Tu is based in Long Bien, across the city from Cau Giay; delivery may be arranged depending on location and prior arrangement during opening hours (09:00–21:00) — see [Shop Pickup vs Delivery When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}). For daily commuting from Cau Giay, a monthly rental with an agreed delivery or pickup arrangement is the practical pattern. Monthly rates and the commuting bike logic are in [Daily, Weekly or Monthly Motorbike Rental in Hanoi: How to Choose]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}) and [Best Motorbike for Commuting in Hanoi]({{ '/articles/best-motorbike-for-commuting-hanoi/' | relative_url }}).
 
 ## Weekend use
 
-From Cau Giay, the quick escapes run west: Hoa Lac direction, the Thang Long boulevard ride, and connections toward Son Tay and Ba Vi for full days out — see best-motorbike-for-day-trips-from-hanoi for route planning, and rental-motorbike-outside-hanoi for what to agree with the shop first.
+From Cau Giay, the quick escapes run west: Hoa Lac direction, the Thang Long boulevard ride, and connections toward Son Tay and Ba Vi for full days out — see [Best Motorbike for Day Trips from Hanoi]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }}) for route planning, and [Can You Take a Rental Motorbike Outside Hanoi?]({{ '/articles/rental-motorbike-outside-hanoi/' | relative_url }}) for what to agree with the shop first.
 
 ## The one-line version
 

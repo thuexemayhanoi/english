@@ -28,19 +28,19 @@ Petrol stations in Vietnam commonly sell RON95 (often labelled A95) as the stand
 
 ## Where and when to buy
 
-Petrol stations (cây xăng) are everywhere in Hanoi, mostly major-brand forecourts with attendants who fill for you. State the amount in dong or say "đầy" (full). Stations get crowded at rush hour and can be scarce on rural stretches outside the city, so on any day trip out of Hanoi, top up before you leave town rather than gambling on the next station — see best-motorbike-for-day-trips-from-hanoi for planning.
+Petrol stations (cây xăng) are everywhere in Hanoi, mostly major-brand forecourts with attendants who fill for you. State the amount in dong or say "đầy" (full). Stations get crowded at rush hour and can be scarce on rural stretches outside the city, so on any day trip out of Hanoi, top up before you leave town rather than gambling on the next station — see [Best Motorbike for Day Trips from Hanoi]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }}) for planning.
 
 ## How to use the pump
 
-You stay on the bike or dismount, either is fine. Attendants handle the nozzle; just open your seat or your filler cap. Petrol caps on underbones are often under the seat or on the frame — check during your handover inspection (rental-motorbike-inspection-checklist) so you are not hunting for it on a dark roadside later. Pay cash or QR; most pumps take both.
+You stay on the bike or dismount, either is fine. Attendants handle the nozzle; just open your seat or your filler cap. Petrol caps on underbones are often under the seat or on the frame — check during your handover inspection ([Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }})) so you are not hunting for it on a dark roadside later. Pay cash or QR; most pumps take both.
 
 ## Agree the fuel rule with the shop
 
-Most Hanoi rentals hand over the bike with some fuel and expect it back with some fuel — exact expectations vary, so ask at handover and note what was agreed. Do not plan to return it empty; stations near your drop-off are easy to find. The general policy picture is in motorbike-rental-fuel-policy-hanoi.
+Most Hanoi rentals hand over the bike with some fuel and expect it back with some fuel — exact expectations vary, so ask at handover and note what was agreed. Do not plan to return it empty; stations near your drop-off are easy to find. The general policy picture is in [Fuel Policy When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-fuel-policy-hanoi/' | relative_url }}).
 
 ## Consumption, roughly
 
-Small automatics and underbones use roughly 1.5–2.5 litres per 100 km depending on load and city stop-start riding. Fuel is inexpensive relative to rental price, so even a full week of commuting costs less than a single day's rental — see motorbike-rental-price-hanoi for the published rates. Rough figures vary by model and conditions; treat them as planning aids, not specifications.
+Small automatics and underbones use roughly 1.5–2.5 litres per 100 km depending on load and city stop-start riding. Fuel is inexpensive relative to rental price, so even a full week of commuting costs less than a single day's rental — see [How Much Does It Cost to Rent a Motorbike in Hanoi?]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) for the published rates. Rough figures vary by model and conditions; treat them as planning aids, not specifications.
 
 ## One habit worth forming
 

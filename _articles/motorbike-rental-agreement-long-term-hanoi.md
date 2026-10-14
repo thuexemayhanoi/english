@@ -20,16 +20,16 @@ sources:
 internal_link_targets: "motorbike-rental-agreement-hanoi, maintenance-during-monthly-rental-hanoi, motorbike-rental-deposit-monthly-hanoi, shortening-long-motorbike-rental-hanoi, monthly-motorbike-rental-hanoi"
 ---
 
-Every rental has an agreement; a long-term rental has one that deserves to be taken seriously, because every term in it operates for weeks or months instead of days. The general agreement basics are in motorbike-rental-agreement-hanoi — this is the long-term layer.
+Every rental has an agreement; a long-term rental has one that deserves to be taken seriously, because every term in it operates for weeks or months instead of days. The general agreement basics are in [Understanding a Motorbike Rental Agreement in Hanoi]({{ '/articles/motorbike-rental-agreement-hanoi/' | relative_url }}) — this is the long-term layer.
 
 ## The terms that only matter at month scale
 
-- Maintenance schedule: the shop's included maintenance (oil, chain, tyre pressure, inspection) is part of a long-term deal; agree how and when visits happen — see maintenance-during-monthly-rental-hanoi
-- Consumables: tubes and tyres may be the renter's responsibility depending on the situation — the single most common long-term ambiguity, so get it in writing (consumables-monthly-rental-hanoi)
-- Usage scope: commute-only or trips outside Hanoi — agree it, per rental-motorbike-outside-hanoi
-- Riders: who may ride the bike; only the licensed rider agreed with the shop (lending-motorbike-unlicensed-rider-vietnam covers the legal stakes)
-- Deposit over the term: the band (typically 2,000,000–5,000,000 VND) and the return standard — motorbike-rental-deposit-monthly-hanoi
-- Renewal and exit: notice expectations, renewal rate basis (extending-motorbike-rental-hanoi), and the no-automatic-refund reality of early ending (shortening-long-motorbike-rental-hanoi, early-return-monthly-rental-hanoi)
+- Maintenance schedule: the shop's included maintenance (oil, chain, tyre pressure, inspection) is part of a long-term deal; agree how and when visits happen — see [Maintenance During a Monthly Motorbike Rental in Hanoi]({{ '/articles/maintenance-during-monthly-rental-hanoi/' | relative_url }})
+- Consumables: tubes and tyres may be the renter's responsibility depending on the situation — the single most common long-term ambiguity, so get it in writing ([Tyres, Tubes and Consumables on a Long-Term Rental]({{ '/articles/consumables-monthly-rental-hanoi/' | relative_url }}))
+- Usage scope: commute-only or trips outside Hanoi — agree it, per [Can You Take a Rental Motorbike Outside Hanoi?]({{ '/articles/rental-motorbike-outside-hanoi/' | relative_url }})
+- Riders: who may ride the bike; only the licensed rider agreed with the shop ([Lending Your Motorbike to an Unlicensed Rider in Vietnam]({{ '/articles/lending-motorbike-unlicensed-rider-vietnam/' | relative_url }}) covers the legal stakes)
+- Deposit over the term: the band (typically 2,000,000–5,000,000 VND) and the return standard — [Deposits for Monthly Motorbike Rental in Hanoi]({{ '/articles/motorbike-rental-deposit-monthly-hanoi/' | relative_url }})
+- Renewal and exit: notice expectations, renewal rate basis ([Extending or Renewing a Monthly Motorbike Rental in Hanoi]({{ '/articles/extending-motorbike-rental-hanoi/' | relative_url }})), and the no-automatic-refund reality of early ending ([Shortening a Long Motorbike Rental in Hanoi]({{ '/articles/shortening-long-motorbike-rental-hanoi/' | relative_url }}), [Ending a Monthly Motorbike Rental Early]({{ '/articles/early-return-monthly-rental-hanoi/' | relative_url }}))
 
 ## Structure: fixed-term or rolling
 
@@ -41,7 +41,7 @@ The Hanoi-practical standard: the spoken agreement at handover, then a one-messa
 
 ## When terms need updating
 
-An agreement made in month one can drift from reality by month three: a new address (moving-address-during-rental-hanoi), a different bike (switching-bikes-mid-rental-hanoi), a licence about to expire (licence-expiry-during-long-rental-hanoi). Update the record by message when facts change — an agreement is a living document, not a one-time event.
+An agreement made in month one can drift from reality by month three: a new address ([Moving House During a Motorbike Rental in Hanoi]({{ '/articles/moving-address-during-rental-hanoi/' | relative_url }})), a different bike ([Switching Bikes Mid-Rental in Hanoi]({{ '/articles/switching-bikes-mid-rental-hanoi/' | relative_url }})), a licence about to expire ([When Your Licence or Visa Expires Mid-Rental in Hanoi]({{ '/articles/licence-expiry-during-long-rental-hanoi/' | relative_url }})). Update the record by message when facts change — an agreement is a living document, not a one-time event.
 
 ## The one-line version
 

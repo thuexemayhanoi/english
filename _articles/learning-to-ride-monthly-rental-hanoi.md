@@ -25,11 +25,11 @@ A monthly rental can be a sensible way to build riding skill across weeks instea
 
 ## Licence reality while you learn
 
-In Vietnam you need the correct licence to ride on public roads, even while learning. Riding without a licence carries fines and possible vehicle impoundment — the specifics are in no-licence-fine-vietnam and renting-a-motorbike-hanoi-without-licence. There is no legal "learner" exception for the streets. Practise legally: off-road or quiet private areas for the first hours, and only street riding once you hold the right licence for the bike.
+In Vietnam you need the correct licence to ride on public roads, even while learning. Riding without a licence carries fines and possible vehicle impoundment — the specifics are in [The Fine for Riding Without a Licence in Vietnam]({{ '/articles/no-licence-fine-vietnam/' | relative_url }}) and [Renting a Motorbike in Hanoi Without a Licence: The Real Risks]({{ '/articles/renting-a-motorbike-hanoi-without-licence/' | relative_url }}). There is no legal "learner" exception for the streets. Practise legally: off-road or quiet private areas for the first hours, and only street riding once you hold the right licence for the bike.
 
 ## Choosing a learning bike
 
-If you are renting for a month to build skill, pick a light, forgiving machine — easiest-motorbikes-for-beginners-hanoi compares what new riders actually manage well. An automatic removes one whole skill (gears and clutch) from the learning load; automatic-or-semi-automatic-monthly-hanoi covers that trade-off for long rentals.
+If you are renting for a month to build skill, pick a light, forgiving machine — [Easiest Motorbikes for Beginner Riders in Hanoi]({{ '/articles/easiest-motorbikes-for-beginners-hanoi/' | relative_url }}) compares what new riders actually manage well. An automatic removes one whole skill (gears and clutch) from the learning load; [Automatic or Semi-Automatic for a Monthly Rental in Hanoi]({{ '/articles/automatic-or-semi-automatic-monthly-hanoi/' | relative_url }}) covers that trade-off for long rentals.
 
 ## A month-long learning path
 
@@ -37,7 +37,7 @@ Week one: controls, slow-speed balance and braking in empty spaces, early mornin
 
 ## Why a month helps
 
-Short rentals push learners onto busy roads too fast. A month lets skill develop before you filter between buses in rush hour. Combine it with the weekly check routine in monthly-rental-inspection-schedule-hanoi so you also learn how a healthy bike should feel — new riders who know "normal" notice problems earlier.
+Short rentals push learners onto busy roads too fast. A month lets skill develop before you filter between buses in rush hour. Combine it with the weekly check routine in [A Month with a Rental Motorbike: Inspection and Check Routine]({{ '/articles/monthly-rental-inspection-schedule-hanoi/' | relative_url }}) so you also learn how a healthy bike should feel — new riders who know "normal" notice problems earlier.
 
 ## The one-line version
 

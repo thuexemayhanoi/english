@@ -23,9 +23,9 @@ A battery that goes flat while the bike sits overnight is different from one tha
 
 ## Rule out the boring explanations first
 
-- **A battery simply at end of life.** Batteries fade; a battery that has survived several Vietnamese summers and floods may just be done. The replacement decision is in choosing-replacement-battery-motorbike-vietnam.
-- **A light left on.** A brake light held on by a stuck switch, a forgotten accessory, a phone charger left plugged in — the top cause, free to fix. Brake-light switch troubleshooting is in brake-light-indicator-repair-motorbike.
-- **Charging that only pretends.** A weak charging system leaves the battery partly full every ride; parking starts the next morning already behind. The charging-system story is in charging-system-stator-basics-motorbike.
+- **A battery simply at end of life.** Batteries fade; a battery that has survived several Vietnamese summers and floods may just be done. The replacement decision is in [Choosing a Replacement Motorbike Battery in Vietnam]({{ '/articles/choosing-replacement-battery-motorbike-vietnam/' | relative_url }}).
+- **A light left on.** A brake light held on by a stuck switch, a forgotten accessory, a phone charger left plugged in — the top cause, free to fix. Brake-light switch troubleshooting is in [Fixing a Failed Brake Light or Indicator on a Motorbike]({{ '/articles/brake-light-indicator-repair-motorbike/' | relative_url }}).
+- **Charging that only pretends.** A weak charging system leaves the battery partly full every ride; parking starts the next morning already behind. The charging-system story is in [Charging System Basics: The Stator and Regulator]({{ '/articles/charging-system-stator-basics-motorbike/' | relative_url }}).
 
 ## The parasitic drain
 
@@ -33,18 +33,18 @@ With everything switched off, a healthy bike draws a tiny current for things lik
 
 ## Testing honestly
 
-The clean test is a multimeter set to amps, in series with the battery's negative cable: remove the negative lead, meter between the post and the lead, everything off. A reading far above the bike's specified standby draw means a drain exists. Then pull fuses one at a time (with the meter still in series) until the draw collapses — the fuse that kills it marks the guilty circuit. That circuit gets inspected: chafed wiring, wet connectors, a stuck accessory relay. Before all this, a fully charged battery is needed — testing a flat battery confuses every result. Care basics are in battery-care-motorbike-vietnam.
+The clean test is a multimeter set to amps, in series with the battery's negative cable: remove the negative lead, meter between the post and the lead, everything off. A reading far above the bike's specified standby draw means a drain exists. Then pull fuses one at a time (with the meter still in series) until the draw collapses — the fuse that kills it marks the guilty circuit. That circuit gets inspected: chafed wiring, wet connectors, a stuck accessory relay. Before all this, a fully charged battery is needed — testing a flat battery confuses every result. Care basics are in [Battery Care on a Motorbike]({{ '/articles/battery-care-motorbike-vietnam/' | relative_url }}).
 
 ## Vietnam-specific accelerators
 
-- **Flooded streets.** Water in connectors and switch blocks creates leakage paths that dry out slowly — or never. The connector-side defence is in wiring-connectors-humidity-motorbike.
+- **Flooded streets.** Water in connectors and switch blocks creates leakage paths that dry out slowly — or never. The connector-side defence is in [Protecting Wiring and Connectors from Humidity on a Motorbike]({{ '/articles/wiring-connectors-humidity-motorbike/' | relative_url }}).
 - **Aftermarket wiring.** Alarm systems, USB chargers and lights wired straight to the battery without a switched feed are prime suspects. Anything added to the bike is suspect number one when drains appear.
-- **Long parking.** Even a healthy battery self-discharges over weeks; a drain that would take days to matter takes a bike from "fine" to "flat" in one long holiday. The storage-side routine is in maintaining-motorbike-you-rarely-ride.
+- **Long parking.** Even a healthy battery self-discharges over weeks; a drain that would take days to matter takes a bike from "fine" to "flat" in one long holiday. The storage-side routine is in [Maintaining a Motorbike You Rarely Ride]({{ '/articles/maintaining-motorbike-you-rarely-ride/' | relative_url }}).
 
 ## What a multimeter cannot tell you
 
-An intermittent drain — one that appears only in rain, or after a hot day — is the hard case, and honest shops solve it with the bike kept until it repeats. Do not let anyone sell you a new battery for a drain that has not been found: the new battery will enjoy exactly the same fate, at your expense, twice. The roadside flat-battery scenario is covered in dead-battery-motorbike-vietnam.
+An intermittent drain — one that appears only in rain, or after a hot day — is the hard case, and honest shops solve it with the bike kept until it repeats. Do not let anyone sell you a new battery for a drain that has not been found: the new battery will enjoy exactly the same fate, at your expense, twice. The roadside flat-battery scenario is covered in [A Dead Battery: Recovering a Motorbike That Won't Start]({{ '/articles/dead-battery-motorbike-vietnam/' | relative_url }}).
 
 ## The habit that ends the drama
 
-For a bike parked regularly: a maintenance charger when parked long, all accessories switched or unplugged, and a monthly voltage check. Simple electrics hygiene — clean grounds and dry connectors, per simple-electrical-faults-horn-switches-fuses — prevents most of the sneaky failures that get blamed on "bad batteries".
+For a bike parked regularly: a maintenance charger when parked long, all accessories switched or unplugged, and a monthly voltage check. Simple electrics hygiene — clean grounds and dry connectors, per [Simple Electrical Faults: Horns, Switches and Fuses]({{ '/articles/simple-electrical-faults-horn-switches-fuses/' | relative_url }}) — prevents most of the sneaky failures that get blamed on "bad batteries".

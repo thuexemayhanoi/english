@@ -27,15 +27,15 @@ Enter the corner slower than feels necessary, then look through the turn at wher
 
 ## Assume the corner hides something
 
-On rural roads, treat every blind corner as if it contains a parked truck, a pothole or a dog. Brake before the corner, not in it, and keep to your side — wrong-way riding is heavily fined and is genuinely deadly on bends, as wrong-way-riding-fine-vietnam explains for the legal side. Sand and gravel collect at the inside of corners after rain; gravel-roads-motorbike-vietnam covers riding on loose surfaces.
+On rural roads, treat every blind corner as if it contains a parked truck, a pothole or a dog. Brake before the corner, not in it, and keep to your side — wrong-way riding is heavily fined and is genuinely deadly on bends, as [Wrong-Way Riding in Vietnam: The Fine and Why It Is Dangerous]({{ '/articles/wrong-way-riding-fine-vietnam/' | relative_url }}) explains for the legal side. Sand and gravel collect at the inside of corners after rain; [Riding on Gravel and Loose Surfaces on a Motorbike]({{ '/articles/gravel-roads-motorbike-vietnam/' | relative_url }}) covers riding on loose surfaces.
 
 ## Cornering in the city
 
-In Hanoi, corners are mostly intersections. Slow down for every junction, cover the brakes, and expect a car to turn across you from either direction — right-turn-on-red-vietnam shows how unusual some of these movements are to foreign riders.
+In Hanoi, corners are mostly intersections. Slow down for every junction, cover the brakes, and expect a car to turn across you from either direction — [Right Turn on Red in Vietnam: When It Is Allowed]({{ '/articles/right-turn-on-red-vietnam/' | relative_url }}) shows how unusual some of these movements are to foreign riders.
 
 ## Wet and painted lines
 
-Painted road markings, metal manhole covers and smooth asphalt patches are all slippery when wet. Reduce lean angle on wet corners and avoid braking over these surfaces; riding-motorbike-heavy-rain-vietnam covers the wider wet-weather picture.
+Painted road markings, metal manhole covers and smooth asphalt patches are all slippery when wet. Reduce lean angle on wet corners and avoid braking over these surfaces; [Riding a Motorbike in Heavy Rain in Vietnam]({{ '/articles/riding-motorbike-heavy-rain-vietnam/' | relative_url }}) covers the wider wet-weather picture.
 
 ## The one-line version
 

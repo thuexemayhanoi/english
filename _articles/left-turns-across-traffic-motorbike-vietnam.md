@@ -35,8 +35,8 @@ If the stream is continuous, cross to the median or centre of the road first, st
 
 ## Straighten before you accelerate
 
-Once you are turning, keep the arc wide and steady, then straighten and add throttle. Accelerating while still leaning unsettles the bike — cornering-motorbike-vietnam explains the principle.
+Once you are turning, keep the arc wide and steady, then straighten and add throttle. Accelerating while still leaning unsettles the bike — [Cornering a Motorbike Well in Vietnam]({{ '/articles/cornering-motorbike-vietnam/' | relative_url }}) explains the principle.
 
 ## Know the rules underneath
 
-Right-turn and lane rules differ from what many foreign licences teach; right-turn-on-red-vietnam and motorbike-lane-rules-vietnam cover the legal baseline. Junction technique overall, including roundabouts, is in roundabouts-motorbike-vietnam.
+Right-turn and lane rules differ from what many foreign licences teach; [Right Turn on Red in Vietnam: When It Is Allowed]({{ '/articles/right-turn-on-red-vietnam/' | relative_url }}) and [Motorbike Lane Rules in Vietnam]({{ '/articles/motorbike-lane-rules-vietnam/' | relative_url }}) cover the legal baseline. Junction technique overall, including roundabouts, is in [Roundabouts and Junctions on a Motorbike in Vietnam]({{ '/articles/roundabouts-motorbike-vietnam/' | relative_url }}).

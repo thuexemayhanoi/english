@@ -31,18 +31,18 @@ The first diagnostic question: does the vibration rise with **road speed** or wi
 
 ## The road-speed suspects
 
-- **Unbalanced wheel or new tyre.** The balancing rules are in tyre-valves-wheel-balancing-motorbike; vibration that appeared right after a tyre change is almost always balance or seating.
+- **Unbalanced wheel or new tyre.** The balancing rules are in [Tyre Valves and Wheel Balancing]({{ '/articles/tyre-valves-wheel-balancing-motorbike/' | relative_url }}); vibration that appeared right after a tyre change is almost always balance or seating.
 - **Tyre defect.** A cupped, scalloped tread or a separated carcass creates a buzz with a road-speed signature. Run a flat palm over the tread for ridges.
 - **Bent rim.** Hitting a Hanoi pothole at speed dents rims; watch the wheel spin for side-to-side wobble at the rim, not the tyre.
-- **Dragging brake.** A sticking caliper buzzes at road speed and heats the disc — the drag diagnosis is in sticking-brakes-caliper-cleaning.
-- **Loose steering or wheel bearings** turn vibration into a wobble that also appears in cornering; the full handling-side sorting is in motorbike-handling-problems-wobble.
+- **Dragging brake.** A sticking caliper buzzes at road speed and heats the disc — the drag diagnosis is in [Sticking Brakes: Cleaning Calipers and Sliding Pins]({{ '/articles/sticking-brakes-caliper-cleaning/' | relative_url }}).
+- **Loose steering or wheel bearings** turn vibration into a wobble that also appears in cornering; the full handling-side sorting is in [Motorbike Handling Problems: Pulling, Wobble and Heavy Steering]({{ '/articles/motorbike-handling-problems-wobble/' | relative_url }}).
 
 ## The engine-speed suspects
 
 - **Engine mounts.** A loose or perished mounting bolt lets the engine's inherent shake reach the frame directly. Check mount bolts to torque specs and rubber bushes for cracks.
 - **Bar-end weights and grips.** Many bikes have tuned mass in the bar ends; a missing weight after a fall changes the bar's resonance noticeably.
-- **Rider comfort parts.** Worn grips, a loose mirror stem or a buzzing windshield bolt each add their own note — the general noise-sorting method is in diagnosing-motorbike-noises-vietnam.
-- **Internals.** A vibration that arrived with a new noise, or after a fall — see checking-motorbike-after-fall-accident — should not be ridden far.
+- **Rider comfort parts.** Worn grips, a loose mirror stem or a buzzing windshield bolt each add their own note — the general noise-sorting method is in [Diagnosing Motorbike Noises: A Rider's Guide]({{ '/articles/diagnosing-motorbike-noises-vietnam/' | relative_url }}).
+- **Internals.** A vibration that arrived with a new noise, or after a fall — see [What to Check Mechanically After a Fall]({{ '/articles/checking-motorbike-after-fall-accident/' | relative_url }}) — should not be ridden far.
 
 ## Fixes that actually work
 

@@ -24,7 +24,7 @@ For a weekend rental, the automatic-versus-semi-automatic question is mostly abo
 
 ## How they differ
 
-An automatic scooter has no gears — twist and go, with storage under the seat. A semi-automatic has gears you shift with a foot lever but no hand clutch, so it is easier than a full manual. The general comparison, including manual bikes, is in scooter-vs-semi-automatic-hanoi and automatic-vs-manual-motorbike-hanoi.
+An automatic scooter has no gears — twist and go, with storage under the seat. A semi-automatic has gears you shift with a foot lever but no hand clutch, so it is easier than a full manual. The general comparison, including manual bikes, is in [Scooter vs Semi-Automatic Motorcycle for Hanoi Riding]({{ '/articles/scooter-vs-semi-automatic-hanoi/' | relative_url }}) and [Automatic vs Semi-Automatic vs Manual: Which Bike to Rent in Hanoi]({{ '/articles/automatic-vs-manual-motorbike-hanoi/' | relative_url }}).
 
 ## The long-term case for automatic
 
@@ -36,7 +36,7 @@ Semi-automatics are typically lighter, simpler mechanically, more fuel-efficient
 
 ## Maintenance across a month
 
-Both follow the same rental maintenance rules — oil, chain (semi-automatics), tyre pressure and inspection from the shop side, as in maintenance-during-monthly-rental-hanoi. Automatics add a CVT belt system that the shop, not you, worries about.
+Both follow the same rental maintenance rules — oil, chain (semi-automatics), tyre pressure and inspection from the shop side, as in [Maintenance During a Monthly Motorbike Rental in Hanoi]({{ '/articles/maintenance-during-monthly-rental-hanoi/' | relative_url }}). Automatics add a CVT belt system that the shop, not you, worries about.
 
 ## The one-line version
 

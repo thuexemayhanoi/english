@@ -28,16 +28,16 @@ Road paint (crossings, arrows, lane lines), steel plates and manhole covers, gla
 
 ## Cross them like ice
 
-Upright bike, steady speed, no brakes, no throttle change, no lean. If a slick patch sits mid-corner, hold the lean you have — do not add brake. This is the same logic as emergency-braking: painted lines are exactly where front wheels lock, emergency-braking-motorbike-vietnam explains why.
+Upright bike, steady speed, no brakes, no throttle change, no lean. If a slick patch sits mid-corner, hold the lean you have — do not add brake. This is the same logic as emergency-braking: painted lines are exactly where front wheels lock, [Emergency Braking on a Motorbike in Vietnam]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}) explains why.
 
 ## Place your wheels
 
-You have options: the paint strip is usually only a few tens of centimetres wide. Look for clean asphalt beside it and route around it. Cornering discipline — eyes and line — makes this automatic; cornering-motorbike-vietnam.
+You have options: the paint strip is usually only a few tens of centimetres wide. Look for clean asphalt beside it and route around it. Cornering discipline — eyes and line — makes this automatic; [Cornering a Motorbike Well in Vietnam]({{ '/articles/cornering-motorbike-vietnam/' | relative_url }}).
 
 ## After rain, before trust
 
-Wet tiles and steel hold their film long after asphalt dries — after-rain-slippery-roads-motorbike covers the post-rain timing. The first minutes of drizzle are the worst of all.
+Wet tiles and steel hold their film long after asphalt dries — [After the Rain: Slippery Roads, Mud and Leaves]({{ '/articles/after-rain-slippery-roads-motorbike/' | relative_url }}) covers the post-rain timing. The first minutes of drizzle are the worst of all.
 
 ## Standing water hides the slick stuff
 
-Flooded streets cover exactly the surfaces you cannot see: a submerged steel plate or painted arrow gives no warning at all. Keep speed right down through standing water and exit it upright — flooded-streets-riding-motorbike-vietnam is the full guide.
+Flooded streets cover exactly the surfaces you cannot see: a submerged steel plate or painted arrow gives no warning at all. Keep speed right down through standing water and exit it upright — [Riding Through Flooded Streets on a Motorbike]({{ '/articles/flooded-streets-riding-motorbike-vietnam/' | relative_url }}) is the full guide.

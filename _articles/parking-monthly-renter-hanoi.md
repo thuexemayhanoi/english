@@ -25,7 +25,7 @@ Parking is a daily event for a monthly renter, and Hanoi handles it differently 
 
 ## The paid lots
 
-Most destinations in central Hanoi have organised motorbike parking: lots near markets, shopping centres, apartment basements and guarded street-side rows. Fees are typically a few thousand dong for a short stay and more for a full day. Someone watches the bikes, which is exactly what a renter wants — see keeping-rental-motorbike-secure-hanoi for why guarded parking matters more than locks alone.
+Most destinations in central Hanoi have organised motorbike parking: lots near markets, shopping centres, apartment basements and guarded street-side rows. Fees are typically a few thousand dong for a short stay and more for a full day. Someone watches the bikes, which is exactly what a renter wants — see [Keeping a Rental Motorbike Secure Over Months in Hanoi]({{ '/articles/keeping-rental-motorbike-secure-hanoi/' | relative_url }}) for why guarded parking matters more than locks alone.
 
 ## At home
 
@@ -33,7 +33,7 @@ If you are renting long-term, your building likely has a basement or a courtyard
 
 ## Street parking
 
-Free street parking exists but comes with caveats: sidewalks where bikes are allowed, spots where they are not, and occasional towing from badly chosen spots. The local rules and common pitfalls are covered in renting-motorbike-old-quarter, and they apply city-wide in spirit even outside the Old Quarter.
+Free street parking exists but comes with caveats: sidewalks where bikes are allowed, spots where they are not, and occasional towing from badly chosen spots. The local rules and common pitfalls are covered in [Renting a Motorbike in the Hanoi Old Quarter: What to Know]({{ '/articles/renting-motorbike-old-quarter/' | relative_url }}), and they apply city-wide in spirit even outside the Old Quarter.
 
 ## During Tet
 

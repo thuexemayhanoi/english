@@ -24,19 +24,19 @@ Two people on one motorbike is the default family configuration in Vietnam, and 
 
 ## The law: one passenger, correctly seated
 
-Vietnamese traffic law allows a motorbike to carry one adult passenger, seated properly behind the rider, plus the documented child exceptions. Carrying two adult passengers is a violation, and so is a passenger sitting sideways or on the handlebars. The full rules — including the narrow exceptions — are in motorbike-passenger-rules-vietnam.
+Vietnamese traffic law allows a motorbike to carry one adult passenger, seated properly behind the rider, plus the documented child exceptions. Carrying two adult passengers is a violation, and so is a passenger sitting sideways or on the handlebars. The full rules — including the narrow exceptions — are in [Carrying Passengers on a Motorbike in Vietnam]({{ '/articles/motorbike-passenger-rules-vietnam/' | relative_url }}).
 
 ## Choosing the bike
 
-Two-up changes the maths: you want seat length for two, suspension that does not bottom out, and enough torque that the bike still pulls cleanly with a passenger. The comparison of candidates, including why seat length beats engine size for couples, is in best-motorbike-for-two-people-hanoi. Agree with the shop what you plan; a bike that is fine solo can feel underpowered and harsh two-up on Hanoi's speed bumps.
+Two-up changes the maths: you want seat length for two, suspension that does not bottom out, and enough torque that the bike still pulls cleanly with a passenger. The comparison of candidates, including why seat length beats engine size for couples, is in [Best Motorbike for Two People in Hanoi]({{ '/articles/best-motorbike-for-two-people-hanoi/' | relative_url }}). Agree with the shop what you plan; a bike that is fine solo can feel underpowered and harsh two-up on Hanoi's speed bumps.
 
 ## Helmets: two, not one
 
-Rentals include helmets, but confirm there are two in your sizes. A loose helmet on a pillion is close to no helmet; adjust or ask for a swap. See do-hanoi-rentals-include-helmets for the general policy picture.
+Rentals include helmets, but confirm there are two in your sizes. A loose helmet on a pillion is close to no helmet; adjust or ask for a swap. See [Do Hanoi Rentals Include Helmets?]({{ '/articles/do-hanoi-rentals-include-helmets/' | relative_url }}) for the general policy picture.
 
 ## Deposit and terms
 
-Nothing changes structurally for a couple — the deposit runs typically 2,000,000–5,000,000 VND depending on the bike (motorbike-rental-deposit-hanoi), and the agreement terms are the ones in motorbike-rental-agreement-hanoi. One detail worth deciding before rental: who is the named rider. The licence-holder must be the one riding; swapping controls mid-trip with an unlicensed partner is the classic way couples end up in the no-licence-fine-vietnam situation.
+Nothing changes structurally for a couple — the deposit runs typically 2,000,000–5,000,000 VND depending on the bike ([Motorbike Rental Deposits in Hanoi: Typical Amounts and Return]({{ '/articles/motorbike-rental-deposit-hanoi/' | relative_url }})), and the agreement terms are the ones in [Understanding a Motorbike Rental Agreement in Hanoi]({{ '/articles/motorbike-rental-agreement-hanoi/' | relative_url }}). One detail worth deciding before rental: who is the named rider. The licence-holder must be the one riding; swapping controls mid-trip with an unlicensed partner is the classic way couples end up in the [The Fine for Riding Without a Licence in Vietnam]({{ '/articles/no-licence-fine-vietnam/' | relative_url }}) situation.
 
 ## Technique for a comfortable pillion
 
@@ -47,7 +47,7 @@ Nothing changes structurally for a couple — the deposit runs typically 2,000,0
 
 ## Day trips two-up
 
-Couples get the best of the rental with a day out — Bat Trang, the Perfume Pagoda road, West Lake at sunset — but two-up doubles fatigue and halves braking margins, so plan shorter distances than you would solo. Route-planning help is in best-motorbike-for-day-trips-from-hanoi, and the inspection that matters most with a passenger on board is brakes and tyres: rental-motorbike-inspection-checklist.
+Couples get the best of the rental with a day out — Bat Trang, the Perfume Pagoda road, West Lake at sunset — but two-up doubles fatigue and halves braking margins, so plan shorter distances than you would solo. Route-planning help is in [Best Motorbike for Day Trips from Hanoi]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }}), and the inspection that matters most with a passenger on board is brakes and tyres: [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}).
 
 ## The short version
 

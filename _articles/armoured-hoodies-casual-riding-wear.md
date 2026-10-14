@@ -27,12 +27,12 @@ An armoured hoodie is a sweatshirt-style garment with an abrasion-resistant knit
 
 ## The trade-offs, honestly
 
-You give up weather protection: no rain shell, no proper venting, less coverage than a full textile jacket. Aramid zones cover the impact points but ordinary fabric remains elsewhere — a long slide can reach unarmoured panels. Weatherproofing and venting arguments stay in riding-jacket-vietnam-climate; the hoodie is the city option, the textile jacket is the touring option.
+You give up weather protection: no rain shell, no proper venting, less coverage than a full textile jacket. Aramid zones cover the impact points but ordinary fabric remains elsewhere — a long slide can reach unarmoured panels. Weatherproofing and venting arguments stay in [Choosing a Riding Jacket for Vietnam's Climate]({{ '/articles/riding-jacket-vietnam-climate/' | relative_url }}); the hoodie is the city option, the textile jacket is the touring option.
 
 ## Armour still has to be real
 
-Check that elbow and shoulder pockets position the armour on the joint while seated on a bike, not while standing in a mirror. Budget versions ship with foam inserts that are not impact protectors — swap in certified armour, and read the labels as covered in the armour discussion of body-armour-motorbike-riders. And remember a hoodie’s hood itself is never worn over the helmet — it fills with air like a sail; tuck it under the jacket.
+Check that elbow and shoulder pockets position the armour on the joint while seated on a bike, not while standing in a mirror. Budget versions ship with foam inserts that are not impact protectors — swap in certified armour, and read the labels as covered in the armour discussion of [Body Armour Under Everyday Clothes: Hidden Protection for Riders]({{ '/articles/body-armour-motorbike-riders/' | relative_url }}). And remember a hoodie’s hood itself is never worn over the helmet — it fills with air like a sail; tuck it under the jacket.
 
 ## Who this is for
 
-Commuters, teachers and students who wear one garment from classroom to road and will never carry a wardrobe change. If your riding is daily short city trips, a certified armoured hoodie you wear every day protects you better than a race jacket you leave home because it is 38 degrees — the same priority logic as riding-gear-budget-priority-vietnam. The overall clothing picture is in what-to-wear-riding-motorbike-vietnam.
+Commuters, teachers and students who wear one garment from classroom to road and will never carry a wardrobe change. If your riding is daily short city trips, a certified armoured hoodie you wear every day protects you better than a race jacket you leave home because it is 38 degrees — the same priority logic as [Buying Riding Gear on a Budget in Vietnam: Priority Order]({{ '/articles/riding-gear-budget-priority-vietnam/' | relative_url }}). The overall clothing picture is in [What to Wear Riding a Motorbike in Vietnam]({{ '/articles/what-to-wear-riding-motorbike-vietnam/' | relative_url }}).

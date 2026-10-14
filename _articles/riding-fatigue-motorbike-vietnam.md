@@ -23,7 +23,7 @@ Fatigue kills long rides quietly: not with a dramatic mistake, but with a hundre
 
 ## How it shows up
 
-Riding is physical work in Vietnam's climate: vibration, heat, constant micro-corrections, and the mental load of dense traffic. The early signs are sloppy lane discipline, staring at the bike ahead instead of scanning, and the "just one more hour" voice. In heat, dehydration accelerates all of it — hot-weather-riding-motorbike-vietnam covers that side.
+Riding is physical work in Vietnam's climate: vibration, heat, constant micro-corrections, and the mental load of dense traffic. The early signs are sloppy lane discipline, staring at the bike ahead instead of scanning, and the "just one more hour" voice. In heat, dehydration accelerates all of it — [Hot Weather Riding on a Motorbike in Vietnam]({{ '/articles/hot-weather-riding-motorbike-vietnam/' | relative_url }}) covers that side.
 
 ## Realistic distances
 
@@ -35,7 +35,7 @@ Stop before you feel tired: roughly every 90 minutes, even for five minutes off 
 
 ## The worst windows
 
-The danger hours are early afternoon (heat, post-lunch dip) and after dark, when fatigue plus night riding compound — night-riding-motorbike-safety-vietnam covers the dark side. If the plan says ride on and your body says stop, a hotel in a small town is cheaper than any fall.
+The danger hours are early afternoon (heat, post-lunch dip) and after dark, when fatigue plus night riding compound — [Riding a Motorbike at Night in Vietnam]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}) covers the dark side. If the plan says ride on and your body says stop, a hotel in a small town is cheaper than any fall.
 
 ## The one-line version
 

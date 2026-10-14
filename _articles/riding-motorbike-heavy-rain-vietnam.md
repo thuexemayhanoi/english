@@ -19,11 +19,11 @@ sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
 internal_link_targets: "rain-gear-motorbike-riders-vietnam, riding-rental-motorbike-hanoi-rain, renting-motorbike-hanoi-rainy-season, flooded-streets-riding-motorbike-vietnam, fog-and-low-visibility-riding-motorbike-vietnam"
 ---
-Hanoi's rain does not drizzle — it dumps. Half the annual rain falls in a few summer months, often within fifteen-minute downpours that flood streets and cut visibility to metres. The rental-side practicalities are in riding-rental-motorbike-hanoi-rain; this is the riding-craft version.
+Hanoi's rain does not drizzle — it dumps. Half the annual rain falls in a few summer months, often within fifteen-minute downpours that flood streets and cut visibility to metres. The rental-side practicalities are in [Riding a Rental Motorbike in Hanoi Rain: What to Know]({{ '/articles/riding-rental-motorbike-hanoi-rain/' | relative_url }}); this is the riding-craft version.
 
 ## What changes on the road
 
-The first minutes of rain are the most dangerous: oil and dust float on the surface before the water washes them away. Painted lines, metal covers, brick sidewalks and smooth asphalt all turn slippery. Halve your speed cushion: braking distance can double, so double the gap. See emergency-braking-motorbike-vietnam for wet-braking technique.
+The first minutes of rain are the most dangerous: oil and dust float on the surface before the water washes them away. Painted lines, metal covers, brick sidewalks and smooth asphalt all turn slippery. Halve your speed cushion: braking distance can double, so double the gap. See [Emergency Braking on a Motorbike in Vietnam]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}) for wet-braking technique.
 
 ## What changes for you
 
@@ -35,7 +35,7 @@ Rain hides you. Lights on, bright layer visible, and assume the car behind you c
 
 ## After the rain
 
-Puddles hide potholes — flooded-streets-riding-motorbike-vietnam covers riding through standing water. Gravel and sand wash onto corners, and braking grip returns gradually, not instantly.
+Puddles hide potholes — [Riding Through Flooded Streets on a Motorbike]({{ '/articles/flooded-streets-riding-motorbike-vietnam/' | relative_url }}) covers riding through standing water. Gravel and sand wash onto corners, and braking grip returns gradually, not instantly.
 
 ## The one-line version
 

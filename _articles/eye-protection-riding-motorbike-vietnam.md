@@ -31,11 +31,11 @@ Tinted lenses are for daylight only: at night they turn every oncoming light int
 
 ## Keeping them usable
 
-Dust film on a visor builds a starburst around every light at night; wipe the visor clean before evening rides. In rain, an anti-fog treatment keeps a closed visor from fogging from inside — riding-motorbike-heavy-rain-vietnam covers the wet-weather picture. A scratched visor, like a scratched windscreen, should be replaced: the optical distortion is a real hazard at speed.
+Dust film on a visor builds a starburst around every light at night; wipe the visor clean before evening rides. In rain, an anti-fog treatment keeps a closed visor from fogging from inside — [Riding a Motorbike in Heavy Rain in Vietnam]({{ '/articles/riding-motorbike-heavy-rain-vietnam/' | relative_url }}) covers the wet-weather picture. A scratched visor, like a scratched windscreen, should be replaced: the optical distortion is a real hazard at speed.
 
 ## The low-tech rule
 
-If you would not walk through a sandstorm with your eyes open, do not ride through one. Helmet-fit-guide-vietnam covers choosing the helmet the visor attaches to; what-to-wear-riding-motorbike-vietnam covers the rest of the kit.
+If you would not walk through a sandstorm with your eyes open, do not ride through one. Helmet-fit-guide-vietnam covers choosing the helmet the visor attaches to; [What to Wear Riding a Motorbike in Vietnam]({{ '/articles/what-to-wear-riding-motorbike-vietnam/' | relative_url }}) covers the rest of the kit.
 
 ## The one-line version
 

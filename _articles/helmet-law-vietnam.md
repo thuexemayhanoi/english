@@ -50,4 +50,4 @@ Helmets are part of any rental. Inspect yours before you ride off, and make sure
 
 *Information, not legal advice. Verified against the full text of Law 36/2024/QH15 and Decree 168/2024/NĐ-CP on 2026-09-21.*
 
-E-bike and electric scooter riders have a dedicated guide: e-bike-helmet-rules-vietnam.
+E-bike and electric scooter riders have a dedicated guide: [Helmet Rules for E-Bikes and Electric Scooters in Vietnam]({{ '/articles/e-bike-helmet-rules-vietnam/' | relative_url }}).

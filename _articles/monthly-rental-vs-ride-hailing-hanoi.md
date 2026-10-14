@@ -29,7 +29,7 @@ Occasional trips. If you make two to four rides a week, mostly short, apps beat 
 
 ## Where a monthly rental wins
 
-Daily riding. Once you commute, or you make several trips a day, per-trip fares stack up quickly, surge pricing hits exactly at rush hour when you need to move, and waiting for a pickup five times a day becomes its own tax. A monthly rental at a published monthly rate turns unpredictable trip costs into a fixed number. The daily-versus-monthly rental logic is in monthly-vs-daily-motorbike-rental-hanoi, and the full cost build-up — fuel, parking, consumables — is in motorbike-rental-budget-monthly-hanoi.
+Daily riding. Once you commute, or you make several trips a day, per-trip fares stack up quickly, surge pricing hits exactly at rush hour when you need to move, and waiting for a pickup five times a day becomes its own tax. A monthly rental at a published monthly rate turns unpredictable trip costs into a fixed number. The daily-versus-monthly rental logic is in [Monthly vs Daily Motorbike Rental in Hanoi: Which Makes Sense]({{ '/articles/monthly-vs-daily-motorbike-rental-hanoi/' | relative_url }}), and the full cost build-up — fuel, parking, consumables — is in [Monthly Motorbike Rental Budget in Hanoi: The Full Cost]({{ '/articles/motorbike-rental-budget-monthly-hanoi/' | relative_url }}).
 
 ## The comparison that matters
 
@@ -37,7 +37,7 @@ Estimate your monthly trip count, apply typical local ride-hailing fares for you
 
 ## The middle path
 
-Some residents keep both: the monthly rental for the daily commute and structured life, apps for late nights, heavy rain and airport runs. That combination captures most of the upside of each — long-term-renting-vs-buying-residents-hanoi extends the same logic to the question of buying.
+Some residents keep both: the monthly rental for the daily commute and structured life, apps for late nights, heavy rain and airport runs. That combination captures most of the upside of each — [Long-Term Renting vs Buying a Motorbike in Hanoi for Residents]({{ '/articles/long-term-renting-vs-buying-residents-hanoi/' | relative_url }}) extends the same logic to the question of buying.
 
 ## The one-line version
 

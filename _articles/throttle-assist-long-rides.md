@@ -31,7 +31,7 @@ A throttle lock is for open stretches only — never in city traffic, never wher
 
 ## What it actually fixes
 
-Wrist fatigue is one strand of the long-ride fatigue problem — the complete management plan is in riding-fatigue-motorbike-vietnam. A throttle assist also lets you shake out your hand, flex fingers, and restore circulation, which matters on long hauls as argued in best-motorbike-for-long-distance-vietnam. It does nothing for vibration numbness — that is a setup problem with its own diagnosis in handlebar-vibration-motorbike.
+Wrist fatigue is one strand of the long-ride fatigue problem — the complete management plan is in [Riding Fatigue on Long Motorbike Trips]({{ '/articles/riding-fatigue-motorbike-vietnam/' | relative_url }}). A throttle assist also lets you shake out your hand, flex fingers, and restore circulation, which matters on long hauls as argued in [Best Motorbike for Long-Distance Riding in Vietnam]({{ '/articles/best-motorbike-for-long-distance-vietnam/' | relative_url }}). It does nothing for vibration numbness — that is a setup problem with its own diagnosis in [Handlebar Vibration: Finding the Source]({{ '/articles/handlebar-vibration-motorbike/' | relative_url }}).
 
 ## Buying
 

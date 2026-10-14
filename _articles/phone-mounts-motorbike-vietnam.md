@@ -31,10 +31,10 @@ Claw-and-side-arm mounts grip the phone's corners: best all-round hold for rough
 
 ## Weather and placement
 
-Rain-season use means a mount with some weather shielding or a phone case that tolerates it; placement matters for glare and for keeping the screen readable at a glance — low, near the cluster, so eyes drop minimally. And the legality/safety line: glancing at navigation is not the same as interacting with it — set the route before moving, and re-route only when stopped; Vietnamese traffic police take a dim view of riding while handling a phone. What a rider carries on every ride (including the tools to fit a mount properly) is covered in what-to-carry-riding-motorbike-vietnam and motorbike-rider-toolkit-essentials.
+Rain-season use means a mount with some weather shielding or a phone case that tolerates it; placement matters for glare and for keeping the screen readable at a glance — low, near the cluster, so eyes drop minimally. And the legality/safety line: glancing at navigation is not the same as interacting with it — set the route before moving, and re-route only when stopped; Vietnamese traffic police take a dim view of riding while handling a phone. What a rider carries on every ride (including the tools to fit a mount properly) is covered in [What to Carry While Riding a Motorbike in Vietnam]({{ '/articles/what-to-carry-riding-motorbike-vietnam/' | relative_url }}) and [A Rider's Toolkit: What to Carry Under the Seat]({{ '/articles/motorbike-rider-toolkit-essentials/' | relative_url }}).
 
 ## The accessories around it
 
-Two companions make a mounted phone useful: power on the move — covered in usb-chargers-motorbike-power — and, for riders who want the road recorded, the camera-side story in dashcams-motorbike-riding-vietnam. A mounted phone plus a power feed is the practical navigation rig for most expat and travelling riders here.
+Two companions make a mounted phone useful: power on the move — covered in [USB Chargers and Phone Power on a Motorbike]({{ '/articles/usb-chargers-motorbike-power/' | relative_url }}) — and, for riders who want the road recorded, the camera-side story in [Dashcams on Motorbikes in Vietnam: Worth It?]({{ '/articles/dashcams-motorbike-riding-vietnam/' | relative_url }}). A mounted phone plus a power feed is the practical navigation rig for most expat and travelling riders here.
 
 Mount it properly, power it properly, touch it only when stopped.

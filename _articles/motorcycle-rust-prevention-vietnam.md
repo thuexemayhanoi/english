@@ -23,15 +23,15 @@ Rust is the tax Vietnam's climate charges on every bike: months of high humidity
 
 ## Wash properly, dry properly
 
-Washing removes the grime layer that holds moisture against metal — cleaning-motorbike-properly-vietnam covers how. The drying is the half everyone skips, and it is the half that matters: a bike put away wet in a closed space rusts faster than one left in the rain. A wipe-down with a rag, then air time before covering, is the routine.
+Washing removes the grime layer that holds moisture against metal — [Washing and Cleaning a Motorbike Properly]({{ '/articles/cleaning-motorbike-properly-vietnam/' | relative_url }}) covers how. The drying is the half everyone skips, and it is the half that matters: a bike put away wet in a closed space rusts faster than one left in the rain. A wipe-down with a rag, then air time before covering, is the routine.
 
 ## Store it dry
 
-The single biggest rust decision is where the bike sleeps. A ventilated, covered space beats a sealed one — trapped humid air is the enemy. Under a proper cover in airflow, fine; wrapped in plastic, never — plastic traps moisture and creates a greenhouse. Long-term storage has its own checklist in storing-motorbike-long-term-vietnam.
+The single biggest rust decision is where the bike sleeps. A ventilated, covered space beats a sealed one — trapped humid air is the enemy. Under a proper cover in airflow, fine; wrapped in plastic, never — plastic traps moisture and creates a greenhouse. Long-term storage has its own checklist in [Storing a Motorbike for Weeks or Months in Vietnam]({{ '/articles/storing-motorbike-long-term-vietnam/' | relative_url }}).
 
 ## Protect the specific victims
 
-Chain: the number-one rust victim — chain-maintenance-motorbike-vietnam covers the lube film that is the real protection. Fasteners, levers and frame welds: a light smear of appropriate protectant on bare-metal spots during washing buys months. Exhaust: starts rotting from the inside; regular riding and drying it out after wet rides extends its life. Electrical connectors: humidity is behind most Vietnamese gremlins — lights-and-electrical-checks-motorbike covers them.
+Chain: the number-one rust victim — [Chain Maintenance on a Motorbike in Vietnam]({{ '/articles/chain-maintenance-motorbike-vietnam/' | relative_url }}) covers the lube film that is the real protection. Fasteners, levers and frame welds: a light smear of appropriate protectant on bare-metal spots during washing buys months. Exhaust: starts rotting from the inside; regular riding and drying it out after wet rides extends its life. Electrical connectors: humidity is behind most Vietnamese gremlins — [Lights and Electrical Checks on a Motorbike]({{ '/articles/lights-and-electrical-checks-motorbike/' | relative_url }}) covers them.
 
 ## Floods accelerate everything
 

@@ -31,11 +31,11 @@ Locking the rear brake causes a skid; if it happens, release and re-apply. Locki
 
 ## Practice it
 
-Find an empty stretch early on a weekend morning — a quiet industrial road or an empty parking area — and practice stops from low speed until the motion is automatic. Practise with the bike you actually ride, because every scooter brakes slightly differently. If you rent, run the rental-motorbike-inspection-checklist at pickup and include two or three gentle test stops so you know how the brakes feel before traffic tests them for you.
+Find an empty stretch early on a weekend morning — a quiet industrial road or an empty parking area — and practice stops from low speed until the motion is automatic. Practise with the bike you actually ride, because every scooter brakes slightly differently. If you rent, run the [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) at pickup and include two or three gentle test stops so you know how the brakes feel before traffic tests them for you.
 
 ## Speed is the hidden variable
 
-Stopping distance grows with the square of speed, and Vietnam's urban speed limits are low for a reason — see motorbike-speed-limits-vietnam. Riding at the limit means you can stop when a bus pulls out; riding above it means physics decides.
+Stopping distance grows with the square of speed, and Vietnam's urban speed limits are low for a reason — see [Speed Limits for Motorbikes in Vietnam]({{ '/articles/motorbike-speed-limits-vietnam/' | relative_url }}). Riding at the limit means you can stop when a bus pulls out; riding above it means physics decides.
 
 ## The one-line version
 

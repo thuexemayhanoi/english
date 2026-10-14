@@ -23,7 +23,7 @@ Front forks do three jobs at once: hold the front wheel, absorb every pothole Ha
 
 ## What the fork actually does
 
-Inside each fork leg is a spring and a piston moving through oil. When the wheel hits a bump, the spring compresses; the oil being pushed through small holes slows that compression and stops the spring from catapulting the bike back. Old, thin or dirty oil makes damping vague: the front end dives hard under braking, floats over bumps, and feels unstable on corrugated roads. The basics of checking suspension behaviour are in suspension-checks-motorbike-vietnam.
+Inside each fork leg is a spring and a piston moving through oil. When the wheel hits a bump, the spring compresses; the oil being pushed through small holes slows that compression and stops the spring from catapulting the bike back. Old, thin or dirty oil makes damping vague: the front end dives hard under braking, floats over bumps, and feels unstable on corrugated roads. The basics of checking suspension behaviour are in [Front Forks and Suspension Checks on a Motorbike]({{ '/articles/suspension-checks-motorbike-vietnam/' | relative_url }}).
 
 ## The oil nobody changes
 
@@ -34,7 +34,7 @@ Fork oil degrades slowly, contaminated by metal particles from the sliding surfa
 The fork seals keep oil in and dust out. They live on the stanchion — the shiny upper tube — and they survive only if that surface stays smooth and clean. This is where daily care matters:
 
 - Wipe the stanchions with a clean cloth after muddy or dusty rides; grit left on the tube is dragged through the seal on every stroke.
-- After washing, check for a thin oil ring around the stanchion just above the seal — the first sign of a weeping seal is in leaking-fork-seals-motorbike.
+- After washing, check for a thin oil ring around the stanchion just above the seal — the first sign of a weeping seal is in [Leaking Fork Seals]({{ '/articles/leaking-fork-seals-motorbike/' | relative_url }}).
 - Never lift or push the bike by pressing down on thin stanchions with hard objects; dents become seal shredders.
 
 ## Protecting the seals from the inside
@@ -43,4 +43,4 @@ Worn oil is not the only seal killer. A bike parked for years on a compressed fo
 
 ## When to hand it over
 
-Fork work needs the right tools, correct oil and cleanliness most home mechanics cannot achieve in a Hanoi apartment. Signs a mechanic should see the fork: oil rings returning hours after a wipe, diving under braking that fresh oil-level checks do not explain, uneven stanchion heights, or a front end that keeps bouncing after bumps like a pogo stick. General maintenance scheduling lives in motorbike-maintenance-basics-vietnam; for the rear suspension's simpler but equally ignored adjustment, see rear-suspension-preload-riders-luggage.
+Fork work needs the right tools, correct oil and cleanliness most home mechanics cannot achieve in a Hanoi apartment. Signs a mechanic should see the fork: oil rings returning hours after a wipe, diving under braking that fresh oil-level checks do not explain, uneven stanchion heights, or a front end that keeps bouncing after bumps like a pogo stick. General maintenance scheduling lives in [Motorbike Maintenance Basics for Vietnam]({{ '/articles/motorbike-maintenance-basics-vietnam/' | relative_url }}); for the rear suspension's simpler but equally ignored adjustment, see [Setting Rear Suspension Preload for Passengers and Luggage]({{ '/articles/rear-suspension-preload-riders-luggage/' | relative_url }}).

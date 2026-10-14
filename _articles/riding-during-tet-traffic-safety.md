@@ -24,11 +24,11 @@ Tet transforms Vietnamese roads twice: once in the days before Lunar New Year, w
 
 ## Before Tet: the national exodus
 
-The week before Tet puts overloaded bikes on every highway — luggage, children, plants and televisions balanced on racks — and riders who rarely leave the city suddenly doing 300 km days. Expect erratic behaviour from tired, loaded riders: keep your distance, never ride in their blind spots, and pass only with a whole lane of space. Long riding days demand real breaks — riding-fatigue-motorbike-vietnam.
+The week before Tet puts overloaded bikes on every highway — luggage, children, plants and televisions balanced on racks — and riders who rarely leave the city suddenly doing 300 km days. Expect erratic behaviour from tired, loaded riders: keep your distance, never ride in their blind spots, and pass only with a whole lane of space. Long riding days demand real breaks — [Riding Fatigue on Long Motorbike Trips]({{ '/articles/riding-fatigue-motorbike-vietnam/' | relative_url }}).
 
 ## During Tet: the calm and its traps
 
-Cities empty out, and wide-open streets feel like permission. They are not: pedestrians step out without looking because "there is no traffic," and quiet does not change the speed limits. Treat empty streets the way you treat rush hour in reverse — same discipline, opposite conditions (traffic-at-rush-hour-riding-hanoi covers the dense end).
+Cities empty out, and wide-open streets feel like permission. They are not: pedestrians step out without looking because "there is no traffic," and quiet does not change the speed limits. Treat empty streets the way you treat rush hour in reverse — same discipline, opposite conditions ([Rush Hour Riding in Hanoi: Staying Safe in Peak Traffic]({{ '/articles/traffic-at-rush-hour-riding-hanoi/' | relative_url }}) covers the dense end).
 
 ## After Tet: everyone returns at once
 
@@ -36,8 +36,8 @@ The return wave compresses into fewer days, so expect loaded bikes, tired riders
 
 ## Practical notes for visitors
 
-Rental demand rises before Tet and shops adjust for the holidays — renting-motorbike-hanoi-tet-holidays covers the rental logistics, including booking ahead and confirming availability. Contact us to confirm current availability for Tet dates.
+Rental demand rises before Tet and shops adjust for the holidays — [Renting a Motorbike in Hanoi During Tet and Holidays]({{ '/articles/renting-motorbike-hanoi-tet-holidays/' | relative_url }}) covers the rental logistics, including booking ahead and confirming availability. Contact us to confirm current availability for Tet dates.
 
 ## The mindset
 
-Holiday traffic rewards patience more than any other kind: everyone is distracted, everyone is in a hurry, and the best riders simply refuse to join the race. The defensive-riding-motorbike-vietnam habits carry the whole holiday.
+Holiday traffic rewards patience more than any other kind: everyone is distracted, everyone is in a hurry, and the best riders simply refuse to join the race. The [Defensive Riding on a Motorbike in Vietnam]({{ '/articles/defensive-riding-motorbike-vietnam/' | relative_url }}) habits carry the whole holiday.

@@ -38,4 +38,4 @@ Wet-weather safety is mostly technique: our heavy-rain riding guide, after-rain 
 
 Rental fleets vary; the models above are not all available at any given shop. Contact us to confirm current availability, and ask specifically whether the scooter you would receive has ABS.
 
-For the electric-specific take on wet-season riding (IP65/IP67 ratings and regen in the wet), see riding-electric-motorbike-hanoi-rain.
+For the electric-specific take on wet-season riding (IP65/IP67 ratings and regen in the wet), see [Riding an Electric Motorbike in Hanoi Rain: Water, IP Ratings and Grip]({{ '/articles/riding-electric-motorbike-hanoi-rain/' | relative_url }}).

@@ -19,7 +19,7 @@ sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
 internal_link_targets: "what-to-carry-riding-motorbike-vietnam, balancing-pillion-riding-motorbike-vietnam, best-motorbike-for-day-trips-from-hanoi, motorbike-required-equipment-vietnam"
 ---
-A motorbike carries best when loaded like a backpack: low, centred and snug. The same bag that vanishes under your seat changes the entire machine when hung on the handlebars. What to carry day to day is covered in what-to-carry-riding-motorbike-vietnam; this is about how to carry it.
+A motorbike carries best when loaded like a backpack: low, centred and snug. The same bag that vanishes under your seat changes the entire machine when hung on the handlebars. What to carry day to day is covered in [What to Carry While Riding a Motorbike in Vietnam]({{ '/articles/what-to-carry-riding-motorbike-vietnam/' | relative_url }}); this is about how to carry it.
 
 ## The order of storage
 
@@ -31,7 +31,7 @@ Because it will. Straps over bungee cords: cords snap and launch bags into traff
 
 ## Weight changes the ride
 
-A loaded bike brakes later, corners wider and wallows at speed. Increase following distance, brake earlier, and reduce speed on bends — the same adjustments as carrying a pillion, covered in balancing-pillion-riding-motorbike-vietnam. For day trips with real luggage, choose a bike suited to the load; best-motorbike-for-day-trips-from-hanoi goes through that choice.
+A loaded bike brakes later, corners wider and wallows at speed. Increase following distance, brake earlier, and reduce speed on bends — the same adjustments as carrying a pillion, covered in [Carrying a Passenger Safely on a Motorbike]({{ '/articles/balancing-pillion-riding-motorbike-vietnam/' | relative_url }}). For day trips with real luggage, choose a bike suited to the load; [Best Motorbike for Day Trips from Hanoi]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }}) goes through that choice.
 
 ## Long arms, low mirrors
 

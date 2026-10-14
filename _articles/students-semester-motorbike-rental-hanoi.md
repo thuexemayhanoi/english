@@ -24,7 +24,7 @@ An exchange term or a university year in Hanoi is exactly the length where daily
 
 ## Age and licence come first
 
-The minimum riding age and licence rules apply to students like anyone else — riders must meet the legal minimum age, and riding a bike your licence does not cover is a finable offence. Check minimum-age-ride-motorbike-vietnam and the licence rules in the law and licences hub before arranging anything.
+The minimum riding age and licence rules apply to students like anyone else — riders must meet the legal minimum age, and riding a bike your licence does not cover is a finable offence. Check [Minimum Age to Ride a Motorbike in Vietnam]({{ '/articles/minimum-age-ride-motorbike-vietnam/' | relative_url }}) and the licence rules in the law and licences hub before arranging anything.
 
 ## Matching the rental to the semester
 
@@ -32,11 +32,11 @@ Rent month by month so the term ends when your study period ends. Where a monthl
 
 ## Deposits and money
 
-The deposit is typically 2,000,000–5,000,000 VND, which is real money on a student budget, so treat the deposit as untouchable savings rather than spendable cash. Monthly-vs-daily-motorbike-rental-hanoi explains why monthly wins on cost once you are riding most days, and motorbike-rental-budget-monthly-hanoi helps you total fuel, parking and consumables into an honest monthly figure.
+The deposit is typically 2,000,000–5,000,000 VND, which is real money on a student budget, so treat the deposit as untouchable savings rather than spendable cash. Monthly-vs-daily-motorbike-rental-hanoi explains why monthly wins on cost once you are riding most days, and [Monthly Motorbike Rental Budget in Hanoi: The Full Cost]({{ '/articles/motorbike-rental-budget-monthly-hanoi/' | relative_url }}) helps you total fuel, parking and consumables into an honest monthly figure.
 
 ## Sharing is not automatic
 
-A rental agreement names the rider. Letting a flatmate without the right licence borrow the bike is a classic way students lose deposits — the legal side is in lending-motorbike-unlicensed-rider-vietnam, and the household option of a second bike is covered in two-motorbikes-household-hanoi.
+A rental agreement names the rider. Letting a flatmate without the right licence borrow the bike is a classic way students lose deposits — the legal side is in [Lending Your Motorbike to an Unlicensed Rider in Vietnam]({{ '/articles/lending-motorbike-unlicensed-rider-vietnam/' | relative_url }}), and the household option of a second bike is covered in [Renting Two Motorbikes for a Household in Hanoi]({{ '/articles/two-motorbikes-household-hanoi/' | relative_url }}).
 
 ## The one-line version
 

@@ -23,15 +23,15 @@ Watch a Vietnamese delivery rider for a day and you learn what survives ten hour
 
 ## The core setup
 
-A purpose-fitted rear rack carrying a box or insulated bag, mounted on braced steel rather than clamped to plastic. The load matters: delivery boxes ride high and square, catching wind — mount the box as low and forward on the rack as its function allows, exactly the load-centre discipline of carrying-luggage thinking, because a rear-heavy bike in a crosswind is a hazard at speed. What the box is made of matters less than its mounts: vibrating bolts loosen daily; riders re-check them weekly — the same consumables-era discipline as high-usage-delivery-commuter-maintenance.
+A purpose-fitted rear rack carrying a box or insulated bag, mounted on braced steel rather than clamped to plastic. The load matters: delivery boxes ride high and square, catching wind — mount the box as low and forward on the rack as its function allows, exactly the load-centre discipline of carrying-luggage thinking, because a rear-heavy bike in a crosswind is a hazard at speed. What the box is made of matters less than its mounts: vibrating bolts loosen daily; riders re-check them weekly — the same consumables-era discipline as [High-Usage Maintenance: Delivery Riders and Long Commuters]({{ '/articles/high-usage-delivery-commuter-maintenance/' | relative_url }}).
 
 ## The phone rig
 
-The delivery rider’s phone is their office: a quality vibration-damped mount is not optional — the mount physics and phone-survival arguments are in phone-mounts-motorbike-vietnam — plus a USB charger wired properly (not a loose socket splice), a rain cover for the phone, and a power bank for the long tail of the shift. Screen brightness set for sunlight beats a new phone every time.
+The delivery rider’s phone is their office: a quality vibration-damped mount is not optional — the mount physics and phone-survival arguments are in [Phone Mounts on Motorbikes: Choosing and Using Them]({{ '/articles/phone-mounts-motorbike-vietnam/' | relative_url }}) — plus a USB charger wired properly (not a loose socket splice), a rain cover for the phone, and a power bank for the long tail of the shift. Screen brightness set for sunlight beats a new phone every time.
 
 ## Weather and gear
 
-The rest of the kit answers the monsoon: rain suit that packs small and dry bags for the orders, a change of gloves, and sunglasses or a visor that handles the sun-hour glare. Riders who last are riders who treat their own comfort as equipment — the budget logic of riding-gear-budget-priority-vietnam is compressed into: helmet, rain gear, gloves, phone rig, in that order.
+The rest of the kit answers the monsoon: rain suit that packs small and dry bags for the orders, a change of gloves, and sunglasses or a visor that handles the sun-hour glare. Riders who last are riders who treat their own comfort as equipment — the budget logic of [Buying Riding Gear on a Budget in Vietnam: Priority Order]({{ '/articles/riding-gear-budget-priority-vietnam/' | relative_url }}) is compressed into: helmet, rain gear, gloves, phone rig, in that order.
 
 ## What delivery riders teach everyone
 

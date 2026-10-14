@@ -23,7 +23,7 @@ The cargo net is a Vietnamese institution: stretch it over almost anything, hook
 
 ## Nets vs cords
 
-A cargo net spreads tension over many hooks across a wide area: load clamped, pressure distributed, one system. Bungee cords concentrate force at two hooks; a single cord that unhooks under vibration does so violently, and the load shifts at speed. The rule that follows: nets for almost everything; individual cords only as supplementary cinches, never as the primary attachment. The physics and safety discipline of carrying loads on a motorbike overall lives in carrying-luggage-motorbike-safely-vietnam.
+A cargo net spreads tension over many hooks across a wide area: load clamped, pressure distributed, one system. Bungee cords concentrate force at two hooks; a single cord that unhooks under vibration does so violently, and the load shifts at speed. The rule that follows: nets for almost everything; individual cords only as supplementary cinches, never as the primary attachment. The physics and safety discipline of carrying loads on a motorbike overall lives in [Carrying Luggage and Loads on a Motorbike]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}).
 
 ## Hook discipline
 
@@ -31,10 +31,10 @@ The four classic failures, all seen daily on Vietnamese streets: hooks to plasti
 
 ## What nets cannot hold
 
-Nets secure shaped, soft, moderate loads. They are wrong for: rigid heavy items (a gas cylinder is not a net cargo, though Vietnam proves daily that it can be attempted — do not), very tall loads (aerodynamics and centre-of-gravity problems — the weight placement rules are in carrying-luggage-motorbike-safely-vietnam), and anything valuable that a net exposes on a parked bike — the lockable option for those items is covered in top-boxes-racks-motorbike-vietnam, and body-carry for the essentials is in what-to-carry-riding-motorbike-vietnam.
+Nets secure shaped, soft, moderate loads. They are wrong for: rigid heavy items (a gas cylinder is not a net cargo, though Vietnam proves daily that it can be attempted — do not), very tall loads (aerodynamics and centre-of-gravity problems — the weight placement rules are in [Carrying Luggage and Loads on a Motorbike]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }})), and anything valuable that a net exposes on a parked bike — the lockable option for those items is covered in [Top Boxes and Rear Racks for Motorbikes in Vietnam]({{ '/articles/top-boxes-racks-motorbike-vietnam/' | relative_url }}), and body-carry for the essentials is in [What to Carry While Riding a Motorbike in Vietnam]({{ '/articles/what-to-carry-riding-motorbike-vietnam/' | relative_url }}).
 
 ## Wear and the check habit
 
 Elastic loses memory: stretched-then-relaxed cords, frayed net edges, bent hooks — a net that has lost tension is worse than no net, because it looks secured and is not. Inspect before every use; replace at the first sign of dead elastic. Two nets overlap better than one giant one.
 
-Load low, hook to metal, tension in range, check every ride: four rules that make the humble net the most cost-effective luggage system on Vietnamese roads — with the everyday-bag comparison in backpack-vs-saddlebags-motorbike.
+Load low, hook to metal, tension in range, check every ride: four rules that make the humble net the most cost-effective luggage system on Vietnamese roads — with the everyday-bag comparison in [Backpack vs Saddlebags on a Motorbike: Carrying Your Life]({{ '/articles/backpack-vs-saddlebags-motorbike/' | relative_url }}).

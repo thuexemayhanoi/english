@@ -23,7 +23,7 @@ Lithium jump-starter packs were designed for cars, which is exactly why riders a
 
 ## The mismatch to understand
 
-A motorbike battery is small — typically a fraction of a car battery's capacity. Most jump packs deliver far more current than a bike starter even needs, and some cheap packs have poorly controlled output. What matters is voltage discipline, not amps: motorcycles are 12V systems, like cars, so the voltage is safe; the risks are reversed polarity and clamps bridging bike-frame metal. Always connect positive first, negative to an unpainted engine or frame point, and double-check polarity before hitting the button. The failure modes that flatten a bike battery in the first place are covered in dead-battery-motorbike-vietnam and battery-draining-overnight-motorbike.
+A motorbike battery is small — typically a fraction of a car battery's capacity. Most jump packs deliver far more current than a bike starter even needs, and some cheap packs have poorly controlled output. What matters is voltage discipline, not amps: motorcycles are 12V systems, like cars, so the voltage is safe; the risks are reversed polarity and clamps bridging bike-frame metal. Always connect positive first, negative to an unpainted engine or frame point, and double-check polarity before hitting the button. The failure modes that flatten a bike battery in the first place are covered in [A Dead Battery: Recovering a Motorbike That Won't Start]({{ '/articles/dead-battery-motorbike-vietnam/' | relative_url }}) and [Battery Draining Overnight: Finding the Cause]({{ '/articles/battery-draining-overnight-motorbike/' | relative_url }}).
 
 ## Procedure
 
@@ -31,7 +31,7 @@ Ignition off. Connect the pack, confirm the green/polarity light, start the bike
 
 ## Alternatives that often beat it
 
-Scooters and small bikes with kick or push-start options do not need a pack at all — a push start down the alley is the classic Vietnamese fix, and for bikes you ride rarely, the better purchase is maintenance, not rescue: battery-trickle-chargers-storage explains how to stop the slow discharge that causes most dead-battery mornings. If you do buy a pack, choose a small one with clear reverse-polarity protection, keep it charged, store it out of the underseat heat, and treat it as a back-up. It gets you home; it does not fix why the battery died — choosing-replacement-battery-motorbike-vietnam covers when the battery itself is finished.
+Scooters and small bikes with kick or push-start options do not need a pack at all — a push start down the alley is the classic Vietnamese fix, and for bikes you ride rarely, the better purchase is maintenance, not rescue: [Battery Trickle Chargers for Bikes You Don’t Ride Daily]({{ '/articles/battery-trickle-chargers-storage/' | relative_url }}) explains how to stop the slow discharge that causes most dead-battery mornings. If you do buy a pack, choose a small one with clear reverse-polarity protection, keep it charged, store it out of the underseat heat, and treat it as a back-up. It gets you home; it does not fix why the battery died — [Choosing a Replacement Motorbike Battery in Vietnam]({{ '/articles/choosing-replacement-battery-motorbike-vietnam/' | relative_url }}) covers when the battery itself is finished.
 
 ## One caution for rentals
 

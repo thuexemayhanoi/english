@@ -27,14 +27,14 @@ The classic tap has three positions: ON (run), OFF (parked), and RES (reserve). 
 
 ## The habits that keep you moving
 
-Fill up on a schedule, not on hope: know roughly how far a full tank carries your bike and refuel well before it matters. Reset your trip meter at every fill — it becomes your real fuel gauge. If a bike has sat parked for weeks, a leaky or wrongly positioned tap can drain fuel into the carburettor or onto the ground, so check under the bike before riding and treat any petrol smell seriously — fuel-leak-petrol-smell-motorbike covers that side of things, and fuel-gauge-inaccurate-motorbike handles the bikes that do have a gauge that lies.
+Fill up on a schedule, not on hope: know roughly how far a full tank carries your bike and refuel well before it matters. Reset your trip meter at every fill — it becomes your real fuel gauge. If a bike has sat parked for weeks, a leaky or wrongly positioned tap can drain fuel into the carburettor or onto the ground, so check under the bike before riding and treat any petrol smell seriously — [Smelling Petrol: Fuel Leaks and What to Do]({{ '/articles/fuel-leak-petrol-smell-motorbike/' | relative_url }}) covers that side of things, and [Why Your Motorbike's Fuel Gauge Lies]({{ '/articles/fuel-gauge-inaccurate-motorbike/' | relative_url }}) handles the bikes that do have a gauge that lies.
 
 ## Water, rust and the bottom of the tank
 
-The reserve position draws from the tank's lowest point, which is also where water condensation and rust flakes collect. If the bike sputters and dies on reserve minutes after switching, the cause may not be "no fuel" but dirty fuel reaching the carburettor — the filter-side of that story is in fuel-filters-fuel-lines-motorbike. A tank that feeds crud on reserve needs attention, not just another refill.
+The reserve position draws from the tank's lowest point, which is also where water condensation and rust flakes collect. If the bike sputters and dies on reserve minutes after switching, the cause may not be "no fuel" but dirty fuel reaching the carburettor — the filter-side of that story is in [Fuel Filters and Fuel Lines: Small Parts That Matter]({{ '/articles/fuel-filters-fuel-lines-motorbike/' | relative_url }}). A tank that feeds crud on reserve needs attention, not just another refill.
 
 ## Small tap, big consequences
 
-The fuel tap is a five-part mechanical puzzle that costs almost nothing to maintain and strands riders when ignored. Include it in the routine once-over described in motorbike-maintenance-basics-vietnam, and treat steady fuel economy — tracked as improving-fuel-economy-motorbike explains — as your early-warning system for the whole engine.
+The fuel tap is a five-part mechanical puzzle that costs almost nothing to maintain and strands riders when ignored. Include it in the routine once-over described in [Motorbike Maintenance Basics for Vietnam]({{ '/articles/motorbike-maintenance-basics-vietnam/' | relative_url }}), and treat steady fuel economy — tracked as [Improving Fuel Economy on a Motorbike]({{ '/articles/improving-fuel-economy-motorbike/' | relative_url }}) explains — as your early-warning system for the whole engine.
 
 Master the tap and the missing gauge stops mattering.

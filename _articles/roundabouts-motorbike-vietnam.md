@@ -19,7 +19,7 @@ sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
 internal_link_targets: "left-turns-across-traffic-motorbike-vietnam, traffic-light-rules-vietnam, motorbike-lane-rules-vietnam, defensive-riding-motorbike-vietnam, right-turn-on-red-vietnam"
 ---
-Roundabouts and big junctions are where Vietnamese traffic rules meet Vietnamese traffic behaviour — and they are where most new foreign riders have their first close call. The law sets out signals and priority — traffic-light-rules-vietnam covers it — but junction craft is practical knowledge.
+Roundabouts and big junctions are where Vietnamese traffic rules meet Vietnamese traffic behaviour — and they are where most new foreign riders have their first close call. The law sets out signals and priority — [Traffic Light Rules for Motorbikes in Vietnam]({{ '/articles/traffic-light-rules-vietnam/' | relative_url }}) covers it — but junction craft is practical knowledge.
 
 ## Roundabouts: yield, then flow
 
@@ -31,7 +31,7 @@ At big junctions, expect motorbikes to gather in front of cars at the stop line,
 
 ## Turning right
 
-Right turns are their own game — including the unusual signal-governed right-on-red case covered in right-turn-on-red-vietnam. Always check left before a right turn: bikes overtake on both sides here, and the one coming up your inside is the one you cannot see.
+Right turns are their own game — including the unusual signal-governed right-on-red case covered in [Right Turn on Red in Vietnam: When It Is Allowed]({{ '/articles/right-turn-on-red-vietnam/' | relative_url }}). Always check left before a right turn: bikes overtake on both sides here, and the one coming up your inside is the one you cannot see.
 
 ## Junctions without lights
 

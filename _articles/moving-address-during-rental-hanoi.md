@@ -24,11 +24,11 @@ Long-term renters move apartments — districts change, leases end, better place
 
 ## What changes with the shop
 
-Usually nothing. The agreement covers the bike, not your address. It is still worth sending a quick message to the shop with your new location, mainly so delivery or pickup conversations later are easy — delivery and pickup may be available depending on location and arrangement, as delivery-pickup-monthly-rental-hanoi explains.
+Usually nothing. The agreement covers the bike, not your address. It is still worth sending a quick message to the shop with your new location, mainly so delivery or pickup conversations later are easy — delivery and pickup may be available depending on location and arrangement, as [Delivery and Pickup for Monthly Motorbike Rentals]({{ '/articles/delivery-pickup-monthly-rental-hanoi/' | relative_url }}) explains.
 
 ## Parking is the real moving problem
 
-Your old guarded spot does not come with you. Before signing a new lease, check: does the building have motorbike parking, is it basement or courtyard, is it guarded, and what does it cost? If the answer is no, look for a nearby monthly parking garage before move-in day. Parking-monthly-renter-hanoi covers the daily options; keeping-rental-motorbike-secure-hanoi explains why a month of street parking is the risk that keeps costing.
+Your old guarded spot does not come with you. Before signing a new lease, check: does the building have motorbike parking, is it basement or courtyard, is it guarded, and what does it cost? If the answer is no, look for a nearby monthly parking garage before move-in day. Parking-monthly-renter-hanoi covers the daily options; [Keeping a Rental Motorbike Secure Over Months in Hanoi]({{ '/articles/keeping-rental-motorbike-secure-hanoi/' | relative_url }}) explains why a month of street parking is the risk that keeps costing.
 
 ## On moving day itself
 

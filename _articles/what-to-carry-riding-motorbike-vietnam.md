@@ -24,7 +24,7 @@ What you carry on a motorbike in Vietnam falls into two lists: things on your bo
 
 ## On you, always
 
-- Your licence (Vietnamese, or your home licence with an IDP — see documents-to-carry-motorbike-vietnam for exactly what police checks require)
+- Your licence (Vietnamese, or your home licence with an IDP — see [What Documents Must You Carry While Riding in Vietnam]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) for exactly what police checks require)
 - Phone with the rental shop's number saved, plus a little cash separate from your wallet
 - Nothing attached to your hands or around your neck — no bags slung crossbody while riding; use the compartment
 
@@ -36,8 +36,8 @@ Small automatics have under-seat room for a rain jacket, a lock, and a small pou
 
 - A compact rain suit during the wet months; Hanoi rain is sudden
 - A phone charging cable if your rental has a USB socket; many do not, so carry a power bank instead
-- A basic setup for a puncture situation: the shop's number and willingness to call them — most rentals carry a toolkit with the bike; confirm what is under the seat at handover (rental-motorbike-inspection-checklist)
-- A spare tube or tyre levers only if the shop provides them and you know how they work — see punctured-tyre-on-rental-motorbike before attempting roadside repair yourself
+- A basic setup for a puncture situation: the shop's number and willingness to call them — most rentals carry a toolkit with the bike; confirm what is under the seat at handover ([Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}))
+- A spare tube or tyre levers only if the shop provides them and you know how they work — see [Who Pays for a Punctured Tyre on a Rental Motorbike?]({{ '/articles/punctured-tyre-on-rental-motorbike/' | relative_url }}) before attempting roadside repair yourself
 
 ## Never leave in a parked bike
 
@@ -45,7 +45,7 @@ Documents, cash, laptops, and anything you would be upset to lose. Under-seat co
 
 ## Clothing choices
 
-Covered shoes beat flip-flops every time: hot exhausts and kickstands leave marks. A light long-sleeve layer saves you from sun and exhaust-fume grime on long rides. Helmet is legally required and rentals normally include one — see do-hanoi-rentals-include-helmets.
+Covered shoes beat flip-flops every time: hot exhausts and kickstands leave marks. A light long-sleeve layer saves you from sun and exhaust-fume grime on long rides. Helmet is legally required and rentals normally include one — see [Do Hanoi Rentals Include Helmets?]({{ '/articles/do-hanoi-rentals-include-helmets/' | relative_url }}).
 
 ## The one-sentence version
 

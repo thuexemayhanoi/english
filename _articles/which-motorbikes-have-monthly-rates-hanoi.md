@@ -37,14 +37,14 @@ These four are the automatic scooters on the list — and that is not a coincide
 
 - Honda Wave: 150,000 VND/day published; no published monthly rate
 - Yamaha Sirius: 150,000 VND/day published; no published monthly rate
-- E-Bike: 200,000 VND/day published; no published monthly rate (see e-bike-monthly-rental-hanoi)
+- E-Bike: 200,000 VND/day published; no published monthly rate (see [Monthly Rental of Electric Bikes and E-Bikes in Hanoi]({{ '/articles/e-bike-monthly-rental-hanoi/' | relative_url }}))
 - 50cc motorcycles: no published price at all; direct contact only
 
 For all of these, contact us to confirm the current monthly price and availability. A monthly figure for these models is a conversation, never an inference.
 
 ## What the split means for choosing
 
-The published-monthly group happens to cover the main commuter use cases well: the Vision for comfort, the Click and Mio as the light economical options, the Air Blade for a firmer, more powerful ride. The contact-only group adds the underbones (Wave, Sirius) — relevant if you prefer semi-automatic shifting — and electrics. The choice logic between those classes at month scale is in automatic-or-semi-automatic-monthly-hanoi and choosing-motorbike-monthly-rental-hanoi.
+The published-monthly group happens to cover the main commuter use cases well: the Vision for comfort, the Click and Mio as the light economical options, the Air Blade for a firmer, more powerful ride. The contact-only group adds the underbones (Wave, Sirius) — relevant if you prefer semi-automatic shifting — and electrics. The choice logic between those classes at month scale is in [Automatic or Semi-Automatic for a Monthly Rental in Hanoi]({{ '/articles/automatic-or-semi-automatic-monthly-hanoi/' | relative_url }}) and [Choosing the Right Motorbike for a Month in Hanoi]({{ '/articles/choosing-motorbike-monthly-rental-hanoi/' | relative_url }}).
 
 ## Availability, always
 

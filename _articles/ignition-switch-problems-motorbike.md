@@ -23,9 +23,9 @@ The ignition switch carries every amp the bike uses, several times a day, throug
 
 ## The symptoms
 
-- **Nothing at all**: key on, no lights, no horn, no click. Before blaming the switch, check the battery (dead-battery-motorbike-vietnam) and the main fuse — the switch is a suspect only after power is proven present at the battery.
+- **Nothing at all**: key on, no lights, no horn, no click. Before blaming the switch, check the battery ([A Dead Battery: Recovering a Motorbike That Won't Start]({{ '/articles/dead-battery-motorbike-vietnam/' | relative_url }})) and the main fuse — the switch is a suspect only after power is proven present at the battery.
 - **Intermittent**: the dash flickers when the key wiggles; the bike starts only with the key held slightly off-centre; one day the steering-lock position works better than ON. A classic worn-contact signature.
-- **Everything lights, starter clicks but engine won't run**: could be the switch's RUN circuit contacts — or the kill switch; see simple-electrical-faults-horn-switches-fuses.
+- **Everything lights, starter clicks but engine won't run**: could be the switch's RUN circuit contacts — or the kill switch; see [Simple Electrical Faults: Horns, Switches and Fuses]({{ '/articles/simple-electrical-faults-horn-switches-fuses/' | relative_url }}).
 - **Key will not turn**: grit, a worn key, or a lock damaged by a theft attempt.
 
 ## Why they fail in Vietnam
@@ -40,12 +40,12 @@ Rain and humidity corrode the internal contacts; dust grinds the wafer mechanism
 
 ## Testing honestly
 
-A mechanic with a multimeter can verify continuity across the switch positions in minutes — proof before parts. Switches are matched to the key set; on many bikes replacing the switch means either re-keying or carrying two keys (ignition plus fuel/seat). Some bikes also have a coded immobiliser chip in the key, which makes "any switch" impossible: the replacement must match the bike's system. Factor that in before buying used parts — the parts-sourcing rules are in spare-parts-availability-vietnam.
+A mechanic with a multimeter can verify continuity across the switch positions in minutes — proof before parts. Switches are matched to the key set; on many bikes replacing the switch means either re-keying or carrying two keys (ignition plus fuel/seat). Some bikes also have a coded immobiliser chip in the key, which makes "any switch" impossible: the replacement must match the bike's system. Factor that in before buying used parts — the parts-sourcing rules are in [Spare Parts Availability in Vietnam]({{ '/articles/spare-parts-availability-vietnam/' | relative_url }}).
 
 ## Prevention is short
 
 - Light keychain, no weight swinging on the key.
-- A rubber switch cover or a smear of dielectric protection against rain, per the humidity defence in wiring-connectors-humidity-motorbike.
+- A rubber switch cover or a smear of dielectric protection against rain, per the humidity defence in [Protecting Wiring and Connectors from Humidity on a Motorbike]({{ '/articles/wiring-connectors-humidity-motorbike/' | relative_url }}).
 - If the key copies badly, cut a new one from the original code rather than a copy of a copy.
 
-Ignition switches announce their death early. Treat the flicker as a service item, not a quirk — finding a workshop conveniently is covered in motorbike-service-where-vietnam, and intermittent no-starts that are not the switch belong in electric-start-starter-motor-problems.
+Ignition switches announce their death early. Treat the flicker as a service item, not a quirk — finding a workshop conveniently is covered in [Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }}), and intermittent no-starts that are not the switch belong in [Electric Start Problems: Starter Motors and Clicks That Go Nowhere]({{ '/articles/electric-start-starter-motor-problems/' | relative_url }}).

@@ -23,18 +23,18 @@ Plenty of motorbikes on Vietnamese streets still carry a kick starter, and even 
 
 ## What happens when you kick
 
-The lever turns a ratcheting mechanism that spins the crankshaft through gears. That ratchet — the sprung pawl that bites when you kick and freewheels when the engine starts — is the heart of the system. It lives in oil on most designs, which is good news: regular engine oil changes help it. The bad news is that nobody thinks about it until it fails, and a slipping kick is covered in kick-start-slipping-motorbike.
+The lever turns a ratcheting mechanism that spins the crankshaft through gears. That ratchet — the sprung pawl that bites when you kick and freewheels when the engine starts — is the heart of the system. It lives in oil on most designs, which is good news: regular engine oil changes help it. The bad news is that nobody thinks about it until it fails, and a slipping kick is covered in [Kick Start Slipping: When the Lever Spins Without Biting]({{ '/articles/kick-start-slipping-motorbike/' | relative_url }}).
 
 ## Use it or lose it
 
-The most common cause of kick-starter failure is simple disuse. Pawls get sluggish, return springs weaken, and pivots go dry. If your bike has a kick starter, use it occasionally even when the electric start works — it keeps the mechanism exercised and, in cold weather, two or three slow "primer" kicks with the ignition off (or as the manual directs) also move fresh oil around before a cold start. The full cold-start routine is in cold-start-motorbike-winter-vietnam.
+The most common cause of kick-starter failure is simple disuse. Pawls get sluggish, return springs weaken, and pivots go dry. If your bike has a kick starter, use it occasionally even when the electric start works — it keeps the mechanism exercised and, in cold weather, two or three slow "primer" kicks with the ignition off (or as the manual directs) also move fresh oil around before a cold start. The full cold-start routine is in [Cold Mornings: Starting a Motorbike in Hanoi's Winter]({{ '/articles/cold-start-motorbike-winter-vietnam/' | relative_url }}).
 
 ## The maintenance list
 
 - **Pivot and lever**: the lever's own pivot bolt collects road grime; a clean and light grease during other work keeps the action smooth.
 - **Return spring**: if the lever does not snap back crisply after a kick, the spring is tired or the pivot is dirty — do not ride with a dangling lever.
-- **Cable-free designs**: most kicks are all-mechanical, but on some models a decompression lever or cable is part of the starting ritual; its condition follows the same rules as the throttle cable in throttle-cable-free-play-motorbike.
-- **Lubrication generally**: the kick pivot appears in the walk-round checklist in lubrication-points-motorbike-vietnam.
+- **Cable-free designs**: most kicks are all-mechanical, but on some models a decompression lever or cable is part of the starting ritual; its condition follows the same rules as the throttle cable in [Throttle Cable Care and Free Play on a Motorbike]({{ '/articles/throttle-cable-free-play-motorbike/' | relative_url }}).
+- **Lubrication generally**: the kick pivot appears in the walk-round checklist in [Grease Points: Where Lubrication Matters on a Motorbike]({{ '/articles/lubrication-points-motorbike-vietnam/' | relative_url }}).
 
 ## Kicking technique protects the mechanism
 
@@ -42,4 +42,4 @@ Kick with a firm full-body stroke, following through — a hesitant half-kick is
 
 ## When the battery is the real problem
 
-A kick starter that works but an electric start that only clicks tells you the problem is electrical, not the starter mechanism — the diagnosis lives in dead-battery-motorbike-vietnam. The kick is your backup, not a reason to ignore the fault. Treat the lever as a maintenance item like any other: used regularly, cleaned occasionally, replaced when the ratchet starts to feel vague.
+A kick starter that works but an electric start that only clicks tells you the problem is electrical, not the starter mechanism — the diagnosis lives in [A Dead Battery: Recovering a Motorbike That Won't Start]({{ '/articles/dead-battery-motorbike-vietnam/' | relative_url }}). The kick is your backup, not a reason to ignore the fault. Treat the lever as a maintenance item like any other: used regularly, cleaned occasionally, replaced when the ratchet starts to feel vague.

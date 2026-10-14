@@ -23,19 +23,19 @@ Nose first, eyes second: a burning smell arrives before a breakdown, usually by 
 
 ## Hot oil
 
-The smell of oil heated past its comfort zone: acrid, heavy, distinct from exhaust. Sources: an engine running hot (the cooling diagnosis is in motorbike-overheating-causes), oil leaking onto the exhaust — a weeping valve-cover gasket or a loose filter dripping onto a hot pipe produces the smell of a barbecue that should not exist. An oil smell that appears at speed and fades at stops is usually a drip finding the exhaust. Find the wet patch before it becomes a fire risk near the engine.
+The smell of oil heated past its comfort zone: acrid, heavy, distinct from exhaust. Sources: an engine running hot (the cooling diagnosis is in [When a Motorbike Overheats]({{ '/articles/motorbike-overheating-causes/' | relative_url }})), oil leaking onto the exhaust — a weeping valve-cover gasket or a loose filter dripping onto a hot pipe produces the smell of a barbecue that should not exist. An oil smell that appears at speed and fades at stops is usually a drip finding the exhaust. Find the wet patch before it becomes a fire risk near the engine.
 
 ## Cooked brakes
 
-Friction material heated past its limits smells like burnt toast with a chemical edge. The causes: a dragging caliper — see sticking-brakes-caliper-cleaning — riding the brake downhill, or a seized master cylinder keeping pressure on. The smell plus a hot rim plus a bike that decelerates with the throttle closed is a stop-and-fix-now situation: cooked brakes do not recover by cooling; the pads glaze and fade.
+Friction material heated past its limits smells like burnt toast with a chemical edge. The causes: a dragging caliper — see [Sticking Brakes: Cleaning Calipers and Sliding Pins]({{ '/articles/sticking-brakes-caliper-cleaning/' | relative_url }}) — riding the brake downhill, or a seized master cylinder keeping pressure on. The smell plus a hot rim plus a bike that decelerates with the throttle closed is a stop-and-fix-now situation: cooked brakes do not recover by cooling; the pads glaze and fade.
 
 ## Electrical insulation
 
-The most dangerous smell: sharp, bitter, plastic-adjacent, unlike any mechanical smell. Overheated wiring, a melting connector, or a failing electrical component produces it. If you smell it: stop, switch off, and look — a browned connector, a swollen relay body, insulation gone shiny. Never keep riding to "see"; melted harnesses turn a cheap repair into a harness replacement, and electrical fires start from exactly this smell being ignored. Connector protection is in wiring-connectors-humidity-motorbike.
+The most dangerous smell: sharp, bitter, plastic-adjacent, unlike any mechanical smell. Overheated wiring, a melting connector, or a failing electrical component produces it. If you smell it: stop, switch off, and look — a browned connector, a swollen relay body, insulation gone shiny. Never keep riding to "see"; melted harnesses turn a cheap repair into a harness replacement, and electrical fires start from exactly this smell being ignored. Connector protection is in [Protecting Wiring and Connectors from Humidity on a Motorbike]({{ '/articles/wiring-connectors-humidity-motorbike/' | relative_url }}).
 
 ## Clutch and belt
 
-A slipping wet clutch smells of hot, oily friction; the diagnosis is in clutch-slipping-manual-motorbike. On scooters, a CVT belt dragging or a one-way clutch slipping smells of hot rubber — sweetish and unmistakable. A belt at the end of its life smells before it snaps, and a snapped belt strands a scooter instantly; the CVT story is in cvt-belt-variator-scooter-vietnam.
+A slipping wet clutch smells of hot, oily friction; the diagnosis is in [Manual Clutch Slipping: Causes and Fixes]({{ '/articles/clutch-slipping-manual-motorbike/' | relative_url }}). On scooters, a CVT belt dragging or a one-way clutch slipping smells of hot rubber — sweetish and unmistakable. A belt at the end of its life smells before it snaps, and a snapped belt strands a scooter instantly; the CVT story is in [CVT Belts and Variators: Automatic Scooter Drivetrain Basics]({{ '/articles/cvt-belt-variator-scooter-vietnam/' | relative_url }}).
 
 ## Rubber and plastic on the exhaust
 

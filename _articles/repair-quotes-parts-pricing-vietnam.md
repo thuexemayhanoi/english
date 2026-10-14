@@ -23,19 +23,19 @@ Vietnamese motorbike repair is famously affordable — and famously variable. Tw
 
 ## What a quote is really made of
 
-The parts line dominates. The same repair can use a manufacturer part, a reputable aftermarket part, or a cheap copy, and the quote often reflects whichever the shop assumed. So the most useful question is not "how much?" but "which part, and who makes it?" — the counterfeit-parts reality and the warning signs are laid out in genuine-vs-fake-parts-motorbike-vietnam. The second question is "what exactly will you do?" A quote for "fixing the noise" is not a quote; a quote for "replace front brake pads, genuine, including fitting" is.
+The parts line dominates. The same repair can use a manufacturer part, a reputable aftermarket part, or a cheap copy, and the quote often reflects whichever the shop assumed. So the most useful question is not "how much?" but "which part, and who makes it?" — the counterfeit-parts reality and the warning signs are laid out in [Genuine Versus Fake Motorbike Parts in Vietnam]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}). The second question is "what exactly will you do?" A quote for "fixing the noise" is not a quote; a quote for "replace front brake pads, genuine, including fitting" is.
 
 ## Get the diagnosis before the price
 
-Order matters: fault first, then part choice, then price. Shops that quote before seeing the bike are guessing. For anything beyond consumables, ask the mechanic to show you the worn part and explain why it failed — a failed bearing that is being replaced should be in your hand. The conversation itself, phrase by phrase, is covered in talking-to-mechanic-vietnam.
+Order matters: fault first, then part choice, then price. Shops that quote before seeing the bike are guessing. For anything beyond consumables, ask the mechanic to show you the worn part and explain why it failed — a failed bearing that is being replaced should be in your hand. The conversation itself, phrase by phrase, is covered in [Getting Repairs Done: Talking to a Vietnamese Mechanic]({{ '/articles/talking-to-mechanic-vietnam/' | relative_url }}).
 
 ## The honest norms
 
-Legitimate shops in Vietnam are happy to show you the old parts, state the brand of the new ones, and explain what was actually done. Loud upselling — "everything is worn, replace everything" — is a warning sign, not a cultural difference. Equally honest: small shops often diagnose by experience rather than instruments, which works well on the common fleet and poorly on unusual bikes; matching the shop to the bike is in motorbike-service-where-vietnam.
+Legitimate shops in Vietnam are happy to show you the old parts, state the brand of the new ones, and explain what was actually done. Loud upselling — "everything is worn, replace everything" — is a warning sign, not a cultural difference. Equally honest: small shops often diagnose by experience rather than instruments, which works well on the common fleet and poorly on unusual bikes; matching the shop to the bike is in [Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }}).
 
 ## Buying parts yourself
 
-Buying the part and paying only for labour can cut costs, but the responsibility shifts: if the part is wrong or a copy fails, the shop owes you nothing but labour time. Self-supplying makes sense for simple consumables from a trusted source, and much less sense for anything safety-critical or warranty-relevant. On a used bike with unknown history, pair repairs with a condition check — used-motorbike-inspection-vietnam shows what a thorough look covers.
+Buying the part and paying only for labour can cut costs, but the responsibility shifts: if the part is wrong or a copy fails, the shop owes you nothing but labour time. Self-supplying makes sense for simple consumables from a trusted source, and much less sense for anything safety-critical or warranty-relevant. On a used bike with unknown history, pair repairs with a condition check — [Buying a Used Motorbike in Vietnam: Inspection Basics]({{ '/articles/used-motorbike-inspection-vietnam/' | relative_url }}) shows what a thorough look covers.
 
 ## Rules of thumb
 

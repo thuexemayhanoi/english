@@ -51,4 +51,4 @@ Both are open to the rain. E-bike electronics and connectors dislike flooding mo
 
 And if what you actually want is a scooter-style electric moped rather than a pedal bike, that is a third comparison — see our 4 [kW electric moped versus 50cc article]({{ '/articles/50cc-vs-electric-moped-4kw/' | relative_url }}). Contact us to confirm current availability of any rental option.
 
-For the two electric formats compared head to head, see our pedal-e-bike-vs-scooter-electric-vietnam [guide]({{ '/articles/pedal-e-bike-vs-scooter-electric-vietnam/' | relative_url }}); the speed classes each format belongs to are explained in electric-two-wheeler-speed-classes-vietnam.
+For the two electric formats compared head to head, see our [Pedal E-Bike vs Scooter-Style Electric in Vietnam]({{ '/articles/pedal-e-bike-vs-scooter-electric-vietnam/' | relative_url }}) [guide]({{ '/articles/pedal-e-bike-vs-scooter-electric-vietnam/' | relative_url }}); the speed classes each format belongs to are explained in [Electric Two-Wheeler Speed Classes in Vietnam: 25, 50, 70 and 90 km/h]({{ '/articles/electric-two-wheeler-speed-classes-vietnam/' | relative_url }}).

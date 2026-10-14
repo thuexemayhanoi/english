@@ -31,11 +31,11 @@ Manufacturer schedules assume average use. Dense stop-start traffic, sustained h
 
 ## The triggers that override any schedule
 
-Certain findings mean "service now, whatever the book says": milky or glittering oil (checking-engine-oil-motorbike), brakes that feel spongy or grind (brake-checks-motorbike-vietnam), a chain with stiff links or visible sag, tyres at the wear bars, and any new noise, smell or vibration you cannot explain. Between scheduled services, the bike asking for attention outranks the calendar.
+Certain findings mean "service now, whatever the book says": milky or glittering oil ([Checking Engine Oil on a Motorbike]({{ '/articles/checking-engine-oil-motorbike/' | relative_url }})), brakes that feel spongy or grind ([Checking Brakes on a Motorbike]({{ '/articles/brake-checks-motorbike-vietnam/' | relative_url }})), a chain with stiff links or visible sag, tyres at the wear bars, and any new noise, smell or vibration you cannot explain. Between scheduled services, the bike asking for attention outranks the calendar.
 
 ## Renters
 
-On a rental, servicing is the shop's responsibility, not your DIY project. For heavy use, the owner's practical guidance is periodic checks around every 1,500 km or more of riding — presented as shop guidance, not a manufacturer interval; high-mileage-rental-motorbike-inspection covers that rhythm. Where to have work done is covered in motorbike-service-where-vietnam.
+On a rental, servicing is the shop's responsibility, not your DIY project. For heavy use, the owner's practical guidance is periodic checks around every 1,500 km or more of riding — presented as shop guidance, not a manufacturer interval; [High-Mileage Rental Riding: When to Bring the Bike Back for Inspection]({{ '/articles/high-mileage-rental-motorbike-inspection/' | relative_url }}) covers that rhythm. Where to have work done is covered in [Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }}).
 
 ## The one-line version
 

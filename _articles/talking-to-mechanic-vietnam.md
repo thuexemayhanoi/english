@@ -23,7 +23,7 @@ You do not need fluent Vietnamese to get a motorbike fixed well in Vietnam — r
 
 ## Choose the shop for the job
 
-A general street stand handles oil changes, chains, brakes and tune-ups. A tyre shop for tyres, an electrical specialist for charging faults, a transmission shop for CVT work — motorbike-service-where-vietnam covers how to spot a good one. For rental bikes, check the agreement first: outside-repair-shops-rental-motorbike explains when the rental shop should handle it instead.
+A general street stand handles oil changes, chains, brakes and tune-ups. A tyre shop for tyres, an electrical specialist for charging faults, a transmission shop for CVT work — [Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }}) covers how to spot a good one. For rental bikes, check the agreement first: [Can You Use Outside Repair Shops on a Rental Motorbike?]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) explains when the rental shop should handle it instead.
 
 ## Describe it like a rider, not a diagnosis
 
@@ -31,7 +31,7 @@ Mechanics fix symptoms better than theories. "Rattling from the front at speed, 
 
 ## Stay, watch, ask
 
-Vietnamese shops expect you to stay while they work — it is normal and useful. Watching means you learn what was actually done, you see the old parts, and nobody "replaces" something that was fine. Ask to see the worn part before it goes in the bin; a good mechanic shows you happily. If new parts are involved, the genuine-vs-fake question is legitimate — genuine-vs-fake-parts-motorbike-vietnam explains what to watch for.
+Vietnamese shops expect you to stay while they work — it is normal and useful. Watching means you learn what was actually done, you see the old parts, and nobody "replaces" something that was fine. Ask to see the worn part before it goes in the bin; a good mechanic shows you happily. If new parts are involved, the genuine-vs-fake question is legitimate — [Genuine Versus Fake Motorbike Parts in Vietnam]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}) explains what to watch for.
 
 ## Agree the price before, pay after
 
@@ -39,4 +39,4 @@ For anything beyond a trivial fix, agree the rough cost before the work starts �
 
 ## The long-term win
 
-Once you find a shop that shows you old parts and fixes things honestly, become a regular — the relationship becomes your best maintenance tool, and motorbike-service-where-vietnam covers the city logistics of building one.
+Once you find a shop that shows you old parts and fixes things honestly, become a regular — the relationship becomes your best maintenance tool, and [Finding a Trustworthy Motorbike Mechanic in Vietnam]({{ '/articles/motorbike-service-where-vietnam/' | relative_url }}) covers the city logistics of building one.

@@ -23,11 +23,11 @@ An alarm is the audible layer of motorbike security: it cannot stop a profession
 
 ## What an alarm adds over locks
 
-Locks (covered in disc-locks-chains-motorbike-security) delay; alarms broadcast. Together they are the classic pairing: the thief fights a lock in a spotlight of noise. Modern systems also add a remote that pages you, immobiliser cuts, and sometimes tracking — but the siren remains the core. Note what alarms are not: a physical barrier. An alarm alone is a loud suggestion.
+Locks (covered in [Motorbike Security: Disc Locks, Chains and What Actually Deters]({{ '/articles/disc-locks-chains-motorbike-security/' | relative_url }})) delay; alarms broadcast. Together they are the classic pairing: the thief fights a lock in a spotlight of noise. Modern systems also add a remote that pages you, immobiliser cuts, and sometimes tracking — but the siren remains the core. Note what alarms are not: a physical barrier. An alarm alone is a loud suggestion.
 
 ## The installation is the product
 
-A cheap alarm installed badly is worse than nothing: hacked wiring splices, borrowed grounds and untaped joins create the intermittent electrical gremlins that plague Vietnamese bikes — the wiring-quality problem is laid out in wiring-connectors-humidity-motorbike. Insist on a proper shop, fused connections, soldered or properly-connectorized joints, and a clean path for the siren where it cannot be easily reached and muted. Ask for a walk-through of the wiring when it is done.
+A cheap alarm installed badly is worse than nothing: hacked wiring splices, borrowed grounds and untaped joins create the intermittent electrical gremlins that plague Vietnamese bikes — the wiring-quality problem is laid out in [Protecting Wiring and Connectors from Humidity on a Motorbike]({{ '/articles/wiring-connectors-humidity-motorbike/' | relative_url }}). Insist on a proper shop, fused connections, soldered or properly-connectorized joints, and a clean path for the siren where it cannot be easily reached and muted. Ask for a walk-through of the wiring when it is done.
 
 ## The false-alarm economy
 
@@ -35,8 +35,8 @@ Sensitivity is a social contract: an alarm that screams at every passing motorbi
 
 ## The battery tax
 
-Alarms draw a small constant current; a bike parked for weeks with an armed alarm can flatten its battery — the charging-and-battery realities are covered in battery-care-motorbike-vietnam territory, and the habit is simple: ride regularly, or expect a flat battery after long idle periods. Rental riders should also check what the agreement says about modifications before installing anything on a rental bike — the responsibility boundaries in theft-loss-responsibility-rental-motorbike-hanoi apply.
+Alarms draw a small constant current; a bike parked for weeks with an armed alarm can flatten its battery — the charging-and-battery realities are covered in [Battery Care on a Motorbike]({{ '/articles/battery-care-motorbike-vietnam/' | relative_url }}) territory, and the habit is simple: ride regularly, or expect a flat battery after long idle periods. Rental riders should also check what the agreement says about modifications before installing anything on a rental bike — the responsibility boundaries in [Theft and Loss Responsibility on Rental Motorbikes in Hanoi]({{ '/articles/theft-loss-responsibility-rental-motorbike-hanoi/' | relative_url }}) apply.
 
 ## Where alarms fit the stack
 
-Alarm + disc lock + watched parking (see where-to-park-motorbike-hanoi) is a serious stack. Alarm alone is noise; locks alone are silence. Together they are the difference between "gone" and "gone wrong, for the thief".
+Alarm + disc lock + watched parking (see [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }})) is a serious stack. Alarm alone is noise; locks alone are silence. Together they are the difference between "gone" and "gone wrong, for the thief".

@@ -31,17 +31,17 @@ The classic: an ignition coil or ignition module that fails hot and recovers col
 
 ## Suspect two: valve clearances
 
-Valves with too little clearance close up as the engine heats: hot metal expansion takes up the remaining gap, the valve stops sealing fully, compression drops, and the engine runs rough and stalls when hot — but starts fine cold. The valve-clearance basics are in valve-clearances-motorbike-basics. This is the most common mechanical hot-stall on small Vietnamese engines, and checking clearances is a routine service item, not open-heart surgery.
+Valves with too little clearance close up as the engine heats: hot metal expansion takes up the remaining gap, the valve stops sealing fully, compression drops, and the engine runs rough and stalls when hot — but starts fine cold. The valve-clearance basics are in [Valve Clearances: Why They Matter on a Vietnamese Motorbike]({{ '/articles/valve-clearances-motorbike-basics/' | relative_url }}). This is the most common mechanical hot-stall on small Vietnamese engines, and checking clearances is a routine service item, not open-heart surgery.
 
 ## Suspect three: fuel problems of heat
 
 - **Vapour lock / fuel boiling.** Fuel lines routed too near the engine, or a hot day in heavy traffic, can boil fuel in the line or carburettor: bubbles block flow. The engine dies warm, restarts after a rest. Inspect routing; a heat-soaked carburettor also floods easily.
-- **A tank not venting.** Vacuum builds as fuel is used and starves the engine — the cap-open whoosh test; see fuel-starvation-power-loss-motorbike.
-- **Idle set wrong when warm.** A cold-start idle that is merely high, but is compensating for a rich-running or rough condition, fails when the engine comes down to hot idle — the adjustment logic is in idle-speed-adjustment-motorbike.
+- **A tank not venting.** Vacuum builds as fuel is used and starves the engine — the cap-open whoosh test; see [Fuel Starvation: Power Loss at Speed]({{ '/articles/fuel-starvation-power-loss-motorbike/' | relative_url }}).
+- **Idle set wrong when warm.** A cold-start idle that is merely high, but is compensating for a rich-running or rough condition, fails when the engine comes down to hot idle — the adjustment logic is in [Idle Speed: Setting It, and What It Reveals]({{ '/articles/idle-speed-adjustment-motorbike/' | relative_url }}).
 
 ## Suspect four: general overheating
 
-An engine genuinely running hot loses power and stalls — the cooling-side diagnosis is in motorbike-overheating-causes, and its rough-idle cousin is in rough-idle-motorbike-troubleshooting.
+An engine genuinely running hot loses power and stalls — the cooling-side diagnosis is in [When a Motorbike Overheats]({{ '/articles/motorbike-overheating-causes/' | relative_url }}), and its rough-idle cousin is in [Rough Idle: Troubleshooting a Motorbike That Won't Idle Smoothly]({{ '/articles/rough-idle-motorbike-troubleshooting/' | relative_url }}).
 
 ## What to do in traffic
 

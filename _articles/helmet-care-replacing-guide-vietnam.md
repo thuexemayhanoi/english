@@ -31,10 +31,10 @@ The structural enemies: solvents (petrol, strong cleaners, insect-remover chemic
 
 ## When to replace, beyond crashes
 
-Replace when the retention strap or its fasteners show wear; when the interior pads have packed out so much the fit is loose (a loose helmet is a broken helmet — re-check fit per helmet-fit-guide-vietnam); when the shell has deep scratches, cracks or fading from UV; and simply with age — the manufacturer's stated lifespan is the only valid figure, not folklore. A helmet's freshness also matters for the visor: a scratched, hazy visor at night is a real hazard — the anti-fog and cleaning habits are worth pairing from full-face-vs-open-face-helmet-vietnam.
+Replace when the retention strap or its fasteners show wear; when the interior pads have packed out so much the fit is loose (a loose helmet is a broken helmet — re-check fit per [How to Choose and Fit a Helmet in Vietnam]({{ '/articles/helmet-fit-guide-vietnam/' | relative_url }})); when the shell has deep scratches, cracks or fading from UV; and simply with age — the manufacturer's stated lifespan is the only valid figure, not folklore. A helmet's freshness also matters for the visor: a scratched, hazy visor at night is a real hazard — the anti-fog and cleaning habits are worth pairing from [Full-Face vs Open-Face Helmets for Riding in Vietnam]({{ '/articles/full-face-vs-open-face-helmet-vietnam/' | relative_url }}).
 
 ## The Vietnamese market caveat
 
-Replacement helmets are everywhere and cheap ones are everywhere too. The certification and counterfeit cautions that apply to every part of the two-wheeled world apply double to the one part that protects your head; the legal baseline for helmets on Vietnamese roads is covered in helmet-law-vietnam. Spend on the helmet what you would spend on a night out — it is the cheapest insurance sold without paperwork.
+Replacement helmets are everywhere and cheap ones are everywhere too. The certification and counterfeit cautions that apply to every part of the two-wheeled world apply double to the one part that protects your head; the legal baseline for helmets on Vietnamese roads is covered in [Vietnam Helmet Law: Rules for Riders and Passengers]({{ '/articles/helmet-law-vietnam/' | relative_url }}). Spend on the helmet what you would spend on a night out — it is the cheapest insurance sold without paperwork.
 
 Care costs minutes; a compromised helmet costs the one thing it existed to protect.

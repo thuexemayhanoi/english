@@ -25,7 +25,7 @@ A motorbike sells at the intersection of two stories: what it is, and how it loo
 
 Before polishing anything, decide what gets fixed and what gets disclosed:
 
-- **Cheap, visible, worth fixing**: brake pads, bulbs, a frayed lever, bald tyres. A buyer's checklist mirrors the used-bike inspection in used-motorbike-inspection-vietnam — anything that article tells buyers to check is what your bike will fail on.
+- **Cheap, visible, worth fixing**: brake pads, bulbs, a frayed lever, bald tyres. A buyer's checklist mirrors the used-bike inspection in [Buying a Used Motorbike in Vietnam: Inspection Basics]({{ '/articles/used-motorbike-inspection-vietnam/' | relative_url }}) — anything that article tells buyers to check is what your bike will fail on.
 - **Expensive or invisible**: worn top-end, tired suspension. Do not spend on big repairs for sale; price honestly and disclose. Buyers discount discovered faults twice as hard as confessed ones.
 - **Nothing broken, all neglected**: then the job is fluids and adjustment — a fresh oil change, chain cleaned and adjusted, levers set, tyre pressures correct. A bike that "feels tight" in a test ride earns trust immediately.
 
@@ -39,7 +39,7 @@ In Vietnam the paperwork can matter as much as the machine: the registration boo
 
 ## The honest service story
 
-If you have service records, stamps or receipts, present them — they are the seller's strongest evidence, and warranty-era books add real value (the book's story is in warranty-dealer-service-vietnam). If you have no records, then: honestly describe the maintenance the bike received. Buyers have heard every claim; verifiable specifics (a named mechanic, a dated oil change) outperform adjectives — the mechanic-relationship angle is in talking-to-mechanic-vietnam.
+If you have service records, stamps or receipts, present them — they are the seller's strongest evidence, and warranty-era books add real value (the book's story is in [Warranties and Dealer Servicing in Vietnam]({{ '/articles/warranty-dealer-service-vietnam/' | relative_url }})). If you have no records, then: honestly describe the maintenance the bike received. Buyers have heard every claim; verifiable specifics (a named mechanic, a dated oil change) outperform adjectives — the mechanic-relationship angle is in [Getting Repairs Done: Talking to a Vietnamese Mechanic]({{ '/articles/talking-to-mechanic-vietnam/' | relative_url }}).
 
 ## The listing
 

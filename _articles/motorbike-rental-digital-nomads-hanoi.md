@@ -24,24 +24,24 @@ A nomad month in Hanoi has a rhythm: mornings in a coworking space or cafe, afte
 
 ## The nomad case for rental over buying
 
-You are here for one to three months, maybe six. Buying a bike means paperwork in Vietnamese, a resale scramble at the end, and a purchase mistake you cannot easily undo. Renting means a known monthly cost, maintenance included on Nguyen Tu rentals (see what-is-included-motorbike-rental-hanoi), and handing it back when you fly on. The economics are in renting-vs-buying-a-motorbike-hanoi; the monthly rate table — for example Honda Click and Yamaha Mio at 1,000,000–1,200,000 VND/month, Honda Vision at 1,800,000–2,000,000 VND — is in daily-weekly-monthly-motorbike-rental-hanoi. Longer-term arrangements beyond published periods are negotiable with the shop; contact us to discuss.
+You are here for one to three months, maybe six. Buying a bike means paperwork in Vietnamese, a resale scramble at the end, and a purchase mistake you cannot easily undo. Renting means a known monthly cost, maintenance included on Nguyen Tu rentals (see [What Is Included in a Hanoi Motorbike Rental?]({{ '/articles/what-is-included-motorbike-rental-hanoi/' | relative_url }})), and handing it back when you fly on. The economics are in [Renting vs Buying a Motorbike in Hanoi: Cost and Convenience]({{ '/articles/renting-vs-buying-a-motorbike-hanoi/' | relative_url }}); the monthly rate table — for example Honda Click and Yamaha Mio at 1,000,000–1,200,000 VND/month, Honda Vision at 1,800,000–2,000,000 VND — is in [Daily, Weekly or Monthly Motorbike Rental in Hanoi: How to Choose]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}). Longer-term arrangements beyond published periods are negotiable with the shop; contact us to discuss.
 
 ## Choosing for a work-and-explore month
 
-Your daily loop is apartment to coworking space to gym to cafe — all short city hops — plus weekend rides. An automatic scooter serves both; a semi-automatic adds interest for the weekend leg at the cost of some stop-start ease. The trade-offs are in automatic-vs-manual-motorbike-hanoi and scooter-vs-semi-automatic-hanoi.
+Your daily loop is apartment to coworking space to gym to cafe — all short city hops — plus weekend rides. An automatic scooter serves both; a semi-automatic adds interest for the weekend leg at the cost of some stop-start ease. The trade-offs are in [Automatic vs Semi-Automatic vs Manual: Which Bike to Rent in Hanoi]({{ '/articles/automatic-vs-manual-motorbike-hanoi/' | relative_url }}) and [Scooter vs Semi-Automatic Motorcycle for Hanoi Riding]({{ '/articles/scooter-vs-semi-automatic-hanoi/' | relative_url }}).
 
 ## The laptop problem
 
-Nomads carry laptops, and laptops do not like Hanoi rain or Hanoi dust. Under-seat scooter compartments hold a backpack loosely; the working solutions are a waterproof laptop sleeve inside a dry bag, never riding with the bag on your back in traffic (see what-to-carry-riding-motorbike-vietnam), and checking rain radar before the commute in the wet season. Riding in Hanoi rain has its own playbook — riding-rental-motorbike-hanoi-rain.
+Nomads carry laptops, and laptops do not like Hanoi rain or Hanoi dust. Under-seat scooter compartments hold a backpack loosely; the working solutions are a waterproof laptop sleeve inside a dry bag, never riding with the bag on your back in traffic (see [What to Carry While Riding a Motorbike in Vietnam]({{ '/articles/what-to-carry-riding-motorbike-vietnam/' | relative_url }})), and checking rain radar before the commute in the wet season. Riding in Hanoi rain has its own playbook — [Riding a Rental Motorbike in Hanoi Rain: What to Know]({{ '/articles/riding-rental-motorbike-hanoi-rain/' | relative_url }}).
 
 ## Parking as part of the routine
 
-Coworking spaces and malls have attended lots; cafe-street parking is kerbside. Build the parking check into your first week at each regular spot — where-to-park-motorbike-hanoi covers the etiquette and the ticket lots.
+Coworking spaces and malls have attended lots; cafe-street parking is kerbside. Build the parking check into your first week at each regular spot — [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}) covers the etiquette and the ticket lots.
 
 ## Weekend strategy
 
-The whole point of working from Hanoi is that Ninh Binh, Ba Vi, Duong Lam, and the Perfume Pagoda roads are a Saturday away. Read best-motorbike-for-day-trips-from-hanoi before the first weekend, and check that your rental agreement covers trips outside the city — rental-motorbike-outside-hanoi explains what to agree with the shop.
+The whole point of working from Hanoi is that Ninh Binh, Ba Vi, Duong Lam, and the Perfume Pagoda roads are a Saturday away. Read [Best Motorbike for Day Trips from Hanoi]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }}) before the first weekend, and check that your rental agreement covers trips outside the city — [Can You Take a Rental Motorbike Outside Hanoi?]({{ '/articles/rental-motorbike-outside-hanoi/' | relative_url }}) explains what to agree with the shop.
 
 ## The one-paragraph setup
 
-Monthly rental on an automatic, waterproofed laptop storage, the shop's number saved for breakdowns, weekend routes agreed with the shop, and deposit terms understood (motorbike-rental-agreement-hanoi). Set up this way, the bike disappears into the background of the work week and becomes the best part of the weekend.
+Monthly rental on an automatic, waterproofed laptop storage, the shop's number saved for breakdowns, weekend routes agreed with the shop, and deposit terms understood ([Understanding a Motorbike Rental Agreement in Hanoi]({{ '/articles/motorbike-rental-agreement-hanoi/' | relative_url }})). Set up this way, the bike disappears into the background of the work week and becomes the best part of the weekend.

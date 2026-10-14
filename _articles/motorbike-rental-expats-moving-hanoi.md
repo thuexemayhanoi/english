@@ -24,27 +24,27 @@ Every expat arriving in Hanoi goes through the same sequence: weeks of ride-hail
 
 ## Why rental fits the settling-in period
 
-You do not yet know where you will live, what routes you will ride, or what bike suits your life. Renting first answers all three empirically: try a scooter for a month, then a semi-automatic, and buy — or keep renting — with evidence instead of guesses. The comparison logic is in renting-vs-buying-a-motorbike-hanoi.
+You do not yet know where you will live, what routes you will ride, or what bike suits your life. Renting first answers all three empirically: try a scooter for a month, then a semi-automatic, and buy — or keep renting — with evidence instead of guesses. The comparison logic is in [Renting vs Buying a Motorbike in Hanoi: Cost and Convenience]({{ '/articles/renting-vs-buying-a-motorbike-hanoi/' | relative_url }}).
 
 ## Monthly rental terms
 
-Monthly is the standard expat arrangement. Nguyen Tu's published monthly rates apply to models where a monthly price is published (for example Honda Vision 1,800,000–2,000,000 VND, Honda Air Blade 1,400,000 VND, Honda Click and Yamaha Mio 1,000,000–1,200,000 VND); where no monthly rate is published, contact the shop to discuss — see daily-weekly-monthly-motorbike-rental-hanoi for the full rate picture. Longer-term arrangements beyond a month are negotiable with the shop; ask directly about longer-term rental terms.
+Monthly is the standard expat arrangement. Nguyen Tu's published monthly rates apply to models where a monthly price is published (for example Honda Vision 1,800,000–2,000,000 VND, Honda Air Blade 1,400,000 VND, Honda Click and Yamaha Mio 1,000,000–1,200,000 VND); where no monthly rate is published, contact the shop to discuss — see [Daily, Weekly or Monthly Motorbike Rental in Hanoi: How to Choose]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}) for the full rate picture. Longer-term arrangements beyond a month are negotiable with the shop; ask directly about longer-term rental terms.
 
 ## The licence, early
 
-The rental itself does not require a Vietnamese licence, but riding legally does. If you stay beyond your IDP's practical window, plan the exchange: expats resident in Vietnam can exchange their home licence for a Vietnamese one, with a residence requirement and a certified translation — the process is in expat-motorbike-licence-vietnam and foreign-licence-exchange-documents-vietnam. Starting early avoids the expired-paperwork gap.
+The rental itself does not require a Vietnamese licence, but riding legally does. If you stay beyond your IDP's practical window, plan the exchange: expats resident in Vietnam can exchange their home licence for a Vietnamese one, with a residence requirement and a certified translation — the process is in [Vietnam Motorbike Licence for Long-Term Expats]({{ '/articles/expat-motorbike-licence-vietnam/' | relative_url }}) and [Documents Required for Foreign Licence Exchange in Vietnam]({{ '/articles/foreign-licence-exchange-documents-vietnam/' | relative_url }}). Starting early avoids the expired-paperwork gap.
 
 ## Choosing the bike
 
-Commuting distance, parking at home and work, passenger habits, and rainy-season exposure all shape the choice. The decision framework is in best-motorbike-for-expats-hanoi, and the commuting-specific angle in best-motorbike-for-commuting-hanoi. Tall riders should check seat height before committing to a month — see best-motorbikes-for-tall-riders-vietnam.
+Commuting distance, parking at home and work, passenger habits, and rainy-season exposure all shape the choice. The decision framework is in [Best Motorbike for Expats Living in Hanoi]({{ '/articles/best-motorbike-for-expats-hanoi/' | relative_url }}), and the commuting-specific angle in [Best Motorbike for Commuting in Hanoi]({{ '/articles/best-motorbike-for-commuting-hanoi/' | relative_url }}). Tall riders should check seat height before committing to a month — see [Best Motorbikes for Tall Foreign Riders in Vietnam]({{ '/articles/best-motorbikes-for-tall-riders-vietnam/' | relative_url }}).
 
 ## What to nail down in the agreement
 
-For a month-long rental, the agreement details matter more than for a day: maintenance responsibility (Nguyen Tu's rentals include oil, chain, tyre-pressure checks and inspection — see what-is-included-motorbike-rental-hanoi), consumables like tubes and tyres depending on situation, breakdown handling within Hanoi (rental-motorbike-breakdown-hanoi), and the deposit terms (motorbike-rental-agreement-hanoi).
+For a month-long rental, the agreement details matter more than for a day: maintenance responsibility (Nguyen Tu's rentals include oil, chain, tyre-pressure checks and inspection — see [What Is Included in a Hanoi Motorbike Rental?]({{ '/articles/what-is-included-motorbike-rental-hanoi/' | relative_url }})), consumables like tubes and tyres depending on situation, breakdown handling within Hanoi ([What Happens If a Rental Motorbike Breaks Down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }})), and the deposit terms ([Understanding a Motorbike Rental Agreement in Hanoi]({{ '/articles/motorbike-rental-agreement-hanoi/' | relative_url }})).
 
 ## Parking at home
 
-Before signing a lease, check whether your building has motorbike parking. Where it does not, street parking lots near home become part of your daily routine — see where-to-park-motorbike-hanoi.
+Before signing a lease, check whether your building has motorbike parking. Where it does not, street parking lots near home become part of your daily routine — see [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}).
 
 ## The long arc
 

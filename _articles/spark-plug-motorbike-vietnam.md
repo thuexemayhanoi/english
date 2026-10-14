@@ -35,7 +35,7 @@ Removal is a one-socket job on most bikes, and Vietnamese workshops carry correc
 
 ## On a rental
 
-Starting trouble on a rental is a call to the shop, not a roadside plug purchase; outside-repair-shops-rental-motorbike covers that path.
+Starting trouble on a rental is a call to the shop, not a roadside plug purchase; [Can You Use Outside Repair Shops on a Rental Motorbike?]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) covers that path.
 
 ## The one-line version
 

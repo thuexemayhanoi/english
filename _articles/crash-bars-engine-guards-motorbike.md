@@ -23,7 +23,7 @@ In a country where low-speed falls and tip-overs are a realistic daily event —
 
 ## What they actually protect
 
-Crash bars take the bike's weight in a stationary tip-over and, in a low-speed slide, keep the frame, engine cases and plastic off the asphalt. For Vietnamese city bikes, the biggest everyday win is the parking and stopping one: a bike that falls over at zero speed bars-up has scratched metal instead of a cracked case, bent lever and gouged tank. On the rougher roads — the gravel and loose-surface reality of gravel-roads-motorbike-vietnam — they protect the cases from stones and the bike from the slow falls that surface loves.
+Crash bars take the bike's weight in a stationary tip-over and, in a low-speed slide, keep the frame, engine cases and plastic off the asphalt. For Vietnamese city bikes, the biggest everyday win is the parking and stopping one: a bike that falls over at zero speed bars-up has scratched metal instead of a cracked case, bent lever and gouged tank. On the rougher roads — the gravel and loose-surface reality of [Riding on Gravel and Loose Surfaces on a Motorbike]({{ '/articles/gravel-roads-motorbike-vietnam/' | relative_url }}) — they protect the cases from stones and the bike from the slow falls that surface loves.
 
 ## What they do not do
 
@@ -31,7 +31,7 @@ They are not a promise at speed: at highway energies a bike tumbles regardless, 
 
 ## Fitment realities
 
-Proper bars are model-specific, braced at strong frame points, and made of steel thick enough to hold the bike's weight (flimsy chrome dress bars fold). Vibration and loosening are the Vietnamese constants: check mount bolts periodically — a loose bar buzzes against the frame and feeds the general vibration-and-noise diagnosis in motorbike-handling-problems-wobble. Fitting questions — which brand, which thickness, what it mounts to — are exactly the conversation to have with a proper shop, covered in talking-to-mechanic-vietnam. And note the width: bars stick out slightly, which protects but also contacts parking neighbours — the tight-parking reality of where-to-park-motorbike-hanoi.
+Proper bars are model-specific, braced at strong frame points, and made of steel thick enough to hold the bike's weight (flimsy chrome dress bars fold). Vibration and loosening are the Vietnamese constants: check mount bolts periodically — a loose bar buzzes against the frame and feeds the general vibration-and-noise diagnosis in [Motorbike Handling Problems: Pulling, Wobble and Heavy Steering]({{ '/articles/motorbike-handling-problems-wobble/' | relative_url }}). Fitting questions — which brand, which thickness, what it mounts to — are exactly the conversation to have with a proper shop, covered in [Getting Repairs Done: Talking to a Vietnamese Mechanic]({{ '/articles/talking-to-mechanic-vietnam/' | relative_url }}). And note the width: bars stick out slightly, which protects but also contacts parking neighbours — the tight-parking reality of [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}).
 
 ## The verdict
 

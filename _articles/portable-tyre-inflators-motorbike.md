@@ -23,15 +23,15 @@ A puncture in Vietnamese traffic ends at a roadside tube-repair man within a few
 
 ## Why pressure is a habit, not a repair
 
-Motorbike tyres lose pressure continuously, and most riders check monthly at best. A pump you always carry makes the correct habit possible: top up weekly, before long rides, whenever a tyre looks low — the why of all this is in tyre-care-motorbike-vietnam. Low pressure is the quiet killer: it ruins fuel economy, overheats the tyre, and is behind many of the vague-handling complaints riders blame on the bike.
+Motorbike tyres lose pressure continuously, and most riders check monthly at best. A pump you always carry makes the correct habit possible: top up weekly, before long rides, whenever a tyre looks low — the why of all this is in [Tyre Care and Pressure Basics for Motorbikes]({{ '/articles/tyre-care-motorbike-vietnam/' | relative_url }}). Low pressure is the quiet killer: it ruins fuel economy, overheats the tyre, and is behind many of the vague-handling complaints riders blame on the bike.
 
 ## The types
 
-Hand pumps: simple, never flat, but slow and sweaty at midday. Foot pumps: efficient, bulkier. 12V mini-compressors: fast and effortless, running from a battery pack or the bike’s socket (the power-setup logic is in usb-chargers-motorbike-power) — the best option if you ride regularly. Cordless inflators with their own battery: the most convenient and the priciest. All of them beat the service-station hose that reads whatever it feels like.
+Hand pumps: simple, never flat, but slow and sweaty at midday. Foot pumps: efficient, bulkier. 12V mini-compressors: fast and effortless, running from a battery pack or the bike’s socket (the power-setup logic is in [USB Chargers and Phone Power on a Motorbike]({{ '/articles/usb-chargers-motorbike-power/' | relative_url }})) — the best option if you ride regularly. Cordless inflators with their own battery: the most convenient and the priciest. All of them beat the service-station hose that reads whatever it feels like.
 
 ## The Vietnam kit logic
 
-An inflator pairs naturally with a puncture repair capability: the full roadside-flat procedure is flat-tyre-repair-motorbike-vietnam, and the renter’s version of the same situation is punctured-tyre-on-rental-motorbike. A pump plus a tube kit covers most of the flat-tyre hours of your riding life without a rescue. It also earns a place in the under-seat spares thinking of spare-parts-kit-underseat-motorbike, if it fits — a mini pump stows under many scooter seats.
+An inflator pairs naturally with a puncture repair capability: the full roadside-flat procedure is [Flat Tyre Repair on a Motorbike in Vietnam]({{ '/articles/flat-tyre-repair-motorbike-vietnam/' | relative_url }}), and the renter’s version of the same situation is [Who Pays for a Punctured Tyre on a Rental Motorbike?]({{ '/articles/punctured-tyre-on-rental-motorbike/' | relative_url }}). A pump plus a tube kit covers most of the flat-tyre hours of your riding life without a rescue. It also earns a place in the under-seat spares thinking of [What Spare Parts Belong in an Under-Seat Kit]({{ '/articles/spare-parts-kit-underseat-motorbike/' | relative_url }}), if it fits — a mini pump stows under many scooter seats.
 
 ## Buying notes
 

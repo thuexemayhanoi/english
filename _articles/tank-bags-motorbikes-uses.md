@@ -23,7 +23,7 @@ The tank bag is the most under-used piece of motorbike luggage in Vietnam: a sma
 
 ## What belongs in one
 
-Documents, phone, wallet, sunglasses, a small toolkit: the things you reach for every hour. Not groceries, not a laptop — load discipline is the same as any luggage (carrying-luggage-motorbike-safely-vietnam), just scaled down. A clear-map pocket on top, where phones now ride instead of paper, doubles as a navigation deck — the safer alternative to handlebar phone mounts is a tank-bag top pocket, because the screen sits lower in your sight line than phone-mounts-motorbike-vietnam position it.
+Documents, phone, wallet, sunglasses, a small toolkit: the things you reach for every hour. Not groceries, not a laptop — load discipline is the same as any luggage ([Carrying Luggage and Loads on a Motorbike]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }})), just scaled down. A clear-map pocket on top, where phones now ride instead of paper, doubles as a navigation deck — the safer alternative to handlebar phone mounts is a tank-bag top pocket, because the screen sits lower in your sight line than [Phone Mounts on Motorbikes: Choosing and Using Them]({{ '/articles/phone-mounts-motorbike-vietnam/' | relative_url }}) position it.
 
 ## Mounting systems
 
@@ -35,4 +35,4 @@ A filled tank bag sits between you and a full-lock turn; too big and it crowds y
 
 ## Where it fits in the luggage system
 
-Tank bag for the hourly stuff, under-seat storage for the tools, a top box for lockable bulk (top-boxes-racks-motorbike-vietnam), and a backpack only when nothing else fits — the trade-offs are argued in backpack-vs-saddlebags-motorbike. The mistake is duplicating: a tank bag plus a backpack plus a saddlebag each half-full leaves three theft targets where one well-chosen system would do.
+Tank bag for the hourly stuff, under-seat storage for the tools, a top box for lockable bulk ([Top Boxes and Rear Racks for Motorbikes in Vietnam]({{ '/articles/top-boxes-racks-motorbike-vietnam/' | relative_url }})), and a backpack only when nothing else fits — the trade-offs are argued in [Backpack vs Saddlebags on a Motorbike: Carrying Your Life]({{ '/articles/backpack-vs-saddlebags-motorbike/' | relative_url }}). The mistake is duplicating: a tank bag plus a backpack plus a saddlebag each half-full leaves three theft targets where one well-chosen system would do.

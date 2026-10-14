@@ -23,11 +23,11 @@ Every bridge crossing in Hanoi compresses the same few hazards into a few hundre
 
 ## Get your lane sorted before the ramp
 
-Bridge approaches split riders into lanes at the last moment, and wobbles happen where people realize they want the far side. Decide early, signal, and change lanes one at a time using the same process as merging-side-streets-traffic-vietnam — deliberately, with your eyes on the exit.
+Bridge approaches split riders into lanes at the last moment, and wobbles happen where people realize they want the far side. Decide early, signal, and change lanes one at a time using the same process as [Merging Into Vietnamese Traffic from Side Streets]({{ '/articles/merging-side-streets-traffic-vietnam/' | relative_url }}) — deliberately, with your eyes on the exit.
 
 ## Expect the wind mid-span
 
-A bridge with open water below gives crosswind a clean run at you. Expect a push, loosen your grip slightly and lean into it gently rather than fighting the bars; strong-wind-riding-motorbike-vietnam covers the technique in depth. Wind plus a bus passing close is the classic bridge wobble — see riding-motorbike-blind-spots-vietnam for riding beside large vehicles.
+A bridge with open water below gives crosswind a clean run at you. Expect a push, loosen your grip slightly and lean into it gently rather than fighting the bars; [Riding a Motorbike in Strong Wind]({{ '/articles/strong-wind-riding-motorbike-vietnam/' | relative_url }}) covers the technique in depth. Wind plus a bus passing close is the classic bridge wobble — see [Blind Spots: Riding Around Buses and Trucks in Vietnam]({{ '/articles/riding-motorbike-blind-spots-vietnam/' | relative_url }}) for riding beside large vehicles.
 
 ## Speed and space on the deck
 
@@ -36,8 +36,8 @@ Bridge decks are smooth, which invites speed, but the escape room is narrow and 
 
 ## Ramps and expansion joints
 
-Long bridge ramps have heavier, slower traffic in the right lanes and faster traffic in the left. The joints and metal plates between bridge sections are small, but they become genuinely slick when wet — treat them like the painted surfaces in riding-motorbike-heavy-rain-vietnam.
+Long bridge ramps have heavier, slower traffic in the right lanes and faster traffic in the left. The joints and metal plates between bridge sections are small, but they become genuinely slick when wet — treat them like the painted surfaces in [Riding a Motorbike in Heavy Rain in Vietnam]({{ '/articles/riding-motorbike-heavy-rain-vietnam/' | relative_url }}).
 
 ## Old bridges, older rules
 
-Historic bridges like Long Bien mix motorbikes, bicycles and pedestrians with trains on some stretches. Ride at pedestrian-compatible speed there, give walkers a wide berth, and pass people only when you have a full bike-width of room. The general habits in defensive-riding-motorbike-vietnam apply double on any shared bridge deck.
+Historic bridges like Long Bien mix motorbikes, bicycles and pedestrians with trains on some stretches. Ride at pedestrian-compatible speed there, give walkers a wide berth, and pass people only when you have a full bike-width of room. The general habits in [Defensive Riding on a Motorbike in Vietnam]({{ '/articles/defensive-riding-motorbike-vietnam/' | relative_url }}) apply double on any shared bridge deck.

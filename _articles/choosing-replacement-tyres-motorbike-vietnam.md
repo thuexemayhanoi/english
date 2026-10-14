@@ -23,16 +23,16 @@ Every tyre wears out eventually, and in Vietnam it happens faster than the manua
 
 ## Start with the size, not the brand
 
-The correct size is printed on the sidewall of the current tyre and in your manual. In Vietnam's mixed tyre market, "close enough" sizes are offered constantly — refuse them. A wrong-profile tyre changes handling, speedo accuracy and the way the bike tracks over painted, wet surfaces like those in riding-motorbike-heavy-rain-vietnam.
+The correct size is printed on the sidewall of the current tyre and in your manual. In Vietnam's mixed tyre market, "close enough" sizes are offered constantly — refuse them. A wrong-profile tyre changes handling, speedo accuracy and the way the bike tracks over painted, wet surfaces like those in [Riding a Motorbike in Heavy Rain in Vietnam]({{ '/articles/riding-motorbike-heavy-rain-vietnam/' | relative_url }}).
 
 ## Tread pattern for the riding you do
 
-City commuting: a road-biased pattern with good wet grooves. Rural or mountain riding: a pattern with deeper grooves handles gravel, mud and the loose stuff from gravel-roads-motorbike-vietnam. Long-term street parking on dusty roads favours harder compounds that resist flat-spotting and cut wear; sportier soft compounds grip better but wear faster in the heat.
+City commuting: a road-biased pattern with good wet grooves. Rural or mountain riding: a pattern with deeper grooves handles gravel, mud and the loose stuff from [Riding on Gravel and Loose Surfaces on a Motorbike]({{ '/articles/gravel-roads-motorbike-vietnam/' | relative_url }}). Long-term street parking on dusty roads favours harder compounds that resist flat-spotting and cut wear; sportier soft compounds grip better but wear faster in the heat.
 
 ## Genuine or fake
 
-Name-brand tyres are among the most counterfeited parts in the region. Buy from an established tyre shop rather than the cheapest marketplace listing, inspect the DOT-style date markings and mould quality, and trust the same cautions as genuine-vs-fake-parts-motorbike-vietnam: no-name rubber is the last place to save money on a two-wheeled vehicle.
+Name-brand tyres are among the most counterfeited parts in the region. Buy from an established tyre shop rather than the cheapest marketplace listing, inspect the DOT-style date markings and mould quality, and trust the same cautions as [Genuine Versus Fake Motorbike Parts in Vietnam]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}): no-name rubber is the last place to save money on a two-wheeled vehicle.
 
 ## Fitting and the first ride
 
-Watch the fitter balance the wheel if the bike has spokes or previous vibration. Ride the first fifty kilometres gently: new tyres have a release coating and grip less than you expect until it wears off. Then keep them healthy with the routine in tyre-care-motorbike-vietnam — and if a puncture happens before replacement day, flat-tyre-repair-motorbike-vietnam covers the roadside reality.
+Watch the fitter balance the wheel if the bike has spokes or previous vibration. Ride the first fifty kilometres gently: new tyres have a release coating and grip less than you expect until it wears off. Then keep them healthy with the routine in [Tyre Care and Pressure Basics for Motorbikes]({{ '/articles/tyre-care-motorbike-vietnam/' | relative_url }}) — and if a puncture happens before replacement day, [Flat Tyre Repair on a Motorbike in Vietnam]({{ '/articles/flat-tyre-repair-motorbike-vietnam/' | relative_url }}) covers the roadside reality.

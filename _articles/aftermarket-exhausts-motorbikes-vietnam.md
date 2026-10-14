@@ -22,7 +22,7 @@ Nowhere does a motorbike announce its owner's taste faster than the exhaust. Vie
 
 ## What actually changes
 
-Weight, for genuine sports bikes, where a quality system sheds kilograms. Appearance and sound — the real reason most systems sell. Power? On a standard commuter scooter, a muffler swap mostly moves the power band around; the engine still breathes through the same airbox, the same carburettor or injection map, and the same intake restriction. Claims of big percentage gains from a slip-on muffler on a 110cc bike are marketing, not measurement. And a system without proper tuning often introduces the very running faults described in exhaust-popping-backfiring-motorbike — popping on deceleration is a symptom, not a feature.
+Weight, for genuine sports bikes, where a quality system sheds kilograms. Appearance and sound — the real reason most systems sell. Power? On a standard commuter scooter, a muffler swap mostly moves the power band around; the engine still breathes through the same airbox, the same carburettor or injection map, and the same intake restriction. Claims of big percentage gains from a slip-on muffler on a 110cc bike are marketing, not measurement. And a system without proper tuning often introduces the very running faults described in [Exhaust Popping and Backfiring]({{ '/articles/exhaust-popping-backfiring-motorbike/' | relative_url }}) — popping on deceleration is a symptom, not a feature.
 
 ## Noise and the law
 
@@ -30,7 +30,7 @@ Loud pipes attract exactly the attention riders do not want: noise rules around 
 
 ## Humidity, rust and fit
 
-Vietnamese humidity is hard on exhausts, and cheap stainless or chrome systems pit and rust at welds; the care routine in exhaust-care-humid-climate-motorbike applies double to aftermarket metal of unknown origin. Fit quality from market stalls ranges from excellent to comedic — a pipe that fouls the centre stand or the pillion footrest is both annoying and unsafe. Buying considerations for physical-market parts are in buying-parts-physical-markets-vietnam. Warranty consequences of modifications are real too: aftermarket-parts-warranty.
+Vietnamese humidity is hard on exhausts, and cheap stainless or chrome systems pit and rust at welds; the care routine in [Caring for Your Exhaust in Vietnam's Humid Climate]({{ '/articles/exhaust-care-humid-climate-motorbike/' | relative_url }}) applies double to aftermarket metal of unknown origin. Fit quality from market stalls ranges from excellent to comedic — a pipe that fouls the centre stand or the pillion footrest is both annoying and unsafe. Buying considerations for physical-market parts are in [Buying Motorbike Parts at Physical Markets in Vietnam]({{ '/articles/buying-parts-physical-markets-vietnam/' | relative_url }}). Warranty consequences of modifications are real too: [Aftermarket Parts and Warranty: What to Know]({{ '/articles/aftermarket-parts-warranty/' | relative_url }}).
 
 ## On a rental
 

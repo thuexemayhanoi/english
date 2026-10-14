@@ -31,7 +31,7 @@ A proper jacket-and-pants set keeps its shape at speed, keeps your legs dry and 
 
 ## Feet, hands, eyes
 
-Wet shoes are miserable and slippery: keep a plastic bag over socks trick for emergencies, but real waterproof shoes are better. Wet gloves lose grip — a thin waterproof glove over your riding gloves works. And a clear visor or cap visor keeps rain out of your eyes — visibility-riding-motorbike-vietnam applies double when everything is grey and smeared.
+Wet shoes are miserable and slippery: keep a plastic bag over socks trick for emergencies, but real waterproof shoes are better. Wet gloves lose grip — a thin waterproof glove over your riding gloves works. And a clear visor or cap visor keeps rain out of your eyes — [Being Seen: Visibility Tactics for Motorbike Riders]({{ '/articles/visibility-riding-motorbike-vietnam/' | relative_url }}) applies double when everything is grey and smeared.
 
 ## Visibility is part of rain gear
 
@@ -39,4 +39,4 @@ Rain dulls every colour and every driver's attention. Bright rain gear or a refl
 
 ## Routine, not heroics
 
-Check the forecast, carry the gear in the under-seat storage every day of the season, and when the rain is truly heavy, stop — riding-motorbike-heavy-rain-vietnam covers the riding technique and riding-rental-motorbike-hanoi-rain the rental-season specifics. what-to-wear-riding-motorbike-vietnam ties the full outfit together.
+Check the forecast, carry the gear in the under-seat storage every day of the season, and when the rain is truly heavy, stop — [Riding a Motorbike in Heavy Rain in Vietnam]({{ '/articles/riding-motorbike-heavy-rain-vietnam/' | relative_url }}) covers the riding technique and [Riding a Rental Motorbike in Hanoi Rain: What to Know]({{ '/articles/riding-rental-motorbike-hanoi-rain/' | relative_url }}) the rental-season specifics. [What to Wear Riding a Motorbike in Vietnam]({{ '/articles/what-to-wear-riding-motorbike-vietnam/' | relative_url }}) ties the full outfit together.

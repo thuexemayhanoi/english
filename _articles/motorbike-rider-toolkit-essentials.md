@@ -23,7 +23,7 @@ Vietnam has the densest roadside repair network in the world: the "sua xe" sign 
 
 ## The tools
 
-The bike's own tool kit if it has one (many Vietnamese bikes ship with a minimal one). Add: the spark plug spanner for your model, a compact adjustable spanner, a multi-bit screwdriver handle with Phillips and flat bits, pliers, Allen keys for bodywork, a small pump or foot pump, tire levers, and a puncture patch kit or spare inner tube in your size — flat-tyre-repair-motorbike-vietnam covers the tyre-side reality. Cable ties and a small roll of electrical tape solve more roadside problems than any other two items.
+The bike's own tool kit if it has one (many Vietnamese bikes ship with a minimal one). Add: the spark plug spanner for your model, a compact adjustable spanner, a multi-bit screwdriver handle with Phillips and flat bits, pliers, Allen keys for bodywork, a small pump or foot pump, tire levers, and a puncture patch kit or spare inner tube in your size — [Flat Tyre Repair on a Motorbike in Vietnam]({{ '/articles/flat-tyre-repair-motorbike-vietnam/' | relative_url }}) covers the tyre-side reality. Cable ties and a small roll of electrical tape solve more roadside problems than any other two items.
 
 ## The spares
 
@@ -31,8 +31,8 @@ A spark plug. A headlight bulb. Fuses of the ratings in your manual. A clutch ca
 
 ## The non-shop items
 
-A torch or headlamp (evening breakdowns happen), work-shop gloves if you like your hands, and a small cloth for grips, oil checks and general cleanliness. The first-aid kit belongs with the tools but is its own topic — first-aid-kit-motorbike-riders-vietnam.
+A torch or headlamp (evening breakdowns happen), work-shop gloves if you like your hands, and a small cloth for grips, oil checks and general cleanliness. The first-aid kit belongs with the tools but is its own topic — [A First Aid Kit for Motorbike Riders in Vietnam]({{ '/articles/first-aid-kit-motorbike-riders-vietnam/' | relative_url }}).
 
 ## Rental riders, minimal version
 
-If you ride a rental in the city, you can skip the full kit and carry just the phone, the shop's contact card and the sense to stop when the bike feels wrong — the rental shop's support covers the rest. For long trips out of Hanoi, though, the full kit earns its under-seat space: what-to-carry-riding-motorbike-vietnam explains the trip-planning side, and motorbike-maintenance-basics-vietnam the checks the kit supports.
+If you ride a rental in the city, you can skip the full kit and carry just the phone, the shop's contact card and the sense to stop when the bike feels wrong — the rental shop's support covers the rest. For long trips out of Hanoi, though, the full kit earns its under-seat space: [What to Carry While Riding a Motorbike in Vietnam]({{ '/articles/what-to-carry-riding-motorbike-vietnam/' | relative_url }}) explains the trip-planning side, and [Motorbike Maintenance Basics for Vietnam]({{ '/articles/motorbike-maintenance-basics-vietnam/' | relative_url }}) the checks the kit supports.

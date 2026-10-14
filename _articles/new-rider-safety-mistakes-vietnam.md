@@ -39,7 +39,7 @@ A loose helmet or sandals is the combination that turns a five km/h fall into a 
 
 ## Mistake 5: Riding without the licence they need
 
-The licence requirements for foreigners are strict, and riding without the right licence carries fines and impound risk — renting-a-motorbike-hanoi-without-licence covers the reality. Sort it before week one, not after a checkpoint. Learning-to-ride-monthly-rental-hanoi covers the learning path legally.
+The licence requirements for foreigners are strict, and riding without the right licence carries fines and impound risk — [Renting a Motorbike in Hanoi Without a Licence: The Real Risks]({{ '/articles/renting-a-motorbike-hanoi-without-licence/' | relative_url }}) covers the reality. Sort it before week one, not after a checkpoint. Learning-to-ride-monthly-rental-hanoi covers the learning path legally.
 
 ## The one-line version
 

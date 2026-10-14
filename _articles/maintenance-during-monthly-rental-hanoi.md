@@ -29,18 +29,18 @@ Maintenance included in the rental may cover oil changes, chain adjustment and t
 
 ## What stays your responsibility
 
-Consumables such as inner tubes and tyres may be the renter's responsibility depending on the situation. Day-to-day care is yours too: keeping tyre pressure sensible, watching for chain slack, keeping the bike dry where possible, and not ignoring new noises. If the bike needs work, see outside-repair-shops-rental-motorbike for how a shop visit during a rental is usually handled.
+Consumables such as inner tubes and tyres may be the renter's responsibility depending on the situation. Day-to-day care is yours too: keeping tyre pressure sensible, watching for chain slack, keeping the bike dry where possible, and not ignoring new noises. If the bike needs work, see [Can You Use Outside Repair Shops on a Rental Motorbike?]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) for how a shop visit during a rental is usually handled.
 
 ## The high-mileage question
 
-If you ride a lot, the owner historically recommends periodic checks around 1,500 km or more of use. That is practical owner guidance, not a manufacturer interval — but it is a reasonable rhythm for a monthly renter who commutes daily. Tell the shop your expected mileage when you set the rental up; high-mileage use is covered in high-mileage-monthly-rental-hanoi.
+If you ride a lot, the owner historically recommends periodic checks around 1,500 km or more of use. That is practical owner guidance, not a manufacturer interval — but it is a reasonable rhythm for a monthly renter who commutes daily. Tell the shop your expected mileage when you set the rental up; high-mileage use is covered in [High Monthly Mileage on a Rental Motorbike in Hanoi]({{ '/articles/high-mileage-monthly-rental-hanoi/' | relative_url }}).
 
 ## What not to do
 
-Do not attempt engine work, electrical changes or modifications on a rental bike. Do not keep riding a bike that feels wrong — see rental-motorbike-feels-wrong for why small issues get worse over weeks. And do not let a simple puncture turn into a ruined tyre; punctured-tyre-on-rental-motorbike explains the practical steps.
+Do not attempt engine work, electrical changes or modifications on a rental bike. Do not keep riding a bike that feels wrong — see [What to Do If Your Rental Motorbike Does Not Feel Normal]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}) for why small issues get worse over weeks. And do not let a simple puncture turn into a ruined tyre; [Who Pays for a Punctured Tyre on a Rental Motorbike?]({{ '/articles/punctured-tyre-on-rental-motorbike/' | relative_url }}) explains the practical steps.
 
 ## The one-line version
 
 The shop covers routine maintenance such as oil, chain and inspection; you cover daily care and possibly tubes and tyres — and when in doubt, call the shop before the problem grows.
 
-Riders using an electric bike monthly should also read electric-motorbike-battery-lifespan-vietnam for the pack-specific care rules.
+Riders using an electric bike monthly should also read [How Long Do Electric Motorbike Batteries Last in Vietnam?]({{ '/articles/electric-motorbike-battery-lifespan-vietnam/' | relative_url }}) for the pack-specific care rules.

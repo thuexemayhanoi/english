@@ -27,7 +27,7 @@ The rule is simple and rarely followed: if you can see 30 metres, ride at a spee
 
 ## Be seen
 
-Dipped beam on, not high beam: fog reflects high beam straight back into your eyes. Bright layer on top, and a reflective strip on your bag. If you stop, pull fully off the road — a motorbike stopped in a traffic lane in fog is invisible until it is too late. The legal lighting requirements are in motorbike-night-lights-vietnam.
+Dipped beam on, not high beam: fog reflects high beam straight back into your eyes. Bright layer on top, and a reflective strip on your bag. If you stop, pull fully off the road — a motorbike stopped in a traffic lane in fog is invisible until it is too late. The legal lighting requirements are in [Night Riding: Motorbike Light Rules in Vietnam]({{ '/articles/motorbike-night-lights-vietnam/' | relative_url }}).
 
 ## Read what you can
 

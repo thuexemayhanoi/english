@@ -23,11 +23,11 @@ Fork seals fail at the worst time: quietly, invisibly, and right where the oil e
 
 ## Finding the leak
 
-The classic signature is a thin ring of oil on the stanchion above the seal, reappearing hours after each wipe. Run a finger under the dust seal: oil there means the main seal is already weeping. Over a few weeks the symptoms grow — a front end that feels soft and bouncy over bumps, oil misted down the fork legs and onto the wheel and fender, and worst of all, oil on the disc or drum: brake performance fading and a lever that grabs unpredictably. Any oil near braking surfaces means stop riding and fix first — brake checks are in brake-checks-motorbike-vietnam.
+The classic signature is a thin ring of oil on the stanchion above the seal, reappearing hours after each wipe. Run a finger under the dust seal: oil there means the main seal is already weeping. Over a few weeks the symptoms grow — a front end that feels soft and bouncy over bumps, oil misted down the fork legs and onto the wheel and fender, and worst of all, oil on the disc or drum: brake performance fading and a lever that grabs unpredictably. Any oil near braking surfaces means stop riding and fix first — brake checks are in [Checking Brakes on a Motorbike]({{ '/articles/brake-checks-motorbike-vietnam/' | relative_url }}).
 
 ## Why they fail in Vietnam
 
-- **Grit on the stanchion.** Dust and mud ride on the fork tube and get dragged through the seal with every compression. The prevention side of this is in front-fork-care-oil-seals-motorbike.
+- **Grit on the stanchion.** Dust and mud ride on the fork tube and get dragged through the seal with every compression. The prevention side of this is in [Front Fork Care: Oil, Seals and Keeping the Damping Alive]({{ '/articles/front-fork-care-oil-seals-motorbike/' | relative_url }}).
 - **Hard bottoming.** Potholes and unmarked speed bumps driven at speed slam the fork to full travel; the impact spikes pressures and bruises seals.
 - **Stanchion pitting.** A stone chip or corrosion pit under the seal lip is a channel oil follows forever — the seal only seals against a smooth surface.
 - **Age and parking.** Rubber hardens in UV and heat; bikes parked outdoors for years eat seals even while barely ridden.
@@ -42,8 +42,8 @@ Fork legs share the load symmetrically. Replacing one seal leaves the other leg'
 
 ## After the fall
 
-A bike that has fallen or hit a pothole hard can bend stanchions or crack lower legs. A bent fork tube cannot be "ridden into straightness"; it chews the new seals within weeks. If leaks, uneven stanchion heights or a crooked handlebar appeared after an impact, the full post-fall check list is in checking-motorbike-after-fall-accident, and the handling symptoms of geometry gone wrong are in motorbike-handling-problems-wobble.
+A bike that has fallen or hit a pothole hard can bend stanchions or crack lower legs. A bent fork tube cannot be "ridden into straightness"; it chews the new seals within weeks. If leaks, uneven stanchion heights or a crooked handlebar appeared after an impact, the full post-fall check list is in [What to Check Mechanically After a Fall]({{ '/articles/checking-motorbike-after-fall-accident/' | relative_url }}), and the handling symptoms of geometry gone wrong are in [Motorbike Handling Problems: Pulling, Wobble and Heavy Steering]({{ '/articles/motorbike-handling-problems-wobble/' | relative_url }}).
 
 ## Living with the fix
 
-New seals last when the stanchions are wiped after dirty rides, bottoming is avoided, and fork oil is refreshed on schedule. The wider suspension checking routine lives in suspension-checks-motorbike-vietnam. A dry fork is not a luxury: it is what keeps oil off your brakes and damping under your front wheel.
+New seals last when the stanchions are wiped after dirty rides, bottoming is avoided, and fork oil is refreshed on schedule. The wider suspension checking routine lives in [Front Forks and Suspension Checks on a Motorbike]({{ '/articles/suspension-checks-motorbike-vietnam/' | relative_url }}). A dry fork is not a luxury: it is what keeps oil off your brakes and damping under your front wheel.

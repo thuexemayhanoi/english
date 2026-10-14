@@ -27,14 +27,14 @@ Warm humid air meets a cool visor; the moisture condenses in micro-droplets. It 
 
 ## The fixes, ranked by honesty
 
-Cracking the visor slightly at low speed: free, instant, and the default Vietnamese technique (the rain-side problem is getting that spray in the eyes — eye-protection-riding-motorbike-vietnam covers that trade). Pinlock-style insert lenses: a second inner pane that keeps the inner surface warm and dry — the most effective genuine fix for regular full-face riders; fit must match the helmet's specific visor. Anti-fog sprays and wipes: variable results in this climate, need reapplication, and cheap ones smear; test yours before a rainy night. Riding with the visor up at speed: the worst answer — it trades fog for insects, dust and rain-blast.
+Cracking the visor slightly at low speed: free, instant, and the default Vietnamese technique (the rain-side problem is getting that spray in the eyes — [Eye Protection While Riding a Motorbike]({{ '/articles/eye-protection-riding-motorbike-vietnam/' | relative_url }}) covers that trade). Pinlock-style insert lenses: a second inner pane that keeps the inner surface warm and dry — the most effective genuine fix for regular full-face riders; fit must match the helmet's specific visor. Anti-fog sprays and wipes: variable results in this climate, need reapplication, and cheap ones smear; test yours before a rainy night. Riding with the visor up at speed: the worst answer — it trades fog for insects, dust and rain-blast.
 
 ## Cleaning without wrecking the coating
 
-Visors have anti-scratch and optical coatings: clean with water and mild soap, a microfiber cloth, and patience — never dry-wipe a dusty visor (the micro-scratches that make night headlights into starbursts are caused by exactly that). Petrol-station paper towels are visor sandpaper. A visor with heavy wear is a consumable — the replacement logic is part of helmet-care-replacing-guide-vietnam.
+Visors have anti-scratch and optical coatings: clean with water and mild soap, a microfiber cloth, and patience — never dry-wipe a dusty visor (the micro-scratches that make night headlights into starbursts are caused by exactly that). Petrol-station paper towels are visor sandpaper. A visor with heavy wear is a consumable — the replacement logic is part of [Helmet Care: Cleaning, Storage and Knowing When to Replace]({{ '/articles/helmet-care-replacing-guide-vietnam/' | relative_url }}).
 
 ## The visibility context
 
-A clear visor is one leg of seeing-and-being-seen: the low-visibility riding habits are covered in fog-and-low-visibility-riding-motorbike-vietnam, and the degraded-vision argument for slowing at night is in night-riding-motorbike-safety-vietnam. The pattern to internalize: foggy visor = slow down, find the airflow, and never ride at night behind a scratched lens.
+A clear visor is one leg of seeing-and-being-seen: the low-visibility riding habits are covered in [Riding a Motorbike in Fog and Low Visibility]({{ '/articles/fog-and-low-visibility-riding-motorbike-vietnam/' | relative_url }}), and the degraded-vision argument for slowing at night is in [Riding a Motorbike at Night in Vietnam]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}). The pattern to internalize: foggy visor = slow down, find the airflow, and never ride at night behind a scratched lens.
 
 Humidity is permanent; fogging is optional.

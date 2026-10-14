@@ -24,11 +24,11 @@ Whether you can take a rental motorbike beyond Hanoi is a rental-terms question 
 
 ## Ask the shop first
 
-Rental agreements commonly restrict how far a bike may travel, because a breakdown 100 km away is a different problem from one in Hanoi. Support arrangements are primarily for local use. Ask before you plan the trip, agree it in the terms (see motorbike-rental-agreement-hanoi), and be honest about the distance. A shop that knows your itinerary can also tell you whether the bike you chose suits it — underbones are fine for pagoda runs, less comfortable for mountain passes (see best-motorbike-for-long-distance-vietnam).
+Rental agreements commonly restrict how far a bike may travel, because a breakdown 100 km away is a different problem from one in Hanoi. Support arrangements are primarily for local use. Ask before you plan the trip, agree it in the terms (see [Understanding a Motorbike Rental Agreement in Hanoi]({{ '/articles/motorbike-rental-agreement-hanoi/' | relative_url }})), and be honest about the distance. A shop that knows your itinerary can also tell you whether the bike you chose suits it — underbones are fine for pagoda runs, less comfortable for mountain passes (see [Best Motorbike for Long-Distance Riding in Vietnam]({{ '/articles/best-motorbike-for-long-distance-vietnam/' | relative_url }})).
 
 ## Roads that do not allow motorbikes
 
-The practical barrier most riders hit: expressways. Motorbikes are banned from Vietnamese expressways, and the ban is enforced with fines — see motorbikes-on-expressway-vietnam. Your route out of Hanoi therefore uses national roads and provincial roads, which are slower but the ones everyone rides. Plan distances accordingly: a "150 km trip" on a map is a three-to-four-hour ride in real conditions.
+The practical barrier most riders hit: expressways. Motorbikes are banned from Vietnamese expressways, and the ban is enforced with fines — see [Are Motorbikes Allowed on Vietnamese Expressways]({{ '/articles/motorbikes-on-expressway-vietnam/' | relative_url }}). Your route out of Hanoi therefore uses national roads and provincial roads, which are slower but the ones everyone rides. Plan distances accordingly: a "150 km trip" on a map is a three-to-four-hour ride in real conditions.
 
 ## Checks before you leave the city
 
@@ -36,12 +36,12 @@ The practical barrier most riders hit: expressways. Motorbikes are banned from V
 - Toolkit and spares: what is under the seat, and does the shop want you back for a check around high mileage?
 - Phone: the shop's number, a power bank, and a paper note of your accommodation address
 - Documents: licence and the rental paperwork — traffic stops are more common on provincial roads than in central Hanoi
-- Tyres and chain: worth sixty seconds of inspection before a long day — see rental-motorbike-inspection-checklist
+- Tyres and chain: worth sixty seconds of inspection before a long day — see [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }})
 
 ## Breakdown far from home
 
-The honest reality: a rental shop's practical support is Hanoi-focused. Out in the provinces, the pattern is small roadside mechanics, who are numerous and inexpensive for punctures and minor work — but on a rental, the shop's agreement governs what outside repair is acceptable, so call before serious work is done. The rules of thumb are in outside-repair-shops-rental-motorbike and rental-motorbike-breakdown-hanoi.
+The honest reality: a rental shop's practical support is Hanoi-focused. Out in the provinces, the pattern is small roadside mechanics, who are numerous and inexpensive for punctures and minor work — but on a rental, the shop's agreement governs what outside repair is acceptable, so call before serious work is done. The rules of thumb are in [Can You Use Outside Repair Shops on a Rental Motorbike?]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) and [What Happens If a Rental Motorbike Breaks Down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}).
 
 ## The reward
 
-Done with the shop's blessing and a suitable bike, riding out of Hanoi is the single best use of a rental: Bat Trang, Duong Lam, Perfume Pagoda roads, Ba Vi, or the long run toward Ninh Binh. Start with the suggestions and distance realities in best-motorbike-for-day-trips-from-hanoi, and work up from there.
+Done with the shop's blessing and a suitable bike, riding out of Hanoi is the single best use of a rental: Bat Trang, Duong Lam, Perfume Pagoda roads, Ba Vi, or the long run toward Ninh Binh. Start with the suggestions and distance realities in [Best Motorbike for Day Trips from Hanoi]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }}), and work up from there.

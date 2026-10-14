@@ -27,11 +27,11 @@ Busy is the first sign. A stand with a constant flow of local riders has a reput
 
 ## The service conversation
 
-Describe symptoms, not conclusions: "the engine makes this noise at this speed" beats "it needs a carb clean". Show the mechanic the problem live if possible. Ask what they will do and what the labour plus parts will cost before work starts — a fair request that any good workshop answers easily. For unfamiliar work, agreeing the price before the job, on a receipt, is normal, not confrontational. On a rental, the process is different — outside-repair-shops-rental-motorbike covers it: the rental shop is involved, receipts matter, and self-arranged engine work is out.
+Describe symptoms, not conclusions: "the engine makes this noise at this speed" beats "it needs a carb clean". Show the mechanic the problem live if possible. Ask what they will do and what the labour plus parts will cost before work starts — a fair request that any good workshop answers easily. For unfamiliar work, agreeing the price before the job, on a receipt, is normal, not confrontational. On a rental, the process is different — [Can You Use Outside Repair Shops on a Rental Motorbike?]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) covers it: the rental shop is involved, receipts matter, and self-arranged engine work is out.
 
 ## Judging the work after
 
-The bike should come back fixed, cleaned where worked on, with the old parts handed over if parts were replaced — a reasonable ask, and a habit that protects everyone. Genuine versus counterfeit parts is a real question in this market: genuine-vs-fake-parts-motorbike-vietnam covers what to look for. If a problem returns within days, a good workshop makes it right; that follow-through is the true test of trustworthiness.
+The bike should come back fixed, cleaned where worked on, with the old parts handed over if parts were replaced — a reasonable ask, and a habit that protects everyone. Genuine versus counterfeit parts is a real question in this market: [Genuine Versus Fake Motorbike Parts in Vietnam]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}) covers what to look for. If a problem returns within days, a good workshop makes it right; that follow-through is the true test of trustworthiness.
 
 ## Red flags
 

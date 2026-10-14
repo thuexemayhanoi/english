@@ -24,7 +24,7 @@ Dong Da sits at the city's waistline — between Ba Dinh's boulevards and Hai Ba
 
 ## Traffic character
 
-Tay Son is the spine: a wide, fast, four-plus-lane artery carrying mid-town through-traffic, with the classic Hanoi mix of buses, bikes and delivery trucks. Lane discipline genuinely matters here — motorbike-lane-rules-vietnam covers the rules and the fine bands — and the speed differential between lanes makes defensive positioning a skill, not a style choice. The university streets around Thai Thinh and the National Economics University area add bell-time surges; the district's school gates create short, dense, predictable jams twice a day.
+Tay Son is the spine: a wide, fast, four-plus-lane artery carrying mid-town through-traffic, with the classic Hanoi mix of buses, bikes and delivery trucks. Lane discipline genuinely matters here — [Motorbike Lane Rules in Vietnam]({{ '/articles/motorbike-lane-rules-vietnam/' | relative_url }}) covers the rules and the fine bands — and the speed differential between lanes makes defensive positioning a skill, not a style choice. The university streets around Thai Thinh and the National Economics University area add bell-time surges; the district's school gates create short, dense, predictable jams twice a day.
 
 ## What riders come here for
 
@@ -34,11 +34,11 @@ Tay Son is the spine: a wide, fast, four-plus-lane artery carrying mid-town thro
 
 ## Parking
 
-Residential lanes use kerbside rows; the parks and larger venues use attended lots; the shopping centres on the artery have proper motorbike floors. The rules and etiquette are in where-to-park-motorbike-hanoi. Around the university quarter, lots fill at class hours — arrive early or park one street back.
+Residential lanes use kerbside rows; the parks and larger venues use attended lots; the shopping centres on the artery have proper motorbike floors. The rules and etiquette are in [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}). Around the university quarter, lots fill at class hours — arrive early or park one street back.
 
 ## Renting for Dong Da
 
-Nguyen Tu's shop sits in Long Bien, across town; the run to Dong Da is twenty to thirty minutes depending on the hour, and a delivery arrangement to a Dong Da address can be discussed case by case within opening hours 09:00–21:00 — see motorbike-rental-pickup-or-delivery-hanoi. Students in the district should pair the rental decision with the licence path in foreign-student-motorbike-licence-vietnam and the bike logic in best-motorbike-for-students-hanoi; commuters with best-motorbike-for-commuting-hanoi.
+Nguyen Tu's shop sits in Long Bien, across town; the run to Dong Da is twenty to thirty minutes depending on the hour, and a delivery arrangement to a Dong Da address can be discussed case by case within opening hours 09:00–21:00 — see [Shop Pickup vs Delivery When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}). Students in the district should pair the rental decision with the licence path in [Can Foreign Students Get a Vietnamese Motorbike Licence]({{ '/articles/foreign-student-motorbike-licence-vietnam/' | relative_url }}) and the bike logic in [Best Motorbike for Students in Hanoi]({{ '/articles/best-motorbike-for-students-hanoi/' | relative_url }}); commuters with [Best Motorbike for Commuting in Hanoi]({{ '/articles/best-motorbike-for-commuting-hanoi/' | relative_url }}).
 
 ## The one-line version
 

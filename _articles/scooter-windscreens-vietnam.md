@@ -23,11 +23,11 @@ A windscreen is the scooter accessory that changes the riding experience most pe
 
 ## What it genuinely improves
 
-Rain: a screen above chest height takes the rain-blast off the torso, which changes wet-season riding more than any clothing item — the full wet-weather dressing story is in what-to-wear-riding-motorbike-vietnam. Cold: north-Vietnam winter mornings at speed feel dramatically different behind a screen. Fatigue: less wind pressure means less grip pressure and fewer numb hands on long rides. Heat is the honest counterweight — behind a big screen in April you miss the airflow, which is why the Vietnamese default is a short screen, not a touring screen.
+Rain: a screen above chest height takes the rain-blast off the torso, which changes wet-season riding more than any clothing item — the full wet-weather dressing story is in [What to Wear Riding a Motorbike in Vietnam]({{ '/articles/what-to-wear-riding-motorbike-vietnam/' | relative_url }}). Cold: north-Vietnam winter mornings at speed feel dramatically different behind a screen. Fatigue: less wind pressure means less grip pressure and fewer numb hands on long rides. Heat is the honest counterweight — behind a big screen in April you miss the airflow, which is why the Vietnamese default is a short screen, not a touring screen.
 
 ## The handling reality
 
-A screen is a sail. In Hanoi's windy season and on bridges, gusts push a screened bike slightly more than a naked one; the difference is modest at scooter speeds but real, and it compounds with poor mounting — a loose, shuddering screen feeds the general wobble-and-wander diagnosis in motorbike-handling-problems-wobble. Wind-strong days have their own riding adjustments, covered in strong-wind-riding-motorbike-vietnam.
+A screen is a sail. In Hanoi's windy season and on bridges, gusts push a screened bike slightly more than a naked one; the difference is modest at scooter speeds but real, and it compounds with poor mounting — a loose, shuddering screen feeds the general wobble-and-wander diagnosis in [Motorbike Handling Problems: Pulling, Wobble and Heavy Steering]({{ '/articles/motorbike-handling-problems-wobble/' | relative_url }}). Wind-strong days have their own riding adjustments, covered in [Riding a Motorbike in Strong Wind]({{ '/articles/strong-wind-riding-motorbike-vietnam/' | relative_url }}).
 
 ## Height and optics
 
@@ -35,6 +35,6 @@ The two choices: look over the screen (top edge below eye level) or look through
 
 ## Buying and fitting
 
-Fit-specific screens exist for common scooter models; universal ones need honest bracket fitting. Check that the screen clears the handlebar lock positions and that brackets are metal, not cracked-by-vibration plastic — fitting questions to put to a shop are covered in talking-to-mechanic-vietnam.
+Fit-specific screens exist for common scooter models; universal ones need honest bracket fitting. Check that the screen clears the handlebar lock positions and that brackets are metal, not cracked-by-vibration plastic — fitting questions to put to a shop are covered in [Getting Repairs Done: Talking to a Vietnamese Mechanic]({{ '/articles/talking-to-mechanic-vietnam/' | relative_url }}).
 
 Worth it? For daily commuters, absolutely. For riders who mostly do short neighborhood hops in the dry season, the honest answer is a small one — or none at all.

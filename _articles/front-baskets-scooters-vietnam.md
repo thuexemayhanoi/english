@@ -27,7 +27,7 @@ Metal wire baskets bolt to the leg shield or front frame; woven and plastic bask
 
 ## The steering physics
 
-A loaded basket moves weight onto the steering assembly — you feel it in the bars at walking pace and in crosswinds at speed. Keep loads light and low: heavy items belong in the under-seat bay (scooter-under-seat-storage-guide) or on the rear (top-boxes-racks-motorbike-vietnam), not up front. A basket loaded like a market trolley makes slow-speed control harder — the skill side of which is in slow-speed-control-motorbike-vietnam — and sharpens wobble in wind. Load rules from carrying-luggage-motorbike-safely-vietnam apply with a multiplier: forward weight is steering weight.
+A loaded basket moves weight onto the steering assembly — you feel it in the bars at walking pace and in crosswinds at speed. Keep loads light and low: heavy items belong in the under-seat bay ([Scooter Under-Seat Storage: Making the Most of It]({{ '/articles/scooter-under-seat-storage-guide/' | relative_url }})) or on the rear ([Top Boxes and Rear Racks for Motorbikes in Vietnam]({{ '/articles/top-boxes-racks-motorbike-vietnam/' | relative_url }})), not up front. A basket loaded like a market trolley makes slow-speed control harder — the skill side of which is in [Slow-Speed Control: Riding a Motorbike Through Dense Traffic]({{ '/articles/slow-speed-control-motorbike-vietnam/' | relative_url }}) — and sharpens wobble in wind. Load rules from [Carrying Luggage and Loads on a Motorbike]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}) apply with a multiplier: forward weight is steering weight.
 
 ## What belongs in it (and never does)
 

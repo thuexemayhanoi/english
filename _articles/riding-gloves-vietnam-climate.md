@@ -31,12 +31,12 @@ Short-cuffed, ventilated gloves: mesh backs, perforated palms, snug but not tigh
 
 ## Rain season, second pair
 
-Wet gloves lose grip and shape. A cheap waterproof pair for the rainy months keeps the summer pair dry at home. If you ride daily, two thin pairs beat one expensive do-everything pair — what-to-wear-riding-motorbike-vietnam breaks the whole outfit down.
+Wet gloves lose grip and shape. A cheap waterproof pair for the rainy months keeps the summer pair dry at home. If you ride daily, two thin pairs beat one expensive do-everything pair — [What to Wear Riding a Motorbike in Vietnam]({{ '/articles/what-to-wear-riding-motorbike-vietnam/' | relative_url }}) breaks the whole outfit down.
 
 ## Fit and feel on Vietnamese controls
 
-Try gloves with your hand around a grip-sized object. The palm must not bunch at the fingers; the seam must not sit under the brake fingers. You should be able to squeeze the lever firmly without the glove pulling your fingertips. Beeping the horn, flipping signals and the gestures from hand-signals-motorbike-vietnam all need working fingers — test them in the shop.
+Try gloves with your hand around a grip-sized object. The palm must not bunch at the fingers; the seam must not sit under the brake fingers. You should be able to squeeze the lever firmly without the glove pulling your fingertips. Beeping the horn, flipping signals and the gestures from [Hand Signals for Motorbike Riders in Vietnam]({{ '/articles/hand-signals-motorbike-vietnam/' | relative_url }}) all need working fingers — test them in the shop.
 
 ## A first-aid note
 
-Road rash on palms heals slowly and badly, because you use them for everything. If you do fall, clean palm wounds thoroughly — first-aid-kit-motorbike-riders-vietnam covers the kit to carry. Better still, wear the gloves.
+Road rash on palms heals slowly and badly, because you use them for everything. If you do fall, clean palm wounds thoroughly — [A First Aid Kit for Motorbike Riders in Vietnam]({{ '/articles/first-aid-kit-motorbike-riders-vietnam/' | relative_url }}) covers the kit to carry. Better still, wear the gloves.

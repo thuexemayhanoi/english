@@ -27,11 +27,11 @@ A four-stroke engine's valves open and close thousands of times a minute, and th
 
 ## Symptoms of valves out of adjustment
 
-Tight valves: hard starting (especially cold), a rough or wandering idle, and eventually a valve that never quite closes — burning its edge, leaking compression, and cascading into real head damage. Loose valves: a distinct, regular tapping or ticking from the top of the engine, loudest at idle, that some riders mistake for a loose component. That top-end tick is a cousin of the knocking family — the sorting guide is engine-knocking-what-it-means, and the idle-drift symptoms overlap with rough-idle-motorbike-troubleshooting. Two-strokes, with their different design, are outside this job entirely — the distinction is in two-stroke-vs-four-stroke-vietnam.
+Tight valves: hard starting (especially cold), a rough or wandering idle, and eventually a valve that never quite closes — burning its edge, leaking compression, and cascading into real head damage. Loose valves: a distinct, regular tapping or ticking from the top of the engine, loudest at idle, that some riders mistake for a loose component. That top-end tick is a cousin of the knocking family — the sorting guide is [Engine Knocking: What That Noise Is Trying to Tell You]({{ '/articles/engine-knocking-what-it-means/' | relative_url }}), and the idle-drift symptoms overlap with [Rough Idle: Troubleshooting a Motorbike That Won't Idle Smoothly]({{ '/articles/rough-idle-motorbike-troubleshooting/' | relative_url }}). Two-strokes, with their different design, are outside this job entirely — the distinction is in [Two-Stroke vs Four-Stroke Motorbikes in Vietnam]({{ '/articles/two-stroke-vs-four-stroke-vietnam/' | relative_url }}).
 
 ## Why Vietnam's conditions pull clearances off-spec
 
-Constant short trips mean the engine heat-cycles relentlessly; dusty air and stop-start traffic wear valve-train components faster than the manual's optimistic schedule assumes. City-ridden bikes commonly need clearance checks more often than the book's interval — the practical scheduling logic is in motorbike-service-when-vietnam, and it is one of the jobs where "when did anyone last check them?" usually has no answer.
+Constant short trips mean the engine heat-cycles relentlessly; dusty air and stop-start traffic wear valve-train components faster than the manual's optimistic schedule assumes. City-ridden bikes commonly need clearance checks more often than the book's interval — the practical scheduling logic is in [When to Service a Motorbike in Vietnam]({{ '/articles/motorbike-service-when-vietnam/' | relative_url }}), and it is one of the jobs where "when did anyone last check them?" usually has no answer.
 
 ## The job itself
 

@@ -19,7 +19,7 @@ sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
 internal_link_targets: "unlit-rural-roads-night-motorbike-vietnam, motorbike-night-lights-vietnam, defensive-riding-motorbike-vietnam, riding-motorbike-blind-spots-vietnam, motorbike-required-equipment-vietnam"
 ---
-Vietnamese nights add three problems to riding: you see less, you are seen less, and the roads fill with vehicles running without lights. The law requires working lights after dark — motorbike-night-lights-vietnam covers the requirements and fines — but expecting everyone to follow them is a survival mistake.
+Vietnamese nights add three problems to riding: you see less, you are seen less, and the roads fill with vehicles running without lights. The law requires working lights after dark — [Night Riding: Motorbike Light Rules in Vietnam]({{ '/articles/motorbike-night-lights-vietnam/' | relative_url }}) covers the requirements and fines — but expecting everyone to follow them is a survival mistake.
 
 ## Make yourself visible
 
@@ -31,11 +31,11 @@ Unlit bikes appear suddenly, so scan the road edges, not just the lanes. In rura
 
 ## Manage glare
 
-Oncoming high beams are common. Do not stare into them; look at the near-side road edge to keep your lane while your eyes recover. A dirty visor or scratched windscreen turns one headlight into a starburst — clean it before night rides. A tinted visor at night is a hazard, not a comfort; eye-protection-riding-motorbike-vietnam covers the visor basics.
+Oncoming high beams are common. Do not stare into them; look at the near-side road edge to keep your lane while your eyes recover. A dirty visor or scratched windscreen turns one headlight into a starburst — clean it before night rides. A tinted visor at night is a hazard, not a comfort; [Eye Protection While Riding a Motorbike]({{ '/articles/eye-protection-riding-motorbike-vietnam/' | relative_url }}) covers the visor basics.
 
 ## Fatigue and alcohol
 
-Riding tired at night is as impairing as it is sometimes unavoidable: microsleeps happen at 60 km/h too. Stop, rest, drink water. And after drinking, do not ride at all — Vietnam applies zero tolerance, as drink-driving-limits-motorbike-vietnam explains.
+Riding tired at night is as impairing as it is sometimes unavoidable: microsleeps happen at 60 km/h too. Stop, rest, drink water. And after drinking, do not ride at all — Vietnam applies zero tolerance, as [Drink Driving Limits for Motorbikes in Vietnam]({{ '/articles/drink-driving-limits-motorbike-vietnam/' | relative_url }}) explains.
 
 ## The one-line version
 

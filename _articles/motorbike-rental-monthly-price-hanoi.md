@@ -35,16 +35,16 @@ Where a range is shown, the exact rate for your rental is confirmed with the sho
 
 ## The contact-only rule
 
-The other models on the price list — Honda Wave and Yamaha Sirius (150,000 VND/day each) and the E-Bike (200,000 VND/day) — have no published monthly rate, and 50cc motorcycles have no published price at all. Never assume a monthly rate can be derived from a daily one: it cannot. For any of these, contact Nguyen Tu to confirm the current monthly price and availability. The model-by-model breakdown is in which-motorbikes-have-monthly-rates-hanoi.
+The other models on the price list — Honda Wave and Yamaha Sirius (150,000 VND/day each) and the E-Bike (200,000 VND/day) — have no published monthly rate, and 50cc motorcycles have no published price at all. Never assume a monthly rate can be derived from a daily one: it cannot. For any of these, contact Nguyen Tu to confirm the current monthly price and availability. The model-by-model breakdown is in [Which Motorbikes Have Published Monthly Rates in Hanoi]({{ '/articles/which-motorbikes-have-monthly-rates-hanoi/' | relative_url }}).
 
 ## What the monthly rate covers
 
-The rental of the bike for the agreed month, with the shop's included maintenance during the term: oil changes, chain adjustment, tyre-pressure checks and normal inspection. It does not include fuel, and it does not include rider insurance — no rental shop insurance is provided, and your own cover is your arrangement (see insurance-for-long-term-renter-hanoi). Consumables such as tubes and tyres may be the renter's responsibility depending on the situation.
+The rental of the bike for the agreed month, with the shop's included maintenance during the term: oil changes, chain adjustment, tyre-pressure checks and normal inspection. It does not include fuel, and it does not include rider insurance — no rental shop insurance is provided, and your own cover is your arrangement (see [Arranging Your Own Insurance as a Long-Term Renter in Hanoi]({{ '/articles/insurance-for-long-term-renter-hanoi/' | relative_url }})). Consumables such as tubes and tyres may be the renter's responsibility depending on the situation.
 
 ## Costs on top of the rate
 
-- Deposit: typically 2,000,000–5,000,000 VND depending on the bike, held for the term and returned at the end — see motorbike-rental-deposit-monthly-hanoi
-- Fuel: inexpensive at month scale; part of the real budget in motorbike-rental-budget-monthly-hanoi
+- Deposit: typically 2,000,000–5,000,000 VND depending on the bike, held for the term and returned at the end — see [Deposits for Monthly Motorbike Rental in Hanoi]({{ '/articles/motorbike-rental-deposit-monthly-hanoi/' | relative_url }})
+- Fuel: inexpensive at month scale; part of the real budget in [Monthly Motorbike Rental Budget in Hanoi: The Full Cost]({{ '/articles/motorbike-rental-budget-monthly-hanoi/' | relative_url }})
 - Parking: small daily lot fees where you use them
 
 ## Longer than a month

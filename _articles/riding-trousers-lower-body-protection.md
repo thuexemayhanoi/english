@@ -23,11 +23,11 @@ Riders armour their heads, sometimes their torsos — and ride in shorts. Yet in
 
 ## What the armour is for
 
-Two different jobs: abrasion (the fabric between your skin and the asphalt) and impact (armour at the knee, hip and sometimes shin, absorbing the concentrated hit against the road or the bike). In a typical city fall at modest speed, hip and knee points take the load. Standalone knee protection and how to wear it under normal clothes is covered in body-armour-motorbike-riders; this article is about the trousers themselves.
+Two different jobs: abrasion (the fabric between your skin and the asphalt) and impact (armour at the knee, hip and sometimes shin, absorbing the concentrated hit against the road or the bike). In a typical city fall at modest speed, hip and knee points take the load. Standalone knee protection and how to wear it under normal clothes is covered in [Body Armour Under Everyday Clothes: Hidden Protection for Riders]({{ '/articles/body-armour-motorbike-riders/' | relative_url }}); this article is about the trousers themselves.
 
 ## The options, from casual to dedicated
 
-Armoured riding jeans look like normal jeans but contain abrasion-resistant fibre and hip and knee pockets. For commuters who cannot change clothes, they are the practical compromise. Textile riding trousers with zip vents and removable thermal liners are the all-weather standard — in Vietnam, buy them for the venting, not the liner. Mesh riding trousers are near-transparent to the wind and the honest hot-weather choice. And dedicated off-road knee-and-shin guards are worn over or under trousers for rough riding — the broader off-road kit is covered in offroad-riding-gear-basics. For city use, vented textile or armoured jeans cover most riders.
+Armoured riding jeans look like normal jeans but contain abrasion-resistant fibre and hip and knee pockets. For commuters who cannot change clothes, they are the practical compromise. Textile riding trousers with zip vents and removable thermal liners are the all-weather standard — in Vietnam, buy them for the venting, not the liner. Mesh riding trousers are near-transparent to the wind and the honest hot-weather choice. And dedicated off-road knee-and-shin guards are worn over or under trousers for rough riding — the broader off-road kit is covered in [Off-Road Riding Gear Basics]({{ '/articles/offroad-riding-gear-basics/' | relative_url }}). For city use, vented textile or armoured jeans cover most riders.
 
 ## Fit and the Vietnam reality
 
@@ -35,4 +35,4 @@ Armour only works where it sits: knee armour that slides off the knee in the cra
 
 ## Priority order on a budget
 
-If you are buying gear gradually, the sensible order is helmet, gloves, jacket, then trousers before extras — the reasoning is laid out in riding-gear-budget-priority-vietnam, and the everyday-clothing context in what-to-wear-riding-motorbike-vietnam. Hot-weather riders should pair trousers with the same climate thinking as the jacket article: riding-jacket-vietnam-climate.
+If you are buying gear gradually, the sensible order is helmet, gloves, jacket, then trousers before extras — the reasoning is laid out in [Buying Riding Gear on a Budget in Vietnam: Priority Order]({{ '/articles/riding-gear-budget-priority-vietnam/' | relative_url }}), and the everyday-clothing context in [What to Wear Riding a Motorbike in Vietnam]({{ '/articles/what-to-wear-riding-motorbike-vietnam/' | relative_url }}). Hot-weather riders should pair trousers with the same climate thinking as the jacket article: [Choosing a Riding Jacket for Vietnam's Climate]({{ '/articles/riding-jacket-vietnam-climate/' | relative_url }}).

@@ -24,26 +24,26 @@ Ba Dinh is Hanoi's governmental heart — the mausoleum, the museum quarter, emb
 
 ## The ceremonial core
 
-Around Ba Dinh square, the rules tighten. The mausoleum area and its approach streets have parking prohibitions and security posts; improvised kerb parking near government compounds attracts attention that no rider wants. The working pattern: park in the lots around the museum quarter and walk the final stretch. Nothing about the area is hostile to riders — it simply rewards done-properly behaviour. The parking logic is in where-to-park-motorbike-hanoi.
+Around Ba Dinh square, the rules tighten. The mausoleum area and its approach streets have parking prohibitions and security posts; improvised kerb parking near government compounds attracts attention that no rider wants. The working pattern: park in the lots around the museum quarter and walk the final stretch. Nothing about the area is hostile to riders — it simply rewards done-properly behaviour. The parking logic is in [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}).
 
 ## Wide boulevards, honest speeds
 
-Ba Dinh's arteries (Kim Ma, Doi Can, Hoang Hoa Tham, the extended Lang–Hoa Lac direction) run faster than central streets, with longer sightlines and lane discipline that matters more. The riding style for wide fast arterials is covered in best-motorbike-for-commuting-hanoi, and the equipment basics — lights, mirrors, horn — in motorbike-required-equipment-vietnam; these streets are where a missing light actually gets noticed.
+Ba Dinh's arteries (Kim Ma, Doi Can, Hoang Hoa Tham, the extended Lang–Hoa Lac direction) run faster than central streets, with longer sightlines and lane discipline that matters more. The riding style for wide fast arterials is covered in [Best Motorbike for Commuting in Hanoi]({{ '/articles/best-motorbike-for-commuting-hanoi/' | relative_url }}), and the equipment basics — lights, mirrors, horn — in [Required Equipment on a Motorbike in Vietnam]({{ '/articles/motorbike-required-equipment-vietnam/' | relative_url }}); these streets are where a missing light actually gets noticed.
 
 ## What riders come here for
 
 - The museum loop: Ho Chi Minh museum, Ethnology museum direction, the Botanical gardens edge
 - Hoang Hoa Tham and the Thu Le lake area, some of the calmer green riding in the city
-- West Lake's southern shore connects directly from Ba Dinh — see renting-motorbike-tay-ho for the lakeside pattern
+- West Lake's southern shore connects directly from Ba Dinh — see [Renting a Motorbike in Tay Ho: What to Know]({{ '/articles/renting-motorbike-tay-ho/' | relative_url }}) for the lakeside pattern
 
 ## Renting for Ba Dinh
 
-The district is a straightforward pickup-and-ride area: Nguyen Tu's shop in Long Bien is about twenty minutes across town; delivery to a Ba Dinh address can be arranged case by case depending on location, inside opening hours — see motorbike-rental-pickup-or-delivery-hanoi. Commuters renting monthly from Ba Dinh should weigh a bike comfortable on boulevards — see automatic-vs-manual-motorbike-hanoi for the trade-offs.
+The district is a straightforward pickup-and-ride area: Nguyen Tu's shop in Long Bien is about twenty minutes across town; delivery to a Ba Dinh address can be arranged case by case depending on location, inside opening hours — see [Shop Pickup vs Delivery When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}). Commuters renting monthly from Ba Dinh should weigh a bike comfortable on boulevards — see [Automatic vs Semi-Automatic vs Manual: Which Bike to Rent in Hanoi]({{ '/articles/automatic-vs-manual-motorbike-hanoi/' | relative_url }}) for the trade-offs.
 
 ## Practical cautions
 
 - Ceremony days and state visits close central Ba Dinh streets with little notice; rerouting around them is normal local practice
-- One-way routing around the square is elaborate; a wrong turn near the mausoleum is a ticket risk, not a shortcut — the fine categories are in motorbike-fines-vietnam-overview
+- One-way routing around the square is elaborate; a wrong turn near the mausoleum is a ticket risk, not a shortcut — the fine categories are in [Motorbike Fines in Vietnam: Current Overview (Decree 168/2024)]({{ '/articles/motorbike-fines-vietnam-overview/' | relative_url }})
 
 ## The one-line version
 

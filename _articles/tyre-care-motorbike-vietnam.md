@@ -31,14 +31,14 @@ Tread depth: when the wear bars (the little raised ridges inside the grooves) si
 
 ## Damage that means stop riding it
 
-Cuts that expose cords, bubbles or lumps in the sidewall, a tyre that keeps going flat, or a valve that leaks — all of these are replace-or-repair-now findings. Slow leak diagnosis and roadside puncture handling are covered in punctured-tyre-on-rental-motorbike.
+Cuts that expose cords, bubbles or lumps in the sidewall, a tyre that keeps going flat, or a valve that leaks — all of these are replace-or-repair-now findings. Slow leak diagnosis and roadside puncture handling are covered in [Who Pays for a Punctured Tyre on a Rental Motorbike?]({{ '/articles/punctured-tyre-on-rental-motorbike/' | relative_url }}).
 
 ## Who pays, on a rental
 
-Tyres and inner tubes are consumables that may be the renter's responsibility depending on the rental situation — consumables-monthly-rental-hanoi covers the fair split and the questions to ask at pickup.
+Tyres and inner tubes are consumables that may be the renter's responsibility depending on the rental situation — [Tyres, Tubes and Consumables on a Long-Term Rental]({{ '/articles/consumables-monthly-rental-hanoi/' | relative_url }}) covers the fair split and the questions to ask at pickup.
 
 ## The one-line version
 
 Gauge-check the pressure cold every week or so, read the wear bars, and treat cuts or bubbles as parking the bike — the two contact patches you ride on deserve the two minutes.
 
-Electric motorbike riders carry extra weight and instant torque — the electric-specific wear patterns are covered in electric-motorbike-tyre-checks.
+Electric motorbike riders carry extra weight and instant torque — the electric-specific wear patterns are covered in [Tyre Checks for Electric Motorbikes: Torque, Weight and Wear]({{ '/articles/electric-motorbike-tyre-checks/' | relative_url }}).

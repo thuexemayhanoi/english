@@ -24,24 +24,24 @@ Teaching English in Hanoi usually means several workplaces: a language centre he
 
 ## The commute pattern
 
-A typical teaching week spreads across two to four locations, with rush-hour travel between them. What matters for the bike is not speed but reliability and comfort in stop-start traffic: automatic scooters dominate for this reason. The bike-choice reasoning, including the automatic-versus-semi-automatic trade-off for teachers who ride further, is in best-bike-for-english-teachers-hanoi and best-motorbike-for-commuting-hanoi.
+A typical teaching week spreads across two to four locations, with rush-hour travel between them. What matters for the bike is not speed but reliability and comfort in stop-start traffic: automatic scooters dominate for this reason. The bike-choice reasoning, including the automatic-versus-semi-automatic trade-off for teachers who ride further, is in [Best Bike for English Teachers Living in Hanoi]({{ '/articles/best-bike-for-english-teachers-hanoi/' | relative_url }}) and [Best Motorbike for Commuting in Hanoi]({{ '/articles/best-motorbike-for-commuting-hanoi/' | relative_url }}).
 
 ## Monthly rental is the standard
 
-A daily rate multiplied across a teaching month makes no sense; monthly rental does. Published monthly rates at Nguyen Tu (for example Honda Click and Yamaha Mio at 1,000,000–1,200,000 VND, Honda Vision at 1,800,000–2,000,000 VND) cover the models where monthly prices are published — see daily-weekly-monthly-motorbike-rental-hanoi for the full table. Where no monthly rate is published for a model, contact the shop to discuss longer-term arrangements.
+A daily rate multiplied across a teaching month makes no sense; monthly rental does. Published monthly rates at Nguyen Tu (for example Honda Click and Yamaha Mio at 1,000,000–1,200,000 VND, Honda Vision at 1,800,000–2,000,000 VND) cover the models where monthly prices are published — see [Daily, Weekly or Monthly Motorbike Rental in Hanoi: How to Choose]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}) for the full table. Where no monthly rate is published for a model, contact the shop to discuss longer-term arrangements.
 
 ## Reliability matters more for teachers
 
-Missing a class because of a mechanical problem is a professional problem, not just an inconvenience. Two protections: rent from a shop whose rentals include routine maintenance (Nguyen Tu's include oil, chain adjustment, tyre-pressure checks and inspection — see what-is-included-motorbike-rental-hanoi), and agree at handover what happens on a breakdown and who to call (rental-motorbike-breakdown-hanoi). Report anything that feels wrong early — rental-motorbike-feels-wrong covers which symptoms justify a visit back.
+Missing a class because of a mechanical problem is a professional problem, not just an inconvenience. Two protections: rent from a shop whose rentals include routine maintenance (Nguyen Tu's include oil, chain adjustment, tyre-pressure checks and inspection — see [What Is Included in a Hanoi Motorbike Rental?]({{ '/articles/what-is-included-motorbike-rental-hanoi/' | relative_url }})), and agree at handover what happens on a breakdown and who to call ([What Happens If a Rental Motorbike Breaks Down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }})). Report anything that feels wrong early — [What to Do If Your Rental Motorbike Does Not Feel Normal]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}) covers which symptoms justify a visit back.
 
 ## Licence reality
 
-Teachers on tourist visas or visa-exemption entries face the same licensing rule as everyone: ride legally with a Vietnamese licence or a home licence plus a valid 1968 IDP. If you are settling into a work permit and residence, plan the licence exchange — expat-motorbike-licence-vietnam lays out the path.
+Teachers on tourist visas or visa-exemption entries face the same licensing rule as everyone: ride legally with a Vietnamese licence or a home licence plus a valid 1968 IDP. If you are settling into a work permit and residence, plan the licence exchange — [Vietnam Motorbike Licence for Long-Term Expats]({{ '/articles/expat-motorbike-licence-vietnam/' | relative_url }}) lays out the path.
 
 ## Practical habits for a teaching term
 
-- Keep rain gear under the seat from May to October; you will be riding to class in the rain — see riding-rental-motorbike-hanoi-rain
-- Learn the parking situation at each campus on day one; some schools have staff lots, some are street parking (where-to-park-motorbike-hanoi)
+- Keep rain gear under the seat from May to October; you will be riding to class in the rain — see [Riding a Rental Motorbike in Hanoi Rain: What to Know]({{ '/articles/riding-rental-motorbike-hanoi-rain/' | relative_url }})
+- Learn the parking situation at each campus on day one; some schools have staff lots, some are street parking ([Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}))
 - Put the shop's number in your phone before the first week of classes
 
 ## The short version

@@ -23,11 +23,11 @@ Vietnamese roads hide speed bumps without paint, road works with rebar, and moun
 
 ## What it protects
 
-The engine’s sump, the exhaust header’s lowest bend, the kickstand mount and on some models the wiring loom. A grounded-out sump can crack the engine casing; a dented exhaust header changes how the bike runs; a scraped loom strands you. The bane of city riders — the unpainted speed bump at night — dents underbellies at walking pace; the pothole problem is described from the riding side in potholes-bad-roads-motorbike-vietnam.
+The engine’s sump, the exhaust header’s lowest bend, the kickstand mount and on some models the wiring loom. A grounded-out sump can crack the engine casing; a dented exhaust header changes how the bike runs; a scraped loom strands you. The bane of city riders — the unpainted speed bump at night — dents underbellies at walking pace; the pothole problem is described from the riding side in [Potholes and Bad Roads: Protecting Yourself and Your Motorbike]({{ '/articles/potholes-bad-roads-motorbike-vietnam/' | relative_url }}).
 
 ## Who needs one
 
-Mountain-route riders (gravel-roads-motorbike-vietnam territory), anyone regularly riding unpaved sections, and lowered bikes over aggressive bumps: yes, clearly. Smooth-city commuters on scooters whose underbody already sits high: mostly no — the money is better spent elsewhere. Manual bikes with low exhausts benefit most; plastic scooter underbody panels already give some shielding.
+Mountain-route riders ([Riding on Gravel and Loose Surfaces on a Motorbike]({{ '/articles/gravel-roads-motorbike-vietnam/' | relative_url }}) territory), anyone regularly riding unpaved sections, and lowered bikes over aggressive bumps: yes, clearly. Smooth-city commuters on scooters whose underbody already sits high: mostly no — the money is better spent elsewhere. Manual bikes with low exhausts benefit most; plastic scooter underbody panels already give some shielding.
 
 ## Types and fitting
 
@@ -35,4 +35,4 @@ Plastic moulded plates protect against scrape-level damage and are cheap; alumin
 
 ## Complementary, not alternative
 
-A skid plate protects the bottom; crash bars protect the sides in a fall (crash-bars-engine-guards-motorbike). After any grounding or fall, inspect both plus the bike per checking-motorbike-after-fall-accident — armour hides damage, it does not undo it.
+A skid plate protects the bottom; crash bars protect the sides in a fall ([Crash Bars and Engine Guards on Motorbikes]({{ '/articles/crash-bars-engine-guards-motorbike/' | relative_url }})). After any grounding or fall, inspect both plus the bike per [What to Check Mechanically After a Fall]({{ '/articles/checking-motorbike-after-fall-accident/' | relative_url }}) — armour hides damage, it does not undo it.

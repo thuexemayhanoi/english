@@ -23,7 +23,7 @@ The scenario is painfully familiar: bike washed, bike beautiful, bike dead. Wash
 
 ## What water actually did
 
-Starting needs three things: compression, fuel, and a spark — and the spark is what washing attacks. Water in the plug cap, coil, kill-switch, or any connector lets the spark's energy leak away to the frame instead of jumping the plug gap. The second path: water in the air filter or intake makes the mixture unstartable, and a soaked filter can even choke an engine that tries. The third, rarest: fuel getting in only if the cap was aimed at directly — see water-in-fuel-motorbike.
+Starting needs three things: compression, fuel, and a spark — and the spark is what washing attacks. Water in the plug cap, coil, kill-switch, or any connector lets the spark's energy leak away to the frame instead of jumping the plug gap. The second path: water in the air filter or intake makes the mixture unstartable, and a soaked filter can even choke an engine that tries. The third, rarest: fuel getting in only if the cap was aimed at directly — see [Water in the Fuel: How It Gets There and What It Does]({{ '/articles/water-in-fuel-motorbike/' | relative_url }}).
 
 ## The recovery sequence
 
@@ -32,14 +32,14 @@ Starting needs three things: compression, fuel, and a spark — and the spark is
 3. **Check the kill switch.** A wet, shorting kill switch mimics everything. Rock it, spray contact cleaner, try starting with it in each position.
 4. **Open the air filter.** A damp filter can be reinstalled after shaking out; a soaked one needs to dry fully before the bike will start.
 5. **Dry time is a real cure.** An hour in the sun fixes most of these without touching anything. Water runs downward: connectors, coils and the area under the tank shed with time.
-6. **Still nothing after full drying**: the fault may have existed before the wash — washing days are often also the day bikes get looked at closely. Then the diagnosis moves to dead-battery-motorbike-vietnam or electric-start-starter-motor-problems.
+6. **Still nothing after full drying**: the fault may have existed before the wash — washing days are often also the day bikes get looked at closely. Then the diagnosis moves to [A Dead Battery: Recovering a Motorbike That Won't Start]({{ '/articles/dead-battery-motorbike-vietnam/' | relative_url }}) or [Electric Start Problems: Starter Motors and Clicks That Go Nowhere]({{ '/articles/electric-start-starter-motor-problems/' | relative_url }}).
 
 ## Prevention: how to wash without killing
 
 - No direct spray at: the ignition switch, instrument cluster, under-seat electrics, plug wells, and the air intake. Rinse from above, not sideways.
 - Low pressure. A garden-hose stream is the maximum; pressure washers blast past seals that rain has never beaten.
-- Park nose slightly uphill, let the bike drip-dry, and start it once before it fully dries to cook moisture off with engine heat — if it still refuses to start, run through the moisture checks in check-motorbike-after-heavy-rain.
+- Park nose slightly uphill, let the bike drip-dry, and start it once before it fully dries to cook moisture off with engine heat — if it still refuses to start, run through the moisture checks in [What to Check After Your Motorbike Gets Soaked]({{ '/articles/check-motorbike-after-heavy-rain/' | relative_url }}).
 
 ## The humidity footnote
 
-In the dry season, wash-day faults often reappear as connector corrosion months later: water that entered a connector leaves residue that starts the green-fuzz corrosion cycle — the long-term protection is in wiring-connectors-humidity-motorbike. And if the bike went through actual flooding rather than a wash, the stakes and the checklist are different: see deep-water-riding-aftercare-motorbike.
+In the dry season, wash-day faults often reappear as connector corrosion months later: water that entered a connector leaves residue that starts the green-fuzz corrosion cycle — the long-term protection is in [Protecting Wiring and Connectors from Humidity on a Motorbike]({{ '/articles/wiring-connectors-humidity-motorbike/' | relative_url }}). And if the bike went through actual flooding rather than a wash, the stakes and the checklist are different: see [Deep Water Aftercare: What to Check After Flooding]({{ '/articles/deep-water-riding-aftercare-motorbike/' | relative_url }}).

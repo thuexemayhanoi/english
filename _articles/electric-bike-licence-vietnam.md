@@ -49,4 +49,4 @@ Electric options suit short city trips: quiet, cheap to run, no petrol smell. Ra
 
 *Information, not legal advice. Verified against the full text of Law 36/2024/QH15 on 2026-09-21.*
 
-For what an electric motorbike is as a machine and category, see our what-is-electric-motorbike-vietnam [and electric-moped-vs-electric-motorcycle-vietnam guide]({{ '/articles/electric-moped-vs-electric-motorcycle-vietnam/' | relative_url }})s.
+For what an electric motorbike is as a machine and category, see our [What Is an Electric Motorbike in Vietnam? Xe May Dien Explained]({{ '/articles/what-is-electric-motorbike-vietnam/' | relative_url }}) [and electric-moped-vs-electric-motorcycle-vietnam guide]({{ '/articles/electric-moped-vs-electric-motorcycle-vietnam/' | relative_url }})s.

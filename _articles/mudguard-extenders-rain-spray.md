@@ -23,7 +23,7 @@ Vietnamese motorbikes in rain ride inside a cloud of their own spray: water lift
 
 ## What the spray actually does
 
-Front-wheel spray soaks your legs and sprays the engine’s front face — which on a scooter means the rider’s knees and the bike’s electrics live in grit water. Rear-wheel spray draws the brown water-line up your back and across the pillion; the rider behind you eats what your guard misses. Riding technique in rain reduces but never removes this — the technique article is riding-motorbike-heavy-rain-vietnam; the extender reduces the rest.
+Front-wheel spray soaks your legs and sprays the engine’s front face — which on a scooter means the rider’s knees and the bike’s electrics live in grit water. Rear-wheel spray draws the brown water-line up your back and across the pillion; the rider behind you eats what your guard misses. Riding technique in rain reduces but never removes this — the technique article is [Riding a Motorbike in Heavy Rain in Vietnam]({{ '/articles/riding-motorbike-heavy-rain-vietnam/' | relative_url }}); the extender reduces the rest.
 
 ## The options
 
@@ -31,7 +31,7 @@ Moulded front extenders bolt or clip below the existing guard, extending its arc
 
 ## The rainy-season frame
 
-The extender is part of the monsoon kit: guards reduce how wet you get, but the cleaning discipline for what still lands (cleaning-motorbike-properly-vietnam) and the seasonal maintenance checklist (motorbike-maintenance-rainy-season) do the real anti-corrosion work. Personal coverage — the rain suit and boots — is budgeted in riding-gear-budget-priority-vietnam. Together they make the wet months rideable rather than merely survivable.
+The extender is part of the monsoon kit: guards reduce how wet you get, but the cleaning discipline for what still lands ([Washing and Cleaning a Motorbike Properly]({{ '/articles/cleaning-motorbike-properly-vietnam/' | relative_url }})) and the seasonal maintenance checklist ([Motorbike Maintenance in the Rainy Season]({{ '/articles/motorbike-maintenance-rainy-season/' | relative_url }})) do the real anti-corrosion work. Personal coverage — the rain suit and boots — is budgeted in [Buying Riding Gear on a Budget in Vietnam: Priority Order]({{ '/articles/riding-gear-budget-priority-vietnam/' | relative_url }}). Together they make the wet months rideable rather than merely survivable.
 
 ## Fitting notes
 

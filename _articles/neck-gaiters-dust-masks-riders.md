@@ -23,7 +23,7 @@ The balaclava-neck tube-mask combo is one of the most Vietnamese rider accessori
 
 ## The three jobs
 
-Dust: in the dry season and around construction sites, a gaiter or mask over nose and mouth keeps grit out of your airway — the riding-side tactics for dusty conditions are in dust-dry-season-riding-vietnam. Sun: a gaiter covers the neck and lower face that a helmet visor and gloves leave exposed, complementing sun-protection-motorbike-riders. Smell: at a red light behind a bus, a mask is the difference between breathing and marinating in diesel.
+Dust: in the dry season and around construction sites, a gaiter or mask over nose and mouth keeps grit out of your airway — the riding-side tactics for dusty conditions are in [Dust and Dry-Season Riding Conditions in Vietnam]({{ '/articles/dust-dry-season-riding-vietnam/' | relative_url }}). Sun: a gaiter covers the neck and lower face that a helmet visor and gloves leave exposed, complementing [Sun Protection for Riders: UV on Long Rides]({{ '/articles/sun-protection-motorbike-riders/' | relative_url }}). Smell: at a red light behind a bus, a mask is the difference between breathing and marinating in diesel.
 
 ## Types, from tube to filter
 
@@ -35,4 +35,4 @@ No fabric mask filters at the level of certified respiratory protection — for 
 
 ## Fit with the rest of the kit
 
-Gaiters work with the rest of the coverage plan — the layering logic of what-to-wear-riding-motorbike-vietnam and the jacket coverage in riding-jacket-vietnam-climate. Together they close the sun-and-dust gaps that a helmet and gloves leave open.
+Gaiters work with the rest of the coverage plan — the layering logic of [What to Wear Riding a Motorbike in Vietnam]({{ '/articles/what-to-wear-riding-motorbike-vietnam/' | relative_url }}) and the jacket coverage in [Choosing a Riding Jacket for Vietnam's Climate]({{ '/articles/riding-jacket-vietnam-climate/' | relative_url }}). Together they close the sun-and-dust gaps that a helmet and gloves leave open.

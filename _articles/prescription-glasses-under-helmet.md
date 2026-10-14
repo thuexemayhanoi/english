@@ -23,15 +23,15 @@ If you need prescription glasses to read a sign at the end of the street, you ne
 
 ## Frame choice
 
-Thin, flexible arms matter more than lens quality under a helmet. Chunky spring-hinge temples create pressure where the helmet's padding grips your head; after an hour that becomes a headache people blame on the helmet. Frames with straight, slim arms slide in without lifting the padding and without breaking the helmet's fit. Trying glasses on with your helmet on — before buying either — is the only honest test. The helmet's own fit rules are in helmet-fit-guide-vietnam.
+Thin, flexible arms matter more than lens quality under a helmet. Chunky spring-hinge temples create pressure where the helmet's padding grips your head; after an hour that becomes a headache people blame on the helmet. Frames with straight, slim arms slide in without lifting the padding and without breaking the helmet's fit. Trying glasses on with your helmet on — before buying either — is the only honest test. The helmet's own fit rules are in [How to Choose and Fit a Helmet in Vietnam]({{ '/articles/helmet-fit-guide-vietnam/' | relative_url }}).
 
 ## Fogging
 
-In Hanoi's drizzle season, eyeglasses under a closed visor fog like a bathroom mirror. Warm, humid air inside; cool, wet outside. Fixes that work: crack the visor open a notch at low speed (vented airflow clears both surfaces), keep the visor's anti-fog treatment intact as described in visor-care-anti-fog-motorbike, and wipe lenses with a drop of mild soapy water and let them air-dry — the invisible film noticeably delays fogging. If fogging is constant, a Pinlock-style visor insert helps the visor; the glasses still need airflow.
+In Hanoi's drizzle season, eyeglasses under a closed visor fog like a bathroom mirror. Warm, humid air inside; cool, wet outside. Fixes that work: crack the visor open a notch at low speed (vented airflow clears both surfaces), keep the visor's anti-fog treatment intact as described in [Keeping Your Visor Clear: Anti-Fog and Visor Care]({{ '/articles/visor-care-anti-fog-motorbike/' | relative_url }}), and wipe lenses with a drop of mild soapy water and let them air-dry — the invisible film noticeably delays fogging. If fogging is constant, a Pinlock-style visor insert helps the visor; the glasses still need airflow.
 
 ## Tinted and photochromic lenses
 
-Sunglasses and photochromic lenses have a place in Vietnamese sun — the tint selection logic is in helmet-visor-tinted-photochromic and the broader eye-protection picture in eye-protection-riding-motorbike-vietnam. Two cautions for prescription wearers: very dark tints at dusk turn a manageable ride into a blind one, and photochromic lenses depend on UV reaching the lens — some visors block enough UV that the lens never darkens, or darkens late. Test your own combination rather than trusting the marketing.
+Sunglasses and photochromic lenses have a place in Vietnamese sun — the tint selection logic is in [Helmet Visor Options: Clear, Tinted and Photochromic]({{ '/articles/helmet-visor-tinted-photochromic/' | relative_url }}) and the broader eye-protection picture in [Eye Protection While Riding a Motorbike]({{ '/articles/eye-protection-riding-motorbike-vietnam/' | relative_url }}). Two cautions for prescription wearers: very dark tints at dusk turn a manageable ride into a blind one, and photochromic lenses depend on UV reaching the lens — some visors block enough UV that the lens never darkens, or darkens late. Test your own combination rather than trusting the marketing.
 
 ## Practical habits
 

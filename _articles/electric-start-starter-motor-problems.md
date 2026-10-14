@@ -23,15 +23,15 @@ The electric start button is wonderful until the day it produces a click, a whir
 
 ## Translate the sound
 
-One loud click, then silence: the solenoid engaged but the starter motor did not turn — think battery voltage, a jammed starter, or a locked engine (rare). A rapid series of clicks: a battery too weak to hold the solenoid in — a flat or dying battery, which is the most common case of all and is covered fully in dead-battery-motorbike-vietnam. A strong whirring but the engine never turns: the starter clutch or reduction gears are slipping — a workshop job. Silence, not even a click: the kill switch, side-stand cutout, a blown fuse, or a broken start button — check the dumb things first, every time.
+One loud click, then silence: the solenoid engaged but the starter motor did not turn — think battery voltage, a jammed starter, or a locked engine (rare). A rapid series of clicks: a battery too weak to hold the solenoid in — a flat or dying battery, which is the most common case of all and is covered fully in [A Dead Battery: Recovering a Motorbike That Won't Start]({{ '/articles/dead-battery-motorbike-vietnam/' | relative_url }}). A strong whirring but the engine never turns: the starter clutch or reduction gears are slipping — a workshop job. Silence, not even a click: the kill switch, side-stand cutout, a blown fuse, or a broken start button — check the dumb things first, every time.
 
 ## Battery first, always
 
-The starter motor is the single heaviest electrical load on the bike, so it is the first thing to fail when the battery is weak. Charge, test or replace the battery before blaming the starter. A battery that repeatedly goes flat even with the bike ridden daily points upstream to the charging system — how the stator and regulator actually feed the battery is explained in charging-system-stator-basics-motorbike, and the routine care that prevents the whole cascade is in battery-care-motorbike-vietnam.
+The starter motor is the single heaviest electrical load on the bike, so it is the first thing to fail when the battery is weak. Charge, test or replace the battery before blaming the starter. A battery that repeatedly goes flat even with the bike ridden daily points upstream to the charging system — how the stator and regulator actually feed the battery is explained in [Charging System Basics: The Stator and Regulator]({{ '/articles/charging-system-stator-basics-motorbike/' | relative_url }}), and the routine care that prevents the whole cascade is in [Battery Care on a Motorbike]({{ '/articles/battery-care-motorbike-vietnam/' | relative_url }}).
 
 ## Cold and winter mornings
 
-Batteries lose cranking strength in cold weather exactly when engines are hardest to turn — Hanoi's winter mornings produce an annual wave of "my starter died overnight" that is really a cold, tired battery. The starting routine and why winter is different are covered in cold-start-motorbike-winter-vietnam.
+Batteries lose cranking strength in cold weather exactly when engines are hardest to turn — Hanoi's winter mornings produce an annual wave of "my starter died overnight" that is really a cold, tired battery. The starting routine and why winter is different are covered in [Cold Mornings: Starting a Motorbike in Hanoi's Winter]({{ '/articles/cold-start-motorbike-winter-vietnam/' | relative_url }}).
 
 ## When it really is the starter
 

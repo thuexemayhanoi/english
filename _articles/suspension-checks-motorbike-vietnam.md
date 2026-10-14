@@ -27,11 +27,11 @@ Push down hard on the front and let go: the bike should rise and settle, not bou
 
 ## What wear feels like riding
 
-Dive under braking that keeps getting deeper, a front that skips over bumps instead of following them, wobbles through corners, and clunks from the front over sharp edges. Clunks and knocks are worth cross-checking against diagnosing-motorbike-noises-vietnam — fork or steering-head noises are often mistaken for each other.
+Dive under braking that keeps getting deeper, a front that skips over bumps instead of following them, wobbles through corners, and clunks from the front over sharp edges. Clunks and knocks are worth cross-checking against [Diagnosing Motorbike Noises: A Rider's Guide]({{ '/articles/diagnosing-motorbike-noises-vietnam/' | relative_url }}) — fork or steering-head noises are often mistaken for each other.
 
 ## What kills Vietnamese suspension
 
-Riding through pothole fields and over speed bumps too fast — potholes-bad-roads-motorbike-vietnam explains the riding side. Corrosion from wet-season riding stiffens linkages. And overloading: a bike rated for one rider plus light luggage, carrying two people and a month of shopping, is eating its own shocks.
+Riding through pothole fields and over speed bumps too fast — [Potholes and Bad Roads: Protecting Yourself and Your Motorbike]({{ '/articles/potholes-bad-roads-motorbike-vietnam/' | relative_url }}) explains the riding side. Corrosion from wet-season riding stiffens linkages. And overloading: a bike rated for one rider plus light luggage, carrying two people and a month of shopping, is eating its own shocks.
 
 ## Maintenance reality
 
@@ -39,4 +39,4 @@ Suspension bushes, seals and damper oil are consumables, not lifetime parts, and
 
 ## Why it matters to braking and safety
 
-Tyre grip through an emergency stop depends on suspension holding the wheel on the ground — a worn front end makes the emergency-braking-motorbike-vietnam sequence much less effective. Keep the suspension honest and the whole bike stays honest.
+Tyre grip through an emergency stop depends on suspension holding the wheel on the ground — a worn front end makes the [Emergency Braking on a Motorbike in Vietnam]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}) sequence much less effective. Keep the suspension honest and the whole bike stays honest.

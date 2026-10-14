@@ -19,7 +19,7 @@ sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
 internal_link_targets: "motorbike-accident-duties-vietnam, first-aid-kit-motorbike-riders-vietnam, stopped-by-traffic-police-vietnam, do-you-need-insurance-to-ride-vietnam"
 ---
-What you do in the first two minutes after a motorbike accident matters more than almost anything else you will do as a rider — for the person on the tarmac, and legally for yourself. The legal duties after an accident are set out in motorbike-accident-duties-vietnam; this is the practical first-response sequence.
+What you do in the first two minutes after a motorbike accident matters more than almost anything else you will do as a rider — for the person on the tarmac, and legally for yourself. The legal duties after an accident are set out in [What to Do After a Motorbike Accident in Vietnam]({{ '/articles/motorbike-accident-duties-vietnam/' | relative_url }}); this is the practical first-response sequence.
 
 ## 1. Stop the scene from growing
 
@@ -31,11 +31,11 @@ The classic instinct is to lift the fallen rider. If they are conscious and can 
 
 ## 3. Check, call, hold
 
-Check responsiveness and breathing. Call the emergency number early — 115 is Vietnam's medical emergency number, reachable nationwide. Keep the injured person warm and still; a foil blanket from first-aid-kit-motorbike-riders-vietnam is the exact tool. Control visible bleeding with direct pressure and gauze.
+Check responsiveness and breathing. Call the emergency number early — 115 is Vietnam's medical emergency number, reachable nationwide. Keep the injured person warm and still; a foil blanket from [A First Aid Kit for Motorbike Riders in Vietnam]({{ '/articles/first-aid-kit-motorbike-riders-vietnam/' | relative_url }}) is the exact tool. Control visible bleeding with direct pressure and gauze.
 
 ## 4. The legal frame
 
-Stopping and helping at an accident you are involved in is a legal duty, and leaving the scene is a serious offence — motorbike-accident-duties-vietnam covers the verified rules and penalties, and stopped-by-traffic-police-vietnam covers the police interaction that follows. If you carry your own insurance, do-you-need-insurance-to-ride-vietnam explains why that call also matters tonight.
+Stopping and helping at an accident you are involved in is a legal duty, and leaving the scene is a serious offence — [What to Do After a Motorbike Accident in Vietnam]({{ '/articles/motorbike-accident-duties-vietnam/' | relative_url }}) covers the verified rules and penalties, and [Stopped by Traffic Police in Vietnam: What to Do]({{ '/articles/stopped-by-traffic-police-vietnam/' | relative_url }}) covers the police interaction that follows. If you carry your own insurance, [Do You Need Your Own Insurance to Ride in Vietnam?]({{ '/articles/do-you-need-insurance-to-ride-vietnam/' | relative_url }}) explains why that call also matters tonight.
 
 ## The one-line version
 

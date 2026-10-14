@@ -31,12 +31,12 @@ Any solid cover works — a shopfront, a market overhang, a cafe, a petrol stati
 
 ## If you must ride it out
 
-Drop your speed hard, lights on, both brakes gentle, and expect the drivers around you to make the worst decisions of their week. riding-motorbike-heavy-rain-vietnam covers rain technique and strong-wind-riding-motorbike-vietnam the gusts — but no technique matches pulling over for twenty minutes.
+Drop your speed hard, lights on, both brakes gentle, and expect the drivers around you to make the worst decisions of their week. [Riding a Motorbike in Heavy Rain in Vietnam]({{ '/articles/riding-motorbike-heavy-rain-vietnam/' | relative_url }}) covers rain technique and [Riding a Motorbike in Strong Wind]({{ '/articles/strong-wind-riding-motorbike-vietnam/' | relative_url }}) the gusts — but no technique matches pulling over for twenty minutes.
 
 ## The flooding stage
 
-The end of a big storm is when streets flood. Do not push through deep, moving water; the flooded-streets chapter of your riding day deserves its own decision-making, and flooded-streets-riding-motorbike-vietnam walks through it.
+The end of a big storm is when streets flood. Do not push through deep, moving water; the flooded-streets chapter of your riding day deserves its own decision-making, and [Riding Through Flooded Streets on a Motorbike]({{ '/articles/flooded-streets-riding-motorbike-vietnam/' | relative_url }}) walks through it.
 
 ## After it passes
 
-Check the bike once you are moving again: water finds its way in. check-motorbike-after-heavy-rain lists what to look at. And check yourself — riding shaken is riding badly; take five minutes before rejoining traffic.
+Check the bike once you are moving again: water finds its way in. [What to Check After Your Motorbike Gets Soaked]({{ '/articles/check-motorbike-after-heavy-rain/' | relative_url }}) lists what to look at. And check yourself — riding shaken is riding badly; take five minutes before rejoining traffic.

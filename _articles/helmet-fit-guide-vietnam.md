@@ -19,7 +19,7 @@ sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general rider-safety guidance, no invented legal claims"
 internal_link_targets: "helmet-law-vietnam, child-passengers-motorbike-vietnam, what-to-wear-riding-motorbike-vietnam, night-riding-motorbike-safety-vietnam"
 ---
-Helmets are legally required for riders and passengers in Vietnam — helmet-law-vietnam covers the rule and the fines — but wearing one only matters if it fits and fastens. Most helmets sold cheaply on Vietnamese sidewalks are shells with foam; most helmet failures are fit and strap failures.
+Helmets are legally required for riders and passengers in Vietnam — [Vietnam Helmet Law: Rules for Riders and Passengers]({{ '/articles/helmet-law-vietnam/' | relative_url }}) covers the rule and the fines — but wearing one only matters if it fits and fastens. Most helmets sold cheaply on Vietnamese sidewalks are shells with foam; most helmet failures are fit and strap failures.
 
 ## What to look for
 
@@ -31,11 +31,11 @@ Put it on: it should be snug enough that shaking your head moves the helmet, not
 
 ## Children need real helmets
 
-A child on a pillion needs a properly fitted child helmet, not a loosened adult one — child-passengers-motorbike-vietnam covers the legal side. Child helmets exist in every Vietnamese market; check the fit the same way.
+A child on a pillion needs a properly fitted child helmet, not a loosened adult one — [Child Passengers on Motorbikes in Vietnam]({{ '/articles/child-passengers-motorbike-vietnam/' | relative_url }}) covers the legal side. Child helmets exist in every Vietnamese market; check the fit the same way.
 
 ## Life and replacement
 
-Helmets are one-impact items: after any hit — even a drop onto concrete — the liner is done. Foam also ages: a helmet used daily in Hanoi's heat and humidity should be replaced after a few years regardless of crashes. What to wear with it is covered in what-to-wear-riding-motorbike-vietnam.
+Helmets are one-impact items: after any hit — even a drop onto concrete — the liner is done. Foam also ages: a helmet used daily in Hanoi's heat and humidity should be replaced after a few years regardless of crashes. What to wear with it is covered in [What to Wear Riding a Motorbike in Vietnam]({{ '/articles/what-to-wear-riding-motorbike-vietnam/' | relative_url }}).
 
 ## The one-line version
 

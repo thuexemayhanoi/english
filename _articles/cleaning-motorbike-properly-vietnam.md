@@ -19,7 +19,7 @@ sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved); general maintenance guidance, no invented specifications (manual/mechanic is the authority)"
 internal_link_targets: "motorcycle-rust-prevention-vietnam, chain-maintenance-motorbike-vietnam, rental-motorbike-care-long-term-hanoi, storing-motorbike-long-term-vietnam"
 ---
-Washing a bike in Vietnam is cheap, social and genuinely useful — road grime here is abrasive and slightly corrosive, and washing is rust prevention's first half. The second half is drying: motorcycle-rust-prevention-vietnam covers why that half decides everything.
+Washing a bike in Vietnam is cheap, social and genuinely useful — road grime here is abrasive and slightly corrosive, and washing is rust prevention's first half. The second half is drying: [Preventing Rust on a Motorbike in Vietnam]({{ '/articles/motorcycle-rust-prevention-vietnam/' | relative_url }}) covers why that half decides everything.
 
 ## The street wash
 
@@ -27,7 +27,7 @@ Every district has hand-wash stands: bucket, foam, brushes, a rinse and a wipe f
 
 ## Doing it yourself
 
-Bucket and sponge, bike shampoo or mild detergent, two brushes (soft for paint, stiffer for wheels), and a proper dry. Cold water, not hot; shade, not direct sun — sun-baked soap dries into streaks. Work top down, wheels last. The chain: wipe it clean and re-lubricate after washing — washing strips chain lube, which is why a wash day is also a chain day (chain-maintenance-motorbike-vietnam).
+Bucket and sponge, bike shampoo or mild detergent, two brushes (soft for paint, stiffer for wheels), and a proper dry. Cold water, not hot; shade, not direct sun — sun-baked soap dries into streaks. Work top down, wheels last. The chain: wipe it clean and re-lubricate after washing — washing strips chain lube, which is why a wash day is also a chain day ([Chain Maintenance on a Motorbike in Vietnam]({{ '/articles/chain-maintenance-motorbike-vietnam/' | relative_url }})).
 
 ## The parts that need a light touch
 
@@ -35,7 +35,7 @@ Instrument clusters, ignition switches and connectors: damp rag, not a hose. Exh
 
 ## Why it matters more than looks
 
-A clean bike shows its problems: an oil weep, a loose fastener, a chain going rusty — all visible on clean metal, invisible on a grime layer. The weekly wash is really a weekly inspection; rental-motorbike-care-long-term-hanoi covers the long-term-renter habit.
+A clean bike shows its problems: an oil weep, a loose fastener, a chain going rusty — all visible on clean metal, invisible on a grime layer. The weekly wash is really a weekly inspection; [Looking After a Rental Motorbike Over a Long Term]({{ '/articles/rental-motorbike-care-long-term-hanoi/' | relative_url }}) covers the long-term-renter habit.
 
 ## The one-line version
 
