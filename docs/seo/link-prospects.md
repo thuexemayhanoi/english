@@ -11,7 +11,35 @@ Generated 2026-10-15 by `scripts/english-seo-matrix.js` from the backlink eviden
 - backlinks: 28
 - referring_domains: 23
 - source: Ubersuggest domain_overview, 2026-10-14
+- AI answers (OpenSEO AI visibility (one-off check across engines), United States, 2026-10-15): this domain was cited in 3 of 28 collected answers (chatgpt 3/10, gemini 0/10, google_ai_overview 0/8) and its brand name was mentioned in 0; one answer per prompt and engine is a sample
 - rank tracker (Ubersuggest project_position_info, Vietnam desktop, 2026-10-14): 15 of 25 tracked keywords in the top 100, 1 in the top 3 (positions only; the domain overview above lags the rank tracker, so its zero organic keywords is not the current position)
+
+## Domains AI answers cite for these topics
+
+OpenSEO AI visibility (one-off check across engines), 2026-10-15, United States: the pages the engines listed as sources for 10 renter and licence questions (58 distinct domains; top 20 not owned by this site). Where the engines look is where a correct, consistent mention of the business is worth having; all of it is owner-only off-site work (a profile or mention that restates only docs/OWNER-FACTS.md, never a bought or undisclosed one).
+
+| Domain | Answers | Prompts | Engines |
+|---|---|---|---|
+| www.facebook.com | 9 | 9 | gemini:1, google_ai_overview:8 |
+| www.vietnamtourism.com | 7 | 5 | chatgpt:4, gemini:1, google_ai_overview:2 |
+| www.youtube.com | 5 | 5 | google_ai_overview:5 |
+| rentabikevn.com | 5 | 4 | chatgpt:1, gemini:1, google_ai_overview:3 |
+| www.ethosspirit.com | 5 | 3 | gemini:3, google_ai_overview:2 |
+| www.reddit.com | 4 | 4 | google_ai_overview:4 |
+| english.luatvietnam.vn | 3 | 3 | chatgpt:3 |
+| stylemotorbikes.com | 3 | 3 | gemini:2, google_ai_overview:1 |
+| www.instagram.com | 3 | 3 | google_ai_overview:3 |
+| traveldudes.com | 3 | 2 | gemini:2, google_ai_overview:1 |
+| happyzipmotorbikes.com | 3 | 1 | chatgpt:1, gemini:1, google_ai_overview:1 |
+| vietnamebiketravel.com | 3 | 1 | chatgpt:1, gemini:1, google_ai_overview:1 |
+| www.electric-smiles.com | 3 | 1 | chatgpt:1, gemini:1, google_ai_overview:1 |
+| bmtraveladv.com | 2 | 2 | gemini:2 |
+| danangbike.com | 2 | 2 | gemini:1, google_ai_overview:1 |
+| duyanhmotorbikes.com | 2 | 2 | gemini:1, google_ai_overview:1 |
+| hoianit.com | 2 | 2 | gemini:1, google_ai_overview:1 |
+| izigo.vn | 2 | 2 | gemini:2 |
+| motorbiketourexpert.com | 2 | 2 | google_ai_overview:2 |
+| rentalmotorbikevietnam.com | 2 | 2 | gemini:2 |
 
 ## Competitor link profiles
 

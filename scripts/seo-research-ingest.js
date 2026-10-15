@@ -31,6 +31,9 @@ const MARKET_NAMES = { us: 'United States', uk: 'United Kingdom', au: 'Australia
 const OUR_HOST = new URL(L.SITE_URL).hostname.replace(/^www\./, '');
 // Ubersuggest rank-tracker and AI-visibility exports carry no OFE envelope; Google location ids map to markets.
 const UBER_TOOLS = new Set(['project_position_info', 'brand_visibility_overview', 'brand_prompts']);
+const OPENSEO_AI = 'openseo_ai_visibility';
+const OPENSEO_AI_TOOL = 'OpenSEO AI visibility (one-off check across engines)';
+const UBER_AI_TOOL = 'Ubersuggest AI Search Visibility (brand_visibility_overview + brand_prompts)';
 const RANK_LOC = { 2704: 'vn', 2840: 'us', 2826: 'uk', 2036: 'au', 2124: 'ca', 2702: 'sg', 2554: 'nz' };
 
 // ---------- classification (pure functions, exported for the engine tests) ----------
@@ -86,8 +89,50 @@ const num = v => (v == null || v === '' || isNaN(Number(v))) ? null : Number(v);
 const round = (v, d) => v == null ? null : Math.round(v * Math.pow(10, d)) / Math.pow(10, d);
 const uniq = arr => [...new Set(arr)];
 
+// OpenSEO AI-visibility export: one observation per prompt x engine (own-brand mention and citation flags) plus the
+// pages those answers cite, grouped by domain and by URL. A citation is a source link shown with an AI answer; a mention
+// is the brand name inside the answer text. Neither is a ranking, click or traffic figure, and one answer per prompt and
+// engine is a sample (answers vary between runs). Deterministic: the same export always yields the same snapshot.
+const aiKey = (date, tool) => String(date) + '|' + String(tool);
+function openseoAiSnapshot(d, input, fetchedAt) {
+  const rows = (Array.isArray(d.rows) ? d.rows : []).filter(r => r && r.engine);
+  const run = d.run || {};
+  const date = dateOf(fetchedAt || run.completedAt || run.createdAt);
+  const ownOf = r => (r.brands || []).find(b => b && b.own) || {};
+  const answered = r => r.status === 'completed' && r.answerStatus === 'answered';
+  const engines = uniq(rows.map(r => r.engine)).sort();
+  const byEngine = {};
+  for (const e of engines) {
+    const er = rows.filter(r => r.engine === e); const ea = er.filter(answered);
+    byEngine[e] = { observations: er.length, answered: ea.length, no_answer: er.filter(r => r.status === 'completed' && r.answerStatus !== 'answered').length, failed: er.filter(r => r.status !== 'completed').length,
+      own_cited: ea.filter(r => ownOf(r).cited).length, own_mentioned: ea.filter(r => ownOf(r).mentioned).length };
+  }
+  const byPrompt = {};
+  for (const r of rows) {
+    const p = byPrompt[r.prompt] = byPrompt[r.prompt] || { prompt: r.prompt, topic: r.topic || '', engines: {} };
+    p.engines[r.engine] = answered(r) ? { answered: true, own_cited: !!ownOf(r).cited, own_mentioned: !!ownOf(r).mentioned, citations: r.citationCount != null ? r.citationCount : null } : { answered: false, status: r.status === 'completed' ? (r.answerStatus || 'no_answer') : (r.status || 'failed') };
+  }
+  const engList = e => (e || []).map(x => x.engine + ':' + x.answerCount).sort();
+  const byAnswers = (a, b) => (b.answers || 0) - (a.answers || 0) || (b.prompts || 0) - (a.prompts || 0) || String(a.domain || a.url).localeCompare(String(b.domain || b.url));
+  const domains = (Array.isArray(d.sources_by_domain) ? d.sources_by_domain : []).filter(x => x && x.domain)
+    .map(x => ({ domain: x.domain, ownership: x.ownership || 'other', answers: x.answerCount, prompts: x.promptCount, engines: engList(x.engines) })).sort(byAnswers);
+  const ownPages = (Array.isArray(d.sources_by_url) ? d.sources_by_url : []).filter(x => x && x.url && x.ownership === 'own')
+    .map(x => ({ url: L.sitePath(x.url), title: x.title || '', answers: x.answerCount, prompts: x.promptCount, engines: engList(x.engines) })).sort(byAnswers);
+  const loc = input && input.locationCode;
+  return {
+    tool: OPENSEO_AI_TOOL, date, market: MARKET_NAMES[RANK_LOC[loc]] || (loc ? String(loc) : 'United States'), language: (input && input.languageCode) || 'en',
+    trigger: run.trigger || '', engines, prompts: Object.keys(byPrompt).length, observations: rows.length, answered: rows.filter(answered).length,
+    own_domain: OUR_HOST, own_cited_answers: Object.values(byEngine).reduce((n, e) => n + e.own_cited, 0), own_mentioned_answers: Object.values(byEngine).reduce((n, e) => n + e.own_mentioned, 0),
+    by_engine: byEngine,
+    prompt_rows: Object.values(byPrompt).sort((a, b) => a.topic.localeCompare(b.topic) || a.prompt.localeCompare(b.prompt)),
+    cited_domains_total: Number(d.sources_by_domain_total) > domains.length ? Number(d.sources_by_domain_total) : domains.length, cited_domains: domains.slice(0, 40), own_cited_pages: ownPages,
+    note: 'One answer per prompt and engine on the date given, collected by the tool in the market shown. A citation is a source link listed with an AI answer; a mention is the brand name in the answer text. AI answers vary between runs, so one check is a sample, not a rate; Google AI Overviews are absent for some queries (recorded as no answer, not as a missing brand).'
+  };
+}
+
 // Unwrap {tool, input, result} or take a raw envelope; detect the tool from the payload.
 function detect(doc) {
+  if (doc && doc.tool === OPENSEO_AI && doc.result && typeof doc.result === 'object') return { tool: OPENSEO_AI, env: doc.result, d: doc.result, input: doc.input || {}, fetched_at: doc.fetched_at || '' };
   const uber = doc && UBER_TOOLS.has(doc.tool) ? doc.tool : (doc && !doc.tool && Array.isArray(doc.keywords) && doc.complete_through && doc.binned ? 'project_position_info' : '');
   if (uber) {
     let r = doc.tool ? doc.result : doc;
@@ -148,7 +193,7 @@ function ingest(inbox, opts) {
   const track = ev._tracking && typeof ev._tracking === 'object' ? ev._tracking : {};
   const rankKey = x => [x.date, x.market, x.device].join('|');
   const rankSnaps = {}; for (const x of Array.isArray(track.rank_snapshots) ? track.rank_snapshots : []) rankSnaps[rankKey(x)] = x;
-  const aiSnaps = {}; for (const x of Array.isArray(track.ai_visibility_snapshots) ? track.ai_visibility_snapshots : []) aiSnaps[x.date] = x;
+  const aiSnaps = {}; for (const x of Array.isArray(track.ai_visibility_snapshots) ? track.ai_visibility_snapshots : []) aiSnaps[aiKey(x.date, x.tool)] = x;
   const summary = { files: files.length, ingested: 0, skipped: [], serps: 0, keywordFiles: 0, rowsKept: 0, rowsDropped: 0 };
 
   const addRow = (keyword, market, k, src, ranking) => {
@@ -170,6 +215,13 @@ function ingest(inbox, opts) {
     const det = detect(doc);
     if (!det) { summary.skipped.push(file + ': not a recognised connector export'); continue; }
     const { tool, env, d, input } = det;
+    if (tool === OPENSEO_AI) {
+      const snap = openseoAiSnapshot(d, input, det.fetched_at);
+      aiSnaps[aiKey(snap.date, snap.tool)] = snap;
+      const lo = { file, tool, date: snap.date, scope: snap.prompts + ' prompts x ' + snap.engines.length + ' engines' };
+      const ko = file + '|' + lo.date; if (!log.some(x => x.file + '|' + x.date === ko)) log.push(lo);
+      summary.ingested++; summary.aiSnapshots = (summary.aiSnapshots || 0) + 1; continue;
+    }
     if (UBER_TOOLS.has(tool)) {
       const logU = { file, tool };
       if (tool === 'project_position_info') {
@@ -180,7 +232,7 @@ function ingest(inbox, opts) {
           bands: { top3: rows.filter(r => pos(r) != null && pos(r) <= 3).length, page1: rows.filter(r => pos(r) > 3 && pos(r) <= 10).length, striking: rows.filter(r => pos(r) > 10 && pos(r) <= 20).length, deep: rows.filter(r => pos(r) > 20).length, not_ranking: rows.filter(r => pos(r) == null && r.status !== 'unstable').length, unstable: rows.filter(r => r.status === 'unstable').length }, rows };
         rankSnaps[rankKey(snap)] = snap; logU.date = date; logU.market = mk; logU.scope = rows.length + ' tracked keywords'; summary.rankSnapshots = (summary.rankSnapshots || 0) + 1;
       } else {
-        const date = dateOf(det.fetched_at); const snap = aiSnaps[date] || { tool: 'Ubersuggest AI Search Visibility (brand_visibility_overview + brand_prompts)', date };
+        const date = dateOf(det.fetched_at); const snap = aiSnaps[aiKey(date, UBER_AI_TOOL)] || { tool: UBER_AI_TOOL, date };
         if (tool === 'brand_visibility_overview') {
           const o = d.overview || {}; const aggs = d.brand_aggregations || []; const user = aggs.find(b => b.is_user_brand) || {};
           const variants = aggs.filter(b => !b.is_user_brand && /nguyen[ _-]?tu/i.test(b.brand_name));
@@ -191,7 +243,7 @@ function ingest(inbox, opts) {
         } else {
           snap.prompts = (d.prompt_aggregations || []).map(p => ({ prompt: p.prompt_text, topic: p.topic, brands_found: (p.brands_found || []).map(b => b.brand_name + ' #' + b.average_rank), our_brand_mentions: p.user_brand_data ? p.user_brand_data.total_mentions : 0 }));
         }
-        aiSnaps[date] = snap; logU.date = date; logU.scope = tool;
+        aiSnaps[aiKey(date, UBER_AI_TOOL)] = snap; logU.date = date; logU.scope = tool;
       }
       const ku = file + '|' + logU.date; if (!log.some(x => x.file + '|' + x.date === ku)) log.push(logU);
       summary.ingested++; continue;
@@ -259,7 +311,7 @@ function ingest(inbox, opts) {
   if (Object.keys(rankSnaps).length || Object.keys(aiSnaps).length) {
     ev._tracking = Object.assign({}, track);
     if (Object.keys(rankSnaps).length) ev._tracking.rank_snapshots = Object.values(rankSnaps).sort((a, b) => rankKey(a).localeCompare(rankKey(b)));
-    if (Object.keys(aiSnaps).length) ev._tracking.ai_visibility_snapshots = Object.values(aiSnaps).sort((a, b) => String(a.date).localeCompare(String(b.date)));
+    if (Object.keys(aiSnaps).length) ev._tracking.ai_visibility_snapshots = Object.values(aiSnaps).sort((a, b) => String(a.date).localeCompare(String(b.date)) || String(a.tool).localeCompare(String(b.tool)));
   }
   ev._ingest_log = log.sort((a, b) => a.file.localeCompare(b.file) || String(a.date).localeCompare(String(b.date)));
 
@@ -295,4 +347,4 @@ if (require.main === module) {
   console.log('seo-research-ingest: ' + s.ingested + '/' + s.files + ' files from ' + path.relative(ROOT, inbox) + (args.includes('--dry-run') ? ' (dry run)' : '') + ' -> SERP snapshots ' + s.serpQueries + ', universe rows ' + s.universeRows + ' (' + Object.entries(s.byRelevance || {}).map(([k, v]) => k + ' ' + v).join(', ') + '); rows kept ' + s.rowsKept + ', dropped ' + s.rowsDropped + (s.rankSnapshots ? '; rank snapshots ' + s.rankSnapshots : ''));
   for (const x of s.skipped) console.log('  skipped ' + x);
 }
-module.exports = { classify, topicOf, detect, serpEntry, ingest, OTHER_PLACE };
+module.exports = { classify, topicOf, detect, serpEntry, ingest, openseoAiSnapshot, OTHER_PLACE };

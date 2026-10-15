@@ -40,6 +40,51 @@ Ubersuggest project_position_info, Vietnam, desktop: 25 keywords tracked, 15 in 
 
 AI answers (openai, 10 tracked prompts, 2026-10-15): brand "Hanoi Motorbike Rental Nguyen Tu" mentioned 0 time(s); a spelling variant of the business name ("Nguyen Tu Hanoi Motorbike Rental", average rank 2) was mentioned by the tool as a separate brand. Competitor mentions and per-prompt answers are in docs/seo/keyword-evidence.json (_tracking.ai_visibility_snapshots).
 
+## AI answers and citations (third-party AI-answer check, 2026-10-15)
+
+OpenSEO AI visibility (one-off check across engines), United States (en): 10 prompts x 3 engines = 30 answers requested, 28 collected. This domain was cited as a source in 3 answer(s) and its brand name was mentioned in 0. By engine: ChatGPT 3 cited of 10 answered; Gemini 0 cited of 10 answered; Google AI Overviews 0 cited of 8 answered (2 failed upstream). One answer per prompt and engine is a sample, not a rate, and a citation is not a ranking, click or traffic figure. Raw rows: `docs/seo/keyword-evidence.json` (_tracking.ai_visibility_snapshots).
+
+| Prompt | ChatGPT | Gemini | Google AI Overviews |
+|---|---|---|---|
+| Can I rent an electric bike in Hanoi? | cited | not cited | not cited |
+| How much does it cost to rent a scooter in Hanoi? | cited | not cited | not cited |
+| What documents do I need to rent a motorbike in Hanoi? | not cited | not cited | not cited |
+| Where can I rent a motorbike in Hanoi as a tourist? | cited | not cited | failed |
+| Which Hanoi shop offers monthly motorbike rental for expats? | not cited | not cited | not cited |
+| Can tourists legally ride a motorbike in Vietnam? | not cited | not cited | not cited |
+| Do I need a licence for a 50cc motorbike in Vietnam? | not cited | not cited | not cited |
+| Is an international driving permit valid for motorbikes in Vietnam? | not cited | not cited | not cited |
+| What is the fine for riding without a licence in Vietnam? | not cited | not cited | not cited |
+| What licence do I need for a 125cc scooter in Vietnam? | not cited | not cited | failed |
+
+Pages of this site cited by AI answers (keep their facts and answer-first text accurate and stable):
+
+| Page | Answers | Prompts | Engines |
+|---|---|---|---|
+| /articles/can-tourists-rent-a-motorbike-hanoi/ | 1 | 1 | chatgpt:1 |
+| /articles/motorbike-rental-price-hanoi/ | 1 | 1 | chatgpt:1 |
+| /faq/ | 1 | 1 | chatgpt:1 |
+
+Most-cited domains across these answers (58 distinct domains; the top 15 are shown). They show where the engines look for these topics; any off-site mention, profile or review work is owner-only (`docs/seo/link-prospects.md`).
+
+| Domain | Ownership | Answers | Prompts | Engines |
+|---|---|---|---|---|
+| www.facebook.com | other | 9 | 9 | gemini:1, google_ai_overview:8 |
+| www.vietnamtourism.com | other | 7 | 5 | chatgpt:4, gemini:1, google_ai_overview:2 |
+| www.youtube.com | other | 5 | 5 | google_ai_overview:5 |
+| rentabikevn.com | other | 5 | 4 | chatgpt:1, gemini:1, google_ai_overview:3 |
+| www.ethosspirit.com | other | 5 | 3 | gemini:3, google_ai_overview:2 |
+| www.reddit.com | other | 4 | 4 | google_ai_overview:4 |
+| en.rentbikehanoi.com | own | 3 | 3 | chatgpt:3 |
+| english.luatvietnam.vn | other | 3 | 3 | chatgpt:3 |
+| stylemotorbikes.com | other | 3 | 3 | gemini:2, google_ai_overview:1 |
+| www.instagram.com | other | 3 | 3 | google_ai_overview:3 |
+| traveldudes.com | other | 3 | 2 | gemini:2, google_ai_overview:1 |
+| happyzipmotorbikes.com | other | 3 | 1 | chatgpt:1, gemini:1, google_ai_overview:1 |
+| vietnamebiketravel.com | other | 3 | 1 | chatgpt:1, gemini:1, google_ai_overview:1 |
+| www.electric-smiles.com | other | 3 | 1 | chatgpt:1, gemini:1, google_ai_overview:1 |
+| bmtraveladv.com | other | 2 | 2 | gemini:2 |
+
 ## Data limitations (recorded, not blockers)
 
 - ZERO-DATA MODE: no English Google Search Console or GA4 export exists yet (docs/SOURCE-MAP.md); the only measured position data is the third-party rank-tracker snapshot of 2026-10-14 (25 tracked keywords, 15 ranking: positions only, no clicks, impressions or traffic); priorities use on-site evidence, that snapshot, the public SERP snapshots, competitor data and third-party demand estimates recorded in docs/seo/keyword-evidence.json and docs/seo/keyword-universe.json (tool and date on every number).

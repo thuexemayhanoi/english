@@ -73,7 +73,13 @@ CURRENT remote main before acting. Never rely on remembered state.
   positions 4-20 into P2 quick wins and flags a different ranking URL than the
   declared owner (optimization-log batches with `rank_work: true` wait for the
   next snapshot). Positions are not clicks: ZERO-DATA mode stays until a real
-  Search Console export exists.
+  Search Console export exists. The OpenSEO AI-answer export (`openseo_ai_visibility`:
+  per prompt and engine whether this domain was cited or named, the pages and
+  domains cited) becomes a second `ai_visibility_snapshots` entry; the matrix
+  prints it as "AI answers and citations" and link-prospects.md lists the cited
+  domains. A citation is not a ranking and one answer per prompt and engine is
+  a sample. A paid AI check needs its cost estimated first; never leave a
+  recurring AI schedule enabled without the owner's approval.
   Never invent or round a metric; never target a competitor brand name; never
   create an article for a gap. Off-site work (reviews, Google Business Profile,
   outreach) is owner-only.

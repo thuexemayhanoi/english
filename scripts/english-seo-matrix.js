@@ -208,6 +208,13 @@ for (const b of Array.isArray(optLog) ? optLog : []) for (const u of b.urls || [
 // snapshot date is not raised again from that snapshot: the next snapshot decides whether the work
 // moved the position (signal -> work -> re-measure). Unrelated edits never silence the signal.
 const workedSinceRank = url => !!rankSnap && (optByUrl[url] || []).some(o => o.rank && String(o.date) > String(rankSnap.date));
+// AI-answer checks (third-party tool, dated): which engines cite which pages of this site for the tracked prompts.
+// Evidence only: a citation is a source link shown with an AI answer, never a ranking, click or traffic figure.
+const aiSnaps = (evidenceMap && evidenceMap._tracking && Array.isArray(evidenceMap._tracking.ai_visibility_snapshots) ? evidenceMap._tracking.ai_visibility_snapshots : []).filter(x => x && x.date)
+  .sort((a, b) => String(a.date).localeCompare(String(b.date)) || String(a.tool).localeCompare(String(b.tool)));
+const aiBrandSnap = aiSnaps.filter(x => x.brand).pop() || null;      // brand-visibility shape: providers, brand, name variants
+const aiEngineSnap = aiSnaps.filter(x => x.by_engine).pop() || null; // prompt x engine shape: own citations, cited domains
+const aiCitedByUrl = {}; if (aiEngineSnap) for (const pg of aiEngineSnap.own_cited_pages || []) aiCitedByUrl[pg.url] = pg;
 
 // Site config (homepage falls back to site title/description).
 const cfg = fs.readFileSync(path.join(L.ROOT, '_config.yml'), 'utf8');
@@ -346,6 +353,7 @@ function evidence(x, own) {
   if (x.plan) parts.push('plan ' + x.plan.id + ' (' + x.plan.sourceBasis + ')' + (x.plan.differentiation ? ': ' + x.plan.differentiation : ''));
   if (own.notes.length) parts.push('ownership note: ' + own.notes.join(' / '));
   if (rankByUrl[x.url]) parts.push('rank tracker (' + rankSnap.tool + ', ' + rankSnap.market + ' ' + rankSnap.device + ', ' + rankSnap.date + '): ' + rankByUrl[x.url].map(r => '#' + r.position + ' "' + r.keyword + '"').join(', ') + (workedSinceRank(x.url) ? ' (worked on since: re-evaluate at the next snapshot)' : ''));
+  if (aiCitedByUrl[x.url]) { const c = aiCitedByUrl[x.url]; parts.push('AI answers (' + aiEngineSnap.tool + ', ' + aiEngineSnap.market + ', ' + aiEngineSnap.date + '): cited as a source in ' + c.answers + ' answer(s) for ' + c.prompts + ' prompt(s) (' + c.engines.join(', ') + '); keep its facts and answer-first text accurate and stable'); }
   const ev = evidenceMap && (evidenceMap[x.url] || null);
   parts.push(ev ? 'recorded metrics: ' + JSON.stringify(ev) : 'GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded');
   return parts.join(' || ');
@@ -586,7 +594,7 @@ for (const gs of gapSources) {
 summary.contentGapCount = summary.contentGaps.filter(g => g.gap).length;
 
 // Rank snapshot summary (third-party rank tracker): measured positions of the tracked keywords.
-const aiSnap = (() => { const l = evidenceMap && evidenceMap._tracking && Array.isArray(evidenceMap._tracking.ai_visibility_snapshots) ? evidenceMap._tracking.ai_visibility_snapshots.slice().sort((a, b) => String(a.date).localeCompare(String(b.date))) : []; return l.length ? l[l.length - 1] : null; })();
+const aiSnap = aiBrandSnap;
 summary.rankTracking = rankSnap ? {
   tool: rankSnap.tool, date: rankSnap.date, market: rankSnap.market, device: rankSnap.device, next_update: rankSnap.next_update || '',
   tracked: rankSnap.tracked, ranking: rankSnap.ranking, bands: rankSnap.bands,
@@ -595,6 +603,13 @@ summary.rankTracking = rankSnap ? {
   undeclared: rankTable.filter(r => r.match === 'no owner declared').map(r => r.keyword),
   table: rankTable,
   ai: aiSnap ? { date: aiSnap.date, providers: aiSnap.providers, prompts: aiSnap.total_prompts, brand: aiSnap.brand, nameVariants: aiSnap.name_variants_seen } : null
+} : null;
+
+summary.aiVisibility = aiEngineSnap ? {
+  tool: aiEngineSnap.tool, date: aiEngineSnap.date, market: aiEngineSnap.market, language: aiEngineSnap.language, engines: aiEngineSnap.engines,
+  prompts: aiEngineSnap.prompts, observations: aiEngineSnap.observations, answered: aiEngineSnap.answered,
+  ownCitedAnswers: aiEngineSnap.own_cited_answers, ownMentionedAnswers: aiEngineSnap.own_mentioned_answers, byEngine: aiEngineSnap.by_engine,
+  promptRows: aiEngineSnap.prompt_rows, ownPages: aiEngineSnap.own_cited_pages, citedDomains: aiEngineSnap.cited_domains, citedDomainsTotal: aiEngineSnap.cited_domains_total
 } : null;
 
 // Keyword universe coverage (zero-data mode): every on-topic keyword recorded in
@@ -714,6 +729,18 @@ if (summary.rankTracking) {
   md += '| Keyword | Position | Ranking URL | Declared owner | Match |\n|---|---|---|---|---|\n';
   for (const r of rt.table.slice().sort((a, c) => (a.position == null) - (c.position == null) || a.position - c.position || a.keyword.localeCompare(c.keyword))) md += '| ' + mdCell(r.keyword) + ' | ' + (r.position == null ? '-' : r.position) + (r.previous != null && r.position != null && r.previous !== r.position ? ' (was ' + r.previous + ')' : '') + ' | ' + (r.url || '-') + ' | ' + (r.owner || '-') + ' | ' + r.match + ' |\n';
   if (rt.ai) md += '\nAI answers (' + (rt.ai.providers || []).join(', ') + ', ' + rt.ai.prompts + ' tracked prompts, ' + rt.ai.date + '): brand "' + mdCell((rt.ai.brand || {}).name) + '" mentioned ' + ((rt.ai.brand || {}).total_mentions == null ? '?' : rt.ai.brand.total_mentions) + ' time(s)' + ((rt.ai.nameVariants || []).length ? '; a spelling variant of the business name ("' + mdCell(rt.ai.nameVariants.map(v => v.name + '", average rank ' + v.average_rank).join('; "')) + ') was mentioned by the tool as a separate brand' : '') + '. Competitor mentions and per-prompt answers are in docs/seo/keyword-evidence.json (_tracking.ai_visibility_snapshots).\n';
+  md += '\n';
+}
+if (summary.aiVisibility) {
+  const av = summary.aiVisibility; const ENG = { chatgpt: 'ChatGPT', gemini: 'Gemini', google_ai_overview: 'Google AI Overviews', claude: 'Claude', perplexity: 'Perplexity' };
+  md += '## AI answers and citations (third-party AI-answer check, ' + av.date + ')\n\n';
+  md += mdCell(av.tool) + ', ' + av.market + ' (' + av.language + '): ' + av.prompts + ' prompts x ' + av.engines.length + ' engines = ' + av.observations + ' answers requested, ' + av.answered + ' collected. This domain was cited as a source in ' + av.ownCitedAnswers + ' answer(s) and its brand name was mentioned in ' + av.ownMentionedAnswers + '. By engine: ' + av.engines.map(e => (ENG[e] || e) + ' ' + av.byEngine[e].own_cited + ' cited of ' + av.byEngine[e].answered + ' answered' + (av.byEngine[e].failed ? ' (' + av.byEngine[e].failed + ' failed upstream)' : '')).join('; ') + '. One answer per prompt and engine is a sample, not a rate, and a citation is not a ranking, click or traffic figure. Raw rows: `docs/seo/keyword-evidence.json` (_tracking.ai_visibility_snapshots).\n\n';
+  md += '| Prompt | ' + av.engines.map(e => ENG[e] || e).join(' | ') + ' |\n|---|' + av.engines.map(() => '---').join('|') + '|\n';
+  for (const pr of av.promptRows) md += '| ' + mdCell(pr.prompt) + ' | ' + av.engines.map(e => { const c = pr.engines[e]; return !c ? '-' : !c.answered ? (c.status || 'no answer') : (c.own_cited ? 'cited' : 'not cited') + (c.own_mentioned ? ', named' : ''); }).join(' | ') + ' |\n';
+  md += '\n';
+  if (av.ownPages.length) { md += 'Pages of this site cited by AI answers (keep their facts and answer-first text accurate and stable):\n\n| Page | Answers | Prompts | Engines |\n|---|---|---|---|\n'; for (const pg of av.ownPages) md += '| ' + pg.url + ' | ' + pg.answers + ' | ' + pg.prompts + ' | ' + mdCell(pg.engines.join(', ')) + ' |\n'; md += '\n'; }
+  md += 'Most-cited domains across these answers (' + av.citedDomainsTotal + ' distinct domains; the top ' + Math.min(15, av.citedDomains.length) + ' are shown). They show where the engines look for these topics; any off-site mention, profile or review work is owner-only (`docs/seo/link-prospects.md`).\n\n| Domain | Ownership | Answers | Prompts | Engines |\n|---|---|---|---|---|\n';
+  for (const d of av.citedDomains.slice(0, 15)) md += '| ' + mdCell(d.domain) + ' | ' + d.ownership + ' | ' + d.answers + ' | ' + d.prompts + ' | ' + mdCell(d.engines.join(', ')) + ' |\n';
   md += '\n';
 }
 md += '## Data limitations (recorded, not blockers)\n\n' + summary.dataLimitations.map(l => '- ' + l).join('\n') + '\n\n';
@@ -851,7 +878,13 @@ if (summary.keywordUniverse) {
   const cb = evidenceMap && evidenceMap._competitor_backlinks; const base = evidenceMap && evidenceMap._domain_baseline;
   let lp = '# Link prospects (zero-data mode)\n\n';
   lp += 'Generated ' + TODAY + ' by `scripts/english-seo-matrix.js` from the backlink evidence in `docs/seo/keyword-evidence.json`. Off-site work is an owner task: this list records where comparable Hanoi/Vietnam rental sites earned editorial links so outreach can start from evidence instead of guesswork. Links are never bought and competitor brand names are never used in anchor text or copy.\n\n';
-  if (base) lp += '## Starting point\n\n' + Object.entries(base).filter(([k]) => !/^_|^note$|^tool$|^date$/.test(k)).map(([k, v]) => '- ' + mdCell(k) + ': ' + mdCell(typeof v === 'object' ? JSON.stringify(v) : v)).join('\n') + (base.tool || base.date ? '\n- source: ' + mdCell([base.tool, base.date].filter(Boolean).join(', ')) : '') + (rankSnap ? '\n- rank tracker (' + mdCell(rankSnap.tool) + ', ' + rankSnap.market + ' ' + rankSnap.device + ', ' + rankSnap.date + '): ' + rankSnap.ranking + ' of ' + rankSnap.tracked + ' tracked keywords in the top 100, ' + rankSnap.bands.top3 + ' in the top 3 (positions only; the domain overview above lags the rank tracker, so its zero organic keywords is not the current position)' : '') + '\n\n';
+  if (base) lp += '## Starting point\n\n' + Object.entries(base).filter(([k]) => !/^_|^note$|^tool$|^date$/.test(k)).map(([k, v]) => '- ' + mdCell(k) + ': ' + mdCell(typeof v === 'object' ? JSON.stringify(v) : v)).join('\n') + (base.tool || base.date ? '\n- source: ' + mdCell([base.tool, base.date].filter(Boolean).join(', ')) : '') + (summary.aiVisibility ? '\n- AI answers (' + mdCell(summary.aiVisibility.tool) + ', ' + summary.aiVisibility.market + ', ' + summary.aiVisibility.date + '): this domain was cited in ' + summary.aiVisibility.ownCitedAnswers + ' of ' + summary.aiVisibility.answered + ' collected answers (' + summary.aiVisibility.engines.map(e => e + ' ' + summary.aiVisibility.byEngine[e].own_cited + '/' + summary.aiVisibility.byEngine[e].answered).join(', ') + ') and its brand name was mentioned in ' + summary.aiVisibility.ownMentionedAnswers + '; one answer per prompt and engine is a sample' : '') + (rankSnap ? '\n- rank tracker (' + mdCell(rankSnap.tool) + ', ' + rankSnap.market + ' ' + rankSnap.device + ', ' + rankSnap.date + '): ' + rankSnap.ranking + ' of ' + rankSnap.tracked + ' tracked keywords in the top 100, ' + rankSnap.bands.top3 + ' in the top 3 (positions only; the domain overview above lags the rank tracker, so its zero organic keywords is not the current position)' : '') + '\n\n';
+  if (summary.aiVisibility) {
+    const av = summary.aiVisibility; const others = av.citedDomains.filter(d => d.ownership !== 'own').slice(0, 20);
+    lp += '## Domains AI answers cite for these topics\n\n' + mdCell(av.tool) + ', ' + av.date + ', ' + av.market + ': the pages the engines listed as sources for ' + av.prompts + ' renter and licence questions (' + av.citedDomainsTotal + ' distinct domains; top ' + others.length + ' not owned by this site). Where the engines look is where a correct, consistent mention of the business is worth having; all of it is owner-only off-site work (a profile or mention that restates only docs/OWNER-FACTS.md, never a bought or undisclosed one).\n\n| Domain | Answers | Prompts | Engines |\n|---|---|---|---|\n';
+    for (const d of others) lp += '| ' + mdCell(d.domain) + ' | ' + d.answers + ' | ' + d.prompts + ' | ' + mdCell(d.engines.join(', ')) + ' |\n';
+    lp += '\n';
+  }
   if (cb && cb.domains) {
     lp += '## Competitor link profiles\n\n' + mdCell(cb.tool) + ', ' + mdCell(cb.date) + '. ' + mdCell(cb.note || '') + '\n\n| Domain | Domain rank | Referring domains | Backlinks | Dofollow ratio | Spam score | Clean referring domains listed |\n|---|---|---|---|---|---|---|\n';
     for (const [d, v] of Object.entries(cb.domains)) lp += '| ' + mdCell(d) + ' | ' + v.authority.domain_rank + ' | ' + (v.referring_domains_total || v.authority.referring_domains) + ' | ' + v.authority.backlinks_total + ' | ' + v.authority.dofollow_ratio + ' | ' + v.authority.spam_score + ' | ' + v.clean_referring_domains.length + ' of ' + v.referring_domains_returned + ' returned |\n';

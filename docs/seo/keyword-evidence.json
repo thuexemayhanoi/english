@@ -688,6 +688,701 @@
   ],
   "ai_visibility_snapshots": [
    {
+    "tool": "OpenSEO AI visibility (one-off check across engines)",
+    "date": "2026-10-15",
+    "market": "United States",
+    "language": "en",
+    "trigger": "manual",
+    "engines": [
+     "chatgpt",
+     "gemini",
+     "google_ai_overview"
+    ],
+    "prompts": 10,
+    "observations": 30,
+    "answered": 28,
+    "own_domain": "en.rentbikehanoi.com",
+    "own_cited_answers": 3,
+    "own_mentioned_answers": 0,
+    "by_engine": {
+     "chatgpt": {
+      "observations": 10,
+      "answered": 10,
+      "no_answer": 0,
+      "failed": 0,
+      "own_cited": 3,
+      "own_mentioned": 0
+     },
+     "gemini": {
+      "observations": 10,
+      "answered": 10,
+      "no_answer": 0,
+      "failed": 0,
+      "own_cited": 0,
+      "own_mentioned": 0
+     },
+     "google_ai_overview": {
+      "observations": 10,
+      "answered": 8,
+      "no_answer": 0,
+      "failed": 2,
+      "own_cited": 0,
+      "own_mentioned": 0
+     }
+    },
+    "prompt_rows": [
+     {
+      "prompt": "Can I rent an electric bike in Hanoi?",
+      "topic": "Motorbike rental Hanoi",
+      "engines": {
+       "chatgpt": {
+        "answered": true,
+        "own_cited": true,
+        "own_mentioned": false,
+        "citations": 3
+       },
+       "gemini": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 6
+       },
+       "google_ai_overview": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 9
+       }
+      }
+     },
+     {
+      "prompt": "How much does it cost to rent a scooter in Hanoi?",
+      "topic": "Motorbike rental Hanoi",
+      "engines": {
+       "chatgpt": {
+        "answered": true,
+        "own_cited": true,
+        "own_mentioned": false,
+        "citations": 3
+       },
+       "gemini": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 4
+       },
+       "google_ai_overview": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 12
+       }
+      }
+     },
+     {
+      "prompt": "What documents do I need to rent a motorbike in Hanoi?",
+      "topic": "Motorbike rental Hanoi",
+      "engines": {
+       "chatgpt": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 3
+       },
+       "gemini": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 4
+       },
+       "google_ai_overview": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 9
+       }
+      }
+     },
+     {
+      "prompt": "Where can I rent a motorbike in Hanoi as a tourist?",
+      "topic": "Motorbike rental Hanoi",
+      "engines": {
+       "chatgpt": {
+        "answered": true,
+        "own_cited": true,
+        "own_mentioned": false,
+        "citations": 4
+       },
+       "gemini": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 3
+       },
+       "google_ai_overview": {
+        "answered": false,
+        "status": "failed"
+       }
+      }
+     },
+     {
+      "prompt": "Which Hanoi shop offers monthly motorbike rental for expats?",
+      "topic": "Motorbike rental Hanoi",
+      "engines": {
+       "chatgpt": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 3
+       },
+       "gemini": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 5
+       },
+       "google_ai_overview": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 6
+       }
+      }
+     },
+     {
+      "prompt": "Can tourists legally ride a motorbike in Vietnam?",
+      "topic": "Vietnam motorbike licences for foreigners",
+      "engines": {
+       "chatgpt": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 3
+       },
+       "gemini": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 3
+       },
+       "google_ai_overview": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 13
+       }
+      }
+     },
+     {
+      "prompt": "Do I need a licence for a 50cc motorbike in Vietnam?",
+      "topic": "Vietnam motorbike licences for foreigners",
+      "engines": {
+       "chatgpt": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 6
+       },
+       "gemini": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 2
+       },
+       "google_ai_overview": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 9
+       }
+      }
+     },
+     {
+      "prompt": "Is an international driving permit valid for motorbikes in Vietnam?",
+      "topic": "Vietnam motorbike licences for foreigners",
+      "engines": {
+       "chatgpt": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 3
+       },
+       "gemini": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 4
+       },
+       "google_ai_overview": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 7
+       }
+      }
+     },
+     {
+      "prompt": "What is the fine for riding without a licence in Vietnam?",
+      "topic": "Vietnam motorbike licences for foreigners",
+      "engines": {
+       "chatgpt": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 2
+       },
+       "gemini": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 2
+       },
+       "google_ai_overview": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 5
+       }
+      }
+     },
+     {
+      "prompt": "What licence do I need for a 125cc scooter in Vietnam?",
+      "topic": "Vietnam motorbike licences for foreigners",
+      "engines": {
+       "chatgpt": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 2
+       },
+       "gemini": {
+        "answered": true,
+        "own_cited": false,
+        "own_mentioned": false,
+        "citations": 4
+       },
+       "google_ai_overview": {
+        "answered": false,
+        "status": "failed"
+       }
+      }
+     }
+    ],
+    "cited_domains_total": 58,
+    "cited_domains": [
+     {
+      "domain": "www.facebook.com",
+      "ownership": "other",
+      "answers": 9,
+      "prompts": 9,
+      "engines": [
+       "gemini:1",
+       "google_ai_overview:8"
+      ]
+     },
+     {
+      "domain": "www.vietnamtourism.com",
+      "ownership": "other",
+      "answers": 7,
+      "prompts": 5,
+      "engines": [
+       "chatgpt:4",
+       "gemini:1",
+       "google_ai_overview:2"
+      ]
+     },
+     {
+      "domain": "www.youtube.com",
+      "ownership": "other",
+      "answers": 5,
+      "prompts": 5,
+      "engines": [
+       "google_ai_overview:5"
+      ]
+     },
+     {
+      "domain": "rentabikevn.com",
+      "ownership": "other",
+      "answers": 5,
+      "prompts": 4,
+      "engines": [
+       "chatgpt:1",
+       "gemini:1",
+       "google_ai_overview:3"
+      ]
+     },
+     {
+      "domain": "www.ethosspirit.com",
+      "ownership": "other",
+      "answers": 5,
+      "prompts": 3,
+      "engines": [
+       "gemini:3",
+       "google_ai_overview:2"
+      ]
+     },
+     {
+      "domain": "www.reddit.com",
+      "ownership": "other",
+      "answers": 4,
+      "prompts": 4,
+      "engines": [
+       "google_ai_overview:4"
+      ]
+     },
+     {
+      "domain": "en.rentbikehanoi.com",
+      "ownership": "own",
+      "answers": 3,
+      "prompts": 3,
+      "engines": [
+       "chatgpt:3"
+      ]
+     },
+     {
+      "domain": "english.luatvietnam.vn",
+      "ownership": "other",
+      "answers": 3,
+      "prompts": 3,
+      "engines": [
+       "chatgpt:3"
+      ]
+     },
+     {
+      "domain": "stylemotorbikes.com",
+      "ownership": "other",
+      "answers": 3,
+      "prompts": 3,
+      "engines": [
+       "gemini:2",
+       "google_ai_overview:1"
+      ]
+     },
+     {
+      "domain": "www.instagram.com",
+      "ownership": "other",
+      "answers": 3,
+      "prompts": 3,
+      "engines": [
+       "google_ai_overview:3"
+      ]
+     },
+     {
+      "domain": "traveldudes.com",
+      "ownership": "other",
+      "answers": 3,
+      "prompts": 2,
+      "engines": [
+       "gemini:2",
+       "google_ai_overview:1"
+      ]
+     },
+     {
+      "domain": "happyzipmotorbikes.com",
+      "ownership": "other",
+      "answers": 3,
+      "prompts": 1,
+      "engines": [
+       "chatgpt:1",
+       "gemini:1",
+       "google_ai_overview:1"
+      ]
+     },
+     {
+      "domain": "vietnamebiketravel.com",
+      "ownership": "other",
+      "answers": 3,
+      "prompts": 1,
+      "engines": [
+       "chatgpt:1",
+       "gemini:1",
+       "google_ai_overview:1"
+      ]
+     },
+     {
+      "domain": "www.electric-smiles.com",
+      "ownership": "other",
+      "answers": 3,
+      "prompts": 1,
+      "engines": [
+       "chatgpt:1",
+       "gemini:1",
+       "google_ai_overview:1"
+      ]
+     },
+     {
+      "domain": "bmtraveladv.com",
+      "ownership": "other",
+      "answers": 2,
+      "prompts": 2,
+      "engines": [
+       "gemini:2"
+      ]
+     },
+     {
+      "domain": "danangbike.com",
+      "ownership": "other",
+      "answers": 2,
+      "prompts": 2,
+      "engines": [
+       "gemini:1",
+       "google_ai_overview:1"
+      ]
+     },
+     {
+      "domain": "duyanhmotorbikes.com",
+      "ownership": "other",
+      "answers": 2,
+      "prompts": 2,
+      "engines": [
+       "gemini:1",
+       "google_ai_overview:1"
+      ]
+     },
+     {
+      "domain": "hoianit.com",
+      "ownership": "other",
+      "answers": 2,
+      "prompts": 2,
+      "engines": [
+       "gemini:1",
+       "google_ai_overview:1"
+      ]
+     },
+     {
+      "domain": "izigo.vn",
+      "ownership": "other",
+      "answers": 2,
+      "prompts": 2,
+      "engines": [
+       "gemini:2"
+      ]
+     },
+     {
+      "domain": "motorbiketourexpert.com",
+      "ownership": "other",
+      "answers": 2,
+      "prompts": 2,
+      "engines": [
+       "google_ai_overview:2"
+      ]
+     },
+     {
+      "domain": "rentalmotorbikevietnam.com",
+      "ownership": "other",
+      "answers": 2,
+      "prompts": 2,
+      "engines": [
+       "gemini:2"
+      ]
+     },
+     {
+      "domain": "vbpl.vn",
+      "ownership": "other",
+      "answers": 2,
+      "prompts": 2,
+      "engines": [
+       "chatgpt:2"
+      ]
+     },
+     {
+      "domain": "vietnammotorbikerental.com",
+      "ownership": "other",
+      "answers": 2,
+      "prompts": 2,
+      "engines": [
+       "gemini:2"
+      ]
+     },
+     {
+      "domain": "xaydungchinhsach.chinhphu.vn",
+      "ownership": "other",
+      "answers": 2,
+      "prompts": 2,
+      "engines": [
+       "chatgpt:2"
+      ]
+     },
+     {
+      "domain": "bikingvietnam.com",
+      "ownership": "other",
+      "answers": 2,
+      "prompts": 1,
+      "engines": [
+       "gemini:1",
+       "google_ai_overview:1"
+      ]
+     },
+     {
+      "domain": "vietnamspot.ru",
+      "ownership": "other",
+      "answers": 2,
+      "prompts": 1,
+      "engines": [
+       "gemini:1",
+       "google_ai_overview:1"
+      ]
+     },
+     {
+      "domain": "www.bikemap.net",
+      "ownership": "other",
+      "answers": 2,
+      "prompts": 1,
+      "engines": [
+       "gemini:1",
+       "google_ai_overview:1"
+      ]
+     },
+     {
+      "domain": "anhwu.com",
+      "ownership": "other",
+      "answers": 1,
+      "prompts": 1,
+      "engines": [
+       "gemini:1"
+      ]
+     },
+     {
+      "domain": "azmotorbikes.com",
+      "ownership": "other",
+      "answers": 1,
+      "prompts": 1,
+      "engines": [
+       "gemini:1"
+      ]
+     },
+     {
+      "domain": "baochinhphu.vn",
+      "ownership": "other",
+      "answers": 1,
+      "prompts": 1,
+      "engines": [
+       "chatgpt:1"
+      ]
+     },
+     {
+      "domain": "campviet.com",
+      "ownership": "other",
+      "answers": 1,
+      "prompts": 1,
+      "engines": [
+       "gemini:1"
+      ]
+     },
+     {
+      "domain": "dai-nam.com",
+      "ownership": "other",
+      "answers": 1,
+      "prompts": 1,
+      "engines": [
+       "gemini:1"
+      ]
+     },
+     {
+      "domain": "en.wikivoyage.org",
+      "ownership": "other",
+      "answers": 1,
+      "prompts": 1,
+      "engines": [
+       "google_ai_overview:1"
+      ]
+     },
+     {
+      "domain": "hanoi.bike",
+      "ownership": "other",
+      "answers": 1,
+      "prompts": 1,
+      "engines": [
+       "chatgpt:1"
+      ]
+     },
+     {
+      "domain": "jameshanoimotorbikes.com",
+      "ownership": "other",
+      "answers": 1,
+      "prompts": 1,
+      "engines": [
+       "chatgpt:1"
+      ]
+     },
+     {
+      "domain": "jamesmotorbikes.com",
+      "ownership": "other",
+      "answers": 1,
+      "prompts": 1,
+      "engines": [
+       "google_ai_overview:1"
+      ]
+     },
+     {
+      "domain": "mps.gov.vn",
+      "ownership": "other",
+      "answers": 1,
+      "prompts": 1,
+      "engines": [
+       "chatgpt:1"
+      ]
+     },
+     {
+      "domain": "offroadvietnam.com",
+      "ownership": "other",
+      "answers": 1,
+      "prompts": 1,
+      "engines": [
+       "google_ai_overview:1"
+      ]
+     },
+     {
+      "domain": "phungmotorbike.com",
+      "ownership": "other",
+      "answers": 1,
+      "prompts": 1,
+      "engines": [
+       "gemini:1"
+      ]
+     },
+     {
+      "domain": "rentabike.vn",
+      "ownership": "other",
+      "answers": 1,
+      "prompts": 1,
+      "engines": [
+       "chatgpt:1"
+      ]
+     }
+    ],
+    "own_cited_pages": [
+     {
+      "url": "/articles/can-tourists-rent-a-motorbike-hanoi/",
+      "title": "Can Tourists Legally Rent and Ride a Motorbike in Hanoi?",
+      "answers": 1,
+      "prompts": 1,
+      "engines": [
+       "chatgpt:1"
+      ]
+     },
+     {
+      "url": "/articles/motorbike-rental-price-hanoi/",
+      "title": "How Much Does It Cost to Rent a Motorbike in Hanoi?",
+      "answers": 1,
+      "prompts": 1,
+      "engines": [
+       "chatgpt:1"
+      ]
+     },
+     {
+      "url": "/faq/",
+      "title": "Hanoi Motorbike Rental FAQ",
+      "answers": 1,
+      "prompts": 1,
+      "engines": [
+       "chatgpt:1"
+      ]
+     }
+    ],
+    "note": "One answer per prompt and engine on the date given, collected by the tool in the market shown. A citation is a source link listed with an AI answer; a mention is the brand name in the answer text. AI answers vary between runs, so one check is a sample, not a rate; Google AI Overviews are absent for some queries (recorded as no answer, not as a missing brand)."
+   },
+   {
     "tool": "Ubersuggest AI Search Visibility (brand_visibility_overview + brand_prompts)",
     "date": "2026-10-15",
     "prompts": [
@@ -3483,6 +4178,12 @@
    "date": "2026-10-15",
    "market": "us",
    "scope": "vietnamese motorbikes"
+  },
+  {
+   "file": "openseo-ai-visibility-2026-10-15.json",
+   "tool": "openseo_ai_visibility",
+   "date": "2026-10-15",
+   "scope": "10 prompts x 3 engines"
   },
   {
    "file": "project_position_info__b07588da__2026-10-15.json",
