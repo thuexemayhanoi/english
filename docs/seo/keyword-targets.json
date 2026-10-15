@@ -526,6 +526,155 @@
      "variant_of": "One way motorbike rental Vietnam"
     }
    ]
+  },
+  {
+   "group": "Zero-data refinements (2026-10-15)",
+   "keywords": [
+    {
+     "keyword": "Electric motorbike Vietnam",
+     "owner": "/topics/electric/",
+     "intent": "informational",
+     "supporting": [
+      "/articles/vietnam-electric-two-wheeler-market-overview/",
+      "/articles/cheapest-electric-motorbikes-vietnam-list-prices/"
+     ],
+     "note": "Zero-data keyword universe (docs/seo/keyword-universe.json, third-party estimate); the electric pillar answers the head term, previously resolved by title to a single insurance article."
+    },
+    {
+     "keyword": "Honda electric bike Vietnam",
+     "owner": "/articles/vietnam-electric-two-wheeler-market-overview/",
+     "intent": "informational",
+     "variant_of": "Electric motorbike Vietnam",
+     "note": "The market overview names the Honda (ICON e:, CUV e:, UC3) and Yamaha (NEO's) electric models from the manufacturers' official Vietnamese pages (re-checked 2026-10-15); no specifications are claimed until verified rows exist in docs/MODEL-DATABASE.md."
+    },
+    {
+     "keyword": "50cc motorbike Vietnam",
+     "owner": "/topics/50cc/",
+     "intent": "informational",
+     "note": "Zero-data keyword universe (docs/seo/keyword-universe.json, third-party estimate); the 50cc pillar, not the single licence article."
+    },
+    {
+     "keyword": "Buying a motorbike in Vietnam",
+     "owner": "/articles/buying-motorbike-as-tourist-vietnam/",
+     "intent": "informational",
+     "supporting": [
+      "/articles/buying-first-scooter-vietnam-guide/",
+      "/articles/renting-vs-buying-a-motorbike-hanoi/"
+     ],
+     "note": "Zero-data keyword universe (docs/seo/keyword-universe.json, third-party estimate); English-language searchers are mostly travellers, so the tourist buying guide owns the head term and the first-scooter guide supports it for residents. Previously resolved by title to a parts-buying article."
+    },
+    {
+     "keyword": "Motorbike Vietnam price",
+     "owner": "/articles/new-scooter-prices-vietnam-verified/",
+     "intent": "informational",
+     "variant_of": "New scooter prices Vietnam",
+     "note": "Verified manufacturer list prices; rental prices are served by /articles/motorbike-rental-price-hanoi/."
+    },
+    {
+     "keyword": "Vietnam motorbike traffic",
+     "owner": "/articles/vietnam-traffic-culture-riding-overview/",
+     "intent": "informational",
+     "variant_of": "How Vietnamese traffic works",
+     "supporting": [
+      "/topics/safety/"
+     ],
+     "note": "The traffic-culture primer, previously resolved by title to the traffic-light rules article."
+    },
+    {
+     "keyword": "Vietnam bike",
+     "owner": "/topics/vietnam-travel/",
+     "intent": "informational",
+     "variant_of": "Motorbike Vietnam",
+     "note": "\"bike\" is the riders' shorthand; previously resolved by title to a Dat Bike line-up guide."
+    },
+    {
+     "keyword": "Travel Vietnam motorbike",
+     "owner": "/topics/vietnam-travel/",
+     "intent": "informational",
+     "variant_of": "Motorbike Vietnam"
+    },
+    {
+     "keyword": "Motorbike around Vietnam",
+     "owner": "/topics/vietnam-travel/",
+     "intent": "informational",
+     "variant_of": "Motorbike Vietnam"
+    },
+    {
+     "keyword": "Motorbike across Vietnam",
+     "owner": "/articles/hanoi-to-ho-chi-minh-city-by-motorbike/",
+     "intent": "informational",
+     "variant_of": "Hanoi to Ho Chi Minh by motorbike",
+     "note": "Riding the length of the country; previously resolved by title to a left-turn technique article."
+    },
+    {
+     "keyword": "Motorbike licence Vietnam",
+     "owner": "/topics/law-licences/",
+     "intent": "informational",
+     "note": "Zero-data keyword universe (docs/seo/keyword-universe.json, third-party estimate); the law and licences pillar."
+    },
+    {
+     "keyword": "Vietnam bike licence",
+     "owner": "/topics/law-licences/",
+     "intent": "informational",
+     "variant_of": "Motorbike licence Vietnam"
+    },
+    {
+     "keyword": "Temporary Vietnamese motorbike licence",
+     "owner": "/topics/law-licences/",
+     "intent": "informational",
+     "variant_of": "Motorbike licence Vietnam",
+     "gap": true,
+     "note": "No temporary-licence route is described on the site; the pillar's licence options (IDP, exchange for residents) are the nearest honest answer. Any new sentence needs verification against current law first."
+    },
+    {
+     "keyword": "Hanoi motorbike rental cost",
+     "owner": "/articles/motorbike-rental-price-hanoi/",
+     "intent": "commercial",
+     "variant_of": "Hanoi motorbike rental prices"
+    },
+    {
+     "keyword": "Scooter rental Vietnam price",
+     "owner": "/articles/motorbike-rental-price-hanoi/",
+     "intent": "commercial",
+     "variant_of": "Hanoi motorbike rental prices",
+     "note": "The only verified rental prices on the site are the Hanoi rates in docs/OWNER-FACTS.md."
+    },
+    {
+     "keyword": "Honda CT125 Vietnam",
+     "owner": "/articles/honda-ct125-review/",
+     "intent": "commercial",
+     "variant_of": "Honda CT125 review",
+     "note": "Model head term; the review is the model page (previously resolved to a comparison)."
+    },
+    {
+     "keyword": "Yamaha motorbike Vietnam",
+     "owner": "/topics/motorcycles/",
+     "intent": "informational",
+     "variant_of": "Honda motorbike Vietnam",
+     "supporting": [
+      "/articles/yamaha-scooter-lineup-vietnam-explained/"
+     ],
+     "note": "Brand head term served like the Honda one: the motorcycles pillar, with the Yamaha line-up guide in support."
+    },
+    {
+     "keyword": "Motorbike rental Hanoi to Ho Chi Minh",
+     "owner": "/articles/one-way-motorbike-rental-vietnam/",
+     "intent": "commercial",
+     "variant_of": "One way motorbike rental Vietnam",
+     "supporting": [
+      "/articles/hanoi-to-ho-chi-minh-city-by-motorbike/"
+     ],
+     "note": "Renting for the north-south ride is the one-way rental question; the route guide keeps the journey keywords (Hanoi to Ho Chi Minh by motorbike)."
+    },
+    {
+     "keyword": "Suzuki motorbike Vietnam",
+     "owner": "/topics/motorcycles/",
+     "intent": "informational",
+     "variant_of": "Honda motorbike Vietnam",
+     "gap": true,
+     "note": "No Suzuki model data on the site: the Suzuki Vietnam manufacturer pages were not retrievable when the model database was built (docs/matrix/batch-13-status.md). The motorcycles pillar is the nearest honest page; Suzuki facts may be added only from verified manufacturer rows."
+    }
+   ]
   }
  ]
 }

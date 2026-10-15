@@ -2752,7 +2752,7 @@
   },
   {
    "keyword": "laos motorbike loop",
-   "relevance": "core",
+   "relevance": "adjacent",
    "topic": "routes-and-trips",
    "intent": "informational",
    "volume": {

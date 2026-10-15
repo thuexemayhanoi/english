@@ -1428,5 +1428,25 @@
    "handParagraphs": 46,
    "cardsAdded": 40
   }
+ },
+ {
+  "date": "2026-10-15",
+  "batch": "matrix-queue-3",
+  "note": "Working the matrix/map queue, batch 3. (a) Engines: the coverage stemmer now gives singular and plural one stem (motorbike/motorbikes, licence/licenses, bike/bikes; \"used\" kept whole), so \"motorbike\" no longer counts as a distinctive word; declared keywords are matched exactly before the stemmed word set, so owners sharing one word set keep their declared URL; one owner resolver serves the keyword universe and the content gap register; a distinctive-word step keeps rental queries on rental pages and prefers a guide or review over a comparison; competitor brand names, places outside Vietnam and marketplace queries are recorded as non-gaps; laos-only riding queries are adjacent. (b) Keyword ownership: a \"Zero-data refinements (2026-10-15)\" group of 19 keywords that the title resolver had mapped to unrelated pages (buying, electric, 50cc, licence, traffic, price and travel head terms; Honda CT125, Yamaha, Honda electric; Suzuki and temporary licence declared GAP). (c) Topical map: a split keyword family whose owners' recorded SERPs share fewer than 3 organic URLs is a verified intent split (motorbike vietnam vs vietnamese motorbikes: 0 of 7 shared); head-term flags respect the pillar's curated links. (d) Fact correction: the electric market overview and the model database no longer say that Honda and Yamaha sell no electric two-wheelers in Vietnam; Honda Vietnam's official electric page lists the ICON e:, CUV e: and UC3 and Yamaha Motor Vietnam lists the NEO's (retrieved 2026-10-15); no specification or price was added. (e) The maintenance pillar's Start here gains the common-issues guides (flat tyre, noises, after heavy rain).",
+  "urls": [
+   "/articles/vietnam-electric-two-wheeler-market-overview/",
+   "/topics/maintenance/"
+  ],
+  "counts": {
+   "keywordsDeclared": 19,
+   "coreStrongBefore": 97,
+   "coreStrongAfter": 106,
+   "coreWeakBefore": 12,
+   "coreWeakAfter": 2,
+   "coreGapsAfter": 0,
+   "mapRecommendationsBefore": 13,
+   "mapRecommendationsAfter": 6,
+   "serpSnapshotsAdded": 3
+  }
  }
 ]

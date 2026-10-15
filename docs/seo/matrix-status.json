@@ -37,8 +37,8 @@
  },
  "/topics/maintenance/": {
   "status": "OPTIMIZED",
-  "date": "2026-10-14",
-  "note": "pillar intro + start-here and for-renters links"
+  "date": "2026-10-15",
+  "note": "pillar intro + start-here (now incl. common-issues guides) and for-renters links (batch matrix-queue-3)"
  },
  "/topics/parts-gear/": {
   "status": "OPTIMIZED",
@@ -904,5 +904,10 @@
   "status": "OPTIMIZED",
   "date": "2026-10-14",
   "note": "in-silo links or same-silo related cards (batch matrix-queue-2)"
+ },
+ "/articles/vietnam-electric-two-wheeler-market-overview/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "fact correction against the manufacturers' official Vietnamese pages: Honda (ICON e:, CUV e:, UC3) and Yamaha (NEO's) electric models now named, no figures added (batch matrix-queue-3)"
  }
 }

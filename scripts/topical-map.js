@@ -123,12 +123,45 @@ for (const k of Object.values(byUrl)) {
   const commercial = (k.intents.commercial || 0) + (k.intents.transactional || 0), info = k.intents.informational || 0;
   if (k.type === 'article' && commercial && info) k.flags.push('mixed intent (' + commercial + ' commercial/transactional, ' + info + ' informational): keep one primary intent, let the hub carry the rest');
   if (k.weak === k.keywords.length) k.flags.push('served only by partial matches: the page does not name these keywords');
-  if (k.type === 'article' && k.keywords.filter(kw => { const r = mapped.find(x => x.keyword === kw); return r && maxVol(r.volume) >= 100; }).length >= 2) k.flags.push('head terms land on an article: make sure the hub links it in Start here');
+  // Head terms on an article are fine once the silo's pillar curates that article.
+  const hubNode = k.cluster ? nodes['/topics/' + k.cluster + '/'] : null;
+  const curated = !!(hubNode && hubNode.bodyOut && hubNode.bodyOut.has(k.url));
+  if (k.type === 'article' && !curated && k.keywords.filter(kw => { const r = mapped.find(x => x.keyword === kw); return r && maxVol(r.volume) >= 100; }).length >= 2) k.flags.push('head terms land on an article: make sure the hub links it in Start here');
 }
 const keywordClusters = Object.values(byUrl).sort((a, b) => maxVol(b.volume) - maxVol(a.volume) || a.url.localeCompare(b.url));
 const families = {};
 for (const r of mapped) { if (r.relevance !== 'core' || !r.servedBy) continue; const f = sig(r.keyword); (families[f] = families[f] || { family: f, urls: new Set(), keywords: [] }); families[f].urls.add(r.servedBy); families[f].keywords.push(r.keyword); }
-const splitFamilies = Object.values(families).filter(f => f.urls.size > 1).map(f => ({ family: f.family, urls: [...f.urls].sort(), keywords: f.keywords.sort() })).sort((a, b) => b.urls.length - a.urls.length || a.family.localeCompare(b.family));
+// A family split across URLs is a deliberate intent split, not cannibalisation, when the
+// recorded SERPs of the URLs' own keywords barely overlap: fewer than 3 shared organic
+// URLs is the usual threshold for "different result pages". The SERPs come from
+// keyword-evidence.json (any _serp_snapshot* block); without them the split stays a
+// recommendation.
+const serpUrls = {};
+const normOrganic = o => String(typeof o === 'string' ? o : (o && (o.url || ((o.domain || '') + ' ' + (o.path || '')))) || '').toLowerCase().replace(/^\s*\d+\.\s*/, '').replace(/^https?:\/\//, '').replace(/^www\./, '').replace(/\s+/g, '').replace(/\/$/, '');
+for (const key of Object.keys(evidence || {}).filter(k => k.startsWith('_serp_snapshot'))) {
+  const block = evidence[key]; if (!block || typeof block !== 'object') continue;
+  for (const q of (Array.isArray(block.queries) ? block.queries : [block])) {
+    if (!q || !q.query || !Array.isArray(q.organic_top) || !q.organic_top.length) continue;
+    const k = String(q.query).toLowerCase().trim();
+    if (!serpUrls[k]) serpUrls[k] = { market: q.market || block.market || '', urls: q.organic_top.map(normOrganic).filter(Boolean) };
+  }
+}
+const familyList = Object.values(families).filter(f => f.urls.size > 1).map(f => {
+  const urls = [...f.urls].sort();
+  const byOwner = urls.map(u => f.keywords.filter(kw => { const r = mapped.find(x => x.keyword === kw); return r && r.servedBy === u; }).find(kw => serpUrls[kw.toLowerCase()]) || null);
+  let serpCheck = null;
+  if (byOwner.every(Boolean)) {
+    const pairs = [];
+    for (let i = 0; i < byOwner.length; i++) for (let j = i + 1; j < byOwner.length; j++) {
+      const a = serpUrls[byOwner[i].toLowerCase()], b = serpUrls[byOwner[j].toLowerCase()];
+      pairs.push({ a: byOwner[i], b: byOwner[j], shared: a.urls.filter(u => b.urls.includes(u)).length, of: Math.min(a.urls.length, b.urls.length) });
+    }
+    serpCheck = { pairs, distinct: pairs.every(p => p.shared < 3) };
+  }
+  return { family: f.family, urls, keywords: f.keywords.sort(), serpCheck };
+}).sort((a, b) => b.urls.length - a.urls.length || a.family.localeCompare(b.family));
+const splitFamilies = familyList.filter(f => !(f.serpCheck && f.serpCheck.distinct));
+const serpVerifiedSplits = familyList.filter(f => f.serpCheck && f.serpCheck.distinct);
 
 // ---------- per-cluster assembly ----------
 const clusters = L.CLUSTERS.map(c => {
@@ -192,12 +225,12 @@ const summary = {
   trueSiloOrphans: clusters.reduce((n, c) => n + c.links.trueSiloOrphans, 0),
   hubsWithFewerThan3StartHere: clusters.filter(c => c.hub && c.hub.startHereLinks < 3).length,
   demandByMarket: Object.fromEntries(markets.map(m => [m, { served: clusters.reduce((n, c) => n + (c.demand.volume[m] || 0), 0) + ((demand['(site)'] && demand['(site)'].volume[m]) || 0), total: matrix.summary.keywordUniverse.volumeByMarket[m].core }])),
-  keywordClusters: keywordClusters.length, splitFamilies: splitFamilies.length, serpQuestionsServed: register.filter(g => g.servedBy).length, serpGaps: serpGaps.length,
+  keywordClusters: keywordClusters.length, splitFamilies: splitFamilies.length, serpVerifiedSplits: serpVerifiedSplits.length, serpQuestionsServed: register.filter(g => g.servedBy).length, serpGaps: serpGaps.length,
   recommendations: recs.reduce((o, r) => (o[r.severity] = (o[r.severity] || 0) + 1, o), {}), missing
 };
 const crossSiloEdges = Object.entries(crossEdges).map(([k, v]) => ({ from: k.split('>')[0], to: k.split('>')[1], links: v })).sort((a, b) => b.links - a.links || a.from.localeCompare(b.from) || a.to.localeCompare(b.to));
 fs.mkdirSync(OUT_DIR, { recursive: true });
-fs.writeFileSync(path.join(OUT_DIR, 'topical-map.json'), JSON.stringify({ summary, clusters, crossSiloEdges, keywordClusters, splitFamilies, recommendations: recs }, null, 1) + '\n');
+fs.writeFileSync(path.join(OUT_DIR, 'topical-map.json'), JSON.stringify({ summary, clusters, crossSiloEdges, keywordClusters, splitFamilies, serpVerifiedSplits, recommendations: recs }, null, 1) + '\n');
 
 let md = '# Topical map (Pillar–Hub–Silo)\n\n';
 md += 'Generated ' + TODAY + ' by `scripts/topical-map.js` from the source tree, `docs/seo/keyword-targets.json`, the English SEO Master Matrix (`docs/seo/english-seo-master-matrix.json`: keyword-universe mapping, content gap register, priorities) and the research evidence. **Mode: ' + summary.mode + '.** Demand figures are third-party monthly estimates per market already mapped to serving URLs by the matrix engine; they are prioritisation evidence, never facts to publish. Every recommendation is REVIEW_REQUIRED: tooling never creates articles, rewrites prose or changes a URL.\n\n';
@@ -226,6 +259,7 @@ for (const e of crossSiloEdges.slice(0, 25)) md += '| ' + e.from + ' | ' + e.to 
 md += '\n## Keyword clusters by serving URL (top 40 by demand)\n\n| Serving URL | Type | Cluster | Keywords | Weak | Intents | ' + markets.map(m => m.toUpperCase()).join(' | ') + ' | Flags |\n|---|---|---|---|---|---|' + markets.map(() => '---').join('|') + '|---|\n';
 for (const k of keywordClusters.slice(0, 40)) md += '| ' + k.url + ' | ' + k.type + ' | ' + (k.cluster || '-') + ' | ' + k.keywords.length + ': ' + mdCell(k.keywords.slice(0, 6).join(', ') + (k.keywords.length > 6 ? ' …' : '')) + ' | ' + k.weak + ' | ' + Object.entries(k.intents).map(([i, n]) => i + ' ' + n).join(', ') + ' | ' + markets.map(m => k.volume[m] || 0).join(' | ') + ' | ' + mdCell(k.flags.join('; ')) + ' |\n';
 md += '\n## Split keyword families (' + splitFamilies.length + ')\n\nOne stemmed keyword family served by several URLs is a cannibalisation risk at the variant level; declare one owner in `docs/seo/keyword-targets.json`.\n\n' + (splitFamilies.length ? '| Family | URLs | Keywords |\n|---|---|---|\n' + splitFamilies.map(f => '| ' + mdCell(f.family) + ' | ' + f.urls.join(', ') + ' | ' + mdCell(f.keywords.join(', ')) + ' |').join('\n') + '\n' : 'None.\n');
+md += '\n### Intent splits verified by SERP overlap (' + serpVerifiedSplits.length + ')\n\nSame stemmed words, different result pages: the recorded organic results of each owner\'s keyword share fewer than 3 URLs, so separate owners are correct and no consolidation is recommended.\n\n' + (serpVerifiedSplits.length ? '| Family | URLs | SERP comparison |\n|---|---|---|\n' + serpVerifiedSplits.map(f => '| ' + mdCell(f.family) + ' | ' + f.urls.join(', ') + ' | ' + mdCell(f.serpCheck.pairs.map(p => '"' + p.a + '" vs "' + p.b + '": ' + p.shared + ' shared of ' + p.of).join('; ')) + ' |').join('\n') + '\n' : 'None.\n');
 md += '\n## All recommendations (' + recs.length + ', REVIEW_REQUIRED)\n\n| Severity | Cluster | Rule | Detail | Action |\n|---|---|---|---|---|\n';
 for (const r of recs) md += '| ' + r.severity + ' | ' + r.cluster + ' | ' + r.rule + ' | ' + mdCell(r.detail) + ' | ' + mdCell(r.action) + ' |\n';
 fs.writeFileSync(path.join(OUT_DIR, 'topical-map.md'), md);

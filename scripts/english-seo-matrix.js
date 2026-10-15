@@ -464,9 +464,13 @@ for (const k of summary.keywordOwnership) {
 // (a Common-questions entry, or a title/keyword match). Unserved ones are
 // listed as gaps for the owner (the production plan is complete: no new
 // articles are created by tooling; a gap is served by an existing URL or left).
+const { classify: classifyKeyword, OTHER_PLACE } = require('./seo-research-ingest.js');
 const GAP_STOP = new Set('a an the of for to in on and or with your you our this that is are how what when where why which who do does can at by from vs versus i my it its be need needed want get'.split(' '));
-const gapStem = w => w.toLowerCase().replace(/[^a-z0-9]/g, '').replace(/(ing|ers|er|ed|es|s)$/, '').replace(/licenc/, 'licens').replace(/motorcycl/, 'motorbik').replace(/^rental$/, 'rent').replace(/^hir$/, 'hire').replace(/^vietnamese$/, 'vietnam');
-const gapSig = s => [...new Set(String(s).toLowerCase().split(/[^a-z0-9]+/).filter(w => w && !GAP_STOP.has(w)).map(gapStem).filter(w => w.length > 1))];
+// A trailing "e" is dropped after the suffix so singular and plural share one stem
+// (motorbike/motorbikes -> motorbik, licence/licenses -> licens, bike/bikes -> bik).
+// "used" (second-hand) is kept whole so it never collides with "use".
+const gapStem = w => w.toLowerCase().replace(/[^a-z0-9]/g, '').replace(/^used$/, 'secondhand').replace(/(ing|ers|er|ed|es|s)$/, '').replace(/e$/, '').replace(/licenc/, 'licens').replace(/motorcycl/, 'motorbik').replace(/^rental$/, 'rent').replace(/^hir$/, 'hire').replace(/^vietnames$/, 'vietnam');
+const gapSig = s => [...new Set(String(s).toLowerCase().replace(/\bair[\s-]+blade\b/g, 'airblade').split(/[^a-z0-9]+/).filter(w => w && !GAP_STOP.has(w)).map(gapStem).filter(w => w.length > 1))];
 const faqIndex = [];
 for (const src of [...articles.map(a => ({ url: L.articleUrl(a), raw: a.raw })), ...pages.map(p => ({ url: L.pageUrl(p), raw: p.raw }))]) {
   const fmEnd = src.raw.indexOf('\n---', 3); const fmText = fmEnd > 0 ? src.raw.slice(0, fmEnd) : '';
@@ -475,22 +479,51 @@ for (const src of [...articles.map(a => ({ url: L.articleUrl(a), raw: a.raw })),
 const titleIndex = rows.map(r => ({ url: r.url, sig: gapSig(r.current_title + ' ' + (r.primary_keyword || '')) }));
 // Generic words (the site's own subject) never count as the distinguishing
 // match; a question is served only when its distinctive words are found.
-const GAP_GENERIC = new Set(['motorbik', 'rental', 'rent', 'hanoi', 'vietnam', 'scoot', 'bike', 'rid', 'ride', 'hire', 'vietnames']);
+const GAP_GENERIC = new Set(['motorbik', 'rental', 'rent', 'hanoi', 'vietnam', 'scoot', 'bik', 'bike', 'rid', 'ride', 'hire', 'vietnames']);
+// Hand-authored owners (keyword-targets.json) answer a query first, in the keyword
+// universe and in the content gap register alike: the exact declared keyword; then the
+// same stemmed word set (owners sharing one set, "Motorbike Vietnam" for the travel
+// pillar and "Vietnamese motorbikes" for the motorcycles pillar, have different SERPs
+// recorded in keyword-evidence.json, so the exact keyword decides and otherwise the first
+// declared owner serves); then an owner whose words the query contains with only the
+// site's generic subject words added. A declared GAP keyword is served weakly.
+const ownerSigs = allKeywords.map(k => ({ sig: gapSig(k.keyword), owner: k.owner, keyword: k.keyword, gap: !!k.gap, exact: String(k.keyword).toLowerCase().replace(/\s+/g, ' ').trim() }));
+function ownerResolve(query) {
+  const sig = gapSig(query); if (!sig.length) return null;
+  const setEq = (a, b) => a.length === b.length && a.every(w => b.includes(w));
+  const exact = String(query).toLowerCase().replace(/[?!.]+$/, '').replace(/\s+/g, ' ').trim();
+  let o = ownerSigs.find(x => x.exact === exact);
+  if (!o) o = ownerSigs.find(x => setEq(x.sig, sig));
+  if (!o) o = ownerSigs.filter(x => x.sig.every(w => sig.includes(w)) && sig.every(w => x.sig.includes(w) || GAP_GENERIC.has(w))).sort((a, b) => b.sig.length - a.sig.length)[0];
+  if (o && o.gap) return { url: o.owner, how: 'declared GAP keyword (' + o.keyword + '): nearest existing URL, no dedicated page', strength: 'partial' };
+  if (o) return { url: o.owner, how: 'keyword-targets owner (' + o.keyword + ')', strength: 'owner' };
+  return null;
+}
 function resolveGap(question) {
   if (/\bnear me\b/i.test(question) && rows.some(r => r.url === '/contact/')) return { url: '/contact/', how: 'local-intent query: address, map and hours on the contact page (the map pack itself is a Google Business Profile matter for the owner)', dHit: 0, tHit: 0 };
   const sigAll = gapSig(question); if (sigAll.length < 2) return null;
   const sigDistinct = sigAll.filter(w => !GAP_GENERIC.has(w));
-  let best = null;
+  // A rental question goes to a page about renting before a buying guide; only when no
+  // rental page qualifies does the best other page answer it (a route guide that covers
+  // where to rent, for example).
+  const wantsRent = sigAll.includes('rent') || sigAll.includes('hire');
+  let best = null, bestRent = null;
   const consider = (e, how) => {
+    const isRent = e.sig.includes('rent') || e.sig.includes('hire');
     const dHit = sigDistinct.filter(w => e.sig.includes(w)).length;
     const tHit = sigAll.filter(w => e.sig.includes(w)).length;
-    const ok = sigDistinct.length === 0 ? tHit >= 2 : (dHit >= 1 && dHit * 2 >= sigDistinct.length && tHit * 2 >= sigAll.length);
+    // A title answers a question only when it carries all of the question's distinctive
+    // words or two of them; a Common-questions entry may match on one (it is a question
+    // the site already answers in its own words).
+    const titleOk = how !== 'title/keyword match' || dHit >= Math.min(2, sigDistinct.length);
+    const ok = sigDistinct.length === 0 ? tHit >= 2 : (dHit >= 1 && titleOk && dHit * 2 >= sigDistinct.length && tHit * 2 >= sigAll.length);
     if (!ok) return;
     if (!best || dHit > best.dHit || (dHit === best.dHit && tHit > best.tHit)) best = { url: e.url, how, dHit, tHit };
+    if (isRent && (!bestRent || dHit > bestRent.dHit || (dHit === bestRent.dHit && tHit > bestRent.tHit))) bestRent = { url: e.url, how, dHit, tHit };
   };
   for (const e of faqIndex) consider(e, 'Common-questions entry: ' + e.q);
   for (const e of titleIndex) consider(e, 'title/keyword match');
-  return best;
+  return (wantsRent && bestRent) || best;
 }
 // Every recorded SERP block in keyword-evidence.json feeds the register: a single
 // snapshot (_serp_snapshot) or a block with a queries[] array (_serp_snapshot_hubs,
@@ -513,7 +546,10 @@ summary.contentGaps = [];
 for (const gs of gapSources) {
   for (const [kind, list] of [['People also ask', gs.paa], ['Related search', gs.related]]) for (const q of list) {
     if (/reddit|quora|facebook/i.test(q)) { summary.contentGaps.push({ question: q, kind, serp: gs.query + (gs.market && !/united states/i.test(gs.market) ? ' [' + gs.market + ']' : ''), servedBy: '', how: 'community-platform query, not a content gap', gap: false }); continue; }
-    const r = resolveGap(q);
+    if (OTHER_PLACE.test(q)) { summary.contentGaps.push({ question: q, kind, serp: gs.query + (gs.market && !/united states/i.test(gs.market) ? ' [' + gs.market + ']' : ''), servedBy: '', how: 'query about a place outside Vietnam, not a content gap', gap: false }); continue; }
+    if (classifyKeyword(q) === 'competitor-brand') { summary.contentGaps.push({ question: q, kind, serp: gs.query + (gs.market && !/united states/i.test(gs.market) ? ' [' + gs.market + ']' : ''), servedBy: '', how: 'competitor brand name: never a target, not a content gap', gap: false }); continue; }
+    if (classifyKeyword(q) === null && /for sale|\bsales?\b|cost of liv|hostel|hotel/i.test(q)) { summary.contentGaps.push({ question: q, kind, serp: gs.query + (gs.market && !/united states/i.test(gs.market) ? ' [' + gs.market + ']' : ''), servedBy: '', how: 'off-topic for this site (marketplace, lodging or living costs), not a content gap', gap: false }); continue; }
+    const r = ownerResolve(q) || resolveGap(q);
     summary.contentGaps.push({ question: q, kind, serp: gs.query + (gs.market && !/united states/i.test(gs.market) ? ' [' + gs.market + ']' : ''), servedBy: r ? r.url : '', how: r ? r.how : 'no serving URL found', gap: !r });
   }
 }
@@ -534,16 +570,22 @@ if (kwUniverse && Array.isArray(kwUniverse.rows)) {
   // keyword containing every word (hubs before pages before articles, closest first);
   // (3) a Common-questions entry containing every word; (4) the partial resolver of the
   // content gap register, reported as weak. "near me" queries are local intent.
-  const ownerSigs = allKeywords.map(k => ({ sig: gapSig(k.keyword), owner: k.owner, keyword: k.keyword }));
   const kwIndex = rows.map(r => ({ url: r.url, type: r.type, sig: gapSig(r.current_title + ' ' + (r.primary_keyword || '')), pk: gapSig(r.primary_keyword || '') }));
   const typeRank = { hub: 0, page: 1, article: 2 };
-  const resolveKeyword = kw => {
+  // A community-platform modifier ("... reddit") asks for first-hand answers to the same
+  // question; it is resolved on the rest of the query and the modifier is noted.
+  const PLATFORM = /\b(reddit|quora|tripadvisor|facebook|forums?)\b/gi;
+  const resolveKeyword = kwIn => {
+    const res = resolveKeywordCore(String(kwIn).replace(PLATFORM, ' ').replace(/\s+/g, ' ').trim());
+    if (res && PLATFORM.test(String(kwIn))) res.how += ' (community-platform modifier ignored)';
+    PLATFORM.lastIndex = 0;
+    return res;
+  };
+  const resolveKeywordCore = kw => {
     if (/\bnear me\b/i.test(kw) && rows.some(r => r.url === '/contact/')) return { url: '/contact/', how: 'local-intent query: contact page (address, map, hours)', strength: 'local' };
     const sig = gapSig(kw); if (!sig.length) return null;
-    const setEq = (a, b) => a.length === b.length && a.every(w => b.includes(w));
-    let o = ownerSigs.find(x => setEq(x.sig, sig));
-    if (!o) o = ownerSigs.filter(x => x.sig.every(w => sig.includes(w)) && sig.every(w => x.sig.includes(w) || GAP_GENERIC.has(w))).sort((a, b) => b.sig.length - a.sig.length)[0];
-    if (o) return { url: o.owner, how: 'keyword-targets owner (' + o.keyword + ')', strength: 'owner' };
+    const own = ownerResolve(kw);
+    if (own) return own;
     const full = kwIndex.filter(e => sig.every(w => e.sig.includes(w)));
     if (full.length) {
       // A keyword made only of the site's own subject words belongs to a pillar (hub) before
@@ -555,6 +597,22 @@ if (kwUniverse && Array.isArray(kwUniverse.rows)) {
     }
     const faq = faqIndex.find(e => sig.every(w => e.sig.includes(w)));
     if (faq) return { url: faq.url, how: 'Common-questions entry: ' + faq.q, strength: 'faq' };
+    // Every distinctive word (brand, model, topic) in a title or primary keyword, only the
+    // site's own subject words (motorbike, Vietnam, rental...) implied: the same rule the
+    // owner match applies. A rental query stays with rental pages; then the closest primary
+    // keyword, the most query words, a guide or review before a head-to-head comparison,
+    // hubs, and the shortest title.
+    const distinct = sig.filter(w => !GAP_GENERIC.has(w));
+    const dFull = distinct.length ? kwIndex.filter(e => distinct.every(w => e.sig.includes(w))) : [];
+    if (dFull.length) {
+      const pkD = e => Number(distinct.every(w => e.pk.includes(w)));
+      const hits = e => sig.filter(w => e.sig.includes(w)).length;
+      const vs = e => Number(/-vs-/.test(e.url));
+      const wantsRent = sig.includes('rent') || sig.includes('hire');
+      const intentOk = e => Number(!wantsRent || e.sig.includes('rent') || e.sig.includes('hire'));
+      dFull.sort((a, b) => (intentOk(b) - intentOk(a)) || (pkD(b) - pkD(a)) || (hits(b) - hits(a)) || (vs(a) - vs(b)) || (typeRank[a.type] - typeRank[b.type]) || (a.sig.length - b.sig.length) || a.url.localeCompare(b.url));
+      return { url: dFull[0].url, how: 'title/keyword match on the distinctive words (' + distinct.join(' ') + ')', strength: 'title' };
+    }
     const g = resolveGap(kw);
     return g ? { url: g.url, how: 'nearest URL (partial match): ' + g.how, strength: 'partial' } : null;
   };

@@ -1568,7 +1568,7 @@
  },
  "_serp_snapshot_ingested": {
   "tool": "OpenRush inspect_serp (ingested by scripts/seo-research-ingest.js)",
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "note": "Live SERP snapshots per query and market: features, local-pack entries (ratings and review counts as displayed), People also ask, related searches, top organic results, our own positions and brand mentions. People-also-ask questions feed the content gap register and the Common questions on the hubs (answers only from OWNER-FACTS or a VERIFIED article). A newer snapshot of the same query and market replaces the old one and keeps its positions in history.",
   "queries": [
    {
@@ -2024,6 +2024,50 @@
     "total_available": 114
    },
    {
+    "query": "mopeds vietnam",
+    "market": "United States",
+    "fetched_at": "2026-10-15T02:16:57.363103Z",
+    "features": [
+     "ai_overview",
+     "organic",
+     "people_also_ask",
+     "popular_products",
+     "video",
+     "images",
+     "related_searches"
+    ],
+    "local_pack": [],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "Do I need a license to ride a moped in Vietnam?",
+     "How much does a moped cost in Vietnam?",
+     "Is $1000 enough for 2 weeks in Vietnam?",
+     "What is the #1 cause of death in Vietnam?"
+    ],
+    "related_searches": [
+     "Mopeds vietnam price",
+     "Mopeds vietnam for sale",
+     "Used mopeds vietnam",
+     "Electric mopeds vietnam",
+     "Scooter in Vietnam price",
+     "50cc scooter Vietnam price",
+     "Honda Vietnam motorcycle price",
+     "Vietnam motorcycle brands"
+    ],
+    "organic_top": [
+     "1. reddit.com",
+     "2. en.wikipedia.org /wiki/Motorcycle_industry_in_Vietnam",
+     "3. facebook.com /groups/vietnam.travel.planning/posts/962570345977591/",
+     "4. theguardian.com",
+     "5. facebook.com",
+     "6. anhwu.com /vietnam-motorbike-price-touring-motorcycles-scooters",
+     "7. rideto.com /blog/how-to-ride-moped-vietnam/"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 191
+   },
+   {
     "query": "motorbike rental hanoi",
     "market": "United States",
     "fetched_at": "2026-10-14T09:53:26.125367Z",
@@ -2212,6 +2256,49 @@
     "en_rentbikehanoi_positions": [],
     "brand_mentions": [],
     "total_available": 118
+   },
+   {
+    "query": "motorbike vietnam",
+    "market": "United States",
+    "fetched_at": "2026-10-15T02:13:24.705602Z",
+    "features": [
+     "ai_overview",
+     "organic",
+     "people_also_ask",
+     "images",
+     "related_searches"
+    ],
+    "local_pack": [],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "What is the famous motorbike ride in Vietnam?",
+     "Is $1000 enough for 2 weeks in Vietnam?",
+     "Can tourists ride motorbikes in Vietnam?",
+     "Why is motorbike popular in Vietnam?"
+    ],
+    "related_searches": [
+     "Motorbike Vietnam tour",
+     "Motorbike Vietnam price",
+     "Vietnam motorcycle brands",
+     "Motorbike Vietnam rental",
+     "Vietnam motorcycle Loop",
+     "Vietnam motorcycle Tours 2026",
+     "50cc motorbike Vietnam",
+     "Off road motorbike vietnam"
+    ],
+    "organic_top": [
+     "1. reddit.com /r/solotravel/comments/17iyphr/vietnam_motorbike_advice/",
+     "2. youtube.com /watch?v=GgbCa0s4Bf0",
+     "3. motorbiketourexpert.com",
+     "4. ethosspirit.com /motorbiking-in-vietnam",
+     "5. vietnamcoracle.com /the-greatest-riding-roads-in-vietnam/",
+     "6. vietnamas.info /en",
+     "7. stylemotorbikes.com",
+     "8. madornomad.com /motorcycle-travel-guide-vietnam/"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 196
    },
    {
     "query": "riding a motorbike in hanoi",
@@ -2405,6 +2492,49 @@
     "en_rentbikehanoi_positions": [],
     "brand_mentions": [],
     "total_available": 131
+   },
+   {
+    "query": "vietnamese motorbikes",
+    "market": "United States",
+    "fetched_at": "2026-10-15T02:13:23.587131Z",
+    "features": [
+     "ai_overview",
+     "organic",
+     "people_also_ask",
+     "images",
+     "video",
+     "related_searches"
+    ],
+    "local_pack": [],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "Can foreigners drive motorbikes in Vietnam?",
+     "What are the most reliable motorbike brands?",
+     "What are the major motorcycle brands in Vietnam?",
+     "How much does a motor scooter cost in Vietnam?"
+    ],
+    "related_searches": [
+     "Vietnamese motorbikes brands",
+     "Vietnamese motorbikes for sale",
+     "Buy motorbike Vietnam",
+     "Vietnamese motorbikes price",
+     "Honda Vietnam motorcycle price",
+     "Style Motorbikes Vietnam",
+     "Motorbike for sale Da Nang",
+     "Used motorcycles for sale in Ho Chi Minh City"
+    ],
+    "organic_top": [
+     "1. stylemotorbikes.com /bikes/",
+     "2. reddit.com /r/VietNam/comments/1du5tcz/motorbike_recommendations/",
+     "3. facebook.com /groups/1730570587262305/",
+     "4. rentalmotorbikehanoi.com /motorbiking-in-vietnam-practical-rules-you-should-know/",
+     "5. vietmotorbikes.com /motorbikes-for-sale/",
+     "6. thepackablelife.com /travel/journal/vietnam-motorbike",
+     "7. gettyimages.ca /photos/vietnam-motorbike"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 123
    }
   ]
  },
@@ -2510,6 +2640,13 @@
    "scope": "monthly motorbike rental hanoi"
   },
   {
+   "file": "inspect_serp__mopeds-vietnam-united-states.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-15",
+   "market": "us",
+   "scope": "mopeds vietnam"
+  },
+  {
    "file": "inspect_serp__motorbike-rental-hanoi-united-states.json",
    "tool": "inspect_serp",
    "date": "2026-10-14",
@@ -2529,6 +2666,13 @@
    "date": "2026-10-14",
    "market": "us",
    "scope": "motorbike rental vietnam"
+  },
+  {
+   "file": "inspect_serp__motorbike-vietnam-united-states.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-15",
+   "market": "us",
+   "scope": "motorbike vietnam"
   },
   {
    "file": "inspect_serp__riding-a-motorbike-in-hanoi.json",
@@ -2557,6 +2701,13 @@
    "date": "2026-10-14",
    "market": "us",
    "scope": "vietnam motorbike trip"
+  },
+  {
+   "file": "inspect_serp__vietnamese-motorbikes-united-states.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-15",
+   "market": "us",
+   "scope": "vietnamese motorbikes"
   },
   {
    "file": "research_keywords__electric-motorbike-vietnam-ideas-vietnam.json",

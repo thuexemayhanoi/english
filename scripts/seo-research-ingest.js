@@ -49,6 +49,9 @@ function classify(keyword) {
   if (OTHER_PLACE.test(kw) && !geo) return null;
   if (BRANDS.test(kw)) return 'competitor-brand';
   if (BIG_BIKE.test(kw)) return GEO.test(kw) ? 'adjacent' : null;
+  // Riding in Laos (a loop, a border town) is next door, not the site's subject; renting
+  // there stays other-city below.
+  if (/\blaos\b/.test(kw) && !/\b(vietnam|viet nam|vietnamese|hanoi|ha noi)\b/.test(kw) && !/rent|hire|rental/.test(kw)) return VEHICLE.test(kw) || ADJACENT.test(kw) ? 'adjacent' : null;
   const veh = VEHICLE.test(kw);
   if (geo && veh) {
     if (OTHER_CITY.test(kw) && !/hanoi/i.test(kw) && /rent|hire|rental/i.test(kw)) return 'other-city';
@@ -248,4 +251,4 @@ if (require.main === module) {
   console.log('seo-research-ingest: ' + s.ingested + '/' + s.files + ' files from ' + path.relative(ROOT, inbox) + (args.includes('--dry-run') ? ' (dry run)' : '') + ' -> SERP snapshots ' + s.serpQueries + ', universe rows ' + s.universeRows + ' (' + Object.entries(s.byRelevance || {}).map(([k, v]) => k + ' ' + v).join(', ') + '); rows kept ' + s.rowsKept + ', dropped ' + s.rowsDropped);
   for (const x of s.skipped) console.log('  skipped ' + x);
 }
-module.exports = { classify, topicOf, detect, serpEntry, ingest };
+module.exports = { classify, topicOf, detect, serpEntry, ingest, OTHER_PLACE };

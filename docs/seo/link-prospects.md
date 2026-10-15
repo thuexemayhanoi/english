@@ -1,6 +1,6 @@
 # Link prospects (zero-data mode)
 
-Generated 2026-10-14 by `scripts/english-seo-matrix.js` from the backlink evidence in `docs/seo/keyword-evidence.json`. Off-site work is an owner task: this list records where comparable Hanoi/Vietnam rental sites earned editorial links so outreach can start from evidence instead of guesswork. Links are never bought and competitor brand names are never used in anchor text or copy.
+Generated 2026-10-15 by `scripts/english-seo-matrix.js` from the backlink evidence in `docs/seo/keyword-evidence.json`. Off-site work is an owner task: this list records where comparable Hanoi/Vietnam rental sites earned editorial links so outreach can start from evidence instead of guesswork. Links are never bought and competitor brand names are never used in anchor text or copy.
 
 ## Starting point
 

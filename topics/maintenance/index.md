@@ -31,6 +31,7 @@ faq:
   <li><a href="{{ '/articles/brake-checks-motorbike-vietnam/' | relative_url }}">Checking brakes</a> and <a href="{{ '/articles/dead-battery-motorbike-vietnam/' | relative_url }}">recovering a bike with a dead battery</a></li>
   <li><a href="{{ '/articles/motorbike-service-where-vietnam/' | relative_url }}">Finding a trustworthy mechanic</a> and <a href="{{ '/articles/talking-to-mechanic-vietnam/' | relative_url }}">talking to a Vietnamese mechanic</a></li>
   <li><a href="{{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}">Genuine vs fake parts</a></li>
+  <li>When something goes wrong: <a href="{{ '/articles/flat-tyre-repair-motorbike-vietnam/' | relative_url }}">repairing a flat tyre</a>, <a href="{{ '/articles/diagnosing-motorbike-noises-vietnam/' | relative_url }}">diagnosing a new noise</a> and <a href="{{ '/articles/check-motorbike-after-heavy-rain/' | relative_url }}">what to check after heavy rain</a></li>
 </ul>
 
 <h2>For renters</h2>

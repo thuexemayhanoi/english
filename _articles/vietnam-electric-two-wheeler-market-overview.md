@@ -22,6 +22,8 @@ sources:
   - "https://dat.bike/en/xe-may-dien-weaver-plus-plus-en/ — Dat Bike official Weaver++ product page"
   - "https://yadea.com.vn/ — Yadea Vietnam official site (listed prices, retrieved 2026-09-24)"
   - "docs/MODEL-DATABASE.md — verified electric rows (retrieved 2026-09-24)"
+  - "https://www.honda.com.vn/xe-may/xe-dien — Honda Vietnam official electric motorbike page (ICON e:, CUV e:, UC3 events and news, retrieved 2026-10-15)"
+  - "https://yamaha-motor.com.vn/xe/neos-bfm4/ — Yamaha Motor Vietnam official NEO's page (retrieved 2026-10-15)"
 internal_link_targets: "vinfast-electric-scooter-lineup-vietnam, dat-bike-lineup-vietnam-guide, yadea-vietnam-lineup-guide, vinfast-vs-dat-bike-ecosystems, cheapest-electric-motorbikes-vietnam-list-prices, long-distance-electric-motorbike-touring-vietnam"
 ---
 
@@ -42,7 +44,7 @@ Yadea's [official Vietnamese price list]({{ '/articles/yadea-vietnam-lineup-guid
 ## What holds the shelves together
 
 - **Law 36/2024/QH15** draws the boundaries: pedal-assist as non-motorised, 4 kW/50 km/h as the licence-free moped class, A1 above 4 kW. Every purchase decision starts on this ladder.
-- **No Honda or Yamaha electric two-wheelers** exist in their current official Vietnamese line-ups — the petrol incumbents have not entered this market yet, so it is contested by VinFast, Dat Bike, Yadea and the smaller brands (Selex, Ikigai and others — no verified data retrieved, so none is claimed here).
+- **Honda and Yamaha have entered the market too.** Honda Vietnam's official electric page lists the ICON e: and the CUV e:, introduced the UC3 in January 2026 and announced battery-swap and charging stations in major cities in June 2026; Yamaha Motor Vietnam lists the NEO's. Their specifications are not yet in this site's verified model database, so no figures for them are claimed here, and the same holds for the smaller brands (Selex, Ikigai and others).
 - **Three refuelling models** coexist: swap (VinFast), fast-charge (Dat Charge) and overnight home charge (everyone).
 
 ## Reading the market as a buyer

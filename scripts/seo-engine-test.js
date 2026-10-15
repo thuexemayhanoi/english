@@ -241,7 +241,7 @@ check('data-driven: an unknown CSV layout is rejected, never guessed', LIB.parse
   run(ROOT, 'seo-research-ingest.js', ['--inbox', 'docs/seo/research/inbox']);
   check('research-ingest: re-ingesting the same files changes nothing (idempotent)', fs.readFileSync(evPath, 'utf8') === ev1 && fs.readFileSync(unPath, 'utf8') === un1);
   const ING = require(path.join(ROOT, 'scripts', 'seo-research-ingest.js'));
-  check('research-ingest: classification rules (other-city, licence topic, adjacent)', ING.classify('scooter rental ho chi minh') === 'other-city' && ING.topicOf('vietnam motorbike license for foreigners') === 'licence-and-paperwork' && ING.classify('traffic in vietnam') === 'adjacent' && ING.classify('harley rental') === null);
+  check('research-ingest: classification rules (other-city, licence topic, adjacent)', ING.classify('scooter rental ho chi minh') === 'other-city' && ING.topicOf('vietnam motorbike license for foreigners') === 'licence-and-paperwork' && ING.classify('traffic in vietnam') === 'adjacent' && ING.classify('harley rental') === null && ING.classify('laos motorbike loop') === 'adjacent' && ING.classify('motorbike rental laos') === 'other-city' && ING.OTHER_PLACE.test('ha giang loop motorbike rental near texas'));
 }
 
 // ---------- 8. topical map (silo integrity on a dedicated fixture) ----------
@@ -259,6 +259,19 @@ check('data-driven: an unknown CSV layout is rejected, never guessed', LIB.parse
   check('topical-map: silo orphans (no in-silo in-body inbound) and hub start-here rule reported as REVIEW_REQUIRED', !!sc && sc.links.articlesWithoutInSiloInbound >= 1 && sc.recommendations.some(r => r.rule === 'hub-start-here' && r.status === 'REVIEW_REQUIRED'), sc ? JSON.stringify(sc.recommendations.map(r => r.rule)) : '');
   check('topical-map: commercial page with too few in-silo inbound links flagged (money-page-inbound)', !!sc && sc.recommendations.some(r => r.rule === 'money-page-inbound' && /silo-b/.test(r.detail)));
   check('topical-map: cross-silo flow recorded (scooters -> rental)', !!map && map.crossSiloEdges.some(e => e.from === 'scooters' && e.to === 'rental' && e.links >= 1));
+  // Split keyword families: a split whose owners' recorded SERPs share < 3 organic URLs is
+  // a verified intent split (no recommendation); one with overlapping SERPs stays a split.
+  const kwRow = (keyword, servedBy) => ({ keyword, relevance: 'core', servedBy, strength: 'owner', intent: 'informational', volume: { us: 10 } });
+  fs.writeFileSync(path.join(MAPROOT, 'docs', 'seo', 'english-seo-master-matrix.json'), JSON.stringify({ summary: { mode: 'ZERO-DATA', contentGaps: [], keywordOwnership: [], keywordUniverse: { volumeByMarket: { us: { core: 40, coreServed: 40 } }, mapped: [kwRow('motorbike vietnam', '/topics/scooters/'), kwRow('vietnamese motorbikes', '/topics/rental/'), kwRow('hanoi motorbike rental', '/topics/scooters/'), kwRow('motorbike rental hanoi', '/articles/silo-a/')] } }, rows: [] }));
+  fs.writeFileSync(path.join(MAPROOT, 'docs', 'seo', 'keyword-evidence.json'), JSON.stringify({ _serp_snapshot_ingested: { queries: [
+    { query: 'motorbike vietnam', market: 'United States', organic_top: ['1. a.com /x', '2. b.com /y', '3. c.com'] },
+    { query: 'vietnamese motorbikes', market: 'United States', organic_top: ['1. d.com', '2. e.com', '3. a.com /z'] },
+    { query: 'hanoi motorbike rental', market: 'United States', organic_top: ['1. a.com', '2. b.com', '3. c.com'] },
+    { query: 'motorbike rental hanoi', market: 'United States', organic_top: ['1. a.com', '2. b.com', '3. c.com /'] }] } }));
+  const mapRun2 = run(MAPROOT, 'topical-map.js');
+  const map2 = fs.existsSync(mapJson) ? readJSON(MAPROOT, 'docs/seo/topical-map.json') : null;
+  check('topical-map: split family with distinct recorded SERPs is a verified intent split, not a recommendation', mapRun2.status === 0 && !!map2 && map2.serpVerifiedSplits.length === 1 && map2.serpVerifiedSplits[0].serpCheck.pairs[0].shared === 0 && !map2.recommendations.some(r => r.rule === 'split-family' && /vietnam/.test(r.detail)), mapRun2.out.split('\n').slice(-2).join(' | '));
+  check('topical-map: split family with overlapping SERPs stays a split-family recommendation', !!map2 && map2.splitFamilies.length === 1 && map2.splitFamilies[0].serpCheck.pairs[0].shared === 3 && map2.recommendations.some(r => r.rule === 'split-family' && /hanoi/.test(r.detail)), map2 ? JSON.stringify(map2.splitFamilies) : '');
   fs.rmSync(MAPROOT, { recursive: true, force: true });
 }
 

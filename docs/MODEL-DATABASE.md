@@ -139,7 +139,7 @@ I and 1.65 L/100km; Sirius 2025 versions from 19,048,000 VND (drum, disc and all
 
 ## Verified electric rows (retrieved 2026-09-24, Batch 20 groundwork for the cluster-7 electric batch)
 
-Rules applied: manufacturer official sources only; missing fields left EMPTY; claimed range/charging figures recorded with the manufacturer's own condition wording; no Honda VN or Yamaha VN electric two-wheeler models exist in their current line-ups, so no Honda/Yamaha electric rows were created.
+Rules applied: manufacturer official sources only; missing fields left EMPTY; claimed range/charging figures recorded with the manufacturer's own condition wording; no Honda/Yamaha electric rows were created in this batch. Correction 2026-10-15: the earlier note that Honda VN and Yamaha VN had no electric two-wheelers was wrong; Honda Vietnam's official electric page (https://www.honda.com.vn/xe-may/xe-dien) lists the ICON e: and CUV e: and the UC3, and Yamaha Motor Vietnam lists the NEO's (https://yamaha-motor.com.vn/xe/neos-bfm4/). Their verified rows are still to be retrieved; until then no figures for them appear on the site.
 
 ### VinFast (source: official VinFast corporate news release, vinfastauto.us investor-relations news, 15 January 2026 — the Vietnamese site vinfastauto.com.vn blocked automated access on 2026-09-24)
 

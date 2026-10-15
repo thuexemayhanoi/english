@@ -1,6 +1,6 @@
 {
  "summary": {
-  "generated": "2026-10-14",
+  "generated": "2026-10-15",
   "mode": "ZERO-DATA",
   "clusters": 14,
   "articles": 981,
@@ -20,20 +20,21 @@
     "total": 350
    },
    "us": {
-    "served": 16180,
-    "total": 16180
+    "served": 16160,
+    "total": 16160
    },
    "vn": {
     "served": 50000,
     "total": 50000
    }
   },
-  "keywordClusters": 31,
+  "keywordClusters": 26,
   "splitFamilies": 0,
-  "serpQuestionsServed": 158,
-  "serpGaps": 7,
+  "serpVerifiedSplits": 1,
+  "serpQuestionsServed": 163,
+  "serpGaps": 20,
   "recommendations": {
-   "P3": 13
+   "P3": 6
   },
   "missing": []
  },
@@ -359,9 +360,9 @@
     }
    ],
    "keywords": {
-    "owned": 23,
+    "owned": 25,
     "ownedPrimary": 14,
-    "coveredFull": 17,
+    "coveredFull": 18,
     "list": [
      {
       "keyword": "Hanoi motorbike rental",
@@ -523,15 +524,29 @@
       "coverage": "partial",
       "variant": true,
       "gap": false
+     },
+     {
+      "keyword": "Hanoi motorbike rental cost",
+      "owner": "/articles/motorbike-rental-price-hanoi/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Scooter rental Vietnam price",
+      "owner": "/articles/motorbike-rental-price-hanoi/",
+      "coverage": "partial",
+      "variant": true,
+      "gap": false
      }
     ]
    },
    "demand": {
-    "keywords": 22,
-    "weak": 2,
+    "keywords": 24,
+    "weak": 0,
     "volume": {
-     "us": 940,
-     "vn": 8320,
+     "us": 960,
+     "vn": 8360,
      "au": 10,
      "uk": 10
     },
@@ -608,14 +623,14 @@
     "gaps": []
    },
    "serp": {
-    "questionsServed": 21,
+    "questionsServed": 29,
     "sample": [
      "Scooter rental Vietnam price",
      "Can a foreigner ride a motorcycle in Vietnam?",
      "How much does it cost to rent a motorcycle in Vietnam?",
+     "Can tourists rent a motorbike in vietnam without",
      "Can tourists rent a motorbike in vietnam for a day",
-     "How much does it cost to rent a scooter in Hanoi?",
-     "Motorbike rental Hanoi Old Quarter"
+     "Motorbike rental Hanoi"
     ]
    },
    "recommendations": []
@@ -811,43 +826,21 @@
     ]
    },
    "demand": {
-    "keywords": 2,
+    "keywords": 0,
     "weak": 0,
-    "volume": {
-     "vn": 40,
-     "us": 20
-    },
-    "top": [
-     {
-      "keyword": "hanoi motorbike rental cost",
-      "volume": {
-       "vn": 30,
-       "us": 10
-      },
-      "servedBy": "/articles/motorbike-rental-budget-monthly-hanoi/",
-      "strength": "title"
-     },
-     {
-      "keyword": "motorbike rental hanoi price",
-      "volume": {
-       "vn": 10,
-       "us": 10
-      },
-      "servedBy": "/articles/motorbike-rental-monthly-price-hanoi/",
-      "strength": "title"
-     }
-    ],
+    "volume": {},
+    "top": [],
     "gaps": []
    },
    "serp": {
-    "questionsServed": 10,
+    "questionsServed": 9,
     "sample": [
      "How much is bike rental in Hanoi?",
-     "Can you rent to own an ebike?",
      "Best monthly motorbike rental hanoi",
      "Vietnam motorbike rental requirements",
      "How much is a motorbike per month?",
-     "Cheapest monthly motorbike rental hanoi"
+     "Cheapest monthly motorbike rental hanoi",
+     "Best monthly motorbike rental hanoi"
     ]
    },
    "recommendations": []
@@ -1294,7 +1287,7 @@
     }
    ],
    "keywords": {
-    "owned": 4,
+    "owned": 5,
     "ownedPrimary": 2,
     "coveredFull": 4,
     "list": [
@@ -1325,15 +1318,22 @@
       "coverage": "full",
       "variant": false,
       "gap": false
+     },
+     {
+      "keyword": "Motorbike Vietnam price",
+      "owner": "/articles/new-scooter-prices-vietnam-verified/",
+      "coverage": "partial",
+      "variant": true,
+      "gap": false
      }
     ]
    },
    "demand": {
-    "keywords": 10,
-    "weak": 1,
+    "keywords": 11,
+    "weak": 0,
     "volume": {
      "us": 2910,
-     "vn": 30
+     "vn": 80
     },
     "top": [
      {
@@ -1404,26 +1404,17 @@
     "gaps": []
    },
    "serp": {
-    "questionsServed": 8,
+    "questionsServed": 21,
     "sample": [
      "What is the best scooter to ride in Vietnam?",
      "How much does it cost to rent a scooter in Vietnam?",
      "Do I need a license to rent a scooter in Vietnam?",
      "How much is a VinFast scooter in Vietnam?",
      "Best scooter to rent in vietnam for a day",
-     "Do I need a license to rent a scooter in Vietnam?"
+     "Scooter in Vietnam price"
     ]
    },
-   "recommendations": [
-    {
-     "cluster": "scooters",
-     "severity": "P3",
-     "rule": "keyword-cluster",
-     "detail": "/articles/16-inch-wheel-scooters-vietnam/: served only by partial matches: the page does not name these keywords",
-     "action": "review in the keyword universe mapping",
-     "status": "REVIEW_REQUIRED"
-    }
-   ]
+   "recommendations": []
   },
   {
    "cluster": "motorcycles",
@@ -1965,9 +1956,9 @@
     }
    ],
    "keywords": {
-    "owned": 7,
+    "owned": 10,
     "ownedPrimary": 2,
-    "coveredFull": 5,
+    "coveredFull": 7,
     "list": [
      {
       "keyword": "Vietnamese motorbikes",
@@ -2017,17 +2008,63 @@
       "coverage": "partial",
       "variant": true,
       "gap": false
+     },
+     {
+      "keyword": "Honda CT125 Vietnam",
+      "owner": "/articles/honda-ct125-review/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Yamaha motorbike Vietnam",
+      "owner": "/topics/motorcycles/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Suzuki motorbike Vietnam",
+      "owner": "/topics/motorcycles/",
+      "coverage": "partial",
+      "variant": true,
+      "gap": true
      }
     ]
    },
    "demand": {
-    "keywords": 5,
+    "keywords": 10,
     "weak": 1,
     "volume": {
-     "vn": 370,
-     "us": 420
+     "us": 2420,
+     "vn": 1300,
+     "au": 10
     },
     "top": [
+     {
+      "keyword": "vietnamese motorbikes",
+      "volume": {
+       "us": 1000
+      },
+      "servedBy": "/topics/motorcycles/",
+      "strength": "owner"
+     },
+     {
+      "keyword": "vietnamese motorcycle",
+      "volume": {
+       "us": 1000
+      },
+      "servedBy": "/topics/motorcycles/",
+      "strength": "owner"
+     },
+     {
+      "keyword": "motorbikes in vietnam",
+      "volume": {
+       "vn": 880
+      },
+      "servedBy": "/topics/motorcycles/",
+      "strength": "owner"
+     },
      {
       "keyword": "honda motorbike vietnam",
       "volume": {
@@ -2065,29 +2102,23 @@
       "volume": {
        "vn": 50
       },
-      "servedBy": "/articles/honda-blade-vs-honda-ct125/",
-      "strength": "partial"
+      "servedBy": "/articles/honda-ct125-review/",
+      "strength": "owner"
      }
     ],
     "gaps": []
    },
    "serp": {
-    "questionsServed": 2,
+    "questionsServed": 5,
     "sample": [
      "What is the most popular motorbike in Vietnam?",
-     "What is the most popular motorbike in Vietnam?"
+     "Honda Vietnam motorcycle price",
+     "What is the most popular motorbike in Vietnam?",
+     "Why is motorbike popular in Vietnam?",
+     "Honda Vietnam motorcycle price"
     ]
    },
-   "recommendations": [
-    {
-     "cluster": "motorcycles",
-     "severity": "P3",
-     "rule": "keyword-cluster",
-     "detail": "/articles/honda-blade-vs-honda-ct125/: served only by partial matches: the page does not name these keywords",
-     "action": "review in the keyword universe mapping",
-     "status": "REVIEW_REQUIRED"
-    }
-   ]
+   "recommendations": []
   },
   {
    "cluster": "manual-clutch",
@@ -2365,9 +2396,9 @@
    ],
    "moneyPages": [],
    "keywords": {
-    "owned": 2,
-    "ownedPrimary": 1,
-    "coveredFull": 1,
+    "owned": 3,
+    "ownedPrimary": 2,
+    "coveredFull": 2,
     "list": [
      {
       "keyword": "50cc motorbike rental Hanoi",
@@ -2382,25 +2413,31 @@
       "coverage": "partial",
       "variant": true,
       "gap": false
+     },
+     {
+      "keyword": "50cc motorbike Vietnam",
+      "owner": "/topics/50cc/",
+      "coverage": "full",
+      "variant": false,
+      "gap": false
      }
     ]
    },
    "demand": {
-    "keywords": 6,
-    "weak": 5,
+    "keywords": 2,
+    "weak": 0,
     "volume": {
      "vn": 50,
-     "us": 40,
-     "au": 10
+     "us": 10
     },
     "top": [
      {
-      "keyword": "suzuki motorbike vietnam",
+      "keyword": "50cc motorbike vietnam",
       "volume": {
        "vn": 50
       },
       "servedBy": "/topics/50cc/",
-      "strength": "partial"
+      "strength": "owner"
      },
      {
       "keyword": "50cc scooter rental vietnam",
@@ -2409,51 +2446,19 @@
       },
       "servedBy": "/topics/50cc/",
       "strength": "faq"
-     },
-     {
-      "keyword": "temporary vietnamese motorcycle licence",
-      "volume": {
-       "us": 10
-      },
-      "servedBy": "/topics/50cc/",
-      "strength": "partial"
-     },
-     {
-      "keyword": "vietnam motorbike license reddit",
-      "volume": {
-       "us": 10
-      },
-      "servedBy": "/topics/50cc/",
-      "strength": "partial"
-     },
-     {
-      "keyword": "vinfast motorbike vietnam",
-      "volume": {
-       "us": 10
-      },
-      "servedBy": "/topics/50cc/",
-      "strength": "partial"
-     },
-     {
-      "keyword": "yamaha motorbike vietnam",
-      "volume": {
-       "au": 10
-      },
-      "servedBy": "/topics/50cc/",
-      "strength": "partial"
      }
     ],
     "gaps": []
    },
    "serp": {
-    "questionsServed": 26,
+    "questionsServed": 18,
     "sample": [
-     "How to get a motorbike license in Vietnam?",
      "What is the youngest age to drive a motorcycle?",
      "Can I rent a 50cc scooter in Vietnam?",
      "50cc motorbike vietnam licence rules",
      "50cc motorbike vietnam licence requirements",
-     "50cc motorbike vietnam licence test"
+     "50cc motorbike vietnam licence test",
+     "50cc scooter Vietnam"
     ]
    },
    "recommendations": [
@@ -2592,9 +2597,9 @@
     }
    ],
    "keywords": {
-    "owned": 2,
-    "ownedPrimary": 1,
-    "coveredFull": 1,
+    "owned": 4,
+    "ownedPrimary": 2,
+    "coveredFull": 2,
     "list": [
      {
       "keyword": "Electric motorbike rental Hanoi",
@@ -2609,40 +2614,38 @@
       "coverage": "partial",
       "variant": true,
       "gap": true
+     },
+     {
+      "keyword": "Electric motorbike Vietnam",
+      "owner": "/topics/electric/",
+      "coverage": "full",
+      "variant": false,
+      "gap": false
+     },
+     {
+      "keyword": "Honda electric bike Vietnam",
+      "owner": "/articles/vietnam-electric-two-wheeler-market-overview/",
+      "coverage": "partial",
+      "variant": true,
+      "gap": false
      }
     ]
    },
    "demand": {
-    "keywords": 5,
-    "weak": 1,
+    "keywords": 4,
+    "weak": 0,
     "volume": {
-     "us": 210,
-     "vn": 180
+     "vn": 130,
+     "us": 10
     },
     "top": [
-     {
-      "keyword": "vietnam bike",
-      "volume": {
-       "us": 210
-      },
-      "servedBy": "/articles/dat-bike-lineup-vietnam-guide/",
-      "strength": "title"
-     },
      {
       "keyword": "electric motorbike vietnam",
       "volume": {
        "vn": 110
       },
-      "servedBy": "/articles/electric-motorbike-theft-security-vietnam/",
-      "strength": "title"
-     },
-     {
-      "keyword": "motorbike vietnam price",
-      "volume": {
-       "vn": 50
-      },
-      "servedBy": "/articles/cheapest-electric-motorbikes-vietnam-list-prices/",
-      "strength": "title"
+      "servedBy": "/topics/electric/",
+      "strength": "owner"
      },
      {
       "keyword": "electric motorbike vietnam price",
@@ -2657,42 +2660,41 @@
       "volume": {
        "vn": 10
       },
-      "servedBy": "/articles/can-foreigners-rent-electric-bike-vietnam/",
-      "strength": "partial"
+      "servedBy": "/articles/vietnam-electric-two-wheeler-market-overview/",
+      "strength": "owner"
+     },
+     {
+      "keyword": "vinfast motorbike vietnam",
+      "volume": {
+       "us": 10
+      },
+      "servedBy": "/articles/vinfast-electric-scooter-lineup-vietnam/",
+      "strength": "title"
      }
     ],
     "gaps": []
    },
    "serp": {
-    "questionsServed": 19,
+    "questionsServed": 11,
     "sample": [
-     "Scooter in Vietnam price",
      "Can foreigners rent bikes in Vietnam?",
      "Electric motorbike rental hanoi prices",
      "Best electric motorbike rental hanoi",
      "Electric motorbike rental hanoi airport",
-     "Electric motorbike rental hanoi cost"
+     "Electric motorbike Hanoi",
+     "Can foreigners rent bikes in Vietnam?"
     ]
    },
-   "recommendations": [
-    {
-     "cluster": "electric",
-     "severity": "P3",
-     "rule": "keyword-cluster",
-     "detail": "/articles/can-foreigners-rent-electric-bike-vietnam/: served only by partial matches: the page does not name these keywords",
-     "action": "review in the keyword universe mapping",
-     "status": "REVIEW_REQUIRED"
-    }
-   ]
+   "recommendations": []
   },
   {
    "cluster": "maintenance",
    "hub": {
     "url": "/topics/maintenance/",
     "title": "Maintenance and Repair",
-    "words": 225,
-    "startHereLinks": 15,
-    "startHereOwnCluster": 10
+    "words": 244,
+    "startHereLinks": 18,
+    "startHereOwnCluster": 13
    },
    "articles": 120,
    "commercial": 0,
@@ -2774,68 +2776,17 @@
     "list": []
    },
    "demand": {
-    "keywords": 4,
+    "keywords": 0,
     "weak": 0,
-    "volume": {
-     "vn": 280
-    },
-    "top": [
-     {
-      "keyword": "buy motorbike in vietnam",
-      "volume": {
-       "vn": 70
-      },
-      "servedBy": "/articles/buying-motorbike-parts-online-vietnam/",
-      "strength": "title"
-     },
-     {
-      "keyword": "buy motorbike vietnam",
-      "volume": {
-       "vn": 70
-      },
-      "servedBy": "/articles/buying-motorbike-parts-online-vietnam/",
-      "strength": "title"
-     },
-     {
-      "keyword": "buying a motorbike in vietnam",
-      "volume": {
-       "vn": 70
-      },
-      "servedBy": "/articles/buying-motorbike-parts-online-vietnam/",
-      "strength": "title"
-     },
-     {
-      "keyword": "vietnam motorbike buy",
-      "volume": {
-       "vn": 70
-      },
-      "servedBy": "/articles/buying-motorbike-parts-online-vietnam/",
-      "strength": "title"
-     }
-    ],
+    "volume": {},
+    "top": [],
     "gaps": []
    },
    "serp": {
-    "questionsServed": 11,
-    "sample": [
-     "Motorbike rental Hanoi",
-     "Where do 70% of motorcycle accidents occur?",
-     "13535 Motorbike Rental Hanoi",
-     "Tuan motorbike rental Hanoi",
-     "Tuan motorbike rental Hanoi",
-     "Motorbike for sale Hanoi"
-    ]
+    "questionsServed": 0,
+    "sample": []
    },
-   "recommendations": [
-    {
-     "cluster": "maintenance",
-     "severity": "P3",
-     "rule": "hub-links-outside-silo",
-     "detail": "5 of 15 start-here links point outside the silo (over 30%)",
-     "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
-     "status": "REVIEW_REQUIRED"
-    }
-   ]
+   "recommendations": []
   },
   {
    "cluster": "parts-gear",
@@ -2937,7 +2888,7 @@
    "serp": {
     "questionsServed": 1,
     "sample": [
-     "Does Grab have a motorcycle?"
+     "Off road motorbike vietnam"
     ]
    },
    "recommendations": [
@@ -3048,31 +2999,16 @@
     ]
    },
    "demand": {
-    "keywords": 1,
+    "keywords": 0,
     "weak": 0,
-    "volume": {
-     "us": 40
-    },
-    "top": [
-     {
-      "keyword": "motorbike across vietnam",
-      "volume": {
-       "us": 40
-      },
-      "servedBy": "/articles/left-turns-across-traffic-motorbike-vietnam/",
-      "strength": "title"
-     }
-    ],
+    "volume": {},
+    "top": [],
     "gaps": []
    },
    "serp": {
-    "questionsServed": 5,
+    "questionsServed": 1,
     "sample": [
-     "Can tourists rent motorcycles in Vietnam?",
-     "Can tourists ride motorbikes in Vietnam?",
-     "Is it safe to ride a motorbike in vietnam without",
-     "Can tourists ride motorcycles in Vietnam?",
-     "Can tourists ride motorcycles in Vietnam?"
+     "Is it safe to ride a motorbike in vietnam without"
     ]
    },
    "recommendations": []
@@ -3161,9 +3097,9 @@
    ],
    "moneyPages": [],
    "keywords": {
-    "owned": 2,
-    "ownedPrimary": 1,
-    "coveredFull": 2,
+    "owned": 5,
+    "ownedPrimary": 2,
+    "coveredFull": 3,
     "list": [
      {
       "keyword": "Mopeds Vietnam",
@@ -3178,16 +3114,36 @@
       "coverage": "full",
       "variant": true,
       "gap": false
+     },
+     {
+      "keyword": "Motorbike licence Vietnam",
+      "owner": "/topics/law-licences/",
+      "coverage": "full",
+      "variant": false,
+      "gap": false
+     },
+     {
+      "keyword": "Vietnam bike licence",
+      "owner": "/topics/law-licences/",
+      "coverage": "partial",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Temporary Vietnamese motorbike licence",
+      "owner": "/topics/law-licences/",
+      "coverage": "partial",
+      "variant": true,
+      "gap": true
      }
     ]
    },
    "demand": {
     "keywords": 11,
-    "weak": 0,
+    "weak": 1,
     "volume": {
-     "us": 1480,
-     "vn": 60,
-     "uk": 10
+     "us": 1500,
+     "vn": 10
     },
     "top": [
      {
@@ -3223,49 +3179,49 @@
       "strength": "owner"
      },
      {
-      "keyword": "50cc motorbike vietnam",
-      "volume": {
-       "vn": 50
-      },
-      "servedBy": "/articles/50cc-licence-vietnam/",
-      "strength": "title"
-     },
-     {
       "keyword": "motorbike licence vietnam",
       "volume": {
        "us": 50
       },
-      "servedBy": "/articles/50cc-licence-vietnam/",
-      "strength": "title"
+      "servedBy": "/topics/law-licences/",
+      "strength": "owner"
      },
      {
       "keyword": "motorbike license vietnam",
       "volume": {
        "us": 50
       },
-      "servedBy": "/articles/50cc-licence-vietnam/",
-      "strength": "title"
+      "servedBy": "/topics/law-licences/",
+      "strength": "owner"
      },
      {
       "keyword": "motorbike vietnam license",
       "volume": {
        "us": 50
       },
-      "servedBy": "/articles/50cc-licence-vietnam/",
-      "strength": "title"
+      "servedBy": "/topics/law-licences/",
+      "strength": "owner"
+     },
+     {
+      "keyword": "vietnam bike license",
+      "volume": {
+       "us": 50
+      },
+      "servedBy": "/topics/law-licences/",
+      "strength": "owner"
      }
     ],
     "gaps": []
    },
    "serp": {
-    "questionsServed": 9,
+    "questionsServed": 21,
     "sample": [
-     "Can tourists rent a motorbike in vietnam without",
+     "How to get a motorbike license in Vietnam?",
+     "Do I need a licence to rent a motorbike in Vietnam?",
+     "Do you need a license to rent a motorbike in Vietnam",
      "Do you need a licence for an electric scooter in Vietnam?",
-     "Can tourists rent a motorbike in Vietnam?",
-     "Can tourists rent a motorbike in Vietnam?",
-     "Can I drive in Vietnam with an international driver's license?",
-     "What is the meaning of an A1, B, B1, B2 driver's license?"
+     "Do I need a licence to rent a motorbike in Vietnam?",
+     "Can tourists ride motorbikes in Vietnam?"
     ]
    },
    "recommendations": [
@@ -3274,22 +3230,6 @@
      "severity": "P3",
      "rule": "keyword-cluster",
      "detail": "/articles/what-is-a-moped-vietnam-law/: mixed intent (3 commercial/transactional, 1 informational): keep one primary intent, let the hub carry the rest",
-     "action": "review in the keyword universe mapping",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "law-licences",
-     "severity": "P3",
-     "rule": "keyword-cluster",
-     "detail": "/articles/what-is-a-moped-vietnam-law/: head terms land on an article: make sure the hub links it in Start here",
-     "action": "review in the keyword universe mapping",
-     "status": "REVIEW_REQUIRED"
-    },
-    {
-     "cluster": "law-licences",
-     "severity": "P3",
-     "rule": "keyword-cluster",
-     "detail": "/articles/50cc-licence-vietnam/: mixed intent (1 commercial/transactional, 3 informational): keep one primary intent, let the hub carry the rest",
      "action": "review in the keyword universe mapping",
      "status": "REVIEW_REQUIRED"
     }
@@ -3392,20 +3332,12 @@
     ]
    },
    "demand": {
-    "keywords": 2,
+    "keywords": 1,
     "weak": 0,
     "volume": {
-     "us": 60
+     "us": 20
     },
     "top": [
-     {
-      "keyword": "motorbike around vietnam",
-      "volume": {
-       "us": 40
-      },
-      "servedBy": "/articles/getting-around-hanoi-without-vietnamese/",
-      "strength": "title"
-     },
      {
       "keyword": "motorbike tours hanoi",
       "volume": {
@@ -3420,7 +3352,7 @@
    "serp": {
     "questionsServed": 1,
     "sample": [
-     "Can foreigners ride motorbikes in Vietnam?"
+     "Can foreigners drive motorbikes in Vietnam?"
     ]
    },
    "recommendations": [
@@ -3538,21 +3470,12 @@
     ]
    },
    "demand": {
-    "keywords": 3,
-    "weak": 1,
+    "keywords": 2,
+    "weak": 0,
     "volume": {
-     "us": 20,
      "vn": 40
     },
     "top": [
-     {
-      "keyword": "laos motorbike loop",
-      "volume": {
-       "us": 20
-      },
-      "servedBy": "/topics/trips/",
-      "strength": "partial"
-     },
      {
       "keyword": "motorbike route vietnam",
       "volume": {
@@ -3575,12 +3498,12 @@
    "serp": {
     "questionsServed": 8,
     "sample": [
-     "ha giang loop motorbike rental near california",
-     "ha giang loop motorbike rental near texas",
      "Ha giang loop motorbike rental price",
      "Ha giang loop motorbike rental reviews",
      "Ha Giang motorbike rental price",
-     "What is the most famous motorbike loop in Vietnam?"
+     "What is the most famous motorbike loop in Vietnam?",
+     "What is the famous motorbike ride in Vietnam?",
+     "Vietnam motorcycle Loop"
     ]
    },
    "recommendations": []
@@ -3667,9 +3590,9 @@
    ],
    "moneyPages": [],
    "keywords": {
-    "owned": 13,
-    "ownedPrimary": 4,
-    "coveredFull": 7,
+    "owned": 20,
+    "ownedPrimary": 5,
+    "coveredFull": 10,
     "list": [
      {
       "keyword": "Renting a motorbike in Vietnam",
@@ -3761,17 +3684,66 @@
       "coverage": "partial",
       "variant": true,
       "gap": false
+     },
+     {
+      "keyword": "Buying a motorbike in Vietnam",
+      "owner": "/articles/buying-motorbike-as-tourist-vietnam/",
+      "coverage": "full",
+      "variant": false,
+      "gap": false
+     },
+     {
+      "keyword": "Vietnam motorbike traffic",
+      "owner": "/articles/vietnam-traffic-culture-riding-overview/",
+      "coverage": "partial",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Vietnam bike",
+      "owner": "/topics/vietnam-travel/",
+      "coverage": "partial",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Travel Vietnam motorbike",
+      "owner": "/topics/vietnam-travel/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Motorbike around Vietnam",
+      "owner": "/topics/vietnam-travel/",
+      "coverage": "partial",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Motorbike across Vietnam",
+      "owner": "/articles/hanoi-to-ho-chi-minh-city-by-motorbike/",
+      "coverage": "partial",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Motorbike rental Hanoi to Ho Chi Minh",
+      "owner": "/articles/one-way-motorbike-rental-vietnam/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
      }
     ]
    },
    "demand": {
-    "keywords": 37,
-    "weak": 1,
+    "keywords": 42,
+    "weak": 0,
     "volume": {
-     "vn": 40610,
-     "us": 10040,
+     "vn": 40010,
+     "us": 8330,
      "au": 730,
-     "uk": 330
+     "uk": 340
     },
     "top": [
      {
@@ -3844,7 +3816,7 @@
     "gaps": []
    },
    "serp": {
-    "questionsServed": 31,
+    "questionsServed": 32,
     "sample": [
      "Vietnam scooter rental Ho Chi Minh",
      "Vietnam motorbike rental one way",
@@ -3854,16 +3826,7 @@
      "Ha Giang Loop tour"
     ]
    },
-   "recommendations": [
-    {
-     "cluster": "vietnam-travel",
-     "severity": "P3",
-     "rule": "keyword-cluster",
-     "detail": "/articles/hanoi-to-ho-chi-minh-city-by-motorbike/: mixed intent (3 commercial/transactional, 2 informational): keep one primary intent, let the hub carry the rest",
-     "action": "review in the keyword universe mapping",
-     "status": "REVIEW_REQUIRED"
-    }
-   ]
+   "recommendations": []
   }
  ],
  "crossSiloEdges": [
@@ -4366,30 +4329,29 @@
     "motorbiking in vietnam",
     "motorcycles vietnam",
     "vietnam motorbike",
-    "vietnamese motorbikes",
-    "vietnamese motorcycle",
-    "motorbikes in vietnam",
     "vietnam motorcycles",
     "motorcycle rental in vietnam",
     "motorcycle rental vietnam",
     "rent a motorcycle vietnam",
     "vietnam on a motorbike",
+    "vietnam bike",
     "motorbike hire vietnam",
     "vietnam motorbike hire",
-    "motorbikes ho chi minh"
+    "travel vietnam motorbike",
+    "motorbike around vietnam"
    ],
    "volume": {
-    "vn": 40520,
-    "us": 9990,
-    "au": 710,
+    "vn": 39710,
+    "us": 8240,
+    "au": 660,
     "uk": 320
    },
    "intents": {
-    "transactional": 16,
+    "transactional": 15,
     "informational": 9,
     "commercial": 3
    },
-   "weak": 1,
+   "weak": 0,
    "flags": []
   },
   {
@@ -4455,6 +4417,35 @@
    "flags": []
   },
   {
+   "url": "/topics/motorcycles/",
+   "type": "hub",
+   "cluster": "motorcycles",
+   "keywords": [
+    "vietnamese motorbikes",
+    "vietnamese motorcycle",
+    "motorbikes in vietnam",
+    "honda motorbike vietnam",
+    "honda bike vietnam",
+    "honda bikes in vietnam",
+    "honda motorcycles in vietnam",
+    "suzuki motorbike vietnam",
+    "yamaha motorbike vietnam"
+   ],
+   "volume": {
+    "us": 2420,
+    "vn": 1250,
+    "au": 10
+   },
+   "intents": {
+    "transactional": 5,
+    "informational": 1,
+    "navigational": 1,
+    "commercial": 2
+   },
+   "weak": 1,
+   "flags": []
+  },
+  {
    "url": "/articles/what-is-a-moped-vietnam-law/",
    "type": "article",
    "cluster": "law-licences",
@@ -4473,36 +4464,13 @@
    },
    "weak": 0,
    "flags": [
-    "mixed intent (3 commercial/transactional, 1 informational): keep one primary intent, let the hub carry the rest",
-    "head terms land on an article: make sure the hub links it in Start here"
+    "mixed intent (3 commercial/transactional, 1 informational): keep one primary intent, let the hub carry the rest"
    ]
   },
   {
-   "url": "/topics/motorcycles/",
-   "type": "hub",
-   "cluster": "motorcycles",
-   "keywords": [
-    "honda motorbike vietnam",
-    "honda bike vietnam",
-    "honda bikes in vietnam",
-    "honda motorcycles in vietnam"
-   ],
-   "volume": {
-    "vn": 320,
-    "us": 420
-   },
-   "intents": {
-    "transactional": 1,
-    "navigational": 1,
-    "commercial": 2
-   },
-   "weak": 0,
-   "flags": []
-  },
-  {
-   "url": "/articles/buying-motorbike-parts-online-vietnam/",
+   "url": "/articles/buying-motorbike-as-tourist-vietnam/",
    "type": "article",
-   "cluster": "maintenance",
+   "cluster": "vietnam-travel",
    "keywords": [
     "buy motorbike in vietnam",
     "buy motorbike vietnam",
@@ -4519,47 +4487,31 @@
    "flags": []
   },
   {
-   "url": "/articles/dat-bike-lineup-vietnam-guide/",
-   "type": "article",
-   "cluster": "electric",
+   "url": "/topics/law-licences/",
+   "type": "hub",
+   "cluster": "law-licences",
    "keywords": [
-    "vietnam bike"
+    "motorbike licence vietnam",
+    "motorbike license vietnam",
+    "motorbike vietnam license",
+    "vietnam bike license",
+    "temporary vietnamese motorcycle licence",
+    "vietnam motorbike laws",
+    "vietnam motorbike license reddit"
    ],
    "volume": {
-    "us": 210
+    "us": 220,
+    "vn": 10
    },
    "intents": {
-    "transactional": 1
+    "informational": 7
    },
-   "weak": 0,
+   "weak": 1,
    "flags": []
   },
   {
-   "url": "/articles/50cc-licence-vietnam/",
-   "type": "article",
-   "cluster": "law-licences",
-   "keywords": [
-    "50cc motorbike vietnam",
-    "motorbike licence vietnam",
-    "motorbike license vietnam",
-    "motorbike vietnam license"
-   ],
-   "volume": {
-    "vn": 50,
-    "us": 150
-   },
-   "intents": {
-    "transactional": 1,
-    "informational": 3
-   },
-   "weak": 0,
-   "flags": [
-    "mixed intent (1 commercial/transactional, 3 informational): keep one primary intent, let the hub carry the rest"
-   ]
-  },
-  {
-   "url": "/articles/electric-motorbike-theft-security-vietnam/",
-   "type": "article",
+   "url": "/topics/electric/",
+   "type": "hub",
    "cluster": "electric",
    "keywords": [
     "electric motorbike vietnam"
@@ -4574,56 +4526,7 @@
    "flags": []
   },
   {
-   "url": "/articles/motorbike-travel-insurance-vietnam/",
-   "type": "article",
-   "cluster": "vietnam-travel",
-   "keywords": [
-    "travel vietnam motorbike"
-   ],
-   "volume": {
-    "vn": 70
-   },
-   "intents": {
-    "commercial": 1
-   },
-   "weak": 0,
-   "flags": []
-  },
-  {
-   "url": "/articles/cheapest-electric-motorbikes-vietnam-list-prices/",
-   "type": "article",
-   "cluster": "electric",
-   "keywords": [
-    "motorbike vietnam price",
-    "electric motorbike vietnam price"
-   ],
-   "volume": {
-    "vn": 60
-   },
-   "intents": {
-    "commercial": 2
-   },
-   "weak": 0,
-   "flags": []
-  },
-  {
-   "url": "/articles/electric-bike-licence-vietnam/",
-   "type": "article",
-   "cluster": "law-licences",
-   "keywords": [
-    "vietnam bike license"
-   ],
-   "volume": {
-    "us": 50
-   },
-   "intents": {
-    "informational": 1
-   },
-   "weak": 0,
-   "flags": []
-  },
-  {
-   "url": "/articles/honda-blade-vs-honda-ct125/",
+   "url": "/articles/honda-ct125-review/",
    "type": "article",
    "cluster": "motorcycles",
    "keywords": [
@@ -4635,63 +4538,118 @@
    "intents": {
     "transactional": 1
    },
-   "weak": 1,
-   "flags": [
-    "served only by partial matches: the page does not name these keywords"
-   ]
+   "weak": 0,
+   "flags": []
+  },
+  {
+   "url": "/articles/motorbike-rental-price-hanoi/",
+   "type": "article",
+   "cluster": "rental",
+   "keywords": [
+    "hanoi motorbike rental cost",
+    "cheap motorbike rental hanoi",
+    "motorbike rental hanoi price",
+    "scooter rental vietnam price",
+    "vietnam scooter rental price"
+   ],
+   "volume": {
+    "vn": 50,
+    "us": 50
+   },
+   "intents": {
+    "commercial": 3,
+    "transactional": 2
+   },
+   "weak": 0,
+   "flags": []
+  },
+  {
+   "url": "/articles/new-scooter-prices-vietnam-verified/",
+   "type": "article",
+   "cluster": "scooters",
+   "keywords": [
+    "motorbike vietnam price"
+   ],
+   "volume": {
+    "vn": 50
+   },
+   "intents": {
+    "commercial": 1
+   },
+   "weak": 0,
+   "flags": []
+  },
+  {
+   "url": "/articles/one-way-motorbike-rental-vietnam/",
+   "type": "article",
+   "cluster": "vietnam-travel",
+   "keywords": [
+    "hanoi to ho chi minh motorbike rental",
+    "motorbike rental hanoi to ho chi minh",
+    "motorbike rental ho chi minh to hanoi",
+    "one way scooter rental vietnam",
+    "vietnam scooter rental one way"
+   ],
+   "volume": {
+    "us": 50,
+    "vn": 20
+   },
+   "intents": {
+    "transactional": 5
+   },
+   "weak": 0,
+   "flags": []
+  },
+  {
+   "url": "/articles/renting-motorbike-ho-chi-minh-city/",
+   "type": "article",
+   "cluster": "vietnam-travel",
+   "keywords": [
+    "motorbikes ho chi minh"
+   ],
+   "volume": {
+    "au": 50
+   },
+   "intents": {
+    "commercial": 1
+   },
+   "weak": 0,
+   "flags": []
   },
   {
    "url": "/topics/50cc/",
    "type": "hub",
    "cluster": "50cc",
    "keywords": [
-    "suzuki motorbike vietnam",
-    "50cc scooter rental vietnam",
-    "temporary vietnamese motorcycle licence",
-    "vietnam motorbike license reddit",
-    "vinfast motorbike vietnam",
-    "yamaha motorbike vietnam"
+    "50cc motorbike vietnam",
+    "50cc scooter rental vietnam"
    ],
    "volume": {
     "vn": 50,
-    "us": 40,
-    "au": 10
+    "us": 10
    },
    "intents": {
-    "transactional": 3,
-    "informational": 3
-   },
-   "weak": 5,
-   "flags": []
-  },
-  {
-   "url": "/articles/getting-around-hanoi-without-vietnamese/",
-   "type": "article",
-   "cluster": "hanoi",
-   "keywords": [
-    "motorbike around vietnam"
-   ],
-   "volume": {
-    "us": 40
-   },
-   "intents": {
-    "informational": 1
+    "transactional": 2
    },
    "weak": 0,
    "flags": []
   },
   {
-   "url": "/articles/left-turns-across-traffic-motorbike-vietnam/",
+   "url": "/articles/hanoi-to-ho-chi-minh-city-by-motorbike/",
    "type": "article",
-   "cluster": "safety",
+   "cluster": "vietnam-travel",
    "keywords": [
-    "motorbike across vietnam"
+    "motorbike across vietnam",
+    "motorbike from hanoi to ho chi minh",
+    "saigon to hanoi motorbike"
    ],
    "volume": {
-    "us": 40
+    "us": 40,
+    "uk": 10,
+    "au": 10
    },
    "intents": {
-    "informational": 1
+    "informational": 3
    },
    "weak": 0,
    "flags": []
@@ -4701,22 +4659,20 @@
    "type": "hub",
    "cluster": "trips",
    "keywords": [
-    "laos motorbike loop",
     "motorbike route vietnam",
     "motorbike routes vietnam"
    ],
    "volume": {
-    "us": 20,
     "vn": 40
    },
    "intents": {
-    "informational": 3
+    "informational": 2
    },
-   "weak": 1,
+   "weak": 0,
    "flags": []
   },
   {
-   "url": "/articles/16-inch-wheel-scooters-vietnam/",
+   "url": "/articles/honda-air-blade-125-review/",
    "type": "article",
    "cluster": "scooters",
    "keywords": [
@@ -4728,72 +4684,7 @@
    "intents": {
     "transactional": 1
    },
-   "weak": 1,
-   "flags": [
-    "served only by partial matches: the page does not name these keywords"
-   ]
-  },
-  {
-   "url": "/articles/hanoi-to-ho-chi-minh-city-by-motorbike/",
-   "type": "article",
-   "cluster": "vietnam-travel",
-   "keywords": [
-    "hanoi to ho chi minh motorbike rental",
-    "motorbike from hanoi to ho chi minh",
-    "motorbike rental hanoi to ho chi minh",
-    "motorbike rental ho chi minh to hanoi",
-    "saigon to hanoi motorbike"
-   ],
-   "volume": {
-    "us": 30,
-    "uk": 10,
-    "vn": 20,
-    "au": 10
-   },
-   "intents": {
-    "transactional": 3,
-    "informational": 2
-   },
    "weak": 0,
-   "flags": [
-    "mixed intent (3 commercial/transactional, 2 informational): keep one primary intent, let the hub carry the rest"
-   ]
-  },
-  {
-   "url": "/articles/motorbike-rental-budget-monthly-hanoi/",
-   "type": "article",
-   "cluster": "monthly-rental",
-   "keywords": [
-    "hanoi motorbike rental cost"
-   ],
-   "volume": {
-    "vn": 30,
-    "us": 10
-   },
-   "intents": {
-    "commercial": 1
-   },
-   "weak": 0,
-   "flags": []
-  },
-  {
-   "url": "/articles/motorbike-rental-price-hanoi/",
-   "type": "article",
-   "cluster": "rental",
-   "keywords": [
-    "cheap motorbike rental hanoi",
-    "scooter rental vietnam price",
-    "vietnam scooter rental price"
-   ],
-   "volume": {
-    "vn": 10,
-    "us": 30
-   },
-   "intents": {
-    "transactional": 1,
-    "commercial": 2
-   },
-   "weak": 2,
    "flags": []
   },
   {
@@ -4808,23 +4699,6 @@
    },
    "intents": {
     "commercial": 1
-   },
-   "weak": 0,
-   "flags": []
-  },
-  {
-   "url": "/articles/one-way-motorbike-rental-vietnam/",
-   "type": "article",
-   "cluster": "vietnam-travel",
-   "keywords": [
-    "one way scooter rental vietnam",
-    "vietnam scooter rental one way"
-   ],
-   "volume": {
-    "us": 20
-   },
-   "intents": {
-    "transactional": 2
    },
    "weak": 0,
    "flags": []
@@ -4865,22 +4739,20 @@
    "flags": []
   },
   {
-   "url": "/articles/can-foreigners-rent-electric-bike-vietnam/",
+   "url": "/articles/cheapest-electric-motorbikes-vietnam-list-prices/",
    "type": "article",
    "cluster": "electric",
    "keywords": [
-    "honda electric bike vietnam"
+    "electric motorbike vietnam price"
    ],
    "volume": {
     "vn": 10
    },
    "intents": {
-    "transactional": 1
+    "commercial": 1
    },
-   "weak": 1,
-   "flags": [
-    "served only by partial matches: the page does not name these keywords"
-   ]
+   "weak": 0,
+   "flags": []
   },
   {
    "url": "/articles/ho-chi-minh-highway-motorbike-guide/",
@@ -4894,23 +4766,6 @@
    },
    "intents": {
     "informational": 1
-   },
-   "weak": 0,
-   "flags": []
-  },
-  {
-   "url": "/articles/motorbike-rental-monthly-price-hanoi/",
-   "type": "article",
-   "cluster": "monthly-rental",
-   "keywords": [
-    "motorbike rental hanoi price"
-   ],
-   "volume": {
-    "vn": 10,
-    "us": 10
-   },
-   "intents": {
-    "transactional": 1
    },
    "weak": 0,
    "flags": []
@@ -4932,9 +4787,25 @@
    "flags": []
   },
   {
-   "url": "/articles/traffic-light-rules-vietnam/",
+   "url": "/articles/vietnam-electric-two-wheeler-market-overview/",
    "type": "article",
-   "cluster": "law-licences",
+   "cluster": "electric",
+   "keywords": [
+    "honda electric bike vietnam"
+   ],
+   "volume": {
+    "vn": 10
+   },
+   "intents": {
+    "transactional": 1
+   },
+   "weak": 0,
+   "flags": []
+  },
+  {
+   "url": "/articles/vietnam-traffic-culture-riding-overview/",
+   "type": "article",
+   "cluster": "vietnam-travel",
    "keywords": [
     "vietnam motorbike traffic"
    ],
@@ -4948,14 +4819,14 @@
    "flags": []
   },
   {
-   "url": "/topics/law-licences/",
-   "type": "hub",
-   "cluster": "law-licences",
+   "url": "/articles/vinfast-electric-scooter-lineup-vietnam/",
+   "type": "article",
+   "cluster": "electric",
    "keywords": [
-    "vietnam motorbike laws"
+    "vinfast motorbike vietnam"
    ],
    "volume": {
-    "vn": 10
+    "us": 10
    },
    "intents": {
     "informational": 1
@@ -4965,12 +4836,42 @@
   }
  ],
  "splitFamilies": [],
+ "serpVerifiedSplits": [
+  {
+   "family": "motorbike vietnam",
+   "urls": [
+    "/topics/motorcycles/",
+    "/topics/vietnam-travel/"
+   ],
+   "keywords": [
+    "motorbike vietnam",
+    "motorbikes in vietnam",
+    "motorcycles vietnam",
+    "vietnam motorbike",
+    "vietnam motorcycles",
+    "vietnam on a motorbike",
+    "vietnamese motorbikes",
+    "vietnamese motorcycle"
+   ],
+   "serpCheck": {
+    "pairs": [
+     {
+      "a": "vietnamese motorbikes",
+      "b": "motorbike vietnam",
+      "shared": 0,
+      "of": 7
+     }
+    ],
+    "distinct": true
+   }
+  }
+ ],
  "recommendations": [
   {
    "cluster": "(site)",
    "severity": "P3",
    "rule": "serp-gap",
-   "detail": "7 recorded People-also-ask / related-search question(s) have no serving URL: \"What are some new electric bike brands?\", \"How much does an electric bike usually cost?\", \"What bike was called the widowmaker?\", \"What is the #1 cause of death in Vietnam?\", \"Is $1000 enough for 2 weeks in Vietnam?\", \"What is the 12 second rule for motorcycles?\", \"What does 2 fingers down mean to bikers?\"",
+   "detail": "20 recorded People-also-ask / related-search question(s) have no serving URL: \"What are some new electric bike brands?\", \"Can you rent to own an ebike?\", \"How much does an electric bike usually cost?\", \"What bike was called the widowmaker?\", \"Does Grab have a motorcycle?\", \"What is the #1 cause of death in Vietnam?\", \"Is $1000 enough for 2 weeks in Vietnam?\", \"Where do 70% of motorcycle accidents occur?\", \"Is $1000 enough for 2 weeks in Vietnam?\", \"What is the #1 cause of death in Vietnam?\", \"Mopeds vietnam price\", \"Used mopeds vietnam\", \"Is $1000 enough for 2 weeks in Vietnam?\", \"Vietnam motorcycle Tours 2026\", \"What is the 12 second rule for motorcycles?\", \"What does 2 fingers down mean to bikers?\", \"Vietnam motorcycle Tours 2026\", \"Vietnam motorcycle Tours price\", \"What are the most reliable motorbike brands?\", \"What are the major motorcycle brands in Vietnam?\"",
    "action": "answer only where an owner-approved or verified fact exists; off-topic questions stay unanswered",
    "status": "REVIEW_REQUIRED"
   },
@@ -4980,14 +4881,6 @@
    "rule": "silo-leak",
    "detail": "only 41% of in-body links from this silo stay inside it",
    "action": "review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "electric",
-   "severity": "P3",
-   "rule": "keyword-cluster",
-   "detail": "/articles/can-foreigners-rent-electric-bike-vietnam/: served only by partial matches: the page does not name these keywords",
-   "action": "review in the keyword universe mapping",
    "status": "REVIEW_REQUIRED"
   },
   {
@@ -5002,32 +4895,8 @@
    "cluster": "law-licences",
    "severity": "P3",
    "rule": "keyword-cluster",
-   "detail": "/articles/50cc-licence-vietnam/: mixed intent (1 commercial/transactional, 3 informational): keep one primary intent, let the hub carry the rest",
-   "action": "review in the keyword universe mapping",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "law-licences",
-   "severity": "P3",
-   "rule": "keyword-cluster",
-   "detail": "/articles/what-is-a-moped-vietnam-law/: head terms land on an article: make sure the hub links it in Start here",
-   "action": "review in the keyword universe mapping",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "law-licences",
-   "severity": "P3",
-   "rule": "keyword-cluster",
    "detail": "/articles/what-is-a-moped-vietnam-law/: mixed intent (3 commercial/transactional, 1 informational): keep one primary intent, let the hub carry the rest",
    "action": "review in the keyword universe mapping",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "maintenance",
-   "severity": "P3",
-   "rule": "hub-links-outside-silo",
-   "detail": "5 of 15 start-here links point outside the silo (over 30%)",
-   "action": "keep most start-here links inside the silo; cross-silo pointers belong in the body copy",
    "status": "REVIEW_REQUIRED"
   },
   {
@@ -5039,35 +4908,11 @@
    "status": "REVIEW_REQUIRED"
   },
   {
-   "cluster": "motorcycles",
-   "severity": "P3",
-   "rule": "keyword-cluster",
-   "detail": "/articles/honda-blade-vs-honda-ct125/: served only by partial matches: the page does not name these keywords",
-   "action": "review in the keyword universe mapping",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
    "cluster": "parts-gear",
    "severity": "P3",
    "rule": "silo-leak",
    "detail": "only 36% of in-body links from this silo stay inside it",
    "action": "review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "scooters",
-   "severity": "P3",
-   "rule": "keyword-cluster",
-   "detail": "/articles/16-inch-wheel-scooters-vietnam/: served only by partial matches: the page does not name these keywords",
-   "action": "review in the keyword universe mapping",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "vietnam-travel",
-   "severity": "P3",
-   "rule": "keyword-cluster",
-   "detail": "/articles/hanoi-to-ho-chi-minh-city-by-motorbike/: mixed intent (3 commercial/transactional, 2 informational): keep one primary intent, let the hub carry the rest",
-   "action": "review in the keyword universe mapping",
    "status": "REVIEW_REQUIRED"
   }
  ]
