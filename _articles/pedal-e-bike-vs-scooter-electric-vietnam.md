@@ -36,7 +36,7 @@ Scooter-style electrics keep your feet on a deck, carry bigger batteries and rea
 
 | | Pedal e-bike | Scooter-style electric |
 |---|---|---|
-| Licence | never | only above 4 kW |
+| Licence | never | above 4 kW, or above a 50 km/h design speed |
 | Typical speed | 25 km/h cut-off | 50-90 km/h |
 | Range | short trips | up to 165 km (two-battery models, standard conditions) |
 | Carrying | limited | underseat storage |

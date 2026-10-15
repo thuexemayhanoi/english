@@ -1452,7 +1452,7 @@
  {
   "date": "2026-10-15",
   "batch": "matrix-queue-4",
-  "note": "Filling the matrix gaps from primary sources, inside existing URLs only. (a) Licence-class correction: 22 electric articles, the VinFast line-up table, two hub FAQ answers and docs/MODEL-DATABASE.md treated the 70 km/h VinFast Evo, Feliz II and Viper as licence-free because they are under 4 kW. Article 34(1)(g) of Law 36/2024/QH15, as the VERIFIED law articles record, defines the moped by both limits (4 kW or less AND a design speed of no more than 50 km/h), and VinFast's own release says only the speed-limited Evo Lite needs no licence; every statement now gives A1 for the 70 km/h models and keeps the Evo Lite and Amio licence-free. (b) Verified rows from the manufacturers' official Vietnamese pages (retrieved 2026-10-15): Honda ICON e:, CUV e:, UC3; Yamaha NEO's; Suzuki Satria and V-Strom 250SX; served in the electric market overview, the Honda and Yamaha line-up guides and the motorcycles pillar (with SYM and Piaggio named as official Vietnamese sellers without unverified figures). (c) Seven new SERP snapshots (OpenRush, US) for helmet law, traffic fines, buying as a tourist, semi-automatics, repair shops, parking and long-term rental; the questions they raised are mapped to the VERIFIED pages that already answer them (IDP and 1968 Convention guides, police stops, the used 50cc checklist, the tourist buying guide), the law hub FAQ now names foreigners as well as tourists, and drive/ride share one stem in the resolver. No new article; no business fact, rental price or policy changed.",
+  "note": "Filling the matrix gaps from primary sources, inside existing URLs only. (a) Licence-class correction: 22 electric articles, the VinFast line-up table, two hub FAQ answers and docs/MODEL-DATABASE.md treated the 70 km/h VinFast Evo, Feliz II and Viper as licence-free because they are under 4 kW. Article 34(1)(g) of Law 36/2024/QH15, as the VERIFIED law articles record, defines the moped by both limits (4 kW or less AND a design speed of no more than 50 km/h), and VinFast's own release says only the speed-limited Evo Lite needs no licence; every statement now gives A1 for the 70 km/h models and keeps the Evo Lite and Amio licence-free. (b) Verified rows from the manufacturers' official Vietnamese pages (retrieved 2026-10-15): Honda ICON e:, CUV e:, UC3; Yamaha NEO's; Suzuki Satria and V-Strom 250SX; served in the electric market overview, the Honda and Yamaha line-up guides and the motorcycles pillar (with SYM and Piaggio named as official Vietnamese sellers without unverified figures). (c) Seven new SERP snapshots (OpenRush, US) for helmet law, traffic fines, buying as a tourist, semi-automatics, repair shops, parking and long-term rental; the questions they raised are mapped to the VERIFIED pages that already answer them (IDP and 1968 Convention guides, police stops, the used 50cc checklist, the tourist buying guide), the law hub FAQ now names foreigners as well as tourists, and drive/ride share one stem in the resolver. No new article; no business fact, rental price or policy changed. (d) A follow-up sweep of every \"4 kW\" licence statement added the 50 km/h design-speed condition where it was missing (9 more sentences: the e-bike vs scooter table, the rental-requirements FAQ, the myths, passenger, Dat Bike, Yadea, 50 km/h-cap and foreigners-on-50cc guides, the car-licence guide) and the electric licence answer in _data/faq.json.",
   "urls": [
    "/articles/50cc-vs-e-bike-vietnam/",
    "/articles/buying-first-electric-motorbike-vietnam/",
@@ -1483,11 +1483,19 @@
    "/articles/yamaha-scooter-lineup-vietnam-explained/",
    "/topics/electric/",
    "/topics/law-licences/",
-   "/topics/motorcycles/"
+   "/topics/motorcycles/",
+   "/articles/electric-bike-law-myths-vietnam/",
+   "/articles/riding-electric-motorbike-with-passenger/",
+   "/articles/dat-bike-lineup-vietnam-guide/",
+   "/articles/why-electric-mopeds-capped-50kmh-vietnam/",
+   "/articles/yadea-vietnam-lineup-guide/",
+   "/articles/pedal-e-bike-vs-scooter-electric-vietnam/",
+   "/articles/can-foreigners-ride-50cc-vietnam/",
+   "/articles/motorbike-rental-requirements-hanoi/"
   ],
   "counts": {
-   "licenceStatementsCorrected": 49,
-   "articlesCorrected": 25,
+   "licenceStatementsCorrected": 59,
+   "articlesCorrected": 35,
    "modelRowsAdded": 6,
    "serpSnapshotsAdded": 7,
    "contentGapsBefore": 34,

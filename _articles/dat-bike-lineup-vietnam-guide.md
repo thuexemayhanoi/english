@@ -33,7 +33,7 @@ Dat Bike builds the A1-licence end of Vietnam's electric market: machines above 
 | Weaver 200 | 6,000 W hub | 90 km/h | 200 km at 35 km/h; 130 km at 70 km/h | 1 h for first 100 km; 3 h full | A1 |
 | Weaver++ | mid-motor | 90 km/h (33% higher acceleration than Weaver 200) | 200 km | 100 km in 20 min at Dat Charge | A1 |
 
-All three are A1-class machines under Article 57 of Law 36/2024/QH15 (above 4 kW, within the 11 kW A1 band) — licence-free riding ends at 4 kW, and nothing in this line-up pretends otherwise.
+All three are A1-class machines under Article 57 of Law 36/2024/QH15 (above 4 kW, within the 11 kW A1 band) — licence-free riding ends at 4 kW (and at a 50 km/h design speed), and nothing in this line-up pretends otherwise.
 
 ## What each machine is for
 

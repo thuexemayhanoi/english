@@ -10008,8 +10008,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; descriptive guide references resolved into contextual links (scripts/link-guide-references.js); descriptive guide references resolved into contextual links, pass 2 (reviewed override map + same-cluster fallback; scripts/link-guide-references.js)",
-   "evidence": "title_len=61; desc_len=160 || words=352; h2=4; tables=0; sources=3; body_links=3 || related_out=5; related_in=3; body_in=3 || plan MM-0678 (general-research): Foreigner-specific 50cc answer; tourists article covers full licence routes generally || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)",
+   "evidence": "title_len=61; desc_len=160 || words=359; h2=4; tables=0; sources=3; body_links=3 || related_out=5; related_in=3; body_in=3 || plan MM-0678 (general-research): Foreigner-specific 50cc answer; tourists article covers full licence routes generally || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -10059,8 +10059,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
-   "evidence": "title_len=65; desc_len=143 || words=413; h2=4; tables=0; sources=2; body_links=3 || related_out=5; related_in=3; body_in=0 || plan MM-0790 (general-research): Electric-classes answer to the car-licence question; the 125cc article covers petrol classes || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)",
+   "evidence": "title_len=65; desc_len=143 || words=421; h2=4; tables=0; sources=2; body_links=3 || related_out=5; related_in=3; body_in=0 || plan MM-0790 (general-research): Electric-classes answer to the car-licence question; the 125cc article covers petrol classes || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -10994,8 +10994,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - descriptive guide references resolved into contextual links, pass 2 (reviewed override map + same-cluster fallback; scripts/link-guide-references.js)",
-   "evidence": "title_len=59; desc_len=152 || words=396; h2=4; tables=1; sources=4; body_links=1 || related_out=5; related_in=4; body_in=2 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)",
+   "evidence": "title_len=59; desc_len=152 || words=403; h2=4; tables=1; sources=4; body_links=1 || related_out=5; related_in=4; body_in=2 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -11572,8 +11572,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - descriptive guide references resolved into contextual links (scripts/link-guide-references.js)",
-   "evidence": "title_len=57; desc_len=160 || words=318; h2=6; tables=0; sources=1; body_links=1 || related_out=5; related_in=2; body_in=0 || plan MM-0715 (general-research): Myth-correction article for electric; the 50cc myths article covers petrol moped myths || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)",
+   "evidence": "title_len=57; desc_len=160 || words=329; h2=6; tables=0; sources=1; body_links=1 || related_out=5; related_in=2; body_in=0 || plan MM-0715 (general-research): Myth-correction article for electric; the 50cc myths article covers petrol moped myths || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -17862,7 +17862,7 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - batch 1: title 67->63 chars, description tightened, legal/document links; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
+   "status": "OPTIMIZED 2026-10-15 - licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)",
    "evidence": "title_len=63; desc_len=163 || words=373; h2=4; tables=0; sources=1; body_links=9 || related_out=5; related_in=5; body_in=5 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
@@ -18661,8 +18661,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=49; desc_len=157 || words=304; h2=4; tables=1; sources=3; body_links=2 || related_out=4; related_in=4; body_in=3 || plan MM-0707 (general-research): Body-format comparison; the 50cc article compares petrol vs electric, this compares two electric formats || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)",
+   "evidence": "title_len=49; desc_len=157 || words=310; h2=4; tables=1; sources=3; body_links=2 || related_out=4; related_in=4; body_in=3 || plan MM-0707 (general-research): Body-format comparison; the 50cc article compares petrol vs electric, this compares two electric formats || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -20069,11 +20069,11 @@
    "content_quality": "adequate (3/7)",
    "cannibalization": "none detected",
    "internal_links": "out: 3 body + 4 related cards; in: 2 related + 0 body + hub listing",
-   "seo_issues": "short body (267 words)",
+   "seo_issues": "short body (277 words)",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=46; desc_len=153 || words=267; h2=4; tables=0; sources=3; body_links=3 || related_out=4; related_in=2; body_in=0 || plan MM-0722 (general-research): Electric-specific passenger guide (load, regen, torque); general passenger safety is covered separately || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)",
+   "evidence": "title_len=46; desc_len=153 || words=277; h2=4; tables=0; sources=3; body_links=3 || related_out=4; related_in=2; body_in=0 || plan MM-0722 (general-research): Electric-specific passenger guide (load, regen, torque); general passenger safety is covered separately || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -23795,8 +23795,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=53; desc_len=155 || words=331; h2=4; tables=0; sources=2; body_links=2 || related_out=5; related_in=8; body_in=3 || plan MM-0712 (general-research): Explains the design-speed rule as product-category logic; the moped-vs-motorcycle article covers the boundary practically || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)",
+   "evidence": "title_len=53; desc_len=155 || words=340; h2=4; tables=0; sources=2; body_links=2 || related_out=5; related_in=8; body_in=3 || plan MM-0712 (general-research): Explains the design-speed rule as product-category logic; the moped-vs-motorcycle article covers the boundary practically || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -23914,8 +23914,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - descriptive guide references resolved into contextual links (scripts/link-guide-references.js)",
-   "evidence": "title_len=55; desc_len=153 || words=304; h2=4; tables=1; sources=1; body_links=1 || related_out=4; related_in=2; body_in=1 || plan MM-0744 (general-research): Brand line-up guide with official listed prices; single-model reviews exist for VinFast/Dat Bike, no Yadea spec data was readable so no invented specs || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)",
+   "evidence": "title_len=55; desc_len=153 || words=311; h2=4; tables=1; sources=1; body_links=1 || related_out=4; related_in=2; body_in=1 || plan MM-0744 (general-research): Brand line-up guide with official listed prices; single-model reviews exist for VinFast/Dat Bike, no Yadea spec data was readable so no invented specs || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {

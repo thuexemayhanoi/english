@@ -117,8 +117,8 @@
  },
  "/articles/motorbike-rental-requirements-hanoi/": {
   "status": "OPTIMIZED",
-  "date": "2026-10-14",
-  "note": "batch 1: title 67->63 chars, description tightened, legal/document links; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)"
+  "date": "2026-10-15",
+  "note": "licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)"
  },
  "/articles/can-foreigners-rent-a-motorbike-hanoi/": {
   "status": "OPTIMIZED",
@@ -923,7 +923,7 @@
  "/articles/can-you-ride-electric-motorbike-with-car-licence-vietnam/": {
   "status": "OPTIMIZED",
   "date": "2026-10-15",
-  "note": "licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)"
+  "note": "licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)"
  },
  "/articles/dat-bike-weaver-200-vs-vinfast-feliz-2/": {
   "status": "OPTIMIZED",
@@ -989,5 +989,40 @@
   "status": "OPTIMIZED",
   "date": "2026-10-15",
   "note": "licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)"
+ },
+ "/articles/electric-bike-law-myths-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)"
+ },
+ "/articles/riding-electric-motorbike-with-passenger/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)"
+ },
+ "/articles/dat-bike-lineup-vietnam-guide/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)"
+ },
+ "/articles/why-electric-mopeds-capped-50kmh-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)"
+ },
+ "/articles/yadea-vietnam-lineup-guide/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)"
+ },
+ "/articles/pedal-e-bike-vs-scooter-electric-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)"
+ },
+ "/articles/can-foreigners-ride-50cc-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)"
  }
 }

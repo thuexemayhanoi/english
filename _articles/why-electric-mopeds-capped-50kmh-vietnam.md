@@ -38,7 +38,7 @@ VinFast sells the Evo in two versions that prove the point: the standard Evo rea
 
 - Buying unlicensed? The spec sheet must show 4 kW or less and a sub-50 km/h design speed.
 - The cap interacts with power: many sub-4 kW scooters could physically exceed 50 km/h, so the design speed is what is certified.
-- Above the cap you are in motorcycle territory: A1 licence for above 4 kW to 11 kW, A above that.
+- Above the cap you are in motorcycle territory: an A1 licence up to 11 kW, even for a machine under 4 kW, and an A licence above 11 kW.
 
 ## A note on riding at the cap
 

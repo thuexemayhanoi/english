@@ -44,4 +44,4 @@ The manufacturer's payload figure is the binding one. The Dat Bike Weaver 200, f
 
 ## Licence note
 
-The class does not change with a passenger, but power does set who may ride at all — above 4 kW an A1 licence is required. If your passenger is 15, remember the sub-4 kW class still requires riders, not passengers, to be 16.
+The class does not change with a passenger, but power and design speed do set who may ride at all — above 4 kW, or above a 50 km/h design speed, an A1 licence is required. If your passenger is 15, remember the sub-4 kW class still requires riders, not passengers, to be 16.

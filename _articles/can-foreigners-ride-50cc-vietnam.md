@@ -27,7 +27,7 @@ The licence-free moped rule applies to everyone on Vietnamese territory, foreign
 
 ## The legal position
 
-A moped of 50cc or less (or an electric moped up to 4 kW) requires no driving licence; the rider must be at least 16, understand traffic rules and have basic handling skills, wear a standard-compliant helmet, and follow every traffic rule. Foreign nationality changes nothing here — the exemption and the duties are the same.
+A moped of 50cc or less (or an electric moped up to 4 kW), designed for no more than 50 km/h, requires no driving licence; the rider must be at least 16, understand traffic rules and have basic handling skills, wear a standard-compliant helmet, and follow every traffic rule. Foreign nationality changes nothing here — the exemption and the duties are the same.
 
 ## Why foreigners look at this route
 

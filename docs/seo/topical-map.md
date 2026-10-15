@@ -23,7 +23,7 @@ Generated 2026-10-15 by `scripts/topical-map.js` from the source tree, `docs/seo
 | motorcycles | Motorcycles in Vietnam | 108 (65) | 325 | 0 | 0/0 | 224 | 91/59 | 71% | 16 | 14 | 12 (7) | 10/0/2420/1300 | 13 | 0 |
 | manual-clutch | Manual and Clutch Motorcycles | 55 (9) | 382 | 0 | 0/0 | 54 | 68/11 | 44% | 25 | 11 | 2 (1) | 0/0/0/0 | 2 | 1 |
 | 50cc | 50cc Motorbikes | 40 (0) | 395 | 0 | 0/0 | 60 | 88/11 | 41% | 13 | 11 | 4 (2) | 0/0/10/50 | 24 | 1 |
-| electric | Electric Motorbikes and E-Bikes | 89 (5) | 338 | 0 | 0/0 | 148 | 30/28 | 83% | 25 | 13 | 6 (2) | 0/0/10/130 | 14 | 0 |
+| electric | Electric Motorbikes and E-Bikes | 89 (5) | 339 | 0 | 0/0 | 148 | 30/28 | 83% | 25 | 13 | 6 (2) | 0/0/10/130 | 14 | 0 |
 | maintenance | Maintenance and Repair | 120 (0) | 433 | 0 | 0/0 | 465 | 78/236 | 86% | 11 | 18 | 0 (0) | 0/0/0/0 | 0 | 0 |
 | parts-gear | Parts and Riding Gear | 90 (0) | 372 | 0 | 0/0 | 138 | 244/33 | 36% | 44 | 13 | 0 (0) | 0/0/0/0 | 2 | 1 |
 | safety | Riding Skills and Safety | 55 (0) | 325 | 0 | 0/0 | 139 | 69/238 | 67% | 16 | 14 | 1 (1) | 0/0/0/0 | 1 | 0 |
@@ -112,7 +112,7 @@ Generated 2026-10-15 by `scripts/topical-map.js` from the source tree, `docs/seo
 ### electric — Electric Motorbikes and E-Bikes (/topics/electric/)
 
 - Articles: 89 (5 commercial, 84 informational) in 9 subclusters: 7.1 understanding-electric 10, 7.2 legal-electric 10, 7.3 riding-charging 14, 7.4 buying-owning 14, 7.5 battery-maintenance 11, 7.6 model-reviews 11, 7.7 comparisons 6, 7.7 comparisons-ecosystem 8, 7.8 gear-safety 5
-- Words: avg 338, min 243 · review: 89 verified, 0 review required · last_reviewed 2026-09-24 → 2026-09-24
+- Words: avg 339, min 243 · review: 89 verified, 0 review required · last_reviewed 2026-09-24 → 2026-09-24
 - Links: 148 in-silo in-body, 30 out to other silos, 28 in from other silos (83% stay inside) · 25 article(s) without an in-silo inbound link · hub start-here links 13 (11 inside the silo)
 - Most linked: /articles/electric-motorbike-range-real-world-vietnam/ (13 in-body, 13 cards), /articles/can-foreigners-rent-electric-bike-vietnam/ (8 in-body, 2 cards), /articles/electric-moped-vs-electric-motorcycle-vietnam/ (7 in-body, 8 cards), /articles/electric-motorbike-battery-replacement-vietnam/ (6 in-body, 8 cards), /articles/electric-motorbike-power-kw-licence-vietnam/ (6 in-body, 8 cards)
 - Money pages (fewest in-silo inbound first): /articles/best-electric-moped-students-vietnam/ (3 in-silo, 3 total, 3 cards, P3), /articles/buying-first-electric-motorbike-vietnam/ (3 in-silo, 3 total, 7 cards, P3), /articles/buying-used-electric-motorbike-vietnam/ (3 in-silo, 3 total, 6 cards, P3), /articles/can-foreigners-rent-electric-bike-vietnam/ (3 in-silo, 8 total, 2 cards, P3), /articles/electric-motorbike-battery-replacement-vietnam/ (6 in-silo, 6 total, 8 cards, P3)

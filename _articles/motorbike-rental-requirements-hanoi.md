@@ -24,7 +24,7 @@ faq:
     link: "/articles/idp-vietnam-motorbike-rules/"
     link_text: "Read the IDP rules"
   - q: "Is there a minimum age to rent and ride?"
-    a: "The A1 licence, which covers rental scooters up to 125 cc, requires age 18. Mopeds of 50 cc or less and electric machines of 4 kW or less can be ridden from 16 without a licence."
+    a: "The A1 licence, which covers rental scooters up to 125 cc, requires age 18. Mopeds of 50 cc or less and electric machines of 4 kW or less, designed for no more than 50 km/h, can be ridden from 16 without a licence."
     link: "/articles/minimum-age-ride-motorbike-vietnam/"
     link_text: "Read the minimum-age guide"
   - q: "Can I ride a rental scooter on a car licence?"

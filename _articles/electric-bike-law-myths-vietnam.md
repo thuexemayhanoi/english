@@ -29,7 +29,7 @@ False. Sub-4 kW mopeds need no driving licence, but the rider must be at least 1
 
 ## Myth 2: Every e-bike is legally a bicycle
 
-False. Only the pedal-type electric bicycle (assistance cutting out at 25 km/h) is legally non-motorised. Scooter-style machines are mopeds or motorcycles by power: 4 kW and under is a moped; above 4 kW requires an A1 licence (up to 11 kW) or an A licence (above 11 kW).
+False. Only the pedal-type electric bicycle (assistance cutting out at 25 km/h) is legally non-motorised. Scooter-style machines are mopeds or motorcycles by power and design speed: 4 kW and under, and designed for no more than 50 km/h, is a moped; above either limit requires an A1 licence (up to 11 kW) or an A licence (above 11 kW).
 
 ## Myth 3: The throttle makes it a motorcycle
 

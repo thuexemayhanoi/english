@@ -143,8 +143,8 @@ Generated 2026-10-15 by `scripts/english-seo-matrix.js`. Keyword ownership is de
 | 3 | scooters | /topics/scooters/ | 110 | 51 | 59 | 373 | 4 |
 | 4 | motorcycles | /topics/motorcycles/ | 108 | 65 | 43 | 333 | 4 |
 | 5 | manual-clutch | /topics/manual-clutch/ | 55 | 9 | 46 | 385 | 4 |
-| 6 | 50cc | /topics/50cc/ | 40 | 0 | 40 | 398 | 6 |
-| 7 | electric | /topics/electric/ | 89 | 5 | 84 | 348 | 9 |
+| 6 | 50cc | /topics/50cc/ | 40 | 0 | 40 | 399 | 6 |
+| 7 | electric | /topics/electric/ | 89 | 5 | 84 | 349 | 9 |
 | 8 | maintenance | /topics/maintenance/ | 120 | 0 | 120 | 438 | 3 |
 | 9 | parts-gear | /topics/parts-gear/ | 90 | 0 | 90 | 374 | 5 |
 | 10 | safety | /topics/safety/ | 55 | 0 | 55 | 331 | 3 |

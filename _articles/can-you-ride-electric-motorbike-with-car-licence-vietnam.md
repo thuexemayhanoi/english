@@ -37,7 +37,7 @@ So a car-only licence holder has two legal electric options: ride a [licence-fre
 
 ## What riding above your class costs
 
-Riding a machine above 4 kW on a car licence is treated as failing to meet licence conditions — the same band as no licence: 2,000,000–4,000,000 VND for machines in the up-to-125 cc / up-to-11 kW bracket under Article 18 of Decree 168/2024/NĐ-CP. The verified example is the Dat Bike Weaver 200: a 6,000 W machine, firmly in A1 territory — the checkpoint checks the licence against the machine, not against your driving history.
+Riding a machine above 4 kW, or one designed for more than 50 km/h, on a car licence is treated as failing to meet licence conditions — the same band as no licence: 2,000,000–4,000,000 VND for machines in the up-to-125 cc / up-to-11 kW bracket under Article 18 of Decree 168/2024/NĐ-CP. The verified example is the Dat Bike Weaver 200: a 6,000 W machine, firmly in A1 territory — the checkpoint checks the licence against the machine, not against your driving history.
 
 ## Where the confusion comes from
 
