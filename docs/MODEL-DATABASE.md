@@ -139,16 +139,16 @@ I and 1.65 L/100km; Sirius 2025 versions from 19,048,000 VND (drum, disc and all
 
 ## Verified electric rows (retrieved 2026-09-24, Batch 20 groundwork for the cluster-7 electric batch)
 
-Rules applied: manufacturer official sources only; missing fields left EMPTY; claimed range/charging figures recorded with the manufacturer's own condition wording; no Honda/Yamaha electric rows were created in this batch. Correction 2026-10-15: the earlier note that Honda VN and Yamaha VN had no electric two-wheelers was wrong; Honda Vietnam's official electric page (https://www.honda.com.vn/xe-may/xe-dien) lists the ICON e: and CUV e: and the UC3, and Yamaha Motor Vietnam lists the NEO's (https://yamaha-motor.com.vn/xe/neos-bfm4/). Their verified rows are still to be retrieved; until then no figures for them appear on the site.
+Rules applied: manufacturer official sources only; missing fields left EMPTY; claimed range/charging figures recorded with the manufacturer's own condition wording; no Honda/Yamaha electric rows were created in this batch. Correction 2026-10-15: the earlier note that Honda VN and Yamaha VN had no electric two-wheelers was wrong; Honda Vietnam lists the ICON e:, CUV e: and UC3 and Yamaha Motor Vietnam lists the NEO's. Their verified rows were added on 2026-10-15 (section "Honda VN and Yamaha VN electric, Suzuki VN" below). Correction 2026-10-15: the Evo, Feliz II and Viper rows below previously gave the licence class as none; at up to 70 km/h they are above the 50 km/h moped limit and need an A1 licence, as VinFast's own release implies by stating that only the Evo Lite (below 50 km/h) needs no licence.
 
 ### VinFast (source: official VinFast corporate news release, vinfastauto.us investor-relations news, 15 January 2026 — the Vietnamese site vinfastauto.com.vn blocked automated access on 2026-09-24)
 
 | model | manufacturer | vehicle_type | motor | max_power | top_speed | battery | capacity | range (manufacturer condition) | licence_class_vn | source_url | retrieved_at | in_fleet | pricing |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| VinFast Evo | VinFast | electric scooter | in-hub BLDC | 2,450 W | up to 70 km/h | 2 x removable LFP | 1.5 kWh each | up to 165 km with two batteries (standard conditions) | none (moped class, 16+) | vinfastauto.us news release 2026-01-15 | 2026-09-24 | no | contact only |
+| VinFast Evo | VinFast | electric scooter | in-hub BLDC | 2,450 W | up to 70 km/h | 2 x removable LFP | 1.5 kWh each | up to 165 km with two batteries (standard conditions) | A1 (design speed above 50 km/h; corrected 2026-10-15) | vinfastauto.us news release 2026-01-15 | 2026-09-24 | no | contact only |
 | VinFast Evo Lite | VinFast | electric scooter (speed-limited version of Evo) | in-hub BLDC | | below 50 km/h (limited) | 2 x removable LFP | 1.5 kWh each | (inherits Evo platform) | none (deliberately below 50 km/h) | vinfastauto.us news release 2026-01-15 | 2026-09-24 | no | contact only |
-| VinFast Feliz II | VinFast | electric scooter | in-hub BLDC | 3,000 W | up to 70 km/h | 2 x removable LFP | 1.5 kWh each | up to 156 km with two batteries (standard conditions) | none (moped class, 16+) | vinfastauto.us news release 2026-01-15 | 2026-09-24 | no | contact only |
-| VinFast Viper | VinFast | electric scooter | in-hub BLDC | 3,000 W | up to 70 km/h | 2 x removable LFP | 1.5 kWh each | up to 156 km with two batteries (standard conditions) | none (moped class, 16+) | vinfastauto.us news release 2026-01-15 | 2026-09-24 | no | contact only |
+| VinFast Feliz II | VinFast | electric scooter | in-hub BLDC | 3,000 W | up to 70 km/h | 2 x removable LFP | 1.5 kWh each | up to 156 km with two batteries (standard conditions) | A1 (design speed above 50 km/h; corrected 2026-10-15) | vinfastauto.us news release 2026-01-15 | 2026-09-24 | no | contact only |
+| VinFast Viper | VinFast | electric scooter | in-hub BLDC | 3,000 W | up to 70 km/h | 2 x removable LFP | 1.5 kWh each | up to 156 km with two batteries (standard conditions) | A1 (design speed above 50 km/h; corrected 2026-10-15) | vinfastauto.us news release 2026-01-15 | 2026-09-24 | no | contact only |
 | VinFast Amio | VinFast | pedal-assisted electric scooter | in-hub | 800 W | 30 km/h | LFP | 1.024 kWh | up to 65 km per charge (standard conditions) | none | vinfastauto.us news release 2026-01-15 | 2026-09-24 | no | contact only |
 
 VinFast battery economics (verified from the same release): battery rental 175,000 VND/month (one battery), 300,000 VND/month (two); swap fee 9,000 VND per battery per swap; Evo early-order price 19,990,000 VND excluding battery (January 2026). V-Green battery-swap network: first 4,500 stations installed by 2026-01-15; 45,000 cabinets planned across 34 provinces and cities by Q1 2026. Viper features: Smart Key with vehicle tracking, remote vehicle-finding, remote on/off anti-theft, LED projector headlights, dual rear shocks with auxiliary oil reservoirs.
@@ -183,3 +183,30 @@ Dat Bike Weaver 200 verified details: 120 kg weight, 165 kg max load, 17-inch wh
 | Yadea Velax U | Yadea VN | 52,990,000 | 2026-09-24 | no | contact only |
 
 Note (2026-09-24): Yadea listed prices are manufacturer list prices from the official Vietnamese site — do not present them as street or rental prices. Motor power, battery capacity and range for each Yadea model remain EMPTY until read from official Yadea spec tables; do not fill from retailer or press pages.
+
+## Verified manufacturer rows — Honda VN and Yamaha VN electric, Suzuki VN (retrieved 2026-10-15, matrix batch 4)
+
+Rules applied: manufacturer official Vietnamese pages only; fields the page does not publish are left EMPTY; range figures keep the manufacturer's own wording and condition; licence class follows Article 34(1)(g) of Law 36/2024/QH15 as recorded in the VERIFIED law articles (moped = 4 kW or less AND design speed of no more than 50 km/h; otherwise A1 up to 11 kW / 125 cc, A above). List prices are manufacturer recommended retail prices on the stated date, never rental prices.
+
+### Honda VN electric (source: honda.com.vn/xe-may/xe-dien and the linked official Honda EV product pages for ICON e:, CUV e: and UC3)
+
+| model | manufacturer | vehicle_type | motor | max_power | top_speed | battery | capacity | range (manufacturer condition) | charging | licence_class_vn | source_url | retrieved_at | in_fleet | pricing |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Honda ICON e: | Honda VN | electric moped ("xe gắn máy điện" on the official page) | rear in-wheel motor, about 1.5 kW | 1.81 kW | 48 km/h | removable Li-ion, IP67 | | about 71 km per charge (page figure); ECO mode adds about 15% over standard mode | 25% to 75% in 3.5 hours | none (moped class, 16+) | Honda EV product page ICON e: | 2026-10-15 | no | list from 20,520,000 VND (8% VAT) without battery; battery sold with the bike 8,836,363 VND (8% VAT) |
+| Honda CUV e: | Honda VN | electric scooter | rated 4.2 kW | about 6.0 kW at 3,500 rpm | about 80 km/h | 2 x Honda Mobile Power Pack e:, removable and swappable | | about 73 km per charge (Honda internal test conditions) | 0 to 100% in 6 hours | A1 (above 4 kW and above 50 km/h) | Honda EV product page CUV e: | 2026-10-15 | no | list 44,181,818 VND without batteries, 63,818,182 VND with batteries (8% VAT) |
+| Honda UC3 | Honda VN | electric scooter | rear in-wheel motor | about 6.0 kW | 82 km/h | fixed LFP under the floor, IP67, UNR136 | 3.174 kWh | about 120 km per charge (summary figure; condition not stated on the page) | 0 to 100% in 4 hours, 20% to 80% in 2 hours (1,200 W charger) | A1 (above 4 kW and above 50 km/h) | Honda EV product page UC3 | 2026-10-15 | no | list 78,545,455 VND (standard) and 79,920,000 VND (special edition), 8% VAT; promotional prices shown separately on the page |
+
+### Yamaha VN electric (source: yamaha-motor.com.vn/xe/neos-2026-bfmg/)
+
+| model | manufacturer | vehicle_type | motor | max_power | top_speed | battery | capacity | range (manufacturer condition) | charging | licence_class_vn | source_url | retrieved_at | in_fleet | pricing |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Yamaha NEO's (2026) | Yamaha VN | electric scooter, underbone frame | brushless DC (YIPU 2), rated 2 kW | 2.3 kW | | removable Li-ion 51.1 V, 23.2 Ah; a second battery can be added | | over 60 km per charge in ECO mode at 30 to 35 km/h with no more than 75 kg of rider and load | 9 hours | not determinable from the Vietnamese page: power is under 4 kW but no top speed is published | yamaha-motor.com.vn NEO's 2026 page | 2026-10-15 | no | recommended retail 36,900,000 VND |
+
+Other NEO's fields from the same page: seat height 795 mm, weight 98 kg including battery, tyres 110/70-13 and 130/70-13 tubeless, front hydraulic disc and rear drum brakes, 2-year warranty.
+
+### Suzuki VN motorcycles (source: suzuki.com.vn motorcycle line-up and model pages; the line-up lists two motorcycles)
+
+| model | manufacturer | vehicle_type | engine_cc | engine_type | max_power | max_torque | transmission | fuel_system | fuel_tank | fuel_economy_claimed | kerb_weight | tyre_sizes | licence_class_vn | source_url | retrieved_at | in_fleet | pricing |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Suzuki Satria | Suzuki VN | manual-clutch underbone | 147.3 | DOHC, 4-stroke, single cylinder | 13.5 kW at 10,000 rpm | | 6-speed manual, wet multi-plate clutch | electronic fuel injection | 4.0 L | 3.17 L/100 km | | 70/90-17 front, 80/90-17 rear | A (above 125 cc; an A1 issued before 2025 stays valid up to 175 cc) | suzuki.com.vn/bike/satria | 2026-10-15 | no | list from 54,500,000 VND |
+| Suzuki V-Strom 250SX | Suzuki VN | adventure motorcycle | 249 | | 19.5 kW at 9,300 rpm | 22.2 Nm at 7,300 rpm | 6-speed manual | | 12 L | 2.43 L/100 km | 165 kg (page figure) | | A (above 175 cc) | suzuki.com.vn/vnm-strom | 2026-10-15 | no | list from 132,900,000 VND |

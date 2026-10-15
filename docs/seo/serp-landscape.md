@@ -2,28 +2,35 @@
 
 Generated 2026-10-15 by `scripts/english-seo-matrix.js` from the live SERP snapshots, competitor discovery, backlink profiles and page-format observations recorded in `docs/seo/keyword-evidence.json` (every block names its tool and date). Nothing here is measured site traffic: the site has no Search Console or analytics data yet, so this document describes the public search landscape the site competes in.
 
-## Recorded SERPs (19)
+## Recorded SERPs (26)
 
 | Query | Market | Date | Features | Local pack | PAA | Related | en.rentbikehanoi.com | Brand (Nguyen Tu) mentions |
 |---|---|---|---|---|---|---|---|---|
 | 50cc motorbike vietnam licence | United States | 2026-10-15 | ai_overview, organic, people_also_ask, video, related_searches | no | 4 | 4 | not ranking | - |
 | best scooter to rent in vietnam | United States | 2026-10-15 | ai_overview, organic, people_also_ask, video, related_searches | no | 4 | 8 | not ranking | - |
+| buying a motorbike in vietnam as a tourist | United States | 2026-10-15 | ai_overview, video, people_also_ask, organic, related_searches | no | 4 | 3 | not ranking | - |
 | can tourists rent a motorbike in vietnam | United States | 2026-10-15 | ai_overview, organic, people_also_ask, video, local_pack, related_searches | 3 | 4 | 8 | not ranking | - |
 | electric bike rental hanoi | United States | 2026-10-15 | local_pack, organic, people_also_ask | 3 | 4 | 0 | not ranking | - |
 | electric motorbike rental hanoi | Vietnam | 2026-10-15 | ai_overview, organic, people_also_ask, related_searches, third_party_reviews, google_reviews, knowledge_graph | no | 4 | 8 | not ranking | - |
 | ha giang loop motorbike rental | United States | 2026-10-15 | ai_overview, organic, people_also_ask, related_searches | no | 4 | 8 | not ranking | - |
+| hanoi motorbike parking | United States | 2026-10-15 | ai_overview, organic, people_also_ask, video | no | 4 | 0 | not ranking | - |
 | is it safe to ride a motorbike in vietnam | United States | 2026-10-15 | ai_overview, organic, people_also_ask, video, related_searches | no | 4 | 8 | not ranking | - |
+| long term motorbike rental hanoi expat | United States | 2026-10-15 | organic, local_pack, related_searches | 3 | 0 | 8 | not ranking | - |
 | monthly motorbike rental hanoi | United States | 2026-10-15 | organic, local_pack, related_searches | 3 | 0 | 8 | not ranking | 8. facebook.com — 🏍️ Hanoi Motorbike Rental – Nguyen Tu; 9. tripadvisor.co.uk — HANOI MOTORBIKE RENTAL - NGUYEN TU |
 | monthly motorbike rental hanoi | Vietnam | 2026-10-15 | ai_overview, organic, local_pack, people_also_ask, related_searches | 3 | 4 | 8 | not ranking | - |
 | mopeds vietnam | United States | 2026-10-15 | ai_overview, organic, people_also_ask, popular_products, video, images, related_searches | no | 4 | 8 | not ranking | - |
+| motorbike helmet law vietnam | United States | 2026-10-15 | ai_overview, organic, people_also_ask, related_searches | no | 4 | 8 | not ranking | - |
 | motorbike rental hanoi | United States | 2026-10-15 | local_pack, organic, people_also_ask, related_searches | 3 | 4 | 8 | not ranking | 7. motorbikenguyentu.wikidot.com — Vietnam motorbike rental in Hanoi - Motorbike Nguyen Tu |
 | motorbike rental hanoi | Vietnam | 2026-10-15 | local_pack, organic, people_also_ask, related_searches | 3 | 4 | 8 | not ranking | 7. tripadvisor.com — Hanoi Motorbike Rental - Nguyen Tu |
 | motorbike rental vietnam | United States | 2026-10-15 | local_pack, organic, people_also_ask, discussions_and_forums, related_searches | 3 | 4 | 8 | not ranking | - |
+| motorbike repair shop hanoi | United States | 2026-10-15 | local_pack, organic, people_also_ask, related_searches | 3 | 4 | 2 | not ranking | - |
 | motorbike vietnam | United States | 2026-10-15 | ai_overview, organic, people_also_ask, images, related_searches | no | 4 | 8 | not ranking | - |
 | riding a motorbike in hanoi | United States | 2026-10-15 | ai_overview, organic, video, people_also_ask, discussions_and_forums, related_searches | no | 4 | 8 | not ranking | - |
 | scooter rental hanoi | United States | 2026-10-15 | ai_overview, local_pack, people_also_ask, organic, related_searches | 3 | 4 | 8 | not ranking | 5. tripadvisor.com — Hanoi Motorbike Rental - Nguyen Tu |
+| semi automatic motorbike vietnam | United States | 2026-10-15 | ai_overview, video, organic, people_also_ask, related_searches | no | 4 | 8 | not ranking | - |
 | vietnam motorbike license for foreigners | United States | 2026-10-15 | ai_overview, organic, people_also_ask, video, related_searches | no | 4 | 8 | not ranking | - |
 | vietnam motorbike trip | United States | 2026-10-15 | ai_overview, organic, people_also_ask, video, related_searches | no | 4 | 8 | not ranking | - |
+| vietnam traffic fines motorbike foreigners | United States | 2026-10-15 | ai_overview, organic, people_also_ask, related_searches | no | 4 | 8 | not ranking | - |
 | vietnamese motorbikes | United States | 2026-10-15 | ai_overview, organic, people_also_ask, images, video, related_searches | no | 4 | 8 | not ranking | - |
 
 ## Organic competitor frequency
@@ -32,24 +39,29 @@ How often each domain appears in the recorded top organic results (position in b
 
 | Domain | Appearances | Best position | Queries |
 |---|---|---|---|
-| facebook.com | 27 | #1 | 50cc motorbike vietnam licence; best scooter to rent in vietnam; can tourists rent a motorbike in vietnam; electric bike rental hanoi; electric motorbike rental hanoi; ha giang loop motorbike rental; is it safe to ride a motorbike in vietnam; monthly motorbike rental hanoi; mopeds vietnam; motorbike rental hanoi; motorbike rental vietnam; scooter rental hanoi; vietnam motorbike license for foreigners; vietnamese motorbikes |
-| tripadvisor.com | 14 | #1 | 50cc motorbike vietnam licence; electric bike rental hanoi; electric motorbike rental hanoi; ha giang loop motorbike rental; monthly motorbike rental hanoi; motorbike rental hanoi; motorbike rental vietnam; scooter rental hanoi; vietnam motorbike license for foreigners; vietnam motorbike trip |
-| reddit.com | 11 | #1 | 50cc motorbike vietnam licence; best scooter to rent in vietnam; can tourists rent a motorbike in vietnam; ha giang loop motorbike rental; is it safe to ride a motorbike in vietnam; mopeds vietnam; motorbike vietnam; riding a motorbike in hanoi; vietnam motorbike license for foreigners; vietnam motorbike trip; vietnamese motorbikes |
+| facebook.com | 38 | #1 | 50cc motorbike vietnam licence; best scooter to rent in vietnam; buying a motorbike in vietnam as a tourist; can tourists rent a motorbike in vietnam; electric bike rental hanoi; electric motorbike rental hanoi; ha giang loop motorbike rental; is it safe to ride a motorbike in vietnam; long term motorbike rental hanoi expat; monthly motorbike rental hanoi; mopeds vietnam; motorbike helmet law vietnam; motorbike rental hanoi; motorbike rental vietnam; motorbike repair shop hanoi; scooter rental hanoi; semi automatic motorbike vietnam; vietnam motorbike license for foreigners; vietnam traffic fines motorbike foreigners; vietnamese motorbikes |
+| reddit.com | 19 | #1 | 50cc motorbike vietnam licence; best scooter to rent in vietnam; buying a motorbike in vietnam as a tourist; can tourists rent a motorbike in vietnam; ha giang loop motorbike rental; is it safe to ride a motorbike in vietnam; long term motorbike rental hanoi expat; mopeds vietnam; motorbike helmet law vietnam; motorbike repair shop hanoi; motorbike vietnam; riding a motorbike in hanoi; semi automatic motorbike vietnam; vietnam motorbike license for foreigners; vietnam motorbike trip; vietnam traffic fines motorbike foreigners; vietnamese motorbikes |
+| tripadvisor.com | 17 | #1 | 50cc motorbike vietnam licence; buying a motorbike in vietnam as a tourist; electric bike rental hanoi; electric motorbike rental hanoi; ha giang loop motorbike rental; long term motorbike rental hanoi expat; monthly motorbike rental hanoi; motorbike rental hanoi; motorbike rental vietnam; motorbike repair shop hanoi; scooter rental hanoi; vietnam motorbike license for foreigners; vietnam motorbike trip |
+| rentabikevn.com | 7 | #1 | best scooter to rent in vietnam; long term motorbike rental hanoi expat; monthly motorbike rental hanoi; motorbike repair shop hanoi; semi automatic motorbike vietnam; vietnam traffic fines motorbike foreigners |
+| stylemotorbikes.com | 6 | #1 | monthly motorbike rental hanoi; motorbike rental hanoi; motorbike repair shop hanoi; motorbike vietnam; semi automatic motorbike vietnam; vietnamese motorbikes |
+| theextramile.co | 5 | #1 | 50cc motorbike vietnam licence; best scooter to rent in vietnam; buying a motorbike in vietnam as a tourist; monthly motorbike rental hanoi; motorbike rental hanoi |
 | madornomad.com | 5 | #2 | ha giang loop motorbike rental; is it safe to ride a motorbike in vietnam; motorbike vietnam; riding a motorbike in hanoi; vietnam motorbike trip |
-| theextramile.co | 4 | #1 | 50cc motorbike vietnam licence; best scooter to rent in vietnam; monthly motorbike rental hanoi; motorbike rental hanoi |
-| stylemotorbikes.com | 4 | #1 | monthly motorbike rental hanoi; motorbike rental hanoi; motorbike vietnam; vietnamese motorbikes |
+| tigitmotorbikes.com | 4 | #1 | can tourists rent a motorbike in vietnam; long term motorbike rental hanoi expat; monthly motorbike rental hanoi; motorbike rental hanoi |
 | youtube.com | 4 | #2 | 50cc motorbike vietnam licence; motorbike vietnam; riding a motorbike in hanoi; vietnam motorbike license for foreigners |
 | izigo.vn | 4 | #2 | best scooter to rent in vietnam; electric motorbike rental hanoi; monthly motorbike rental hanoi |
+| motorbiketourexpert.com | 4 | #3 | can tourists rent a motorbike in vietnam; motorbike repair shop hanoi; motorbike vietnam; vietnam motorbike trip |
+| ethosspirit.com | 4 | #3 | is it safe to ride a motorbike in vietnam; motorbike helmet law vietnam; motorbike vietnam; riding a motorbike in hanoi |
 | rentalmotorbikehanoi.com | 4 | #3 | monthly motorbike rental hanoi; motorbike rental hanoi; motorbike rental vietnam; vietnamese motorbikes |
-| tigitmotorbikes.com | 3 | #1 | can tourists rent a motorbike in vietnam; monthly motorbike rental hanoi; motorbike rental hanoi |
+| onyabikeadventures.com | 3 | #1 | buying a motorbike in vietnam as a tourist; motorbike helmet law vietnam; vietnam motorbike trip |
 | bikingvietnam.com | 3 | #1 | electric bike rental hanoi; electric motorbike rental hanoi |
 | phungmotorbike.com | 3 | #1 | monthly motorbike rental hanoi; motorbike rental hanoi |
-| motorbiketourexpert.com | 3 | #3 | can tourists rent a motorbike in vietnam; motorbike vietnam; vietnam motorbike trip |
-| ethosspirit.com | 3 | #4 | is it safe to ride a motorbike in vietnam; motorbike vietnam; riding a motorbike in hanoi |
+| vietmotorbikes.com | 3 | #3 | electric motorbike rental hanoi; semi automatic motorbike vietnam; vietnamese motorbikes |
+| happyzipmotorbikes.com | 2 | #1 | long term motorbike rental hanoi expat; monthly motorbike rental hanoi |
 | riderly.com | 2 | #1 | motorbike rental hanoi; motorbike rental vietnam |
-| rentabikevn.com | 2 | #2 | best scooter to rent in vietnam; monthly motorbike rental hanoi |
-| vietmotorbikes.com | 2 | #3 | electric motorbike rental hanoi; vietnamese motorbikes |
+| tiktok.com | 2 | #2 | can tourists rent a motorbike in vietnam; hanoi motorbike parking |
+| janmotorbike.com | 2 | #3 | hanoi motorbike parking; vietnam traffic fines motorbike foreigners |
 | vietnamas.info | 2 | #3 | motorbike vietnam; vietnam motorbike trip |
+| dreamstime.com | 2 | #5 | hanoi motorbike parking; motorbike repair shop hanoi |
 | motorvina.com | 2 | #5 | monthly motorbike rental hanoi; motorbike rental vietnam |
 | vinwonders.com | 2 | #5 | monthly motorbike rental hanoi; motorbike rental hanoi |
 | hanoimotorbikerental.com | 2 | #5 | monthly motorbike rental hanoi; motorbike rental hanoi |
@@ -57,49 +69,65 @@ How often each domain appears in the recorded top organic results (position in b
 | rentalmotorbikevietnam.com | 2 | #6 | can tourists rent a motorbike in vietnam; electric motorbike rental hanoi |
 | bestpricetravel.com | 2 | #9 | monthly motorbike rental hanoi; motorbike rental hanoi |
 | klook.com | 1 | #1 | ha giang loop motorbike rental |
-| onyabikeadventures.com | 1 | #1 | vietnam motorbike trip |
+| alamy.com | 1 | #1 | hanoi motorbike parking |
+| offroadvietnam.com | 1 | #1 | motorbike repair shop hanoi |
 | bmtraveladv.com | 1 | #2 | can tourists rent a motorbike in vietnam |
 | en.wikipedia.org | 1 | #2 | mopeds vietnam |
+| pmc.ncbi.nlm.nih.gov | 1 | #2 | motorbike helmet law vietnam |
 | travelchinaguide.com | 1 | #2 | motorbike rental hanoi |
 | petersbigadventure.com | 1 | #2 | riding a motorbike in hanoi |
 | jamesmotorbikes.com | 1 | #2 | scooter rental hanoi |
+| huemotorbiketour.com | 1 | #3 | buying a motorbike in vietnam as a tourist |
 | helpstay.com | 1 | #3 | can tourists rent a motorbike in vietnam |
 | dragonbiketours.com | 1 | #3 | motorbike rental vietnam |
 | yourfriendthenomad.com | 1 | #3 | riding a motorbike in hanoi |
 | pelago.com | 1 | #4 | best scooter to rent in vietnam |
 | yesd.org | 1 | #4 | electric bike rental hanoi |
+| news.tuoitre.vn | 1 | #4 | hanoi motorbike parking |
 | en.wikivoyage.org | 1 | #4 | is it safe to ride a motorbike in vietnam |
 | theguardian.com | 1 | #4 | mopeds vietnam |
+| bridgespan.org | 1 | #4 | motorbike helmet law vietnam |
 | indochinamotorbiketours.com | 1 | #4 | vietnam motorbike license for foreigners |
+| vietcetera.com | 1 | #4 | vietnam traffic fines motorbike foreigners |
 | duyanhmotorbikes.com | 1 | #5 | 50cc motorbike vietnam licence |
 | tuanmotorbike.com | 1 | #5 | electric motorbike rental hanoi |
 | dcmotorbikes.com | 1 | #5 | vietnam motorbike license for foreigners |
 | nytimes.com | 1 | #5 | vietnam motorbike trip |
+| forum4travel.com | 1 | #5 | vietnam traffic fines motorbike foreigners |
 | mitunsaufreisen.de | 1 | #6 | best scooter to rent in vietnam |
+| thewanderingcubicle.com | 1 | #6 | buying a motorbike in vietnam as a tourist |
 | sungetawaystravel.com | 1 | #6 | ha giang loop motorbike rental |
+| rentbikehanoi.com | 1 | #6 | hanoi motorbike parking |
 | quora.com | 1 | #6 | is it safe to ride a motorbike in vietnam |
 | anhwu.com | 1 | #6 | mopeds vietnam |
+| ottsworld.com | 1 | #6 | motorbike helmet law vietnam |
 | getyourguide.com | 1 | #6 | riding a motorbike in hanoi |
 | vietnammotorcycletours.com | 1 | #6 | vietnam motorbike license for foreigners |
 | thepackablelife.com | 1 | #6 | vietnamese motorbikes |
 | traveldudes.com | 1 | #7 | 50cc motorbike vietnam licence |
+| expat.com | 1 | #7 | buying a motorbike in vietnam as a tourist |
 | dtinews.dantri.com.vn | 1 | #7 | electric bike rental hanoi |
+| flickr.com | 1 | #7 | hanoi motorbike parking |
 | vietnam-motorbiketour.com | 1 | #7 | is it safe to ride a motorbike in vietnam |
 | rideto.com | 1 | #7 | mopeds vietnam |
 | motorbikenguyentu.wikidot.com | 1 | #7 | motorbike rental hanoi |
 | giahungmotorbikerental.com | 1 | #7 | scooter rental hanoi |
+| moto4free.com | 1 | #7 | vietnam traffic fines motorbike foreigners |
 | gettyimages.ca | 1 | #7 | vietnamese motorbikes |
 | travel.stackexchange.com | 1 | #8 | 50cc motorbike vietnam licence |
 | theunknownenthusiast.com | 1 | #8 | best scooter to rent in vietnam |
-| tiktok.com | 1 | #8 | can tourists rent a motorbike in vietnam |
 | hagiangepictour.com | 1 | #8 | ha giang loop motorbike rental |
+| shutterstock.com | 1 | #8 | hanoi motorbike parking |
 | medium.com | 1 | #8 | is it safe to ride a motorbike in vietnam |
+| who.int | 1 | #8 | motorbike helmet law vietnam |
 | hanoimidorihomes.com | 1 | #8 | motorbike rental hanoi |
 | tnktravel.com | 1 | #8 | motorbike rental vietnam |
+| yamadafactory105.bike | 1 | #8 | motorbike repair shop hanoi |
+| vietnamspot.ru | 1 | #8 | vietnam traffic fines motorbike foreigners |
 | viator.com | 1 | #9 | electric bike rental hanoi |
 | looptrails.com | 1 | #9 | ha giang loop motorbike rental |
 | tripadvisor.co.uk | 1 | #9 | monthly motorbike rental hanoi |
-| happyzipmotorbikes.com | 1 | #9 | monthly motorbike rental hanoi |
+| sciencedirect.com | 1 | #9 | motorbike helmet law vietnam |
 | azmotorbikes.com | 1 | #9 | motorbike rental hanoi |
 
 ## Local pack entries
@@ -114,6 +142,9 @@ Ratings and review counts are as displayed in the pack on the fetch date (Google
 | electric bike rental hanoi | Electric Motorbike Rental - Vbike | facebook.com | 5 | 34 |
 | electric bike rental hanoi | Vietnam E-Bike Travel Hanoi - Tours & Rental | vietnamebiketravel.com | 5 | 53 |
 | electric bike rental hanoi | Electric Smiles E-bike Tours & Rental | electric-smiles.com | 5 | 22 |
+| long term motorbike rental hanoi expat | Rental Motorbike Vietnam | rentalmotorbikevietnam.com | 4.9 | 1100 |
+| long term motorbike rental hanoi expat | HaiBanh Garage - Motorbike / Scooter Rental | facebook.com | 4.9 | 232 |
+| long term motorbike rental hanoi expat | Happy Zip Motorbikes Rental & Sale Hanoi | happyzipmotorbikes.com | 4.9 | 345 |
 | monthly motorbike rental hanoi | Rental Motorbike Vietnam | rentalmotorbikevietnam.com | 4.9 | 1100 |
 | monthly motorbike rental hanoi | HaiBanh Garage - Motorbike / Scooter Rental | facebook.com | 4.9 | 232 |
 | monthly motorbike rental hanoi | Vũ Đăng Motorbike Rental - thuê xe máy Hà Nội | facebook.com | 4.9 | 613 |
@@ -129,6 +160,9 @@ Ratings and review counts are as displayed in the pack on the fetch date (Google
 | motorbike rental vietnam | Rental Motorbike Vietnam | rentalmotorbikevietnam.com | 4.9 | 1100 |
 | motorbike rental vietnam | TUAN MOTORBIKES RENTAL Da Nang | tuanmotorbike.com | 4.8 | 1800 |
 | motorbike rental vietnam | The Motorbike Station Company | themotorbikestation.com | 5 | 1300 |
+| motorbike repair shop hanoi | Doctor Motorbike | doctormotorbike.com | 4.9 | 160 |
+| motorbike repair shop hanoi | KYM MOTOR - Motorcycle repair | facebook.com | 4.8 | 74 |
+| motorbike repair shop hanoi | Phung Motorbike | phungmotorbike.com | 4.7 | 618 |
 | scooter rental hanoi | Rental Motorbike Vietnam | rentalmotorbikevietnam.com | 4.9 | 1100 |
 | scooter rental hanoi | 13535 Motorbike Rental/ Cho Thuê Xe 13535 | hanoimidorihomes.com | 4.8 | 2100 |
 | scooter rental hanoi | Hanoiscootersrental.com, Đức Thành Motor | facebook.com | 5 | 648 |
@@ -164,6 +198,21 @@ Related searches: 50cc motorbike vietnam licence rules · 50cc motorbike vietnam
 People also ask: What is the best scooter to ride in Vietnam? · How much does it cost to rent a scooter in Vietnam? · Do I need a license to rent a scooter in Vietnam? · How much is a VinFast scooter in Vietnam?
 
 Related searches: Best scooter to rent in vietnam reddit · Best scooter to rent in vietnam for a day · Scooter rental Vietnam price · 50cc scooter Vietnam · Vietnam scooter rental Ho Chi Minh · 50cc scooter rental Vietnam · Scooter in Vietnam price · Renting a scooter in Vietnam Reddit
+
+**buying a motorbike in vietnam as a tourist** (United States, 2026-10-15)
+
+- 1. reddit.com /r/VietNam/comments/18ipwe8/buying_a_motorbike_as_a_white_boy/
+- 2. facebook.com /groups/centralvietnamtip/posts/946747470451981/
+- 3. huemotorbiketour.com /travel-blogs/best-buy-motorbike-vietnam/
+- 4. theextramile.co /ultimate-guide-buy-a-new-motorbike-in-vietnam/
+- 5. tripadvisor.com
+- 6. thewanderingcubicle.com /learn/buying-a-bike-in-vietnam/
+- 7. expat.com /en/forum/asia/vietnam/1065918-own-a-motorbike-as-foreigner.html
+- 8. onyabikeadventures.com /rent-or-buy-a-motorbike-in-vietnam
+
+People also ask: Can foreigners drive motorbikes in Vietnam? · What brands are made in Vietnam? · What bike was called the widowmaker? · Is the Ha Giang loop scary?
+
+Related searches: Buying a motorbike in vietnam as a tourist reddit · Buying a motorbike in vietnam as a tourist tax · Buying a motorbike in vietnam as a tourist cost
 
 **can tourists rent a motorbike in vietnam** (United States, 2026-10-15)
 
@@ -226,6 +275,19 @@ People also ask: How much does a Ha Giang loop tour cost? · What bike was calle
 
 Related searches: ha giang loop motorbike rental near california · ha giang loop motorbike rental near texas · Ha giang loop motorbike rental price · Ha giang loop motorbike rental reddit · Ha giang loop motorbike rental reviews · Ha Giang motorbike rental price · Ha Giang Loop tour · Ha Giang Loop deaths
 
+**hanoi motorbike parking** (United States, 2026-10-15)
+
+- 1. alamy.com /stock-photo-motorbike-parking-lot-in-hanoi-107161081.html
+- 2. tiktok.com /@fobinvietnam/video/7291196135572557086
+- 3. janmotorbike.com /how-to-park-motorbike-in-vietnam/
+- 4. news.tuoitre.vn
+- 5. dreamstime.com
+- 6. rentbikehanoi.com /blog/travel-guide/
+- 7. flickr.com /photos/21945427@N06/6485692933/
+- 8. shutterstock.com
+
+People also ask: Can I ride a motorcycle in Vietnam without a license? · Where to park your motorcycle in public? · Which city has the most motorcycles? · What is the most famous motorbike loop in Vietnam?
+
 **is it safe to ride a motorbike in vietnam** (United States, 2026-10-15)
 
 - 1. reddit.com
@@ -240,6 +302,21 @@ Related searches: ha giang loop motorbike rental near california · ha giang loo
 People also ask: Can tourists ride motorbikes in Vietnam? · What is the #1 cause of death in Vietnam? · Is $1000 enough for 2 weeks in Vietnam? · Where do 70% of motorcycle accidents occur?
 
 Related searches: Is it safe to ride a motorbike in vietnam without · Is it safe to ride a motorbike in vietnam reddit · Can I ride a motorbike in Vietnam with a UK license · Can I drive a motorcycle in Vietnam with an international license · Motorbike Vietnam price · Motorbike in vietnamese · 50cc motorbike Vietnam · Vietnam motorcycle trip
+
+**long term motorbike rental hanoi expat** (United States, 2026-10-15)
+
+- 1. happyzipmotorbikes.com
+- 2. facebook.com /groups/817085561762821/posts/2845911305546893/
+- 3. reddit.com
+- 4. reddit.com
+- 5. rentabikevn.com /rental-package/long-term-rental/
+- 6. facebook.com /groups/479553442222597/posts/3295749593936287/
+- 7. tripadvisor.com
+- 8. reddit.com /r/VietNam/comments/1cmzjmk/motorbike_rental_from_hanoi_to_hcmc/
+- 9. facebook.com /groups/789908834478207/posts/4179213938880996/
+- 10. tigitmotorbikes.com
+
+Related searches: Long term motorbike rental hanoi expat reddit · Cheapest long term motorbike rental hanoi expat · Long term motorbike rental hanoi expat cost · Best long term motorbike rental hanoi expat · Long term motorbike rental hanoi expat near me · Hanoi motorbike rental cost · 50cc scooter rental Hanoi · Scooter Rental Hanoi near me
 
 **monthly motorbike rental hanoi** (United States, 2026-10-15)
 
@@ -285,6 +362,22 @@ Related searches: Cheapest monthly motorbike rental hanoi · Best monthly motorb
 People also ask: Do I need a license to ride a moped in Vietnam? · How much does a moped cost in Vietnam? · Is $1000 enough for 2 weeks in Vietnam? · What is the #1 cause of death in Vietnam?
 
 Related searches: Mopeds vietnam price · Mopeds vietnam for sale · Used mopeds vietnam · Electric mopeds vietnam · Scooter in Vietnam price · 50cc scooter Vietnam price · Honda Vietnam motorcycle price · Vietnam motorcycle brands
+
+**motorbike helmet law vietnam** (United States, 2026-10-15)
+
+- 1. reddit.com
+- 2. pmc.ncbi.nlm.nih.gov /articles/PMC2678774/
+- 3. ethosspirit.com /motorbiking-in-vietnam
+- 4. bridgespan.org
+- 5. facebook.com /groups/347835053464527/posts/902312528016774/
+- 6. ottsworld.com /blogs/the-motorbike-diaries-vol-10/
+- 7. onyabikeadventures.com /motorbike-helmet-buying-guide-in-vietnam
+- 8. who.int
+- 9. sciencedirect.com /science/article/abs/pii/S0001457520303614
+
+People also ask: What is the law regarding helmets in Vietnam? · What is the 2 2 2 rule for bike helmets? · What does it mean when a motorcyclist taps his helmet twice? · Can tourists ride motorbikes in Vietnam?
+
+Related searches: Motorbike helmet law vietnam reddit · Motorbike helmet law vietnam 2020 · Getting motorbike license vietnam · Vietnam driving laws · Vietnam 50cc license · Can I drive scooter in Vietnam with Indian license · Driving without license in vietnam · Fine for driving without license Vietnam
 
 **motorbike rental hanoi** (United States, 2026-10-15)
 
@@ -333,6 +426,22 @@ People also ask: How much does it cost to buy a motorbike in Vietnam? · How to 
 
 Related searches: Motorbike rental Ho Chi Minh · Motorbike rental Hanoi · Motorbike rental Ho Chi Minh price · Motorbike rental Ho Chi Minh District 1 · Vietnam motorbike rental one way · Best motorbike rental vietnam · Hanoi motorbike rental cost · Motorbike rental near me
 
+**motorbike repair shop hanoi** (United States, 2026-10-15)
+
+- 1. offroadvietnam.com /our-bikes/bike-services
+- 2. facebook.com /groups/1015392581889217/posts/7069901229771625/
+- 3. tripadvisor.com
+- 4. stylemotorbikes.com /motorbike-repair-in-vietnam/
+- 5. motorbiketourexpert.com /useful-blog/motorcycle-shops
+- 6. reddit.com /r/bicycletouring/comments/1r3o2hp/bike_repair_in_hanoi/
+- 7. rentabikevn.com /good-mechanic-in-hanoi/
+- 8. yamadafactory105.bike /en/
+- 9. dreamstime.com
+
+People also ask: What is the 12 second rule for motorcycles? · How much does it cost to repair a motorcycle? · Can a foreigner ride a motorbike in Vietnam? · How much should a motorbike service cost?
+
+Related searches: Cheap motorbike repair shop hanoi · Honda motorbike repair shop hanoi
+
 **motorbike vietnam** (United States, 2026-10-15)
 
 - 1. reddit.com /r/solotravel/comments/17iyphr/vietnam_motorbike_advice/
@@ -377,6 +486,21 @@ People also ask: Can I rent a 50cc scooter in Vietnam? · How much is bike renta
 
 Related searches: Electric scooter rental hanoi · Motorbike rental Hanoi Old Quarter · Hanoi motorbike rental cost · 13535 Motorbike Rental Hanoi · Scooter hanoi · Tuan motorbike rental Hanoi · James Hanoi Motorbike · Rental Motorbike Vietnam
 
+**semi automatic motorbike vietnam** (United States, 2026-10-15)
+
+- 1. rentabikevn.com /transmission/semi-automatic/
+- 2. stylemotorbikes.com /the-10-best-bikes-for-travelling-vietnam/
+- 3. facebook.com /groups/1085733898269545/posts/3332053093637603/
+- 4. facebook.com /groups/motorbikessaigon/posts/4300311873590492/
+- 5. facebook.com /groups/buyandsellmotorbikeinhochiminh/posts/1400459208543849/
+- 6. reddit.com /r/VietNam/comments/1fkzd2j/buying_automatic_motorbikes_in_vietnam/
+- 7. vietmotorbikes.com
+- 8. facebook.com /groups/648179632218252/posts/2474262949609902/
+
+People also ask: Can foreigners drive motorbikes in Vietnam? · What are the top 10 most reliable motorcycle brands? · Do they make an automatic motorcycle? · How much does a Honda motorcycle cost in Vietnam?
+
+Related searches: Yamaha semi automatic motorbike vietnam · Best semi automatic motorbike vietnam · Honda Vietnam motorcycle price · Vietnam motorcycle brands · Best motorbike in Vietnam · Vietnam motorcycle rental · Vietnam buy motorbike · Buy scooter Vietnam
+
 **vietnam motorbike license for foreigners** (United States, 2026-10-15)
 
 - 1. reddit.com
@@ -406,6 +530,22 @@ Related searches: Vietnam motorbike license for foreigners rules · Vietnam moto
 People also ask: How much is a motorcycle trip in Vietnam? · What is the most famous bike trip in Vietnam? · Can tourists ride motorcycles in Vietnam? · Is the Ha Giang loop scary?
 
 Related searches: Vietnam motorbike trip packages · Vietnam motorbike trip itinerary · Vietnam motorbike Loop · Vietnam motorcycle Tours 2026 · 10 day motorbike trip Vietnam · Vietnam motorcycle Tours price · Vietnam motorbike trip reddit · Vietnam motorbike rental
+
+**vietnam traffic fines motorbike foreigners** (United States, 2026-10-15)
+
+- 1. reddit.com /r/VietNam/comments/122aeqr/any_tricks_to_avoid_motorbike_fines/
+- 2. rentabikevn.com /traffic-fines-for-motorcycles-in-vietnam/
+- 3. facebook.com /groups/vietnamtravelguideofficial/posts/1262834066032121/
+- 4. vietcetera.com
+- 5. forum4travel.com
+- 6. rentabikevn.com
+- 7. moto4free.com /traffic_fines.asp
+- 8. vietnamspot.ru /en/blog/vietnam-pdd
+- 9. janmotorbike.com /vietnam-motorbike-guide-for-foreigners-2025/
+
+People also ask: What is the 12 second rule for motorcycles? · Can a foreigner ride a motorcycle in Vietnam? · Can a foreigner legally buy a motorbike in Vietnam? · Can I drive in Vietnam with an American license?
+
+Related searches: Temporary Vietnamese motorcycle licence · Fine for driving without license Vietnam · Police checkpoints Vietnam · Motorcycle license in Vietnam · A1 license Vietnam · Vietnam scooter international license · Vietnam driving license for tourist · 1949 IDP Vietnam
 
 **vietnamese motorbikes** (United States, 2026-10-15)
 

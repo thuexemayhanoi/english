@@ -33,7 +33,7 @@ An electric motorbike in Vietnam (xe may dien) is not one thing but [three legal
 
 ## Why the class matters more than the badge
 
-Two bikes can look almost identical yet fall into different classes. A 3,000 W scooter such as the VinFast Viper needs no licence, while a 6,000 W machine like the Weaver 200 needs an A1. Check the rated motor power, not the styling.
+Two bikes can look almost identical yet fall into different classes. A 3,000 W scooter such as the VinFast Viper still needs an A1 licence because it is designed for 70 km/h, while the speed-limited Evo Lite needs none, and a 6,000 W machine like the Weaver 200 needs an A1 on power alone. Check the rated motor power and the design speed, not the styling.
 
 ## Everyday differences from petrol
 

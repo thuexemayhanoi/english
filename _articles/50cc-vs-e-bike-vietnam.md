@@ -25,7 +25,7 @@ If you cannot or do not want to hold a Vietnamese motorbike licence, Vietnamese 
 
 ## The legal boxes
 
-A 50cc petrol bike (or an electric scooter-style moped up to 4 kW) is a xe gắn máy: no licence, rider at least 16, helmet compulsory. A pedal electric bicycle (xe đạp điện) is legally a bicycle with assistance that cuts out when you stop pedalling or at 25 km/h: no licence, no minimum driving age in the motorbike sense, and it rides under bicycle rules. [Our electric-bike licence guide]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}) unpacks that category carefully — the dividing lines matter because scooter-style "e-bikes" above the assistance limits are actually mopeds in law.
+A 50cc petrol bike (or an electric scooter-style moped up to 4 kW, designed for no more than 50 km/h) is a xe gắn máy: no licence, rider at least 16, helmet compulsory. A pedal electric bicycle (xe đạp điện) is legally a bicycle with assistance that cuts out when you stop pedalling or at 25 km/h: no licence, no minimum driving age in the motorbike sense, and it rides under bicycle rules. [Our electric-bike licence guide]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}) unpacks that category carefully — the dividing lines matter because scooter-style "e-bikes" above the assistance limits are actually mopeds in law.
 
 ## Speed and range
 

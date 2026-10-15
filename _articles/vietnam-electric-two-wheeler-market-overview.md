@@ -31,7 +31,7 @@ Vietnam's electric two-wheeler market is best understood not as one market but a
 
 ## Shelf 1: The swap ecosystem
 
-[VinFast]({{ '/articles/vinfast-electric-scooter-lineup-vietnam/' | relative_url }}) anchors the licence-free scooter class with a platform of removable 1.5 kWh LFP packs (Evo, Evo Lite, Feliz II, Viper, plus the pedal-assist Amio) and battery economics of 175,000–300,000 VND monthly rental and 9,000 VND per swap. The infrastructure is the story: V-Green installed its first 4,500 swap stations by mid-January 2026, with 45,000 cabinets planned across 34 provinces and cities. Buying into this shelf means buying range-as-a-service.
+[VinFast]({{ '/articles/vinfast-electric-scooter-lineup-vietnam/' | relative_url }}) anchors the swap-scooter class with a platform of removable 1.5 kWh LFP packs (Evo, Evo Lite, Feliz II, Viper, plus the pedal-assist Amio; the 70 km/h Evo, Feliz II and Viper need an A1 licence, the speed-limited Evo Lite and the Amio do not) and battery economics of 175,000–300,000 VND monthly rental and 9,000 VND per swap. The infrastructure is the story: V-Green installed its first 4,500 swap stations by mid-January 2026, with 45,000 cabinets planned across 34 provinces and cities. Buying into this shelf means buying range-as-a-service.
 
 ## Shelf 2: The A1 charge-at-home class
 
@@ -43,9 +43,9 @@ Yadea's [official Vietnamese price list]({{ '/articles/yadea-vietnam-lineup-guid
 
 ## What holds the shelves together
 
-- **Law 36/2024/QH15** draws the boundaries: pedal-assist as non-motorised, 4 kW/50 km/h as the licence-free moped class, A1 above 4 kW. Every purchase decision starts on this ladder.
-- **Honda and Yamaha have entered the market too.** Honda Vietnam's official electric page lists the ICON e: and the CUV e:, introduced the UC3 in January 2026 and announced battery-swap and charging stations in major cities in June 2026; Yamaha Motor Vietnam lists the NEO's. Their specifications are not yet in this site's verified model database, so no figures for them are claimed here, and the same holds for the smaller brands (Selex, Ikigai and others).
-- **Three refuelling models** coexist: swap (VinFast), fast-charge (Dat Charge) and overnight home charge (everyone).
+- **Law 36/2024/QH15** draws the boundaries: pedal-assist as non-motorised, 4 kW and a 50 km/h design speed as the licence-free moped class, A1 above either limit (up to 11 kW). Every purchase decision starts on this ladder.
+- **Honda and Yamaha have entered the market too.** Honda Vietnam sells the ICON e: (1.81 kW, 48 km/h: a licence-free electric moped with a removable battery), the CUV e: (about 6.0 kW, about 80 km/h, two swappable Honda Mobile Power Pack e: batteries) and the UC3 (about 6.0 kW, 82 km/h, a fixed 3.174 kWh LFP battery); the last two need an A1 licence. Honda introduced the UC3 in January 2026 and announced battery-swap and charging stations in major cities in June 2026. Yamaha Motor Vietnam sells the NEO's (2.3 kW, removable 51.1 V battery) without a published top speed. These figures come from the manufacturers' official pages and are recorded in our model database; the smaller brands (Selex, Ikigai and others) have no verified data here, so none is claimed.
+- **Three refuelling models** coexist: swap (VinFast's V-Green cabinets, and Honda's stations for the CUV e:), fast-charge (Dat Charge) and overnight home charge (everyone).
 
 ## Reading the market as a buyer
 

@@ -21,7 +21,7 @@ sources:
 internal_link_targets: "battery-swap-vs-home-charging-vietnam, vinfast-battery-rental-vs-buying, where-to-charge-electric-motorbike-hanoi, vinfast-electric-scooter-lineup-vietnam, electric-motorbike-spare-battery-strategy, electric-motorbike-delivery-riders-vietnam"
 ---
 
-Battery swapping is the infrastructure idea that makes licence-free electric scooters practical at Vietnamese scale: ride until a pack is empty, exchange it at a cabinet in seconds, keep going. V-Green is the network that implements it, and its published numbers define the experience.
+Battery swapping is the infrastructure idea that makes electric scooters practical at Vietnamese scale: ride until a pack is empty, exchange it at a cabinet in seconds, keep going. V-Green is the network that implements it, and its published numbers define the experience.
 
 ## The verified network
 

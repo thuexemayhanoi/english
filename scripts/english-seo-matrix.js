@@ -468,8 +468,9 @@ const { classify: classifyKeyword, OTHER_PLACE } = require('./seo-research-inges
 const GAP_STOP = new Set('a an the of for to in on and or with your you our this that is are how what when where why which who do does can at by from vs versus i my it its be need needed want get'.split(' '));
 // A trailing "e" is dropped after the suffix so singular and plural share one stem
 // (motorbike/motorbikes -> motorbik, licence/licenses -> licens, bike/bikes -> bik).
-// "used" (second-hand) is kept whole so it never collides with "use".
-const gapStem = w => w.toLowerCase().replace(/[^a-z0-9]/g, '').replace(/^used$/, 'secondhand').replace(/(ing|ers|er|ed|es|s)$/, '').replace(/e$/, '').replace(/licenc/, 'licens').replace(/motorcycl/, 'motorbik').replace(/^rental$/, 'rent').replace(/^hir$/, 'hire').replace(/^vietnames$/, 'vietnam');
+// "used" (second-hand) is kept whole so it never collides with "use"; on two wheels
+// "drive" and "ride" ask the same question, so they share one stem.
+const gapStem = w => w.toLowerCase().replace(/[^a-z0-9]/g, '').replace(/^used$/, 'secondhand').replace(/(ing|ers|er|ed|es|s)$/, '').replace(/e$/, '').replace(/licenc/, 'licens').replace(/motorcycl/, 'motorbik').replace(/^rental$/, 'rent').replace(/^hir$/, 'hire').replace(/^vietnames$/, 'vietnam').replace(/^driv$/, 'rid');
 const gapSig = s => [...new Set(String(s).toLowerCase().replace(/\bair[\s-]+blade\b/g, 'airblade').split(/[^a-z0-9]+/).filter(w => w && !GAP_STOP.has(w)).map(gapStem).filter(w => w.length > 1))];
 const faqIndex = [];
 for (const src of [...articles.map(a => ({ url: L.articleUrl(a), raw: a.raw })), ...pages.map(p => ({ url: L.pageUrl(p), raw: p.raw }))]) {

@@ -32,16 +32,17 @@ On a petrol bike, the licence question is cubic centimetres. On an electric, it 
 | Machine | Rated power | Licence position |
 |---|---|---|
 | VinFast Amio | 800 W, 30 km/h | No licence (pedal-assist class per classification) |
-| VinFast Evo | 2,450 W, up to 70 km/h | Moped class — under the 4 kW line |
-| VinFast Feliz II / Viper | 3,000 W, up to 70 km/h | Moped class — under the 4 kW line |
+| VinFast Evo Lite | Evo platform, limited below 50 km/h | Moped class — no licence |
+| VinFast Evo | 2,450 W, up to 70 km/h | A1 required — under 4 kW but faster than 50 km/h |
+| VinFast Feliz II / Viper | 3,000 W, up to 70 km/h | A1 required — under 4 kW but faster than 50 km/h |
 | Dat Bike Weaver | 5,000 W, 80 km/h | A1 required |
 | Dat Bike Weaver 200 / Weaver++ | 6,000 W (200), 90 km/h class | A1 required |
 
-The instructive row is the Feliz II and Viper: 3,000 W of real power and a 70 km/h top speed, still under the 4 kW line. The moped class is defined by power, not by how brisk the machine feels — and the Evo Lite exists precisely as a deliberately speed-limited version below 50 km/h.
+The instructive rows are the Evo, Feliz II and Viper: under the 4 kW line, but with a 70 km/h top speed. The moped class needs both limits, 4 kW or less and a design speed of no more than 50 km/h, so these three need an A1 licence — and the Evo Lite exists precisely as a deliberately speed-limited version below 50 km/h that does not.
 
 ## What the ladder means practically
 
-- Buying: check the rated power figure on the official page before assuming a machine is licence-free.
+- Buying: check the rated power and the top speed on the official page before assuming a machine is licence-free.
 - Renting: an A1-class electric like the Weaver 200 demands the same A1 licence as a petrol 125 — no licence, no ride.
 - Fines: riding a machine above your licence class is priced as an unlicensed-ride offence under Article 18 of Decree 168/2024.
 

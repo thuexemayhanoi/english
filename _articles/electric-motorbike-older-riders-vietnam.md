@@ -36,7 +36,7 @@ Balance at stops, traffic reading, head checks, night visibility and [helmet fit
 
 ## Choosing a machine
 
-The verified line-up spans a sensible range: the VinFast Amio (800 W, 30 km/h, pedal-assist) is the gentlest option in the format — bicycle-class confidence at moped speeds; the VinFast scooter class (Evo at 2,450 W, Feliz II and Viper at 3,000 W, up to 70 km/h) keeps full city pace with zero gear work; A1-class machines such as the Dat Bike range are for riders holding — or willing to get — an A1 licence. The seat height and step-through shape matter as much as the power: sit on the machine and check both feet reach the ground confidently.
+The verified line-up spans a sensible range: the VinFast Amio (800 W, 30 km/h, pedal-assist) is the gentlest option in the format — bicycle-class confidence at moped speeds; the VinFast scooter class (Evo at 2,450 W, Feliz II and Viper at 3,000 W, up to 70 km/h) keeps full city pace with zero gear work, and at that speed it needs an A1 licence (the speed-limited Evo Lite does not); the more powerful Dat Bike range needs an A1 too, so both are for riders holding — or willing to get — an A1 licence. The seat height and step-through shape matter as much as the power: sit on the machine and check both feet reach the ground confidently.
 
 ## Practical notes
 

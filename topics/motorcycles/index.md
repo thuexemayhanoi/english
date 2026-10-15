@@ -35,6 +35,8 @@ faq:
   <li><a href="{{ '/articles/best-underbones-hanoi-commuting-verified/' | relative_url }}">Best underbones for Hanoi commuting</a></li>
 </ul>
 
+<p>Most guides here cover Honda and Yamaha, the two brands whose official Vietnamese model pages we verify model by model. Suzuki Vietnam's current motorcycle line-up lists two machines: the Satria, a 147.3 cc six-speed manual underbone, and the V-Strom 250SX adventure bike (249 cc). Both are above 125 cc, so they need a class A licence; an A1 issued before 2025 still covers up to 175 cc. SYM and Piaggio also sell through official Vietnamese sites (SYM's range includes 50 cc and underbone models; Piaggio lists the Liberty, Medley and Beverly scooters), but we have not verified their specifications, so no figures for them appear on this site. Electric brands, Honda's and Yamaha's included, are compared in the <a href="{{ '/articles/vietnam-electric-two-wheeler-market-overview/' | relative_url }}">electric market overview</a>.</p>
+
 <p>Learning to ride with gears? Start with <a href="{{ '/topics/manual-clutch/' | relative_url }}">manual and clutch motorcycles</a>. Deciding between a scooter and an underbone for a rental: <a href="{{ '/articles/automatic-vs-manual-motorbike-hanoi/' | relative_url }}">automatic vs semi-automatic vs manual in Hanoi</a>.</p>
 <script type="application/ld+json">
 {

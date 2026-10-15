@@ -1654,6 +1654,44 @@
     "total_available": 135
    },
    {
+    "query": "buying a motorbike in vietnam as a tourist",
+    "market": "United States",
+    "fetched_at": "2026-10-15T03:10:17.252943Z",
+    "features": [
+     "ai_overview",
+     "video",
+     "people_also_ask",
+     "organic",
+     "related_searches"
+    ],
+    "local_pack": [],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "Can foreigners drive motorbikes in Vietnam?",
+     "What brands are made in Vietnam?",
+     "What bike was called the widowmaker?",
+     "Is the Ha Giang loop scary?"
+    ],
+    "related_searches": [
+     "Buying a motorbike in vietnam as a tourist reddit",
+     "Buying a motorbike in vietnam as a tourist tax",
+     "Buying a motorbike in vietnam as a tourist cost"
+    ],
+    "organic_top": [
+     "1. reddit.com /r/VietNam/comments/18ipwe8/buying_a_motorbike_as_a_white_boy/",
+     "2. facebook.com /groups/centralvietnamtip/posts/946747470451981/",
+     "3. huemotorbiketour.com /travel-blogs/best-buy-motorbike-vietnam/",
+     "4. theextramile.co /ultimate-guide-buy-a-new-motorbike-in-vietnam/",
+     "5. tripadvisor.com",
+     "6. thewanderingcubicle.com /learn/buying-a-bike-in-vietnam/",
+     "7. expat.com /en/forum/asia/vietnam/1065918-own-a-motorbike-as-foreigner.html",
+     "8. onyabikeadventures.com /rent-or-buy-a-motorbike-in-vietnam"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 127
+   },
+   {
     "query": "can tourists rent a motorbike in vietnam",
     "market": "United States",
     "fetched_at": "2026-10-14T14:43:23.758975Z",
@@ -1858,6 +1896,39 @@
     "total_available": 123
    },
    {
+    "query": "hanoi motorbike parking",
+    "market": "United States",
+    "fetched_at": "2026-10-15T03:10:45.536131Z",
+    "features": [
+     "ai_overview",
+     "organic",
+     "people_also_ask",
+     "video"
+    ],
+    "local_pack": [],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "Can I ride a motorcycle in Vietnam without a license?",
+     "Where to park your motorcycle in public?",
+     "Which city has the most motorcycles?",
+     "What is the most famous motorbike loop in Vietnam?"
+    ],
+    "related_searches": [],
+    "organic_top": [
+     "1. alamy.com /stock-photo-motorbike-parking-lot-in-hanoi-107161081.html",
+     "2. tiktok.com /@fobinvietnam/video/7291196135572557086",
+     "3. janmotorbike.com /how-to-park-motorbike-in-vietnam/",
+     "4. news.tuoitre.vn",
+     "5. dreamstime.com",
+     "6. rentbikehanoi.com /blog/travel-guide/",
+     "7. flickr.com /photos/21945427@N06/6485692933/",
+     "8. shutterstock.com"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 95
+   },
+   {
     "query": "is it safe to ride a motorbike in vietnam",
     "market": "United States",
     "fetched_at": "2026-10-14T12:29:18.237953Z",
@@ -1899,6 +1970,63 @@
     "en_rentbikehanoi_positions": [],
     "brand_mentions": [],
     "total_available": 130
+   },
+   {
+    "query": "long term motorbike rental hanoi expat",
+    "market": "United States",
+    "fetched_at": "2026-10-15T03:10:47.731254Z",
+    "features": [
+     "organic",
+     "local_pack",
+     "related_searches"
+    ],
+    "local_pack": [
+     {
+      "title": "Rental Motorbike Vietnam",
+      "domain": "rentalmotorbikevietnam.com",
+      "rating": 4.9,
+      "reviews": 1100
+     },
+     {
+      "title": "HaiBanh Garage - Motorbike / Scooter Rental",
+      "domain": "facebook.com",
+      "rating": 4.9,
+      "reviews": 232
+     },
+     {
+      "title": "Happy Zip Motorbikes Rental & Sale Hanoi",
+      "domain": "happyzipmotorbikes.com",
+      "rating": 4.9,
+      "reviews": 345
+     }
+    ],
+    "featured_snippet": null,
+    "people_also_ask": [],
+    "related_searches": [
+     "Long term motorbike rental hanoi expat reddit",
+     "Cheapest long term motorbike rental hanoi expat",
+     "Long term motorbike rental hanoi expat cost",
+     "Best long term motorbike rental hanoi expat",
+     "Long term motorbike rental hanoi expat near me",
+     "Hanoi motorbike rental cost",
+     "50cc scooter rental Hanoi",
+     "Scooter Rental Hanoi near me"
+    ],
+    "organic_top": [
+     "1. happyzipmotorbikes.com",
+     "2. facebook.com /groups/817085561762821/posts/2845911305546893/",
+     "3. reddit.com",
+     "4. reddit.com",
+     "5. rentabikevn.com /rental-package/long-term-rental/",
+     "6. facebook.com /groups/479553442222597/posts/3295749593936287/",
+     "7. tripadvisor.com",
+     "8. reddit.com /r/VietNam/comments/1cmzjmk/motorbike_rental_from_hanoi_to_hcmc/",
+     "9. facebook.com /groups/789908834478207/posts/4179213938880996/",
+     "10. tigitmotorbikes.com"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 116
    },
    {
     "query": "monthly motorbike rental hanoi",
@@ -2066,6 +2194,49 @@
     "en_rentbikehanoi_positions": [],
     "brand_mentions": [],
     "total_available": 191
+   },
+   {
+    "query": "motorbike helmet law vietnam",
+    "market": "United States",
+    "fetched_at": "2026-10-15T03:10:37.124316Z",
+    "features": [
+     "ai_overview",
+     "organic",
+     "people_also_ask",
+     "related_searches"
+    ],
+    "local_pack": [],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "What is the law regarding helmets in Vietnam?",
+     "What is the 2 2 2 rule for bike helmets?",
+     "What does it mean when a motorcyclist taps his helmet twice?",
+     "Can tourists ride motorbikes in Vietnam?"
+    ],
+    "related_searches": [
+     "Motorbike helmet law vietnam reddit",
+     "Motorbike helmet law vietnam 2020",
+     "Getting motorbike license vietnam",
+     "Vietnam driving laws",
+     "Vietnam 50cc license",
+     "Can I drive scooter in Vietnam with Indian license",
+     "Driving without license in vietnam",
+     "Fine for driving without license Vietnam"
+    ],
+    "organic_top": [
+     "1. reddit.com",
+     "2. pmc.ncbi.nlm.nih.gov /articles/PMC2678774/",
+     "3. ethosspirit.com /motorbiking-in-vietnam",
+     "4. bridgespan.org",
+     "5. facebook.com /groups/347835053464527/posts/902312528016774/",
+     "6. ottsworld.com /blogs/the-motorbike-diaries-vol-10/",
+     "7. onyabikeadventures.com /motorbike-helmet-buying-guide-in-vietnam",
+     "8. who.int",
+     "9. sciencedirect.com /science/article/abs/pii/S0001457520303614"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 132
    },
    {
     "query": "motorbike rental hanoi",
@@ -2258,6 +2429,62 @@
     "total_available": 118
    },
    {
+    "query": "motorbike repair shop hanoi",
+    "market": "United States",
+    "fetched_at": "2026-10-15T03:11:05.093684Z",
+    "features": [
+     "local_pack",
+     "organic",
+     "people_also_ask",
+     "related_searches"
+    ],
+    "local_pack": [
+     {
+      "title": "Doctor Motorbike",
+      "domain": "doctormotorbike.com",
+      "rating": 4.9,
+      "reviews": 160
+     },
+     {
+      "title": "KYM MOTOR - Motorcycle repair",
+      "domain": "facebook.com",
+      "rating": 4.8,
+      "reviews": 74
+     },
+     {
+      "title": "Phung Motorbike",
+      "domain": "phungmotorbike.com",
+      "rating": 4.7,
+      "reviews": 618
+     }
+    ],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "What is the 12 second rule for motorcycles?",
+     "How much does it cost to repair a motorcycle?",
+     "Can a foreigner ride a motorbike in Vietnam?",
+     "How much should a motorbike service cost?"
+    ],
+    "related_searches": [
+     "Cheap motorbike repair shop hanoi",
+     "Honda motorbike repair shop hanoi"
+    ],
+    "organic_top": [
+     "1. offroadvietnam.com /our-bikes/bike-services",
+     "2. facebook.com /groups/1015392581889217/posts/7069901229771625/",
+     "3. tripadvisor.com",
+     "4. stylemotorbikes.com /motorbike-repair-in-vietnam/",
+     "5. motorbiketourexpert.com /useful-blog/motorcycle-shops",
+     "6. reddit.com /r/bicycletouring/comments/1r3o2hp/bike_repair_in_hanoi/",
+     "7. rentabikevn.com /good-mechanic-in-hanoi/",
+     "8. yamadafactory105.bike /en/",
+     "9. dreamstime.com"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 110
+   },
+   {
     "query": "motorbike vietnam",
     "market": "United States",
     "fetched_at": "2026-10-15T02:13:24.705602Z",
@@ -2408,6 +2635,49 @@
     "total_available": 111
    },
    {
+    "query": "semi automatic motorbike vietnam",
+    "market": "United States",
+    "fetched_at": "2026-10-15T03:10:18.430306Z",
+    "features": [
+     "ai_overview",
+     "video",
+     "organic",
+     "people_also_ask",
+     "related_searches"
+    ],
+    "local_pack": [],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "Can foreigners drive motorbikes in Vietnam?",
+     "What are the top 10 most reliable motorcycle brands?",
+     "Do they make an automatic motorcycle?",
+     "How much does a Honda motorcycle cost in Vietnam?"
+    ],
+    "related_searches": [
+     "Yamaha semi automatic motorbike vietnam",
+     "Best semi automatic motorbike vietnam",
+     "Honda Vietnam motorcycle price",
+     "Vietnam motorcycle brands",
+     "Best motorbike in Vietnam",
+     "Vietnam motorcycle rental",
+     "Vietnam buy motorbike",
+     "Buy scooter Vietnam"
+    ],
+    "organic_top": [
+     "1. rentabikevn.com /transmission/semi-automatic/",
+     "2. stylemotorbikes.com /the-10-best-bikes-for-travelling-vietnam/",
+     "3. facebook.com /groups/1085733898269545/posts/3332053093637603/",
+     "4. facebook.com /groups/motorbikessaigon/posts/4300311873590492/",
+     "5. facebook.com /groups/buyandsellmotorbikeinhochiminh/posts/1400459208543849/",
+     "6. reddit.com /r/VietNam/comments/1fkzd2j/buying_automatic_motorbikes_in_vietnam/",
+     "7. vietmotorbikes.com",
+     "8. facebook.com /groups/648179632218252/posts/2474262949609902/"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 124
+   },
+   {
     "query": "vietnam motorbike license for foreigners",
     "market": "United States",
     "fetched_at": "2026-10-14T14:42:21.546567Z",
@@ -2492,6 +2762,49 @@
     "en_rentbikehanoi_positions": [],
     "brand_mentions": [],
     "total_available": 131
+   },
+   {
+    "query": "vietnam traffic fines motorbike foreigners",
+    "market": "United States",
+    "fetched_at": "2026-10-15T03:10:17.973489Z",
+    "features": [
+     "ai_overview",
+     "organic",
+     "people_also_ask",
+     "related_searches"
+    ],
+    "local_pack": [],
+    "featured_snippet": null,
+    "people_also_ask": [
+     "What is the 12 second rule for motorcycles?",
+     "Can a foreigner ride a motorcycle in Vietnam?",
+     "Can a foreigner legally buy a motorbike in Vietnam?",
+     "Can I drive in Vietnam with an American license?"
+    ],
+    "related_searches": [
+     "Temporary Vietnamese motorcycle licence",
+     "Fine for driving without license Vietnam",
+     "Police checkpoints Vietnam",
+     "Motorcycle license in Vietnam",
+     "A1 license Vietnam",
+     "Vietnam scooter international license",
+     "Vietnam driving license for tourist",
+     "1949 IDP Vietnam"
+    ],
+    "organic_top": [
+     "1. reddit.com /r/VietNam/comments/122aeqr/any_tricks_to_avoid_motorbike_fines/",
+     "2. rentabikevn.com /traffic-fines-for-motorcycles-in-vietnam/",
+     "3. facebook.com /groups/vietnamtravelguideofficial/posts/1262834066032121/",
+     "4. vietcetera.com",
+     "5. forum4travel.com",
+     "6. rentabikevn.com",
+     "7. moto4free.com /traffic_fines.asp",
+     "8. vietnamspot.ru /en/blog/vietnam-pdd",
+     "9. janmotorbike.com /vietnam-motorbike-guide-for-foreigners-2025/"
+    ],
+    "en_rentbikehanoi_positions": [],
+    "brand_mentions": [],
+    "total_available": 113
    },
    {
     "query": "vietnamese motorbikes",
@@ -2591,6 +2904,13 @@
    "scope": "best scooter to rent in vietnam"
   },
   {
+   "file": "inspect_serp__buying-a-motorbike-in-vietnam-as-a-tourist-united-states.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-15",
+   "market": "us",
+   "scope": "buying a motorbike in vietnam as a tourist"
+  },
+  {
    "file": "inspect_serp__can-tourists-rent-a-motorbike-in-vietnam.json",
    "tool": "inspect_serp",
    "date": "2026-10-14",
@@ -2619,11 +2939,25 @@
    "scope": "ha giang loop motorbike rental"
   },
   {
+   "file": "inspect_serp__hanoi-motorbike-parking-united-states.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-15",
+   "market": "us",
+   "scope": "hanoi motorbike parking"
+  },
+  {
    "file": "inspect_serp__is-it-safe-to-ride-a-motorbike-in-vietnam.json",
    "tool": "inspect_serp",
    "date": "2026-10-14",
    "market": "us",
    "scope": "is it safe to ride a motorbike in vietnam"
+  },
+  {
+   "file": "inspect_serp__long-term-motorbike-rental-hanoi-expat-united-states.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-15",
+   "market": "us",
+   "scope": "long term motorbike rental hanoi expat"
   },
   {
    "file": "inspect_serp__monthly-motorbike-rental-hanoi-vietnam.json",
@@ -2647,6 +2981,13 @@
    "scope": "mopeds vietnam"
   },
   {
+   "file": "inspect_serp__motorbike-helmet-law-vietnam-united-states.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-15",
+   "market": "us",
+   "scope": "motorbike helmet law vietnam"
+  },
+  {
    "file": "inspect_serp__motorbike-rental-hanoi-united-states.json",
    "tool": "inspect_serp",
    "date": "2026-10-14",
@@ -2666,6 +3007,13 @@
    "date": "2026-10-14",
    "market": "us",
    "scope": "motorbike rental vietnam"
+  },
+  {
+   "file": "inspect_serp__motorbike-repair-shop-hanoi-united-states.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-15",
+   "market": "us",
+   "scope": "motorbike repair shop hanoi"
   },
   {
    "file": "inspect_serp__motorbike-vietnam-united-states.json",
@@ -2689,6 +3037,13 @@
    "scope": "scooter rental hanoi"
   },
   {
+   "file": "inspect_serp__semi-automatic-motorbike-vietnam-united-states.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-15",
+   "market": "us",
+   "scope": "semi automatic motorbike vietnam"
+  },
+  {
    "file": "inspect_serp__vietnam-motorbike-license-for-foreigners.json",
    "tool": "inspect_serp",
    "date": "2026-10-14",
@@ -2701,6 +3056,13 @@
    "date": "2026-10-14",
    "market": "us",
    "scope": "vietnam motorbike trip"
+  },
+  {
+   "file": "inspect_serp__vietnam-traffic-fines-motorbike-foreigners-united-states.json",
+   "tool": "inspect_serp",
+   "date": "2026-10-15",
+   "market": "us",
+   "scope": "vietnam traffic fines motorbike foreigners"
   },
   {
    "file": "inspect_serp__vietnamese-motorbikes-united-states.json",

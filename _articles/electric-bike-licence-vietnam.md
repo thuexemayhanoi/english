@@ -30,7 +30,7 @@ Vietnam classifies electric two-wheelers by construction and power, and the boun
 
 **Electric mopeds (xe gắn máy chạy điện), 4 kW and under.** Scooter-style electric two-wheelers of 4 kW or less, designed for no more than 50 km/h, fall in the moped class: no driving licence, rider must be at least 16. This is where many popular city e-bikes and small electric scooters sit.
 
-**Electric motorcycles, above 4 kW.** These need a licence, matched to power under Article 57:
+**Electric motorcycles, above 4 kW or faster than 50 km/h.** These need a licence, matched to power under Article 57 (a machine of 4 kW or less that is designed for more than 50 km/h, such as a 70 km/h scooter, is not a moped and needs an A1):
 
 | Power | Licence class |
 |---|---|
@@ -41,7 +41,7 @@ Class A covers every electric two-wheeler above 11 kW — there is no higher sep
 
 ## Why the distinction matters
 
-Riders sometimes assume every electric two-wheeler is "just a bicycle". A scooter-style electric machine that looks small can still exceed 4 kW and require an A1 licence. Check the rated power, not the size of the bike.
+Riders sometimes assume every electric two-wheeler is "just a bicycle". A scooter-style electric machine that looks small can still exceed 4 kW and require an A1 licence. Check the rated power and the top speed, not the size of the bike.
 
 ## Renting electric in Hanoi
 

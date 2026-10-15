@@ -33,7 +33,7 @@ An electric motor at low speed is at its strongest — full torque from zero —
 | Machine (verified figures) | Hill character |
 |---|---|
 | Dat Bike Weaver 200 (6,000 W, 165 kg max load) | Climbs with authority; A1 licence required |
-| VinFast Feliz II / Viper (3,000 W) | Confident city climbs; licence-free class |
+| VinFast Feliz II / Viper (3,000 W) | Confident city climbs; A1 licence (70 km/h design speed) |
 | VinFast Evo (2,450 W) | Adequate with a passenger on longer ramps |
 | VinFast Amio (800 W, 30 km/h) | Bicycle-class machine — bridges yes, long steep climbs slowly |
 

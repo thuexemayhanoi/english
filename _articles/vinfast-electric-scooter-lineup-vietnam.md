@@ -29,9 +29,9 @@ VinFast's electric two-wheeler family in Vietnam is small enough to hold in your
 |---|---|---|---|---|---|
 | Amio | 800 W | 30 km/h | 1.024 kWh LFP | up to 65 km | none (pedal-assist class) |
 | Evo Lite | (platform-limited) | below 50 km/h | 2 × 1.5 kWh LFP | (not published for Lite) | none (moped class, 16+) |
-| Evo | 2,450 W | up to 70 km/h | 2 × 1.5 kWh LFP | up to 165 km (two packs) | none (moped class, 16+) |
-| Feliz II | 3,000 W | up to 70 km/h | 2 × 1.5 kWh LFP | up to 156 km (two packs) | none (moped class, 16+) |
-| Viper | 3,000 W | up to 70 km/h | 2 × 1.5 kWh LFP | up to 156 km (two packs) | none (moped class, 16+) |
+| Evo | 2,450 W | up to 70 km/h | 2 × 1.5 kWh LFP | up to 165 km (two packs) | A1 (design speed above 50 km/h) |
+| Feliz II | 3,000 W | up to 70 km/h | 2 × 1.5 kWh LFP | up to 156 km (two packs) | A1 (design speed above 50 km/h) |
+| Viper | 3,000 W | up to 70 km/h | 2 × 1.5 kWh LFP | up to 156 km (two packs) | A1 (design speed above 50 km/h) |
 
 All four scooters share the removable 1.5 kWh LFP pack platform and the swap ecosystem; the Amio is the family's pedal-assist runabout on a smaller, single pack.
 

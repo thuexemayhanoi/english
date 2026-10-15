@@ -17,6 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "honda.com.vn - Honda VN model pages (Vision, Air Blade, Lead, Sh mode 125, SH160i/125i, Vario 125, Vario 160), official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
+  - "https://www.honda.com.vn/xe-may/xe-dien - Honda Vietnam official electric page and the linked ICON e:, CUV e: and UC3 product pages (retrieved 2026-10-15)"
 internal_link_targets: honda-vision-110-review, honda-air-blade-160-review, honda-lead-125-review, honda-sh-mode-125-review, honda-sh-160-review, honda-vario-160-review, honda-vs-yamaha-scooters-vietnam, 110cc-vs-125cc-scooters
 ---
 
@@ -49,6 +50,10 @@ The newest models in Honda's range: the Vario 125 (liquid-cooled, smart key, USB
 ## Honda Click - the import
 
 The Click 125i is imported through Honda's network rather than built on a Honda Vietnam product page we could verify, so we make no technical claims here. It is on Nguyen Tu's owner-approved rental price list at 150,000 VND per day, 600,000-700,000 VND per week, 1,000,000-1,200,000 VND per month. Contact us to confirm current availability.
+
+## Honda's electric models
+
+Honda Vietnam now sells electric scooters alongside this petrol range: the ICON e: (1.81 kW, 48 km/h), which is a licence-free electric moped, and the CUV e: and UC3 (about 6.0 kW, 80 to 82 km/h), which need an A1 licence. Their verified figures sit in our [electric market overview]({{ '/articles/vietnam-electric-two-wheeler-market-overview/' | relative_url }}); for rental availability of any electric model, contact us.
 
 ## How to choose
 

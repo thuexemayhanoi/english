@@ -44,7 +44,7 @@ Sticker prices start low: Yadea's Vietnamese line-up lists models from around 13
 ## A shortlist to start
 
 - **No licence, student budget:** pedal-assisted or sub-50 km/h models (VinFast Amio, Evo Lite class; Yadea's city models).
-- **No licence, more speed:** sub-4 kW scooters reaching 70 km/h (VinFast Evo, Feliz II, Viper).
+- **A1 licence, city speed:** sub-4 kW scooters reaching 70 km/h (VinFast Evo, Feliz II, Viper); the design speed above 50 km/h takes them out of the moped class.
 - **A1 licence, real distance:** Dat Bike Weaver 200 or Weaver++.
 
 Try the format before committing: renting an E-Bike (200,000 VND per day at this shop; contact us to confirm availability) tells you whether electric suits your week at all.

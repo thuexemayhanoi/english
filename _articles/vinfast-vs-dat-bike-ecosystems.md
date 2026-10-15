@@ -38,7 +38,7 @@ Dat Bike's Weavers carry big fixed packs (72 V 68 Ah on the Weaver 200) charged 
 
 ## How to choose
 
-- **No licence, no socket, budget-first:** VinFast's swap models are close to purpose-built for you.
+- **No licence, no socket, budget-first:** VinFast's speed-limited Evo Lite is close to purpose-built for you (the 70 km/h Evo, Feliz II and Viper need an A1 licence).
 - **A1 licence, home charging, real distance and pace:** the Weavers.
 - **High daily mileage in swap-network territory:** VinFast rental maths; **weekend tour riders:** Dat Charge maths.
 

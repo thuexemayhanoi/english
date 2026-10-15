@@ -30,7 +30,7 @@ A delivery rider's machine covers in a week what a commuter covers in a month, s
 
 ## What the verified machines offer
 
-- **VinFast swap class (Evo 2,450 W, up to 165 km claimed; Feliz II / Viper 3,000 W, up to 156 km)**: licence-free, and the cabinet network (first 4,500 stations installed by mid-January 2026, 45,000 planned) is designed for exactly this duty — a two-minute swap between orders.
+- **VinFast swap class (Evo 2,450 W, up to 165 km claimed; Feliz II / Viper 3,000 W, up to 156 km)**: A1 licence required, because they reach 70 km/h, above the 50 km/h moped limit (the speed-limited Evo Lite is the licence-free version), and the cabinet network (first 4,500 stations installed by mid-January 2026, 45,000 planned) is designed for exactly this duty — a two-minute swap between orders.
 - **Dat Bike Weaver 200 (6,000 W, 200 km claimed at 35 km/h, 1 h for the first 100 km of charge)**: A1 licence required, but a working rider can realistically sleep-charge to full and spend the day riding, with the published 150,000 km / 15-year battery-life claim and 48-hour on-site service speaking directly to high-mileage durability.
 - **Weaver++ (100 km in 20 minutes at Dat Charge)**: the fast-charge option for mid-shift top-ups on the A1 class.
 
@@ -43,4 +43,4 @@ A delivery rider's machine covers in a week what a commuter covers in a month, s
 
 ## Who should ride what
 
-Swap-capable licence-free machines suit urban food-delivery patterns (short hops, dense cabinet coverage); the A1 charge-at-home class suits long-shift, long-radius work for riders who hold the licence. The honest advice: run the numbers on your own weekly kilometres before switching — the format rewards high mileage best when the refuelling model matches the shift pattern.
+Swap-capable scooters suit urban food-delivery patterns (short hops, dense cabinet coverage); the charge-at-home class suits long-shift, long-radius work. At 70 km/h and above, both need an A1 licence. The honest advice: run the numbers on your own weekly kilometres before switching — the format rewards high mileage best when the refuelling model matches the shift pattern.

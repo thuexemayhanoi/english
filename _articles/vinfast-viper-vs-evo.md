@@ -21,7 +21,7 @@ sources:
 internal_link_targets: vinfast-viper-review, vinfast-evo-review, vinfast-electric-scooter-lineup-vietnam, vinfast-viper-vs-feliz-2, vinfast-evo-vs-feliz-2
 ---
 
-The Viper and the Evo are two answers to the same brief — a licence-free electric scooter on VinFast's two-pack swap platform — and the difference between them is a clean choice between a technology package and maximum claimed range. All figures are official launch data.
+The Viper and the Evo are two answers to the same brief — a 70 km/h electric scooter on VinFast's two-pack swap platform (both need an A1 licence; only the speed-limited Evo Lite is licence-free) — and the difference between them is a clean choice between a technology package and maximum claimed range. All figures are official launch data.
 
 ## Head to head
 

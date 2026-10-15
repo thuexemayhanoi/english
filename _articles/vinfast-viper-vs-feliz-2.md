@@ -41,4 +41,4 @@ The inherited, familiar scooter body of Vietnam's best-known electric family —
 
 **Choose the Feliz II if** you value the traditional format and would rather spend the difference on batteries you own or extra swap credit — the riding performance is identical by specification.
 
-Both are licence-free and network-identical, so this comparison is a straight equipment-versus-preference decision rather than a performance one. The full reviews carry every verified figure.
+Both need an A1 licence (70 km/h design speed) and are network-identical, so this comparison is a straight equipment-versus-preference decision rather than a performance one. The full reviews carry every verified figure.

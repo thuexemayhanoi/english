@@ -26,7 +26,7 @@ A test ride decides whether an electric motorbike suits you in the first thirty 
 
 ## Before you ride
 
-Confirm the machine matches your licence position (the kW ladder matters: swap-capable scooter or A1-class machine). Walk round it: tyre condition, panel gaps, the charge port, both levers, the lights. Then turn it on and look at the display's error state before anything moves.
+Confirm the machine matches your licence position (the kW ladder and the 50 km/h moped limit both matter: a 70 km/h swap scooter needs an A1 licence just like a 6 kW machine). Walk round it: tyre condition, panel gaps, the charge port, both levers, the lights. Then turn it on and look at the display's error state before anything moves.
 
 ## The first thirty seconds
 

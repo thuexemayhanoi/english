@@ -1,6 +1,6 @@
 # Automated Maintenance Report
 
-- Run timestamp (UTC): 2026-10-15T02:20:41.853Z
+- Run timestamp (UTC): 2026-10-15T03:15:44.075Z
 - MAIN SHA audited: unknown
 - Mode: audit only
 
@@ -27,7 +27,7 @@
 | SEO score | overall 96.9 (OK) |
 | SEO regression guard | pass (no metric regressed vs accepted baseline) |
 | SEO fix matrix | 2 root causes (5 findings, 0 auto-fixable, 2 review-only) |
-| English SEO matrix | P0=0 P1=4 P2=0 P3=999, content gaps 20 (unchanged) |
+| English SEO matrix | P0=0 P1=4 P2=0 P3=999, content gaps 23 (unchanged) |
 | Topical map | in-silo link share 67%, 244 article(s) without an in-silo inbound link, 0 split keyword families, recommendations P3=6 (unchanged) |
 
 ## Counts per cluster

@@ -114,13 +114,25 @@ Generated 2026-10-15 by `scripts/english-seo-matrix.js`. Keyword ownership is de
 | Motorbike across Vietnam _(variant of Hanoi to Ho Chi Minh by motorbike)_ | informational | /articles/hanoi-to-ho-chi-minh-city-by-motorbike/ | Hanoi to Ho Chi Minh City by Motorbike: The North-to-South Ride | partial |  | Riding the length of the country; previously resolved by title to a left-turn technique article. |
 | Motorbike licence Vietnam | informational | /topics/law-licences/ | Vietnam Motorbike Laws and Licences | full |  | Zero-data keyword universe (docs/seo/keyword-universe.json, third-party estimate); the law and licences pillar. |
 | Vietnam bike licence _(variant of Motorbike licence Vietnam)_ | informational | /topics/law-licences/ | Vietnam Motorbike Laws and Licences | partial |  |  |
-| Temporary Vietnamese motorbike licence _(variant of Motorbike licence Vietnam)_ **GAP** | informational | /topics/law-licences/ | Vietnam Motorbike Laws and Licences | partial |  | No temporary-licence route is described on the site; the pillar's licence options (IDP, exchange for residents) are the nearest honest answer. Any new sentence needs verification against current law first. |
+| Temporary Vietnamese motorbike licence _(variant of Motorbike licence Vietnam)_ | informational | /articles/motorbike-learner-permit-vietnam/ | Does Vietnam Have a Motorbike Learner Permit | partial | /topics/law-licences/, /articles/foreign-licence-exchange-vietnam/ | The VERIFIED learner-permit guide answers it: Vietnam issues no motorbike learner permit or provisional licence; the routes are course, test and licence, or an exchanged foreign licence. |
 | Hanoi motorbike rental cost _(variant of Hanoi motorbike rental prices)_ | commercial | /articles/motorbike-rental-price-hanoi/ | How Much Does It Cost to Rent a Motorbike in Hanoi? | full |  |  |
 | Scooter rental Vietnam price _(variant of Hanoi motorbike rental prices)_ | commercial | /articles/motorbike-rental-price-hanoi/ | How Much Does It Cost to Rent a Motorbike in Hanoi? | partial |  | The only verified rental prices on the site are the Hanoi rates in docs/OWNER-FACTS.md. |
 | Honda CT125 Vietnam _(variant of Honda CT125 review)_ | commercial | /articles/honda-ct125-review/ | Honda CT125 Review: The Cub That Wants to Go Exploring | full |  | Model head term; the review is the model page (previously resolved to a comparison). |
 | Yamaha motorbike Vietnam _(variant of Honda motorbike Vietnam)_ | informational | /topics/motorcycles/ | Motorcycles in Vietnam | full | /articles/yamaha-scooter-lineup-vietnam-explained/ | Brand head term served like the Honda one: the motorcycles pillar, with the Yamaha line-up guide in support. |
 | Motorbike rental Hanoi to Ho Chi Minh _(variant of One way motorbike rental Vietnam)_ | commercial | /articles/one-way-motorbike-rental-vietnam/ | One-Way Motorbike Rental in Vietnam: How North to South Works | full | /articles/hanoi-to-ho-chi-minh-city-by-motorbike/ | Renting for the north-south ride is the one-way rental question; the route guide keeps the journey keywords (Hanoi to Ho Chi Minh by motorbike). |
-| Suzuki motorbike Vietnam _(variant of Honda motorbike Vietnam)_ **GAP** | informational | /topics/motorcycles/ | Motorcycles in Vietnam | partial |  | No Suzuki model data on the site: the Suzuki Vietnam manufacturer pages were not retrievable when the model database was built (docs/matrix/batch-13-status.md). The motorcycles pillar is the nearest honest page; Suzuki facts may be added only from verified manufacturer rows. |
+| Suzuki motorbike Vietnam _(variant of Honda motorbike Vietnam)_ | informational | /topics/motorcycles/ | Motorcycles in Vietnam | partial |  | Served by the motorcycles pillar since matrix batch 4: Suzuki Vietnam's official line-up (Satria 147.3 cc, V-Strom 250SX 249 cc, retrieved 2026-10-15) is recorded in docs/MODEL-DATABASE.md and named on the pillar with its licence class. |
+| American licence Vietnam _(variant of Motorbike licence Vietnam)_ | informational | /articles/1968-vienna-convention-idp-vietnam/ | The 1968 Vienna Convention and Riding in Vietnam | weak | /articles/which-countries-idp-valid-vietnam/ | SERP question "Can I drive in Vietnam with an American license?" (OpenRush, US, 2026-10-15); the VERIFIED convention guide records that the United States is not a party to the 1968 Vienna Convention. |
+| 1949 IDP Vietnam _(variant of Motorbike licence Vietnam)_ | informational | /articles/which-countries-idp-valid-vietnam/ | Which Countries' IDPs Work in Vietnam | partial |  | Related search (OpenRush, US, 2026-10-15); the VERIFIED guide explains that 1949 Geneva Convention IDPs are not recognised. |
+| Vietnam licence for tourists _(variant of Motorbike licence Vietnam)_ | informational | /articles/can-tourists-ride-motorbike-vietnam/ | Can Tourists Legally Ride a Motorbike in Vietnam? | full |  |  |
+| Vietnam driving laws _(variant of Motorbike licence Vietnam)_ | informational | /topics/law-licences/ | Vietnam Motorbike Laws and Licences | partial |  |  |
+| Police checkpoints Vietnam _(variant of Stopped by traffic police Vietnam)_ | informational | /articles/stopped-by-traffic-police-vietnam/ | Stopped by Traffic Police in Vietnam: What to Do | partial |  | Related search (OpenRush, US, 2026-10-15); the VERIFIED guide covers what to do at a stop. |
+| Used mopeds Vietnam _(variant of Mopeds Vietnam)_ | commercial | /articles/used-50cc-inspection-checklist/ | Used 50cc Inspection Checklist: Twenty Minutes Before You Pay | partial |  | A moped in Vietnamese law includes the 50 cc petrol class; the used-50cc checklist is the buying answer. |
+| International licence Vietnam _(variant of Motorbike licence Vietnam)_ | informational | /articles/idp-vietnam-motorbike-rules/ | International Driving Permits in Vietnam: Motorbike IDP Rules | full | /articles/which-countries-idp-valid-vietnam/ |  |
+| Can a foreigner legally buy a motorbike in Vietnam _(variant of Buying a motorbike in Vietnam)_ | informational | /articles/buying-motorbike-as-tourist-vietnam/ | Buying a Motorbike in Vietnam as a Tourist: The Honest Guide | partial |  | SERP question (OpenRush, US, 2026-10-15); the tourist buying guide covers the bluecard, the sales contract and why registration in a foreigner's name depends on residence. |
+| Vietnam motorcycle brands _(variant of Honda motorbike Vietnam)_ | informational | /topics/motorcycles/ | Motorcycles in Vietnam | partial | /articles/honda-vs-yamaha-scooters-vietnam/, /articles/vietnam-electric-two-wheeler-market-overview/ | The pillar names the brands with official Vietnamese line-ups (Honda, Yamaha, Suzuki, SYM, Piaggio; electric brands via the market overview), retrieved 2026-10-15; specifications only where verified. |
+| What are the major motorcycle brands in Vietnam _(variant of Vietnam motorcycle brands)_ | informational | /topics/motorcycles/ | Motorcycles in Vietnam | weak |  | SERP question (OpenRush, US, 2026-10-15). |
+| What are some new electric bike brands _(variant of Electric motorbike Vietnam)_ | informational | /articles/vietnam-electric-two-wheeler-market-overview/ | Vietnam Electric Two-Wheeler Market: A Verified Overview | weak |  | SERP question (OpenRush, US, electric bike rental Hanoi SERP); the overview names VinFast, Dat Bike, Yadea, Honda and Yamaha. |
+| How much does an electric bike usually cost _(variant of Electric motorbike Vietnam)_ | informational | /articles/cheapest-electric-motorbikes-vietnam-list-prices/ | Cheapest Electric Motorbikes in Vietnam: Verified List Prices | weak |  | SERP question; the list-price guide gives verified manufacturer list prices. |
 
 ## Topic cluster map (14 clusters, 981 articles)
 
@@ -128,15 +140,15 @@ Generated 2026-10-15 by `scripts/english-seo-matrix.js`. Keyword ownership is de
 |---|---|---|---|---|---|---|---|
 | 1 | rental | /topics/rental/ | 81 | 34 | 47 | 410 | 5 |
 | 2 | monthly-rental | /topics/monthly-rental/ | 45 | 12 | 33 | 356 | 5 |
-| 3 | scooters | /topics/scooters/ | 110 | 51 | 59 | 371 | 4 |
+| 3 | scooters | /topics/scooters/ | 110 | 51 | 59 | 373 | 4 |
 | 4 | motorcycles | /topics/motorcycles/ | 108 | 65 | 43 | 333 | 4 |
 | 5 | manual-clutch | /topics/manual-clutch/ | 55 | 9 | 46 | 385 | 4 |
 | 6 | 50cc | /topics/50cc/ | 40 | 0 | 40 | 398 | 6 |
-| 7 | electric | /topics/electric/ | 89 | 5 | 84 | 342 | 9 |
+| 7 | electric | /topics/electric/ | 89 | 5 | 84 | 348 | 9 |
 | 8 | maintenance | /topics/maintenance/ | 120 | 0 | 120 | 438 | 3 |
 | 9 | parts-gear | /topics/parts-gear/ | 90 | 0 | 90 | 374 | 5 |
 | 10 | safety | /topics/safety/ | 55 | 0 | 55 | 331 | 3 |
-| 11 | law-licences | /topics/law-licences/ | 66 | 0 | 66 | 393 | 4 |
+| 11 | law-licences | /topics/law-licences/ | 66 | 0 | 66 | 394 | 4 |
 | 12 | hanoi | /topics/hanoi/ | 54 | 0 | 54 | 492 | 3 |
 | 13 | trips | /topics/trips/ | 38 | 0 | 38 | 452 | 3 |
 | 14 | vietnam-travel | /topics/vietnam-travel/ | 30 | 0 | 30 | 571 | 4 |
@@ -286,5 +298,3 @@ Generated 2026-10-15 by `scripts/english-seo-matrix.js`. Keyword ownership is de
 |---|---|---|
 | Honda Cub rental Hanoi | /articles/riding-honda-super-cub-c125-vietnam/ | No Cub appears in the approved price list, so no rental page is created or implied; the riding guide serves the query and availability is contact-only. |
 | VinFast electric scooter rental Hanoi | /articles/can-foreigners-rent-electric-bike-vietnam/ | No VinFast rental model is in the approved fleet list; availability is contact-only. Supporting lineup guide: /articles/vinfast-electric-scooter-lineup-vietnam/. |
-| Temporary Vietnamese motorbike licence | /topics/law-licences/ | No temporary-licence route is described on the site; the pillar's licence options (IDP, exchange for residents) are the nearest honest answer. Any new sentence needs verification against current law first. |
-| Suzuki motorbike Vietnam | /topics/motorcycles/ | No Suzuki model data on the site: the Suzuki Vietnam manufacturer pages were not retrievable when the model database was built (docs/matrix/batch-13-status.md). The motorcycles pillar is the nearest honest page; Suzuki facts may be added only from verified manufacturer rows. |

@@ -620,11 +620,14 @@
     },
     {
      "keyword": "Temporary Vietnamese motorbike licence",
-     "owner": "/topics/law-licences/",
+     "owner": "/articles/motorbike-learner-permit-vietnam/",
      "intent": "informational",
      "variant_of": "Motorbike licence Vietnam",
-     "gap": true,
-     "note": "No temporary-licence route is described on the site; the pillar's licence options (IDP, exchange for residents) are the nearest honest answer. Any new sentence needs verification against current law first."
+     "note": "The VERIFIED learner-permit guide answers it: Vietnam issues no motorbike learner permit or provisional licence; the routes are course, test and licence, or an exchanged foreign licence.",
+     "supporting": [
+      "/topics/law-licences/",
+      "/articles/foreign-licence-exchange-vietnam/"
+     ]
     },
     {
      "keyword": "Hanoi motorbike rental cost",
@@ -671,8 +674,98 @@
      "owner": "/topics/motorcycles/",
      "intent": "informational",
      "variant_of": "Honda motorbike Vietnam",
-     "gap": true,
-     "note": "No Suzuki model data on the site: the Suzuki Vietnam manufacturer pages were not retrievable when the model database was built (docs/matrix/batch-13-status.md). The motorcycles pillar is the nearest honest page; Suzuki facts may be added only from verified manufacturer rows."
+     "note": "Served by the motorcycles pillar since matrix batch 4: Suzuki Vietnam's official line-up (Satria 147.3 cc, V-Strom 250SX 249 cc, retrieved 2026-10-15) is recorded in docs/MODEL-DATABASE.md and named on the pillar with its licence class."
+    },
+    {
+     "keyword": "American licence Vietnam",
+     "owner": "/articles/1968-vienna-convention-idp-vietnam/",
+     "intent": "informational",
+     "variant_of": "Motorbike licence Vietnam",
+     "supporting": [
+      "/articles/which-countries-idp-valid-vietnam/"
+     ],
+     "note": "SERP question \"Can I drive in Vietnam with an American license?\" (OpenRush, US, 2026-10-15); the VERIFIED convention guide records that the United States is not a party to the 1968 Vienna Convention."
+    },
+    {
+     "keyword": "1949 IDP Vietnam",
+     "owner": "/articles/which-countries-idp-valid-vietnam/",
+     "intent": "informational",
+     "variant_of": "Motorbike licence Vietnam",
+     "note": "Related search (OpenRush, US, 2026-10-15); the VERIFIED guide explains that 1949 Geneva Convention IDPs are not recognised."
+    },
+    {
+     "keyword": "Vietnam licence for tourists",
+     "owner": "/articles/can-tourists-ride-motorbike-vietnam/",
+     "intent": "informational",
+     "variant_of": "Motorbike licence Vietnam"
+    },
+    {
+     "keyword": "Vietnam driving laws",
+     "owner": "/topics/law-licences/",
+     "intent": "informational",
+     "variant_of": "Motorbike licence Vietnam"
+    },
+    {
+     "keyword": "Police checkpoints Vietnam",
+     "owner": "/articles/stopped-by-traffic-police-vietnam/",
+     "intent": "informational",
+     "variant_of": "Stopped by traffic police Vietnam",
+     "note": "Related search (OpenRush, US, 2026-10-15); the VERIFIED guide covers what to do at a stop."
+    },
+    {
+     "keyword": "Used mopeds Vietnam",
+     "owner": "/articles/used-50cc-inspection-checklist/",
+     "intent": "commercial",
+     "variant_of": "Mopeds Vietnam",
+     "note": "A moped in Vietnamese law includes the 50 cc petrol class; the used-50cc checklist is the buying answer."
+    },
+    {
+     "keyword": "International licence Vietnam",
+     "owner": "/articles/idp-vietnam-motorbike-rules/",
+     "intent": "informational",
+     "variant_of": "Motorbike licence Vietnam",
+     "supporting": [
+      "/articles/which-countries-idp-valid-vietnam/"
+     ]
+    },
+    {
+     "keyword": "Can a foreigner legally buy a motorbike in Vietnam",
+     "owner": "/articles/buying-motorbike-as-tourist-vietnam/",
+     "intent": "informational",
+     "variant_of": "Buying a motorbike in Vietnam",
+     "note": "SERP question (OpenRush, US, 2026-10-15); the tourist buying guide covers the bluecard, the sales contract and why registration in a foreigner's name depends on residence."
+    },
+    {
+     "keyword": "Vietnam motorcycle brands",
+     "owner": "/topics/motorcycles/",
+     "intent": "informational",
+     "variant_of": "Honda motorbike Vietnam",
+     "supporting": [
+      "/articles/honda-vs-yamaha-scooters-vietnam/",
+      "/articles/vietnam-electric-two-wheeler-market-overview/"
+     ],
+     "note": "The pillar names the brands with official Vietnamese line-ups (Honda, Yamaha, Suzuki, SYM, Piaggio; electric brands via the market overview), retrieved 2026-10-15; specifications only where verified."
+    },
+    {
+     "keyword": "What are the major motorcycle brands in Vietnam",
+     "owner": "/topics/motorcycles/",
+     "intent": "informational",
+     "variant_of": "Vietnam motorcycle brands",
+     "note": "SERP question (OpenRush, US, 2026-10-15)."
+    },
+    {
+     "keyword": "What are some new electric bike brands",
+     "owner": "/articles/vietnam-electric-two-wheeler-market-overview/",
+     "intent": "informational",
+     "variant_of": "Electric motorbike Vietnam",
+     "note": "SERP question (OpenRush, US, electric bike rental Hanoi SERP); the overview names VinFast, Dat Bike, Yadea, Honda and Yamaha."
+    },
+    {
+     "keyword": "How much does an electric bike usually cost",
+     "owner": "/articles/cheapest-electric-motorbikes-vietnam-list-prices/",
+     "intent": "informational",
+     "variant_of": "Electric motorbike Vietnam",
+     "note": "SERP question; the list-price guide gives verified manufacturer list prices."
     }
    ]
   }

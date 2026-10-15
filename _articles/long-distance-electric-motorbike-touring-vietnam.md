@@ -30,9 +30,9 @@ Touring Vietnam on two wheels has always been a petrol discipline — range meas
 |---|---|
 | Dat Bike Weaver 200 | 200 km claimed at 35 km/h; 130 km at 70 km/h; 90 km/h top speed; 1 h restores the first 100 km of range; 165 kg max load for luggage |
 | Dat Bike Weaver++ | 200 km claimed; 100 km in 20 minutes at Dat Charge stations |
-| VinFast swap class (Evo, Feliz II, Viper) | up to 165/156 km claimed, licence-free — but touring range depends on cabinet coverage along the route |
+| VinFast swap class (Evo, Feliz II, Viper) | up to 165/156 km claimed, A1 licence (70 km/h design speed) — but touring range depends on cabinet coverage along the route |
 
-The A1-class charge-at-home machines are the genuine touring tools: the Weaver 200's 130 km at a real 70 km/h is the figure that matters for highway sections, not the city-cycle 200. The licence-free swap class tours only where the V-Green network reaches — currently 34 provinces and cities per the published plan, with first 4,500 stations installed by mid-January 2026. A route through network gaps becomes a charging-logistics problem.
+The A1-class charge-at-home machines are the genuine touring tools: the Weaver 200's 130 km at a real 70 km/h is the figure that matters for highway sections, not the city-cycle 200. The swap class tours only where the V-Green network reaches — currently 34 provinces and cities per the published plan, with first 4,500 stations installed by mid-January 2026. A route through network gaps becomes a charging-logistics problem.
 
 ## The planning discipline
 
@@ -44,7 +44,7 @@ The A1-class charge-at-home machines are the genuine touring tools: the Weaver 2
 
 ## Licence and legal notes
 
-A1-class machines require an A1 licence; the licence-free class is capped at 70 km/h machines anyway. Expressways are closed to motorbikes regardless of drive type — touring electric uses the same national and provincial roads as every Vietnamese tour.
+Both classes need an A1 licence: the Dat Bike machines because they exceed 4 kW, the VinFast swap scooters because they are designed for 70 km/h. Only speed-limited mopeds below 50 km/h are licence-free, and they are not touring machines. Expressways are closed to motorbikes regardless of drive type — touring electric uses the same national and provincial roads as every Vietnamese tour.
 
 ## Is it there yet?
 

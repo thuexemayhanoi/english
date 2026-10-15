@@ -28,7 +28,7 @@ Generated 2026-10-15 by `scripts/english-seo-matrix.js` from `docs/seo/keyword-u
 - competitor-brand: 10
 - other-city: 13
 - adjacent: 29
-- core served by an existing URL: 108 (2 only by a partial match, marked _weak_); core gaps: 0
+- core served by an existing URL: 108 (0 only by a partial match, marked _weak_); core gaps: 0
 - estimated monthly demand covered (core served / core total): AU 750/750, UK 350/350, US 16160/16160, VN 50000/50000
 
 ## Core keywords by topic
@@ -72,7 +72,7 @@ Generated 2026-10-15 by `scripts/english-seo-matrix.js` from `docs/seo/keyword-u
 | motorbike license vietnam | informational |  |  | 50 |  |  | /topics/law-licences/ | keyword-targets owner (Motorbike licence Vietnam) |
 | motorbike vietnam license | informational |  |  | 50 |  |  | /topics/law-licences/ | keyword-targets owner (Motorbike licence Vietnam) |
 | vietnam bike license | informational |  |  | 50 |  |  | /topics/law-licences/ | keyword-targets owner (Vietnam bike licence) |
-| temporary vietnamese motorcycle licence _weak_ | informational |  |  | 10 |  |  | /topics/law-licences/ | declared GAP keyword (Temporary Vietnamese motorbike licence): nearest existing URL, no dedicated page |
+| temporary vietnamese motorcycle licence | informational |  |  | 10 |  |  | /articles/motorbike-learner-permit-vietnam/ | keyword-targets owner (Temporary Vietnamese motorbike licence) |
 | vietnam motorbike license reddit | informational |  |  | 10 |  |  | /topics/law-licences/ | keyword-targets owner (Motorbike licence Vietnam) (community-platform modifier ignored) |
 
 ### rental-hanoi (20)
@@ -175,7 +175,7 @@ Generated 2026-10-15 by `scripts/english-seo-matrix.js` from `docs/seo/keyword-u
 | electric motorbike vietnam | transactional |  |  |  | 110 |  | /topics/electric/ | keyword-targets owner (Electric motorbike Vietnam) |
 | 50cc motorbike vietnam | transactional |  |  |  | 50 |  | /topics/50cc/ | keyword-targets owner (50cc motorbike Vietnam) |
 | honda ct125 vietnam | transactional |  |  |  | 50 |  | /articles/honda-ct125-review/ | keyword-targets owner (Honda CT125 Vietnam) |
-| suzuki motorbike vietnam _weak_ | transactional |  |  |  | 50 |  | /topics/motorcycles/ | declared GAP keyword (Suzuki motorbike Vietnam): nearest existing URL, no dedicated page |
+| suzuki motorbike vietnam | transactional |  |  |  | 50 |  | /topics/motorcycles/ | keyword-targets owner (Suzuki motorbike Vietnam) |
 | airblade honda vietnam | transactional |  |  |  | 30 |  | /articles/honda-air-blade-125-review/ | title/keyword match on the distinctive words (airblad honda) |
 | honda electric bike vietnam | transactional |  |  |  | 10 |  | /articles/vietnam-electric-two-wheeler-market-overview/ | keyword-targets owner (Honda electric bike Vietnam) |
 | vinfast motorbike vietnam | informational |  |  | 10 |  |  | /articles/vinfast-electric-scooter-lineup-vietnam/ | title/keyword match on the distinctive words (vinfast) |

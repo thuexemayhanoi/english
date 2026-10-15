@@ -1,7 +1,7 @@
 ---
 title: "Dat Bike Weaver 200 vs VinFast Feliz II: Charge vs Swap"
 slug: dat-bike-weaver-200-vs-vinfast-feliz-2
-description: "Dat Bike Weaver 200 vs VinFast Feliz II compared on official data: the A1-class charge-at-home distance machine against the licence-free swap-scooter."
+description: "Dat Bike Weaver 200 vs VinFast Feliz II compared on official data: the A1-class charge-at-home distance machine against the 70 km/h swap scooter."
 category: electric
 tags:
   - "dat bike"
@@ -22,7 +22,7 @@ sources:
 internal_link_targets: "dat-bike-weaver-200-review, vinfast-feliz-2-review, vinfast-vs-dat-bike-ecosystems, battery-swap-vs-home-charging-vietnam, electric-motorbike-power-kw-licence-vietnam, electric-motorbike-delivery-riders-vietnam, vinfast-viper-vs-evo"
 ---
 
-This is the sharpest contrast in Vietnamese electric two-wheelers: two machines with almost identical top speeds, built on opposite philosophies. The Weaver 200 is an A1-licence motorcycle that charges at home; the Feliz II is a licence-free scooter whose packs belong to a swap network. All figures are official.
+This is the sharpest contrast in Vietnamese electric two-wheelers: two machines with almost identical top speeds, built on opposite philosophies. The Weaver 200 is an A1-licence motorcycle that charges at home; the Feliz II is a scooter whose packs belong to a swap network. Both need an A1 licence. All figures are official.
 
 ## Head to head
 
@@ -39,13 +39,13 @@ This is the sharpest contrast in Vietnamese electric two-wheelers: two machines 
 
 ## The real difference: who can ride it and how it drinks
 
-Everything else follows the licence line. Above 4 kW, the Weaver 200 demands an A1 licence; the Feliz II sits licence-free under it. That single legal fact decides most purchases before any spec is read — [the kW ladder guide]({{ '/articles/electric-motorbike-power-kw-licence-vietnam/' | relative_url }}) explains why.
+The licence does not separate them: the Weaver 200 needs an A1 licence because it is above 4 kW, and the Feliz II needs one because its 70 km/h design speed is above the 50 km/h moped limit, even at 3,000 W — [the kW ladder guide]({{ '/articles/electric-motorbike-power-kw-licence-vietnam/' | relative_url }}) explains why.
 
 For riders past the licence question, the choice is refuelling style. The Weaver 200 owns its range (200 km claimed at 35 km/h) and pays for it with a cable: a lunch hour restores 100 km, overnight restores everything. The Feliz II rents its range from the network — V-Green had its first 4,500 stations installed by mid-January 2026, with 45,000 planned — and pays 9,000 VND per battery per swap or 175,000–300,000 VND monthly rental for the privilege of never charging at all.
 
 ## Who should pick which
 
 - **Weaver 200**: A1 holders who like motorcycles, tour, or ride long intercity sections — and who accept home charging as a lifestyle. Review.
-- **Feliz II**: licence-free riders who want city transport with maximum convenience and no charging discipline. Review.
+- **Feliz II**: A1 riders who want city transport with maximum convenience and no charging discipline. Review.
 
 The ecosystem comparison expands the philosophy contrast; [the swap-vs-charge guide]({{ '/articles/battery-swap-vs-home-charging-vietnam/' | relative_url }}) works the economics; and rental availability of either style of machine: contact us to confirm current availability.

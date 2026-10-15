@@ -6,7 +6,7 @@ topic_cluster: electric
 description: "Electric motorbikes, mopeds and e-bikes in Vietnam: legal classes, real-world range, charging, battery care, and renting electric in Hanoi."
 faq:
   - q: "Can foreigners rent an electric bike in Hanoi?"
-    a: "Yes. The Nguyen Tu E-Bike is published at 200,000 VND per day; weekly and monthly rates are quoted on request. The same documents apply as for a petrol bike, and machines above 4 kW still need the matching licence class."
+    a: "Yes. The Nguyen Tu E-Bike is published at 200,000 VND per day; weekly and monthly rates are quoted on request. The same documents apply as for a petrol bike, and machines above 4 kW, or designed for more than 50 km/h, still need the matching licence class."
     link: "/articles/can-foreigners-rent-electric-bike-vietnam/"
     link_text: "Read the e-bike rental guide"
   - q: "Do I need a licence for an electric motorbike in Vietnam?"

@@ -20,7 +20,7 @@ sources:
 internal_link_targets: vinfast-evo-review, vinfast-viper-vs-feliz-2, electric-motorbike-smart-features, electric-motorbike-theft-security-vietnam
 ---
 
-The Viper is VinFast's tech-forward licence-free scooter: the same swap platform as the Evo with more motor, more features and a new design. All figures below are VinFast's official published data.
+The Viper is VinFast's tech-forward swap scooter, and at up to 70 km/h it needs an A1 licence: the same swap platform as the Evo with more motor, more features and a new design. All figures below are VinFast's official published data.
 
 ## Official specifications
 
@@ -35,7 +35,7 @@ The Viper is VinFast's tech-forward licence-free scooter: the same swap platform
 
 ## What stands out
 
-The security suite is the differentiator: tracking, remote find and remote immobilisation genuinely change theft economics — rare at licence-free price points. The dual rear shocks with auxiliary oil reservoirs are a comfort-and-load upgrade over simpler set-ups, aimed at Vietnam's patched roads. And with 3,000 W, the Viper holds city pace more easily than the 2,450 W Evo while staying licence-free.
+The security suite is the differentiator: tracking, remote find and remote immobilisation genuinely change theft economics — rare at this price point. The dual rear shocks with auxiliary oil reservoirs are a comfort-and-load upgrade over simpler set-ups, aimed at Vietnam's patched roads. And with 3,000 W, the Viper holds city pace more easily than the 2,450 W Evo; like the Evo, its 70 km/h design speed puts it outside the moped class.
 
 ## Trade-offs
 
@@ -43,6 +43,6 @@ The 156 km two-battery range sits slightly under the Evo's 165 km — the extra 
 
 ## Who it suits
 
-Riders who want the top of the licence-free class: more motor, better suspension and a security package that matters in city parking. Compare it directly with the Feliz II before deciding, and see our smart-features [guide]({{ '/articles/electric-motorbike-smart-features/' | relative_url }}) for what the connected kit means day to day.
+A1 riders who want the top of VinFast's swap class: more motor, better suspension and a security package that matters in city parking. Compare it directly with the Feliz II before deciding, and see our smart-features [guide]({{ '/articles/electric-motorbike-smart-features/' | relative_url }}) for what the connected kit means day to day.
 
 Head-to-head comparisons involving this model: [VinFast Viper vs Evo: Features vs Range in the Swap Family]({{ '/articles/vinfast-viper-vs-evo/' | relative_url }}); [VinFast Viper vs Feliz II: Tech Package vs Familiar Formula]({{ '/articles/vinfast-viper-vs-feliz-2/' | relative_url }}).

@@ -1448,5 +1448,52 @@
    "mapRecommendationsAfter": 6,
    "serpSnapshotsAdded": 3
   }
+ },
+ {
+  "date": "2026-10-15",
+  "batch": "matrix-queue-4",
+  "note": "Filling the matrix gaps from primary sources, inside existing URLs only. (a) Licence-class correction: 22 electric articles, the VinFast line-up table, two hub FAQ answers and docs/MODEL-DATABASE.md treated the 70 km/h VinFast Evo, Feliz II and Viper as licence-free because they are under 4 kW. Article 34(1)(g) of Law 36/2024/QH15, as the VERIFIED law articles record, defines the moped by both limits (4 kW or less AND a design speed of no more than 50 km/h), and VinFast's own release says only the speed-limited Evo Lite needs no licence; every statement now gives A1 for the 70 km/h models and keeps the Evo Lite and Amio licence-free. (b) Verified rows from the manufacturers' official Vietnamese pages (retrieved 2026-10-15): Honda ICON e:, CUV e:, UC3; Yamaha NEO's; Suzuki Satria and V-Strom 250SX; served in the electric market overview, the Honda and Yamaha line-up guides and the motorcycles pillar (with SYM and Piaggio named as official Vietnamese sellers without unverified figures). (c) Seven new SERP snapshots (OpenRush, US) for helmet law, traffic fines, buying as a tourist, semi-automatics, repair shops, parking and long-term rental; the questions they raised are mapped to the VERIFIED pages that already answer them (IDP and 1968 Convention guides, police stops, the used 50cc checklist, the tourist buying guide), the law hub FAQ now names foreigners as well as tourists, and drive/ride share one stem in the resolver. No new article; no business fact, rental price or policy changed.",
+  "urls": [
+   "/articles/50cc-vs-e-bike-vietnam/",
+   "/articles/buying-first-electric-motorbike-vietnam/",
+   "/articles/can-you-ride-electric-motorbike-with-car-licence-vietnam/",
+   "/articles/dat-bike-weaver-200-vs-vinfast-feliz-2/",
+   "/articles/electric-bike-licence-vietnam/",
+   "/articles/electric-moped-vs-electric-motorcycle-vietnam/",
+   "/articles/electric-motorbike-delivery-riders-vietnam/",
+   "/articles/electric-motorbike-older-riders-vietnam/",
+   "/articles/electric-motorbike-power-kw-licence-vietnam/",
+   "/articles/honda-scooter-lineup-vietnam-explained/",
+   "/articles/how-electric-motorbikes-work/",
+   "/articles/hub-vs-mid-motor-electric-motorbikes/",
+   "/articles/long-distance-electric-motorbike-touring-vietnam/",
+   "/articles/riding-electric-moped-16-vietnam/",
+   "/articles/riding-electric-motorbike-hills-bridges-hanoi/",
+   "/articles/test-riding-electric-motorbike-vietnam/",
+   "/articles/v-green-battery-swap-network-guide/",
+   "/articles/vietnam-electric-two-wheeler-market-overview/",
+   "/articles/vinfast-electric-scooter-lineup-vietnam/",
+   "/articles/vinfast-evo-review/",
+   "/articles/vinfast-feliz-2-review/",
+   "/articles/vinfast-viper-review/",
+   "/articles/vinfast-viper-vs-evo/",
+   "/articles/vinfast-viper-vs-feliz-2/",
+   "/articles/vinfast-vs-dat-bike-ecosystems/",
+   "/articles/what-is-electric-motorbike-vietnam/",
+   "/articles/yamaha-scooter-lineup-vietnam-explained/",
+   "/topics/electric/",
+   "/topics/law-licences/",
+   "/topics/motorcycles/"
+  ],
+  "counts": {
+   "licenceStatementsCorrected": 49,
+   "articlesCorrected": 25,
+   "modelRowsAdded": 6,
+   "serpSnapshotsAdded": 7,
+   "contentGapsBefore": 34,
+   "contentGapsAfter": 23,
+   "coreStrong": 108,
+   "coreWeak": 0
+  }
  }
 ]

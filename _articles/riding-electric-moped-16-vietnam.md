@@ -36,7 +36,7 @@ Article 34(1)(g) of Law 36/2024/QH15 defines the moped class as 4 kW or less and
 
 ## Practical advice for young riders and parents
 
-Choose the class, not just the model: check the rated motor power on the spec sheet before buying. A 25 km/h pedal e-bike is a gentler start than a 70 km/h scooter, even if both are licence-free up to 4 kW. Budget for a proper helmet from day one, and ride the quiet motor deliberately: assume other road users have not heard you.
+Choose the class, not just the model: check the rated motor power on the spec sheet before buying. A 25 km/h pedal e-bike is a gentler start than a sub-50 km/h scooter, and a 70 km/h scooter is not an option at 16 at all: above 50 km/h it is no longer a moped and needs an A1 licence, which starts at 18. Budget for a proper helmet from day one, and ride the quiet motor deliberately: assume other road users have not heard you.
 
 This article is information, not legal advice. Licence and age rules verified against the full text of Law 36/2024/QH15 on 2026-09-24.
 

@@ -17,6 +17,7 @@ last_reviewed: 2026-09-23
 sources:
   - "yamaha-motor.com.vn - Yamaha VN model pages (Janus, FreeGo, Grande, Latte, NVX 155), official specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
+  - "https://yamaha-motor.com.vn/xe/neos-2026-bfmg/ - Yamaha Motor Vietnam official NEO's 2026 page (retrieved 2026-10-15)"
 internal_link_targets: yamaha-janus-125-review, yamaha-freego-125-review, yamaha-grande-review, yamaha-latte-125-review, yamaha-nvx-155-review, honda-vs-yamaha-scooters-vietnam, scooters-with-smart-keys-vietnam-verified
 ---
 
@@ -45,6 +46,10 @@ Newest in the range: 100 kg wet weight, 37 litres of underseat storage with a fl
 ## Yamaha NVX 155 - the sporty flagship
 
 The most aggressive mainstream automatic in the country: Blue Core 155 cc VVA engine (11.3 kW), front ABS on a 230 mm disc, Y-Connect connectivity, Stop and Start system, 25 L storage, listed from 55,300,000 VND with sport SP and GP versions at 68 and 69 million VND. Full review: [Yamaha NVX 155]({{ '/articles/yamaha-nvx-155-review/' | relative_url }}).
+
+## Yamaha's electric scooter
+
+Yamaha Motor Vietnam also sells the NEO's, an electric scooter with a 2.3 kW motor and a removable 51.1 V lithium-ion battery, rated by Yamaha at over 60 km per charge in ECO mode at 30 to 35 km/h with up to 75 kg aboard, at a recommended retail price of 36,900,000 VND. The Vietnamese page publishes no top speed, so confirm it with the dealer before assuming the licence-free moped class; the [electric market overview]({{ '/articles/vietnam-electric-two-wheeler-market-overview/' | relative_url }}) sets it beside the other brands.
 
 ## How to choose
 

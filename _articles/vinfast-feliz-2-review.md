@@ -37,7 +37,7 @@ The Feliz II is the generational refresh of the model that normalised electric s
 
 VinFast positions the Feliz II as inheriting the strengths of its predecessor — the practical, familiar scooter that sold in the hundreds of thousands — while joining the swap generation: two removable 1.5 kWh LFP packs, up to 156 km of standard-conditions range, and access to the same V-Green cabinet network (4,500 stations installed by January 2026, 45,000 planned by Q1 2026).
 
-The 3,000 W motor matches the Viper's output, giving licence-free riders genuine 70 km/h city pace. Two-battery carrying also means a spare pack at home doubles your effective range.
+The 3,000 W motor matches the Viper's output and gives genuine 70 km/h city pace. That design speed is above the 50 km/h moped limit, so the Feliz II needs an A1 licence even though it sits under 4 kW. Two-battery carrying also means a spare pack at home doubles your effective range.
 
 ## Trade-offs
 

@@ -21,7 +21,8 @@
   },
   "issueFrequency": {
    "PN article marked REVIEW_REQUIRED": 4,
-   "short body (N words)": 113
+   "served keyword \"…\" weakly covered by title+description (variant/gap: informational signal)": 4,
+   "short body (N words)": 111
   },
   "cannibalizationPairs": 0,
   "keywordOwnership": [
@@ -842,11 +843,11 @@
    {
     "group": "Zero-data refinements (2026-10-15)",
     "keyword": "Temporary Vietnamese motorbike licence",
-    "owner": "/topics/law-licences/",
-    "ownerTitle": "Vietnam Motorbike Laws and Licences",
+    "owner": "/articles/motorbike-learner-permit-vietnam/",
+    "ownerTitle": "Does Vietnam Have a Motorbike Learner Permit",
     "coverage": "partial",
     "variantOf": "Motorbike licence Vietnam",
-    "gap": true,
+    "gap": false,
     "intent": "informational",
     "ownerPriority": "P3"
    },
@@ -912,7 +913,139 @@
     "ownerTitle": "Motorcycles in Vietnam",
     "coverage": "partial",
     "variantOf": "Honda motorbike Vietnam",
-    "gap": true,
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data refinements (2026-10-15)",
+    "keyword": "American licence Vietnam",
+    "owner": "/articles/1968-vienna-convention-idp-vietnam/",
+    "ownerTitle": "The 1968 Vienna Convention and Riding in Vietnam",
+    "coverage": "weak",
+    "variantOf": "Motorbike licence Vietnam",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data refinements (2026-10-15)",
+    "keyword": "1949 IDP Vietnam",
+    "owner": "/articles/which-countries-idp-valid-vietnam/",
+    "ownerTitle": "Which Countries' IDPs Work in Vietnam",
+    "coverage": "partial",
+    "variantOf": "Motorbike licence Vietnam",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data refinements (2026-10-15)",
+    "keyword": "Vietnam licence for tourists",
+    "owner": "/articles/can-tourists-ride-motorbike-vietnam/",
+    "ownerTitle": "Can Tourists Legally Ride a Motorbike in Vietnam?",
+    "coverage": "full",
+    "variantOf": "Motorbike licence Vietnam",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data refinements (2026-10-15)",
+    "keyword": "Vietnam driving laws",
+    "owner": "/topics/law-licences/",
+    "ownerTitle": "Vietnam Motorbike Laws and Licences",
+    "coverage": "partial",
+    "variantOf": "Motorbike licence Vietnam",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data refinements (2026-10-15)",
+    "keyword": "Police checkpoints Vietnam",
+    "owner": "/articles/stopped-by-traffic-police-vietnam/",
+    "ownerTitle": "Stopped by Traffic Police in Vietnam: What to Do",
+    "coverage": "partial",
+    "variantOf": "Stopped by traffic police Vietnam",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data refinements (2026-10-15)",
+    "keyword": "Used mopeds Vietnam",
+    "owner": "/articles/used-50cc-inspection-checklist/",
+    "ownerTitle": "Used 50cc Inspection Checklist: Twenty Minutes Before You Pay",
+    "coverage": "partial",
+    "variantOf": "Mopeds Vietnam",
+    "gap": false,
+    "intent": "commercial",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data refinements (2026-10-15)",
+    "keyword": "International licence Vietnam",
+    "owner": "/articles/idp-vietnam-motorbike-rules/",
+    "ownerTitle": "International Driving Permits in Vietnam: Motorbike IDP Rules",
+    "coverage": "full",
+    "variantOf": "Motorbike licence Vietnam",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data refinements (2026-10-15)",
+    "keyword": "Can a foreigner legally buy a motorbike in Vietnam",
+    "owner": "/articles/buying-motorbike-as-tourist-vietnam/",
+    "ownerTitle": "Buying a Motorbike in Vietnam as a Tourist: The Honest Guide",
+    "coverage": "partial",
+    "variantOf": "Buying a motorbike in Vietnam",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data refinements (2026-10-15)",
+    "keyword": "Vietnam motorcycle brands",
+    "owner": "/topics/motorcycles/",
+    "ownerTitle": "Motorcycles in Vietnam",
+    "coverage": "partial",
+    "variantOf": "Honda motorbike Vietnam",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data refinements (2026-10-15)",
+    "keyword": "What are the major motorcycle brands in Vietnam",
+    "owner": "/topics/motorcycles/",
+    "ownerTitle": "Motorcycles in Vietnam",
+    "coverage": "weak",
+    "variantOf": "Vietnam motorcycle brands",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data refinements (2026-10-15)",
+    "keyword": "What are some new electric bike brands",
+    "owner": "/articles/vietnam-electric-two-wheeler-market-overview/",
+    "ownerTitle": "Vietnam Electric Two-Wheeler Market: A Verified Overview",
+    "coverage": "weak",
+    "variantOf": "Electric motorbike Vietnam",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Zero-data refinements (2026-10-15)",
+    "keyword": "How much does an electric bike usually cost",
+    "owner": "/articles/cheapest-electric-motorbikes-vietnam-list-prices/",
+    "ownerTitle": "Cheapest Electric Motorbikes in Vietnam: Verified List Prices",
+    "coverage": "weak",
+    "variantOf": "Electric motorbike Vietnam",
+    "gap": false,
     "intent": "informational",
     "ownerPriority": "P3"
    }
@@ -1092,6 +1225,62 @@
     "gap": false
    },
    {
+    "question": "Can foreigners drive motorbikes in Vietnam?",
+    "kind": "People also ask",
+    "serp": "buying a motorbike in vietnam as a tourist",
+    "servedBy": "/topics/law-licences/",
+    "how": "Common-questions entry: Can tourists and other foreigners legally ride a motorbike in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "What brands are made in Vietnam?",
+    "kind": "People also ask",
+    "serp": "buying a motorbike in vietnam as a tourist",
+    "servedBy": "",
+    "how": "no serving URL found",
+    "gap": true
+   },
+   {
+    "question": "What bike was called the widowmaker?",
+    "kind": "People also ask",
+    "serp": "buying a motorbike in vietnam as a tourist",
+    "servedBy": "",
+    "how": "no serving URL found",
+    "gap": true
+   },
+   {
+    "question": "Is the Ha Giang loop scary?",
+    "kind": "People also ask",
+    "serp": "buying a motorbike in vietnam as a tourist",
+    "servedBy": "/topics/vietnam-travel/",
+    "how": "Common-questions entry: Is the Ha Giang loop difficult?",
+    "gap": false
+   },
+   {
+    "question": "Buying a motorbike in vietnam as a tourist reddit",
+    "kind": "Related search",
+    "serp": "buying a motorbike in vietnam as a tourist",
+    "servedBy": "",
+    "how": "community-platform query, not a content gap",
+    "gap": false
+   },
+   {
+    "question": "Buying a motorbike in vietnam as a tourist tax",
+    "kind": "Related search",
+    "serp": "buying a motorbike in vietnam as a tourist",
+    "servedBy": "/articles/buying-motorbike-as-tourist-vietnam/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Buying a motorbike in vietnam as a tourist cost",
+    "kind": "Related search",
+    "serp": "buying a motorbike in vietnam as a tourist",
+    "servedBy": "/articles/buying-motorbike-as-tourist-vietnam/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
     "question": "Can foreigners rent bikes in Vietnam?",
     "kind": "People also ask",
     "serp": "can tourists rent a motorbike in vietnam",
@@ -1103,8 +1292,8 @@
     "question": "Can a foreigner ride a motorcycle in Vietnam?",
     "kind": "People also ask",
     "serp": "can tourists rent a motorbike in vietnam",
-    "servedBy": "/articles/best-motorbikes-for-tall-riders-vietnam/",
-    "how": "title/keyword match",
+    "servedBy": "/topics/law-licences/",
+    "how": "Common-questions entry: Can tourists and other foreigners legally ride a motorbike in Vietnam?",
     "gap": false
    },
    {
@@ -1191,9 +1380,9 @@
     "question": "What are some new electric bike brands?",
     "kind": "People also ask",
     "serp": "electric bike rental hanoi",
-    "servedBy": "",
-    "how": "no serving URL found",
-    "gap": true
+    "servedBy": "/articles/vietnam-electric-two-wheeler-market-overview/",
+    "how": "keyword-targets owner (What are some new electric bike brands)",
+    "gap": false
    },
    {
     "question": "How much is bike rental in Hanoi?",
@@ -1215,9 +1404,9 @@
     "question": "How much does an electric bike usually cost?",
     "kind": "People also ask",
     "serp": "electric bike rental hanoi",
-    "servedBy": "",
-    "how": "no serving URL found",
-    "gap": true
+    "servedBy": "/articles/cheapest-electric-motorbikes-vietnam-list-prices/",
+    "how": "keyword-targets owner (How much does an electric bike usually cost)",
+    "gap": false
    },
    {
     "question": "Do you need a licence for an electric scooter in Vietnam?",
@@ -1412,11 +1601,43 @@
     "gap": false
    },
    {
+    "question": "Can I ride a motorcycle in Vietnam without a license?",
+    "kind": "People also ask",
+    "serp": "hanoi motorbike parking",
+    "servedBy": "/articles/can-foreigners-ride-50cc-vietnam/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Where to park your motorcycle in public?",
+    "kind": "People also ask",
+    "serp": "hanoi motorbike parking",
+    "servedBy": "/topics/hanoi/",
+    "how": "Common-questions entry: Where can I park a motorbike in Hanoi?",
+    "gap": false
+   },
+   {
+    "question": "Which city has the most motorcycles?",
+    "kind": "People also ask",
+    "serp": "hanoi motorbike parking",
+    "servedBy": "",
+    "how": "no serving URL found",
+    "gap": true
+   },
+   {
+    "question": "What is the most famous motorbike loop in Vietnam?",
+    "kind": "People also ask",
+    "serp": "hanoi motorbike parking",
+    "servedBy": "/topics/trips/",
+    "how": "Common-questions entry: What is the most famous motorbike loop in Vietnam?",
+    "gap": false
+   },
+   {
     "question": "Can tourists ride motorbikes in Vietnam?",
     "kind": "People also ask",
     "serp": "is it safe to ride a motorbike in vietnam",
     "servedBy": "/topics/law-licences/",
-    "how": "Common-questions entry: Can tourists legally ride a motorbike in Vietnam?",
+    "how": "Common-questions entry: Can tourists and other foreigners legally ride a motorbike in Vietnam?",
     "gap": false
    },
    {
@@ -1472,7 +1693,7 @@
     "kind": "Related search",
     "serp": "is it safe to ride a motorbike in vietnam",
     "servedBy": "/articles/idp-vietnam-motorbike-rules/",
-    "how": "title/keyword match",
+    "how": "keyword-targets owner (International licence Vietnam)",
     "gap": false
    },
    {
@@ -1505,6 +1726,70 @@
     "serp": "is it safe to ride a motorbike in vietnam",
     "servedBy": "/topics/vietnam-travel/",
     "how": "Common-questions entry: What is the most famous motorbike trip in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Long term motorbike rental hanoi expat reddit",
+    "kind": "Related search",
+    "serp": "long term motorbike rental hanoi expat",
+    "servedBy": "",
+    "how": "community-platform query, not a content gap",
+    "gap": false
+   },
+   {
+    "question": "Cheapest long term motorbike rental hanoi expat",
+    "kind": "Related search",
+    "serp": "long term motorbike rental hanoi expat",
+    "servedBy": "/topics/monthly-rental/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Long term motorbike rental hanoi expat cost",
+    "kind": "Related search",
+    "serp": "long term motorbike rental hanoi expat",
+    "servedBy": "/topics/monthly-rental/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Best long term motorbike rental hanoi expat",
+    "kind": "Related search",
+    "serp": "long term motorbike rental hanoi expat",
+    "servedBy": "/topics/monthly-rental/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Long term motorbike rental hanoi expat near me",
+    "kind": "Related search",
+    "serp": "long term motorbike rental hanoi expat",
+    "servedBy": "/contact/",
+    "how": "local-intent query: address, map and hours on the contact page (the map pack itself is a Google Business Profile matter for the owner)",
+    "gap": false
+   },
+   {
+    "question": "Hanoi motorbike rental cost",
+    "kind": "Related search",
+    "serp": "long term motorbike rental hanoi expat",
+    "servedBy": "/articles/motorbike-rental-price-hanoi/",
+    "how": "keyword-targets owner (Hanoi motorbike rental cost)",
+    "gap": false
+   },
+   {
+    "question": "50cc scooter rental Hanoi",
+    "kind": "Related search",
+    "serp": "long term motorbike rental hanoi expat",
+    "servedBy": "/articles/renting-50cc-hanoi/",
+    "how": "keyword-targets owner (50cc scooter rental Hanoi)",
+    "gap": false
+   },
+   {
+    "question": "Scooter Rental Hanoi near me",
+    "kind": "Related search",
+    "serp": "long term motorbike rental hanoi expat",
+    "servedBy": "/contact/",
+    "how": "local-intent query: address, map and hours on the contact page (the map pack itself is a Google Business Profile matter for the owner)",
     "gap": false
    },
    {
@@ -1719,9 +2004,9 @@
     "question": "Used mopeds vietnam",
     "kind": "Related search",
     "serp": "mopeds vietnam",
-    "servedBy": "",
-    "how": "no serving URL found",
-    "gap": true
+    "servedBy": "/articles/used-50cc-inspection-checklist/",
+    "how": "keyword-targets owner (Used mopeds Vietnam)",
+    "gap": false
    },
    {
     "question": "Electric mopeds vietnam",
@@ -1759,7 +2044,103 @@
     "question": "Vietnam motorcycle brands",
     "kind": "Related search",
     "serp": "mopeds vietnam",
-    "servedBy": "/articles/honda-vs-yamaha-scooters-vietnam/",
+    "servedBy": "/topics/motorcycles/",
+    "how": "keyword-targets owner (Vietnam motorcycle brands)",
+    "gap": false
+   },
+   {
+    "question": "What is the law regarding helmets in Vietnam?",
+    "kind": "People also ask",
+    "serp": "motorbike helmet law vietnam",
+    "servedBy": "/articles/helmet-law-vietnam/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "What is the 2 2 2 rule for bike helmets?",
+    "kind": "People also ask",
+    "serp": "motorbike helmet law vietnam",
+    "servedBy": "/articles/e-bike-helmet-rules-vietnam/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "What does it mean when a motorcyclist taps his helmet twice?",
+    "kind": "People also ask",
+    "serp": "motorbike helmet law vietnam",
+    "servedBy": "",
+    "how": "no serving URL found",
+    "gap": true
+   },
+   {
+    "question": "Can tourists ride motorbikes in Vietnam?",
+    "kind": "People also ask",
+    "serp": "motorbike helmet law vietnam",
+    "servedBy": "/topics/law-licences/",
+    "how": "Common-questions entry: Can tourists and other foreigners legally ride a motorbike in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Motorbike helmet law vietnam reddit",
+    "kind": "Related search",
+    "serp": "motorbike helmet law vietnam",
+    "servedBy": "",
+    "how": "community-platform query, not a content gap",
+    "gap": false
+   },
+   {
+    "question": "Motorbike helmet law vietnam 2020",
+    "kind": "Related search",
+    "serp": "motorbike helmet law vietnam",
+    "servedBy": "/articles/helmet-law-vietnam/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Getting motorbike license vietnam",
+    "kind": "Related search",
+    "serp": "motorbike helmet law vietnam",
+    "servedBy": "/topics/50cc/",
+    "how": "Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Vietnam driving laws",
+    "kind": "Related search",
+    "serp": "motorbike helmet law vietnam",
+    "servedBy": "/topics/law-licences/",
+    "how": "keyword-targets owner (Vietnam driving laws)",
+    "gap": false
+   },
+   {
+    "question": "Vietnam 50cc license",
+    "kind": "Related search",
+    "serp": "motorbike helmet law vietnam",
+    "servedBy": "/topics/50cc/",
+    "how": "Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Can I drive scooter in Vietnam with Indian license",
+    "kind": "Related search",
+    "serp": "motorbike helmet law vietnam",
+    "servedBy": "/articles/motorbike-rental-requirements-hanoi/",
+    "how": "Common-questions entry: Can I ride a rental scooter on a car licence?",
+    "gap": false
+   },
+   {
+    "question": "Driving without license in vietnam",
+    "kind": "Related search",
+    "serp": "motorbike helmet law vietnam",
+    "servedBy": "/articles/can-foreigners-ride-50cc-vietnam/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Fine for driving without license Vietnam",
+    "kind": "Related search",
+    "serp": "motorbike helmet law vietnam",
+    "servedBy": "/articles/no-licence-fine-vietnam/",
     "how": "title/keyword match",
     "gap": false
    },
@@ -1792,7 +2173,7 @@
     "kind": "People also ask",
     "serp": "motorbike rental hanoi",
     "servedBy": "/topics/law-licences/",
-    "how": "Common-questions entry: Can tourists legally ride a motorbike in Vietnam?",
+    "how": "Common-questions entry: Can tourists and other foreigners legally ride a motorbike in Vietnam?",
     "gap": false
    },
    {
@@ -1879,8 +2260,8 @@
     "question": "Can a foreigner ride a motorbike in Vietnam?",
     "kind": "People also ask",
     "serp": "motorbike rental hanoi [Vietnam]",
-    "servedBy": "/articles/best-motorbikes-for-tall-riders-vietnam/",
-    "how": "title/keyword match",
+    "servedBy": "/topics/law-licences/",
+    "how": "Common-questions entry: Can tourists and other foreigners legally ride a motorbike in Vietnam?",
     "gap": false
    },
    {
@@ -2052,6 +2433,54 @@
     "gap": false
    },
    {
+    "question": "What is the 12 second rule for motorcycles?",
+    "kind": "People also ask",
+    "serp": "motorbike repair shop hanoi",
+    "servedBy": "",
+    "how": "no serving URL found",
+    "gap": true
+   },
+   {
+    "question": "How much does it cost to repair a motorcycle?",
+    "kind": "People also ask",
+    "serp": "motorbike repair shop hanoi",
+    "servedBy": "/topics/rental/",
+    "how": "Common-questions entry: How much does it cost to rent a motorbike in Hanoi?",
+    "gap": false
+   },
+   {
+    "question": "Can a foreigner ride a motorbike in Vietnam?",
+    "kind": "People also ask",
+    "serp": "motorbike repair shop hanoi",
+    "servedBy": "/topics/law-licences/",
+    "how": "Common-questions entry: Can tourists and other foreigners legally ride a motorbike in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "How much should a motorbike service cost?",
+    "kind": "People also ask",
+    "serp": "motorbike repair shop hanoi",
+    "servedBy": "/topics/rental/",
+    "how": "Common-questions entry: How much does it cost to rent a motorbike in Hanoi?",
+    "gap": false
+   },
+   {
+    "question": "Cheap motorbike repair shop hanoi",
+    "kind": "Related search",
+    "serp": "motorbike repair shop hanoi",
+    "servedBy": "/articles/outside-repair-shops-rental-motorbike/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Honda motorbike repair shop hanoi",
+    "kind": "Related search",
+    "serp": "motorbike repair shop hanoi",
+    "servedBy": "/articles/outside-repair-shops-rental-motorbike/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
     "question": "What is the famous motorbike ride in Vietnam?",
     "kind": "People also ask",
     "serp": "motorbike vietnam",
@@ -2072,7 +2501,7 @@
     "kind": "People also ask",
     "serp": "motorbike vietnam",
     "servedBy": "/topics/law-licences/",
-    "how": "Common-questions entry: Can tourists legally ride a motorbike in Vietnam?",
+    "how": "Common-questions entry: Can tourists and other foreigners legally ride a motorbike in Vietnam?",
     "gap": false
    },
    {
@@ -2103,8 +2532,8 @@
     "question": "Vietnam motorcycle brands",
     "kind": "Related search",
     "serp": "motorbike vietnam",
-    "servedBy": "/articles/honda-vs-yamaha-scooters-vietnam/",
-    "how": "title/keyword match",
+    "servedBy": "/topics/motorcycles/",
+    "how": "keyword-targets owner (Vietnam motorcycle brands)",
     "gap": false
    },
    {
@@ -2151,8 +2580,8 @@
     "question": "Can foreigners ride motorbikes in Vietnam?",
     "kind": "People also ask",
     "serp": "riding a motorbike in hanoi",
-    "servedBy": "/articles/best-motorbikes-for-tall-riders-vietnam/",
-    "how": "title/keyword match",
+    "servedBy": "/topics/law-licences/",
+    "how": "Common-questions entry: Can tourists and other foreigners legally ride a motorbike in Vietnam?",
     "gap": false
    },
    {
@@ -2239,8 +2668,8 @@
     "question": "Vietnam motorcycle brands",
     "kind": "Related search",
     "serp": "riding a motorbike in hanoi",
-    "servedBy": "/articles/honda-vs-yamaha-scooters-vietnam/",
-    "how": "title/keyword match",
+    "servedBy": "/topics/motorcycles/",
+    "how": "keyword-targets owner (Vietnam motorcycle brands)",
     "gap": false
    },
    {
@@ -2263,8 +2692,8 @@
     "question": "Can you drive a scooter in Vietnam?",
     "kind": "People also ask",
     "serp": "scooter rental hanoi",
-    "servedBy": "/articles/drink-driving-limits-motorbike-vietnam/",
-    "how": "title/keyword match",
+    "servedBy": "/topics/scooters/",
+    "how": "keyword-targets owner (Scooters in Vietnam)",
     "gap": false
    },
    {
@@ -2340,11 +2769,107 @@
     "gap": false
    },
    {
+    "question": "Can foreigners drive motorbikes in Vietnam?",
+    "kind": "People also ask",
+    "serp": "semi automatic motorbike vietnam",
+    "servedBy": "/topics/law-licences/",
+    "how": "Common-questions entry: Can tourists and other foreigners legally ride a motorbike in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "What are the top 10 most reliable motorcycle brands?",
+    "kind": "People also ask",
+    "serp": "semi automatic motorbike vietnam",
+    "servedBy": "",
+    "how": "no serving URL found",
+    "gap": true
+   },
+   {
+    "question": "Do they make an automatic motorcycle?",
+    "kind": "People also ask",
+    "serp": "semi automatic motorbike vietnam",
+    "servedBy": "/articles/automatic-chain-oilers/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "How much does a Honda motorcycle cost in Vietnam?",
+    "kind": "People also ask",
+    "serp": "semi automatic motorbike vietnam",
+    "servedBy": "/topics/vietnam-travel/",
+    "how": "Common-questions entry: How much does a motorbike trip in Vietnam cost?",
+    "gap": false
+   },
+   {
+    "question": "Yamaha semi automatic motorbike vietnam",
+    "kind": "Related search",
+    "serp": "semi automatic motorbike vietnam",
+    "servedBy": "/articles/yamaha-pg-1-review/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Best semi automatic motorbike vietnam",
+    "kind": "Related search",
+    "serp": "semi automatic motorbike vietnam",
+    "servedBy": "/topics/manual-clutch/",
+    "how": "Common-questions entry: What is the difference between a semi-automatic and a manual motorbike?",
+    "gap": false
+   },
+   {
+    "question": "Honda Vietnam motorcycle price",
+    "kind": "Related search",
+    "serp": "semi automatic motorbike vietnam",
+    "servedBy": "/articles/honda-super-cub-c125-review/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Vietnam motorcycle brands",
+    "kind": "Related search",
+    "serp": "semi automatic motorbike vietnam",
+    "servedBy": "/topics/motorcycles/",
+    "how": "keyword-targets owner (Vietnam motorcycle brands)",
+    "gap": false
+   },
+   {
+    "question": "Best motorbike in Vietnam",
+    "kind": "Related search",
+    "serp": "semi automatic motorbike vietnam",
+    "servedBy": "/articles/best-125cc-underbones-vietnam-verified/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Vietnam motorcycle rental",
+    "kind": "Related search",
+    "serp": "semi automatic motorbike vietnam",
+    "servedBy": "/topics/vietnam-travel/",
+    "how": "keyword-targets owner (Renting a motorbike in Vietnam)",
+    "gap": false
+   },
+   {
+    "question": "Vietnam buy motorbike",
+    "kind": "Related search",
+    "serp": "semi automatic motorbike vietnam",
+    "servedBy": "/articles/buying-motorbike-as-tourist-vietnam/",
+    "how": "keyword-targets owner (Buying a motorbike in Vietnam)",
+    "gap": false
+   },
+   {
+    "question": "Buy scooter Vietnam",
+    "kind": "Related search",
+    "serp": "semi automatic motorbike vietnam",
+    "servedBy": "/articles/buying-first-scooter-vietnam-guide/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
     "question": "Can I drive in Vietnam with an international driver's license?",
     "kind": "People also ask",
     "serp": "vietnam motorbike license for foreigners",
     "servedBy": "/articles/idp-vietnam-motorbike-rules/",
-    "how": "title/keyword match",
+    "how": "keyword-targets owner (International licence Vietnam)",
     "gap": false
    },
    {
@@ -2456,7 +2981,7 @@
     "kind": "People also ask",
     "serp": "vietnam motorbike trip",
     "servedBy": "/topics/law-licences/",
-    "how": "Common-questions entry: Can tourists legally ride a motorbike in Vietnam?",
+    "how": "Common-questions entry: Can tourists and other foreigners legally ride a motorbike in Vietnam?",
     "gap": false
    },
    {
@@ -2532,11 +3057,107 @@
     "gap": false
    },
    {
+    "question": "What is the 12 second rule for motorcycles?",
+    "kind": "People also ask",
+    "serp": "vietnam traffic fines motorbike foreigners",
+    "servedBy": "",
+    "how": "no serving URL found",
+    "gap": true
+   },
+   {
+    "question": "Can a foreigner ride a motorcycle in Vietnam?",
+    "kind": "People also ask",
+    "serp": "vietnam traffic fines motorbike foreigners",
+    "servedBy": "/topics/law-licences/",
+    "how": "Common-questions entry: Can tourists and other foreigners legally ride a motorbike in Vietnam?",
+    "gap": false
+   },
+   {
+    "question": "Can a foreigner legally buy a motorbike in Vietnam?",
+    "kind": "People also ask",
+    "serp": "vietnam traffic fines motorbike foreigners",
+    "servedBy": "/articles/buying-motorbike-as-tourist-vietnam/",
+    "how": "keyword-targets owner (Can a foreigner legally buy a motorbike in Vietnam)",
+    "gap": false
+   },
+   {
+    "question": "Can I drive in Vietnam with an American license?",
+    "kind": "People also ask",
+    "serp": "vietnam traffic fines motorbike foreigners",
+    "servedBy": "/articles/1968-vienna-convention-idp-vietnam/",
+    "how": "keyword-targets owner (American licence Vietnam)",
+    "gap": false
+   },
+   {
+    "question": "Temporary Vietnamese motorcycle licence",
+    "kind": "Related search",
+    "serp": "vietnam traffic fines motorbike foreigners",
+    "servedBy": "/articles/motorbike-learner-permit-vietnam/",
+    "how": "keyword-targets owner (Temporary Vietnamese motorbike licence)",
+    "gap": false
+   },
+   {
+    "question": "Fine for driving without license Vietnam",
+    "kind": "Related search",
+    "serp": "vietnam traffic fines motorbike foreigners",
+    "servedBy": "/articles/no-licence-fine-vietnam/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Police checkpoints Vietnam",
+    "kind": "Related search",
+    "serp": "vietnam traffic fines motorbike foreigners",
+    "servedBy": "/articles/stopped-by-traffic-police-vietnam/",
+    "how": "keyword-targets owner (Police checkpoints Vietnam)",
+    "gap": false
+   },
+   {
+    "question": "Motorcycle license in Vietnam",
+    "kind": "Related search",
+    "serp": "vietnam traffic fines motorbike foreigners",
+    "servedBy": "/topics/law-licences/",
+    "how": "keyword-targets owner (Motorbike licence Vietnam)",
+    "gap": false
+   },
+   {
+    "question": "A1 license Vietnam",
+    "kind": "Related search",
+    "serp": "vietnam traffic fines motorbike foreigners",
+    "servedBy": "/articles/a1-licence-cost-vietnam/",
+    "how": "title/keyword match",
+    "gap": false
+   },
+   {
+    "question": "Vietnam scooter international license",
+    "kind": "Related search",
+    "serp": "vietnam traffic fines motorbike foreigners",
+    "servedBy": "/articles/idp-vietnam-motorbike-rules/",
+    "how": "keyword-targets owner (International licence Vietnam)",
+    "gap": false
+   },
+   {
+    "question": "Vietnam driving license for tourist",
+    "kind": "Related search",
+    "serp": "vietnam traffic fines motorbike foreigners",
+    "servedBy": "/articles/can-tourists-ride-motorbike-vietnam/",
+    "how": "keyword-targets owner (Vietnam licence for tourists)",
+    "gap": false
+   },
+   {
+    "question": "1949 IDP Vietnam",
+    "kind": "Related search",
+    "serp": "vietnam traffic fines motorbike foreigners",
+    "servedBy": "/articles/which-countries-idp-valid-vietnam/",
+    "how": "keyword-targets owner (1949 IDP Vietnam)",
+    "gap": false
+   },
+   {
     "question": "Can foreigners drive motorbikes in Vietnam?",
     "kind": "People also ask",
     "serp": "vietnamese motorbikes",
-    "servedBy": "/topics/hanoi/",
-    "how": "Common-questions entry: Can foreigners ride motorbikes in Hanoi?",
+    "servedBy": "/topics/law-licences/",
+    "how": "Common-questions entry: Can tourists and other foreigners legally ride a motorbike in Vietnam?",
     "gap": false
    },
    {
@@ -2551,9 +3172,9 @@
     "question": "What are the major motorcycle brands in Vietnam?",
     "kind": "People also ask",
     "serp": "vietnamese motorbikes",
-    "servedBy": "",
-    "how": "no serving URL found",
-    "gap": true
+    "servedBy": "/topics/motorcycles/",
+    "how": "keyword-targets owner (What are the major motorcycle brands in Vietnam)",
+    "gap": false
    },
    {
     "question": "How much does a motor scooter cost in Vietnam?",
@@ -2567,8 +3188,8 @@
     "question": "Vietnamese motorbikes brands",
     "kind": "Related search",
     "serp": "vietnamese motorbikes",
-    "servedBy": "/articles/honda-vs-yamaha-scooters-vietnam/",
-    "how": "title/keyword match",
+    "servedBy": "/topics/motorcycles/",
+    "how": "keyword-targets owner (Vietnam motorcycle brands)",
     "gap": false
    },
    {
@@ -2628,7 +3249,7 @@
     "gap": false
    }
   ],
-  "contentGapCount": 20,
+  "contentGapCount": 23,
   "keywordUniverse": {
    "generated": "2026-10-14",
    "rows": 160,
@@ -2639,8 +3260,8 @@
     "adjacent": 29
    },
    "coreServed": 108,
-   "coreStrong": 106,
-   "coreWeak": 2,
+   "coreStrong": 108,
+   "coreWeak": 0,
    "coreGaps": 0,
    "volumeByMarket": {
     "au": {
@@ -5496,8 +6117,8 @@
       "research_keywords ideas \"riding motorbike in vietnam\" vn"
      ],
      "servedBy": "/topics/motorcycles/",
-     "how": "declared GAP keyword (Suzuki motorbike Vietnam): nearest existing URL, no dedicated page",
-     "strength": "partial",
+     "how": "keyword-targets owner (Suzuki motorbike Vietnam)",
+     "strength": "owner",
      "gap": false,
      "maxVolume": 50
     },
@@ -6773,9 +7394,9 @@
      "sources": [
       "research_keywords ideas \"vietnam motorbike license\" us"
      ],
-     "servedBy": "/topics/law-licences/",
-     "how": "declared GAP keyword (Temporary Vietnamese motorbike licence): nearest existing URL, no dedicated page",
-     "strength": "partial",
+     "servedBy": "/articles/motorbike-learner-permit-vietnam/",
+     "how": "keyword-targets owner (Temporary Vietnamese motorbike licence)",
+     "strength": "owner",
      "gap": false,
      "maxVolume": 10
     },
@@ -7126,7 +7747,7 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Pillar page: direct-answer intro + curated start-here links to the commercial and core guides.",
-   "status": "OPTIMIZED 2026-10-14 - pillar intro + curated links; electric rental guides surfaced",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
    "evidence": "title_len=31; desc_len=139 || words=225; h2=1; tables=0; sources=0; body_links=30 || guides_listed=89 || ownership note: Zero-data keyword universe (docs/seo/keyword-universe.json, third-party estimate); the electric pillar answers the head term, previously resolved by title to a single insurance article. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "hub"
   },
@@ -7151,7 +7772,7 @@
    "url": "/topics/law-licences/",
    "current_title": "Vietnam Motorbike Laws and Licences",
    "primary_keyword": "Motorbike licence Vietnam",
-   "secondary_keywords": "Vietnam bike licence; Temporary Vietnamese motorbike licence; Motorbike Vietnam",
+   "secondary_keywords": "Vietnam bike licence; Vietnam driving laws; Motorbike Vietnam; Temporary Vietnamese motorbike licence",
    "search_intent": "informational",
    "topic_cluster": "law-licences / hub (pillar)",
    "content_quality": "thin (1/7)",
@@ -7159,9 +7780,9 @@
    "internal_links": "out: 32 curated + 66 dynamic cards; in: nav/footer/home + 11 body",
    "seo_issues": "none",
    "priority": "P3",
-   "recommended_action": "Pillar page: direct-answer intro + curated start-here links to the commercial and core guides. Serve gap keyword(s) Temporary Vietnamese motorbike licence honestly from this URL; do NOT create a new article.",
-   "status": "OPTIMIZED 2026-10-14 - pillar intro with direct answer + curated start-here links; Start here links the moped definition guide, the head-term carrier of the silo (batch matrix-queue-1)",
-   "evidence": "title_len=35; desc_len=94 || words=268; h2=1; tables=0; sources=0; body_links=32 || guides_listed=66 || ownership note: Zero-data keyword universe (docs/seo/keyword-universe.json, third-party estimate); the law and licences pillar. / No temporary-licence route is described on the site; the pillar's licence options (IDP, exchange for residents) are the nearest honest answer. Any new sentence needs verification against current law first. || recorded metrics: {\"openseo_us\":{\"tool\":\"OpenSEO/DataForSEO US\",\"date\":\"2026-10-14\",\"vietnam motorbike license\":{\"volume\":50,\"kd\":0,\"intent\":\"informational\"}}}",
+   "recommended_action": "Pillar page: direct-answer intro + curated start-here links to the commercial and core guides.",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=35; desc_len=94 || words=268; h2=1; tables=0; sources=0; body_links=32 || guides_listed=66 || ownership note: Zero-data keyword universe (docs/seo/keyword-universe.json, third-party estimate); the law and licences pillar. || recorded metrics: {\"openseo_us\":{\"tool\":\"OpenSEO/DataForSEO US\",\"date\":\"2026-10-14\",\"vietnam motorbike license\":{\"volume\":50,\"kd\":0,\"intent\":\"informational\"}}}",
    "type": "hub"
   },
   {
@@ -7219,17 +7840,17 @@
    "url": "/topics/motorcycles/",
    "current_title": "Motorcycles in Vietnam",
    "primary_keyword": "Vietnamese motorbikes",
-   "secondary_keywords": "Honda motorbike Vietnam; Vietnamese motorcycle; Motorbikes in Vietnam; Honda motorcycles in Vietnam; Honda bike Vietnam; Honda bikes in Vietnam; Yamaha motorbike Vietnam; Suzuki motorbike Vietnam",
+   "secondary_keywords": "Honda motorbike Vietnam; Vietnamese motorcycle; Motorbikes in Vietnam; Honda motorcycles in Vietnam; Honda bike Vietnam; Honda bikes in Vietnam; Yamaha motorbike Vietnam; Suzuki motorbike Vietnam; Vietnam motorcycle brands; What are the major motorcycle brands in Vietnam",
    "search_intent": "informational",
    "topic_cluster": "motorcycles / hub (pillar)",
-   "content_quality": "thin (2/7)",
+   "content_quality": "adequate (3/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 28 curated + 108 dynamic cards; in: nav/footer/home + 3 body",
-   "seo_issues": "none",
+   "internal_links": "out: 30 curated + 108 dynamic cards; in: nav/footer/home + 3 body",
+   "seo_issues": "served keyword \"What are the major motorcycle brands in Vietnam\" weakly covered by title+description (variant/gap: informational signal)",
    "priority": "P3",
-   "recommended_action": "Pillar page: direct-answer intro + curated start-here links to the commercial and core guides. Serve gap keyword(s) Suzuki motorbike Vietnam honestly from this URL; do NOT create a new article.",
-   "status": "OPTIMIZED 2026-10-14 - pillar intro + curated start-here links; pillar title \"Motorcycles in Vietnam\" covers the owned head terms (batch matrix-queue-1)",
-   "evidence": "title_len=22; desc_len=139 || words=191; h2=1; tables=0; sources=0; body_links=28 || guides_listed=108 || ownership note: Generic \"which bikes exist in Vietnam\" head term (keyword-universe.json, US market); the motorcycles pillar owns it, the scooter and manual-clutch pillars support it. Consolidates a split family (topical map 2026-10-14). / Brand head term; the motorcycles pillar (Honda and Yamaha model reviews) owns it, the Honda underbone and scooter line-up guides support it. Consolidates two split families. / Brand head term served like the Honda one: the motorcycles pillar, with the Yamaha line-up guide in support. / No Suzuki model data on the site: the Suzuki Vietnam manufacturer pages were not retrievable when the model database was built (docs/matrix/batch-13-status.md). The motorcycles pillar is the nearest honest page; Suzuki facts may be added only from verified manufacturer rows. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "recommended_action": "Pillar page: direct-answer intro + curated start-here links to the commercial and core guides.",
+   "status": "OPTIMIZED 2026-10-15 - Suzuki, SYM and Piaggio named from official Vietnamese sites; Suzuki line-up verified (batch matrix-queue-4)",
+   "evidence": "title_len=22; desc_len=139 || words=313; h2=1; tables=0; sources=0; body_links=30 || guides_listed=108 || ownership note: Generic \"which bikes exist in Vietnam\" head term (keyword-universe.json, US market); the motorcycles pillar owns it, the scooter and manual-clutch pillars support it. Consolidates a split family (topical map 2026-10-14). / Brand head term; the motorcycles pillar (Honda and Yamaha model reviews) owns it, the Honda underbone and scooter line-up guides support it. Consolidates two split families. / Brand head term served like the Honda one: the motorcycles pillar, with the Yamaha line-up guide in support. / Served by the motorcycles pillar since matrix batch 4: Suzuki Vietnam's official line-up (Satria 147.3 cc, V-Strom 250SX 249 cc, retrieved 2026-10-15) is recorded in docs/MODEL-DATABASE.md and named on the pillar with its licence class. / The pillar names the brands with official Vietnamese line-ups (Honda, Yamaha, Suzuki, SYM, Piaggio; electric brands via the market overview), retrieved 2026-10-15; specifications only where verified. / SERP question (OpenRush, US, 2026-10-15). || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "hub"
   },
   {
@@ -7440,17 +8061,17 @@
    "url": "/articles/1968-vienna-convention-idp-vietnam/",
    "current_title": "The 1968 Vienna Convention and Riding in Vietnam",
    "primary_keyword": "the 1968 vienna convention and riding in vietnam",
-   "secondary_keywords": "idp; vienna-convention; licence; law; vietnam",
+   "secondary_keywords": "American licence Vietnam; idp; vienna-convention; licence; law; vietnam",
    "search_intent": "informational",
    "topic_cluster": "law-licences / 11.2 foreigners",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
    "internal_links": "out: 1 body + 2 related cards; in: 5 related + 3 body + hub listing",
-   "seo_issues": "none",
+   "seo_issues": "served keyword \"American licence Vietnam\" weakly covered by title+description (variant/gap: informational signal)",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=48; desc_len=160 || words=355; h2=4; tables=0; sources=3; body_links=1 || related_out=2; related_in=5; body_in=3 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=48; desc_len=160 || words=355; h2=4; tables=0; sources=3; body_links=1 || related_out=2; related_in=5; body_in=3 || ownership note: SERP question \"Can I drive in Vietnam with an American license?\" (OpenRush, US, 2026-10-15); the VERIFIED convention guide records that the United States is not a party to the 1968 Vienna Convention. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -7772,8 +8393,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - title rewritten to <=65 chars, primary keyword kept, near-duplicate pairs differentiated (can-tourists-rent-a-motorbike-hanoi kept free of the word licence so the Guide Assistant keeps answering the tourist-licence question from the licence paragraph); meta description rewritten to <=165 chars with the primary keyword and a direct answer; descriptive guide references resolved into contextual links, pass 2 (reviewed override map + same-cluster fallback; scripts/link-guide-references.js); last descriptive guide references resolved by hand with one reviewed target each (hub links where the reference names a topic, not an article); one anaphoric phrase reworded; 2 bare slug reference(s) converted to contextual links",
-   "evidence": "title_len=59; desc_len=128 || words=515; h2=6; tables=0; sources=2; body_links=7 || related_out=6; related_in=3; body_in=0 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=59; desc_len=128 || words=522; h2=6; tables=0; sources=2; body_links=7 || related_out=6; related_in=3; body_in=0 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -9200,8 +9821,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=65; desc_len=146 || words=329; h2=5; tables=0; sources=4; body_links=1 || related_out=5; related_in=7; body_in=3 || plan MM-0724 (general-research): Electric first-bike decision framework; scooter/50cc buying guides cover petrol formats || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=65; desc_len=146 || words=342; h2=5; tables=0; sources=4; body_links=1 || related_out=5; related_in=7; body_in=3 || plan MM-0724 (general-research): Electric first-bike decision framework; scooter/50cc buying guides cover petrol formats || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -9225,7 +9846,7 @@
    "url": "/articles/buying-motorbike-as-tourist-vietnam/",
    "current_title": "Buying a Motorbike in Vietnam as a Tourist: The Honest Guide",
    "primary_keyword": "Buying a motorbike in Vietnam",
-   "secondary_keywords": "buying a motorbike; tourist; bluecard; ownership papers; second hand motorbike",
+   "secondary_keywords": "Can a foreigner legally buy a motorbike in Vietnam; buying a motorbike; tourist; bluecard; ownership papers; second hand motorbike",
    "search_intent": "informational",
    "topic_cluster": "vietnam-travel / 14.3 borders-and-ownership",
    "content_quality": "strong (6/7)",
@@ -9235,7 +9856,7 @@
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "AUDITED 2026-10-15",
-   "evidence": "title_len=60; desc_len=164 || words=578; h2=6; tables=0; sources=5; body_links=3 || related_out=5; related_in=6; body_in=5 || plan MM-0898 (skeleton+research): The buying process papers and checks; the rent-vs-buy guide covers the cost decision || ownership note: Zero-data keyword universe (docs/seo/keyword-universe.json, third-party estimate); English-language searchers are mostly travellers, so the tourist buying guide owns the head term and the first-scooter guide supports it for residents. Previously resolved by title to a parts-buying article. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=60; desc_len=164 || words=578; h2=6; tables=0; sources=5; body_links=3 || related_out=5; related_in=6; body_in=5 || plan MM-0898 (skeleton+research): The buying process papers and checks; the rent-vs-buy guide covers the cost decision || ownership note: Zero-data keyword universe (docs/seo/keyword-universe.json, third-party estimate); English-language searchers are mostly travellers, so the tourist buying guide owns the head term and the first-scooter guide supports it for residents. Previously resolved by title to a parts-buying article. / SERP question (OpenRush, US, 2026-10-15); the tourist buying guide covers the bluecard, the sales contract and why registration in a foreigner's name depends on residence. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -9412,7 +10033,7 @@
    "url": "/articles/can-tourists-ride-motorbike-vietnam/",
    "current_title": "Can Tourists Legally Ride a Motorbike in Vietnam?",
    "primary_keyword": "can tourists legally ride a motorbike in vietnam",
-   "secondary_keywords": "Renting a motorbike in Vietnam; Hanoi motorbike rental for foreigners; tourists; licence; law; vietnam; idp",
+   "secondary_keywords": "Vietnam licence for tourists; Renting a motorbike in Vietnam; Hanoi motorbike rental for foreigners; tourists; licence; law; vietnam; idp",
    "search_intent": "informational",
    "topic_cluster": "law-licences / 11.2 foreigners",
    "content_quality": "strong (5/7)",
@@ -9438,8 +10059,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=65; desc_len=163 || words=406; h2=4; tables=0; sources=2; body_links=3 || related_out=5; related_in=3; body_in=0 || plan MM-0790 (general-research): Electric-classes answer to the car-licence question; the 125cc article covers petrol classes || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=65; desc_len=143 || words=413; h2=4; tables=0; sources=2; body_links=3 || related_out=5; related_in=3; body_in=0 || plan MM-0790 (general-research): Electric-classes answer to the car-licence question; the 125cc article covers petrol classes || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -9752,17 +10373,17 @@
    "url": "/articles/cheapest-electric-motorbikes-vietnam-list-prices/",
    "current_title": "Cheapest Electric Motorbikes in Vietnam: Verified List Prices",
    "primary_keyword": "cheapest electric motorbike vietnam price",
-   "secondary_keywords": "Electric motorbike Vietnam; electric motorbike; prices; budget; yadea; vinfast; vietnam",
+   "secondary_keywords": "How much does an electric bike usually cost; Electric motorbike Vietnam; electric motorbike; prices; budget; yadea; vinfast; vietnam",
    "search_intent": "informational",
    "topic_cluster": "electric / 7.4 buying-owning",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
    "internal_links": "out: 2 body + 5 related cards; in: 2 related + 1 body + hub listing",
-   "seo_issues": "none",
+   "seo_issues": "served keyword \"How much does an electric bike usually cost\" weakly covered by title+description (variant/gap: informational signal)",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; descriptive guide references resolved into contextual links (scripts/link-guide-references.js); descriptive guide references resolved into contextual links, pass 2 (reviewed override map + same-cluster fallback; scripts/link-guide-references.js)",
-   "evidence": "title_len=61; desc_len=163 || words=393; h2=4; tables=1; sources=3; body_links=2 || related_out=5; related_in=2; body_in=1 || plan MM-0783 (general-research): Verified list prices across the budget shelf; the Yadea guide covers one brand lineup || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=61; desc_len=163 || words=393; h2=4; tables=1; sources=3; body_links=2 || related_out=5; related_in=2; body_in=1 || plan MM-0783 (general-research): Verified list prices across the budget shelf; the Yadea guide covers one brand lineup || ownership note: SERP question; the list-price guide gives verified manufacturer list prices. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -10407,8 +11028,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - descriptive guide references resolved into contextual links (scripts/link-guide-references.js); descriptive guide references resolved into contextual links, pass 2 (reviewed override map + same-cluster fallback; scripts/link-guide-references.js)",
-   "evidence": "title_len=55; desc_len=150 || words=395; h2=3; tables=1; sources=3; body_links=2 || related_out=7; related_in=2; body_in=2 || plan MM-0787 (general-research): Cross-brand model comparison pairing charge vs swap ecosystems; the swap article covers infrastructure, not models || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=55; desc_len=145 || words=406; h2=3; tables=1; sources=3; body_links=2 || related_out=7; related_in=2; body_in=2 || plan MM-0787 (general-research): Cross-brand model comparison pairing charge vs swap ecosystems; the swap article covers infrastructure, not models || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -10968,8 +11589,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; 1 bare slug reference(s) converted to contextual links",
-   "evidence": "title_len=59; desc_len=159 || words=362; h2=3; tables=1; sources=2; body_links=2 || related_out=7; related_in=21; body_in=15 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=59; desc_len=159 || words=400; h2=3; tables=1; sources=2; body_links=2 || related_out=7; related_in=21; body_in=15 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -10985,8 +11606,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - in-silo links or same-silo related cards (batch matrix-queue-2)",
-   "evidence": "title_len=63; desc_len=161 || words=329; h2=4; tables=1; sources=3; body_links=3 || related_out=4; related_in=8; body_in=7 || plan MM-0706 (general-research): Power-boundary explainer; licence canonical covers all classes, this covers the practical boundary between them || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=63; desc_len=161 || words=397; h2=4; tables=1; sources=3; body_links=3 || related_out=4; related_in=8; body_in=7 || plan MM-0706 (general-research): Power-boundary explainer; licence canonical covers all classes, this covers the practical boundary between them || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -11200,14 +11821,14 @@
    "secondary_keywords": "electric motorbike; delivery; ride hailing; swap; vietnam",
    "search_intent": "informational",
    "topic_cluster": "electric / 7.7 comparisons-ecosystem",
-   "content_quality": "strong (5/7)",
+   "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
    "internal_links": "out: 1 body + 6 related cards; in: 2 related + 0 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - descriptive guide references resolved into contextual links (scripts/link-guide-references.js)",
-   "evidence": "title_len=50; desc_len=165 || words=445; h2=4; tables=0; sources=3; body_links=1 || related_out=6; related_in=2; body_in=0 || plan MM-0791 (general-research): High-kilometre commercial use case; the charging-planning article covers ordinary commutes || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=50; desc_len=165 || words=468; h2=4; tables=0; sources=3; body_links=1 || related_out=6; related_in=2; body_in=0 || plan MM-0791 (general-research): High-kilometre commercial use case; the charging-planning article covers ordinary commutes || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -11274,8 +11895,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=47; desc_len=140 || words=427; h2=4; tables=0; sources=2; body_links=1 || related_out=5; related_in=2; body_in=0 || plan MM-0777 (general-research): Age-friendly ergonomics and controls; the commuting article covers general commute practice || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=47; desc_len=140 || words=446; h2=4; tables=0; sources=2; body_links=1 || related_out=5; related_in=2; body_in=0 || plan MM-0777 (general-research): Age-friendly ergonomics and controls; the commuting article covers general commute practice || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -11308,8 +11929,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - in-silo links or same-silo related cards (batch matrix-queue-2)",
-   "evidence": "title_len=59; desc_len=150 || words=380; h2=2; tables=1; sources=4; body_links=2 || related_out=6; related_in=8; body_in=6 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=59; desc_len=150 || words=419; h2=2; tables=1; sources=4; body_links=2 || related_out=6; related_in=8; body_in=6 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -12132,7 +12753,7 @@
    "url": "/articles/foreign-licence-exchange-vietnam/",
    "current_title": "How Foreigners Exchange a Licence for a Vietnamese One",
    "primary_keyword": "foreign licence exchange vietnam procedure",
-   "secondary_keywords": "licence; foreigners; exchange; residence; law; vietnam",
+   "secondary_keywords": "Temporary Vietnamese motorbike licence; licence; foreigners; exchange; residence; law; vietnam",
    "search_intent": "informational",
    "topic_cluster": "law-licences / 11.2 foreigners",
    "content_quality": "strong (5/7)",
@@ -14228,12 +14849,12 @@
    "topic_cluster": "scooters / 3.3 choosing-guides",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 5 body + 8 related cards; in: 8 related + 1 body + hub listing",
+   "internal_links": "out: 6 body + 8 related cards; in: 8 related + 1 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - in-silo links or same-silo related cards (batch matrix-queue-2)",
-   "evidence": "title_len=59; desc_len=159 || words=533; h2=8; tables=0; sources=2; body_links=5 || related_out=8; related_in=8; body_in=1 || plan MM-0430 (manufacturer-research): Whole-lineup orientation guide; reviews cover single models only || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - electric models section from the manufacturer's official Vietnamese pages (batch matrix-queue-4)",
+   "evidence": "title_len=59; desc_len=159 || words=596; h2=9; tables=0; sources=3; body_links=6 || related_out=8; related_in=8; body_in=1 || plan MM-0430 (manufacturer-research): Whole-lineup orientation guide; reviews cover single models only || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -14631,7 +15252,7 @@
    "url": "/articles/honda-vs-yamaha-scooters-vietnam/",
    "current_title": "Honda vs Yamaha Scooters in Vietnam: Which Brand Suits You?",
    "primary_keyword": "honda vs yamaha scooters vietnam",
-   "secondary_keywords": "honda; yamaha; scooter comparison; buying guide",
+   "secondary_keywords": "Vietnam motorcycle brands; honda; yamaha; scooter comparison; buying guide",
    "search_intent": "commercial",
    "topic_cluster": "scooters / 3.2 model-comparisons",
    "content_quality": "strong (6/7)",
@@ -15076,14 +15697,14 @@
    "secondary_keywords": "electric; how it works; motor; battery; controller",
    "search_intent": "informational",
    "topic_cluster": "electric / 7.1 understanding-electric",
-   "content_quality": "adequate (4/7)",
+   "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
    "internal_links": "out: 3 body + 7 related cards; in: 6 related + 1 body + hub listing",
-   "seo_issues": "short body (297 words)",
+   "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=56; desc_len=153 || words=297; h2=5; tables=0; sources=2; body_links=3 || related_out=7; related_in=6; body_in=1 || plan MM-0708 (general-research): Component explainer using verified model data; distinct from any petrol mechanics explainer by electric-only scope || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=56; desc_len=153 || words=326; h2=5; tables=0; sources=2; body_links=3 || related_out=7; related_in=6; body_in=1 || plan MM-0708 (general-research): Component explainer using verified model data; distinct from any petrol mechanics explainer by electric-only scope || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -15303,8 +15924,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - descriptive guide references resolved into contextual links, pass 2 (reviewed override map + same-cluster fallback; scripts/link-guide-references.js)",
-   "evidence": "title_len=56; desc_len=153 || words=401; h2=3; tables=1; sources=3; body_links=1 || related_out=5; related_in=2; body_in=1 || plan MM-0755 (general-research): Motor-placement explainer with verified Weaver++ mid-motor data; the how-it-works canonical covers general drivetrain function, not the placement trade-off || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=56; desc_len=153 || words=429; h2=3; tables=1; sources=3; body_links=1 || related_out=5; related_in=2; body_in=1 || plan MM-0755 (general-research): Motor-placement explainer with verified Weaver++ mid-motor data; the how-it-works canonical covers general drivetrain function, not the placement trade-off || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -15396,7 +16017,7 @@
    "url": "/articles/idp-vietnam-motorbike-rules/",
    "current_title": "International Driving Permits in Vietnam: Motorbike IDP Rules",
    "primary_keyword": "international driving permits in vietnam",
-   "secondary_keywords": "idp; licence; law; vietnam; tourists",
+   "secondary_keywords": "International licence Vietnam; idp; licence; law; vietnam; tourists",
    "search_intent": "informational",
    "topic_cluster": "law-licences / 11.2 foreigners",
    "content_quality": "strong (5/7)",
@@ -16034,8 +16655,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - descriptive guide references resolved into contextual links (scripts/link-guide-references.js); descriptive guide references resolved into contextual links, pass 2 (reviewed override map + same-cluster fallback; scripts/link-guide-references.js)",
-   "evidence": "title_len=57; desc_len=161 || words=471; h2=4; tables=1; sources=3; body_links=2 || related_out=6; related_in=2; body_in=0 || plan MM-0793 (general-research): Multi-day touring discipline; the day-trips article covers single-day loops || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=57; desc_len=161 || words=499; h2=4; tables=1; sources=3; body_links=2 || related_out=6; related_in=2; body_in=0 || plan MM-0793 (general-research): Multi-day touring discipline; the day-trips article covers single-day loops || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -16841,7 +17462,7 @@
    "url": "/articles/motorbike-learner-permit-vietnam/",
    "current_title": "Does Vietnam Have a Motorbike Learner Permit",
    "primary_keyword": "motorbike learner permit vietnam",
-   "secondary_keywords": "learner; training; a1; licence; law; vietnam",
+   "secondary_keywords": "Temporary Vietnamese motorbike licence; learner; training; a1; licence; law; vietnam",
    "search_intent": "informational",
    "topic_cluster": "law-licences / 11.1 licence-system",
    "content_quality": "strong (5/7)",
@@ -16851,7 +17472,7 @@
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=44; desc_len=157 || words=340; h2=4; tables=0; sources=3; body_links=2 || related_out=5; related_in=2; body_in=0 || plan LAW-0025 (gsc+legal-research): Learning-to-ride stage before full licence; procedure article assumes direct A1 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=44; desc_len=157 || words=340; h2=4; tables=0; sources=3; body_links=2 || related_out=5; related_in=2; body_in=0 || plan LAW-0025 (gsc+legal-research): Learning-to-ride stage before full licence; procedure article assumes direct A1 || ownership note: The VERIFIED learner-permit guide answers it: Vietnam issues no motorbike learner permit or provisional licence; the routes are course, test and licence, or an exchanged foreign licence. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -19377,14 +19998,14 @@
    "secondary_keywords": "electric; moped; age 16; licence; students",
    "search_intent": "informational",
    "topic_cluster": "electric / 7.2 legal-electric",
-   "content_quality": "adequate (4/7)",
+   "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
    "internal_links": "out: 3 body + 5 related cards; in: 6 related + 2 body + hub listing",
-   "seo_issues": "short body (287 words)",
+   "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - in-silo links or same-silo related cards (batch matrix-queue-2)",
-   "evidence": "title_len=65; desc_len=155 || words=287; h2=3; tables=0; sources=2; body_links=3 || related_out=5; related_in=6; body_in=2 || plan MM-0711 (general-research): Electric-specific age rules; the 50cc article covers the petrol moped age rules, this covers electric || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=65; desc_len=155 || words=309; h2=3; tables=0; sources=2; body_links=3 || related_out=5; related_in=6; body_in=2 || plan MM-0711 (general-research): Electric-specific age rules; the 50cc article covers the petrol moped age rules, this covers electric || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -19434,8 +20055,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - descriptive guide references resolved into contextual links, pass 2 (reviewed override map + same-cluster fallback; scripts/link-guide-references.js)",
-   "evidence": "title_len=46; desc_len=164 || words=405; h2=4; tables=1; sources=3; body_links=2 || related_out=5; related_in=2; body_in=0 || plan MM-0766 (general-research): Terrain-load riding guide with verified power figures; the range article covers overall consumption || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=46; desc_len=164 || words=409; h2=4; tables=1; sources=3; body_links=2 || related_out=5; related_in=2; body_in=0 || plan MM-0766 (general-research): Terrain-load riding guide with verified power figures; the range article covers overall consumption || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -21074,7 +21695,7 @@
    "url": "/articles/stopped-by-traffic-police-vietnam/",
    "current_title": "Stopped by Traffic Police in Vietnam: What to Do",
    "primary_keyword": "stopped by traffic police vietnam",
-   "secondary_keywords": "police; checkpoint; procedure; documents; law; vietnam",
+   "secondary_keywords": "Police checkpoints Vietnam; police; checkpoint; procedure; documents; law; vietnam",
    "search_intent": "informational",
    "topic_cluster": "law-licences / 11.3 traffic-rules",
    "content_quality": "strong (5/7)",
@@ -21084,7 +21705,7 @@
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=48; desc_len=132 || words=373; h2=5; tables=0; sources=3; body_links=2 || related_out=5; related_in=11; body_in=4 || plan LAW-0038 (gsc+legal-research): Stop procedure and rights; documents article is what to carry || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=48; desc_len=132 || words=373; h2=5; tables=0; sources=3; body_links=2 || related_out=5; related_in=11; body_in=4 || plan LAW-0038 (gsc+legal-research): Stop procedure and rights; documents article is what to carry || ownership note: Related search (OpenRush, US, 2026-10-15); the VERIFIED guide covers what to do at a stop. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -21457,8 +22078,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - in-silo links or same-silo related cards (batch matrix-queue-2)",
-   "evidence": "title_len=62; desc_len=123 || words=413; h2=4; tables=0; sources=3; body_links=3 || related_out=5; related_in=2; body_in=0 || plan MM-0776 (general-research): Electric-specific test-ride checklist; the first-buying article covers the decision, not the ride evaluation || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=62; desc_len=123 || words=430; h2=4; tables=0; sources=3; body_links=3 || related_out=5; related_in=2; body_in=0 || plan MM-0776 (general-research): Electric-specific test-ride checklist; the first-buying article covers the decision, not the ride evaluation || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -22128,7 +22749,7 @@
    "url": "/articles/used-50cc-inspection-checklist/",
    "current_title": "Used 50cc Inspection Checklist: Twenty Minutes Before You Pay",
    "primary_keyword": "used 50cc inspection checklist",
-   "secondary_keywords": "50cc; used bikes; inspection; buying; checklist",
+   "secondary_keywords": "Used mopeds Vietnam; 50cc; used bikes; inspection; buying; checklist",
    "search_intent": "informational",
    "topic_cluster": "50cc / 6.4 buying-owning",
    "content_quality": "strong (5/7)",
@@ -22138,7 +22759,7 @@
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; descriptive guide references resolved into contextual links (scripts/link-guide-references.js); descriptive guide references resolved into contextual links, pass 2 (reviewed override map + same-cluster fallback; scripts/link-guide-references.js)",
-   "evidence": "title_len=61; desc_len=128 || words=428; h2=7; tables=0; sources=1; body_links=4 || related_out=5; related_in=5; body_in=3 || plan MM-0688 (general-research): 50cc-specific used-purchase checklist; rental-inspection article covers rental checks || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=61; desc_len=128 || words=428; h2=7; tables=0; sources=1; body_links=4 || related_out=5; related_in=5; body_in=3 || plan MM-0688 (general-research): 50cc-specific used-purchase checklist; rental-inspection article covers rental checks || ownership note: A moped in Vietnamese law includes the 50 cc petrol class; the used-50cc checklist is the buying answer. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -22171,8 +22792,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - descriptive guide references resolved into contextual links (scripts/link-guide-references.js)",
-   "evidence": "title_len=63; desc_len=164 || words=396; h2=5; tables=1; sources=2; body_links=1 || related_out=6; related_in=5; body_in=1 || plan MM-0789 (general-research): Station-network guide with verified counts and fees; the swap article compares charging methods || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=63; desc_len=164 || words=395; h2=5; tables=1; sources=2; body_links=1 || related_out=6; related_in=5; body_in=1 || plan MM-0789 (general-research): Station-network guide with verified counts and fees; the swap article compares charging methods || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -22264,17 +22885,17 @@
    "url": "/articles/vietnam-electric-two-wheeler-market-overview/",
    "current_title": "Vietnam Electric Two-Wheeler Market: A Verified Overview",
    "primary_keyword": "vietnam electric two wheeler market",
-   "secondary_keywords": "Honda electric bike Vietnam; Electric motorbike Vietnam; electric motorbike; market; vietnam; vinfast; dat bike; yadea",
+   "secondary_keywords": "Honda electric bike Vietnam; What are some new electric bike brands; Electric motorbike Vietnam; Vietnam motorcycle brands; electric motorbike; market; vietnam; vinfast; dat bike; yadea",
    "search_intent": "informational",
    "topic_cluster": "electric / 7.7 comparisons-ecosystem",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 3 body + 6 related cards; in: 2 related + 0 body + hub listing",
-   "seo_issues": "none",
+   "internal_links": "out: 3 body + 6 related cards; in: 2 related + 3 body + hub listing",
+   "seo_issues": "served keyword \"What are some new electric bike brands\" weakly covered by title+description (variant/gap: informational signal)",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-15 - fact correction against the manufacturers' official Vietnamese pages: Honda (ICON e:, CUV e:, UC3) and Yamaha (NEO's) electric models now named, no figures added (batch matrix-queue-3)",
-   "evidence": "title_len=56; desc_len=139 || words=459; h2=5; tables=0; sources=7; body_links=3 || related_out=6; related_in=2; body_in=0 || plan MM-0788 (general-research): Market-structure overview of the classes and ecosystems; lineup articles cover brand shelves || ownership note: The market overview names the Honda (ICON e:, CUV e:, UC3) and Yamaha (NEO's) electric models from the manufacturers' official Vietnamese pages (re-checked 2026-10-15); no specifications are claimed until verified rows exist in docs/MODEL-DATABASE.md. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - Honda/Yamaha electric facts from official pages and licence class corrected (batches matrix-queue-3 and -4)",
+   "evidence": "title_len=56; desc_len=139 || words=552; h2=5; tables=0; sources=7; body_links=3 || related_out=6; related_in=2; body_in=3 || plan MM-0788 (general-research): Market-structure overview of the classes and ecosystems; lineup articles cover brand shelves || ownership note: The market overview names the Honda (ICON e:, CUV e:, UC3) and Yamaha (NEO's) electric models from the manufacturers' official Vietnamese pages (re-checked 2026-10-15); no specifications are claimed until verified rows exist in docs/MODEL-DATABASE.md. / SERP question (OpenRush, US, electric bike rental Hanoi SERP); the overview names VinFast, Dat Bike, Yadea, Honda and Yamaha. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -22443,8 +23064,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=52; desc_len=160 || words=459; h2=4; tables=1; sources=2; body_links=4 || related_out=5; related_in=5; body_in=2 || plan MM-0781 (general-research): Whole-lineup map of five models with licence classes; individual reviews cover single models || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=52; desc_len=160 || words=465; h2=4; tables=1; sources=2; body_links=4 || related_out=5; related_in=5; body_in=2 || plan MM-0781 (general-research): Whole-lineup map of five models with licence classes; individual reviews cover single models || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -22494,8 +23115,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - in-silo links or same-silo related cards (batch matrix-queue-2)",
-   "evidence": "title_len=55; desc_len=152 || words=329; h2=4; tables=1; sources=2; body_links=3 || related_out=6; related_in=11; body_in=3 || plan MM-0738 (general-research): Manufacturer-verified model review; comparison articles compare, this reviews one model || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=55; desc_len=152 || words=363; h2=4; tables=1; sources=2; body_links=3 || related_out=6; related_in=11; body_in=3 || plan MM-0738 (general-research): Manufacturer-verified model review; comparison articles compare, this reviews one model || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -22528,8 +23149,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - in-silo links or same-silo related cards (batch matrix-queue-2)",
-   "evidence": "title_len=59; desc_len=143 || words=328; h2=4; tables=1; sources=1; body_links=4 || related_out=4; related_in=5; body_in=1 || plan MM-0740 (general-research): Model review of the refreshed mainstream swap model || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=59; desc_len=143 || words=352; h2=4; tables=1; sources=1; body_links=4 || related_out=4; related_in=5; body_in=1 || plan MM-0740 (general-research): Model review of the refreshed mainstream swap model || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -22545,8 +23166,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - in-silo links or same-silo related cards (batch matrix-queue-2)",
-   "evidence": "title_len=57; desc_len=142 || words=305; h2=4; tables=1; sources=1; body_links=3 || related_out=4; related_in=3; body_in=1 || plan MM-0739 (general-research): Model review with verified smart-feature data; the Viper-vs-Feliz article compares || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=57; desc_len=142 || words=328; h2=4; tables=1; sources=1; body_links=3 || related_out=4; related_in=3; body_in=1 || plan MM-0739 (general-research): Model review with verified smart-feature data; the Viper-vs-Feliz article compares || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -22562,8 +23183,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - descriptive guide references resolved into contextual links, pass 2 (reviewed override map + same-cluster fallback; scripts/link-guide-references.js)",
-   "evidence": "title_len=58; desc_len=159 || words=378; h2=3; tables=1; sources=2; body_links=1 || related_out=5; related_in=2; body_in=3 || plan MM-0784 (general-research): Same-platform trim comparison; the Viper review covers one model || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=58; desc_len=159 || words=391; h2=3; tables=1; sources=2; body_links=1 || related_out=5; related_in=2; body_in=3 || plan MM-0784 (general-research): Same-platform trim comparison; the Viper review covers one model || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -22576,11 +23197,11 @@
    "content_quality": "adequate (4/7)",
    "cannibalization": "none detected",
    "internal_links": "out: 3 body + 4 related cards; in: 3 related + 3 body + hub listing",
-   "seo_issues": "short body (239 words)",
+   "seo_issues": "short body (246 words)",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=59; desc_len=142 || words=239; h2=3; tables=0; sources=1; body_links=3 || related_out=4; related_in=3; body_in=3 || plan MM-0746 (general-research): Equipment-level comparison of mechanical twins || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=59; desc_len=142 || words=246; h2=3; tables=0; sources=1; body_links=3 || related_out=4; related_in=3; body_in=3 || plan MM-0746 (general-research): Equipment-level comparison of mechanical twins || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -22593,11 +23214,11 @@
    "content_quality": "adequate (4/7)",
    "cannibalization": "none detected",
    "internal_links": "out: 1 body + 4 related cards; in: 5 related + 0 body + hub listing",
-   "seo_issues": "short body (270 words)",
+   "seo_issues": "short body (283 words)",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - descriptive guide references resolved into contextual links (scripts/link-guide-references.js)",
-   "evidence": "title_len=55; desc_len=142 || words=270; h2=3; tables=0; sources=3; body_links=1 || related_out=4; related_in=5; body_in=0 || plan MM-0750 (general-research): Ecosystem-level brand comparison; model reviews and pair comparisons cover individual machines || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=55; desc_len=142 || words=283; h2=3; tables=0; sources=3; body_links=1 || related_out=4; related_in=5; body_in=0 || plan MM-0750 (general-research): Ecosystem-level brand comparison; model reviews and pair comparisons cover individual machines || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -22885,8 +23506,8 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - in-silo links or same-silo related cards (batch matrix-queue-2)",
-   "evidence": "title_len=63; desc_len=156 || words=345; h2=4; tables=0; sources=3; body_links=4 || related_out=4; related_in=13; body_in=4 || plan MM-0705 (general-research): Legal-category definition hub article; the licence canonical covers only licence rules, not what the category is || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
+   "evidence": "title_len=63; desc_len=156 || words=368; h2=4; tables=0; sources=3; body_links=4 || related_out=4; related_in=13; body_in=4 || plan MM-0705 (general-research): Legal-category definition hub article; the licence canonical covers only licence rules, not what the category is || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -23029,7 +23650,7 @@
    "url": "/articles/which-countries-idp-valid-vietnam/",
    "current_title": "Which Countries' IDPs Work in Vietnam",
    "primary_keyword": "which countries idps work in vietnam",
-   "secondary_keywords": "idp; countries; vienna convention; licence; law; vietnam",
+   "secondary_keywords": "1949 IDP Vietnam; American licence Vietnam; International licence Vietnam; idp; countries; vienna convention; licence; law; vietnam",
    "search_intent": "informational",
    "topic_cluster": "law-licences / 11.2 foreigners",
    "content_quality": "strong (5/7)",
@@ -23039,7 +23660,7 @@
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=37; desc_len=144 || words=375; h2=4; tables=0; sources=3; body_links=3 || related_out=5; related_in=3; body_in=3 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=37; desc_len=144 || words=375; h2=4; tables=0; sources=3; body_links=3 || related_out=5; related_in=3; body_in=3 || ownership note: Related search (OpenRush, US, 2026-10-15); the VERIFIED guide explains that 1949 Geneva Convention IDPs are not recognised. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -23865,14 +24486,14 @@
    "secondary_keywords": "Yamaha motorbike Vietnam; yamaha; scooters; choosing a scooter; vietnam",
    "search_intent": "informational",
    "topic_cluster": "scooters / 3.3 choosing-guides",
-   "content_quality": "strong (5/7)",
+   "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 8 body + 7 related cards; in: 6 related + 2 body + hub listing",
+   "internal_links": "out: 9 body + 7 related cards; in: 6 related + 2 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - in-silo links or same-silo related cards (batch matrix-queue-2)",
-   "evidence": "title_len=60; desc_len=156 || words=419; h2=7; tables=0; sources=2; body_links=8 || related_out=7; related_in=6; body_in=2 || plan MM-0431 (manufacturer-research): Whole-lineup orientation guide; complements Honda lineup guide || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - electric models section from the manufacturer's official Vietnamese pages (batch matrix-queue-4)",
+   "evidence": "title_len=60; desc_len=156 || words=505; h2=8; tables=0; sources=3; body_links=9 || related_out=7; related_in=6; body_in=2 || plan MM-0431 (manufacturer-research): Whole-lineup orientation guide; complements Honda lineup guide || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {

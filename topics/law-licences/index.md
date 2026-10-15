@@ -5,8 +5,8 @@ permalink: /topics/law-licences/
 topic_cluster: law-licences
 description: "Licence classes, IDP rules, helmet law, fines and what foreign riders legally need in Vietnam."
 faq:
-  - q: "Can tourists legally ride a motorbike in Vietnam?"
-    a: "Yes, if licensed correctly: a Vietnamese licence, or a national motorcycle licence from a 1968 Vienna Convention country carried together with its International Driving Permit. Mopeds of 50 cc or less, and electric machines of 4 kW or less, need no licence from age 16."
+  - q: "Can tourists and other foreigners legally ride a motorbike in Vietnam?"
+    a: "Yes, if licensed correctly: a Vietnamese licence, or a national motorcycle licence from a 1968 Vienna Convention country carried together with its International Driving Permit. Mopeds of 50 cc or less, and electric machines of 4 kW or less, designed for no more than 50 km/h, need no licence from age 16."
     link: "/articles/can-tourists-ride-motorbike-vietnam/"
     link_text: "Read the full answer"
   - q: "What can I ride on an A1 licence?"
