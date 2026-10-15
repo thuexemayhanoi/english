@@ -85,7 +85,7 @@ const owned = {}; // cluster -> [{keyword, owner, coverage, variant}]
 const coverageByKw = {}; if (matrix && matrix.summary) for (const k of matrix.summary.keywordOwnership || []) coverageByKw[k.keyword + '|' + k.owner] = k.coverage;
 for (const g of kwTargets.groups || []) for (const k of g.keywords || []) {
   const c = clusterOf(k.owner) || '(site)';
-  (owned[c] = owned[c] || []).push({ keyword: k.keyword, owner: k.owner, coverage: coverageByKw[k.keyword + '|' + k.owner] || '', variant: !!k.variant_of, gap: !!k.gap });
+  (owned[c] = owned[c] || []).push({ keyword: k.keyword, owner: k.owner, coverage: coverageByKw[k.keyword + '|' + k.owner] || '', variant: !!k.variant_of || !!k.tracked, gap: !!k.gap });
 }
 
 // ---------- demand (keyword universe mapped by the matrix) ----------

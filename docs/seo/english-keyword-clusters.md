@@ -134,12 +134,30 @@ Generated 2026-10-15 by `scripts/english-seo-matrix.js`. Keyword ownership is de
 | What are some new electric bike brands _(variant of Electric motorbike Vietnam)_ | informational | /articles/vietnam-electric-two-wheeler-market-overview/ | Vietnam Electric Two-Wheeler Market: A Verified Overview | weak |  | SERP question (OpenRush, US, electric bike rental Hanoi SERP); the overview names VinFast, Dat Bike, Yadea, Honda and Yamaha. |
 | How much does an electric bike usually cost _(variant of Electric motorbike Vietnam)_ | informational | /articles/cheapest-electric-motorbikes-vietnam-list-prices/ | Cheapest Electric Motorbikes in Vietnam: Verified List Prices | weak |  | SERP question; the list-price guide gives verified manufacturer list prices. |
 
+### Rank-tracked keywords (2026-10-15)
+
+| Keyword | Intent | Owner URL | Owner title | Coverage | Supporting URLs | Note |
+|---|---|---|---|---|---|---|
+| Motorbike rental deposit Hanoi _(rank-tracked)_ | commercial | /articles/motorbike-rental-deposit-hanoi/ | Motorbike Rental Deposits in Hanoi: Typical Amounts and Return | full | /articles/how-deposit-returns-work-hanoi/ | Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). Google ranks the passport-deposit article (#8) first; the deposit guide is the declared owner. |
+| Motorbike rental Noi Bai airport _(rank-tracked)_ | commercial | /articles/renting-motorbike-noi-bai-arrival/ | Renting a Motorbike When You Arrive at Noi Bai Airport | full |  | Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). The ranking page (#9) is the riding-to-the-airport guide; the arrival guide is the rental answer. |
+| How much to rent a motorbike in Hanoi _(rank-tracked)_ | commercial | /articles/motorbike-rental-price-hanoi/ | How Much Does It Cost to Rent a Motorbike in Hanoi? | full |  | Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). The tourist essentials guide ranks (#10); the price guide carries the published rates. |
+| 50cc motorbike Vietnam licence _(rank-tracked)_ | informational | /articles/50cc-licence-vietnam/ | Do You Need a Licence for a 50cc Motorbike in Vietnam? | full | /topics/50cc/ | Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). The definition guide ranks (#11); the licence guide is the declared owner. |
+| Renting a motorbike in Hanoi as a tourist _(rank-tracked)_ | commercial | /articles/can-tourists-rent-a-motorbike-hanoi/ | Can Tourists Rent a Motorbike in Hanoi? The Honest Answer | full | /articles/motorbike-rental-tourists-hanoi-essentials/ | Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). |
+| Hanoi motorbike rental for expats _(rank-tracked)_ | commercial | /articles/motorbike-rental-expats-moving-hanoi/ | Motorbike Rental for Expats Moving to Hanoi | full | /articles/expats-monthly-motorbike-hanoi/ | Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). The best-bike-for-expats guide ranks (#14); the expat rental guide is the declared owner. |
+| A1 licence Vietnam _(rank-tracked)_ | informational | /articles/a1-licence-vietnam-what-you-can-ride/ | A1 Licence Vietnam: What You Can Legally Ride | full |  | Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). The licence-classes explainer ranks (#17); the A1 guide is the declared owner. |
+| Can tourists ride motorbike in Vietnam _(rank-tracked)_ | informational | /articles/can-tourists-ride-motorbike-vietnam/ | Can Tourists Legally Ride a Motorbike in Vietnam? | full |  | Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). |
+| Vietnam motorbike licence for foreigners _(rank-tracked)_ | informational | /topics/law-licences/ | Vietnam Motorbike Laws and Licences | full | /articles/can-tourists-ride-motorbike-vietnam/, /articles/expat-motorbike-licence-vietnam/ | Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). |
+| International driving permit Vietnam motorbike _(rank-tracked)_ | informational | /articles/idp-vietnam-motorbike-rules/ | International Driving Permits in Vietnam: Motorbike IDP Rules | full | /articles/which-countries-idp-valid-vietnam/ | Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). |
+| Electric bike rental Hanoi _(rank-tracked)_ | commercial | /articles/can-foreigners-rent-electric-bike-vietnam/ | Can Foreigners Rent an E-Bike or Electric Motorbike in Vietnam? | full |  | Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). |
+| Honda Vision rental Hanoi _(rank-tracked)_ | commercial | /articles/honda-vision-110-review/ | Honda Vision 110 Review: Vietnam's Default City Scooter | full |  | Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). Availability of any model: contact us to confirm. |
+| Best scooter to rent in Vietnam _(rank-tracked)_ | commercial | /articles/best-scooters-to-rent-hanoi/ | Best Scooters to Rent in Hanoi for Foreigners | partial | /topics/scooters/ | Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). |
+
 ## Topic cluster map (14 clusters, 981 articles)
 
 | # | Cluster | Hub (pillar) | Articles | Commercial | Informational | Avg words | Subclusters |
 |---|---|---|---|---|---|---|---|
-| 1 | rental | /topics/rental/ | 81 | 34 | 47 | 410 | 5 |
-| 2 | monthly-rental | /topics/monthly-rental/ | 45 | 12 | 33 | 356 | 5 |
+| 1 | rental | /topics/rental/ | 81 | 34 | 47 | 413 | 5 |
+| 2 | monthly-rental | /topics/monthly-rental/ | 45 | 12 | 33 | 357 | 5 |
 | 3 | scooters | /topics/scooters/ | 110 | 51 | 59 | 373 | 4 |
 | 4 | motorcycles | /topics/motorcycles/ | 108 | 65 | 43 | 333 | 4 |
 | 5 | manual-clutch | /topics/manual-clutch/ | 55 | 9 | 46 | 385 | 4 |
@@ -148,7 +166,7 @@ Generated 2026-10-15 by `scripts/english-seo-matrix.js`. Keyword ownership is de
 | 8 | maintenance | /topics/maintenance/ | 120 | 0 | 120 | 438 | 3 |
 | 9 | parts-gear | /topics/parts-gear/ | 90 | 0 | 90 | 374 | 5 |
 | 10 | safety | /topics/safety/ | 55 | 0 | 55 | 331 | 3 |
-| 11 | law-licences | /topics/law-licences/ | 66 | 0 | 66 | 394 | 4 |
+| 11 | law-licences | /topics/law-licences/ | 66 | 0 | 66 | 395 | 4 |
 | 12 | hanoi | /topics/hanoi/ | 54 | 0 | 54 | 492 | 3 |
 | 13 | trips | /topics/trips/ | 38 | 0 | 38 | 452 | 3 |
 | 14 | vietnam-travel | /topics/vietnam-travel/ | 30 | 0 | 30 | 571 | 4 |

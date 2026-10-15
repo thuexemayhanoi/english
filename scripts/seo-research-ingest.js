@@ -29,6 +29,9 @@ const UNIVERSE = path.join(SEO_DIR, 'keyword-universe.json');
 const MARKETS = { 'United States': 'us', 'United Kingdom': 'uk', 'Australia': 'au', 'Vietnam': 'vn', 'Canada': 'ca', 'Singapore': 'sg', 'New Zealand': 'nz' };
 const MARKET_NAMES = { us: 'United States', uk: 'United Kingdom', au: 'Australia', vn: 'Vietnam', ca: 'Canada', sg: 'Singapore', nz: 'New Zealand' };
 const OUR_HOST = new URL(L.SITE_URL).hostname.replace(/^www\./, '');
+// Ubersuggest rank-tracker and AI-visibility exports carry no OFE envelope; Google location ids map to markets.
+const UBER_TOOLS = new Set(['project_position_info', 'brand_visibility_overview', 'brand_prompts']);
+const RANK_LOC = { 2704: 'vn', 2840: 'us', 2826: 'uk', 2036: 'au', 2124: 'ca', 2702: 'sg', 2554: 'nz' };
 
 // ---------- classification (pure functions, exported for the engine tests) ----------
 const GEO = /\b(hanoi|ha noi|vietnam|viet nam|vietnamese|saigon|ho chi minh|hcmc|da nang|danang|hoi an|hue|ha giang|sapa|sa pa|ninh binh|ha long|halong|cat ba|phong nha|da lat|dalat|nha trang|mui ne|phu quoc|laos)\b/i;
@@ -85,6 +88,12 @@ const uniq = arr => [...new Set(arr)];
 
 // Unwrap {tool, input, result} or take a raw envelope; detect the tool from the payload.
 function detect(doc) {
+  const uber = doc && UBER_TOOLS.has(doc.tool) ? doc.tool : (doc && !doc.tool && Array.isArray(doc.keywords) && doc.complete_through && doc.binned ? 'project_position_info' : '');
+  if (uber) {
+    let r = doc.tool ? doc.result : doc;
+    if (r && typeof r.message === 'string') { try { r = JSON.parse(r.message); } catch (e) { r = null; } }
+    return r ? { tool: uber, env: r, d: r, input: doc.input || {}, fetched_at: doc.fetched_at || '' } : null;
+  }
   const env = doc && doc.result && doc.result.schema_version ? doc.result : doc;
   if (!env || !env.data || typeof env.data !== 'object') return null;
   const d = env.data; const input = (doc && doc.input) || {};
@@ -136,6 +145,10 @@ function ingest(inbox, opts) {
   const bl = ev._competitor_backlinks && typeof ev._competitor_backlinks === 'object' ? ev._competitor_backlinks : {};
   const blDomains = Object.assign({}, bl.domains || {});
   let gap = ev._keyword_gap && typeof ev._keyword_gap === 'object' ? ev._keyword_gap : null;
+  const track = ev._tracking && typeof ev._tracking === 'object' ? ev._tracking : {};
+  const rankKey = x => [x.date, x.market, x.device].join('|');
+  const rankSnaps = {}; for (const x of Array.isArray(track.rank_snapshots) ? track.rank_snapshots : []) rankSnaps[rankKey(x)] = x;
+  const aiSnaps = {}; for (const x of Array.isArray(track.ai_visibility_snapshots) ? track.ai_visibility_snapshots : []) aiSnaps[x.date] = x;
   const summary = { files: files.length, ingested: 0, skipped: [], serps: 0, keywordFiles: 0, rowsKept: 0, rowsDropped: 0 };
 
   const addRow = (keyword, market, k, src, ranking) => {
@@ -157,6 +170,32 @@ function ingest(inbox, opts) {
     const det = detect(doc);
     if (!det) { summary.skipped.push(file + ': not a recognised connector export'); continue; }
     const { tool, env, d, input } = det;
+    if (UBER_TOOLS.has(tool)) {
+      const logU = { file, tool };
+      if (tool === 'project_position_info') {
+        const date = dateOf(d.complete_through); const mk = RANK_LOC[input.locId] || 'vn'; const device = input.device || 'desktop';
+        const rows = (d.keywords || []).map(k => { const np = k.new_position || {}, op = k.old_position || {}; return { keyword: k.keyword, position: np.position != null ? np.position : null, url: np.url ? L.sitePath(np.url) : null, previous_position: op.position != null ? op.position : null, status: k.status || '', difficulty: k.sd != null ? k.sd : null, tool_volume: k.volume ? k.volume : null }; }).sort((a, b) => a.keyword.localeCompare(b.keyword));
+        const pos = r => r.position;
+        const snap = { tool: 'Ubersuggest project_position_info', date, market: MARKET_NAMES[mk] || mk, device, language: input.language || 'en', next_update: d.next_update || '', tracked: rows.length, ranking: rows.filter(r => pos(r) != null).length,
+          bands: { top3: rows.filter(r => pos(r) != null && pos(r) <= 3).length, page1: rows.filter(r => pos(r) > 3 && pos(r) <= 10).length, striking: rows.filter(r => pos(r) > 10 && pos(r) <= 20).length, deep: rows.filter(r => pos(r) > 20).length, not_ranking: rows.filter(r => pos(r) == null && r.status !== 'unstable').length, unstable: rows.filter(r => r.status === 'unstable').length }, rows };
+        rankSnaps[rankKey(snap)] = snap; logU.date = date; logU.market = mk; logU.scope = rows.length + ' tracked keywords'; summary.rankSnapshots = (summary.rankSnapshots || 0) + 1;
+      } else {
+        const date = dateOf(det.fetched_at); const snap = aiSnaps[date] || { tool: 'Ubersuggest AI Search Visibility (brand_visibility_overview + brand_prompts)', date };
+        if (tool === 'brand_visibility_overview') {
+          const o = d.overview || {}; const aggs = d.brand_aggregations || []; const user = aggs.find(b => b.is_user_brand) || {};
+          const variants = aggs.filter(b => !b.is_user_brand && /nguyen[ _-]?tu/i.test(b.brand_name));
+          snap.providers = (o.user_brand_by_provider || []).map(p => p.provider); snap.total_prompts = o.total_prompts; snap.total_answers = o.total_answers;
+          snap.brand = { name: user.brand_name || '', visibility_percentage: o.user_brand_visibility_percentage ? o.user_brand_visibility_percentage.current : null, total_mentions: o.user_brand_total_mentions != null ? o.user_brand_total_mentions : null, average_rank: o.user_brand_average_rank ? o.user_brand_average_rank.current : null };
+          snap.name_variants_seen = variants.map(v => ({ name: v.brand_name, average_rank: v.average_rank, mentions: v.total_mentions }));
+          snap.brands_seen = aggs.filter(b => !b.is_user_brand && !variants.includes(b)).sort((a, b) => (b.total_mentions || 0) - (a.total_mentions || 0) || String(a.brand_name).localeCompare(String(b.brand_name))).map(b => ({ name: b.brand_name, average_rank: b.average_rank, mentions: b.total_mentions }));
+        } else {
+          snap.prompts = (d.prompt_aggregations || []).map(p => ({ prompt: p.prompt_text, topic: p.topic, brands_found: (p.brands_found || []).map(b => b.brand_name + ' #' + b.average_rank), our_brand_mentions: p.user_brand_data ? p.user_brand_data.total_mentions : 0 }));
+        }
+        aiSnaps[date] = snap; logU.date = date; logU.scope = tool;
+      }
+      const ku = file + '|' + logU.date; if (!log.some(x => x.file + '|' + x.date === ku)) log.push(logU);
+      summary.ingested++; continue;
+    }
     const date = dateOf(d.fetched_at || (env.coverage && env.coverage.as_of) || '');
     const market = marketCode(d.location || input.location || 'United States');
     const logEntry = { file, tool, date, market };
@@ -217,6 +256,11 @@ function ingest(inbox, opts) {
   }
   if (Object.keys(blDomains).length) ev._competitor_backlinks = Object.assign({ tool: 'OpenRush inspect_backlinks (views authority + referring_domains)', note: 'domain_rank is the index\'s 0-1000 domain score; row-level page_rank is PAGE-level, not domain authority. clean_referring_domains keeps rows with spam_score <= 20 (the rest are link networks, casino/mirror sites and directories, deliberately not listed as prospects). Prospecting is an owner task; links are never bought. Domains listed in own_properties belong to the competitors themselves and are skipped in the prospect list.' }, bl, { date: Object.values(blDomains).map(v => v.date).sort().pop(), domains: Object.fromEntries(Object.keys(blDomains).sort().map(k => [k, blDomains[k]])) });
   if (gap) ev._keyword_gap = gap;
+  if (Object.keys(rankSnaps).length || Object.keys(aiSnaps).length) {
+    ev._tracking = Object.assign({}, track);
+    if (Object.keys(rankSnaps).length) ev._tracking.rank_snapshots = Object.values(rankSnaps).sort((a, b) => rankKey(a).localeCompare(rankKey(b)));
+    if (Object.keys(aiSnaps).length) ev._tracking.ai_visibility_snapshots = Object.values(aiSnaps).sort((a, b) => String(a.date).localeCompare(String(b.date)));
+  }
   ev._ingest_log = log.sort((a, b) => a.file.localeCompare(b.file) || String(a.date).localeCompare(String(b.date)));
 
   const maxVol = r => Math.max(0, ...Object.values(r.volume || {}).map(v => v || 0));
@@ -248,7 +292,7 @@ if (require.main === module) {
   const inbox = path.resolve(ROOT, opt('--inbox') || path.join('docs', 'seo', 'research', 'inbox'));
   const res = ingest(inbox, { dryRun: args.includes('--dry-run') });
   const s = res.summary;
-  console.log('seo-research-ingest: ' + s.ingested + '/' + s.files + ' files from ' + path.relative(ROOT, inbox) + (args.includes('--dry-run') ? ' (dry run)' : '') + ' -> SERP snapshots ' + s.serpQueries + ', universe rows ' + s.universeRows + ' (' + Object.entries(s.byRelevance || {}).map(([k, v]) => k + ' ' + v).join(', ') + '); rows kept ' + s.rowsKept + ', dropped ' + s.rowsDropped);
+  console.log('seo-research-ingest: ' + s.ingested + '/' + s.files + ' files from ' + path.relative(ROOT, inbox) + (args.includes('--dry-run') ? ' (dry run)' : '') + ' -> SERP snapshots ' + s.serpQueries + ', universe rows ' + s.universeRows + ' (' + Object.entries(s.byRelevance || {}).map(([k, v]) => k + ' ' + v).join(', ') + '); rows kept ' + s.rowsKept + ', dropped ' + s.rowsDropped + (s.rankSnapshots ? '; rank snapshots ' + s.rankSnapshots : ''));
   for (const x of s.skipped) console.log('  skipped ' + x);
 }
 module.exports = { classify, topicOf, detect, serpEntry, ingest, OTHER_PLACE };

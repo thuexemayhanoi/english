@@ -19,9 +19,20 @@ last_reviewed: 2026-09-24
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): no airport delivery claims are published; delivery/pickup in Hanoi may be available depending on location and arrangement"
 internal_link_targets: motorbikes-on-expressway-vietnam, renting-motorbike-noi-bai-arrival, crossing-hanoi-bridges-motorbike, hanoi-motorbike-commute-corridors, documents-to-carry-motorbike-vietnam, cold-start-motorbike-winter-vietnam, fog-and-low-visibility-riding-motorbike-vietnam
+faq:
+  - q: "Can I ride a motorbike to Noi Bai Airport?"
+    a: "Yes. The standard route is the Vo Nguyen Giap avenue corridor via Nhat Tan bridge, a dual carriageway with few junctions where motorbikes are allowed. The CT-class expressways are closed to motorbikes, so set your navigation app to motorbike mode."
+    link: "/articles/renting-motorbike-noi-bai-arrival/"
+    link_text: "Renting a bike when you arrive at Noi Bai"
+  - q: "How long does it take to ride from central Hanoi to Noi Bai Airport?"
+    a: "About 40-50 minutes off-peak and 70-90 minutes in the morning (06:30-08:30) and evening (17:00-19:30) peaks. Winter fog can add 30 minutes for early flights between November and February."
+    link: "/articles/crossing-hanoi-bridges-motorbike/"
+    link_text: "Crossing the Hanoi bridges by motorbike"
 ---
 
 The run between central Hanoi and [Noi Bai Airport]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) is about 30 kilometres, and a large share of the people who make it do so on two wheels — staff, crews, and travelers with luggage strapped to a scooter rack. Done with the right route and timing, it is a straightforward ride; done badly, it is an hour of stress ending in a missed check-in.
+
+Landing at Noi Bai and want a bike for your stay? [Renting a Motorbike When You Arrive at Noi Bai Airport]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) explains how handover works for arrivals; this guide is about riding the route itself.
 
 ## The route
 

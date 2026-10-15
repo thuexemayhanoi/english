@@ -42,6 +42,8 @@ Article 89 of the law preserves the scope of A1 licences issued before 1 January
 - Petrol bikes above 125cc or electric machines above 11 kW on a new licence (that needs class A, which covers everything above the A1 thresholds)
 - Three-wheel motorbikes (class B1)
 
+The full class structure (A1, A and B1) is in [Vietnam Motorbike Licence Classes Explained (A1, A, B1)]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}).
+
 ## For foreign visitors
 
 Most visitors do not hold a Vietnamese A1. Instead, recognition depends on your home licence plus an International Driving Permit that includes a motorcycle category — see our IDP [guide]({{ '/articles/idp-vietnam-motorbike-rules/' | relative_url }}). Riding a 110cc scooter with no valid licence of any kind is an offence: 2–4 million VND for bikes of 125cc or under, 6–8 million for bigger machines (Decree 168/2024/NĐ-CP, Article 18). It also complicates insurance and liability after an accident.

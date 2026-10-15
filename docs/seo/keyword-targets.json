@@ -768,6 +768,124 @@
      "note": "SERP question; the list-price guide gives verified manufacturer list prices."
     }
    ]
+  },
+  {
+   "group": "Rank-tracked keywords (2026-10-15)",
+   "keywords": [
+    {
+     "keyword": "Motorbike rental deposit Hanoi",
+     "owner": "/articles/motorbike-rental-deposit-hanoi/",
+     "intent": "commercial",
+     "tracked": true,
+     "supporting": [
+      "/articles/how-deposit-returns-work-hanoi/"
+     ],
+     "note": "Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). Google ranks the passport-deposit article (#8) first; the deposit guide is the declared owner."
+    },
+    {
+     "keyword": "Motorbike rental Noi Bai airport",
+     "owner": "/articles/renting-motorbike-noi-bai-arrival/",
+     "intent": "commercial",
+     "tracked": true,
+     "note": "Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). The ranking page (#9) is the riding-to-the-airport guide; the arrival guide is the rental answer."
+    },
+    {
+     "keyword": "How much to rent a motorbike in Hanoi",
+     "owner": "/articles/motorbike-rental-price-hanoi/",
+     "intent": "commercial",
+     "tracked": true,
+     "note": "Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). The tourist essentials guide ranks (#10); the price guide carries the published rates."
+    },
+    {
+     "keyword": "50cc motorbike Vietnam licence",
+     "owner": "/articles/50cc-licence-vietnam/",
+     "intent": "informational",
+     "tracked": true,
+     "supporting": [
+      "/topics/50cc/"
+     ],
+     "note": "Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). The definition guide ranks (#11); the licence guide is the declared owner."
+    },
+    {
+     "keyword": "Renting a motorbike in Hanoi as a tourist",
+     "owner": "/articles/can-tourists-rent-a-motorbike-hanoi/",
+     "intent": "commercial",
+     "tracked": true,
+     "supporting": [
+      "/articles/motorbike-rental-tourists-hanoi-essentials/"
+     ],
+     "note": "Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14)."
+    },
+    {
+     "keyword": "Hanoi motorbike rental for expats",
+     "owner": "/articles/motorbike-rental-expats-moving-hanoi/",
+     "intent": "commercial",
+     "tracked": true,
+     "supporting": [
+      "/articles/expats-monthly-motorbike-hanoi/"
+     ],
+     "note": "Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). The best-bike-for-expats guide ranks (#14); the expat rental guide is the declared owner."
+    },
+    {
+     "keyword": "A1 licence Vietnam",
+     "owner": "/articles/a1-licence-vietnam-what-you-can-ride/",
+     "intent": "informational",
+     "tracked": true,
+     "note": "Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). The licence-classes explainer ranks (#17); the A1 guide is the declared owner."
+    },
+    {
+     "keyword": "Can tourists ride motorbike in Vietnam",
+     "owner": "/articles/can-tourists-ride-motorbike-vietnam/",
+     "intent": "informational",
+     "tracked": true,
+     "note": "Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14)."
+    },
+    {
+     "keyword": "Vietnam motorbike licence for foreigners",
+     "owner": "/topics/law-licences/",
+     "intent": "informational",
+     "tracked": true,
+     "supporting": [
+      "/articles/can-tourists-ride-motorbike-vietnam/",
+      "/articles/expat-motorbike-licence-vietnam/"
+     ],
+     "note": "Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14)."
+    },
+    {
+     "keyword": "International driving permit Vietnam motorbike",
+     "owner": "/articles/idp-vietnam-motorbike-rules/",
+     "intent": "informational",
+     "tracked": true,
+     "supporting": [
+      "/articles/which-countries-idp-valid-vietnam/"
+     ],
+     "note": "Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14)."
+    },
+    {
+     "keyword": "Electric bike rental Hanoi",
+     "owner": "/articles/can-foreigners-rent-electric-bike-vietnam/",
+     "intent": "commercial",
+     "tracked": true,
+     "note": "Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14)."
+    },
+    {
+     "keyword": "Honda Vision rental Hanoi",
+     "owner": "/articles/honda-vision-110-review/",
+     "intent": "commercial",
+     "tracked": true,
+     "note": "Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). Availability of any model: contact us to confirm."
+    },
+    {
+     "keyword": "Best scooter to rent in Vietnam",
+     "owner": "/articles/best-scooters-to-rent-hanoi/",
+     "intent": "commercial",
+     "tracked": true,
+     "supporting": [
+      "/topics/scooters/"
+     ],
+     "note": "Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14)."
+    }
+   ]
   }
  ]
 }

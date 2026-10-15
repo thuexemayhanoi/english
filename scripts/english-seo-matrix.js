@@ -133,7 +133,7 @@ for (const g of kwTargets.groups || []) {
     allKeywords.push(rec);
     const o = ownerMap[k.owner] = ownerMap[k.owner] || { primary: [], variants: [], supporting: [], notes: [], gaps: [] };
     // Variants and gap keywords are served, not owned: they never make a URL P1 on their own.
-    if (k.variant_of || k.gap) o.variants.push(k.keyword); else o.primary.push(k.keyword);
+    if (k.variant_of || k.gap || k.tracked) o.variants.push(k.keyword); else o.primary.push(k.keyword);
     if (k.note) o.notes.push(k.note);
     if (k.gap) o.gaps.push(k.keyword);
     for (const s of k.supporting || []) {
@@ -142,8 +142,56 @@ for (const g of kwTargets.groups || []) {
     }
   }
 }
+// Owner resolver (shared by the rank tracker, the keyword universe and the content gap register)
+const { classify: classifyKeyword, OTHER_PLACE } = require('./seo-research-ingest.js');
+const GAP_STOP = new Set('a an the of for to in on and or with your you our this that is are how what when where why which who do does can at by from vs versus i my it its be need needed want get'.split(' '));
+// A trailing "e" is dropped after the suffix so singular and plural share one stem
+// (motorbike/motorbikes -> motorbik, licence/licenses -> licens, bike/bikes -> bik).
+// "used" (second-hand) is kept whole so it never collides with "use"; on two wheels
+// "drive" and "ride" ask the same question, so they share one stem.
+const gapStem = w => w.toLowerCase().replace(/[^a-z0-9]/g, '').replace(/^used$/, 'secondhand').replace(/(ing|ers|er|ed|es|s)$/, '').replace(/e$/, '').replace(/licenc/, 'licens').replace(/motorcycl/, 'motorbik').replace(/^rental$/, 'rent').replace(/^hir$/, 'hire').replace(/^vietnames$/, 'vietnam').replace(/^driv$/, 'rid');
+const gapSig = s => [...new Set(String(s).toLowerCase().replace(/\bair[\s-]+blade\b/g, 'airblade').split(/[^a-z0-9]+/).filter(w => w && !GAP_STOP.has(w)).map(gapStem).filter(w => w.length > 1))];
+// Generic words (the site's own subject) never count as the distinguishing
+// match; a question is served only when its distinctive words are found.
+const GAP_GENERIC = new Set(['motorbik', 'rental', 'rent', 'hanoi', 'vietnam', 'scoot', 'bik', 'bike', 'rid', 'ride', 'hire', 'vietnames']);
+// Hand-authored owners (keyword-targets.json) answer a query first, in the keyword
+// universe and in the content gap register alike: the exact declared keyword; then the
+// same stemmed word set (owners sharing one set, "Motorbike Vietnam" for the travel
+// pillar and "Vietnamese motorbikes" for the motorcycles pillar, have different SERPs
+// recorded in keyword-evidence.json, so the exact keyword decides and otherwise the first
+// declared owner serves); then an owner whose words the query contains with only the
+// site's generic subject words added. A declared GAP keyword is served weakly.
+const ownerSigs = allKeywords.map(k => ({ sig: gapSig(k.keyword), owner: k.owner, keyword: k.keyword, gap: !!k.gap, supporting: k.supporting || [], exact: String(k.keyword).toLowerCase().replace(/\s+/g, ' ').trim() }));
+function ownerResolve(query) {
+  const sig = gapSig(query); if (!sig.length) return null;
+  const setEq = (a, b) => a.length === b.length && a.every(w => b.includes(w));
+  const exact = String(query).toLowerCase().replace(/[?!.]+$/, '').replace(/\s+/g, ' ').trim();
+  let o = ownerSigs.find(x => x.exact === exact);
+  if (!o) o = ownerSigs.find(x => setEq(x.sig, sig));
+  if (!o) o = ownerSigs.filter(x => x.sig.every(w => sig.includes(w)) && sig.every(w => x.sig.includes(w) || GAP_GENERIC.has(w))).sort((a, b) => b.sig.length - a.sig.length)[0];
+  if (o && o.gap) return { url: o.owner, how: 'declared GAP keyword (' + o.keyword + '): nearest existing URL, no dedicated page', strength: 'partial', keyword: o.keyword, supporting: o.supporting };
+  if (o) return { url: o.owner, how: 'keyword-targets owner (' + o.keyword + ')', strength: 'owner', keyword: o.keyword, supporting: o.supporting };
+  return null;
+}
 const statusMap = readJSON(path.join(OUT_DIR, 'matrix-status.json'), {});
 const evidenceMap = readJSON(path.join(OUT_DIR, 'keyword-evidence.json'), null);
+// Rank-tracker snapshot (third-party, measured, dated; docs/seo/keyword-evidence.json _tracking.rank_snapshots,
+// ingested by scripts/seo-research-ingest.js): which URL Google serves for each tracked keyword, compared
+// with the hand-declared owner in keyword-targets.json. Positions only: no clicks, impressions or traffic.
+const rankSnap = L.latestRankSnapshot(evidenceMap);
+const rankByUrl = {}; const rankTable = []; const rankMismatchByUrl = {};
+if (rankSnap) for (const r of rankSnap.rows) {
+  const res = ownerResolve(r.keyword); const own = res && res.strength === 'owner' ? res : null;
+  let match = 'no owner declared';
+  if (r.position == null || !r.url) match = r.status === 'unstable' ? 'unstable (tool)' : 'not in the top 100';
+  else if (own) match = own.url === r.url ? 'owner' : (own.supporting || []).includes(r.url) ? 'supporting page' : 'different URL';
+  if (r.position != null && r.url) (rankByUrl[r.url] = rankByUrl[r.url] || []).push({ keyword: r.keyword, position: r.position });
+  rankTable.push({ keyword: r.keyword, position: r.position, url: r.url, previous: r.previous_position, owner: own ? own.url : '', match });
+  if (match === 'different URL' && r.position <= 20) {
+    (rankMismatchByUrl[own.url] = rankMismatchByUrl[own.url] || []).push('rank tracker: ' + r.url + ' ranks #' + r.position + ' for "' + r.keyword + '" instead of this declared owner');
+    (rankMismatchByUrl[r.url] = rankMismatchByUrl[r.url] || []).push('rank tracker: this URL ranks #' + r.position + ' for "' + r.keyword + '", declared for ' + own.url);
+  }
+}
 // scripts/link-bare-slugs.js --apply records which articles had bare slug
 // references converted into contextual links; that becomes the default status
 // for those URLs unless matrix-status.json says something more specific.
@@ -155,7 +203,11 @@ if (linkRepair && linkRepair.mode === 'apply') for (const f of linkRepair.perFil
 // OPTIMIZED with every batch note, unless matrix-status.json overrides it.
 const optLog = readJSON(path.join(OUT_DIR, 'optimization-log.json'), []);
 const optByUrl = {};
-for (const b of Array.isArray(optLog) ? optLog : []) for (const u of b.urls || []) (optByUrl[u] = optByUrl[u] || []).push({ date: b.date, note: b.note || b.batch });
+for (const b of Array.isArray(optLog) ? optLog : []) for (const u of b.urls || []) (optByUrl[u] = optByUrl[u] || []).push({ date: b.date, note: b.note || b.batch, rank: !!b.rank_work });
+// A URL worked on for its rank signal (optimization-log batch with rank_work: true) after the rank
+// snapshot date is not raised again from that snapshot: the next snapshot decides whether the work
+// moved the position (signal -> work -> re-measure). Unrelated edits never silence the signal.
+const workedSinceRank = url => !!rankSnap && (optByUrl[url] || []).some(o => o.rank && String(o.date) > String(rankSnap.date));
 
 // Site config (homepage falls back to site title/description).
 const cfg = fs.readFileSync(path.join(L.ROOT, '_config.yml'), 'utf8');
@@ -220,6 +272,8 @@ function describeIssues(x) {
     const cov = keywordCoverage(k, x.title + ' ' + x.description);
     if (cov === 'weak') issues.push('served keyword "' + k + '" weakly covered by title+description (variant/gap: informational signal)');
   }
+  const rs = L.rankSignal(rankByUrl[x.url]);
+  if (rs.quickWin && !workedSinceRank(x.url)) issues.push('ranks #' + rs.best.position + ' for "' + rs.best.keyword + '" (' + rankSnap.date + '): quick win, the page already earns the impression');
   return issues;
 }
 
@@ -237,6 +291,7 @@ function cannibalization(x) {
       if (m && '/articles/' + m[2] + '/' === x.url) out.push('near-duplicate title vs ' + url + ' (sim ' + m[1] + ')');
     }
   }
+  if (!workedSinceRank(x.url)) for (const n of rankMismatchByUrl[x.url] || []) out.push(n);
   return out;
 }
 
@@ -247,6 +302,9 @@ function recommend(x, issues, cann, own) {
   if (x.descLen > DESC_MAX) acts.push('Tighten meta description to 120-160 chars with the primary keyword and a direct answer');
   if (x.type === 'article' && x.m.bodyLinks === 0) acts.push('Add 2-4 contextual in-body links (topic hub + supporting guides)');
   if (x.type === 'article' && x.m.unlinkedRefs > 0) acts.push('Convert the ' + x.m.unlinkedRefs + ' unlinked guide reference(s) into real links');
+  const rs = L.rankSignal(rankByUrl[x.url]);
+  if (rs.quickWin && !workedSinceRank(x.url)) acts.push('Quick win (rank tracker, ' + rankSnap.date + '): ranks #' + rs.best.position + ' for "' + rs.best.keyword + '"; sharpen the title, description and lead for that query and add 2-3 contextual links from related guides, never changing the URL');
+  if ((rankMismatchByUrl[x.url] || []).length && !workedSinceRank(x.url)) acts.push('Rank tracker shows Google serving a different URL than the declared owner for a tracked keyword: link the pair with natural anchor text and keep their angles apart; do not move or merge content');
   if (cann.length) acts.push('Differentiate angle (audience/question/use case) in title, description and H2s; cross-link the pair');
   if (issues.some(i => /zero explicit inbound/.test(i))) acts.push('Add this slug to internal_link_targets of 2-3 related guides');
   if (x.type === 'hub') acts.push('Pillar page: direct-answer intro + curated start-here links to the commercial and core guides');
@@ -260,7 +318,7 @@ function priority(x, issues, cann, own) {
   const fl = findingsByUrl[x.url] || [];
   if (fl.some(L.isBlocking)) return 'P0';
   const coreOwner = own.primary.length > 0;
-  const hardIssues = issues.filter(i => !/^served keyword/.test(i));
+  const hardIssues = issues.filter(i => !/^served keyword|^ranks #/.test(i));
   if ((coreOwner || x.type === 'hub') && hardIssues.length) return 'P1';
   if (x.reviewRequired) return 'P1';
   if (cann.some(c => /sim (0\.9|1\.0)/.test(c))) return 'P1';
@@ -271,9 +329,9 @@ function priority(x, issues, cann, own) {
   // pages (commercial intent in the rental clusters), where a contextual link
   // from the prose to the hub or the price/booking guides is worth hand work.
   const soft = i => /no contextual in-body links|short body/.test(i);
-  const driving = issues.filter(i => !soft(i) && !/^served keyword/.test(i));
+  const driving = issues.filter(i => !soft(i) && !/^served keyword|^ranks #/.test(i));
   const moneyPage = commercial && /^(rental|monthly-rental)$/.test(String(x.cluster));
-  if ((commercial && driving.length) || (moneyPage && issues.some(i => /no contextual in-body links/.test(i))) || cann.length || issues.some(i => /zero explicit inbound|unlinked guide reference/.test(i))) return 'P2';
+  if ((commercial && driving.length) || (moneyPage && issues.some(i => /no contextual in-body links/.test(i))) || cann.length || (L.rankSignal(rankByUrl[x.url]).quickWin && !workedSinceRank(x.url)) || issues.some(i => /zero explicit inbound|unlinked guide reference/.test(i))) return 'P2';
   return 'P3';
 }
 
@@ -287,6 +345,7 @@ function evidence(x, own) {
   if (fl.length) parts.push(fl.map(f => f.tool + ': ' + f.issue.replace(/ vs _articles\/.*$/, '')).join(' | '));
   if (x.plan) parts.push('plan ' + x.plan.id + ' (' + x.plan.sourceBasis + ')' + (x.plan.differentiation ? ': ' + x.plan.differentiation : ''));
   if (own.notes.length) parts.push('ownership note: ' + own.notes.join(' / '));
+  if (rankByUrl[x.url]) parts.push('rank tracker (' + rankSnap.tool + ', ' + rankSnap.market + ' ' + rankSnap.device + ', ' + rankSnap.date + '): ' + rankByUrl[x.url].map(r => '#' + r.position + ' "' + r.keyword + '"').join(', ') + (workedSinceRank(x.url) ? ' (worked on since: re-evaluate at the next snapshot)' : ''));
   const ev = evidenceMap && (evidenceMap[x.url] || null);
   parts.push(ev ? 'recorded metrics: ' + JSON.stringify(ev) : 'GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded');
   return parts.join(' || ');
@@ -440,7 +499,7 @@ const summary = {
     return { group: k.group, keyword: k.keyword, owner: k.owner, ownerTitle: row ? row.current_title : '(missing URL)', coverage: row ? keywordCoverage(k.keyword, row.current_title + ' ' + (row.evidence || '')) : 'missing', variantOf: k.variant_of || '', gap: !!k.gap, intent: k.intent, ownerPriority: row ? row.priority : '-' };
   }),
   reportsUsed: Object.keys(reports).filter(t => reports[t]),
-  dataLimitations: gsc ? ['DATA-DRIVEN MODE: ' + path.relative(L.ROOT, GSC_PATH) + ' (' + gsc.kind + ' export, ' + gsc.rows.length + ' rows) supplies measured clicks, impressions and positions; ' + Object.keys(gscPages).length + ' exported pages, matched to ' + rows.filter(r => gscPages[r.url]).length + ' matrix rows. Pages absent from the export have no measured evidence and keep their on-site priority.', 'Third-party demand estimates in docs/seo/keyword-universe.json remain for comparison only; measured Search Console data wins wherever both exist.'] : ['ZERO-DATA MODE: no English Google Search Console, GA4 or rank-tracking export exists yet (docs/SOURCE-MAP.md); priorities use on-site evidence plus the public SERP snapshots, competitor data and third-party demand estimates recorded in docs/seo/keyword-evidence.json and docs/seo/keyword-universe.json (tool and date on every number).', 'DATA-DRIVEN MODE starts automatically when docs/seo/gsc-performance.csv (a Search Console performance export) exists; until then no measured clicks, impressions or positions are claimed.']
+  dataLimitations: gsc ? ['DATA-DRIVEN MODE: ' + path.relative(L.ROOT, GSC_PATH) + ' (' + gsc.kind + ' export, ' + gsc.rows.length + ' rows) supplies measured clicks, impressions and positions; ' + Object.keys(gscPages).length + ' exported pages, matched to ' + rows.filter(r => gscPages[r.url]).length + ' matrix rows. Pages absent from the export have no measured evidence and keep their on-site priority.', 'Third-party demand estimates in docs/seo/keyword-universe.json remain for comparison only; measured Search Console data wins wherever both exist.'] : [(rankSnap ? 'ZERO-DATA MODE: no English Google Search Console or GA4 export exists yet (docs/SOURCE-MAP.md); the only measured position data is the third-party rank-tracker snapshot of ' + rankSnap.date + ' (' + rankSnap.tracked + ' tracked keywords, ' + rankSnap.ranking + ' ranking: positions only, no clicks, impressions or traffic); priorities use on-site evidence, that snapshot, the public SERP snapshots, competitor data and third-party demand estimates recorded in docs/seo/keyword-evidence.json and docs/seo/keyword-universe.json (tool and date on every number).' : 'ZERO-DATA MODE: no English Google Search Console, GA4 or rank-tracking export exists yet (docs/SOURCE-MAP.md); priorities use on-site evidence plus the public SERP snapshots, competitor data and third-party demand estimates recorded in docs/seo/keyword-evidence.json and docs/seo/keyword-universe.json (tool and date on every number).'), 'DATA-DRIVEN MODE starts automatically when docs/seo/gsc-performance.csv (a Search Console performance export) exists; until then no measured clicks, impressions or positions are claimed.']
 };
 for (const r of rows) {
   summary.byPriority[r.priority]++;
@@ -464,42 +523,12 @@ for (const k of summary.keywordOwnership) {
 // (a Common-questions entry, or a title/keyword match). Unserved ones are
 // listed as gaps for the owner (the production plan is complete: no new
 // articles are created by tooling; a gap is served by an existing URL or left).
-const { classify: classifyKeyword, OTHER_PLACE } = require('./seo-research-ingest.js');
-const GAP_STOP = new Set('a an the of for to in on and or with your you our this that is are how what when where why which who do does can at by from vs versus i my it its be need needed want get'.split(' '));
-// A trailing "e" is dropped after the suffix so singular and plural share one stem
-// (motorbike/motorbikes -> motorbik, licence/licenses -> licens, bike/bikes -> bik).
-// "used" (second-hand) is kept whole so it never collides with "use"; on two wheels
-// "drive" and "ride" ask the same question, so they share one stem.
-const gapStem = w => w.toLowerCase().replace(/[^a-z0-9]/g, '').replace(/^used$/, 'secondhand').replace(/(ing|ers|er|ed|es|s)$/, '').replace(/e$/, '').replace(/licenc/, 'licens').replace(/motorcycl/, 'motorbik').replace(/^rental$/, 'rent').replace(/^hir$/, 'hire').replace(/^vietnames$/, 'vietnam').replace(/^driv$/, 'rid');
-const gapSig = s => [...new Set(String(s).toLowerCase().replace(/\bair[\s-]+blade\b/g, 'airblade').split(/[^a-z0-9]+/).filter(w => w && !GAP_STOP.has(w)).map(gapStem).filter(w => w.length > 1))];
 const faqIndex = [];
 for (const src of [...articles.map(a => ({ url: L.articleUrl(a), raw: a.raw })), ...pages.map(p => ({ url: L.pageUrl(p), raw: p.raw }))]) {
   const fmEnd = src.raw.indexOf('\n---', 3); const fmText = fmEnd > 0 ? src.raw.slice(0, fmEnd) : '';
   for (const q of fmText.matchAll(/^\s+- q: "([^"]+)"/gm)) faqIndex.push({ url: src.url, q: q[1], sig: gapSig(q[1]) });
 }
 const titleIndex = rows.map(r => ({ url: r.url, sig: gapSig(r.current_title + ' ' + (r.primary_keyword || '')) }));
-// Generic words (the site's own subject) never count as the distinguishing
-// match; a question is served only when its distinctive words are found.
-const GAP_GENERIC = new Set(['motorbik', 'rental', 'rent', 'hanoi', 'vietnam', 'scoot', 'bik', 'bike', 'rid', 'ride', 'hire', 'vietnames']);
-// Hand-authored owners (keyword-targets.json) answer a query first, in the keyword
-// universe and in the content gap register alike: the exact declared keyword; then the
-// same stemmed word set (owners sharing one set, "Motorbike Vietnam" for the travel
-// pillar and "Vietnamese motorbikes" for the motorcycles pillar, have different SERPs
-// recorded in keyword-evidence.json, so the exact keyword decides and otherwise the first
-// declared owner serves); then an owner whose words the query contains with only the
-// site's generic subject words added. A declared GAP keyword is served weakly.
-const ownerSigs = allKeywords.map(k => ({ sig: gapSig(k.keyword), owner: k.owner, keyword: k.keyword, gap: !!k.gap, exact: String(k.keyword).toLowerCase().replace(/\s+/g, ' ').trim() }));
-function ownerResolve(query) {
-  const sig = gapSig(query); if (!sig.length) return null;
-  const setEq = (a, b) => a.length === b.length && a.every(w => b.includes(w));
-  const exact = String(query).toLowerCase().replace(/[?!.]+$/, '').replace(/\s+/g, ' ').trim();
-  let o = ownerSigs.find(x => x.exact === exact);
-  if (!o) o = ownerSigs.find(x => setEq(x.sig, sig));
-  if (!o) o = ownerSigs.filter(x => x.sig.every(w => sig.includes(w)) && sig.every(w => x.sig.includes(w) || GAP_GENERIC.has(w))).sort((a, b) => b.sig.length - a.sig.length)[0];
-  if (o && o.gap) return { url: o.owner, how: 'declared GAP keyword (' + o.keyword + '): nearest existing URL, no dedicated page', strength: 'partial' };
-  if (o) return { url: o.owner, how: 'keyword-targets owner (' + o.keyword + ')', strength: 'owner' };
-  return null;
-}
 function resolveGap(question) {
   if (/\bnear me\b/i.test(question) && rows.some(r => r.url === '/contact/')) return { url: '/contact/', how: 'local-intent query: address, map and hours on the contact page (the map pack itself is a Google Business Profile matter for the owner)', dHit: 0, tHit: 0 };
   const sigAll = gapSig(question); if (sigAll.length < 2) return null;
@@ -555,6 +584,18 @@ for (const gs of gapSources) {
   }
 }
 summary.contentGapCount = summary.contentGaps.filter(g => g.gap).length;
+
+// Rank snapshot summary (third-party rank tracker): measured positions of the tracked keywords.
+const aiSnap = (() => { const l = evidenceMap && evidenceMap._tracking && Array.isArray(evidenceMap._tracking.ai_visibility_snapshots) ? evidenceMap._tracking.ai_visibility_snapshots.slice().sort((a, b) => String(a.date).localeCompare(String(b.date))) : []; return l.length ? l[l.length - 1] : null; })();
+summary.rankTracking = rankSnap ? {
+  tool: rankSnap.tool, date: rankSnap.date, market: rankSnap.market, device: rankSnap.device, next_update: rankSnap.next_update || '',
+  tracked: rankSnap.tracked, ranking: rankSnap.ranking, bands: rankSnap.bands,
+  quickWins: Object.entries(rankByUrl).filter(([u, l]) => L.rankSignal(l).quickWin).map(([u, l]) => ({ url: u, keyword: L.rankSignal(l).best.keyword, position: L.rankSignal(l).best.position, workedSince: workedSinceRank(u) })).sort((a, b) => a.position - b.position || a.url.localeCompare(b.url)),
+  mismatches: rankTable.filter(r => r.match === 'different URL').map(r => ({ keyword: r.keyword, position: r.position, rankingUrl: r.url, declaredOwner: r.owner })),
+  undeclared: rankTable.filter(r => r.match === 'no owner declared').map(r => r.keyword),
+  table: rankTable,
+  ai: aiSnap ? { date: aiSnap.date, providers: aiSnap.providers, prompts: aiSnap.total_prompts, brand: aiSnap.brand, nameVariants: aiSnap.name_variants_seen } : null
+} : null;
 
 // Keyword universe coverage (zero-data mode): every on-topic keyword recorded in
 // docs/seo/keyword-universe.json (third-party demand estimates with tool, market and
@@ -654,7 +695,7 @@ fs.writeFileSync(path.join(OUT_DIR, 'english-seo-master-matrix.json'), JSON.stri
 
 let md = '# English SEO Master Matrix\n\n';
 md += 'Generated ' + TODAY + ' by `scripts/english-seo-matrix.js` from the QA tool reports (' + summary.reportsUsed.join(', ') + '), `docs/matrix/master-matrix.csv`, article front matter and `docs/seo/keyword-targets.json`. ';
-md += '**Mode: ' + summary.mode + '.** ' + (summary.gsc ? 'Measured Search Console data from `' + summary.gsc.file + '` (' + summary.gsc.kind + ', ' + summary.gsc.rows + ' rows, ' + summary.gsc.pagesMatched + ' matrix rows matched) is attached as evidence and drives the quick-win and low-CTR bands. ' : 'No Search Console, analytics or rank data exists yet; priorities rest on on-site evidence and the public research recorded in `docs/seo/keyword-evidence.json` and `docs/seo/keyword-universe.json`. Drop a Search Console export at `docs/seo/gsc-performance.csv` to switch to DATA-DRIVEN mode. ');
+md += '**Mode: ' + summary.mode + '.** ' + (summary.gsc ? 'Measured Search Console data from `' + summary.gsc.file + '` (' + summary.gsc.kind + ', ' + summary.gsc.rows + ' rows, ' + summary.gsc.pagesMatched + ' matrix rows matched) is attached as evidence and drives the quick-win and low-CTR bands. ' : (rankSnap ? 'No Search Console or analytics data exists yet; the only measured data is the third-party rank-tracker snapshot of ' + rankSnap.date + ' (positions only), and priorities rest on on-site evidence, that snapshot and the public research recorded in `docs/seo/keyword-evidence.json` and `docs/seo/keyword-universe.json`. Drop a Search Console export at `docs/seo/gsc-performance.csv` to switch to DATA-DRIVEN mode. ' : 'No Search Console, analytics or rank data exists yet; priorities rest on on-site evidence and the public research recorded in `docs/seo/keyword-evidence.json` and `docs/seo/keyword-universe.json`. Drop a Search Console export at `docs/seo/gsc-performance.csv` to switch to DATA-DRIVEN mode. '));
 md += 'Full row set: `english-seo-master-matrix.csv` / `.json` (' + rows.length + ' URLs). This file shows every P0-P2 row in full and the P3 rows compactly.\n\n';
 if (summary.keywordUniverse) {
   const u = summary.keywordUniverse;
@@ -665,6 +706,15 @@ if (summary.keywordUniverse) {
     for (const g of u.gaps) md += '| ' + mdCell(g.keyword) + ' | ' + g.topic + ' | ' + g.intent + ' | ' + Object.entries(g.volume || {}).map(([m, v]) => m + ' ' + v).join(', ') + ' | ' + mdCell((g.competitors_ranking || []).map(c => c.domain + ' #' + c.position).join(', ')) + ' |\n';
     md += '\n';
   }
+}
+if (summary.rankTracking) {
+  const rt = summary.rankTracking; const b = rt.bands;
+  md += '## Tracked rankings (third-party rank tracker, ' + rt.date + ')\n\n';
+  md += mdCell(rt.tool) + ', ' + rt.market + ', ' + rt.device + ': ' + rt.tracked + ' keywords tracked, ' + rt.ranking + ' in the top 100 (top 3: ' + b.top3 + ', 4-10: ' + b.page1 + ', 11-20: ' + b.striking + ', 21-100: ' + b.deep + '; not ranking: ' + b.not_ranking + ', unstable: ' + b.unstable + '). These are measured positions of the best-ranking URL of this domain, not clicks, impressions or traffic' + (rt.next_update ? '; next tracker update ' + rt.next_update : '') + '. Positions 4-20 are the quick-win band: the page already ranks, so title, description, lead and internal links are worth hand work (a URL worked on since the snapshot, optimization-log batch with rank_work, waits for the next snapshot). A different URL ranking than the declared owner is a cannibalisation signal: link the pair with natural anchor text, never move content.\n\n';
+  md += '| Keyword | Position | Ranking URL | Declared owner | Match |\n|---|---|---|---|---|\n';
+  for (const r of rt.table.slice().sort((a, c) => (a.position == null) - (c.position == null) || a.position - c.position || a.keyword.localeCompare(c.keyword))) md += '| ' + mdCell(r.keyword) + ' | ' + (r.position == null ? '-' : r.position) + (r.previous != null && r.position != null && r.previous !== r.position ? ' (was ' + r.previous + ')' : '') + ' | ' + (r.url || '-') + ' | ' + (r.owner || '-') + ' | ' + r.match + ' |\n';
+  if (rt.ai) md += '\nAI answers (' + (rt.ai.providers || []).join(', ') + ', ' + rt.ai.prompts + ' tracked prompts, ' + rt.ai.date + '): brand "' + mdCell((rt.ai.brand || {}).name) + '" mentioned ' + ((rt.ai.brand || {}).total_mentions == null ? '?' : rt.ai.brand.total_mentions) + ' time(s)' + ((rt.ai.nameVariants || []).length ? '; a spelling variant of the business name ("' + mdCell(rt.ai.nameVariants.map(v => v.name + '", average rank ' + v.average_rank).join('; "')) + ') was mentioned by the tool as a separate brand' : '') + '. Competitor mentions and per-prompt answers are in docs/seo/keyword-evidence.json (_tracking.ai_visibility_snapshots).\n';
+  md += '\n';
 }
 md += '## Data limitations (recorded, not blockers)\n\n' + summary.dataLimitations.map(l => '- ' + l).join('\n') + '\n\n';
 md += '## Summary\n\n| Metric | Value |\n|---|---|\n';
@@ -707,7 +757,7 @@ for (const g of kwTargets.groups || []) {
   kc += '### ' + g.group + '\n\n| Keyword | Intent | Owner URL | Owner title | Coverage | Supporting URLs | Note |\n|---|---|---|---|---|---|---|\n';
   for (const k of g.keywords || []) {
     const ko = summary.keywordOwnership.find(x => x.keyword === k.keyword && x.owner === k.owner);
-    kc += '| ' + mdCell(k.keyword) + (k.variant_of ? ' _(variant of ' + mdCell(k.variant_of) + ')_' : '') + (k.gap ? ' **GAP**' : '') + ' | ' + k.intent + ' | ' + k.owner + ' | ' + mdCell(ko ? ko.ownerTitle : '') + ' | ' + (ko ? ko.coverage : '') + ' | ' + mdCell((k.supporting || []).join(', ')) + ' | ' + mdCell(k.note || '') + ' |\n';
+    kc += '| ' + mdCell(k.keyword) + (k.variant_of ? ' _(variant of ' + mdCell(k.variant_of) + ')_' : '') + (k.tracked ? ' _(rank-tracked)_' : '') + (k.gap ? ' **GAP**' : '') + ' | ' + k.intent + ' | ' + k.owner + ' | ' + mdCell(ko ? ko.ownerTitle : '') + ' | ' + (ko ? ko.coverage : '') + ' | ' + mdCell((k.supporting || []).join(', ')) + ' | ' + mdCell(k.note || '') + ' |\n';
   }
   kc += '\n';
 }

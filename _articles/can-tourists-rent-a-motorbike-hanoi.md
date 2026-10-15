@@ -31,6 +31,14 @@ faq:
     a: "Delivery within Hanoi may be available depending on location and arrangement, inside the 09:00–21:00 opening hours. Ask when you confirm availability, or collect from the shop at 112 Nguyen Van Cu Street, Long Bien."
     link: "/articles/motorbike-rental-pickup-or-delivery-hanoi/"
     link_text: "Compare pickup and delivery"
+  - q: "What documents do I need to rent a motorbike in Hanoi?"
+    a: "To rent, a passport, a cash deposit (typically 2,000,000-5,000,000 VND) and the rental price are enough. To ride legally you also need a Vietnamese motorcycle licence or your home licence with a valid 1968 Vienna Convention IDP."
+    link: "/articles/motorbike-rental-requirements-hanoi/"
+    link_text: "See the full requirements"
+  - q: "Can I rent a motorbike in Hanoi without a licence?"
+    a: "A shop can rent to you, but riding without a valid licence is a fined offence (2,000,000-4,000,000 VND for bikes up to 125 cc) and the bike can be held until it is resolved. The licence-free legal option is a 50cc-class moped for riders aged 16 and over."
+    link: "/articles/renting-a-motorbike-hanoi-without-licence/"
+    link_text: "Read the real risks"
 ---
 
 Tourists rent motorbikes in Hanoi constantly. Whether a tourist can ride one legally is a different question with a clean answer.

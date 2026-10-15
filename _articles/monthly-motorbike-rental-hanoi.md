@@ -57,6 +57,8 @@ A monthly renter in Hanoi typically commutes daily, parks in the same lots, ride
 
 Monthly renters are not all alike; the lifestyle guides cover [English teachers on a school-year contract]({{ '/articles/english-teachers-monthly-motorbike-hanoi/' | relative_url }}), [expats living in Hanoi]({{ '/articles/expats-monthly-motorbike-hanoi/' | relative_url }}), [families]({{ '/articles/families-monthly-motorbike-hanoi/' | relative_url }}), [students renting for a semester]({{ '/articles/students-semester-motorbike-rental-hanoi/' | relative_url }}) and [remote workers renting month to month]({{ '/articles/nomads-monthly-motorbike-hanoi/' | relative_url }}).
 
+Not sure a month is the right period? [Daily, Weekly or Monthly Motorbike Rental in Hanoi: How to Choose]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}) shows where the published rates make each period cheaper.
+
 ## The short version
 
 Monthly rental = a published or agreed monthly rate, a deposit held for the term, maintenance included on the shop's side, consumables agreed in advance, and a relationship with the shop measured in weeks. Set it up deliberately and it is the most practical transport arrangement in Hanoi.

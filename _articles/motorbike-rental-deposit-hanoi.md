@@ -43,6 +43,6 @@ At return, the shop checks the bike against its handover state - normally a quic
 
 ## Passports and deposits
 
-Some shops historically held passports instead of cash. Handing over a passport for days or weeks is a bad trade for you - it is your primary identity document abroad. A cash deposit achieves the same thing for the shop.
+Some shops historically held passports instead of cash. Handing over a passport for days or weeks is a bad trade for you - it is your primary identity document abroad. A cash deposit achieves the same thing for the shop. [Do Hanoi Motorbike Rentals Keep Your Passport?]({{ '/articles/do-rentals-keep-your-passport-hanoi/' | relative_url }}) covers what to check before handing over any document.
 
 Deposits at Nguyen Tu follow standard Hanoi practice: cash, returned at the end of the rental. Contact us to confirm current availability and the exact deposit for the bike you want.

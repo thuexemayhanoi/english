@@ -2,8 +2,8 @@
  "_about": "Per-URL status for the English SEO Master Matrix, maintained by hand after each VERIFIED improvement (never guessed by the generator). Keys are site-root URLs. Articles whose only change was the deterministic bare-slug link repair are labelled automatically from reports/link-bare-slugs.json and do not need an entry here.",
  "/topics/rental/": {
   "status": "OPTIMIZED",
-  "date": "2026-10-14",
-  "note": "pillar intro with direct answer + curated start-here and by-situation links"
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
  },
  "/topics/monthly-rental/": {
   "status": "OPTIMIZED",
@@ -107,18 +107,18 @@
  },
  "/articles/how-to-rent-a-motorbike-hanoi/": {
   "status": "OPTIMIZED",
-  "date": "2026-10-14",
-  "note": "batch 1: title 69->54 chars, description tightened, 11 contextual links incl. hub; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)"
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
  },
  "/articles/motorbike-rental-price-hanoi/": {
   "status": "OPTIMIZED",
-  "date": "2026-10-14",
-  "note": "batch 1: description tightened, contextual links, FAQ section from OWNER-FACTS prices"
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
  },
  "/articles/motorbike-rental-requirements-hanoi/": {
   "status": "OPTIMIZED",
   "date": "2026-10-15",
-  "note": "licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)"
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
  },
  "/articles/can-foreigners-rent-a-motorbike-hanoi/": {
   "status": "OPTIMIZED",
@@ -137,8 +137,8 @@
  },
  "/articles/monthly-motorbike-rental-hanoi/": {
   "status": "OPTIMIZED",
-  "date": "2026-10-14",
-  "note": "batch 1: hub link, 12 bare slug refs converted, cluster jargon removed; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)"
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
  },
  "/articles/motorbike-delivery-old-quarter/": {
   "status": "OPTIMIZED",
@@ -147,8 +147,8 @@
  },
  "/articles/motorbike-rental-pickup-or-delivery-hanoi/": {
   "status": "OPTIMIZED",
-  "date": "2026-10-14",
-  "note": "batch 1: description tightened, contextual links incl. Old Quarter/Tay Ho delivery"
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
  },
  "/articles/renting-50cc-hanoi/": {
   "status": "OPTIMIZED",
@@ -172,8 +172,8 @@
  },
  "/articles/renting-motorbike-old-quarter/": {
   "status": "OPTIMIZED",
-  "date": "2026-10-14",
-  "note": "batch 1: rental-process sentence + hub link, bare slug refs converted; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1); in-silo links or same-silo related cards (batch matrix-queue-2)"
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
  },
  "/articles/renting-motorbike-tay-ho/": {
   "status": "OPTIMIZED",
@@ -237,8 +237,8 @@
  },
  "/articles/daily-weekly-monthly-motorbike-rental-hanoi/": {
   "status": "OPTIMIZED",
-  "date": "2026-10-14",
-  "note": "in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)"
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
  },
  "/articles/renting-motorbike-couple-hanoi/": {
   "status": "OPTIMIZED",
@@ -1024,5 +1024,70 @@
   "status": "OPTIMIZED",
   "date": "2026-10-15",
   "note": "licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)"
+ },
+ "/articles/50cc-licence-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
+ },
+ "/articles/a1-licence-vietnam-what-you-can-ride/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
+ },
+ "/articles/best-motorbike-for-expats-hanoi/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
+ },
+ "/articles/can-tourists-rent-a-motorbike-hanoi/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
+ },
+ "/articles/do-rentals-keep-your-passport-hanoi/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
+ },
+ "/articles/motorbike-rental-deposit-hanoi/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
+ },
+ "/articles/motorbike-rental-tourists-hanoi-essentials/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
+ },
+ "/articles/renting-motorbike-noi-bai-arrival/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
+ },
+ "/articles/renting-motorbikes-group-hanoi/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
+ },
+ "/articles/riding-motorbike-noi-bai-airport-hanoi/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
+ },
+ "/articles/vietnam-motorbike-licence-classes-explained/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
+ },
+ "/articles/what-is-a-50cc-motorbike-vietnam/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
+ },
+ "/articles/motorbike-rental-expats-moving-hanoi/": {
+  "status": "OPTIMIZED",
+  "date": "2026-10-15",
+  "note": "rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)"
  }
 }

@@ -68,6 +68,12 @@ CURRENT remote main before acting. Never rely on remembered state.
   docs/seo/keyword-universe.json (on-topic demand rows per market). The matrix
   engine maps them to serving URLs and regenerates docs/seo/keyword-universe.md,
   serp-landscape.md and link-prospects.md (matrix files in maintenance.js).
+  It also ingests the Ubersuggest rank-tracker and AI-visibility exports into
+  `_tracking` (dated positions per keyword and ranking URL); the matrix turns
+  positions 4-20 into P2 quick wins and flags a different ranking URL than the
+  declared owner (optimization-log batches with `rank_work: true` wait for the
+  next snapshot). Positions are not clicks: ZERO-DATA mode stays until a real
+  Search Console export exists.
   Never invent or round a metric; never target a competitor brand name; never
   create an article for a gap. Off-site work (reviews, Google Business Profile,
   outreach) is owner-only.

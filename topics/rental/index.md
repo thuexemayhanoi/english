@@ -43,6 +43,7 @@ faq:
 <h2>Guides by situation</h2>
 <ul>
   <li><a href="{{ '/articles/motorbike-rental-tourists-hanoi-essentials/' | relative_url }}">Tourists visiting Hanoi</a> and <a href="{{ '/articles/renting-motorbike-hanoi-one-day/' | relative_url }}">renting for just one day</a></li>
+  <li><a href="{{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}">Landing at Noi Bai Airport</a> and <a href="{{ '/articles/riding-motorbike-noi-bai-airport-hanoi/' | relative_url }}">riding to the airport</a></li>
   <li><a href="{{ '/articles/renting-motorbike-old-quarter/' | relative_url }}">Renting in the Old Quarter</a>, <a href="{{ '/articles/renting-motorbike-hoan-kiem/' | relative_url }}">Hoan Kiem</a> and <a href="{{ '/articles/renting-motorbike-tay-ho/' | relative_url }}">Tay Ho</a></li>
   <li><a href="{{ '/articles/motorbike-rental-expats-moving-hanoi/' | relative_url }}">Expats moving to Hanoi</a>, <a href="{{ '/articles/motorbike-rental-english-teachers-hanoi/' | relative_url }}">English teachers</a> and <a href="{{ '/articles/motorbike-rental-international-students-hanoi/' | relative_url }}">international students</a></li>
   <li><a href="{{ '/articles/renting-a-motorbike-hanoi-without-licence/' | relative_url }}">Renting without a licence</a> &mdash; the real legal and financial risks, and the 50cc alternative.</li>

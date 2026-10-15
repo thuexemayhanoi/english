@@ -4,10 +4,10 @@
   "mode": "ZERO-DATA",
   "clusters": 14,
   "articles": 981,
-  "inSiloBodyLinks": 2265,
-  "crossSiloBodyLinks": 1123,
+  "inSiloBodyLinks": 2278,
+  "crossSiloBodyLinks": 1129,
   "inSiloShare": 67,
-  "articlesWithoutInSiloInbound": 244,
+  "articlesWithoutInSiloInbound": 242,
   "trueSiloOrphans": 0,
   "hubsWithFewerThan3StartHere": 0,
   "demandByMarket": {
@@ -31,8 +31,8 @@
   "keywordClusters": 27,
   "splitFamilies": 0,
   "serpVerifiedSplits": 1,
-  "serpQuestionsServed": 218,
-  "serpGaps": 23,
+  "serpQuestionsServed": 219,
+  "serpGaps": 22,
   "recommendations": {
    "P3": 6
   },
@@ -44,9 +44,9 @@
    "hub": {
     "url": "/topics/rental/",
     "title": "Hanoi Motorbike Rental",
-    "words": 331,
-    "startHereLinks": 20,
-    "startHereOwnCluster": 20
+    "words": 341,
+    "startHereLinks": 22,
+    "startHereOwnCluster": 21
    },
    "articles": 81,
    "commercial": 34,
@@ -59,7 +59,7 @@
     "1.4 renter-situations": 15
    },
    "words": {
-    "avg": 403,
+    "avg": 407,
     "min": 301
    },
    "review": {
@@ -75,19 +75,18 @@
     "P3": 81
    },
    "links": {
-    "inSiloBody": 346,
-    "crossSiloOut": 90,
-    "crossSiloIn": 261,
+    "inSiloBody": 356,
+    "crossSiloOut": 93,
+    "crossSiloIn": 262,
     "inSiloShare": 79,
-    "articlesWithoutInSiloInbound": 7,
+    "articlesWithoutInSiloInbound": 6,
     "articlesWithoutInSiloInboundSample": [
      "/articles/common-motorbike-rental-problems-hanoi/",
      "/articles/motorbike-rental-female-riders-hanoi/",
      "/articles/rental-motorbike-fuel-what-petrol/",
      "/articles/renting-motorbike-couple-hanoi/",
      "/articles/renting-motorbike-hanoi-complete-beginner/",
-     "/articles/renting-motorbike-hanoi-tet-holidays/",
-     "/articles/renting-motorbike-noi-bai-arrival/"
+     "/articles/renting-motorbike-hanoi-tet-holidays/"
     ],
     "trueSiloOrphans": 0,
     "trueSiloOrphansList": []
@@ -109,14 +108,14 @@
      "related": 18
     },
     {
+     "url": "/articles/motorbike-rental-price-hanoi/",
+     "inbound": 19,
+     "related": 18
+    },
+    {
      "url": "/articles/motorbike-rental-deposit-hanoi/",
      "inbound": 19,
      "related": 17
-    },
-    {
-     "url": "/articles/motorbike-rental-price-hanoi/",
-     "inbound": 18,
-     "related": 18
     }
    ],
    "moneyPages": [
@@ -219,21 +218,7 @@
      "priority": "P3"
     },
     {
-     "url": "/articles/motorbike-rental-expats-moving-hanoi/",
-     "inbound": 3,
-     "inSiloInbound": 3,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
      "url": "/articles/motorbike-rental-international-students-hanoi/",
-     "inbound": 3,
-     "inSiloInbound": 3,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/motorbike-rental-tourists-hanoi-essentials/",
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 2,
@@ -275,17 +260,24 @@
      "priority": "P3"
     },
     {
-     "url": "/articles/renting-motorbikes-group-hanoi/",
-     "inbound": 4,
-     "inSiloInbound": 3,
-     "related": 1,
-     "priority": "P3"
-    },
-    {
      "url": "/articles/scooter-vs-semi-automatic-hanoi/",
      "inbound": 9,
      "inSiloInbound": 3,
      "related": 8,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/motorbike-rental-expats-moving-hanoi/",
+     "inbound": 4,
+     "inSiloInbound": 4,
+     "related": 2,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/motorbike-rental-tourists-hanoi-essentials/",
+     "inbound": 4,
+     "inSiloInbound": 4,
+     "related": 2,
      "priority": "P3"
     },
     {
@@ -297,6 +289,13 @@
     },
     {
      "url": "/articles/renting-motorbike-hanoi-one-day/",
+     "inbound": 5,
+     "inSiloInbound": 4,
+     "related": 1,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/renting-motorbikes-group-hanoi/",
      "inbound": 5,
      "inSiloInbound": 4,
      "related": 1,
@@ -346,23 +345,23 @@
     },
     {
      "url": "/articles/daily-weekly-monthly-motorbike-rental-hanoi/",
-     "inbound": 13,
+     "inbound": 14,
      "inSiloInbound": 11,
      "related": 19,
      "priority": "P3"
     },
     {
      "url": "/articles/motorbike-rental-price-hanoi/",
-     "inbound": 18,
-     "inSiloInbound": 14,
+     "inbound": 19,
+     "inSiloInbound": 15,
      "related": 18,
      "priority": "P3"
     }
    ],
    "keywords": {
-    "owned": 25,
+    "owned": 31,
     "ownedPrimary": 14,
-    "coveredFull": 18,
+    "coveredFull": 23,
     "list": [
      {
       "keyword": "Hanoi motorbike rental",
@@ -538,6 +537,48 @@
       "coverage": "partial",
       "variant": true,
       "gap": false
+     },
+     {
+      "keyword": "Motorbike rental deposit Hanoi",
+      "owner": "/articles/motorbike-rental-deposit-hanoi/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Motorbike rental Noi Bai airport",
+      "owner": "/articles/renting-motorbike-noi-bai-arrival/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "How much to rent a motorbike in Hanoi",
+      "owner": "/articles/motorbike-rental-price-hanoi/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Renting a motorbike in Hanoi as a tourist",
+      "owner": "/articles/can-tourists-rent-a-motorbike-hanoi/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Hanoi motorbike rental for expats",
+      "owner": "/articles/motorbike-rental-expats-moving-hanoi/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Best scooter to rent in Vietnam",
+      "owner": "/articles/best-scooters-to-rent-hanoi/",
+      "coverage": "partial",
+      "variant": true,
+      "gap": false
      }
     ]
    },
@@ -623,14 +664,14 @@
     "gaps": []
    },
    "serp": {
-    "questionsServed": 32,
+    "questionsServed": 40,
     "sample": [
      "Scooter rental Vietnam price",
      "How much does it cost to rent a motorcycle in Vietnam?",
      "Can tourists rent a motorbike in vietnam without",
      "Can tourists rent a motorbike in vietnam for a day",
      "Motorbike rental Hanoi",
-     "How much does it cost to rent a scooter in Hanoi?"
+     "How much is bike rental in Hanoi?"
     ]
    },
    "recommendations": []
@@ -655,7 +696,7 @@
     "2.1 monthly-basics": 8
    },
    "words": {
-    "avg": 352,
+    "avg": 353,
     "min": 285
    },
    "review": {
@@ -672,8 +713,8 @@
    },
    "links": {
     "inSiloBody": 158,
-    "crossSiloOut": 88,
-    "crossSiloIn": 39,
+    "crossSiloOut": 89,
+    "crossSiloIn": 41,
     "inSiloShare": 64,
     "articlesWithoutInSiloInbound": 3,
     "articlesWithoutInSiloInboundSample": [
@@ -735,7 +776,7 @@
     },
     {
      "url": "/articles/expats-monthly-motorbike-hanoi/",
-     "inbound": 3,
+     "inbound": 4,
      "inSiloInbound": 3,
      "related": 2,
      "priority": "P3"
@@ -777,7 +818,7 @@
     },
     {
      "url": "/articles/monthly-motorbike-rental-hanoi/",
-     "inbound": 7,
+     "inbound": 8,
      "inSiloInbound": 4,
      "related": 25,
      "priority": "P3"
@@ -833,14 +874,13 @@
     "gaps": []
    },
    "serp": {
-    "questionsServed": 12,
+    "questionsServed": 5,
     "sample": [
-     "How much is bike rental in Hanoi?",
      "Cheapest long term motorbike rental hanoi expat",
-     "Long term motorbike rental hanoi expat cost",
      "Best long term motorbike rental hanoi expat",
      "Best monthly motorbike rental hanoi",
-     "Vietnam motorbike rental requirements"
+     "Vietnam motorbike rental requirements",
+     "Best monthly motorbike rental hanoi"
     ]
    },
    "recommendations": []
@@ -1287,9 +1327,9 @@
     }
    ],
    "keywords": {
-    "owned": 5,
+    "owned": 6,
     "ownedPrimary": 2,
-    "coveredFull": 4,
+    "coveredFull": 5,
     "list": [
      {
       "keyword": "Scooters in Vietnam",
@@ -1323,6 +1363,13 @@
       "keyword": "Motorbike Vietnam price",
       "owner": "/articles/new-scooter-prices-vietnam-verified/",
       "coverage": "partial",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Honda Vision rental Hanoi",
+      "owner": "/articles/honda-vision-110-review/",
+      "coverage": "full",
       "variant": true,
       "gap": false
      }
@@ -2366,9 +2413,9 @@
    },
    "links": {
     "inSiloBody": 60,
-    "crossSiloOut": 88,
-    "crossSiloIn": 11,
-    "inSiloShare": 41,
+    "crossSiloOut": 89,
+    "crossSiloIn": 12,
+    "inSiloShare": 40,
     "articlesWithoutInSiloInbound": 13,
     "articlesWithoutInSiloInboundSample": [
      "/articles/50cc-common-problems-first-year/",
@@ -2491,7 +2538,7 @@
      "cluster": "50cc",
      "severity": "P3",
      "rule": "silo-leak",
-     "detail": "only 41% of in-body links from this silo stay inside it",
+     "detail": "only 40% of in-body links from this silo stay inside it",
      "action": "review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links",
      "status": "REVIEW_REQUIRED"
     }
@@ -2622,9 +2669,9 @@
     }
    ],
    "keywords": {
-    "owned": 6,
+    "owned": 7,
     "ownedPrimary": 2,
-    "coveredFull": 2,
+    "coveredFull": 3,
     "list": [
      {
       "keyword": "Electric motorbike rental Hanoi",
@@ -2665,6 +2712,13 @@
       "keyword": "How much does an electric bike usually cost",
       "owner": "/articles/cheapest-electric-motorbikes-vietnam-list-prices/",
       "coverage": "weak",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Electric bike rental Hanoi",
+      "owner": "/articles/can-foreigners-rent-electric-bike-vietnam/",
+      "coverage": "full",
       "variant": true,
       "gap": false
      }
@@ -3072,7 +3126,7 @@
     "11.4 fines-penalties": 17
    },
    "words": {
-    "avg": 394,
+    "avg": 395,
     "min": 290
    },
    "review": {
@@ -3088,11 +3142,11 @@
     "P3": 66
    },
    "links": {
-    "inSiloBody": 122,
-    "crossSiloOut": 3,
-    "crossSiloIn": 220,
-    "inSiloShare": 98,
-    "articlesWithoutInSiloInbound": 20,
+    "inSiloBody": 125,
+    "crossSiloOut": 4,
+    "crossSiloIn": 221,
+    "inSiloShare": 97,
+    "articlesWithoutInSiloInbound": 19,
     "articlesWithoutInSiloInboundSample": [
      "/articles/a1-licence-cost-vietnam/",
      "/articles/child-passengers-motorbike-vietnam/",
@@ -3111,7 +3165,7 @@
    "topInbound": [
     {
      "url": "/articles/vietnam-motorbike-licence-classes-explained/",
-     "inbound": 29,
+     "inbound": 30,
      "related": 17
     },
     {
@@ -3125,21 +3179,21 @@
      "related": 41
     },
     {
+     "url": "/articles/a1-licence-vietnam-what-you-can-ride/",
+     "inbound": 15,
+     "related": 23
+    },
+    {
      "url": "/articles/electric-bike-licence-vietnam/",
      "inbound": 15,
      "related": 21
-    },
-    {
-     "url": "/articles/compulsory-motorbike-insurance-vietnam/",
-     "inbound": 15,
-     "related": 18
     }
    ],
    "moneyPages": [],
    "keywords": {
-    "owned": 11,
+    "owned": 16,
     "ownedPrimary": 2,
-    "coveredFull": 5,
+    "coveredFull": 10,
     "list": [
      {
       "keyword": "Mopeds Vietnam",
@@ -3213,6 +3267,41 @@
      },
      {
       "keyword": "International licence Vietnam",
+      "owner": "/articles/idp-vietnam-motorbike-rules/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "50cc motorbike Vietnam licence",
+      "owner": "/articles/50cc-licence-vietnam/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "A1 licence Vietnam",
+      "owner": "/articles/a1-licence-vietnam-what-you-can-ride/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Can tourists ride motorbike in Vietnam",
+      "owner": "/articles/can-tourists-ride-motorbike-vietnam/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "Vietnam motorbike licence for foreigners",
+      "owner": "/topics/law-licences/",
+      "coverage": "full",
+      "variant": true,
+      "gap": false
+     },
+     {
+      "keyword": "International driving permit Vietnam motorbike",
       "owner": "/articles/idp-vietnam-motorbike-rules/",
       "coverage": "full",
       "variant": true,
@@ -3296,7 +3385,7 @@
     "gaps": []
    },
    "serp": {
-    "questionsServed": 42,
+    "questionsServed": 43,
     "sample": [
      "How to get a motorbike license in Vietnam?",
      "Can foreigners drive motorbikes in Vietnam?",
@@ -3335,7 +3424,7 @@
     "12.2 city-routes-landmarks": 18
    },
    "words": {
-    "avg": 486,
+    "avg": 487,
     "min": 366
    },
    "review": {
@@ -3353,7 +3442,7 @@
    "links": {
     "inSiloBody": 41,
     "crossSiloOut": 50,
-    "crossSiloIn": 8,
+    "crossSiloIn": 10,
     "inSiloShare": 45,
     "articlesWithoutInSiloInbound": 27,
     "articlesWithoutInSiloInboundSample": [
@@ -3432,10 +3521,8 @@
     "gaps": []
    },
    "serp": {
-    "questionsServed": 1,
-    "sample": [
-     "Where to park your motorcycle in public?"
-    ]
+    "questionsServed": 0,
+    "sample": []
    },
    "recommendations": [
     {
@@ -3932,7 +4019,7 @@
   {
    "from": "monthly-rental",
    "to": "rental",
-   "links": 70
+   "links": 71
   },
   {
    "from": "rental",
@@ -4010,14 +4097,14 @@
    "links": 21
   },
   {
-   "from": "hanoi",
-   "to": "safety",
+   "from": "50cc",
+   "to": "law-licences",
    "links": 20
   },
   {
-   "from": "50cc",
-   "to": "law-licences",
-   "links": 19
+   "from": "hanoi",
+   "to": "safety",
+   "links": 20
   },
   {
    "from": "50cc",
@@ -4043,6 +4130,11 @@
    "from": "manual-clutch",
    "to": "safety",
    "links": 14
+  },
+  {
+   "from": "rental",
+   "to": "monthly-rental",
+   "links": 12
   },
   {
    "from": "trips",
@@ -4078,11 +4170,6 @@
    "from": "vietnam-travel",
    "to": "law-licences",
    "links": 11
-  },
-  {
-   "from": "rental",
-   "to": "monthly-rental",
-   "links": 10
   },
   {
    "from": "maintenance",
@@ -4305,6 +4392,11 @@
    "links": 2
   },
   {
+   "from": "rental",
+   "to": "hanoi",
+   "links": 2
+  },
+  {
    "from": "scooters",
    "to": "50cc",
    "links": 2
@@ -4327,6 +4419,11 @@
   {
    "from": "hanoi",
    "to": "trips",
+   "links": 1
+  },
+  {
+   "from": "law-licences",
+   "to": "50cc",
    "links": 1
   },
   {
@@ -4980,7 +5077,7 @@
    "cluster": "(site)",
    "severity": "P3",
    "rule": "serp-gap",
-   "detail": "23 recorded People-also-ask / related-search question(s) have no serving URL: \"What brands are made in Vietnam?\", \"What bike was called the widowmaker?\", \"Can you rent to own an ebike?\", \"What bike was called the widowmaker?\", \"Does Grab have a motorcycle?\", \"Which city has the most motorcycles?\", \"What is the #1 cause of death in Vietnam?\", \"Is $1000 enough for 2 weeks in Vietnam?\", \"Where do 70% of motorcycle accidents occur?\", \"Is $1000 enough for 2 weeks in Vietnam?\", \"What is the #1 cause of death in Vietnam?\", \"Mopeds vietnam price\", \"What does it mean when a motorcyclist taps his helmet twice?\", \"What is the 12 second rule for motorcycles?\", \"Is $1000 enough for 2 weeks in Vietnam?\", \"Vietnam motorcycle Tours 2026\", \"What is the 12 second rule for motorcycles?\", \"What does 2 fingers down mean to bikers?\", \"What are the top 10 most reliable motorcycle brands?\", \"Vietnam motorcycle Tours 2026\", \"Vietnam motorcycle Tours price\", \"What is the 12 second rule for motorcycles?\", \"What are the most reliable motorbike brands?\"",
+   "detail": "22 recorded People-also-ask / related-search question(s) have no serving URL: \"What brands are made in Vietnam?\", \"What bike was called the widowmaker?\", \"Can you rent to own an ebike?\", \"What bike was called the widowmaker?\", \"Which city has the most motorcycles?\", \"What is the #1 cause of death in Vietnam?\", \"Is $1000 enough for 2 weeks in Vietnam?\", \"Where do 70% of motorcycle accidents occur?\", \"Is $1000 enough for 2 weeks in Vietnam?\", \"What is the #1 cause of death in Vietnam?\", \"Mopeds vietnam price\", \"What does it mean when a motorcyclist taps his helmet twice?\", \"What is the 12 second rule for motorcycles?\", \"Is $1000 enough for 2 weeks in Vietnam?\", \"Vietnam motorcycle Tours 2026\", \"What is the 12 second rule for motorcycles?\", \"What does 2 fingers down mean to bikers?\", \"What are the top 10 most reliable motorcycle brands?\", \"Vietnam motorcycle Tours 2026\", \"Vietnam motorcycle Tours price\", \"What is the 12 second rule for motorcycles?\", \"What are the most reliable motorbike brands?\"",
    "action": "answer only where an owner-approved or verified fact exists; off-topic questions stay unanswered",
    "status": "REVIEW_REQUIRED"
   },
@@ -4988,7 +5085,7 @@
    "cluster": "50cc",
    "severity": "P3",
    "rule": "silo-leak",
-   "detail": "only 41% of in-body links from this silo stay inside it",
+   "detail": "only 40% of in-body links from this silo stay inside it",
    "action": "review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links",
    "status": "REVIEW_REQUIRED"
   },

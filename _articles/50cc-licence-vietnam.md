@@ -39,7 +39,7 @@ Mopeds still follow all other traffic rules: helmets, lights, lane discipline, s
 
 ## Do not confuse 50cc bikes with electric bicycles
 
-A pedal-type electric bicycle ("xe đạp điện") is defined separately in the law as a bicycle with motor assistance that cuts out when you stop pedalling or at 25 km/h — it is a non-motorised vehicle. A 50cc petrol moped or a sub-4 kW scooter-style electric is a moped, not a bicycle. The distinction matters for licence rules, helmet rules and where you may ride. See our [electric-bike licence guide]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}).
+A pedal-type electric bicycle ("xe đạp điện") is defined separately in the law as a bicycle with motor assistance that cuts out when you stop pedalling or at 25 km/h — it is a non-motorised vehicle. A 50cc petrol moped or a sub-4 kW scooter-style electric is a moped, not a bicycle. The distinction matters for licence rules, helmet rules and where you may ride. See our [electric-bike licence guide]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}). For the definition itself and where 50cc bikes come from, see [What Is a 50cc Motorbike in Vietnam? Definition, Law and Practice]({{ '/articles/what-is-a-50cc-motorbike-vietnam/' | relative_url }}).
 
 ## Renting a 50cc bike in Hanoi
 

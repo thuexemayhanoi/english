@@ -18,6 +18,19 @@ last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
 internal_link_targets: "group-riding-motorbike-vietnam, how-to-book-a-motorbike-rental-hanoi, best-motorbike-for-day-trips-from-hanoi, motorbike-rental-agreement-hanoi, rental-motorbike-inspection-checklist, where-to-park-motorbike-hanoi"
+faq:
+  - q: "Does every rider in a group need a licence?"
+    a: "Yes. Each rider needs a licence valid in Vietnam, and one unlicensed rider stopped by police can consume the whole group's afternoon, so check everyone's paperwork before booking."
+    link: "/articles/motorbike-rental-requirements-hanoi/"
+    link_text: "Check the rental requirements"
+  - q: "How many deposits does a group rental need?"
+    a: "Each bike carries its own deposit, typically 2,000,000-5,000,000 VND each depending on the bike, and its own agreement."
+    link: "/articles/motorbike-rental-deposit-hanoi/"
+    link_text: "How rental deposits work"
+  - q: "Do I need to book ahead for several motorbikes?"
+    a: "Yes. For several bikes on the same dates, book ahead rather than walking in, and confirm current availability of the models you want in advance."
+    link: "/articles/how-to-book-a-motorbike-rental-hanoi/"
+    link_text: "How to book a rental"
 ---
 
 Riding out with friends is the best version of motorbike Hanoi — but a group multiplies everything: booking complexity, breakdown odds, and the cost of one bad decision. Here is how group rental works.

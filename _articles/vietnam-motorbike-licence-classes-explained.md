@@ -21,6 +21,19 @@ sources:
   - "https://vanban.chinhphu.vn/?pageid=27160&docid=211194&classid=1&typegroupid=3 — Law No. 36/2024/QH15, original record (vanban.chinhphu.vn)"
   - "https://xaydungchinhsach.chinhphu.vn/tu-1-1-2025-co-nhung-hang-giay-phep-lai-xe-nao-119240812165630751.htm — Government portal summary of licence classes under Law 36/2024/QH15"
 internal_link_targets: "a1-licence-vietnam-what-you-can-ride, 50cc-licence-vietnam, electric-bike-licence-vietnam, idp-vietnam-motorbike-rules, ride-125cc-with-car-licence-vietnam"
+faq:
+  - q: "What licence do I need for a 125cc scooter in Vietnam?"
+    a: "Class A1: it covers two-wheel motorbikes up to and including 125cc, or electric two-wheelers up to and including 11 kW, and the minimum age is 18 (Articles 57 and 59 of Law 36/2024/QH15)."
+    link: "/articles/a1-licence-vietnam-what-you-can-ride/"
+    link_text: "What an A1 licence lets you ride"
+  - q: "What does the class A licence cover in Vietnam?"
+    a: "Class A covers two-wheel motorbikes above 125cc or above 11 kW, plus everything class A1 covers. It is now the single big-bike class, with no separate 175cc tier."
+    link: "/articles/vietnam-a-licence-what-you-can-ride/"
+    link_text: "What the A licence lets you ride"
+  - q: "What does an old A1 licence issued before 2025 cover?"
+    a: "Under Article 89 an old A1 licence continues to cover two-wheelers from 50cc up to but not including 175cc, or electric machines from 4 kW up to but not including 14 kW, with no retest required."
+    link: "/articles/old-licence-classes-after-2025-vietnam/"
+    link_text: "Old licence classes after 2025"
 ---
 
 Vietnam rewrote its driving licence classes in the Law on Road Traffic Order and Safety (No. 36/2024/QH15), effective 1 January 2025. Older articles — including earlier versions of this one — described a different structure. This version reflects the classes as actually written in Article 57 of the law.
@@ -36,6 +49,8 @@ Vietnam rewrote its driving licence classes in the Law on Road Traffic Order and
 There are only three motorcycle classes in the new law. Class A is now the single "big bike" class — every two-wheeler above 125cc or 11 kW falls under it, with no separate 175cc tier. If you see an "A2" mentioned as a current class, that comes from the pre-2025 scheme.
 
 Licences A1, A and B1 have no expiry date (Article 57, on licence validity periods).
+
+Each class has its own guide: [A1 Licence Vietnam: What You Can Legally Ride]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) and [What the Vietnam A Licence Lets You Ride]({{ '/articles/vietnam-a-licence-what-you-can-ride/' | relative_url }}).
 
 If you see B1 described as an "automatic car" licence, that reflects the pre-2025 scheme. Under the new law, B1 in the motorcycle system covers three-wheel motorbikes. Car licences sit in separate classes (B, C1, C and so on).
 

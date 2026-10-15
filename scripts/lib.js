@@ -278,4 +278,24 @@ function gscSignal(m) {
   return { kind: 'measured', note: imp + ' impressions, ' + clicks + ' clicks' + (pos != null ? ', average position ' + pos.toFixed(1) : '') };
 }
 
-module.exports = { ROOT, CLUSTERS, SITE_URL, BASEURL, PRIMARY_LEGAL_DOMAINS, isPrimaryLegalSource, isBlocking, walk, parseFrontMatter, loadArticles, loadPages, articleUrl, pageUrl, stripLiquid, findH1s, extractLinks, Findings, sitemapLocs, isDynamicallyListed, expectedIndexableUrls, parseCsv, parseGscCsv, gscSignal, sitePath };
+// Rank-tracker snapshots (docs/seo/keyword-evidence.json _tracking.rank_snapshots): measured
+// third-party positions, dated, never estimated. The latest snapshot is the one the matrix uses.
+function latestRankSnapshot(evidence) {
+  const t = evidence && evidence._tracking;
+  const list = t && Array.isArray(t.rank_snapshots) ? t.rank_snapshots.filter(x => x && Array.isArray(x.rows)) : [];
+  list.sort((a, b) => String(a.date).localeCompare(String(b.date)) || String(a.market).localeCompare(String(b.market)));
+  return list.length ? list[list.length - 1] : null;
+}
+// Band of the best tracked position of one URL: top3 (1-3), page1 (4-10), striking (11-20), deep (21-100).
+// page1 and striking are the quick-win bands: the page already ranks, so title, description,
+// lead and internal links are worth hand work; top3 is protected, deep needs authority first.
+function rankSignal(entries) {
+  const ranked = (entries || []).filter(e => e && e.position != null && Number(e.position) > 0);
+  if (!ranked.length) return { band: 'none', best: null, quickWin: false };
+  const best = ranked.reduce((a, b) => (Number(b.position) < Number(a.position) ? b : a));
+  const p = Number(best.position);
+  const band = p <= 3 ? 'top3' : p <= 10 ? 'page1' : p <= 20 ? 'striking' : 'deep';
+  return { band, best, quickWin: band === 'page1' || band === 'striking' };
+}
+
+module.exports = { ROOT, CLUSTERS, SITE_URL, BASEURL, PRIMARY_LEGAL_DOMAINS, isPrimaryLegalSource, isBlocking, walk, parseFrontMatter, loadArticles, loadPages, articleUrl, pageUrl, stripLiquid, findH1s, extractLinks, Findings, sitemapLocs, isDynamicallyListed, expectedIndexableUrls, parseCsv, parseGscCsv, gscSignal, sitePath, latestRankSnapshot, rankSignal };

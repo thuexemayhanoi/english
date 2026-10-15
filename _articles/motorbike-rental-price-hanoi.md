@@ -67,6 +67,8 @@ Fuel is the renter's. [Rider insurance is not included]({{ '/articles/is-insuran
 
 The weekly rates beat daily pricing from about day five; the monthly rates beat weekly pricing from about three weeks. [Daily, weekly or monthly]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}) runs the arithmetic, and the [monthly price guide]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }}) covers long stays. And remember every model listing means "when in stock" - contact us to confirm current availability of the model you want on your dates.
 
+Visiting for a few days? [Motorbike Rental for Tourists Visiting Hanoi: The Essentials]({{ '/articles/motorbike-rental-tourists-hanoi-essentials/' | relative_url }}) puts these prices next to the legal, deposit and day-one questions.
+
 ## Frequently asked questions
 
 ### Is a monthly rental cheaper than paying by the day?

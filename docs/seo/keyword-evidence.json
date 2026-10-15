@@ -438,7 +438,408 @@
    "Do I need a licence for a 50cc motorbike in Vietnam?",
    "What is the fine for riding without a licence in Vietnam?"
   ],
-  "note": "Market chosen as Vietnam because customers rent while in Hanoi; the plan allows one location. First rankings and the first AI-visibility report populate within about a day; read them with Ubersuggest project_position_info / brand_visibility_overview and record figures here with the date. No figure is recorded until it exists."
+  "note": "Rank snapshots and AI-visibility snapshots are ingested by scripts/seo-research-ingest.js from the Ubersuggest exports (project_position_info, brand_visibility_overview, brand_prompts) dropped in docs/seo/research/inbox/. The rank tracker refreshes weekly (next update 2026-10-21); AI visibility monthly. Positions are measured by the tool for the best-ranking URL of the domain, not estimated, and say nothing about clicks or traffic; no figure is recorded until it exists.",
+  "rank_snapshots": [
+   {
+    "tool": "Ubersuggest project_position_info",
+    "date": "2026-10-14",
+    "market": "Vietnam",
+    "device": "desktop",
+    "language": "en",
+    "next_update": "2026-10-21",
+    "tracked": 25,
+    "ranking": 15,
+    "bands": {
+     "top3": 1,
+     "page1": 4,
+     "striking": 5,
+     "deep": 5,
+     "not_ranking": 7,
+     "unstable": 3
+    },
+    "rows": [
+     {
+      "keyword": "50cc motorbike vietnam licence",
+      "position": 11,
+      "url": "/articles/what-is-a-50cc-motorbike-vietnam/",
+      "previous_position": 11,
+      "status": "ok",
+      "difficulty": 4,
+      "tool_volume": null
+     },
+     {
+      "keyword": "a1 licence vietnam",
+      "position": 17,
+      "url": "/articles/vietnam-motorbike-licence-classes-explained/",
+      "previous_position": 17,
+      "status": "ok",
+      "difficulty": 12,
+      "tool_volume": null
+     },
+     {
+      "keyword": "best scooter to rent in vietnam",
+      "position": null,
+      "url": null,
+      "previous_position": null,
+      "status": "unstable",
+      "difficulty": 4,
+      "tool_volume": null
+     },
+     {
+      "keyword": "can tourists ride motorbike in vietnam",
+      "position": 28,
+      "url": "/articles/can-tourists-ride-motorbike-vietnam/",
+      "previous_position": 28,
+      "status": "ok",
+      "difficulty": 4,
+      "tool_volume": null
+     },
+     {
+      "keyword": "electric bike rental hanoi",
+      "position": 65,
+      "url": "/",
+      "previous_position": 65,
+      "status": "ok",
+      "difficulty": 27,
+      "tool_volume": 10
+     },
+     {
+      "keyword": "hanoi motorbike rental",
+      "position": null,
+      "url": null,
+      "previous_position": null,
+      "status": "ok",
+      "difficulty": 28,
+      "tool_volume": 1900
+     },
+     {
+      "keyword": "hanoi motorbike rental for expats",
+      "position": 14,
+      "url": "/articles/best-motorbike-for-expats-hanoi/",
+      "previous_position": 14,
+      "status": "ok",
+      "difficulty": 4,
+      "tool_volume": null
+     },
+     {
+      "keyword": "honda vision rental hanoi",
+      "position": null,
+      "url": null,
+      "previous_position": null,
+      "status": "ok",
+      "difficulty": 4,
+      "tool_volume": null
+     },
+     {
+      "keyword": "how much to rent a motorbike in hanoi",
+      "position": 10,
+      "url": "/articles/motorbike-rental-tourists-hanoi-essentials/",
+      "previous_position": 10,
+      "status": "ok",
+      "difficulty": 4,
+      "tool_volume": null
+     },
+     {
+      "keyword": "international driving permit vietnam motorbike",
+      "position": null,
+      "url": null,
+      "previous_position": null,
+      "status": "ok",
+      "difficulty": 4,
+      "tool_volume": null
+     },
+     {
+      "keyword": "monthly motorbike rental hanoi",
+      "position": 3,
+      "url": "/articles/daily-weekly-monthly-motorbike-rental-hanoi/",
+      "previous_position": 3,
+      "status": "ok",
+      "difficulty": 4,
+      "tool_volume": null
+     },
+     {
+      "keyword": "motorbike hire hanoi",
+      "position": null,
+      "url": null,
+      "previous_position": null,
+      "status": "unstable",
+      "difficulty": 43,
+      "tool_volume": 20
+     },
+     {
+      "keyword": "motorbike rental deposit hanoi",
+      "position": 8,
+      "url": "/articles/do-rentals-keep-your-passport-hanoi/",
+      "previous_position": 8,
+      "status": "ok",
+      "difficulty": 4,
+      "tool_volume": null
+     },
+     {
+      "keyword": "motorbike rental hanoi",
+      "position": null,
+      "url": null,
+      "previous_position": null,
+      "status": "ok",
+      "difficulty": 25,
+      "tool_volume": 1900
+     },
+     {
+      "keyword": "motorbike rental hanoi old quarter",
+      "position": 4,
+      "url": "/articles/renting-motorbike-old-quarter/",
+      "previous_position": 4,
+      "status": "ok",
+      "difficulty": 15,
+      "tool_volume": 30
+     },
+     {
+      "keyword": "motorbike rental hanoi price",
+      "position": 66,
+      "url": "/articles/motorbike-rental-budget-monthly-hanoi/",
+      "previous_position": 66,
+      "status": "ok",
+      "difficulty": 5,
+      "tool_volume": 10
+     },
+     {
+      "keyword": "motorbike rental noi bai airport",
+      "position": 9,
+      "url": "/articles/riding-motorbike-noi-bai-airport-hanoi/",
+      "previous_position": 9,
+      "status": "ok",
+      "difficulty": 4,
+      "tool_volume": null
+     },
+     {
+      "keyword": "motorbike rental requirements hanoi",
+      "position": 17,
+      "url": "/articles/renting-motorbikes-group-hanoi/",
+      "previous_position": 17,
+      "status": "ok",
+      "difficulty": 4,
+      "tool_volume": null
+     },
+     {
+      "keyword": "motorbike rental vietnam",
+      "position": null,
+      "url": null,
+      "previous_position": null,
+      "status": "ok",
+      "difficulty": 31,
+      "tool_volume": 3600
+     },
+     {
+      "keyword": "one way motorbike rental vietnam",
+      "position": null,
+      "url": null,
+      "previous_position": null,
+      "status": "ok",
+      "difficulty": 19,
+      "tool_volume": 20
+     },
+     {
+      "keyword": "rent a scooter in hanoi",
+      "position": null,
+      "url": null,
+      "previous_position": null,
+      "status": "unstable",
+      "difficulty": 30,
+      "tool_volume": 210
+     },
+     {
+      "keyword": "rent motorbike hanoi",
+      "position": null,
+      "url": null,
+      "previous_position": null,
+      "status": "ok",
+      "difficulty": 24,
+      "tool_volume": 2400
+     },
+     {
+      "keyword": "renting a motorbike in hanoi as a tourist",
+      "position": 12,
+      "url": "/articles/can-tourists-rent-a-motorbike-hanoi/",
+      "previous_position": 12,
+      "status": "ok",
+      "difficulty": 4,
+      "tool_volume": null
+     },
+     {
+      "keyword": "scooter rental hanoi",
+      "position": 63,
+      "url": "/",
+      "previous_position": 63,
+      "status": "ok",
+      "difficulty": 38,
+      "tool_volume": 210
+     },
+     {
+      "keyword": "vietnam motorbike licence for foreigners",
+      "position": 48,
+      "url": "/topics/law-licences/",
+      "previous_position": 48,
+      "status": "ok",
+      "difficulty": 4,
+      "tool_volume": null
+     }
+    ]
+   }
+  ],
+  "ai_visibility_snapshots": [
+   {
+    "tool": "Ubersuggest AI Search Visibility (brand_visibility_overview + brand_prompts)",
+    "date": "2026-10-15",
+    "prompts": [
+     {
+      "prompt": "Where can I rent a motorbike in Hanoi as a tourist?",
+      "topic": "Motorbike rental Hanoi",
+      "brands_found": [
+       "Tigit Motorbikes Hanoi #1",
+       "Style Motorbikes Hanoi #2",
+       "TeenMoto Motorbike Rental Hanoi #3",
+       "Rental Motorbike Vietnam #4"
+      ],
+      "our_brand_mentions": 0
+     },
+     {
+      "prompt": "How much does it cost to rent a scooter in Hanoi?",
+      "topic": "Motorbike rental Hanoi",
+      "brands_found": [
+       "Honda Vision #1"
+      ],
+      "our_brand_mentions": 0
+     },
+     {
+      "prompt": "Which Hanoi shop offers monthly motorbike rental for expats?",
+      "topic": "Motorbike rental Hanoi",
+      "brands_found": [
+       "Happy Zip Motorbikes #1",
+       "Nguyen Tu Hanoi Motorbike Rental #2"
+      ],
+      "our_brand_mentions": 0
+     },
+     {
+      "prompt": "What documents do I need to rent a motorbike in Hanoi?",
+      "topic": "Motorbike rental Hanoi",
+      "brands_found": [],
+      "our_brand_mentions": 0
+     },
+     {
+      "prompt": "Can I rent an electric bike in Hanoi?",
+      "topic": "Motorbike rental Hanoi",
+      "brands_found": [
+       "OKXE Bike Rental #1",
+       "Vietnam E-Bike Travel #2",
+       "Public electric bike sharing #3"
+      ],
+      "our_brand_mentions": 0
+     },
+     {
+      "prompt": "Can tourists legally ride a motorbike in Vietnam?",
+      "topic": "Vietnam motorbike licences for foreigners",
+      "brands_found": [],
+      "our_brand_mentions": 0
+     },
+     {
+      "prompt": "What licence do I need for a 125cc scooter in Vietnam?",
+      "topic": "Vietnam motorbike licences for foreigners",
+      "brands_found": [
+       "Australian Embassy #1"
+      ],
+      "our_brand_mentions": 0
+     },
+     {
+      "prompt": "Is an international driving permit valid for motorbikes in Vietnam?",
+      "topic": "Vietnam motorbike licences for foreigners",
+      "brands_found": [],
+      "our_brand_mentions": 0
+     },
+     {
+      "prompt": "Do I need a licence for a 50cc motorbike in Vietnam?",
+      "topic": "Vietnam motorbike licences for foreigners",
+      "brands_found": [],
+      "our_brand_mentions": 0
+     },
+     {
+      "prompt": "What is the fine for riding without a licence in Vietnam?",
+      "topic": "Vietnam motorbike licences for foreigners",
+      "brands_found": [],
+      "our_brand_mentions": 0
+     }
+    ],
+    "providers": [
+     "openai"
+    ],
+    "total_prompts": 10,
+    "total_answers": 10,
+    "brand": {
+     "name": "Hanoi Motorbike Rental Nguyen Tu",
+     "visibility_percentage": 0,
+     "total_mentions": 0,
+     "average_rank": null
+    },
+    "name_variants_seen": [
+     {
+      "name": "Nguyen Tu Hanoi Motorbike Rental",
+      "average_rank": 2,
+      "mentions": 1
+     }
+    ],
+    "brands_seen": [
+     {
+      "name": "Australian Embassy",
+      "average_rank": 1,
+      "mentions": 1
+     },
+     {
+      "name": "Happy Zip Motorbikes",
+      "average_rank": 1,
+      "mentions": 1
+     },
+     {
+      "name": "Honda Vision",
+      "average_rank": 1,
+      "mentions": 1
+     },
+     {
+      "name": "OKXE Bike Rental",
+      "average_rank": 1,
+      "mentions": 1
+     },
+     {
+      "name": "Public electric bike sharing",
+      "average_rank": 3,
+      "mentions": 1
+     },
+     {
+      "name": "Rental Motorbike Vietnam",
+      "average_rank": 4,
+      "mentions": 1
+     },
+     {
+      "name": "Style Motorbikes Hanoi",
+      "average_rank": 2,
+      "mentions": 1
+     },
+     {
+      "name": "TeenMoto Motorbike Rental Hanoi",
+      "average_rank": 3,
+      "mentions": 1
+     },
+     {
+      "name": "Tigit Motorbikes Hanoi",
+      "average_rank": 1,
+      "mentions": 1
+     },
+     {
+      "name": "Vietnam E-Bike Travel",
+      "average_rank": 2,
+      "mentions": 1
+     }
+    ]
+   }
+  ]
  },
  "_competitors": {
   "tool": "OpenRush discover_competitors (seed_keywords mode) + inspect_domain",
@@ -2853,6 +3254,18 @@
  },
  "_ingest_log": [
   {
+   "file": "brand_prompts__b07588da__latest.json",
+   "tool": "brand_prompts",
+   "date": "2026-10-15",
+   "scope": "brand_prompts"
+  },
+  {
+   "file": "brand_visibility_overview__b07588da__latest.json",
+   "tool": "brand_visibility_overview",
+   "date": "2026-10-15",
+   "scope": "brand_visibility_overview"
+  },
+  {
    "file": "compare_keyword_coverage__en-rentbikehanoi-com.json",
    "tool": "compare_keyword_coverage",
    "date": "2026-10-14",
@@ -3070,6 +3483,13 @@
    "date": "2026-10-15",
    "market": "us",
    "scope": "vietnamese motorbikes"
+  },
+  {
+   "file": "project_position_info__b07588da__2026-10-15.json",
+   "tool": "project_position_info",
+   "date": "2026-10-14",
+   "market": "vn",
+   "scope": "25 tracked keywords"
   },
   {
    "file": "research_keywords__electric-motorbike-vietnam-ideas-vietnam.json",

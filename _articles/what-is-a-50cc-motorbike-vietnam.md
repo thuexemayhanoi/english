@@ -19,6 +19,19 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 34(1)(g) (definition of xe gắn máy)"
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
 internal_link_targets: 50cc-licence-vietnam, 50cc-mopeds-vs-50cc-underbones, 50cc-vs-110cc-motorbike-vietnam, who-rides-50cc-motorbikes-vietnam
+faq:
+  - q: "Do I need a licence for a 50cc motorbike in Vietnam?"
+    a: "No driving licence is required for a moped under Article 34(1)(g) of Law 36/2024/QH15: an engine of 50 cc or less (or an electric motor of 4 kW or less) in a vehicle designed for no more than 50 km/h. The rider must be at least 16, wear a helmet and follow every traffic rule."
+    link: "/articles/50cc-licence-vietnam/"
+    link_text: "Read the 50cc licence guide"
+  - q: "How old do you have to be to ride a 50cc motorbike in Vietnam?"
+    a: "At least 16 years old. A 16-year-old cannot legally ride a 110cc Honda Wave, but can legally ride a sub-50cc moped."
+    link: "/articles/riding-50cc-at-16-vietnam/"
+    link_text: "Riding a 50cc at 16"
+  - q: "Do the traffic rules apply on a 50cc moped?"
+    a: "Yes. No licence needed is not the same as no rules: helmets, lane discipline, lights and sober riding all apply, and under Decree 168/2024/NĐ-CP mopeds are fined at the same levels as motorbikes for the same violations."
+    link: "/articles/helmet-law-vietnam/"
+    link_text: "Read the helmet law guide"
 ---
 
 A "50cc motorbike" in Vietnam is more than an engine size — it is a legal category with its own rules. Vietnamese law calls these vehicles xe gắn máy, usually translated as "moped", and the definition matters for who may ride one.
@@ -45,4 +58,4 @@ Engine displacement in cubic centimetres describes the volume the piston sweeps.
 
 ## Who this guide series is for
 
-These articles cover the whole 50cc question: the two body styles you will meet, realistic speed expectations, the law for 16-year-olds, buying and inspecting used bikes, maintenance, and safety gear for young riders. Start with the licence article for the legal position, then follow the links to whatever fits your situation.
+These articles cover the whole 50cc question: the two body styles you will meet, realistic speed expectations, the law for 16-year-olds, buying and inspecting used bikes, maintenance, and safety gear for young riders. Start with [the 50cc licence guide]({{ '/articles/50cc-licence-vietnam/' | relative_url }}) for the legal position, then follow the links to whatever fits your situation.

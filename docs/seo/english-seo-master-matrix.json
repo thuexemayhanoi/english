@@ -15,9 +15,9 @@
   },
   "byStatus": {
    "REVIEW_REQUIRED": 3,
-   "OPTIMIZED": 684,
+   "OPTIMIZED": 688,
    "AUDITED": 30,
-   "LINKS_REPAIRED": 286
+   "LINKS_REPAIRED": 282
   },
   "issueFrequency": {
    "PN article marked REVIEW_REQUIRED": 4,
@@ -1048,6 +1048,149 @@
     "gap": false,
     "intent": "informational",
     "ownerPriority": "P3"
+   },
+   {
+    "group": "Rank-tracked keywords (2026-10-15)",
+    "keyword": "Motorbike rental deposit Hanoi",
+    "owner": "/articles/motorbike-rental-deposit-hanoi/",
+    "ownerTitle": "Motorbike Rental Deposits in Hanoi: Typical Amounts and Return",
+    "coverage": "full",
+    "variantOf": "",
+    "gap": false,
+    "intent": "commercial",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Rank-tracked keywords (2026-10-15)",
+    "keyword": "Motorbike rental Noi Bai airport",
+    "owner": "/articles/renting-motorbike-noi-bai-arrival/",
+    "ownerTitle": "Renting a Motorbike When You Arrive at Noi Bai Airport",
+    "coverage": "full",
+    "variantOf": "",
+    "gap": false,
+    "intent": "commercial",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Rank-tracked keywords (2026-10-15)",
+    "keyword": "How much to rent a motorbike in Hanoi",
+    "owner": "/articles/motorbike-rental-price-hanoi/",
+    "ownerTitle": "How Much Does It Cost to Rent a Motorbike in Hanoi?",
+    "coverage": "full",
+    "variantOf": "",
+    "gap": false,
+    "intent": "commercial",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Rank-tracked keywords (2026-10-15)",
+    "keyword": "50cc motorbike Vietnam licence",
+    "owner": "/articles/50cc-licence-vietnam/",
+    "ownerTitle": "Do You Need a Licence for a 50cc Motorbike in Vietnam?",
+    "coverage": "full",
+    "variantOf": "",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Rank-tracked keywords (2026-10-15)",
+    "keyword": "Renting a motorbike in Hanoi as a tourist",
+    "owner": "/articles/can-tourists-rent-a-motorbike-hanoi/",
+    "ownerTitle": "Can Tourists Rent a Motorbike in Hanoi? The Honest Answer",
+    "coverage": "full",
+    "variantOf": "",
+    "gap": false,
+    "intent": "commercial",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Rank-tracked keywords (2026-10-15)",
+    "keyword": "Hanoi motorbike rental for expats",
+    "owner": "/articles/motorbike-rental-expats-moving-hanoi/",
+    "ownerTitle": "Motorbike Rental for Expats Moving to Hanoi",
+    "coverage": "full",
+    "variantOf": "",
+    "gap": false,
+    "intent": "commercial",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Rank-tracked keywords (2026-10-15)",
+    "keyword": "A1 licence Vietnam",
+    "owner": "/articles/a1-licence-vietnam-what-you-can-ride/",
+    "ownerTitle": "A1 Licence Vietnam: What You Can Legally Ride",
+    "coverage": "full",
+    "variantOf": "",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Rank-tracked keywords (2026-10-15)",
+    "keyword": "Can tourists ride motorbike in Vietnam",
+    "owner": "/articles/can-tourists-ride-motorbike-vietnam/",
+    "ownerTitle": "Can Tourists Legally Ride a Motorbike in Vietnam?",
+    "coverage": "full",
+    "variantOf": "",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Rank-tracked keywords (2026-10-15)",
+    "keyword": "Vietnam motorbike licence for foreigners",
+    "owner": "/topics/law-licences/",
+    "ownerTitle": "Vietnam Motorbike Laws and Licences",
+    "coverage": "full",
+    "variantOf": "",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Rank-tracked keywords (2026-10-15)",
+    "keyword": "International driving permit Vietnam motorbike",
+    "owner": "/articles/idp-vietnam-motorbike-rules/",
+    "ownerTitle": "International Driving Permits in Vietnam: Motorbike IDP Rules",
+    "coverage": "full",
+    "variantOf": "",
+    "gap": false,
+    "intent": "informational",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Rank-tracked keywords (2026-10-15)",
+    "keyword": "Electric bike rental Hanoi",
+    "owner": "/articles/can-foreigners-rent-electric-bike-vietnam/",
+    "ownerTitle": "Can Foreigners Rent an E-Bike or Electric Motorbike in Vietnam?",
+    "coverage": "full",
+    "variantOf": "",
+    "gap": false,
+    "intent": "commercial",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Rank-tracked keywords (2026-10-15)",
+    "keyword": "Honda Vision rental Hanoi",
+    "owner": "/articles/honda-vision-110-review/",
+    "ownerTitle": "Honda Vision 110 Review: Vietnam's Default City Scooter",
+    "coverage": "full",
+    "variantOf": "",
+    "gap": false,
+    "intent": "commercial",
+    "ownerPriority": "P3"
+   },
+   {
+    "group": "Rank-tracked keywords (2026-10-15)",
+    "keyword": "Best scooter to rent in Vietnam",
+    "owner": "/articles/best-scooters-to-rent-hanoi/",
+    "ownerTitle": "Best Scooters to Rent in Hanoi for Foreigners",
+    "coverage": "partial",
+    "variantOf": "",
+    "gap": false,
+    "intent": "commercial",
+    "ownerPriority": "P3"
    }
   ],
   "reportsUsed": [
@@ -1060,7 +1203,7 @@
    "rendered-site-audit"
   ],
   "dataLimitations": [
-   "ZERO-DATA MODE: no English Google Search Console, GA4 or rank-tracking export exists yet (docs/SOURCE-MAP.md); priorities use on-site evidence plus the public SERP snapshots, competitor data and third-party demand estimates recorded in docs/seo/keyword-evidence.json and docs/seo/keyword-universe.json (tool and date on every number).",
+   "ZERO-DATA MODE: no English Google Search Console or GA4 export exists yet (docs/SOURCE-MAP.md); the only measured position data is the third-party rank-tracker snapshot of 2026-10-14 (25 tracked keywords, 15 ranking: positions only, no clicks, impressions or traffic); priorities use on-site evidence, that snapshot, the public SERP snapshots, competitor data and third-party demand estimates recorded in docs/seo/keyword-evidence.json and docs/seo/keyword-universe.json (tool and date on every number).",
    "DATA-DRIVEN MODE starts automatically when docs/seo/gsc-performance.csv (a Search Console performance export) exists; until then no measured clicks, impressions or positions are claimed."
   ],
   "contentGaps": [
@@ -1108,7 +1251,7 @@
     "question": "50cc motorbike vietnam licence requirements",
     "kind": "Related search",
     "serp": "50cc motorbike vietnam licence",
-    "servedBy": "/topics/50cc/",
+    "servedBy": "/articles/what-is-a-50cc-motorbike-vietnam/",
     "how": "Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam?",
     "gap": false
    },
@@ -1116,7 +1259,7 @@
     "question": "50cc motorbike vietnam licence test",
     "kind": "Related search",
     "serp": "50cc motorbike vietnam licence",
-    "servedBy": "/topics/50cc/",
+    "servedBy": "/articles/what-is-a-50cc-motorbike-vietnam/",
     "how": "Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam?",
     "gap": false
    },
@@ -1308,16 +1451,16 @@
     "question": "How much does it cost to rent a motorcycle in Vietnam?",
     "kind": "People also ask",
     "serp": "can tourists rent a motorbike in vietnam",
-    "servedBy": "/topics/rental/",
-    "how": "Common-questions entry: How much does it cost to rent a motorbike in Hanoi?",
+    "servedBy": "/articles/best-motorbike-for-expats-hanoi/",
+    "how": "Common-questions entry: How much does a monthly motorbike rental cost for an expat in Hanoi?",
     "gap": false
    },
    {
     "question": "Can tourists rent a motorbike in vietnam without",
     "kind": "Related search",
     "serp": "can tourists rent a motorbike in vietnam",
-    "servedBy": "/topics/rental/",
-    "how": "Common-questions entry: Can tourists rent a motorbike in Hanoi?",
+    "servedBy": "/articles/can-tourists-rent-a-motorbike-hanoi/",
+    "how": "Common-questions entry: Can I rent a motorbike in Hanoi without a licence?",
     "gap": false
    },
    {
@@ -1388,8 +1531,8 @@
     "question": "How much is bike rental in Hanoi?",
     "kind": "People also ask",
     "serp": "electric bike rental hanoi",
-    "servedBy": "/topics/monthly-rental/",
-    "how": "Common-questions entry: How much is a monthly motorbike rental in Hanoi?",
+    "servedBy": "/articles/best-motorbike-for-expats-hanoi/",
+    "how": "Common-questions entry: How much does a monthly motorbike rental cost for an expat in Hanoi?",
     "gap": false
    },
    {
@@ -1420,16 +1563,16 @@
     "question": "How much does it cost to rent a scooter in Hanoi?",
     "kind": "People also ask",
     "serp": "electric motorbike rental hanoi [Vietnam]",
-    "servedBy": "/topics/rental/",
-    "how": "Common-questions entry: How much does it cost to rent a motorbike in Hanoi?",
+    "servedBy": "/articles/best-motorbike-for-expats-hanoi/",
+    "how": "Common-questions entry: How much does a monthly motorbike rental cost for an expat in Hanoi?",
     "gap": false
    },
    {
     "question": "Can tourists rent motorcycles in Vietnam?",
     "kind": "People also ask",
     "serp": "electric motorbike rental hanoi [Vietnam]",
-    "servedBy": "/topics/rental/",
-    "how": "Common-questions entry: Can tourists rent a motorbike in Hanoi?",
+    "servedBy": "/articles/motorbike-rental-tourists-hanoi-essentials/",
+    "how": "Common-questions entry: How much does it cost to rent a motorbike in Hanoi as a tourist?",
     "gap": false
    },
    {
@@ -1468,8 +1611,8 @@
     "question": "Electric motorbike rental hanoi cost",
     "kind": "Related search",
     "serp": "electric motorbike rental hanoi [Vietnam]",
-    "servedBy": "/topics/rental/",
-    "how": "Common-questions entry: How much does it cost to rent a motorbike in Hanoi?",
+    "servedBy": "/articles/best-motorbike-for-expats-hanoi/",
+    "how": "Common-questions entry: How much does a monthly motorbike rental cost for an expat in Hanoi?",
     "gap": false
    },
    {
@@ -1524,9 +1667,9 @@
     "question": "Does Grab have a motorcycle?",
     "kind": "People also ask",
     "serp": "ha giang loop motorbike rental",
-    "servedBy": "",
-    "how": "no serving URL found",
-    "gap": true
+    "servedBy": "/articles/what-is-a-50cc-motorbike-vietnam/",
+    "how": "Common-questions entry: How old do you have to be to ride a 50cc motorbike in Vietnam?",
+    "gap": false
    },
    {
     "question": "Is the Ha Giang loop scary?",
@@ -1612,8 +1755,8 @@
     "question": "Where to park your motorcycle in public?",
     "kind": "People also ask",
     "serp": "hanoi motorbike parking",
-    "servedBy": "/topics/hanoi/",
-    "how": "Common-questions entry: Where can I park a motorbike in Hanoi?",
+    "servedBy": "/articles/renting-motorbike-old-quarter/",
+    "how": "Common-questions entry: Where can I park a motorbike in the Old Quarter?",
     "gap": false
    },
    {
@@ -1636,8 +1779,8 @@
     "question": "Can tourists ride motorbikes in Vietnam?",
     "kind": "People also ask",
     "serp": "is it safe to ride a motorbike in vietnam",
-    "servedBy": "/topics/law-licences/",
-    "how": "Common-questions entry: Can tourists and other foreigners legally ride a motorbike in Vietnam?",
+    "servedBy": "/articles/can-tourists-ride-motorbike-vietnam/",
+    "how": "keyword-targets owner (Can tourists ride motorbike in Vietnam)",
     "gap": false
    },
    {
@@ -1684,7 +1827,7 @@
     "question": "Can I ride a motorbike in Vietnam with a UK license",
     "kind": "Related search",
     "serp": "is it safe to ride a motorbike in vietnam",
-    "servedBy": "/topics/50cc/",
+    "servedBy": "/articles/what-is-a-50cc-motorbike-vietnam/",
     "how": "Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam?",
     "gap": false
    },
@@ -1748,8 +1891,8 @@
     "question": "Long term motorbike rental hanoi expat cost",
     "kind": "Related search",
     "serp": "long term motorbike rental hanoi expat",
-    "servedBy": "/topics/monthly-rental/",
-    "how": "title/keyword match",
+    "servedBy": "/articles/best-motorbike-for-expats-hanoi/",
+    "how": "Common-questions entry: How much does a monthly motorbike rental cost for an expat in Hanoi?",
     "gap": false
    },
    {
@@ -1860,8 +2003,8 @@
     "question": "How much is a motorbike per month?",
     "kind": "People also ask",
     "serp": "monthly motorbike rental hanoi [Vietnam]",
-    "servedBy": "/topics/monthly-rental/",
-    "how": "Common-questions entry: How much is a monthly motorbike rental in Hanoi?",
+    "servedBy": "/articles/best-motorbike-for-expats-hanoi/",
+    "how": "Common-questions entry: How much does a monthly motorbike rental cost for an expat in Hanoi?",
     "gap": false
    },
    {
@@ -1876,8 +2019,8 @@
     "question": "How much does it cost to rent a bike in Hanoi?",
     "kind": "People also ask",
     "serp": "monthly motorbike rental hanoi [Vietnam]",
-    "servedBy": "/topics/rental/",
-    "how": "Common-questions entry: How much does it cost to rent a motorbike in Hanoi?",
+    "servedBy": "/articles/best-motorbike-for-expats-hanoi/",
+    "how": "Common-questions entry: How much does a monthly motorbike rental cost for an expat in Hanoi?",
     "gap": false
    },
    {
@@ -1892,8 +2035,8 @@
     "question": "Cheapest monthly motorbike rental hanoi",
     "kind": "Related search",
     "serp": "monthly motorbike rental hanoi [Vietnam]",
-    "servedBy": "/topics/monthly-rental/",
-    "how": "Common-questions entry: How much is a monthly motorbike rental in Hanoi?",
+    "servedBy": "/articles/best-motorbike-for-expats-hanoi/",
+    "how": "Common-questions entry: How much does a monthly motorbike rental cost for an expat in Hanoi?",
     "gap": false
    },
    {
@@ -2076,8 +2219,8 @@
     "question": "Can tourists ride motorbikes in Vietnam?",
     "kind": "People also ask",
     "serp": "motorbike helmet law vietnam",
-    "servedBy": "/topics/law-licences/",
-    "how": "Common-questions entry: Can tourists and other foreigners legally ride a motorbike in Vietnam?",
+    "servedBy": "/articles/can-tourists-ride-motorbike-vietnam/",
+    "how": "keyword-targets owner (Can tourists ride motorbike in Vietnam)",
     "gap": false
    },
    {
@@ -2100,7 +2243,7 @@
     "question": "Getting motorbike license vietnam",
     "kind": "Related search",
     "serp": "motorbike helmet law vietnam",
-    "servedBy": "/topics/50cc/",
+    "servedBy": "/articles/what-is-a-50cc-motorbike-vietnam/",
     "how": "Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam?",
     "gap": false
    },
@@ -2116,7 +2259,7 @@
     "question": "Vietnam 50cc license",
     "kind": "Related search",
     "serp": "motorbike helmet law vietnam",
-    "servedBy": "/topics/50cc/",
+    "servedBy": "/articles/what-is-a-50cc-motorbike-vietnam/",
     "how": "Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam?",
     "gap": false
    },
@@ -2148,16 +2291,16 @@
     "question": "How much is bike rental in Hanoi?",
     "kind": "People also ask",
     "serp": "motorbike rental hanoi",
-    "servedBy": "/topics/monthly-rental/",
-    "how": "Common-questions entry: How much is a monthly motorbike rental in Hanoi?",
+    "servedBy": "/articles/best-motorbike-for-expats-hanoi/",
+    "how": "Common-questions entry: How much does a monthly motorbike rental cost for an expat in Hanoi?",
     "gap": false
    },
    {
     "question": "Is motorcycle rental cheaper than car rental?",
     "kind": "People also ask",
     "serp": "motorbike rental hanoi",
-    "servedBy": "/articles/motorbike-rental-price-hanoi/",
-    "how": "Common-questions entry: Is a monthly rental cheaper than paying by the day?",
+    "servedBy": "/articles/daily-weekly-monthly-motorbike-rental-hanoi/",
+    "how": "Common-questions entry: Is monthly motorbike rental cheaper than daily in Hanoi?",
     "gap": false
    },
    {
@@ -2172,8 +2315,8 @@
     "question": "Can tourists ride motorcycles in Vietnam?",
     "kind": "People also ask",
     "serp": "motorbike rental hanoi",
-    "servedBy": "/topics/law-licences/",
-    "how": "Common-questions entry: Can tourists and other foreigners legally ride a motorbike in Vietnam?",
+    "servedBy": "/articles/can-tourists-ride-motorbike-vietnam/",
+    "how": "keyword-targets owner (Can tourists ride motorbike in Vietnam)",
     "gap": false
    },
    {
@@ -2244,16 +2387,16 @@
     "question": "How much does it cost to rent a motorcycle in Hanoi per day?",
     "kind": "People also ask",
     "serp": "motorbike rental hanoi [Vietnam]",
-    "servedBy": "/topics/rental/",
-    "how": "Common-questions entry: How much does it cost to rent a motorbike in Hanoi?",
+    "servedBy": "/articles/best-motorbike-for-expats-hanoi/",
+    "how": "Common-questions entry: How much does a monthly motorbike rental cost for an expat in Hanoi?",
     "gap": false
    },
    {
     "question": "Can tourists rent a motorbike in Vietnam?",
     "kind": "People also ask",
     "serp": "motorbike rental hanoi [Vietnam]",
-    "servedBy": "/topics/rental/",
-    "how": "Common-questions entry: Can tourists rent a motorbike in Hanoi?",
+    "servedBy": "/articles/motorbike-rental-tourists-hanoi-essentials/",
+    "how": "Common-questions entry: How much does it cost to rent a motorbike in Hanoi as a tourist?",
     "gap": false
    },
    {
@@ -2364,8 +2507,8 @@
     "question": "How much to hire a motorbike in Vietnam?",
     "kind": "People also ask",
     "serp": "motorbike rental vietnam",
-    "servedBy": "/topics/monthly-rental/",
-    "how": "Common-questions entry: How much is a monthly motorbike rental in Hanoi?",
+    "servedBy": "/articles/best-motorbike-for-expats-hanoi/",
+    "how": "Common-questions entry: How much does a monthly motorbike rental cost for an expat in Hanoi?",
     "gap": false
    },
    {
@@ -2444,8 +2587,8 @@
     "question": "How much does it cost to repair a motorcycle?",
     "kind": "People also ask",
     "serp": "motorbike repair shop hanoi",
-    "servedBy": "/topics/rental/",
-    "how": "Common-questions entry: How much does it cost to rent a motorbike in Hanoi?",
+    "servedBy": "/articles/best-motorbike-for-expats-hanoi/",
+    "how": "Common-questions entry: How much does a monthly motorbike rental cost for an expat in Hanoi?",
     "gap": false
    },
    {
@@ -2460,8 +2603,8 @@
     "question": "How much should a motorbike service cost?",
     "kind": "People also ask",
     "serp": "motorbike repair shop hanoi",
-    "servedBy": "/topics/rental/",
-    "how": "Common-questions entry: How much does it cost to rent a motorbike in Hanoi?",
+    "servedBy": "/articles/best-motorbike-for-expats-hanoi/",
+    "how": "Common-questions entry: How much does a monthly motorbike rental cost for an expat in Hanoi?",
     "gap": false
    },
    {
@@ -2500,8 +2643,8 @@
     "question": "Can tourists ride motorbikes in Vietnam?",
     "kind": "People also ask",
     "serp": "motorbike vietnam",
-    "servedBy": "/topics/law-licences/",
-    "how": "Common-questions entry: Can tourists and other foreigners legally ride a motorbike in Vietnam?",
+    "servedBy": "/articles/can-tourists-ride-motorbike-vietnam/",
+    "how": "keyword-targets owner (Can tourists ride motorbike in Vietnam)",
     "gap": false
    },
    {
@@ -2604,8 +2747,8 @@
     "question": "Can tourists rent a motorbike in Vietnam?",
     "kind": "People also ask",
     "serp": "riding a motorbike in hanoi",
-    "servedBy": "/topics/rental/",
-    "how": "Common-questions entry: Can tourists rent a motorbike in Hanoi?",
+    "servedBy": "/articles/motorbike-rental-tourists-hanoi-essentials/",
+    "how": "Common-questions entry: How much does it cost to rent a motorbike in Hanoi as a tourist?",
     "gap": false
    },
    {
@@ -2644,7 +2787,7 @@
     "question": "Can I ride a motorbike in Vietnam with a UK license",
     "kind": "Related search",
     "serp": "riding a motorbike in hanoi",
-    "servedBy": "/topics/50cc/",
+    "servedBy": "/articles/what-is-a-50cc-motorbike-vietnam/",
     "how": "Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam?",
     "gap": false
    },
@@ -2684,8 +2827,8 @@
     "question": "How much is bike rental in Hanoi?",
     "kind": "People also ask",
     "serp": "scooter rental hanoi",
-    "servedBy": "/topics/monthly-rental/",
-    "how": "Common-questions entry: How much is a monthly motorbike rental in Hanoi?",
+    "servedBy": "/articles/best-motorbike-for-expats-hanoi/",
+    "how": "Common-questions entry: How much does a monthly motorbike rental cost for an expat in Hanoi?",
     "gap": false
    },
    {
@@ -2956,8 +3099,8 @@
     "question": "Vietnam 50cc motorbike license",
     "kind": "Related search",
     "serp": "vietnam motorbike license for foreigners",
-    "servedBy": "/topics/50cc/",
-    "how": "Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam?",
+    "servedBy": "/articles/50cc-licence-vietnam/",
+    "how": "keyword-targets owner (50cc motorbike Vietnam licence)",
     "gap": false
    },
    {
@@ -2980,8 +3123,8 @@
     "question": "Can tourists ride motorcycles in Vietnam?",
     "kind": "People also ask",
     "serp": "vietnam motorbike trip",
-    "servedBy": "/topics/law-licences/",
-    "how": "Common-questions entry: Can tourists and other foreigners legally ride a motorbike in Vietnam?",
+    "servedBy": "/articles/can-tourists-ride-motorbike-vietnam/",
+    "how": "keyword-targets owner (Can tourists ride motorbike in Vietnam)",
     "gap": false
    },
    {
@@ -3124,8 +3267,8 @@
     "question": "A1 license Vietnam",
     "kind": "Related search",
     "serp": "vietnam traffic fines motorbike foreigners",
-    "servedBy": "/articles/a1-licence-cost-vietnam/",
-    "how": "title/keyword match",
+    "servedBy": "/articles/a1-licence-vietnam-what-you-can-ride/",
+    "how": "keyword-targets owner (A1 licence Vietnam)",
     "gap": false
    },
    {
@@ -3249,7 +3392,371 @@
     "gap": false
    }
   ],
-  "contentGapCount": 23,
+  "contentGapCount": 22,
+  "rankTracking": {
+   "tool": "Ubersuggest project_position_info",
+   "date": "2026-10-14",
+   "market": "Vietnam",
+   "device": "desktop",
+   "next_update": "2026-10-21",
+   "tracked": 25,
+   "ranking": 15,
+   "bands": {
+    "top3": 1,
+    "page1": 4,
+    "striking": 5,
+    "deep": 5,
+    "not_ranking": 7,
+    "unstable": 3
+   },
+   "quickWins": [
+    {
+     "url": "/articles/renting-motorbike-old-quarter/",
+     "keyword": "motorbike rental hanoi old quarter",
+     "position": 4,
+     "workedSince": true
+    },
+    {
+     "url": "/articles/do-rentals-keep-your-passport-hanoi/",
+     "keyword": "motorbike rental deposit hanoi",
+     "position": 8,
+     "workedSince": true
+    },
+    {
+     "url": "/articles/riding-motorbike-noi-bai-airport-hanoi/",
+     "keyword": "motorbike rental noi bai airport",
+     "position": 9,
+     "workedSince": true
+    },
+    {
+     "url": "/articles/motorbike-rental-tourists-hanoi-essentials/",
+     "keyword": "how much to rent a motorbike in hanoi",
+     "position": 10,
+     "workedSince": true
+    },
+    {
+     "url": "/articles/what-is-a-50cc-motorbike-vietnam/",
+     "keyword": "50cc motorbike vietnam licence",
+     "position": 11,
+     "workedSince": true
+    },
+    {
+     "url": "/articles/can-tourists-rent-a-motorbike-hanoi/",
+     "keyword": "renting a motorbike in hanoi as a tourist",
+     "position": 12,
+     "workedSince": true
+    },
+    {
+     "url": "/articles/best-motorbike-for-expats-hanoi/",
+     "keyword": "hanoi motorbike rental for expats",
+     "position": 14,
+     "workedSince": true
+    },
+    {
+     "url": "/articles/renting-motorbikes-group-hanoi/",
+     "keyword": "motorbike rental requirements hanoi",
+     "position": 17,
+     "workedSince": true
+    },
+    {
+     "url": "/articles/vietnam-motorbike-licence-classes-explained/",
+     "keyword": "a1 licence vietnam",
+     "position": 17,
+     "workedSince": true
+    }
+   ],
+   "mismatches": [
+    {
+     "keyword": "50cc motorbike vietnam licence",
+     "position": 11,
+     "rankingUrl": "/articles/what-is-a-50cc-motorbike-vietnam/",
+     "declaredOwner": "/articles/50cc-licence-vietnam/"
+    },
+    {
+     "keyword": "a1 licence vietnam",
+     "position": 17,
+     "rankingUrl": "/articles/vietnam-motorbike-licence-classes-explained/",
+     "declaredOwner": "/articles/a1-licence-vietnam-what-you-can-ride/"
+    },
+    {
+     "keyword": "electric bike rental hanoi",
+     "position": 65,
+     "rankingUrl": "/",
+     "declaredOwner": "/articles/can-foreigners-rent-electric-bike-vietnam/"
+    },
+    {
+     "keyword": "hanoi motorbike rental for expats",
+     "position": 14,
+     "rankingUrl": "/articles/best-motorbike-for-expats-hanoi/",
+     "declaredOwner": "/articles/motorbike-rental-expats-moving-hanoi/"
+    },
+    {
+     "keyword": "how much to rent a motorbike in hanoi",
+     "position": 10,
+     "rankingUrl": "/articles/motorbike-rental-tourists-hanoi-essentials/",
+     "declaredOwner": "/articles/motorbike-rental-price-hanoi/"
+    },
+    {
+     "keyword": "monthly motorbike rental hanoi",
+     "position": 3,
+     "rankingUrl": "/articles/daily-weekly-monthly-motorbike-rental-hanoi/",
+     "declaredOwner": "/articles/monthly-motorbike-rental-hanoi/"
+    },
+    {
+     "keyword": "motorbike rental deposit hanoi",
+     "position": 8,
+     "rankingUrl": "/articles/do-rentals-keep-your-passport-hanoi/",
+     "declaredOwner": "/articles/motorbike-rental-deposit-hanoi/"
+    },
+    {
+     "keyword": "motorbike rental hanoi price",
+     "position": 66,
+     "rankingUrl": "/articles/motorbike-rental-budget-monthly-hanoi/",
+     "declaredOwner": "/articles/motorbike-rental-price-hanoi/"
+    },
+    {
+     "keyword": "motorbike rental noi bai airport",
+     "position": 9,
+     "rankingUrl": "/articles/riding-motorbike-noi-bai-airport-hanoi/",
+     "declaredOwner": "/articles/renting-motorbike-noi-bai-arrival/"
+    },
+    {
+     "keyword": "motorbike rental requirements hanoi",
+     "position": 17,
+     "rankingUrl": "/articles/renting-motorbikes-group-hanoi/",
+     "declaredOwner": "/articles/motorbike-rental-requirements-hanoi/"
+    },
+    {
+     "keyword": "scooter rental hanoi",
+     "position": 63,
+     "rankingUrl": "/",
+     "declaredOwner": "/articles/best-scooters-to-rent-hanoi/"
+    }
+   ],
+   "undeclared": [],
+   "table": [
+    {
+     "keyword": "50cc motorbike vietnam licence",
+     "position": 11,
+     "url": "/articles/what-is-a-50cc-motorbike-vietnam/",
+     "previous": 11,
+     "owner": "/articles/50cc-licence-vietnam/",
+     "match": "different URL"
+    },
+    {
+     "keyword": "a1 licence vietnam",
+     "position": 17,
+     "url": "/articles/vietnam-motorbike-licence-classes-explained/",
+     "previous": 17,
+     "owner": "/articles/a1-licence-vietnam-what-you-can-ride/",
+     "match": "different URL"
+    },
+    {
+     "keyword": "best scooter to rent in vietnam",
+     "position": null,
+     "url": null,
+     "previous": null,
+     "owner": "/articles/best-scooters-to-rent-hanoi/",
+     "match": "unstable (tool)"
+    },
+    {
+     "keyword": "can tourists ride motorbike in vietnam",
+     "position": 28,
+     "url": "/articles/can-tourists-ride-motorbike-vietnam/",
+     "previous": 28,
+     "owner": "/articles/can-tourists-ride-motorbike-vietnam/",
+     "match": "owner"
+    },
+    {
+     "keyword": "electric bike rental hanoi",
+     "position": 65,
+     "url": "/",
+     "previous": 65,
+     "owner": "/articles/can-foreigners-rent-electric-bike-vietnam/",
+     "match": "different URL"
+    },
+    {
+     "keyword": "hanoi motorbike rental",
+     "position": null,
+     "url": null,
+     "previous": null,
+     "owner": "/topics/rental/",
+     "match": "not in the top 100"
+    },
+    {
+     "keyword": "hanoi motorbike rental for expats",
+     "position": 14,
+     "url": "/articles/best-motorbike-for-expats-hanoi/",
+     "previous": 14,
+     "owner": "/articles/motorbike-rental-expats-moving-hanoi/",
+     "match": "different URL"
+    },
+    {
+     "keyword": "honda vision rental hanoi",
+     "position": null,
+     "url": null,
+     "previous": null,
+     "owner": "/articles/honda-vision-110-review/",
+     "match": "not in the top 100"
+    },
+    {
+     "keyword": "how much to rent a motorbike in hanoi",
+     "position": 10,
+     "url": "/articles/motorbike-rental-tourists-hanoi-essentials/",
+     "previous": 10,
+     "owner": "/articles/motorbike-rental-price-hanoi/",
+     "match": "different URL"
+    },
+    {
+     "keyword": "international driving permit vietnam motorbike",
+     "position": null,
+     "url": null,
+     "previous": null,
+     "owner": "/articles/idp-vietnam-motorbike-rules/",
+     "match": "not in the top 100"
+    },
+    {
+     "keyword": "monthly motorbike rental hanoi",
+     "position": 3,
+     "url": "/articles/daily-weekly-monthly-motorbike-rental-hanoi/",
+     "previous": 3,
+     "owner": "/articles/monthly-motorbike-rental-hanoi/",
+     "match": "different URL"
+    },
+    {
+     "keyword": "motorbike hire hanoi",
+     "position": null,
+     "url": null,
+     "previous": null,
+     "owner": "/topics/rental/",
+     "match": "unstable (tool)"
+    },
+    {
+     "keyword": "motorbike rental deposit hanoi",
+     "position": 8,
+     "url": "/articles/do-rentals-keep-your-passport-hanoi/",
+     "previous": 8,
+     "owner": "/articles/motorbike-rental-deposit-hanoi/",
+     "match": "different URL"
+    },
+    {
+     "keyword": "motorbike rental hanoi",
+     "position": null,
+     "url": null,
+     "previous": null,
+     "owner": "/topics/rental/",
+     "match": "not in the top 100"
+    },
+    {
+     "keyword": "motorbike rental hanoi old quarter",
+     "position": 4,
+     "url": "/articles/renting-motorbike-old-quarter/",
+     "previous": 4,
+     "owner": "/articles/renting-motorbike-old-quarter/",
+     "match": "owner"
+    },
+    {
+     "keyword": "motorbike rental hanoi price",
+     "position": 66,
+     "url": "/articles/motorbike-rental-budget-monthly-hanoi/",
+     "previous": 66,
+     "owner": "/articles/motorbike-rental-price-hanoi/",
+     "match": "different URL"
+    },
+    {
+     "keyword": "motorbike rental noi bai airport",
+     "position": 9,
+     "url": "/articles/riding-motorbike-noi-bai-airport-hanoi/",
+     "previous": 9,
+     "owner": "/articles/renting-motorbike-noi-bai-arrival/",
+     "match": "different URL"
+    },
+    {
+     "keyword": "motorbike rental requirements hanoi",
+     "position": 17,
+     "url": "/articles/renting-motorbikes-group-hanoi/",
+     "previous": 17,
+     "owner": "/articles/motorbike-rental-requirements-hanoi/",
+     "match": "different URL"
+    },
+    {
+     "keyword": "motorbike rental vietnam",
+     "position": null,
+     "url": null,
+     "previous": null,
+     "owner": "/topics/vietnam-travel/",
+     "match": "not in the top 100"
+    },
+    {
+     "keyword": "one way motorbike rental vietnam",
+     "position": null,
+     "url": null,
+     "previous": null,
+     "owner": "/articles/one-way-motorbike-rental-vietnam/",
+     "match": "not in the top 100"
+    },
+    {
+     "keyword": "rent a scooter in hanoi",
+     "position": null,
+     "url": null,
+     "previous": null,
+     "owner": "/articles/best-scooters-to-rent-hanoi/",
+     "match": "unstable (tool)"
+    },
+    {
+     "keyword": "rent motorbike hanoi",
+     "position": null,
+     "url": null,
+     "previous": null,
+     "owner": "/topics/rental/",
+     "match": "not in the top 100"
+    },
+    {
+     "keyword": "renting a motorbike in hanoi as a tourist",
+     "position": 12,
+     "url": "/articles/can-tourists-rent-a-motorbike-hanoi/",
+     "previous": 12,
+     "owner": "/articles/can-tourists-rent-a-motorbike-hanoi/",
+     "match": "owner"
+    },
+    {
+     "keyword": "scooter rental hanoi",
+     "position": 63,
+     "url": "/",
+     "previous": 63,
+     "owner": "/articles/best-scooters-to-rent-hanoi/",
+     "match": "different URL"
+    },
+    {
+     "keyword": "vietnam motorbike licence for foreigners",
+     "position": 48,
+     "url": "/topics/law-licences/",
+     "previous": 48,
+     "owner": "/topics/law-licences/",
+     "match": "owner"
+    }
+   ],
+   "ai": {
+    "date": "2026-10-15",
+    "providers": [
+     "openai"
+    ],
+    "prompts": 10,
+    "brand": {
+     "name": "Hanoi Motorbike Rental Nguyen Tu",
+     "visibility_percentage": 0,
+     "total_mentions": 0,
+     "average_rank": null
+    },
+    "nameVariants": [
+     {
+      "name": "Nguyen Tu Hanoi Motorbike Rental",
+      "average_rank": 2,
+      "mentions": 1
+     }
+    ]
+   }
+  },
   "keywordUniverse": {
    "generated": "2026-10-14",
    "rows": 160,
@@ -7721,7 +8228,7 @@
    "url": "/topics/50cc/",
    "current_title": "50cc Motorbikes",
    "primary_keyword": "50cc motorbike Vietnam",
-   "secondary_keywords": "50cc motorbike rental Hanoi; Scooter rental Vietnam; Mopeds Vietnam",
+   "secondary_keywords": "50cc motorbike rental Hanoi; Scooter rental Vietnam; Mopeds Vietnam; 50cc motorbike Vietnam licence",
    "search_intent": "informational",
    "topic_cluster": "50cc / hub (pillar)",
    "content_quality": "thin (1/7)",
@@ -7772,7 +8279,7 @@
    "url": "/topics/law-licences/",
    "current_title": "Vietnam Motorbike Laws and Licences",
    "primary_keyword": "Motorbike licence Vietnam",
-   "secondary_keywords": "Vietnam bike licence; Vietnam driving laws; Motorbike Vietnam; Temporary Vietnamese motorbike licence",
+   "secondary_keywords": "Vietnam bike licence; Vietnam driving laws; Vietnam motorbike licence for foreigners; Motorbike Vietnam; Temporary Vietnamese motorbike licence",
    "search_intent": "informational",
    "topic_cluster": "law-licences / hub (pillar)",
    "content_quality": "thin (1/7)",
@@ -7782,7 +8289,7 @@
    "priority": "P3",
    "recommended_action": "Pillar page: direct-answer intro + curated start-here links to the commercial and core guides.",
    "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
-   "evidence": "title_len=35; desc_len=94 || words=268; h2=1; tables=0; sources=0; body_links=32 || guides_listed=66 || ownership note: Zero-data keyword universe (docs/seo/keyword-universe.json, third-party estimate); the law and licences pillar. || recorded metrics: {\"openseo_us\":{\"tool\":\"OpenSEO/DataForSEO US\",\"date\":\"2026-10-14\",\"vietnam motorbike license\":{\"volume\":50,\"kd\":0,\"intent\":\"informational\"}}}",
+   "evidence": "title_len=35; desc_len=94 || words=268; h2=1; tables=0; sources=0; body_links=32 || guides_listed=66 || ownership note: Zero-data keyword universe (docs/seo/keyword-universe.json, third-party estimate); the law and licences pillar. / Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). || rank tracker (Ubersuggest project_position_info, Vietnam desktop, 2026-10-14): #48 \"vietnam motorbike licence for foreigners\" || recorded metrics: {\"openseo_us\":{\"tool\":\"OpenSEO/DataForSEO US\",\"date\":\"2026-10-14\",\"vietnam motorbike license\":{\"volume\":50,\"kd\":0,\"intent\":\"informational\"}}}",
    "type": "hub"
   },
   {
@@ -7879,12 +8386,12 @@
    "topic_cluster": "rental / hub (pillar)",
    "content_quality": "thin (2/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 46 curated + 81 dynamic cards; in: nav/footer/home + 22 body",
+   "internal_links": "out: 50 curated + 81 dynamic cards; in: nav/footer/home + 22 body",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Pillar page: direct-answer intro + curated start-here links to the commercial and core guides.",
-   "status": "OPTIMIZED 2026-10-14 - pillar intro with direct answer + curated start-here and by-situation links",
-   "evidence": "title_len=22; desc_len=124 || words=337; h2=2; tables=0; sources=0; body_links=46 || guides_listed=81 || ownership note: Shop-selection intent. Served by the hub plus trust pages; never claim rankings, awards or reviews (OWNER-FACTS). / British/Australian wording of the same intent. || recorded metrics: {\"keyword\":\"motorbike rental hanoi\",\"volume\":2900,\"cpc_usd\":0.32,\"paid_difficulty\":34,\"also\":{\"rent motorbike hanoi\":2900,\"motorbike rental hanoi vietnam\":2900,\"motorbike rental hanoi near me\":20,\"best motorbike rental hanoi\":10},\"source\":\"Ubersuggest 2026-10-14\",\"openseo_us\":{\"tool\":\"OpenSEO/DataForSEO US\",\"date\":\"2026-10-14\",\"hanoi motorbike rental\":{\"volume\":110,\"kd\":10,\"intent\":\"commercial\"},\"motorbike rental hanoi\":{\"volume\":110,\"kd\":13,\"intent\":\"transactional\"},\"motorcycle rental hanoi\":{\"volume\":110,\"kd\":10},\"motorbike hire hanoi\":{\"volume\":10},\"best motorbike rental hanoi\":{\"volume\":10}}}",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=22; desc_len=124 || words=347; h2=2; tables=0; sources=0; body_links=50 || guides_listed=81 || ownership note: Shop-selection intent. Served by the hub plus trust pages; never claim rankings, awards or reviews (OWNER-FACTS). / British/Australian wording of the same intent. || recorded metrics: {\"keyword\":\"motorbike rental hanoi\",\"volume\":2900,\"cpc_usd\":0.32,\"paid_difficulty\":34,\"also\":{\"rent motorbike hanoi\":2900,\"motorbike rental hanoi vietnam\":2900,\"motorbike rental hanoi near me\":20,\"best motorbike rental hanoi\":10},\"source\":\"Ubersuggest 2026-10-14\",\"openseo_us\":{\"tool\":\"OpenSEO/DataForSEO US\",\"date\":\"2026-10-14\",\"hanoi motorbike rental\":{\"volume\":110,\"kd\":10,\"intent\":\"commercial\"},\"motorbike rental hanoi\":{\"volume\":110,\"kd\":13,\"intent\":\"transactional\"},\"motorcycle rental hanoi\":{\"volume\":110,\"kd\":10},\"motorbike hire hanoi\":{\"volume\":10},\"best motorbike rental hanoi\":{\"volume\":10}}}",
    "type": "hub"
   },
   {
@@ -7908,7 +8415,7 @@
    "url": "/topics/scooters/",
    "current_title": "Scooters in Vietnam",
    "primary_keyword": "Scooters in Vietnam",
-   "secondary_keywords": "Scooter rental Vietnam; Vietnam scooters; Vietnamese scooters; Hanoi scooter rental; Vietnamese motorbikes",
+   "secondary_keywords": "Scooter rental Vietnam; Vietnam scooters; Vietnamese scooters; Hanoi scooter rental; Vietnamese motorbikes; Best scooter to rent in Vietnam",
    "search_intent": "informational",
    "topic_cluster": "scooters / hub (pillar)",
    "content_quality": "thin (2/7)",
@@ -7969,7 +8476,7 @@
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - WebSite + Organization JSON-LD with SearchAction; Open Graph/Twitter metadata site-wide",
-   "evidence": "title_len=21; desc_len=97 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=21; desc_len=97 || rank tracker (Ubersuggest project_position_info, Vietnam desktop, 2026-10-14): #65 \"electric bike rental hanoi\", #63 \"scooter rental hanoi\" || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "page"
   },
   {
@@ -8180,17 +8687,17 @@
    "url": "/articles/50cc-licence-vietnam/",
    "current_title": "Do You Need a Licence for a 50cc Motorbike in Vietnam?",
    "primary_keyword": "do you need a licence for a 50cc motorbike in vietnam",
-   "secondary_keywords": "50cc; licence; law; vietnam; moped",
+   "secondary_keywords": "50cc motorbike Vietnam licence; 50cc; licence; law; vietnam; moped",
    "search_intent": "informational",
    "topic_cluster": "law-licences / 11.1 licence-system",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 2 body + 8 related cards; in: 24 related + 5 body + hub listing",
+   "internal_links": "out: 3 body + 8 related cards; in: 24 related + 6 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer",
-   "evidence": "title_len=54; desc_len=162 || words=401; h2=3; tables=0; sources=3; body_links=2 || related_out=8; related_in=24; body_in=5 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=54; desc_len=162 || words=423; h2=3; tables=0; sources=3; body_links=3 || related_out=8; related_in=24; body_in=6 || ownership note: Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). The definition guide ranks (#11); the licence guide is the declared owner. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -8452,17 +8959,17 @@
    "url": "/articles/a1-licence-vietnam-what-you-can-ride/",
    "current_title": "A1 Licence Vietnam: What You Can Legally Ride",
    "primary_keyword": "a1 licence vietnam",
-   "secondary_keywords": "licence; a1; scooter; law; vietnam",
+   "secondary_keywords": "A1 licence Vietnam; licence; a1; scooter; law; vietnam",
    "search_intent": "informational",
    "topic_cluster": "law-licences / 11.1 licence-system",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 1 body + 3 related cards; in: 23 related + 14 body + hub listing",
+   "internal_links": "out: 2 body + 3 related cards; in: 23 related + 15 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer",
-   "evidence": "title_len=45; desc_len=157 || words=310; h2=4; tables=0; sources=3; body_links=1 || related_out=3; related_in=23; body_in=14 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=45; desc_len=157 || words=328; h2=4; tables=0; sources=3; body_links=2 || related_out=3; related_in=23; body_in=15 || ownership note: Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). The licence-classes explainer ranks (#17); the A1 guide is the declared owner. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -9256,12 +9763,12 @@
    "topic_cluster": "rental / 1.2 choosing-bike",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 6 body + 5 related cards; in: 4 related + 2 body + hub listing",
+   "internal_links": "out: 8 body + 5 related cards; in: 4 related + 2 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; descriptive guide references resolved into contextual links (scripts/link-guide-references.js); hand-edited contextual links on the remaining commercial rental/monthly-rental pages (pricing, monthly, deposit, licence, contact); no facts changed",
-   "evidence": "title_len=41; desc_len=136 || words=347; h2=5; tables=0; sources=1; body_links=6 || related_out=5; related_in=4; body_in=2 || plan MM-0034 (owner-history): Each targets a distinct rider situation or bike characteristic || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=41; desc_len=136 || words=369; h2=5; tables=0; sources=1; body_links=8 || related_out=5; related_in=4; body_in=2 || plan MM-0034 (owner-history): Each targets a distinct rider situation or bike characteristic || rank tracker (Ubersuggest project_position_info, Vietnam desktop, 2026-10-14): #14 \"hanoi motorbike rental for expats\" (worked on since: re-evaluate at the next snapshot) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -9489,7 +9996,7 @@
    "url": "/articles/best-scooters-to-rent-hanoi/",
    "current_title": "Best Scooters to Rent in Hanoi for Foreigners",
    "primary_keyword": "Hanoi scooter rental",
-   "secondary_keywords": "Automatic scooter rental Hanoi; Hanoi motorbike rental; Daily scooter rental Hanoi; Scooters in Vietnam; Scooter rental Vietnam; scooters; best scooter; rental; honda vision; honda click",
+   "secondary_keywords": "Automatic scooter rental Hanoi; Best scooter to rent in Vietnam; Hanoi motorbike rental; Daily scooter rental Hanoi; Scooters in Vietnam; Scooter rental Vietnam; scooters; best scooter; rental; honda vision",
    "search_intent": "commercial",
    "topic_cluster": "rental / 1.2 choosing-bike",
    "content_quality": "strong (5/7)",
@@ -9499,7 +10006,7 @@
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - batch 1: 'Hanoi scooter rental' in lead, links to review/rates/contact",
-   "evidence": "title_len=45; desc_len=158 || words=316; h2=5; tables=0; sources=1; body_links=5 || related_out=7; related_in=12; body_in=7 || plan MM-0023 (owner-history): Each targets a distinct rider situation or bike characteristic || recorded metrics: {\"keyword\":\"scooter rental hanoi\",\"volume\":480,\"cpc_usd\":0.315,\"paid_difficulty\":53,\"also\":{\"scooter rental hanoi price\":20,\"scooter rental hanoi old quarter\":20},\"source\":\"Ubersuggest 2026-10-14\",\"openseo_us\":{\"tool\":\"OpenSEO/DataForSEO US\",\"date\":\"2026-10-14\",\"hanoi scooter rental\":{\"volume\":30,\"kd\":0},\"rent scooter hanoi\":{\"volume\":30,\"kd\":3}}}",
+   "evidence": "title_len=45; desc_len=158 || words=316; h2=5; tables=0; sources=1; body_links=5 || related_out=7; related_in=12; body_in=7 || plan MM-0023 (owner-history): Each targets a distinct rider situation or bike characteristic || ownership note: Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). || recorded metrics: {\"keyword\":\"scooter rental hanoi\",\"volume\":480,\"cpc_usd\":0.315,\"paid_difficulty\":53,\"also\":{\"scooter rental hanoi price\":20,\"scooter rental hanoi old quarter\":20},\"source\":\"Ubersuggest 2026-10-14\",\"openseo_us\":{\"tool\":\"OpenSEO/DataForSEO US\",\"date\":\"2026-10-14\",\"hanoi scooter rental\":{\"volume\":30,\"kd\":0},\"rent scooter hanoi\":{\"volume\":30,\"kd\":3}}}",
    "type": "article"
   },
   {
@@ -9982,7 +10489,7 @@
    "url": "/articles/can-foreigners-rent-electric-bike-vietnam/",
    "current_title": "Can Foreigners Rent an E-Bike or Electric Motorbike in Vietnam?",
    "primary_keyword": "Electric motorbike rental Hanoi",
-   "secondary_keywords": "VinFast electric scooter rental Hanoi; foreigners; e-bike; rental; licence; vietnam",
+   "secondary_keywords": "VinFast electric scooter rental Hanoi; Electric bike rental Hanoi; foreigners; e-bike; rental; licence; vietnam",
    "search_intent": "commercial",
    "topic_cluster": "electric / 7.2 legal-electric",
    "content_quality": "strong (5/7)",
@@ -9992,7 +10499,7 @@
    "priority": "P3",
    "recommended_action": "Serve gap keyword(s) VinFast electric scooter rental Hanoi honestly from this URL; do NOT create a new article.",
    "status": "OPTIMIZED 2026-10-14 - batch 1: description tightened, honest note that VinFast models are not in the published fleet, links",
-   "evidence": "title_len=63; desc_len=165 || words=318; h2=3; tables=0; sources=2; body_links=6 || related_out=5; related_in=2; body_in=8 || plan MM-0714 (general-research): Rental-practice answer for the electric format; the tourist canonical covers petrol rental rules broadly || ownership note: Only the E-Bike day rate is published; weekly/monthly electric rates are contact-only. / No VinFast rental model is in the approved fleet list; availability is contact-only. Supporting lineup guide: /articles/vinfast-electric-scooter-lineup-vietnam/. || recorded metrics: {\"keyword\":\"electric scooter rental hanoi\",\"volume\":10,\"cpc_usd\":0.37,\"paid_difficulty\":63,\"also\":{\"electric motorbike rental hanoi\":\"returned without volume\",\"e scooter rental hanoi\":\"returned without volume\"},\"source\":\"Ubersuggest 2026-10-14\",\"openseo_us\":{\"tool\":\"OpenSEO/DataForSEO US\",\"date\":\"2026-10-14\",\"electric scooter rental hanoi\":{\"volume\":10},\"electric motorbike rental hanoi\":{\"volume\":null,\"note\":\"no data\"}}}",
+   "evidence": "title_len=63; desc_len=165 || words=318; h2=3; tables=0; sources=2; body_links=6 || related_out=5; related_in=2; body_in=8 || plan MM-0714 (general-research): Rental-practice answer for the electric format; the tourist canonical covers petrol rental rules broadly || ownership note: Only the E-Bike day rate is published; weekly/monthly electric rates are contact-only. / No VinFast rental model is in the approved fleet list; availability is contact-only. Supporting lineup guide: /articles/vinfast-electric-scooter-lineup-vietnam/. / Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). || recorded metrics: {\"keyword\":\"electric scooter rental hanoi\",\"volume\":10,\"cpc_usd\":0.37,\"paid_difficulty\":63,\"also\":{\"electric motorbike rental hanoi\":\"returned without volume\",\"e scooter rental hanoi\":\"returned without volume\"},\"source\":\"Ubersuggest 2026-10-14\",\"openseo_us\":{\"tool\":\"OpenSEO/DataForSEO US\",\"date\":\"2026-10-14\",\"electric scooter rental hanoi\":{\"volume\":10},\"electric motorbike rental hanoi\":{\"volume\":null,\"note\":\"no data\"}}}",
    "type": "article"
   },
   {
@@ -10016,7 +10523,7 @@
    "url": "/articles/can-tourists-rent-a-motorbike-hanoi/",
    "current_title": "Can Tourists Rent a Motorbike in Hanoi? The Honest Answer",
    "primary_keyword": "can tourists rent a motorbike in hanoi",
-   "secondary_keywords": "Hanoi motorbike rental requirements; tourists; rental; licence; legal; hanoi",
+   "secondary_keywords": "Renting a motorbike in Hanoi as a tourist; Hanoi motorbike rental requirements; tourists; rental; licence; legal; hanoi",
    "search_intent": "informational",
    "topic_cluster": "rental / 1.1 how-to-rent",
    "content_quality": "strong (5/7)",
@@ -10025,15 +10532,15 @@
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - title rewritten to <=65 chars, primary keyword kept, near-duplicate pairs differentiated (can-tourists-rent-a-motorbike-hanoi kept free of the word licence so the Guide Assistant keeps answering the tourist-licence question from the licence paragraph); meta description rewritten to <=165 chars with the primary keyword and a direct answer; descriptive guide references resolved into contextual links, pass 2 (reviewed override map + same-cluster fallback; scripts/link-guide-references.js); Common questions (3 Q&A each) with FAQPage JSON-LD on the five money articles, answered from docs/OWNER-FACTS.md and VERIFIED articles; the price article keeps its existing in-body FAQ and only gains the schema (faq_in_body)",
-   "evidence": "title_len=57; desc_len=127 || words=348; h2=4; tables=0; sources=1; body_links=1 || related_out=5; related_in=3; body_in=1 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=57; desc_len=127 || words=348; h2=4; tables=0; sources=1; body_links=1 || related_out=5; related_in=3; body_in=1 || ownership note: Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). || rank tracker (Ubersuggest project_position_info, Vietnam desktop, 2026-10-14): #12 \"renting a motorbike in hanoi as a tourist\" (worked on since: re-evaluate at the next snapshot) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
    "url": "/articles/can-tourists-ride-motorbike-vietnam/",
    "current_title": "Can Tourists Legally Ride a Motorbike in Vietnam?",
    "primary_keyword": "can tourists legally ride a motorbike in vietnam",
-   "secondary_keywords": "Vietnam licence for tourists; Renting a motorbike in Vietnam; Hanoi motorbike rental for foreigners; tourists; licence; law; vietnam; idp",
+   "secondary_keywords": "Vietnam licence for tourists; Can tourists ride motorbike in Vietnam; Renting a motorbike in Vietnam; Hanoi motorbike rental for foreigners; Vietnam motorbike licence for foreigners; tourists; licence; law; vietnam; idp",
    "search_intent": "informational",
    "topic_cluster": "law-licences / 11.2 foreigners",
    "content_quality": "strong (5/7)",
@@ -10043,7 +10550,7 @@
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer",
-   "evidence": "title_len=49; desc_len=133 || words=378; h2=4; tables=0; sources=3; body_links=1 || related_out=6; related_in=31; body_in=18 || recorded metrics: {\"keyword\":\"can tourists ride motorcycles in vietnam\",\"note\":\"People Also Ask question on the motorbike rental hanoi SERP (OpenRush 2026-10-14)\",\"source\":\"OpenRush inspect_serp 2026-10-14\"}",
+   "evidence": "title_len=49; desc_len=133 || words=378; h2=4; tables=0; sources=3; body_links=1 || related_out=6; related_in=31; body_in=18 || ownership note: Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). || rank tracker (Ubersuggest project_position_info, Vietnam desktop, 2026-10-14): #28 \"can tourists ride motorbike in vietnam\" || recorded metrics: {\"keyword\":\"can tourists ride motorcycles in vietnam\",\"note\":\"People Also Ask question on the motorbike rental hanoi SERP (OpenRush 2026-10-14)\",\"source\":\"OpenRush inspect_serp 2026-10-14\"}",
    "type": "article"
   },
   {
@@ -10956,12 +11463,12 @@
    "topic_cluster": "rental / 1.1 how-to-rent",
    "content_quality": "adequate (4/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 3 body + 5 related cards; in: 19 related + 13 body + hub listing",
+   "internal_links": "out: 4 body + 5 related cards; in: 19 related + 14 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
-   "evidence": "title_len=65; desc_len=165 || words=367; h2=5; tables=0; sources=1; body_links=3 || related_out=5; related_in=19; body_in=13 || plan MM-0010 (owner-history+gsc): Each answers a different step of the rental process; no two cover the same step || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=65; desc_len=165 || words=386; h2=5; tables=0; sources=1; body_links=4 || related_out=5; related_in=19; body_in=14 || plan MM-0010 (owner-history+gsc): Each answers a different step of the rental process; no two cover the same step || rank tracker (Ubersuggest project_position_info, Vietnam desktop, 2026-10-14): #3 \"monthly motorbike rental hanoi\" (worked on since: re-evaluate at the next snapshot) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -11279,12 +11786,12 @@
    "topic_cluster": "rental / 1.1 how-to-rent",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 2 body + 5 related cards; in: 1 related + 2 body + hub listing",
+   "internal_links": "out: 3 body + 5 related cards; in: 1 related + 3 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - title rewritten to <=65 chars, primary keyword kept, near-duplicate pairs differentiated (can-tourists-rent-a-motorbike-hanoi kept free of the word licence so the Guide Assistant keeps answering the tourist-licence question from the licence paragraph); meta description rewritten to <=165 chars with the primary keyword and a direct answer; first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=64; desc_len=155 || words=358; h2=5; tables=0; sources=1; body_links=2 || related_out=5; related_in=1; body_in=2 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=64; desc_len=161 || words=358; h2=5; tables=0; sources=1; body_links=3 || related_out=5; related_in=1; body_in=3 || rank tracker (Ubersuggest project_position_info, Vietnam desktop, 2026-10-14): #8 \"motorbike rental deposit hanoi\" (worked on since: re-evaluate at the next snapshot) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -12328,7 +12835,7 @@
    "url": "/articles/expat-motorbike-licence-vietnam/",
    "current_title": "Vietnam Motorbike Licence for Long-Term Expats",
    "primary_keyword": "expat motorbike licence vietnam",
-   "secondary_keywords": "expats; licence; exchange; residence; law; vietnam",
+   "secondary_keywords": "Vietnam motorbike licence for foreigners; expats; licence; exchange; residence; law; vietnam",
    "search_intent": "informational",
    "topic_cluster": "law-licences / 11.2 foreigners",
    "content_quality": "strong (5/7)",
@@ -12345,17 +12852,17 @@
    "url": "/articles/expats-monthly-motorbike-hanoi/",
    "current_title": "Monthly Motorbike Rental for Expats Living in Hanoi",
    "primary_keyword": "expat monthly motorbike rental hanoi",
-   "secondary_keywords": "expats; monthly; motorbike; hanoi; long; term",
+   "secondary_keywords": "Hanoi motorbike rental for expats; expats; monthly; motorbike; hanoi; long; term",
    "search_intent": "commercial",
    "topic_cluster": "monthly-rental / 2.4 renter-lifestyles",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 6 body + 5 related cards; in: 2 related + 3 body + hub listing",
+   "internal_links": "out: 6 body + 5 related cards; in: 2 related + 4 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - hand-edited contextual links on the remaining commercial rental/monthly-rental pages (pricing, monthly, deposit, licence, contact); no facts changed; 4 bare slug reference(s) converted to contextual links",
-   "evidence": "title_len=51; desc_len=150 || words=314; h2=5; tables=0; sources=1; body_links=6 || related_out=5; related_in=2; body_in=3 || plan MM-0111 (owner-history+gsc): Cluster 1 covers the settling-in rental; this covers monthly rental as ongoing expat life || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=51; desc_len=150 || words=314; h2=5; tables=0; sources=1; body_links=6 || related_out=5; related_in=2; body_in=4 || plan MM-0111 (owner-history+gsc): Cluster 1 covers the settling-in rental; this covers monthly rental as ongoing expat life || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -15150,7 +15657,7 @@
    "url": "/articles/honda-vision-110-review/",
    "current_title": "Honda Vision 110 Review: Vietnam's Default City Scooter",
    "primary_keyword": "honda vision 110 review",
-   "secondary_keywords": "honda vision; scooter review; 110cc scooter; hanoi",
+   "secondary_keywords": "Honda Vision rental Hanoi; honda vision; scooter review; 110cc scooter; hanoi",
    "search_intent": "informational",
    "topic_cluster": "scooters / 3.1 model-reviews",
    "content_quality": "strong (6/7)",
@@ -15160,7 +15667,7 @@
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - in-silo links or same-silo related cards (batch matrix-queue-2)",
-   "evidence": "title_len=55; desc_len=159 || words=532; h2=6; tables=0; sources=2; body_links=10 || related_out=6; related_in=15; body_in=2 || plan MM-0392 (manufacturer-research): Deep model review with verified Honda VN specs; rental article covers rates only || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=55; desc_len=159 || words=532; h2=6; tables=0; sources=2; body_links=10 || related_out=6; related_in=15; body_in=2 || plan MM-0392 (manufacturer-research): Deep model review with verified Honda VN specs; rental article covers rates only || ownership note: Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). Availability of any model: contact us to confirm. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -15677,7 +16184,7 @@
    "url": "/articles/how-deposit-returns-work-hanoi/",
    "current_title": "How Deposit Returns Work at Hanoi Motorbike Rentals",
    "primary_keyword": "when do you get motorbike rental deposit back",
-   "secondary_keywords": "deposit return; refund; walk-around; hanoi; rental",
+   "secondary_keywords": "Motorbike rental deposit Hanoi; deposit return; refund; walk-around; hanoi; rental",
    "search_intent": "informational",
    "topic_cluster": "rental / 1.3 rental-practicalities",
    "content_quality": "strong (5/7)",
@@ -15869,12 +16376,12 @@
    "topic_cluster": "rental / 1.1 how-to-rent",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 14 body + 6 related cards; in: 37 related + 9 body + hub listing",
+   "internal_links": "out: 15 body + 6 related cards; in: 37 related + 9 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - batch 1: title 69->54 chars, description tightened, 11 contextual links incl. hub; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
-   "evidence": "title_len=54; desc_len=160 || words=491; h2=6; tables=0; sources=1; body_links=14 || related_out=6; related_in=37; body_in=9 || recorded metrics: {\"keyword\":\"rent motorbike hanoi\",\"volume\":2900,\"cpc_usd\":0.32,\"paid_difficulty\":34,\"source\":\"Ubersuggest 2026-10-14\"}",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=54; desc_len=160 || words=510; h2=6; tables=0; sources=1; body_links=15 || related_out=6; related_in=37; body_in=9 || recorded metrics: {\"keyword\":\"rent motorbike hanoi\",\"volume\":2900,\"cpc_usd\":0.32,\"paid_difficulty\":34,\"source\":\"Ubersuggest 2026-10-14\"}",
    "type": "article"
   },
   {
@@ -16017,7 +16524,7 @@
    "url": "/articles/idp-vietnam-motorbike-rules/",
    "current_title": "International Driving Permits in Vietnam: Motorbike IDP Rules",
    "primary_keyword": "international driving permits in vietnam",
-   "secondary_keywords": "International licence Vietnam; idp; licence; law; vietnam; tourists",
+   "secondary_keywords": "International licence Vietnam; International driving permit Vietnam motorbike; idp; licence; law; vietnam; tourists",
    "search_intent": "informational",
    "topic_cluster": "law-licences / 11.2 foreigners",
    "content_quality": "strong (5/7)",
@@ -16027,7 +16534,7 @@
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - title rewritten to <=65 chars, primary keyword kept, near-duplicate pairs differentiated (can-tourists-rent-a-motorbike-hanoi kept free of the word licence so the Guide Assistant keeps answering the tourist-licence question from the licence paragraph); meta description rewritten to <=165 chars with the primary keyword and a direct answer; first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=61; desc_len=140 || words=332; h2=3; tables=0; sources=3; body_links=2 || related_out=4; related_in=17; body_in=14 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=61; desc_len=140 || words=332; h2=3; tables=0; sources=3; body_links=2 || related_out=4; related_in=17; body_in=14 || ownership note: Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -17093,12 +17600,12 @@
    "topic_cluster": "monthly-rental / 2.1 monthly-basics",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 19 body + 5 related cards; in: 25 related + 7 body + hub listing",
+   "internal_links": "out: 20 body + 5 related cards; in: 25 related + 8 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - batch 1: hub link, 12 bare slug refs converted, cluster jargon removed; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
-   "evidence": "title_len=47; desc_len=152 || words=528; h2=5; tables=0; sources=1; body_links=19 || related_out=5; related_in=25; body_in=7 || plan MM-0082 (owner-history+gsc): Cluster 1 covers the rental transaction; this covers the monthly product: terms, cadence, what changes at month scale || recorded metrics: {\"keyword\":\"monthly motorbike rental hanoi\",\"volume\":0,\"note\":\"tool has no volume data; owner history records monthly rental as a recurring real enquiry theme\",\"source\":\"Ubersuggest 2026-10-14\"}",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=47; desc_len=152 || words=556; h2=5; tables=0; sources=1; body_links=20 || related_out=5; related_in=25; body_in=8 || plan MM-0082 (owner-history+gsc): Cluster 1 covers the rental transaction; this covers the monthly product: terms, cadence, what changes at month scale || recorded metrics: {\"keyword\":\"monthly motorbike rental hanoi\",\"volume\":0,\"note\":\"tool has no volume data; owner history records monthly rental as a recurring real enquiry theme\",\"source\":\"Ubersuggest 2026-10-14\"}",
    "type": "article"
   },
   {
@@ -17659,24 +18166,24 @@
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "LINKS_REPAIRED 2026-10-14 - 8 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=55; desc_len=150 || words=429; h2=7; tables=0; sources=1; body_links=8 || related_out=5; related_in=8; body_in=8 || plan MM-0098 (owner-history): Rental price plus real running costs at month scale; a budgeting article, not a price list || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=55; desc_len=150 || words=429; h2=7; tables=0; sources=1; body_links=8 || related_out=5; related_in=8; body_in=8 || plan MM-0098 (owner-history): Rental price plus real running costs at month scale; a budgeting article, not a price list || rank tracker (Ubersuggest project_position_info, Vietnam desktop, 2026-10-14): #66 \"motorbike rental hanoi price\" || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
    "url": "/articles/motorbike-rental-deposit-hanoi/",
    "current_title": "Motorbike Rental Deposits in Hanoi: Typical Amounts and Return",
    "primary_keyword": "motorbike rental deposit hanoi",
-   "secondary_keywords": "Hanoi motorbike rental prices; deposit; security deposit; rental; hanoi; money",
+   "secondary_keywords": "Motorbike rental deposit Hanoi; Hanoi motorbike rental prices; deposit; security deposit; rental; hanoi; money",
    "search_intent": "informational",
    "topic_cluster": "rental / 1.1 how-to-rent",
    "content_quality": "adequate (4/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 1 body + 5 related cards; in: 17 related + 19 body + hub listing",
+   "internal_links": "out: 2 body + 5 related cards; in: 17 related + 19 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; descriptive guide references resolved into contextual links (scripts/link-guide-references.js)",
-   "evidence": "title_len=62; desc_len=137 || words=370; h2=5; tables=0; sources=1; body_links=1 || related_out=5; related_in=17; body_in=19 || plan MM-0004 (owner-history+gsc): Each answers a different step of the rental process; no two cover the same step || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=62; desc_len=137 || words=386; h2=5; tables=0; sources=1; body_links=2 || related_out=5; related_in=17; body_in=19 || plan MM-0004 (owner-history+gsc): Each answers a different step of the rental process; no two cover the same step || ownership note: Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). Google ranks the passport-deposit article (#8) first; the deposit guide is the declared owner. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -17734,17 +18241,17 @@
    "url": "/articles/motorbike-rental-expats-moving-hanoi/",
    "current_title": "Motorbike Rental for Expats Moving to Hanoi",
    "primary_keyword": "motorbike rental for expats hanoi",
-   "secondary_keywords": "expats; relocation; monthly rental; licence; hanoi",
+   "secondary_keywords": "Hanoi motorbike rental for expats; expats; relocation; monthly rental; licence; hanoi",
    "search_intent": "commercial",
    "topic_cluster": "rental / 1.4 renter-situations",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 11 body + 7 related cards; in: 2 related + 3 body + hub listing",
+   "internal_links": "out: 12 body + 7 related cards; in: 2 related + 4 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "LINKS_REPAIRED 2026-10-14 - 11 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=43; desc_len=147 || words=521; h2=7; tables=0; sources=1; body_links=11 || related_out=7; related_in=2; body_in=3 || plan MM-0057 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=43; desc_len=159 || words=534; h2=7; tables=0; sources=1; body_links=12 || related_out=7; related_in=2; body_in=4 || plan MM-0057 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || ownership note: Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). The best-bike-for-expats guide ranks (#14); the expat rental guide is the declared owner. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -17824,29 +18331,29 @@
    "topic_cluster": "rental / 1.1 how-to-rent",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 7 body + 5 related cards; in: 18 related + 20 body + hub listing",
+   "internal_links": "out: 8 body + 5 related cards; in: 18 related + 20 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - batch 1: description tightened, contextual links incl. Old Quarter/Tay Ho delivery",
-   "evidence": "title_len=57; desc_len=159 || words=362; h2=5; tables=0; sources=1; body_links=7 || related_out=5; related_in=18; body_in=20 || plan MM-0012 (owner-history+gsc): Each answers a different step of the rental process; no two cover the same step || ownership note: Delivery may be available depending on location and arrangement; never promise free delivery, fixed fees or delivery times. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=57; desc_len=159 || words=383; h2=5; tables=0; sources=1; body_links=8 || related_out=5; related_in=18; body_in=20 || plan MM-0012 (owner-history+gsc): Each answers a different step of the rental process; no two cover the same step || ownership note: Delivery may be available depending on location and arrangement; never promise free delivery, fixed fees or delivery times. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
    "url": "/articles/motorbike-rental-price-hanoi/",
    "current_title": "How Much Does It Cost to Rent a Motorbike in Hanoi?",
    "primary_keyword": "Hanoi motorbike rental prices",
-   "secondary_keywords": "Cheap motorbike rental Hanoi; Hanoi motorbike rental cost; Scooter rental Vietnam price; Hanoi motorbike rental; rental prices; cost; day rate; week rate; month rate",
+   "secondary_keywords": "Cheap motorbike rental Hanoi; Hanoi motorbike rental cost; Scooter rental Vietnam price; How much to rent a motorbike in Hanoi; Hanoi motorbike rental; rental prices; cost; day rate; week rate; month rate",
    "search_intent": "commercial",
    "topic_cluster": "rental / 1.1 how-to-rent",
-   "content_quality": "strong (6/7)",
+   "content_quality": "strong (7/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 8 body + 5 related cards; in: 18 related + 18 body + hub listing",
+   "internal_links": "out: 9 body + 5 related cards; in: 18 related + 19 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - batch 1: description tightened, contextual links, FAQ section from OWNER-FACTS prices",
-   "evidence": "title_len=51; desc_len=145 || words=444; h2=6; tables=1; sources=1; body_links=8 || related_out=5; related_in=18; body_in=18 || plan MM-0020 (owner-history+gsc): Each answers a different step of the rental process; no two cover the same step || ownership note: Served by the published price table only; no discount or promotion wording (OWNER-FACTS). / The only verified rental prices on the site are the Hanoi rates in docs/OWNER-FACTS.md. || recorded metrics: {\"keyword\":\"motorbike rental hanoi price\",\"volume\":10,\"also\":{\"scooter rental hanoi price\":20},\"source\":\"Ubersuggest 2026-10-14\",\"openseo_us\":{\"tool\":\"OpenSEO/DataForSEO US\",\"date\":\"2026-10-14\",\"cheap motorbike rental hanoi\":{\"volume\":10},\"hanoi motorbike rental cost\":{\"volume\":10}},\"paa\":\"How much is bike rental in Hanoi? (People Also Ask, OpenRush 2026-10-14)\"}",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=51; desc_len=145 || words=468; h2=6; tables=1; sources=1; body_links=9 || related_out=5; related_in=18; body_in=19 || plan MM-0020 (owner-history+gsc): Each answers a different step of the rental process; no two cover the same step || ownership note: Served by the published price table only; no discount or promotion wording (OWNER-FACTS). / The only verified rental prices on the site are the Hanoi rates in docs/OWNER-FACTS.md. / Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). The tourist essentials guide ranks (#10); the price guide carries the published rates. || recorded metrics: {\"keyword\":\"motorbike rental hanoi price\",\"volume\":10,\"also\":{\"scooter rental hanoi price\":20},\"source\":\"Ubersuggest 2026-10-14\",\"openseo_us\":{\"tool\":\"OpenSEO/DataForSEO US\",\"date\":\"2026-10-14\",\"cheap motorbike rental hanoi\":{\"volume\":10},\"hanoi motorbike rental cost\":{\"volume\":10}},\"paa\":\"How much is bike rental in Hanoi? (People Also Ask, OpenRush 2026-10-14)\"}",
    "type": "article"
   },
   {
@@ -17858,29 +18365,29 @@
    "topic_cluster": "rental / 1.1 how-to-rent",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 9 body + 5 related cards; in: 5 related + 5 body + hub listing",
+   "internal_links": "out: 10 body + 5 related cards; in: 5 related + 7 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-15 - licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4)",
-   "evidence": "title_len=63; desc_len=163 || words=373; h2=4; tables=0; sources=1; body_links=9 || related_out=5; related_in=5; body_in=5 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=63; desc_len=163 || words=390; h2=4; tables=0; sources=1; body_links=10 || related_out=5; related_in=5; body_in=7 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
    "url": "/articles/motorbike-rental-tourists-hanoi-essentials/",
    "current_title": "Motorbike Rental for Tourists Visiting Hanoi: The Essentials",
    "primary_keyword": "motorbike rental for tourists hanoi",
-   "secondary_keywords": "Hanoi motorbike rental for foreigners; tourists; hanoi; essentials; first visit; motorbike rental",
+   "secondary_keywords": "Hanoi motorbike rental for foreigners; Renting a motorbike in Hanoi as a tourist; tourists; hanoi; essentials; first visit; motorbike rental",
    "search_intent": "commercial",
    "topic_cluster": "rental / 1.4 renter-situations",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 12 body + 6 related cards; in: 2 related + 3 body + hub listing",
+   "internal_links": "out: 15 body + 6 related cards; in: 2 related + 4 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "LINKS_REPAIRED 2026-10-14 - 12 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=60; desc_len=153 || words=520; h2=6; tables=0; sources=1; body_links=12 || related_out=6; related_in=2; body_in=3 || plan MM-0056 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=60; desc_len=160 || words=568; h2=6; tables=0; sources=1; body_links=15 || related_out=6; related_in=2; body_in=4 || plan MM-0056 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || rank tracker (Ubersuggest project_position_info, Vietnam desktop, 2026-10-14): #10 \"how much to rent a motorbike in hanoi\" (worked on since: re-evaluate at the next snapshot) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -19655,17 +20162,17 @@
    "url": "/articles/renting-motorbike-noi-bai-arrival/",
    "current_title": "Renting a Motorbike When You Arrive at Noi Bai Airport",
    "primary_keyword": "motorbike rental hanoi airport arrival",
-   "secondary_keywords": "noi bai; airport; arrival; pickup; hanoi",
+   "secondary_keywords": "Motorbike rental Noi Bai airport; noi bai; airport; arrival; pickup; hanoi",
    "search_intent": "informational",
    "topic_cluster": "rental / 1.4 renter-situations",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 7 body + 6 related cards; in: 2 related + 1 body + hub listing",
+   "internal_links": "out: 8 body + 6 related cards; in: 2 related + 6 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "LINKS_REPAIRED 2026-10-14 - 7 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=54; desc_len=157 || words=463; h2=6; tables=0; sources=1; body_links=7 || related_out=6; related_in=2; body_in=1 || plan MM-0069 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=54; desc_len=157 || words=492; h2=6; tables=0; sources=1; body_links=8 || related_out=6; related_in=2; body_in=6 || plan MM-0069 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1.2) || ownership note: Tracked keyword (Ubersuggest rank tracker, Vietnam, desktop; first snapshot 2026-10-14). The ranking page (#9) is the riding-to-the-airport guide; the arrival guide is the rental answer. || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -19675,14 +20182,14 @@
    "secondary_keywords": "Hanoi Old Quarter motorbike rental; old quarter; hoan kiem; city centre; narrow streets; hanoi",
    "search_intent": "commercial",
    "topic_cluster": "rental / 1.5 area-guides",
-   "content_quality": "strong (6/7)",
+   "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 9 body + 7 related cards; in: 5 related + 4 body + hub listing",
+   "internal_links": "out: 12 body + 7 related cards; in: 5 related + 4 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - batch 1: rental-process sentence + hub link, bare slug refs converted; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1); in-silo links or same-silo related cards (batch matrix-queue-2)",
-   "evidence": "title_len=58; desc_len=158 || words=508; h2=6; tables=0; sources=1; body_links=9 || related_out=7; related_in=5; body_in=4 || plan MM-0072 (gsc+owner-history): Genuine area context (distances, roads, parking, delivery practicality) — not doorway spins; each district has unique geography/logistics || recorded metrics: {\"keyword\":\"motorbike rental hanoi old quarter\",\"volume\":40,\"cpc_usd\":0.365,\"paid_difficulty\":63,\"also\":{\"scooter rental hanoi old quarter\":20},\"source\":\"Ubersuggest 2026-10-14\",\"openseo_us\":{\"tool\":\"OpenSEO/DataForSEO US\",\"date\":\"2026-10-14\",\"motorbike rental hanoi old quarter\":{\"volume\":10}}}",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=58; desc_len=163 || words=575; h2=6; tables=0; sources=1; body_links=12 || related_out=7; related_in=5; body_in=4 || plan MM-0072 (gsc+owner-history): Genuine area context (distances, roads, parking, delivery practicality) — not doorway spins; each district has unique geography/logistics || rank tracker (Ubersuggest project_position_info, Vietnam desktop, 2026-10-14): #4 \"motorbike rental hanoi old quarter\" (worked on since: re-evaluate at the next snapshot) || recorded metrics: {\"keyword\":\"motorbike rental hanoi old quarter\",\"volume\":40,\"cpc_usd\":0.365,\"paid_difficulty\":63,\"also\":{\"scooter rental hanoi old quarter\":20},\"source\":\"Ubersuggest 2026-10-14\",\"openseo_us\":{\"tool\":\"OpenSEO/DataForSEO US\",\"date\":\"2026-10-14\",\"motorbike rental hanoi old quarter\":{\"volume\":10}}}",
    "type": "article"
   },
   {
@@ -19779,12 +20286,12 @@
    "topic_cluster": "rental / 1.4 renter-situations",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 10 body + 6 related cards; in: 1 related + 4 body + hub listing",
+   "internal_links": "out: 10 body + 6 related cards; in: 1 related + 5 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "LINKS_REPAIRED 2026-10-14 - 10 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js)",
-   "evidence": "title_len=39; desc_len=146 || words=545; h2=8; tables=0; sources=1; body_links=10 || related_out=6; related_in=1; body_in=4 || plan MM-0065 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1\n.2) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=39; desc_len=146 || words=545; h2=8; tables=0; sources=1; body_links=10 || related_out=6; related_in=1; body_in=5 || plan MM-0065 (owner-history): Each targets a distinct renter persona; personas are not bike-choice questions (that is 1\n.2) || rank tracker (Ubersuggest project_position_info, Vietnam desktop, 2026-10-14): #17 \"motorbike rental requirements hanoi\" (worked on since: re-evaluate at the next snapshot) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -20255,12 +20762,12 @@
    "topic_cluster": "hanoi / 12.2 city-routes-landmarks",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 2 body + 7 related cards; in: 3 related + 0 body + hub listing",
+   "internal_links": "out: 3 body + 7 related cards; in: 3 related + 2 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=65; desc_len=160 || words=602; h2=5; tables=0; sources=1; body_links=2 || related_out=7; related_in=3; body_in=0 || plan MM-0806 (skeleton+research): Route, timing and parking guide for the ride itself; the rental article covers arranging a bike on arrival || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=65; desc_len=160 || words=637; h2=5; tables=0; sources=1; body_links=3 || related_out=7; related_in=3; body_in=2 || plan MM-0806 (skeleton+research): Route, timing and parking guide for the ride itself; the rental article covers arranging a bike on arrival || rank tracker (Ubersuggest project_position_info, Vietnam desktop, 2026-10-14): #9 \"motorbike rental noi bai airport\" (worked on since: re-evaluate at the next snapshot) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -22856,12 +23363,12 @@
    "topic_cluster": "law-licences / 11.1 licence-system",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 2 body + 5 related cards; in: 5 related + 4 body + hub listing",
+   "internal_links": "out: 2 body + 5 related cards; in: 5 related + 5 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; first in-body contextual links for every article whose only internal links were related cards: 1-3 links per article on existing phrases to the article's own declared related guides (or a topic hub); no prose, fact or figure changed except one double space",
-   "evidence": "title_len=40; desc_len=120 || words=346; h2=4; tables=0; sources=3; body_links=2 || related_out=5; related_in=5; body_in=4 || plan LAW-0019 (gsc+legal-research): Big-bike class A; A1 article stops at 125cc || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=40; desc_len=120 || words=346; h2=4; tables=0; sources=3; body_links=2 || related_out=5; related_in=5; body_in=5 || plan LAW-0019 (gsc+legal-research): Big-bike class A; A1 article stops at 125cc || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -22958,12 +23465,12 @@
    "topic_cluster": "law-licences / 11.1 licence-system",
    "content_quality": "strong (7/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 1 body + 5 related cards; in: 17 related + 29 body + hub listing",
+   "internal_links": "out: 3 body + 5 related cards; in: 17 related + 30 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer",
-   "evidence": "title_len=55; desc_len=141 || words=517; h2=4; tables=1; sources=3; body_links=1 || related_out=5; related_in=17; body_in=29 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=55; desc_len=141 || words=540; h2=4; tables=1; sources=3; body_links=3 || related_out=5; related_in=17; body_in=30 || rank tracker (Ubersuggest project_position_info, Vietnam desktop, 2026-10-14): #17 \"a1 licence vietnam\" (worked on since: re-evaluate at the next snapshot) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -23468,12 +23975,12 @@
    "topic_cluster": "50cc / 6.1 understanding-50cc",
    "content_quality": "strong (5/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 2 body + 4 related cards; in: 7 related + 1 body + hub listing",
+   "internal_links": "out: 3 body + 4 related cards; in: 7 related + 2 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
-   "status": "OPTIMIZED 2026-10-14 - meta description rewritten to <=165 chars with the primary keyword and a direct answer; descriptive guide references resolved into contextual links, pass 2 (reviewed override map + same-cluster fallback; scripts/link-guide-references.js)",
-   "evidence": "title_len=65; desc_len=165 || words=438; h2=5; tables=0; sources=2; body_links=2 || related_out=4; related_in=7; body_in=1 || plan MM-0665 (general-research): Legal-category definition hub article; licence article covers only the licence question, not what the category is || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "status": "OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5)",
+   "evidence": "title_len=65; desc_len=165 || words=439; h2=5; tables=0; sources=2; body_links=3 || related_out=4; related_in=7; body_in=2 || plan MM-0665 (general-research): Legal-category definition hub article; licence article covers only the licence question, not what the category is || rank tracker (Ubersuggest project_position_info, Vietnam desktop, 2026-10-14): #11 \"50cc motorbike vietnam licence\" (worked on since: re-evaluate at the next snapshot) || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "type": "article"
   },
   {
@@ -23650,7 +24157,7 @@
    "url": "/articles/which-countries-idp-valid-vietnam/",
    "current_title": "Which Countries' IDPs Work in Vietnam",
    "primary_keyword": "which countries idps work in vietnam",
-   "secondary_keywords": "1949 IDP Vietnam; American licence Vietnam; International licence Vietnam; idp; countries; vienna convention; licence; law; vietnam",
+   "secondary_keywords": "1949 IDP Vietnam; American licence Vietnam; International licence Vietnam; International driving permit Vietnam motorbike; idp; countries; vienna convention; licence; law; vietnam",
    "search_intent": "informational",
    "topic_cluster": "law-licences / 11.2 foreigners",
    "content_quality": "strong (5/7)",
@@ -24624,7 +25131,7 @@
    "topic_cluster": "site / utility",
    "content_quality": "n/a (utility page)",
    "cannibalization": "none detected",
-   "internal_links": "out: 4 body; in: nav/footer + 36 body",
+   "internal_links": "out: 4 body; in: nav/footer + 40 body",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",

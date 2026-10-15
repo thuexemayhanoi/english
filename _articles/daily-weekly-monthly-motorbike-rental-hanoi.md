@@ -18,6 +18,15 @@ last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
 internal_link_targets: "motorbike-rental-price-hanoi, returning-a-rental-motorbike-hanoi, best-motorbike-for-commuting-hanoi, motorbike-rental-deposit-hanoi, how-to-book-a-motorbike-rental-hanoi"
+faq:
+  - q: "Is monthly motorbike rental cheaper than daily in Hanoi?"
+    a: "Yes, where a monthly rate is published: a Honda Click or Yamaha Mio costs 1,000,000-1,200,000 VND a month against 150,000 VND a day, and a Honda Vision 1,800,000-2,000,000 VND against 200,000 VND a day."
+    link: "/articles/monthly-motorbike-rental-hanoi/"
+    link_text: "How monthly rental works"
+  - q: "When does weekly rental beat daily rental in Hanoi?"
+    a: "From about day five: on a Honda Click at 150,000 VND a day, five days costs 750,000 VND, already above the 600,000-700,000 VND weekly rate."
+    link: "/articles/weekly-vs-monthly-motorbike-rental-hanoi/"
+    link_text: "Weekly or monthly: the crossover"
 ---
 
 Choosing the rental period is arithmetic, not taste. The published Hanoi rates make the break-even points easy to see.
@@ -40,7 +49,7 @@ Longer rentals usually mean one deposit for the whole stay instead of repeated h
 
 ## Longer than a month
 
-Longer-term rental is negotiable - contact us to discuss longer-term rental directly rather than stacking month after month at the listed rate.
+For a stay of a month or more, [monthly motorbike rental in Hanoi]({{ '/articles/monthly-motorbike-rental-hanoi/' | relative_url }}) explains how a monthly agreement works. Longer-term rental is negotiable - contact us to discuss longer-term rental directly rather than stacking month after month at the listed rate.
 
 ## The one mistake to avoid
 

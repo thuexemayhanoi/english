@@ -44,7 +44,7 @@ Even for experienced riders, the airport road is an unfriendly first hour: fast 
 
 ## If your flight lands outside opening hours
 
-Plan the handover for the next morning inside 09:00–21:00; shops do not operate airport-style around-the-clock desks, and delivery cannot be arranged outside opening hours. An evening arrival simply means a next-morning bike.
+Plan the handover for the next morning inside 09:00–21:00; shops do not operate airport-style around-the-clock desks, and delivery cannot be arranged outside opening hours. An evening arrival simply means a next-morning bike. When your trip ends and you ride back to the terminal, [Riding a Motorbike to Noi Bai Airport: Routes, Timing and Parking]({{ '/articles/riding-motorbike-noi-bai-airport-hanoi/' | relative_url }}) covers the route, timing and airport parking.
 
 ## The one-line version
 

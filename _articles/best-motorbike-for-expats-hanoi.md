@@ -18,6 +18,19 @@ last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
 internal_link_targets: "best-motorbike-for-commuting-hanoi, renting-vs-buying-a-motorbike-hanoi, expat-motorbike-licence-vietnam, daily-weekly-monthly-motorbike-rental-hanoi, best-motorbike-for-hanoi-traffic"
+faq:
+  - q: "How much does a monthly motorbike rental cost for an expat in Hanoi?"
+    a: "Published monthly rates at Nguyen Tu are 1,800,000-2,000,000 VND for the Honda Vision and 1,000,000-1,200,000 VND for the Honda Click or Yamaha Mio; other models are quoted on request. One deposit is held for the period."
+    link: "/articles/motorbike-rental-monthly-price-hanoi/"
+    link_text: "See monthly prices"
+  - q: "Which licence does an expat need to ride in Hanoi?"
+    a: "A home motorcycle licence plus a 1968-convention IDP, or, the stronger option for a long stay, exchanging your licence for a Vietnamese one. The exchange takes weeks and a dossier and ends the licence question permanently."
+    link: "/articles/foreign-licence-exchange-documents-vietnam/"
+    link_text: "See the exchange dossier"
+  - q: "Can I rent a motorbike in Hanoi for longer than a month?"
+    a: "Yes. Longer-term rental beyond a month is negotiable: contact us to discuss it directly rather than stacking month after month at the listed rate."
+    link: "/contact/"
+    link_text: "Contact us"
 ---
 
 An expat's bike is an appliance: it runs daily, it must never be the week's problem, and the paperwork must survive a police stop. The best choice is a system, not just a machine.
@@ -32,7 +45,7 @@ Expats have the one thing visitors lack: time to do it right. The routes: a home
 
 ## The arrangement
 
-[Rent monthly]({{ '/articles/monthly-motorbike-rental-hanoi/' | relative_url }}) from a shop that maintains its fleet: oil changes, chain adjustment, tyre-pressure checks and normal inspection are the owner's side of the deal, and a monthly renter should have that scheduled rather than on-demand. One deposit held for the period. Longer-term rental beyond a month is negotiable - contact us to discuss it.
+[Rent monthly]({{ '/articles/monthly-motorbike-rental-hanoi/' | relative_url }}) from a shop that maintains its fleet: oil changes, chain adjustment, tyre-pressure checks and normal inspection are the owner's side of the deal, and a monthly renter should have that scheduled rather than on-demand. One deposit held for the period. Longer-term rental beyond a month is negotiable - contact us to discuss it. The rental side is covered in [Motorbike Rental for Expats Moving to Hanoi]({{ '/articles/motorbike-rental-expats-moving-hanoi/' | relative_url }}) and [Monthly Motorbike Rental for Expats Living in Hanoi]({{ '/articles/expats-monthly-motorbike-hanoi/' | relative_url }}).
 
 ## The one-year decision
 

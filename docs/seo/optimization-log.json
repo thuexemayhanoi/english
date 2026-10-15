@@ -1503,5 +1503,46 @@
    "coreStrong": 108,
    "coreWeak": 0
   }
+ },
+ {
+  "date": "2026-10-15",
+  "batch": "matrix-queue-5",
+  "rank_work": true,
+  "note": "First real position data (Ubersuggest rank tracker, Vietnam, desktop, snapshot 2026-10-14: 25 tracked keywords, 15 in the top 100, 5 on page 1, one at #3) ingested into docs/seo/keyword-evidence.json (_tracking.rank_snapshots and ai_visibility_snapshots) and used by the matrix engine: positions 4-20 are the quick-win band (P2), a different URL ranking than the declared owner is a cannibalisation signal, and a URL worked on after the snapshot (batches with rank_work) waits for the next snapshot. Hand work on the pages that already rank and on the owners they should feed, facts only from OWNER-FACTS or the pages themselves: 30 Common questions (FAQPage schema) on 11 pages; 4 descriptions that now carry the published daily rate or deposit; 21 contextual links between each ranking page and its declared owner (monthly, deposit, Noi Bai arrival, price, 50cc licence, A1, expats, requirements) including the rental hub; Contact us links on the passport, Old Quarter and tourist guides. 13 rank-tracked keywords declared in keyword-targets.json (tracked: true: served, never P1). No price, policy, address or legal statement changed; the VERIFIED licence pages only gained navigation links and questions that restate their own text.",
+  "urls": [
+   "/articles/50cc-licence-vietnam/",
+   "/articles/a1-licence-vietnam-what-you-can-ride/",
+   "/articles/best-motorbike-for-expats-hanoi/",
+   "/articles/can-tourists-rent-a-motorbike-hanoi/",
+   "/articles/daily-weekly-monthly-motorbike-rental-hanoi/",
+   "/articles/do-rentals-keep-your-passport-hanoi/",
+   "/articles/how-to-rent-a-motorbike-hanoi/",
+   "/articles/monthly-motorbike-rental-hanoi/",
+   "/articles/motorbike-rental-deposit-hanoi/",
+   "/articles/motorbike-rental-pickup-or-delivery-hanoi/",
+   "/articles/motorbike-rental-price-hanoi/",
+   "/articles/motorbike-rental-tourists-hanoi-essentials/",
+   "/articles/renting-motorbike-noi-bai-arrival/",
+   "/articles/renting-motorbike-old-quarter/",
+   "/articles/renting-motorbikes-group-hanoi/",
+   "/articles/riding-motorbike-noi-bai-airport-hanoi/",
+   "/articles/vietnam-motorbike-licence-classes-explained/",
+   "/articles/what-is-a-50cc-motorbike-vietnam/",
+   "/topics/rental/",
+   "/articles/motorbike-rental-expats-moving-hanoi/",
+   "/articles/motorbike-rental-requirements-hanoi/"
+  ],
+  "counts": {
+   "trackedKeywords": 25,
+   "ranking": 15,
+   "page1": 5,
+   "top3": 1,
+   "quickWinUrls": 9,
+   "ownerMismatches": 8,
+   "faqAdded": 30,
+   "linksAdded": 21,
+   "descriptionsRewritten": 4,
+   "trackedKeywordsDeclared": 13
+  }
  }
 ]

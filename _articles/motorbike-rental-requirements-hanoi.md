@@ -58,4 +58,4 @@ Shops may decline very young riders, riders who cannot demonstrate basic control
 
 Bring the passport, bring a valid licence combination, budget the deposit, and the requirements are met. [Confirm current bike availability]({{ '/contact/' | relative_url }}) with the shop before you travel - stock changes week to week.
 
-Visiting as a tourist or studying here? The [tourist essentials]({{ '/articles/motorbike-rental-tourists-hanoi-essentials/' | relative_url }}) and [international students]({{ '/articles/motorbike-rental-international-students-hanoi/' | relative_url }}) guides apply these requirements to each situation.
+Visiting as a tourist or studying here? The [tourist essentials]({{ '/articles/motorbike-rental-tourists-hanoi-essentials/' | relative_url }}) and [international students]({{ '/articles/motorbike-rental-international-students-hanoi/' | relative_url }}) guides apply these requirements to each situation. Going as a group? Every rider needs these documents: see [Renting Motorbikes for a Group in Hanoi]({{ '/articles/renting-motorbikes-group-hanoi/' | relative_url }}).

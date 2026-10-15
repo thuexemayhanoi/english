@@ -45,7 +45,7 @@ To ride legally you need a [licence that is valid in Vietnam]({{ '/topics/law-li
 
 ## Step 3: Contact the shop and confirm availability
 
-[Message ahead]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) - WhatsApp or Zalo on +84 942 467 674, or walk in. Ask two things: is the model you want available on your dates, and what are the [current rates]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}). Availability of any specific model changes week to week, so confirm before you plan around it. Nguyen Tu is at 112 Nguyen Van Cu Street, Bo De, Long Bien, open 09:00-21:00 daily.
+[Message ahead]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) - WhatsApp or Zalo on +84 942 467 674, or walk in. Ask two things: is the model you want available on your dates, and what are the [current rates]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}). Availability of any specific model changes week to week, so confirm before you plan around it. Nguyen Tu is at 112 Nguyen Van Cu Street, Bo De, Long Bien, open 09:00-21:00 daily. Landing at the airport first? [Renting a Motorbike When You Arrive at Noi Bai Airport]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) covers the first day.
 
 ## Step 4: Agree the terms before money moves
 

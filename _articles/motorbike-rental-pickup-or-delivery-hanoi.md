@@ -28,7 +28,7 @@ Collecting the bike yourself at 112 Nguyen Van Cu Street, Long Bien, means you s
 
 ## Delivery: the convenience option
 
-Delivery to your hotel or address in Hanoi may be available depending on location and arrangement - it is agreed case by case, within opening hours (09:00-21:00 daily). There is no published fixed delivery fee; agree the cost with the shop [when you book]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}), not when the bike arrives. Delivery suits renters already settled somewhere far from the shop, or anyone on a tight schedule.
+Delivery to your hotel or address in Hanoi may be available depending on location and arrangement - it is agreed case by case, within opening hours (09:00-21:00 daily). There is no published fixed delivery fee; agree the cost with the shop [when you book]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}), not when the bike arrives. Delivery suits renters already settled somewhere far from the shop, or anyone on a tight schedule. Arriving at Noi Bai Airport? [Renting a Motorbike When You Arrive at Noi Bai Airport]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) explains how handover works after landing.
 
 ## How delivery changes the handover
 
