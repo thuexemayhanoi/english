@@ -11,6 +11,7 @@ Generated 2026-10-15 by `scripts/english-seo-matrix.js` from the backlink eviden
 - backlinks: 28
 - referring_domains: 23
 - source: Ubersuggest domain_overview, 2026-10-14
+- rank tracker (Ubersuggest project_position_info, Vietnam desktop, 2026-10-14): 15 of 25 tracked keywords in the top 100, 1 in the top 3 (positions only; the domain overview above lags the rank tracker, so its zero organic keywords is not the current position)
 
 ## Competitor link profiles
 

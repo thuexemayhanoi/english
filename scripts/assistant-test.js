@@ -79,23 +79,16 @@ function buildIndexEmulated() {
       });
     });
   }
-  // FAQ (include body, Liquid links resolved to baseurl)
-  const faqBody = fs.readFileSync(path.join(ROOT, '_includes/faq-body.html'), 'utf8')
-    .replace(/\{\{\s*'([^']*)'\s*\|\s*relative_url\s*\}\}/g, (m, p) => BASEURL + p);
-  const faqsecs = faqBody.split('<h2');
-  faqsecs.forEach((fsec, i) => {
-    if (i === 0) return;
-    const sidm = fsec.match(/id="([^"]*)"/);
-    if (!sidm) return;
-    const faqurl = BASEURL + '/faq/#' + sidm[1];
-    const h3s = fsec.split('<h3>');
-    h3s.forEach((item, j) => {
-      if (j === 0) return;
-      const qa = item.split('</h3>');
-      const q = qa[0].trim();
-      const rest = qa.slice(1).join('');
-      const ansP = rest.split('</p>')[0];
-      const ans = ansP.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+  // FAQ: _includes/faq-body.html renders _data/faq.json (one h3/p unit per item), and
+  // assistant-index.json splits that rendered HTML. Emulate the rendered units from the
+  // data file itself: reading the raw include would only see the Liquid loop template.
+  const faqData = JSON.parse(fs.readFileSync(path.join(ROOT, '_data/faq.json'), 'utf8'));
+  (faqData.sections || []).forEach(sec => {
+    const faqurl = BASEURL + '/faq/#' + sec.id;
+    (sec.items || []).forEach(item => {
+      const q = String(item.q || '').trim();
+      const rendered = '<p>' + String(item.a || '').replace(/@@/g, BASEURL) + '</p>';
+      const ans = rendered.split('</p>')[0].replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
       if (!q || !ans) return;
       chunks.push({ t: 'Hanoi Motorbike Rental FAQ', h: q, x: ans, u: faqurl,
         topic: 'faq', tags: [], st: 'faq', rs: null, qa: true });
