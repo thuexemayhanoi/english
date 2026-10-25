@@ -1,6 +1,7 @@
 ---
 layout: cluster
 title: Monthly Motorbike Rental
+title_tag: "Monthly and Long-Term Motorbike Rental in Hanoi"
 permalink: /topics/monthly-rental/
 topic_cluster: monthly-rental
 description: "Monthly and long-term motorbike rental in Hanoi for expats, teachers, students and nomads: prices, deposits, agreements and maintenance."

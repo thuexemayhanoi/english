@@ -45,7 +45,7 @@ description: "Contact Hanoi Motorbike Rental Nguyen Tu: address in Long Bien, Ha
     </div>
     <p class="map-address">112 Nguyen Van Cu Street, Bo De, Long Bien, Hanoi, Vietnam</p>
     <p class="map-hours">09:00&ndash;21:00 daily</p>
-    <a class="map-link" href="https://maps.app.goo.gl/A4zJyfbc37eTHveY8?g_st=ic" rel="noopener">Open in Google Maps &rarr;</a>
+    <a class="map-link" href="https://maps.google.com/maps?cid=7448790013669858019" rel="noopener">Open in Google Maps &rarr;</a>
   </section>
 </div>
 
@@ -55,8 +55,9 @@ description: "Contact Hanoi Motorbike Rental Nguyen Tu: address in Long Bien, Ha
 {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
+  "@id": "https://en.rentbikehanoi.com/#organization",
   "name": "Hanoi Motorbike Rental Nguyen Tu",
-  "alternateName": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "alternateName": ["Thuê Xe Máy Hà Nội Nguyễn Tú", "Thuê xe máy ở Hà Nội - Nguyễn Tú"],
   "url": "https://thuexemaynguyentu.com/",
   "telephone": "+84 942 467 674",
   "address": {
@@ -71,6 +72,7 @@ description: "Contact Hanoi Motorbike Rental Nguyen Tu: address in Long Bien, Ha
     "opens": "09:00",
     "closes": "21:00"
   },
-  "hasMap": "https://maps.app.goo.gl/A4zJyfbc37eTHveY8?g_st=ic"
+  "geo": {"@type": "GeoCoordinates", "latitude": 21.0409957, "longitude": 105.8691971},
+  "hasMap": "https://maps.google.com/maps?cid=7448790013669858019"
 }
 </script>
