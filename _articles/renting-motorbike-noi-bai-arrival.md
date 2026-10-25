@@ -38,21 +38,21 @@ On a long-haul arrival the answer is no: start the rental on day two. A handover
 |---|---|---|
 | Long-haul flight, any landing time | Day two | Tiredness and weak concentration are the wrong start for Hanoi traffic |
 | Short flight from a nearby country, landing in the morning or early afternoon, and you feel rested | Ask whether a same-day handover can be arranged; take it only if you still feel sharp when the time comes | A same-day start gains a day only if you are fit to ride it |
-| Landing in the evening, or after the shop closes | Day two | Baggage, immigration and the transfer come first, and no handover is arranged outside opening hours |
+| Landing in the evening, or after the shop closes | Day two | Baggage, immigration and the transfer come first, and any handover has to fit the opening hours below |
 
 If the table says day two, waiting costs you one evening. If it says ask, treat the handover as optional until it happens; the test further down this page decides whether you accept it.
 
-On cost, the published day rates are 150,000 VND for the Honda Wave, Yamaha Sirius, Honda Click and Yamaha Mio, and 200,000 VND for the Honda Vision and Honda Air Blade. Ask how an arrival-day start would be counted before you agree to one, and contact us to confirm current availability of the model you want.
+On cost, the published day rates are 150,000 VND for the Honda Wave, Yamaha Sirius, Honda Click and Yamaha Mio, and 200,000 VND for the Honda Vision and Honda Air Blade. Ask how an arrival-day start would be counted before you agree to one.
 
 ## How your landing time meets the shop's opening hours
 
 ### The window you are planning around
 
-Nguyen Tu is open 09:00–21:00 daily, and delivery or pickup arrangements stay inside those hours: delivery is not offered outside them, whatever time your flight lands. There is no fixed delivery fee and no guaranteed delivery time, so agree any handover in writing and treat the time as a window, not an appointment. Do not tie it to a hotel check-in, a booked tour or anything else that cannot move.
+Nguyen Tu is open 09:00–21:00 daily, and delivery is not offered outside those hours, whatever time your flight lands. No fixed delivery fee or delivery time is published, so do not assume delivery is free; ask for any cost as an amount in the booking chat. Agree any handover in writing and treat the time as a window, not an appointment. Do not tie it to a hotel check-in, a booked tour or anything else that cannot move.
 
 ### Working out your own window
 
-Start from your landing time and add what stands between the aircraft door and your bed. Baggage reclaim, and immigration on an international flight, come first, and the timetable cannot predict them. Then comes the transfer: Vietnam Airlines' guide says the journey from the airport to central Hanoi typically takes between 45 minutes and an hour, depending on traffic, and that travel times may be significantly longer in the peak hours. Check-in comes last. Whatever is left of the opening hours after that is all you have for a handover.
+Start from your landing time and add what stands between the aircraft door and your bed. Baggage reclaim, and immigration on an international flight, come first, and the timetable cannot predict them. Then comes the transfer: Vietnam Airlines' guide says the journey by car from the airport to central Hanoi typically takes between 45 minutes and an hour, depending on traffic, and that travel times may be significantly longer in the peak hours. Check-in comes last. Whatever is left of the opening hours after that is all you have for a handover.
 
 Imagine a flight that lands at 15:00. The car transfer alone adds the guide's 45 minutes to an hour, so before baggage and immigration are counted you reach the city at about 15:45 to 16:00, with check-in still to come. A handover would have to fit into what is left of the evening, and a rushed handover is how inspections get skipped.
 
@@ -60,13 +60,13 @@ A very early landing is the opposite problem: you reach the city before the shop
 
 ## From the terminal to your bed: the first leg
 
-Whatever you decide about the bike, you still need a way into the city. Vietnam Airlines' guide lists four: public buses, including an express bus; taxis; ride-hailing apps; and hotel airport pick-up services. The same guide says Terminal 2 handles all international flights and Terminal 1 is for domestic ones.
+Whatever you decide about the bike, you still need a way into the city. Vietnam Airlines' guide lists four: public buses; taxis; ride-hailing apps; and hotel airport pick-up services. The same guide says Terminal 2 is for international flights and Terminal 1 for domestic ones.
 
-Taxis are available directly outside the arrival hall on the ground floor. For a ride-hailing app, the guide says to confirm your exact pick-up location in the app before you request the ride. Hotel drivers usually wait inside the arrival hall holding a sign with the guest's name, so ask your hotel whether it offers pick-up.
+Vietnam Airlines' guide says taxis are available directly outside the arrival hall on the ground floor, and that hotel drivers usually wait at the arrival hall inside the terminal holding a sign with the guest's name, so ask your hotel whether it offers pick-up. For a ride-hailing app, the guide says to confirm your exact pick-up location in the app before you request the ride.
 
 The safety advice is worth following on a first visit. Use only registered taxi queues and licensed taxi companies, use confirmed ride-hailing bookings, and avoid offers from people inside the terminal who claim to be drivers, since such offers are "often unregulated with inflated prices". For a late landing, the guide says taxis are available at the airport at any hour but ride-hailing availability may decrease after midnight, so booking in advance is advisable.
 
-Fares and bus timetables change, so check them with the operator, the app or your accommodation rather than trusting a printed figure. The one option this guide rules out for arrival day is riding the bike yourself; [Riding a Motorbike to Noi Bai Airport: Routes, Timing and Parking]({{ '/articles/riding-motorbike-noi-bai-airport-hanoi/' | relative_url }}) covers that route and the reverse trip when you leave.
+Fares and bus timetables change, so check them with the operator, the app or your accommodation rather than trusting a printed figure. Riding a motorbike from the terminal is the one option this guide rules out for arrival day.
 
 ## Booking before you fly
 
@@ -85,15 +85,15 @@ The number for WhatsApp and Zalo is +84 942 467 674. If you are staying in the O
 Keep these in hand luggage rather than a checked bag:
 
 - your passport;
-- the licence you intend to ride on, with any permit that goes with it: whether a visitor may ride legally depends on the licence, and [Can Foreigners Rent a Motorbike in Hanoi?]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) sets out the options;
-- a payment route you have tested: for a bank transfer or QR payment, check that your banking app works from abroad, and for cash, decide where the Vietnamese dong will come from before day two;
-- your own insurance arrangements, because Nguyen Tu does not provide motorbike insurance and customers arrange their own.
+- the licence you intend to ride on, with any permit that goes with it: whether a visitor may ride legally depends on the licence, and [Can Foreigners Rent a Motorbike in Hanoi?]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) sets out the options.
+
+Also sort out a payment route you have tested before day two: for a bank transfer or QR payment, check that your banking app works from abroad, and for cash, decide where the Vietnamese dong will come from. Insurance is not provided by Nguyen Tu; customers arrange their own.
 
 [What Documents Do You Need to Rent a Motorbike in Hanoi?]({{ '/articles/documents-needed-rent-motorbike-hanoi/' | relative_url }}) sets out the rest, including what you do not need. Decide the licence question before you fly, not at the counter.
 
 ## Why riding straight from the airport is a bad idea
 
-Even for experienced riders, the airport road is an unfriendly first hour: fast traffic, big vehicles, and the wrong state of mind after a long flight. Jet lag and a first hour in Hanoi traffic are a poor combination. Give yourself a night, and start on the bike rested — the first-time flow is in [First Time Renting a Motorbike in Hanoi: A Beginner Walkthrough]({{ '/articles/first-time-renting-a-motorbike-hanoi/' | relative_url }}), and the traffic-readiness question in [Best Motorbike for Hanoi Traffic: What Actually Works]({{ '/articles/best-motorbike-for-hanoi-traffic/' | relative_url }}).
+Even for experienced riders, an unfamiliar road is a poor first hour after a long flight, and jet lag makes it worse. Give yourself a night, and start on the bike rested — the first-time flow is in [First Time Renting a Motorbike in Hanoi: A Beginner Walkthrough]({{ '/articles/first-time-renting-a-motorbike-hanoi/' | relative_url }}), and the traffic-readiness question in [Best Motorbike for Hanoi Traffic: What Actually Works]({{ '/articles/best-motorbike-for-hanoi-traffic/' | relative_url }}).
 
 ### What jet lag does to a rider
 
@@ -115,18 +115,6 @@ The transfer moves your luggage; the bike should not. A suitcase and a backpack 
 
 Before you arrive, ask your accommodation whether there is motorbike parking on site, a partner lot or only the street, whether it is watched overnight, and whether there is a charge; [Choosing a Hotel With Motorbike Parking in Hanoi]({{ '/articles/hotel-parking-motorbike-hanoi/' | relative_url }}) sets out the same questions. Tell the shop where the bike will be kept, take the key with you, and keep the handover photos and deposit receipt on your phone. Before you sign, ask how the rental agreement treats theft and loss.
 
-## Arrival day against the clock
-
-Each step in the plan that follows meets a different limit. The table sets them side by side and adds the steps before you fly.
-
-| Moment | The limit that applies | What to do |
-|---|---|---|
-| Before you fly | Every handover sits inside the shop's opening hours | Send your message; gather documents, a tested payment route and insurance |
-| Landing | International flights use Terminal 2, and the transfer time depends on traffic | Use a registered taxi, a confirmed booking, a bus or hotel pick-up, and do not ride |
-| Arrival evening | Tiredness, not the clock | Check in, ask about parking, sleep at night and confirm the day-two time by message |
-| Day two, handover | Inside opening hours, with no guaranteed time | Inspect, check the terms, pay the deposit and keep the receipt |
-| Day two, first ride | Daylight and a short distance | Ride a short loop near your accommodation |
-
 ## The first-24-hours plan
 
 1. Land, transfer, sleep — no riding decisions on arrival day
@@ -145,19 +133,19 @@ A delayed flight can push you across that line without warning. If your landing 
 
 ### Can I rent a motorbike at Noi Bai Airport?
 
-Plan on renting in the city. No airport handover is published for Nguyen Tu, and delivery and pickup in Hanoi may be available depending on location and arrangement. Contact us to confirm current availability for your dates.
+Plan on renting in the city. No airport handover is published for Nguyen Tu, and delivery and pickup in Hanoi may be available depending on location and arrangement.
 
 ### Can the bike be delivered when I land?
 
-Delivery is not offered outside 09:00–21:00, and there is no guaranteed delivery time or fixed fee. Nothing is published for the airport itself, so do not tie a handover to your landing time.
+Do not plan on it: nothing is published for delivery to the airport and no delivery time is published, so do not tie a handover to your landing time.
 
 ### Should I ride from the airport on the day I arrive?
 
-No. After a long flight, tiredness and weak concentration are the wrong start for an unfamiliar road. Use a licensed taxi, a confirmed booking, a bus or your hotel's pick-up, and collect the bike rested; [the airport riding guide]({{ '/articles/riding-motorbike-noi-bai-airport-hanoi/' | relative_url }}) covers the route for when you leave.
+No. After a long flight, tiredness and weak concentration are the wrong start for an unfamiliar road; take a registered taxi, a bus or your hotel's pick-up and collect the bike rested.
 
 ### What do I need to have with me?
 
-Your passport, the licence you will ride on, a payment route you have tested and your own insurance arrangements, because Nguyen Tu does not provide motorbike insurance. [The documents guide]({{ '/articles/documents-needed-rent-motorbike-hanoi/' | relative_url }}) has the detail.
+Your passport and the licence you will ride on, kept in hand luggage; the documents section above covers the rest.
 
 ## The one-line version
 

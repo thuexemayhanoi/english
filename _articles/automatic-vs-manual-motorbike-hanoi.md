@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23) — transmission type, engine size, tyre sizes and weight of the Honda Vision, Honda Air Blade 125, Honda Wave Alpha 110 and Yamaha Sirius RC 110"
+  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23) — transmission and engine size of the Honda Vision, Honda Air Blade 125, Honda Wave Alpha 110 and Yamaha Sirius RC 110; weight and tyre sizes of the Vision, Wave Alpha 110 and Sirius RC 110"
   - "https://www.honda.com.vn/xe-may — Honda Vietnam: Xe máy (motorbike range) — lists the categories Xe tay ga, Xe số and Xe côn tay, alongside Xe phân khối lớn (big bikes) and Xe Điện (electric) (retrieved 2026-10-25)"
 internal_link_targets: "best-motorbike-for-hanoi-traffic, scooter-vs-semi-automatic-hanoi, easiest-motorbikes-for-beginners-hanoi, best-scooters-to-rent-hanoi, first-time-renting-a-motorbike-hanoi, semi-automatic-gearbox-explained, honda-wave-alpha-110-review, yamaha-sirius-rc-110-review, can-foreigners-rent-a-motorbike-hanoi, a1-licence-vietnam-what-you-can-ride, how-to-ride-manual-clutch-motorbike-vietnam"
 ---
@@ -84,12 +84,12 @@ Hanoi riding is a long series of small demands: stopping and starting with bikes
 
 In a jam the whole flow crawls, and the gaps open and close in a moment. An automatic uses throttle and brakes alone, and both feet are free to touch down. A semi-automatic crawls in first gear with no lever to manage, though it cannot give the fine low-speed control of a skilled clutch rider.
 
-A clutch bike gives the most control at walking pace to a rider who has mastered the friction zone, and demands the most from one who has not. [The Old Quarter bike guide]({{ '/articles/best-bike-for-hanoi-old-quarter/' | relative_url }}) applies the same reasoning to the narrowest streets in the city.
+A clutch bike gives the most control at walking pace to a rider who has mastered the friction zone, and demands the most from one who has not. The same reasoning applies with more force in the narrowest streets of the Old Quarter.
 
 ## The decision
 
 - Never ridden, or riding in Vietnam for the first time: automatic. Full stop.
-- Ridden before, want the cheapest and simplest: semi-automatic.
+- Ridden before and happy to shift with your foot: semi-automatic.
 - Confident manual rider with proper licence coverage: manual, and only if your routes leave the city.
 
 The cases in between are in this table.
@@ -109,7 +109,7 @@ One legal note: in Vietnam, licence class, not transmission, decides what you ma
 
 The classes are written in terms of engine size, electric power and number of wheels, not gearbox. As [the A1 licence guide]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) and [the licence classes guide]({{ '/articles/vietnam-motorbike-licence-classes-explained/' | relative_url }}) set out, class A1 under Article 57 of Law 36/2024/QH15 covers two-wheel petrol motorbikes up to and including 125cc and electric two-wheelers up to and including 11 kW, from age 18 (Article 59). Class A covers two-wheelers above 125cc or above 11 kW, plus everything A1 covers. Under Article 89, an A1 licence issued before 1 January 2025 keeps its older scope, which is petrol two-wheelers from 50cc up to but not including 175cc.
 
-That is the legal side. In practice, the A1 guide names the Honda Vision, Air Blade, Wave, Click and Yamaha Mio as models inside A1. The manufacturer pages give 110cc for the Vision, 109.2cc for the Wave Alpha 110, 110.3cc for the Sirius RC 110 and 125cc for the Air Blade 125, but Honda also lists an Air Blade 160, so ask the engine size of the bike you are offered, whatever its transmission. Most visitors do not hold a Vietnamese A1, and the A1 guide says recognition then depends on your home licence plus an International Driving Permit that includes a motorcycle category; [can foreigners rent a motorbike in Hanoi]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) covers eligibility and documents.
+That is the legal side. In practice, the A1 guide names the Honda Vision, Air Blade, Wave, Click and Yamaha Mio as models inside A1. The manufacturer pages give 109.5cc for the Vision, 109.2cc for the Wave Alpha 110, 110.3cc for the Sirius RC 110 and 125cc for the Air Blade 125, but Honda also lists an Air Blade 160, so ask the engine size of the bike you are offered, whatever its transmission. Most visitors do not hold a Vietnamese A1, and the A1 guide says recognition then depends on your home licence plus an International Driving Permit that includes a motorcycle category; [can foreigners rent a motorbike in Hanoi]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) covers eligibility and documents.
 
 ## Published rates and what to confirm
 
@@ -156,4 +156,4 @@ The classes in the licence guides are set by engine size, electric power and num
 
 ### Can I learn to ride a clutch bike on a rental in Hanoi?
 
-It can be done, but plan the practice before the rental. [The guide to learning manual on a rented bike]({{ '/articles/learning-manual-on-rented-bike-hanoi/' | relative_url }}) covers being upfront with the shop, looking after the clutch and practising off the street first.
+Not as your first Hanoi bike: this guide's advice is to rent a manual only if you already ride one. If you want to learn during a longer stay, learn the traffic on an automatic or semi-automatic first; [learning a clutch on a rented bike]({{ '/articles/learning-manual-on-rented-bike-hanoi/' | relative_url }}) covers being upfront with the shop, looking after the clutch and practising off the street first.

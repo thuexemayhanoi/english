@@ -24,7 +24,7 @@ Looking for a motorbike rental app in Hanoi? There is no booking app and no onli
 
 ## No app, no online payment: which route to use
 
-Nothing about booking with Hanoi Motorbike Rental Nguyen Tu happens inside an app. It is a conversation, by message, by phone or at the counter, and the record of what was agreed is whatever you keep from it. If something online offers to book or take payment for the shop through an app, check its number or account details against the [published contact details]({{ '/contact/' | relative_url }}) and with the shop itself before you pay anything.
+Nothing about booking with Hanoi Motorbike Rental Nguyen Tu happens inside an app. It is a conversation, by message, by phone or in person at the shop, and the record of what was agreed is whatever you keep from it. If something online offers to book or take payment for the shop through an app, check its number or account details against the [published contact details]({{ '/contact/' | relative_url }}) and with the shop itself before you pay anything.
 
 For a one-off day rental, walking in is fine. For anything longer than a few days, message ahead and lock the model and dates in writing. Beyond that rule of thumb, your situation decides:
 
@@ -115,23 +115,19 @@ Then add the points that decide how the day itself goes:
 
 Save these where you can open them without a data connection:
 
-- A screenshot of the final confirmation, showing the model or category, the dates and times, the rate, the deposit amount, the pickup or delivery arrangement and the return time.
+- Ask the shop to confirm the booking in writing, then keep a screenshot of that reply, showing the model or category, the dates and times, the rate, the deposit amount, the pickup or delivery arrangement and the return time.
 - Any later change to those points, confirmed in the same thread rather than by phone alone.
 - A receipt, transfer confirmation or QR payment confirmation for each payment; for cash, ask for a written or messaged acknowledgement.
 - The shop's address and number, saved in your phone.
-- The handover photos, sent to the same thread so they are timestamped next to the booking.
 
 ## The day you arrive
 
-For the whole rental in order, from choosing a bike to returning it, read [how to rent a motorbike in Hanoi]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}). The booking side of the day runs like this:
+For the whole rental in order, from choosing a bike to returning it, read [how to rent a motorbike in Hanoi]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}), which also covers paying and inspecting the bike. The booking side of the day runs like this:
 
 1. Arrive during opening hours, and message on your way so the shop knows you are coming.
 2. Bring everything you were told to bring, licence and payment included.
-3. Read the confirmation thread against what is in front of you: the model, the rate and the deposit amount. Settle any difference before money changes hands.
-4. Pay as agreed, and keep the receipt or confirmation message for each payment.
-5. Inspect and photograph the bike before you ride; the next section says how.
-6. Before you leave, check the return date, time and place against the thread, and ask who to message if you are running late.
-7. Ask about anything unfamiliar on this model, such as the steering lock or the seat catch, before you ride off.
+3. Read your message thread against what is in front of you: the model, the rate and the deposit amount. Settle any difference before money changes hands.
+4. Before you leave, check the return date, time and place against the thread, and ask who to message if you are running late.
 
 ## What to do at handover whoever you booked with
 
@@ -143,7 +139,7 @@ This site publishes no cancellation policy for the shop, so none is quoted here 
 
 - **Changing dates before pickup.** Is it possible, and do the price or the bike's availability change?
 - **Cancelling before pickup.** Is any payment or deposit kept, and how would money be returned and confirmed?
-- **Arriving later than planned.** Until what time can the bike be collected, and does the booking still stand? If you will arrive outside opening hours, ask what is possible before you travel; [renting a motorbike when you arrive at Noi Bai Airport]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) covers the first day after a flight.
+- **Arriving later than planned.** Until what time can the bike be collected, and does the booking still stand? Published hours are 09:00-21:00, so if you will arrive outside them, ask before you travel and do not assume a handover; [renting a motorbike when you arrive at Noi Bai Airport]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) covers the first day after a flight.
 - **Keeping the bike longer.** Ask how to extend and how extra days are priced. A late return is charged at 20,000 VND per hour, and a return more than six hours late may be charged a full additional rental day, typically 150,000-200,000 VND depending on the motorcycle; [what happens if you return a rental motorbike late]({{ '/articles/late-return-rental-motorbike-hanoi/' | relative_url }}) gives the detail.
 - **Returning early.** There is no automatic refund entitlement for unused time, so book the period you expect to use; [can you return a rental motorbike early]({{ '/articles/early-return-rental-motorbike-hanoi/' | relative_url }}) explains the position.
 
@@ -151,11 +147,11 @@ This site publishes no cancellation policy for the shop, so none is quoted here 
 
 ### Is there an app to book a motorbike rental in Hanoi?
 
-No. Bookings are made by WhatsApp or Zalo message, by phone or in person at the shop, and nothing is paid through an app. Ride-hailing apps are a different service: they send a driver to take you somewhere rather than rent you a bike.
+No. Bookings are made by WhatsApp or Zalo message, by phone or in person at the shop, and there is no booking app. Ride-hailing apps are a different service: they send a driver to take you somewhere rather than rent you a bike.
 
 ### Can I book and pay online?
 
-A WhatsApp or Zalo message covers the booking, but nothing can be paid through a website or app. The accepted payment methods are cash, bank transfer and QR payment, so ask which one the shop wants for each payment and when it is due.
+The shop has no website checkout or booking app. The accepted payment methods are cash, bank transfer and QR payment, so ask which one the shop wants for each payment and when it is due.
 
 ### Do I need WhatsApp or Zalo to book?
 
@@ -163,4 +159,4 @@ No. The same number takes phone calls, and you can walk in during opening hours.
 
 ### Can I book before I land in Hanoi?
 
-Yes. Message before you travel with your dates and the points from the first-message list, then settle the details in writing. If you are landing at the airport, [arriving at Noi Bai Airport]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) covers the first day.
+Yes, you can message before you travel. Send your dates and the points from the first-message list, ask in the same thread whether the bike is held for you, and settle the details in writing. If you are landing at the airport, [arriving at Noi Bai Airport]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) covers the first day.

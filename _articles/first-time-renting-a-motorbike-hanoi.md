@@ -40,7 +40,7 @@ If the first row sounds like you, [the complete-beginner guide]({{ '/articles/re
 
 Do not skip this. To ride legally you need a licence Vietnam recognises - most visitors use their home motorcycle licence plus a 1968-convention IDP. If you have neither, your legal options are a 50 cc bike or a licence-free e-bike. The licence articles cover the routes; decide before you shop, not at the counter.
 
-Article 57 of the Law on Road Traffic Order and Safety recognises three routes: a Vietnamese licence; a national licence or International Driving Permit from a 1968 Vienna Convention country, matched to the vehicle, with the permit carried together with the national licence it translates; and a licence from a country that has a mutual-recognition agreement with Vietnam. A 1949 Geneva Convention permit is not on that list, and neither is a permit with no motorcycle category. The [tourist licence guide]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}) sets out the three routes in full.
+Article 57 of the Law on Road Traffic Order and Safety sets out which licences count; a 1949 Geneva permit or a permit without a motorcycle category does not, and the [tourist licence guide]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}) gives the three routes.
 
 As practical advice, separate from the law: check your permit's categories before you fly, and keep the permit and your licence together whenever you ride.
 
@@ -134,7 +134,7 @@ Everyone in Hanoi traffic is predicting everyone else; being predictable is a sa
 
 **You.** Shaking hands, repeated near misses, tunnel vision at junctions, hunger, heat or fading light all mean the same thing: stop somewhere safe. A taxi or ride-hailing car is a normal way home, and an attended motorbike lot is a sensible place to leave the bike until you are rested.
 
-**A fall.** Even a low-speed fall carries legal duties: stop, warn of danger, preserve the scene, help anyone injured and notify the authorities, calling 113 for the police and 115 if anyone is hurt. [What to do after a motorbike accident in Vietnam]({{ '/articles/motorbike-accident-duties-vietnam/' | relative_url }}) sets them out. As practical additions, keep the shop's number to hand and photograph the positions and damage before anything is moved, if it is safe to do so.
+**A fall.** If a fall involves another person or vehicle, or anyone is hurt, it is a road accident, and the duties do not shrink with the speed: stop, warn of danger, preserve the scene, help anyone injured and notify the police, calling 113 for the police and 115 if anyone is hurt. [What to do after a motorbike accident in Vietnam]({{ '/articles/motorbike-accident-duties-vietnam/' | relative_url }}) sets them out. As practical additions, keep the shop's number to hand and photograph the positions and damage before anything is moved, if it is safe to do so.
 
 **The rental itself.** If you decide riding is not for you, tell the shop promptly. Early return carries no automatic refund for unused time, which is the main reason to start with a short rental rather than a long one.
 

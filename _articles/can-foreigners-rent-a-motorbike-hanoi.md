@@ -90,7 +90,7 @@ A licence-free 50 cc or e-bike rental is a legal, low-speed way to see the city 
 
 [The licence-free moped class]({{ '/articles/can-foreigners-ride-50cc-vietnam/' | relative_url }}) is defined in law as two- or three-wheel vehicles designed for no more than 50 km/h, with an engine of 50 cc or less or an electric motor of 4 kW or less. Foreign nationality changes nothing here: the rider must be at least 16, understand the traffic rules, have basic handling skills, wear a standard-compliant helmet and follow every traffic rule. A crash on a moped brings the same liability, insurance and paperwork questions as any other crash, and fines follow the same schedule as for motorbikes.
 
-For electric two-wheelers the line is power. At 4 kW or less, within the moped definition above, no driving licence is required; above 4 kW a licence is required, class A1 up to 11 kW and class A above that. Pedal-assist electric bicycles are a separate, non-motorised category. Ask for the rated power of any electric machine before you book, because it decides which licence class you are riding in.
+For electric two-wheelers the line is power. At 4 kW or less, within the moped definition above, no driving licence is required; above 4 kW a licence is required, class A1 up to 11 kW and class A above that. Pedal-assist electric bicycles are a separate, non-motorised category. The rated power of an electric machine decides which licence class you are riding in. Ask for it before you book.
 
 Availability is a separate question. Nguyen Tu has historically offered 50 cc and electric options, but the current stock of any model needs checking first. Contact us to confirm current availability before you plan around one.
 
@@ -120,11 +120,11 @@ Stay calm and hand over the documents the officer asks for: the originals of you
 
 ### Can I take a rental bike outside Hanoi?
 
-Support is primarily for Hanoi and local use, so say where you plan to ride when you book and ask before you set off. Raise any trip beyond the city before you rent, not after you have left.
+Support is primarily for Hanoi and local use. Tell the shop where you plan to ride when you book, and raise any trip beyond the city before you rent rather than after you have left.
 
 ### Is there a minimum age for foreign riders?
 
-The law sets 16 for the licence-free moped class and 18 for a licence such as A1, which is the class a standard rental scooter needs, so a rider under 18 cannot legally ride one. A shop's own conditions for young renters are something to ask about, not assume.
+The law sets 16 as the minimum age for the licence-free moped class and 18 for a Vietnamese licence such as A1, which is the class a standard rental scooter needs. A shop's own conditions for young renters are something to ask about, not assume.
 
 ### Can I rent if I have never ridden a scooter?
 

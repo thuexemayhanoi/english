@@ -55,7 +55,7 @@ Three categories cover almost every visitor: automatic scooters (twist-and-go, b
 
 Three questions narrow the choice before you look at a single model:
 
-- **Who is riding?** Every rider needs a licence that covers the bike, so Step 2 can rule options in or out. A passenger or luggage changes how much space and power you want.
+- **Who is riding, and with what?** A passenger or luggage changes how much space and power you want.
 - **For how long?** Nguyen Tu rents by the day, the week or the month, and longer terms can be discussed.
 - **Where will you ride?** Support is primarily for Hanoi and local use, so mention any trip beyond the city to the shop before you agree the rental.
 
@@ -79,7 +79,7 @@ The common mistake is relying on a document that does not count: an IDP carried 
 
 ### Models with a published day rate
 
-These six models each have a published day rate. For other models, longer periods and every other cost question, use the [price guide]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}).
+These six models each have a published day rate. Listing a model is not a statement that it is in stock, so confirm availability for your dates; for other models, longer periods and every other cost question, follow the current rates link above.
 
 | Model | Type | Day rate |
 |---|---|---|
@@ -94,13 +94,13 @@ These six models each have a published day rate. For other models, longer period
 
 Your first message can be short: the dates and the time you will return the bike, the model and the number of bikes, and whether you will collect from the shop or want to arrange delivery. Ask for the total for your dates and the deposit in the same message. [Shop pickup versus delivery]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) compares the two ways of taking the bike.
 
-The usual way plans unravel is treating a model as booked because it was available when you first asked. Ask for the reply to confirm your exact dates, and do not build flights or tours around one particular bike until the shop has confirmed it.
+Do not treat a model as booked because it was available when you first asked: ask for the reply to confirm your exact dates, and do not build flights or tours around one particular bike until the shop has confirmed it.
 
 ## Step 4: Agree the terms before money moves
 
 Confirm the rental period and price, the deposit, and how the deposit is held and returned. [Deposits at Hanoi rentals]({{ '/articles/motorbike-rental-deposit-hanoi/' | relative_url }}) typically run 2,000,000-5,000,000 VND depending on the bike. Ask what the shop checks at return - photos of the bike at handover protect both sides. Get the payment method settled too: cash, bank transfer and QR payment are the standard options in Hanoi.
 
-The agreement can be brief, so raise these points yourself before you pay:
+Raise these points yourself before you pay:
 
 - **Days and times.** When a rental day starts and ends, and by what time the bike is due back.
 - **The deposit.** What can be deducted from it, and for what.
@@ -116,7 +116,7 @@ Finish by sending the key terms in a message to the shop's number: a line of tex
 
 Walk the bike: lights, horn, brakes, mirrors, tyres, fuel level, existing scratches. Photograph anything you see. Thirty seconds here prevents a deposit argument later - the [rental inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) lists exactly what to look at.
 
-Collecting the bike and having it delivered change where this happens, not what you check. If delivery has been arranged, the same walk-round happens at your door, and [motorbike delivery to the Old Quarter]({{ '/articles/motorbike-delivery-old-quarter/' | relative_url }}) covers a hotel handover there. Work through the bike in this order:
+Collecting the bike and having it delivered change where this happens, not what you check. If the bike is delivered, do the same walk-round when it arrives. Work through the bike in this order:
 
 1. Photograph the whole bike before you touch it: both sides, front, back and every existing mark. Sending the photos to the shop in a message gives them a timestamp.
 2. Start the engine and check the lights, horn and indicators.
@@ -137,15 +137,15 @@ Start with a quiet stretch near the shop before you join heavier traffic. The [f
 - **Carry your licence,** and your permit with it if you ride on a foreign licence.
 - **Message early.** If something feels wrong with the bike, tell the shop before it becomes a problem on the road.
 
-**Check where you may ride.** Hanoi has run a pilot low-emission zone since 1 July 2026. The Government Portal reports that all road vehicles, including motorcycles, mopeds and cars, are prohibited from entering Zone 1 from 7:00 p.m. to midnight every Friday, Saturday and Sunday. Zone 1 is a list of named streets, among them Old Quarter streets such as Hang Dao, Hang Bac and Ma May. The pilot is phased, so check the current notice before planning an evening ride there; [renting in Hoan Kiem]({{ '/articles/renting-motorbike-hoan-kiem/' | relative_url }}) covers the district around the lake.
+**Check where you may ride.** Hanoi began a phased low-emission pilot on 1 July 2026. The Government Portal reported on 2 July 2026 that all road vehicles, including motorcycles, mopeds and cars, will be prohibited from entering Zone 1 from 7:00 p.m. to midnight every Friday, Saturday and Sunday, while priority vehicles keep access. Zone 1 is a list of named streets, among them Old Quarter streets such as Hang Dao, Hang Bac and Ma May. The pilot is phased, so check the current notice before planning an evening ride there; [renting in Hoan Kiem]({{ '/articles/renting-motorbike-hoan-kiem/' | relative_url }}) covers the district around the lake.
 
 ### Returning the bike and the deposit
 
-Return the bike in the agreed condition, inside opening hours, on time - [late returns are charged by the hour]({{ '/articles/late-return-rental-motorbike-hanoi/' | relative_url }}). Once the shop confirms the bike is fine, the deposit comes back to you.
+Return the bike in the agreed condition, inside opening hours, on time - [late returns are charged by the hour]({{ '/articles/late-return-rental-motorbike-hanoi/' | relative_url }}). Ask how and when the deposit is returned once the bike has been checked.
 
-Treat the return as the handover in reverse. Agree a return time that leaves a margin before any flight or train you have to catch. Photograph the bike again from the same angles, compare the fuel level with what was agreed, and keep the agreement and your handover photos until the deposit is back in your hands. If your plans change, message the shop before the agreed return time, not after it.
+Treat the return as the handover in reverse. Agree a return time that leaves a margin before any flight or train you have to catch. Photograph the bike again from the same angles, compare the fuel level with what was agreed, and keep the agreement and your handover photos until the deposit has been settled. If your plans change, message the shop before the agreed return time, not after it.
 
-The common mistake at this stage is arriving without the handover photos: they are your record of how the bike looked when you took it, and a mark you did not make is hard to argue about without them. [Returning a rental motorbike in Hanoi]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }}) walks through the return in full.
+Bring the handover photos to the return. [Returning a rental motorbike in Hanoi]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }}) walks through the return in full.
 
 ## Which guide to read next
 
