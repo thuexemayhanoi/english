@@ -440,6 +440,19 @@ Brief: validate the whole pipeline on five Group A articles before scaling: writ
 - **Status:** 5 of 693 done, 0 REVIEW_REQUIRED, 688 pending. Rollback: `rollback/pre-package2-foundation` (main 7fcfc73) before the foundation; the pre-merge head of main is recorded in the pull request.
 
 
+## 2026-10-25 — SEO Package 2, batch 2 (10 articles, Group A)
+
+Brief: continue Package 2 in queue order with the procedure of `docs/seo/package2-agent-prompts.md` (writer, independent verifier, fixer, delta verifier), full QA, merge on green CI.
+
+- **Articles (original -> final words):** `how-to-book-a-motorbike-rental-hanoi` 361 -> 2,156; `how-to-rent-a-motorbike-hanoi` 498 -> 1,890; `motorbike-rental-pickup-or-delivery-hanoi` -> 1,882; `renting-motorbike-hoan-kiem` 437 -> 2,153; `renting-motorbike-noi-bai-arrival` 476 -> 2,174; `automatic-vs-manual-motorbike-hanoi` -> 2,410; `best-scooters-to-rent-hanoi` 302 -> 2,064; `first-time-renting-a-motorbike-hanoi` 410 -> 2,292; `motorbike-delivery-old-quarter` 422 -> 2,205; `can-foreigners-rent-a-motorbike-hanoi` 378 -> 1,855 (4,006 -> 21,081 words in total). Same URLs, slugs and canonicals.
+- **Verification:** every article had an independent verifier; five first drafts failed with MAJOR findings (implied shop policies and repetition in pickup-or-delivery, repetition in Noi Bai, an overstated accident-duty sentence in first-time renting, a wrong passenger exception in best scooters, the Article 57 licence list in can-foreigners) and passed a delta verification after a fix round; one more MAJOR (an FAQ contradicting the page in automatic-vs-manual) was replaced with the verifier's wording. The delta verifier of best scooters caught a second legal error introduced by the fix itself ("child under 14 with an adult").
+- **Legal correction found on the way:** Law 36/2024/QH15 Article 33(1)(c) allows a child **under 12** as the second passenger, with no adult condition; `motorbike-passenger-rules-vietnam` and `child-passengers-motorbike-vietnam` (both VERIFIED) said "under 14 with an adult", the rule of the old law. Corrected against the Government page both cite (re-read 2026-10-25).
+- **Fines not restated:** Decree 238/2026/ND-CP, in force since 15 August 2026, amends Decree 168/2024/ND-CP; its amended Article 18 could not be read, so the can-foreigners guide states no fine amounts and points to the fine guides. The VERIFIED legal guides that quote Decree 168/2024 amounts as issued need a re-check against the amendment (owner task, listed below).
+- **Prices:** only the six consistent daily rates and the 2,000,000-5,000,000 VND deposit range; no weekly, monthly, 50cc or E-Bike price was added.
+- **QA on the exact tree:** lint 0 errors on all ten; build-report P0 0 / P1 0 (P2 5: the four REVIEW_REQUIRED articles and the 404 page without breadcrumbs, both pre-existing); matrix P0 0 · P1 4 · P2 0 · P3 999 (no priority moved); engine tests 83/83; regression guard PASS; Jekyll build 1,004 pages; rendered audit P0/P1 0; Guide Assistant 31/31; duplicate check P2 0.
+- **Findings for the owner:** listed in the batch notes in `docs/seo/package2-status.json` (Zone 1 wording in two Hoan Kiem articles and the Old Quarter rental guide, helmet and insurance statements beyond OWNER-FACTS, deposit-return promises, IDP fine labels, the Decree 238/2026 amendment, two model-database rows).
+- **Status:** 15 of 693 done, 0 REVIEW_REQUIRED, 678 pending.
+
 ## 2026-10-25 — Hanoi motorbike rental: keyword owner, GitHub SEO techniques, link graph
 
 Brief (site owner, "Claude Ultra Master Mission"): research the best open-source SEO tooling on GitHub, adopt what fits this pipeline, and make the site compete for "Hanoi motorbike rental" and its variants, in small verified batches, zero-data mode, no URL changes.

@@ -11,7 +11,10 @@
 //   node scripts/seo-package2.js --init            freeze docs/seo/package2-baseline.json (refuses to overwrite)
 //   node scripts/seo-package2.js                   report + gate (writes reports/seo-package2.json)
 //   node scripts/seo-package2.js --write           also regenerate docs/seo/package2-eligible.csv and the dossier
-//   node scripts/seo-package2.js --next 5 [--group A]   the next pending slugs in queue order
+//   node scripts/seo-package2.js --next 5 [--group A] [--include-protected]   the next pending slugs in queue order;
+//                                                  URLs that rank in the rank-tracker snapshot or are cited by AI answers are
+//                                                  protected: they are skipped (listed separately) and worked last, keeping lead,
+//                                                  title and keyword, with a baseline and a hypothesis (docs/seo/package2-writing-guide.md)
 //   node scripts/seo-package2.js --words <slug>    word count of one article
 //   node scripts/seo-package2.js --brief <slug>    JSON brief for one article (keywords, intent, questions to serve, valid link targets)
 //   node scripts/seo-package2.js --lint a,b,c      deterministic content checks for expanded articles
@@ -502,6 +505,16 @@ function recordCommit() {
   b.commit = sha; writeJSON(STATUS_PATH, status); console.log('seo-package2: batch ' + id + ' commit ' + sha);
 }
 
+// URLs that already rank in the latest rank-tracker snapshot or are cited by AI answers: historical evidence (dated), never a current position.
+function protectedUrls() {
+  const out = {};
+  const evidence = readJSON(path.join(SEO_DIR, 'keyword-evidence.json'), {}); const snap = L.latestRankSnapshot(evidence);
+  if (snap) for (const r of snap.rows) if (r.position != null && r.url) out[r.url] = (out[r.url] ? out[r.url] + '; ' : '') + '#' + r.position + ' "' + r.keyword + '" (' + snap.date + ')';
+  const m = readJSON(MATRIX_JSON, { summary: {} });
+  for (const c of (((m.summary || {}).aiVisibility || {}).ownPages || [])) out[c.url] = (out[c.url] ? out[c.url] + '; ' : '') + 'AI-cited';
+  return out;
+}
+
 function main() {
   if (flag('init')) return init();
   if (opt('brief')) return brief(opt('brief'));
@@ -522,8 +535,12 @@ function main() {
   if (!ev) { console.log('seo-package2: not initialised (run node scripts/seo-package2.js --init on a reviewed main)'); return; }
   if (opt('next')) {
     const n = parseInt(opt('next'), 10) || 5, g = opt('group');
-    const out = ev.rows.filter(r => r.state === 'PENDING' && (!g || r.group === g)).sort((a, b) => a.queue - b.queue).slice(0, n);
-    for (const r of out) console.log(r.queue + '\t' + r.group + '\t' + r.current_words + '\t' + r.slug + '\t' + r.primary_keyword);
+    const prot = protectedUrls();
+    const pend = ev.rows.filter(r => r.state === 'PENDING' && (!g || r.group === g)).sort((a, b) => a.queue - b.queue);
+    const free = flag('include-protected') ? pend : pend.filter(r => !prot[r.url]);
+    for (const r of free.slice(0, n)) console.log(r.queue + '\t' + r.group + '\t' + r.current_words + '\t' + r.slug + '\t' + r.primary_keyword);
+    const held = pend.filter(r => prot[r.url]);
+    if (!flag('include-protected') && held.length) { console.log('--- protected (ranked or AI-cited; worked last with the protective protocol): ' + held.length); for (const r of held) console.log('  ' + r.queue + '\t' + r.group + '\t' + r.slug + '\t' + prot[r.url]); }
     return;
   }
   const report = { tool: 'seo-package2', target: TARGET, counts: ev.F.counts, findings: ev.F.items, summary: ev.summary };
