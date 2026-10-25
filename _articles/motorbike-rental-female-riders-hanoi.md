@@ -26,27 +26,27 @@ Riding a motorbike is an everyday way of getting around Hanoi for many people, w
 
 ## Bike size and confidence
 
-Low seat height and light weight matter more than engine spec for control at stops. The light, low options among common rentals are covered in [Lightest Motorbikes for New Foreign Riders]({{ '/articles/lightest-motorbikes-for-new-riders/' | relative_url }}) and [Easiest Motorbikes for Beginner Riders in Hanoi]({{ '/articles/easiest-motorbikes-for-beginners-hanoi/' | relative_url }}) — scooters like the Honda Vision and Yamaha Mio are the confidence machines of the city for all riders, not only women. Before renting, sit on the bike: both feet should reach the ground comfortably.
+Low seat height and light weight matter more than engine spec for control at stops. The light, low options among common rentals are covered in [Lightest Motorbikes for New Foreign Riders]({{ '/articles/lightest-motorbikes-for-new-riders/' | relative_url }}) and [Easiest Motorbikes for Beginner Riders in Hanoi]({{ '/articles/easiest-motorbikes-for-beginners-hanoi/' | relative_url }}) — scooters of the Honda Vision and Yamaha Mio class are the ones the beginner guide puts first, for any first-time rider and not only women. Before renting, sit on the bike: both feet should reach the ground comfortably.
 
 Sitting on the bike answers only the first question. Seat-height figures are not available for every rental model, and none of them can say whether your legs reach, so the handling checks below count for more than any number.
 
 ### Handling checks before you accept the bike
 
-Do these in the shoes you will ride in. If one fails, ask for another bike; whether one is on hand for your dates is a question for the shop.
+Do these in the shoes you will ride in. A bike that fails a check is the wrong bike for you, so ask what else is available.
 
 | Check | How to do it | What a pass looks like |
 |---|---|---|
 | Side stand | Put it down and bring it up with your foot while seated | The bike settles without lurching |
-| Pushing back | With the engine off, walk the bike backwards out of a parking space, then turn it on the spot | It stays upright and under your control |
-| Slow turns | In a quiet spot, take the bars to full lock each way at walking pace | No wobble that your feet cannot catch |
+| Pushing back | With the engine off, walk the bike backwards out of a parking space, as in the [hands-on weight check]({{ '/articles/lightest-motorbikes-for-new-riders/' | relative_url }}) | It stays upright and under your control |
+| Slow turns | The full-lock turn from that same check, each way at walking pace in a quiet spot | No wobble that your feet cannot catch |
 | Seat and storage | Put your bag under the seat, see whether your helmet fits there too, then close and lock it | It opens, shuts and locks without a struggle |
-| Mirrors | Adjust each one until you see the lane behind you, not your own arms | You can watch the traffic without turning round |
+| Mirrors | Adjust both from the riding seat | You see the lane behind you, not your arms |
 
-Pushing back is the daily test, because every parking space asks it of you. Short and tall, strong and slight riders reach the same limits, and the answer is the same for all of them: a different bike, not a technique to cope with this one.
+Pushing back is a common test, because a bike parked in a row has to be walked out of its space. Short and tall, strong and slight riders reach the same limits, and the answer is the same for all of them: a different bike, not a technique to cope with this one.
 
 ## Gear and clothing
 
-The local riding uniform works well: long-sleeve cover against sun and exhaust, covered shoes, and a properly fastened helmet — legally required ([Vietnam Helmet Law: Rules for Riders and Passengers]({{ '/articles/helmet-law-vietnam/' | relative_url }}) gives the rule), and whether one comes with the rental is a question to ask at handover ([Do Hanoi Rentals Include Helmets?]({{ '/articles/do-hanoi-rentals-include-helmets/' | relative_url }})). Article 33(2) of Law 36/2024/QH15 requires rider and passenger to wear a helmet that meets the national technical standard, with the strap fastened properly.
+The local riding uniform works well: long-sleeve cover against sun and exhaust, covered shoes, and a properly fastened helmet — legally required ([Vietnam Helmet Law: Rules for Riders and Passengers]({{ '/articles/helmet-law-vietnam/' | relative_url }}) gives the rule). Article 33(2) of Law 36/2024/QH15 requires rider and passenger to wear a helmet that meets the national technical standard, with the strap fastened properly.
 
 If you ride regularly, buying your own helmet in your size is worth it for comfort and hygiene. In rainy season, a compact rain suit under the seat solves the arriving-soaked problem ([Riding a Rental Motorbike in Hanoi Rain: What to Know]({{ '/articles/riding-rental-motorbike-hanoi-rain/' | relative_url }})).
 
@@ -64,9 +64,9 @@ Article 33(3)(c) of the same law bars a rider from using an umbrella or audio eq
 
 ## Storage beats bags
 
-Riding with a handbag strap across your body is a genuine hazard: the UK Foreign, Commonwealth & Development Office (FCDO) says in its Vietnam travel advice that "Bag-snatching by thieves on motorcycles is common", and a strap you cannot let go of can pull you off the bike. Use the under-seat compartment while you ride, or a backpack worn on both shoulders, and keep valuables out of the compartment while you are parked — the principle is explained in [What to Carry While Riding a Motorbike in Vietnam]({{ '/articles/what-to-carry-riding-motorbike-vietnam/' | relative_url }}).
+Riding with a handbag strap across your body is a genuine hazard in Hanoi: bag-snatching by riders on moving motorbikes happens, and a strap can pull you off the bike. The UK Foreign, Commonwealth & Development Office (FCDO) says in its Vietnam travel advice that "Bag-snatching by thieves on motorcycles is common". Use the under-seat compartment while you ride, or a backpack worn on both shoulders, and keep valuables out of the compartment while you are parked — the principle is explained in [What to Carry While Riding a Motorbike in Vietnam]({{ '/articles/what-to-carry-riding-motorbike-vietnam/' | relative_url }}).
 
-The same FCDO advice tells readers to hold a bag in front of them or on the side away from the traffic, and to be aware of motorcycles approaching as they walk. Article 33(3)(đ) of the same law also bars a rider from carrying, shouldering or transporting bulky items, so a bulky load does not belong on your body. A hook under the handlebar, if the bike has one, suits only a light bag, because weight hanging from the bars changes how the bike steers.
+The FCDO's general advice on bag-snatching, which is for people on foot, tells readers to hold a bag in front of them or on the side away from the traffic, and to be aware of motorcycles approaching as they walk. A rider has both hands on the bars, so the bag goes in the compartment or on your back. Article 33(3)(đ) of the same law also bars a rider from carrying, shouldering or transporting bulky items, so a bulky load does not belong on your body. A hook under the handlebar, if the bike has one, suits only a light bag, because weight hanging from the bars changes how the bike steers.
 
 ## Everyday safety habits
 
@@ -77,22 +77,22 @@ The same FCDO advice tells readers to hold a bag in front of them or on the side
 
 ## Rental-day specifics
 
-Inspect the bike properly at handover — brakes, lights, horn, mirrors, tyre condition — with the checklist in [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}). Ask the shop to show you the kickstand, seat lock, fuel cap and steering lock; the demo takes one minute and prevents the common first-day fumbles. Agree the deposit terms and what happens on a puncture before you leave ([Understanding a Motorbike Rental Agreement in Hanoi]({{ '/articles/motorbike-rental-agreement-hanoi/' | relative_url }})).
+Inspect the bike properly at handover — brakes, lights, horn, mirrors, tyre condition — with the checklist in [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}). Ask the shop to show you the kickstand, seat lock, fuel cap and steering lock; a short demo helps avoid first-day fumbles. Agree the deposit terms and what happens on a puncture before you leave ([Understanding a Motorbike Rental Agreement in Hanoi]({{ '/articles/motorbike-rental-agreement-hanoi/' | relative_url }})).
 
 ### Questions to put before you leave
 
 These are questions to ask, not a description of how any shop works.
 
 - **Which exact bike is it?** Ask for the model, the version and the engine size, because the engine size decides which licence applies.
-- **Does a helmet come with it?** If someone will ride with you, ask for a second one in the right size.
-- **How many keys come with the bike, and what happens if one is lost?** [What Happens If You Lose the Key to a Rental Motorbike]({{ '/articles/lost-key-rental-motorbike-hanoi/' | relative_url }}) sets out what to put to the shop.
-- **What should I do if the bike fails, and what would be mine to pay for?** Consumables such as tyres and inner tubes may be the renter's responsibility depending on the situation, so ask before you need one.
+- **Does a helmet come with it, and is there a second one for a passenger?** [Do Hanoi Rentals Include Helmets?]({{ '/articles/do-hanoi-rentals-include-helmets/' | relative_url }}) covers what to ask; if someone will ride with you, ask for a second one in the right size.
+- **How many keys come with the bike, and what happens if one is lost?** Ask before you leave rather than at the roadside.
+- **What should I do if the bike fails, including when the shop is closed, and what would be mine to pay for?** Consumables such as tyres and inner tubes may be the renter's responsibility depending on the situation, so ask before you need one, and ask whether you may use an outside repair shop.
 
 ### Licence, age and papers
 
-Renting is one thing and riding is another. Under Article 57(1)(a) of Law 36/2024/QH15, class A1 covers petrol two-wheelers of up to 125 cc, and the minimum age for A1 is 18 (Article 59(1)(b)). A moped has a design speed of no more than 50 km/h and either a combustion engine of 50 cc or less or an electric motor of 4 kW or less (Article 34(1)(g)); a rider from age 16 may ride one without a licence (Article 59(1)(a), Article 56(4)). A 110 cc or 125 cc scooter is not a moped.
+Renting is one thing and riding is another. Under Article 57(1)(a) of Law 36/2024/QH15, class A1 covers petrol two-wheelers of up to 125 cc, and the minimum age for A1 is 18 (Article 59(1)(b)). Article 34(1)(g) treats a bike as a moped when its design speed is capped at 50 km/h and it has either a combustion engine of up to 50 cc or an electric motor of up to 4 kW; a rider aged 16 or over may ride one without a licence (age: Article 59(1)(a); licence exemption: Article 56(1) and (4)). A 110 cc or 125 cc scooter is not a moped.
 
-A visitor's licence counts through the routes in Article 57(6). One route is a national licence together with an International Driving Permit from a state party to the 1968 Vienna Convention, both covering the vehicle, and Article 57(8)(b) requires the rider to carry both. [Can Foreigners Rent a Motorbike in Hanoi?]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) sets out the other routes.
+A visitor's licence counts through the routes in Article 57(6); [Can Foreigners Rent a Motorbike in Hanoi?]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) sets out the routes.
 
 Article 56(1) lists the papers a rider carries, among them the registration certificate and the owner's compulsory civil-liability insurance certificate. Ask at handover how the registration certificate and the compulsory insurance certificate will be shown at a stop.
 
@@ -104,36 +104,36 @@ Published day rates are 150,000 VND for the Honda Click, Yamaha Mio, Honda Wave 
 
 ### Plan an evening ride like a new route
 
-A junction you know in daylight looks different after dark. Ride a new route once in daylight before you ride it in the evening, and while you are still learning the city prefer main streets with traffic and light to a shortcut through an unlit lane. [Riding a Motorbike at Night in Vietnam]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}) adds dipped beam, glare and fatigue.
+A junction you know in daylight looks different after dark, so while you are still learning the city prefer main streets with traffic and light to a shortcut through an unlit lane. [Riding a Motorbike at Night in Vietnam]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}) adds dipped beam, glare and fatigue.
 
-Check the fuel gauge and your phone battery before you set off, and set the route while the bike is stopped. Ask how fuel is handled at handover and at return; [Fuel Policy When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-fuel-policy-hanoi/' | relative_url }}) lists the conventions to ask about. If you ride alone to somewhere new, send a friend or your accommodation the destination and the time you expect to arrive.
+Check the fuel gauge and your phone battery before you set off, and set the route while the bike is stopped. Ask how fuel is handled at handover and at return. If you ride alone to somewhere new, send a friend or your accommodation the destination and the time you expect to arrive.
 
 ### When the shop is closed
 
-Nguyen Tu's published hours are 09:00-21:00 daily, and support is primarily for Hanoi and local use. Settle the plan before you ride. Save the shop's number, +84 942 467 674 on WhatsApp or Zalo, and ask what to do if the bike fails on the road, including when the shop is closed, and whether you may use an outside repair shop.
+Nguyen Tu's published hours are 09:00-21:00 daily, and support is primarily for Hanoi and local use. Settle the plan before you ride: save the shop's number, +84 942 467 674 on WhatsApp or Zalo, and get the answer to the bike-failure question above while the shop is open.
 
 ### Leaving the bike after dark
 
-In the evening choose a lit, attended lot or a spot with people around over a dark kerb, and check when a lot closes before you rely on it. Take your helmet and valuables with you. If the bike is wedged into a tight row, ask for help rather than force a heavy bike out sideways. The [rules on tickets, signs and pavements]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}) are in the parking guide.
+In the evening choose a lit, attended lot or a spot with people around over a dark kerb, and check when a lot closes before you rely on it. Take your helmet and valuables with you. If the bike is wedged into a tight row, ask for help rather than force a heavy bike out sideways.
 
 ## The realistic picture
 
-Parking attendants, mechanics and rental shops are part of everyday riding in Hanoi, and the rules on licence, age and helmets apply to every rider alike. Confidence here comes from the same things it comes from anywhere — a bike that fits, gear that works, and a first hour ridden calmly. The questions in this guide are ones any renter can put; none depends on who is asking.
+Parking attendants, mechanics and rental shops are part of everyday riding in Hanoi, and the rules on licence, age and helmets apply to every rider alike. Confidence here comes from the same things it comes from anywhere — a bike that fits, gear that works, and a first hour ridden calmly. In this guide that comes down to the handling checks, a helmet that fits over your hair as you will wear it, and a bag kept off your body.
 
 ## Common questions
 
 ### Is it safe for a woman to ride a rental motorbike alone in Hanoi?
 
-How a ride goes depends on the habits above: a bike that fits, a helmet that stays put, bags off your body, new routes tried in daylight and a number saved for when something fails. The FCDO says "Travelling by motorbike in Vietnam is much riskier than in the UK" and advises against hiring a motorbike if you are not an experienced rider. If you have never ridden, start with [the easiest bikes for beginners]({{ '/articles/easiest-motorbikes-for-beginners-hanoi/' | relative_url }}) and a practice hour somewhere quiet.
+These habits reduce some risks; they do not remove them. The FCDO says "Travelling by motorbike in Vietnam is much riskier than in the UK" and advises against hiring a motorbike if you are not an experienced rider. If you have never ridden, start with a practice hour somewhere quiet. A 110-125 cc motorbike also needs a licence valid in Vietnam, and [which licences count]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) is set out in that guide.
 
 ### What if someone grabs my bag while I ride?
 
-The FCDO's advice is to be prepared to surrender your valuables rather than risk being injured in a struggle. A bag in the under-seat compartment leaves nothing on your body to pull, which is why a strap across the body is the arrangement to avoid.
+The FCDO's general advice on bag-snatching is to be prepared to surrender your valuables rather than risk being injured in a struggle. For how to carry a bag on a bike, the storage section above is the guide.
 
 ### Which bike suits a short or slight rider?
 
-The one that passes the handling checks above and lets you put both feet down at a stop. Seat-height figures are not published for every rental model, so sitting on the bike decides, and the [published weights by model]({{ '/articles/lightest-motorbikes-for-new-riders/' | relative_url }}) help you narrow the choice.
+The one that passes the handling checks above and lets you put both feet down at a stop. Weights published for some models help to shortlist, but sitting on the bike decides.
 
 ### Can I ride in a skirt or dress?
 
-It depends on the garment and the bike. The test is whether anything can reach the wheels, the footrests or the chain, and whether it stays put at speed and at a stop. Sit on the bike in it before you commit, or wear trousers or shorts underneath.
+It depends on the garment and the bike, and the test is in the clothes section above: sit on the bike in it first, or wear trousers or shorts underneath.
