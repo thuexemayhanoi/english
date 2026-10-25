@@ -42,7 +42,13 @@ if (process.argv.includes('--lighthouserc')) {
           'categories:performance': ['error', { minScore: 0.5 }],
           'categories:accessibility': ['error', { minScore: 0.75 }],
           'categories:best-practices': ['error', { minScore: 0.75 }],
-          'categories:seo': ['error', { minScore: 0.8 }]
+          'categories:seo': ['error', { minScore: 0.8 }],
+          // Per-audit SEO assertions (docs/seo/research/package3, Lighthouse method M1): the 0.8
+          // category floor still passes with two failing SEO audits. Warn level while the
+          // experiment measures which audits pass on the static server; errors only after that.
+          'document-title': 'warn', 'meta-description': 'warn', 'http-status-code': 'warn',
+          'link-text': 'warn', 'crawlable-anchors': 'warn', 'is-crawlable': 'warn',
+          'robots-txt': 'warn', 'image-alt': 'warn', 'canonical': 'warn', 'hreflang': 'warn'
         }
       },
       upload: { target: 'temporary-public-storage' }
