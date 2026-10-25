@@ -74,7 +74,7 @@ Chain on manual and semi-automatic bikes: not rusted stiff, and neither hanging 
 
 - Note the fuel level and agree the return level - the [fuel-policy article]({{ '/articles/motorbike-rental-fuel-policy-hanoi/' | relative_url }}) explains the two conventions.
 - Number plate fitted and clean - riding without a number plate is a serious violation. If you are shown the registration papers, compare the characters with them: they should be readable and match. The [number plates guide]({{ '/articles/riding-without-number-plates-vietnam/' | relative_url }}) sets out the offence.
-- Registration papers: ask at handover which ones travel with the bike (the original or a certified copy). If they stay at the shop, keep the shop's number for a police stop; the guide to [police holding a motorbike]({{ '/articles/police-impound-motorbike-vietnam/' | relative_url }}) covers what can happen when papers cannot be produced.
+- Registration papers: ask at handover which ones travel with the bike (the original or a certified copy). If the original stays at the shop, ask for a certified copy to carry, and keep the shop's number; the guide to [police holding a motorbike]({{ '/articles/police-impound-motorbike-vietnam/' | relative_url }}) covers what can happen when papers cannot be produced.
 
 Nguyen Tu does not provide motorbike insurance, so do not expect an insurance certificate to come with the bike: customers arrange their own cover before they ride. The [documents guide]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) sets out the papers the law expects a rider to carry.
 
@@ -122,7 +122,7 @@ Screenshot or print this table. The right-hand column says what to do when a che
 
 | Check | What normal looks like | If it is not |
 |---|---|---|
-| Registration papers | Asked which travel with the bike; the plate matches any you see | Plate does not match the papers you see: stop and ask. If papers stay at the shop, keep its number for a police stop |
+| Registration papers | Asked which travel with the bike; the plate matches any you see | Plate does not match the papers you see: stop and ask. If the original stays at the shop, ask for a certified copy to carry |
 | Headlight, low and high beam | Both light up with the engine running | Fix first |
 | Brake light, indicators, horn | Brake light comes on with every brake control; indicators flash; horn sounds | Fix first |
 | Front and rear brakes | Firm lever or pedal; the wheel stops; the bike stops straight | Stop |

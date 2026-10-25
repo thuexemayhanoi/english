@@ -47,7 +47,7 @@ The day rate and what sits on top of it are set out further down. Everything els
 
 ## May be included: maintenance and support
 
-Both items below depend on your bike and your dates, so treat them as questions to confirm rather than promises.
+Both items below are conditional, so treat them as questions to confirm rather than promises.
 
 - The owner's basic maintenance across the rental: engine oil changes, chain adjustment and tensioning, tyre-pressure checks and normal inspection. On a longer rental this is a real part of the value - a monthly renter is not paying for the bike's upkeep. Read the list as work the maintenance may include, not as a fixed service schedule, and ask which items apply to your bike and your dates.
 
@@ -106,7 +106,7 @@ Neither is confirmed, so ask, and if the answer is no, bring your own. A raincoa
 
 ### Registration papers
 
-Ask at handover which registration papers travel with the bike (the original or a certified copy); if they stay at the shop, keep the shop's number for a police stop. [What a rider must carry in Vietnam]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) covers the papers a rider is required to carry, the registration certificate among them.
+Ask at handover which registration papers travel with the bike (the original or a certified copy); if the original stays at the shop, ask for a certified copy to carry, and keep the shop's number. [What a rider must carry in Vietnam]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) covers the papers a rider is required to carry, the registration certificate among them.
 
 ### Keep the answers in writing
 
@@ -174,4 +174,4 @@ It depends on the situation: inner tubes and tyres may be the renter's responsib
 
 ### Can I count on rescue at any hour if the bike breaks down?
 
-No. Rescue at any hour is not promised, so call or message during opening hours.
+No. Call or message during opening hours; the limits are under What support does not promise.
