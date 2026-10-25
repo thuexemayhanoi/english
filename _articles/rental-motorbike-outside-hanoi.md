@@ -50,7 +50,7 @@ A trip is also a plan for the return, and the published return terms do not ment
 
 ## Roads that do not allow motorbikes
 
-The practical barrier most riders hit: expressways, in general experience rather than by any count. Motorbikes are banned from Vietnamese expressways (Law 36/2024/QH15, Article 25(3)), and the penalties for entering one are set separately — see [Are Motorbikes Allowed on Vietnamese Expressways]({{ '/articles/motorbikes-on-expressway-vietnam/' | relative_url }}). Your route out of Hanoi therefore uses national roads and provincial roads, which are slower but the ones everyone rides, meaning the roads whose signs leave them open to motorbikes. Plan distances accordingly: a "150 km trip" on a map can be a longer ride in real conditions than the map suggests, so build the day around the stops and the slow sections rather than the distance alone.
+The practical barrier most riders hit: expressways, though that is a general impression, not a counted figure. Motorbikes are banned from Vietnamese expressways (Law 36/2024/QH15, Article 25(3)), and the penalties for entering one are set separately — see [Are Motorbikes Allowed on Vietnamese Expressways]({{ '/articles/motorbikes-on-expressway-vietnam/' | relative_url }}). Your route out of Hanoi therefore uses national roads and provincial roads, which are slower but the ones everyone rides, or at least the ones whose signs leave them open to motorbikes. Plan distances accordingly: a "150 km trip" on a map can be a longer ride in real conditions than the map suggests, so build the day around the stops and the slow sections rather than the distance alone.
 
 ### What the law says
 
