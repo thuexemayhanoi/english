@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-  - "https://en.wikipedia.org/wiki/West_Lake_(Hanoi) — West Lake (Hanoi), Wikipedia — 17 km shore length, Thanh Nien road dividing off Truc Bach Lake, Tran Quoc Pagoda on a small island (retrieved 2026-10-25)"
+  - "https://en.wikipedia.org/wiki/West_Lake_%28Hanoi%29 — West Lake (Hanoi), Wikipedia — 17 km shore length, Thanh Nien road dividing off Truc Bach Lake, Tran Quoc Pagoda on a small island (retrieved 2026-10-25)"
   - "https://www.myhanoitours.com/nhat-tan-flower-village/ — Nhat Tan Flower Village, My Hanoi Tours — flower village on the edge of West Lake, peach blossom visited when the weather turns cool (retrieved 2026-10-25)"
 internal_link_targets: best-motorbike-for-expats-hanoi, best-motorbike-for-day-trips-from-hanoi, where-to-park-motorbike-hanoi, motorbike-rental-pickup-or-delivery-hanoi, riding-rental-motorbike-hanoi-rain, tay-ho-west-lake-area-guide-riders, west-lake-loop-motorbike-route, hanoi-2025-administrative-restructuring-riders, nhat-tan-flower-fields-motorbike-ride, rental-motorbike-inspection-checklist, motorbike-rental-price-hanoi
 ---

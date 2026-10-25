@@ -349,6 +349,13 @@ function lintArticle(slug, now, baseline) {
   for (const a of amounts) if (!allowed.has(a)) R('amount ' + a + ' is neither in docs/OWNER-FACTS.md nor in the original article: needs a cited source');
   for (const m of text.matchAll(/\b\d{1,3}\s?k\s?(?:VND|vnd|d)\b|\b\d+(?:\.\d+)?\s?(?:million|triệu)\b/gi)) if (!origNorm.includes(' ' + normSent(m[0]) + ' ')) R('abbreviated amount "' + m[0] + '": use the exact approved VND figures');
   for (const m of text.matchAll(/(?:\+?84|0)[\s.-]?9\d{2}[\s.-]?\d{3}[\s.-]?\d{3}/g)) if (m[0].replace(/\D/g, '').replace(/^84/, '0') !== '0942467674') E('phone number ' + m[0] + ' differs from docs/OWNER-FACTS.md');
+  // rendered sources entries (http only) are public: no process wording, no duplicate URL
+  const srcs = fmList(raw, 'sources').map(x => x.replace(/^"|"$/g, '')).filter(x => /^https?:/.test(x));
+  for (const sEntry of srcs) if (/\b(for this fix|re-read|this session|the writer|the verifier|draft|batch|lint)\b/i.test(sEntry.split(' \u2014 ').slice(1).join(' '))) E('process wording in a rendered sources entry: ' + sEntry.slice(0, 120));
+  const srcUrls = srcs.map(x => x.split(' ')[0]); if (new Set(srcUrls).size !== srcUrls.length) E('the same URL appears twice in sources: merge the entries');
+  // URLs with literal parentheses are cut at ")" by the link-check workflow (it extracts external URLs from the raw file): encode them as %28 and %29
+  const paren = raw.match(/https?:\/\/[^\s"<>]*[()][^\s"<>]*/g);
+  if (paren) E('URL with a literal parenthesis (encode it as %28 / %29, the link-check workflow cuts URLs at ")"): ' + paren[0].slice(0, 100));
   // prose references to another guide without a link (same rule as the matrix: it would raise this URL to P1/P2)
   const unl = L.unlinkedRefs(body); res.stats.unlinkedGuideReferences = unl;
   if (unl > 0) E(unl + ' unlinked guide reference(s) in prose (the matrix raises such a URL to P1/P2): link the guide, or rephrase a same-page pointer such as "(see the section above)"');
