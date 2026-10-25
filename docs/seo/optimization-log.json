@@ -1544,5 +1544,26 @@
    "descriptionsRewritten": 4,
    "trackedKeywordsDeclared": 13
   }
+ },
+ {
+  "date": "2026-10-25",
+  "batch": "package2-p2-01",
+  "package": 2,
+  "note": "SEO Package 2 content depth: 5 article(s) expanded to at least 1600 words (2001 -> 11897 words); same URL, slug and canonical; Group A, queue 2/10/17/88/91. Tay Ho, Long Bien, 50cc and Vision-vs-Janus passed independent verification (Vision first time, the others after one fix round); Old Quarter needed three rounds and its last fixes were applied from the third verifier's findings and checked by lint and QA (no fourth independent pass). Removed or reworded original passages: Old Quarter ranked order and the unsourced half-the-residents, lightest-steering, 15 km/h and peak-season availability claims; Long Bien invented deposit, after-hours-return and minutes-away claims; 50cc compulsory-insurance-carried-by-the-fleet sentence (conflicts with OWNER-FACTS) and the unsourced no-official-new-50s claim; Tay Ho common-delivery-destination sentence softened (owner to confirm); Vision-vs-Janus bullet that contradicted the engine section. No weekly, monthly, 50cc or E-Bike price added (docs/seo/price-reconciliation.md). Findings for the owner: do-electric-motorbikes-need-insurance-vietnam (Package 2 queue 387) and do-you-need-insurance-for-50cc-vietnam (out of scope, unchanged) state fleet insurance cover, which conflicts with OWNER-FACTS; hoan-kiem-walking-street-motorbike-visitors does not mention the 1 July 2026 Zone 1 evening restriction.",
+  "urls": [
+   "/articles/best-bike-for-hanoi-old-quarter/",
+   "/articles/renting-motorbike-tay-ho/",
+   "/articles/motorbike-delivery-long-bien/",
+   "/articles/renting-50cc-hanoi/",
+   "/articles/honda-vision-vs-yamaha-janus/"
+  ],
+  "rank_work": false,
+  "counts": {
+   "articles": 5,
+   "wordsBefore": 2001,
+   "wordsAfter": 11897,
+   "wordsAdded": 9896,
+   "rankTrackedUrls": 0
+  }
  }
 ]

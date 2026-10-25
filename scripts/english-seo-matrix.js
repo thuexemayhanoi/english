@@ -68,26 +68,8 @@ const firstParagraph = body => {
   const paras = L.stripLiquid(body).replace(/<[^>]+>/g, ' ').split(/\n\s*\n/).map(p => p.trim()).filter(p => p && !p.startsWith('#') && !p.startsWith('|') && !p.startsWith('<'));
   return paras[0] || '';
 };
-// Prose references to another guide that are not hyperlinks (README "see our guide" class).
-// A reference counts as unlinked only when the words that name the other guide
-// are plain prose. Existing links are replaced by a marker first, so
-// "covered in our [brakes guide](...)" or "(see our [IDP guide](...))" never count.
-const LINK_MARK = '\u00a7LINK\u00a7';
-const UNLINKED_REF_PATTERNS = [
-  /see our guide (?:to|on) [a-z]/i,
-  /\bthe (?![a-z \-]*\bthis (?:article|guide)\b)[a-z][a-z \-]{2,40} (?:article|guide) (?:lists|covers|explains|walks|goes|shows|has|describes)\b/i,
-  /(?<!\u00a7[^.]{0,30})\b(?:our|the) (?:separate|dedicated|companion|full) (?:guide|article)\b/i,
-  /covered in (?:our|the|a separate) (?![^.]{0,40}\u00a7)[a-z]/i,
-  /\(see (?:(?!\u00a7)[^)]){3,80}\)/i
-];
-function unlinkedRefs(body) {
-  const text = L.stripLiquid(body);
-  // Replace existing markdown/html links by a marker so linked references are not counted.
-  const noLinks = text.replace(/\[[^\]]*\]\([^)]*\)/g, ' ' + LINK_MARK + ' ').replace(/<a [^>]*>[\s\S]*?<\/a>/gi, ' ' + LINK_MARK + ' ');
-  let n = 0;
-  for (const re of UNLINKED_REF_PATTERNS) { const m = noLinks.match(new RegExp(re.source, re.flags + 'g')); if (m) n += m.length; }
-  return n;
-}
+// Prose references to another guide that are not hyperlinks: the shared rule lives in lib.js (unlinkedRefs).
+const unlinkedRefs = L.unlinkedRefs;
 
 // ---------- inputs ----------
 const articles = L.loadArticles();

@@ -1,6 +1,6 @@
 Queue,URL,Group,Original Words,Current Words,Target,Package 2 Status,Batch,Search Intent,Primary Keyword,Topic Cluster,Matrix Priority,SEO Status,QA / Reason
 1,/articles/automatic-vs-manual-motorbike-hanoi/,A,349,349,1600,PENDING,,commercial,automatic semi automatic or manual,rental / 1.2 choosing-bike,P3,OPTIMIZED 2026-10-14,
-2,/articles/best-bike-for-hanoi-old-quarter/,A,378,378,1600,PENDING,,commercial,best bike for hanoi old quarter,rental / 1.2 choosing-bike,P3,OPTIMIZED 2026-10-14,
+2,/articles/best-bike-for-hanoi-old-quarter/,A,378,2369,1600,DONE,p2-01,commercial,best bike for hanoi old quarter,rental / 1.2 choosing-bike,P3,OPTIMIZED 2026-10-14,"lint 0 errors; independent verification (writer + verifier, 1-3 rounds); build-report P0 0 P1 0; engine tests 82/82; Jekyll build and rendered audit P0/P1 0; assistant 31/31; duplicate check P2 0"
 3,/articles/best-scooters-to-rent-hanoi/,A,302,302,1600,PENDING,,commercial,Hanoi scooter rental,rental / 1.2 choosing-bike,P3,OPTIMIZED 2026-10-14,
 4,/articles/can-foreigners-rent-a-motorbike-hanoi/,A,378,378,1600,PENDING,,informational,Hanoi motorbike rental for foreigners,rental / 1.1 how-to-rent,P3,OPTIMIZED 2026-10-14,
 5,/articles/can-tourists-rent-a-motorbike-hanoi/,A,337,337,1600,PENDING,,informational,can tourists rent a motorbike in hanoi,rental / 1.1 how-to-rent,P3,OPTIMIZED 2026-10-15,
@@ -8,14 +8,14 @@ Queue,URL,Group,Original Words,Current Words,Target,Package 2 Status,Batch,Searc
 7,/articles/first-time-renting-a-motorbike-hanoi/,A,410,410,1600,PENDING,,informational,first time renting motorbike hanoi,rental / 1.1 how-to-rent,P3,OPTIMIZED 2026-10-14,
 8,/articles/how-to-book-a-motorbike-rental-hanoi/,A,361,361,1600,PENDING,,informational,Motorbike rental app Hanoi,rental / 1.1 how-to-rent,P3,OPTIMIZED 2026-10-14,
 9,/articles/how-to-rent-a-motorbike-hanoi/,A,498,498,1600,PENDING,,informational,Rent a motorbike in Hanoi,rental / 1.1 how-to-rent,P3,OPTIMIZED 2026-10-15,
-10,/articles/motorbike-delivery-long-bien/,A,403,403,1600,PENDING,,informational,motorbike delivery long bien hanoi,rental / 1.5 area-guides,P3,LINKS_REPAIRED 2026-10-14,
+10,/articles/motorbike-delivery-long-bien/,A,403,2584,1600,DONE,p2-01,informational,motorbike delivery long bien hanoi,rental / 1.5 area-guides,P3,LINKS_REPAIRED 2026-10-14,"lint 0 errors; independent verification (writer + verifier, 1-3 rounds); build-report P0 0 P1 0; engine tests 82/82; Jekyll build and rendered audit P0/P1 0; assistant 31/31; duplicate check P2 0"
 11,/articles/motorbike-delivery-old-quarter/,A,422,422,1600,PENDING,,informational,Motorbike rental with hotel delivery,rental / 1.5 area-guides,P3,OPTIMIZED 2026-10-14,
 12,/articles/motorbike-rental-pickup-or-delivery-hanoi/,A,373,373,1600,PENDING,,informational,Hanoi motorbike rental delivery,rental / 1.1 how-to-rent,P3,OPTIMIZED 2026-10-15,
 13,/articles/motorbike-rental-price-hanoi/,A,407,407,1600,PENDING,,commercial,Hanoi motorbike rental prices,rental / 1.1 how-to-rent,P3,OPTIMIZED 2026-10-15,
 14,/articles/renting-motorbike-hoan-kiem/,A,437,437,1600,PENDING,,commercial,Hoan Kiem motorbike rental,rental / 1.5 area-guides,P3,OPTIMIZED 2026-10-14,
 15,/articles/renting-motorbike-noi-bai-arrival/,A,476,476,1600,PENDING,,informational,motorbike rental hanoi airport arrival,rental / 1.4 renter-situations,P3,OPTIMIZED 2026-10-15,
 16,/articles/renting-motorbike-six-months-hanoi/,A,497,497,1600,PENDING,,commercial,long term motorbike rental hanoi,rental / 1.4 renter-situations,P3,OPTIMIZED 2026-10-14,
-17,/articles/renting-motorbike-tay-ho/,A,471,471,1600,PENDING,,commercial,Tay Ho motorbike rental,rental / 1.5 area-guides,P3,OPTIMIZED 2026-10-14,
+17,/articles/renting-motorbike-tay-ho/,A,471,2387,1600,DONE,p2-01,commercial,Tay Ho motorbike rental,rental / 1.5 area-guides,P3,OPTIMIZED 2026-10-14,"lint 0 errors; independent verification (writer + verifier, 1-3 rounds); build-report P0 0 P1 0; engine tests 82/82; Jekyll build and rendered audit P0/P1 0; assistant 31/31; duplicate check P2 0"
 18,/articles/renting-vs-buying-a-motorbike-hanoi/,A,326,326,1600,PENDING,,informational,renting vs buying motorbike hanoi,rental / 1.1 how-to-rent,P3,OPTIMIZED 2026-10-14,
 19,/articles/scooter-vs-semi-automatic-hanoi/,A,343,343,1600,PENDING,,commercial,scooter vs semi automatic hanoi,rental / 1.2 choosing-bike,P3,OPTIMIZED 2026-10-14,
 20,/articles/where-to-park-motorbike-hanoi/,A,490,490,1600,PENDING,,informational,where to park motorbike hanoi,rental / 1.3 rental-practicalities,P3,LINKS_REPAIRED 2026-10-14,
@@ -86,10 +86,10 @@ Queue,URL,Group,Original Words,Current Words,Target,Package 2 Status,Batch,Searc
 85,/articles/students-semester-motorbike-rental-hanoi/,A,307,307,1600,PENDING,,commercial,student semester motorbike rental hanoi,monthly-rental / 2.4 renter-lifestyles,P3,OPTIMIZED 2026-10-14,
 86,/articles/test-riding-before-monthly-rental-hanoi/,A,325,325,1600,PENDING,,informational,test ride before monthly motorbike rental hanoi,monthly-rental / 2.5 choosing-long-term,P3,LINKS_REPAIRED 2026-10-14,
 87,/articles/which-motorbikes-have-monthly-rates-hanoi/,A,308,308,1600,PENDING,,informational,which motorbikes have monthly rates hanoi,monthly-rental / 2.1 monthly-basics,P3,LINKS_REPAIRED 2026-10-14,
-88,/articles/renting-50cc-hanoi/,A,405,405,1600,PENDING,,informational,50cc motorbike rental Hanoi,50cc / 6.4 buying-owning,P3,OPTIMIZED 2026-10-14,
+88,/articles/renting-50cc-hanoi/,A,405,2185,1600,DONE,p2-01,informational,50cc motorbike rental Hanoi,50cc / 6.4 buying-owning,P3,OPTIMIZED 2026-10-14,"lint 0 errors; independent verification (writer + verifier, 1-3 rounds); build-report P0 0 P1 0; engine tests 82/82; Jekyll build and rendered audit P0/P1 0; assistant 31/31; duplicate check P2 0"
 89,/articles/honda-vision-vs-honda-lead-125/,A,348,348,1600,PENDING,,commercial,honda vision vs honda lead 125,scooters / 3.2 model-comparisons,P3,OPTIMIZED 2026-10-14,
 90,/articles/honda-vision-vs-honda-vario-125/,A,359,359,1600,PENDING,,commercial,honda vision vs honda vario 125,scooters / 3.2 model-comparisons,P3,OPTIMIZED 2026-10-14,
-91,/articles/honda-vision-vs-yamaha-janus/,A,344,344,1600,PENDING,,commercial,honda vision vs yamaha janus,scooters / 3.2 model-comparisons,P3,OPTIMIZED 2026-10-14,
+91,/articles/honda-vision-vs-yamaha-janus/,A,344,2376,1600,DONE,p2-01,commercial,honda vision vs yamaha janus,scooters / 3.2 model-comparisons,P3,OPTIMIZED 2026-10-14,"lint 0 errors; independent verification (writer + verifier, 1-3 rounds); build-report P0 0 P1 0; engine tests 82/82; Jekyll build and rendered audit P0/P1 0; assistant 31/31; duplicate check P2 0"
 92,/articles/yamaha-gear-125-vs-honda-vision/,A,349,349,1600,PENDING,,commercial,yamaha gear 125 vs honda vision,scooters / 3.2 model-comparisons,P3,OPTIMIZED 2026-10-14,
 93,/articles/documents-needed-rent-motorbike-hanoi/,B,343,343,1600,PENDING,,informational,documents needed to rent motorbike hanoi,rental / 1.1 how-to-rent,P3,OPTIMIZED 2026-10-14,
 94,/articles/how-deposit-returns-work-hanoi/,B,338,338,1600,PENDING,,informational,when do you get motorbike rental deposit back,rental / 1.3 rental-practicalities,P3,OPTIMIZED 2026-10-14,
