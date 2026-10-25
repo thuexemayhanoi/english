@@ -23,7 +23,7 @@ internal_link_targets: "monthly-motorbike-rental-hanoi, renting-motorbike-year-h
 
 One to three months is the classic "long stay, not a life" duration: interns, semester-abroad students, seasonal workers, contract staff, slow nomads. Motorbike rental fits it well — here is how the arrangement works at quarter scale.
 
-A 3 month motorbike rental in Hanoi is longer than a single month, and Nguyen Tu's rental periods are daily, weekly and monthly with longer terms negotiable, so the deposit and the maintenance arrangement for your dates are agreed with the shop. Ask whether the shop agrees month by month and how much notice it wants before a month ends. This page sets out how to structure that conversation, what to check along the way and how to plan the end before your flight.
+A 3 month motorbike rental in Hanoi is longer than a single month, and Nguyen Tu's rental periods are daily, weekly and monthly with longer terms negotiable, so the price for your dates, the deposit and the maintenance arrangement are agreed with the shop. Ask whether the shop agrees month by month and how much notice it wants before a month ends. This page sets out how to structure that conversation, what to check along the way and how to plan the end before your flight.
 
 ## The structure
 
@@ -61,7 +61,7 @@ Payment can be made by cash, bank transfer or QR. The shop's phone, WhatsApp and
 
 ## Choosing a bike for a quarter
 
-Over three months small annoyances stop being small, so the first choice deserves more care. Ask whether the bike can be changed if it does not suit you; nothing published promises it.
+Over three months small annoyances stop being small, so the first choice deserves more care. Ask whether the bike can be changed if it does not suit you.
 
 Two questions matter more than usual over a quarter:
 
@@ -86,7 +86,7 @@ Consumables such as inner tubes and tyres may be the renter's responsibility dep
 
 Nguyen Tu's practical guidance, not a manufacturer interval, is periodic checks around 1,500 km or more of use. Log the odometer reading at handover and at each monthly check so you know when to ask for the check.
 
-To see whether that mark falls inside your term, divide 1,500 by a normal day's distance. Imagine a rider who covers 20 km a day: the mark arrives on day 75 (1,500 ÷ 20), inside a 90-day quarter, so the check belongs in the plan from the start. At 10 km a day it arrives on day 150 (1,500 ÷ 10), which only an extended rental would reach.
+To see whether that mark falls inside your term, divide 1,500 by a normal day's distance. Imagine a rider who covers 20 km a day, riding that distance every day: the mark arrives on day 75 (1,500 ÷ 20), inside a three-month term (about 90 days), so the check belongs in the plan from the start. At 10 km a day it arrives on day 150 (1,500 ÷ 10), which only an extended rental would reach.
 
 ## The quarter's rhythm
 
@@ -96,7 +96,7 @@ To see whether that mark falls inside your term, divide 1,500 by a normal day's 
 
 ## The monthly self-check
 
-The step-by-step walk-round is set out in the [monthly inspection routine]({{ '/articles/monthly-rental-inspection-schedule-hanoi/' | relative_url }}). What a quarter adds is a record to compare against:
+The step-by-step walk-round is set out in the [inspection and check routine]({{ '/articles/monthly-rental-inspection-schedule-hanoi/' | relative_url }}). What a quarter adds is a record to compare against:
 
 - At handover, keep three records: photographs of every panel and every existing scratch, the fuel level, and the shop's written reply to your message.
 - Each month, photograph the bike from the same angles and compare the new set with the handover set, not with memory.
@@ -110,7 +110,7 @@ One more line belongs in the budget: your own insurance. Nguyen Tu does not prov
 
 ## Documents that must last the whole term
 
-A three-month rental outlasts more paperwork than a three-day one: under Article 57 of Law 36/2024/QH15, an International Driving Permit lasts no more than three years from the date of issue and only within the validity of the national licence. A foreign rider using one must carry the permit together with a national licence for the vehicle class that is still in date, and [How Long Can You Ride on an IDP in Vietnam]({{ '/articles/idp-validity-period-vietnam/' | relative_url }}) is the site's guide to the permit's duration.
+A three-month rental outlasts more paperwork than a three-day one: under Article 57 of Law 36/2024/QH15, an International Driving Permit issued by a Vienna Convention member state lasts no more than three years from the date of issue and only within the validity of the national licence. A foreign rider using one must carry the permit together with a national licence for the vehicle class that is still in date, and [How Long Can You Ride on an IDP in Vietnam]({{ '/articles/idp-validity-period-vietnam/' | relative_url }}) is the site's guide to the permit's duration.
 
 The practical step is to check those dates against the end of the term, not the start. Write the licence, permit and visa expiry dates on one line and compare the earliest with your planned return date; if the term would outlast any of them, sort that out before you rent or plan the return before it.
 
@@ -129,7 +129,7 @@ If the end date is set by a flight or a contract, work backwards from it. These 
 
 ### What does a 3 month motorbike rental cost?
 
-Nguyen Tu publishes no price for a three-month term, so contact us with your dates. The [published monthly rates]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }}) list the published monthly figures for models that have one.
+Nguyen Tu publishes no price for a three-month term, so contact us with your dates. The [published monthly rates]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }}) list the monthly figure for each model that has one.
 
 ### Can I extend beyond three months?
 
