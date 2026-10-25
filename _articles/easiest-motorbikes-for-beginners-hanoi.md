@@ -20,7 +20,7 @@ sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 34 (definitions of the moped and of the motorised pedal bicycle, including the electric bicycle) and Article 59 (age 16 for a moped, age 18 for class A1) (retrieved 2026-10-25)"
   - "https://www.honda.com.vn/xe-may/san-pham/vision — Honda Vietnam: Vision detail page — kerb weight (retrieved 2026-10-25)"
   - "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110 — Honda Vietnam: Wave Alpha 110 detail page — kerb weight, seat height and gearbox type (retrieved 2026-10-25)"
-  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23) — transmission of the Honda Vision and Air Blade 125, kerb weight of the Air Blade 125 and the existence of an Air Blade 160, transmission and clutch type of the Yamaha Sirius RC 110"
+  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23) — transmission of the Honda Vision and Air Blade 125, the existence of an Air Blade 160, transmission and clutch type of the Yamaha Sirius RC 110"
 internal_link_targets: hill-starts-motorbike-slopes-vietnam, first-time-renting-a-motorbike-hanoi, automatic-vs-manual-motorbike-hanoi, lightest-motorbikes-for-new-riders, best-motorbike-for-hanoi-traffic, how-to-rent-a-motorbike-hanoi, semi-automatic-gearbox-explained, learning-to-ride-on-50cc-vietnam, scooter-vs-semi-automatic-hanoi, electric-bike-licence-vietnam
 ---
 
@@ -73,11 +73,12 @@ Law 36/2024/QH15 sorts electric two-wheelers by construction and power, and the 
 - **Anything above that.** A scooter-style electric machine of more than 4 kW, or designed to go faster than 50 km/h, is a motorcycle and needs a licence class, as [the electric bike licence guide]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}) sets out.
 
 The label on a rental does not tell you which group it belongs to, so ask for the rated power and the top speed, and for a pedal-assist bike ask whether the motor stops assisting when you stop pedalling.
+
 ## The middle option: semi-automatic underbones
 
 The Wave and Sirius class are easy to ride but add a foot-shifted gearbox - one more thing to learn. If a beginner must start on one, an empty parking lot and unhurried practice before the first road is the sensible start; automatics skip the lesson entirely.
 
-Neither the Wave Alpha 110 nor the Sirius RC 110 has a clutch lever; the left foot does all the shifting. Honda lists the Wave Alpha 110 at 96 kg and publishes a 770 mm seat height for it, the only seat-height figure quoted in this guide; a figure like that cannot tell you whether your legs reach the ground, so the sit test decides.
+Honda and Yamaha list four-speed rotary gearboxes for these two bikes, and Yamaha lists a centrifugal clutch for the Sirius RC 110, so there is no clutch lever to work; the left foot does the shifting. Honda lists the Wave Alpha 110 at 96 kg and publishes a 770 mm seat height for it, the only seat-height figure quoted in this guide; a figure like that cannot tell you whether your legs reach the ground, so sitting on the bike decides.
 
 [The scooter versus semi-automatic comparison]({{ '/articles/scooter-vs-semi-automatic-hanoi/' | relative_url }}) sets the two types side by side. For this guide it is enough that an underbone sits one task above a scooter and well below a clutch bike.
 
@@ -94,7 +95,9 @@ Each of these fails a row of the table at the top:
 
 ## Judging the bike at handover
 
-A class tells you what is likely; the bike in front of you is what you ride. Sit on it with the engine off, in the shoes you will ride in: both feet should reach the ground, and your thumbs should reach the horn and indicators while your fingers sit on both brake levers. Ask which control works which wheel and whether the bike has ABS rather than assuming it, and ask whether the scooter switches its engine off at a stop, so you can watch it restart before you rely on it at a junction. When a check fails, ask for another bike; whether one is on hand for your dates is a question for the shop. [The Hanoi traffic guide]({{ '/articles/best-motorbike-for-hanoi-traffic/' | relative_url }}) sets out the roll-and-squeeze brake test, and [the guide to the lightest motorbikes for new riders]({{ '/articles/lightest-motorbikes-for-new-riders/' | relative_url }}) covers weight in full.
+A class tells you what is likely; the bike in front of you is what you ride. Sit on it with the engine off, in the shoes you will ride in: both feet should reach the ground, and your thumbs should reach the horn and indicators while your fingers sit on both brake levers.
+
+Ask which control works which wheel and whether the bike has ABS rather than assuming it, and ask whether the scooter switches its engine off at a stop, so you can watch it restart before you rely on it at a junction. When a check fails, ask for another bike; whether one is on hand for your dates is a question for the shop. [The Hanoi traffic guide]({{ '/articles/best-motorbike-for-hanoi-traffic/' | relative_url }}) sets out the roll-and-squeeze brake test, and [the guide to the lightest motorbikes for new riders]({{ '/articles/lightest-motorbikes-for-new-riders/' | relative_url }}) covers weight in full.
 
 ## Which easy bike suits which beginner
 
@@ -137,7 +140,7 @@ It can be simpler, with no gears and a limited top speed, but the word covers di
 
 ### Do I need a licence for the easiest bikes?
 
-The common rental sizes sit inside class A1 (up to and including 125 cc), but an Air Blade 160 is above that and needs class A, so ask the engine size. Either way, riding one takes a licence Vietnam recognises; [what the A1 class covers]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) is set out in its guide. The licence-free groups are the pedal-assist e-bike and the moped (a design speed of no more than 50 km/h with an engine of 50 cc or less or an electric motor of 4 kW or less; Article 34(1)(g)), and a 110 cc bike is neither.
+The common rental sizes sit inside class A1 (up to and including 125 cc), but an Air Blade 160 is above that and needs class A on a new licence, so ask the engine size. Either way, riding one takes a licence Vietnam recognises; [what the A1 class covers]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) is set out in its guide. The licence-free groups are the pedal-assist e-bike and the moped (a design speed of no more than 50 km/h with an engine of 50 cc or less or an electric motor of 4 kW or less; Article 34(1)(g)), and a 110 cc bike is neither.
 
 ### Is a semi-automatic a bad first bike?
 

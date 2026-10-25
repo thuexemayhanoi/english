@@ -1,7 +1,7 @@
 ---
 title: "Lightest Motorbikes for New Foreign Riders"
 slug: lightest-motorbikes-for-new-riders
-description: "The lightest Hanoi rental motorbikes for a new rider: published weights for the Wave, Vision, Sirius and Air Blade, e-bikes, and what a few kilos change."
+description: "The lightest Hanoi rental motorbikes for a new rider: published weights for the Wave, Vision, Sirius and Air Blade, how e-bikes fit, and what a few kilos change."
 category: rental
 tags:
   - "lightweight"
@@ -24,7 +24,7 @@ sources:
 internal_link_targets: "easiest-motorbikes-for-beginners-hanoi, best-motorbike-for-hanoi-traffic, automatic-vs-manual-motorbike-hanoi, electric-bike-licence-vietnam, first-time-renting-a-motorbike-hanoi, scooter-kerb-weights-vietnam-verified, yamaha-latte-125-review, best-motorbikes-for-tall-riders-vietnam, scooter-vs-semi-automatic-hanoi, best-lightweight-scooters-beginners-vietnam, best-motorbike-for-commuting-hanoi"
 ---
 
-Many first-time riders worry about a bike tipping over at a stop. Weight is the variable that decides that moment, together with whether both feet reach the ground.
+Many first-time riders worry about a bike tipping over at a stop. Weight is the variable that decides that moment once both feet reach the ground.
 
 Short answer: the lightest motorbikes for beginners among the rental models with published figures are the Honda Wave Alpha 110 (96 kg) and the Honda Vision (97 kg), with the Yamaha Sirius RC 110 at 100 kg wet and the Honda Air Blade 125 at 110 kg. A few kilograms are not decisive, so use the figures to shortlist and a hands-on check to choose.
 
@@ -34,7 +34,7 @@ At a red light on a slope, with a bus behind you, the bike's mass goes through y
 
 ## The light end of the rental list
 
-- [Licence-free e-bikes]({{ '/articles/can-foreigners-rent-electric-bike-vietnam/' | relative_url }}): the lightest class on the list, bicycle-like controls, published at 200,000 VND per day. No licence needed (the rider must be 16+). For a rider with no motorcycle licence, this is the legal option; whether it is also the light one is a weight question for the shop.
+- [Licence-free e-bikes]({{ '/articles/can-foreigners-rent-electric-bike-vietnam/' | relative_url }}): the lightest class on the list, bicycle-like controls, published at 200,000 VND per day. No licence needed (the rider must be 16+). For a rider with no motorcycle licence, this is a legal option. Lightest here is a general description, not a measured weight: no e-bike weight is quoted in this guide, so ask the shop for it.
 - Small automatic scooters: the Honda Click and Yamaha Mio class (150,000 VND/day) and Honda Vision (200,000 VND/day) are the light mainstream motorbikes, with low centres of gravity; Honda publishes 97 kg for the Vision, and no manufacturer weight for the Click or Mio is used in this guide.
 - Semi-automatic underbones: the Wave and Sirius class (150,000 VND/day) are light too, and narrow, at the cost of the foot-shift.
 
@@ -42,7 +42,7 @@ What the law calls a pedal-type electric bicycle and a scooter-style electric mo
 
 ## The published weights, side by side
 
-Honda Vietnam and Yamaha Motor Vietnam publish a weight for four of the six petrol models. The table runs from the lowest number to the highest and says what each figure is.
+This guide uses a manufacturer weight for four of the six petrol models. The table runs from the lowest number to the highest and says what each figure is.
 
 | Model (version the figure belongs to) | Weight | Basis | Published day rate |
 |---|---|---|---|
@@ -52,7 +52,7 @@ Honda Vietnam and Yamaha Motor Vietnam publish a weight for four of the six petr
 | Honda Air Blade (125 version) | 110 kg | Kerb weight | 200,000 VND |
 | Honda Click and Yamaha Mio | No figure used | Not applicable | 150,000 VND each |
 
-Yamaha states a wet weight and Honda a kerb weight, so the first three rows are better read as one group than as a ladder: 96, 97 and 100 kg are within 4 kg of each other, on two different bases. No manufacturer weight for the Click or the Mio is used here.
+Yamaha states a wet weight and Honda a kerb weight, so the first three rows are better read as one group than as a ladder: 96, 97 and 100 kg are within 4 kg of each other, on two different bases.
 
 Scooters outside the shop's published list exist. The Yamaha Gear 125 Hybrid, for one, is recorded at 96 kg, and [the lightest scooters guide]({{ '/articles/best-lightweight-scooters-beginners-vietnam/' | relative_url }}) ranks the wider market by published weight. Whether the shop has any bike outside its published list is a question for the shop.
 
