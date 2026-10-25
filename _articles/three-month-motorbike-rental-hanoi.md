@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 57: a rider using a Vienna Convention IDP carries the permit and a still-valid national licence for the vehicle class (retrieved 2026-10-25)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 57: an international driving permit lasts no more than three years from issue and must be consistent with the national licence's remaining validity; a rider carries the permit and a national licence for the vehicle class that is still in date (retrieved 2026-10-25)"
 internal_link_targets: "monthly-motorbike-rental-hanoi, renting-motorbike-year-hanoi, motorbike-rental-agreement-long-term-hanoi, extending-motorbike-rental-hanoi, motorbike-rental-budget-monthly-hanoi, choosing-motorbike-monthly-rental-hanoi, returning-a-rental-motorbike-hanoi, licence-expiry-during-long-rental-hanoi"
 ---
 
@@ -35,16 +35,16 @@ Shorter and longer stays have their own guides. Between one week and one month, 
 
 ## Month by month, or one agreement for the whole period
 
-A three-month stay can be held in two shapes, and the better one depends mostly on how fixed your dates are. Both are arrangements to agree directly with the shop.
+A three-month stay can be held in two shapes, and the better one depends mostly on how fixed your dates are. Both are arrangements to agree directly with the shop. Laid out along the quarter, the difference is in what you have to decide and when.
 
-| Point to settle | Month by month | One agreement for the period |
+| Moment | Month by month | One agreement for the period |
 |---|---|---|
-| Price | Confirmed again at each renewal | One price for the whole period, agreed once |
-| If your plans shorten | Stop at the end of the current month by not renewing | Early return carries no automatic refund entitlement, so it becomes a conversation |
-| If your plans grow | Message before the month ends and renew | Agree the extension before the end date |
-| Your bike | Ask for availability to be confirmed at each renewal | Ask for it to be confirmed for the full period at the start |
+| Start | Terms and price for the first month | Terms and price for all three months, agreed once |
+| End of month 1 | A renewal message; ask for the rate and your bike's availability to be confirmed again | Nothing to renew: the monthly self-check and any maintenance visit |
+| End of month 2 | A second renewal message, and the point to say whether you are staying or returning | The point to settle an extension, if you want one, before the end date |
+| End of term | Return, or renew again | Return, or agree an extension |
 
-Month by month keeps you flexible: if the agreement renews monthly, nothing in it needs to reach past the current month. One agreement fixes the dates and terms for the whole quarter, which suits a renter whose end date is set by a contract or a flight, but leaving early then becomes a renegotiation.
+Counted this way, month by month means two renewal conversations inside the quarter, each one a point where you can change your plan. One agreement means a single conversation at the start and a fixed end date, which suits a renter whose finish is set by a contract or a flight. If your plans shorten, early return carries no automatic refund entitlement under either shape; a rolling arrangement lets you stop at the end of the month in progress by not renewing, whereas ending a fixed period early is a renegotiation.
 
 Do not assume either shape is cheaper. Ask the shop to quote both for your dates, and compare what each includes (the deposit held, the maintenance visits, the early-return terms) as well as the total.
 
@@ -65,16 +65,13 @@ Payment can be made by cash, bank transfer or QR. The shop's phone, WhatsApp and
 
 ## Choosing a bike for a quarter
 
-Over three months small annoyances stop being small. [Choosing the Right Motorbike for a Month in Hanoi]({{ '/articles/choosing-motorbike-monthly-rental-hanoi/' | relative_url }}) works through route, fit, storage and mileage; the extra point at three months is that a change of bike mid-term has to be arranged with the shop and depends on what is available then, so the first choice deserves more care.
+Over three months small annoyances stop being small. [Choosing the Right Motorbike for a Month in Hanoi]({{ '/articles/choosing-motorbike-monthly-rental-hanoi/' | relative_url }}) works through route, fit, storage and mileage. Three questions matter more than usual over a quarter:
 
-| If your quarter is mostly | Weigh this |
-|---|---|
-| A daily commute across the city | Comfort for the whole journey and space for the things you carry |
-| Short hops around one district | A light bike that is easy to park and manoeuvre |
-| Weekend trips beyond Hanoi | The usage scope in the agreement: the shop's support is primarily for Hanoi and local use |
-| Riding with a passenger | How the bike feels with two people, which only a trial can tell you |
+- How far will you ride on a normal day? The answer decides whether the 1,500 km mark described below falls inside your term.
+- What will you carry, and in which weather? A quarter that crosses the rainy season or winter adds rain gear or layers to whatever you already take with you.
+- Will you leave Hanoi? If so, agree the usage scope first, because the shop's support is primarily for Hanoi and local use.
 
-Published day rates are 150,000 VND for the Honda Wave, Yamaha Sirius, Honda Click and Yamaha Mio, and 200,000 VND for the Honda Vision and Honda Air Blade. They show where each model sits on the list but do not scale into a price for a quarter, so ask for the price of the period for the model you want, and contact us to confirm current availability for your dates. The deposit depends on the vehicle and conditions and is typically 2,000,000–5,000,000 VND.
+A change of bike mid-term has to be arranged with the shop and depends on what is available then, so the first choice deserves more care. Published day rates are 150,000 VND for the Honda Wave, Yamaha Sirius, Honda Click and Yamaha Mio, and 200,000 VND for the Honda Vision and Honda Air Blade. They show where each model sits on the list but do not scale into a price for a quarter, so ask for the price of the period for the model you want, and contact us to confirm current availability for your dates. The deposit depends on the vehicle and conditions and is typically 2,000,000–5,000,000 VND.
 
 ## Maintenance and wear across the quarter
 
@@ -129,21 +126,20 @@ One more line belongs in the budget: your own insurance. Nguyen Tu does not prov
 
 ## Documents that must last the whole term
 
-A three-month rental outlasts more paperwork than a three-day one. The legal rule comes first: under Article 57 of Law 36/2024/QH15, a foreign rider using an International Driving Permit issued by a Vienna Convention member state must carry the permit together with a national licence issued for the class of vehicle ridden, and that national licence must still be valid. Vietnam sets no separate time limit on the permit itself; its own printed expiry date and the national licence behind it do the limiting, as the [IDP validity guide]({{ '/articles/idp-validity-period-vietnam/' | relative_url }}) explains.
+A three-month rental outlasts more paperwork than a three-day one. The legal rule comes first: under Article 57 of Law 36/2024/QH15, an International Driving Permit issued by a Vienna Convention member state lasts no more than three years from the date of issue and must be consistent with the remaining validity of the national licence. A foreign rider using one must carry the permit together with a national licence issued for the class of vehicle ridden, and that licence must still be in date. [How Long Can You Ride on an IDP in Vietnam]({{ '/articles/idp-validity-period-vietnam/' | relative_url }}) is the site's guide to the permit's duration.
 
-The practical step is to check those dates against the end of the term, not the start. Compare the earlier of the two expiry dates with your planned return date, and renew before you rent if the term would outlast either. Imagine a renter whose national licence runs out six weeks into the term and who has told nobody: the rental carries on, but the right to ride does not.
+The practical step is to check those dates against the end of the term, not the start. Compare the earlier of the permit's and the licence's printed expiry dates with your planned return date, and if the term would outlast either, sort that out before you rent or plan the return before it. Imagine a renter whose national licence runs out six weeks into the term and who has told nobody: the rental carries on, but the right to ride does not.
 
 A licence that is no longer valid does not become usable because the rental continues: riding on one is treated as riding without a valid licence, and the [expired licence guide]({{ '/articles/expired-licence-fine-vietnam/' | relative_url }}) sets out how. If something does lapse mid-term, [what to do when a licence or visa expires mid-rental]({{ '/articles/licence-expiry-during-long-rental-hanoi/' | relative_url }}) covers the steps, and the shop should hear about it before the return date, since it may change your plans to extend.
 
 ## Planning the return before your flight
 
-If the end date is set by a flight or a contract, work backwards from it.
+If the end date is set by a flight or a contract, work backwards from it. The [guide to returning a rental motorbike]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }}) covers the day itself; these points are specific to a term agreed for three months.
 
 1. **Decide about extending two weeks out.** If you may stay longer, agree it before the end date.
 2. **End the agreement on the day you hand the bike back.** Early return carries no automatic refund entitlement; a late return costs 20,000 VND per hour, and more than 6 hours late may be charged as a full additional rental day, typically 150,000–200,000 VND depending on the motorcycle.
-3. **Fit the handover to opening hours.** The shop is open 09:00–21:00 daily. If your departure does not fit, raise it early, and ask whether pickup from your address can be arranged: pickup in Hanoi may be available depending on location and arrangement.
-4. **Ask how and when the deposit is settled,** so no step depends on a day after you have left.
-5. **Bring your records:** handover photos, the monthly log and the message thread. The [return walk-around guide]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }}) describes the process itself.
+3. **Send your departure details in the final fortnight.** Give the shop your flight time and ask how the handover fits its 09:00–21:00 opening hours, whether pickup from your address can be arranged (pickup in Hanoi may be available depending on location and arrangement), and how and when the deposit is settled.
+4. **Bring the monthly log and photos.** They show when any mark appeared.
 
 ## Quick answers
 

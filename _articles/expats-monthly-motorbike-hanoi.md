@@ -35,15 +35,15 @@ Riding legally in Vietnam requires the right licence for the bike you ride — f
 
 ### What the law recognises
 
-The rental agreement does not make you legal to ride; your licence does. Article 57 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) lists the licences valid on Vietnamese territory. Two matter most to an expat on a monthly rental: a licence issued by the Vietnamese authorities, and an International Driving Permit from a 1968 Vienna Convention state carried together with a national licence that fits the vehicle. The law also recognises licences from countries that have a recognition treaty or agreement with Vietnam, so confirm that route from an official source before you rely on it.
+The rental agreement does not make you legal to ride; your licence does. Article 57 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) lists the licences valid on Vietnamese territory. Two matter most to an expat on a monthly rental: a licence issued by the Vietnamese authorities, and an International Driving Permit together with a national licence, both issued by a 1968 Vienna Convention state, the licence being appropriate to the vehicle. The law also recognises licences from countries that have a recognition treaty or agreement with Vietnam, so confirm that route from an official source before you rely on it.
 
 Article 57(8) adds two conditions that matter over a long rental. The permit is valid for no more than three years from its issue date and has to fit within the remaining validity of the national licence, and its holder must carry both documents, in date and appropriate to the class of vehicle. A monthly term can outlast either date, so compare both with the end of the term you are asking for.
 
 ### Exchanging for a Vietnamese licence
 
-Residents have a second route. Under Article 24 of Circular 12/2025/TT-BCA, a foreigner who lives, works or studies in Vietnam and holds a national driving licence that is still valid, together with a temporary or permanent residence card valid for three months or more (or a diplomatic or service identity card), can be considered for exchange to the matching Vietnamese class. The Circular does not exchange an International Driving Permit, and it excludes a foreign licence that has expired or is altered or damaged.
+Residents have a second route. Under Article 24 of Circular 12/2025/TT-BCA, a foreigner who lives, works or studies in Vietnam and holds a national driving licence that is still valid, together with a temporary or permanent residence card valid for three months or more (or a diplomatic or service identity card), can be considered for exchange to the matching Vietnamese class. Among the licences the Circular excludes are an International Driving Permit and a foreign licence that has expired or is altered or damaged.
 
-[How Foreigners Exchange a Licence for a Vietnamese One]({{ '/articles/foreign-licence-exchange-vietnam/' | relative_url }}) walks through the process, including the certified Vietnamese translation of your foreign licence that the dossier needs. Whether to exchange is a practical decision: if your stay will outlast the expiry date of your licence or permit, start the next step before that date arrives.
+[How Foreigners Exchange a Licence for a Vietnamese One]({{ '/articles/foreign-licence-exchange-vietnam/' | relative_url }}) walks through the process, including the certified Vietnamese translation of your foreign licence that the dossier needs. Whether to exchange is a practical decision: if your stay will outlast the date on your IDP, decide early, because an exchange needs a national licence that is still valid.
 
 ## Why monthly beats daily for stays over a few weeks
 
@@ -58,11 +58,11 @@ Nguyen Tu's rental periods are daily, weekly and monthly, and longer-term rental
 | | Month-to-month renewal | A longer agreement |
 |---|---|---|
 | Commitment | One month at a time | A term agreed in advance |
-| Rate | Confirm the monthly rate for your model | Ask directly: nothing is published |
+| Rate | Confirm the monthly rate for your model | Ask directly: no longer-term rate is published |
 | Suits | An uncertain stay, a probation period, a lease not yet signed | A contract, lease or course with a known end date |
 | Ask about | Notice before each renewal and whether your own bike stays yours | What happens if you leave early or change bike |
 
-Renewal timing matters as much as the structure. An extension agreed before the term ends is a renewal; one arranged afterwards is a late return from the shop's side, charged at 20,000 VND per hour, and more than 6 hours late a full additional rental day may be charged. A message in your final week avoids that, and [Extending or Renewing a Monthly Motorbike Rental in Hanoi]({{ '/articles/extending-motorbike-rental-hanoi/' | relative_url }}) shows how to phrase it.
+Renewal timing matters as much as the structure. Agree an extension before the term ends: keeping the bike past the end date without one is a late return, which carries 20,000 VND per hour, and more than 6 hours late a full additional rental day may be charged. A message in your final week keeps it simple, and [Extending or Renewing a Monthly Motorbike Rental in Hanoi]({{ '/articles/extending-motorbike-rental-hanoi/' | relative_url }}) shows how to phrase it.
 
 For stays measured in quarters, half-years or a year, there are separate guides to [a three-month rental]({{ '/articles/three-month-motorbike-rental-hanoi/' | relative_url }}), [six months or longer]({{ '/articles/renting-motorbike-six-months-hanoi/' | relative_url }}) and [a full year]({{ '/articles/renting-motorbike-year-hanoi/' | relative_url }}).
 
@@ -78,8 +78,8 @@ A monthly term runs for weeks, so each term below applies for far longer than it
 
 | Term | What to ask | What is published |
 |---|---|---|
-| Deposit | How much it is for your bike, what it is held against and how it is settled | Typically 2,000,000–5,000,000 VND depending on the vehicle and conditions |
-| Maintenance | Which visits happen during the month and how to book them | Maintenance may include an oil change, chain adjustment, tyre-pressure checks and normal inspection |
+| Deposit | How much it is for your bike, what it is held against and how it is settled | The amount depends on the vehicle and conditions |
+| Maintenance | Which visits happen during the term and how to book them | Maintenance may include an oil change, chain adjustment, tyre-pressure checks and normal inspection |
 | Consumables | Who pays when a tyre wears out or an inner tube is punctured | Inner tubes and tyres may be the renter's responsibility depending on the situation |
 | Early return | What notice the shop expects if you leave sooner | There is no automatic refund entitlement for unused time |
 

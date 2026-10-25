@@ -36,7 +36,7 @@ The two shapes suit different stays, and choosing between them is the biggest de
 | Price | The price for the whole year is agreed once and written down | Rate and availability are confirmed again at each renewal |
 | Leaving early | Negotiate it before signing: there is no automatic refund entitlement for unused time | The rental ends when you stop renewing, so ask how much notice the shop wants |
 | Suits | A contract or posting with a firm end date | A stay whose length is still uncertain |
-| Watch for | An early-exit clause you cannot live with | A rate or bike that changes between renewals |
+| Watch for | An early-exit clause you cannot live with | A rate or bike availability that differs at a renewal |
 
 Neither shape comes off a price list, because the published rates stop at the month. [Motorbike Rental Monthly Prices in Hanoi]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }}) lists the models that have a published monthly rate; for any model without one, contact us to confirm the current price and availability. Do not work out a year-long price by multiplying a monthly figure: longer terms are agreed with the shop, so ask for the year's figure directly and keep the reply in your message thread.
 
@@ -45,8 +45,8 @@ Neither shape comes off a price list, because the published rates stop at the mo
 Twelve months is one point on a scale, and the neighbouring lengths have guides of their own.
 
 - Up to about three months: [Three-Month Motorbike Rental in Hanoi]({{ '/articles/three-month-motorbike-rental-hanoi/' | relative_url }}) is the closer match.
-- Around six months: the [six-month rental guide]({{ '/articles/renting-motorbike-six-months-hanoi/' | relative_url }}) covers the case below this one.
-- Settling in as an expat: [Monthly Motorbike Rental for Expats Living in Hanoi]({{ '/articles/expats-monthly-motorbike-hanoi/' | relative_url }}) deals with the set-up questions that come before any long term.
+- Around six months: the [six-month rental guide]({{ '/articles/renting-motorbike-six-months-hanoi/' | relative_url }}) is the adjacent case.
+- Settling in as an expat: [Monthly Motorbike Rental for Expats Living in Hanoi]({{ '/articles/expats-monthly-motorbike-hanoi/' | relative_url }}) covers the licence, paperwork and routine questions that come first.
 - End date still uncertain: stay on the rolling pattern and use the renewal steps in [Extending or Renewing a Monthly Motorbike Rental in Hanoi]({{ '/articles/extending-motorbike-rental-hanoi/' | relative_url }}).
 - Reaching the end of a term: [How Returning a Rental Motorbike in Hanoi Works]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }}) walks through the return.
 
@@ -59,27 +59,26 @@ Twelve months is one point on a scale, and the neighbouring lengths have guides 
 
 ### A maintenance rhythm across twelve months
 
-The shop's maintenance may include an oil change, chain adjustment and tension, tyre-pressure checks and normal inspection. Over a year the renter's task is to make those visits happen on a rhythm instead of waiting for a problem. The table is general guidance for building that rhythm, not a manufacturer's service schedule.
+The shop's maintenance may include an oil change, chain adjustment and tension, tyre-pressure checks and normal inspection. Over a year the renter's task is to make those visits happen on a rhythm instead of waiting for a problem. The list below is general guidance for building that rhythm, not a manufacturer's service schedule.
 
-| When | What to do |
-|---|---|
-| At handover | Photograph the bike, note the odometer reading and start a log: [Keeping a Maintenance Log on a Long-Term Motorbike Rental]({{ '/articles/maintenance-log-monthly-rental-motorbike/' | relative_url }}) |
-| Every week | Look at tyre pressure, chain slack, brakes and lights: [A Month with a Rental Motorbike: Inspection and Check Routine]({{ '/articles/monthly-rental-inspection-schedule-hanoi/' | relative_url }}) sets out a short routine |
-| Each ~1,500 km of use | Arrange a periodic check with the shop. This is the owner's practical guidance, not a manufacturer interval, and it counts kilometres rather than months, so a daily commuter reaches it sooner than a weekend rider |
-| Before the wet months and after a soaking | Check tyres, brakes, lights and that the seat and fuel cap close properly: [Motorbike Maintenance in the Rainy Season]({{ '/articles/motorbike-maintenance-rainy-season/' | relative_url }}) and [What to Check After Your Motorbike Gets Soaked]({{ '/articles/check-motorbike-after-heavy-rain/' | relative_url }}) |
-| When mornings turn cold | Notice how easily the bike starts: [Cold Mornings: Starting a Motorbike in Hanoi's Winter]({{ '/articles/cold-start-motorbike-winter-vietnam/' | relative_url }}) |
+- At handover: photograph the bike, note the odometer reading and start a log.
+- Every week: look at tyre pressure, chain slack, brakes and lights.
+- Before the wet months and after a soaking: check tyres, brakes, lights and that the seat and fuel cap close properly.
+- When mornings turn cold: notice how easily the bike starts, and mention a hard start to the shop.
 
-## A year of Hanoi weather and one Tet
+Put the periodic check from the mileage point above in the same log, and count it in kilometres rather than months: a daily commuter reaches it sooner than a weekend rider.
+
+## Hanoi weather and Tet across the year
 
 ### Wet months and cold months
 
-A twelve-month term means riding through every season the city has, whichever month you start. [Renting a Motorbike in Hanoi in the Rainy Season]({{ '/articles/renting-motorbike-hanoi-rainy-season/' | relative_url }}) and [Renting a Motorbike in Hanoi in Winter]({{ '/articles/renting-motorbike-hanoi-winter/' | relative_url }}) set out what each season asks of a renter, and [When to Ride Hanoi: A Season-by-Season Guide for Visitors]({{ '/articles/hanoi-riding-seasons-guide/' | relative_url }}) lays all four side by side.
+A twelve-month term means riding through every season the city has, whichever month you start. [Renting a Motorbike in Hanoi in the Rainy Season]({{ '/articles/renting-motorbike-hanoi-rainy-season/' | relative_url }}) and [Renting a Motorbike in Hanoi in Winter]({{ '/articles/renting-motorbike-hanoi-winter/' | relative_url }}) set out what each season asks of a renter.
 
 What a year-long renter adds to that advice is permanence. Buy the seasonal kit once, a rain suit for the wet months and gloves and a windproof layer for the cold ones, and keep it with the bike instead of rebuilding it every season. Report a hard start on a cold morning or a flickering light after a storm the same day, rather than waiting for the next scheduled check.
 
-### Tet falls inside the term
+### Tet and the holiday weeks
 
-A twelve-month term includes one Tet, and its date moves from year to year with the lunar calendar. Nguyen Tu's normal hours are 09:00–21:00 daily, but the arrangements for the holiday period itself should be confirmed directly with the shop. Check three dates against the holiday: a renewal date, a maintenance visit and the end of the term. [Renting a Motorbike in Hanoi During Tet and Holidays]({{ '/articles/renting-motorbike-hanoi-tet-holidays/' | relative_url }}) explains how to confirm opening and return arrangements, and [Keeping a Monthly Rental Through Tet in Hanoi]({{ '/articles/monthly-rental-through-tet-hanoi/' | relative_url }}) adds what to do if you stay in the city or travel.
+Tet comes once a year and its date moves with the lunar calendar, so a year-long term will normally include one holiday period. Nguyen Tu's normal hours are 09:00–21:00 daily, but the arrangements for the holiday itself should be confirmed directly with the shop. Check three dates against the holiday: a renewal date, a maintenance visit and the end of the term. [Renting a Motorbike in Hanoi During Tet and Holidays]({{ '/articles/renting-motorbike-hanoi-tet-holidays/' | relative_url }}) explains how to confirm opening and return arrangements.
 
 ## Terms to agree for twelve months
 
@@ -88,11 +87,11 @@ A vague term matters more in a year-long agreement, because it runs twelve times
 | Term | What to ask the shop to confirm |
 |---|---|
 | Price and payment | The price for the full year, the dates it covers and how it is split across payments |
-| Deposit | The amount, typically 2,000,000–5,000,000 VND depending on the vehicle and conditions, what it is held against for the whole term, and how and when it is returned |
-| Maintenance | Which of the oil change, chain adjustment, tyre-pressure checks and normal inspection are included, and how visits are booked |
+| Deposit | The amount, typically 2,000,000–5,000,000 VND depending on the vehicle and conditions, what it is held against and how and when it is returned |
+| Maintenance | Which maintenance is included and how visits are booked |
 | Consumables | Who pays for tyres and inner tubes, and who chooses the replacement |
 | Use | Commuting only or trips outside Hanoi, and who may ride the bike |
-| Early ending | What happens if your plans change, bearing in mind that there is no automatic refund entitlement for unused time |
+| Early ending | What happens if plans change; there is no automatic refund entitlement for unused time |
 | Renewal and return | The end date and time, and how renewal works |
 
 Late returns are charged at 20,000 VND per hour, and more than six hours late may be charged as a full additional rental day, typically 150,000–200,000 VND depending on the motorcycle. Arrange a renewal before the end date instead of after it.
@@ -101,15 +100,15 @@ Late returns are charged at 20,000 VND per hour, and more than six hours late ma
 
 ### Licence
 
-Riding for a year is a different position from riding for a week. [How Long Can You Ride on an IDP in Vietnam]({{ '/articles/idp-validity-period-vietnam/' | relative_url }}) sets out the temporary route that suits a visitor; for a resident, the exchange route in [How Foreigners Exchange a Licence for a Vietnamese One]({{ '/articles/foreign-licence-exchange-vietnam/' | relative_url }}) is the one to read.
+Riding for a year is a different position from riding for a week. [How Foreigners Exchange a Licence for a Vietnamese One]({{ '/articles/foreign-licence-exchange-vietnam/' | relative_url }}) draws the line between a visitor's International Driving Permit and a resident's exchange of a national licence.
 
-Under Article 24 of Circular 12/2025/TT-BCA, a foreigner who lives, works or studies in Vietnam can apply to exchange a national driving licence that is still valid for the corresponding Vietnamese class. The applicant must hold one of the listed residence papers, such as a temporary or permanent residence card, with a duration of three months or more. That guide adds that an International Driving Permit cannot be exchanged, that a licence covering only cars does not convert into motorbike categories, and that applications go to the Traffic Police Department or a commune-level police point that accepts them.
+Under Article 24 of Circular 12/2025/TT-BCA, a foreigner who lives, works or studies in Vietnam and holds a national driving licence that is still valid can be considered for an exchange into the corresponding Vietnamese licence class. The foreigner must also hold one of the residence papers the article lists, such as a temporary or permanent residence card, with a duration of three months or more. The exchange guide adds that an International Driving Permit cannot be exchanged, that a licence covering only cars does not convert into motorbike categories, and that applications go to the Traffic Police Department or a commune-level police point that accepts them.
 
-The practical points are separate from the law. Start gathering the dossier early, including the certified translation, the passport and a health certificate where one is required. Put every expiry date in one list, and work back from the date your current permission to ride ends. If a document lapses mid-term, the steps for pausing and renewing are in [what to do when a licence or visa lapses during a long rental]({{ '/articles/licence-expiry-during-long-rental-hanoi/' | relative_url }}).
+The practical points are separate from the law. Start gathering the dossier early, including the certified translation, the passport and a health certificate where one is required. Put every expiry date in one list, and work back from the date your current permission to ride ends.
 
 ### Insurance
 
-Nguyen Tu does not provide motorbike insurance, so a twelve-month renter arranges their own. [Arranging Your Own Insurance as a Long-Term Renter in Hanoi]({{ '/articles/insurance-for-long-term-renter-hanoi/' | relative_url }}) lists the questions to put to an insurer, and [Is Insurance Included with Motorbike Rentals in Hanoi?]({{ '/articles/is-insurance-included-motorbike-rental-hanoi/' | relative_url }}) gives the short answer. Over a year, check that the policy's term matches the rental's and that its exclusions do not rule out motorbike riding at the licence class you hold.
+Nguyen Tu does not provide motorbike insurance, so a twelve-month renter arranges their own. [Arranging Your Own Insurance as a Long-Term Renter in Hanoi]({{ '/articles/insurance-for-long-term-renter-hanoi/' | relative_url }}) lists the questions to put to an insurer. Over a year, check that the policy's term matches the rental's and that its exclusions do not rule out motorbike riding at the licence class you hold.
 
 ## The resident's decision
 
@@ -150,7 +149,7 @@ Inner tubes and tyres may be the renter's responsibility depending on the situat
 
 ### Can I ride the bike outside Hanoi?
 
-Support is primarily for Hanoi and local use, so a trip beyond the city is something to agree with the shop first. [Can You Take a Rental Motorbike Outside Hanoi?]({{ '/articles/rental-motorbike-outside-hanoi/' | relative_url }}) lists what to settle before you go.
+Support is primarily for Hanoi and local use, so a trip beyond the city is something to agree with the shop first. Ask at the same time what happens if the bike needs attention while you are away.
 
 ## The one-line version
 
