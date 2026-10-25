@@ -17,6 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 56(1)(d) (compulsory civil-liability insurance certificate of the vehicle owner among the documents a driver must carry)"
 internal_link_targets: "used-motorbike-inspection-vietnam, daily-weekly-monthly-motorbike-rental-hanoi, best-motorbike-for-expats-hanoi, motorbike-rental-price-hanoi, unregistered-motorbike-fine-vietnam, best-motorbike-for-commuting-hanoi, long-term-renting-vs-buying-residents-hanoi, renting-motorbike-six-months-hanoi, is-insurance-included-motorbike-rental-hanoi"
 ---
 
@@ -28,11 +29,11 @@ Below you get the arithmetic as a formula you can fill in yourself, a side-by-si
 
 ## The money, straight
 
-A new Honda Wave or similar underbone costs tens of millions of dong; a used one, several million. Against rental rates of 150,000-200,000 VND per day or around 1,000,000-2,000,000 VND per month for common models, a used bike at 15-25 million dong breaks even somewhere in the range of eight months to a year of rental - assuming the bike needs nothing and sells back at what you paid. Each of those assumptions is doing heavy lifting: used bikes need repairs, and resale in a hurry always means a discount.
+Purchase prices depend on the model, its age and its condition, so use the price of the bike you are actually offered. Against published rental rates of 150,000-200,000 VND per day, a purchase breaks even only after enough months of rental to cover what it costs you - assuming the bike needs nothing and sells back at what you paid. Each of those assumptions is doing heavy lifting: used bikes need repairs, and resale in a hurry always means a discount.
 
-Treat the purchase figures above as a rough illustration of the method, not as a price list. The number that matters is the one on the bike you are actually being offered, and the formula below lets you test it.
+The formula below lets you test the price of a specific bike.
 
-Below six months, rental is cheaper. Above a year, ownership wins. Between six and twelve months, the tiebreakers below decide. Those three lines are a rule of thumb, and your own numbers can move the line either way.
+Below six months, rental is cheaper. Above a year, ownership can win. Between six and twelve months, the tiebreakers below decide. Those three lines are a rule of thumb, and your own numbers can move the line either way.
 
 ### A break-even you can fill in
 
@@ -67,14 +68,14 @@ Rental sidesteps the transfer, the registration and the resale, but not every qu
 
 ### What the law says about insurance on an owned bike
 
-Article 56 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) requires every vehicle owner taking part in traffic to hold compulsory civil-liability insurance. It is third-party cover: it pays compensation for people injured and property damaged in an accident the insured rider causes, and it does not pay for the rider's own bike or medical costs. The [compulsory insurance guide]({{ '/articles/compulsory-motorbike-insurance-vietnam/' | relative_url }}) has the detail, and that cost belongs on the owner's side of the break-even sum.
+Article 56(1)(d) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) lists the vehicle owner's compulsory civil-liability insurance certificate among the documents a driver must carry. That insurance is third-party cover: it pays compensation for people injured and property damaged in an accident the insured rider causes, and it does not pay for the rider's own bike or medical costs. The [compulsory insurance guide]({{ '/articles/compulsory-motorbike-insurance-vietnam/' | relative_url }}) has the detail, and that cost belongs on the owner's side of the break-even sum.
 
 ## Depreciation, theft and breakdowns
 
 - Rental: theft is a deposit-level exposure; breakdowns are the shop's to fix; you hand the problem back at return.
 - Ownership: theft is the full value; breakdowns are yours at full shop price; you sell into a market that knows every trick.
 
-Read the rental bullet as a starting point, not a promise. How much a renter owes after a theft or a loss, and what happens after a breakdown, are matters for the rental terms you agree, so ask for both in writing before you ride. The shop's maintenance may include an oil change, chain adjustment, tyre-pressure checks and normal inspection, while inner tubes and tyres may be the renter's responsibility depending on the situation. Support is primarily for Hanoi and local use, so do not assume roadside rescue at any hour or a guaranteed response time.
+The rental bullet is a general pattern, not a published shop policy. How much a renter owes after a theft or a loss, and what happens after a breakdown, are matters for the rental terms you agree, so ask for both in writing before you ride. The shop's maintenance may include an oil change, chain adjustment, tyre-pressure checks and normal inspection, while inner tubes and tyres may be the renter's responsibility depending on the situation. Support is primarily for Hanoi and local use, so do not assume roadside rescue at any hour or a guaranteed response time.
 
 Depreciation is the quiet cost. A bike loses value as it ages and as your leaving date approaches, and a renter never holds that loss.
 
@@ -102,10 +103,6 @@ Buying before you have ridden for a while risks the wrong type of bike. Scooter 
 ### Where will the bike sleep, and who will fix it?
 
 An owned bike needs a safe place every night and a mechanic you trust. A renter shares the first problem, because a rented bike also has to be parked, but not the second. [The parking guide]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}) covers paid lots and no-parking zones; check what your building offers before you buy anything.
-
-### What is your exit?
-
-Renting ends with a return and buying ends with a sale. If a flight date sets your departure, ask yourself honestly whether you would accept the first fair offer in your last week, because that is the resale figure to put in the formula.
 
 ### Does the licence change the answer?
 
@@ -139,15 +136,11 @@ Not by itself. Riding legally is a separate question that depends on your licenc
 
 ### Is it cheaper to rent or buy for one month?
 
-Renting. A month of rental is a published monthly rate on models that have one, with no purchase, registration or resale to arrange, while a purchase needs all three. The [monthly price guide]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }}) lists the rates.
+Renting. A month of rental is a published monthly rate on models that have one, with no purchase, registration or resale to arrange, while a purchase needs all three. Ask the shop for the monthly figure for the model you want.
 
 ### Can I rent now and buy later?
 
 Yes, the two decisions are separate. Renting first gives you real information about routes, parking and the type of bike you like. Because early return carries no automatic refund, pick a rental term you expect to use.
-
-### Does a rental include insurance?
-
-No. Nguyen Tu does not provide motorbike insurance, and customers arrange their own. The bike's compulsory third-party cover and your own cover protect different things.
 
 ### What if I want to rent for longer than a month?
 
