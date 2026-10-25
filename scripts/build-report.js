@@ -8,7 +8,7 @@ const path = require('path');
 const L = require('./lib');
 
 const hasSite = fs.existsSync(path.join(L.ROOT, '_site'));
-const tools = ['frontmatter-check', 'content-duplicate-check', 'internal-link-audit', 'seo-audit', 'sitemap-check', 'schema-check'];
+const tools = ['frontmatter-check', 'content-duplicate-check', 'internal-link-audit', 'seo-audit', 'sitemap-check', 'schema-check', 'seo-package2'];
 if (hasSite) tools.push('rendered-site-audit');
 else console.log('build-report: _site/ not found, skipping rendered-site-audit');
 

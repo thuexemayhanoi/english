@@ -7,9 +7,12 @@ CURRENT remote main before acting. Never rely on remembered state.
 
 ## Never
 
-- Rewrite all 981 article bodies. Global presentation changes belong in the
+- Rewrite article bodies outside the SEO Package 2 scope (see "SEO Package 2"
+  below: only the frozen list of 300-500 word articles may be expanded, and
+  never rewritten wholesale). Global presentation changes belong in the
   shared layout/CSS/JS (see README "ARTICLE UI OWNERSHIP").
-- Create new articles, batches or filler pages. The production plan is COMPLETE.
+- Create new articles, batches or filler pages. The production plan is COMPLETE;
+  SEO Package 2 expands existing articles and creates none.
 - Change indexed URLs, slugs, permalinks or canonicals casually.
 - Weaken QA thresholds, blocking rules or assertions to get a green run.
 - Baseline a real defect (P0/P1) to make the workflow green — the regression
@@ -25,9 +28,10 @@ CURRENT remote main before acting. Never rely on remembered state.
 
 ## System ownership map
 
-- QA engine: scripts/lib.js (central blocking rule), frontmatter-check,
-  content-duplicate-check, internal-link-audit, seo-audit, sitemap-check,
-  schema-check, rendered-site-audit, build-report.js; gate:
+- QA engine: scripts/lib.js (central blocking rule, shared word counter
+  contentWords), frontmatter-check, content-duplicate-check,
+  internal-link-audit, seo-audit, sitemap-check, schema-check,
+  rendered-site-audit, seo-package2 (content-depth gate), build-report.js; gate:
   .github/workflows/quality-gate.yml.
 - Autonomous SEO loop: scripts/maintenance.js regenerates the English SEO
   Master Matrix after the QA tools (Audit -> Matrix), reports its priorities
@@ -118,6 +122,50 @@ CURRENT remote main before acting. Never rely on remembered state.
   answer is not already on the site. The default layout appends the brand
   suffix to the title tag only when the whole string fits 65 characters;
   `title_tag:` overrides (homepage). Do not reintroduce a fixed suffix.
+
+## SEO Package 2 — CONTENT DEPTH 1600+ (owner-approved scope extension, 2026-10-25)
+
+The site owner allows expanding existing English articles whose Markdown body had
+300-500 words (inclusive) to at least 1,600 words of real content. This replaces,
+for those URLs only, the earlier rule that articles are never lengthened to hit a
+quota. The 1,600-word figure is an editorial requirement of the owner, not a
+ranking threshold published by Google. Scope and rules:
+
+- Scope is frozen in docs/seo/package2-baseline.json (693 articles measured on
+  main 7fcfc73 with lib.contentWords). Articles outside 300-500 words stay as they
+  are unless a shared component needs a fix. The checkpoint is
+  docs/seo/package2-status.json; the dossier is
+  docs/seo/seo-package-2-content-depth.md; the list is
+  docs/seo/package2-eligible.csv.
+- Words are counted by lib.contentWords (Markdown body only: no front matter,
+  code, HTML/Liquid, URLs or layout-generated components such as related cards,
+  sources and the Common questions rendered from `faq:` front matter). Never
+  count another way to reach the target.
+- Work in small batches (first 5, then 10-20), each through the full QA suite and
+  a PR merged only on green CI; record the batch in package2-status.json,
+  optimization-log.json (`package: 2`), english-seo-progress.md and the matrix.
+  A Package 2 batch never flips a URL to OPTIMIZED, never changes ranking, GSC or
+  indexability data, and never lowers a QA threshold.
+- Every added passage must give the reader something new and verifiable
+  (process, example, comparison table, scenario, FAQ restating verified facts,
+  contextual internal links in the Pillar-Hub-Silo structure). No padding, no
+  repeated passages, no invented experience, customers, reviews, test results,
+  specifications, prices or legal claims. A fact that cannot be verified is not
+  written: record the URL as REVIEW_REQUIRED with the reason and move on.
+- Business facts come only from docs/OWNER-FACTS.md; legal statements only from
+  primary sources; model figures only from docs/MODEL-DATABASE.md or official
+  manufacturer pages. Title, description, H1, slug, permalink, canonical and
+  keyword ownership change only with a recorded reason (slug, permalink and
+  canonical never). `last_reviewed` changes only when a real review of the
+  expanded page took place.
+- Do not claim completion for a URL that was not processed: the package is
+  complete only when every article in the baseline list is DONE (>= 1,600 words)
+  or REVIEW_REQUIRED with a reason, CI and deployment are green and the progress
+  report matches the repository.
+- Tooling: scripts/seo-package2.js (baseline, queue, gate; run by the Quality Gate
+  and the weekly maintenance). A DONE article below 1,600 words, a changed slug
+  or URL, a missing eligible article or a status entry outside the scope is a
+  blocking P1; pending articles never block.
 
 ## When extending the system
 

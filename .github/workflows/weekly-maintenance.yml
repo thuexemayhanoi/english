@@ -28,6 +28,7 @@ on:
       - 'scripts/seo-baseline.json'
       - 'scripts/seo-engine-test.js'
       - 'scripts/representative-pages.js'
+      - 'scripts/seo-package2.js'
 
 # Never allow two maintenance runs to overlap; queue instead of cancelling.
 concurrency:

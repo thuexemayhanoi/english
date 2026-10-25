@@ -26,6 +26,8 @@ jobs:
         run: node scripts/sitemap-check.js
       - name: Schema check
         run: node scripts/schema-check.js
+      - name: SEO Package 2 content depth gate
+        run: node scripts/seo-package2.js
       - name: SEO engine test suite (fixture-based; production inventory untouched)
         run: node scripts/seo-engine-test.js
       - name: SEO score (per-category)

@@ -1,0 +1,5 @@
+{
+ "_about": "SEO Package 2 checkpoint. articles.<slug>.status is DONE (>= 1,600 words, verified batch) or REVIEW_REQUIRED (reason required); absent = PENDING. Written only after a batch passed its QA; the gate (scripts/seo-package2.js) re-measures every DONE article on each run. batches lists each published batch.",
+ "batches": [],
+ "articles": {}
+}

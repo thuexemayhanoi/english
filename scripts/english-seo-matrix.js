@@ -203,11 +203,39 @@ if (linkRepair && linkRepair.mode === 'apply') for (const f of linkRepair.perFil
 // OPTIMIZED with every batch note, unless matrix-status.json overrides it.
 const optLog = readJSON(path.join(OUT_DIR, 'optimization-log.json'), []);
 const optByUrl = {};
-for (const b of Array.isArray(optLog) ? optLog : []) for (const u of b.urls || []) (optByUrl[u] = optByUrl[u] || []).push({ date: b.date, note: b.note || b.batch, rank: !!b.rank_work });
+// SEO Package 2 (content depth 1600+) batches carry `package: 2`: they are shown in the Package 2
+// column and never change the Status column (a URL does not become OPTIMIZED just because it
+// reached the word target), but a `rank_work: true` Package 2 batch still counts as rank work.
+const pkg2ByUrl = {};
+for (const b of Array.isArray(optLog) ? optLog : []) for (const u of b.urls || []) {
+  const rec = { date: b.date, note: b.note || b.batch, rank: !!b.rank_work };
+  if (b.package === 2) (pkg2ByUrl[u] = pkg2ByUrl[u] || []).push(Object.assign({ batch: b.batch }, rec));
+  else (optByUrl[u] = optByUrl[u] || []).push(rec);
+}
 // A URL worked on for its rank signal (optimization-log batch with rank_work: true) after the rank
 // snapshot date is not raised again from that snapshot: the next snapshot decides whether the work
 // moved the position (signal -> work -> re-measure). Unrelated edits never silence the signal.
-const workedSinceRank = url => !!rankSnap && (optByUrl[url] || []).some(o => o.rank && String(o.date) > String(rankSnap.date));
+const workedSinceRank = url => !!rankSnap && (optByUrl[url] || []).concat(pkg2ByUrl[url] || []).some(o => o.rank && String(o.date) > String(rankSnap.date));
+// SEO Package 2 — CONTENT DEPTH 1600+: frozen baseline (original word counts, scope, queue) and the
+// checkpoint written after each verified batch. Current words use the shared counter (lib.contentWords).
+// Only the Original Words, Current Words and Package 2 columns and the Package 2 summary are derived
+// from it: priority, status and indexability are never changed by a word count.
+const pkg2Base = readJSON(path.join(OUT_DIR, 'package2-baseline.json'), null);
+const pkg2Status = readJSON(path.join(OUT_DIR, 'package2-status.json'), { batches: [], articles: {} });
+const pkg2Elig = {}; if (pkg2Base) for (const e of pkg2Base.eligible || []) pkg2Elig[e.slug] = e;
+const PKG2_TARGET = (pkg2Base && pkg2Base.target_words) || 1600;
+function pkg2Info(x) {
+  const none = { original: '', current: x.m.cw, text: 'n/a', short: 'n/a', state: 'n/a', group: '' };
+  if (x.type !== 'article' || !pkg2Base) return none;
+  const orig = (pkg2Base.articleWords || {})[x.slug];
+  const e = pkg2Elig[x.slug];
+  if (!e) return { original: orig == null ? '' : orig, current: x.m.cw, text: 'out of scope (' + orig + ' words at baseline; Package 2 covers 300-500)', short: 'out', state: 'OUT_OF_SCOPE', group: '' };
+  const s = (pkg2Status.articles || {})[x.slug];
+  const base = { original: e.original_words, current: x.m.cw, group: e.group };
+  if (s && s.status === 'DONE') return Object.assign(base, { state: 'DONE', short: 'DONE ' + (s.batch || ''), text: 'DONE ' + (s.batch || '') + ' ' + (s.date || '') + ': ' + e.original_words + ' -> ' + x.m.cw + ' words; QA ' + (s.qa || 'recorded') });
+  if (s && s.status === 'REVIEW_REQUIRED') return Object.assign(base, { state: 'REVIEW_REQUIRED', short: 'REVIEW_REQUIRED', text: 'REVIEW_REQUIRED: ' + (s.reason || 'reason missing') });
+  return Object.assign(base, { state: 'PENDING', short: 'PENDING ' + e.group + '#' + e.queue, text: 'PENDING queue ' + e.queue + ' (group ' + e.group + '): ' + x.m.cw + ' of ' + PKG2_TARGET + ' words' });
+}
 // AI-answer checks (third-party tool, dated): which engines cite which pages of this site for the tracked prompts.
 // Evidence only: a citation is a source link shown with an AI answer, never a ranking, click or traffic figure.
 const aiSnaps = (evidenceMap && evidenceMap._tracking && Array.isArray(evidenceMap._tracking.ai_visibility_snapshots) ? evidenceMap._tracking.ai_visibility_snapshots : []).filter(x => x && x.date)
@@ -317,6 +345,7 @@ function recommend(x, issues, cann, own) {
   if (x.type === 'hub') acts.push('Pillar page: direct-answer intro + curated start-here links to the commercial and core guides');
   if (own.gaps.length) acts.push('Serve gap keyword(s) ' + own.gaps.join('; ') + ' honestly from this URL; do NOT create a new article');
   if (issues.some(i => /only (partial|weak)ly covered/.test(i))) acts.push('Work the owned keyword naturally into title or description without stuffing');
+  if (x.type === 'article' && x.p2 && x.p2.state === 'PENDING') acts.push('SEO Package 2 (queue ' + pkg2Elig[x.slug].queue + ', group ' + x.p2.group + '): expand from ' + x.p2.current + ' to at least ' + PKG2_TARGET + ' words of new verified information, same URL');
   if (!acts.length) acts.push('Monitor; no action required');
   return acts.join('. ') + '.';
 }
@@ -361,6 +390,7 @@ function evidence(x, own) {
 
 function buildRow(x) {
   const own = ownerMap[x.url] || { primary: [], variants: [], supporting: [], notes: [], gaps: [] };
+  x.p2 = pkg2Info(x);
   const issues = describeIssues(x);
   const cann = cannibalization(x);
   const plan = x.plan;
@@ -401,6 +431,10 @@ function buildRow(x) {
     recommended_action: recommend(x, issues, cann, own),
     status,
     evidence: evidence(x, own),
+    original_words: x.p2.original,
+    current_words: x.p2.current,
+    package2: x.p2.text + (x.type === 'article' && pkg2ByUrl[x.url] ? ' [log: ' + pkg2ByUrl[x.url].map(o => o.batch).join(', ') + ']' : ''),
+    _p2: { state: x.p2.state, short: x.p2.short, group: x.p2.group },
     _issueCount: issues.length,
     _owned: own.primary.concat(own.variants)
   };
@@ -412,6 +446,7 @@ for (const a of articles) {
   const body = a.body;
   const m = {
     words: words(body),
+    cw: L.contentWords(body),
     h2: (body.match(/^##\s/gm) || []).length,
     tables: (body.match(/^\|/gm) || []).length ? 1 : 0,
     sources: Array.isArray(a.fm.sources) ? a.fm.sources.length : 0,
@@ -436,7 +471,7 @@ for (const p of pages) {
   const title = p.fm.title ? String(p.fm.title) : (url === '/' ? siteTitle : '');
   const description = p.fm.description ? String(p.fm.description) : (url === '/' ? siteDesc : '');
   const m = {
-    words: words(p.body), h2: (p.body.match(/<h2|^##\s/gm) || []).length, tables: 0, sources: 0,
+    words: words(p.body), cw: L.contentWords(p.body), h2: (p.body.match(/<h2|^##\s/gm) || []).length, tables: 0, sources: 0,
     bodyLinks: L.extractLinks(p.body).filter(h => h.startsWith('/') || /relative_url/.test(h)).length + (L.stripLiquid(p.body).match(/'\/(articles|topics)\/[^']+'\s*\|\s*relative_url/g) || []).length,
     leadWords: firstParagraph(p.body).split(/\s+/).filter(Boolean).length, unlinkedRefs: 0,
     listed: isHub ? articles.filter(a => a.fm.topic_cluster === p.fm.topic_cluster).length : 0
@@ -593,6 +628,21 @@ for (const gs of gapSources) {
 }
 summary.contentGapCount = summary.contentGaps.filter(g => g.gap).length;
 
+// SEO Package 2 summary: counts from the frozen baseline and the checkpoint; nothing estimated.
+summary.package2 = pkg2Base ? (() => {
+  const art = rows.filter(r => r.type === 'article' && r._p2.state !== 'OUT_OF_SCOPE' && r._p2.state !== 'n/a');
+  const by = (set, st) => set.filter(r => r._p2.state === st);
+  const grp = G => { const r = art.filter(x => x._p2.group === G); return { eligible: r.length, done: by(r, 'DONE').length, reviewRequired: by(r, 'REVIEW_REQUIRED').length, pending: by(r, 'PENDING').length }; };
+  return {
+    target: PKG2_TARGET, eligible: art.length, done: by(art, 'DONE').length, reviewRequired: by(art, 'REVIEW_REQUIRED').length, pending: by(art, 'PENDING').length,
+    byGroup: { A: grp('A'), B: grp('B'), C: grp('C') },
+    wordsAddedDone: by(art, 'DONE').reduce((t, r) => t + (r.current_words - r.original_words), 0),
+    belowTargetDone: by(art, 'DONE').filter(r => r.current_words < PKG2_TARGET).length,
+    batches: (pkg2Status.batches || []).length,
+    outOfScope: rows.filter(r => r.type === 'article' && r._p2.state === 'OUT_OF_SCOPE').length
+  };
+})() : null;
+
 // Rank snapshot summary (third-party rank tracker): measured positions of the tracked keywords.
 const aiSnap = aiBrandSnap;
 summary.rankTracking = rankSnap ? {
@@ -701,8 +751,8 @@ for (const r of rows) if (r.type === 'article') { const c = r.topic_cluster.spli
 
 // ---------- write outputs ----------
 fs.mkdirSync(OUT_DIR, { recursive: true });
-const HEAD = ['URL', 'Current Title', 'Primary Keyword', 'Secondary Keywords', 'Search Intent', 'Topic Cluster', 'Content Quality', 'Cannibalization', 'Internal Links', 'SEO Issues', 'Priority', 'Recommended Action', 'Status', 'Evidence'];
-const KEYS = ['url', 'current_title', 'primary_keyword', 'secondary_keywords', 'search_intent', 'topic_cluster', 'content_quality', 'cannibalization', 'internal_links', 'seo_issues', 'priority', 'recommended_action', 'status', 'evidence'];
+const HEAD = ['URL', 'Current Title', 'Primary Keyword', 'Secondary Keywords', 'Search Intent', 'Topic Cluster', 'Content Quality', 'Cannibalization', 'Internal Links', 'SEO Issues', 'Priority', 'Recommended Action', 'Status', 'Evidence', 'Original Words', 'Current Words', 'Package 2'];
+const KEYS = ['url', 'current_title', 'primary_keyword', 'secondary_keywords', 'search_intent', 'topic_cluster', 'content_quality', 'cannibalization', 'internal_links', 'seo_issues', 'priority', 'recommended_action', 'status', 'evidence', 'original_words', 'current_words', 'package2'];
 const publicRows = rows.map(r => { const o = {}; for (const k of KEYS) o[k] = r[k]; o.type = r.type; return o; });
 
 fs.writeFileSync(path.join(OUT_DIR, 'english-seo-master-matrix.csv'), [HEAD.map(csvCell).join(',')].concat(publicRows.map(r => KEYS.map(k => csvCell(r[k])).join(','))).join('\n') + '\n');
@@ -748,7 +798,9 @@ md += '## Summary\n\n| Metric | Value |\n|---|---|\n';
 md += '| URLs audited | ' + summary.urls + ' (' + summary.articles + ' articles, ' + summary.hubs + ' topic hubs, ' + summary.pages + ' site pages) |\n';
 for (const p of ['P0', 'P1', 'P2', 'P3']) md += '| ' + p + ' | ' + summary.byPriority[p] + ' |\n';
 md += '| URLs with a cannibalization signal | ' + summary.cannibalizationPairs + ' |\n';
-md += '| Status | ' + Object.entries(summary.byStatus).map(([k, v]) => k + ' ' + v).join(', ') + ' |\n\n';
+md += '| Status | ' + Object.entries(summary.byStatus).map(([k, v]) => k + ' ' + v).join(', ') + ' |\n';
+if (summary.package2) { const p = summary.package2; md += '| SEO Package 2 (content depth ' + p.target + '+) | ' + p.done + ' done, ' + p.reviewRequired + ' REVIEW_REQUIRED, ' + p.pending + ' pending of ' + p.eligible + ' eligible articles (300-500 words at baseline; ' + p.belowTargetDone + ' done below target); dossier `docs/seo/seo-package-2-content-depth.md` |\n'; }
+md += '\n';
 md += '### Issue frequency\n\n| Issue (normalised) | URLs |\n|---|---|\n';
 for (const [k, v] of Object.entries(summary.issueFrequency).sort((a, b) => b[1] - a[1])) md += '| ' + mdCell(k) + ' | ' + v + ' |\n';
 md += '\n### Cluster overview\n\n| Cluster | Hub | Articles | Commercial | Informational | Avg words | P1 | P2 |\n|---|---|---|---|---|---|---|---|\n';
@@ -771,8 +823,8 @@ const p2 = rows.filter(r => r.priority === 'P2');
 md += '\n## P2 rows (' + p2.length + ') — batch work queue\n\nCompact view; the Internal Links and Evidence columns for these rows are in the CSV/JSON.\n\n| URL | Current Title | Primary Keyword | Search Intent | Content Quality | Cannibalization | SEO Issues | Recommended Action | Status |\n|---|---|---|---|---|---|---|---|---|\n';
 for (const r of p2) md += '| ' + ['url', 'current_title', 'primary_keyword', 'search_intent', 'content_quality', 'cannibalization', 'seo_issues', 'recommended_action', 'status'].map(k => mdCell(r[k])).join(' | ') + ' |\n';
 const p3 = rows.filter(r => r.priority === 'P3');
-md += '\n## P3 rows (' + p3.length + ') — monitor only\n\n| URL | Primary Keyword | Content Quality | Status |\n|---|---|---|---|\n';
-for (const r of p3) md += '| ' + r.url + ' | ' + mdCell(r.primary_keyword) + ' | ' + mdCell(r.content_quality) + ' | ' + mdCell(r.status) + ' |\n';
+md += '\n## P3 rows (' + p3.length + ') — monitor only\n\n| URL | Primary Keyword | Content Quality | Words (original -> current) | Package 2 | Status |\n|---|---|---|---|---|---|\n';
+for (const r of p3) md += '| ' + r.url + ' | ' + mdCell(r.primary_keyword) + ' | ' + mdCell(r.content_quality) + ' | ' + (r.original_words === '' ? r.current_words : r.original_words + ' -> ' + r.current_words) + ' | ' + r._p2.short + ' | ' + mdCell(r.status) + ' |\n';
 fs.writeFileSync(path.join(OUT_DIR, 'english-seo-master-matrix.md'), md);
 
 // Keyword clusters document
