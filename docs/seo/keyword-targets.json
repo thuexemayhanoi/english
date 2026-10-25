@@ -4,7 +4,7 @@
   "Only services actually offered are targeted: daily/weekly/monthly rental, Hanoi delivery by arrangement, WhatsApp/Zalo/phone/walk-in booking. There is no booking app and no online payment; keywords about apps/online booking are served honestly by the booking guide.",
   "Model availability is never implied; every owner URL defers to 'Contact us to confirm current availability'.",
   "A keyword marked gap:true has no dedicated article and must NOT get a new one (production plan complete). It is served by the nearest existing URL.",
-  "Owner URLs never change; only titles, descriptions, body content and internal links may be improved."
+  "Owner URLs change only by a recorded owner decision with evidence (2026-10-25: Hanoi motorbike rental moved from /topics/rental/ to /); page URLs and canonicals never change, and only titles, descriptions, body content and internal links may be improved."
  ],
  "groups": [
   {
@@ -12,33 +12,55 @@
    "keywords": [
     {
      "keyword": "Hanoi motorbike rental",
-     "owner": "/topics/rental/",
+     "owner": "/",
      "intent": "commercial",
      "supporting": [
+      "/topics/rental/",
       "/articles/how-to-rent-a-motorbike-hanoi/",
       "/articles/motorbike-rental-price-hanoi/",
       "/articles/motorbike-rental-requirements-hanoi/",
       "/articles/best-scooters-to-rent-hanoi/"
-     ]
+     ],
+     "note": "Owner moved from /topics/rental/ to the home page on 2026-10-25 (owner-approved keyword mission): the rank tracker (Ubersuggest, Vietnam desktop, 2026-10-14, HISTORICAL) shows Google serving the home page, never the hub, for rental head terms (#63 scooter rental hanoi, #65 electric bike rental hanoi), and the OpenRush SERP snapshots of 2026-10-14 (MEASURED) show rental-shop home pages and the local pack for motorbike rental hanoi in Vietnam. The hub stays the supporting guide index under a distinct title; no URL or canonical changed."
+    },
+    {
+     "keyword": "Hanoi motorbike hire",
+     "owner": "/",
+     "intent": "commercial",
+     "variant_of": "Hanoi motorbike rental",
+     "note": "British/Australian wording of the same intent."
+    },
+    {
+     "keyword": "Motorbike rental in Hanoi",
+     "owner": "/",
+     "intent": "commercial",
+     "variant_of": "Hanoi motorbike rental"
+    },
+    {
+     "keyword": "Rent motorbike Hanoi",
+     "owner": "/",
+     "intent": "commercial",
+     "variant_of": "Hanoi motorbike rental",
+     "note": "Bare commercial wording from the owner keyword list (2026-10-25); INFERRED to share the SERP of motorbike rental hanoi (no snapshot of this exact query). The how-to guide keeps the informational Rent a motorbike in Hanoi."
     },
     {
      "keyword": "Motorbike rental Hanoi",
-     "owner": "/topics/rental/",
+     "owner": "/",
      "intent": "commercial",
      "variant_of": "Hanoi motorbike rental"
     },
     {
      "keyword": "Motorcycle rental Hanoi",
-     "owner": "/topics/rental/",
+     "owner": "/",
      "intent": "commercial",
      "variant_of": "Hanoi motorbike rental"
     },
     {
      "keyword": "Best motorbike rental Hanoi",
-     "owner": "/topics/rental/",
+     "owner": "/",
      "intent": "commercial",
      "variant_of": "Hanoi motorbike rental",
-     "note": "Shop-selection intent. Served by the hub plus trust pages; never claim rankings, awards or reviews (OWNER-FACTS)."
+     "note": "Shop-selection intent. Served by the home page plus trust pages; never claim rankings, awards or reviews (OWNER-FACTS)."
     },
     {
      "keyword": "Rent a motorbike in Hanoi",
@@ -359,7 +381,7 @@
     },
     {
      "keyword": "Motorbike hire Hanoi",
-     "owner": "/topics/rental/",
+     "owner": "/",
      "intent": "commercial",
      "variant_of": "Hanoi motorbike rental",
      "note": "British/Australian wording of the same intent."

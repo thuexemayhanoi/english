@@ -1,6 +1,6 @@
 ---
 layout: cluster
-title: Hanoi Motorbike Rental
+title: "Hanoi Rental Guides: Prices, Deposits, Documents, Returns"
 permalink: /topics/rental/
 topic_cluster: rental
 description: "Guides to renting a motorbike in Hanoi: prices, deposits, documents, delivery, and how rental actually works for foreigners."
@@ -27,6 +27,8 @@ faq:
     link_text: "Read about passports and deposits"
 ---
 <p>Renting a motorbike in Hanoi comes down to five steps: choose a bike class (automatic scooter, semi-automatic underbone or manual motorcycle), bring your passport and a licence that is valid in Vietnam, agree the price and deposit, inspect the bike, and ride. Hanoi Motorbike Rental Nguyen Tu rents on daily, weekly and monthly terms from 112 Nguyen Van Cu Street in Long Bien, open 09:00&ndash;21:00 daily, and delivery within Hanoi can be arranged depending on location. The guides below cover each step in detail, from the published price list to what to check before you hand over a deposit.</p>
+
+<p>The shop's published day rates, booking channels and opening hours are summarised on the <a href="{{ '/' | relative_url }}">Hanoi motorbike rental home page</a>; the guides below go into each step.</p>
 
 <h2>Start here</h2>
 <ul>
@@ -55,7 +57,7 @@ faq:
 {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
-  "name": "Hanoi Motorbike Rental",
+  "name": "Hanoi Rental Guides: Prices, Deposits, Documents, Returns",
   "description": "Guides to renting a motorbike in Hanoi: prices, deposits, documents, delivery, and how rental actually works for foreigners.",
   "isPartOf": {"@type": "WebSite", "name": "Hanoi Motorbike Guide"}
 }

@@ -809,6 +809,22 @@ font-size: var(--text-sm); color: var(--muted); margin: 0 0 var(--sp-3); }
 }
 
 /* ============================================================
+   HOMEPAGE RENTAL SUMMARY — answer-first facts (OWNER-FACTS only)
+   ============================================================ */
+.home-rental { margin: var(--sp-7) 0 var(--sp-6); }
+.home-rental-lead { max-width: 68ch; margin: calc(-1 * var(--sp-2)) 0 var(--sp-4); }
+.home-facts { display: grid; grid-template-columns: max-content 1fr; gap: var(--sp-2) var(--sp-4); margin: 0 0 var(--sp-5); max-width: 68ch; }
+.home-facts dt { font-weight: 600; }
+.home-facts dd { margin: 0; color: var(--muted); }
+.home-rental-sub { margin: 0 0 var(--sp-2); font-size: var(--text-base); }
+.home-rental-links { margin: 0; padding-left: 1.2em; max-width: 68ch; }
+.home-rental-links li { margin: var(--sp-1) 0; }
+@media (max-width: 480px) {
+  .home-facts { grid-template-columns: 1fr; gap: 0; }
+  .home-facts dd { margin-bottom: var(--sp-3); }
+}
+
+/* ============================================================
    FEATURED RENTAL BIKES — premium showcase
    ============================================================ */
 .showcase { margin: var(--sp-8) 0 var(--sp-6); }

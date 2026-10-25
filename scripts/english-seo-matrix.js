@@ -450,7 +450,8 @@ const PAGE_INTENT = { '/': 'navigational + commercial', '/articles/': 'navigatio
 for (const p of pages) {
   const url = L.pageUrl(p);
   const isHub = p.file.startsWith('topics/');
-  const title = p.fm.title ? String(p.fm.title) : (url === '/' ? siteTitle : '');
+  // title_tag (the homepage override the default layout prints) is what search engines see.
+  const title = p.fm.title_tag ? String(p.fm.title_tag) : p.fm.title ? String(p.fm.title) : (url === '/' ? siteTitle : '');
   const description = p.fm.description ? String(p.fm.description) : (url === '/' ? siteDesc : '');
   const m = {
     words: words(p.body), cw: L.contentWords(p.body), h2: (p.body.match(/<h2|^##\s/gm) || []).length, tables: 0, sources: 0,

@@ -20,7 +20,7 @@ sources:
 internal_link_targets: "how-deposit-returns-work-hanoi, do-rentals-keep-your-passport-hanoi, theft-loss-responsibility-rental-motorbike-hanoi, rental-motorbike-inspection-checklist, how-to-rent-a-motorbike-hanoi"
 ---
 
-Almost every motorbike rental in Hanoi runs on a cash deposit. Understanding the deposit is understanding the whole transaction.
+Almost every [motorbike rental in Hanoi]({{ '/' | relative_url }}) runs on a cash deposit. Understanding the deposit is understanding the whole transaction.
 
 ## Typical amounts
 

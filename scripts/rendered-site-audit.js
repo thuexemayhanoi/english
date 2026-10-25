@@ -119,6 +119,9 @@ for (const f of htmlFiles) {
     if (url !== '/articles/' && !types.some(t => t === 'BlogPosting' || t === 'Article')) F.add('P1', rf, url, 'article page missing Article/BlogPosting schema', 'Check article layout schema block');
   }
 
+  // English-only site (AGENTS.md): no language switcher, hreflang alternates or /vi/ navigation.
+  if (/\bhreflang\s*=/i.test(raw) || /href="(?:https:\/\/en\.rentbikehanoi\.com)?\/vi(?:\/|")/i.test(raw)) F.add('P1', rf, url, 'language switcher or /vi/ link in rendered page', 'Remove it: the site is English-only');
+
   // Breadcrumbs expected on all non-home pages
   if (url !== '/' && !/breadcrumbs|BreadcrumbList/i.test(raw)) F.add('P2', rf, url, 'no breadcrumbs on non-home page', 'Include breadcrumbs.html');
 }
@@ -226,14 +229,43 @@ if (fs.existsSync(sitemapFile)) {
   F.add('P1', 'sitemap.xml', '-', 'rendered sitemap.xml missing from _site', 'Check sitemap.xml source');
 }
 
+// Rendered link graph (docs/seo/research/github-seo-skills.md, technique T1): every sitemap
+// page must be reachable from the home page by following rendered links, click depth must not
+// grow past the depth measured when the rule was introduced, and a page should link somewhere
+// outside the shared navigation.
+const MAX_CLICK_DEPTH = 2;
+const graph = L.renderedLinkGraph(SITE_DIR);
+const adjacency = {};
+for (const u of graph.pages) adjacency[u] = new Set();
+for (const e of graph.edges) adjacency[e.from].add(e.to);
+const depth = L.clickDepth(adjacency, '/');
+const contentOut = {};
+const byZone = {};
+for (const e of graph.edges) {
+  byZone[e.zone] = (byZone[e.zone] || 0) + 1;
+  if (e.zone !== 'nav') contentOut[e.from] = (contentOut[e.from] || 0) + 1;
+}
+const sitemapPaths = fs.existsSync(sitemapFile)
+  ? [...fs.readFileSync(sitemapFile, 'utf8').matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1].trim().slice((L.SITE_URL + L.BASEURL).length) || '/')
+  : [];
+const depthHistogram = {};
+const unreachable = [];
+for (const u of sitemapPaths) {
+  if (!(u in depth)) { unreachable.push(u); F.add('P2', 'sitemap.xml', u, 'sitemap page unreachable from the home page by rendered links', 'Link it from a hub, a related card or a listing'); continue; }
+  depthHistogram[depth[u]] = (depthHistogram[depth[u]] || 0) + 1;
+  if (depth[u] > MAX_CLICK_DEPTH) F.add('P3', 'sitemap.xml', u, 'click depth ' + depth[u] + ' from the home page exceeds the measured maximum ' + MAX_CLICK_DEPTH, 'Link it from a hub or a better-linked guide');
+  if (!contentOut[u]) F.add('P3', 'sitemap.xml', u, 'dead-end page: no internal link outside the site navigation', 'Add a contextual link or a related card');
+}
+const linkGraph = { pages: graph.pages.length, edges: graph.edges.length, edgesByZone: byZone, sitemapPages: sitemapPaths.length, maxDepth: Math.max(0, ...sitemapPaths.filter(u => u in depth).map(u => depth[u])), depthHistogram, unreachable };
+
 // search.json sanity
 const searchJson = path.join(SITE_DIR, 'search.json');
 if (fs.existsSync(searchJson)) {
   try { JSON.parse(fs.readFileSync(searchJson, 'utf8')); } catch (e) { F.add('P1', 'search.json', '-', 'rendered search.json is invalid JSON', 'Fix template'); }
 }
 
-const report = { tool: 'rendered-site-audit', counts: F.counts, renderedPages: htmlPages, findings: F.items };
+const report = { tool: 'rendered-site-audit', counts: F.counts, renderedPages: htmlPages, linkGraph, findings: F.items };
 fs.mkdirSync(path.join(L.ROOT, 'reports'), { recursive: true });
 fs.writeFileSync(path.join(L.ROOT, 'reports', 'rendered-site-audit.json'), JSON.stringify(report, null, 2));
-console.log('rendered-site-audit: pages=' + htmlPages + ' P0=' + F.counts.P0 + ' P1=' + F.counts.P1 + ' P2=' + F.counts.P2 + ' P3=' + F.counts.P3 + ' blocking=' + F.blocking.length);
+console.log('rendered-site-audit: pages=' + htmlPages + ' links=' + linkGraph.edges + ' max click depth=' + linkGraph.maxDepth + ' unreachable=' + unreachable.length + ' P0=' + F.counts.P0 + ' P1=' + F.counts.P1 + ' P2=' + F.counts.P2 + ' P3=' + F.counts.P3 + ' blocking=' + F.blocking.length);
 process.exitCode = F.hasBlocking ? 1 : 0;

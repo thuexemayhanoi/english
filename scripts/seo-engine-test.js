@@ -400,6 +400,44 @@ check('data-driven: an unknown CSV layout is rejected, never guessed', LIB.parse
   fs.rmSync(P3, { recursive: true, force: true });
 }
 
+// ---------- 5e. link graph metrics and llms.txt integrity (docs/seo/research/github-seo-skills.md) ----------
+{
+  const LG = require(path.join(SRC, 'lib.js'));
+  const ring = LG.pageRank({ a: ['b'], b: ['c'], c: ['a'] });
+  check('link graph: PageRank of a three-page ring is uniform and sums to 1', Math.abs(ring.a - 1 / 3) < 1e-9 && Math.abs(ring.a + ring.b + ring.c - 1) < 1e-9, JSON.stringify(ring));
+  const star = LG.pageRank({ hub: ['x', 'y'], x: ['hub'], y: ['hub'], lone: [] });
+  check('link graph: PageRank favours the page every other page links to, dangling mass kept', star.hub > star.x && star.x === star.y && star.lone < star.x && Math.abs(Object.values(star).reduce((n, v) => n + v, 0) - 1) < 1e-9, JSON.stringify(star));
+  const depth = LG.clickDepth({ '/': ['/a/', '/b/'], '/a/': ['/c/'], '/c/': ['/'], '/orphan/': ['/'] }, '/');
+  check('link graph: click depth is breadth-first and orphans stay unreached', depth['/'] === 0 && depth['/a/'] === 1 && depth['/c/'] === 2 && !('/orphan/' in depth), JSON.stringify(depth));
+  const pct = LG.percentileRanks({ a: 1, b: 2, c: 3, d: 5 }, u => (u === 'd' ? 'g2' : 'g1'));
+  check('link graph: percentiles are computed inside each group', pct.a === 0 && pct.b === 50 && pct.c === 100 && pct.d === 100, JSON.stringify(pct));
+  const html = '<header class="site-header"><div><a href="/x/">x</a></div></header><main class="container"><div class="article-body"><div><a href="/y/">y <b>text</b></a></div></div><aside class="related"><a href="/z/">z</a></aside></main>';
+  const r = LG.elementRanges(html, 'div', 'article-body');
+  check('link graph: element ranges are nesting-aware', r.length === 1 && html.slice(r[0][0], r[0][1]).endsWith('</div></div>') && html.slice(r[0][1]).startsWith('<aside'), JSON.stringify(r));
+  const site = fs.mkdtempSync(path.join(os.tmpdir(), 'seo-link-graph-'));
+  const page = (u, inner) => { const d = path.join(site, u); fs.mkdirSync(d, { recursive: true }); fs.writeFileSync(path.join(d, 'index.html'), '<html><body>' + inner + '</body></html>'); };
+  page('', '<header class="site-header"><a href="/a/">A</a></header><main class="container"><p><a href="/b/">Hanoi motorbike rental guide</a></p></main>');
+  page('a', '<main class="container"><div class="article-body"><a href="/b/#top">B</a><a href="https://example.com/">ext</a></div><aside class="related"><a href="/">home</a></aside></main>');
+  page('b', '<main class="container"><ul class="card-list"><li><a href="/a/">A</a></li></ul></main>');
+  page('orphan', '<main class="container"><p>nothing links here</p></main>');
+  const g = LG.renderedLinkGraph(site);
+  const zoneOf = (from, to) => (g.edges.find(e => e.from === from && e.to === to) || {}).zone;
+  check('link graph: rendered edges carry their template zone and drop external links', zoneOf('/', '/a/') === 'nav' && zoneOf('/', '/b/') === 'body' && zoneOf('/a/', '/b/') === 'body' && zoneOf('/a/', '/') === 'related' && zoneOf('/b/', '/a/') === 'listing' && g.edges.length === 5, JSON.stringify(g.edges));
+  check('link graph: anchor text is kept for the anchor profile', (g.edges.find(e => e.from === '/' && e.to === '/b/') || {}).anchor === 'Hanoi motorbike rental guide');
+  const adj = {}; for (const u of g.pages) adj[u] = new Set(); for (const e of g.edges) adj[e.from].add(e.to);
+  check('link graph: an unlinked rendered page is unreachable from the home page', !('/orphan/' in LG.clickDepth(adj, '/')));
+  fs.rmSync(site, { recursive: true, force: true });
+  const base = LG.SITE_URL;
+  const facts = { indexable: new Set([base + '/', base + '/faq/']), extra: new Set([base + '/sitemap.xml']), articles: 981, verified: 977, topics: 14, faqAnswers: 52 };
+  const good = '# Site\n\n> Summary: 981 guides across 14 topics.\n\n- [FAQ](' + base + '/faq/): 52 answers\n- [Sitemap](' + base + '/sitemap.xml)\n';
+  check('llms.txt: a file whose links and counts match the site passes', LG.llmsTxtFindings(good, facts).length === 0, JSON.stringify(LG.llmsTxtFindings(good, facts)));
+  const bad = '> no title. 981 verified guides across 15 topics.\n- [Gone](' + base + '/old-page/)\n';
+  const issues = LG.llmsTxtFindings(bad, facts).map(f => f.severity + ' ' + f.issue);
+  check('llms.txt: missing title, broken link and wrong counts are reported', issues.some(i => /^P2 llms.txt has no H1/.test(i)) && issues.some(i => /^P1 broken internal link: llms.txt/.test(i)) && issues.some(i => /"981 verified guides" but the repository has 977/.test(i)) && issues.some(i => /"15 topics" but the repository has 14/.test(i)), JSON.stringify(issues));
+  check('llms.txt: a broken llms.txt link is blocking like any broken internal link', LG.isBlocking({ severity: 'P1', issue: 'broken internal link: llms.txt ' + base + '/old-page/' }));
+  check('English-only guard: a language switcher finding is blocking', LG.isBlocking({ severity: 'P1', issue: 'language switcher or /vi/ link in rendered page' }));
+}
+
 // ---------- 6. production isolation ----------
 check('isolation: fixture articles never leaked into production', !fs.existsSync(path.join(PROD_ROOT, '_articles', 'valid-article.md')));
 const prodCount = fs.readdirSync(path.join(PROD_ROOT, '_articles')).filter(f => f.endsWith('.md')).length;
