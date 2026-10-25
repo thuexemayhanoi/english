@@ -437,6 +437,8 @@ check('data-driven: an unknown CSV layout is rejected, never guessed', LIB.parse
   const issues = LG.llmsTxtFindings(bad, facts).map(f => f.severity + ' ' + f.issue);
   check('llms.txt: missing title, broken link and wrong counts are reported', issues.some(i => /^P2 llms.txt has no H1/.test(i)) && issues.some(i => /^P1 broken internal link: llms.txt/.test(i)) && issues.some(i => /"981 verified guides" but the repository has 977/.test(i)) && issues.some(i => /"15 topics" but the repository has 14/.test(i)), JSON.stringify(issues));
   check('llms.txt: a broken llms.txt link is blocking like any broken internal link', LG.isBlocking({ severity: 'P1', issue: 'broken internal link: llms.txt ' + base + '/old-page/' }));
+  check('link graph: only the own site host counts as internal', LG.internalPageHref(base + '/faq/', { '/faq/': 'f' }) === '/faq/' && LG.internalPageHref(base + '.example.com/faq/', { '/faq/': 'f' }) === null && LG.ownSitePath('https://user@' + base.replace(/^https:\/\//, '') + '.example.com/') === null);
+  check('llms.txt: a lookalike host is not treated as an internal link', LG.llmsTxtFindings(good + '- [X](' + base + '.example.com/old-page/)\n', facts).length === 0);
   check('English-only guard: a language switcher finding is blocking', LG.isBlocking({ severity: 'P1', issue: 'language switcher or /vi/ link in rendered page' }));
 }
 

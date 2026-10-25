@@ -4,7 +4,7 @@
   "mode": "ZERO-DATA",
   "clusters": 14,
   "articles": 981,
-  "inSiloBodyLinks": 2308,
+  "inSiloBodyLinks": 2307,
   "crossSiloBodyLinks": 1152,
   "inSiloShare": 67,
   "articlesWithoutInSiloInbound": 238,
@@ -28,7 +28,7 @@
     "total": 50000
    }
   },
-  "keywordClusters": 27,
+  "keywordClusters": 28,
   "splitFamilies": 0,
   "serpVerifiedSplits": 1,
   "serpQuestionsServed": 219,
@@ -69,11 +69,11 @@
      "sitePct": 99
     },
     {
-     "url": "/articles/how-deposit-returns-work-hanoi/",
+     "url": "/articles/helmet-law-vietnam/",
      "sitePct": 99
     },
     {
-     "url": "/articles/helmet-law-vietnam/",
+     "url": "/articles/how-deposit-returns-work-hanoi/",
      "sitePct": 99
     },
     {
@@ -84,8 +84,8 @@
    "keywordOwners": [
     {
      "url": "/",
-     "sitePct": 35,
-     "inBody": 3
+     "sitePct": 91,
+     "inBody": 6
     },
     {
      "url": "/articles/best-scooters-to-rent-hanoi/",
@@ -94,7 +94,7 @@
     },
     {
      "url": "/articles/how-to-rent-a-motorbike-hanoi/",
-     "sitePct": 99,
+     "sitePct": 98,
      "inBody": 10
     }
    ]
@@ -137,10 +137,10 @@
     "P3": 81
    },
    "links": {
-    "inSiloBody": 372,
+    "inSiloBody": 371,
     "crossSiloOut": 108,
     "crossSiloIn": 267,
-    "inSiloShare": 78,
+    "inSiloShare": 77,
     "articlesWithoutInSiloInbound": 6,
     "articlesWithoutInSiloInboundSample": [
      "/articles/common-motorbike-rental-problems-hanoi/",
@@ -191,7 +191,7 @@
     },
     {
      "url": "/articles/best-bike-for-hanoi-old-quarter/",
-     "equityPct": 14,
+     "equityPct": 15,
      "inbound": 3,
      "inSiloInbound": 2,
      "related": 3,
@@ -207,7 +207,7 @@
     },
     {
      "url": "/articles/best-motorbike-for-long-distance-vietnam/",
-     "equityPct": 58,
+     "equityPct": 59,
      "inbound": 12,
      "inSiloInbound": 2,
      "related": 19,
@@ -215,7 +215,7 @@
     },
     {
      "url": "/articles/best-motorbike-for-two-people-hanoi/",
-     "equityPct": 49,
+     "equityPct": 50,
      "inbound": 8,
      "inSiloInbound": 2,
      "related": 10,
@@ -223,7 +223,7 @@
     },
     {
      "url": "/articles/motorbike-rental-digital-nomads-hanoi/",
-     "equityPct": 18,
+     "equityPct": 16,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -247,7 +247,7 @@
     },
     {
      "url": "/articles/renting-motorbike-six-months-hanoi/",
-     "equityPct": 43,
+     "equityPct": 41,
      "inbound": 5,
      "inSiloInbound": 2,
      "related": 2,
@@ -263,7 +263,7 @@
     },
     {
      "url": "/articles/best-motorbikes-for-tall-riders-vietnam/",
-     "equityPct": 54,
+     "equityPct": 55,
      "inbound": 12,
      "inSiloInbound": 3,
      "related": 6,
@@ -271,7 +271,7 @@
     },
     {
      "url": "/articles/lightest-motorbikes-for-new-riders/",
-     "equityPct": 41,
+     "equityPct": 43,
      "inbound": 5,
      "inSiloInbound": 3,
      "related": 14,
@@ -287,7 +287,7 @@
     },
     {
      "url": "/articles/motorbike-rental-international-students-hanoi/",
-     "equityPct": 26,
+     "equityPct": 25,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 2,
@@ -319,7 +319,7 @@
     },
     {
      "url": "/articles/renting-motorbike-old-quarter/",
-     "equityPct": 33,
+     "equityPct": 36,
      "inbound": 6,
      "inSiloInbound": 3,
      "related": 6,
@@ -327,7 +327,7 @@
     },
     {
      "url": "/articles/renting-motorbike-tay-ho/",
-     "equityPct": 25,
+     "equityPct": 29,
      "inbound": 4,
      "inSiloInbound": 3,
      "related": 1,
@@ -343,7 +343,7 @@
     },
     {
      "url": "/articles/motorbike-rental-expats-moving-hanoi/",
-     "equityPct": 28,
+     "equityPct": 26,
      "inbound": 4,
      "inSiloInbound": 4,
      "related": 2,
@@ -367,7 +367,7 @@
     },
     {
      "url": "/articles/renting-motorbike-hanoi-one-day/",
-     "equityPct": 44,
+     "equityPct": 40,
      "inbound": 5,
      "inSiloInbound": 4,
      "related": 1,
@@ -375,7 +375,7 @@
     },
     {
      "url": "/articles/renting-motorbikes-group-hanoi/",
-     "equityPct": 35,
+     "equityPct": 34,
      "inbound": 5,
      "inSiloInbound": 4,
      "related": 1,
@@ -415,7 +415,7 @@
     },
     {
      "url": "/articles/best-motorbike-for-hanoi-traffic/",
-     "equityPct": 79,
+     "equityPct": 80,
      "inbound": 8,
      "inSiloInbound": 7,
      "related": 26,
@@ -447,7 +447,7 @@
     },
     {
      "url": "/articles/motorbike-rental-price-hanoi/",
-     "equityPct": 88,
+     "equityPct": 89,
      "inbound": 24,
      "inSiloInbound": 17,
      "related": 21,
@@ -644,95 +644,93 @@
     ]
    },
    "demand": {
-    "keywords": 24,
+    "keywords": 8,
     "weak": 0,
     "volume": {
-     "us": 960,
-     "vn": 8360,
-     "au": 10,
-     "uk": 10
+     "vn": 80,
+     "us": 70
     },
     "top": [
      {
-      "keyword": "hanoi motorbike rental",
+      "keyword": "hanoi motorbike rental cost",
       "volume": {
-       "us": 110,
-       "vn": 2400
+       "vn": 30,
+       "us": 10
       },
-      "servedBy": "/topics/rental/",
+      "servedBy": "/articles/motorbike-rental-price-hanoi/",
       "strength": "owner"
      },
      {
-      "keyword": "motorbike rental hanoi",
+      "keyword": "motorbike rental hanoi old quarter",
       "volume": {
-       "vn": 2400,
-       "us": 110
+       "vn": 20,
+       "us": 10
       },
-      "servedBy": "/topics/rental/",
+      "servedBy": "/articles/renting-motorbike-old-quarter/",
       "strength": "owner"
      },
      {
-      "keyword": "rental motorbike hanoi",
+      "keyword": "buying a motorbike in hanoi",
       "volume": {
-       "vn": 2400,
-       "us": 110
+       "vn": 10
       },
-      "servedBy": "/topics/rental/",
-      "strength": "owner"
-     },
-     {
-      "keyword": "hanoi motorbike",
-      "volume": {
-       "us": 70,
-       "vn": 1000
-      },
-      "servedBy": "/topics/rental/",
+      "servedBy": "/articles/renting-vs-buying-a-motorbike-hanoi/",
       "strength": "title"
      },
      {
-      "keyword": "hanoi motorbike rent",
+      "keyword": "cheap motorbike rental hanoi",
       "volume": {
-       "us": 110
+       "vn": 10,
+       "us": 10
       },
-      "servedBy": "/topics/rental/",
+      "servedBy": "/articles/motorbike-rental-price-hanoi/",
       "strength": "owner"
      },
      {
-      "keyword": "hanoi motorbike rentals",
+      "keyword": "motorbike rental hanoi price",
       "volume": {
-       "us": 110
+       "vn": 10,
+       "us": 10
       },
-      "servedBy": "/topics/rental/",
+      "servedBy": "/articles/motorbike-rental-price-hanoi/",
       "strength": "owner"
      },
      {
-      "keyword": "hanoi rent motorbike",
+      "keyword": "motorbike rental old quarter hanoi",
       "volume": {
-       "us": 110
+       "us": 10
       },
-      "servedBy": "/topics/rental/",
+      "servedBy": "/articles/renting-motorbike-old-quarter/",
       "strength": "owner"
      },
      {
-      "keyword": "motorbike rental hanoi vietnam",
+      "keyword": "scooter rental vietnam price",
       "volume": {
-       "us": 110
+       "us": 10
       },
-      "servedBy": "/topics/rental/",
+      "servedBy": "/articles/motorbike-rental-price-hanoi/",
+      "strength": "owner"
+     },
+     {
+      "keyword": "vietnam scooter rental price",
+      "volume": {
+       "us": 10
+      },
+      "servedBy": "/articles/motorbike-rental-price-hanoi/",
       "strength": "owner"
      }
     ],
     "gaps": []
    },
    "serp": {
-    "questionsServed": 40,
+    "questionsServed": 37,
     "sample": [
      "Scooter rental Vietnam price",
      "How much does it cost to rent a motorcycle in Vietnam?",
      "Can tourists rent a motorbike in vietnam without",
      "Can tourists rent a motorbike in vietnam for a day",
-     "Motorbike rental Hanoi",
-     "How much is bike rental in Hanoi?"
+     "How much is bike rental in Hanoi?",
+     "How much does it cost to rent a scooter in Hanoi?"
     ]
    },
    "recommendations": [
@@ -796,7 +794,7 @@
      "cluster": "rental",
      "severity": "P3",
      "rule": "money-page-equity",
-     "detail": "/articles/best-bike-for-hanoi-old-quarter/ sits at the 14th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "detail": "/articles/best-bike-for-hanoi-old-quarter/ sits at the 15th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
      "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
      "status": "REVIEW_REQUIRED"
     }
@@ -1133,7 +1131,7 @@
    "moneyPages": [
     {
      "url": "/articles/best-155-160cc-scooters-vietnam/",
-     "equityPct": 62,
+     "equityPct": 64,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 8,
@@ -1165,7 +1163,7 @@
     },
     {
      "url": "/articles/best-scooters-tall-riders-vietnam/",
-     "equityPct": 38,
+     "equityPct": 37,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1173,7 +1171,7 @@
     },
     {
      "url": "/articles/honda-air-blade-125-vs-honda-vario-125/",
-     "equityPct": 37,
+     "equityPct": 36,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1221,7 +1219,7 @@
     },
     {
      "url": "/articles/honda-sh-mode-125-vs-honda-lead-125/",
-     "equityPct": 36,
+     "equityPct": 38,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1269,7 +1267,7 @@
     },
     {
      "url": "/articles/honda-vision-vs-honda-lead-125/",
-     "equityPct": 54,
+     "equityPct": 55,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1293,7 +1291,7 @@
     },
     {
      "url": "/articles/which-scooter-engine-class-vietnam/",
-     "equityPct": 30,
+     "equityPct": 31,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1349,7 +1347,7 @@
     },
     {
      "url": "/articles/yamaha-janus-125-vs-honda-lead-125/",
-     "equityPct": 21,
+     "equityPct": 22,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1445,7 +1443,7 @@
     },
     {
      "url": "/articles/yamaha-nvx-155-vs-honda-air-blade-160/",
-     "equityPct": 58,
+     "equityPct": 57,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -1461,7 +1459,7 @@
     },
     {
      "url": "/articles/best-125cc-scooters-vietnam-verified/",
-     "equityPct": 57,
+     "equityPct": 58,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 5,
@@ -1517,7 +1515,7 @@
     },
     {
      "url": "/articles/scooters-under-40-million-vietnam/",
-     "equityPct": 22,
+     "equityPct": 21,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 2,
@@ -3893,18 +3891,36 @@
     ]
    },
    "demand": {
-    "keywords": 1,
+    "keywords": 3,
     "weak": 0,
     "volume": {
-     "us": 20
+     "us": 100,
+     "vn": 1000
     },
     "top": [
+     {
+      "keyword": "hanoi motorbike",
+      "volume": {
+       "us": 70,
+       "vn": 1000
+      },
+      "servedBy": "/topics/hanoi/",
+      "strength": "title"
+     },
      {
       "keyword": "motorbike tours hanoi",
       "volume": {
        "us": 20
       },
       "servedBy": "/articles/hanoi-guided-motorbike-tours-vs-self-riding/",
+      "strength": "title"
+     },
+     {
+      "keyword": "motorbike in hanoi",
+      "volume": {
+       "us": 10
+      },
+      "servedBy": "/topics/hanoi/",
       "strength": "title"
      }
     ],
@@ -4936,14 +4952,13 @@
    "flags": []
   },
   {
-   "url": "/topics/rental/",
-   "type": "hub",
-   "cluster": "rental",
+   "url": "/",
+   "type": "page",
+   "cluster": "",
    "keywords": [
     "hanoi motorbike rental",
     "motorbike rental hanoi",
     "rental motorbike hanoi",
-    "hanoi motorbike",
     "hanoi motorbike rent",
     "hanoi motorbike rentals",
     "hanoi rent motorbike",
@@ -4951,22 +4966,20 @@
     "hanoi motorbike hire",
     "motorbike hire hanoi",
     "best motorbike rental hanoi",
-    "motorbike in hanoi",
     "motorbike rental in hanoi",
     "motorbike rental in hanoi vietnam",
     "motorbike rental vietnam hanoi",
     "vietnam motorbike rental hanoi"
    ],
    "volume": {
-    "us": 890,
-    "vn": 8280,
+    "us": 810,
+    "vn": 7280,
     "au": 10,
     "uk": 10
    },
    "intents": {
     "commercial": 4,
-    "transactional": 10,
-    "informational": 2
+    "transactional": 10
    },
    "weak": 0,
    "flags": []
@@ -5047,6 +5060,24 @@
    "flags": [
     "mixed intent (3 commercial/transactional, 1 informational): keep one primary intent, let the hub carry the rest"
    ]
+  },
+  {
+   "url": "/topics/hanoi/",
+   "type": "hub",
+   "cluster": "hanoi",
+   "keywords": [
+    "hanoi motorbike",
+    "motorbike in hanoi"
+   ],
+   "volume": {
+    "us": 80,
+    "vn": 1000
+   },
+   "intents": {
+    "informational": 2
+   },
+   "weak": 0,
+   "flags": []
   },
   {
    "url": "/articles/buying-motorbike-as-tourist-vietnam/",
@@ -5571,7 +5602,7 @@
    "cluster": "rental",
    "severity": "P3",
    "rule": "money-page-equity",
-   "detail": "/articles/best-bike-for-hanoi-old-quarter/ sits at the 14th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "detail": "/articles/best-bike-for-hanoi-old-quarter/ sits at the 15th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
    "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
    "status": "REVIEW_REQUIRED"
   },

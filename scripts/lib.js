@@ -488,11 +488,20 @@ function elementRanges(html, tag, cls) {
 // Site navigation zones of the shared templates: links inside them repeat on every page.
 const NAV_ZONES = [['header', 'site-header'], ['nav', 'mobile-nav'], ['nav', 'breadcrumbs'], ['footer', 'site-footer'], ['aside', 'contact-sheet'], ['aside', 'assistant-panel']];
 
+// Path (with query and fragment) of an absolute URL on this site's own host, or null. Compares
+// the parsed host, so a lookalike such as https://en.rentbikehanoi.com.example/ is external.
+const SITE_HOST = new URL(SITE_URL).host;
+function ownSitePath(u) {
+  let url; try { url = new URL(String(u || '').trim()); } catch (e) { return null; }
+  if (!/^https?:$/.test(url.protocol) || url.host !== SITE_HOST) return null;
+  return url.pathname + url.search + url.hash;
+}
+
 // Root-relative page URL for an internal href, or null when it is external, a file or not a
 // built page. pages maps url -> file.
 function internalPageHref(href, pages) {
   let h = String(href || '').trim().replace(/&amp;/g, '&');
-  if (/^https?:\/\//i.test(h)) { if (!h.startsWith(SITE_URL)) return null; h = h.slice(SITE_URL.length) || '/'; }
+  if (/^https?:\/\//i.test(h)) { h = ownSitePath(h); if (h === null) return null; }
   if (!h.startsWith('/') || h.startsWith('//')) return null;
   h = h.split('#')[0].split('?')[0];
   if (!h) return null;
@@ -554,7 +563,7 @@ function llmsTxtFindings(text, facts) {
   if (!/^> \S/m.test(text)) add('P2', 'llms.txt has no summary block', 'Add a "> summary" line after the title');
   for (const m of text.matchAll(/\]\((https?:\/\/[^)\s]+)\)/g)) {
     const u = m[1];
-    if (!u.startsWith(SITE_URL)) continue;
+    if (ownSitePath(u) === null) continue;
     if (!facts.indexable.has(u) && !(facts.extra && facts.extra.has(u))) add('P1', 'broken internal link: llms.txt ' + u, 'Link only built, indexable URLs');
   }
   const claims = [
@@ -573,4 +582,4 @@ function llmsTxtFindings(text, facts) {
   return out;
 }
 
-module.exports = { ROOT, CLUSTERS, SITE_URL, BASEURL, PRIMARY_LEGAL_DOMAINS, isPrimaryLegalSource, isBlocking, walk, parseFrontMatter, loadArticles, loadPages, articleUrl, pageUrl, stripLiquid, contentText, contentWords, unlinkedRefs, UNLINKED_REF_PATTERNS, findH1s, extractLinks, Findings, sitemapLocs, isDynamicallyListed, expectedIndexableUrls, parseCsv, parseGscCsv, gscSignal, sitePath, latestRankSnapshot, rankSignal, clickDepth, pageRank, percentileRanks, elementRanges, NAV_ZONES, internalPageHref, renderedLinkGraph, llmsTxtFindings };
+module.exports = { ROOT, CLUSTERS, SITE_URL, BASEURL, PRIMARY_LEGAL_DOMAINS, isPrimaryLegalSource, isBlocking, walk, parseFrontMatter, loadArticles, loadPages, articleUrl, pageUrl, stripLiquid, contentText, contentWords, unlinkedRefs, UNLINKED_REF_PATTERNS, findH1s, extractLinks, Findings, sitemapLocs, isDynamicallyListed, expectedIndexableUrls, parseCsv, parseGscCsv, gscSignal, sitePath, latestRankSnapshot, rankSignal, clickDepth, pageRank, percentileRanks, elementRanges, NAV_ZONES, ownSitePath, internalPageHref, renderedLinkGraph, llmsTxtFindings };
