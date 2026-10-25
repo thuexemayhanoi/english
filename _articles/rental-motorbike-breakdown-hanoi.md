@@ -58,7 +58,7 @@ The manual for the [Honda Wave Alpha 110]({{ '/articles/honda-wave-alpha-110-rev
 
 The start routine is: valve ON, ignition ON, gearbox in neutral with the N indicator lit, then the start button with the throttle slightly open. The manual also describes a kick-start lever, so ask whether your bike has one.
 
-For air between 10 and 35 degrees Celsius the manual adds a choke lever, pulled fully up to start, moved halfway down once the engine runs and fully off after about half a minute. At 10 degrees or below the steps are the same, and the manual says to keep warming the engine until it runs evenly with the choke fully off. At 35 degrees or above it says not to use the choke, and it tells the rider to restart a hot engine with that no-choke routine.
+For air between 10 and 35 degrees Celsius the manual adds a choke lever, pulled fully up to start, moved halfway down once the engine runs and fully off after about half a minute. At 10 degrees or below the manual repeats the same steps through warming the engine, then says to keep warming it until it runs evenly with the choke fully off. At 35 degrees or above it says not to use the choke, and it tells the rider to restart a hot engine with that no-choke routine.
 
 ### An automatic: the Vision
 
@@ -73,7 +73,7 @@ A call lets the shop ask questions; a WhatsApp or Zalo message leaves a written 
 - your name, the bike's model and plate number, and where you are: the street name and a landmark;
 - the category from the first list: no power, turning over but not starting, or running but wrong;
 - what you already tried, and how many attempts, so nobody asks you to repeat them;
-- whether the bike is safe where it stands, and what happened before it stopped, as [the feels-wrong guide]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}#what-to-photograph-and-film) lists it, with the photographs worth taking once the bike is stopped and safe.
+- whether the bike is safe where it stands, and what happened before it stopped, as [the guide to a bike that does not feel normal]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}#what-else-helps-a-mechanic) lists it; the same guide says what to photograph once the bike is stopped and safe.
 
 Nguyen Tu does not promise 24/7 rescue or a guaranteed rescue time, and support is primarily for Hanoi and local use. The further you are from the city, the more the plan rests on the steps above; [the guide to taking a rental outside Hanoi]({{ '/articles/rental-motorbike-outside-hanoi/' | relative_url }}) is the place to settle terms before you leave.
 
@@ -108,7 +108,7 @@ No breakdown procedure is published beyond the contact details, so these are ans
 
 ## When it becomes a replacement
 
-If the failure is not fixable roadside, the conversation moves to a swap, and whether one is possible is the shop's call: ask whether it can offer another bike. Whether one is available is a question for the shop: contact us to confirm current availability. Ask what the replacement would be, where you would collect it and whether the rental terms stay the same.
+If the failure is not fixable roadside, the conversation moves to a swap, and whether one is possible is the shop's call: ask whether it can offer another bike, and contact us to confirm current availability. Ask what the replacement would be, how you would get it and whether the rental terms stay the same.
 
 ## What not to do while you wait
 
