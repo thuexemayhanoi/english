@@ -65,7 +65,7 @@ Range is two published numbers combined: tank size in litres divided by consumpt
 
 Tank size and consumption matter more to range than engine size. The 109.2 cc Wave RSX reaches about 256 km on 4.0 L at 1.56 L/100 km, while the 155 cc Exciter 155 VVA reaches about 261 km on 5.4 L at 2.07 L/100 km, so the larger engine added almost no range. Use the table to see how the sum works, not to rank brands. For any other bike, take the tank and consumption from the manufacturer's page for that exact model and version and do the same sum.
 
-Consumption is the number that moves most on a loaded bike in hills. Take an illustrative 4.0 L tank: at 2.0 L/100 km the sum gives 200 km, at 2.5 L/100 km it gives 160 km, and at 3.0 L/100 km about 133 km. These are arithmetic examples, not predictions for any model. Plan each fuel stop with a pessimistic consumption figure, refuel at the first sensible station rather than the last, and treat a small tank's gauge as a rough guide. The pacing and fuel stops of an underbone day are in [long-distance touring on a semi-automatic underbone]({{ '/articles/touring-semi-auto-underbone/' | relative_url }}).
+Consumption is the number that moves most on a loaded bike in hills. Take an illustrative 4.0 L tank: at 2.0 L/100 km the sum gives 200 km, at 2.5 L/100 km it gives 160 km, and at 3.0 L/100 km about 133 km. Plan each fuel stop with a pessimistic consumption figure, refuel at the first sensible station rather than the last, and treat a small tank's gauge as a rough guide. The pacing and fuel stops of an underbone day are in [long-distance touring on a semi-automatic underbone]({{ '/articles/touring-semi-auto-underbone/' | relative_url }}).
 
 ### Luggage and load
 
@@ -103,7 +103,7 @@ The line that matters for a rental is the one in the power table. Under Article 
 
 ## The rental-side preparations
 
-Rent from a shop that maintains its bikes, do the full [inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}), photograph the bike, and agree in writing that the rental covers your provinces - some rentals [restrict riding outside Hanoi]({{ '/articles/rental-motorbike-outside-hanoi/' | relative_url }}), so ask. Breakdown, puncture and maintenance responsibilities should be clear before a long trip; [what happens if a rental breaks down]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) covers the standard division.
+Rent from a shop that maintains its bikes, do the full [inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}), photograph the bike, and ask whether the rental covers your provinces and whether that can be put in writing - some rentals [restrict riding outside Hanoi]({{ '/articles/rental-motorbike-outside-hanoi/' | relative_url }}). Breakdown, puncture and maintenance responsibilities should be clear before a long trip; [what happens if a rental breaks down]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) covers the standard division.
 
 ## What to ask the shop before a longer trip
 
@@ -131,12 +131,12 @@ The inspection checklist covers the handover. These are the additions once days 
 
 ## Rent from Hanoi, or travel another way?
 
-A rental from Hanoi suits a ride that starts and ends in Hanoi, and only after you have asked the shop whether the route is acceptable. Published day rates are 150,000 VND for the Honda Wave and 200,000 VND for the Honda Vision and Honda Air Blade, and the deposit is typically 2,000,000-5,000,000 VND depending on vehicle and conditions. For a period of more than a few days, ask how it would be quoted instead of multiplying the day rate; [the Hanoi rental price guide]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) has the published figures.
+A rental from Hanoi suits a ride that starts and ends in Hanoi. Published day rates are 150,000 VND for the Honda Wave and 200,000 VND for the Honda Vision and Honda Air Blade, and the deposit is typically 2,000,000-5,000,000 VND depending on vehicle and conditions. For a period of more than a few days, ask how it would be quoted instead of multiplying the day rate; [the Hanoi rental price guide]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) has the published figures.
 
 Other ways to cover the distance:
 
 - **Ride one region, travel the rest.** [Motorbike vs train for long distances in Vietnam]({{ '/articles/motorbike-vs-train-vietnam-long-distance/' | relative_url }}) compares the two. Moving a bike by train or ferry is something to ask the shop about first, not to assume for a rental.
-- **A route that ends elsewhere.** A rental from a Hanoi shop is the wrong tool for it; [renting vs buying for a long trip]({{ '/articles/renting-vs-buying-motorbike-vietnam-long-trip/' | relative_url }}) covers that decision.
+- **A route that ends elsewhere.** Do not assume a Hanoi rental can end in another city; [renting vs buying for a long trip]({{ '/articles/renting-vs-buying-motorbike-vietnam-long-trip/' | relative_url }}) covers that decision.
 - **The routes themselves.** [The Ha Giang loop]({{ '/articles/ha-giang-loop-motorbike-guide/' | relative_url }}) describes the road, not an arrangement with the shop.
 
 ## Questions about long-distance bikes
