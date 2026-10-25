@@ -1591,5 +1591,31 @@
    "wordsAdded": 17075,
    "rankTrackedUrls": 0
   }
+ },
+ {
+  "date": "2026-10-25",
+  "batch": "package2-p2-03",
+  "package": 2,
+  "note": "SEO Package 2 content depth: 10 article(s) expanded to at least 1600 words (3899 -> 20636 words); same URL, slug and canonical; Priority A rental money pages (long-term terms, return, inspection, problems, inclusions, audience pages), third batch. Every article passed an independent verifier; six-months, three-month, returning and expats-monthly passed on the first verification with MINOR findings; year, inspection checklist, common problems, what-is-included, English teachers and international students needed a fix round and passed a delta verification; the delta MINOR findings and the verifier MINOR findings elsewhere were applied by the lead with the verifier's wording and checked by lint and QA. Cross-article rule set by the lead: OWNER-FACTS does not say whether the registration certificate travels with a rental bike and the VERIFIED police-impound guide says it stays with the owner, so every batch-3 page writes it as a question (ask at handover which registration papers travel with the bike, the original or a certified copy). Recorded front matter changes: returning description no longer promises a ten-minute return and the deposit back in cash (OWNER-FACTS states neither); inspection-checklist description drops \"thirty seconds\" and now carries its primary keyword; common-problems description drops \"the five problems that actually hit Hanoi renters\" (unsourced) and names problems in order of when they happen; what-is-included description drops registration papers and \"usually helmets\" (neither in OWNER-FACTS) and states no insurance from Nguyen Tu. No title changed. Removed or reworded original passages: six-months the ~1,500 km sentence (kept as owner guidance, reworded) and the long-term habits list (support channel wording); three-month the negotiation heading sentence (folded into the terms table); returning ten minutes, nobody charges for dust, deposit back on the spot in cash, worth their two minutes, shops are reasonable about extensions, photos-fuel-handshake-cash (all unsourced or implied policy); year expect several visits (now \"may include\"), still wins for most expats (now \"can suit\"), the relationship paragraph (reworded); inspection-checklist thirty seconds, 2-3 cm chain play and fixed in minutes (unsourced), \"number plates\" (a motorbike carries one rear plate, Circular 79/2024), registration certificate with the bike and insurance certificate available (now questions), \"no plates\", sign-photograph-ride (photos come first); common-problems same five problems, keep the contract until the cash is back, stolen from sidewalks not guarded parking, pay for attended parking (absolute claims), registration certificate at the shop and take it with the bike (now a question); what-is-included honestly split, papers and third-party insurance ride with the bike, ask to see both, helmets at most shops (no helmet policy in OWNER-FACTS), third-party cover wording (now the owner's legal duty, within its limits and conditions), agreed fuel level (fuel conventions differ), the breakdown division sentence, the closing core-and-edges line; English teachers how most teachers start, typically two to four locations, automatic scooters dominate, maintenance included (now may include, as OWNER-FACTS words it); international students none removed (100% kept): corrective sentences follow the unsourced below-ownership-cost line, the keep-the-receipt line, the loose 50cc-class wording (moped definition from Law 36/2024/QH15 Article 34(1)(g)) and the Ninh Binh weekend line (support is primarily Hanoi and local). Link budgets: common-problems keeps 16 targets because it is an index of problems, each linked to the guide that covers it in full. Source reads after Firecrawl ran out of credits used Tavily extract (Law 36/2024/QH15 Articles 34, 56, 57 and 59; Circular 12/2025/TT-BCA Article 24). No weekly, monthly, 50cc or E-Bike price added (docs/seo/price-reconciliation.md).",
+  "urls": [
+   "/articles/renting-motorbike-six-months-hanoi/",
+   "/articles/three-month-motorbike-rental-hanoi/",
+   "/articles/returning-a-rental-motorbike-hanoi/",
+   "/articles/expats-monthly-motorbike-hanoi/",
+   "/articles/renting-motorbike-year-hanoi/",
+   "/articles/rental-motorbike-inspection-checklist/",
+   "/articles/common-motorbike-rental-problems-hanoi/",
+   "/articles/what-is-included-motorbike-rental-hanoi/",
+   "/articles/motorbike-rental-english-teachers-hanoi/",
+   "/articles/motorbike-rental-international-students-hanoi/"
+  ],
+  "rank_work": false,
+  "counts": {
+   "articles": 10,
+   "wordsBefore": 3899,
+   "wordsAfter": 20636,
+   "wordsAdded": 16737,
+   "rankTrackedUrls": 0
+  }
  }
 ]

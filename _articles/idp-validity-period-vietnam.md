@@ -1,7 +1,7 @@
 ---
 title: "How Long Can You Ride on an IDP in Vietnam"
 slug: idp-validity-period-vietnam
-description: "Vietnam sets no separate time limit on a 1968 Convention IDP: the permit's own expiry and the national licence behind it govern (Article 57(8), Law 36/2024/QH15)."
+description: "An IDP counts in Vietnam for no more than three years from issue and only while the national licence behind it is valid (Article 57, Law 36/2024/QH15)."
 category: law-licences
 tags:
   - "idp"
@@ -15,7 +15,7 @@ search_intent: informational
 topic_cluster: law-licences
 subcluster: "11.2 foreigners"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 57(8) (IDP recognition)"
@@ -24,7 +24,7 @@ sources:
 internal_link_targets: "which-countries-idp-valid-vietnam, idp-vietnam-motorbike-rules, expat-motorbike-licence-vietnam, foreign-licence-exchange-vietnam, 1968-vienna-convention-idp-vietnam"
 ---
 
-The direct answer: Vietnam sets no separate clock on an IDP. Article 57(8) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) recognises 1968 Vienna Convention permits without attaching a Vietnamese validity period of its own — the permit's own expiry date and the validity of the national licence behind it do the limiting.
+The direct answer: an IDP counts in Vietnam for no more than three years from its issue date, and only while the national licence behind it is still valid. Article 57 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) defines the international driving permit it recognises that way, so the earlier of the two dates sets the limit.
 
 ## What actually expires
 
@@ -36,10 +36,10 @@ For a visitor inside the permit's validity, the rule is stable: carry both docum
 
 ## The resident case
 
-The exchange conditions of Circular 12/2025/TT-BCA — three months of residence papers and a valid national licence — mark where the IDP stops being the right answer. Nothing invalidates the permit on the day the residence record passes three months; what changes is that the cleaner, cheaper, checkpoint-proof option becomes available, and the licence issued by exchange never expires for motorbike classes.
+The exchange conditions of Circular 12/2025/TT-BCA — three months of residence papers and a valid national licence — mark where the IDP stops being the right answer. Nothing invalidates the permit on the day the residence record passes three months; what changes is that the cleaner, cheaper, checkpoint-proof option becomes available.
 
 ## What riders get wrong
 
-The common failure is the half-pair: the IDP carried while the national licence sits at the hotel, which triggers the document-carriage fine at any stop. The second is the category mismatch: an IDP cannot extend a car-only licence to a scooter. The expiry dates are the easy part — the document pairing is what checkpoints check.
+The common failure is the half-pair: the IDP carried while the national licence sits at the hotel, which leaves the rider without a valid licence at any stop, because the permit counts only together with the national licence. The second is the category mismatch: an IDP cannot extend a car-only licence to a scooter. The expiry dates are the easy part — the document pairing is what checkpoints check.
 
-*Information, not legal advice. Verified against Law 36/2024/QH15 and Circular 12/2025/TT-BCA on 2026-09-22.*
+*Information, not legal advice. Verified against Law 36/2024/QH15 and Circular 12/2025/TT-BCA on 2026-09-22; the IDP validity rule of Article 57 was re-read and corrected on 2026-10-25.*
