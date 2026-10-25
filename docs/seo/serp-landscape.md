@@ -1,6 +1,6 @@
 # SERP landscape (zero-data mode)
 
-Generated 2026-10-15 by `scripts/english-seo-matrix.js` from the live SERP snapshots, competitor discovery, backlink profiles and page-format observations recorded in `docs/seo/keyword-evidence.json` (every block names its tool and date). Nothing here is measured site traffic: the site has no Search Console or analytics data yet, so this document describes the public search landscape the site competes in.
+Generated 2026-10-25 by `scripts/english-seo-matrix.js` from the live SERP snapshots, competitor discovery, backlink profiles and page-format observations recorded in `docs/seo/keyword-evidence.json` (every block names its tool and date). Nothing here is measured site traffic: the site has no Search Console or analytics data yet, so this document describes the public search landscape the site competes in.
 
 ## Recorded SERPs (26)
 

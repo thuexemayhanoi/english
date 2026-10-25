@@ -12,7 +12,7 @@ Owner-approved scope extension (2026-10-25). Existing English articles whose Mar
 | REVIEW_REQUIRED | 0 |
 | Pending | 678 |
 | Batches published | 2 |
-| Words added by completed articles | 26975 |
+| Words added by completed articles | 26991 |
 | Slug / URL / canonical changes | 0 (gate: scripts/seo-package2.js) |
 
 | Group | Eligible | Done | REVIEW_REQUIRED | Pending |
@@ -57,8 +57,8 @@ None.
 | 1 | /articles/automatic-vs-manual-motorbike-hanoi/ | A | 349 | 2410 | p2-02 |
 | 2 | /articles/best-bike-for-hanoi-old-quarter/ | A | 378 | 2369 | p2-01 |
 | 3 | /articles/best-scooters-to-rent-hanoi/ | A | 302 | 2064 | p2-02 |
-| 4 | /articles/can-foreigners-rent-a-motorbike-hanoi/ | A | 378 | 1855 | p2-02 |
-| 7 | /articles/first-time-renting-a-motorbike-hanoi/ | A | 410 | 2292 | p2-02 |
+| 4 | /articles/can-foreigners-rent-a-motorbike-hanoi/ | A | 378 | 1875 | p2-02 |
+| 7 | /articles/first-time-renting-a-motorbike-hanoi/ | A | 410 | 2288 | p2-02 |
 | 8 | /articles/how-to-book-a-motorbike-rental-hanoi/ | A | 361 | 2156 | p2-02 |
 | 9 | /articles/how-to-rent-a-motorbike-hanoi/ | A | 498 | 1890 | p2-02 |
 | 10 | /articles/motorbike-delivery-long-bien/ | A | 403 | 2584 | p2-01 |

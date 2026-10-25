@@ -10,6 +10,8 @@ Generated 2026-10-25 by `scripts/english-seo-matrix.js` from the QA tool reports
 
 Ubersuggest project_position_info, Vietnam, desktop: 25 keywords tracked, 15 in the top 100 (top 3: 1, 4-10: 4, 11-20: 5, 21-100: 5; not ranking: 7, unstable: 3). These are measured positions of the best-ranking URL of this domain, not clicks, impressions or traffic; next tracker update 2026-10-21. Positions 4-20 are the quick-win band: the page already ranks, so title, description, lead and internal links are worth hand work (a URL worked on since the snapshot, optimization-log batch with rank_work, waits for the next snapshot). A different URL ranking than the declared owner is a cannibalisation signal: link the pair with natural anchor text, never move content.
 
+> The ranking URLs of this snapshot were stored without their host (ingest fixed 2026-10-25): a "/" row may be the home page of another domain, so treat those rows as UNKNOWN until the next snapshot.
+
 | Keyword | Position | Ranking URL | Declared owner | Match |
 |---|---|---|---|---|
 | monthly motorbike rental hanoi | 3 | /articles/daily-weekly-monthly-motorbike-rental-hanoi/ | /articles/monthly-motorbike-rental-hanoi/ | different URL |
@@ -28,15 +30,15 @@ Ubersuggest project_position_info, Vietnam, desktop: 25 keywords tracked, 15 in 
 | electric bike rental hanoi | 65 | / | /articles/can-foreigners-rent-electric-bike-vietnam/ | different URL |
 | motorbike rental hanoi price | 66 | /articles/motorbike-rental-budget-monthly-hanoi/ | /articles/motorbike-rental-price-hanoi/ | different URL |
 | best scooter to rent in vietnam | - | - | /articles/best-scooters-to-rent-hanoi/ | unstable (tool) |
-| hanoi motorbike rental | - | - | /topics/rental/ | not in the top 100 |
+| hanoi motorbike rental | - | - | / | not in the top 100 |
 | honda vision rental hanoi | - | - | /articles/honda-vision-110-review/ | not in the top 100 |
 | international driving permit vietnam motorbike | - | - | /articles/idp-vietnam-motorbike-rules/ | not in the top 100 |
-| motorbike hire hanoi | - | - | /topics/rental/ | unstable (tool) |
-| motorbike rental hanoi | - | - | /topics/rental/ | not in the top 100 |
+| motorbike hire hanoi | - | - | / | unstable (tool) |
+| motorbike rental hanoi | - | - | / | not in the top 100 |
 | motorbike rental vietnam | - | - | /topics/vietnam-travel/ | not in the top 100 |
 | one way motorbike rental vietnam | - | - | /articles/one-way-motorbike-rental-vietnam/ | not in the top 100 |
 | rent a scooter in hanoi | - | - | /articles/best-scooters-to-rent-hanoi/ | unstable (tool) |
-| rent motorbike hanoi | - | - | /topics/rental/ | not in the top 100 |
+| rent motorbike hanoi | - | - | / | not in the top 100 |
 
 AI answers (openai, 10 tracked prompts, 2026-10-15): brand "Hanoi Motorbike Rental Nguyen Tu" mentioned 0 time(s); a spelling variant of the business name ("Nguyen Tu Hanoi Motorbike Rental", average rank 2) was mentioned by the tool as a separate brand. Competitor mentions and per-prompt answers are in docs/seo/keyword-evidence.json (_tracking.ai_visibility_snapshots).
 
@@ -134,10 +136,13 @@ Most-cited domains across these answers (58 distinct domains; the top 15 are sho
 
 | Group | Keyword | Owner URL | Owner title | Title+description coverage | Owner priority |
 |---|---|---|---|---|---|
-| Core Keywords | Hanoi motorbike rental | /topics/rental/ | Hanoi Motorbike Rental | full | P3 |
-| Core Keywords | Motorbike rental Hanoi (variant of Hanoi motorbike rental) | /topics/rental/ | Hanoi Motorbike Rental | full | P3 |
-| Core Keywords | Motorcycle rental Hanoi (variant of Hanoi motorbike rental) | /topics/rental/ | Hanoi Motorbike Rental | full | P3 |
-| Core Keywords | Best motorbike rental Hanoi (variant of Hanoi motorbike rental) | /topics/rental/ | Hanoi Motorbike Rental | partial | P3 |
+| Core Keywords | Hanoi motorbike rental | / | Hanoi Motorbike Rental Nguyen Tu: Rates, Booking and Guides | full | P3 |
+| Core Keywords | Hanoi motorbike hire (variant of Hanoi motorbike rental) | / | Hanoi Motorbike Rental Nguyen Tu: Rates, Booking and Guides | partial | P3 |
+| Core Keywords | Motorbike rental in Hanoi (variant of Hanoi motorbike rental) | / | Hanoi Motorbike Rental Nguyen Tu: Rates, Booking and Guides | full | P3 |
+| Core Keywords | Rent motorbike Hanoi (variant of Hanoi motorbike rental) | / | Hanoi Motorbike Rental Nguyen Tu: Rates, Booking and Guides | full | P3 |
+| Core Keywords | Motorbike rental Hanoi (variant of Hanoi motorbike rental) | / | Hanoi Motorbike Rental Nguyen Tu: Rates, Booking and Guides | full | P3 |
+| Core Keywords | Motorcycle rental Hanoi (variant of Hanoi motorbike rental) | / | Hanoi Motorbike Rental Nguyen Tu: Rates, Booking and Guides | full | P3 |
+| Core Keywords | Best motorbike rental Hanoi (variant of Hanoi motorbike rental) | / | Hanoi Motorbike Rental Nguyen Tu: Rates, Booking and Guides | partial | P3 |
 | Core Keywords | Rent a motorbike in Hanoi | /articles/how-to-rent-a-motorbike-hanoi/ | How to Rent a Motorbike in Hanoi: A Step-by-Step Guide | full | P3 |
 | Core Keywords | Hanoi scooter rental | /articles/best-scooters-to-rent-hanoi/ | Best Scooters to Rent in Hanoi for Foreigners | full | P3 |
 | Core Keywords | Cheap motorbike rental Hanoi (variant of Hanoi motorbike rental prices) | /articles/motorbike-rental-price-hanoi/ | How Much Does It Cost to Rent a Motorbike in Hanoi? | partial | P3 |
@@ -173,7 +178,7 @@ Most-cited domains across these answers (58 distinct domains; the top 15 are sho
 | Zero-data discoveries (2026-10-14) | Motorbiking in Vietnam (variant of Motorbike Vietnam) | /topics/vietnam-travel/ | Vietnam Travel by Motorbike | partial | P3 |
 | Zero-data discoveries (2026-10-14) | Motorbike riding Vietnam (variant of Motorbike Vietnam) | /topics/vietnam-travel/ | Vietnam Travel by Motorbike | full | P3 |
 | Zero-data discoveries (2026-10-14) | Motorbike hire Vietnam (variant of Renting a motorbike in Vietnam) | /topics/vietnam-travel/ | Vietnam Travel by Motorbike | partial | P3 |
-| Zero-data discoveries (2026-10-14) | Motorbike hire Hanoi (variant of Hanoi motorbike rental) | /topics/rental/ | Hanoi Motorbike Rental | partial | P3 |
+| Zero-data discoveries (2026-10-14) | Motorbike hire Hanoi (variant of Hanoi motorbike rental) | / | Hanoi Motorbike Rental Nguyen Tu: Rates, Booking and Guides | partial | P3 |
 | Zero-data discoveries (2026-10-14) | Scooters in Vietnam | /topics/scooters/ | Scooters in Vietnam | full | P3 |
 | Zero-data discoveries (2026-10-14) | Vietnam scooters (variant of Scooters in Vietnam) | /topics/scooters/ | Scooters in Vietnam | full | P3 |
 | Zero-data discoveries (2026-10-14) | Vietnamese scooters (variant of Scooters in Vietnam) | /topics/scooters/ | Scooters in Vietnam | full | P3 |
@@ -285,7 +290,7 @@ Most-cited domains across these answers (58 distinct domains; the top 15 are sho
 | Do you need a license to rent a motorbike in Vietnam | Related search | can tourists rent a motorbike in vietnam | /topics/law-licences/ | keyword-targets owner (Motorbike licence Vietnam) | no |
 | Motorbike rental Vietnam Ho Chi Minh | Related search | can tourists rent a motorbike in vietnam | /topics/vietnam-travel/ | Common-questions entry: Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City? | no |
 | Renting a motorbike in Vietnam Reddit | Related search | can tourists rent a motorbike in vietnam | — | community-platform query, not a content gap | no |
-| Motorbike rental Hanoi | Related search | can tourists rent a motorbike in vietnam | /topics/rental/ | keyword-targets owner (Motorbike rental Hanoi) | no |
+| Motorbike rental Hanoi | Related search | can tourists rent a motorbike in vietnam | / | keyword-targets owner (Motorbike rental Hanoi) | no |
 | What are some new electric bike brands? | People also ask | electric bike rental hanoi | /articles/vietnam-electric-two-wheeler-market-overview/ | keyword-targets owner (What are some new electric bike brands) | no |
 | How much is bike rental in Hanoi? | People also ask | electric bike rental hanoi | /articles/best-motorbike-for-expats-hanoi/ | Common-questions entry: How much does a monthly motorbike rental cost for an expat in Hanoi? | no |
 | Can you rent to own an ebike? | People also ask | electric bike rental hanoi | — | no serving URL found | GAP |
@@ -411,7 +416,7 @@ Most-cited domains across these answers (58 distinct domains; the top 15 are sho
 | What is the most popular motorbike in Vietnam? | People also ask | motorbike rental vietnam | /topics/motorcycles/ | Common-questions entry: What is the most popular motorbike in Vietnam? | no |
 | How much to hire a motorbike in Vietnam? | People also ask | motorbike rental vietnam | /articles/best-motorbike-for-expats-hanoi/ | Common-questions entry: How much does a monthly motorbike rental cost for an expat in Hanoi? | no |
 | Motorbike rental Ho Chi Minh | Related search | motorbike rental vietnam | /topics/vietnam-travel/ | Common-questions entry: Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City? | no |
-| Motorbike rental Hanoi | Related search | motorbike rental vietnam | /topics/rental/ | keyword-targets owner (Motorbike rental Hanoi) | no |
+| Motorbike rental Hanoi | Related search | motorbike rental vietnam | / | keyword-targets owner (Motorbike rental Hanoi) | no |
 | Motorbike rental Ho Chi Minh price | Related search | motorbike rental vietnam | /topics/vietnam-travel/ | Common-questions entry: Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City? | no |
 | Motorbike rental Ho Chi Minh District 1 | Related search | motorbike rental vietnam | /topics/vietnam-travel/ | Common-questions entry: Can I rent a motorbike in Hanoi and drop it in Ho Chi Minh City? | no |
 | Vietnam motorbike rental one way | Related search | motorbike rental vietnam | /articles/one-way-motorbike-rental-vietnam/ | keyword-targets owner (One way motorbike rental Vietnam) | no |
@@ -442,7 +447,7 @@ Most-cited domains across these answers (58 distinct domains; the top 15 are sho
 | Can tourists rent a motorbike in Vietnam? | People also ask | riding a motorbike in hanoi | /articles/motorbike-rental-tourists-hanoi-essentials/ | Common-questions entry: How much does it cost to rent a motorbike in Hanoi as a tourist? | no |
 | Riding a motorbike in hanoi reddit | Related search | riding a motorbike in hanoi | — | community-platform query, not a content gap | no |
 | Motorcycle Vietnam tour | Related search | riding a motorbike in hanoi | /articles/long-distance-electric-motorbike-touring-vietnam/ | title/keyword match | no |
-| Best motorcycle rental hanoi | Related search | riding a motorbike in hanoi | /topics/rental/ | keyword-targets owner (Best motorbike rental Hanoi) | no |
+| Best motorcycle rental hanoi | Related search | riding a motorbike in hanoi | / | keyword-targets owner (Best motorbike rental Hanoi) | no |
 | Motorbike Vietnam price | Related search | riding a motorbike in hanoi | /articles/new-scooter-prices-vietnam-verified/ | keyword-targets owner (Motorbike Vietnam price) | no |
 | Can I ride a motorbike in Vietnam with a UK license | Related search | riding a motorbike in hanoi | /articles/what-is-a-50cc-motorbike-vietnam/ | Common-questions entry: Do I need a licence for a 50cc motorbike in Vietnam? | no |
 | Vietnam motorbike rental | Related search | riding a motorbike in hanoi | /topics/vietnam-travel/ | keyword-targets owner (Renting a motorbike in Vietnam) | no |
@@ -554,12 +559,12 @@ Compact view; the Internal Links and Evidence columns for these rows are in the 
 | /topics/monthly-rental/ | Long term motorbike rental Hanoi | thin (1/7) | 229 | n/a | OPTIMIZED 2026-10-14 - pillar intro + curated links; description now carries long-term intent |
 | /topics/motorcycles/ | Vietnamese motorbikes | adequate (3/7) | 273 | n/a | OPTIMIZED 2026-10-15 - Suzuki, SYM and Piaggio named from official Vietnamese sites; Suzuki line-up verified (batch matrix-queue-4) |
 | /topics/parts-gear/ | parts and riding gear | thin (1/7) | 179 | n/a | OPTIMIZED 2026-10-14 - pillar intro + curated start-here links |
-| /topics/rental/ | Hanoi motorbike rental | thin (2/7) | 297 | n/a | OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5) |
+| /topics/rental/ | hanoi rental guides | thin (2/7) | 323 | n/a | OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5) |
 | /topics/safety/ | Hanoi motorcycle routes and safety | thin (1/7) | 189 | n/a | OPTIMIZED 2026-10-14 - pillar intro + curated links; routes cross-linked to hanoi/trips hubs |
 | /topics/scooters/ | Scooters in Vietnam | thin (2/7) | 178 | n/a | OPTIMIZED 2026-10-14 - pillar intro + curated start-here links |
 | /topics/trips/ | Motorbike routes Vietnam | thin (1/7) | 202 | n/a | OPTIMIZED 2026-10-14 - pillar intro + curated links; rental-outside-Hanoi guide surfaced; description names northern Vietnam within 165 chars; owns "Motorbike routes Vietnam" (batch matrix-queue-1) |
 | /topics/vietnam-travel/ | Renting a motorbike in Vietnam | thin (1/7) | 196 | n/a | OPTIMIZED 2026-10-14 - pillar intro + curated links; description carries 'renting a motorbike in Vietnam' |
-| / | hanoi motorbike guide | n/a (utility page) | 161 | n/a | OPTIMIZED 2026-10-14 - WebSite + Organization JSON-LD with SearchAction; Open Graph/Twitter metadata site-wide |
+| / | Hanoi motorbike rental | n/a (utility page) | 459 | n/a | OPTIMIZED 2026-10-14 - WebSite + Organization JSON-LD with SearchAction; Open Graph/Twitter metadata site-wide |
 | /about/ | about nguyen tu motorbike guide | n/a (utility page) | 1714 | n/a | OPTIMIZED 2026-10-14 - breadcrumbs + BreadcrumbList added |
 | /articles/ | all motorbike guides | n/a (utility page) | 49 | n/a | AUDITED 2026-10-25 |
 | /articles/110cc-vs-125cc-scooters/ | 110cc vs 125cc scooter | strong (5/7) | 338 -> 338 | PENDING B#221 | OPTIMIZED 2026-10-14 - descriptive guide references resolved into contextual links, pass 2 (reviewed override map + same-cluster fallback; scripts/link-guide-references.js) |
@@ -677,7 +682,7 @@ Compact view; the Internal Links and Evidence columns for these rows are in the 
 | /articles/buying-used-electric-motorbike-vietnam/ | buying a used electric motorbike in vietnam | strong (5/7) | 291 -> 291 | out | OPTIMIZED 2026-10-14 - title rewritten to <=65 chars, primary keyword kept, near-duplicate pairs differentiated (can-tourists-rent-a-motorbike-hanoi kept free of the word licence so the Guide Assistant keeps answering the tourist-licence question from the licence paragraph) |
 | /articles/buying-used-sport-underbone-verified/ | buying used winner r exciter 155 | strong (5/7) | 417 -> 417 | PENDING C#537 | OPTIMIZED 2026-10-14 - descriptive guide references resolved into contextual links (scripts/link-guide-references.js); descriptive guide references resolved into contextual links, pass 2 (reviewed override map + same-cluster fallback; scripts/link-guide-references.js) |
 | /articles/camping-gear-motorbike-trips/ | motorbike camping gear packing | strong (5/7) | 343 -> 343 | PENDING C#589 | LINKS_REPAIRED 2026-10-14 - 4 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js) |
-| /articles/can-foreigners-rent-a-motorbike-hanoi/ | Hanoi motorbike rental for foreigners | strong (7/7) | 378 -> 1855 | DONE p2-02 | OPTIMIZED 2026-10-14 - batch 1: description tightened, contextual links to IDP/50cc/e-bike guides; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1) |
+| /articles/can-foreigners-rent-a-motorbike-hanoi/ | Hanoi motorbike rental for foreigners | strong (7/7) | 378 -> 1875 | DONE p2-02 | OPTIMIZED 2026-10-14 - batch 1: description tightened, contextual links to IDP/50cc/e-bike guides; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1) |
 | /articles/can-foreigners-rent-electric-bike-vietnam/ | Electric motorbike rental Hanoi | strong (5/7) | 304 -> 304 | PENDING B#375 | OPTIMIZED 2026-10-14 - batch 1: description tightened, honest note that VinFast models are not in the published fleet, links |
 | /articles/can-foreigners-ride-50cc-vietnam/ | can foreigners ride 50cc vietnam | strong (5/7) | 347 -> 347 | PENDING B#116 | OPTIMIZED 2026-10-15 - licence statement completed with the 50 km/h design-speed condition of Article 34(1)(g) (batch matrix-queue-4) |
 | /articles/can-tourists-rent-a-motorbike-hanoi/ | can tourists rent a motorbike in hanoi | strong (5/7) | 337 -> 337 | PENDING A#5 | OPTIMIZED 2026-10-15 - rank quick-win work: Common questions, links between the ranking page and its declared owner, description (batch matrix-queue-5) |
@@ -834,7 +839,7 @@ Compact view; the Internal Links and Evidence columns for these rows are in the 
 | /articles/first-hour-manual-clutch-practice-checklist/ | first hour manual clutch practice checklist | adequate (4/7) | 295 -> 295 | out | OPTIMIZED 2026-10-14 - descriptive guide references resolved into contextual links, pass 2 (reviewed override map + same-cluster fallback; scripts/link-guide-references.js) |
 | /articles/first-mountain-motorbike-trip-vietnam-comparison/ | your first mountain motorbike trip from hanoi | strong (6/7) | 630 -> 630 | out | OPTIMIZED 2026-10-14 - title rewritten to <=65 chars, primary keyword kept, near-duplicate pairs differentiated (can-tourists-rent-a-motorbike-hanoi kept free of the word licence so the Guide Assistant keeps answering the tourist-licence question from the licence paragraph); descriptive guide references resolved into contextual links (scripts/link-guide-references.js); last descriptive guide references resolved by hand with one reviewed target each (hub links where the reference names a topic, not an article); one anaphoric phrase reworded |
 | /articles/first-ride-electric-motorbike-beginners/ | first ride electric motorbike beginner | strong (6/7) | 433 -> 433 | PENDING B#410 | OPTIMIZED 2026-10-14 - descriptive guide references resolved into contextual links (scripts/link-guide-references.js); descriptive guide references resolved into contextual links, pass 2 (reviewed override map + same-cluster fallback; scripts/link-guide-references.js) |
-| /articles/first-time-renting-a-motorbike-hanoi/ | first time renting motorbike hanoi | strong (6/7) | 410 -> 2292 | DONE p2-02 | OPTIMIZED 2026-10-14 - in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1) |
+| /articles/first-time-renting-a-motorbike-hanoi/ | first time renting motorbike hanoi | strong (6/7) | 410 -> 2288 | DONE p2-02 | OPTIMIZED 2026-10-14 - in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1) |
 | /articles/flat-floor-scooters-explained/ | flat floor scooters explained | strong (5/7) | 292 -> 292 | out | OPTIMIZED 2026-10-14 - descriptive guide references resolved into contextual links (scripts/link-guide-references.js) |
 | /articles/flat-tyre-repair-motorbike-vietnam/ | flat tyre repair motorbike vietnam | strong (5/7) | 331 -> 331 | PENDING B#318 | LINKS_REPAIRED 2026-10-14 - 4 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js) |
 | /articles/flooded-streets-riding-motorbike-vietnam/ | riding motorbike flooded street | strong (5/7) | 345 -> 345 | PENDING B#182 | LINKS_REPAIRED 2026-10-14 - 3 bare slug reference(s) converted to contextual links (scripts/link-bare-slugs.js) |
