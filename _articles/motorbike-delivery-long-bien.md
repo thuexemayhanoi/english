@@ -49,19 +49,17 @@ A short, complete message saves several rounds of questions. The booking number 
 
 ### Documents
 
-The shop needs an identity document to write the contract, and the rider needs a licence that is valid for the bike. The details, including which licence and permit combinations work, are in [What Documents Do You Need to Rent a Motorbike in Hanoi?]({{ '/articles/documents-needed-rent-motorbike-hanoi/' | relative_url }}). Put the passport and the licence in one place before the day, rather than searching a suitcase while the bike waits outside.
-
-Nguyen Tu does not keep a customer's passport or identity documents as security; the deposit is the security. Do not hand over a passport as a substitute for a deposit, and do not accept the idea that you must.
+The shop needs an identity document to write the contract, and the rider needs a licence that is valid for the bike. The details, including which licence and permit combinations work, are in [What Documents Do You Need to Rent a Motorbike in Hanoi?]({{ '/articles/documents-needed-rent-motorbike-hanoi/' | relative_url }}). Put the passport and the licence in one place before the day, rather than searching a suitcase while the bike waits outside. The deposit is a separate matter, covered next.
 
 ### Deposit and payment
 
 The deposit is typically 2,000,000–5,000,000 VND depending on the vehicle and conditions. Ask for the exact figure for your bike when you book, and ask which payment form the shop expects at handover. The accepted forms are cash, bank transfer and QR payment; card payment is not on the approved list, so do not plan around it.
 
-If you intend to pay by bank transfer or QR, make sure your banking app works with your Vietnamese or foreign account before the handover day, not on the doorstep. If you intend to pay cash, count it beforehand. Ask for a receipt for the deposit; [Understanding a Motorbike Rental Agreement in Hanoi]({{ '/articles/motorbike-rental-agreement-hanoi/' | relative_url }}) explains why a written record matters.
+If you intend to pay by bank transfer or QR, check that your banking app works before the handover day, not on the doorstep. If you intend to pay cash, count it beforehand. Ask for a receipt for the deposit; [Understanding a Motorbike Rental Agreement in Hanoi]({{ '/articles/motorbike-rental-agreement-hanoi/' | relative_url }}) explains why a written record matters.
 
 ### Insurance and who receives the bike
 
-Nguyen Tu does not provide motorbike insurance; customers arrange their own. Settle that before the bike is at your door, using [Is Insurance Included with Motorbike Rentals in Hanoi?]({{ '/articles/is-insurance-included-motorbike-rental-hanoi/' | relative_url }}) as the starting point.
+Nguyen Tu does not provide motorbike insurance; customers arrange their own. Sort out your cover before the bike is at your door; [Is Insurance Included with Motorbike Rentals in Hanoi?]({{ '/articles/is-insurance-included-motorbike-rental-hanoi/' | relative_url }}) explains the position.
 
 Also decide who will be there. The person who will sign and ride should be present at the handover. If you cannot be, ask the shop in advance whether someone else may receive the bike on your behalf rather than assuming it is allowed. A hotel receptionist is not a substitute for the renter during an inspection.
 
@@ -78,7 +76,7 @@ The order below works at a hotel entrance, a guesthouse courtyard or a quiet ker
 3. **See the papers.** Ask to see the registration certificate with the bike, as the checklist advises.
 4. **Walk the checklist.** Lights, horn, brakes, mirrors, tyres, chain and plates, then roll the bike a few metres and test both brakes at low speed before you rely on them.
 5. **Photograph everything.** Every panel on both sides, the exhaust, existing scratches and the fuel gauge. Send the photos to the shop's chat so there is a timestamp on both phones.
-6. **Note the fuel level** and agree the level for the return; the [fuel policy guide]({{ '/articles/motorbike-rental-fuel-policy-hanoi/' | relative_url }}) explains the two common conventions.
+6. **Note the fuel level** and agree the level for the return, so nobody has to argue about the tank at the counter.
 7. **Sign last.** Only after the previous steps, sign and pay the deposit in the form you agreed, and keep the receipt.
 
 ### What to agree in writing
@@ -96,15 +94,15 @@ A message in the booking chat counts as a written record. Before the deliverer l
 
 Because no delivery time is guaranteed, treat any time you are given as a window, not an appointment. Do not tie a handover to a flight, a checkout or a booked tour that cannot move. Ask for a time range, and send a short message that morning to confirm it is still on.
 
-Delivery cannot take place outside 09:00–21:00, so a bike for a very early start the next morning has to be collected the evening before or picked up after opening. The same window applies to the return: a return planned for after closing has to be agreed in advance and not improvised at 22:00.
+Delivery is not offered outside 09:00–21:00, so a very early start the next morning cannot rely on a delivery. Ask the shop what it can arrange inside opening hours. The same window applies to the return: a return planned for after closing has to be agreed in advance and not improvised at 22:00.
 
-If you are arriving in Hanoi first, [Renting a Motorbike When You Arrive at Noi Bai Airport]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) covers how the handover works after landing. If your hotel is in the Old Quarter, [Motorbike Delivery to the Hanoi Old Quarter]({{ '/articles/motorbike-delivery-old-quarter/' | relative_url }}) covers the narrow-lane realities of that district; this page is about the other end of the same relationship, the shop's own district.
+If you are arriving in Hanoi first, [Renting a Motorbike When You Arrive at Noi Bai Airport]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) covers how the handover works after landing.
 
-Where you will leave the bike overnight is part of the plan too. Ask your accommodation about motorbike parking before the bike arrives; [Motorbike Parking at Hanoi Hotels]({{ '/articles/hotel-parking-motorbike-hanoi/' | relative_url }}) lists the questions worth asking.
+Where you will leave the bike overnight is part of the plan too, so ask your accommodation about motorbike parking before the bike arrives.
 
 ## Crossing the Red River: how Long Bien connects to the city
 
-Long Bien lies across the Red River from the central districts. Anything you arrange between the shop and an address in, say, Hoan Kiem therefore involves a bridge, and the bridge you use can change the time a trip takes. The district's riding character is covered in [Renting a Motorbike in Long Bien: What to Know]({{ '/articles/renting-motorbike-long-bien/' | relative_url }}) and [Long Bien for Motorbike Riders]({{ '/articles/long-bien-area-guide-riders/' | relative_url }}).
+Long Bien lies across the Red River from the central districts. Anything you arrange between the shop and an address in, say, Hoan Kiem therefore involves a bridge, and the bridge you use can change the time a trip takes. The district's riding character is covered in [Renting a Motorbike in Long Bien: What to Know]({{ '/articles/renting-motorbike-long-bien/' | relative_url }}).
 
 The 2026 repair closure of the Long Bien Bridge shows why a buffer is sensible. Hanoi's Department of Construction announced that all vehicles would be banned in both directions from 09:00 on 28 March until the end of 27 May 2026, for emergency repairs to the pedestrian walkway and the motorbike and non-motorised lanes. Motorcycles and bicycles that needed to cross the Red River were diverted to the Chuong Duong Bridge.
 
@@ -112,7 +110,7 @@ The bridge then reopened. Local news reported two-way traffic for motorcycles, b
 
 What this means for a rental:
 
-- Check the current situation before a time-critical crossing, such as a return on your departure day. A closure notice is public, and a detour via Chuong Duong adds distance you did not plan for.
+- Check the current situation before a time-critical crossing, such as a return on your departure day. A closure can be announced at short notice, as the 2026 one was, and a diversion may change your route.
 - Do not rely on one bridge for your timing. Know the alternative before you set out.
 - Plan the crossing itself with care; wind, merging and ramps are covered in [Crossing Hanoi's Bridges on a Motorbike]({{ '/articles/crossing-hanoi-bridges-motorbike/' | relative_url }}).
 
@@ -122,18 +120,17 @@ The return follows the arrangement agreed at handover: at the shop during openin
 
 ### Before you ride back
 
-- Match the fuel level you agreed at handover.
-- Bring the key, the contract and your handover photos, as the walk-around compares the bike with its condition at the start. [How Returning a Rental Motorbike in Hanoi Works]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }}) describes the steps in order.
+- Bring the key, the contract and your handover photos, with the agreed fuel level in the tank, as the walk-around compares the bike with its condition at the start. [How Returning a Rental Motorbike in Hanoi Works]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }}) describes the steps in order.
 - Allow for the river crossing and for the approach to Nguyen Van Cu, which the district guide describes as a broad artery with trucks and higher speeds than the Old Quarter.
-- If you will be riding near 21:00, remember that the shop closes then and that [riding at night in Vietnam]({{ '/articles/night-riding-motorbike-safety-vietnam/' | relative_url }}) asks for more caution than the same road at noon.
+- If you will be riding near 21:00, remember that the shop closes then, and that the same road is harder to read after dark than at noon.
 
 ### The cost of being late
 
 The published terms are 20,000 VND per hour late, and more than six hours late the shop may charge a full additional rental day, typically 150,000–200,000 VND depending on the motorcycle.
 
-Imagine a renter whose agreed return is 12:00 and who reaches the shop at 14:00. At the published hourly rate that is two hours at 20,000 VND, or 40,000 VND, if the shop counts whole hours; ask how part-hours are counted before you rely on that figure. A planned delay is cheaper than a surprise, and the late-return guide explains why messaging ahead works better than arriving late.
+Imagine a renter whose agreed return is 12:00 and who reaches the shop at 14:00. At the published hourly rate that is two hours at 20,000 VND each, assuming the shop counts whole hours; ask how part-hours are counted before you rely on that. A planned delay is cheaper than a surprise, and the late-return guide explains why messaging ahead works better than arriving late.
 
-Handing a bike back early does not create an automatic refund for the unused time, so decide the return date with that in mind. [The early-return guide]({{ '/articles/early-return-rental-motorbike-hanoi/' | relative_url }}) covers it, and [How Deposit Returns Work at Hanoi Motorbike Rentals]({{ '/articles/how-deposit-returns-work-hanoi/' | relative_url }}) describes what the walk-around compares.
+Handing a bike back early does not create an automatic refund for the unused time, so decide the return date with that in mind.
 
 ## When pickup beats delivery
 
@@ -145,7 +142,7 @@ The table sets out the choice by situation. It describes what each route involve
 |---|---|---|
 | Staying in Long Bien | Usually the natural choice; the shop is in the district | Possible to ask, but you are close to the shop already |
 | Want to compare bikes | You can see them side by side | Only the bike that arrives |
-| Plans may change | Easy to discuss a switch in person | A switch means another arrangement |
+| Plans may change | You can raise a switch with the shop in person | Raise it in the chat before the day |
 | Tight schedule, far from the shop | A ride across the river first | May suit you; agree timing and conditions in advance |
 | First time riding in Vietnam | The shop is still in sight for your first minutes | Your first ride starts where you stand |
 | Handover location | The shop's forecourt | Needs a safe, lit spot you choose |
@@ -160,7 +157,7 @@ Neither route changes the money terms or the inspection. Both depend on availabi
 | Accepting the first spot offered | A kerb in traffic makes a rushed inspection | Choose a quiet, lit, level place |
 | Treating a delivery slot as a promise | No delivery time is guaranteed | Keep slack and confirm on the day |
 | Leaving a returned bike unattended | The bike stays on your deposit until the shop has it in hand | Hand it over in person inside opening hours |
-| Assuming a bridge is open | Closures have happened and can be announced again | Check news before a time-critical crossing |
+| Assuming a bridge is open | The Long Bien Bridge was closed to all vehicles for about two months in 2026 | Check news before a time-critical crossing |
 | Assuming insurance is included | The shop provides none | Arrange your own cover first |
 
 ## Common questions
@@ -169,13 +166,13 @@ Neither route changes the money terms or the inspection. Both depend on availabi
 
 Delivery and pickup in Hanoi may be available depending on location and arrangement. For addresses in Long Bien, where the shop is, most renters simply pick up at 112 Nguyen Van Cu Street. Ask when you book and confirm availability for your dates.
 
-### Is delivery free, or is there a standard fee?
+### Is there a standard delivery fee?
 
-There is no free-delivery promise and no fixed delivery fee. Anything the arrangement involves is agreed case by case, so ask for it in the booking chat before the day.
+No fixed delivery fee is published, and delivery is not promised as a free service. Anything the arrangement involves is agreed case by case, so ask for it in the booking chat before the day.
 
 ### Can the bike be delivered late in the evening or very early?
 
-No. Arrangements stay within the shop's opening hours of 09:00–21:00 daily. For an early start, ask about a pickup after opening or a handover the evening before.
+No. Delivery and pickup arrangements stay within the shop's opening hours of 09:00–21:00 daily. For an early start, ask the shop what it can arrange inside those hours.
 
 ### What do I need to have ready at handover?
 
@@ -185,6 +182,6 @@ Your passport for the contract, a licence valid for the bike, the deposit in cas
 
 Say so before signing. Compare it with your booking messages, and ask the shop what it can offer for your dates. After you have signed, the handover photos are the record.
 
-### Do I get my deposit back if I return the bike by arrangement elsewhere?
+### Can a friend or my hotel receive the bike for me?
 
-The deposit settlement follows the return and the walk-around against your handover photos. Agree where the return happens and when, and check the late-return rules, which apply from the agreed return moment.
+There is no published rule, so ask the shop before the day. The person who signs and rides should normally be present for the inspection, because the signature records the condition of the bike at handover.
