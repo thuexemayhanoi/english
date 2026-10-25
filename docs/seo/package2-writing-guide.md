@@ -94,3 +94,14 @@ The failures were avoidable. Before returning a draft, check yours against this 
 - **Scope.** Keep to the intent of the URL; link to the sibling that owns another intent instead of re-explaining it. Do not exceed about 2,400 words.
 - **Tell the owner what you found.** If you notice that another article contradicts a source (for example advice that conflicts with a Zone 1 rule, or an insurance statement that conflicts with OWNER-FACTS), list it in the summary; do not edit that file.
 
+
+## 9. Lessons from batch 2 (five of ten first drafts failed on a MAJOR finding)
+
+- **Legal figures move.** Law 36/2024/QH15 Article 33(1)(c) allows a child under 12 (not 14, which was the old law) as a second passenger, with no adult condition. Decree 238/2026/NĐ-CP amends Decree 168/2024/NĐ-CP from 15 August 2026: do not restate a fine amount unless the amended text was read this session; link the fine guide instead. Article 57 lists four kinds of valid licence (Vietnamese; IDP and national licence from a 1968 Vienna member; two treaty routes). Copying a figure from a VERIFIED guide is allowed only when that guide cites a primary source that says the same thing.
+- **Accident duties** apply to a road accident (injury, damage or a collision with another person or vehicle), not to every tip-over.
+- **Zone 1:** the 2026 pilot bars road vehicles from the listed Zone 1 streets 19:00-24:00 on each Friday, Saturday and Sunday (VietnamPlus, Government Portal); never write a continuous Friday-to-Sunday closure, and never imply weekend daytime access without a source.
+- **Deposit and handover policies:** no "deposit back on the spot", "in cash", "returned in full", "the shop checks licences", "helmets included", "the shop holds compulsory insurance" or "a shop can decline a rental" unless OWNER-FACTS says it. Write what to ask.
+- **Original-sentence retention is measured** (the lint errors below 60%). Correct an original sentence only when it is wrong or unsourced, and prefer adding a corrective sentence after it to rewriting it; when you must remove one, check that the article stays above 60%. Never restore a removed unverified sentence just to pass the lint: restore a correct one or rephrase with the original wording kept.
+- **Frequencies and superlatives** ("every day", "most visitors", "the usual way", "takes minutes", "the worst place") need a source; otherwise drop them.
+- **Links:** 6-14 contextual links; keep every original link; never repeat an exact anchor; do not link one target more than twice. Related-card slugs: at most 4 new ones.
+- **Repetition across siblings:** the batch-2 articles now own the booking channel (how-to-book), the step-by-step rental (how-to-rent), pickup versus delivery, first-time riding, licences for foreigners (can-foreigners) and the Hoan Kiem/Old Quarter Zone 1 detail; link to them instead of restating them.
