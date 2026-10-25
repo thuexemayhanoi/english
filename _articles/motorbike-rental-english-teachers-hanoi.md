@@ -96,6 +96,7 @@ The shop is open 09:00–21:00 daily. If a split timetable or a late finish leav
 Evening classes can mean riding home after dark. From 18:00 to 06:00, and whenever fog, smoke, dust, rain or other bad weather cuts visibility, a motorbike's lights must be on, as [the motorbike light rules guide]({{ '/articles/motorbike-night-lights-vietnam/' | relative_url }}) explains. Check the headlight at handover and keep the visor clean.
 
 Hanoi's rain tends to arrive in short heavy bursts between May and October, and [the rain-riding guide]({{ '/articles/riding-rental-motorbike-hanoi-rain/' | relative_url }}) covers the slippery first minutes of a shower, flooded sections and braking. If rain stops you on the way to a class, a late arrival costs less than a slip: message the centre and wait under cover.
+
 ## Monthly rental is the standard
 
 A daily rate multiplied across a teaching month makes no sense; monthly rental does. Published monthly rates at Nguyen Tu (for example Honda Click and Yamaha Mio at 1,000,000–1,200,000 VND, Honda Vision at 1,800,000–2,000,000 VND) cover the models where monthly prices are published — see [Daily, Weekly or Monthly Motorbike Rental in Hanoi: How to Choose]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}) for the full table. Where no monthly rate is published for a model, contact the shop to discuss longer-term arrangements.
@@ -163,8 +164,8 @@ It is legal without a licence for a rider aged 16 or over, but a capped design s
 
 ## The short version
 
-Monthly rental, automatic scooter, a shop whose routine maintenance you have asked about, a licence plan, and rain gear: the five-item setup that carries a teaching term. Nguyen Tu's maintenance may include the routine items above, not every repair.
+Monthly rental, automatic scooter, a shop whose routine maintenance you have asked about, a licence plan, and rain gear: the five-item setup that carries a teaching term. Nguyen Tu's maintenance may include the routine items above; ask who pays for a repair.
 
 To confirm current availability of the model you want and to discuss a monthly or longer-term arrangement, use the [shop's contact page]({{ '/contact/' | relative_url }}) or message the shop on WhatsApp, Zalo or +84 942 467 674.
 
-*Information, not legal advice. Licence statements checked on 2026-10-25 against Law 36/2024/QH15 (Article 57) and Circular 12/2025/TT-BCA (Article 24). This page states no fine amounts: confirm any figure against the current text.*
+*Information, not legal advice. Licence statements checked on 2026-10-25 against Law 36/2024/QH15 (Articles 34(1)(g), 57 and 59(1)(a)) and Circular 12/2025/TT-BCA (Article 24). This page states no fine amounts: confirm any figure against the current text.*
