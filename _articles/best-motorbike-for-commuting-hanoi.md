@@ -77,7 +77,7 @@ If a bike has no usable bay, the bag rides on a hook or a rack, and that changes
 
 ### Seat height and weight
 
-At a junction, in a queue or in a parking row you hold the bike up and put your feet down, so reach and weight are felt on every stop of the commute. The only seat height quoted here for a bike on the list is the Wave Alpha 110 at 770 mm. For context, the Honda and Yamaha scooters with a seat height in the cited manufacturer figures run from 750 mm (Yamaha Gear 125 Hybrid) to 799 mm (Honda SH160i), a spread of under 5 cm. A seat figure can narrow a shortlist but cannot replace sitting on the bike: put both feet down and stand up from the seat as you would at a red light.
+At a junction, in a queue or in a parking row you hold the bike up and put your feet down, so reach and weight are felt on every stop of the commute. The only seat height quoted here for a bike on the list is the Wave Alpha 110 at 770 mm. For context, the Honda and Yamaha scooters with a seat height in the manufacturer data recorded for this guide run from 750 mm (Yamaha Gear 125 Hybrid) to 799 mm (Honda SH160i), a spread of under 5 cm. A seat figure can narrow a shortlist but cannot replace sitting on the bike: put both feet down and stand up from the seat as you would at a red light.
 
 Weight varies more than seat height. On the list, published weights run from 96 kg for the Wave Alpha 110 to 110 kg for the Air Blade 125, and the Vision, at 97 kg, is 13 kg lighter than the Air Blade. A smaller or lighter rider will notice that gap when steadying the bike on wet paint or pushing it out of a parking row. A taller rider has the opposite problem, and [the tall-rider guide]({{ '/articles/best-motorbikes-for-tall-riders-vietnam/' | relative_url }}) covers fit.
 
@@ -93,7 +93,7 @@ The commute does not move when the weather does, so check what the bike gives yo
 
 ## Renting the commute, monthly
 
-A commuter should rent monthly, not daily - the published monthly rates beat daily rental within about two weeks of commuting. Ask the shop how the deposit applies over a month. Longer-term rental beyond a month is negotiable - contact us to discuss it.
+A commuter should rent monthly, not daily - the published monthly rates beat daily rental within about two weeks of commuting. Longer-term rental beyond a month is negotiable - contact us to discuss it.
 
 The terms of a month-long rental are set out in [the monthly rental guide]({{ '/articles/monthly-motorbike-rental-hanoi/' | relative_url }}). A commuter who expects to ride the same route for a long time should also weigh [renting against buying]({{ '/articles/renting-vs-buying-a-motorbike-hanoi/' | relative_url }}) before committing.
 
