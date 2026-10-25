@@ -90,6 +90,7 @@ Nguyen Tu does not provide motorbike insurance; renters arrange their own. If yo
 - Does it cover damage to the rental bike or to other people's property?
 
 A policy may exclude riding without a valid licence, so the licence question and the insurance question are one problem, not two.
+
 ## Campus and dormitory parking: questions to ask
 
 Rental rates do not answer where the bike sleeps. Campuses, dormitories and rented rooms each set their own arrangements, so ask the place rather than the shop, and ask before the bike arrives. These are the questions to settle for your campus, dormitory or room:
@@ -120,6 +121,7 @@ A term ends on a date set outside the rental: the university calendar, an exam t
 A semester can sit between two rows: check your university calendar, use the nearer page, and give the shop your real dates. Imagine a student whose last exam falls on a Friday and whose flight leaves on Saturday morning. Work backwards from the flight: agree the return time, ask when the deposit is settled, and remember that the shop's opening hours are 09:00–21:00 daily.
 
 If plans change instead, through a transfer, a withdrawal or an early flight, there is no automatic refund entitlement for unused time, so ask at the start how an early return is handled.
+
 ## Riding habits worth keeping
 
 Campus-to-city traffic is where new riders in Hanoi build habits, good or bad. The honest advice: ride like you cannot afford to crash, because as a student you cannot. Calm speeds, no phone in hand, no riding on sidewalks, lights after dark — the violations that carry fines are all avoidable, and [Motorbike Fines in Vietnam: Current Overview (Decree 168/2024)]({{ '/articles/motorbike-fines-vietnam-overview/' | relative_url }}) lists them.
