@@ -21,13 +21,13 @@ sources:
 internal_link_targets: "how-to-rent-a-motorbike-hanoi, motorbike-rental-deposit-hanoi, how-deposit-returns-work-hanoi, motorbike-rental-fuel-policy-hanoi, motorbike-required-equipment-vietnam, returning-a-rental-motorbike-hanoi, manual-motorbike-rental-checklist-hanoi"
 ---
 
-The inspection you do at handover is the evidence that decides any deposit disagreement later. Walk through this list every time - none of it needs tools or mechanical skill. This rental motorbike inspection checklist runs in one order: photographs first, then lights, brakes, controls, tyres and chain, fuel, plates and papers, and a clear rule for when to ask for a different bike.
+The inspection you do at handover is the evidence that decides any deposit disagreement later. Walk through this list every time - none of it needs tools or mechanical skill. This rental motorbike inspection checklist runs in one order: whole-bike photographs first (see Body and photos), then lights, brakes, controls, tyres and chain, fuel, plates and papers, and a clear rule for when to ask for a different bike.
 
 ## Before you pick up the keys
 
 Do the walk-round before you pay and before you sign, with whoever hands over the bike still there. The shop's published hours run from 09:00 to 21:00, so a handover late in the day may be after dark: ask for a well-lit spot, and keep your phone torch for the tyres and the underside. The [step-by-step rental guide]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}) puts this inspection at step five of six.
 
-Have three things ready: a charged phone with room for photographs and a short video; the licence you will ride on, with your permit if you ride on a foreign licence; and your questions about the fuel level to return with, who pays if a tyre is punctured and whether a helmet comes with the bike. A queue, a waiting friend or a flight to catch is no reason to shorten the checks.
+Have three things ready: a charged phone with room for photographs and a short video; the licence you will ride on, with your permit if you ride on a foreign licence; and your questions about the fuel level to return with and who pays if a tyre is punctured. A queue, a waiting friend or a flight to catch is no reason to shorten the checks.
 
 Take the whole-bike photographs first, before you touch anything, so they show the bike as it was handed over. Then work round the bike in one direction, starting at the back, and use the same path at the return so that your checks and your photographs line up.
 
@@ -37,6 +37,7 @@ Take the whole-bike photographs first, before you touch anything, so they show t
 - Brake light - check with both levers.
 - Turn signals front and rear.
 - Horn - in Hanoi traffic the horn is communication, not aggression.
+- Number plate light - it is on the list of required equipment below, so check that it works too.
 
 Start the engine before you test any of them. It should start without coaxing and idle without cutting out, and a warning symbol on the dashboard that stays lit is a question for the shop before you leave.
 
@@ -48,7 +49,7 @@ The law expects a motorbike to have working brakes, a headlight, a brake light, 
 
 Front and rear, both tested rolling the bike. The front brake should bite without pulling the lever to the bar; the rear should lock under firm pressure. Test them again at low speed before you join traffic.
 
-To test while rolling the bike, push it forward on level ground and squeeze one brake at a time: the wheel should stop turning and the bike should stay put. Feel for a lever or pedal that is spongy, travels almost to the grip or does not spring back, and listen for grinding. For the low-speed test, choose a clear stretch away from traffic and brake gently first, then firmer: the bike should stop in a straight line, without pulling to one side.
+To test while rolling the bike, push it forward on level ground and squeeze one brake at a time: the wheel should stop turning and the bike should stay put. Feel for a lever or pedal that is spongy, travels almost to the grip or does not spring back, and listen for grinding. For the low-speed test, if the shop agrees, choose a clear stretch away from traffic and brake gently first, then firmer: the bike should stop in a straight line, without pulling to one side.
 
 ## Steering and controls
 
@@ -72,14 +73,14 @@ Chain on manual and semi-automatic bikes: not rusted stiff, and neither hanging 
 ## Fuel, plates and papers
 
 - Note the fuel level and agree the return level - the [fuel-policy article]({{ '/articles/motorbike-rental-fuel-policy-hanoi/' | relative_url }}) explains the two conventions.
-- Number plates fitted and clean - riding without plates is a serious violation. Compare the characters with the registration certificate: they should be readable and match. The [number plates guide]({{ '/articles/riding-without-number-plates-vietnam/' | relative_url }}) sets out the offence.
-- Registration certificate with the bike: ask to see it, or a copy of it, before you ride.
+- Number plate fitted and clean - riding without plates is a serious violation. Compare the characters with the registration certificate: they should be readable and match. The [number plates guide]({{ '/articles/riding-without-number-plates-vietnam/' | relative_url }}) sets out the offence.
+- Registration certificate with the bike: ask to see it, or a certified copy, before you ride.
 
 Nguyen Tu does not provide motorbike insurance, so do not expect an insurance certificate to come with the bike: customers arrange their own cover before they ride. The [documents guide]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) sets out the papers the law expects a rider to carry.
 
 ### Keys, helmet and extras
 
-Count the keys you are given and note the number in the chat, along with anything else handed over, such as a lock; the list at the return should match it.
+Count the keys you are given and note the number in the chat, along with anything else handed over, such as a lock, if one is supplied; the list at the return should match it.
 
 Vietnamese law requires riders and passengers to wear a helmet, and the [helmet law guide]({{ '/articles/helmet-law-vietnam/' | relative_url }}) sets out the rule. Ask whether a helmet comes with the bike, and whether one is available for a passenger; do not assume either. If one is provided, check the shell for cracks, that the strap fastens and holds, and that it fits snugly without pressing.
 
@@ -99,7 +100,7 @@ Walk the bike with your phone camera out. Photograph every panel, both sides, th
 
 Shoot in daylight or a lit area, and keep the original files on your phone, unedited. Then film one slow video walk-round along the same path, starting and ending at the plate, with the engine running and the lights, indicators and horn operated. Say the date and the plate number aloud at the start.
 
-Send the photographs and the video to the chat you booked in (WhatsApp or Zalo on +84 942 467 674), or start one if you walked in; [how to book by WhatsApp, Zalo or walk-in]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) explains the options. A message carries the time it was sent on both phones.
+Send the video to the shop together with the photographs, on WhatsApp or Zalo at +84 942 467 674; [how to book by WhatsApp, Zalo or walk-in]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) explains the options.
 
 Point out each existing mark to whoever hands over the bike and ask for it to be noted.
 

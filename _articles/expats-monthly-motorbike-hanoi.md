@@ -35,11 +35,11 @@ Riding legally in Vietnam requires the right licence for the bike you ride — f
 
 The rental agreement does not make you legal to ride; your licence does, and Article 57 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) recognises a Vietnamese licence, an International Driving Permit carried with a national licence (both issued by a 1968 Vienna Convention state, the licence being appropriate to the vehicle) and licences from countries that have a recognition treaty or agreement with Vietnam, a route to confirm from an official source before you rely on it.
 
-Article 57(8) limits the permit to no more than three years from its issue date, says it has to be consistent with the remaining validity of the national licence, and requires its holder to carry both documents, in date and appropriate to the class of vehicle. A monthly term can outlast either date, so compare both with the end of the term you want, using [the IDP validity guide]({{ '/articles/idp-validity-period-vietnam/' | relative_url }}) and [the 1968 Vienna Convention guide]({{ '/articles/1968-vienna-convention-idp-vietnam/' | relative_url }}) to check yours.
+Article 57(8) limits the permit to no more than three years from its issue date, says it has to be consistent with the remaining validity of the national licence, and requires its holder to carry both documents, in date and appropriate to the class of vehicle. A monthly term can outlast either date, so compare both with the end of the term you want, using [the IDP validity guide]({{ '/articles/idp-validity-period-vietnam/' | relative_url }}) to check yours.
 
 ### Exchanging for a Vietnamese licence
 
-Residents have a second route: under Article 24(1)(a) of Circular 12/2025/TT-BCA, a foreigner who lives, works or studies in Vietnam and holds a national driving licence that is still valid, together with one of a diplomatic or service identity card, or a temporary or permanent residence card, with a period of three months or more, can be considered for exchange to the matching Vietnamese class. The Circular excludes an International Driving Permit and a foreign licence that is expired, altered, or so damaged that it no longer shows enough information.
+Residents have a second route: under Article 24(1)(a) of Circular 12/2025/TT-BCA, a foreigner who lives, works or studies in Vietnam and holds a national driving licence that is still valid, together with one of a diplomatic or service identity card, or a temporary or permanent residence card, with a period of three months or more, can be considered for exchange to the matching Vietnamese class. Among others, the Circular excludes an International Driving Permit and a foreign licence that is expired, altered, or so damaged that it no longer shows enough information.
 
 [How Foreigners Exchange a Licence for a Vietnamese One]({{ '/articles/foreign-licence-exchange-vietnam/' | relative_url }}) walks through the process and [the long-term expat licence guide]({{ '/articles/expat-motorbike-licence-vietnam/' | relative_url }}) covers the choice between an IDP and an exchange, so if your stay will outlast the date on your IDP, decide early, because an exchange needs a national licence that is still valid.
 
@@ -53,9 +53,9 @@ Current figures for each model are in [Motorbike Rental Monthly Prices in Hanoi]
 
 Nguyen Tu's rental periods are daily, weekly and monthly, and longer-term rental is negotiable with the customer. No longer-term rate is published, so ask what rate and conditions would apply instead of assuming that a longer commitment costs less.
 
-For an expat the useful question is which date limits your stay. A probation period or a lease not yet signed argues for renewing month by month; a contract, lease or course with a known end date is the moment to ask about a longer agreement that runs to that date. The comparisons between month-to-month renewal and longer terms sit in [the monthly rental topic page]({{ '/topics/monthly-rental/' | relative_url }}), so this page sticks to your own dates.
+For an expat the useful question is which date limits your stay. A probation period or a lease not yet signed argues for renewing month by month; a contract, lease or course with a known end date is the moment to ask about a longer agreement that runs to that date. The [the monthly rental topic page]({{ '/topics/monthly-rental/' | relative_url }}) lists the guides for three months, six months or longer and a full year, so this page sticks to your own dates.
 
-Put those dates side by side before you agree a term: the end of your probation or contract, the start and end of your lease, the period shown on your residence card, and the dates on your IDP and national licence. A rental that outlasts your lease leaves the bike without a place to sleep, and one that outlasts your licence documents leaves you with a bike you may not ride.
+Put those dates side by side before you agree a term: the end of your probation or contract, the start and end of your lease, the period shown on your residence card, and the dates on your IDP and national licence. A rental that outlasts your lease can leave the bike without a place to sleep.
 
 Two more questions belong here. If a partner or colleague may want to ride too, ask whether the agreement limits who may ride; anyone who does ride needs a valid licence of the right class. And if you expect to ride beyond Hanoi, say so before you rent or renew: support is primarily for Hanoi and local use, so ask what happens if the bike needs attention away from the city.
 
@@ -67,7 +67,7 @@ Renewal timing matters as much as the structure. Agree an extension before the t
 
 The standard monthly requirements apply: deposit, documents, agreement terms. [Monthly Motorbike Rental Requirements in Hanoi]({{ '/articles/monthly-motorbike-rental-requirements-hanoi/' | relative_url }}) lists them. As an expat you have one extra question: what happens if your visa status changes mid-term? Keep the agreement and the shop's contact details somewhere you can find them months later.
 
-The visa question has a simple core. Your right to ride comes from your licence documents, not from the rental agreement, so if your licence or IDP lapses you cannot ride until you hold a valid document again, and you should ask the shop what happens to the agreement if a document lapses. Your visa matters in a different way: the exchange route above needs a residence card with a period of three months or more, so keep those dates in view too. Tell the shop as soon as you know of any change, because it can affect your end date or your plan to extend.
+The visa question has a simple core. Your right to ride comes from your licence documents, not from the rental agreement, so if your licence or IDP lapses you cannot ride until you hold a valid document again, and you should ask the shop what happens to the agreement if a document lapses. Your residence documents matter in a different way: the exchange route above needs a card with a period of three months or more, so keep those dates in view too. Tell the shop as soon as you know of any change, because it can affect your end date or your plan to extend.
 
 ### Handover and collection
 
@@ -101,7 +101,7 @@ Check the policy you already hold before buying another. Some expat health and t
 
 ### Checks for a bike that sleeps outdoors
 
-A bike parked outdoors or in a shared apartment lot is exposed to knocks and weather, so look over the tyres, chain, brakes and lights before your first ride of the week; [the monthly inspection schedule]({{ '/articles/monthly-rental-inspection-schedule-hanoi/' | relative_url }}) gives the full weekly and monthly check. Nguyen Tu's guidance is a periodic check at around 1,500 km or more of use; it is practical guidance, not a manufacturer interval. If something needs fixing, message the shop before you pay anyone else for more than an emergency repair.
+A bike parked outdoors or in a shared apartment lot is exposed to knocks and weather, so look over the tyres, chain, brakes and lights before your first ride of the week; [the monthly inspection schedule]({{ '/articles/monthly-rental-inspection-schedule-hanoi/' | relative_url }}) gives the weekly routine and the check around 1,500 km. Nguyen Tu's guidance is a periodic check at around 1,500 km or more of use; it is practical guidance, not a manufacturer interval. If something needs fixing, ask the shop how repairs are handled before you pay anyone else.
 
 ## Common questions
 
