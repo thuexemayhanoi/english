@@ -157,17 +157,46 @@ function stripLiquid(s) {
 // layouts add around the body (related cards, sources panel, Common questions rendered from
 // `faq:` front matter, navigation, footer) are never in the body, so they are never counted.
 // A word is a whitespace/dash-separated token with at least one letter or digit.
+// Markup is removed with small scanners (indexOf loops), not tag-matching regexes: a comment may
+// end with --> or --!>, a closing tag may carry spaces, and a stray "<" in prose is not a tag.
+function removeBlocks(text, open, closers) {
+  let out = ''; let i = 0; const low = text.toLowerCase();
+  for (;;) {
+    const a = low.indexOf(open, i);
+    if (a < 0) { out += text.slice(i); break; }
+    out += text.slice(i, a) + ' ';
+    let end = -1;
+    for (const c of closers) { const b = low.indexOf(c, a + open.length); if (b >= 0 && (end < 0 || b + c.length < end)) end = b + c.length; }
+    if (end < 0) break;
+    const gt = closers[0] === '-->' ? end : low.indexOf('>', end);
+    i = gt < 0 ? text.length : (closers[0] === '-->' ? end : gt + 1);
+  }
+  return out;
+}
+function removeTags(text) {
+  let out = ''; let i = 0;
+  while (i < text.length) {
+    const ch = text[i];
+    if (ch === '<' && /[A-Za-z\/!]/.test(text[i + 1] || '')) {
+      let j = i + 1; while (j < text.length && text[j] !== '>' && text[j] !== '\n') j++;
+      if (text[j] === '>') { out += ' '; i = j + 1; continue; }
+    }
+    out += ch; i++;
+  }
+  return out;
+}
 function contentText(body) {
   let s = String(body == null ? '' : body).replace(/\r\n?/g, '\n');
-  s = s.replace(/<!--[\s\S]*?-->/g, ' ');
+  s = removeBlocks(s, '<!--', ['-->', '--!>']);
   s = s.replace(/^[ \t]*(```|~~~)[^\n]*\n[\s\S]*?\n[ \t]*\1[ \t]*$/gm, ' ');
-  s = s.replace(/<(script|style)\b[\s\S]*?<\/\1>/gi, ' ');
+  s = removeBlocks(s, '<script', ['</script']);
+  s = removeBlocks(s, '<style', ['</style']);
   s = s.replace(/!\[[^\]]*\]\([^)]*\)/g, ' ');
   s = s.replace(/\[([^\]]*)\]\((?:[^()]|\([^()]*\))*\)/g, '$1 ');
   s = s.replace(/^[ \t]*\[[^\]]+\]:\s*\S+.*$/gm, ' ');
   s = s.replace(/{%[\s\S]*?%}/g, ' ').replace(/{{[\s\S]*?}}/g, ' ');
   s = s.replace(/`[^`\n]*`/g, ' ');
-  s = s.replace(/<[^>\n]+>/g, ' ');
+  s = removeTags(s);
   s = s.replace(/&nbsp;/gi, ' ').replace(/&amp;/gi, '&').replace(/&[a-z]+;|&#\d+;/gi, ' ');
   s = s.replace(/https?:\/\/\S+/g, ' ');
   s = s.replace(/\{:[^}]*\}|\{#[^}]*\}/g, ' ');

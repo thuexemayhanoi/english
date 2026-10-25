@@ -357,6 +357,43 @@ check('data-driven: an unknown CSV layout is rejected, never guessed', LIB.parse
   fs.rmSync(P2, { recursive: true, force: true });
 }
 
+// ---------- 5d. SEO Package 2: lint and checkpoint writer ----------
+{
+  const P3 = fs.mkdtempSync(path.join(os.tmpdir(), 'seo-package2-lint-'));
+  for (const d of ['scripts', '_articles', 'docs/seo', 'reports']) fs.mkdirSync(path.join(P3, d), { recursive: true });
+  for (const f of ['lib.js', 'seo-package2.js']) fs.copyFileSync(path.join(SRC, f), path.join(P3, 'scripts', f));
+  const uniq = (n, tag) => Array.from({ length: n }, (_, i) => (tag || 'w') + i).join(' ');
+  const wr = (slug, body, fmExtra) => fs.writeFileSync(path.join(P3, '_articles', slug + '.md'), '---\n' + articleFm(Object.assign({ title: 'T ' + slug, slug, description: 'D ' + slug }, fmExtra || {})) + '\nlast_reviewed: 2026-09-01\n---\n' + body + '\n');
+  const good = '## One\n\nA direct answer lead that explains the point clearly in about twenty words so a reader gets it at once and moves on.\n\n' + uniq(300, 'a') + '\n\n## Two\n\n### Sub\n\n' + uniq(300, 'b') + '\n\n## Three\n\n' + uniq(300, 'c') + ' [guide]({{ \'/articles/pkg-peer/\' | relative_url }})\n\n## Four\n\n' + uniq(300, 'd') + '\n\n## Five\n\n' + uniq(300, 'e') + '\n\n## Six\n\n' + uniq(300, 'f');
+  wr('pkg-good', good); wr('pkg-peer', 'Peer article body. ' + uniq(60, 'p'));
+  wr('pkg-bad', '# H1 in body\n\nShort. See [gone]({{ \'/articles/does-not-exist/\' | relative_url }}). We offer free delivery to every hotel.\n\n' + uniq(400, 'z'));
+  const elig3 = ['pkg-good', 'pkg-bad'].map((slug, i) => ({ slug, url: '/articles/' + slug + '/', original_words: 400, group: 'A', cluster: 'scooters', subcluster: '', intent: 'informational', primary_keyword: 'unrelated keyword phrase', matrix_priority: 'P3', seo_status: 'AUDITED', keyword_owner: false, queue: i + 1 }));
+  fs.writeFileSync(path.join(P3, 'docs', 'seo', 'package2-baseline.json'), JSON.stringify({ package: 2, target_words: 1600, frozen: '2026-10-25', base_commit: 'nonexistent', article_count: 3, eligible: elig3, articleWords: { 'pkg-good': 400, 'pkg-bad': 400, 'pkg-peer': 62 } }));
+  fs.writeFileSync(path.join(P3, 'docs', 'seo', 'package2-status.json'), JSON.stringify({ batches: [], articles: {} }));
+  fs.writeFileSync(path.join(P3, 'docs', 'seo', 'optimization-log.json'), '[]');
+  const lg = run(P3, 'seo-package2.js', ['--lint', 'pkg-bad,pkg-good']);
+  const badBlock = lg.out.split('== pkg-good')[0];
+  check('package2 lint: H1 in the body, short article and broken internal link are errors', lg.status === 1 && /ERROR   H1 in the body/.test(badBlock) && /ERROR   only \d+ words/.test(badBlock) && /ERROR   broken or invalid internal link\(s\): \/articles\/does-not-exist\//.test(badBlock), lg.out.slice(0, 600));
+  check('package2 lint: a new free-delivery claim is listed for confirmation', /CONFIRM free-service claim: "We offer free delivery/.test(badBlock), badBlock);
+  const goodBlock = 'x' + (lg.out.split('== pkg-good')[1] || '');
+  check('package2 lint: a clean 1,800-word article has no errors', /, 0 error\(s\)/.test(goodBlock) && !/ERROR/.test(goodBlock), goodBlock.slice(0, 500));
+  const rcBad = run(P3, 'seo-package2.js', ['--record', 'p2-t0', '--slugs', 'pkg-bad', '--date', '2026-10-25', '--qa', 'x']);
+  check('package2 record: refuses a batch whose article has lint errors and writes nothing', rcBad.status === 1 && readJSON(P3, 'docs/seo/package2-status.json').batches.length === 0, rcBad.out.slice(-300));
+  const rc = run(P3, 'seo-package2.js', ['--record', 'p2-t1', '--slugs', 'pkg-good', '--date', '2026-10-25', '--qa', 'fixture pass', '--stamp']);
+  const st3 = readJSON(P3, 'docs/seo/package2-status.json'), log3 = readJSON(P3, 'docs/seo/optimization-log.json');
+  check('package2 record: writes DONE checkpoint, batch record and a package-2 optimization-log entry', rc.status === 0 && st3.articles['pkg-good'].status === 'DONE' && st3.articles['pkg-good'].words_before === 400 && st3.batches.length === 1 && log3.length === 1 && log3[0].package === 2 && log3[0].urls[0] === '/articles/pkg-good/', rc.out.slice(-300));
+  check('package2 record: --stamp sets last_reviewed to the review date only for the recorded article', /last_reviewed: 2026-10-25/.test(fs.readFileSync(path.join(P3, '_articles', 'pkg-good.md'), 'utf8')) && /last_reviewed: 2026-09-01/.test(fs.readFileSync(path.join(P3, '_articles', 'pkg-peer.md'), 'utf8')));
+  const rc2 = run(P3, 'seo-package2.js', ['--record', 'p2-t2', '--slugs', 'pkg-good', '--date', '2026-10-25', '--qa', 'again']);
+  check('package2 record: an article already DONE cannot be recorded twice', rc2.status === 1, rc2.out.slice(-200));
+  const rv = run(P3, 'seo-package2.js', ['--review', 'pkg-bad', '--reason', 'claim could not be verified from a primary source']);
+  const rcm = run(P3, 'seo-package2.js', ['--commit', 'p2-t1', 'abc1234']);
+  const st4 = readJSON(P3, 'docs/seo/package2-status.json');
+  check('package2: --review marks REVIEW_REQUIRED with its reason and --commit records the merge commit', rv.status === 0 && st4.articles['pkg-bad'].status === 'REVIEW_REQUIRED' && /primary source/.test(st4.articles['pkg-bad'].reason) && rcm.status === 0 && st4.batches[0].commit === 'abc1234', rv.out + rcm.out);
+  const gt = run(P3, 'seo-package2.js');
+  check('package2: the gate passes on the recorded fixture (DONE article at target, REVIEW_REQUIRED with reason)', gt.status === 0, gt.out);
+  fs.rmSync(P3, { recursive: true, force: true });
+}
+
 // ---------- 6. production isolation ----------
 check('isolation: fixture articles never leaked into production', !fs.existsSync(path.join(PROD_ROOT, '_articles', 'valid-article.md')));
 const prodCount = fs.readdirSync(path.join(PROD_ROOT, '_articles')).filter(f => f.endsWith('.md')).length;

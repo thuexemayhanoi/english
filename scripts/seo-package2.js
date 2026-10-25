@@ -13,6 +13,11 @@
 //   node scripts/seo-package2.js --write           also regenerate docs/seo/package2-eligible.csv and the dossier
 //   node scripts/seo-package2.js --next 5 [--group A]   the next pending slugs in queue order
 //   node scripts/seo-package2.js --words <slug>    word count of one article
+//   node scripts/seo-package2.js --lint a,b,c      deterministic content checks for expanded articles
+//   node scripts/seo-package2.js --record <batch> --slugs a,b,c --date D --qa "..." [--stamp] [--notes "..."]
+//                                                  write the checkpoint, batch record and optimization-log entry
+//   node scripts/seo-package2.js --review <slug> --reason "..." [--date D]    mark an article REVIEW_REQUIRED
+//   node scripts/seo-package2.js --commit <batch> <sha>    record the merge commit of a published batch
 //
 // Gate (exit 1): a DONE article below 1,600 words, a changed slug/URL, a missing eligible
 // article, or a status entry outside the frozen scope. Pending articles never block.
@@ -99,7 +104,7 @@ function init() {
   eligible.sort((a, b) => a.group.localeCompare(b.group) || a._sub - b._sub || (P[a.matrix_priority] ?? 9) - (P[b.matrix_priority] ?? 9) || (b.keyword_owner - a.keyword_owner) || a.slug.localeCompare(b.slug));
   eligible.forEach((e, i) => { e.queue = i + 1; delete e._sub; });
   const articleWords = {}; for (const [slug, x] of Object.entries(all)) articleWords[slug] = x.words;
-  let head = ''; try { head = require('child_process').execSync('git rev-parse HEAD', { cwd: L.ROOT, encoding: 'utf8' }).trim(); } catch (e) { head = ''; }
+  let head = ''; try { head = require('child_process').execFileSync('git', ['rev-parse', 'HEAD'], { cwd: L.ROOT, encoding: 'utf8' }).trim(); } catch (e) { head = ''; }
   const baseline = {
     _about: 'SEO Package 2 — CONTENT DEPTH 1600+: the frozen starting inventory. eligible = articles whose Markdown body had 300-500 words (inclusive) when the package started, measured with lib.contentWords. original_words never changes. articleWords holds the starting word count of all articles (scope-drift check). Do not edit by hand.',
     package: 2, target_words: TARGET, scope_words: [SCOPE_MIN, SCOPE_MAX],
@@ -212,8 +217,223 @@ function writeDossier(ev) {
   fs.writeFileSync(DOSSIER_PATH, md);
 }
 
+
+// ---------- lint: deterministic checks for expanded articles ----------
+// Errors block a batch; warnings and reviews are listed for the independent verifier and the
+// batch report (a review item is a phrase or figure a human has to confirm against its source).
+const OWNER_FACTS_PATH = path.join(L.ROOT, 'docs', 'OWNER-FACTS.md');
+const FORBIDDEN = [
+  [/\bfree (delivery|pick-?up|repairs?|helmets?|rescue|support|upgrade)s?\b/i, 'free-service claim'],
+  [/\bno[- ]deposit\b/i, 'no-deposit claim'],
+  [/\b24\s*\/\s*7\b|\b24 hours a day\b|\baround[- ]the[- ]clock\b/i, '24/7 claim'],
+  [/\bguarantee[sd]?\b/i, 'guarantee wording'],
+  [/\b(insurance (is |are )?(included|covered)|fully insured|comprehensive insurance)\b/i, 'insurance-included claim'],
+  [/\b(best|lowest|cheapest|unbeatable|lowest-priced) (price|rate|deal)s?\b|\bcheapest\b/i, 'superlative price claim'],
+  [/\b(discounts?|promotions?|promo codes?|special offers?|coupons?|vouchers?)\b/i, 'promotion/discount wording'],
+  [/\b(years?|decades?) of experience\b|\bsince (19|20)\d\d\b|\bestablished in\b|\bfamily[- ]run\b/i, 'experience/history claim'],
+  [/\b(thousands|hundreds|dozens) of (happy |satisfied )?(customers|renters|clients|travellers|travelers|guests)\b|\b\d[\d,]* (happy |satisfied )?(customers|renters|clients)\b/i, 'customer-number claim'],
+  [/\b(our|past|previous|recent) (customers|renters|clients|guests) (say|said|tell|told|report|reported|love|loved|asked|ask)\b|\btestimonials?\b|\b(five|5)-star\b|\bcustomer reviews?\b/i, 'testimonial/review wording'],
+  [/\b(we|our team|our mechanics?|i) (have |had )?(tested|rode|ridden|measured|timed|tried|inspected|checked)\b|\bin our experience\b|\bwe(’ve|'ve| have) (seen|found|noticed|learned|learnt|watched)\b|\bour (own )?(testing|test rides?|tests)\b/i, 'first-hand experience claim'],
+  [/\bwe (always )?(keep|hold|take|retain) (your |the renter'?s? )?(passport|id card|identity)/i, 'document-keeping wording'],
+  [/\b(credit cards?|debit cards?|visa (card|debit|credit)|mastercard|momo|paypal|apple pay|google pay)\b/i, 'payment method not approved (cash, bank transfer and QR only)'],
+  [/\bfixed (delivery )?(fee|charge|price)\b|\bdelivery (is )?(free|included)\b/i, 'delivery fee claim'],
+  [/\b(24-hour|roadside) (rescue|assistance|help|recovery)\b|\bnationwide (rescue|support|coverage)\b|\bunlimited support\b/i, 'rescue/support claim'],
+  [/\bfleet of \d+|\b\d+ (bikes|motorbikes|scooters) (in (our|the) fleet|available)\b|\blargest fleet\b/i, 'fleet-size claim'],
+  [/\b(always|guaranteed|every day) (in stock|available)\b|\bwill (always )?be available\b/i, 'availability guarantee'],
+  [/\b(tigit|style motorbikes?|happy ?zip|riderly|tuan motorbikes?|james motorbikes?|the extra mile|motogo|rentalmotorbike\w*)\b/i, 'competitor brand name']
+];
+const normSent = t => t.toLowerCase().replace(/[^a-z0-9\s]/g, ' ').replace(/\s+/g, ' ').trim();
+const sentencesOf = text => text.replace(/\n+/g, ' ').split(/(?<=[.!?])\s+(?=[A-Z0-9"'(‘“])/).map(x => x.trim()).filter(Boolean);
+const fmLine = (raw, key) => { const m = raw.match(new RegExp('^' + key + ':[ \\t]*(.*)$', 'm')); return m ? m[1].trim() : null; };
+const fmRaw = raw => { const e = raw.indexOf('\n---', 3); return e < 0 ? '' : raw.slice(4, e); };
+function fmList(raw, key) {
+  const lines = fmRaw(raw).split('\n'); const out = []; let on = false;
+  for (const ln of lines) { if (new RegExp('^' + key + ':').test(ln)) { on = true; continue; } if (on) { if (/^\s+-\s+/.test(ln)) out.push(ln.replace(/^\s+-\s+/, '').trim()); else if (/^[A-Za-z0-9_]+:/.test(ln)) on = false; } }
+  return out;
+}
+function originalRaw(slug, baseCommit) {
+  if (!/^[0-9a-f]{7,40}$/i.test(String(baseCommit)) || !/^[a-z0-9][a-z0-9-]*$/.test(String(slug))) return null;
+  try { return require('child_process').execFileSync('git', ['show', baseCommit + ':_articles/' + slug + '.md'], { cwd: L.ROOT, encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'], maxBuffer: 1 << 24 }); } catch (e) { return null; }
+}
+function allowedAmounts(extraText) {
+  const set = new Set();
+  const src = (fs.existsSync(OWNER_FACTS_PATH) ? fs.readFileSync(OWNER_FACTS_PATH, 'utf8') : '') + '\n' + (extraText || '');
+  for (const m of src.matchAll(/\d{1,3}(?:,\d{3})+/g)) set.add(m[0]);
+  return set;
+}
+function lintArticle(slug, now, baseline) {
+  const x = now[slug]; const e = (baseline.eligible || []).find(q => q.slug === slug);
+  const res = { slug, words: x ? x.words : 0, errors: [], warnings: [], reviews: [], stats: {} };
+  if (!x || !e) { res.errors.push('not an eligible Package 2 article'); return res; }
+  const body = x.a.body, text = L.contentText(body), raw = x.a.raw;
+  const E = m => res.errors.push(m), W = m => res.warnings.push(m), R = m => res.reviews.push(m);
+  if (x.words < TARGET) E('only ' + x.words + ' words (target ' + TARGET + ')');
+  if (x.words > 3200) W(x.words + ' words: far above the usual 1,700-2,400; check for padding');
+  if (/^#\s/m.test(body.replace(/^[ \t]*(```|~~~)[^\n]*\n[\s\S]*?\n[ \t]*\1[ \t]*$/gm, ''))) E('H1 in the body (the layout renders the title as the only H1)');
+  const h2 = (body.match(/^##\s+\S/gm) || []).length, h3 = (body.match(/^###\s+\S/gm) || []).length;
+  res.stats.h2 = h2; res.stats.h3 = h3;
+  if (h2 < 5) W('only ' + h2 + ' H2 sections for a ' + x.words + '-word article');
+  if (h3 === 0) W('no H3 sub-headings');
+  if (/^####\s/m.test(body) && !h3) W('H4 without H3');
+  const hasTable = /^\|.*\|\s*$/m.test(body) && /^\|?\s*:?-{2,}/m.test(body);
+  res.stats.table = hasTable;
+  const paras = body.split(/\n\s*\n/).map(p => L.contentText(p).trim()).filter(p => p && !/^\|/.test(p));
+  const longParas = paras.filter(p => p.split(/\s+/).length > 130).length;
+  if (longParas) W(longParas + ' paragraph(s) over 130 words (mobile readability)');
+  const lead = paras.find(p => !/^#/.test(p)) || ''; const leadWords = lead.split(/\s+/).filter(Boolean).length;
+  res.stats.leadWords = leadWords;
+  if (leadWords < 15 || leadWords > 90) W('lead paragraph has ' + leadWords + ' words (a direct-answer lead of about 20-80 words is expected)');
+  // links
+  const links = L.extractLinks(body);
+  const slugs = new Set(Object.keys(now));
+  const internal = links.filter(h => h.startsWith('/'));
+  const bad = [];
+  for (const h of internal) {
+    const t = h.split('#')[0].split('?')[0];
+    const am = t.match(/^\/articles\/([^/]+)\/$/), tm = t.match(/^\/topics\/([^/]+)\/$/);
+    if (am) { if (!slugs.has(am[1])) bad.push(t); else if (am[1] === slug) bad.push(t + ' (self link)'); }
+    else if (tm) { if (!L.CLUSTERS.includes(tm[1])) bad.push(t); }
+    else if (!['/', '/articles/', '/faq/', '/contact/', '/about/', '/search/', '/privacy/', '/terms/'].includes(t)) bad.push(t);
+  }
+  if (bad.length) E('broken or invalid internal link(s): ' + [...new Set(bad)].join(', '));
+  const uniqueInternal = new Set(internal.map(h => h.split('#')[0])).size;
+  res.stats.internalLinks = internal.length; res.stats.uniqueInternalTargets = uniqueInternal;
+  if (uniqueInternal < 6) W('only ' + uniqueInternal + ' distinct internal link targets in the body (6-14 expected)');
+  if (internal.length > 28) W(internal.length + ' internal links in the body (over-linking)');
+  const dupTargets = {}; for (const h of internal) dupTargets[h.split('#')[0]] = (dupTargets[h.split('#')[0]] || 0) + 1;
+  for (const [t, n] of Object.entries(dupTargets)) if (n > 3) W('link target ' + t + ' used ' + n + ' times');
+  const external = links.filter(h => /^https?:/i.test(h));
+  if (external.some(h => /^http:/i.test(h))) E('non-HTTPS external link');
+  if (external.length > 6) W(external.length + ' external links in the body');
+  // anchors
+  for (const m of body.matchAll(/\[([^\]]+)\]\(/g)) if (/^(click here|here|read more|this link|link)$/i.test(m[1].trim())) { W('non-descriptive anchor text: "' + m[1] + '"'); break; }
+  // repetition and padding
+  const sents = sentencesOf(text).map(normSent).filter(t => t.split(' ').length >= 8);
+  const seen = {}; let dupSent = 0;
+  for (const t of sents) { seen[t] = (seen[t] || 0) + 1; if (seen[t] === 2) dupSent++; }
+  res.stats.sentences = sents.length;
+  if (dupSent >= 2) E(dupSent + ' sentences repeated verbatim inside the article'); else if (dupSent === 1) W('1 sentence repeated verbatim inside the article');
+  const toks = normSent(text).split(' ').filter(Boolean); const grams = {}; let totalG = 0;
+  for (let i = 0; i + 6 <= toks.length; i++) { const g = toks.slice(i, i + 6).join(' '); grams[g] = (grams[g] || 0) + 1; totalG++; }
+  const repG = Object.values(grams).filter(n => n > 1).reduce((a, n) => a + n, 0); const repRate = totalG ? repG / totalG : 0;
+  res.stats.repeated6gramPct = Math.round(repRate * 1000) / 10;
+  if (repRate > 0.12) E('repeated 6-word phrases make up ' + res.stats.repeated6gramPct + '% of the article (padding)'); else if (repRate > 0.06) W('repeated 6-word phrases make up ' + res.stats.repeated6gramPct + '% of the article');
+  const avgSent = sents.length ? toks.length / sentencesOf(text).length : 0; res.stats.avgSentenceWords = Math.round(avgSent * 10) / 10;
+  if (avgSent > 28) W('average sentence length ' + res.stats.avgSentenceWords + ' words');
+  // keyword density
+  const kw = normSent(e.primary_keyword || '');
+  if (kw && kw.split(' ').length >= 2) { const n = (normSent(text).match(new RegExp('\\b' + kw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b', 'g')) || []).length; res.stats.primaryKeywordExact = n; if (n > 10) E('primary keyword "' + kw + '" appears ' + n + ' times (keyword stuffing)'); else if (n > 6) W('primary keyword "' + kw + '" appears ' + n + ' times'); }
+  // forbidden claims: only sentences that are new (not in the original article) and not negated
+  // ("there is no guaranteed delivery time" is the approved wording); the verifier reads each in context.
+  const orig = originalRaw(slug, baseline.base_commit);
+  const origBody = orig ? L.parseFrontMatter(orig).body : '';
+  const origNorm = ' ' + normSent(L.contentText(origBody)) + ' ';
+  const NEGATED = /\b(no|not|never|without|cannot|can't|cant|doesn't|does not|do not|don't|nor|neither|isn't|is not|aren't|are not|won't|will not|rather than|instead of|avoid|beware|myth|scam|unlicensed)\b/i;
+  const NEG_OK = new Set(['guarantee wording', 'free-service claim', '24/7 claim', 'insurance-included claim', 'delivery fee claim', 'rescue/support claim', 'availability guarantee', 'no-deposit claim', 'promotion/discount wording', 'document-keeping wording', 'fleet-size claim', 'payment method not approved (cash, bank transfer and QR only)']);
+  for (const sent of sentencesOf(text)) {
+    if (origNorm.includes(' ' + normSent(sent) + ' ')) continue;
+    for (const [re, label] of FORBIDDEN) if (re.test(sent) && !(NEG_OK.has(label) && NEGATED.test(sent))) R(label + ': "' + sent.slice(0, 200) + '"');
+  }
+  // amounts: anything neither approved in OWNER-FACTS nor already in the original article needs a cited source
+  const allowed = allowedAmounts(origBody);
+  const amounts = new Set(); for (const m of text.matchAll(/\d{1,3}(?:,\d{3})+/g)) amounts.add(m[0]);
+  for (const a of amounts) if (!allowed.has(a)) R('amount ' + a + ' is neither in docs/OWNER-FACTS.md nor in the original article: needs a cited source');
+  for (const m of text.matchAll(/\b\d{1,3}\s?k\s?(?:VND|vnd|d)\b|\b\d+(?:\.\d+)?\s?(?:million|triệu)\b/gi)) if (!origNorm.includes(' ' + normSent(m[0]) + ' ')) R('abbreviated amount "' + m[0] + '": use the exact approved VND figures');
+  for (const m of text.matchAll(/(?:\+?84|0)[\s.-]?9\d{2}[\s.-]?\d{3}[\s.-]?\d{3}/g)) if (m[0].replace(/\D/g, '').replace(/^84/, '0') !== '0942467674') E('phone number ' + m[0] + ' differs from docs/OWNER-FACTS.md');
+  // against the original
+  if (orig) {
+    const o = L.parseFrontMatter(orig); const oRaw = orig;
+    for (const k of ['slug', 'category', 'content_type', 'search_intent', 'topic_cluster', 'subcluster', 'date_published', 'review_status']) if (fmLine(oRaw, k) !== fmLine(raw, k)) E('front matter "' + k + '" changed');
+    for (const k of ['title', 'description']) if (fmLine(oRaw, k) !== fmLine(raw, k)) W('front matter "' + k + '" changed: needs a recorded reason');
+    if (fmLine(oRaw, 'last_reviewed') !== fmLine(raw, 'last_reviewed')) W('last_reviewed changed: only after a real review (use --record --stamp)');
+    const oSrc = fmList(oRaw, 'sources'), nSrc = fmList(raw, 'sources');
+    for (const s of oSrc) if (!nSrc.includes(s)) E('an existing sources entry was removed or edited: ' + s.slice(0, 80));
+    const oSent = sentencesOf(L.contentText(o.body)).map(normSent).filter(t => t.split(' ').length >= 6);
+    const newText = ' ' + normSent(text) + ' ';
+    const kept = oSent.filter(t => newText.includes(' ' + t + ' ')).length;
+    const keptPct = oSent.length ? kept / oSent.length : 1; res.stats.originalSentencesKeptPct = Math.round(keptPct * 100);
+    if (keptPct < 0.6) E('only ' + res.stats.originalSentencesKeptPct + '% of the original sentences remain (existing content must not be deleted)'); else if (keptPct < 0.8) W(res.stats.originalSentencesKeptPct + '% of the original sentences remain: list every removed or reworded passage in the batch notes');
+    const oLinks = new Set(L.extractLinks(o.body).filter(h => h.startsWith('/')).map(h => h.split('#')[0]));
+    const nLinks = new Set(internal.map(h => h.split('#')[0]));
+    const lost = [...oLinks].filter(h => !nLinks.has(h)); if (lost.length) W('original internal link(s) no longer in the body: ' + lost.join(', '));
+    const oExt = fmList(oRaw, 'internal_link_targets');
+  } else W('original not found in git history (' + baseline.base_commit + '): comparison checks skipped');
+  const itl = fmLine(raw, 'internal_link_targets');
+  if (itl) for (const t of itl.replace(/^"|"$/g, '').split(',').map(v => v.trim()).filter(Boolean)) if (!slugs.has(t)) E('internal_link_targets references a missing slug: ' + t);
+  return res;
+}
+
+function runLint(list, baseline) {
+  const now = currentWords(); let errors = 0; const out = [];
+  for (const slug of list) {
+    const r = lintArticle(slug, now, baseline); out.push(r); errors += r.errors.length;
+    console.log('== ' + slug + ': ' + r.words + ' words, ' + r.errors.length + ' error(s), ' + r.warnings.length + ' warning(s), ' + r.reviews.length + ' item(s) to confirm; ' + JSON.stringify(r.stats));
+    for (const m of r.errors) console.log('  ERROR   ' + m);
+    for (const m of r.warnings) console.log('  WARN    ' + m);
+    for (const m of r.reviews) console.log('  CONFIRM ' + m);
+  }
+  if (flag('json')) fs.writeFileSync(path.join(L.ROOT, 'reports', 'seo-package2-lint.json'), JSON.stringify(out, null, 1));
+  return errors;
+}
+
+// ---------- checkpoint writers ----------
+function writeJSON(p, v) { fs.writeFileSync(p, JSON.stringify(v, null, 1) + '\n'); }
+function record() {
+  const id = opt('record'), date = opt('date'), qa = opt('qa') || '', notes = opt('notes') || '';
+  const slugList = String(opt('slugs') || '').split(',').map(v => v.trim()).filter(Boolean);
+  if (!id || !date || !slugList.length) { console.error('usage: --record <batch> --slugs a,b --date YYYY-MM-DD --qa "..." [--stamp] [--notes "..."]'); process.exit(1); }
+  const ev = evaluate(); if (!ev) { console.error('not initialised'); process.exit(1); }
+  const status = ev.status; status.articles = status.articles || {}; status.batches = status.batches || [];
+  if (status.batches.some(b => b.id === id)) { console.error('batch ' + id + ' is already recorded'); process.exit(1); }
+  const errs = runLint(slugList, ev.baseline);
+  if (errs) { console.error('seo-package2: lint errors, nothing recorded'); process.exit(1); }
+  const now = currentWords(); let before = 0, after = 0;
+  for (const slug of slugList) {
+    const e = ev.baseline.eligible.find(q => q.slug === slug); const x = now[slug];
+    if (status.articles[slug] && status.articles[slug].status === 'DONE') { console.error(slug + ' is already DONE'); process.exit(1); }
+    before += e.original_words; after += x.words;
+    status.articles[slug] = { status: 'DONE', batch: id, date, words_before: e.original_words, words: x.words, qa };
+    if (flag('stamp')) {
+      const fp = path.join(L.ROOT, '_articles', slug + '.md'); let raw = fs.readFileSync(fp, 'utf8');
+      if (!/^last_reviewed:/m.test(raw)) { console.error(slug + ' has no last_reviewed line'); process.exit(1); }
+      fs.writeFileSync(fp, raw.replace(/^last_reviewed:.*$/m, 'last_reviewed: ' + date));
+    }
+  }
+  status.batches.push({ id, date, slugs: slugList, words_before: before, words_after: after, qa, notes, commit: '' });
+  writeJSON(STATUS_PATH, status);
+  // optimization log entry (package: 2 never changes the Status column; rank_work when a tracked URL is worked on)
+  const logPath = path.join(SEO_DIR, 'optimization-log.json'); const log = readJSON(logPath, []);
+  const evidence = readJSON(path.join(SEO_DIR, 'keyword-evidence.json'), {}); const snap = L.latestRankSnapshot(evidence);
+  const urls = slugList.map(sl => '/articles/' + sl + '/');
+  const ranked = snap ? urls.filter(u => snap.rows.some(r => r.url === u && r.position != null)) : [];
+  log.push({ date, batch: 'package2-' + id, package: 2, note: 'SEO Package 2 content depth: ' + slugList.length + ' article(s) expanded to at least ' + TARGET + ' words (' + before + ' -> ' + after + ' words); same URL, slug and canonical' + (notes ? '; ' + notes : ''), urls, rank_work: ranked.length > 0, counts: { articles: slugList.length, wordsBefore: before, wordsAfter: after, wordsAdded: after - before, rankTrackedUrls: ranked.length } });
+  writeJSON(logPath, log);
+  console.log('seo-package2: batch ' + id + ' recorded: ' + slugList.length + ' article(s), ' + before + ' -> ' + after + ' words' + (ranked.length ? ' (rank work on ' + ranked.length + ' tracked URL(s))' : ''));
+}
+function markReview() {
+  const slug = opt('review'), reason = opt('reason'), date = opt('date') || new Date().toISOString().slice(0, 10);
+  const ev = evaluate(); if (!ev) { console.error('not initialised'); process.exit(1); }
+  if (!ev.baseline.eligible.some(e => e.slug === slug)) { console.error(slug + ' is not in the frozen scope'); process.exit(1); }
+  if (!reason) { console.error('--reason is required'); process.exit(1); }
+  const status = ev.status; status.articles = status.articles || {}; status.articles[slug] = { status: 'REVIEW_REQUIRED', date, reason };
+  writeJSON(STATUS_PATH, status); console.log('seo-package2: ' + slug + ' marked REVIEW_REQUIRED');
+}
+function recordCommit() {
+  const i = args.indexOf('--commit'); const id = args[i + 1], sha = args[i + 2];
+  const status = readJSON(STATUS_PATH, null); const b = status && (status.batches || []).find(x => x.id === id);
+  if (!b || !sha) { console.error('usage: --commit <batch> <sha> (batch must be recorded)'); process.exit(1); }
+  b.commit = sha; writeJSON(STATUS_PATH, status); console.log('seo-package2: batch ' + id + ' commit ' + sha);
+}
+
 function main() {
   if (flag('init')) return init();
+  if (opt('record')) return record();
+  if (opt('review')) return markReview();
+  if (flag('commit')) return recordCommit();
+  if (opt('lint')) {
+    const b = readJSON(BASELINE_PATH, null); if (!b) { console.error('not initialised'); process.exit(1); }
+    process.exit(runLint(String(opt('lint')).split(',').map(v => v.trim()).filter(Boolean), b) ? 1 : 0);
+  }
   if (opt('words')) {
     const x = currentWords()[opt('words')];
     if (!x) { console.error('unknown slug ' + opt('words')); process.exit(1); }
