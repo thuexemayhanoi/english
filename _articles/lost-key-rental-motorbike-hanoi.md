@@ -63,7 +63,7 @@ Call the shop and say so, immediately - +84 942 467 674, WhatsApp or Zalo, 09:00
 
 ### If it happens outside opening hours
 
-The shop's hours are 09:00-21:00 daily, no after-hours service is published. Do not plan on anyone arriving at 22:00. Message anyway so the report carries the time it happened, park the bike somewhere safe for the night, and make the call when the shop opens.
+The shop's hours are 09:00-21:00 daily and no after-hours service is published. Do not plan on anyone arriving at 22:00. Message anyway so the report carries the time it happened, park the bike somewhere safe for the night, and make the call when the shop opens.
 
 ## What to ask the shop
 
@@ -103,7 +103,7 @@ The type changes what to ask, so find out at handover rather than after a loss:
 | Key with a chip | Does this key carry a chip? | Whether a replacement takes longer and costs more than a plain key |
 | Smart key | What does the key do, and what is the plan if it goes missing? | What a replacement involves for this bike |
 
-The locate function Honda describes helps you find the bike from the key, not the key itself, so it is no substitute for a spare. The cost, the time and the method for a replacement are the shop's to give for the bike you hold. If you would like to see the models before you ask, the [Honda Vision 110 review]({{ '/articles/honda-vision-110-review/' | relative_url }}) and the [Honda Air Blade 160 review]({{ '/articles/honda-air-blade-160-review/' | relative_url }}) cover what is verified about each.
+A smart key is no substitute for a spare, so ask about one at handover whatever the key type. The cost, the time and the method for a replacement are the shop's to give for the bike you hold. If you would like to see the models before you ask, the [Honda Vision 110 review]({{ '/articles/honda-vision-110-review/' | relative_url }}) and the [Honda Air Blade 160 review]({{ '/articles/honda-air-blade-160-review/' | relative_url }}) cover what is verified about each.
 
 ## The prevention, learned by everyone once
 
