@@ -1,7 +1,7 @@
 ---
 title: "What Is Included in a Hanoi Motorbike Rental?"
 slug: what-is-included-motorbike-rental-hanoi
-description: "What is included in a Hanoi motorbike rental: the bike, its papers, possibly basic maintenance. No insurance from Nguyen Tu; ask about helmets, fuel and delivery."
+description: "What is included in a Hanoi motorbike rental: the bike and, possibly, basic maintenance. No insurance from Nguyen Tu; ask about helmets, fuel, papers and delivery."
 category: rental
 tags:
   - "what is included"
@@ -20,16 +20,15 @@ sources:
 internal_link_targets: "do-hanoi-rentals-include-helmets, motorbike-rental-fuel-policy-hanoi, is-insurance-included-motorbike-rental-hanoi, motorbike-rental-pickup-or-delivery-hanoi, motorbike-rental-deposit-hanoi, rental-motorbike-breakdown-hanoi, punctured-tyre-on-rental-motorbike, how-to-book-a-motorbike-rental-hanoi"
 ---
 
-What the price buys and what it does not is the question that prevents surprises. For Hanoi Motorbike Rental Nguyen Tu, what is included in a motorbike rental in Hanoi comes down to the bike for the period you pay for and basic maintenance that may include oil changes, chain adjustment, tyre-pressure checks and a normal inspection. Rider insurance is not provided, and helmets, fuel and delivery are questions to settle before you pay.
+What the price buys and what it does not is the question that prevents surprises. For Hanoi Motorbike Rental Nguyen Tu, what is included in a motorbike rental in Hanoi comes down to the bike for the period you pay for and basic maintenance that may include oil changes, chain adjustment, tyre-pressure checks and a normal inspection. Rider insurance is not provided, and helmets, fuel, delivery and the registration papers are questions to settle before you pay.
 
 ## The list in one table
 
-Every item is sorted into one of three states: included, not included, or a question to put to the shop. Anything not confirmed as part of the rental is marked Ask, never Included.
+Each row has its own status label. Only the bike is marked Included; maintenance and support are conditional, some items are not provided or not promised, and anything not confirmed as part of the rental is marked Ask, never Included.
 
 | Item | Status | In short |
 |---|---|---|
 | The bike for the period you pay for | Included | The published day rate pays for it |
-| Registration certificate | Ask to see it | Rides with the bike |
 | Basic maintenance | May be included | Oil change, chain adjustment and tension, tyre-pressure checks, normal inspection |
 | Advice and support | During opening hours | Primarily for Hanoi and local use |
 | Rider insurance | Not provided | Arrange your own cover |
@@ -38,22 +37,27 @@ Every item is sorted into one of three states: included, not included, or a ques
 | Free repairs, 24/7 rescue, a guaranteed rescue time | Not promised | Do not plan around them |
 | Helmets, raincoat, phone holder | Ask | Not confirmed as part of the rental |
 | Fuel | Ask | Agree the level at handover and at return |
+| Registration papers | Ask | Which papers travel with the bike: the original or a certified copy |
 
 ## Included
 
 - The bike, for the period you paid for.
 
-- Registration certificate. It rides with the bike, and Vietnamese law requires a rider to carry it together with the compulsory insurance certificate, which is a separate paper ([what a rider must carry in Vietnam]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }})). Ask to see both at handover. If either paper is missing, settle that before you ride.
+The day rate and what sits on top of it are set out further down. Everything else in this guide is conditional, not provided, or a question to put to the shop.
+
+## May be included: maintenance and support
+
+Both items below depend on your bike and your dates, so treat them as questions to confirm rather than promises.
 
 - The owner's basic maintenance across the rental: engine oil changes, chain adjustment and tensioning, tyre-pressure checks and normal inspection. On a longer rental this is a real part of the value - a monthly renter is not paying for the bike's upkeep. Read the list as work the maintenance may include, not as a fixed service schedule, and ask which items apply to your bike and your dates.
 
-- Advice and support during opening hours (09:00-21:00) - the shop knows its bikes and can tell you what a noise means. Support is primarily for Hanoi and local use, which matters if your plans reach beyond the city.
+- Advice and support during opening hours (09:00-21:00) - the shop knows its bikes and can tell you what a noise means.
 
 ### What the maintenance list means in practice
 
 The four items are routine upkeep, and each does a plain job.
 
-- **Engine oil change.** Fresh oil keeps the engine lubricated. It is scheduled work, not a repair.
+- **Engine oil change.** Fresh oil keeps the engine lubricated. It is routine work, not a repair.
 - **Chain adjustment and tension.** A chain that is too loose can slap or jump, and one that is too tight wears faster. A scooter with a belt drive has no chain to adjust, so ask which items apply to your model.
 - **Tyre-pressure checks.** Pressure changes grip, braking and the chance of a puncture, which is why it sits on a list of routine checks.
 - **Normal inspection.** A routine look over the bike by the shop. Ask what it covers and when it was last done.
@@ -62,20 +66,23 @@ None of this replaces your own check at handover. The [rental motorbike inspecti
 
 ## Not included
 
-- Rider insurance. Compulsory third-party cover, which the law requires of every vehicle owner on the road, pays for harm the bike does to other people and their property; it does not cover your injuries or your liability beyond its limits. Nguyen Tu does not provide motorbike insurance - customers arrange their own. [The insurance article]({{ '/articles/is-insurance-included-motorbike-rental-hanoi/' | relative_url }}) explains the split.
+- Rider insurance. Compulsory third-party cover pays for harm the bike does to other people and their property, within its limits and conditions; it does not cover your injuries or any liability beyond those limits. Nguyen Tu does not provide motorbike insurance - customers arrange their own. [The insurance article]({{ '/articles/is-insurance-included-motorbike-rental-hanoi/' | relative_url }}) explains the split.
+
 - Consumables in some situations: inner tubes and tyres can be the renter's responsibility depending on the situation - a puncture from a nail is a different conversation from a worn tyre the bike arrived with. [Who pays for a punctured tyre]({{ '/articles/punctured-tyre-on-rental-motorbike/' | relative_url }}) works through the split.
+
 - A fixed delivery fee. Delivery in Hanoi may be available, arranged case by case. No fixed fee is published, so any figure you are quoted for your address belongs in writing, and [shop pickup versus delivery]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) compares the two routes.
+
 - Anything the contract does not say. If a term is not written into the agreement, it is not included. So ask for each promise in writing; [the booking guide]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) explains how to keep that record.
 
 ### What support does not promise
 
 Support is primarily for Hanoi and local use. Nguyen Tu does not offer 24/7 roadside rescue, a guaranteed rescue time or nationwide rescue, and free repairs are not promised. Maintenance and repair are different things: the list above is routine upkeep, so ask what happens, and who pays, if something breaks.
 
-Two habits follow. Raise any plan to ride out of the city before you pay, so the limits are on the table early. And because there is no 24/7 line, treat the hours outside 09:00-21:00 as a time when you look after the situation yourself: get the bike off the road, photograph the problem and message the shop so the details are in the thread when it next opens.
+Two habits follow. Raise any plan to ride out of the city before you pay, so the limits are on the table early. And outside 09:00-21:00 do not assume a reply: look after the situation yourself, get the bike off the road, photograph the problem and message the shop.
 
-## Ask before you pay: helmets, raincoats, phone holders and fuel
+## Ask before you pay: helmets, raincoats, phone holders, fuel and papers
 
-None of these four is confirmed as part of the rental, so none appears under Included. That does not make them excluded. Each is a question with a short answer, and the answer is worth having in writing before any money changes hands.
+None of these five is confirmed as part of the rental, so none appears under Included. That does not make them excluded: they are the edges of the rental, and each is a question with a short answer that is worth having in writing before any money changes hands.
 
 | Item | What to ask | Why it matters |
 |---|---|---|
@@ -83,6 +90,7 @@ None of these four is confirmed as part of the rental, so none appears under Inc
 | Raincoat | Is one available, or should I bring my own? | Nothing confirms that one comes with the bike |
 | Phone holder | Is a holder fitted or available? | Navigating by phone needs a mount that fits the handlebar |
 | Fuel | What level at handover, and what level at return? | Both sides need the same number in mind |
+| Registration papers | Which papers travel with the bike, original or certified copy? | Police ask a stopped rider for them |
 
 ### Helmets
 
@@ -90,15 +98,19 @@ Vietnamese law requires riders and passengers to wear a fastened helmet that mee
 
 ### Fuel
 
-Fuel sits here rather than under Included or Not included because the level is something you agree. The bike comes with an agreed fuel level and goes back at the agreed level - the [fuel article]({{ '/articles/motorbike-rental-fuel-policy-hanoi/' | relative_url }}) explains the conventions. The work is in the word agreed: ask what level applies at handover and at return, photograph the gauge when you collect the bike, and keep the answer in the message thread. [How returning a rental motorbike works]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }}) covers the fuel check on the return side.
+Fuel sits here rather than under Included or Not included because the level is something you agree. Fuel conventions differ; agree the level at handover and at return - the [fuel article]({{ '/articles/motorbike-rental-fuel-policy-hanoi/' | relative_url }}) explains the conventions. The work is in the word agree: photograph the gauge when you collect the bike, and keep the answer in the message thread. [How returning a rental motorbike works]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }}) covers the fuel check on the return side.
 
 ### Raincoats and phone holders
 
 Neither is confirmed, so ask, and if the answer is no, bring your own. A raincoat is easy to pack. A phone holder is worth testing on the handlebar before you leave, so that it does not crowd the mirrors or the controls.
 
+### Registration papers
+
+Ask at handover which registration papers travel with the bike (the original or a certified copy); if they stay at the shop, keep the shop's number for a police stop. [What a rider must carry in Vietnam]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) covers the papers a rider is required to carry, the registration certificate among them.
+
 ### Keep the answers in writing
 
-[How to book a motorbike rental in Hanoi]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) shows how to turn a message thread into a record, so this guide does not repeat it. What it adds is the list of answers that thread should hold beyond the model, dates, rate and deposit: the helmet, the fuel level, the maintenance items that apply, and the rule for tubes and tyres.
+[How to book a motorbike rental in Hanoi]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) shows how to turn a message thread into a record, so this guide does not repeat it. What it adds is the list of answers that thread should hold beyond the model, dates, rate and deposit: the helmet, the fuel level, the registration papers, the maintenance items that apply, and the rule for tubes and tyres. Confirm the edges when you book.
 
 ## What the published day rate covers
 
@@ -112,7 +124,7 @@ The day rate buys the bike for a day. The published daily rates are 150,000 VND 
 
 ### A worked example
 
-Imagine a renter who books a Honda Click, if it is available, for three days. At the published 150,000 VND a day the rental comes to 450,000 VND. The deposit sits on top of that figure. Fuel, a helmet if none is provided, any delivery cost and the renter's own insurance are separate questions: the 450,000 VND buys the bike, plus whatever else the shop agrees to in writing.
+Imagine a renter who books a Honda Click, if it is available, for three days. At the published 150,000 VND a day, three days would be 450,000 VND (3 x 150,000) if each day is charged at the day rate; confirm the total in writing. The deposit is separate. Fuel, a helmet if none is provided, any delivery cost and the renter's own insurance are further questions: the 450,000 VND buys the bike, plus whatever else the shop agrees to.
 
 ## The one question worth asking at handover
 
@@ -130,7 +142,7 @@ The same list weighs differently depending on how long you keep the bike.
 
 | Your rental | Settle first | Why |
 |---|---|---|
-| One day | Helmet, fuel level, who to call | There is little time to fix a gap once you are riding |
+| One day | Helmet, fuel level, registration papers, who to call | There is little time to fix a gap once you are riding |
 | A few days | Add the rule for tubes and tyres | More road means more chance of a puncture |
 | Weeks or months | Add the maintenance items and your expected distance | Upkeep becomes the main item |
 
@@ -146,7 +158,7 @@ Not as a confirmed item, so ask. The law requires a fastened helmet for the ride
 
 ### Does a Hanoi motorbike rental include insurance?
 
-Rider insurance is not provided: arrange your own cover before you ride. The bike's compulsory third-party certificate is a separate paper that covers harm to other people.
+Rider insurance is not provided: arrange your own cover before you ride. The law requires the vehicle's owner to hold compulsory third-party cover, separate from any cover for you. Ask whether a certificate is available to see, and do not rely on it for your own injuries.
 
 ### Is fuel part of the rental price?
 
@@ -162,8 +174,4 @@ It depends on the situation: inner tubes and tyres may be the renter's responsib
 
 ### Can I count on rescue at any hour if the bike breaks down?
 
-No. There is no 24/7 roadside rescue or guaranteed rescue time, and support is primarily for Hanoi and local use. Call or message during opening hours.
-
-## The core and the edges
-
-The core is the bike, its papers and the shop's basic maintenance; rider insurance is yours, and tubes and tyres may be. The edges are helmets, raincoats, phone holders, fuel and delivery. Confirm the edges when you book.
+No. Rescue at any hour is not promised, so call or message during opening hours.
