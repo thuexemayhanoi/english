@@ -1,0 +1,8 @@
+{
+  "tool": "Ubersuggest pagespeed_audit (lab data; cached result allowed, forceUpdate false)",
+  "input": {"domain": "en.rentbikehanoi.com", "devices": "MOBILE,DESKTOP"},
+  "date": "2026-10-25",
+  "label": "MEASURED (lab, home page only); lab metrics are not field Core Web Vitals and say nothing about rankings",
+  "result": {"done":true,"report":{"DESKTOP":{"status":"ok","lab_metrics":{"Cumulative Layout Shift":"0","Total Blocking Time":"0 ms","First Contentful Paint":"399 ms","Largest Contentful Paint":"423 ms","Time to Interactive":"423 ms","Speed Index":"432 ms"},"opportunities":[{"opportunity":"Unminified Css","estimated_savings":"0 ms","size_reduction_kb":2},{"opportunity":"Redirects","estimated_savings":"190 ms","size_reduction_kb":null}]},"MOBILE":{"status":"ok","lab_metrics":{"Time to Interactive":"1.4 s","Total Blocking Time":"0 ms","Cumulative Layout Shift":"0","Largest Contentful Paint":"1.4 s","Speed Index":"2.6 s","First Contentful Paint":"1.2 s"},"opportunities":[{"opportunity":"Unminified Css","estimated_savings":"0 ms","size_reduction_kb":2},{"opportunity":"Redirects","estimated_savings":"630 ms","size_reduction_kb":null}]}}},
+  "note": "The Redirects opportunity is most likely the bare-domain request (http to https) made by the tool, not an internal redirect; to be checked. Ubersuggest daily report quota was 3 of 3 used after this call (user_limits, 2026-10-25), and the Ubersuggest rank-tracking project for en.rentbikehanoi.com recorded on 2026-10-14 (b07588da...) no longer exists (HTTP 404); the only Ubersuggest project now is blog.rentbikehanoi.com, which is out of scope and was not touched."
+}
