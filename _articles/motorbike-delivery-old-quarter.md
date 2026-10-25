@@ -58,11 +58,11 @@ Hotels differ, so treat each of these as a question rather than an assumption, a
 
 | Ask the hotel | Why it matters |
 |---|---|
-| Can a motorbike reach the entrance, and which way does the street run? | A one-way street or a narrow lane changes where the handover can happen and how you leave. |
-| Is there a spot off the carriageway where a bike may stand during an inspection? | It lets you check the bike without blocking the lane or feeling hurried. |
-| Can the front desk call your room when the bike arrives? | You need to be there yourself: a message left at reception is no substitute. |
+| Can a motorbike reach the entrance, and which way does the street run? | A one-way street or narrow lane changes where the handover can happen. |
+| Is there a spot off the carriageway where a bike may stand during an inspection? | It lets you check the bike without blocking the lane. |
+| Can the front desk call your room when the bike arrives? | You need to be there yourself: a message at reception will not do. |
 | Where do guests leave a motorbike overnight, is it watched, and is there a charge? | The bike needs somewhere to sleep on the day it arrives. |
-| Is the street covered by the Friday-to-Sunday evening notice described below? | A hotel on one of the named streets may be affected on those evenings. |
+| Is the street covered by the Friday-to-Sunday evening notice below? | A hotel on a named street may be affected on those evenings. |
 
 ### What to have ready
 
@@ -87,7 +87,7 @@ Be there yourself. The signature records the condition of the bike at handover, 
 
 Work out your first two turns before you start the engine. If the street outside the hotel is one-way, you cannot simply turn round in it, and the way to a main road may be a loop, so ask the hotel which way to leave and check it against your map. [Riding the Old Quarter's One-Way Street Maze]({{ '/articles/old-quarter-one-way-streets-riding/' | relative_url }}) explains how the grid works and what to do when you are on the wrong side of it. If a turn goes wrong, stop at the first safe gap, dismount and walk the bike rather than push on against the traffic.
 
-Old Quarter streets are narrow and busy: plan a first practice ride outside the core (the French Quarter grid to the south is the calm option — see [Renting a Motorbike in Hoan Kiem: What to Know]({{ '/articles/renting-motorbike-hoan-kiem/' | relative_url }})) rather than out the hotel door. Reaching calmer streets still means riding out through the core first, so start when you are not hurrying. If that prospect worries you, [First Time Renting a Motorbike in Hanoi: A Beginner Walkthrough]({{ '/articles/first-time-renting-a-motorbike-hanoi/' | relative_url }}) is written for exactly that situation, and shop pickup, described below, is a calmer place to learn the controls.
+Old Quarter streets are narrow and busy: plan a first practice ride outside the core (the French Quarter grid to the south is the calm option — see [Renting a Motorbike in Hoan Kiem: What to Know]({{ '/articles/renting-motorbike-hoan-kiem/' | relative_url }})) rather than out the hotel door. Reaching calmer streets still means riding out through the core first, so start when you are not hurrying. If that prospect worries you, [First Time Renting a Motorbike in Hanoi: A Beginner Walkthrough]({{ '/articles/first-time-renting-a-motorbike-hanoi/' | relative_url }}) is written for exactly that situation, and shop pickup, described below, puts the handover away from the district's busiest streets.
 
 ## Where the bike sleeps: parking after the handover
 
@@ -119,10 +119,10 @@ For an Old Quarter guest the choice comes down to a few situations:
 
 | Your situation | Hotel handover | Shop pickup |
 |---|---|---|
-| First time on a motorbike in Vietnam | Your first ride starts inside the district | A calmer place to learn the controls before you enter it |
+| First time on a motorbike in Vietnam | Your first ride starts inside the district | The handover is away from the district's busiest streets |
 | Want to see more than one bike | Only the bike that arrives | A chance to see several, if several are available |
 | Short on time | No trip to Long Bien first, if the shop can arrange your address and dates | A journey across the river before the rental starts |
-| Hotel street covered by the weekend-evening notice | Choose a handover and a return before 19:00 | Collect and return before 19:00, and plan the ride back to the hotel |
+| Prefer to end the rental at the hotel | Ask whether the shop can collect the bike from there | Return it at the shop across the river |
 
 ## Common questions
 
