@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23) — overall width and weight of the Yamaha Sirius RC 110 and Honda Air Blade 125, the brake layout of the Sirius RC 110 and the Wave Alpha 110, and the published widths of the Yamaha NMAX 155 and Honda CT125"
+  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23) — overall width and weight of the Yamaha Sirius RC 110 and Honda Air Blade 125, and the published widths of the Yamaha NMAX 155 and Honda CT125"
   - "https://www.honda.com.vn/xe-may/san-pham/vision — Honda Vietnam: Vision detail page — kerb weight 97 kg, overall width 686 mm, the always-lit headlight and the idling-stop system the page describes (retrieved 2026-10-25)"
   - "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110 — Honda Vietnam: Wave Alpha 110 detail page — kerb weight 96 kg, overall width 689 mm and the always-lit headlight the page describes (retrieved 2026-10-25)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 34(1)(g), 59(1)(a) and 13: moped definition, minimum age, lane use (retrieved 2026-10-25)"
@@ -57,7 +57,7 @@ The gearbox choice has its own guides, so it is not repeated here: [the scooter 
 
 Big engine sizes add nothing when the traffic is this slow. Manual clutch bikes are work at rush hour. Wide bodywork scrapes things. Anything you would hate to drop at a standstill is the wrong tool.
 
-For scale on what "wide" means, the manufacturers publish 740 mm for the Yamaha NMAX 155 and 805 mm for the Honda CT125. That is 51 mm and 116 mm more than the widest of the four rental-class bikes in the next section. Wider bodywork leaves fewer gaps to use, but no spec sheet says which.
+For scale on what "wide" means, the manufacturers publish 740 mm for the Yamaha NMAX 155 and 805 mm for the Honda CT125. That is 51 mm and 116 mm more than the widest of the four rental-class bikes in the next section. Wider bodywork leaves fewer gaps to use, but a width figure alone does not say which gaps are open.
 
 ## What the published sizes show
 
@@ -118,7 +118,7 @@ Then press each brake control to check the brake light, test the indicators, and
 
 1. Mid-size automatic scooter (Vision/Click/Mio class) - the best all-round city tool.
 2. Semi-automatic underbone (Wave/Sirius class) - narrower and cheaper, one skill to learn.
-3. Licence-free moped - the legal answer for riders without a motorcycle licence, at lower speeds. A moped has a design speed of no more than 50 km/h and a combustion engine of 50 cc or less or an electric motor of 4 kW or less (Article 34(1)(g), Law 36/2024/QH15); no licence is needed from age 16 (Article 59(1)(a)). Contact us to confirm current availability.
+3. Licence-free moped - the legal answer for riders without a motorcycle licence, at lower speeds. A moped has a design speed of no more than 50 km/h and a combustion engine of 50 cc or less or an electric motor of 4 kW or less (Article 34(1)(g), Law 36/2024/QH15); the minimum age is 16 (Article 59(1)(a)) and no licence is needed. Contact us to confirm current availability.
 4. Manual - only for riders who already ride manuals confidently.
 
 The list is ordered by rider type, not by a measured score, so read it as what suits whom rather than a league table. "Licence-free" also describes a legal class and not a size: [the 50cc myths guide]({{ '/articles/50cc-motorbike-myths-law-vietnam/' | relative_url }}) explains that the licence exemption is the only exemption, so the other traffic rules still apply, and that a pedal-type electric bicycle and a 50cc petrol bike are different legal classes.
