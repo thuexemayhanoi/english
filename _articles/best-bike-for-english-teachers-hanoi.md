@@ -30,7 +30,6 @@ An [automatic scooter]({{ '/articles/best-scooters-to-rent-hanoi/' | relative_ur
 - The daily school run is stop-start district riding; automatics own it.
 - Under-seat storage takes a helmet, a laptop and a change of clothes. How much a given bike takes varies, so test the bay with your own bag before you agree to a term; the bag section below shows which figures exist.
 - Running costs are modest for a small-engine scooter, and a manufacturer's consumption figure for the exact bike, where one is published, lets you check that instead of taking it on trust.
-- Ask the shop what its own maintenance covers; it is set out further down.
 
 [Published monthly rates]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }}): Click and Mio at 1,000,000-1,200,000 VND, Vision at 1,800,000-2,000,000 VND. A teacher staying a semester or a year should [rent monthly]({{ '/articles/monthly-motorbike-rental-hanoi/' | relative_url }}) - or negotiate longer-term directly; contact us to discuss longer-term rental.
 
@@ -50,8 +49,6 @@ A spec sheet describes a bike; a timetable describes a job. Five questions about
 
 The figures in this guide come from the Honda Vietnam and Yamaha Motor Vietnam model pages as last checked in September 2026; where none is quoted, the text says so.
 
-### Under-seat storage
-
 Honda lists the Air Blade 125's under-seat bay at 23.2 L and words it as two half-helmets; its page also lists a USB-C charge port. No litre figure is quoted here for the Vision, Click or Mio, so a bay you have not tested is an unknown. The Air Blade 160 page lists a USB-C charge port too, but this guide quotes no storage figure for it.
 
 If your materials will not fit, ask whether a bigger-bay scooter is on offer: Honda lists 37 L, worded as two full helmets, for the Lead 125, but no day rate is published for it, so treat that as a question for the shop and not an expectation.
@@ -60,13 +57,15 @@ If your materials will not fit, ask whether a bigger-bay scooter is on offer: Ho
 
 ### Weight at every stop
 
-Honda publishes kerb weights of 97 kg for the Vision, 110 kg for the Air Blade 125, 113 kg for the Air Blade 160 and 96 kg for the Wave Alpha 110; Yamaha publishes a wet weight of 100 kg for the Sirius RC 110, so compare across the brands loosely. The Vision, Wave Alpha 110 and Sirius RC 110 sit within a few kilograms of each other, too close to choose between. The Air Blade 160 is 16 kg heavier than the Vision, and a teacher who steadies the bike at every school gate and parking row feels a gap like that more than a rider who parks once a day. The Air Blade 125 is 13 kg heavier than the Vision (110 kg against 97 kg), so weigh that against its quoted bay.
+Honda publishes kerb weights of 97 kg for the Vision, 110 kg for the Air Blade 125, 113 kg for the Air Blade 160 and 96 kg for the Wave Alpha 110; Yamaha publishes a wet weight of 100 kg for the Sirius RC 110, so compare across the brands loosely. The Vision, Wave Alpha 110 and Sirius RC 110 sit within a few kilograms of each other, too close to choose between. The Air Blade 160 is 16 kg heavier than the Vision, and a teacher who steadies the bike at every school gate and parking row feels a gap like that more than a rider who parks once a day.
+
+The Air Blade 125 is 13 kg heavier than the Vision (110 kg against 97 kg), so weigh that against its quoted bay.
 
 ### Parking and fuel along the way
 
 Ask each employer where staff bikes go before the first class, because arrangements differ from site to site and a bike with nowhere to stand is a daily problem. [The parking guide]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}) covers the rules and etiquette.
 
-Fuel is a planning item more than a deciding one. Honda publishes 1.72 L/100 km and a 3.7 L tank for the Wave Alpha 110, and Yamaha 2.08 L/100 km and a 4.2 L tank for the Sirius RC 110; no consumption or tank figure is quoted here for the Vision, Air Blade, Click or Mio. These are manufacturer claimed figures, and speed, load and traffic move them, so ask what fuel level the bike is handed over with and fill up in daylight before a late class, not at 21:30 on the way home.
+Fuel is a planning item more than a deciding one. Honda publishes 1.72 L/100 km and a 3.7 L tank for the Wave Alpha 110, and Yamaha 2.08 L/100 km and a 4.2 L tank for the Sirius RC 110; no consumption or tank figure is quoted here for the Vision, Air Blade, Click or Mio. These are manufacturer-claimed figures, and speed, load and traffic move them, so ask what fuel level the bike is handed over with and fill up in daylight before a late class, not at 21:30 on the way home.
 
 ## Evening classes and wet afternoons
 
@@ -101,7 +100,9 @@ Teachers staying months have time to do this properly: a home motorcycle licence
 
 ### Which licence fits which bike
 
-The Honda Vision (110 cc) and Air Blade (125 cc or 160 cc) are above the 50 cc moped limit, so a teacher on either needs a licence that covers the bike. A new A1 licence covers petrol two-wheelers up to and including 125 cc under Article 57, which takes in the Vision and the 125 cc Air Blade. A 160 cc bike such as the Air Blade 160 is above that line on a new licence, while A1 licences issued before 1 January 2025 keep their earlier scope under Article 89; [the A1 licence guide]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) sets out what each class can ride. The published Air Blade rate does not name a version, so ask whether you would be given the 125 or the 160, and check that your licence covers it before you accept the bike. The stages of getting a licence that fits, from the first weeks to once residence papers exist, are set out in [the licence section of the teacher rental guide]({{ '/articles/motorbike-rental-english-teachers-hanoi/' | relative_url }}).
+The Honda Vision (110 cc) and Air Blade (125 cc or 160 cc) are above the 50 cc moped limit, so a teacher on either needs a licence that covers the bike. A new A1 licence covers petrol two-wheelers up to and including 125 cc under Article 57, which takes in the Vision and the 125 cc Air Blade. A 160 cc bike such as the Air Blade 160 is above that line on a new licence, while A1 licences issued before 1 January 2025 keep their earlier scope under Article 89; [the A1 licence guide]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) sets out what each class can ride.
+
+The published Air Blade rate does not name a version, so ask whether you would be given the 125 or the 160, and check that your licence covers it before you accept the bike. The stages of getting a licence that fits, from the first weeks to once residence papers exist, are set out in [the licence section of the teacher rental guide]({{ '/articles/motorbike-rental-english-teachers-hanoi/' | relative_url }}).
 
 ## The practical package
 
@@ -125,7 +126,7 @@ An automatic scooter. Start with the Vision for one or two sites and a light bag
 
 ### Can I try a bike by the day before committing to a term?
 
-A few days on a bike is a way to test a bay and a route before a term starts. Whether a day rental can move to a monthly one is a question for the shop, not something to assume.
+Yes, daily rental is one of the shop's rental periods, so a few days is a way to test a bay and a route before a term starts. Whether a day rental can move to a monthly one is a question for the shop, not something to assume.
 
 ### Is a semi-automatic a bad choice for a teacher?
 
