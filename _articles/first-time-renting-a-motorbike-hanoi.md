@@ -69,13 +69,13 @@ Ride the block around the shop before committing to the road. Practise in this o
 
 Ten minutes is the minimum. With an hour, spend it like this, and leave the block only when each step feels dull:
 
-1. **Set up while parked.** Dress for a fall (closed shoes, long trousers), set both mirrors from the riding position, find the horn, the indicators and both brake levers by feel, and practise putting a foot down on each side.
-2. **Walk it, then roll it.** Paddle the bike a few metres to feel its weight, then roll at walking pace in a straight line and stop with both brakes.
-3. **Slow-speed drills.** A straight line at walking pace, gentle figures of eight and one wide U-turn, looking where you want to go rather than at the front wheel. [The slow-speed control guide]({{ '/articles/slow-speed-control-motorbike-vietnam/' | relative_url }}) has the drills.
-4. **Signals and shoulder checks.** Indicate, check the mirror and glance over your shoulder while holding a straight line. If the handlebars move when you look, go back to step 3.
-5. **One quiet street and back.** Ride a single quiet street at a steady pace and return the same way before you try a loop.
+1. **Set up while parked.** Dress for a fall (closed shoes, long trousers), set both mirrors, find the horn, indicators and brake levers by feel, and practise putting each foot down.
+2. **Walk it, then roll it.** Paddle the bike a few metres to feel its weight, then roll at walking pace and stop with both brakes.
+3. **Slow-speed drills.** Walking-pace straight lines, gentle figures of eight and one wide U-turn, eyes on where you want to go; [the slow-speed control guide]({{ '/articles/slow-speed-control-motorbike-vietnam/' | relative_url }}) has the drills.
+4. **Shoulder checks.** Indicate, check the mirror and glance over your shoulder in a straight line; if the handlebars move, repeat step 3.
+5. **One quiet street and back.** Ride it at a steady pace and return the same way before trying a loop.
 
-If a step will not settle after a few repeats, that is useful information rather than a failure; the signals for handing the bike back are further down. Braking, junctions, rain and night riding are taught in [the riding skills and safety guides]({{ '/topics/safety/' | relative_url }}); this page stays on readiness.
+If a step will not settle after a few repeats, treat that as information, not failure; the signals for handing the bike back are further down. Braking, junctions, rain and night riding are covered by [the riding skills and safety guides]({{ '/topics/safety/' | relative_url }}); this page stays on readiness.
 
 ## Your first day: a quiet route at a quiet time
 
@@ -88,15 +88,15 @@ Choose it at a desk, not at the first junction. For a first ride, look for:
 - a loop made of right turns: Vietnam drives on the right, so a right turn does not cross oncoming traffic, while a left turn across a stream is a skill for later;
 - somewhere to pull over, turn round and park.
 
-Leave the Old Quarter's narrow streets, bridges and any junction fed by a continuous stream for later. The shop is in Long Bien, on the east side of the Red River, so the way to a central hotel crosses a bridge. Treat that crossing as its own planned ride in daylight, not as your first test, and look at the first turn out of the shop on a map beforehand so you know which side street gets you off the main road.
+Leave the Old Quarter's narrow streets, bridges and any junction fed by a continuous stream for later. The shop is in Long Bien, on the east side of the Red River, so the way to a central hotel crosses a bridge: plan that crossing as its own daylight ride, and check the first turn out of the shop on a map beforehand so you know which side street gets you off the main road.
 
 ### Choose the time
 
-Daylight, dry roads and thin traffic matter more than the day of the week. The shop opens at 09:00, so a morning handover gives a first ride the most light and leaves the afternoon for a calm return. Start after the commuter rush rather than inside it, and give the evening peak the same respect on the way back. In the rainy season, check the sky before you leave and treat a wet road as a reason to wait: a first ride is a poor moment to find out how the bike brakes on a slick surface.
+Daylight, dry roads and thin traffic matter more than the day of the week. The shop opens at 09:00, so a morning handover gives a first ride the most light and leaves the afternoon for a calm return. Start after the commuter rush rather than inside it, and respect the evening peak on the way back. In the rainy season, check the sky before you leave and treat a wet road as a reason to wait.
 
 ### Plan the way back
 
-Decide the return before you leave: the same road you rode out on, in daylight, with margin. Late return is charged at 20,000 VND per hour, so build in time rather than racing the clock. If you land in Hanoi the same day, rest first; [the airport arrival guide]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) covers the first day.
+Decide the return before you leave: a road you already know, in daylight, with margin. Late return is charged at 20,000 VND per hour, so build in time rather than racing the clock. If you land in Hanoi the same day, rest first; [the airport arrival guide]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) covers the first day.
 
 ## Rules that keep first-timers legal
 
@@ -104,11 +104,11 @@ Keep right, no [sidewalk riding]({{ '/articles/riding-on-sidewalk-vietnam/' | re
 
 What those rules mean in practice, as the legal guides on this site set them out:
 
-- **Helmet.** Required for the rider and any passenger, and it must be fastened: an unstrapped helmet is treated as no helmet. [Vietnam's helmet law]({{ '/articles/helmet-law-vietnam/' | relative_url }}) has the detail.
-- **Lane.** Ride in the lane for your direction; where there are no markings, keep to the right part of the carriageway, and never cross a fixed median.
-- **Sidewalk.** Sidewalks are reserved for pedestrians; motorbikes may cross one to enter or leave premises and manoeuvre briefly at very low speed where there is no alternative. If a street is blocked, get off and walk the bike.
-- **Phone.** Holding a phone while riding is an offence, navigation included. A phone in a proper mount, used without your hands leaving the controls, is a different situation. Set the destination before you move; [the phone-use rules]({{ '/articles/phone-use-while-riding-vietnam/' | relative_url }}) cover what is and is not banned.
-- **Alcohol.** None: any detectable alcohol on a motorbike is an offence. If you plan to drink, leave the bike and take a taxi or ride-hailing car, as [the drink-driving rules]({{ '/articles/drink-driving-limits-motorbike-vietnam/' | relative_url }}) advise.
+- **Helmet:** fastened, for rider and passenger; an unstrapped helmet counts as none ([Vietnam's helmet law]({{ '/articles/helmet-law-vietnam/' | relative_url }})).
+- **Lane:** the lane for your direction, the right-hand part of the carriageway where there are no markings, never across a fixed median.
+- **Sidewalk:** pedestrians only, apart from crossing to enter or leave premises and brief low-speed manoeuvres where there is no alternative. If a street is blocked, get off and walk the bike.
+- **Phone:** holding one while riding is an offence, navigation included, while a proper mount used without your hands leaving the controls is different ([the phone-use rules]({{ '/articles/phone-use-while-riding-vietnam/' | relative_url }})). Set the destination before you move.
+- **Alcohol:** any detectable amount on a motorbike is an offence ([the drink-driving rules]({{ '/articles/drink-driving-limits-motorbike-vietnam/' | relative_url }})).
 
 ## The first week: mistakes and what to do instead
 
@@ -116,12 +116,11 @@ Most first-week trouble comes from raising the difficulty faster than skill grow
 
 | Mistake | Why it hurts | Do this instead |
 |---|---|---|
-| Raising the difficulty on day two because day one went well | Confidence grows faster than skill, and traffic is where the gap shows | Change one thing at a time: a longer route or a busier hour, not both |
-| Copying locals who thread through gaps | The lane rules police gap-riding, and a newcomer who copies it is not predictable | Hold a steady line, leave space and let the flow pass |
-| Checking the map in one hand | Handheld phone use is an offence, and the glance is when the flow changes | Mount the phone and set the destination before moving, or stop to look |
-| Taking a passenger early | A pillion changes slow-speed balance more than almost anything else | Ride alone until the controls feel automatic, and give any passenger a helmet |
-| Riding tired, hungry or after a drink | Fatigue shows as sloppy lane discipline, and any detectable alcohol is an offence | Stop, eat and rest, or take a taxi |
-| Living with a new noise or a soft brake | A small fault costs less to report on day two than to ignore until it fails | Report it early; the signals below say when to stop riding |
+| Raising the difficulty on day two | Confidence outruns skill, and traffic is where the gap shows | Change one thing at a time, the route or the hour |
+| Copying locals who thread through gaps | The lane rules police gap-riding, and copying it makes you unpredictable | Hold a steady line and leave space |
+| Checking the map in one hand | Handheld phone use is an offence | Mount the phone and set the destination first |
+| Taking a passenger early | A pillion upsets slow-speed balance | Ride alone until the controls feel automatic |
+| Riding tired or after a drink | Fatigue breeds sloppy lane discipline, and any alcohol is an offence | Stop and rest, or take a taxi |
 
 ## What nobody tells beginners
 
