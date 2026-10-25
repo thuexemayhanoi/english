@@ -28,22 +28,22 @@ Student budgets change the question from "best" to "cheapest legal". The answer 
 
 The legal options are the licence-free classes:
 
-- [E-bikes]({{ '/articles/can-foreigners-rent-electric-bike-vietnam/' | relative_url }}) (200,000 VND per day published): no licence required, rider 16 or older. Bicycle-like, slow, cheap to run - no petrol at all. The name covers two different machines, a pedal e-bike and an electric moped, with different rules, set out below.
+- [E-bikes]({{ '/articles/can-foreigners-rent-electric-bike-vietnam/' | relative_url }}) (200,000 VND per day published): no licence required, rider 16 or older. Bicycle-like, slow, cheap to run - no petrol at all. The name covers two different machines, a pedal e-bike and an electric moped, with different rules, set out below; the age-16 rule is the moped's (Article 59(1)(a)).
 - [50 cc motorbikes]({{ '/articles/renting-50cc-hanoi/' | relative_url }}): no driving licence required (16+), but there is no published fixed rental price - contact the shop directly for 50 cc rates and availability.
 
 For campus-and-neighbourhood life, these cover everything. They do not keep up with Ring Road traffic, and that is fine. The moped class is designed for no more than 50 km/h, so the ceiling belongs to the class and not to one machine.
 
-### What "licence-free" means in law
+### The age rule for mopeds
 
 Under Article 59(1)(a) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15), a person of 16 or older may ride a moped, and [the 50 cc licence guide]({{ '/articles/50cc-licence-vietnam/' | relative_url }}) covers the licence position and the rules for 16-to-18-year-olds.
 
 ### Telling a pedal e-bike from a moped
 
-A pedal e-bike's assistance stops when you stop pedalling or at 25 km/h (Article 34(2)(b)); a moped is limited to a 50 km/h design speed and, if electric, 4 kW (Article 34(1)(g)). [The electric bike licence guide]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}) sets out the licence classes for electric machines above the moped limit.
+A pedal e-bike's assistance stops when you stop pedalling or at 25 km/h (Article 34(2)(b)); a moped has a design speed of no more than 50 km/h and, if electric, a motor of 4 kW or less (Article 34(1)(g)). [The electric bike licence guide]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}) sets out the licence classes for electric machines above the moped limit.
 
 A label on a rental sheet does not settle which category a machine is in, so ask two questions. Can it be ridden on the throttle alone, with no pedalling? If so, it does not fit the pedal e-bike definition. What are its rated power and design speed? A scooter above 4 kW, or designed for more than 50 km/h, is not a moped and falls under those licence classes.
 
-The helmet law applies on both sides of the line: it covers riders and passengers of mopeds and of motorised pedal bicycles, pedal e-bikes included ([the helmet law guide]({{ '/articles/helmet-law-vietnam/' | relative_url }})).
+The helmet law applies on both sides of the line: it covers riders and passengers of mopeds and of motorised pedal bicycles, pedal e-bikes included.
 
 ## With a licence
 
@@ -54,8 +54,6 @@ The Honda Click and Yamaha Mio class at [150,000 VND per day]({{ '/articles/moto
 An A1 licence goes to riders of 18 or older (Article 59(1)(b)) and covers a two-wheeled motorbike with a petrol engine up to and including 125 cc or an electric motor up to and including 11 kW; class A starts above those limits (Article 57(1)).
 
 Honda and Yamaha publish engine sizes inside that limit for the bikes on the list: 110 cc for the Vision, 125 cc for the Air Blade 125, 109.2 cc for the Wave Alpha 110 and 110.3 cc for the Sirius RC 110. Each figure belongs to the version named. Honda also sells the Air Blade as a 160 with a 160 cc engine, which is above the 125 cc limit of a new A1, so ask which version you would be given. No engine figure is quoted here for the Click or the Mio, so ask for theirs as well. [The A1 licence guide]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) explains what the class covers, including the rule that keeps A1 licences issued before 1 January 2025 valid for larger bikes.
-
-This page chooses the bike. If you are a foreign student whose licence is not yet valid for it, [the foreign student licence guide]({{ '/articles/foreign-student-motorbike-licence-vietnam/' | relative_url }}) covers the routes.
 
 ## Matching the bike to student life
 
@@ -106,7 +104,7 @@ The other lines of a term budget, such as consumables and late-return charges, a
 
 The step from 150,000 VND to 200,000 VND per day is 50,000 VND. The published figures show little for it: the Wave Alpha 110 and the Vision list 96 kg and 97 kg, which is no real difference, and the Air Blade 125's 23.2 L bay is the only storage figure quoted here. Decide what the extra 50,000 VND would buy you, such as a bay that fits your bag, and test that on the bike instead of assuming it.
 
-A student staying a semester should compare monthly figures, so ask what each bike you are weighing costs by the month before you settle on the day rate alone. [The rental price guide]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) lists what is published.
+Before you settle on the day rate alone, ask what each bike you are weighing costs by the month before you settle on the day rate alone. [The rental price guide]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) lists what is published.
 
 ## What students should not do
 
