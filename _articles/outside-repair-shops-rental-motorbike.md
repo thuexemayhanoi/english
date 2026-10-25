@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.3 rental-practicalities"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
 internal_link_targets: "rental-motorbike-breakdown-hanoi, punctured-tyre-on-rental-motorbike, loose-chain-on-rental-motorbike, how-deposit-returns-work-hanoi, common-motorbike-rental-problems-hanoi, talking-to-mechanic-vietnam, motorbike-rental-agreement-hanoi, rental-motorbike-modifications, rental-motorbike-feels-wrong"

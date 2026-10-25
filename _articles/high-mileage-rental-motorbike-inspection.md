@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.3 rental-practicalities"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
 internal_link_targets: "what-is-included-motorbike-rental-hanoi, best-motorbike-for-commuting-hanoi, rental-motorbike-feels-wrong, daily-weekly-monthly-motorbike-rental-hanoi, loose-chain-on-rental-motorbike, high-mileage-monthly-rental-hanoi, maintenance-during-monthly-rental-hanoi, rental-motorbike-inspection-checklist"

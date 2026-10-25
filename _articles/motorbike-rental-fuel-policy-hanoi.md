@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.1 how-to-rent"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110 — Honda Vietnam, Wave Alpha 110 product page — fuel tank 3.7 L and fuel consumption 1.72 l/100km in the specification table (retrieved 2026-10-25)"

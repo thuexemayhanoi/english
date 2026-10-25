@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.3 rental-practicalities"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://yamaha-motor.com.vn/xe/sirius-rc-phien-ban-vanh-duc-mau-moi-2025-bgyf-g — Yamaha Motor Vietnam, Sirius RC alloy-wheel version, specification table — front 70/90-17 and rear 80/90-17 tyres, both listed as tyres with an inner tube (lốp có săm) (retrieved 2026-10-25)"
