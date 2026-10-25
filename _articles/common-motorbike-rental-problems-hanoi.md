@@ -20,11 +20,11 @@ sources:
 internal_link_targets: "rental-motorbike-inspection-checklist, punctured-tyre-on-rental-motorbike, theft-loss-responsibility-rental-motorbike-hanoi, motorbike-rental-deposit-hanoi, rental-motorbike-breakdown-hanoi, lost-key-rental-motorbike-hanoi, late-return-rental-motorbike-hanoi, police-impound-motorbike-vietnam"
 ---
 
-Motorbike rental problems in Hanoi are easiest to sort by when they happen: at handover, on the road, while the bike is parked and at return. Each one has a prevention step and a first move, and every one is cheaper to prevent than to settle. The tables below give the cause, the prevention and the next step for each problem, with a link to the guide that covers it in full.
+Motorbike rental problems in Hanoi are easiest to sort by when they happen: at handover (a scratch nobody can date), on the road (a flat tyre or a breakdown), while parked (theft or a lost key) and at return (a deposit dispute). Every one is cheaper to prevent than to settle. The tables give the cause, the prevention and the next step, with a link to the guide that covers it in full where one exists.
 
 ## The problems in the order they happen
 
-The order follows a rental from start to finish. It is an order of timing, not a ranking of how often each problem occurs, and this page makes no claim about frequency. Cells are short on purpose, because the linked guides and the [rental topic hub]({{ '/topics/rental/' | relative_url }}) carry the detail. Where a row points to Problem 1 to 5, the habit behind it is set out in the close-ups further down.
+The order follows a rental from start to finish, so each table is ordered by when the problem happens. The linked guides and the [rental topic hub]({{ '/topics/rental/' | relative_url }}) carry the detail. Where a row points to Problem 1 to 5, the habit behind it is set out in the close-ups further down.
 
 ### At handover
 
@@ -39,9 +39,9 @@ The order follows a rental from start to finish. It is an order of timing, not a
 | Problem | Why it happens | How to prevent it | What to do |
 |---|---|---|---|
 | The bike will not start or stops | A fault in the electrics, the fuel supply or the engine; the symptom alone does not say which | Report small changes early instead of riding on | Move off the road, then call the shop; the [breakdown guide]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) has the first steps |
-| A flat tyre | Nails, glass or low pressure | Check pressures and tread, and keep off the debris at the lane edge (Problem 3 below) | Stop early; inner tubes and tyres may be the renter's responsibility depending on the situation, and the [puncture guide]({{ '/articles/punctured-tyre-on-rental-motorbike/' | relative_url }}) explains the division |
+| A flat tyre | Nails, glass or low pressure | Check pressures and tread, and keep off the debris at the lane edge (Problem 3 below) | Stop early and call the shop; the [puncture guide]({{ '/articles/punctured-tyre-on-rental-motorbike/' | relative_url }}) explains who pays |
 | A loose chain | On a chain-driven bike the chain stretches with use and slackens | Check the play at handover; report a clunk when you open and close the throttle | Report it: chain adjustment is among the maintenance the shop may provide; the [loose chain guide]({{ '/articles/loose-chain-on-rental-motorbike/' | relative_url }}) shows the symptoms |
-| The bike does not feel normal | A new noise, a soft brake, a wobble or a smell means something has changed | Notice what changed and when | Stop at once for brake, steering or wheel-lock trouble, otherwise report it soon; the [guide to a bike that feels wrong]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}) separates the cases |
+| A new noise, a soft brake, a wobble or a smell | Something about the bike has changed | Notice what changed and when | Report it; the [guide to a bike that feels wrong]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}) separates what is urgent from what can wait |
 | Wrong or low fuel | An unfamiliar pump, or a gauge that is only a guide | Refuel before the tank runs low and ask the shop which petrol to use | The [rental fuel guide]({{ '/articles/rental-motorbike-fuel-what-petrol/' | relative_url }}) explains grades and pumps |
 | A repair by someone else | A roadside fix looks quicker than a phone call | Call the shop before anyone touches the bike | Keep receipts and photos; the [outside repair shops guide]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) separates small fixes from work that needs agreement |
 | A police stop | A rider cannot show a licence or registration papers, or commits a listed violation | Carry your licence and keep the shop's phone number with you | Call the shop; [when police can impound a motorbike]({{ '/articles/police-impound-motorbike-vietnam/' | relative_url }}) lists the cases |
@@ -65,24 +65,22 @@ The order follows a rental from start to finish. It is an order of timing, not a
 
 Four moves apply whatever the row, in this order.
 
-1. **Make it safe.** Stop where neither you nor the bike is in anyone's way. If the brakes do not bite, the rear wheel locks, the steering fights you or fuel is leaking, do not ride the bike any further.
-2. **Describe it.** Note what changed, when it began and whether it happens moving or stopped, and photograph the cause if there is one. A precise description helps a mechanic more than "it feels weird".
-3. **Contact the shop before anyone else.** Phone, WhatsApp or Zalo on +84 942 467 674; the shop is open 09:00-21:00 daily.
+1. **Make it safe.** Stop where neither you nor the bike is in anyone's way, and do not ride any further if the brakes, steering or wheels misbehave or fuel is leaking.
+2. **Describe it.** Note what changed, when it began and whether it happens moving or stopped, and photograph the cause if there is one.
+3. **Contact the shop before any repairer; if anyone is hurt, get medical help first.** Phone, WhatsApp or Zalo on +84 942 467 674; the shop is open 09:00-21:00 daily.
 4. **Keep the trail.** Keep the receipts, photos and messages about the problem until the deposit has been settled.
 
-Support is primarily for Hanoi and local use. Nguyen Tu offers no 24/7 roadside rescue, no guaranteed rescue time and no free repairs, so plan a ride outside the city as though help might not arrive quickly, and ask the shop what applies before you leave. If a bike cannot be fixed where it stands, a replacement depends on availability: contact the shop to confirm.
+Support is primarily for Hanoi and local use. Nguyen Tu does not promise 24/7 roadside rescue, a guaranteed rescue time or free repairs, so plan a ride outside the city as though help might not arrive quickly, and ask the shop what applies before you leave.
 
 ## Who pays, and what to ask before you ride
 
-Money is the question behind many of the rows above, and the published terms are short. This table separates what is stated from what you need to ask.
+Money is the question behind many of the rows above, and the published terms are short. This table separates what is published from what you need to ask.
 
-| Situation | What is stated | What to ask |
+| Situation | What is published | What to ask |
 |---|---|---|
-| Oil change, chain adjustment, tyre-pressure checks, normal inspection | The shop's maintenance may include them | Which of them happen during your rental, and what the shop wants reported |
-| An inner tube or a tyre | These consumables may be the renter's responsibility depending on the situation | Whether the answer changes between a nail through the tube and a tyre that was already worn at handover |
 | Damage after a fall or crash | Nguyen Tu does not provide motorbike insurance; customers arrange their own. The deposit is typically 2,000,000-5,000,000 VND depending on vehicle and conditions | How a repair is priced, and whether it comes out of the deposit |
-| Theft or a lost key | Terms depend on the contract | The theft terms and the cost of a replacement key, before you sign |
-| A flat battery from the ignition left on | Terms depend on the contract | Who pays, before the bike is fixed |
+| Theft or a lost key | No term is published here; ask | The theft terms and the cost of a replacement key, before you sign |
+| A flat battery from the ignition left on | No term is published here; ask | Who pays for it, asked at handover |
 | A bike that cannot be fixed on the road | Contact the shop to confirm current availability of any bike | Whether a replacement is possible, and how soon |
 
 ## Five problems in more detail
@@ -93,13 +91,13 @@ Five of the rows above come down to a habit, and the reasoning behind each habit
 
 The classic: a scratch appears at return that nobody can date. Prevention is the handover photo set - every panel, both sides, sent to the shop's chat with a timestamp. A shop that has your photos cannot invent history; a renter who took none cannot disprove it. Do the checklist, take the photos, keep the contract until the deposit is settled.
 
-Include the fuel gauge in the set if the shop expects the bike back at the level it left. If a mark does turn up at return, show the photo of the same spot and ask for the figure and the reasoning before you agree to anything; a mark that no photo covers is something neither side can prove, so ask what the shop proposes and get it in writing before you agree.
+Include the fuel gauge in the set if the shop expects the bike back at the level it left. If a mark does turn up at return, show the photo of the same spot and ask for the figure and the reasoning before you agree to anything. A mark that no photo covers is something neither side can prove.
 
 ### Problem 2: the dead battery
 
 Left the key on, the light switched, the bike sitting for three days? Automatics click and nothing happens. Prevention: take the key out at every stop, do not leave the ignition on with the engine off. The fix is a shop visit or a push-start (automatics cannot push-start - call the shop). Batteries are the shop's equipment; running flat through your own neglect can become a conversation.
 
-Ask at handover who pays for a flat battery caused this way. Before you call, check that the kill switch is on RUN and the key is fully turned; the [breakdown guide]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) lists the other quick checks.
+Ask at handover who pays for a flat battery caused this way. Before you call, check that the kill switch is on RUN and the key is fully turned.
 
 ### Problem 3: the puncture
 
@@ -109,17 +107,17 @@ Feel catches only a tyre that is clearly soft, so use a gauge when you pass one.
 
 ### Problem 4: the stolen bike
 
-An unattended bike on an open sidewalk is the easiest one to take; an attended lot is safer but not a guarantee. Prevention is the lock and the parking convention: use the steering lock and a disc lock if the bike has one, and pay for attended parking lots (gửi xe) rather than saving the fee. A stolen rental is a deposit-level conversation at best; [the theft article]({{ '/articles/theft-loss-responsibility-rental-motorbike-hanoi/' | relative_url }}) explains where responsibility actually sits.
+An unattended bike on an open sidewalk is easier to take than one in an attended lot, though no lot is a guarantee. Prevention is the lock and the parking convention: use the steering lock and a disc lock if the bike has one, and pay for attended parking lots (gửi xe) rather than saving the fee. A stolen rental is a deposit-level conversation at best; [the theft article]({{ '/articles/theft-loss-responsibility-rental-motorbike-hanoi/' | relative_url }}) explains where responsibility actually sits.
 
 Never leave the key in the ignition, even for a moment. If the bike is taken, tell the shop and report it to the police without delay.
 
 ### Problem 5: the paperwork gap
 
-Riding without carrying a licence the police recognise, or on a bike whose registration certificate is still at the shop. Prevention: sort your licence route before renting, and take the registration certificate with the bike. Police can hold a bike whose papers cannot be produced.
+Riding without carrying a licence the police recognise, or without the registration papers for the bike. Prevention: sort your licence route before renting, and ask at handover which registration papers travel with the bike (the original or a certified copy). Police can hold a bike whose papers cannot be produced.
 
-Which licences count depends on where yours was issued, and [the licence routes for foreign riders]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) set out what each one needs. Holding is temporary custody while a violation is settled, not a fine and not confiscation, and the rules attach it to listed violations only. A rider who cannot produce licence or registration papers on the spot can have the bike held until they are produced and the fine is settled, as [the impound guide]({{ '/articles/police-impound-motorbike-vietnam/' | relative_url }}) explains.
+Which licences count depends on where yours was issued. Holding is temporary custody while a violation is settled, not a fine and not confiscation, and the rules attach it to listed violations only. A rider who cannot produce licence or registration papers on the spot can have the bike held while the case is processed, as [the impound guide]({{ '/articles/police-impound-motorbike-vietnam/' | relative_url }}) explains.
 
-Whether the registration certificate travels with the bike or stays with the shop is something to ask at handover. If it stays, release of a held bike normally runs through the owner or an authorised person, so keep the shop's phone number on you: the same guide advises foreign riders stopped in Hanoi to do so.
+If the papers stay with the shop, release of a held bike normally runs through the owner or an authorised person, so keep the shop's phone number on you: the same guide advises foreign riders stopped in Hanoi to do so.
 
 ## The habit that prevents most of it
 
