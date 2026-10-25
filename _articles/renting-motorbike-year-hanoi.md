@@ -27,7 +27,7 @@ The short answer for anyone looking at year-long motorbike rental in Hanoi: Nguy
 
 Longer-term arrangements beyond the published monthly rates are negotiable with the customer — contact us to discuss longer-term rental for your dates and expected usage. A year-scale agreement is built on the monthly product ([Monthly Motorbike Rental in Hanoi: How It Works]({{ '/articles/monthly-motorbike-rental-hanoi/' | relative_url }})) but typically takes one of two shapes: a fixed-term arrangement agreed once for the whole year, or a rolling month-to-month renewal held open all year. The rolling version is the flexible one; the fixed-term version is the one to negotiate carefully — early ending carries no automatic refund entitlement ([Shortening a Long Motorbike Rental in Hanoi]({{ '/articles/shortening-long-motorbike-rental-hanoi/' | relative_url }})).
 
-Over twelve months the two shapes differ in where the negotiation happens. A rolling arrangement has a renewal point each month, the moment to ask for the rate and the bike's availability to be confirmed again; a fixed term is one negotiation and one exit clause.
+Over twelve months the two shapes differ in where the negotiation happens. A rolling arrangement is renegotiated at every renewal; a fixed term is one negotiation and one exit clause.
 
 Neither shape comes off a price list, because the published rates stop at the month. [Motorbike Rental Monthly Prices in Hanoi]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }}) lists the models that have a published monthly rate; for a model or term not listed there, contact us to confirm the current price and availability. Do not work out a year-long price by multiplying a monthly figure: longer terms are agreed with the shop, so ask for the year's figure directly and keep the reply in your message thread.
 
@@ -37,7 +37,7 @@ Twelve months is one point on a scale, and the neighbouring lengths have guides 
 
 - Up to about three months: [Three-Month Motorbike Rental in Hanoi]({{ '/articles/three-month-motorbike-rental-hanoi/' | relative_url }}) is the closer match.
 - Around six months: the [six-month rental guide]({{ '/articles/renting-motorbike-six-months-hanoi/' | relative_url }}) fits better.
-- End date still uncertain: stay on the rolling pattern, and treat each renewal point as the moment to decide whether to continue.
+- End date still uncertain: ask whether the shop will agree rolling renewals, and treat each renewal point as the moment to decide.
 
 ## What a year of riding changes
 
@@ -52,7 +52,7 @@ At a year, run the honest rent-versus-buy comparison: [Long-Term Renting vs Buyi
 
 ### Questions that frame the comparison
 
-A year is also close to the point where buying gets a fair hearing, so test the choice against your own situation.
+Test the choice against your own situation.
 
 - How long will you really stay? A firm end date favours renting; an open-ended stay is where owning gets a fair hearing.
 - What would a bike cost you? Take a current quote or listing rather than a rule of thumb, and set it against the year-long price once the shop has given you one in writing.
@@ -81,7 +81,7 @@ Riding for a year is a different position from riding for a week. [How Foreigner
 
 Under Article 24 of Circular 12/2025/TT-BCA, a foreigner who lives, works or studies in Vietnam and holds a national driving licence that is still valid can be considered for an exchange into the corresponding Vietnamese licence class. The foreigner must also hold one of the residence papers named in Article 24, such as a temporary or permanent residence card, with a duration of three months or more. The exchange guide adds that an International Driving Permit cannot be exchanged, that a licence covering only cars does not convert into motorbike categories, and that applications go to the Traffic Police Department or a commune-level police point that accepts them.
 
-The practical points are separate from the law. Start gathering the dossier early, including the application form, the certified translation, a copy of the residence card and a health certificate where one is required. Put every expiry date in one list, and work back from the date your current permission to ride ends.
+The practical points are separate from the law. Start gathering the dossier early, including the application form, the certified translation, a certified copy of the residence card and a health certificate where one is required. Check that the residence card itself runs long enough for the exchange route before an application starts. Put every expiry date in one list, and work back from the date your current permission to ride ends.
 
 ### Insurance
 
@@ -99,23 +99,7 @@ A twelve-month term means riding through every season the city has, whichever mo
 
 ### Tet and the holiday weeks
 
-Tet comes once a year and its date moves with the lunar calendar, so a year-long term will normally include one holiday period. Nguyen Tu's normal hours are 09:00–21:00 daily, but the arrangements for the holiday itself should be confirmed directly with the shop. Check three dates against the holiday: a renewal date, a maintenance visit and the end of the term. [Renting a Motorbike in Hanoi During Tet and Holidays]({{ '/articles/renting-motorbike-hanoi-tet-holidays/' | relative_url }}) explains how to confirm opening and return arrangements.
-
-## A planning calendar for the year
-
-A year has no fixed calendar of its own, so build one from the dates you already hold and work backwards from each. Keep the list with the agreement and the messages that confirm it.
-
-**End of the term.** The renew, return or buy decision, using the comparison above, with any renewal terms confirmed in writing before the date arrives.
-
-**Licence expiry.** Whether your permission to ride covers the whole term. If it does not, [what to do when a licence or visa expires mid-rental]({{ '/articles/licence-expiry-during-long-rental-hanoi/' | relative_url }}) sets out the order of work.
-
-**Residence card expiry.** The duration of the residence papers you hold, set against the exchange route above, before an application starts.
-
-**Insurance renewal.** A renewal date that falls inside the term, with the policy's term matching the rental's.
-
-**Tet.** The coming holiday dates, held against every other date here: a renewal, an expiry or a payment that falls in the holiday weeks is better handled before them than during them.
-
-**Odometer.** The reading against the ~1,500 km guidance for a periodic check, which is practical owner guidance and not a manufacturer interval. A daily commuter reaches it sooner than a weekend rider, so count in kilometres rather than months.
+Tet comes once a year and its date moves with the lunar calendar, so a year-long term will normally include one holiday period. Nguyen Tu's normal hours are 09:00–21:00 daily, but the arrangements for the holiday itself should be confirmed directly with the shop. Check four dates against the holiday: a renewal date, a payment, a maintenance visit and the end of the term. [Renting a Motorbike in Hanoi During Tet and Holidays]({{ '/articles/renting-motorbike-hanoi-tet-holidays/' | relative_url }}) explains how to confirm opening and return arrangements.
 
 ## Protecting a year-long relationship
 
