@@ -20,6 +20,7 @@ sources:
   - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23) — overall width and weight of the Yamaha Sirius RC 110 and Honda Air Blade 125, the brake layout of the Sirius RC 110 and the Wave Alpha 110, and the published widths of the Yamaha NMAX 155 and Honda CT125"
   - "https://www.honda.com.vn/xe-may/san-pham/vision — Honda Vietnam: Vision detail page — kerb weight 97 kg, overall width 686 mm, the always-lit headlight and the idling-stop system the page describes (retrieved 2026-10-25)"
   - "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110 — Honda Vietnam: Wave Alpha 110 detail page — kerb weight 96 kg, overall width 689 mm and the always-lit headlight the page describes (retrieved 2026-10-25)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 34(1)(g), 59(1)(a) and 13: moped definition, minimum age, lane use (retrieved 2026-10-25)"
 internal_link_targets: "best-scooters-to-rent-hanoi, automatic-vs-manual-motorbike-hanoi, best-motorbike-for-commuting-hanoi, easiest-motorbikes-for-beginners-hanoi, motorbike-lane-rules-vietnam, best-110cc-underbones-vietnam-verified, electric-vs-petrol-motorbike-hanoi, electric-motorbike-commuting-hanoi, scooter-vs-semi-automatic-hanoi, rental-motorbike-inspection-checklist"
 ---
 
@@ -35,7 +36,7 @@ The best motorbike for Hanoi traffic is therefore a light automatic scooter of t
 - Good brakes and horn: stopping hard once a day and being heard constantly are both survival features.
 - Storage: under-seat space swallows a helmet, a rain jacket and shopping - one less thing to juggle at every stop.
 
-Those five points are the criteria, plus mirrors and visibility, which decide how much of the traffic you see and how much of it sees you. The table pairs each with a handover test, and the sections after it give the reasoning and the published figures.
+The table pairs the characteristics a handover can test with a check; transmission and storage follow from the class you choose.
 
 | Characteristic | Why it matters | Handover test |
 |---|---|---|
@@ -56,11 +57,11 @@ The gearbox choice has its own guides, so it is not repeated here: [the scooter 
 
 Big engine sizes add nothing when the traffic is this slow. Manual clutch bikes are work at rush hour. Wide bodywork scrapes things. Anything you would hate to drop at a standstill is the wrong tool.
 
-For scale on what "wide" means, the manufacturers publish 740 mm for the Yamaha NMAX 155 and 805 mm for the Honda CT125. That is 51 mm and 116 mm more than the widest of the four rental-class bikes in the next section, which is the kind of difference that does change which gap a bike fits.
+For scale on what "wide" means, the manufacturers publish 740 mm for the Yamaha NMAX 155 and 805 mm for the Honda CT125. That is 51 mm and 116 mm more than the widest of the four rental-class bikes in the next section. Wider bodywork leaves fewer gaps to use, but no spec sheet says which.
 
 ## What the published sizes show
 
-Honda Vietnam and Yamaha Motor Vietnam publish widths and weights for four of the six bikes with a published day rate. A dash means this guide quotes no manufacturer figure for that bike, not that it lacks the feature.
+Honda Vietnam and Yamaha Motor Vietnam publish widths and weights for four of the six bikes with a published day rate. A dash means this guide quotes no manufacturer figure for that bike, not that the bike has no such measurement.
 
 | Bike | Overall width | Weight |
 |---|---|---|
@@ -75,15 +76,15 @@ Each row describes the version named in it. The Air Blade is also sold as a 160,
 
 ### Width
 
-Width sets what fits, and the published widths barely separate the bikes a rider is likely to be handed. The Vision, Air Blade and Wave Alpha sit within 3 mm of each other, which is nothing you will feel on the road. The Sirius is the only one clearly slimmer, by 21 to 24 mm, and even that is small beside a bag on the hook, an elbow held out or a passenger's knees. Use width to rule out wide bikes, not to choose between small ones. No width is quoted here for the Click or Mio, so compare them by sitting on them.
+Width sets what fits, and the published widths barely separate the bikes a rider is likely to be handed. The Vision, Air Blade and Wave Alpha sit within 3 mm of each other, which is nothing you will feel on the road. The Sirius is the only one measurably slimmer, by 21 to 24 mm, and even that is small beside a bag on the hook, an elbow held out or a passenger's knees. Use width to rule out wide bikes, not to choose between small ones. No width is quoted here for the Click or Mio, so compare them by sitting on them.
 
 Width answers what fits, not what is allowed. No Vietnamese legal text names lane splitting or filtering, so it is neither expressly permitted nor expressly banned, while Article 13 of Law 36/2024/QH15 still requires a vehicle to travel within a single lane. [The lane splitting guide]({{ '/articles/lane-splitting-legal-vietnam/' | relative_url }}) sets out how those rules apply, so a narrow bike is not by itself a reason to use every gap you see.
 
 ### Weight
 
-You hold the bike up at every light, steady it on wet paint and push it out of a parking row. On the published figures the Wave Alpha 110 (96 kg), the Vision (97 kg) and the Sirius RC 110 (100 kg wet) are a tie. The Air Blade 125 at 110 kg is 13 kg heavier than the Vision, and that is the gap a smaller or lighter rider will notice. It is a reason to weigh the bigger scooter against what you really carry, and [the commuting guide]({{ '/articles/best-motorbike-for-commuting-hanoi/' | relative_url }}) covers storage and the other checks for a daily route.
+You hold the bike up at every light. On the published figures the Wave Alpha 110 (96 kg), the Vision (97 kg) and the Sirius RC 110 (100 kg wet) are a tie. The Air Blade 125 at 110 kg is 13 kg heavier than the Vision, which is a reason to weigh the bigger scooter against what you really carry. [The commuting guide]({{ '/articles/best-motorbike-for-commuting-hanoi/' | relative_url }}) covers storage and the other checks for a daily route.
 
-At handover, take the bike off its stand, roll it backwards a few metres on level ground and hold it upright with both feet down, as you will at a red light. The stand should spring clear without a fight. If you cannot manage the bike comfortably at a standstill, ask for another one: reach and seat fit are the subject of [the guide for tall riders]({{ '/articles/best-motorbikes-for-tall-riders-vietnam/' | relative_url }}).
+If you cannot hold it upright comfortably at a standstill, ask for another bike.
 
 ## Low-speed control, brakes and visibility
 
@@ -97,7 +98,7 @@ Honda's Vision page describes an idling-stop system that cuts the engine at a st
 
 ### Brakes
 
-In traffic you brake for gaps that close, so what counts is that both brakes bite smoothly and that you know which lever or pedal does what. The published picture is thin. Honda's page for the Wave Alpha 110 lists no disc version. Yamaha lists the Sirius RC 110 with a front hydraulic disc and a rear drum and notes that drum and disc versions exist. This guide quotes no brake figure for the Vision, Air Blade, Click or Mio and no ABS fitting for any of the six, so treat the braking of the exact bike as a question, not an assumption.
+In traffic you brake for gaps that close, so what counts is that both brakes bite smoothly and that you know which lever or pedal does what. The published picture is thin, so treat the braking of the exact bike as a question, not an assumption.
 
 Three questions cover it. Which brakes does the bike have at the front and the rear? Does one lever work both wheels, as it does on some scooters with a combined system? Does it have ABS? [The guide to scooters with ABS]({{ '/articles/which-scooters-have-abs-vietnam/' | relative_url }}) shows that ABS can be a version option rather than a feature of a whole model, so do not read it into a model name. Drum or disc matters less than condition, and a worn brake of either kind is a reason to ask for another bike.
 
@@ -105,9 +106,9 @@ Test by rolling the bike on level ground and squeezing one brake at a time: the 
 
 ### Mirrors, lights and horn
 
-Set the mirrors sitting on the bike, in your normal riding position, before you move. Many mirrors are convex: they show a wide view but make traffic look smaller and farther away than it is. Treat the mirror as a warning that something is there and turn your head to see where. [The mirror setup guide]({{ '/articles/mirror-setup-motorbike-vietnam/' | relative_url }}) walks through the adjustment.
+Set the mirrors sitting on the bike, in your normal riding position, before you move. Convex mirrors show a wide view but make traffic look smaller and farther away than it is. Treat the mirror as a warning that something is there and turn your head to see where. [The mirror setup guide]({{ '/articles/mirror-setup-motorbike-vietnam/' | relative_url }}) walks through the adjustment.
 
-Check that both mirrors are present, adjustable, free of cracks and firm enough to hold their place when you tap them. Vietnam's equipment rules name a working left mirror among the things a motorbike needs, and [the required equipment guide]({{ '/articles/motorbike-required-equipment-vietnam/' | relative_url }}) lists the full set. If a mirror is loose or missing, ask for it to be fixed before you ride.
+Check that both mirrors are present, adjustable, free of cracks and firm enough to hold their place when you tap them. If a mirror is loose or missing, ask for it to be fixed before you ride.
 
 Visibility works in both directions. Honda's pages for the Vision and the Wave Alpha 110 both describe a headlight that stays lit whenever the bike is running, and both say it makes the bike easier to notice on the street. The Wave Alpha page adds that this holds in daylight. This guide quotes no such feature for the Sirius, Air Blade, Click or Mio, so look at the headlight when the engine starts.
 
@@ -117,7 +118,7 @@ Then press each brake control to check the brake light, test the indicators, and
 
 1. Mid-size automatic scooter (Vision/Click/Mio class) - the best all-round city tool.
 2. Semi-automatic underbone (Wave/Sirius class) - narrower and cheaper, one skill to learn.
-3. Licence-free 50 cc or e-bike - the legal answer for riders without a motorcycle licence, at lower speeds.
+3. Licence-free moped - the legal answer for riders without a motorcycle licence, at lower speeds. A moped has a design speed of no more than 50 km/h and a combustion engine of 50 cc or less or an electric motor of 4 kW or less (Article 34(1)(g), Law 36/2024/QH15); no licence is needed from age 16 (Article 59(1)(a)). Contact us to confirm current availability.
 4. Manual - only for riders who already ride manuals confidently.
 
 The list is ordered by rider type, not by a measured score, so read it as what suits whom rather than a league table. "Licence-free" also describes a legal class and not a size: [the 50cc myths guide]({{ '/articles/50cc-motorbike-myths-law-vietnam/' | relative_url }}) explains that the licence exemption is the only exemption, so the other traffic rules still apply, and that a pedal-type electric bicycle and a 50cc petrol bike are different legal classes.
@@ -129,12 +130,6 @@ For the verified data behind the underbone recommendation, see our 110 [cc under
 
 Electric riders should also read [Electric vs Petrol Motorbike in Hanoi: Running Costs, Noise and Convenience]({{ '/articles/electric-vs-petrol-motorbike-hanoi/' | relative_url }}) and [Commuting on an Electric Motorbike in Hanoi: A Practical Guide]({{ '/articles/electric-motorbike-commuting-hanoi/' | relative_url }}) for the format-specific view of the same traffic.
 
-## What the bike cannot fix
-
-A well-chosen bike removes friction: fewer things to fumble at a stop, a clearer view behind you, a brake you trust. It does not change how Hanoi traffic works, and the way you ride matters more than the way the bike is built. Smooth, predictable riding, early signals and calm at junctions are what the flow rewards, whatever you are on.
-
-Rain changes the road more than any bike feature does. Painted lines and metal covers are slick when wet, so brake earlier and more gently, and wait out a heavy shower if you can.
-
 ## Published costs and paperwork
 
 The published day rates follow the model, not the width or the weight. The Honda Wave, Yamaha Sirius, Honda Click and Yamaha Mio are published at 150,000 VND per day, and the Honda Vision and Honda Air Blade at 200,000 VND per day, so the two lightest bikes in the size table sit at different rates. For other rental periods and for 50cc bikes and E-Bikes, use [the rental price guide]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}), and do not infer one model's price from another's.
@@ -142,14 +137,6 @@ The published day rates follow the model, not the width or the weight. The Honda
 A deposit is typically 2,000,000-5,000,000 VND depending on vehicle and conditions. Nguyen Tu does not provide motorbike insurance, so arrange your own before you ride.
 
 ## Common questions
-
-### Do I need a big engine to keep up with Hanoi traffic?
-
-No. In slow, dense traffic what you use is control, not power, and a larger bike adds weight and width without adding a gap to use.
-
-### Is a narrow bike allowed to ride between the cars?
-
-Narrow means it fits, not that it is allowed. Lane splitting is neither expressly permitted nor expressly banned in Vietnamese law, and the lane rules in Article 13 of Law 36/2024/QH15 still apply, as the lane splitting guide above sets out.
 
 ### Do the rental bikes have ABS?
 
