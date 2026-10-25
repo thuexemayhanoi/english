@@ -39,13 +39,13 @@ Both slips are cheap to avoid while the bike is parked: touch each control, say 
 
 ## The scooter (Honda Vision, Click, Yamaha Mio, Air Blade)
 
-Automatic, step-through, under-seat storage. The pros: zero learning curve on the transmission, best-in-class storage (helmet, jacket, groceries), the roomiest option for carrying a passenger, and the easiest machine for a first-time rider in Vietnamese traffic. The cons: wider than the Sirius in the tightest alleys, though not wider than the Wave Alpha, slightly higher day rates on some models (150,000-200,000 VND), and more plastic bodywork to damage in a drop.
+Automatic, step-through, under-seat storage. The pros: zero learning curve on the transmission, best-in-class storage (helmet, jacket, groceries), the roomiest option for carrying a passenger, and the easiest machine for a first-time rider in Vietnamese traffic. The cons: the Vision (686 mm) and Air Blade 125 (687 mm) are wider than the Sirius in the tightest alleys, though not wider than the Wave Alpha, slightly higher day rates on some models (150,000-200,000 VND), and more plastic bodywork to damage in a drop.
 
 Honda Vietnam lists the Vision as an automatic (CVT) of 109.5 cc weighing 97 kg, with an 80/90-16 front tyre and a 90/90-14 rear, and the Air Blade 125 as an automatic (CVT) of 125 cc weighing 110 kg. This guide quotes no manufacturer figures for the Click or the Mio, so it makes no claim about their engines, weight or storage.
 
 ## The semi-automatic underbone (Honda Wave, Yamaha Sirius)
 
-Foot-shifted gears, no hand clutch. The pros: machines that feel light and narrow (the Sirius, at 665 mm, is the narrowest model quoted here) - the alleys and the crowds of the Old Quarter are their natural habitat; the lowest published rates (150,000 VND per day); the biggest wheels of the small classes, which handle potholes and rough provincial roads better than scooter wheels; and simple air-cooled single-cylinder engines that a general mechanic is likely to know. The cons: the foot-shift is a real learning curve for total beginners; storage means a rack bag; and two-up comfort is worse.
+Foot-shifted gears, no hand clutch. The pros: machines that feel light and narrow (the Sirius, at 665 mm, is the narrowest model quoted here) - the alleys and the crowds of the Old Quarter are their natural habitat; rates at the lowest published level (150,000 VND per day, shared with the Click and Mio); the biggest wheels of the small classes, which handle potholes and rough provincial roads better than scooter wheels; and simple air-cooled single-cylinder engines that a general mechanic is likely to know. The cons: the foot-shift is a real learning curve for total beginners; storage means a rack bag; and two-up comfort is worse.
 
 Three of those claims need a note from the published figures. Lightness is a matter of feel more than kilograms: Honda lists the Wave Alpha 110 at 96 kg and Yamaha lists the Sirius RC 110 at 100 kg wet, against 97 kg for the Vision, a gap too small to separate the types.
 
