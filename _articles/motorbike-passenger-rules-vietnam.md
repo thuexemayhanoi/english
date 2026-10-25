@@ -29,7 +29,7 @@ One rider, one passenger. That is the default rule for motorbikes in Vietnam, an
 
 ## The default and the exceptions
 
-A motorbike of the standard two-wheel type may carry one person besides the rider. Carrying two passengers — three people on the bike in total — is allowed only in specific situations the law lists: transporting a sick person for medical treatment, a child under 14 travelling with an adult, a frail, elderly or disabled person, or escorting a person who has committed a legal violation. Outside those cases, a second passenger is a violation, and a third is a more serious one that also deducts licence points.
+A motorbike of the standard two-wheel type may carry one person besides the rider. Carrying two passengers — three people on the bike in total — is allowed only in specific situations the law lists: transporting a sick person for medical treatment, a child under 12, a frail, elderly or disabled person, or escorting a person who has committed a legal violation. Outside those cases, a second passenger is a violation, and a third is a more serious one that also deducts licence points.
 
 The exceptions are humanitarian and practical, not a loophole for group travel. Two friends on a delivery run do not qualify; a parent taking a child to school does.
 
@@ -43,6 +43,6 @@ Carrying one passenger where the situation does not qualify is [fined 400,000–
 
 ## Riding pillion in Hanoi
 
-For visitors, the rule has practical weight. A couple renting one scooter is legal — rider plus one passenger, both helmeted. A group of three on one bike is not, no matter how short the trip to the Old Quarter. If a rental shop's bike is used to ferry a child, the under-14 exception covers a second passenger, but the child still needs a proper helmet.
+For visitors, the rule has practical weight. A couple renting one scooter is legal — rider plus one passenger, both helmeted. A group of three on one bike is not, no matter how short the trip to the Old Quarter. If a rental shop's bike is used to ferry a child, the under-12 exception covers a second passenger, but the child still needs a proper helmet.
 
 *Information, not legal advice. Verified against Law 36/2024/QH15 and Decree 168/2024/NĐ-CP on 2026-09-22.*

@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-  - "docs/MODEL-DATABASE.md - Honda Vision and Honda Air Blade 125 rows, read from honda.com.vn model pages (retrieved 2026-09-23)"
+  - "Manufacturer official pages: honda.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23) — engine, weight and storage of the Honda Vision and Honda Air Blade 125"
 internal_link_targets: "best-motorbike-for-hanoi-traffic, automatic-vs-manual-motorbike-hanoi, motorbike-rental-price-hanoi, best-motorbike-for-two-people-hanoi, easiest-motorbikes-for-beginners-hanoi, honda-vision-110-review, honda-vs-yamaha-scooters-vietnam, honda-air-blade-125-review, rental-motorbike-inspection-checklist"
 ---
 
@@ -49,9 +49,9 @@ The Air Blade is on the published list at 200,000 VND per day, the same daily ra
 
 Honda sells the Air Blade as a 125 and as a 160, and the published rate does not name a version. The verified figures here are for the 125, so ask which version a given bike is: the licence class follows engine capacity, as the licence check below explains. The [Air Blade 125 review]({{ '/articles/honda-air-blade-125-review/' | relative_url }}) covers the model in detail, and the [Vision versus Air Blade comparison]({{ '/articles/honda-vision-vs-honda-air-blade/' | relative_url }}) weighs the entry scooter against the step up.
 
-## Honda Click - the sportier sibling
+## Honda Click - the value pick
 
-This guide quotes no manufacturer figures for the Click, so judge its seat and feel in person. Published rates undercut the Vision: 150,000 VND per day, 600,000-700,000 VND per week, 1,000,000-1,200,000 VND per month. A Click is the value pick when the budget matters and the riding is city-only.
+The Click is the lower-priced automatic alternative to the Vision. Published rates undercut the Vision: 150,000 VND per day, 600,000-700,000 VND per week, 1,000,000-1,200,000 VND per month. A Click is the value pick when the budget matters and the riding is city-only.
 
 ## Yamaha Mio - the light alternative
 
@@ -61,7 +61,7 @@ The Click and Mio share a published daily rate, so price does not separate them.
 
 ## How to choose between them
 
-- Seat height and fit matter more than spec sheets - sit on all three; the one that lets both feet nearly flat is the one. Add the Air Blade to that test if it is offered.
+- Seat height and fit matter more than spec sheets - sit on all three; the one that lets both feet nearly flat is the one. The three are the Vision, Click and Mio; add the Air Blade if you are weighing the step up.
 - The A1 licence guide lists all four among the 110-125 cc scooters and underbones: enough for Hanoi, enough for day trips, not tourers.
 - Ask what the shop's maintenance covers. It may include an oil change, tyre-pressure checks and a normal inspection, while consumables such as tyres and inner tubes may be the renter's responsibility depending on the situation.
 - Rate differences are small but real on long rentals: a month on a Click/Mio versus a Vision differs by several hundred thousand dong.
@@ -76,7 +76,7 @@ A smaller or newer rider feels that weight most when walking and parking the sco
 
 Of the four, the Air Blade 125 is the only one with a published underseat figure in this guide: 23.2 L, which Honda words as two half-helmets. A full-face helmet or a bulkier bag needs testing even there, and for the Vision, Click and Mio the only answer is to try the bay with your own helmet and day bag.
 
-Passengers are a legal question before they are a mechanical one. A motorbike may carry one passenger besides the rider, and everyone on board must wear a fastened, compliant helmet, with narrow exemptions (Article 33 of Law 36/2024/QH15, as the [passenger rules guide]({{ '/articles/motorbike-passenger-rules-vietnam/' | relative_url }}) sets out). A couple on one scooter is lawful; three people on one bike is not, outside the cases the law lists. For two adults, the Air Blade's larger engine class makes it the more natural choice, though with no load figure for either scooter, any scooter you pick should be tried with both people on board before you commit.
+Passengers are a legal question before they are a mechanical one. A motorbike may carry one passenger besides the rider, and everyone on board must wear a fastened, compliant helmet (Article 33 of Law 36/2024/QH15), with narrow exemptions that the [passenger rules guide]({{ '/articles/motorbike-passenger-rules-vietnam/' | relative_url }}) sets out. A couple on one scooter is lawful; three people on one bike is not, outside the cases the law lists. For two adults, the Air Blade's larger engine class makes it the more natural choice, though no load figure is published here for any of them, so ask to try it with both people on board before you commit.
 
 ### Your route
 
@@ -87,7 +87,7 @@ Narrow lanes and constant parking favour the Vision, and the [Old Quarter riding
 | If you are... | Start with | Why |
 |---|---|---|
 | New to scooters, or on the smaller side | Honda Vision | Easier to walk and park, with a 16-inch front wheel |
-| Carrying a passenger or luggage regularly | Honda Air Blade | A 125 cc engine and a published underseat bay |
+| Carrying a passenger or luggage regularly | Honda Air Blade 125 | A 125 cc engine and a published underseat bay |
 | Watching the daily rate on short city hops | Honda Click or Yamaha Mio | A published rate of 150,000 VND per day |
 | Choosing without a strong preference | Honda Vision | The lighter of the two with a published weight, at the same daily rate as the Air Blade |
 
@@ -143,11 +143,11 @@ Published daily rates are 200,000 VND for the Honda Vision and Honda Air Blade, 
 
 ### Do I need a licence to rent a scooter in Hanoi?
 
-Yes. All four are above 50 cc, so a licence Vietnam recognises is needed to ride them. A new A1 stops at 125 cc, and a foreign visitor needs a home licence with an International Driving Permit that covers motorcycles; the licence section above gives the article numbers.
+Yes. All four are above 50 cc, so a licence Vietnam recognises is needed to ride them. A new A1 stops at 125 cc, and a foreign visitor generally needs a home motorcycle licence plus a 1968-convention International Driving Permit; the [guide for foreign renters]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) sets out the routes.
 
 ### Can two people ride one rental scooter?
 
-Vietnamese law allows it for a couple: one passenger besides the rider is permitted, and both people need a fastened helmet, with narrow exemptions. A third person is allowed only in the narrow cases the law lists, such as a child under 14 travelling with an adult.
+Vietnamese law allows it for a couple: one passenger besides the rider is permitted, and both people need a fastened helmet, with narrow exemptions. A third person is allowed only in the narrow cases the law lists, such as taking a sick person for emergency treatment.
 
 ### What is the difference between the Honda Vision and the Honda Air Blade?
 
