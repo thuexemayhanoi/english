@@ -21,13 +21,13 @@ sources:
 internal_link_targets: "how-to-rent-a-motorbike-hanoi, motorbike-rental-deposit-hanoi, how-deposit-returns-work-hanoi, motorbike-rental-fuel-policy-hanoi, motorbike-required-equipment-vietnam, returning-a-rental-motorbike-hanoi, manual-motorbike-rental-checklist-hanoi"
 ---
 
-The inspection you do at handover is the evidence that decides any deposit disagreement later. Walk through this list every time - none of it needs tools or mechanical skill. This rental motorbike inspection checklist runs in one order: whole-bike photographs first (see Body and photos), then lights, brakes, controls, tyres and chain, fuel, plates and papers, and a clear rule for when to ask for a different bike.
+The inspection you do at handover is the evidence that decides any deposit disagreement later. Walk through this list every time - none of it needs tools or mechanical skill. This rental motorbike inspection checklist runs in one order: whole-bike photographs first (details under Body and photos), then lights, brakes, controls, tyres and chain, fuel, plates and papers, and a clear rule for when to ask for a different bike.
 
 ## Before you pick up the keys
 
 Do the walk-round before you pay and before you sign, with whoever hands over the bike still there. The shop's published hours run from 09:00 to 21:00, so a handover late in the day may be after dark: ask for a well-lit spot, and keep your phone torch for the tyres and the underside. The [step-by-step rental guide]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}) puts this inspection at step five of six.
 
-Have three things ready: a charged phone with room for photographs and a short video; the licence you will ride on, with your permit if you ride on a foreign licence; and your questions about the fuel level to return with and who pays if a tyre is punctured. A queue, a waiting friend or a flight to catch is no reason to shorten the checks.
+Have three things ready: a charged phone with room for photographs and a short video; the licence you will ride on, with your permit if you ride on a foreign licence; and your questions about the fuel level to return with and who pays if a tyre is punctured.
 
 Take the whole-bike photographs first, before you touch anything, so they show the bike as it was handed over. Then work round the bike in one direction, starting at the back, and use the same path at the return so that your checks and your photographs line up.
 
@@ -37,7 +37,7 @@ Take the whole-bike photographs first, before you touch anything, so they show t
 - Brake light - check with both levers.
 - Turn signals front and rear.
 - Horn - in Hanoi traffic the horn is communication, not aggression.
-- Number plate light - it is on the list of required equipment below, so check that it works too.
+- Number plate light - on the required-equipment list below, so check it too.
 
 Start the engine before you test any of them. It should start without coaxing and idle without cutting out, and a warning symbol on the dashboard that stays lit is a question for the shop before you leave.
 
@@ -73,8 +73,8 @@ Chain on manual and semi-automatic bikes: not rusted stiff, and neither hanging 
 ## Fuel, plates and papers
 
 - Note the fuel level and agree the return level - the [fuel-policy article]({{ '/articles/motorbike-rental-fuel-policy-hanoi/' | relative_url }}) explains the two conventions.
-- Number plate fitted and clean - riding without plates is a serious violation. Compare the characters with the registration certificate: they should be readable and match. The [number plates guide]({{ '/articles/riding-without-number-plates-vietnam/' | relative_url }}) sets out the offence.
-- Registration certificate with the bike: ask to see it, or a certified copy, before you ride.
+- Number plate fitted and clean - riding without plates is a serious violation. If you are shown the registration papers, compare the characters with them: they should be readable and match. The [number plates guide]({{ '/articles/riding-without-number-plates-vietnam/' | relative_url }}) sets out the offence.
+- Registration papers: ask at handover which ones travel with the bike (the original or a certified copy). If they stay at the shop, keep the shop's number for a police stop; the guide to [police holding a motorbike]({{ '/articles/police-impound-motorbike-vietnam/' | relative_url }}) covers what can happen when papers cannot be produced.
 
 Nguyen Tu does not provide motorbike insurance, so do not expect an insurance certificate to come with the bike: customers arrange their own cover before they ride. The [documents guide]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) sets out the papers the law expects a rider to carry.
 
@@ -114,7 +114,7 @@ The walk-round is the same for every bike, and a few checks shift with the type.
 | Yamaha Sirius | Drum and disc versions exist, and Yamaha's page for the RC lists a front disc, a rear drum and tyres with inner tubes | Judge the brakes against that bike's own type |
 | Honda Vision, Honda Air Blade | Honda lists an automatic (CVT) transmission for both: twist and go, so no gear change | Test the throttle return and both brake levers; the chain check is for semi-automatic and manual bikes |
 | Honda Air Blade | Honda's pages for the Air Blade 125 and 160 both list a coolant temperature warning | Watch for it on the dashboard after starting |
-| Honda Click, Yamaha Mio | This guide quotes no manufacturer figures for these two models | Ask the shop what type of bike it is and which checks apply; do not assume from the name |
+| Honda Click, Yamaha Mio | This guide quotes no manufacturer figures for these two models | Ask the shop what type of bike it is; do not assume from the name |
 
 ## The checklist on one screen
 
@@ -122,7 +122,7 @@ Screenshot or print this table. The right-hand column says what to do when a che
 
 | Check | What normal looks like | If it is not |
 |---|---|---|
-| Registration certificate | With the bike; plate readable and matching it | Stop: ask to see it before you ride |
+| Registration papers | Asked which travel with the bike; the plate matches any you see | Note it: if they stay at the shop, keep its number for a police stop |
 | Headlight, low and high beam | Both light up with the engine running | Fix first |
 | Brake light, indicators, horn | Brake light comes on with every brake control; indicators flash; horn sounds | Fix first |
 | Front and rear brakes | Firm lever or pedal; the wheel stops; the bike stops straight | Stop |
@@ -170,8 +170,8 @@ No test-ride policy is published, so ask. A test ride on a public road is riding
 
 ### Do I repeat the checks when the bike is delivered?
 
-Yes. Delivery in Hanoi may be available depending on location and arrangement, and if you arrange it the checks stay the same: only the place where you make them differs. Do the full walk-round wherever you take the bike, in good light, before you sign and while whoever hands it over is still there. [Step 5 of the rental guide]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}) gives the order to follow, and [shop pickup versus delivery]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) compares the two routes.
+Yes. Delivery in Hanoi may be available depending on location and arrangement; if you arrange it, only the place changes, not the checks. Do the full walk-round wherever you take the bike, in good light, before you sign and while whoever hands it over is still there. [Step 5 of the rental guide]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}) gives the order, and [shop pickup versus delivery]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) compares the two routes.
 
 ### Is the checklist different for a rental of several months?
 
-The walk-round is the same, but the photographs matter more because they are the baseline for the whole term. The guides for [three months]({{ '/articles/three-month-motorbike-rental-hanoi/' | relative_url }}) and [six months or longer]({{ '/articles/renting-motorbike-six-months-hanoi/' | relative_url }}) cover the terms of a long rental, and [the weekly check routine for a monthly rental]({{ '/articles/monthly-rental-inspection-schedule-hanoi/' | relative_url }}) covers keeping an eye on the bike afterwards.
+The walk-round is the same, but the photographs matter more because they are the baseline for the whole term. The guide for [three months]({{ '/articles/three-month-motorbike-rental-hanoi/' | relative_url }}) covers the terms of a long rental, and [the weekly check routine for a monthly rental]({{ '/articles/monthly-rental-inspection-schedule-hanoi/' | relative_url }}) covers keeping an eye on the bike afterwards.
