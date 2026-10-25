@@ -5,9 +5,44 @@
     "P0": 0,
     "P1": 0,
     "P2": 0,
-    "P3": 1
+    "P3": 6
   },
   "findings": [
+    {
+      "severity": "P3",
+      "file": "_articles/best-bike-for-hanoi-old-quarter.md",
+      "url": "/articles/best-bike-for-hanoi-old-quarter/",
+      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
+      "fix": "Record it after its batch passes QA"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/motorbike-delivery-long-bien.md",
+      "url": "/articles/motorbike-delivery-long-bien/",
+      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
+      "fix": "Record it after its batch passes QA"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/renting-motorbike-tay-ho.md",
+      "url": "/articles/renting-motorbike-tay-ho/",
+      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
+      "fix": "Record it after its batch passes QA"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/renting-50cc-hanoi.md",
+      "url": "/articles/renting-50cc-hanoi/",
+      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
+      "fix": "Record it after its batch passes QA"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/honda-vision-vs-yamaha-janus.md",
+      "url": "/articles/honda-vision-vs-yamaha-janus/",
+      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
+      "fix": "Record it after its batch passes QA"
+    },
     {
       "severity": "P3",
       "file": "docs/seo/package2-baseline.json",

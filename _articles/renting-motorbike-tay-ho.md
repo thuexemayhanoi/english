@@ -17,9 +17,8 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-  - "https://en.wikipedia.org/wiki/West_Lake_(Hanoi) — West Lake (Hanoi), Wikipedia — 17 km shore length and 500 hectare area, most of the lake in Tay Ho District, Thanh Nien road dividing off Truc Bach Lake, lake formed from a curved part of the Red River, Tran Quoc Pagoda on a small island (retrieved 2026-10-25)"
-  - "https://en.wikipedia.org/wiki/Nh%E1%BA%ADt_T%C3%A2n_Bridge — Nhat Tan Bridge, Wikipedia — inaugurated 4 January 2015, part of the six-lane highway to Noi Bai International Airport, 8.3 km total length including a 3.7 km bridge and a 1.5 km cable-stayed section, 33.2 m wide with separate lane groups (retrieved 2026-10-25)"
-  - "https://www.myhanoitours.com/nhat-tan-flower-village/ — Nhat Tan Flower Village, My Hanoi Tours — flower village on the edge of West Lake growing chrysanthemums, carnations and pink peach, peach blossom visited when the weather turns cool (retrieved 2026-10-25)"
+  - "https://en.wikipedia.org/wiki/West_Lake_(Hanoi) — West Lake (Hanoi), Wikipedia — 17 km shore length, Thanh Nien road dividing off Truc Bach Lake, Tran Quoc Pagoda on a small island (retrieved 2026-10-25)"
+  - "https://www.myhanoitours.com/nhat-tan-flower-village/ — Nhat Tan Flower Village, My Hanoi Tours — flower village on the edge of West Lake, peach blossom visited when the weather turns cool (retrieved 2026-10-25)"
 internal_link_targets: best-motorbike-for-expats-hanoi, best-motorbike-for-day-trips-from-hanoi, where-to-park-motorbike-hanoi, motorbike-rental-pickup-or-delivery-hanoi, riding-rental-motorbike-hanoi-rain, tay-ho-west-lake-area-guide-riders, west-lake-loop-motorbike-route, hanoi-2025-administrative-restructuring-riders, nhat-tan-flower-fields-motorbike-ride, rental-motorbike-inspection-checklist, motorbike-rental-price-hanoi
 ---
 
@@ -31,20 +30,24 @@ The riding here is easy; the rental logistics are the part worth deciding up fro
 
 | Your situation | Period to ask about | Handover to consider |
 |---|---|---|
-| A few days, mostly the lake and cafes | Daily | Shop pickup if you want a test ride; delivery if it can be arranged |
-| A week of work or exploring | Weekly (published for four models, see below) | Either; agree it when you book |
-| Living in Tay Ho for a month or more | Monthly | Pickup for the first handover, so you choose the exact bike, or delivery |
+| A few days, mostly the lake and cafes | Daily | Shop pickup, so the shop is present when you inspect the bike; or delivery if it can be arranged |
+| A week of work or exploring | Weekly (ask which models have a published weekly rate) | Either; agree it when you book |
+| Living in Tay Ho for a month or more | Monthly | Pickup for the first handover, or delivery |
 | Longer than a month | Negotiable: contact the shop | Agreed with the contract |
 
-Because the district is mostly residential, a stay here tends to run in weeks rather than days, which is why the period question matters more than it does in the Old Quarter. The break-even arithmetic is in [Daily, Weekly or Monthly Motorbike Rental in Hanoi: How to Choose]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}).
+If you live here, you will probably think in weeks or months rather than days, which is why the period question matters more than it does for a short stay in the Old Quarter. For the models that publish weekly and monthly rates, those rates work out lower per day than the daily rate, so a resident who rents day by day is paying for flexibility. The break-even logic is in [Daily, Weekly or Monthly Motorbike Rental in Hanoi: How to Choose]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}), and the figures are in [How Much Does It Cost to Rent a Motorbike in Hanoi?]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}).
+
+### Paperwork before the handover
+
+Whichever handover you choose, you will be asked for documents on the day, and it is easier to sort them out before you book than at the door. The guide to [what documents you need to rent a motorbike in Hanoi]({{ '/articles/documents-needed-rent-motorbike-hanoi/' | relative_url }}) covers what to have ready. If you are not sure that a visitor or resident may rent at all, start with [Can Foreigners Rent a Motorbike in Hanoi?]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}). For a stay of several months, the verified legal guide [Vietnam Motorbike Licence for Long-Term Expats]({{ '/articles/expat-motorbike-licence-vietnam/' | relative_url }}) sets out the exchange route, and it is worth reading before the first month rather than after it.
 
 ## Pickup or delivery: the shop is across the river
 
-Nguyen Tu's shop is at 112 Nguyen Van Cu Street, Bo De, Long Bien, open 09:00–21:00 daily. Long Bien lies on the other side of the Red River from Tay Ho, so collecting a bike is a river crossing and a real trip, not an errand. The shop's own area is described in [Renting a Motorbike in Long Bien: What to Know]({{ '/articles/renting-motorbike-long-bien/' | relative_url }}).
+Nguyen Tu's shop is at 112 Nguyen Van Cu Street, Bo De, Long Bien, open 09:00–21:00 daily. Long Bien lies on the other side of the Red River from Tay Ho, so collecting a bike is a river crossing and a real trip, not an errand.
 
 Pickup is the better choice when:
 
-- you want to inspect the bike and test-ride it around the block before committing;
+- you want to inspect the bike with the shop present, and to ask whether a short test ride is possible;
 - you are new to riding in Vietnam and prefer the first minutes with the shop still in sight;
 - the deposit and contract matter to you face to face.
 
@@ -54,13 +57,15 @@ Delivery suits you better when:
 - you are short of time on your first day;
 - you are renting monthly and the handover is a one-off event.
 
-A practical wrinkle: to pick a bike up you need a way to reach the shop, and if you are arriving without one, delivery removes that problem. The trade-offs in general are laid out in [Shop Pickup vs Delivery When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}).
+A practical wrinkle: to pick a bike up you need a way to reach the shop, and if you are arriving without one, delivery removes that problem.
 
 ### Delivery to a Tay Ho address
 
-Delivery or pickup in Hanoi may be available depending on location and arrangement. There is no published fixed delivery fee, no guaranteed delivery time, and no delivery outside the 09:00–21:00 hours. In plain terms: agree the cost before the bike moves, do not plan a day that depends on it arriving at an exact minute, and contact the shop to confirm that the model you want is available for your dates.
+Delivery or pickup in Hanoi may be available depending on location and arrangement. There is no published fixed delivery fee and no guaranteed delivery time. In plain terms: agree the cost before the bike moves, do not plan a day that depends on it arriving at an exact minute, and contact the shop to confirm that the model you want is available for your dates.
 
-Give the shop an address it can actually find. Much of the district is reached through lanes that branch off the main roads, so send the street name, the lane and building number, the gate or building name, and a map pin. Do not rely on the ward name: since the July 2025 restructuring, maps and messages use old and new administrative names unevenly, as explained in [Hanoi's 2025 Restructuring: What Changed for Riders and Addresses]({{ '/articles/hanoi-2025-administrative-restructuring-riders/' | relative_url }}). Locals still say "Tay Ho" for the area, which is fine in conversation but not enough for a courier.
+Give the shop an address it can actually find. Much of the district is reached through lanes that branch off the main roads, so send the street name, the lane and building number, the gate or building name, and a map pin.
+
+Do not rely on the ward name. Since the July 2025 restructuring, maps and messages use old and new administrative names unevenly, as explained in [Hanoi's 2025 Restructuring: What Changed for Riders and Addresses]({{ '/articles/hanoi-2025-administrative-restructuring-riders/' | relative_url }}). Locals still say "Tay Ho" for the area, which is fine in conversation but not enough for a courier.
 
 ### The handover at your door
 
@@ -73,13 +78,13 @@ Delivery changes where the inspection happens, not whether it happens. Before yo
 5. Confirm the deposit amount and how it is returned. The deposit is typically 2,000,000–5,000,000 VND depending on vehicle and conditions.
 6. Pay by an accepted method: cash, bank transfer or QR payment.
 
-Agree the return in the same breath. The bike can come back to the shop, or collection from your address can be arranged in advance in the same way as delivery.
+Agree the return in the same breath. The bike can go back to the shop, and you can ask the shop whether collection from your address can be arranged; like delivery, that may be available depending on location and arrangement.
 
 ## The lake loop
 
 The full circuit of West Lake is roughly 17 km of lakeside road, and it is the single best recreational ride inside the city: wide lanes, green water on one side, cafes and embassy walls on the other. The loop carries weekend brunch traffic and pelotons of road cyclists, so weekends after 09:00 mean sharing the lane generously. Morning and golden hour are the quiet windows. Halfway around, Tran Quoc pagoda on its island spit is the classic stop — parking is lot-based and easy.
 
-The 17 km figure matches the lake's published shore length, and the lake covers about 500 hectares, which is why a rental in Tay Ho feels like a ride around a landmark rather than through a district. A small part of the water is cut off by Thanh Nien road to form Truc Bach Lake.
+The 17 km figure matches the lake's published shore length. A short stretch of the water is cut off by Thanh Nien road to form Truc Bach Lake.
 
 The route, stops and timing have their own guide in [The West Lake Loop: Hanoi's Classic Motorbike Ride]({{ '/articles/west-lake-loop-motorbike-route/' | relative_url }}); the neighbourhood from a resident's point of view is in [Riding and Living Around West Lake: A Tay Ho Guide for Riders]({{ '/articles/tay-ho-west-lake-area-guide-riders/' | relative_url }}). This page stays on the rental side: what to arrange before the first lap.
 
@@ -87,61 +92,46 @@ The route, stops and timing have their own guide in [The West Lake Loop: Hanoi's
 
 Tay Ho's main roads (Xuan Dieu, To Ngoc Van, Au Co, the Vo Chi Cong artery) are wider and calmer than central Hanoi, but the district has two specific hazards: large tour buses on the airport artery in the east, and construction sites that reorganise lanes without much warning. Riding here is easy; staying alert to trucks is the one discipline.
 
-## Crossing the Red River from Tay Ho
+## Crossing the river to the shop
 
-The lake was formed from a curved part of the Red River, and the river still marks the edge of this part of the city. The northern crossing most Tay Ho riders will meet is the Nhat Tan Bridge, a cable-stayed bridge inaugurated on 4 January 2015 as part of a six-lane highway between Hanoi and Noi Bai International Airport. The whole project is about 8.3 km long, of which roughly 3.7 km is bridge and 1.5 km is the cable-stayed section. The deck is 33.2 m wide, with separate lane groups for motor vehicles, buses and mixed traffic, plus pedestrian paths.
-
-Those figures are the engineering facts. The riding advice is separate and general:
-
-- Follow the road markings and signs for your type of vehicle instead of copying whoever is in front of you; a wide deck with several lane groups rewards deciding early.
-- Expect crosswind on any long river span, and expect a light scooter to feel it. [Crossing Hanoi's Bridges on a Motorbike]({{ '/articles/crossing-hanoi-bridges-motorbike/' | relative_url }}) covers lane choice, wind and merging.
-- The airport road carries the large vehicles already mentioned above, so keep your distance from buses and trucks.
-- Pin your destination before you leave. A map app may choose a different crossing than the one you expect, and the shop's side of the river is a different road system from the lake's.
+Every pickup and every return to Long Bien includes a crossing of the Red River, so choose the route before the day rather than on the bridge. Pin the shop's address in your map app and leave yourself margin on the return, since the crossing is the part of the trip you cannot shortcut. [Crossing Hanoi's Bridges on a Motorbike]({{ '/articles/crossing-hanoi-bridges-motorbike/' | relative_url }}) covers lane choice, wind and merging.
 
 ## Nhat Tan flower village in season
 
-At the lake's edge sits Nhat Tan, a flower village known for chrysanthemums and carnations and, above all, pink peach blossom, which people visit when the weather turns cool ahead of Tet. For a Tay Ho renter it is a short local ride and one of the reasons the district has a seasonal rhythm of its own. The timing follows the lunar calendar, so work it out from the year you are in; the season, the garden etiquette and the ride itself are covered in [Nhat Tan Peach Fields by Motorbike: Hanoi's Spring Flower Ride]({{ '/articles/nhat-tan-flower-fields-motorbike-ride/' | relative_url }}).
+Nhat Tan, on the edge of the lake, is a flower village best known for peach blossom, which people visit when the weather turns cool. The timing follows the lunar calendar, and the season, the garden etiquette and the ride itself are covered in [Nhat Tan Peach Fields by Motorbike: Hanoi's Spring Flower Ride]({{ '/articles/nhat-tan-flower-fields-motorbike-ride/' | relative_url }}).
 
-The rental angle is simple. If your dates fall in the weeks before Tet, ask the shop about availability for the whole period early and keep your plans flexible, because slow lanes around the gardens are normal in peak weeks.
+The rental angle is simple. If your dates fall in that season, ask the shop early about availability for the whole period, and expect busier lanes around the gardens in peak weeks.
 
 ## Renting for Tay Ho
 
-The district is a common delivery destination for rentals because many foreign residents live here; Nguyen Tu arranges delivery case by case depending on location, within opening hours 09:00–21:00 — see [Shop Pickup vs Delivery When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}). Expats renting monthly will find the bike-choice logic in [Best Motorbike for Expats Living in Hanoi]({{ '/articles/best-motorbike-for-expats-hanoi/' | relative_url }}), and the monthly rate picture in [Daily, Weekly or Monthly Motorbike Rental in Hanoi: How to Choose]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}).
+Tay Ho is a residential area where many foreign residents live, so delivery is worth asking about; Nguyen Tu arranges delivery case by case depending on location, within opening hours 09:00–21:00 — see [Shop Pickup vs Delivery When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}). Expats renting monthly will find the bike-choice logic in [Best Motorbike for Expats Living in Hanoi]({{ '/articles/best-motorbike-for-expats-hanoi/' | relative_url }}), and the monthly rate picture in the [daily, weekly and monthly comparison]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}).
 
 ### Choosing a bike for lakeside streets
 
-Contact us to confirm current availability of any model; the list below only shows which models have published rates. Honda Vision, Honda Click, Yamaha Mio and Honda Air Blade are automatic scooters, so there is no gear lever to manage in the stop-start streets around cafes and school gates. Honda Wave and Yamaha Sirius are semi-automatic underbones, which means changing gear by foot, and they sit in the lower day-rate class. The E-Bike has a published day rate only.
+Contact us to confirm current availability of any model; the table below only shows which models have published rates. Honda Vision, Honda Click, Yamaha Mio and Honda Air Blade are automatic scooters, so there is no gear lever to manage in the stop-start streets around cafes and school gates. Honda Wave and Yamaha Sirius are semi-automatic underbones, which means changing gear by foot.
 
-| If you want | Models with a published rate | Note |
+| If you want | Model | Published day rate |
 |---|---|---|
-| The simplest ride for local streets | Honda Click, Yamaha Mio, Honda Vision | Automatic scooters |
-| A larger scooter at the higher day rate | Honda Air Blade | Ask the shop to show the underseat space with your own helmet |
-| The lowest day rate with gears | Honda Wave, Yamaha Sirius | Semi-automatic; day rate only |
-| An electric option | E-Bike | Day rate only; ask about longer periods and charging |
-| A 50cc bike | No fixed price published | Contact the shop for availability and price |
+| The simplest ride for local streets | Honda Click or Yamaha Mio | 150,000 VND |
+| An automatic scooter at the higher day rate | Honda Vision | 200,000 VND |
+| A larger scooter | Honda Air Blade | 200,000 VND |
+| A bike with gears | Honda Wave | 150,000 VND |
 
-### Published rates, and what they mean for a Tay Ho stay
+The Honda Wave has the same 150,000 VND day rate as the Click and Mio, so the choice between them is about how you want to ride, not about the daily price. The Yamaha Sirius is the other semi-automatic option; its rate is in the price guide. If the Air Blade appeals, ask the shop to show you the underseat space with your own helmet.
 
-All figures are the approved published rates, per bike, with the deposit on top. [How Much Does It Cost to Rent a Motorbike in Hanoi?]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) lists the full rate card.
+For an electric bike or a 50cc bike, contact the shop for availability and price. A deposit is taken on top of any rental, typically 2,000,000–5,000,000 VND depending on vehicle and conditions.
 
-| Model | Day | Week | Month |
-|---|---|---|---|
-| Honda Click | 150,000 VND | 600,000–700,000 VND | 1,000,000–1,200,000 VND |
-| Yamaha Mio | 150,000 VND | 600,000–700,000 VND | 1,000,000–1,200,000 VND |
-| Honda Vision | 200,000 VND | 800,000–1,000,000 VND | 1,800,000–2,000,000 VND |
-| Honda Air Blade | 200,000 VND | 800,000 VND | 1,400,000 VND |
+### Weekly and monthly rates for a Tay Ho stay
 
-The Honda Wave and Yamaha Sirius (150,000 VND a day each) and the E-Bike (200,000 VND a day) have no published weekly or monthly rate; ask the shop rather than assuming one from another model.
+The Honda Click, Yamaha Mio, Honda Vision and Honda Air Blade have published weekly and monthly rates. The Honda Wave, Yamaha Sirius and E-Bike have no published weekly or monthly rate; ask the shop rather than assuming one from another model, and contact the shop for the E-Bike and 50cc price. The full rate card is in the [price guide]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}).
 
-For a Tay Ho resident the useful comparison is the same model priced by different periods. A Honda Click is 150,000 VND a day, 600,000–700,000 VND a week and 1,000,000–1,200,000 VND a month, so the weekly rate sits below seven daily rates and the monthly rate sits far below thirty. The Honda Vision follows the same pattern: 200,000 VND a day, against 800,000–1,000,000 VND a week and 1,800,000–2,000,000 VND a month.
+If you live by the lake, a monthly arrangement costs less per day than renting day by day at the published rates. Longer-term rental is negotiable, so contact us to discuss it.
 
-If you live by the lake, a monthly or longer arrangement is usually the cheaper shape. Longer-term rental is negotiable, so contact us to discuss it.
-
-### Late returns, insurance and licences
+### Late returns and insurance
 
 Late return costs 20,000 VND per hour; more than six hours late, a full additional rental day may be charged, typically 150,000–200,000 VND depending on the motorcycle. With a river crossing between Tay Ho and the shop, give a return trip real margin rather than arriving in the last minutes before 21:00. There is no automatic refund for returning early.
 
-Nguyen Tu does not provide motorbike insurance; renters arrange their own, and [Do You Need Compulsory Motorbike Insurance in Vietnam?]({{ '/articles/compulsory-motorbike-insurance-vietnam/' | relative_url }}) explains what the law requires. For a long stay, the verified legal guide [Vietnam Motorbike Licence for Long-Term Expats]({{ '/articles/expat-motorbike-licence-vietnam/' | relative_url }}) sets out the exchange route, which needs a valid national licence and at least three months of residence papers. Sort the paperwork before the first month rather than after it.
+Nguyen Tu does not provide motorbike insurance; renters arrange their own, and [Do You Need Compulsory Motorbike Insurance in Vietnam?]({{ '/articles/compulsory-motorbike-insurance-vietnam/' | relative_url }}) explains what the law requires.
 
 ## Parking around Tay Ho
 
@@ -166,33 +156,23 @@ Based south or west of the lake instead? See [renting a motorbike in Ba Dinh]({{
 
 ## Mistakes that cost a Tay Ho renter time or money
 
-- **Planning around an exact delivery time.** No delivery time is guaranteed, and delivery is only possible within 09:00–21:00. Build a gap into the first day and confirm the arrangement in writing.
-- **Sending a ward name instead of a pin.** Maps and messages mix old and new names, so a courier may search in the wrong place. Send the street, lane, building and a pin.
-- **Waiting until the first night to ask about parking.** A bike with no safe overnight spot becomes a daily problem. Ask the landlord or building manager before you book the rental period.
+- **Waiting until the first night to ask about parking.** A bike with no safe overnight spot becomes a daily problem, and it is much easier to solve with the landlord or building manager before the rental period starts.
 - **Making the first ride the weekend loop.** Weekends after 09:00 are busy with brunch traffic and cyclists. Try the first lap on a quiet morning, when the bike and the roads are both easy to read.
-- **Skipping the handover photos because the courier is waiting.** The photos are what separate existing marks from new ones. Take two minutes.
-- **Choosing the period from the first week only.** If you live here, price a weekly and a monthly option against the daily rate before you commit, using the published figures above.
-- **Assuming insurance comes with the bike.** It does not; the renter arranges their own.
+- **Choosing the period from the first week only.** If you live here, ask about weekly and monthly options before you commit to the daily rate, and use the price guide to compare them.
 
 ## Common questions
 
 **Can a rental motorbike be delivered to Tay Ho?**
-Delivery in Hanoi may be available depending on location and arrangement. It is agreed case by case, within 09:00–21:00 daily, so contact the shop with your address and dates.
+Delivery or pickup in Hanoi may be available depending on location and arrangement, so contact the shop with your full address, a map pin and your dates. Confirm the cost before the bike moves.
 
-**Is there a delivery fee?**
-No fixed fee is published and none is guaranteed to be free. Agree the cost with the shop when you book, not when the bike arrives.
+**Is it worth renting weekly or monthly if I live by the lake?**
+For the models that publish weekly and monthly rates, those periods work out lower per day than renting by the day. The Wave, Sirius and E-Bike have no published weekly or monthly rate, and longer-term rental is negotiable, so contact the shop.
 
-**How much is a monthly rental for someone living by the lake?**
-Published monthly rates are 1,000,000–1,200,000 VND for the Honda Click and Yamaha Mio, 1,400,000 VND for the Honda Air Blade and 1,800,000–2,000,000 VND for the Honda Vision, plus a deposit. Other models are quoted on request.
+**Can a foreigner rent a motorbike here?**
+The rental guides answer this in full: see the documents guide for what to bring and the foreigners guide for who may rent. Check before you travel to the shop.
 
-**Do I have to collect the bike from Long Bien?**
-No, but collecting lets you inspect and test-ride the exact bike. Shop pickup is at 112 Nguyen Van Cu Street, Bo De, Long Bien, between 09:00 and 21:00.
-
-**Who arranges insurance?**
-Nguyen Tu does not provide motorbike insurance; renters arrange their own.
-
-**Which bike suits Tay Ho best?**
-An automatic scooter is the usual fit for lakeside and cafe streets, and the Click, Mio, Vision and Air Blade all have published rates. Contact us to confirm current availability of the model you want.
+**Where will the bike be parked at night?**
+That depends on your building or lane, so ask the landlord or building manager before the rental starts, as described in the parking section above. Tell the shop where the bike will be kept.
 
 ## The short version
 

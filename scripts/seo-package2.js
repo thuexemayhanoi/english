@@ -349,6 +349,20 @@ function lintArticle(slug, now, baseline) {
   for (const a of amounts) if (!allowed.has(a)) R('amount ' + a + ' is neither in docs/OWNER-FACTS.md nor in the original article: needs a cited source');
   for (const m of text.matchAll(/\b\d{1,3}\s?k\s?(?:VND|vnd|d)\b|\b\d+(?:\.\d+)?\s?(?:million|triệu)\b/gi)) if (!origNorm.includes(' ' + normSent(m[0]) + ' ')) R('abbreviated amount "' + m[0] + '": use the exact approved VND figures');
   for (const m of text.matchAll(/(?:\+?84|0)[\s.-]?9\d{2}[\s.-]?\d{3}[\s.-]?\d{3}/g)) if (m[0].replace(/\D/g, '').replace(/^84/, '0') !== '0942467674') E('phone number ' + m[0] + ' differs from docs/OWNER-FACTS.md');
+  // internal process wording must never reach reader-facing text
+  const proc = text.match(/\b(owner-approved|OWNER-FACTS|package 2|the verifier|the writer|this fix|per the guide|MODEL-DATABASE|price-reconciliation|front matter|lint|docs\/[a-z-]+)\b/gi);
+  if (proc) E('internal process wording in the reader-facing text: ' + [...new Set(proc.map(x => x.toLowerCase()))].join(', '));
+  if (/\bapproved (rates?|prices?|figures?|polic(y|ies)|deposit|range)\b/i.test(text)) W('"approved ..." wording: say "published" for rates and figures (the owner-approval process is internal)');
+  const hedges = (text.match(/\b(usually|typically|generally|often|mostly|most|many)\b/gi) || []).length; res.stats.hedgesPer1000 = Math.round(hedges / Math.max(1, x.words) * 10000) / 10;
+  if (hedges / Math.max(1, x.words) * 1000 > 10) W('hedge words (usually, typically, most, many...) run at ' + res.stats.hedgesPer1000 + ' per 1,000 words: each one is an unsourced generalisation unless it restates OWNER-FACTS');
+  if (internal.length && uniqueInternal > 16) W(uniqueInternal + ' distinct internal link targets (6-14 expected)');
+  // numeric claims in NEW sentences: each needs a cited source (or is a computed difference of published figures) or must go
+  let numClaims = 0;
+  for (const sent of sentencesOf(text)) {
+    if (origNorm.includes(' ' + normSent(sent) + ' ')) continue;
+    const m = sent.match(/\b\d+(?:[.,]\d+)?\s?(?:km|kilomet\w+|miles?|minutes?|mins?|metres?|meters?|%|percent|degrees?|\u00b0C|hectares?)(?![a-z])/i);
+    if (m && !/\bVND\b/.test(sent) && ++numClaims <= 25) R('numeric claim in new text (needs a source read this session, a model-database figure or a stated calculation): "' + sent.slice(0, 170) + '"');
+  }
   // against the original
   if (orig) {
     const o = L.parseFrontMatter(orig); const oRaw = orig;
@@ -365,9 +379,14 @@ function lintArticle(slug, now, baseline) {
     const oLinks = new Set(L.extractLinks(o.body).filter(h => h.startsWith('/')).map(h => h.split('#')[0]));
     const nLinks = new Set(internal.map(h => h.split('#')[0]));
     const lost = [...oLinks].filter(h => !nLinks.has(h)); if (lost.length) W('original internal link(s) no longer in the body: ' + lost.join(', '));
-    const oExt = fmList(oRaw, 'internal_link_targets');
+    const tl = r => String(fmLine(r, 'internal_link_targets') || '').replace(/^"|"$/g, '').split(',').map(v => v.trim()).filter(Boolean);
+    const oT = new Set(tl(oRaw)); const newT = tl(raw).filter(t => !oT.has(t));
+    res.stats.newLinkTargets = newT.length;
+    if (newT.length > 4) E(newT.length + ' new internal_link_targets slugs (maximum 4): ' + newT.join(', '));
+    for (const t of oT) if (!tl(raw).includes(t)) W('an original internal_link_targets slug was removed: ' + t);
   } else W('original not found in git history (' + baseline.base_commit + '): comparison checks skipped');
   const itl = fmLine(raw, 'internal_link_targets');
+  if (itl && /,[^ ]/.test(itl.replace(/^"|"$/g, ''))) E('internal_link_targets must be separated by ", " (comma and space): the layout splits on it');
   if (itl) for (const t of itl.replace(/^"|"$/g, '').split(',').map(v => v.trim()).filter(Boolean)) if (!slugs.has(t)) E('internal_link_targets references a missing slug: ' + t);
   return res;
 }

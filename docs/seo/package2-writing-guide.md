@@ -7,7 +7,7 @@ Standard for expanding an existing article (300-500 words at baseline) to at lea
 - Edit only the one assigned file `_articles/<slug>.md`. Do not commit, push, stash, switch branches or edit any other file. To abandon an article, restore it with `git checkout -- _articles/<slug>.md`.
 - Never change: `slug`, `category`, `content_type`, `search_intent`, `topic_cluster`, `subcluster`, `date_published`, `review_status`, the URL, the permalink or the canonical. Do not delete existing sources or existing body content: extend around it, reorder lightly if the flow needs it, and correct a statement only when it is wrong (say so in the summary).
 - `title` and `description` stay as they are unless the primary keyword is missing from the title or the description is over 165 characters or misleading; any change needs a reason in the summary. Do not touch `last_reviewed`: it is stamped after the independent review passes.
-- Allowed front matter additions: `sources:` entries (existing format, see section 6) and slugs in `internal_link_targets` (existing slugs only, at most 4 new ones).
+- Allowed front matter additions: `sources:` entries (existing format, see section 6) and slugs in `internal_link_targets` (existing slugs only, at most 4 new ones in total, separated by ", " because the layout splits on it). Each target becomes a related-guide card, so keep the list curated (the site median is 5 cards); body links do not need a matching target.
 - No H1 (`#`) in the body: the layout renders the title as the only H1. Use `##` and `###`.
 - Do not add `faq:` front matter. If the article already has `faq:` front matter, the layout renders it as "Common questions": do not repeat those questions in the body.
 
@@ -79,3 +79,18 @@ The verifier did not write the article and tries to refute it. For the assigned 
 7. Compare with the two most similar sibling articles for overlap: the intents must stay distinct.
 
 Verdicts: `PASS`; `FIX_REQUIRED` with each finding (severity BLOCKER, MAJOR or MINOR, the quoted text, the reason and the fix); `REVIEW_REQUIRED` when a needed fact cannot be verified. A BLOCKER or MAJOR finding means FIX_REQUIRED.
+
+## 8. Lessons from batch 1 (first drafts failed verification in 4 of 5 articles)
+
+The failures were avoidable. Before returning a draft, check yours against this list:
+
+- **Invented specifics.** Bridge lengths, hectares, distances, minutes, "the single best ride", "most riders", "usually a single bike": every number and superlative needs a source read this session (or a verified database figure); otherwise leave it out. The lint lists every new numeric claim for confirmation.
+- **Implied policies.** Do not describe how the shop works beyond OWNER-FACTS: no delivery person, no forecourt, no return on the deposit, no after-hours return, no test ride, no "agree the cost before the bike moves" unless the sentence says it is something to ask. Write what a renter should ask or check, not what the shop does.
+- **Prices.** Daily rates of the six models and the deposit range only (section 2). Do not mention that another model has no weekly rate; do not name an E-Bike or 50cc price.
+- **Internal wording in reader text.** Never write "owner-approved", "OWNER-FACTS", "this fix", "per the guide", file names or process remarks; say "published" for rates. The lint rejects this.
+- **Repetition.** Say each point once (the availability line, the 09:00-21:00 window, "pickup is simplest", the insurance sentence). A section that restates another in new words fails.
+- **Order and basis must agree.** A list headed "ranked" or "best first" needs a stated criterion that produces that order; otherwise call it "compared" and say it is ordered by rider type.
+- **Quote sources exactly** ("can be a hectic place", not "is"); describe a source's whole statement, not the convenient half.
+- **Scope.** Keep to the intent of the URL; link to the sibling that owns another intent instead of re-explaining it. Do not exceed about 2,400 words.
+- **Tell the owner what you found.** If you notice that another article contradicts a source (for example advice that conflicts with a Zone 1 rule, or an insurance statement that conflicts with OWNER-FACTS), list it in the summary; do not edit that file.
+
