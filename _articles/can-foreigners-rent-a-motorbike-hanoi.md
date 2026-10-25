@@ -91,7 +91,7 @@ A licence-free 50 cc or e-bike rental is a legal, low-speed way to see the city 
 
 Foreign nationality changes nothing here: [the licence-free moped guide]({{ '/articles/can-foreigners-ride-50cc-vietnam/' | relative_url }}) covers the rider's duties, what happens after a crash on a moped and how fines apply.
 
-For electric two-wheelers the line is power. An electric moped of 4 kW or less needs no driving licence; above 4 kW a licence is required, class A1 up to 11 kW and class A above that. The rated power of an electric machine decides which licence class you are riding in. Ask for it before you book.
+For electric two-wheelers both the power and the design speed matter. An electric moped, designed for no more than 50 km/h and rated at 4 kW or less, needs no driving licence; a machine above either limit needs a licence, class A1 up to 11 kW and class A above that, so a 4 kW scooter built for 70 km/h is not licence-free ([the electric licence guide]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}) sets out the classes). Ask for both figures before you book.
 
 Availability is a separate question. Nguyen Tu has historically offered 50 cc and electric options, but the current stock of any model needs checking first. Contact us to confirm current availability before you plan around one.
 

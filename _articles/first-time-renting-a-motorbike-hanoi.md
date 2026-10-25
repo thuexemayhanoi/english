@@ -106,7 +106,7 @@ What those rules mean in practice, as the legal guides on this site set them out
 
 - **Helmet:** fastened, for rider and passenger; an unstrapped helmet counts as none ([Vietnam's helmet law]({{ '/articles/helmet-law-vietnam/' | relative_url }})).
 - **Lane:** the lane for your direction, the right-hand part of the carriageway where there are no markings, never across a fixed median.
-- **Sidewalk:** pedestrians only, apart from crossing to enter or leave premises and brief low-speed manoeuvres where there is no alternative. If a street is blocked, get off and walk the bike.
+- **Sidewalk:** pedestrians only, apart from crossing it to enter or leave premises. If a street is blocked, get off and walk the bike or find another route.
 - **Phone:** holding one while riding is an offence, navigation included, while a proper mount used without your hands leaving the controls is different ([the phone-use rules]({{ '/articles/phone-use-while-riding-vietnam/' | relative_url }})). Set the destination before you move.
 - **Alcohol:** any detectable amount on a motorbike is an offence ([the drink-driving rules]({{ '/articles/drink-driving-limits-motorbike-vietnam/' | relative_url }})).
 
