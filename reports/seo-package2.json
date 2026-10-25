@@ -1,0 +1,49 @@
+{
+  "tool": "seo-package2",
+  "target": 1600,
+  "counts": {
+    "P0": 0,
+    "P1": 0,
+    "P2": 0,
+    "P3": 1
+  },
+  "findings": [
+    {
+      "severity": "P3",
+      "file": "docs/seo/package2-baseline.json",
+      "url": "-",
+      "issue": "package2 pending: 693 of 693 eligible article(s) are still below 1600 words",
+      "fix": "Work the next batch (node scripts/seo-package2.js --next 10)"
+    }
+  ],
+  "summary": {
+    "eligible": 693,
+    "done": 0,
+    "reviewRequired": 0,
+    "pending": 693,
+    "byGroup": {
+      "A": {
+        "eligible": 92,
+        "done": 0,
+        "reviewRequired": 0,
+        "pending": 92
+      },
+      "B": {
+        "eligible": 337,
+        "done": 0,
+        "reviewRequired": 0,
+        "pending": 337
+      },
+      "C": {
+        "eligible": 264,
+        "done": 0,
+        "reviewRequired": 0,
+        "pending": 264
+      }
+    },
+    "wordsAddedDone": 0,
+    "belowTargetDone": 0,
+    "batches": 0,
+    "outOfScopeChanged": 0
+  }
+}

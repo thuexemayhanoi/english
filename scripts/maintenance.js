@@ -47,7 +47,7 @@ function readmeText() { return fs.readFileSync(path.join(ROOT, 'README.md'), 'ut
 
 // ---------- 1. run the existing QA toolkit ----------
 const hasSite = fs.existsSync(path.join(ROOT, '_site'));
-const tools = ['frontmatter-check', 'content-duplicate-check', 'internal-link-audit', 'seo-audit', 'sitemap-check', 'schema-check'];
+const tools = ['frontmatter-check', 'content-duplicate-check', 'internal-link-audit', 'seo-audit', 'sitemap-check', 'schema-check', 'seo-package2'];
 if (hasSite) tools.push('rendered-site-audit');
 const toolResults = {};
 // Aggregate severity totals from the QA-tool reports themselves. Blocking
@@ -167,7 +167,7 @@ const matrixScript = path.join(__dirname, 'english-seo-matrix.js');
 const MATRIX_FILES = ['docs/seo/english-seo-master-matrix.json', 'docs/seo/english-seo-master-matrix.csv', 'docs/seo/english-seo-master-matrix.md', 'docs/seo/english-keyword-clusters.md', 'docs/seo/serp-landscape.md', 'docs/seo/keyword-universe.md', 'docs/seo/link-prospects.md', 'docs/seo/topical-map.json', 'docs/seo/topical-map.md'];
 let matrixSummary = null; let matrixChanged = false; let mapSummary = null; let mapChanged = false;
 if (fs.existsSync(matrixScript) && fs.existsSync(path.join(ROOT, 'docs', 'seo'))) {
-  const stable = x => JSON.stringify({ byPriority: x.byPriority, byStatus: x.byStatus, issueFrequency: x.issueFrequency, contentGapCount: x.contentGapCount, cannibalizationPairs: x.cannibalizationPairs, urls: x.urls });
+  const stable = x => JSON.stringify({ byPriority: x.byPriority, byStatus: x.byStatus, issueFrequency: x.issueFrequency, contentGapCount: x.contentGapCount, cannibalizationPairs: x.cannibalizationPairs, urls: x.urls, package2: x.package2 || null });
   const before = {}; for (const f of MATRIX_FILES) { const fp = path.join(ROOT, f); if (fs.existsSync(fp)) before[f] = fs.readFileSync(fp, 'utf8'); }
   const prevSummary = (() => { try { return JSON.parse(before[MATRIX_FILES[0]]).summary; } catch (e) { return null; } })();
   const mr = spawnSync(process.execPath, [matrixScript], { encoding: 'utf8' });
@@ -389,6 +389,8 @@ md += '| Source/citation warnings | ' + findings.filter(f => f.area === 'sources
 md += '| Sitemap status | ' + (toolResults['sitemap-check'] && toolResults['sitemap-check'].status === 0 ? 'clean (gaps=0)' : 'CHECK') + ' |\n';
 md += '| Schema status | ' + (toolResults['schema-check'] && toolResults['schema-check'].status === 0 ? 'clean' : 'CHECK') + ' |\n';
 md += '| Rendered-site audit | ' + (hasSite ? (toolResults['rendered-site-audit'] && toolResults['rendered-site-audit'].status === 0 ? 'pass' : 'CHECK') : 'not run (no _site build in this run)') + ' |\n';
+const p2d = toolResults['seo-package2'] && toolResults['seo-package2'].data && toolResults['seo-package2'].data.summary;
+md += '| SEO Package 2 (content depth ' + ((toolResults['seo-package2'] && toolResults['seo-package2'].data && toolResults['seo-package2'].data.target) || 1600) + '+) | ' + (p2d ? p2d.done + ' done, ' + p2d.reviewRequired + ' REVIEW_REQUIRED, ' + p2d.pending + ' pending of ' + p2d.eligible + ' eligible; ' + p2d.belowTargetDone + ' done below target' : 'not initialised') + ' |\n';
 md += '| SEO score | ' + (seoScoreData ? 'overall ' + seoScoreData.overall + ' (' + seoScoreData.status + ')' : 'n/a') + ' |\n';
 md += '| SEO regression guard | ' + (seoEngines['seo-regression'].status === 0 ? 'pass (no metric regressed vs accepted baseline)' : 'FAIL — see blocking findings') + ' |\n';
 md += '| SEO fix matrix | ' + (fixMatrixData ? fixMatrixData.summary.rootCauses + ' root causes (' + fixMatrixData.summary.totalFindings + ' findings, ' + fixMatrixData.summary.autoFixable + ' auto-fixable, ' + fixMatrixData.summary.reviewOnly + ' review-only)' : 'n/a') + ' |\n';

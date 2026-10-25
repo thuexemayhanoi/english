@@ -52,7 +52,8 @@ const BLOCKING_P1_PATTERNS = [
   /^invalid JSON-LD/,
   /^BreadcrumbList without itemListElement/,
   /^broken breadcrumb/,
-  /^noindex URL included in sitemap/
+  /^noindex URL included in sitemap/,
+  /^package2 (?:eligible article missing|slug or URL changed|article marked DONE below|status entry outside)/
 ];
 
 function isBlocking(finding) {
@@ -146,6 +147,38 @@ function pageUrl(p) {
 // Extract a Liquid-rendered approximation of body content for link/h1 extraction.
 function stripLiquid(s) {
   return s.replace(/{%[\s\S]*?%}/g, '').replace(/{{[\s\S]*?}}/g, '');
+}
+
+// ---------- Content word count (SEO Package 2 — CONTENT DEPTH 1600+) ----------
+// The words a reader actually reads in the Markdown body: headings, paragraphs, list items,
+// table cells and link text. Not counted: YAML front matter (the caller passes the body), fenced
+// and inline code, HTML tags and comments, <script>/<style>, Liquid tags and outputs, link URLs,
+// image markup, reference-link definitions, kramdown attributes and bare URLs. Components the
+// layouts add around the body (related cards, sources panel, Common questions rendered from
+// `faq:` front matter, navigation, footer) are never in the body, so they are never counted.
+// A word is a whitespace/dash-separated token with at least one letter or digit.
+function contentText(body) {
+  let s = String(body == null ? '' : body).replace(/\r\n?/g, '\n');
+  s = s.replace(/<!--[\s\S]*?-->/g, ' ');
+  s = s.replace(/^[ \t]*(```|~~~)[^\n]*\n[\s\S]*?\n[ \t]*\1[ \t]*$/gm, ' ');
+  s = s.replace(/<(script|style)\b[\s\S]*?<\/\1>/gi, ' ');
+  s = s.replace(/!\[[^\]]*\]\([^)]*\)/g, ' ');
+  s = s.replace(/\[([^\]]*)\]\((?:[^()]|\([^()]*\))*\)/g, '$1 ');
+  s = s.replace(/^[ \t]*\[[^\]]+\]:\s*\S+.*$/gm, ' ');
+  s = s.replace(/{%[\s\S]*?%}/g, ' ').replace(/{{[\s\S]*?}}/g, ' ');
+  s = s.replace(/`[^`\n]*`/g, ' ');
+  s = s.replace(/<[^>\n]+>/g, ' ');
+  s = s.replace(/&nbsp;/gi, ' ').replace(/&amp;/gi, '&').replace(/&[a-z]+;|&#\d+;/gi, ' ');
+  s = s.replace(/https?:\/\/\S+/g, ' ');
+  s = s.replace(/\{:[^}]*\}|\{#[^}]*\}/g, ' ');
+  s = s.replace(/^[ \t]*\|?[ \t]*:?-{2,}:?[ \t]*(\|[ \t]*:?-{2,}:?[ \t]*)*\|?[ \t]*$/gm, ' ');
+  s = s.replace(/^[ \t]*([-*_])([ \t]*\1){2,}[ \t]*$/gm, ' ');
+  s = s.replace(/^[ \t]*(#{1,6}[ \t]+|>[ \t]?|(?:[-*+]|\d+[.)])[ \t]+)+/gm, ' ');
+  s = s.replace(/\|/g, ' ').replace(/[*_]{1,3}/g, ' ');
+  return s;
+}
+function contentWords(body) {
+  return contentText(body).split(/[\s–—]+/).filter(t => /[A-Za-z0-9À-ɏ]/.test(t)).length;
 }
 
 function findH1s(text) {
@@ -298,4 +331,4 @@ function rankSignal(entries) {
   return { band, best, quickWin: band === 'page1' || band === 'striking' };
 }
 
-module.exports = { ROOT, CLUSTERS, SITE_URL, BASEURL, PRIMARY_LEGAL_DOMAINS, isPrimaryLegalSource, isBlocking, walk, parseFrontMatter, loadArticles, loadPages, articleUrl, pageUrl, stripLiquid, findH1s, extractLinks, Findings, sitemapLocs, isDynamicallyListed, expectedIndexableUrls, parseCsv, parseGscCsv, gscSignal, sitePath, latestRankSnapshot, rankSignal };
+module.exports = { ROOT, CLUSTERS, SITE_URL, BASEURL, PRIMARY_LEGAL_DOMAINS, isPrimaryLegalSource, isBlocking, walk, parseFrontMatter, loadArticles, loadPages, articleUrl, pageUrl, stripLiquid, contentText, contentWords, findH1s, extractLinks, Findings, sitemapLocs, isDynamicallyListed, expectedIndexableUrls, parseCsv, parseGscCsv, gscSignal, sitePath, latestRankSnapshot, rankSignal };

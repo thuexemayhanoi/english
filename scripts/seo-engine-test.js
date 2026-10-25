@@ -35,7 +35,7 @@ function mkFixture() {
   fs.mkdirSync(path.join(root, '_includes'), { recursive: true });
   fs.mkdirSync(path.join(root, '_data'), { recursive: true });
   fs.mkdirSync(path.join(root, 'assets', 'js'), { recursive: true });
-  for (const f of ['lib.js', 'seo-audit.js', 'schema-check.js', 'sitemap-check.js', 'internal-link-audit.js', 'frontmatter-check.js', 'content-duplicate-check.js', 'seo-score.js', 'fix-matrix.js', 'seo-regression.js', 'maintenance.js', 'build-report.js', 'assistant-test.js', 'seo-research-ingest.js', 'topical-map.js']) {
+  for (const f of ['lib.js', 'seo-audit.js', 'schema-check.js', 'sitemap-check.js', 'internal-link-audit.js', 'frontmatter-check.js', 'content-duplicate-check.js', 'seo-score.js', 'fix-matrix.js', 'seo-regression.js', 'maintenance.js', 'build-report.js', 'assistant-test.js', 'seo-research-ingest.js', 'topical-map.js', 'seo-package2.js']) {
     fs.copyFileSync(path.join(SRC, f), path.join(root, 'scripts', f));
   }
   // Assistant + layout support files needed by maintenance.js in the fixture
@@ -299,6 +299,62 @@ check('data-driven: an unknown CSV layout is rejected, never guessed', LIB.parse
   check('topical-map: split family with distinct recorded SERPs is a verified intent split, not a recommendation', mapRun2.status === 0 && !!map2 && map2.serpVerifiedSplits.length === 1 && map2.serpVerifiedSplits[0].serpCheck.pairs[0].shared === 0 && !map2.recommendations.some(r => r.rule === 'split-family' && /vietnam/.test(r.detail)), mapRun2.out.split('\n').slice(-2).join(' | '));
   check('topical-map: split family with overlapping SERPs stays a split-family recommendation', !!map2 && map2.splitFamilies.length === 1 && map2.splitFamilies[0].serpCheck.pairs[0].shared === 3 && map2.recommendations.some(r => r.rule === 'split-family' && /hanoi/.test(r.detail)), map2 ? JSON.stringify(map2.splitFamilies) : '');
   fs.rmSync(MAPROOT, { recursive: true, force: true });
+}
+
+// ---------- 5c. SEO Package 2: content word counter and content-depth gate ----------
+{
+  const LIB = require(path.join(SRC, 'lib.js'));
+  const body = ['# Heading Words', '', 'Plain **bold** paragraph with [a link]({{ \'/articles/x/\' | relative_url }}) and `inline code`.', '',
+    '```js', 'const hidden = "not counted at all";', '```', '',
+    '| Col A | Col B |', '|---|---|', '| cell one | cell two |', '',
+    '- list item here', '1. numbered item here', '',
+    '<div class="x">html text counted</div>', '', '<!-- comment words hidden -->', '{% include foo.html %}', '',
+    'Visit https://example.com/path now.', '', '![alt text](img.png)'].join('\n');
+  check('word counter: counts headings, prose, list items, table cells, HTML text and link text only (28)', LIB.contentWords(body) === 28, String(LIB.contentWords(body)));
+  check('word counter: ignores code, comments, Liquid, URLs, image markup and bare dashes', LIB.contentWords('one - two — three\n\n```\nhidden words here\n```\n') === 3, String(LIB.contentWords('one - two — three\n\n```\nhidden words here\n```\n')));
+  check('word counter: an em dash separates words and a hyphen joins them', LIB.contentWords('alpha—beta gamma well-known') === 4, String(LIB.contentWords('alpha—beta gamma well-known')));
+
+  const P2 = fs.mkdtempSync(path.join(os.tmpdir(), 'seo-package2-test-'));
+  for (const d of ['scripts', '_articles', 'docs/seo', 'reports']) fs.mkdirSync(path.join(P2, d), { recursive: true });
+  for (const f of ['lib.js', 'seo-package2.js']) fs.copyFileSync(path.join(SRC, f), path.join(P2, 'scripts', f));
+  const wordsOf = n => Array.from({ length: n }, (_, i) => 'term' + (i % 50)).join(' ');
+  const PA = (slug, n, fmExtra) => fs.writeFileSync(path.join(P2, '_articles', slug + '.md'), '---\n' + articleFm(Object.assign({ title: 'T ' + slug, slug, description: 'D ' + slug }, fmExtra || {})) + '\n---\n# ' + slug + '\n\n' + wordsOf(n) + '\n');
+  PA('pkg-done-ok', 1700); PA('pkg-done-short', 900); PA('pkg-pending', 350); PA('pkg-outside', 700);
+  const elig = ['pkg-done-ok', 'pkg-done-short', 'pkg-pending'].map((slug, i) => ({ slug, url: '/articles/' + slug + '/', original_words: 400, group: 'A', cluster: 'scooters', subcluster: '', intent: 'informational', primary_keyword: slug, matrix_priority: 'P3', seo_status: 'AUDITED', keyword_owner: false, queue: i + 1 }));
+  const writeBase = (extra) => fs.writeFileSync(path.join(P2, 'docs', 'seo', 'package2-baseline.json'), JSON.stringify(Object.assign({ package: 2, target_words: 1600, frozen: '2026-10-25', article_count: 4, eligible: elig, articleWords: { 'pkg-done-ok': 400, 'pkg-done-short': 400, 'pkg-pending': 350, 'pkg-outside': 700 } }, extra || {})));
+  const writeStat = (articles) => fs.writeFileSync(path.join(P2, 'docs', 'seo', 'package2-status.json'), JSON.stringify({ batches: [], articles }));
+  const gate = () => { const r = run(P2, 'seo-package2.js'); return { status: r.status, out: r.out, rep: fs.existsSync(path.join(P2, 'reports', 'seo-package2.json')) ? readJSON(P2, 'reports/seo-package2.json') : null }; };
+  const issues2 = g => g.rep ? g.rep.findings.map(f => f.severity + ' ' + f.issue) : [];
+
+  const noBase = gate();
+  check('package2: no baseline means not initialised and exit 0', noBase.status === 0 && /not initialised/.test(noBase.out), noBase.out);
+  writeBase(); writeStat({ 'pkg-done-ok': { status: 'DONE', batch: 'p2-01', date: '2026-10-25', qa: 'pass' }, 'pkg-done-short': { status: 'DONE', batch: 'p2-01', date: '2026-10-25', qa: 'pass' } });
+  const g1 = gate();
+  check('package2: a DONE article below 1,600 words is a blocking P1', g1.status === 1 && issues2(g1).some(i => /^P1 package2 article marked DONE below 1600 words \(\d+\)/.test(i)), g1.out + JSON.stringify(issues2(g1)));
+  check('package2: a DONE article at or above 1,600 words passes', !issues2(g1).some(i => /pkg-done-ok/.test(i)) && g1.rep.summary.done === 2, JSON.stringify(g1.rep.summary));
+  writeStat({ 'pkg-done-ok': { status: 'DONE', batch: 'p2-01', date: '2026-10-25', qa: 'pass' } });
+  const g2 = gate();
+  check('package2: pending articles never block (P3 only) and the summary counts them', g2.status === 0 && g2.rep.summary.pending === 2 && g2.rep.summary.done === 1 && issues2(g2).some(i => /^P3 package2 pending: 2 of 3/.test(i)), g2.out + JSON.stringify(issues2(g2)));
+  writeStat({ 'pkg-done-ok': { status: 'DONE', batch: 'p2-01', date: '2026-10-25', qa: 'pass' }, 'pkg-pending': { status: 'REVIEW_REQUIRED' } });
+  const g3 = gate();
+  check('package2: REVIEW_REQUIRED without a reason is a non-blocking P2', g3.status === 0 && issues2(g3).some(i => /^P2 package2 REVIEW_REQUIRED entry without a reason/.test(i)), g3.out + JSON.stringify(issues2(g3)));
+  writeStat({ 'pkg-done-ok': { status: 'DONE' }, 'pkg-outside': { status: 'DONE' } });
+  const g4 = gate();
+  check('package2: a status entry outside the frozen scope is a blocking P1', g4.status === 1 && issues2(g4).some(i => /^P1 package2 status entry outside the frozen scope: pkg-outside/.test(i)), g4.out + JSON.stringify(issues2(g4)));
+  writeStat({ 'pkg-done-ok': { status: 'DONE' } });
+  PA('pkg-pending', 350, { slug: 'pkg-pending-renamed' });
+  const g5 = gate();
+  check('package2: a changed slug or URL is a blocking P1', g5.status === 1 && issues2(g5).some(i => /^P1 package2 slug or URL changed/.test(i)), g5.out + JSON.stringify(issues2(g5)));
+  PA('pkg-pending', 350);
+  PA('pkg-outside', 720);
+  const g6 = gate();
+  check('package2: scope drift of an out-of-scope article is reported as P3 and does not block', g6.status === 0 && issues2(g6).some(i => /^P3 package2 scope drift: 1 out-of-scope/.test(i)), g6.out + JSON.stringify(issues2(g6)));
+  fs.unlinkSync(path.join(P2, '_articles', 'pkg-done-short.md'));
+  const g7 = gate();
+  check('package2: a deleted eligible article is a blocking P1', g7.status === 1 && issues2(g7).some(i => /^P1 package2 eligible article missing/.test(i)), g7.out + JSON.stringify(issues2(g7)));
+  const reinit = run(P2, 'seo-package2.js', ['--init']);
+  check('package2: --init refuses to overwrite the frozen baseline', reinit.status === 1 && /frozen/.test(reinit.out), reinit.out);
+  fs.rmSync(P2, { recursive: true, force: true });
 }
 
 // ---------- 6. production isolation ----------
