@@ -60,8 +60,8 @@ Renting a bike and being allowed to ride it are separate questions: a rental agr
 ### The three routes
 
 - **An IDP with the national licence.** An International Driving Permit under the 1968 Vienna Convention is carried together with the national licence, and Article 57(8) ties its validity to that of the licence.
-- **The licence-free moped.** A rider aged 16 or over needs no driving licence for a moped (Articles 56(4) and 59(1)(a)), and Nguyen Tu's 50 cc availability and price are by contact only.
-- **A Vietnamese licence by exchange.** Article 24(1)(a) of Circular 12/2025/TT-BCA lets a foreigner living, working or studying in Vietnam with a qualifying residence card be considered for exchange, and Article 24(5)(a) makes the new licence valid only for the residence card and foreign licence term.
+- **The licence-free moped.** A rider aged 16 or over needs no driving licence for a moped (Articles 56(1), 56(4) and 59(1)(a)), and Nguyen Tu's 50 cc availability and price are by contact only.
+- **A Vietnamese licence by exchange.** Article 24(1)(a) of Circular 12/2025/TT-BCA lets a foreigner living, working or studying in Vietnam with a qualifying residence card be considered for exchange, and Article 24(5)(a) makes the new licence valid only for the term on the residence card and the foreign licence.
 
 Who qualifies, which class of bike each route covers and which dates to compare with your stay are set out in [Can Foreigners Rent a Motorbike in Hanoi?]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}).
 
@@ -77,7 +77,7 @@ Article 56(1) of the same law requires a rider to carry the vehicle's registrati
 
 Open with the facts your stay turns on, nomad-specific questions first, and ask for the answers in writing. For the papers, ask at handover how the registration certificate and the compulsory insurance certificate will be shown at a stop, and put the same question in the message. For example:
 
-> Hello, I am working remotely in Hanoi from [start date] for about [length of stay] and would like an automatic scooter on a monthly arrangement. Please confirm: whether [model] is available for those dates; which weekend routes outside Hanoi you are happy with; how the registration and insurance certificates will be shown at a stop; and the monthly terms and the deposit.
+> Hello, I am working remotely in Hanoi from [start date] for about [length of stay] and would like an automatic scooter on a monthly arrangement. Please confirm: whether [model] is available for those dates; which weekend routes outside Hanoi you are happy with; how the registration and compulsory insurance certificates will be shown at a stop; and the monthly terms and the deposit.
 
 The shop's phone, WhatsApp and Zalo number is +84 942 467 674. The deposit is typically 2,000,000–5,000,000 VND depending on vehicle and conditions. Payment can be made by cash, bank transfer or QR payment. The wider checklist of price, deposit settlement, maintenance and who pays for inner tubes and tyres is in [the three-month guide's message to the shop]({{ '/articles/three-month-motorbike-rental-hanoi/' | relative_url }}).
 
