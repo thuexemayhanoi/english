@@ -1,7 +1,7 @@
 ---
 title: "Best Motorbike for Long-Distance Riding in Vietnam"
 slug: best-motorbike-for-long-distance-vietnam
-description: "Choosing a bike for long distances in Vietnam, Hanoi to Hue or the Ha Giang loop: licence class, tank range, luggage, comfort, braking and what to agree first."
+description: "Best motorbike for long distance in Vietnam, Hanoi to Hue or the Ha Giang loop: licence class, tank range, luggage, comfort, braking and what to ask the shop first."
 category: rental
 tags:
   - "long distance"
@@ -18,17 +18,17 @@ last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23) — engine size, maximum power, weight, tank, published consumption, storage and brake hardware of the Honda Wave Alpha 110, Honda Wave RSX, Yamaha Sirius RC 110, Honda Future 125 FI, Honda Vario 125, Honda Air Blade 125 and Yamaha Exciter 155 VVA"
-  - "https://www.honda.com.vn/xe-may/san-pham/wave-rsx — Honda Vietnam, Wave RSX product page — 110 cc 4-stroke single-cylinder engine with PGM-FI and a published fuel consumption of 1.56 L/100 km (retrieved 2026-10-25)"
+  - "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/38-bgtvt.pdf — Circular 38/2024/TT-BGTVT (Ministry of Transport) — Article 6(2), Table 2: motorcycle speed limits outside residential areas, 70 km/h on dual carriageways and one-way roads with two or more lanes, 60 km/h otherwise (retrieved 2026-10-25)"
 internal_link_targets: best-motorbike-for-day-trips-from-hanoi, motorbikes-on-expressway-vietnam, motorbike-speed-limits-vietnam, automatic-vs-manual-motorbike-hanoi, rental-motorbike-inspection-checklist, hanoi-to-ho-chi-minh-city-by-motorbike, ho-chi-minh-highway-motorbike-guide, scooter-vs-semi-automatic-hanoi, servicing-before-long-trip-motorbike, motorbike-vs-train-vietnam-long-distance
 ---
 
-The best motorbike for long-distance riding in Vietnam is a reliable bike that your licence covers, with a tank range you have calculated and room for your luggage. On paved national roads that points to a 110-125 cc underbone or automatic scooter; a manual-clutch 150 cc bike suits only a rider whose licence covers it and who already rides manuals. This is general guidance: Nguyen Tu's support is primarily for Hanoi and local use, and any longer trip must be agreed with the shop before booking.
+The best motorbike for long-distance riding in Vietnam is a reliable bike that your licence covers, with a tank range you have calculated and room for your luggage. On paved national roads that points to a 110-125 cc underbone or automatic scooter; a manual-clutch 150 cc bike suits only a rider whose licence covers it and who already rides manuals. This is general guidance: Nguyen Tu's support is primarily for Hanoi and local use, so ask the shop before booking whether a longer trip is possible.
 
 Long-distance riding in Vietnam is a different discipline from city riding, and the bike is only one of the preparations. It gets first claim here.
 
 ## What long distance demands
 
-- Sustained speed with margin: the default [motorbike speed limits]({{ '/articles/motorbike-speed-limits-vietnam/' | relative_url }}) outside urban areas are 60 or 70 km/h depending on the road. A bike that cruises relaxed at that pace - not at its redline - is a bike that finishes the day without shaking your hands numb.
+- Sustained speed with margin: the default [motorbike speed limits]({{ '/articles/motorbike-speed-limits-vietnam/' | relative_url }}) outside residential areas are 70 km/h on dual carriageways and one-way roads with two or more lanes, and 60 km/h otherwise. A bike that cruises relaxed at that pace - not at its redline - is a bike that finishes the day without shaking your hands numb.
 - Comfort: a real seat, an upright position, and ideally a windscreen for the highway sections.
 - Reliability with a repair network: this is the underbone's hidden strength - Honda Wave-class bikes are simple and widespread, so parts and mechanics who know them are easier to find than for rarer models.
 - Load capacity: luggage for days means a rack, bungees, and a bike that carries a passenger's worth of weight without drama.
@@ -63,7 +63,7 @@ Range is two published numbers combined: tank size in litres divided by consumpt
 | Honda Vario 125 (scooter) | 5.5 L | 2.11 L/100 km | about 261 km |
 | Yamaha Exciter 155 VVA (clutch) | 5.4 L | 2.07 L/100 km | about 261 km |
 
-Tank size does more of the work here than engine size. The 124.9 cc Future 125 FI reaches 313 km on 4.6 L at 1.47 L/100 km, while the 109.2 cc Wave Alpha reaches 215 km on 3.7 L at 1.72 L/100 km. Because each manufacturer states its own test conditions, use the table to see how the sum works, not to rank brands. For any other bike, take the tank and consumption from the manufacturer's page for that exact model and version and do the same sum.
+Tank size and consumption matter more to range than engine size. The 109.2 cc Wave RSX reaches about 256 km on 4.0 L at 1.56 L/100 km, while the 155 cc Exciter 155 VVA reaches about 261 km on 5.4 L at 2.07 L/100 km, so the larger engine added almost no range. Use the table to see how the sum works, not to rank brands. For any other bike, take the tank and consumption from the manufacturer's page for that exact model and version and do the same sum.
 
 Consumption is the number that moves most on a loaded bike in hills. Take an illustrative 4.0 L tank: at 2.0 L/100 km the sum gives 200 km, at 2.5 L/100 km it gives 160 km, and at 3.0 L/100 km about 133 km. These are arithmetic examples, not predictions for any model. Plan each fuel stop with a pessimistic consumption figure, refuel at the first sensible station rather than the last, and treat a small tank's gauge as a rough guide. The pacing and fuel stops of an underbone day are in [long-distance touring on a semi-automatic underbone]({{ '/articles/touring-semi-auto-underbone/' | relative_url }}).
 
@@ -71,11 +71,11 @@ Consumption is the number that moves most on a loaded bike in hills. Take an ill
 
 Luggage changes how a bike handles before it changes how fast it goes. Pack heavy items low and close to the middle of the bike, keep nothing hanging from the handlebars, and check the straps at every stop.
 
-Storage differs by type. Scooters publish an under-seat volume (23.2 L for the Honda Air Blade 125, 18 L for the Vario 125), while the Wave Alpha and Sirius RC pages record none, so luggage on an underbone lives on the rack. Rain cover for the bag matters on either.
+Storage differs by type. Scooters publish an under-seat volume (23.2 L for the Honda Air Blade 125, 18 L for the Vario 125), while the Wave Alpha and Sirius RC pages record none, so luggage on those two lives on the rack. Rain cover for the bag matters on either.
 
 ### Comfort and braking
 
-Comfort is mostly seat, posture and wind. A windscreen is an accessory, not something to assume on a rental bike, so ask at handover whether the bike has one; a gel pad is a common fix for a hard seat, and regular rest stops matter as much as the seat.
+Comfort is mostly seat, posture and wind. A windscreen is an accessory, not something to assume on a rental bike, so ask at handover whether the bike has one; a gel pad can help with a hard seat, and regular rest stops matter as much as the seat.
 
 Braking hardware differs by model and version, so judge the bike you are handed, not the model name. The Sirius RC page lists a front disc with a rear drum and notes that drum and disc versions exist; the Vario 125 lists a front disc with combined braking (CBS); the Exciter 155 lists front and rear discs, with ABS on limited ABS versions; the Wave Alpha page lists no disc version. On a long descent with luggage, brake in short stretches and, on a bike with gears, use a lower gear to hold speed rather than holding the lever; test both brakes loaded at handover.
 
@@ -85,7 +85,7 @@ Braking hardware differs by model and version, so judge the bike you are handed,
 2. Mid-size automatic scooters (Air Blade, Vision class): comfortable on good roads, best when the route sticks to paved highways.
 3. Manual 125-150 cc and up: the right tool if your licence covers it and you already ride manuals - engine braking and power matter in the mountains.
 
-The list is ordered by touring logistics (parts, repairs and load), not by speed or comfort. On a rental, the shop's agreement governs what outside repair is acceptable, so call before serious work is done. The table reorders the same classes by rider and route; for a single day out, [the best motorbike for day trips from Hanoi]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }}) owns that case.
+The list is ordered by touring logistics (parts, repairs and load), not by speed or comfort. Ask the shop what outside repair is acceptable before any serious work is done. The table reorders the same classes by rider and route; for a single day out, [the best motorbike for day trips from Hanoi]({{ '/articles/best-motorbike-for-day-trips-from-hanoi/' | relative_url }}) owns that case.
 
 | If you are | Look at | Why |
 |---|---|---|
@@ -105,9 +105,9 @@ The line that matters for a rental is the one in the power table. Under Article 
 
 Rent from a shop that maintains its bikes, do the full [inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}), photograph the bike, and agree in writing that the rental covers your provinces - some rentals [restrict riding outside Hanoi]({{ '/articles/rental-motorbike-outside-hanoi/' | relative_url }}), so ask. Breakdown, puncture and maintenance responsibilities should be clear before a long trip; [what happens if a rental breaks down]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) covers the standard division.
 
-## What to agree with the shop before a longer trip
+## What to ask the shop before a longer trip
 
-The shop's published support is primarily for Hanoi and local use. For a trip beyond that, state the route, the provinces, the number of days and the day you plan to bring the bike back, and have it agreed before you book. Nothing on this page describes a one-way rental, a drop-off in another city, roadside rescue or a touring package, and none of them should be assumed.
+The shop's published support is primarily for Hanoi and local use. For a trip beyond that, state the route, the provinces, the number of days and the day you plan to bring the bike back, and ask whether that trip is possible before you book. Nothing on this page describes a one-way rental, a drop-off in another city, roadside rescue or a touring package, and none of them should be assumed.
 
 Points worth raising in that conversation:
 
@@ -124,14 +124,14 @@ The inspection checklist covers the handover. These are the additions once days 
 
 1. **A loaded shakedown ride.** Ride a short loop near Hanoi with the luggage strapped on before committing to the route. Faults that stay hidden in city riding, such as vibration or fuel starvation, can show up at sustained speed.
 2. **Tyres set for the load.** Check tread and sidewalls, and set pressures from the figures for that bike rather than a guess.
-3. **Chain and oil each morning.** Chain slack, lubrication and oil level take a minute before the day starts. After each fuel stop, walk around the bike and tug the straps.
+3. **Chain and oil each morning.** Check chain slack, lubrication and oil level before the day starts. After each fuel stop, walk around the bike and tug the straps.
 4. **Lights, horn and mirrors.** A long day can end after dark, so check them before you leave.
 5. **Documents and phone.** Carry your licence, and the permit where one is needed. Ask at handover how the registration certificate and the compulsory insurance certificate will be shown at a stop ([what a rider must carry]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }})), and keep the shop's number on a charged phone.
 6. **Day length.** Plan by the road, not the map, and check the posted limit on each road, because a sign overrides the default.
 
 ## Rent from Hanoi, or travel another way?
 
-A rental from Hanoi suits a ride that starts and ends in Hanoi and has been agreed with the shop. Published day rates are 150,000 VND for the Honda Wave and 200,000 VND for the Honda Vision and Honda Air Blade, and the deposit is typically 2,000,000-5,000,000 VND depending on vehicle and conditions. For a period of more than a few days, ask how it would be quoted instead of multiplying the day rate; [the Hanoi rental price guide]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) has the published figures.
+A rental from Hanoi suits a ride that starts and ends in Hanoi, and only after you have asked the shop whether the route is acceptable. Published day rates are 150,000 VND for the Honda Wave and 200,000 VND for the Honda Vision and Honda Air Blade, and the deposit is typically 2,000,000-5,000,000 VND depending on vehicle and conditions. For a period of more than a few days, ask how it would be quoted instead of multiplying the day rate; [the Hanoi rental price guide]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) has the published figures.
 
 Other ways to cover the distance:
 
@@ -151,7 +151,7 @@ It can be, if you accept its limits. The published power of 5.9 to 6.83 kW leave
 
 ### Can I take a Hanoi rental to Hue or round the Ha Giang loop?
 
-That is a question for the shop before booking. Its support is primarily for Hanoi and local use, and any longer trip has to be agreed first.
+That is a question for the shop. Its support is primarily for Hanoi and local use, so ask before booking whether a longer trip is possible.
 
 ### Can a bigger bike use the expressway?
 

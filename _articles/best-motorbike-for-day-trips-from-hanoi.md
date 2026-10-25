@@ -25,7 +25,7 @@ A day trip changes the job description: higher sustained speeds, highway section
 
 ## Raise the trip with the shop before you book
 
-Nguyen Tu's support is primarily for Hanoi and local use, and every recommendation below assumes that limit. A day out of the city takes the bike away from the place where that support is based, so say where you plan to ride when you ask about a bike, and raise the trip with the shop before you book.
+Nguyen Tu's support is primarily for Hanoi and local use, and every recommendation below assumes that limit. A day out of the city takes the bike away from the place where that support is based, so say where you plan to ride when you ask about a bike, and ask the shop about the trip before you book.
 
 What is not offered matters as much. No roadside rescue, recovery or route support is published, and nothing published covers delivery to, or collection from, a place outside Hanoi. Delivery and pickup in Hanoi may be available depending on location and arrangement. Plan the day so that it does not depend on outside help, and do not assume that a call to the shop will end with a recovery truck or a replacement bike.
 
@@ -68,7 +68,7 @@ On a day out the difference is what your left foot and your luggage have to do. 
 
 ## How far a tank goes
 
-Range is arithmetic on two published numbers: the tank, and the fuel consumption the manufacturer claims. Honda and Yamaha publish both for the two semi-automatic models. The [long-distance guide]({{ '/articles/best-motorbike-for-long-distance-vietnam/' | relative_url }}) works the range sum: about 215 km for the Wave Alpha 110 (3.7 L, 1.72 L/100 km) and about 202 km for the Sirius RC 110 (4.2 L, 2.08 L/100 km). This guide quotes no tank or consumption figure for the scooters, so ask the shop for the tank size of the bike you are given and work the same sum.
+Range is arithmetic on two published numbers: the tank, and the fuel consumption the manufacturer claims. Honda and Yamaha publish both for the two semi-automatic models. The [long-distance guide]({{ '/articles/best-motorbike-for-long-distance-vietnam/' | relative_url }}) works the range sum: about 215 km for the Wave Alpha 110 (3.7 L, 1.72 L/100 km) and about 202 km for the Sirius RC 110 (4.2 L, 2.08 L/100 km). This guide quotes no tank or consumption figure for the scooters, so ask the shop for the tank size and claimed consumption of the bike you are given and work the same sum (tank in litres divided by litres per 100 km, times 100).
 
 ### A planning figure, not a promise
 
@@ -107,7 +107,7 @@ Two rules shape the route. First, the default limits for motorbikes outside buil
 The full handover walk-round is in the [rental inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}). For a day out, make these the last things you do before you leave the street:
 
 1. Fuel: note the level, ask which petrol the bike takes, and fill at the city edge.
-2. Tyres, brakes, chain, lights, mirrors: run the checklist above; test brakes at walking pace before a main road.
+2. Tyres, brakes, chain, lights, mirrors: run the handover walk-round linked above; test brakes at walking pace before a main road.
 3. Papers: ask at handover how the registration certificate and the compulsory insurance certificate will be shown at a stop, and carry your licence.
 4. Phone: shop number saved, battery full, offline maps downloaded, route and expected return time shared with someone in the city.
 5. Weather: read the forecast for the destination, not for Hanoi, and let rain change the plan.
