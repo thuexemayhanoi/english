@@ -14,9 +14,10 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.1 how-to-rent"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 56(1)(a), 56(1)(d) and 56(3): registration certificate (certified copy only for a vehicle mortgaged to a credit institution, with its original confirmation), compulsory insurance certificate, electronic identification account (retrieved 2026-10-25)"
 internal_link_targets: "do-hanoi-rentals-include-helmets, motorbike-rental-fuel-policy-hanoi, is-insurance-included-motorbike-rental-hanoi, motorbike-rental-pickup-or-delivery-hanoi, motorbike-rental-deposit-hanoi, rental-motorbike-breakdown-hanoi, punctured-tyre-on-rental-motorbike, how-to-book-a-motorbike-rental-hanoi"
 ---
 
@@ -37,7 +38,7 @@ Each row has its own status label. Only the bike is marked Included; maintenance
 | Free repairs, 24/7 rescue, a guaranteed rescue time | Not promised | Do not plan around them |
 | Helmets, raincoat, phone holder | Ask | Not confirmed as part of the rental |
 | Fuel | Ask | Agree the level at handover and at return |
-| Registration papers | Ask | Which papers travel with the bike: the original or a certified copy |
+| Registration papers | Ask | How the registration will be shown at a police stop |
 
 ## Included
 
@@ -47,7 +48,7 @@ The day rate and what sits on top of it are set out further down. Everything els
 
 ## May be included: maintenance and support
 
-Both items below depend on your bike and your dates, so treat them as questions to confirm rather than promises.
+Both items below are conditional, so treat them as questions to confirm rather than promises.
 
 - The owner's basic maintenance across the rental: engine oil changes, chain adjustment and tensioning, tyre-pressure checks and normal inspection. On a longer rental this is a real part of the value - a monthly renter is not paying for the bike's upkeep. Read the list as work the maintenance may include, not as a fixed service schedule, and ask which items apply to your bike and your dates.
 
@@ -90,7 +91,7 @@ None of these five is confirmed as part of the rental, so none appears under Inc
 | Raincoat | Is one available, or should I bring my own? | Nothing confirms that one comes with the bike |
 | Phone holder | Is a holder fitted or available? | Navigating by phone needs a mount that fits the handlebar |
 | Fuel | What level at handover, and what level at return? | Both sides need the same number in mind |
-| Registration papers | Which papers travel with the bike, original or certified copy? | Police ask a stopped rider for them |
+| Registration papers | How will the registration be shown at a police stop? | The rider must carry it (Law 36/2024/QH15, Article 56) |
 
 ### Helmets
 
@@ -106,7 +107,7 @@ Neither is confirmed, so ask, and if the answer is no, bring your own. A raincoa
 
 ### Registration papers
 
-Ask at handover which registration papers travel with the bike (the original or a certified copy); if they stay at the shop, keep the shop's number for a police stop. [What a rider must carry in Vietnam]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) covers the papers a rider is required to carry, the registration certificate among them.
+Ask at handover how the bike's registration will be shown at a police stop. Article 56 of Law 36/2024/QH15 expects the rider to carry the registration certificate itself; a certified copy counts only for a bike mortgaged to a bank, together with the bank's original confirmation, and papers already integrated into an electronic identification account can be shown through that account. Keep the shop's number. [What a rider must carry in Vietnam]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) covers the papers a rider is required to carry, the registration certificate among them.
 
 ### Keep the answers in writing
 
@@ -158,7 +159,7 @@ Not as a confirmed item, so ask. The law requires a fastened helmet for the ride
 
 ### Does a Hanoi motorbike rental include insurance?
 
-Rider insurance is not provided: arrange your own cover before you ride. The law requires the vehicle's owner to hold compulsory third-party cover, separate from any cover for you. Ask whether a certificate is available to see, and do not rely on it for your own injuries.
+Rider insurance is not provided: arrange your own cover before you ride. The law requires the vehicle's owner to hold compulsory third-party cover, separate from any cover for you. Article 56(1)(d) of Law 36/2024/QH15 lists the owner's compulsory insurance certificate among the documents a rider must carry, so ask at handover how it will be shown, and do not rely on that cover for your own injuries.
 
 ### Is fuel part of the rental price?
 
@@ -174,4 +175,4 @@ It depends on the situation: inner tubes and tyres may be the renter's responsib
 
 ### Can I count on rescue at any hour if the bike breaks down?
 
-No. Rescue at any hour is not promised, so call or message during opening hours.
+No. Call or message during opening hours; the limits are under What support does not promise.

@@ -31,7 +31,7 @@ Three documents belong in your pocket, not under the seat. When traffic police i
 
 The licence must match the machine. An A1 licence for standard bikes, or the appropriate IDP with national licence for visitors from 1968 Vienna Convention countries. Riding with no licence at all is a far heavier offence than forgetting it at home.
 
-The registration certificate (chứng nhận đăng ký xe) proves the bike is legally registered. For a rental, the shop should hand over a copy kept with the bike; riders routinely carry a photocopy, which police accept in practice, though the rule speaks of the certificate or a certified copy.
+The registration certificate (chứng nhận đăng ký xe) proves the bike is legally registered. Article 56(1)(a) of Law 36/2024/QH15 asks the rider to carry the certificate itself; a certified copy counts only for a bike mortgaged to a bank, together with the bank's original confirmation, and Article 56(3) lets papers already integrated into an electronic identification account be shown through that account. For a rental, ask at handover how the registration will be shown at a stop.
 
 The compulsory insurance certificate proves the bike carries the mandatory civil-liability coverage. Its absence is fined like any other missing document, and — more importantly — leaves the rider personally exposed after any accident.
 
@@ -43,7 +43,7 @@ Distinct and much heavier penalties apply for different situations: having no li
 
 ## Practical notes for renters and visitors
 
-Check before leaving the shop that the registration copy and insurance certificate ride with the bike. Tourists on an [IDP]({{ '/articles/idp-vietnam-motorbike-rules/' | relative_url }}) should carry the permit and their national licence together — the permit alone is not enough, and riding without the national licence that the permit must be paired with is treated in the same band as riding with no licence at all (Article 18(5)(b)).
+Ask before leaving the shop how the registration certificate and the compulsory insurance certificate will be shown at a stop. Tourists on an [IDP]({{ '/articles/idp-vietnam-motorbike-rules/' | relative_url }}) should carry the permit and their national licence together — the permit alone is not enough, and riding without the national licence that the permit must be paired with is treated in the same band as riding with no licence at all (Article 18(5)(b)).
 
 Papers integrated into the VNeID e-identification account are developing as an alternative to physical carriage, but until a checkpoint confirms it works for your situation, the paper in the pocket is still the safe answer.
 

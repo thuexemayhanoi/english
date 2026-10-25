@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.1 how-to-rent"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
 internal_link_targets: "how-deposit-returns-work-hanoi, late-return-rental-motorbike-hanoi, early-return-rental-motorbike-hanoi, motorbike-rental-fuel-policy-hanoi, rental-motorbike-inspection-checklist, extending-motorbike-rental-hanoi, renting-motorbike-noi-bai-arrival, motorbike-rental-pickup-or-delivery-hanoi, motorbike-rental-deposit-hanoi"

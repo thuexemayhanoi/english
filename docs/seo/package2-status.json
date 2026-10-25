@@ -37,6 +37,27 @@
    "qa": "lint 0 errors; independent verification of every article (verifier, fix round and delta verifier where findings were MAJOR); build-report P0 0 P1 0; engine tests; Jekyll build and rendered audit P0/P1 0; assistant tests; duplicate check P2 0",
    "notes": "Group A, queue order of the second batch. Every article passed an independent verifier; pickup-or-delivery, Noi Bai arrival, first-time renting, best scooters and can-foreigners needed a fix round and passed a delta verification; automatic-vs-manual (one MAJOR, replaced with the verifier's wording) and the MINOR findings elsewhere were applied by the lead and checked by lint and QA. Recorded front matter changes: how-to-book title now carries its primary keyword (\"Motorbike rental app Hanoi\") and says there is no app; pickup-or-delivery description drops \"and test-ride\" (no test-ride policy in OWNER-FACTS); best-scooters description named three models, claimed what foreigners actually rent and lacked \"Hanoi scooter rental\"; can-foreigners description says deposit instead of cash deposit. Delivery-old-quarter title deliberately unchanged: a title with motorbike rental plus Hanoi Old Quarter would compete with the ranking /articles/renting-motorbike-old-quarter/. Removed or reworded original passages: how-to-book \"both work for foreign numbers\", \"in Vietnamese or simple English\" and three implied shop policies (photos on the spot, test ride and swap, booking secures the bike); how-to-rent \"Shops will hand you a bike without asking\" and the deposit-comes-back sentence; pickup-or-delivery test-riding lead clause, test-ride/swap, first ten minutes, deliverer present, deposit and contract travel, quickest deposit settlement, inside a few kilometres; Hoan Kiem one-way loop, actively enforced, roughly fifteen minutes and case-by-case delivery; Noi Bai 25-30 km (now 27 km from the Vietnam Airlines guide), the shop-cannot-hand-you-a-bike-at-the-terminal sentence and two unsourced airport-road claims; automatic-vs-manual The Vietnamese default, Learning time: minutes, less ground clearance, narrower/lighter/every roadside shop, cheapest and simplest (the day rates are equal); best-scooters three models dominate, most popular scooter in Vietnam, the unverified Click bodywork/running-gear sentence, suits most riders, the regular-unleaded/serviced-by-the-shop bullet; first-time automatics creep from idle (a centrifugal clutch is disengaged at idle), most visitors use, nerves wear off within a day; delivery-old-quarter ten minutes, about fifteen minutes' ride, identical to the shop version; can-foreigners the lead claim that foreigners rent every day with no residence status or bank account needed, stock changes week to week, return deposits, process takes minutes, foreigners rent here every day, the phone-number and residence-card lines, old A1 up to 175 cc, Under 50 cc, every fine amount (Decree 238/2026/ND-CP amends Decree 168/2024 from 15 August 2026 and its amended Article 18 could not be read). No weekly, monthly, 50cc or E-Bike price added (docs/seo/price-reconciliation.md). Legal correction outside the batch: motorbike-passenger-rules-vietnam and child-passengers-motorbike-vietnam said a child under 14 with an adult may be a second passenger; Law 36/2024/QH15 Article 33(1)(c), as quoted by the Government page both articles cite, says a child under 12 with no adult condition (re-read 2026-10-25). Findings for the owner: exploring-hoan-kiem-by-motorbike and hoan-kiem-walking-street-motorbike-visitors describe one continuous Friday-to-Sunday closure (the 2026 reports give 19:00-24:00 on each day) and omit Zone 1; renting-motorbike-old-quarter omits the Zone 1 evening restriction and keeps an unsourced fifteen-minute ride; do-hanoi-rentals-include-helmets, helmet-law-vietnam and renting-motorbike-hanoi-one-day state helmet policies not in OWNER-FACTS; motorbike-rental-requirements-hanoi and compulsory-motorbike-insurance-vietnam state insurance carried by the shop, against OWNER-FACTS; motorbike-rental-deposit-hanoi and returning-a-rental-motorbike-hanoi promise deposit return on the spot in cash; which-countries-idp-valid-vietnam and idp-validity-period-vietnam call an IDP without the national licence a document-carriage fine; the Decree 238/2026 amendment may affect fine amounts quoted across the legal guides; docs/MODEL-DATABASE.md gives the Vision as 110 cc where Honda publishes 109.5 cc and its Yamaha Sirius RC URL now returns 404.",
    "commit": ""
+  },
+  {
+   "id": "p2-03",
+   "date": "2026-10-25",
+   "slugs": [
+    "renting-motorbike-six-months-hanoi",
+    "three-month-motorbike-rental-hanoi",
+    "returning-a-rental-motorbike-hanoi",
+    "expats-monthly-motorbike-hanoi",
+    "renting-motorbike-year-hanoi",
+    "rental-motorbike-inspection-checklist",
+    "common-motorbike-rental-problems-hanoi",
+    "what-is-included-motorbike-rental-hanoi",
+    "motorbike-rental-english-teachers-hanoi",
+    "motorbike-rental-international-students-hanoi"
+   ],
+   "words_before": 3899,
+   "words_after": 20636,
+   "qa": "lint 0 errors; independent verification (writer + verifier, fix round and delta verification where refuted); build-report P0 0 P1 0; engine tests pass; Jekyll build and rendered audit P0/P1 0; assistant 31/31; duplicate check P2 0",
+   "notes": "Priority A rental money pages (long-term terms, return, inspection, problems, inclusions, audience pages), third batch. Every article passed an independent verifier; six-months, three-month, returning and expats-monthly passed on the first verification with MINOR findings; year, inspection checklist, common problems, what-is-included, English teachers and international students needed a fix round and passed a delta verification; the delta MINOR findings and the verifier MINOR findings elsewhere were applied by the lead with the verifier's wording and checked by lint and QA. Cross-article rule set by the lead: OWNER-FACTS does not say whether the registration certificate travels with a rental bike and the VERIFIED police-impound guide says it stays with the owner, so every batch-3 page writes it as a question (ask at handover which registration papers travel with the bike, the original or a certified copy). Recorded front matter changes: returning description no longer promises a ten-minute return and the deposit back in cash (OWNER-FACTS states neither); inspection-checklist description drops \"thirty seconds\" and now carries its primary keyword; common-problems description drops \"the five problems that actually hit Hanoi renters\" (unsourced) and names problems in order of when they happen; what-is-included description drops registration papers and \"usually helmets\" (neither in OWNER-FACTS) and states no insurance from Nguyen Tu. No title changed. Removed or reworded original passages: six-months the ~1,500 km sentence (kept as owner guidance, reworded) and the long-term habits list (support channel wording); three-month the negotiation heading sentence (folded into the terms table); returning ten minutes, nobody charges for dust, deposit back on the spot in cash, worth their two minutes, shops are reasonable about extensions, photos-fuel-handshake-cash (all unsourced or implied policy); year expect several visits (now \"may include\"), still wins for most expats (now \"can suit\"), the relationship paragraph (reworded); inspection-checklist thirty seconds, 2-3 cm chain play and fixed in minutes (unsourced), \"number plates\" (a motorbike carries one rear plate, Circular 79/2024), registration certificate with the bike and insurance certificate available (now questions), \"no plates\", sign-photograph-ride (photos come first); common-problems same five problems, keep the contract until the cash is back, stolen from sidewalks not guarded parking, pay for attended parking (absolute claims), registration certificate at the shop and take it with the bike (now a question); what-is-included honestly split, papers and third-party insurance ride with the bike, ask to see both, helmets at most shops (no helmet policy in OWNER-FACTS), third-party cover wording (now the owner's legal duty, within its limits and conditions), agreed fuel level (fuel conventions differ), the breakdown division sentence, the closing core-and-edges line; English teachers how most teachers start, typically two to four locations, automatic scooters dominate, maintenance included (now may include, as OWNER-FACTS words it); international students none removed (100% kept): corrective sentences follow the unsourced below-ownership-cost line, the keep-the-receipt line, the loose 50cc-class wording (moped definition from Law 36/2024/QH15 Article 34(1)(g)) and the Ninh Binh weekend line (support is primarily Hanoi and local). Link budgets: common-problems keeps 16 targets because it is an index of problems, each linked to the guide that covers it in full. Source reads after Firecrawl ran out of credits used Tavily extract (Law 36/2024/QH15 Articles 34, 56, 57 and 59; Circular 12/2025/TT-BCA Article 24). No weekly, monthly, 50cc or E-Bike price added (docs/seo/price-reconciliation.md).",
+   "commit": ""
   }
  ],
  "articles": {
@@ -159,6 +180,86 @@
    "words_before": 476,
    "words": 2174,
    "qa": "lint 0 errors; independent verification of every article (verifier, fix round and delta verifier where findings were MAJOR); build-report P0 0 P1 0; engine tests; Jekyll build and rendered audit P0/P1 0; assistant tests; duplicate check P2 0"
+  },
+  "renting-motorbike-six-months-hanoi": {
+   "status": "DONE",
+   "batch": "p2-03",
+   "date": "2026-10-25",
+   "words_before": 497,
+   "words": 1941,
+   "qa": "lint 0 errors; independent verification (writer + verifier, fix round and delta verification where refuted); build-report P0 0 P1 0; engine tests pass; Jekyll build and rendered audit P0/P1 0; assistant 31/31; duplicate check P2 0"
+  },
+  "three-month-motorbike-rental-hanoi": {
+   "status": "DONE",
+   "batch": "p2-03",
+   "date": "2026-10-25",
+   "words_before": 375,
+   "words": 1992,
+   "qa": "lint 0 errors; independent verification (writer + verifier, fix round and delta verification where refuted); build-report P0 0 P1 0; engine tests pass; Jekyll build and rendered audit P0/P1 0; assistant 31/31; duplicate check P2 0"
+  },
+  "returning-a-rental-motorbike-hanoi": {
+   "status": "DONE",
+   "batch": "p2-03",
+   "date": "2026-10-25",
+   "words_before": 339,
+   "words": 2413,
+   "qa": "lint 0 errors; independent verification (writer + verifier, fix round and delta verification where refuted); build-report P0 0 P1 0; engine tests pass; Jekyll build and rendered audit P0/P1 0; assistant 31/31; duplicate check P2 0"
+  },
+  "expats-monthly-motorbike-hanoi": {
+   "status": "DONE",
+   "batch": "p2-03",
+   "date": "2026-10-25",
+   "words_before": 304,
+   "words": 2003,
+   "qa": "lint 0 errors; independent verification (writer + verifier, fix round and delta verification where refuted); build-report P0 0 P1 0; engine tests pass; Jekyll build and rendered audit P0/P1 0; assistant 31/31; duplicate check P2 0"
+  },
+  "renting-motorbike-year-hanoi": {
+   "status": "DONE",
+   "batch": "p2-03",
+   "date": "2026-10-25",
+   "words_before": 403,
+   "words": 1706,
+   "qa": "lint 0 errors; independent verification (writer + verifier, fix round and delta verification where refuted); build-report P0 0 P1 0; engine tests pass; Jekyll build and rendered audit P0/P1 0; assistant 31/31; duplicate check P2 0"
+  },
+  "rental-motorbike-inspection-checklist": {
+   "status": "DONE",
+   "batch": "p2-03",
+   "date": "2026-10-25",
+   "words_before": 341,
+   "words": 2445,
+   "qa": "lint 0 errors; independent verification (writer + verifier, fix round and delta verification where refuted); build-report P0 0 P1 0; engine tests pass; Jekyll build and rendered audit P0/P1 0; assistant 31/31; duplicate check P2 0"
+  },
+  "common-motorbike-rental-problems-hanoi": {
+   "status": "DONE",
+   "batch": "p2-03",
+   "date": "2026-10-25",
+   "words_before": 406,
+   "words": 1878,
+   "qa": "lint 0 errors; independent verification (writer + verifier, fix round and delta verification where refuted); build-report P0 0 P1 0; engine tests pass; Jekyll build and rendered audit P0/P1 0; assistant 31/31; duplicate check P2 0"
+  },
+  "what-is-included-motorbike-rental-hanoi": {
+   "status": "DONE",
+   "batch": "p2-03",
+   "date": "2026-10-25",
+   "words_before": 350,
+   "words": 2098,
+   "qa": "lint 0 errors; independent verification (writer + verifier, fix round and delta verification where refuted); build-report P0 0 P1 0; engine tests pass; Jekyll build and rendered audit P0/P1 0; assistant 31/31; duplicate check P2 0"
+  },
+  "motorbike-rental-english-teachers-hanoi": {
+   "status": "DONE",
+   "batch": "p2-03",
+   "date": "2026-10-25",
+   "words_before": 445,
+   "words": 2109,
+   "qa": "lint 0 errors; independent verification (writer + verifier, fix round and delta verification where refuted); build-report P0 0 P1 0; engine tests pass; Jekyll build and rendered audit P0/P1 0; assistant 31/31; duplicate check P2 0"
+  },
+  "motorbike-rental-international-students-hanoi": {
+   "status": "DONE",
+   "batch": "p2-03",
+   "date": "2026-10-25",
+   "words_before": 439,
+   "words": 2051,
+   "qa": "lint 0 errors; independent verification (writer + verifier, fix round and delta verification where refuted); build-report P0 0 P1 0; engine tests pass; Jekyll build and rendered audit P0/P1 0; assistant 31/31; duplicate check P2 0"
   }
  }
 }

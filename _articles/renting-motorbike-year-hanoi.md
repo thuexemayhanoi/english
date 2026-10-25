@@ -14,7 +14,7 @@ search_intent: commercial
 topic_cluster: monthly-rental
 subcluster: "2.2 long-term-planning"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-12-2025-tt-bca-cua-bo-cong-an-quy-dinh-ve-sat-hach-cap-giay-phep-lai-xe-119250303174347028.htm — Circular 12/2025/TT-BCA of the Ministry of Public Security, full text (Báo điện tử Chính phủ) — Article 24 (exchange of foreign driving licences): a national licence still valid, residence papers of three months or more, exchange into the corresponding Vietnamese class (retrieved 2026-10-25)"
