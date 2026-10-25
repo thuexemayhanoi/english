@@ -17,38 +17,148 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-internal_link_targets: hill-starts-motorbike-slopes-vietnam, first-time-renting-a-motorbike-hanoi, automatic-vs-manual-motorbike-hanoi, lightest-motorbikes-for-new-riders, best-motorbike-for-hanoi-traffic, how-to-rent-a-motorbike-hanoi, semi-automatic-gearbox-explained, learning-to-ride-on-50cc-vietnam
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 34 (definitions of the moped and of the motorised pedal bicycle, including the electric bicycle) and Article 59 (age 16 for a moped, age 18 for class A1) (retrieved 2026-10-25)"
+  - "https://www.honda.com.vn/xe-may/san-pham/vision — Honda Vietnam: Vision detail page — kerb weight (retrieved 2026-10-25)"
+  - "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110 — Honda Vietnam: Wave Alpha 110 detail page — kerb weight, seat height and gearbox type (retrieved 2026-10-25)"
+  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23) — transmission of the Honda Vision and Air Blade 125, kerb weight of the Air Blade 125 and the existence of an Air Blade 160, transmission and clutch type of the Yamaha Sirius RC 110"
+internal_link_targets: hill-starts-motorbike-slopes-vietnam, first-time-renting-a-motorbike-hanoi, automatic-vs-manual-motorbike-hanoi, lightest-motorbikes-for-new-riders, best-motorbike-for-hanoi-traffic, how-to-rent-a-motorbike-hanoi, semi-automatic-gearbox-explained, learning-to-ride-on-50cc-vietnam, scooter-vs-semi-automatic-hanoi, electric-bike-licence-vietnam
 ---
 
-Ease on a motorbike is measurable: weight, seat height, throttle manners, and how little there is to operate. Ranked by what actually makes a first-week rider safe.
+Ease on a motorbike is measurable: weight, seat height, throttle manners, and how little there is to operate. Ranked by what actually makes a first-week rider safe. Here that means workload: the fewer things a new rider has to operate, hold up and judge at once, the higher a type sits, which puts a light automatic scooter of the Honda Vision, Honda Click or Yamaha Mio class first for a first-time rider in Hanoi.
+
+## What makes a bike easy for a first-time rider
+
+Six things decide how hard a bike is in the first week, and each can be tested at the counter before the rental starts.
+
+| What to look at | Why it matters at first | What easy looks like |
+|---|---|---|
+| Gearbox | Every extra control is one more job while the rider watches traffic | No gear lever and no clutch lever to operate |
+| Seat and reach | At a stop, the rider's legs are the stand | Both feet reach the ground when sitting upright |
+| Weight | A heavy bike is harder to hold at a stop and to push back from a kerb | A bike you can hold upright and walk backwards without effort |
+| Throttle | A nervous hand opens it too far | A smooth, progressive response with no lurch |
+| Brakes | The first hard stop tests them | Both bite smoothly, and you know which control stops which wheel |
+| Controls | Looking down for a switch takes your eyes off the road | Horn, indicators and starter fall under your thumbs |
+
+The rows are not in order of importance. A rider with short legs meets the seat first, a nervous rider meets the throttle first, and every rider meets the brakes sooner or later. A specification sheet covers some of these and misses the rest: it can list a weight, but it cannot say how one particular bike's throttle and brakes feel today. That is why the classes below are judged by what they ask of the rider, and why the handover checks further down test the bike itself.
 
 ## The easiest class: light automatic scooters
 
-The Honda Vision, Honda Click and Yamaha Mio class top every list, and the reasons are mechanical:
+The Honda Vision, Honda Click and Yamaha Mio class is the easiest place to start, and the reasons are mechanical:
 
 - No gears and no clutch - nothing for the left hand or left foot to do except the brake.
-- Low, narrow seats that let most riders plant a foot at stops - balance anxiety is the beginner's main problem, and seat height kills it.
-- Small, forgiving wheels with gearing tuned for city speeds; the throttle is hard to get wrong.
-- Light enough (roughly the 100 kg class for these models) to paddle and park confidently.
+- Step-through bodywork and a seat that lets a rider plant a foot at stops - balance anxiety is a beginner's worry, and reaching the ground is what settles it, though no seat-height figure is quoted here for these three, so the sit test below decides.
+- A twist-and-go throttle with the transmission doing the rest, so the rider manages speed and the brakes and nothing else; the one skill left is a smooth throttle hand, because a sharp twist from a standstill sends the bike forward quickly.
+- Light enough to paddle and park confidently - Honda lists the Vision at 97 kg, and no weight is quoted here for the Click or the Mio.
 
 Day rates: 150,000-200,000 VND; contact us to confirm current availability.
 
+The Honda Air Blade is an automatic too. Honda lists the Air Blade 125 with the same CVT transmission as the Vision, at 110 kg against the Vision's 97 kg, and it also lists an Air Blade 160, so ask which one you are offered.
+
+### What automatic does not remove
+
+An automatic removes the gearbox, not the other beginner skills: balance at walking pace, braking in a straight line and reading the traffic. A Vision, Click or Mio still needs its first ride around the block before its first ride in traffic, and [the first-time rental walkthrough]({{ '/articles/first-time-renting-a-motorbike-hanoi/' | relative_url }}) sets out a plan for that hour.
+
 ## Nearly as easy: licence-free e-bikes
 
-For riders with no motorcycle licence at all, a licence-free e-bike is both the legal answer and the easiest machine: bicycle-like controls, low speeds, no gears, no petrol. It cannot keep up with full traffic, but inside neighbourhood streets that is a feature for a beginner.
+For riders with no motorcycle licence at all, an e-bike in a licence-free class is the legal answer, and an easy machine: simple controls, low speeds, no gears, no petrol. It cannot keep up with full traffic, but inside neighbourhood streets that is a feature for a beginner.
+
+An e-bike sits second rather than first because the name covers machines that differ in controls and top speed, so ask what kind it is before counting on it being as simple as a scooter. Whether one is available for your dates is a question for the shop.
+
+### Which e-bikes need no licence
+
+Law 36/2024/QH15 sorts electric two-wheelers by construction and power, and the sorting decides whether a licence applies:
+
+- **Pedal-assist electric bicycle.** The motor stops helping when the rider stops pedalling or when the bike reaches 25 km/h. Article 34 treats it as a non-motorised vehicle, so no driving licence applies.
+- **Electric moped.** A motor of 4 kW or less and a design speed of no more than 50 km/h make a moped (Article 34(1)(g)). A rider from age 16 may ride one (Article 59(1)(a)), and no licence class applies.
+- **Anything above that.** A scooter-style electric machine of more than 4 kW, or designed to go faster than 50 km/h, is a motorcycle and needs a licence class, as [the electric bike licence guide]({{ '/articles/electric-bike-licence-vietnam/' | relative_url }}) sets out.
+
+The label on a rental does not tell you which group it belongs to, so ask for the rated power and the top speed, and for a pedal-assist bike ask whether the motor stops assisting when you stop pedalling. A helmet is compulsory on either kind of e-bike and the other traffic rules apply in full; [Vietnam's helmet law]({{ '/articles/helmet-law-vietnam/' | relative_url }}) gives the rule.
 
 ## The middle option: semi-automatic underbones
 
-The Wave and Sirius class are easy to ride but add a foot-shifted gearbox - one more thing to learn. If a beginner must start on one, an empty parking lot and thirty minutes covers it; automatics skip the lesson entirely.
+The Wave and Sirius class are easy to ride but add a foot-shifted gearbox - one more thing to learn. If a beginner must start on one, an empty parking lot and unhurried practice before the first road is the sensible start; automatics skip the lesson entirely.
+
+Honda lists a mechanical four-speed rotary gearbox for the Wave Alpha 110, and Yamaha lists a four-speed rotary gearbox with a wet multi-plate centrifugal clutch for the Sirius RC 110. Neither has a clutch lever, so the left foot does all the shifting. Honda lists the Wave Alpha 110 at 96 kg and publishes a 770 mm seat height for it, the only seat-height figure quoted in this guide; a figure like that cannot tell you whether your legs reach the ground, so the sit test decides here as well.
+
+[The scooter versus semi-automatic comparison]({{ '/articles/scooter-vs-semi-automatic-hanoi/' | relative_url }}) sets the two types side by side. For this guide it is enough that an underbone sits one task above a scooter and well below a clutch bike.
 
 ## What to avoid as a beginner
 
-Manual clutch bikes (a workload in traffic), anything tall or heavy, and anything fast enough to get you into trouble before your reflexes arrive. Also avoid bikes with worn brakes or tyres - see the inspection checklist regardless of model.
+Manual clutch bikes (a workload in traffic), anything tall or heavy, and anything fast enough to get you into trouble before your reflexes arrive. Also avoid bikes with worn brakes or tyres - see [the inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) regardless of model.
+
+Each of these fails a row of the table at the top:
+
+- **Manual clutch bikes** fail the gearbox row: the clutch lever adds a hand task to every start and stop, and [the three-way transmission comparison]({{ '/articles/automatic-vs-manual-motorbike-hanoi/' | relative_url }}) covers clutch bikes in full.
+- **Tall or heavy bikes** fail the seat and weight rows, leaving no margin when a stop goes wrong.
+- **Fast bikes** fail the throttle row, because speed arrives before judgement, and they are a licence question: class A1 on a new licence covers petrol two-wheelers up to and including 125 cc, and anything larger needs class A, as [the A1 licence guide]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) explains.
+- **Worn brakes or tyres** fail the brakes row, whatever the class.
+
+## Judging the bike at handover
+
+A class tells you what is likely; the bike in front of you is what you ride. These checks are short, and each one says when to ask for another bike.
+
+| Check | It passes when | Ask for another bike when |
+|---|---|---|
+| Sit on it, engine off | Both feet reach the ground in the shoes you will ride in | Only a toe reaches, or your knees catch the bars at full lock |
+| Hold it upright | You can lift it off the stand, roll it back and lean it a little each way and recover it | It feels as if it is choosing where to go |
+| Reach the controls | Your thumbs reach the horn and indicators and your fingers sit on both brake levers | You have to let go of a grip to reach a switch |
+| Name the brakes | You can say which control stops which wheel | You are unsure, or the answer surprises you |
+| Walking-pace ride | It pulls away smoothly, the bars turn fully both ways and it does not lurch | It lurches, stalls or snags at full lock |
+
+Stop-start traffic tests reach and weight at every junction, so the first two rows deserve patience; [the guide to the lightest motorbikes for new riders]({{ '/articles/lightest-motorbikes-for-new-riders/' | relative_url }}) covers weight in full.
+
+On the brakes, ask which control works which wheel, because some scooters link the brakes, and ask whether the bike has ABS rather than assuming it. [The Hanoi traffic guide]({{ '/articles/best-motorbike-for-hanoi-traffic/' | relative_url }}) sets out the roll-and-squeeze test for each brake.
+
+For the ride, ask whether you may ride a short stretch somewhere quiet before you commit, and keep it to straight lines and one slow turn. Some scooters switch the engine off at a stop and restart it when the throttle is twisted, so ask whether the one you are given does, and watch it restart before you rely on it at a junction. If a ride is not possible, the standing checks are the minimum, and the first ride should stay short and on a quiet street. When a check fails, ask for another bike; whether one is on hand for your dates is a question for the shop.
+
+## Which easy bike suits which beginner
+
+| If you are | Start with | Why |
+|---|---|---|
+| Someone who has never ridden anything with an engine | An automatic scooter, after practice somewhere quiet | Hanoi traffic is a poor classroom; [the complete-beginner guide]({{ '/articles/renting-motorbike-hanoi-complete-beginner/' | relative_url }}) sets out a learning path |
+| Used to a scooter or moped at home, with a licence Vietnam recognises | An automatic scooter of the Vision, Click or Mio class | The controls are familiar, so the traffic is the new skill |
+| Used to a bike with gears | An automatic first, or an underbone if you are happy shifting | A clutch adds work at every junction |
+| Short, light or tall | Whichever bike passes the sit and hold checks | Fit decides, and a figure on paper cannot settle it |
+| Without a licence Vietnam recognises | An e-bike in a licence-free class | Check the rated power and top speed first |
+
+Which licence counts for a visitor is a separate question from which bike is easy; [can foreigners rent a motorbike in Hanoi]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) covers eligibility and documents.
+
+## Published day rates and what to ask
+
+The published day rates follow the model, not how easy the bike is to ride. The Honda Click and Yamaha Mio scooters are published at 150,000 VND per day, the Honda Vision at 200,000 VND, and the Honda Wave and Yamaha Sirius underbones at 150,000 VND. Choosing the easiest class therefore does not mean paying the most, and an underbone saves nothing against a Click or a Mio.
+
+A deposit is typically 2,000,000-5,000,000 VND depending on vehicle and conditions, and Nguyen Tu does not provide motorbike insurance, so you arrange your own. For weekly and monthly rates, and for 50cc bikes and E-Bikes, use [the rental price guide]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}); do not infer one model's price from another's. Beyond the model, ask which exact version the bike is.
+
+## Mistakes that make an easy bike hard
+
+- **Choosing by looks or engine size.** A bigger engine adds speed before it adds skill, and it can move you out of class A1.
+- **Taking a bike you can only tiptoe.** At every stop a toe is all that stands between the rider and the weight of the bike.
+- **Assuming licence-free means rule-free.** An e-bike or a moped needs no driving licence, but a helmet is compulsory and the traffic rules still apply.
+- **Judging an automatic by its class alone.** Two scooters of the same class can feel different in the throttle and the brakes, because wear and set-up differ from bike to bike.
 
 ## The honest beginner package
 
 An automatic scooter, a helmet that fits, the first ride around the block before the first ride in traffic, and slow, predictable lines. Confidence arrives on day two; the bike should not be the hard part on day one.
 
+How fast confidence builds differs from rider to rider, so there is no schedule to meet: stay on quiet streets until the controls need no thought.
+
+## Common questions
+
+### What is the easiest motorbike for a beginner in Hanoi?
+
+A light automatic scooter of the Honda Vision, Honda Click or Yamaha Mio class, because there is no gear or clutch to manage and the throttle and brakes are the whole job. Ease also depends on the individual bike, so run the sit, hold and walking-pace checks before you accept it.
+
+### Is an e-bike easier than a scooter?
+
+It can be simpler, with no gears and a limited top speed, but the word covers different machines. A pedal-assist bicycle, a moped-class electric scooter and a faster electric motorcycle are three different legal groups, so ask for the rated power and the top speed.
+
+### Do I need a licence for the easiest bikes?
+
+The petrol scooters and underbones in the rental list sit inside class A1, so riding one takes a licence Vietnam recognises; [the A1 licence guide]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) sets out what the class covers. The licence-free groups are the pedal-assist e-bike and the moped, and a 110 cc bike is neither.
+
+### Is a semi-automatic a bad first bike?
+
+No, but it adds one skill. The gearbox has no clutch lever, yet the foot-shift rhythm still has to be learned, and a scooter skips that lesson.
 
 Curious how the no-clutch-lever gearbox actually works? [Our semi-automatic gearbox explainer]({{ '/articles/semi-automatic-gearbox-explained/' | relative_url }}) covers the centrifugal clutch and rotary shift pattern behind the easiest rental formats.
 
