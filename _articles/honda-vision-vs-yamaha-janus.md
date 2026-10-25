@@ -13,7 +13,7 @@ search_intent: commercial
 topic_cluster: scooters
 subcluster: "3.2 model-comparisons"
 date_published: 2026-09-23
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-25
 sources:
   - "honda.com.vn — official Honda Vietnam model pages (retrieved 2026-09-23)"
   - "yamaha-motor.com.vn — official Yamaha Vietnam product pages (retrieved 2026-09-23)"
@@ -41,7 +41,7 @@ Every row is a manufacturer figure from the product page, not something measured
 
 ## What the numbers mean
 
-- **Performance:** the Janus's larger engine produces slightly more power and torque on paper, with its torque peak arriving at a lower engine speed (see the engine section below); the Vision compensates with gearing tuned for the city. Both are city scooters - neither is a tourer.
+- **Performance:** the Janus's larger engine produces slightly more power and torque on paper, with its torque peak arriving at a lower engine speed, as the engine section below shows; the Vision compensates with gearing tuned for the city. Both are city scooters - neither is a tourer.
 - **Weight:** identical at 97 kg - the lightest class on the market, which [our light motorbikes for new riders guide]({{ '/articles/lightest-motorbikes-for-new-riders/' | relative_url }}) covers.
 - **Economy:** the Vision's published consumption is lower, and its bigger tank gives it a longer range between stops. See the fuel economy comparison for the full class picture.
 - **Wheels:** the Vision's 16-inch front wheel gives more stability over potholes (our 16-inch [wheel guide]({{ '/articles/16-inch-wheel-scooters-vietnam/' | relative_url }}) explains why); the Janus's 14-inch wheels sharpen low-speed agility.

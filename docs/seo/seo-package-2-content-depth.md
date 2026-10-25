@@ -8,16 +8,16 @@ Owner-approved scope extension (2026-10-25). Existing English articles whose Mar
 |---|---|
 | Articles in the site | 981 |
 | Eligible at baseline (300-500 words) | 693 |
-| Completed (>= 1600 words, batch QA passed) | 0 |
+| Completed (>= 1600 words, batch QA passed) | 5 |
 | REVIEW_REQUIRED | 0 |
-| Pending | 693 |
-| Batches published | 0 |
-| Words added by completed articles | 0 |
+| Pending | 688 |
+| Batches published | 1 |
+| Words added by completed articles | 9900 |
 | Slug / URL / canonical changes | 0 (gate: scripts/seo-package2.js) |
 
 | Group | Eligible | Done | REVIEW_REQUIRED | Pending |
 |---|---|---|---|---|
-| A — Commercial SEO | 92 | 0 | 0 | 92 |
+| A — Commercial SEO | 92 | 5 | 0 | 87 |
 | B — Informational SEO | 337 | 0 | 0 | 337 |
 | C — Supporting content | 264 | 0 | 0 | 264 |
 
@@ -41,18 +41,29 @@ Group A (commercial): rental and monthly-rental guides, prices, districts (Old Q
 
 ## Batches
 
-None published yet.
+| Batch | Date | Articles | Commit | QA | Notes |
+|---|---|---|---|---|---|
+| p2-01 | 2026-10-25 | 5 |  | lint 0 errors; independent verification (writer + verifier, 1-3 rounds); build-report P0 0 P1 0; engine tests 82/82; Jekyll build and rendered audit P0/P1 0; assistant 31/31; duplicate check P2 0 | Group A, queue 2/10/17/88/91. Tay Ho, Long Bien, 50cc and Vision-vs-Janus passed independent verification (Vision first time, the others after one fix round); Old Quarter needed three rounds and its last fixes were applied from the third verifier's findings and checked by lint and QA (no fourth independent pass). Removed or reworded original passages: Old Quarter ranked order and the unsourced half-the-residents, lightest-steering, 15 km/h and peak-season availability claims; Long Bien invented deposit, after-hours-return and minutes-away claims; 50cc compulsory-insurance-carried-by-the-fleet sentence (conflicts with OWNER-FACTS) and the unsourced no-official-new-50s claim; Tay Ho common-delivery-destination sentence softened (owner to confirm); Vision-vs-Janus bullet that contradicted the engine section. No weekly, monthly, 50cc or E-Bike price added (docs/seo/price-reconciliation.md). Findings for the owner: do-electric-motorbikes-need-insurance-vietnam (Package 2 queue 387) and do-you-need-insurance-for-50cc-vietnam (out of scope, unchanged) state fleet insurance cover, which conflicts with OWNER-FACTS; hoan-kiem-walking-street-motorbike-visitors does not mention the 1 July 2026 Zone 1 evening restriction. |
 
 ## REVIEW_REQUIRED
 
 None.
 
-## Pending queue (next 25 of 693)
+## Completed articles
+
+| Queue | URL | Group | Original | Current | Batch |
+|---|---|---|---|---|---|
+| 2 | /articles/best-bike-for-hanoi-old-quarter/ | A | 378 | 2369 | p2-01 |
+| 10 | /articles/motorbike-delivery-long-bien/ | A | 403 | 2584 | p2-01 |
+| 17 | /articles/renting-motorbike-tay-ho/ | A | 471 | 2387 | p2-01 |
+| 88 | /articles/renting-50cc-hanoi/ | A | 405 | 2185 | p2-01 |
+| 91 | /articles/honda-vision-vs-yamaha-janus/ | A | 344 | 2376 | p2-01 |
+
+## Pending queue (next 25 of 688)
 
 | Queue | URL | Group | Words | Intent | Primary keyword | Cluster | Matrix | SEO status |
 |---|---|---|---|---|---|---|---|---|
 | 1 | /articles/automatic-vs-manual-motorbike-hanoi/ | A | 349 | commercial | automatic semi automatic or manual | rental | P3 | OPTIMIZED 2026-10-14 |
-| 2 | /articles/best-bike-for-hanoi-old-quarter/ | A | 378 | commercial | best bike for hanoi old quarter | rental | P3 | OPTIMIZED 2026-10-14 |
 | 3 | /articles/best-scooters-to-rent-hanoi/ | A | 302 | commercial | Hanoi scooter rental | rental | P3 | OPTIMIZED 2026-10-14 |
 | 4 | /articles/can-foreigners-rent-a-motorbike-hanoi/ | A | 378 | informational | Hanoi motorbike rental for foreigners | rental | P3 | OPTIMIZED 2026-10-14 |
 | 5 | /articles/can-tourists-rent-a-motorbike-hanoi/ | A | 337 | informational | can tourists rent a motorbike in hanoi | rental | P3 | OPTIMIZED 2026-10-15 |
@@ -60,14 +71,12 @@ None.
 | 7 | /articles/first-time-renting-a-motorbike-hanoi/ | A | 410 | informational | first time renting motorbike hanoi | rental | P3 | OPTIMIZED 2026-10-14 |
 | 8 | /articles/how-to-book-a-motorbike-rental-hanoi/ | A | 361 | informational | Motorbike rental app Hanoi | rental | P3 | OPTIMIZED 2026-10-14 |
 | 9 | /articles/how-to-rent-a-motorbike-hanoi/ | A | 498 | informational | Rent a motorbike in Hanoi | rental | P3 | OPTIMIZED 2026-10-15 |
-| 10 | /articles/motorbike-delivery-long-bien/ | A | 403 | informational | motorbike delivery long bien hanoi | rental | P3 | LINKS_REPAIRED 2026-10-14 |
 | 11 | /articles/motorbike-delivery-old-quarter/ | A | 422 | informational | Motorbike rental with hotel delivery | rental | P3 | OPTIMIZED 2026-10-14 |
 | 12 | /articles/motorbike-rental-pickup-or-delivery-hanoi/ | A | 373 | informational | Hanoi motorbike rental delivery | rental | P3 | OPTIMIZED 2026-10-15 |
 | 13 | /articles/motorbike-rental-price-hanoi/ | A | 407 | commercial | Hanoi motorbike rental prices | rental | P3 | OPTIMIZED 2026-10-15 |
 | 14 | /articles/renting-motorbike-hoan-kiem/ | A | 437 | commercial | Hoan Kiem motorbike rental | rental | P3 | OPTIMIZED 2026-10-14 |
 | 15 | /articles/renting-motorbike-noi-bai-arrival/ | A | 476 | informational | motorbike rental hanoi airport arrival | rental | P3 | OPTIMIZED 2026-10-15 |
 | 16 | /articles/renting-motorbike-six-months-hanoi/ | A | 497 | commercial | long term motorbike rental hanoi | rental | P3 | OPTIMIZED 2026-10-14 |
-| 17 | /articles/renting-motorbike-tay-ho/ | A | 471 | commercial | Tay Ho motorbike rental | rental | P3 | OPTIMIZED 2026-10-14 |
 | 18 | /articles/renting-vs-buying-a-motorbike-hanoi/ | A | 326 | informational | renting vs buying motorbike hanoi | rental | P3 | OPTIMIZED 2026-10-14 |
 | 19 | /articles/scooter-vs-semi-automatic-hanoi/ | A | 343 | commercial | scooter vs semi automatic hanoi | rental | P3 | OPTIMIZED 2026-10-14 |
 | 20 | /articles/where-to-park-motorbike-hanoi/ | A | 490 | informational | where to park motorbike hanoi | rental | P3 | LINKS_REPAIRED 2026-10-14 |
@@ -76,5 +85,8 @@ None.
 | 23 | /articles/best-motorbike-for-day-trips-from-hanoi/ | A | 322 | commercial | best motorbike for day trips hanoi | rental | P3 | OPTIMIZED 2026-10-14 |
 | 24 | /articles/best-motorbike-for-expats-hanoi/ | A | 354 | commercial | best motorbike for expats hanoi | rental | P3 | OPTIMIZED 2026-10-15 |
 | 25 | /articles/best-motorbike-for-hanoi-traffic/ | A | 372 | commercial | best motorbike for hanoi traffic | rental | P3 | OPTIMIZED 2026-10-14 |
+| 26 | /articles/best-motorbike-for-long-distance-vietnam/ | A | 349 | commercial | best motorbike for long distance vietnam | rental | P3 | OPTIMIZED 2026-10-14 |
+| 27 | /articles/best-motorbike-for-students-hanoi/ | A | 327 | commercial | best motorbike for students hanoi | rental | P3 | OPTIMIZED 2026-10-14 |
+| 28 | /articles/best-motorbikes-for-tall-riders-vietnam/ | A | 304 | commercial | best motorbike for tall riders vietnam | rental | P3 | OPTIMIZED 2026-10-14 |
 
 Continue with `node scripts/seo-package2.js --next 10`. Gate and report: `node scripts/seo-package2.js` (also run by the Quality Gate and the weekly maintenance).

@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: 50cc
 subcluster: "6.4 buying-owning"
 date_published: 2026-09-24
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md — Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 34(1)(g) moped definition and the age rule for riding a moped (retrieved 2026-10-25)"
@@ -76,7 +76,7 @@ A workable rule: if your routes stay inside a district or two, avoid bridges and
 
 ## What to check before riding off
 
-The standard rental checks apply doubly to a small, often older machine, because age is where 50s fail. The two-minute version of the mechanical checks lives in the [50cc pre-ride checklist]({{ '/articles/50cc-pre-ride-checklist/' | relative_url }}), and the paperwork is described in our first-time [rental guide]({{ '/articles/first-time-renting-a-motorbike-hanoi/' | relative_url }}). The points below add what is specific to renting a 50cc, and a helmet for every rider is part of the list (see the legal section above).
+The standard rental checks apply doubly to a small, often older machine, because age is where 50s fail. The two-minute version of the mechanical checks lives in the [50cc pre-ride checklist]({{ '/articles/50cc-pre-ride-checklist/' | relative_url }}), and the paperwork is described in our first-time [rental guide]({{ '/articles/first-time-renting-a-motorbike-hanoi/' | relative_url }}). The points below add what is specific to renting a 50cc, and, as the legal section above explains, a helmet for every rider is part of the list.
 
 ### Brakes first
 

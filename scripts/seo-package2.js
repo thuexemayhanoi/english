@@ -349,6 +349,9 @@ function lintArticle(slug, now, baseline) {
   for (const a of amounts) if (!allowed.has(a)) R('amount ' + a + ' is neither in docs/OWNER-FACTS.md nor in the original article: needs a cited source');
   for (const m of text.matchAll(/\b\d{1,3}\s?k\s?(?:VND|vnd|d)\b|\b\d+(?:\.\d+)?\s?(?:million|triệu)\b/gi)) if (!origNorm.includes(' ' + normSent(m[0]) + ' ')) R('abbreviated amount "' + m[0] + '": use the exact approved VND figures');
   for (const m of text.matchAll(/(?:\+?84|0)[\s.-]?9\d{2}[\s.-]?\d{3}[\s.-]?\d{3}/g)) if (m[0].replace(/\D/g, '').replace(/^84/, '0') !== '0942467674') E('phone number ' + m[0] + ' differs from docs/OWNER-FACTS.md');
+  // prose references to another guide without a link (same rule as the matrix: it would raise this URL to P1/P2)
+  const unl = L.unlinkedRefs(body); res.stats.unlinkedGuideReferences = unl;
+  if (unl > 0) E(unl + ' unlinked guide reference(s) in prose (the matrix raises such a URL to P1/P2): link the guide, or rephrase a same-page pointer such as "(see the section above)"');
   // internal process wording must never reach reader-facing text
   const proc = text.match(/\b(owner-approved|OWNER-FACTS|package 2|the verifier|the writer|this fix|per the guide|MODEL-DATABASE|price-reconciliation|front matter|lint|docs\/[a-z-]+)\b/gi);
   if (proc) E('internal process wording in the reader-facing text: ' + [...new Set(proc.map(x => x.toLowerCase()))].join(', '));

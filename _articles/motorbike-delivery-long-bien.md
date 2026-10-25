@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.5 area-guides"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://www.vietnam.vn/en/ha-noi-cam-xe-qua-cau-long-bien-tu-ngay-28-3-den-het-27-5 — Hanoi will ban vehicles from crossing Long Bien Bridge from March 28th to May 27th (vietnam.vn, published 26 March 2026) — all vehicles banned in both directions from 09:00 on 28 March until the end of 27 May 2026 for emergency repairs to the pedestrian walkway and motorbike and non-motorised lanes; motorcycles and bicycles crossing the Red River diverted to Chuong Duong Bridge (retrieved 2026-10-25)"
@@ -120,14 +120,14 @@ The return follows the arrangement agreed at handover: at the shop during openin
 ### Before you ride back
 
 - Bring the key, the contract and your handover photos; [How Returning a Rental Motorbike in Hanoi Works]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }}) describes the steps in order.
-- Allow for the river crossing and for the approach to Nguyen Van Cu, which the district guide describes as a broad artery with trucks and higher speeds than the Old Quarter.
+- Allow for the river crossing and for the approach to Nguyen Van Cu, which [the Long Bien district guide]({{ '/articles/renting-motorbike-long-bien/' | relative_url }}) describes as a broad artery with trucks and higher speeds than the Old Quarter.
 - If you will be riding near 21:00, remember that the shop closes then, and that the same road is harder to read after dark than at noon.
 
 ### The cost of being late
 
 The published terms are 20,000 VND per hour late, and more than six hours late the shop may charge a full additional rental day, typically 150,000–200,000 VND depending on the motorcycle.
 
-Imagine a renter whose agreed return is 12:00 and who reaches the shop at 14:00. At the published hourly rate that is two hours at 20,000 VND each, assuming the shop counts whole hours; ask how part-hours are counted before you rely on that. A planned delay is cheaper than a surprise, and the late-return guide explains why messaging ahead works better than arriving late.
+Imagine a renter whose agreed return is 12:00 and who reaches the shop at 14:00. At the published hourly rate that is two hours at 20,000 VND each, assuming the shop counts whole hours; ask how part-hours are counted before you rely on that. A planned delay is cheaper than a surprise, and [the late-return guide]({{ '/articles/late-return-rental-motorbike-hanoi/' | relative_url }}) explains why messaging ahead works better than arriving late.
 
 Handing a bike back early does not create an automatic refund for the unused time, so decide the return date with that in mind.
 

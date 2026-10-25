@@ -14,7 +14,7 @@ search_intent: commercial
 topic_cluster: rental
 subcluster: "1.5 area-guides"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://en.wikipedia.org/wiki/West_Lake_(Hanoi) — West Lake (Hanoi), Wikipedia — 17 km shore length, Thanh Nien road dividing off Truc Bach Lake, Tran Quoc Pagoda on a small island (retrieved 2026-10-25)"

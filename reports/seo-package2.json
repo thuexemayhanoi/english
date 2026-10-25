@@ -5,63 +5,28 @@
     "P0": 0,
     "P1": 0,
     "P2": 0,
-    "P3": 6
+    "P3": 1
   },
   "findings": [
     {
       "severity": "P3",
-      "file": "_articles/best-bike-for-hanoi-old-quarter.md",
-      "url": "/articles/best-bike-for-hanoi-old-quarter/",
-      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
-      "fix": "Record it after its batch passes QA"
-    },
-    {
-      "severity": "P3",
-      "file": "_articles/motorbike-delivery-long-bien.md",
-      "url": "/articles/motorbike-delivery-long-bien/",
-      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
-      "fix": "Record it after its batch passes QA"
-    },
-    {
-      "severity": "P3",
-      "file": "_articles/renting-motorbike-tay-ho.md",
-      "url": "/articles/renting-motorbike-tay-ho/",
-      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
-      "fix": "Record it after its batch passes QA"
-    },
-    {
-      "severity": "P3",
-      "file": "_articles/renting-50cc-hanoi.md",
-      "url": "/articles/renting-50cc-hanoi/",
-      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
-      "fix": "Record it after its batch passes QA"
-    },
-    {
-      "severity": "P3",
-      "file": "_articles/honda-vision-vs-yamaha-janus.md",
-      "url": "/articles/honda-vision-vs-yamaha-janus/",
-      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
-      "fix": "Record it after its batch passes QA"
-    },
-    {
-      "severity": "P3",
       "file": "docs/seo/package2-baseline.json",
       "url": "-",
-      "issue": "package2 pending: 693 of 693 eligible article(s) are still below 1600 words",
+      "issue": "package2 pending: 688 of 693 eligible article(s) are still below 1600 words",
       "fix": "Work the next batch (node scripts/seo-package2.js --next 10)"
     }
   ],
   "summary": {
     "eligible": 693,
-    "done": 0,
+    "done": 5,
     "reviewRequired": 0,
-    "pending": 693,
+    "pending": 688,
     "byGroup": {
       "A": {
         "eligible": 92,
-        "done": 0,
+        "done": 5,
         "reviewRequired": 0,
-        "pending": 92
+        "pending": 87
       },
       "B": {
         "eligible": 337,
@@ -76,9 +41,9 @@
         "pending": 264
       }
     },
-    "wordsAddedDone": 0,
+    "wordsAddedDone": 9900,
     "belowTargetDone": 0,
-    "batches": 0,
+    "batches": 1,
     "outOfScopeChanged": 0
   }
 }

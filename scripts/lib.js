@@ -210,6 +210,28 @@ function contentWords(body) {
   return contentText(body).split(/[\s–—]+/).filter(t => /[A-Za-z0-9À-ɏ]/.test(t)).length;
 }
 
+// Prose references to another guide that are not hyperlinks (README "see our guide" class); shared by the English SEO Master Matrix
+// and the Package 2 lint so one rule decides what counts as an unlinked reference.
+// A reference counts as unlinked only when the words that name the other guide
+// are plain prose. Existing links are replaced by a marker first, so
+// "covered in our [brakes guide](...)" or "(see our [IDP guide](...))" never count.
+const LINK_MARK = '\u00a7LINK\u00a7';
+const UNLINKED_REF_PATTERNS = [
+  /see our guide (?:to|on) [a-z]/i,
+  /\bthe (?![a-z \-]*\bthis (?:article|guide)\b)[a-z][a-z \-]{2,40} (?:article|guide) (?:lists|covers|explains|walks|goes|shows|has|describes)\b/i,
+  /(?<!\u00a7[^.]{0,30})\b(?:our|the) (?:separate|dedicated|companion|full) (?:guide|article)\b/i,
+  /covered in (?:our|the|a separate) (?![^.]{0,40}\u00a7)[a-z]/i,
+  /\(see (?:(?!\u00a7)[^)]){3,80}\)/i
+];
+function unlinkedRefs(body) {
+  const text = stripLiquid(body);
+  // Replace existing markdown/html links by a marker so linked references are not counted.
+  const noLinks = text.replace(/\[[^\]]*\]\([^)]*\)/g, ' ' + LINK_MARK + ' ').replace(/<a [^>]*>[\s\S]*?<\/a>/gi, ' ' + LINK_MARK + ' ');
+  let n = 0;
+  for (const re of UNLINKED_REF_PATTERNS) { const m = noLinks.match(new RegExp(re.source, re.flags + 'g')); if (m) n += m.length; }
+  return n;
+}
+
 function findH1s(text) {
   const out = [];
   for (const m of text.matchAll(/^#\s+(.*)$/gm)) out.push(m[1].trim());
@@ -360,4 +382,4 @@ function rankSignal(entries) {
   return { band, best, quickWin: band === 'page1' || band === 'striking' };
 }
 
-module.exports = { ROOT, CLUSTERS, SITE_URL, BASEURL, PRIMARY_LEGAL_DOMAINS, isPrimaryLegalSource, isBlocking, walk, parseFrontMatter, loadArticles, loadPages, articleUrl, pageUrl, stripLiquid, contentText, contentWords, findH1s, extractLinks, Findings, sitemapLocs, isDynamicallyListed, expectedIndexableUrls, parseCsv, parseGscCsv, gscSignal, sitePath, latestRankSnapshot, rankSignal };
+module.exports = { ROOT, CLUSTERS, SITE_URL, BASEURL, PRIMARY_LEGAL_DOMAINS, isPrimaryLegalSource, isBlocking, walk, parseFrontMatter, loadArticles, loadPages, articleUrl, pageUrl, stripLiquid, contentText, contentWords, unlinkedRefs, UNLINKED_REF_PATTERNS, findH1s, extractLinks, Findings, sitemapLocs, isDynamicallyListed, expectedIndexableUrls, parseCsv, parseGscCsv, gscSignal, sitePath, latestRankSnapshot, rankSignal };
