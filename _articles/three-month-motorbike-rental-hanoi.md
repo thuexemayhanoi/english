@@ -86,7 +86,7 @@ Consumables such as inner tubes and tyres may be the renter's responsibility dep
 
 Nguyen Tu's practical guidance, not a manufacturer interval, is periodic checks around 1,500 km or more of use. Log the odometer reading at handover and at each monthly check so you know when to ask for the check.
 
-To see whether that mark falls inside your term, multiply a normal day's distance by the days of the quarter. Imagine a rider who covers 20 km a day: over 90 days that is 20 × 90 = 1,800 km, and the mark arrives on day 75 (1,500 ÷ 20), so the check belongs in the plan from the start. At 10 km a day the same 90 days come to 900 km, and the mark would arrive only if the rental were extended.
+To see whether that mark falls inside your term, divide 1,500 by a normal day's distance. Imagine a rider who covers 20 km a day: the mark arrives on day 75 (1,500 ÷ 20), inside a 90-day quarter, so the check belongs in the plan from the start. At 10 km a day it arrives on day 150 (1,500 ÷ 10), which only an extended rental would reach.
 
 ## The quarter's rhythm
 
@@ -114,7 +114,7 @@ A three-month rental outlasts more paperwork than a three-day one: under Article
 
 The practical step is to check those dates against the end of the term, not the start. Write the licence, permit and visa expiry dates on one line and compare the earliest with your planned return date; if the term would outlast any of them, sort that out before you rent or plan the return before it.
 
-Imagine a renter whose national licence runs out six weeks into the term and who has told nobody: the rental carries on, but a licence that is no longer valid does not become usable because the rental continues. If something does lapse mid-term, the shop should hear about it before the return date, since it may change your plans to extend.
+Imagine a renter whose national licence runs out six weeks into the term and who has told nobody. The rental continues, but a licence that is no longer valid does not become usable because of it. If something does lapse mid-term, the shop should hear about it before the return date, since it may change your plans to extend.
 
 ## Planning the return before your flight
 
@@ -137,7 +137,7 @@ Longer terms are negotiable. Message the shop before the end date with the new d
 
 ### Can I change bikes partway through?
 
-Ask whether the bike can be changed if it does not suit you; nothing published promises it. Contact us to confirm current availability of the model you would want instead.
+Nothing published promises a change of bike, so ask whether it can be changed if the first one does not suit you. Contact us to confirm current availability of the model you would want instead.
 
 ### Who may ride the bike?
 

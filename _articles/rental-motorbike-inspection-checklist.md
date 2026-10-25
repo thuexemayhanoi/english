@@ -25,7 +25,7 @@ The inspection you do at handover is the evidence that decides any deposit disag
 
 ## Before you pick up the keys
 
-Do the walk-round before you pay and before you sign, with whoever hands over the bike still there. The shop's published hours run from 09:00 to 21:00, so a handover late in the day may be after dark: ask for a well-lit spot, and keep your phone torch for the tyres and the underside. The same checks apply when the bike comes to you; [Shop pickup versus delivery]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) compares the two routes, and the [step-by-step rental guide]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}) puts this inspection at step five of six.
+Do the walk-round before you pay and before you sign, with whoever hands over the bike still there. The shop's published hours run from 09:00 to 21:00, so a handover late in the day may be after dark: ask for a well-lit spot, and keep your phone torch for the tyres and the underside. The [step-by-step rental guide]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}) puts this inspection at step five of six.
 
 Have three things ready: a charged phone with room for photographs and a short video; the licence you will ride on, with your permit if you ride on a foreign licence; and your questions about the fuel level to return with, who pays if a tyre is punctured and whether a helmet comes with the bike. A queue, a waiting friend or a flight to catch is no reason to shorten the checks.
 
@@ -48,7 +48,7 @@ The law expects a motorbike to have working brakes, a headlight, a brake light, 
 
 Front and rear, both tested rolling the bike. The front brake should bite without pulling the lever to the bar; the rear should lock under firm pressure. Test them again at low speed before you join traffic.
 
-To test while rolling the bike, push it forward on level ground and squeeze one brake at a time: the wheel should stop turning and the bike should stay put. Feel for a lever or pedal that is spongy, travels almost to the grip or does not spring back, and listen for grinding. For the low-speed test, choose a clear stretch away from traffic and brake gently first, then firmer: the bike should stop in a straight line, without pulling to one side. A doubtful brake is a reason to ask for a different bike, as set out further down this page.
+To test while rolling the bike, push it forward on level ground and squeeze one brake at a time: the wheel should stop turning and the bike should stay put. Feel for a lever or pedal that is spongy, travels almost to the grip or does not spring back, and listen for grinding. For the low-speed test, choose a clear stretch away from traffic and brake gently first, then firmer: the bike should stop in a straight line, without pulling to one side.
 
 ## Steering and controls
 
@@ -65,7 +65,7 @@ Check the throttle twice, with the bars straight and with the bars turned: it sh
 
 Tread visible on both tyres, no cracks in the sidewalls, pressures firm. Look for cuts, bulges, and nails or glass lodged in the rubber, and for cords showing through the surface; cords are a reason to refuse the bike. Press each tyre with your thumb, and if one feels soft, ask the shop to check it with a gauge. The right pressure differs by model and load, so ask the shop what it should be.
 
-The shop's maintenance may include tyre-pressure checks, while inner tubes and tyres may be the renter's responsibility depending on the situation. Ask at handover who pays if one is punctured.
+The shop's maintenance may include tyre-pressure checks, while inner tubes and tyres may be the renter's responsibility depending on the situation.
 
 Chain on manual and semi-automatic bikes: not rusted stiff, and neither hanging in a loop nor pulled drum-tight. The right amount of slack differs by model, so ask the shop what it should be on this bike. Chain adjustment and tension are among the maintenance items the shop may include. Flag a loose chain at handover, not after.
 
@@ -74,8 +74,6 @@ Chain on manual and semi-automatic bikes: not rusted stiff, and neither hanging 
 - Note the fuel level and agree the return level - the [fuel-policy article]({{ '/articles/motorbike-rental-fuel-policy-hanoi/' | relative_url }}) explains the two conventions.
 - Number plates fitted and clean - riding without plates is a serious violation. Compare the characters with the registration certificate: they should be readable and match. The [number plates guide]({{ '/articles/riding-without-number-plates-vietnam/' | relative_url }}) sets out the offence.
 - Registration certificate with the bike: ask to see it, or a copy of it, before you ride.
-
-Photograph the fuel gauge and the odometer so the starting level and mileage are on record.
 
 Nguyen Tu does not provide motorbike insurance, so do not expect an insurance certificate to come with the bike: customers arrange their own cover before they ride. The [documents guide]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) sets out the papers the law expects a rider to carry.
 
@@ -111,7 +109,7 @@ The walk-round is the same for every bike, and a few checks shift with the type.
 
 | Bike | What differs | At handover |
 |---|---|---|
-| Honda Wave, Yamaha Sirius | Semi-automatic underbones: gears are shifted by foot, with no clutch lever, and the chain is exposed. Honda lists a four-speed gearbox for the Wave Alpha 110 and Wave RSX, and Yamaha one for the Sirius RC | Check that each gear engages cleanly and that neutral can be found at a standstill; look at the chain |
+| Honda Wave, Yamaha Sirius | Semi-automatic underbones: gears are shifted by foot, with no clutch lever, and the chain is exposed. Honda lists a four-speed gearbox for the Wave Alpha 110 and Wave RSX, and Yamaha lists one for the Sirius RC | Check that each gear engages cleanly and that neutral can be found at a standstill; look at the chain |
 | Yamaha Sirius | Drum and disc versions exist, and Yamaha's page for the RC lists a front disc, a rear drum and tyres with inner tubes | Judge the brakes against that bike's own type; ask who pays for a puncture repair |
 | Honda Vision, Honda Air Blade, Honda Click, Yamaha Mio | Automatic scooters: twist and go, so no gear change and no exposed chain | Test the throttle return and both brake levers; the chain check does not apply |
 | Honda Air Blade | Honda's pages for the Air Blade 125 and 160 both list a coolant temperature warning | Look at the dashboard after starting: a warning that stays lit is a question for the shop |
@@ -154,7 +152,7 @@ If the bike passes, sign, photograph, and ride. If anything is marginal, ask for
 
 ## Running it backwards at the return
 
-The return is the handover in reverse. Photograph the bike along the same path and from the same angles, and compare the fuel gauge and every mark with your handover set before you hand over the key. If something differs, say so, show the matching photograph and ask what happens next. [Returning a rental motorbike in Hanoi]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }}) takes the return step by step, using the same six sections as this list.
+The return is the handover in reverse. Photograph the bike along the same path and from the same angles, and compare the fuel gauge and every mark with your handover set before you hand over the key. If something differs, say so, show the matching photograph and ask what happens next. [Returning a rental motorbike in Hanoi]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }}) takes the return step by step.
 
 Keep the handover photographs, the video and the chat until the deposit has been settled. The deposit is typically 2,000,000-5,000,000 VND depending on vehicle and conditions, and the [deposit guide]({{ '/articles/motorbike-rental-deposit-hanoi/' | relative_url }}) covers the amounts and the return.
 
@@ -170,7 +168,7 @@ No test-ride policy is published, so ask. A test ride is riding on a public road
 
 ### Do I repeat the checks when the bike is delivered?
 
-Yes. Delivery changes where the handover happens, not what you check. Do the same walk-round at the door, in good light, before you sign and while whoever hands over the bike is still there.
+Yes. Delivery changes where the handover happens, not what you check. Do the same walk-round at the door, in good light, before you sign and while whoever hands over the bike is still there; [shop pickup versus delivery]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) compares the two routes.
 
 ### Is the checklist different for a rental of several months?
 
