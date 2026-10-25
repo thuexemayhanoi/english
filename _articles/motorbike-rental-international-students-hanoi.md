@@ -23,7 +23,7 @@ internal_link_targets: "best-motorbike-for-students-hanoi, foreign-student-motor
 
 Student life in Hanoi runs between campuses, cheap-eat streets, part-time work, and weekend exploring — and the bike that makes all of it work does not have to be owned. Rental fits student budgets better than buying in the first months.
 
-The short answer on motorbike rental for students in Hanoi is that an international student can rent once the licence is right, and the licence decides most of the rest. Sixteen opens only the licence-free moped class; eighteen is the age for the A1 licence that covers ordinary scooters. Budget for the published day rates below, a deposit of typically 2,000,000–5,000,000 VND, and insurance that you arrange yourself.
+The short answer on motorbike rental for students in Hanoi is that an international student should settle the licence first, and the licence decides most of the rest. Sixteen opens only the licence-free moped class; eighteen is the age for the A1 licence that covers ordinary scooters. Budget for the published day rates below, a deposit of typically 2,000,000–5,000,000 VND, and insurance that you arrange yourself.
 
 ## The budget picture
 
@@ -47,7 +47,7 @@ A listed rate is not a statement that the model is in stock: contact us to confi
 A student budget has more lines than the rate:
 
 - The rental rate for your dates, confirmed with the shop.
-- The deposit, held for the term.
+- The deposit for your bike, and when it is settled.
 - Fuel, which follows the distance you ride.
 - Parking, where a campus, dormitory or building asks for it; get the figure from the place you will use.
 - Consumables: inner tubes and tyres may be the renter's responsibility depending on the situation.
@@ -66,27 +66,19 @@ Ask for the figure for the specific bike before you settle on a model. A receipt
 
 International students face a specific path: if you are enrolled and resident in Vietnam, licence exchange rules for foreign students exist and are laid out in [Can Foreign Students Get a Vietnamese Motorbike Licence]({{ '/articles/foreign-student-motorbike-licence-vietnam/' | relative_url }}). Until that is done, the same rule as everyone applies — ride legally with a Vietnamese licence or a home licence plus a valid 1968 IDP, or stick to licence-free 50cc-class machines. Riding unlicensed risks fines covered in [The Fine for Riding Without a Licence in Vietnam]({{ '/articles/no-licence-fine-vietnam/' | relative_url }}) and [Renting a Motorbike in Hanoi Without a Licence: The Real Risks]({{ '/articles/renting-a-motorbike-hanoi-without-licence/' | relative_url }}).
 
-Ask the shop what it wants to see at handover as well as what the law requires. [Can Foreigners Rent a Motorbike in Hanoi?]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) covers licences and renting for foreigners in general; the notes below are the student version.
+Ask the shop what it wants to see at handover as well as what the law requires. The notes below cover the licence points that apply to a student.
 
 ### Age: the two thresholds
 
-Under Article 59 of Law 36/2024/QH15, which took effect on 1 January 2025, a person must be at least 16 to ride a moped and at least 18 to hold the A1 licence that covers ordinary scooters up to and including 125 cc ([Minimum Age to Ride a Motorbike in Vietnam]({{ '/articles/minimum-age-ride-motorbike-vietnam/' | relative_url }})). As an illustration, imagine a student on a school exchange who is 17: the standard 110–125 cc automatic is out of reach, and the licence-free moped class is the category open at that age. Ask the shop whether it applies a minimum age of its own.
+Under Article 59 of Law 36/2024/QH15, which took effect on 1 January 2025, a person must be at least 16 to ride a moped and at least 18 to hold the A1 licence that covers ordinary scooters up to and including 125 cc ([Minimum Age to Ride a Motorbike in Vietnam]({{ '/articles/minimum-age-ride-motorbike-vietnam/' | relative_url }})). A moped has a design speed of no more than 50 km/h and a petrol engine of 50 cc or less or an electric motor of 4 kW or less. As an illustration, imagine a student on a school exchange who is 17: the standard 110–125 cc automatic is out of reach, and the licence-free moped class is the category open at that age. Ask the shop whether it applies a minimum age of its own.
 
 ### Home licence plus a 1968 IDP
 
-Article 57 recognises an international driving permit only together with the national licence behind it, and the licence must be appropriate to the vehicle: a car-only licence does not become a motorcycle licence because an IDP translates it. Carry both documents. Students have one more reason to check the dates. A permit counts for no more than three years from issue and only while the national licence behind it is valid, so the earlier of the two dates must fall after your last day in Vietnam, not just after your arrival ([How Long Can You Ride on an IDP in Vietnam]({{ '/articles/idp-validity-period-vietnam/' | relative_url }})).
-
-### The licence-free moped class
-
-Article 34(1)(g) defines a moped (xe gắn máy) by three limits at once: an engine of 50 cc or less, or an electric motor of 4 kW or less, and a design speed of no more than 50 km/h. A machine that meets them needs no licence, but the rider must be at least 16 and the helmet and other traffic rules still apply ([Do You Need a Licence for a 50cc Motorbike in Vietnam?]({{ '/articles/50cc-licence-vietnam/' | relative_url }})). That is what "licence-free 50cc-class" means in practice: a legal category, not a promise that every small bike qualifies, so ask which category a machine is registered in before relying on it.
+Article 57 recognises an international driving permit issued by a Vienna Convention member state only together with the national licence behind it, and the licence must be appropriate to the vehicle: a car-only licence does not become a motorcycle licence because an IDP translates it. Carry both documents. Students have one more reason to check the dates. A permit counts for no more than three years from issue and only while the national licence behind it is valid, so the earlier of the two dates must fall after your last day in Vietnam, not just after your arrival ([How Long Can You Ride on an IDP in Vietnam]({{ '/articles/idp-validity-period-vietnam/' | relative_url }})).
 
 ### Exchanging once you are resident
 
 Article 24(1) of Circular 12/2025/TT-BCA lets a foreigner who resides, works or studies in Vietnam be considered for exchange of a national licence into the corresponding Vietnamese class, when the licence is still valid and the person holds a diplomatic identity card, a service identity card, or a temporary or permanent residence card valid for three months or more. The first job for a student is to find out which of those papers applies to them, because the exchange cannot start without one.
-
-### If you hold no motorcycle licence
-
-Imagine a student who arrives with only a car licence from home. A car licence covers no motorbike class, and an IDP cannot add a category the national licence lacks, so that student has two lawful routes for the first weeks: the licence-free moped class from 16, or from 18 the A1 test. Both the test route and the exchange case are set out in [the student licence guide]({{ '/articles/foreign-student-motorbike-licence-vietnam/' | relative_url }}). Renting a scooter above moped level without the right licence is not a route at all; the consequences are in the two guides linked at the start of this section.
 
 ## Insurance: ask what a student policy covers
 
@@ -97,16 +89,16 @@ Nguyen Tu does not provide motorbike insurance; renters arrange their own. If yo
 - Does it cover you as the rider, as a passenger, or both?
 - Does it cover damage to the rental bike or to other people's property?
 
-A policy may exclude riding without a valid licence, so the licence question and the insurance question are one problem, not two. [Arranging Your Own Insurance as a Long-Term Renter in Hanoi]({{ '/articles/insurance-for-long-term-renter-hanoi/' | relative_url }}) lists more questions for a longer stay.
-
+A policy may exclude riding without a valid licence, so the licence question and the insurance question are one problem, not two.
 ## Campus and dormitory parking: questions to ask
 
-Rental rates do not answer where the bike sleeps. Campuses, dormitories and rented rooms each set their own arrangements, so ask the place rather than the shop, and ask before the bike arrives. [Riding Around Hanoi's University Areas: Traffic and Parking]({{ '/articles/hanoi-university-areas-riding-guide/' | relative_url }}) describes riding around the campus belts in general; these are the questions to settle for yours:
+Rental rates do not answer where the bike sleeps. Campuses, dormitories and rented rooms each set their own arrangements, so ask the place rather than the shop, and ask before the bike arrives. These are the questions to settle for your campus, dormitory or room:
 
 - Is a bike allowed inside the grounds, and does the place restrict rented bikes or bikes registered to someone else?
 - Is there an overnight parking place, and is it attended, covered or fenced?
 - What does it cost, and how is it paid?
-- How do you prove the bike is yours when you collect it, and what happens if a ticket or tag is lost?
+- What does the place ask to see when you collect the bike? Ask at handover which registration papers travel with the bike.
+- What happens if a ticket or tag is lost?
 - If the bike is damaged or stolen on the premises, who is responsible?
 
 Whatever you find, ask the shop whether a lock comes with the bike, and use one every time you park.
@@ -114,8 +106,6 @@ Whatever you find, ask the shop whether a lock comes with the bike, and use one 
 ## Sharing a bike with a friend
 
 Two flatmates splitting one rental is the obvious saving, and the one that most needs a conversation with the shop first. Ask whether the agreement limits who may ride the bike, and keep to whatever it says.
-
-The law adds a second condition that has nothing to do with the contract. A friend may ride only a class of bike their licence covers, and handing the keys to someone without the right licence is a separate matter for the person who handed them over. [Lending Your Motorbike to an Unlicensed Rider in Vietnam]({{ '/articles/lending-motorbike-unlicensed-rider-vietnam/' | relative_url }}) explains who the rule falls on, including a renter who lets a friend ride, and this page leaves the fines to it. Splitting the cost does not change who may ride: an unlicensed flatmate is not made legal by sharing the bill.
 
 ## A semester-length rental
 
@@ -126,17 +116,15 @@ A term ends on a date set outside the rental: the university calendar, an exam t
 | One to three months | [Three-Month Motorbike Rental in Hanoi]({{ '/articles/three-month-motorbike-rental-hanoi/' | relative_url }}) |
 | Six months or longer | [Renting a Motorbike for 6 Months or Longer in Hanoi]({{ '/articles/renting-motorbike-six-months-hanoi/' | relative_url }}) |
 | A full year | [Renting a Motorbike for a Year in Hanoi]({{ '/articles/renting-motorbike-year-hanoi/' | relative_url }}) |
-| A whole degree | [Monthly Motorbike Rental for Expats Living in Hanoi]({{ '/articles/expats-monthly-motorbike-hanoi/' | relative_url }}) |
 
 A semester can sit between two rows: check your university calendar, use the nearer page, and give the shop your real dates. Imagine a student whose last exam falls on a Friday and whose flight leaves on Saturday morning. Work backwards from the flight: agree the return time, ask when the deposit is settled, and remember that the shop's opening hours are 09:00–21:00 daily.
 
-If plans change instead, through a transfer, a withdrawal or an early flight, there is no automatic refund entitlement for unused time, so ask at the start how an early return is handled. [The booking guide]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) explains how to contact the shop and what to put in a first message.
-
+If plans change instead, through a transfer, a withdrawal or an early flight, there is no automatic refund entitlement for unused time, so ask at the start how an early return is handled.
 ## Riding habits worth keeping
 
 Campus-to-city traffic is where new riders in Hanoi build habits, good or bad. The honest advice: ride like you cannot afford to crash, because as a student you cannot. Calm speeds, no phone in hand, no riding on sidewalks, lights after dark — the violations that carry fines are all avoidable, and [Motorbike Fines in Vietnam: Current Overview (Decree 168/2024)]({{ '/articles/motorbike-fines-vietnam-overview/' | relative_url }}) lists them.
 
-A helmet is compulsory for the rider and any passenger on a moped or a motorbike, so ask about the helmet when you book and check its condition before you ride off. If you have never ridden a scooter, learn the bike on a quiet street before the campus gate; [First Time Renting a Motorbike in Hanoi: A Beginner Walkthrough]({{ '/articles/first-time-renting-a-motorbike-hanoi/' | relative_url }}) gives a plan for the first ride.
+A helmet is compulsory for the rider and any passenger on a moped or a motorbike, so ask about the helmet when you book and check its condition before you ride off. If you have never ridden a scooter, learn the bike on a quiet street before the campus gate.
 
 ## Weekend value
 
