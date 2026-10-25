@@ -13,6 +13,7 @@
 //   node scripts/seo-package2.js --write           also regenerate docs/seo/package2-eligible.csv and the dossier
 //   node scripts/seo-package2.js --next 5 [--group A]   the next pending slugs in queue order
 //   node scripts/seo-package2.js --words <slug>    word count of one article
+//   node scripts/seo-package2.js --brief <slug>    JSON brief for one article (keywords, intent, questions to serve, valid link targets)
 //   node scripts/seo-package2.js --lint a,b,c      deterministic content checks for expanded articles
 //   node scripts/seo-package2.js --record <batch> --slugs a,b,c --date D --qa "..." [--stamp] [--notes "..."]
 //                                                  write the checkpoint, batch record and optimization-log entry
@@ -77,10 +78,6 @@ function currentWords() {
 }
 
 function init() {
-  if (fs.existsSync(BASELINE_PATH) && !flag('force')) {
-    console.error('seo-package2: ' + path.relative(L.ROOT, BASELINE_PATH) + ' already exists and is frozen (the original word counts must not be recomputed). Use --force only for a deliberate rebuild.');
-    process.exit(1);
-  }
   const matrix = readJSON(MATRIX_JSON, { rows: [] });
   const byUrl = {}; for (const r of matrix.rows) byUrl[r.url] = r;
   const kt = readJSON(KEYWORD_TARGETS, { groups: [] });
@@ -118,11 +115,16 @@ function init() {
   const lines = JSON.stringify(Object.assign({}, baseline, { eligible: '@E@', articleWords: '@W@' }), null, 1)
     .replace('"@E@"', '[\n' + eligible.map(e => '  ' + JSON.stringify(e)).join(',\n') + '\n ]')
     .replace('"@W@"', '{\n' + Object.entries(articleWords).sort(([x], [y]) => x.localeCompare(y)).map(([k, v]) => '  ' + JSON.stringify(k) + ': ' + v).join(',\n') + '\n }');
-  fs.writeFileSync(BASELINE_PATH, lines + '\n');
-  if (!fs.existsSync(STATUS_PATH)) fs.writeFileSync(STATUS_PATH, JSON.stringify({
+  // Exclusive create ('wx'): a frozen baseline is never overwritten, and there is no check-then-write race.
+  try { fs.writeFileSync(BASELINE_PATH, lines + '\n', { flag: flag('force') ? 'w' : 'wx' }); } catch (e) {
+    if (e.code !== 'EEXIST') throw e;
+    console.error('seo-package2: ' + path.relative(L.ROOT, BASELINE_PATH) + ' already exists and is frozen (the original word counts must not be recomputed). Use --force only for a deliberate rebuild.');
+    process.exit(1);
+  }
+  try { fs.writeFileSync(STATUS_PATH, JSON.stringify({
     _about: 'SEO Package 2 checkpoint. articles.<slug>.status is DONE (>= 1,600 words, verified batch) or REVIEW_REQUIRED (reason required); absent = PENDING. Written only after a batch passed its QA; the gate (scripts/seo-package2.js) re-measures every DONE article on each run. batches lists each published batch.',
     batches: [], articles: {}
-  }, null, 1) + '\n');
+  }, null, 1) + '\n', { flag: 'wx' }); } catch (e) { if (e.code !== 'EEXIST') throw e; }
   console.log('seo-package2: baseline frozen: ' + eligible.length + ' eligible of ' + baseline.article_count + ' articles (A ' + baseline.groups.A + ', B ' + baseline.groups.B + ', C ' + baseline.groups.C + ')');
 }
 
@@ -257,7 +259,8 @@ function originalRaw(slug, baseCommit) {
 }
 function allowedAmounts(extraText) {
   const set = new Set();
-  const src = (fs.existsSync(OWNER_FACTS_PATH) ? fs.readFileSync(OWNER_FACTS_PATH, 'utf8') : '') + '\n' + (extraText || '');
+  let facts = ''; try { facts = fs.readFileSync(OWNER_FACTS_PATH, 'utf8'); } catch (e) { facts = ''; }
+  const src = facts + '\n' + (extraText || '');
   for (const m of src.matchAll(/\d{1,3}(?:,\d{3})+/g)) set.add(m[0]);
   return set;
 }
@@ -376,6 +379,45 @@ function runLint(list, baseline) {
   return errors;
 }
 
+// ---------- brief: everything a writer or verifier needs about one article ----------
+const STOP = new Set(['a', 'an', 'the', 'in', 'of', 'for', 'to', 'and', 'with', 'by', 'on', 'at', 'is', 'are', 'vs', 'what', 'how', 'do', 'does', 'you', 'your', 'it', 'or', 'from', 'vietnam', 'hanoi', 'motorbike', 'motorbikes', 'guide']);
+const toks = t => String(t || '').toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/).filter(w => w.length > 2 && !STOP.has(w)).map(w => w.replace(/(ing|es|s)$/, ''));
+function brief(slug) {
+  const ev = evaluate(); if (!ev) { console.error('not initialised'); process.exit(1); }
+  const e = ev.baseline.eligible.find(q => q.slug === slug); if (!e) { console.error(slug + ' is not in the frozen scope'); process.exit(1); }
+  const all = L.loadArticles(); const me = all.find(a => slugOf(a) === slug);
+  const matrix = readJSON(MATRIX_JSON, { rows: [], summary: {} }); const row = matrix.rows.find(r => r.url === e.url) || {};
+  const kt = readJSON(KEYWORD_TARGETS, { groups: [] }); const owns = [], supports = [], ownerUrls = new Set();
+  for (const g of kt.groups || []) for (const k of g.keywords || []) {
+    if (k.owner === e.url) owns.push(k.keyword); if ((k.supporting || []).includes(e.url)) supports.push(k.keyword);
+    if (k.owner && k.owner.startsWith('/articles/')) ownerUrls.add(k.owner); for (const u of k.supporting || []) if (u.startsWith('/articles/')) ownerUrls.add(u);
+  }
+  const evidence = readJSON(path.join(SEO_DIR, 'keyword-evidence.json'), {}); const snap = L.latestRankSnapshot(evidence);
+  const ranks = snap ? snap.rows.filter(r => r.url === e.url && r.position != null).map(r => ({ keyword: r.keyword, position: r.position, tracker_date: snap.date })) : [];
+  const cited = ((matrix.summary || {}).aiVisibility || {}).ownPages || []; const aiCited = cited.find(c => c.url === e.url) || null;
+  const questions = ((matrix.summary || {}).contentGaps || []).filter(g => g.servedBy === e.url).map(g => g.question);
+  const kws = (((matrix.summary || {}).keywordUniverse || {}).mapped || []).filter(k => k.servedBy === e.url && k.relevance !== 'other').map(k => k.keyword);
+  const myToks = new Set(toks(String(me.fm.title) + ' ' + e.primary_keyword + ' ' + (me.fm.tags || []).join(' ')));
+  const score = a => toks(String(a.fm.title) + ' ' + (a.fm.tags || []).join(' ')).filter(t => myToks.has(t)).length;
+  const info = a => ({ slug: slugOf(a), title: String(a.fm.title), words: L.contentWords(a.body), cluster: a.fm.topic_cluster, content_type: a.fm.content_type, review_status: String(a.fm.review_status || '') });
+  const others = all.filter(a => slugOf(a) !== slug);
+  const sameSub = others.filter(a => a.fm.subcluster && a.fm.subcluster === me.fm.subcluster).sort((a, b) => score(b) - score(a)).slice(0, 14).map(a => Object.assign(info(a), { why: 'same subcluster' }));
+  const owners = others.filter(a => ownerUrls.has(L.articleUrl(a)) && !sameSub.some(x => x.slug === slugOf(a))).sort((a, b) => (b.fm.topic_cluster === me.fm.topic_cluster) - (a.fm.topic_cluster === me.fm.topic_cluster) || score(b) - score(a)).slice(0, 10).map(a => Object.assign(info(a), { why: 'keyword owner / money page' }));
+  const taken = new Set(sameSub.concat(owners).map(x => x.slug));
+  const related = others.filter(a => !taken.has(slugOf(a)) && score(a) > 0).sort((a, b) => score(b) - score(a)).slice(0, 12).map(a => Object.assign(info(a), { why: 'title/tag overlap' }));
+  const legal = others.filter(a => a.fm.content_type === 'legal' && String(a.fm.review_status).toUpperCase() === 'VERIFIED').sort((a, b) => score(b) - score(a)).slice(0, 8).map(a => Object.assign(info(a), { why: 'VERIFIED legal guide (restate its facts with a link; cite its primary sources)' }));
+  const out = {
+    slug, url: e.url, title: String(me.fm.title), description: String(me.fm.description), hub: '/topics/' + me.fm.topic_cluster + '/',
+    group: e.group, queue: e.queue, cluster: me.fm.topic_cluster, subcluster: me.fm.subcluster, content_type: me.fm.content_type, search_intent: me.fm.search_intent,
+    review_status: me.fm.review_status || null, original_words: e.original_words, current_words: L.contentWords(me.body),
+    primary_keyword: e.primary_keyword, secondary_keywords: row.secondary_keywords || '', matrix_priority: e.matrix_priority, seo_status: row.status || e.seo_status,
+    owns_keywords: owns, supports_keywords: supports, serp_questions_to_serve: questions, related_keywords_served: kws.slice(0, 20),
+    flags: { ranks_in_tracker: ranks, ai_answer_cited: aiCited ? { answers: aiCited.answers, engines: aiCited.engines } : null, has_faq_front_matter: /^faq:/m.test(fmRaw(me.raw)), existing_sources: fmList(me.raw, 'sources').length, existing_internal_link_targets: String(fmLine(me.raw, 'internal_link_targets') || '') },
+    link_candidates: Object.fromEntries(Object.entries({ same_subcluster: sameSub, keyword_owners_and_money_pages: owners, related_by_title: related, verified_legal_guides: legal }).map(([k, v]) => [k, v.map(x => x.slug + ' | ' + x.title + ' | ' + x.cluster + ' | ' + x.words + ' words')]))
+  };
+  console.log(JSON.stringify(out, null, 1));
+}
+
 // ---------- checkpoint writers ----------
 function writeJSON(p, v) { fs.writeFileSync(p, JSON.stringify(v, null, 1) + '\n'); }
 function record() {
@@ -427,6 +469,7 @@ function recordCommit() {
 
 function main() {
   if (flag('init')) return init();
+  if (opt('brief')) return brief(opt('brief'));
   if (opt('record')) return record();
   if (opt('review')) return markReview();
   if (flag('commit')) return recordCommit();
