@@ -41,7 +41,7 @@ A bike that stays parked at the hotel still costs a day rate for each of those d
 
 ## The lake perimeter
 
-The one-way loop around Hoan Kiem lake is the calmest ceremonial ride in central Hanoi: wide, slow, framed by trees and the lake. On weekend evenings the perimeter goes pedestrian — the walking-zone closures are long-standing and popular — and riding into them is neither possible nor the point: park at the edge lots and join on foot. Signal and one-way discipline around the loop is actively enforced; the rules at lights are in [Traffic Light Rules for Motorbikes in Vietnam]({{ '/articles/traffic-light-rules-vietnam/' | relative_url }}).
+The loop around Hoan Kiem lake is the calmest ceremonial ride in central Hanoi: wide, slow, framed by trees and the lake. On weekend evenings the perimeter goes pedestrian — the walking-zone closures are long-standing and popular — and riding into them is neither possible nor the point: park at the edge lots and join on foot. Signal and sign discipline around the lake matter; the rules at lights are in [Traffic Light Rules for Motorbikes in Vietnam]({{ '/articles/traffic-light-rules-vietnam/' | relative_url }}).
 
 Sightseeing stops and the timing of a visit are in [Exploring Hoan Kiem and the Old Quarter by Motorbike]({{ '/articles/exploring-hoan-kiem-by-motorbike/' | relative_url }}); this guide stays on the rental side.
 
@@ -55,17 +55,17 @@ Vietnam Tourism says the Old Quarter "can be a hectic place", with "shops pourin
 
 South and east of the lake — Trang Tien, Ngo Quyen, the embassy-lined streets — the geometry changes: proper blocks, generous lanes, calm flows. This is the easiest riding in central Hanoi and the best place to spend a rental's first hour: controlled practice, real conditions, low chaos. The traffic-readiness framework is in [Best Motorbike for Hanoi Traffic: What Actually Works]({{ '/articles/best-motorbike-for-hanoi-traffic/' | relative_url }}).
 
-That advice has a time limit. Trang Tien and Ngo Quyen both appear in the Viet Nam Government Portal's list of Zone 1 streets, so the weekend-evening restriction described below applies to them: practise on a weekday, not on a Friday, Saturday or Sunday evening.
+That advice has a time limit. Trang Tien and Ngo Quyen both appear in the Viet Nam Government Portal's list of Zone 1 streets, so the weekend-evening restriction described below applies to them: practise from Monday to Thursday, not on a Friday, Saturday or Sunday evening.
 
 ## Friday to Sunday evenings: check the notice first
 
-Three sources matter for weekends, and they cover different things. The Vietnam Tourism website says that on weekends Hoan Kiem Lake is closed to vehicles, and it gives no hours.
+Each source says something different, so take it for what it covers. Vietnam Tourism states that Hoan Kiem Lake is closed to vehicles on weekends and names no hours.
 
-A VietnamPlus report of 1 July 2026 covers the first phase of a low-emission zone pilot, which runs from 1 July to 31 December 2026. In its Zone 1 (the Hoan Kiem Lake pedestrian area, the Old Quarter and the weekend night market), "motorcycles, motorbikes and all cars" are barred from entering between 19:00 and 24:00 every Friday, Saturday and Sunday, except vehicles operated by the Ministries of National Defence and Public Security.
+The hours come from a VietnamPlus report of 1 July 2026 on the first phase of a low-emission zone pilot, which runs from 1 July to 31 December 2026. Zone 1 there is the lake's pedestrian area, the Old Quarter and the weekend night market, and "motorcycles, motorbikes and all cars" may not enter between 19:00 and 24:00 on each of Friday, Saturday and Sunday. The report excepts vehicles operated by the Ministries of National Defence and Public Security.
 
-The Viet Nam Government Portal gives the same hours. Its headline speaks of restricting fossil-fuel vehicles, but its text bars all road vehicles, including motorcycles, mopeds and cars, from Zone 1, and priority vehicles keep access. It defines Zone 1 as a list of named streets (among them Trang Tien, Hang Khay, Hang Dao, Hang Ngang, Hang Bac and Ngo Quyen), so Zone 1 may be narrower than the whole Old Quarter.
+The Viet Nam Government Portal agrees on the hours. Its headline speaks of fossil-fuel vehicles, but its text bars all road vehicles, motorcycles and mopeds included, and priority vehicles keep access. It defines Zone 1 as a list of named streets (among them Trang Tien, Hang Khay, Hang Dao, Hang Ngang, Hang Bac and Ngo Quyen), so the zone may be narrower than the whole Old Quarter.
 
-The first phase ends on 31 December 2026, so check the current official notice for the streets, hours and dates that apply to your rental before planning a weekend evening around any bike.
+Because the first phase ends on 31 December 2026, confirm the streets, hours and dates in the current official notice before you build a weekend evening around any bike.
 
 ### Planning the evening around it
 
@@ -87,7 +87,7 @@ A loss on a rental is a question for the rental agreement, so read what yours sa
 
 ## Renting for Hoan Kiem
 
-Nguyen Tu's shop in Long Bien is a direct bridge run of roughly fifteen minutes from the lake; delivery to a Hoan Kiem hotel can be arranged case by case depending on location, within opening hours 09:00–21:00 — see [Shop Pickup vs Delivery When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) and [How to Book a Motorbike Rental in Hanoi (WhatsApp, Zalo, Walk-In)]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) for arranging it. Renting from across the river and riding in gives you the handover in calm conditions — the inspection routine in [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) is easier without a crowd.
+Nguyen Tu's shop in Long Bien is a bridge run from the lake, the time depending on traffic; delivery to a Hoan Kiem hotel may be available depending on location and arrangement, within opening hours 09:00–21:00 — see [Shop Pickup vs Delivery When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) and [How to Book a Motorbike Rental in Hanoi (WhatsApp, Zalo, Walk-In)]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) for arranging it. Renting from across the river and riding in gives you the handover in calm conditions — the inspection routine in [Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) is easier without a crowd.
 
 ### From the shop to the first night
 
@@ -95,15 +95,15 @@ Nguyen Tu's shop in Long Bien is a direct bridge run of roughly fifteen minutes 
 2. Collect the bike in the morning. The shop in Long Bien is open 09:00–21:00 daily, the ride in crosses the Red River, and a morning start keeps that ride in daylight.
 3. At the shop, do the inspection walk-around, photograph existing marks and confirm the model is the one you agreed. Settle eligibility and documents before the trip, starting with [Can Foreigners Rent a Motorbike in Hanoi?]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}).
 4. Choose the bridge and the route beforehand, not on the ramp.
-5. Park as arranged with the hotel, note the spot and walk. Save the first practice ride for a weekday on the French Quarter grid.
+5. Park as arranged with the hotel, note the spot and walk. Save the first practice ride for a Monday to Thursday on the French Quarter grid.
 
 ### If you want the bike brought to your hotel
 
-Delivery or pickup in Hanoi may be available depending on location and arrangement, so ask about your hotel's street when you book instead of assuming. No fixed delivery fee is published and no delivery time is guaranteed: ask what the cost would be, and do not tie a tour or a train to the bike arriving at an exact minute. Anything arranged stays within opening hours, and from Friday to Sunday it is worth asking for a daytime handover, because the weekend-evening restriction starts at 19:00. The hotel handover has its own guide in [Motorbike Delivery to the Hanoi Old Quarter: How It Works]({{ '/articles/motorbike-delivery-old-quarter/' | relative_url }}).
+Delivery or pickup in Hanoi may be available depending on location and arrangement, so ask about your hotel's street when you book instead of assuming. No fixed delivery fee is published and no delivery time is guaranteed: ask what the cost would be, and do not tie a tour or a train to the bike arriving at an exact minute. Anything arranged stays within opening hours, and from Friday to Sunday, ask for a handover well before 19:00 and ask whether your street is open to bikes at that hour on a weekend. The hotel handover has its own guide in [Motorbike Delivery to the Hanoi Old Quarter: How It Works]({{ '/articles/motorbike-delivery-old-quarter/' | relative_url }}).
 
 ### Returning the bike
 
-The bike goes back to the shop across the river, and you can ask whether collection from your address may be available, like delivery, depending on location and arrangement. A late return costs 20,000 VND per hour, and more than six hours late a full additional rental day may be charged, typically 150,000–200,000 VND depending on the motorcycle. There is no automatic refund for returning early. Allow for the river crossing on the last day, and keep the dinner by the lake for the night before the bike goes back.
+The bike goes back to the shop across the river, and you can ask whether collection from your address may be available, like delivery, depending on location and arrangement. A late return costs 20,000 VND per hour, and more than six hours late a full additional rental day may be charged, typically 150,000–200,000 VND depending on the motorcycle. There is no automatic refund for returning early. Allow for the river crossing on the last day and return before the shop closes at 21:00, so do not plan a lakeside dinner for return day.
 
 ### Districts next door
 
@@ -111,7 +111,7 @@ Based in a different district? The area guides for [Ba Dinh]({{ '/articles/renti
 
 ## Which bike suits the district
 
-A small, light bike suits every part of the district. [Best Bike for Riding in the Hanoi Old Quarter]({{ '/articles/best-bike-for-hanoi-old-quarter/' | relative_url }}) compares the classes against the manufacturers' published sizes, so this section only adds how the choice looks from a lakeside stay.
+A small, light bike suits every part of the district. [The Old Quarter bike comparison]({{ '/articles/best-bike-for-hanoi-old-quarter/' | relative_url }}) sets the classes against the manufacturers' published sizes, so this section only adds how the choice looks from a lakeside stay.
 
 Two questions settle it. The first is whether you already shift gears with your foot. If you do not, take an automatic scooter, the Honda Vision, Honda Click or Yamaha Mio, because there is no gear to manage in a stop-start crowd. If you do, the semi-automatic Honda Wave or Yamaha Sirius suits short hops. The second is what you will carry: for a laptop or shopping, ask to see the under-seat space on the model you are offered, with your own helmet in your hand.
 
@@ -138,7 +138,7 @@ For getting around the district itself, not really: the lake and the Old Quarter
 
 ### Can I ride around the lake on a Saturday night?
 
-Not into Zone 1 while the restriction applies. VietnamPlus and the Viet Nam Government Portal report that motorcycles are barred from entering between 19:00 and 24:00 on Friday, Saturday and Sunday during the first phase of the pilot, and Zone 1 is a list of named streets. Check the current official notice, then park at the edge and walk.
+Not into Zone 1 while the restriction applies. VietnamPlus and the Viet Nam Government Portal report that motorcycles are barred from entering between 19:00 and 24:00 on Friday, Saturday and Sunday during the first phase of the pilot, and the Government Portal defines Zone 1 as a list of named streets. Check the current official notice, then park at the edge and walk.
 
 ### Can the bike be brought to my hotel?
 
@@ -146,11 +146,11 @@ It may be, depending on location and arrangement, so give the shop your hotel's 
 
 ### Where should a rented bike sleep at a lakeside hotel?
 
-That depends on the hotel: a space inside, a partner lot or attendant nearby, or the street outside. Ask before you book, and use the questions in [the hotel parking guide]({{ '/articles/hotel-parking-motorbike-hanoi/' | relative_url }}).
+That depends on the hotel: a space inside, a partner lot or attendant nearby, or the street outside. Ask before you book, and put the questions from "Where the bike sleeps" above to the hotel.
 
 ### Can a tourist rent a bike for Hoan Kiem?
 
-Eligibility is the same wherever you stay: it depends on who you are and which documents you hold, not on the district. [Can Foreigners Rent a Motorbike in Hanoi?]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) sets out who may rent and what to bring, so read it before you travel to the shop.
+Eligibility is the same wherever you stay: it depends on who you are and which documents you hold, not on the district. Read [the guide to who may rent and what to bring]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) before you travel to the shop.
 
 ## The one-line version
 

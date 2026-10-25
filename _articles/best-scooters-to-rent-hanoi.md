@@ -25,35 +25,33 @@ Hanoi scooter rental comes down to automatics, and four of them are on the publi
 
 ## The four scooters side by side
 
-The table keeps to two kinds of figure: the daily rate published for each scooter, and the specification Honda Vietnam published for the Vision and the Air Blade 125 on its model pages, retrieved on 23 September 2026. A dash means this guide holds no verified figure for that cell, which is different from the scooter lacking the feature.
+The table keeps to two kinds of figure: the daily rate published for each scooter, and the specification Honda Vietnam published for the Vision and the Air Blade 125 on its model pages, retrieved on 23 September 2026. A dash means this guide quotes no figure there, which is different from the scooter lacking the feature.
 
-| | Honda Vision | Honda Air Blade (125 version) | Honda Click and Yamaha Mio |
+| | Honda Vision | Honda Air Blade | Honda Click and Yamaha Mio |
 |---|---|---|---|
 | Published daily rate | 200,000 VND | 200,000 VND | 150,000 VND each |
-| Engine | 110 cc class, air-cooled | 125 cc, liquid-cooled | - |
-| Kerb weight | 97 kg | 110 kg | - |
-| Underseat bay | - | 23.2 L, two half-helmets | - |
+| Engine | 110 cc class, air-cooled | 125 cc, liquid-cooled (125 version) | - |
+| Kerb weight | 97 kg | 110 kg (125 version) | - |
+| Underseat bay | - | 23.2 L, two half-helmets (125 version) | - |
 | Front wheel | 16-inch | - | - |
 
-The Click and Mio have no verified manufacturer row here, so this guide gives them no engine, weight or storage figures rather than estimating. The [scooter guides]({{ '/topics/scooters/' | relative_url }}) hold the model reviews and comparisons behind the Honda figures.
+This guide quotes no manufacturer figures for the Click and Mio, so it leaves their engine, weight and storage as dashes rather than estimating.
 
 ## Honda Vision - the all-rounder
 
-A familiar sight all over Vietnam ([full Vision 110 review]({{ '/articles/honda-vision-110-review/' | relative_url }})), and the reason is balance: light, low seat, tidy under-seat storage, and a shape that shrinks traffic gaps. Published rental rates: 200,000 VND per day, 800,000-1,000,000 VND per week, 1,800,000-2,000,000 VND per month. The Vision suits most riders, and it is the safe pick if you are choosing blind.
+A familiar sight all over Vietnam ([full Vision 110 review]({{ '/articles/honda-vision-110-review/' | relative_url }})), and the reason is balance: light, low seat, tidy under-seat storage, and a shape that shrinks traffic gaps. Published rental rates: 200,000 VND per day, 800,000-1,000,000 VND per week, 1,800,000-2,000,000 VND per month. The Vision suits a wide range of riders, and it is the safe pick if you are choosing blind.
 
-Honda Vietnam's published figures put the Vision in the 110 cc class, with an air-cooled engine, a 97 kg kerb weight and a 16-inch front wheel. The weight is the number a visitor notices first: it is the lighter of the two scooters in the table with a verified weight, so it is the easier one to walk backwards out of a parking row or hold up at a standstill. A larger front wheel also tends to roll over a pothole or a patched road edge with less of a jolt.
-
-Weighing the Vision against the Yamaha Janus? The [Vision versus Janus comparison]({{ '/articles/honda-vision-vs-yamaha-janus/' | relative_url }}) sets out the manufacturer figures side by side. The Janus is not on the published rental list. Contact us to confirm current availability before you plan around it.
+Weight matters most at walking pace: the Vision is the lighter of the two scooters with a published weight, so it is the easier one to walk backwards out of a parking row or hold up at a standstill. The Vision's 16-inch front wheel helps too, since a larger wheel tends to roll over a pothole or a patched road edge with less of a jolt.
 
 ## Honda Air Blade - the step up in engine size
 
-The Air Blade is on the published list at 200,000 VND per day, the same daily rate as the Vision, so the choice between them turns on engine size, weight and storage and not on price. For the Air Blade 125, Honda Vietnam publishes a 125 cc liquid-cooled engine, a 110 kg kerb weight, a 23.2 L underseat compartment that takes two half-helmets, and a USB-C charge port. Against the Vision that is a step up from the 110 cc class to 125 cc, with 13 kg more scooter to manage in a tight parking row.
+The Air Blade is on the published list at 200,000 VND per day, the same daily rate as the Vision, so the choice between them turns on engine size, weight and storage and not on price. Against the Vision, the Air Blade 125 is a step up from the 110 cc class to 125 cc, with 13 kg more scooter to manage. Honda Vietnam also lists a USB-C charge port for it, which the table leaves out.
 
 Honda sells the Air Blade as a 125 and as a 160, and the published rate does not name a version. The verified figures here are for the 125, so ask which version a given bike is: the licence class follows engine capacity, as the licence check below explains. The [Air Blade 125 review]({{ '/articles/honda-air-blade-125-review/' | relative_url }}) covers the model in detail, and the [Vision versus Air Blade comparison]({{ '/articles/honda-vision-vs-honda-air-blade/' | relative_url }}) weighs the entry scooter against the step up.
 
 ## Honda Click - the sportier sibling
 
-Sharper, sportier bodywork than the Vision. Published rates undercut the Vision: 150,000 VND per day, 600,000-700,000 VND per week, 1,000,000-1,200,000 VND per month. A Click is the value pick when the budget matters and the riding is city-only.
+This guide quotes no manufacturer figures for the Click, so judge its seat and feel in person. Published rates undercut the Vision: 150,000 VND per day, 600,000-700,000 VND per week, 1,000,000-1,200,000 VND per month. A Click is the value pick when the budget matters and the riding is city-only.
 
 ## Yamaha Mio - the light alternative
 
@@ -63,35 +61,35 @@ The Click and Mio share a published daily rate, so price does not separate them.
 
 ## How to choose between them
 
-- Seat height and fit matter more than spec sheets - sit on all four; the one that lets both feet nearly flat is the one.
-- The four are all around the 110-125 cc class: enough for Hanoi, enough for day trips, not tourers.
+- Seat height and fit matter more than spec sheets - sit on all three; the one that lets both feet nearly flat is the one. Add the Air Blade to that test if it is offered.
+- The A1 licence guide lists all four among the 110-125 cc scooters and underbones: enough for Hanoi, enough for day trips, not tourers.
 - Ask what the shop's maintenance covers. It may include an oil change, tyre-pressure checks and a normal inspection, while consumables such as tyres and inner tubes may be the renter's responsibility depending on the situation.
 - Rate differences are small but real on long rentals: a month on a Click/Mio versus a Vision differs by several hundred thousand dong.
 
 ### Rider size and weight
 
-Kerb weight is the weight of the scooter itself, ready to ride. It tells you how much machine you are walking, parking and steadying, not how much load it can carry. Honda Vietnam publishes 97 kg for the Vision and 110 kg for the Air Blade 125, and the table holds no verified weight for the Click or Mio.
+Kerb weight is the weight of the scooter itself, ready to ride. It tells you how much machine you are walking, parking and steadying, not how much load it can carry.
 
-A smaller or newer rider will find the lighter scooter easier at walking pace. A taller or heavier rider should check the fit on the larger scooter, because knee room and the reach to the bars show up the moment you sit down. This guide holds no maximum-load figure for any of the four, so there is no verified number to quote for rider, passenger and luggage together. A heavier rider, or two adults with bags, is a good reason to ask the shop which scooter it recommends for that load.
+A smaller or newer rider feels that weight most when walking and parking the scooter. A taller or heavier rider should check the fit on the larger scooter, because knee room and the reach to the bars show up the moment you sit down. This guide quotes no maximum-load figure for any of the four, so there is no verified number for rider, passenger and luggage together. A heavier rider, or two adults with bags, is a good reason to ask the shop which scooter it recommends for that load.
 
 ### Luggage and passengers
 
-Of the four, the Air Blade 125 is the only one with a verified underseat figure in this guide: 23.2 L, which Honda words as two half-helmets. A full-face helmet or a bulkier bag needs testing even there, and for the Vision, Click and Mio the only answer is to try the bay with your own helmet and day bag.
+Of the four, the Air Blade 125 is the only one with a published underseat figure in this guide: 23.2 L, which Honda words as two half-helmets. A full-face helmet or a bulkier bag needs testing even there, and for the Vision, Click and Mio the only answer is to try the bay with your own helmet and day bag.
 
-Passengers are a legal question before they are a mechanical one. A motorbike may carry one passenger besides the rider, and everyone on board must wear a fastened, compliant helmet (Article 33 of Law 36/2024/QH15, as the [passenger rules guide]({{ '/articles/motorbike-passenger-rules-vietnam/' | relative_url }}) sets out). A couple on one scooter is lawful; three people on one bike is not, outside the narrow exceptions the law lists. For two adults, the Air Blade's larger engine class and heavier build give more margin than the 110 cc Vision, and any scooter you pick should be tried with both people on board before you commit.
+Passengers are a legal question before they are a mechanical one. A motorbike may carry one passenger besides the rider, and everyone on board must wear a fastened, compliant helmet, with narrow exemptions (Article 33 of Law 36/2024/QH15, as the [passenger rules guide]({{ '/articles/motorbike-passenger-rules-vietnam/' | relative_url }}) sets out). A couple on one scooter is lawful; three people on one bike is not, outside the cases the law lists. For two adults, the Air Blade's larger engine class makes it the more natural choice, though with no load figure for either scooter, any scooter you pick should be tried with both people on board before you commit.
 
 ### Your route
 
-Narrow lanes and constant parking favour the lighter scooter, which on verified weights is the Vision, and the [Old Quarter riding guide]({{ '/articles/best-bike-for-hanoi-old-quarter/' | relative_url }}) works through that area in detail. Longer days across the city, or an occasional run out of town, favour the larger engine class of the Air Blade. Support is primarily for Hanoi and local use, so tell the shop if your plan goes beyond the city.
+Narrow lanes and constant parking favour the Vision, and the [Old Quarter riding guide]({{ '/articles/best-bike-for-hanoi-old-quarter/' | relative_url }}) works through that area in detail. Longer days across the city, or an occasional run out of town, favour the larger engine class of the Air Blade. Support is primarily for Hanoi and local use, so tell the shop if your plan goes beyond the city.
 
 ### A shortlist by rider type
 
 | If you are... | Start with | Why |
 |---|---|---|
-| New to scooters, or on the smaller side | Honda Vision | The lighter verified weight, 97 kg, and a 16-inch front wheel |
-| Carrying a passenger or luggage regularly | Honda Air Blade | A 125 cc engine and a published 23.2 L underseat bay |
+| New to scooters, or on the smaller side | Honda Vision | Easier to walk and park, with a 16-inch front wheel |
+| Carrying a passenger or luggage regularly | Honda Air Blade | A 125 cc engine and a published underseat bay |
 | Watching the daily rate on short city hops | Honda Click or Yamaha Mio | A published rate of 150,000 VND per day |
-| Choosing without a strong preference | Honda Vision | A verified weight and a published rate to check against |
+| Choosing without a strong preference | Honda Vision | The lighter of the two with a published weight, at the same daily rate as the Air Blade |
 
 Unsure whether an automatic is the right type at all? The [automatic, semi-automatic and manual comparison]({{ '/articles/automatic-vs-manual-motorbike-hanoi/' | relative_url }}) sets the three side by side. New to riding altogether? The [first-time renting walkthrough]({{ '/articles/first-time-renting-a-motorbike-hanoi/' | relative_url }}) covers the first hour and the first day.
 
@@ -101,11 +99,9 @@ Licence: anything above 50 cc needs a [licence Vietnam recognises]({{ '/articles
 
 ### Licence class by engine capacity
 
-A new A1 licence covers petrol two-wheelers up to and including 125 cc (Article 57 of Law 36/2024/QH15), with a minimum age of 18 (Article 59). An A1 issued before 1 January 2025 keeps a wider scope that runs up to but not including 175 cc (Article 89).
+A new A1 licence covers petrol two-wheelers up to and including 125 cc (Article 57 of Law 36/2024/QH15), with a minimum age of 18 (Article 59).
 
-The [A1 licence guide]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) counts the four scooters here among the bikes inside A1. That holds for the Air Blade in its 125 version: a 160 cc version is above the 125 cc line of a new A1, so ask before you assume your licence covers it. For a foreign visitor, recognition depends on the home licence plus an International Driving Permit that includes a motorcycle category, and riding with no valid licence of any kind is an offence.
-
-Engine capacity decides the class, not the model name, so ask for the capacity of the exact scooter you are offered. The licence routes visitors use, and what the rental side needs, are set out in the [guide for foreign renters]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}).
+The [A1 licence guide]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) counts all four scooters here among the bikes inside A1, and that holds for the Air Blade in its 125 version. Engine capacity decides the class, not the model name: a 160 cc version is above the 125 cc line of a new A1, so ask for the capacity of the exact scooter you are offered before you assume your licence covers it.
 
 ## What to check when you collect a scooter
 
@@ -139,7 +135,7 @@ To check a model for your dates, message or call +84 942 467 674 (phone, WhatsAp
 
 ### Which scooter is best for a first-time visitor in Hanoi?
 
-The Honda Vision is a sensible place to start, since it is the lighter scooter of the two with a published weight. Check the fit before you agree to it, tell the shop how much riding you have done, and ask which scooter it would put you on.
+The Honda Vision is a sensible place to start, since it weighs less than the Air Blade 125. Check the fit before you agree to it, tell the shop how much riding you have done, and ask which scooter it would put you on.
 
 ### How much does Hanoi scooter rental cost per day?
 
@@ -151,7 +147,7 @@ Yes. All four are above 50 cc, so a licence Vietnam recognises is needed to ride
 
 ### Can two people ride one rental scooter?
 
-Vietnamese law allows it for a couple: one passenger besides the rider is permitted, and both people need a fastened helmet. A third person falls outside the law's narrow exceptions.
+Vietnamese law allows it for a couple: one passenger besides the rider is permitted, and both people need a fastened helmet, with narrow exemptions. A third person is allowed only in the narrow cases the law lists, such as a child under 14 travelling with an adult.
 
 ### What is the difference between the Honda Vision and the Honda Air Blade?
 

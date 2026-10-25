@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-  - "https://www.vietnamairlines.com/dk/en/plan-book/travel/travel-guide/hanoi-airport-to-hanoi-city — 3+ Ways to Get from Hanoi Airport to Hanoi City Center, Vietnam Airlines travel guide — Noi Bai approximately 27 km north of the city centre; journey typically 45 minutes to an hour depending on traffic, longer in peak hours; Terminal 2 for international and Terminal 1 for domestic flights; public bus, taxi, ride-hailing and hotel pick-up options; advice to use registered taxi queues, licensed companies and confirmed bookings (retrieved 2026-10-25)"
+  - "https://www.vietnamairlines.com/dk/en/plan-book/travel/travel-guide/hanoi-airport-to-hanoi-city — 3+ Ways to Get from Hanoi Airport to Hanoi City Center, Vietnam Airlines travel guide — Noi Bai approximately 27 km from the centre of Hanoi; journey typically 45 minutes to an hour depending on traffic, longer in peak hours; Terminal 2 for international and Terminal 1 for domestic flights; public bus, taxi, ride-hailing and hotel pick-up options; advice to use registered taxi queues, licensed companies and confirmed bookings (retrieved 2026-10-25)"
   - "https://www.nhs.uk/conditions/jet-lag/ — Jet lag, NHS — symptoms include tiredness and exhaustion, difficulty staying awake during the day, and concentration and memory problems; usually improves within a few days; advice to move sleep to the new time zone, go outside during the day and sleep only at night (retrieved 2026-10-25)"
 internal_link_targets: motorbike-rental-pickup-or-delivery-hanoi, how-to-book-a-motorbike-rental-hanoi, motorbike-rental-agreement-hanoi, first-time-renting-a-motorbike-hanoi, best-motorbike-for-hanoi-traffic, riding-motorbike-noi-bai-airport-hanoi, documents-needed-rent-motorbike-hanoi, how-to-rent-a-motorbike-hanoi, motorbike-delivery-old-quarter
 ---
@@ -141,7 +141,7 @@ Do not plan on it: nothing is published for delivery to the airport and no deliv
 
 ### Should I ride from the airport on the day I arrive?
 
-No. After a long flight, tiredness and weak concentration are the wrong start for an unfamiliar road; take a registered taxi, a bus or your hotel's pick-up and collect the bike rested.
+No. Jet lag and a long flight make an unfamiliar road a poor first ride; take a registered taxi, a bus or your hotel's pick-up and collect the bike rested.
 
 ### What do I need to have with me?
 

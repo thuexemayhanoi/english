@@ -32,7 +32,7 @@ Each row names the route that fits better and what decides it. Where two rows ap
 
 | Your situation | Better fit | What decides it |
 |---|---|---|
-| Arrival day | Next day, by either route, is the safe default; ask about same day only after a short, rested arrival | After a flight you may be tired, and a handover needs your full attention. |
+| Arrival day | Next day, by either route, is the safe default; ask about same day only if you land early and feel rested | After a flight you may be tired, and a handover needs your full attention. |
 | Luggage | Delivery, or pickup once your bags are in your room | A scooter is not a way to carry a suitcase, and delivery saves a separate trip to the shop. |
 | First-time rider | Pickup | The handover is the moment to ask how the controls work, face to face with the shop. |
 
@@ -59,11 +59,11 @@ Collecting the bike yourself at 112 Nguyen Van Cu Street, Long Bien, means you s
 
 ## Delivery: the convenience option
 
-Delivery to your hotel or address in Hanoi may be available depending on location and arrangement - it is agreed case by case, within opening hours (09:00-21:00 daily). Delivery suits renters already settled somewhere far from the shop, or anyone on a tight schedule, though no time is guaranteed, so allow a window. Arriving at Noi Bai Airport? [Renting a Motorbike When You Arrive at Noi Bai Airport]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) explains how handover works after landing.
+Delivery to your hotel or address in Hanoi may be available depending on location and arrangement - it is agreed case by case, within opening hours (09:00-21:00 daily). Delivery suits renters already settled somewhere far from the shop. Arriving at Noi Bai Airport? [Renting a Motorbike When You Arrive at Noi Bai Airport]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) explains how handover works after landing.
 
 ### What to ask before you accept delivery
 
-Ask whether your address and dates can be served at all: "may be available" is the published position, so send the full address, a map pin and your dates. Agree the handover spot too, and give a phone number you will answer when the time comes.
+Ask whether your address and dates can be served at all: send the full address, a map pin and your dates. Agree the handover spot too, and give a phone number you will answer when the time comes.
 
 No delivery time is published and none is guaranteed, so think of the handover as a stretch of the day rather than a fixed moment. Keep anything that cannot move, such as a flight or a hotel checkout, well clear of it, ask for a daylight window if you can, and message the shop that morning to confirm.
 
@@ -105,7 +105,7 @@ A message in the booking chat gives you a timestamped record on your own phone. 
 - The route at each end, pickup or delivery and shop return or collection, each with a place and a time window.
 - The daily rate for your model, published as 150,000 VND for the Honda Wave, Yamaha Sirius, Honda Click and Yamaha Mio and 200,000 VND for the Honda Vision and Honda Air Blade.
 - Any cost for delivery or collection: there is no published fixed delivery fee; agree the cost with the shop [when you book]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}), not when the bike arrives.
-- How you will pay, and a receipt for the deposit.
+- How you will pay, and that you will ask for a receipt for the deposit.
 - The fuel level at handover and the level expected at return.
 
 ## Returns work both ways too
@@ -115,7 +115,7 @@ Return the bike at the shop, or arrange collection from your address the same wa
 ### Choosing the return
 
 - **Back at the shop.** You control the timing, so plan the whole trip back, not just the last stretch, and arrive inside opening hours with room to spare. [How Returning a Rental Motorbike in Hanoi Works]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }}) lists the steps in order.
-- **Collection from your address.** This may be available depending on location and arrangement, like delivery. Agree the place and the window, then ask which moment ends the rental: the agreed collection time or the moment the bike reaches the shop.
+- **Collection from your address.** Ask whether collection is possible, as with delivery. Agree the place and the window, then ask which moment ends the rental: the agreed collection time or the moment the bike reaches the shop.
 
 ### The late-return rules
 
