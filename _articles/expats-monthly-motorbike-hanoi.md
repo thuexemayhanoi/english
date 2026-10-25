@@ -70,7 +70,7 @@ For stays measured in quarters, half-years or a year, there are separate guides 
 
 The standard monthly requirements apply: deposit, documents, agreement terms. [Monthly Motorbike Rental Requirements in Hanoi]({{ '/articles/monthly-motorbike-rental-requirements-hanoi/' | relative_url }}) lists them. As an expat you have one extra question: what happens if your visa status changes mid-term? Keep the agreement and the shop's contact details somewhere you can find them months later.
 
-The visa question has a simple core. Your right to ride comes from your documents, not from the rental agreement, so if a licence or visa lapses the rental carries on but riding has to stop until the paperwork is valid again. Tell the shop as soon as you know, because an expiry can change your end date or your plan to extend.
+The visa question has a simple core. Your right to ride comes from your licence documents, not from the rental agreement, so if your licence or IDP lapses the rental carries on but riding has to stop until you hold a valid document again. Your visa matters in a different way: the exchange route above needs a residence card valid for three months or more, so keep those dates in view too. Tell the shop as soon as you know of any change, because it can affect your end date or your plan to extend.
 
 ### Terms to get in writing
 
@@ -148,11 +148,11 @@ Nguyen Tu accepts cash, bank transfer and QR payment. Card payment is not among 
 
 ### Do I get a refund if I leave Hanoi before the month ends?
 
-There is no automatic refund entitlement for unused time. Give notice as soon as your plans change and agree the return with the shop; the early-return guide linked above covers the exit, and [How Returning a Rental Motorbike in Hanoi Works]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }}) covers the return itself.
+There is no automatic refund entitlement for unused time. Give notice as soon as your plans change and agree the return with the shop; [the early-exit guide]({{ '/articles/early-return-monthly-rental-hanoi/' | relative_url }}) covers notice, and [How Returning a Rental Motorbike in Hanoi Works]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }}) covers the return itself.
 
-### Can I keep the same bike for longer than a month?
+### What deposit should I expect on a monthly rental?
 
-Longer-term rental is negotiable with the customer, so contact the shop before your end date to agree the rate and the period. Availability of any specific model changes: contact us to confirm current availability.
+The typical range is 2,000,000–5,000,000 VND, depending on the vehicle and conditions. Ask for the figure that applies to your bike and for what it is held against, then include both in your written summary of the terms.
 
 ## The one-line version
 

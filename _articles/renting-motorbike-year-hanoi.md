@@ -29,12 +29,12 @@ Longer-term arrangements beyond the published monthly rates are negotiable with 
 
 ### Fixed term or rolling
 
-The two shapes suit different stays, and choosing between them is the biggest decision in the conversation with the shop.
+The two shapes suit different stays, and the choice between them frames the rest of the conversation with the shop.
 
 | Question | Fixed term for the year | Rolling month to month |
 |---|---|---|
-| Price | The price for the whole year is agreed once and written down | Rate and availability are confirmed again at each renewal |
-| Leaving early | Negotiate it before signing: there is no automatic refund entitlement for unused time | The rental ends when you stop renewing, so ask how much notice the shop wants |
+| Price | The price for the whole year is agreed once and written down | Ask whether the rate and the bike's availability are confirmed again at each renewal |
+| Leaving early | Negotiate the early-exit terms before signing | The rental ends when you stop renewing, so ask how much notice the shop wants |
 | Suits | A contract or posting with a firm end date | A stay whose length is still uncertain |
 | Watch for | An early-exit clause you cannot live with | A rate or bike availability that differs at a renewal |
 
@@ -57,7 +57,52 @@ Twelve months is one point on a scale, and the neighbouring lengths have guides 
 - Mileage management matters if you ride far: the practical owner guidance is periodic checks around every ~1,500 km of use — see [High Monthly Mileage on a Rental Motorbike in Hanoi]({{ '/articles/high-mileage-monthly-rental-hanoi/' | relative_url }})
 - The licence must outlast the bike: check expiry dates up front — [When Your Licence or Visa Expires Mid-Rental in Hanoi]({{ '/articles/licence-expiry-during-long-rental-hanoi/' | relative_url }})
 
-### A maintenance rhythm across twelve months
+## The resident's decision
+
+At a year, run the honest rent-versus-buy comparison: [Long-Term Renting vs Buying a Motorbike in Hanoi for Residents]({{ '/articles/long-term-renting-vs-buying-residents-hanoi/' | relative_url }}). Year-scale rental still wins for most expats on fixed contracts — known cost, maintenance on the shop's side, clean exit — but the comparison should be made with numbers, not folklore. The six-month article ([Renting a Motorbike for 6 Months or Longer in Hanoi]({{ '/articles/renting-motorbike-six-months-hanoi/' | relative_url }})) covers the adjacent case.
+
+### Questions that frame the comparison
+
+The claim that rental wins for most expats is a general judgement, not a measurement, so test it against your own situation.
+
+- How long will you really stay? A firm end date favours renting; an open-ended stay is where owning gets a fair hearing.
+- What would a bike cost you? Take a current quote or listing rather than a rule of thumb, and set it against the year-long price once the shop has given you one in writing.
+- What could you sell it for, and how fast? Leaving on a fixed date means selling on a fixed date.
+- Who carries the risk of repairs, tyres and paperwork? Under a rental the risk is shared under the terms you agreed, and consumables may be yours; owning puts all of it on you.
+
+The cost sides are laid out in [Renting vs Buying a Motorbike in Hanoi: Cost and Convenience]({{ '/articles/renting-vs-buying-a-motorbike-hanoi/' | relative_url }}), and the buying side in [Buying Your First Scooter in Vietnam: A Practical Guide]({{ '/articles/buying-first-scooter-vietnam-guide/' | relative_url }}) and [Buying a Used Motorbike in Vietnam: Inspection Basics]({{ '/articles/used-motorbike-inspection-vietnam/' | relative_url }}). Decide a few months before the term ends, so that renewing, returning or buying is a plan rather than a default.
+
+## Terms to agree for twelve months
+
+A vague term matters more in a year-long agreement, because it runs twelve times as long as a monthly one. Ask the shop to confirm each of these in a message and keep the reply with your handover photos. The long-term agreement checklist is in [Long-Term Motorbike Rental Agreements in Hanoi]({{ '/articles/motorbike-rental-agreement-long-term-hanoi/' | relative_url }}).
+
+| Term | What to ask the shop to confirm |
+|---|---|
+| Price and payment | The price for the full year, the dates it covers and how it is split across payments |
+| Deposit | The amount, typically 2,000,000–5,000,000 VND depending on the vehicle and conditions, what it is held against and how and when it is returned |
+| Maintenance | Which maintenance is included and how visits are booked |
+| Consumables | Who pays for tyres and inner tubes, and who chooses the replacement |
+| Use | Commuting only or trips outside Hanoi, and who may ride the bike |
+| Early ending | What happens if plans change, and how much notice is expected |
+| Renewal and return | The end date and time, and how renewal works |
+
+Late returns are charged at 20,000 VND per hour, and more than six hours late may be charged as a full additional rental day, typically 150,000–200,000 VND depending on the motorcycle. Arrange a renewal before the end date instead of after it.
+
+## Licence and insurance for a resident
+
+### Licence
+
+Riding for a year is a different position from riding for a week. [How Foreigners Exchange a Licence for a Vietnamese One]({{ '/articles/foreign-licence-exchange-vietnam/' | relative_url }}) draws the line between a visitor's International Driving Permit and a resident's exchange of a national licence.
+
+Under Article 24 of Circular 12/2025/TT-BCA, a foreigner who lives, works or studies in Vietnam and holds a national driving licence that is still valid can be considered for an exchange into the corresponding Vietnamese licence class. The foreigner must also hold one of the residence papers named in Article 24, such as a temporary or permanent residence card, with a duration of three months or more. The exchange guide adds that an International Driving Permit cannot be exchanged, that a licence covering only cars does not convert into motorbike categories, and that applications go to the Traffic Police Department or a commune-level police point that accepts them.
+
+The practical points are separate from the law. Start gathering the dossier early, including the certified translation, the passport and a health certificate where one is required. Put every expiry date in one list, and work back from the date your current permission to ride ends.
+
+### Insurance
+
+Nguyen Tu does not provide motorbike insurance, so a twelve-month renter arranges their own. [Arranging Your Own Insurance as a Long-Term Renter in Hanoi]({{ '/articles/insurance-for-long-term-renter-hanoi/' | relative_url }}) lists the questions to put to an insurer. Over a year, check that the policy's term matches the rental's and that its exclusions do not rule out motorbike riding at the licence class you hold.
+
+## A maintenance rhythm across twelve months
 
 The shop's maintenance may include an oil change, chain adjustment and tension, tyre-pressure checks and normal inspection. Over a year the renter's task is to make those visits happen on a rhythm instead of waiting for a problem. The list below is general guidance for building that rhythm, not a manufacturer's service schedule.
 
@@ -80,51 +125,6 @@ What a year-long renter adds to that advice is permanence. Buy the seasonal kit 
 
 Tet comes once a year and its date moves with the lunar calendar, so a year-long term will normally include one holiday period. Nguyen Tu's normal hours are 09:00–21:00 daily, but the arrangements for the holiday itself should be confirmed directly with the shop. Check three dates against the holiday: a renewal date, a maintenance visit and the end of the term. [Renting a Motorbike in Hanoi During Tet and Holidays]({{ '/articles/renting-motorbike-hanoi-tet-holidays/' | relative_url }}) explains how to confirm opening and return arrangements.
 
-## Terms to agree for twelve months
-
-A vague term matters more in a year-long agreement, because it runs twelve times as long as a monthly one. Ask the shop to confirm each of these in a message and keep the reply with your handover photos. The long-term agreement checklist is in [Long-Term Motorbike Rental Agreements in Hanoi]({{ '/articles/motorbike-rental-agreement-long-term-hanoi/' | relative_url }}).
-
-| Term | What to ask the shop to confirm |
-|---|---|
-| Price and payment | The price for the full year, the dates it covers and how it is split across payments |
-| Deposit | The amount, typically 2,000,000–5,000,000 VND depending on the vehicle and conditions, what it is held against and how and when it is returned |
-| Maintenance | Which maintenance is included and how visits are booked |
-| Consumables | Who pays for tyres and inner tubes, and who chooses the replacement |
-| Use | Commuting only or trips outside Hanoi, and who may ride the bike |
-| Early ending | What happens if plans change; there is no automatic refund entitlement for unused time |
-| Renewal and return | The end date and time, and how renewal works |
-
-Late returns are charged at 20,000 VND per hour, and more than six hours late may be charged as a full additional rental day, typically 150,000–200,000 VND depending on the motorcycle. Arrange a renewal before the end date instead of after it.
-
-## Licence and insurance for a resident
-
-### Licence
-
-Riding for a year is a different position from riding for a week. [How Foreigners Exchange a Licence for a Vietnamese One]({{ '/articles/foreign-licence-exchange-vietnam/' | relative_url }}) draws the line between a visitor's International Driving Permit and a resident's exchange of a national licence.
-
-Under Article 24 of Circular 12/2025/TT-BCA, a foreigner who lives, works or studies in Vietnam and holds a national driving licence that is still valid can be considered for an exchange into the corresponding Vietnamese licence class. The foreigner must also hold one of the residence papers the article lists, such as a temporary or permanent residence card, with a duration of three months or more. The exchange guide adds that an International Driving Permit cannot be exchanged, that a licence covering only cars does not convert into motorbike categories, and that applications go to the Traffic Police Department or a commune-level police point that accepts them.
-
-The practical points are separate from the law. Start gathering the dossier early, including the certified translation, the passport and a health certificate where one is required. Put every expiry date in one list, and work back from the date your current permission to ride ends.
-
-### Insurance
-
-Nguyen Tu does not provide motorbike insurance, so a twelve-month renter arranges their own. [Arranging Your Own Insurance as a Long-Term Renter in Hanoi]({{ '/articles/insurance-for-long-term-renter-hanoi/' | relative_url }}) lists the questions to put to an insurer. Over a year, check that the policy's term matches the rental's and that its exclusions do not rule out motorbike riding at the licence class you hold.
-
-## The resident's decision
-
-At a year, run the honest rent-versus-buy comparison: [Long-Term Renting vs Buying a Motorbike in Hanoi for Residents]({{ '/articles/long-term-renting-vs-buying-residents-hanoi/' | relative_url }}). Year-scale rental still wins for most expats on fixed contracts — known cost, maintenance on the shop's side, clean exit — but the comparison should be made with numbers, not folklore. The six-month article ([Renting a Motorbike for 6 Months or Longer in Hanoi]({{ '/articles/renting-motorbike-six-months-hanoi/' | relative_url }})) covers the adjacent case.
-
-### Questions that frame the comparison
-
-That is a general judgement, not a measurement, so test it against your own situation.
-
-- How long will you really stay? A firm end date favours renting; an open-ended stay is where owning gets a fair hearing.
-- What would a bike cost you? Take a current quote or listing rather than a rule of thumb, and set it against the year-long price once the shop has given you one in writing.
-- What could you sell it for, and how fast? Leaving on a fixed date means selling on a fixed date.
-- Who carries the risk of repairs, tyres and paperwork? Under a rental the risk is shared under the terms you agreed, and consumables may be yours; owning puts all of it on you.
-
-The cost sides are laid out in [Renting vs Buying a Motorbike in Hanoi: Cost and Convenience]({{ '/articles/renting-vs-buying-a-motorbike-hanoi/' | relative_url }}), and the buying side in [Buying Your First Scooter in Vietnam: A Practical Guide]({{ '/articles/buying-first-scooter-vietnam-guide/' | relative_url }}) and [Buying a Used Motorbike in Vietnam: Inspection Basics]({{ '/articles/used-motorbike-inspection-vietnam/' | relative_url }}). Decide a few months before the term ends, so that renewing, returning or buying is a plan rather than a default.
-
 ## Protecting a year-long relationship
 
 Document the handover state, keep the message thread, book maintenance visits instead of deferring them, and renew or return on time — a year of small good habits is what makes the final deposit return boring. The agreement terms that matter most at this scale are in [Long-Term Motorbike Rental Agreements in Hanoi]({{ '/articles/motorbike-rental-agreement-long-term-hanoi/' | relative_url }}).
@@ -143,9 +143,9 @@ The shop accepts cash, bank transfer and QR payment. How a year is split into pa
 
 There is no automatic refund entitlement for unused time, so the outcome is agreed with the shop case by case. A rolling month-to-month arrangement keeps the commitment small, and with a fixed term it is worth negotiating the early-exit terms before you sign.
 
-### Who pays for tyres over a year?
+### Can I change bikes during the year?
 
-Inner tubes and tyres may be the renter's responsibility depending on the situation, and over twelve months a tyre is a realistic expense. Ask who pays and who chooses the replacement before the first one wears, and keep the receipt for anything you pay for.
+Whether a swap is possible, and when, is a conversation with the shop, and the model you want needs its availability confirmed: contact us to confirm current availability. A renewal date is the natural moment to ask, and the terms for a different bike are worth settling in the same message.
 
 ### Can I ride the bike outside Hanoi?
 

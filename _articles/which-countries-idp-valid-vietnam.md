@@ -36,7 +36,7 @@ Two categories fail predictably. First, 1949 Geneva Convention IDPs — the form
 
 ## The second half of the rule
 
-Even a valid 1968 IDP is incomplete without its national licence. The rule requires both to be carried together, and an IDP holder who cannot produce the national licence faces the document-carriage fine — the checkpoint treats the permit as a translation whose original is missing.
+Even a valid 1968 IDP is incomplete without its national licence. The rule requires both to be carried together, and an IDP holder who cannot produce the national licence is not carrying a valid licence — the checkpoint treats the permit as a translation whose original is missing.
 
 ## The vehicle-class catch
 
