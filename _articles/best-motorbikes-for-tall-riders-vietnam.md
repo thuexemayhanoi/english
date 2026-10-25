@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23): overall dimensions and kerb weights of the Honda Wave Alpha 110, Wave RSX, Vision and Air Blade 125 and the Yamaha Sirius RC; seat heights and wheelbases for the two Wave models"
+  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23): overall dimensions and kerb weights of the Honda Wave Alpha 110, Wave RSX, Vision and Air Blade 125 and the Yamaha Sirius RC; seat heights and wheelbases for the two Wave models; seat heights of the Yamaha Gear 125 Hybrid, Honda CT125 and Honda SH160i"
 internal_link_targets: "best-scooters-to-rent-hanoi, automatic-vs-manual-motorbike-hanoi, rental-motorbike-inspection-checklist, best-motorbike-for-two-people-hanoi, how-to-book-a-motorbike-rental-hanoi, best-scooters-tall-riders-vietnam, best-underbones-tall-riders-verified, scooter-vs-semi-automatic-hanoi"
 ---
 
@@ -51,7 +51,7 @@ Honda Vietnam and Yamaha Vietnam publish seat height for some models, along with
 |---|---|---|---|
 | Honda Wave Alpha 110 | 770 mm | 1913 x 689 x 1076 mm | 96 kg |
 | Honda Wave RSX | 760 mm | 1922 x 709 x 1082 mm | 98 kg |
-| Yamaha Sirius RC 110 | not published | 1890 x 665 x 1035 mm | 100 kg (wet) |
+| Yamaha Sirius RC 110 | not listed on page checked | 1890 x 665 x 1035 mm | 100 kg (wet) |
 | Honda Vision | not recorded | 1925 x 686 x 1126 mm | 97 kg |
 | Honda Air Blade 125 | not recorded | 1884 x 687 x 1085 mm | 110 kg |
 | Honda Click, Yamaha Mio | not recorded | not recorded | not recorded |
@@ -66,7 +66,7 @@ The second lesson is that overall size and legroom are different things. Honda's
 
 The third is that wheelbases were recorded only for the two Wave models (1224 mm for the Alpha 110 and 1227 mm for the RSX), so the table cannot rank the six on that measure either.
 
-The tallest published seats belong to models outside the shop's published list: Honda lists the CT125 at 800 mm and the SH160i at 799 mm. The data guides [Best Scooters for Tall Riders in Vietnam]({{ '/articles/best-scooters-tall-riders-vietnam/' | relative_url }}) and [Best Underbones for Tall Riders]({{ '/articles/best-underbones-tall-riders-verified/' | relative_url }}) set those out with their seat heights. Whether the shop has any of them is a question for the shop.
+Among the seat heights checked, the tallest belong to models outside the shop's published list: Honda lists the CT125 at 800 mm and the SH160i at 799 mm. The data guides [Best Scooters for Tall Riders in Vietnam]({{ '/articles/best-scooters-tall-riders-vietnam/' | relative_url }}) and [Best Underbones for Tall Riders]({{ '/articles/best-underbones-tall-riders-verified/' | relative_url }}) set those out with their seat heights. Whether the shop has any of them is a question for the shop.
 
 ## The test that decides
 
@@ -105,7 +105,7 @@ The deposit is typically 2,000,000-5,000,000 VND depending on vehicle and condit
 
 Say so before you pay, and ask which other models the shop can offer for your dates. Apply the same checks to each suggestion. An answer of "nothing else" is possible, and it is better to learn it before paying than after.
 
-The data guides above show which models have the tallest published seats, and you can ask about them by name. Do not switch type for height alone, though: moving from an automatic to a semi-automatic changes how you ride, not only how you sit.
+The data guides above show which models have the tallest seats among those checked, and you can ask about them by name. Do not switch type for height alone, though: moving from an automatic to a semi-automatic changes how you ride, not only how you sit.
 
 If you will be in Hanoi for months and no rental bike fits, [renting versus buying a motorbike in Hanoi]({{ '/articles/renting-vs-buying-a-motorbike-hanoi/' | relative_url }}) weighs the choice. On a rental, ask the shop before changing anything on the bike.
 
