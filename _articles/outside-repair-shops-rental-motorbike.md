@@ -94,7 +94,7 @@ The reason is not bureaucracy: unauthorized work breaks the causal chain for eve
 
 - **Engine, gearbox or electrical work.** These jobs are hard to check afterwards, and a fault that appears later can be traced back to the work. A bike that has started to feel different belongs with the shop first.
 - **Parts the shop did not approve.** A part that fits is not necessarily the part the shop would choose. Ask what the shop wants fitted before the mechanic orders or fetches anything.
-- **Cosmetic work.** Paint, filler and replaced panels change how the bike looks at return, which is what a handover photo set records. The [inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) lists what to photograph at handover.
+- **Cosmetic work.** Paint, filler and replaced panels change how the bike looks, and a handover photo set records how it looked at the start. The [inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) lists what to photograph at handover.
 - **Modification.** Anything you cannot undo is a change to someone else's property. [The guide to rental modifications]({{ '/articles/rental-motorbike-modifications/' | relative_url }}) is written for monthly renters, and the same line applies to a short rental.
 
 ## Questions to put to the shop

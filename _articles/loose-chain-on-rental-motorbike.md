@@ -112,7 +112,7 @@ Report it. Chain adjustment and tension are among the maintenance items the shop
 
 ## On the road, far from the shop
 
-If the chain loosens mid-trip, call the shop first and let it decide what happens next; if it agrees to an outside adjustment, keep the receipt and tell the shop at return. Riding home slack because the adjustment is "the shop's job" is the wrong reading of whose job it is: the adjustment is the shop's, the next hundred kilometres on a derailing chain are yours.
+If the chain loosens mid-trip, call the shop first and let it decide what happens next; if it agrees to an outside adjustment, keep the receipt and tell the shop the same day as well as at return. Riding home slack because the adjustment is "the shop's job" is the wrong reading of whose job it is: the adjustment is the shop's, the next hundred kilometres on a derailing chain are yours.
 
 Support is primarily for Hanoi and local use, and the shop's published hours are 09:00-21:00 daily, so a chain problem late in the evening or a long way from the city may leave you waiting for an answer. Do not plan around a rescue; plan around stopping early and getting a message in. If you intend to leave the city at all, settle what the shop wants you to do about a chain problem before you go, and read [whether a rental motorbike can leave Hanoi]({{ '/articles/rental-motorbike-outside-hanoi/' | relative_url }}) first.
 
