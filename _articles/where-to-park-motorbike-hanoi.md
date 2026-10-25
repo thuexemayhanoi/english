@@ -65,7 +65,7 @@ Riding on the sidewalk is a different matter from parking on it, and it is the w
 - Article 18 does not itself say which sidewalks are open to bikes, so the answer for a street depends on the local rules and permissions that apply to it.
 - Hanoi runs a permission system: its People's Committee approved a list of streets eligible for temporary use of part of the roadway for vehicle parking (Decision 6440/QĐ-UBND, reported by VOV on 18 December 2024), and fewer streets were licensed than were listed. An attendant collecting money does not by itself prove that a spot is licensed.
 
-Riding along a sidewalk is a separate violation (Article 7(7)(a)). The decree's only exception is riding across the sidewalk to enter a house or an office; it does not mention reaching a parking spot.
+Riding along a sidewalk is a separate violation (Article 7(7)(a)).
 
 ### Five questions before you leave the bike at a kerb
 
@@ -87,11 +87,11 @@ In a packed row bikes touch handlebar to handlebar. Photographs taken at handove
 
 ## No-parking zones to respect absolutely
 
-Never park in front of government offices, embassies, hospitals' emergency entrances, bus stops, or on bridges and bridge approaches. These spots get enforcement attention, and if a rental bike is towed or ticketed it becomes your problem for the day: the fine process is described in [Motorbike Fines in Vietnam: Current Overview (Decree 168/2024)]({{ '/articles/motorbike-fines-vietnam-overview/' | relative_url }}), and [When Vietnamese Police Can Impound Your Motorbike]({{ '/articles/police-impound-motorbike-vietnam/' | relative_url }}) explains how a held bike is released. Treat this list as cautious advice: at any spot, the rule that applies is the one on the sign or marking beside it. The law's own list follows.
+Never park in front of government offices, embassies, hospitals' emergency entrances, bus stops, or on bridges and bridge approaches. These spots get enforcement attention, and if a rental bike is fined it becomes your problem for the day: the fine process is described in [Motorbike Fines in Vietnam: Current Overview (Decree 168/2024)]({{ '/articles/motorbike-fines-vietnam-overview/' | relative_url }}), and [When Vietnamese Police Can Impound Your Motorbike]({{ '/articles/police-impound-motorbike-vietnam/' | relative_url }}) explains how a held bike is released. Treat this list as cautious advice: at any spot, the rule that applies is the one on the sign or marking beside it. The law's own list follows.
 
 ### Where the road law bars stopping and parking
 
-Article 18(4) of Law 36/2024/QH15 lists the positions where a rider may not stop or park. These are the ones a motorbike rider in Hanoi is most likely to meet.
+Article 18(4) of Law 36/2024/QH15 lists the positions where a rider may not stop or park. These are some of the positions a motorbike rider in Hanoi may meet.
 
 | Position | Item in Article 18(4) |
 |---|---|
@@ -105,19 +105,17 @@ Article 18(4) of Law 36/2024/QH15 lists the positions where a rider may not stop
 
 The law names bridges (item (c)) and the space under flyovers (item (d)), not bridge approaches, so treat the approaches as cautious advice. The one-way rule matters in the Old Quarter, where [Riding the Old Quarter's One-Way Street Maze]({{ '/articles/old-quarter-one-way-streets-riding/' | relative_url }}) explains the layout.
 
-Decree 168/2024 attaches penalties to several of these for motorbikes: stopping or parking on the roadway so that it obstructs traffic, or parking or leaving a bike on the roadway or sidewalk unlawfully (Article 7(2)(d)); stopping or parking at a pick-up or drop-off point, a junction or a pedestrian crossing, stopping where a "no stopping and parking" sign stands, or parking at a "no parking" sign (Article 7(2)(e)); and stopping or parking on a bridge (Article 7(3)(c)). This guide gives no fine amounts.
+Decree 168/2024 attaches penalties to several of these for motorbikes: stopping or parking on the roadway so that it obstructs traffic, or parking or leaving a bike on the roadway or sidewalk unlawfully (Article 7(2)(d)); stopping or parking at a pick-up or drop-off point, a junction or a pedestrian crossing, stopping where a "no stopping and parking" sign stands, or parking at a "no parking" sign (Article 7(2)(e)); and stopping or parking on a bridge (Article 7(3)(c)). This guide gives no fine amounts: Decree 238/2026/NĐ-CP, in force from 15 August 2026, amends Decree 168/2024/NĐ-CP and its amended text was not read, so the Decree 168 items cited here are as issued; check them against the current text.
 
 ### Towing and holding
 
-Holding a vehicle is separate from fining it. Article 48(1)(b) of Decree 168/2024 lists the Article 7 items for which a motorbike can be held at once, before any penalty decision, and none of the parking items above is on it. The article is wider, though: it also allows holding where that is truly necessary to stop a violation that would otherwise cause serious harm to society (Article 48(1)(o)), and lets the sanctioning authority hold a vehicle to ensure a penalty decision is carried out or to verify the facts behind it (Article 48(2)). So this guide cannot say whether a wrongly parked bike is only ticketed or is also moved and held.
+Holding a vehicle is separate from fining it; the impound guide linked above covers when police may do it. This guide cannot say whether a wrongly parked bike is also moved and held.
 
 Article 48 does say who pays for moving a held vehicle. If the driver or owner is absent or does not comply, the authority moves it to the holding place, may hire someone if it cannot do so itself, and the driver or owner pays that hire. If an officer tells you to move the bike, do it; [Stopped by Traffic Police in Vietnam: What to Do]({{ '/articles/stopped-by-traffic-police-vietnam/' | relative_url }}) covers the stop itself.
 
 ### Friday to Sunday evenings near Hoan Kiem
 
-Parking near the lake has a time limit on top of the usual rules. The Viet Nam Government Portal reports that all road vehicles, motorcycles and mopeds included, are barred from entering Zone 1 from 7:00 p.m. to midnight every Friday, Saturday and Sunday, and defines Zone 1 as a list of named streets, among them Trang Tien, Hang Khay, Hang Dao, Hang Bac and Ngo Quyen. VietnamPlus places the rule in a first phase from 1 July to 31 December.
-
-Check the current official notice for the streets, hours and dates before you plan an evening there, and choose a lot outside the named streets. [Renting a Motorbike in Hoan Kiem: What to Know]({{ '/articles/renting-motorbike-hoan-kiem/' | relative_url }}) plans the evening around the restriction.
+Near Hoan Kiem, a 2026 pilot bars road vehicles, motorcycles included, from the named Zone 1 streets from 19:00 to 24:00 on each Friday, Saturday and Sunday; park outside them.
 
 ## Overnight parking
 
@@ -127,14 +125,7 @@ For a hotel stay, [Choosing a Hotel With Motorbike Parking in Hanoi]({{ '/articl
 
 ### Parking at home for a monthly rental
 
-On a rental of weeks or months, the overnight spot becomes a daily routine, and it is a question for your building or landlord before the bike arrives. Ask:
-
-- Where does a motorbike park overnight, and is there a space for yours?
-- Is the space watched or on camera, and what are the access hours if you ride home late?
-- Is there a fee, and does the building need a card, a sticker or the bike's details on record?
-- Who is responsible if the bike is damaged in the building's parking area?
-
-Then read what your rental agreement says about where the bike is kept, and tell the shop where it will sleep. [Apartment Living With a Motorbike in Hanoi]({{ '/articles/apartment-living-motorbike-hanoi/' | relative_url }}) describes the building types you may meet, and [Daily Parking as a Monthly Renter in Hanoi]({{ '/articles/parking-monthly-renter-hanoi/' | relative_url }}) covers the day-to-day side.
+On a rental of weeks or months, the overnight spot becomes a daily routine, so ask your building or landlord before the bike arrives where it can park, whether the space is watched, and what it costs. Then read what your rental agreement says about where the bike is kept, and tell the shop where it will sleep; [Apartment Living With a Motorbike in Hanoi]({{ '/articles/apartment-living-motorbike-hanoi/' | relative_url }}) describes the building types you may meet, and [Daily Parking as a Monthly Renter in Hanoi]({{ '/articles/parking-monthly-renter-hanoi/' | relative_url }}) covers the day-to-day side.
 
 ## Before you walk away
 
@@ -146,8 +137,7 @@ Do not assume theft straight away. Work through these in order.
 
 1. Check that you are at the right place: the same side of the street, the same lot entrance, the scene in your photograph.
 2. Look along the row and the next street, then ask the attendant or nearby shop staff whether bikes were moved, and show the ticket and photographs.
-3. If the police or officials took the bike, ask where it is kept and what to bring to collect it. Release usually runs through the owner, with papers and proof that any fine is settled.
-4. If it is gone, call the shop, report it to the police and ask for the written report (biên bản). [Common Motorbike Rental Problems in Hanoi and How to Avoid Them]({{ '/articles/common-motorbike-rental-problems-hanoi/' | relative_url }}) shows where a theft sits among the other rental problems.
+3. If the police or officials took the bike, ask where it is kept and what to bring to collect it.4. If it is gone, call the shop, report it to the police and ask for the written report (biên bản). [Common Motorbike Rental Problems in Hanoi and How to Avoid Them]({{ '/articles/common-motorbike-rental-problems-hanoi/' | relative_url }}) shows where a theft sits among the other rental problems.
 
 Nguyen Tu's published opening hours are 09:00-21:00 daily, and the number for WhatsApp and Zalo is +84 942 467 674. Message the shop in writing with your photographs as soon as you know, so there is a dated record, and do the police report without waiting for a reply.
 
@@ -159,12 +149,8 @@ Not as a blanket rule: which pavements are lawful for bikes depends on local rul
 
 ### How much does it cost to park a motorbike in Hanoi?
 
-This page quotes no price, because prices differ by lot and change. Attended lots charge a fee, so ask what it is before you leave the bike if no price is displayed.
+Attended lots charge a fee. If no price is shown, ask before leaving the bike.
 
 ### Does the parking ticket cover me if the bike is stolen?
 
-The ticket shows where you left the bike and lets you collect it. What a lot owes if a bike goes missing depends on the operator. On a rental, the loss falls mainly on the renter and depends on the contract, and Nguyen Tu does not provide motorbike insurance, so any cover for theft is something you arrange yourself.
-
-### Can I ride up to Hoan Kiem Lake on a Saturday evening?
-
-Not into Zone 1 while the restriction applies: it bars motorbikes from the named streets between 19:00 and 24:00 on each Friday, Saturday and Sunday. Check the current notice and park outside the named streets.
+The ticket shows where you left the bike and lets you collect it. What a lot owes if a bike goes missing depends on the operator. Who bears a theft loss depends on the rental contract, as the [theft and loss responsibility guide]({{ '/articles/theft-loss-responsibility-rental-motorbike-hanoi/' | relative_url }}) explains, and Nguyen Tu does not provide motorbike insurance, so any cover for theft is something you arrange yourself.
