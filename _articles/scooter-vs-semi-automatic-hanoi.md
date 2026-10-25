@@ -14,7 +14,7 @@ search_intent: commercial
 topic_cluster: rental
 subcluster: "1.2 choosing-bike"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23) — transmission, engine size, engine type (cylinders and cooling), weight, overall width, brakes, tyre sizes, fuel tank, claimed fuel consumption, power and torque of the Honda Wave Alpha 110 and Yamaha Sirius RC 110, plus the seat height of the Wave Alpha 110; transmission and front wheel size of the Honda Vision; transmission, engine size, weight, overall width and under-seat storage of the Honda Air Blade 125, and the engine size of the Air Blade 160"

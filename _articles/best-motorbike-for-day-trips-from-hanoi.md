@@ -14,7 +14,7 @@ search_intent: commercial
 topic_cluster: rental
 subcluster: "1.2 choosing-bike"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "docs/MODEL-DATABASE.md — verified Honda VN and Yamaha VN model rows (Wave Alpha 110, Sirius RC 110, Vision, Air Blade 125): engine size, tank, claimed fuel consumption, gearbox and under-seat storage, retrieved 2026-09-23"

@@ -14,7 +14,7 @@ search_intent: commercial
 topic_cluster: rental
 subcluster: "1.2 choosing-bike"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23): kerb and wet weights of the Honda Vision, Air Blade 125, Air Blade 160, Wave Alpha 110 and Yamaha Sirius RC 110; the under-seat storage of the Honda Air Blade 125 and Lead 125; the seat height, tank size and claimed fuel consumption of the Wave Alpha 110 and Sirius RC 110; the brakes of those two"
