@@ -70,11 +70,11 @@ Put the answers where you can find them again. If you booked by message, the thr
 - Slow down gradually and avoid hard braking, because a soft tyre changes how the bike steers and stops. Pull in at the kerb or a side street, switch off, and keep the key on you; a lost key is a separate problem, set out in [what happens if you lose the key to a rental motorbike]({{ '/articles/lost-key-rental-motorbike-hanoi/' | relative_url }}).
 - Call or message the shop. Say where you are, what the tyre looks like and whether you can see the cause, and ask what the shop wants you to do. The general order for any breakdown is in [what happens if a rental motorbike breaks down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}).
 - Repair at a roadside tyre shop (vá xe in Vietnamese) only after you have asked. [Can you use outside repair shops on a rental motorbike?]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) explains why a call first keeps the story simple. Ask the tyre shop for the price before the work starts, watch the repair if you can, and ask for a receipt or note the shop, the price and the time on your phone.
-- Keep the receipt, photograph the cause if you can (the nail in the tube is a good photo), and tell the shop what happened - especially on longer rentals where the shop tracks its bikes' condition. Whether the shop keeps a record of each bike's condition is a question for the shop.
+- Keep the receipt, photograph the cause if you can (the nail in the tube is a good photo), and tell the shop what happened - especially on longer rentals where the shop tracks its bikes' condition, if it does; whether it keeps such a record is a question for the shop.
 
 ### When the flat comes late or far from the shop
 
-The shop's published hours are 09:00-21:00, and its support is primarily for Hanoi and local use. This guide cannot promise round-the-clock rescue or a response time, so a puncture late in the evening or far from the city is yours to make safe first. Get the bike off the road, send the message so it is waiting when the shop opens, and ask what the shop can do and how soon.
+The shop's published hours are 09:00-21:00, and its support is primarily for Hanoi and local use. Do not assume round-the-clock rescue or a set response time: a puncture late in the evening or far from the city is yours to make safe first. Get the bike off the road, send the message so it is waiting when the shop opens, and ask what the shop can do and how soon.
 
 ### An illustrative evening
 
@@ -84,17 +84,17 @@ Imagine a renter who feels the rear tyre going soft at an evening traffic light.
 
 This guide gives no repair price: the shop publishes none, and what a roadside tyre shop asks depends on the place and the work done. Ask for the price before the work starts, and ask which of three jobs is being quoted:
 
-- Patching the tube: no new part, and the tube stays.
+- Patching the tube: nothing is replaced.
 - A new inner tube: the tube is replaced and the tyre stays.
-- A new tyre: the most parts, and the answer to damage to the tyre itself, such as a cut sidewall.
+- A new tyre: the tyre is replaced, and it is the answer to damage to the tyre itself, such as a cut sidewall.
 
-That order is by parts replaced, not by a price list. [Flat tyre repair on a motorbike in Vietnam]({{ '/articles/flat-tyre-repair-motorbike-vietnam/' | relative_url }}) explains when a patch is not enough and a new tube or tyre is the answer.
+The three are listed by what is replaced, not by a price list. [Flat tyre repair on a motorbike in Vietnam]({{ '/articles/flat-tyre-repair-motorbike-vietnam/' | relative_url }}) explains when a patch is not enough and a new tube or tyre is the answer.
 
 Which job is quoted matters for the conversation with your rental shop too. The consumables wording names inner tubes and tyres, and a patch at a roadside stand is not the same expense as a new tyre, so it is reasonable to ask whether the answer to who pays changes between them. A cost still unsettled at return becomes a deposit question: [how deposit returns work at Hanoi motorbike rentals]({{ '/articles/how-deposit-returns-work-hanoi/' | relative_url }}) describes the general process, and what may be taken from a deposit is best asked before you ride.
 
 ## Tubed or tubeless: read it from the maker's page, then ask
 
-The consumables wording says inner tubes and tyres, and which of the two a puncture touches depends on whether the bike runs tubed or tubeless tyres. Some manufacturers state it in their specification tables, and the tables differ from model to model:
+The consumables wording says inner tubes and tyres, and which of the two a puncture touches depends on whether the bike runs tubed or tubeless tyres. Yamaha's pages state it for two of the models below, while Honda's page lists sizes only, so the answer differs by maker and by model:
 
 | Model (maker's page) | Tyre sizes listed | Tube or tubeless |
 |---|---|---|
