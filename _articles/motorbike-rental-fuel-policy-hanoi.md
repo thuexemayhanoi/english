@@ -29,7 +29,7 @@ The fuel question in a rental comes down to how much is in the tank at each end.
 
 ## Conventions you may be offered
 
-One convention you may be offered is to hand over the bike with a small, noted amount of fuel and expect it back at a similar level. Note the level at handover - it goes on the contract or into your handover photos.
+One convention you may be offered is to hand over the bike with a small, noted amount of fuel and expect it back at a similar level. Note the level at handover - it goes on the contract or into your handover photos, so ask whether the shop uses a written contract and, if not, rely on the photos.
 
 The idea behind it is that you return it where you found it and nothing is owed, and that the reverse applies too - nobody itemises the half-litre you left in there. The convention exists to keep both sides honest with the minimum of arithmetic, but whether a particular shop ignores or charges a small difference is a question to ask, not something to assume. Some shops hand over a full tank and expect a full tank back; agree which convention applies before you ride.
 
@@ -85,7 +85,7 @@ Claimed tank and consumption figures give about 215 km for the Honda Wave Alpha 
 
 ## Where to get petrol
 
-Petrol stations are dense in Hanoi; on a rental you will pass several a day, a rough expectation rather than a counted figure, and [using petrol stations in Hanoi]({{ '/articles/hanoi-petrol-stations-guide-riders/' | relative_url }}) covers how a fill works at the station.
+Petrol stations are dense in Hanoi; on a rental you will pass several a day - a general impression, not a counted figure - and [using petrol stations in Hanoi]({{ '/articles/hanoi-petrol-stations-guide-riders/' | relative_url }}) covers how a fill works at the station.
 
 ## The fuel type
 
