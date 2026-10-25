@@ -19,7 +19,7 @@ sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "docs/MODEL-DATABASE.md — verified Honda VN and Yamaha VN model rows (Wave Alpha 110, Wave RSX, Sirius RC 110, Vision, Air Blade 125 and 160), retrieved 2026-09-23"
   - "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf — Honda Vietnam owner's manual for the Wave Alpha (Vietnamese-language PDF) — pre-ride chain check, slack check method, 25 to 35 mm slack, no riding beyond 50 mm slack (retrieved 2026-10-25)"
-  - "https://cdn.honda.com.vn/motorbike-manual/September2025/peIzXHI6aC1AOK5JAZ0S.pdf — Honda Vietnam owner's manual, document code 32K57A100 (Vietnamese-language PDF) — 30 to 40 mm slack, 50 mm riding limit, adjustment needs special tools, axle alignment and rear brake free play after adjustment, worn-chain test (retrieved 2026-10-25)"
+  - "https://cdn.honda.com.vn/motorbike-manual/September2025/peIzXHI6aC1AOK5JAZ0S.pdf — Honda Vietnam owner's manual for the AFS110MS, AFS110MD and AFS110MCS models, document code 32K57A100, 2016 edition (Vietnamese-language PDF; the manual names the models by code only) — 30 to 40 mm slack, 50 mm riding limit, adjustment needs special tools, axle alignment and rear brake free play after adjustment, worn-chain test (retrieved 2026-10-25)"
 internal_link_targets: "rental-motorbike-feels-wrong, rental-motorbike-breakdown-hanoi, what-is-included-motorbike-rental-hanoi, rental-motorbike-inspection-checklist, high-mileage-rental-motorbike-inspection, outside-repair-shops-rental-motorbike, common-motorbike-rental-problems-hanoi, chain-maintenance-motorbike-vietnam"
 ---
 
@@ -38,13 +38,13 @@ Honda's Vietnam owner's manual for the Wave Alpha lists the chain among the chec
 
 ### At handover: the up-and-down test
 
-Check at handover: with the bike on its stand, lift the chain's mid-run and compare the up-down play with the figure for that model; ask the shop what it is. Much more is loose; drum-tight is over-tensioned and just as bad. [The rental motorbike inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) covers the rest of the walk-around; for the chain, the point is to know the right play before you ride away, so that a change later is something you can describe.
+Check at handover: with the engine off and the bike on its stand, lift the chain's mid-run and compare the up-down play with the figure for that model; ask the shop what that amount of play should be. Much more is loose; drum-tight is over-tensioned and just as bad. [The rental motorbike inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) covers the rest of the walk-around; for the chain, the point is to know the right play before you ride away, so that a change later is something you can describe.
 
 ### Why the number depends on the bike
 
-Chain slack is model-specific, and it differs even between Honda's own manuals. Honda's Vietnam owner's manual for the Wave Alpha gives a slack of 25 to 35 mm; another Honda Vietnam owner's manual (document 32K57A100) gives 30 to 40 mm. Both say not to ride when the slack exceeds 50 mm. Treat these as Honda's figures for Honda's bikes: a Wave of another year or variant, a Yamaha Sirius or any other chain-driven bike may differ, so the number to compare against is the one the shop gives for the bike in your hands.
+Chain slack is model-specific, and it differs even between Honda's own manuals. Honda's Vietnam owner's manual for the Wave Alpha gives a slack of 25 to 35 mm; its Vietnam manual for the AFS110MS, AFS110MD and AFS110MCS models (document 32K57A100, 2016 edition, which names those models by code only) gives 30 to 40 mm. Both say not to ride when the slack exceeds 50 mm. Treat these as Honda's figures for Honda's bikes: a Wave of another year or variant, a Yamaha Sirius or any other chain-driven bike may differ, so the number to compare against is the one the shop gives for the bike in your hands.
 
-The manual's own method is worth knowing, even if you leave the work to the shop. With the gearbox in neutral and the engine off, the bike goes on its centre stand on firm, level ground; you move the chain up and down with a finger, check at several points along it and turn the rear wheel to see that the chain runs smoothly. If the slack is not the same at every point, the manual says some links may be twisted and stuck together, and it tells the owner to take the bike to an authorised Honda store for inspection.
+The Wave Alpha manual's own method is worth knowing, even if you leave the work to the shop. With the gearbox in neutral and the engine off, the bike goes on its centre stand on firm, level ground; you move the chain up and down with a finger, check at several points along it and turn the rear wheel to see that the chain runs smoothly. If the slack is not the same at every point, the manual says some links may be twisted and stuck together, and it tells the owner to take the bike to an authorised Honda store for inspection.
 
 ### Loose, dry, tight or worn: telling them apart
 
@@ -60,7 +60,7 @@ The manual's own method is worth knowing, even if you leave the work to the shop
 
 A slack chain slaps the swingarm, jumps sprocket teeth under load (which locks the back wheel momentarily - genuinely dangerous), wears the sprockets fast, and can derail entirely. A derail at speed is one of the few mechanical failures that throws a rider. A message to the shop is the cheap part; the risk of ignoring it is the expensive one.
 
-A loose chain does not tighten itself, and riding on it adds wear to the chain and the sprockets. Once the chain has come off, the problem is no longer an adjustment but a breakdown, and [what happens if a rental motorbike breaks down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) covers that call.
+Once the chain has come off, the problem is no longer an adjustment but a breakdown, and [what happens if a rental motorbike breaks down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) covers that call.
 
 ## When to stop riding
 
@@ -81,7 +81,7 @@ If the chain clunks on the throttle or slaps over bumps but stays in place and t
 
 ## What to do on a rental
 
-Report it. Chain adjustment and tension are among the maintenance items the shop may include on a Nguyen Tu rental - call and describe what you hear and feel before you do anything else. Do not ignore it for days of riding; do not pay a third-party workshop to adjust the shop's chain without asking ([the outside-repair article]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) covers when third-party work makes sense - adjustments are not it). If the shop itself tells you on the phone to have it done somewhere near you, that instruction changes the answer: keep the receipt and say so at return.
+Report it. Chain adjustment and tension are among the maintenance items the shop may include on a Nguyen Tu rental - call and describe what you hear and feel before you do anything else. Do not ignore it for days of riding; do not pay a third-party workshop to adjust the shop's chain without asking ([the outside-repair article]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) covers when third-party work makes sense; it lists a basic chain adjustment as acceptable only after a call to the shop).
 
 ### At the roadside
 
@@ -107,8 +107,8 @@ Report it. Chain adjustment and tension are among the maintenance items the shop
 ### What not to do
 
 - Do not keep riding at speed, or with a passenger or luggage, while the chain clunks.
-- Do not tension it yourself. The manual with document code 32K57A100 says chain adjustment needs special tools, and its full procedure has you loosen the rear axle nut and the lock nuts, set the adjusters on both sides, check the axle alignment against the marks on the swingarm, tighten up and recheck the slack, and finally recheck the rear brake pedal free play, which moving the wheel affects.
-- Do not treat lubricant as the fix. Cleaning and lubricating are separate steps in Honda's chain routine; oil on a chain does not take up slack.
+- Do not tension it yourself. Honda's manual for the AFS110MS, AFS110MD and AFS110MCS models (document 32K57A100) says chain adjustment needs special tools, and its full procedure has you loosen the rear axle nut and the lock nuts, set the adjusters on both sides, check the axle alignment against the marks on the swingarm, tighten up and recheck the slack, and finally recheck the rear brake pedal free play, which moving the wheel affects.
+- Do not treat lubricant as the fix. In Honda's chain inspection, cleaning and lubricating is a step of its own, separate from adjusting the slack; oil on a chain does not take up slack.
 
 ## On the road, far from the shop
 
@@ -119,12 +119,12 @@ Support is primarily for Hanoi and local use, and the shop's published hours are
 ## Which rental bikes have a chain to check
 
 - **Semi-automatic underbones.** Honda lists a mechanical four-speed gearbox for the Wave Alpha 110 and the Wave RSX, and Yamaha lists a four-speed rotary gearbox with a centrifugal clutch for the Sirius RC 110. This is the class the chain advice above is written for, and the Wave Alpha manual has a drive chain section of its own.
-- **Automatic scooters.** Honda lists an automatic (CVT) transmission for the Vision and the Air Blade, and the Click and Mio are also automatic scooters. The chain check is aimed at semi-automatic and manual bikes, as [the rental motorbike inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) puts it; on an automatic, report a clunk, a jerk or a new noise as something that feels wrong and describe it.
+- **Automatic scooters.** Honda lists an automatic (CVT) transmission for the Vision and the Air Blade, and the Click and Mio are also automatic scooters. The chain check is aimed at semi-automatic and manual bikes, as the rental motorbike inspection checklist puts it; on an automatic, report a clunk, a jerk or a new noise as something that feels wrong and describe it.
 - **Which one you get.** That depends on what is available, so contact the shop to confirm current availability; [the guide to choosing between automatic, semi-automatic and manual bikes]({{ '/articles/automatic-vs-manual-motorbike-hanoi/' | relative_url }}) compares them.
 
 ## When adjustment is not enough
 
-Adjusting takes slack out of a chain that is still serviceable; it cannot rescue one that has worn out. The Honda Vietnam manual with document code 32K57A100 gives the test: if the chain is still too slack when the rear axle has been moved to the end of its adjustment range, the chain is worn and must be replaced, and the manual advises having an authorised Honda store do the replacement. Rain, dust and grit are hard on a chain, and a day in Hanoi traffic can bring all three, which is another reason to report a noise early rather than wait for it to become a replacement.
+Adjusting takes slack out of a chain that is still serviceable; it cannot rescue one that has worn out. Honda's manual for the AFS110MS, AFS110MD and AFS110MCS models (document 32K57A100) gives the test: if the chain is still too slack when the rear axle has been moved to the end of its adjustment range, the chain is worn and must be replaced, and the manual advises having an authorised Honda store do the replacement. Rain, dust and grit are hard on a chain, and a day in Hanoi traffic can bring all three, which is another reason to report a noise early rather than wait for it to become a replacement.
 
 On a rental, a chain that needs replacing is a different conversation from a quick adjustment. Who pays for a replacement chain is not something this guide can answer, so ask before work starts, and read [what a motorbike rental in Hanoi includes]({{ '/articles/what-is-included-motorbike-rental-hanoi/' | relative_url }}) and [the rental agreement guide]({{ '/articles/motorbike-rental-agreement-hanoi/' | relative_url }}) so you know what the paperwork says.
 
@@ -134,11 +134,11 @@ On a longer rental the chain has more kilometres to wear, and [the high-mileage 
 
 ### How loose is too loose on a rental motorbike?
 
-There is no single figure. Honda's Vietnam manual for the Wave Alpha gives 25 to 35 mm and another gives 30 to 40 mm, and both say not to ride beyond 50 mm. For the bike you are on, ask the shop what the right play is, and tell it at once if the chain clunks or sags.
+There is no single figure. Honda's Vietnam manual for the Wave Alpha gives 25 to 35 mm and its manual for the AFS110MS, AFS110MD and AFS110MCS models gives 30 to 40 mm, and both say not to ride beyond 50 mm. For the bike you are on, ask the shop what the right play is, and tell it at once if the chain clunks or sags.
 
 ### Can I tighten the chain myself?
 
-No. Honda's manual says the adjustment needs special tools, and on a rental the chain belongs to the shop, so call first.
+No. Honda's manual for the AFS110MS, AFS110MD and AFS110MCS models says the adjustment needs special tools, and on a rental the chain belongs to the shop, so call first.
 
 ### Will the shop adjust it, and does that cost anything?
 
@@ -154,4 +154,4 @@ Not if anything on the stop-now list applies. If the chain only clunks and slaps
 
 ## One habit that covers every symptom
 
-The broader habit: when something on the bike feels wrong, report it early - the next article generalises this one. [What to do if your rental motorbike does not feel normal]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}) covers noises, brakes and wobbles in one triage, and [the common rental problems guide]({{ '/articles/common-motorbike-rental-problems-hanoi/' | relative_url }}) puts a loose chain next to the other things renters run into, including [a punctured tyre]({{ '/articles/punctured-tyre-on-rental-motorbike/' | relative_url }}), another problem where calling the shop first is the starting point.
+The broader habit: when something on the bike feels wrong, report it early - the next article generalises this one. What to do if your rental motorbike does not feel normal covers noises, brakes and wobbles in one triage, and [the common rental problems guide]({{ '/articles/common-motorbike-rental-problems-hanoi/' | relative_url }}) puts a loose chain next to the other things renters run into, including [a punctured tyre]({{ '/articles/punctured-tyre-on-rental-motorbike/' | relative_url }}), another problem where calling the shop first is the starting point.

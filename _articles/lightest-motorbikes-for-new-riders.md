@@ -1,7 +1,7 @@
 ---
 title: "Lightest Motorbikes for New Foreign Riders"
 slug: lightest-motorbikes-for-new-riders
-description: "Weight is what makes a new rider drop a bike at a stop. The lightest legal rental options - e-bikes and small scooters - and why the last few kilos matter most."
+description: "The lightest Hanoi rental motorbikes for a new rider: published weights for the Wave, Vision, Sirius and Air Blade, e-bikes, and what a few kilos change."
 category: rental
 tags:
   - "lightweight"
@@ -18,14 +18,13 @@ last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://www.honda.com.vn/xe-may/san-pham/vision — Honda Vietnam: Vision detail page — kerb weight 97 kg (retrieved 2026-10-25)"
-  - "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110 — Honda Vietnam: Wave Alpha 110 detail page — kerb weight 96 kg and the two versions the page lists (retrieved 2026-10-25)"
+  - "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110 — Honda Vietnam: Wave Alpha 110 detail page — kerb weight 96 kg (retrieved 2026-10-25)"
   - "https://www.honda.com.vn/xe-may/san-pham/air-blade-160125?version=111 — Honda Vietnam: Air Blade 160/125 detail page, the 125 cc version shown — kerb weight 110 kg (retrieved 2026-10-25)"
-  - "https://yamaha-motor.com.vn/xe/sirius-fi-phien-ban-phanh-co-mau-moi-2025-bsaf — Yamaha Motor Vietnam: Sirius FI drum-brake version detail page — wet weight 98 kg, stated as with a full tank of fuel and engine oil (retrieved 2026-10-25)"
   - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23) — wet weight of the Yamaha Sirius RC 110, kerb weights of the Honda Wave RSX, Air Blade 125 and Air Blade 160, and the weight of the Yamaha Gear 125 Hybrid"
 internal_link_targets: "easiest-motorbikes-for-beginners-hanoi, best-motorbike-for-hanoi-traffic, automatic-vs-manual-motorbike-hanoi, electric-bike-licence-vietnam, first-time-renting-a-motorbike-hanoi, scooter-kerb-weights-vietnam-verified, yamaha-latte-125-review, best-motorbikes-for-tall-riders-vietnam, scooter-vs-semi-automatic-hanoi, best-lightweight-scooters-beginners-vietnam, best-motorbike-for-commuting-hanoi"
 ---
 
-A common first-week mishap is a bike that tips over at a stop. Weight is the variable that decides that moment, once the rider can reach the ground.
+Many first-time riders worry about a bike tipping over at a stop. Weight is the variable that decides that moment, together with whether both feet reach the ground.
 
 Short answer: the lightest motorbikes for beginners among the rental models with published figures are the Honda Wave Alpha 110 (96 kg) and the Honda Vision (97 kg), with the Yamaha Sirius RC 110 at 100 kg wet and the Honda Air Blade 125 at 110 kg. A few kilograms are not decisive, so use the figures to shortlist and a hands-on check to choose.
 
@@ -35,15 +34,15 @@ At a red light on a slope, with a bus behind you, the bike's mass goes through y
 
 ## The light end of the rental list
 
-- [Licence-free e-bikes]({{ '/articles/can-foreigners-rent-electric-bike-vietnam/' | relative_url }}): the lightest class on the list, bicycle-like controls, published at 200,000 VND per day. No licence needed (the rider must be 16+). For a rider with no motorcycle licence, this is both the light option and the legal one.
+- [Licence-free e-bikes]({{ '/articles/can-foreigners-rent-electric-bike-vietnam/' | relative_url }}): the lightest class on the list, bicycle-like controls, published at 200,000 VND per day. No licence needed (the rider must be 16+). For a rider with no motorcycle licence, this is the legal option; whether it is also the light one is a weight question for the shop.
 - Small automatic scooters: the Honda Click and Yamaha Mio class (150,000 VND/day) and Honda Vision (200,000 VND/day) are the light mainstream motorbikes, with low centres of gravity; Honda publishes 97 kg for the Vision, and no manufacturer weight for the Click or Mio is used in this guide.
 - Semi-automatic underbones: the Wave and Sirius class (150,000 VND/day) are light too, and narrow, at the cost of the foot-shift.
 
-Read "the lightest class" and "the light option" above as general descriptions, not measured figures: no e-bike weight is quoted in this guide, so weight is a question for the shop. What the law calls a pedal-type electric bicycle and a scooter-style electric moped are different machines, and only the first has bicycle-like controls, so ask which kind you would be given and for its rated power. Above 4 kW a licence is required, as the [e-bike rental guide]({{ '/articles/can-foreigners-rent-electric-bike-vietnam/' | relative_url }}) explains.
+What the law calls a pedal-type electric bicycle and a scooter-style electric moped are different machines, and only the first has bicycle-like controls, so ask which kind you would be given and for its rated power. Above 4 kW a licence is required, as the [e-bike rental guide]({{ '/articles/can-foreigners-rent-electric-bike-vietnam/' | relative_url }}) explains.
 
 ## The published weights, side by side
 
-Honda Vietnam and Yamaha Motor Vietnam publish a weight for four of the six models with a published day rate. The table runs from the lowest number to the highest and says what each figure is.
+Honda Vietnam and Yamaha Motor Vietnam publish a weight for four of the six petrol models. The table runs from the lowest number to the highest and says what each figure is.
 
 | Model (version the figure belongs to) | Weight | Basis | Published day rate |
 |---|---|---|---|
@@ -53,7 +52,7 @@ Honda Vietnam and Yamaha Motor Vietnam publish a weight for four of the six mode
 | Honda Air Blade (125 version) | 110 kg | Kerb weight | 200,000 VND |
 | Honda Click and Yamaha Mio | No figure used | Not applicable | 150,000 VND each |
 
-Yamaha states a wet weight and Honda a kerb weight, so the first three rows are better read as one group than as a ladder: 96, 97 and 100 kg are within 4 kg of each other, on two different bases. The Air Blade 125 sits 13 kg above the Vision, the one gap in the table big enough to be worth testing by hand. No manufacturer weight for the Click or the Mio is used here, so they are neither ruled in nor out by name.
+Yamaha states a wet weight and Honda a kerb weight, so the first three rows are better read as one group than as a ladder: 96, 97 and 100 kg are within 4 kg of each other, on two different bases. No manufacturer weight for the Click or the Mio is used here.
 
 Scooters outside the shop's published list exist. The Yamaha Gear 125 Hybrid, for one, is recorded at 96 kg, and [the lightest scooters guide]({{ '/articles/best-lightweight-scooters-beginners-vietnam/' | relative_url }}) ranks the wider market by published weight. Whether the shop has any bike outside its published list is a question for the shop.
 
@@ -63,37 +62,27 @@ Start with what the figures can settle. The Wave Alpha 110 and the Vision are 1 
 
 Then what they cannot settle. Thirteen kilograms is a difference a smaller or lighter rider can expect to notice when steadying a bike or pushing it out of a row, while a heavier or taller rider may not feel it at all. The same bike feels different in different hands, which is why a weight figure is a starting point and not a verdict.
 
-Light also has a cost. A lighter bike is easier to hold at low speed, and the usual trade-off is that it can feel less settled at speed or on broken surfaces. In slow city traffic the low-speed side of that trade is the one a new rider meets first, but it is worth knowing it exists.
+Light also has a cost. A lighter bike is easier to hold at low speed, and it can feel less settled at speed or on broken surfaces. In slow city traffic the low-speed benefit matters first, but it is worth knowing the other side exists.
 
 ## What weight changes for a new rider
 
-### Holding the bike at a stop
-
 Stopping is where a new rider first holds the whole bike. On a slope gravity adds to the load, and on a slippery road marking a foot can slide. A lighter bike gives more room for a late stop, a foot that lands badly or a moment of panic. It does not replace stopping early and smoothly, and a rider who is already leaning with the bike will have less to catch.
 
-### Pushing, paddling and parking rows
-
-Walking a bike backwards out of a row, turning it on the spot at full lock and paddling it through a jam all put the whole weight on the rider at walking pace. On a light bike those are small movements. On a heavier one they become an effort that tempts a rider to hurry, and a hurried rider leaves the bike at an awkward angle in the row. [The parking guide]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}) covers where a bike can be left and what not to block.
-
-### When the bike goes over
-
-A tip-over at a standstill is the plainest case of weight: you either hold the bike or you do not. If it is already past the point of recovery, letting it go is safer for the rider than trying to hold it. A fallen bike can be lifted, with the legs doing the work, and an ankle or a knee is harder to repair.
-
-The rental side is a question, not a promise. Ask at handover how existing marks are recorded and what happens if the bike is dropped, because no policy is published here.
+Ask at handover how existing marks are recorded and what happens if the bike is dropped, because no policy is published here.
 
 ## The limits of a weight figure
 
 ### Kerb weight and wet weight
 
-Honda lists a kerb weight for the Wave Alpha 110, the Vision and the Air Blade; Yamaha lists a wet weight for the Sirius RC 110. Yamaha's page for the Sirius FI describes its wet weight as the bike with a full tank of fuel and engine oil, so the two bases are not interchangeable, and this guide does not convert between them.
+Honda lists a kerb weight for the Wave Alpha 110, the Vision and the Air Blade; Yamaha lists a wet weight for the Sirius RC 110. The two figures are stated on different bases, and this guide does not convert between them.
 
 None of these figures includes luggage or a passenger. A bag changes where the weight sits as well as how much there is, which is why a bag belongs in the hands-on check below.
 
 ### Versions and model years
 
-The same name can cover different bikes. Honda's Wave Alpha 110 page lists two versions, and Honda also sells the Wave RSX, recorded at 98 kg against the Alpha's 96 kg. The Air Blade comes as a 125 (110 kg) and a 160 (113 kg in the figures recorded), and an engine above 125 cc raises a licence question as well as a weight one, which the final warning section returns to.
+The same name can cover different bikes. Honda also sells the Wave RSX, recorded at 98 kg against the Wave Alpha 110's 96 kg. The Air Blade comes as a 125 (110 kg) and a 160 (113 kg in the figures recorded), and an engine above 125 cc raises a licence question as well as a weight one, which the final warning section returns to.
 
-Yamaha sells its Sirius in more than one version too. Its page for the Sirius FI drum-brake version gives 98 kg wet, against the 100 kg wet recorded for the Sirius RC 110. The shop publishes a day rate for the model, not the version, so ask which version and year you would be given and look up that row. The figures here were read from manufacturer pages in September and October 2026, and manufacturers revise specifications.
+Yamaha sells its Sirius in more than one version too: drum and disc versions exist, and the 100 kg wet figure belongs to the Sirius RC 110 row. The shop publishes a day rate for the model, not the version, so ask which version and year you would be given and look up that row. The figures here were read from manufacturer pages in September and October 2026, and manufacturers revise specifications.
 
 ### What no weight figure tells you
 
@@ -112,8 +101,6 @@ This table is ordered by rider type, not ranked: the weights are the starting po
 | Smaller or lighter, and new to riding | The Honda Wave (96 kg, Wave Alpha 110) or the Vision (97 kg) | Fit at a stop; the Wave adds a foot-shift |
 | Wanting a bigger scooter and willing to handle more weight | The Air Blade 125 (110 kg) | Push it out of a row and turn it at full lock |
 | Drawn to the Click or the Mio | The Click or the Mio, tried by hand | No weight is used here; compare it with a Vision |
-| Without a motorcycle licence | A licence-free e-bike | Which kind it is, its rated power and its weight |
-| Tall | Whichever fits | Weight is not the problem; see the tall riders guide |
 
 ## A hands-on weight check at the counter
 
@@ -144,7 +131,7 @@ Weight does not set the licence class either. The [A1 licence guide]({{ '/articl
 
 ### What is the lightest motorbike I can rent in Hanoi as a beginner?
 
-Of the six models with a published day rate, four have a manufacturer weight used in this guide: the Honda Wave Alpha 110 at 96 kg, the Honda Vision at 97 kg, the Yamaha Sirius RC 110 at 100 kg wet and the Honda Air Blade 125 at 110 kg. The first two are 1 kg apart, so choose between them on fit and handling. Contact us to confirm current availability of the exact model.
+Of the six petrol models, four have a manufacturer weight used in this guide: the Honda Wave Alpha 110 at 96 kg, the Honda Vision at 97 kg, the Yamaha Sirius RC 110 at 100 kg wet and the Honda Air Blade 125 at 110 kg. The first two are 1 kg apart, so choose between them on fit and handling. Contact us to confirm current availability of the exact model.
 
 ### How light are the Honda Click and the Yamaha Mio?
 
