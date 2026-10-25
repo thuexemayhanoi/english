@@ -5,9 +5,44 @@
     "P0": 0,
     "P1": 0,
     "P2": 0,
-    "P3": 1
+    "P3": 6
   },
   "findings": [
+    {
+      "severity": "P3",
+      "file": "_articles/renting-motorbike-six-months-hanoi.md",
+      "url": "/articles/renting-motorbike-six-months-hanoi/",
+      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
+      "fix": "Record it after its batch passes QA"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/returning-a-rental-motorbike-hanoi.md",
+      "url": "/articles/returning-a-rental-motorbike-hanoi/",
+      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
+      "fix": "Record it after its batch passes QA"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/expats-monthly-motorbike-hanoi.md",
+      "url": "/articles/expats-monthly-motorbike-hanoi/",
+      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
+      "fix": "Record it after its batch passes QA"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/renting-motorbike-year-hanoi.md",
+      "url": "/articles/renting-motorbike-year-hanoi/",
+      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
+      "fix": "Record it after its batch passes QA"
+    },
+    {
+      "severity": "P3",
+      "file": "_articles/three-month-motorbike-rental-hanoi.md",
+      "url": "/articles/three-month-motorbike-rental-hanoi/",
+      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
+      "fix": "Record it after its batch passes QA"
+    },
     {
       "severity": "P3",
       "file": "docs/seo/package2-baseline.json",
