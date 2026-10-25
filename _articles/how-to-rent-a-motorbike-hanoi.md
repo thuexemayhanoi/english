@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.1 how-to-rent"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm — Viet Nam Government Portal: Ha Noi begins restricting fossil-fuel vehicles in low-emission zones, 2 July 2026 — Zone 1 streets and the 7:00 p.m. to midnight Friday, Saturday and Sunday prohibition on all road vehicles including motorcycles (retrieved 2026-10-25)"

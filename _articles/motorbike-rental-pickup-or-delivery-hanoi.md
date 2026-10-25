@@ -14,13 +14,13 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.1 how-to-rent"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
 internal_link_targets: "how-to-book-a-motorbike-rental-hanoi, rental-motorbike-inspection-checklist, how-to-rent-a-motorbike-hanoi, returning-a-rental-motorbike-hanoi, motorbike-rental-deposit-hanoi, motorbike-delivery-long-bien, motorbike-delivery-old-quarter, renting-motorbike-noi-bai-arrival, first-time-renting-a-motorbike-hanoi"
 ---
 
-Both work for a [Hanoi motorbike rental]({{ '/' | relative_url }}). The right choice depends on how far you are from the shop and how closely you want to check the exact bike first.
+Both work for a [Hanoi motorbike rental]({{ '/topics/rental/' | relative_url }}). The right choice depends on how far you are from the shop and how closely you want to check the exact bike first.
 
 Hanoi motorbike rental delivery, to a hotel or an address, may be available depending on location and arrangement, so the real question is which route suits your first day. Pick up at the shop when you want the bike, the contract and your questions in one place; ask about delivery when distance, luggage or timing make the trip itself the hard part. The tables below sort the usual situations, and the sections after them cover what to ask, what to agree in writing and how the return works. For the whole sequence from first message to return, start with [how to rent a motorbike in Hanoi]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}).
 

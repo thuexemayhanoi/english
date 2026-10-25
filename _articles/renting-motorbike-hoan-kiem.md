@@ -14,7 +14,7 @@ search_intent: commercial
 topic_cluster: rental
 subcluster: "1.5 area-guides"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://en.vietnamplus.vn/hanoi-rolls-out-inner-city-traffic-plan-to-support-low-emission-zone-pilot-post347526.vnp — VietnamPlus: Hanoi rolls out inner-city traffic plan to support low-emission zone pilot, 1 July 2026 — first phase from 1 July to 31 December 2026; Zone 1 covers the Hoan Kiem Lake pedestrian area, the Old Quarter and the weekend night market; motorcycles, motorbikes and all cars are barred from entering between 7 pm and midnight every Friday, Saturday and Sunday, except vehicles operated by the Ministries of National Defence and Public Security (retrieved 2026-10-25)"

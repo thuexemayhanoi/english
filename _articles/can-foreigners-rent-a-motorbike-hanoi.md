@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.1 how-to-rent"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 57: the four kinds of driving licence valid on Vietnamese territory (retrieved 2026-10-25)"
@@ -24,13 +24,13 @@ sources:
 internal_link_targets: "can-tourists-rent-a-motorbike-hanoi, renting-a-motorbike-hanoi-without-licence, which-countries-idp-valid-vietnam, documents-needed-rent-motorbike-hanoi, motorbike-rental-price-hanoi, idp-vietnam-motorbike-rules, expat-motorbike-licence-vietnam"
 ---
 
-Yes. Foreigners [rent motorbikes in Hanoi]({{ '/topics/rental/' | relative_url }}) every day, and no local licence, residence status or Vietnamese bank account is needed to do it. The catch is one sentence long: renting is easy, riding legally depends on your licence.
+Yes. Foreigners can [rent motorbikes in Hanoi]({{ '/topics/rental/' | relative_url }}). The catch is one sentence long: renting is easy, riding legally depends on your licence.
 
 Hanoi motorbike rental for foreigners comes down to two separate questions: what the rental needs, and what the law needs before you ride. This guide covers foreigners of every kind, from a visitor staying a week to a resident of several years. If your trip is short, [the guide for short-stay tourists]({{ '/articles/can-tourists-rent-a-motorbike-hanoi/' | relative_url }}) answers the same question from the visitor's side, and [the step-by-step rental overview]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}) puts the whole sequence in order.
 
 ## The rental side
 
-The transaction is three items: a passport for the contract, a [deposit]({{ '/articles/motorbike-rental-deposit-hanoi/' | relative_url }}) - typically 2,000,000-5,000,000 VND - and the [rental price]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}). Cash, bank transfer and QR payment all work. Ask the shop how long handover takes.
+A rental involves a passport for the contract, a [deposit]({{ '/articles/motorbike-rental-deposit-hanoi/' | relative_url }}) - typically 2,000,000-5,000,000 VND - and the [rental price]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}); ask which other documents the shop wants to see at handover, and how long handover takes. Cash, bank transfer and QR payment all work.
 
 ### What a foreign renter brings
 
@@ -61,14 +61,15 @@ The table covers a standard rental scooter of up to 125 cc. The licence-free cla
 | A Vietnamese A1 or A licence | Yes, within its class | Carry it; A1 reaches 125 cc |
 | A national motorcycle licence plus a 1968-convention IDP with a motorcycle category | Yes, if the licence covers that size of bike | Carry both originals |
 | An IDP, but the national licence left at home | No | Carry the national licence |
-| A national licence from outside the 1968 convention, or a 1949-convention IDP | Only under a treaty or agreement | Confirm any treaty route officially; otherwise exchange the licence once you hold a qualifying residence card, or use the licence-free class |
+| A 1949-convention IDP | No | Use a 1968-convention IDP with your national licence, or the licence-free class |
+| A national licence from outside the 1968 convention | Only under a treaty or agreement | Confirm any treaty route officially; otherwise exchange the licence once you hold a qualifying residence card, or use the licence-free class |
 | No motorcycle licence (a car licence alone does not count) | No | Use the licence-free class or, as a resident, take the A1 test |
 
 Before you fly, check your IDP and national licence against [the checklist in the 1968 Vienna Convention guide]({{ '/articles/1968-vienna-convention-idp-vietnam/' | relative_url }}) and carry the originals of both. Get the permit before you travel.
 
 ## What about your home car licence?
 
-A car licence does not cover motorcycles in Vietnam, and neither does a 1949-convention or non-convention permit. Article 57 sets car classes and motorbike classes apart, so [a car licence does not cover even a 125 cc scooter]({{ '/articles/ride-125cc-with-car-licence-vietnam/' | relative_url }}), whether it is Vietnamese or foreign. An IDP does not change that: it translates the categories your national licence holds, so a car-only licence behind an IDP gives car categories in Vietnam and no motorbike category. Check the [licence guides]({{ '/topics/law-licences/' | relative_url }}) before you fly if riding is central to your trip.
+A car licence does not cover motorcycles in Vietnam, and neither does a 1949-convention or non-convention permit. A national licence from a country outside the 1968 convention counts only through a treaty route. Article 57 sets car classes and motorbike classes apart, so [a car licence does not cover even a 125 cc scooter]({{ '/articles/ride-125cc-with-car-licence-vietnam/' | relative_url }}), whether it is Vietnamese or foreign. An IDP does not change that: it translates the categories your national licence holds, so a car-only licence behind an IDP gives car categories in Vietnam and no motorbike category. Check the [licence guides]({{ '/topics/law-licences/' | relative_url }}) before you fly if riding is central to your trip.
 
 ## Short stay or settled in
 
@@ -76,11 +77,11 @@ Which document does the work depends on how long you stay: short stays run on an
 
 ### Riding on an IDP
 
-The IDP and the national licence behind it each carry their own expiry date, so compare both with the day you plan to return the bike. Article 18 of Decree 168/2024/NĐ-CP punishes riding on a licence that is no longer valid as riding with no licence, as [the expired-licence fine guide]({{ '/articles/expired-licence-fine-vietnam/' | relative_url }}) explains, so an expiry date in the middle of a long rental is a real problem and not a formality.
+The IDP and the national licence behind it each carry their own expiry date, so compare both with the day you plan to return the bike. Article 18 of Decree 168/2024/NĐ-CP, as issued, punishes riding on a licence that is no longer valid as riding with no licence, as [the expired-licence fine guide]({{ '/articles/expired-licence-fine-vietnam/' | relative_url }}) explains, so an expiry date in the middle of a long rental is a real problem and not a formality.
 
 ### Exchanging a licence once you live here
 
-Under Article 24 of Circular 12/2025/TT-BCA a foreigner who can show residence of three months or more can exchange a valid foreign national licence for a Vietnamese one. An IDP cannot be exchanged, and neither can a foreign licence that is out of date. [The licence exchange guide]({{ '/articles/foreign-licence-exchange-vietnam/' | relative_url }}) covers the dossier and where to apply.
+Under Article 24 of Circular 12/2025/TT-BCA a foreigner holding a residence card valid for three months or more (or a diplomatic or service identity card) can exchange a valid foreign national licence for a Vietnamese one. An IDP cannot be exchanged, and neither can a foreign licence that is out of date. [The licence exchange guide]({{ '/articles/foreign-licence-exchange-vietnam/' | relative_url }}) covers the dossier and where to apply.
 
 Residents with no motorcycle entitlement at home take the Vietnamese A1 test instead, which [the expat licence guide]({{ '/articles/expat-motorbike-licence-vietnam/' | relative_url }}) describes. Moving here rather than visiting? See the guides for [expats moving to Hanoi]({{ '/articles/motorbike-rental-expats-moving-hanoi/' | relative_url }}), [English teachers]({{ '/articles/motorbike-rental-english-teachers-hanoi/' | relative_url }}) and [digital nomads]({{ '/articles/motorbike-rental-digital-nomads-hanoi/' | relative_url }}).
 
@@ -123,10 +124,10 @@ Support is primarily for Hanoi and local use. Tell the shop where you plan to ri
 
 ### Is there a minimum age for foreign riders?
 
-The law sets 16 as the minimum age for the licence-free moped class and 18 for a Vietnamese licence such as A1, which is the class a standard rental scooter needs. Above the moped class the practical minimum is 18; [the minimum-age guide]({{ '/articles/minimum-age-ride-motorbike-vietnam/' | relative_url }}) has the detail. A shop's own conditions for young renters are something to ask about, not assume.
+The law sets 16 as the minimum age for the licence-free moped class and 18 for a Vietnamese licence such as A1, which is the class a standard rental scooter needs. Above the moped class 18 is the legal minimum; [the minimum-age guide]({{ '/articles/minimum-age-ride-motorbike-vietnam/' | relative_url }}) has the detail. A shop's own conditions for young renters are something to ask about, not assume.
 
 ### Can I rent if I have never ridden a scooter?
 
 Ask whether the shop has conditions for first-time riders, and say honestly how much you have ridden when you enquire. A licence says you may ride; it does not say you are ready for Hanoi traffic, and [the first-time rental walkthrough]({{ '/articles/first-time-renting-a-motorbike-hanoi/' | relative_url }}) covers the first hour and the first day.
 
-*Information, not legal advice. Checked on 2026-10-25 against Law 36/2024/QH15 (Article 57), Decree 168/2024/NĐ-CP (Article 18, as issued) and Circular 12/2025/TT-BCA (Article 24). Decree 238/2026/NĐ-CP, in force from 15 August 2026, amends Decree 168/2024/NĐ-CP, and its amended text of Article 18 could not be read, so this guide states no fine amounts: confirm any figure against the current text. Police holding (Article 48 of Decree 168/2024/NĐ-CP) and the other licence rules restate the guides linked where they appear.*
+*Information, not legal advice. Checked on 2026-10-25 against Law 36/2024/QH15 (Article 57), Decree 168/2024/NĐ-CP (Article 18, as issued) and Circular 12/2025/TT-BCA (Article 24). Decree 238/2026/NĐ-CP, in force from 15 August 2026, amends Decree 168/2024/NĐ-CP, and its amended text of Article 18 has not been checked, so this guide states no fine amounts: confirm any figure against the current text. Police holding (Article 48 of Decree 168/2024/NĐ-CP) and the other licence rules restate the guides linked where they appear.*

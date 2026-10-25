@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.4 renter-situations"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://www.vietnamairlines.com/dk/en/plan-book/travel/travel-guide/hanoi-airport-to-hanoi-city — 3+ Ways to Get from Hanoi Airport to Hanoi City Center, Vietnam Airlines travel guide — Noi Bai approximately 27 km from the centre of Hanoi; journey typically 45 minutes to an hour depending on traffic, longer in peak hours; Terminal 2 for international and Terminal 1 for domestic flights; public bus, taxi, ride-hailing and hotel pick-up options; advice to use registered taxi queues, licensed companies and confirmed bookings (retrieved 2026-10-25)"

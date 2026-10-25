@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.5 area-guides"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://en.vietnamplus.vn/hanoi-rolls-out-inner-city-traffic-plan-to-support-low-emission-zone-pilot-post347526.vnp — VietnamPlus: Hanoi rolls out inner-city traffic plan to support low-emission zone pilot, 1 July 2026 — first phase from 1 July to 31 December 2026; in Zone 1 motorcycles, motorbikes and all cars, except those operated by the Ministries of National Defence and Public Security, are barred from 19:00 to 24:00 on Friday, Saturday and Sunday (retrieved 2026-10-25)"
