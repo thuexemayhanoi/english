@@ -57,7 +57,7 @@ Do not multiply a day rate to estimate a week, a month or a longer term. [The mo
 
 Ownership means transferring registration into your name. The requirements for a foreign buyer, and how long the transfer takes, depend on the registration rules in force on the day you buy, so ask the registration office for its current list instead of relying on a seller's or an agent's summary. Riding a bike with no valid registration certificate, or one that does not match the machine, falls into a fine band of its own, and a bike whose lawful origin cannot be shown can be confiscated. The [guide to unregistered vehicle fines]({{ '/articles/unregistered-motorbike-fine-vietnam/' | relative_url }}) sets out the legal basis.
 
-Rental sidesteps the transfer, the registration and the resale, but not every question. Ask at handover which registration papers travel with the bike, and ask to see its compulsory insurance certificate. Insurance for you as a rider is a separate matter: Nguyen Tu does not provide motorbike insurance, so a renter arranges their own. [The rental insurance guide]({{ '/articles/is-insurance-included-motorbike-rental-hanoi/' | relative_url }}) explains the difference between the bike's cover and yours.
+Rental sidesteps the transfer, the registration and the resale, but not every question. Ask at handover how the registration certificate and the compulsory insurance certificate will be shown at a police stop: Article 56 of Law 36/2024/QH15 expects the rider to carry both. Insurance for you as a rider is a separate matter: Nguyen Tu does not provide motorbike insurance, so a renter arranges their own. [The rental insurance guide]({{ '/articles/is-insurance-included-motorbike-rental-hanoi/' | relative_url }}) explains the difference between the bike's cover and yours.
 
 ### Checks before you pay a seller
 
@@ -84,7 +84,7 @@ Depreciation is the quiet cost. A bike loses value as it ages and as your leavin
 | What you face | Renting | Buying |
 |---|---|---|
 | Cash at the start | A deposit, typically 2,000,000-5,000,000 VND depending on vehicle and conditions, plus the rental | The purchase price, plus registration and any repairs |
-| Paperwork | Rental terms and handover; ask which registration papers travel with the bike | Registration or transfer into your name under the office's current requirements |
+| Paperwork | Rental terms and handover; ask how the registration will be shown at a stop | Registration or transfer into your name under the office's current requirements |
 | Repairs and upkeep | Shop maintenance may include oil change, chain adjustment and tyre-pressure checks; tyres and tubes may be yours | All yours, including finding a mechanic |
 | Insurance | Nguyen Tu does not provide motorbike insurance; arrange your own | The compulsory third-party cover certificate is among the documents a driver must carry; personal cover is separate |
 | Leaving | Return the bike on time; late return is charged at 20,000 VND per hour; early return carries no automatic refund | Sell it or keep it; the resale risk is yours |
