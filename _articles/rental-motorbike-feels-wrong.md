@@ -54,7 +54,7 @@ Message the shop the same day and ride in only if it agrees:
 - Any new noise - a clicking, grinding, whining that arrived.
 - A misfire, hesitation or a flat spot that developed.
 - A smell of burning, oil spots under the parked bike, an engine that suddenly runs hot.
-- Lights, horn or indicators intermittently dead - electrical faults that matter more than they look, because each one is a signal the law sets rules for.
+- Lights, horn or indicators intermittently dead - electrical faults that matter more than they look, because each one is a signal the law sets rules for (a headlight out after 18:00 or in rain is on the stop-now list).
 
 A symptom here moves up to the stop-now list if it gets worse while you ride or arrives with grinding at the brake lever, smoke, a sharp electrical smell or steady loss of power. If you cannot tell which list a smell or heat belongs on, treat it as stop-now.
 
@@ -62,7 +62,7 @@ A symptom here moves up to the stop-now list if it gets worse while you ride or 
 
 Law 36/2024/QH15 requires the front light to be on from 18:00 to 06:00 and in fog, smoke, dust, rain or other bad weather that limits visibility (Article 20(1)). It requires a turn signal before a turn, used continuously through the turn (Article 15(2)), and allows the horn only to warn of a situation that could become unsafe or to signal a vehicle that you are about to overtake (Article 21(1)).
 
-The practical point is separate. A headlight that is out after 18:00 or in rain belongs on the stop-now list: the article requires the light in exactly those conditions, so park and call. An indicator that works on one side only, or a horn that cuts out, leaves you unable to do what the other two articles describe; report either the same day and ask the shop before anyone replaces a part. [The required equipment guide]({{ '/articles/motorbike-required-equipment-vietnam/' | relative_url }}) lists what a motorbike is expected to carry.
+The practical point is separate. A headlight that is out after 18:00 or in rain belongs on the stop-now list: Article 20(1) requires the light in those conditions, so park and call. An indicator that works on one side only, or a horn that cuts out, leaves you unable to do what Articles 15(2) and 21(1) describe; report either the same day and ask the shop before anyone replaces a part. [The required equipment guide]({{ '/articles/motorbike-required-equipment-vietnam/' | relative_url }}) lists what a motorbike is expected to carry.
 
 ## What a mechanic may check for each symptom
 
@@ -105,7 +105,7 @@ The details in brackets are yours to fill in.
 
 Take pictures once the bike is stopped and safe, never while riding. They turn a feeling into something the shop can check.
 
-1. The dashboard: any warning light that is lit, the odometer and the fuel gauge.
+1. The dashboard: any warning light that is lit, the odometer and the fuel gauge. Skip it if the bike smells of petrol.
 2. The part the symptom seems to come from, from a short distance. Look, do not touch: the exhaust can stay hot after riding.
 3. The ground under the bike, with a coin beside any drip or wet patch for scale.
 4. Both tyres from the side, showing tread and sidewall.
@@ -177,4 +177,4 @@ Whether another bike is possible depends on current availability, so contact the
 
 ## The habit
 
-When something feels different, it is different. Anything on the stop-now list means park and call; for anything on the report-soon list, once the shop agrees: ride it back, describe the change. Report early: a message costs nothing, and a bike that fails on the road costs everyone more.
+When something feels different, it is different. Anything on the stop-now list means park and call; for anything on the report-soon list, once the shop agrees: ride it back, describe the change. Report early: a message is quick to send, and a bike that fails on the road costs everyone more.
