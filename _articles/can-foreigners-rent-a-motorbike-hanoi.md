@@ -50,11 +50,11 @@ Article 57 of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) lists 
 
 Article 57 words its own list a little differently, as [the tourist-riding guide]({{ '/articles/can-tourists-ride-motorbike-vietnam/' | relative_url }}) sets it out: a Vietnamese licence (by test or by exchange), an IDP or national licence issued by a member of the 1968 Vienna Convention on Road Traffic and appropriate to the vehicle, and a licence from a country or territory with which Vietnam has a mutual-recognition treaty or agreement. The three routes above fall under the first two items. The third item depends on a treaty or agreement between Vietnam and the issuing country, so confirm it from an official source before you rely on it.
 
-If you hold none of these, riding a rental bike is riding unlicensed: a 2-4 million VND fine up to 125 cc, 6-8 million VND above, and the bike can be held by police. Both bands come from Article 18 of Decree 168/2024/NĐ-CP, which puts the lower band on a motorbike of up to 125 cc or an electric machine of up to 11 kW and the higher band on anything bigger. The same article covers a licence that does not fit the bike you are riding, so matching the bike to the licence matters as much as holding one. [The no-licence fine guide]({{ '/articles/no-licence-fine-vietnam/' | relative_url }}) gives the detail.
+If you hold none of these, riding a rental bike is riding unlicensed: a 2-4 million VND fine up to 125 cc, 6-8 million VND above, and the bike can be held by police. Both bands come from Article 18 of Decree 168/2024/NĐ-CP, which puts the lower band on a motorbike of up to 125 cc or an electric machine of up to 11 kW and the higher band on anything bigger. The same bands apply to a licence that does not fit the bike you are riding. Match the bike to the licence as carefully as you check that you hold one. [The no-licence fine guide]({{ '/articles/no-licence-fine-vietnam/' | relative_url }}) gives the detail.
 
 ### Which situation are you in?
 
-The table covers a standard rental scooter of up to 125 cc.
+The table covers a standard rental scooter of up to 125 cc. The licence-free class it mentions is the 50 cc moped class, explained further down.
 
 | What you hold | Legal on a scooter up to 125 cc? | What to do |
 |---|---|---|
@@ -64,7 +64,7 @@ The table covers a standard rental scooter of up to 125 cc.
 | A national licence from outside the 1968 convention, or a 1949-convention IDP | Not on those documents alone | Exchange the licence once you hold a qualifying residence card, or use the licence-free class |
 | No motorcycle licence anywhere (a car licence alone does not count) | No | Use the licence-free class or, as a resident, take the Vietnamese A1 test |
 
-Before you fly, check four things: the IDP refers to the 1968 Vienna Convention, it shows a motorcycle category, your national licence itself covers motorcycles, and you will carry the originals of both, because photocopies and photos are not substitutes. Get the permit before you travel. [The IDP rules guide]({{ '/articles/idp-vietnam-motorbike-rules/' | relative_url }}) explains why the permit is a translation of your licence and not a licence of its own.
+Before you fly, check four things: the IDP refers to the 1968 Vienna Convention, it shows a motorcycle category, your national licence itself covers motorcycles, and you can carry the originals of both. Photocopies and photos of documents are not substitutes. Get the permit before you travel. [The IDP rules guide]({{ '/articles/idp-vietnam-motorbike-rules/' | relative_url }}) explains why the permit is a translation of your licence and not a licence of its own.
 
 ## What about your home car licence?
 
@@ -76,7 +76,7 @@ Which document does the work depends on how long you stay. [The long-term expat 
 
 ### Riding on an IDP
 
-Both documents carry their own expiry dates, so compare them with the day you plan to return the bike. Article 18 of the Decree puts a licence that is no longer valid in the same fine band as having none, which makes an expiry date in the middle of a long rental a real problem rather than a formality.
+The IDP and the national licence behind it each carry their own expiry date, so compare both with the day you plan to return the bike. Article 18 of the Decree puts a licence that is no longer valid in the same fine band as having none, so an expiry date in the middle of a long rental is a real problem and not a formality.
 
 ### Exchanging a licence once you live here
 
@@ -88,7 +88,7 @@ Residents with no motorcycle entitlement at home take the Vietnamese A1 test ins
 
 A licence-free 50 cc or e-bike rental is a legal, low-speed way to see the city if your paperwork does not reach further. At 50 cc or less no licence is needed at all, which is why [licence-free 50 cc bikes]({{ '/articles/renting-50cc-hanoi/' | relative_url }}) and [e-bikes]({{ '/articles/can-foreigners-rent-electric-bike-vietnam/' | relative_url }}) are options for visitors who have no motorcycle licence at home.
 
-The law calls this class mopeds: two- or three-wheel vehicles designed for no more than 50 km/h, with an engine of 50 cc or less or an electric motor of 4 kW or less. [Foreign nationality changes nothing here]({{ '/articles/can-foreigners-ride-50cc-vietnam/' | relative_url }}): the rider must be at least 16, understand the traffic rules, have basic handling skills, wear a standard-compliant helmet and follow every traffic rule. A crash on a moped brings the same liability, insurance and paperwork questions as any other crash, and fines follow the same schedule as for motorbikes.
+[The licence-free moped class]({{ '/articles/can-foreigners-ride-50cc-vietnam/' | relative_url }}) is defined in law as two- or three-wheel vehicles designed for no more than 50 km/h, with an engine of 50 cc or less or an electric motor of 4 kW or less. Foreign nationality changes nothing here: the rider must be at least 16, understand the traffic rules, have basic handling skills, wear a standard-compliant helmet and follow every traffic rule. A crash on a moped brings the same liability, insurance and paperwork questions as any other crash, and fines follow the same schedule as for motorbikes.
 
 For electric two-wheelers the line is power. At 4 kW or less, within the moped definition above, no driving licence is required; above 4 kW a licence is required, class A1 up to 11 kW and class A above that. Pedal-assist electric bicycles are a separate, non-motorised category. Ask for the rated power of any electric machine before you book, because it decides which licence class you are riding in.
 

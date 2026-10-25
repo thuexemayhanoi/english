@@ -76,7 +76,7 @@ A smaller or newer rider will find the lighter scooter easier at walking pace. A
 
 ### Luggage and passengers
 
-Of the four, only the Air Blade 125 has a published underseat figure: 23.2 L, which Honda words as two half-helmets. A full-face helmet or a bulkier bag needs testing even there, and for the Vision, Click and Mio the only answer is to try the bay with your own helmet and day bag.
+Of the four, the Air Blade 125 is the only one with a verified underseat figure in this guide: 23.2 L, which Honda words as two half-helmets. A full-face helmet or a bulkier bag needs testing even there, and for the Vision, Click and Mio the only answer is to try the bay with your own helmet and day bag.
 
 Passengers are a legal question before they are a mechanical one. A motorbike may carry one passenger besides the rider, and everyone on board must wear a fastened, compliant helmet (Article 33 of Law 36/2024/QH15, as the [passenger rules guide]({{ '/articles/motorbike-passenger-rules-vietnam/' | relative_url }}) sets out). A couple on one scooter is lawful; three people on one bike is not, outside the narrow exceptions the law lists. For two adults, the Air Blade's larger engine class and heavier build give more margin than the 110 cc Vision, and any scooter you pick should be tried with both people on board before you commit.
 
