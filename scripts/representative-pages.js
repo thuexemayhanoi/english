@@ -44,11 +44,10 @@ if (process.argv.includes('--lighthouserc')) {
           'categories:best-practices': ['error', { minScore: 0.75 }],
           'categories:seo': ['error', { minScore: 0.8 }],
           // Per-audit SEO assertions (docs/seo/research/package3, Lighthouse method M1): the 0.8
-          // category floor still passes with two failing SEO audits. Warn level while the
-          // experiment measures which audits pass on the static server; errors only after that.
-          'document-title': 'warn', 'meta-description': 'warn', 'http-status-code': 'warn',
-          'link-text': 'warn', 'crawlable-anchors': 'warn', 'is-crawlable': 'warn',
-          'robots-txt': 'warn', 'image-alt': 'warn', 'canonical': 'warn', 'hreflang': 'warn'
+          // category floor still passes with two failing SEO audits. All ten passed on every
+          // representative page at warn level (run 40198382077, 2026-10-25), so each now errors.
+          ...Object.fromEntries(['document-title', 'meta-description', 'http-status-code', 'link-text', 'crawlable-anchors',
+            'is-crawlable', 'robots-txt', 'image-alt', 'canonical', 'hreflang'].map(a => [a, ['error', { minScore: 1 }]]))
         }
       },
       upload: { target: 'temporary-public-storage' }
