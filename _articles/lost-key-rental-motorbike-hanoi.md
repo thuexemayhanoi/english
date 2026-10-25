@@ -17,7 +17,6 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-  - "https://www.honda.com.vn/xe-may/san-pham/vision — Honda Vietnam, Vision model page — describes a Smart Key system that helps locate the vehicle and unlock it remotely (retrieved 2026-10-25)"
   - "honda.com.vn — Honda Vietnam Air Blade 160 detail page, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23) — smart key listed among its features"
 internal_link_targets: "theft-loss-responsibility-rental-motorbike-hanoi, how-deposit-returns-work-hanoi, rental-motorbike-breakdown-hanoi, common-motorbike-rental-problems-hanoi, motorbike-rental-deposit-hanoi, outside-repair-shops-rental-motorbike, rental-motorbike-inspection-checklist, returning-a-rental-motorbike-hanoi"
 ---
@@ -40,7 +39,7 @@ Work back through the places you used the key, newest first, and say each one ou
 
 ### Lost, broken, stuck or stolen?
 
-The shop will ask which of these you have, so settle it before you call.
+Say which of these you have when you call.
 
 | What you see | What it is | Next step |
 |---|---|---|
@@ -64,7 +63,7 @@ Call the shop and say so, immediately - +84 942 467 674, WhatsApp or Zalo, 09:00
 
 ### If it happens outside opening hours
 
-The shop's hours are 09:00-21:00 daily, no after-hours service is published, and support is primarily for Hanoi and local use. Do not plan on anyone arriving at 22:00. Message anyway so the report carries the time it happened, park the bike somewhere safe for the night, and make the call when the shop opens.
+The shop's hours are 09:00-21:00 daily, no after-hours service is published. Do not plan on anyone arriving at 22:00. Message anyway so the report carries the time it happened, park the bike somewhere safe for the night, and make the call when the shop opens.
 
 ## What to ask the shop
 
@@ -73,8 +72,8 @@ No lost-key terms are published, so the call is where the terms get set. Ask the
 | Ask | Why it matters |
 |---|---|
 | Is there a spare key, and where is it? | A spare that already exists is the shortest route back onto the road, and only the shop can say whether one does |
-| What does a replacement cost for this bike's key? | The figure depends on the key type and is not published. The accepted payment forms are cash, bank transfer and QR payment |
-| Does the amount come out of the deposit? | The deposit is typically 2,000,000-5,000,000 VND depending on vehicle and conditions; ask whether any of it would be held back or whether you pay separately, and read [the rental deposit guide]({{ '/articles/motorbike-rental-deposit-hanoi/' | relative_url }}) first |
+| What does a replacement cost for this bike's key? | No figure is published, and the key type may change it. The accepted payment forms are cash, bank transfer and QR payment |
+| Does the amount come out of the deposit? | The deposit is typically 2,000,000-5,000,000 VND depending on vehicle and conditions; ask whether any of it would be held back or whether you pay separately, and [the rental deposit guide]({{ '/articles/motorbike-rental-deposit-hanoi/' | relative_url }}) covers the deposit itself |
 | How long will it take, and where? | No waiting time is published. Ask what the shop expects, and whether you wait with the bike, bring it in or something else is arranged |
 | Does the waiting time count as rental time? | The published late-return terms are 20,000 VND per hour, and a full extra day (typically 150,000-200,000 VND depending on motorcycle) may be charged beyond six hours late. Nothing published says how a delay caused by a lost key is treated, so ask: the [late-return guide]({{ '/articles/late-return-rental-motorbike-hanoi/' | relative_url }}) has the rest |
 
@@ -84,17 +83,17 @@ The bike belongs to the shop, so the fixes that feel obvious are the ones to hol
 
 - **Do not call a locksmith or have a copy cut at a stall.** A copy changes who can start the bike, and that decision belongs to the shop, not the renter.
 - **Do not force the ignition or bypass it.** Forcing a lock can damage the switch and its wiring, and damage is a different and bigger conversation than a lost key. A person starting a bike without its key can also look like a thief, which is another reason not to improvise on a public street.
-- **Do not take the bike to a workshop for a new lock.** The call-first rule in [the guide to outside repair shops]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) applies: say what happened and follow the shop's instruction. The same habit covers other small roadside problems, such as [a punctured tyre]({{ '/articles/punctured-tyre-on-rental-motorbike/' | relative_url }}).
+- **Do not take the bike to a workshop for a new lock.** The call-first rule in [the guide to outside repair shops]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) applies: say what happened and follow the shop's instruction.
 
 ## What it costs
 
-What it costs is a question to ask, because no lost-key fee is published. A key with a chip (on some scooter models) is a different job from a basic metal key, so ask whether it takes longer and costs more, and get the figure for your bike's key type before any work starts. Ask whether the cost [settles against the deposit at return]({{ '/articles/how-deposit-returns-work-hanoi/' | relative_url }}), along with any other charge the loss might cause, or is paid separately. Treat it as an agreed charge, not a penalty: ask for the figure first and a receipt after.
+A key with a chip (on some scooter models) is a different job from a basic metal key, so ask whether it takes longer and costs more, and get the figure for your bike's key type before any work starts. Treat it as an agreed charge, not a penalty: ask for the figure first and a receipt after. [How deposit returns work]({{ '/articles/how-deposit-returns-work-hanoi/' | relative_url }}) explains the settlement at the end of a rental.
 
 If a charge is agreed, keep the message thread with the figure in it. At return, hand back every key you were given, including any replacement and any spare, and check the list against your handover note in [the returning guide]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }}).
 
 ## Plain, chip and smart keys: know which you have
 
-Not every rental key is a metal blade. Honda Vietnam's Vision page describes a Smart Key system that helps locate the bike and unlock it remotely, and its Air Blade 160 page lists a smart key among the features. Which type the bike you are given carries depends on the exact model and version, and the availability of any model is something to confirm with the shop.
+Not every rental key is a metal blade. Honda Vietnam's Air Blade 160 page lists a smart key among its features. Which type the bike you are given carries depends on the exact model and version, and the availability of any model is something to confirm with the shop.
 
 The type changes what to ask, so find out at handover rather than after a loss:
 
