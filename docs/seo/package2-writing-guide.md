@@ -64,7 +64,7 @@ Vary headings and openings. Do not use "Introduction", "Conclusion" or "Final th
 - Add a `sources:` entry only for a page read in this session, in the existing format: `"https://host/path — Title or description — what it supports (retrieved 2026-10-25)"`. Keep every existing entry unchanged. `docs/OWNER-FACTS.md` may be listed in the non-URL form already used by the site.
 - Prefer official sources; do not cite blogs, forums or retailers for legal or technical facts.
 
-Research tools: `WebSearch` (standard mode) finds sources but its summaries are not a source by themselves. The sandbox cannot fetch web pages directly. To read one page for one fact, use `mcp__Firecrawl__firecrawl_scrape` with `formats: ["query"]` and a narrow `queryOptions.prompt` (5 credits each; at most 3 per article, only for a legal or technical claim that needs a primary source). Do not use other paid connectors.
+Research tools: `WebSearch` (standard mode) finds sources but its summaries are not a source by themselves. The sandbox cannot fetch web pages directly. To read one page for one fact, use `mcp__Firecrawl__firecrawl_scrape` with `formats: ["query"]` and a narrow `queryOptions.prompt` (5 credits each; at most 3 per article, only for a legal or technical claim that needs a primary source). When Firecrawl has no credits, `mcp__Tavily__tavily_extract` or `mcp__TinyFish__fetch_content` may read the same page under the same limits; a read that fails is not a source. Do not use other paid connectors.
 
 ## 7. Verification checklist (independent verifier)
 
