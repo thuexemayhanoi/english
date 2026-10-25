@@ -20,7 +20,7 @@ sources:
 internal_link_targets: "what-is-included-motorbike-rental-hanoi, best-motorbike-for-commuting-hanoi, rental-motorbike-feels-wrong, daily-weekly-monthly-motorbike-rental-hanoi, loose-chain-on-rental-motorbike, high-mileage-monthly-rental-hanoi, maintenance-during-monthly-rental-hanoi, rental-motorbike-inspection-checklist"
 ---
 
-A rental doing real mileage - a commuter's month, a touring fortnight - is a bike consuming consumables faster than a weekend pootle. Long before anything fails, the bike should go back for a look. Nguyen Tu's owner guidance is periodic checks around every 1,500 km of use: practical owner guidance, not a manufacturer interval.
+A rental doing real mileage - a commuter's month, a touring fortnight - is a bike consuming consumables faster than a weekend pootle. Long before anything fails, the bike should go back for a look. Nguyen Tu's owner guidance is periodic checks around every 1,500 km of use, which is not a manufacturer interval.
 
 This page covers high mileage rental riding from the bike's side: the check, not the contract. The rental-term side, what to tell the shop when you set up a monthly rental, is in [High Monthly Mileage on a Rental Motorbike in Hanoi]({{ '/articles/high-mileage-monthly-rental-hanoi/' | relative_url }}), and who covers what is in [Maintenance During a Monthly Motorbike Rental in Hanoi]({{ '/articles/maintenance-during-monthly-rental-hanoi/' | relative_url }}).
 
@@ -76,7 +76,7 @@ Write the reading in your log beside the odometer: a level that keeps falling be
 
 ## How it fits a rental
 
-On monthly rentals this is part of the arrangement to settle at the start: the bike lives with you, routine maintenance may be the shop's side of the deal, and the check is a short visit - not an interruption. [Commuting by Motorbike in Hanoi: The Monthly Renter Setup]({{ '/articles/commuting-by-motorbike-monthly-hanoi/' | relative_url }}) covers the commuter's side of a monthly rental. The visit is how the shop's own maintenance items get done.
+On monthly rentals this is part of the arrangement to settle at the start: the bike lives with you, routine maintenance may be the shop's side of the deal, and the check is a short visit - not an interruption. [Commuting by Motorbike in Hanoi: The Monthly Renter Setup]({{ '/articles/commuting-by-motorbike-monthly-hanoi/' | relative_url }}) covers the commuter's side of a monthly rental. The visit is how the shop's own maintenance items get done, once you have confirmed which of them apply to your rental.
 
 Inner tubes and tyres may be the renter's responsibility depending on the situation, and slow wear from your own mileage is the case where that question comes up on a long rental. [Tyres, Tubes and Consumables on a Long-Term Rental]({{ '/articles/consumables-monthly-rental-hanoi/' | relative_url }}) sets out the split. Ask who pays for a worn-out tyre before you need one, and agree a replacement with the shop first instead of buying one yourself.
 
