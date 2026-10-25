@@ -29,9 +29,13 @@ CURRENT remote main before acting. Never rely on remembered state.
 ## System ownership map
 
 - QA engine: scripts/lib.js (central blocking rule, shared word counter
-  contentWords), frontmatter-check, content-duplicate-check,
-  internal-link-audit, seo-audit, sitemap-check, schema-check,
-  rendered-site-audit, seo-package2 (content-depth gate), build-report.js; gate:
+  contentWords, link-graph helpers clickDepth/pageRank/renderedLinkGraph,
+  llmsTxtFindings), frontmatter-check, content-duplicate-check,
+  internal-link-audit, seo-audit, sitemap-check (also llms.txt links and
+  counts), schema-check, rendered-site-audit (also the rendered link graph:
+  every sitemap page reachable from the home page, click depth capped at the
+  measured 2, dead ends, English-only guard against hreflang and /vi/ links),
+  seo-package2 (content-depth gate), build-report.js; gate:
   .github/workflows/quality-gate.yml.
 - Autonomous SEO loop: scripts/maintenance.js regenerates the English SEO
   Master Matrix after the QA tools (Audit -> Matrix), reports its priorities
@@ -75,7 +79,9 @@ CURRENT remote main before acting. Never rely on remembered state.
   It also ingests the Ubersuggest rank-tracker and AI-visibility exports into
   `_tracking` (dated positions per keyword and ranking URL); the matrix turns
   positions 4-20 into P2 quick wins and flags a different ranking URL than the
-  declared owner (optimization-log batches with `rank_work: true` wait for the
+  declared owner (a ranking URL on another domain keeps its full address and is
+  never counted as this site's position; snapshots before 2026-10-25 stored no
+  host, so their "/" rows are UNKNOWN) (optimization-log batches with `rank_work: true` wait for the
   next snapshot). Positions are not clicks: ZERO-DATA mode stays until a real
   Search Console export exists. The OpenSEO AI-answer export (`openseo_ai_visibility`:
   per prompt and engine whether this domain was cited or named, the pages and
@@ -88,6 +94,8 @@ CURRENT remote main before acting. Never rely on remembered state.
   create an article for a gap. Off-site work (reviews, Google Business Profile,
   outreach) is owner-only.
 - Topical map: scripts/topical-map.js (Pillar-Hub-Silo map, silo integrity,
+  contextual link equity: a PageRank model over in-body links and related cards,
+  reported as percentiles with a P3 money-page-equity recommendation,
   demand per cluster, keyword clusters by URL, split families with a SERP-overlap
   check, REVIEW_REQUIRED recommendations) writes docs/seo/topical-map.{json,md} after the matrix;
   both are matrix files in maintenance.js. It never creates articles, edits
@@ -166,6 +174,30 @@ ranking threshold published by Google. Scope and rules:
   and the weekly maintenance). A DONE article below 1,600 words, a changed slug
   or URL, a missing eligible article or a status entry outside the scope is a
   blocking P1; pending articles never block.
+
+## Hanoi motorbike rental keyword mission (owner-approved, 2026-10-25)
+
+- Primary keyword owner: "Hanoi motorbike rental" and its core variants
+  (motorbike rental Hanoi, rent motorbike Hanoi, motorcycle rental Hanoi,
+  motorbike hire Hanoi) belong to the home page `/` (moved from /topics/rental/
+  on recorded evidence in docs/seo/keyword-targets.json); /topics/rental/ is the
+  supporting guide index under the distinct title "Hanoi Rental Guides". The
+  home page rental summary uses OWNER-FACTS only. No URL or canonical changed.
+- Data labels: MEASURED (a dated tool snapshot), HISTORICAL (an older dated
+  snapshot, e.g. the 2026-10-14 rank tracker), INFERRED (reasoned, not measured),
+  UNKNOWN. Never present INFERRED as a ranking or a measurement.
+- Targeted SEO edits on Priority A pages (titles, leads, link targets, one
+  contextual link) are allowed in small recorded batches; wholesale rewrites
+  stay limited to SEO Package 2.
+- Not every article must reach 1,600 words (owner direction of the same
+  date): Package 2 batches follow keyword priority, money pages first, and a
+  narrow article that already answers its query completely may stay shorter.
+  A status for complete-as-is articles is not implemented; until it is, such
+  articles stay pending in docs/seo/package2-status.json.
+- GitHub SEO research: docs/seo/research/github-seo-skills.md (32 repositories,
+  stars, forks and licences as read 2026-10-25). Only ideas and published
+  algorithms were adopted, written independently; never install a third-party
+  skill, plugin or MCP server for this repository without owner review.
 
 ## When extending the system
 

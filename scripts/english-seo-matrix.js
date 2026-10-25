@@ -166,6 +166,7 @@ if (rankSnap) for (const r of rankSnap.rows) {
   const res = ownerResolve(r.keyword); const own = res && res.strength === 'owner' ? res : null;
   let match = 'no owner declared';
   if (r.position == null || !r.url) match = r.status === 'unstable' ? 'unstable (tool)' : 'not in the top 100';
+  else if (/^https?:\/\//i.test(r.url)) { rankTable.push({ keyword: r.keyword, position: r.position, url: r.url, previous: r.previous_position, owner: own ? own.url : '', match: 'another domain' }); continue; }
   else if (own) match = own.url === r.url ? 'owner' : (own.supporting || []).includes(r.url) ? 'supporting page' : 'different URL';
   if (r.position != null && r.url) (rankByUrl[r.url] = rankByUrl[r.url] || []).push({ keyword: r.keyword, position: r.position });
   rankTable.push({ keyword: r.keyword, position: r.position, url: r.url, previous: r.previous_position, owner: own ? own.url : '', match });
@@ -450,7 +451,8 @@ const PAGE_INTENT = { '/': 'navigational + commercial', '/articles/': 'navigatio
 for (const p of pages) {
   const url = L.pageUrl(p);
   const isHub = p.file.startsWith('topics/');
-  const title = p.fm.title ? String(p.fm.title) : (url === '/' ? siteTitle : '');
+  // title_tag (the homepage override the default layout prints) is what search engines see.
+  const title = p.fm.title_tag ? String(p.fm.title_tag) : p.fm.title ? String(p.fm.title) : (url === '/' ? siteTitle : '');
   const description = p.fm.description ? String(p.fm.description) : (url === '/' ? siteDesc : '');
   const m = {
     words: words(p.body), cw: L.contentWords(p.body), h2: (p.body.match(/<h2|^##\s/gm) || []).length, tables: 0, sources: 0,
@@ -628,7 +630,7 @@ summary.package2 = pkg2Base ? (() => {
 // Rank snapshot summary (third-party rank tracker): measured positions of the tracked keywords.
 const aiSnap = aiBrandSnap;
 summary.rankTracking = rankSnap ? {
-  tool: rankSnap.tool, date: rankSnap.date, market: rankSnap.market, device: rankSnap.device, next_update: rankSnap.next_update || '',
+  tool: rankSnap.tool, date: rankSnap.date, market: rankSnap.market, device: rankSnap.device, next_update: rankSnap.next_update || '', hostRecorded: !!rankSnap.host_recorded,
   tracked: rankSnap.tracked, ranking: rankSnap.ranking, bands: rankSnap.bands,
   quickWins: Object.entries(rankByUrl).filter(([u, l]) => L.rankSignal(l).quickWin).map(([u, l]) => ({ url: u, keyword: L.rankSignal(l).best.keyword, position: L.rankSignal(l).best.position, workedSince: workedSinceRank(u) })).sort((a, b) => a.position - b.position || a.url.localeCompare(b.url)),
   mismatches: rankTable.filter(r => r.match === 'different URL').map(r => ({ keyword: r.keyword, position: r.position, rankingUrl: r.url, declaredOwner: r.owner })),
@@ -758,6 +760,7 @@ if (summary.rankTracking) {
   const rt = summary.rankTracking; const b = rt.bands;
   md += '## Tracked rankings (third-party rank tracker, ' + rt.date + ')\n\n';
   md += mdCell(rt.tool) + ', ' + rt.market + ', ' + rt.device + ': ' + rt.tracked + ' keywords tracked, ' + rt.ranking + ' in the top 100 (top 3: ' + b.top3 + ', 4-10: ' + b.page1 + ', 11-20: ' + b.striking + ', 21-100: ' + b.deep + '; not ranking: ' + b.not_ranking + ', unstable: ' + b.unstable + '). These are measured positions of the best-ranking URL of this domain, not clicks, impressions or traffic' + (rt.next_update ? '; next tracker update ' + rt.next_update : '') + '. Positions 4-20 are the quick-win band: the page already ranks, so title, description, lead and internal links are worth hand work (a URL worked on since the snapshot, optimization-log batch with rank_work, waits for the next snapshot). A different URL ranking than the declared owner is a cannibalisation signal: link the pair with natural anchor text, never move content.\n\n';
+  if (!rt.hostRecorded) md += '> The ranking URLs of this snapshot were stored without their host (ingest fixed 2026-10-25): a "/" row may be the home page of another domain, so treat those rows as UNKNOWN until the next snapshot.\n\n';
   md += '| Keyword | Position | Ranking URL | Declared owner | Match |\n|---|---|---|---|---|\n';
   for (const r of rt.table.slice().sort((a, c) => (a.position == null) - (c.position == null) || a.position - c.position || a.keyword.localeCompare(c.keyword))) md += '| ' + mdCell(r.keyword) + ' | ' + (r.position == null ? '-' : r.position) + (r.previous != null && r.position != null && r.previous !== r.position ? ' (was ' + r.previous + ')' : '') + ' | ' + (r.url || '-') + ' | ' + (r.owner || '-') + ' | ' + r.match + ' |\n';
   if (rt.ai) md += '\nAI answers (' + (rt.ai.providers || []).join(', ') + ', ' + rt.ai.prompts + ' tracked prompts, ' + rt.ai.date + '): brand "' + mdCell((rt.ai.brand || {}).name) + '" mentioned ' + ((rt.ai.brand || {}).total_mentions == null ? '?' : rt.ai.brand.total_mentions) + ' time(s)' + ((rt.ai.nameVariants || []).length ? '; a spelling variant of the business name ("' + mdCell(rt.ai.nameVariants.map(v => v.name + '", average rank ' + v.average_rank).join('; "')) + ') was mentioned by the tool as a separate brand' : '') + '. Competitor mentions and per-prompt answers are in docs/seo/keyword-evidence.json (_tracking.ai_visibility_snapshots).\n';

@@ -80,6 +80,17 @@ for (const n of Object.values(nodes)) {
   for (const t of n.relatedOut) if (nodes[t]) { addIn(inRelated, t, n.url); if (n.cluster && n.cluster === clusterOf(t)) addIn(inSiloCard, t, n.url); }
 }
 
+// ---------- contextual link equity (docs/seo/research/github-seo-skills.md, technique T3) ----------
+// PageRank over in-body links and related cards only: the shared navigation and the generated
+// hub listings reach every page alike and would mask the contextual structure. A model of this
+// site's own links, not a Google measure; only percentiles are reported.
+const ctxAdjacency = {};
+for (const n of Object.values(nodes)) ctxAdjacency[n.url] = new Set([...n.bodyOut, ...n.relatedOut].filter(t => nodes[t]));
+const ctxRank = L.pageRank(ctxAdjacency);
+const articleRank = {}; for (const n of Object.values(nodes)) if (n.type === 'article') articleRank[n.url] = ctxRank[n.url];
+const siloPct = L.percentileRanks(articleRank, clusterOf);
+const sitePct = L.percentileRanks(ctxRank, () => 'site');
+
 // ---------- keyword ownership ----------
 const owned = {}; // cluster -> [{keyword, owner, coverage, variant}]
 const coverageByKw = {}; if (matrix && matrix.summary) for (const k of matrix.summary.keywordOwnership || []) coverageByKw[k.keyword + '|' + k.owner] = k.coverage;
@@ -177,7 +188,7 @@ const clusters = L.CLUSTERS.map(c => {
   // (the related cards are real links rendered by the article layout).
   const trueOrphans = noInSiloInbound.filter(u => !(inSiloCard[u] && inSiloCard[u].size));
   const topInbound = arts.map(a => ({ url: a.url, inbound: inBody[a.url] ? inBody[a.url].size : 0, related: inRelated[a.url] ? inRelated[a.url].size : 0 })).sort((x, y) => y.inbound - x.inbound || y.related - x.related || x.url.localeCompare(y.url)).slice(0, 5);
-  const money = arts.filter(a => a.intent === 'commercial').map(a => ({ url: a.url, inbound: inBody[a.url] ? inBody[a.url].size : 0, inSiloInbound: inSiloBody[a.url] ? inSiloBody[a.url].size : 0, related: inRelated[a.url] ? inRelated[a.url].size : 0, priority: rowsByUrl[a.url] ? rowsByUrl[a.url].priority : '' })).sort((x, y) => x.inSiloInbound - y.inSiloInbound || x.url.localeCompare(y.url));
+  const money = arts.filter(a => a.intent === 'commercial').map(a => ({ url: a.url, equityPct: siloPct[a.url], inbound: inBody[a.url] ? inBody[a.url].size : 0, inSiloInbound: inSiloBody[a.url] ? inSiloBody[a.url].size : 0, related: inRelated[a.url] ? inRelated[a.url].size : 0, priority: rowsByUrl[a.url] ? rowsByUrl[a.url].priority : '' })).sort((x, y) => x.inSiloInbound - y.inSiloInbound || x.url.localeCompare(y.url));
   const sub = {}; for (const a of arts) sub[a.subcluster || '(none)'] = (sub[a.subcluster || '(none)'] || 0) + 1;
   const pri = { P0: 0, P1: 0, P2: 0, P3: 0 }; for (const a of arts) { const r = rowsByUrl[a.url]; if (r && pri[r.priority] != null) pri[r.priority]++; }
   const reviewed = arts.map(a => a.lastReviewed).filter(Boolean).sort();
@@ -206,6 +217,7 @@ for (const c of clusters) {
   if (c.hub.startHereLinks < 3) rec(c.cluster, 'P2', 'hub-start-here', 'the pillar curates ' + c.hub.startHereLinks + ' start-here article link(s)', 'add 3-6 curated links to the commercial and core guides of the silo (hub body only)');
   if (c.hub.startHereLinks && (c.hub.startHereLinks - c.hub.startHereOwnCluster) * 10 > c.hub.startHereLinks * 3) rec(c.cluster, 'P3', 'hub-links-outside-silo', (c.hub.startHereLinks - c.hub.startHereOwnCluster) + ' of ' + c.hub.startHereLinks + ' start-here links point outside the silo (over 30%)', 'keep most start-here links inside the silo; cross-silo pointers belong in the body copy');
   for (const m of c.moneyPages.filter(x => x.inSiloInbound < 2).slice(0, 12)) rec(c.cluster, 'P3', 'money-page-inbound', m.url + ' has ' + m.inSiloInbound + ' in-silo in-body inbound link(s) (' + m.related + ' related cards)', 'add a contextual link from two same-silo guides whose topic leads to this page');
+  for (const m of c.moneyPages.filter(x => x.inSiloInbound >= 2 && x.equityPct < 25).sort((x, y) => x.equityPct - y.equityPct || x.url.localeCompare(y.url)).slice(0, 8)) rec(c.cluster, 'P3', 'money-page-equity', m.url + ' sits at the ' + m.equityPct + 'th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)', 'add a contextual link from a well-linked same-silo guide whose topic leads to this page');
   if (c.links.trueSiloOrphans) rec(c.cluster, 'P3', 'silo-orphans', c.links.trueSiloOrphans + ' article(s) receive neither an in-body link nor a related card from their own silo: ' + c.links.trueSiloOrphansList.slice(0, 8).join(', ') + (c.links.trueSiloOrphans > 8 ? ' …' : ''), 'add the article to the internal_link_targets of a same-subcluster guide (related-links-fill.js --same-silo) or link it from same-silo prose');
   if (c.articles && c.links.inSiloShare < 50) rec(c.cluster, 'P3', 'silo-leak', 'only ' + c.links.inSiloShare + '% of in-body links from this silo stay inside it', 'review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links');
   for (const g of c.demand.gaps) rec(c.cluster, 'P3', 'demand-gap', '"' + g.keyword + '" (' + Object.entries(g.volume || {}).map(([m, v]) => m + ' ' + v).join(', ') + ') has no serving URL', 'serve it inside an existing guide of this silo or record it as not a target (no new article)');
@@ -226,7 +238,12 @@ const summary = {
   hubsWithFewerThan3StartHere: clusters.filter(c => c.hub && c.hub.startHereLinks < 3).length,
   demandByMarket: Object.fromEntries(markets.map(m => [m, { served: clusters.reduce((n, c) => n + (c.demand.volume[m] || 0), 0) + ((demand['(site)'] && demand['(site)'].volume[m]) || 0), total: matrix.summary.keywordUniverse.volumeByMarket[m].core }])),
   keywordClusters: keywordClusters.length, splitFamilies: splitFamilies.length, serpVerifiedSplits: serpVerifiedSplits.length, serpQuestionsServed: register.filter(g => g.servedBy).length, serpGaps: serpGaps.length,
-  recommendations: recs.reduce((o, r) => (o[r.severity] = (o[r.severity] || 0) + 1, o), {}), missing
+  recommendations: recs.reduce((o, r) => (o[r.severity] = (o[r.severity] || 0) + 1, o), {}), missing,
+  contextualEquity: {
+    method: 'PageRank, damping 0.85, over in-body links and related cards from the source tree; site-wide percentile',
+    top: Object.keys(ctxRank).sort((a, b) => ctxRank[b] - ctxRank[a] || a.localeCompare(b)).slice(0, 10).map(u => ({ url: u, sitePct: sitePct[u] })),
+    keywordOwners: [...new Set((kwTargets.groups || []).filter(g => g.group === 'Core Keywords').flatMap(g => g.keywords.filter(k => !k.variant_of).map(k => k.owner)))].sort().map(u => ({ url: u, sitePct: nodes[u] ? sitePct[u] : null, inBody: inBody[u] ? inBody[u].size : 0 }))
+  }
 };
 const crossSiloEdges = Object.entries(crossEdges).map(([k, v]) => ({ from: k.split('>')[0], to: k.split('>')[1], links: v })).sort((a, b) => b.links - a.links || a.from.localeCompare(b.from) || a.to.localeCompare(b.to));
 fs.mkdirSync(OUT_DIR, { recursive: true });
@@ -236,6 +253,7 @@ let md = '# Topical map (Pillar–Hub–Silo)\n\n';
 md += 'Generated ' + TODAY + ' by `scripts/topical-map.js` from the source tree, `docs/seo/keyword-targets.json`, the English SEO Master Matrix (`docs/seo/english-seo-master-matrix.json`: keyword-universe mapping, content gap register, priorities) and the research evidence. **Mode: ' + summary.mode + '.** Demand figures are third-party monthly estimates per market already mapped to serving URLs by the matrix engine; they are prioritisation evidence, never facts to publish. Every recommendation is REVIEW_REQUIRED: tooling never creates articles, rewrites prose or changes a URL.\n\n';
 if (missing.length) md += '> Missing inputs: ' + missing.join('; ') + '\n\n';
 md += '## Site summary\n\n- Clusters: ' + summary.clusters + ' (pillar hubs) · articles: ' + summary.articles + '\n- In-body links inside their silo: ' + summary.inSiloBodyLinks + ' (' + summary.inSiloShare + '%) · cross-silo: ' + summary.crossSiloBodyLinks + '\n- Articles with no in-body inbound link from their own silo: ' + summary.articlesWithoutInSiloInbound + ' (of which ' + summary.trueSiloOrphans + ' also have no related card from their silo: the true silo orphans)\n- Hubs curating fewer than 3 start-here links: ' + summary.hubsWithFewerThan3StartHere + '\n- Demand served (core keywords, by market): ' + Object.entries(summary.demandByMarket).map(([m, v]) => m.toUpperCase() + ' ' + v.served + '/' + v.total).join(', ') + '\n- Keyword clusters (serving URLs): ' + summary.keywordClusters + ' · split keyword families: ' + summary.splitFamilies + '\n- SERP questions served: ' + summary.serpQuestionsServed + ' · unserved: ' + summary.serpGaps + '\n- Recommendations: ' + Object.entries(summary.recommendations).map(([k, v]) => k + ' ' + v).join(', ') + '\n\n';
+md += '## Contextual link equity\n\nA PageRank model (damping 0.85) over in-body links and related cards only, computed from the source tree; the shared navigation and generated hub listings are left out because they reach every page alike. Percentiles compare pages of this site with each other; they are not a Google measure. Method learnt from WebKnoGraph (see `docs/seo/research/github-seo-skills.md`).\n\n- Highest contextual equity: ' + summary.contextualEquity.top.map(t => t.url + ' (' + t.sitePct + ')').join(', ') + '\n- Core keyword owners: ' + summary.contextualEquity.keywordOwners.map(o => o.url + ' (' + (o.sitePct == null ? 'n/a' : o.sitePct) + ', ' + o.inBody + ' in-body inbound)').join(', ') + '\n\n';
 md += '## Cluster table\n\n| Cluster | Hub | Articles (commercial) | Avg words | Review required | P1/P2 | In-silo links | Cross out/in | In-silo share | No in-silo inbound | Start-here links | Owned keywords (full) | Demand ' + markets.map(m => m.toUpperCase()).join('/') + ' | SERP Qs | Recs |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n';
 for (const c of clusters) md += '| ' + c.cluster + ' | ' + (c.hub ? mdCell(c.hub.title) : '(missing)') + ' | ' + c.articles + ' (' + c.commercial + ') | ' + c.words.avg + ' | ' + c.review.reviewRequired + ' | ' + c.priorities.P1 + '/' + c.priorities.P2 + ' | ' + c.links.inSiloBody + ' | ' + c.links.crossSiloOut + '/' + c.links.crossSiloIn + ' | ' + c.links.inSiloShare + '% | ' + c.links.articlesWithoutInSiloInbound + ' | ' + (c.hub ? c.hub.startHereLinks : 0) + ' | ' + c.keywords.owned + ' (' + c.keywords.coveredFull + ') | ' + markets.map(m => c.demand.volume[m] || 0).join('/') + ' | ' + c.serp.questionsServed + ' | ' + c.recommendations.length + ' |\n';
 md += '\n## Clusters\n\n';

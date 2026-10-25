@@ -37,7 +37,7 @@ faq:
 
 ## What a monthly rental is
 
-You rent one bike for a fixed period — usually a month at a time — at a monthly rate, with a deposit held for the term. Nguyen Tu's rental periods run daily, weekly and monthly, with longer-term arrangements negotiable with the customer: contact us to discuss longer-term rental. The published monthly rates that exist are listed in [Motorbike Rental Monthly Prices in Hanoi]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }}); for models without a published monthly rate, contact us to confirm the current monthly price and availability.
+You rent one bike for a fixed period — usually a month at a time — at a monthly rate, with a deposit held for the term. [Nguyen Tu's]({{ '/' | relative_url }}) rental periods run daily, weekly and monthly, with longer-term arrangements negotiable with the customer: contact us to discuss longer-term rental. The published monthly rates that exist are listed in [Motorbike Rental Monthly Prices in Hanoi]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }}); for models without a published monthly rate, contact us to confirm the current monthly price and availability.
 
 ## What changes compared with daily rental
 

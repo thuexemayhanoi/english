@@ -4,7 +4,7 @@
   "mode": "ZERO-DATA",
   "clusters": 14,
   "articles": 981,
-  "inSiloBodyLinks": 2415,
+  "inSiloBodyLinks": 2414,
   "crossSiloBodyLinks": 1225,
   "inSiloShare": 66,
   "articlesWithoutInSiloInbound": 236,
@@ -28,23 +28,85 @@
     "total": 50000
    }
   },
-  "keywordClusters": 27,
+  "keywordClusters": 28,
   "splitFamilies": 0,
   "serpVerifiedSplits": 1,
   "serpQuestionsServed": 219,
   "serpGaps": 22,
   "recommendations": {
-   "P3": 6
+   "P3": 29
   },
-  "missing": []
+  "missing": [],
+  "contextualEquity": {
+   "method": "PageRank, damping 0.85, over in-body links and related cards from the source tree; site-wide percentile",
+   "top": [
+    {
+     "url": "/articles/can-tourists-ride-motorbike-vietnam/",
+     "sitePct": 100
+    },
+    {
+     "url": "/articles/idp-vietnam-motorbike-rules/",
+     "sitePct": 100
+    },
+    {
+     "url": "/articles/motorbike-fines-vietnam-overview/",
+     "sitePct": 100
+    },
+    {
+     "url": "/articles/vietnam-motorbike-licence-classes-explained/",
+     "sitePct": 100
+    },
+    {
+     "url": "/articles/a1-licence-vietnam-what-you-can-ride/",
+     "sitePct": 100
+    },
+    {
+     "url": "/articles/rental-motorbike-inspection-checklist/",
+     "sitePct": 100
+    },
+    {
+     "url": "/articles/helmet-law-vietnam/",
+     "sitePct": 99
+    },
+    {
+     "url": "/articles/1968-vienna-convention-idp-vietnam/",
+     "sitePct": 99
+    },
+    {
+     "url": "/articles/documents-to-carry-motorbike-vietnam/",
+     "sitePct": 99
+    },
+    {
+     "url": "/articles/outside-repair-shops-rental-motorbike/",
+     "sitePct": 99
+    }
+   ],
+   "keywordOwners": [
+    {
+     "url": "/",
+     "sitePct": 87,
+     "inBody": 6
+    },
+    {
+     "url": "/articles/best-scooters-to-rent-hanoi/",
+     "sitePct": 92,
+     "inBody": 10
+    },
+    {
+     "url": "/articles/how-to-rent-a-motorbike-hanoi/",
+     "sitePct": 98,
+     "inBody": 18
+    }
+   ]
+  }
  },
  "clusters": [
   {
    "cluster": "rental",
    "hub": {
     "url": "/topics/rental/",
-    "title": "Hanoi Motorbike Rental",
-    "words": 341,
+    "title": "Hanoi Rental Guides: Prices, Deposits, Documents, Returns",
+    "words": 371,
     "startHereLinks": 22,
     "startHereOwnCluster": 21
    },
@@ -75,7 +137,7 @@
     "P3": 81
    },
    "links": {
-    "inSiloBody": 470,
+    "inSiloBody": 469,
     "crossSiloOut": 173,
     "crossSiloIn": 269,
     "inSiloShare": 73,
@@ -102,7 +164,7 @@
     },
     {
      "url": "/articles/motorbike-rental-price-hanoi/",
-     "inbound": 26,
+     "inbound": 27,
      "related": 22
     },
     {
@@ -112,13 +174,14 @@
     },
     {
      "url": "/articles/motorbike-rental-pickup-or-delivery-hanoi/",
-     "inbound": 23,
+     "inbound": 24,
      "related": 19
     }
    ],
    "moneyPages": [
     {
      "url": "/articles/best-bike-for-english-teachers-hanoi/",
+     "equityPct": 31,
      "inbound": 3,
      "inSiloInbound": 2,
      "related": 2,
@@ -126,6 +189,7 @@
     },
     {
      "url": "/articles/best-motorbike-for-expats-hanoi/",
+     "equityPct": 24,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 5,
@@ -133,6 +197,7 @@
     },
     {
      "url": "/articles/best-motorbike-for-long-distance-vietnam/",
+     "equityPct": 63,
      "inbound": 12,
      "inSiloInbound": 2,
      "related": 19,
@@ -140,6 +205,7 @@
     },
     {
      "url": "/articles/best-motorbike-for-two-people-hanoi/",
+     "equityPct": 45,
      "inbound": 8,
      "inSiloInbound": 2,
      "related": 10,
@@ -147,6 +213,7 @@
     },
     {
      "url": "/articles/motorbike-rental-digital-nomads-hanoi/",
+     "equityPct": 11,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -154,6 +221,7 @@
     },
     {
      "url": "/articles/renting-motorbike-long-bien/",
+     "equityPct": 4,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -161,6 +229,7 @@
     },
     {
      "url": "/articles/best-motorbike-for-students-hanoi/",
+     "equityPct": 30,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 9,
@@ -168,6 +237,7 @@
     },
     {
      "url": "/articles/best-motorbikes-for-tall-riders-vietnam/",
+     "equityPct": 55,
      "inbound": 12,
      "inSiloInbound": 3,
      "related": 6,
@@ -175,6 +245,7 @@
     },
     {
      "url": "/articles/lightest-motorbikes-for-new-riders/",
+     "equityPct": 40,
      "inbound": 5,
      "inSiloInbound": 3,
      "related": 14,
@@ -182,6 +253,7 @@
     },
     {
      "url": "/articles/motorbike-rental-english-teachers-hanoi/",
+     "equityPct": 13,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 2,
@@ -189,6 +261,7 @@
     },
     {
      "url": "/articles/motorbike-rental-international-students-hanoi/",
+     "equityPct": 18,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 2,
@@ -196,6 +269,7 @@
     },
     {
      "url": "/articles/renting-motorbike-ba-dinh/",
+     "equityPct": 9,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 2,
@@ -203,6 +277,7 @@
     },
     {
      "url": "/articles/renting-motorbike-dong-da/",
+     "equityPct": 3,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 2,
@@ -210,6 +285,7 @@
     },
     {
      "url": "/articles/renting-motorbike-hai-ba-trung/",
+     "equityPct": 8,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 2,
@@ -217,6 +293,7 @@
     },
     {
      "url": "/articles/renting-motorbike-hoan-kiem/",
+     "equityPct": 25,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 2,
@@ -224,13 +301,15 @@
     },
     {
      "url": "/articles/renting-motorbike-tay-ho/",
-     "inbound": 3,
+     "equityPct": 28,
+     "inbound": 4,
      "inSiloInbound": 3,
      "related": 1,
      "priority": "P3"
     },
     {
      "url": "/articles/renting-motorbike-thanh-xuan/",
+     "equityPct": 5,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 2,
@@ -238,6 +317,7 @@
     },
     {
      "url": "/articles/motorbike-rental-expats-moving-hanoi/",
+     "equityPct": 19,
      "inbound": 5,
      "inSiloInbound": 4,
      "related": 3,
@@ -245,6 +325,7 @@
     },
     {
      "url": "/articles/motorbike-rental-tourists-hanoi-essentials/",
+     "equityPct": 38,
      "inbound": 4,
      "inSiloInbound": 4,
      "related": 2,
@@ -252,6 +333,7 @@
     },
     {
      "url": "/articles/renting-motorbike-cau-giay/",
+     "equityPct": 6,
      "inbound": 5,
      "inSiloInbound": 4,
      "related": 2,
@@ -259,6 +341,7 @@
     },
     {
      "url": "/articles/renting-motorbike-hanoi-one-day/",
+     "equityPct": 35,
      "inbound": 5,
      "inSiloInbound": 4,
      "related": 1,
@@ -266,13 +349,15 @@
     },
     {
      "url": "/articles/renting-motorbike-old-quarter/",
-     "inbound": 6,
+     "equityPct": 36,
+     "inbound": 7,
      "inSiloInbound": 4,
      "related": 6,
      "priority": "P3"
     },
     {
      "url": "/articles/renting-motorbike-six-months-hanoi/",
+     "equityPct": 48,
      "inbound": 7,
      "inSiloInbound": 4,
      "related": 2,
@@ -280,6 +365,7 @@
     },
     {
      "url": "/articles/renting-motorbikes-group-hanoi/",
+     "equityPct": 21,
      "inbound": 5,
      "inSiloInbound": 4,
      "related": 1,
@@ -287,6 +373,7 @@
     },
     {
      "url": "/articles/scooter-vs-semi-automatic-hanoi/",
+     "equityPct": 43,
      "inbound": 11,
      "inSiloInbound": 5,
      "related": 8,
@@ -294,6 +381,7 @@
     },
     {
      "url": "/articles/best-bike-for-hanoi-old-quarter/",
+     "equityPct": 33,
      "inbound": 7,
      "inSiloInbound": 6,
      "related": 5,
@@ -301,6 +389,7 @@
     },
     {
      "url": "/articles/best-motorbike-for-hanoi-traffic/",
+     "equityPct": 78,
      "inbound": 8,
      "inSiloInbound": 7,
      "related": 26,
@@ -308,13 +397,15 @@
     },
     {
      "url": "/articles/best-scooters-to-rent-hanoi/",
-     "inbound": 9,
+     "equityPct": 69,
+     "inbound": 10,
      "inSiloInbound": 7,
      "related": 13,
      "priority": "P3"
     },
     {
      "url": "/articles/easiest-motorbikes-for-beginners-hanoi/",
+     "equityPct": 66,
      "inbound": 14,
      "inSiloInbound": 7,
      "related": 22,
@@ -322,6 +413,7 @@
     },
     {
      "url": "/articles/automatic-vs-manual-motorbike-hanoi/",
+     "equityPct": 80,
      "inbound": 14,
      "inSiloInbound": 8,
      "related": 27,
@@ -329,6 +421,7 @@
     },
     {
      "url": "/articles/best-motorbike-for-commuting-hanoi/",
+     "equityPct": 76,
      "inbound": 13,
      "inSiloInbound": 9,
      "related": 29,
@@ -336,6 +429,7 @@
     },
     {
      "url": "/articles/best-motorbike-for-day-trips-from-hanoi/",
+     "equityPct": 73,
      "inbound": 17,
      "inSiloInbound": 10,
      "related": 41,
@@ -343,6 +437,7 @@
     },
     {
      "url": "/articles/daily-weekly-monthly-motorbike-rental-hanoi/",
+     "equityPct": 74,
      "inbound": 14,
      "inSiloInbound": 11,
      "related": 19,
@@ -350,45 +445,18 @@
     },
     {
      "url": "/articles/motorbike-rental-price-hanoi/",
-     "inbound": 26,
+     "equityPct": 90,
+     "inbound": 27,
      "inSiloInbound": 20,
      "related": 22,
      "priority": "P3"
     }
    ],
    "keywords": {
-    "owned": 31,
-    "ownedPrimary": 14,
-    "coveredFull": 23,
+    "owned": 26,
+    "ownedPrimary": 13,
+    "coveredFull": 20,
     "list": [
-     {
-      "keyword": "Hanoi motorbike rental",
-      "owner": "/topics/rental/",
-      "coverage": "full",
-      "variant": false,
-      "gap": false
-     },
-     {
-      "keyword": "Motorbike rental Hanoi",
-      "owner": "/topics/rental/",
-      "coverage": "full",
-      "variant": true,
-      "gap": false
-     },
-     {
-      "keyword": "Motorcycle rental Hanoi",
-      "owner": "/topics/rental/",
-      "coverage": "full",
-      "variant": true,
-      "gap": false
-     },
-     {
-      "keyword": "Best motorbike rental Hanoi",
-      "owner": "/topics/rental/",
-      "coverage": "partial",
-      "variant": true,
-      "gap": false
-     },
      {
       "keyword": "Rent a motorbike in Hanoi",
       "owner": "/articles/how-to-rent-a-motorbike-hanoi/",
@@ -516,13 +584,6 @@
       "gap": false
      },
      {
-      "keyword": "Motorbike hire Hanoi",
-      "owner": "/topics/rental/",
-      "coverage": "partial",
-      "variant": true,
-      "gap": false
-     },
-     {
       "keyword": "Hanoi motorbike rental cost",
       "owner": "/articles/motorbike-rental-price-hanoi/",
       "coverage": "full",
@@ -581,98 +642,161 @@
     ]
    },
    "demand": {
-    "keywords": 24,
+    "keywords": 8,
     "weak": 0,
     "volume": {
-     "us": 960,
-     "vn": 8360,
-     "au": 10,
-     "uk": 10
+     "vn": 80,
+     "us": 70
     },
     "top": [
      {
-      "keyword": "hanoi motorbike rental",
+      "keyword": "hanoi motorbike rental cost",
       "volume": {
-       "us": 110,
-       "vn": 2400
+       "vn": 30,
+       "us": 10
       },
-      "servedBy": "/topics/rental/",
+      "servedBy": "/articles/motorbike-rental-price-hanoi/",
       "strength": "owner"
      },
      {
-      "keyword": "motorbike rental hanoi",
+      "keyword": "motorbike rental hanoi old quarter",
       "volume": {
-       "vn": 2400,
-       "us": 110
+       "vn": 20,
+       "us": 10
       },
-      "servedBy": "/topics/rental/",
+      "servedBy": "/articles/renting-motorbike-old-quarter/",
       "strength": "owner"
      },
      {
-      "keyword": "rental motorbike hanoi",
+      "keyword": "buying a motorbike in hanoi",
       "volume": {
-       "vn": 2400,
-       "us": 110
+       "vn": 10
       },
-      "servedBy": "/topics/rental/",
-      "strength": "owner"
-     },
-     {
-      "keyword": "hanoi motorbike",
-      "volume": {
-       "us": 70,
-       "vn": 1000
-      },
-      "servedBy": "/topics/rental/",
+      "servedBy": "/articles/renting-vs-buying-a-motorbike-hanoi/",
       "strength": "title"
      },
      {
-      "keyword": "hanoi motorbike rent",
+      "keyword": "cheap motorbike rental hanoi",
       "volume": {
-       "us": 110
+       "vn": 10,
+       "us": 10
       },
-      "servedBy": "/topics/rental/",
+      "servedBy": "/articles/motorbike-rental-price-hanoi/",
       "strength": "owner"
      },
      {
-      "keyword": "hanoi motorbike rentals",
+      "keyword": "motorbike rental hanoi price",
       "volume": {
-       "us": 110
+       "vn": 10,
+       "us": 10
       },
-      "servedBy": "/topics/rental/",
+      "servedBy": "/articles/motorbike-rental-price-hanoi/",
       "strength": "owner"
      },
      {
-      "keyword": "hanoi rent motorbike",
+      "keyword": "motorbike rental old quarter hanoi",
       "volume": {
-       "us": 110
+       "us": 10
       },
-      "servedBy": "/topics/rental/",
+      "servedBy": "/articles/renting-motorbike-old-quarter/",
       "strength": "owner"
      },
      {
-      "keyword": "motorbike rental hanoi vietnam",
+      "keyword": "scooter rental vietnam price",
       "volume": {
-       "us": 110
+       "us": 10
       },
-      "servedBy": "/topics/rental/",
+      "servedBy": "/articles/motorbike-rental-price-hanoi/",
+      "strength": "owner"
+     },
+     {
+      "keyword": "vietnam scooter rental price",
+      "volume": {
+       "us": 10
+      },
+      "servedBy": "/articles/motorbike-rental-price-hanoi/",
       "strength": "owner"
      }
     ],
     "gaps": []
    },
    "serp": {
-    "questionsServed": 40,
+    "questionsServed": 37,
     "sample": [
      "Scooter rental Vietnam price",
      "How much does it cost to rent a motorcycle in Vietnam?",
      "Can tourists rent a motorbike in vietnam without",
      "Can tourists rent a motorbike in vietnam for a day",
-     "Motorbike rental Hanoi",
-     "How much is bike rental in Hanoi?"
+     "How much is bike rental in Hanoi?",
+     "How much does it cost to rent a scooter in Hanoi?"
     ]
    },
-   "recommendations": []
+   "recommendations": [
+    {
+     "cluster": "rental",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/renting-motorbike-dong-da/ sits at the 3th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "rental",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/renting-motorbike-long-bien/ sits at the 4th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "rental",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/renting-motorbike-thanh-xuan/ sits at the 5th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "rental",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/renting-motorbike-cau-giay/ sits at the 6th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "rental",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/renting-motorbike-hai-ba-trung/ sits at the 8th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "rental",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/renting-motorbike-ba-dinh/ sits at the 9th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "rental",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/motorbike-rental-digital-nomads-hanoi/ sits at the 11th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "rental",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/motorbike-rental-english-teachers-hanoi/ sits at the 13th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    }
+   ]
   },
   {
    "cluster": "monthly-rental",
@@ -745,14 +869,15 @@
      "related": 8
     },
     {
-     "url": "/articles/motorbike-rental-agreement-long-term-hanoi/",
+     "url": "/articles/monthly-motorbike-rental-hanoi/",
      "inbound": 9,
-     "related": 15
+     "related": 25
     }
    ],
    "moneyPages": [
     {
      "url": "/articles/e-bike-monthly-rental-hanoi/",
+     "equityPct": 61,
      "inbound": 4,
      "inSiloInbound": 2,
      "related": 3,
@@ -760,6 +885,7 @@
     },
     {
      "url": "/articles/renting-motorbike-year-hanoi/",
+     "equityPct": 14,
      "inbound": 4,
      "inSiloInbound": 2,
      "related": 2,
@@ -767,6 +893,7 @@
     },
     {
      "url": "/articles/english-teachers-monthly-motorbike-hanoi/",
+     "equityPct": 59,
      "inbound": 4,
      "inSiloInbound": 3,
      "related": 3,
@@ -774,6 +901,7 @@
     },
     {
      "url": "/articles/expats-monthly-motorbike-hanoi/",
+     "equityPct": 32,
      "inbound": 4,
      "inSiloInbound": 3,
      "related": 2,
@@ -781,6 +909,7 @@
     },
     {
      "url": "/articles/families-monthly-motorbike-hanoi/",
+     "equityPct": 18,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 2,
@@ -788,6 +917,7 @@
     },
     {
      "url": "/articles/nomads-monthly-motorbike-hanoi/",
+     "equityPct": 30,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 1,
@@ -795,6 +925,7 @@
     },
     {
      "url": "/articles/students-semester-motorbike-rental-hanoi/",
+     "equityPct": 27,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 2,
@@ -802,6 +933,7 @@
     },
     {
      "url": "/articles/two-motorbikes-household-hanoi/",
+     "equityPct": 9,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 1,
@@ -809,13 +941,15 @@
     },
     {
      "url": "/articles/monthly-motorbike-rental-hanoi/",
-     "inbound": 8,
+     "equityPct": 95,
+     "inbound": 9,
      "inSiloInbound": 4,
      "related": 25,
      "priority": "P3"
     },
     {
      "url": "/articles/three-month-motorbike-rental-hanoi/",
+     "equityPct": 70,
      "inbound": 6,
      "inSiloInbound": 4,
      "related": 4,
@@ -823,6 +957,7 @@
     },
     {
      "url": "/articles/motorbike-rental-deposit-monthly-hanoi/",
+     "equityPct": 73,
      "inbound": 9,
      "inSiloInbound": 9,
      "related": 4,
@@ -830,6 +965,7 @@
     },
     {
      "url": "/articles/motorbike-rental-monthly-price-hanoi/",
+     "equityPct": 86,
      "inbound": 16,
      "inSiloInbound": 11,
      "related": 11,
@@ -881,7 +1017,32 @@
      "Best monthly motorbike rental hanoi"
     ]
    },
-   "recommendations": []
+   "recommendations": [
+    {
+     "cluster": "monthly-rental",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/two-motorbikes-household-hanoi/ sits at the 9th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "monthly-rental",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/renting-motorbike-year-hanoi/ sits at the 14th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "monthly-rental",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/families-monthly-motorbike-hanoi/ sits at the 18th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    }
+   ]
   },
   {
    "cluster": "scooters",
@@ -968,6 +1129,7 @@
    "moneyPages": [
     {
      "url": "/articles/best-155-160cc-scooters-vietnam/",
+     "equityPct": 64,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 8,
@@ -975,6 +1137,7 @@
     },
     {
      "url": "/articles/best-scooters-hanoi-hills-bridges/",
+     "equityPct": 25,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -982,6 +1145,7 @@
     },
     {
      "url": "/articles/best-scooters-long-distance-touring-vietnam/",
+     "equityPct": 39,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -989,6 +1153,7 @@
     },
     {
      "url": "/articles/best-scooters-rainy-season-commuting-vietnam/",
+     "equityPct": 45,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -996,6 +1161,7 @@
     },
     {
      "url": "/articles/best-scooters-tall-riders-vietnam/",
+     "equityPct": 37,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1003,6 +1169,7 @@
     },
     {
      "url": "/articles/honda-air-blade-125-vs-honda-vario-125/",
+     "equityPct": 42,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1010,6 +1177,7 @@
     },
     {
      "url": "/articles/honda-air-blade-160-vs-honda-lead-125/",
+     "equityPct": 59,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 5,
@@ -1017,6 +1185,7 @@
     },
     {
      "url": "/articles/honda-lead-125-vs-honda-vario-160/",
+     "equityPct": 24,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1024,6 +1193,7 @@
     },
     {
      "url": "/articles/honda-lead-vs-yamaha-grande/",
+     "equityPct": 62,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 6,
@@ -1031,6 +1201,7 @@
     },
     {
      "url": "/articles/honda-sh-160-vs-honda-vario-160/",
+     "equityPct": 23,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1038,6 +1209,7 @@
     },
     {
      "url": "/articles/honda-sh-mode-125-vs-honda-air-blade-160/",
+     "equityPct": 50,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1045,6 +1217,7 @@
     },
     {
      "url": "/articles/honda-sh-mode-125-vs-honda-lead-125/",
+     "equityPct": 38,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1052,6 +1225,7 @@
     },
     {
      "url": "/articles/honda-sh-mode-125-vs-honda-sh-160/",
+     "equityPct": 70,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 8,
@@ -1059,6 +1233,7 @@
     },
     {
      "url": "/articles/honda-vario-125-vs-honda-lead-125/",
+     "equityPct": 56,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 5,
@@ -1066,6 +1241,7 @@
     },
     {
      "url": "/articles/honda-vario-125-vs-yamaha-latte-125/",
+     "equityPct": 8,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1073,6 +1249,7 @@
     },
     {
      "url": "/articles/honda-vario-160-vs-honda-air-blade-160/",
+     "equityPct": 51,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1080,6 +1257,7 @@
     },
     {
      "url": "/articles/honda-vario-160-vs-yamaha-nvx-155/",
+     "equityPct": 67,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 6,
@@ -1087,6 +1265,7 @@
     },
     {
      "url": "/articles/honda-vision-vs-honda-lead-125/",
+     "equityPct": 55,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1094,6 +1273,7 @@
     },
     {
      "url": "/articles/honda-vision-vs-honda-vario-125/",
+     "equityPct": 43,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -1101,6 +1281,7 @@
     },
     {
      "url": "/articles/honda-vision-vs-yamaha-janus/",
+     "equityPct": 83,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 9,
@@ -1108,6 +1289,7 @@
     },
     {
      "url": "/articles/which-scooter-engine-class-vietnam/",
+     "equityPct": 31,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1115,6 +1297,7 @@
     },
     {
      "url": "/articles/yamaha-freego-125-vs-honda-air-blade-125/",
+     "equityPct": 12,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1122,6 +1305,7 @@
     },
     {
      "url": "/articles/yamaha-freego-125-vs-honda-vario-125/",
+     "equityPct": 15,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -1129,6 +1313,7 @@
     },
     {
      "url": "/articles/yamaha-gear-125-vs-honda-vision/",
+     "equityPct": 26,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1136,6 +1321,7 @@
     },
     {
      "url": "/articles/yamaha-gear-125-vs-yamaha-freego-125/",
+     "equityPct": 7,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -1143,6 +1329,7 @@
     },
     {
      "url": "/articles/yamaha-gear-125-vs-yamaha-janus-125/",
+     "equityPct": 48,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 6,
@@ -1150,6 +1337,7 @@
     },
     {
      "url": "/articles/yamaha-grande-vs-honda-vision/",
+     "equityPct": 35,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1157,6 +1345,7 @@
     },
     {
      "url": "/articles/yamaha-janus-125-vs-honda-lead-125/",
+     "equityPct": 21,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1164,6 +1353,7 @@
     },
     {
      "url": "/articles/yamaha-janus-vs-yamaha-freego/",
+     "equityPct": 60,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 7,
@@ -1171,6 +1361,7 @@
     },
     {
      "url": "/articles/yamaha-latte-125-vs-honda-lead-125/",
+     "equityPct": 28,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1178,6 +1369,7 @@
     },
     {
      "url": "/articles/yamaha-latte-125-vs-yamaha-gear-125/",
+     "equityPct": 34,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1185,6 +1377,7 @@
     },
     {
      "url": "/articles/yamaha-latte-vs-yamaha-grande/",
+     "equityPct": 33,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -1192,6 +1385,7 @@
     },
     {
      "url": "/articles/yamaha-lexi-155-vs-honda-sh-mode-125/",
+     "equityPct": 18,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1199,6 +1393,7 @@
     },
     {
      "url": "/articles/yamaha-lexi-155-vs-honda-vario-160/",
+     "equityPct": 6,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1206,6 +1401,7 @@
     },
     {
      "url": "/articles/yamaha-lexi-155-vs-yamaha-nmax-155/",
+     "equityPct": 14,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -1213,6 +1409,7 @@
     },
     {
      "url": "/articles/yamaha-nmax-155-vs-honda-air-blade-160/",
+     "equityPct": 47,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1220,6 +1417,7 @@
     },
     {
      "url": "/articles/yamaha-nmax-155-vs-honda-sh-160/",
+     "equityPct": 32,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 4,
@@ -1227,6 +1425,7 @@
     },
     {
      "url": "/articles/yamaha-nmax-155-vs-honda-vario-160/",
+     "equityPct": 17,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -1234,6 +1433,7 @@
     },
     {
      "url": "/articles/yamaha-nmax-155-vs-yamaha-nvx-155/",
+     "equityPct": 28,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 4,
@@ -1241,6 +1441,7 @@
     },
     {
      "url": "/articles/yamaha-nvx-155-vs-honda-air-blade-160/",
+     "equityPct": 57,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -1248,6 +1449,7 @@
     },
     {
      "url": "/articles/yamaha-nvx-155-vs-yamaha-lexi-155/",
+     "equityPct": 30,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1255,6 +1457,7 @@
     },
     {
      "url": "/articles/best-125cc-scooters-vietnam-verified/",
+     "equityPct": 58,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 5,
@@ -1262,6 +1465,7 @@
     },
     {
      "url": "/articles/best-scooters-delivery-riders-vietnam/",
+     "equityPct": 10,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 2,
@@ -1269,6 +1473,7 @@
     },
     {
      "url": "/articles/honda-vision-vs-honda-air-blade/",
+     "equityPct": 85,
      "inbound": 4,
      "inSiloInbound": 3,
      "related": 8,
@@ -1276,6 +1481,7 @@
     },
     {
      "url": "/articles/honda-vision-vs-yamaha-freego-125/",
+     "equityPct": 50,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 2,
@@ -1283,6 +1489,7 @@
     },
     {
      "url": "/articles/honda-vs-yamaha-scooters-vietnam/",
+     "equityPct": 94,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 14,
@@ -1290,6 +1497,7 @@
     },
     {
      "url": "/articles/longest-range-scooters-vietnam/",
+     "equityPct": 65,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 4,
@@ -1297,6 +1505,7 @@
     },
     {
      "url": "/articles/premium-scooters-vietnam/",
+     "equityPct": 84,
      "inbound": 4,
      "inSiloInbound": 3,
      "related": 10,
@@ -1304,6 +1513,7 @@
     },
     {
      "url": "/articles/scooters-under-40-million-vietnam/",
+     "equityPct": 22,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 2,
@@ -1311,6 +1521,7 @@
     },
     {
      "url": "/articles/scooters-with-usb-c-charging-verified/",
+     "equityPct": 61,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 3,
@@ -1318,6 +1529,7 @@
     },
     {
      "url": "/articles/new-scooter-prices-vietnam-verified/",
+     "equityPct": 68,
      "inbound": 4,
      "inSiloInbound": 4,
      "related": 8,
@@ -1459,7 +1671,72 @@
      "Scooter in Vietnam price"
     ]
    },
-   "recommendations": []
+   "recommendations": [
+    {
+     "cluster": "scooters",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/yamaha-lexi-155-vs-honda-vario-160/ sits at the 6th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "scooters",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/yamaha-gear-125-vs-yamaha-freego-125/ sits at the 7th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "scooters",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/honda-vario-125-vs-yamaha-latte-125/ sits at the 8th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "scooters",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/best-scooters-delivery-riders-vietnam/ sits at the 10th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "scooters",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/yamaha-freego-125-vs-honda-air-blade-125/ sits at the 12th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "scooters",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/yamaha-lexi-155-vs-yamaha-nmax-155/ sits at the 14th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "scooters",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/yamaha-freego-125-vs-honda-vario-125/ sits at the 15th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "scooters",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/yamaha-nmax-155-vs-honda-vario-160/ sits at the 17th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    }
+   ]
   },
   {
    "cluster": "motorcycles",
@@ -1546,6 +1823,7 @@
    "moneyPages": [
     {
      "url": "/articles/best-125cc-underbones-vietnam-verified/",
+     "equityPct": 88,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 15,
@@ -1553,6 +1831,7 @@
     },
     {
      "url": "/articles/best-honda-underbones-vietnam-verified/",
+     "equityPct": 33,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -1560,6 +1839,7 @@
     },
     {
      "url": "/articles/best-manual-clutch-motorbikes-beginners-verified/",
+     "equityPct": 77,
      "inbound": 4,
      "inSiloInbound": 2,
      "related": 4,
@@ -1567,6 +1847,7 @@
     },
     {
      "url": "/articles/best-underbones-beginner-riders-verified/",
+     "equityPct": 32,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1574,6 +1855,7 @@
     },
     {
      "url": "/articles/best-underbones-delivery-riders-verified/",
+     "equityPct": 19,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1581,6 +1863,7 @@
     },
     {
      "url": "/articles/best-underbones-hanoi-commuting-verified/",
+     "equityPct": 82,
      "inbound": 4,
      "inSiloInbound": 2,
      "related": 12,
@@ -1588,6 +1871,7 @@
     },
     {
      "url": "/articles/best-underbones-high-mileage-verified/",
+     "equityPct": 15,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1595,6 +1879,7 @@
     },
     {
      "url": "/articles/best-underbones-short-riders-verified/",
+     "equityPct": 24,
      "inbound": 3,
      "inSiloInbound": 2,
      "related": 4,
@@ -1602,6 +1887,7 @@
     },
     {
      "url": "/articles/best-underbones-tall-riders-verified/",
+     "equityPct": 25,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1609,6 +1895,7 @@
     },
     {
      "url": "/articles/best-underbones-two-up-verified/",
+     "equityPct": 30,
      "inbound": 3,
      "inSiloInbound": 2,
      "related": 2,
@@ -1616,6 +1903,7 @@
     },
     {
      "url": "/articles/cheapest-new-underbones-vietnam-verified/",
+     "equityPct": 80,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 11,
@@ -1623,6 +1911,7 @@
     },
     {
      "url": "/articles/fastest-motorbikes-under-155cc-vietnam-verified/",
+     "equityPct": 47,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -1630,6 +1919,7 @@
     },
     {
      "url": "/articles/honda-blade-vs-honda-cbr150r/",
+     "equityPct": 53,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1637,6 +1927,7 @@
     },
     {
      "url": "/articles/honda-blade-vs-honda-ct125/",
+     "equityPct": 58,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -1644,6 +1935,7 @@
     },
     {
      "url": "/articles/honda-blade-vs-honda-future-125/",
+     "equityPct": 66,
      "inbound": 3,
      "inSiloInbound": 2,
      "related": 2,
@@ -1651,6 +1943,7 @@
     },
     {
      "url": "/articles/honda-blade-vs-honda-super-cub-c125/",
+     "equityPct": 34,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1658,6 +1951,7 @@
     },
     {
      "url": "/articles/honda-blade-vs-honda-winner-r/",
+     "equityPct": 61,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1665,6 +1959,7 @@
     },
     {
      "url": "/articles/honda-blade-vs-yamaha-exciter-155/",
+     "equityPct": 49,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1672,6 +1967,7 @@
     },
     {
      "url": "/articles/honda-blade-vs-yamaha-sirius/",
+     "equityPct": 79,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 5,
@@ -1679,6 +1975,7 @@
     },
     {
      "url": "/articles/honda-cbr150r-vs-honda-ct125/",
+     "equityPct": 64,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1686,6 +1983,7 @@
     },
     {
      "url": "/articles/honda-cbr150r-vs-honda-future-125/",
+     "equityPct": 55,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1693,6 +1991,7 @@
     },
     {
      "url": "/articles/honda-cbr150r-vs-honda-super-cub/",
+     "equityPct": 52,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1700,6 +1999,7 @@
     },
     {
      "url": "/articles/honda-cbr150r-vs-honda-winner-r/",
+     "equityPct": 86,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 9,
@@ -1707,6 +2007,7 @@
     },
     {
      "url": "/articles/honda-cbr150r-vs-yamaha-exciter-155/",
+     "equityPct": 60,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1714,6 +2015,7 @@
     },
     {
      "url": "/articles/honda-ct125-vs-honda-super-cub-c125/",
+     "equityPct": 85,
      "inbound": 3,
      "inSiloInbound": 2,
      "related": 9,
@@ -1721,6 +2023,7 @@
     },
     {
      "url": "/articles/honda-ct125-vs-honda-winner-r/",
+     "equityPct": 62,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -1728,6 +2031,7 @@
     },
     {
      "url": "/articles/honda-ct125-vs-yamaha-exciter-155/",
+     "equityPct": 50,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1735,6 +2039,7 @@
     },
     {
      "url": "/articles/honda-ct125-vs-yamaha-sirius/",
+     "equityPct": 42,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1742,6 +2047,7 @@
     },
     {
      "url": "/articles/honda-future-125-vs-honda-ct125/",
+     "equityPct": 56,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -1749,6 +2055,7 @@
     },
     {
      "url": "/articles/honda-future-125-vs-honda-wave-rsx/",
+     "equityPct": 76,
      "inbound": 3,
      "inSiloInbound": 2,
      "related": 4,
@@ -1756,6 +2063,7 @@
     },
     {
      "url": "/articles/honda-future-125-vs-honda-winner-r/",
+     "equityPct": 69,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 4,
@@ -1763,6 +2071,7 @@
     },
     {
      "url": "/articles/honda-future-125-vs-yamaha-exciter-155/",
+     "equityPct": 45,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1770,6 +2079,7 @@
     },
     {
      "url": "/articles/honda-future-125-vs-yamaha-sirius/",
+     "equityPct": 41,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1777,6 +2087,7 @@
     },
     {
      "url": "/articles/honda-super-cub-c125-vs-honda-future-125/",
+     "equityPct": 70,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 4,
@@ -1784,6 +2095,7 @@
     },
     {
      "url": "/articles/honda-super-cub-vs-honda-winner-r/",
+     "equityPct": 73,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 5,
@@ -1791,6 +2103,7 @@
     },
     {
      "url": "/articles/honda-super-cub-vs-yamaha-exciter-155/",
+     "equityPct": 38,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1798,6 +2111,7 @@
     },
     {
      "url": "/articles/honda-super-cub-vs-yamaha-sirius/",
+     "equityPct": 36,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1805,6 +2119,7 @@
     },
     {
      "url": "/articles/honda-vs-yamaha-underbones-verified/",
+     "equityPct": 46,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1812,6 +2127,7 @@
     },
     {
      "url": "/articles/honda-wave-alpha-vs-honda-blade/",
+     "equityPct": 72,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -1819,6 +2135,7 @@
     },
     {
      "url": "/articles/honda-wave-alpha-vs-honda-cbr150r/",
+     "equityPct": 57,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1826,6 +2143,7 @@
     },
     {
      "url": "/articles/honda-wave-alpha-vs-honda-ct125/",
+     "equityPct": 50,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1833,6 +2151,7 @@
     },
     {
      "url": "/articles/honda-wave-alpha-vs-honda-future-125/",
+     "equityPct": 67,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -1840,6 +2159,7 @@
     },
     {
      "url": "/articles/honda-wave-alpha-vs-honda-super-cub/",
+     "equityPct": 44,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1847,6 +2167,7 @@
     },
     {
      "url": "/articles/honda-wave-alpha-vs-honda-wave-rsx/",
+     "equityPct": 71,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 5,
@@ -1854,6 +2175,7 @@
     },
     {
      "url": "/articles/honda-wave-alpha-vs-honda-winner-r/",
+     "equityPct": 78,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 5,
@@ -1861,6 +2183,7 @@
     },
     {
      "url": "/articles/honda-wave-alpha-vs-yamaha-exciter-155/",
+     "equityPct": 51,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1868,6 +2191,7 @@
     },
     {
      "url": "/articles/honda-wave-alpha-vs-yamaha-sirius/",
+     "equityPct": 79,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -1875,6 +2199,7 @@
     },
     {
      "url": "/articles/honda-wave-rsx-vs-honda-ct125/",
+     "equityPct": 54,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1882,6 +2207,7 @@
     },
     {
      "url": "/articles/honda-wave-rsx-vs-honda-super-cub/",
+     "equityPct": 40,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1889,6 +2215,7 @@
     },
     {
      "url": "/articles/honda-wave-rsx-vs-honda-winner-r/",
+     "equityPct": 48,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1896,6 +2223,7 @@
     },
     {
      "url": "/articles/honda-wave-rsx-vs-yamaha-exciter-155/",
+     "equityPct": 59,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1903,6 +2231,7 @@
     },
     {
      "url": "/articles/honda-wave-rsx-vs-yamaha-sirius/",
+     "equityPct": 81,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 6,
@@ -1910,6 +2239,7 @@
     },
     {
      "url": "/articles/honda-winner-r-vs-yamaha-sirius/",
+     "equityPct": 65,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1917,6 +2247,7 @@
     },
     {
      "url": "/articles/longest-range-underbones-vietnam-verified/",
+     "equityPct": 28,
      "inbound": 4,
      "inSiloInbound": 2,
      "related": 2,
@@ -1924,6 +2255,7 @@
     },
     {
      "url": "/articles/most-comfortable-underbones-vietnam-verified/",
+     "equityPct": 31,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1931,6 +2263,7 @@
     },
     {
      "url": "/articles/most-fuel-efficient-underbones-vietnam-verified/",
+     "equityPct": 68,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 7,
@@ -1938,6 +2271,7 @@
     },
     {
      "url": "/articles/premium-underbones-vietnam-verified/",
+     "equityPct": 29,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -1945,6 +2279,7 @@
     },
     {
      "url": "/articles/underbone-buying-checklist-verified-specs/",
+     "equityPct": 43,
      "inbound": 4,
      "inSiloInbound": 2,
      "related": 3,
@@ -1952,6 +2287,7 @@
     },
     {
      "url": "/articles/underbone-list-prices-vietnam-ladder/",
+     "equityPct": 17,
      "inbound": 3,
      "inSiloInbound": 2,
      "related": 2,
@@ -1959,6 +2295,7 @@
     },
     {
      "url": "/articles/who-needs-150cc-manual-motorbike/",
+     "equityPct": 35,
      "inbound": 3,
      "inSiloInbound": 2,
      "related": 2,
@@ -1966,6 +2303,7 @@
     },
     {
      "url": "/articles/yamaha-sirius-vs-yamaha-exciter-155/",
+     "equityPct": 63,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -1973,6 +2311,7 @@
     },
     {
      "url": "/articles/honda-blade-vs-honda-wave-rsx/",
+     "equityPct": 74,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 4,
@@ -1980,6 +2319,7 @@
     },
     {
      "url": "/articles/honda-winner-r-vs-yamaha-exciter-155/",
+     "equityPct": 87,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 11,
@@ -1987,6 +2327,7 @@
     },
     {
      "url": "/articles/best-110cc-underbones-vietnam-verified/",
+     "equityPct": 98,
      "inbound": 5,
      "inSiloInbound": 4,
      "related": 22,
@@ -1994,6 +2335,7 @@
     },
     {
      "url": "/articles/best-150cc-manual-motorbikes-vietnam-verified/",
+     "equityPct": 97,
      "inbound": 6,
      "inSiloInbound": 4,
      "related": 26,
@@ -2178,7 +2520,40 @@
      "Vietnam motorcycle brands"
     ]
    },
-   "recommendations": []
+   "recommendations": [
+    {
+     "cluster": "motorcycles",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/best-underbones-high-mileage-verified/ sits at the 15th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "motorcycles",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/underbone-list-prices-vietnam-ladder/ sits at the 17th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "motorcycles",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/best-underbones-delivery-riders-verified/ sits at the 19th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    },
+    {
+     "cluster": "motorcycles",
+     "severity": "P3",
+     "rule": "money-page-equity",
+     "detail": "/articles/best-underbones-short-riders-verified/ sits at the 24th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+     "status": "REVIEW_REQUIRED"
+    }
+   ]
   },
   {
    "cluster": "manual-clutch",
@@ -2265,6 +2640,7 @@
    "moneyPages": [
     {
      "url": "/articles/buying-used-sport-underbone-verified/",
+     "equityPct": 72,
      "inbound": 3,
      "inSiloInbound": 2,
      "related": 3,
@@ -2272,6 +2648,7 @@
     },
     {
      "url": "/articles/honda-blade-drum-vs-disc/",
+     "equityPct": 74,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -2279,6 +2656,7 @@
     },
     {
      "url": "/articles/yamaha-pg-1-vs-honda-ct125/",
+     "equityPct": 37,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -2286,6 +2664,7 @@
     },
     {
      "url": "/articles/yamaha-pg-1-vs-honda-wave-rsx/",
+     "equityPct": 41,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -2293,6 +2672,7 @@
     },
     {
      "url": "/articles/yamaha-pg-1-vs-yamaha-sirius-rc/",
+     "equityPct": 61,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -2300,6 +2680,7 @@
     },
     {
      "url": "/articles/yamaha-sirius-fi-vs-sirius-rc/",
+     "equityPct": 65,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -2307,6 +2688,7 @@
     },
     {
      "url": "/articles/monthly-renting-manual-clutch-hanoi/",
+     "equityPct": 70,
      "inbound": 4,
      "inSiloInbound": 3,
      "related": 2,
@@ -2314,6 +2696,7 @@
     },
     {
      "url": "/articles/renting-semi-automatic-underbone-hanoi/",
+     "equityPct": 81,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 4,
@@ -2321,6 +2704,7 @@
     },
     {
      "url": "/articles/winner-r-exciter-155-ownership-costs/",
+     "equityPct": 76,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 4,
@@ -2441,14 +2825,14 @@
      "related": 1
     },
     {
+     "url": "/articles/renting-50cc-hanoi/",
+     "inbound": 7,
+     "related": 1
+    },
+    {
      "url": "/articles/50cc-pre-ride-checklist/",
      "inbound": 6,
      "related": 4
-    },
-    {
-     "url": "/articles/renting-50cc-hanoi/",
-     "inbound": 6,
-     "related": 1
     },
     {
      "url": "/articles/buying-50cc-for-your-teenager-vietnam/",
@@ -2631,6 +3015,7 @@
    "moneyPages": [
     {
      "url": "/articles/best-electric-moped-students-vietnam/",
+     "equityPct": 74,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 3,
@@ -2638,6 +3023,7 @@
     },
     {
      "url": "/articles/buying-first-electric-motorbike-vietnam/",
+     "equityPct": 76,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 7,
@@ -2645,6 +3031,7 @@
     },
     {
      "url": "/articles/buying-used-electric-motorbike-vietnam/",
+     "equityPct": 77,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 6,
@@ -2652,6 +3039,7 @@
     },
     {
      "url": "/articles/can-foreigners-rent-electric-bike-vietnam/",
+     "equityPct": 83,
      "inbound": 8,
      "inSiloInbound": 3,
      "related": 2,
@@ -2659,6 +3047,7 @@
     },
     {
      "url": "/articles/electric-motorbike-battery-replacement-vietnam/",
+     "equityPct": 80,
      "inbound": 6,
      "inSiloInbound": 6,
      "related": 8,
@@ -3500,18 +3889,36 @@
     ]
    },
    "demand": {
-    "keywords": 1,
+    "keywords": 3,
     "weak": 0,
     "volume": {
-     "us": 20
+     "us": 100,
+     "vn": 1000
     },
     "top": [
+     {
+      "keyword": "hanoi motorbike",
+      "volume": {
+       "us": 70,
+       "vn": 1000
+      },
+      "servedBy": "/topics/hanoi/",
+      "strength": "title"
+     },
      {
       "keyword": "motorbike tours hanoi",
       "volume": {
        "us": 20
       },
       "servedBy": "/articles/hanoi-guided-motorbike-tours-vs-self-riding/",
+      "strength": "title"
+     },
+     {
+      "keyword": "motorbike in hanoi",
+      "volume": {
+       "us": 10
+      },
+      "servedBy": "/topics/hanoi/",
       "strength": "title"
      }
     ],
@@ -4558,14 +4965,13 @@
    "flags": []
   },
   {
-   "url": "/topics/rental/",
-   "type": "hub",
-   "cluster": "rental",
+   "url": "/",
+   "type": "page",
+   "cluster": "",
    "keywords": [
     "hanoi motorbike rental",
     "motorbike rental hanoi",
     "rental motorbike hanoi",
-    "hanoi motorbike",
     "hanoi motorbike rent",
     "hanoi motorbike rentals",
     "hanoi rent motorbike",
@@ -4573,22 +4979,20 @@
     "hanoi motorbike hire",
     "motorbike hire hanoi",
     "best motorbike rental hanoi",
-    "motorbike in hanoi",
     "motorbike rental in hanoi",
     "motorbike rental in hanoi vietnam",
     "motorbike rental vietnam hanoi",
     "vietnam motorbike rental hanoi"
    ],
    "volume": {
-    "us": 890,
-    "vn": 8280,
+    "us": 810,
+    "vn": 7280,
     "au": 10,
     "uk": 10
    },
    "intents": {
     "commercial": 4,
-    "transactional": 10,
-    "informational": 2
+    "transactional": 10
    },
    "weak": 0,
    "flags": []
@@ -4669,6 +5073,24 @@
    "flags": [
     "mixed intent (3 commercial/transactional, 1 informational): keep one primary intent, let the hub carry the rest"
    ]
+  },
+  {
+   "url": "/topics/hanoi/",
+   "type": "hub",
+   "cluster": "hanoi",
+   "keywords": [
+    "hanoi motorbike",
+    "motorbike in hanoi"
+   ],
+   "volume": {
+    "us": 80,
+    "vn": 1000
+   },
+   "intents": {
+    "informational": 2
+   },
+   "weak": 0,
+   "flags": []
   },
   {
    "url": "/articles/buying-motorbike-as-tourist-vietnam/",
@@ -5126,11 +5548,195 @@
    "status": "REVIEW_REQUIRED"
   },
   {
+   "cluster": "monthly-rental",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/families-monthly-motorbike-hanoi/ sits at the 18th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "monthly-rental",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/renting-motorbike-year-hanoi/ sits at the 14th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "monthly-rental",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/two-motorbikes-household-hanoi/ sits at the 9th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "motorcycles",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/best-underbones-delivery-riders-verified/ sits at the 19th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "motorcycles",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/best-underbones-high-mileage-verified/ sits at the 15th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "motorcycles",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/best-underbones-short-riders-verified/ sits at the 24th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "motorcycles",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/underbone-list-prices-vietnam-ladder/ sits at the 17th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
    "cluster": "parts-gear",
    "severity": "P3",
    "rule": "silo-leak",
    "detail": "only 36% of in-body links from this silo stay inside it",
    "action": "review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "rental",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/motorbike-rental-digital-nomads-hanoi/ sits at the 11th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "rental",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/motorbike-rental-english-teachers-hanoi/ sits at the 13th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "rental",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/renting-motorbike-ba-dinh/ sits at the 9th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "rental",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/renting-motorbike-cau-giay/ sits at the 6th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "rental",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/renting-motorbike-dong-da/ sits at the 3th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "rental",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/renting-motorbike-hai-ba-trung/ sits at the 8th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "rental",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/renting-motorbike-long-bien/ sits at the 4th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "rental",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/renting-motorbike-thanh-xuan/ sits at the 5th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "scooters",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/best-scooters-delivery-riders-vietnam/ sits at the 10th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "scooters",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/honda-vario-125-vs-yamaha-latte-125/ sits at the 8th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "scooters",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/yamaha-freego-125-vs-honda-air-blade-125/ sits at the 12th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "scooters",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/yamaha-freego-125-vs-honda-vario-125/ sits at the 15th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "scooters",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/yamaha-gear-125-vs-yamaha-freego-125/ sits at the 7th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "scooters",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/yamaha-lexi-155-vs-honda-vario-160/ sits at the 6th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "scooters",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/yamaha-lexi-155-vs-yamaha-nmax-155/ sits at the 14th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "scooters",
+   "severity": "P3",
+   "rule": "money-page-equity",
+   "detail": "/articles/yamaha-nmax-155-vs-honda-vario-160/ sits at the 17th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
    "status": "REVIEW_REQUIRED"
   }
  ]

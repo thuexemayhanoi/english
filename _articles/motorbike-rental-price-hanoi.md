@@ -28,7 +28,7 @@ faq:
     a: "Cash, bank transfer and QR payment are accepted. Confirm the method when you book."
 ---
 
-The straight answer on [Hanoi motorbike rental]({{ '/topics/rental/' | relative_url }}) prices, from the published rate card. All figures are VND, all are per bike, and all assume the deposit on top.
+The straight answer on [Hanoi motorbike rental]({{ '/' | relative_url }}) prices, from the published rate card. All figures are VND, all are per bike, and all assume the deposit on top.
 
 ## Published daily rates
 
