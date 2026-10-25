@@ -70,7 +70,7 @@ Ask the shop what it wants to see at handover as well as what the law requires. 
 
 ### Age: the two thresholds
 
-Under Article 59 of Law 36/2024/QH15, which took effect on 1 January 2025, a person must be at least 16 to ride a moped and at least 18 to hold the A1 licence that covers ordinary scooters up to and including 125 cc ([Minimum Age to Ride a Motorbike in Vietnam]({{ '/articles/minimum-age-ride-motorbike-vietnam/' | relative_url }})). A moped has a design speed of no more than 50 km/h and a petrol engine of 50 cc or less or an electric motor of 4 kW or less. As an illustration, imagine a student on a school exchange who is 17: the standard 110–125 cc automatic is out of reach, and the licence-free moped class is the category open at that age. Ask the shop whether it applies a minimum age of its own.
+Under Article 59 of Law 36/2024/QH15, which took effect on 1 January 2025, a person must be at least 16 to ride a moped and at least 18 to hold the A1 licence that covers ordinary scooters up to and including 125 cc ([Minimum Age to Ride a Motorbike in Vietnam]({{ '/articles/minimum-age-ride-motorbike-vietnam/' | relative_url }})). A moped has a design speed of no more than 50 km/h and either a combustion engine of 50 cc or less or an electric motor of 4 kW or less. As an illustration, imagine a student on a school exchange who is 17: the standard 110–125 cc automatic is out of reach, and the licence-free moped class is the category open at that age. Ask the shop whether it applies a minimum age of its own.
 
 ### Home licence plus a 1968 IDP
 
@@ -98,7 +98,7 @@ Rental rates do not answer where the bike sleeps. Campuses, dormitories and rent
 - Is a bike allowed inside the grounds, and does the place restrict rented bikes or bikes registered to someone else?
 - Is there an overnight parking place, and is it attended, covered or fenced?
 - What does it cost, and how is it paid?
-- What does the place ask to see when you collect the bike? Ask at handover which registration papers travel with the bike.
+- What does the place ask to see when you collect the bike? Ask the shop at handover whether registration papers come with the bike, so you know what you can show.
 - What happens if a ticket or tag is lost?
 - If the bike is damaged or stolen on the premises, who is responsible?
 

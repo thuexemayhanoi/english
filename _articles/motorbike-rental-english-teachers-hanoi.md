@@ -19,7 +19,7 @@ sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 57: the international driving permit issued under the Vienna Convention lasts no more than three years from issue, must be consistent with the remaining validity of the national licence, and is carried together with an in-date national licence of the right class (retrieved 2026-10-25)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-12-2025-tt-bca-cua-bo-cong-an-quy-dinh-ve-sat-hach-cap-giay-phep-lai-xe-119250303174347028.htm — Circular 12/2025/TT-BCA, full text (Báo điện tử Chính phủ) — Article 24(1): who may have a foreign driving licence exchanged, the identity and residence documents the clause names, and the exclusions (retrieved 2026-10-25)"
-  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23) — underseat storage of the Honda Air Blade 125, Honda Wave RSX and Honda Wave Alpha 110"
+  - "Manufacturer official pages: honda.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23) — underseat storage of the Honda Air Blade 125, Honda Wave RSX and Honda Wave Alpha 110"
 internal_link_targets: "best-bike-for-english-teachers-hanoi, best-motorbike-for-commuting-hanoi, daily-weekly-monthly-motorbike-rental-hanoi, motorbike-rental-agreement-hanoi, what-is-included-motorbike-rental-hanoi, motorbike-rental-digital-nomads-hanoi, renting-motorbike-couple-hanoi, english-teachers-monthly-motorbike-hanoi, motorbike-rental-monthly-price-hanoi, can-foreigners-rent-a-motorbike-hanoi, motorbike-rental-deposit-hanoi"
 ---
 
@@ -46,17 +46,15 @@ Until you hold a residence card the exchange route below is not open, so the opt
 
 - **A national motorcycle licence plus a 1968 Vienna Convention IDP.** Carry both documents, in date and matching the class of bike. Article 57 limits the permit to no more than three years from its issue date and requires it to be consistent with the remaining validity of the national licence, so compare both dates with the end of your rental.
 
-- **The licence-free moped class.** Vietnamese law treats a bike of 50 cc or less, designed for no more than 50 km/h, as a moped that needs no driving licence for a rider aged 16 or over, as the licence-free section of [the foreigners guide]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) explains. Nguyen Tu's 50 cc availability and price are by contact only.
+- **The licence-free moped class.** Vietnamese law treats a bike of 50 cc or less, designed for no more than 50 km/h, as a moped that needs no driving licence for a rider aged 16 or over, as [the 50cc licence guide]({{ '/articles/50cc-licence-vietnam/' | relative_url }}) explains from Articles 34(1)(g) and 59(1)(a) of Law 36/2024/QH15. Nguyen Tu's 50 cc availability and price are by contact only.
 
-- **Neither of these.** An IDP without the national licence behind it, a 1949-convention IDP and a car-only licence do not cover a scooter; the table in that guide sets out how each case stands. Riding a rental scooter without a valid licence is riding unlicensed.
+- **Neither of these.** An IDP without the national licence behind it, a 1949-convention IDP and a car-only licence do not cover a scooter; the table in [the foreigners guide]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) sets out how each case stands. Riding a rental scooter without a valid licence is riding unlicensed.
 
 ### Once residence papers exist
 
 If you are settling into a work permit and residence, plan the licence exchange — [Vietnam Motorbike Licence for Long-Term Expats]({{ '/articles/expat-motorbike-licence-vietnam/' | relative_url }}) lays out the path.
 
-The condition sits in Article 24(1)(a) of Circular 12/2025/TT-BCA: a foreigner who lives, works or studies in Vietnam, holds a national driving licence that is still valid and has a diplomatic or service identity card, or a temporary or permanent residence card with a period of three months or more, can be considered for exchange to the matching Vietnamese class. A work permit is not among the documents that clause names, so plan around the residence card and ask the office that handles exchanges what it will accept.
-
-The Circular does not exchange an International Driving Permit, a temporary foreign licence, or a foreign licence that is out of date, altered or damaged until it no longer shows enough information, so check your home licence's expiry date first. Residents with no motorcycle entitlement at home take the A1 test instead; the test is conducted in Vietnamese only, as [the expat licence guide]({{ '/articles/expat-motorbike-licence-vietnam/' | relative_url }}) describes.
+Once you hold a residence card of three months or more, Article 24(1) of Circular 12/2025/TT-BCA lets a foreigner with a valid national licence be considered for exchange. An IDP is not exchanged, so keep both documents in date until the Vietnamese licence is issued.
 
 ## The commute pattern
 
@@ -64,7 +62,7 @@ A teaching week can spread across several locations, with rush-hour travel betwe
 
 ### Plan the week on paper first
 
-List every site with its days and start times, then note what lies between them: a river crossing, a ring road, a market street. Legs that cross the river or use a ring road tend to run late, so build slack into them rather than hoping for a faster bike.
+List every site with its days and start times, then note what lies between them: a river crossing, a ring road, a market street. Build slack into legs that cross the river or use a ring road.
 
 Then ride each leg once at the hour you will really ride it, before your first teaching day if you can. A map shows distance; only the ride shows where you will park, which entrance you will use and how long the leg takes. For each site, settle three things:
 
@@ -74,7 +72,7 @@ Then ride each leg once at the hour you will really ride it, before your first t
 
 ### An illustrative week
 
-Imagine a teacher with a morning class at a language centre, an afternoon class at a school across the river, and two evenings a week with private students in a third district. Three points decide whether that week works: the gap before the afternoon class, the river crossing, and the ride home after dark. The first needs a buffer long enough to park and walk in, the second a departure earlier than the map suggests, and the third working lights and a rain layer.
+Imagine a teacher with a morning class at a language centre, an afternoon class at a school across the river, and two evenings a week with private students in a third district. Three points decide whether that week works: the gap before the afternoon class, the river crossing, and the ride home after dark.
 
 ## Carrying teaching materials
 
@@ -87,7 +85,7 @@ A teaching bag is heavier and more fragile than a commuter's: it might hold a la
 | Honda Wave Alpha 110 | No storage figure published | Plan where the bag travels |
 | Honda Vision, Honda Click, Yamaha Mio | No storage figure verified | Try your bag in the compartment |
 
-The Air Blade 160 is a different model with no published storage figure, and the shop's Wave and Air Blade could be any of these versions, so contact us to confirm current availability and which version you would get. Litres also do not describe shape: a rigid laptop bag fits flat or it does not, so bring the bag you actually carry to handover and try it in the compartment with the seat closed.
+The Air Blade 160 is a different model with no storage figure verified, and the shop's Wave and Air Blade could be any of these versions, so ask which version you would get. Litres also do not describe shape: a rigid laptop bag fits flat or it does not, so bring the bag you actually carry to handover and try it in the compartment with the seat closed.
 
 Where the bag travels matters as much as whether it fits. Heavy items ride best low and close to the bike's centre, and a bag hung from the handlebars makes steering heavy and vague, as [Carrying Luggage and Loads on a Motorbike]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}) explains. Paper and electronics are what rain ruins first, so keep them in the compartment or on your back inside a waterproof liner.
 
@@ -98,18 +96,15 @@ The shop is open 09:00–21:00 daily. If a split timetable or a late finish leav
 Evening classes can mean riding home after dark. From 18:00 to 06:00, and whenever fog, smoke, dust, rain or other bad weather cuts visibility, a motorbike's lights must be on, as [the motorbike light rules guide]({{ '/articles/motorbike-night-lights-vietnam/' | relative_url }}) explains. Check the headlight at handover and keep the visor clean.
 
 Hanoi's rain tends to arrive in short heavy bursts between May and October, and [the rain-riding guide]({{ '/articles/riding-rental-motorbike-hanoi-rain/' | relative_url }}) covers the slippery first minutes of a shower, flooded sections and braking. If rain stops you on the way to a class, a late arrival costs less than a slip: message the centre and wait under cover.
-
-One location rule can catch a weekend evening class. If a site or a private student is inside the Zone 1 pilot area around Hoan Kiem Lake and the Old Quarter, check the current weekend-evening restriction first; [the Hoan Kiem rental guide]({{ '/articles/renting-motorbike-hoan-kiem/' | relative_url }}) sets out the pilot and its sources.
-
 ## Monthly rental is the standard
 
 A daily rate multiplied across a teaching month makes no sense; monthly rental does. Published monthly rates at Nguyen Tu (for example Honda Click and Yamaha Mio at 1,000,000–1,200,000 VND, Honda Vision at 1,800,000–2,000,000 VND) cover the models where monthly prices are published — see [Daily, Weekly or Monthly Motorbike Rental in Hanoi: How to Choose]({{ '/articles/daily-weekly-monthly-motorbike-rental-hanoi/' | relative_url }}) for the full table. Where no monthly rate is published for a model, contact the shop to discuss longer-term arrangements.
 
-"Standard" here means the sensible default for a stay that lasts a term, not a rule of the shop: Nguyen Tu's rental periods are daily, weekly and monthly, and longer-term rental is negotiable. [Motorbike Rental Monthly Prices in Hanoi]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }}) lists the published monthly rates by model, and [Monthly Motorbike Rental for English Teachers: The School Year]({{ '/articles/english-teachers-monthly-motorbike-hanoi/' | relative_url }}) covers matching the rental to the school term.
+"Standard" here means the sensible default for a stay that lasts a term, not a rule of the shop: Nguyen Tu's rental periods are daily, weekly and monthly, and longer-term rental is negotiable. [Monthly Motorbike Rental for English Teachers: The School Year]({{ '/articles/english-teachers-monthly-motorbike-hanoi/' | relative_url }}) covers matching the rental to the school term.
 
 ### What a teacher's budget has to cover
 
-Daily rates are published for six models. A daily rate suits the first days, while you test a route, rather than a term.
+A daily rate suits the first days, while you test a route, rather than a term. These six petrol models have published daily rates:
 
 | Model | Published daily rate |
 |---|---|
@@ -128,7 +123,7 @@ Contact us to confirm current availability of any model. Around the rate, a teac
 
 - **Consumables and running costs.** Inner tubes and tyres may be the renter's responsibility depending on the situation. Fuel grows with the number of legs you ride and parking fees differ between lots, so take both figures from your own routine.
 
-- **The end of the term.** Early return carries no automatic refund entitlement. A late return costs 20,000 VND per hour, and more than 6 hours late a full additional rental day may be charged, typically 150,000–200,000 VND depending on the motorcycle. [Monthly Motorbike Rental for Expats Living in Hanoi]({{ '/articles/expats-monthly-motorbike-hanoi/' | relative_url }}) shows how to line the end date up with a lease or probation date.
+- **The end of the term.** Early return carries no automatic refund entitlement. A late return costs 20,000 VND per hour, and more than 6 hours late a full additional rental day may be charged, typically 150,000–200,000 VND depending on the motorcycle.
 
 ## Reliability matters more for teachers
 
@@ -150,7 +145,7 @@ Report anything that feels wrong early — [What to Do If Your Rental Motorbike 
 
 ### Can the bike be delivered to my school or my apartment?
 
-Delivery or pickup in Hanoi may be available depending on location and arrangement, and no delivery fee or delivery time is published. Raise it when you first enquire, give the exact address, and do not plan a first teaching day around it until the shop has confirmed.
+Delivery or pickup in Hanoi may be available depending on location and arrangement. Ask when you first enquire, and treat nothing as arranged until the shop confirms it.
 
 ### Can I ride outside Hanoi for a weekend job or a trip?
 
@@ -168,7 +163,7 @@ It is legal without a licence for a rider aged 16 or over, but a capped design s
 
 ## The short version
 
-Monthly rental, automatic scooter, a shop with maintenance included, a licence plan, and rain gear: the five-item setup that carries a teaching term. Read "maintenance included" as the routine items Nguyen Tu's maintenance may cover, not every repair.
+Monthly rental, automatic scooter, a shop whose routine maintenance you have asked about, a licence plan, and rain gear: the five-item setup that carries a teaching term. Nguyen Tu's maintenance may include the routine items above, not every repair.
 
 To confirm current availability of the model you want and to discuss a monthly or longer-term arrangement, use the [shop's contact page]({{ '/contact/' | relative_url }}) or message the shop on WhatsApp, Zalo or +84 942 467 674.
 
