@@ -54,7 +54,7 @@ Field order for every method: source; problem; technical basis; Jekyll/GitHub Pa
 - Risk: a false failure on the static CI server; measured first at warn level to rule that out.
 - Status: **ADOPT** (warn run, then error).
 - Test: `workflow_dispatch` of `lighthouse.yml` on the research branch.
-- Measured: run 40198382077 (warn level): all ten audits passed on all 9 runs (8 URLs), no warning printed. Error-level run dispatched on `fc86ebd`; its result is recorded in the experiment log (section 5).
+- Measured: run 40198382077 (warn level): all ten audits passed on all 9 runs (8 URLs), no warning printed. Run 40198787541 (error level, `fc86ebd`, which also carries experiments E1 and E2): success, every assertion met.
 
 **K3. Non-descriptive link text** (Lighthouse `link-text`, 14 phrases; method M1)
 - Problem: anchors such as "click here" or "read more" tell crawlers and readers nothing.
@@ -162,7 +162,7 @@ Sample, baselined on the pre-experiment build with `p3-baseline` facts and the f
 | `/topics/monthly-rental/` | Commercial pillar, owner of "long term motorbike rental hanoi" | title "Monthly Motorbike Rental \| Hanoi Motorbike Guide" (48), 1,977 words incl. listing, CollectionPage + FAQPage, body PageRank percentile 69 | Not in the top 30 for the long-term query (MEASURED); the only monthly signal is `extending-motorbike-rental-hanoi` at #16 | E2: `title_tag` "Monthly and Long-Term Motorbike Rental in Hanoi" (H1 and navigation unchanged) |
 | `/articles/renting-motorbike-old-quarter/` | Ranked URL, owner of "motorbike rental hanoi old quarter", outside the Package 2 scope | title 58, 1,089 words, BlogPosting + FAQPage, 9 linking pages, click depth 1 | #4 on 2026-10-14 (HISTORICAL, Ubersuggest); not in the top 30 today (MEASURED, OpenSEO) | None: protected. No evidence says which part works, so nothing is changed; re-measure first |
 
-Evaluation of the branch (all reproducible): build-report P0 0 / P1 0 (Quality Gate PASS); schema-check P0/P1 0; engine tests 102/102; duplicate check 0; regression guard PASS; rendered audit P0/P1 0, max click depth 2; fingerprint diff: one P3 title change, nothing else. Status labels: **EXPERIMENT VALIDATED** (technical correctness, structured-data validity, crawlability, no regression) for K1, K2 (warn level) and E1/E2; search-intent and ranking effect **not measured** (no change is live, and a commit is not evidence of indexing or ranking).
+Evaluation of the branch (all reproducible): build-report P0 0 / P1 0 (Quality Gate PASS); schema-check P0/P1 0; engine tests 102/102; duplicate check 0; regression guard PASS; rendered audit P0/P1 0, max click depth 2; fingerprint diff: one P3 title change, nothing else. CI on the experiment commit `fc86ebd`: Lighthouse run 40198787541 and Quality Gate run 40198789655 both succeeded. Status labels: **EXPERIMENT VALIDATED** (technical correctness, structured-data validity, crawlability, no regression) for K1, K2 and E1/E2; search-intent and ranking effect **not measured** (no change is live, and a commit is not evidence of indexing or ranking).
 
 ## 5. Experiment log
 
@@ -170,5 +170,5 @@ Evaluation of the branch (all reproducible): build-report P0 0 / P1 0 (Quality G
 |---|---|---|
 | 2026-10-25 | K1 fingerprint tool (`4bae75f`) | 4 new engine tests pass (102 total); self-compare 0 changes |
 | 2026-10-25 | K2 Lighthouse per-audit assertions, warn (`2612849`, run 40198382077) | 10 of 10 audits pass on 9 runs; no warning |
-| 2026-10-25 | K2 raised to error (`fc86ebd`) | Lighthouse and Quality Gate dispatched on the branch; result to be recorded here |
+| 2026-10-25 | K2 raised to error (`fc86ebd`) | Lighthouse run 40198787541: success (all ten per-audit assertions and the four category floors met on 9 runs); Quality Gate run 40198789655 on the same commit: success |
 | 2026-10-25 | E1 + E2 (`94470c1`) | Quality Gate PASS locally, schema-check 0, fingerprint diff 1 intended P3 |

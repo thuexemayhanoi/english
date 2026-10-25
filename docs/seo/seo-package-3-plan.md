@@ -39,5 +39,5 @@ Every batch: fetch main; baseline (fingerprints, positions, matrix rows); apply 
 
 - Research branch: `claude/seo-package3-research` (worktree `/home/user/english-p3` in this session). Commits: Google baseline, deep reads A and B, SERP study, K1 fingerprint tool, K2 Lighthouse assertions, E1 + E2 experiment, knowledge base and this plan.
 - Not merged on purpose. Before merging any of it: wait for Package 2 to finish, merge main into the branch, rebuild, re-run every check, then open the Package 3 batch 2 PR.
-- Open item: the error-level Lighthouse run dispatched on `fc86ebd` (see the knowledge base experiment log).
+- CI evidence on the branch: Lighthouse run 40198787541 (error-level per-audit SEO assertions) and Quality Gate run 40198789655, both successful on `fc86ebd` (2026-10-25).
 - OpenSEO project for this domain: "en.rentbikehanoi.com (EN, Vietnam)" (`72fe88fb-20ca-43ac-bc33-0096ec22b81b`), created 2026-10-25 for SERP and keyword reads; no tracker or schedule is enabled.
