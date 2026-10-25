@@ -39,6 +39,21 @@ for (const c of L.CLUSTERS) {
   if (!locs.includes(abs('/topics/' + c + '/'))) { F.add('P1', 'sitemap.xml', '/topics/' + c + '/', 'topic hub omitted from sitemap', 'Add hub to sitemap'); gaps++; }
 }
 
+// llms.txt integrity (docs/seo/research/github-seo-skills.md, technique T4): every on-site
+// link must be a built, indexable URL and the counts the file publishes must match the repo.
+const llmsFile = path.join(L.ROOT, 'llms.txt');
+if (fs.existsSync(llmsFile)) {
+  let faqAnswers = null;
+  try { faqAnswers = (JSON.parse(fs.readFileSync(path.join(L.ROOT, '_data', 'faq.json'), 'utf8')).sections || []).reduce((n, sec) => n + (sec.items || []).length, 0); } catch (e) { faqAnswers = null; }
+  const facts = {
+    indexable: expected, extra: new Set([abs('/sitemap.xml')]),
+    articles: articles.length,
+    verified: articles.filter(a => String(a.fm.review_status || 'VERIFIED') !== 'REVIEW_REQUIRED').length,
+    topics: L.CLUSTERS.length, faqAnswers
+  };
+  for (const f of L.llmsTxtFindings(fs.readFileSync(llmsFile, 'utf8'), facts)) F.add(f.severity, 'llms.txt', '/llms.txt', f.issue, f.fix);
+}
+
 const report = { tool: 'sitemap-check', counts: F.counts, gaps, findings: F.items };
 fs.mkdirSync(path.join(L.ROOT, 'reports'), { recursive: true });
 fs.writeFileSync(path.join(L.ROOT, 'reports', 'sitemap-check.json'), JSON.stringify(report, null, 2));

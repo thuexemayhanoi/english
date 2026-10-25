@@ -1,6 +1,6 @@
 # Keyword universe (zero-data mode)
 
-Generated 2026-10-15 by `scripts/english-seo-matrix.js` from `docs/seo/keyword-universe.json` (160 on-topic rows, generated 2026-10-14). Volumes are a third-party search index's monthly estimates per market, read through the OpenRush connector on the date recorded in the JSON; they are prioritisation evidence, not facts to publish, and will be replaced by Search Console data in DATA-DRIVEN mode. Markets: AU = Australia, UK = United Kingdom, US = United States, VN = Vietnam.
+Generated 2026-10-25 by `scripts/english-seo-matrix.js` from `docs/seo/keyword-universe.json` (160 on-topic rows, generated 2026-10-14). Volumes are a third-party search index's monthly estimates per market, read through the OpenRush connector on the date recorded in the JSON; they are prioritisation evidence, not facts to publish, and will be replaced by Search Console data in DATA-DRIVEN mode. Markets: AU = Australia, UK = United Kingdom, US = United States, VN = Vietnam.
 
 ## Sources
 
@@ -49,7 +49,7 @@ Generated 2026-10-15 by `scripts/english-seo-matrix.js` from `docs/seo/keyword-u
 
 | Keyword | Intent | AU | UK | US | VN | Competitor ranking | Serving URL | How |
 |---|---|---|---|---|---|---|---|---|
-| hanoi motorbike | informational |  |  | 70 | 1000 |  | /topics/rental/ | title/keyword match |
+| hanoi motorbike | informational |  |  | 70 | 1000 |  | /topics/hanoi/ | title/keyword match |
 | motorbike vietnam | informational |  |  | 1000 |  | rentalmotorbikevietnam.com #18, stylemotorbikes.com #10, tigitmotorbikes.com #9 | /topics/vietnam-travel/ | keyword-targets owner (Motorbike Vietnam) |
 | motorbiking in vietnam | informational |  |  | 1000 |  | rentalmotorbikevietnam.com #25 | /topics/vietnam-travel/ | keyword-targets owner (Motorbiking in Vietnam) |
 | motorcycles vietnam | informational |  |  | 1000 |  | stylemotorbikes.com #3, tigitmotorbikes.com #4 | /topics/vietnam-travel/ | keyword-targets owner (Motorbike Vietnam) |
@@ -62,7 +62,7 @@ Generated 2026-10-15 by `scripts/english-seo-matrix.js` from `docs/seo/keyword-u
 | travel vietnam motorbike | commercial |  |  |  | 70 |  | /topics/vietnam-travel/ | keyword-targets owner (Travel Vietnam motorbike) |
 | motorbikes ho chi minh | commercial | 50 |  |  |  |  | /articles/renting-motorbike-ho-chi-minh-city/ | title/keyword match |
 | ho chi minh road motorbike | informational | 10 |  |  |  |  | /articles/ho-chi-minh-highway-motorbike-guide/ | title/keyword match |
-| motorbike in hanoi | informational |  |  | 10 |  |  | /topics/rental/ | title/keyword match |
+| motorbike in hanoi | informational |  |  | 10 |  |  | /topics/hanoi/ | title/keyword match |
 
 ### licence-and-paperwork (6)
 
@@ -79,26 +79,26 @@ Generated 2026-10-15 by `scripts/english-seo-matrix.js` from `docs/seo/keyword-u
 
 | Keyword | Intent | AU | UK | US | VN | Competitor ranking | Serving URL | How |
 |---|---|---|---|---|---|---|---|---|
-| hanoi motorbike rental | commercial |  |  | 110 | 2400 |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
-| motorbike rental hanoi | transactional |  |  | 110 | 2400 |  | /topics/rental/ | keyword-targets owner (Motorbike rental Hanoi) |
-| rental motorbike hanoi | transactional |  |  | 110 | 2400 |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
-| hanoi motorbike rent | transactional |  |  | 110 |  | rentabikevn.com #14, rentalmotorbikevietnam.com #2, stylemotorbikes.com #7, theextramile.co #19, tigitmotorbikes.com #1 | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
-| hanoi motorbike rentals | commercial |  |  | 110 |  | rentabikevn.com #13, rentalmotorbikevietnam.com #4, stylemotorbikes.com #5, theextramile.co #16, tigitmotorbikes.com #1 | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
-| hanoi rent motorbike | transactional |  |  | 110 |  | rentabikevn.com #13, rentalmotorbikevietnam.com #1, stylemotorbikes.com #8, theextramile.co #20, tigitmotorbikes.com #2 | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
-| motorbike rental hanoi vietnam | transactional |  |  | 110 |  |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
+| hanoi motorbike rental | commercial |  |  | 110 | 2400 |  | / | keyword-targets owner (Hanoi motorbike rental) |
+| motorbike rental hanoi | transactional |  |  | 110 | 2400 |  | / | keyword-targets owner (Motorbike rental Hanoi) |
+| rental motorbike hanoi | transactional |  |  | 110 | 2400 |  | / | keyword-targets owner (Hanoi motorbike rental) |
+| hanoi motorbike rent | transactional |  |  | 110 |  | rentabikevn.com #14, rentalmotorbikevietnam.com #2, stylemotorbikes.com #7, theextramile.co #19, tigitmotorbikes.com #1 | / | keyword-targets owner (Hanoi motorbike rental) |
+| hanoi motorbike rentals | commercial |  |  | 110 |  | rentabikevn.com #13, rentalmotorbikevietnam.com #4, stylemotorbikes.com #5, theextramile.co #16, tigitmotorbikes.com #1 | / | keyword-targets owner (Hanoi motorbike rental) |
+| hanoi rent motorbike | transactional |  |  | 110 |  | rentabikevn.com #13, rentalmotorbikevietnam.com #1, stylemotorbikes.com #8, theextramile.co #20, tigitmotorbikes.com #2 | / | keyword-targets owner (Hanoi motorbike rental) |
+| motorbike rental hanoi vietnam | transactional |  |  | 110 |  |  | / | keyword-targets owner (Hanoi motorbike rental) |
 | hanoi motorbike rental cost | commercial |  |  | 10 | 30 |  | /articles/motorbike-rental-price-hanoi/ | keyword-targets owner (Hanoi motorbike rental cost) |
-| hanoi motorbike hire | commercial |  |  |  | 20 |  | /topics/rental/ | keyword-targets owner (Motorbike hire Hanoi) |
-| motorbike hire hanoi | transactional |  |  |  | 20 |  | /topics/rental/ | keyword-targets owner (Motorbike hire Hanoi) |
+| hanoi motorbike hire | commercial |  |  |  | 20 |  | / | keyword-targets owner (Hanoi motorbike hire) |
+| motorbike hire hanoi | transactional |  |  |  | 20 |  | / | keyword-targets owner (Motorbike hire Hanoi) |
 | motorbike rental hanoi near me | transactional |  |  | 0 | 20 |  | /contact/ | local-intent query: contact page (address, map, hours) |
 | motorbike rental hanoi old quarter | transactional |  |  | 10 | 20 |  | /articles/renting-motorbike-old-quarter/ | keyword-targets owner (Motorbike rental Hanoi Old Quarter) |
-| best motorbike rental hanoi | commercial |  |  | 10 | 10 |  | /topics/rental/ | keyword-targets owner (Best motorbike rental Hanoi) |
+| best motorbike rental hanoi | commercial |  |  | 10 | 10 |  | / | keyword-targets owner (Best motorbike rental Hanoi) |
 | cheap motorbike rental hanoi | transactional |  |  | 10 | 10 |  | /articles/motorbike-rental-price-hanoi/ | keyword-targets owner (Cheap motorbike rental Hanoi) |
 | motorbike rental hanoi price | transactional |  |  | 10 | 10 |  | /articles/motorbike-rental-price-hanoi/ | keyword-targets owner (Hanoi motorbike rental prices) |
-| motorbike rental in hanoi | transactional |  |  | 10 | 10 |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
-| motorbike rental in hanoi vietnam | transactional |  |  |  | 10 |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
+| motorbike rental in hanoi | transactional |  |  | 10 | 10 |  | / | keyword-targets owner (Motorbike rental in Hanoi) |
+| motorbike rental in hanoi vietnam | transactional |  |  |  | 10 |  | / | keyword-targets owner (Hanoi motorbike rental) |
 | motorbike rental old quarter hanoi | transactional |  |  | 10 |  |  | /articles/renting-motorbike-old-quarter/ | keyword-targets owner (Motorbike rental Hanoi Old Quarter) |
-| motorbike rental vietnam hanoi | transactional | 10 | 10 | 10 |  |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
-| vietnam motorbike rental hanoi | transactional |  |  | 10 | 10 |  | /topics/rental/ | keyword-targets owner (Hanoi motorbike rental) |
+| motorbike rental vietnam hanoi | transactional | 10 | 10 | 10 |  |  | / | keyword-targets owner (Hanoi motorbike rental) |
+| vietnam motorbike rental hanoi | transactional |  |  | 10 | 10 |  | / | keyword-targets owner (Hanoi motorbike rental) |
 
 ### rental-vietnam (23)
 

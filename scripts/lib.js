@@ -53,7 +53,8 @@ const BLOCKING_P1_PATTERNS = [
   /^BreadcrumbList without itemListElement/,
   /^broken breadcrumb/,
   /^noindex URL included in sitemap/,
-  /^package2 (?:eligible article missing|slug or URL changed|article marked DONE below|status entry outside)/
+  /^package2 (?:eligible article missing|slug or URL changed|article marked DONE below|status entry outside)/,
+  /^language switcher or \/vi\/ link/
 ];
 
 function isBlocking(finding) {
@@ -382,4 +383,203 @@ function rankSignal(entries) {
   return { band, best, quickWin: band === 'page1' || band === 'striking' };
 }
 
-module.exports = { ROOT, CLUSTERS, SITE_URL, BASEURL, PRIMARY_LEGAL_DOMAINS, isPrimaryLegalSource, isBlocking, walk, parseFrontMatter, loadArticles, loadPages, articleUrl, pageUrl, stripLiquid, contentText, contentWords, unlinkedRefs, UNLINKED_REF_PATTERNS, findH1s, extractLinks, Findings, sitemapLocs, isDynamicallyListed, expectedIndexableUrls, parseCsv, parseGscCsv, gscSignal, sitePath, latestRankSnapshot, rankSignal };
+// ---------- link graph metrics ----------
+// Methods learnt from open-source SEO tooling (docs/seo/research/github-seo-skills.md):
+// reachability and click depth from the home page (orphan-beacon, squirrelscan; MIT),
+// PageRank by power iteration over the internal link graph (WebKnoGraph, Apache-2.0) and
+// llms.txt integrity (geo-optimizer-skill; MIT). Written independently for this repo:
+// pure functions, deterministic output, zero dependencies, no code copied.
+
+// Breadth-first click depth: adjacency is { url: iterable of urls }; returns { url: depth }
+// for every node reachable from start (unreachable nodes are absent).
+function clickDepth(adjacency, start) {
+  const depth = { [start]: 0 };
+  let frontier = [start];
+  while (frontier.length) {
+    const next = [];
+    for (const u of frontier) {
+      for (const v of [...(adjacency[u] || [])].sort()) {
+        if (!(v in depth)) { depth[v] = depth[u] + 1; next.push(v); }
+      }
+    }
+    frontier = next.sort();
+  }
+  return depth;
+}
+
+// PageRank by power iteration over the nodes listed as adjacency keys. Self links and links
+// to unknown nodes are ignored; a node without outgoing links spreads its score evenly
+// (dangling mass). Scores sum to 1. A model of this site's own link structure, not a
+// Google measure.
+function pageRank(adjacency, opts) {
+  opts = opts || {};
+  const d = opts.damping == null ? 0.85 : opts.damping;
+  const maxIter = opts.iterations || 100, tol = opts.tolerance || 1e-9;
+  const nodes = Object.keys(adjacency).sort();
+  const n = nodes.length;
+  if (!n) return {};
+  const idx = new Map(nodes.map((u, i) => [u, i]));
+  const out = nodes.map(u => [...new Set(adjacency[u] || [])].filter(v => v !== u && idx.has(v)).sort().map(v => idx.get(v)));
+  let pr = new Array(n).fill(1 / n);
+  for (let it = 0; it < maxIter; it++) {
+    const next = new Array(n).fill(0);
+    let dangling = 0;
+    for (let i = 0; i < n; i++) {
+      if (!out[i].length) { dangling += pr[i]; continue; }
+      const share = pr[i] / out[i].length;
+      for (const j of out[i]) next[j] += share;
+    }
+    let delta = 0;
+    for (let i = 0; i < n; i++) {
+      const v = (1 - d) / n + d * (next[i] + dangling / n);
+      delta += Math.abs(v - pr[i]);
+      next[i] = v;
+    }
+    pr = next;
+    if (delta < tol) break;
+  }
+  const res = {};
+  nodes.forEach((u, i) => { res[u] = pr[i]; });
+  return res;
+}
+
+// Percentile (0-100) of each url's score inside its group: the share of other group members
+// with a strictly lower score. Groups of one score 100.
+function percentileRanks(scores, groupOf) {
+  const groups = {};
+  for (const u of Object.keys(scores)) (groups[groupOf(u)] = groups[groupOf(u)] || []).push(u);
+  const res = {};
+  for (const members of Object.values(groups)) {
+    for (const u of members) {
+      if (members.length === 1) { res[u] = 100; continue; }
+      const lower = members.filter(v => scores[v] < scores[u]).length;
+      res[u] = Math.round(lower * 100 / (members.length - 1));
+    }
+  }
+  return res;
+}
+
+// [start, end) offsets of every <tag class="... cls ..."> element in html, nesting-aware.
+function elementRanges(html, tag, cls) {
+  const out = [];
+  const open = '<' + tag, close = '</' + tag + '>';
+  const isOpen = (at) => at !== -1 && /[\s>]/.test(html.charAt(at + open.length));
+  let i = html.indexOf(open);
+  while (i !== -1) {
+    if (!isOpen(i)) { i = html.indexOf(open, i + open.length); continue; }
+    const gt = html.indexOf('>', i);
+    if (gt === -1) break;
+    const m = html.slice(i, gt).match(/\bclass="([^"]*)"/);
+    if (!m || !m[1].split(/\s+/).includes(cls)) { i = html.indexOf(open, gt); continue; }
+    let depth = 1, j = gt + 1;
+    while (depth > 0) {
+      const c = html.indexOf(close, j);
+      if (c === -1) { j = html.length; break; }
+      let o = html.indexOf(open, j);
+      while (o !== -1 && o < c && !isOpen(o)) o = html.indexOf(open, o + open.length);
+      if (o !== -1 && o < c) { depth++; j = o + open.length; } else { depth--; j = c + close.length; }
+    }
+    out.push([i, j]);
+    i = html.indexOf(open, j);
+  }
+  return out;
+}
+
+// Site navigation zones of the shared templates: links inside them repeat on every page.
+const NAV_ZONES = [['header', 'site-header'], ['nav', 'mobile-nav'], ['nav', 'breadcrumbs'], ['footer', 'site-footer'], ['aside', 'contact-sheet'], ['aside', 'assistant-panel']];
+
+// Path (with query and fragment) of an absolute URL on this site's own host, or null. Compares
+// the parsed host, so a lookalike such as https://en.rentbikehanoi.com.example/ is external.
+const SITE_HOST = new URL(SITE_URL).host;
+function ownSitePath(u) {
+  let url; try { url = new URL(String(u || '').trim()); } catch (e) { return null; }
+  if (!/^https?:$/.test(url.protocol) || url.host !== SITE_HOST) return null;
+  return url.pathname + url.search + url.hash;
+}
+
+// Root-relative page URL for an internal href, or null when it is external, a file or not a
+// built page. pages maps url -> file.
+function internalPageHref(href, pages) {
+  let h = String(href || '').trim().replace(/&amp;/g, '&');
+  if (/^https?:\/\//i.test(h)) { h = ownSitePath(h); if (h === null) return null; }
+  if (!h.startsWith('/') || h.startsWith('//')) return null;
+  h = h.split('#')[0].split('?')[0];
+  if (!h) return null;
+  if (BASEURL && h.startsWith(BASEURL)) h = h.slice(BASEURL.length) || '/';
+  if (h.endsWith('/index.html')) h = h.slice(0, -'index.html'.length);
+  if (!/\.[a-z0-9]+$/i.test(h) && !h.endsWith('/')) h += '/';
+  return pages[h] ? h : null;
+}
+
+// Internal link graph of the built site (_site): every <a href> between rendered pages, with
+// the template zone it sits in (nav, related, listing, body, other) and its anchor text, so
+// site-wide navigation can be told apart from contextual links.
+function renderedLinkGraph(siteDir) {
+  const files = [];
+  (function walkHtml(d) {
+    for (const e of fs.readdirSync(d, { withFileTypes: true })) {
+      const p = path.join(d, e.name);
+      if (e.isDirectory()) walkHtml(p); else if (e.name.endsWith('.html')) files.push(p);
+    }
+  })(siteDir);
+  const pages = {};
+  for (const f of files.sort()) {
+    let u = '/' + path.relative(siteDir, f).split(path.sep).join('/');
+    if (u.endsWith('/index.html')) u = u.slice(0, -'index.html'.length) || '/';
+    pages[u] = f;
+  }
+  const edges = [], noindex = {};
+  for (const url of Object.keys(pages)) {
+    const html = fs.readFileSync(pages[url], 'utf8');
+    noindex[url] = /<meta\s+name="robots"\s+content="[^"]*noindex/i.test(html);
+    const body = elementRanges(html, 'div', 'article-body');
+    const zones = [
+      ['nav', [].concat(...NAV_ZONES.map(([t, c]) => elementRanges(html, t, c)))],
+      ['related', elementRanges(html, 'aside', 'related').concat(elementRanges(html, 'section', 'related'))],
+      ['listing', elementRanges(html, 'ul', 'card-list')],
+      ['body', body],
+      [body.length ? 'other' : 'body', elementRanges(html, 'main', 'container')]
+    ];
+    for (const m of html.matchAll(/<a\b([^>]*)>([\s\S]*?)<\/a>/gi)) {
+      const hm = m[1].match(/\bhref="([^"]*)"/i);
+      const to = hm ? internalPageHref(hm[1], pages) : null;
+      if (!to || to === url) continue;
+      let zone = 'other';
+      for (const [name, ranges] of zones) if (ranges.some(r => m.index >= r[0] && m.index < r[1])) { zone = name; break; }
+      edges.push({ from: url, to, zone, anchor: m[2].replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim() });
+    }
+  }
+  return { pages: Object.keys(pages), noindex, edges };
+}
+
+// Integrity of llms.txt: structure, every on-site link a known indexable URL, and the counts
+// it publishes ("N guides", "N verified guides", "N topics", "N answers") equal to the real
+// ones. facts: { indexable: Set of absolute URLs, extra: Set of allowed absolute URLs,
+// articles, verified, topics, faqAnswers }. Returns [{ severity, issue, fix }].
+function llmsTxtFindings(text, facts) {
+  const out = [];
+  const add = (severity, issue, fix) => out.push({ severity, issue, fix });
+  if (!/^# \S/m.test(text)) add('P2', 'llms.txt has no H1 title line', 'Start the file with "# Site name"');
+  if (!/^> \S/m.test(text)) add('P2', 'llms.txt has no summary block', 'Add a "> summary" line after the title');
+  for (const m of text.matchAll(/\]\((https?:\/\/[^)\s]+)\)/g)) {
+    const u = m[1];
+    if (ownSitePath(u) === null) continue;
+    if (!facts.indexable.has(u) && !(facts.extra && facts.extra.has(u))) add('P1', 'broken internal link: llms.txt ' + u, 'Link only built, indexable URLs');
+  }
+  const claims = [
+    [/(\d[\d,]*) verified guides/gi, facts.verified, 'verified guides'],
+    [/(\d[\d,]*) guides\b/gi, facts.articles, 'guides'],
+    [/(\d[\d,]*) topics\b/gi, facts.topics, 'topics'],
+    [/(\d[\d,]*) answers\b/gi, facts.faqAnswers, 'answers']
+  ];
+  for (const [re, actual, label] of claims) {
+    if (actual == null) continue;
+    for (const m of text.matchAll(re)) {
+      const n = Number(m[1].replace(/,/g, ''));
+      if (n !== actual) add('P1', 'llms.txt count differs from the site: "' + m[0] + '" but the repository has ' + actual + ' ' + label, 'Update the count in llms.txt');
+    }
+  }
+  return out;
+}
+
+module.exports = { ROOT, CLUSTERS, SITE_URL, BASEURL, PRIMARY_LEGAL_DOMAINS, isPrimaryLegalSource, isBlocking, walk, parseFrontMatter, loadArticles, loadPages, articleUrl, pageUrl, stripLiquid, contentText, contentWords, unlinkedRefs, UNLINKED_REF_PATTERNS, findH1s, extractLinks, Findings, sitemapLocs, isDynamicallyListed, expectedIndexableUrls, parseCsv, parseGscCsv, gscSignal, sitePath, latestRankSnapshot, rankSignal, clickDepth, pageRank, percentileRanks, elementRanges, NAV_ZONES, ownSitePath, internalPageHref, renderedLinkGraph, llmsTxtFindings };
