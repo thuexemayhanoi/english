@@ -15,7 +15,7 @@
    "words_after": 11897,
    "qa": "lint 0 errors; independent verification (writer + verifier, 1-3 rounds); build-report P0 0 P1 0; engine tests 82/82; Jekyll build and rendered audit P0/P1 0; assistant 31/31; duplicate check P2 0",
    "notes": "Group A, queue 2/10/17/88/91. Tay Ho, Long Bien, 50cc and Vision-vs-Janus passed independent verification (Vision first time, the others after one fix round); Old Quarter needed three rounds and its last fixes were applied from the third verifier's findings and checked by lint and QA (no fourth independent pass). Removed or reworded original passages: Old Quarter ranked order and the unsourced half-the-residents, lightest-steering, 15 km/h and peak-season availability claims; Long Bien invented deposit, after-hours-return and minutes-away claims; 50cc compulsory-insurance-carried-by-the-fleet sentence (conflicts with OWNER-FACTS) and the unsourced no-official-new-50s claim; Tay Ho common-delivery-destination sentence softened (owner to confirm); Vision-vs-Janus bullet that contradicted the engine section. No weekly, monthly, 50cc or E-Bike price added (docs/seo/price-reconciliation.md). Findings for the owner: do-electric-motorbikes-need-insurance-vietnam (Package 2 queue 387) and do-you-need-insurance-for-50cc-vietnam (out of scope, unchanged) state fleet insurance cover, which conflicts with OWNER-FACTS; hoan-kiem-walking-street-motorbike-visitors does not mention the 1 July 2026 Zone 1 evening restriction.",
-   "commit": ""
+   "commit": "c952758824a4c52211f160452549b08af0bf3efd"
   }
  ],
  "articles": {
