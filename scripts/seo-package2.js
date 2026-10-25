@@ -337,6 +337,12 @@ function lintArticle(slug, now, baseline) {
     if (origNorm.includes(' ' + normSent(sent) + ' ')) continue;
     for (const [re, label] of FORBIDDEN) if (re.test(sent) && !(NEG_OK.has(label) && NEGATED.test(sent))) R(label + ': "' + sent.slice(0, 200) + '"');
   }
+  // prices in a context where the owner sources differ (docs/seo/price-reconciliation.md): a NEW sentence that gives a
+  // weekly, monthly, 50cc or e-bike price must be confirmed; the original wording stays untouched.
+  for (const sent of sentencesOf(text)) {
+    if (origNorm.includes(' ' + normSent(sent) + ' ')) continue;
+    if (/\d{1,3}(?:,\d{3})+/.test(sent) && /\b(week(ly)?|month(ly)?|50\s?cc|e-?bikes?|electric)\b/i.test(sent) && /\bVND\b|per (day|week|month)|a (day|week|month)|daily|weekly|monthly/i.test(sent)) R('price statement in a weekly/monthly/50cc/e-bike context: the owner sources differ (docs/seo/price-reconciliation.md), keep the original wording or leave the figure out: "' + sent.slice(0, 160) + '"');
+  }
   // amounts: anything neither approved in OWNER-FACTS nor already in the original article needs a cited source
   const allowed = allowedAmounts(origBody);
   const amounts = new Set(); for (const m of text.matchAll(/\d{1,3}(?:,\d{3})+/g)) amounts.add(m[0]);
