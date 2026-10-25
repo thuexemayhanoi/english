@@ -142,27 +142,27 @@ On a stay of weeks or months, maintenance moves from a footnote to a main item. 
 
 ### Is a helmet included in a Hanoi motorbike rental?
 
-Treat it as a question, not an assumption. A helmet is not confirmed as part of the rental, so ask whether one is provided for you and for a passenger. The law requires each of you to wear one, fastened, so settle it before you ride.
+Not as a confirmed item, so ask. The law requires a fastened helmet for the rider and for any passenger, which makes it worth settling before you ride.
 
 ### Does a Hanoi motorbike rental include insurance?
 
-No. Nguyen Tu does not provide motorbike insurance, and customers arrange their own. The bike's compulsory third-party certificate is a separate paper that covers harm to other people, not you.
+Rider insurance is not provided: arrange your own cover before you ride. The bike's compulsory third-party certificate is a separate paper that covers harm to other people.
 
 ### Is fuel part of the rental price?
 
-Fuel is not confirmed as part of the rental, so ask. What matters is the level at handover and the level at return, and both belong in writing.
+Fuel is a question, not a given. Agree the level at handover and at return, and write both down.
 
-### Is delivery included in the price?
+### Does the rental price cover delivery?
 
-There is no published delivery charge to point to. Delivery in Hanoi may be available depending on location and arrangement, so ask whether it can reach your address and what it would cost.
+No delivery charge is published. Ask whether delivery can reach your address, since it may be available depending on location and arrangement, and what it would cost.
 
 ### Who pays if a tyre goes flat?
 
-It depends on the situation. Inner tubes and tyres may be the renter's responsibility, and a tyre that was already worn at handover is a different matter from a nail. Photograph the tyres when you collect the bike.
+It depends on the situation: inner tubes and tyres may be the renter's responsibility, and a tyre already worn at handover is a different matter from a nail. Photograph the tyres when you collect the bike.
 
-### Is there 24/7 help if the bike breaks down?
+### Can I count on rescue at any hour if the bike breaks down?
 
-No. Nguyen Tu does not offer 24/7 roadside rescue or a guaranteed rescue time, and support is primarily for Hanoi and local use. Call or message during opening hours, 09:00-21:00.
+No. There is no 24/7 roadside rescue or guaranteed rescue time, and support is primarily for Hanoi and local use. Call or message during opening hours.
 
 ## The core and the edges
 

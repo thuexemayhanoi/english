@@ -16,6 +16,7 @@ subcluster: "1.4 renter-situations"
 date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-12-2025-tt-bca-cua-bo-cong-an-quy-dinh-ve-sat-hach-cap-giay-phep-lai-xe-119250303174347028.htm — Circular 12/2025/TT-BCA of the Ministry of Public Security, full text (Báo điện tử Chính phủ) — Article 24 (exchange of foreign driving licences): a national licence still valid, residence papers of three months or more, exchange into the corresponding Vietnamese class (retrieved 2026-10-25)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 57: international driving permit valid no more than three years from issue and consistent with the national licence; both documents carried and in date; A1, A and B1 licences without a time limit (retrieved 2026-10-25)"
 internal_link_targets: "daily-weekly-monthly-motorbike-rental-hanoi, renting-vs-buying-a-motorbike-hanoi, high-mileage-rental-motorbike-inspection, motorbike-rental-agreement-hanoi, what-is-included-motorbike-rental-hanoi, motorbike-rental-tourists-hanoi-essentials, motorbike-rental-agreement-long-term-hanoi, choosing-motorbike-monthly-rental-hanoi"
@@ -57,11 +58,11 @@ Everything that was minor at one month becomes routine at six:
 
 - Mileage: six months of Hanoi commuting easily adds thousands of kilometres. Nguyen Tu's practical guidance is periodic checks around every ~1,500 km or more of use — owner guidance, not a manufacturer interval — and the inspection rhythm is described in [High-Mileage Rental Riding: When to Bring the Bike Back for Inspection]({{ '/articles/high-mileage-rental-motorbike-inspection/' | relative_url }})
 - Consumables: tubes and tyres may be the renter's responsibility depending on the situation — agree this in writing for a long term ([Understanding a Motorbike Rental Agreement in Hanoi]({{ '/articles/motorbike-rental-agreement-hanoi/' | relative_url }}))
-- Maintenance: the shop's included maintenance (oil, chain, tyre pressure, inspection — see [What Is Included in a Hanoi Motorbike Rental?]({{ '/articles/what-is-included-motorbike-rental-hanoi/' | relative_url }})) matters more the longer you ride; use it rather than deferring
+- Maintenance: the maintenance the shop may include (oil change, chain adjustment, tyre-pressure checks, normal inspection — see [What Is Included in a Hanoi Motorbike Rental?]({{ '/articles/what-is-included-motorbike-rental-hanoi/' | relative_url }})) matters more the longer you ride; use it rather than deferring
 
 ### How far you ride sets the check schedule
 
-The owner's ~1,500 km guidance, not a manufacturer interval, only becomes a plan once you know your own daily distance, because the odometer matters more than the calendar. The table is illustrative arithmetic for a rider who covers the same distance on each of about 180 days; it is not a schedule set by the shop.
+That ~1,500 km figure only becomes a plan once you know your own daily distance, because the odometer matters more than the calendar. The table is illustrative arithmetic for a rider who covers the same distance on each of about 180 days; it is not a schedule set by the shop.
 
 | Average daily distance | Total over about 180 days | Checks at roughly every 1,500 km |
 |---|---|---|
@@ -73,7 +74,7 @@ Photograph the odometer at handover and again every few weeks, so you know when 
 
 ## Renting versus buying at this duration
 
-The crossover is real but narrower than people assume. Buying a used underbone looks cheaper on a spreadsheet, then adds: repair responsibility, tyre and battery replacements, paperwork in Vietnamese, resale loss, and the risk of a bad purchase. Long-term rental keeps the maintenance on the shop's side of the ledger and the exit simple. The full comparison method is in [Renting vs Buying a Motorbike in Hanoi: Cost and Convenience]({{ '/articles/renting-vs-buying-a-motorbike-hanoi/' | relative_url }}) — decide with numbers for your own mileage, not with the general folklore.
+The crossover is real but narrower than people assume. Buying a used underbone looks cheaper on a spreadsheet, then adds: repair responsibility, tyre and battery replacements, paperwork in Vietnamese, resale loss, and the risk of a bad purchase. Long-term rental keeps the maintenance on the shop's side of the ledger and the exit simple. Consumables such as tyres may still be yours, and an early exit is something to agree, not assume. The full comparison method is in [Renting vs Buying a Motorbike in Hanoi: Cost and Convenience]({{ '/articles/renting-vs-buying-a-motorbike-hanoi/' | relative_url }}) — decide with numbers for your own mileage, not with the general folklore.
 
 One input only you have is how far you ride, using the table above, since distance drives the upkeep of any bike you own as well as one you rent. The rent-versus-buy questions that depend on your end date are worked through in [the one-year rental guide]({{ '/articles/renting-motorbike-year-hanoi/' | relative_url }}).
 
@@ -114,8 +115,7 @@ Bike choice has its own guide: [Choosing the Right Motorbike for a Month in Hano
 
 - Learn the shop's preferred channel and response pattern for issues ([What Happens If a Rental Motorbike Breaks Down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}))
 - Report anything that feels wrong early rather than riding through it — see [What to Do If Your Rental Motorbike Does Not Feel Normal]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }})
-- Keep the licence situation current: an exchange done in month one protects months two to six ([Vietnam Motorbike Licence for Long-Term Expats]({{ '/articles/expat-motorbike-licence-vietnam/' | relative_url }})). Under Article 24 of Circular 12/2025/TT-BCA an exchange needs a residence card (or a diplomatic or service identity card) valid for three months or more, so check that condition before planning around it.
-- Plan for the weather to change under you: six months in Hanoi crosses from one season into another, so rain gear and warm layers belong in the plan from the start
+- Keep the licence situation current: an exchange done in month one protects months two to six ([Vietnam Motorbike Licence for Long-Term Expats]({{ '/articles/expat-motorbike-licence-vietnam/' | relative_url }})). Under Article 24 of Circular 12/2025/TT-BCA, a foreigner who lives, works or studies in Vietnam can be considered for an exchange if the national licence is still in date and they hold one of the papers it names, such as a temporary or permanent residence card, with a duration of three months or more. Check those conditions before planning around an exchange.
 
 ## Ending the term, or staying on
 
