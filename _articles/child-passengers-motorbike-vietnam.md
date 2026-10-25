@@ -27,7 +27,7 @@ Children ride pillion in Vietnam every day — the school run is a pillar of Han
 
 ## The passenger rule for children
 
-The default is one passenger. Carrying two — three people on the bike — is permitted when the second is a child under 14 with an adult, alongside the other exceptions (medical transport, frail elderly or disabled persons, escorting a violator). A parent taking a child to school may legally carry the child plus no other adult; the exception does not open the door to a family of four.
+The default is one passenger. Carrying two — three people on the bike — is permitted when the second is a child under 12, alongside the other exceptions (medical transport, frail elderly or disabled persons, escorting a violator). A parent taking a child to school may legally carry the child plus no other adult; the exception does not open the door to a family of four.
 
 ## The helmet rule for children
 

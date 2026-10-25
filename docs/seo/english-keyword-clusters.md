@@ -34,8 +34,8 @@ Generated 2026-10-25 by `scripts/english-seo-matrix.js`. Keyword ownership is de
 | Long term motorbike rental Hanoi | commercial | /topics/monthly-rental/ | Monthly Motorbike Rental | full | /articles/renting-motorbike-six-months-hanoi/, /articles/renting-motorbike-year-hanoi/, /articles/three-month-motorbike-rental-hanoi/ |  |
 | Weekly motorbike rental Hanoi | commercial | /articles/weekly-vs-monthly-motorbike-rental-hanoi/ | Weekly or Monthly Motorbike Rental in Hanoi: The Crossover | full | /articles/daily-weekly-monthly-motorbike-rental-hanoi/ |  |
 | Daily scooter rental Hanoi | commercial | /articles/renting-motorbike-hanoi-one-day/ | Renting a Motorbike in Hanoi for Just One Day | full | /articles/daily-weekly-monthly-motorbike-rental-hanoi/, /articles/best-scooters-to-rent-hanoi/ |  |
-| Motorbike rental app Hanoi | commercial | /articles/how-to-book-a-motorbike-rental-hanoi/ | How to Book a Motorbike Rental in Hanoi (WhatsApp, Zalo, Walk-In) | full |  | No app exists. The booking guide answers the query honestly: WhatsApp, Zalo, phone or walk-in. |
-| Online motorbike booking Hanoi _(variant of Motorbike rental app Hanoi)_ | commercial | /articles/how-to-book-a-motorbike-rental-hanoi/ | How to Book a Motorbike Rental in Hanoi (WhatsApp, Zalo, Walk-In) | partial |  |  |
+| Motorbike rental app Hanoi | commercial | /articles/how-to-book-a-motorbike-rental-hanoi/ | Motorbike Rental App in Hanoi? Book by WhatsApp, Zalo or Walk-In | full |  | No app exists. The booking guide answers the query honestly: WhatsApp, Zalo, phone or walk-in. |
+| Online motorbike booking Hanoi _(variant of Motorbike rental app Hanoi)_ | commercial | /articles/how-to-book-a-motorbike-rental-hanoi/ | Motorbike Rental App in Hanoi? Book by WhatsApp, Zalo or Walk-In | partial |  |  |
 
 ### Vehicle Categories
 
@@ -156,7 +156,7 @@ Generated 2026-10-25 by `scripts/english-seo-matrix.js`. Keyword ownership is de
 
 | # | Cluster | Hub (pillar) | Articles | Commercial | Informational | Avg words | Subclusters |
 |---|---|---|---|---|---|---|---|
-| 1 | rental | /topics/rental/ | 81 | 34 | 47 | 492 | 5 |
+| 1 | rental | /topics/rental/ | 81 | 34 | 47 | 712 | 5 |
 | 2 | monthly-rental | /topics/monthly-rental/ | 45 | 12 | 33 | 357 | 5 |
 | 3 | scooters | /topics/scooters/ | 110 | 51 | 59 | 392 | 4 |
 | 4 | motorcycles | /topics/motorcycles/ | 108 | 65 | 43 | 333 | 4 |
