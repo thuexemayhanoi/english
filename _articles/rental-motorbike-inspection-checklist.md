@@ -106,14 +106,15 @@ Point out each existing mark to whoever hands over the bike and ask for it to be
 
 ## What changes with the bike you are given
 
-The walk-round is the same for every bike, and a few checks shift with the type. The model details come from Honda's and Yamaha's own Vietnamese pages, and they apply only if the shop offers that model on your dates.
+The walk-round is the same for every bike, and a few checks shift with the type. The Wave, Sirius, Vision and Air Blade details come from Honda's and Yamaha's own Vietnamese pages, and they apply only if the shop offers that model on your dates.
 
 | Bike | What differs | At handover |
 |---|---|---|
 | Honda Wave, Yamaha Sirius | Semi-automatic underbones: gears are shifted by foot, with no clutch lever, and the chain is exposed. Honda lists a four-speed gearbox for the Wave Alpha 110 and Wave RSX, and Yamaha lists one for the Sirius RC | Check that each gear engages cleanly and that neutral can be found at a standstill; look at the chain |
-| Yamaha Sirius | Drum and disc versions exist, and Yamaha's page for the RC lists a front disc, a rear drum and tyres with inner tubes | Judge the brakes against that bike's own type; ask who pays for a puncture repair |
-| Honda Vision, Honda Air Blade, Honda Click, Yamaha Mio | Automatic scooters: twist and go, so no gear change and no exposed chain | Test the throttle return and both brake levers; the chain check does not apply |
-| Honda Air Blade | Honda's pages for the Air Blade 125 and 160 both list a coolant temperature warning | Look at the dashboard after starting: a warning that stays lit is a question for the shop |
+| Yamaha Sirius | Drum and disc versions exist, and Yamaha's page for the RC lists a front disc, a rear drum and tyres with inner tubes | Judge the brakes against that bike's own type |
+| Honda Vision, Honda Air Blade | Honda lists an automatic (CVT) transmission for both: twist and go, so no gear change | Test the throttle return and both brake levers; the chain check is for semi-automatic and manual bikes |
+| Honda Air Blade | Honda's pages for the Air Blade 125 and 160 both list a coolant temperature warning | Watch for it on the dashboard after starting |
+| Honda Click, Yamaha Mio | This guide quotes no manufacturer figures for these two models | Ask the shop what type of bike it is and which checks apply; do not assume from the name |
 
 ## The checklist on one screen
 
@@ -130,9 +131,9 @@ Screenshot or print this table. The right-hand column says what to do when a che
 | Tyres | Tread visible; no cuts, bulges, cracks or cords | Cords or deep damage: stop. Soft: ask for a gauge check |
 | Chain, on semi-automatic and manual bikes | Not rusted stiff; neither sagging nor tight | Fix first: ask for adjustment |
 | Stand and steering lock | Stand holds and springs clear; lock engages and releases | Fix first |
-| Number plates | Fitted, clean, readable | Stop |
+| Number plate | Fitted, clean, readable | Stop |
 | Fuel | Level photographed and agreed | Note it: agree the level in the chat |
-| Body | Every mark photographed and pointed out | Note it |
+| Body | Existing marks already photographed | Note it |
 | Helmet, if one is provided | Sound shell, strap fastens, snug fit | Fix first: ask for another |
 
 ## What to reject outright
@@ -147,9 +148,9 @@ No swap policy is published, so make it a request and keep it specific: "The rea
 
 ### Marks you note instead
 
-Scratches, scuffs, a worn seat and a dirty panel are not safety faults. Photograph them, point them out and send the set. Whether they matter is a question for the deposit conversation, and your photographs are how you show they were there from the start.
+Scratches, scuffs, a worn seat and a dirty panel are not safety faults. Whether they matter is a question for the deposit conversation, and the photographs you took earlier are how you show they were there from the start.
 
-If the bike passes, sign, photograph, and ride. If anything is marginal, ask for a different bike - availability changes, so contact us to confirm what is in stock today.
+If the bike passes, sign, photograph, and ride. Your photographs are already taken by then. If anything is marginal, ask for a different bike - availability changes, so contact us to confirm what is in stock today.
 
 ## Running it backwards at the return
 
@@ -165,12 +166,12 @@ Stop somewhere safe if it affects the brakes, the steering or a tyre, photograph
 
 ### Can I take a short test ride before I decide?
 
-No test-ride policy is published, so ask. A test ride is riding on a public road like any other, so carry the licence that covers the bike. Use it to feel the brakes under load, the steering and the throttle response, and bring the bike back to the shop if anything is wrong.
+No test-ride policy is published, so ask. A test ride on a public road is riding like any other, so carry the licence that covers the bike. Use it to feel the brakes under load, the steering and the throttle response, and bring the bike back to the shop if anything is wrong.
 
 ### Do I repeat the checks when the bike is delivered?
 
-Yes. Delivery changes where the handover happens, not what you check. Do the same walk-round at the door, in good light, before you sign and while whoever hands over the bike is still there; [shop pickup versus delivery]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) compares the two routes.
+Yes. Delivery in Hanoi may be available depending on location and arrangement, and if you arrange it the checks stay the same: only the place where you make them differs. Do the full walk-round wherever you take the bike, in good light, before you sign and while whoever hands it over is still there. [Step 5 of the rental guide]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}) gives the order to follow, and [shop pickup versus delivery]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) compares the two routes.
 
 ### Is the checklist different for a rental of several months?
 
-The walk-round is the same, but the photographs matter more because they are the baseline for the whole term. The guides for [three months]({{ '/articles/three-month-motorbike-rental-hanoi/' | relative_url }}), [six months or longer]({{ '/articles/renting-motorbike-six-months-hanoi/' | relative_url }}) and [a year]({{ '/articles/renting-motorbike-year-hanoi/' | relative_url }}) cover the terms of a long rental.
+The walk-round is the same, but the photographs matter more because they are the baseline for the whole term. The guides for [three months]({{ '/articles/three-month-motorbike-rental-hanoi/' | relative_url }}) and [six months or longer]({{ '/articles/renting-motorbike-six-months-hanoi/' | relative_url }}) cover the terms of a long rental, and [the weekly check routine for a monthly rental]({{ '/articles/monthly-rental-inspection-schedule-hanoi/' | relative_url }}) covers keeping an eye on the bike afterwards.
