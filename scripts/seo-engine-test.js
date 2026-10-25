@@ -442,6 +442,22 @@ check('data-driven: an unknown CSV layout is rejected, never guessed', LIB.parse
   check('English-only guard: a language switcher finding is blocking', LG.isBlocking({ severity: 'P1', issue: 'language switcher or /vi/ link in rendered page' }));
 }
 
+// ---------- 5f. per-URL SEO fingerprint (docs/seo/research/package3, method CS10) ----------
+{
+  const LF = require(path.join(SRC, 'lib.js'));
+  const pageHtml = (o) => '<html><head><title>' + o.t + '</title><meta name="description" content="' + o.d + '"><link rel="canonical" href="' + o.c + '">' + (o.r ? '<meta name="robots" content="' + o.r + '">' : '') +
+    '<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization"},{"@type":["Organization","LocalBusiness"]}]}</script></head><body><h1>Hanoi <em>motorbike</em> rental</h1></body></html>';
+  const fp = LF.pageFingerprint(pageHtml({ t: 'Home', d: 'Desc', c: 'https://x/' }));
+  check('fingerprint: title, description, canonical, H1 text and sorted JSON-LD types are captured', fp.title === 'Home' && fp.description === 'Desc' && fp.canonical === 'https://x/' && fp.robots === null && fp.h1 === 'Hanoi motorbike rental' && fp.jsonld === 'Organization, Organization+LocalBusiness', JSON.stringify(fp));
+  const before = { '/': fp, '/a/': LF.pageFingerprint(pageHtml({ t: 'A', d: 'D', c: 'https://x/a/' })), '/gone/': fp };
+  const after = { '/': LF.pageFingerprint(pageHtml({ t: 'Home 2', d: 'Desc', c: 'https://x/' })), '/a/': LF.pageFingerprint(pageHtml({ t: 'A', d: 'D', c: 'https://x/b/', r: 'noindex' })), '/new/': fp };
+  const ch = LF.fingerprintChanges(before, after);
+  const has = (sev, re) => ch.some(c => c.severity === sev && re.test(c.issue));
+  check('fingerprint: canonical change, new noindex and removed page are P1; title change and new page are P3', has('P1', /^canonical does not match/) && has('P1', /^accidental noindex/) && has('P1', /^page removed/) && has('P3', /^fingerprint change \(title\)/) && has('P3', /^page added/) && ch.length === 5, JSON.stringify(ch));
+  check('fingerprint: a canonical change and a new noindex are blocking under the central rule', ch.filter(c => c.severity === 'P1' && LF.isBlocking(c)).length === 2);
+  check('fingerprint: identical fingerprints report no change', LF.fingerprintChanges(before, before).length === 0);
+}
+
 // ---------- 6. production isolation ----------
 check('isolation: fixture articles never leaked into production', !fs.existsSync(path.join(PROD_ROOT, '_articles', 'valid-article.md')));
 const prodCount = fs.readdirSync(path.join(PROD_ROOT, '_articles')).filter(f => f.endsWith('.md')).length;

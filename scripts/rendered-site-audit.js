@@ -264,7 +264,24 @@ if (fs.existsSync(searchJson)) {
   try { JSON.parse(fs.readFileSync(searchJson, 'utf8')); } catch (e) { F.add('P1', 'search.json', '-', 'rendered search.json is invalid JSON', 'Fix template'); }
 }
 
-const report = { tool: 'rendered-site-audit', counts: F.counts, renderedPages: htmlPages, linkGraph, findings: F.items };
+// Per-URL SEO fingerprint (docs/seo/research/package3, method CS10): opt-in. --fingerprint-out FILE
+// writes title, description, canonical, robots, H1 and JSON-LD types of every rendered page;
+// --fingerprint-compare FILE reports what changed against such a file (for example one written
+// from a main build), so a canonical change or a new noindex blocks before merge.
+const argAfter = flag => { const i = process.argv.indexOf(flag); return i > -1 ? process.argv[i + 1] : null; };
+let fingerprintDiff = null;
+if (argAfter('--fingerprint-out') || argAfter('--fingerprint-compare')) {
+  const prints = {};
+  for (const f of htmlFiles) prints[siteUrlOf(f)] = L.pageFingerprint(fs.readFileSync(f, 'utf8'));
+  if (argAfter('--fingerprint-out')) fs.writeFileSync(path.resolve(argAfter('--fingerprint-out')), JSON.stringify(prints, null, 1));
+  if (argAfter('--fingerprint-compare')) {
+    const changes = L.fingerprintChanges(JSON.parse(fs.readFileSync(path.resolve(argAfter('--fingerprint-compare')), 'utf8')), prints);
+    for (const c of changes) F.add(c.severity, 'fingerprint', c.url, c.issue, c.fix);
+    fingerprintDiff = { compared: argAfter('--fingerprint-compare'), changes: changes.length };
+  }
+}
+
+const report = { tool: 'rendered-site-audit', counts: F.counts, renderedPages: htmlPages, linkGraph, fingerprintDiff, findings: F.items };
 fs.mkdirSync(path.join(L.ROOT, 'reports'), { recursive: true });
 fs.writeFileSync(path.join(L.ROOT, 'reports', 'rendered-site-audit.json'), JSON.stringify(report, null, 2));
 console.log('rendered-site-audit: pages=' + htmlPages + ' links=' + linkGraph.edges + ' max click depth=' + linkGraph.maxDepth + ' unreachable=' + unreachable.length + ' P0=' + F.counts.P0 + ' P1=' + F.counts.P1 + ' P2=' + F.counts.P2 + ' P3=' + F.counts.P3 + ' blocking=' + F.blocking.length);

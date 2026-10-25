@@ -582,4 +582,41 @@ function llmsTxtFindings(text, facts) {
   return out;
 }
 
-module.exports = { ROOT, CLUSTERS, SITE_URL, BASEURL, PRIMARY_LEGAL_DOMAINS, isPrimaryLegalSource, isBlocking, walk, parseFrontMatter, loadArticles, loadPages, articleUrl, pageUrl, stripLiquid, contentText, contentWords, unlinkedRefs, UNLINKED_REF_PATTERNS, findH1s, extractLinks, Findings, sitemapLocs, isDynamicallyListed, expectedIndexableUrls, parseCsv, parseGscCsv, gscSignal, sitePath, latestRankSnapshot, rankSignal, clickDepth, pageRank, percentileRanks, elementRanges, NAV_ZONES, ownSitePath, internalPageHref, renderedLinkGraph, llmsTxtFindings };
+// SEO fingerprint of one rendered page: the fields a reviewer must see change before a merge
+// (docs/seo/research/package3, method CS10, adapted from claude-seo's drift baseline). Pure.
+function pageFingerprint(html) {
+  const one = re => { const m = html.match(re); return m ? m[1].replace(/\s+/g, ' ').trim() : null; };
+  const text = s => s.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+  const types = [];
+  for (const m of html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/gi)) {
+    let j; try { j = JSON.parse(m[1]); } catch (e) { types.push('INVALID'); continue; }
+    for (const item of (j['@graph'] || (Array.isArray(j) ? j : [j]))) types.push([].concat(item['@type'] || '?').join('+'));
+  }
+  return {
+    title: one(/<title[^>]*>([\s\S]*?)<\/title>/i),
+    description: one(/<meta\s+name="description"\s+content="([^"]*)"/i),
+    canonical: one(/<link\s+rel="canonical"\s+href="([^"]+)"/i),
+    robots: one(/<meta\s+name="robots"\s+content="([^"]*)"/i),
+    h1: [...html.matchAll(/<h1\b[^>]*>([\s\S]*?)<\/h1>/gi)].map(m => text(m[1])).join(' | '),
+    jsonld: types.sort().join(', ')
+  };
+}
+
+// Changes between two fingerprint maps ({url: fingerprint}). A canonical change, a new noindex or a
+// removed page is P1 (the canonical and noindex wordings match the central blocking rule); title,
+// description, H1 and JSON-LD changes and new pages are P3 for review.
+function fingerprintChanges(before, after) {
+  const out = [];
+  const add = (severity, url, issue, fix) => out.push({ severity, url, issue, fix });
+  for (const url of Object.keys(before).sort()) {
+    const a = before[url], b = after[url];
+    if (!b) { add('P1', url, 'page removed since the fingerprint baseline', 'Restore the page; URLs are never removed'); continue; }
+    if (a.canonical !== b.canonical) add('P1', url, 'canonical does not match the fingerprint baseline: ' + a.canonical + ' -> ' + b.canonical, 'Canonicals never change without a recorded reason');
+    if (!/noindex/i.test(a.robots || '') && /noindex/i.test(b.robots || '')) add('P1', url, 'accidental noindex against the fingerprint baseline', 'Remove the noindex');
+    for (const k of ['title', 'description', 'h1', 'jsonld']) if (a[k] !== b[k]) add('P3', url, 'fingerprint change (' + k + '): ' + a[k] + ' -> ' + b[k], 'Confirm the change is intended and recorded');
+  }
+  for (const url of Object.keys(after).sort()) if (!before[url]) add('P3', url, 'page added since the fingerprint baseline', 'Confirm the page is intended');
+  return out;
+}
+
+module.exports = { ROOT, CLUSTERS, SITE_URL, BASEURL, PRIMARY_LEGAL_DOMAINS, isPrimaryLegalSource, isBlocking, walk, parseFrontMatter, loadArticles, loadPages, articleUrl, pageUrl, stripLiquid, contentText, contentWords, unlinkedRefs, UNLINKED_REF_PATTERNS, findH1s, extractLinks, Findings, sitemapLocs, isDynamicallyListed, expectedIndexableUrls, parseCsv, parseGscCsv, gscSignal, sitePath, latestRankSnapshot, rankSignal, clickDepth, pageRank, percentileRanks, elementRanges, NAV_ZONES, ownSitePath, internalPageHref, renderedLinkGraph, llmsTxtFindings, pageFingerprint, fingerprintChanges };
