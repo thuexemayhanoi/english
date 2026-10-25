@@ -82,6 +82,9 @@ function topicOf(keyword) {
 
 // ---------- helpers ----------
 const host = u => { try { return new URL(u).hostname.replace(/^www\./, ''); } catch (e) { return String(u || ''); } };
+// A tracked ranking URL becomes a site path only when it is on this host; a URL on another domain
+// (for example the owner's other sites) keeps its full address, so it is never mistaken for ours.
+const ownPathOrUrl = u => (/^https?:\/\//i.test(String(u || '')) && host(u) !== OUR_HOST ? String(u) : L.sitePath(u));
 const dateOf = s => (String(s || '').match(/^\d{4}-\d{2}-\d{2}/) || [''])[0];
 const marketCode = loc => MARKETS[loc] || (loc ? String(loc).toLowerCase().replace(/[^a-z]+/g, '-') : 'us');
 const readJSON = (p, fallback) => { try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch (e) { return fallback; } };
@@ -226,9 +229,10 @@ function ingest(inbox, opts) {
       const logU = { file, tool };
       if (tool === 'project_position_info') {
         const date = dateOf(d.complete_through); const mk = RANK_LOC[input.locId] || 'vn'; const device = input.device || 'desktop';
-        const rows = (d.keywords || []).map(k => { const np = k.new_position || {}, op = k.old_position || {}; return { keyword: k.keyword, position: np.position != null ? np.position : null, url: np.url ? L.sitePath(np.url) : null, previous_position: op.position != null ? op.position : null, status: k.status || '', difficulty: k.sd != null ? k.sd : null, tool_volume: k.volume ? k.volume : null }; }).sort((a, b) => a.keyword.localeCompare(b.keyword));
-        const pos = r => r.position;
-        const snap = { tool: 'Ubersuggest project_position_info', date, market: MARKET_NAMES[mk] || mk, device, language: input.language || 'en', next_update: d.next_update || '', tracked: rows.length, ranking: rows.filter(r => pos(r) != null).length,
+        const rows = (d.keywords || []).map(k => { const np = k.new_position || {}, op = k.old_position || {}; return { keyword: k.keyword, position: np.position != null ? np.position : null, url: np.url ? ownPathOrUrl(np.url) : null, previous_position: op.position != null ? op.position : null, status: k.status || '', difficulty: k.sd != null ? k.sd : null, tool_volume: k.volume ? k.volume : null }; }).sort((a, b) => a.keyword.localeCompare(b.keyword));
+        // Positions of another domain are kept in the rows for the record but never counted as ours.
+        const pos = r => (r.url && /^https?:\/\//i.test(r.url) ? null : r.position);
+        const snap = { tool: 'Ubersuggest project_position_info', host_recorded: true, date, market: MARKET_NAMES[mk] || mk, device, language: input.language || 'en', next_update: d.next_update || '', tracked: rows.length, ranking: rows.filter(r => pos(r) != null).length,
           bands: { top3: rows.filter(r => pos(r) != null && pos(r) <= 3).length, page1: rows.filter(r => pos(r) > 3 && pos(r) <= 10).length, striking: rows.filter(r => pos(r) > 10 && pos(r) <= 20).length, deep: rows.filter(r => pos(r) > 20).length, not_ranking: rows.filter(r => pos(r) == null && r.status !== 'unstable').length, unstable: rows.filter(r => r.status === 'unstable').length }, rows };
         rankSnaps[rankKey(snap)] = snap; logU.date = date; logU.market = mk; logU.scope = rows.length + ' tracked keywords'; summary.rankSnapshots = (summary.rankSnapshots || 0) + 1;
       } else {

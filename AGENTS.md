@@ -79,7 +79,9 @@ CURRENT remote main before acting. Never rely on remembered state.
   It also ingests the Ubersuggest rank-tracker and AI-visibility exports into
   `_tracking` (dated positions per keyword and ranking URL); the matrix turns
   positions 4-20 into P2 quick wins and flags a different ranking URL than the
-  declared owner (optimization-log batches with `rank_work: true` wait for the
+  declared owner (a ranking URL on another domain keeps its full address and is
+  never counted as this site's position; snapshots before 2026-10-25 stored no
+  host, so their "/" rows are UNKNOWN) (optimization-log batches with `rank_work: true` wait for the
   next snapshot). Positions are not clicks: ZERO-DATA mode stays until a real
   Search Console export exists. The OpenSEO AI-answer export (`openseo_ai_visibility`:
   per prompt and engine whether this domain was cited or named, the pages and
