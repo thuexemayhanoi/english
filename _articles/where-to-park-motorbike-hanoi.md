@@ -22,6 +22,7 @@ sources:
   - "https://vov.vn/xa-hoi/ha-noi-191-tuyen-duong-pho-duoc-su-dung-long-duong-trong-giu-phuong-tien-post1142849.vov — VOV: Ha Noi lists streets where part of the roadway may be used for vehicle parking, 18 December 2024 — Decision 6440/QĐ-UBND approved a list of eligible streets and fewer streets were licensed at that date (retrieved 2026-10-25)"
   - "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm — Viet Nam Government Portal: Ha Noi begins restricting fossil-fuel vehicles in low-emission zones, 2 July 2026 — Zone 1 is a list of named streets; all road vehicles including motorcycles and mopeds barred from entering 7:00 p.m. to midnight every Friday, Saturday and Sunday; priority vehicles keep access (retrieved 2026-10-25)"
   - "https://en.vietnamplus.vn/hanoi-rolls-out-inner-city-traffic-plan-to-support-low-emission-zone-pilot-post347526.vnp — VietnamPlus: Hanoi rolls out inner-city traffic plan to support low-emission zone pilot — first phase from 1 July to 31 December in Hoan Kiem ward zones 1 and 2; Zone 1 covers the Hoan Kiem Lake pedestrian area, the Old Quarter and the weekend night market (retrieved 2026-10-25)"
+  - "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-238-2026-nd-cp-469913/66580.htm — Decree 238/2026/NĐ-CP, Official Gazette record — issued 26 June 2026, in force 15 August 2026, amends Decree 168/2024/NĐ-CP; amended text not read (retrieved 2026-10-25)"
 internal_link_targets: riding-on-sidewalk-vietnam, motorbike-fines-vietnam-overview, rental-motorbike-inspection-checklist, stopped-by-traffic-police-vietnam, hotel-parking-motorbike-hanoi, hoan-kiem-walking-street-motorbike-visitors, police-impound-motorbike-vietnam, parking-monthly-renter-hanoi, theft-loss-responsibility-rental-motorbike-hanoi
 ---
 
@@ -111,11 +112,11 @@ Decree 168/2024 attaches penalties to several of these for motorbikes: stopping 
 
 Holding a vehicle is separate from fining it; the impound guide linked above covers when police may do it. This guide cannot say whether a wrongly parked bike is also moved and held.
 
-Article 48 does say who pays for moving a held vehicle. If the driver or owner is absent or does not comply, the authority moves it to the holding place, may hire someone if it cannot do so itself, and the driver or owner pays that hire. If an officer tells you to move the bike, do it; [Stopped by Traffic Police in Vietnam: What to Do]({{ '/articles/stopped-by-traffic-police-vietnam/' | relative_url }}) covers the stop itself.
+Article 48 of Decree 168/2024 does say who pays for moving a held vehicle. If the driver or owner is absent or does not comply, the authority moves it to the holding place, may hire someone if it cannot do so itself, and the driver or owner pays that hire. If an officer tells you to move the bike, do it; [Stopped by Traffic Police in Vietnam: What to Do]({{ '/articles/stopped-by-traffic-police-vietnam/' | relative_url }}) covers the stop itself.
 
 ### Friday to Sunday evenings near Hoan Kiem
 
-Near Hoan Kiem, a 2026 pilot bars road vehicles, motorcycles included, from the named Zone 1 streets from 19:00 to 24:00 on each Friday, Saturday and Sunday; park outside them.
+Near Hoan Kiem, a 2026 pilot bars road vehicles, motorcycles included, from the Zone 1 streets named in the official notice from 19:00 to 24:00 on each Friday, Saturday and Sunday; park outside them.
 
 ## Overnight parking
 
@@ -137,7 +138,8 @@ Do not assume theft straight away. Work through these in order.
 
 1. Check that you are at the right place: the same side of the street, the same lot entrance, the scene in your photograph.
 2. Look along the row and the next street, then ask the attendant or nearby shop staff whether bikes were moved, and show the ticket and photographs.
-3. If the police or officials took the bike, ask where it is kept and what to bring to collect it.4. If it is gone, call the shop, report it to the police and ask for the written report (biên bản). [Common Motorbike Rental Problems in Hanoi and How to Avoid Them]({{ '/articles/common-motorbike-rental-problems-hanoi/' | relative_url }}) shows where a theft sits among the other rental problems.
+3. If the police or officials took the bike, ask where it is kept and what to bring to collect it.
+4. If it is gone, call the shop, report it to the police and ask for the written report (biên bản). [Common Motorbike Rental Problems in Hanoi and How to Avoid Them]({{ '/articles/common-motorbike-rental-problems-hanoi/' | relative_url }}) shows where a theft sits among the other rental problems.
 
 Nguyen Tu's published opening hours are 09:00-21:00 daily, and the number for WhatsApp and Zalo is +84 942 467 674. Message the shop in writing with your photographs as soon as you know, so there is a dated record, and do the police report without waiting for a reply.
 
