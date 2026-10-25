@@ -28,12 +28,12 @@ Every item is sorted into one of three states: included, not included, or a ques
 
 | Item | Status | In short |
 |---|---|---|
-| The bike for the period you pay for | Included | The published day rate buys the bike for the day |
-| Registration certificate | Ask to see it | It rides with the bike |
+| The bike for the period you pay for | Included | The published day rate pays for it |
+| Registration certificate | Ask to see it | Rides with the bike |
 | Basic maintenance | May be included | Oil change, chain adjustment and tension, tyre-pressure checks, normal inspection |
-| Advice and support | During opening hours | 09:00-21:00 daily, primarily for Hanoi and local use |
-| Rider insurance | Not provided | You arrange your own cover |
-| Inner tubes and tyres | May be yours | It depends on the situation |
+| Advice and support | During opening hours | Primarily for Hanoi and local use |
+| Rider insurance | Not provided | Arrange your own cover |
+| Inner tubes and tyres | May be yours | Depends on the situation |
 | A fixed delivery fee | None published | Delivery may be available, depending on location and arrangement |
 | Free repairs, 24/7 rescue, a guaranteed rescue time | Not promised | Do not plan around them |
 | Helmets, raincoat, phone holder | Ask | Not confirmed as part of the rental |
@@ -42,8 +42,11 @@ Every item is sorted into one of three states: included, not included, or a ques
 ## Included
 
 - The bike, for the period you paid for.
+
 - Registration certificate. It rides with the bike, and Vietnamese law requires a rider to carry it together with the compulsory insurance certificate, which is a separate paper ([what a rider must carry in Vietnam]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }})). Ask to see both at handover. If either paper is missing, settle that before you ride.
+
 - The owner's basic maintenance across the rental: engine oil changes, chain adjustment and tensioning, tyre-pressure checks and normal inspection. On a longer rental this is a real part of the value - a monthly renter is not paying for the bike's upkeep. Read the list as work the maintenance may include, not as a fixed service schedule, and ask which items apply to your bike and your dates.
+
 - Advice and support during opening hours (09:00-21:00) - the shop knows its bikes and can tell you what a noise means. Support is primarily for Hanoi and local use, which matters if your plans reach beyond the city.
 
 ### What the maintenance list means in practice
