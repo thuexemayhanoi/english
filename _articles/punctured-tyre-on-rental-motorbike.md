@@ -18,7 +18,7 @@ last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://yamaha-motor.com.vn/xe/sirius-rc-phien-ban-vanh-duc-mau-moi-2025-bgyf-g — Yamaha Motor Vietnam, Sirius RC alloy-wheel version, specification table — front 70/90-17 and rear 80/90-17 tyres, both listed as tyres with an inner tube (lốp có săm) (retrieved 2026-10-25)"
-  - "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110 — Honda Vietnam, Wave Alpha 110 detail page — tyre sizes 70/90-17 front and 80/90-17 rear, owner's manual offered as a download (retrieved 2026-10-25)"
+  - "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110 — Honda Vietnam, Wave Alpha 110 detail page — tyre sizes 70/90-17 front and 80/90-17 rear (retrieved 2026-10-25)"
   - "docs/MODEL-DATABASE.md — verified Yamaha VN row for the Gear 125 Hybrid (110/70-12, tubeless), retrieved 2026-09-23"
 internal_link_targets: "rental-motorbike-breakdown-hanoi, outside-repair-shops-rental-motorbike, rental-motorbike-inspection-checklist, common-motorbike-rental-problems-hanoi, what-is-included-motorbike-rental-hanoi, consumables-monthly-rental-hanoi, flat-tyre-repair-motorbike-vietnam, motorbike-rental-agreement-hanoi"
 ---
@@ -70,11 +70,11 @@ Put the answers where you can find them again. If you booked by message, the thr
 - Slow down gradually and avoid hard braking, because a soft tyre changes how the bike steers and stops. Pull in at the kerb or a side street, switch off, and keep the key on you; a lost key is a separate problem, set out in [what happens if you lose the key to a rental motorbike]({{ '/articles/lost-key-rental-motorbike-hanoi/' | relative_url }}).
 - Call or message the shop. Say where you are, what the tyre looks like and whether you can see the cause, and ask what the shop wants you to do. The general order for any breakdown is in [what happens if a rental motorbike breaks down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}).
 - Repair at a roadside tyre shop (vá xe in Vietnamese) only after you have asked. [Can you use outside repair shops on a rental motorbike?]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) explains why a call first keeps the story simple. Ask the tyre shop for the price before the work starts, watch the repair if you can, and ask for a receipt or note the shop, the price and the time on your phone.
-- Keep the receipt, photograph the cause if you can (the nail in the tube is a good photo), and tell the shop what happened - especially on longer rentals where the shop tracks its bikes' condition.
+- Keep the receipt, photograph the cause if you can (the nail in the tube is a good photo), and tell the shop what happened - especially on longer rentals where the shop tracks its bikes' condition. Whether the shop keeps a record of each bike's condition is a question for the shop.
 
 ### When the flat comes late or far from the shop
 
-The shop's published hours are 09:00-21:00, and its support is primarily for Hanoi and local use. Nothing published promises round-the-clock rescue or a response time, so a puncture late in the evening or far from the city is yours to make safe first. Get the bike off the road, send the message so it is waiting when the shop opens, and ask what the shop can do and how soon.
+The shop's published hours are 09:00-21:00, and its support is primarily for Hanoi and local use. This guide cannot promise round-the-clock rescue or a response time, so a puncture late in the evening or far from the city is yours to make safe first. Get the bike off the road, send the message so it is waiting when the shop opens, and ask what the shop can do and how soon.
 
 ### An illustrative evening
 
@@ -84,17 +84,17 @@ Imagine a renter who feels the rear tyre going soft at an evening traffic light.
 
 This guide gives no repair price: the shop publishes none, and what a roadside tyre shop asks depends on the place and the work done. Ask for the price before the work starts, and ask which of three jobs is being quoted:
 
-- Patching the tube: the least work, and the tube stays.
+- Patching the tube: no new part, and the tube stays.
 - A new inner tube: the tube is replaced and the tyre stays.
-- A new tyre: the most work and the most parts, and the answer to damage to the tyre itself, such as a cut sidewall.
+- A new tyre: the most parts, and the answer to damage to the tyre itself, such as a cut sidewall.
 
-That order is by amount of work, not by a price list. [Flat tyre repair on a motorbike in Vietnam]({{ '/articles/flat-tyre-repair-motorbike-vietnam/' | relative_url }}) explains when a patch is not enough and a new tube or tyre is the answer.
+That order is by parts replaced, not by a price list. [Flat tyre repair on a motorbike in Vietnam]({{ '/articles/flat-tyre-repair-motorbike-vietnam/' | relative_url }}) explains when a patch is not enough and a new tube or tyre is the answer.
 
 Which job is quoted matters for the conversation with your rental shop too. The consumables wording names inner tubes and tyres, and a patch at a roadside stand is not the same expense as a new tyre, so it is reasonable to ask whether the answer to who pays changes between them. A cost still unsettled at return becomes a deposit question: [how deposit returns work at Hanoi motorbike rentals]({{ '/articles/how-deposit-returns-work-hanoi/' | relative_url }}) describes the general process, and what may be taken from a deposit is best asked before you ride.
 
 ## Tubed or tubeless: read it from the maker's page, then ask
 
-The consumables wording says inner tubes and tyres, and which of the two a puncture touches depends on whether the bike runs tubed or tubeless tyres. Manufacturers state it in their specification tables, and the tables differ from model to model:
+The consumables wording says inner tubes and tyres, and which of the two a puncture touches depends on whether the bike runs tubed or tubeless tyres. Some manufacturers state it in their specification tables, and the tables differ from model to model:
 
 | Model (maker's page) | Tyre sizes listed | Tube or tubeless |
 |---|---|---|
@@ -112,15 +112,15 @@ Check the tyres at handover, then once a week by feel and at any fuel-station ga
 
 ### Feel first, then the gauge
 
-Thumb pressure only tells you about a tyre that is clearly soft, while a gauge gives the number. The right number differs by model and by load, so ask the shop what pressure your bike should have. The maker's owner's manual is the document for a model's own figure: Honda Vietnam's page for the Wave Alpha 110, for example, offers the manual as a download. [Tyre care and pressure basics for motorbikes]({{ '/articles/tyre-care-motorbike-vietnam/' | relative_url }}) covers the wear and damage signs to look for.
+Thumb pressure only tells you about a tyre that is clearly soft, while a gauge gives the number. The right number differs by model and by load, so ask the shop what pressure your bike should have. The maker's owner's manual is the document for a model's own figure. [Tyre care and pressure basics for motorbikes]({{ '/articles/tyre-care-motorbike-vietnam/' | relative_url }}) covers the wear and damage signs to look for.
 
 ### Riding habits that save a tyre
 
 - Where you can, keep clear of the litter and debris at the edge of the lane.
-- Slow down for potholes and kerbs: a hard hit is the classic way to pinch a tube.
+- Slow down for potholes and kerbs: a hard hit can pinch a tube.
 - Recheck the pressure when you carry a passenger or luggage, because load changes what a tyre needs.
 - If the bike feels vague or pulls to one side, stop and look rather than ride on.
-- Notice the chain in the same minute: [what to do if the chain feels loose on a rental bike]({{ '/articles/loose-chain-on-rental-motorbike/' | relative_url }}) deals with the other fault a rider can feel.
+- Another fault a rider can feel is covered in [what to do if the chain feels loose on a rental bike]({{ '/articles/loose-chain-on-rental-motorbike/' | relative_url }}).
 
 A flat tyre sits in a longer list of rental problems, from handover to return, set out in [common motorbike rental problems in Hanoi]({{ '/articles/common-motorbike-rental-problems-hanoi/' | relative_url }}).
 
