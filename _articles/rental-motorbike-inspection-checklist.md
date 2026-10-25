@@ -18,6 +18,7 @@ last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "docs/MODEL-DATABASE.md — verified Honda VN and Yamaha VN model rows (Wave Alpha 110, Wave RSX, Sirius RC 110, Vision, Air Blade 125 and 160), retrieved 2026-09-23"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 56(1)(a), 56(1)(d) and 56(3): registration certificate (certified copy only for a vehicle mortgaged to a credit institution, with its original confirmation), compulsory insurance certificate, electronic identification account (retrieved 2026-10-25)"
 internal_link_targets: "how-to-rent-a-motorbike-hanoi, motorbike-rental-deposit-hanoi, how-deposit-returns-work-hanoi, motorbike-rental-fuel-policy-hanoi, motorbike-required-equipment-vietnam, returning-a-rental-motorbike-hanoi, manual-motorbike-rental-checklist-hanoi"
 ---
 
@@ -74,9 +75,9 @@ Chain on manual and semi-automatic bikes: not rusted stiff, and neither hanging 
 
 - Note the fuel level and agree the return level - the [fuel-policy article]({{ '/articles/motorbike-rental-fuel-policy-hanoi/' | relative_url }}) explains the two conventions.
 - Number plate fitted and clean - riding without a number plate is a serious violation. If you are shown the registration papers, compare the characters with them: they should be readable and match. The [number plates guide]({{ '/articles/riding-without-number-plates-vietnam/' | relative_url }}) sets out the offence.
-- Registration papers: ask at handover which ones travel with the bike (the original or a certified copy). If the original stays at the shop, ask for a certified copy to carry, and keep the shop's number; the guide to [police holding a motorbike]({{ '/articles/police-impound-motorbike-vietnam/' | relative_url }}) covers what can happen when papers cannot be produced.
+- Registration papers: ask at handover how the bike's registration will be shown at a police stop. Article 56 of Law 36/2024/QH15 expects the rider to carry the registration certificate itself; a certified copy counts only for a bike mortgaged to a bank, together with the bank's original confirmation, and papers already integrated into an electronic identification account can be shown through that account. Keep the shop's number; the guide to [police holding a motorbike]({{ '/articles/police-impound-motorbike-vietnam/' | relative_url }}) covers what can happen when papers cannot be produced.
 
-Nguyen Tu does not provide motorbike insurance, so do not expect an insurance certificate to come with the bike: customers arrange their own cover before they ride. The [documents guide]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) sets out the papers the law expects a rider to carry.
+Nguyen Tu does not provide motorbike insurance: customers arrange their own cover before they ride. That is separate from the owner's compulsory civil-liability insurance certificate, which Article 56(1)(d) of the same law lists among the documents a rider must carry, so ask at handover how it will be shown at a stop. The [documents guide]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) sets out the papers the law expects a rider to carry.
 
 ### Keys, helmet and extras
 
@@ -122,7 +123,7 @@ Screenshot or print this table. The right-hand column says what to do when a che
 
 | Check | What normal looks like | If it is not |
 |---|---|---|
-| Registration papers | Asked which travel with the bike; the plate matches any you see | Plate does not match the papers you see: stop and ask. If the original stays at the shop, ask for a certified copy to carry |
+| Registration and insurance papers | Asked how the registration certificate and the compulsory insurance certificate will be shown at a stop; the plate matches any papers you see | Plate does not match the papers you see: stop and ask |
 | Headlight, low and high beam | Both light up with the engine running | Fix first |
 | Brake light, indicators, horn | Brake light comes on with every brake control; indicators flash; horn sounds | Fix first |
 | Front and rear brakes | Firm lever or pedal; the wheel stops; the bike stops straight | Stop |

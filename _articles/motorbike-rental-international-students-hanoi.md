@@ -18,6 +18,7 @@ last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-12-2025-tt-bca-cua-bo-cong-an-quy-dinh-ve-sat-hach-cap-giay-phep-lai-xe-119250303174347028.htm — Circular 12/2025/TT-BCA of the Ministry of Public Security, full text (Báo điện tử Chính phủ) — Article 24(1): foreigners residing, working or studying in Vietnam may be considered for exchange of a valid national licence with a residence card valid for 3 months or more; IDPs and expired licences are not exchanged (retrieved 2026-10-25)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 56(1)(a), 56(1)(d) and 56(3): registration certificate (certified copy only for a vehicle mortgaged to a credit institution, with its original confirmation), compulsory insurance certificate, electronic identification account (retrieved 2026-10-25)"
 internal_link_targets: "best-motorbike-for-students-hanoi, foreign-student-motorbike-licence-vietnam, daily-weekly-monthly-motorbike-rental-hanoi, motorbike-rental-deposit-hanoi, best-motorbike-for-commuting-hanoi, motorbike-rental-expats-moving-hanoi, three-month-motorbike-rental-hanoi, motorbike-rental-monthly-price-hanoi, lending-motorbike-unlicensed-rider-vietnam, minimum-age-ride-motorbike-vietnam"
 ---
 
@@ -98,7 +99,7 @@ Rental rates do not answer where the bike sleeps. Campuses, dormitories and rent
 - Is a bike allowed inside the grounds, and does the place restrict rented bikes or bikes registered to someone else?
 - Is there an overnight parking place, and is it attended, covered or fenced?
 - What does it cost, and how is it paid?
-- What does the place ask to see when you collect the bike? Ask the shop at handover whether registration papers come with the bike, so you know what you can show.
+- What does the place ask to see when you collect the bike? Ask the shop at handover how the bike's registration will be shown, since a rider must carry it (Law 36/2024/QH15, Article 56).
 - What happens if a ticket or tag is lost?
 - If the bike is damaged or stolen on the premises, who is responsible?
 

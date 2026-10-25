@@ -95,7 +95,7 @@ A rental agreement does not give you the right to ride; your documents do, and s
 
 ### What the law says about an IDP
 
-Article 57 of Law 36/2024/QH15 sets the IDP rule. An international driving permit issued by a member state of the 1968 Vienna Convention is valid for no more than three years from issue and must be consistent with the remaining validity of the national licence. A rider using one in Vietnam must carry both documents, matching the class of vehicle and still in date. The same article gives Vietnamese A1, A and B1 motorbike licences no time limit, so this checklist matters most to riders on foreign paper.
+Article 57 of Law 36/2024/QH15 sets the IDP rule. An international driving permit issued by a member state of the 1968 Vienna Convention is valid for no more than three years from issue and must be consistent with the remaining validity of the national licence. A rider using one in Vietnam must carry both documents, matching the class of vehicle and still in date. The same article gives Vietnamese A1, A and B1 motorbike licences no time limit, but a Vietnamese licence exchanged for a foreigner is valid only for the term on the residence card and the foreign licence behind it (Circular 12/2025/TT-BCA, Article 24(5)(a)), so check the printed expiry date of every licence you ride on.
 
 In practice, the earlier of the two printed dates is the one that counts for your rental. [How Long Can You Ride on an IDP in Vietnam]({{ '/articles/idp-validity-period-vietnam/' | relative_url }}) walks through the same rule. A stay of this length is also where [the long-term expat licence guide]({{ '/articles/expat-motorbike-licence-vietnam/' | relative_url }}) becomes relevant, because it compares the routes beyond an IDP.
 

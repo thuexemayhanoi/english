@@ -107,7 +107,7 @@ A bike parked outdoors or in a shared apartment lot is exposed to knocks and wea
 
 ### Do I need a Vietnamese licence to ride a monthly rental?
 
-Not in every case. As set out above, Article 57 also recognises a 1968-convention IDP carried with a national licence that fits the vehicle, provided both are in date. A Vietnamese licence, which a resident can apply for by exchange under Article 24 of Circular 12/2025/TT-BCA, replaces that arrangement. Ask the shop which documents it wants to see before you pay.
+Not in every case. As set out above, Article 57 also recognises a 1968-convention IDP carried with a national licence that fits the vehicle, provided both are in date. A Vietnamese licence, which a resident can apply for by exchange under Article 24 of Circular 12/2025/TT-BCA, replaces that arrangement for the term printed on it, which Article 24(5)(a) ties to the residence card and the foreign licence. Ask the shop which documents it wants to see before you pay.
 
 ### Can the bike be delivered to my apartment?
 

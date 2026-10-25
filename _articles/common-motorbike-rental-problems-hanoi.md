@@ -17,6 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 56(1)(a), 56(1)(d) and 56(3): registration certificate (certified copy only for a vehicle mortgaged to a credit institution, with its original confirmation), compulsory insurance certificate, electronic identification account (retrieved 2026-10-25)"
 internal_link_targets: "rental-motorbike-inspection-checklist, punctured-tyre-on-rental-motorbike, theft-loss-responsibility-rental-motorbike-hanoi, motorbike-rental-deposit-hanoi, rental-motorbike-breakdown-hanoi, lost-key-rental-motorbike-hanoi, late-return-rental-motorbike-hanoi, police-impound-motorbike-vietnam"
 ---
 
@@ -113,7 +114,7 @@ Never leave the key in the ignition, even for a moment. If the bike is taken, te
 
 ### Problem 5: the paperwork gap
 
-Riding without carrying a licence the police recognise, or without the registration papers for the bike. Prevention: sort your licence route before renting, and ask at handover which registration papers travel with the bike (the original or a certified copy). Police can hold a bike whose papers cannot be produced.
+Riding without carrying a licence the police recognise, or without the registration papers for the bike. Prevention: sort your licence route before renting, and ask at handover how the registration certificate and the owner's compulsory insurance certificate will be shown at a police stop (Law 36/2024/QH15, Article 56). Police can hold a bike whose papers cannot be produced.
 
 Which licences count depends on where yours was issued. Holding is temporary custody while a violation is settled, not a fine and not confiscation, and the rules attach it to listed violations only. A rider who cannot produce licence or registration papers on the spot can have the bike held while the case is processed, as [the impound guide]({{ '/articles/police-impound-motorbike-vietnam/' | relative_url }}) explains.
 
