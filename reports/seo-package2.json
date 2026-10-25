@@ -12,21 +12,21 @@
       "severity": "P3",
       "file": "docs/seo/package2-baseline.json",
       "url": "-",
-      "issue": "package2 pending: 658 of 693 eligible article(s) are still below 1600 words",
+      "issue": "package2 pending: 648 of 693 eligible article(s) are still below 1600 words",
       "fix": "Work the next batch (node scripts/seo-package2.js --next 10)"
     }
   ],
   "summary": {
     "eligible": 693,
-    "done": 35,
+    "done": 45,
     "reviewRequired": 0,
-    "pending": 658,
+    "pending": 648,
     "byGroup": {
       "A": {
         "eligible": 92,
-        "done": 35,
+        "done": 45,
         "reviewRequired": 0,
-        "pending": 57
+        "pending": 47
       },
       "B": {
         "eligible": 337,
@@ -41,9 +41,9 @@
         "pending": 264
       }
     },
-    "wordsAddedDone": 61918,
+    "wordsAddedDone": 78383,
     "belowTargetDone": 0,
-    "batches": 4,
+    "batches": 5,
     "outOfScopeChanged": 0
   }
 }

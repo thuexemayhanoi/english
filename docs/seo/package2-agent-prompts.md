@@ -5,7 +5,7 @@ How a batch is run with individual subagents (writer, independent verifier, fixe
 ## Common rules for every agent
 
 - Repository `/home/user/english` (Jekyll site, English-only motorbike guide for Hanoi; business Hanoi Motorbike Rental Nguyen Tu). Load research tools with ToolSearch (`select:WebSearch,mcp__Firecrawl__firecrawl_scrape`); the sandbox cannot fetch web pages directly. Firecrawl: `formats: ["query"]` with a narrow `queryOptions.prompt`, 5 credits per read. When Firecrawl has no credits, read the same page with `mcp__Tavily__tavily_extract` or `mcp__TinyFish__fetch_content`; a read that fails or returns the wrong passage is not a source.
-- Do not commit, push, stash or switch branches. Edit no file except the one assigned article.
+- Do not commit, push, stash, reset or switch branches, and never run `git checkout` or anything else that moves HEAD (to see an older version use `git show REV:path` or `git diff REV -- path`). Edit no file except the one assigned article. Several agents share one worktree.
 - Be economical: issue independent reads in one message, write the article with one Write call (at most three Edit calls for later corrections), at most 6 web calls, and keep the final reply short.
 
 ## WRITER
