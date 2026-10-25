@@ -114,7 +114,7 @@ Bike choice has its own guide: [Choosing the Right Motorbike for a Month in Hano
 
 - Learn the shop's preferred channel and response pattern for issues ([What Happens If a Rental Motorbike Breaks Down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}))
 - Report anything that feels wrong early rather than riding through it — see [What to Do If Your Rental Motorbike Does Not Feel Normal]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }})
-- Keep the licence situation current: an exchange done in month one protects months two to six ([Vietnam Motorbike Licence for Long-Term Expats]({{ '/articles/expat-motorbike-licence-vietnam/' | relative_url }})). An exchange needs residence papers showing at least three months in Vietnam, as that guide sets out.
+- Keep the licence situation current: an exchange done in month one protects months two to six ([Vietnam Motorbike Licence for Long-Term Expats]({{ '/articles/expat-motorbike-licence-vietnam/' | relative_url }})). Under Article 24 of Circular 12/2025/TT-BCA an exchange needs a residence card (or a diplomatic or service identity card) valid for three months or more, so check that condition before planning around it.
 - Plan for the weather to change under you: six months in Hanoi crosses from one season into another, so rain gear and warm layers belong in the plan from the start
 
 ## Ending the term, or staying on
