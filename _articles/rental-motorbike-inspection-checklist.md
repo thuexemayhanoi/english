@@ -25,18 +25,11 @@ The inspection you do at handover is the evidence that decides any deposit disag
 
 ## Before you pick up the keys
 
-Do the walk-round before you pay and before you sign, with whoever hands over the bike still there. The shop's published hours run from 09:00 to 21:00, so an evening handover happens after dark: ask for a well-lit spot, and keep your phone torch for the tyres and the underside.
+Do the walk-round before you pay and before you sign, with whoever hands over the bike still there. The shop's published hours run from 09:00 to 21:00, so a handover late in the day may be after dark: ask for a well-lit spot, and keep your phone torch for the tyres and the underside. The same checks apply when the bike comes to you; [Shop pickup versus delivery]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) compares the two routes, and the [step-by-step rental guide]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}) puts this inspection at step five of six.
 
-The same checks apply when the bike comes to you. [Shop pickup versus delivery]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) compares the two routes, and the [step-by-step rental guide]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}) puts this inspection at step five of six.
+Have three things ready: a charged phone with room for photographs and a short video; the licence you will ride on, with your permit if you ride on a foreign licence; and your questions about the fuel level to return with, who pays if a tyre is punctured and whether a helmet comes with the bike. A queue, a waiting friend or a flight to catch is no reason to shorten the checks.
 
-Have four things ready:
-
-- A charged phone with room for photographs and a short video.
-- The licence you will ride on, with your permit if you ride on a foreign licence.
-- Your questions: the fuel level you are expected to return with, who pays if a tyre is punctured, and whether a helmet comes with the bike.
-- Time. A queue, a waiting friend or a flight to catch is no reason to shorten the checks.
-
-Take the whole-bike photographs first, before you touch anything, so they show the bike as it was handed over; the last section of the walk-round explains what to capture. Then work round the bike in one direction, starting at the back, and use the same path at the return so that your checks and your photographs line up.
+Take the whole-bike photographs first, before you touch anything, so they show the bike as it was handed over. Then work round the bike in one direction, starting at the back, and use the same path at the return so that your checks and your photographs line up.
 
 ## Lights and electrics
 
@@ -47,7 +40,7 @@ Take the whole-bike photographs first, before you touch anything, so they show t
 
 Start the engine before you test any of them. It should start without coaxing and idle without cutting out, and a warning symbol on the dashboard that stays lit is a question for the shop before you leave.
 
-Daylight hides a headlight and a brake light. Turn the bike towards a wall or a shop window and look for the reflection, or ask whoever is with you to stand behind the bike while you press each brake control. On a bike with a foot pedal for the rear brake, press the pedal as well as the levers. The same trick works for the indicators: left and right, front and rear, plus the flashing symbol on the dashboard.
+Daylight hides a headlight and a brake light, so turn the bike towards a wall or a shop window and look for the reflection, or ask whoever is with you to stand behind the bike while you press each brake control, the rear pedal included. The same trick works for the indicators.
 
 The law expects a motorbike to have working brakes, a headlight, a brake light, turn signals, a horn, a plate light and a left mirror. The [required equipment guide]({{ '/articles/motorbike-required-equipment-vietnam/' | relative_url }}) lists the set, and the [light rules guide]({{ '/articles/motorbike-night-lights-vietnam/' | relative_url }}) covers when lights must be on.
 
@@ -55,9 +48,7 @@ The law expects a motorbike to have working brakes, a headlight, a brake light, 
 
 Front and rear, both tested rolling the bike. The front brake should bite without pulling the lever to the bar; the rear should lock under firm pressure. Test them again at low speed before you join traffic.
 
-To test while rolling the bike, push it forward on level ground and squeeze one brake at a time: the wheel should stop turning and the bike should stay put. Feel for a lever or pedal that is spongy, that travels almost to the grip or that does not spring back, and listen for grinding or scraping. A wheel that stays hard to turn after you let go of the brake is also worth a question.
-
-For the low-speed test, choose a clear stretch away from traffic and brake gently first, then firmer. The bike should stop in a straight line, without pulling to one side. A doubtful brake is on the list of reasons to ask for a different bike, further down this page.
+To test while rolling the bike, push it forward on level ground and squeeze one brake at a time: the wheel should stop turning and the bike should stay put. Feel for a lever or pedal that is spongy, travels almost to the grip or does not spring back, and listen for grinding. For the low-speed test, choose a clear stretch away from traffic and brake gently first, then firmer: the bike should stop in a straight line, without pulling to one side. A doubtful brake is a reason to ask for a different bike, as set out further down this page.
 
 ## Steering and controls
 
@@ -68,7 +59,7 @@ For the low-speed test, choose a clear stretch away from traffic and brake gentl
 - Stand - the bike should stand firmly, and the stand should spring clear when you lift the bike upright.
 - Levers and footpegs - not bent, not loose.
 
-Check the throttle twice: with the bars straight and with the bars turned. It should snap closed both times, because a cable that catches at full lock is a fault you want to find now. Set the mirrors for your height and arm length before you move, and ask for a loose one to be tightened rather than riding with it.
+Check the throttle twice, with the bars straight and with the bars turned: it should snap closed both times. Set the mirrors for your height and arm length before you move, and ask for a loose one to be tightened rather than riding with it.
 
 ## Tyres and chain
 
@@ -84,13 +75,13 @@ Chain on manual and semi-automatic bikes: not rusted stiff, and neither hanging 
 - Number plates fitted and clean - riding without plates is a serious violation. Compare the characters with the registration certificate: they should be readable and match. The [number plates guide]({{ '/articles/riding-without-number-plates-vietnam/' | relative_url }}) sets out the offence.
 - Registration certificate with the bike: ask to see it, or a copy of it, before you ride.
 
-Photograph the fuel gauge and the odometer so the starting level and mileage are on record, and check that the fuel cap closes and nothing drips from underneath the bike.
+Photograph the fuel gauge and the odometer so the starting level and mileage are on record.
 
 Nguyen Tu does not provide motorbike insurance, so do not expect an insurance certificate to come with the bike: customers arrange their own cover before they ride. The [documents guide]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) sets out the papers the law expects a rider to carry.
 
 ### Keys, helmet and extras
 
-Count the keys you are given and note the number in the chat, along with anything else handed over, such as a lock; the list at the return should match it. Check that the seat opens and latches, and that the underseat storage holds nothing that is not yours.
+Count the keys you are given and note the number in the chat, along with anything else handed over, such as a lock; the list at the return should match it.
 
 Vietnamese law requires riders and passengers to wear a helmet, and the [helmet law guide]({{ '/articles/helmet-law-vietnam/' | relative_url }}) sets out the rule. Ask whether a helmet comes with the bike, and whether one is available for a passenger; do not assume either. If one is provided, check the shell for cracks, that the strap fastens and holds, and that it fits snugly without pressing.
 
@@ -105,19 +96,18 @@ Walk the bike with your phone camera out. Photograph every panel, both sides, th
 - Both tyres, the chain if the bike has one, and the levers, mirrors and footpegs.
 - The dashboard, showing the fuel gauge and the odometer.
 - The plate, and the registration certificate if you are shown it.
-- The seat, the underseat storage and the underside.
 
 ### How to make the record count
 
-Shoot in daylight or a lit area, and keep the original files on your phone, unedited. Then film one slow video walk-round along the same path, starting and ending at the plate, with the engine running and the lights, indicators and horn operated. It shows that the working parts worked, as well as the marks. Say the date and the plate number aloud at the start.
+Shoot in daylight or a lit area, and keep the original files on your phone, unedited. Then film one slow video walk-round along the same path, starting and ending at the plate, with the engine running and the lights, indicators and horn operated. Say the date and the plate number aloud at the start.
 
-Send the photographs and the video to the chat you booked in (WhatsApp or Zalo on +84 942 467 674), or start one if you walked in; [how to book by WhatsApp, Zalo or walk-in]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) explains the options. A message carries the time it was sent on both phones. If the video is too large to send, send the photographs and keep the video on your phone.
+Send the photographs and the video to the chat you booked in (WhatsApp or Zalo on +84 942 467 674), or start one if you walked in; [how to book by WhatsApp, Zalo or walk-in]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) explains the options. A message carries the time it was sent on both phones.
 
-Point out each existing mark to whoever hands over the bike and ask for it to be noted. A mark that appears in your photographs and in the chat before you ride is a mark that was there at the start.
+Point out each existing mark to whoever hands over the bike and ask for it to be noted.
 
 ## What changes with the bike you are given
 
-The walk-round is the same for every bike, and a few checks shift with the type. These notes come from the manufacturers' own model pages for the models with a published day rate, so use them only if the shop offers that model on your dates.
+The walk-round is the same for every bike, and a few checks shift with the type. The model details come from Honda's and Yamaha's own Vietnamese pages, and they apply only if the shop offers that model on your dates.
 
 | Bike | What differs | At handover |
 |---|---|---|
@@ -125,8 +115,6 @@ The walk-round is the same for every bike, and a few checks shift with the type.
 | Yamaha Sirius | Drum and disc versions exist, and Yamaha's page for the RC lists a front disc, a rear drum and tyres with inner tubes | Judge the brakes against that bike's own type; ask who pays for a puncture repair |
 | Honda Vision, Honda Air Blade, Honda Click, Yamaha Mio | Automatic scooters: twist and go, so no gear change and no exposed chain | Test the throttle return and both brake levers; the chain check does not apply |
 | Honda Air Blade | Honda's pages for the Air Blade 125 and 160 both list a coolant temperature warning | Look at the dashboard after starting: a warning that stays lit is a question for the shop |
-
-For the other checks on a bike with a clutch, the [checklist for a rented manual bike]({{ '/articles/manual-motorbike-rental-checklist-hanoi/' | relative_url }}) adds the clutch lever and the gears.
 
 ## The checklist on one screen
 
@@ -156,7 +144,7 @@ Add to that list steering that binds or pulls, a throttle that does not close, f
 
 ### Asking for a different bike
 
-No swap policy is published, so make it a request and keep it specific: "The rear brake feels weak. Can it be adjusted, or is another bike available?" Wait for the answer before you pay or sign. A named fault is easier to answer than a general unease, and a promise to fix it later is not the same as a fix before you ride.
+No swap policy is published, so make it a request and keep it specific: "The rear brake feels weak. Can it be adjusted, or is another bike available?" Wait for the answer before you pay or sign. A promise to fix it later is not a fix before you ride.
 
 ### Marks you note instead
 
@@ -174,7 +162,7 @@ Keep the handover photographs, the video and the chat until the deposit has been
 
 ### What if I notice a fault after I have left the shop?
 
-Stop somewhere safe if it affects the brakes, the steering or a tyre, photograph the fault and message the shop straight away. Support is primarily for Hanoi and local use, and no rescue service or response time is published, so ask what the shop can do and how soon instead of assuming. Do not try to repair the bike yourself.
+Stop somewhere safe if it affects the brakes, the steering or a tyre, photograph the fault and message the shop straight away. Support is primarily for Hanoi and local use, and no response time is published, so ask what the shop can do and how soon instead of assuming. Do not try to repair the bike yourself.
 
 ### Can I take a short test ride before I decide?
 

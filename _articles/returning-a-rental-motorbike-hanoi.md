@@ -20,9 +20,9 @@ sources:
 internal_link_targets: "how-deposit-returns-work-hanoi, late-return-rental-motorbike-hanoi, early-return-rental-motorbike-hanoi, motorbike-rental-fuel-policy-hanoi, rental-motorbike-inspection-checklist, extending-motorbike-rental-hanoi, renting-motorbike-noi-bai-arrival, motorbike-rental-pickup-or-delivery-hanoi, motorbike-rental-deposit-hanoi"
 ---
 
-The return is the mirror of the handover, and it takes ten minutes if the handover was done right. On the day: arrive inside opening hours with the bike at the agreed fuel level, check it against your handover photos, hand back everything that came with it, settle any balance and ask how and when the deposit is settled.
+The return is the mirror of the handover: if the handover was done properly, you are mostly repeating it in reverse. On the day: arrive inside opening hours, check the bike against your handover photos, hand back everything that came with it, settle any balance and ask how and when the deposit is settled.
 
-No return time is published, so treat ten minutes as the best case rather than a promise. Returning a rental motorbike in Hanoi also has a planning side, and the rest of this guide covers it for any [Hanoi motorbike rental]({{ '/topics/rental/' | relative_url }}): the day's timeline, the record you keep, damage, the deposit, and what to do when you are early, late or want more time.
+No return time is published, so leave a margin before any flight, train or check-out instead of planning around how long the check takes. Returning a rental motorbike in Hanoi also has a planning side, and the rest of this guide covers it for any [Hanoi motorbike rental]({{ '/topics/rental/' | relative_url }}): the day's timeline, the record you keep, damage, the deposit, and what to do when you are early, late or want more time.
 
 ## Plan the return day backwards
 
@@ -30,15 +30,15 @@ Start from the deadline you cannot move, whether that is a flight, a train, a ho
 
 | When | What to settle | What the margin absorbs |
 |---|---|---|
-| The evening before | Fuel level, photos, your belongings out of the seat storage, a message with your planned arrival time | Anything you would rush in the morning |
+| The evening before | Photos, your belongings out of the seat storage, a message with your planned arrival time | Anything you would rush in the morning |
 | Morning of the return | Bag packed, key and papers in hand, route chosen | Traffic you cannot predict |
-| The last stretch | A fuel stop if the level needs matching | A queue at the pump or a wrong turn |
+| The last stretch | A stop at the pump if the agreed level needs matching | A queue at the pump or a wrong turn |
 | At the shop | The walk-around, photos, any balance, the deposit questions | A check that takes longer than hoped |
 | After the shop | Your onward transport | The leg you cannot do on the bike |
 
-Agree the return time when you book and repeat it in a message the day before. Late return is charged by the hour, so a return time that exists only in conversation is one you cannot point to later.
+Agree the return time when you book and repeat it in a message the day before. A return time that exists only in conversation is one you cannot point to later, and a late return has a cost.
 
-Set your own deadline earlier than the shop's. For a flight, start from the latest moment you must leave for the airport, add the ride to the shop, the return itself and the transfer afterwards, then add the margin you would want if one of them ran long. [Renting a Motorbike When You Arrive at Noi Bai Airport]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) covers the airport transfer options, so settle that leg before you fix the return time.
+Set your own deadline earlier than the shop's. For a flight, start from the latest moment you must leave for the airport, add the ride to the shop, the return itself and the transfer afterwards, then add the margin you would want if one of them ran long. [Renting a Motorbike When You Arrive at Noi Bai Airport]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) covers the arrival side of the same transfer options, so settle that leg before you fix the return time.
 
 ### If your departure leaves no room inside opening hours
 
@@ -51,7 +51,7 @@ The default is to ride back to the shop at 112 Nguyen Van Cu Street, Bo De, Long
 ## Before you ride back
 
 - Fill or match the agreed fuel level - the fuel convention was set at handover, and matching it avoids any arithmetic at the counter.
-- Give the bike a wipe if it is filthy; nobody charges for dust, but a clean bike speeds up the condition check.
+- Give the bike a wipe if it is filthy: a clean bike makes marks easier to see for both sides. No cleaning charge or standard is published, so ask at handover whether the bike is expected back clean.
 - Arrive inside opening hours (09:00-21:00) and on time - late returns are charged by the hour.
 - Bring the contract, the key, and your handover photos.
 
@@ -61,7 +61,7 @@ The level that counts is the one agreed at handover, and conventions differ betw
 
 ## The walk-around
 
-The shop checks the bike against the state it left in, using the same eyes your photos used: panels and scratches, mirrors, lights, brakes, tyres. How the check is done is not published, so ask at handover what the shop looks at and how it records the result. If the handover photo set exists, this is a thirty-second comparison, not a negotiation. Fair wear - dust, a few extra kilometres, a scuffed lever - is part of renting; damage beyond that is what the deposit conversation is about.
+The shop checks the bike against the state it left in, using the same eyes your photos used: panels and scratches, mirrors, lights, brakes, tyres. Whether the shop checks the bike at return, and how, is not published, so ask at handover what it looks at and how it records the result. If the handover photo set exists, this is a thirty-second comparison, not a negotiation. Fair wear - dust, a few extra kilometres, a scuffed lever - is part of renting; damage beyond that is what the deposit conversation is about.
 
 No list of what counts as fair wear is published, so ask the shop to point out anything it treats as damage, and answer with your own photo of the same spot.
 
@@ -82,7 +82,7 @@ If anything differs, say so yourself, show the matching photo and ask what happe
 
 ## Photos and messages: the record you keep
 
-Photograph the bike at the return the way you did at handover: both sides, front and back, any mark that was already there, and the fuel gauge and odometer if your handover set included them. Take the photos before you hand over the key, while the bike is still in your hands.
+Photograph the bike at the return the way you did at handover: both sides, front and back, any mark that was already there, and the gauge and odometer if your handover set included them. Take the photos before you hand over the key, while the bike is still in your hands.
 
 Send them to the shop in the chat you booked in, WhatsApp or Zalo on +84 942 467 674, or start one if you walked in. A message carries the time it was sent on both phones, so neither side has to argue about when. Then ask for the end of the rental to be confirmed in writing: that the bike is back, and what, if anything, is still owed or held.
 
@@ -91,7 +91,7 @@ Keep these until the deposit has been settled and the amount matches what you ex
 - the handover and return photos;
 - the chat, with its times;
 - the contract or the terms you were given or sent;
-- any payment confirmation, such as a bank transfer or QR screenshot, and a receipt for anything paid in cash.
+- any payment confirmation, such as a bank transfer or QR screenshot; if you pay in cash, ask for a receipt or a written note.
 
 ## Damage found at return: what to ask
 
@@ -101,7 +101,7 @@ A scratch, a cracked mirror or a bent lever that you cannot place is the moment 
 |---|---|
 | A mark that is in your handover photos | Show the photo of the same spot and ask for the mark to be noted as already there, in the chat if you can |
 | A new mark that you caused | Say what happened; ask what the repair costs, how the figure was worked out and whether it comes out of the deposit or is paid separately |
-| A mark you do not recognise, or one in a place you did not photograph | Ask where and when it was seen and whether it was noted at handover; neither side has a photo of that spot, so ask what the shop proposes and get it in writing before you agree |
+| A mark you do not recognise, or one in a place you did not photograph | Ask where and when it was seen and whether it was noted at handover; you have no photo of that spot and may not know whether the shop has one, so ask what the shop proposes and get it in writing before you agree |
 
 Whatever the case, ask for the figure in writing before you agree to it and compare it with your agreement. [Understanding a Motorbike Rental Agreement in Hanoi]({{ '/articles/motorbike-rental-agreement-hanoi/' | relative_url }}) lists the damage and consumables terms worth confirming before you sign. If you have a flight to catch, say so at the start, and still ask for the figure in the chat.
 
@@ -109,25 +109,25 @@ Two terms matter here. Consumables: inner tubes and tyres may be the renter's re
 
 ## The paperwork
 
-Contract closed, bike and keys and registration certificate back together, and any balance settled - extra hours, a fuel shortfall, a consumable that was yours under the agreement. Payments and settlements run in cash, bank transfer or QR as usual. Ask for the balance as a list before you pay, with each amount and how it was worked out, and keep the confirmation.
+Contract closed, bike and keys and registration certificate back together, and any balance settled - extra hours, a fuel shortfall, a consumable that was yours under the agreement. Payments and settlements run in cash, bank transfer or QR as usual. Those are the accepted payment forms; how the deposit is settled is a separate question, covered below. Ask for the balance as a list before you pay, with each amount and how it was worked out, and keep the confirmation.
 
 ### What goes back with the bike
 
 - Every key you were given, including a spare if there was one. A missing key is its own conversation: [What Happens If You Lose the Key to a Rental Motorbike]({{ '/articles/lost-key-rental-motorbike-hanoi/' | relative_url }}) covers what it costs and what to do first.
 - The registration certificate, if it travelled with the bike.
-- Anything else you were handed at the start, such as a lock or a phone holder; your handover photos and the chat are the place to look for a list.
+- Anything else listed in your handover photos or the chat as handed to you at the start.
 - Your own belongings: check the seat storage and any mount you added before you hand over the key.
 
 ## The deposit
 
-If the bike matches your handover record and nothing is owed, the next question is how and when the deposit is settled. No timing or form is published, so ask rather than assume. The deposit is typically 2,000,000-5,000,000 VND depending on vehicle and conditions, and the shop confirms the figure for your bike. Whatever form it takes, check the amount before you leave.
+If the bike matches your handover record and nothing is owed, the next question is how and when the deposit is settled. No timing or form is published, so ask rather than assume. The deposit is typically 2,000,000-5,000,000 VND depending on vehicle and conditions; ask the shop to confirm the figure for your bike. Whatever form it takes, check the amount against what you paid when it arrives.
 
-### Questions to settle before you rent
+### Questions to ask about the deposit
 
 These are easier to ask at handover than at the counter, and worth sending in the chat so the answers are written down:
 
 - Is the deposit settled at the return itself, or afterwards? If afterwards, when, and how will you be told?
-- In what form does it come back: the way you paid it, or another way? Cash, bank transfer and QR are the accepted payment forms.
+- In what form does it come back: the way you paid it, or another way?
 - If you fly out on the day of the return, what are the options?
 - What can be deducted from it, and will you get the items and amounts in writing?
 - Will you get a message or a receipt confirming the amount returned?
@@ -155,16 +155,16 @@ No timing or form is published, so ask when you agree the rental whether it is s
 
 ### Can I return the bike outside opening hours?
 
-Nguyen Tu is open 09:00-21:00 daily, and no return outside those hours is published. Ask before planning one, and do not leave the bike or its key unattended and call it a return.
+No return outside opening hours is published. Ask before planning one, and do not leave the bike or its key unattended and call it a return.
 
 ### Can the shop collect the bike from my hotel?
 
-It may, depending on location and arrangement. Ask when you book; the [pickup and delivery comparison]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) sets out what to agree.
+It may, depending on location and arrangement, so ask when you book.
 
 ### What if I want to keep the bike another day?
 
-Ask before the agreed return time, because time past it is charged by the hour.
+Ask before the agreed return time, not after it, and confirm the new return time and rate in the chat.
 
 ## The short version
 
-Done right, the return is the anticlimax it should be: photos, fuel, handshake, settlement. The whole sequence from the first message to the last day is in [How to Rent a Motorbike in Hanoi: A Step-by-Step Guide]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}); this page is its last step in detail.
+Done right, the return is the anticlimax it should be: photos, handshake, settlement. The whole sequence from the first message to the last day is in [How to Rent a Motorbike in Hanoi: A Step-by-Step Guide]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}); this page is its last step in detail.
