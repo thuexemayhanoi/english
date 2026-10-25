@@ -54,11 +54,11 @@ The one skill an automatic asks for is a smooth throttle hand. With no gear to h
 
 ## Semi-automatic underbones (Honda Wave, Yamaha Sirius)
 
-Locally this is the xe so. Foot-shifted four-speed gearbox, but no hand clutch - an automatic clutch does that job. Compact, cheap to run, and simple enough that roadside mechanics are used to working on them. The trade-off: a small learning curve for the foot-shift, and storage means a bag on the rack.
+Locally this is the xe so. Foot-shifted four-speed gearbox, but no hand clutch - the gearbox does it. Compact, cheap to run, and simple enough that roadside mechanics are used to working on them. The trade-off: a small learning curve for the foot-shift, and storage means a bag on the rack.
 
-Honda lists a mechanical four-speed rotary gearbox for the Wave Alpha 110, and Yamaha lists a four-speed rotary gearbox with a wet multi-plate centrifugal clutch for the Sirius RC 110. A centrifugal clutch engages by itself as engine speed rises. That is why there is no lever, and why the stalling that a clutch bike can suffer when pulling away does not arise in the same way.
+Honda lists a mechanical four-speed rotary gearbox for the Wave Alpha 110, and Yamaha lists a four-speed rotary gearbox with a wet multi-plate centrifugal clutch for the Sirius RC 110. A centrifugal clutch engages by itself as engine speed rises, which is why there is no lever and why the stalling a clutch bike can suffer when pulling away does not arise in the same way.
 
-Do not expect a large saving in width or weight over a scooter. On the published figures the Wave Alpha 110 weighs 96 kg and the Vision 97 kg, the Sirius RC 110 is 100 kg wet, and only the Air Blade 125, at 110 kg, is clearly heavier; treat a few kilograms as a tie, because manufacturers may not state weight on the same basis. [The Old Quarter bike guide]({{ '/articles/best-bike-for-hanoi-old-quarter/' | relative_url }}) has the full size table.
+Do not expect a large saving in weight over a scooter such as the Vision: the published weights of the Wave Alpha 110 (96 kg), the Vision (97 kg) and the Sirius RC 110 (100 kg wet) are within a few kilograms of each other. [The Old Quarter bike guide]({{ '/articles/best-bike-for-hanoi-old-quarter/' | relative_url }}) has the full size table, widths included.
 
 The skill to learn is the foot-shift rhythm: ease off the throttle, click, then open the throttle again, and click down towards first as you slow so that you are in the right gear to pull away. Closed shoes make this easier than open sandals, because the left foot works the lever. If you want the verified spec side of the semi-automatic question, see our semi-automatic [gearbox explainer]({{ '/articles/semi-automatic-gearbox-explained/' | relative_url }}) and the model reviews of the two classic semi-automatic classes, the [Honda Wave Alpha 110]({{ '/articles/honda-wave-alpha-110-review/' | relative_url }}) and [Yamaha Sirius RC 110]({{ '/articles/yamaha-sirius-rc-110-review/' | relative_url }}).
 
@@ -97,13 +97,11 @@ The cases in between are in this table.
 | Your situation | Start with | Why |
 |---|---|---|
 | You ride a scooter at home and are new to Vietnam | Automatic | The traffic is the new skill; the gearbox can wait |
-| You have used a foot gear lever before | Semi-automatic | The shift will feel familiar |
 | You ride a clutch bike at home and will stay in the city | Automatic or semi-automatic | A clutch adds work at every junction, and city riding gives the extra control little to do |
-| You ride a clutch bike at home and plan routes outside the city | Manual, if your licence covers it | Control on open roads and descents outweighs the junction workload |
 | You want to learn a clutch while in Hanoi | Automatic or semi-automatic first | Learn the traffic before adding the clutch |
 | You are staying a few days | Automatic | There is little time to learn anything but the traffic |
 
-Think of the three types as a ladder of workload, from automatic to semi-automatic to manual, and climb it in that order. If you do want to learn a clutch during your stay, [the guide to learning manual on a rented bike]({{ '/articles/learning-manual-on-rented-bike-hanoi/' | relative_url }}) covers what to tell the shop and how to practise before you join traffic. If the comparison you actually need is scooter against semi-automatic, with a passenger, luggage and cost in the picture, [the scooter versus semi-automatic comparison]({{ '/articles/scooter-vs-semi-automatic-hanoi/' | relative_url }}) makes it.
+Think of the three types as a ladder of workload and climb it in order. If you do want to learn a clutch during your stay, [the guide to learning manual on a rented bike]({{ '/articles/learning-manual-on-rented-bike-hanoi/' | relative_url }}) covers what to tell the shop and how to practise before you join traffic. If the comparison you actually need is scooter against semi-automatic, with a passenger, luggage and cost in the picture, [the scooter versus semi-automatic comparison]({{ '/articles/scooter-vs-semi-automatic-hanoi/' | relative_url }}) makes it.
 
 ## Licence class follows engine size
 
@@ -128,20 +126,18 @@ These are the published daily rates for the six models in this guide. For weekly
 
 The rate follows the model, not the gearbox: the Click and Mio automatics are published at the same 150,000 VND a day as the Wave and Sirius, while the Vision and Air Blade are published at 200,000 VND. Price alone is therefore not a reason to take a gearbox you do not want. The deposit is typically 2,000,000–5,000,000 VND depending on vehicle and conditions. Nguyen Tu does not provide motorbike insurance, so you arrange your own.
 
-When you book, confirm three things beyond the model:
+When you book, confirm two things beyond the model:
 
 1. The type, named in words: automatic, semi-automatic (gears, no clutch lever) or manual clutch.
 2. The engine size of the exact bike, because the licence classes follow it.
-3. For a bike with gears, the gear pattern: ask to be shown it and click through it before you leave.
 
 [How to rent a motorbike in Hanoi]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}) gives the overview of the steps, and [how to book a motorbike rental in Hanoi]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) covers the channels and what to confirm. And whichever you choose, confirm availability for your dates - contact us to check what is in stock.
 
 ## Mistakes that put renters on the wrong bike
 
 - Taking a Wave or Sirius for a scooter. Both are easy to step onto, but each has a gear lever, so a rider who has never shifted should ask for an automatic.
-- Reading semi-automatic as automatic with a few extra gears. The rider changes gear on every ride; only the clutch lever is missing.
+- Grabbing the left lever by habit. On a scooter it is a brake; on a clutch bike it disconnects the engine, so a scooter rider who grabs it when startled slows nothing down and the bike keeps rolling. Close the throttle and use the brakes instead.
 - Choosing a manual for control on a first Hanoi trip. The lever adds a task at every junction, which is the wrong trade while the traffic is new.
-- Learning the clutch in the middle of a junction. Practise somewhere empty first, and tell the shop you are learning before you ride off.
 - Assuming one licence covers every engine size. The class follows engine size, so check the figure for the bike you are given.
 
 ## Common questions

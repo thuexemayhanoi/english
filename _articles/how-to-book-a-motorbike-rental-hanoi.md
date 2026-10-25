@@ -47,14 +47,14 @@ Calling the same number works too. A call is fastest for a same-day rental; a me
 
 ## Walk-in
 
-Hanoi rentals sit all over the city - Nguyen Tu is at 112 Nguyen Van Cu Street, Bo De, Long Bien, open 09:00-21:00 daily ([contact page]({{ '/contact/' | relative_url }})). Walking in means seeing the actual bike before you commit; ask whether you can ride it around the block, and whether another bike is available if the seat does not fit you or the brakes feel soft. The only cost of walking in is time, and during peak tourist season the bike you wanted may be gone. A short message or call before you set out is a cheap way to avoid a wasted trip, because only the shop can confirm availability of a specific model.
+Hanoi rentals sit all over the city - Nguyen Tu is at 112 Nguyen Van Cu Street, Bo De, Long Bien, open 09:00-21:00 daily ([contact page]({{ '/contact/' | relative_url }})). Walking in means seeing the actual bike before you commit; ask whether you can ride it around the block, and whether another bike is available if the seat does not fit you or the brakes feel soft. The only cost of walking in is time, and during peak tourist season the bike you wanted may be gone. A short message or call before you set out is a cheap way to avoid a wasted trip.
 
 ## What to put in your first message
 
 Cover these points and a single reply can answer most of them.
 
 - **Dates and times.** Pickup and return, each with a time, and whether the dates are fixed or may move. Rentals can run by the day, the week or the month, and longer terms can be discussed, so say how long you have in mind.
-- **Bike type.** Scooter, semi-automatic or manual, or "not sure". Name a model only if you have a preference, because availability of a specific model is confirmed for your dates. If you cannot choose, [automatic, semi-automatic or manual]({{ '/articles/automatic-vs-manual-motorbike-hanoi/' | relative_url }}) compares the three.
+- **Bike type.** Scooter, semi-automatic or manual, or "not sure". Name a model only if you have a preference. If you cannot choose, [automatic, semi-automatic or manual]({{ '/articles/automatic-vs-manual-motorbike-hanoi/' | relative_url }}) compares the three.
 - **Pickup or delivery.** Say which you prefer. For delivery, give the hotel or area and ask what it would cost for that address. [Shop pickup versus delivery]({{ '/articles/motorbike-rental-pickup-or-delivery-hanoi/' | relative_url }}) sets out the trade-offs.
 - **Licence.** Name the licence you hold, the country that issued it and whether you carry an international driving permit, then ask what to bring. For who can rent and what a foreign licence needs, read [can foreigners rent a motorbike in Hanoi]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}).
 - **Riders and route.** The number of riders, each rider's experience, and whether you will stay in Hanoi or ride further. Support is primarily for Hanoi and local use, so say at the start if your plans go beyond the city. New to motorbikes? Read [first time renting a motorbike in Hanoi]({{ '/articles/first-time-renting-a-motorbike-hanoi/' | relative_url }}) before you commit.
@@ -123,19 +123,19 @@ Save these where you can open them without a data connection:
 
 ## The day you arrive
 
-For the whole rental in order, from choosing a bike to getting the deposit back, read [how to rent a motorbike in Hanoi]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}). The booking side of the day runs like this:
+For the whole rental in order, from choosing a bike to returning it, read [how to rent a motorbike in Hanoi]({{ '/articles/how-to-rent-a-motorbike-hanoi/' | relative_url }}). The booking side of the day runs like this:
 
 1. Arrive during opening hours, and message on your way so the shop knows you are coming.
-2. Bring everything you were told to bring, including your licence and the means of payment you agreed.
-3. Read the confirmation thread against what is in front of you: the model, the rate, the deposit amount and the return date and time. Settle any difference before money changes hands.
+2. Bring everything you were told to bring, licence and payment included.
+3. Read the confirmation thread against what is in front of you: the model, the rate and the deposit amount. Settle any difference before money changes hands.
 4. Pay as agreed, and keep the receipt or confirmation message for each payment.
 5. Inspect and photograph the bike before you ride; the next section says how.
-6. Before you leave, check the return time and place against the thread, and ask who to message if you are running late.
+6. Before you leave, check the return date, time and place against the thread, and ask who to message if you are running late.
 7. Ask about anything unfamiliar on this model, such as the steering lock or the seat catch, before you ride off.
 
 ## What to do at handover whoever you booked with
 
-The [inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}), photos of existing scratches, and the registration certificate in your hand. A written confirmation records what was agreed; the inspection is what protects your deposit. Whether you collect at the shop or the bike is delivered, the checks are the same and the photos belong in the booking thread.
+The [inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}), photos of existing scratches, and the registration certificate in your hand. A written confirmation records what was agreed; the inspection is what protects your deposit. Whether you collect at the shop or the bike is delivered, the checks are the same.
 
 ## If your plans change
 
@@ -155,12 +155,12 @@ No. Bookings are made by WhatsApp or Zalo message, by phone or in person at the 
 
 ### Can I book and pay online?
 
-You can book by WhatsApp or Zalo message, which is as online as it gets here. You cannot pay through a website or app: the accepted payment methods are cash, bank transfer and QR payment, so ask which one the shop wants for each payment and when it is due.
+A WhatsApp or Zalo message covers the booking, but nothing can be paid through a website or app. The accepted payment methods are cash, bank transfer and QR payment, so ask which one the shop wants for each payment and when it is due.
 
 ### Do I need WhatsApp or Zalo to book?
 
-No. The same number takes phone calls, and you can walk in during opening hours. After a call or a visit, send a message that puts the agreement in writing.
+No. The same number takes phone calls, and you can walk in during opening hours.
 
 ### Can I book before I land in Hanoi?
 
-Yes. Message before you travel with your dates and the points from the first-message list, then settle the details in writing. Plan your first day around the shop's opening hours.
+Yes. Message before you travel with your dates and the points from the first-message list, then settle the details in writing. If you are landing at the airport, [arriving at Noi Bai Airport]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) covers the first day.

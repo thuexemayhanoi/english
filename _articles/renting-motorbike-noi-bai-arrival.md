@@ -22,7 +22,7 @@ sources:
 internal_link_targets: motorbike-rental-pickup-or-delivery-hanoi, how-to-book-a-motorbike-rental-hanoi, motorbike-rental-agreement-hanoi, first-time-renting-a-motorbike-hanoi, best-motorbike-for-hanoi-traffic, riding-motorbike-noi-bai-airport-hanoi, documents-needed-rent-motorbike-hanoi, how-to-rent-a-motorbike-hanoi, motorbike-delivery-old-quarter
 ---
 
-Landing at Noi Bai with a motorbike rental in mind is a good plan with one correction: the rental itself almost always happens in the city, not at the terminal. What is left to decide is the timing: whether to collect the bike on arrival day at all, and how your landing time fits the shop's opening hours.
+Landing at Noi Bai with a motorbike rental in mind is a good plan with one correction: the rental itself almost always happens in the city, not at the terminal. What is left to decide on a Hanoi airport arrival is the timing. The questions are whether to collect the bike on arrival day at all, and how your landing time fits the shop's opening hours.
 
 ## The realistic pattern
 
@@ -54,9 +54,9 @@ Nguyen Tu is open 09:00–21:00 daily, and delivery or pickup arrangements stay 
 
 Start from your landing time and add what stands between the aircraft door and your bed. Baggage reclaim, and immigration on an international flight, come first, and the timetable cannot predict them. Then comes the transfer: Vietnam Airlines' guide says the journey from the airport to central Hanoi typically takes between 45 minutes and an hour, depending on traffic, and that travel times may be significantly longer in the peak hours. Check-in comes last. Whatever is left of the opening hours after that is all you have for a handover.
 
-Imagine a flight that lands at 15:00. The car transfer alone adds the guide's 45 minutes to an hour, so before baggage and immigration are counted you reach the city at about 15:45 to 16:00, with check-in still to come. A handover would have to fit into what is left of the evening, after a long journey, and a rushed handover is how inspections get skipped.
+Imagine a flight that lands at 15:00. The car transfer alone adds the guide's 45 minutes to an hour, so before baggage and immigration are counted you reach the city at about 15:45 to 16:00, with check-in still to come. A handover would have to fit into what is left of the evening, and a rushed handover is how inspections get skipped.
 
-A very early landing is the opposite problem: you reach the city before the shop opens. A same-day handover then depends on the same two tests, alert and confirmed, and after a long flight a morning spent settling in is a better start than a morning on a bike.
+A very early landing is the opposite problem: you reach the city before the shop opens. A same-day handover then depends on the same two tests, alert and confirmed.
 
 ## From the terminal to your bed: the first leg
 
@@ -64,7 +64,7 @@ Whatever you decide about the bike, you still need a way into the city. Vietnam 
 
 Taxis are available directly outside the arrival hall on the ground floor. For a ride-hailing app, the guide says to confirm your exact pick-up location in the app before you request the ride. Hotel drivers usually wait inside the arrival hall holding a sign with the guest's name, so ask your hotel whether it offers pick-up.
 
-The safety advice is worth following on a first visit: use only registered taxi queues and licensed taxi companies, use confirmed ride-hailing bookings, and avoid offers from people inside the terminal who claim to be drivers, since such offers are "often unregulated with inflated prices". For a late landing, the guide says taxis are available at the airport at any hour but ride-hailing availability may decrease after midnight, so booking in advance is advisable; it calls hotel pick-up ideal for travellers arriving late at night, families with children and first-time visitors.
+The safety advice is worth following on a first visit. Use only registered taxi queues and licensed taxi companies, use confirmed ride-hailing bookings, and avoid offers from people inside the terminal who claim to be drivers, since such offers are "often unregulated with inflated prices". For a late landing, the guide says taxis are available at the airport at any hour but ride-hailing availability may decrease after midnight, so booking in advance is advisable.
 
 Fares and bus timetables change, so check them with the operator, the app or your accommodation rather than trusting a printed figure. The one option this guide rules out for arrival day is riding the bike yourself; [Riding a Motorbike to Noi Bai Airport: Routes, Timing and Parking]({{ '/articles/riding-motorbike-noi-bai-airport-hanoi/' | relative_url }}) covers that route and the reverse trip when you leave.
 

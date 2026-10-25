@@ -49,7 +49,7 @@ Sightseeing stops and the timing of a visit are in [Exploring Hoan Kiem and the 
 
 The dense historic streets north of the lake are covered as their own environment in [Renting a Motorbike in the Hanoi Old Quarter: What to Know]({{ '/articles/renting-motorbike-old-quarter/' | relative_url }}): walking-pace traffic, narrow streets, strict parking. Riding them is fine; racing them is impossible.
 
-Vietnam Tourism describes the area as one of "shops pouring into sidewalks, motorcycles navigating narrow streets" that "can be a hectic place", so the questions that matter are where the bike will stand and when you ride in.
+Vietnam Tourism says the Old Quarter "can be a hectic place", with "shops pouring into sidewalks, motorcycles navigating narrow streets"; the questions that matter there are where the bike will stand and when you ride in.
 
 ## The French Quarter grid
 
@@ -91,11 +91,11 @@ Nguyen Tu's shop in Long Bien is a direct bridge run of roughly fifteen minutes 
 
 ### From the shop to the first night
 
-1. Before you go, check your hotel's street against the Zone 1 list above and ask where the bike will sleep.
-2. Collect the bike in the morning. The shop is at 112 Nguyen Van Cu Street, Bo De, Long Bien, open 09:00–21:00 daily, so the ride into the district crosses the Red River; a morning start keeps that first ride in daylight and well before any evening restriction.
-3. At the shop, do the inspection walk-around, photograph existing marks and confirm that the model is the one you agreed for your dates. Settle eligibility and documents before the trip, not at the counter: [Can Foreigners Rent a Motorbike in Hanoi?]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) is the place to start.
-4. Choose the bridge and the route before you set off, not on the ramp.
-5. Park by the arrangement you made with the hotel, note the spot and walk. Save the first practice ride for a weekday on the French Quarter grid.
+1. Before you go, check your hotel's street against the current Zone 1 notice and ask where the bike will sleep.
+2. Collect the bike in the morning. The shop in Long Bien is open 09:00–21:00 daily, the ride in crosses the Red River, and a morning start keeps that ride in daylight.
+3. At the shop, do the inspection walk-around, photograph existing marks and confirm the model is the one you agreed. Settle eligibility and documents before the trip, starting with [Can Foreigners Rent a Motorbike in Hanoi?]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}).
+4. Choose the bridge and the route beforehand, not on the ramp.
+5. Park as arranged with the hotel, note the spot and walk. Save the first practice ride for a weekday on the French Quarter grid.
 
 ### If you want the bike brought to your hotel
 
@@ -150,7 +150,7 @@ That depends on the hotel: a space inside, a partner lot or attendant nearby, or
 
 ### Can a tourist rent a bike for Hoan Kiem?
 
-Renting and riding legally are separate questions, and both depend on your licence and documents. Check before you travel to the shop: [the foreigners guide]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) is the place to start.
+Eligibility is the same wherever you stay: it depends on who you are and which documents you hold, not on the district. [Can Foreigners Rent a Motorbike in Hanoi?]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) sets out who may rent and what to bring, so read it before you travel to the shop.
 
 ## The one-line version
 
