@@ -31,7 +31,7 @@ The order follows a rental from start to finish, so each table is ordered by whe
 | Problem | Why it happens | How to prevent it | What to do |
 |---|---|---|---|
 | A scratch nobody can date | No dated record of the bike's condition exists | The photo set in Problem 1 below | Show your photo of the same spot; the [rental motorbike inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) lists what to photograph |
-| Assuming something is included | The price and the extras are separate questions | Ask what the price covers; Nguyen Tu does not provide motorbike insurance, so arrange your own | Read what a [Hanoi motorbike rental includes]({{ '/articles/what-is-included-motorbike-rental-hanoi/' | relative_url }}) before you pay |
+| Assuming something is included | The price and the extras are separate questions | Ask what the price covers before you pay, and do not assume any cover comes with it | Read what a [Hanoi motorbike rental includes]({{ '/articles/what-is-included-motorbike-rental-hanoi/' | relative_url }}) before you pay |
 | Papers that do not meet the rules | Traffic rules apply to the rider, and a rented bike has no exemption from the plate and registration rules | Sort your licence route before renting, as in Problem 5 below | Check the licence routes in [Can Foreigners Rent a Motorbike in Hanoi?]({{ '/articles/can-foreigners-rent-a-motorbike-hanoi/' | relative_url }}) |
 
 ### On the road
@@ -41,7 +41,7 @@ The order follows a rental from start to finish, so each table is ordered by whe
 | The bike will not start or stops | A fault in the electrics, the fuel supply or the engine; the symptom alone does not say which | Report small changes early instead of riding on | Move off the road, then call the shop; the [breakdown guide]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) has the first steps |
 | A flat tyre | Nails, glass or low pressure | Check pressures and tread, and keep off the debris at the lane edge (Problem 3 below) | Stop early and call the shop; the [puncture guide]({{ '/articles/punctured-tyre-on-rental-motorbike/' | relative_url }}) explains who pays |
 | A loose chain | On a chain-driven bike the chain stretches with use and slackens | Check the play at handover; report a clunk when you open and close the throttle | Report it: chain adjustment is among the maintenance the shop may provide; the [loose chain guide]({{ '/articles/loose-chain-on-rental-motorbike/' | relative_url }}) shows the symptoms |
-| A new noise, a soft brake, a wobble or a smell | Something about the bike has changed | Notice what changed and when | Report it; the [guide to a bike that feels wrong]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}) separates what is urgent from what can wait |
+| A new noise, a soft brake, a wobble or a smell | Something about the bike has changed | Notice what changed and when | Report it, and stop riding if the brakes or steering are affected; the [guide to a bike that feels wrong]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}) separates what is urgent from what can wait |
 | Wrong or low fuel | An unfamiliar pump, or a gauge that is only a guide | Refuel before the tank runs low and ask the shop which petrol to use | The [rental fuel guide]({{ '/articles/rental-motorbike-fuel-what-petrol/' | relative_url }}) explains grades and pumps |
 | A repair by someone else | A roadside fix looks quicker than a phone call | Call the shop before anyone touches the bike | Keep receipts and photos; the [outside repair shops guide]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) separates small fixes from work that needs agreement |
 | A police stop | A rider cannot show a licence or registration papers, or commits a listed violation | Carry your licence and keep the shop's phone number with you | Call the shop; [when police can impound a motorbike]({{ '/articles/police-impound-motorbike-vietnam/' | relative_url }}) lists the cases |
@@ -81,7 +81,7 @@ Money is the question behind many of the rows above, and the published terms are
 | Damage after a fall or crash | Nguyen Tu does not provide motorbike insurance; customers arrange their own. The deposit is typically 2,000,000-5,000,000 VND depending on vehicle and conditions | How a repair is priced, and whether it comes out of the deposit |
 | Theft or a lost key | No term is published here; ask | The theft terms and the cost of a replacement key, before you sign |
 | A flat battery from the ignition left on | No term is published here; ask | Who pays for it, asked at handover |
-| A bike that cannot be fixed on the road | Contact the shop to confirm current availability of any bike | Whether a replacement is possible, and how soon |
+| A bike that cannot be fixed on the road | No term is published here; ask | Whether a replacement is possible, and how soon |
 
 ## Five problems in more detail
 
