@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 56(1)(d) (compulsory civil-liability insurance certificate of the vehicle owner among the documents a driver must carry)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 56(1)(d) (compulsory civil-liability insurance certificate of the vehicle owner among the documents a driver must carry) (retrieved 2026-10-25)"
 internal_link_targets: "used-motorbike-inspection-vietnam, daily-weekly-monthly-motorbike-rental-hanoi, best-motorbike-for-expats-hanoi, motorbike-rental-price-hanoi, unregistered-motorbike-fine-vietnam, best-motorbike-for-commuting-hanoi, long-term-renting-vs-buying-residents-hanoi, renting-motorbike-six-months-hanoi, is-insurance-included-motorbike-rental-hanoi"
 ---
 
@@ -86,7 +86,7 @@ Depreciation is the quiet cost. A bike loses value as it ages and as your leavin
 | Cash at the start | A deposit, typically 2,000,000-5,000,000 VND depending on vehicle and conditions, plus the rental | The purchase price, plus registration and any repairs |
 | Paperwork | Rental terms and handover; ask which registration papers travel with the bike | Registration or transfer into your name under the office's current requirements |
 | Repairs and upkeep | Shop maintenance may include oil change, chain adjustment and tyre-pressure checks; tyres and tubes may be yours | All yours, including finding a mechanic |
-| Insurance | Nguyen Tu does not provide motorbike insurance; arrange your own | The owner must hold compulsory third-party cover; personal cover is separate |
+| Insurance | Nguyen Tu does not provide motorbike insurance; arrange your own | The compulsory third-party cover certificate is among the documents a driver must carry; personal cover is separate |
 | Leaving | Return the bike on time; late return is charged at 20,000 VND per hour; early return carries no automatic refund | Sell it or keep it; the resale risk is yours |
 | Changing your mind | Rent a different bike next time; ask the shop whether a swap mid-rental is possible | You own the bike you bought |
 

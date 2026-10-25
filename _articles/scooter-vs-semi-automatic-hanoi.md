@@ -1,7 +1,7 @@
 ---
 title: "Scooter vs Semi-Automatic Motorcycle for Hanoi Riding"
 slug: scooter-vs-semi-automatic-hanoi
-description: "Scooters are easier and better two-up in the city; semi-automatic underbones are narrower, cheaper and fixable anywhere. Which one matches which Hanoi rider."
+description: "Scooter vs semi-automatic in Hanoi: how the two types differ in controls, storage, passengers and fuel, the published day rates, and which rider each one suits."
 category: rental
 tags:
   - "scooter"
@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23) — transmission, engine size, weight, tyre sizes, fuel tank, claimed fuel consumption, power and torque of the Honda Wave Alpha 110 and Yamaha Sirius RC 110; transmission and front wheel size of the Honda Vision; transmission, engine size, weight and under-seat storage of the Honda Air Blade 125"
+  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23) — transmission, engine size, engine type (cylinders and cooling), weight, overall width, brakes, tyre sizes, fuel tank, claimed fuel consumption, power and torque of the Honda Wave Alpha 110 and Yamaha Sirius RC 110, plus the seat height of the Wave Alpha 110; transmission and front wheel size of the Honda Vision; transmission, engine size, weight, overall width and under-seat storage of the Honda Air Blade 125, and the engine size of the Air Blade 160"
   - "https://www.honda.com.vn/xe-may/san-pham/vision — Honda Vietnam: Vision detail page, technical specifications and storage features — engine size, power, torque, weight, width, seat height, fuel tank, claimed fuel consumption, tyre sizes and the under-seat and front storage compartments (retrieved 2026-10-25)"
 internal_link_targets: "automatic-vs-manual-motorbike-hanoi, best-motorbike-for-hanoi-traffic, best-scooters-to-rent-hanoi, motorbike-rental-price-hanoi, renting-vs-buying-a-motorbike-hanoi, semi-automatic-gearbox-explained, honda-wave-alpha-vs-yamaha-sirius, easiest-motorbikes-for-beginners-hanoi, best-motorbike-for-commuting-hanoi"
 ---
@@ -39,27 +39,21 @@ Both slips are cheap to avoid while the bike is parked: touch each control, say 
 
 ## The scooter (Honda Vision, Click, Yamaha Mio, Air Blade)
 
-Automatic, step-through, under-seat storage. The pros: zero learning curve on the transmission, best-in-class storage (helmet, jacket, groceries), the roomiest option for carrying a passenger, and the easiest machine for a first-time rider in Vietnamese traffic. The cons: a bit wider than an underbone in the tightest alleys, slightly higher day rates on some models (150,000-200,000 VND), and more plastic bodywork to damage in a drop.
+Automatic, step-through, under-seat storage. The pros: zero learning curve on the transmission, best-in-class storage (helmet, jacket, groceries), the roomiest option for carrying a passenger, and the easiest machine for a first-time rider in Vietnamese traffic. The cons: wider than the Sirius in the tightest alleys, though not wider than the Wave Alpha, slightly higher day rates on some models (150,000-200,000 VND), and more plastic bodywork to damage in a drop.
 
 Honda Vietnam lists the Vision as an automatic (CVT) of 109.5 cc weighing 97 kg, with an 80/90-16 front tyre and a 90/90-14 rear, and the Air Blade 125 as an automatic (CVT) of 125 cc weighing 110 kg. This guide quotes no manufacturer figures for the Click or the Mio, so it makes no claim about their engines, weight or storage.
 
 ## The semi-automatic underbone (Honda Wave, Yamaha Sirius)
 
-Foot-shifted gears, no hand clutch. The pros: the narrowest, lightest-feeling machines on the list - the alleys and the crowds of the Old Quarter are their natural habitat; the lowest published rates (150,000 VND per day); the biggest wheels of the small classes, which handle potholes and rough provincial roads better than scooter wheels; and a national repair network - every mechanic in Vietnam knows a Wave. The cons: the foot-shift is a real learning curve for total beginners; storage means a rack bag; and two-up comfort is worse.
+Foot-shifted gears, no hand clutch. The pros: machines that feel light and narrow (the Sirius, at 665 mm, is the narrowest model quoted here) - the alleys and the crowds of the Old Quarter are their natural habitat; the lowest published rates (150,000 VND per day); the biggest wheels of the small classes, which handle potholes and rough provincial roads better than scooter wheels; and simple air-cooled single-cylinder engines that a general mechanic is likely to know. The cons: the foot-shift is a real learning curve for total beginners; storage means a rack bag; and two-up comfort is worse.
 
 Three of those claims need a note from the published figures. Lightness is a matter of feel more than kilograms: Honda lists the Wave Alpha 110 at 96 kg and Yamaha lists the Sirius RC 110 at 100 kg wet, against 97 kg for the Vision, a gap too small to separate the types.
 
-Only the Sirius is clearly narrower, at 665 mm overall width against 686 mm for the Vision and 689 mm for the Wave Alpha 110, so how narrow an underbone feels depends on which one you get; [the Old Quarter bike guide]({{ '/articles/best-bike-for-hanoi-old-quarter/' | relative_url }}) has the full size table. And the 150,000 VND day rate is the lowest published but not unique, because the Click and Mio scooters are published at the same figure.
+Only the Sirius is clearly narrower than the rest, at 665 mm overall width against 686 mm for the Vision, 687 mm for the Air Blade 125 and 689 mm for the Wave Alpha 110, so how narrow an underbone feels depends on which one you get; [the Old Quarter bike guide]({{ '/articles/best-bike-for-hanoi-old-quarter/' | relative_url }}) has the full size table. And the 150,000 VND day rate is the lowest published but not unique, because the Click and Mio scooters are published at the same figure.
 
 The wheel claim holds. Both underbones are listed with 17-inch tyres, 70/90-17 at the front and 80/90-17 at the rear, while the Vision has a 16-inch front and a 14-inch rear. These figures describe the Wave Alpha 110 and the Sirius RC 110; the bike you are handed may be another variant (Yamaha lists more than one Sirius version), so ask which one it is.
 
 For the verified spec side of the semi-automatic question, see our semi-automatic [gearbox explainer]({{ '/articles/semi-automatic-gearbox-explained/' | relative_url }}) and the [Wave Alpha versus Sirius comparison]({{ '/articles/honda-wave-alpha-vs-yamaha-sirius/' | relative_url }}) of the two classic underbones.
-
-## Stop-start traffic: one decision or two
-
-Rush-hour riding in Hanoi is a run of stops, crawls and gaps that open without warning. On a scooter, one hand decides how fast you go: roll the throttle on and off and the transmission chooses the ratio. On an underbone, speed depends on the throttle and the gear together, so every slowdown carries a small question: which gear will I want when the gap opens?
-
-A rider who already shifts with the foot answers it without thinking. A new rider answers it late, and a late answer shows up as a sluggish pull-away at the front of a queue or a lurch when the gear is wrong. That skill is learned in the same minutes as the traffic itself, which is why the first bullet in the honest match below sends first-timers to the scooter.
 
 ## Slopes, ramps and bridges
 
@@ -84,7 +78,7 @@ The table keeps to what Honda Vietnam and Yamaha Motor Vietnam publish for four 
 | Honda Wave Alpha 110 | 17-inch / 17-inch | 3.7 L; 1.72 L per 100 km | none published |
 | Yamaha Sirius RC 110 | 17-inch / 17-inch | 4.2 L; 2.08 L per 100 km | none published |
 
-On fuel, the claimed figures are manufacturer figures, not real-world ones, and consumption varies with speed, load, temperature and traffic. The three bikes with a figure sit within 0.36 L per 100 km of each other, which is too close to choose a type on. The visible difference is the tank: the Vision's 4.8 L is larger than the Wave Alpha's 3.7 L and the Sirius's 4.2 L, so an underbone reaches a petrol station sooner on a long day.
+On fuel, the claimed figures are manufacturer figures, not real-world ones, and consumption varies with speed, load, temperature and traffic. The three bikes with a figure sit within 0.36 L per 100 km of each other (2.08 minus 1.72 = 0.36 L per 100 km), which is too close to choose a type on. The visible difference is the tank: the Vision's 4.8 L is larger than the Wave Alpha's 3.7 L and the Sirius's 4.2 L, so on the claimed figures the Vision goes further on a full tank than either underbone; the other scooters' tanks are not quoted here.
 
 Under the seat, Honda describes the Vision's bay as fitting a helmet and other personal items, with a separate front compartment and a USB-C port, but gives no litre figure. The Air Blade 125's 23.2 L is the only published figure of the four, worded as two half-helmets. Honda and Yamaha publish no built-in storage for the Wave Alpha 110 or the Sirius RC 110, so an underbone rider plans on a backpack or rack bag, as [the underbone storage guide]({{ '/articles/underbone-storage-options-explained/' | relative_url }}) sets out. A scooter rider should still try the bay with a real helmet and day bag, because a full-face helmet is bulkier than the half-helmets Honda describes.
 
@@ -93,7 +87,7 @@ Under Article 33 of Law 36/2024/QH15 a standard two-wheel motorbike may carry on
 ## The honest match
 
 - Never ridden / riding in Vietnam for the first time / carrying a passenger: scooter.
-- Already comfortable shifting with your foot, riding the Old Quarter daily, or going for the lowest cost: semi-automatic.
+- Already comfortable shifting with your foot, riding the Old Quarter daily, or wanting a 150,000 VND day rate with a gearbox you know (the Click and Mio share that rate): semi-automatic.
 - Day trips on mixed roads: semi-automatic (bigger wheels) or the Air Blade-class scooter (comfort).
 - Neighbourhood errands at licence-free speeds: neither - a 50 cc or e-bike.
 
@@ -109,19 +103,19 @@ The beginner side of this choice is in [the easiest bikes for beginners guide]({
 
 The published day rates follow the model, not the gearbox. The Honda Wave and Yamaha Sirius underbones and the Honda Click and Yamaha Mio scooters are published at 150,000 VND per day; the Honda Vision and Honda Air Blade scooters are published at 200,000 VND per day. A deposit is typically 2,000,000-5,000,000 VND depending on vehicle and conditions, and Nguyen Tu does not provide motorbike insurance, so you arrange your own.
 
-For weekly and monthly rates, and for 50cc bikes and E-Bikes, use [the rental price guide]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}); do not infer one model's price from another's. Contact us to confirm current availability for your dates. If you are weighing a purchase instead, [the renting versus buying guide]({{ '/articles/renting-vs-buying-a-motorbike-hanoi/' | relative_url }}) covers the cost side.
+For weekly and monthly rates, and for 50cc bikes and E-Bikes, use [the rental price guide]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}); do not infer one model's price from another's. If you are weighing a purchase instead, [the renting versus buying guide]({{ '/articles/renting-vs-buying-a-motorbike-hanoi/' | relative_url }}) covers the cost side.
 
 ## The licence note
 
 Both classes sit in the same licence bracket for the common sizes - the A1-class rules and the IDP routes cover them identically. Transmission is a skill question, not a legal one.
 
-The class follows engine size. [The A1 licence guide]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) explains that class A1 under Article 57 of Law 36/2024/QH15 covers petrol two-wheelers up to and including 125 cc, which places the Honda Vision, Air Blade, Wave, Click and Yamaha Mio inside it. Honda also lists a larger Air Blade 160, so ask the engine size of the exact bike. Visitors without a Vietnamese licence need a recognised home licence plus an International Driving Permit that includes a motorcycle category, as the A1 guide above sets out.
+The class follows engine size. [The A1 licence guide]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) explains that class A1 under Article 57 of Law 36/2024/QH15 covers petrol two-wheelers up to and including 125 cc, which places the Honda Vision, Air Blade, Wave and Yamaha Sirius inside it. Honda also lists a larger Air Blade 160, so ask the engine size of the exact bike. For most visitors, recognition depends on a home licence plus an International Driving Permit that includes a motorcycle category, as the A1 guide above sets out.
 
 ## Checks at the counter
 
-Sit on both at the shop and try the shift once - the choice usually makes itself in thirty seconds. Contact us to confirm which models are available to try today. These checks make the half minute count:
+Sit on both at the shop and try the shift once - the choice often becomes clear once you have sat on each. Contact us to confirm which models are available to try today. These checks go further:
 
-1. Ask for the type in words and the engine size of this exact bike, including which variant of the Air Blade or Sirius.
+1. Ask which variant of the Air Blade or Sirius it is.
 2. Sit on it: both feet should reach the ground and the knees should clear the bars at full lock. Honda lists seat heights of 785 mm for the Vision and 770 mm for the Wave Alpha 110, a 15 mm gap on paper that will not settle fit; sitting on the bike will.
 3. Touch every control and ask to be shown what it does: which lever works which brake on a scooter, the shift pattern and how to find neutral on an underbone.
 4. Paddle the bike backwards a few metres on level ground to feel its weight, and test your helmet in the bay or plan how a bag will ride on the rack.

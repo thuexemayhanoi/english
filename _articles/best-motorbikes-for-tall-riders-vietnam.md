@@ -17,7 +17,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23): seat heights, dimensions, wheelbases and kerb weights of the Honda Wave Alpha 110, Wave RSX, Vision and Air Blade 125 and the Yamaha Sirius RC"
+  - "Manufacturer official pages: honda.com.vn and yamaha-motor.com.vn, recorded in docs/MODEL-DATABASE.md (retrieved 2026-09-23): overall dimensions and kerb weights of the Honda Wave Alpha 110, Wave RSX, Vision and Air Blade 125 and the Yamaha Sirius RC; seat heights and wheelbases for the two Wave models"
 internal_link_targets: "best-scooters-to-rent-hanoi, automatic-vs-manual-motorbike-hanoi, rental-motorbike-inspection-checklist, best-motorbike-for-two-people-hanoi, how-to-book-a-motorbike-rental-hanoi, best-scooters-tall-riders-vietnam, best-underbones-tall-riders-verified, scooter-vs-semi-automatic-hanoi"
 ---
 
@@ -45,7 +45,7 @@ Semi-automatic underbones (Wave, Sirius) are compact but have open legroom - tal
 
 ## What the published figures can and cannot tell you
 
-Honda Vietnam and Yamaha Vietnam publish seat height for some models, along with overall size and kerb weight. The figures checked for this guide in September 2026 do not include legroom, floor length or the distance from seat to footrest, which are the numbers a tall rider actually wants. This is what exists for the models with a published day rate:
+Honda Vietnam and Yamaha Vietnam publish seat height for some models, along with overall size and kerb weight. The figures checked for this guide in September 2026 do not include legroom, floor length or the distance from seat to footrest, which are the numbers a tall rider actually wants. This is what exists for the Wave, Sirius, Vision and Air Blade classes the shop publishes a day rate for:
 
 | Model | Seat height | Length x width x height | Kerb weight |
 |---|---|---|---|
@@ -56,17 +56,17 @@ Honda Vietnam and Yamaha Vietnam publish seat height for some models, along with
 | Honda Air Blade 125 | not recorded | 1884 x 687 x 1085 mm | 110 kg |
 | Honda Click, Yamaha Mio | not recorded | not recorded | not recorded |
 
-"Not recorded" means the figure was not checked for this guide and is left blank rather than guessed; Yamaha's page for the Sirius RC publishes no seat height. The shop publishes a rate for the Wave as a class, and Honda sells more than one Wave, so confirm which variant and year you would get before comparing it with a row here.
+"Not recorded" means the figure was not checked for this guide and is left blank rather than guessed; Yamaha's page for the Sirius RC, as retrieved in September 2026, listed no seat height. The shop publishes a rate for the Wave as a class, and Honda sells more than one Wave, so confirm which variant and year you would get before comparing it with a row here.
 
 ### What the numbers do show
 
-The first lesson is how little seat height moves. Among the Honda and Yamaha petrol scooters, underbones and small motorcycles whose seat heights were checked, the lowest is 750 mm (Yamaha Gear 125 Hybrid) and the highest is 800 mm (Honda CT125): a spread of 50 mm. Changing model changes your seat height by 50 mm at most. What differs is legroom, bar position and peg position, and the table does not cover those.
+The first lesson is how little seat height moves. Among the Honda and Yamaha petrol scooters, underbones and small motorcycles whose seat heights were checked, the lowest is 750 mm (Yamaha Gear 125 Hybrid) and the highest is 800 mm (Honda CT125): a spread of 50 mm. That spread covers only the models checked: no seat height is recorded for the Vision, Air Blade, Click, Mio or Sirius. What differs is legroom, bar position and peg position, and the table does not cover those.
 
 The second lesson is that overall size and legroom are different things. Honda's overall length for the Vision is 41 mm more than for the Air Blade 125, and its overall height is 41 mm more too (1126 mm against 1085 mm), while the Air Blade is 13 kg heavier (110 kg against 97 kg). A bigger overall bike does not prove more room for your legs, and neither does a heavier one.
 
 The third is that wheelbases were recorded only for the two Wave models (1224 mm for the Alpha 110 and 1227 mm for the RSX), so the table cannot rank the six on that measure either.
 
-The tallest published seats belong to models outside the shop's published list: Honda lists the CT125 at 800 mm and the SH160i at 799 mm. The data guides [Best Scooters for Tall Riders in Vietnam]({{ '/articles/best-scooters-tall-riders-vietnam/' | relative_url }}) and [Best Underbones for Tall Riders]({{ '/articles/best-underbones-tall-riders-verified/' | relative_url }}) set those out with their dimensions. Whether the shop has any of them is a question for the shop.
+The tallest published seats belong to models outside the shop's published list: Honda lists the CT125 at 800 mm and the SH160i at 799 mm. The data guides [Best Scooters for Tall Riders in Vietnam]({{ '/articles/best-scooters-tall-riders-vietnam/' | relative_url }}) and [Best Underbones for Tall Riders]({{ '/articles/best-underbones-tall-riders-verified/' | relative_url }}) set those out with their seat heights. Whether the shop has any of them is a question for the shop.
 
 ## The test that decides
 
@@ -91,7 +91,7 @@ If anyone will ride behind you, sit on the bike together before you pay. On a bi
 
 Height does not tell you head size, so a tall rider needs the same helmet check as anyone else. No helmet policy is published for the rental, so ask before pickup whether a helmet comes with the bike, which sizes are available, whether a second helmet is available for a passenger and whether you may use your own.
 
-Wearing a helmet is a legal requirement, and the [Vietnam helmet law guide]({{ '/articles/helmet-law-vietnam/' | relative_url }}) sets out the rule for riders and passengers. The practical test is separate: put the helmet on and fasten the strap. It should be snug enough that the helmet moves with your head instead of sliding over it, with no pressure points and the strap snug under the chin. The [helmet fit guide]({{ '/articles/helmet-fit-guide-vietnam/' | relative_url }}) goes through the basics. Then repeat the head turn from the checks above with the helmet on, because a helmet that fits standing still can still block your view of the mirror. If none on offer fits, ask whether you may use your own.
+Wearing a helmet is a legal requirement, and the [Vietnam helmet law guide]({{ '/articles/helmet-law-vietnam/' | relative_url }}) sets out the rule for riders and passengers. The practical test is separate: put the helmet on and fasten the strap. The [helmet fit guide]({{ '/articles/helmet-fit-guide-vietnam/' | relative_url }}) goes through the basics. Then repeat the head turn from the checks above with the helmet on, because a helmet that fits standing still can still block your view of the mirror. If the shop has none that fits, ask whether you may use your own.
 
 Height changes the rental choice, not the rental rules: [licence and helmet law]({{ '/topics/law-licences/' | relative_url }}) apply identically regardless of how tall you are.
 
@@ -109,16 +109,11 @@ The data guides above show which models have the tallest published seats, and yo
 
 If you will be in Hanoi for months and no rental bike fits, [renting versus buying a motorbike in Hanoi]({{ '/articles/renting-vs-buying-a-motorbike-hanoi/' | relative_url }}) weighs the choice. On a rental, ask the shop before changing anything on the bike.
 
-A fit that is only tolerable at the lights shows up in the knees, hips and lower back over a long day, which matters most for a daily ride: [Best Motorbike for Commuting in Hanoi]({{ '/articles/best-motorbike-for-commuting-hanoi/' | relative_url }}) covers that case. Support is primarily for Hanoi and local use, so tell the shop if your plan goes beyond the city.
+A fit that is only tolerable at the lights shows up in the knees, hips and lower back over a long day, which matters most for a daily ride: [Best Motorbike for Commuting in Hanoi]({{ '/articles/best-motorbike-for-commuting-hanoi/' | relative_url }}) covers that case.
 
 ## What tall riders should not do
 
 Rent the smallest bike because it is cheapest - a cramped riding position is a genuine control problem at speed, not just comfort. And skip anything described as "compact" or with a step-through frame built for smaller riders. Size words in a listing are the seller's description, not a measurement, so judge by the figures and the sit test.
-
-- **Choose on seat height alone.** The 50 mm spread above shows why: seat height barely varies between models, while legroom, bar position and peg position are not in the table.
-- **Judge the fit at a glance.** Sit properly, with the helmet on, and turn the bars lock to lock before you decide.
-- **Forget the passenger.** A bike that fits you alone can fail with someone behind you.
-- **Trust a model name.** The shop publishes a rate for the Honda Wave, and Honda sells more than one Wave, so ask which one you are getting.
 
 ## Common questions
 
