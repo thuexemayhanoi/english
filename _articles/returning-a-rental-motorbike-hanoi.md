@@ -30,7 +30,7 @@ Start from the deadline you cannot move, whether that is a flight, a train, a ho
 
 | When | What to settle | What the margin absorbs |
 |---|---|---|
-| The evening before | Photos, your belongings out of the seat storage, a message with your planned arrival time | Anything you would rush in the morning |
+| The evening before | Your handover photos found and to hand, your belongings out of the seat storage, a message with your planned arrival time | Anything you would rush in the morning |
 | Morning of the return | Bag packed, key and papers in hand, route chosen | Traffic you cannot predict |
 | The last stretch | A stop at the pump if the agreed level needs matching | A queue at the pump or a wrong turn |
 | At the shop | The walk-around, photos, any balance, the deposit questions | A check that takes longer than hoped |
@@ -38,7 +38,7 @@ Start from the deadline you cannot move, whether that is a flight, a train, a ho
 
 Agree the return time when you book and repeat it in a message the day before. A return time that exists only in conversation is one you cannot point to later, and a late return has a cost.
 
-Set your own deadline earlier than the shop's. For a flight, start from the latest moment you must leave for the airport, add the ride to the shop, the return itself and the transfer afterwards, then add the margin you would want if one of them ran long. [Renting a Motorbike When You Arrive at Noi Bai Airport]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) covers the arrival side of the same transfer options, so settle that leg before you fix the return time.
+Set your own deadline earlier than the shop's. For a flight, start from the latest moment you must leave for the airport, add the ride to the shop, the return itself and the transfer afterwards, then add the margin you would want if one of them ran long. [Renting a Motorbike When You Arrive at Noi Bai Airport]({{ '/articles/renting-motorbike-noi-bai-arrival/' | relative_url }}) lists how people get between the terminal and the city; weigh the same options for the trip out and choose yours before you fix the return time.
 
 ### If your departure leaves no room inside opening hours
 
@@ -74,8 +74,8 @@ Do not wait for the check to start. Run your own pass first, in the order the [r
 | Lights and electrics | Headlight, brake light, indicators and horn all still work |
 | Brakes | Both brakes still bite and feel as they did |
 | Steering and controls | Bars turn freely, throttle closes cleanly, mirrors present |
-| Tyres and chain | No new cuts or bulges in the tyres; the chain looks as it did |
-| Fuel, plates and papers | Gauge against your photo, both number plates fitted, registration certificate with the bike |
+| Tyres and chain | No new cuts or bulges in the tyres; the chain, if the bike has one, looks as it did |
+| Fuel, plates and papers | Gauge against your photo, number plate still fitted and readable, registration certificate with the bike |
 | Body | Every panel and the underside against the handover set |
 
 If anything differs, say so yourself, show the matching photo and ask what happens next.
