@@ -1199,8 +1199,7 @@
    "internal-link-audit",
    "frontmatter-check",
    "schema-check",
-   "sitemap-check",
-   "rendered-site-audit"
+   "sitemap-check"
   ],
   "dataLimitations": [
    "ZERO-DATA MODE: no English Google Search Console or GA4 export exists yet (docs/SOURCE-MAP.md); the only measured position data is the third-party rank-tracker snapshot of 2026-10-14 (25 tracked keywords, 15 ranking: positions only, no clicks, impressions or traffic); priorities use on-site evidence, that snapshot, the public SERP snapshots, competitor data and third-party demand estimates recorded in docs/seo/keyword-evidence.json and docs/seo/keyword-universe.json (tool and date on every number).",
@@ -3419,7 +3418,7 @@
      "pending": 264
     }
    },
-   "wordsAddedDone": 26975,
+   "wordsAddedDone": 26991,
    "belowTargetDone": 0,
    "batches": 2,
    "outOfScope": 288
@@ -11608,15 +11607,15 @@
    "topic_cluster": "rental / 1.1 how-to-rent",
    "content_quality": "strong (7/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 28 body + 7 related cards; in: 7 related + 11 body + hub listing",
+   "internal_links": "out: 29 body + 7 related cards; in: 7 related + 11 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - batch 1: description tightened, contextual links to IDP/50cc/e-bike guides; in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
-   "evidence": "title_len=41; desc_len=147 || words=1914; h2=8; tables=1; sources=5; body_links=28 || related_out=7; related_in=7; body_in=11 || plan MM-0006 (owner-history+gsc): Each answers a different step of the rental process; no two cover the same step || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=41; desc_len=147 || words=1934; h2=8; tables=1; sources=5; body_links=29 || related_out=7; related_in=7; body_in=11 || plan MM-0006 (owner-history+gsc): Each answers a different step of the rental process; no two cover the same step || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "original_words": 378,
-   "current_words": 1855,
-   "package2": "DONE p2-02 2026-10-25: 378 -> 1855 words; QA lint 0 errors; independent verification of every article (verifier, fix round and delta verifier where findings were MAJOR); build-report P0 0 P1 0; engine tests; Jekyll build and rendered audit P0/P1 0; assistant tests; duplicate check P2 0 [log: package2-p2-02]",
+   "current_words": 1875,
+   "package2": "DONE p2-02 2026-10-25: 378 -> 1875 words; QA lint 0 errors; independent verification of every article (verifier, fix round and delta verifier where findings were MAJOR); build-report P0 0 P1 0; engine tests; Jekyll build and rendered audit P0/P1 0; assistant tests; duplicate check P2 0 [log: package2-p2-02]",
    "type": "article"
   },
   {
@@ -13508,12 +13507,12 @@
    "topic_cluster": "law-licences / 11.1 licence-system",
    "content_quality": "strong (6/7)",
    "cannibalization": "none detected",
-   "internal_links": "out: 2 body + 7 related cards; in: 21 related + 15 body + hub listing",
+   "internal_links": "out: 2 body + 7 related cards; in: 21 related + 16 body + hub listing",
    "seo_issues": "none",
    "priority": "P3",
    "recommended_action": "SEO Package 2 (queue 131, group B): expand from 387 to at least 1600 words of new verified information, same URL.",
    "status": "OPTIMIZED 2026-10-15 - licence class corrected to Article 34(1)(g): 70 km/h VinFast Evo, Feliz II and Viper need an A1; Evo Lite and Amio licence-free (batch matrix-queue-4)",
-   "evidence": "title_len=59; desc_len=159 || words=400; h2=3; tables=1; sources=2; body_links=2 || related_out=7; related_in=21; body_in=15 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=59; desc_len=159 || words=400; h2=3; tables=1; sources=2; body_links=2 || related_out=7; related_in=21; body_in=16 || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "original_words": 387,
    "current_words": 387,
    "package2": "PENDING queue 131 (group B): 387 of 1600 words",
@@ -14753,10 +14752,10 @@
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - in-silo contextual links to the situation, audience, lifestyle or neighbouring-district guides (batch matrix-queue-1)",
-   "evidence": "title_len=63; desc_len=123 || words=2378; h2=12; tables=1; sources=2; body_links=22 || related_out=12; related_in=19; body_in=13 || plan MM-0016 (owner-history+gsc): Each answers a different step of the rental process; no two cover the same step || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=63; desc_len=123 || words=2374; h2=12; tables=1; sources=2; body_links=22 || related_out=12; related_in=19; body_in=13 || plan MM-0016 (owner-history+gsc): Each answers a different step of the rental process; no two cover the same step || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "original_words": 410,
-   "current_words": 2292,
-   "package2": "DONE p2-02 2026-10-25: 410 -> 2292 words; QA lint 0 errors; independent verification of every article (verifier, fix round and delta verifier where findings were MAJOR); build-report P0 0 P1 0; engine tests; Jekyll build and rendered audit P0/P1 0; assistant tests; duplicate check P2 0 [log: package2-p2-02]",
+   "current_words": 2288,
+   "package2": "DONE p2-02 2026-10-25: 410 -> 2288 words; QA lint 0 errors; independent verification of every article (verifier, fix round and delta verifier where findings were MAJOR); build-report P0 0 P1 0; engine tests; Jekyll build and rendered audit P0/P1 0; assistant tests; duplicate check P2 0 [log: package2-p2-02]",
    "type": "article"
   },
   {

@@ -1,6 +1,6 @@
 # Keyword universe (zero-data mode)
 
-Generated 2026-10-15 by `scripts/english-seo-matrix.js` from `docs/seo/keyword-universe.json` (160 on-topic rows, generated 2026-10-14). Volumes are a third-party search index's monthly estimates per market, read through the OpenRush connector on the date recorded in the JSON; they are prioritisation evidence, not facts to publish, and will be replaced by Search Console data in DATA-DRIVEN mode. Markets: AU = Australia, UK = United Kingdom, US = United States, VN = Vietnam.
+Generated 2026-10-25 by `scripts/english-seo-matrix.js` from `docs/seo/keyword-universe.json` (160 on-topic rows, generated 2026-10-14). Volumes are a third-party search index's monthly estimates per market, read through the OpenRush connector on the date recorded in the JSON; they are prioritisation evidence, not facts to publish, and will be replaced by Search Console data in DATA-DRIVEN mode. Markets: AU = Australia, UK = United Kingdom, US = United States, VN = Vietnam.
 
 ## Sources
 

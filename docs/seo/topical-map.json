@@ -5,7 +5,7 @@
   "clusters": 14,
   "articles": 981,
   "inSiloBodyLinks": 2366,
-  "crossSiloBodyLinks": 1189,
+  "crossSiloBodyLinks": 1190,
   "inSiloShare": 67,
   "articlesWithoutInSiloInbound": 237,
   "trueSiloOrphans": 0,
@@ -76,7 +76,7 @@
    },
    "links": {
     "inSiloBody": 430,
-    "crossSiloOut": 145,
+    "crossSiloOut": 146,
     "crossSiloIn": 267,
     "inSiloShare": 75,
     "articlesWithoutInSiloInbound": 5,
@@ -3142,7 +3142,7 @@
    "links": {
     "inSiloBody": 125,
     "crossSiloOut": 4,
-    "crossSiloIn": 249,
+    "crossSiloIn": 250,
     "inSiloShare": 97,
     "articlesWithoutInSiloInbound": 19,
     "articlesWithoutInSiloInboundSample": [
@@ -3182,9 +3182,9 @@
      "related": 41
     },
     {
-     "url": "/articles/compulsory-motorbike-insurance-vietnam/",
+     "url": "/articles/electric-bike-licence-vietnam/",
      "inbound": 16,
-     "related": 18
+     "related": 21
     }
    ],
    "moneyPages": [],
@@ -4017,7 +4017,7 @@
   {
    "from": "rental",
    "to": "law-licences",
-   "links": 90
+   "links": 91
   },
   {
    "from": "monthly-rental",
