@@ -4,10 +4,10 @@
   "mode": "ZERO-DATA",
   "clusters": 14,
   "articles": 981,
-  "inSiloBodyLinks": 2366,
-  "crossSiloBodyLinks": 1189,
-  "inSiloShare": 67,
-  "articlesWithoutInSiloInbound": 237,
+  "inSiloBodyLinks": 2415,
+  "crossSiloBodyLinks": 1225,
+  "inSiloShare": 66,
+  "articlesWithoutInSiloInbound": 236,
   "trueSiloOrphans": 0,
   "hubsWithFewerThan3StartHere": 0,
   "demandByMarket": {
@@ -59,7 +59,7 @@
     "1.4 renter-situations": 15
    },
    "words": {
-    "avg": 696,
+    "avg": 847,
     "min": 301
    },
    "review": {
@@ -75,15 +75,14 @@
     "P3": 81
    },
    "links": {
-    "inSiloBody": 430,
-    "crossSiloOut": 145,
-    "crossSiloIn": 267,
-    "inSiloShare": 75,
-    "articlesWithoutInSiloInbound": 5,
+    "inSiloBody": 470,
+    "crossSiloOut": 173,
+    "crossSiloIn": 269,
+    "inSiloShare": 73,
+    "articlesWithoutInSiloInbound": 4,
     "articlesWithoutInSiloInboundSample": [
      "/articles/common-motorbike-rental-problems-hanoi/",
      "/articles/motorbike-rental-female-riders-hanoi/",
-     "/articles/rental-motorbike-fuel-what-petrol/",
      "/articles/renting-motorbike-couple-hanoi/",
      "/articles/renting-motorbike-hanoi-tet-holidays/"
     ],
@@ -93,7 +92,7 @@
    "topInbound": [
     {
      "url": "/articles/rental-motorbike-inspection-checklist/",
-     "inbound": 59,
+     "inbound": 62,
      "related": 36
     },
     {
@@ -103,18 +102,18 @@
     },
     {
      "url": "/articles/motorbike-rental-price-hanoi/",
-     "inbound": 25,
+     "inbound": 26,
      "related": 22
     },
     {
      "url": "/articles/motorbike-rental-deposit-hanoi/",
-     "inbound": 21,
-     "related": 18
+     "inbound": 25,
+     "related": 20
     },
     {
      "url": "/articles/motorbike-rental-pickup-or-delivery-hanoi/",
-     "inbound": 20,
-     "related": 18
+     "inbound": 23,
+     "related": 19
     }
    ],
    "moneyPages": [
@@ -129,7 +128,7 @@
      "url": "/articles/best-motorbike-for-expats-hanoi/",
      "inbound": 2,
      "inSiloInbound": 2,
-     "related": 4,
+     "related": 5,
      "priority": "P3"
     },
     {
@@ -156,13 +155,6 @@
     {
      "url": "/articles/renting-motorbike-long-bien/",
      "inbound": 2,
-     "inSiloInbound": 2,
-     "related": 2,
-     "priority": "P3"
-    },
-    {
-     "url": "/articles/renting-motorbike-six-months-hanoi/",
-     "inbound": 5,
      "inSiloInbound": 2,
      "related": 2,
      "priority": "P3"
@@ -246,9 +238,9 @@
     },
     {
      "url": "/articles/motorbike-rental-expats-moving-hanoi/",
-     "inbound": 4,
+     "inbound": 5,
      "inSiloInbound": 4,
-     "related": 2,
+     "related": 3,
      "priority": "P3"
     },
     {
@@ -277,6 +269,13 @@
      "inbound": 6,
      "inSiloInbound": 4,
      "related": 6,
+     "priority": "P3"
+    },
+    {
+     "url": "/articles/renting-motorbike-six-months-hanoi/",
+     "inbound": 7,
+     "inSiloInbound": 4,
+     "related": 2,
      "priority": "P3"
     },
     {
@@ -351,8 +350,8 @@
     },
     {
      "url": "/articles/motorbike-rental-price-hanoi/",
-     "inbound": 25,
-     "inSiloInbound": 19,
+     "inbound": 26,
+     "inSiloInbound": 20,
      "related": 22,
      "priority": "P3"
     }
@@ -695,14 +694,14 @@
     "2.1 monthly-basics": 8
    },
    "words": {
-    "avg": 353,
+    "avg": 456,
     "min": 285
    },
    "review": {
     "verified": 45,
     "reviewRequired": 0,
     "oldestReview": "2026-09-22",
-    "newestReview": "2026-09-22"
+    "newestReview": "2026-10-25"
    },
    "priorities": {
     "P0": 0,
@@ -711,10 +710,10 @@
     "P3": 45
    },
    "links": {
-    "inSiloBody": 158,
-    "crossSiloOut": 89,
-    "crossSiloIn": 41,
-    "inSiloShare": 64,
+    "inSiloBody": 167,
+    "crossSiloOut": 97,
+    "crossSiloIn": 53,
+    "inSiloShare": 63,
     "articlesWithoutInSiloInbound": 3,
     "articlesWithoutInSiloInboundSample": [
      "/articles/learning-to-ride-monthly-rental-hanoi/",
@@ -731,24 +730,24 @@
      "related": 13
     },
     {
+     "url": "/articles/motorbike-rental-monthly-price-hanoi/",
+     "inbound": 16,
+     "related": 11
+    },
+    {
      "url": "/articles/keeping-rental-motorbike-secure-hanoi/",
      "inbound": 13,
      "related": 15
     },
     {
-     "url": "/articles/motorbike-rental-monthly-price-hanoi/",
+     "url": "/articles/extending-motorbike-rental-hanoi/",
      "inbound": 13,
      "related": 8
     },
     {
-     "url": "/articles/extending-motorbike-rental-hanoi/",
-     "inbound": 10,
-     "related": 7
-    },
-    {
-     "url": "/articles/parking-monthly-renter-hanoi/",
+     "url": "/articles/motorbike-rental-agreement-long-term-hanoi/",
      "inbound": 9,
-     "related": 7
+     "related": 15
     }
    ],
    "moneyPages": [
@@ -761,16 +760,16 @@
     },
     {
      "url": "/articles/renting-motorbike-year-hanoi/",
-     "inbound": 2,
+     "inbound": 4,
      "inSiloInbound": 2,
      "related": 2,
      "priority": "P3"
     },
     {
      "url": "/articles/english-teachers-monthly-motorbike-hanoi/",
-     "inbound": 3,
+     "inbound": 4,
      "inSiloInbound": 3,
-     "related": 2,
+     "related": 3,
      "priority": "P3"
     },
     {
@@ -802,13 +801,6 @@
      "priority": "P3"
     },
     {
-     "url": "/articles/three-month-motorbike-rental-hanoi/",
-     "inbound": 3,
-     "inSiloInbound": 3,
-     "related": 3,
-     "priority": "P3"
-    },
-    {
      "url": "/articles/two-motorbikes-household-hanoi/",
      "inbound": 3,
      "inSiloInbound": 3,
@@ -823,6 +815,13 @@
      "priority": "P3"
     },
     {
+     "url": "/articles/three-month-motorbike-rental-hanoi/",
+     "inbound": 6,
+     "inSiloInbound": 4,
+     "related": 4,
+     "priority": "P3"
+    },
+    {
      "url": "/articles/motorbike-rental-deposit-monthly-hanoi/",
      "inbound": 9,
      "inSiloInbound": 9,
@@ -831,9 +830,9 @@
     },
     {
      "url": "/articles/motorbike-rental-monthly-price-hanoi/",
-     "inbound": 13,
-     "inSiloInbound": 9,
-     "related": 8,
+     "inbound": 16,
+     "inSiloInbound": 11,
+     "related": 11,
      "priority": "P3"
     }
    ],
@@ -3030,7 +3029,7 @@
    "links": {
     "inSiloBody": 139,
     "crossSiloOut": 69,
-    "crossSiloIn": 244,
+    "crossSiloIn": 245,
     "inSiloShare": 67,
     "articlesWithoutInSiloInbound": 16,
     "articlesWithoutInSiloInboundSample": [
@@ -3051,7 +3050,7 @@
    "topInbound": [
     {
      "url": "/articles/carrying-luggage-motorbike-safely-vietnam/",
-     "inbound": 25,
+     "inbound": 26,
      "related": 25
     },
     {
@@ -3131,7 +3130,7 @@
     "verified": 66,
     "reviewRequired": 0,
     "oldestReview": "2026-09-21",
-    "newestReview": "2026-09-22"
+    "newestReview": "2026-10-25"
    },
    "priorities": {
     "P0": 0,
@@ -3142,7 +3141,7 @@
    "links": {
     "inSiloBody": 125,
     "crossSiloOut": 4,
-    "crossSiloIn": 249,
+    "crossSiloIn": 269,
     "inSiloShare": 97,
     "articlesWithoutInSiloInbound": 19,
     "articlesWithoutInSiloInboundSample": [
@@ -3177,14 +3176,14 @@
      "related": 25
     },
     {
+     "url": "/articles/helmet-law-vietnam/",
+     "inbound": 17,
+     "related": 22
+    },
+    {
      "url": "/articles/motorbike-fines-vietnam-overview/",
      "inbound": 16,
      "related": 41
-    },
-    {
-     "url": "/articles/compulsory-motorbike-insurance-vietnam/",
-     "inbound": 16,
-     "related": 18
     }
    ],
    "moneyPages": [],
@@ -3440,7 +3439,7 @@
    "links": {
     "inSiloBody": 41,
     "crossSiloOut": 50,
-    "crossSiloIn": 21,
+    "crossSiloIn": 22,
     "inSiloShare": 45,
     "articlesWithoutInSiloInbound": 27,
     "articlesWithoutInSiloInboundSample": [
@@ -4005,6 +4004,11 @@
  ],
  "crossSiloEdges": [
   {
+   "from": "rental",
+   "to": "law-licences",
+   "links": 105
+  },
+  {
    "from": "parts-gear",
    "to": "maintenance",
    "links": 104
@@ -4015,14 +4019,9 @@
    "links": 92
   },
   {
-   "from": "rental",
-   "to": "law-licences",
-   "links": 90
-  },
-  {
    "from": "monthly-rental",
    "to": "rental",
-   "links": 71
+   "links": 73
   },
   {
    "from": "scooters",
@@ -4075,6 +4074,11 @@
    "links": 27
   },
   {
+   "from": "rental",
+   "to": "monthly-rental",
+   "links": 24
+  },
+  {
    "from": "safety",
    "to": "rental",
    "links": 24
@@ -4086,6 +4090,11 @@
   },
   {
    "from": "50cc",
+   "to": "law-licences",
+   "links": 22
+  },
+  {
+   "from": "monthly-rental",
    "to": "law-licences",
    "links": 22
   },
@@ -4110,11 +4119,6 @@
    "links": 17
   },
   {
-   "from": "monthly-rental",
-   "to": "law-licences",
-   "links": 17
-  },
-  {
    "from": "electric",
    "to": "law-licences",
    "links": 16
@@ -4133,11 +4137,6 @@
    "from": "rental",
    "to": "hanoi",
    "links": 13
-  },
-  {
-   "from": "rental",
-   "to": "monthly-rental",
-   "links": 12
   },
   {
    "from": "trips",
@@ -4205,6 +4204,11 @@
    "links": 8
   },
   {
+   "from": "rental",
+   "to": "safety",
+   "links": 8
+  },
+  {
    "from": "scooters",
    "to": "parts-gear",
    "links": 8
@@ -4222,11 +4226,6 @@
   {
    "from": "parts-gear",
    "to": "monthly-rental",
-   "links": 7
-  },
-  {
-   "from": "rental",
-   "to": "safety",
    "links": 7
   },
   {
@@ -4432,6 +4431,11 @@
   {
    "from": "law-licences",
    "to": "50cc",
+   "links": 1
+  },
+  {
+   "from": "monthly-rental",
+   "to": "hanoi",
    "links": 1
   },
   {

@@ -156,8 +156,8 @@ Generated 2026-10-25 by `scripts/english-seo-matrix.js`. Keyword ownership is de
 
 | # | Cluster | Hub (pillar) | Articles | Commercial | Informational | Avg words | Subclusters |
 |---|---|---|---|---|---|---|---|
-| 1 | rental | /topics/rental/ | 81 | 34 | 47 | 712 | 5 |
-| 2 | monthly-rental | /topics/monthly-rental/ | 45 | 12 | 33 | 357 | 5 |
+| 1 | rental | /topics/rental/ | 81 | 34 | 47 | 870 | 5 |
+| 2 | monthly-rental | /topics/monthly-rental/ | 45 | 12 | 33 | 461 | 5 |
 | 3 | scooters | /topics/scooters/ | 110 | 51 | 59 | 392 | 4 |
 | 4 | motorcycles | /topics/motorcycles/ | 108 | 65 | 43 | 333 | 4 |
 | 5 | manual-clutch | /topics/manual-clutch/ | 55 | 9 | 46 | 385 | 4 |

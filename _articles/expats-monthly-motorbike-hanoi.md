@@ -15,7 +15,7 @@ search_intent: commercial
 topic_cluster: monthly-rental
 subcluster: "2.4 renter-lifestyles"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-25
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 57(6) and 57(8): licences valid on Vietnamese territory, international driving permit validity and the duty to carry both documents (retrieved 2026-10-25)"

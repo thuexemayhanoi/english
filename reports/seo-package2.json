@@ -5,63 +5,28 @@
     "P0": 0,
     "P1": 0,
     "P2": 0,
-    "P3": 6
+    "P3": 1
   },
   "findings": [
     {
       "severity": "P3",
-      "file": "_articles/renting-motorbike-six-months-hanoi.md",
-      "url": "/articles/renting-motorbike-six-months-hanoi/",
-      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
-      "fix": "Record it after its batch passes QA"
-    },
-    {
-      "severity": "P3",
-      "file": "_articles/returning-a-rental-motorbike-hanoi.md",
-      "url": "/articles/returning-a-rental-motorbike-hanoi/",
-      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
-      "fix": "Record it after its batch passes QA"
-    },
-    {
-      "severity": "P3",
-      "file": "_articles/expats-monthly-motorbike-hanoi.md",
-      "url": "/articles/expats-monthly-motorbike-hanoi/",
-      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
-      "fix": "Record it after its batch passes QA"
-    },
-    {
-      "severity": "P3",
-      "file": "_articles/renting-motorbike-year-hanoi.md",
-      "url": "/articles/renting-motorbike-year-hanoi/",
-      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
-      "fix": "Record it after its batch passes QA"
-    },
-    {
-      "severity": "P3",
-      "file": "_articles/three-month-motorbike-rental-hanoi.md",
-      "url": "/articles/three-month-motorbike-rental-hanoi/",
-      "issue": "package2 article reaches 1600 words but is not recorded in docs/seo/package2-status.json",
-      "fix": "Record it after its batch passes QA"
-    },
-    {
-      "severity": "P3",
       "file": "docs/seo/package2-baseline.json",
       "url": "-",
-      "issue": "package2 pending: 678 of 693 eligible article(s) are still below 1600 words",
+      "issue": "package2 pending: 668 of 693 eligible article(s) are still below 1600 words",
       "fix": "Work the next batch (node scripts/seo-package2.js --next 10)"
     }
   ],
   "summary": {
     "eligible": 693,
-    "done": 15,
+    "done": 25,
     "reviewRequired": 0,
-    "pending": 678,
+    "pending": 668,
     "byGroup": {
       "A": {
         "eligible": 92,
-        "done": 15,
+        "done": 25,
         "reviewRequired": 0,
-        "pending": 77
+        "pending": 67
       },
       "B": {
         "eligible": 337,
@@ -76,9 +41,9 @@
         "pending": 264
       }
     },
-    "wordsAddedDone": 26975,
+    "wordsAddedDone": 43728,
     "belowTargetDone": 0,
-    "batches": 2,
+    "batches": 3,
     "outOfScopeChanged": 0
   }
 }
