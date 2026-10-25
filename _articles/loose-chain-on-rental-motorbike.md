@@ -58,7 +58,7 @@ The Wave Alpha manual's own method is worth knowing, even if you leave the work 
 
 ## Why it is not a "later" problem
 
-A slack chain slaps the swingarm, jumps sprocket teeth under load (which locks the back wheel momentarily - genuinely dangerous), wears the sprockets fast, and can derail entirely. A derail at speed is one of the few mechanical failures that throws a rider. A message to the shop is the cheap part; the risk of ignoring it is the expensive one.
+A slack chain slaps the swingarm, jumps sprocket teeth under load (which locks the back wheel momentarily - genuinely dangerous), wears the sprockets fast, and can derail entirely. If the chain jams the rear wheel, a derail at speed is one of the few mechanical failures that throws a rider. A message to the shop is the cheap part; the risk of ignoring it is the expensive one.
 
 Once the chain has come off, the problem is no longer an adjustment but a breakdown, and [what happens if a rental motorbike breaks down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) covers that call.
 
@@ -81,7 +81,7 @@ If the chain clunks on the throttle or slaps over bumps but stays in place and t
 
 ## What to do on a rental
 
-Report it. Chain adjustment and tension are among the maintenance items the shop may include on a Nguyen Tu rental - call and describe what you hear and feel before you do anything else. Do not ignore it for days of riding; do not pay a third-party workshop to adjust the shop's chain without asking ([the outside-repair article]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) covers when third-party work makes sense; it lists a basic chain adjustment as acceptable only after a call to the shop).
+Report it. Chain adjustment and tension are among the maintenance items the shop may include on a Nguyen Tu rental - call and describe what you hear and feel before you do anything else. Do not ignore it for days of riding; do not pay a third-party workshop to adjust the shop's chain without asking ([the outside-repair article]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) covers when third-party work makes sense; it lists a basic chain adjustment as acceptable only far from the shop and after a call).
 
 ### At the roadside
 

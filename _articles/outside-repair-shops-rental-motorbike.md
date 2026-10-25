@@ -68,9 +68,9 @@ The order matters more than any single step, because each step produces the evid
 
 7. **Pay, and photograph the receipt and the finished repair.** Ask for a receipt that names the job. A handwritten note with the job and the amount is still a record.
 
-8. **Report the same day, not at return.** Send both photos to the shop so that its record of its own bike is current while you still remember the details.
+8. **Report the same day, not at return.** Send both photos to the shop so that it knows what was done to its bike while you still remember the details.
 
-## The yes-list (small, standard, receiptable)
+## The yes-list (small, standard, receiptable; confirm by phone first)
 
 - Puncture repair or a new tube at a roadside tyre shop - [the puncture article]({{ '/articles/punctured-tyre-on-rental-motorbike/' | relative_url }}) explains the typical payment split; keep the receipt.
 - Chain lubrication, a basic adjustment on a long trip.
@@ -94,7 +94,7 @@ The reason is not bureaucracy: unauthorized work breaks the causal chain for eve
 
 - **Engine, gearbox or electrical work.** These jobs are hard to check afterwards, and a fault that appears later can be traced back to the work. A bike that has started to feel different belongs with the shop first.
 - **Parts the shop did not approve.** A part that fits is not necessarily the part the shop would choose. Ask what the shop wants fitted before the mechanic orders or fetches anything.
-- **Cosmetic work.** Paint, filler and replaced panels change how the bike looks at return, which is what a handover photo set is compared against. The [inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) lists what to photograph at handover.
+- **Cosmetic work.** Paint, filler and replaced panels change how the bike looks at return, which is what a handover photo set records. The [inspection checklist]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }}) lists what to photograph at handover.
 - **Modification.** Anything you cannot undo is a change to someone else's property. [The guide to rental modifications]({{ '/articles/rental-motorbike-modifications/' | relative_url }}) is written for monthly renters, and the same line applies to a short rental.
 
 ## Questions to put to the shop
@@ -113,15 +113,11 @@ Because nothing is published, the questions are the useful part. Ask them at han
 
 ## What an outside repair can change for the rental
 
-An outside repair can change three things: the parts on the bike, the shop's record of its own bike, and the story at return.
+An outside repair can change two things: the parts on the bike and the story at return.
 
 ### Parts
 
 A part fitted at the roadside replaces one the shop chose. The replacement may differ from the original in brand, quality or fit, and telling a genuine part from a copy is a skill of its own; [the guide to genuine versus fake parts]({{ '/articles/genuine-vs-fake-parts-motorbike-vietnam/' | relative_url }}) explains what to look for. For anything that touches braking or grip, the shop's preference should come before the lowest quote. Ask the mechanic to name the part going in, and keep the receipt that names it.
-
-### Warranty and service questions
-
-Whether a rental bike or any of its parts carries a warranty, and what an outside repair would do to it, is not published and cannot be answered here. One question settles it: does outside work on this bike affect any warranty or service arrangement the shop holds? If the answer is yes, the shop may want to do the job itself.
 
 ### The record at return
 
@@ -141,7 +137,7 @@ A repair the shop knew about, with a receipt and photos, becomes part of the bik
 
 - Riding on after a stop-now symptom to reach a workshop. [The guide to a bike that does not feel normal]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}) separates the symptoms that mean stop from those that can wait for the shop.
 - Going back to workshops for the same fault again and again. A repeat fault is the point to go back to the shop with the whole history.
-- Saying nothing for days. The shop's record goes stale and the receipt gets harder to find.
+- Saying nothing for days. The shop learns late and the receipt gets harder to find.
 - Paying a workshop for something the shop has already said it will handle.
 
 ## Four situations compared
@@ -153,11 +149,9 @@ A repair the shop knew about, with a receipt and photos, becomes part of the bik
 | Loose chain inside Hanoi | Report it to the shop | No, the shop's maintenance may cover it |
 | A mechanic says the engine or gearbox needs work | Stop, photograph, call the shop | No, that is the shop's decision |
 
-An illustrative example, not a record of any renter: imagine a rider on a provincial road at 19:30 who finds the rear tyre flat. The rider stops, photographs the nail and calls the shop, which is open until 21:00. In this example the shop says to have it fixed at the nearest tyre shop and send the receipt. The rider briefs the mechanic on that job only, asks the price first, photographs the receipt beside the bike and sends both pictures before riding on. At 21:30 with no reply, the steps would be the same with a message in place of the call.
-
 ## Mid-trip reality
 
-On a long-distance tour you may be hours from the shop and next to a perfectly competent mechanic. The same rule scales: call first (the shop knows the model), keep the receipt, photograph the parts, report at return. The guide to [taking a rental motorbike outside Hanoi]({{ '/articles/rental-motorbike-outside-hanoi/' | relative_url }}) folds this into trip planning.
+On a long-distance tour you may be hours from the shop and next to a perfectly competent mechanic. The same rule scales: call first (the shop knows the model), keep the receipt, photograph the parts, and report the same day as well as at return. The guide to [taking a rental motorbike outside Hanoi]({{ '/articles/rental-motorbike-outside-hanoi/' | relative_url }}) folds this into trip planning.
 
 Because support is primarily for Hanoi and local use, the questions in the table above are best settled before leaving the city, not after the breakdown.
 
@@ -165,7 +159,7 @@ Because support is primarily for Hanoi and local use, the questions in the table
 
 Hand over any third-party receipts with the bike. A documented small repair, honestly told, is a non-event at the walk-around. An undocumented one is a puzzle that neither side can solve from evidence.
 
-Ask at handover what the shop wants to see at return: the paper receipt, the photos, the chat, or all three. Keep the chat history until the deposit has been settled.
+Keep the chat history until the deposit has been settled.
 
 ## Questions renters ask
 
