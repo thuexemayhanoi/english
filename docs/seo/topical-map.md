@@ -17,8 +17,8 @@ Generated 2026-10-25 by `scripts/topical-map.js` from the source tree, `docs/seo
 
 | Cluster | Hub | Articles (commercial) | Avg words | Review required | P1/P2 | In-silo links | Cross out/in | In-silo share | No in-silo inbound | Start-here links | Owned keywords (full) | Demand AU/UK/US/VN | SERP Qs | Recs |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| rental | Hanoi Motorbike Rental | 81 (34) | 847 | 0 | 0/0 | 470 | 173/269 | 73% | 4 | 22 | 31 (23) | 10/10/960/8360 | 40 | 0 |
-| monthly-rental | Monthly Motorbike Rental | 45 (12) | 456 | 0 | 0/0 | 167 | 97/53 | 63% | 3 | 20 | 3 (3) | 0/0/0/0 | 5 | 0 |
+| rental | Hanoi Motorbike Rental | 81 (34) | 849 | 0 | 0/0 | 470 | 173/269 | 73% | 4 | 22 | 31 (23) | 10/10/960/8360 | 40 | 0 |
+| monthly-rental | Monthly Motorbike Rental | 45 (12) | 457 | 0 | 0/0 | 167 | 97/53 | 63% | 3 | 20 | 3 (3) | 0/0/0/0 | 5 | 0 |
 | scooters | Scooters in Vietnam | 110 (51) | 381 | 0 | 0/0 | 253 | 154/13 | 62% | 17 | 12 | 6 (5) | 0/0/2910/80 | 19 | 0 |
 | motorcycles | Motorcycles in Vietnam | 108 (65) | 325 | 0 | 0/0 | 224 | 91/61 | 71% | 16 | 14 | 12 (7) | 10/0/2420/1300 | 13 | 0 |
 | manual-clutch | Manual and Clutch Motorcycles | 55 (9) | 382 | 0 | 0/0 | 54 | 68/14 | 44% | 25 | 11 | 2 (1) | 0/0/0/0 | 2 | 1 |
@@ -37,7 +37,7 @@ Generated 2026-10-25 by `scripts/topical-map.js` from the source tree, `docs/seo
 ### rental — Hanoi Motorbike Rental (/topics/rental/)
 
 - Articles: 81 (34 commercial, 47 informational) in 5 subclusters: 1.1 how-to-rent 20, 1.2 choosing-bike 15, 1.3 rental-practicalities 20, 1.4 renter-situations 15, 1.5 area-guides 11
-- Words: avg 847, min 301 · review: 81 verified, 0 review required · last_reviewed 2026-09-22 → 2026-10-25
+- Words: avg 849, min 301 · review: 81 verified, 0 review required · last_reviewed 2026-09-22 → 2026-10-25
 - Links: 470 in-silo in-body, 173 out to other silos, 269 in from other silos (73% stay inside) · 4 article(s) without an in-silo inbound link · hub start-here links 22 (21 inside the silo)
 - Most linked: /articles/rental-motorbike-inspection-checklist/ (62 in-body, 36 cards), /articles/where-to-park-motorbike-hanoi/ (39 in-body, 57 cards), /articles/motorbike-rental-price-hanoi/ (26 in-body, 22 cards), /articles/motorbike-rental-deposit-hanoi/ (25 in-body, 20 cards), /articles/motorbike-rental-pickup-or-delivery-hanoi/ (23 in-body, 19 cards)
 - Money pages (fewest in-silo inbound first): /articles/best-bike-for-english-teachers-hanoi/ (2 in-silo, 3 total, 2 cards, P3), /articles/best-motorbike-for-expats-hanoi/ (2 in-silo, 2 total, 5 cards, P3), /articles/best-motorbike-for-long-distance-vietnam/ (2 in-silo, 12 total, 19 cards, P3), /articles/best-motorbike-for-two-people-hanoi/ (2 in-silo, 8 total, 10 cards, P3), /articles/motorbike-rental-digital-nomads-hanoi/ (2 in-silo, 2 total, 2 cards, P3), /articles/renting-motorbike-long-bien/ (2 in-silo, 2 total, 2 cards, P3), /articles/best-motorbike-for-students-hanoi/ (3 in-silo, 3 total, 9 cards, P3), /articles/best-motorbikes-for-tall-riders-vietnam/ (3 in-silo, 12 total, 6 cards, P3) … 34 in total
@@ -49,7 +49,7 @@ Generated 2026-10-25 by `scripts/topical-map.js` from the source tree, `docs/seo
 ### monthly-rental — Monthly Motorbike Rental (/topics/monthly-rental/)
 
 - Articles: 45 (12 commercial, 33 informational) in 5 subclusters: 2.1 monthly-basics 8, 2.2 long-term-planning 10, 2.3 long-term-operations 10, 2.4 renter-lifestyles 12, 2.5 choosing-long-term 5
-- Words: avg 456, min 285 · review: 45 verified, 0 review required · last_reviewed 2026-09-22 → 2026-10-25
+- Words: avg 457, min 285 · review: 45 verified, 0 review required · last_reviewed 2026-09-22 → 2026-10-25
 - Links: 167 in-silo in-body, 97 out to other silos, 53 in from other silos (63% stay inside) · 3 article(s) without an in-silo inbound link · hub start-here links 20 (18 inside the silo)
 - Most linked: /articles/maintenance-during-monthly-rental-hanoi/ (19 in-body, 13 cards), /articles/motorbike-rental-monthly-price-hanoi/ (16 in-body, 11 cards), /articles/keeping-rental-motorbike-secure-hanoi/ (13 in-body, 15 cards), /articles/extending-motorbike-rental-hanoi/ (13 in-body, 8 cards), /articles/motorbike-rental-agreement-long-term-hanoi/ (9 in-body, 15 cards)
 - Money pages (fewest in-silo inbound first): /articles/e-bike-monthly-rental-hanoi/ (2 in-silo, 4 total, 3 cards, P3), /articles/renting-motorbike-year-hanoi/ (2 in-silo, 4 total, 2 cards, P3), /articles/english-teachers-monthly-motorbike-hanoi/ (3 in-silo, 4 total, 3 cards, P3), /articles/expats-monthly-motorbike-hanoi/ (3 in-silo, 4 total, 2 cards, P3), /articles/families-monthly-motorbike-hanoi/ (3 in-silo, 3 total, 2 cards, P3), /articles/nomads-monthly-motorbike-hanoi/ (3 in-silo, 3 total, 1 cards, P3), /articles/students-semester-motorbike-rental-hanoi/ (3 in-silo, 3 total, 2 cards, P3), /articles/two-motorbikes-household-hanoi/ (3 in-silo, 3 total, 1 cards, P3) … 12 in total

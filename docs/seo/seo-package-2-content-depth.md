@@ -12,7 +12,7 @@ Owner-approved scope extension (2026-10-25). Existing English articles whose Mar
 | REVIEW_REQUIRED | 0 |
 | Pending | 668 |
 | Batches published | 3 |
-| Words added by completed articles | 43728 |
+| Words added by completed articles | 43892 |
 | Slug / URL / canonical changes | 0 (gate: scripts/seo-package2.js) |
 
 | Group | Eligible | Done | REVIEW_REQUIRED | Pending |
@@ -67,15 +67,15 @@ None.
 | 12 | /articles/motorbike-rental-pickup-or-delivery-hanoi/ | A | 373 | 1882 | p2-02 |
 | 14 | /articles/renting-motorbike-hoan-kiem/ | A | 437 | 2153 | p2-02 |
 | 15 | /articles/renting-motorbike-noi-bai-arrival/ | A | 476 | 2174 | p2-02 |
-| 16 | /articles/renting-motorbike-six-months-hanoi/ | A | 497 | 1941 | p2-03 |
+| 16 | /articles/renting-motorbike-six-months-hanoi/ | A | 497 | 1971 | p2-03 |
 | 17 | /articles/renting-motorbike-tay-ho/ | A | 471 | 2387 | p2-01 |
-| 29 | /articles/common-motorbike-rental-problems-hanoi/ | A | 406 | 1878 | p2-03 |
+| 29 | /articles/common-motorbike-rental-problems-hanoi/ | A | 406 | 1886 | p2-03 |
 | 36 | /articles/motorbike-rental-english-teachers-hanoi/ | A | 445 | 2109 | p2-03 |
-| 39 | /articles/motorbike-rental-international-students-hanoi/ | A | 439 | 2051 | p2-03 |
-| 45 | /articles/rental-motorbike-inspection-checklist/ | A | 341 | 2445 | p2-03 |
+| 39 | /articles/motorbike-rental-international-students-hanoi/ | A | 439 | 2054 | p2-03 |
+| 45 | /articles/rental-motorbike-inspection-checklist/ | A | 341 | 2500 | p2-03 |
 | 57 | /articles/returning-a-rental-motorbike-hanoi/ | A | 339 | 2413 | p2-03 |
-| 59 | /articles/what-is-included-motorbike-rental-hanoi/ | A | 350 | 2098 | p2-03 |
-| 63 | /articles/expats-monthly-motorbike-hanoi/ | A | 304 | 2003 | p2-03 |
+| 59 | /articles/what-is-included-motorbike-rental-hanoi/ | A | 350 | 2148 | p2-03 |
+| 63 | /articles/expats-monthly-motorbike-hanoi/ | A | 304 | 2021 | p2-03 |
 | 65 | /articles/renting-motorbike-year-hanoi/ | A | 403 | 1706 | p2-03 |
 | 66 | /articles/three-month-motorbike-rental-hanoi/ | A | 375 | 1992 | p2-03 |
 | 88 | /articles/renting-50cc-hanoi/ | A | 405 | 2185 | p2-01 |
