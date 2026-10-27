@@ -17,14 +17,13 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 18(4)(h), 18(4)(k) and 18(6) (stopping and parking), Article 20(1) and 20(2) (lights), Article 21 (horn), Article 25(3) (expressways), Article 33(1), (2), (3)(c), (3)(đ) and (5) (passengers, helmets, umbrella and audio equipment, loads) and Article 56(1) and (3) (papers a driver carries) (retrieved 2026-10-27)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 18(4)(h) and 18(4)(k) (stopping and parking), Article 20(1) and 20(2) (lights), Article 21 (horn), Article 25(3) (expressways), Article 33(1), (2), (3)(c), (3)(đ) and (5) (passengers, helmets, umbrella and audio equipment, loads) and Article 56(1) and (3) (papers a driver carries) (retrieved 2026-10-27)"
   - "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/38-bgtvt.pdf — Circular 38/2024/TT-BGTVT (Ministry of Transport) on maximum speed and safe distance, text on the Government Portal data files — Article 3(1) (a built-up area is marked by signs), Article 4(2) (defaults apply where no speed sign is posted), Article 6 Table 1 (built-up area: 60 and 50 km/h), Article 7 (mopeds: 40 km/h), Article 11 (safe distance, larger in rain, fog or on slippery surfaces) and Article 12(1) (in force from 1 January 2025, replacing Circular 31/2019/TT-BGTVT); the copy read carries no signing date in its header (retrieved 2026-10-27)"
-  - "https://moit.gov.vn/quan-ly-thi-truong/bo-cong-thuong-thong-tin-ve-dieu-hanh-gia-xang-dau-ngay-22-10.html — Ministry of Industry and Trade of Vietnam, notice on petrol and oil price management of 22 October 2026 — quotes Circular 50/2025/TT-BCT of 7 November 2025 (from 1 June 2026 unleaded petrol must be blended into E10 for petrol engines nationwide; E5 RON 92 continues to be blended until the end of 31 December 2030) and names E5 RON 92 and E10 RON 95-III as the petrol products in its price list (retrieved 2026-10-27)"
   - "https://hanoicapital.chinhphu.vn/ha-noi-begins-restricting-fossil-fuel-vehicles-in-low-emission-zones-110260702082825273.htm — Viet Nam Government Portal, 2 July 2026: Ha Noi begins restricting fossil-fuel vehicles in low-emission zones — Zone 1 is a list of named streets; all road vehicles including motorcycles and mopeds barred from entering 7:00 p.m. to midnight every Friday, Saturday and Sunday, priority vehicles excepted; public bus fares waived for trips within Ring Road 1 from 1 July 2026 to 30 June 2027, commercial and tourist buses excluded (retrieved 2026-10-27)"
 internal_link_targets: "high-mileage-monthly-rental-hanoi, parking-monthly-renter-hanoi, monthly-rental-inspection-schedule-hanoi, best-motorbike-for-commuting-hanoi, english-teachers-monthly-motorbike-hanoi, where-to-park-motorbike-hanoi, monthly-motorbike-rental-hanoi, renting-motorbike-hanoi-rainy-season, rental-motorbike-breakdown-hanoi"
 ---
 
-The daily commute is the plainest reason to rent a bike by the month in Hanoi, and a good commute on a rental is built, not just ridden. The setup has six parts: the route and the clock, parking at both ends, the rules that apply on every ride, the mileage and fuel routine, weather plans, and a plan B for the days the bike is off the road. The sections below take them in that order.
+A daily commute is one reason to rent a bike by the month in Hanoi, and a good commute on a rental is built, not just ridden. The setup has six parts: the route and the clock, parking at both ends, the rules that apply on every ride, the mileage and fuel routine, weather plans, and a plan B for the days the bike is off the road. The sections below take them in that order.
 
 ## Choose for the route, not the price
 
@@ -36,7 +35,7 @@ Decide the route before the first working day and treat the departure time as pa
 
 Ride the route once at the hour you will actually travel, on a day when nobody is waiting for you, so that the first commute is not also the first attempt at the route. Make the second route differ from the first at the place where the first is most likely to fail, not only in its last few streets.
 
-Build a margin into the departure time, because a late start is what turns into risks taken at junctions. Set the navigation app to a motorbike option where it has one, since the road an app prefers for a car may not be open to your bike; the expressway question at the end explains why.
+Build a margin into the departure time, because a late start is what turns into risks taken at junctions. To build the routine around the peaks, [Rush Hour Riding in Hanoi: Staying Safe in Peak Traffic]({{ '/articles/traffic-at-rush-hour-riding-hanoi/' | relative_url }}) covers peak-hour habits and [Hanoi's Main Motorbike Commute Corridors: Where Traffic Flows]({{ '/articles/hanoi-motorbike-commute-corridors/' | relative_url }}) covers how riders pick daily routes.
 
 ## Parking at both ends
 
@@ -51,11 +50,11 @@ Ask the people who manage each end four questions, and keep the replies where yo
 - When does it open and close, and does that cover the hours you leave and return? A lot that shuts before you finish work solves nothing.
 - Where do the helmet and the rain jacket go while the bike is parked?
 
-Then read what your rental agreement says about where the bike is kept at night, and tell the shop where that will be.
+Then ask whether your rental agreement says anything about where the bike is kept at night, and tell the shop where it will be.
 
 ### Outside the office, and Friday to Sunday evenings
 
-The kerb outside the office is not always a place to leave a bike. Under Article 18(4) of Law 36/2024/QH15 a rider may not stop or park at a junction or within 5 metres of its edge (item (h)), nor in front of, or within 5 metres either side of, the gate of an office or organisation that has an entrance for vehicles (item (k)). [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}) has the full list of positions and how to read pavement signals.
+The kerb outside the office is not always a place to leave a bike. Under Article 18(4) of Law 36/2024/QH15 a rider may not stop or park at a junction or within 5 metres of its edge (item (h)), nor in front of, or within 5 metres either side of, the gate of the headquarters of an agency or organisation that has an entrance for vehicles (item (k)). [Where to Park a Motorbike in Hanoi: Rules and Etiquette]({{ '/articles/where-to-park-motorbike-hanoi/' | relative_url }}) has the full list of positions and how to read pavement signals.
 
 One restriction affects evening commutes on three days of the week. The Government news portal reported on 2 July 2026 that a pilot bars all road vehicles, motorcycles and mopeds included, from entering Zone 1 from 7:00 p.m. to midnight every Friday, Saturday and Sunday, while priority vehicles keep access. Zone 1 is a list of named streets in Hoan Kiem's central area, among them Trang Tien and Hang Dao. If your ride home crosses them after work on those days, plan another route and check the current notice first.
 
@@ -71,15 +70,15 @@ A commute repeats the same few obligations twice a day, so they are worth knowin
 | Passengers | One passenger; two only in the listed cases, which include a child under 12 | Article 33(1) |
 | Built-up area, no speed sign | 60 km/h on dual carriageways and one-way roads with two or more lanes; 50 km/h on two-way roads and one-lane one-way roads; mopeds 40 km/h | Circular 38/2024/TT-BGTVT, Articles 6 and 7 |
 
-**Lights and helmets.** The lights duty starts at 18:00 whatever the season, so a commute that ends after work is lit all year, and a shower switches it on at any hour. At handover, ask whether the headlight comes on with the ignition or only when you switch it on, and whether a helmet comes with the bike, for you or for a colleague riding behind you.
+**Lights and helmets.** A ride that finishes after 18:00 needs the front light in every season. At handover, ask whether the headlight comes on with the ignition or only when you switch it on, and whether a helmet comes with the bike, for you or for a colleague riding behind you.
 
-**Papers.** Article 56(1) lists what a rider carries on every ride, including the licence, the registration certificate and the owner's compulsory civil-liability insurance certificate, and Article 56(3) lets papers integrated into an electronic identification account be shown through that account. The registration certificate itself is carried; a certified copy counts only for a mortgaged vehicle, with the lender's confirmation. A rental adds a question the law does not answer: ask at handover how the registration certificate and the compulsory insurance certificate will be shown at a stop. Nguyen Tu does not provide motorbike insurance, so you arrange your own cover. [What Documents Must You Carry While Riding in Vietnam]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) goes through the set and the fines for missing papers.
+**Papers.** Article 56(1) lists what a rider carries on every ride, including, above the moped class, the licence, the registration certificate and the owner's compulsory civil-liability insurance certificate, and Article 56(3) lets papers integrated into an electronic identification account be shown through that account. A rental adds a question the law does not answer: ask at handover how the registration certificate and the compulsory insurance certificate will be shown at a stop. Nguyen Tu does not provide motorbike insurance, so you arrange your own cover. [What Documents Must You Carry While Riding in Vietnam]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) goes through the set, when a certified copy of the registration certificate is accepted, and the fines for missing papers.
 
 **Speed and distance.** The defaults in the table apply where no speed sign is posted (Circular 38/2024/TT-BGTVT, Article 4(2)), and a built-up area is the stretch between the start and end signs (Article 3(1)). Behind another vehicle, Article 11 sets a gap of 35 metres at 60 km/h on a dry, straight, flat road with good visibility, leaves the gap to the rider's judgement below 60 km/h, and requires a larger gap in rain, fog or on a slippery surface. [Speed Limits for Motorbikes in Vietnam]({{ '/articles/motorbike-speed-limits-vietnam/' | relative_url }}) explains how the limits work and what exceeding them can cost.
 
 ## Mileage adds up fast
 
-Two cross-city trips a day can mean well over 1,000 km a month. That is fine — it just makes you a high-mileage renter, with the check rhythm and wear items described in [High Monthly Mileage on a Rental Motorbike in Hanoi]({{ '/articles/high-mileage-monthly-rental-hanoi/' | relative_url }}). Budget a small monthly amount for consumables that may be your responsibility, such as tubes and tyres.
+Two cross-city trips a day can mean well over 1,000 km a month. For example, 25 km each way on 20 working days is 1,000 km. That is fine — it just makes you a high-mileage renter, with the check rhythm and wear items described in [High Monthly Mileage on a Rental Motorbike in Hanoi]({{ '/articles/high-mileage-monthly-rental-hanoi/' | relative_url }}). Budget a small monthly amount for consumables that may be your responsibility, such as tubes and tyres.
 
 Whether your own route gets there depends on its length and the days you ride, so do the sum with your own figures: kilometres a day multiplied by the days you ride in a month. The shop owner's practical guidance, which is not a manufacturer interval, is to plan periodic checks at around 1,500 km or more of use. Ask which wear items the shop's own maintenance covers and which fall to you, and ask when a mid-term check could fit, because that is easier to arrange in week one than in week four.
 
@@ -87,7 +86,7 @@ Whether your own route gets there depends on its length and the days you ride, s
 
 Fuel is a small line beside the rent, but it is the one task you repeat every week, so give it a routine. [Rental Motorbike Fuel: What Petrol to Use in Vietnam]({{ '/articles/rental-motorbike-fuel-what-petrol/' | relative_url }}) has the pump labels, what two Honda manuals say and the steps of a fill.
 
-The Ministry of Industry and Trade's price notice of 22 October 2026 names E5 RON 92 and E10 RON 95-III as the two petrol products in its price list. It quotes Circular 50/2025/TT-BCT: from 1 June 2026 unleaded petrol for petrol engines nationwide has to be blended into E10, and E5 RON 92 continues to be blended until the end of 31 December 2030. Which of the two your bike takes is a question for the shop before the first fill, and so is what counts as a full tank at handover and at return.
+Which petrol grade your bike takes is a question for the shop before the first fill, and so is what counts as a full tank at handover and at return; the grades on sale are explained in the fuel guide above.
 
 Choose a refill rule you can follow without thinking, such as topping up when the gauge reaches a quarter or on a fixed evening of the week, rather than waiting for the bike to cough in traffic. A fuel gauge is an estimate, so the rule should leave a margin.
 
@@ -97,13 +96,13 @@ Hanoi summers bring sudden heavy rain and winters bring cold drizzle. Keep a rai
 
 ### Rain on the commute
 
-Rain changes the rules as well as the road. The front light is required in rain at any hour (Article 20(1)), the gap to the vehicle ahead has to be larger than the dry-road figure (Circular 38/2024/TT-BGTVT, Article 11(2)), and an umbrella is not an option for a rider (Article 33(3)(c)), so a rain layer under the seat is how a rider stays dry. Look along your route in dry weather for the awning or café where you would wait out a downpour.
+Rain brings the lights and distance rules above into force whatever the hour, and an umbrella is not an option for a rider (Law 36/2024/QH15, Article 33(3)(c)), so a rain layer under the seat is how a rider stays dry. Look along your route in dry weather for the awning or café where you would wait out a downpour.
 
-[Riding a Rental Motorbike in Hanoi Rain]({{ '/articles/riding-rental-motorbike-hanoi-rain/' | relative_url }}) covers technique and what to do after a soaking, and [Renting a Motorbike in Hanoi in the Rainy Season]({{ '/articles/renting-motorbike-hanoi-rainy-season/' | relative_url }}) covers the season as a whole.
+[Riding a Rental Motorbike in Hanoi Rain]({{ '/articles/riding-rental-motorbike-hanoi-rain/' | relative_url }}) covers technique and what to do after a soaking.
 
 ### Winter on the commute
 
-Fog or mist brings the lights duty at any hour, and cold mornings are when starting is tested, so ask the shop at handover how the bike you are given starts cold. [Renting a Motorbike in Hanoi in Winter]({{ '/articles/renting-motorbike-hanoi-winter/' | relative_url }}) covers clothing, fog, air-quality days and cold starts by model.
+Fog brings the lights duty at any hour (Article 20(1), above), and cold mornings are when starting is tested, so ask the shop at handover how the bike you are given starts cold. [Renting a Motorbike in Hanoi in Winter]({{ '/articles/renting-motorbike-hanoi-winter/' | relative_url }}) covers clothing, fog, air-quality days and cold starts by model.
 
 ## When the bike is off the road
 
@@ -132,16 +131,15 @@ If the bike stops, photograph where it is, the odometer and anything visibly wro
 
 ### Can I take an expressway on my commute?
 
-No. Article 25(3) of Law 36/2024/QH15 bars motorcycles, mopeds and similar vehicles from expressways, with an exception only for people and vehicles serving the management and maintenance of the expressway. A navigation app left in car mode can offer an expressway as the quickest road, so set it to a motorbike option where it has one and treat any ramp as a reason to stop and read the signs.
+No. Article 25(3) of Law 36/2024/QH15 bars motorcycles, mopeds and similar vehicles from expressways, with an exception only for people and vehicles serving the management and maintenance of the expressway. Set a navigation app to a motorbike option where it has one; [Are Motorbikes Allowed on Vietnamese Expressways]({{ '/articles/motorbikes-on-expressway-vietnam/' | relative_url }}) covers the penalties.
 
 ### Is a month enough for a daily commute?
 
-Monthly is one of the rental periods on offer, and longer-term rental is negotiable: contact us to discuss it. [Monthly Motorbike Rental in Hanoi: How It Works]({{ '/articles/monthly-motorbike-rental-hanoi/' | relative_url }}) sets out the terms of a month.
+That depends on how long you need the bike. Monthly is one of the rental periods on offer and longer-term rental is negotiable: contact us to discuss it. [Extending or Renewing a Monthly Motorbike Rental in Hanoi]({{ '/articles/extending-motorbike-rental-hanoi/' | relative_url }}) covers continuing past a month.
 
 ### How much can I carry on the way to work?
 
-Article 33(5) caps a load at 0.3 metres past the width of the luggage rack on each side and 0.5 metres behind it, measured against the manufacturer's design, and at 2 metres in height from the road. Article 33(3)(đ) also bars a rider from carrying bulky objects. [What to Carry While Riding a Motorbike in Vietnam]({{ '/articles/what-to-carry-riding-motorbike-vietnam/' | relative_url }}) covers what goes in the bike's storage and what stays on you.
-
+Article 33(5) caps a load at 0.3 metres past the width of the luggage rack on each side and 0.5 metres behind it, measured against the manufacturer's design, and at 2 metres in height from the road. Article 33(3)(đ) also bars a rider from carrying bulky objects.
 ### Can I use the horn on the way home late at night?
 
 Article 21(1) allows the horn only to warn of a situation that could become unsafe or to signal that you are about to overtake. Article 21(2) bars continuous use, a horn of the wrong volume, and any use from 22:00 to 05:00 in built-up areas and around medical facilities, priority vehicles excepted.
