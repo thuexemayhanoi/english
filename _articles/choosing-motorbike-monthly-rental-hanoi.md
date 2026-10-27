@@ -25,7 +25,7 @@ internal_link_targets: "automatic-or-semi-automatic-monthly-hanoi, which-motorbi
 
 Choosing a bike for a month is a different decision from choosing one for a day. Small annoyances do not have time to matter in 24 hours; over thirty days they define the rental.
 
-The short answer: an automatic scooter suits a rider who wants storage and no gear changes, and a semi-automatic underbone suits a rider who wants a simpler machine and does not mind changing gear with a foot lever. What decides the month is everything around that choice: your route, your body, what you carry, the weather, where the bike sleeps at night and how far you ride. There is no single best motorbike for a monthly rental in Hanoi; the best one fits your route, body, storage needs and mileage, and the table below pairs each need with the models whose figures have been verified. The sections below take those in turn, with manufacturer figures where a figure has been verified and plain advice where it has not.
+The short answer: an automatic scooter suits a rider who wants storage and no gear changes, and a semi-automatic underbone suits a rider who wants a simpler machine and does not mind changing gear with a foot lever. What decides the month is everything around that choice: your route, your body, what you carry, the weather, where the bike sleeps at night and how far you ride. There is no single best motorbike for a monthly rental in Hanoi; the best one fits your route, body, storage needs and mileage, and the table below sets the verified manufacturer figures against each need. The sections below take those in turn, with manufacturer figures where a figure has been verified and plain advice where it has not.
 
 ## Start with the route, then the body
 
@@ -35,7 +35,7 @@ What does your average day look like — a 5 km commute, a 20 km cross-city loop
 
 Think about the worst ten minutes of your day rather than the average. If those minutes are traffic lights and narrow lanes, the bike that is easy to hold at walking pace and easy to turn in a small space is the one you will still like once the novelty has gone. If they are a long stretch at speed, a seat and a riding position you can hold for the whole trip count for more than agility.
 
-Stop-start traffic is also where an automatic and a semi-automatic feel most different. On the Vision, Honda's page describes an idling stop: the engine cuts after more than three seconds stationary and restarts on a twist of the throttle. Whether you like that in a queue is personal, so ask whether the bike you are given has the feature and watch it restart before you rely on it at a junction.
+Stop-start traffic is also where an automatic and a semi-automatic feel most different. On the Vision, Honda's page describes an idling stop: the engine cuts after more than three seconds stationary and restarts on a twist of the throttle. Whether you like that in a queue is personal, so ask whether the bike you are given has the feature and try the restart on a quiet stretch before you depend on it.
 
 ### What your body asks of the bike
 
@@ -76,7 +76,7 @@ The table is ordered by rider need, not ranked, and covers only the models with 
 | A disc front brake on an underbone | Yamaha Sirius RC 110 | Front hydraulic disc, rear drum; drum and disc versions also exist |
 | Honda Click or Yamaha Mio | Test ride | No verified manufacturer figures for this guide |
 
-The published rate list names the Honda Wave, Yamaha Sirius and Honda Air Blade without a variant, so the table above describes the Wave Alpha 110, Sirius RC 110 and Air Blade 125 only. Contact us to confirm current availability and which variant you would receive.
+The published rate list names the Honda Wave, Yamaha Sirius and Honda Air Blade without a variant, so the table's Wave, Sirius and Air Blade rows describe the Wave Alpha 110, Sirius RC 110 and Air Blade 125 only. Contact us to confirm current availability and which variant you would receive.
 
 ### Fuel use on paper
 
@@ -128,7 +128,7 @@ Make the trial look like your month rather than like a test ride around the bloc
 
 - **Choosing the biggest or newest.** More machine means more weight to park and push, and a short commute may never use the extra.
 
-- **Staying on the wrong bike out of politeness.** If something is wrong in week one, raise it then, and ask in advance how a change would work.
+- **Staying on the wrong bike out of politeness.** If something is wrong in week one, raise it then,.
 
 ## Questions renters ask
 
