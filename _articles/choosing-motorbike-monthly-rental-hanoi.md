@@ -128,7 +128,7 @@ Make the trial look like your month rather than like a test ride around the bloc
 
 - **Choosing the biggest or newest.** More machine means more weight to park and push, and a short commute may never use the extra.
 
-- **Staying on the wrong bike out of politeness.** If something is wrong in week one, raise it then,.
+- **Staying on the wrong bike out of politeness.** If something is wrong in week one, raise it then.
 
 ## Questions renters ask
 
