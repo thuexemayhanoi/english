@@ -22,7 +22,7 @@ sources:
 internal_link_targets: how-to-book-a-motorbike-rental-hanoi, motorbike-rental-pickup-or-delivery-hanoi, how-to-rent-a-motorbike-hanoi, motorbike-rental-agreement-hanoi, tet-holiday-motorbike-travel-vietnam, riding-during-tet-traffic-safety, monthly-rental-through-tet-hanoi, early-return-rental-motorbike-hanoi
 ---
 
-In general, Tet, the Vietnamese New Year (late January or February), reshapes Hanoi for about a week — and it affects motorbike rentals more than any other week of the year. Whether you can rent around Tet depends on the shop's days, so confirm the dates instead of assuming them: the 2027 break for civil servants runs from 4 to 10 February, but confirm Nguyen Tu's holiday arrangements directly with the shop. Book early, then agree pickup, extension and return in writing.
+Tet, the Vietnamese New Year (late January or February), reshapes Hanoi for about a week — and it affects motorbike rentals more than any other week of the year, which is a planning assumption rather than a measured fact. Whether you can rent around Tet depends on the shop's days, so confirm the dates instead of assuming them: the 2027 break for civil servants runs from 4 to 10 February, but confirm Nguyen Tu's holiday arrangements directly with the shop. Book early, then agree pickup, extension and return in writing.
 
 ## When the holidays fall
 
@@ -41,11 +41,11 @@ Tet is the longest of these, with five paid days against one or two for each of 
 
 ### Tet 2027
 
-The Ministry of Home Affairs issued Notice No. 11483/TB-BNV on 9 October 2026, and the Government Portal's newspaper reported it on 22 October 2026. For civil servants and public employees the Tet 2027 rest is seven days in a row: Thursday 4 February 2027 (the 28th day of the last lunar month of the year Binh Ngo) to Wednesday 10 February 2027 (the fifth day of the first month of the year Dinh Mui). That is the five Tet days plus two days off in lieu of weekly rest days. Counting from those two dates, the first day of the new lunar year falls on Saturday 6 February 2027. These figures are as reported by the Government Portal; the notice text itself was not read.
+The Ministry of Home Affairs issued Notice No. 11483/TB-BNV on 9 October 2026, and the Government Portal's newspaper reported it on 22 October 2026. For civil servants and public employees the Tet 2027 rest is seven days in a row: Thursday 4 February 2027 (the 28th day of the last lunar month of the year Binh Ngo) to Wednesday 10 February 2027 (the fifth day of the first month of the year Dinh Mui). That is the five Tet days plus two days off in lieu of weekly rest days. Counting from those two dates, the first day of the new lunar year falls on Saturday 6 February 2027. These figures are as reported by the Government Portal, not taken from the text of the notice itself.
 
 Employees outside the public sector are treated differently, according to the same report. Their employer chooses one of three five-day patterns (one day at the end of the old year and four at the start of the new one, two and three, or three and two) and must tell staff at least 30 days ahead. As the Government Portal reports it, the Ministry encourages employers to copy the civil-service schedule, but that is encouragement, not an order.
 
-For a renter, 4 to 10 February tells you when public offices close. It does not say when a particular shop will open or close, so confirm Nguyen Tu's holiday arrangements directly with the shop, which is the only source. For any other year the government announces the exact days, so check the announcement instead of working the dates out.
+For a renter, 4 to 10 February tells you when public offices close. It does not say when a particular shop will open or close, so confirm Nguyen Tu's holiday arrangements directly with the shop; only that shop can tell you. For any other year the government announces the exact days, so check the announcement instead of working the dates out.
 
 ## Shops close or run thin
 
@@ -61,7 +61,7 @@ When you ask, separate three cases, because each needs a different plan.
 
 If you want a bike across the Tet week, book early — see [How to Book a Motorbike Rental in Hanoi (WhatsApp, Zalo, Walk-In)]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) for the booking basics, and during Tet add two habits: confirm the pickup time in a message the day before, and confirm the return arrangement in the same message. A shop that closes for five days needs to know whether your return date falls inside the closure, and so do you.
 
-As the Government Portal reports it, the Ministry's notice asks employers to tell staff their Tet plan at least 30 days before the break; that is a message to staff, not to renters, so ask the shop directly rather than waiting for an announcement. Phone, WhatsApp and Zalo all reach the shop on +84 942 467 674, and a written reply is easier to find again than a phone call.
+The same report says employers must tell staff their Tet plan at least 30 days before the break; that is a message to staff, not to renters, so ask the shop directly rather than waiting for an announcement. Phone, WhatsApp and Zalo all reach the shop on +84 942 467 674, and a written reply is easier to find again than a phone call.
 
 One message can carry everything the shop needs to answer:
 
