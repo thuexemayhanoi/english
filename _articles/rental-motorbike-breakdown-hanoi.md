@@ -73,7 +73,7 @@ A call lets the shop ask questions; a WhatsApp or Zalo message leaves a written 
 - your name, the bike's model and plate number, and where you are: the street name and a landmark;
 - the category from the first list: no power, turning over but not starting, or running but wrong;
 - what you already tried, and how many attempts, so nobody asks you to repeat them;
-- whether the bike is safe where it stands, and what happened before it stopped, as [the guide to a bike that does not feel normal]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}#what-else-helps-a-mechanic) lists it; the same guide says what to photograph once the bike is stopped and safe.
+- whether the bike is safe where it stands, and what happened before it stopped, as [the guide to a bike that does not feel normal]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}) lists it under what else helps a mechanic; the same guide says what to photograph once the bike is stopped and safe.
 
 Nguyen Tu does not promise 24/7 rescue or a guaranteed rescue time, and support is primarily for Hanoi and local use. The further you are from the city, the more the plan rests on the steps above; [the guide to taking a rental outside Hanoi]({{ '/articles/rental-motorbike-outside-hanoi/' | relative_url }}) is the place to settle terms before you leave.
 
@@ -124,7 +124,7 @@ A breakdown is not, in itself, a crash. If another vehicle hits your stopped bik
 
 ### What if the bike stops after the shop has closed?
 
-Switch the ignition off, put the bike somewhere safe if it can be moved, and send a message so the report carries the time it happened and is waiting when the shop opens. [The outside-repair guide's section on a closed shop]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}#the-shop-is-closed) covers what to ask at handover about those hours and what to do if the bike cannot be left.
+Switch the ignition off, put the bike somewhere safe if it can be moved, and send a message so the report carries the time it happened and is waiting when the shop opens. The section on a closed shop in [the outside-repair guide]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) covers what to ask at handover about those hours and what to do if the bike cannot be left.
 
 ### Can I restart it and carry on?
 

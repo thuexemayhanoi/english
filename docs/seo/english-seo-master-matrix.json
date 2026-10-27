@@ -3451,7 +3451,7 @@
      "pending": 264
     }
    },
-   "wordsAddedDone": 93728,
+   "wordsAddedDone": 93736,
    "belowTargetDone": 0,
    "batches": 6,
    "outOfScope": 288
@@ -22526,10 +22526,10 @@
    "priority": "P3",
    "recommended_action": "Monitor; no action required.",
    "status": "OPTIMIZED 2026-10-14 - descriptive guide references resolved into contextual links (scripts/link-guide-references.js)",
-   "evidence": "title_len=55; desc_len=158 || words=2101; h2=12; tables=1; sources=3; body_links=17 || related_out=8; related_in=14; body_in=27 || plan MM-0041 (owner-history): Each covers one distinct policy or incident scenario; the rental hub links to all || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
+   "evidence": "title_len=55; desc_len=158 || words=2109; h2=12; tables=1; sources=3; body_links=17 || related_out=8; related_in=14; body_in=27 || plan MM-0041 (owner-history): Each covers one distinct policy or incident scenario; the rental hub links to all || GSC(EN): no export available (docs/SOURCE-MAP.md); no third-party metrics recorded",
    "original_words": 413,
-   "current_words": 2022,
-   "package2": "DONE p2-06 2026-10-27: 413 -> 2022 words; QA Writer, independent verifier, fixer and delta verifier per article; seo-package2 lint 0 errors (retention 62-75%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate [log: package2-p2-06]",
+   "current_words": 2030,
+   "package2": "DONE p2-06 2026-10-27: 413 -> 2030 words; QA Writer, independent verifier, fixer and delta verifier per article; seo-package2 lint 0 errors (retention 62-75%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate [log: package2-p2-06]",
    "type": "article"
   },
   {

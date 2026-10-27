@@ -510,7 +510,7 @@ Brief: the next Priority A queue items (a bike that feels wrong, breakdowns, rid
 
 - **Articles (original -> final words):**
   - `rental-motorbike-feels-wrong` 336 -> 2,081
-  - `rental-motorbike-breakdown-hanoi` 413 -> 2,022
+  - `rental-motorbike-breakdown-hanoi` 413 -> 2,030
   - `rental-motorbike-outside-hanoi` 446 -> 2,187
   - `rental-motorbike-fuel-what-petrol` 452 -> 2,117
   - `renting-motorbike-couple-hanoi` 476 -> 1,876
@@ -519,7 +519,7 @@ Brief: the next Priority A queue items (a bike that feels wrong, breakdowns, rid
   - `renting-motorbike-hanoi-tet-holidays` 494 -> 2,081
   - `renting-motorbike-hanoi-rainy-season` 403 -> 1,845
   - `renting-motorbike-hanoi-winter` 426 -> 1,919
-  - Total: 4,352 -> 19,697 words.
+  - Total: 4,352 -> 19,705 words.
 - **URLs, titles and descriptions:**
   - Same URLs, slugs and canonicals. No title or H1 changed.
   - Three descriptions changed, each for a recorded reason:
