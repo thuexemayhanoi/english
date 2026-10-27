@@ -26,7 +26,7 @@ internal_link_targets: "maintenance-during-monthly-rental-hanoi, monthly-rental-
 
 A month of daily commuting in Hanoi can easily add up to far more riding than a tourist does in a week. High mileage changes what the rental needs from you and from the bike, so it deserves its own planning.
 
-The short answer: work out your month's kilometres from your own routine, tell the shop the number before you sign, treat the owner's 1,500 km guidance as the rhythm for checks, and budget for the petrol and the wear that distance brings.
+The short answer: work out your month's kilometres from your own routine, tell the shop the number before you sign, treat the owner's 1,500 km guidance (practical owner guidance, not a manufacturer interval) as the cue for a check, and budget for the petrol and the wear that distance brings.
 
 ## How much riding counts as high mileage
 
@@ -53,11 +53,11 @@ Tell the shop how much you expect to ride. High-mileage use is easier to plan fo
 
 ### What to tell the shop at the start
 
-Give the shop a number and a pattern rather than an adjective: 528 km a month from a 12 km commute is something a shop can plan around, where "a lot" is not. An illustrative message, with your own details in the brackets:
+Give the shop a number and a pattern rather than an adjective: 528 km a month from a 12 km commute is something a shop can plan around, where "a lot" is not. Here is an illustrative message; put your own details in the square brackets:
 
 > Hello, I would like to rent a bike for a month from [date]. I expect to ride about [kilometres] a month: [distance] each way on [number] days, plus [weekend rides or trips]. Which bike do you suggest for that, and when would you want to see it for a check?
 
-Message the shop on WhatsApp or Zalo at +84 942 467 674; it is open 09:00-21:00 daily. Then ask the questions that distance raises, because the published terms leave them open:
+Contact the shop on +84 942 467 674 (WhatsApp or Zalo), open 09:00-21:00 daily. Then ask the questions that distance raises, because the published terms leave them open:
 
 - **Is there a limit on distance, or a charge per kilometre?** Nothing published for Nguyen Tu rentals sets either, so the shop's answer is the only term you will have.
 - **Which model and variant would I get, and for the whole term?** Contact us to confirm current availability of any model.
@@ -65,7 +65,7 @@ Message the shop on WhatsApp or Zalo at +84 942 467 674; it is open 09:00-21:00 
 
 ### Choosing the bike for the distance
 
-Distance changes which bike suits, because it changes how many hours a week you spend on it. Check a seat and riding position you can hold for a whole journey, the space for what you carry, the fuel stops your total implies and the wear items the type brings; the table below shows how those last differ between a semi-automatic and an automatic. [Automatic or Semi-Automatic for a Monthly Rental in Hanoi]({{ '/articles/automatic-or-semi-automatic-monthly-hanoi/' | relative_url }}) weighs the two types over a month.
+Distance changes which bike suits, because it changes how many hours a week you spend on it. Check a seat and riding position you can hold for a whole journey, the space for what you carry, the fuel stops your total implies and the wear items the type brings; the table below shows how those last differ between the Wave Alpha (semi-automatic) and the Vision (automatic). [Automatic or Semi-Automatic for a Monthly Rental in Hanoi]({{ '/articles/automatic-or-semi-automatic-monthly-hanoi/' | relative_url }}) weighs the two types over a month.
 
 ## Watch the wear items
 
@@ -75,18 +75,18 @@ High mileage hits tyres, chains and oil first. Check tyre pressure weekly, look 
 
 ### What Honda's manuals tie to distance
 
-Honda's owner's manuals are written for an owner, not a renter, but each names what it expects to wear and when to look more often. The rows below come from two manuals read for this guide, the Wave Alpha (a semi-automatic) and the Vision (an automatic); ask the shop which model and variant you have before applying any of it.
+These are manuals for an owner who services the bike; they still show which parts Honda expects to wear and when to look more often. The rows below come from two manuals read for this guide, the Wave Alpha (a semi-automatic) and the Vision (an automatic); confirm which model and variant is yours before applying any of it.
 
 | Part | What the manual says | Over a high-mileage month |
 |---|---|---|
-| Drive chain | Wave Alpha: a chain check is listed every 500 km, and more often on poor roads, at high speed or after repeated hard acceleration | At 528 km a month that comes round about once, at 2,160 km four times; adjusting the slack is the shop's job |
-| Drive belt and final-drive oil | Vision: the schedule lists a drive belt and final-drive oil instead of a chain; the oil is given as a two-year interval, not a distance | No chain to inspect by eye; belt and gear oil are shop jobs, and a time-based item does not speed up with distance |
+| Drive chain | Wave Alpha: a chain check is listed every 500 km, and more often on poor roads, at high speed or after repeated hard acceleration | At 528 km a month that comes round about once, at 2,160 km four times; leave adjusting the slack to the shop |
+| Drive belt and final-drive oil | Vision: the schedule has a drive belt and final-drive oil where the Wave Alpha has a chain; the oil is given as a two-year interval, not a distance | No chain to inspect by eye; ask the shop who looks after the belt and gear oil, and note that the oil's interval is counted in time, so distance does not speed it up |
 | Engine oil | Wave Alpha: oil use varies and oil quality falls with time in use and riding conditions; check the level regularly and change old or dirty oil as soon as possible | A level that drops between your checks is worth a message; do not top up with an unknown oil |
-| Tyre pressure | Both: gauge at least once a month or when a tyre looks soft, always cold. Wave Alpha: front 200 kPa; rear 225 kPa for a rider alone and 280 kPa with a passenger | Weekly is more often than Honda's minimum, which suits a bike doing many kilometres; if you regularly carry a passenger, ask for the rear figure for your bike |
-| Tyre wear and tubes | Both: replace the tyre at once if the wear indicator shows. Wave Alpha: tubed, with a new inner tube for every new tyre. Vision: tubeless only, with no inner tube fitted | Wear is the consumables question: on a tubed bike, ask whether the tube comes with the tyre |
+| Tyre pressure | Wave Alpha label, cold tyres: front 200 kPa; rear 225 kPa for a rider alone, 280 kPa with a passenger | Weekly is more often than the once-a-month minimum in both manuals, which suits a bike doing many kilometres; if you regularly carry a passenger, ask for the rear figure for your bike |
+| Tyre fitting | Wave Alpha: tubed, a new inner tube with each new tyre. Vision: tubeless, no inner tube fitted | On a tubed bike, ask whether the tube comes with the tyre |
 | Load | Wave Alpha: rider and one passenger, luggage up to 5 kg, and overloading hinders handling, braking and stability | Goods carried every day are a question for the shop, not an assumption |
 
-The manuals tie wear to conditions as well as kilometres (poor roads, speed, hard acceleration), so two riders with the same odometer total can ask different things of the same bike. Honda's note beside each schedule recommends an authorised Honda workshop for anyone without the tools and mechanical skill, and on a rental engine and drive work belongs to the shop.
+The Wave Alpha manual ties chain checks to conditions as well as kilometres (poor roads, high speed, repeated hard acceleration), so two riders with the same odometer total can ask different things of the same bike. Honda's note beside each schedule recommends an authorised Honda workshop for anyone without the tools and mechanical skill; on a rental, leave engine and drive work to a mechanic and ask the shop who does it.
 
 ## Fuel for the distance
 
@@ -107,7 +107,7 @@ The tankfuls are on paper; a rider who refuels before the gauge is low will fill
 
 Fill to the same level each time, note the odometer, and at the next fill divide the litres added by the kilometres since the last fill, then multiply by 100. Honda's Wave Alpha manual says not to fill above the lower edge of the filler neck, which gives a consistent level to fill to. In an imagined case, 3.1 L after 160 km is 3.1 ÷ 160 × 100, about 1.9 L per 100 km.
 
-Write each fill beside the odometer in your log. A figure that keeps climbing can be weather, load or traffic, and it can also be a soft tyre or a dry chain, so a rise that lasts is worth a message to the shop.
+A figure that keeps climbing can be weather, load or traffic, and it can also be a soft tyre or a dry chain, so a rise that lasts is worth a message to the shop.
 
 ### Which petrol, and what level to hand back
 
@@ -115,17 +115,17 @@ Ask which petrol the bike takes before the first fill; the Wave Alpha manual cal
 
 ## Consumables that may be yours
 
-The shop's maintenance may include an oil change, chain adjustment and tension, tyre-pressure checks and normal inspection, while consumables such as inner tubes and tyres may be the renter's responsibility depending on the situation. Distance is what moves a tyre from "later" to "this month", so settle who pays for a worn tyre before you need one. Agree a replacement with the shop first rather than buying one yourself, and keep any receipt.
+Consumables such as inner tubes and tyres may be the renter's responsibility depending on the situation. Settle who pays for a worn tyre before you need one.
 
 [Tyres, Tubes and Consumables on a Long-Term Rental]({{ '/articles/consumables-monthly-rental-hanoi/' | relative_url }}) sets out how a puncture and ordinary wear are usually treated differently.
 
 ## Trips outside Hanoi and long weekends
 
-Weekend riding adds distance faster than a commute does: 12 km each way is 24 km a day, so five commuting days come to 120 km, and one 150 km round trip is already more than that.
+A weekend trip can add distance faster than a short commute does: 12 km each way is 24 km a day, so five commuting days come to 120 km, and one 150 km round trip is already more than that.
 
 Nguyen Tu's support is primarily for Hanoi and local use, and no distance limit or list of provinces is published, so tell the shop about trips at the start instead of from the road. [Can You Take a Rental Motorbike Outside Hanoi?]({{ '/articles/rental-motorbike-outside-hanoi/' | relative_url }}) sets out what to settle for each kind of trip. Ask when the bike is due a look before you leave, not after you return: the shop is at 112 Nguyen Van Cu Street in Long Bien, and every kilometre away from it is a longer way back with a problem.
 
-No roadside rescue is promised in what the shop publishes, so decide in advance whom you would call. For a puncture, [Can You Use Outside Repair Shops on a Rental Motorbike?]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) explains receipts and agreeing before work is done; for engine, electrics or frame, call the shop first. [Breakdowns During a Long-Term Rental in Hanoi]({{ '/articles/breakdowns-during-long-term-rental-hanoi/' | relative_url }}) covers that first call and a plan B for the commute.
+No roadside rescue is promised in what the shop publishes, so decide in advance whom you would call. For a puncture, [Can You Use Outside Repair Shops on a Rental Motorbike?]({{ '/articles/outside-repair-shops-rental-motorbike/' | relative_url }}) explains receipts and agreeing before work is done; if the fault is in the engine, the electrics or the frame, make the shop your first call. [Breakdowns During a Long-Term Rental in Hanoi]({{ '/articles/breakdowns-during-long-term-rental-hanoi/' | relative_url }}) covers that first call and a plan B for the commute.
 
 ## Keep a simple log
 
@@ -141,7 +141,7 @@ No mileage limit and no charge per kilometre is published for Nguyen Tu rentals.
 
 ### Do I have to bring the bike back at 1,500 km?
 
-The figure is practical owner guidance, not a manufacturer interval and not a limit. Nothing published makes it a condition of the rental, so ask the shop how it wants to handle the check.
+The figure is guidance from the owner, not a manufacturer interval and not a limit. Nothing published makes it a condition of the rental, so ask the shop how it wants to handle the check.
 
 ### Can I use a rental bike for delivery work?
 
@@ -149,7 +149,7 @@ Nothing published says whether a rental bike may be used for paid delivery, so a
 
 ### Can I ride from Hanoi to the provinces on a monthly rental?
 
-Ask first: support is primarily for Hanoi and local use, and the shop's answer is the only term you will have.
+Ask first. What a rental allows beyond Hanoi is a question for the shop, so put it in a message before you plan the route and keep the reply with your log.
 
 ## The one-line version
 
