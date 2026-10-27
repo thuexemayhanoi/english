@@ -15,7 +15,7 @@ search_intent: informational
 topic_cluster: monthly-rental
 subcluster: "2.3 long-term-operations"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf — Honda Vietnam, Wave Alpha owner's manual (Hướng dẫn sử dụng, September 2025 file) — gentle riding for the first 500 km, choke and start-up routines by air temperature, warnings against long idling, repeated cranking and leaving the ignition on, brake use and wet-weather braking, parking and stand routine with the steering turned fully left, security advice, fuel type, octane by variant and ethanol up to 10%, headlight misting after washing or rain, accessories and modifications warning, load limits and loading advice, helmet hook, storage box and document pouch, key code and spare key, advice against a high-pressure washer, full cover for outdoor storage (retrieved 2026-10-27)"

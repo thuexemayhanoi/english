@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: monthly-rental
 subcluster: "2.2 long-term-planning"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://en.napas.com.vn/napas-fastfund-247-with-vietqr-code-service — NAPAS (National Payment Corporation of Vietnam), FastFund 247 with VietQR code service — what a VietQR transfer is, the EMVCo and State Bank basic QR standards it complies with, and the payer's steps: scan, check the beneficiary, confirm (retrieved 2026-10-27)"

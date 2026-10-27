@@ -669,3 +669,66 @@ Brief: the next Priority A queue items, riding a rental in rain plus nine monthl
     - `tet-holiday-motorbike-travel-vietnam`: "half of all shops close", "fuel stations mostly stay open".
   - **Still open from batches 5 and 6:** the price decisions in `docs/seo/price-reconciliation.md`.
 - **Status:** 65 of 693 done, 0 REVIEW_REQUIRED, 628 pending.
+
+## 2026-10-27 — SEO Package 2, batch 8 (10 articles, model comparisons and long-term rental pages)
+
+Brief: the next Priority A queue items: three Honda/Yamaha comparisons and six long-term rental pages, plus the Priority B keyword owner for "Hanoi motorbike rental requirements". Same procedure, full QA, merge on green CI. Held back:
+- the price pages (owner price decision pending in `docs/seo/price-reconciliation.md`);
+- the early-return cluster (`shortening-long-motorbike-rental-hanoi`, `early-return-monthly-rental-hanoi`, `early-return-rental-motorbike-hanoi`; to be reviewed together for cannibalisation);
+- `monthly-rental-vs-ride-hailing-hanoi`, `english-teachers-monthly-motorbike-hanoi` (overlap) and `extending-motorbike-rental-hanoi` (protected ranking URL);
+- the five district pages (doorway risk);
+- the insurance pages (OWNER-FACTS says Nguyen Tu provides no motorbike insurance; `do-you-need-insurance-to-ride-vietnam` says the compulsory cover "comes with the rental" — an owner question first).
+
+- **Articles (original -> final words):**
+
+  | Article | Before | After |
+  |---|---|---|
+  | `honda-vision-vs-honda-lead-125` | 348 | 2,330 |
+  | `honda-vision-vs-honda-vario-125` | 359 | 2,383 |
+  | `paying-monthly-motorbike-rental-hanoi` | 354 | 2,317 |
+  | `long-term-renting-vs-buying-residents-hanoi` | 442 | 2,313 |
+  | `yamaha-gear-125-vs-honda-vision` | 349 | 2,393 |
+  | `rental-motorbike-care-long-term-hanoi` | 310 | 2,278 |
+  | `starting-monthly-motorbike-rental-hanoi` | 462 | 2,350 |
+  | `test-riding-before-monthly-rental-hanoi` | 325 | 2,374 |
+  | `students-semester-motorbike-rental-hanoi` | 307 | 2,313 |
+  | `motorbike-rental-requirements-hanoi` | 377 | 1,980 |
+  | **Total** | **3,633** | **23,031** |
+
+  Same URLs, slugs and canonicals. No title or H1 changed. Four descriptions changed with a recorded reason (batch notes in `docs/seo/package2-status.json`): Vario (the Vision also lists Smart Key), test-riding (no published term supports converting "without losing time"), students-semester (the page cannot give "monthly rates, deposits for students"), requirements (a passport for the contract and a cash deposit are not in OWNER-FACTS; the moped class needs no licence).
+- **REVIEW_REQUIRED:** `how-deposit-returns-work-hanoi`. Most of its original text states an unpublished deposit-return procedure (cash, on the spot, a deduction list); a verified expansion would drop retention below 60% or keep unpublished policy. The owner must confirm the deposit-return terms first.
+- **Verification:** every article had an independent verifier, a fix round and a delta verification. Typical first-draft failures:
+  - implied shop rules (a deposit held for the whole term, a return check, trial days counting toward a month);
+  - invented durations and frequencies ("a two-minute walk-round", "every junction");
+  - more than 16 contextual links or a repeated anchor;
+  - a fine figure restated in `faq:` front matter without the current decree text;
+  - 8-word runs copied from sibling pages.
+- **Legal currency checks (read 2026-10-27, primary texts):**
+  - **Fines decree:** Decree 238/2026/NĐ-CP (issued 26 June 2026, in force 15 August 2026, Official Gazette record) amends Decree 168/2024/NĐ-CP. The Government portal text shows amendments to Articles 3, 6, 20 and 42; no fine amount is restated in this batch, and the fine guides are linked instead.
+  - **Licence circular and Law 36:** Circular 108/2026/TT-BCA (Articles 24, 27-30) and Law 36/2024/QH15 as amended by Law 118/2025/QH15 (consolidated text 55/VBHN-VPQH, Articles 20, 21, 33, 34, 56, 57, 59).
+  - **Insurance and registration:** Decree 67/2023/NĐ-CP as amended by Decree 220/2026/NĐ-CP (in force 1 July 2026); Circular 79/2024/TT-BCA as amended by Circulars 37/2026 and 62/2026/TT-BCA.
+- **Other sources:** Honda Vietnam Wave Alpha and Vision owner's manuals and model pages (Vision, Lead 125, Vario 125); Yamaha Vietnam Gear 125 page and launch release (11 April 2026); NAPAS VietQR pages; Government portal report of 22 October 2026 (Tet 2027).
+- **Business limits:** OWNER-FACTS wording only (payments cash, bank transfer, QR; deposit typically 2,000,000-5,000,000 VND; maintenance "may include"; late return 20,000 VND per hour; no automatic refund for early return; no insurance from Nguyen Tu; longer terms negotiable). Trial days, swaps, deposit timing, renewals and helmets are questions to ask.
+- **Prices:** no new price figure, no electric price, and no weekly or monthly figure in new text.
+- **QA on the exact tree:**
+  - lint 0 errors on all ten (retention 62-100%);
+  - build-report P0 0 / P1 0;
+  - matrix P0 0 · P1 4 · P2 0 · P3 999 (the same four P1 rows);
+  - duplicate check P2 0, no body overlap;
+  - engine tests 98/98;
+  - regression guard PASS;
+  - Jekyll build 1,004 pages;
+  - rendered audit P0/P1 0, max click depth 2, unreachable 0;
+  - Guide Assistant 31/31;
+  - Package 2 gate blocking 0.
+- **Findings for the owner (not edited):**
+  - **Legal currency (high priority):**
+    - More pages cite Circular 12/2025/TT-BCA as current: `foreign-student-motorbike-licence-vietnam`, `motorbike-rental-international-students-hanoi`, `foreign-licence-exchange-vietnam`, `foreign-licence-exchange-documents-vietnam`, `idp-vietnam-motorbike-rules`, `non-1968-licence-vietnam` (part of the correction batch already listed).
+    - Fine amounts across the legal guides need a re-check against Decree 168/2024 as amended by Decree 238/2026.
+    - Pages citing Decree 67/2023 alone (e.g. `compulsory-motorbike-insurance-vietnam`) or Circular 79/2024 alone need review for the 2026 amendments.
+  - **Registration papers:** `keeping-rental-motorbike-secure-hanoi` ("carry copies") and `motorbike-bluecard-ownership-papers-vietnam` ("a copy is acceptable") conflict with Law 36 Article 56(1)(a): a certified copy counts only for a vehicle mortgaged to a credit institution.
+  - **Deposits and contract terms:** `motorbike-rental-deposit-hanoi` and `documents-needed-rent-motorbike-hanoi` state a passport for the contract, payment up front and a cash deposit returned on the spot (not in OWNER-FACTS). `compulsory-motorbike-insurance-vietnam` says rental shops carry the cover (not in OWNER-FACTS).
+  - **Model pages:** `honda-vario-125-review` and `smart-key-scooters-vietnam` treat Smart Key, USB-C and idling stop as missing or partial on the Vision; Honda Vietnam's Vision page lists all three. The MODEL-DATABASE source URL for the Yamaha Gear 125 did not return the model page on 2026-10-27.
+  - **Parking:** `parking-monthly-renter-hanoi` gives unsourced fee claims.
+  - **Still open:** the price decisions in `docs/seo/price-reconciliation.md`; the deposit-return terms for `how-deposit-returns-work-hanoi`.
+- **Status:** 75 of 693 done, 1 REVIEW_REQUIRED, 617 pending.

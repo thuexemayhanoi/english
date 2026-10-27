@@ -14,7 +14,7 @@ search_intent: commercial
 topic_cluster: monthly-rental
 subcluster: "2.4 renter-lifestyles"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://congbao.chinhphu.vn/van-ban/thong-tu-so-108-2026-tt-bca-470055.htm — Circular 108/2026/TT-BCA of the Ministry of Public Security on testing and issuing driving licences, Official Gazette text (signed 29 June 2026, in force 1 July 2026 under Article 41(1)) — Article 24(1)(a) and 24(5)(a): exchange of a foreign licence by a foreigner and the term of the Vietnamese licence issued (retrieved 2026-10-27)"

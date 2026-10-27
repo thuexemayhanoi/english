@@ -14,7 +14,7 @@ topic_cluster: scooters
 subcluster: "3.2 model-comparisons"
 manufacturer: Honda
 date_published: 2026-09-23
-last_reviewed: 2026-09-23
+last_reviewed: 2026-10-27
 sources:
   - "honda.com.vn — official model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"

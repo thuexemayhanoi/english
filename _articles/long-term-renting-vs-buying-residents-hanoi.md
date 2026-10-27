@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: monthly-rental
 subcluster: "2.1 monthly-basics"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf — Law on Road Traffic Order and Safety No. 36/2024/QH15 as amended by Law 118/2025/QH15, consolidated text 55/VBHN-VPQH (March 2026, Government document files) — Article 35(1)(a) (registration and plate), Article 36(2)(h) (NN plates for foreign individuals), Article 39 (registration and revocation on a change of owner), Article 42(2) and (5) (emissions-only inspection of motorbikes), Article 43(2) (owner and rider duties), Article 56(1) (documents carried) (retrieved 2026-10-27)"
