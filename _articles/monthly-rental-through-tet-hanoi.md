@@ -22,9 +22,9 @@ sources:
 internal_link_targets: "monthly-motorbike-rental-hanoi, extending-motorbike-rental-hanoi, parking-monthly-renter-hanoi, keeping-rental-motorbike-secure-hanoi, renting-motorbike-hanoi-tet-holidays, late-return-monthly-rental-hanoi, rental-motorbike-outside-hanoi"
 ---
 
-Tet, the lunar new year, changes Hanoi around the holiday: public offices close, people who work far from home travel, shops may close for a time, and streets can swing from empty to festival-crowded around the Old Quarter. That is a general picture, not a measurement. A monthly rental spanning Tet needs a little planning. If your monthly motorbike rental in Hanoi runs through Tet, settle three things with Nguyen Tu before the break: the shop's open days, a renewal or end date that does not land inside it, and where the bike sits while you are away.
+If your monthly motorbike rental in Hanoi runs through Tet, settle three things with Nguyen Tu before the break: the shop's open days, a renewal or end date that does not land inside it, and where the bike sits while you are away. Tet, the lunar new year, changes Hanoi around the holiday: public offices close, people who work far from home travel, shops may close for a time, and streets can swing from empty to festival-crowded around the Old Quarter. That is a general picture, not a measurement. A monthly rental spanning Tet needs a little planning.
 
-The part that can be pinned down is the calendar. The Government portal reports that civil servants rest from Thursday 4 February to Wednesday 10 February 2027, and, counting from those dates, the new lunar year begins on Saturday 6 February. What a rental shop does on those days is the shop's own decision, so this page is about lining up your renewal date and your plans with the holiday. If you are renting a bike for Tet rather than keeping one through it, [Renting a Motorbike in Hanoi During Tet and Holidays]({{ '/articles/renting-motorbike-hanoi-tet-holidays/' | relative_url }}) is the guide for that.
+The part that can be pinned down is the calendar. The Government portal reports that civil servants rest for seven days, from Thursday 4 February through Wednesday 10 February 2027; counting from those dates, the new lunar year begins on Saturday 6 February. What a rental shop does on those days is the shop's own decision, so this page is about lining up your renewal date and your plans with the holiday. If you are renting a bike for Tet rather than keeping one through it, [Renting a Motorbike in Hanoi During Tet and Holidays]({{ '/articles/renting-motorbike-hanoi-tet-holidays/' | relative_url }}) is the guide for that.
 
 ## Settle the dates with the shop early
 
@@ -32,7 +32,7 @@ Nguyen Tu operates 09:00–21:00 daily, but around Tet individual days can diffe
 
 ### What the official calendar says
 
-As the Government portal's report describes it, the break is seven days in a row, from the 28th of the last lunar month to the fifth of the first. Working back from the fifth day puts the start of the new lunar year on Saturday 6 February. The Tet rental guide linked at the top sets out the notice in full.
+As the Government portal's report describes it, the civil-service break runs from day 28 of the last lunar month to day 5 of the first. Employers outside the public sector choose their own five-day pattern, so a shop's days may differ from these dates. The Tet rental guide linked at the top gives the report in more detail.
 
 ### Where your term can land
 
@@ -41,7 +41,7 @@ Find the day your term ends or renews in your agreement or in your last message 
 | Your term ends or renews | How it sits against the break | What to settle |
 |---|---|---|
 | Up to Wednesday 3 February | Before the civil-service rest begins | Whether you can renew or return in person first, and how payment will be made |
-| Thursday 4 to Wednesday 10 February | Inside the rest; 6 February is the first day of the new lunar year | A new end date, an early renewal or an early return, agreed before the break |
+| Thursday 4 to Wednesday 10 February | Inside the rest; the new lunar year begins on 6 February | A new end date, an early renewal or an early return, agreed before the break |
 | Thursday 11 to Tuesday 16 February | After the rest, but the final week of the term overlaps it | Send the renewal message before 4 February |
 | From Wednesday 17 February | The break does not touch the date | Fuel, servicing and where the bike will sit |
 
@@ -72,7 +72,7 @@ One message can carry most of these questions, and a reply in the same chat is e
 
 ## If the term ends while the shop is closed
 
-Late return is charged at 20,000 VND per hour, and a return more than six hours late may be charged as a full additional rental day, typically 150,000–200,000 VND depending on the motorcycle. The published late-return figures say nothing about a shop that is shut on the day a term ends. Settle first the case of a term ending from 4 to 10 February (second row of the first table): does the charge run while the shop is closed, where does the bike go and who receives it, and how is the deposit settled afterwards?
+A late return costs 20,000 VND per hour; beyond six hours late, a further full rental day may be charged, typically between 150,000 and 200,000 VND depending on the motorcycle. The published late-return figures say nothing about a shop that is shut on the day a term ends. Settle first the case of a term ending from 4 to 10 February (second row of the first table): does the charge run while the shop is closed, where does the bike go and who receives it, and how is the deposit settled afterwards?
 
 [Returning a Long-Term Rental Motorbike Late in Hanoi]({{ '/articles/late-return-monthly-rental-hanoi/' | relative_url }}) sets out the rule itself; the questions are for the shop to answer.
 
@@ -80,7 +80,7 @@ Payment is a separate question. Nguyen Tu accepts cash, bank transfer and QR pay
 
 ## If you stay in Hanoi
 
-The city may be quieter, but some services may be thinner: some repair shops may be shut, some stations may keep different hours and roadside help may be harder to reach. These are possibilities to plan for, not findings; the fuel notes below give one official report on 2026. Ride with a fuller tank than usual and sort any bike issues before the holiday. Parking around Old Quarter festivities gets busy; [Daily Parking as a Monthly Renter in Hanoi]({{ '/articles/parking-monthly-renter-hanoi/' | relative_url }}) covers the normal daily system. Treat that as a planning assumption, not a count.
+The city may be quieter, but some services may be thinner: some repair shops may be shut, some stations may keep different hours and roadside help may be harder to reach. These are possibilities to plan for, not findings; the fuel notes below give one official report on 2026. Ride with a fuller tank than usual and sort any bike issues before the holiday. Parking around Old Quarter festivities gets busy; [Daily Parking as a Monthly Renter in Hanoi]({{ '/articles/parking-monthly-renter-hanoi/' | relative_url }}) covers the normal daily system. Treat the remark about busy parking as a planning assumption, not a count.
 
 ### Fuel
 
@@ -127,7 +127,7 @@ Nothing published about Nguyen Tu's rentals says that a term pauses for a holida
 
 ### When should I ask the shop about its Tet days?
 
-As soon as you know your term meets the break, and by early January at the latest. The report says employers outside the public sector must announce their pattern at least 30 days ahead, which for a rest starting between 3 and 5 February points to the first week of January. That is a reason to ask early, not a promise about when this shop decides.
+As soon as you know your term meets the break, and by early January at the latest. The report says employers outside the public sector must announce which five-day Tet pattern they have chosen at least 30 days ahead, which for a rest starting between 3 and 5 February points to the first week of January. That is a reason to ask early, not a promise about when this shop decides.
 
 ### Can I ride the rental to my home province for Tet?
 
@@ -139,4 +139,4 @@ A locked or guarded space is better than the street. The questions in the sectio
 
 ## The one-line version
 
-Confirm shop days, renew before the rush, fix the bike beforehand, and never leave it parked on the street if you travel — Tet rewards renters who plan two weeks ahead. Treat two weeks as the minimum: the break itself runs seven days in 2027, and the dates above point to settling the renewal by early January.
+Confirm shop days, renew before the rush, fix the bike beforehand, and never leave it parked on the street if you travel — Tet rewards renters who plan two weeks ahead. Treat two weeks as the minimum, not the target: the civil-service break runs for seven days from 4 February 2027, and the question above about the shop's Tet days points to asking by early January.
