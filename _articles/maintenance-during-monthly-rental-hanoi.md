@@ -15,7 +15,7 @@ search_intent: informational
 topic_cluster: monthly-rental
 subcluster: "2.3 long-term-operations"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf — Honda Vietnam, Wave Alpha owner's manual (Hướng dẫn sử dụng) — owner's pre-ride check list (fuel level, throttle, engine oil check procedure (cold engine idled 3 to 5 minutes, switched off and left 2 to 3 minutes, bike upright on the centre stand, level read on a dipstick on the filler cap, wiped clean and inserted without screwing it in), drive chain condition and slack, brakes, lights, indicators and horn, tyre condition and pressure, no flammable material near the exhaust), pre-ride check as the rider's responsibility before every ride, tyre pressure with a gauge at least once a month or when a tyre looks soft and always cold, washing advice (cool parts first, low-pressure hose, no high-pressure washer, no direct spray at the air cleaner, exhaust, electrical parts, under the seat or around the headlight, brakes applied intermittently at low speed to dry them, chain lubricated after washing and drying), full cover for outdoor storage, steps for a long period of non-use including taking the cover off after rain and removing the battery, warning on accessories and modifications (retrieved 2026-10-27)"

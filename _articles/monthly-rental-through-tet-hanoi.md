@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: monthly-rental
 subcluster: "2.4 renter-lifestyles"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://xaydungchinhsach.chinhphu.vn/de-xuat-2-phuong-an-nghi-tet-nguyen-dan-2027-tet-dinh-mui-11926080513033257.htm — Government Portal newspaper, 22 October 2026, reporting Ministry of Home Affairs Notice No. 11483/TB-BNV of 9 October 2026 — Tet rest 4-10 February 2027 for civil servants, the three five-day patterns open to other employers and the 30-day notice (retrieved 2026-10-27)"

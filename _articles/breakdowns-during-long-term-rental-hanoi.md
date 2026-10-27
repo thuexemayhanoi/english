@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: monthly-rental
 subcluster: "2.3 long-term-operations"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf — Honda Vietnam, Wave Alpha owner's manual (Hướng dẫn sử dụng) — maintenance schedule columns (1,000 km, 6,000 km and steps of 6,000 km, cycle repeats), drive chain interval of every 500 km, pre-ride check list, tyre pressure at least once a month and when cold, tyre wear indicator, new inner tube with each new tyre, maintenance as the user's responsibility (retrieved 2026-10-27)"

@@ -15,7 +15,7 @@ search_intent: informational
 topic_cluster: monthly-rental
 subcluster: "2.3 long-term-operations"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf — Honda Vietnam, Wave Alpha owner's manual (Hướng dẫn sử dụng, September 2025 file) — drive chain listed every 500 km and checked more often on poor roads, at high speed or after repeated hard acceleration; engine oil use and oil quality; tyre pressure at least once a month, cold, with front and rear pressures for rider alone and rider with passenger; tyre wear indicator and a new inner tube with each new tyre; luggage limit of 5 kg and rider plus one passenger; unleaded petrol only, ethanol 10% or less, filling not above the lower edge of the filler neck; note recommending an authorised Honda workshop for work beyond the owner's tools and skill (retrieved 2026-10-27)"

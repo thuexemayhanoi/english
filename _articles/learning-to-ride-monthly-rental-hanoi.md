@@ -15,7 +15,7 @@ search_intent: informational
 topic_cluster: monthly-rental
 subcluster: "2.4 renter-lifestyles"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf — Law 36/2024/QH15 as amended by Law 118/2025/QH15, consolidated text 55/VBHN-VPQH — Articles 34(1)(g), 56(5), 57(1)(a)-(b), 59(1)(a)-(b) (retrieved 2026-10-27)"

@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: monthly-rental
 subcluster: "2.4 renter-lifestyles"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
 internal_link_targets: "monthly-motorbike-rental-hanoi, motorbike-rental-pickup-or-delivery-hanoi, motorbike-rental-agreement-long-term-hanoi, monthly-motorbike-rental-requirements-hanoi, english-teachers-monthly-motorbike-hanoi, maintenance-during-monthly-rental-hanoi, switching-bikes-mid-rental-hanoi, returning-a-rental-motorbike-hanoi, motorbike-rental-deposit-monthly-hanoi"

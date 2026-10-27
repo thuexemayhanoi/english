@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: monthly-rental
 subcluster: "2.5 choosing-long-term"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://www.honda.com.vn/xe-may/san-pham/vision — Honda Vietnam Vision model page, specifications table and feature descriptions — supports the Vision seat height, tank, fuel-consumption claim, idling stop, front wheel, storage, Smart Key and headlight statements (retrieved 2026-10-27)"
