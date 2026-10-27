@@ -109,7 +109,42 @@ The failures were avoidable. Before returning a draft, check yours against this 
 ## 10. Lessons from batch 3 (six of ten first drafts failed on a MAJOR finding)
 
 - **Documents a rider carries (Law 36/2024/QH15 Article 56, read 2026-10-25):** the registration certificate itself; a certified copy counts only for a vehicle mortgaged to a credit institution, together with its original confirmation (56(1)(a)); the owner's compulsory civil-liability insurance certificate (56(1)(d)); papers integrated into an electronic identification account can be shown through it (56(3)). Article 56 is a carrying duty, not the owner's duty to buy cover. OWNER-FACTS says nothing on how a rental's papers travel, so write "ask at handover how the registration certificate and the compulsory insurance certificate will be shown at a stop"; never "the original or a certified copy", never "the papers ride with the bike".
-- **Licence validity:** Vietnamese A1, A and B1 licences have no time limit (Article 57), but a Vietnamese licence exchanged for a foreigner is valid only for the term on the residence card and the foreign licence (Circular 12/2025/TT-BCA Article 24(5)(a)). A moped is a design speed of no more than 50 km/h with a combustion engine of 50 cc or less or an electric motor of 4 kW or less (Article 34(1)(g)); no licence from age 16 (Article 59(1)(a)).
+- **Licence validity:** Vietnamese A1, A and B1 licences have no time limit (Article 57), but a Vietnamese licence exchanged for a foreigner is valid only for the term on one of the qualifying documents (a visa or temporary residence card valid for 90 days or more, or a permanent residence card) and the foreign licence (Circular 108/2026/TT-BCA Article 24(1)(a) and 24(5)(a), read 2026-10-27 in the Official Gazette text). Circular 108/2026/TT-BCA replaced Circular 12/2025/TT-BCA on 1 July 2026 (Article 41(6)); never cite 12/2025 as current. Its IDP articles are now 27-30 (Article 30(1): an IDP issued by Vietnam under the 1968 Convention is not valid inside Vietnam). A moped is a design speed of no more than 50 km/h with a combustion engine of 50 cc or less or an electric motor of 4 kW or less (Article 34(1)(g)); no licence from age 16 (Article 59(1)(a)).
 - **Wrong original sentences are reworded in place.** A corrective sentence after an original is acceptable only when the original is incomplete, not when it is false; verifiers refuted drafts that kept a false original and contradicted it two lines later.
 - **Model data:** the Honda Click and Yamaha Mio have no verified figures; a difference of a few millimetres or kilograms is not a reason to choose a bike; name the variant (Wave Alpha 110, Sirius RC 110) whose row a figure comes from.
 - **Repetition across siblings:** the batch-3 articles now own long-term terms (three months, six months, a year, expats), the return, the inspection checklist, rental problems, what a rental includes, and the teacher and student rental pages; link to them instead of restating them.
+
+## 11. Lessons from batches 4-6 (most first drafts needed a fix round)
+
+- **Facts read in these batches, reusable with the source named:**
+  - Honda Vietnam owner's manual, Wave Alpha (AFB110MD, Vietnam type):
+    - petrol RON 91 or higher;
+    - ethanol 10% or less;
+    - choke routine for 10-35°C, no choke above 35°C, and the same steps followed by continued warming at 10°C or below;
+    - fuel valve ON/OFF only (no RES);
+    - advises against jump-starting from a car battery.
+  - Petrol on sale: E10 RON 95-III and E5 RON 92, with E5 blending to 31 December 2030. Sources: MoIT notices of 28 May and 22 October 2026, Government portal of 1 June 2026. Never write "RON 95 is the standard grade".
+  - Hanoi weather: the WMO 1991-2020 climatology (rain day = 0.1 mm or more). Never invent storm lengths, "mornings are dry" or "weeks of drizzle".
+  - Law 36/2024/QH15:
+    - lights from 18:00 to 06:00 and in fog, smoke, dust or rain (Article 20(1));
+    - horn (Article 21(1));
+    - motorbikes barred from expressways (Article 25(3));
+    - IDP recognition is 57(6)(b), and 57(8)(b) is the duty to carry;
+    - accident duties (Article 80).
+  - Circular 38/2024/TT-BGTVT replaced Circular 31/2019 from 1 January 2025.
+  - Tet 2027 civil-service break: 4-10 February, as reported by the Government portal (22 October 2026, notice 11483/TB-BNV).
+- **Learner and beginner pages:** the moped class needs no licence from age 16. Never write that a beginner can only ride with a licence: say "above the moped class".
+- **Shop behaviour is a question, never a rule.** This covers who pays for a breakdown, a replacement bike, helmets included, fuel level at return, Tet opening days, distance limits, after-hours returns and how the papers are shown. Use OWNER-FACTS wording where it exists: maintenance "may include an oil change, chain adjustment and tension, tyre-pressure checks and normal inspection"; consumables "may be the renter's responsibility"; support is primarily Hanoi and local; no 24/7 rescue; late return 20,000 VND per hour; Nguyen Tu does not provide motorbike insurance.
+- **Monthly and weekly pages:** the monthly, weekly, 50cc and E-Bike figures are under owner review (`price-reconciliation.md`). New text names no weekly, monthly, 50cc or electric price and no discount, and never says which models have a monthly rate. Keep an original sentence that carries such a figure verbatim, and send the reader to the contact route for a quote.
+- **Retention trap:** rewording an original sentence counts as removing it. To qualify or correct one, extend it (add a clause before or after) so its words stay contiguous, or replace it only when it is false. Before replying, check the lint figure. Several drafts fell below 60% after a late cut.
+- **Sibling overlap:** the batch-4 to batch-6 pages now own:
+  - beginners and the lightest bikes;
+  - fuel policy and petrol grades;
+  - breakdowns and "feels wrong";
+  - puncture, loose chain, lost key and outside repairs;
+  - riding outside Hanoi;
+  - couples, female riders and digital nomads;
+  - Tet, the rainy season and winter.
+  Link to them instead of restating them, and do not copy their sentences (the duplicate check measures 6-word overlap).
+- **No section anchors in links to other pages** (`/articles/x/#heading`): the offline Lychee check cannot resolve a fragment on a directory URL and blocks CI. Link the page and name the section in the text.
+- **Law 36/2024/QH15 as amended:** Law 118/2025/QH15 (Article 7, in force 1 July 2026) amended Law 36/2024/QH15. Use the consolidated text 55/VBHN-VPQH (March 2026, https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf). The clauses this site cites are unchanged: Articles 20, 21, 25(3), 31(3), 33, 34(1)-(2), 42(2), 56, 57(1)-(8), 59 and 80 (read 2026-10-27). The amended clauses are 34(4) and (6), 35(2)-(3), 42(4) and (5)(e), 57(9), 60 and 61. In Article 62, clause 5(b) and clause 6 are amended and clause 7 is repealed. Do not cite an amended clause from the 2024 text.

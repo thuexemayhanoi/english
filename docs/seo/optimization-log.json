@@ -1695,5 +1695,31 @@
    "wordsAdded": 15345,
    "rankTrackedUrls": 0
   }
+ },
+ {
+  "date": "2026-10-27",
+  "batch": "package2-p2-07",
+  "package": 2,
+  "note": "SEO Package 2 content depth: 10 article(s) expanded to at least 1600 words (3374 -> 22150 words); same URL, slug and canonical; Batch 7: riding in rain plus nine monthly-rental cluster pages (3,374 -> 22,150 words), each through writer, independent verifier, fixer and delta verifier (riding-rain and learning-to-ride passed the first verification with MINORs). No title, H1, description, slug, permalink or canonical change. Removed or reworded originals, by article. riding-rain (6): \"short heavy bursts\", \"a fined violation\", \"wet drum brakes grab unpredictably\", \"costs you the deposit at minimum\", \"a rain suit costs little\", \"most storms pass in 20-40 minutes\" (unsourced or implied shop policy), replaced by Law 36/2024/QH15 Article 20(1)-(2), the WMO 1991-2020 Hanoi table and the Honda Vision manual. delivery-pickup, e-bike, choosing and high-mileage: no original sentence removed. breakdowns-long-term (4): \"makes some kind of incident likely\", \"the shop already knows you and the bike\", \"can usually be fixed ... cheaply\", \"most month-scale breakdowns start as ignored small signs\" (unsourced or implied shop knowledge), now hedged. commuting (3): \"most monthly rentals exist for one reason\", \"a bike beats traffic in a way nothing else does\" (unsourced superlatives) and \"the option to test your real commute for a week\" (implied policy, now a question). learning-to-ride (1): the licence sentence now says \"above the moped class\" (Law 36/2024/QH15 Articles 34(1)(g), 56, 57, 59 as consolidated in 55/VBHN-VPQH). maintenance (3): \"a daily bike gets checked by the shop between riders\", \"a mid-term check is normally straightforward\" and \"the shop covers routine maintenance\" (stated shop behaviour), now OWNER-FACTS \"may include\" and questions. through-tet (4): \"reshapes Hanoi for roughly two weeks ... millions leave the city, shops shut for days\", \"the city empties ... fewer repair shops open, fuel stations operate reduced hours\", \"many riders' worst nights of the year\" and \"a bike sitting on the street for two holiday weeks\" (unsourced), replaced by the Government portal report of 22 October 2026 on notice 11483/TB-BNV and hedged wording; \"parking gets busy\" and the one-line version are kept verbatim with a qualifying sentence. Sources read 2026-10-27: Law 36/2024/QH15 and its consolidated text 55/VBHN-VPQH (Law 118/2025/QH15 leaves the cited clauses unchanged), Circular 108/2026/TT-BCA (Official Gazette text; replaced Circular 12/2025/TT-BCA on 1 July 2026; Article 24(1)(a) and 24(5)(a)), Circular 38/2024/TT-BGTVT, Honda Vietnam Wave Alpha and Vision owner's manuals, Honda and Yamaha Vietnam model pages, MoIT notices of 22 October 2026 and 10 February 2026, the Government portal reports of 2 July 2026 (Zone 1) and 22 October 2026 (Tet 2027), the Ministry of Public Security charging advice of 25 July 2023, QCVN 04:2021/BXD consolidated 30 September 2026 (Amendment 01:2026, Circular 31/2026/TT-BXD, in force 15 December 2026), the WMO Hanoi climatology. Prices: no new price figure; no electric price; no weekly or monthly figure in new text. Owner findings in other guides are listed in the progress log.",
+  "urls": [
+   "/articles/riding-rental-motorbike-hanoi-rain/",
+   "/articles/delivery-pickup-monthly-rental-hanoi/",
+   "/articles/e-bike-monthly-rental-hanoi/",
+   "/articles/breakdowns-during-long-term-rental-hanoi/",
+   "/articles/choosing-motorbike-monthly-rental-hanoi/",
+   "/articles/commuting-by-motorbike-monthly-hanoi/",
+   "/articles/high-mileage-monthly-rental-hanoi/",
+   "/articles/learning-to-ride-monthly-rental-hanoi/",
+   "/articles/maintenance-during-monthly-rental-hanoi/",
+   "/articles/monthly-rental-through-tet-hanoi/"
+  ],
+  "rank_work": false,
+  "counts": {
+   "articles": 10,
+   "wordsBefore": 3374,
+   "wordsAfter": 22150,
+   "wordsAdded": 18776,
+   "rankTrackedUrls": 0
+  }
  }
 ]
