@@ -26,7 +26,7 @@ internal_link_targets: "maintenance-during-monthly-rental-hanoi, monthly-rental-
 
 A month of daily commuting in Hanoi can easily add up to far more riding than a tourist does in a week. High mileage changes what the rental needs from you and from the bike, so it deserves its own planning.
 
-The short answer: work out your month's kilometres from your own routine, tell the shop the number before you sign, treat the owner's 1,500 km guidance (practical owner guidance, not a manufacturer interval) as the cue for a check, and budget for the petrol and the wear that distance brings.
+The short answer: work out your month's kilometres from your own routine, tell the shop the number before you sign, treat the shop owner's 1,500 km guidance (practical, not a manufacturer interval) as the cue for a check, and budget for the petrol and the wear that distance brings.
 
 ## How much riding counts as high mileage
 
@@ -36,7 +36,7 @@ There is no official threshold, but as practical owner guidance, periodic checks
 
 Whether you pass the mark depends on the length of your journeys, and that is simple arithmetic: the length of a regular ride, multiplied by how often you make it, plus anything extra at weekends. Measure each regular journey in a map app set to a motorbike or two-wheeler option, both ways, and add the detours you make without thinking. [Commuting by Motorbike in Hanoi: The Monthly Renter Setup]({{ '/articles/commuting-by-motorbike-monthly-hanoi/' | relative_url }}) covers the route and parking side of a daily commute.
 
-The four routines below are imagined, and the totals are plain arithmetic, not typical figures for any rider.
+The four routines below are imagined; each total is just the sum shown, not a typical rider's month.
 
 | Routine | The sum | Month's total | When 1,500 km arrives |
 |---|---|---|---|
@@ -59,7 +59,7 @@ Give the shop a number and a pattern rather than an adjective: 528 km a month fr
 
 Contact the shop on +84 942 467 674 (WhatsApp or Zalo), open 09:00-21:00 daily. Then ask the questions that distance raises, because the published terms leave them open:
 
-- **Is there a limit on distance, or a charge per kilometre?** Nothing published for Nguyen Tu rentals sets either, so the shop's answer is the only term you will have.
+- **Is there a limit on distance, or a charge per kilometre?** Nothing published for Nguyen Tu rentals sets either, so the shop's reply is the only term to go on.
 - **Which model and variant would I get, and for the whole term?** Contact us to confirm current availability of any model.
 - **What if my total turns out higher than the figure I gave?** Ask how you would tell the shop and how a check would be arranged.
 
@@ -75,18 +75,18 @@ High mileage hits tyres, chains and oil first. Check tyre pressure weekly, look 
 
 ### What Honda's manuals tie to distance
 
-These are manuals for an owner who services the bike; they still show which parts Honda expects to wear and when to look more often. The rows below come from two manuals read for this guide, the Wave Alpha (a semi-automatic) and the Vision (an automatic); confirm which model and variant is yours before applying any of it.
+These are manuals for an owner who services the bike; they still show which parts Honda expects to wear and when to look more often. The rows below come from two manuals read for this guide, the Wave Alpha and the Vision; confirm which model and variant is yours before applying any of it.
 
 | Part | What the manual says | Over a high-mileage month |
 |---|---|---|
-| Drive chain | Wave Alpha: a chain check is listed every 500 km, and more often on poor roads, at high speed or after repeated hard acceleration | At 528 km a month that comes round about once, at 2,160 km four times; leave adjusting the slack to the shop |
-| Drive belt and final-drive oil | Vision: the schedule has a drive belt and final-drive oil where the Wave Alpha has a chain; the oil is given as a two-year interval, not a distance | No chain to inspect by eye; ask the shop who looks after the belt and gear oil, and note that the oil's interval is counted in time, so distance does not speed it up |
+| Drive chain | Wave Alpha: a chain check is listed every 500 km, and more often on poor roads, at high speed or after repeated hard acceleration | At 528 km a month that comes round about once, at 2,160 km four times; ask the shop who adjusts the slack |
+| Drive belt and final-drive oil | Vision: the schedule has a drive belt and final-drive oil where the Wave Alpha has a chain; the oil is given as a two-year interval, not a distance | No chain to inspect by eye; ask the shop who looks after the belt and gear oil, and note that the oil's interval is counted in time, so the manual sets no distance trigger for it |
 | Engine oil | Wave Alpha: oil use varies and oil quality falls with time in use and riding conditions; check the level regularly and change old or dirty oil as soon as possible | A level that drops between your checks is worth a message; do not top up with an unknown oil |
-| Tyre pressure | Wave Alpha label, cold tyres: front 200 kPa; rear 225 kPa for a rider alone, 280 kPa with a passenger | Weekly is more often than the once-a-month minimum in both manuals, which suits a bike doing many kilometres; if you regularly carry a passenger, ask for the rear figure for your bike |
+| Tyre pressure | Wave Alpha, cold tyres: front 200 kPa; rear 225 kPa for a rider alone, 280 kPa with a passenger | Weekly is more often than the once-a-month minimum in both manuals, which suits a bike doing many kilometres; if you regularly carry a passenger, ask for the rear figure for your bike |
 | Tyre fitting | Wave Alpha: tubed, a new inner tube with each new tyre. Vision: tubeless, no inner tube fitted | On a tubed bike, ask whether the tube comes with the tyre |
 | Load | Wave Alpha: rider and one passenger, luggage up to 5 kg, and overloading hinders handling, braking and stability | Goods carried every day are a question for the shop, not an assumption |
 
-The Wave Alpha manual ties chain checks to conditions as well as kilometres (poor roads, high speed, repeated hard acceleration), so two riders with the same odometer total can ask different things of the same bike. Honda's note beside each schedule recommends an authorised Honda workshop for anyone without the tools and mechanical skill; on a rental, leave engine and drive work to a mechanic and ask the shop who does it.
+The Wave Alpha manual ties chain checks to conditions as well as kilometres (poor roads, high speed, repeated hard acceleration), so two riders with the same odometer total can ask different things of the same bike. The Wave Alpha manual's note beside its schedule recommends an authorised Honda workshop for anyone without the tools and mechanical skill; on a rental, leave engine and drive work to a mechanic and ask the shop who does it.
 
 ## Fuel for the distance
 
@@ -141,7 +141,7 @@ No mileage limit and no charge per kilometre is published for Nguyen Tu rentals.
 
 ### Do I have to bring the bike back at 1,500 km?
 
-The figure is guidance from the owner, not a manufacturer interval and not a limit. Nothing published makes it a condition of the rental, so ask the shop how it wants to handle the check.
+The figure is guidance from the shop owner, not a manufacturer interval and not a limit. Nothing published makes it a condition of the rental, so ask the shop how it wants to handle the check.
 
 ### Can I use a rental bike for delivery work?
 
