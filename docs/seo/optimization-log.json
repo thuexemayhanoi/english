@@ -1669,5 +1669,31 @@
    "wordsAdded": 16465,
    "rankTrackedUrls": 0
   }
+ },
+ {
+  "date": "2026-10-27",
+  "batch": "package2-p2-06",
+  "package": 2,
+  "note": "SEO Package 2 content depth: 10 article(s) expanded to at least 1600 words (4352 -> 19705 words); same URL, slug and canonical; Batch 6: ten Priority A rental problem and season pages, each through writer, independent verifier, fixer and delta verifier. Words 4,352 -> 19,705. No title, H1, slug, permalink or canonical change. Three descriptions changed with a recorded reason. feels-wrong: the old one said \"ride it straight back\" for soft brakes, which contradicted the page's own stop-and-call list. breakdown: the old one stated a shop-pays policy that docs/OWNER-FACTS.md does not publish. fuel-what-petrol: \"RON95 vs other grades\" became E10 RON 95-III or E5 RON 92 (MoIT pages of 28 May and 22 Oct 2026, Government Portal of 1 Jun 2026). Removed or reworded originals, by article. feels-wrong (7): stop-now and report-soon wording rebuilt as checklists; the equipment-fine claim (no source); the maintenance split restated in OWNER-FACTS wording (\"may include\"); \"the shop would rather see a healthy bike for nothing\" and the gearbox line (implied policy). breakdown (6): the zero-skill fixes rebuilt against the Wave Alpha and Vision manuals (fuel valve ON/OFF only on the Wave Alpha, no RES); the renter-side list in OWNER-FACTS wording; \"renting beats owning\", the same-day replacement promise and the \"day ten tow\" line (unsourced). outside-hanoi (6): \"no general law forbidding it\" and the expressway fine claim replaced by Law 36/2024/QH15 Art. 25(3); \"150 km is three to four hours\" (unsourced); the documents list restated with 57(8)(b) and the handover wording; the roadside-mechanic pattern (unsourced). fuel-what-petrol (8): RON95 as the standard grade and \"designed around RON95\" replaced by the manuals (RON 91+ for the Vietnam-type Wave Alpha, ethanol up to 10%) and the MoIT grades; station density, rush-hour and consumption figures and \"fuel costs less than a day's rental\" (unsourced). couple (6): the passenger rule restated from Art. 33 (one person, two only in the listed cases); \"rentals include helmets\" turned into a handover question; the pillion technique list reworded. what-to-carry (4): the documents line restated with 57(8)(b) and 57(6)(b); the under-seat capacity claim (no manual figure); \"many rentals have no USB socket\" and \"rentals normally include a helmet\" (unsourced). complete-beginner (3): the licence rule restated with the moped class of Art. 34(1)(g) and 59(1)(a); the progression and the two beginner additions reworded. tet-holidays (7): shops closing for several days, \"Hanoi empties dramatically\", temple parking at its annual peak and the holiday-wave paragraph (unsourced; the week is now framed as a planning assumption); Tet 2027 dates from the Government Portal report of 22 Oct 2026 on notice 11483/TB-BNV. rainy-season (4): \"afternoon storms, sudden, heavy, short\", \"mornings are usually dry\" and \"multi-day drizzle is the exception\" replaced by the WMO 1991-2020 Hanoi table and the ADB/World Bank climate risk profile; the gear line reworded. winter (5): season, air-quality, cold-tyre and upside passages restated against the WMO table and the Wave Alpha manual choke bands; the one-line closing. Owner findings in other guides are listed in the progress log.",
+  "urls": [
+   "/articles/rental-motorbike-feels-wrong/",
+   "/articles/rental-motorbike-breakdown-hanoi/",
+   "/articles/rental-motorbike-outside-hanoi/",
+   "/articles/rental-motorbike-fuel-what-petrol/",
+   "/articles/renting-motorbike-couple-hanoi/",
+   "/articles/what-to-carry-riding-motorbike-vietnam/",
+   "/articles/renting-motorbike-hanoi-complete-beginner/",
+   "/articles/renting-motorbike-hanoi-tet-holidays/",
+   "/articles/renting-motorbike-hanoi-rainy-season/",
+   "/articles/renting-motorbike-hanoi-winter/"
+  ],
+  "rank_work": false,
+  "counts": {
+   "articles": 10,
+   "wordsBefore": 4352,
+   "wordsAfter": 19705,
+   "wordsAdded": 15345,
+   "rankTrackedUrls": 0
+  }
  }
 ]
