@@ -1,7 +1,7 @@
 ---
 title: "Rental Motorbike Fuel: What Petrol to Use in Vietnam"
 slug: rental-motorbike-fuel-what-petrol
-description: "Petrol in Vietnam explained for rental riders: RON95 vs other grades, where to buy, how to use a pump, and fuel rules to agree with the rental shop."
+description: "Which petrol to use on a Vietnam rental bike: E10 RON 95-III or E5 RON 92, what two Honda manuals say, how a fill works and what to ask the rental shop."
 category: rental
 tags:
   - "fuel"
@@ -27,15 +27,15 @@ sources:
 internal_link_targets: "motorbike-rental-fuel-policy-hanoi, what-is-included-motorbike-rental-hanoi, returning-a-rental-motorbike-hanoi, motorbike-rental-price-hanoi, hanoi-petrol-stations-guide-riders, fuel-gauge-inaccurate-motorbike, rental-motorbike-feels-wrong"
 ---
 
-Fuel is the one running cost on top of your rental price, and it is cheap by world standards. Here is what matters in practice.
+Fuel is the one running cost on top of your rental price, and it is cheap by world standards. The Ministry of Industry and Trade's notice of 22 October 2026 is narrower: it compares Vietnam with Thailand, Cambodia, Laos and China and calls Vietnamese petrol prices low. Here is what matters in practice.
 
-The short answer: the common petrol grades at a Vietnamese pump are now E10 RON 95-III and E5 RON 92, and the two Honda owner's manuals quoted below set minimum octane figures of RON 91 to RON 95, depending on the type, and an ethanol ceiling of 10%. Which grade your rental takes is a question for the shop before the first fill. The sections below cover the labels, what those manuals say, how a fill works and how much a tank holds.
+The short answer: the common petrol grades at a Vietnamese pump are now E10 RON 95-III and E5 RON 92. For the Honda Wave Alpha and Vision, whose owner's manuals are quoted below, E10 RON 95-III meets the manuals' octane minimum (RON 91 to RON 95, depending on the type) and sits at their ethanol limit of not more than 10%. The shop confirms the grade for your bike before the first fill, and for any other model the grade is a question for the shop. The sections below cover the labels, what those manuals say, how a fill works and how much a tank holds.
 
 ## Which petrol
 
 Plain RON 95 is no longer the standard grade at Vietnamese pumps. The Government's news portal reported on 1 June 2026 that E10 now replaces mineral RON 95 nationwide, and the Ministry of Industry and Trade's price notice of 22 October 2026 lists E5 RON 92 and E10 RON 95-III as the common petrol products. E5 and E10 are mineral petrol with 5% and 10% ethanol blended in, so the "95" survives on the label as the octane of E10 RON 95-III, while the fuel itself now carries ethanol.
 
-There is no benefit in paying for higher octane on a small rental bike, and no reason to seek out anything unusual. If a pump only offers an unfamiliar option, ask the attendant; they will guide you to the standard grade every local driver uses. The shop knows which bike you were given, so the grade it names for that bike comes before anything a pump or an attendant suggests.
+There is no benefit in paying for higher octane on a small rental bike, and no reason to seek out anything unusual. If a pump only offers an unfamiliar option, ask the attendant; they will guide you to the standard grade every local driver uses, and the question to put to them is which pump is E10 RON 95-III and which is E5 RON 92.
 
 ### Why older advice says RON 95
 
@@ -61,15 +61,15 @@ A manual is the authority for its own bike, and each of the two below applies to
 
 Both manuals say to use unleaded petrol only, to use the recommended octane and that petrol below the recommended octane reduces engine performance. Both warn against petrol with too high an alcohol content, against old or dirty petrol and against petrol mixed with oil. For ethanol, each allows no more than 10% and says that more than that can damage the paint of the tank and the rubber fuel lines, rust the tank and make the engine run poorly. Each adds that if the bike runs badly, you should try a different petrol, and both call ethanol-blended petrol sold on the market "Gasohol".
 
-Neither manual names E5 or E10, so matching a pump label to a manual rests on two numbers: the octane minimum and the ethanol ceiling. E10 describes a 10% blend, the same figure as the manuals' ceiling, which is why the shop should confirm that the bike you are given takes E10. Which line of a manual applies to that bike is another question for the shop.
+Neither manual names E5 or E10, so matching a pump label to a manual rests on two numbers: the octane minimum and the ethanol ceiling. E10 describes a 10% blend, the same figure as the manuals' ceiling, so for these two manuals E10 sits exactly at the limit they allow.
 
 The ministry's guidance is general, not about any one bike. On 27 May 2026 it said that, by its review, most cars and motorbikes in use in Vietnam can run E10 as their makers recommend, and that E5 RON 92 stays on sale mainly for older vehicles that are not compatible with E10. It also advised servicing the fuel system of a very old, little-used or poorly maintained vehicle and using the fuel its maker recommends.
 
-Only the Wave Alpha and Vision manuals are quoted here. For a Sirius, Click, Air Blade, Mio or any other model, the grade comes from the shop or from that model's own manual.
+Only the Wave Alpha and Vision manuals are quoted here; a Sirius, Click, Air Blade, Mio or any other model has a manual of its own.
 
 ### Matching a pump label to a manual
 
-Start with the octane figure, which is arithmetic, then settle the ethanol question with the shop.
+Start with the octane figure, which is arithmetic; the ethanol figure follows the table.
 
 | If the manual's minimum is | E10 RON 95-III | E5 RON 92 |
 |---|---|---|
@@ -77,7 +77,7 @@ Start with the octane figure, which is arithmetic, then settle the ethanol quest
 | RON 92 | 95 is above it | 92 meets it |
 | RON 95 | 95 meets it | 92 is below it |
 
-A pump label cannot tell you how a bike copes with ethanol up to its ceiling, so ask the shop to name the grade for your bike, in writing if you can, and fill with that grade.
+For the Wave Alpha and Vision, both manuals allow ethanol of not more than 10%, which is the blend E10 describes, so the label and these manuals agree on ethanol as well as on octane. A pump label cannot tell you what another model's manual allows, so ask the shop to name the grade for your bike, in writing if you can, and fill with that grade.
 
 ## Where and when to buy
 
@@ -91,9 +91,9 @@ How a station works for a rider, from attendants to payment, is covered in [Usin
 
 ## How to use the pump
 
-Switch the engine off, put the bike on its stand on level ground and get off it: both Honda manuals ask for firm level ground, the stand and a locked steering for fuelling, and both place the filler cap under the seat, so the seat has to be opened. Attendants handle the nozzle; just open your seat or your filler cap. Petrol caps on underbones are often under the seat or on the frame — check during your handover inspection ([Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }})) so you are not hunting for it on a dark roadside later.
+Switch the engine off, put the bike on its stand on level ground and get off it, which is general practice rather than a manual instruction. Both Honda manuals ask for firm level ground, the stand and a locked steering for fuelling, and both place the filler cap under the seat, so the seat has to be opened. Attendants handle the nozzle; just open your seat or your filler cap. Petrol caps on underbones are often under the seat or on the frame — check during your handover inspection ([Rental Motorbike Inspection Checklist: What to Check Before You Ride]({{ '/articles/rental-motorbike-inspection-checklist/' | relative_url }})) so you are not hunting for it on a dark roadside later.
 
-A fill, step by step, in the order both manuals give it:
+A fill, step by step; apart from step 3, which is general practice, these follow both manuals, in the order they give them:
 
 1. Park on firm, level ground with the stand down and the steering locked, and switch the engine off.
 2. Open the seat, turn the filler cap anticlockwise until it stops and lift it off.
@@ -102,13 +102,13 @@ A fill, step by step, in the order both manuals give it:
 5. Refit the cap and turn it clockwise until the arrow marks on the cap and the tank line up, then close the seat.
 6. Wipe up any spill at once and keep heat, sparks and flames away from the bike; both manuals say to handle petrol outdoors only.
 
-Pay cash or QR; most pumps take both. A bike with a fuel tap has one more thing to know: the Wave Alpha manual describes a two-way fuel valve, ON for riding and OFF for parking, storage or transport, and [fuel taps and reserve on a motorbike]({{ '/articles/fuel-tap-reserve-motorbike/' | relative_url }}) explains the positions.
+Pay cash or QR; most pumps take both, which is general experience rather than a count, so check what the station accepts before the fill. A bike with a fuel tap has one more thing to know: the Wave Alpha manual describes a two-way fuel valve, ON for riding and OFF for parking, storage or transport, and [fuel taps and reserve on a motorbike]({{ '/articles/fuel-tap-reserve-motorbike/' | relative_url }}) explains the positions.
 
 ## Agree the fuel rule with the shop
 
 The fuel arrangement is a question for the shop: no fuel rule is published for Hanoi Motorbike Rental Nguyen Tu, so ask at handover and note what was agreed. Put three questions in the booking chat so that the answers are written down: which grade the bike takes (E10 RON 95-III or E5 RON 92), where the filler cap is, and what the shop counts as a full tank. The shop is on +84 942 467 674 by phone, WhatsApp or Zalo and is open 09:00 to 21:00 daily.
 
-Ask also whether fuel is part of the rental price; [what a Hanoi motorbike rental includes]({{ '/articles/what-is-included-motorbike-rental-hanoi/' | relative_url }}) lists it among the items to settle before you pay. Do not plan to return it empty; stations near your drop-off are easy to find. The general policy picture is in [Fuel Policy When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-fuel-policy-hanoi/' | relative_url }}). It sets out the conventions a shop may offer and the questions to ask at the return.
+Whether fuel is part of the rental price is a separate question, and [what a Hanoi motorbike rental includes]({{ '/articles/what-is-included-motorbike-rental-hanoi/' | relative_url }}) puts fuel in neither its included nor its not-included list, because the fuel level is something to agree. Do not plan to return it empty; stations near your drop-off are easy to find. The general policy picture is in [Fuel Policy When Renting a Motorbike in Hanoi]({{ '/articles/motorbike-rental-fuel-policy-hanoi/' | relative_url }}). It sets out the conventions a shop may offer and the questions to ask at the return.
 
 ## Consumption, roughly
 
@@ -128,11 +128,11 @@ The table compares three models; it is not a list of what is on offer, so contac
 
 - **Reading "95" as plain petrol.** The label now means E10 RON 95-III, so check the ethanol ceiling in the manual as well as the octane figure.
 
-- **Carrying over the grade from the last bike.** The two manuals above differ on octane, and a Sirius or a Click has a manual of its own; ask for the grade of the bike in front of you.
+- **Carrying over the grade from the last bike.** The octane minimums in the manuals table differ by model, so use the grade for the bike in front of you.
 
-- **Topping up from an old or unmarked container.** Both manuals warn against old or dirty petrol and against petrol mixed with oil, and a container carries no grade label; fill at a station instead.
+- **Topping up from an old or unmarked container.** A container carries no grade label, and the manuals' warnings on old or dirty petrol are above; fill at a station instead.
 
-- **Putting anything but petrol in.** Both manuals say unleaded petrol only, so read the product name on the nozzle before it goes in.
+- **Putting anything but petrol in.** Unleaded petrol only, as the manuals say: read the product name on the nozzle.
 
 - **Riding on after a rough fill.** Both manuals say to try a different petrol if the bike runs badly. A bike that coughs after fuelling is a message for the shop: [what to do if a rental motorbike does not feel normal]({{ '/articles/rental-motorbike-feels-wrong/' | relative_url }}) covers what to check, and [what to do if a rental breaks down]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) covers a bike that stops.
 
