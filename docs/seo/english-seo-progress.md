@@ -732,3 +732,53 @@ Brief: the next Priority A queue items: three Honda/Yamaha comparisons and six l
   - **Parking:** `parking-monthly-renter-hanoi` gives unsourced fee claims.
   - **Still open:** the price decisions in `docs/seo/price-reconciliation.md`; the deposit-return terms for `how-deposit-returns-work-hanoi`.
 - **Status:** 75 of 693 done, 1 REVIEW_REQUIRED, 617 pending.
+
+## 2026-10-27 — SEO Package 2, batch 9 (10 articles, documents, licences, helmets, late return, agreements and theft)
+
+Brief: the next queue items after batch 8 (Priority B rental-terms pages): the document and requirement pages, renting without a licence, helmets, late return (daily and monthly), the licence checklist for long-term riders, the two rental-agreement pages and theft responsibility. Same procedure, full QA, merge on green CI. Held back:
+- the deposit pages (`motorbike-rental-deposit-hanoi`, `motorbike-rental-deposit-monthly-hanoi`; the protected `do-rentals-keep-your-passport-hanoi` ranks for the deposit query, and the deposit-return terms await the owner);
+- the insurance pages (OWNER-FACTS: Nguyen Tu provides no motorbike insurance; owner question first);
+- the early-return cluster, the price pages and the district pages (as before).
+
+- **Articles (original -> final words):**
+
+  | Article | Before | After |
+  |---|---|---|
+  | `documents-needed-rent-motorbike-hanoi` | 343 | 2,235 |
+  | `monthly-motorbike-rental-requirements-hanoi` | 413 | 2,068 |
+  | `renting-a-motorbike-hanoi-without-licence` | 360 | 2,314 |
+  | `do-hanoi-rentals-include-helmets` | 331 | 2,270 |
+  | `late-return-monthly-rental-hanoi` | 358 | 1,838 |
+  | `late-return-rental-motorbike-hanoi` | 351 | 1,982 |
+  | `long-term-rider-licence-checklist-hanoi` | 330 | 2,381 |
+  | `motorbike-rental-agreement-hanoi` | 456 | 2,389 |
+  | `motorbike-rental-agreement-long-term-hanoi` | 403 | 2,186 |
+  | `theft-loss-responsibility-rental-motorbike-hanoi` | 380 | 2,317 |
+  | **Total** | **3,725** | **21,980** |
+
+  Same URLs, slugs and canonicals. No title or H1 changed. Four descriptions changed with a recorded reason (batch notes in `docs/seo/package2-status.json`): documents-needed, without-licence, helmets and theft-loss each stated an unpublished shop rule or an unverified outcome as fact.
+- **Verification:** every article had an independent verifier, a fix round and a delta verification. Typical first-draft failures:
+  - legal paraphrases broader than the text (Civil Code 479(1) and 480; Law 36 Article 80 exceptions; the 2023 insurance decree text stated as current);
+  - sections and tables that restated the prose or a sibling page (situations tables, repeated deposit-settlement questions);
+  - a link that presented the REVIEW_REQUIRED deposit-return page as describing deductions;
+  - pages above the 2,400-word cap after the fix round.
+- **Legal sources (read 2026-10-27, primary texts):** Law 36/2024/QH15 consolidated text 55/VBHN-VPQH; Circular 108/2026/TT-BCA; Civil Code 91/2015/QH13 (vbpl.vn; no amendment found); Decree 67/2023/NĐ-CP (Official Gazette text) and the Decree 220/2026/NĐ-CP record; Decree 238/2026/NĐ-CP; Circular 04/2021/TT-BKHCN (QCVN 2:2021/BKHCN). Writing guide: dead source URLs, the Civil Code frame and the compulsory-insurance scope added.
+- **Business limits:** OWNER-FACTS wording only. Late-return examples are labelled arithmetic on the published 20,000 VND per hour, and the more-than-six-hours day charge is "may". Helmets, ID for the contract, theft and deposit handling are questions to ask. No fine amount, no new price, no weekly or monthly figure.
+- **QA on the exact tree:**
+  - lint 0 errors on all ten (retention 60-100%);
+  - build-report P0 0 / P1 0;
+  - matrix P0 0 · P1 4 · P2 0 · P3 999 (the same four P1 rows);
+  - duplicate check P2 0, no body overlap;
+  - engine tests 98/98;
+  - regression guard PASS;
+  - Jekyll build 1,004 pages;
+  - rendered audit P0/P1 0, max click depth 2, unreachable 0;
+  - Guide Assistant 31/31;
+  - Package 2 gate blocking 0.
+- **Findings for the owner (not edited):**
+  - **Protected ranking pages:** `do-rentals-keep-your-passport-hanoi` says the deposit is "returned in full" at the end of the rental, and `extending-motorbike-rental-hanoi` says the deposit "typically carries across" and states late-return treatment as shop fact. Neither is in OWNER-FACTS; an owner decision is needed before any edit.
+  - **Deposit and insurance claims:** `motorbike-rental-deposit-hanoi`, `how-deposit-returns-work-hanoi` and `early-return-rental-motorbike-hanoi` (cash on the spot, in full, covers theft); `is-insurance-included-motorbike-rental-hanoi` and `compulsory-motorbike-insurance-vietnam` (rentals carry the compulsory cover); `motorbike-travel-insurance-vietnam` ("voids" cover) and `do-you-need-insurance-to-ride-vietnam` ("a typical policy excludes").
+  - **Licence currency:** `foreign-licence-exchange-vietnam`, `foreign-licence-exchange-documents-vietnam`, `expat-motorbike-licence-vietnam`, `idp-vietnam-motorbike-rules`, `idp-validity-period-vietnam`, `which-countries-idp-valid-vietnam`, `can-foreigners-rent-a-motorbike-hanoi`, `ride-125cc-with-car-licence-vietnam`, `motorbike-licence-validity-renewal-vietnam`: Circular 12/2025, a three-month condition, a health certificate for all applicants or "no expiry" for an exchanged licence. Batch 10 (the licence cluster) corrects these as it expands them.
+  - **Helmets:** `helmet-law-vietnam` ("helmets are part of any rental"), `helmet-safety-standards-explained-vietnam` (ECE/DOT treated as equal to QCVN 2:2021/BKHCN), `child-passengers-motorbike-vietnam` (shops stock child helmets).
+  - **Other unsourced claims:** `switching-bikes-mid-rental-hanoi`, `shortening-long-motorbike-rental-hanoi`, `three-month-motorbike-rental-hanoi`, `motorbike-parking-vietnamese-cities` ("lots assume responsibility"), `traffic-at-rush-hour-riding-hanoi` (rush-hour windows).
+- **Status:** 85 of 693 done, 1 REVIEW_REQUIRED, 607 pending.
