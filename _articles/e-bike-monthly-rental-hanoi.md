@@ -17,16 +17,16 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 31(3) (helmet on a pedal-assist bicycle), Article 33(2) (helmets on mopeds and motorcycles), Article 34(1)(g) and (2)(b) (definitions of a moped and of a pedal-assist bicycle), Article 59(1)(a)-(b) (age 16 for a moped, age 18 for class A1) (retrieved 2026-10-27)"
+  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 31(3) (helmet on a pedal-assist bicycle), Article 33(2) (helmets on mopeds and motorcycles), Article 34(1)(g) and (2)(b) (definitions of a moped and of a pedal-assist bicycle), Article 57(1)(a)-(b) (classes A1 and A), Article 59(1)(a)-(b) (age 16 for a moped, age 18 for classes A1 and A) (retrieved 2026-10-27)"
   - "https://www.bocongan.gov.vn/bai-viet/khuyen-cao-nguoi-dan-cac-ky-nang-phong-chong-chay-no-khi-sac-xe-dien-d22-t35817 — Ministry of Public Security, advice to the public on fire and explosion prevention when charging electric vehicles (fire and rescue police, published 25 July 2023) — causes of charging fires and charging precautions (retrieved 2026-10-27)"
-  - "https://moc.gov.vn/Images/FileVanBan/BXD_95-2026-VBHN-TT-BXD_30092026_QCVNvenhachungcu%281%29.pdf — Ministry of Construction, consolidated text of QCVN 04:2021/BXD (national technical regulation on apartment buildings), version of 30 September 2026 — fire-safety requirements for electric-vehicle charging areas inside and outside apartment buildings (retrieved 2026-10-27)"
+  - "https://moc.gov.vn/Images/FileVanBan/BXD_95-2026-VBHN-TT-BXD_30092026_QCVNvenhachungcu%281%29.pdf — Ministry of Construction, consolidated text of QCVN 04:2021/BXD (national technical regulation on apartment buildings), version of 30 September 2026, amendment effective 15 December 2026 (Amendment 01:2026, Circular 31/2026/TT-BXD) — fire-safety requirements for electric-vehicle charging areas inside and outside apartment buildings (retrieved 2026-10-27)"
   - "docs/MODEL-DATABASE.md — verified electric rows (Dat Bike Weaver 200, Yamaha NEO's, Honda ICON e:): manufacturer range figures and their stated test conditions (retrieved 2026-09-24 and 2026-10-15)"
 internal_link_targets: "which-motorbikes-have-monthly-rates-hanoi, motorbike-rental-monthly-price-hanoi, monthly-motorbike-rental-hanoi, best-motorbike-for-commuting-hanoi, electric-motorbike-commuting-hanoi, can-foreigners-rent-electric-bike-vietnam, electric-bike-licence-vietnam, charging-electric-motorbike-apartment-rental, electric-motorbike-range-real-world-vietnam, e-bike-helmet-rules-vietnam"
 ---
 
 Electric bikes suit a particular Hanoi life: short commutes, quiet streets, no fuel stops. Whether they work as a monthly rental depends on what the shop publishes and what it can confirm for you.
 
-A month changes the questions. A day on an electric bike is a trial, while a month is a routine, so settle these points first: which legal class the machine falls into, the licence and age that follow from it, helmets, where and when the bike charges, how far it has to go on a charge, and what to ask the shop before you commit.
+Short answer: no monthly rate is published for electric bikes, so price and availability for a month must be confirmed with Nguyen Tu before you plan around it. A month changes the questions. A day on an electric bike is a trial, while a month is a routine, so settle these points first: which legal class the machine falls into, the licence and age that follow from it, helmets, where and when the bike charges, how far it has to go on a charge, and what to ask the shop before you commit.
 
 ## What is published
 
@@ -51,7 +51,7 @@ Not every routine suits an electric bike for a month. The table runs from the ea
 
 | Your month looks like | An electric rental is | Because |
 |---|---|---|
-| One fixed loop, with a socket where the bike sleeps | Straightforward | the bike charges while it is parked |
+| One fixed loop, with a socket you can use while you are at home | Straightforward | the bike can charge in a daytime window once it has cooled |
 | One fixed loop, but no socket at home or work | Possible with a plan | charging needs a shared or workplace socket, or a swap point if the model supports one |
 | A passenger or a child on most days | Check the class and the load first | load shortens range, and the legal class sets the licence and age |
 | Several unplanned cross-city trips a day | A weak match | a flat battery needs a socket, while a petrol bike needs only a pump |
@@ -68,7 +68,7 @@ Here is the short version from Law 36/2024/QH15; the full classification sits in
 |---|---|---|
 | Pedal-assist electric bicycle (xe dap may, including xe dap dien) | Motor assistance that is cut when the rider stops pedalling or the bike reaches 25 km/h; listed among non-motorised vehicles (Article 34(2)(b)) | No driving licence |
 | Electric moped (xe gan may chay dien) | Designed for no more than 50 km/h, with an electric motor of no more than 4 kW; excludes the pedal-assist bicycle (Article 34(1)(g)) | No driving licence; rider at least 16 (Article 59(1)(a)) |
-| Electric motorcycle | Above those limits: more than 4 kW, or designed for more than 50 km/h | Class A1 up to and including 11 kW, class A above; rider at least 18 for A1 (Article 59(1)(b)) |
+| Electric motorcycle | Above those limits: more than 4 kW, or designed for more than 50 km/h | Class A1 up to and including 11 kW, class A above (Article 57(1)); rider at least 18 for either (Article 59(1)(b)) |
 
 Both conditions in the moped definition must hold, so a machine of 4 kW or less that is designed to go faster than 50 km/h is not a moped. [The kW ladder guide]({{ '/articles/electric-motorbike-power-kw-licence-vietnam/' | relative_url }}) lists models on each side of that line.
 
@@ -106,13 +106,15 @@ That has a planning cost over a month: a daytime window has to exist in your wee
 
 ### What a rental adds
 
-The same advice lists causes that matter more on a borrowed bike: batteries of unknown origin or ones that have been repaired or modified, chargers that do not match the battery, extras such as alarms, horns or brighter lights fitted beyond the manufacturer's design, and overloading. In practice that means using only the charger that comes with the bike, fitting nothing to its wiring, and telling the shop about any swelling or fault instead of trying to repair it. Ask what the rental agreement says if the charger fails or goes missing, and who bears the cost of a damaged battery.
+The same advice lists causes that matter more on a borrowed bike: batteries of unknown origin or ones that have been repaired or modified, chargers that do not match the battery, extras such as alarms, horns or brighter lights fitted beyond the manufacturer's design, and overloading. In practice that means using only a charger that the manufacturer or the shop confirms matches the battery, fitting nothing to its wiring, and telling the shop about any swelling or fault instead of trying to repair it. Ask what the rental agreement says if the charger fails or goes missing, and who bears the cost of a damaged battery.
 
 ### Apartments and shared buildings
 
-If you live in an apartment block, the building has a say. The Ministry of Construction's consolidated text of QCVN 04:2021/BXD, the national technical regulation on apartment buildings (version of 30 September 2026), sets fire-safety requirements for electric-vehicle charging areas. Inside a building, a charging area must be a separate fire compartment with an automatic fire alarm, camera monitoring connected to a control room staffed round the clock, and an automatic extinguishing system. Outside, it must keep the fire-separation distance from neighbouring buildings, never less than 3 m, which can drop to no less than 1 m where a solid non-combustible wall or partition at least 2 m high stands between them.
+If you live in an apartment block, the building has a say. The Ministry of Construction's consolidated text of QCVN 04:2021/BXD, the national technical regulation on apartment buildings (version of 30 September 2026), adds fire-safety requirements for electric-vehicle charging areas through an amendment that takes effect on 15 December 2026. As read, it is mandatory for newly built or rebuilt apartment buildings, so what it means for an older block is a question for its management.
 
-Those are obligations on the building, not on a tenant. For a renter the practical step is to ask the management whether charging is allowed and where, and to keep the answer in writing; [the guide to charging from a rented apartment]({{ '/articles/charging-electric-motorbike-apartment-rental/' | relative_url }}) covers that conversation. If there is no socket you can use, [the guide to where to charge in Hanoi]({{ '/articles/where-to-charge-electric-motorbike-hanoi/' | relative_url }}) lists the other options, such as swap cabinets for models that support them.
+Inside a building, a charging area is to be a separate fire compartment with an automatic fire alarm, camera monitoring connected to a control room staffed round the clock, and an automatic extinguishing system. Outside, it is to keep the fire-separation distance from neighbouring buildings, never less than 3 m, which can drop to no less than 1 m where a solid non-combustible wall or partition at least 2 m high stands between them.
+
+Those are technical requirements for how a building lays out its charging areas, not rules written for a tenant's own socket. For a renter the practical step is to ask the management whether charging is allowed and where, and to note the answer; [the guide to charging from a rented apartment]({{ '/articles/charging-electric-motorbike-apartment-rental/' | relative_url }}) covers that conversation. If there is no socket you can use, [the guide to where to charge in Hanoi]({{ '/articles/where-to-charge-electric-motorbike-hanoi/' | relative_url }}) lists the other options, such as swap cabinets for models that support them.
 
 ## Planning range around a daily routine
 
@@ -130,7 +132,7 @@ The same kind of figure comes with very different conditions, which is why step 
 |---|---|---|
 | Dat Bike Weaver 200 | 200 km, or 130 km | 200 km at 35 km/h; 130 km at 70 km/h |
 | Yamaha NEO's (2026) | Over 60 km | ECO mode at 30 to 35 km/h, with no more than 75 kg of rider and load |
-| Honda ICON e: | About 71 km | The page figure; ECO mode adds about 15% over standard mode |
+| Honda ICON e: | About 71 km | No speed or load stated; ECO mode adds about 15% over standard mode |
 
 ## Rain, heat and battery care
 
@@ -157,7 +159,7 @@ Put these to the shop by message or call before the month starts, and keep the a
 **Papers and money**
 
 - What is the deposit for this bike, and what conditions does it depend on?
-- How will the registration certificate and the compulsory insurance certificate be shown at a stop?
+- If the bike is a registered motor vehicle (a moped or motorcycle), how will its registration certificate and compulsory insurance certificate be shown at a stop?
 - What should the cover you arrange yourself include for an electric bike? [The electric insurance guide]({{ '/articles/do-electric-motorbikes-need-insurance-vietnam/' | relative_url }}) is the place to start.
 
 **Logistics**
@@ -170,11 +172,11 @@ Put these to the shop by message or call before the month starts, and keep the a
 
 ### Do I need a licence for a monthly electric rental?
 
-It depends on the class, not on the word e-bike. A pedal-assist bicycle needs no driving licence. A moped, meaning 4 kW or less and designed for no more than 50 km/h, needs none either, with a minimum age of 16. Anything above those limits needs class A1 or A, and the minimum age for A1 is 18.
+It depends on the class, not on the word e-bike. A pedal-assist bicycle needs no driving licence. A moped, meaning 4 kW or less and designed for no more than 50 km/h, needs none either, with a minimum age of 16. Anything above those limits needs class A1 or A, and the minimum age is 18 for both.
 
 ### Can I charge the bike in my apartment?
 
-Only if the building allows it. The fire police advise charging somewhere dry and airy, away from flammable goods, stopping before you sleep or go out, and never charging overnight or when no adult is at home. Ask the management in writing.
+Only if the building allows it, and the fire-police advice above applies. Ask the management in writing.
 
 ### What does a monthly electric rental cost?
 
