@@ -19,12 +19,13 @@ sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
   - "https://www.honda.com.vn/xe-may/san-pham/vision — Honda Vietnam Vision product page — kerb weight, dimensions, seat height, ground clearance, tank, tyres, suspension, engine, claimed consumption, idling stop, front compartment with USB-C port, Smart Key, always-on headlight, 16-inch front wheel, suggested retail price shown (retrieved 2026-10-27)"
   - "https://yamaha-motor.com.vn/xe-may/gear-125 (product page returned not found on 27 October 2026; prices read from the site's header menu) — Yamaha Motor Vietnam site, product menu — GEAR 125 Hybrid and Janus 125 list-price starting points (retrieved 2026-10-27)"
+  - "https://ngaynay.vn/xe/yamaha-motor-viet-nam-chinh-thuc-gioi-thieu-yamaha-gear-125-hybrid-hoan-toan-moi-xe-ga-da-dung-voi-dong-co-blue-core-hybrid-dot-pha-phan-khuc-xe-tay-ga-pho-thong-post171207.html — Yamaha Motor Vietnam GEAR 125 Hybrid launch release as published by Ngay Nay (11 April 2026), features and launch prices by version (read 2026-10-27)"
 internal_link_targets: yamaha-gear-125-hybrid-review, honda-vision-110-review, honda-vision-vs-yamaha-janus, yamaha-gear-125-vs-yamaha-janus-125, 16-inch-wheel-scooters-vietnam, most-fuel-efficient-scooters-vietnam-verified, motorbike-rental-price-hanoi, scooter-underseat-storage-comparison, scooters-with-smart-keys-vietnam-verified
 ---
 
-The Honda Vision is Vietnam's default city scooter; the Yamaha Gear 125 Hybrid is the newest challenger with an electric-assist engine. Short answer on Yamaha Gear 125 vs Honda Vision: choose the Vision for the 16-inch front wheel, 175 mm ground clearance and idling stop; choose the Gear 125 Hybrid for the lower 750 mm seat, the hybrid assist and a lower starting list price. The two makers' economy claims are close and not like-for-like.
+The Honda Vision is Vietnam's default city scooter; the Yamaha Gear 125 Hybrid is the newest challenger with an electric-assist engine. Short answer on Yamaha Gear 125 vs Honda Vision: choose the Vision for the 16-inch front wheel and 175 mm ground clearance; choose the Gear 125 Hybrid for the lower 750 mm seat, the hybrid assist and a lower starting list price. The two makers' economy claims are close and not like-for-like. Idling stop does not split them: Honda lists it for the Vision and Yamaha's launch release for the Gear's Premium version.
 
-Both sit near the bottom of their brands' ranges, and both publish low economy figures. All data from official Honda and Yamaha Vietnam pages (retrieved 23 September 2026; Honda Vision page and Yamaha menu re-read 27 October 2026); the rental facts are Nguyen Tu's own.
+Both sit near the bottom of their brands' ranges, and both publish low economy figures. All data from official Honda and Yamaha Vietnam pages (retrieved 23 September 2026; Honda Vision page and Yamaha menu re-read 27 October 2026) and Yamaha's launch release (read 27 October 2026); the rental facts are Nguyen Tu's own.
 
 Yamaha's site menu lists the Janus 125 from 29,151,000 VND, below the Gear's 30,437,000 VND (see the [Gear 125 vs Janus 125 comparison]({{ '/articles/yamaha-gear-125-vs-yamaha-janus-125/' | relative_url }})). The Honda Vision page matched the earlier reading; the Gear figures below stay as recorded on 23 September 2026.
 
@@ -53,13 +54,15 @@ The Honda column comes from Honda Vietnam's Vision page. The Yamaha column comes
 | Wheelbase | 1,277 mm | 1,280 mm |
 | Ground clearance | 175 mm | 135 mm |
 | Tyres | 80/90-16 front, 90/90-14 rear | 110/70-12 tubeless (one size recorded) |
-| Brakes | not published on the page text read | front disc, rear drum, UBS |
+| Brakes | not published on the page text read | front disc, rear drum, UBS on the Premium version |
 | Underseat storage | large, litres not published | 17.4 L |
-| Idling stop | yes, after more than 3 seconds stopped | not recorded |
-| Smart key | yes | yes (SmartKey) |
+| Idling stop | yes, after more than 3 seconds stopped | Stop & Start System on the Premium (DX) version per Yamaha's launch release; delay not recorded |
+| Smart key | yes | yes (SmartKey; Premium version) |
 | Maximum payload | not published on the page text read | 157 kg |
 
 Power and torque are single peak values at one engine speed, and real consumption varies with speed, load and traffic.
+
+Yamaha's launch release says the Smart Key, UBS, Y-On phone connection and Stop & Start System are fitted to the Premium (DX) version only, listed at launch at 34,364,000 VND against 30,437,000 VND for the Standard, so ask which Gear version you are looking at.
 
 ## Engine and assist
 
@@ -67,15 +70,11 @@ Vision: 109.5 cc air-cooled eSP, 6.59 kW at 7,500 rpm, 9.29 Nm at 6,000 rpm. Gea
 
 By subtraction on the published peaks, the Vision is 0.39 kW higher on power and the Gear is 1.31 Nm higher on torque. That is arithmetic, not a manufacturer claim and not an acceleration test: the figures we hold for either scooter include no 0-50 km/h time and no top speed, so "feels stronger" is a reading of the torque curve and the assist, not a stopwatch result.
 
-### Cooling
-
-Both engines are air-cooled, so neither scooter has a coolant circuit to inspect, unlike liquid-cooled scooters; neither maker's figures say how that copes with a Hanoi summer, so air cooling here is a servicing difference rather than a performance claim.
-
 ### Assist and idling stop
 
-The two makers add different things. Yamaha's assist is a smart motor generator that helps for up to three seconds after launch. Honda lists an ACG starter and an idling-stop system: the engine switches off once the scooter has been stopped for more than 3 seconds and restarts when you twist the throttle, which Honda says reduces noise and saves fuel.
+The two makers lead with different things. Yamaha's assist is a smart motor generator that helps for up to three seconds after launch. Honda lists an ACG starter and an idling-stop system: the engine switches off once the scooter has been stopped for more than 3 seconds and restarts when you twist the throttle, which Honda says reduces noise and saves fuel.
 
-The two "three seconds" are unrelated: one is how long the Gear's assist lasts after launch, the other how long the Vision must stand still before its engine stops. The Gear records we hold do not mention idling stop, and Honda's page does not say whether the Vision's can be switched off, so ask about both.
+The two "three seconds" are unrelated: one is how long the Gear's assist lasts after launch, the other how long the Vision must stand still before its engine stops. The Gear records we hold did not mention idling stop, but Yamaha's launch release lists a Stop & Start System for the Premium version, and Honda's page does not say whether the Vision's can be switched off, so ask about both.
 
 ## Fuel economy
 
@@ -83,7 +82,7 @@ Gear: 1.7 L/100 km published - the best figure in our verified table. Vision: 1.
 
 The gap is 0.12 L/100 km between two manufacturers' own claims. Honda's Vision page states no test condition beside its figure and we hold none for Yamaha's, so the pair is not a like-for-like measurement, and a difference this small is not a reason to choose either scooter.
 
-Tank-to-tank arithmetic gives 300 km for the Gear (5.1 L at 1.7 L/100 km) and about 264 km for the Vision (4.8 L at 1.82 L/100 km). Those are our sums on each maker's figure, not ranges either manufacturer claims, and they carry the same caveat. The Vision's idling stop is the other lever: Honda says it saves fuel but gives no figure.
+Tank-to-tank arithmetic gives 300 km for the Gear (5.1 L at 1.7 L/100 km) and about 264 km for the Vision (4.8 L at 1.82 L/100 km). Those are our sums on each maker's figure, not ranges either manufacturer claims, and they carry the same caveat. Idling stop is the other lever: Honda says the Vision's saves fuel but gives no figure, and Yamaha lists one on the Gear Premium version without a figure.
 
 ## Wheels - the Vision's trump card
 
@@ -95,25 +94,25 @@ Neither maker publishes a turning radius or a pothole test, so read those two se
 
 Gear: 96 kg, seat 750 mm, long flat seat. Vision: 97 kg, seat 785 mm. Nearly tied on weight; the Gear's seat is 35 mm lower, which shorter riders notice (our seat-height table).
 
-Other scooters are in the [seat-height comparison]({{ '/articles/scooter-seat-heights-comparison-vietnam/' | relative_url }}) and the [verified kerb-weight table]({{ '/articles/scooter-kerb-weights-vietnam-verified/' | relative_url }}). A 1 kg gap is not a reason to choose either scooter.
+Other scooters are in the [seat-height comparison]({{ '/articles/scooter-seat-heights-comparison-vietnam/' | relative_url }}) and the [verified kerb-weight table]({{ '/articles/scooter-kerb-weights-vietnam-verified/' | relative_url }}).
 
 ### Dimensions, clearance and payload
 
-By subtraction, the Vision is 75 mm longer, 1 mm wider and 51 mm taller than the Gear, with a wheelbase 3 mm shorter. Ground clearance is the bigger practical gap: 175 mm against 135 mm, 40 mm of extra clearance that may matter over raised kerbs, ramps into courtyards and patched road edges.
+Ground clearance is the practical gap between them: 175 mm against 135 mm, 40 mm of extra clearance that may matter over raised kerbs, ramps into courtyards and patched road edges.
 
 Yamaha publishes a 157 kg payload for the Gear, a limit on everything carried. The Vision page text read gives none and links an owner's manual and a catalogue, so check those before loading a passenger and luggage.
 
 ## Storage and equipment
 
-Gear: 17.4-litre bay, front pocket, USB port, SmartKey, LCD with phone alerts. Vision: an underseat bay that Honda calls large but gives no litre figure for, a covered front compartment with a USB-C port, LCD meter, Smart Key. Neither is better equipped across the board, and neither maker publishes resale values, so this page makes no claim about them.
+Gear: 17.4-litre bay, front pocket, USB port, SmartKey, LCD with phone alerts (the last two on the Premium version). Vision: an underseat bay that Honda calls large but gives no litre figure for, a covered front compartment with a USB-C port, LCD meter, Smart Key. Neither is better equipped across the board, and neither maker publishes resale values, so this page makes no claim about them.
 
-The Vision page adds idling stop, an always-on headlight and a meter showing distance and fuel level; the Gear records add the hybrid assist and a display with call and message alerts. Honda says its Smart Key locates the scooter and unlocks it remotely, and our [smart-key scooter table]({{ '/articles/scooters-with-smart-keys-vietnam-verified/' | relative_url }}) covers other models.
+The Vision page lists idling stop, an always-on headlight and a meter showing distance and fuel level; the Gear records add the hybrid assist. Honda says its Smart Key locates the scooter and unlocks it remotely, and our [smart-key scooter table]({{ '/articles/scooters-with-smart-keys-vietnam-verified/' | relative_url }}) covers other models.
 
 Underseat space is where the comparison is thin: the Gear has a litre figure and the Vision has only Honda's wording that the bay holds a helmet and personal items, so bring your own helmet and try it. The [underseat storage comparison]({{ '/articles/scooter-underseat-storage-comparison/' | relative_url }}) lists other bays in litres, and equipment varies by version and model year, so confirm each feature on the actual bike.
 
 ## Brakes and suspension
 
-Yamaha records the Gear with a front disc, a rear drum and UBS, which our [Gear 125 Hybrid review]({{ '/articles/yamaha-gear-125-hybrid-review/' | relative_url }}) describes as a combined system sharing braking force between the wheels. Neither scooter's record lists ABS. Honda's Vision page, as read, names no brake type, so nothing is claimed here about the Vision's brakes: look at the front wheel and ask.
+Yamaha records the Gear with a front disc, a rear drum and UBS (Premium version), which our [Gear 125 Hybrid review]({{ '/articles/yamaha-gear-125-hybrid-review/' | relative_url }}) describes as a combined system sharing braking force between the wheels. Neither scooter's record lists ABS. Honda's Vision page, as read, names no brake type, so nothing is claimed here about the Vision's brakes: look at the front wheel and ask.
 
 For suspension, Honda lists a telescopic fork and a single coil-spring rear damper for the Vision; we hold no suspension figures for the Gear.
 
@@ -121,11 +120,11 @@ For suspension, Honda lists a telescopic fork and a single coil-spring rear damp
 
 ### Stop-start traffic and parking
 
-Main roads mix queues at junctions with short bursts of speed, and the Vision's idling stop is the one feature aimed at waiting. If your route ends in a tight parking row where you pull the scooter back by hand, the near-equal weights cancel out, and the Gear's lower seat helps a shorter rider at a stop. The Vision's 175 mm clearance helps when the spot sits behind a raised kerb.
+Main roads mix queues at junctions with short bursts of speed, and idling stop, which Honda lists for the Vision and Yamaha for the Gear Premium version, is the feature aimed at waiting. If your route ends in a tight parking row where you pull the scooter back by hand, the near-equal weights cancel out, and the Gear's lower seat helps a shorter rider at a stop.
 
 ### Rain
 
-Neither maker publishes wet-grip or wading-depth data. The Gear's UBS and recorded tubeless tyres, and the Vision's bigger front wheel, higher clearance and always-on headlight, are facts to weigh, not a ranking.
+Neither maker publishes wet-grip or wading-depth data. The Gear Premium version's UBS and recorded tubeless tyres, and the Vision's bigger front wheel, higher clearance and always-on headlight, are facts to weigh, not a ranking.
 
 ### Hills, bridges and a passenger
 
@@ -147,12 +146,12 @@ The table is ordered by rider need, not by merit; each row names the figure behi
 | Raised kerbs and patched edges | Vision | 175 mm against 135 mm clearance |
 | Larger front wheel | Vision | 80/90-16 against 110/70-12 |
 | Assist when pulling away | Gear | up to 3 s hybrid assist, 10.6 Nm at 4,500 rpm |
-| Engine off while waiting | Vision | idling stop after more than 3 seconds |
+| Engine off while waiting | Either; ask which version | Vision: idling stop after more than 3 seconds; Gear: Premium version only |
 | Lower list price | Gear | 30,437,000 VND starting price |
 | Published payload for planning | Gear | 157 kg; Vision not published |
 | Renting with a published rate | Vision | a day rate Nguyen Tu publishes |
 
-Where three or four rows fit how you ride, that scooter is the sensible pick; where the rows split, try sitting on each. Picture a shorter rider whose daily parking is a narrow lane: the lower seat may outweigh every other row, while for someone who often crosses raised kerbs the clearance row may decide it.
+Where three or four rows fit how you ride, that scooter is the sensible pick; where the rows split, try sitting on each.
 
 ## Renting the Vision, and the Gear question
 
@@ -168,7 +167,7 @@ Use the [rental inspection checklist]({{ '/articles/rental-motorbike-inspection-
 
 ## Verdict
 
-Vision for the 16-inch ride, idling stop and Honda's own "national scooter" billing; Gear for the lower seat, hybrid assist and a lower starting price at entry money. Renters: the Vision is price-published at Nguyen Tu (200,000 VND/day; 800,000-1,000,000 VND/week; 1,800,000-2,000,000 VND/month); the Gear is not - contact us to confirm current availability.
+Vision for the 16-inch ride, 175 mm of clearance and Honda's own "national scooter" billing; Gear for the lower seat, hybrid assist and a lower starting price at entry money. Renters: the Vision is price-published at Nguyen Tu (200,000 VND/day; 800,000-1,000,000 VND/week; 1,800,000-2,000,000 VND/month); the Gear is not - contact us to confirm current availability.
 
 ## Common questions
 
