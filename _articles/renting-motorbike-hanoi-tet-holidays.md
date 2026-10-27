@@ -22,7 +22,7 @@ sources:
 internal_link_targets: how-to-book-a-motorbike-rental-hanoi, motorbike-rental-pickup-or-delivery-hanoi, how-to-rent-a-motorbike-hanoi, motorbike-rental-agreement-hanoi, tet-holiday-motorbike-travel-vietnam, riding-during-tet-traffic-safety, monthly-rental-through-tet-hanoi, early-return-rental-motorbike-hanoi
 ---
 
-Tet, the Vietnamese New Year (late January or February), reshapes Hanoi for about a week — and it affects motorbike rentals more than any other week of the year. You can rent a bike around Tet, but confirm the dates instead of assuming them: the 2027 break for civil servants runs from 4 to 10 February, and Nguyen Tu's holiday arrangements are not published. Book early, then agree pickup, extension and return in writing.
+In general, Tet, the Vietnamese New Year (late January or February), reshapes Hanoi for about a week — and it affects motorbike rentals more than any other week of the year. Whether you can rent around Tet depends on the shop's days, so confirm the dates instead of assuming them: the 2027 break for civil servants runs from 4 to 10 February, but confirm Nguyen Tu's holiday arrangements directly with the shop. Book early, then agree pickup, extension and return in writing.
 
 ## When the holidays fall
 
@@ -41,15 +41,15 @@ Tet is the longest of these, with five paid days against one or two for each of 
 
 ### Tet 2027
 
-The Ministry of Home Affairs issued Notice No. 11483/TB-BNV on 9 October 2026, and the Government Portal's newspaper reported it on 22 October 2026. For civil servants and public employees the Tet 2027 rest is seven days in a row: Thursday 4 February 2027 (the 28th day of the last lunar month of the year Binh Ngo) to Wednesday 10 February 2027 (the fifth day of the first month of the year Dinh Mui). That is the five Tet days plus two days off in lieu of weekly rest days. Counting from those two dates, the first day of the new lunar year falls on Saturday 6 February 2027.
+The Ministry of Home Affairs issued Notice No. 11483/TB-BNV on 9 October 2026, and the Government Portal's newspaper reported it on 22 October 2026. For civil servants and public employees the Tet 2027 rest is seven days in a row: Thursday 4 February 2027 (the 28th day of the last lunar month of the year Binh Ngo) to Wednesday 10 February 2027 (the fifth day of the first month of the year Dinh Mui). That is the five Tet days plus two days off in lieu of weekly rest days. Counting from those two dates, the first day of the new lunar year falls on Saturday 6 February 2027. These figures are as reported by the Government Portal; the notice text itself was not read.
 
-Employees outside the public sector are treated differently. Their employer chooses one of three five-day patterns (one day at the end of the old year and four at the start of the new one, two and three, or three and two) and must tell staff at least 30 days ahead. The Ministry encourages employers to copy the civil-service schedule, but that is encouragement, not an order.
+Employees outside the public sector are treated differently, according to the same report. Their employer chooses one of three five-day patterns (one day at the end of the old year and four at the start of the new one, two and three, or three and two) and must tell staff at least 30 days ahead. As the Government Portal reports it, the Ministry encourages employers to copy the civil-service schedule, but that is encouragement, not an order.
 
-For a renter, 4 to 10 February tells you when public offices close. It does not say when a particular shop will open or close, and Nguyen Tu has not published its holiday arrangements, so the shop is the only source. For any other year the government announces the exact days, so check the announcement instead of working the dates out.
+For a renter, 4 to 10 February tells you when public offices close. It does not say when a particular shop will open or close, so confirm Nguyen Tu's holiday arrangements directly with the shop, which is the only source. For any other year the government announces the exact days, so check the announcement instead of working the dates out.
 
 ## Shops close or run thin
 
-Tet is the period when shops of every kind may close, and rental shops are no exception; some may shut for several days while owners return to their home provinces. Around the holiday, staffing is thin even when a shop is nominally open. How thin varies from shop to shop. Opening hours you see on a shop's page are normal-day hours; during Tet, they may not apply. Confirm opening and return arrangements explicitly for the exact dates of your rental, and expect a firm answer only from the shop itself. Nguyen Tu's normal hours are 09:00–21:00 daily; holiday-period arrangements should be confirmed directly by phone or message.
+Tet is the period when shops of every kind may close, and rental shops are no exception; some may shut for several days while owners return to their home provinces. In general, around the holiday, staffing is thin even when a shop is nominally open. How thin varies from shop to shop. Opening hours you see on a shop's page are normal-day hours; during Tet, they may not apply. Confirm opening and return arrangements explicitly for the exact dates of your rental, and expect a firm answer only from the shop itself. Nguyen Tu's normal hours are 09:00–21:00 daily; holiday-period arrangements should be confirmed directly by phone or message.
 
 When you ask, separate three cases, because each needs a different plan.
 
@@ -61,7 +61,7 @@ When you ask, separate three cases, because each needs a different plan.
 
 If you want a bike across the Tet week, book early — see [How to Book a Motorbike Rental in Hanoi (WhatsApp, Zalo, Walk-In)]({{ '/articles/how-to-book-a-motorbike-rental-hanoi/' | relative_url }}) for the booking basics, and during Tet add two habits: confirm the pickup time in a message the day before, and confirm the return arrangement in the same message. A shop that closes for five days needs to know whether your return date falls inside the closure, and so do you.
 
-The Ministry's notice asks employers to announce their Tet plan at least 30 days before the break, so ask well before then and ask again once the shop has announced its days. Phone, WhatsApp and Zalo all reach the shop on +84 942 467 674, and a written reply is easier to find again than a phone call.
+As the Government Portal reports it, the Ministry's notice asks employers to tell staff their Tet plan at least 30 days before the break; that is a message to staff, not to renters, so ask the shop directly rather than waiting for an announcement. Phone, WhatsApp and Zalo all reach the shop on +84 942 467 674, and a written reply is easier to find again than a phone call.
 
 One message can carry everything the shop needs to answer:
 
@@ -87,7 +87,7 @@ A holiday plan can change: a trip is lengthened or a flight moves. Ask for extra
 
 The published late-return charge is 20,000 VND per hour, and a return more than 6 hours late may be charged a full additional rental day, typically 150,000–200,000 VND depending on the motorcycle. Those terms say nothing about a shop that is closed when your rental ends, so ask whether the charge runs while the shop is shut, where and when the bike goes back, and how the deposit is settled.
 
-Handing the bike back before the break is another option, but early return carries no automatic refund entitlement for unused days, as [early returns and refunds]({{ '/articles/early-return-rental-motorbike-hanoi/' | relative_url }}) explains. Put whatever you agree where it can be found again; [what a Hanoi rental agreement covers]({{ '/articles/motorbike-rental-agreement-hanoi/' | relative_url }}) lists the terms worth checking.
+You could ask whether handing the bike back before the break is possible; early return carries no automatic refund entitlement for unused time, as [early returns and refunds]({{ '/articles/early-return-rental-motorbike-hanoi/' | relative_url }}) explains. Put whatever you agree where it can be found again; [what a Hanoi rental agreement covers]({{ '/articles/motorbike-rental-agreement-hanoi/' | relative_url }}) lists the terms worth checking.
 
 ### Trips beyond Hanoi
 
@@ -95,7 +95,7 @@ Support is primarily for Hanoi and local use, so a holiday trip out of the city 
 
 ## The city changes character
 
-Hanoi can feel much quieter during Tet as people who work in the city travel to their home provinces. Traffic that is normally dense can become light, and for a rider that can make it one of the calmer times to explore the city — but with caveats. Street food and small services close for the first days. Which ones close, and for how long, varies by street and by business, so check before you build a day around one stall or service. Parking areas at temples and pagodas can be crowded, because visiting shrines is a common Tet activity.
+Hanoi can feel much quieter during Tet as people who work in the city travel to their home provinces. Traffic that is normally dense can become light, and for a rider that can make it one of the calmer times to explore the city — but with caveats. In some places, street food and small services close for the first days. Which ones close, and for how long, varies by street and by business, so check before you build a day around one stall or service. Parking areas at temples and pagodas can be crowded, because visiting shrines is a common Tet activity.
 
 ### Holiday traffic waves
 
@@ -111,7 +111,7 @@ Tet falls in Hanoi's cool season, so pack for cold mornings, and [renting a moto
 
 ## Prices and terms
 
-Never assume holiday pricing either way: ask what the rate for your exact dates is when booking, agree it in the reservation, and treat the agreed number as the whole truth. Deposit and late-return terms still apply — see [Motorbike Rental Deposits in Hanoi: Typical Amounts and Return]({{ '/articles/motorbike-rental-deposit-hanoi/' | relative_url }}) and [What Happens If You Return a Rental Motorbike Late in Hanoi]({{ '/articles/late-return-rental-motorbike-hanoi/' | relative_url }}) — and if your return date might slip past the shop's closure, agree in advance what happens instead of discovering it on the day. Because shops close, mid-holiday breakdowns can be slower to resolve; ride gently and read [What Happens If a Rental Motorbike Breaks Down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) before setting out.
+Never assume holiday pricing either way: ask what the rate for your exact dates is when booking, agree it in the reservation, and treat the agreed number as the whole truth. Deposit and late-return terms still apply — see [Motorbike Rental Deposits in Hanoi: Typical Amounts and Return]({{ '/articles/motorbike-rental-deposit-hanoi/' | relative_url }}) and [What Happens If You Return a Rental Motorbike Late in Hanoi]({{ '/articles/late-return-rental-motorbike-hanoi/' | relative_url }}). Because shops close, mid-holiday breakdowns can be slower to resolve; ride gently and read [What Happens If a Rental Motorbike Breaks Down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) before setting out.
 
 For reference, the [published daily rental rates]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) are 150,000 VND for the Honda Wave, Yamaha Sirius, Honda Click and Yamaha Mio and 200,000 VND for the Honda Vision and Honda Air Blade, and the deposit is typically 2,000,000–5,000,000 VND depending on the vehicle and conditions. Neither figure tells you the rate for Tet dates, so keep that question in the booking message.
 
@@ -119,7 +119,7 @@ For reference, the [published daily rental rates]({{ '/articles/motorbike-rental
 
 Victory Day on 30 April, which is also called Reunification Day, International Labour Day on 1 May and National Day on 2 September can each bring a longer weekend and busier roads, depending on how the calendar and the government's announcement fall: not closures on the Tet scale, but a reason to check dates early. Booking ahead is wise for those long weekends too.
 
-National Day 2027 shows how a short holiday can stretch. Civil servants rest four days in a row, from Thursday 2 September to Sunday 5 September 2027: the two National Day days (2 and 3 September) plus a weekend. Employers choose two days, 2 September plus either 1 or 3 September, and are encouraged to follow the civil-service pattern.
+National Day 2027 shows how a short holiday can stretch. According to the same report, civil servants rest four days in a row, from Thursday 2 September to Sunday 5 September 2027: the two National Day days (2 and 3 September) plus a weekend. Employers choose two days, 2 September plus either 1 or 3 September, and are encouraged to follow the civil-service pattern.
 
 The Hung Kings' date moves every year because it follows the lunar calendar, and the list itself can change: the same report gives Vietnam Culture Day, 24 November, as a one-day rest for civil servants in 2026.
 
@@ -129,11 +129,11 @@ A monthly rental that runs through Tet raises other questions, such as renewal d
 
 ### When is Tet in 2027?
 
-Civil servants rest from Thursday 4 to Wednesday 10 February 2027, and the Ministry's own date mapping puts the first day of the new lunar year on Saturday 6 February. A private employer may choose a different five-day pattern, so a shop's days can differ from these.
+Civil servants rest from Thursday 4 to Wednesday 10 February 2027, and counting from the notice's two dates as reported, the first day of the new lunar year falls on Saturday 6 February. A private employer may choose a different five-day pattern, so a shop's days can differ from these.
 
 ### What if my rental ends while the shop is closed?
 
-The published terms do not cover that case, so agree it before you ride: where the bike goes back, when, and whether the late-return charge runs while the shop is shut.
+The published terms do not cover that case, so settle it before you ride; the Return section above lists what to ask.
 
 ## The short version
 
