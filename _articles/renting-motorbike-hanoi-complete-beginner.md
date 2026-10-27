@@ -85,11 +85,11 @@ Put these to the shop by message or call. [The booking guide]({{ '/articles/how-
 - What is the deposit for that bike, and what conditions does it depend on?
 - What does the agreement say about damage after a tip-over or a fall?
 
-A one-day first rental limits what a change of mind costs. The published day rate is 150,000 VND for a Honda Click or Yamaha Mio and 200,000 VND for a Honda Vision, plus the deposit; contact us to confirm current availability of either. Early return carries no automatic refund for unused time, which is the main reason not to start with a week. Do not plan to learn at the counter.
+A one-day first rental limits what a change of mind costs. The published day rate is 150,000 VND for a Honda Click or Yamaha Mio and 200,000 VND for a Honda Vision, plus the deposit; contact us to confirm current availability of any of them. Early return carries no automatic refund for unused time, which is the main reason not to start with a week. Do not plan to learn at the counter.
 
 ### Papers and insurance
 
-Nguyen Tu does not provide motorbike insurance, so you arrange your own. Read your travel or medical policy for motorbike exclusions and for the licence it expects: a policy can set conditions that a beginner without a valid licence has not met.
+Nguyen Tu does not provide motorbike insurance, so you arrange your own. Check your travel or medical policy for any motorbike exclusion and for the licence it expects: a policy can set conditions that a beginner without a valid licence has not met.
 
 Article 56(1) of Law 36/2024/QH15 is a duty to carry papers, so ask at handover how the registration certificate and the compulsory insurance certificate will be shown at a stop, and keep your own licence on you in the original, with the IDP if you ride on one.
 
@@ -129,7 +129,7 @@ A low-commitment first step is [renting for just one day]({{ '/articles/renting-
 
 ### Can I learn to ride on a rented scooter in Hanoi?
 
-Only with a licence valid in Vietnam for that scooter's class, since a rental agreement does not make anyone legal to ride. The licence and moped sections above set out the other options, and practising away from traffic comes before the first street ride in every case.
+Above the moped class, only with a licence valid in Vietnam for that scooter's class, since a rental agreement does not make anyone legal to ride. The licence-free moped class in the moped section above is the other route, and practising away from traffic comes before the first street ride in every case.
 
 ### Can a friend teach me on their bike?
 

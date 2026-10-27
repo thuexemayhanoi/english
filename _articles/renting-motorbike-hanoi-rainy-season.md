@@ -25,7 +25,7 @@ sources:
 internal_link_targets: riding-rental-motorbike-hanoi-rain, best-motorbike-for-commuting-hanoi, what-to-carry-riding-motorbike-vietnam, motorbike-rental-agreement-hanoi, do-hanoi-rentals-include-helmets, hanoi-riding-seasons-guide, motorbike-maintenance-rainy-season, check-motorbike-after-heavy-rain
 ---
 
-Hanoi's rainy season runs roughly May to October, with the heaviest, most predictable bursts from June to August, in the sense of the highest monthly totals in the table below (individual days are not predictable). Renting through it is completely normal — the whole city rides through it daily — but it changes how you plan. Read "daily" loosely, since the same table shows rain on 10 to 18 days a month from May to October, and life goes on.
+Hanoi's rainy season runs roughly May to October, with the heaviest, most predictable bursts from June to August: those months have the highest totals in the table below, though it says nothing about which days will be wet. Renting through it is completely normal — the whole city rides through it daily — but it changes how you plan. The same table shows rain on 10 to 18 days a month from May to October, so "daily" describes the city's routine, not rain every day.
 
 The changes are practical ones: gear that stays dry, a bike whose storage and brakes suit wet roads, a handover that looks at lights and seals, and a plan for a bike that comes back rained on.
 
@@ -63,7 +63,7 @@ Nguyen Tu does not provide motorbike insurance, so renters arrange their own: re
 Nothing in the terms Nguyen Tu publishes mentions rain gear, so do not assume the rental includes any; ask at handover and plan to bring your own.
 
 - A rain suit or poncho worn over normal clothes keeps the rider dry; buy or pack it before the first storm instead of shopping for one in the middle of it
-- Keep it within reach: under the seat on a scooter, in a bag on an underbone. What to carry and where is covered in [What to Carry While Riding a Motorbike in Vietnam]({{ '/articles/what-to-carry-riding-motorbike-vietnam/' | relative_url }})
+- Keep it within reach: under the seat if it fits, otherwise in a bag. What to carry and where is covered in [What to Carry While Riding a Motorbike in Vietnam]({{ '/articles/what-to-carry-riding-motorbike-vietnam/' | relative_url }})
 - If the bike has a USB socket, keep its cover shut: Honda's Vision manual says not to use the socket in wet conditions
 - A clear-visored helmet beats sunglasses in a downpour. Ask at handover which helmet comes with the rental and whether its visor is clear; [Do Hanoi Rentals Include Helmets?]({{ '/articles/do-hanoi-rentals-include-helmets/' | relative_url }}) has the wider helmet picture
 - Closed shoes keep spray off the feet, and a second pair for the next morning helps
@@ -72,7 +72,7 @@ Nothing in the terms Nguyen Tu publishes mentions rain gear, so do not assume th
 
 Wet roads put two questions to the bike: where dry things go, and how it stops.
 
-On storage, Honda lists 23.2 L under the seat of the Air Blade 125 but publishes no litre figure for the Wave Alpha 110's under-seat box (its manual shows a small box and a document pouch there, and advises against leaving valuable or fragile items in it), and none is published for the Sirius RC 110, so an underbone rider should plan on a bag. Honda's Vision manual, in its washing notes, warns that water in the under-seat storage can damage documents or other items, so keep phone and papers in a sealed pouch even under the seat.
+On storage, Honda lists 23.2 L under the seat of the Air Blade 125 but publishes no litre figure for the Wave Alpha 110's storage box (its manual also describes a document pouch in a compartment under the seat, and says not to leave valuable or fragile items in the box), and none is published for the Sirius RC 110, so an underbone rider should plan on a bag. Honda's Vision manual, in its washing notes, warns that water in the under-seat storage can damage documents or other items, so keep phone and papers in a sealed pouch even under the seat.
 
 On stopping, the Wave Alpha and Vision manuals say the same thing: wet roads are very slippery and damp brakes work less effectively, so take special care when braking, and if the brakes are wet, apply them at low speed while riding to dry them. Neither singles out one brake type. The Wave Alpha page lists no disc version, while Yamaha lists the Sirius RC with a front hydraulic disc and a rear drum. Do not assume ABS on any rental: ask what braking the exact bike has, and leave extra stopping distance whichever it is.
 
@@ -129,4 +129,4 @@ Nguyen Tu's maintenance may include an oil change, chain adjustment or tension, 
 
 ## The honest trade-off
 
-The rainy season is also when Hanoi is greenest and its day trips are at their best — the Perfume Pagoda road and Ba Vi in particular — on a clear day, and that is a matter of taste rather than measurement, so choose by the day's forecast and the flood and storm-warning advice above. Renting in this season is not a worse experience, just a scheduled one: mornings out, afternoons flexible, rain gear always under the seat on a scooter or in a bag on an underbone, with the forecast deciding how far that plan holds. The seasonal counterpart, riding through the northern winter, is covered in [Renting a Motorbike in Hanoi in Winter]({{ '/articles/renting-motorbike-hanoi-winter/' | relative_url }}).
+The rainy season is also when Hanoi is greenest and its day trips are at their best — the Perfume Pagoda road and Ba Vi in particular. That is a matter of taste rather than measurement, so choose each trip by the day's forecast and the flood and storm-warning advice above. Renting in this season is not a worse experience, just a scheduled one: mornings out, afternoons flexible, rain gear always under the seat or in a bag, with the forecast deciding how far that plan holds. The seasonal counterpart, riding through the northern winter, is covered in [Renting a Motorbike in Hanoi in Winter]({{ '/articles/renting-motorbike-hanoi-winter/' | relative_url }}).
