@@ -46,7 +46,7 @@ Renting for two people can mean one bike with a passenger or two bikes with a ri
 | A short city day with little luggage | One bike | One bike to check at handover and one to park |
 | You want to split up for part of the trip | Two bikes | Neither of you is tied to the other's plans |
 
-Cost is the other half of the choice. The published daily rate is 150,000 VND for the Honda Wave, Yamaha Sirius, Honda Click and Yamaha Mio, and 200,000 VND for the Honda Vision and Honda Air Blade, so ask what two bikes cost for your dates. Contact us to confirm current availability of any model for your dates.
+Cost is the other half of the choice. The published daily rate is 150,000 VND for the Honda Wave, Yamaha Sirius, Honda Click and Yamaha Mio, and 200,000 VND for the Honda Vision and Honda Air Blade, so ask what two bikes cost for the days you need. Contact us to confirm current availability of any model for your dates.
 
 Two bikes also change what you ask at the counter: whether the deposit applies to each bike, and who is named on each agreement. [Renting Two Motorbikes for a Household in Hanoi]({{ '/articles/two-motorbikes-household-hanoi/' | relative_url }}) looks at renting two bikes at once, and [the guide to a first rental as a complete beginner]({{ '/articles/renting-motorbike-hanoi-complete-beginner/' | relative_url }}) is worth reading if the newcomer in the table above is you.
 
@@ -84,7 +84,7 @@ Nothing changes structurally for a couple — the deposit runs typically 2,000,0
 
 Even between two licence holders, Article 33(3) of the law bars changing the rider while the bike is moving, so swap places only after it has stopped. If the second person holds a licence valid for the bike, ask whether they can be named on the agreement as well.
 
-Three more points belong in the conversation at the counter:
+Two more points belong in the conversation at the counter:
 
 - Insurance: Nguyen Tu does not provide motorbike insurance, so arrange your own cover. If you rely on travel insurance, ask the insurer whether it covers riding a rented motorbike and carrying a passenger, and keep the answer in writing.
 - Papers: ask at handover how the registration certificate and the compulsory insurance certificate will be shown at a stop.
@@ -112,7 +112,6 @@ A short first ride shows whether the pair works before you rely on it:
 2. Ride a quiet street at low speed, with a few stops and turns each way, braking gently and then a little harder to learn how the bike behaves with both of you aboard.
 3. Head for busier roads only after that.
 
-The pillion passenger gear checklist covers what the passenger should wear, from footwear to gloves.
 
 ## Day trips two-up
 
