@@ -43,7 +43,7 @@ The compulsory certificate is third-party cover, so it does not replace cover fo
 
 ### Phone, power and the shop's number
 
-Save the shop before you ride: +84 942 467 674 works for calls, WhatsApp and Zalo, and the shop is open 09:00-21:00 daily. No after-hours service is published; plan so the bike does not depend on a night-time reply, and read [What Happens If a Rental Motorbike Breaks Down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) before you need it.
+Save the shop before you ride: +84 942 467 674 works for calls, WhatsApp and Zalo, and the shop is open 09:00-21:00 daily. No after-hours service is published; plan so that you do not depend on a night-time reply, and read [What Happens If a Rental Motorbike Breaks Down in Hanoi]({{ '/articles/rental-motorbike-breakdown-hanoi/' | relative_url }}) before you need it.
 
 Navigation keeps the screen lit, so carry a power bank in a pocket or the compartment while riding. It needs no wiring into a rented bike, where fitting anything may not be allowed. Holding a phone while riding is a defined violation, so mount the phone and set the route before you move; [Using a Phone While Riding in Vietnam]({{ '/articles/phone-use-while-riding-vietnam/' | relative_url }}) sets out what the rule covers and what it does not.
 
@@ -59,7 +59,7 @@ Whether a small automatic has under-seat room for a rain jacket, a lock and a sm
 
 A rental can be an earlier model year than the one on a page, and a page does not say that a model is on hand, so treat these as things to look for. [Contact us]({{ '/contact/' | relative_url }}) to confirm current availability.
 
-A line often repeated about storage goes: "semi-automatics and manuals give you the floor space under the seat spine or a rear rack instead — a bungee cord and a small bag solve it." Neither half holds for every bike, and a strap is safer than a bungee cord. Some semi-automatics have a small compartment and some have none: Honda's Wave RSX page lists a U-box that holds one half helmet and other personal items, while its Wave Alpha 110 page names no storage compartment among its features.
+It is easy to boil storage down to one line: "semi-automatics and manuals give you the floor space under the seat spine or a rear rack instead — a bungee cord and a small bag solve it." Neither half holds for every bike, and a strap is safer than a bungee cord. Some semi-automatics have a small compartment and some have none: Honda's Wave RSX page lists a U-box that holds one half helmet and other personal items, while its Wave Alpha 110 page names no storage compartment among its features.
 
 Where there is none, a rear rack may be all there is, and a small bag held on with a strap, not a bungee cord, solves it once you have looked at the bike and asked whether you may use the rack. Whichever you use, read how to [load and secure a bag]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}) so that nothing can swing or fall into traffic.
 
@@ -78,7 +78,7 @@ Worth adding if there is room:
 
 ## Never leave in a parked bike
 
-Documents, cash, laptops, and anything you would be upset to lose. Under-seat compartments are not safes, and street parking is public. This is also why you should never leave the bike's registration papers in the bike — losing them turns a traffic stop into a complicated afternoon — when you walk away from it. If the shop tells you a paper is meant to stay with the bike, ask how you are expected to look after it while you park.
+Documents, cash, laptops, and anything you would be upset to lose. Under-seat compartments are not safes, and street parking is public. When you walk away from the bike, the same logic applies to papers: you should never leave the bike's registration papers in the bike — losing them turns a traffic stop into a complicated afternoon. If the shop tells you a paper is meant to stay with the bike, ask how you are expected to look after it while you park.
 
 ### What goes with you when you walk away
 
