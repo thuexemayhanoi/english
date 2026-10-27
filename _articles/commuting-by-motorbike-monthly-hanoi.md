@@ -35,7 +35,7 @@ Decide the route before the first working day and treat the departure time as pa
 
 Ride the route once at the hour you will actually travel, on a day when nobody is waiting for you, so that the first commute is not also the first attempt at the route. Make the second route differ from the first at the place where the first is most likely to fail, not only in its last few streets.
 
-Build a margin into the departure time, because a late start is what turns into risks taken at junctions. To build the routine around the peaks, [Rush Hour Riding in Hanoi: Staying Safe in Peak Traffic]({{ '/articles/traffic-at-rush-hour-riding-hanoi/' | relative_url }}) covers peak-hour habits and [Hanoi's Main Motorbike Commute Corridors: Where Traffic Flows]({{ '/articles/hanoi-motorbike-commute-corridors/' | relative_url }}) covers how riders pick daily routes.
+Build a margin into the departure time, because a late start is what turns into risks taken at junctions. For the busiest hours, [Rush Hour Riding in Hanoi: Staying Safe in Peak Traffic]({{ '/articles/traffic-at-rush-hour-riding-hanoi/' | relative_url }}) covers peak-hour habits and [Hanoi's Main Motorbike Commute Corridors: Where Traffic Flows]({{ '/articles/hanoi-motorbike-commute-corridors/' | relative_url }}) covers how riders pick daily routes.
 
 ## Parking at both ends
 
@@ -50,7 +50,7 @@ Ask the people who manage each end four questions, and keep the replies where yo
 - When does it open and close, and does that cover the hours you leave and return? A lot that shuts before you finish work solves nothing.
 - Where do the helmet and the rain jacket go while the bike is parked?
 
-Then ask whether your rental agreement says anything about where the bike is kept at night, and tell the shop where it will be.
+Before the first night, ask the shop whether the rental terms set any condition on overnight storage, and let them know where the bike will stay.
 
 ### Outside the office, and Friday to Sunday evenings
 
@@ -72,21 +72,21 @@ A commute repeats the same few obligations twice a day, so they are worth knowin
 
 **Lights and helmets.** A ride that finishes after 18:00 needs the front light in every season. At handover, ask whether the headlight comes on with the ignition or only when you switch it on, and whether a helmet comes with the bike, for you or for a colleague riding behind you.
 
-**Papers.** Article 56(1) lists what a rider carries on every ride, including, above the moped class, the licence, the registration certificate and the owner's compulsory civil-liability insurance certificate, and Article 56(3) lets papers integrated into an electronic identification account be shown through that account. A rental adds a question the law does not answer: ask at handover how the registration certificate and the compulsory insurance certificate will be shown at a stop. Nguyen Tu does not provide motorbike insurance, so you arrange your own cover. [What Documents Must You Carry While Riding in Vietnam]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) goes through the set, when a certified copy of the registration certificate is accepted, and the fines for missing papers.
+**Papers.** Article 56(1) lists what a rider carries on every ride, including the licence (above the moped class), the registration certificate and the owner's compulsory civil-liability insurance certificate, and Article 56(3) lets papers integrated into an electronic identification account be shown through that account. A rental adds a question the law does not answer: ask at handover how the registration certificate and the compulsory insurance certificate will be shown at a stop. Nguyen Tu does not provide motorbike insurance, so you arrange your own cover. [What Documents Must You Carry While Riding in Vietnam]({{ '/articles/documents-to-carry-motorbike-vietnam/' | relative_url }}) goes through the set, when a certified copy of the registration certificate is accepted, and the fines for missing papers.
 
 **Speed and distance.** The defaults in the table apply where no speed sign is posted (Circular 38/2024/TT-BGTVT, Article 4(2)), and a built-up area is the stretch between the start and end signs (Article 3(1)). Behind another vehicle, Article 11 sets a gap of 35 metres at 60 km/h on a dry, straight, flat road with good visibility, leaves the gap to the rider's judgement below 60 km/h, and requires a larger gap in rain, fog or on a slippery surface. [Speed Limits for Motorbikes in Vietnam]({{ '/articles/motorbike-speed-limits-vietnam/' | relative_url }}) explains how the limits work and what exceeding them can cost.
 
 ## Mileage adds up fast
 
-Two cross-city trips a day can mean well over 1,000 km a month. For example, 25 km each way on 20 working days is 1,000 km. That is fine — it just makes you a high-mileage renter, with the check rhythm and wear items described in [High Monthly Mileage on a Rental Motorbike in Hanoi]({{ '/articles/high-mileage-monthly-rental-hanoi/' | relative_url }}). Budget a small monthly amount for consumables that may be your responsibility, such as tubes and tyres.
+Two cross-city trips a day can mean well over 1,000 km a month. For example, 25 km each way on 26 riding days is 1,300 km. That is fine — it just makes you a high-mileage renter, with the check rhythm and wear items described in [High Monthly Mileage on a Rental Motorbike in Hanoi]({{ '/articles/high-mileage-monthly-rental-hanoi/' | relative_url }}). Budget a small monthly amount for consumables that may be your responsibility, such as tubes and tyres.
 
-Whether your own route gets there depends on its length and the days you ride, so do the sum with your own figures: kilometres a day multiplied by the days you ride in a month. The shop owner's practical guidance, which is not a manufacturer interval, is to plan periodic checks at around 1,500 km or more of use. Ask which wear items the shop's own maintenance covers and which fall to you, and ask when a mid-term check could fit, because that is easier to arrange in week one than in week four.
+Whether your own route gets that far depends on its length and the days you ride, so do the sum with your own figures: kilometres a day multiplied by the days you ride in a month. The shop owner's practical guidance, which is not a manufacturer interval, is to plan periodic checks at around 1,500 km or more of use. Ask which wear items the shop's own maintenance covers and which fall to you, and ask when a mid-term check could fit, because that is easier to arrange in week one than in week four.
 
 ## A fuel routine you do not have to think about
 
 Fuel is a small line beside the rent, but it is the one task you repeat every week, so give it a routine. [Rental Motorbike Fuel: What Petrol to Use in Vietnam]({{ '/articles/rental-motorbike-fuel-what-petrol/' | relative_url }}) has the pump labels, what two Honda manuals say and the steps of a fill.
 
-Which petrol grade your bike takes is a question for the shop before the first fill, and so is what counts as a full tank at handover and at return; the grades on sale are explained in the fuel guide above.
+Which petrol grade your bike takes is a question for the shop before the first fill, and so is what counts as a full tank at handover and at return.
 
 Choose a refill rule you can follow without thinking, such as topping up when the gauge reaches a quarter or on a fixed evening of the week, rather than waiting for the bike to cough in traffic. A fuel gauge is an estimate, so the rule should leave a margin.
 
@@ -140,6 +140,7 @@ That depends on how long you need the bike. Monthly is one of the rental periods
 ### How much can I carry on the way to work?
 
 Article 33(5) caps a load at 0.3 metres past the width of the luggage rack on each side and 0.5 metres behind it, measured against the manufacturer's design, and at 2 metres in height from the road. Article 33(3)(đ) also bars a rider from carrying bulky objects.
+
 ### Can I use the horn on the way home late at night?
 
 Article 21(1) allows the horn only to warn of a situation that could become unsafe or to signal that you are about to overtake. Article 21(2) bars continuous use, a horn of the wrong volume, and any use from 22:00 to 05:00 in built-up areas and around medical facilities, priority vehicles excepted.
