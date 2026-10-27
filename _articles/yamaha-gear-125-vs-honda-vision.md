@@ -18,13 +18,15 @@ sources:
   - "Both manufacturers: yamaha-motor.com.vn — official model pages, specifications (retrieved 2026-09-23) and honda.com.vn — official model pages, specifications (retrieved 2026-09-23)"
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit and policy facts"
   - "https://www.honda.com.vn/xe-may/san-pham/vision — Honda Vietnam Vision product page — kerb weight, dimensions, seat height, ground clearance, tank, tyres, suspension, engine, claimed consumption, idling stop, front compartment with USB-C port, Smart Key, always-on headlight, 16-inch front wheel, suggested retail price shown (retrieved 2026-10-27)"
-  - "https://yamaha-motor.com.vn/xe-may/gear-125 — Yamaha Motor Vietnam site, product menu — GEAR 125 Hybrid and Janus 125 list-price starting points (retrieved 2026-10-27)"
+  - "https://yamaha-motor.com.vn/xe-may/gear-125 (product page returned not found on 27 October 2026; prices read from the site's header menu) — Yamaha Motor Vietnam site, product menu — GEAR 125 Hybrid and Janus 125 list-price starting points (retrieved 2026-10-27)"
 internal_link_targets: yamaha-gear-125-hybrid-review, honda-vision-110-review, honda-vision-vs-yamaha-janus, yamaha-gear-125-vs-yamaha-janus-125, 16-inch-wheel-scooters-vietnam, most-fuel-efficient-scooters-vietnam-verified, motorbike-rental-price-hanoi, scooter-underseat-storage-comparison, scooters-with-smart-keys-vietnam-verified
 ---
 
-The Honda Vision is Vietnam's default city scooter; the Yamaha Gear 125 Hybrid is the newest challenger with an electric-assist engine. Both sit at the bottom of their brands' ranges, and both publish class-leading economy figures. All data from official Honda and Yamaha Vietnam pages (retrieved 23 September 2026).
+The Honda Vision is Vietnam's default city scooter; the Yamaha Gear 125 Hybrid is the newest challenger with an electric-assist engine. Short answer on Yamaha Gear 125 vs Honda Vision: choose the Vision for the 16-inch front wheel, 175 mm ground clearance and idling stop; choose the Gear 125 Hybrid for the lower 750 mm seat, the hybrid assist and a lower starting list price. The two makers' economy claims are close and not like-for-like.
 
-More exactly, both are entry-level scooters, but Yamaha's site menu lists the Janus 125 from 29,151,000 VND, below the Gear's 30,437,000 VND (see the [Gear 125 vs Janus 125 comparison]({{ '/articles/yamaha-gear-125-vs-yamaha-janus-125/' | relative_url }})). The Honda Vision page was read again on 27 October 2026 and matched the earlier reading; the Gear figures below stay as recorded on 23 September 2026.
+Both sit near the bottom of their brands' ranges, and both publish low economy figures. All data from official Honda and Yamaha Vietnam pages (retrieved 23 September 2026; Honda Vision page and Yamaha menu re-read 27 October 2026); the rental facts are Nguyen Tu's own.
+
+Yamaha's site menu lists the Janus 125 from 29,151,000 VND, below the Gear's 30,437,000 VND (see the [Gear 125 vs Janus 125 comparison]({{ '/articles/yamaha-gear-125-vs-yamaha-janus-125/' | relative_url }})). The Honda Vision page matched the earlier reading; the Gear figures below stay as recorded on 23 September 2026.
 
 ## The figures side by side
 
@@ -67,7 +69,7 @@ By subtraction on the published peaks, the Vision is 0.39 kW higher on power and
 
 ### Cooling
 
-Both engines are air-cooled, so neither scooter has a coolant system for a mechanic to check, unlike liquid-cooled scooters; neither maker's figures say how that copes with a Hanoi summer, so this is a maintenance point, not a performance claim.
+Both engines are air-cooled, so neither scooter has a coolant circuit to inspect, unlike liquid-cooled scooters; neither maker's figures say how that copes with a Hanoi summer, so air cooling here is a servicing difference rather than a performance claim.
 
 ### Assist and idling stop
 
@@ -77,7 +79,7 @@ The two "three seconds" are unrelated: one is how long the Gear's assist lasts a
 
 ## Fuel economy
 
-Gear: 1.7 L/100 km published - the best figure in our verified table. Vision: 1.82 L/100 km - second-best. Both from 5-ish litre tanks (5.1 vs 4.8). These two post the lowest published figures in that table, and [the ranking article]({{ '/articles/most-fuel-efficient-scooters-vietnam-verified/' | relative_url }}) shows the full field.
+Gear: 1.7 L/100 km published - the best figure in our verified table. Vision: 1.82 L/100 km - third-best, behind the Yamaha Latte 125's 1.80 L/100 km. Both from 5-ish litre tanks (5.1 vs 4.8). The Gear and the Vision are first and third in that table, with the Yamaha Latte 125 between them, and [the ranking article]({{ '/articles/most-fuel-efficient-scooters-vietnam-verified/' | relative_url }}) shows the full field.
 
 The gap is 0.12 L/100 km between two manufacturers' own claims. Honda's Vision page states no test condition beside its figure and we hold none for Yamaha's, so the pair is not a like-for-like measurement, and a difference this small is not a reason to choose either scooter.
 
@@ -97,7 +99,7 @@ Other scooters are in the [seat-height comparison]({{ '/articles/scooter-seat-he
 
 ### Dimensions, clearance and payload
 
-By subtraction, the Vision is 75 mm longer, 1 mm wider and 51 mm taller than the Gear, with a wheelbase 3 mm shorter; only length and height are big enough to see. Ground clearance is the bigger practical gap: 175 mm against 135 mm, 40 mm that counts over raised kerbs, ramps into courtyards and patched road edges.
+By subtraction, the Vision is 75 mm longer, 1 mm wider and 51 mm taller than the Gear, with a wheelbase 3 mm shorter. Ground clearance is the bigger practical gap: 175 mm against 135 mm, 40 mm of extra clearance that may matter over raised kerbs, ramps into courtyards and patched road edges.
 
 Yamaha publishes a 157 kg payload for the Gear, a limit on everything carried. The Vision page text read gives none and links an owner's manual and a catalogue, so check those before loading a passenger and luggage.
 
@@ -111,7 +113,7 @@ Underseat space is where the comparison is thin: the Gear has a litre figure and
 
 ## Brakes and suspension
 
-Yamaha records the Gear with a front disc, a rear drum and UBS, which our [Gear 125 Hybrid review]({{ '/articles/yamaha-gear-125-hybrid-review/' | relative_url }}) describes as a combined system sharing braking force between the wheels. Neither scooter's record lists ABS. The Vision page text read gives no brake type, so this page makes no brake claim for the Vision: look at the front wheel and ask.
+Yamaha records the Gear with a front disc, a rear drum and UBS, which our [Gear 125 Hybrid review]({{ '/articles/yamaha-gear-125-hybrid-review/' | relative_url }}) describes as a combined system sharing braking force between the wheels. Neither scooter's record lists ABS. Honda's Vision page, as read, names no brake type, so nothing is claimed here about the Vision's brakes: look at the front wheel and ask.
 
 For suspension, Honda lists a telescopic fork and a single coil-spring rear damper for the Vision; we hold no suspension figures for the Gear.
 
@@ -131,9 +133,9 @@ Yamaha says the hybrid assist is aimed at pulling away, notably uphill or two-up
 
 ## Price
 
-Yamaha listed the Gear from 30,437,000 VND, and its site menu still showed that starting price on 27 October 2026 (the premium version was recorded at 34,364,000 VND on 23 September 2026). The Honda Vision page shows a suggested retail price of 36,808,363 VND for the version it displays.
+Yamaha listed the Gear from 30,437,000 VND, and its site menu still showed that starting price on 27 October 2026 (the premium version was recorded at 34,364,000 VND on 23 September 2026). The Honda Vision page shows a suggested retail price on 27 October 2026 of 36,808,363 VND for the version it displays.
 
-By subtraction that is 6,371,363 VND above the Gear's starting price, but one figure is a starting price and the other belongs to one version, so it is not like-for-like. Ask a dealer for the exact version; the [new scooter price guide]({{ '/articles/new-scooter-prices-vietnam-verified/' | relative_url }}) covers more models. These are list prices for buyers, not rental prices.
+The two figures are not like-for-like (a starting price against one version), so this page does not subtract them. Ask a dealer for the exact version; the [new scooter price guide]({{ '/articles/new-scooter-prices-vietnam-verified/' | relative_url }}) covers more models. These are list prices for buyers, not rental prices.
 
 ## Which suits whom
 
@@ -148,18 +150,17 @@ The table is ordered by rider need, not by merit; each row names the figure behi
 | Engine off while waiting | Vision | idling stop after more than 3 seconds |
 | Lower list price | Gear | 30,437,000 VND starting price |
 | Published payload for planning | Gear | 157 kg; Vision not published |
-| Combined braking | Gear | UBS recorded; Vision not published |
 | Renting with a published rate | Vision | a day rate Nguyen Tu publishes |
 
-When three or four rows match how you ride, you have a sensible answer; when they split, sit on both. Imagine a shorter rider who parks in a narrow lane: the lower seat may count for more than any other row, while for a rider who often crosses raised kerbs the clearance row may settle it.
+Where three or four rows fit how you ride, that scooter is the sensible pick; where the rows split, try sitting on each. Picture a shorter rider whose daily parking is a narrow lane: the lower seat may outweigh every other row, while for someone who often crosses raised kerbs the clearance row may decide it.
 
 ## Renting the Vision, and the Gear question
 
-The Vision is a price-published model at Nguyen Tu; its published rates are in the verdict below, and the [Hanoi motorbike rental price guide]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) covers other models and periods. The Gear has no published rate, so do not plan a trip around one. Typical deposits run from 2,000,000 to 5,000,000 VND depending on the vehicle and conditions, and Nguyen Tu does not provide motorbike insurance, so renters arrange their own cover. Phone, WhatsApp and Zalo: +84 942 467 674, open 09:00-21:00 daily.
+The Vision is a price-published model at Nguyen Tu; its published rates are in the verdict below, and the [Hanoi motorbike rental price guide]({{ '/articles/motorbike-rental-price-hanoi/' | relative_url }}) covers other models and periods. Typical deposits run from 2,000,000 to 5,000,000 VND depending on the vehicle and conditions, and Nguyen Tu does not provide motorbike insurance, so renters arrange their own cover. Phone, WhatsApp and Zalo: +84 942 467 674, open 09:00-21:00 daily.
 
 ### Which Vision will you get?
 
-Honda's page lists model years from 2018 to 2026, so a rental Vision may differ from the page (the [Honda Vision 110 review]({{ '/articles/honda-vision-110-review/' | relative_url }}) covers the single model). Ask the year and version, then check what you were counting on: the key type, idling stop, a USB-C port and the tyre sizes. Where idling stop is fitted, Honda describes the engine stopping at a halt and restarting on the throttle, which is not a stall. Brake type is not on the page, so look at the front wheel.
+Honda's page lists model years 2018, 2019, 2020 and 2023 to 2026, so a rental Vision may differ from the page (the [Honda Vision 110 review]({{ '/articles/honda-vision-110-review/' | relative_url }}) covers the single model). Ask the year and version, then check what you were counting on: the key type, idling stop, a USB-C port and the tyre sizes. Where idling stop is fitted, Honda describes the engine stopping at a halt and restarting on the throttle, which is not a stall.
 
 ### Before you ride away
 
@@ -185,4 +186,4 @@ Not on engine size: the Vision is 109.5 cc and the Gear is 124.9 cc, both below 
 
 ### Can I rent a Gear 125 from Nguyen Tu?
 
-Nguyen Tu does not publish a rental rate for the Gear 125. Contact us to confirm current availability of any model before you plan around it. For the Vision, a daily rate is published.
+Nguyen Tu does not publish a rental rate for the Gear 125. Contact us to confirm current availability of any model before you plan around it.
