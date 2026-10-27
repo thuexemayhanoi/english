@@ -146,3 +146,4 @@ The failures were avoidable. Before returning a draft, check yours against this 
   - couples, female riders and digital nomads;
   - Tet, the rainy season and winter.
   Link to them instead of restating them, and do not copy their sentences (the duplicate check measures 6-word overlap).
+- **No section anchors in links to other pages** (`/articles/x/#heading`): the offline Lychee check cannot resolve a fragment on a directory URL and blocks CI. Link the page and name the section in the text.
