@@ -17,12 +17,12 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-  - "https://en.napas.com.vn/napas-fastfund-247-with-vietqr-code-service — NAPAS (National Payment Corporation of Vietnam), FastFund 247 with VietQR code service — what a VietQR transfer is, the State Bank basic QR standard it follows, and the payer's steps: scan, check the beneficiary, confirm (retrieved 2026-10-27)"
+  - "https://en.napas.com.vn/napas-fastfund-247-with-vietqr-code-service — NAPAS (National Payment Corporation of Vietnam), FastFund 247 with VietQR code service — what a VietQR transfer is, the EMVCo and State Bank basic QR standards it complies with, and the payer's steps: scan, check the beneficiary, confirm (retrieved 2026-10-27)"
   - "https://en.napas.com.vn/qr-code-payment-service — NAPAS, QR code payment service — merchant-presented QR codes that the customer scans, under the State Bank basic QR standard (retrieved 2026-10-27)"
 internal_link_targets: "motorbike-rental-agreement-long-term-hanoi, motorbike-rental-monthly-price-hanoi, motorbike-rental-budget-monthly-hanoi, extending-motorbike-rental-hanoi, monthly-motorbike-rental-hanoi, motorbike-rental-deposit-monthly-hanoi, how-to-book-a-motorbike-rental-hanoi, late-return-monthly-rental-hanoi"
 ---
 
-Paying for a month-long rental is simpler than paying for a day in one respect — one payment instead of many — and more important in another, because larger amounts and longer terms deserve clear records.
+Paying for a month-long rental is simpler than paying for a day in one respect — one payment instead of many — and more important in another, because larger amounts and longer terms deserve clear records. Pay by cash, bank transfer or QR payment, and agree the due date and proof before the term starts.
 
 The published payment options are cash, bank transfer and QR payment, and every published rate and deposit figure is in Vietnamese dong (VND). What is not published is the timetable: when each payment is due, what a renewal payment looks like, what proof you receive, and how the deposit is taken and returned. Those are the points to settle with the shop before the term starts.
 
@@ -36,23 +36,25 @@ Each method leaves a different trail, so the method decides what you need to kee
 |---|---|---|
 | Cash | How the amount is counted and how receipt of it is acknowledged | A written or messaged acknowledgement |
 | Bank transfer | The account name, bank and number, and what to write in the transfer note | The confirmation from your bank, with its reference |
-| QR payment | Which code you will be shown, and the name that should appear before you confirm | The confirmation screen from your bank's app |
+| QR payment | Which code you will be shown, and the name that should appear before you confirm | The confirmation screen from the app you pay with |
 
 ### Paying in cash
 
-Nothing is recorded automatically when notes change hands, so the paper side needs more care than with the other two methods. Count the money in front of the person receiving it, and ask for a message or a written line stating what was received, on what date and for which rental period. If the deposit is also paid in cash, ask for it to be acknowledged separately from the rent.
+Nothing is recorded automatically when notes change hands, so the paper side needs more care than with the other two methods. Count the money in front of the person receiving it, and ask for a message or a written line stating what was received, on what date and for which rental period.
 
 ### Paying by bank transfer
 
-A transfer sent from a banking app produces its own confirmation, which is its main strength as a record. Take the receiving account details from the shop itself, by message to +84 942 467 674 or in person, and not from an unsolicited message or an unrelated page; no bank details are published on this site. Before you confirm, read the account name your app displays. If it does not match the name you were given, stop and ask.
+A transfer sent from a banking app produces its own confirmation, which makes it a useful record. Take the receiving account details from the shop itself, by message to +84 942 467 674 or in person, and not from an unsolicited message or an unrelated page; no bank details are published on this site. Before you confirm, read the account name your app displays. If it does not match the name you were given, stop and ask.
 
 Ask what to write in the transfer note, so that the shop can match the payment to your rental. Once the money has been sent, message the shop with the confirmation and ask for an acknowledgement in the same thread.
 
 ### Paying by QR code
 
-QR payment means scanning a code with a banking app; NAPAS calls the form in which the payee shows the code and the customer scans it "merchant-presented". The shop publishes "QR payment" without naming a scheme, so ask which code you will be shown. If it is a VietQR code, the National Payment Corporation of Vietnam (NAPAS) sets out the steps on its English-language site: log in to your bank's app, choose the scan function, scan the code or open a saved image of it, check the beneficiary's details, and confirm. NAPAS adds that VietQR follows the State Bank of Vietnam's basic standard for QR codes, and it describes the service as letting customers transfer money from their own accounts to an account at any other NAPAS member bank.
+QR payment means scanning a code; the published facts do not say which app the shop expects, so ask. NAPAS describes VietQR scanning with a bank's app. NAPAS calls the form in which the payee shows the code and the customer scans it "merchant-presented". The shop publishes "QR payment" without naming a scheme, so ask which code you will be shown.
 
-The step to take seriously is the beneficiary check. A code stands for a receiving account, and the name that appears on your screen before you confirm is the one part you can verify. Whether an app from a bank outside Vietnam can scan a Vietnamese code at all is a question for that bank; the NAPAS page does not answer it.
+If it is a VietQR code, the National Payment Corporation of Vietnam (NAPAS) sets out the steps on its English-language site: log in to your bank's app, choose the scan function, scan the code or open a saved image of it, check the beneficiary's details, and confirm. NAPAS adds that VietQR complies with EMVCo's QR Payment standard and the State Bank of Vietnam's basic standard for QR codes, and it describes the service as letting customers transfer money from their own accounts to an account at any other NAPAS member bank.
+
+The step to take seriously is the beneficiary check. A code stands for a receiving account, and the name that appears on your screen before you confirm is a part you can check. Whether an app from a bank outside Vietnam can scan a Vietnamese code at all is a question for that bank; the NAPAS page does not answer it.
 
 ## Which method suits which situation
 
@@ -67,7 +69,7 @@ The right method depends mostly on where your money is and what record you want.
 
 ## When payment falls due
 
-The published facts set no due date for a monthly rental, so the practical pattern to ask about is payment at the start of the rental period for the agreed month, by the method agreed at booking. If you renew for a further month, the renewal follows the same pattern — arrange it before the current term ends rather than after, which keeps the timeline clean (see [Extending or Renewing a Monthly Motorbike Rental in Hanoi]({{ '/articles/extending-motorbike-rental-hanoi/' | relative_url }})).
+The published facts set no due date for a monthly rental, so the practical pattern to ask about is payment at the start of the rental period for the agreed month, by the method agreed at booking. If you renew for a further month, the renewal follows the same pattern, if the shop agrees: ask, and arrange it before the current term ends rather than after, which keeps the timeline clean (see [Extending or Renewing a Monthly Motorbike Rental in Hanoi]({{ '/articles/extending-motorbike-rental-hanoi/' | relative_url }})).
 
 ### Questions to settle before you pay
 
@@ -98,23 +100,15 @@ The published position on early return is that there is no automatic refund enti
 
 For month-scale amounts, keep the same records you would keep for any significant payment: a receipt or transfer confirmation, and a message thread that shows the agreed rate and period. This is not distrust — it is what a written agreement looks like in practice, and it protects both sides. The terms worth having in writing are listed in [Long-Term Motorbike Rental Agreements in Hanoi]({{ '/articles/motorbike-rental-agreement-long-term-hanoi/' | relative_url }}).
 
-### What to keep for each payment
-
-- **Cash:** the message or note acknowledging the amount, the date and the rental period it covers.
-- **Bank transfer:** the confirmation from your bank, saved as a screenshot or a PDF, with the reference number if one is shown, plus the date, the amount and the receiving name.
-- **QR payment:** the confirmation screen shown after you confirm, saved the same way.
-- **The request behind the payment:** the thread in which the shop gave its payment details and the amount, so that each payment can be traced to a request.
-- **The deposit:** its own acknowledgement, stored apart from the rent records.
-
 If the shop hands over a paper receipt, photograph it straight away, while every line is legible. Check each confirmation against the thread before you put it away: the amount in VND, the receiving name, the date and the period it pays for.
 
 ### Keeping the record usable
 
-Keep the proofs and the thread in one place you can open without a mobile connection, such as a single album and one saved conversation, and back them up before you travel or change phone. When you renew, add the new amount, dates and proof to the same thread, and keep it all until the bike is back and the deposit is settled.
+Keep the proofs and the thread in one place you can open without a mobile connection, such as a single album and one saved conversation, and back them up before you travel or change phone. Keep, too, the message in which the shop gave its payment details and the amount, so that each payment can be traced to a request. When you renew, add the new amount, dates and proof to the same thread, and keep it all until the bike is back and the deposit is settled.
 
 ## Budgeting the payment
 
-The monthly rates on published-rate models run 1,000,000–2,000,000 VND depending on the bike ([Motorbike Rental Monthly Prices in Hanoi]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }})); the deposit (typically 2,000,000–5,000,000 VND) is held, not spent, and comes back at term end. The full month-scale budget — fuel, parking, consumables — is laid out in [Monthly Motorbike Rental Budget in Hanoi: The Full Cost]({{ '/articles/motorbike-rental-budget-monthly-hanoi/' | relative_url }}).
+The monthly rates on published-rate models run 1,000,000–2,000,000 VND depending on the bike ([Motorbike Rental Monthly Prices in Hanoi]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }})); the deposit (typically 2,000,000–5,000,000 VND) is held, not spent, and comes back at term end. When and in what form it comes back is a question to settle at the start. The full month-scale budget — fuel, parking, consumables — is laid out in [Monthly Motorbike Rental Budget in Hanoi: The Full Cost]({{ '/articles/motorbike-rental-budget-monthly-hanoi/' | relative_url }}).
 
 ### The deposit is a payment of its own
 
@@ -124,7 +118,7 @@ Add the two figures together before you go, so that you know what you need on th
 
 ### Reading amounts in VND
 
-Vietnamese dong amounts have many digits, and one missing zero changes a sum tenfold. The published daily rates (150,000 VND and 200,000 VND, depending on the model) and the published deposit range of 2,000,000 to 5,000,000 VND show the scale. Write every amount in full, with separators, and read each reply digit by digit before you pay. If a message quotes another currency, ask for the VND figure and the exchange rate behind it, so that the figure you pay is the figure you were quoted.
+Vietnamese dong amounts have many digits, and one missing zero changes a sum tenfold. The published daily rates (150,000 VND and 200,000 VND, depending on the model) show the scale. Write every amount in full, with separators, and read each reply digit by digit before you pay. If a message quotes another currency, ask for the VND figure and the exchange rate behind it, so that the figure you pay is the figure you were quoted.
 
 ## Foreign renters: questions for your own bank
 
