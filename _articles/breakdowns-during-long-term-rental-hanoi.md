@@ -46,7 +46,7 @@ Wear is where costs build up over a long rental, and tubes and tyres in particul
 
 ## What the shop does and does not cover
 
-Maintenance included in the rental may cover oil, chain, tyre pressure and inspection. The table below gives the published wording; which items apply to your rental is a question to ask. There is no promise of roadside rescue, guaranteed response times or free repairs — those are not part of the service, so plan realistic alternatives: a ride-hailing app to get home, and a call to the shop the same day.
+Maintenance included in the rental may cover oil, chain, tyre pressure and inspection. The table below gives the published wording. There is no promise of roadside rescue, guaranteed response times or free repairs — those are not part of the service, so plan realistic alternatives: a ride-hailing app to get home, and a call to the shop the same day.
 
 A long rental raises questions that the published wording leaves open. The table separates what is stated from what you should ask.
 
@@ -64,7 +64,7 @@ Insurance is yours to arrange, and [Arranging Your Own Insurance as a Long-Term 
 
 ## Wear that builds over weeks
 
-Wear is the breakdown that a long rental has and a short one has less time to show. Honda's owner's manuals are written for an owner, not a renter, but they show which parts the maker tells you to watch and how often.
+Wear is the breakdown that a long rental has and that a short one has less time to show. Honda's owner's manuals are written for an owner, not a renter, but they show which parts the maker tells you to watch and how often.
 
 ### What the Honda manuals list
 
@@ -77,7 +77,7 @@ The Wave Alpha and Vision manuals each carry a maintenance schedule in steps of 
 | Drive chain | Wave Alpha: its own interval, every 500 km; pre-ride check of condition, slack and lubrication | A noisy or slack chain is a report, not a wait for 1,500 km |
 | Brakes | Both: brake wear and brake system in the schedule; Wave Alpha pre-ride check covers shoe wear and free play | Longer lever travel goes in the log and a message; leave adjusting to the shop |
 
-The manuals address an owner: both manuals call maintenance the user's responsibility, and both treat the schedule's work as the owner's normal running cost. On a rental the split follows the rental terms, and the published position is the table above; for anything else, ask.
+The manuals address an owner: both manuals call maintenance the user's responsibility, and both treat the schedule's work as the owner's normal running cost. On a rental the split follows the rental terms, and the published position is in the table under What the shop does and does not cover; for anything else, ask.
 
 A schedule counted in thousands of kilometres also cannot say where one rental bike stands. Ask the shop which model and variant you have and what the odometer showed at its last service, then read the maker's schedule for that model. The 1,500 km guidance below, which is the shop's own, fills part of that gap.
 
@@ -100,7 +100,7 @@ Read the log once a week. A symptom that appears twice is no longer a note: it i
 
 ## The 1,500 km mark and a mid-term visit
 
-Nguyen Tu's owner guidance is periodic checks around 1,500 km or more of use. It is practical owner guidance, not a manufacturer interval, and it counts distance, not weeks, so a rider covering 50 km a day reaches it in 30 days (1,500 km ÷ 30). It is a reason to bring the bike in before anything fails. If the bike starts to misbehave, report it then and do not wait for the mark.
+Nguyen Tu's owner guidance is periodic checks around 1,500 km or more of use. It is practical owner guidance, not a manufacturer interval, and it counts distance, not weeks, so a rider covering 50 km a day reaches it in 30 days (1,500 km ÷ 50 km a day = 30 days). It is a reason to bring the bike in before anything fails. If the bike starts to misbehave, report it then and do not wait for the mark.
 
 How a mid-term visit works is not published, so treat each of these as a question and not a rule:
 
@@ -113,7 +113,7 @@ Take the log with you and ask about anything it shows. If the shop offers a diff
 
 ## What to agree at the start of a long rental
 
-The table above lists the gaps. Handover is the moment to close them, and one written message is the record. An illustrative message, with your own details in brackets:
+The table under What the shop does and does not cover lists the gaps. Handover is the moment to close them, and one written message is the record. An illustrative message, with your own details in brackets:
 
 > Hello, this is [name], renting the [model] from [date]. Before we start, could you confirm who I call and by which channel when the bike has a problem; which repairs I may do myself at a nearby shop and which I must ask about first; who pays for tubes and tyres; how a replacement bike would be arranged if mine cannot be fixed quickly; and whether time off the road counts as rental time? I will keep your answers with my log.
 
@@ -121,7 +121,7 @@ Two cautions. A question the shop has not answered is still a question, so do no
 
 ## When the bike is how you get to work
 
-A breakdown on a commuting bike is two problems: the bike and the journey. Plan the journey first, because the repair is not in your hands. The shop's published hours are 09:00–21:00 daily, so a commute that starts before 09:00 starts before the published opening time. Send a message, which waits for the shop, and do not build the plan on a phone answer.
+A breakdown on a commuting bike is two problems: the bike and the journey. Plan the journey first, because the repair is not in your hands. A commute that starts before 09:00 starts before the shop's published opening time. Send a message, which waits for the shop, and do not build the plan on a phone answer.
 
 A plan B has three steps:
 
@@ -141,7 +141,7 @@ After any breakdown, add the cause and the fix to the log and ask whether anythi
 
 ### Who pays if the bike breaks down in the second month?
 
-No breakdown-cost terms are published. The only published terms are the maintenance and consumables lines in the table above. For anything else, ask before work starts and keep the answer with your log.
+No breakdown-cost terms are published. The only published terms are the maintenance and consumables lines in the table under What the shop does and does not cover. For anything else, ask before work starts and keep the answer with your log.
 
 ### Will the shop give me another bike if mine cannot be fixed?
 
