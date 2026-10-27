@@ -23,9 +23,9 @@ sources:
 internal_link_targets: yamaha-gear-125-hybrid-review, honda-vision-110-review, honda-vision-vs-yamaha-janus, yamaha-gear-125-vs-yamaha-janus-125, 16-inch-wheel-scooters-vietnam, most-fuel-efficient-scooters-vietnam-verified, motorbike-rental-price-hanoi, scooter-underseat-storage-comparison, scooters-with-smart-keys-vietnam-verified
 ---
 
-The Honda Vision is Vietnam's default city scooter; the Yamaha Gear 125 Hybrid is the newest challenger with an electric-assist engine. Short answer on Yamaha Gear 125 vs Honda Vision: choose the Vision for the 16-inch front wheel and 175 mm ground clearance; choose the Gear 125 Hybrid for the lower 750 mm seat, the hybrid assist and a lower starting list price. The two makers' economy claims are close and not like-for-like. Idling stop does not split them: Honda lists it for the Vision and Yamaha's launch release for the Gear's Premium version.
+The Honda Vision is Vietnam's default city scooter; the Yamaha Gear 125 Hybrid is the newest challenger with an electric-assist engine. Short answer on Yamaha Gear 125 vs Honda Vision: choose the Vision for the 16-inch front wheel and 175 mm ground clearance; choose the Gear 125 Hybrid for the lower 750 mm seat, the hybrid assist and a lower starting list price. The two makers' economy claims are close and not like-for-like.
 
-Both sit near the bottom of their brands' ranges, and both publish low economy figures. All data from official Honda and Yamaha Vietnam pages (retrieved 23 September 2026; Honda Vision page and Yamaha menu re-read 27 October 2026) and Yamaha's launch release (read 27 October 2026); the rental facts are Nguyen Tu's own.
+Both sit near the bottom of their brands' ranges, and both publish low economy figures. Idling stop is not a clean tiebreaker: Honda lists it for the Vision, and Yamaha's launch release lists it for the Gear's Premium version only. All data from official Honda and Yamaha Vietnam pages (retrieved 23 September 2026; Honda Vision page and Yamaha menu re-read 27 October 2026) and Yamaha's launch release (read 27 October 2026); the rental facts are Nguyen Tu's own.
 
 Yamaha's site menu lists the Janus 125 from 29,151,000 VND, below the Gear's 30,437,000 VND (see the [Gear 125 vs Janus 125 comparison]({{ '/articles/yamaha-gear-125-vs-yamaha-janus-125/' | relative_url }})). The Honda Vision page matched the earlier reading; the Gear figures below stay as recorded on 23 September 2026.
 
@@ -62,7 +62,7 @@ The Honda column comes from Honda Vietnam's Vision page. The Yamaha column comes
 
 Power and torque are single peak values at one engine speed, and real consumption varies with speed, load and traffic.
 
-Yamaha's launch release says the Smart Key, UBS, Y-On phone connection and Stop & Start System are fitted to the Premium (DX) version only, listed at launch at 34,364,000 VND against 30,437,000 VND for the Standard, so ask which Gear version you are looking at.
+Yamaha's launch release, as published by Ngay Nay, says the Smart Key, UBS, Y-On phone connection and Stop & Start System are fitted to the Premium (DX) version only, listed at launch at 34,364,000 VND against 30,437,000 VND for the Standard, so ask which Gear version you are looking at.
 
 ## Engine and assist
 
@@ -98,7 +98,7 @@ Other scooters are in the [seat-height comparison]({{ '/articles/scooter-seat-he
 
 ### Dimensions, clearance and payload
 
-Ground clearance is the practical gap between them: 175 mm against 135 mm, 40 mm of extra clearance that may matter over raised kerbs, ramps into courtyards and patched road edges.
+Ground clearance is the practical gap between them: 175 mm (Vision) against 135 mm (Gear), 40 mm of extra clearance that may matter over raised kerbs, ramps into courtyards and patched road edges.
 
 Yamaha publishes a 157 kg payload for the Gear, a limit on everything carried. The Vision page text read gives none and links an owner's manual and a catalogue, so check those before loading a passenger and luggage.
 
@@ -106,7 +106,7 @@ Yamaha publishes a 157 kg payload for the Gear, a limit on everything carried. T
 
 Gear: 17.4-litre bay, front pocket, USB port, SmartKey, LCD with phone alerts (the last two on the Premium version). Vision: an underseat bay that Honda calls large but gives no litre figure for, a covered front compartment with a USB-C port, LCD meter, Smart Key. Neither is better equipped across the board, and neither maker publishes resale values, so this page makes no claim about them.
 
-The Vision page lists idling stop, an always-on headlight and a meter showing distance and fuel level; the Gear records add the hybrid assist. Honda says its Smart Key locates the scooter and unlocks it remotely, and our [smart-key scooter table]({{ '/articles/scooters-with-smart-keys-vietnam-verified/' | relative_url }}) covers other models.
+The Vision page lists an always-on headlight and a meter showing distance and fuel level; the Gear records add the hybrid assist. Honda says its Smart Key locates the scooter and unlocks it remotely, and our [smart-key scooter table]({{ '/articles/scooters-with-smart-keys-vietnam-verified/' | relative_url }}) covers other models.
 
 Underseat space is where the comparison is thin: the Gear has a litre figure and the Vision has only Honda's wording that the bay holds a helmet and personal items, so bring your own helmet and try it. The [underseat storage comparison]({{ '/articles/scooter-underseat-storage-comparison/' | relative_url }}) lists other bays in litres, and equipment varies by version and model year, so confirm each feature on the actual bike.
 
@@ -138,7 +138,7 @@ The two figures are not like-for-like (a starting price against one version), so
 
 ## Which suits whom
 
-The table is ordered by rider need, not by merit; each row names the figure behind the lean and no single row is decisive.
+Rows follow rider need, not merit; each row names the figure behind the lean and no single row is decisive.
 
 | Your need | Lean towards | Figure behind it |
 |---|---|---|
@@ -147,7 +147,7 @@ The table is ordered by rider need, not by merit; each row names the figure behi
 | Larger front wheel | Vision | 80/90-16 against 110/70-12 |
 | Assist when pulling away | Gear | up to 3 s hybrid assist, 10.6 Nm at 4,500 rpm |
 | Engine off while waiting | Either; ask which version | Vision: idling stop after more than 3 seconds; Gear: Premium version only |
-| Lower list price | Gear | 30,437,000 VND starting price |
+| Lower list price | Gear | 30,437,000 VND starting price (Standard version) |
 | Published payload for planning | Gear | 157 kg; Vision not published |
 | Renting with a published rate | Vision | a day rate Nguyen Tu publishes |
 
