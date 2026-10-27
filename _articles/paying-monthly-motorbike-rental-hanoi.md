@@ -22,7 +22,7 @@ sources:
 internal_link_targets: "motorbike-rental-agreement-long-term-hanoi, motorbike-rental-monthly-price-hanoi, motorbike-rental-budget-monthly-hanoi, extending-motorbike-rental-hanoi, monthly-motorbike-rental-hanoi, motorbike-rental-deposit-monthly-hanoi, how-to-book-a-motorbike-rental-hanoi, late-return-monthly-rental-hanoi"
 ---
 
-Paying for a month-long rental is simpler than paying for a day in one respect — one payment instead of many — and more important in another, because larger amounts and longer terms deserve clear records. Pay by cash, bank transfer or QR payment, and agree the due date and proof before the term starts.
+Paying for a month-long rental is simpler than paying for a day in one respect — one payment instead of many — and more important in another, because larger amounts and longer terms deserve clear records. Pay by cash, bank transfer or QR payment, and agree the due date and proof with the shop.
 
 The published payment options are cash, bank transfer and QR payment, and every published rate and deposit figure is in Vietnamese dong (VND). What is not published is the timetable: when each payment is due, what a renewal payment looks like, what proof you receive, and how the deposit is taken and returned. Those are the points to settle with the shop before the term starts.
 
@@ -50,11 +50,11 @@ Ask what to write in the transfer note, so that the shop can match the payment t
 
 ### Paying by QR code
 
-QR payment means scanning a code; the published facts do not say which app the shop expects, so ask. NAPAS describes VietQR scanning with a bank's app. NAPAS calls the form in which the payee shows the code and the customer scans it "merchant-presented". The shop publishes "QR payment" without naming a scheme, so ask which code you will be shown.
+QR payment means scanning a code, and the published facts do not say which app the shop expects, so ask which code you will be shown and which app to use. The National Payment Corporation of Vietnam (NAPAS) calls the form in which the payee shows the code and the customer scans it "merchant-presented"; the shop publishes "QR payment" without naming a scheme.
 
-If it is a VietQR code, the National Payment Corporation of Vietnam (NAPAS) sets out the steps on its English-language site: log in to your bank's app, choose the scan function, scan the code or open a saved image of it, check the beneficiary's details, and confirm. NAPAS adds that VietQR complies with EMVCo's QR Payment standard and the State Bank of Vietnam's basic standard for QR codes, and it describes the service as letting customers transfer money from their own accounts to an account at any other NAPAS member bank.
+If it is a VietQR code, NAPAS sets out the steps on its English-language site: log in to your bank's app, choose the scan function, scan the code or open a saved image of it, check the beneficiary's details, and confirm. NAPAS adds that VietQR complies with EMVCo's QR Payment standard and the State Bank of Vietnam's basic standard for QR codes, and it describes the service as letting customers transfer money from their own accounts to an account at any other NAPAS member bank.
 
-The step to take seriously is the beneficiary check. A code stands for a receiving account, and the name that appears on your screen before you confirm is a part you can check. Whether an app from a bank outside Vietnam can scan a Vietnamese code at all is a question for that bank; the NAPAS page does not answer it.
+The step to take seriously is the beneficiary check. A code stands for a receiving account, and the name that appears on your screen before you confirm is a part you can check.
 
 ## Which method suits which situation
 
@@ -69,7 +69,7 @@ The right method depends mostly on where your money is and what record you want.
 
 ## When payment falls due
 
-The published facts set no due date for a monthly rental, so the practical pattern to ask about is payment at the start of the rental period for the agreed month, by the method agreed at booking. If you renew for a further month, the renewal follows the same pattern, if the shop agrees: ask, and arrange it before the current term ends rather than after, which keeps the timeline clean (see [Extending or Renewing a Monthly Motorbike Rental in Hanoi]({{ '/articles/extending-motorbike-rental-hanoi/' | relative_url }})).
+The published facts set no due date for a monthly rental, so the practical pattern to ask about is payment at the start of the rental period for the agreed month, by the method agreed at booking. If you renew for a further month, the renewal follows the same pattern — arrange it before the current term ends rather than after, which keeps the timeline clean (see [Extending or Renewing a Monthly Motorbike Rental in Hanoi]({{ '/articles/extending-motorbike-rental-hanoi/' | relative_url }})). Whether the shop agrees to a renewal is for you to ask.
 
 ### Questions to settle before you pay
 
@@ -108,7 +108,7 @@ Keep the proofs and the thread in one place you can open without a mobile connec
 
 ## Budgeting the payment
 
-The monthly rates on published-rate models run 1,000,000–2,000,000 VND depending on the bike ([Motorbike Rental Monthly Prices in Hanoi]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }})); the deposit (typically 2,000,000–5,000,000 VND) is held, not spent, and comes back at term end. When and in what form it comes back is a question to settle at the start. The full month-scale budget — fuel, parking, consumables — is laid out in [Monthly Motorbike Rental Budget in Hanoi: The Full Cost]({{ '/articles/motorbike-rental-budget-monthly-hanoi/' | relative_url }}).
+The monthly rates on published-rate models run 1,000,000–2,000,000 VND depending on the bike ([Motorbike Rental Monthly Prices in Hanoi]({{ '/articles/motorbike-rental-monthly-price-hanoi/' | relative_url }})); the deposit (typically 2,000,000–5,000,000 VND) is held, not spent, and comes back at term end. The published facts do not fix that timing, so treat "term end" as a point to confirm before you pay, not as a promise. The full month-scale budget — fuel, parking, consumables — is laid out in [Monthly Motorbike Rental Budget in Hanoi: The Full Cost]({{ '/articles/motorbike-rental-budget-monthly-hanoi/' | relative_url }}).
 
 ### The deposit is a payment of its own
 
