@@ -24,7 +24,7 @@ sources:
 internal_link_targets: honda-vision-110-review, honda-lead-125-review, honda-vision-vs-honda-air-blade, honda-air-blade-160-vs-honda-lead-125, 110cc-vs-125cc-scooters, scooter-underseat-storage-comparison, motorbike-rental-price-hanoi, new-scooter-prices-vietnam-verified
 ---
 
-The Honda Vision and the Honda Lead 125 are two of Honda's city scooters, and they split the choice cleanly: the Vision is the light default commuter, the Lead is the cargo specialist. Both comparisons below use only Honda Vietnam's published figures (retrieved 23 September 2026), and the Honda pages were read again on 27 October 2026.
+The Honda Vision and the Honda Lead 125 are two of Honda's city scooters, and they split the choice cleanly: the Vision is the light default commuter, the Lead is the cargo specialist. Both comparisons below use only Honda Vietnam's published figures (retrieved 23 September 2026), apart from one labelled Yamaha storage figure, and the Honda pages were read again on 27 October 2026.
 
 ## Verdict in brief
 
@@ -82,7 +82,7 @@ Honda's Vision page also lists an idling-stop system that switches the engine of
 
 Vision: an underseat bay Honda calls large but gives no litre figure for; the [storage comparison]({{ '/articles/scooter-underseat-storage-comparison/' | relative_url }}) lists other scooters' bays in litres. Lead: more than 37 litres (Honda's wording) - two full-face helmets, level with the Yamaha Latte 125 for the biggest bay in our verified data. If your scooter doubles as a shopping trolley or delivery platform, the Lead is the clearer choice on Honda's published storage figures; Honda also offers an ABS version of the Lead.
 
-Yamaha Vietnam lists the Latte 125 at 37 litres underseat as well (read 23 September 2026); see our [Yamaha Latte 125 review]({{ '/articles/yamaha-latte-125-review/' | relative_url }}). Honda's wording for the Lead is "more than 37 litres", so on published figures the two are comparable. Honda's Vision page says only that its bay is large and takes a helmet and personal items, so the two bays cannot be compared in litres, although the helmet counts point to the Lead as the bigger one.
+Yamaha Vietnam lists the Latte 125 at 37 litres underseat as well (read 23 September 2026); see our [Yamaha Latte 125 review]({{ '/articles/yamaha-latte-125-review/' | relative_url }}), so on published figures the Lead and the Latte are comparable. Honda's Vision page adds only that its bay takes a helmet and personal items, so the helmet counts, not litres, point to the Lead as the bigger bay.
 
 For the Lead, Honda describes a divider panel, an interior light and room for two large full-face helmets. The Lead page also lists a front compartment with a USB-C port (marked with an asterisk), so confirm it on the version you choose. Bring your own helmet to try in the bay.
 
@@ -122,7 +122,7 @@ The table is ordered by rider need, not by merit. Each row names the figure behi
 | ABS braking | Lead, special version | front ABS; Vision not published |
 | Renting in Hanoi with a published rate | Vision | a day rate Nguyen Tu publishes for the Vision |
 
-When three or four rows match how you ride, you have a sensible answer; when they split, sit on both. Imagine a commuter who parks in a narrow shared yard and carries one bag: the Vision's weight and fuel figures may outweigh the Lead's bigger bay. Imagine a rider who shops on the way home and keeps a spare helmet aboard: the Lead's bay is the stronger argument.
+When three or four rows match how you ride, you have a sensible answer; when they split, sit on both. Imagine a commuter who parks in a narrow shared yard and carries one bag: the Vision's weight and fuel figures may outweigh the Lead's two-helmet bay. Imagine a rider who shops on the way home and keeps a spare helmet aboard: the Lead's bay is the stronger argument.
 
 ## Price position
 
