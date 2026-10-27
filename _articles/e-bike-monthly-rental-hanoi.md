@@ -19,7 +19,7 @@ sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 31(3) (helmet on a pedal-assist bicycle), Article 33(2) (helmets on mopeds and motorcycles), Article 34(1)(g) and (2)(b) (definitions of a moped and of a pedal-assist bicycle), Article 57(1)(a)-(b) (classes A1 and A), Article 59(1)(a)-(b) (age 16 for a moped, age 18 for classes A1 and A) (retrieved 2026-10-27)"
   - "https://www.bocongan.gov.vn/bai-viet/khuyen-cao-nguoi-dan-cac-ky-nang-phong-chong-chay-no-khi-sac-xe-dien-d22-t35817 — Ministry of Public Security, advice to the public on fire and explosion prevention when charging electric vehicles (fire and rescue police, published 25 July 2023) — causes of charging fires and charging precautions (retrieved 2026-10-27)"
-  - "https://moc.gov.vn/Images/FileVanBan/BXD_95-2026-VBHN-TT-BXD_30092026_QCVNvenhachungcu%281%29.pdf — Ministry of Construction, consolidated text of QCVN 04:2021/BXD (national technical regulation on apartment buildings), version of 30 September 2026, amendment effective 15 December 2026 (Amendment 01:2026, Circular 31/2026/TT-BXD) — fire-safety requirements for electric-vehicle charging areas inside and outside apartment buildings (retrieved 2026-10-27)"
+  - "https://moc.gov.vn/Images/FileVanBan/BXD_95-2026-VBHN-TT-BXD_30092026_QCVNvenhachungcu%281%29.pdf — Ministry of Construction, consolidated text of QCVN 04:2021/BXD (national technical regulation on apartment buildings), version of 30 September 2026, amendment effective 15 December 2026 (Amendment 01:2026, Circular 31/2026/TT-BXD of 15 June 2026) — fire-safety requirements for electric-vehicle charging areas inside and outside apartment buildings (retrieved 2026-10-27)"
   - "docs/MODEL-DATABASE.md — verified electric rows (Dat Bike Weaver 200, Yamaha NEO's, Honda ICON e:): manufacturer range figures and their stated test conditions (retrieved 2026-09-24 and 2026-10-15)"
 internal_link_targets: "which-motorbikes-have-monthly-rates-hanoi, motorbike-rental-monthly-price-hanoi, monthly-motorbike-rental-hanoi, best-motorbike-for-commuting-hanoi, electric-motorbike-commuting-hanoi, can-foreigners-rent-electric-bike-vietnam, electric-bike-licence-vietnam, charging-electric-motorbike-apartment-rental, electric-motorbike-range-real-world-vietnam, e-bike-helmet-rules-vietnam"
 ---
@@ -51,7 +51,7 @@ Not every routine suits an electric bike for a month. The table runs from the ea
 
 | Your month looks like | An electric rental is | Because |
 |---|---|---|
-| One fixed loop, with a socket you can use while you are at home | Straightforward | the bike can charge in a daytime window once it has cooled |
+| One fixed loop, with a socket you can use while you are at home | Straightforward | the bike can charge while you are at home and awake, once it has cooled |
 | One fixed loop, but no socket at home or work | Possible with a plan | charging needs a shared or workplace socket, or a swap point if the model supports one |
 | A passenger or a child on most days | Check the class and the load first | load shortens range, and the legal class sets the licence and age |
 | Several unplanned cross-city trips a day | A weak match | a flat battery needs a socket, while a petrol bike needs only a pump |
@@ -102,15 +102,15 @@ Where and when:
 
 Read together, these points rule out plugging in at bedtime and unplugging in the morning. A routine built on the ministry's advice charges the bike while you are at home and awake, once it has cooled after the last ride.
 
-That has a planning cost over a month: a daytime window has to exist in your week, and the 8-hour limit caps a single charge. Whether the battery can reach a useful level inside those limits is a question for the shop and for the manufacturer's manual for that model.
+That has a planning cost over a month: a window when you are home and awake has to exist in your week, and the 8-hour limit caps a single charge. Whether the battery can reach a useful level inside those limits is a question for the shop and for the manufacturer's manual for that model.
 
 ### What a rental adds
 
-The same advice lists causes that matter more on a borrowed bike: batteries of unknown origin or ones that have been repaired or modified, chargers that do not match the battery, extras such as alarms, horns or brighter lights fitted beyond the manufacturer's design, and overloading. In practice that means using only a charger that the manufacturer or the shop confirms matches the battery, fitting nothing to its wiring, and telling the shop about any swelling or fault instead of trying to repair it. Ask what the rental agreement says if the charger fails or goes missing, and who bears the cost of a damaged battery.
+The same advice lists causes that matter more on a borrowed bike: batteries of unknown origin or ones that have been repaired or modified, chargers that do not match the battery, extras such as alarms, horns or brighter lights fitted beyond the manufacturer's design, and overloading. In practice that means using only a charger that the manufacturer or the shop confirms matches the battery, fitting nothing to the bike's wiring, and telling the shop about any swelling or fault instead of trying to repair it. Ask what the rental agreement says if the charger fails or goes missing, and who bears the cost of a damaged battery.
 
 ### Apartments and shared buildings
 
-If you live in an apartment block, the building has a say. The Ministry of Construction's consolidated text of QCVN 04:2021/BXD, the national technical regulation on apartment buildings (version of 30 September 2026), adds fire-safety requirements for electric-vehicle charging areas through an amendment that takes effect on 15 December 2026. As read, it is mandatory for newly built or rebuilt apartment buildings, so what it means for an older block is a question for its management.
+If you live in an apartment block, the building has a say. The Ministry of Construction's consolidated text of QCVN 04:2021/BXD, the national technical regulation on apartment buildings (version of 30 September 2026), adds fire-safety requirements for electric-vehicle charging areas through an amendment that takes effect on 15 December 2026. It has separate provisions for newly built apartment buildings and for existing ones; for an existing block they take its actual space and infrastructure into account, so what applies to yours is a question for its management.
 
 Inside a building, a charging area is to be a separate fire compartment with an automatic fire alarm, camera monitoring connected to a control room staffed round the clock, and an automatic extinguishing system. Outside, it is to keep the fire-separation distance from neighbouring buildings, never less than 3 m, which can drop to no less than 1 m where a solid non-combustible wall or partition at least 2 m high stands between them.
 
@@ -176,7 +176,7 @@ It depends on the class, not on the word e-bike. A pedal-assist bicycle needs no
 
 ### Can I charge the bike in my apartment?
 
-Only if the building allows it, and the fire-police advice above applies. Ask the management in writing.
+Only if the building allows it, and the fire-police advice above is worth following. Ask the management in writing.
 
 ### What does a monthly electric rental cost?
 
