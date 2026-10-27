@@ -62,7 +62,7 @@ The deposit is typically 2,000,000–5,000,000 VND depending on vehicle and cond
 
 ## The handover at the start
 
-The walk-round is the same whether it happens at the shop or at your door, so the full list stays in the inspection checklist. A month adds one thing: the photographs become the baseline you compare against at the end. The table shows what to record and why it matters across a term.
+The walk-around is the same whether it happens at the shop or at your door, so the full list stays in the inspection checklist. A month adds one thing: the photographs become the baseline you compare against at the end. The table shows what to record and why it matters across a term.
 
 | Check | What to record | Why it matters over a month |
 |---|---|---|
@@ -91,7 +91,7 @@ Swapping to another bike partway through is a fresh handover: the same checks, a
 
 ### A change of address
 
-If you move house during the term, tell the shop the new address in the chat before any collection is arranged, so that it is agreed for the right place: the place where the bike is handed back may no longer be the place where it was handed over. [Moving house during a motorbike rental]({{ '/articles/moving-address-during-rental-hanoi/' | relative_url }}) covers the parking side of a move.
+If you move house during the term, tell the shop the new address in the chat before any collection is arranged: the place where the bike is handed back may no longer be the place where it was handed over. [Moving house during a motorbike rental]({{ '/articles/moving-address-during-rental-hanoi/' | relative_url }}) covers the parking side of a move.
 
 ## At the end of the rental
 
@@ -99,15 +99,15 @@ Pickup of the bike at the end of the term is a separate arrangement with the sam
 
 Three things are worth writing down when you agree it:
 
-- **Which moment ends the term.** Ask whether the rental ends at the collection time you agreed or when the bike reaches the shop, and have the end date and hour in the chat.
+- **Which moment ends the term.** For a collection at your address, ask what counts as the end, and have the date and hour in the chat.
 - **Fuel and keys.** The level agreed at the start, and every key you were given.
 - **The deposit.** Ask how and when it is settled, and what you will receive as confirmation.
 
 The person who rode the bike should be at the walk-around. [How returning a rental motorbike works]({{ '/articles/returning-a-rental-motorbike-hanoi/' | relative_url }}) lists the steps in order.
 
-The published late-return terms are 20,000 VND per hour, and more than six hours late a full additional rental day may be charged, typically 150,000–200,000 VND depending on the motorcycle. Ask how those terms apply when the bike is collected from your address, and agree any change before the deadline, not after it. If you might want the bike longer, raise that while the term is still running; [returning a long-term rental late]({{ '/articles/late-return-monthly-rental-hanoi/' | relative_url }}) shows why the order matters.
+The late-return terms are published: 20,000 VND per hour, and once the bike is more than six hours late a full additional rental day may be charged, typically 150,000–200,000 VND depending on the motorcycle. Ask how those terms apply when the bike is collected from your address, and settle any change before the deadline. If you might want the bike longer, raise that while the term is still running; [returning a long-term rental late]({{ '/articles/late-return-monthly-rental-hanoi/' | relative_url }}) shows why the order matters.
 
-If a flight sets your deadline, work backwards from it and leave a margin. Delivery and pickup stay inside opening hours, so a very early departure may leave no room for a collection, and bringing the bike to the shop earlier may then be the plan.
+If a flight sets your deadline, work backwards from it and leave a margin. Delivery and pickup stay inside opening hours, so a departure before 09:00 leaves no room for a collection, and bringing the bike to the shop earlier may then be the plan; early return carries no automatic refund for unused time.
 
 ## Common questions
 
@@ -121,11 +121,11 @@ No fixed fee is published, and nothing says delivery is free, so treat the cost 
 
 ### Can the bike be serviced or swapped at my address?
 
-Maintenance may include an oil change, chain adjustment and tension, tyre-pressure checks and normal inspection, but where that happens is not published. Ask whether the shop can collect the bike or whether you should ride in, and ask what is available meanwhile.
+Where a service visit or a swap takes place is not published. Ask whether the shop can collect the bike or whether you should ride in, and ask what is available meanwhile.
 
 ### Can I have the bike delivered after 21:00 or before 09:00?
 
-No. Delivery and pickup stay inside the opening hours, 09:00–21:00 daily, so a slot outside them is not available.
+No. Neither delivery nor pickup is offered before 09:00 or after 21:00, so ask for a slot between those hours.
 
 ## The one-line version
 
