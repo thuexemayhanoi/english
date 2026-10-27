@@ -24,11 +24,11 @@ sources:
 internal_link_targets: honda-vision-110-review, honda-vario-125-review, honda-vision-vs-honda-air-blade, 110cc-vs-125cc-scooters, smart-key-scooters-vietnam, best-125cc-scooters-vietnam-verified, honda-vision-vs-honda-lead-125, honda-air-blade-125-vs-honda-vario-125, motorbike-rental-price-hanoi, scooter-fuel-economy-comparison-vietnam
 ---
 
-The Vision is Vietnam's default scooter; the Vario 125 is an all-new 125 in Honda Vietnam's own words, and it arrives with hardware the Vision's page does not list. Honda Vision vs Honda Vario 125 in short: on Honda Vietnam's figures (retrieved 23 September 2026) the Vision is lighter (97 kg against 111 kg), has more ground clearance (175 mm against 131 mm) and costs less to buy, while the Vario 125 is the stronger, liquid-cooled 125 cc.
+The Vision is Vietnam's default scooter; the Vario 125 is an all-new 125 in Honda Vietnam's own words, and it arrives with hardware the Vision's page does not list. If you are choosing between Honda's proven favourite and its new standard-bearer, the trade-offs are clear once you line up the verified Honda Vietnam figures (retrieved 23 September 2026). Honda Vision vs Honda Vario 125 in short: the Vision is lighter (97 kg against 111 kg), has more ground clearance (175 mm against 131 mm) and costs less to buy, while the Vario 125 is the stronger, liquid-cooled 125 cc on paper.
 
 ## The figures side by side
 
-Honda Vietnam's Vision and Vario 125 pages and its price list were checked a second time on 27 October 2026, and every figure already recorded from 23 September had not changed. The Vision page shows the Sport version and the Vario page the Special version; each gives one spec sheet without saying which versions it covers. A cell marked "not published" means the figure was absent from the page, so it stays blank instead of being estimated.
+Honda Vietnam's Vision and Vario 125 pages and its price list were checked a second time on 27 October 2026, and every figure already recorded from 23 September had not changed. The Vision page shows the Sport version and the Vario page the Special version; each gives a single spec sheet and does not say whether the other versions share it. A cell marked "not published" means the figure was absent from the page, so it stays blank instead of being estimated.
 
 | | Honda Vision | Honda Vario 125 |
 |---|---|---|
@@ -72,7 +72,7 @@ The Vario's seat is 16 mm lower (769 mm against 785 mm), which may help a shorte
 
 The Vario 125 page lists a smart key with an alarm function, an LCD meter, a USB-C port, full LED lighting and CBS brakes. The Vision keeps things basic and cheap to run, on the mechanical side at least, with air cooling and the lower claimed fuel use. Honda's list price for the Vario 125 Special is 41,913,818 VND (Street 42,895,637 VND; price list read 27 October 2026).
 
-The Vision's page also lists a Smart Key, an LCD meter, an idling stop, an always-on headlight and a front compartment with a USB-C port, so those no longer separate the two scooters. What the Vario page lists and the Vision page does not are liquid cooling, a front disc with CBS, full LED lighting, wide tubeless tyres, a fuller meter and a front hook for bags. That is a difference between two pages, not proof the Vision lacks them.
+The Vision's page also lists a Smart Key, an LCD meter, an idling stop and an always-on headlight, plus a USB-C port in a front compartment, so those no longer separate the two scooters. Beyond liquid cooling, what the Vario page lists and the Vision page does not are a front disc with CBS, full LED lighting, wide tubeless tyres, a fuller meter and a front hook for bags. That is a difference between two pages, not proof the Vision lacks them.
 
 The same price list shows four Vision versions, from 31,506,545 VND (Standard) to 36,808,363 VND (Sport), so every Vario version is listed above every Vision version, by at least 5,105,455 VND. The Vario's Street version is the one with the bare handlebar. Treat these as buyers' list prices rather than rental charges: a dealer can quote what a particular version costs in full, and our [new scooter price guide]({{ '/articles/new-scooter-prices-vietnam-verified/' | relative_url }}) lists other models.
 
@@ -86,7 +86,7 @@ The tank sizes even out the range. Dividing each tank by its claimed consumption
 
 ### Storage
 
-Honda lists up to 18 litres under the Vario's seat, enough for one half-helmet and personal items. Its Vision page calls the bay large and says it takes a helmet and personal items, but gives no litres and no helmet type, so the two cannot be compared in litres. Both pages list a front compartment with a USB-C port. Take your own helmet to try in each bay; our [underseat storage comparison]({{ '/articles/scooter-underseat-storage-comparison/' | relative_url }}) shows what other scooters hold.
+Honda lists up to 18 litres under the Vario's seat, enough for one half-helmet and personal items. Its Vision page calls the bay large and says it takes a helmet and personal items, but gives no litres and no helmet type, so the two cannot be compared in litres. Both pages list a USB-C port in a front compartment. Take your own helmet to try in each bay; our [underseat storage comparison]({{ '/articles/scooter-underseat-storage-comparison/' | relative_url }}) shows what other scooters hold.
 
 ### Brakes and lights
 
@@ -118,11 +118,11 @@ A rental Vision can show how a 110 cc air-cooled scooter suits your route but te
 
 The model history on Honda's Vision page runs 2018, 2019 and 2020, then 2023 through 2026, so the Vision you rent could be an earlier year or version than the one tabled above. Ask which one you would get and what differs: a Smart Key fob or an ordinary key, the tyre sizes, and whether the USB-C port is fitted. The deposit is typically 2,000,000-5,000,000 VND depending on vehicle and conditions, and you arrange your own cover because Nguyen Tu does not provide motorbike insurance.
 
-Both scooters sit inside the 125 cc A1 class as our [A1 licence guide]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) records it under Article 57 of Law 36/2024/QH15 (petrol two-wheelers of 125 cc or less); visitors with a foreign licence should read it first.
+Both scooters sit inside the 125 cc A1 class as our [A1 licence guide]({{ '/articles/a1-licence-vietnam-what-you-can-ride/' | relative_url }}) records it in Article 57 of Law 36/2024/QH15 (petrol two-wheelers of 125 cc or less); visitors with a foreign licence should read it first.
 
 ## Which one
 
-Buy the Vision for simplicity, light weight, low running cost and parts availability everywhere. Buy the Vario 125 if you want a 125 cc with liquid cooling, a front disc with CBS and the fuller meter, and accept the extra weight. Newer riders should also read our 110cc [vs 125cc explainer]({{ '/articles/110cc-vs-125cc-scooters/' | relative_url }}) before deciding that the bigger engine is automatically better.
+Buy the Vision for simplicity, light weight, low running cost and parts availability everywhere. Buy the Vario 125 if you want a 125 cc with liquid cooling and the fuller meter, and accept the extra weight. Newer riders should also read our 110cc [vs 125cc explainer]({{ '/articles/110cc-vs-125cc-scooters/' | relative_url }}) before deciding that the bigger engine is automatically better.
 
 ### Which suits whom
 
@@ -138,7 +138,7 @@ Rows follow rider needs rather than merit, and each shows the figure that tips i
 | Lower list price for a buyer | Vision | from 31,506,545 VND against 41,913,818 VND |
 | A rental with a published daily rate | Vision | a daily rate is published for the Vision |
 
-A scooter that wins three or four of these rows is the likelier fit; if the rows split, try both. Picture a rider whose parking spot has a raised kerb: the Vision's clearance and weight count for more than the Vario's output. Picture one with a longer commute on faster roads and a regular passenger: output weighs more. If neither fits, the [Vision vs Lead 125 comparison]({{ '/articles/honda-vision-vs-honda-lead-125/' | relative_url }}) covers a storage-first alternative, and the [Air Blade 125 vs Vario 125 comparison]({{ '/articles/honda-air-blade-125-vs-honda-vario-125/' | relative_url }}) another Honda 125.
+If three or four of the rows that match how you ride point to the same scooter, that one is the likelier fit; if they split, try both. Picture a rider whose parking spot has a raised kerb: the Vision's clearance and weight count for more than the Vario's output. Picture one with a longer commute on faster roads and a regular passenger: output weighs more. If neither fits, the [Vision vs Lead 125 comparison]({{ '/articles/honda-vision-vs-honda-lead-125/' | relative_url }}) covers a storage-first alternative, and the [Air Blade 125 vs Vario 125 comparison]({{ '/articles/honda-air-blade-125-vs-honda-vario-125/' | relative_url }}) another Honda 125.
 
 ## Common questions
 
