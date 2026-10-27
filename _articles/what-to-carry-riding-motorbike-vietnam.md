@@ -78,7 +78,7 @@ Worth adding if there is room:
 
 ## Never leave in a parked bike
 
-Documents, cash, laptops, and anything you would be upset to lose. Under-seat compartments are not safes, and street parking is public. When you walk away from the bike, the same logic applies to papers: you should never leave the bike's registration papers in the bike — losing them turns a traffic stop into a complicated afternoon. If the shop tells you a paper is meant to stay with the bike, ask how you are expected to look after it while you park.
+Documents, cash, laptops, and anything you would be upset to lose. Under-seat compartments are not safes, and street parking is public. This is also why you should never leave the bike's registration papers in the bike — losing them turns a traffic stop into a complicated afternoon. That applies whenever you walk away from the bike. If the shop tells you a paper is meant to stay with the bike, ask how you are expected to look after it while you park.
 
 ### What goes with you when you walk away
 
