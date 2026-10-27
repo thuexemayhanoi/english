@@ -120,6 +120,27 @@
    "words_after": 19705,
    "qa": "Writer, independent verifier, fixer and delta verifier per article; seo-package2 lint 0 errors (retention 62-75%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate",
    "notes": "Batch 6: ten Priority A rental problem and season pages, each through writer, independent verifier, fixer and delta verifier. Words 4,352 -> 19,705. No title, H1, slug, permalink or canonical change. Three descriptions changed with a recorded reason. feels-wrong: the old one said \"ride it straight back\" for soft brakes, which contradicted the page's own stop-and-call list. breakdown: the old one stated a shop-pays policy that docs/OWNER-FACTS.md does not publish. fuel-what-petrol: \"RON95 vs other grades\" became E10 RON 95-III or E5 RON 92 (MoIT pages of 28 May and 22 Oct 2026, Government Portal of 1 Jun 2026). Removed or reworded originals, by article. feels-wrong (7): stop-now and report-soon wording rebuilt as checklists; the equipment-fine claim (no source); the maintenance split restated in OWNER-FACTS wording (\"may include\"); \"the shop would rather see a healthy bike for nothing\" and the gearbox line (implied policy). breakdown (6): the zero-skill fixes rebuilt against the Wave Alpha and Vision manuals (fuel valve ON/OFF only on the Wave Alpha, no RES); the renter-side list in OWNER-FACTS wording; \"renting beats owning\", the same-day replacement promise and the \"day ten tow\" line (unsourced). outside-hanoi (6): \"no general law forbidding it\" and the expressway fine claim replaced by Law 36/2024/QH15 Art. 25(3); \"150 km is three to four hours\" (unsourced); the documents list restated with 57(8)(b) and the handover wording; the roadside-mechanic pattern (unsourced). fuel-what-petrol (8): RON95 as the standard grade and \"designed around RON95\" replaced by the manuals (RON 91+ for the Vietnam-type Wave Alpha, ethanol up to 10%) and the MoIT grades; station density, rush-hour and consumption figures and \"fuel costs less than a day's rental\" (unsourced). couple (6): the passenger rule restated from Art. 33 (one person, two only in the listed cases); \"rentals include helmets\" turned into a handover question; the pillion technique list reworded. what-to-carry (4): the documents line restated with 57(8)(b) and 57(6)(b); the under-seat capacity claim (no manual figure); \"many rentals have no USB socket\" and \"rentals normally include a helmet\" (unsourced). complete-beginner (3): the licence rule restated with the moped class of Art. 34(1)(g) and 59(1)(a); the progression and the two beginner additions reworded. tet-holidays (7): shops closing for several days, \"Hanoi empties dramatically\", temple parking at its annual peak and the holiday-wave paragraph (unsourced; the week is now framed as a planning assumption); Tet 2027 dates from the Government Portal report of 22 Oct 2026 on notice 11483/TB-BNV. rainy-season (4): \"afternoon storms, sudden, heavy, short\", \"mornings are usually dry\" and \"multi-day drizzle is the exception\" replaced by the WMO 1991-2020 Hanoi table and the ADB/World Bank climate risk profile; the gear line reworded. winter (5): season, air-quality, cold-tyre and upside passages restated against the WMO table and the Wave Alpha manual choke bands; the one-line closing. Owner findings in other guides are listed in the progress log.",
+   "commit": "7510003"
+  },
+  {
+   "id": "p2-07",
+   "date": "2026-10-27",
+   "slugs": [
+    "riding-rental-motorbike-hanoi-rain",
+    "delivery-pickup-monthly-rental-hanoi",
+    "e-bike-monthly-rental-hanoi",
+    "breakdowns-during-long-term-rental-hanoi",
+    "choosing-motorbike-monthly-rental-hanoi",
+    "commuting-by-motorbike-monthly-hanoi",
+    "high-mileage-monthly-rental-hanoi",
+    "learning-to-ride-monthly-rental-hanoi",
+    "maintenance-during-monthly-rental-hanoi",
+    "monthly-rental-through-tet-hanoi"
+   ],
+   "words_before": 3374,
+   "words_after": 22150,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article; seo-package2 lint 0 errors (retention 64-100%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate",
+   "notes": "Batch 7: riding in rain plus nine monthly-rental cluster pages (3,374 -> 22,150 words), each through writer, independent verifier, fixer and delta verifier (riding-rain and learning-to-ride passed the first verification with MINORs). No title, H1, description, slug, permalink or canonical change. Removed or reworded originals, by article. riding-rain (6): \"short heavy bursts\", \"a fined violation\", \"wet drum brakes grab unpredictably\", \"costs you the deposit at minimum\", \"a rain suit costs little\", \"most storms pass in 20-40 minutes\" (unsourced or implied shop policy), replaced by Law 36/2024/QH15 Article 20(1)-(2), the WMO 1991-2020 Hanoi table and the Honda Vision manual. delivery-pickup, e-bike, choosing and high-mileage: no original sentence removed. breakdowns-long-term (4): \"makes some kind of incident likely\", \"the shop already knows you and the bike\", \"can usually be fixed ... cheaply\", \"most month-scale breakdowns start as ignored small signs\" (unsourced or implied shop knowledge), now hedged. commuting (3): \"most monthly rentals exist for one reason\", \"a bike beats traffic in a way nothing else does\" (unsourced superlatives) and \"the option to test your real commute for a week\" (implied policy, now a question). learning-to-ride (1): the licence sentence now says \"above the moped class\" (Law 36/2024/QH15 Articles 34(1)(g), 56, 57, 59 as consolidated in 55/VBHN-VPQH). maintenance (3): \"a daily bike gets checked by the shop between riders\", \"a mid-term check is normally straightforward\" and \"the shop covers routine maintenance\" (stated shop behaviour), now OWNER-FACTS \"may include\" and questions. through-tet (4): \"reshapes Hanoi for roughly two weeks ... millions leave the city, shops shut for days\", \"the city empties ... fewer repair shops open, fuel stations operate reduced hours\", \"many riders' worst nights of the year\" and \"a bike sitting on the street for two holiday weeks\" (unsourced), replaced by the Government portal report of 22 October 2026 on notice 11483/TB-BNV and hedged wording; \"parking gets busy\" and the one-line version are kept verbatim with a qualifying sentence. Sources read 2026-10-27: Law 36/2024/QH15 and its consolidated text 55/VBHN-VPQH (Law 118/2025/QH15 leaves the cited clauses unchanged), Circular 108/2026/TT-BCA (Official Gazette text; replaced Circular 12/2025/TT-BCA on 1 July 2026; Article 24(1)(a) and 24(5)(a)), Circular 38/2024/TT-BGTVT, Honda Vietnam Wave Alpha and Vision owner's manuals, Honda and Yamaha Vietnam model pages, MoIT notices of 22 October 2026 and 10 February 2026, the Government portal reports of 2 July 2026 (Zone 1) and 22 October 2026 (Tet 2027), the Ministry of Public Security charging advice of 25 July 2023, QCVN 04:2021/BXD consolidated 30 September 2026 (Amendment 01:2026, Circular 31/2026/TT-BXD, in force 15 December 2026), the WMO Hanoi climatology. Prices: no new price figure; no electric price; no weekly or monthly figure in new text. Owner findings in other guides are listed in the progress log.",
    "commit": ""
   }
  ],
@@ -563,6 +584,86 @@
    "words_before": 426,
    "words": 1919,
    "qa": "Writer, independent verifier, fixer and delta verifier per article; seo-package2 lint 0 errors (retention 62-75%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "riding-rental-motorbike-hanoi-rain": {
+   "status": "DONE",
+   "batch": "p2-07",
+   "date": "2026-10-27",
+   "words_before": 425,
+   "words": 1921,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article; seo-package2 lint 0 errors (retention 64-100%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "delivery-pickup-monthly-rental-hanoi": {
+   "status": "DONE",
+   "batch": "p2-07",
+   "date": "2026-10-27",
+   "words_before": 317,
+   "words": 1840,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article; seo-package2 lint 0 errors (retention 64-100%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "e-bike-monthly-rental-hanoi": {
+   "status": "DONE",
+   "batch": "p2-07",
+   "date": "2026-10-27",
+   "words_before": 313,
+   "words": 2470,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article; seo-package2 lint 0 errors (retention 64-100%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "breakdowns-during-long-term-rental-hanoi": {
+   "status": "DONE",
+   "batch": "p2-07",
+   "date": "2026-10-27",
+   "words_before": 307,
+   "words": 2268,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article; seo-package2 lint 0 errors (retention 64-100%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "choosing-motorbike-monthly-rental-hanoi": {
+   "status": "DONE",
+   "batch": "p2-07",
+   "date": "2026-10-27",
+   "words_before": 331,
+   "words": 2317,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article; seo-package2 lint 0 errors (retention 64-100%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "commuting-by-motorbike-monthly-hanoi": {
+   "status": "DONE",
+   "batch": "p2-07",
+   "date": "2026-10-27",
+   "words_before": 322,
+   "words": 2186,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article; seo-package2 lint 0 errors (retention 64-100%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "high-mileage-monthly-rental-hanoi": {
+   "status": "DONE",
+   "batch": "p2-07",
+   "date": "2026-10-27",
+   "words_before": 322,
+   "words": 2215,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article; seo-package2 lint 0 errors (retention 64-100%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "learning-to-ride-monthly-rental-hanoi": {
+   "status": "DONE",
+   "batch": "p2-07",
+   "date": "2026-10-27",
+   "words_before": 333,
+   "words": 2362,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article; seo-package2 lint 0 errors (retention 64-100%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "maintenance-during-monthly-rental-hanoi": {
+   "status": "DONE",
+   "batch": "p2-07",
+   "date": "2026-10-27",
+   "words_before": 372,
+   "words": 2389,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article; seo-package2 lint 0 errors (retention 64-100%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "monthly-rental-through-tet-hanoi": {
+   "status": "DONE",
+   "batch": "p2-07",
+   "date": "2026-10-27",
+   "words_before": 332,
+   "words": 2182,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article; seo-package2 lint 0 errors (retention 64-100%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
   }
  }
 }

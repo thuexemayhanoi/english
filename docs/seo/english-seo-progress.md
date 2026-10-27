@@ -585,3 +585,87 @@ Brief: the next Priority A queue items (a bike that feels wrong, breakdowns, rid
     - The helmet, compulsory-insurance and required-equipment guides: helmets included, the shop carries insurance, a registration copy kept under the seat.
   - Still open from batch 5: `do-hanoi-rentals-include-helmets`, `helmet-law-vietnam`, and the price decisions in `docs/seo/price-reconciliation.md`.
 - **Status:** 55 of 693 done, 0 REVIEW_REQUIRED, 638 pending.
+
+## 2026-10-27 — SEO Package 2, batch 7 (10 articles, riding in rain and the monthly-rental cluster)
+
+Brief: the next Priority A queue items, riding a rental in rain plus nine monthly-rental pages (delivery and pickup, electric bikes, breakdowns, choosing a bike, commuting, high mileage, learning to ride, maintenance, a term through Tet). Same procedure, full QA, merge on green CI. Held back:
+- the monthly and weekly price pages (owner price decision pending in `docs/seo/price-reconciliation.md`);
+- `extending-motorbike-rental-hanoi` (a measured ranking URL, protected);
+- `english-teachers-monthly-motorbike-hanoi` (overlap with the batch-3 teacher page);
+- the five district pages (doorway risk).
+
+- **Articles (original -> final words):**
+
+  | Article | Before | After |
+  |---|---|---|
+  | `riding-rental-motorbike-hanoi-rain` | 425 | 1,921 |
+  | `delivery-pickup-monthly-rental-hanoi` | 317 | 1,840 |
+  | `e-bike-monthly-rental-hanoi` | 313 | 2,470 |
+  | `breakdowns-during-long-term-rental-hanoi` | 307 | 2,268 |
+  | `choosing-motorbike-monthly-rental-hanoi` | 331 | 2,317 |
+  | `commuting-by-motorbike-monthly-hanoi` | 322 | 2,186 |
+  | `high-mileage-monthly-rental-hanoi` | 322 | 2,215 |
+  | `learning-to-ride-monthly-rental-hanoi` | 333 | 2,362 |
+  | `maintenance-during-monthly-rental-hanoi` | 372 | 2,389 |
+  | `monthly-rental-through-tet-hanoi` | 332 | 2,182 |
+  | **Total** | **3,374** | **22,150** |
+
+  Same URLs, slugs and canonicals. No title, H1 or description changed.
+- **Verification:** every article had an independent verifier.
+  - Riding-rain and learning-to-ride passed the first verification with MINORs.
+  - The other eight needed a fix round and a delta verification.
+  - For e-bike, commuting and through-tet, the lead applied the delta verifier's exact replacement text.
+  - Typical first-draft failures:
+    - implied shop rules (who collects a bike, what a mid-term check covers, a charger supplied, a slipped collection window charged as late return);
+    - repetition inside the page and 8-word runs copied from sibling pages;
+    - a fuel-economy ranking stated in the wrong order;
+    - a feature treated as missing because a manufacturer page did not list it;
+    - a regulation amendment cited as in force before its effective date.
+- **Legal currency checks (read 2026-10-27, primary texts):**
+  - **Licence circular:** Circular 108/2026/TT-BCA (Official Gazette, in force 1 July 2026) replaced Circular 12/2025/TT-BCA (Article 41(6)). Article 24(5)(a) keeps its number. The documents it points to now include a visa or temporary residence card valid for 90 days or more. The IDP articles are now 27-30. The writing guide is updated.
+  - **Law 36/2024/QH15:** amended by Law 118/2025/QH15 from 1 July 2026. The clauses this site cites are unchanged (consolidated text 55/VBHN-VPQH).
+  - **QCVN 04:2021/BXD:** its charging-area provisions arrive through Amendment 01:2026 (Circular 31/2026/TT-BXD), in force 15 December 2026.
+- **Other sources:**
+  - Circular 38/2024/TT-BGTVT.
+  - Honda Vietnam Wave Alpha and Vision owner's manuals.
+  - Honda Vietnam model pages and MODEL-DATABASE rows.
+  - MoIT notices of 22 October 2026 and 10 February 2026.
+  - Government portal reports of 2 July 2026 (Zone 1) and 22 October 2026 (Tet 2027).
+  - Ministry of Public Security charging advice of 25 July 2023.
+  - WMO Hanoi 1991-2020.
+- **Business limits:**
+  - OWNER-FACTS wording only: maintenance "may include", consumables "may be the renter's responsibility", ~1,500 km owner guidance, local support, no 24/7 rescue, late return 20,000 VND per hour, no automatic refund for early return, no insurance from Nguyen Tu.
+  - Delivery, swaps, mid-term checks, chargers, Tet opening days and renewals are questions to ask.
+- **Prices:** no new price figure, no electric price, and no weekly or monthly figure in new text.
+- **QA on the exact tree:**
+  - lint 0 errors on all ten (retention 64-100%);
+  - build-report P0 0 / P1 0;
+  - matrix P0 0 · P1 4 · P2 0 · P3 999 (the same four P1 rows);
+  - duplicate check P2 0, no body overlap;
+  - engine tests 98/98;
+  - regression guard PASS;
+  - Jekyll build 1,004 pages;
+  - rendered audit P0/P1 0, max click depth 2, unreachable 0;
+  - Guide Assistant 31/31;
+  - Package 2 gate blocking 0.
+- **Findings for the owner (not edited):**
+  - **Legal currency (high priority):**
+    - 24 articles cite Circular 12/2025/TT-BCA as current. It was replaced on 1 July 2026. The list is kept with the batch records, and a reviewed correction batch is needed.
+    - Pages naming the Ministry of Transport in licensing or citing Law 36 Article 62(7) (repealed) need review.
+  - **Electric bikes:**
+    - `charging-safety-home-electric-bike` and `electric-motorbike-commuting-hanoi` advise overnight charging. The Ministry of Public Security advice says not to charge overnight or when no adult is home.
+    - `e-bike-helmet-rules-vietnam` cites Article 33(2) for pedal e-bikes; the rule is Article 31(3).
+    - `electric-motorbike-power-kw-licence-vietnam` puts a 30 km/h model in the pedal-assist class; the limit is 25 km/h.
+    - `can-foreigners-rent-electric-bike-vietnam` omits the 50 km/h design-speed condition.
+  - **Vision features:** `stop-and-start-scooters-explained` and `best-motorbike-for-commuting-hanoi` say the Vision has no stop-start. Honda's Vision page lists idling stop.
+  - **Insurance and storage:**
+    - `best-motorbike-for-expats-hanoi` tells riders to carry the bike's insurance (OWNER-FACTS: no insurance from Nguyen Tu).
+    - `automatic-or-semi-automatic-monthly-hanoi` calls semi-automatics lighter and more fuel-efficient (1 kg and 0.1 L/100 km on Honda's figures).
+  - **Rainy season:** `best-scooters-rainy-season-commuting-vietnam` says the season lasts about four months.
+  - **Deposits:** `switching-bikes-mid-rental-hanoi` describes deposit handling not in OWNER-FACTS.
+  - **Ride-hailing:** `monthly-rental-vs-ride-hailing-hanoi` gives an unsourced crossover.
+  - **Unsourced figures:**
+    - `hanoi-motorbike-commute-corridors`: peak hours.
+    - `tet-holiday-motorbike-travel-vietnam`: "half of all shops close", "fuel stations mostly stay open".
+  - **Still open from batches 5 and 6:** the price decisions in `docs/seo/price-reconciliation.md`.
+- **Status:** 65 of 693 done, 0 REVIEW_REQUIRED, 628 pending.
