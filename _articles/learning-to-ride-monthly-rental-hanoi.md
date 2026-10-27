@@ -18,7 +18,7 @@ date_published: 2026-09-22
 last_reviewed: 2026-09-22
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
-  - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 34(1)(g) (definition of a moped), Article 56(5) (the learner provision covers car learners and test candidates), Article 57(1)(a)-(b) (classes A1 and A by engine size and electric power) and Article 59(1)(a)-(b) (age 16 for a moped, age 18 for class A1) (retrieved 2026-10-27)"
+  - "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf — Law 36/2024/QH15 as amended by Law 118/2025/QH15, consolidated text 55/VBHN-VPQH — Articles 34(1)(g), 56(5), 57(1)(a)-(b), 59(1)(a)-(b) (retrieved 2026-10-27)"
   - "https://congbao.chinhphu.vn/van-ban/thong-tu-so-108-2026-tt-bca-470055.htm — Circular 108/2026/TT-BCA of the Ministry of Public Security on testing and issuing driving licences, Official Gazette text (signed 29 June 2026, in force 1 July 2026; Article 41(6) ends Circular 12/2025/TT-BCA) — Article 24(1)(a) and 24(5)(a): exchange of a foreign licence by a foreigner and the term of the Vietnamese licence issued (retrieved 2026-10-27)"
 internal_link_targets: "easiest-motorbikes-for-beginners-hanoi, no-licence-fine-vietnam, renting-a-motorbike-hanoi-without-licence, automatic-or-semi-automatic-monthly-hanoi, students-semester-motorbike-rental-hanoi, long-term-rider-licence-checklist-hanoi, insurance-for-long-term-renter-hanoi, renting-motorbike-hanoi-complete-beginner"
 ---
@@ -31,7 +31,7 @@ The short answer: a month gives you time, not permission. A bike in the licence-
 
 Above the moped class, in Vietnam you need the correct licence to ride on public roads, even while learning. Riding without a licence carries fines and possible vehicle impoundment — the specifics are in [The Fine for Riding Without a Licence in Vietnam]({{ '/articles/no-licence-fine-vietnam/' | relative_url }}) and [Renting a Motorbike in Hanoi Without a Licence: The Real Risks]({{ '/articles/renting-a-motorbike-hanoi-without-licence/' | relative_url }}). There is no legal "learner" exception for the streets. Practise legally: off-road or quiet private areas for the first hours, and only street riding once you hold the right licence for the bike, or when the bike is in the licence-free moped class.
 
-A quiet space is a safety choice rather than a legal exemption. This guide cannot say whether a given yard or car park counts as a road, so ask whoever controls the space before you use it, and plan as though the licence rules follow you onto it.
+A quiet space is a safety choice, not a legal exemption; ask whoever controls it before you use it.
 
 ### Two starting points: the moped class and everything above it
 
@@ -41,17 +41,18 @@ Above that class the question is the usual one. Article 57(1)(a) gives class A1 
 
 | Your starting point | What the law says | What it means for the month |
 |---|---|---|
-| Aged 16 or over, on a bike that meets the moped definition | Articles 34(1)(g) and 59(1)(a): a moped, from age 16 | No licence class applies, so the plan below is about skill; ask for the engine size or motor power and the design speed of the exact bike |
+| Aged 16 or over, on a bike that meets the moped definition | Articles 34(1)(g) and 59(1)(a): a moped, from age 16 | No licence class applies, so the plan below is about skill; check the exact bike's engine size or motor power and its design speed with the shop |
+| Aged 16 or 17, on a bike above the moped class | Article 59(1)(a)-(b): a moped from 16, but no class A1 or A is issued before 18 | No licence can be issued yet, so this is not a bike to practise on in the street; see [Minimum Age to Ride a Motorbike in Vietnam]({{ '/articles/minimum-age-ride-motorbike-vietnam/' | relative_url }}) |
 | Aged 18 or over, on a petrol bike up to 125 cm3 or an electric bike up to 11 kW | Article 57(1)(a): class A1 | A licence valid in Vietnam for that class is needed before street riding |
 | On a bike larger than that | Article 57(1)(b): class A | A licence valid in Vietnam for class A is needed |
 
-The Law's one learner provision that this guide read, Article 56(5), concerns people learning to drive cars. It creates no stage for a motorbike rider, and a rental agreement does not create one either.
+The Law's one learner provision that this guide read, Article 56(5), concerns people learning to drive cars. It creates no stage for a motorbike rider, and a rental agreement does not create one either. [Does Vietnam Have a Motorbike Learner Permit]({{ '/articles/motorbike-learner-permit-vietnam/' | relative_url }}) explains why.
 
 ### If you stay longer than a visit
 
 [The Long-Term Rider's Licence Checklist for Hanoi]({{ '/articles/long-term-rider-licence-checklist-hanoi/' | relative_url }}) covers matching the class to the bike, the documents a foreign rider carries and tracking expiry dates, so this guide does not repeat it.
 
-One rule matters if you are a foreign resident who ends up holding a Vietnamese licence. Article 24(5)(a) of Circular 108/2026/TT-BCA, which replaced Circular 12/2025/TT-BCA on 1 July 2026, says the term of a Vietnamese licence issued in exchange to a foreigner follows the term on one of the qualifying documents (a visa or temporary residence card valid for 90 days or more, or a permanent residence card) and the term of the foreign licence, and does not exceed the term the Vietnamese licence itself allows.
+If you later exchange a foreign licence, Circular 108/2026/TT-BCA, which took effect on 1 July 2026, ties the term of the Vietnamese licence to a document such as your visa or residence card and to the foreign licence (Article 24(5)(a)).
 
 Whether a foreign resident may sit the Vietnamese test, or exchange a foreign licence, and which documents the office wants, is a question for the licensing authority. This guide describes no steps and no fees.
 
@@ -75,7 +76,7 @@ Read these weeks as a suggested plan, not as a measure of how long learning take
 
 Start with the engine off and find every control by touch: both brake levers, throttle, indicators, horn, starter and stand. Then, in an empty space with room to run on after a mistake and a smooth, dry surface, pull away without a lurch, stop on a chosen mark with both brakes, hold a straight line at walking pace and ride wide turns before tight ones.
 
-Practise the emergency stop here, from a modest speed in a straight line, using the method in [Emergency Braking on a Motorbike in Vietnam]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}). The readiness test in the complete-beginner guide is a ready-made checklist for the end of the week. Keep sessions short, and dress for the fall you hope not to have: a fastened helmet, closed shoes and long trousers.
+Practise the emergency stop here, from a modest speed in a straight line, using the method in [Emergency Braking on a Motorbike in Vietnam]({{ '/articles/emergency-braking-motorbike-vietnam/' | relative_url }}). The readiness test in the complete-beginner guide is a ready-made checklist for the end of the week. Keep sessions short, and dress for the fall you hope not to have. Wear a fastened helmet, closed shoes and long trousers.
 
 ### Week two: quiet streets at quiet hours
 
@@ -117,14 +118,14 @@ Stopping is part of the plan, not a failure of it. These signs in the log or on 
 
 Lessons here means time with a riding instructor beside you in a space that is not traffic. This guide names no school and gives no fee: ask people who have learned in Hanoi for recommendations, and check what a lesson covers and what it costs before you book.
 
-While you pause, the rental keeps running. Early return carries no automatic refund for unused time, so [Ending a Monthly Motorbike Rental Early]({{ '/articles/early-return-monthly-rental-hanoi/' | relative_url }}) is worth reading before you commit, and it is one reason a rider who has never ridden is better served by a short rental first than by a month.
+Stopping practice does not end the rental by itself, and early return carries no automatic refund for unused time, so [Ending a Monthly Motorbike Rental Early]({{ '/articles/early-return-monthly-rental-hanoi/' | relative_url }}) is worth reading before you commit, and it is one reason to settle the terms with the shop before you commit to the full month.
 
 ## Insurance while you learn
 
 Nguyen Tu does not provide motorbike insurance, so any cover is yours to arrange. A learner is exactly the rider a policy's small print may catch, so ask your insurer before the first session:
 
 - Does the policy cover riding a motorbike at all, and does it set an engine-size limit?
-- Does it require a licence valid for the bike's class, and what happens to a claim if you ride a moped without one?
+- Does it require a licence valid for the bike's class, and what happens to a claim if the rider holds no licence for the bike's class?
 - Does the cover last the whole month, or is it written for a shorter trip?
 - Does it say anything about riders who are still learning?
 
@@ -141,8 +142,6 @@ Beyond telling the shop you are learning and asking about a light bike and a swa
 ## Why a month helps
 
 Short rentals push learners onto busy roads too fast. A month lets skill develop before you filter between buses in rush hour. Combine it with the weekly check routine in [A Month with a Rental Motorbike: Inspection and Check Routine]({{ '/articles/monthly-rental-inspection-schedule-hanoi/' | relative_url }}) so you also learn how a healthy bike should feel — new riders who know "normal" notice problems earlier.
-
-Because the bike stays the same for weeks, small changes stand out, and the log above is your baseline for reporting them to the shop.
 
 ## Common questions
 
@@ -164,4 +163,4 @@ Do not assume it does. Nguyen Tu does not provide motorbike insurance, and a pol
 
 ## The one-line version
 
-Learn legally — licence first, quiet places first — choose a light automatic or semi-automatic, and let the month build your skill gradually instead of all at once. Above the moped class, "licence first" means a licence valid in Vietnam for the bike's class; on a licence-free moped it means the age of 16 and real control of the bike.
+Learn legally — licence first, quiet places first — choose a light automatic or semi-automatic, and let the month build your skill gradually instead of all at once.
