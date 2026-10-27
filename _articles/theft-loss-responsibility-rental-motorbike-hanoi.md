@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.3 rental-practicalities"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://vbpl.vn/van-ban/chi-tiet/bo-luat-dan-su-so-91-2015-qh13--95942 — Civil Code 91/2015/QH13 (Bộ luật Dân sự), national legal-document database — Articles 13, 360, 479(1), 482(5), 584 and 585 on compensation, the lessee's duty to preserve leased property and the risk during a late return (retrieved 2026-10-27)"

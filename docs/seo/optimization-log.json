@@ -1747,5 +1747,31 @@
    "wordsAdded": 19398,
    "rankTrackedUrls": 0
   }
+ },
+ {
+  "date": "2026-10-27",
+  "batch": "package2-p2-09",
+  "package": 2,
+  "note": "SEO Package 2 content depth: 10 article(s) expanded to at least 1600 words (3725 -> 21980 words); same URL, slug and canonical; Batch 9: documents, licences, helmets, late return, rental agreements and theft (3,725 -> 21,980 words), each through writer, independent verifier, fixer and delta verifier (monthly-requirements: the verifier's exact replacement texts applied by the lead). No title, H1, slug, permalink or canonical change. Four descriptions changed with a recorded reason: documents-needed (the old one said a passport for the contract and \"nothing more\", stated an unpublished ID rule as fact and implied a licence is always needed; the moped class needs none), without-licence (the old one asserted that shops rent without a licence, fine bands and \"void\" insurance), helmets (the old one said \"Yes: rentals normally include helmets\", not in docs/OWNER-FACTS.md), theft-loss (the old one stated that the renter carries the loss up to the deposit and beyond). Removed or reworded originals, by article. documents-needed and monthly-requirements: none (qualified by added sentences). without-licence (8): \"every shop knows\", \"none will say it is fine\", the fine bands and the 10-14 million figure (Decree 168/2024 as amended by Decree 238/2026 from 15 August 2026; the fine guide is linked instead), \"most travel policies\", \"typically excluded\" (Smartraveller/FCDO wording used instead), \"nobody will stop you renting\" and the police-stop line. helmets (6): \"helmets come with the rental as standard practice\", the child-age line (Law 36 Art 33 has no such rule), the shop-door helmets, \"shops carry several\", \"shops provide two helmets on request\", \"helmets are included\" (all unpublished; now questions). late-return-monthly (4): the lead's \"exactly how\", \"most late returns\", the day charge stated as certain (OWNER-FACTS: \"may be charged\") and the one-line version. late-return-rental (7): the deposit-settlement practice, \"day-charge logic takes over\", \"often settle the difference\", \"the earlier, the cheaper\", \"most late returns\", \"the same money plus friction\" (wrong below six hours) and the terms paragraph moved to the lead. licence-checklist (1): typo \"a insurance\". agreement (3): \"most Hanoi rentals … many smaller shops\", the terms list (rider insurance -> motorbike insurance) and \"disputes are rare\". agreement-long-term (4): \"maintenance included\", \"who may ride\" wording, \"the four long-term points\" and \"settles every dispute\". theft-loss (7): theft as \"primarily the renter's exposure\", the \"standard rental logic\" and deposit-cap claims, \"the shop's compulsory insurance\", the police-report claim, \"most thefts are absences of locks\" and the named-renter contract claim (unpublished terms; now the Civil Code frame and questions). Sources read 2026-10-27: Law 36/2024/QH15 consolidated text 55/VBHN-VPQH (Articles 20, 31, 33, 34, 56, 57, 59, 80, 83), Circular 108/2026/TT-BCA (Articles 24, 26, 27-30, 41), Civil Code 91/2015/QH13 on vbpl.vn (Articles 13, 328, 360, 418, 419, 428, 472-482, 584, 585; no amendment found), Decree 67/2023/NĐ-CP Official Gazette text (Articles 5, 7(1)) and the Decree 220/2026/NĐ-CP record, Decree 238/2026/NĐ-CP (Government portal, Official Gazette record), Circular 04/2021/TT-BKHCN issuing QCVN 2:2021/BKHCN (vbpl.vn, tcvn.gov.vn, QUATEST 3), Smartraveller and FCDO Vietnam travel advice. Prices: no new price figure; late-return examples are labelled arithmetic on the published 20,000 VND per hour; no weekly or monthly figure in new text; no fine amount. Owner findings in other guides are listed in the progress log.",
+  "urls": [
+   "/articles/documents-needed-rent-motorbike-hanoi/",
+   "/articles/monthly-motorbike-rental-requirements-hanoi/",
+   "/articles/renting-a-motorbike-hanoi-without-licence/",
+   "/articles/do-hanoi-rentals-include-helmets/",
+   "/articles/late-return-monthly-rental-hanoi/",
+   "/articles/late-return-rental-motorbike-hanoi/",
+   "/articles/long-term-rider-licence-checklist-hanoi/",
+   "/articles/motorbike-rental-agreement-hanoi/",
+   "/articles/motorbike-rental-agreement-long-term-hanoi/",
+   "/articles/theft-loss-responsibility-rental-motorbike-hanoi/"
+  ],
+  "rank_work": false,
+  "counts": {
+   "articles": 10,
+   "wordsBefore": 3725,
+   "wordsAfter": 21980,
+   "wordsAdded": 18255,
+   "rankTrackedUrls": 0
+  }
  }
 ]

@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.1 how-to-rent"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf — Consolidated text 55/VBHN-VPQH of Law 36/2024/QH15 on Road Traffic Order and Safety, as amended by Law 118/2025/QH15 — Articles 34(1)(e), 34(1)(g) and 34(2)(b) (motorcycle, moped, motor-assisted bicycle), 56(1) and 56(4) (licence duty and moped riders), 57(1) and 57(5)-(8) (licence classes, validity, recognised licences, IDP), 59(1) (minimum ages), 80(1) (duties after a road accident) and 83(1)-(2) (road accidents) (retrieved 2026-10-27)"

@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: monthly-rental
 subcluster: "2.2 long-term-planning"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://vbpl.vn/van-ban/chi-tiet/bo-luat-dan-su-so-91-2015-qh13--95942 — Civil Code 91/2015/QH13 (Bộ luật Dân sự), national legal-document database — Articles 428, 474(2), 475, 477(1)-(3), 478(2) and 481(2): a lease with no determinable term, sublease, repair and replacement remedies, rent paid by period and unilateral termination (retrieved 2026-10-27)"

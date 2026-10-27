@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: monthly-rental
 subcluster: "2.1 monthly-basics"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf — Law on Road Traffic Order and Safety No. 36/2024/QH15 as amended by Law 118/2025/QH15, consolidated text 55/VBHN-VPQH (Government document files) — Article 57(5)(a), (7)(a) and (8)(a) and (b): licence terms, licences without validity and the International Driving Permit (retrieved 2026-10-27)"

@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.1 how-to-rent"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf — Consolidated text 55/VBHN-VPQH of Law 36/2024/QH15 as amended by Law 118/2025/QH15 (Government portal) — Article 33(1)-(2) and Article 31(3): helmet duty for riders and passengers of motorbikes, mopeds and motorised pedal bicycles, and the second-passenger cases (retrieved 2026-10-27)"

@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.3 rental-practicalities"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://vbpl.vn/van-ban/chi-tiet/bo-luat-dan-su-so-91-2015-qh13--95942 — Civil Code 91/2015/QH13 (Bộ luật Dân sự), national legal-document database — Articles 418, 472 and 482 on a contractual penalty only if agreed, the lease of property, and the return of leased property, late return and risk during the delay (retrieved 2026-10-27)"
