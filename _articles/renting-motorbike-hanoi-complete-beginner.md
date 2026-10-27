@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.4 renter-situations"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 33(2) (helmet), Article 34(1)(g) (definition of a moped), Article 56(1), (4) and (5) (licence duty, papers a rider carries, moped riders, car learners), Article 57 (licence classes and licences valid in Vietnam), Article 59(1)(a) (age 16 for a moped) (retrieved 2026-10-25)"

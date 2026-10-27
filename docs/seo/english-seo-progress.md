@@ -503,3 +503,85 @@ Brief: the next Priority A queue items (lost key, puncture, loose chain, outside
 - **QA on the exact tree:** lint 0 errors on all ten; build-report P0 0 / P1 0; matrix P0 0 · P1 4 · P2 0 · P3 999 (the same four P1 rows as before); engine tests 98/98; regression guard PASS; Jekyll build 1,004 pages; rendered audit P0/P1 0, max click depth 2, unreachable 0; Guide Assistant 31/31; duplicate check P2 0.
 - **Findings for the owner (not edited):** `motorbike-rental-deposit-hanoi` and `how-deposit-returns-work-hanoi` treat a lost key as a deposit deduction, and the latter's description promises the deposit back in cash with no deductions (OWNER-FACTS states neither); `inner-tubes-vs-tubeless-motorbike` ("overwhelmingly tube-type", unsourced); `motorbike-rental-price-hanoi` ("Fuel is the renter's") and `most-fuel-efficient-scooters-vietnam-verified` ("Rental fuel is your cost"), OWNER-FACTS states no fuel rule; `rental-motorbike-fuel-what-petrol` (Wave and Sirius "designed around RON95", the Wave Alpha manual lists RON 91 or higher for the Vietnam type); `rental-motorbike-inspection-checklist` (refers to "two conventions", the fuel page now describes three); `rental-motorbike-breakdown-hanoi` and `rental-motorbike-feels-wrong` (unsourced shop behaviour); `do-hanoi-rentals-include-helmets`, `helmet-law-vietnam` and `what-to-carry-riding-motorbike-vietnam` (helmets or a toolkit included as standard, not in OWNER-FACTS; a child-age claim not in Article 33); `carrying-luggage-motorbike-safely-vietnam` versus `what-to-carry-riding-motorbike-vietnam` (cross-body bags). Price decisions still open in `docs/seo/price-reconciliation.md` (including the homepage E-Bike and Yamaha Sirius day-rate cards).
 - **Status:** 45 of 693 done, 0 REVIEW_REQUIRED, 648 pending.
+
+## 2026-10-27 — SEO Package 2, batch 6 (10 articles, Priority A rental problem and season pages)
+
+Brief: the next Priority A queue items (a bike that feels wrong, breakdowns, riding outside Hanoi, which petrol, couples, what to carry, complete beginners, Tet, the rainy season, winter). Same procedure, full QA, merge on green CI. The five district pages (`renting-motorbike-ba-dinh`, `-cau-giay`, `-dong-da`, `-hai-ba-trung`, `-thanh-xuan`) are held for a dedicated batch: expanding them with shared text would create near-duplicate doorway pages, and each needs district facts that can be verified.
+
+- **Articles (original -> final words):**
+  - `rental-motorbike-feels-wrong` 336 -> 2,081
+  - `rental-motorbike-breakdown-hanoi` 413 -> 2,022
+  - `rental-motorbike-outside-hanoi` 446 -> 2,187
+  - `rental-motorbike-fuel-what-petrol` 452 -> 2,117
+  - `renting-motorbike-couple-hanoi` 476 -> 1,876
+  - `what-to-carry-riding-motorbike-vietnam` 428 -> 1,671
+  - `renting-motorbike-hanoi-complete-beginner` 478 -> 1,898
+  - `renting-motorbike-hanoi-tet-holidays` 494 -> 2,081
+  - `renting-motorbike-hanoi-rainy-season` 403 -> 1,845
+  - `renting-motorbike-hanoi-winter` 426 -> 1,919
+  - Total: 4,352 -> 19,697 words.
+- **URLs, titles and descriptions:**
+  - Same URLs, slugs and canonicals. No title or H1 changed.
+  - Three descriptions changed, each for a recorded reason:
+    - feels-wrong: the old description told riders to "ride it straight back" with soft brakes, which contradicts the page's stop-and-call list.
+    - breakdown: the old description stated a shop-pays policy that OWNER-FACTS does not publish.
+    - fuel-what-petrol: the old description said "RON95 vs other grades". The new one names the E10 RON 95-III and E5 RON 92 grades on sale.
+- **Verification:**
+  - Every article went through writer, independent verifier, fixer and delta verifier.
+  - Typical first-draft failures:
+    - implied shop rules (who pays for a breakdown, helmets included, a replacement bike the same day);
+    - unsourced weather and traffic patterns (afternoon storms "20-40 minutes", "Hanoi empties at Tet");
+    - "RON 95 is the standard grade";
+    - the learner rules ignoring the licence-free moped class;
+    - legal articles cited to the wrong clause (IDP recognition is Art. 57(6)(b); 57(8)(b) is the carrying duty).
+  - Retention after the fixes: 62-75% of original sentences, lint 0 errors on all ten.
+- **Primary, manufacturer and official reads (2026-10-25 to 2026-10-27):**
+  - Law 36/2024/QH15: Articles 20(1), 21(1), 25(3), 33, 34(1)(g), 56, 57(6)(b) and 57(8)(b), 59(1)(a), 80.
+  - Circular 12/2025/TT-BCA, Article 24(5)(a).
+  - Circular 38/2024/TT-BGTVT: speed tables, following distance and built-up area signs.
+  - Honda Vietnam owner's manuals:
+    - Wave Alpha (AFB110MD): RON 91 or higher for the Vietnam type; ethanol 10% or less; choke bands 10-35°C; fuel valve ON/OFF only; against jump-starting from a car battery; document pouch.
+    - Vision (NSC110).
+  - Ministry of Industry and Trade notices of 28 May and 22 October 2026, and the Government portal of 1 June 2026: E10 RON 95-III and E5 RON 92.
+  - WMO Hanoi climatology 1991-2020 and the ADB/World Bank climate risk country profile.
+  - Labour Code consolidated text (Art. 111(3), 112).
+  - The Government portal report of 22 October 2026 on notice 11483/TB-BNV: the Tet 2027 civil-service break is 4-10 February; the first day of Tet falls on Saturday 6 February.
+  - UK FCDO travel advice, quoted as foreign advice, not as Vietnamese law.
+- **Business limits:**
+  - OWNER-FACTS wording for maintenance ("may include"), consumables, the ~1,500 km guidance, local support, no 24/7 rescue and the late-return charge.
+  - Helmets, the registration and insurance papers, fuel level and the Tet opening days are written as handover questions, because OWNER-FACTS states no rule for them.
+- **Prices:** no new price figure. Published daily rates and the deposit range appear only where already published.
+- **QA on the exact tree:**
+  - build-report P0 0 / P1 0.
+  - Matrix P0 0, P1 4, P2 0, P3 999 (the same four P1 rows as before).
+  - Duplicate check P2 0, with no body-overlap finding.
+  - Engine tests 98/98; regression guard PASS.
+  - Jekyll build 1,004 pages; rendered audit P0/P1 0, max click depth 2, unreachable 0.
+  - Guide Assistant 31/31; Package 2 gate blocking 0.
+- **Findings for the owner (not edited):**
+  - Fines quoted without a read of the amended penalty decree (Decree 238/2026 not read):
+    - `motorbike-passenger-rules-vietnam`: 400,000-600,000 VND.
+    - `motorbikes-on-expressway-vietnam`: 4-6 million VND.
+    - `rental-motorbike-inspection-checklist` and `riding-rental-motorbike-hanoi-rain`: unlit riding and a missing mirror.
+  - `motorbike-speed-limits-vietnam` still cites Circular 31/2019. Circular 38/2024 replaced it from 1 January 2025, with the same values.
+  - `dead-battery-motorbike-vietnam` says car-to-bike jump starts work. The Wave Alpha manual advises against jump-starting from a car battery.
+  - Petrol grades:
+    - `hanoi-petrol-stations-guide-riders` and `fuel-grades-petrol-stations-vietnam` still call RON 95 the standard grade.
+    - `motorbike-rental-fuel-policy-hanoi` omits the E10/E5 timeline.
+  - Deposit and return terms that OWNER-FACTS does not state:
+    - `early-return-rental-motorbike-hanoi`: deposit "returned in full, on the spot", and a weekly price that sits in an open price-reconciliation cell.
+    - `how-deposit-returns-work-hanoi`: cash back on the spot.
+    - `late-return-rental-motorbike-hanoi`: after-hours returns agreed in advance.
+  - Weather claims:
+    - `riding-rental-motorbike-hanoi-rain`: storms of 20-40 minutes and wet drum brakes that "grab", both unsourced.
+    - `winter-riding-motorbike-hanoi`: "12-17 C" and "weeks of drizzle", against the WMO averages.
+    - `hanoi-riding-seasons-guide`: winter as December-January, against the WMO averages.
+  - `scooters-with-usb-c-charging-verified` says the Vision lists no charging port. The Honda Vietnam Vision page lists USB-C.
+  - `idp-vietnam-motorbike-rules` cites Article 57(8) for IDP recognition. Recognition is in 57(6)(b).
+  - `motorbike-learner-permit-vietnam` ignores the licence-free moped class.
+  - Owner facts not published for these claims:
+    - `best-motorbike-for-two-people-hanoi`: both helmets fit in the Vision's box.
+    - `motorbike-trip-prep-checklist-hanoi`: distance limits and the frequency of police checks.
+    - The helmet, compulsory-insurance and required-equipment guides: helmets included, the shop carries insurance, a registration copy kept under the seat.
+  - Still open from batch 5: `do-hanoi-rentals-include-helmets`, `helmet-law-vietnam`, and the price decisions in `docs/seo/price-reconciliation.md`.
+- **Status:** 55 of 693 done, 0 REVIEW_REQUIRED, 638 pending.

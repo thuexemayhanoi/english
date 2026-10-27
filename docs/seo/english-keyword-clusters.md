@@ -1,6 +1,6 @@
 # English Keyword Clusters
 
-Generated 2026-10-25 by `scripts/english-seo-matrix.js`. Keyword ownership is defined in `docs/seo/keyword-targets.json` (hand-authored, one owner URL per keyword family); the 14 topic clusters are the implemented site taxonomy (`docs/TAXONOMY.md`, `_data/navigation.yml`). No search volumes are stated: no English Search Console export exists yet (docs/SOURCE-MAP.md), and volumes are never invented.
+Generated 2026-10-27 by `scripts/english-seo-matrix.js`. Keyword ownership is defined in `docs/seo/keyword-targets.json` (hand-authored, one owner URL per keyword family); the 14 topic clusters are the implemented site taxonomy (`docs/TAXONOMY.md`, `_data/navigation.yml`). No search volumes are stated: no English Search Console export exists yet (docs/SOURCE-MAP.md), and volumes are never invented.
 
 ## Rules
 
@@ -159,7 +159,7 @@ Generated 2026-10-25 by `scripts/english-seo-matrix.js`. Keyword ownership is de
 
 | # | Cluster | Hub (pillar) | Articles | Commercial | Informational | Avg words | Subclusters |
 |---|---|---|---|---|---|---|---|
-| 1 | rental | /topics/rental/ | 81 | 34 | 47 | 1313 | 5 |
+| 1 | rental | /topics/rental/ | 81 | 34 | 47 | 1510 | 5 |
 | 2 | monthly-rental | /topics/monthly-rental/ | 45 | 12 | 33 | 462 | 5 |
 | 3 | scooters | /topics/scooters/ | 110 | 51 | 59 | 392 | 4 |
 | 4 | motorcycles | /topics/motorcycles/ | 108 | 65 | 43 | 333 | 4 |

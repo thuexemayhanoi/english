@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.3 rental-practicalities"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://moit.gov.vn/quan-ly-thi-truong/bo-cong-thuong-thong-tin-ve-dieu-hanh-gia-xang-dau-ngay-22-10.html — Ministry of Industry and Trade of Vietnam, notice on petrol and oil price management of 22 October 2026 — quotes Circular 50/2025/TT-BCT of 7 November 2025 (from 1 June 2026 unleaded petrol must be blended into E10 for petrol engines nationwide; E5 RON 92 continues to be blended until the end of 31 December 2030), lists E5 RON 92 and E10 RON 95-III as the commonly consumed petrol products with a maximum retail price for each, and calls Vietnamese petrol prices low compared with neighbouring countries (retrieved 2026-10-25)"

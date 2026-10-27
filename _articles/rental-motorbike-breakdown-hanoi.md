@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.3 rental-practicalities"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf — Honda Vietnam, Wave Alpha 110 owner's manual (Hướng dẫn sử dụng; AFB110MD, Vietnam type V, © 2023) — two-way fuel valve (ON and OFF), start routine with choke by air temperature, kick-start lever, five-second restart rule, no-start checks, advice against jump-starting from a car battery (retrieved 2026-10-25)"

@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.4 renter-situations"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://worldweather.wmo.int/en/json/308_en.json — WMO World Weather Information Service, Hanoi climatology data file (1991-2020 monthly averages supplied by the Viet Nam Meteorological and Hydrological Administration) — mean daily minimum and maximum temperature, days with at least 0.1 mm of rain and monthly rainfall for Hanoi (retrieved 2026-10-25)"

@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: rental
 subcluster: "1.3 rental-practicalities"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-27
 sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://congbaocdn.chinhphu.vn/CongBaoCP/CongBao/2025/9/46083/58726-1-1309-1310.pdf — Official Gazette (Cong bao) No. 1309 + 1310 of 11 September 2025, consolidated text of the Labour Code No. 45/2019/QH14 — Article 112(1) paid public holidays, Article 112(3) Tet and National Day days set each year, Article 111(3) day off in lieu (retrieved 2026-10-25)"
