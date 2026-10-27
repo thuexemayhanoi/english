@@ -59,7 +59,7 @@ Whether a small automatic has under-seat room for a rain jacket, a lock and a sm
 
 A rental can be an earlier model year than the one on a page, and a page does not say that a model is on hand, so treat these as things to look for. [Contact us]({{ '/contact/' | relative_url }}) to confirm current availability.
 
-Do not take it for granted that semi-automatics and manuals give you the floor space under the seat spine or a rear rack instead — a bungee cord and a small bag solve it. Some semi-automatics have a small compartment and some have none: Honda's Wave RSX page lists a U-box that holds one half helmet and other personal items, while its Wave Alpha 110 page names no storage compartment among its features.
+A line often repeated about storage goes: "semi-automatics and manuals give you the floor space under the seat spine or a rear rack instead — a bungee cord and a small bag solve it." Neither half holds for every bike, and a strap is safer than a bungee cord. Some semi-automatics have a small compartment and some have none: Honda's Wave RSX page lists a U-box that holds one half helmet and other personal items, while its Wave Alpha 110 page names no storage compartment among its features.
 
 Where there is none, a rear rack may be all there is, and a small bag held on with a strap, not a bungee cord, solves it once you have looked at the bike and asked whether you may use the rack. Whichever you use, read how to [load and secure a bag]({{ '/articles/carrying-luggage-motorbike-safely-vietnam/' | relative_url }}) so that nothing can swing or fall into traffic.
 
