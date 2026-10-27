@@ -113,3 +113,37 @@ The failures were avoidable. Before returning a draft, check yours against this 
 - **Wrong original sentences are reworded in place.** A corrective sentence after an original is acceptable only when the original is incomplete, not when it is false; verifiers refuted drafts that kept a false original and contradicted it two lines later.
 - **Model data:** the Honda Click and Yamaha Mio have no verified figures; a difference of a few millimetres or kilograms is not a reason to choose a bike; name the variant (Wave Alpha 110, Sirius RC 110) whose row a figure comes from.
 - **Repetition across siblings:** the batch-3 articles now own long-term terms (three months, six months, a year, expats), the return, the inspection checklist, rental problems, what a rental includes, and the teacher and student rental pages; link to them instead of restating them.
+
+## 11. Lessons from batches 4-6 (most first drafts needed a fix round)
+
+- **Facts read in these batches, reusable with the source named:**
+  - Honda Vietnam owner's manual, Wave Alpha (AFB110MD, Vietnam type):
+    - petrol RON 91 or higher;
+    - ethanol 10% or less;
+    - choke routine for 10-35°C, no choke above 35°C, and the same steps followed by continued warming at 10°C or below;
+    - fuel valve ON/OFF only (no RES);
+    - advises against jump-starting from a car battery.
+  - Petrol on sale: E10 RON 95-III and E5 RON 92, with E5 blending to 31 December 2030. Sources: MoIT notices of 28 May and 22 October 2026, Government portal of 1 June 2026. Never write "RON 95 is the standard grade".
+  - Hanoi weather: the WMO 1991-2020 climatology (rain day = 0.1 mm or more). Never invent storm lengths, "mornings are dry" or "weeks of drizzle".
+  - Law 36/2024/QH15:
+    - lights from 18:00 to 06:00 and in fog, smoke, dust or rain (Article 20(1));
+    - horn (Article 21(1));
+    - motorbikes barred from expressways (Article 25(3));
+    - IDP recognition is 57(6)(b), and 57(8)(b) is the duty to carry;
+    - accident duties (Article 80).
+  - Circular 38/2024/TT-BGTVT replaced Circular 31/2019 from 1 January 2025.
+  - Tet 2027 civil-service break: 4-10 February, as reported by the Government portal (22 October 2026, notice 11483/TB-BNV).
+- **Learner and beginner pages:** the moped class needs no licence from age 16. Never write that a beginner can only ride with a licence: say "above the moped class".
+- **Shop behaviour is a question, never a rule.** This covers who pays for a breakdown, a replacement bike, helmets included, fuel level at return, Tet opening days, distance limits, after-hours returns and how the papers are shown. Use OWNER-FACTS wording where it exists: maintenance "may include an oil change, chain adjustment and tension, tyre-pressure checks and normal inspection"; consumables "may be the renter's responsibility"; support is primarily Hanoi and local; no 24/7 rescue; late return 20,000 VND per hour; Nguyen Tu does not provide motorbike insurance.
+- **Monthly and weekly pages:** the monthly, weekly, 50cc and E-Bike figures are under owner review (`price-reconciliation.md`). New text names no weekly, monthly, 50cc or electric price and no discount, and never says which models have a monthly rate. Keep an original sentence that carries such a figure verbatim, and send the reader to the contact route for a quote.
+- **Retention trap:** rewording an original sentence counts as removing it. To qualify or correct one, extend it (add a clause before or after) so its words stay contiguous, or replace it only when it is false. Before replying, check the lint figure. Several drafts fell below 60% after a late cut.
+- **Sibling overlap:** the batch-4 to batch-6 pages now own:
+  - beginners and the lightest bikes;
+  - fuel policy and petrol grades;
+  - breakdowns and "feels wrong";
+  - puncture, loose chain, lost key and outside repairs;
+  - riding outside Hanoi;
+  - couples, female riders and digital nomads;
+  - Tet, the rainy season and winter.
+  Link to them instead of restating them, and do not copy their sentences (the duplicate check measures 6-word overlap).
+- **No section anchors in links to other pages** (`/articles/x/#heading`): the offline Lychee check cannot resolve a fragment on a directory URL and blocks CI. Link the page and name the section in the text.
