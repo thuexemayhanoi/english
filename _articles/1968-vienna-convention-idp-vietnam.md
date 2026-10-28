@@ -128,7 +128,7 @@ That is one choice for a rider whose country is outside the convention, not the 
 
 The fine for riding without valid documents is unpleasant; the accident scenario is worse. After a crash, an invalid licence can invalidate insurance claims and complicate liability, even if the other driver was at fault. Getting the paperwork right before you ride is the cheapest insurance you will ever arrange.
 
-That last line is a figure of speech: a permit is a licence document, not a policy. Whether a licence problem defeats a claim depends on the policy wording and the facts of the crash, so ask your insurer in writing; the [travel insurance guide]({{ '/articles/motorbike-travel-insurance-vietnam/' | relative_url }}) has more on policy wording. Nguyen Tu does not provide motorbike insurance, so customers arrange their own. For the amounts, see [the no-licence fine guide]({{ '/articles/no-licence-fine-vietnam/' | relative_url }}); the decree behind them was amended in 2026.
+That last line is a figure of speech: a permit is a licence document, not a policy. Whether a licence problem defeats a claim depends on the policy wording and the facts of the crash, so ask your insurer in writing; the [travel insurance guide]({{ '/articles/motorbike-travel-insurance-vietnam/' | relative_url }}) has more on policy wording. Nguyen Tu does not provide motorbike insurance, so customers arrange their own. [The no-licence fine guide]({{ '/articles/no-licence-fine-vietnam/' | relative_url }}) gives amounts under the 2024 text; check them against the decree as amended in 2026.
 
 ## Questions riders ask
 

@@ -34,7 +34,7 @@ Short answer: international driving permits in Vietnam count when the permit was
 
 Article 57(6)(b) of the Law on Road Traffic Order and Safety (No. 36/2024/QH15) recognises IDPs and national licences issued by [countries that are members]({{ '/articles/which-countries-idp-valid-vietnam/' | relative_url }}) of the **[1968 Vienna Convention on Road Traffic]({{ '/articles/1968-vienna-convention-idp-vietnam/' | relative_url }})**, provided the licence is appropriate to the vehicle being ridden. Rules of thumb:
 
-- Carry both your national licence and the IDP — the IDP is a translation, not a standalone licence. Riding on a permit without the matching national licence breaches the carrying duty in Article 57(8)(b); the fine is set in Article 18 of Decree 168/2024/NĐ-CP, which Decree 238/2026/NĐ-CP amended from 15 August 2026, so this page quotes no amount and the [no-licence fine guide]({{ '/articles/no-licence-fine-vietnam/' | relative_url }}) has the figures
+- Carry both your national licence and the IDP — the IDP is a translation, not a standalone licence. Riding on a permit without the matching national licence breaches the carrying duty in Article 57(8)(b); the fine is set in Article 18 of Decree 168/2024/NĐ-CP, which Decree 238/2026/NĐ-CP amended from 15 August 2026, so this page quotes no amount; check the [no-licence fine guide]({{ '/articles/no-licence-fine-vietnam/' | relative_url }}) figures against it
 - Your national licence must itself include motorcycles; an IDP cannot add categories you do not hold
 - An IDP under the 1949 Geneva Convention is not the basis for legal riding in Vietnam
 - Photocopies and photos of documents are not substitutes
