@@ -94,7 +94,7 @@ Article 24(5)(a) is the date rule. In a plain translation of the Vietnamese text
 
 Article 24(2) lists the dossier: a translation of the foreign licence certified as that paragraph describes, a valid health certificate (not required of a foreigner who exchanges for the term written in the entry visa or temporary residence card) and a copy of the qualifying visa or card.
 
-You file at the Traffic Police Department, at a commune-level police office with a reception point, or online through the National Public Service Portal (Article 24(3)(a)). From a complete dossier the circular allows 1 day to issue the licence in electronic form and 2.5 working days to print one on request (Article 24(3)(d)). File while the visa or card still has comfortably more than 90 days left. [The expat licence guide]({{ '/articles/expat-motorbike-licence-vietnam/' | relative_url }}) compares exchange with the test route, which suits a rider with no motorbike entitlement at home or whose licence cannot be exchanged.
+You file at the Traffic Police Department, at a commune-level police office with a reception point, or online through the National Public Service Portal (Article 24(3)(a)). Article 24(3)(d) gives 1 day from a complete dossier for the Department to pass the data to the Traffic Police Bureau for central management and issue of the licence, electronic version included; a printed licence on request takes up to 2.5 working days. File while the visa or card still has comfortably more than 90 days left. [The expat licence guide]({{ '/articles/expat-motorbike-licence-vietnam/' | relative_url }}) compares exchange with the test route, which suits a rider with no motorbike entitlement at home or whose licence cannot be exchanged.
 
 ## What to carry while riding
 

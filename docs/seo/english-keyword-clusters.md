@@ -1,6 +1,6 @@
 # English Keyword Clusters
 
-Generated 2026-10-27 by `scripts/english-seo-matrix.js`. Keyword ownership is defined in `docs/seo/keyword-targets.json` (hand-authored, one owner URL per keyword family); the 14 topic clusters are the implemented site taxonomy (`docs/TAXONOMY.md`, `_data/navigation.yml`). No search volumes are stated: no English Search Console export exists yet (docs/SOURCE-MAP.md), and volumes are never invented.
+Generated 2026-10-28 by `scripts/english-seo-matrix.js`. Keyword ownership is defined in `docs/seo/keyword-targets.json` (hand-authored, one owner URL per keyword family); the 14 topic clusters are the implemented site taxonomy (`docs/TAXONOMY.md`, `_data/navigation.yml`). No search volumes are stated: no English Search Console export exists yet (docs/SOURCE-MAP.md), and volumes are never invented.
 
 ## Rules
 
@@ -164,12 +164,12 @@ Generated 2026-10-27 by `scripts/english-seo-matrix.js`. Keyword ownership is de
 | 3 | scooters | /topics/scooters/ | 110 | 51 | 59 | 451 | 4 |
 | 4 | motorcycles | /topics/motorcycles/ | 108 | 65 | 43 | 333 | 4 |
 | 5 | manual-clutch | /topics/manual-clutch/ | 55 | 9 | 46 | 385 | 4 |
-| 6 | 50cc | /topics/50cc/ | 40 | 0 | 40 | 445 | 6 |
+| 6 | 50cc | /topics/50cc/ | 40 | 0 | 40 | 494 | 6 |
 | 7 | electric | /topics/electric/ | 89 | 5 | 84 | 349 | 9 |
 | 8 | maintenance | /topics/maintenance/ | 120 | 0 | 120 | 438 | 3 |
 | 9 | parts-gear | /topics/parts-gear/ | 90 | 0 | 90 | 374 | 5 |
 | 10 | safety | /topics/safety/ | 55 | 0 | 55 | 331 | 3 |
-| 11 | law-licences | /topics/law-licences/ | 66 | 0 | 66 | 396 | 4 |
+| 11 | law-licences | /topics/law-licences/ | 66 | 0 | 66 | 664 | 4 |
 | 12 | hanoi | /topics/hanoi/ | 54 | 0 | 54 | 492 | 3 |
 | 13 | trips | /topics/trips/ | 38 | 0 | 38 | 452 | 3 |
 | 14 | vietnam-travel | /topics/vietnam-travel/ | 30 | 0 | 30 | 571 | 4 |

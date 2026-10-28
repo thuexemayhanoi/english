@@ -1773,5 +1773,31 @@
    "wordsAdded": 18255,
    "rankTrackedUrls": 0
   }
+ },
+ {
+  "date": "2026-10-28",
+  "batch": "package2-p2-10",
+  "package": 2,
+  "note": "SEO Package 2 content depth: 10 article(s) expanded to at least 1600 words (3611 -> 22680 words); same URL, slug and canonical; Batch 10: the licence, IDP and moped cluster (3,611 -> 22,680 words), each through writer, independent verifier, fixer and delta verifier (1968-vienna-convention: the verifier's own edited copy adopted as the fix round, then delta-verified; small delta findings on idp-rules, moped, 50cc, expat, foreigners-50cc and which-countries applied by the lead). No title, H1, slug, permalink or canonical change. Five descriptions changed with a recorded reason: foreign-licence-exchange (the old one cited Circular 12/2025/TT-BCA and a three-month condition; Circular 108/2026/TT-BCA Article 24(1)(a) asks for a visa or temporary residence card of 90 days or more, or a permanent residence card), a1-licence (\"valid to 175cc\" for \"below 175cc\", Law 36 Article 89(2)(a)), expat (Circular 12/2025 and \"3+ months\"), learner-permit (cited Circular 14/2025/TT-BXD \"since 1 September 2025\" as current and \"requires a licensed training course\"; Circular 17/2026/TT-BXD amends it and Law Article 60(2) allows other forms of training), which-countries (\"Only\" and Article 57(8) as the recognition clause; recognition is 57(6)(b)). Corrections to verified pages: long-term-rider-licence-checklist-hanoi (batch 9) read Circular 108 Article 24(3)(d) as \"issued in 1 day\"; foreign-licence-exchange and idp-rules called exchange optional (Article 18(7)(a): a foreigner who needs to drive and holds a national licence must exchange, unless a treaty provides otherwise); idp-rules stated the 1949 permit point flatly (57(6)(d) names no treaty); links to the no-licence fine guide now say its figures follow the 2024 decree text. Removed or reworded originals, by article. foreign-licence-exchange (6): Circular 12/2025 as current (twice), the three-month residence condition, the old dossier list, the 2024 fine bands, the checkpoint exposure line. a1-licence (2): the summary list (now with the 125 cm3 / 11 kW limits as written) and the 2024 fine bands. idp-rules (4): Article 57(8) as the recognition clause, the 2024 fine band, the old exchange sentence (\"without a new driving test\" under Circular 12/2025), the dated \"Verified against\" line. what-is-a-moped (6): the lead definition (now quoted from Article 34(1)(g)), \"miss one and it is something else\" (the electric and petrol limbs are alternatives), the helmet fine, \"40 km/h wherever it rides\" (Circular 38/2024 Article 7 applies where no sign is posted, Article 4(2)), the 10-14 million band, the tuned-machine sentence. 50cc-licence (5): \"basic vehicle-handling skills\" (Article 56(4): the skill to control the vehicle), the 400,000-600,000 VND fine, the electric limb without the 50 km/h condition, \"helmet rules\" (Article 31(3) also covers motorised pedal bicycles), \"insurance or IDP issues\". 1968-vienna-convention (3): Vietnam's accession date now from the UN record (20 August 2014), the 1977 / non-party sentence (91 parties; China dropped, no row), Article 57(8) as the recognition clause. expat (6): Circular 12/2025, three months (twice), \"no expiry\", the district-of-registration processing claim, \"the exchange does not require the theory test for most valid licences\". foreigners-50cc (3): the legal-position lead (\"basic handling skills\"), \"does not look good in that file\" (unsourced), the fine schedule. learner-permit (2): \"4 practical\" hours (Circular 17/2026: class A 20 + 12), the 2-4 million band. which-countries (4): \"makes its own 1968-format IDPs acceptable\" (Circular 108 Article 30(1)), \"the permit document itself\" check, \"1949 ... not recognised ... only the 1968 format\", the document-carriage fine line. Sources read 2026-10-27/28: Law 36/2024/QH15 consolidated text 55/VBHN-VPQH (Articles 31, 33, 34, 56, 57, 59, 60, 61, 80, 89), Circular 108/2026/TT-BCA (Articles 4, 15, 16, 18(7), 24, 27-30, 41, Appendices I and XII), Circular 38/2024/TT-BGTVT Official Gazette text (Articles 4(2), 7), Circular 17/2026/TT-BXD (training hours; read via the Government document file), Civil Code 91/2015/QH13 Articles 584-585, the Decree 238/2026/NĐ-CP Official Gazette record, the UN Treaty Collection status of the 1968 Convention on Road Traffic (status as at 27 October 2026). Lint-protected original sources kept: the dead UN path on 1968-vienna-convention, Law Articles \"58, 59\" on foreigners-50cc, the Thanh Niên first-issue hours on learner-permit (owner findings).",
+  "urls": [
+   "/articles/foreign-licence-exchange-vietnam/",
+   "/articles/a1-licence-vietnam-what-you-can-ride/",
+   "/articles/idp-vietnam-motorbike-rules/",
+   "/articles/what-is-a-moped-vietnam-law/",
+   "/articles/50cc-licence-vietnam/",
+   "/articles/1968-vienna-convention-idp-vietnam/",
+   "/articles/expat-motorbike-licence-vietnam/",
+   "/articles/can-foreigners-ride-50cc-vietnam/",
+   "/articles/motorbike-learner-permit-vietnam/",
+   "/articles/which-countries-idp-valid-vietnam/"
+  ],
+  "rank_work": false,
+  "counts": {
+   "articles": 10,
+   "wordsBefore": 3611,
+   "wordsAfter": 22680,
+   "wordsAdded": 19069,
+   "rankTrackedUrls": 0
+  }
  }
 ]
