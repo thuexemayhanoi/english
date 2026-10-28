@@ -28,7 +28,7 @@ internal_link_targets: "can-tourists-ride-motorbike-vietnam, 1968-vienna-convent
 
 An International Driving Permit (IDP) is the document that makes many foreign licences usable in Vietnam — but only the right kind.
 
-Short answer: international driving permits in Vietnam count when the permit was issued by a 1968 Vienna Convention state and is carried together with the national licence it goes with, and both documents cover the class of bike you ride (Article 57(6)(b) and (8) of the Law). A permit on its own, a 1949 Geneva permit and a permit issued by Vietnam do not make a rider licensed here, and a moped needs no licence at all.
+Short answer: international driving permits in Vietnam count when the permit was issued by a 1968 Vienna Convention state and is carried together with the national licence it goes with, and both documents cover the class of bike you ride (Article 57(6)(b) and (8) of the Law). A permit on its own or one issued by Vietnam does not make a rider licensed here, a 1949 Geneva permit is not the permit those clauses name, and a moped needs no licence at all.
 
 ## Which IDP counts
 
