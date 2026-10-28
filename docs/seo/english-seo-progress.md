@@ -782,3 +782,52 @@ Brief: the next queue items after batch 8 (Priority B rental-terms pages): the d
   - **Helmets:** `helmet-law-vietnam` ("helmets are part of any rental"), `helmet-safety-standards-explained-vietnam` (ECE/DOT treated as equal to QCVN 2:2021/BKHCN), `child-passengers-motorbike-vietnam` (shops stock child helmets).
   - **Other unsourced claims:** `switching-bikes-mid-rental-hanoi`, `shortening-long-motorbike-rental-hanoi`, `three-month-motorbike-rental-hanoi`, `motorbike-parking-vietnamese-cities` ("lots assume responsibility"), `traffic-at-rush-hour-riding-hanoi` (rush-hour windows).
 - **Status:** 85 of 693 done, 1 REVIEW_REQUIRED, 607 pending.
+
+## 2026-10-28 — SEO Package 2, batch 10 (10 articles, the licence, IDP and moped cluster)
+
+Brief: the licence and IDP cluster flagged in batch 9 as stating superseded rules (Circular 12/2025/TT-BCA as current, a three-month condition, "no expiry" for an exchanged licence, Article 57(8) as the recognition clause, fine amounts). Same procedure, full QA, merge on green CI. Held back: `no-licence-fine-vietnam` and `stopped-by-traffic-police-vietnam` (they need the Decree 168/2024/NĐ-CP Article 18 text as amended by Decree 238/2026/NĐ-CP, not yet read), plus the deposit, insurance, early-return, price and district pages (as before).
+
+- **Articles (original -> final words):**
+
+  | Article | Before | After |
+  |---|---|---|
+  | `foreign-licence-exchange-vietnam` | 409 | 2,372 |
+  | `a1-licence-vietnam-what-you-can-ride` | 320 | 2,210 |
+  | `idp-vietnam-motorbike-rules` | 323 | 2,397 |
+  | `what-is-a-moped-vietnam-law` | 367 | 2,283 |
+  | `50cc-licence-vietnam` | 416 | 2,101 |
+  | `1968-vienna-convention-idp-vietnam` | 344 | 2,144 |
+  | `expat-motorbike-licence-vietnam` | 388 | 2,389 |
+  | `can-foreigners-ride-50cc-vietnam` | 347 | 2,240 |
+  | `motorbike-learner-permit-vietnam` | 331 | 2,396 |
+  | `which-countries-idp-valid-vietnam` | 366 | 2,148 |
+  | **Total** | **3,611** | **22,680** |
+
+  Same URLs, slugs and canonicals. No title or H1 changed. Five descriptions changed with a recorded reason (batch notes in `docs/seo/package2-status.json`): foreign-licence-exchange (cited Circular 12/2025 and three months), a1-licence ("valid to 175cc" for "below 175cc"), expat (Circular 12/2025, three months), learner-permit (Circular 14/2025/TT-BXD as the current text; Law Article 60(2) allows other forms of training), which-countries ("only" and Article 57(8) as the recognition clause). Correction to batch 9: `long-term-rider-licence-checklist-hanoi` read Circular 108 Article 24(3)(d) as "issued in 1 day"; reworded.
+- **Verification:** every article had an independent verifier, a fix round and a delta verification. Typical first-draft failures:
+  - exchange presented as optional: Circular 108/2026/TT-BCA Article 18(7)(a) says a foreigner who needs to drive in Vietnam and holds a national licence must exchange, unless a driving-licence treaty provides otherwise (point b). Two verified pages were corrected the same day;
+  - Appendix XII of Circular 108 read as a conversion table for foreign permits (it covers IDPs Vietnam issues against licences issued before 1 January 2025);
+  - a 1949 permit stated as refused outright (Article 57(6)(d) names no treaty);
+  - links that presented pages with stale figures or unsupported insurance claims as authority (the no-licence fine guide, the compulsory-insurance and 50cc-insurance pages);
+  - restatement across the cluster's siblings and pages at the 2,400-word cap.
+- **Legal sources (primary texts, read 2026-10-27/28):** Law 36/2024/QH15 consolidated text 55/VBHN-VPQH; Circular 108/2026/TT-BCA (Articles 4, 15, 16, 18(7), 24, 27-30, 41, Appendices I and XII); Circular 38/2024/TT-BGTVT (Official Gazette text, Articles 4(2) and 7: 40 km/h for mopeds where no sign is posted); Circular 17/2026/TT-BXD (training hours: A1 9 + 3, A 20 + 12); Civil Code 91/2015/QH13 Articles 584-585; Decree 238/2026/NĐ-CP record; the UN Treaty Collection status of the 1968 Convention on Road Traffic (status as at 27 October 2026: 91 parties, Viet Nam acceded 20 August 2014). Writing guide section 12 records these.
+- **Business limits:** OWNER-FACTS wording only: 50cc price and availability by enquiry, deposit only as the published range, rental periods daily, weekly, monthly and longer by arrangement, Nguyen Tu provides no motorbike insurance. No fine amount, no fee, no new price.
+- **QA on the exact tree:**
+  - lint 0 errors on all ten (retention 65-88%);
+  - build-report P0 0 / P1 0;
+  - matrix P0 0 · P1 4 · P2 0 · P3 999 (the same four P1 rows);
+  - duplicate check P2 0, no body overlap;
+  - engine tests 98/98;
+  - regression guard PASS;
+  - Jekyll build 1,004 pages;
+  - rendered audit P0/P1 0, max click depth 2, unreachable 0 (the one P2 is the 404 page without breadcrumbs, as before);
+  - Guide Assistant 31/31;
+  - Package 2 gate blocking 0.
+- **Findings for the owner (not edited):**
+  - **Stale licence rules on pages outside this batch:** `how-to-get-a1-licence-vietnam`, `vietnam-a1-licence-test`, `vietnam-licence-test-in-english`, `foreign-licence-exchange-documents-vietnam`, `foreign-student-motorbike-licence-vietnam`, `expats-monthly-motorbike-hanoi`, `can-foreigners-rent-a-motorbike-hanoi`, `can-tourists-ride-motorbike-vietnam`, `idp-validity-period-vietnam`, `non-1968-licence-vietnam`, `motorbike-licence-validity-renewal-vietnam`: Circular 12/2025 as current, three months, "no expiry", 25 questions without the 1 March 2027 change, "20 theory and 4 practical", Article 57(8) as the recognition clause. Batch 11 takes these next.
+  - **Fine amounts from the 2024 text:** `no-licence-fine-vietnam`, `fake-licence-penalties-vietnam`, `ride-125cc-with-car-licence-vietnam`, `how-to-rent-a-motorbike-hanoi`, `lending-motorbike-unlicensed-rider-vietnam`, `riding-50cc-at-16-vietnam`, `50cc-fines-vietnam`, `50cc-motorbike-myths-law-vietnam`, `helmet-rules-50cc-mopeds`, `vietnam-a-licence-what-you-can-ride`, `fast-electric-motorbike-licence-vietnam`, `non-1968-licence-vietnam`, `can-tourists-ride-motorbike-vietnam` (Decree 238/2026 amended Decree 168/2024 from 15 August 2026; the amended Article 18 has not been read).
+  - **Insurance claims against OWNER-FACTS:** `do-you-need-insurance-for-50cc-vietnam`, `compulsory-motorbike-insurance-vietnam`, `is-insurance-included-motorbike-rental-hanoi` (the rental or fleet carries the cover).
+  - **Moped cluster:** `xe-dap-mai-rules-vietnam` (age 16 for a motorised pedal bicycle; Article 59(1) names none), `motorbike-speed-limits-vietnam` (design speed equal to the legal ceiling), `helmet-rules-50cc-mopeds` (rental fleets include helmets), `50cc-motorbike-myths-law-vietnam` (helmet rules differ for e-bikes), `50cc-training-high-school-vietnam` and `riding-50cc-at-16-vietnam` ("basic" handling skills), `ride-125cc-with-car-licence-vietnam` (car licence "neither helps nor blocks"; Circular 108 Article 4(1)(c) waives the theory paper), `old-licence-classes-after-2025-vietnam` and `vietnam-motorbike-licence-classes-explained` (omit Law Article 89(3)(a)), `where-to-practise-riding-hanoi` (street practice without a licence caveat).
+  - **Lint-protected sources:** `1968-vienna-convention-idp-vietnam` keeps an original UN Treaty Collection URL that now shows "Page not found" (the working status URL is cited beside it); `can-foreigners-ride-50cc-vietnam` keeps an original entry citing Law Articles 58-59 for licences valid in Vietnam (57 is correct); `motorbike-learner-permit-vietnam` keeps a Thanh Niên entry with the first-issue practical hours. Removing or editing them needs the owner's approval.
+  - **Model data:** MODEL-DATABASE gives the Honda Vision as 110 cc; the Honda owner's manual shows 109.5 cc (open since batch 2).
+- **Status:** 95 of 693 done, 1 REVIEW_REQUIRED, 597 pending.

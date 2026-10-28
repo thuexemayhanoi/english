@@ -15,7 +15,7 @@ search_intent: informational
 topic_cluster: law-licences
 subcluster: "11.1 licence-system"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-28
 review_status: VERIFIED
 sources:
   - "https://thanhnien.vn/tu-19-hoc-bang-lai-xe-may-hang-a-a1-bao-lau-moi-duoc-thi-sat-hach-185250909090811652.htm — Thanh Niên: Circular 14/2025/TT-BXD training-hour requirements for class A and A1 from 1 September 2025"
