@@ -20,6 +20,7 @@ sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 57(6) and 57(8): licences valid on Vietnamese territory, international driving permit validity and the duty to carry both documents (retrieved 2026-10-25)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-12-2025-tt-bca-cua-bo-cong-an-quy-dinh-ve-sat-hach-cap-giay-phep-lai-xe-119250303174347028.htm — Circular 12/2025/TT-BCA, full text (Báo điện tử Chính phủ) — Article 24: exchange of a foreign driving licence, the residence-document condition and the exclusions (retrieved 2026-10-25)"
+  - "https://congbao.chinhphu.vn/van-ban/thong-tu-so-108-2026-tt-bca-470055.htm — Circular 108/2026/TT-BCA of the Ministry of Public Security on testing and issuing driving licences, Official Gazette text (signed 29 June 2026, in force 1 July 2026) — Article 24(1)(a): exchange of a foreign licence (read 2026-10-30)"
 internal_link_targets: "monthly-motorbike-rental-hanoi, monthly-motorbike-rental-requirements-hanoi, long-term-rider-licence-checklist-hanoi, insurance-for-long-term-renter-hanoi, families-monthly-motorbike-hanoi, motorbike-rental-expats-moving-hanoi, best-motorbike-for-expats-hanoi, motorbike-rental-agreement-long-term-hanoi"
 ---
 
@@ -39,7 +40,7 @@ Article 57(8) limits the permit to no more than three years from its issue date,
 
 ### Exchanging for a Vietnamese licence
 
-Residents have a second route: under Article 24(1)(a) of Circular 12/2025/TT-BCA, a foreigner who lives, works or studies in Vietnam and holds a national driving licence that is still valid, together with one of a diplomatic or service identity card, or a temporary or permanent residence card, with a period of three months or more, can be considered for exchange to the matching Vietnamese class. Among others, the Circular excludes an International Driving Permit and a foreign licence that is expired, altered, or so damaged that it no longer shows enough information.
+Residents have a second route: under Article 24(1)(a) of Circular 108/2026/TT-BCA, in force since 1 July 2026 in place of Circular 12/2025/TT-BCA, a foreigner who lives, works or studies in Vietnam and holds a national driving licence still in its term, together with a diplomatic or service identity card, a visa or temporary residence card valid for at least 90 more days, or a valid permanent residence card, can be considered for exchange to the matching Vietnamese class. Among others, the Circular excludes an International Driving Permit and a foreign licence that is expired, altered, or so damaged that it no longer shows enough information.
 
 [How Foreigners Exchange a Licence for a Vietnamese One]({{ '/articles/foreign-licence-exchange-vietnam/' | relative_url }}) walks through the process and [the long-term expat licence guide]({{ '/articles/expat-motorbike-licence-vietnam/' | relative_url }}) covers the choice between an IDP and an exchange, so if your stay will outlast the date on your IDP, decide early, because an exchange needs a national licence that is still valid.
 
@@ -107,7 +108,7 @@ A bike parked outdoors or in a shared apartment lot is exposed to knocks and wea
 
 ### Do I need a Vietnamese licence to ride a monthly rental?
 
-Not in every case. As set out above, Article 57 also recognises a 1968-convention IDP carried with a national licence that fits the vehicle, provided both are in date. A Vietnamese licence, which a resident can apply for by exchange under Article 24 of Circular 12/2025/TT-BCA, replaces that arrangement for the term printed on it, which Article 24(5)(a) ties to the residence card and the foreign licence. Ask the shop which documents it wants to see before you pay.
+Not in every case. As set out above, Article 57 also recognises a 1968-convention IDP carried with a national licence that fits the vehicle, provided both are in date. A Vietnamese licence, which a resident can apply for by exchange under Article 24 of Circular 108/2026/TT-BCA, replaces that arrangement for the term printed on it, which Article 24(5)(a) ties to the visa or residence card and the foreign licence. Ask the shop which documents it wants to see before you pay.
 
 ### Can the bike be delivered to my apartment?
 
@@ -131,4 +132,4 @@ Sort the licence, rent monthly instead of daily, arrange your own insurance, and
 
 To discuss a monthly or longer-term arrangement and confirm current availability of the model you want, use the [shop's contact page]({{ '/contact/' | relative_url }}). Other renter situations are collected in the [monthly rental hub]({{ '/topics/monthly-rental/' | relative_url }}).
 
-*Information, not legal advice. Checked on 2026-10-25 against Law 36/2024/QH15 (Article 57) and Circular 12/2025/TT-BCA (Article 24). This page states no fine amounts: confirm any figure against the current text.*
+*Information, not legal advice. Checked on 2026-10-25 against Law 36/2024/QH15 (Article 57) and Circular 12/2025/TT-BCA (Article 24); the exchange passages were updated on 2026-10-30 to Circular 108/2026/TT-BCA, which replaced it on 1 July 2026. This page states no fine amounts: confirm any figure against the current text.*

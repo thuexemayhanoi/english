@@ -64,9 +64,9 @@ Filing is with the Traffic Police Department, a commune-level police office with
 
 ## Route two: sit the test
 
-Expats with no motorbike entitlement at home — or with a licence Vietnam cannot exchange — take the [A1 test route]({{ '/articles/vietnam-licence-test-in-english/' | relative_url }}): training course, 25-question theory paper, practical circuit, with the question count changing under Circular 108/2026/TT-BCA.
+Expats with no motorbike entitlement at home — or with a licence Vietnam cannot exchange — take the [A1 test route]({{ '/articles/vietnam-licence-test-in-english/' | relative_url }}): training course, 25-question theory paper, practical circuit, with the question count changing under Circular 108/2026/TT-BCA. The 25-question figure comes from a December 2024 Government portal account of the earlier procedure, not from a legal text read for this page.
 
-One fact decides the planning: the test is conducted in Vietnamese only. Expats who cannot read the language reliably usually arrange the exam through a training centre that guides foreign candidates through the Vietnamese question bank. Article 15(2) makes the training course part of the route, so ask the centre what help it gives foreign candidates.
+One fact decides the planning: the test is conducted in Vietnamese only. That is how the paper is set in practice, not a sentence of the Circular: no article of Circular 108/2026/TT-BCA names the language of the standard paper, and the Article 14 paper test, run with an interpreter under Appendix I, is written for ethnic-minority A1 candidates who cannot read or write Vietnamese, not for foreigners. Expats who cannot read the language reliably usually arrange the exam through a training centre that guides foreign candidates through the Vietnamese question bank. Article 15(2) makes the training course part of the route, so ask the centre what help it gives foreign candidates.
 
 ### Who may sit the test as a foreigner
 
