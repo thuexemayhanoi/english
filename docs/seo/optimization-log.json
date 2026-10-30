@@ -1825,5 +1825,31 @@
    "wordsAdded": 19838,
    "rankTrackedUrls": 0
   }
+ },
+ {
+  "date": "2026-10-30",
+  "batch": "package2-p2-12",
+  "package": 2,
+  "note": "SEO Package 2 content depth: 10 article(s) expanded to at least 1600 words (3548 -> 23238 words); same URL, slug and canonical; Batch 12: class A, lost licences, the points system, ages, electric two-wheelers, the motorised pedal bicycle and mopeds (3,548 -> 23,238 words), each through writer, independent verifier and, where findings required it, a fix round and a delta verifier; local primary texts only (Law 36/2024/QH15 consolidated text 55/VBHN-VPQH, Circular 108/2026/TT-BCA, Circular 12/2025/TT-BCA, the consolidated vehicle-registration circular 41/VBHN-BCA, MODEL-DATABASE). A usage limit stopped four writers mid-run; they were resumed, not restarted. No title, H1, slug, permalink or canonical change. Five descriptions changed with a recorded reason: lost-licence (cited Circular 12/2025, superseded by Circular 108/2026 from 1 July 2026), points-system (promised \"points per violation, no licence expiry\"; the page quotes no per-offence points and only A1, A and B1 have no term), lose-all-points (credited the test to Decree 168/2024 and Circular 65/2024, not verifiable locally), electric-bike (\"machines up to 4 kW as mopeds\" ignored the 50 km/h design-speed limit of Law Article 34(1)(g)), 50cc-myths (165 characters and \"fines match motorbikes\", unverifiable). Corrections to verified pages: motorbike-rental-international-students-hanoi, expats-monthly-motorbike-hanoi and can-foreigners-rent-a-motorbike-hanoi stated the Circular 12/2025 exchange rule (three months); now Circular 108/2026 Article 24(1)(a) (a visa or temporary residence card with 90 days or more left, a valid permanent residence card, or a diplomatic or service identity card), with one Circular 108 sources entry each; the students FAQ said a visa is not an exchange paper (24(1)(a) names it). expat-motorbike-licence-vietnam keeps its original \"Vietnamese only\" and \"25-question\" sentences with an explicit correction after each. vietnam-a-licence-what-you-can-ride: \"rated above 11 kW\" became \"motor power is above 11 kW\" (57(1)(b)). Removed or reworded originals, by article. a-licence (5): the 23/25 pass mark, the 2024 fine band, \"the first 125 cc of the engine\", the rental-market claim, the A1-to-A exchange line. lost-licence (5): the Circular 12/2025 lead, the old dossier (form, ID, residence papers), \"a few working days\" and the fee, the points-delay claim (a reissue keeps the points, Law 58(4)), the 2024 fine band. points-system (5): per-offence deductions, \"deductions stack ... no reset\" (58(2)), \"punished as riding without a valid licence\", \"no receipt\" (58(1) requires notice), \"an IDP rider has no points account\". lose-all-points (7): \"twelve deductions\", \"no appeal shortcut\", the Circular 65/2024 test content and topic list, \"fail and wait\", \"rarely one-off offenders\", notices \"arrive with the fine\". minimum-age (7): \"police do check\", \"types most tourists rent\", the Decree 168 Article 18(4)(a) band, the Decree 238 \"rewrote this clause\" claim, \"under 16 handled more leniently\", \"shops apply the same thresholds\", \"cannot rent a 110 cc even with a parent\". electric-bike (2): \"old enough to ride a bicycle\" (59(1) names no age), a broken slug anchor. fast-electric (5): \"capped and de-restricted\", the showroom anecdote, \"a motorbike plate means a motorbike licence\" (mopeds are plated too, 35(1)(a)), the 2024 fine bands, the rental-fleet claim. xe-dap-may (6): age 16 (59(1) names none), the helmet fine band, \"classification violation\", two popularity claims, \"checkpoints do check\". 50cc-myths (8): \"Article 7 fines mopeds at exactly the same levels\", \"explicitly including electric mopeds\", the helmet fine, \"Myth 3 ... see Myth 1\", \"overtaken more often\", the electric above-limit-is-a-moped error, \"classes differ in helmet\" (31(3) and 33(2) impose the same duty), the Decree 168 verification footer. riding-50cc-at-16 (4): \"basic handling skills\" (56(4) does not say basic), \"any motorised two-wheeler\" (the pedal bicycle is a simple vehicle), the manual-clutch sentence, the 2024 fine band. Body links dropped because the target contradicts the page: riding-while-suspended (calls a zero balance \"voided\"), the two insurance pages and the e-bike helmet page on 50cc-myths, the speed-classes page on electric-bike. Owner findings are listed in the progress log.",
+  "urls": [
+   "/articles/vietnam-a-licence-what-you-can-ride/",
+   "/articles/lost-motorbike-licence-replacement-vietnam/",
+   "/articles/motorbike-licence-points-system-vietnam/",
+   "/articles/lose-all-licence-points-vietnam/",
+   "/articles/minimum-age-ride-motorbike-vietnam/",
+   "/articles/electric-bike-licence-vietnam/",
+   "/articles/fast-electric-motorbike-licence-vietnam/",
+   "/articles/xe-dap-mai-rules-vietnam/",
+   "/articles/50cc-motorbike-myths-law-vietnam/",
+   "/articles/riding-50cc-at-16-vietnam/"
+  ],
+  "rank_work": false,
+  "counts": {
+   "articles": 10,
+   "wordsBefore": 3548,
+   "wordsAfter": 23238,
+   "wordsAdded": 19690,
+   "rankTrackedUrls": 0
+  }
  }
 ]

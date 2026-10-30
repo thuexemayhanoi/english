@@ -4,10 +4,10 @@
   "mode": "ZERO-DATA",
   "clusters": 14,
   "articles": 981,
-  "inSiloBodyLinks": 2869,
-  "crossSiloBodyLinks": 1557,
+  "inSiloBodyLinks": 2944,
+  "crossSiloBodyLinks": 1592,
   "inSiloShare": 65,
-  "articlesWithoutInSiloInbound": 224,
+  "articlesWithoutInSiloInbound": 222,
   "trueSiloOrphans": 0,
   "hubsWithFewerThan3StartHere": 0,
   "demandByMarket": {
@@ -53,11 +53,11 @@
      "sitePct": 100
     },
     {
-     "url": "/articles/a1-licence-vietnam-what-you-can-ride/",
+     "url": "/articles/documents-to-carry-motorbike-vietnam/",
      "sitePct": 100
     },
     {
-     "url": "/articles/documents-to-carry-motorbike-vietnam/",
+     "url": "/articles/idp-vietnam-motorbike-rules/",
      "sitePct": 100
     },
     {
@@ -65,19 +65,19 @@
      "sitePct": 100
     },
     {
-     "url": "/articles/idp-vietnam-motorbike-rules/",
-     "sitePct": 99
-    },
-    {
-     "url": "/articles/vietnam-motorbike-licence-classes-explained/",
-     "sitePct": 99
-    },
-    {
-     "url": "/articles/50cc-licence-vietnam/",
+     "url": "/articles/a1-licence-vietnam-what-you-can-ride/",
      "sitePct": 99
     },
     {
      "url": "/articles/outside-repair-shops-rental-motorbike/",
+     "sitePct": 99
+    },
+    {
+     "url": "/articles/no-licence-fine-vietnam/",
+     "sitePct": 99
+    },
+    {
+     "url": "/articles/vietnam-motorbike-licence-classes-explained/",
      "sitePct": 99
     }
    ],
@@ -121,7 +121,7 @@
     "1.4 renter-situations": 15
    },
    "words": {
-    "avg": 1651,
+    "avg": 1652,
     "min": 301
    },
    "review": {
@@ -139,7 +139,7 @@
    "links": {
     "inSiloBody": 671,
     "crossSiloOut": 338,
-    "crossSiloIn": 337,
+    "crossSiloIn": 345,
     "inSiloShare": 67,
     "articlesWithoutInSiloInbound": 2,
     "articlesWithoutInSiloInboundSample": [
@@ -211,7 +211,7 @@
     },
     {
      "url": "/articles/best-motorbike-for-students-hanoi/",
-     "equityPct": 30,
+     "equityPct": 28,
      "inbound": 4,
      "inSiloInbound": 3,
      "related": 10,
@@ -227,7 +227,7 @@
     },
     {
      "url": "/articles/lightest-motorbikes-for-new-riders/",
-     "equityPct": 36,
+     "equityPct": 35,
      "inbound": 5,
      "inSiloInbound": 3,
      "related": 15,
@@ -307,7 +307,7 @@
     },
     {
      "url": "/articles/motorbike-rental-international-students-hanoi/",
-     "equityPct": 29,
+     "equityPct": 30,
      "inbound": 6,
      "inSiloInbound": 4,
      "related": 4,
@@ -315,7 +315,7 @@
     },
     {
      "url": "/articles/motorbike-rental-tourists-hanoi-essentials/",
-     "equityPct": 34,
+     "equityPct": 36,
      "inbound": 4,
      "inSiloInbound": 4,
      "related": 2,
@@ -339,7 +339,7 @@
     },
     {
      "url": "/articles/renting-motorbike-old-quarter/",
-     "equityPct": 35,
+     "equityPct": 34,
      "inbound": 7,
      "inSiloInbound": 4,
      "related": 6,
@@ -347,7 +347,7 @@
     },
     {
      "url": "/articles/renting-motorbikes-group-hanoi/",
-     "equityPct": 28,
+     "equityPct": 29,
      "inbound": 5,
      "inSiloInbound": 4,
      "related": 1,
@@ -363,7 +363,7 @@
     },
     {
      "url": "/articles/best-motorbikes-for-tall-riders-vietnam/",
-     "equityPct": 43,
+     "equityPct": 41,
      "inbound": 15,
      "inSiloInbound": 6,
      "related": 7,
@@ -387,7 +387,7 @@
     },
     {
      "url": "/articles/best-motorbike-for-hanoi-traffic/",
-     "equityPct": 75,
+     "equityPct": 73,
      "inbound": 10,
      "inSiloInbound": 9,
      "related": 26,
@@ -403,7 +403,7 @@
     },
     {
      "url": "/articles/best-motorbike-for-day-trips-from-hanoi/",
-     "equityPct": 80,
+     "equityPct": 79,
      "inbound": 19,
      "inSiloInbound": 12,
      "related": 42,
@@ -411,7 +411,7 @@
     },
     {
      "url": "/articles/automatic-vs-manual-motorbike-hanoi/",
-     "equityPct": 79,
+     "equityPct": 78,
      "inbound": 19,
      "inSiloInbound": 13,
      "related": 27,
@@ -443,7 +443,7 @@
     },
     {
      "url": "/articles/motorbike-rental-price-hanoi/",
-     "equityPct": 91,
+     "equityPct": 90,
      "inbound": 39,
      "inSiloInbound": 29,
      "related": 25,
@@ -897,7 +897,7 @@
     },
     {
      "url": "/articles/expats-monthly-motorbike-hanoi/",
-     "equityPct": 41,
+     "equityPct": 43,
      "inbound": 5,
      "inSiloInbound": 3,
      "related": 2,
@@ -1141,7 +1141,7 @@
     },
     {
      "url": "/articles/best-scooters-hanoi-hills-bridges/",
-     "equityPct": 26,
+     "equityPct": 25,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -1189,7 +1189,7 @@
     },
     {
      "url": "/articles/honda-sh-160-vs-honda-vario-160/",
-     "equityPct": 25,
+     "equityPct": 26,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 2,
@@ -2636,7 +2636,7 @@
    "moneyPages": [
     {
      "url": "/articles/buying-used-sport-underbone-verified/",
-     "equityPct": 74,
+     "equityPct": 72,
      "inbound": 3,
      "inSiloInbound": 2,
      "related": 3,
@@ -2644,7 +2644,7 @@
     },
     {
      "url": "/articles/honda-blade-drum-vs-disc/",
-     "equityPct": 72,
+     "equityPct": 74,
      "inbound": 2,
      "inSiloInbound": 2,
      "related": 3,
@@ -2700,7 +2700,7 @@
     },
     {
      "url": "/articles/winner-r-exciter-155-ownership-costs/",
-     "equityPct": 78,
+     "equityPct": 76,
      "inbound": 3,
      "inSiloInbound": 3,
      "related": 4,
@@ -2774,14 +2774,14 @@
     "6.6 gear-safety": 3
    },
    "words": {
-    "avg": 489,
+    "avg": 591,
     "min": 282
    },
    "review": {
     "verified": 40,
     "reviewRequired": 0,
     "oldestReview": "2026-09-24",
-    "newestReview": "2026-10-28"
+    "newestReview": "2026-10-30"
    },
    "priorities": {
     "P0": 0,
@@ -2790,10 +2790,10 @@
     "P3": 40
    },
    "links": {
-    "inSiloBody": 69,
-    "crossSiloOut": 101,
-    "crossSiloIn": 31,
-    "inSiloShare": 41,
+    "inSiloBody": 77,
+    "crossSiloOut": 114,
+    "crossSiloIn": 33,
+    "inSiloShare": 40,
     "articlesWithoutInSiloInbound": 8,
     "articlesWithoutInSiloInboundSample": [
      "/articles/50cc-common-problems-first-year/",
@@ -2811,18 +2811,18 @@
    "topInbound": [
     {
      "url": "/articles/riding-50cc-at-16-vietnam/",
-     "inbound": 11,
+     "inbound": 13,
      "related": 9
     },
     {
      "url": "/articles/renting-50cc-hanoi/",
-     "inbound": 10,
+     "inbound": 12,
      "related": 2
     },
     {
      "url": "/articles/can-foreigners-ride-50cc-vietnam/",
-     "inbound": 7,
-     "related": 3
+     "inbound": 8,
+     "related": 4
     },
     {
      "url": "/articles/50cc-tyres-small-wheels-care/",
@@ -2830,9 +2830,9 @@
      "related": 1
     },
     {
-     "url": "/articles/50cc-pre-ride-checklist/",
+     "url": "/articles/helmet-rules-50cc-mopeds/",
      "inbound": 6,
-     "related": 4
+     "related": 5
     }
    ],
    "moneyPages": [],
@@ -2914,7 +2914,7 @@
      "cluster": "50cc",
      "severity": "P3",
      "rule": "silo-leak",
-     "detail": "only 41% of in-body links from this silo stay inside it",
+     "detail": "only 40% of in-body links from this silo stay inside it",
      "action": "review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links",
      "status": "REVIEW_REQUIRED"
     }
@@ -2962,7 +2962,7 @@
    "links": {
     "inSiloBody": 148,
     "crossSiloOut": 30,
-    "crossSiloIn": 39,
+    "crossSiloIn": 51,
     "inSiloShare": 83,
     "articlesWithoutInSiloInbound": 25,
     "articlesWithoutInSiloInboundSample": [
@@ -2987,13 +2987,13 @@
      "related": 14
     },
     {
-     "url": "/articles/electric-moped-vs-electric-motorcycle-vietnam/",
-     "inbound": 9,
-     "related": 8
+     "url": "/articles/electric-motorbike-power-kw-licence-vietnam/",
+     "inbound": 10,
+     "related": 9
     },
     {
-     "url": "/articles/electric-motorbike-power-kw-licence-vietnam/",
-     "inbound": 8,
+     "url": "/articles/electric-moped-vs-electric-motorcycle-vietnam/",
+     "inbound": 9,
      "related": 8
     },
     {
@@ -3002,9 +3002,9 @@
      "related": 2
     },
     {
-     "url": "/articles/electric-motorbike-battery-replacement-vietnam/",
+     "url": "/articles/e-bike-helmet-rules-vietnam/",
      "inbound": 6,
-     "related": 8
+     "related": 10
     }
    ],
    "moneyPages": [
@@ -3034,7 +3034,7 @@
     },
     {
      "url": "/articles/can-foreigners-rent-electric-bike-vietnam/",
-     "equityPct": 83,
+     "equityPct": 77,
      "inbound": 8,
      "inSiloInbound": 3,
      "related": 2,
@@ -3042,7 +3042,7 @@
     },
     {
      "url": "/articles/electric-motorbike-battery-replacement-vietnam/",
-     "equityPct": 77,
+     "equityPct": 78,
      "inbound": 6,
      "inSiloInbound": 6,
      "related": 8,
@@ -3413,7 +3413,7 @@
    "links": {
     "inSiloBody": 139,
     "crossSiloOut": 69,
-    "crossSiloIn": 263,
+    "crossSiloIn": 264,
     "inSiloShare": 67,
     "articlesWithoutInSiloInbound": 16,
     "articlesWithoutInSiloInboundSample": [
@@ -3444,7 +3444,7 @@
     },
     {
      "url": "/articles/helmet-fit-guide-vietnam/",
-     "inbound": 23,
+     "inbound": 24,
      "related": 17
     },
     {
@@ -3507,7 +3507,7 @@
     "11.4 fines-penalties": 17
    },
    "words": {
-    "avg": 964,
+    "avg": 1205,
     "min": 290
    },
    "review": {
@@ -3523,11 +3523,11 @@
     "P3": 66
    },
    "links": {
-    "inSiloBody": 274,
-    "crossSiloOut": 54,
-    "crossSiloIn": 369,
-    "inSiloShare": 84,
-    "articlesWithoutInSiloInbound": 12,
+    "inSiloBody": 341,
+    "crossSiloOut": 76,
+    "crossSiloIn": 381,
+    "inSiloShare": 82,
+    "articlesWithoutInSiloInbound": 10,
     "articlesWithoutInSiloInboundSample": [
      "/articles/child-passengers-motorbike-vietnam/",
      "/articles/fake-licence-penalties-vietnam/",
@@ -3536,9 +3536,9 @@
      "/articles/leaving-accident-scene-vietnam/",
      "/articles/motorbike-bus-lanes-vietnam/",
      "/articles/motorbike-required-equipment-vietnam/",
-     "/articles/motorbikes-on-expressway-vietnam/",
      "/articles/overtaking-rules-motorbike-vietnam/",
-     "/articles/phone-use-while-riding-vietnam/"
+     "/articles/phone-use-while-riding-vietnam/",
+     "/articles/riding-while-suspended-vietnam/"
     ],
     "trueSiloOrphans": 0,
     "trueSiloOrphansList": []
@@ -3546,28 +3546,28 @@
    "topInbound": [
     {
      "url": "/articles/a1-licence-vietnam-what-you-can-ride/",
-     "inbound": 42,
+     "inbound": 43,
      "related": 30
     },
     {
      "url": "/articles/documents-to-carry-motorbike-vietnam/",
-     "inbound": 34,
+     "inbound": 37,
      "related": 29
     },
     {
      "url": "/articles/vietnam-motorbike-licence-classes-explained/",
-     "inbound": 33,
+     "inbound": 34,
      "related": 18
     },
     {
-     "url": "/articles/no-licence-fine-vietnam/",
-     "inbound": 30,
-     "related": 19
+     "url": "/articles/idp-vietnam-motorbike-rules/",
+     "inbound": 33,
+     "related": 26
     },
     {
-     "url": "/articles/idp-vietnam-motorbike-rules/",
-     "inbound": 26,
-     "related": 25
+     "url": "/articles/no-licence-fine-vietnam/",
+     "inbound": 33,
+     "related": 19
     }
    ],
    "moneyPages": [],
@@ -4441,6 +4441,11 @@
    "links": 45
   },
   {
+   "from": "50cc",
+   "to": "law-licences",
+   "links": 40
+  },
+  {
    "from": "motorcycles",
    "to": "maintenance",
    "links": 35
@@ -4476,11 +4481,6 @@
    "links": 29
   },
   {
-   "from": "50cc",
-   "to": "law-licences",
-   "links": 28
-  },
-  {
    "from": "manual-clutch",
    "to": "motorcycles",
    "links": 28
@@ -4489,6 +4489,11 @@
    "from": "scooters",
    "to": "motorcycles",
    "links": 27
+  },
+  {
+   "from": "law-licences",
+   "to": "rental",
+   "links": 26
   },
   {
    "from": "scooters",
@@ -4532,8 +4537,13 @@
   },
   {
    "from": "law-licences",
-   "to": "rental",
+   "to": "electric",
    "links": 19
+  },
+  {
+   "from": "law-licences",
+   "to": "50cc",
+   "links": 18
   },
   {
    "from": "50cc",
@@ -4543,11 +4553,6 @@
   {
    "from": "electric",
    "to": "law-licences",
-   "links": 16
-  },
-  {
-   "from": "law-licences",
-   "to": "50cc",
    "links": 16
   },
   {
@@ -4571,6 +4576,11 @@
    "links": 13
   },
   {
+   "from": "50cc",
+   "to": "rental",
+   "links": 12
+  },
+  {
    "from": "law-licences",
    "to": "monthly-rental",
    "links": 12
@@ -4584,11 +4594,6 @@
    "from": "vietnam-travel",
    "to": "safety",
    "links": 12
-  },
-  {
-   "from": "50cc",
-   "to": "rental",
-   "links": 11
   },
   {
    "from": "hanoi",
@@ -4676,11 +4681,6 @@
    "links": 8
   },
   {
-   "from": "law-licences",
-   "to": "electric",
-   "links": 7
-  },
-  {
    "from": "parts-gear",
    "to": "monthly-rental",
    "links": 7
@@ -4888,6 +4888,11 @@
   {
    "from": "hanoi",
    "to": "trips",
+   "links": 1
+  },
+  {
+   "from": "law-licences",
+   "to": "safety",
    "links": 1
   },
   {
@@ -5569,7 +5574,7 @@
    "cluster": "50cc",
    "severity": "P3",
    "rule": "silo-leak",
-   "detail": "only 41% of in-body links from this silo stay inside it",
+   "detail": "only 40% of in-body links from this silo stay inside it",
    "action": "review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links",
    "status": "REVIEW_REQUIRED"
   },

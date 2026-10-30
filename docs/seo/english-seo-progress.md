@@ -878,3 +878,54 @@ Brief: the pages outside batch 10 that batch 10 flagged as stating superseded li
   - **Stale test and exchange rules on pages outside this batch:** `expat-motorbike-licence-vietnam` (the test "conducted in Vietnamese only"; the 25-question paper), `vietnam-a-licence-what-you-can-ride` (23/25), and the DONE pages `motorbike-rental-international-students-hanoi`, `expats-monthly-motorbike-hanoi` and `can-foreigners-rent-a-motorbike-hanoi` (the three-month / Circular 12/2025 exchange rule). Planned as corrections in the next batch.
   - **Open from batch 10:** fine amounts from the 2024 decree text, the insurance claims against OWNER-FACTS, the moped-cluster wording, the lint-protected sources and the Honda Vision displacement.
 - **Status:** 105 of 693 done, 1 REVIEW_REQUIRED, 587 pending.
+
+## 2026-10-30 — SEO Package 2, batch 12 (10 articles: class A, lost licences, points, ages, electric two-wheelers, mopeds)
+
+Brief: the next licence and moped pages in the law cluster whose answers rest on Law 36/2024/QH15 and Circular 108/2026/TT-BCA rather than on fine amounts: class A, a lost licence, the points system and a zero balance, minimum ages, the electric licence answer and fast electric motorbikes, the motorised pedal bicycle, 50cc myths and riding at 16; plus corrections to four verified pages that still carried the Circular 12/2025 exchange rule or the expat test-language sentence. Same procedure, local primary texts only, full QA, merge on green CI. Held back as before: the fine-led pages (the Decree 168/2024/NĐ-CP text as amended by Decree 238/2026/NĐ-CP has not been read), the deposit, insurance, early-return, price and district pages, and the protected ranking pages.
+
+- **Articles (original -> final words):**
+
+  | Article | Before | After |
+  |---|---|---|
+  | `vietnam-a-licence-what-you-can-ride` | 336 | 2,352 |
+  | `lost-motorbike-licence-replacement-vietnam` | 326 | 2,378 |
+  | `motorbike-licence-points-system-vietnam` | 345 | 1,947 |
+  | `lose-all-licence-points-vietnam` | 334 | 2,317 |
+  | `minimum-age-ride-motorbike-vietnam` | 425 | 2,208 |
+  | `electric-bike-licence-vietnam` | 387 | 2,421 |
+  | `fast-electric-motorbike-licence-vietnam` | 351 | 2,427 |
+  | `xe-dap-mai-rules-vietnam` | 326 | 2,418 |
+  | `50cc-motorbike-myths-law-vietnam` | 336 | 2,383 |
+  | `riding-50cc-at-16-vietnam` | 382 | 2,387 |
+  | **Total** | **3,548** | **23,238** |
+
+  Same URLs, slugs and canonicals. No title or H1 changed. Five descriptions changed with a recorded reason (batch notes in `docs/seo/package2-status.json`): lost-licence (Circular 12/2025 as current), points-system ("points per violation, no licence expiry"), lose-all-points (the test credited to Decree 168/2024 and Circular 65/2024), electric-bike ("up to 4 kW as mopeds" without the 50 km/h limit), 50cc-myths (over 160 characters, "fines match motorbikes"). Corrections to verified pages: `motorbike-rental-international-students-hanoi`, `expats-monthly-motorbike-hanoi` and `can-foreigners-rent-a-motorbike-hanoi` now cite Circular 108/2026/TT-BCA Article 24(1)(a) (a visa or temporary residence card with 90 days or more left, a valid permanent residence card, or a diplomatic or service identity card) instead of the Circular 12/2025 three-month rule; `expat-motorbike-licence-vietnam` keeps its original "Vietnamese only" and "25-question" sentences with an explicit correction after each.
+- **Verification:** every article had an independent verifier; four needed a fix round and a delta verification (electric-bike, lost-licence, fast-electric, riding-50cc-at-16), six passed with minor findings applied. Typical first-draft failures:
+  - class A described as covering any electric power, without the Article 89(3)(a) restriction on an A issued on exchange of an old A1;
+  - an A1 ladder ("up to 11 kW is A1") that swallowed the licence-free moped of Article 34(1)(g);
+  - "penalised" for not carrying a licence, with no primary text read;
+  - "none of the cited clauses was amended" while Article 60 carries Law 118/2025 notes;
+  - the same Decree 238/2026 caveat sentence copied across siblings (8-word runs);
+  - links to pages that contradict the article (a zero balance "voided", rental fleet insurance).
+  A usage limit stopped four writers mid-run; they were resumed, not restarted.
+- **Legal sources (local primary texts, read 2026-10-30):** Law 36/2024/QH15 consolidated text 55/VBHN-VPQH (Articles 2, 6, 9, 31, 33, 34, 35, 56-60, 62, 80, 88, 89) and the first-issue text; Circular 108/2026/TT-BCA (Articles 1, 4, 14, 18, 20, 21, 24, 36, 41, Appendices I, IX and X); Circular 12/2025/TT-BCA (Article 4 and the reissue articles, for comparison); the consolidated vehicle-registration circular 41/VBHN-BCA; MODEL-DATABASE for every model figure.
+- **Business limits:** OWNER-FACTS wording only; no fee, fine amount, point deduction or price added; no shop policy on minors.
+- **QA on the exact tree:**
+  - lint 0 errors on the ten articles and the four corrected pages (retention 61-90%);
+  - build-report P0 0 / P1 0, quality gate PASS;
+  - matrix P0 0 · P1 4 · P2 0 · P3 999 (the same four P1 rows);
+  - duplicate check P2 0, no body overlap;
+  - engine tests 98/98;
+  - regression guard PASS;
+  - Jekyll build 1,004 pages;
+  - rendered audit P0/P1 0, max click depth 2, unreachable 0 (the one P2 is the 404 page without breadcrumbs, as before);
+  - Guide Assistant 31/31;
+  - Package 2 gate blocking 0.
+- **Findings for the owner (not edited):**
+  - **Zero points and suspensions:** `riding-while-suspended-vietnam` calls a zero balance "voided" and cites Article 61 for points; `motorbike-fines-vietnam-overview`, `drink-driving-limits-motorbike-vietnam` and `speeding-fines-motorbike-vietnam` quote 2024 per-offence deductions; `drink-driving-limits-motorbike-vietnam` cites Article 8(2) for the alcohol rule (it is 9(2)).
+  - **Electric cluster:** `electric-two-wheeler-speed-classes-vietnam` (a 70 km/h row marked licence-free), `can-you-ride-electric-motorbike-with-car-licence-vietnam` (the VinFast class called licence-free), `electric-motorbike-power-kw-licence-vietnam` and `pedal-e-bike-vs-scooter-electric-vietnam` (the 30 km/h Amio as a pedal format; Article 34(2)(b) cuts at 25 km/h), `e-bike-helmet-rules-vietnam` (Article 33(2) for pedal e-bikes; it is 31(3)), `can-foreigners-rent-electric-bike-vietnam` (age 16 for pedal e-bikes; Article 59(1) names none).
+  - **Moped cluster:** `underage-riding-penalties-vietnam` (under-16s on mopeds "violate nothing"), `50cc-training-high-school-vietnam` ("basic vehicle-handling skills", a 2024 fine band), `helmet-rules-50cc-mopeds` ("explicitly including electric mopeds", "rental fleets include helmets"), `lending-motorbike-unlicensed-rider-vietnam` (the handing-over duty is Article 9(7)), `b1-three-wheel-licence-vietnam` (a B1 holder on a 110 cc scooter; Article 57(1)(c) gives B1 the A1 vehicles), `motorbikes-on-expressway-vietnam` (Article 25(3) misread, a retailer blog for fines).
+  - **Insurance claims against OWNER-FACTS:** `do-you-need-insurance-for-50cc-vietnam`, `compulsory-motorbike-insurance-vietnam`, `do-electric-motorbikes-need-insurance-vietnam` (rental fleet cover).
+  - **Lint-protected sources:** `motorbike-licence-points-system-vietnam` ("Article 61" for points), `lose-all-licence-points-vietnam` ("Article 61(7) point restoration"), `riding-50cc-at-16-vietnam` ("Articles 3, 58, 59" for the moped definition), `vietnam-a1-licence-test` (a December 2024 portal article labelled Circular 12/2025). Editing them needs the owner's approval.
+  - **Not read:** Decree 236/2026/NĐ-CP amending Decree 151/2024/NĐ-CP (training); the training pages may be dated.
+- **Status:** 115 of 693 done, 1 REVIEW_REQUIRED, 577 pending.

@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: law-licences
 subcluster: "11.1 licence-system"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-30
 review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/tu-1-1-2025-thuc-hien-viec-tru-diem-giay-phep-lai-xe-119241218145447495.htm — Báo điện tử Chính phủ: licence-point deduction from 1 January 2025 (Decree 168/2024/NĐ-CP)"

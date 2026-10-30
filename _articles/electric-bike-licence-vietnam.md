@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: law-licences
 subcluster: "11.1 licence-system"
 date_published: 2026-09-19
-last_reviewed: 2026-09-21
+last_reviewed: 2026-10-30
 review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Articles 3, 31, 57, 59, 89"

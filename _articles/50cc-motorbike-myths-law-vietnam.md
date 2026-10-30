@@ -14,7 +14,7 @@ search_intent: informational
 topic_cluster: 50cc
 subcluster: "6.2 legal-rules"
 date_published: 2026-09-24
-last_reviewed: 2026-09-24
+last_reviewed: 2026-10-30
 review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Articles 3, 31, 56, 58, 59 (definitions, helmet, insurance, rider requirements)"
