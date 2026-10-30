@@ -32,7 +32,7 @@ Class A is the ceiling of the Vietnamese motorbike licence system. Under Article
 
 ## What Article 57(1)(b) gives class A
 
-The Law is read here in its consolidated text, 55/VBHN-VPQH, which includes the amendments of Law 118/2025/QH15, and the English wording is our translation of the Vietnamese. Under Article 57(1)(b), class A goes to whoever drives a two-wheeled motorbike whose cylinder capacity is above 125 cm³ or whose electric motor is rated above 11 kW, and the clause adds every kind of vehicle that class A1 covers, so a class A holder is not confined to the big machines. The lower side of the same line is Article 57(1)(a): A1 stops at a capacity of 125 cm³ or a motor power of 11 kW.
+The Law is read here in its consolidated text, 55/VBHN-VPQH, which includes the amendments of Law 118/2025/QH15, and the English wording is our translation of the Vietnamese. Under Article 57(1)(b), class A goes to whoever drives a two-wheeled motorbike whose cylinder capacity is above 125 cm³ or whose electric motor power is above 11 kW, and the clause adds every kind of vehicle that class A1 covers, so a class A holder is not confined to the big machines. The lower side of the same line is Article 57(1)(a): A1 stops at a capacity of 125 cm³ or a motor power of 11 kW.
 
 ### Where the line sits
 
