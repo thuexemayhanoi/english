@@ -15,7 +15,7 @@ search_intent: informational
 topic_cluster: law-licences
 subcluster: "11.2 foreigners"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-30
 review_status: VERIFIED
 sources:
   - "https://giadinh.suckhoedoisong.vn/nguoi-nuoc-ngoai-muon-thi-va-cap-bang-lai-xe-o-viet-nam-can-dap-ung-nhung-dieu-kien-gi-172230703155515226.htm — Sức khỏe & Đời sống: conditions for foreigners testing for and obtaining a Vietnamese licence; no English-language tests"

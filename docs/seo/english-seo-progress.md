@@ -831,3 +831,50 @@ Brief: the licence and IDP cluster flagged in batch 9 as stating superseded rule
   - **Lint-protected sources:** `1968-vienna-convention-idp-vietnam` keeps an original UN Treaty Collection URL that now shows "Page not found" (the working status URL is cited beside it); `can-foreigners-ride-50cc-vietnam` keeps an original entry citing Law Articles 58-59 for licences valid in Vietnam (57 is correct); `motorbike-learner-permit-vietnam` keeps a Thanh Niên entry with the first-issue practical hours. Removing or editing them needs the owner's approval.
   - **Model data:** MODEL-DATABASE gives the Honda Vision as 110 cc; the Honda owner's manual shows 109.5 cc (open since batch 2).
 - **Status:** 95 of 693 done, 1 REVIEW_REQUIRED, 597 pending.
+
+## 2026-10-30 — SEO Package 2, batch 11 (10 articles, the licence follow-up: test, exchange documents, IDP dates, classes)
+
+Brief: the pages outside batch 10 that batch 10 flagged as stating superseded licence rules (Circular 12/2025/TT-BCA as current, the three-month residence condition, "no expiry" for every licence, the 25-question paper without the 1 March 2027 change, "Vietnamese only" as a rule, Article 57(8) as the recognition clause). Same procedure, full QA, merge on green CI. Writers and verifiers used local primary texts only (the owner declined paid web tools). Held back as before: the no-licence and traffic-stop fine pages (the Decree 168/2024/NĐ-CP Article 18 text as amended by Decree 238/2026/NĐ-CP has not been read), the deposit, insurance, early-return, price and district pages, and the protected ranking pages.
+
+- **Articles (original -> final words):**
+
+  | Article | Before | After |
+  |---|---|---|
+  | `how-to-get-a1-licence-vietnam` | 339 | 2,349 |
+  | `vietnam-a1-licence-test` | 320 | 2,336 |
+  | `vietnam-licence-test-in-english` | 317 | 2,116 |
+  | `foreign-licence-exchange-documents-vietnam` | 322 | 2,208 |
+  | `foreign-student-motorbike-licence-vietnam` | 301 | 2,391 |
+  | `idp-validity-period-vietnam` | 324 | 2,349 |
+  | `non-1968-licence-vietnam` | 351 | 2,305 |
+  | `motorbike-licence-validity-renewal-vietnam` | 326 | 2,341 |
+  | `ride-125cc-with-car-licence-vietnam` | 309 | 2,352 |
+  | `old-licence-classes-after-2025-vietnam` | 356 | 2,356 |
+  | **Total** | **3,265** | **23,103** |
+
+  Same URLs, slugs and canonicals. No title or H1 changed. Eight descriptions changed with a recorded reason (batch notes in `docs/seo/package2-status.json`): how-to-get-a1 (a licensed course as the only route), vietnam-a1-licence-test (the 25-question paper as current), test-in-english ("Vietnamese only" as a rule), exchange-documents (Circular 12/2025, a form, a passport), foreign-student (Circular 12/2025, three months, dormitory registration), non-1968 ("cannot ride on home documents"), validity-renewal ("never expire" without exception), ride-125cc ("needs an A1"; A and B1 also cover A1 machines).
+- **Verification:** every article had an independent verifier, a fix round and a delta verification. Typical first-draft failures:
+  - the exam language stated as a rule (no article of Circular 108/2026/TT-BCA states it; Article 14 is the only interpreter-assisted paper, for ethnic-minority A1 candidates);
+  - the 25-question paper and its 21/25 pass mark presented as current law (only a December 2024 portal article gives them; Appendix I sets 40 questions in 27 minutes, 36 to pass, from 1 March 2027);
+  - the car-licence theory waiver dated from 1 March 2027 (Circular 12/2025 Article 4(1)(a) already gives it);
+  - exchange documents taken from the old dossier (Article 24(2) lists three; the health-certificate exception in 24(2)(b));
+  - "up to 2.5 working days" stated as a fixed time; "voided" licences at zero points (Article 58(3): no riding until points are restored);
+  - false originals kept at the retention floor without a correction, and runs of eight or more words shared with sibling pages.
+- **Legal sources (primary texts, local copies read 2026-10-28/30):** Law 36/2024/QH15 consolidated text 55/VBHN-VPQH (Articles 57, 58, 60, 89); Circular 108/2026/TT-BCA (Articles 4, 5, 12, 14, 16, 18(7)-(8), 20, 21, 24, 26, 30, 41, Appendix I); Circular 12/2025/TT-BCA (Article 4); Circular 17/2026/TT-BXD (training hours); the UN 1968 Convention status copy; Decree 238/2026/NĐ-CP cited only as amending Decree 168/2024/NĐ-CP (no fine amount quoted).
+- **Business limits:** OWNER-FACTS wording only; no fee, fine amount or price added.
+- **QA on the exact tree:**
+  - lint 0 errors on all ten (retention 60-85%);
+  - build-report P0 0 / P1 0, quality gate PASS;
+  - matrix P0 0 · P1 4 · P2 0 · P3 999 (the same four P1 rows);
+  - duplicate check P2 0, no body overlap;
+  - engine tests 98/98;
+  - regression guard PASS;
+  - Jekyll build 1,004 pages;
+  - rendered audit P0/P1 0, max click depth 2, unreachable 0 (the one P2 is the 404 page without breadcrumbs, as before);
+  - Guide Assistant 31/31;
+  - Package 2 gate blocking 0.
+- **Findings for the owner (not edited):**
+  - **Protected source entry:** `vietnam-a1-licence-test` labels the Government-portal article as "Circular 12/2025, Phụ lục II", but its web address dates it to 16 December 2024, before Circular 12/2025 was signed (28 February 2025). The page now attributes and dates the 25-question figures.
+  - **Stale test and exchange rules on pages outside this batch:** `expat-motorbike-licence-vietnam` (the test "conducted in Vietnamese only"; the 25-question paper), `vietnam-a-licence-what-you-can-ride` (23/25), and the DONE pages `motorbike-rental-international-students-hanoi`, `expats-monthly-motorbike-hanoi` and `can-foreigners-rent-a-motorbike-hanoi` (the three-month / Circular 12/2025 exchange rule). Planned as corrections in the next batch.
+  - **Open from batch 10:** fine amounts from the 2024 decree text, the insurance claims against OWNER-FACTS, the moped-cluster wording, the lint-protected sources and the Honda Vision displacement.
+- **Status:** 105 of 693 done, 1 REVIEW_REQUIRED, 587 pending.

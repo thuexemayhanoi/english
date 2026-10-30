@@ -15,7 +15,7 @@ search_intent: informational
 topic_cluster: law-licences
 subcluster: "11.1 licence-system"
 date_published: 2026-09-22
-last_reviewed: 2026-09-22
+last_reviewed: 2026-10-30
 review_status: VERIFIED
 sources:
   - "https://xaydungchinhsach.chinhphu.vn/quy-trinh-sat-hach-lai-xe-mo-to-hang-a1-va-a-tu-1-1-2025-119241216163302862.htm — Báo điện tử Chính phủ: A1 and A motorbike test procedure from 1 January 2025 (Circular 12/2025/TT-BCA, Phụ lục II)"

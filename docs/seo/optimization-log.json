@@ -1799,5 +1799,31 @@
    "wordsAdded": 19069,
    "rankTrackedUrls": 0
   }
+ },
+ {
+  "date": "2026-10-30",
+  "batch": "package2-p2-11",
+  "package": 2,
+  "note": "SEO Package 2 content depth: 10 article(s) expanded to at least 1600 words (3265 -> 23103 words); same URL, slug and canonical; Batch 11: the licence follow-up cluster flagged in batch 10 as stating superseded rules (3,265 -> 23,103 words), each through writer, independent verifier, fixer and delta verifier. Writers and verifiers worked from local primary texts only (Circular 108/2026/TT-BCA, Circular 12/2025/TT-BCA, Law 36/2024/QH15 consolidated text, Civil Code lease articles, the UN 1968 Convention status copy); the owner declined paid web tools. No title, H1, slug, permalink or canonical change. Eight descriptions changed with a recorded reason: how-to-get-a1 (\"training at a licensed centre\" as the only route; Law Article 60(2) allows other forms of training), vietnam-a1-licence-test (\"25-question ... 21/25 ... under Circular 12/2025\" as current; Circular 108 Appendix I sets 40 questions in 27 minutes, 36 to pass, from 1 March 2027, and test No. 2 from 1 January 2028), vietnam-licence-test-in-english (\"Vietnamese only, with no English option\" stated absolutely; Circular 108 Article 14 has an interpreter-assisted paper for some A1 candidates and no article states the paper's language), foreign-licence-exchange-documents (cited Circular 12/2025, an application form and a passport; Circular 108 Article 24(2) lists three documents and names no form), foreign-student (Circular 12/2025, \"3+ months\" and dormitory registration; Article 24(1)(a) asks for a visa or temporary residence card of 90 days or more, or a permanent card), non-1968 (riders from non-1968 countries \"cannot ride on home documents\" overstated; treaty routes under Law Article 57(6) and the moped class exist), licence-validity-renewal (\"never expire\" with no exception and no B1; Law Article 57(5) gives A1, A and B1 no term, Article 58(3) bars riding at zero points until restored), ride-125cc (\"needs an A1\"; A and B1 also cover A1 machines). Removed or reworded originals, by article. how-to-get-a1 (7): the short answer (licensed centre, 25 questions), \"up to and including 125 cc ... almost every scooter rented in Hanoi\", the health-check sentence (a centre assembles the dossier), \"Enrol at a training centre licensed by the Ministry of Public Security\", the Circular 14/2025 hours (amended by Circular 17/2026/TT-BXD), the three-month exchange sentence, \"two to four weeks\". vietnam-a1-licence-test (7): the \"điểm liệt\" examples, the practical disqualifying-error list (now from Appendix I), per-attempt fees, \"no limit on attempts\", the memorisation and low-speed failure claims, the dated \"Verified against\" line. vietnam-licence-test-in-english (5): \"no interpreter for the theory paper\", the memorisation sentence, the Circular 12/2025 exchange route, \"exchanges into A1 or A without a Vietnamese theory test\", centres coaching non-Vietnamese speakers. foreign-licence-exchange-documents (4): the Circular 12/2025 lead, the application form item, the translation catch (notary or issuing country; Article 24(2)(a) names a notary in Vietnam or a Vietnamese representative office abroad), \"days rather than weeks\" and the fee schedule. foreign-student (5): the Circular 12/2025 exchange, the three-month and dormitory condition, \"modest fees ... no expiry\", \"the residence record is the licence document\", the shops-insurance-checkpoints line. idp-validity (6): \"no separate clock\" and the Article 57(8) recognition sentence (57(8)(a) caps an IDP at three years and the national licence's validity; recognition is 57(6)(b)), the three-month exchange line, the \"checkpoint-proof\" option, the half-pair fine line. non-1968 (4): the three-month Circular 12/2025 route, the relabelled-permit route claims, the 1949-permit and online-licence sentence, the 2024 Article 18 fine bands. licence-validity-renewal (5): \"no time limit\" in three situations, the integrated-card renewal sentence, voluntary exchange for card formats, the reissue paragraph lead, \"same no-expiry rule once issued\". ride-125cc (4): the 2024 fine-schedule sentence, the three-month exchange line, \"the car licence neither helps nor blocks\" (Circular 108 Article 4(1)(c) waives the theory paper for a car licence in force), the rental-counter line. old-licence-classes (2): \"old A1 covered up to 175 cc keeps practical coverage\" (Law Article 89(3): old A1 becomes A limited to below 175 cm3 or 14 kW), the buyers-and-inheritance paragraph. False originals kept at the retention floor carry an explicit correction beside them (how-to-get-a1 step 4 now names the four Article 4(2)(a) exercises; vietnam-a1-licence-test dates the 25-question figures to the December 2024 portal article). Owner findings: the protected sources entry of vietnam-a1-licence-test labels a December 2024 portal article as Circular 12/2025 Appendix II; expat-motorbike-licence-vietnam and vietnam-a-licence-what-you-can-ride still quote the 25-question paper as current; DONE pages motorbike-rental-international-students-hanoi, expats-monthly-motorbike-hanoi and can-foreigners-rent-a-motorbike-hanoi keep the three-month / Circular 12/2025 exchange rule; expat-motorbike-licence-vietnam says the test is \"conducted in Vietnamese only\".",
+  "urls": [
+   "/articles/how-to-get-a1-licence-vietnam/",
+   "/articles/vietnam-a1-licence-test/",
+   "/articles/vietnam-licence-test-in-english/",
+   "/articles/foreign-licence-exchange-documents-vietnam/",
+   "/articles/foreign-student-motorbike-licence-vietnam/",
+   "/articles/idp-validity-period-vietnam/",
+   "/articles/non-1968-licence-vietnam/",
+   "/articles/motorbike-licence-validity-renewal-vietnam/",
+   "/articles/ride-125cc-with-car-licence-vietnam/",
+   "/articles/old-licence-classes-after-2025-vietnam/"
+  ],
+  "rank_work": false,
+  "counts": {
+   "articles": 10,
+   "wordsBefore": 3265,
+   "wordsAfter": 23103,
+   "wordsAdded": 19838,
+   "rankTrackedUrls": 0
+  }
  }
 ]
