@@ -5,8 +5,8 @@ Generated 2026-10-30 by `scripts/topical-map.js` from the source tree, `docs/seo
 ## Site summary
 
 - Clusters: 14 (pillar hubs) · articles: 981
-- In-body links inside their silo: 2869 (65%) · cross-silo: 1557
-- Articles with no in-body inbound link from their own silo: 224 (of which 0 also have no related card from their silo: the true silo orphans)
+- In-body links inside their silo: 2944 (65%) · cross-silo: 1592
+- Articles with no in-body inbound link from their own silo: 222 (of which 0 also have no related card from their silo: the true silo orphans)
 - Hubs curating fewer than 3 start-here links: 0
 - Demand served (core keywords, by market): AU 750/750, UK 350/350, US 16160/16160, VN 50000/50000
 - Keyword clusters (serving URLs): 28 · split keyword families: 0
@@ -17,24 +17,24 @@ Generated 2026-10-30 by `scripts/topical-map.js` from the source tree, `docs/seo
 
 A PageRank model (damping 0.85) over in-body links and related cards only, computed from the source tree; the shared navigation and generated hub listings are left out because they reach every page alike. Percentiles compare pages of this site with each other; they are not a Google measure. Method learnt from WebKnoGraph (see `docs/seo/research/github-seo-skills.md`).
 
-- Highest contextual equity: /articles/motorbike-fines-vietnam-overview/ (100), /articles/can-tourists-ride-motorbike-vietnam/ (100), /articles/helmet-law-vietnam/ (100), /articles/a1-licence-vietnam-what-you-can-ride/ (100), /articles/documents-to-carry-motorbike-vietnam/ (100), /articles/rental-motorbike-inspection-checklist/ (100), /articles/idp-vietnam-motorbike-rules/ (99), /articles/vietnam-motorbike-licence-classes-explained/ (99), /articles/50cc-licence-vietnam/ (99), /articles/outside-repair-shops-rental-motorbike/ (99)
+- Highest contextual equity: /articles/motorbike-fines-vietnam-overview/ (100), /articles/can-tourists-ride-motorbike-vietnam/ (100), /articles/helmet-law-vietnam/ (100), /articles/documents-to-carry-motorbike-vietnam/ (100), /articles/idp-vietnam-motorbike-rules/ (100), /articles/rental-motorbike-inspection-checklist/ (100), /articles/a1-licence-vietnam-what-you-can-ride/ (99), /articles/outside-repair-shops-rental-motorbike/ (99), /articles/no-licence-fine-vietnam/ (99), /articles/vietnam-motorbike-licence-classes-explained/ (99)
 - Core keyword owners: / (82, 6 in-body inbound), /articles/best-scooters-to-rent-hanoi/ (86, 13 in-body inbound), /articles/how-to-rent-a-motorbike-hanoi/ (97, 18 in-body inbound)
 
 ## Cluster table
 
 | Cluster | Hub | Articles (commercial) | Avg words | Review required | P1/P2 | In-silo links | Cross out/in | In-silo share | No in-silo inbound | Start-here links | Owned keywords (full) | Demand AU/UK/US/VN | SERP Qs | Recs |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| rental | Hanoi Rental Guides: Prices, Deposits, Documents, Returns | 81 (34) | 1651 | 0 | 0/0 | 671 | 338/337 | 67% | 2 | 22 | 26 (20) | 0/0/70/80 | 37 | 8 |
+| rental | Hanoi Rental Guides: Prices, Deposits, Documents, Returns | 81 (34) | 1652 | 0 | 0/0 | 671 | 338/345 | 67% | 2 | 22 | 26 (20) | 0/0/70/80 | 37 | 8 |
 | monthly-rental | Monthly Motorbike Rental | 45 (12) | 1265 | 0 | 0/0 | 244 | 197/86 | 55% | 1 | 20 | 3 (3) | 0/0/0/0 | 5 | 4 |
 | scooters | Scooters in Vietnam | 110 (51) | 437 | 0 | 0/0 | 277 | 163/23 | 63% | 17 | 12 | 6 (5) | 0/0/2910/80 | 19 | 8 |
 | motorcycles | Motorcycles in Vietnam | 108 (65) | 325 | 0 | 0/0 | 224 | 91/66 | 71% | 16 | 14 | 12 (7) | 10/0/2420/1300 | 13 | 3 |
 | manual-clutch | Manual and Clutch Motorcycles | 55 (9) | 382 | 0 | 0/0 | 54 | 68/16 | 44% | 25 | 11 | 2 (1) | 0/0/0/0 | 2 | 1 |
-| 50cc | 50cc Motorbikes | 40 (0) | 489 | 0 | 0/0 | 69 | 101/31 | 41% | 8 | 11 | 4 (2) | 0/0/10/50 | 24 | 1 |
-| electric | Electric Motorbikes and E-Bikes | 89 (5) | 339 | 0 | 0/0 | 148 | 30/39 | 83% | 25 | 13 | 7 (3) | 0/0/10/130 | 14 | 0 |
+| 50cc | 50cc Motorbikes | 40 (0) | 591 | 0 | 0/0 | 77 | 114/33 | 40% | 8 | 11 | 4 (2) | 0/0/10/50 | 24 | 1 |
+| electric | Electric Motorbikes and E-Bikes | 89 (5) | 339 | 0 | 0/0 | 148 | 30/51 | 83% | 25 | 13 | 7 (3) | 0/0/10/130 | 14 | 0 |
 | maintenance | Maintenance and Repair | 120 (0) | 433 | 0 | 0/0 | 465 | 78/265 | 86% | 11 | 18 | 0 (0) | 0/0/0/0 | 0 | 0 |
 | parts-gear | Parts and Riding Gear | 90 (0) | 372 | 0 | 0/0 | 138 | 244/47 | 36% | 44 | 13 | 0 (0) | 0/0/0/0 | 2 | 1 |
-| safety | Riding Skills and Safety | 55 (0) | 325 | 0 | 0/0 | 139 | 69/263 | 67% | 16 | 14 | 1 (1) | 0/0/0/0 | 1 | 0 |
-| law-licences | Vietnam Motorbike Laws and Licences | 66 (0) | 964 | 0 | 0/0 | 274 | 54/369 | 84% | 12 | 16 | 16 (10) | 0/0/1500/10 | 43 | 1 |
+| safety | Riding Skills and Safety | 55 (0) | 325 | 0 | 0/0 | 139 | 69/264 | 67% | 16 | 14 | 1 (1) | 0/0/0/0 | 1 | 0 |
+| law-licences | Vietnam Motorbike Laws and Licences | 66 (0) | 1205 | 0 | 0/0 | 341 | 76/381 | 82% | 10 | 16 | 16 (10) | 0/0/1500/10 | 43 | 1 |
 | hanoi | Hanoi Travel | 54 (0) | 487 | 0 | 0/0 | 41 | 50/32 | 45% | 27 | 13 | 1 (1) | 0/0/100/1000 | 0 | 1 |
 | trips | Motorbike Trips from Hanoi | 38 (0) | 447 | 0 | 0/0 | 82 | 33/19 | 71% | 12 | 14 | 2 (2) | 0/0/0/40 | 9 | 0 |
 | vietnam-travel | Vietnam Travel by Motorbike | 30 (0) | 568 | 4 | 4/0 | 43 | 41/11 | 51% | 8 | 15 | 21 (10) | 730/340/8330/40010 | 39 | 0 |
@@ -44,8 +44,8 @@ A PageRank model (damping 0.85) over in-body links and related cards only, compu
 ### rental — Hanoi Rental Guides: Prices, Deposits, Documents, Returns (/topics/rental/)
 
 - Articles: 81 (34 commercial, 47 informational) in 5 subclusters: 1.1 how-to-rent 20, 1.2 choosing-bike 15, 1.3 rental-practicalities 20, 1.4 renter-situations 15, 1.5 area-guides 11
-- Words: avg 1651, min 301 · review: 81 verified, 0 review required · last_reviewed 2026-09-22 → 2026-10-27
-- Links: 671 in-silo in-body, 338 out to other silos, 337 in from other silos (67% stay inside) · 2 article(s) without an in-silo inbound link · hub start-here links 22 (21 inside the silo)
+- Words: avg 1652, min 301 · review: 81 verified, 0 review required · last_reviewed 2026-09-22 → 2026-10-27
+- Links: 671 in-silo in-body, 338 out to other silos, 345 in from other silos (67% stay inside) · 2 article(s) without an in-silo inbound link · hub start-here links 22 (21 inside the silo)
 - Most linked: /articles/rental-motorbike-inspection-checklist/ (85 in-body, 42 cards), /articles/where-to-park-motorbike-hanoi/ (44 in-body, 61 cards), /articles/motorbike-rental-price-hanoi/ (39 in-body, 25 cards), /articles/motorbike-rental-deposit-hanoi/ (32 in-body, 20 cards), /articles/rental-motorbike-breakdown-hanoi/ (28 in-body, 15 cards)
 - Money pages (fewest in-silo inbound first): /articles/best-bike-for-english-teachers-hanoi/ (2 in-silo, 3 total, 2 cards, P3), /articles/best-motorbike-for-expats-hanoi/ (2 in-silo, 3 total, 5 cards, P3), /articles/motorbike-rental-digital-nomads-hanoi/ (2 in-silo, 2 total, 2 cards, P3), /articles/renting-motorbike-long-bien/ (2 in-silo, 2 total, 2 cards, P3), /articles/best-motorbike-for-students-hanoi/ (3 in-silo, 4 total, 10 cards, P3), /articles/best-motorbike-for-two-people-hanoi/ (3 in-silo, 10 total, 11 cards, P3), /articles/lightest-motorbikes-for-new-riders/ (3 in-silo, 5 total, 15 cards, P3), /articles/renting-motorbike-ba-dinh/ (3 in-silo, 3 total, 2 cards, P3) … 34 in total
 - Owned keywords: "Rent a motorbike in Hanoi" → /articles/how-to-rent-a-motorbike-hanoi/ [full]; "Hanoi scooter rental" → /articles/best-scooters-to-rent-hanoi/ [full]; "Cheap motorbike rental Hanoi" (variant) → /articles/motorbike-rental-price-hanoi/ [partial]; "Hanoi motorbike rental delivery" → /articles/motorbike-rental-pickup-or-delivery-hanoi/ [full]; "Motorbike rental with hotel delivery" → /articles/motorbike-delivery-old-quarter/ [full]; "Motorbike rental Hanoi Old Quarter" → /articles/renting-motorbike-old-quarter/ [full]; "Daily scooter rental Hanoi" → /articles/renting-motorbike-hanoi-one-day/ [full]; "Motorbike rental app Hanoi" → /articles/how-to-book-a-motorbike-rental-hanoi/ [full]; "Online motorbike booking Hanoi" (variant) → /articles/how-to-book-a-motorbike-rental-hanoi/ [partial]; "Automatic scooter rental Hanoi" (variant) → /articles/best-scooters-to-rent-hanoi/ [partial]; "Motorbike rental without a license Hanoi" → /articles/renting-a-motorbike-hanoi-without-licence/ [full]; "Hanoi Old Quarter motorbike rental" (variant) → /articles/renting-motorbike-old-quarter/ [full]; "Hoan Kiem motorbike rental" → /articles/renting-motorbike-hoan-kiem/ [full]; "Tay Ho motorbike rental" → /articles/renting-motorbike-tay-ho/ [full]; "Motorbike rental near Hanoi hotels" (variant) → /articles/motorbike-rental-pickup-or-delivery-hanoi/ [partial]; "Hanoi motorbike rental prices" → /articles/motorbike-rental-price-hanoi/ [full]; "Hanoi motorbike rental requirements" → /articles/motorbike-rental-requirements-hanoi/ [full]; "Hanoi motorbike rental for foreigners" → /articles/can-foreigners-rent-a-motorbike-hanoi/ [full]; "Hanoi motorbike rental cost" (variant) → /articles/motorbike-rental-price-hanoi/ [full]; "Scooter rental Vietnam price" (variant) → /articles/motorbike-rental-price-hanoi/ [partial]; "Motorbike rental deposit Hanoi" (variant) → /articles/motorbike-rental-deposit-hanoi/ [full]; "Motorbike rental Noi Bai airport" (variant) → /articles/renting-motorbike-noi-bai-arrival/ [full]; "How much to rent a motorbike in Hanoi" (variant) → /articles/motorbike-rental-price-hanoi/ [full]; "Renting a motorbike in Hanoi as a tourist" (variant) → /articles/can-tourists-rent-a-motorbike-hanoi/ [full]; "Hanoi motorbike rental for expats" (variant) → /articles/motorbike-rental-expats-moving-hanoi/ [full]; "Best scooter to rent in Vietnam" (variant) → /articles/best-scooters-to-rent-hanoi/ [partial]
@@ -133,22 +133,22 @@ A PageRank model (damping 0.85) over in-body links and related cards only, compu
 ### 50cc — 50cc Motorbikes (/topics/50cc/)
 
 - Articles: 40 (0 commercial, 40 informational) in 6 subclusters: 6.1 understanding-50cc 8, 6.2 legal-rules 7, 6.3 riding-50cc 8, 6.4 buying-owning 9, 6.5 maintenance 5, 6.6 gear-safety 3
-- Words: avg 489, min 282 · review: 40 verified, 0 review required · last_reviewed 2026-09-24 → 2026-10-28
-- Links: 69 in-silo in-body, 101 out to other silos, 31 in from other silos (41% stay inside) · 8 article(s) without an in-silo inbound link · hub start-here links 11 (9 inside the silo)
-- Most linked: /articles/riding-50cc-at-16-vietnam/ (11 in-body, 9 cards), /articles/renting-50cc-hanoi/ (10 in-body, 2 cards), /articles/can-foreigners-ride-50cc-vietnam/ (7 in-body, 3 cards), /articles/50cc-tyres-small-wheels-care/ (7 in-body, 1 cards), /articles/50cc-pre-ride-checklist/ (6 in-body, 4 cards)
+- Words: avg 591, min 282 · review: 40 verified, 0 review required · last_reviewed 2026-09-24 → 2026-10-30
+- Links: 77 in-silo in-body, 114 out to other silos, 33 in from other silos (40% stay inside) · 8 article(s) without an in-silo inbound link · hub start-here links 11 (9 inside the silo)
+- Most linked: /articles/riding-50cc-at-16-vietnam/ (13 in-body, 9 cards), /articles/renting-50cc-hanoi/ (12 in-body, 2 cards), /articles/can-foreigners-ride-50cc-vietnam/ (8 in-body, 4 cards), /articles/50cc-tyres-small-wheels-care/ (7 in-body, 1 cards), /articles/helmet-rules-50cc-mopeds/ (6 in-body, 5 cards)
 - Owned keywords: "50cc motorbike rental Hanoi" → /articles/renting-50cc-hanoi/ [full]; "50cc scooter rental Hanoi" (variant) → /articles/renting-50cc-hanoi/ [partial]; "50cc motorbike Vietnam" → /topics/50cc/ [full]; "Used mopeds Vietnam" (variant) → /articles/used-50cc-inspection-checklist/ [partial]
 - Demand served: 2 core keyword(s) (0 weak) · AU 0, UK 0, US 10, VN 50 · top: "50cc motorbike vietnam" vn 50 → /topics/50cc/; "50cc scooter rental vietnam" us 10 → /topics/50cc/
 - SERP questions served: 24 (e.g. What is the youngest age to drive a motorcycle? · Can I rent a 50cc scooter in Vietnam? · 50cc motorbike vietnam licence rules · 50cc motorbike vietnam licence requirements · 50cc motorbike vietnam licence test · 50cc scooter Vietnam)
 - Recommendations (REVIEW_REQUIRED):
-  - **P3 silo-leak**: only 41% of in-body links from this silo stay inside it → review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links
+  - **P3 silo-leak**: only 40% of in-body links from this silo stay inside it → review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links
 - Without in-silo inbound (sample): /articles/50cc-common-problems-first-year/, /articles/50cc-mopeds-vs-50cc-underbones/, /articles/50cc-night-riding-visibility/, /articles/50cc-parking-hanoi/, /articles/50cc-summer-heat-riding-hanoi/, /articles/how-fast-can-a-50cc-motorbike-go/, /articles/riding-50cc-hanoi-traffic/, /articles/who-rides-50cc-motorbikes-vietnam/
 
 ### electric — Electric Motorbikes and E-Bikes (/topics/electric/)
 
 - Articles: 89 (5 commercial, 84 informational) in 9 subclusters: 7.1 understanding-electric 10, 7.2 legal-electric 10, 7.3 riding-charging 14, 7.4 buying-owning 14, 7.5 battery-maintenance 11, 7.6 model-reviews 11, 7.7 comparisons 6, 7.7 comparisons-ecosystem 8, 7.8 gear-safety 5
 - Words: avg 339, min 243 · review: 89 verified, 0 review required · last_reviewed 2026-09-24 → 2026-09-24
-- Links: 148 in-silo in-body, 30 out to other silos, 39 in from other silos (83% stay inside) · 25 article(s) without an in-silo inbound link · hub start-here links 13 (11 inside the silo)
-- Most linked: /articles/electric-motorbike-range-real-world-vietnam/ (14 in-body, 14 cards), /articles/electric-moped-vs-electric-motorcycle-vietnam/ (9 in-body, 8 cards), /articles/electric-motorbike-power-kw-licence-vietnam/ (8 in-body, 8 cards), /articles/can-foreigners-rent-electric-bike-vietnam/ (8 in-body, 2 cards), /articles/electric-motorbike-battery-replacement-vietnam/ (6 in-body, 8 cards)
+- Links: 148 in-silo in-body, 30 out to other silos, 51 in from other silos (83% stay inside) · 25 article(s) without an in-silo inbound link · hub start-here links 13 (11 inside the silo)
+- Most linked: /articles/electric-motorbike-range-real-world-vietnam/ (14 in-body, 14 cards), /articles/electric-motorbike-power-kw-licence-vietnam/ (10 in-body, 9 cards), /articles/electric-moped-vs-electric-motorcycle-vietnam/ (9 in-body, 8 cards), /articles/can-foreigners-rent-electric-bike-vietnam/ (8 in-body, 2 cards), /articles/e-bike-helmet-rules-vietnam/ (6 in-body, 10 cards)
 - Money pages (fewest in-silo inbound first): /articles/best-electric-moped-students-vietnam/ (3 in-silo, 3 total, 3 cards, P3), /articles/buying-first-electric-motorbike-vietnam/ (3 in-silo, 3 total, 7 cards, P3), /articles/buying-used-electric-motorbike-vietnam/ (3 in-silo, 3 total, 6 cards, P3), /articles/can-foreigners-rent-electric-bike-vietnam/ (3 in-silo, 8 total, 2 cards, P3), /articles/electric-motorbike-battery-replacement-vietnam/ (6 in-silo, 6 total, 8 cards, P3)
 - Owned keywords: "Electric motorbike rental Hanoi" → /articles/can-foreigners-rent-electric-bike-vietnam/ [full]; "VinFast electric scooter rental Hanoi" (variant) → /articles/can-foreigners-rent-electric-bike-vietnam/ [partial]; "Electric motorbike Vietnam" → /topics/electric/ [full]; "Honda electric bike Vietnam" (variant) → /articles/vietnam-electric-two-wheeler-market-overview/ [partial]; "What are some new electric bike brands" (variant) → /articles/vietnam-electric-two-wheeler-market-overview/ [weak]; "How much does an electric bike usually cost" (variant) → /articles/cheapest-electric-motorbikes-vietnam-list-prices/ [weak]; "Electric bike rental Hanoi" (variant) → /articles/can-foreigners-rent-electric-bike-vietnam/ [full]
 - Demand served: 4 core keyword(s) (0 weak) · AU 0, UK 0, US 10, VN 130 · top: "electric motorbike vietnam" vn 110 → /topics/electric/; "electric motorbike vietnam price" vn 10 → /articles/cheapest-electric-motorbikes-vietnam-list-prices/; "honda electric bike vietnam" vn 10 → /articles/vietnam-electric-two-wheeler-market-overview/; "vinfast motorbike vietnam" us 10 → /articles/vinfast-electric-scooter-lineup-vietnam/
@@ -181,8 +181,8 @@ A PageRank model (damping 0.85) over in-body links and related cards only, compu
 
 - Articles: 55 (0 commercial, 55 informational) in 3 subclusters: 10.1 riding-skills 18, 10.2 road-conditions 19, 10.3 rider-protection 18
 - Words: avg 325, min 284 · review: 55 verified, 0 review required · last_reviewed 2026-09-22 → 2026-09-22
-- Links: 139 in-silo in-body, 69 out to other silos, 263 in from other silos (67% stay inside) · 16 article(s) without an in-silo inbound link · hub start-here links 14 (13 inside the silo)
-- Most linked: /articles/carrying-luggage-motorbike-safely-vietnam/ (27 in-body, 26 cards), /articles/emergency-braking-motorbike-vietnam/ (24 in-body, 20 cards), /articles/helmet-fit-guide-vietnam/ (23 in-body, 17 cards), /articles/night-riding-motorbike-safety-vietnam/ (22 in-body, 23 cards), /articles/what-to-wear-riding-motorbike-vietnam/ (20 in-body, 19 cards)
+- Links: 139 in-silo in-body, 69 out to other silos, 264 in from other silos (67% stay inside) · 16 article(s) without an in-silo inbound link · hub start-here links 14 (13 inside the silo)
+- Most linked: /articles/carrying-luggage-motorbike-safely-vietnam/ (27 in-body, 26 cards), /articles/emergency-braking-motorbike-vietnam/ (24 in-body, 20 cards), /articles/helmet-fit-guide-vietnam/ (24 in-body, 17 cards), /articles/night-riding-motorbike-safety-vietnam/ (22 in-body, 23 cards), /articles/what-to-wear-riding-motorbike-vietnam/ (20 in-body, 19 cards)
 - Owned keywords: "Hanoi motorcycle routes and safety" → /topics/safety/ [full]
 - Demand served: 0 core keyword(s) (0 weak) · AU 0, UK 0, US 0, VN 0
 - SERP questions served: 1 (e.g. Is it safe to ride a motorbike in vietnam without)
@@ -191,15 +191,15 @@ A PageRank model (damping 0.85) over in-body links and related cards only, compu
 ### law-licences — Vietnam Motorbike Laws and Licences (/topics/law-licences/)
 
 - Articles: 66 (0 commercial, 66 informational) in 4 subclusters: 11.1 licence-system 20, 11.2 foreigners 11, 11.3 traffic-rules 18, 11.4 fines-penalties 17
-- Words: avg 964, min 290 · review: 66 verified, 0 review required · last_reviewed 2026-09-21 → 2026-10-30
-- Links: 274 in-silo in-body, 54 out to other silos, 369 in from other silos (84% stay inside) · 12 article(s) without an in-silo inbound link · hub start-here links 16 (14 inside the silo)
-- Most linked: /articles/a1-licence-vietnam-what-you-can-ride/ (42 in-body, 30 cards), /articles/documents-to-carry-motorbike-vietnam/ (34 in-body, 29 cards), /articles/vietnam-motorbike-licence-classes-explained/ (33 in-body, 18 cards), /articles/no-licence-fine-vietnam/ (30 in-body, 19 cards), /articles/idp-vietnam-motorbike-rules/ (26 in-body, 25 cards)
+- Words: avg 1205, min 290 · review: 66 verified, 0 review required · last_reviewed 2026-09-21 → 2026-10-30
+- Links: 341 in-silo in-body, 76 out to other silos, 381 in from other silos (82% stay inside) · 10 article(s) without an in-silo inbound link · hub start-here links 16 (14 inside the silo)
+- Most linked: /articles/a1-licence-vietnam-what-you-can-ride/ (43 in-body, 30 cards), /articles/documents-to-carry-motorbike-vietnam/ (37 in-body, 29 cards), /articles/vietnam-motorbike-licence-classes-explained/ (34 in-body, 18 cards), /articles/idp-vietnam-motorbike-rules/ (33 in-body, 26 cards), /articles/no-licence-fine-vietnam/ (33 in-body, 19 cards)
 - Owned keywords: "Mopeds Vietnam" → /articles/what-is-a-moped-vietnam-law/ [full]; "Vietnamese moped" (variant) → /articles/what-is-a-moped-vietnam-law/ [full]; "Motorbike licence Vietnam" → /topics/law-licences/ [full]; "Vietnam bike licence" (variant) → /topics/law-licences/ [partial]; "Temporary Vietnamese motorbike licence" (variant) → /articles/motorbike-learner-permit-vietnam/ [partial]; "American licence Vietnam" (variant) → /articles/1968-vienna-convention-idp-vietnam/ [weak]; "1949 IDP Vietnam" (variant) → /articles/which-countries-idp-valid-vietnam/ [partial]; "Vietnam licence for tourists" (variant) → /articles/can-tourists-ride-motorbike-vietnam/ [full]; "Vietnam driving laws" (variant) → /topics/law-licences/ [partial]; "Police checkpoints Vietnam" (variant) → /articles/stopped-by-traffic-police-vietnam/ [partial]; "International licence Vietnam" (variant) → /articles/idp-vietnam-motorbike-rules/ [full]; "50cc motorbike Vietnam licence" (variant) → /articles/50cc-licence-vietnam/ [full]; "A1 licence Vietnam" (variant) → /articles/a1-licence-vietnam-what-you-can-ride/ [full]; "Can tourists ride motorbike in Vietnam" (variant) → /articles/can-tourists-ride-motorbike-vietnam/ [full]; "Vietnam motorbike licence for foreigners" (variant) → /topics/law-licences/ [full]; "International driving permit Vietnam motorbike" (variant) → /articles/idp-vietnam-motorbike-rules/ [full]
 - Demand served: 11 core keyword(s) (0 weak) · AU 0, UK 0, US 1500, VN 10 · top: "mopeds in vietnam" us 320 → /articles/what-is-a-moped-vietnam-law/; "mopeds vietnam" us 320 → /articles/what-is-a-moped-vietnam-law/; "vietnam mopeds" us 320 → /articles/what-is-a-moped-vietnam-law/; "vietnamese moped" us 320 → /articles/what-is-a-moped-vietnam-law/; "motorbike licence vietnam" us 50 → /topics/law-licences/; "motorbike license vietnam" us 50 → /topics/law-licences/; "motorbike vietnam license" us 50 → /topics/law-licences/; "vietnam bike license" us 50 → /topics/law-licences/
 - SERP questions served: 43 (e.g. How to get a motorbike license in Vietnam? · Can foreigners drive motorbikes in Vietnam? · Can a foreigner ride a motorcycle in Vietnam? · Do I need a licence to rent a motorbike in Vietnam? · Do you need a license to rent a motorbike in Vietnam · Do you need a licence for an electric scooter in Vietnam?)
 - Recommendations (REVIEW_REQUIRED):
   - **P3 keyword-cluster**: /articles/what-is-a-moped-vietnam-law/: mixed intent (3 commercial/transactional, 1 informational): keep one primary intent, let the hub carry the rest → review in the keyword universe mapping
-- Without in-silo inbound (sample): /articles/child-passengers-motorbike-vietnam/, /articles/fake-licence-penalties-vietnam/, /articles/how-to-pay-traffic-fine-vietnam/, /articles/lane-splitting-legal-vietnam/, /articles/leaving-accident-scene-vietnam/, /articles/motorbike-bus-lanes-vietnam/, /articles/motorbike-required-equipment-vietnam/, /articles/motorbikes-on-expressway-vietnam/, /articles/overtaking-rules-motorbike-vietnam/, /articles/phone-use-while-riding-vietnam/ … (12)
+- Without in-silo inbound (sample): /articles/child-passengers-motorbike-vietnam/, /articles/fake-licence-penalties-vietnam/, /articles/how-to-pay-traffic-fine-vietnam/, /articles/lane-splitting-legal-vietnam/, /articles/leaving-accident-scene-vietnam/, /articles/motorbike-bus-lanes-vietnam/, /articles/motorbike-required-equipment-vietnam/, /articles/overtaking-rules-motorbike-vietnam/, /articles/phone-use-while-riding-vietnam/, /articles/riding-while-suspended-vietnam/
 
 ### hanoi — Hanoi Travel (/topics/hanoi/)
 
@@ -247,6 +247,7 @@ A PageRank model (damping 0.85) over in-body links and related cards only, compu
 | monthly-rental | law-licences | 56 |
 | rental | monthly-rental | 45 |
 | scooters | rental | 45 |
+| 50cc | law-licences | 40 |
 | motorcycles | maintenance | 35 |
 | parts-gear | rental | 34 |
 | maintenance | safety | 33 |
@@ -254,9 +255,9 @@ A PageRank model (damping 0.85) over in-body links and related cards only, compu
 | maintenance | rental | 30 |
 | scooters | maintenance | 30 |
 | 50cc | maintenance | 29 |
-| 50cc | law-licences | 28 |
 | manual-clutch | motorcycles | 28 |
 | scooters | motorcycles | 27 |
+| law-licences | rental | 26 |
 | scooters | law-licences | 25 |
 | rental | maintenance | 24 |
 | safety | rental | 24 |
@@ -264,7 +265,6 @@ A PageRank model (damping 0.85) over in-body links and related cards only, compu
 | scooters | safety | 23 |
 | motorcycles | rental | 22 |
 | rental | hanoi | 21 |
-| hanoi | safety | 20 |
 
 ## Keyword clusters by serving URL (top 40 by demand)
 
@@ -318,7 +318,7 @@ Same stemmed words, different result pages: the recorded organic results of each
 | Severity | Cluster | Rule | Detail | Action |
 |---|---|---|---|---|
 | P3 | (site) | serp-gap | 22 recorded People-also-ask / related-search question(s) have no serving URL: "What brands are made in Vietnam?", "What bike was called the widowmaker?", "Can you rent to own an ebike?", "What bike was called the widowmaker?", "Which city has the most motorcycles?", "What is the #1 cause of death in Vietnam?", "Is $1000 enough for 2 weeks in Vietnam?", "Where do 70% of motorcycle accidents occur?", "Is $1000 enough for 2 weeks in Vietnam?", "What is the #1 cause of death in Vietnam?", "Mopeds vietnam price", "What does it mean when a motorcyclist taps his helmet twice?", "What is the 12 second rule for motorcycles?", "Is $1000 enough for 2 weeks in Vietnam?", "Vietnam motorcycle Tours 2026", "What is the 12 second rule for motorcycles?", "What does 2 fingers down mean to bikers?", "What are the top 10 most reliable motorcycle brands?", "Vietnam motorcycle Tours 2026", "Vietnam motorcycle Tours price", "What is the 12 second rule for motorcycles?", "What are the most reliable motorbike brands?" | answer only where an owner-approved or verified fact exists; off-topic questions stay unanswered |
-| P3 | 50cc | silo-leak | only 41% of in-body links from this silo stay inside it | review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links |
+| P3 | 50cc | silo-leak | only 40% of in-body links from this silo stay inside it | review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links |
 | P3 | hanoi | silo-leak | only 45% of in-body links from this silo stay inside it | review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links |
 | P3 | law-licences | keyword-cluster | /articles/what-is-a-moped-vietnam-law/: mixed intent (3 commercial/transactional, 1 informational): keep one primary intent, let the hub carry the rest | review in the keyword universe mapping |
 | P3 | manual-clutch | silo-leak | only 44% of in-body links from this silo stay inside it | review whether cross-silo links are intentional pointers (fine) or the silo lacks its own connective links |

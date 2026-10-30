@@ -19,6 +19,7 @@ sources:
   - "docs/OWNER-FACTS.md - Nguyen Tu business fact store (owner-approved): rental prices, deposit, late-return, payment, delivery and maintenance policies"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-12-2025-tt-bca-cua-bo-cong-an-quy-dinh-ve-sat-hach-cap-giay-phep-lai-xe-119250303174347028.htm — Circular 12/2025/TT-BCA of the Ministry of Public Security, full text (Báo điện tử Chính phủ) — Article 24(1): foreigners residing, working or studying in Vietnam may be considered for exchange of a valid national licence with a residence card valid for 3 months or more; IDPs and expired licences are not exchanged (retrieved 2026-10-25)"
   - "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Law on Road Traffic Order and Safety No. 36/2024/QH15, full text (Báo điện tử Chính phủ) — Article 56(1)(a), 56(1)(d) and 56(3): registration certificate (certified copy only for a vehicle mortgaged to a credit institution, with its original confirmation), compulsory insurance certificate, electronic identification account (retrieved 2026-10-25)"
+  - "https://congbao.chinhphu.vn/van-ban/thong-tu-so-108-2026-tt-bca-470055.htm — Circular 108/2026/TT-BCA of the Ministry of Public Security on testing and issuing driving licences, Official Gazette text (signed 29 June 2026, in force 1 July 2026) — Article 24(1)(a): exchange of a foreign licence (read 2026-10-30)"
 internal_link_targets: "best-motorbike-for-students-hanoi, foreign-student-motorbike-licence-vietnam, daily-weekly-monthly-motorbike-rental-hanoi, motorbike-rental-deposit-hanoi, best-motorbike-for-commuting-hanoi, motorbike-rental-expats-moving-hanoi, three-month-motorbike-rental-hanoi, motorbike-rental-monthly-price-hanoi, lending-motorbike-unlicensed-rider-vietnam, minimum-age-ride-motorbike-vietnam"
 ---
 
@@ -79,7 +80,7 @@ Article 57 recognises an international driving permit issued by a Vienna Convent
 
 ### Exchanging once you are resident
 
-Article 24(1) of Circular 12/2025/TT-BCA lets a foreigner who resides, works or studies in Vietnam be considered for exchange of a national licence into the corresponding Vietnamese class, when the licence is still valid and the person holds a diplomatic identity card, a service identity card, or a temporary or permanent residence card valid for three months or more. The first job for a student is to find out which of those papers applies to them, because the exchange cannot start without one.
+Article 24(1)(a) of Circular 108/2026/TT-BCA, which from 1 July 2026 governs exchanges instead of Circular 12/2025/TT-BCA, lets a foreigner who resides, works or studies in Vietnam be considered for exchange of a national licence into the corresponding Vietnamese class, when the licence is still in its term and the person holds a diplomatic identity card, a service identity card, a visa or temporary residence card with 90 days or more left, or a valid permanent residence card. The first job for a student is to find out which of those papers applies to them, because the exchange cannot start without one.
 
 ## Insurance: ask what a student policy covers
 
@@ -139,7 +140,7 @@ Before a weekend leaves the city, tell the shop where you plan to ride: Nguyen T
 
 ### Does my student visa let me ride a motorbike?
 
-No. A visa is not a driving licence, and it is not one of the papers Article 24(1) names for exchanging a licence. What lets you ride is a licence valid for the bike: a Vietnamese licence, a home licence with a valid 1968 IDP, or the licence-free moped class.
+No. A visa is not a driving licence; under Article 24(1)(a) of Circular 108/2026/TT-BCA a visa with 90 days or more left only counts as a residence paper when you exchange a home licence still in its term. What lets you ride is a licence valid for the bike: a Vietnamese licence, a home licence with a valid 1968 IDP, or the licence-free moped class.
 
 ### If I plan to exchange my licence, do I still need an IDP first?
 
