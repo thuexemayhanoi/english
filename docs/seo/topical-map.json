@@ -1,13 +1,13 @@
 {
  "summary": {
-  "generated": "2026-10-28",
+  "generated": "2026-10-30",
   "mode": "ZERO-DATA",
   "clusters": 14,
   "articles": 981,
-  "inSiloBodyLinks": 2789,
-  "crossSiloBodyLinks": 1542,
-  "inSiloShare": 64,
-  "articlesWithoutInSiloInbound": 228,
+  "inSiloBodyLinks": 2869,
+  "crossSiloBodyLinks": 1557,
+  "inSiloShare": 65,
+  "articlesWithoutInSiloInbound": 224,
   "trueSiloOrphans": 0,
   "hubsWithFewerThan3StartHere": 0,
   "demandByMarket": {
@@ -139,7 +139,7 @@
    "links": {
     "inSiloBody": 671,
     "crossSiloOut": 338,
-    "crossSiloIn": 330,
+    "crossSiloIn": 337,
     "inSiloShare": 67,
     "articlesWithoutInSiloInbound": 2,
     "articlesWithoutInSiloInboundSample": [
@@ -219,7 +219,7 @@
     },
     {
      "url": "/articles/best-motorbike-for-two-people-hanoi/",
-     "equityPct": 41,
+     "equityPct": 40,
      "inbound": 10,
      "inSiloInbound": 3,
      "related": 11,
@@ -291,7 +291,7 @@
     },
     {
      "url": "/articles/motorbike-rental-english-teachers-hanoi/",
-     "equityPct": 13,
+     "equityPct": 11,
      "inbound": 4,
      "inSiloInbound": 4,
      "related": 3,
@@ -299,7 +299,7 @@
     },
     {
      "url": "/articles/motorbike-rental-expats-moving-hanoi/",
-     "equityPct": 18,
+     "equityPct": 19,
      "inbound": 5,
      "inSiloInbound": 4,
      "related": 3,
@@ -307,8 +307,8 @@
     },
     {
      "url": "/articles/motorbike-rental-international-students-hanoi/",
-     "equityPct": 23,
-     "inbound": 5,
+     "equityPct": 29,
+     "inbound": 6,
      "inSiloInbound": 4,
      "related": 4,
      "priority": "P3"
@@ -347,7 +347,7 @@
     },
     {
      "url": "/articles/renting-motorbikes-group-hanoi/",
-     "equityPct": 25,
+     "equityPct": 28,
      "inbound": 5,
      "inSiloInbound": 4,
      "related": 1,
@@ -403,7 +403,7 @@
     },
     {
      "url": "/articles/best-motorbike-for-day-trips-from-hanoi/",
-     "equityPct": 81,
+     "equityPct": 80,
      "inbound": 19,
      "inSiloInbound": 12,
      "related": 42,
@@ -411,7 +411,7 @@
     },
     {
      "url": "/articles/automatic-vs-manual-motorbike-hanoi/",
-     "equityPct": 80,
+     "equityPct": 79,
      "inbound": 19,
      "inSiloInbound": 13,
      "related": 27,
@@ -834,7 +834,7 @@
    "links": {
     "inSiloBody": 244,
     "crossSiloOut": 197,
-    "crossSiloIn": 79,
+    "crossSiloIn": 86,
     "inSiloShare": 55,
     "articlesWithoutInSiloInbound": 1,
     "articlesWithoutInSiloInboundSample": [
@@ -873,7 +873,7 @@
    "moneyPages": [
     {
      "url": "/articles/renting-motorbike-year-hanoi/",
-     "equityPct": 23,
+     "equityPct": 20,
      "inbound": 5,
      "inSiloInbound": 2,
      "related": 2,
@@ -881,7 +881,7 @@
     },
     {
      "url": "/articles/e-bike-monthly-rental-hanoi/",
-     "equityPct": 61,
+     "equityPct": 59,
      "inbound": 5,
      "inSiloInbound": 3,
      "related": 3,
@@ -889,7 +889,7 @@
     },
     {
      "url": "/articles/english-teachers-monthly-motorbike-hanoi/",
-     "equityPct": 27,
+     "equityPct": 23,
      "inbound": 4,
      "inSiloInbound": 3,
      "related": 3,
@@ -913,7 +913,7 @@
     },
     {
      "url": "/articles/nomads-monthly-motorbike-hanoi/",
-     "equityPct": 32,
+     "equityPct": 30,
      "inbound": 4,
      "inSiloInbound": 3,
      "related": 2,
@@ -921,10 +921,10 @@
     },
     {
      "url": "/articles/students-semester-motorbike-rental-hanoi/",
-     "equityPct": 16,
-     "inbound": 4,
+     "equityPct": 25,
+     "inbound": 5,
      "inSiloInbound": 3,
-     "related": 3,
+     "related": 4,
      "priority": "P3"
     },
     {
@@ -953,7 +953,7 @@
     },
     {
      "url": "/articles/motorbike-rental-monthly-price-hanoi/",
-     "equityPct": 80,
+     "equityPct": 77,
      "inbound": 18,
      "inSiloInbound": 13,
      "related": 11,
@@ -1034,7 +1034,7 @@
      "cluster": "monthly-rental",
      "severity": "P3",
      "rule": "money-page-equity",
-     "detail": "/articles/students-semester-motorbike-rental-hanoi/ sits at the 16th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "detail": "/articles/renting-motorbike-year-hanoi/ sits at the 20th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
      "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
      "status": "REVIEW_REQUIRED"
     },
@@ -1042,7 +1042,7 @@
      "cluster": "monthly-rental",
      "severity": "P3",
      "rule": "money-page-equity",
-     "detail": "/articles/renting-motorbike-year-hanoi/ sits at the 23th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+     "detail": "/articles/english-teachers-monthly-motorbike-hanoi/ sits at the 23th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
      "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
      "status": "REVIEW_REQUIRED"
     }
@@ -2962,7 +2962,7 @@
    "links": {
     "inSiloBody": 148,
     "crossSiloOut": 30,
-    "crossSiloIn": 38,
+    "crossSiloIn": 39,
     "inSiloShare": 83,
     "articlesWithoutInSiloInbound": 25,
     "articlesWithoutInSiloInboundSample": [
@@ -3042,7 +3042,7 @@
     },
     {
      "url": "/articles/electric-motorbike-battery-replacement-vietnam/",
-     "equityPct": 78,
+     "equityPct": 77,
      "inbound": 6,
      "inSiloInbound": 6,
      "related": 8,
@@ -3507,14 +3507,14 @@
     "11.4 fines-penalties": 17
    },
    "words": {
-    "avg": 660,
+    "avg": 964,
     "min": 290
    },
    "review": {
     "verified": 66,
     "reviewRequired": 0,
     "oldestReview": "2026-09-21",
-    "newestReview": "2026-10-28"
+    "newestReview": "2026-10-30"
    },
    "priorities": {
     "P0": 0,
@@ -3523,22 +3523,22 @@
     "P3": 66
    },
    "links": {
-    "inSiloBody": 194,
-    "crossSiloOut": 39,
+    "inSiloBody": 274,
+    "crossSiloOut": 54,
     "crossSiloIn": 369,
-    "inSiloShare": 83,
-    "articlesWithoutInSiloInbound": 16,
+    "inSiloShare": 84,
+    "articlesWithoutInSiloInbound": 12,
     "articlesWithoutInSiloInboundSample": [
-     "/articles/a1-licence-cost-vietnam/",
      "/articles/child-passengers-motorbike-vietnam/",
-     "/articles/expired-licence-fine-vietnam/",
      "/articles/fake-licence-penalties-vietnam/",
-     "/articles/foreign-student-motorbike-licence-vietnam/",
      "/articles/how-to-pay-traffic-fine-vietnam/",
      "/articles/lane-splitting-legal-vietnam/",
      "/articles/leaving-accident-scene-vietnam/",
      "/articles/motorbike-bus-lanes-vietnam/",
-     "/articles/motorbike-learner-permit-vietnam/"
+     "/articles/motorbike-required-equipment-vietnam/",
+     "/articles/motorbikes-on-expressway-vietnam/",
+     "/articles/overtaking-rules-motorbike-vietnam/",
+     "/articles/phone-use-while-riding-vietnam/"
     ],
     "trueSiloOrphans": 0,
     "trueSiloOrphansList": []
@@ -3546,28 +3546,28 @@
    "topInbound": [
     {
      "url": "/articles/a1-licence-vietnam-what-you-can-ride/",
-     "inbound": 37,
-     "related": 28
+     "inbound": 42,
+     "related": 30
     },
     {
      "url": "/articles/documents-to-carry-motorbike-vietnam/",
-     "inbound": 32,
+     "inbound": 34,
      "related": 29
     },
     {
      "url": "/articles/vietnam-motorbike-licence-classes-explained/",
-     "inbound": 32,
+     "inbound": 33,
      "related": 18
     },
     {
      "url": "/articles/no-licence-fine-vietnam/",
-     "inbound": 24,
+     "inbound": 30,
      "related": 19
     },
     {
-     "url": "/articles/can-tourists-ride-motorbike-vietnam/",
-     "inbound": 23,
-     "related": 31
+     "url": "/articles/idp-vietnam-motorbike-rules/",
+     "inbound": 26,
+     "related": 25
     }
    ],
    "moneyPages": [],
@@ -4531,6 +4531,11 @@
    "links": 20
   },
   {
+   "from": "law-licences",
+   "to": "rental",
+   "links": 19
+  },
+  {
    "from": "50cc",
    "to": "safety",
    "links": 17
@@ -4567,7 +4572,7 @@
   },
   {
    "from": "law-licences",
-   "to": "rental",
+   "to": "monthly-rental",
    "links": 12
   },
   {
@@ -4671,6 +4676,11 @@
    "links": 8
   },
   {
+   "from": "law-licences",
+   "to": "electric",
+   "links": 7
+  },
+  {
    "from": "parts-gear",
    "to": "monthly-rental",
    "links": 7
@@ -4683,11 +4693,6 @@
   {
    "from": "hanoi",
    "to": "maintenance",
-   "links": 6
-  },
-  {
-   "from": "law-licences",
-   "to": "electric",
    "links": 6
   },
   {
@@ -4718,11 +4723,6 @@
   {
    "from": "hanoi",
    "to": "parts-gear",
-   "links": 5
-  },
-  {
-   "from": "law-licences",
-   "to": "monthly-rental",
    "links": 5
   },
   {
@@ -5601,6 +5601,14 @@
    "cluster": "monthly-rental",
    "severity": "P3",
    "rule": "money-page-equity",
+   "detail": "/articles/english-teachers-monthly-motorbike-hanoi/ sits at the 23th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
+   "status": "REVIEW_REQUIRED"
+  },
+  {
+   "cluster": "monthly-rental",
+   "severity": "P3",
+   "rule": "money-page-equity",
    "detail": "/articles/families-monthly-motorbike-hanoi/ sits at the 14th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
    "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
    "status": "REVIEW_REQUIRED"
@@ -5609,15 +5617,7 @@
    "cluster": "monthly-rental",
    "severity": "P3",
    "rule": "money-page-equity",
-   "detail": "/articles/renting-motorbike-year-hanoi/ sits at the 23th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
-   "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
-   "status": "REVIEW_REQUIRED"
-  },
-  {
-   "cluster": "monthly-rental",
-   "severity": "P3",
-   "rule": "money-page-equity",
-   "detail": "/articles/students-semester-motorbike-rental-hanoi/ sits at the 16th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
+   "detail": "/articles/renting-motorbike-year-hanoi/ sits at the 20th percentile of contextual link equity in its silo (PageRank model over in-body links and related cards)",
    "action": "add a contextual link from a well-linked same-silo guide whose topic leads to this page",
    "status": "REVIEW_REQUIRED"
   },

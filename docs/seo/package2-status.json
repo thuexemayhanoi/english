@@ -204,6 +204,27 @@
    "words_after": 22680,
    "qa": "Writer, independent verifier, fixer and delta verifier per article; seo-package2 lint 0 errors (retention 65-88%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate",
    "notes": "Batch 10: the licence, IDP and moped cluster (3,611 -> 22,680 words), each through writer, independent verifier, fixer and delta verifier (1968-vienna-convention: the verifier's own edited copy adopted as the fix round, then delta-verified; small delta findings on idp-rules, moped, 50cc, expat, foreigners-50cc and which-countries applied by the lead). No title, H1, slug, permalink or canonical change. Five descriptions changed with a recorded reason: foreign-licence-exchange (the old one cited Circular 12/2025/TT-BCA and a three-month condition; Circular 108/2026/TT-BCA Article 24(1)(a) asks for a visa or temporary residence card of 90 days or more, or a permanent residence card), a1-licence (\"valid to 175cc\" for \"below 175cc\", Law 36 Article 89(2)(a)), expat (Circular 12/2025 and \"3+ months\"), learner-permit (cited Circular 14/2025/TT-BXD \"since 1 September 2025\" as current and \"requires a licensed training course\"; Circular 17/2026/TT-BXD amends it and Law Article 60(2) allows other forms of training), which-countries (\"Only\" and Article 57(8) as the recognition clause; recognition is 57(6)(b)). Corrections to verified pages: long-term-rider-licence-checklist-hanoi (batch 9) read Circular 108 Article 24(3)(d) as \"issued in 1 day\"; foreign-licence-exchange and idp-rules called exchange optional (Article 18(7)(a): a foreigner who needs to drive and holds a national licence must exchange, unless a treaty provides otherwise); idp-rules stated the 1949 permit point flatly (57(6)(d) names no treaty); links to the no-licence fine guide now say its figures follow the 2024 decree text. Removed or reworded originals, by article. foreign-licence-exchange (6): Circular 12/2025 as current (twice), the three-month residence condition, the old dossier list, the 2024 fine bands, the checkpoint exposure line. a1-licence (2): the summary list (now with the 125 cm3 / 11 kW limits as written) and the 2024 fine bands. idp-rules (4): Article 57(8) as the recognition clause, the 2024 fine band, the old exchange sentence (\"without a new driving test\" under Circular 12/2025), the dated \"Verified against\" line. what-is-a-moped (6): the lead definition (now quoted from Article 34(1)(g)), \"miss one and it is something else\" (the electric and petrol limbs are alternatives), the helmet fine, \"40 km/h wherever it rides\" (Circular 38/2024 Article 7 applies where no sign is posted, Article 4(2)), the 10-14 million band, the tuned-machine sentence. 50cc-licence (5): \"basic vehicle-handling skills\" (Article 56(4): the skill to control the vehicle), the 400,000-600,000 VND fine, the electric limb without the 50 km/h condition, \"helmet rules\" (Article 31(3) also covers motorised pedal bicycles), \"insurance or IDP issues\". 1968-vienna-convention (3): Vietnam's accession date now from the UN record (20 August 2014), the 1977 / non-party sentence (91 parties; China dropped, no row), Article 57(8) as the recognition clause. expat (6): Circular 12/2025, three months (twice), \"no expiry\", the district-of-registration processing claim, \"the exchange does not require the theory test for most valid licences\". foreigners-50cc (3): the legal-position lead (\"basic handling skills\"), \"does not look good in that file\" (unsourced), the fine schedule. learner-permit (2): \"4 practical\" hours (Circular 17/2026: class A 20 + 12), the 2-4 million band. which-countries (4): \"makes its own 1968-format IDPs acceptable\" (Circular 108 Article 30(1)), \"the permit document itself\" check, \"1949 ... not recognised ... only the 1968 format\", the document-carriage fine line. Sources read 2026-10-27/28: Law 36/2024/QH15 consolidated text 55/VBHN-VPQH (Articles 31, 33, 34, 56, 57, 59, 60, 61, 80, 89), Circular 108/2026/TT-BCA (Articles 4, 15, 16, 18(7), 24, 27-30, 41, Appendices I and XII), Circular 38/2024/TT-BGTVT Official Gazette text (Articles 4(2), 7), Circular 17/2026/TT-BXD (training hours; read via the Government document file), Civil Code 91/2015/QH13 Articles 584-585, the Decree 238/2026/NĐ-CP Official Gazette record, the UN Treaty Collection status of the 1968 Convention on Road Traffic (status as at 27 October 2026). Lint-protected original sources kept: the dead UN path on 1968-vienna-convention, Law Articles \"58, 59\" on foreigners-50cc, the Thanh Niên first-issue hours on learner-permit (owner findings).",
+   "commit": "e347773"
+  },
+  {
+   "id": "p2-11",
+   "date": "2026-10-30",
+   "slugs": [
+    "how-to-get-a1-licence-vietnam",
+    "vietnam-a1-licence-test",
+    "vietnam-licence-test-in-english",
+    "foreign-licence-exchange-documents-vietnam",
+    "foreign-student-motorbike-licence-vietnam",
+    "idp-validity-period-vietnam",
+    "non-1968-licence-vietnam",
+    "motorbike-licence-validity-renewal-vietnam",
+    "ride-125cc-with-car-licence-vietnam",
+    "old-licence-classes-after-2025-vietnam"
+   ],
+   "words_before": 3265,
+   "words_after": 23103,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article (local primary texts only); seo-package2 lint 0 errors (retention 60-85%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate",
+   "notes": "Batch 11: the licence follow-up cluster flagged in batch 10 as stating superseded rules (3,265 -> 23,103 words), each through writer, independent verifier, fixer and delta verifier. Writers and verifiers worked from local primary texts only (Circular 108/2026/TT-BCA, Circular 12/2025/TT-BCA, Law 36/2024/QH15 consolidated text, Civil Code lease articles, the UN 1968 Convention status copy); the owner declined paid web tools. No title, H1, slug, permalink or canonical change. Eight descriptions changed with a recorded reason: how-to-get-a1 (\"training at a licensed centre\" as the only route; Law Article 60(2) allows other forms of training), vietnam-a1-licence-test (\"25-question ... 21/25 ... under Circular 12/2025\" as current; Circular 108 Appendix I sets 40 questions in 27 minutes, 36 to pass, from 1 March 2027, and test No. 2 from 1 January 2028), vietnam-licence-test-in-english (\"Vietnamese only, with no English option\" stated absolutely; Circular 108 Article 14 has an interpreter-assisted paper for some A1 candidates and no article states the paper's language), foreign-licence-exchange-documents (cited Circular 12/2025, an application form and a passport; Circular 108 Article 24(2) lists three documents and names no form), foreign-student (Circular 12/2025, \"3+ months\" and dormitory registration; Article 24(1)(a) asks for a visa or temporary residence card of 90 days or more, or a permanent card), non-1968 (riders from non-1968 countries \"cannot ride on home documents\" overstated; treaty routes under Law Article 57(6) and the moped class exist), licence-validity-renewal (\"never expire\" with no exception and no B1; Law Article 57(5) gives A1, A and B1 no term, Article 58(3) bars riding at zero points until restored), ride-125cc (\"needs an A1\"; A and B1 also cover A1 machines). Removed or reworded originals, by article. how-to-get-a1 (7): the short answer (licensed centre, 25 questions), \"up to and including 125 cc ... almost every scooter rented in Hanoi\", the health-check sentence (a centre assembles the dossier), \"Enrol at a training centre licensed by the Ministry of Public Security\", the Circular 14/2025 hours (amended by Circular 17/2026/TT-BXD), the three-month exchange sentence, \"two to four weeks\". vietnam-a1-licence-test (7): the \"điểm liệt\" examples, the practical disqualifying-error list (now from Appendix I), per-attempt fees, \"no limit on attempts\", the memorisation and low-speed failure claims, the dated \"Verified against\" line. vietnam-licence-test-in-english (5): \"no interpreter for the theory paper\", the memorisation sentence, the Circular 12/2025 exchange route, \"exchanges into A1 or A without a Vietnamese theory test\", centres coaching non-Vietnamese speakers. foreign-licence-exchange-documents (4): the Circular 12/2025 lead, the application form item, the translation catch (notary or issuing country; Article 24(2)(a) names a notary in Vietnam or a Vietnamese representative office abroad), \"days rather than weeks\" and the fee schedule. foreign-student (5): the Circular 12/2025 exchange, the three-month and dormitory condition, \"modest fees ... no expiry\", \"the residence record is the licence document\", the shops-insurance-checkpoints line. idp-validity (6): \"no separate clock\" and the Article 57(8) recognition sentence (57(8)(a) caps an IDP at three years and the national licence's validity; recognition is 57(6)(b)), the three-month exchange line, the \"checkpoint-proof\" option, the half-pair fine line. non-1968 (4): the three-month Circular 12/2025 route, the relabelled-permit route claims, the 1949-permit and online-licence sentence, the 2024 Article 18 fine bands. licence-validity-renewal (5): \"no time limit\" in three situations, the integrated-card renewal sentence, voluntary exchange for card formats, the reissue paragraph lead, \"same no-expiry rule once issued\". ride-125cc (4): the 2024 fine-schedule sentence, the three-month exchange line, \"the car licence neither helps nor blocks\" (Circular 108 Article 4(1)(c) waives the theory paper for a car licence in force), the rental-counter line. old-licence-classes (2): \"old A1 covered up to 175 cc keeps practical coverage\" (Law Article 89(3): old A1 becomes A limited to below 175 cm3 or 14 kW), the buyers-and-inheritance paragraph. False originals kept at the retention floor carry an explicit correction beside them (how-to-get-a1 step 4 now names the four Article 4(2)(a) exercises; vietnam-a1-licence-test dates the 25-question figures to the December 2024 portal article). Owner findings: the protected sources entry of vietnam-a1-licence-test labels a December 2024 portal article as Circular 12/2025 Appendix II; expat-motorbike-licence-vietnam and vietnam-a-licence-what-you-can-ride still quote the 25-question paper as current; DONE pages motorbike-rental-international-students-hanoi, expats-monthly-motorbike-hanoi and can-foreigners-rent-a-motorbike-hanoi keep the three-month / Circular 12/2025 exchange rule; expat-motorbike-licence-vietnam says the test is \"conducted in Vietnamese only\".",
    "commit": ""
   }
  ],
@@ -972,6 +993,86 @@
    "words_before": 366,
    "words": 2148,
    "qa": "Writer, independent verifier, fixer and delta verifier per article; seo-package2 lint 0 errors (retention 65-88%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "how-to-get-a1-licence-vietnam": {
+   "status": "DONE",
+   "batch": "p2-11",
+   "date": "2026-10-30",
+   "words_before": 339,
+   "words": 2349,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article (local primary texts only); seo-package2 lint 0 errors (retention 60-85%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "vietnam-a1-licence-test": {
+   "status": "DONE",
+   "batch": "p2-11",
+   "date": "2026-10-30",
+   "words_before": 320,
+   "words": 2336,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article (local primary texts only); seo-package2 lint 0 errors (retention 60-85%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "vietnam-licence-test-in-english": {
+   "status": "DONE",
+   "batch": "p2-11",
+   "date": "2026-10-30",
+   "words_before": 317,
+   "words": 2116,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article (local primary texts only); seo-package2 lint 0 errors (retention 60-85%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "foreign-licence-exchange-documents-vietnam": {
+   "status": "DONE",
+   "batch": "p2-11",
+   "date": "2026-10-30",
+   "words_before": 322,
+   "words": 2208,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article (local primary texts only); seo-package2 lint 0 errors (retention 60-85%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "foreign-student-motorbike-licence-vietnam": {
+   "status": "DONE",
+   "batch": "p2-11",
+   "date": "2026-10-30",
+   "words_before": 301,
+   "words": 2391,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article (local primary texts only); seo-package2 lint 0 errors (retention 60-85%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "idp-validity-period-vietnam": {
+   "status": "DONE",
+   "batch": "p2-11",
+   "date": "2026-10-30",
+   "words_before": 324,
+   "words": 2349,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article (local primary texts only); seo-package2 lint 0 errors (retention 60-85%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "non-1968-licence-vietnam": {
+   "status": "DONE",
+   "batch": "p2-11",
+   "date": "2026-10-30",
+   "words_before": 351,
+   "words": 2305,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article (local primary texts only); seo-package2 lint 0 errors (retention 60-85%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "motorbike-licence-validity-renewal-vietnam": {
+   "status": "DONE",
+   "batch": "p2-11",
+   "date": "2026-10-30",
+   "words_before": 326,
+   "words": 2341,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article (local primary texts only); seo-package2 lint 0 errors (retention 60-85%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "ride-125cc-with-car-licence-vietnam": {
+   "status": "DONE",
+   "batch": "p2-11",
+   "date": "2026-10-30",
+   "words_before": 309,
+   "words": 2352,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article (local primary texts only); seo-package2 lint 0 errors (retention 60-85%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
+  },
+  "old-licence-classes-after-2025-vietnam": {
+   "status": "DONE",
+   "batch": "p2-11",
+   "date": "2026-10-30",
+   "words_before": 356,
+   "words": 2356,
+   "qa": "Writer, independent verifier, fixer and delta verifier per article (local primary texts only); seo-package2 lint 0 errors (retention 60-85%); full QA suite on the batch tree (qa.sh): Jekyll build, frontmatter, duplicate, internal-link, SEO, sitemap, schema, rendered-site audits, engine tests, regression guard, Package 2 gate"
   }
  }
 }
